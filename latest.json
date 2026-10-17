@@ -1,18 +1,18 @@
 {
- "fetched_at": "2026-10-17T15:27:08+00:00",
+ "fetched_at": "2026-10-17T20:29:47+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 171,
+ "visits_30d": 192,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 66,
+     "count": 74,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture \u00b7 a wall of great buildings for architecture students",
-     "max": 5
+     "max": 6
     },
     {
      "count": 9,
@@ -48,6 +48,14 @@
     },
     {
      "count": 2,
+     "path_id": 112296484,
+     "path": "/buildings/supreme-court-of-pakistan",
+     "event": false,
+     "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112249459,
      "path": "/buildings/engel-house-tel-aviv",
      "event": false,
@@ -72,6 +80,14 @@
     },
     {
      "count": 2,
+     "path_id": 112173076,
+     "path": "/buildings/university-of-ruhuna",
+     "event": false,
+     "title": "University of Ruhuna \u2014 Geoffrey Bawa, 1988: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112095271,
      "path": "/buildings/sakaide-artificial-ground",
      "event": false,
@@ -84,6 +100,94 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112563396,
+     "path": "/buildings/faculty-of-architecture-university-of-porto",
+     "event": false,
+     "title": "Faculty of Architecture, University of Porto, 1996: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112560724,
+     "path": "/buildings/hotel-van-eetvelde",
+     "event": false,
+     "title": "H\u00f4tel van Eetvelde \u2014 Victor Horta, 1898",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112560704,
+     "path": "/buildings/claudio-santoro-national-theatre",
+     "event": false,
+     "title": "Claudio Santoro National Theatre \u2014 Oscar Niemeyer, 1966",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112558959,
+     "path": "/buildings/new-world-center",
+     "event": false,
+     "title": "New World Center \u2014 Frank Gehry, 2011",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112557676,
+     "path": "/buildings/maison-la-roche",
+     "event": false,
+     "title": "Maison La Roche \u2014 Le Corbusier, Pierre Jeanneret, 1925: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112547527,
+     "path": "/buildings/nuovo-villaggio-matteotti",
+     "event": false,
+     "title": "Nuovo Villaggio Matteotti \u2014 Giancarlo De Carlo, 1974: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112543195,
+     "path": "/buildings/city-hall-and-central-library-the-hague",
+     "event": false,
+     "title": "City Hall and Central Library, The Hague, 1995",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112542681,
+     "path": "building/independence-arch-accra",
+     "event": true,
+     "title": "Independence Arch",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112542443,
+     "path": "/buildings/st-george-cathedral-addis-ababa",
+     "event": false,
+     "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112539595,
+     "path": "building/tanzbrunnen-cologne",
+     "event": true,
+     "title": "Tanzbrunnen (Star Wave Tent)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112537574,
+     "path": "building/sever-hall",
+     "event": true,
+     "title": "Sever Hall",
      "max": 1
     },
     {
@@ -416,14 +520,6 @@
     },
     {
      "count": 1,
-     "path_id": 112296484,
-     "path": "/buildings/supreme-court-of-pakistan",
-     "event": false,
-     "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
-     "max": 1
-    },
-    {
-     "count": 1,
      "path_id": 112290729,
      "path": "building/pennzoil-place",
      "event": true,
@@ -576,14 +672,6 @@
     },
     {
      "count": 1,
-     "path_id": 112173076,
-     "path": "/buildings/university-of-ruhuna",
-     "event": false,
-     "title": "University of Ruhuna \u2014 Geoffrey Bawa, 1988: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
      "path_id": 112171419,
      "path": "/buildings/marie-short-house",
      "event": false,
@@ -687,20 +775,20 @@
      "max": 1
     }
    ],
-   "total": 171,
+   "total": 192,
    "more": false
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 60,
+     "count": 68,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 51,
+     "count": 60,
      "ref_scheme": "g"
     },
     {
@@ -716,15 +804,15 @@
      "ref_scheme": "c"
     },
     {
-     "id": "YouTube",
-     "name": "YouTube",
-     "count": 5,
+     "id": "reddit",
+     "name": "reddit",
+     "count": 7,
      "ref_scheme": "c"
     },
     {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 4,
+     "id": "YouTube",
+     "name": "YouTube",
+     "count": 5,
      "ref_scheme": "c"
     },
     {
@@ -759,12 +847,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 113
+     "count": 124
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 54
+     "count": 64
     },
     {
      "id": "Firefox",
@@ -779,27 +867,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 60
+     "count": 67
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 46
+     "count": 54
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 25
+     "count": 28
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 21
+     "count": 22
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 19
+     "count": 21
     }
    ],
    "more": false
@@ -809,12 +897,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 59
+     "count": 60
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 50
+     "count": 55
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 12
     },
     {
      "id": "AU",
@@ -822,18 +915,18 @@
      "count": 11
     },
     {
-     "id": "DE",
-     "name": "Germany",
-     "count": 9
+     "id": "GB",
+     "name": "United Kingdom",
+     "count": 7
     },
     {
      "id": "FR",
      "name": "France",
-     "count": 5
+     "count": 6
     },
     {
-     "id": "GB",
-     "name": "United Kingdom",
+     "id": "TR",
+     "name": "Turkey",
      "count": 5
     },
     {
@@ -842,8 +935,8 @@
      "count": 4
     },
     {
-     "id": "TR",
-     "name": "Turkey",
+     "id": "IT",
+     "name": "Italy",
      "count": 4
     },
     {
@@ -857,19 +950,14 @@
      "count": 3
     },
     {
-     "id": "RO",
-     "name": "Romania",
+     "id": "PK",
+     "name": "Pakistan",
      "count": 3
     },
     {
-     "id": "IT",
-     "name": "Italy",
-     "count": 2
-    },
-    {
-     "id": "PK",
-     "name": "Pakistan",
-     "count": 2
+     "id": "RO",
+     "name": "Romania",
+     "count": 3
     },
     {
      "id": "TH",
@@ -882,8 +970,18 @@
      "count": 1
     },
     {
+     "id": "BN",
+     "name": "Brunei",
+     "count": 1
+    },
+    {
      "id": "BR",
      "name": "Brazil",
+     "count": 1
+    },
+    {
+     "id": "CR",
+     "name": "Costa Rica",
      "count": 1
     },
     {
@@ -912,6 +1010,11 @@
      "count": 1
     },
     {
+     "id": "PH",
+     "name": "Philippines",
+     "count": 1
+    },
+    {
      "id": "PT",
      "name": "Portugal",
      "count": 1
@@ -919,6 +1022,16 @@
     {
      "id": "TN",
      "name": "Tunisia",
+     "count": 1
+    },
+    {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 1
+    },
+    {
+     "id": "VN",
+     "name": "Vietnam",
      "count": 1
     }
    ],
@@ -929,17 +1042,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 65
+     "count": 76
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 14
+     "count": 15
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 89
+     "count": 98
     },
     {
      "id": "desktophd",
@@ -959,7 +1072,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 171
+     "count": 192
     }
    ],
    "more": false
