@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-18T15:47:13+00:00",
+ "fetched_at": "2026-10-18T20:33:08+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 227,
+ "visits_30d": 240,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 85,
+     "count": 86,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -39,6 +39,14 @@
      "max": 1
     },
     {
+     "count": 3,
+     "path_id": 112296484,
+     "path": "/buildings/supreme-court-of-pakistan",
+     "event": false,
+     "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
      "count": 2,
      "path_id": 112610074,
      "path": "/buildings/garden-and-house",
@@ -60,14 +68,6 @@
      "path": "/buildings/st-johann-von-capistran",
      "event": false,
      "title": "St. Johann von Capistran \u2014 Sep Ruf, 1960: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112296484,
-     "path": "/buildings/supreme-court-of-pakistan",
-     "event": false,
-     "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
      "max": 1
     },
     {
@@ -104,6 +104,14 @@
     },
     {
      "count": 2,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112095271,
      "path": "/buildings/sakaide-artificial-ground",
      "event": false,
@@ -116,6 +124,86 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112804032,
+     "path": "/buildings/museum-frieder-burda",
+     "event": false,
+     "title": "Museum Frieder Burda \u2014 Richard Meier, 2004: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112798074,
+     "path": "/buildings/manchester-civil-justice-centre",
+     "event": false,
+     "title": "Manchester Civil Justice Centre, 2007",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112797432,
+     "path": "/buildings/casa-rustici",
+     "event": false,
+     "title": "Casa Rustici \u2014 Giuseppe Terragni, Pietro Lingeri, 1935",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112794511,
+     "path": "/buildings/hohenhof",
+     "event": false,
+     "title": "Hohenhof \u2014 Henry van de Velde, 1908: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112793901,
+     "path": "/buildings/zarya-vostoka-building",
+     "event": false,
+     "title": "Zarya Vostoka building \u2014 David Chisliev, 1931: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112774424,
+     "path": "/buildings/gunma-music-center",
+     "event": false,
+     "title": "Gunma Music Center \u2014 Antonin Raymond, 1961: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112766381,
+     "path": "/buildings/hooper-house-ii",
+     "event": false,
+     "title": "Hooper House II \u2014 Marcel Breuer, 1959: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112764601,
+     "path": "/buildings/teatro-oficina",
+     "event": false,
+     "title": "Teatro Oficina \u2014 Lina Bo Bardi and Edson Elito, 1993",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112763444,
+     "path": "/buildings/hospicio-cabanas",
+     "event": false,
+     "title": "Hospicio Caba\u00f1as \u2014 Manuel Tols\u00e1, 1810: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112758830,
+     "path": "/buildings/de-kunstlinie",
+     "event": false,
+     "title": "De Kunstlinie \u2014 SANAA, 2007: photos for a case study",
      "max": 1
     },
     {
@@ -717,97 +805,9 @@
      "event": false,
      "title": "Louvre-Lens \u2014 SANAA, 2012: photos, plans & sections",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112285036,
-     "path": "building/johannesburg-art-gallery",
-     "event": true,
-     "title": "Johannesburg Art Gallery",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112282196,
-     "path": "/buildings/national-centre-for-the-performing-arts",
-     "event": false,
-     "title": "National Centre for the Performing Arts \u2014 Paul Andreu, 2007",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112277521,
-     "path": "/buildings/chand-baori",
-     "event": false,
-     "title": "Chand Baori \u2014 Abhaneri, c. 800: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112276036,
-     "path": "building/lanaras-weekend-house",
-     "event": true,
-     "title": "Lanaras Weekend House",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112275996,
-     "path": "/buildings/lanaras-weekend-house",
-     "event": false,
-     "title": "Lanaras Weekend House \u2014 Nicos Valsamakis, 1963: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112272233,
-     "path": "/buildings/borujerdi-house",
-     "event": false,
-     "title": "Borujerdi House \u2014 Ustad Ali Maryam, 1857: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112219335,
-     "path": "/buildings/yatsushiro-municipal-museum",
-     "event": false,
-     "title": "Yatsushiro Municipal Museum \u2014 Toyo Ito, 1991: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112201440,
-     "path": "/buildings/meiso-no-mori",
-     "event": false,
-     "title": "Meiso no Mori Municipal Funeral Hall \u2014 Toyo Ito, 2006: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112197919,
-     "path": "/buildings/reichstag",
-     "event": false,
-     "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112183571,
-     "path": "/privacy",
-     "event": false,
-     "title": "Privacy Policy \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112176451,
-     "path": "/buildings/arcades-du-lac",
-     "event": false,
-     "title": "Les Arcades du Lac \u2014 Ricardo Bofill, Taller de Arquitectura, 1982: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
     }
    ],
-   "total": 210,
+   "total": 213,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 74,
+     "count": 83,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 73,
+     "count": 76,
      "ref_scheme": "o"
     },
     {
@@ -830,15 +830,15 @@
      "ref_scheme": "c"
     },
     {
-     "id": "reddit",
-     "name": "reddit",
+     "id": "ig",
+     "name": "ig",
      "count": 9,
      "ref_scheme": "c"
     },
     {
-     "id": "ig",
-     "name": "ig",
-     "count": 8,
+     "id": "reddit",
+     "name": "reddit",
+     "count": 9,
      "ref_scheme": "c"
     },
     {
@@ -885,12 +885,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 144
+     "count": 154
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 75
+     "count": 78
     },
     {
      "id": "Firefox",
@@ -905,12 +905,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 87
+     "count": 95
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 60
+     "count": 61
     },
     {
      "id": "Android",
@@ -920,12 +920,12 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 26
+     "count": 28
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 24
+     "count": 26
     }
    ],
    "more": false
@@ -935,17 +935,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 63
+     "count": 64
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 60
+     "count": 64
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 15
+     "count": 16
     },
     {
      "id": "AU",
@@ -963,19 +963,24 @@
      "count": 7
     },
     {
+     "id": "TR",
+     "name": "Turkey",
+     "count": 7
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 6
+    },
+    {
      "id": "FR",
      "name": "France",
      "count": 6
     },
     {
-     "id": "TR",
-     "name": "Turkey",
+     "id": "PT",
+     "name": "Portugal",
      "count": 6
-    },
-    {
-     "id": "CA",
-     "name": "Canada",
-     "count": 5
     },
     {
      "id": "IT",
@@ -985,11 +990,6 @@
     {
      "id": "CH",
      "name": "Switzerland",
-     "count": 4
-    },
-    {
-     "id": "PT",
-     "name": "Portugal",
      "count": 4
     },
     {
@@ -1006,6 +1006,11 @@
      "id": "RO",
      "name": "Romania",
      "count": 3
+    },
+    {
+     "id": "GR",
+     "name": "Greece",
+     "count": 2
     },
     {
      "id": "PH",
@@ -1040,11 +1045,6 @@
     {
      "id": "GH",
      "name": "Ghana",
-     "count": 1
-    },
-    {
-     "id": "GR",
-     "name": "Greece",
      "count": 1
     },
     {
@@ -1093,6 +1093,16 @@
      "count": 1
     },
     {
+     "id": "RS",
+     "name": "Serbia",
+     "count": 1
+    },
+    {
+     "id": "SG",
+     "name": "Singapore",
+     "count": 1
+    },
+    {
      "id": "TN",
      "name": "Tunisia",
      "count": 1
@@ -1120,7 +1130,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 83
+     "count": 84
     },
     {
      "id": "tablet",
@@ -1130,7 +1140,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 124
+     "count": 136
     },
     {
      "id": "desktophd",
@@ -1150,7 +1160,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 227
+     "count": 240
     }
    ],
    "more": false
