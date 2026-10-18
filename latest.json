@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-18T10:55:10+00:00",
+ "fetched_at": "2026-10-18T15:47:13+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 207,
+ "visits_30d": 227,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 81,
+     "count": 85,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -36,6 +36,22 @@
      "path": "/buildings/malaysian-houses-of-parliament",
      "event": false,
      "title": "Malaysian Houses of Parliament \u2014 William Ivor Shipley, 1963",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112610074,
+     "path": "/buildings/garden-and-house",
+     "event": false,
+     "title": "Garden & House \u2014 Ryue Nishizawa, 2011: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112368513,
+     "path": "/buildings/fredensborg-houses",
+     "event": false,
+     "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
      "max": 1
     },
     {
@@ -104,6 +120,118 @@
     },
     {
      "count": 1,
+     "path_id": 112757468,
+     "path": "/buildings/cosmic-rays-pavilion",
+     "event": false,
+     "title": "Cosmic Rays Pavilion, 1951: photos, plans & sections",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112753884,
+     "path": "/buildings/unidad-vecinal-portales",
+     "event": false,
+     "title": "Unidad Vecinal Portales, 1966: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112753079,
+     "path": "building/garden-and-house",
+     "event": true,
+     "title": "Garden & House",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112746558,
+     "path": "building/house-in-white",
+     "event": true,
+     "title": "House in White",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112746486,
+     "path": "/buildings/house-in-white",
+     "event": false,
+     "title": "House in White \u2014 Kazuo Shinohara, 1966: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112736600,
+     "path": "building/schindler-house",
+     "event": true,
+     "title": "Schindler House",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112736376,
+     "path": "/buildings/notre-dame-du-haut",
+     "event": false,
+     "title": "Notre-Dame du Haut \u2014 Le Corbusier, 1955: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112732230,
+     "path": "/buildings/church-of-saint-nicolas-heremence",
+     "event": false,
+     "title": "Church of Saint-Nicolas, H\u00e9r\u00e9mence, 1971: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112719572,
+     "path": "building/bloco-das-aguas-livres",
+     "event": true,
+     "title": "Bloco das \u00c1guas Livres",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112719549,
+     "path": "/buildings/bloco-das-aguas-livres",
+     "event": false,
+     "title": "Bloco das \u00c1guas Livres, 1955: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112704780,
+     "path": "/buildings/national-library-building",
+     "event": false,
+     "title": "National Library Building \u2014 T. R. Hamzah & Yeang, 2005",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112697945,
+     "path": "/buildings/pennzoil-place",
+     "event": false,
+     "title": "Pennzoil Place \u2014 Philip Johnson and John Burgee, 1975",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112696424,
+     "path": "/buildings/manila-city-hall",
+     "event": false,
+     "title": "Manila City Hall \u2014 Antonio M. Toledo, 1941: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112688934,
+     "path": "/buildings/st-davids-hall-cardiff",
+     "event": false,
+     "title": "St David's Hall \u2014 Seymour Harris Partnership, 1982: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
      "path_id": 112672021,
      "path": "/buildings/gando-primary-school",
      "event": false,
@@ -124,14 +252,6 @@
      "path": "/buildings/svalbard-global-seed-vault",
      "event": false,
      "title": "Svalbard Global Seed Vault \u2014 Peter W. Soderman, 2008: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112610074,
-     "path": "/buildings/garden-and-house",
-     "event": false,
-     "title": "Garden & House \u2014 Ryue Nishizawa, 2011: photos",
      "max": 1
     },
     {
@@ -496,14 +616,6 @@
     },
     {
      "count": 1,
-     "path_id": 112368513,
-     "path": "/buildings/fredensborg-houses",
-     "event": false,
-     "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
      "path_id": 112365124,
      "path": "/buildings/taipei-fine-arts-museum",
      "event": false,
@@ -693,135 +805,23 @@
      "event": false,
      "title": "Les Arcades du Lac \u2014 Ricardo Bofill, Taller de Arquitectura, 1982: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112176436,
-     "path": "/buildings/espaces-d-abraxas",
-     "event": false,
-     "title": "Espaces d'Abraxas \u2014 Ricardo Bofill, 1983: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112175031,
-     "path": "/buildings/netherlands-embassy-berlin",
-     "event": false,
-     "title": "Netherlands Embassy, Berlin \u2014 OMA, Rem Koolhaas, 2003: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112173562,
-     "path": "building/ust-main-building",
-     "event": true,
-     "title": "University of Santo Tomas Main Building",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112173526,
-     "path": "/buildings/dudhsagar-dairy",
-     "event": false,
-     "title": "Dudhsagar Dairy \u2014 Achyut Kanvinde, 1970: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112171419,
-     "path": "/buildings/marie-short-house",
-     "event": false,
-     "title": "Marie Short House \u2014 Glenn Murcutt, 1975: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112168513,
-     "path": "/buildings/villa-schreiner",
-     "event": false,
-     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112167833,
-     "path": "building/kuala-lumpur-international-airport",
-     "event": true,
-     "title": "Kuala Lumpur International Airport",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112167823,
-     "path": "building/palacio-do-planalto",
-     "event": true,
-     "title": "Pal\u00e1cio do Planalto",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112164721,
-     "path": "/buildings/margaret-esherick-house",
-     "event": false,
-     "title": "Margaret Esherick House \u2014 Louis Kahn, 1961: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112161388,
-     "path": "/buildings/mmca-seoul",
-     "event": false,
-     "title": "National Museum of Modern and Contemporary Art, Seoul \u2014 mpART Architects (Min Hyun-jun), 2013: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112160373,
-     "path": "/buildings",
-     "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112138138,
-     "path": "/buildings/teatro-colon",
-     "event": false,
-     "title": "Teatro Colon \u2014 Francesco Tamburini, Vittorio Meano, 1908: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112137656,
-     "path": "/buildings/robotics-institute-saint-petersburg",
-     "event": false,
-     "title": "Central Research Institute of Robotics and Technical Cybernetics \u2014 Stanislav Savin, Boris Artyushin, 1987: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112105979,
-     "path": "/buildings/haystack-mountain-school-of-crafts",
-     "event": false,
-     "title": "Haystack Mountain School of Crafts \u2014 Edward Larrabee Barnes, 1961: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
     }
    ],
-   "total": 204,
+   "total": 210,
    "more": true
   },
   "referrers": {
    "stats": [
     {
-     "name": "",
-     "count": 72,
-     "ref_scheme": "o"
-    },
-    {
      "id": "Google",
      "name": "Google",
-     "count": 65,
+     "count": 74,
      "ref_scheme": "g"
+    },
+    {
+     "name": "",
+     "count": 73,
+     "ref_scheme": "o"
     },
     {
      "id": "gads",
@@ -856,7 +856,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 2,
+     "count": 3,
      "ref_scheme": "c"
     },
     {
@@ -885,17 +885,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 136
+     "count": 144
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 67
+     "count": 75
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 4
+     "count": 8
     }
    ],
    "more": false
@@ -905,27 +905,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 76
+     "count": 87
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 57
+     "count": 60
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 29
+     "count": 30
+    },
+    {
+     "id": "macOS",
+     "name": "macOS",
+     "count": 26
     },
     {
      "id": "Linux",
      "name": "Linux",
      "count": 24
-    },
-    {
-     "id": "macOS",
-     "name": "macOS",
-     "count": 21
     }
    ],
    "more": false
@@ -935,7 +935,7 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 62
+     "count": 63
     },
     {
      "id": "US",
@@ -945,7 +945,7 @@
     {
      "id": "DE",
      "name": "Germany",
-     "count": 12
+     "count": 15
     },
     {
      "id": "AU",
@@ -955,6 +955,11 @@
     {
      "id": "GB",
      "name": "United Kingdom",
+     "count": 9
+    },
+    {
+     "id": "ES",
+     "name": "Spain",
      "count": 7
     },
     {
@@ -963,23 +968,28 @@
      "count": 6
     },
     {
+     "id": "TR",
+     "name": "Turkey",
+     "count": 6
+    },
+    {
      "id": "CA",
      "name": "Canada",
      "count": 5
     },
     {
-     "id": "TR",
-     "name": "Turkey",
+     "id": "IT",
+     "name": "Italy",
      "count": 5
     },
     {
-     "id": "ES",
-     "name": "Spain",
+     "id": "CH",
+     "name": "Switzerland",
      "count": 4
     },
     {
-     "id": "IT",
-     "name": "Italy",
+     "id": "PT",
+     "name": "Portugal",
      "count": 4
     },
     {
@@ -996,6 +1006,11 @@
      "id": "RO",
      "name": "Romania",
      "count": 3
+    },
+    {
+     "id": "PH",
+     "name": "Philippines",
+     "count": 2
     },
     {
      "id": "TH",
@@ -1030,6 +1045,11 @@
     {
      "id": "GR",
      "name": "Greece",
+     "count": 1
+    },
+    {
+     "id": "ID",
+     "name": "Indonesia",
      "count": 1
     },
     {
@@ -1073,16 +1093,6 @@
      "count": 1
     },
     {
-     "id": "PH",
-     "name": "Philippines",
-     "count": 1
-    },
-    {
-     "id": "PT",
-     "name": "Portugal",
-     "count": 1
-    },
-    {
      "id": "TN",
      "name": "Tunisia",
      "count": 1
@@ -1110,17 +1120,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 79
+     "count": 83
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 16
+     "count": 17
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 109
+     "count": 124
     },
     {
      "id": "desktophd",
@@ -1140,7 +1150,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 207
+     "count": 227
     }
    ],
    "more": false
