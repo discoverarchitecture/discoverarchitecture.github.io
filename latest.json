@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-17T20:29:47+00:00",
+ "fetched_at": "2026-10-18T10:55:10+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 192,
+ "visits_30d": 207,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 74,
+     "count": 81,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 6
     },
     {
-     "count": 9,
+     "count": 10,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -100,6 +100,62 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112672021,
+     "path": "/buildings/gando-primary-school",
+     "event": false,
+     "title": "Gando Primary School \u2014 Di\u00e9b\u00e9do Francis K\u00e9r\u00e9, 2001",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112651737,
+     "path": "/buildings/kaedi-regional-hospital",
+     "event": false,
+     "title": "Ka\u00e9di Regional Hospital \u2014 Fabrizio Carola, ADAUA, 1989",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112640815,
+     "path": "/buildings/svalbard-global-seed-vault",
+     "event": false,
+     "title": "Svalbard Global Seed Vault \u2014 Peter W. Soderman, 2008: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112610074,
+     "path": "/buildings/garden-and-house",
+     "event": false,
+     "title": "Garden & House \u2014 Ryue Nishizawa, 2011: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112605750,
+     "path": "/buildings/sanskar-kendra",
+     "event": false,
+     "title": "Sanskar Kendra \u2014 Le Corbusier, 1957: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112578341,
+     "path": "/buildings/egyptian-museum-cairo",
+     "event": false,
+     "title": "Egyptian Museum \u2014 Marcel Dourgnon, 1902: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112567705,
+     "path": "/buildings/23-de-enero-superblocks",
+     "event": false,
+     "title": "23 de Enero Superblocks \u2014 Carlos Ra\u00fal Villanueva, 1957",
      "max": 1
     },
     {
@@ -749,46 +805,22 @@
      "event": false,
      "title": "Haystack Mountain School of Crafts \u2014 Edward Larrabee Barnes, 1961: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112104098,
-     "path": "/buildings/casa-ogorman-1929",
-     "event": false,
-     "title": "Casa O'Gorman 1929 (Cecil O'Gorman House) \u2014 Juan O'Gorman, 1929: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112094996,
-     "path": "/buildings/templo-votivo-de-maipu",
-     "event": false,
-     "title": "Votive Temple of Maip\u00fa \u2014 Juan Mart\u00ednez Guti\u00e9rrez, 1974: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112092557,
-     "path": "/buildings/rockefeller-museum",
-     "event": false,
-     "title": "Rockefeller Museum \u2014 Austen Harrison, 1938: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
     }
    ],
-   "total": 192,
-   "more": false
+   "total": 204,
+   "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 68,
+     "count": 72,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 60,
+     "count": 65,
      "ref_scheme": "g"
     },
     {
@@ -798,15 +830,15 @@
      "ref_scheme": "c"
     },
     {
-     "id": "ig",
-     "name": "ig",
-     "count": 8,
+     "id": "reddit",
+     "name": "reddit",
+     "count": 9,
      "ref_scheme": "c"
     },
     {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 7,
+     "id": "ig",
+     "name": "ig",
+     "count": 8,
      "ref_scheme": "c"
     },
     {
@@ -818,7 +850,13 @@
     {
      "id": "youtube`",
      "name": "youtube`",
-     "count": 3,
+     "count": 5,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "chatgpt.com",
+     "name": "chatgpt.com",
+     "count": 2,
      "ref_scheme": "c"
     },
     {
@@ -847,12 +885,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 124
+     "count": 136
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 64
+     "count": 67
     },
     {
      "id": "Firefox",
@@ -867,22 +905,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 67
+     "count": 76
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 54
+     "count": 57
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 28
+     "count": 29
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 22
+     "count": 24
     },
     {
      "id": "macOS",
@@ -897,12 +935,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 60
+     "count": 62
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 55
+     "count": 60
     },
     {
      "id": "DE",
@@ -925,6 +963,11 @@
      "count": 6
     },
     {
+     "id": "CA",
+     "name": "Canada",
+     "count": 5
+    },
+    {
      "id": "TR",
      "name": "Turkey",
      "count": 5
@@ -938,11 +981,6 @@
      "id": "IT",
      "name": "Italy",
      "count": 4
-    },
-    {
-     "id": "CA",
-     "name": "Canada",
-     "count": 3
     },
     {
      "id": "NL",
@@ -985,13 +1023,38 @@
      "count": 1
     },
     {
+     "id": "GH",
+     "name": "Ghana",
+     "count": 1
+    },
+    {
+     "id": "GR",
+     "name": "Greece",
+     "count": 1
+    },
+    {
      "id": "IE",
      "name": "Ireland",
      "count": 1
     },
     {
+     "id": "JP",
+     "name": "Japan",
+     "count": 1
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 1
+    },
+    {
      "id": "MA",
      "name": "Morocco",
+     "count": 1
+    },
+    {
+     "id": "MU",
+     "name": "Mauritius",
      "count": 1
     },
     {
@@ -1033,6 +1096,11 @@
      "id": "VN",
      "name": "Vietnam",
      "count": 1
+    },
+    {
+     "id": "XK",
+     "name": "Kosovo",
+     "count": 1
     }
    ],
    "more": false
@@ -1042,17 +1110,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 76
+     "count": 79
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 15
+     "count": 16
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 98
+     "count": 109
     },
     {
      "id": "desktophd",
@@ -1072,7 +1140,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 192
+     "count": 207
     }
    ],
    "more": false
