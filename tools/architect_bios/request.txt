@@ -1,2 +1,1 @@
-python -u tools/check_overview_links.py --files bios_04.json
-# rerun 1803
+python -u tools/fetch_architect_sources.py --ranks 101-130 --buildings batch_05 --qids "Vilanova Artigas=João Batista Vilanova Artigas"
