@@ -45,19 +45,22 @@
     "site": "Wikipedia",
     "title": "Josep Lluís Sert",
     "url": "https://en.wikipedia.org/wiki/Josep_Lluís_Sert",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Fundació Joan Miró",
     "title": "The building",
     "url": "https://www.fmirobcn.org/en/",
-    "why": "the museum he designed for his friend Miró"
+    "why": "the museum he designed for his friend Miró",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Josep Lluís Sert office page",
     "url": "https://www.archdaily.com/office/josep-lluis-sert",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -101,19 +104,22 @@
     "site": "Wikipedia",
     "title": "Kim Swoo-geun",
     "url": "https://en.wikipedia.org/wiki/Kim_Swoo-geun",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "SPACE Group",
     "title": "Company history",
     "url": "https://www.spacea.com/",
-    "why": "the practice he founded"
+    "why": "the practice he founded",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Kim Swoo-geun tag page",
     "url": "https://www.archdaily.com/tag/kim-swoo-geun",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -164,19 +170,22 @@
     "site": "Wikipedia",
     "title": "Minoru Yamasaki",
     "url": "https://en.wikipedia.org/wiki/Minoru_Yamasaki",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Minoru Yamasaki tag page",
     "url": "https://www.archdaily.com/tag/minoru-yamasaki",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Minoru Yamasaki office page",
     "url": "https://www.archdaily.com/office/minoru-yamasaki",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -224,25 +233,29 @@
     "site": "Wikipedia",
     "title": "Morphosis",
     "url": "https://en.wikipedia.org/wiki/Morphosis_Architects",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2005 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2005",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Morphosis",
     "title": "Projects",
     "url": "https://www.morphosis.com/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Morphosis Architects office page",
     "url": "https://www.archdaily.com/office/morphosis-architects",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -282,19 +295,22 @@
     "site": "Wikipedia",
     "title": "Nikken Sekkei",
     "url": "https://en.wikipedia.org/wiki/Nikken_Sekkei",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Nikken Sekkei",
     "title": "Projects",
     "url": "https://www.nikken.co.jp/en/projects/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Nikken Sekkei office page",
     "url": "https://www.archdaily.com/office/nikken-sekkei",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -330,17 +346,20 @@
    {
     "claim": "General Archive of the Nation designed by Rogelio Salmona (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q2860532",
-    "architect_qid": "Q998392"
+    "architect_qid": "Q998392",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Gabriel García Márquez Cultural Center designed by Rogelio Salmona (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q5761145",
-    "architect_qid": "Q998392"
+    "architect_qid": "Q998392",
+    "check_failed": "architect (P84) on Wikidata: []"
    },
    {
     "claim": "Centro Cultural de Cali designed by Rogelio Salmona (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q16490616",
-    "architect_qid": "Q998392"
+    "architect_qid": "Q998392",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Virgilio Barco Library: water pools outside; part of Simón Bolívar Metropolitan Park; one of seven sites in \"The architectural legacy of Rogelio Salmona\" on Colombia's UNESCO Tentative List",
@@ -352,19 +371,22 @@
     "site": "Wikipedia",
     "title": "Rogelio Salmona",
     "url": "https://en.wikipedia.org/wiki/Rogelio_Salmona",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Fundación Rogelio Salmona",
     "title": "Foundation",
     "url": "https://www.fundacionrogeliosalmona.org/",
-    "why": "the foundation that keeps his archive"
+    "why": "the foundation that keeps his archive",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Rogelio Salmona office page",
     "url": "https://www.archdaily.com/office/rogelio-salmona",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -399,19 +421,22 @@
     "site": "Wikipedia",
     "title": "Sou Fujimoto",
     "url": "https://en.wikipedia.org/wiki/Sou_Fujimoto",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Sou Fujimoto Architects",
     "title": "Works",
     "url": "https://www.sou-fujimoto.net/",
-    "why": "the office's own list of works"
+    "why": "the office's own list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Sou Fujimoto Architects office page",
     "url": "https://www.archdaily.com/office/sou-fujimoto-architects",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -468,25 +493,29 @@
     "site": "Wikipedia",
     "title": "Victor Horta",
     "url": "https://en.wikipedia.org/wiki/Victor_Horta",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "Major Town Houses of the Architect Victor Horta",
     "url": "https://whc.unesco.org/en/list/1005",
-    "why": "the four listed Brussels houses"
+    "why": "the four listed Brussels houses",
+    "checked": "2026-10-19"
    },
    {
     "site": "Horta Museum",
     "title": "Musée Horta",
     "url": "https://www.hortamuseum.be/en",
-    "why": "his own house and studio, now a museum"
+    "why": "his own house and studio, now a museum",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Victor Horta office page",
     "url": "https://www.archdaily.com/office/victor-horta",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -518,7 +547,8 @@
    {
     "claim": "Ken Domon Museum of Photography designed by Yoshio Taniguchi (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q3539675",
-    "architect_qid": "Q1396719"
+    "architect_qid": "Q1396719",
+    "checked": "2026-10-19"
    },
    {
     "claim": "1997: won the MoMA competition over nine architects including Koolhaas, Tschumi, Herzog & de Meuron; first work outside Japan; atrium as \"light garden\"; \"I wanted to direct people visually, not with signs\"",
@@ -534,19 +564,22 @@
     "site": "Wikipedia",
     "title": "Yoshio Taniguchi",
     "url": "https://en.wikipedia.org/wiki/Yoshio_Taniguchi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Taniguchi and Associates office page",
     "url": "https://www.archdaily.com/office/taniguchi-and-associates",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Yoshio Taniguchi tag page",
     "url": "https://www.archdaily.com/tag/yoshio-taniguchi",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -589,19 +622,22 @@
     "site": "Wikipedia",
     "title": "3XN",
     "url": "https://en.wikipedia.org/wiki/3XN",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "3XN",
     "title": "Projects",
     "url": "https://3xn.com/projects",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "3XN office page",
     "url": "https://www.archdaily.com/office/3xn",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -648,19 +684,22 @@
     "site": "Wikipedia",
     "title": "Arthur Erickson",
     "url": "https://en.wikipedia.org/wiki/Arthur_Erickson",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Arthur Erickson Foundation",
     "title": "His work",
     "url": "https://www.arthurerickson.com/",
-    "why": "the foundation that documents his buildings"
+    "why": "the foundation that documents his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Arthur Erickson office page",
     "url": "https://www.archdaily.com/office/arthur-erickson",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -700,7 +739,8 @@
    {
     "claim": "Schocken Library designed by Erich Mendelsohn (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q6756158",
-    "architect_qid": "Q76730"
+    "architect_qid": "Q76730",
+    "checked": "2026-10-19"
    }
   ],
   "overview_links": [
@@ -708,19 +748,22 @@
     "site": "Wikipedia",
     "title": "Erich Mendelsohn",
     "url": "https://en.wikipedia.org/wiki/Erich_Mendelsohn",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "EMA – Erich Mendelsohn Archive",
     "title": "Letters and works",
     "url": "https://ema.smb.museum/en/",
-    "why": "the online archive of his letters and drawings"
+    "why": "the online archive of his letters and drawings",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Erich Mendelsohn office page",
     "url": "https://www.archdaily.com/office/erich-mendelsohn",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -767,19 +810,22 @@
     "site": "Wikipedia",
     "title": "Gio Ponti",
     "url": "https://en.wikipedia.org/wiki/Gio_Ponti",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Gio Ponti Archives",
     "title": "Archive",
     "url": "https://www.gioponti.org/en",
-    "why": "the official archive of his work"
+    "why": "the official archive of his work",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Gio Ponti office page",
     "url": "https://www.archdaily.com/office/gio-ponti",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -815,7 +861,8 @@
    {
     "claim": "Diözesanmuseum Paderborn designed by Gottfried Böhm (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q1363869",
-    "architect_qid": "Q76841"
+    "architect_qid": "Q76841",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Hans Otto Theater, Potsdam (2006); Cologne Central Mosque, completed 2018",
@@ -827,19 +874,22 @@
     "site": "Wikipedia",
     "title": "Gottfried Böhm",
     "url": "https://en.wikipedia.org/wiki/Gottfried_Böhm",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1986 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1986",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Gottfried Böhm office page",
     "url": "https://www.archdaily.com/office/gottfried-bohm",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -883,7 +933,8 @@
    {
     "claim": "Bolgen designed by Henning Larsen Architects (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q1020211",
-    "architect_qid": "Q1377332"
+    "architect_qid": "Q1377332",
+    "check_failed": "architect (P84) on Wikidata: ['Q1339465']"
    }
   ],
   "overview_links": [
@@ -891,19 +942,22 @@
     "site": "Wikipedia",
     "title": "Henning Larsen",
     "url": "https://en.wikipedia.org/wiki/Henning_Larsen",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Henning Larsen",
     "title": "Projects",
     "url": "https://henninglarsen.com/projects",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Henning Larsen office page",
     "url": "https://www.archdaily.com/office/henning-larsen",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -942,25 +996,29 @@
     "site": "Wikipedia",
     "title": "Kiyonori Kikutake",
     "url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Kiyonori Kikutake tag page",
     "url": "https://www.archdaily.com/tag/kiyonori-kikutake",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "National Archives of Modern Architecture, Japan",
     "title": "Kikutake Kiyonori Archive",
     "url": "https://www.bunka.go.jp/nama/global/eng/archivalcollections/kikutake/index.html",
-    "why": "his drawings archive with a list of major works"
+    "why": "his drawings archive with a list of major works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Harvard GSD",
     "title": "Tectonic Visions Between Land & Sea: Works of Kiyonori Kikutake",
     "url": "https://www.gsd.harvard.edu/exhibition/tectonic-visions-between-land-sea-works-of-kiyonori-kikutake/",
-    "why": "his first solo exhibition in North America"
+    "why": "his first solo exhibition in North America",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1011,19 +1069,22 @@
     "site": "Wikipedia",
     "title": "Konstantin Melnikov",
     "url": "https://en.wikipedia.org/wiki/Konstantin_Melnikov",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Melnikov House Museum",
     "title": "State Museum of Architecture",
     "url": "https://melnikovhouse.org/en/",
-    "why": "his house in Moscow, now a museum"
+    "why": "his house in Moscow, now a museum",
+    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Konstantin Melnikov office page",
     "url": "https://www.archdaily.com/office/konstantin-melnikov",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1082,19 +1143,22 @@
     "site": "Wikipedia",
     "title": "Louis Sullivan",
     "url": "https://en.wikipedia.org/wiki/Louis_Sullivan",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Richard Nickel Committee",
     "title": "Louis Sullivan buildings",
     "url": "https://www.richardnickelcommittee.org/",
-    "why": "archive and photographs of his buildings"
+    "why": "archive and photographs of his buildings",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Louis Sullivan office page",
     "url": "https://www.archdaily.com/office/louis-sullivan",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1138,19 +1202,22 @@
     "site": "Wikipedia",
     "title": "Mahendra Raj",
     "url": "https://en.wikipedia.org/wiki/Mahendra_Raj",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Mahendra Raj tag page",
     "url": "https://www.archdaily.com/tag/mahendra-raj",
-    "why": "articles on his structures"
+    "why": "articles on his structures",
+    "checked": "2026-10-19"
    },
    {
     "site": "Kiran Nadar Museum of Art",
     "title": "Structuring Form: The Innovative Rigour of Mahendra Raj",
     "url": "https://knma.in/node/2085",
-    "why": "2019 exhibition of seven of his major projects"
+    "why": "2019 exhibition of seven of his major projects",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1207,19 +1274,22 @@
     "site": "Wikipedia",
     "title": "Michael Wilford",
     "url": "https://en.wikipedia.org/wiki/Michael_Wilford",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Canadian Centre for Architecture",
     "title": "James Stirling/Michael Wilford fonds",
     "url": "https://www.cca.qc.ca/en/archives/380477/james-stirling-michael-wilford-fonds",
-    "why": "the archive of their joint work"
+    "why": "the archive of their joint work",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Michael Wilford office page",
     "url": "https://www.archdaily.com/office/michael-wilford",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1266,19 +1336,22 @@
     "site": "Wikipedia",
     "title": "Nicholas Grimshaw",
     "url": "https://en.wikipedia.org/wiki/Nicholas_Grimshaw",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Grimshaw",
     "title": "Projects",
     "url": "https://grimshaw.global/projects/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Grimshaw office page",
     "url": "https://www.archdaily.com/office/grimshaw",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1315,7 +1388,8 @@
    {
     "claim": "Sant Antoni-Joan Oliver Library: architect RCR Arquitectes (Wikidata P84)",
     "source": "https://www.wikidata.org/wiki/Q85693417",
-    "architect_qid": "Q11701698"
+    "architect_qid": "Q11701698",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Musée Soulages in Rodez designed after winning a 2007 competition",
@@ -1335,25 +1409,29 @@
     "site": "Wikipedia",
     "title": "RCR Arquitectes",
     "url": "https://en.wikipedia.org/wiki/RCR_Arquitectes",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2017 laureates",
     "url": "https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "RCR Arquitectes",
     "title": "Official site",
     "url": "https://www.rcrarquitectes.es/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "RCR Arquitectes office page",
     "url": "https://www.archdaily.com/office/rcr-arquitectes",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1401,19 +1479,22 @@
     "site": "Wikipedia",
     "title": "Ricardo Legorreta",
     "url": "https://en.wikipedia.org/wiki/Ricardo_Legorreta",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Legorreta",
     "title": "Official site",
     "url": "https://legorreta.mx/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Ricardo Legorreta tag page",
     "url": "https://www.archdaily.com/tag/ricardo-legorreta",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1472,19 +1553,22 @@
     "site": "Wikipedia",
     "title": "Richard Neutra",
     "url": "https://en.wikipedia.org/wiki/Richard_Neutra",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Neutra Institute",
     "title": "Official site",
     "url": "https://neutra.org/",
-    "why": "the Neutra Institute for Survival Through Design: life, projects and archive"
+    "why": "the Neutra Institute for Survival Through Design: life, projects and archive",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Richard Neutra tag page",
     "url": "https://www.archdaily.com/tag/richard-neutra",
-    "why": "classics and articles on his houses"
+    "why": "classics and articles on his houses",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1532,19 +1616,22 @@
     "site": "Wikipedia",
     "title": "Ryue Nishizawa",
     "url": "https://en.wikipedia.org/wiki/Ryue_Nishizawa",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2010 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2010",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Ryue Nishizawa tag page",
     "url": "https://www.archdaily.com/tag/ryue-nishizawa",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1596,19 +1683,22 @@
     "site": "Wikipedia",
     "title": "Snøhetta",
     "url": "https://en.wikipedia.org/wiki/Snøhetta_(company)",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Snøhetta",
     "title": "Projects",
     "url": "https://snohetta.com/projects",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Snøhetta office page",
     "url": "https://www.archdaily.com/office/snohetta",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1655,19 +1745,22 @@
     "site": "Wikipedia",
     "title": "Sverre Fehn",
     "url": "https://en.wikipedia.org/wiki/Sverre_Fehn",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1997 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1997",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Sverre Fehn tag page",
     "url": "https://www.archdaily.com/tag/sverre-fehn",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1705,7 +1798,8 @@
    {
     "claim": "Anacleto Angelini Innovation Center: architect Alejandro Aravena (Wikidata P84)",
     "source": "https://www.wikidata.org/wiki/Q88667534",
-    "architect_qid": "Q3609433"
+    "architect_qid": "Q3609433",
+    "checked": "2026-10-19"
    }
   ],
   "overview_links": [
@@ -1713,19 +1807,22 @@
     "site": "Wikipedia",
     "title": "Alejandro Aravena",
     "url": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2016 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2016",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "ELEMENTAL office page",
     "url": "https://www.archdaily.com/office/elemental",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -1765,19 +1862,22 @@
     "site": "Wikipedia",
     "title": "Clorindo Testa",
     "url": "https://en.wikipedia.org/wiki/Clorindo_Testa",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Fundación Clorindo Testa",
     "title": "Official site",
     "url": "https://fundacionclorindotesta.org/",
-    "why": "the foundation's archive of his architecture and art"
+    "why": "the foundation's archive of his architecture and art",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Clorindo Testa tag page",
     "url": "https://www.archdaily.com/tag/clorindo-testa",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1816,19 +1916,22 @@
     "site": "Wikipedia",
     "title": "Denton Corker Marshall",
     "url": "https://en.wikipedia.org/wiki/Denton_Corker_Marshall",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Denton Corker Marshall",
     "title": "Official site",
     "url": "https://www.dentoncorkermarshall.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "check_failed": "status 0"
    },
    {
     "site": "ArchDaily",
     "title": "Denton Corker Marshall office page",
     "url": "https://www.archdaily.com/office/denton-corker-marshall",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
