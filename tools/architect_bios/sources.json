@@ -7778,7 +7778,76 @@
  "Artur Tarkhanyan": {
   "name": "Artur Tarkhanyan",
   "rank": 128,
-  "qid_found_by_search": false
+  "qid_found_by_search": true,
+  "wikidata": {
+   "qid": "Q4452251",
+   "label": "Arthur Tarkhanyan",
+   "description": "Soviet architect (1932-2006)",
+   "instance_of": [
+    "human"
+   ],
+   "born": "1932-02-23",
+   "died": "2006-04-06",
+   "founded": null,
+   "citizenship": [
+    "Soviet Union",
+    "Armenia"
+   ],
+   "country": [],
+   "headquarters": [],
+   "founded_by": [],
+   "awards": [
+    {
+     "award": "Order of the Badge of Honour",
+     "year": "1981-03-19"
+    },
+    {
+     "award": "Medal of Anania Shirakatsi",
+     "year": null
+    },
+    {
+     "award": "VDNKh gold medal",
+     "year": null
+    },
+    {
+     "award": "Lenin Komsomol Prize",
+     "year": "1981"
+    },
+    {
+     "award": "USSR State Prize",
+     "year": "1987"
+    },
+    {
+     "award": "Council of Ministers of the Soviet Union Prize",
+     "year": "1979"
+    },
+    {
+     "award": "Armenian SSR State Prize",
+     "year": "1985"
+    },
+    {
+     "award": "Order of the Red Banner of Labour",
+     "year": "1986-07-09"
+    },
+    {
+     "award": "Honored Architect of the Armenian SSR",
+     "year": "1972-08-17"
+    },
+    {
+     "award": "Q141049819",
+     "year": "1987-10-01"
+    }
+   ],
+   "notable_works": [
+    "Zvartnots International Airport",
+    "Karen Demirchyan Complex",
+    "Youth Palace",
+    "Tsitsernakaberd"
+   ],
+   "website": [],
+   "enwiki": null,
+   "wikidata_url": "https://www.wikidata.org/wiki/Q4452251"
+  }
  },
  "Ashton Raggatt McDougall": {
   "name": "Ashton Raggatt McDougall",
