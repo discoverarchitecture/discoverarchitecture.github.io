@@ -1000,8 +1000,6 @@
     toggleFilters(false);
     if (!quiet) render(true);
   }
-  // Top panel A: the switch stays in the top bar; on a phone it sits on the bar's second row, beside Guess the building?.
-  $('q').closest('.bar-mid').prepend(document.querySelector('.mode'));
 
   // Guess the building? opens a small menu with the two games.
   const playMenu = (open) => { $('playMenu').hidden = !open; $('playBtn').setAttribute('aria-expanded', open); };
@@ -1009,17 +1007,24 @@
   document.addEventListener('click', e => { if (!$('playMenu').hidden && !e.target.closest('#play')) playMenu(false); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('playMenu').hidden) { playMenu(false); $('playBtn').focus(); } });
 
-  // The ideas row slides away while you scroll down and comes back as soon as you scroll up.
+  /* Top panel D (v23): the big name sits in a glass panel above the wall, fading and lifting as it scrolls away.
+     Past it, the same panel comes back as a slim glass bar ("A.", search, filter, day/night, game) with the ideas
+     under it; scrolling down hides both and shrinks the dock to its icons, scrolling up brings them back. */
+  const bar = $('bar'), root = document.documentElement;
+  let heroH = 0;
+  const fitHero = () => { if (!document.body.classList.contains('slim')) { heroH = bar.offsetHeight; root.style.setProperty('--heroH', heroH + 'px'); } };
+  fitHero(); addEventListener('resize', fitHero); if (document.fonts) document.fonts.ready.then(fitHero);
   let lastY = window.scrollY, ticking = false;
-  window.addEventListener('scroll', () => {
-    if (ticking) return; ticking = true;
-    requestAnimationFrame(() => {
-      const y = window.scrollY, d = y - lastY;
-      if (Math.abs(d) > 6) { document.body.classList.toggle('ideas-away', d > 0 && y > 140); lastY = y; }
-      if (y < 140) document.body.classList.remove('ideas-away');
-      ticking = false;
-    });
-  }, { passive: true });
+  const onScroll = () => {
+    const y = window.scrollY, d = y - lastY;
+    if (Math.abs(d) > 6) { document.body.classList.toggle('ideas-away', d > 0 && y > 140); lastY = y; }
+    if (y < 140) document.body.classList.remove('ideas-away');
+    root.style.setProperty('--p', Math.min(1, Math.max(0, y / (heroH || 1))).toFixed(3));
+    document.body.classList.toggle('slim', y > heroH + 10);
+    ticking = false;
+  };
+  window.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, { passive: true });
+  onScroll();
   $('modeBuildings').addEventListener('click', () => setMode('buildings'));
   $('modeBooks').addEventListener('click', () => setMode('books'));
   function clearAll() {

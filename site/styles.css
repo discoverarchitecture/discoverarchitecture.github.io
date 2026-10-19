@@ -19,21 +19,16 @@ a { color: var(--ink); }
 :focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
 
 /* ---------- top bar and ideas ---------- */
-.bar { position: sticky; z-index: 20; top: 0; height: calc(64px + env(safe-area-inset-top, 0px)); display: flex; align-items: center; gap: 20px; padding: env(safe-area-inset-top, 0px) 20px 0;
-  background: var(--ground); }
 .mark .accent { color: var(--red); }
 .mark { font-family: var(--display); font-weight: 900; font-size: 20px; line-height: 0.9; letter-spacing: 0.01em; text-transform: uppercase; color: var(--ink); text-decoration: none; }
-.bar-mid { flex: 1; min-width: 0; display: flex; justify-content: center; gap: 8px; }
 .search { min-width: 0; display: flex; align-items: center; gap: 8px; background: var(--paper); border: 1px solid var(--hair); padding: 0 14px; height: 44px; width: min(460px, 100%); border-radius: var(--r); }
 .search:focus-within { border-color: var(--ink); }
 .search svg { width: 16px; height: 16px; fill: none; stroke: var(--ink); stroke-width: 2; flex: none; }
 .search input { all: unset; flex: 1; min-width: 0; font-size: 15px; }
 .search input::placeholder { color: var(--graphite); }
-.bar-end { display: flex; align-items: center; gap: 12px; }
 .count { font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--graphite); white-space: nowrap; }
 
-.ideas { position: sticky; z-index: 19; top: calc(64px + env(safe-area-inset-top, 0px)); display: flex; gap: 6px; align-items: center;
-  padding: 0 20px 10px; overflow-x: auto; scrollbar-width: none; background: linear-gradient(var(--ground) 75%, transparent); }
+.ideas { display: flex; gap: 6px; align-items: center; overflow-x: auto; scrollbar-width: none; }
 .ideas::-webkit-scrollbar { display: none; }
 .ideas .lead { flex: none; font: 500 11px var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--graphite); padding-right: 6px; }
 .idea { all: unset; flex: none; cursor: pointer; padding: 7px 12px; font-size: 13px; font-weight: 600; border: 1px solid var(--hair); border-radius: var(--r); background: var(--surface); white-space: nowrap; transition: color .15s ease, border-color .15s ease; }
@@ -419,12 +414,7 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 
 /* ---------- smaller screens (phone comes later; keep it usable) ---------- */
 @media (max-width: 820px) {
-  .bar { gap: 10px; padding-left: 12px; padding-right: 12px; }
-  .mark { font-size: 16px; }
   .search input { font-size: 16px; }
-  .bar-end { display: none; }
-  #filterBtn { padding: 0 12px; }
-  .ideas { padding: 0 12px 8px; }
   /* On a phone the opened building fills the screen and the dock floats over it; the text scrolls clear of the dock. */
   .sheet { padding: 0; --dockroom: 0px; }
   .card { grid-template-columns: 1fr; grid-template-rows: 50% 50%; width: 100%; height: 100%; border-radius: 0; }
@@ -493,8 +483,7 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .mode button[aria-pressed="true"] { color: var(--red); border-color: var(--red); }
 .mode button:focus-visible { outline: 3px solid var(--red); outline-offset: -3px; }
 .idea small { font: 400 10px var(--mono); color: var(--graphite); margin-left: 2px; }
-.ideas-list, .mode-slot { display: contents; }
-.mode-slot .mode { margin-right: 6px; }
+.ideas-list { display: contents; }
 #filterBtn[hidden] { display: none; }
 
 /* A book tile: the cover, square-cornered like a photo, with its caption underneath so the cover's own type stays readable. */
@@ -549,22 +538,20 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 #count { display: none; }
 
 /* ---------- top panel A (v13 · 01): Buildings | Books, Guess the building?, ideas that slide away ---------- */
-:root { --barh: calc(64px + env(safe-area-inset-top, 0px)); }
-.ideas { top: var(--barh); transition: transform .22s ease, opacity .22s ease; }
-body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; pointer-events: none; }
-.mode-slot { display: none; }
 /* The chosen half of the switch is filled sunset red, with a thin line between the two halves. */
 .mode { align-items: center; }
 .mode button[aria-pressed="true"] { background: var(--red); color: #fff; border-color: var(--red); }
 @media (hover: hover) { .mode button[aria-pressed="true"]:hover { color: #fff; } }
 .mode-line { width: 1px; height: 20px; background: var(--mute-2); flex: none; }
 #filterCount:not(:empty)::before { content: '· '; }
-#filterBtn .ficon { display: none; width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+#filterBtn .ficon { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
 .play { position: relative; flex: none; }
-.btn.play-btn { border: 1.5px solid var(--ink); background: var(--surface); color: var(--ink); font-weight: 700; padding: 0 12px; gap: 6px; white-space: nowrap; }
-.btn.play-btn[aria-expanded="true"] { border-color: var(--red); color: var(--red); }
-@media (hover: hover) { .btn.play-btn:hover { border-color: var(--red); color: var(--red); } }
-.play-btn .pi { width: 12px; height: 12px; fill: currentColor; flex: none; }
+/* the game button in a light green, the game's own colour for right, so it reads as "play" (v23, 19 Oct) */
+.btn.play-btn { border: 1px solid var(--go-edge); background: var(--go-soft); color: var(--go-ink); font-weight: 700; padding: 0 14px; gap: 7px; white-space: nowrap; }
+.btn.play-btn[aria-expanded="true"] { border-color: var(--green); }
+@media (hover: hover) { .btn.play-btn:hover { background: var(--go-soft-2); border-color: var(--green); color: var(--go-ink); } }
+.play-btn .pi { width: 13px; height: 13px; fill: var(--green); flex: none; }
+:root[data-night] .play-btn .pi { fill: var(--go-ink); }
 .play-btn .chev { width: 12px; height: 12px; fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; flex: none; transition: transform .15s ease; }
 .play-btn[aria-expanded="true"] .chev { transform: rotate(180deg); }
 .play-menu { position: absolute; right: 0; top: calc(100% + 8px); z-index: 30; width: 290px; padding: 6px; background: var(--surface); border: 1px solid var(--hair); border-radius: var(--r-panel); box-shadow: 0 20px 50px rgba(0,0,0,.16); display: flex; flex-direction: column; gap: 2px; }
@@ -577,29 +564,83 @@ body.ideas-away .ideas { transform: translateY(calc(-100% - 12px)); opacity: 0; 
 .play-menu b { font-size: 16px; font-weight: 700; transition: color .15s ease; }
 .play-menu span { font: 500 13px var(--mono); letter-spacing: .02em; color: var(--graphite); }
 
+/* ---------- top panel D (v23 · 01 D, approved 19 Oct): the name, large, on glass above the wall ----------
+   At the top, one glass panel: "Find great / Architecture." with the motto, then search · Filter · day/night ·
+   Guess the building?, then Buildings | Books and the ideas. It fades and lifts as it scrolls away (app.js sets --p).
+   Past it (body.slim) the same panel comes back as a slim glass bar with "A.", and the ideas float under it as glass
+   chips; scrolling down hides both (body.ideas-away), scrolling up brings them back. The map always uses the slim bar. */
+body { padding-top: calc(var(--heroH, 290px) + 20px); }
+.bar { position: absolute; z-index: 20; top: calc(10px + env(safe-area-inset-top, 0px)); left: max(24px, env(safe-area-inset-left, 0px)); right: max(24px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 16px; padding: 26px 28px 20px; border-radius: 24px;
+  background: var(--glass); -webkit-backdrop-filter: blur(22px) saturate(185%); backdrop-filter: blur(22px) saturate(185%); border: 1px solid var(--rim); box-shadow: var(--glass-shadow);
+  opacity: calc(1 - var(--p, 0)); transform: translateY(calc(var(--p, 0) * -36px)) scale(calc(1 - var(--p, 0) * .06)); transform-origin: 50% 0; }
+.bar-row { display: flex; flex-direction: column; gap: 16px; }
+.bar-top { display: flex; justify-content: space-between; align-items: flex-end; gap: 10px; }
+.bar .mark { font-size: clamp(26px, 7vw, 46px); line-height: .9; }
+.bar .mark .accent { font-size: 1.45em; line-height: .84; display: inline-block; }
+.bar .mark .mini { display: none; }
+.motto { margin: 0; max-width: 300px; padding-bottom: .3em; text-align: right; font: italic 500 16px/1.25 var(--sans); color: var(--graphite); text-wrap: balance; }
+.bar-mid { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.bar .search { flex: 1; width: auto; height: 48px; border-radius: 14px; background: var(--field); }
+.bar .search input { font-size: 16px; }
+.bar #filterBtn, .bar .theme-btn, .bar .play-btn { height: 48px; border-radius: 14px; }
+.bar .theme-btn { width: 48px; }
+.bar #filterBtn { background: var(--surface); padding: 0 16px; gap: 8px; font-size: 15px; }
+.bar .play-btn { font-size: 15px; }
+.ideas .lead { display: none; }
+.ideas .mode { flex: none; margin-right: 4px; }
+.mode button { gap: 6px; }
+.mode .mi { width: 16px; height: 16px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+
+/* the slim bar */
+body.slim .bar, body.mapped .bar { position: fixed; opacity: 1; transform: none; padding: 0; gap: 8px; border: 0; border-radius: 0; background: none; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none;
+  left: 50%; right: auto; width: min(1100px, calc(100vw - 48px)); translate: -50% 0; transition: transform .38s cubic-bezier(.2,.8,.2,1); }
+body.slim.ideas-away .bar { transform: translateY(calc(-100% - 28px)); }
+body.slim .bar-row, body.mapped .bar-row { flex-direction: row; align-items: center; gap: 6px; padding: 6px 6px 6px 14px; border-radius: 16px;
+  background: var(--glass); -webkit-backdrop-filter: blur(22px) saturate(185%); backdrop-filter: blur(22px) saturate(185%); border: 1px solid var(--rim); box-shadow: var(--glass-shadow); }
+body.slim .bar-top, body.mapped .bar-top { flex: none; }
+body.slim .motto, body.mapped .motto, body.slim .mark .big, body.mapped .mark .big { display: none; }
+body.slim .mark .mini, body.mapped .mark .mini { display: inline; font-size: 30px; line-height: 1; }
+body.slim .mark .mini .accent, body.mapped .mark .mini .accent { font-size: 1em; }
+body.slim .bar-mid, body.mapped .bar-mid { flex: 1; }
+body.slim .bar .search, body.mapped .bar .search, body.slim .bar #filterBtn, body.mapped .bar #filterBtn, body.slim .bar .theme-btn, body.mapped .bar .theme-btn,
+body.slim .bar .play-btn, body.mapped .bar .play-btn { height: 40px; border-radius: 12px; }
+body.slim .bar .theme-btn, body.mapped .bar .theme-btn { width: 40px; }
+body.slim .ideas .idea, body.mapped .ideas .idea, body.slim .ideas .mode, body.mapped .ideas .mode { background: var(--glass); -webkit-backdrop-filter: blur(16px) saturate(170%); backdrop-filter: blur(16px) saturate(170%); border-color: var(--rim); }
+body.slim .ideas, body.mapped .ideas { padding: 2px 2px 4px; }
+
+/* the dock: glass, a drawing on each button, and it shrinks to its icons while you scroll down */
+.dock { background: var(--glass); border-color: var(--rim); -webkit-backdrop-filter: blur(22px) saturate(185%); backdrop-filter: blur(22px) saturate(185%); border-radius: 18px; transition: padding .3s cubic-bezier(.2,.8,.2,1); }
+.dock button { gap: 7px; border-radius: 13px; transition: color .15s ease, background .15s ease, padding .3s cubic-bezier(.2,.8,.2,1), gap .3s; }
+.dock .dl { display: inline-block; max-width: 120px; overflow: hidden; transition: max-width .3s cubic-bezier(.2,.8,.2,1), opacity .2s; }
+body.ideas-away .dock .dl { max-width: 0; opacity: 0; }
+body.ideas-away .dock button { padding: 0 13px; gap: 0; }
+
 @media (max-width: 820px) {
-  /* Row 1: name, search, filter, day/night. Row 2: Buildings | Books on the left, Guess the building? on the right. Row 3: ideas. */
-  :root { --barh: calc(112px + env(safe-area-inset-top, 0px)); }
-  .bar { display: grid; height: auto; grid-template-columns: auto minmax(0, 1fr) auto auto; grid-template-areas: "mark search filter theme";
-    column-gap: 8px; row-gap: 8px; align-items: center; padding: calc(8px + env(safe-area-inset-top, 0px)) 12px 8px; }
-  .bar-mid, .bar-end { display: contents; }
-  .mark { grid-area: mark; }
-  .bar .search { grid-area: search; width: auto; }
-  #filterBtn { grid-area: filter; width: 44px; padding: 0; justify-content: center; position: relative; }
-  #filterBtn .ficon { display: block; }
-  #filterBtn .flabel { display: none; }
+  .bar { left: max(10px, env(safe-area-inset-left, 0px)); right: max(10px, env(safe-area-inset-right, 0px)); padding: 16px 14px 12px; gap: 12px; }
+  .bar-row { gap: 12px; }
+  .bar-top { flex-direction: column; align-items: stretch; gap: 8px; }
+  .motto { max-width: none; text-align: left; font-size: 13px; padding: 0; }
+  .bar #filterBtn { padding: 0 13px; }
+  .bar #filterBtn .flabel { display: inline; }
+  .bar .play-btn { width: 48px; padding: 0; justify-content: center; }
+  .bar .play-btn span, .bar .play-btn .chev { display: none; }
+  .bar .play-btn .pi { width: 15px; height: 15px; }
   #filterCount { position: absolute; top: -6px; right: -6px; min-width: 18px; height: 18px; padding: 0 4px; border-radius: 9px; background: var(--ink); color: var(--ground); font-size: 11px; line-height: 18px; text-align: center; }
   #filterCount:empty { display: none; }
   #filterCount::before { content: none !important; }
-  /* the second row may overlap the search column: the switch sits left and the game button right, so neither widens row 1 */
-  .bar .mode { grid-row: 2; grid-column: 1 / 3; justify-self: start; height: 44px; }
-  .bar .mode button { height: 36px; padding: 0 12px; font-size: 14px; }
-  .bar:has(#filterBtn[hidden]) .search { grid-column: 2 / 4; }
-  .bar .theme-btn { grid-area: theme; }
-  .play { grid-row: 2; grid-column: 2 / 5; justify-self: end; }
-  .btn.play-btn { padding: 0 9px; gap: 4px; font-size: 13px; letter-spacing: -.01em; }
+  .bar #filterBtn { position: relative; }
+  .ideas .mode button { height: 36px; padding: 0 10px; font-size: 14px; }
   .play-menu { width: min(290px, calc(100vw - 24px)); }
+  body.slim .bar, body.mapped .bar { width: calc(100vw - 20px); }
+  body.slim .bar-row, body.mapped .bar-row { padding: 5px 5px 5px 10px; gap: 5px; }
+  body.slim .bar .search, body.mapped .bar .search { padding: 0 10px; }
+  body.slim .bar #filterBtn .flabel, body.mapped .bar #filterBtn .flabel { display: none; }
+  body.slim .bar #filterBtn, body.mapped .bar #filterBtn { width: 40px; padding: 0; justify-content: center; }
+  body.slim .bar .play-btn, body.mapped .bar .play-btn { width: 40px; }
+  .dock button { padding: 0 12px; }
 }
+
 
 /* "About this wall", after the feed: what the site is and the most looked-up buildings, for readers and search engines. */
 .about-wall { max-width: 72ch; margin: 24px auto 0; padding: 24px 20px calc(110px + env(safe-area-inset-bottom, 0px)); border-top: 1px solid var(--hair); color: var(--graphite); font: 400 13px/1.7 var(--mono); }
