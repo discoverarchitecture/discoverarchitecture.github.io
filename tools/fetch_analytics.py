@@ -20,7 +20,9 @@ SECTIONS = {  # name in latest.json -> endpoint
 
 
 def get(path, attempts=5, timeout=40, waits=(15, 45, 90, 120), **params):
-    """One GoatCounter request. On a reset connection or a busy server it waits (the pause grows) and tries again."""
+    """One GoatCounter request. On a reset connection or a busy server it waits (the pause grows) and tries again.
+    GoatCounter sometimes answers a moment's 404 for a page that exists (stats/total, 18 and 19 Oct 2026), so a 404
+    is tried again too; a path that is really wrong still fails after the last try."""
     url = f'{API}/{path}?' + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={'Authorization': 'Bearer ' + os.environ['GOATCOUNTER_TOKEN'],
                                                'Accept': 'application/json', 'Content-Type': 'application/json', 'User-Agent': 'discoverarchitecture-analytics'})
@@ -30,7 +32,7 @@ def get(path, attempts=5, timeout=40, waits=(15, 45, 90, 120), **params):
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            if e.code in (429, 500, 502, 503, 504) and attempt < attempts - 1:
+            if e.code in (404, 429, 500, 502, 503, 504) and attempt < attempts - 1:
                 time.sleep(min(int(e.headers.get('Retry-After') or pause), 120))
                 continue
             raise SystemExit(f'GoatCounter said {e.code} for {path}: {short(e.read())}')
