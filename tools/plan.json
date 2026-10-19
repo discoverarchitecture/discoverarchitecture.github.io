@@ -27,5 +27,14 @@
   "goal": "Better photos: find Commons Featured, Quality and Valued photos missing from galleries, pilot on the first 300 buildings (Sonnet finds, Opus checks every new main photo by eye)",
   "status": "in progress",
   "note": "Owner chose this over copying roark.archi, whose terms forbid bulk copying; Roark takes its photos from Commons anyway."
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "Data collection",
+  "goal": "Round 9: 500 new buildings today from seven Sonnet chats (German-speaking countries, Spain and Portugal, the Nordic countries, award winners worldwide, USA Midwest and South, Australia and New Zealand, China, Hong Kong and Taiwan), every main photo checked by eye",
+  "target": 500,
+  "metric": "buildings_added",
+  "status": "in progress",
+  "note": "Owner asked for 500 today. Brief adds the stricter main-photo rule, Commons-rated photos first, and a check that the Commons category is the building's own."
  }
 ]
