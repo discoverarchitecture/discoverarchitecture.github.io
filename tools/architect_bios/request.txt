@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 131-160 --buildings batch_06 --qids "Berthold Lubetkin and Tecton=Tecton Group,Mansilla + Tuñón=Mansilla y Tuñón,Kevin Roche John Dinkeloo and Associates=Kevin Roche John Dinkeloo and Associates,J. Mayer H.=J. Mayer H. und Partner"
+python -u tools/check_overview_links.py --files bios_06.json
