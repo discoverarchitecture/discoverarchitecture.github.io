@@ -12,7 +12,7 @@
   chat). Bios 172–190 words. 262 facts, every one with a source (architect articles in `sources.json`, building
   articles in `building_sources/batch_02.json`). Unsourced facts: 0. Links: 100 kept, all checked 19 Oct 2026.
 
-- `results/bios_03.json` (19 Oct 2026), 30 architects, ranks 41–70. Bios 176–190 words. 235 facts, every one with a
+- `results/bios_03.json` (19 Oct 2026), 30 architects, ranks 41–70. Bios 176–190 words. 236 facts, every one with a
   source; 3 of them are building attributions confirmed on Wikidata (architect, P84) by the checker, for buildings
   with no English article. Unsourced facts: 0. Links: 92 kept, all checked 19 Oct 2026.
 
