@@ -127,18 +127,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "AHH",
-    "title": "Official site",
-    "url": "https://www.ahh.nl/",
-    "why": "the office's projects and writings",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Herman Hertzberger tag page",
     "url": "https://www.archdaily.com/tag/herman-hertzberger",
     "why": "projects and articles with photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Floornature",
+    "title": "Herman Hertzberger",
+    "url": "https://www.floornature.com/herman-hertzberger-1/",
+    "why": "a profile of his life and main works"
+   },
+   {
+    "site": "Reading Office",
+    "title": "Herman Hertzberger",
+    "url": "https://readingoffice.com/herman-hertzberger/",
+    "why": "his office buildings, Centraal Beheer above all"
    }
   ],
   "skip": false
@@ -181,18 +186,16 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "ArchDaily",
-    "title": "Hiroshi Hara tag page",
-    "url": "https://www.archdaily.com/tag/hiroshi-hara",
-    "why": "articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "World-Architects",
+    "title": "Hiroshi Hara, 1936–2025",
+    "url": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
+    "why": "an obituary surveying his career and main works"
    },
    {
-    "site": "Hiroshi Hara + Atelier Φ",
-    "title": "Official site",
-    "url": "https://www.hara-atelierphi.com/",
-    "why": "the office's own projects",
-    "check_failed": "status 0, name not found on page"
+    "site": "Archiweb",
+    "title": "Hiroshi Hara",
+    "url": "https://www.archiweb.cz/en/hiroshi-hara",
+    "why": "a list of his buildings with photos"
    }
   ],
   "skip": false
@@ -246,11 +249,10 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "ArchDaily",
-    "title": "Junzo Sakakura tag page",
-    "url": "https://www.archdaily.com/tag/junzo-sakakura",
-    "why": "classics and articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Museum of Modern Art, Kamakura & Hayama",
+    "title": "Junzo Sakakura retrospective (2009)",
+    "url": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
+    "why": "the museum he designed, on his life and work"
    }
   ],
   "skip": false
@@ -578,18 +580,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "New-York Historical Society",
-    "title": "McKim, Mead & White Architectural Records",
-    "url": "https://www.nyhistory.org/library/mckim-mead-white-architectural-records",
-    "why": "the firm's drawings and records",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Architectuul",
     "title": "McKim, Mead & White",
     "url": "https://architectuul.com/architect/mckim-mead-white",
     "why": "a list of the firm's buildings with photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Back Bay Houses",
+    "title": "McKim, Mead and White",
+    "url": "https://backbayhouses.org/mckim-mead-and-white/",
+    "why": "a history of the firm and its partners"
+   },
+   {
+    "site": "Dumbarton Oaks",
+    "title": "McKim, Mead & White",
+    "url": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
+    "why": "a short biography of the firm"
    }
   ],
   "skip": false
@@ -644,18 +651,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Wien Museum",
-    "title": "Otto Wagner",
-    "url": "https://www.wienmuseum.at/en/otto_wagner",
-    "why": "the Vienna city museum's pages on his life and work",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Otto Wagner tag page",
     "url": "https://www.archdaily.com/tag/otto-wagner",
     "why": "classics and articles on his buildings",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Wien Museum",
+    "title": "Otto Wagner",
+    "url": "https://www.wienmuseum.at/otto_wagner_en",
+    "why": "the museum that holds his estate, on his life and work"
+   },
+   {
+    "site": "University of Washington",
+    "title": "Otto Wagner chronology",
+    "url": "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm",
+    "why": "a chronology of his life and buildings"
    }
   ],
   "skip": false
@@ -838,18 +850,22 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Architecture & Design Museum Helsinki",
-    "title": "Raili and Reima Pietilä",
-    "url": "https://www.mfa.fi/en/",
-    "why": "the Finnish architecture museum, which holds their archive",
-    "check_failed": "status 200, name not found on page"
+    "site": "Architectuul",
+    "title": "Raili Pietilä",
+    "url": "https://architectuul.com/architect/raili-pietila",
+    "why": "short biography and a list of her buildings with photos"
    },
    {
-    "site": "ArchDaily",
-    "title": "Reima and Raili Pietilä tag page",
-    "url": "https://www.archdaily.com/tag/reima-pietila",
-    "why": "classics and articles on their buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Metropolis",
+    "title": "Breaking the Modernist Mold",
+    "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+    "why": "an article on the Pietiläs' work and archive"
+   },
+   {
+    "site": "Finnish Architectural Review",
+    "title": "Archives: Raili Pietilä",
+    "url": "https://www.ark.fi/en/2021/02/archives-raili-pietila/",
+    "why": "an article on her archive"
    }
   ],
   "skip": false
@@ -962,18 +978,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "ArchDaily",
-    "title": "Reima Pietilä tag page",
-    "url": "https://www.archdaily.com/tag/reima-pietila",
-    "why": "classics and articles on their buildings",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Architectuul",
     "title": "Reima Pietilä",
     "url": "https://architectuul.com/architect/reima-pietila",
     "why": "short biography and a list of his buildings with photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Breaking the Modernist Mold",
+    "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+    "why": "an article on the Pietiläs' work and archive"
+   },
+   {
+    "site": "UIA",
+    "title": "Reima Pietilä",
+    "url": "https://uia-architectes.org/?p=16461",
+    "why": "a profile from the International Union of Architects"
    }
   ],
   "skip": false
@@ -984,7 +1005,7 @@
   "kind": "person",
   "born_died": "born 1945",
   "country": "Japanese",
-  "bio": "Riken Yamamoto (born 1945) is a Japanese architect who received the Pritzker Prize in 2024. Born in Beijing to Japanese parents, he returned with his family to Japan in 1947 and grew up in Yokohama. He studied at Nihon University and the Tokyo University of the Arts and then under Hiroshi Hara at the University of Tokyo, and in 1973 founded his office, Riken Yamamoto & Field Shop. The Pritzker jury, chaired by Alejandro Aravena, praised the way he blurs \"the boundary between public and private\" to create conditions for community, calling him \"a reassuring architect who brings dignity to everyday life\".\n\nHis most representative works include housing in Yokohama and Tokyo, such as the Rotunda Building (1981) and the Hamlet (1988). Later came university buildings, including Saitama Prefectural University (1999) and Future University Hakodate (2000), where he also designed a research building. The Yokosuka Museum of Art (2007), in a coastal park in Kanagawa, won the Japan Institute of Architects Award. His later works include The Circle at Zurich Airport (2020).",
+  "bio": "Riken Yamamoto (born 1945) is a Japanese architect who received the Pritzker Prize in 2024. Born in Beijing to Japanese parents, he returned with his family to Japan in 1947 and grew up in Yokohama. He studied at Nihon University and the Tokyo University of the Arts and then under Hiroshi Hara at the University of Tokyo, and in 1973 founded his office, Riken Yamamoto & Field Shop. The Pritzker jury, chaired by Alejandro Aravena, praised the way he blurs \"the boundary between public and private\" to create conditions for community, calling him \"a reassuring architect who brings dignity to everyday life\".\n\nHis most representative works include housing in Yokohama and Tokyo, such as the Rotunda Building (1981) and the Hamlet (1988). Later came university work, among it a research building at Future University Hakodate (2000). The Yokosuka Museum of Art (2007), in a coastal park in Kanagawa, won the Japan Institute of Architects Award. His later works include The Circle at Zurich Airport (2020).",
   "facts": [
    {
     "claim": "Born 1945; Japanese architect; 2024 Pritzker Architecture Prize, the 9th Japanese architect to receive it",
@@ -1005,23 +1026,11 @@
    {
     "claim": "Selected works: 2005 Future University Hakodate Research Building; 2007 Yokosuka Museum of Art; 2018 The Circle at Zürich Airport; JIA Award for the Yokosuka Museum of Art (2010)",
     "source": "https://en.wikipedia.org/wiki/Riken_Yamamoto",
-    "note": "the article dates The Circle to 2018; the wall gives 2020"
+    "note": "the article dates the Future University Hakodate research building to 2005 and The Circle to 2018; the wall gives 2000 and 2020"
    },
    {
     "claim": "Yokosuka Museum of Art: opened in Kannonzaki Park, Yokosuka, 2007; architect Riken Yamamoto",
     "source": "https://en.wikipedia.org/wiki/Yokosuka_Museum_of_Art"
-   },
-   {
-    "claim": "Saitama Prefectural University: architect Riken Yamamoto (Wikidata P84)",
-    "source": "https://www.wikidata.org/wiki/Q4802788",
-    "architect_qid": "Q3432036",
-    "check_failed": "architect (P84) on Wikidata: []"
-   },
-   {
-    "claim": "Future University Hakodate: architect Riken Yamamoto (Wikidata P84)",
-    "source": "https://www.wikidata.org/wiki/Q835738",
-    "architect_qid": "Q3432036",
-    "check_failed": "architect (P84) on Wikidata: []"
    }
   ],
   "overview_links": [
@@ -1218,18 +1227,16 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "ArchDaily",
-    "title": "Togo Murano tag page",
-    "url": "https://www.archdaily.com/tag/togo-murano",
-    "why": "classics and articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Sharjah Art Foundation",
+    "title": "Togo Murano",
+    "url": "https://www.sharjahart.org/en/people/details/murano-togo",
+    "why": "a biography and summary of his work"
    },
    {
-    "site": "Architectuul",
-    "title": "Togo Murano",
-    "url": "https://architectuul.com/architect/togo-murano",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "site": "Irenebrination",
+    "title": "A Lesson in Collaboration: Remembering Togo Murano",
+    "url": "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/",
+    "why": "a survey of his career"
    }
   ],
   "skip": false
@@ -1348,18 +1355,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Shukhov Tower Foundation",
-    "title": "Vladimir Shukhov",
-    "url": "https://www.shukhov.ru/",
-    "why": "the foundation's pages on his life and structures",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Vladimir Shukhov tag page",
     "url": "https://www.archdaily.com/tag/vladimir-shukhov",
     "why": "articles on his towers and shells",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Structurae",
+    "title": "Vladimir Shukhov",
+    "url": "https://structurae.net/en/persons/vladimir-shukhov",
+    "why": "a list of his structures"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Vladimir Shukhov",
+    "url": "https://architectuul.com/architect/vladimir-shukhov",
+    "why": "short biography and a list of his works with photos"
    }
   ],
   "skip": false
@@ -1414,25 +1426,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Bauhaus Kooperation",
-    "title": "Walter Gropius",
-    "url": "https://www.bauhauskooperation.com/knowledge/the-bauhaus/people/directors/walter-gropius/",
-    "why": "the Bauhaus institutions' biography and works",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
-    "site": "Historic New England",
-    "title": "Gropius House",
-    "url": "https://www.historicnewengland.org/property/gropius-house/",
-    "why": "his house in Lincoln, now a museum",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Walter Gropius tag page",
     "url": "https://www.archdaily.com/tag/walter-gropius",
     "why": "classics and articles on his buildings",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Bauhaus Kooperation",
+    "title": "Walter Gropius",
+    "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+    "why": "the Bauhaus institutions' biography"
+   },
+   {
+    "site": "Structurae",
+    "title": "Walter Gropius",
+    "url": "https://structurae.net/en/persons/walter-gropius",
+    "why": "a list of his buildings"
    }
   ],
   "skip": false
@@ -1491,18 +1501,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Los Angeles Conservancy",
-    "title": "Welton Becket",
-    "url": "https://www.laconservancy.org/learn/architects/welton-becket/",
-    "why": "his life and buildings in Los Angeles",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Architectuul",
     "title": "Welton Becket",
     "url": "https://architectuul.com/architect/welton-becket",
     "why": "short biography and a list of his buildings with photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Los Angeles Conservancy",
+    "title": "Welton Becket",
+    "url": "https://www.laconservancy.org/architects/welton-becket",
+    "why": "his life and buildings in Los Angeles"
+   },
+   {
+    "site": "Houston Mod",
+    "title": "Welton Becket",
+    "url": "https://houstonmod.org/architect/becket-welton/",
+    "why": "a profile with his firm's Houston buildings"
    }
   ],
   "skip": false
@@ -1608,18 +1623,22 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Architectuul",
+    "site": "Structurae",
     "title": "Achyut Kanvinde",
-    "url": "https://architectuul.com/architect/achyut-kanvinde",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://structurae.net/en/persons/achyut-ap-kanvinde",
+    "why": "a list of his buildings"
    },
    {
-    "site": "ArchDaily",
-    "title": "Achyut Kanvinde tag page",
-    "url": "https://www.archdaily.com/tag/achyut-kanvinde",
-    "why": "articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Greyscape",
+    "title": "Achyut Kanvinde",
+    "url": "https://www.greyscape.com/architects/kanvinde-achyut/",
+    "why": "a profile with his major works"
+   },
+   {
+    "site": "Studio Matrx",
+    "title": "Achyut Kanvinde",
+    "url": "https://www.studiomatrx.org/architects/achyut-kanvinde",
+    "why": "a profile of his life and signature works"
    }
   ],
   "skip": false
@@ -1714,18 +1733,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Architectus",
-    "title": "Official site",
-    "url": "https://architectus.com.au/",
-    "why": "the practice's own projects",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Architectus office page",
     "url": "https://www.archdaily.com/office/architectus",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Architectus",
+    "title": "Official site",
+    "url": "https://www.architectus.com.au/",
+    "why": "the practice's own projects"
    }
   ],
   "skip": false
@@ -1763,13 +1781,6 @@
     "url": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
     "why": "the genocide memorial he co-designed, with its history and design",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Karen Demirchyan Complex",
-    "url": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
-    "why": "his sports and concert complex in Yerevan",
-    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "Wikidata",
@@ -1824,13 +1835,6 @@
     "url": "https://armarchitecture.com.au/",
     "why": "the firm's own projects",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "ARM Architecture office page",
-    "url": "https://www.archdaily.com/office/arm-architecture",
-    "why": "projects with plans and photos",
-    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -1885,11 +1889,16 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "ArchDaily",
-    "title": "Günter Behnisch tag page",
-    "url": "https://www.archdaily.com/tag/gunter-behnisch",
-    "why": "articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Archiweb",
+    "title": "Günter Behnisch",
+    "url": "https://www.archiweb.cz/en/gunter-behnisch",
+    "why": "a list of his buildings with photos"
+   },
+   {
+    "site": "Structurae",
+    "title": "Günter Behnisch",
+    "url": "https://structurae.net/en/persons/gunter-behnisch",
+    "why": "a list of the practice's works"
    }
   ],
   "skip": false
