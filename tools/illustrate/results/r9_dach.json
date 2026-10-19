@@ -542,36 +542,6 @@
   ]
  },
  {
-  "id": "rwe-tower-essen",
-  "name": "RWE Tower (Evonik Tower)",
-  "by": "Ingenhoven Architects",
-  "city": "Essen",
-  "cc": "DE",
-  "year": "1996",
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "concepts": [
-   "Facade as skin",
-   "Steel & glass",
-   "Climate response"
-  ],
-  "features": "Highest building in the Ruhr area, a landmark of the region's change from industry to services.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/RWE_Tower"
-  ],
-  "status": "unsure",
-  "commons_category": "Category:RWE-Turm (Essen)",
-  "photos": [],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "note": "no main photo (lead is dusk; others show the tower far away)",
-  "coords": [
-   51.44806,
-   7.01417
-  ]
- },
- {
   "id": "solarsiedlung-freiburg",
   "name": "Solar Settlement at Schlierberg",
   "by": "Rolf Disch",
@@ -1060,48 +1030,6 @@
   ]
  },
  {
-  "id": "haus-des-lehrers-berlin",
-  "name": "Haus des Lehrers",
-  "by": "Hermann Henselmann",
-  "city": "Berlin",
-  "cc": "DE",
-  "year": "1964",
-  "type": "Office & tower",
-  "movement": "Modernism",
-  "concepts": [
-   "Facade as skin",
-   "Colour",
-   "Public space"
-  ],
-  "features": "GDR tower on Alexanderplatz wrapped by Walter Womacka's mural 'Unser Leben' between floors two and five.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/Haus_des_Lehrers",
-   "https://en.wikipedia.org/wiki/Hermann_Henselmann"
-  ],
-  "status": "photo",
-  "commons_category": "Category:Haus des Lehrers",
-  "photos": [
-   {
-    "file": "File:Berlin - Haus des Lehrers.jpg",
-    "license": "CC BY 2.0",
-    "seen": true
-   },
-   {
-    "file": "File:20220812 Haus des Lehrers.jpg",
-    "license": "CC BY 4.0",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
-  "coords": [
-   52.52136,
-   13.41628
-  ]
- },
- {
   "id": "schaubuehne-berlin",
   "name": "Schaubühne am Lehniner Platz",
   "by": "Erich Mendelsohn",
@@ -1410,42 +1338,6 @@
   "coords": [
    48.31028,
    14.2925
-  ]
- },
- {
-  "id": "dc-towers-vienna",
-  "name": "DC Tower 1",
-  "by": "Dominique Perrault",
-  "city": "Vienna",
-  "cc": "AT",
-  "year": "2013",
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "concepts": [
-   "Facade as skin",
-   "Steel & glass",
-   "Geometry"
-  ],
-  "features": "Austria's tallest skyscraper: a 'monolith broken in the middle', clad in 32,000 m² of solar-protection glass.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/DC_Towers"
-  ],
-  "status": "photo",
-  "commons_category": "Category:DC Tower 1",
-  "photos": [
-   {
-    "file": "File:Wien - DC Towers.JPG",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
-  "coords": [
-   48.23194,
-   16.41278
   ]
  },
  {
@@ -2373,43 +2265,6 @@
   ]
  },
  {
-  "id": "bis-tower-basel",
-  "name": "BIS Tower (BIZ-Hochhaus)",
-  "by": "Martin Burckhardt",
-  "city": "Basel",
-  "cc": "CH",
-  "year": "1977",
-  "type": "Office & tower",
-  "movement": "Brutalism",
-  "concepts": [
-   "Sculptural form",
-   "Facade as skin",
-   "Structure as expression"
-  ],
-  "features": "Rotunda-shaped 69.5 m tower; copper-coloured hyperboloid shell on twelve load-bearing steel columns.",
-  "sources": [
-   "https://en.wikipedia.org/wiki/BIS_Tower"
-  ],
-  "status": "photo",
-  "commons_category": "Category:BIZ Tower",
-  "photos": [
-   {
-    "file": "File:Basel - Bank für Internationalen Zahlungsausgleich-Tower Building (27527280652).jpg",
-    "license": "CC BY 2.0",
-    "seen": true
-   },
-   {
-    "file": "File:BIZ-Tower (2026-08-01).jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "note": "Photos checked by thumbnail. Commons category verified as this building's own."
- },
- {
   "id": "frauenfriedenskirche-frankfurt",
   "name": "Frauenfriedenskirche",
   "by": "Hans Herkommer",
@@ -2617,5 +2472,259 @@
   "view": null,
   "after": null,
   "note": "no main photo (lead is false-colour, the other is a distant view)"
+ },
+ {
+  "id": "olympiastadion-berlin",
+  "name": "Olympiastadion",
+  "by": "Werner March",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1936",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Built 1934–36; the field is sunk 2.65 m and the western end opens to reveal the Bell Tower.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Olympiastadion Berlin",
+  "photos": [
+   {
+    "file": "File:Olympiastadion(Berlin)-2025-09-msu-7767-8371.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Olympiastadion(Berlin)-2025-09-msu-7767-8380.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   52.51472,
+   13.23944
+  ]
+ },
+ {
+  "id": "neue-wache-berlin",
+  "name": "Neue Wache",
+  "by": "Karl Friedrich Schinkel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1818",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Prussian Neoclassical guardhouse with a Doric portico; today a memorial lit by an oculus.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neue_Wache"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Neue Wache",
+  "photos": [
+   {
+    "file": "File:150214 Neue Wache Berlin.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:150419 Neue Wache Berlin-Mitte HDR.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:At Berlin 2024 404.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   52.5175,
+   13.39556
+  ]
+ },
+ {
+  "id": "sanssouci-potsdam",
+  "name": "Sanssouci",
+  "by": "Georg Wenzeslaus von Knobelsdorff",
+  "city": "Potsdam",
+  "cc": "DE",
+  "year": "1747",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Human comfort"
+  ],
+  "features": "A single-storey Rococo villa above a terraced vineyard, built 1745–47 as Frederick the Great's summer retreat.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sanssouci"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Schloss Sanssouci",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (palace is small across the terraces; others are details)",
+  "coords": [
+   52.40326,
+   13.03863
+  ]
+ },
+ {
+  "id": "detlev-rohwedder-haus-berlin",
+  "name": "Detlev-Rohwedder-Haus",
+  "by": "Ernst Sagebiel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Structure as expression"
+  ],
+  "features": "Seven storeys, 2,800 rooms, a reinforced-concrete skeleton faced in limestone and travertine; built 1935–36.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Detlev-Rohwedder-Haus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Detlev-Rohwedder-Haus",
+  "photos": [
+   {
+    "file": "File:Berlin-Detlev-Rohwedder-Haus-Bundesfinanzministerium-02-2023-gje X.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   52.5087,
+   13.384
+  ]
+ },
+ {
+  "id": "koelner-philharmonie",
+  "name": "Kölner Philharmonie",
+  "by": "Busmann + Haberer",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": "1986",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Void",
+   "Cluster"
+  ],
+  "features": "Amphitheatre-style concert hall sunk below the Heinrich-Böll square, part of the Museum Ludwig ensemble.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K%C3%B6lner_Philharmonie"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Philharmonie Köln",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (entrance crops; the hall is underground)",
+  "coords": [
+   50.9406,
+   6.9608
+  ]
+ },
+ {
+  "id": "kunsthauswien",
+  "name": "KunstHausWien",
+  "by": "Friedensreich Hundertwasser",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Planting",
+   "Facade as skin"
+  ],
+  "features": "Wavy, undulating floors, no straight lines and enamelled checkerboard mosaics on the facade.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/KunstHausWien"
+  ],
+  "status": "photo",
+  "commons_category": "Category:KunstHausWien",
+  "photos": [
+   {
+    "file": "File:Main façade of KunstHausWien Museum, by Friedensreich Hundertwasser (Vienna, Austria).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wien - KunstHausWien (a).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   48.21092,
+   16.39339
+  ]
+ },
+ {
+  "id": "museumsquartier-vienna",
+  "name": "MuseumsQuartier",
+  "by": "Laurids and Manfred Ortner (Ortner & Ortner)",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Public space"
+  ],
+  "features": "New museums inserted into the Baroque imperial stables, creating a sequence of courtyards and passages.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/MuseumsQuartier"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:MuseumsQuartier",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (courtyard furniture and street views)",
+  "coords": [
+   48.20333,
+   16.35889
+  ]
  }
 ]
