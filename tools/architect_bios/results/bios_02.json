@@ -1,0 +1,2164 @@
+[
+ {
+  "name": "I. M. Pei",
+  "qid": "Q46868",
+  "kind": "person",
+  "born_died": "1917–2019",
+  "country": "Chinese-American",
+  "bio": "I. M. Pei (1917–2019) was a Chinese-American architect known for buildings of strong, simple geometry in concrete, stone and glass. Born in Guangzhou, he studied at MIT and Harvard, founded I. M. Pei & Associates in 1955 (later Pei Cobb Freed & Partners), and won the Pritzker Prize in 1983.\n\nHis first major recognition came with the Mesa Laboratory (NCAR) near Boulder, Colorado (1967). For the National Gallery of Art, East Building in Washington (1978), he split an awkward trapezoid site into two triangles: one for the public galleries, one for offices and research. The Louvre Pyramid in Paris (1989), a glass-and-metal entrance 21.6 metres high, brings daylight into a new hall below the courtyard and set off years of public debate. The Bank of China Tower in Hong Kong (1990) carries its weight through triangular frames down to four corner columns. Late in life Pei drew on the Chinese traditions that shaped his youth: the Suzhou Museum (2006) uses sloping roofs, white stucco walls and a garden courtyard. I. M. Pei's projects show students how pure geometry can solve a difficult site.",
+  "facts": [
+   {
+    "claim": "April 26, 1917 – May 16, 2019; Chinese-American architect; born in Guangzhou",
+    "source": "https://en.wikipedia.org/wiki/I._M._Pei"
+   },
+   {
+    "claim": "Studied at MIT, then Harvard Graduate School of Design",
+    "source": "https://en.wikipedia.org/wiki/I._M._Pei"
+   },
+   {
+    "claim": "Founded I. M. Pei & Associates in 1955; I. M. Pei & Partners 1966; Pei Cobb Freed & Partners 1989",
+    "source": "https://en.wikipedia.org/wiki/I._M._Pei"
+   },
+   {
+    "claim": "Pritzker Architecture Prize, 1983",
+    "source": "https://www.wikidata.org/wiki/Q46868"
+   },
+   {
+    "claim": "First major recognition: Mesa Laboratory, NCAR, Colorado, designed 1961, completed 1967",
+    "source": "https://en.wikipedia.org/wiki/I._M._Pei"
+   },
+   {
+    "claim": "East Building: trapezoid site; diagram of two triangles, larger for the public gallery, smaller for offices and archives",
+    "source": "https://en.wikipedia.org/wiki/I._M._Pei"
+   },
+   {
+    "claim": "Louvre Pyramid: glass-and-metal entrance and skylight, 21.6 m, completed 1989; light to the visitors hall below; years of aesthetic and political debate",
+    "source": "https://en.wikipedia.org/wiki/Louvre_Pyramid"
+   },
+   {
+    "claim": "Bank of China Tower: triangular frameworks transfer weight to four corner steel columns; Pei designed it fifteen years after 1975",
+    "source": "https://en.wikipedia.org/wiki/Bank_of_China_Tower_(Hong_Kong)"
+   },
+   {
+    "claim": "Suzhou Museum: sloping roofs, black-white-grey palette, white stucco walls, central courtyard garden; drew inspiration as a youth from Suzhou garden villas",
+    "source": "https://en.wikipedia.org/wiki/Suzhou_Museum"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "I. M. Pei",
+    "url": "https://en.wikipedia.org/wiki/I._M._Pei",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1983 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1983",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pei Cobb Freed & Partners",
+    "title": "Practice",
+    "url": "https://www.pcf-p.com/",
+    "why": "the practice he founded, with its project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "I. M. Pei office page",
+    "url": "https://www.archdaily.com/office/i-m-pei",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Tadao Ando",
+  "qid": "Q208220",
+  "kind": "person",
+  "born_died": "born 1941",
+  "country": "Japanese",
+  "bio": "Tadao Ando (born 1941) is a Japanese architect, self-taught and once a boxer, known for smooth cast-in-place concrete, simple geometry and the way he draws light, water and landscape into his buildings. The historian Francesco Dal Co described his work as \"critical regionalism\", and Ando won the Pritzker Prize in 1995.\n\nHis Row House in Sumiyoshi in Osaka (1976) is a small two-storey concrete house with no outside windows, lit instead through a central courtyard crossed by a walkway. The Church of the Light in Ibaraki (1989) lets daylight in through a cross cut into the concrete wall behind the altar, from floor to ceiling and wall to wall. On the island of Naoshima, the Chichu Art Museum (2004) is buried underground yet lights much of its art, including paintings from Monet's Water Lilies series, with daylight alone. The Modern Art Museum of Fort Worth (2002) sets three long pavilions in a reflecting pond. Tadao Ando's projects are studied for how one material, daylight and a careful route through a building can create calm.",
+  "facts": [
+   {
+    "claim": "Born September 13, 1941; Japanese architect; self-taught",
+    "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+   },
+   {
+    "claim": "Worked as a boxer before becoming an architect",
+    "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+   },
+   {
+    "claim": "Mostly constructed with concrete; integration of architecture and landscape",
+    "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+   },
+   {
+    "claim": "Francesco Dal Co described his work as an example of \"critical regionalism\"",
+    "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+   },
+   {
+    "claim": "Pritzker Prize, 1995",
+    "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+   },
+   {
+    "claim": "Row House in Sumiyoshi: small two-storey cast-in-place concrete house, 1976",
+    "source": "https://en.wikipedia.org/wiki/Tadao_Ando"
+   },
+   {
+    "claim": "Row House: no exterior windows; interior courtyard with cross walkway",
+    "source": "https://en.wikipedia.org/wiki/Row_House_in_Sumiyoshi"
+   },
+   {
+    "claim": "Church of the Light (1989): light enters from a cross cut in the concrete wall behind the altar, floor to ceiling and wall to wall",
+    "source": "https://en.wikipedia.org/wiki/Church_of_the_Light"
+   },
+   {
+    "claim": "Chichu Art Museum: underground, natural light alone illuminates exhibits; Monet Water Lilies works",
+    "source": "https://en.wikipedia.org/wiki/Chichu_Art_Museum"
+   },
+   {
+    "claim": "Modern Art Museum of Fort Worth, opened 2002: three long pavilions set into a reflecting pond",
+    "source": "https://en.wikipedia.org/wiki/Modern_Art_Museum_of_Fort_Worth"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Tadao Ando",
+    "url": "https://en.wikipedia.org/wiki/Tadao_Ando",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1995 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1995",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Tadao Ando Architect & Associates office page",
+    "url": "https://www.archdaily.com/office/tadao-ando-architect-and-associates",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Santiago Calatrava",
+  "qid": "Q168482",
+  "kind": "person",
+  "born_died": "born 1951",
+  "country": "Spanish-Swiss",
+  "bio": "Santiago Calatrava (born 1951) is a Spanish-Swiss architect, structural engineer, sculptor and painter, known for bridges held by a single leaning pylon and for stations, museums and concert halls whose forms often recall living creatures. He studied architecture in Valencia and civil engineering at ETH Zurich, where he earned a doctorate in 1981.\n\nThe Alamillo Bridge in Seville (1992), built for Expo 92, hangs its deck from one pylon 142 metres high, leaning at 58 degrees, and made his name. Gare do Oriente in Lisbon (1998), built for that year's World Exposition, raises its platforms 19 metres above the road under a lattice of glass and metal. The Milwaukee Art Museum, Quadracci Pavilion (2001) adds a glass entrance hall to Eero Saarinen's earlier building, with a sun screen of moving steel wings. The Turning Torso in Malmö (2005) was his first skyscraper and the first twisting tower. In Valencia, his City of Arts and Sciences (1998) includes L'Hemisfèric, a half-sunk globe whose screen opens and closes like an eye. Santiago Calatrava's projects are studied for how engineering and sculpture can become one structure.",
+  "facts": [
+   {
+    "claim": "Studied at the Higher School of Architecture, Polytechnic University of Valencia",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Born 28 July 1951 in Benimàmet, now part of Valencia; Spanish-Swiss architect, structural engineer, sculptor and painter",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Known for bridges supported by single leaning pylons and stations, stadiums and museums whose forms resemble living organisms",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Second degree in civil engineering at ETH Zurich from 1975; doctorate 1981",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Alamillo Bridge (1987–1992), Seville, Expo 92; single pylon 142 m high leaning 58 degrees; \"cemented his reputation\"",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Gare do Oriente, built for the 1998 Lisbon World Exposition",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Gare do Oriente: covered in a lattice structure of glass and metal, raised 19 m over the roadway",
+    "source": "https://en.wikipedia.org/wiki/Gare_do_Oriente"
+   },
+   {
+    "claim": "Milwaukee Art Museum addition to Eero Saarinen's 1957 building; entry hall with moveable sun screen roof of two large wings",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "Turning Torso: Calatrava's first skyscraper and the first twisting skyscraper",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   },
+   {
+    "claim": "L'Hemisfèric like a half-sunken globe; the entrance opens like a human eye",
+    "source": "https://en.wikipedia.org/wiki/Santiago_Calatrava"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Santiago Calatrava",
+    "url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Santiago Calatrava",
+    "title": "Projects",
+    "url": "https://calatrava.com/projects.html",
+    "why": "the architect's own list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Santiago Calatrava office page",
+    "url": "https://www.archdaily.com/office/santiago-calatrava",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Arata Isozaki",
+  "qid": "Q317135",
+  "kind": "person",
+  "born_died": "1931–2022",
+  "country": "Japanese",
+  "bio": "Arata Isozaki (1931–2022) was a Japanese architect and theorist who refused to keep to one style, treating each design as an answer to its context. As a boy he saw Hiroshima destroyed across the water, and he later said his first experience of architecture was its absence. He trained and worked under Kenzō Tange, opened his own office in 1963, and won the Royal Gold Medal in 1986 and the Pritzker Prize in 2019.\n\nReyner Banham saw his early work as a mix of New Brutalism and Metabolism, although Isozaki had declined to sign the Metabolist manifesto of 1960. The Gunma Museum of Modern Art (1974) comes from these years. The Museum of Contemporary Art, Los Angeles (1986) became his best-known work in the United States. The Palau Sant Jordi in Barcelona (1990) was a main indoor venue of the 1992 Olympics, and the Team Disney Building in Florida (1991) holds what was then the largest sundial. At the Qatar National Convention Centre in Doha (2011), the front columns stand for the Sidra tree of Islamic tradition. Arata Isozaki's buildings show one architect changing approach from site to site.",
+  "facts": [
+   {
+    "claim": "23 July 1931 – 28 December 2022; Japanese architect, urban designer and theorist from Ōita",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Described as refusing to be stuck in one style; each design \"a specific solution born out of the project's context\"",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Witnessed the destruction of Hiroshima in 1945 across from his hometown; \"my first experience of architecture was the void of architecture\"",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Student of Kenzo Tange 1952–54, then assistant and collaborator; own firm 1963",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Royal Gold Medal 1986; Pritzker Prize 2019",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Banham: early style mixed \"New Brutalism\" and \"Metabolist Architecture\"; declined to contribute to the 1960 Metabolism manifesto",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Gunma Museum of Modern Art, 1974",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "MOCA Los Angeles, completed 1986, his best-known work in the U.S.",
+    "source": "https://en.wikipedia.org/wiki/Arata_Isozaki"
+   },
+   {
+    "claim": "Palau Sant Jordi, one of the main venues of the 1992 Summer Olympics",
+    "source": "https://en.wikipedia.org/wiki/Palau_Sant_Jordi"
+   },
+   {
+    "claim": "Team Disney building sundial, the largest in the world at the time",
+    "source": "https://en.wikipedia.org/wiki/Team_Disney_Orlando"
+   },
+   {
+    "claim": "QNCC front columns symbolise the Sidrat al-Muntaha tree",
+    "source": "https://en.wikipedia.org/wiki/Qatar_National_Convention_Centre"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Arata Isozaki",
+    "url": "https://en.wikipedia.org/wiki/Arata_Isozaki",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2019 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+    "why": "jury citation and biography",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Arata Isozaki & Associates",
+    "title": "Works",
+    "url": "https://www.isozaki.co.jp/",
+    "why": "the office's own list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Arata Isozaki office page",
+    "url": "https://www.archdaily.com/office/arata-isozaki",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Frank Lloyd Wright",
+  "qid": "Q5604",
+  "kind": "person",
+  "born_died": "1867–1959",
+  "country": "American",
+  "bio": "Frank Lloyd Wright (1867–1959) was an American architect, designer and writer who designed more than 1,000 structures over 70 years. He called his approach \"organic architecture\", design in harmony with people and the land. He pioneered the Prairie School, later developed the Usonian home, and trained hundreds of apprentices in his Taliesin Fellowship. In 2019, eight of his buildings were listed together as a UNESCO World Heritage Site.\n\nUnity Temple in Oak Park (1908) is built of reinforced concrete, with flat overhanging slabs instead of a spire. The Robie House in Chicago (1910), one of his finest Prairie houses, steps its terraces across several levels under cantilevered roofs. Fallingwater in Pennsylvania stands partly over a waterfall on Bear Run, its terraces cantilevered from a central chimney. In the Johnson Wax Headquarters in Racine (1939), concrete columns topped by wide \"calyxes\" hold up the great workroom, with windows of Pyrex glass tubes. The Solomon R. Guggenheim Museum in New York (1959) wraps its gallery in a six-storey spiral ramp under a central skylight. Frank Lloyd Wright's buildings are studied for how they tie a building to its site.",
+  "facts": [
+   {
+    "claim": "June 8, 1867 – April 9, 1959; American architect, designer, writer and educator; more than 1,000 structures over 70 years",
+    "source": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright"
+   },
+   {
+    "claim": "Organic architecture: design in harmony with humanity and the environment",
+    "source": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright"
+   },
+   {
+    "claim": "Pioneer of the Prairie School; developed the Usonian home; mentored hundreds of apprentices in the Taliesin Fellowship",
+    "source": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright"
+   },
+   {
+    "claim": "2019: World Heritage Site \"The 20th-Century Architecture of Frank Lloyd Wright\", eight buildings",
+    "source": "https://en.wikipedia.org/wiki/Fallingwater"
+   },
+   {
+    "claim": "Unity Temple: reinforced concrete; no spire, roof of flat overhanging concrete slabs",
+    "source": "https://en.wikipedia.org/wiki/Unity_Temple"
+   },
+   {
+    "claim": "Robie House, completed 1910, one of Wright's best Prairie style buildings; terraces on different levels, cantilevered roofs",
+    "source": "https://en.wikipedia.org/wiki/Robie_House"
+   },
+   {
+    "claim": "Fallingwater built partly over a waterfall on Bear Run; terraces cantilevered from a chimney without support at the opposite end",
+    "source": "https://en.wikipedia.org/wiki/Fallingwater",
+    "note": "Wikipedia gives 1935 (design) in the Wright article; the wall gives 1939; no year is used"
+   },
+   {
+    "claim": "Johnson Administration Building: great workroom with concrete shell columns topped by large \"calyxes\"; Pyrex glass-tube windows",
+    "source": "https://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
+   },
+   {
+    "claim": "Guggenheim: six-story helical ramp along the main gallery under a central skylight",
+    "source": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Frank Lloyd Wright",
+    "url": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Frank Lloyd Wright Foundation",
+    "title": "Foundation",
+    "url": "https://franklloydwright.org/",
+    "why": "the foundation that runs Taliesin and Taliesin West",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "UNESCO World Heritage Centre",
+    "title": "The 20th-Century Architecture of Frank Lloyd Wright",
+    "url": "https://whc.unesco.org/en/list/1496",
+    "why": "the eight listed buildings",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Frank Lloyd Wright office page",
+    "url": "https://www.archdaily.com/office/frank-lloyd-wright",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Kengo Kuma",
+  "qid": "Q725462",
+  "kind": "person",
+  "born_died": "born 1954",
+  "country": "Japanese",
+  "bio": "Kengo Kuma (born 1954) is a Japanese architect and emeritus professor at the University of Tokyo, known for buildings that thin and break up their walls into layers of timber, stone and glass so they feel light. He founded Kengo Kuma & Associates in 1990, and works with Japanese craftsmen in wood, earth and paper, keeping their techniques alive while adapting them to modular building. His book Anti-Object sets out the idea.\n\nThe Nakagawa-machi Bato Hiroshige Museum (2000) won the Togo Murano Award. The Japan National Stadium in Tokyo (2019), built for the 2020 Olympics, uses timber as a main part of its structure, sourced from all 47 of Japan's prefectures, in modular pieces that can be replaced as they age. The Asakusa Culture Tourist Information Center in Tokyo (2012) looks like a stack of separate wooden buildings set at different angles, wrapped in cedar louvres. V&A Dundee (2018), his first building in the United Kingdom, was meant as \"a living room for the city\". Kengo Kuma's projects are studied for how natural materials and layered surfaces can make a large building feel close and soft.",
+  "facts": [
+   {
+    "claim": "Born August 8, 1954; Japanese architect; emeritus professor, University of Tokyo",
+    "source": "https://en.wikipedia.org/wiki/Kengo_Kuma"
+   },
+   {
+    "claim": "Work slims down and dissolves walls to express lightness and immateriality; stone made to feel as light as glass or wood",
+    "source": "https://en.wikipedia.org/wiki/Kengo_Kuma"
+   },
+   {
+    "claim": "Founded Kengo Kuma & Associates in 1990",
+    "source": "https://en.wikipedia.org/wiki/Kengo_Kuma"
+   },
+   {
+    "claim": "Collaborates with Japanese craftsmen in wood, earth or paper, maintaining techniques while modernising them with modularity",
+    "source": "https://en.wikipedia.org/wiki/Kengo_Kuma"
+   },
+   {
+    "claim": "Anti-Object: The Dissolution and Disintegration of Architecture, published in English in 2008",
+    "source": "https://en.wikipedia.org/wiki/Kengo_Kuma"
+   },
+   {
+    "claim": "2001 Togo Murano Award for Nakagawa-machi Bato Hiroshige Museum",
+    "source": "https://en.wikipedia.org/wiki/Kengo_Kuma"
+   },
+   {
+    "claim": "Japan National Stadium, for the 2020 Summer Olympics; timber a major structural component from all 47 prefectures; modular, replaceable wooden elements",
+    "source": "https://en.wikipedia.org/wiki/Japan_National_Stadium"
+   },
+   {
+    "claim": "Asakusa centre: \"a stack of separate wooden buildings ... piled up on top of each other at different angles\" (Architizer); Japanese cedar and glass; vertical louvres",
+    "source": "https://en.wikipedia.org/wiki/Asakusa_Culture_Tourist_Information_Center"
+   },
+   {
+    "claim": "V&A Dundee, opened 2018; first UK building by Kuma; \"living room for the city\"",
+    "source": "https://en.wikipedia.org/wiki/V&A_Dundee"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Kengo Kuma",
+    "url": "https://en.wikipedia.org/wiki/Kengo_Kuma",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Kengo Kuma & Associates",
+    "title": "Projects",
+    "url": "https://kkaa.co.jp/en/projects/",
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Kengo Kuma & Associates office page",
+    "url": "https://www.archdaily.com/office/kengo-kuma-and-associates",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Jean Nouvel",
+  "qid": "Q214317",
+  "kind": "person",
+  "born_died": "born 1945",
+  "country": "French",
+  "bio": "Jean Nouvel (born 1945) is a French architect known for buildings that answer their place and climate with screens, patterns and filtered light. He studied at the École des Beaux-Arts in Paris. His Arab World Institute in Paris (1987), whose south wall is made of mechanical lenses, like Arabic latticework, that open and shut with the daylight, brought him international fame, and he won the Pritzker Prize in 2008.\n\nThe Musée du quai Branly in Paris (2006) raises its main gallery 10 metres over a garden like a bridge and covers one wall in living plants. Torre Glòries in Barcelona (2005), first called Torre Agbar, was designed to recall a geyser rising into the air and carries 4,500 LED lights on its skin. The Louvre Abu Dhabi (2017) shelters its galleries under a 7,000-tonne dome meant to evoke sunlight falling through palm fronds in an oasis. The National Museum of Qatar in Doha (2019) takes its form from the desert rose crystal: 539 interlocking discs that shade visitors from the heat. Jean Nouvel's projects are studied for how each design is made for one site rather than a house style.",
+  "facts": [
+   {
+    "claim": "Born 12 August 1945; French architect; studied at the École des Beaux-Arts, Paris",
+    "source": "https://en.wikipedia.org/wiki/Jean_Nouvel"
+   },
+   {
+    "claim": "Arab World Institute (with Architecture-Studio), competition 1981, completed 1987, brought international fame; south wall of mechanical lenses reminiscent of Arabic latticework, controlled by photoelectric cells",
+    "source": "https://en.wikipedia.org/wiki/Jean_Nouvel"
+   },
+   {
+    "claim": "Pritzker Prize 2008",
+    "source": "https://en.wikipedia.org/wiki/Jean_Nouvel"
+   },
+   {
+    "claim": "Quai Branly (2006): gallery built like a bridge 10 m over the garden; green wall of living plants",
+    "source": "https://en.wikipedia.org/wiki/Musée_du_Quai_Branly_–_Jacques_Chirac"
+   },
+   {
+    "claim": "Torre Agbar meant to recall a geyser rising into the air; 4,500 LED devices on the façade",
+    "source": "https://en.wikipedia.org/wiki/Torre_Glòries"
+   },
+   {
+    "claim": "Louvre Abu Dhabi: 7,000-tonne dome; effect meant to represent \"rays of sunlight passing through date palm fronds in an oasis\"",
+    "source": "https://en.wikipedia.org/wiki/Louvre_Abu_Dhabi"
+   },
+   {
+    "claim": "National Museum of Qatar: inspired by the desert rose crystal; 539 intertwined discs; cavities protect visitors from the heat",
+    "source": "https://en.wikipedia.org/wiki/National_Museum_of_Qatar"
+   },
+   {
+    "claim": "Each design made for its site rather than a house style",
+    "source": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+    "note": "interpretation; supported by the Pritzker jury's summary quoted in the article. Remove if the owner wants only plain facts"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Jean Nouvel",
+    "url": "https://en.wikipedia.org/wiki/Jean_Nouvel",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2008 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/2008",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Ateliers Jean Nouvel",
+    "title": "Projects",
+    "url": "https://www.jeannouvel.com/en/",
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Ateliers Jean Nouvel office page",
+    "url": "https://www.archdaily.com/office/ateliers-jean-nouvel",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Kenzō Tange",
+  "qid": "Q151794",
+  "kind": "person",
+  "born_died": "1913–2005",
+  "country": "Japanese",
+  "bio": "Kenzō Tange (1913–2005) was a Japanese architect and urban planner who joined traditional Japanese building to modernism and became one of the first Japanese architects known around the world. Inspired early by Le Corbusier, he later mentored and championed the Metabolist movement, and he won the Royal Gold Medal in 1965 and the Pritzker Prize in 1987.\n\nHis winning design for the Hiroshima Peace Memorial Park raised the Hiroshima Peace Memorial Museum (1955) off the ground on a frame and set it on an axis running through the park. The Kagawa Prefectural Government Office (1958) has been likened to the Daibutsu style of Nara's Tōdai-ji temple, with thin columns that leave room for glass. For the 1964 Tokyo Olympics, the first held in Asia, the Yoyogi National Gymnasium hangs its roof skin from two masts. St. Mary's Cathedral in Tokyo (1964) rises from a cross-shaped plan as eight curved shells clad in stainless steel, opening into a cross of light. The Tokyo Metropolitan Government Building (1991) sets two towers over a civic plaza. Kenzō Tange's projects are studied for structure, city planning and the meeting of Japanese tradition and modernism.",
+  "facts": [
+   {
+    "claim": "4 September 1913 – 22 March 2005; Japanese architect; inspired early by Le Corbusier; one of the first Japanese architects to achieve international recognition",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   },
+   {
+    "claim": "Renowned for synthesizing traditional Japanese styles with modernism; forerunner, mentor and patron of the Metabolist movement; urban planner",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   },
+   {
+    "claim": "Royal Gold Medal 1965; Pritzker Prize 1987",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   },
+   {
+    "claim": "First recognition for postwar reconstruction, especially Hiroshima Peace Memorial Park; won first prize with a museum on an axis running through the park; skeleton structure raised off the ground",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   },
+   {
+    "claim": "Kagawa Prefectural Government Hall, completed 1958; likened to the Daibutsu style of Tōdai-ji; thin columns maximise glazing",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   },
+   {
+    "claim": "Yoyogi National Gymnasium for the 1964 Tokyo Olympics, the first in Asia; roof skin suspended from two masts",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   },
+   {
+    "claim": "St. Mary's Cathedral: cross-shaped layout, eight hyperbolic parabolas open upwards to form a cross of light; stainless steel cladding",
+    "source": "https://en.wikipedia.org/wiki/St._Mary's_Cathedral,_Tokyo"
+   },
+   {
+    "claim": "Tokyo Metropolitan Government Building, opened 1991: civic centre with a plaza dominated by two skyscrapers",
+    "source": "https://en.wikipedia.org/wiki/Kenzō_Tange"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Kenzō Tange",
+    "url": "https://en.wikipedia.org/wiki/Kenzō_Tange",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1987 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1987",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Kenzo Tange office page",
+    "url": "https://www.archdaily.com/office/kenzo-tange",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Toyo Ito",
+  "qid": "Q333585",
+  "kind": "person",
+  "born_died": "born 1941",
+  "country": "Japanese",
+  "bio": "Toyo Ito (born 1941) is a Japanese architect known for light, open, conceptual buildings that try to express both the physical world and the virtual, information-filled city. Born in Seoul to Japanese parents, he worked for Kiyonori Kikutake before opening his own studio in Tokyo in 1971, and he won the Pritzker Prize in 2013.\n\nHis early ideas were tested on small houses such as the Silver Hut (1984), his own home; a Silver Hut now forms part of his architecture museum on Ōmishima island in Imabari. The Sendai Mediatheque (2001) holds a library, a film and media collection and a theatre inside an almost cubic glass box. Its seven floor plates, a honeycomb of steel filled with lightweight concrete, rest on thirteen irregular steel tubes that rise like a forest. The building came through the March 2011 earthquake with little or no damage. The Tama Art University Library in Tokyo (2007) is built from thin arches of steel plate and concrete that span up to 12 metres. Toyo Ito's projects are studied for how a new idea of structure can open up the plan of a building.",
+  "facts": [
+   {
+    "claim": "Born 1 June 1941 in Keijō (today Seoul) to Japanese parents; Japanese architect",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito"
+   },
+   {
+    "claim": "Conceptual architecture expressing physical and virtual worlds; the \"simulated\" city",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito"
+   },
+   {
+    "claim": "Worked for Kiyonori Kikutake 1965–1969; own studio in Tokyo (Urbot) from 1971",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito"
+   },
+   {
+    "claim": "Pritzker Prize 2013",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito"
+   },
+   {
+    "claim": "Early conceptual contributions through small projects such as White U (1976) and Silver Hut (1984, Ito's own house)",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito"
+   },
+   {
+    "claim": "Silver Hut and Steel Hut, the two museum buildings of the Toyo Ito Museum of Architecture on Ōmishima, Imabari",
+    "source": "https://en.wikipedia.org/wiki/Toyo_Ito_Museum_of_Architecture,_Imabari"
+   },
+   {
+    "claim": "Sendai Mediatheque: nearly cubic glass enclosure; seven platforms on a forest of 13 non-uniform tubes; plates of honeycomb steel infilled with lightweight concrete; four corner tubes resist a 400-year earthquake; survived March 2011 earthquake with little to no damage",
+    "source": "https://en.wikipedia.org/wiki/Sendai_Mediatheque"
+   },
+   {
+    "claim": "Tama Art University Library: arches of plate steel reinforced with concrete, 200 mm thick, spans over 12 m",
+    "source": "https://en.wikipedia.org/wiki/Tama_Art_University_Library"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Toyo Ito",
+    "url": "https://en.wikipedia.org/wiki/Toyo_Ito",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2013 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/2013",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Toyo Ito & Associates office page",
+    "url": "https://www.archdaily.com/office/toyo-ito-and-associates",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Philip Johnson",
+  "qid": "Q183528",
+  "kind": "person",
+  "born_died": "1906–2005",
+  "country": "American",
+  "bio": "Philip Johnson (1906–2005) was an American architect and curator whose long career ran from modernism to postmodernism. In 1932 he and Henry-Russell Hitchcock staged the Museum of Modern Art's first exhibition of modern architecture, which gave the International Style its name, and in 1979 he became the first winner of the Pritzker Prize. In the 1930s he openly praised Hitler and the Nazi Party and voiced antisemitic views, which he renounced when the United States entered the Second World War.\n\nHis own Glass House in New Canaan, Connecticut (1949), a glass room in the landscape, was openly influenced by Mies van der Rohe's Farnsworth House, and he later worked with Mies on the Seagram Building in New York. From 1967 he worked in partnership with John Burgee. The Crystal Cathedral in Garden Grove, California (1980) wraps a 2,248-seat church in 10,000 panes of reflective glass. The AT&T Building (550 Madison Avenue) in New York (1984), a pink granite tower topped by a broken pediment, became a landmark of postmodernism. Philip Johnson's buildings let students follow the main shifts in 20th-century architecture through the work of one architect.",
+  "facts": [
+   {
+    "claim": "July 8, 1906 – January 25, 2005; American architect of modern and postmodern architecture",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson",
+    "note": "Wikidata gives a death date in 2007, which is wrong; Wikipedia gives 25 January 2005, the date used here"
+   },
+   {
+    "claim": "1932: organised with Henry-Russell Hitchcock MoMA's first exhibition of modern architecture, which named the International Style",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson"
+   },
+   {
+    "claim": "First recipient of the Pritzker Architecture Prize, 1979",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson"
+   },
+   {
+    "claim": "In the 1930s an ardent admirer of Hitler, praised the Nazi Party and espoused antisemitic views; renounced them when the US entered the war",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson"
+   },
+   {
+    "claim": "Glass House, New Canaan, completed 1949; clearly influenced by the Farnsworth House",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson"
+   },
+   {
+    "claim": "Architect of record with Mies van der Rohe for the Seagram Building",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson"
+   },
+   {
+    "claim": "Partnership with John Burgee from 1967",
+    "source": "https://en.wikipedia.org/wiki/Philip_Johnson"
+   },
+   {
+    "claim": "Crystal Cathedral: reflective glass, seats 2,248; 10,000 rectangular panes",
+    "source": "https://en.wikipedia.org/wiki/Christ_Cathedral_(Garden_Grove,_California)"
+   },
+   {
+    "claim": "550 Madison Avenue: pink granite facade, broken pediment with circular opening; one of his most famous buildings; postmodern",
+    "source": "https://en.wikipedia.org/wiki/550_Madison_Avenue"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Philip Johnson",
+    "url": "https://en.wikipedia.org/wiki/Philip_Johnson",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1979 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1979",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "The Glass House",
+    "title": "Philip Johnson Glass House",
+    "url": "https://theglasshouse.org/",
+    "why": "his house and estate, now a museum",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Philip Johnson office page",
+    "url": "https://www.archdaily.com/office/philip-johnson",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Mies van der Rohe",
+  "qid": "Q41508",
+  "kind": "person",
+  "born_died": "1886–1969",
+  "country": "German-American",
+  "bio": "Ludwig Mies van der Rohe (1886–1969) was a German-American architect and one of the pioneers of modern architecture, known for buildings of industrial steel and plate glass. He was the last director of the Bauhaus, emigrated to the United States after the Nazis came to power, and led the architecture school at what is now the Illinois Institute of Technology in Chicago. Two sayings are tied to him: \"less is more\" and \"God is in the details\".\n\nThe Barcelona Pavilion (1929), designed with Lilly Reich for the International Exposition and rebuilt in 1986, sets free-standing walls of marble, onyx and tinted glass on a grid of chrome-clad, cross-shaped steel columns. At Villa Tugendhat in Brno (1930), a translucent onyx wall changes in the low evening sun. The Farnsworth House in Plano, Illinois (1951) raises a glass house on eight steel columns above a floodplain. S. R. Crown Hall in Chicago (1956) is an early clear-span building, and the Seagram Building in New York (1958) wraps its tower in glass and bronze behind a public plaza. Mies van der Rohe's buildings are studied for structure, proportion and precise detail.",
+  "facts": [
+   {
+    "claim": "March 27, 1886 – August 17, 1969; German and American architect; one of the pioneers of modern architecture",
+    "source": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe"
+   },
+   {
+    "claim": "Last director of the Bauhaus; emigrated to the US after the Nazis rose to power; headed the architecture school at IIT",
+    "source": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe"
+   },
+   {
+    "claim": "Industrial steel and plate glass; aphorisms \"less is more\" and \"God is in the details\"",
+    "source": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe"
+   },
+   {
+    "claim": "Barcelona Pavilion with Lilly Reich, German Pavilion for the 1929 International Exposition; demolished 1930, reconstructed 1986; marble, onyx, tinted glass; chrome-clad cruciform columns",
+    "source": "https://en.wikipedia.org/wiki/Barcelona_Pavilion"
+   },
+   {
+    "claim": "Villa Tugendhat: UNESCO World Heritage List 2001; onyx wall partially translucent, changes appearance in the low evening sun",
+    "source": "https://en.wikipedia.org/wiki/Villa_Tugendhat"
+   },
+   {
+    "claim": "Farnsworth House: slabs on eight steel columns; raised 1.6 m above the floodplain",
+    "source": "https://en.wikipedia.org/wiki/Farnsworth_House"
+   },
+   {
+    "claim": "Crown Hall: an early example of a clear span structure; roof supported by four girders",
+    "source": "https://en.wikipedia.org/wiki/S._R._Crown_Hall"
+   },
+   {
+    "claim": "Seagram Building: glass curtain wall with bronze mullions; public plaza on Park Avenue",
+    "source": "https://en.wikipedia.org/wiki/Seagram_Building"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Ludwig Mies van der Rohe",
+    "url": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Fundació Mies van der Rohe",
+    "title": "Barcelona Pavilion and foundation",
+    "url": "https://miesbcn.com/",
+    "why": "the foundation that rebuilt and runs the Barcelona Pavilion",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Ludwig Mies van der Rohe office page",
+    "url": "https://www.archdaily.com/office/ludwig-mies-van-der-rohe",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "SOM",
+  "qid": "Q459464",
+  "kind": "practice",
+  "born_died": "founded 1936",
+  "country": "American, based in Chicago",
+  "bio": "SOM (Skidmore, Owings & Merrill) is an American architecture, engineering and urban planning firm founded in Chicago in 1936 by Louis Skidmore and Nathaniel Owings, joined in 1939 by the engineer John O. Merrill. It helped bring modernism to the United States and is known above all for skyscrapers. The firm twice received the AIA Architecture Firm Award, in 1962 and 1996, and its partner Gordon Bunshaft won the Pritzker Prize in 1988.\n\nLever House in New York (1952), by Gordon Bunshaft and Natalie de Blois, was the city's first International Style office building: a curtain wall of glass and stainless steel on an avenue of masonry. The Beinecke Rare Book & Manuscript Library at Yale in New Haven (1963) has walls of marble only 32 millimetres thick that glow amber in daylight. The Hajj Terminal at King Abdulaziz International Airport in Jeddah (1981) was built for the pilgrimage season alone. The Burj Khalifa in Dubai (2010), the world's tallest building at 828 metres, stands on a buttressed central core and three wings. SOM's projects are studied for how closely its architects and engineers design together.",
+  "facts": [
+   {
+    "claim": "Founded 1936 by Louis Skidmore and Nathaniel Owings; engineer John O. Merrill joined in 1939; headquarters Chicago; architecture, urban planning and engineering firm",
+    "source": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)"
+   },
+   {
+    "claim": "Role in the development of modernist architecture in the US; skyscraper design, several of the world's tallest buildings",
+    "source": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)"
+   },
+   {
+    "claim": "AIA Architecture Firm Award in 1962 and 1996; Gordon Bunshaft, design leader for more than 40 years, Pritzker Prize 1988",
+    "source": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)"
+   },
+   {
+    "claim": "Lever House, completed 1952, by Gordon Bunshaft and Natalie de Blois; first International Style office building in New York City; glass and steel on a Park Avenue lined with masonry",
+    "source": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)"
+   },
+   {
+    "claim": "Lever House curtain wall of heat-absorbing glass and stainless steel",
+    "source": "https://en.wikipedia.org/wiki/Lever_House"
+   },
+   {
+    "claim": "Beinecke: translucent veined marble milled to 1.25 in (32 mm) so filtered daylight gives a golden amber glow",
+    "source": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_and_Manuscript_Library"
+   },
+   {
+    "claim": "Hajj Terminal, Jeddah, 1981, SOM; built exclusively for traffic in the pilgrimage season",
+    "source": "https://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport"
+   },
+   {
+    "claim": "Burj Khalifa: designed by SOM; tallest building in the world; roof height 828 m; buttressed central core and wings; three-wing layout",
+    "source": "https://en.wikipedia.org/wiki/Burj_Khalifa"
+   },
+   {
+    "claim": "Architects and engineers working together, e.g. Bruce Graham and Fazlur Rahman Khan",
+    "source": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Skidmore, Owings & Merrill",
+    "url": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "SOM",
+    "title": "Projects",
+    "url": "https://www.som.com/projects/",
+    "why": "the firm's own project archive",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "SOM office page",
+    "url": "https://www.archdaily.com/office/skidmore-owings-and-merrill",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Álvaro Siza",
+  "qid": "Q251365",
+  "kind": "person",
+  "born_died": "born 1933",
+  "country": "Portuguese",
+  "bio": "Álvaro Siza (born 1933) is a Portuguese architect from Matosinhos, near Porto, known for buildings that read and answer their landscape and city. \"Architects do not invent anything,\" he has said, \"they transform reality.\" He graduated from the Porto school of architecture in 1955 and later taught there with Fernando Távora. He won the Pritzker Prize in 1992 and the Venice Biennale's Golden Lion for lifetime achievement in 2012.\n\nAmong his earliest works to gain public attention, the Leça Swimming Pools (1966) are tidal pools on the shore at Leça da Palmeira. The Boa Nova Tea House (1963) sits among the rocks, reached by a stepped path that hides and reveals the sea. The Faculty of Architecture, University of Porto (1996) and the Serralves Museum of Contemporary Art (1999) are among his best-known works in Porto. He designed the Portugal Pavilion for Expo '98 in Lisbon, and the Iberê Camargo Foundation in Porto Alegre (2008), his first project in Brazil, won a Golden Lion at the 2002 Venice Biennale. Álvaro Siza's projects are studied for how a building can grow out of its site, light and views.",
+  "facts": [
+   {
+    "claim": "Born 25 June 1933 in Matosinhos, near Porto; Portuguese architect",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   },
+   {
+    "claim": "\"Architects do not invent anything, they transform reality\" (Siza, quoted in the Boa Nova Tea House article)",
+    "source": "https://en.wikipedia.org/wiki/Casa_de_Chá_da_Boa_Nova"
+   },
+   {
+    "claim": "Graduated in architecture in 1955 at the School of Fine Arts of the University of Porto; with Fernando Távora one of the most notable faculty members of the Porto School",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   },
+   {
+    "claim": "Pritzker Prize 1992; Golden Lion for lifetime achievement, Venice Biennale 2012",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   },
+   {
+    "claim": "Pool complex (Piscinas de Marés) at Leça da Palmeira in the 1960s, among his earliest works to gain public attention",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   },
+   {
+    "claim": "Boa Nova Tea House: set in an area of rocks; stepped pathway integrated into the rocks alternately reveals and hides the sea",
+    "source": "https://en.wikipedia.org/wiki/Casa_de_Chá_da_Boa_Nova"
+   },
+   {
+    "claim": "Best known works in Porto: Boa Nova Tea House, Faculty of Architecture, Serralves Museum",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
+    "note": "Wikipedia gives 1997 for Serralves and 1987–93 for the Faculty; the wall years are used"
+   },
+   {
+    "claim": "Portugal's flagship pavilion at Expo '98, Lisbon",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   },
+   {
+    "claim": "Iberê Camargo Foundation, his first project in Brazil, Golden Lion at the Venice Biennale 2002",
+    "source": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Álvaro Siza",
+    "url": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1992 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1992",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Álvaro Siza archive",
+    "url": "https://www.cca.qc.ca/en/archives/408056/alvaro-siza-archive",
+    "why": "his archive, donated in 2014",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Álvaro Siza Vieira office page",
+    "url": "https://www.archdaily.com/office/alvaro-siza-vieira",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Moshe Safdie",
+  "qid": "Q220944",
+  "kind": "person",
+  "born_died": "born 1938",
+  "country": "Israeli-Canadian-American",
+  "bio": "Moshe Safdie (born 1938) is an architect and urban planner, born in Haifa and a citizen of Canada, Israel and the United States, known for socially responsible design in housing, memorials and large public buildings. His first building, Habitat 67 in Montreal, grew out of his master's thesis at McGill University, and he apprenticed with Louis Kahn. He received the Wolf Prize in Architecture in 2019.\n\nHabitat 67 (1967), built for that year's World's Fair, stacks 354 identical prefabricated concrete units into three pyramids up to 12 storeys high, so that each home has a garden terrace on the roof of the one below. At Yad Vashem in Jerusalem, the Children's Memorial (1987) is a mirrored room that reflects the light of five candles, and the Holocaust History Museum (2005) is a triangular concrete prism cut through the hill and lit by a 200-metre skylight. In Singapore, Marina Bay Sands (2010) joins three hotel towers with a 340-metre SkyPark, and Jewel Changi Airport (2019) surrounds the world's tallest indoor waterfall with a terraced forest. Moshe Safdie's projects are studied for density, landscape and daylight at a large scale.",
+  "facts": [
+   {
+    "claim": "Born July 14, 1938; architect, urban planner, educator, author; citizen of Canada, Israel and the US; socially responsible design",
+    "source": "https://en.wikipedia.org/wiki/Moshe_Safdie"
+   },
+   {
+    "claim": "Born in Haifa, Mandatory Palestine",
+    "source": "https://en.wikipedia.org/wiki/Moshe_Safdie"
+   },
+   {
+    "claim": "Debut project Habitat 67, conceived as his thesis at McGill University; apprenticed with Louis Kahn",
+    "source": "https://en.wikipedia.org/wiki/Moshe_Safdie"
+   },
+   {
+    "claim": "Wolf Prize in Architecture, 2019",
+    "source": "https://en.wikipedia.org/wiki/Moshe_Safdie"
+   },
+   {
+    "claim": "Habitat 67: built for Expo 67; 354 identical prefabricated concrete forms in three pyramids up to 12 storeys; each unit has a garden terrace on the roof below; aim to combine suburban gardens, fresh air and privacy with urban density",
+    "source": "https://en.wikipedia.org/wiki/Habitat_67"
+   },
+   {
+    "claim": "Children's Memorial: main room completely mirrored, reflects the light of five candles",
+    "source": "https://en.wikipedia.org/wiki/Monument_to_the_children_in_Yad_Vashem"
+   },
+   {
+    "claim": "Holocaust History Museum: triangular concrete prism cutting through the landscape, lit by a 200 m skylight",
+    "source": "https://en.wikipedia.org/wiki/Yad_Vashem"
+   },
+   {
+    "claim": "Marina Bay Sands, opened 2010: three hotel towers topped by the 340 m Sands SkyPark",
+    "source": "https://en.wikipedia.org/wiki/Marina_Bay_Sands"
+   },
+   {
+    "claim": "Jewel Changi Airport: centrepiece is the world's tallest indoor waterfall, the Rain Vortex, surrounded by a terraced forest",
+    "source": "https://en.wikipedia.org/wiki/Jewel_Changi_Airport"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Moshe Safdie",
+    "url": "https://en.wikipedia.org/wiki/Moshe_Safdie",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Safdie Architects",
+    "title": "Projects",
+    "url": "https://www.safdiearchitects.com/projects",
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Safdie Architects office page",
+    "url": "https://www.archdaily.com/office/safdie-architects",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Fumihiko Maki",
+  "qid": "Q312827",
+  "kind": "person",
+  "born_died": "1928–2024",
+  "country": "Japanese",
+  "bio": "Fumihiko Maki (1928–2024) was a Japanese architect whose work often explored new materials and brought together the cultures of East and West. A student of Kenzō Tange at the University of Tokyo and a graduate of Harvard, he taught in the United States and returned to Japan in 1960 to help found the Metabolist group. He won the Pritzker Prize in 1993.\n\nHe worked on Hillside Terrace in Tokyo (1992) for almost a quarter of a century from 1967, adding to it piece by piece along one street. Spiral in Tokyo (1985) has a façade of aluminium and glass that reflects the jumbled streets around it. The Tokyo Metropolitan Gymnasium (1990) and Makuhari Messe near Tokyo (1989) are among his large public buildings in Japan. Abroad, he designed 4 World Trade Center in New York (2013) on the rebuilt site, and the Aga Khan Museum in Toronto (2014), made to use natural light and clad in sandblasted white granite that plays sun against deep shadow. Fumihiko Maki's projects are studied for their careful detail and for how a building can join a city over time.",
+  "facts": [
+   {
+    "claim": "6 September 1928 – 6 June 2024; Japanese architect; work often explores new materials and fuses the cultures of east and west; Pritzker Prize 1993",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   },
+   {
+    "claim": "Professor Kenzo Tange at the University of Tokyo; Master of Architecture, Harvard GSD 1954; taught at Washington University in St. Louis and Harvard",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   },
+   {
+    "claim": "Returned to Japan in 1960 to help establish the Metabolism Group",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   },
+   {
+    "claim": "Worked on Hillside Terrace for almost a quarter of a century beginning in 1967",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   },
+   {
+    "claim": "Spiral: exterior of aluminium and glass reflects the jumbled surrounding streetscape",
+    "source": "https://en.wikipedia.org/wiki/Spiral_(building)"
+   },
+   {
+    "claim": "Tokyo Metropolitan Gymnasium and Makuhari Messe among his notable projects",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   },
+   {
+    "claim": "Designed Tower 4 at the World Trade Center site, opened 2013",
+    "source": "https://en.wikipedia.org/wiki/Fumihiko_Maki"
+   },
+   {
+    "claim": "Aga Khan Museum: designed to use natural light; sandblasted white Brazilian granite; interplay of light and deep shadows",
+    "source": "https://en.wikipedia.org/wiki/Aga_Khan_Museum"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Fumihiko Maki",
+    "url": "https://en.wikipedia.org/wiki/Fumihiko_Maki",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1993 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1993",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Maki and Associates",
+    "title": "Projects",
+    "url": "https://www.maki-and-associates.co.jp/",
+    "why": "the office's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Maki and Associates office page",
+    "url": "https://www.archdaily.com/office/maki-and-associates",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Kisho Kurokawa",
+  "qid": "Q358502",
+  "kind": "person",
+  "born_died": "1934–2007",
+  "country": "Japanese",
+  "bio": "Kisho Kurokawa (1934–2007) was a Japanese architect and one of the founders of the Metabolist movement. He studied under Kenzō Tange at the University of Tokyo, and as early as 1958 he predicted a \"transition from the Age of the Machine to the Age of Life\", returning again and again to ideas of metabolism, recycling, ecology and sustainability.\n\nThe Nakagin Capsule Tower in Tokyo's Ginza district (1972) was the world's first example of capsule architecture: prefabricated, replaceable rooms fixed to a core, with the capsules, lifts, pipes and ducts all left exposed. It was demolished in 2022, but 23 capsules were set aside for preservation and reuse. His later work includes museums such as the National Museum of Ethnology in Suita (1977), the Hiroshima City Museum of Contemporary Art (1988) and the National Art Center, Tokyo (2007). Kuala Lumpur International Airport (1998) earned him the Dedalo-Minosse International Prize in 2003 and was the first airport to receive Green Globe 21 certification. Kisho Kurokawa's buildings are studied for the Metabolist idea of architecture that can grow, change and be renewed.",
+  "facts": [
+   {
+    "claim": "April 8, 1934 – October 12, 2007; leading Japanese architect; a founder of the Metabolist Movement",
+    "source": "https://en.wikipedia.org/wiki/Kisho_Kurokawa"
+   },
+   {
+    "claim": "Studied under Kenzo Tange at the University of Tokyo; master's degree 1959",
+    "source": "https://en.wikipedia.org/wiki/Kisho_Kurokawa"
+   },
+   {
+    "claim": "1958: predicted a \"Transition from the Age of the Machine to the Age of Life\"; key words metabolism (metabolize and recycle), ecology, sustainability",
+    "source": "https://en.wikipedia.org/wiki/Kisho_Kurokawa"
+   },
+   {
+    "claim": "Nakagin Capsule Tower: world's first example of capsule architecture; demolished 2022, 23 units earmarked for preservation and repurposed",
+    "source": "https://en.wikipedia.org/wiki/Nakagin_Capsule_Tower"
+   },
+   {
+    "claim": "Nakagin: prefabricated, replaceable units; capsule, escalator and elevator units, pipes and ductwork exterior and exposed",
+    "source": "https://en.wikipedia.org/wiki/Kisho_Kurokawa"
+   },
+   {
+    "claim": "2003 Dedalo-Minosse International Prize for Kuala Lumpur International Airport; first airport to receive Green Globe 21 certification",
+    "source": "https://en.wikipedia.org/wiki/Kisho_Kurokawa"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Kisho Kurokawa",
+    "url": "https://en.wikipedia.org/wiki/Kisho_Kurokawa",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Kisho Kurokawa office page",
+    "url": "https://www.archdaily.com/office/kisho-kurokawa",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Kisho Kurokawa tag page",
+    "url": "https://www.archdaily.com/tag/kisho-kurokawa",
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Louis Kahn",
+  "qid": "Q210134",
+  "kind": "person",
+  "born_died": "1901–1974",
+  "country": "Estonian-born American",
+  "bio": "Louis Kahn (1901–1974) was an Estonian-born American architect based in Philadelphia, known for monumental buildings that do not hide their weight, their materials or the way they are put together. He worked mostly in textured brick and bare concrete set against fine surfaces such as travertine, and received the AIA Gold Medal in 1971. His imagined talk with a brick (\"What do you want, Brick?\" \"I like an arch.\") sums up his respect for materials.\n\nThe Richards Medical Research Laboratories in Philadelphia (1960) were a breakthrough, with a clear split between \"served\" spaces and the \"servant\" spaces that hold stairs and services. At the Salk Institute in La Jolla (1965), two laboratory wings frame a travertine plaza and a thin channel of water that leads the eye to the Pacific. The Phillips Exeter Academy Library (1971) opens a central atrium through huge circular openings onto the book stacks. The Kimbell Art Museum in Fort Worth (1972) lights its art through slits along the top of cycloid vaults. His last project was the National Assembly of Bangladesh in Dhaka. Louis Kahn's buildings are studied for light, mass and clear construction.",
+  "facts": [
+   {
+    "claim": "February 20, 1901 – March 17, 1974; Estonian-born American architect based in Philadelphia",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn"
+   },
+   {
+    "claim": "Monumental and monolithic style; heavy buildings that do not hide their weight, materials or assembly; textured brick and bare concrete with refined surfaces such as travertine",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn"
+   },
+   {
+    "claim": "Taught at Yale 1947–1957 and the University of Pennsylvania from 1957; AIA Gold Medal 1971",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn"
+   },
+   {
+    "claim": "\"What do you want, Brick?\" ... \"I like an Arch.\"",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn"
+   },
+   {
+    "claim": "Richards Medical Research Laboratories (1957–1965): a breakthrough; clear expression of served and servant spaces",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn",
+    "note": "wall gives 1960"
+   },
+   {
+    "claim": "Salk Institute: two symmetric laboratory wings; travertine-paved plaza with a water stream; long view of the Pacific",
+    "source": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies"
+   },
+   {
+    "claim": "Exeter Library: inner atrium with enormous circular openings revealing floors of book stacks",
+    "source": "https://en.wikipedia.org/wiki/Phillips_Exeter_Academy_Library"
+   },
+   {
+    "claim": "Kimbell: cycloid-shaped barrel vaults with light slits along the apex",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn"
+   },
+   {
+    "claim": "National Assembly Building, Dhaka: Kahn's last project, developed 1962 to 1974",
+    "source": "https://en.wikipedia.org/wiki/Louis_Kahn"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Louis Kahn",
+    "url": "https://en.wikipedia.org/wiki/Louis_Kahn",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Louis Kahn office page",
+    "url": "https://www.archdaily.com/office/louis-kahn",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Louis Kahn tag page",
+    "url": "https://www.archdaily.com/tag/louis-kahn",
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Richard Meier",
+  "qid": "Q159612",
+  "kind": "person",
+  "born_died": "born 1934",
+  "country": "American",
+  "bio": "Richard Meier (born 1934) is an American architect and abstract artist known for geometric buildings in which white dominates. In 1972 he was named one of the New York Five, a group of modernist architects with Peter Eisenman, Michael Graves, Charles Gwathmey and John Hejduk, and in 1984 he won the Pritzker Prize. In 2018 several women accused him of sexual harassment or assault, and he resigned from his firm in 2021.\n\nHe first gained wide notice for houses and for The Atheneum, a visitor centre in New Harmony, Indiana (1979), and the High Museum of Art in Atlanta (1983). His design for the Getty Center in Los Angeles (1997), a hilltop complex of concrete and steel clad in travertine or aluminium, raised his profile further; its museum grid is turned 22.5 degrees against the rest of the plan. The Jubilee Church in Rome (2003), meant to recall a ship, rises in three large curved walls of precast concrete, coated in a titanium dioxide cement that breaks down pollution and keeps the walls white. Richard Meier's buildings are studied for their grids, white surfaces and use of daylight.",
+  "facts": [
+   {
+    "claim": "Born October 12, 1934; American abstract artist and architect; geometric designs with prominent use of white",
+    "source": "https://en.wikipedia.org/wiki/Richard_Meier"
+   },
+   {
+    "claim": "1972: identified as one of The New York Five with Peter Eisenman, Michael Graves, Charles Gwathmey and John Hejduk",
+    "source": "https://en.wikipedia.org/wiki/Richard_Meier"
+   },
+   {
+    "claim": "Pritzker Prize 1984",
+    "source": "https://en.wikipedia.org/wiki/Richard_Meier"
+   },
+   {
+    "claim": "2018: The New York Times reported allegations from women of sexual harassment or assault; resigned from his firm in 2021",
+    "source": "https://en.wikipedia.org/wiki/Richard_Meier"
+   },
+   {
+    "claim": "First recognition for houses, The Atheneum, New Harmony (1979), and the High Museum of Art, Atlanta (1983); Getty Center (1997) brought elevated recognition",
+    "source": "https://en.wikipedia.org/wiki/Richard_Meier"
+   },
+   {
+    "claim": "Getty Center: on a hill; concrete and steel with travertine or aluminium cladding; museum grid offset by 22.5 degrees",
+    "source": "https://en.wikipedia.org/wiki/Getty_Center"
+   },
+   {
+    "claim": "Jubilee Church: designed to look like a ship; three large curved walls of precast concrete; photocatalytic titanium dioxide cement keeps them white",
+    "source": "https://en.wikipedia.org/wiki/Jubilee_Church"
+   },
+   {
+    "claim": "MACBA among his notable buildings",
+    "source": "https://en.wikipedia.org/wiki/Richard_Meier"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Richard Meier",
+    "url": "https://en.wikipedia.org/wiki/Richard_Meier",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1984 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1984",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Richard Meier & Partners office page",
+    "url": "https://www.archdaily.com/office/richard-meier-and-partners",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Shigeru Ban",
+  "qid": "Q526725",
+  "kind": "person",
+  "born_died": "born 1957",
+  "country": "Japanese",
+  "bio": "Shigeru Ban (born 1957) is a Japanese architect known for building with paper, above all recycled cardboard tubes, and for quick, low-cost shelters for people who have lost their homes in disasters. He studied at Cooper Union in New York under John Hejduk, founded the Voluntary Architects' Network in 1995 to build temporary buildings after disasters and conflicts, and won the Pritzker Prize in 2014 for his use of materials and his humanitarian work.\n\nThe Paper Dome (Paper Church), a church of paper tubes put up in 1995 after the Great Hanshin earthquake, was later rebuilt in Puli, Taiwan. For the Japan Pavilion, Expo 2000, in Hanover, he worked with Frei Otto and the engineers Buro Happold on a 72-metre gridshell of paper tubes. The Centre Pompidou-Metz (2010) is covered by a 90-metre hexagonal roof of laminated timber woven like the cane of a Chinese hat. After the 2011 earthquake in Christchurch, New Zealand, his Cardboard Cathedral (2013) gave the city a transitional church built from more than 90 large cardboard tubes, timber and steel. Shigeru Ban's projects are studied for low-waste materials and for serving people in crisis.",
+  "facts": [
+   {
+    "claim": "Born 5 August 1957; Japanese architect; known for paper, particularly recycled cardboard tubes, used to house disaster victims quickly",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "claim": "Studied at Cooper Union under John Hejduk, graduated 1984",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "claim": "1995: established the Voluntary Architects' Network, an NGO developing temporary buildings after natural disasters and conflicts",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "claim": "Pritzker Prize 2014; jury cited innovative use of material and humanitarian efforts",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "claim": "Paper Dome: built September 17, 1995 as a temporary church for Takatori Catholic Church after the Great Hanshin earthquake; temporary church with paper tubes as structural elements; donated to Taomi Village, Puli, Taiwan, hit by the 1999 earthquake; shipped in 2006 and reconstructed",
+    "source": "https://en.wikipedia.org/wiki/Paper_Dome"
+   },
+   {
+    "claim": "Japan Pavilion, Expo 2000 Hanover, with Frei Otto and Buro Happold; 72 m gridshell of paper tubes",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   },
+   {
+    "claim": "Centre Pompidou-Metz: 90 m wide hexagonal roof of glued laminated timber in hexagonal units resembling the cane-work of a Chinese hat",
+    "source": "https://en.wikipedia.org/wiki/Centre_Pompidou-Metz"
+   },
+   {
+    "claim": "Cardboard Cathedral: transitional cathedral replacing ChristChurch Cathedral damaged in the 2011 earthquake; over 90 large cardboard tubes; timber and steel",
+    "source": "https://en.wikipedia.org/wiki/Cardboard_Cathedral"
+   },
+   {
+    "claim": "Low waste and sustainability of his paper work",
+    "source": "https://en.wikipedia.org/wiki/Shigeru_Ban"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Shigeru Ban",
+    "url": "https://en.wikipedia.org/wiki/Shigeru_Ban",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2014 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/2014",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Shigeru Ban Architects",
+    "title": "Works",
+    "url": "https://shigerubanarchitects.com/works/",
+    "why": "the practice's own list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Shigeru Ban Architects office page",
+    "url": "https://www.archdaily.com/office/shigeru-ban-architects",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "David Chipperfield",
+  "qid": "Q707020",
+  "kind": "person",
+  "born_died": "born 1953",
+  "country": "British",
+  "bio": "David Chipperfield (born 1953) is a British architect known for restrained museums and public buildings and for careful work with historic ones. Born in London, he worked in the offices of Douglas Stephen, Norman Foster and Richard Rogers before founding David Chipperfield Architects in 1985. He has been knighted for services to architecture and won the Pritzker Prize in 2023.\n\nFrom 1997 to 2009 he and Julian Harrap rebuilt and restored the Neues Museum in Berlin, largely destroyed in the Second World War. Next to it he added the James Simon Gallery (2019), a gateway to Museum Island whose design draws on the island's building history. The Museum of Modern Literature in Marbach am Neckar (2006) won the Stirling Prize in 2007. In England, The Hepworth Wakefield (2011) is a cluster of ten trapezoid blocks clad in pigmented concrete cast on site, the first of its kind in the UK, with upper galleries lit by large windows in the pitched roofs. Turner Contemporary (2011) stands beside the beach at Margate. David Chipperfield's projects are studied for proportion, material and respect for what is already there.",
+  "facts": [
+   {
+    "claim": "Born 18 December 1953 in London; British architect",
+    "source": "https://en.wikipedia.org/wiki/David_Chipperfield"
+   },
+   {
+    "claim": "Worked for Douglas Stephen, Norman Foster and Richard Rogers; founded David Chipperfield Architects in 1985",
+    "source": "https://en.wikipedia.org/wiki/David_Chipperfield"
+   },
+   {
+    "claim": "Knighthood for services to architecture; Pritzker Prize 2023",
+    "source": "https://en.wikipedia.org/wiki/David_Chipperfield"
+   },
+   {
+    "claim": "1997 competition with Julian Harrap for the reconstruction of the Neues Museum, largely destroyed in World War II; restoration completed 2009",
+    "source": "https://en.wikipedia.org/wiki/David_Chipperfield"
+   },
+   {
+    "claim": "James Simon Gallery, completed by Chipperfield (2018 per the article); visitor gateway to Museum Island; design inspired by the island's construction history",
+    "source": "https://en.wikipedia.org/wiki/James_Simon_Gallery",
+    "note": "article says completed 2018, opened to the public later; the wall gives 2019"
+   },
+   {
+    "claim": "Museum of Modern Literature: Stirling Prize 2007",
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_Literature"
+   },
+   {
+    "claim": "The Hepworth Wakefield: ten trapezoidal blocks; pigmented self-compacting concrete made on site, first of its kind in the UK; upper galleries lit by windows in pitched roofs",
+    "source": "https://en.wikipedia.org/wiki/The_Hepworth_Wakefield"
+   },
+   {
+    "claim": "Turner Contemporary beside a beach in Margate; opened 2011",
+    "source": "https://en.wikipedia.org/wiki/David_Chipperfield"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "David Chipperfield",
+    "url": "https://en.wikipedia.org/wiki/David_Chipperfield",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "David Chipperfield Architects",
+    "title": "Projects",
+    "url": "https://davidchipperfield.com/projects",
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "David Chipperfield Architects office page",
+    "url": "https://www.archdaily.com/office/david-chipperfield-architects",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Eero Saarinen",
+  "qid": "Q167073",
+  "kind": "person",
+  "born_died": "1910–1961",
+  "country": "Finnish-American",
+  "bio": "Eero Saarinen (1910–1961) was a Finnish-American architect and industrial designer known for sweeping concrete shells, arches and cable-hung roofs. The son of the architect Eliel Saarinen, he grew up at the Cranbrook Academy of Art in Michigan and studied at Yale. For Knoll he designed furniture such as the Womb chair and the Tulip chair. He died in 1961, aged 51, before several of his best-known buildings were finished.\n\nThe Kresge Auditorium at MIT in Cambridge, Massachusetts (1955) is a thin concrete shell, one-eighth of a sphere, that touches the ground at only three points. The David S. Ingalls Rink at Yale (1958) hangs its roof on cables from a single concrete backbone, earning the nickname \"the whale\". The TWA Flight Center in New York (1962) spreads a thin concrete roof like a bird's wings on four Y-shaped piers, and the Washington Dulles Airport Terminal (1962) hangs precast concrete roof panels on cables across the building. The Gateway Arch in St. Louis (1965) is a 192-metre weighted catenary clad in stainless steel and the world's tallest arch. Eero Saarinen's projects are studied for the way structure creates form.",
+  "facts": [
+   {
+    "claim": "August 20, 1910 – September 1, 1961; Finnish-American architect and industrial designer; died aged 51",
+    "source": "https://en.wikipedia.org/wiki/Eero_Saarinen"
+   },
+   {
+    "claim": "Son of Eliel Saarinen; grew up in Bloomfield Hills, Michigan, at the Cranbrook Academy of Art where his father taught; Yale School of Architecture, 1934",
+    "source": "https://en.wikipedia.org/wiki/Eero_Saarinen"
+   },
+   {
+    "claim": "Furniture for Knoll including the Womb chair and the Tulip chair",
+    "source": "https://en.wikipedia.org/wiki/Eero_Saarinen"
+   },
+   {
+    "claim": "Kresge Auditorium: thin-shell reinforced concrete, one-eighth of a sphere, meets the ground at three points",
+    "source": "https://en.wikipedia.org/wiki/Kresge_Auditorium"
+   },
+   {
+    "claim": "Ingalls Rink: suspension cables connected to a single concrete backbone; nicknamed \"the whale\"",
+    "source": "https://en.wikipedia.org/wiki/Eero_Saarinen"
+   },
+   {
+    "claim": "TWA Flight Center: thin shell concrete roof shaped like bird's wings on four Y-shaped piers",
+    "source": "https://en.wikipedia.org/wiki/TWA_Flight_Center"
+   },
+   {
+    "claim": "Dulles terminal: suspended structure; precast concrete roof panels hung between cables spanning the building",
+    "source": "https://en.wikipedia.org/wiki/Dulles_International_Airport_Main_Terminal"
+   },
+   {
+    "claim": "Gateway Arch: first prize in the 1948 competition; 630 ft (192 m); stainless steel weighted catenary; world's tallest arch",
+    "source": "https://en.wikipedia.org/wiki/Gateway_Arch"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Eero Saarinen",
+    "url": "https://en.wikipedia.org/wiki/Eero_Saarinen",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Eero Saarinen office page",
+    "url": "https://www.archdaily.com/office/eero-saarinen",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Eero Saarinen tag page",
+    "url": "https://www.archdaily.com/tag/eero-saarinen",
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Kunio Maekawa",
+  "qid": "Q129938",
+  "kind": "person",
+  "born_died": "1905–1986",
+  "country": "Japanese",
+  "bio": "Kunio Maekawa (1905–1986) was a Japanese architect and a key figure of modernism in post-war Japan. After working in the studios of Le Corbusier and Antonin Raymond, he set up his own firm in 1935 and spent his career holding Japanese tradition and European modernism in tension. Kenzō Tange was among the architects who began in his office, and he received the UIA Auguste Perret Prize in 1963.\n\nHis own house of 1942, the House of Kunio Maekawa, now stands at the Edo-Tokyo Open Air Architectural Museum in Koganei. The Tokyo Bunka Kaikan (1961), a concert hall in Ueno Park designed with Junzo Sakakura and Takamasa Yoshizaka, sits beside Le Corbusier's National Museum of Western Art. His Kyoto Kaikan of 1960 lives on as today's Rohm Theatre Kyoto. From the 1960s he set glazed tiles straight into concrete as it was poured, a method called uchikomi, which became a signature of late works such as the Tokyo Metropolitan Art Museum (1975) and the Museum of East Asian Art in Cologne (1977). Kunio Maekawa's buildings are studied for how modernism can be adapted to local craft.",
+  "facts": [
+   {
+    "claim": "14 May 1905 – 26 June 1986; Japanese architect; key figure of modernism in post-war Japan",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+    "note": "Britannica gives 27 June 1986 for his death; only the year is used"
+   },
+   {
+    "claim": "Worked in the studios of Le Corbusier and Antonin Raymond; own firm 1935; tension between Japanese traditional design and European modernism",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   },
+   {
+    "claim": "Kenzō Tange began his career in Maekawa's office",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   },
+   {
+    "claim": "1963 UIA Auguste Perret Prize",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   },
+   {
+    "claim": "1942 Maekawa House, now at the Edo-Tokyo Open Air Architectural Museum, Koganei Park",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   },
+   {
+    "claim": "Tokyo Bunka Kaikan (1961), Ueno Park, with Junzo Sakakura and Takamasa Yoshizaka, both former Le Corbusier apprentices; works in harmony with the National Museum of Western Art",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   },
+   {
+    "claim": "Kyoto Kaikan 1960; Rohm Theatre Kyoto is officially Kyoto Kaikan, main hall first opened 1960",
+    "source": "https://en.wikipedia.org/wiki/Rohm_Theatre_Kyoto"
+   },
+   {
+    "claim": "Uchikomi (cast-in-place) glazed tiles from the 1960s, a signature of late-career projects",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   },
+   {
+    "claim": "Tokyo Metropolitan Art Museum (1975); Museum of East Asian Art, Cologne",
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Kunio Maekawa",
+    "url": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Archipel",
+    "title": "Kunio Maekawa",
+    "url": "https://archipelvzw.be/en/archief/architecten/kunio-maekawa",
+    "why": "short profile with his main works",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Marcel Breuer",
+  "qid": "Q57588",
+  "kind": "person",
+  "born_died": "1902–1981",
+  "country": "Hungarian-American",
+  "bio": "Marcel Breuer (1902–1981) was a Hungarian-American modernist architect and furniture designer, born in Pécs. One of the first and youngest students at the Bauhaus, he was put in charge of its carpentry workshop and designed the Wassily and Cesca chairs there. In 1937 he followed Walter Gropius to Harvard's Graduate School of Design, and his later buildings, many of them brutalist, made him one of the most popular architects of the mid-20th century.\n\nHis first major public commissions came in the 1950s. He designed the UNESCO Headquarters in Paris (1958) with Bernard Zehrfuss and Pier Luigi Nervi, and drew the master plan and church for St. John's Abbey in Collegeville, Minnesota (St. John's Abbey Church, 1961). The Breuer Building in New York (1966), built for the Whitney Museum, steps its granite and concrete floors outward over the entrance like an upside-down ziggurat. The Robert C. Weaver Federal Building in Washington, D.C. (1968), headquarters of the US housing department, has drawn wide criticism; one former housing secretary called it \"10 floors of basement\". Marcel Breuer's buildings are studied for heavy concrete and stone forms shaped with a furniture maker's eye.",
+  "facts": [
+   {
+    "claim": "May 21, 1902 – July 1, 1981; Hungarian-American modernist architect and furniture designer; born in Pécs",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer"
+   },
+   {
+    "claim": "One of the first and youngest Bauhaus students; head of the Bauhaus carpentry shop; designed the Wassily Chair and Cesca Chair there",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer"
+   },
+   {
+    "claim": "Followed Gropius to Harvard's Graduate School of Design in 1937",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer"
+   },
+   {
+    "claim": "\"one of the world's most popular architects at the peak of 20th-century design\"; many buildings in a Brutalist style",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer"
+   },
+   {
+    "claim": "First two important institutional buildings: UNESCO Headquarters, Paris, and Saint John's Abbey master plan and church, Minnesota",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer",
+    "note": "Wikipedia gives 1955 for UNESCO and 1954 for the abbey commission; the wall years are used"
+   },
+   {
+    "claim": "UNESCO Headquarters design by Bernard Zehrfuss, Marcel Breuer and Pier Luigi Nervi",
+    "source": "https://en.wikipedia.org/wiki/UNESCO_Headquarters"
+   },
+   {
+    "claim": "Whitney building, 945 Madison Avenue, 1966: granite and exposed concrete; cantilevered floors over the entry like an inverted ziggurat",
+    "source": "https://en.wikipedia.org/wiki/945_Madison_Avenue"
+   },
+   {
+    "claim": "HUD headquarters, Washington, completed 1968; widespread criticism; Jack Kemp: \"10 floors of basement\"",
+    "source": "https://en.wikipedia.org/wiki/Marcel_Breuer"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Marcel Breuer",
+    "url": "https://en.wikipedia.org/wiki/Marcel_Breuer",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Marcel Breuer Digital Archive",
+    "title": "Syracuse University",
+    "url": "https://breuer.syr.edu/",
+    "why": "drawings, photos and papers for his projects",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Marcel Breuer office page",
+    "url": "https://www.archdaily.com/office/marcel-breuer",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Mario Botta",
+  "qid": "Q122363",
+  "kind": "person",
+  "born_died": "born 1943",
+  "country": "Swiss",
+  "bio": "Mario Botta (born 1943) is a Swiss architect known for buildings made from very simple geometric shapes, often in brick or stone, that create unusual spaces. He designed his first building, a two-family house in Ticino, at 16. He graduated from the Università Iuav di Venezia in 1969, and in Venice he met and worked with Carlo Scarpa, Louis Kahn and Le Corbusier.\n\nÉvry Cathedral near Paris (1995) looks as if it were built entirely of brick but is two concrete cylinders faced with brick in horizontal bands. The Church of San Giovanni Battista in Mogno (1996) replaces a 17th-century church flattened by an avalanche in 1986; Botta built it from the marble and granite of the surrounding valleys. The Cymbalista Synagogue in Tel Aviv (1998) raises two matching towers that are square at the base and turn into circles at the top. MART in Rovereto (2002), a \"pantheon without a facade\", arranges three floors of galleries around a round court under a 40-metre glass dome. Mario Botta's buildings are studied for how symmetry, simple solids and heavy materials give a place its identity.",
+  "facts": [
+   {
+    "claim": "Born 1 April 1943; Swiss architect",
+    "source": "https://en.wikipedia.org/wiki/Mario_Botta"
+   },
+   {
+    "claim": "Designs with a strong sense of geometry, based on very simple shapes, creating unique volumes of space; often made of brick",
+    "source": "https://en.wikipedia.org/wiki/Mario_Botta"
+   },
+   {
+    "claim": "First building, a two-family house at Morbio Superiore in Ticino, at age 16",
+    "source": "https://en.wikipedia.org/wiki/Mario_Botta"
+   },
+   {
+    "claim": "Graduated from the Università Iuav di Venezia, 1969; in Venice met and worked with Carlo Scarpa, Louis Kahn and Le Corbusier",
+    "source": "https://en.wikipedia.org/wiki/Mario_Botta"
+   },
+   {
+    "claim": "Trademark style seen widely in Switzerland, particularly Ticino; Évry cathedral (1995)",
+    "source": "https://en.wikipedia.org/wiki/Mario_Botta"
+   },
+   {
+    "claim": "Évry Cathedral: two reinforced concrete cylinders covered with brick; horizontal bands",
+    "source": "https://en.wikipedia.org/wiki/Évry_Cathedral"
+   },
+   {
+    "claim": "San Giovanni Battista, Mogno: built 1994–96 on the site of a 1636 church levelled by an avalanche in 1986; marble and granite from the local valleys",
+    "source": "https://en.wikipedia.org/wiki/Church_of_San_Giovanni_Battista,_Mogno"
+   },
+   {
+    "claim": "Cymbalista Synagogue: two matching towers, square in plan, merging to circles at the top",
+    "source": "https://en.wikipedia.org/wiki/Cymbalista_Synagogue_and_Jewish_Heritage_Center"
+   },
+   {
+    "claim": "MART Rovereto: \"pantheon without a facade\"; three storeys of museum space around a round agora under a 40 m glass dome/cupola",
+    "source": "https://en.wikipedia.org/wiki/Museum_of_Modern_and_Contemporary_Art_of_Trento_and_Rovereto"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Mario Botta",
+    "url": "https://en.wikipedia.org/wiki/Mario_Botta",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Mario Botta Architetti",
+    "title": "Projects",
+    "url": "https://www.botta.ch/",
+    "why": "the architect's own list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Mario Botta office page",
+    "url": "https://www.archdaily.com/office/mario-botta",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Richard Rogers",
+  "qid": "Q237412",
+  "kind": "person",
+  "born_died": "1933–2021",
+  "country": "British-Italian",
+  "bio": "Richard Rogers (1933–2021) was a British and Italian architect, born in Florence, and a leading figure of high-tech architecture. He met Norman Foster while studying at Yale, and in 1963 they set up Team 4 with Su Brumwell and Wendy Cheesman. He was made a life peer, Baron Rogers of Riverside, in 1996, led the British government's Urban Task Force on the decline of cities from 1998, and won the Pritzker Prize in 2007.\n\nWith Renzo Piano and Gianfranco Franchini he won the 1971 competition for the Centre Pompidou in Paris (1977), the project that made his career. The Lloyd's Building in London (1986), often called the Inside-Out Building, puts its stairs, lifts, ducts and pipes on the outside to leave the floors clear, though the exposed services have made upkeep expensive. The Senedd in Cardiff (2006), home of the Welsh Parliament, uses Welsh slate and oak, a cedar ceiling, and a roof cowl that funnels daylight and air into the chamber below. Madrid-Barajas Airport Terminal 4 (2006) won the Stirling Prize. Richard Rogers's projects are studied for open, flexible floors and for structure and services put on show.",
+  "facts": [
+   {
+    "claim": "23 July 1933 – 18 December 2021; British and Italian architect; high-tech architecture; born in Florence",
+    "source": "https://en.wikipedia.org/wiki/Richard_Rogers"
+   },
+   {
+    "claim": "Met Norman Foster and Su Brumwell at Yale; Team 4 set up in 1963 with Foster, Brumwell and Wendy Cheesman",
+    "source": "https://en.wikipedia.org/wiki/Richard_Rogers"
+   },
+   {
+    "claim": "Created Baron Rogers of Riverside on 17 October 1996; Urban Task Force set up in 1998 at the government's invitation; Pritzker Prize 2007",
+    "source": "https://en.wikipedia.org/wiki/Richard_Rogers"
+   },
+   {
+    "claim": "Won the Pompidou Centre competition in July 1971 with Piano and Gianfranco Franchini; his career leapt forward",
+    "source": "https://en.wikipedia.org/wiki/Richard_Rogers"
+   },
+   {
+    "claim": "Lloyd's building, \"Inside-Out Building\": staircases, lifts, ductwork and pipes on the outside, uncluttered inside; exposed services have led to very expensive maintenance",
+    "source": "https://en.wikipedia.org/wiki/Lloyd's_building"
+   },
+   {
+    "claim": "Senedd: Welsh slate and oak; Western Red Cedar ceiling and funnel; roof wind cowl funnels light and air into the debating chamber",
+    "source": "https://en.wikipedia.org/wiki/Senedd"
+   },
+   {
+    "claim": "Stirling Prize 2006 for Terminal 4 of Barajas Airport",
+    "source": "https://en.wikipedia.org/wiki/Richard_Rogers"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Richard Rogers",
+    "url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2007 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/2007",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Rogers Stirk Harbour + Partners office page",
+    "url": "https://www.archdaily.com/office/rogers-stirk-harbour-plus-partners",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Antoni Gaudí",
+  "qid": "Q25328",
+  "kind": "person",
+  "born_died": "1852–1926",
+  "country": "Catalan (Spanish)",
+  "bio": "Antoni Gaudí (1852–1926) was a Catalan architect and designer, the best-known figure of Catalan Modernisme, whose personal style drew on nature, religion and neo-Gothic art. Most of his work is in Barcelona, and between 1984 and 2005 seven of his works were listed as UNESCO World Heritage Sites. He used catenary arches to spread loads evenly, said that no structure was better than a tree trunk or a human skeleton, and covered surfaces in trencadís, a mosaic of broken ceramic.\n\nPalau Güell (1890) was one of several works for his patron, the industrialist Eusebi Güell. Casa Batlló (1906), among his finest buildings, is nicknamed the \"House of the Dragon\". Casa Milà (1912), called La Pedrera, \"the stone quarry\", has an undulating, self-supporting stone façade that leaves the floors behind it free to plan. Catenary arches carry both Casa Milà and the Crypt of Colonia Guell (1914). The Sagrada Familia, begun in 1882 under another architect, was less than a quarter built when Gaudí died; with a tower 172.5 metres high, it is now the world's tallest church. Gaudí's buildings are studied for structure learned from nature.",
+  "facts": [
+   {
+    "claim": "25 June 1852 – 10 June 1926; Catalan architect and designer; greatest exponent of Catalan Modernisme; sui generis style; influenced by neo-Gothic art; passions architecture, nature and religion",
+    "source": "https://en.wikipedia.org/wiki/Antoni_Gaudí"
+   },
+   {
+    "claim": "Most works in Barcelona; seven works declared UNESCO World Heritage Sites between 1984 and 2005",
+    "source": "https://en.wikipedia.org/wiki/Antoni_Gaudí"
+   },
+   {
+    "claim": "Catenary arches distribute weight evenly (Casa Milà, Colònia Güell crypt, Sagrada Família); no better structure than a tree trunk or a human skeleton; trencadís from waste ceramic pieces",
+    "source": "https://en.wikipedia.org/wiki/Antoni_Gaudí"
+   },
+   {
+    "claim": "Eusebi Güell commissioned Bodegas Güell, the Güell pavilions, Palau Güell and others; Park Güell in the first decade of the century",
+    "source": "https://en.wikipedia.org/wiki/Antoni_Gaudí"
+   },
+   {
+    "claim": "Casa Batlló among his finest works; \"House of the Dragon\"",
+    "source": "https://en.wikipedia.org/wiki/Antoni_Gaudí"
+   },
+   {
+    "claim": "Casa Milà, \"La Pedrera\" (the stone quarry); undulating stone facade, wrought iron balconies; self-supporting stone façade, free-plan floor, roof terrace",
+    "source": "https://en.wikipedia.org/wiki/La_Pedrera,_Barcelona"
+   },
+   {
+    "claim": "Sagrada Família: construction began 19 March 1882 under Francisco de Paula del Villar; less than a quarter complete at Gaudí's death in 1926; 172.5 m tower, world's tallest church",
+    "source": "https://en.wikipedia.org/wiki/Sagrada_Família"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Antoni Gaudí",
+    "url": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "UNESCO World Heritage Centre",
+    "title": "Works of Antoni Gaudí",
+    "url": "https://whc.unesco.org/en/list/320",
+    "why": "the seven listed works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Sagrada Família",
+    "title": "Official site",
+    "url": "https://sagradafamilia.org/en/",
+    "why": "history and construction of his largest work",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Antoni Gaudí office page",
+    "url": "https://www.archdaily.com/office/antoni-gaudi",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "BIG",
+  "qid": "Q2481701",
+  "kind": "practice",
+  "born_died": "founded 2006",
+  "country": "Danish, based in Copenhagen",
+  "bio": "BIG (Bjarke Ingels Group) is an architecture and design practice founded by the Danish architect Bjarke Ingels in Copenhagen in 2006, after he and Julien De Smedt closed their earlier office, PLOT. It now has offices in cities including New York, London, Barcelona and Shanghai and employs more than 700 people. Its first book and exhibition, Yes Is More, explained its ideas in the form of a comic.\n\nMountain Dwellings in Copenhagen (2008) climbs apartments up the sloping roof of a car park to make an artificial, south-facing \"mountainside\". The 8 House (2010) bends a city block into a figure of eight with two courtyards, mixing three kinds of housing with shops and offices. Superkilen (2012), a park in Copenhagen, gathers 108 plants and objects linked to the 62 countries its neighbours come from. Via 57 West in New York (2016), which BIG calls a \"courtscraper\", rises as a sloping pyramid 142 metres high. CopenHill (2019) puts an 85-metre ski slope, hiking path and climbing wall on top of a waste-to-energy plant. BIG's projects are studied for turning everyday needs, such as parking, housing or power, into public places.",
+  "facts": [
+   {
+    "claim": "Bjarke Ingels Group; offices including Copenhagen, New York, London, Barcelona, Shanghai; more than 700 people as of 2023",
+    "source": "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group"
+   },
+   {
+    "claim": "Ingels and Julien De Smedt founded PLOT in 2001; Ingels established BIG in late 2006 after PLOT closed",
+    "source": "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group",
+    "note": "Wikidata gives 2005 as the founding year; Wikipedia says late 2006. The page uses 2006"
+   },
+   {
+    "claim": "Book and exhibition Yes Is More, an \"archicomic\"",
+    "source": "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group"
+   },
+   {
+    "claim": "Mountain Dwellings: apartments scale the sloping roof of the parking garage, an artificial south-facing \"mountainside\"",
+    "source": "https://en.wikipedia.org/wiki/Mountain_Dwellings"
+   },
+   {
+    "claim": "8 House: figure-8 shape; perimeter block squeezed into a bowtie with two courtyards; three types of housing plus retail and offices",
+    "source": "https://en.wikipedia.org/wiki/8_House"
+   },
+   {
+    "claim": "Superkilen: 108 plants and artefacts; residents' backgrounds touch 62 countries",
+    "source": "https://en.wikipedia.org/wiki/Superkilen"
+   },
+   {
+    "claim": "Via 57 West: \"courtscraper\"; distorted pyramid 467 ft (142 m)",
+    "source": "https://en.wikipedia.org/wiki/Via_57_West"
+   },
+   {
+    "claim": "CopenHill (Amager Bakke): waste-to-energy plant with 85 m sloped roof for skiing, hiking and climbing",
+    "source": "https://en.wikipedia.org/wiki/Amager_Bakke"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Bjarke Ingels Group",
+    "url": "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "BIG",
+    "title": "Projects",
+    "url": "https://big.dk/",
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "BIG office page",
+    "url": "https://www.archdaily.com/office/big-bjarke-ingels-group",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Charles Correa",
+  "qid": "Q699145",
+  "kind": "person",
+  "born_died": "1930–2015",
+  "country": "Indian",
+  "bio": "Charles Correa (1930–2015) was an Indian architect and urban planner based in Mumbai, credited with shaping modern architecture in India after independence. He studied at the University of Michigan and at MIT, and opened his practice in Mumbai in 1958. He was known for concern for the urban poor and his use of traditional methods and materials, and he received the Royal Gold Medal in 1984 and the Praemium Imperiale in 1994.\n\nHis first significant project was the Gandhi Smarak Sangrahalaya (1963), the museum at Gandhi's Sabarmati Ashram in Ahmedabad. From 1970 to 1975 he was chief architect for the new city of Navi Mumbai. At the National Crafts Museum in New Delhi (1991) he used what he called \"rooms open to the sky\", courtyards placed throughout the building. The Jawahar Kala Kendra in Jaipur (1991) takes the nine-square plan of the old city of Jaipur and the Navagraha mandala, each square standing for a planet and the centre left open. Bharat Bhavan, an arts centre in Bhopal (1982), faces the Upper Lake. Charles Correa's projects are studied for courtyards, traditional materials and older ideas of space.",
+  "facts": [
+   {
+    "claim": "1 September 1930 – 16 June 2015; Indian architect and urban planner based in Mumbai; credited with the creation of modern architecture in post-Independent India; sensitivity to the urban poor; traditional methods and materials",
+    "source": "https://en.wikipedia.org/wiki/Charles_Correa"
+   },
+   {
+    "claim": "University of Michigan 1949–53 (Buckminster Fuller a teacher); MIT 1953–55; own practice in Mumbai 1958",
+    "source": "https://en.wikipedia.org/wiki/Charles_Correa"
+   },
+   {
+    "claim": "Royal Gold Medal 1984; Praemium Imperiale 1994",
+    "source": "https://en.wikipedia.org/wiki/Charles_Correa"
+   },
+   {
+    "claim": "First significant project: Mahatma Gandhi Sangrahalaya at Sabarmati Ashram, Ahmedabad (1958–1963)",
+    "source": "https://en.wikipedia.org/wiki/Charles_Correa"
+   },
+   {
+    "claim": "Chief Architect for New Bombay (Navi Mumbai) 1970–75",
+    "source": "https://en.wikipedia.org/wiki/Charles_Correa"
+   },
+   {
+    "claim": "National Crafts Museum: introduced \"the rooms open to the sky\", systematic use of courtyards",
+    "source": "https://en.wikipedia.org/wiki/Charles_Correa",
+    "note": "Wikipedia gives 1975–1990 for the project; the wall gives 1991"
+   },
+   {
+    "claim": "Jawahar Kala Kendra: Vastu Purush Mandala, Navagraha; nine squares inspired by the original city plan of Jaipur, each a planet, central square open",
+    "source": "https://en.wikipedia.org/wiki/Jawahar_Kala_Kendra"
+   },
+   {
+    "claim": "Bharat Bhavan opened 1982 facing the Upper Lake; galleries, workshops, open-air amphitheatre",
+    "source": "https://en.wikipedia.org/wiki/Bharat_Bhavan"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Charles Correa",
+    "url": "https://en.wikipedia.org/wiki/Charles_Correa",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Charles Correa Foundation",
+    "title": "Foundation",
+    "url": "https://charlescorreafoundation.org/",
+    "why": "his foundation and archive in Goa",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Charles Correa office page",
+    "url": "https://www.archdaily.com/office/charles-correa",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Daniel Libeskind",
+  "qid": "Q154538",
+  "kind": "person",
+  "born_died": "born 1946",
+  "country": "Polish-American",
+  "bio": "Daniel Libeskind (born 1946) is a Polish-American architect, artist and teacher, born in Łódź, whose angular, sharply cut buildings are usually placed within deconstructivism. He founded Studio Daniel Libeskind with his wife, Nina, in 1989, and in 2003 he won the competition to draw the master plan for rebuilding the World Trade Center site in New York.\n\nHe is best known for the Jewish Museum Berlin (2001), shaped by the history of Jewish life in the city. A line of empty \"voids\" about 20 metres tall slices through the building, and three axes stand for continuity, emigration and the Holocaust: one leads to the tilted Garden of Exile, another to the Holocaust Tower, an unheated bare concrete silo lit only through a slit in its roof. The Imperial War Museum North in Manchester (2002) is built as three interlocking shards of an imagined globe broken by conflict, standing for air, earth and water. At the Military History Museum in Dresden (2011), a transparent arrowhead cuts through a former arsenal and points towards where the fire-bombing of the city began. Daniel Libeskind's projects are studied for how form can carry memory.",
+  "facts": [
+   {
+    "claim": "Born May 12, 1946, in Łódź, Poland; Polish and American architect, artist, professor and set designer",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Libeskind"
+   },
+   {
+    "claim": "Work inscribed within the loosely-defined style of deconstructivism",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Libeskind"
+   },
+   {
+    "claim": "Founded Studio Daniel Libeskind in 1989 with his wife Nina; 2003 won the competition to be master plan architect for the World Trade Center site",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Libeskind"
+   },
+   {
+    "claim": "Known for the Jewish Museum Berlin, opened 2001",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Libeskind"
+   },
+   {
+    "claim": "Jewish Museum: line of \"Voids\" about 20 m tall; three axes for continuity, emigration and the Holocaust; tilted Garden of Exile; Holocaust Tower, 24 m bare concrete silo, unheated, light from a slit in the roof",
+    "source": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin"
+   },
+   {
+    "claim": "Imperial War Museum North: three interlocking shards of an imagined globe shattered by conflict, representing air, earth and water",
+    "source": "https://en.wikipedia.org/wiki/Imperial_War_Museum_North"
+   },
+   {
+    "claim": "Military History Museum: transparent arrowhead added to the former arsenal; points towards where the fire bombings of Dresden began",
+    "source": "https://en.wikipedia.org/wiki/Bundeswehr_Military_History_Museum"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Daniel Libeskind",
+    "url": "https://en.wikipedia.org/wiki/Daniel_Libeskind",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Studio Libeskind",
+    "title": "Work",
+    "url": "https://libeskind.com/work/",
+    "why": "the studio's own project list",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Studio Libeskind office page",
+    "url": "https://www.archdaily.com/office/studio-daniel-libeskind",
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Gordon Bunshaft",
+  "qid": "Q333581",
+  "kind": "person",
+  "born_died": "1909–1990",
+  "country": "American",
+  "bio": "Gordon Bunshaft (1909–1990) was an American architect and a leading voice of modern design in the mid-20th century, who spent more than 40 years leading designs at SOM. Born in Buffalo, New York, he studied at MIT and travelled in Europe on a Rotch Travelling Scholarship. He shared the 1988 Pritzker Prize with Oscar Niemeyer and gave the shortest acceptance speech in the prize's history.\n\nLever House in New York (1952), designed with Natalie de Blois, was in the critic Paul Goldberger's words the city's \"first major commercial structure with a glass curtain-wall\", after only the United Nations Secretariat. One Chase Manhattan Plaza (28 Liberty Street) (1961) is a 60-storey International Style tower whose plaza holds a sunken rock garden by Isamu Noguchi. The Beinecke Rare Book & Manuscript Library at Yale (1963) has thin marble walls that admit soft light but no direct sun. The Hirshhorn Museum and Sculpture Garden in Washington, D.C. (1974) is an open cylinder raised on four massive piers around a central fountain. Gordon Bunshaft's buildings are studied for clear forms, fine materials and the modern office tower.",
+  "facts": [
+   {
+    "claim": "May 9, 1909 – August 6, 1990; American architect, a leading proponent of modern design in the mid-twentieth century; born in Buffalo, New York",
+    "source": "https://en.wikipedia.org/wiki/Gordon_Bunshaft"
+   },
+   {
+    "claim": "Design leader at SOM for more than 40 years",
+    "source": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)"
+   },
+   {
+    "claim": "MIT degrees 1933 and 1935; Rotch Traveling Scholarship in Europe 1935–37",
+    "source": "https://en.wikipedia.org/wiki/Gordon_Bunshaft"
+   },
+   {
+    "claim": "Pritzker Prize 1988, shared with Oscar Niemeyer",
+    "source": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+    "note": "address found by web search; it is checked with the other links"
+   },
+   {
+    "claim": "Gave the shortest speech of any winner in the award's history",
+    "source": "https://en.wikipedia.org/wiki/Gordon_Bunshaft"
+   },
+   {
+    "claim": "Lever House, completed 1952; Paul Goldberger: New York's \"first major commercial structure with a glass curtain-wall (only the United Nations Secretariat preceded it)\"; with Natalie de Blois",
+    "source": "https://en.wikipedia.org/wiki/Gordon_Bunshaft"
+   },
+   {
+    "claim": "28 Liberty Street: 60-story International Style skyscraper; plaza with sunken Japanese rock garden by Isamu Noguchi",
+    "source": "https://en.wikipedia.org/wiki/28_Liberty_Street"
+   },
+   {
+    "claim": "Beinecke stone \"admits soft light, but no sunlight\"",
+    "source": "https://en.wikipedia.org/wiki/Gordon_Bunshaft"
+   },
+   {
+    "claim": "Hirshhorn: open cylinder elevated on four massive piers, large fountain in the central courtyard",
+    "source": "https://en.wikipedia.org/wiki/Hirshhorn_Museum_and_Sculpture_Garden"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Gordon Bunshaft",
+    "url": "https://en.wikipedia.org/wiki/Gordon_Bunshaft",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1988 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+    "why": "jury citation and biography",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Gordon Bunshaft tag page",
+    "url": "https://www.archdaily.com/tag/gordon-bunshaft",
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Henry Hobson Richardson",
+  "qid": "Q723234",
+  "kind": "person",
+  "born_died": "1838–1886",
+  "country": "American",
+  "bio": "Henry Hobson Richardson (1838–1886) was an American architect best known for Richardsonian Romanesque, a highly personal style that adapted the Romanesque architecture of southern France. Born in Louisiana, he studied at Harvard and then, from 1860, at the École des Beaux-Arts in Paris. With Louis Sullivan and Frank Lloyd Wright he is called one of \"the recognized trinity of American architecture\", and his Trinity Church in Boston (1872–1877) made his name across the country.\n\nWhen American architects named the ten best buildings in the country in 1885, half were his, among them Sever Hall at Harvard (1878) and the New York State Capitol in Albany. A series of small public libraries for New England towns defines his style: the Winn Memorial Library in Woburn (1879), the Ames Free Library in Easton (1883) and the Thomas Crane Public Library in Quincy (1881), thought the best of them. The Allegheny County Courthouse in Pittsburgh (1888), one of the two buildings he liked best, was finished after his death by his assistants. Henry Hobson Richardson's buildings are studied for their massing and masonry, and for an American style that influenced Sullivan and Wright.",
+  "facts": [
+   {
+    "claim": "September 29, 1838 – April 27, 1886; American architect; Richardsonian Romanesque, adapting the Romanesque of southern France",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "Born in St. James Parish, Louisiana; Harvard College; École des Beaux-Arts in Paris from 1860",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "With Louis Sullivan and Frank Lloyd Wright, one of \"the recognized trinity of American architecture\"",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "Trinity Church, Boston, built 1872–1877, solidified his national reputation",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "Of ten buildings named by American architects as the best in 1885, half were his, including Sever Hall and the New York State Capitol",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "Small New England public libraries define his style: Winn Memorial Library, Ames Free Library, Thomas Crane Public Library (regarded as the best)",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "Allegheny County Courthouse (1884–1888), one of the two he liked best, completed posthumously by his assistants",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   },
+   {
+    "claim": "Marshall Field Wholesale Store influenced Louis Sullivan and Frank Lloyd Wright",
+    "source": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Henry Hobson Richardson",
+    "url": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "H. H. Richardson tag page",
+    "url": "https://www.archdaily.com/tag/henry-hobson-richardson",
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
+   }
+  ],
+  "skip": false
+ }
+]

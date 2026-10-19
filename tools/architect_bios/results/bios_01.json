@@ -55,35 +55,35 @@
     "title": "Norman Foster",
     "url": "https://en.wikipedia.org/wiki/Norman_Foster",
     "why": "life, career and list of works",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1999 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1999",
     "why": "jury citation, biography, photos of works",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Foster + Partners",
     "title": "Projects",
     "url": "https://www.fosterandpartners.com/projects",
     "why": "the practice's own list of projects",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Norman Foster Foundation",
     "title": "Foundation",
     "url": "https://www.normanfosterfoundation.org/",
     "why": "archive and drawings",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Foster + Partners office page",
     "url": "https://www.archdaily.com/office/foster-plus-partners",
     "why": "projects with plans and photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -139,35 +139,35 @@
     "title": "Renzo Piano",
     "url": "https://en.wikipedia.org/wiki/Renzo_Piano",
     "why": "life and works, project by project",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1998 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1998",
     "why": "jury citation and biography",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Renzo Piano Building Workshop",
     "title": "Projects",
     "url": "https://www.rpbw.com/",
     "why": "the practice's own project list",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Fondazione Renzo Piano",
     "title": "Foundation",
     "url": "https://www.fondazionerenzopiano.org/",
     "why": "archive of drawings and models",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Renzo Piano Building Workshop office page",
     "url": "https://www.archdaily.com/office/renzo-piano-building-workshop",
     "why": "projects with plans and photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -231,21 +231,28 @@
     "title": "Oscar Niemeyer",
     "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
     "why": "life, ideas and works by decade",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1988 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1988-niemeyer",
+    "why": "jury citation and biography",
+    "checked": "2026-10-19"
    },
    {
     "site": "Fundação Oscar Niemeyer",
     "title": "Foundation",
     "url": "https://www.oscarniemeyer.org.br/",
     "why": "the architect's foundation and archive",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Oscar Niemeyer office page",
     "url": "https://www.archdaily.com/office/oscar-niemeyer",
     "why": "classics with photos and drawings",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -302,28 +309,28 @@
     "title": "Zaha Hadid",
     "url": "https://en.wikipedia.org/wiki/Zaha_Hadid",
     "why": "life and every major project",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2004 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2004",
     "why": "jury citation and biography",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Zaha Hadid Architects",
     "title": "Zaha Hadid Architects",
     "url": "https://www.zaha-hadid.com/",
     "why": "the practice's own site and project archive",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Zaha Hadid Architects office page",
     "url": "https://www.archdaily.com/office/zha",
     "why": "projects with plans and photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -375,28 +382,28 @@
     "title": "Le Corbusier",
     "url": "https://en.wikipedia.org/wiki/Le_Corbusier",
     "why": "life, ideas and works period by period",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "The Architectural Work of Le Corbusier",
     "url": "https://whc.unesco.org/en/list/1321",
     "why": "the 17 listed works in seven countries",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Fondation Le Corbusier",
     "title": "Foundation",
     "url": "https://www.fondationlecorbusier.fr/",
     "why": "works, drawings and archive",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Le Corbusier office page",
     "url": "https://www.archdaily.com/office/le-corbusier",
     "why": "classics with photos and drawings",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -453,21 +460,21 @@
     "title": "Alvar Aalto",
     "url": "https://en.wikipedia.org/wiki/Alvar_Aalto",
     "why": "life, works list and furniture",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Alvar Aalto Foundation",
     "title": "Alvar Aalto",
     "url": "https://www.alvaraalto.fi/en/",
     "why": "the foundation's works, museum and visits",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Alvar Aalto office page",
     "url": "https://www.archdaily.com/office/alvar-aalto",
     "why": "classics with photos and drawings",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -523,28 +530,28 @@
     "title": "Frank Gehry",
     "url": "https://en.wikipedia.org/wiki/Frank_Gehry",
     "why": "life, style and works",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1989 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1989",
     "why": "jury citation and biography",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Gehry Partners",
     "title": "Projects",
     "url": "https://www.foga.com/",
     "why": "the practice's own project list",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Gehry Partners office page",
     "url": "https://www.archdaily.com/office/gehry-partners",
     "why": "projects with plans and photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -596,21 +603,21 @@
     "title": "Herzog & de Meuron",
     "url": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
     "why": "history and project list",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2001 laureates",
     "url": "https://www.pritzkerprize.com/laureates/2001",
     "why": "jury citation and biographies",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Herzog & de Meuron office page",
     "url": "https://www.archdaily.com/office/herzog-and-de-meuron",
     "why": "projects with plans and photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -659,28 +666,28 @@
     "title": "Office for Metropolitan Architecture",
     "url": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
     "why": "history, partners and works",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "OMA",
     "title": "Projects",
     "url": "https://www.oma.com/projects",
     "why": "the practice's own project archive",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2000 laureate (Rem Koolhaas)",
     "url": "https://www.pritzkerprize.com/laureates/2000",
     "why": "jury citation and biography of OMA's founder",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "OMA office page",
     "url": "https://www.archdaily.com/office/oma",
     "why": "projects with plans and photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -729,28 +736,28 @@
     "title": "Glenn Murcutt",
     "url": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
     "why": "life, approach and full works list",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2002 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2002",
     "why": "jury citation and biography",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "Architecture Foundation Australia",
     "title": "Glenn Murcutt profile",
     "url": "https://www.ozetecture.org/glenn-murcutt-profile",
     "why": "profile from the foundation he co-runs",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Spotlight: Glenn Murcutt",
     "url": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
     "why": "overview of his houses with photos",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false

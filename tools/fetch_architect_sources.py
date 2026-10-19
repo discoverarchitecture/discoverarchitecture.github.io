@@ -10,6 +10,9 @@ search on the name when the qid is missing or "manual:"), then keeps: birth and 
 awards with years, notable works, official website, and the English Wikipedia article (introduction plus the
 plain text of the whole article, cut at about 6,000 words). Results are merged into
 tools/architect_bios/sources.json (name -> record), so batches can be fetched one after another.
+With --buildings NAME, it also fetches the English Wikipedia text (introduction plus design sections, about 800
+words) of every wall building by these architects, into tools/architect_bios/building_sources/NAME.json
+(building id -> record); --no-architects skips the architect records, --skip leaves names out.
 Needs network access to wikidata.org and en.wikipedia.org: runs on GitHub Actions (architect-bios.yml).
 """
 import argparse, json, re, sys, time, urllib.parse, urllib.request
@@ -123,6 +126,60 @@ def wikipedia(title):
             'intro': intro, 'text': text}
 
 
+SECTION_WORDS = ('architect', 'design', 'structure', 'construction', 'building', 'description', 'exterior',
+                 'interior', 'layout', 'features', 'facade', 'façade', 'roof', 'material', 'plan')
+BUILDING_WORDS = 800
+
+
+def building_text(title):
+    """Introduction plus the sections whose heading is about the design, cut at about 800 words."""
+    page = wikipedia(title)
+    parts = [page['intro']]
+    for m in re.finditer(r'\n==+ ([^=]+?) ==+\n(.*?)(?=\n==+ [^=]+? ==+\n|$)', page['text'], re.S):
+        if any(w in m.group(1).lower() for w in SECTION_WORDS):
+            parts.append(m.group(1).strip() + ': ' + m.group(2).strip())
+    words = ' '.join(parts).split(' ')
+    page['text'] = ' '.join(words[:BUILDING_WORDS]) + (' [...]' if len(words) > BUILDING_WORDS else '')
+    page.pop('intro')
+    return page
+
+
+def buildings(entries, name):
+    site = ROOT / 'site' / 'data' / 'buildings.js'
+    items = json.loads(site.read_text().split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
+    by = {b['id']: b for b in items}
+    out_dir = DIR / 'building_sources'
+    out_dir.mkdir(exist_ok=True)
+    out = {}
+    for e in entries:
+        for bid in e.get('building_ids', []):
+            b = by.get(bid)
+            if not b or bid in out:
+                continue
+            rec = {'name': b['name'], 'architect': e['name'], 'qid': b.get('qid')}
+            try:
+                qid = b.get('qid')
+                if not qid:
+                    hits = get(WD, {'action': 'wbsearchentities', 'search': b['name'], 'language': 'en',
+                                    'type': 'item', 'limit': 1}).get('search', [])
+                    qid = hits[0]['id'] if hits else None
+                    rec['qid_found_by_search'] = qid
+                title = None
+                if qid:
+                    ent = get(WD, {'action': 'wbgetentities', 'ids': qid, 'props': 'sitelinks'})['entities'][qid]
+                    title = ent.get('sitelinks', {}).get('enwiki', {}).get('title')
+                if title:
+                    rec.update(building_text(title))
+            except Exception as err:
+                rec['error'] = str(err)
+            print(f"   {bid}: {rec.get('title')}")
+            out[bid] = rec
+            time.sleep(0.5)
+    path = out_dir / f'{name}.json'
+    path.write_text(json.dumps(out, ensure_ascii=False, indent=1) + '\n')
+    print('wrote', path, len(out))
+
+
 def pick(todo, ranks, only):
     if only:
         names = {n.strip() for n in only.split(',')}
@@ -137,12 +194,21 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--ranks')
     ap.add_argument('--only')
+    ap.add_argument('--buildings', help='also fetch wall buildings into building_sources/NAME.json')
+    ap.add_argument('--no-architects', action='store_true')
+    ap.add_argument('--skip', help='names to leave out, comma-separated')
     ap.add_argument('--qids', help='overrides, "Name=Q123,Other=search phrase"')
     args = ap.parse_args()
     todo = json.loads((DIR / 'todo.json').read_text())
     over = dict(p.split('=', 1) for p in (args.qids or '').split(',') if '=' in p)
     out = json.loads(OUT.read_text()) if OUT.exists() else {}
-    for e in pick(todo, args.ranks, args.only):
+    skip = {n.strip() for n in (args.skip or '').split(',') if n.strip()}
+    entries = [e for e in pick(todo, args.ranks, args.only) if e['name'] not in skip]
+    if args.buildings:
+        buildings(entries, args.buildings)
+    if args.no_architects:
+        return
+    for e in entries:
         name = e['name']
         qid = over.get(name) or e.get('qid')
         note = None
