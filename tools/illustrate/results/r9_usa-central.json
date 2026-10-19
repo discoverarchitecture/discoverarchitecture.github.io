@@ -173,48 +173,6 @@
   ]
  },
  {
-  "id": "aon-center-chicago",
-  "name": "Aon Center",
-  "by": "Edward Durell Stone; Perkins and Will",
-  "city": "Chicago",
-  "cc": "US",
-  "year": "1973",
-  "type": "Office & tower",
-  "movement": "Late modernism",
-  "concepts": [
-   "Facade as skin",
-   "Geometry",
-   "Monumentality"
-  ],
-  "features": "83 floors and 346 m; completed 1973 as the Standard Oil Building.",
-  "status": "photo",
-  "commons_category": "Category:Aon Center (Chicago)",
-  "photos": [
-   {
-    "file": "File:Aon Center in Chicago May 2016.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:2020-01-01 4904x7356 chicago aon center.jpg",
-    "license": "Attribution (licence label not CC-specific on Commons; check)",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Aon_Center_(Chicago)",
-   "https://commons.wikimedia.org/wiki/Category:Aon_Center_(Chicago)"
-  ],
-  "note": "",
-  "coords": [
-   41.88527778,
-   -87.62138889
-  ]
- },
- {
   "id": "chicago-cultural-center",
   "name": "Chicago Cultural Center",
   "by": "Charles A. Coolidge",
@@ -383,42 +341,6 @@
   ]
  },
  {
-  "id": "marquette-building-chicago",
-  "name": "Marquette Building",
-  "by": "Holabird & Roche",
-  "city": "Chicago",
-  "cc": "US",
-  "year": "1895",
-  "type": "Office & tower",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Structure as expression",
-   "Facade as skin",
-   "Steel & glass"
-  ],
-  "features": "Early steel-frame Chicago School skyscraper of 1895 with a terracotta facade.",
-  "status": "photo",
-  "commons_category": null,
-  "photos": [
-   {
-    "file": "File:2010-03-03 1968x2952 chicago marquette building.jpg",
-    "license": "Attribution (licence label on Commons; check)",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Marquette_Building_(Chicago)"
-  ],
-  "note": "Commons category 'Marquette Building' not verified as the Chicago one, so none given.",
-  "coords": [
-   41.8795,
-   -87.63006944
-  ]
- },
- {
   "id": "rockefeller-chapel-chicago",
   "name": "Rockefeller Memorial Chapel",
   "by": "Bertram Goodhue",
@@ -453,48 +375,6 @@
   "coords": [
    41.78858,
    -87.59704
-  ]
- },
- {
-  "id": "merchandise-mart",
-  "name": "Merchandise Mart",
-  "by": "Graham, Anderson, Probst and White (Alfred P. Shaw)",
-  "city": "Chicago",
-  "cc": "US",
-  "year": "1930",
-  "type": "Workplace",
-  "movement": "Art Deco",
-  "concepts": [
-   "Monumentality",
-   "Geometry",
-   "Stone"
-  ],
-  "features": "Art Deco wholesale building of 1930, the world's largest at opening with about 4 million sq ft.",
-  "status": "photo",
-  "commons_category": "Category:Merchandise Mart",
-  "photos": [
-   {
-    "file": "File:Merchandise Mart 080405.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Chicago (ILL), Near North Side, Merchandise Mart, 1930 (4824759645).jpg",
-    "license": "CC BY 2.0",
-    "seen": true
-   }
-  ],
-  "extras": [],
-  "view": null,
-  "after": null,
-  "sources": [
-   "https://en.wikipedia.org/wiki/Merchandise_Mart",
-   "https://commons.wikimedia.org/wiki/Category:Merchandise_Mart"
-  ],
-  "note": "",
-  "coords": [
-   41.8884,
-   -87.6355
   ]
  },
  {
@@ -689,7 +569,7 @@
    "Facade as skin",
    "Steel & glass"
   ],
-  "features": "Gehry's 2002 business-school building: about 150,000 sq ft over five stories, with offices and classrooms spread across all floors.",
+  "features": "Gehry's 2002 business school: about 150,000 sq ft over five stories, offices and classrooms mixed on every floor.",
   "status": "photo",
   "commons_category": "Category:Peter B. Lewis Building",
   "photos": [
@@ -738,12 +618,12 @@
    {
     "file": "File:CMC-Union Terminal.jpg",
     "license": "CC BY-SA 4.0",
-    "seen": false
+    "seen": true
    },
    {
     "file": "File:Streamline Moderne - Cincinnati, OH - Cincinnati Union Terminal (1).jpg",
     "license": "CC BY 4.0",
-    "seen": false
+    "seen": true
    }
   ],
   "extras": [],
@@ -939,7 +819,7 @@
   "concepts": [
    "Structure as expression",
    "Steel & glass",
-   "Cantilever"
+   "Geometry"
   ],
   "features": "Arena of 1974 whose roof hangs from exterior steel trusses on three portals, leaving no interior columns.",
   "status": "photo",
@@ -967,6 +847,105 @@
   "coords": [
    39.09194444,
    -94.60583333
+  ]
+ },
+ {
+  "id": "akron-art-museum-knight-building",
+  "name": "Akron Art Museum (Knight Building)",
+  "by": "Coop Himmelb(l)au (Wolf D. Prix)",
+  "city": "Akron",
+  "cc": "US",
+  "year": "2007",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Cantilever",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Opened 2007: a three-storey glass 'Crystal' lobby, a 'Gallery Box' and a 327 ft cantilevered 'Roof Cloud'.",
+  "status": "photo",
+  "commons_category": "Category:Knight Building (Akron Art Museum)",
+  "photos": [
+   {
+    "file": "File:AkronOhioArtMuseum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Akron_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Knight_Building_(Akron_Art_Museum)"
+  ],
+  "note": "Commons parent Category:Akron Art Museum has 2 files; the new building's photos are in the Knight Building subcategory.",
+  "coords": [
+   41.084021,
+   -81.516318
+  ]
+ },
+ {
+  "id": "walker-art-center",
+  "name": "Walker Art Center",
+  "by": "Edward Larrabee Barnes; Herzog & de Meuron",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "1971",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "1971 brick museum by Edward Larrabee Barnes, with a 2005 aluminium-mesh tower addition by Herzog & de Meuron.",
+  "status": "unsure",
+  "commons_category": "Category:Walker Art Center",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walker_Art_Center",
+   "https://commons.wikimedia.org/wiki/Category:Walker_Art_Center"
+  ],
+  "note": "no main photo: only a signage-heavy daylight view (Walker Art Center, October 2017.jpg, CC BY 2.0) and a night view found; other exteriors (A view of the Walker Art Center exterior.jpg, CC BY 2.0, 4000x2337) not viewed.",
+  "coords": [
+   44.96805556,
+   -93.28861111
+  ]
+ },
+ {
+  "id": "purcell-cutts-house",
+  "name": "Purcell–Cutts House",
+  "by": "Purcell & Elmslie",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "1913",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Detail",
+   "Human comfort"
+  ],
+  "features": "1913 Prairie School house with a long, narrow plan that ignores Victorian room divisions.",
+  "status": "unsure",
+  "commons_category": "Category:Purcell–Cutts House",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edna_S._Purcell_House",
+   "https://commons.wikimedia.org/wiki/Category:Purcell–Cutts_House"
+  ],
+  "note": "no main photo: the only full exterior (Purcell and Elmslie Purcell-Cutts House MIA 9092.jpg) is a dusk view; others are details.",
+  "coords": [
+   44.95933611,
+   -93.30048056
   ]
  },
  {
