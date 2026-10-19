@@ -1275,5 +1275,120 @@
    -43.53148056,
    172.62823333
   ]
+ },
+ {
+  "id": "national-wine-centre-adelaide",
+  "name": "National Wine Centre of Australia",
+  "by": "Philip Cox",
+  "city": "Adelaide",
+  "cc": "AU",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Opened 6 October 2001 beside the Adelaide Botanic Garden, designed by Philip Cox.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:National wine centre walkway - Adelaide.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:National Wine Centre.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Wine_Centre_of_Australia"
+  ],
+  "note": "Wikipedia infobox: Philip Cox, opened 2001. No own Commons category checked; photos from a file search. Not yet seen."
+ },
+ {
+  "id": "auckland-war-memorial-museum",
+  "name": "Auckland War Memorial Museum",
+  "by": "Grierson & Aimer",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1929",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Neoclassical museum and war memorial on Observatory Hill, built in the 1920s and extended in the 1950s.",
+  "status": "photo",
+  "commons_category": "Category:Auckland War Memorial Museum",
+  "photos": [
+   {
+    "file": "File:Auckland War Memorial Museum in 2021.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Front view, Auckland War Memorial Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum"
+  ],
+  "note": "Wikipedia infobox: Grierson & Aimer; 1920s construction (Commons category 'Built in New Zealand in 1929'). Not yet seen.",
+  "coords": [
+   -36.86027778,
+   174.77777778
+  ]
+ },
+ {
+  "id": "gladesville-bridge-sydney",
+  "name": "Gladesville Bridge",
+  "by": "G. Maunsell & Partners with Eugène Freyssinet",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1964",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Concrete arch bridge built 1959 to 1964, with Maunsell & Partners, Anthony Gee and Eugène Freyssinet credited as designers.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Gladesville Bridge Sydney 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gladesville Bridge (8495164034).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gladesville_Bridge"
+  ],
+  "note": "Wikipedia infobox: Anthony Gee, G. Maunsell & Partners, Eugene Freyssinet; built 1959-1964. Check the claim 'Freyssinet's influence' is wording only; not yet seen."
  }
 ]
