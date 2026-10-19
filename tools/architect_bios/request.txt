@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 9-40 --skip OMA --no-architects --buildings batch_02
+python -u tools/check_overview_links.py --files bios_02.json,bios_01.json
