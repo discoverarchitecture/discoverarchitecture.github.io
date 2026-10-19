@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-19T15:18:48+00:00",
+ "fetched_at": "2026-10-19T22:17:14+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 281,
+ "visits_30d": 304,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 95,
+     "count": 100,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -52,6 +52,22 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113007284,
+     "path": "/buildings/jacobs-ii-house-solar-hemicycle",
+     "event": false,
+     "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112947619,
+     "path": "/buildings/bank-of-georgia-headquarters",
+     "event": false,
+     "title": "Bank of Georgia headquarters \u2014 George Chakhava, 1975: photos",
      "max": 1
     },
     {
@@ -160,10 +176,130 @@
     },
     {
      "count": 1,
-     "path_id": 113007284,
-     "path": "/buildings/jacobs-ii-house-solar-hemicycle",
+     "path_id": 113070056,
+     "path": "/buildings/the-opus",
      "event": false,
-     "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
+     "title": "The Opus \u2014 Zaha Hadid Architects, 2020",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113069596,
+     "path": "building/centre-point-london",
+     "event": true,
+     "title": "Centre Point",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113069564,
+     "path": "/buildings/centre-point-london",
+     "event": false,
+     "title": "Centre Point \u2014 George Marsh (R. Seifert and Partners), 1966",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113066354,
+     "path": "/buildings/galleria-department-store-seoul",
+     "event": false,
+     "title": "Galleria Department Store (West) \u2014 UNStudio, 2004: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113061457,
+     "path": "/buildings/collegio-del-colle-urbino",
+     "event": false,
+     "title": "Collegio del Colle \u2014 Giancarlo De Carlo, 1962: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113057618,
+     "path": "/buildings/osaka-international-convention-center",
+     "event": false,
+     "title": "Osaka International Convention Center (Grand Cube Osaka)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113057238,
+     "path": "/buildings/palacio-de-aguas-corrientes",
+     "event": false,
+     "title": "Palacio de Aguas Corrientes \u2014 Olaf Boye, 1894: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113042986,
+     "path": "/buildings/skovshoved-petrol-station",
+     "event": false,
+     "title": "Skovshoved Petrol Station \u2014 Arne Jacobsen, 1936: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113038041,
+     "path": "/buildings/nantes-school-of-architecture",
+     "event": false,
+     "title": "Nantes School of Architecture \u2014 Lacaton & Vassal, 2009",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113034815,
+     "path": "/buildings/baker-house",
+     "event": false,
+     "title": "Baker House \u2014 Alvar Aalto, 1949: photos, plans & sections",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113024588,
+     "path": "building/gobierno-civil-tarragona",
+     "event": true,
+     "title": "Gobierno Civil de Tarragona",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113023302,
+     "path": "/buildings/gobierno-civil-tarragona",
+     "event": false,
+     "title": "Gobierno Civil de Tarragona \u2014 Alejandro de la Sota, 1964",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113022922,
+     "path": "/buildings/acropolium-of-carthage",
+     "event": false,
+     "title": "Acropolium of Carthage (Cathedral of Saint Louis), 1890",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113019775,
+     "path": "/buildings/most-snp-bratislava",
+     "event": false,
+     "title": "Most SNP (UFO Bridge), 1972: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113012576,
+     "path": "/buildings/remai-modern",
+     "event": false,
+     "title": "Remai Modern, 2017: photos, plans & sections",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113009392,
+     "path": "/buildings/mediopadana-station",
+     "event": false,
+     "title": "Reggio Emilia AV Mediopadana station, 2013: photos",
      "max": 1
     },
     {
@@ -196,14 +332,6 @@
      "path": "/buildings/edificio-avianca",
      "event": false,
      "title": "Avianca Building, 1969: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112947619,
-     "path": "/buildings/bank-of-georgia-headquarters",
-     "event": false,
-     "title": "Bank of Georgia headquarters \u2014 George Chakhava, 1975: photos",
      "max": 1
     },
     {
@@ -677,137 +805,9 @@
      "event": true,
      "title": "Sever Hall",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112528172,
-     "path": "/buildings/grande-halle-de-la-villette",
-     "event": false,
-     "title": "Grande halle de la Villette, 1867: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112528136,
-     "path": "building/stadthaus-ulm",
-     "event": true,
-     "title": "Stadthaus Ulm",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112528000,
-     "path": "/buildings/stadthaus-ulm",
-     "event": false,
-     "title": "Stadthaus Ulm \u2014 Richard Meier, 1993: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112527838,
-     "path": "/buildings/study-pavilion-tu-braunschweig",
-     "event": false,
-     "title": "Study Pavilion, TU Braunschweig, 2023",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112503462,
-     "path": "building/berlin-state-library-haus-potsdamer-strae",
-     "event": true,
-     "title": "Berlin State Library (Haus Potsdamer Stra\u00dfe)",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112487700,
-     "path": "/buildings/nira-house",
-     "event": false,
-     "title": "Nira House (Leek House) \u2014 Terunobu Fujimori, 1997: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112487066,
-     "path": "/buildings/mercado-municipal-de-sao-paulo",
-     "event": false,
-     "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112481251,
-     "path": "/buildings/bouca-housing",
-     "event": false,
-     "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112478671,
-     "path": "/buildings/rock-and-roll-hall-of-fame",
-     "event": false,
-     "title": "Rock and Roll Hall of Fame \u2014 I. M. Pei, 1995: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112476392,
-     "path": "/buildings/indian-coffee-house",
-     "event": false,
-     "title": "Indian Coffee House \u2014 Laurie Baker, c. 1958: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112476372,
-     "path": "/buildings/centre-for-development-studies",
-     "event": false,
-     "title": "Centre for Development Studies \u2014 Laurie Baker, 1971: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112475234,
-     "path": "/buildings/ningbo-history-museum",
-     "event": false,
-     "title": "Ningbo History Museum \u2014 Wang Shu, 2008: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112472529,
-     "path": "/buildings/polin-museum-of-the-history-of-polish-jews",
-     "event": false,
-     "title": "POLIN Museum of the History of Polish Jews, 2013",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112471104,
-     "path": "building/harpa",
-     "event": true,
-     "title": "Harpa",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112459460,
-     "path": "/buildings/norwegian-glacier-museum",
-     "event": false,
-     "title": "Norwegian Glacier Museum \u2014 Sverre Fehn, 1991: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112457310,
-     "path": "/buildings/tempodrom",
-     "event": false,
-     "title": "Tempodrom \u2014 gmp (von Gerkan, Marg and Partners), 2001",
-     "max": 1
     }
    ],
-   "total": 228,
+   "total": 235,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 107,
+     "count": 121,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 80,
+     "count": 82,
      "ref_scheme": "o"
     },
     {
@@ -856,7 +856,7 @@
     {
      "id": "gemini.google.com",
      "name": "gemini.google.com",
-     "count": 3,
+     "count": 4,
      "ref_scheme": "h"
     },
     {
@@ -868,7 +868,7 @@
     {
      "id": "bing.com",
      "name": "bing.com",
-     "count": 1,
+     "count": 2,
      "ref_scheme": "h"
     },
     {
@@ -885,17 +885,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 175
+     "count": 190
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 98
+     "count": 104
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 8
+     "count": 10
     }
    ],
    "more": false
@@ -905,27 +905,32 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 111
+     "count": 126
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 74
+     "count": 75
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 37
+     "count": 42
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 32
+     "count": 33
     },
     {
      "id": "Linux",
      "name": "Linux",
      "count": 27
+    },
+    {
+     "id": "Chrome OS",
+     "name": "Chrome OS",
+     "count": 1
     }
    ],
    "more": false
@@ -933,14 +938,14 @@
   "locations": {
    "stats": [
     {
-     "id": "IN",
-     "name": "India",
-     "count": 71
-    },
-    {
      "id": "US",
      "name": "United States",
-     "count": 71
+     "count": 77
+    },
+    {
+     "id": "IN",
+     "name": "India",
+     "count": 72
     },
     {
      "id": "DE",
@@ -948,24 +953,24 @@
      "count": 19
     },
     {
+     "id": "GB",
+     "name": "United Kingdom",
+     "count": 16
+    },
+    {
      "id": "AU",
      "name": "Australia",
      "count": 12
     },
     {
-     "id": "GB",
-     "name": "United Kingdom",
-     "count": 12
+     "id": "CA",
+     "name": "Canada",
+     "count": 11
     },
     {
      "id": "ES",
      "name": "Spain",
      "count": 11
-    },
-    {
-     "id": "CA",
-     "name": "Canada",
-     "count": 10
     },
     {
      "id": "PT",
@@ -978,6 +983,11 @@
      "count": 7
     },
     {
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 6
+    },
+    {
      "id": "FR",
      "name": "France",
      "count": 6
@@ -988,8 +998,8 @@
      "count": 6
     },
     {
-     "id": "CH",
-     "name": "Switzerland",
+     "id": "RO",
+     "name": "Romania",
      "count": 4
     },
     {
@@ -1003,13 +1013,13 @@
      "count": 3
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
+     "id": "PE",
+     "name": "Peru",
      "count": 3
     },
     {
-     "id": "RO",
-     "name": "Romania",
+     "id": "PK",
+     "name": "Pakistan",
      "count": 3
     },
     {
@@ -1018,13 +1028,18 @@
      "count": 3
     },
     {
+     "id": "AT",
+     "name": "Austria",
+     "count": 2
+    },
+    {
      "id": "BR",
      "name": "Brazil",
      "count": 2
     },
     {
-     "id": "PE",
-     "name": "Peru",
+     "id": "MX",
+     "name": "Mexico",
      "count": 2
     },
     {
@@ -1048,18 +1063,28 @@
      "count": 2
     },
     {
+     "id": "AM",
+     "name": "Armenia",
+     "count": 1
+    },
+    {
      "id": "AR",
      "name": "Argentina",
      "count": 1
     },
     {
-     "id": "AT",
-     "name": "Austria",
+     "id": "BN",
+     "name": "Brunei",
      "count": 1
     },
     {
-     "id": "BN",
-     "name": "Brunei",
+     "id": "CL",
+     "name": "Chile",
+     "count": 1
+    },
+    {
+     "id": "CO",
+     "name": "Colombia",
      "count": 1
     },
     {
@@ -1093,6 +1118,11 @@
      "count": 1
     },
     {
+     "id": "LB",
+     "name": "Lebanon",
+     "count": 1
+    },
+    {
      "id": "MA",
      "name": "Morocco",
      "count": 1
@@ -1100,11 +1130,6 @@
     {
      "id": "MU",
      "name": "Mauritius",
-     "count": 1
-    },
-    {
-     "id": "MX",
-     "name": "Mexico",
      "count": 1
     },
     {
@@ -1120,6 +1145,11 @@
     {
      "id": "RS",
      "name": "Serbia",
+     "count": 1
+    },
+    {
+     "id": "SE",
+     "name": "Sweden",
      "count": 1
     },
     {
@@ -1145,22 +1175,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 100
+     "count": 101
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 23
+     "count": 25
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 153
+     "count": 172
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 5
+     "count": 6
     },
     {
      "id": "unknown",
@@ -1175,7 +1205,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 281
+     "count": 304
     }
    ],
    "more": false
