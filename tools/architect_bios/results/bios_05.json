@@ -137,13 +137,15 @@
     "site": "Floornature",
     "title": "Herman Hertzberger",
     "url": "https://www.floornature.com/herman-hertzberger-1/",
-    "why": "a profile of his life and main works"
+    "why": "a profile of his life and main works",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Reading Office",
     "title": "Herman Hertzberger",
     "url": "https://readingoffice.com/herman-hertzberger/",
-    "why": "his office buildings, Centraal Beheer above all"
+    "why": "his office buildings, Centraal Beheer above all",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -189,13 +191,15 @@
     "site": "World-Architects",
     "title": "Hiroshi Hara, 1936–2025",
     "url": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
-    "why": "an obituary surveying his career and main works"
+    "why": "an obituary surveying his career and main works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Archiweb",
     "title": "Hiroshi Hara",
     "url": "https://www.archiweb.cz/en/hiroshi-hara",
-    "why": "a list of his buildings with photos"
+    "why": "a list of his buildings with photos",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -252,7 +256,8 @@
     "site": "Museum of Modern Art, Kamakura & Hayama",
     "title": "Junzo Sakakura retrospective (2009)",
     "url": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
-    "why": "the museum he designed, on his life and work"
+    "why": "the museum he designed, on his life and work",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -590,13 +595,15 @@
     "site": "Back Bay Houses",
     "title": "McKim, Mead and White",
     "url": "https://backbayhouses.org/mckim-mead-and-white/",
-    "why": "a history of the firm and its partners"
+    "why": "a history of the firm and its partners",
+    "checked": "2026-10-19"
    },
    {
     "site": "Dumbarton Oaks",
     "title": "McKim, Mead & White",
     "url": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
-    "why": "a short biography of the firm"
+    "why": "a short biography of the firm",
+    "check_failed": "status 202, name not found on page"
    }
   ],
   "skip": false
@@ -661,13 +668,15 @@
     "site": "Wien Museum",
     "title": "Otto Wagner",
     "url": "https://www.wienmuseum.at/otto_wagner_en",
-    "why": "the museum that holds his estate, on his life and work"
+    "why": "the museum that holds his estate, on his life and work",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "University of Washington",
     "title": "Otto Wagner chronology",
     "url": "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm",
-    "why": "a chronology of his life and buildings"
+    "why": "a chronology of his life and buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -853,19 +862,22 @@
     "site": "Architectuul",
     "title": "Raili Pietilä",
     "url": "https://architectuul.com/architect/raili-pietila",
-    "why": "short biography and a list of her buildings with photos"
+    "why": "short biography and a list of her buildings with photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "Metropolis",
     "title": "Breaking the Modernist Mold",
     "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
-    "why": "an article on the Pietiläs' work and archive"
+    "why": "an article on the Pietiläs' work and archive",
+    "checked": "2026-10-19"
    },
    {
     "site": "Finnish Architectural Review",
     "title": "Archives: Raili Pietilä",
     "url": "https://www.ark.fi/en/2021/02/archives-raili-pietila/",
-    "why": "an article on her archive"
+    "why": "an article on her archive",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -988,13 +1000,15 @@
     "site": "Metropolis",
     "title": "Breaking the Modernist Mold",
     "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
-    "why": "an article on the Pietiläs' work and archive"
+    "why": "an article on the Pietiläs' work and archive",
+    "checked": "2026-10-19"
    },
    {
     "site": "UIA",
     "title": "Reima Pietilä",
     "url": "https://uia-architectes.org/?p=16461",
-    "why": "a profile from the International Union of Architects"
+    "why": "a profile from the International Union of Architects",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1230,13 +1244,15 @@
     "site": "Sharjah Art Foundation",
     "title": "Togo Murano",
     "url": "https://www.sharjahart.org/en/people/details/murano-togo",
-    "why": "a biography and summary of his work"
+    "why": "a biography and summary of his work",
+    "checked": "2026-10-19"
    },
    {
     "site": "Irenebrination",
     "title": "A Lesson in Collaboration: Remembering Togo Murano",
     "url": "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/",
-    "why": "a survey of his career"
+    "why": "a survey of his career",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1365,13 +1381,15 @@
     "site": "Structurae",
     "title": "Vladimir Shukhov",
     "url": "https://structurae.net/en/persons/vladimir-shukhov",
-    "why": "a list of his structures"
+    "why": "a list of his structures",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Architectuul",
     "title": "Vladimir Shukhov",
     "url": "https://architectuul.com/architect/vladimir-shukhov",
-    "why": "short biography and a list of his works with photos"
+    "why": "short biography and a list of his works with photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1436,13 +1454,15 @@
     "site": "Bauhaus Kooperation",
     "title": "Walter Gropius",
     "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
-    "why": "the Bauhaus institutions' biography"
+    "why": "the Bauhaus institutions' biography",
+    "checked": "2026-10-19"
    },
    {
     "site": "Structurae",
     "title": "Walter Gropius",
     "url": "https://structurae.net/en/persons/walter-gropius",
-    "why": "a list of his buildings"
+    "why": "a list of his buildings",
+    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false
@@ -1511,13 +1531,15 @@
     "site": "Los Angeles Conservancy",
     "title": "Welton Becket",
     "url": "https://www.laconservancy.org/architects/welton-becket",
-    "why": "his life and buildings in Los Angeles"
+    "why": "his life and buildings in Los Angeles",
+    "checked": "2026-10-19"
    },
    {
     "site": "Houston Mod",
     "title": "Welton Becket",
     "url": "https://houstonmod.org/architect/becket-welton/",
-    "why": "a profile with his firm's Houston buildings"
+    "why": "a profile with his firm's Houston buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1626,19 +1648,22 @@
     "site": "Structurae",
     "title": "Achyut Kanvinde",
     "url": "https://structurae.net/en/persons/achyut-ap-kanvinde",
-    "why": "a list of his buildings"
+    "why": "a list of his buildings",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Greyscape",
     "title": "Achyut Kanvinde",
     "url": "https://www.greyscape.com/architects/kanvinde-achyut/",
-    "why": "a profile with his major works"
+    "why": "a profile with his major works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Studio Matrx",
     "title": "Achyut Kanvinde",
     "url": "https://www.studiomatrx.org/architects/achyut-kanvinde",
-    "why": "a profile of his life and signature works"
+    "why": "a profile of his life and signature works",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1743,7 +1768,8 @@
     "site": "Architectus",
     "title": "Official site",
     "url": "https://www.architectus.com.au/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1892,13 +1918,15 @@
     "site": "Archiweb",
     "title": "Günter Behnisch",
     "url": "https://www.archiweb.cz/en/gunter-behnisch",
-    "why": "a list of his buildings with photos"
+    "why": "a list of his buildings with photos",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "Structurae",
     "title": "Günter Behnisch",
     "url": "https://structurae.net/en/persons/gunter-behnisch",
-    "why": "a list of the practice's works"
+    "why": "a list of the practice's works",
+    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false

@@ -46,19 +46,28 @@
  },
  {
   "architect": "Herman Hertzberger",
-  "url": "https://www.ahh.nl/",
+  "url": "https://www.archdaily.com/tag/herman-hertzberger",
   "status": 200,
-  "final": "https://www.ahh.nl/nl",
-  "title": "AHH architecten",
+  "final": "https://www.archdaily.com/tag/herman-hertzberger",
+  "title": "Herman Hertzberger | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Herman Hertzberger",
+  "url": "https://www.floornature.com/herman-hertzberger-1/",
+  "status": 403,
+  "final": "https://www.floornature.com/herman-hertzberger-1/",
+  "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Herman Hertzberger",
-  "url": "https://www.archdaily.com/tag/herman-hertzberger",
+  "url": "https://readingoffice.com/herman-hertzberger/",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/herman-hertzberger",
-  "title": "Herman Hertzberger | Tag\n | ArchDaily",
+  "final": "https://readingoffice.com/herman-hertzberger/",
+  "title": "Herman Hertzberger – Reading Office",
   "about": true,
   "error": null
  },
@@ -73,21 +82,21 @@
  },
  {
   "architect": "Hiroshi Hara",
-  "url": "https://www.archdaily.com/tag/hiroshi-hara",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/hiroshi-hara",
-  "title": "",
-  "about": false,
+  "url": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
+  "status": 200,
+  "final": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
+  "title": "Hiroshi Hara, 1936–2025 -",
+  "about": true,
   "error": null
  },
  {
   "architect": "Hiroshi Hara",
-  "url": "https://www.hara-atelierphi.com/",
-  "status": 0,
-  "final": "https://www.hara-atelierphi.com/",
-  "title": "",
+  "url": "https://www.archiweb.cz/en/hiroshi-hara",
+  "status": 200,
+  "final": "https://www.archiweb.cz/en/hiroshi-hara",
+  "title": "Kontrola prohlížeče",
   "about": false,
-  "error": "ERROR <urlopen error [Errno -2] Name or service not known>"
+  "error": null
  },
  {
   "architect": "Junzo Sakakura",
@@ -109,11 +118,11 @@
  },
  {
   "architect": "Junzo Sakakura",
-  "url": "https://www.archdaily.com/tag/junzo-sakakura",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/junzo-sakakura",
-  "title": "",
-  "about": false,
+  "url": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
+  "status": 200,
+  "final": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
+  "title": "Junzo SAKAKURA, Architect",
+  "about": true,
   "error": null
  },
  {
@@ -244,20 +253,29 @@
  },
  {
   "architect": "McKim, Mead & White",
-  "url": "https://www.nyhistory.org/library/mckim-mead-white-architectural-records",
-  "status": 404,
-  "final": "https://www.nyhistory.org/library/mckim-mead-white-architectural-records",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "McKim, Mead & White",
   "url": "https://architectuul.com/architect/mckim-mead-white",
   "status": 200,
   "final": "https://architectuul.com/architect/mckim-mead-white",
   "title": "McKim, Mead & White | Architectuul",
   "about": true,
+  "error": null
+ },
+ {
+  "architect": "McKim, Mead & White",
+  "url": "https://backbayhouses.org/mckim-mead-and-white/",
+  "status": 200,
+  "final": "https://backbayhouses.org/mckim-mead-and-white/",
+  "title": "McKim, Mead, and White | Back Bay Houses",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "McKim, Mead & White",
+  "url": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
+  "status": 202,
+  "final": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
+  "title": "",
+  "about": false,
   "error": null
  },
  {
@@ -271,19 +289,28 @@
  },
  {
   "architect": "Otto Wagner",
-  "url": "https://www.wienmuseum.at/en/otto_wagner",
-  "status": 404,
-  "final": "https://www.wienmuseum.at/en/otto_wagner",
+  "url": "https://www.archdaily.com/tag/otto-wagner",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/otto-wagner",
+  "title": "Otto Wagner | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Otto Wagner",
+  "url": "https://www.wienmuseum.at/otto_wagner_en",
+  "status": 200,
+  "final": "https://www.wienmuseum.at/otto_wagner_en",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Otto Wagner",
-  "url": "https://www.archdaily.com/tag/otto-wagner",
+  "url": "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/otto-wagner",
-  "title": "Otto Wagner | Tag\n | ArchDaily",
+  "final": "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm",
+  "title": "Vienna 1900",
   "about": true,
   "error": null
  },
@@ -352,20 +379,29 @@
  },
  {
   "architect": "Raili Pietilä",
-  "url": "https://www.mfa.fi/en/",
+  "url": "https://architectuul.com/architect/raili-pietila",
   "status": 200,
-  "final": "https://admuseo.fi/",
-  "title": "Arkkitehtuuri- ja designmuseo | Tulevaisuuden tekemisen museo",
-  "about": false,
+  "final": "https://architectuul.com/architect/raili-pietila",
+  "title": "Raili Pietila | Architectuul",
+  "about": true,
   "error": null
  },
  {
   "architect": "Raili Pietilä",
-  "url": "https://www.archdaily.com/tag/reima-pietila",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/reima-pietila",
-  "title": "",
-  "about": false,
+  "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "status": 200,
+  "final": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "title": "Breaking the Modernist Mold - Metropolis",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raili Pietilä",
+  "url": "https://www.ark.fi/en/2021/02/archives-raili-pietila/",
+  "status": 200,
+  "final": "https://www.ark.fi/en/2021/02/archives-raili-pietila/",
+  "title": "Archives: Raili Pietilä | ark",
+  "about": true,
   "error": null
  },
  {
@@ -406,19 +442,28 @@
  },
  {
   "architect": "Reima Pietilä",
-  "url": "https://www.archdaily.com/tag/reima-pietila",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/reima-pietila",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Reima Pietilä",
   "url": "https://architectuul.com/architect/reima-pietila",
   "status": 200,
   "final": "https://architectuul.com/architect/reima-pietila",
   "title": "Reima Pietila | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Reima Pietilä",
+  "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "status": 200,
+  "final": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "title": "Breaking the Modernist Mold - Metropolis",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Reima Pietilä",
+  "url": "https://uia-architectes.org/?p=16461",
+  "status": 200,
+  "final": "https://www.uia-architectes.org/en/awards/gold-medal-triennial-prizes/gold-medal/reima-pietila/",
+  "title": "Reima Pietilä - International Union of Architects",
   "about": true,
   "error": null
  },
@@ -523,20 +568,20 @@
  },
  {
   "architect": "Togo Murano",
-  "url": "https://www.archdaily.com/tag/togo-murano",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/togo-murano",
-  "title": "",
-  "about": false,
+  "url": "https://www.sharjahart.org/en/people/details/murano-togo",
+  "status": 200,
+  "final": "https://www.sharjahart.org/en/people/details/murano-togo",
+  "title": "Togo Murano | Sharjah Art Foundation",
+  "about": true,
   "error": null
  },
  {
   "architect": "Togo Murano",
-  "url": "https://architectuul.com/architect/togo-murano",
-  "status": 404,
-  "final": "https://architectuul.com/architect/togo-murano",
-  "title": "",
-  "about": false,
+  "url": "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/",
+  "status": 200,
+  "final": "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/",
+  "title": "A Lesson in Collaboration: Remembering Togo Murano (1891 – 1984) |",
+  "about": true,
   "error": null
  },
  {
@@ -577,19 +622,28 @@
  },
  {
   "architect": "Vladimir Shukhov",
-  "url": "https://www.shukhov.ru/",
-  "status": 0,
-  "final": "https://www.shukhov.ru/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [Errno -3] Temporary failure in name resolution>"
- },
- {
-  "architect": "Vladimir Shukhov",
   "url": "https://www.archdaily.com/tag/vladimir-shukhov",
   "status": 200,
   "final": "https://www.archdaily.com/tag/vladimir-shukhov",
   "title": "Vladimir Shukhov | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vladimir Shukhov",
+  "url": "https://structurae.net/en/persons/vladimir-shukhov",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/vladimir-shukhov",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Vladimir Shukhov",
+  "url": "https://architectuul.com/architect/vladimir-shukhov",
+  "status": 200,
+  "final": "https://architectuul.com/architect/vladimir-shukhov",
+  "title": "Vladimir Shukhov | Architectuul",
   "about": true,
   "error": null
  },
@@ -604,29 +658,29 @@
  },
  {
   "architect": "Walter Gropius",
-  "url": "https://www.bauhauskooperation.com/knowledge/the-bauhaus/people/directors/walter-gropius/",
-  "status": 0,
-  "final": "https://www.bauhauskooperation.com/knowledge/the-bauhaus/people/directors/walter-gropius/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [Errno -2] Name or service not known>"
- },
- {
-  "architect": "Walter Gropius",
-  "url": "https://www.historicnewengland.org/property/gropius-house/",
-  "status": 403,
-  "final": "https://www.historicnewengland.org/property/gropius-house/",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Walter Gropius",
   "url": "https://www.archdaily.com/tag/walter-gropius",
   "status": 200,
   "final": "https://www.archdaily.com/tag/walter-gropius",
   "title": "Walter Gropius | Tag\n | ArchDaily",
   "about": true,
+  "error": null
+ },
+ {
+  "architect": "Walter Gropius",
+  "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+  "status": 200,
+  "final": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+  "title": "Gropius, Walter: Bauhaus Kooperation",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Walter Gropius",
+  "url": "https://structurae.net/en/persons/walter-gropius",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/walter-gropius",
+  "title": "",
+  "about": false,
   "error": null
  },
  {
@@ -640,19 +694,28 @@
  },
  {
   "architect": "Welton Becket",
-  "url": "https://www.laconservancy.org/learn/architects/welton-becket/",
-  "status": 404,
-  "final": "https://www.laconservancy.org/learn/architects/welton-becket/",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Welton Becket",
   "url": "https://architectuul.com/architect/welton-becket",
   "status": 200,
   "final": "https://architectuul.com/architect/welton-becket",
   "title": "Welton Becket | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Welton Becket",
+  "url": "https://www.laconservancy.org/architects/welton-becket",
+  "status": 200,
+  "final": "https://www.laconservancy.org/learn/architect-biographies/welton-becket/",
+  "title": "Welton Becket - LA Conservancy",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Welton Becket",
+  "url": "https://houstonmod.org/architect/becket-welton/",
+  "status": 200,
+  "final": "https://houstonmod.org/architect/becket-welton/",
+  "title": "Becket, Welton D. - HoustonMod.",
   "about": true,
   "error": null
  },
@@ -694,20 +757,29 @@
  },
  {
   "architect": "Achyut Kanvinde",
-  "url": "https://architectuul.com/architect/achyut-kanvinde",
-  "status": 404,
-  "final": "https://architectuul.com/architect/achyut-kanvinde",
+  "url": "https://structurae.net/en/persons/achyut-ap-kanvinde",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/achyut-ap-kanvinde",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Achyut Kanvinde",
-  "url": "https://www.archdaily.com/tag/achyut-kanvinde",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/achyut-kanvinde",
-  "title": "",
-  "about": false,
+  "url": "https://www.greyscape.com/architects/kanvinde-achyut/",
+  "status": 200,
+  "final": "https://www.greyscape.com/architects/kanvinde-achyut/",
+  "title": "Kanvinde, Achyut - Greyscape",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Achyut Kanvinde",
+  "url": "https://www.studiomatrx.org/architects/achyut-kanvinde",
+  "status": 200,
+  "final": "https://www.studiomatrx.org/architects/achyut-kanvinde",
+  "title": "Achyut Kanvinde — He brought the Bauhaus home and built the institutions of a new India | Studio Matrx",
+  "about": true,
   "error": null
  },
  {
@@ -748,19 +820,19 @@
  },
  {
   "architect": "Architectus",
-  "url": "https://architectus.com.au/",
-  "status": 0,
-  "final": "https://architectus.com.au/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error timed out>"
- },
- {
-  "architect": "Architectus",
   "url": "https://www.archdaily.com/office/architectus",
   "status": 200,
   "final": "https://www.archdaily.com/office/architectus",
   "title": "Architectus | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Architectus",
+  "url": "https://www.architectus.com.au/",
+  "status": 200,
+  "final": "https://architectus.com.au/",
+  "title": "Home | Architectus",
   "about": true,
   "error": null
  },
@@ -771,15 +843,6 @@
   "final": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
   "title": "Tsitsernakaberd - Wikipedia",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Artur Tarkhanyan",
-  "url": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
-  "title": "Karen Demirchyan Complex - Wikipedia",
-  "about": false,
   "error": null
  },
  {
@@ -810,15 +873,6 @@
   "error": null
  },
  {
-  "architect": "Ashton Raggatt McDougall",
-  "url": "https://www.archdaily.com/office/arm-architecture",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/arm-architecture",
-  "title": "ARM Architecture | ArchDaily",
-  "about": false,
-  "error": null
- },
- {
   "architect": "Behnisch & Partner",
   "url": "https://en.wikipedia.org/wiki/Günter_Behnisch",
   "status": 200,
@@ -838,9 +892,18 @@
  },
  {
   "architect": "Behnisch & Partner",
-  "url": "https://www.archdaily.com/tag/gunter-behnisch",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/gunter-behnisch",
+  "url": "https://www.archiweb.cz/en/gunter-behnisch",
+  "status": 200,
+  "final": "https://www.archiweb.cz/en/gunter-behnisch",
+  "title": "Kontrola prohlížeče",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Behnisch & Partner",
+  "url": "https://structurae.net/en/persons/gunter-behnisch",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/gunter-behnisch",
   "title": "",
   "about": false,
   "error": null
