@@ -196,6 +196,7 @@
     "File:Catedral de Brasilia em meados de novembro de 2023 (8).jpg",
     "Exterior"
    ],
+   "File:Catedral Metropolitana de Brasília - Brasília - 20150603150521.jpg",
    [
     "File:Cathedral of Brasilia.jpg",
     "Exterior"
@@ -219,10 +220,6 @@
    [
     "File:Sinos da Catedral Metropolitana de Brasília visto do interior do monumento.jpg",
     "Detail"
-   ],
-   [
-    "File:Brasília - Catedral metropolitana (28).jpg",
-    "Context"
    ]
   ],
   "skip": [
@@ -280,6 +277,7 @@
     "File:National Assembly of Bangladesh (10).jpg",
     "Exterior"
    ],
+   "File:National Assembly of Bangladesh (06).jpg",
    [
     "File:National Assembly of Bangladesh (08).jpg",
     "Exterior"
@@ -353,6 +351,8 @@
     "File:Gurna Mosque R01.jpg",
     "Exterior"
    ],
+   "File:Gurna Mosque R03.jpg",
+   "File:Gurna Mosque R04.jpg",
    [
     "File:Gurna Mosque R02.jpg",
     "Exterior"
@@ -374,12 +374,8 @@
     "Interior"
    ],
    [
-    "File:NewQurnaMarketArcade.jpg",
-    "Detail"
-   ],
-   [
-    "File:NewQurnaHouseCourt.jpg",
-    "Detail"
+    "File:New Gourna Village - Craft's Exhibition- Section.jpg",
+    "Section"
    ]
   ]
  },
@@ -892,6 +888,7 @@
     "File:Faculdade de Arquitetura e Urbanismo - USP 01.jpg",
     "Exterior"
    ],
+   "File:At Cidade Universitária Armando de Salles Oliveira 2023 096.jpg",
    [
     "File:At Cidade Universitária Armando de Salles Oliveira 2023 098.jpg",
     "Exterior"
@@ -915,10 +912,6 @@
    [
     "File:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo (FAU ou FAUUSP), João Batista Vilanova Artigas (5878179748).jpg",
     "Detail"
-   ],
-   [
-    "File:At Cidade Universitária Armando de Salles Oliveira 2023 100.jpg",
-    "Context"
    ]
   ]
  },
@@ -1011,6 +1004,7 @@
     "File:Palace of Assembly Chandigarh.jpg",
     "Exterior"
    ],
+   "File:Palace of Assembly Chandigarh 2006.jpg",
    [
     "File:Chandigarh assembly building 01.JPG",
     "Exterior"
@@ -1018,10 +1012,6 @@
    [
     "File:Palace of Assembly rear.jpg",
     "Exterior"
-   ],
-   [
-    "File:Palace of Assembly above.jpg",
-    "Context"
    ],
    [
     "File:Corridor of legislative assembly.jpg",
@@ -1607,7 +1597,11 @@
  },
  "yoyogi-national-gymnasium": {
   "pick": [
-   "File:Gym stadium @ Harajuku (8972770585).jpg",
+   [
+    "File:Gym stadium @ Harajuku (8972770585).jpg",
+    "Exterior"
+   ],
+   "File:Kokuritsu Yoyogi Kyōgijō 1.jpg",
    [
     "File:Yoyogi National Gymnasium in Tobu World Square.jpg",
     "Exterior"
@@ -1636,6 +1630,7 @@
     "File:Habitat 67 2019 dllu 01.jpg",
     "Exterior"
    ],
+   "File:Habitat 67 2019 dllu 02.jpg",
    [
     "File:Habitat 67 @ Cité du Havre @ Montréal (29906899563).jpg",
     "Exterior"
@@ -1661,8 +1656,8 @@
     "Detail"
    ],
    [
-    "File:Habitat 67 @ Cité du Havre @ Montréal (29909599964).jpg",
-    "Context"
+    "File:人居67模型.jpg",
+    "Model"
    ]
   ]
  },
@@ -1740,6 +1735,7 @@
     "File:1352667 II BARBICAN, Brandon Mews City of London London 20250613 0003.jpg",
     "Exterior"
    ],
+   "File:Barbican Estate City of London 2026 07.jpg",
    [
     "File:1352667 II BARBICAN, City of London School for girls City of London London 20250613 0002.jpg",
     "Exterior"
@@ -1747,10 +1743,6 @@
    [
     "File:1352667 II BARBICAN, Defoe House City of London London 20250613 0005.jpg",
     "Exterior"
-   ],
-   [
-    "File:Barbican Estate 2018-09-22.jpg",
-    "Context"
    ],
    [
     "File:1352667 II BARBICAN, Frobisher Crecsent City of London London 20250613 0001.jpg",
@@ -1765,8 +1757,12 @@
     "Detail"
    ],
    [
-    "File:1001668 II Star BARBICAN, Lake City of London London 20250613 0001.jpg",
+    "File:Barbican Estate 2018-09-22.jpg",
     "Context"
+   ],
+   [
+    "File:BARBICAN REDEVELOPMENT GENERAL LAYOUT ROOF PLAN.jpg",
+    "Plan"
    ]
   ]
  },
@@ -2255,6 +2251,8 @@
     "File:Lloyd's Building, London.jpg",
     "Exterior"
    ],
+   "File:Lloyd's Building - Exterior Staircase.jpg",
+   "File:Lloyd's Building - Atrium roof.jpg",
    [
     "File:Lloyd's (15150004935).jpg",
     "Exterior"
@@ -2276,12 +2274,8 @@
     "Interior"
    ],
    [
-    "File:Lloyd's building windows 2025-02-10.jpg",
-    "Detail"
-   ],
-   [
-    "File:London MMB »2D8 Lloyds Building.jpg",
-    "Context"
+    "File:Lloyd's of London floor plan.png",
+    "Plan"
    ]
   ]
  },
@@ -2327,6 +2321,7 @@
     "File:Baden-Württemberg Weil am Rhein Vitra Fire station 01.jpg",
     "Exterior"
    ],
+   "File:2025-04-02 GV RegBas Fuehrung Vitra 038.jpg",
    [
     "File:Feuerwehrhaus von Zaha Hadid bei Vitra in Weil am Rhein an der Álvaro-Siza-Promenade 2.jpg",
     "Exterior"
@@ -2350,10 +2345,6 @@
    [
     "File:VitraCampus HadidFireStation-pjt2.jpg",
     "Detail"
-   ],
-   [
-    "File:Feuerwehrhaus von Zaha Hadid bei Vitra in Weil am Rhein, rechts Fabrikgebäude von Álvaro Siza.jpg",
-    "Detail"
    ]
   ]
  },
@@ -2363,6 +2354,8 @@
     "File:Bilbao - Museo Guggenheim 01.jpg",
     "Exterior"
    ],
+   "File:Bilbao Guggenheim 1190400.jpg",
+   "File:Bilbao Guggenheim 1190444.jpg",
    [
     "File:Bilbao - Ria.jpg",
     "Exterior"
@@ -2382,14 +2375,6 @@
    [
     "File:Detail of the Guggenheim Museum entrance, Bilbao, Spain (PPL1-Corrected) julesvernex2.jpg",
     "Detail"
-   ],
-   [
-    "File:Detail of the Guggenheim Museum titanium façade, Bilbao, Spain (PPL1-Corrected) julesvernex2.jpg",
-    "Detail"
-   ],
-   [
-    "File:Dusk at Bilbao.jpg",
-    "Context"
    ]
   ]
  },
@@ -2471,6 +2456,9 @@
     "File:Seattle Library 01.jpg",
     "Exterior"
    ],
+   "File:Seattle metropolitan area, April 2023 - 142.jpg",
+   "File:Seattle metropolitan area, April 2023 - 144.jpg",
+   "File:Seattle metropolitan area, April 2023 - 154.jpg",
    [
     "File:Seattle Central Library (5763011359).jpg",
     "Exterior"
@@ -2486,18 +2474,6 @@
    [
     "File:Seattle Central Library 05.jpg",
     "Interior"
-   ],
-   [
-    "File:Seattle Central Library 08.jpg",
-    "Interior"
-   ],
-   [
-    "File:Seattle Public Library-Central Library, Seattle, United States (Unsplash).jpg",
-    "Detail"
-   ],
-   [
-    "File:Seattle Central Library at Night.jpg",
-    "Context"
    ]
   ],
   "skip": [
@@ -2546,6 +2522,8 @@
     "File:Oslo Opera House 2023 2.jpg",
     "Exterior"
    ],
+   "File:Oslo Opera House 2023 5.jpg",
+   "File:Oper Oslo 3.jpg",
    [
     "File:Oslo Opera 2019-09.jpg",
     "Exterior"
@@ -2564,10 +2542,6 @@
    ],
    [
     "File:Den Norske Opera og Ballett Oslo 2026-01-14 01.jpg",
-    "Context"
-   ],
-   [
-    "File:Oslo Opera House (Den Norske Opera & Ballett), Norway.jpg",
     "Context"
    ]
   ]
@@ -2777,6 +2751,8 @@
     "File:New York City High Line - Urban Forestry - 20150915-OSEC-LSC-0172 (20976525663).jpg",
     "Exterior"
    ],
+   "File:At New York City 2023 024 - High Line Section 3.jpg",
+   "File:At New York City 2023 026.jpg",
    [
     "File:High Line New York City 2018 03.jpg",
     "Exterior"
@@ -2790,20 +2766,12 @@
     "Exterior"
    ],
    [
-    "File:High Line New York City 2018 02.jpg",
-    "Detail"
+    "File:High Line 25.JPG",
+    "Exterior"
    ],
    [
-    "File:23rd St 10th Av td (2018-11-27) 24 - High Line.jpg",
-    "Context"
-   ],
-   [
-    "File:At New York City 2023 028.jpg",
-    "Context"
-   ],
-   [
-    "File:Sanborn Manhattan V. 1 Plate 064 publ. 1905.jpg",
-    "Drawing"
+    "File:High Line August 2017 01.jpg",
+    "Exterior"
    ]
   ],
   "skip": [
@@ -2860,6 +2828,8 @@
     "File:Zeitz Museum of Contemporary Art Africa.jpg",
     "Exterior"
    ],
+   "File:At Cape Town (MP) 2018 115.jpg",
+   "File:Zeitz Museum of Contemporary Art Africa, Cape Town ( 1050775).jpg",
    [
     "File:Cape Town (ZA), Waterfront, Zeitz Museum of Contemporary Art Africa -- 2024 -- 2980.jpg",
     "Exterior"
@@ -2879,14 +2849,6 @@
    [
     "File:Corridors leading from shaft inside Zeitz MOCAA - Museum of Contermporary Art Africa.jpg",
     "Interior"
-   ],
-   [
-    "File:Zeitz Museum of Contemporary Art Kapstadt.jpg",
-    "Context"
-   ],
-   [
-    "File:Cosmic Letter-Zeitz.jpg",
-    "Detail"
    ]
   ]
  },
@@ -2896,13 +2858,10 @@
     "File:Roma - Pantheon at dusk - in 2024.jpg",
     "Exterior"
    ],
+   "File:Above main altar, Pantheon, Rome, Italy.jpg",
    [
     "File:Pantheon portico and dome, Rome.jpg",
     "Exterior"
-   ],
-   [
-    "File:Πάνθεον Ρώμης 2025-10-12 1987.jpg",
-    "Context"
    ],
    [
     "File:Roma - Pantheon - in 2024 v05.jpg",
@@ -2917,12 +2876,16 @@
     "Interior"
    ],
    [
+    "File:Πάνθεον Ρώμης 2025-10-14 0387.jpg",
+    "Interior"
+   ],
+   [
     "File:Πάνθεον Ρώμης 2025-10-14 0377.jpg",
     "Detail"
    ],
    [
-    "File:Πάνθεον Ρώμης 2025-10-14 0387.jpg",
-    "Interior"
+    "File:Oculo del Pantheon, 16th century - Archivio Accademia delle Scienze Torino, Millon 64 05 140.jpg",
+    "Plan"
    ]
   ]
  },
@@ -3235,6 +3198,32 @@
   "skip": [
    "File:Model of a fluyt, MS, 2017-08-02.jpg",
    "File:Danish Maritime Museum interior, 2017-08-02.jpg"
+  ],
+  "pick": [
+   [
+    "File:Maritime Museum of Denmark April 2026 03.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Maritime Museum of Denmark, entrance 2017-08-02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Maritime Museum of Denmark April 2026 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Maritime Museum of Denmark April 2026 02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Danish Maritime Museum exterior.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Danish Maritime Museum interior walkway.jpg",
+    "Interior"
+   ]
   ]
  },
  "wexner-center-for-the-arts": {
@@ -3291,6 +3280,27 @@
  "kirche-am-steinhof": {
   "skip": [
    "File:14 Otto Wagner-Kirche - Baumgartnerhöhe - Wagner Band 5. 6. und 7. Heft - Das Modell, Heliogravure.jpg"
+  ],
+  "pick": [
+   [
+    "File:Penzing (Wien) - Kirche am Steinhof (7).JPG",
+    "Exterior"
+   ],
+   "File:20250503 Kirche am Steinhof 10.jpg",
+   "File:20250503 Kirche am Steinhof 05.jpg",
+   "File:20250503 Kirche am Steinhof 06.jpg",
+   [
+    "File:Baumgartner Friedhof, Vienna 07.jpg",
+    "Exterior"
+   ],
+   [
+    "File:20250503 Kirche am Steinhof 03.jpg",
+    "Interior"
+   ],
+   [
+    "File:07 Otto Wagner-Kirche - Baumgartnerhöhe - Wagner Band 5. 6. und 7. Heft - Hauptfassade, Heliogravur.jpg",
+    "Elevation"
+   ]
   ]
  },
  "barbican-centre": {
@@ -3314,8 +3324,21 @@
    "File:Construction of Stuttgart 21 station in 2023 1X7A7117.jpg",
    "File:Construction of Stuttgart 21 station in October 2024 IMG 1984.jpg"
   ],
-  "add": [
-   "File:Fernsehturm Stuttgart.JPG"
+  "pick": [
+   [
+    "File:Fernsehturm Stuttgart.JPG",
+    "Exterior"
+   ],
+   "File:Fernsehturm Stuttgart amk.jpg",
+   "File:Fernsehturm Stuttgart Turmkorb.jpg",
+   [
+    "File:Interior of Fernsehturm Stuttgart (2).jpg",
+    "Interior"
+   ],
+   [
+    "File:Fundamentfuss-Stuttgarter-Fernsehturm-beziffert.png",
+    "Drawing"
+   ]
   ]
  },
  "mucem": {
@@ -21384,6 +21407,29 @@
  "commerzbank-tower": {
   "skip": [
    "File:Commerzbank Bronzeskulptur Lesende Dame.jpg"
+  ],
+  "pick": [
+   [
+    "File:Commerzbank-Hochhaus 2010-09-06 01.jpg",
+    "Exterior"
+   ],
+   "File:Frankfurt Main Skyline Commerzbank Tower - 06.jpg",
+   [
+    "File:2015-03-04 Top of Commerzbank Tower Frankfurt Main Hesse Germany.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Frankfurt Am Main-Commerzbank Tower-Ansicht vom Eisernen Steg.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Commerzbank Wolkenvlies Thomas Emde.jpg",
+    "Interior"
+   ],
+   [
+    "File:Frankfurt am Main - Commerzbank Tower (1).jpg",
+    "Interior"
+   ]
   ]
  },
  "national-museum-of-western-art": {
@@ -21406,6 +21452,21 @@
    "File:Smithsonian - NMAAHC - Dress designed by Ann Lowe - 2007.3.20 001.jpg",
    "File:Smithsonian - NMAAHC - Dress designed by Ann Lowe - NMAAHC- 2007.3.21.jpg",
    "File:Benjamin Banneker statue at the National Museum of African American History and Culture.jpg"
+  ],
+  "pick": [
+   [
+    "File:National Museum of African American History and Culture in February 2020.jpg",
+    "Exterior"
+   ],
+   "File:National Museum of African American History and Culture (97901).jpg",
+   [
+    "File:Smithsonian-nmaahc-outside-20160720.jpg",
+    "Exterior"
+   ],
+   [
+    "File:National Museum of African American History and Culture visit by Secretary Vilsack and Deputy Secretary Bronaugh (20210617-OSEC-LSC-0469).jpg",
+    "Interior"
+   ]
   ]
  },
  "pirelli-tower": {
@@ -21418,8 +21479,32 @@
   "skip": [
    "File:Yad Vashem Holocaust Memorial Sculpture From Holocaust to Rebirth (42555490154).jpg"
   ],
-  "add": [
-   "File:2019 Israel Jordanien 1060 Yad Vashem.JPG"
+  "pick": [
+   [
+    "File:2019 Israel Jordanien 1060 Yad Vashem.JPG",
+    "Interior"
+   ],
+   "File:Israel-2013(2)-Jerusalem-Yad Vashem-Prism Skylight 01.jpg",
+   [
+    "File:YadVashemMar042023 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Builders Terrace, Yad Vashem, 2019 (01).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Yad Vashem (Prism Skylight) 2008.jpg",
+    "Interior"
+   ],
+   [
+    "File:2019 Israel Jordanien 1063 Yad Vashem.JPG",
+    "Interior"
+   ],
+   [
+    "File:Yad Vashem Holocaust Museum Model of Crematorium II, Birkenau (29404260018).jpg",
+    "Model"
+   ]
   ]
  },
  "dongdaemun-design-plaza": {
@@ -21482,6 +21567,31 @@
  "goetheanum": {
   "skip": [
    "File:Rudolf Steiner mit Modell Erstes Goetheanum -16. Juni 1914.Foto Rietmann.jpg"
+  ],
+  "pick": [
+   [
+    "File:Goetheanum Dornach2.jpg",
+    "Exterior"
+   ],
+   "File:Aerial View - Goetheanum1.jpg",
+   "File:Dornach - Goetheanum - Detail4.jpg",
+   "File:Dornach - Goetheanum - Detail3.jpg",
+   [
+    "File:Goetheanum Dornach.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Dornach - Goetheanum.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Erstes Goetheanum - Riss des Saalgeschosses.jpg",
+    "Plan"
+   ],
+   [
+    "File:Goetheanum-Längsschnitt.jpg",
+    "Drawing"
+   ]
   ]
  },
  "louvre-lens": {
@@ -21513,6 +21623,29 @@
  "viipuri-library": {
   "skip": [
    "File:Vyborg Library 20.jpg"
+  ],
+  "pick": [
+   [
+    "File:Alvar Aalto Library Vyborg3.jpg",
+    "Exterior"
+   ],
+   "File:Выборг, бибилиотека Аалто сверху.jpg",
+   [
+    "File:Vyborg AaltoLibrary 006 9761.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Alvar Aalto Library Vyborg2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vyborg. Aalto Library.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Vyborg Library 19.jpg",
+    "Interior"
+   ]
   ]
  },
  "chichu-art-museum": {
@@ -21597,6 +21730,29 @@
  "parliament-house": {
   "skip": [
    "File:20180530 Australian Aid Friendship Grants launch-9687 (28339513347).jpg"
+  ],
+  "pick": [
+   [
+    "File:Canberra (AU), Parliament House -- 2019 -- 1754.jpg",
+    "Exterior"
+   ],
+   "File:Canberra (AU), Parliament House and Old Parliament House -- 2019 -- 1767.jpg",
+   [
+    "File:Parliament House at dusk, Canberra ACT.jpg",
+    "Context"
+   ],
+   [
+    "File:Canberra (AU), Commonwealth Avenue Bridge -- 2019 -- 1811.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Canberra (AU), Parliament House -- 2019 -- 1745.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Canberra (AU), Parliament House -- 2019 -- 1746.jpg",
+    "Exterior"
+   ]
   ]
  },
  "united-states-holocaust-memorial-museum": {
@@ -21699,6 +21855,26 @@
  "toronto-dominion-centre": {
   "skip": [
    "File:Bay Street Toronto May 2012.jpg"
+  ],
+  "pick": [
+   [
+    "File:Toronto Dominion Centre, January 26 2026 (cropped).jpg",
+    "Exterior"
+   ],
+   "File:Toronto Financial District August 2017.jpg",
+   "File:Scotia Bank Plaza as seen from Toronto Dominion Centre.jpg",
+   [
+    "File:Toronto Dominion Centre, January 26 2026.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Toronto-Dominion Centre in Toronto 1973.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Toronto-Dominion Centre TD North Tower Lobby 2021.jpg",
+    "Interior"
+   ]
   ]
  },
  "psfs-building": {
@@ -24734,8 +24910,28 @@
   ]
  },
  "portugal-pavilion": {
-  "add": [
-   "File:Parque das Nações (pavillon du Portugal) (9322014331).jpg"
+  "pick": [
+   [
+    "File:Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+    "Exterior"
+   ],
+   "File:Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+   [
+    "File:Parque das Nações (pavillon du Portugal) (9322014331).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Distant view of Pavilhão de Portugal with park benches in the foreground, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Pavilhão de Portugal (28607137757).jpg",
+    "Exterior"
+   ],
+   [
+    "File:Pavilhão de Portugal (28607138757).jpg",
+    "Exterior"
+   ]
   ]
  },
  "saitama-prefectural-university": {
@@ -24804,6 +25000,23 @@
  "30-st-mary-axe": {
   "skip": [
    "File:30 St Mary Axe - The Gherkin from Leadenhall St - Nov 2006.jpg"
+  ],
+  "pick": [
+   [
+    "File:30 St Mary Axe (Swiss Re Building) and St Andrew Undershaft church.jpg",
+    "Exterior"
+   ],
+   "File:London UK Gherkin-01.jpg",
+   "File:London MMB 41 30 St Mary Ax.jpg",
+   "File:Gherkin from the Sky Garden 2015.jpg",
+   [
+    "File:London MMB 39 30 St Mary Ax.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Cheesegrater and Gherkin.jpg",
+    "Exterior"
+   ]
   ]
  },
  "orquideorama-medellin-botanical-garden": {
@@ -24914,6 +25127,318 @@
    [
     "File:Looking inside to elevator (Unsplash).jpg",
     "Interior"
+   ]
+  ]
+ },
+ "phaeno-science-center": {
+  "pick": [
+   [
+    "File:Phaeno Suedseite RB.jpg",
+    "Exterior"
+   ],
+   "File:Phaeno Rampe Übergang Autostadt.jpg",
+   [
+    "File:Phaeno Westseite RB.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Phaeno Suedwestseite.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Phaeno unten.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Detail Science Center Wolfsburg 2011.jpg",
+    "Detail"
+   ]
+  ]
+ },
+ "national-congress-of-brazil": {
+  "pick": [
+   [
+    "File:Congresso do Brasil.jpg",
+    "Exterior"
+   ],
+   "File:Brasilia Eixo Monumental Nat Congress Ministries from TV Tower.jpg",
+   [
+    "File:Congreço.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Congresso I.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Congresso II.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Palácio Congresso Nacional.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Maquete do Congresso Nacional - BR RJANRIO PH 0 FOT 00745 0008, Acervo do Arquivo Nacional.jpg",
+    "Model"
+   ]
+  ]
+ },
+ "casa-mila": {
+  "pick": [
+   [
+    "File:Casa Milà, general view.jpg",
+    "Exterior"
+   ],
+   "File:Casa Mila, Barcelona (P1170595).jpg",
+   [
+    "File:Chimney - Roof of Casa Milà - Barcelona 2014 (3).JPG",
+    "Exterior"
+   ],
+   [
+    "File:La Pedrera Barcelona May 2026-2.jpg",
+    "Interior"
+   ],
+   [
+    "File:La Pedrera Barcelona May 2026-3.jpg",
+    "Interior"
+   ],
+   [
+    "File:Internal courtyard - Casa Milà - Barcelona 2014 (4).jpg",
+    "Interior"
+   ],
+   [
+    "File:Milà plano sótano.jpg",
+    "Plan"
+   ],
+   [
+    "File:Alzado Casa Milà.jpg",
+    "Elevation"
+   ]
+  ]
+ },
+ "munich-olympic-stadium": {
+  "pick": [
+   [
+    "File:Blick vom Olympiaberg auf das Olympiastadion.jpg",
+    "Exterior"
+   ],
+   "File:Olympic Stadium Munich - Rows of Seats, April 2019 -04.jpg",
+   "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 13.JPG",
+   "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 14.JPG",
+   [
+    "File:Olympiastadion at dusk.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 04.JPG",
+    "Exterior"
+   ]
+  ]
+ },
+ "st-mark-s-church-markuskyrkan": {
+  "pick": [
+   [
+    "File:Markuskyrkan April 2013 01.jpg",
+    "Exterior"
+   ],
+   "File:Markuskyrkan April 2013 02.jpg",
+   "File:Markuskyrkan April 2013 03.jpg",
+   [
+    "File:Markuskyrkan January 2015 02.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Markuskyrkan January 2015 01.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Markuskyrkan från luften.jpg",
+    "Exterior"
+   ]
+  ]
+ },
+ "villa-cavrois": {
+  "pick": [
+   [
+    "File:Croix villa cavrois arriere quart.JPG",
+    "Exterior"
+   ],
+   "File:Villa Cavrois à Croix - Salon vu de l'étage.jpg",
+   "File:Villa Cavrois à Croix - Salon.jpg",
+   "File:La salle à manger des parents de la Villa Cavrois à Croix.jpg",
+   [
+    "File:Villa Cavrois à Croix - 04.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Villa Cavrois à Croix - Escaliers.jpg",
+    "Interior"
+   ],
+   [
+    "File:Villa Cavrois maquette arriere quart (Croix).png",
+    "Model"
+   ]
+  ]
+ },
+ "looshaus": {
+  "pick": [
+   [
+    "File:Looshaus Michaelerplatz.JPG",
+    "Exterior"
+   ],
+   "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6585.jpg",
+   [
+    "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6579.jpg",
+    "Exterior"
+   ],
+   [
+    "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6580.jpg",
+    "Exterior"
+   ],
+   [
+    "File:13-05-24-wien-RalfR-152.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Prospetto Looshaus.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Pianta Looshaus.jpg",
+    "Plan"
+   ],
+   [
+    "File:Sezione Looshaus.jpg",
+    "Section"
+   ]
+  ]
+ },
+ "toronto-city-hall": {
+  "pick": [
+   [
+    "File:City Hall, Toronto, Ontario.jpg",
+    "Interior"
+   ],
+   "File:Windows of Toronto City Hall.jpg",
+   "File:Toronto city hall August 2017 02.jpg",
+   [
+    "File:Nathan Phillips square - Toronto.jpg",
+    "Interior"
+   ],
+   [
+    "File:Windows of Toronto City Hall (close-up).jpg",
+    "Interior"
+   ],
+   [
+    "File:Windows of Toronto City Hall (Close-up, Monochrome).jpg",
+    "Interior"
+   ]
+  ]
+ },
+ "beurs-van-berlage": {
+  "pick": [
+   [
+    "File:Overzicht klokkentoren met uurwerk, aan de Beurspleinzijde de hoofdingang met bordestrap - Amsterdam - 20408819 - RCE.jpg",
+    "Exterior"
+   ],
+   "File:Beurs van Berlage 2508.jpg",
+   [
+    "File:Beurs van Berlage 2506.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Amsterdam - Damrak - View ENE on 'Beurs van Berlage' 1898-1903 by Hendrik Petrus Berlage.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Amsterdam - Oudebrugsteeg - Beursstraat - View WSW on Beurs van Berlage 1898-1903 by Hendrik Petrus Berlage.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Amsterdamse Assurantie Beurs.jpg",
+    "Interior"
+   ],
+   [
+    "File:J.L. Springer alternative plan 1.jpg",
+    "Plan"
+   ],
+   [
+    "File:Maquette van de Koopmansbeurs, van architect H.P. Berlage, die vanaf 17 juni wor, Bestanddeelnr 933-8610.jpg",
+    "Model"
+   ],
+   [
+    "File:Amsterdam Beurs van Berlage ontwerp 001.jpg",
+    "Drawing"
+   ]
+  ]
+ },
+ "baha-i-temple-of-south-america": {
+  "pick": [
+   [
+    "File:Templo Bahá'í de Sudamérica, Santiago 20200208 04.jpg",
+    "Exterior"
+   ],
+   "File:Templo Bahá’í - A741067.jpg",
+   "File:Templo Bahá'í-2 A74195120240831.jpg",
+   "File:Templo Bahá'í de Sudamérica, Santiago 20200208 03.jpg",
+   [
+    "File:Entrada Templo Bahá’í - A741084.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Reflejo, Templo Bahá'í A74195620240831.jpg",
+    "Exterior"
+   ]
+  ]
+ },
+ "robson-square": {
+  "pick": [
+   [
+    "File:Robson Square Vancouver 04.JPG",
+    "Exterior"
+   ],
+   "File:Robson Square Vancouver 05.JPG",
+   [
+    "File:Robson Square 02.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Robson Square Vancouver 02.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Robson Square Vancouver 03.JPG",
+    "Exterior"
+   ],
+   [
+    "File:2016 366 346 Night Skate (30778735873).jpg",
+    "Exterior"
+   ]
+  ]
+ },
+ "sharp-centre-for-design": {
+  "pick": [
+   [
+    "File:Fragment of Sharp Centre for Design, Toronto.jpg",
+    "Exterior"
+   ],
+   "File:Sharp Centre for Design August 2017 01.jpg",
+   [
+    "File:Sharp Centre for Design in Monochrome.jpg",
+    "Exterior"
+   ],
+   [
+    "File:Toronto - ON - Ontario College of Art & Design2.jpg",
+    "Exterior"
+   ],
+   [
+    "File:OntarioCollegeofArtandDesign.JPG",
+    "Exterior"
+   ],
+   [
+    "File:Sharp Centre for Design - fragment of facade.jpg",
+    "Detail"
    ]
   ]
  }
