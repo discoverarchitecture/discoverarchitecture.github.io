@@ -27,8 +27,12 @@ OWN_SITE = re.compile(r'foundation|fundação|fondation|fondazione|stiftung|stud
 IDEA_CHIPS = 9
 
 
+LETTERS = str.maketrans({'ø': 'o', 'Ø': 'O', 'æ': 'ae', 'Æ': 'Ae', 'œ': 'oe', 'ß': 'ss', 'ł': 'l', 'Ł': 'L', 'đ': 'd', 'ð': 'd', 'þ': 'th',
+                         '(': '', ')': ''})  # letters NFKD can't split, so "Jørn" doesn't become "jrn"; "Himmelb(l)au" stays one word
+
+
 def slugify(name):
-    s = unicodedata.normalize('NFKD', name).encode('ascii', 'ignore').decode().lower()
+    s = unicodedata.normalize('NFKD', name.translate(LETTERS)).encode('ascii', 'ignore').decode().lower()
     s = re.sub(r'[^a-z0-9]+', '-', s.replace('&', ' and ')).strip('-')
     return s or 'architect'
 
