@@ -634,6 +634,342 @@
   ]
  },
  {
+  "id": "guardian-building-detroit",
+  "name": "Guardian Building",
+  "by": "Wirt C. Rowland (Smith, Hinchman & Grylls)",
+  "city": "Detroit",
+  "cc": "US",
+  "year": "1929",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "43-storey Art Deco skyscraper of 1928–29 with Mayan Revival ornament; National Historic Landmark (1989).",
+  "status": "photo",
+  "commons_category": "Category:Guardian Building",
+  "photos": [
+   {
+    "file": "File:Guardian Building, Griswold Street, Detroit, MI - 53026480077.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Guardian Building 2025.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guardian_Building",
+   "https://commons.wikimedia.org/wiki/Category:Guardian_Building"
+  ],
+  "note": "Office tower: ordinary type, but a National Historic Landmark and a key Art Deco work.",
+  "coords": [
+   42.32972222,
+   -83.04583333
+  ]
+ },
+ {
+  "id": "peter-b-lewis-building",
+  "name": "Peter B. Lewis Building (Weatherhead School of Management)",
+  "by": "Frank Gehry",
+  "city": "Cleveland",
+  "cc": "US",
+  "year": "2002",
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Gehry's 2002 business-school building: about 150,000 sq ft over five stories, with offices and classrooms spread across all floors.",
+  "status": "photo",
+  "commons_category": "Category:Peter B. Lewis Building",
+  "photos": [
+   {
+    "file": "File:Peter B. Lewis Building - oblique 1.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Peter B Lewis (PBL) Building Case Western Reserve.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Weatherhead_School_of_Management",
+   "https://commons.wikimedia.org/wiki/Category:Peter_B._Lewis_Building"
+  ],
+  "note": "Wikipedia has no separate article (redirects to Weatherhead School of Management) — reviewer check. Material (metal cladding) not stated in the source; features line avoids claiming it.",
+  "coords": [
+   41.51006,
+   -81.60773
+  ]
+ },
+ {
+  "id": "cincinnati-union-terminal",
+  "name": "Cincinnati Union Terminal",
+  "by": "Fellheimer & Wagner",
+  "city": "Cincinnati",
+  "cc": "US",
+  "year": "1933",
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Vault",
+   "Monumentality",
+   "Colour"
+  ],
+  "features": "Art Deco station of 1933 with a 180 ft semi-dome rotunda, once the largest in the Western Hemisphere.",
+  "status": "photo",
+  "commons_category": "Category:Cincinnati Union Terminal",
+  "photos": [
+   {
+    "file": "File:CMC-Union Terminal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Streamline Moderne - Cincinnati, OH - Cincinnati Union Terminal (1).jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cincinnati_Union_Terminal",
+   "https://commons.wikimedia.org/wiki/Category:Cincinnati_Union_Terminal"
+  ],
+  "note": "",
+  "coords": [
+   39.11,
+   -84.53781
+  ]
+ },
+ {
+  "id": "minneapolis-central-library",
+  "name": "Minneapolis Central Library",
+  "by": "César Pelli",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": "2006",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Steel & glass",
+   "Cantilever"
+  ],
+  "features": "César Pelli's 2006 library of 353,000 sq ft with an atrium and an 18,560 sq ft green roof.",
+  "status": "photo",
+  "commons_category": "Category:Minneapolis Central Library",
+  "photos": [
+   {
+    "file": "File:Minneapolis Central Public Library by Cesar Pelli.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Public library minneapolis exterior.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Minneapolis_Central_Library",
+   "https://commons.wikimedia.org/wiki/Category:Minneapolis_Central_Library"
+  ],
+  "note": "Second photo is only 1000x750.",
+  "coords": [
+   44.98048333,
+   -93.26981944
+  ]
+ },
+ {
+  "id": "climatron",
+  "name": "Climatron",
+  "by": "T. C. Howard (Synergetics); Murphy and Mackey",
+  "city": "St. Louis",
+  "cc": "US",
+  "year": "1960",
+  "type": "Pavilion",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Climate response"
+  ],
+  "features": "1960 geodesic dome, 42 m across: the first fully air-conditioned greenhouse, in aluminium tubes and Plexiglas.",
+  "status": "photo",
+  "commons_category": "Category:Climatron",
+  "photos": [
+   {
+    "file": "File:Climatron - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Climatron, Missouri Botanical Gardens.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gfp-climatron-at-st-louis-botanical-gardens.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Climatron",
+   "https://commons.wikimedia.org/wiki/Category:Climatron"
+  ],
+  "note": "Wikipedia credits T. C. Howard of Synergetics, with Murphy and Mackey as architects on record. Third photo is a heavily processed HDR.",
+  "coords": [
+   38.6141,
+   -90.2589
+  ]
+ },
+ {
+  "id": "roofless-church-new-harmony",
+  "name": "Roofless Church",
+  "by": "Philip Johnson",
+  "city": "New Harmony",
+  "cc": "US",
+  "year": "1960",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Void",
+   "Earth & local material",
+   "Courtyard"
+  ],
+  "features": "Open-air interdenominational church in a walled park, with a shingled dome-like canopy over a Lipchitz sculpture.",
+  "status": "photo",
+  "commons_category": "Category:Roofless Church",
+  "photos": [
+   {
+    "file": "File:Roofless church, New Harmony, Indiana 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roofless_Church",
+   "https://commons.wikimedia.org/wiki/Category:Roofless_Church"
+  ],
+  "note": "Second photo is a view through the gate with the canopy distant; reviewer may drop it.",
+  "coords": [
+   38.13183,
+   -87.93567
+  ]
+ },
+ {
+  "id": "community-of-christ-temple-independence",
+  "name": "Community of Christ Temple (Independence Temple)",
+  "by": "Gyo Obata",
+  "city": "Independence",
+  "cc": "US",
+  "year": "1994",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Spiralling temple at the Community of Christ headquarters, dedicated 17 April 1994.",
+  "status": "photo",
+  "commons_category": "Category:Independence Temple",
+  "photos": [
+   {
+    "file": "File:Independence - RLDS Temple 01.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Community of Christ Temple P5300338.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Independence_Temple",
+   "https://commons.wikimedia.org/wiki/Category:Independence_Temple"
+  ],
+  "note": "Wikipedia does not name a movement; Postmodernism is my label — reviewer check.",
+  "coords": [
+   39.09083333,
+   -94.42638889
+  ]
+ },
+ {
+  "id": "kemper-arena",
+  "name": "Kemper Arena (Hy-Vee Arena)",
+  "by": "Helmut Jahn",
+  "city": "Kansas City",
+  "cc": "US",
+  "year": "1974",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Cantilever"
+  ],
+  "features": "Arena of 1974 whose roof hangs from exterior steel trusses on three portals, leaving no interior columns.",
+  "status": "photo",
+  "commons_category": "Category:Kemper Arena",
+  "photos": [
+   {
+    "file": "File:Kemper Arena 11-22-14.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kemper Arena.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hy-Vee_Arena",
+   "https://commons.wikimedia.org/wiki/Category:Kemper_Arena"
+  ],
+  "note": "Overcast; tall truss frames dominate.",
+  "coords": [
+   39.09194444,
+   -94.60583333
+  ]
+ },
+ {
   "id": "houston-astrodome",
   "name": "Houston Astrodome",
   "by": "Hermon Lloyd & W. B. Morgan; Wilson, Morris, Crain & Anderson; Praeger-Kavanagh-Waterbury",
@@ -947,7 +1283,7 @@
   "id": "san-jacinto-monument",
   "name": "San Jacinto Monument",
   "by": "Alfred C. Finn",
-  "city": "La Porte",
+  "city": "Houston",
   "cc": "US",
   "year": "1939",
   "type": "Memorial",
@@ -984,7 +1320,7 @@
    "https://en.wikipedia.org/wiki/San_Jacinto_Monument",
    "https://commons.wikimedia.org/wiki/Category:San_Jacinto_Monument"
   ],
-  "note": "city: Wikipedia says Harris County on the Houston Ship Channel (La Porte area); two tiny visitors at the base of the main photo",
+  "note": "city: Wikipedia says on the Houston Ship Channel in Harris County (Houston used as nearest city); two tiny visitors at the base of the main photo",
   "coords": [
    29.7499,
    -95.0807
@@ -1072,6 +1408,632 @@
   "coords": [
    29.73583,
    -95.46111
+  ]
+ },
+ {
+  "id": "houston-city-hall",
+  "name": "Houston City Hall",
+  "by": "Joseph Finger",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1939",
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Stripped-classical Art Deco tower clad in Texas Cordova limestone, facing a reflecting pool in Hermann Square.",
+  "status": "photo",
+  "commons_category": "Category:Houston City Hall",
+  "photos": [
+   {
+    "file": "File:Houston City Hall from Hermann Square (HDR).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Houston City Hall in January 2012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Houston_City_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Houston_City_Hall"
+  ],
+  "note": "main photo is an HDR composite in soft light",
+  "coords": [
+   29.7602,
+   -95.3694
+  ]
+ },
+ {
+  "id": "oklahoma-state-capitol",
+  "name": "Oklahoma State Capitol",
+  "by": "Solomon A. Layton, S. Wemyss-Smith",
+  "city": "Oklahoma City",
+  "cc": "US",
+  "year": "1917",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Limestone capitol on a pink granite base; its dome was added only in 2001-02, and oil rigs stand on its grounds.",
+  "status": "photo",
+  "commons_category": "Category:Oklahoma State Capitol",
+  "photos": [
+   {
+    "file": "File:Central view of Oklahoma Capitol building.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Oklahoma state capitol building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oklahoma_State_Capitol",
+   "https://commons.wikimedia.org/wiki/Category:Oklahoma_State_Capitol"
+  ],
+  "note": "dome was omitted in 1917 and added 2001-2002; main photo is a clear blue-sky front view",
+  "coords": [
+   35.49222,
+   -97.50306
+  ]
+ },
+ {
+  "id": "kalita-humphreys-theater",
+  "name": "Kalita Humphreys Theater",
+  "by": "Frank Lloyd Wright",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1959",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Wright's only theatre: nearly all angles are 30 or 60 degrees; a 40 ft concrete drum rises above the stage.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kalita_Humphreys_Theater",
+   "https://commons.wikimedia.org/wiki/Category:Kalita_Humphreys_Theater"
+  ],
+  "note": "no main photo: the only exterior in its Commons category is a rainy 1962 black-and-white photo (KHTPre62-1.jpg, PD, 1806x1788) with a car in front; reviewer may accept it as a historic lead",
+  "coords": [
+   32.810815,
+   -96.800668
+  ]
+ },
+ {
+  "id": "hall-of-state-fair-park",
+  "name": "Hall of State, Fair Park",
+  "by": "Donald Barthelme (Texas Centennial Architects, Associated)",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Art Deco exhibition hall with a curved exedra entrance flanked by 76 ft limestone pillars.",
+  "status": "photo",
+  "commons_category": "Category:Hall of State (Fair Park, Dallas)",
+  "photos": [
+   {
+    "file": "File:Fair Park August 2016 47 (Hall of State).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dallas Fair Park Hall of State 2009.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hall_of_State",
+   "https://commons.wikimedia.org/wiki/Category:Hall_of_State_(Fair_Park,_Dallas)"
+  ],
+  "note": "architect: Barthelme was chief designer of ten Dallas architects; second photo is overcast with cars and a fountain in front",
+  "coords": [
+   32.78083,
+   -96.76111
+  ]
+ },
+ {
+  "id": "bishops-palace-galveston",
+  "name": "Bishop's Palace",
+  "by": "Nicholas J. Clayton",
+  "city": "Galveston",
+  "cc": "US",
+  "year": "1892",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "Granite and sandstone villa with four towers and clustered chimneys, cut on site; it withstood the 1900 hurricane.",
+  "status": "photo",
+  "commons_category": "Category:Bishop's Palace, Galveston",
+  "photos": [
+   {
+    "file": "File:Galveston March 2022 25 (Bishop's Palace).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bishops Palace (1 of 1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bishop%27s_Palace_(Galveston,_Texas)",
+   "https://commons.wikimedia.org/wiki/Category:Bishop%27s_Palace,_Galveston"
+  ],
+  "note": "built 1887-1892; second photo is a high-contrast edit",
+  "coords": [
+   29.30472,
+   -94.78194
+  ]
+ },
+ {
+  "id": "boston-avenue-methodist-church",
+  "name": "Boston Avenue Methodist Church",
+  "by": "Bruce Goff, from sketches by Adah Robinson",
+  "city": "Tulsa",
+  "cc": "US",
+  "year": "1929",
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Art Deco church with a 225 ft tower and a praying-hands motif; a National Historic Landmark since 1999.",
+  "status": "photo",
+  "commons_category": "Category:Boston Avenue United Methodist Church (Tulsa, Oklahoma)",
+  "photos": [
+   {
+    "file": "File:Boston Avenue Methodist Church, July 2019.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Boston Avenue Methodist Church.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Boston_Avenue_Methodist_Church",
+   "https://commons.wikimedia.org/wiki/Category:Boston_Avenue_United_Methodist_Church_(Tulsa,_Oklahoma)"
+  ],
+  "note": "Wikipedia: authorship disputed; officially Rush, Endacott and Rush; built 1927-1929; main photo is a saturated, processed daylight view; second is a low-angle detail",
+  "coords": [
+   36.14389,
+   -95.98444
+  ]
+ },
+ {
+  "id": "wortham-theater-center",
+  "name": "Wortham Theater Center",
+  "by": "Eugene Aubry (Morris Architects)",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1987",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Glass entry archway about 88 ft tall; Brown Theater seats 2,405 and Cullen Theater 1,100.",
+  "status": "photo",
+  "commons_category": "Category:Wortham Theater Center",
+  "photos": [
+   {
+    "file": "File:Wortham Center, Houston, Texas, Jan. 2012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wortham Center at Buffalo Bayou, Houston, Texas.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wortham_Theater_Center",
+   "https://commons.wikimedia.org/wiki/Category:Wortham_Theater_Center"
+  ],
+  "note": "main photo has a Christmas wreath on the arch window; second has a banner; opened May 1987 (two dates given)",
+  "coords": [
+   29.76333,
+   -95.36556
+  ]
+ },
+ {
+  "id": "dallas-hall-smu",
+  "name": "Dallas Hall, Southern Methodist University",
+  "by": "Shepley, Rutan and Coolidge",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "1915",
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Brick"
+  ],
+  "features": "Georgian-style brick hall modelled on Jefferson's University of Virginia and inspired by the Pantheon.",
+  "status": "photo",
+  "commons_category": "Category:Dallas Hall (Southern Methodist University)",
+  "photos": [
+   {
+    "file": "File:Southern Methodist University July 2016 104 (Dallas Hall).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dallas Hall at SMU looking northeast.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dallas_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Dallas_Hall_(Southern_Methodist_University)"
+  ],
+  "note": "orange cones on the lawn in the photo",
+  "coords": [
+   32.845,
+   -96.78472
+  ]
+ },
+ {
+  "id": "bok-center",
+  "name": "BOK Center",
+  "by": "César Pelli (Pelli Clarke Pelli), MATRIX Architects, Odell Associates",
+  "city": "Tulsa",
+  "cc": "US",
+  "year": "2008",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Glass facade of 1,600 panels leaning five degrees, wrapped by about 33,000 stainless-steel panels in an upward spiral.",
+  "status": "photo",
+  "commons_category": "Category:BOK Center",
+  "photos": [
+   {
+    "file": "File:BOK Center from above Tulsa OK 2024-11-09 13-26-51 1.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BOK Center faccade.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/BOK_Center",
+   "https://commons.wikimedia.org/wiki/Category:BOK_Center"
+  ],
+  "note": "main photo is an elevated daylight view of the whole arena; second has pedestrians and cars at street level; arena (culture & sport)",
+  "coords": [
+   36.152722,
+   -95.996333
+  ]
+ },
+ {
+  "id": "first-americans-museum",
+  "name": "First Americans Museum",
+  "by": "Johnson Fain Architects, Hornbeek Blatt Architects, Co-Prime",
+  "city": "Oklahoma City",
+  "cc": "US",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Glass semi-dome on ten stone columns, inspired by Wichita grass houses, with an earthen mound behind.",
+  "status": "photo",
+  "commons_category": "Category:First Americans Museum",
+  "photos": [
+   {
+    "file": "File:First Americans Museum Campus Oklahoma City 2025.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:First Americans Museum Oklahoma City 2025.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Americans_Museum",
+   "https://commons.wikimedia.org/wiki/Category:First_Americans_Museum"
+  ],
+  "note": "second photo is the entrance gate between stone walls (building partly shown)",
+  "coords": [
+   35.45778,
+   -97.48111
+  ]
+ },
+ {
+  "id": "margaret-hunt-hill-bridge",
+  "name": "Margaret Hunt Hill Bridge",
+  "by": "Santiago Calatrava",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "2012",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Cable-stayed bridge with a 400 ft steel arch and 58 white cables over the Trinity River.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Margaret_Hunt_Hill_Bridge",
+   "https://commons.wikimedia.org/wiki/Category:Margaret_Hunt_Hill_Bridge"
+  ],
+  "note": "no main photo: viewed 6 candidates; daylight ones show the arch only partly or under power lines and grey cloud, the rest are dusk or night",
+  "coords": [
+   32.78,
+   -96.8221
+  ]
+ },
+ {
+  "id": "winspear-opera-house",
+  "name": "Margot and Bill Winspear Opera House",
+  "by": "Foster + Partners, Kendall/Heaton Associates",
+  "city": "Dallas",
+  "cc": "US",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "Glass facade wraps the building under a large flat canopy; a red-lacquered drum holds the auditorium.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Margot_and_Bill_Winspear_Opera_House",
+   "https://commons.wikimedia.org/wiki/Category:Winspear_Opera_House_(Dallas)"
+  ],
+  "note": "no main photo: viewed 8 files; daylight ones are canopy details or show crowds, cars or construction; the Library of Congress dusk photos are not allowed. Red-drum detail is not in the cited source text, so features line should be rechecked",
+  "coords": [
+   32.790822,
+   -96.797921
+  ]
+ },
+ {
+  "id": "audrey-jones-beck-building",
+  "name": "Audrey Jones Beck Building",
+  "by": "Rafael Moneo",
+  "city": "Houston",
+  "cc": "US",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Axis"
+  ],
+  "features": "Moneo's limestone-clad museum building for the Museum of Fine Arts, Houston, opened in 2000.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Fine_Arts,_Houston",
+   "https://commons.wikimedia.org/wiki/Category:Audrey_Jones_Beck_Building"
+  ],
+  "note": "no main photo: free photos show wall sections with signs, a loading edge or a corner with tram wires; no whole-building view. The building has no article of its own, only a section of the MFA Houston page, so it may fail the own-article rule; coordinates are the whole museum's",
+  "coords": [
+   29.725605,
+   -95.390539
+  ]
+ },
+ {
+  "id": "tobin-center-for-the-performing-arts",
+  "name": "Tobin Center for the Performing Arts",
+  "by": "LMN Architects, Marmon Mok",
+  "city": "San Antonio",
+  "cc": "US",
+  "year": "2014",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "Portions of the 1926 Municipal Auditorium exterior were kept and built into the new hall.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tobin_Center_for_the_Performing_Arts",
+   "https://commons.wikimedia.org/wiki/Category:Tobin_Center_for_the_Performing_Arts"
+  ],
+  "note": "no main photo: Tobin Center (48875069586).jpg (CC BY 2.0) shows the preserved 1926 entrance facade but palm fronds cut across it; riverside shot shows only the modern tower corner",
+  "coords": [
+   29.430698,
+   -98.488659
+  ]
+ },
+ {
+  "id": "philbrook-museum-of-art",
+  "name": "Philbrook Museum of Art",
+  "by": "Edward Buehler Delk",
+  "city": "Tulsa",
+  "cc": "US",
+  "year": "1927",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Italian Renaissance-style villa with a rear loggia of five arches, set in about 25 acres of formal gardens.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philbrook_Museum_of_Art",
+   "https://commons.wikimedia.org/wiki/Category:The_Philbrook_Museum_of_Art"
+  ],
+  "note": "no main photo: free photos show the 1990s entrance wing or the garden with the villa far away; the HABS sheets are drawings",
+  "coords": [
+   36.1239,
+   -95.97
+  ]
+ },
+ {
+  "id": "first-community-stadium-rice-stadium",
+  "name": "Rice Stadium (First Community Stadium)",
+  "by": "Hermon Lloyd & W. B. Morgan, Milton McGinty",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1950",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Section",
+   "Geometry"
+  ],
+  "features": "Football-only bowl set below ground level, built so the stands can empty in about nine minutes.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/First_Community_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Rice_Stadium"
+  ],
+  "note": "no main photo: the large free photos all look into the bowl from inside; no outside view found",
+  "coords": [
+   29.71639,
+   -95.40917
+  ]
+ },
+ {
+  "id": "jones-hall-houston",
+  "name": "Jones Hall for the Performing Arts",
+  "by": "William Wayne Caudill (Caudill Rowlett Scott)",
+  "city": "Houston",
+  "cc": "US",
+  "year": "1966",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Double height"
+  ],
+  "features": "White Italian marble exterior with eight-story columns; won a 1967 AIA Honor Award.",
+  "status": "unsure",
+  "commons_category": "",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jones_Hall_for_the_Performing_Arts",
+   "https://commons.wikimedia.org/wiki/Category:Jones_Hall"
+  ],
+  "note": "no main photo: only an entrance close-up (2012) and a tiny 997x528 photo exist",
+  "coords": [
+   29.76083,
+   -95.365
   ]
  },
  {
