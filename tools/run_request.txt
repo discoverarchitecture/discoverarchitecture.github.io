@@ -1,2 +1,1 @@
-python -u tools/roark_probe.py
-One-off survey of roark.archi (structure, licences, terms) before planning any extraction. (retry)
+python -u tools/quality_photos.py --first 300
