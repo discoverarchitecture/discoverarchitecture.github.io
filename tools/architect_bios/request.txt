@@ -1,2 +1,1 @@
-python -u tools/check_overview_links.py --files bios_01.json
-# rerun 17:40:36
+python -u tools/fetch_architect_sources.py --ranks 9-40 --qids "Mies van der Rohe=Ludwig Mies van der Rohe,SOM=Skidmore Owings & Merrill,BIG=Bjarke Ingels Group,Henry Hobson Richardson=Henry Hobson Richardson"
