@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --only "SANAA,gmp Architekten" --qids "gmp Architekten=Gerkan, Marg and Partners"
+python -u tools/check_overview_links.py --files bios_03.json
