@@ -250,10 +250,12 @@ def home_block(items):
     row = lambda b: f'<li><a href="buildings/{b["id"]}/">{e(b["name"])}</a> <small>{e(b["place"].split(",")[0] if anonymous(b) else b["by"])}</small></li>'
     return (f'<section class="about-wall" id="about">\n'
             f'  <h2>About this wall</h2>\n'
-            f'  <p>Find Great Architecture is a huge, growing wall of buildings for architecture students, from the modern masters to '
-            f'contemporary and parametric work, brutalism and regionalism. Every building has '
+            f'  <p>Find Great Architecture is a huge, growing wall of great buildings, curated for architects, architecture students '
+            f'and anyone who loves buildings: the modern masters, contemporary and parametric work, brutalism and regionalism. '
+            f'Wander it instead of searching. Every building has '
             f'free photos with credits, its key features, and links to plans, sections and articles for a case study. '
-            f'Buildings from all over the world; <a href="buildings/">see them all A–Z</a>. '
+            f'Spin the globe to explore buildings from all over the world, <a href="buildings/">see them all A–Z</a>, '
+            f'or test yourself with the <a href="play/">guess-the-building games</a>. '
             f'Short building videos on <a href="https://www.youtube.com/@findgreatarchitecture" rel="noopener">YouTube</a>.</p>\n'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
             f'</section>')
@@ -416,7 +418,7 @@ def building_page(b, items):
 def index_page(items):
     up = '../'
     url = BASE + 'buildings/'
-    desc = f'Every building on Find Great Architecture, chosen for architecture students: modern masters, brutalism, regionalism, Japan, contemporary and parametric work, plus a few historic precedents.'
+    desc = f'Every building on Find Great Architecture, curated for architects and students: modern masters, brutalism, regionalism, contemporary and parametric work.'
     head = HEAD.format(title=f'All buildings A–Z · {NAME}', desc=e(desc), url=url, site=NAME, ogtype='website',
                        ogtitle='All buildings A–Z', image=BASE + 'og.jpg', up=up, wallhash='', extra='', total=TOTAL, css_v=CSS_V)
     rows = ''.join(

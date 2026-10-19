@@ -44,6 +44,21 @@ rules. The changes for these rounds:
    the building is small, not a match seen from inside a stadium, not a street with the building to one side.
    Gallery photos follow the same rule: no people, events, artworks, objects, signs or street scenes.
 
+## Round 9 additions (19 Oct 2026, lessons from the 15 Oct clean-up)
+
+9. **Main photo rule, stricter.** The first photo becomes the wall tile. It must show the whole building from
+   outside, in daylight, as the clear subject: not a detail, not a far skyline, not a night or dusk shot, not a crowd,
+   sign, banner, sculpture or car in front of it. If no photo passes, mark the building `"status": "unsure"` with
+   `"note": "no main photo"` instead of choosing a weak one.
+10. **Prefer Commons' best photos.** Within the building's own category, take files rated Featured, Quality or Valued
+   first (the file page's "Assessments"), then large, clear ones.
+11. **The Commons category must be this building's own.** Open it and check that its description or parent categories
+   name this building in this city. A same-name category for another building elsewhere put wrong photos on the wall
+   last week (the Halifax library, a Beirut cinema, a Merck building). Give `"commons_category"` only after that check.
+12. **Audience: worldwide, Western-first.** Favour what students in the US, UK, Europe, Canada and Australia study:
+   award winners, buildings in architecture-school syllabuses, and key works of well-known architects.
+13. **Coordinates:** add `"coords": [lat, lon]` from Wikidata or Wikipedia when given there (never estimated).
+
 ## Output
 
 `tools/illustrate/results/r<round>_<theme>.json` (your task names it), a list in `BRIEF2.md`'s format

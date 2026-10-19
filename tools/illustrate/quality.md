@@ -95,3 +95,11 @@ The Design chat, checking galleries for the "Worth the swipe" dots, flagged 43 p
 Adding map coordinates exposed a hidden photo problem. 16 buildings had a `commons` field naming a same-name Commons category for another building, in another country, so their galleries showed that other building. Examples: the Beirut Cinema Opera showed the Reims one, Halifax Central Library (Canada) showed the one in England, and the Merck headquarters showed SAS in Stockholm.
 - Wrong photos came out of 7 galleries, and 5 buildings were held back.
 - These were caught only because the coordinates landed in the wrong country. Same-country mix-ups would not show up this way.
+
+## Better photos pilot (19 Oct 2026): Commons-rated photos, first 300 buildings
+
+A Sonnet helper (`tools/quality_photos.py`, `tools/quality/BRIEF.md`) found Featured, Quality and Valued photos on
+Commons that were missing from galleries. 56 of the 300 buildings had some. Opus checked every proposal by eye:
+5 new main photos (NMAAHC, Danish Maritime Museum, Portugal Pavilion, Parliament House, Robson Square) and
+63 gallery photos for 40 buildings. 5 proposals were turned down: a bell frame, a sculpture in front of the
+Guggenheim, a far skyline, a near-duplicate and a lamp close-up.
