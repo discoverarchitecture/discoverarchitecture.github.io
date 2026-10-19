@@ -1,0 +1,388 @@
+[
+ {
+  "id": "guangzhou-library",
+  "name": "Guangzhou Library",
+  "by": "Nikken Sekkei",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Stacked, cascading 'book' forms on the facade; the design concept is 'Beautiful Books'.",
+  "status": "photo",
+  "commons_category": "Category:Guangzhou_Library",
+  "photos": [
+   {
+    "file": "File:Guangzhou Library 02805-Guangzhou (32232744063).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guangzhou_Library",
+   "https://commons.wikimedia.org/wiki/Category:Guangzhou_Library"
+  ],
+  "note": "Wikipedia: new building opened 23 June 2013. Most other category photos are night shots, so only the daylight one is listed; it shows the main block but crops the right-hand wing."
+ },
+ {
+  "id": "capital-museum-beijing",
+  "name": "Capital Museum",
+  "by": "Jean-Marie Duthilleul, Cui Kai",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Stone-clad exterior wall meant to symbolise the city walls and towers of ancient China.",
+  "status": "photo",
+  "commons_category": "Category:Capital_Museum",
+  "photos": [
+   {
+    "file": "File:2008 Capital Museum, Beijing 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Capital Museum (20200821160736).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capital_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Capital_Museum"
+  ],
+  "note": "Wikipedia says the museum moved into its present building in 2006 (no separate completion date). A small bus and car sit in the foreground of the first photo.",
+  "coords": [
+   39.905,
+   116.336
+  ]
+ },
+ {
+  "id": "beijing-television-cultural-center",
+  "name": "Beijing Television Cultural Center (TVCC)",
+  "by": "Rem Koolhaas, Ole Scheeren (OMA)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2012",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Void"
+  ],
+  "features": "A continuous lobby gives access to a 1,500-seat theatre and public facilities under one folded volume.",
+  "status": "photo",
+  "commons_category": "Category:TVCC",
+  "photos": [
+   {
+    "file": "File:Beijing (November 2016) - 512.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TVCC (Television Cultural Center) 20260719153034.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_Television_Cultural_Center",
+   "https://commons.wikimedia.org/wiki/Category:TVCC"
+  ],
+  "note": "Opened 16 May 2012 after a 2009 fire (infobox gives 2009). Check the TVCC isn't already on the wall under another name (taken.txt has CCTV only). The first photo is a tall portrait crop; the second has part of CCTV Headquarters on the right.",
+  "coords": [
+   39.91556,
+   116.45778
+  ]
+ },
+ {
+  "id": "wuhan-railway-station",
+  "name": "Wuhan Railway Station",
+  "by": "AREP, Fourth Survey and Design Institute of China, MaP3, SNCF-IGOA",
+  "city": "Wuhan",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Nine separate parts stand for China's nine provinces; the roof takes its form from the yellow crane, Wuhan's symbol.",
+  "status": "photo",
+  "commons_category": "Category:Wuhan_Railway_Station",
+  "photos": [
+   {
+    "file": "File:Wuhan Railway Station (July 2023).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20240621 West facade of Wuhan Railway Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wuhan_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Wuhan_Railway_Station"
+  ],
+  "note": "Won a two-phase competition in 2005; built 2006 to December 2009. The first photo is a wide panorama (3573x1588); the second has two small figures on the forecourt.",
+  "coords": [
+   30.6101917,
+   114.4186639
+  ]
+ },
+ {
+  "id": "tainan-art-museum",
+  "name": "Tainan Art Museum",
+  "by": "Sutejiro Umezawa; Shi Zhao Yong and Shigeru Ban",
+  "city": "Tainan",
+  "cc": "TW",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Ochre-tiled Art Deco building of 1930 beside a new wing shaped after Delonix regia, the royal poinciana.",
+  "status": "photo",
+  "commons_category": "Category:Tainan_Art_Museum",
+  "photos": [
+   {
+    "file": "File:Tainan Art Museum Building 1 (台南市美術館1館）.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tainan_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Tainan_Art_Museum"
+  ],
+  "note": "Building 1 was the 1930 Tainan Police Department; the museum opened 27 January 2019. Only building 1 has a photo in the category listing I saw; building 2 (Ban) photos should be looked for in a sub-category.",
+  "coords": [
+   22.99081,
+   120.20364
+  ]
+ },
+ {
+  "id": "hong-kong-convention-and-exhibition-centre",
+  "name": "Hong Kong Convention and Exhibition Centre",
+  "by": "Skidmore, Owings & Merrill (Larry Oltmanns)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1988",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Glass curtain wall, the world's largest when built, looking over Victoria Harbour on three sides; bird-like roof on the later wing.",
+  "status": "photo",
+  "commons_category": "Category:Hong_Kong_Convention_and_Exhibition_Centre",
+  "photos": [
+   {
+    "file": "File:HKCEC.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Convention_and_Exhibition_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Hong_Kong_Convention_and_Exhibition_Centre"
+  ],
+  "note": "Old wing 1988, Topside 1989, New Wing 1994-97 (Wikipedia). Photo is from across the harbour, daylight; a Philips sign sits on a neighbouring tower behind it.",
+  "coords": [
+   22.2836611,
+   114.1728472
+  ]
+ },
+ {
+  "id": "hong-kong-central-library",
+  "name": "Hong Kong Central Library",
+  "by": "Ho Chiu-fan",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2001",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Plan built from three shapes: the circle for sky, the square for land, the triangle for accumulated knowledge.",
+  "status": "photo",
+  "commons_category": "Category:Hong_Kong_Central_Library",
+  "photos": [
+   {
+    "file": "File:Hong Kong Central Library 2008.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Central_Library",
+   "https://commons.wikimedia.org/wiki/Category:Hong_Kong_Central_Library"
+  ],
+  "note": "Opened 17 May 2001; Wikipedia names Ho Chiu-fan, a government senior architect, with Rocco Yim's alternative design not chosen. Photo is the front facade in daylight, trees in the lower part.",
+  "coords": [
+   22.2799639,
+   114.1895278
+  ]
+ },
+ {
+  "id": "shanghai-astronomy-museum",
+  "name": "Shanghai Astronomy Museum",
+  "by": "Ennead Architects",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Void"
+  ],
+  "features": "No straight lines or right angles; the forms express some of the fundamental laws of astrophysics.",
+  "status": "photo",
+  "commons_category": "Category:Shanghai_Astronomy_Museum",
+  "photos": [
+   {
+    "file": "File:Shanghai Astronomy Museum 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Astronomy Museum 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Astronomy_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Astronomy_Museum"
+  ],
+  "note": "Opened 2021 in Lingang. The second photo has the museum's name sign in the grass in front.",
+  "coords": [
+   30.915094,
+   121.92267
+  ]
+ },
+ {
+  "id": "run-run-shaw-creative-media-centre",
+  "name": "Run Run Shaw Creative Media Centre",
+  "by": "Daniel Libeskind, Leigh & Orange",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Daniel Libeskind's building for City University of Hong Kong's creative media school, designed with Leigh & Orange.",
+  "status": "photo",
+  "commons_category": "Category:Run_Run_Shaw_Creative_Media_Centre",
+  "photos": [
+   {
+    "file": "File:Run Run Shaw Creative Media Centre.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Run_Run_Shaw_Creative_Media_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Run_Run_Shaw_Creative_Media_Centre"
+  ],
+  "note": "Opened October 2011 in Kowloon Tong; Wikipedia says the design received several awards. Wikipedia gives few design details, so the features line is modest.",
+  "coords": [
+   22.340172,
+   114.168461
+  ]
+ },
+ {
+  "id": "shekou-cruise-center",
+  "name": "Shekou Cruise Center",
+  "by": "Denis Laming",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Triangular terminal with 12 ferry berths and 2 cruise-ship berths.",
+  "status": "photo",
+  "commons_category": "Category:Shekou_Cruise_Center",
+  "photos": [
+   {
+    "file": "File:Shekou Cruise Center 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shekou_Cruise_Center",
+   "https://commons.wikimedia.org/wiki/Category:Shekou_Cruise_Center"
+  ],
+  "note": "Wikipedia: construction began 2014, new terminal due to open 1 November 2016. Photo shows the terminal from the water with two ferries in front.",
+  "coords": [
+   22.468485,
+   113.913648
+  ]
+ }
+]
