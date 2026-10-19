@@ -16,8 +16,12 @@
   source; 3 of them are building attributions confirmed on Wikidata (architect, P84) by the checker, for buildings
   with no English article. Unsourced facts: 0. Links: 92 kept, all checked 19 Oct 2026.
 
+- `results/bios_04.json` (19 Oct 2026), 30 architects, ranks 71–100 (the Utzon duplicate is rank 216, not in this
+  range). Bios 161–190 words. 213 facts, every one with a source; 7 are building attributions confirmed on Wikidata
+  (architect, P84) by the checker. Unsourced facts: 0. Links: 95 kept, all checked 19 Oct 2026 (two check runs).
+
 ## Skipped
-- None. Every architect in ranks 1–40 is a real, well-sourced person or practice.
+- None. Every architect in ranks 1–100 is a real, well-sourced person or practice.
 
 ## Links that failed and were left out
 - Encyclopaedia Britannica (all ten): answers automated checks with 403. Probably fine in a browser, but unchecked.
@@ -49,6 +53,26 @@
 - The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
   (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
 
+## Batch 4 notes
+- Two architects have only two checked links: **Louis Sullivan** (the Art Institute of Chicago collection answers 403;
+  Architectuul has no page) and **Mahendra Raj** (the Kiran Nadar Museum's exhibition page answers 401 or 404; the
+  MASH India review loads but the name check cannot see his name).
+- Left out after the checker: ArchDaily office pages for Yamasaki, Erickson, Sullivan and Wilford (404; the tag pages
+  are used instead where they work), spacea.com and morphosis.com (built by JavaScript), melnikovhouse.org and
+  www.dentoncorkermarshall.com (certificate errors; dentoncorkermarshall.com without "www" works and is used), the
+  Harvard GSD Kikutake exhibition page (404), and ArchDaily's ELEMENTAL page (Aravena's name is not on it).
+- Two Wikidata attributions failed: the Gabriel García Márquez Cultural Center has no architect on Wikidata and no
+  English article, so it was taken out of Salmona's text; Bolgen's architect on Wikidata is the firm, not the man,
+  so it is sourced instead from the Henning Larsen Architects article, which lists it as "The Wave" (Bølgen), 2009.
+- Wikidata spells Aravena's name "Alejandro Alavena" (Q3609433); the write-up uses the correct spelling.
+- Wall buildings with no source, so not named in the text: RCR's La Lira Theatre Public Space, Tossols-Basil
+  Athletics Track and Crematorium Hofheide; Snøhetta's Norwegian Wild Reindeer Pavilion and Powerhouse Brattørkaia.
+- Disagreements, noted on the facts: RCR's founding (Wikipedia 1988, Wikidata 1987); Nikken Sekkei's founding
+  (Wikidata 1900); Michael Wilford's birthplace (Hartfield or Surbiton in the same article, neither used); the Fashion
+  and Textile Museum called Legorreta's "only building in Europe" though his works list has Madrid and Bilbao (not
+  used); several building years differ from the wall (Diamond Ranch, Hôtel Tassel, Bozar, Shri Ram Centre,
+  Musikhochschule, Garden & House, Quinta Monroy, Villa Verde, Hospital Naval). The wall's years are used in the text.
+
 ## Weak spots to note
 - Glenn Murcutt: Wikipedia has no articles on his houses, so the bio says little about each one. His materials list
   carries a "citation needed" tag on Wikipedia.
@@ -69,4 +93,5 @@ Put the command on the first line of `tools/architect_bios/request.txt` and push
 (workflow `.github/workflows/architect-bios.yml`):
 - `python -u tools/fetch_architect_sources.py --ranks 41-70 --buildings batch_03` (Wikidata + Wikipedia for the
   architects into `sources.json`, and every wall building's article into `building_sources/batch_03.json`; one run)
-- `python -u tools/check_overview_links.py --files bios_02.json`
+- `python -u tools/check_overview_links.py --files bios_04.json` (link check, and the Wikidata check of facts that
+  carry `architect_qid`)

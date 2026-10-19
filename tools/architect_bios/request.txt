@@ -1,2 +1,2 @@
-python -u tools/check_overview_links.py --files bios_03.json
-# third check, new candidates for 5 architects
+python -u tools/check_overview_links.py --files bios_04.json
+# rerun 1803
