@@ -445,7 +445,10 @@
   "view": null,
   "after": null,
   "award": "RIBA Building of the Year 1992 shortlist",
-  "coords": null,
+  "coords": [
+   51.5125,
+   -0.09639
+  ],
   "sources": [
    "https://en.wikipedia.org/wiki/Bracken_House,_London",
    "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
