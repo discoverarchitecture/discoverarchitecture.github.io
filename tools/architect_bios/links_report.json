@@ -5,7 +5,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/I._M._Pei",
   "title": "I. M. Pei - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "I. M. Pei",
@@ -13,7 +14,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1983",
   "title": "I.M. Pei | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "I. M. Pei",
@@ -21,7 +23,8 @@
   "status": 200,
   "final": "https://www.pcf-p.com/",
   "title": "Pei Cobb Freed & Partners",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "I. M. Pei",
@@ -29,7 +32,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/im-pei",
   "title": "I.M. Pei | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Tadao Ando",
@@ -37,7 +41,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Tadao_Ando",
   "title": "Tadao Ando - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Tadao Ando",
@@ -45,7 +50,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1995",
   "title": "Tadao Ando | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Tadao Ando",
@@ -53,7 +59,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/tadao-ando-architect-and-associates",
   "title": "Tadao Ando Architect &amp; Associates | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Santiago Calatrava",
@@ -61,7 +68,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
   "title": "Santiago Calatrava - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Santiago Calatrava",
@@ -69,7 +77,8 @@
   "status": 200,
   "final": "https://calatrava.com/projects.html?all=yes",
   "title": "Projects (Thumbnails) - Santiago Calatrava – Architects & Engineers",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Santiago Calatrava",
@@ -77,7 +86,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/santiago-calatrava",
   "title": "Santiago Calatrava | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Arata Isozaki",
@@ -85,15 +95,17 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Arata_Isozaki",
   "title": "Arata Isozaki - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Arata Isozaki",
-  "url": "https://www.pritzkerprize.com/laureates/2019",
-  "status": 404,
-  "final": "https://www.pritzkerprize.com/laureates/2019",
-  "title": "",
-  "about": false
+  "url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+  "title": "Arata Isozaki | The Pritzker Architecture Prize",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Arata Isozaki",
@@ -101,7 +113,8 @@
   "status": 200,
   "final": "https://isozaki.co.jp/",
   "title": "Arata Isozaki & Associates – Arata Isozaki & Associates Co., Ltd. All Rights Reserved.",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Arata Isozaki",
@@ -109,7 +122,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/arata-isozaki",
   "title": "Arata Isozaki | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Lloyd Wright",
@@ -117,7 +131,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
   "title": "Frank Lloyd Wright - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Lloyd Wright",
@@ -125,7 +140,8 @@
   "status": 200,
   "final": "https://franklloydwright.org/",
   "title": "Frank Lloyd Wright Foundation",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Lloyd Wright",
@@ -133,15 +149,8 @@
   "status": 200,
   "final": "https://whc.unesco.org/en/list/1496",
   "title": "The 20th-Century Architecture of Frank Lloyd Wright - UNESCO World Heritage Centre",
-  "about": true
- },
- {
-  "architect": "Frank Lloyd Wright",
-  "url": "https://savewright.org/",
-  "status": 520,
-  "final": "https://savewright.org/",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Lloyd Wright",
@@ -149,7 +158,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/frank-lloyd-wright",
   "title": "Frank Lloyd Wright | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kengo Kuma",
@@ -157,7 +167,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Kengo_Kuma",
   "title": "Kengo Kuma - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kengo Kuma",
@@ -165,7 +176,8 @@
   "status": 200,
   "final": "https://kkaa.co.jp/news/projects-and-interview-featuredbook-kandou-kenchiku-inspirational-architecture/",
   "title": "掲載のお知らせ『感動建築』 | News | 隈研吾建築都市設計事務所",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kengo Kuma",
@@ -173,7 +185,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/kengo-kuma-and-associates",
   "title": "Kengo Kuma & Associates | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Jean Nouvel",
@@ -181,7 +194,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Jean_Nouvel",
   "title": "Jean Nouvel - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Jean Nouvel",
@@ -189,15 +203,17 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2008",
   "title": "Jean Nouvel | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Jean Nouvel",
-  "url": "https://www.jeannouvel.com/en/projects/",
-  "status": 404,
-  "final": "https://www.jeannouvel.com/en/projects/",
-  "title": "",
-  "about": false
+  "url": "https://www.jeannouvel.com/en/",
+  "status": 200,
+  "final": "https://www.jeannouvel.com/en/",
+  "title": "The Ateliers Jean Nouvel",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Jean Nouvel",
@@ -205,15 +221,17 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/ateliers-jean-nouvel",
   "title": "Ateliers Jean Nouvel | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kenzō Tange",
   "url": "https://en.wikipedia.org/wiki/Kenzō_Tange",
-  "status": 0,
-  "final": "https://en.wikipedia.org/wiki/Kenzō_Tange",
-  "title": "",
-  "about": false
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Kenz%C5%8D_Tange",
+  "title": "Kenzō Tange - Wikipedia",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kenzō Tange",
@@ -221,15 +239,17 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1987",
   "title": "Kenzo Tange | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kenzō Tange",
   "url": "https://www.tangeweb.com/",
-  "status": 200,
+  "status": 0,
   "final": "https://www.tangeweb.com/",
-  "title": "TANGE建築都市設計 - TANGE建築都市設計は、「世界のタンゲ」こと建築家の丹下健三が創業し、丹下憲孝が会長を務める建築設計事務所です。",
-  "about": true
+  "title": "",
+  "about": false,
+  "error": "ERROR <urlopen error timed out>"
  },
  {
   "architect": "Kenzō Tange",
@@ -237,7 +257,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/kenzo-tange",
   "title": "Kenzo Tange | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Toyo Ito",
@@ -245,7 +266,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Toyo_Ito",
   "title": "Toyo Ito - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Toyo Ito",
@@ -253,7 +275,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2013",
   "title": "Toyo Ito | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Toyo Ito",
@@ -261,7 +284,8 @@
   "status": 0,
   "final": "https://www.toyo-ito.co.jp/WEBSITE/",
   "title": "",
-  "about": true
+  "about": true,
+  "error": "ERROR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyo-ito.co.jp'. (_ssl.c:1010)>"
  },
  {
   "architect": "Toyo Ito",
@@ -269,7 +293,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/toyo-ito-and-associates",
   "title": "Toyo Ito & Associates, Architects | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Philip Johnson",
@@ -277,7 +302,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Philip_Johnson",
   "title": "Philip Johnson - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Philip Johnson",
@@ -285,7 +311,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1979",
   "title": "Philip Johnson | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Philip Johnson",
@@ -293,7 +320,8 @@
   "status": 200,
   "final": "https://theglasshouse.org/",
   "title": "The Glass House - a National Trust Historic Site built by Philip Johnson | The Glass House",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Philip Johnson",
@@ -301,7 +329,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/philip-johnson",
   "title": "Philip Johnson | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Mies van der Rohe",
@@ -309,7 +338,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
   "title": "Ludwig Mies van der Rohe - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Mies van der Rohe",
@@ -317,15 +347,8 @@
   "status": 200,
   "final": "https://miesbcn.com/",
   "title": "Fundació Mies van der Rohe - Mies van der Rohe Pavilion",
-  "about": true
- },
- {
-  "architect": "Mies van der Rohe",
-  "url": "https://www.moma.org/artists/7166",
-  "status": 403,
-  "final": "https://www.moma.org/artists/7166",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Mies van der Rohe",
@@ -333,7 +356,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/ludwig-mies-van-der-rohe",
   "title": "Ludwig Mies van der Rohe | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "SOM",
@@ -341,7 +365,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)",
   "title": "SOM (architectural firm) - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "SOM",
@@ -349,7 +374,8 @@
   "status": 200,
   "final": "https://www.som.com/projects/",
   "title": "Projects – SOM",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "SOM",
@@ -357,15 +383,17 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/skidmore-owings-and-merrill",
   "title": "Skidmore, Owings & Merrill | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Álvaro Siza",
   "url": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
-  "status": 0,
-  "final": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
-  "title": "",
-  "about": false
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+  "title": "Álvaro Siza Vieira - Wikipedia",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Álvaro Siza",
@@ -373,7 +401,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1992",
   "title": "Alvaro Siza | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Álvaro Siza",
@@ -381,7 +410,8 @@
   "status": 200,
   "final": "https://www.cca.qc.ca/en/archives/408056/alvaro-siza-archive",
   "title": "Interior and exterior elevations, structural plans | CCA",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Álvaro Siza",
@@ -389,7 +419,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/alvaro-siza-vieira",
   "title": "Álvaro Siza Vieira | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Moshe Safdie",
@@ -397,7 +428,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Moshe_Safdie",
   "title": "Moshe Safdie - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Moshe Safdie",
@@ -405,15 +437,8 @@
   "status": 200,
   "final": "https://www.safdiearchitects.com/projects",
   "title": "Safdie Architects - Projects",
-  "about": true
- },
- {
-  "architect": "Moshe Safdie",
-  "url": "https://www.mcgill.ca/library/branches/cac/safdie",
-  "status": 404,
-  "final": "https://www.mcgill.ca/library/branches/cac/safdie",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Moshe Safdie",
@@ -421,7 +446,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/safdie-architects",
   "title": "Safdie Architects | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Fumihiko Maki",
@@ -429,7 +455,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Fumihiko_Maki",
   "title": "Fumihiko Maki - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Fumihiko Maki",
@@ -437,7 +464,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1993",
   "title": "Fumihiko Maki | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Fumihiko Maki",
@@ -445,7 +473,8 @@
   "status": 200,
   "final": "https://www.maki-and-associates.co.jp/",
   "title": "Maki and Associates : 槇総合計画事務所 公式サイト",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Fumihiko Maki",
@@ -453,7 +482,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/maki-and-associates",
   "title": "Maki and Associates | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kisho Kurokawa",
@@ -461,15 +491,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Kisho_Kurokawa",
   "title": "Kisho Kurokawa - Wikipedia",
-  "about": true
- },
- {
-  "architect": "Kisho Kurokawa",
-  "url": "https://www.kisho.co.jp/",
-  "status": 403,
-  "final": "https://www.kisho.co.jp/",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kisho Kurokawa",
@@ -477,7 +500,26 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/kisho-kurokawa",
   "title": "Kisho Kurokawa | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Kisho Kurokawa",
+  "url": "https://www.archdaily.com/tag/kisho-kurokawa",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/kisho-kurokawa",
+  "title": "Kisho Kurokawa | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Kisho Kurokawa",
+  "url": "https://en.wikiarquitectura.com/architect/kisho-kurokawa/",
+  "status": 404,
+  "final": "https://en.wikiarquitectura.com/architect/kisho-kurokawa/",
+  "title": "",
+  "about": false,
+  "error": null
  },
  {
   "architect": "Louis Kahn",
@@ -485,15 +527,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Louis_Kahn",
   "title": "Louis Kahn - Wikipedia",
-  "about": true
- },
- {
-  "architect": "Louis Kahn",
-  "url": "https://www.design.upenn.edu/architectural-archives/collections/louis-i-kahn",
-  "status": 404,
-  "final": "https://www.design.upenn.edu/architectural-archives/collections/louis-i-kahn",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Louis Kahn",
@@ -501,7 +536,26 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/louis-kahn",
   "title": "Louis Kahn | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Louis Kahn",
+  "url": "https://www.archdaily.com/tag/louis-kahn",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/louis-kahn",
+  "title": "Louis Kahn | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Louis Kahn",
+  "url": "https://en.wikiarquitectura.com/architect/louis-i-kahn/",
+  "status": 404,
+  "final": "https://en.wikiarquitectura.com/architect/louis-i-kahn/",
+  "title": "",
+  "about": false,
+  "error": null
  },
  {
   "architect": "Richard Meier",
@@ -509,7 +563,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Richard_Meier",
   "title": "Richard Meier - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Richard Meier",
@@ -517,7 +572,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1984",
   "title": "Richard Meier | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Richard Meier",
@@ -525,7 +581,8 @@
   "status": 0,
   "final": "https://www.richardmeier.com/",
   "title": "",
-  "about": false
+  "about": false,
+  "error": "ERROR <urlopen error [Errno 111] Connection refused>"
  },
  {
   "architect": "Richard Meier",
@@ -533,7 +590,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/meier-partners",
   "title": "Meier Partners | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Shigeru Ban",
@@ -541,7 +599,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Shigeru_Ban",
   "title": "Shigeru Ban - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Shigeru Ban",
@@ -549,7 +608,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2014",
   "title": "Shigeru Ban | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Shigeru Ban",
@@ -557,7 +617,8 @@
   "status": 200,
   "final": "https://shigerubanarchitects.com/works/",
   "title": "Works - Shigeru Ban",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Shigeru Ban",
@@ -565,7 +626,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/shigeru-ban-architects",
   "title": "Shigeru Ban Architects | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "David Chipperfield",
@@ -573,15 +635,26 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/David_Chipperfield",
   "title": "David Chipperfield - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "David Chipperfield",
-  "url": "https://www.pritzkerprize.com/laureates/2023",
+  "url": "https://www.pritzkerprize.com/laureates/david-alan-chipperfield",
   "status": 404,
-  "final": "https://www.pritzkerprize.com/laureates/2023",
+  "final": "https://www.pritzkerprize.com/laureates/david-alan-chipperfield",
   "title": "",
-  "about": false
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "David Chipperfield",
+  "url": "https://www.pritzkerprize.com/laureates/david-chipperfield",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/laureates/david-chipperfield",
+  "title": "",
+  "about": false,
+  "error": null
  },
  {
   "architect": "David Chipperfield",
@@ -589,7 +662,8 @@
   "status": 200,
   "final": "https://davidchipperfield.com/projects",
   "title": "Projects • David Chipperfield Architects",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "David Chipperfield",
@@ -597,7 +671,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/david-chipperfield-architects",
   "title": "David Chipperfield Architects | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Eero Saarinen",
@@ -605,15 +680,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Eero_Saarinen",
   "title": "Eero Saarinen - Wikipedia",
-  "about": true
- },
- {
-  "architect": "Eero Saarinen",
-  "url": "https://archives.yale.edu/repositories/12/resources/1006",
-  "status": 202,
-  "final": "https://archives.yale.edu/repositories/12/resources/1006",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Eero Saarinen",
@@ -621,7 +689,26 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/eero-saarinen",
   "title": "Eero Saarinen | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Eero Saarinen",
+  "url": "https://www.archdaily.com/tag/eero-saarinen",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/eero-saarinen",
+  "title": "Eero Saarinen | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Eero Saarinen",
+  "url": "https://en.wikiarquitectura.com/architect/eero-saarinen/",
+  "status": 404,
+  "final": "https://en.wikiarquitectura.com/architect/eero-saarinen/",
+  "title": "",
+  "about": false,
+  "error": null
  },
  {
   "architect": "Kunio Maekawa",
@@ -629,15 +716,35 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
   "title": "Kunio Maekawa - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Kunio Maekawa",
-  "url": "https://www.archdaily.com/office/kunio-maekawa",
+  "url": "https://archipelvzw.be/en/archief/architecten/kunio-maekawa",
+  "status": 200,
+  "final": "https://archipelvzw.be/en/archief/architecten/kunio-maekawa",
+  "title": "Kunio Maekawa | Archipel",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Kunio Maekawa",
+  "url": "https://www.archdaily.com/tag/kunio-maekawa",
   "status": 404,
-  "final": "https://www.archdaily.com/office/kunio-maekawa",
+  "final": "https://www.archdaily.com/tag/kunio-maekawa",
   "title": "",
-  "about": false
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Kunio Maekawa",
+  "url": "https://en.wikiarquitectura.com/architect/kunio-maekawa/",
+  "status": 404,
+  "final": "https://en.wikiarquitectura.com/architect/kunio-maekawa/",
+  "title": "",
+  "about": false,
+  "error": null
  },
  {
   "architect": "Marcel Breuer",
@@ -645,7 +752,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Marcel_Breuer",
   "title": "Marcel Breuer - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Marcel Breuer",
@@ -653,7 +761,8 @@
   "status": 200,
   "final": "https://breuer.syr.edu/",
   "title": "Home - Marcel Breuer Digital Archive",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Marcel Breuer",
@@ -661,7 +770,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/marcel-breuer",
   "title": "Marcel Breuer | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Mario Botta",
@@ -669,7 +779,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Mario_Botta",
   "title": "Mario Botta - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Mario Botta",
@@ -677,7 +788,8 @@
   "status": 200,
   "final": "https://www.botta.ch/",
   "title": "MARIO BOTTA ARCHITETTI",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Mario Botta",
@@ -685,7 +797,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/mario-botta",
   "title": "Mario Botta | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Richard Rogers",
@@ -693,7 +806,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Richard_Rogers",
   "title": "Richard Rogers - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Richard Rogers",
@@ -701,7 +815,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2007",
   "title": "Richard Rogers | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Richard Rogers",
@@ -709,7 +824,8 @@
   "status": 0,
   "final": "https://www.rsh-p.com/projects/",
   "title": "",
-  "about": false
+  "about": false,
+  "error": "ERROR <urlopen error timed out>"
  },
  {
   "architect": "Richard Rogers",
@@ -717,15 +833,17 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/rogers-stirk-harbour-plus-partners",
   "title": "Rogers Stirk Harbour + Partners | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Antoni Gaudí",
   "url": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
-  "status": 0,
-  "final": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
-  "title": "",
-  "about": false
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+  "title": "Antoni Gaudí - Wikipedia",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Antoni Gaudí",
@@ -733,7 +851,8 @@
   "status": 200,
   "final": "https://whc.unesco.org/en/list/320",
   "title": "Works of Antoni Gaudí - UNESCO World Heritage Centre",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Antoni Gaudí",
@@ -741,7 +860,8 @@
   "status": 200,
   "final": "https://sagradafamilia.org/en/",
   "title": "Sagrada Família - Official ticket vendors - Sagrada Familia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Antoni Gaudí",
@@ -749,7 +869,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/antoni-gaudi",
   "title": "Antoni Gaudí | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "BIG",
@@ -757,15 +878,17 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group",
   "title": "Bjarke Ingels Group - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "BIG",
-  "url": "https://big.dk/projects",
-  "status": 404,
-  "final": "https://big.dk/projects",
-  "title": "",
-  "about": false
+  "url": "https://big.dk/",
+  "status": 200,
+  "final": "https://big.dk/",
+  "title": "BIG | Bjarke Ingels Group",
+  "about": true,
+  "error": null
  },
  {
   "architect": "BIG",
@@ -773,7 +896,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/bjarke-ingels-group",
   "title": "Bjarke Ingels Group | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Charles Correa",
@@ -781,7 +905,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Charles_Correa",
   "title": "Charles Correa - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Charles Correa",
@@ -789,15 +914,8 @@
   "status": 200,
   "final": "https://charlescorreafoundation.org/",
   "title": "Charles Correa Foundation - Charles Correa Foundation",
-  "about": true
- },
- {
-  "architect": "Charles Correa",
-  "url": "https://www.architecture.com/whats-on/charles-correa",
-  "status": 404,
-  "final": "https://www.architecture.com/whats-on/charles-correa",
-  "title": "",
-  "about": false
+  "about": true,
+  "error": null
  },
  {
   "architect": "Charles Correa",
@@ -805,7 +923,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/charles-correa",
   "title": "Charles Correa | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Daniel Libeskind",
@@ -813,7 +932,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Daniel_Libeskind",
   "title": "Daniel Libeskind - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Daniel Libeskind",
@@ -821,7 +941,8 @@
   "status": 200,
   "final": "https://libeskind.com/work/",
   "title": "Architecture & Design Projects | Studio Libeskind | Architecture | Design",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Daniel Libeskind",
@@ -829,7 +950,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/studio-libeskind",
   "title": "Studio Libeskind | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Gordon Bunshaft",
@@ -837,7 +959,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Gordon_Bunshaft",
   "title": "Gordon Bunshaft - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Gordon Bunshaft",
@@ -845,15 +968,26 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
   "title": "Gordon Bunshaft | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Gordon Bunshaft",
-  "url": "https://www.som.com/projects/",
+  "url": "https://www.archdaily.com/tag/gordon-bunshaft",
   "status": 200,
-  "final": "https://www.som.com/projects/",
-  "title": "Projects – SOM",
-  "about": false
+  "final": "https://www.archdaily.com/tag/gordon-bunshaft",
+  "title": "Gordon Bunshaft | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Gordon Bunshaft",
+  "url": "https://en.wikiarquitectura.com/architect/gordon-bunshaft/",
+  "status": 404,
+  "final": "https://en.wikiarquitectura.com/architect/gordon-bunshaft/",
+  "title": "",
+  "about": false,
+  "error": null
  },
  {
   "architect": "Henry Hobson Richardson",
@@ -861,23 +995,26 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson",
   "title": "Henry Hobson Richardson - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Henry Hobson Richardson",
-  "url": "https://hollisarchives.lib.harvard.edu/repositories/24/resources/1239",
-  "status": 403,
-  "final": "https://hollisarchives.lib.harvard.edu/repositories/24/resources/1239",
-  "title": "",
-  "about": false
+  "url": "https://www.archdaily.com/tag/henry-hobson-richardson",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/henry-hobson-richardson",
+  "title": "Henry Hobson Richardson | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Henry Hobson Richardson",
-  "url": "https://www.archdaily.com/office/henry-hobson-richardson",
+  "url": "https://en.wikiarquitectura.com/architect/henry-hobson-richardson/",
   "status": 404,
-  "final": "https://www.archdaily.com/office/henry-hobson-richardson",
+  "final": "https://en.wikiarquitectura.com/architect/henry-hobson-richardson/",
   "title": "",
-  "about": false
+  "about": false,
+  "error": null
  },
  {
   "architect": "Norman Foster",
@@ -885,7 +1022,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Norman_Foster",
   "title": "Norman Foster - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Norman Foster",
@@ -893,7 +1031,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1999",
   "title": "Norman Foster | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Norman Foster",
@@ -901,7 +1040,8 @@
   "status": 200,
   "final": "https://www.fosterandpartners.com/projects",
   "title": "Discover projects from Foster + Partners",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Norman Foster",
@@ -909,7 +1049,8 @@
   "status": 200,
   "final": "https://normanfosterfoundation.org/",
   "title": "Norman Foster Foundation",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Norman Foster",
@@ -917,7 +1058,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/foster-plus-partners",
   "title": "Foster + Partners | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Renzo Piano",
@@ -925,7 +1067,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Renzo_Piano",
   "title": "Renzo Piano - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Renzo Piano",
@@ -933,7 +1076,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1998",
   "title": "Renzo Piano | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Renzo Piano",
@@ -941,7 +1085,8 @@
   "status": 200,
   "final": "https://www.rpbw.com/",
   "title": "RPBW",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Renzo Piano",
@@ -949,7 +1094,8 @@
   "status": 200,
   "final": "https://www.fondazionerenzopiano.org/it/",
   "title": "Fondazione",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Renzo Piano",
@@ -957,7 +1103,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/renzo-piano-building-workshop",
   "title": "Renzo Piano Building Workshop | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Oscar Niemeyer",
@@ -965,7 +1112,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
   "title": "Oscar Niemeyer - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Oscar Niemeyer",
@@ -973,7 +1121,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1988-niemeyer",
   "title": "Oscar Niemeyer | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Oscar Niemeyer",
@@ -981,7 +1130,8 @@
   "status": 200,
   "final": "https://www.oscarniemeyer.org.br/",
   "title": "Niemeyer",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Oscar Niemeyer",
@@ -989,7 +1139,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/oscar-niemeyer",
   "title": "Oscar Niemeyer | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Zaha Hadid",
@@ -997,7 +1148,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Zaha_Hadid",
   "title": "Zaha Hadid - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Zaha Hadid",
@@ -1005,7 +1157,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2004",
   "title": "Zaha Hadid | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Zaha Hadid",
@@ -1013,7 +1166,8 @@
   "status": 200,
   "final": "https://www.zha.com/?disclaimer=true",
   "title": "Global Architecture Studio | ZHA Architects",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Zaha Hadid",
@@ -1021,7 +1175,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/zha",
   "title": "ZHA | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Le Corbusier",
@@ -1029,7 +1184,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Le_Corbusier",
   "title": "Le Corbusier - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Le Corbusier",
@@ -1037,7 +1193,8 @@
   "status": 200,
   "final": "https://whc.unesco.org/en/list/1321",
   "title": "The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement - UNESCO World Heritage Centre",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Le Corbusier",
@@ -1045,7 +1202,8 @@
   "status": 200,
   "final": "https://www.fondationlecorbusier.fr/",
   "title": "Fondation Le Corbusier",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Le Corbusier",
@@ -1053,7 +1211,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/le-corbusier",
   "title": "Le Corbusier | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Alvar Aalto",
@@ -1061,7 +1220,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Alvar_Aalto",
   "title": "Alvar Aalto - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Alvar Aalto",
@@ -1069,7 +1229,8 @@
   "status": 200,
   "final": "https://www.alvaraalto.fi/en/",
   "title": "Alvar Aalto Foundation | Alvar Aalto -säätiö - Alvar Aalto today | Alvar Aalto tänään | Jyväskylä | Helsinki",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Alvar Aalto",
@@ -1077,7 +1238,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/alvar-aalto",
   "title": "Alvar Aalto | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Gehry",
@@ -1085,7 +1247,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Frank_Gehry",
   "title": "Frank Gehry - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Gehry",
@@ -1093,7 +1256,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/1989",
   "title": "Frank Gehry | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Gehry",
@@ -1101,7 +1265,8 @@
   "status": 200,
   "final": "https://www.foga.com/",
   "title": "Gehry Partners, LLP :: Home",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Frank Gehry",
@@ -1109,7 +1274,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/gehry-partners",
   "title": "Gehry Partners | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Herzog & de Meuron",
@@ -1117,7 +1283,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
   "title": "Herzog & de Meuron - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Herzog & de Meuron",
@@ -1125,7 +1292,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2001",
   "title": "Jacques Herzog and Pierre de Meuron | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Herzog & de Meuron",
@@ -1133,7 +1301,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/herzog-and-de-meuron",
   "title": "Herzog & de Meuron | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "OMA",
@@ -1141,7 +1310,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
   "title": "Office for Metropolitan Architecture - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "OMA",
@@ -1149,7 +1319,8 @@
   "status": 200,
   "final": "https://www.oma.com/projects?offset=0",
   "title": "OMA Projects",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "OMA",
@@ -1157,7 +1328,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2000",
   "title": "Rem Koolhaas | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "OMA",
@@ -1165,7 +1337,8 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/oma",
   "title": "OMA | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Glenn Murcutt",
@@ -1173,7 +1346,8 @@
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Glenn_Murcutt",
   "title": "Glenn Murcutt - Wikipedia",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Glenn Murcutt",
@@ -1181,7 +1355,8 @@
   "status": 200,
   "final": "https://www.pritzkerprize.com/laureates/2002",
   "title": "Glenn Murcutt | The Pritzker Architecture Prize",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Glenn Murcutt",
@@ -1189,7 +1364,8 @@
   "status": 200,
   "final": "https://www.ozetecture.org/glenn-murcutt-profile",
   "title": "Glenn Murcutt - Profile — OZ.E.TECTURE",
-  "about": true
+  "about": true,
+  "error": null
  },
  {
   "architect": "Glenn Murcutt",
@@ -1197,6 +1373,7 @@
   "status": 200,
   "final": "https://www.archdaily.com/770780/spotlight-glenn-murcutt",
   "title": "Spotlight: Glenn Murcutt | ArchDaily",
-  "about": true
+  "about": true,
+  "error": null
  }
 ]
