@@ -1,1 +1,1 @@
-python -u tools/fetch_coords.py
+python -u tools/quality_photos.py --first 300

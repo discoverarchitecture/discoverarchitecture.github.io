@@ -1,0 +1,2863 @@
+{
+ "notre-dame-du-haut": {
+  "lead": "File:Notre-Dame du Haut (86745712).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Campanile (Ronchamp).jpg",
+    "rating": "Q",
+    "w": 5130,
+    "h": 3648,
+    "license": "CC BY-SA 4.0",
+    "desc": "Campanile of the Notre-Dame-du-Haut chapel in Ronchamp (Haute-Saône, France).",
+    "cats": [
+     "Campanile, chapelle Notre-Dame-du Haut de Ronchamp"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Oratoire - intérieur - objets (1).jpg",
+    "rating": "Q",
+    "w": 2800,
+    "h": 5300,
+    "license": "CC BY-SA 4.0",
+    "desc": "Objects in the convent oratory in Ronchamp (Haute-Saône, France).",
+    "cats": [
+     "Chapelle Notre-Dame-du Haut de Ronchamp",
+     "Crucifixes in France",
+     "Display cases in France",
+     "Interiors of chapels in France"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Chapelle Notre-Dame-du Haut de Ronchamp",
+  "category_fits": true,
+  "scanned": 43
+ },
+ "palace-of-assembly": {
+  "lead": "File:Palace of Assembly Chandigarh.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Palace of Assembly Chandigarh 2006.jpg",
+    "rating": "V",
+    "w": 4760,
+    "h": 1990,
+    "license": "CC BY-SA 2.0",
+    "desc": "Assembly building, Chandigarh , India, probably inspired by a  Submarine pen",
+    "cats": [
+     "Brise soleils",
+     "Palace of Assembly (Chandigarh)",
+     "Ponds in Chandigarh",
+     "Water reflections of buildings in India"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Palace of Assembly (Chandigarh)",
+  "category_fits": true,
+  "scanned": 49
+ },
+ "neue-nationalgalerie": {
+  "lead": "File:Berlin-Neue Nationalgalerie-06-Ludwig Mies van der Rohe-2016-gje.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Berlin-Tiergarten, de Neue Nationalgalerie met een expositie van Andy Warhol IMG 5718 2024-09-07 09.58.jpg",
+    "rating": "Q",
+    "w": 5046,
+    "h": 2920,
+    "license": "CC BY 4.0",
+    "desc": "Berlin-Tiergarten, the Neue Nationalgalerie with an exhibition of Andy Warhol",
+    "cats": [
+     "Andy Warhol",
+     "Neue Nationalgalerie",
+     "September 2024 in Berlin-Tiergarten"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Neue Nationalgalerie",
+  "category_fits": true,
+  "scanned": 180
+ },
+ "cathedral-of-brasilia": {
+  "lead": "File:Catedral de Brasilia em meados de novembro de 2023 (8).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Catedral Metropolitana de Brasília - Brasília - 20150603150521.jpg",
+    "rating": "F",
+    "w": 3715,
+    "h": 2468,
+    "license": "CC BY-SA 4.0",
+    "desc": "Interior of the  Cathedral of Brasília .",
+    "cats": [
+     "Interior of the Catedral de Brasília"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Catedral Metropolitana de Brasília",
+  "category_fits": false,
+  "scanned": 635
+ },
+ "national-assembly-of-bangladesh": {
+  "lead": "File:National Assembly of Bangladesh (10).jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:National Assembly of Bangladesh (06).jpg",
+    "rating": "V",
+    "w": 6816,
+    "h": 4401,
+    "license": "CC BY-SA 3.0",
+    "desc": "Jatiyo Sangsad Bhaban , Bangladesh.",
+    "cats": [
+     "July 2014 in Dhaka",
+     "National Parliament Building of Bangladesh (panoramic view)"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:National Parliament Building of Bangladesh",
+  "category_fits": true,
+  "scanned": 292
+ },
+ "yoyogi-national-gymnasium": {
+  "lead": "File:Gym stadium @ Harajuku (8972770585).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Kokuritsu Yoyogi Kyōgijō 1.jpg",
+    "rating": "V",
+    "w": 4412,
+    "h": 2941,
+    "license": "CC BY-SA 3.0 de",
+    "desc": "Aerial view of Kokuritsu Yoyogi Kyōgijō, Tokyo, Japan",
+    "cats": [
+     "White sky in Tokyo",
+     "Yoyogi 1st Gymnasium"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Yoyogi National Gymnasium",
+  "category_fits": true,
+  "scanned": 75
+ },
+ "habitat-67": {
+  "lead": "File:Habitat 67 2019 dllu 01.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Habitat 67 2019 dllu 02.jpg",
+    "rating": "Q",
+    "w": 7428,
+    "h": 5285,
+    "license": "CC BY-SA 4.0",
+    "desc": "Ground level view of Habitat 67 in Montreal.",
+    "cats": [
+     "Habitat 67"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Habitat 67",
+  "category_fits": true,
+  "scanned": 201
+ },
+ "fau-usp-building": {
+  "lead": "File:Faculdade de Arquitetura e Urbanismo - USP 01.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:At Cidade Universitária Armando de Salles Oliveira 2023 096.jpg",
+    "rating": "Q",
+    "w": 4189,
+    "h": 6403,
+    "license": "CC BY-SA 4.0",
+    "desc": "Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
+    "cats": [
+     "Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo"
+    ],
+    "kind": "Exterior",
+    "why_kept": "direct"
+   }
+  ],
+  "category": "Category:Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo",
+  "category_fits": false,
+  "scanned": 67
+ },
+ "barbican-estate": {
+  "lead": "File:1352667 II BARBICAN, Brandon Mews City of London London 20250613 0003.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Barbican Estate City of London 2026 07.jpg",
+    "rating": "Q",
+    "w": 7723,
+    "h": 5149,
+    "license": "CC BY 4.0",
+    "desc": "View of the Barbican Estate from Cromwell Highwalk, showing its distinctive Brutalist architecture, elevated walkways, a",
+    "cats": [
+     "Barbican Estate",
+     "Barbican Estate in 2026"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Barbican Estate",
+  "category_fits": true,
+  "scanned": 266
+ },
+ "new-gourna-village": {
+  "lead": "File:Gurna Mosque R01.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Gurna Mosque R03.jpg",
+    "rating": "Q",
+    "w": 2594,
+    "h": 3929,
+    "license": "CC BY 3.0",
+    "desc": "The mosque of New Gourna (Luxor, Egypt), built by the architect Hassan Fathy: the stairs of the minaret",
+    "cats": [
+     "Minarets in Egypt",
+     "Mosques in Luxor",
+     "New Gourna",
+     "Stairs in Egypt"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Gurna Mosque R04.jpg",
+    "rating": "Q",
+    "w": 2572,
+    "h": 3810,
+    "license": "CC BY 3.0",
+    "desc": "The mosque of New Gourna (Luxor, Egypt), built by the architect Hassan Fathy: the roof and dome seen from the minaret",
+    "cats": [
+     "Mosques in Luxor",
+     "New Gourna"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:New Gourna",
+  "category_fits": true,
+  "scanned": 49
+ },
+ "centre-pompidou": {
+  "lead": "File:Centre Pompidou @ Jardin Anne-Frank.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Paris, Sacré-Cœur de Montmartre -- 2014 -- 1197.jpg",
+    "rating": "Q",
+    "w": 5472,
+    "h": 3118,
+    "license": "CC BY-SA 4.0",
+    "desc": "View from  Sacré-Cœur de Montmartre ,  Paris , France",
+    "cats": [
+     "2014 photographs of Paris",
+     "Churches in France photographed in 2014",
+     "City textures",
+     "Remote views of the Centre Georges-Pompidou",
+     "Roofscapes in Paris",
+     "Skylines of Paris"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Paris Toits ouest depuis Beaubourg 2014.jpg",
+    "rating": "Q",
+    "w": 3252,
+    "h": 4851,
+    "license": "CC BY-SA 3.0",
+    "desc": "Roofs and chimneys, as seen from Beaubourg towards the Eiffel Tower, Paris (4th arr.)",
+    "cats": [
+     "April 2014 in Paris",
+     "Eiffel Tower from the Centre Georges-Pompidou",
+     "Eiffel Tower in 2014",
+     "Remote views of the Eiffel Tower",
+     "Roofscapes in Paris",
+     "Views from the Centre Georges-Pompidou"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Centre Georges-Pompidou",
+  "category_fits": true,
+  "scanned": 294
+ },
+ "lloyds-building": {
+  "lead": "File:Lloyd's Building, London.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Lloyd's Building - Exterior Staircase.jpg",
+    "rating": "Q",
+    "w": 3513,
+    "h": 5903,
+    "license": "CC BY-SA 4.0",
+    "desc": "Lloyd's building  exterior staircase, taken from the glass lift.\n .mw-parser-output .messagebox{margin:4px 0;width:auto;",
+    "cats": [
+     "Lloyd's building"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Lloyd's Building - Atrium roof.jpg",
+    "rating": "Q",
+    "w": 2957,
+    "h": 4500,
+    "license": "CC BY-SA 4.0",
+    "desc": "The roof of  Lloyd's building  atrium.\n .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;b",
+    "cats": [
+     "Interior of the Lloyd's building"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Lloyd's building",
+  "category_fits": true,
+  "scanned": 447
+ },
+ "vitra-fire-station": {
+  "lead": "File:Baden-Württemberg Weil am Rhein Vitra Fire station 01.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:2025-04-02 GV RegBas Fuehrung Vitra 038.jpg",
+    "rating": "Q",
+    "w": 6000,
+    "h": 4000,
+    "license": "CC BY-SA 4.0",
+    "desc": "Architekturführung durchs Vitra Campus, im Rahmen der 62. Generalversammlung der Regio Basiliensis in Weil am Rhein, 2. ",
+    "cats": [
+     "Architekturführung durchs Vitra Campus, im Rahmen der 62. Generalversammlung der Regio Basiliensis in Weil am Rhein",
+     "Interior of the Fire Station (Zaha Hadid)"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Fire Station (Zaha Hadid)",
+  "category_fits": true,
+  "scanned": 61
+ },
+ "guggenheim-bilbao": {
+  "lead": "File:Bilbao - Museo Guggenheim 01.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:-Tall Tree and the Eye- by Anish Kapoor, Guggenheim Museum, Bilbao, Spain (PPL3-Altered) julesvernex2.jpg",
+    "rating": "Q",
+    "w": 5184,
+    "h": 3922,
+    "license": "CC BY-SA 4.0",
+    "desc": "\"Tall Tree and the Eye\" by Anish Kapoor, Guggenheim Museum, Bilbao, Spain (PPL3-Altered)",
+    "cats": [
+     "Guggenheim Museum Bilbao",
+     "Tall Tree and the Eye (Kapoor)"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Bilbao - Puente La Salve, Guggenheim, Torre Iberdrola 01.jpg",
+    "rating": "Q",
+    "w": 3393,
+    "h": 4519,
+    "license": "CC BY-SA 4.0",
+    "desc": "La Salve Bridge, behind the Guggenheim, Museum, behind the Iberdrola Tower. Bilbao, Biscay, Basque Country, Spain",
+    "cats": [
+     "Guggenheim Museum Bilbao",
+     "Iberdrola Tower",
+     "Puente de La Salve"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Bilbao Guggenheim 1190400.jpg",
+    "rating": "Q",
+    "w": 3356,
+    "h": 3216,
+    "license": "CC BY-SA 4.0",
+    "desc": "Detail of the Guggenheim Museum in Bilbao",
+    "cats": [
+     "2012 in Bilbao",
+     "Guggenheim Museum Bilbao"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:-Puppy-, by Jeff Koons, Guggenheim Museum, Bilbao, Spain (PPL1-Corrected) julesvernex2.jpg",
+    "rating": "Q",
+    "w": 4291,
+    "h": 2483,
+    "license": "CC BY-SA 4.0",
+    "desc": "\"Puppy\", by Jeff Koons, Guggenheim Museum, Bilbao, Spain (PPL1-Corrected)",
+    "cats": [
+     "Guggenheim Museum Bilbao",
+     "Puppy (Koons)"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Bilbao Guggenheim 1190444.jpg",
+    "rating": "Q",
+    "w": 4057,
+    "h": 2602,
+    "license": "CC BY-SA 4.0",
+    "desc": "Detail of the Guggenheim Museum in Bilbao",
+    "cats": [
+     "2012 in Bilbao",
+     "Guggenheim Museum Bilbao"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Guggenheim Museum Bilbao",
+  "category_fits": true,
+  "scanned": 450
+ },
+ "seattle-central-library": {
+  "lead": "File:Seattle Library 01.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Seattle metro, September 2023 - 097.jpg",
+    "rating": "Q",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle Central Library - Washington, September 2023",
+    "cats": [
+     "Seattle Central Library in 2023",
+     "September 2023 in Seattle"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Seattle metropolitan area, April 2023 - 142.jpg",
+    "rating": "Q",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle metropolitan area",
+    "cats": [
+     "April 2023 in Seattle",
+     "Seattle Central Library in 2023"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Seattle metropolitan area, April 2023 - 143.jpg",
+    "rating": "Q",
+    "w": 3024,
+    "h": 4032,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle metropolitan area",
+    "cats": [
+     "April 2023 in Seattle",
+     "Seattle Central Library in 2023"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Seattle metropolitan area, April 2023 - 144.jpg",
+    "rating": "Q",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle metropolitan area",
+    "cats": [
+     "April 2023 in Seattle",
+     "Interior of Seattle Central Library",
+     "Seattle Central Library in 2023"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Seattle metropolitan area, April 2023 - 149.jpg",
+    "rating": "Q",
+    "w": 3024,
+    "h": 4032,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle metropolitan area",
+    "cats": [
+     "April 2023 in Seattle",
+     "Interior of Seattle Central Library",
+     "Seattle Central Library in 2023"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Seattle metropolitan area, April 2023 - 154.jpg",
+    "rating": "Q",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle metropolitan area",
+    "cats": [
+     "April 2023 in Seattle",
+     "Interior of Seattle Central Library",
+     "Seattle Central Library in 2023"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Seattle metropolitan area, April 2023 - 155.jpg",
+    "rating": "Q",
+    "w": 3024,
+    "h": 4032,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seattle metropolitan area",
+    "cats": [
+     "April 2023 in Seattle",
+     "Interior of Seattle Central Library",
+     "Seattle Central Library in 2023"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Central Library, Seattle (2014) - 03.JPG",
+    "rating": "Q",
+    "w": 3000,
+    "h": 4000,
+    "license": "CC BY-SA 3.0",
+    "desc": "Central Library, Seattle (2014)",
+    "cats": [
+     "April 2014 in Seattle",
+     "Escalators in the Seattle Public Library",
+     "Seattle Central Library in 2014"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Seattle Central Library",
+  "category_fits": true,
+  "scanned": 251
+ },
+ "oslo-opera-house": {
+  "lead": "File:Oslo Opera House 2023 2.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Oslo Opera House 2023 5.jpg",
+    "rating": "Q",
+    "w": 11000,
+    "h": 2875,
+    "license": "CC BY-SA 4.0",
+    "desc": "Oslo Opera House",
+    "cats": [
+     "Nye Munchmuseet",
+     "Oslo Opera house"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Oslo Opera House 2023 3.jpg",
+    "rating": "Q",
+    "w": 10150,
+    "h": 3005,
+    "license": "CC BY-SA 4.0",
+    "desc": "Oslo Opera House",
+    "cats": [
+     "Nye Munchmuseet",
+     "Oslo Opera house"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Oper Oslo 3.jpg",
+    "rating": "Q",
+    "w": 2288,
+    "h": 1525,
+    "license": "CC BY-SA 3.0 no",
+    "desc": "Opernhaus Oslo",
+    "cats": [
+     "Oslo Opera house rooftop"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Oslo Opera house",
+  "category_fits": true,
+  "scanned": 450
+ },
+ "elbphilharmonie": {
+  "lead": "File:Elbphilharmonie 17.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:A 514, Hamburg (1X7A7978).jpg",
+    "rating": "Q",
+    "w": 6720,
+    "h": 4480,
+    "license": "CC BY-SA 4.0",
+    "desc": "Tender Werra (A 514) at Reiherstieg, Hamburg",
+    "cats": [
+     "A514 Werra (ship, 1993)",
+     "Reiherstieg",
+     "Views from Elbphilharmonie"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Atlantic Sun, Hamburg (1X7A7969).jpg",
+    "rating": "Q",
+    "w": 6720,
+    "h": 4480,
+    "license": "CC BY-SA 4.0",
+    "desc": "Conro freighter Atlantic Sun towed by ZP Bison in the port of Hamburg, seen from Elbphilharmonie Plaza",
+    "cats": [
+     "Atlantic Sun (ship, 2017)",
+     "Klein Fritzchen (ship, 2016)",
+     "Views from Elbphilharmonie",
+     "ZP Bison (tugboat, 2015)"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Atlantic Sun, Hamburg (1X7A7976).jpg",
+    "rating": "Q",
+    "w": 6720,
+    "h": 4480,
+    "license": "CC BY-SA 4.0",
+    "desc": "Con-Ro ship Atlantic Sun being polled into the Port of Hamburg by tug boats",
+    "cats": [
+     "Atlantic Sun (ship, 2017)",
+     "Norderelbe",
+     "Ships under tow",
+     "VB Rasant (tugboat, 2016)",
+     "Views from Elbphilharmonie"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Barkasse Hamburg, Hamburg (1X7A7984).jpg",
+    "rating": "Q",
+    "w": 6720,
+    "h": 4480,
+    "license": "CC BY-SA 4.0",
+    "desc": "Tour boat Hamburg in Sandtorhafen, Hamburg",
+    "cats": [
+     "Hamburg (ship, 1995)",
+     "Sandtorhafen",
+     "Views from Elbphilharmonie"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Atlantic Sun, Hamburg (1X7A7971).jpg",
+    "rating": "Q",
+    "w": 6520,
+    "h": 4347,
+    "license": "CC BY-SA 4.0",
+    "desc": "ConRo freighter Atlantic Sun entering the port of Hamburg",
+    "cats": [
+     "Atlantic Sun (ship, 2017)",
+     "Ships under tow",
+     "Views from Elbphilharmonie",
+     "ZP Bison (tugboat, 2015)"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Hamburg Elphi Half-Gantry-Cranes.jpg",
+    "rating": "Q",
+    "w": 6000,
+    "h": 4000,
+    "license": "CC BY-SA 4.0",
+    "desc": "Hamburg, Hafencity, half-gantry cranes at Elbphilharmonie",
+    "cats": [
+     "Cultural heritage monuments in Hamburg-HafenCity",
+     "Exterior of Elbphilharmonie",
+     "Kaispeicher A",
+     "Port cranes in Hamburg"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Reflections of the Elbphilharmonie in the Kehrwiederfleet 01.jpg",
+    "rating": "Q",
+    "w": 5472,
+    "h": 3648,
+    "license": "CC BY-SA 4.0",
+    "desc": "Reflections of the Elbphilharmonie in the Kehrwiederfleet in Hamburg",
+    "cats": [
+     "Elbphilharmonie",
+     "Kehrwiederfleet",
+     "Water reflections of buildings in Hamburg"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Reflections of the Elbphilharmonie in the Kehrwiederfleet 02.jpg",
+    "rating": "Q",
+    "w": 5472,
+    "h": 3648,
+    "license": "CC BY-SA 4.0",
+    "desc": "Reflections of the Elbphilharmonie in the Kehrwiederfleet",
+    "cats": [
+     "Elbphilharmonie",
+     "Kehrwiederfleet",
+     "Water reflections of buildings in Hamburg"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Atlantic Sun, Hamburg (1X7A7967).jpg",
+    "rating": "Q",
+    "w": 4983,
+    "h": 3322,
+    "license": "CC BY-SA 4.0",
+    "desc": "Conro ship Atlantic Sun in the port of Hamburg",
+    "cats": [
+     "Atlantic Sun (ship, 2017)",
+     "Views from Elbphilharmonie",
+     "ZP Bison (tugboat, 2015)"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Elbphilharmonie",
+  "category_fits": true,
+  "scanned": 278
+ },
+ "high-line": {
+  "lead": "File:New York City High Line - Urban Forestry - 20150915-OSEC-LSC-0172 (20976525663).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:At New York City 2023 024 - High Line Section 3.jpg",
+    "rating": "Q",
+    "w": 6960,
+    "h": 4640,
+    "license": "CC BY-SA 4.0",
+    "desc": "High Line Section 3, New York City",
+    "cats": [
+     "High Line (New York City) in 2023",
+     "High Line Section 3",
+     "Hudson Yards in 2023",
+     "March 2023 in Manhattan, New York City",
+     "Rail tracks on the High Line (New York City)"
+    ],
+    "kind": "Section",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:At New York City 2023 026.jpg",
+    "rating": "Q",
+    "w": 6833,
+    "h": 4555,
+    "license": "CC BY-SA 4.0",
+    "desc": "Railway lines on the High Line, New York City",
+    "cats": [
+     "High Line (New York City) in 2023",
+     "High Line Section 3",
+     "Hudson Yards in 2023",
+     "March 2023 in Manhattan, New York City",
+     "Rail tracks on the High Line (New York City)"
+    ],
+    "kind": "Section",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:High Line (New York City)",
+  "category_fits": true,
+  "scanned": 450
+ },
+ "zeitz-mocaa": {
+  "lead": "File:Zeitz Museum of Contemporary Art Africa.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:At Cape Town (MP) 2018 115.jpg",
+    "rating": "Q",
+    "w": 3456,
+    "h": 4396,
+    "license": "CC BY-SA 4.0",
+    "desc": "Grain Silo, V&A Waterfront, Cape Town",
+    "cats": [
+     "Zeitz Museum of Contemporary Art Africa"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Zeitz Museum of Contemporary Art Africa, Cape Town ( 1050775).jpg",
+    "rating": "Q",
+    "w": 2898,
+    "h": 3622,
+    "license": "CC BY-SA 4.0",
+    "desc": "Zeitz Museum of Contemporary Art Africa, Cape Town",
+    "cats": [
+     "July 2018 Cape Town photographs",
+     "Wikimania 2018 - Day 2",
+     "Zeitz Museum of Contemporary Art Africa"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Zeitz Museum of Contemporary Art Africa",
+  "category_fits": true,
+  "scanned": 28
+ },
+ "pantheon": {
+  "lead": "File:Roma - Pantheon at dusk - in 2024.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Above main altar, Pantheon, Rome, Italy.jpg",
+    "rating": "Q",
+    "w": 4356,
+    "h": 2977,
+    "license": "CC0",
+    "desc": "Above the main altar, choir vault of the Pantheon in Rome, Italy.",
+    "cats": [
+     "Christian mosaics in Rome",
+     "Pantheon (Rome) - Interior"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Pantheon (Rome)",
+  "category_fits": true,
+  "scanned": 342
+ },
+ "30-st-mary-axe": {
+  "lead": "File:30 St Mary Axe (Swiss Re Building) and St Andrew Undershaft church.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Gherkin from the Sky Garden 2015.jpg",
+    "rating": "Q",
+    "w": 3404,
+    "h": 7621,
+    "license": "CC BY-SA 4.0",
+    "desc": "\" The Gherkin \", taken from the Sky Garden atop the \" Walkie-Talkie \".",
+    "cats": [
+     "30 St Mary Axe",
+     "Views from 20 Fenchurch Street, London"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:30 St Mary Axe from The Garden at 120 2.jpg",
+    "rating": "Q",
+    "w": 3300,
+    "h": 5100,
+    "license": "CC BY-SA 4.0",
+    "desc": "30 St Mary Axe seen from The Garden at 120.",
+    "cats": [
+     "30 St Mary Axe",
+     "Views from 120 Fenchurch Street, London"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:London UK Gherkin-01.jpg",
+    "rating": "Q",
+    "w": 2609,
+    "h": 5357,
+    "license": "CC BY-SA 3.0",
+    "desc": "London, UK:  The 30 St Mary Axe office building-skyscraper, popularly known as the Gherkin. Seen from 99 Bishopsgate",
+    "cats": [
+     "30 St Mary Axe"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Edificio Leadenhall y Gherkin, Londres, Inglaterra, 2014-08-11, DD 153.JPG",
+    "rating": "Q",
+    "w": 2598,
+    "h": 2976,
+    "license": "CC BY-SA 4.0",
+    "desc": "Leadenhall building and Gherkin, London, England",
+    "cats": [
+     "122 Leadenhall Street",
+     "30 St Mary Axe"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:London MMB 38 Fenchurch Buildings.jpg",
+    "rating": "Q",
+    "w": 1600,
+    "h": 2400,
+    "license": "CC BY-SA 3.0",
+    "desc": "The Gherkin, aka 30 St Mary Ax, or the Swiss Re Building, viewed from the little sidestreet Fenchurch Buildings.",
+    "cats": [
+     "30 St Mary Axe",
+     "Buildings in the City of London photographed in 2009",
+     "Fenchurch Buildings"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:London MMB 41 30 St Mary Ax.jpg",
+    "rating": "Q",
+    "w": 2400,
+    "h": 1600,
+    "license": "CC BY-SA 3.0",
+    "desc": "The Gherkin, aka 30 St Mary Ax, or the Swiss Re Building.",
+    "cats": [
+     "30 St Mary Axe",
+     "August 2009 in London",
+     "Buildings in the City of London photographed in 2009",
+     "Glass"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:30 St Mary Axe, 'Gherkin'.JPG",
+    "rating": "V",
+    "w": 1200,
+    "h": 1600,
+    "license": "Public domain",
+    "desc": "30 St Mary Axe  is a  skyscraper  in  London 's main financial district. It serves as  Swiss Re 's London headquarters. ",
+    "cats": [
+     "2007 in the City of London",
+     "30 St Mary Axe",
+     "St Helen's (Building)",
+     "Views from Tower 42"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:30 St Mary Axe",
+  "category_fits": true,
+  "scanned": 450
+ },
+ "commerzbank-tower": {
+  "lead": "File:Commerzbank-Hochhaus 2010-09-06 01.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Westhafen Frankfurt - Skyline - March 8th 2026.jpg",
+    "rating": "Q",
+    "w": 6192,
+    "h": 4128,
+    "license": "CC BY-SA 4.0",
+    "desc": "West port, river Main and skyline of Frankfurt.",
+    "cats": [
+     "Commerzbank Tower",
+     "Westhafen (Frankfurt am Main)",
+     "Westhafen Tower"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Frankfurt Main Skyline Commerzbank Tower - 06.jpg",
+    "rating": "Q",
+    "w": 3109,
+    "h": 4704,
+    "license": "CC BY-SA 3.0",
+    "desc": "Commerzbank tower in Frankfurt, Germany (tone-mapped HDRI).",
+    "cats": [
+     "2010s photographs of Hesse",
+     "Commerzbank Tower"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Frankfurt Main Skyline with Commerzbank Tower - 09.jpg",
+    "rating": "Q",
+    "w": 2968,
+    "h": 4450,
+    "license": "CC BY-SA 3.0",
+    "desc": "Skyline with Commerzbank tower in Frankfurt/Main, Hesse, Germany (tone-mapped HDRI).",
+    "cats": [
+     "2010s photographs of Hesse",
+     "Commerzbank Tower",
+     "Main in Frankfurt am Main",
+     "Skylines of Frankfurt am Main"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Frankfurt Main Skyline - 02.jpg",
+    "rating": "Q",
+    "w": 4534,
+    "h": 2902,
+    "license": "CC BY-SA 3.0",
+    "desc": "Skyline of Frankfurt, Hesse, Germany, with river Main (tone-mapped HDRI).",
+    "cats": [
+     "2010s photographs of Hesse",
+     "Commerzbank Tower",
+     "Main in Frankfurt am Main",
+     "Skylines of Frankfurt am Main"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Frankfurt Main Skyline with Commerzbank Tower - 04.jpg",
+    "rating": "Q",
+    "w": 4505,
+    "h": 2813,
+    "license": "CC BY-SA 3.0",
+    "desc": "Skyline of Frankfurt, Hesse, Germany, with river Main (tone-mapped HDRI).",
+    "cats": [
+     "2010s photographs of Hesse",
+     "2011 in Frankfurt am Main",
+     "Commerzbank Tower",
+     "Main in Frankfurt am Main",
+     "Skylines of Frankfurt am Main"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Commerzbank Tower",
+  "category_fits": true,
+  "scanned": 128
+ },
+ "copan-building": {
+  "lead": "File:Edifício Copan São Paulo 2017-2.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Webysther 20150428110918 - Edifícios Terraço Itália e Copan.jpg",
+    "rating": "Q",
+    "w": 4675,
+    "h": 2630,
+    "license": "CC BY-SA 4.0",
+    "desc": "Edifícios  Terraço Itália  e  Copan  respectivamente.",
+    "cats": [
+     "Aerial views of Edifício Itália",
+     "Edifício Copan",
+     "Terraço Itália"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Edifício Copan",
+  "category_fits": true,
+  "scanned": 122
+ },
+ "national-museum-of-african-american-history-and-culture": {
+  "lead": "File:Smithsonian-nmaahc-outside-20160720.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:National Museum of African American History and Culture in February 2020.jpg",
+    "rating": "Q",
+    "w": 6020,
+    "h": 4013,
+    "license": "CC BY-SA 4.0",
+    "desc": "The exterior of the National Museum of African American History and Culture in Washington, D.C., on February 27, 2020, a",
+    "cats": [
+     "February 2020 in Washington, D.C.",
+     "National Museum of African American History and Culture - exterior"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:National Museum of African American History and Culture (97901).jpg",
+    "rating": "Q",
+    "w": 4564,
+    "h": 3294,
+    "license": "CC BY-SA 4.0",
+    "desc": "National Museum of African American History and Culture exterior",
+    "cats": [
+     "Clouds and blue sky in Washington, D.C.",
+     "National Museum of African American History and Culture - exterior"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:National Museum of African American History and Culture",
+  "category_fits": true,
+  "scanned": 186
+ },
+ "yad-vashem-holocaust-history-museum": {
+  "lead": "File:2019 Israel Jordanien 1060 Yad Vashem.JPG",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Israel-2013(2)-Jerusalem-Yad Vashem-Prism Skylight 01.jpg",
+    "rating": "Q",
+    "w": 10048,
+    "h": 7169,
+    "license": "CC BY-SA 4.0",
+    "desc": "“Prism Skylight” of the new  Yad Vashem  (Hebrew: יד ושם)  Holocaust  museum designed by  Moshe Safdie  is 200 meters lo",
+    "cats": [
+     "Yad Vashem"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Yad Vashem",
+  "category_fits": true,
+  "scanned": 313
+ },
+ "phaeno-science-center": {
+  "lead": "File:Phaeno Suedseite RB.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Phaeno Rampe Übergang Autostadt.jpg",
+    "rating": "Q",
+    "w": 7760,
+    "h": 10328,
+    "license": "CC BY-SA 3.0",
+    "desc": "phæno Wolfsburg, Germany  onramp heading Autostad",
+    "cats": [
+     "Phæno"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Phæno",
+  "category_fits": false,
+  "scanned": 107
+ },
+ "national-congress-of-brazil": {
+  "lead": "File:Congresso do Brasil.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Brasilia Eixo Monumental Nat Congress Ministries from TV Tower.jpg",
+    "rating": "Q",
+    "w": 4124,
+    "h": 2176,
+    "license": "CC BY-SA 3.0",
+    "desc": "Brasilia, capital of Brazil, as seen from the TV tower: eastern part of Eixo Monumental, National Congress buildings (tw",
+    "cats": [
+     "2009 in Brasília",
+     "July 2009 in Brazil",
+     "Remote views of Palácio do Congresso Nacional (Brasília)",
+     "Towers of Palácio do Congresso Nacional (Brasília)",
+     "Views of Eixo Monumental from Torre de TV de Brasília southeastward"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Palácio do Congresso Nacional (Brasília)",
+  "category_fits": false,
+  "scanned": 228
+ },
+ "casa-mila": {
+  "lead": "File:Casa Milà, general view.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Casa Mila, Barcelona (P1170595).jpg",
+    "rating": "Q",
+    "w": 2749,
+    "h": 3436,
+    "license": "CC BY-SA 4.0",
+    "desc": "Casa Milà by Antoni Gaudí seen from Passeig de Gràcia in Barcelona",
+    "cats": [
+     "Buildings in Catalonia photographed in 2024",
+     "General views of Casa Milà"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Casa Milà",
+  "category_fits": true,
+  "scanned": 451
+ },
+ "national-september-11-memorial": {
+  "lead": "File:9-11 Memorial and Museum (28815276064).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:World Trade Center New York July 2013 001.jpg",
+    "rating": "Q",
+    "w": 2320,
+    "h": 3480,
+    "license": "CC BY-SA 4.0",
+    "desc": "200 West Street , as viewed from the  9/11 Memorial ,  Manhattan ,  New York City .",
+    "cats": [
+     "200 West Street",
+     "Views from the National September 11 Memorial"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:World Trade Center New York July 2013 002.jpg",
+    "rating": "Q",
+    "w": 2880,
+    "h": 2160,
+    "license": "CC BY-SA 4.0",
+    "desc": "Southeast view from the  9/11 Memorial ,  Manhattan ,  New York City .",
+    "cats": [
+     "National September 11 Memorial South Pool",
+     "Views from the National September 11 Memorial"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:National September 11 Memorial & Museum",
+  "category_fits": true,
+  "scanned": 210
+ },
+ "munich-olympic-stadium": {
+  "lead": "File:Blick vom Olympiaberg auf das Olympiastadion.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Olympic Stadium Munich - Rows of Seats, April 2019 -04.jpg",
+    "rating": "F",
+    "w": 5607,
+    "h": 3738,
+    "license": "CC BY-SA 4.0",
+    "desc": "Rows of seats in  Olympiastadion Munich",
+    "cats": [
+     "April 2019 in Munich",
+     "Green objects in Bavaria",
+     "Green structures",
+     "Green textures",
+     "Many objects in Germany",
+     "Olympic Stadium, Munich"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympic Stadium Munich - Rows of Seats, April 2019 -01.jpg",
+    "rating": "Q",
+    "w": 5811,
+    "h": 3874,
+    "license": "CC BY-SA 4.0",
+    "desc": "Rows of seats in  Olympiastadion Munich",
+    "cats": [
+     "April 2019 in Munich",
+     "Green chairs",
+     "Olympic Stadium, Munich",
+     "Seating rows in Germany"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympic Stadium Munich - Rows of Seats, April 2019 -02.jpg",
+    "rating": "Q",
+    "w": 3738,
+    "h": 5607,
+    "license": "CC BY-SA 4.0",
+    "desc": "Rows of seats in  Olympiastadion Munich",
+    "cats": [
+     "April 2019 in Munich",
+     "Green chairs",
+     "Olympic Stadium, Munich",
+     "Seating rows in Germany"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 13.JPG",
+    "rating": "Q",
+    "w": 3552,
+    "h": 5488,
+    "license": "CC BY-SA 3.0",
+    "desc": "Olympic Stadium, Munich, Germany",
+    "cats": [
+     "Olympic Roof Munich",
+     "Olympic Stadium, Munich"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympic Stadium Munich - Rows of Seats, April 2019 -03.jpg",
+    "rating": "Q",
+    "w": 5331,
+    "h": 3428,
+    "license": "CC BY-SA 4.0",
+    "desc": "Rows of seats in  Olympiastadion Munich",
+    "cats": [
+     "April 2019 in Munich",
+     "Green chairs",
+     "Olympic Stadium, Munich",
+     "Seating rows in Germany"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 14.JPG",
+    "rating": "Q",
+    "w": 5312,
+    "h": 3328,
+    "license": "CC BY-SA 3.0",
+    "desc": "Olympiastadion, Munich, Germany",
+    "cats": [
+     "Olympic Stadium, Munich"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 15.JPG",
+    "rating": "Q",
+    "w": 3095,
+    "h": 5135,
+    "license": "CC BY-SA 3.0",
+    "desc": "Olympiastadion, Munich, Germany",
+    "cats": [
+     "Olympic Roof Munich",
+     "Olympic Stadium, Munich"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympiastadion, Mùnich, Alemania, 2012-07-15, DD 01.JPG",
+    "rating": "Q",
+    "w": 5501,
+    "h": 2500,
+    "license": "CC BY-SA 3.0",
+    "desc": "Olympiastadion, Munich, Germany",
+    "cats": [
+     "2012 in Bavaria",
+     "Olympiaturm",
+     "Olympic Stadium, Munich"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 03.JPG",
+    "rating": "Q",
+    "w": 4511,
+    "h": 3007,
+    "license": "CC BY-SA 3.0",
+    "desc": "Olympiastadion, Munich, Germany",
+    "cats": [
+     "Olympic Roof Munich",
+     "Views of the Olympic Stadium from Olympic Tower, Munich"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Olympiastadion, Mùnich, Alemania, 2012-07-15, DD 02.JPG",
+    "rating": "Q",
+    "w": 4704,
+    "h": 2656,
+    "license": "CC BY-SA 3.0",
+    "desc": "Olympiastadion, Munich, Germany",
+    "cats": [
+     "2012 in Bavaria",
+     "Olympic Stadium, Munich"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Olympic Stadium, Munich",
+  "category_fits": true,
+  "scanned": 393
+ },
+ "goetheanum": {
+  "lead": "File:Goetheanum Dornach2.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Aerial View - Goetheanum1.jpg",
+    "rating": "F",
+    "w": 4235,
+    "h": 2391,
+    "license": "CC BY 3.0",
+    "desc": "Aerial view of  Goetheanum .",
+    "cats": [
+     "Aerial views of the Goetheanum"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Aerial View - Goetheanum2.jpg",
+    "rating": "Q",
+    "w": 4664,
+    "h": 2893,
+    "license": "CC BY 3.0",
+    "desc": "aerial view of Goetheanum",
+    "cats": [
+     "Aerial views of the Goetheanum"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Dornach - Goetheanum - Detail4.jpg",
+    "rating": "Q",
+    "w": 3872,
+    "h": 2592,
+    "license": "CC BY 3.0",
+    "desc": "Dornach: Goeteheanum (detail)",
+    "cats": [
+     "Goetheanum (details)"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Dornach - Goetheanum - Detail3.jpg",
+    "rating": "Q",
+    "w": 3592,
+    "h": 2364,
+    "license": "CC BY 3.0",
+    "desc": "Dornach: Goeteheanum (detail)",
+    "cats": [
+     "Goetheanum (details)"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Dornach - Goetheanum4.jpg",
+    "rating": "Q",
+    "w": 3579,
+    "h": 1946,
+    "license": "CC BY 3.0",
+    "desc": "Dornach, Switzland: Goetheanum from northwest",
+    "cats": [
+     "Goetheanum from Northwest"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Aerial View - Dornacher Hügel4.jpg",
+    "rating": "Q",
+    "w": 2953,
+    "h": 1936,
+    "license": "CC BY 3.0",
+    "desc": "aerial view of the hill of Dornach and Goetheanum",
+    "cats": [
+     "Aerial views of the Goetheanum"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Goetheanum",
+  "category_fits": true,
+  "scanned": 190
+ },
+ "viipuri-library": {
+  "lead": "File:Alvar Aalto Library Vyborg3.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Выборг, бибилиотека Аалто сверху.jpg",
+    "rating": "Q",
+    "w": 5149,
+    "h": 3856,
+    "license": "CC BY-SA 4.0",
+    "desc": "Vyborg library photographed from above. Vyborg, Leningrad Oblast, Russia.",
+    "cats": [
+     "Aerial photographs of Vyborg",
+     "Orthophotos of Europe",
+     "Skylights in Russia",
+     "Vyborg Library",
+     "Wikimeetup in Vyborg 2022-08-13",
+     "Windows in Vyborg"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Vyborg Library",
+  "category_fits": true,
+  "scanned": 51
+ },
+ "st-mark-s-church-markuskyrkan": {
+  "lead": "File:Markuskyrkan April 2013 01.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Markuskyrkan April 2013 02.jpg",
+    "rating": "Q",
+    "w": 6016,
+    "h": 4016,
+    "license": "CC BY-SA 3.0",
+    "desc": "Markuskyrkan (St Mark`s church), Björkhagen, Stockholm. Built 1958-60. Architct: Sigurd Lewerentz.",
+    "cats": [
+     "Churches in Stockholm County photographed in 2013",
+     "Markuskyrkan"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Markuskyrkan April 2013 03.jpg",
+    "rating": "Q",
+    "w": 4016,
+    "h": 4685,
+    "license": "CC BY-SA 3.0",
+    "desc": "Markuskyrkan (St Mark`s church), Björkhagen, Stockholm. Built 1958-60. Architct: Sigurd Lewerent",
+    "cats": [
+     "Churches in Stockholm County photographed in 2013",
+     "Markuskyrkan"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Markuskyrkan",
+  "category_fits": true,
+  "scanned": 60
+ },
+ "marina-city": {
+  "lead": "File:Marina City, Chicago, Illinois, Estados Unidos, 2012-10-20, DD 01.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Chicago September 2016-42.jpg",
+    "rating": "Q",
+    "w": 5747,
+    "h": 8000,
+    "license": "CC BY-SA 4.0",
+    "desc": "Downtown Chicago. View from Du Sable Bridge to east",
+    "cats": [
+     "77 West Wacker Drive",
+     "Buildings in Chicago",
+     "Leo Burnett Building",
+     "Marina City"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Marina City and State Street Bridge at blue hour, Chicago.jpg",
+    "rating": "Q",
+    "w": 4128,
+    "h": 6099,
+    "license": "CC BY-SA 4.0",
+    "desc": "The twin towers of  Marina City  on the north bank of the Chicago River in downtown Chicago, Illinois, seen during blue ",
+    "cats": [
+     "Bataan-Corregidor Memorial Bridge",
+     "Chicago River",
+     "Marina City",
+     "Quality images by Norbert Nagel"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Marina City",
+  "category_fits": true,
+  "scanned": 402
+ },
+ "sagrada-familia": {
+  "lead": "File:SF maig 2026.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Monogram from the ceiling of the chapel at Casa Batlló 1.jpg",
+    "rating": "Q",
+    "w": 8192,
+    "h": 6144,
+    "license": "CC BY-SA 4.0",
+    "desc": "Monogram from the ceiling of the chapel at Casa Batlló, Barcelona, Spain",
+    "cats": [
+     "January 2025 in Barcelona",
+     "Museums of the Sagrada Família"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:(Barcelona) Bastidors d'espelmes votives - dissenyat per Antoni Gaudí - Sagrada Familia.jpg",
+    "rating": "V",
+    "w": 9012,
+    "h": 6259,
+    "license": "CC BY-SA 4.0",
+    "desc": "",
+    "cats": [
+     "Church candles in Catalonia",
+     "Church furniture of the Sagrada Família",
+     "Furniture by Antoni Gaudí",
+     "May 2018 in Barcelona",
+     "Metalwork in Barcelona",
+     "Museums of the Sagrada Família"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Sagrada Família",
+  "category_fits": true,
+  "scanned": 451
+ },
+ "franklin-d-roosevelt-four-freedoms-park": {
+  "lead": "File:Four Freedoms Park (8604876194).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:FDR Four Freedoms Park New York October 2016 panorama.jpg",
+    "rating": "Q",
+    "w": 13500,
+    "h": 6000,
+    "license": "CC BY-SA 4.0",
+    "desc": "Allée of little-leaf lindens (  Tilia cordata  ),  Franklin D. Roosevelt Four Freedoms Park ,  Roosevelt Island ,  New Y",
+    "cats": [
+     "Autumn in New York City",
+     "Avenues (landscape) in New York City",
+     "Franklin D. Roosevelt Four Freedoms Park",
+     "Open House New York Weekend 2016 in Manhattan between 34th and 59th Streets",
+     "Tilia cordata in autumn",
+     "Trees on Roosevelt Island"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Roosevelt Island and Queens from Manhattan New York October 2015 002.jpg",
+    "rating": "Q",
+    "w": 6000,
+    "h": 3000,
+    "license": "CC BY-SA 4.0",
+    "desc": "Skyline of  Long Island City ,  Queens , with  Franklin D. Roosevelt Four Freedoms Park ,  w:Roosevelt Island  in the fo",
+    "cats": [
+     "4540 Center Boulevard",
+     "East River (New York)",
+     "Franklin D. Roosevelt Four Freedoms Park",
+     "Long Island City skylines from Manhattan",
+     "Queens West"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Franklin D. Roosevelt Four Freedoms Park",
+  "category_fits": true,
+  "scanned": 90
+ },
+ "danish-maritime-museum": {
+  "lead": "File:Maritime Museum of Denmark, entrance 2017-08-02.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Maritime Museum of Denmark April 2026 03.jpg",
+    "rating": "Q",
+    "w": 8256,
+    "h": 6192,
+    "license": "CC BY-SA 4.0",
+    "desc": "The M/S Maritime Museum of Denmark (Danish: M/S Museet for Søfart) is a maritime museum located in Helsingør, Denmark. T",
+    "cats": [
+     "Exterior of Museet for Søfart"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Museet for Søfart",
+  "category_fits": false,
+  "scanned": 86
+ },
+ "portugal-pavilion": {
+  "lead": "File:Parque das Nações (pavillon du Portugal) (9322014331).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Panoramic view, Parque das Nações, Lisbon, Portugal julesvernex2-3.jpg",
+    "rating": "Q",
+    "w": 11810,
+    "h": 5819,
+    "license": "CC BY-SA 4.0",
+    "desc": "Panoramic view, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "Edifício Vodafone (Lisboa)",
+     "MEO Arena",
+     "Panoramas",
+     "Pavilhão de Portugal",
+     "Teleférico da Expo",
+     "Torres São Gabriel e São Rafael"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Panoramic view, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+    "rating": "Q",
+    "w": 7591,
+    "h": 7989,
+    "license": "CC BY-SA 4.0",
+    "desc": "Panoramic view, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "MEO Arena",
+     "Panoramas",
+     "Pavilhão de Portugal",
+     "Teleférico da Expo",
+     "Torres São Gabriel e São Rafael"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+    "rating": "Q",
+    "w": 9341,
+    "h": 6301,
+    "license": "CC BY-SA 4.0",
+    "desc": "Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "2020s photographs",
+     "Pavilhão de Portugal"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+    "rating": "Q",
+    "w": 8913,
+    "h": 6337,
+    "license": "CC BY-SA 4.0",
+    "desc": "Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "2020s photographs",
+     "Pavilhão de Portugal"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal julesvernex2-4.jpg",
+    "rating": "Q",
+    "w": 5938,
+    "h": 9260,
+    "license": "CC BY-SA 4.0",
+    "desc": "Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "2020s photographs",
+     "Pavilhão de Portugal"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal julesvernex2-3.jpg",
+    "rating": "Q",
+    "w": 6153,
+    "h": 7190,
+    "license": "CC BY-SA 4.0",
+    "desc": "Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "2020s photographs",
+     "Pavilhão de Portugal"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal julesvernex2-3.jpg",
+    "rating": "Q",
+    "w": 8711,
+    "h": 4787,
+    "license": "CC BY-SA 4.0",
+    "desc": "Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "2020s photographs",
+     "Pavilhão de Portugal"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Panoramic view, Parque das Nações, Lisbon, Portugal julesvernex2-2.jpg",
+    "rating": "Q",
+    "w": 7770,
+    "h": 5303,
+    "license": "CC BY-SA 4.0",
+    "desc": "Panoramic view, Parque das Nações, Lisbon, Portugal",
+    "cats": [
+     "Edifício Vodafone (Lisboa)",
+     "MEO Arena",
+     "Pavilhão de Portugal",
+     "Torres São Gabriel e São Rafael"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Pavilhão de Portugal",
+  "category_fits": true,
+  "scanned": 189
+ },
+ "villa-cavrois": {
+  "lead": "File:Croix villa cavrois arriere quart.JPG",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Villa Cavrois à Croix - La cuisine.jpg",
+    "rating": "Q",
+    "w": 5902,
+    "h": 3942,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - La cuisine - Architecte: Robert Mallet-Stevens (1886-1945)",
+    "cats": [
+     "Kitchens in Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - Salon vu de l'étage.jpg",
+    "rating": "Q",
+    "w": 5853,
+    "h": 3902,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) - Salon vu de l'étage",
+    "cats": [
+     "Living room in Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - Salon.jpg",
+    "rating": "Q",
+    "w": 3882,
+    "h": 5823,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) -  Salon",
+    "cats": [
+     "Living room in Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - La salle de bain.jpg",
+    "rating": "Q",
+    "w": 5409,
+    "h": 3965,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) -  La salle de bain",
+    "cats": [
+     "Bathrooms in villa Cavrois"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:La salle à manger des parents de la Villa Cavrois à Croix.jpg",
+    "rating": "Q",
+    "w": 5638,
+    "h": 3782,
+    "license": "CC BY-SA 4.0",
+    "desc": "La salle à manger des parents de la Villa Cavrois à Croix",
+    "cats": [
+     "Dining room of Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - Vue de l'escalier sur le jardin.jpg",
+    "rating": "Q",
+    "w": 3758,
+    "h": 5638,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) - Vue de l'escalier sur le jardin",
+    "cats": [
+     "Interior of villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - La salle à manger.jpg",
+    "rating": "Q",
+    "w": 5320,
+    "h": 3739,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Salle à manger - Architecte: Robert Mallet-Stevens (1886-1945)",
+    "cats": [
+     "Bedrooms in Hauts-de-France",
+     "Dining room of Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Salle à manger de la Villa Cavrois à Croix.jpg",
+    "rating": "Q",
+    "w": 5280,
+    "h": 3613,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) -  Salle à manger",
+    "cats": [
+     "Dining room of Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - Lavabo et bidet.jpg",
+    "rating": "Q",
+    "w": 3083,
+    "h": 5580,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) - Lavabo et bidet",
+    "cats": [
+     "Bathrooms in villa Cavrois"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Villa Cavrois à Croix - Le salon.jpg",
+    "rating": "Q",
+    "w": 5504,
+    "h": 3096,
+    "license": "CC BY-SA 4.0",
+    "desc": "Villa Cavrois à Croix (1932) - Architecte: Robert Mallet-Stevens (1886-1945) - Le salon",
+    "cats": [
+     "Living room in Villa Cavrois"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Villa Cavrois",
+  "category_fits": true,
+  "scanned": 165
+ },
+ "mercedes-benz-museum": {
+  "lead": "File:Mercedes-Benz Museum 201312 02 sunset.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Ferrari 328 GTS IMG 0200.jpg",
+    "rating": "Q",
+    "w": 5881,
+    "h": 3914,
+    "license": "CC BY-SA 4.0",
+    "desc": "Ferrari 328 GTS in Stuttgart",
+    "cats": [
+     "Automobiles with license plates of Rems-Murr-Kreis",
+     "Ferrari 328 GTS",
+     "Mercedes-Benz Museum",
+     "Red roadsters",
+     "Temporary license plates of Germany - historical vehicle"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Ferrari 328 GTS IMG 0203.jpg",
+    "rating": "Q",
+    "w": 5086,
+    "h": 3385,
+    "license": "CC BY-SA 4.0",
+    "desc": "Ferrari 328 GTS in Stuttgart",
+    "cats": [
+     "Automobiles with license plates of Rems-Murr-Kreis",
+     "Ferrari 328 GTS",
+     "Mercedes-Benz Museum",
+     "Red roadsters",
+     "Temporary license plates of Germany - historical vehicle"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Mercedes-Benz G 500 Nr. 500000 in the Mercedes-Benz-Museum IMG 7369.jpg",
+    "rating": "V",
+    "w": 3957,
+    "h": 2633,
+    "license": "CC BY-SA 4.0",
+    "desc": "Mercedes-Benz G 500 Nr. 500000 in the Mercedes-Benz Museum in May 2023",
+    "cats": [
+     "Mercedes-Benz G 500 Nr. 500000",
+     "Mercedes-Benz Museum, 2023"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Mercedes-Benz Museum",
+  "category_fits": true,
+  "scanned": 408
+ },
+ "kirche-am-steinhof": {
+  "lead": "File:Penzing (Wien) - Kirche am Steinhof (7).JPG",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:20250503 Kirche am Steinhof 10.jpg",
+    "rating": "Q",
+    "w": 5205,
+    "h": 3475,
+    "license": "CC BY-SA 4.0",
+    "desc": "Frontaler view on the Kirche am Steinhof in Vienna, Austria.",
+    "cats": [
+     "Churches in Vienna photographed in 2025",
+     "Exterior of Kirche am Steinhof"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:20250503 Kirche am Steinhof 05.jpg",
+    "rating": "Q",
+    "w": 3303,
+    "h": 3303,
+    "license": "CC BY-SA 4.0",
+    "desc": "The main altar of the Kirche am Steinhof in Vienna, Austria.",
+    "cats": [
+     "Churches in Vienna photographed in 2025",
+     "Interior of Kirche am Steinhof"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:20250503 Kirche am Steinhof 06.jpg",
+    "rating": "Q",
+    "w": 2898,
+    "h": 2898,
+    "license": "CC BY-SA 4.0",
+    "desc": "A pulpit inside the Kirche am Steinhof in Vienna, Austria.",
+    "cats": [
+     "Churches in Vienna photographed in 2025",
+     "Interior of Kirche am Steinhof",
+     "Pulpits in Vienna"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Kirche am Steinhof",
+  "category_fits": true,
+  "scanned": 190
+ },
+ "looshaus": {
+  "lead": "File:Looshaus Michaelerplatz.JPG",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6556.jpg",
+    "rating": "Q",
+    "w": 5053,
+    "h": 3483,
+    "license": "CC BY-SA 4.0",
+    "desc": "View at the Looshaus, Vienna, Michaelerplatz. Lower part of the facade",
+    "cats": [
+     "Lanterns in Vienna",
+     "Looshaus"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6585.jpg",
+    "rating": "Q",
+    "w": 4756,
+    "h": 3527,
+    "license": "CC BY-SA 4.0",
+    "desc": "View at the Looshaus, Vienna, Michaelerplatz. Lower part of the facade",
+    "cats": [
+     "Looshaus"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6589.jpg",
+    "rating": "Q",
+    "w": 4514,
+    "h": 3527,
+    "license": "CC BY-SA 4.0",
+    "desc": "View at the Looshaus, Vienna, Michaelerplatz. Lower part of the facade",
+    "cats": [
+     "Looshaus"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6590.jpg",
+    "rating": "Q",
+    "w": 4514,
+    "h": 3527,
+    "license": "CC BY-SA 4.0",
+    "desc": "View at the Looshaus, Vienna, Michaelerplatz. Lower part of the facade",
+    "cats": [
+     "Looshaus"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6555.jpg",
+    "rating": "Q",
+    "w": 3657,
+    "h": 2939,
+    "license": "CC BY-SA 4.0",
+    "desc": "View at the Looshaus, Vienna, Michaelerplatz. Lower part of the facade",
+    "cats": [
+     "Lanterns in Vienna",
+     "Looshaus"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6558.jpg",
+    "rating": "Q",
+    "w": 2893,
+    "h": 3361,
+    "license": "CC BY-SA 4.0",
+    "desc": "View at the Looshaus, Vienna, Michaelerplatz. Lower part of the facade with emperial coats of arms",
+    "cats": [
+     "Looshaus",
+     "State coats of arms of the Empire of Austria"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Looshaus",
+  "category_fits": true,
+  "scanned": 129
+ },
+ "parliament-house": {
+  "lead": "File:Parliament House at dusk, Canberra ACT.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Canberra (AU), Parliament House and Old Parliament House -- 2019 -- 1767.jpg",
+    "rating": "Q",
+    "w": 6623,
+    "h": 4415,
+    "license": "CC BY-SA 4.0",
+    "desc": "Parliament House  (foreground) and  Old Parliament House  (background),  Canberra ,  Australian Capital Territory , Aust",
+    "cats": [
+     "Buildings in Australia photographed in 2019",
+     "Clouds and blue sky in the Australian Capital Territory",
+     "Clouds in the Southern Hemisphere in October 2019",
+     "October 2019 in Canberra",
+     "Old Parliament House, Canberra",
+     "Parliament House, Canberra"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Canberra (AU), Parliament House -- 2019 -- 1754.jpg",
+    "rating": "Q",
+    "w": 4087,
+    "h": 6130,
+    "license": "CC BY-SA 4.0",
+    "desc": "Parliament House ,  Canberra ,  Australian Capital Territory , Australia",
+    "cats": [
+     "1 building in Australia",
+     "Buildings in Australia photographed in 2019",
+     "Buildings with clouds and blue sky background",
+     "Clouds and blue sky in the Australian Capital Territory",
+     "Clouds in the Southern Hemisphere in October 2019",
+     "Flagpoles in Australia"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Parliament House, Canberra",
+  "category_fits": true,
+  "scanned": 254
+ },
+ "toronto-city-hall": {
+  "lead": "File:City Hall, Toronto, Ontario.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:At Nathan Phillips Square on May 21, 2022 (4).jpg",
+    "rating": "Q",
+    "w": 9504,
+    "h": 6336,
+    "license": "CC BY-SA 4.0",
+    "desc": "At Nathan Phillips Square on May 21, 2022",
+    "cats": [
+     "Fountains at Nathan Phillips Square",
+     "Nathan Phillips Square",
+     "Street photography in Toronto",
+     "Toronto City Hall"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Toronto City Hall Ice Rink.jpg",
+    "rating": "Q",
+    "w": 6295,
+    "h": 9443,
+    "license": "CC BY-SA 4.0",
+    "desc": "Toronto City Hall Ice Rink",
+    "cats": [
+     "Old City Hall, Toronto",
+     "Street photography in Toronto",
+     "Toronto City Hall ice rink"
+    ],
+    "kind": "Interior",
+    "why_kept": "p18"
+   },
+   {
+    "file": "File:Seagull taking off at Nathan Phillips Square.jpg",
+    "rating": "Q",
+    "w": 7044,
+    "h": 4848,
+    "license": "CC BY-SA 4.0",
+    "desc": "Seagull taking off at Nathan Phillips Square",
+    "cats": [
+     "Birds of Toronto",
+     "Black and white photographs of Canada in the 2020s",
+     "Black and white photographs of Toronto",
+     "Larus delawarensis (in flight)",
+     "Larus delawarensis in Ontario",
+     "May 2022 in Toronto"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Windows of Toronto City Hall (Monochrome).jpg",
+    "rating": "Q",
+    "w": 6000,
+    "h": 3885,
+    "license": "CC BY-SA 4.0",
+    "desc": "Windows of Toronto City Hall (Monochrome)",
+    "cats": [
+     "Black and white photographs of Canada in the 2020s",
+     "Black and white photographs of Toronto",
+     "Black and white photographs of windows",
+     "Curved structures",
+     "Facades in Toronto",
+     "Minimalist photos of structures"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Windows of Toronto City Hall.jpg",
+    "rating": "Q",
+    "w": 6000,
+    "h": 3885,
+    "license": "CC BY-SA 4.0",
+    "desc": "Windows of Toronto City Hall",
+    "cats": [
+     "Curved structures",
+     "Facades in Toronto",
+     "Minimalist photos of structures",
+     "Toronto City Hall",
+     "Windows in Toronto"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Toronto city hall August 2017 02.jpg",
+    "rating": "Q",
+    "w": 3720,
+    "h": 4650,
+    "license": "CC BY-SA 4.0",
+    "desc": "Toronto city hall.",
+    "cats": [
+     "August 2017 in Toronto",
+     "Toronto City Hall"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Toronto city hall August 2017 01.jpg",
+    "rating": "Q",
+    "w": 3511,
+    "h": 2809,
+    "license": "CC BY-SA 4.0",
+    "desc": "Toronto city hall.",
+    "cats": [
+     "August 2017 in Toronto",
+     "Toronto City Hall"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Toronto - ON - New City Hall.jpg",
+    "rating": "Q",
+    "w": 2409,
+    "h": 3581,
+    "license": "CC BY 3.0",
+    "desc": "Toronto City Hall , Canada",
+    "cats": [
+     "Toronto City Hall"
+    ],
+    "kind": "Interior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Toronto City Hall",
+  "category_fits": true,
+  "scanned": 332
+ },
+ "stuttgart-tv-tower": {
+  "lead": "File:Fernsehturm Stuttgart.JPG",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Fernsehturm Stuttgart Summer 2013 02.jpg",
+    "rating": "Q",
+    "w": 3679,
+    "h": 5519,
+    "license": "CC BY 4.0",
+    "desc": "The  Fernsehturm Stuttgart  (TV Tower Stuttgart) a few minutes after sunset, seen from the West.",
+    "cats": [
+     "Fernsehturm Stuttgart"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Fundamentfuss-Stuttgarter-Fernsehturm-beschriftet-de.png",
+    "rating": "Q",
+    "w": 2400,
+    "h": 3200,
+    "license": "CC BY-SA 3.0",
+    "desc": "Diagram showing Foundation of the Television Tower in Stuttgart (Fernsehturm Stuttgart), weight of foundation: approxima",
+    "cats": [
+     "Drawings of Fernsehturm Stuttgart",
+     "Grounding of Fernsehturm Stuttgart"
+    ],
+    "kind": "Drawing",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Fernsehturm Stuttgart amk.jpg",
+    "rating": "Q",
+    "w": 1928,
+    "h": 3417,
+    "license": "CC BY-SA 3.0",
+    "desc": "TV Tower  Stuttgart",
+    "cats": [
+     "Fernsehturm Stuttgart (detail)"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Fernsehturm Stuttgart Turmkorb.jpg",
+    "rating": "Q",
+    "w": 2052,
+    "h": 2460,
+    "license": "CC BY-SA 3.0",
+    "desc": "Stuttgart: Main pod of the television tower",
+    "cats": [
+     "Fernsehturm Stuttgart (detail)"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Fernsehturm Stuttgart and Full Moon Summer 2013 05.jpg",
+    "rating": "Q",
+    "w": 1600,
+    "h": 2400,
+    "license": "CC BY 4.0",
+    "desc": "The  Fernsehturm Stuttgart  (TV Tower Stuttgart) with the full moon rising behind it, seen from the West.",
+    "cats": [
+     "Fernsehturm Stuttgart",
+     "Moonrises of Germany"
+    ],
+    "kind": "Context",
+    "why_kept": "p18"
+   }
+  ],
+  "category": "Category:Fernsehturm Stuttgart",
+  "category_fits": false,
+  "scanned": 246
+ },
+ "beurs-van-berlage": {
+  "lead": "File:Overzicht klokkentoren met uurwerk, aan de Beurspleinzijde de hoofdingang met bordestrap - Amsterdam - 20408819 - RCE.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Beurs van Berlage 2508.jpg",
+    "rating": "Q",
+    "w": 3706,
+    "h": 3034,
+    "license": "CC BY-SA 4.0",
+    "desc": "Beurs van Berlage facade on Damrak.",
+    "cats": [
+     "Beurs van Berlage",
+     "September 2016 in Amsterdam"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Beurs van Berlage",
+  "category_fits": true,
+  "scanned": 348
+ },
+ "calouste-gulbenkian-museum": {
+  "lead": "File:Museu Calouste Gulbenkian (Main Entrance).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Gabriel looking at sketchbooks, SIZA temporary exhibition, Calouste Gulbenkian Museum, Lisbon, Portugal julesvernex2.jpg",
+    "rating": "Q",
+    "w": 5919,
+    "h": 9505,
+    "license": "CC BY-SA 4.0",
+    "desc": "Gabriel looking at sketchbooks, SIZA temporary exhibition, Calouste Gulbenkian Museum, Lisbon, Portugal",
+    "cats": [
+     "SIZA (Fundação Calouste Gulbenkian)",
+     "Standing boys seen from behind",
+     "Temporal exhibitions in the Calouste Gulbenkian Museum"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Calouste Gulbenkian Museum",
+  "category_fits": true,
+  "scanned": 170
+ },
+ "baha-i-temple-of-south-america": {
+  "lead": "File:Templo Bahá'í de Sudamérica, Santiago 20200208 04.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Templo Bahá’í - - A741052.jpg",
+    "rating": "Q",
+    "w": 4678,
+    "h": 6617,
+    "license": "CC BY-SA 4.0",
+    "desc": "Bahá'í Temple.",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá’í - A741067.jpg",
+    "rating": "Q",
+    "w": 6366,
+    "h": 4084,
+    "license": "CC BY-SA 4.0",
+    "desc": "Bahá'í Temple.",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá'í-2 A74195120240831.jpg",
+    "rating": "Q",
+    "w": 6853,
+    "h": 3694,
+    "license": "CC BY 4.0",
+    "desc": "Bahá'í Temple.",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá'í de Sudamérica, Santiago 20200208 02.jpg",
+    "rating": "Q",
+    "w": 3940,
+    "h": 5910,
+    "license": "CC BY-SA 4.0",
+    "desc": "Templo Bahá'í de Sudamérica, Peñalolén, Santiago, Región Metropolitana, Chile",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá'í de Sudamérica, Santiago 20200208 03.jpg",
+    "rating": "Q",
+    "w": 5874,
+    "h": 3916,
+    "license": "CC BY-SA 4.0",
+    "desc": "Templo Bahá'í de Sudamérica, Peñalolén, Santiago, Región Metropolitana, Chile",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá’í - A741048.jpg",
+    "rating": "Q",
+    "w": 4762,
+    "h": 4812,
+    "license": "CC BY-SA 4.0",
+    "desc": "Bahá'í Temple.",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá’í - A741075.jpg",
+    "rating": "Q",
+    "w": 4150,
+    "h": 5137,
+    "license": "CC BY-SA 4.0",
+    "desc": "Bahá'í Temple.",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Templo Bahá’í - A741090.jpg",
+    "rating": "Q",
+    "w": 7008,
+    "h": 2301,
+    "license": "CC BY-SA 4.0",
+    "desc": "Bahá'í Temple.",
+    "cats": [
+     "Bahá'í Temple of South America, Santiago de Chile"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Bahá'í Temple of South America, Santiago de Chile",
+  "category_fits": true,
+  "scanned": 76
+ },
+ "robson-square": {
+  "lead": "File:Robson Square 02.JPG",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Robson Square Vancouver 04.JPG",
+    "rating": "Q",
+    "w": 6016,
+    "h": 4016,
+    "license": "CC BY-SA 4.0",
+    "desc": "Robson Square, Vancouver, Canada",
+    "cats": [
+     "March 2016 in Vancouver",
+     "Robson Square"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Robson Square Vancouver 05.JPG",
+    "rating": "Q",
+    "w": 5946,
+    "h": 3946,
+    "license": "CC BY-SA 4.0",
+    "desc": "Magnolia tree at Robson Square, Vancouver, Canada",
+    "cats": [
+     "Magnolia × soulangeana",
+     "March 2016 in Vancouver",
+     "Robson Square"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Robson Square",
+  "category_fits": true,
+  "scanned": 95
+ },
+ "pinacoteca-do-estado-de-sao-paulo": {
+  "lead": "File:Pinacoteca de São Paulo, Brazil.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Chandeliers in Pinacoteca of Sao Paulo.jpg",
+    "rating": "Q",
+    "w": 5699,
+    "h": 4000,
+    "license": "CC0",
+    "desc": "Chandeliers in the Pinacoteca do Estado de São Paulo, São Paulo, Brazil",
+    "cats": [
+     "Chandeliers in Brazil",
+     "Pinacoteca do Estado de São Paulo"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Pinacoteca do Estado de São Paulo",
+  "category_fits": true,
+  "scanned": 404
+ },
+ "gateway-arch": {
+  "lead": "File:Gateway Arch, St. Louis.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:STL Old courthouse.jpg",
+    "rating": "Q",
+    "w": 3600,
+    "h": 3498,
+    "license": "CC BY-SA 4.0",
+    "desc": "Old Courthouse in St. Louis, Missouri, USA, as seen from the top of the Gateway arch.",
+    "cats": [
+     "Aerial photographs of the Old St. Louis County Courthouse",
+     "Kiener Plaza",
+     "Views from the Gateway Arch"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Gateway Arch",
+  "category_fits": true,
+  "scanned": 431
+ },
+ "toronto-dominion-centre": {
+  "lead": "File:Toronto Dominion Centre, January 26 2026 (cropped).jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Toronto Financial District August 2017.jpg",
+    "rating": "F",
+    "w": 6016,
+    "h": 4016,
+    "license": "CC BY-SA 4.0",
+    "desc": "Buildings in Toronto Financial District. Including First Canadian Place (tallest building in Toronto and Canada since 19",
+    "cats": [
+     "August 2017 in Toronto",
+     "Commerce Court North",
+     "Commerce Court West",
+     "Financial District, Toronto",
+     "First Canadian Place",
+     "Scotia Plaza"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Scotia Bank Plaza as seen from Toronto Dominion Centre.jpg",
+    "rating": "Q",
+    "w": 4000,
+    "h": 6000,
+    "license": "CC BY-SA 4.0",
+    "desc": "Scotia Bank Plaza as seen from Toronto Dominion Centre. The skyscrapers of the Toronto-Dominion Centre were designed by ",
+    "cats": [
+     "Black and white photographs of Canada in the 2020s",
+     "Black and white photographs of Toronto",
+     "Ludwig Mies van der Rohe",
+     "Scotia Plaza",
+     "Toronto Dominion Centre",
+     "WZMH Architects"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Toronto Dominion Centre",
+  "category_fits": true,
+  "scanned": 89
+ },
+ "john-hancock-center": {
+  "lead": "File:John Hancock Center 2.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Grant Park, Chicago, Illinois, Estados Unidos, 2012-10-20, DD 04.jpg",
+    "rating": "Q",
+    "w": 4942,
+    "h": 2409,
+    "license": "CC BY-SA 3.0",
+    "desc": "Grant Park, Chicago, Illinois, USA",
+    "cats": [
+     "330 North Wabash (Chicago)",
+     "340 on the Park",
+     "35 East Wacker",
+     "875 North Michigan Avenue",
+     "Blue Cross Blue Shield Tower",
+     "Buckingham Fountain"
+    ],
+    "kind": "Context",
+    "why_kept": "direct"
+   }
+  ],
+  "category": "Category:875 North Michigan Avenue",
+  "category_fits": false,
+  "scanned": 450
+ },
+ "glass-pavilion-toledo-museum-of-art": {
+  "lead": "File:Toledo Museum of Art Center for Visual Arts.jpg",
+  "lead_rated": false,
+  "found": [
+   {
+    "file": "File:Aronia melanocarpa berries outside the Toledo Museum of Art.jpg",
+    "rating": "Q",
+    "w": 5184,
+    "h": 3456,
+    "license": "CC BY-SA 3.0",
+    "desc": "The berries of a  Aronia melanocarpa  tree growing outside the Toledo Museum of Art. This was taken near the museum's Ar",
+    "cats": [
+     "Aronia melanocarpa (fruit)",
+     "January 2019 in Ohio",
+     "Toledo Museum of Art"
+    ],
+    "kind": "Detail",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Toledo Museum of Art",
+  "category_fits": true,
+  "scanned": 68
+ },
+ "canadian-museum-of-history": {
+  "lead": "File:Gatineau - QC - Museum of Civilisation.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Gatineau - QC - Museum of Civilisation3.jpg",
+    "rating": "F",
+    "w": 3768,
+    "h": 2764,
+    "license": "CC BY 3.0",
+    "desc": "Public entrance of the  Canadian Museum of Civilization ,  Gatineau",
+    "cats": [
+     "Entrance of the Canadian Museum of History",
+     "Indigenous architecture of the Americas",
+     "May 2009 in Quebec",
+     "Quality images of Quebec"
+    ],
+    "kind": "Exterior",
+    "why_kept": "p18"
+   },
+   {
+    "file": "File:Canadian Museum of Civilization panorama.jpg",
+    "rating": "Q",
+    "w": 5639,
+    "h": 2200,
+    "license": "CC BY-SA 2.5 ca",
+    "desc": "Canadian Museum of Civilization.",
+    "cats": [
+     "Exterior of the Canadian Museum of History",
+     "Ottawa River at Ottawa-Gatineau"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   },
+   {
+    "file": "File:Gatineau - QC - Museum of Civilisation4.jpg",
+    "rating": "Q",
+    "w": 3864,
+    "h": 2172,
+    "license": "CC BY 3.0",
+    "desc": "Curatorial offices of the Canadian Museum of Civilization, Gatineau",
+    "cats": [
+     "Exterior of the Canadian Museum of History",
+     "Quality images of Quebec"
+    ],
+    "kind": "Exterior",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Canadian Museum of History",
+  "category_fits": true,
+  "scanned": 138
+ },
+ "sharp-centre-for-design": {
+  "lead": "File:Fragment of Sharp Centre for Design, Toronto.jpg",
+  "lead_rated": true,
+  "found": [
+   {
+    "file": "File:Sharp Centre for Design August 2017 01.jpg",
+    "rating": "Q",
+    "w": 4453,
+    "h": 2973,
+    "license": "CC BY-SA 4.0",
+    "desc": "Sharp Centre for Design seen from McCaul Street, Toronto.",
+    "cats": [
+     "August 2017 in Toronto",
+     "McCaul Street, Toronto",
+     "Sharp Centre for Design"
+    ],
+    "kind": "Context",
+    "why_kept": "names"
+   }
+  ],
+  "category": "Category:Sharp Centre for Design",
+  "category_fits": true,
+  "scanned": 30
+ }
+}
