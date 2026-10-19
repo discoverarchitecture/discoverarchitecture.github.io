@@ -1,7 +1,7 @@
 # Getting the site into Google and Bing
 
-Both services are free. Each needs you to sign in and prove you own the site once; after that, Claude can read
-nothing from them, so the numbers live in your account.
+Both services are free. Each needs you to sign in and prove you own the site once. Claude can't sign in to them, so
+Google's numbers reach Claude only through the daily copy described in "Search Console data for Claude" below.
 
 ## Google Search Console (10 minutes, once)
 
@@ -25,6 +25,40 @@ looked-up buildings (the list is at the bottom of the home page) to get the firs
 1. Go to https://www.bing.com/webmasters and sign in (Microsoft or Google account).
 2. Choose **Import from Google Search Console**. It copies the verified site and the sitemap; no code to add.
    Bing's index also feeds DuckDuckGo and Yahoo.
+
+## Search Console data for Claude (15 minutes, once)
+
+A GitHub Action (`.github/workflows/search-console.yml`, running `tools/fetch_search_console.py`) copies Search
+Console's numbers every day at 04:37 UTC to the `analytics-data` branch, folder `search_console/`, next to the visitor
+numbers. It needs a read-only "robot" Google account (a service account) that you add to Search Console.
+
+1. Go to https://console.cloud.google.com and sign in with the same Google account as Search Console. At the top,
+   choose **Select a project → New project**, name it `find-great-architecture`, and create it.
+2. In the search bar type **Google Search Console API**, open it and press **Enable**.
+3. In the search bar type **Service accounts** and open it. Press **Create service account**, name it
+   `search-console-reader`, then **Done** (skip the optional roles). Copy its email address; it ends in
+   `iam.gserviceaccount.com`.
+4. Open the new service account, go to the **Keys** tab, **Add key → Create new key → JSON**. A small file downloads.
+   It is a password: never email it or put it in a chat.
+5. In Search Console, **Settings → Users and permissions → Add user**. Paste the email from step 3 and choose
+   **Restricted** (it can only read).
+6. In GitHub, the repository's **Settings → Secrets and variables → Actions → New repository secret**. Name:
+   `GSC_SERVICE_ACCOUNT`. Value: open the downloaded file in a text editor and paste all of it. Save, then delete the file.
+7. **Actions** tab → **Fetch Search Console** → **Run workflow**. A green tick within a few minutes means it works;
+   tell Claude, and every chat can then read the numbers.
+
+What it saves, in `search_console/` on the `analytics-data` branch:
+
+- `daily.csv`: day, clicks, impressions (times a page was shown in results), ctr (clicks ÷ impressions) and
+  position (average rank; 1 is the top) for Google web search.
+- `latest.json`: the last 28 days, web and image search separately: top queries, pages, countries, devices, and
+  which query brought people to which page.
+- `indexing.json`: Google's verdict on each page in the sitemap (indexed or not, and why), 300 pages a day, so all of
+  them are checked in under two weeks and then re-checked. Its `summary` counts pages per verdict.
+
+If the run fails: "refused the service account key" means the secret isn't the whole JSON file; "sees no Search
+Console property" means step 5 is missing; "has not been used in project … or it is disabled" means step 2. Google's
+numbers run two or three days behind, so the newest days start small and fill in.
 
 ## What to watch
 
