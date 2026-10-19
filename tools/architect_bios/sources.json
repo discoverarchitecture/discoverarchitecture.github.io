@@ -3441,7 +3441,52 @@
  "SANAA": {
   "name": "SANAA",
   "rank": 42,
-  "qid_found_by_search": false
+  "qid_found_by_search": true,
+  "wikidata": {
+   "qid": "Q737536",
+   "label": "SANAA",
+   "description": "Architecture firm (est.1995) based in Tokyo",
+   "instance_of": [
+    "architectural firm"
+   ],
+   "born": null,
+   "died": null,
+   "founded": "1995",
+   "citizenship": [],
+   "country": [
+    "Japan"
+   ],
+   "headquarters": [
+    "Tokyo"
+   ],
+   "founded_by": [],
+   "awards": [
+    {
+     "award": "Pritzker Architecture Prize",
+     "year": "2010"
+    },
+    {
+     "award": "Sir John Sulman Medal",
+     "year": null
+    }
+   ],
+   "notable_works": [
+    "New Museum",
+    "Rolex Learning Center",
+    "Kumanokodo Nakahechi Museum of Art"
+   ],
+   "website": [
+    "http://www.sanaa.co.jp/"
+   ],
+   "enwiki": "SANAA",
+   "wikidata_url": "https://www.wikidata.org/wiki/Q737536"
+  },
+  "wikipedia": {
+   "title": "SANAA",
+   "url": "https://en.wikipedia.org/wiki/SANAA",
+   "intro": "SANAA (Sejima and Nishizawa and Associates) is an architectural firm based in Tokyo, Japan. It was founded in 1995 by architects Kazuyo Sejima and Ryue Nishizawa, who were awarded the Pritzker Prize in 2010. Notable works include the Toledo Museum of Art's Glass Pavilion in Toledo, Ohio; Grace Farms in New Canaan, Connecticut; the New Museum of Contemporary Art in New York; the Rolex Learning Center at the EPFL in Lausanne; the Serpentine Pavilion in London; the Christian Dior Building in Omotesandō, Tokyo; the 21st Century Museum of Contemporary Art in Kanazawa; the Louvre-Lens Museum in France; and the Bocconi New Campus in Milan.",
+   "text": "SANAA (Sejima and Nishizawa and Associates) is an architectural firm based in Tokyo, Japan. It was founded in 1995 by architects Kazuyo Sejima and Ryue Nishizawa, who were awarded the Pritzker Prize in 2010. Notable works include the Toledo Museum of Art's Glass Pavilion in Toledo, Ohio; Grace Farms in New Canaan, Connecticut; the New Museum of Contemporary Art in New York; the Rolex Learning Center at the EPFL in Lausanne; the Serpentine Pavilion in London; the Christian Dior Building in Omotesandō, Tokyo; the 21st Century Museum of Contemporary Art in Kanazawa; the Louvre-Lens Museum in France; and the Bocconi New Campus in Milan.\n\n\n== History ==\nKazuyo Sejima and Ryue Nishizawa founded SANAA in 1995. They later won the Golden Lion in 2004 for the most significant work in the Ninth International Architecture Exhibition of the Venice Biennale. In 2010, they were awarded the Pritzker Prize, which made Sejima the second woman to win this prize. In 2025, they were awarded the Royal Institute of British Architects' Royal Gold Medal for architecture, recognising \"their long-term commitment to projects that prioritise inclusivity and accessibility\".\n\n\n== Projects ==\nAustralia\n\nArt Gallery of New South Wales, North Building – 2022\nMuseum of Contemporary Art (Not Built/Project Only) – 1997 to 1999 – Sydney, Australia\nChina\n\nHouse for the CIPEA (China International Practical Exhibition of Architecture) – 2004 to Present – Nanjing, China\nEngland\n\nSerpentine Gallery Pavilion – 2009 – London, England\nFrance\n\nLouvre-Lens – 2005 to 2012 – Lens, Pas-de-Calais, France\nGermany\n\nMercedes-Benz Museum (Not Built/Project Only) – 2002 – Stuttgart, Germany\nZollverein School of Design – 2003 to 2006 – Essen, Germany\nJapan\n\nMultimedia Studio – 1995 to 1996 – Gifu, Japan\nN Museum – 1995 to 1997 – Wakayama, Japan\nO Museum – 1995 to 1999 – Nagano, Japan\nS House – 1995 to 1996 – Okayama, Japan\nM House – 1996 to 1997 – Tokyo, Japan\nK Office Building – 1996 to 1997 – Ibaraki, Japan\nKoga Park Café – 1997 to 1998 – Ibaraki, Japan\nWelfare Center – 1997 – Kanagawa, Japan\n21st Century Museum of Contemporary Art – 1999 to 2004 – Kanazawa, Ishikawa, Japan\nDior Omotesando Store – 2001 to 2003 – Tokyo, Japan\nIssey Miyake Store by Naoki Takizawa – 2003 – Tokyo, Japan\nNaoshima Ferry Terminal – 2003 to 2006 – Kagawa, Japan\nNetherlands\n\nDe Kunstlinie Theater & Cultural Center – 1998 to 2006 – Almere, Netherlands\nLumiere Park Café – 1999 to Present – Almere, Netherlands\nIsrael\n\nThe Jack, Joseph and Morton Mandel Campus of the Bezalel Academy of Arts and Design – 2023 – Jerusalem, Israel\nItaly\n\nProposal for Reclaiming Salerno's Inner City – 1999 to Present – Italy\nPrada Beauty Store – 2000 – Arezzo, Italy\nInstallation for the Japan Pavilion at the Venice Biennale – 2000 – Venice, Italy\nBocconi New Campus – 2019 – Milan, Italy\nSpain\n\nExtension to the Institut Valencià d'Art Modern – 2002 to Present – Valencia, Spain\nSwitzerland\n\nExtension to the Rietberg Museum (Not Built/Project Only) – 2002 – Zurich, Switzerland\nNovartis Office Building – 2003 to Present – Basel, Switzerland\nRolex Learning Center at the École Polytechnique Fédérale de Lausanne – 2004 to 2010 – Lausanne, Switzerland\nTaiwan\n\nTaichung Green Museumbrary – 2022 – Taichung, Taiwan\nUnited States\n\nThe New Campus Center of the Illinois Institute of Technology (Not Built/Project Only) – 1998 – Chicago, Illinois, USA\nGrace Farms – 2015 – New Canaan, Connecticut, USA\nThe Glass Pavilion at the Toledo Museum of Art – 2001 to 2006 – Toledo, Ohio, USA\nThe New Museum of Contemporary Art – 2003 to 2007 – New York City, USA\n\n\n== Awards ==\nSANAA's work was included in the exhibition City of Girls in the Japanese Pavilion at the 2000 Venice Biennale and in the Garden Cafe at the 7th International Istanbul Biennale, Istanbul, Turkey. Their work has also been exhibited at Zumtobel Staff-Lichtforum, Vienna, Austria; Institut Valencia d'Art Modern, Valencia, Spain; Zeche Zollverein, Essen, Germany; Gallery MA, Tokyo, Japan; N-museum, Wakayama, Japan and New Museum of Contemporary Art, New York. SANAA has been awarded the Golden Lion for the most remarkable work in the exhibition Metamorph in the 9th International Architecture Exhibition, La Biennale di Venezia in 2004, the 46th Mainichi Shinbun Arts Award (Architecture Category) in 2005, and the Schock Prize in the visual arts, also in 2005. In 2010, Sejima and Nishizawa were awarded the Pritzker Prize, the highest of honours in architecture.\n\n"
+  }
  },
  "Arne Jacobsen": {
   "name": "Arne Jacobsen",
@@ -4927,7 +4972,46 @@
  "gmp Architekten": {
   "name": "gmp Architekten",
   "rank": 68,
-  "qid_found_by_search": false
+  "qid_found_by_search": true,
+  "wikidata": {
+   "qid": "Q566384",
+   "label": "Gerkan, Marg and Partners",
+   "description": "architectural firm",
+   "instance_of": [
+    "architectural firm"
+   ],
+   "born": null,
+   "died": null,
+   "founded": "1965",
+   "citizenship": [
+    "Germany"
+   ],
+   "country": [
+    "Germany"
+   ],
+   "headquarters": [
+    "Hamburg"
+   ],
+   "founded_by": [
+    "Meinhard von Gerkan",
+    "Volkwin Marg"
+   ],
+   "awards": [],
+   "notable_works": [
+    "Berlin-Tegel Airport"
+   ],
+   "website": [
+    "https://www.gmp.de"
+   ],
+   "enwiki": "Gerkan, Marg and Partners",
+   "wikidata_url": "https://www.wikidata.org/wiki/Q566384"
+  },
+  "wikipedia": {
+   "title": "Gerkan, Marg and Partners",
+   "url": "https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners",
+   "intro": "Gerkan, Marg & Partners (gmp) is an international architectural company based in Hamburg, Germany. The company was founded in 1965 by Meinhard von Gerkan and Volkwin Marg, and now has more than 300 employees in 13 offices. In the same year the architectural practice took part in an international competition with an anonymus entry. Their design for the Berlin Tegel Airport was able to win the first prize, thus garnering the company international recognition. This achievement cemented the practice's standing in the world of architecture and paved the way for further success. The company is currently being headed by the two founders alongside their executive partners (Nikolaus Goetze, Hubert Nienhoff, Stephan Schütz and Wu Wei).\nFurthermore, gmp has branches throughout the world, including locations in China (Beijing, Shenzhen, Shanghai) and Vietnam (Hanoi), but also divisions in other German cities (Aachen, Berlin). According to company statements, it has amassed an impressive record of over 600 prizes in the field of architecture and subsequently related disciplines. 400 of which the practice was able to take home the first prize. The company has also taken part in the construction of close to 500 buildings in 23 countries. In 2008 gmp founded the Academy for Architectural Culture, a private institution aimed at answering the quintessensial questions of architectural design, as well as aiding the development of young architects from different cultural backgrounds.",
+   "text": "Gerkan, Marg & Partners (gmp) is an international architectural company based in Hamburg, Germany. The company was founded in 1965 by Meinhard von Gerkan and Volkwin Marg, and now has more than 300 employees in 13 offices. In the same year the architectural practice took part in an international competition with an anonymus entry. Their design for the Berlin Tegel Airport was able to win the first prize, thus garnering the company international recognition. This achievement cemented the practice's standing in the world of architecture and paved the way for further success. The company is currently being headed by the two founders alongside their executive partners (Nikolaus Goetze, Hubert Nienhoff, Stephan Schütz and Wu Wei).\nFurthermore, gmp has branches throughout the world, including locations in China (Beijing, Shenzhen, Shanghai) and Vietnam (Hanoi), but also divisions in other German cities (Aachen, Berlin). According to company statements, it has amassed an impressive record of over 600 prizes in the field of architecture and subsequently related disciplines. 400 of which the practice was able to take home the first prize. The company has also taken part in the construction of close to 500 buildings in 23 countries. In 2008 gmp founded the Academy for Architectural Culture, a private institution aimed at answering the quintessensial questions of architectural design, as well as aiding the development of young architects from different cultural backgrounds.\n\n\n== Notable projects ==\nBerlin Tegel Airport Terminals A&B, Berlin, Germany (1974)\nLeipzig Trade Fair, Leipzig, Germany (1996)\nHörn Bridge, Kiel, Germany (1997)\nSwissôtel Berlin, Berlin, Germany (2001)\nBerlin Hauptbahnhof, Berlin, Germany (2006)\nVietnam National Convention Center, Hanoi, Vietnam (2006)\nHaidian Christian Church, Beijing, China (2007)\nMoses Mabhida Stadium, Durban, South Africa (2009)\nHanoi Museum, Hanoi, Vietnam (2010)\nJawaharlal Nehru Stadium, Delhi, India, redesign (2006), renovated by 2010\nSPM Swimming Pool Complex, Delhi, India, redesign (2006), renovated by 2010\nTamil Nadu Government Multi Super Speciality Hospital, Chennai, India (2010)\nShanghai Oriental Sports Center, Shanghai, China (2010)\nNational Museum of China reconstruction, Beijing, China (2011)\nNew headquarters of Ministry of Public Security, Hanoi, Vietnam (2011)\nArena Națională, Bucharest, Romania (2011)\nOlimpiysky National Sports Complex reconstruction, Kyiv, Ukraine (2011)\nTianjin Grand Theatre, opened 2012\nNational Stadium, Warsaw, Poland (2012)\nBerlin Brandenburg Airport, Germany, dismissed from the project (2012), resume (2018)\nLingang New City, Shanghai, China\nCrystal Hall, Baku, Azerbaijan\nMilliy Stadium, Tashkent, Uzbekistan (2012)\nEstádio Nacional de Brasília, Brazil (2013)\nEstádio Mineirão, Belo Horizonte, Brazil (2013)\nArena da Amazônia, Manaus, Brazil (2013)\nEstadio Santiago Bernabéu, Madrid, Spain, renovation design (2014), remodeling (2017), construction started in 2019\nNational Assembly Building of Vietnam, Hanoi, Vietnam (2014)\nDongguan Basketball Center, Dongguan, China (2014)\nKrasnodar Stadium, Krasnodar, Russia (2016)\nDeutsches Haus Ho Chi Minh City, Vietnam (2017)\nNational Stadium of Luxembourg, Luxembourg City, Luxembourg (2020)\nJeddah Central Stadium, Jeddah, Saudi Arabia (2024)\nRafi Cricket Stadium, Karachi, Pakistan (2017)\n\n\n== Awards ==\nThe company has received several awards, for instance, the MIPIM AR Future Project Award 2005 for Lingang New City, China (Masterplanned Communities Category). The city was part of Shanghai's One City, Nine Towns initiative. In its master plan, GMP Architekten used a design of circular roads around a large lake, inspired by Garden city principles.\n\n"
+  }
  },
  "Hans Scharoun": {
   "name": "Hans Scharoun",
