@@ -429,5 +429,391 @@
    -41.2763,
    174.7774
   ]
+ },
+ {
+  "id": "brisbane-city-hall",
+  "name": "Brisbane City Hall",
+  "by": "Thomas Ramsay Hall and George Gray Prentice",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1930",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Design combines the Roman Pantheon and St Mark's Campanile in Venice; its clock chimes every quarter-hour.",
+  "status": "photo",
+  "commons_category": "Category:Brisbane City Hall",
+  "photos": [
+   {
+    "file": "File:Brisbane City Hall 20190624.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brisbane City Hall 1 (30298960383).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brisbane_City_Hall"
+  ],
+  "note": "Wikipedia: opened 8 April 1930, architects Hall and Prentice. Not yet seen.",
+  "coords": [
+   -27.46885,
+   153.023602
+  ]
+ },
+ {
+  "id": "brisbane-powerhouse",
+  "name": "Brisbane Powerhouse",
+  "by": "Roy Rusden Ogg",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Community"
+  ],
+  "features": "Former tram power station (built 1927-28, closed 1971) reopened in 2000 as a performing arts centre.",
+  "status": "photo",
+  "commons_category": "Category:Brisbane Powerhouse",
+  "photos": [
+   {
+    "file": "File:Brisbane Powerhouse on a Sunday 01.JPG",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brisbane Powerhouse on a Sunday 02.JPG",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brisbane Powerhouse on a Sunday 03.JPG",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brisbane_Powerhouse"
+  ],
+  "note": "Wikipedia: first stage built 1927-28 (infobox completion 1940), architect Roy Rusden Ogg, reopened 2000. Not yet seen; check photos show the exterior.",
+  "coords": [
+   -27.469069,
+   153.054362
+  ]
+ },
+ {
+  "id": "council-house-2-melbourne",
+  "name": "Council House 2 (CH2)",
+  "by": "Mick Pearce with DesignInc (for City of Melbourne)",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2006",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Planting"
+  ],
+  "features": "In 2005 the first purpose-built Australian office to earn a six-star Green Star rating; opened 2006.",
+  "status": "photo",
+  "commons_category": "Category:Council House 2",
+  "photos": [
+   {
+    "file": "File:CouncilHouse2.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Council_House_2"
+  ],
+  "note": "Wikipedia: opened August 2006. An office building, kept for its green-design first. Only one photo over 1200px; not yet seen."
+ },
+ {
+  "id": "public-transport-centre-perth",
+  "name": "Public Transport Centre (former Westrail Centre)",
+  "by": "Forbes & Fitzhardinge",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1976",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "Brutalist terminal and administration building of East Perth Terminal, opened 12 November 1976.",
+  "status": "photo",
+  "commons_category": "Category:Public Transport Centre",
+  "photos": [
+   {
+    "file": "File:Public Transport Centre seen from the west, April 2026 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:East Perth Public Transport Centre, September 2026 01.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Public_Transport_Centre"
+  ],
+  "note": "Wikipedia infobox: Forbes & Fitzhardinge, opened 1976, Brutalist. Not yet seen."
+ },
+ {
+  "id": "telstra-tower-canberra",
+  "name": "Telstra Tower (Black Mountain Tower)",
+  "by": "Richard Ure and the Commonwealth Department of Works",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1977",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "195.2 m tower above Black Mountain, the tallest structure in Canberra, with indoor and outdoor viewing platforms.",
+  "status": "photo",
+  "commons_category": "Category:Black Mountain Tower",
+  "photos": [
+   {
+    "file": "File:Torre Telstra, Canberra - panoramio (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Black Mountain Transmission Tower (6768338127).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telstra_Tower"
+  ],
+  "note": "Wikipedia infobox gives completion 1977 (opened later). Closed to the public since 2021. Not yet seen.",
+  "coords": [
+   -35.2756,
+   149.0978
+  ]
+ },
+ {
+  "id": "reserve-bank-of-australia-canberra",
+  "name": "Reserve Bank of Australia Building",
+  "by": "Howlett and Bailey",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Commonwealth Heritage-listed bank on London Circuit, designed 1962 and built 1963 to 1965.",
+  "status": "photo",
+  "commons_category": "Category:Reserve Bank of Australia building, Canberra",
+  "photos": [
+   {
+    "file": "File:Reserve Bank of Australia - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Reserve Bank of Australia - Canberra.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia_Building,_Canberra"
+  ],
+  "note": "Wikipedia: designed 1962, built 1963-65 (infobox says 1967 completion). Not yet seen."
+ },
+ {
+  "id": "hannah-playhouse-wellington",
+  "name": "Hannah Playhouse",
+  "by": "James Beard",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Community"
+  ],
+  "features": "Theatre designed and built to house Downstage Theatre on Courtenay Place.",
+  "status": "photo",
+  "commons_category": "Category:Hannah Playhouse",
+  "photos": [
+   {
+    "file": "File:Hannah Playhouse.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Downstage Theatre Wellington.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannah_Playhouse"
+  ],
+  "note": "Wikipedia infobox: James Beard, 1973. Not yet seen."
+ },
+ {
+  "id": "puaka-james-hight-building",
+  "name": "Puaka-James Hight Building",
+  "by": "Ministry of Works (New Zealand)",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "1974",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "53 m brutalist library tower of exposed concrete, the University of Canterbury's best-known building.",
+  "status": "photo",
+  "commons_category": "Category:Puaka–James Hight Building",
+  "photos": [
+   {
+    "file": "File:Puaka–James Hight Building in June 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:James Hight Building 002.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puaka–James_Hight_Building"
+  ],
+  "note": "Wikipedia: constructed in the 1970s, infobox 1974, Ministry of Works. Not yet seen."
+ },
+ {
+  "id": "manchester-unity-building",
+  "name": "Manchester Unity Building",
+  "by": "Marcus Barlow",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1932",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Axis"
+  ],
+  "features": "Art Deco Gothic-inspired office tower built 1931-32 opposite Melbourne Town Hall.",
+  "status": "photo",
+  "commons_category": "Category:Manchester Unity Building",
+  "photos": [
+   {
+    "file": "File:Manchester Unity Building against grey skies, Melbourne.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manchester Unity building facade, 220 Collins St, Melbourne, Australia.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_Unity_Building"
+  ],
+  "note": "Wikipedia: constructed 1931-32, architect Marcus Barlow. Not yet seen."
+ },
+ {
+  "id": "old-parliament-house-canberra",
+  "name": "Old Parliament House",
+  "by": "John Smith Murdoch",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1927",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Provisional Parliament House (1927-1988), a Stripped Classical building now a museum of Australian democracy.",
+  "status": "photo",
+  "commons_category": "Category:Old Parliament House, Canberra",
+  "photos": [
+   {
+    "file": "File:Canberra (AU), Old Parliament House -- 2019 -- 1744.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Canberra (AU), Old Parliament House -- 2019 -- 1791.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Old_Parliament_House,_Canberra"
+  ],
+  "note": "Wikipedia: opened 9 May 1927, architect John Smith Murdoch. Not yet seen.",
+  "coords": [
+   -35.30222222,
+   149.12972222
+  ]
  }
 ]
