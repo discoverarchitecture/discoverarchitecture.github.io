@@ -416,5 +416,40 @@
    "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
   ],
   "note": "Wide low view; reviewer check the lead. Type set to Public space (visitor centre) as no better vocab fit."
+ },
+ {
+  "id": "bracken-house-london",
+  "name": "Bracken House",
+  "by": "Albert Richardson; central part redesigned by Michael Hopkins and Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "1992",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Adaptive reuse",
+   "Detail"
+  ],
+  "features": "First post-war building listed in England; pink sandstone and bronze, centre redesigned by Hopkins 1988-92.",
+  "status": "photo",
+  "commons_category": "Category:Bracken_House,_London",
+  "photos": [
+   {
+    "file": "File:EH1262582 Bracken House 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Building of the Year 1992 shortlist",
+  "coords": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bracken_House,_London",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Year is the Hopkins refurbishment; Richardson built it in 1959. Coordinates from the infobox."
  }
 ]
