@@ -163,18 +163,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Historic England",
-    "title": "Penguin Pool, London Zoo",
-    "url": "https://historicengland.org.uk/listing/the-list/list-entry/1209885",
-    "why": "the listing for Tecton's best-known work",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "Architectuul",
     "title": "Tecton",
     "url": "https://architectuul.com/architect/tecton",
     "why": "a list of the group's buildings with photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Tecton tag page",
+    "url": "https://www.archdaily.com/tag/tecton",
+    "why": "classics and articles on the group's buildings"
    }
   ],
   "skip": false
@@ -185,7 +184,7 @@
   "kind": "person",
   "born_died": "1880–1938",
   "country": "German",
-  "bio": "Bruno Taut (1880–1938) was a German architect, urban planner and writer, active in the Weimar years and known for his theoretical work as well as his buildings. Born in Königsberg, he founded his own firm in Berlin in 1909. His Glass Pavilion at the 1914 Werkbund Exhibition in Cologne and his utopian sketches, Alpine Architecture (1917), made him a leading Expressionist, and a lifelong painter, he stood apart from other modernists in his devotion to colour. When the Nazis came to power he fled to Japan, and in 1936 moved to Turkey to teach at the Academy of Fine Arts in Istanbul, where he died.\n\nA follower of the garden city movement, he designed Gartenstadt Falkenberg in Berlin (1916). As chief architect of the Berlin housing cooperative GEHAG from 1924, he designed large estates, among them the Hufeisensiedlung (1927), planned with the city planner Martin Wagner as a horseshoe of housing around an ice-age pond and now part of a UNESCO World Heritage Site, and the Wohnstadt Carl Legien (1930). In Ankara he designed the Faculty of Languages, History and Geography (1940) for Turkey's Ministry of Education.",
+  "bio": "Bruno Taut (1880–1938) was a German architect, urban planner and writer, active in the Weimar years and known for his theoretical work as well as his buildings. Born in Königsberg, he founded his own firm in Berlin in 1909. His Glass Pavilion at the 1914 Werkbund Exhibition in Cologne and his utopian sketches, Alpine Architecture (1917), made him a leading Expressionist. A lifelong painter, he stood apart from other modernists in his devotion to colour. When the Nazis came to power he fled to Japan, and in 1936 moved to Turkey to teach at the Academy of Fine Arts in Istanbul, where he died.\n\nA follower of the garden city movement, he designed Gartenstadt Falkenberg in Berlin (1916). As chief architect of the Berlin housing cooperative GEHAG from 1924, he designed large estates, among them the Hufeisensiedlung (1927), planned with the city planner Martin Wagner as a horseshoe of housing around an ice-age pond and now part of a UNESCO World Heritage Site, and the Wohnstadt Carl Legien (1930). In Ankara he designed the Faculty of Languages, History and Geography (1940) for Turkey's Ministry of Education.",
   "facts": [
    {
     "claim": "4 May 1880 – 24 December 1938; German architect, urban planner and author; active during the Weimar period; known for theoretical works and building designs",
@@ -238,11 +237,10 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "UNESCO World Heritage",
-    "title": "Berlin Modernism Housing Estates",
-    "url": "https://whc.unesco.org/en/list/1239/",
-    "why": "the listing that includes his Berlin estates",
-    "check_failed": "status 200, name not found on page"
+    "site": "ArchDaily",
+    "title": "Bruno Taut tag page",
+    "url": "https://www.archdaily.com/tag/bruno-taut",
+    "why": "classics and articles on his buildings"
    }
   ],
   "skip": false
@@ -289,18 +287,16 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Petit Palais",
-    "title": "The building",
-    "url": "https://www.petitpalais.paris.fr/en/museum/history-of-the-petit-palais",
-    "why": "the museum's history of his building",
-    "check_failed": "status 404, name not found on page"
+    "site": "Royal Academy of Arts",
+    "title": "Charles Girault",
+    "url": "https://www.royalacademy.org.uk/art-artists/name/charles-girault",
+    "why": "a short biography from the Royal Academy collection"
    },
    {
-    "site": "Structurae",
+    "site": "Dominik Gehl",
     "title": "Charles Girault",
-    "url": "https://structurae.net/en/persons/charles-girault",
-    "why": "a list of his works",
-    "check_failed": "status 403, name not found on page"
+    "url": "https://dominikgehl.com/architects/charles-girault",
+    "why": "a list of his buildings"
    }
   ],
   "skip": false
@@ -418,18 +414,22 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Palm Springs Modernism Week",
-    "title": "E. Stewart Williams",
-    "url": "https://modernismweek.com/e-stewart-williams/",
-    "why": "a profile of his life and Palm Springs buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Visit Palm Springs",
+    "title": "Palm Springs architect E. Stewart Williams",
+    "url": "https://visitpalmsprings.com/palm-springs-architect-e-stewart-williams/",
+    "why": "a profile of his life and buildings in the city"
    },
    {
-    "site": "Docomomo US",
+    "site": "Palm Springs Art Museum",
     "title": "E. Stewart Williams",
-    "url": "https://www.docomomo-us.org/people/e-stewart-williams",
-    "why": "a short biography and his modern buildings",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://psmuseum.org/at-home/activity/e-stewart-williams",
+    "why": "the museum he designed, on his career"
+   },
+   {
+    "site": "Atomic Ranch",
+    "title": "E. Stewart Williams: Desert Modernist",
+    "url": "https://www.atomic-ranch.com/modernist-index/e-stewart-williams-desert-modernist/",
+    "why": "a survey of his houses and public buildings"
    }
   ],
   "skip": false
@@ -541,11 +541,16 @@
     "checked": "2026-10-19"
    },
    {
+    "site": "Architectuul",
+    "title": "Emre Arolat",
+    "url": "https://architectuul.com/architect/emre-arolat",
+    "why": "short biography and a list of his buildings with photos"
+   },
+   {
     "site": "ArchDaily",
-    "title": "Emre Arolat Architecture office page",
-    "url": "https://www.archdaily.com/office/emre-arolat-architecture",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Emre Arolat tag page",
+    "url": "https://www.archdaily.com/tag/emre-arolat",
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -606,10 +611,15 @@
    },
    {
     "site": "ArchDaily",
-    "title": "EMBT office page",
-    "url": "https://www.archdaily.com/office/embt",
-    "why": "projects with plans and photos",
-    "check_failed": "status 200, name not found on page"
+    "title": "Enric Miralles tag page",
+    "url": "https://www.archdaily.com/tag/enric-miralles",
+    "why": "classics and articles on his buildings"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Enric Miralles",
+    "url": "https://architectuul.com/architect/enric-miralles",
+    "why": "short biography and a list of his buildings with photos"
    }
   ],
   "skip": false
@@ -1020,11 +1030,16 @@
     "checked": "2026-10-19"
    },
    {
+    "site": "ArchDaily",
+    "title": "Henry N. Cobb tag page",
+    "url": "https://www.archdaily.com/tag/henry-n-cobb",
+    "why": "articles on his buildings"
+   },
+   {
     "site": "Architectuul",
-    "title": "Henry N. Cobb",
-    "url": "https://architectuul.com/architect/henry-n-cobb",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Henry Cobb",
+    "url": "https://architectuul.com/architect/henry-cobb",
+    "why": "short biography and a list of his buildings with photos"
    }
   ],
   "skip": false
@@ -1144,17 +1159,15 @@
    },
    {
     "site": "Architectuul",
-    "title": "J. J. P. Oud",
-    "url": "https://architectuul.com/architect/j-j-p-oud",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Jacobus Oud",
+    "url": "https://architectuul.com/architect/jacobus-oud",
+    "why": "short biography and a list of his buildings with photos"
    },
    {
-    "site": "ArchDaily",
-    "title": "J.J.P. Oud tag page",
-    "url": "https://www.archdaily.com/tag/jjp-oud",
-    "why": "classics and articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Store norske leksikon",
+    "title": "Jacobus Johannes Pieter Oud",
+    "url": "https://snl.no/Jacobus_Johannes_Pieter_Oud",
+    "why": "an encyclopedia biography"
    }
   ],
   "skip": false
@@ -1253,18 +1266,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Architectuul",
-    "title": "Juan O'Gorman",
-    "url": "https://architectuul.com/architect/juan-o-gorman",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Juan O'Gorman tag page",
     "url": "https://www.archdaily.com/tag/juan-ogorman",
     "why": "classics and articles on his buildings",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Juan O'Gorman",
+    "url": "https://architectuul.com/architect/juan-ogorman",
+    "why": "short biography and a list of his buildings with photos"
+   },
+   {
+    "site": "Atomic Ranch",
+    "title": "Juan O'Gorman",
+    "url": "https://www.atomic-ranch.com/modernist-index/juan-ogorman/",
+    "why": "a survey of his functionalist and later work"
    }
   ],
   "skip": false
@@ -1487,11 +1505,10 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Architectuul",
-    "title": "Kevin Roche John Dinkeloo and Associates",
-    "url": "https://architectuul.com/architect/kevin-roche-john-dinkeloo-and-associates",
-    "why": "a list of the firm's buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "site": "ArchDaily",
+    "title": "Kevin Roche tag page",
+    "url": "https://www.archdaily.com/tag/kevin-roche",
+    "why": "classics and articles on the firm's buildings"
    }
   ],
   "skip": false
@@ -1603,18 +1620,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Instituto Bardi / Casa de Vidro",
-    "title": "Official site",
-    "url": "https://institutobardi.org/",
-    "why": "the institute in her own house, with her archive",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Lina Bo Bardi tag page",
     "url": "https://www.archdaily.com/tag/lina-bo-bardi",
     "why": "classics and articles on her buildings",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Lina Bo Bardi",
+    "url": "https://architectuul.com/architect/lina-bo-bardi",
+    "why": "short biography and a list of her buildings with photos"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "Lina Bo Bardi",
+    "url": "https://www.pritzkerprize.com/lina-bo-bardi",
+    "why": "a feature on her life and work"
    }
   ],
   "skip": false
@@ -1772,11 +1794,10 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Architectuul",
-    "title": "Nayyar Ali Dada",
-    "url": "https://architectuul.com/architect/nayyar-ali-dada",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "site": "ArchDaily",
+    "title": "Nayyar Ali Dada tag page",
+    "url": "https://www.archdaily.com/tag/nayyar-ali-dada",
+    "why": "articles on his buildings"
    }
   ],
   "skip": false
