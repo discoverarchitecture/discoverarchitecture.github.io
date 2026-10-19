@@ -39,7 +39,7 @@ e = lambda s: html.escape(str(s or ''), quote=True)
 q = lambda s: urllib.parse.quote(str(s))
 
 TOTAL = '100'  # set from the data in main()
-CSS_V = ''  # a short fingerprint of pages.css, so browsers fetch it again when it changes
+CSS_V = ''  # a short fingerprint of pages.css and the shared theme files, so browsers fetch them again when they change
 
 
 def at(base, path):
@@ -188,6 +188,8 @@ HEAD = """<!doctype html>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{up}theme.css?v={css_v}">
+<script src="{up}theme.js?v={css_v}"></script>
 <link rel="stylesheet" href="{up}pages.css?v={css_v}">
 <script src="{up}analytics.js"></script>
 {extra}
@@ -195,7 +197,7 @@ HEAD = """<!doctype html>
 <body>
 <header class="top" data-nosnippet>
   <a class="mark" href="{up}">Find great<br><span class="accent">Architecture.</span></a>
-  <nav><a class="all" href="{up}buildings/" data-tip="A huge, growing collection of buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
+  <nav>{theme_btn}<a class="all" href="{up}buildings/" data-tip="A huge, growing collection of buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
 </header>
 """
 
@@ -209,6 +211,11 @@ GALLERY_JS = """<script>
   mark();
 })();
 </script>"""
+
+THEME_BTN = ('<button type="button" class="theme-btn" data-theme-toggle aria-label="Night view" aria-pressed="false">'
+             '<svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>'
+             '<svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button>')
+HEAD = HEAD.replace('{theme_btn}', THEME_BTN.replace('{', '{{').replace('}', '}}'))
 
 FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
@@ -509,20 +516,32 @@ def fingerprint(path):
     return hashlib.md5(path.read_bytes()).hexdigest()[:8]
 
 
+def fingerprint_all(*paths):
+    import hashlib
+    return hashlib.md5(b''.join(p.read_bytes() for p in paths)).hexdigest()[:8]
+
+
 def stamp_wall():
     """Add ?v=<fingerprint> to the wall's scripts and stylesheet, so a new version reaches browsers at once
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'map.js'):
+    for name in ('theme.css', 'theme.js', 'styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'map.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
     if play.exists():
         html = play.read_text()
-        for name, path in (('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js')):
+        for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('play.css', SITE / 'play' / 'play.css'), ('play.js', SITE / 'play' / 'play.js'), ('../data/buildings.js', SITE / 'data' / 'buildings.js'), ('../data/links.js', SITE / 'data' / 'links.js'), ('../data/architects.js', SITE / 'data' / 'architects.js'), ('../data/names.js', SITE / 'data' / 'names.js')):
             html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
         play.write_text(html)
+    for extra in ('privacy', 'terms'):
+        page = SITE / extra / 'index.html'
+        if page.exists():
+            html = page.read_text()
+            for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('../pages.css', SITE / 'pages.css')):
+                html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
+            page.write_text(html)
 
 
 def write_swipe():
@@ -581,7 +600,7 @@ def main():
     global TOTAL, CSS_V
     items = load()
     TOTAL = f'{len(items):,}'
-    CSS_V = fingerprint(SITE / 'pages.css')
+    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js')
     page = SITE / 'index.html'
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))

@@ -93,9 +93,9 @@
       const max = Math.max(1, ...rc.values());
       const shapes = regions.map(r => {
         const n = rc.get(r) || 0, on = F.region.has(r);
-        const fill = on ? 'var(--red)' : !n ? '#ECEAE5' : n / max > 0.5 ? '#A9A69E' : n / max > 0.2 ? '#BDBAB2' : '#D0CDC6';
+        const fill = on ? 'var(--red)' : !n ? 'var(--reg-0)' : n / max > 0.5 ? 'var(--reg-3)' : n / max > 0.2 ? 'var(--reg-2)' : 'var(--reg-1)';
         const d = [...byRegion[r]].map(c => W.paths[c] || '').join('');
-        return `<path class="fp-reg" d="${d}" fill="${fill}" data-k="region" data-v="${esc(r)}"><title>${esc(r)}: ${n}</title></path>`;
+        return `<path class="fp-reg" d="${d}" style="fill:${fill}" data-k="region" data-v="${esc(r)}"><title>${esc(r)}: ${n}</title></path>`;
       }).join('');
       const dots = ALL.filter(b => b.coords && DA.matches(b)).map(b => { const [x, y] = DA.project(b.coords[0], b.coords[1]); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="1.7"><title>${esc(b.name)}, ${esc(b.place.split(',')[0])}</title></circle>`; }).join('');
       map = `<svg class="fp-map" viewBox="0 18 ${W.w} 400" role="img" aria-label="World map by region, with a dot for each matching building"><path class="fp-land" d="${landCache}"/>${shapes}<g class="fp-dots">${dots}</g></svg>`;
