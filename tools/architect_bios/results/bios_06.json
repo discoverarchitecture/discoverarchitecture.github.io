@@ -168,13 +168,6 @@
     "url": "https://architectuul.com/architect/tecton",
     "why": "a list of the group's buildings with photos",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Tecton tag page",
-    "url": "https://www.archdaily.com/tag/tecton",
-    "why": "classics and articles on the group's buildings",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -287,13 +280,6 @@
     "url": "https://en.wikipedia.org/wiki/Charles_Girault",
     "why": "life, ideas and list of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Royal Academy of Arts",
-    "title": "Charles Girault",
-    "url": "https://www.royalacademy.org.uk/art-artists/name/charles-girault",
-    "why": "a short biography from the Royal Academy collection",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Dominik Gehl",
@@ -883,7 +869,7 @@
   "kind": "practice",
   "born_died": "founded 1978",
   "country": "Irish",
-  "bio": "Grafton Architects is an Irish practice founded in Dublin in 1978 by Yvonne Farrell (born 1951) and Shelley McNamara (born 1952), who began teaching together at University College Dublin in 1976; it takes its name from the city's Grafton Street. Specialising in universities, they use weighty materials such as stone and concrete to make spacious buildings that bring people together. McNamara has described their approach: \"rather than thinking of a space and then finding a structure for it, we make a structure and that, in turn, makes a space\". They curated the 2018 Venice Architecture Biennale, \"Freespace\", and shared the Pritzker Prize in 2020, the year the practice also received the RIBA Royal Gold Medal.\n\nThe Università Luigi Bocconi Building in Milan (2008) first drew international attention to the practice. The UTEC University Campus in Lima (2015), for the University of Engineering and Technology, won the RIBA International Prize in 2016 as the best new building in the world that year. The Toulouse School of Economics (2019) followed, and the Marshall Building, London School of Economics (2022), won in competition in 2016.",
+  "bio": "Grafton Architects is an Irish practice founded in Dublin in 1978 by Yvonne Farrell (born 1951) and Shelley McNamara (born 1952), who began teaching together at University College Dublin in 1976; it takes its name from the city's Grafton Street. Specialising in universities, they use weighty materials such as stone and concrete to make spacious buildings that bring people together. McNamara has described their approach: \"rather than thinking of a space and then finding a structure for it, we make a structure and that, in turn, makes a space\". They curated the 2018 Venice Architecture Biennale, \"Freespace\", and shared the Pritzker Prize in 2020, the year the practice also received the RIBA Royal Gold Medal.\n\nThe Universita Luigi Bocconi Building in Milan (2008) first drew international attention to the practice. The UTEC University Campus in Lima (2015), for the University of Engineering and Technology, won the RIBA International Prize in 2016 as the best new building in the world that year. The Toulouse School of Economics (2019) followed, and the Marshall Building, London School of Economics (2022), won in competition in 2016.",
   "facts": [
    {
     "claim": "Shelley McNamara, born 1952; UCD B.Arch. 1974; founded Grafton Architects with Yvonne Farrell in 1978; taught at UCD from 1976; buildings for higher education; 2020 RIBA Royal Gold Medal; UTEC Lima won the 2016 RIBA International Prize as the best new building in the world that year; shared the 2020 Pritzker Prize",
@@ -1039,20 +1025,6 @@
     "url": "https://www.pcf-p.com/about/henry-n-cobb/",
     "why": "the firm's biography and projects",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Henry N. Cobb tag page",
-    "url": "https://www.archdaily.com/tag/henry-n-cobb",
-    "why": "articles on his buildings",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "Architectuul",
-    "title": "Henry Cobb",
-    "url": "https://architectuul.com/architect/henry-cobb",
-    "why": "short biography and a list of his buildings with photos",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1650,13 +1622,6 @@
     "url": "https://architectuul.com/architect/lina-bo-bardi",
     "why": "short biography and a list of her buildings with photos",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Pritzker Prize",
-    "title": "Lina Bo Bardi",
-    "url": "https://www.pritzkerprize.com/lina-bo-bardi",
-    "why": "a feature on her life and work",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1812,13 +1777,6 @@
     "url": "https://www.akdn.org/architecture/project/alhamra-arts-council",
     "why": "the award citation for his best-known building",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Nayyar Ali Dada tag page",
-    "url": "https://www.archdaily.com/tag/nayyar-ali-dada",
-    "why": "articles on his buildings",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
