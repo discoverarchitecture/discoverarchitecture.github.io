@@ -815,5 +815,465 @@
    -35.30222222,
    149.12972222
   ]
+ },
+ {
+  "id": "perth-concert-hall",
+  "name": "Perth Concert Hall",
+  "by": "Howlett & Bailey",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Brutalist concert hall, main venue of the West Australian Symphony Orchestra.",
+  "status": "photo",
+  "commons_category": "Category:Perth Concert Hall, Western Australia",
+  "photos": [
+   {
+    "file": "File:Perth Concert Hall September 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Perth Concert Hall, March 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perth_Concert_Hall_(Western_Australia)"
+  ],
+  "note": "Wikipedia infobox: Howlett & Bailey, Brutalist; Commons category says built 1973. Not yet seen.",
+  "coords": [
+   -31.958,
+   115.86385
+  ]
+ },
+ {
+  "id": "paganin-house",
+  "name": "Paganin House",
+  "by": "Iwan Iwanoff",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1965",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Human comfort",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Floreat house of 1965, an icon of mid-century modern architecture in Australia.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paganin-House-2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paganin_House"
+  ],
+  "note": "Wikipedia: built 1965, damaged in a December 2015 fire. One photo, 2000 px wide; not yet seen."
+ },
+ {
+  "id": "edmund-barton-building-canberra",
+  "name": "Edmund Barton Building",
+  "by": "Harry Seidler & Associates",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1974",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Large office building on the National Triangle in Barton, designed by Harry Seidler.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Edmund Barton Building facade.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edmund barton building canberra.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edmund_Barton_Building"
+  ],
+  "note": "Wikipedia: designed by Harry Seidler; infobox completion 1974. Government office block: ordinary type, counted. Not yet seen.",
+  "coords": [
+   -35.305,
+   149.136
+  ]
+ },
+ {
+  "id": "centenary-pool-complex-brisbane",
+  "name": "Centenary Pool Complex",
+  "by": "James Birrell",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1959",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Heritage-listed Spring Hill swimming pool designed by James Birrell, built 1959.",
+  "status": "photo",
+  "commons_category": "Category:Centenary Pool Complex",
+  "photos": [
+   {
+    "file": "File:Centenery Pool Gregory Tce Spring Hill IMG 2146.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centenary_Pool_Complex"
+  ],
+  "note": "Wikipedia: designed by James Birrell, built 1959, Queensland Heritage Register 1996. One usable photo; not yet seen."
+ },
+ {
+  "id": "capita-centre-sydney",
+  "name": "Capita Centre (9 Castlereagh Street)",
+  "by": "Harry Seidler & Associates",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1989",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "183 m skyscraper designed 1984 and finished 1989; won a RAIA (NSW) merit award in 1991.",
+  "status": "photo",
+  "commons_category": "Category:Capita Centre",
+  "photos": [
+   {
+    "file": "File:Capita Centre crop.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capita_Centre"
+  ],
+  "note": "Wikipedia: designed by Harry Seidler & Associates 1984, completed 1989. Office tower kept as a Seidler key work. One usable photo; not yet seen.",
+  "coords": [
+   -33.8666,
+   151.2096
+  ]
+ },
+ {
+  "id": "hyde-park-barracks-sydney",
+  "name": "Hyde Park Barracks",
+  "by": "Francis Greenway",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1819",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Axis"
+  ],
+  "features": "Convict-built barracks of 1811 to 1819, now a museum and part of the Australian Convict Sites.",
+  "status": "photo",
+  "commons_category": "Category:Hyde Park Barracks, Sydney",
+  "photos": [
+   {
+    "file": "File:Hyde Park Barracks main building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sydney Hyde Park Barracks Front view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyde_Park_Barracks,_Sydney"
+  ],
+  "note": "Wikipedia infobox: Francis Greenway, built 1811-1819. Not yet seen."
+ },
+ {
+  "id": "flinders-street-station",
+  "name": "Flinders Street Station",
+  "by": "James W. Fawcett",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1909",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Circulation",
+   "Detail"
+  ],
+  "features": "Melbourne's busiest station, on Flinders and Swanston streets, with 13 platforms.",
+  "status": "photo",
+  "commons_category": "Category:Flinders Street Station",
+  "photos": [
+   {
+    "file": "File:Flinders Street Station on 19 July 2025 - 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Flinders Street Station on 19 July 2025 - 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flinders_Street_railway_station"
+  ],
+  "note": "Wikipedia infobox: James W. Fawcett, completed 1909 (station opened 1854, current building later). Not yet seen.",
+  "coords": [
+   -37.818078,
+   144.96681
+  ]
+ },
+ {
+  "id": "perth-stadium-optus",
+  "name": "Perth Stadium (Optus Stadium)",
+  "by": "Hassell, HKS and Cox",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "61,266-capacity stadium completed in late 2017 and opened in January 2018.",
+  "status": "photo",
+  "commons_category": "Category:Perth Stadium",
+  "photos": [
+   {
+    "file": "File:Perth Stadium from Matagarup Bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Perth Stadium OIC 1.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perth_Stadium"
+  ],
+  "note": "Wikipedia: completed late 2017, officially opened 21 January 2018; architects Hassell, HKS, Cox. Not yet seen.",
+  "coords": [
+   -31.95111111,
+   115.88916667
+  ]
+ },
+ {
+  "id": "auckland-town-hall",
+  "name": "Auckland Town Hall",
+  "by": "J. Clark and Sons",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1911",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Edwardian Italian Renaissance Revival town hall with a famed Great Hall; Category I heritage.",
+  "status": "photo",
+  "commons_category": "Category:Auckland Town Hall",
+  "photos": [
+   {
+    "file": "File:Aotea Square and Auckland Town Hall 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Auckland Town Hall 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Auckland_Town_Hall"
+  ],
+  "note": "Wikipedia infobox: J Clark and Sons, inaugurated 14 Dec 1911. Not yet seen.",
+  "coords": [
+   -36.8526856,
+   174.7634912
+  ]
+ },
+ {
+  "id": "wellington-town-hall",
+  "name": "Wellington Town Hall",
+  "by": "Joshua Charlesworth",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1904",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Brick"
+  ],
+  "features": "Concert hall and civic complex that opened in December 1904; closed since the 2013 earthquake for strengthening.",
+  "status": "photo",
+  "commons_category": "Category:Wellington Town Hall",
+  "photos": [
+   {
+    "file": "File:Wellington Town Hall.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wellington Town Hall, Wellington, New Zealand (11).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wellington_Town_Hall"
+  ],
+  "note": "Wikipedia: opened Dec 1904, architect Joshua Charlesworth. Not yet seen.",
+  "coords": [
+   -41.2893,
+   174.7773
+  ]
+ },
+ {
+  "id": "auckland-civic-theatre",
+  "name": "Civic Theatre",
+  "by": "Charles Bohringer and William T. Leighton",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1929",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Atmospheric theatre where lighting and decor suggest an open sky with twinkling stars; opened 1929.",
+  "status": "photo",
+  "commons_category": "Category:Auckland Civic Theatre",
+  "photos": [
+   {
+    "file": "File:Auckland Civic Theatre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Auckland, civic theatre 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Civic_Theatre_(Auckland)"
+  ],
+  "note": "Wikipedia: opened 20 Dec 1929. Photo content unknown (may be interior); check the first shows the facade.",
+  "coords": [
+   -36.851072,
+   174.76392
+  ]
+ },
+ {
+  "id": "christchurch-arts-centre",
+  "name": "The Arts Centre of Christchurch",
+  "by": "Benjamin Mountfort and Samuel Hurst Seager",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "1878",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Adaptive reuse"
+  ],
+  "features": "Gothic Revival former Canterbury College buildings, New Zealand's largest group of Category 1 heritage buildings.",
+  "status": "photo",
+  "commons_category": "Category:Christchurch Arts Centre",
+  "photos": [
+   {
+    "file": "File:Christchurch Arts Centre, Christchurch, New Zealand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christchurch_Arts_Centre"
+  ],
+  "note": "Wikipedia: many buildings by Mountfort, first building 1878. Featured picture; not yet seen.",
+  "coords": [
+   -43.53148056,
+   172.62823333
+  ]
  }
 ]
