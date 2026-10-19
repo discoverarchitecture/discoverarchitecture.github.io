@@ -280869,7 +280869,83 @@ window.BUILDINGS = [
   "commons": "Category:Guangzhou_Library",
   "lead": "File:Guangzhou Library 02805-Guangzhou (32232744063).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Guangzhou_Library_02805-Guangzhou_%2832232744063%29.jpg/1280px-Guangzhou_Library_02805-Guangzhou_%2832232744063%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangzhou-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · 02805-Guangzhou",
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Library_02805-Guangzhou_(32232744063).jpg",
+    "file": "File:Guangzhou Library 02805-Guangzhou (32232744063).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Guangzhou_Library_2013.11.15_18-30-36.jpg/1280px-Guangzhou_Library_2013.11.15_18-30-36.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangzhou-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Zhangzhugang",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Library_2013.11.15_18-30-36.jpg",
+    "file": "File:Guangzhou Library 2013.11.15 18-30-36.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Guangzhou_Tushu_Guan_2024-11-21_16.29.30.jpg/1280px-Guangzhou_Tushu_Guan_2024-11-21_16.29.30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangzhou-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "古海岸遗址",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Tushu_Guan_2024-11-21_16.29.30.jpg",
+    "file": "File:Guangzhou Tushu Guan 2024-11-21 16.29.30.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Guangzhou_Tushu_Guan_2024-11-21_16.29.51.jpg/1280px-Guangzhou_Tushu_Guan_2024-11-21_16.29.51.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangzhou-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "古海岸遗址",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Tushu_Guan_2024-11-21_16.29.51.jpg",
+    "file": "File:Guangzhou Tushu Guan 2024-11-21 16.29.51.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Inside_Guangzhou_Library.jpg/1280px-Inside_Guangzhou_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangzhou-library/thumbs/4.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Inside Guangzhou Library",
+    "credit": "Beryl Chan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Guangzhou_Library.jpg",
+    "file": "File:Inside Guangzhou Library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Guangzhou_Library_Inside.jpg/1280px-Guangzhou_Library_Inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangzhou-library/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Library_Inside.jpg",
+    "file": "File:Guangzhou Library Inside.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "capital-museum-beijing",
@@ -280893,7 +280969,97 @@ window.BUILDINGS = [
   "commons": "Category:Capital_Museum",
   "lead": "File:2008 Capital Museum, Beijing 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/2008_Capital_Museum%2C_Beijing_01.jpg/1280px-2008_Capital_Museum%2C_Beijing_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Capital Museum, Beijing",
+    "credit": "Gary Lee Todd, Ph.D.",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_Capital_Museum,_Beijing_01.jpg",
+    "file": "File:2008 Capital Museum, Beijing 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Capital_Museum_%2820200821160736%29.jpg/1280px-Capital_Museum_%2820200821160736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taken on the western pedestrian bridge",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Capital_Museum_(20200821160736).jpg",
+    "file": "File:Capital Museum (20200821160736).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Lid_of_epitaph_for_Wolun.jpg/1280px-Lid_of_epitaph_for_Wolun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/2.webp",
+    "w": 1280,
+    "h": 1083,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "BabelStone",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lid_of_epitaph_for_Wolun.jpg",
+    "file": "File:Lid of epitaph for Wolun.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Jin_Emperor_%26_Empress_Coffins_a.jpg/1280px-Jin_Emperor_%26_Empress_Coffins_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Capital Museum, 2010 visit",
+    "credit": "Gary Todd",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jin_Emperor_%26_Empress_Coffins_a.jpg",
+    "file": "File:Jin Emperor & Empress Coffins a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Liao_wooden_chair.jpg/1280px-Liao_wooden_chair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/4.webp",
+    "w": 1116,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Wooden chair found in the underground hall of the Tiankai Pagoda in 1990",
+    "credit": "BabelStone",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Liao_wooden_chair.jpg",
+    "file": "File:Liao wooden chair.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/CapitalMuseum7.jpg/1280px-CapitalMuseum7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/5.webp",
+    "w": 1280,
+    "h": 826,
+    "kind": "Interior",
+    "caption": "Interior · Art collection at the Capital Museum in Beijing",
+    "credit": "gongfu_king",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CapitalMuseum7.jpg",
+    "file": "File:CapitalMuseum7.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Han_white_horse_statue.jpg/1280px-Han_white_horse_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capital-museum-beijing/thumbs/6.webp",
+    "w": 1280,
+    "h": 990,
+    "kind": "Model",
+    "caption": "Model · White stone horse statue",
+    "credit": "BabelStone",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Han_white_horse_statue.jpg",
+    "file": "File:Han white horse statue.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "beijing-television-cultural-center",
@@ -280917,7 +281083,59 @@ window.BUILDINGS = [
   "commons": "Category:TVCC",
   "lead": "File:Beijing (November 2016) - 512.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Beijing_%28November_2016%29_-_512.jpg/1280px-Beijing_%28November_2016%29_-_512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beijing-television-cultural-center/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Beijing (November 2016)",
+    "credit": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_(November_2016)_-_512.jpg",
+    "file": "File:Beijing (November 2016) - 512.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/TVCC_%28Television_Cultural_Center%29_20260719153034.jpg/1280px-TVCC_%28Television_Cultural_Center%29_20260719153034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beijing-television-cultural-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "TurnOnTheNight",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TVCC_(Television_Cultural_Center)_20260719153034.jpg",
+    "file": "File:TVCC (Television Cultural Center) 20260719153034.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_TVCC_building_as_seen_in_July_2011.jpg/1280px-The_TVCC_building_as_seen_in_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beijing-television-cultural-center/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Beijing Television Cultural Center as seen in July 2011 next to the CCTV Headquarters in Beijing",
+    "credit": "Ez7b4q",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_TVCC_building_as_seen_in_July_2011.jpg",
+    "file": "File:The TVCC building as seen in July 2011.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Cctvfired.jpg/1280px-Cctvfired.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beijing-television-cultural-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Exterior",
+    "caption": "Exterior · CCTV (Television Cultural Center) building after fire, Beijing, China",
+    "credit": "Wmrwiki",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cctvfired.jpg",
+    "file": "File:Cctvfired.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wuhan-railway-station",
@@ -280941,7 +281159,110 @@ window.BUILDINGS = [
   "commons": "Category:Wuhan_Railway_Station",
   "lead": "File:Wuhan Railway Station (July 2023).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Wuhan_Railway_Station_%28July_2023%29.jpg/1280px-Wuhan_Railway_Station_%28July_2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/0.webp",
+    "w": 1280,
+    "h": 569,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior of Wuhan Railway Station in July 2023",
+    "credit": "Zheng Zhou",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(July_2023).jpg",
+    "file": "File:Wuhan Railway Station (July 2023).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20240621_West_facade_of_Wuhan_Railway_Station.jpg/1280px-20240621_West_facade_of_Wuhan_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · West facade of Wuhan Railway Station",
+    "credit": "Windmemories",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20240621_West_facade_of_Wuhan_Railway_Station.jpg",
+    "file": "File:20240621 West facade of Wuhan Railway Station.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Wuhan_Railway_Station.jpg/1280px-Wuhan_Railway_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/2.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Arnie97",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station.jpg",
+    "file": "File:Wuhan Railway Station.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Wuhan_Railway_Station_%2820250303%29.jpg/1280px-Wuhan_Railway_Station_%2820250303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fumikas Sagisavas",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wuhan_Railway_Station_(20250303).jpg",
+    "file": "File:Wuhan Railway Station (20250303).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Atrium_of_Wuhan_Railway_Station_%28February_2024%29.jpg/1280px-Atrium_of_Wuhan_Railway_Station_%28February_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Atrium of Wuhan Railway Station (February 2024)",
+    "credit": "Zheng Zhou",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atrium_of_Wuhan_Railway_Station_(February_2024).jpg",
+    "file": "File:Atrium of Wuhan Railway Station (February 2024).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Inside_view_of_Wuhan_Station_2.JPG/1280px-Inside_view_of_Wuhan_Station_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "そらみみ  (Soramimi)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_view_of_Wuhan_Station_2.JPG",
+    "file": "File:Inside view of Wuhan Station 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Plan_of_Wuhan_Railway_Station.png/1280px-Plan_of_Wuhan_Railway_Station.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/6.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Plan",
+    "caption": "Plan · This is a plan of Wuhan Railway Station, Wuhan, P.R.China",
+    "credit": "Zheng Zhou",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_of_Wuhan_Railway_Station.png",
+    "file": "File:Plan of Wuhan Railway Station.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Model_car_in_Wuhan_Station.JPG/1280px-Model_car_in_Wuhan_Station.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wuhan-railway-station/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "そらみみ  (Soramimi)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_car_in_Wuhan_Station.JPG",
+    "file": "File:Model car in Wuhan Station.JPG"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "tainan-art-museum",
@@ -280965,7 +281286,83 @@ window.BUILDINGS = [
   "commons": "Category:Tainan_Art_Museum",
   "lead": "File:Tainan Art Museum Building 1 (台南市美術館1館）.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tainan_Art_Museum_Building_1_%28%E5%8F%B0%E5%8D%97%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A81%E9%A4%A8%EF%BC%89.jpg/1280px-Tainan_Art_Museum_Building_1_%28%E5%8F%B0%E5%8D%97%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A81%E9%A4%A8%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-art-museum/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Lchung9779",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tainan_Art_Museum_Building_1_(%E5%8F%B0%E5%8D%97%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A81%E9%A4%A8%EF%BC%89.jpg",
+    "file": "File:Tainan Art Museum Building 1 (台南市美術館1館）.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Bright_white_the_2_Building_of_Tainan_Art_Museum_exterior_design.jpg/1280px-Bright_white_the_2_Building_of_Tainan_Art_Museum_exterior_design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-art-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bright white the 2 Building of Tainan Art Museum exterior design",
+    "credit": "Nico Kaiser",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bright_white_the_2_Building_of_Tainan_Art_Museum_exterior_design.jpg",
+    "file": "File:Bright white the 2 Building of Tainan Art Museum exterior design.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Tainan_Muzeum_Sztuki_budynek_2.jpg/1280px-Tainan_Muzeum_Sztuki_budynek_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-art-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 766,
+    "kind": "Exterior",
+    "caption": "Exterior · Tainan - Art Museum, building 2",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tainan_Muzeum_Sztuki_budynek_2.jpg",
+    "file": "File:Tainan Muzeum Sztuki budynek 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Tainan_Art_Museum_Building_1.jpg/1280px-Tainan_Art_Museum_Building_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-art-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Tainan Art Museum Buidling 1",
+    "credit": "Mint2005",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tainan_Art_Museum_Building_1.jpg",
+    "file": "File:Tainan Art Museum Building 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tainan_Muzeum_Sztuki_budynek_1.jpg/1280px-Tainan_Muzeum_Sztuki_budynek_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-art-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Tainan - Art Museum, building 1",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tainan_Muzeum_Sztuki_budynek_1.jpg",
+    "file": "File:Tainan Muzeum Sztuki budynek 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Stage_of_Building_1%2C_Tainan_Art_Museum.jpg/1280px-Stage_of_Building_1%2C_Tainan_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-art-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Taiwania Justo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stage_of_Building_1,_Tainan_Art_Museum.jpg",
+    "file": "File:Stage of Building 1, Tainan Art Museum.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hong-kong-convention-and-exhibition-centre",
@@ -280989,7 +281386,83 @@ window.BUILDINGS = [
   "commons": "Category:Hong_Kong_Convention_and_Exhibition_Centre",
   "lead": "File:HKCEC.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/HKCEC.jpg/1280px-HKCEC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-convention-and-exhibition-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Hong Kong Convention and Exhibition Centre (HKCEC)",
+    "credit": "Baycrest",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:HKCEC.jpg",
+    "file": "File:HKCEC.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hong_Kong_Convention_and_Exhibition_Centre_11-09-2026%281%29.jpg/1280px-Hong_Kong_Convention_and_Exhibition_Centre_11-09-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-convention-and-exhibition-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "LN9267",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Convention_and_Exhibition_Centre_11-09-2026(1).jpg",
+    "file": "File:Hong Kong Convention and Exhibition Centre 11-09-2026(1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/RISE_2018_AWS_Developer_Workshops.jpg/1280px-RISE_2018_AWS_Developer_Workshops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-convention-and-exhibition-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "RISE",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RISE_2018_AWS_Developer_Workshops.jpg",
+    "file": "File:RISE 2018 AWS Developer Workshops.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/HK_Convention_%26_Exhibition_Centre_10-06-2022.jpg/1280px-HK_Convention_%26_Exhibition_Centre_10-06-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-convention-and-exhibition-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "LN9267",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HK_Convention_%26_Exhibition_Centre_10-06-2022.jpg",
+    "file": "File:HK Convention & Exhibition Centre 10-06-2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hong_Kong_Convention_and_Exhibition_Centre_Atrium_Link.jpg/1280px-Hong_Kong_Convention_and_Exhibition_Centre_Atrium_Link.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-convention-and-exhibition-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Hong Kong Convention and Exhibition Centre Atrium Link",
+    "credit": "Ceeseven",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Convention_and_Exhibition_Centre_Atrium_Link.jpg",
+    "file": "File:Hong Kong Convention and Exhibition Centre Atrium Link.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HK_Wan_Chai_North_HKCEC_exhibition_booth_Media_Asia_Film_at_Filmart_Hong_Kong_March_2018_LGM_01.jpg/1280px-HK_Wan_Chai_North_HKCEC_exhibition_booth_Media_Asia_Film_at_Filmart_Hong_Kong_March_2018_LGM_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-convention-and-exhibition-centre/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Che San Ma Leon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HK_Wan_Chai_North_HKCEC_exhibition_booth_Media_Asia_Film_at_Filmart_Hong_Kong_March_2018_LGM_01.jpg",
+    "file": "File:HK Wan Chai North HKCEC exhibition booth Media Asia Film at Filmart Hong Kong March 2018 LGM 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hong-kong-central-library",
@@ -281013,7 +281486,83 @@ window.BUILDINGS = [
   "commons": "Category:Hong_Kong_Central_Library",
   "lead": "File:Hong Kong Central Library 2008.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Hong_Kong_Central_Library_2008.jpg/1280px-Hong_Kong_Central_Library_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-central-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wing1990hk",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Central_Library_2008.jpg",
+    "file": "File:Hong Kong Central Library 2008.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Hong_Kong_Central_Library_25-09-2026%281%29.jpg/1280px-Hong_Kong_Central_Library_25-09-2026%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-central-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "LN9267",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Central_Library_25-09-2026(1).jpg",
+    "file": "File:Hong Kong Central Library 25-09-2026(1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HKCL_Hong_Kong_Central_Library_Chung_Hwa_bookstore_September_2021_SS2_02.jpg/1280px-HKCL_Hong_Kong_Central_Library_Chung_Hwa_bookstore_September_2021_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-central-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jrmallpo RZIMTao",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HKCL_Hong_Kong_Central_Library_Chung_Hwa_bookstore_September_2021_SS2_02.jpg",
+    "file": "File:HKCL Hong Kong Central Library Chung Hwa bookstore September 2021 SS2 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HKCL_Hong_Kong_Central_Library_September_2021_SS2_01.jpg/1280px-HKCL_Hong_Kong_Central_Library_September_2021_SS2_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-central-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · HKCL en:Hong Kong Central Library September 2021",
+    "credit": "Jrmallpo RZIMTao",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HKCL_Hong_Kong_Central_Library_September_2021_SS2_01.jpg",
+    "file": "File:HKCL Hong Kong Central Library September 2021 SS2 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/HKCL_%E9%8A%85%E9%91%BC%E7%81%A3_CWB_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_Hong_Kong_Central_Library_Chinese_Calligraphy_arts_Exhibition_hall_December_2019_SS2_02.jpg/1280px-HKCL_%E9%8A%85%E9%91%BC%E7%81%A3_CWB_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_Hong_Kong_Central_Library_Chinese_Calligraphy_arts_Exhibition_hall_December_2019_SS2_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-central-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "SKOVIH IENAGV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HKCL_%E9%8A%85%E9%91%BC%E7%81%A3_CWB_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_Hong_Kong_Central_Library_Chinese_Calligraphy_arts_Exhibition_hall_December_2019_SS2_02.jpg",
+    "file": "File:HKCL 銅鑼灣 CWB 香港中央圖書館 Hong Kong Central Library Chinese Calligraphy arts Exhibition hall December 2019 SS2 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/HKCL_%E9%8A%85%E9%91%BC%E7%81%A3_CWB_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_Hong_Kong_Central_Library_Chinese_Calligraphy_arts_Exhibition_hall_December_2019_SS2_03.jpg/1280px-HKCL_%E9%8A%85%E9%91%BC%E7%81%A3_CWB_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_Hong_Kong_Central_Library_Chinese_Calligraphy_arts_Exhibition_hall_December_2019_SS2_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hong-kong-central-library/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "SKOVIH IENAGV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HKCL_%E9%8A%85%E9%91%BC%E7%81%A3_CWB_%E9%A6%99%E6%B8%AF%E4%B8%AD%E5%A4%AE%E5%9C%96%E6%9B%B8%E9%A4%A8_Hong_Kong_Central_Library_Chinese_Calligraphy_arts_Exhibition_hall_December_2019_SS2_03.jpg",
+    "file": "File:HKCL 銅鑼灣 CWB 香港中央圖書館 Hong Kong Central Library Chinese Calligraphy arts Exhibition hall December 2019 SS2 03.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shanghai-astronomy-museum",
@@ -281037,7 +281586,73 @@ window.BUILDINGS = [
   "commons": "Category:Shanghai_Astronomy_Museum",
   "lead": "File:Shanghai Astronomy Museum 3.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Shanghai_Astronomy_Museum_3.jpg/1280px-Shanghai_Astronomy_Museum_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-astronomy-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Astronomy_Museum_3.jpg",
+    "file": "File:Shanghai Astronomy Museum 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Shanghai_Astronomy_Museum_1.jpg/1280px-Shanghai_Astronomy_Museum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-astronomy-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Astronomy_Museum_1.jpg",
+    "file": "File:Shanghai Astronomy Museum 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Shanghaitianwenguan.jpg/1280px-Shanghaitianwenguan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-astronomy-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Shanghai Astronomy Museum, Nanhui New City, Pudong, Shanghai, China",
+    "credit": "Brookqi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghaitianwenguan.jpg",
+    "file": "File:Shanghaitianwenguan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Earth_%26_Moon_Models_in_Shanghai_Astronomy_Museum.jpg/1280px-Earth_%26_Moon_Models_in_Shanghai_Astronomy_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-astronomy-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Earth & Moon Models in Shanghai Astronomy Museum",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Earth_%26_Moon_Models_in_Shanghai_Astronomy_Museum.jpg",
+    "file": "File:Earth & Moon Models in Shanghai Astronomy Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Earth_model_in_Shanghai_Astronomy_Museum_01.jpg/1280px-Earth_model_in_Shanghai_Astronomy_Museum_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-astronomy-museum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "北纬的星空",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Earth_model_in_Shanghai_Astronomy_Museum_01.jpg",
+    "file": "File:Earth model in Shanghai Astronomy Museum 01.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "run-run-shaw-creative-media-centre",
@@ -281061,7 +281676,83 @@ window.BUILDINGS = [
   "commons": "Category:Run_Run_Shaw_Creative_Media_Centre",
   "lead": "File:Run Run Shaw Creative Media Centre.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Run_Run_Shaw_Creative_Media_Centre.JPG/1280px-Run_Run_Shaw_Creative_Media_Centre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/run-run-shaw-creative-media-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kevink1103",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Run_Run_Shaw_Creative_Media_Centre.JPG",
+    "file": "File:Run Run Shaw Creative Media Centre.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Run_Run_Shaw_Creative_Media_Centre_main_entrance.jpg/1280px-Run_Run_Shaw_Creative_Media_Centre_main_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/run-run-shaw-creative-media-centre/thumbs/1.webp",
+    "w": 1280,
+    "h": 833,
+    "kind": "Exterior",
+    "caption": "Exterior · Run Run Shaw Creative Media Centre main entrance",
+    "credit": "PrzemekJaczewski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Run_Run_Shaw_Creative_Media_Centre_main_entrance.jpg",
+    "file": "File:Run Run Shaw Creative Media Centre main entrance.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/CityU_Run_Run_Shaw_Creative_Media_Centre_Enterance_2012.jpg/1280px-CityU_Run_Run_Shaw_Creative_Media_Centre_Enterance_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/run-run-shaw-creative-media-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wing1990hk",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CityU_Run_Run_Shaw_Creative_Media_Centre_Enterance_2012.jpg",
+    "file": "File:CityU Run Run Shaw Creative Media Centre Enterance 2012.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Tai_Woh_Ping%2C_Hong_Kong_-_panoramio_%2810%29.jpg/1280px-Tai_Woh_Ping%2C_Hong_Kong_-_panoramio_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/run-run-shaw-creative-media-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Tai Woh Ping, Hong Kong",
+    "credit": "ken93110",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tai_Woh_Ping,_Hong_Kong_-_panoramio_(10).jpg",
+    "file": "File:Tai Woh Ping, Hong Kong - panoramio (10).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/CityU_Run_Run_Shaw_Creative_Media_Centre_Level_5_TV_Studio_Control_Room.JPG/1280px-CityU_Run_Run_Shaw_Creative_Media_Centre_Level_5_TV_Studio_Control_Room.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/run-run-shaw-creative-media-centre/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Wing1990hk",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CityU_Run_Run_Shaw_Creative_Media_Centre_Level_5_TV_Studio_Control_Room.JPG",
+    "file": "File:CityU Run Run Shaw Creative Media Centre Level 5 TV Studio Control Room.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CityU_Run_Run_Shaw_Creative_Media_Centre_Stair_2012.jpg/1280px-CityU_Run_Run_Shaw_Creative_Media_Centre_Stair_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/run-run-shaw-creative-media-centre/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Wing1990hk",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CityU_Run_Run_Shaw_Creative_Media_Centre_Stair_2012.jpg",
+    "file": "File:CityU Run Run Shaw Creative Media Centre Stair 2012.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shekou-cruise-center",
@@ -281085,7 +281776,83 @@ window.BUILDINGS = [
   "commons": "Category:Shekou_Cruise_Center",
   "lead": "File:Shekou Cruise Center 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Shekou_Cruise_Center_01.jpg/1280px-Shekou_Cruise_Center_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shekou-cruise-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Shekou Cruise Center seen from waiting room",
+    "credit": "Stang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shekou_Cruise_Center_01.jpg",
+    "file": "File:Shekou Cruise Center 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Shekoucruisecenterview.jpg/1280px-Shekoucruisecenterview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shekou-cruise-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "WhisperToMe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shekoucruisecenterview.jpg",
+    "file": "File:Shekoucruisecenterview.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Shekou_Cruise_Center_Shenzhen_China_%2836096129924%29.jpg/1280px-Shekou_Cruise_Center_Shenzhen_China_%2836096129924%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shekou-cruise-center/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Chris  from Shenzhen, China",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shekou_Cruise_Center_Shenzhen_China_(36096129924).jpg",
+    "file": "File:Shekou Cruise Center Shenzhen China (36096129924).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Shekou_Cruise_Center_Shenzhen_China_%2836121990703%29.jpg/1280px-Shekou_Cruise_Center_Shenzhen_China_%2836121990703%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shekou-cruise-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Chris  from Shenzhen, China",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shekou_Cruise_Center_Shenzhen_China_(36121990703).jpg",
+    "file": "File:Shekou Cruise Center Shenzhen China (36121990703).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/CKS_HaiYu.jpg/1280px-CKS_HaiYu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shekou-cruise-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Hai Yu catamaran at Shenzhen Shekou Cruise Center",
+    "credit": "Stang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CKS_HaiYu.jpg",
+    "file": "File:CKS HaiYu.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Shekou_Cruise_Center_02.jpg/1280px-Shekou_Cruise_Center_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shekou-cruise-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Shekou Cruise Center seen from waiting room",
+    "credit": "Stang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shekou_Cruise_Center_02.jpg",
+    "file": "File:Shekou Cruise Center 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "marisfrolg-pavilion",
@@ -281109,7 +281876,35 @@ window.BUILDINGS = [
   "commons": "Category:Marisfrolg_Pavilion",
   "lead": "File:玛丝菲尔大厦2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%E7%8E%9B%E4%B8%9D%E8%8F%B2%E5%B0%94%E5%A4%A7%E5%8E%A62.jpg/1280px-%E7%8E%9B%E4%B8%9D%E8%8F%B2%E5%B0%94%E5%A4%A7%E5%8E%A62.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marisfrolg-pavilion/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "NAN LIU",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%8E%9B%E4%B8%9D%E8%8F%B2%E5%B0%94%E5%A4%A7%E5%8E%A62.jpg",
+    "file": "File:玛丝菲尔大厦2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/%E7%8E%9B%E4%B8%9D%E8%8F%B2%E5%B0%94%E5%A4%A7%E5%8E%A61.jpg/1280px-%E7%8E%9B%E4%B8%9D%E8%8F%B2%E5%B0%94%E5%A4%A7%E5%8E%A61.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marisfrolg-pavilion/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "NAN LIU",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%8E%9B%E4%B8%9D%E8%8F%B2%E5%B0%94%E5%A4%A7%E5%8E%A61.jpg",
+    "file": "File:玛丝菲尔大厦1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "new-beijing-poly-plaza",
@@ -281133,7 +281928,35 @@ window.BUILDINGS = [
   "commons": "Category:New_Beijing_Poly_Plaza",
   "lead": "File:New Poly Plaza (20200425093330).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Poly_Plaza_%2820200425093330%29.jpg/1280px-New_Poly_Plaza_%2820200425093330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-beijing-poly-plaza/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Corner D of Dongsi Shitiao",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Poly_Plaza_(20200425093330).jpg",
+    "file": "File:New Poly Plaza (20200425093330).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Beijing_New_Poly_Plaza.jpg/1280px-Beijing_New_Poly_Plaza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-beijing-poly-plaza/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Beijing - New Poly Plaza",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_New_Poly_Plaza.jpg",
+    "file": "File:Beijing New Poly Plaza.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bund-finance-center",
@@ -281157,7 +281980,59 @@ window.BUILDINGS = [
   "commons": "Category:The_Bund_Finance_Center",
   "lead": "File:The Bund Finance Center in Shanghai.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_Bund_Finance_Center_in_Shanghai.jpg/1280px-The_Bund_Finance_Center_in_Shanghai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bund-finance-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 1082,
+    "kind": "Exterior",
+    "caption": "Exterior · Lamborghini Urus in-front of Bund Finance center",
+    "credit": "GillyBerlin",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Bund_Finance_Center_in_Shanghai.jpg",
+    "file": "File:The Bund Finance Center in Shanghai.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Fosun_Art_Center.jpg/1280px-Fosun_Art_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bund-finance-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Fosun Art Center",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fosun_Art_Center.jpg",
+    "file": "File:Fosun Art Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%E4%B8%80%E5%A4%A9%E4%B8%96%E7%95%8C%E5%B1%95%E8%A7%88.jpg/1280px-%E4%B8%80%E5%A4%A9%E4%B8%96%E7%95%8C%E5%B1%95%E8%A7%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bund-finance-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "内存溢出的猫",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%80%E5%A4%A9%E4%B8%96%E7%95%8C%E5%B1%95%E8%A7%88.jpg",
+    "file": "File:一天世界展览.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E5%A4%8D%E6%98%9F%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E5%92%96%E5%95%A1%E9%A6%86.jpg/1280px-%E5%A4%8D%E6%98%9F%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E5%92%96%E5%95%A1%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bund-finance-center/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "内存溢出的猫",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%8D%E6%98%9F%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83%E5%92%96%E5%95%A1%E9%A6%86.jpg",
+    "file": "File:复星艺术中心咖啡馆.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hsbc-building-shanghai",
@@ -281181,7 +282056,110 @@ window.BUILDINGS = [
   "commons": "Category:HSBC_Building,_Shanghai",
   "lead": "File:HSBC Building, Shanghai 20250501-1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/HSBC_Building%2C_Shanghai_20250501-1.jpg/1280px-HSBC_Building%2C_Shanghai_20250501-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · HSBC Building, Shanghai",
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building,_Shanghai_20250501-1.jpg",
+    "file": "File:HSBC Building, Shanghai 20250501-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E6%B1%87%E4%B8%B0%E9%93%B6%E8%A1%8C%E5%A4%A7%E6%A5%BC2021.jpg/1280px-%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E6%B1%87%E4%B8%B0%E9%93%B6%E8%A1%8C%E5%A4%A7%E6%A5%BC2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/1.webp",
+    "w": 1280,
+    "h": 817,
+    "kind": "Exterior",
+    "caption": "Exterior · HSBC Building, No.12 The Bund, Huangpu District, Shanghai",
+    "credit": "ScareCriterion12",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9%E6%B1%87%E4%B8%B0%E9%93%B6%E8%A1%8C%E5%A4%A7%E6%A5%BC2021.jpg",
+    "file": "File:上海外滩汇丰银行大楼2021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/20191112_HSBC_Building_Bund-1.jpg/1280px-20191112_HSBC_Building_Bund-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The HSBC building in Shanghai",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191112_HSBC_Building_Bund-1.jpg",
+    "file": "File:20191112 HSBC Building Bund-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/20191112_HSBC_Building_Bund-2.jpg/1280px-20191112_HSBC_Building_Bund-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The HSBC building in Shanghai",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191112_HSBC_Building_Bund-2.jpg",
+    "file": "File:20191112 HSBC Building Bund-2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Shanghai_HSBC_Building_Ceiling_Mosaic_New_York.jpg/1280px-Shanghai_HSBC_Building_Ceiling_Mosaic_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/4.webp",
+    "w": 1280,
+    "h": 610,
+    "kind": "Interior",
+    "caption": "Interior · The mosaic depicting New York at the grand lobby ceiling of the Shanghai HSBC Building",
+    "credit": "Clithering",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_HSBC_Building_Ceiling_Mosaic_New_York.jpg",
+    "file": "File:Shanghai HSBC Building Ceiling Mosaic New York.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Shanghai_HSBC_Building_Ceiling_Mosaic_London.jpg/1280px-Shanghai_HSBC_Building_Ceiling_Mosaic_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/5.webp",
+    "w": 1280,
+    "h": 601,
+    "kind": "Interior",
+    "caption": "Interior · The mosaic depicting London at the grand lobby ceiling of the Shanghai HSBC Building",
+    "credit": "Clithering",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_HSBC_Building_Ceiling_Mosaic_London.jpg",
+    "file": "File:Shanghai HSBC Building Ceiling Mosaic London.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/HSBC_Building%2C_Shanghai%2C_ground_floor_plan.png/1280px-HSBC_Building%2C_Shanghai%2C_ground_floor_plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/6.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Plan",
+    "caption": "Plan · Ground floor plan of the HSBC Building in Shanghai, designed by Palmer & Turner",
+    "credit": "Palmer & Turner",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building,_Shanghai,_ground_floor_plan.png",
+    "file": "File:HSBC Building, Shanghai, ground floor plan.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/HSBC_Building%2C_Shanghai%2C_elevation.png/1280px-HSBC_Building%2C_Shanghai%2C_elevation.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hsbc-building-shanghai/thumbs/7.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Elevation",
+    "caption": "Elevation · Elevation of the HSBC Building in Shanghai, designed by Palmer & Turner",
+    "credit": "Palmer & Turner",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building,_Shanghai,_elevation.png",
+    "file": "File:HSBC Building, Shanghai, elevation.png"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "wukang-mansion",
@@ -281205,7 +282183,83 @@ window.BUILDINGS = [
   "commons": "Category:Wukang_Mansion",
   "lead": "File:Wukang Mansion (20191114161507).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wukang_Mansion_%2820191114161507%29.jpg/1280px-Wukang_Mansion_%2820191114161507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wukang-mansion/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · All photographing this",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wukang_Mansion_(20191114161507).jpg",
+    "file": "File:Wukang Mansion (20191114161507).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Wukang_Mansion_20250504-1.jpg/1280px-Wukang_Mansion_20250504-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wukang-mansion/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wukang_Mansion_20250504-1.jpg",
+    "file": "File:Wukang Mansion 20250504-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Messy_wires_in_fornt_of_Wukang_Building_-_panoramio.jpg/1280px-Messy_wires_in_fornt_of_Wukang_Building_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wukang-mansion/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Messy wires in fornt of Wukang Building",
+    "credit": "Weixi Zeng",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Messy_wires_in_fornt_of_Wukang_Building_-_panoramio.jpg",
+    "file": "File:Messy wires in fornt of Wukang Building - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Wukang_Building_and_wires_-_panoramio.jpg/1280px-Wukang_Building_and_wires_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wukang-mansion/thumbs/3.webp",
+    "w": 1280,
+    "h": 892,
+    "kind": "Exterior",
+    "caption": "Exterior · Wukang Building and wires",
+    "credit": "Weixi Zeng",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wukang_Building_and_wires_-_panoramio.jpg",
+    "file": "File:Wukang Building and wires - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Interior_corridor_in_the_Normandie..jpg/1280px-Interior_corridor_in_the_Normandie..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wukang-mansion/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Hallway on the sixth floor of the building",
+    "credit": "Avezink",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_corridor_in_the_Normandie..jpg",
+    "file": "File:Interior corridor in the Normandie..jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wukang%27s_crossroad_-_panoramio.jpg/1280px-Wukang%27s_crossroad_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wukang-mansion/thumbs/5.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Context",
+    "caption": "Context · Wukang's crossroad, Shanghai",
+    "credit": "Weixi Zeng",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wukang%27s_crossroad_-_panoramio.jpg",
+    "file": "File:Wukang's crossroad - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shanghai-custom-house",
@@ -281229,7 +282283,83 @@ window.BUILDINGS = [
   "commons": "Category:Customs_House,_Shanghai",
   "lead": "File:Customs House, Shanghai 20250501-1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Customs_House%2C_Shanghai_20250501-1.jpg/1280px-Customs_House%2C_Shanghai_20250501-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-custom-house/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Customs House, Shanghai",
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Customs_House,_Shanghai_20250501-1.jpg",
+    "file": "File:Customs House, Shanghai 20250501-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/2015_Shanghai_Bund-_Customs_House%2C_1927_%28center%29.jpg/1280px-2015_Shanghai_Bund-_Customs_House%2C_1927_%28center%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-custom-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Colonial era buildings now flying the Chinese flag",
+    "credit": "Gary Todd",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2015_Shanghai_Bund-_Customs_House,_1927_(center).jpg",
+    "file": "File:2015 Shanghai Bund- Customs House, 1927 (center).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2F_of_Customs_House_20251101.jpg/1280px-2F_of_Customs_House_20251101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-custom-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The second floor of Customs House, Shanghai",
+    "credit": "Nat4Eben",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2F_of_Customs_House_20251101.jpg",
+    "file": "File:2F of Customs House 20251101.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Customs_House_20251101.jpg/1280px-Customs_House_20251101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-custom-house/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Customs House on the Bund, Shanghai",
+    "credit": "Nat4Eben",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Customs_House_20251101.jpg",
+    "file": "File:Customs House 20251101.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lobby_ceiling_of_the_Custom_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/shanghai-custom-house/thumbs/4.webp",
+    "w": 1200,
+    "h": 800,
+    "kind": "Interior",
+    "caption": "Interior · Lobby ceiling of the Custom House in Shanghai China",
+    "credit": "Ctny",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lobby_ceiling_of_the_Custom_House.JPG",
+    "file": "File:Lobby ceiling of the Custom House.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Caduceus_Ceiling_of_Customs_House_20251101.jpg/1280px-Caduceus_Ceiling_of_Customs_House_20251101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-custom-house/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · The ceiling of Customs House on the Bund, Shanghai, is decorated with Caduceus",
+    "credit": "Nat4Eben",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Caduceus_Ceiling_of_Customs_House_20251101.jpg",
+    "file": "File:Caduceus Ceiling of Customs House 20251101.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hangzhou-olympic-sports-expo-center",
@@ -281253,7 +282383,83 @@ window.BUILDINGS = [
   "commons": "Category:Hangzhou_Olympic_Sports_Expo_Center",
   "lead": "File:Hangzhou Olympic Sports Center Stadium.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Hangzhou_Olympic_Sports_Center_Stadium.jpg/1280px-Hangzhou_Olympic_Sports_Center_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hangzhou-olympic-sports-expo-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yveltal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hangzhou_Olympic_Sports_Center_Stadium.jpg",
+    "file": "File:Hangzhou Olympic Sports Center Stadium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Main_Stadium%2C_Hangzhou_Olympic_Sports_Center%2C_2019-09-10_01.jpg/1280px-Main_Stadium%2C_Hangzhou_Olympic_Sports_Center%2C_2019-09-10_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hangzhou-olympic-sports-expo-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Siyuwj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Stadium,_Hangzhou_Olympic_Sports_Center,_2019-09-10_01.jpg",
+    "file": "File:Main Stadium, Hangzhou Olympic Sports Center, 2019-09-10 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Main_Stadium%2C_Hangzhou_Olympic_Sports_Center%2C_2019-09-10_03.jpg/1280px-Main_Stadium%2C_Hangzhou_Olympic_Sports_Center%2C_2019-09-10_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hangzhou-olympic-sports-expo-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Siyuwj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Stadium,_Hangzhou_Olympic_Sports_Center,_2019-09-10_03.jpg",
+    "file": "File:Main Stadium, Hangzhou Olympic Sports Center, 2019-09-10 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hangzhou_Olympic_Sports_Expo_Center_under_construction2021.jpg/1280px-Hangzhou_Olympic_Sports_Expo_Center_under_construction2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hangzhou-olympic-sports-expo-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Charlie fong",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hangzhou_Olympic_Sports_Expo_Center_under_construction2021.jpg",
+    "file": "File:Hangzhou Olympic Sports Expo Center under construction2021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tennis_Center_in_Hangzhou_Olympic_Sports_Expo_Center.jpg/1280px-Tennis_Center_in_Hangzhou_Olympic_Sports_Expo_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hangzhou-olympic-sports-expo-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Charlie fong",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tennis_Center_in_Hangzhou_Olympic_Sports_Expo_Center.jpg",
+    "file": "File:Tennis Center in Hangzhou Olympic Sports Expo Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gymnasium%26Natatorium_in_Hangzhou_Olympic_Sports_Expo_Center2021.jpg/1280px-Gymnasium%26Natatorium_in_Hangzhou_Olympic_Sports_Expo_Center2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hangzhou-olympic-sports-expo-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · Gymnasium(right wing) and Natatorium (left wing) in Hangzhou Olympic Sports Expo Center",
+    "credit": "Charlie fong",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gymnasium%26Natatorium_in_Hangzhou_Olympic_Sports_Expo_Center2021.jpg",
+    "file": "File:Gymnasium&Natatorium in Hangzhou Olympic Sports Expo Center2021.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "taichung-main-public-library",
@@ -281277,7 +282483,59 @@ window.BUILDINGS = [
   "commons": "Category:Taichung_Main_Library",
   "lead": "File:Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Taichung_Main_Public_Library_%28Taichung_Green_Museumbrary%29_2025-11-05_%282%29.jpg/1280px-Taichung_Main_Public_Library_%28Taichung_Green_Museumbrary%29_2025-11-05_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taichung-main-public-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Foxy1219",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taichung_Main_Public_Library_(Taichung_Green_Museumbrary)_2025-11-05_(2).jpg",
+    "file": "File:Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05 (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Taichung_Main_Library_exterior_lobby_2025-11-05_%281%29.jpg/1280px-Taichung_Main_Library_exterior_lobby_2025-11-05_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taichung-main-public-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Taichung Main Library, Taiwan",
+    "credit": "Foxy1219",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taichung_Main_Library_exterior_lobby_2025-11-05_(1).jpg",
+    "file": "File:Taichung Main Library exterior lobby 2025-11-05 (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Taichung_Main_Library_exterior_lobby_and_entrance_2025-11-05.jpg/1280px-Taichung_Main_Library_exterior_lobby_and_entrance_2025-11-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taichung-main-public-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Foxy1219",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taichung_Main_Library_exterior_lobby_and_entrance_2025-11-05.jpg",
+    "file": "File:Taichung Main Library exterior lobby and entrance 2025-11-05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/%E5%8F%B0%E4%B8%AD%E7%B6%A0%E7%BE%8E%E5%9C%96_2026-02-25.jpg/1280px-%E5%8F%B0%E4%B8%AD%E7%B6%A0%E7%BE%8E%E5%9C%96_2026-02-25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taichung-main-public-library/thumbs/3.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "李",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E4%B8%AD%E7%B6%A0%E7%BE%8E%E5%9C%96_2026-02-25.jpg",
+    "file": "File:台中綠美圖 2026-02-25.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kaohsiung-main-public-library",
@@ -281301,7 +282559,83 @@ window.BUILDINGS = [
   "commons": "Category:Kaohsiung_Main_Library",
   "lead": "File:高雄總圖書館(正面).JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E9%AB%98%E9%9B%84%E7%B8%BD%E5%9C%96%E6%9B%B8%E9%A4%A8%28%E6%AD%A3%E9%9D%A2%29.JPG/1280px-%E9%AB%98%E9%9B%84%E7%B8%BD%E5%9C%96%E6%9B%B8%E9%A4%A8%28%E6%AD%A3%E9%9D%A2%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaohsiung-main-public-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "KasugaHuang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E9%9B%84%E7%B8%BD%E5%9C%96%E6%9B%B8%E9%A4%A8(%E6%AD%A3%E9%9D%A2).JPG",
+    "file": "File:高雄總圖書館(正面).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Kaohsiung_Main_Public_Library_20150103.jpg/1280px-Kaohsiung_Main_Public_Library_20150103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaohsiung-main-public-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Hsin-Jen Hsu",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Main_Public_Library_20150103.jpg",
+    "file": "File:Kaohsiung Main Public Library 20150103.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kaohsiung_Main_Library_20141222a.jpg/1280px-Kaohsiung_Main_Library_20141222a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaohsiung-main-public-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "挪威 企鵝",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Main_Library_20141222a.jpg",
+    "file": "File:Kaohsiung Main Library 20141222a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Kaohsiung_Main_Library_20141222b.jpg/1280px-Kaohsiung_Main_Library_20141222b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaohsiung-main-public-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "挪威 企鵝",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Main_Library_20141222b.jpg",
+    "file": "File:Kaohsiung Main Library 20141222b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A7%80%E9%AB%98%E9%9B%84%E5%9C%96%E6%9B%B8%E9%A4%A8_%2827355587661%29.jpg/1280px-%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A7%80%E9%AB%98%E9%9B%84%E5%9C%96%E6%9B%B8%E9%A4%A8_%2827355587661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaohsiung-main-public-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "總統府",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A7%80%E9%AB%98%E9%9B%84%E5%9C%96%E6%9B%B8%E9%A4%A8_(27355587661).jpg",
+    "file": "File:總統參觀高雄圖書館 (27355587661).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A7%80%E9%AB%98%E9%9B%84%E5%9C%96%E6%9B%B8%E9%A4%A8_%2827393134666%29.jpg/1280px-%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A7%80%E9%AB%98%E9%9B%84%E5%9C%96%E6%9B%B8%E9%A4%A8_%2827393134666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kaohsiung-main-public-library/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "總統府",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%B8%BD%E7%B5%B1%E5%8F%83%E8%A7%80%E9%AB%98%E9%9B%84%E5%9C%96%E6%9B%B8%E9%A4%A8_(27393134666).jpg",
+    "file": "File:總統參觀高雄圖書館 (27393134666).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "rockbund-art-museum",
@@ -281325,7 +282659,83 @@ window.BUILDINGS = [
   "commons": "Category:Rockbund_Art_Museum",
   "lead": "File:RAM building.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/RAM_building.jpg/1280px-RAM_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockbund-art-museum/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rockbund Art Museum",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RAM_building.jpg",
+    "file": "File:RAM building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rockbund_Art_Museum%2C_Shanghai.JPG/1280px-Rockbund_Art_Museum%2C_Shanghai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockbund-art-museum/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Facade of the Rockbund Art Museum, Shanghai, China",
+    "credit": "Jpbowen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockbund_Art_Museum,_Shanghai.JPG",
+    "file": "File:Rockbund Art Museum, Shanghai.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Moderne_Redigieren.jpg/1280px-Moderne_Redigieren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockbund-art-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 989,
+    "kind": "Exterior",
+    "caption": "Exterior · Installation im Rockbund Art Museum (Shanghai) \"Moderne Redigieren\"",
+    "credit": "Andreas Mayer-Brennenstuhl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moderne_Redigieren.jpg",
+    "file": "File:Moderne Redigieren.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Nameplate_of_the_NCBRAS.jpg/1280px-Nameplate_of_the_NCBRAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockbund-art-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Legolas1024",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nameplate_of_the_NCBRAS.jpg",
+    "file": "File:Nameplate of the NCBRAS.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Inside_the_Rockbund_Art_Museum%2C_Shanghai.JPG/1280px-Inside_the_Rockbund_Art_Museum%2C_Shanghai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockbund-art-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside the Rockbund Art Museum, Shanghai, China",
+    "credit": "Jpbowen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Rockbund_Art_Museum,_Shanghai.JPG",
+    "file": "File:Inside the Rockbund Art Museum, Shanghai.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bagua_Window_of_the_NCBRAS.jpg/1280px-Bagua_Window_of_the_NCBRAS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockbund-art-museum/thumbs/5.webp",
+    "w": 979,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Legolas1024",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bagua_Window_of_the_NCBRAS.jpg",
+    "file": "File:Bagua Window of the NCBRAS.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "digital-beijing-building",
@@ -281349,7 +282759,59 @@ window.BUILDINGS = [
   "commons": "Category:Digital_Beijing_Building",
   "lead": "File:Digital Beijing Building 20160827.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Digital_Beijing_Building_20160827.jpg/1280px-Digital_Beijing_Building_20160827.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/digital-beijing-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Digital_Beijing_Building_20160827.jpg",
+    "file": "File:Digital Beijing Building 20160827.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Digital_Building%2C_Beijing.jpg/1280px-Digital_Building%2C_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/digital-beijing-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 886,
+    "kind": "Exterior",
+    "caption": "Exterior · Digital Building on Olynpic Green in Beijing , designed by Pei Zhu",
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Digital_Building,_Beijing.jpg",
+    "file": "File:Digital Building, Beijing.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%E6%95%B0%E5%AD%97%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%8E%A6.JPG/1280px-%E6%95%B0%E5%AD%97%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%8E%A6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/digital-beijing-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Side view of Digital Beijing Building , designed by Pei Zhu",
+    "credit": "Hat600",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%95%B0%E5%AD%97%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%8E%A6.JPG",
+    "file": "File:数字北京大厦.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Beijing_Chaoyang_-_Olympic_Village_IMG_5722_Digital_Beijing_building.jpg/1280px-Beijing_Chaoyang_-_Olympic_Village_IMG_5722_Digital_Beijing_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/digital-beijing-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Image from the Beijing Olympic Village, july 2017",
+    "credit": "Bjoertvedt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_Chaoyang_-_Olympic_Village_IMG_5722_Digital_Beijing_building.jpg",
+    "file": "File:Beijing Chaoyang - Olympic Village IMG 5722 Digital Beijing building.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "beijing-national-indoor-stadium",
@@ -281373,7 +282835,35 @@ window.BUILDINGS = [
   "commons": "Category:Beijing National Indoor Stadium",
   "lead": "File:Beijing National Indoor Stadium 2019 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Beijing_National_Indoor_Stadium_2019_2.jpg/1280px-Beijing_National_Indoor_Stadium_2019_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beijing-national-indoor-stadium/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_National_Indoor_Stadium_2019_2.jpg",
+    "file": "File:Beijing National Indoor Stadium 2019 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Beijing_National_Indoor_Stadium_2019_1.jpg/1280px-Beijing_National_Indoor_Stadium_2019_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beijing-national-indoor-stadium/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Beijing_National_Indoor_Stadium_2019_1.jpg",
+    "file": "File:Beijing National Indoor Stadium 2019 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chung-tai-chan-monastery",
@@ -281397,7 +282887,97 @@ window.BUILDINGS = [
   "commons": "Category:Chung_Tai_Chan_Monastery",
   "lead": "File:Remote view of the Chung Tai Chan Monastery 20190811.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Remote_view_of_the_Chung_Tai_Chan_Monastery_20190811.jpg/1280px-Remote_view_of_the_Chung_Tai_Chan_Monastery_20190811.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Marshall",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Remote_view_of_the_Chung_Tai_Chan_Monastery_20190811.jpg",
+    "file": "File:Remote view of the Chung Tai Chan Monastery 20190811.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E5%8F%B0%E6%B9%BE_%E4%B8%AD%E5%8F%B0%E7%A6%85%E5%AF%BA_-_panoramio_%281%29.jpg/1280px-%E5%8F%B0%E6%B9%BE_%E4%B8%AD%E5%8F%B0%E7%A6%85%E5%AF%BA_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nyx Ning",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E6%B9%BE_%E4%B8%AD%E5%8F%B0%E7%A6%85%E5%AF%BA_-_panoramio_(1).jpg",
+    "file": "File:台湾 中台禅寺 - panoramio (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Chung_Tai_Chan_Monastery_1F_entrance_20170819.jpg/1280px-Chung_Tai_Chan_Monastery_1F_entrance_20170819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Solomon203",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chung_Tai_Chan_Monastery_1F_entrance_20170819.jpg",
+    "file": "File:Chung Tai Chan Monastery 1F entrance 20170819.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Auspicious_Bell%2C_Chung_Tai_Chan_Monastery_20081008.jpg/1280px-Auspicious_Bell%2C_Chung_Tai_Chan_Monastery_20081008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/3.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Auspicious Bell, Chung Tai Chan Monastery",
+    "credit": "Ethan Chan H C",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auspicious_Bell,_Chung_Tai_Chan_Monastery_20081008.jpg",
+    "file": "File:Auspicious Bell, Chung Tai Chan Monastery 20081008.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8B%9C%E8%A8%AA%E4%B8%AD%E5%8F%B0%E7%A6%AA%E5%AF%BA%E6%83%9F%E8%A6%BA%E8%80%81%E5%92%8C%E5%B0%9A.jpg/1280px-%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8B%9C%E8%A8%AA%E4%B8%AD%E5%8F%B0%E7%A6%AA%E5%AF%BA%E6%83%9F%E8%A6%BA%E8%80%81%E5%92%8C%E5%B0%9A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · President Ma visits Grand Master Wei Chueh at Chung Tai Chan Monastery in Nantou County",
+    "credit": "總統府",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%A6%AC%E8%8B%B1%E4%B9%9D%E7%B8%BD%E7%B5%B1%E6%8B%9C%E8%A8%AA%E4%B8%AD%E5%8F%B0%E7%A6%AA%E5%AF%BA%E6%83%9F%E8%A6%BA%E8%80%81%E5%92%8C%E5%B0%9A.jpg",
+    "file": "File:馬英九總統拜訪中台禪寺惟覺老和尚.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Information_free_guide_board_at_Hall_of_the_Four_Heavenly_Kings%2C_Chung_Tai_Chan_Monastery_20170819.jpg/1280px-Information_free_guide_board_at_Hall_of_the_Four_Heavenly_Kings%2C_Chung_Tai_Chan_Monastery_20170819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Solomon203",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Information_free_guide_board_at_Hall_of_the_Four_Heavenly_Kings,_Chung_Tai_Chan_Monastery_20170819.jpg",
+    "file": "File:Information free guide board at Hall of the Four Heavenly Kings, Chung Tai Chan Monastery 20170819.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%8D%97%E6%8A%95%E3%80%82%E7%B1%B3%E7%94%B0%E8%B2%A2%E8%A7%80%E5%85%89%E5%9C%92%E5%8D%80_%2832457406525%29.jpg/1280px-%E5%8D%97%E6%8A%95%E3%80%82%E7%B1%B3%E7%94%B0%E8%B2%A2%E8%A7%80%E5%85%89%E5%9C%92%E5%8D%80_%2832457406525%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chung-tai-chan-monastery/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "fullfen666",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%8A%95%E3%80%82%E7%B1%B3%E7%94%B0%E8%B2%A2%E8%A7%80%E5%85%89%E5%9C%92%E5%8D%80_(32457406525).jpg",
+    "file": "File:南投。米田貢觀光園區 (32457406525).jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "tianjin-grand-theatre",
@@ -281421,7 +283001,83 @@ window.BUILDINGS = [
   "commons": "Category:Tianjin_Grand_Theatre",
   "lead": "File:China Tianjin 5227691.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/China_Tianjin_5227691.jpg/1280px-China_Tianjin_5227691.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tianjin-grand-theatre/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Concert hall in Tianjin",
+    "credit": "ermell",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:China_Tianjin_5227691.jpg",
+    "file": "File:China Tianjin 5227691.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%89%A7%E9%99%A2%E5%85%A8%E6%99%AF.jpg/1280px-%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%89%A7%E9%99%A2%E5%85%A8%E6%99%AF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tianjin-grand-theatre/thumbs/1.webp",
+    "w": 1280,
+    "h": 725,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "钱程",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%89%A7%E9%99%A2%E5%85%A8%E6%99%AF.jpg",
+    "file": "File:天津大剧院全景.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Tianjin_Grand_Theatre_2.jpg/1280px-Tianjin_Grand_Theatre_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tianjin-grand-theatre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "H2v5o68z",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tianjin_Grand_Theatre_2.jpg",
+    "file": "File:Tianjin Grand Theatre 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tianjin_Grand_Theatre_3.jpg/1280px-Tianjin_Grand_Theatre_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tianjin-grand-theatre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "H2v5o68z",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tianjin_Grand_Theatre_3.jpg",
+    "file": "File:Tianjin Grand Theatre 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Hexi%2C_Tianjin%2C_China_-_panoramio_%2858%29.jpg/1280px-Hexi%2C_Tianjin%2C_China_-_panoramio_%2858%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tianjin-grand-theatre/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Hexi, Tianjin, China",
+    "credit": "肖红军",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hexi,_Tianjin,_China_-_panoramio_(58).jpg",
+    "file": "File:Hexi, Tianjin, China - panoramio (58).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tianjin_Grand_Theater_Concert_Hall.jpg/1280px-Tianjin_Grand_Theater_Concert_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tianjin-grand-theatre/thumbs/5.webp",
+    "w": 1280,
+    "h": 797,
+    "kind": "Interior",
+    "caption": "Interior · Tianjin Grand Theater Concert Hall",
+    "credit": "北京驱动文化传媒有限公司",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tianjin_Grand_Theater_Concert_Hall.jpg",
+    "file": "File:Tianjin Grand Theater Concert Hall.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "taipei-guest-house",
@@ -281445,7 +283101,83 @@ window.BUILDINGS = [
   "commons": "Category:Taipei_Guest_House",
   "lead": "File:Taipei Guest House 20140926.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Taipei_Guest_House_20140926.jpg/1280px-Taipei_Guest_House_20140926.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taipei-guest-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "othree",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Guest_House_20140926.jpg",
+    "file": "File:Taipei Guest House 20140926.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Taipei_Guest_House_Front_Side.jpg/1280px-Taipei_Guest_House_Front_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taipei-guest-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "玄史生",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Guest_House_Front_Side.jpg",
+    "file": "File:Taipei Guest House Front Side.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Taipei_Guest_House_%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_-_panoramio_%284%29.jpg/1280px-Taipei_Guest_House_%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taipei-guest-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "lienyuan lee",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Guest_House_%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_-_panoramio_(4).jpg",
+    "file": "File:Taipei Guest House 台北賓館 - panoramio (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Taipei_Guest_House.jpg/1280px-Taipei_Guest_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taipei-guest-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Taiwan identified by the ID",
+    "credit": "Marek Śliwecki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Guest_House.jpg",
+    "file": "File:Taipei Guest House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_Taipei_Guest_House_-_panoramio_%2822%29.jpg/1280px-%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_Taipei_Guest_House_-_panoramio_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taipei-guest-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "lienyuan lee",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_Taipei_Guest_House_-_panoramio_(22).jpg",
+    "file": "File:台北賓館 Taipei Guest House - panoramio (22).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_Taipei_Guest_House_-_panoramio_%2825%29.jpg/1280px-%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_Taipei_Guest_House_-_panoramio_%2825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taipei-guest-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "lienyuan lee",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E5%8C%97%E8%B3%93%E9%A4%A8_Taipei_Guest_House_-_panoramio_(25).jpg",
+    "file": "File:台北賓館 Taipei Guest House - panoramio (25).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "guangdong-museum",
@@ -281469,7 +283201,83 @@ window.BUILDINGS = [
   "commons": "Category:Guangdong_Museum",
   "lead": "File:Guangdong Museum 20170915-4.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Guangdong_Museum_20170915-4.jpg/1280px-Guangdong_Museum_20170915-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangdong-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangdong_Museum_20170915-4.jpg",
+    "file": "File:Guangdong Museum 20170915-4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Guangzhou_Tianhe_Guangdong_Sheng_Bowuguan_2024-06-22_13.28.57.jpg/1280px-Guangzhou_Tianhe_Guangdong_Sheng_Bowuguan_2024-06-22_13.28.57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangdong-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "古海岸遗址",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangzhou_Tianhe_Guangdong_Sheng_Bowuguan_2024-06-22_13.28.57.jpg",
+    "file": "File:Guangzhou Tianhe Guangdong Sheng Bowuguan 2024-06-22 13.28.57.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Guangdong_Sheng_Bowuguan_2012.11.18_09-35-22.jpg/1280px-Guangdong_Sheng_Bowuguan_2012.11.18_09-35-22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangdong-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Zhangzhugang",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangdong_Sheng_Bowuguan_2012.11.18_09-35-22.jpg",
+    "file": "File:Guangdong Sheng Bowuguan 2012.11.18 09-35-22.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Guangdong_Sheng_Bowuguan_2012.11.18_09-35-49.jpg/1280px-Guangdong_Sheng_Bowuguan_2012.11.18_09-35-49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangdong-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Zhangzhugang",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangdong_Sheng_Bowuguan_2012.11.18_09-35-49.jpg",
+    "file": "File:Guangdong Sheng Bowuguan 2012.11.18 09-35-49.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Guangdong_Museum_-_1F_01.jpg/1280px-Guangdong_Museum_-_1F_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangdong-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Hall on the first floor of Guangdong Museum",
+    "credit": "XiaoGuoQuQ233",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guangdong_Museum_-_1F_01.jpg",
+    "file": "File:Guangdong Museum - 1F 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ocean_World_in_Guangdong_Museum.JPG/1280px-Ocean_World_in_Guangdong_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guangdong-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Interior",
+    "caption": "Interior · Ocean World in Guangdong Museum",
+    "credit": "Chiangdm",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ocean_World_in_Guangdong_Museum.JPG",
+    "file": "File:Ocean World in Guangdong Museum.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "presidential-office-building-taipei",
@@ -281493,7 +283301,83 @@ window.BUILDINGS = [
   "commons": "Category:Presidential_Building_(Taiwan)",
   "lead": "File:2008-12-29 Presidential Building (Taiwan).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2008-12-29_Presidential_Building_%28Taiwan%29.jpg/1280px-2008-12-29_Presidential_Building_%28Taiwan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/presidential-office-building-taipei/thumbs/0.webp",
+    "w": 1280,
+    "h": 667,
+    "kind": "Exterior",
+    "caption": "Exterior · The Taiwanese Presidential Office Building",
+    "credit": "LH Wong",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008-12-29_Presidential_Building_(Taiwan).jpg",
+    "file": "File:2008-12-29 Presidential Building (Taiwan).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Taipei_Taiwan_Presidential-Office-Building-03.jpg/1280px-Taipei_Taiwan_Presidential-Office-Building-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/presidential-office-building-taipei/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taipei, Taiwan: Presidential Office Building",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-03.jpg",
+    "file": "File:Taipei Taiwan Presidential-Office-Building-03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Taipei_Taiwan_Military-sound-truck-01.jpg/1280px-Taipei_Taiwan_Military-sound-truck-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/presidential-office-building-taipei/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taipei, Taiwan: Sound truck of the Republic of China Army next to the Presidential Office Building",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Military-sound-truck-01.jpg",
+    "file": "File:Taipei Taiwan Military-sound-truck-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Taipei_Taiwan_Presidential-Office-Building-01.jpg/1280px-Taipei_Taiwan_Presidential-Office-Building-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/presidential-office-building-taipei/thumbs/3.webp",
+    "w": 1280,
+    "h": 728,
+    "kind": "Exterior",
+    "caption": "Exterior · Taipei, Taiwan: Presidential Office Building",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Presidential-Office-Building-01.jpg",
+    "file": "File:Taipei Taiwan Presidential-Office-Building-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%E7%B8%BD%E7%B5%B1%E5%BA%9Ca.jpg/1280px-%E7%B8%BD%E7%B5%B1%E5%BA%9Ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/presidential-office-building-taipei/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Sdfery",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E7%B8%BD%E7%B5%B1%E5%BA%9Ca.jpg",
+    "file": "File:總統府a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/08.02_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E6%B3%95%E5%9C%8B%E5%9C%A8%E5%8F%B0%E5%8D%94%E6%9C%83%E4%B8%BB%E4%BB%BB%E5%85%AC%E5%AD%AB%E5%AD%9F%EF%BC%88%E5%8D%B8%E4%BB%BB%E8%BE%AD%E8%A1%8C%EF%BC%89_-_Flickr_id_53087254862.jpg/1280px-08.02_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E6%B3%95%E5%9C%8B%E5%9C%A8%E5%8F%B0%E5%8D%94%E6%9C%83%E4%B8%BB%E4%BB%BB%E5%85%AC%E5%AD%AB%E5%AD%9F%EF%BC%88%E5%8D%B8%E4%BB%BB%E8%BE%AD%E8%A1%8C%EF%BC%89_-_Flickr_id_53087254862.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/presidential-office-building-taipei/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Official Photo by Makoto Lin / Office of the President",
+    "credit": "Taiwan Presidential Office",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:08.02_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E6%B3%95%E5%9C%8B%E5%9C%A8%E5%8F%B0%E5%8D%94%E6%9C%83%E4%B8%BB%E4%BB%BB%E5%85%AC%E5%AD%AB%E5%AD%9F%EF%BC%88%E5%8D%B8%E4%BB%BB%E8%BE%AD%E8%A1%8C%EF%BC%89_-_Flickr_id_53087254862.jpg",
+    "file": "File:08.02 總統接見法國在台協會主任公孫孟（卸任辭行） - Flickr id 53087254862.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hainan-science-and-technology-museum",
@@ -281517,7 +283401,35 @@ window.BUILDINGS = [
   "commons": "Category:Hainan_Science_and_Technology_Museum",
   "lead": "File:Hainan Science and Technology Museum 04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Hainan_Science_and_Technology_Museum_04.jpg/1280px-Hainan_Science_and_Technology_Museum_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hainan-science-and-technology-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "STW932",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hainan_Science_and_Technology_Museum_04.jpg",
+    "file": "File:Hainan Science and Technology Museum 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Hainan_Science_and_Technology_Museum_2026_05_28_-_003.jpg/1280px-Hainan_Science_and_Technology_Museum_2026_05_28_-_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hainan-science-and-technology-museum/thumbs/1.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior core",
+    "credit": "Anna Frodesiak",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hainan_Science_and_Technology_Museum_2026_05_28_-_003.jpg",
+    "file": "File:Hainan Science and Technology Museum 2026 05 28 - 003.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shanghai-oriental-sports-center",
@@ -281541,7 +283453,83 @@ window.BUILDINGS = [
   "commons": "Category:Shanghai_Oriental_Sports_Center",
   "lead": "File:Shanghai Oriental Sports Center 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Shanghai_Oriental_Sports_Center_1.jpg/1280px-Shanghai_Oriental_Sports_Center_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-oriental-sports-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Sports_Center_1.jpg",
+    "file": "File:Shanghai Oriental Sports Center 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Shanghai_Oriental_Sports_Center_3.jpg/1280px-Shanghai_Oriental_Sports_Center_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-oriental-sports-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Sports_Center_3.jpg",
+    "file": "File:Shanghai Oriental Sports Center 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Oriental_Sports_Center_%26_Oriental_Sports_Center_Station.jpg/1280px-Oriental_Sports_Center_%26_Oriental_Sports_Center_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-oriental-sports-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Shanghai Oriental Sports Center & Oriental Sports Center Station",
+    "credit": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oriental_Sports_Center_%26_Oriental_Sports_Center_Station.jpg",
+    "file": "File:Oriental Sports Center & Oriental Sports Center Station.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Arc_Oriental_Sports_Center_%28Unsplash%29.jpg/1280px-Arc_Oriental_Sports_Center_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-oriental-sports-center/thumbs/3.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Oriental Sports Center, shanghai, China",
+    "credit": "Ren Ran  renran",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arc_Oriental_Sports_Center_(Unsplash).jpg",
+    "file": "File:Arc Oriental Sports Center (Unsplash).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Shanghai_Oriental_Sports_Center_Indoor_Arena.jpg/1280px-Shanghai_Oriental_Sports_Center_Indoor_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-oriental-sports-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Shanghai Oriental Sports Center Indoor Arena",
+    "credit": "Luodingyu",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Sports_Center_Indoor_Arena.jpg",
+    "file": "File:Shanghai Oriental Sports Center Indoor Arena.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Shanghai_Oriental_Sports_Center_Indoor_Arena_%28CHN%29.jpg/1280px-Shanghai_Oriental_Sports_Center_Indoor_Arena_%28CHN%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-oriental-sports-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 691,
+    "kind": "Detail",
+    "caption": "Detail · Shanghai Oriental Sports Center Indoor Arena",
+    "credit": "Luodingyu",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Oriental_Sports_Center_Indoor_Arena_(CHN).jpg",
+    "file": "File:Shanghai Oriental Sports Center Indoor Arena (CHN).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "red-house-theater-taipei",
@@ -281565,7 +283553,97 @@ window.BUILDINGS = [
   "commons": "Category:Red_House_Theater",
   "lead": "File:Taipei Taiwan Red-House-Theater-01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Taipei_Taiwan_Red-House-Theater-01.jpg/1280px-Taipei_Taiwan_Red-House-Theater-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taipei, Taiwan: Red House Theater",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Red-House-Theater-01.jpg",
+    "file": "File:Taipei Taiwan Red-House-Theater-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/A_fire_hydrant_with_graffiti_at_Ximen_Red_House_Theater.jpg/1280px-A_fire_hydrant_with_graffiti_at_Ximen_Red_House_Theater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Lokseng01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_fire_hydrant_with_graffiti_at_Ximen_Red_House_Theater.jpg",
+    "file": "File:A fire hydrant with graffiti at Ximen Red House Theater.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Bangkah_Taipei_-_Red_House_Theater_-_facade_%282025%29_-_img_09.jpg/1280px-Bangkah_Taipei_-_Red_House_Theater_-_facade_%282025%29_-_img_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Red House Theater, a historic landmark in Bangkah (Wanhua), Taipei",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangkah_Taipei_-_Red_House_Theater_-_facade_(2025)_-_img_09.jpg",
+    "file": "File:Bangkah Taipei - Red House Theater - facade (2025) - img 09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Taipei_Taiwan_Red-House-Theater-02.jpg/1280px-Taipei_Taiwan_Red-House-Theater-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/3.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Interior",
+    "caption": "Interior · Taipei, Taiwan: Red House Theater",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Red-House-Theater-02.jpg",
+    "file": "File:Taipei Taiwan Red-House-Theater-02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/In_a_public_toilet_at_Ximen_Red_House_Theater.jpg/1280px-In_a_public_toilet_at_Ximen_Red_House_Theater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Lokseng01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:In_a_public_toilet_at_Ximen_Red_House_Theater.jpg",
+    "file": "File:In a public toilet at Ximen Red House Theater.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/2019_the_doorpost_of_Red_House_Theater_top_view.jpg/1280px-2019_the_doorpost_of_Red_House_Theater_top_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · 2019 the doorpost of Red House Theater top view",
+    "credit": "Taiwankengo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019_the_doorpost_of_Red_House_Theater_top_view.jpg",
+    "file": "File:2019 the doorpost of Red House Theater top view.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lego_model_of_Red_House_Theater_20190813.jpg/1280px-Lego_model_of_Red_House_Theater_20190813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/red-house-theater-taipei/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "Hangz Leundra Rumma",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lego_model_of_Red_House_Theater_20190813.jpg",
+    "file": "File:Lego model of Red House Theater 20190813.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "bank-of-china-building-shanghai",
@@ -281589,7 +283667,83 @@ window.BUILDINGS = [
   "commons": "Category:Bank_of_China_Building,_Shanghai",
   "lead": "File:Bank of China Building, Shanghai 20250501.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Bank_of_China_Building%2C_Shanghai_20250501.jpg/1280px-Bank_of_China_Building%2C_Shanghai_20250501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bank-of-china-building-shanghai/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bank_of_China_Building,_Shanghai_20250501.jpg",
+    "file": "File:Bank of China Building, Shanghai 20250501.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Bank_of_China_Building_The_Bund.JPG/1280px-Bank_of_China_Building_The_Bund.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bank-of-china-building-shanghai/thumbs/1.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Livelikerw",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bank_of_China_Building_The_Bund.JPG",
+    "file": "File:Bank of China Building The Bund.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/DSC00363%E4%B8%8A%E6%B5%B7%E8%80%81%E5%BB%BA%E7%AD%91.jpg/1280px-DSC00363%E4%B8%8A%E6%B5%B7%E8%80%81%E5%BB%BA%E7%AD%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bank-of-china-building-shanghai/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ding Kezhong",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC00363%E4%B8%8A%E6%B5%B7%E8%80%81%E5%BB%BA%E7%AD%91.jpg",
+    "file": "File:DSC00363上海老建筑.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Bank_of_China_Building%2C_Shanghai_20250503.jpg/1280px-Bank_of_China_Building%2C_Shanghai_20250503.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bank-of-china-building-shanghai/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bank_of_China_Building,_Shanghai_20250503.jpg",
+    "file": "File:Bank of China Building, Shanghai 20250503.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Peace_Hotel_and_Bank_of_China_Building_Shanghai_at_night_20260417.jpg/1280px-Peace_Hotel_and_Bank_of_China_Building_Shanghai_at_night_20260417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bank-of-china-building-shanghai/thumbs/4.webp",
+    "w": 1105,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Photo of Peace Hotel and Bank of China Building, Shanghai at night taken on 17.04.2026 from Huangpu River",
+    "credit": "DvTor8303",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peace_Hotel_and_Bank_of_China_Building_Shanghai_at_night_20260417.jpg",
+    "file": "File:Peace Hotel and Bank of China Building Shanghai at night 20260417.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/East_Zhongshan_No._1_Road_Dianchi_Road.jpg/1280px-East_Zhongshan_No._1_Road_Dianchi_Road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bank-of-china-building-shanghai/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Windtrain",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:East_Zhongshan_No._1_Road_Dianchi_Road.jpg",
+    "file": "File:East Zhongshan No. 1 Road Dianchi Road.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sea-world-culture-and-arts-center",
@@ -281613,7 +283767,83 @@ window.BUILDINGS = [
   "commons": "Category:Sea_World_Culture_and_Arts_Center",
   "lead": "File:海上世界文化艺术中心 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_2.jpg/1280px-%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sea-world-culture-and-arts-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 925,
+    "kind": "Exterior",
+    "caption": "Exterior · Sea World Culture & Arts Center",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_2.jpg",
+    "file": "File:海上世界文化艺术中心 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%E8%A2%81%E5%BA%9A%E5%A1%91%E5%83%8F1.jpg/1280px-%E8%A2%81%E5%BA%9A%E5%A1%91%E5%83%8F1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sea-world-culture-and-arts-center/thumbs/1.webp",
+    "w": 1051,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Statue of Yuan Geng at Shekou Sea World in Shenzhen, Guangdong, China",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%A2%81%E5%BA%9A%E5%A1%91%E5%83%8F1.jpg",
+    "file": "File:袁庚塑像1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_1.jpg/1280px-%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sea-world-culture-and-arts-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 672,
+    "kind": "Exterior",
+    "caption": "Exterior · Sea World Culture & Arts Center",
+    "credit": "Mx. Granger",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E4%B8%8A%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_1.jpg",
+    "file": "File:海上世界文化艺术中心 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/SeaWorld%2C_Shekou_01.jpg/1280px-SeaWorld%2C_Shekou_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sea-world-culture-and-arts-center/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · SeaWorld Shekou",
+    "credit": "Thilsebatti",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SeaWorld,_Shekou_01.jpg",
+    "file": "File:SeaWorld, Shekou 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/SZ_Shenzhen_Nanshan_Sea_World_Cultural_and_Art_Center_roof_terrace_Horizon_Hall_exit_n_entrance_door_April_2025_R12S.jpg/1280px-SZ_Shenzhen_Nanshan_Sea_World_Cultural_and_Art_Center_roof_terrace_Horizon_Hall_exit_n_entrance_door_April_2025_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sea-world-culture-and-arts-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Hoai Chonag Fornai",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Sea_World_Cultural_and_Art_Center_roof_terrace_Horizon_Hall_exit_n_entrance_door_April_2025_R12S.jpg",
+    "file": "File:SZ Shenzhen Nanshan Sea World Cultural and Art Center roof terrace Horizon Hall exit n entrance door April 2025 R12S.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/SZ_Shenzhen_Nanshan_Shekou_1187_Wanghai_Road_Sea_World_Culture_and_Arts_Center_outdoor_statue_Yuan_Geng_April_2025_R12S_01.jpg/1280px-SZ_Shenzhen_Nanshan_Shekou_1187_Wanghai_Road_Sea_World_Culture_and_Arts_Center_outdoor_statue_Yuan_Geng_April_2025_R12S_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sea-world-culture-and-arts-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Hoai Chonag Fornai",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Shekou_1187_Wanghai_Road_Sea_World_Culture_and_Arts_Center_outdoor_statue_Yuan_Geng_April_2025_R12S_01.jpg",
+    "file": "File:SZ Shenzhen Nanshan Shekou 1187 Wanghai Road Sea World Culture and Arts Center outdoor statue Yuan Geng April 2025 R12S 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "jinwan-arts-center",
@@ -281637,7 +283867,71 @@ window.BUILDINGS = [
   "commons": "Category:Jinwan_Arts_Center",
   "lead": "File:Jinwan Arts Center.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Jinwan_Arts_Center.jpg/1280px-Jinwan_Arts_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jinwan-arts-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "E2568",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jinwan_Arts_Center.jpg",
+    "file": "File:Jinwan Arts Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%E9%87%91%E6%B9%BE%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_1.jpg/1280px-%E9%87%91%E6%B9%BE%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jinwan-arts-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "E2568",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B9%BE%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83_1.jpg",
+    "file": "File:金湾艺术中心 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/%E9%87%91%E6%B9%BE%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.jpg/1280px-%E9%87%91%E6%B9%BE%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jinwan-arts-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "E2568",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%87%91%E6%B9%BE%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83.jpg",
+    "file": "File:金湾艺术中心.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Jinwan_Arts_Center_dllu_01.jpg/1280px-Jinwan_Arts_Center_dllu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jinwan-arts-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 953,
+    "kind": "Context",
+    "caption": "Context · Night view of the exterior of the Jinwan Arts Center in Zhuhai",
+    "credit": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jinwan_Arts_Center_dllu_01.jpg",
+    "file": "File:Jinwan Arts Center dllu 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Jinwan_Arts_Center_dllu_02.jpg/1280px-Jinwan_Arts_Center_dllu_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jinwan-arts-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 893,
+    "kind": "Context",
+    "caption": "Context · Night view of the exterior of the Jinwan Arts Center in Zhuhai",
+    "credit": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jinwan_Arts_Center_dllu_02.jpg",
+    "file": "File:Jinwan Arts Center dllu 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "broadway-mansions-shanghai",
@@ -281661,7 +283955,83 @@ window.BUILDINGS = [
   "commons": "Category:Broadway_Mansions",
   "lead": "File:上海大厦2021.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%8E%A62021.jpg/1280px-%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%8E%A62021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/broadway-mansions-shanghai/thumbs/0.webp",
+    "w": 886,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Broadway Mansions, No.20 Beisuzhou Rd, Hongkou District, Shanghai",
+    "credit": "ScareCriterion12",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%8E%A62021.jpg",
+    "file": "File:上海大厦2021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/20112-Shanghai%2C_Broadway_Mansions.jpg/1280px-20112-Shanghai%2C_Broadway_Mansions.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/broadway-mansions-shanghai/thumbs/1.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Broadway Mansions in Shanghai, China",
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20112-Shanghai,_Broadway_Mansions.jpg",
+    "file": "File:20112-Shanghai, Broadway Mansions.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Waibaidu_Bridge_%284715910436%29.jpg/1280px-Waibaidu_Bridge_%284715910436%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/broadway-mansions-shanghai/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Built in 1906-07",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waibaidu_Bridge_(4715910436).jpg",
+    "file": "File:Waibaidu Bridge (4715910436).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Shanghai_Mansion.JPG/1280px-Shanghai_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/broadway-mansions-shanghai/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Livelikerw",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Mansion.JPG",
+    "file": "File:Shanghai Mansion.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Broadway_Mansions_Shanghai_%282024%29_-_img_01.jpg/1280px-Broadway_Mansions_Shanghai_%282024%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/broadway-mansions-shanghai/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Broadway Mansions, Shanghai at night",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Broadway_Mansions_Shanghai_(2024)_-_img_01.jpg",
+    "file": "File:Broadway Mansions Shanghai (2024) - img 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Broadway_Mansions_Shanghai_%282024%29_-_img_02.jpg/1280px-Broadway_Mansions_Shanghai_%282024%29_-_img_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/broadway-mansions-shanghai/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Broadway Mansions, Shanghai at night",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Broadway_Mansions_Shanghai_(2024)_-_img_02.jpg",
+    "file": "File:Broadway Mansions Shanghai (2024) - img 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shenzhen-cultural-center",
@@ -281685,7 +284055,83 @@ window.BUILDINGS = [
   "commons": "Category:Shenzhen_Concert_Hall",
   "lead": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (21).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/SHENZHEN_LIBRARY_%26_SHENZHEN_CONCERT_HALL_%2821%29.jpg/1280px-SHENZHEN_LIBRARY_%26_SHENZHEN_CONCERT_HALL_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shenzhen-cultural-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · SHENZHEN LIBRARY & SHENZHEN CONCERT HALL",
+    "credit": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SHENZHEN_LIBRARY_%26_SHENZHEN_CONCERT_HALL_(21).jpg",
+    "file": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (21).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/SHENZHEN_LIBRARY_%26_SHENZHEN_CONCERT_HALL_%2819%29.jpg/1280px-SHENZHEN_LIBRARY_%26_SHENZHEN_CONCERT_HALL_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shenzhen-cultural-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · SHENZHEN LIBRARY & SHENZHEN CONCERT HALL",
+    "credit": "Dinkun Chen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SHENZHEN_LIBRARY_%26_SHENZHEN_CONCERT_HALL_(19).jpg",
+    "file": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (19).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E9%B5%AC%E7%A8%8B%E4%B8%89%E8%B7%AF_Pengcheng_3rd_Road_Book_City_night_October_2023_R12S.jpg/1280px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E9%B5%AC%E7%A8%8B%E4%B8%89%E8%B7%AF_Pengcheng_3rd_Road_Book_City_night_October_2023_R12S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shenzhen-cultural-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Howhau 2339 yauiu Shainting",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E9%B5%AC%E7%A8%8B%E4%B8%89%E8%B7%AF_Pengcheng_3rd_Road_Book_City_night_October_2023_R12S.jpg",
+    "file": "File:SZ 深圳 Shenzhen Futian 市民中心 Civic Center 鵬程三路 Pengcheng 3rd Road Book City night October 2023 R12S.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E9%B5%AC%E7%A8%8B%E4%B8%89%E8%B7%AF_Pengcheng_3rd_Road_night_April_2023_Px3_01.jpg/1280px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E9%B5%AC%E7%A8%8B%E4%B8%89%E8%B7%AF_Pengcheng_3rd_Road_night_April_2023_Px3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shenzhen-cultural-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "BAIZEAKITOIU Mingdym",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E9%B5%AC%E7%A8%8B%E4%B8%89%E8%B7%AF_Pengcheng_3rd_Road_night_April_2023_Px3_01.jpg",
+    "file": "File:SZ 深圳 Shenzhen Futian 市民中心 Civic Center 鵬程三路 Pengcheng 3rd Road night April 2023 Px3 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Shenzhen_Concert_Hall_Foyer-20101231-RM-113445.jpg/1280px-Shenzhen_Concert_Hall_Foyer-20101231-RM-113445.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shenzhen-cultural-center/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Shenzhen Concert Hall - Interior",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shenzhen_Concert_Hall_Foyer-20101231-RM-113445.jpg",
+    "file": "File:Shenzhen Concert Hall Foyer-20101231-RM-113445.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Shenzhen_Concert_Hall_Foyer-20101231-RM-113458.jpg/1280px-Shenzhen_Concert_Hall_Foyer-20101231-RM-113458.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shenzhen-cultural-center/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Shenzhen Concert Hall - Interior",
+    "credit": "Reinhold Möller  Ermell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shenzhen_Concert_Hall_Foyer-20101231-RM-113458.jpg",
+    "file": "File:Shenzhen Concert Hall Foyer-20101231-RM-113458.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bug-dome",
@@ -281709,7 +284155,59 @@ window.BUILDINGS = [
   "commons": "Category:Bug_Dome_by_WEAK!",
   "lead": "File:Bug Dome by WEAK! in Shenzhen Marco Casagrande.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bug_Dome_by_WEAK%21_in_Shenzhen_Marco_Casagrande.jpg/1280px-Bug_Dome_by_WEAK%21_in_Shenzhen_Marco_Casagrande.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bug-dome/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Bug Dome by WEAK!",
+    "credit": "Mats Enqvist",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bug_Dome_by_WEAK!_in_Shenzhen_Marco_Casagrande.jpg",
+    "file": "File:Bug Dome by WEAK! in Shenzhen Marco Casagrande.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bug_Dome_by_WEAK%21.jpg/1280px-Bug_Dome_by_WEAK%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bug-dome/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bug Dome by the WEAK!",
+    "credit": "Movez",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bug_Dome_by_WEAK!.jpg",
+    "file": "File:Bug Dome by WEAK!.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bug_Dome_by_WEAK%21_in_Shenzhen.jpg/1280px-Bug_Dome_by_WEAK%21_in_Shenzhen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bug-dome/thumbs/2.webp",
+    "w": 1280,
+    "h": 796,
+    "kind": "Exterior",
+    "caption": "Exterior · Bug Dome by WEAK!",
+    "credit": "Movez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bug_Dome_by_WEAK!_in_Shenzhen.jpg",
+    "file": "File:Bug Dome by WEAK! in Shenzhen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bug_Dome_by_WEAK_architects%21.jpg/1280px-Bug_Dome_by_WEAK_architects%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bug-dome/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Bug Dome in 2009 Shenzhen & Hong Kong Biennale of Urbanism/Architecture",
+    "credit": "Mats Enqvist",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bug_Dome_by_WEAK_architects!.jpg",
+    "file": "File:Bug Dome by WEAK architects!.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "yuz-museum-shanghai",
@@ -281733,7 +284231,47 @@ window.BUILDINGS = [
   "commons": "Category:Yuz_Museum",
   "lead": "File:Yudeyao Meishuguan.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yudeyao_Meishuguan.JPG/1280px-Yudeyao_Meishuguan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yuz-museum-shanghai/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fayhoo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yudeyao_Meishuguan.JPG",
+    "file": "File:Yudeyao Meishuguan.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Image_about_Will-We_Must_in_Yuz_museum.jpg/1280px-Image_about_Will-We_Must_in_Yuz_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yuz-museum-shanghai/thumbs/1.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · image about Will/We Must",
+    "credit": "Ciikoa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Image_about_Will-We_Must_in_Yuz_museum.jpg",
+    "file": "File:Image about Will-We Must in Yuz museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Yuz_Museum_appearance%2C_shot_in_August_2017_in_Shanghai.jpg/1280px-Yuz_Museum_appearance%2C_shot_in_August_2017_in_Shanghai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yuz-museum-shanghai/thumbs/2.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Yuz museum appearance from outside shot in August 2017 in Shanghai",
+    "credit": "Ciikoa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yuz_Museum_appearance,_shot_in_August_2017_in_Shanghai.jpg",
+    "file": "File:Yuz Museum appearance, shot in August 2017 in Shanghai.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "museum-of-the-communist-party-of-china",
@@ -281757,7 +284295,83 @@ window.BUILDINGS = [
   "commons": "Category:Museum_of_the_Communist_Party_of_China",
   "lead": "File:Museum of the Communist Party of China (20211123140738).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Museum_of_the_Communist_Party_of_China_%2820211123140738%29.jpg/1280px-Museum_of_the_Communist_Party_of_China_%2820211123140738%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-the-communist-party-of-china/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hope to visit someday",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Communist_Party_of_China_(20211123140738).jpg",
+    "file": "File:Museum of the Communist Party of China (20211123140738).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Mohamed_Muizzu_and_Sajidha_Mohamed_visits_the_Museum_of_the_Chinese_Communist_Party_%281%29.jpg/1280px-Mohamed_Muizzu_and_Sajidha_Mohamed_visits_the_Museum_of_the_Chinese_Communist_Party_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-the-communist-party-of-china/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Mohamed Muizzu and Sajidha Mohamed visits the Museum of the Chinese Communist Party",
+    "credit": "The President's Office, Maldives",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Muizzu_and_Sajidha_Mohamed_visits_the_Museum_of_the_Chinese_Communist_Party_(1).jpg",
+    "file": "File:Mohamed Muizzu and Sajidha Mohamed visits the Museum of the Chinese Communist Party (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohamed_Muizzu_and_Sajidha_Mohamed_visits_the_Museum_of_the_Chinese_Communist_Party_%2812%29.jpg/1280px-Mohamed_Muizzu_and_Sajidha_Mohamed_visits_the_Museum_of_the_Chinese_Communist_Party_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-the-communist-party-of-china/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Mohamed Muizzu and Sajidha Mohamed visits the Museum of the Chinese Communist Party",
+    "credit": "The President's Office, Maldives",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Muizzu_and_Sajidha_Mohamed_visits_the_Museum_of_the_Chinese_Communist_Party_(12).jpg",
+    "file": "File:Mohamed Muizzu and Sajidha Mohamed visits the Museum of the Chinese Communist Party (12).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/20240810_150218_Beijing.jpg/1280px-20240810_150218_Beijing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-the-communist-party-of-china/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Peking",
+    "credit": "J. Patrick Fischer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20240810_150218_Beijing.jpg",
+    "file": "File:20240810 150218 Beijing.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Entrance_hall_of_MCPC_%2820220911130621%29.jpg/1280px-Entrance_hall_of_MCPC_%2820220911130621%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-the-communist-party-of-china/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Entrance from north, exit from south",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_hall_of_MCPC_(20220911130621).jpg",
+    "file": "File:Entrance hall of MCPC (20220911130621).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Theme_post_office_at_MCPC_3F_Hall_8_%2820240620103946%29.jpg/1280px-Theme_post_office_at_MCPC_3F_Hall_8_%2820240620103946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-the-communist-party-of-china/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Postal code 100100 (exclusive here), although only offers ordinary stamps (0.80 per stamp)",
+    "credit": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Theme_post_office_at_MCPC_3F_Hall_8_(20240620103946).jpg",
+    "file": "File:Theme post office at MCPC 3F Hall 8 (20240620103946).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mercedes-benz-arena-shanghai",
@@ -281781,7 +284395,83 @@ window.BUILDINGS = [
   "commons": "Category:Mercedes-Benz_Arena_(Shanghai)",
   "lead": "File:Expo Culture Center (4633171163).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Expo_Culture_Center_%284633171163%29.jpg/1280px-Expo_Culture_Center_%284633171163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercedes-benz-arena-shanghai/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Expo 2010",
+    "credit": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Expo_Culture_Center_(4633171163).jpg",
+    "file": "File:Expo Culture Center (4633171163).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mercedes-Benz_Arena%2C_2026-10-05_1.jpg/1280px-Mercedes-Benz_Arena%2C_2026-10-05_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercedes-benz-arena-shanghai/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Perimeter Chou",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Arena,_2026-10-05_1.jpg",
+    "file": "File:Mercedes-Benz Arena, 2026-10-05 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Mercedes-Benz_Arena%2C_2026-10-05_2.jpg/1280px-Mercedes-Benz_Arena%2C_2026-10-05_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercedes-benz-arena-shanghai/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Perimeter Chou",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Arena,_2026-10-05_2.jpg",
+    "file": "File:Mercedes-Benz Arena, 2026-10-05 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mercedes-Benz_Arena%2C_Aug_10_2023.jpg/1280px-Mercedes-Benz_Arena%2C_Aug_10_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercedes-benz-arena-shanghai/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Mercedes-Benz Arena, Aug 10 2023",
+    "credit": "A Chinese ID",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Arena,_Aug_10_2023.jpg",
+    "file": "File:Mercedes-Benz Arena, Aug 10 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MyGO%21%21%21%21%21%C3%97Ave_Mujica_%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96%E3%80%8C%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE%E3%80%81%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8%E3%80%8D%E4%B8%8A%E6%B5%B7%E8%BF%BD%E5%8A%A0%E5%85%AC%E6%BC%94_%2820251012175327%29.jpg/1280px-MyGO%21%21%21%21%21%C3%97Ave_Mujica_%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96%E3%80%8C%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE%E3%80%81%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8%E3%80%8D%E4%B8%8A%E6%B5%B7%E8%BF%BD%E5%8A%A0%E5%85%AC%E6%BC%94_%2820251012175327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercedes-benz-arena-shanghai/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Mercedes-Benz Arena, Shanghai",
+    "credit": "小哭败",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MyGO!!!!!%C3%97Ave_Mujica_%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96%E3%80%8C%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE%E3%80%81%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8%E3%80%8D%E4%B8%8A%E6%B5%B7%E8%BF%BD%E5%8A%A0%E5%85%AC%E6%BC%94_(20251012175327).jpg",
+    "file": "File:MyGO!!!!!×Ave Mujica 合同ライブ「わかれ道の、その先へ」上海追加公演 (20251012175327).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Interior_of_Mercedes-Benz_Arena%2C_Shanghai.JPG/1280px-Interior_of_Mercedes-Benz_Arena%2C_Shanghai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercedes-benz-arena-shanghai/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Mercedes-Benz Arena, Shanghai",
+    "credit": "SSYoung",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Mercedes-Benz_Arena,_Shanghai.JPG",
+    "file": "File:Interior of Mercedes-Benz Arena, Shanghai.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chengdu-museum",
@@ -281805,7 +284495,83 @@ window.BUILDINGS = [
   "commons": "Category:Chengdu_Museum",
   "lead": "File:成都博物馆正门.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E6%AD%A3%E9%97%A8.jpg/1280px-%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E6%AD%A3%E9%97%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chengdu-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Chengdu Museum entrance",
+    "credit": "来斤小仓鼠吧",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E6%AD%A3%E9%97%A8.jpg",
+    "file": "File:成都博物馆正门.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Chengdu_Museum_20260513-1.jpg/1280px-Chengdu_Museum_20260513-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chengdu-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chengdu_Museum_20260513-1.jpg",
+    "file": "File:Chengdu Museum 20260513-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86.jpg/1280px-%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chengdu-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "德阳名车",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+    "file": "File:成都博物馆.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%E9%9D%92%E7%BE%8A_%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86_01.jpg/1280px-%E9%9D%92%E7%BE%8A_%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chengdu-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Liuxingy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E7%BE%8A_%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86_01.jpg",
+    "file": "File:青羊 成都博物馆 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%E6%88%90%E9%83%BD%E5%8F%A4%E8%9C%80%E8%88%B9%E6%A3%BA%E5%90%88%E8%91%AC%E5%A2%93-%E6%BC%86%E5%99%A8-%E6%88%98%E5%9B%BD-%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86.jpg/1280px-%E6%88%90%E9%83%BD%E5%8F%A4%E8%9C%80%E8%88%B9%E6%A3%BA%E5%90%88%E8%91%AC%E5%A2%93-%E6%BC%86%E5%99%A8-%E6%88%98%E5%9B%BD-%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chengdu-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Kcx36",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%88%90%E9%83%BD%E5%8F%A4%E8%9C%80%E8%88%B9%E6%A3%BA%E5%90%88%E8%91%AC%E5%A2%93-%E6%BC%86%E5%99%A8-%E6%88%98%E5%9B%BD-%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86.jpg",
+    "file": "File:成都古蜀船棺合葬墓-漆器-战国-成都博物馆.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/20250515_Large_stone_rhinoceros_sculpture_in_the_Chengdu_Museum.jpg/1280px-20250515_Large_stone_rhinoceros_sculpture_in_the_Chengdu_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chengdu-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Large stone rhinoceros sculpture in the Chengdu Museum",
+    "credit": "Yumeto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20250515_Large_stone_rhinoceros_sculpture_in_the_Chengdu_Museum.jpg",
+    "file": "File:20250515 Large stone rhinoceros sculpture in the Chengdu Museum.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "olympic-park-observation-tower",
@@ -281829,7 +284595,83 @@ window.BUILDINGS = [
   "commons": "Category:Olympic_Park_Observation_Tower",
   "lead": "File:20200109 Beijing Olympic Tower-1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/20200109_Beijing_Olympic_Tower-1.jpg/1280px-20200109_Beijing_Olympic_Tower-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-park-observation-tower/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Ground-level view of the Olympic Park Observation Tower in Beijing",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20200109_Beijing_Olympic_Tower-1.jpg",
+    "file": "File:20200109 Beijing Olympic Tower-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/20200109_Beijing_Olympic_Ta.jpg/1280px-20200109_Beijing_Olympic_Ta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-park-observation-tower/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Beijing Olympic Tower",
+    "credit": "Yumeto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20200109_Beijing_Olympic_Ta.jpg",
+    "file": "File:20200109 Beijing Olympic Ta.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/20200109_Beijing_Olympic_Tower-2.jpg/1280px-20200109_Beijing_Olympic_Tower-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-park-observation-tower/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Ground-level view of the Olympic Park Observation Tower in Beijing",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20200109_Beijing_Olympic_Tower-2.jpg",
+    "file": "File:20200109 Beijing Olympic Tower-2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Flowers_and_Tower_-_panoramio.jpg/1280px-Flowers_and_Tower_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-park-observation-tower/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Flowers and Tower",
+    "credit": "Weixi Zeng",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flowers_and_Tower_-_panoramio.jpg",
+    "file": "File:Flowers and Tower - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Observation_Tower_between_ceilings_-_panoramio.jpg/1280px-Observation_Tower_between_ceilings_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-park-observation-tower/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Observation Tower between ceilings",
+    "credit": "Weixi Zeng",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Observation_Tower_between_ceilings_-_panoramio.jpg",
+    "file": "File:Observation Tower between ceilings - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%E7%9E%AD%E6%9C%9B%E5%A1%94_Beijing_Olympic_Park_Observation_Tower_%D0%9E%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D0%B2_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_%288517693125%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/olympic-park-observation-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · as seen from CCTV tower",
+    "credit": "Nikolaj Potanin  from Russia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD%E7%9E%AD%E6%9C%9B%E5%A1%94_Beijing_Olympic_Park_Observation_Tower_%D0%9E%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%88%D0%BD%D1%8F_%D0%B2_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_(8517693125).jpg",
+    "file": "File:奥林匹克森林公园瞭望塔 Beijing Olympic Park Observation Tower Обозревательная башня в Пекинском олимпийском парке (8517693125).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shanghai-library-east",
@@ -281853,7 +284695,59 @@ window.BUILDINGS = [
   "commons": "Category:Shanghai_Library_East_Hall",
   "lead": "File:Shanghai Library East-Exterior East-20250506.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Shanghai_Library_East-Exterior_East-20250506.jpg/1280px-Shanghai_Library_East-Exterior_East-20250506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-library-east/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "纳瓦拉的亨利",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Library_East-Exterior_East-20250506.jpg",
+    "file": "File:Shanghai Library East-Exterior East-20250506.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Shanghai_Library_East_Hall_under_construction%2C_17_Jul_2019_01.jpg/1280px-Shanghai_Library_East_Hall_under_construction%2C_17_Jul_2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-library-east/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "WQL",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Library_East_Hall_under_construction,_17_Jul_2019_01.jpg",
+    "file": "File:Shanghai Library East Hall under construction, 17 Jul 2019 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Shanghai_Library_East_Hall_under_construction%2C_17_Jul_2019_02.jpg/1280px-Shanghai_Library_East_Hall_under_construction%2C_17_Jul_2019_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-library-east/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "WQL",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Library_East_Hall_under_construction,_17_Jul_2019_02.jpg",
+    "file": "File:Shanghai Library East Hall under construction, 17 Jul 2019 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Shanghai_Library_East_Hall_Atrium.jpg/1280px-Shanghai_Library_East_Hall_Atrium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shanghai-library-east/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Shanghai Library East Hall, with floor art by Shen Fan",
+    "credit": "NMaia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_Library_East_Hall_Atrium.jpg",
+    "file": "File:Shanghai Library East Hall Atrium.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tainan-main-public-library",
@@ -281877,7 +284771,83 @@ window.BUILDINGS = [
   "commons": "Category:Tainan_Main_Public_Library",
   "lead": "File:Tainan Main Public Library 20220621 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Tainan_Main_Public_Library_20220621_01.jpg/1280px-Tainan_Main_Public_Library_20220621_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-main-public-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Foxy1219",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tainan_Main_Public_Library_20220621_01.jpg",
+    "file": "File:Tainan Main Public Library 20220621 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Tainan_Main_Public_Library_20220621_02.jpg/1280px-Tainan_Main_Public_Library_20220621_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-main-public-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Foxy1219",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tainan_Main_Public_Library_20220621_02.jpg",
+    "file": "File:Tainan Main Public Library 20220621 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B8%BD%E9%A4%A8B1.jpg/1280px-%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B8%BD%E9%A4%A8B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-main-public-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Pbdragonwang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B8%BD%E9%A4%A8B1.jpg",
+    "file": "File:臺南市立圖書館總館B1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B8%BD%E9%A4%A8%E5%85%A5%E5%8F%A3.jpg/1280px-%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B8%BD%E9%A4%A8%E5%85%A5%E5%8F%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-main-public-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Pbdragonwang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%8D%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E7%B8%BD%E9%A4%A8%E5%85%A5%E5%8F%A3.jpg",
+    "file": "File:臺南市立圖書館總館入口.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Seminar_schedule_on_the_video_wall_at_the_Conference_Hall%2C_Tainan_Main_Public_Library_20220618.jpg/1280px-Seminar_schedule_on_the_video_wall_at_the_Conference_Hall%2C_Tainan_Main_Public_Library_20220618.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-main-public-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Solomon203",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seminar_schedule_on_the_video_wall_at_the_Conference_Hall,_Tainan_Main_Public_Library_20220618.jpg",
+    "file": "File:Seminar schedule on the video wall at the Conference Hall, Tainan Main Public Library 20220618.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Front_Door%2C_Conference_Hall%2C_Tainan_Main_Public_Library_20220618.jpg/1280px-Front_Door%2C_Conference_Hall%2C_Tainan_Main_Public_Library_20220618.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tainan-main-public-library/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Solomon203",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_Door,_Conference_Hall,_Tainan_Main_Public_Library_20220618.jpg",
+    "file": "File:Front Door, Conference Hall, Tainan Main Public Library 20220618.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "national-theater-and-concert-hall-taipei",
@@ -281901,7 +284871,83 @@ window.BUILDINGS = [
   "commons": "Category:National_Theater_and_Concert_Hall,_Republic_of_China",
   "lead": "File:National Theater and Concert Hall and Guanghua Pond 20210712.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/National_Theater_and_Concert_Hall_and_Guanghua_Pond_20210712.jpg/1280px-National_Theater_and_Concert_Hall_and_Guanghua_Pond_20210712.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-theater-and-concert-hall-taipei/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · National Theater, National Concert Hall and Guanghua Pond",
+    "credit": "Ken Marshall",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theater_and_Concert_Hall_and_Guanghua_Pond_20210712.jpg",
+    "file": "File:National Theater and Concert Hall and Guanghua Pond 20210712.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/National_Theater%2C_National_Concert_Hall_and_Guanghua_Pond_20100722.jpg/1280px-National_Theater%2C_National_Concert_Hall_and_Guanghua_Pond_20100722.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-theater-and-concert-hall-taipei/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · National Theater, National Concert Hall and Guanghua Pond",
+    "credit": "Lord Koxinga",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theater,_National_Concert_Hall_and_Guanghua_Pond_20100722.jpg",
+    "file": "File:National Theater, National Concert Hall and Guanghua Pond 20100722.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7293.jpg/1280px-Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-theater-and-concert-hall-taipei/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fred Hsu  on  en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taiwan_2009_Taipei_National_Theater_at_Chian_Kai_Shek_Cultural_Center_FRD_7293.jpg",
+    "file": "File:Taiwan 2009 Taipei National Theater at Chian Kai Shek Cultural Center FRD 7293.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/National_Theater_%28Republic_of_China%29_01.jpg/1280px-National_Theater_%28Republic_of_China%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-theater-and-concert-hall-taipei/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · National Theater,Taipei,ROC",
+    "credit": "Emcc83",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theater_(Republic_of_China)_01.jpg",
+    "file": "File:National Theater (Republic of China) 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/National_Theater_%28Republic_of_China%29_03.jpg/1280px-National_Theater_%28Republic_of_China%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-theater-and-concert-hall-taipei/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · National Theater,Taipei,ROC",
+    "credit": "Emcc83",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Theater_(Republic_of_China)_03.jpg",
+    "file": "File:National Theater (Republic of China) 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Juxtaposition_at_the_National_Theater_Hall_of_the_Republic_of_China.jpg/1280px-Juxtaposition_at_the_National_Theater_Hall_of_the_Republic_of_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-theater-and-concert-hall-taipei/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Benlisquare",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juxtaposition_at_the_National_Theater_Hall_of_the_Republic_of_China.jpg",
+    "file": "File:Juxtaposition at the National Theater Hall of the Republic of China.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sullivan-center-chicago",
@@ -281925,7 +284971,83 @@ window.BUILDINGS = [
   "commons": "Category:Sullivan Center",
   "lead": "File:Carson Prie Scott and Company Store Building (Sullivan Center), State Street and Madison Street, Chicago, IL (52901652873).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Carson_Prie_Scott_and_Company_Store_Building_%28Sullivan_Center%29%2C_State_Street_and_Madison_Street%2C_Chicago%2C_IL_%2852901652873%29.jpg/1280px-Carson_Prie_Scott_and_Company_Store_Building_%28Sullivan_Center%29%2C_State_Street_and_Madison_Street%2C_Chicago%2C_IL_%2852901652873%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sullivan-center-chicago/thumbs/0.webp",
+    "w": 1280,
+    "h": 1067,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Warren LeMay  from Covington, KY, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carson_Prie_Scott_and_Company_Store_Building_(Sullivan_Center),_State_Street_and_Madison_Street,_Chicago,_IL_(52901652873).jpg",
+    "file": "File:Carson Prie Scott and Company Store Building (Sullivan Center), State Street and Madison Street, Chicago, IL (52901652873).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Carson%2C_Pirie%2C_Scott_and_Company_Building_%287364438406%29.jpg/1280px-Carson%2C_Pirie%2C_Scott_and_Company_Building_%287364438406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sullivan-center-chicago/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · The Carson, Pirie, Scott and Company Building in Chicago (1904)",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carson,_Pirie,_Scott_and_Company_Building_(7364438406).jpg",
+    "file": "File:Carson, Pirie, Scott and Company Building (7364438406).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Carson%2C_Pirie%2C_Scott_and_Company_Building_%28Sullivan_Center%29%2C_Chicago%2C_Illinois_%289179422705%29.jpg/1280px-Carson%2C_Pirie%2C_Scott_and_Company_Building_%28Sullivan_Center%29%2C_Chicago%2C_Illinois_%289179422705%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sullivan-center-chicago/thumbs/2.webp",
+    "w": 1280,
+    "h": 1206,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carson,_Pirie,_Scott_and_Company_Building_(Sullivan_Center),_Chicago,_Illinois_(9179422705).jpg",
+    "file": "File:Carson, Pirie, Scott and Company Building (Sullivan Center), Chicago, Illinois (9179422705).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Louis_H._Sullivan_-_Carson%2C_Pirie%2C_Scott_%26_Co._Store%2C_Chicago%2C_IL.jpg/1280px-Louis_H._Sullivan_-_Carson%2C_Pirie%2C_Scott_%26_Co._Store%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sullivan-center-chicago/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by architect Louis H",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_H._Sullivan_-_Carson,_Pirie,_Scott_%26_Co._Store,_Chicago,_IL.jpg",
+    "file": "File:Louis H. Sullivan - Carson, Pirie, Scott & Co. Store, Chicago, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Louis_H._Sullivan_-_Carson%2C_Pirie%2C_Scott_%26_Company_Store%2C_Chicago%2C_IL.jpg/1280px-Louis_H._Sullivan_-_Carson%2C_Pirie%2C_Scott_%26_Company_Store%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sullivan-center-chicago/thumbs/4.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by architect Louis H",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_H._Sullivan_-_Carson,_Pirie,_Scott_%26_Company_Store,_Chicago,_IL.jpg",
+    "file": "File:Louis H. Sullivan - Carson, Pirie, Scott & Company Store, Chicago, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Screen_from_the_Schlesinger_and_Mayer_Store_%28later_Carson_Pirie_Scott%29%2C_by_George_Grant_Elmslie_or_Louis_Henri_Sullivan%2C_c._1898%2C_wood%2C_mahogany_veneer_-_Chazen_Museum_of_Art_-_DSC02454.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sullivan-center-chicago/thumbs/5.webp",
+    "w": 1280,
+    "h": 1276,
+    "kind": "Exterior",
+    "caption": "Exterior · Exhibit in the Chazen Museum of Art, University of Wisconsin-Madison, Madison, Wisconsin, USA",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Screen_from_the_Schlesinger_and_Mayer_Store_(later_Carson_Pirie_Scott),_by_George_Grant_Elmslie_or_Louis_Henri_Sullivan,_c._1898,_wood,_mahogany_veneer_-_Chazen_Museum_of_Art_-_DSC02454.JPG",
+    "file": "File:Screen from the Schlesinger and Mayer Store (later Carson Pirie Scott), by George Grant Elmslie or Louis Henri Sullivan, c. 1898, wood, mahogany veneer - Chazen Museum of Art - DSC02454.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "auditorium-building-chicago",
@@ -281949,7 +285071,73 @@ window.BUILDINGS = [
   "commons": "Category:Auditorium Building, Chicago",
   "lead": "File:Auditorium Building - Chicago (51574885313).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Auditorium_Building_-_Chicago_%2851574885313%29.jpg/1280px-Auditorium_Building_-_Chicago_%2851574885313%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-building-chicago/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Auditorium Building - Chicago",
+    "credit": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium_Building_-_Chicago_(51574885313).jpg",
+    "file": "File:Auditorium Building - Chicago (51574885313).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Auditorium_Building%2C_Michigan_Avenue%2C_Chicago%2C_IL.jpg/1280px-Auditorium_Building%2C_Michigan_Avenue%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-building-chicago/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Auditorium Building, Michigan Avenue, Chicago, IL",
+    "credit": "Warren LeMay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium_Building,_Michigan_Avenue,_Chicago,_IL.jpg",
+    "file": "File:Auditorium Building, Michigan Avenue, Chicago, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Auditorium_Building_Chicago_June_30%2C_2012-92.jpg/1280px-Auditorium_Building_Chicago_June_30%2C_2012-92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-building-chicago/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Auditorium Building, Roosevelt University",
+    "credit": "Victorgrigas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium_Building_Chicago_June_30,_2012-92.jpg",
+    "file": "File:Auditorium Building Chicago June 30, 2012-92.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Auditorium_Building%2C_430_South_Michigan_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C39-_%28sheet_1_of_1%29.png/1280px-Auditorium_Building%2C_430_South_Michigan_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C39-_%28sheet_1_of_1%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-building-chicago/thumbs/3.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Related names:\n \n  Roosevelt College (University); Auditorium Theater Council; Chicago Musical Colle",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium_Building,_430_South_Michigan_Avenue,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,39-_(sheet_1_of_1).png",
+    "file": "File:Auditorium Building, 430 South Michigan Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,39- (sheet 1 of 1).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Auditorium_Building.JPG/1280px-Auditorium_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-building-chicago/thumbs/4.webp",
+    "w": 1098,
+    "h": 1400,
+    "kind": "Elevation",
+    "caption": "Elevation · Auditorium Building, Chicago ",
+    "credit": "Kasprzyk, Mark, delineator.  Library of Congress ,  Historic American Buildings Survey  /  Historic ",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium_Building.JPG",
+    "file": "File:Auditorium Building.JPG"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "monadnock-building",
@@ -281973,7 +285161,136 @@ window.BUILDINGS = [
   "commons": "Category:Monadnock Building, Chicago",
   "lead": "File:Monadnock.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Monadnock.jpg/1280px-Monadnock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monadnock-building/thumbs/0.webp",
+    "w": 910,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "David K. Staub",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock.jpg",
+    "file": "File:Monadnock.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Monadnock_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289181557788%29.jpg/1280px-Monadnock_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289181557788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monadnock-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock_Building,_Chicago_Loop,_Chicago,_Illinois_(9181557788).jpg",
+    "file": "File:Monadnock Building, Chicago Loop, Chicago, Illinois (9181557788).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Monadnock_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289179343149%29.jpg/1280px-Monadnock_Building%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289179343149%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monadnock-building/thumbs/2.webp",
+    "w": 1055,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock_Building,_Chicago_Loop,_Chicago,_Illinois_(9179343149).jpg",
+    "file": "File:Monadnock Building, Chicago Loop, Chicago, Illinois (9179343149).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Cold_day%2C_warm_Intelligentsia.jpg/1280px-Cold_day%2C_warm_Intelligentsia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monadnock-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Chad K",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cold_day,_warm_Intelligentsia.jpg",
+    "file": "File:Cold day, warm Intelligentsia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Frank%27s_by_night.jpg/1280px-Frank%27s_by_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monadnock-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Chad K",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank%27s_by_night.jpg",
+    "file": "File:Frank's by night.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Monadnock_Lobby_crop.jpg/1280px-Monadnock_Lobby_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/monadnock-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 1025,
+    "kind": "Interior",
+    "caption": "Interior · {{w:Monadnock Building|Monadnock Building}}, 53 West Jackson Boulevard, Chicago, Cook County, IL",
+    "credit": "Nasty Housecat",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock_Lobby_crop.jpg",
+    "file": "File:Monadnock Lobby crop.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Monadnock_Detail_of_South_Corridor.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/monadnock-building/thumbs/6.webp",
+    "w": 1054,
+    "h": 430,
+    "kind": "Plan",
+    "caption": "Plan · This file was uploaded with Commonist ",
+    "credit": "National Park Service, US Department of the Interior",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock_Detail_of_South_Corridor.JPG",
+    "file": "File:Monadnock Detail of South Corridor.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Monadnock_Building_Cross_Section.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/monadnock-building/thumbs/7.webp",
+    "w": 1046,
+    "h": 316,
+    "kind": "Section",
+    "caption": "Section · This file was uploaded with Commonist ",
+    "credit": "National Park Service, US Department of the Interior",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock_Building_Cross_Section.JPG",
+    "file": "File:Monadnock Building Cross Section.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jackson_Street_Elevation_1885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/monadnock-building/thumbs/8.webp",
+    "w": 764,
+    "h": 1400,
+    "kind": "Elevation",
+    "caption": "Elevation · Original sketch of Jackson Street elevation, Monadnock Building , Chicago",
+    "credit": "John Wellborn Root  (d. 1891)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jackson_Street_Elevation_1885.jpg",
+    "file": "File:Jackson Street Elevation 1885.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Monadnock_Sketch_1889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/monadnock-building/thumbs/9.webp",
+    "w": 1068,
+    "h": 1400,
+    "kind": "Sketch",
+    "caption": "Sketch · Sketch entitled \"The Monadnock Office Building , Chicago",
+    "credit": "Burnham and Root",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Monadnock_Sketch_1889.jpg",
+    "file": "File:Monadnock Sketch 1889.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Section",
+   "Elevation",
+   "Sketch"
+  ],
+  "gv": 3
  },
  {
   "id": "willis-tower",
@@ -281997,7 +285314,83 @@ window.BUILDINGS = [
   "commons": "Category:Willis Tower",
   "lead": "File:Sears Tower, Wacker Drive and Jackson Boulevard, Chicago, IL - 54189600901.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sears_Tower%2C_Wacker_Drive_and_Jackson_Boulevard%2C_Chicago%2C_IL_-_54189600901.jpg/1280px-Sears_Tower%2C_Wacker_Drive_and_Jackson_Boulevard%2C_Chicago%2C_IL_-_54189600901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willis-tower/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sears_Tower,_Wacker_Drive_and_Jackson_Boulevard,_Chicago,_IL_-_54189600901.jpg",
+    "file": "File:Sears Tower, Wacker Drive and Jackson Boulevard, Chicago, IL - 54189600901.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Willis_Tower%2C_Chicago_September_2016-26.jpg/1280px-Willis_Tower%2C_Chicago_September_2016-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willis-tower/thumbs/1.webp",
+    "w": 899,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Willis Tower, the tallest building in Chicago",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Willis_Tower,_Chicago_September_2016-26.jpg",
+    "file": "File:Willis Tower, Chicago September 2016-26.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Willis_Tower_Sears_Tower%2C_Chicago_1978.jpg/1280px-Willis_Tower_Sears_Tower%2C_Chicago_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willis-tower/thumbs/2.webp",
+    "w": 831,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Willis Tower, formerly the Sears Tower in Chicago in 1978",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Willis_Tower_Sears_Tower,_Chicago_1978.jpg",
+    "file": "File:Willis Tower Sears Tower, Chicago 1978.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Elevator_Lobby%2C_Sears_Tower%2C_Wacker_Drive_and_Jackson_Boulevard%2C_Chicago%2C_IL.jpg/1280px-Elevator_Lobby%2C_Sears_Tower%2C_Wacker_Drive_and_Jackson_Boulevard%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willis-tower/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevator_Lobby,_Sears_Tower,_Wacker_Drive_and_Jackson_Boulevard,_Chicago,_IL.jpg",
+    "file": "File:Elevator Lobby, Sears Tower, Wacker Drive and Jackson Boulevard, Chicago, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Fountain%2C_Sears_Tower%2C_Wacker_Drive_and_Jackson_Boulevard%2C_Chicago%2C_IL.jpg/1280px-Fountain%2C_Sears_Tower%2C_Wacker_Drive_and_Jackson_Boulevard%2C_Chicago%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willis-tower/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fountain,_Sears_Tower,_Wacker_Drive_and_Jackson_Boulevard,_Chicago,_IL.jpg",
+    "file": "File:Fountain, Sears Tower, Wacker Drive and Jackson Boulevard, Chicago, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Blue_Water_and_Chicago_skyline%2C_November_2020.jpg/1280px-Blue_Water_and_Chicago_skyline%2C_November_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willis-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Joseph Gage",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blue_Water_and_Chicago_skyline,_November_2020.jpg",
+    "file": "File:Blue Water and Chicago skyline, November 2020.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chicago-cultural-center",
@@ -282021,7 +285414,83 @@ window.BUILDINGS = [
   "commons": "Category:Chicago Cultural Center",
   "lead": "File:Chicago Cultural Center.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chicago_Cultural_Center.jpg/1280px-Chicago_Cultural_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chicago-cultural-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Chicago Cultural Center, Chicago, Illinois",
+    "credit": "The original uploader was  DS1953  at  English Wikipedia .",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Cultural_Center.jpg",
+    "file": "File:Chicago Cultural Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Chicago_Cultural_Center_%2851574888388%29.jpg/1280px-Chicago_Cultural_Center_%2851574888388%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chicago-cultural-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Cultural_Center_(51574888388).jpg",
+    "file": "File:Chicago Cultural Center (51574888388).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Chicago_Cultural_Center%2C_Chicago%2C_Illinois_%289179481893%29.jpg/1280px-Chicago_Cultural_Center%2C_Chicago%2C_Illinois_%289179481893%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chicago-cultural-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Cultural_Center,_Chicago,_Illinois_(9179481893).jpg",
+    "file": "File:Chicago Cultural Center, Chicago, Illinois (9179481893).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_Cultural_Center_Public_Library_1978_a.jpg/1280px-Chicago_Cultural_Center_Public_Library_1978_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chicago-cultural-center/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Chicago Cultural Center in 1978, the year it was converted from the Chicago Public Library",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Cultural_Center_Public_Library_1978_a.jpg",
+    "file": "File:Chicago Cultural Center Public Library 1978 a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Chicago_Cultural_Center_Public_Library_1978_b.jpg/1280px-Chicago_Cultural_Center_Public_Library_1978_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chicago-cultural-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 795,
+    "kind": "Interior",
+    "caption": "Interior · The Chicago Cultural Center in 1978, the year it was converted from the Chicago Public Library",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Cultural_Center_Public_Library_1978_b.jpg",
+    "file": "File:Chicago Cultural Center Public Library 1978 b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Chicago_Cultural_Center_Public_Library_1978_c.jpg/1280px-Chicago_Cultural_Center_Public_Library_1978_c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chicago-cultural-center/thumbs/5.webp",
+    "w": 885,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Chicago Cultural Center in 1978, the year it was converted from the Chicago Public Library",
+    "credit": "Acabashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Cultural_Center_Public_Library_1978_c.jpg",
+    "file": "File:Chicago Cultural Center Public Library 1978 c.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "promontory-apartments",
@@ -282045,7 +285514,47 @@ window.BUILDINGS = [
   "commons": "Category:Promontory Apartments",
   "lead": "File:Promontory Apartments (7375074472).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Promontory_Apartments_%287375074472%29.jpg/1280px-Promontory_Apartments_%287375074472%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/promontory-apartments/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Promontory Apartments in Chicago (1949)",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Promontory_Apartments_(7375074472).jpg",
+    "file": "File:Promontory Apartments (7375074472).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20080910_Promontory_Apartments.JPG/1280px-20080910_Promontory_Apartments.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/promontory-apartments/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Promontory_Apartments",
+    "credit": "TonyTheTiger   ( t / c / bio / WP:CHICAGO / WP:LOTM )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20080910_Promontory_Apartments.JPG",
+    "file": "File:20080910 Promontory Apartments.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/View_of_The_Promontory_Apartments_Trust_looking_SW.jpg/1280px-View_of_The_Promontory_Apartments_Trust_looking_SW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/promontory-apartments/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · New neighbor is Solstice on the Park by studiogan.com in the background",
+    "credit": "Timmyroyboy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_The_Promontory_Apartments_Trust_looking_SW.jpg",
+    "file": "File:View of The Promontory Apartments Trust looking SW.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dirksen-federal-building",
@@ -282069,7 +285578,83 @@ window.BUILDINGS = [
   "commons": "Category:Dirksen Federal Building",
   "lead": "File:Chicago Federal Center.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chicago_Federal_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/dirksen-federal-building/thumbs/0.webp",
+    "w": 908,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View of Federal Center in Chicago, Illinois",
+    "credit": "US General Services Administration",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Federal_Center.jpg",
+    "file": "File:Chicago Federal Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Corner_of_Plymouth_Court_and_Jackson_Blvd%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289179341513%29.jpg/1280px-Corner_of_Plymouth_Court_and_Jackson_Blvd%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289179341513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dirksen-federal-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corner_of_Plymouth_Court_and_Jackson_Blvd,_Chicago_Loop,_Chicago,_Illinois_(9179341513).jpg",
+    "file": "File:Corner of Plymouth Court and Jackson Blvd, Chicago Loop, Chicago, Illinois (9179341513).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Corner_of_Plymouth_Court_and_Jackson_Blvd%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289181555332%29.jpg/1280px-Corner_of_Plymouth_Court_and_Jackson_Blvd%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%289181555332%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dirksen-federal-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corner_of_Plymouth_Court_and_Jackson_Blvd,_Chicago_Loop,_Chicago,_Illinois_(9181555332).jpg",
+    "file": "File:Corner of Plymouth Court and Jackson Blvd, Chicago Loop, Chicago, Illinois (9181555332).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chicago_Federal_Center_%286039062076%29.jpg/1280px-Chicago_Federal_Center_%286039062076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dirksen-federal-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 1309,
+    "kind": "Exterior",
+    "caption": "Exterior · The Chicago Federal Center (1974)",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_Federal_Center_(6039062076).jpg",
+    "file": "File:Chicago Federal Center (6039062076).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/MJR_20130604_0009-2559537575-O.jpg/1280px-MJR_20130604_0009-2559537575-O.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dirksen-federal-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Detail",
+    "caption": "Detail · Everett McKinley Dirksen Building glass facade detail with reflections",
+    "credit": "Marc Rochkind",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MJR_20130604_0009-2559537575-O.jpg",
+    "file": "File:MJR 20130604 0009-2559537575-O.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Dirksen_United_States_Courthouse%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%2811004248426%29.jpg/1280px-Dirksen_United_States_Courthouse%2C_Chicago_Loop%2C_Chicago%2C_Illinois_%2811004248426%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dirksen-federal-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dirksen_United_States_Courthouse,_Chicago_Loop,_Chicago,_Illinois_(11004248426).jpg",
+    "file": "File:Dirksen United States Courthouse, Chicago Loop, Chicago, Illinois (11004248426).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bp-pedestrian-bridge",
@@ -282093,7 +285678,83 @@ window.BUILDINGS = [
   "commons": "Category:BP Pedestrian Bridge",
   "lead": "File:Bp bridge.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bp_bridge.JPG/1280px-Bp_bridge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bp-pedestrian-bridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · en:BP Pedestrian Bridge from en:The Buckingham",
+    "credit": "Torsodog",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bp_bridge.JPG",
+    "file": "File:Bp bridge.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bp_bridge_from_buckingham.JPG/1280px-Bp_bridge_from_buckingham.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bp-pedestrian-bridge/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · BP Bridge in Millennium Park as seen from The Buckingham",
+    "credit": "Torsodog",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bp_bridge_from_buckingham.JPG",
+    "file": "File:Bp bridge from buckingham.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Chicago_in_2022_Part_of_the_BP_Pedestrian_Bridge_%2852053160128%29.jpg/1280px-Chicago_in_2022_Part_of_the_BP_Pedestrian_Bridge_%2852053160128%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bp-pedestrian-bridge/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Frank Gehry",
+    "credit": "Chris Rycroft  from Madison, Wisconsin, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Part_of_the_BP_Pedestrian_Bridge_(52053160128).jpg",
+    "file": "File:Chicago in 2022 Part of the BP Pedestrian Bridge (52053160128).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Frank_Gehry-designed_bridge_into_Millennium_Park_-_7714031864.jpg/1280px-Frank_Gehry-designed_bridge_into_Millennium_Park_-_7714031864.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bp-pedestrian-bridge/thumbs/3.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Chicago",
+    "credit": "Madeleine_H",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Gehry-designed_bridge_into_Millennium_Park_-_7714031864.jpg",
+    "file": "File:Frank Gehry-designed bridge into Millennium Park - 7714031864.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/View_from_my_room_%287594289024%29.jpg/1280px-View_from_my_room_%287594289024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bp-pedestrian-bridge/thumbs/4.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "BriYYZ  from Toronto, Canada",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_my_room_(7594289024).jpg",
+    "file": "File:View from my room (7594289024).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/BP_Pedestrian_Bridge_Closeup_Chicago.jpg/1280px-BP_Pedestrian_Bridge_Closeup_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bp-pedestrian-bridge/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · BP Pedestrian Bridge in Millennium Park, Chicago, Illinois",
+    "credit": "PerfectSoundWhatever",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BP_Pedestrian_Bridge_Closeup_Chicago.jpg",
+    "file": "File:BP Pedestrian Bridge Closeup Chicago.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "rockefeller-chapel-chicago",
@@ -282117,7 +285778,83 @@ window.BUILDINGS = [
   "commons": "Category:Exterior of Rockefeller Chapel",
   "lead": "File:Rockefeller Chapel by Matthew Bisanz.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Rockefeller_Chapel_by_Matthew_Bisanz.jpg/1280px-Rockefeller_Chapel_by_Matthew_Bisanz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockefeller-chapel-chicago/thumbs/0.webp",
+    "w": 1259,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Rockefeller Chapel at the University of Chicago",
+    "credit": "Matthew Bisanz",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Chapel_by_Matthew_Bisanz.jpg",
+    "file": "File:Rockefeller Chapel by Matthew Bisanz.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ivy_covered_wall%2C_Rockefeller_Chapel%2C_University_of_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2.jpg/1280px-Ivy_covered_wall%2C_Rockefeller_Chapel%2C_University_of_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockefeller-chapel-chicago/thumbs/1.webp",
+    "w": 1280,
+    "h": 1109,
+    "kind": "Exterior",
+    "caption": "Exterior · Ivy covered wall, Rockefeller Chapel, University of Chicago, Illinois, US (PPL1-Corrected)",
+    "credit": "Jules Verne Times Two",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ivy_covered_wall,_Rockefeller_Chapel,_University_of_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg",
+    "file": "File:Ivy covered wall, Rockefeller Chapel, University of Chicago, Illinois, US (PPL1-Corrected) julesvernex2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Rockefeller_Chapel_fa%C3%A7ade%2C_University_of_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2.jpg/1280px-Rockefeller_Chapel_fa%C3%A7ade%2C_University_of_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockefeller-chapel-chicago/thumbs/2.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Rockefeller Chapel façade, University of Chicago, Illinois, US (PPL1-Corrected)",
+    "credit": "Jules Verne Times Two",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Chapel_fa%C3%A7ade,_University_of_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2.jpg",
+    "file": "File:Rockefeller Chapel façade, University of Chicago, Illinois, US (PPL1-Corrected) julesvernex2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Rockefeller_Chapel_front_facade_-_University_of_Chicago_-_DSC06918.JPG/1280px-Rockefeller_Chapel_front_facade_-_University_of_Chicago_-_DSC06918.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockefeller-chapel-chicago/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Rockefeller Chapel front facade - University of Chicago, Hyde Park, Chicago, Illinois, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Chapel_front_facade_-_University_of_Chicago_-_DSC06918.JPG",
+    "file": "File:Rockefeller Chapel front facade - University of Chicago - DSC06918.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Rockefeller_Chapel_-_Interior_View_%2C_University_of_Chicago_Campus.jpg/1280px-Rockefeller_Chapel_-_Interior_View_%2C_University_of_Chicago_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockefeller-chapel-chicago/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior view of Rockefeller Chapel following Sunday morning service",
+    "credit": "Ivy I Anderson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Chapel_-_Interior_View_,_University_of_Chicago_Campus.jpg",
+    "file": "File:Rockefeller Chapel - Interior View , University of Chicago Campus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rockefeller_Chapel_entrance_-_University_of_Chicago_-_DSC06919.JPG/1280px-Rockefeller_Chapel_entrance_-_University_of_Chicago_-_DSC06919.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rockefeller-chapel-chicago/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Rockefeller Chapel entrance - University of Chicago, Hyde Park, Chicago, Illinois, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Chapel_entrance_-_University_of_Chicago_-_DSC06919.JPG",
+    "file": "File:Rockefeller Chapel entrance - University of Chicago - DSC06919.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dana-thomas-house",
@@ -282141,7 +285878,110 @@ window.BUILDINGS = [
   "commons": "Category:Dana–Thomas House",
   "lead": "File:Dana-Thomas House, Lawrence Avenue and 4th Street, Springfield, IL - 53322372857.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322372857.jpg/1280px-Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322372857.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dana-Thomas_House,_Lawrence_Avenue_and_4th_Street,_Springfield,_IL_-_53322372857.jpg",
+    "file": "File:Dana-Thomas House, Lawrence Avenue and 4th Street, Springfield, IL - 53322372857.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322373152.jpg/1280px-Dana-Thomas_House%2C_Lawrence_Avenue_and_4th_Street%2C_Springfield%2C_IL_-_53322373152.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dana-Thomas_House,_Lawrence_Avenue_and_4th_Street,_Springfield,_IL_-_53322373152.jpg",
+    "file": "File:Dana-Thomas House, Lawrence Avenue and 4th Street, Springfield, IL - 53322373152.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Frank_Lloyd_Wright_-_Springfield%2C_IL_-_Dana-Thomas_House_%28A%29.jpg/1280px-Frank_Lloyd_Wright_-_Springfield%2C_IL_-_Dana-Thomas_House_%28A%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Built 1902-04",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Springfield,_IL_-_Dana-Thomas_House_(A).jpg",
+    "file": "File:Frank Lloyd Wright - Springfield, IL - Dana-Thomas House (A).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Frank_Lloyd_Wright_-_Springfield%2C_IL_-_Dana-Thomas_House_%28B%29.jpg/1280px-Frank_Lloyd_Wright_-_Springfield%2C_IL_-_Dana-Thomas_House_%28B%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Built 1902-04",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Springfield,_IL_-_Dana-Thomas_House_(B).jpg",
+    "file": "File:Frank Lloyd Wright - Springfield, IL - Dana-Thomas House (B).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Frank_Lloyd_Wright%27s_Early_Masterpiece_%2844319834050%29.jpg/1280px-Frank_Lloyd_Wright%27s_Early_Masterpiece_%2844319834050%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Dana-Thomas House (1904) Springfield, IL",
+    "credit": "Ron Frazier  from Bloomington IL, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright%27s_Early_Masterpiece_(44319834050).jpg",
+    "file": "File:Frank Lloyd Wright's Early Masterpiece (44319834050).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Frank_Lloyd_Wright%27s_Early_Masterpiece_%2844319836290%29.jpg/1280px-Frank_Lloyd_Wright%27s_Early_Masterpiece_%2844319836290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Dana-Thomas House (1904) Springfield, IL",
+    "credit": "Ron Frazier  from Bloomington IL, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright%27s_Early_Masterpiece_(44319836290).jpg",
+    "file": "File:Frank Lloyd Wright's Early Masterpiece (44319836290).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Dana_House_plans_Springfield%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/dana-thomas-house/thumbs/6.webp",
+    "w": 1068,
+    "h": 718,
+    "kind": "Plan",
+    "caption": "Plan · Dana-Thomas House (1902) 301 East Lawrence Avenue Springfield, Illinois Architect: Frank Lloyd Wright",
+    "credit": "James G. Hollis and George J. Krassas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dana_House_plans_Springfield,_IL.jpg",
+    "file": "File:Dana House plans Springfield, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dana_Elevation.jpg/1280px-Dana_Elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dana-thomas-house/thumbs/7.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dana_Elevation.jpg",
+    "file": "File:Dana Elevation.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "coonley-house-riverside",
@@ -282165,7 +286005,71 @@ window.BUILDINGS = [
   "commons": "Category:Coonley House",
   "lead": "File:Coonley House, Riverside, Illinois 2013 04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Coonley_House%2C_Riverside%2C_Illinois_2013_04.jpg/1280px-Coonley_House%2C_Riverside%2C_Illinois_2013_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/coonley-house-riverside/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Coonley House, Riverside, Illinois",
+    "credit": "davidwilson1949",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coonley_House,_Riverside,_Illinois_2013_04.jpg",
+    "file": "File:Coonley House, Riverside, Illinois 2013 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Avery_Coonley_House_%285978120479%29.jpg/1280px-Avery_Coonley_House_%285978120479%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/coonley-house-riverside/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright-designed Avery Coonley House in Riverside (1912)",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avery_Coonley_House_(5978120479).jpg",
+    "file": "File:Avery Coonley House (5978120479).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Coonley_House%2C_Riverside%2C_Illinois_2013_01.jpg/1280px-Coonley_House%2C_Riverside%2C_Illinois_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/coonley-house-riverside/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Coonley House, Riverside, Illinois",
+    "credit": "davidwilson1949",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coonley_House,_Riverside,_Illinois_2013_01.jpg",
+    "file": "File:Coonley House, Riverside, Illinois 2013 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Avery_Coonley_House%2C_300_Scottswood_Road%2C_281_Bloomingbank_Road%2C_Riverside%2C_Cook_County%2C_IL_HABS_ILL%2C16-RIVSI%2C2-_%28sheet_1_of_17%29.png/1280px-Avery_Coonley_House%2C_300_Scottswood_Road%2C_281_Bloomingbank_Road%2C_Riverside%2C_Cook_County%2C_IL_HABS_ILL%2C16-RIVSI%2C2-_%28sheet_1_of_17%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/coonley-house-riverside/thumbs/3.webp",
+    "w": 1280,
+    "h": 876,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd; Coonley, Avery; Ferry, Queene; Kroeler, Peter; Robinson, Har",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Avery_Coonley_House,_300_Scottswood_Road,_281_Bloomingbank_Road,_Riverside,_Cook_County,_IL_HABS_ILL,16-RIVSI,2-_(sheet_1_of_17).png",
+    "file": "File:Avery Coonley House, 300 Scottswood Road, 281 Bloomingbank Road, Riverside, Cook County, IL HABS ILL,16-RIVSI,2- (sheet 1 of 17).png"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Frank_lloyd_wright%2C_finestra_di_avery_conley_playhouse%2C_1912_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/coonley-house-riverside/thumbs/4.webp",
+    "w": 325,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Collections of the Toledo Museum of Art",
+    "credit": "Sailko",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_lloyd_wright,_finestra_di_avery_conley_playhouse,_1912_ca.jpg",
+    "file": "File:Frank lloyd wright, finestra di avery conley playhouse, 1912 ca.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "meyer-may-house",
@@ -282189,7 +286093,59 @@ window.BUILDINGS = [
   "commons": "Category:Meyer May House",
   "lead": "File:Meyer May House.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Meyer_May_House.jpg/1280px-Meyer_May_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/meyer-may-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Meyer May House, a Frank Lloyd Wright-designed house, in Grand Rapids, Michigan",
+    "credit": "WMrapids",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meyer_May_House.jpg",
+    "file": "File:Meyer May House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Meyer_May_House%2C_west_side%2C_2009.JPG/1280px-Meyer_May_House%2C_west_side%2C_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/meyer-may-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Meyer May House , Grand Rapids, Michigan was designed by Frank Lloyd Wright in 1908-1909",
+    "credit": "User:Jaydec",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meyer_May_House,_west_side,_2009.JPG",
+    "file": "File:Meyer May House, west side, 2009.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Meyer_May_House%2C_south_side%2C_2009.JPG/1280px-Meyer_May_House%2C_south_side%2C_2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/meyer-may-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Meyer May House, Grand Rapids, MI",
+    "credit": "en:User:Jaydec",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meyer_May_House,_south_side,_2009.JPG",
+    "file": "File:Meyer May House, south side, 2009.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/May_House_Historical_Marker.jpg/1280px-May_House_Historical_Marker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/meyer-may-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 888,
+    "kind": "Exterior",
+    "caption": "Exterior · May House Historical Marker",
+    "credit": "Gpwitteveen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:May_House_Historical_Marker.jpg",
+    "file": "File:May House Historical Marker.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "guardian-building-detroit",
@@ -282213,7 +286169,83 @@ window.BUILDINGS = [
   "commons": "Category:Guardian Building",
   "lead": "File:Guardian Building, Griswold Street, Detroit, MI - 53026480077.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Guardian_Building%2C_Griswold_Street%2C_Detroit%2C_MI_-_53026480077.jpg/1280px-Guardian_Building%2C_Griswold_Street%2C_Detroit%2C_MI_-_53026480077.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guardian-building-detroit/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Built in 1929, this Art Deco-style skyscraper was designed by Wirt C",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guardian_Building,_Griswold_Street,_Detroit,_MI_-_53026480077.jpg",
+    "file": "File:Guardian Building, Griswold Street, Detroit, MI - 53026480077.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Guardian_Building_2025.jpg/1280px-Guardian_Building_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guardian-building-detroit/thumbs/1.webp",
+    "w": 703,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Guardian Building in Detroit, Michigan",
+    "credit": "WMrapids",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guardian_Building_2025.jpg",
+    "file": "File:Guardian Building 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Detroit_December_2015_38_%28Guardian_Building%29.jpg/1280px-Detroit_December_2015_38_%28Guardian_Building%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guardian-building-detroit/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Guardian Building in Detroit , Michigan ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detroit_December_2015_38_(Guardian_Building).jpg",
+    "file": "File:Detroit December 2015 38 (Guardian Building).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/GuardianShortSpire.png/1280px-GuardianShortSpire.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guardian-building-detroit/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Zoomed Image of the Guardian Building's short spire",
+    "credit": "Coreyfein01",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:GuardianShortSpire.png",
+    "file": "File:GuardianShortSpire.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Union_Trust_Building-Metal_Gates.jpg/1280px-Union_Trust_Building-Metal_Gates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guardian-building-detroit/thumbs/4.webp",
+    "w": 1280,
+    "h": 1021,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Allen Stross",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Union_Trust_Building-Metal_Gates.jpg",
+    "file": "File:Union Trust Building-Metal Gates.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Detroit_December_2015_26_%28Guardian_Building%29.jpg/1280px-Detroit_December_2015_26_%28Guardian_Building%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guardian-building-detroit/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The interior of the Guardian Building in Detroit , Michigan ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detroit_December_2015_26_(Guardian_Building).jpg",
+    "file": "File:Detroit December 2015 26 (Guardian Building).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "peter-b-lewis-building",
@@ -282237,7 +286269,83 @@ window.BUILDINGS = [
   "commons": "Category:Peter B. Lewis Building",
   "lead": "File:Peter B. Lewis Building - oblique 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Peter_B._Lewis_Building_-_oblique_1.jpg/1280px-Peter_B._Lewis_Building_-_oblique_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peter-b-lewis-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Peter B",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_B._Lewis_Building_-_oblique_1.jpg",
+    "file": "File:Peter B. Lewis Building - oblique 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Peter_B_Lewis_%28PBL%29_Building_Case_Western_Reserve.jpg/1280px-Peter_B_Lewis_%28PBL%29_Building_Case_Western_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peter-b-lewis-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 1059,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Usaf 1832",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_B_Lewis_(PBL)_Building_Case_Western_Reserve.jpg",
+    "file": "File:Peter B Lewis (PBL) Building Case Western Reserve.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Peter_B._Lewis_Bldg.JPG/1280px-Peter_B._Lewis_Bldg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peter-b-lewis-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Weatherhead School of Management, Case Western Reserve University, Cleveland, Ohio",
+    "credit": "Harmanani",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_B._Lewis_Bldg.JPG",
+    "file": "File:Peter B. Lewis Bldg.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Lewis_Building%2C_Cleveland%2COH.jpg/1280px-Lewis_Building%2C_Cleveland%2COH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peter-b-lewis-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 915,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Richard A. Weaver",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lewis_Building,_Cleveland,OH.jpg",
+    "file": "File:Lewis Building, Cleveland,OH.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/PBLlobby.JPG/1280px-PBLlobby.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/peter-b-lewis-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The lobby of the Peter B",
+    "credit": "No machine-readable author provided.  Managementprof~commonswiki  assumed (based on copyright claims",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:PBLlobby.JPG",
+    "file": "File:PBLlobby.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/PBL_column.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/peter-b-lewis-building/thumbs/5.webp",
+    "w": 800,
+    "h": 1200,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Peter B",
+    "credit": "Alan Levine",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PBL_column.jpg",
+    "file": "File:PBL column.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cincinnati-union-terminal",
@@ -282261,7 +286369,136 @@ window.BUILDINGS = [
   "commons": "Category:Cincinnati Union Terminal",
   "lead": "File:CMC-Union Terminal.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/CMC-Union_Terminal.jpg/1280px-CMC-Union_Terminal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Cincinnati Museum Center",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CMC-Union_Terminal.jpg",
+    "file": "File:CMC-Union Terminal.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Streamline_Moderne_-_Cincinnati%2C_OH_-_Cincinnati_Union_Terminal_%281%29.jpg/1280px-Streamline_Moderne_-_Cincinnati%2C_OH_-_Cincinnati_Union_Terminal_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/1.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Built 1928-33",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Streamline_Moderne_-_Cincinnati,_OH_-_Cincinnati_Union_Terminal_(1).jpg",
+    "file": "File:Streamline Moderne - Cincinnati, OH - Cincinnati Union Terminal (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Streamline_Moderne_-_Cincinnati%2C_OH_-_Cincinnati_Union_Terminal_%282%29.jpg/1280px-Streamline_Moderne_-_Cincinnati%2C_OH_-_Cincinnati_Union_Terminal_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Built 1928-33",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Streamline_Moderne_-_Cincinnati,_OH_-_Cincinnati_Union_Terminal_(2).jpg",
+    "file": "File:Streamline Moderne - Cincinnati, OH - Cincinnati Union Terminal (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bas_Relief_of_%22Commerce%22_%2811259132554%29.jpg/1280px-Bas_Relief_of_%22Commerce%22_%2811259132554%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bas_Relief_of_%22Commerce%22_(11259132554).jpg",
+    "file": "File:Bas Relief of \"Commerce\" (11259132554).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Art_Deco_Clock_%2811259220166%29.jpg/1280px-Art_Deco_Clock_%2811259220166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · In Tower A of the Cincinnati Union Terminal",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art_Deco_Clock_(11259220166).jpg",
+    "file": "File:Art Deco Clock (11259220166).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Cincinnati_Union_Terminal_-_RA_-_11.jpg/1280px-Cincinnati_Union_Terminal_-_RA_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/5.webp",
+    "w": 1280,
+    "h": 982,
+    "kind": "Interior",
+    "caption": "Interior · Cincinnati Union Terminal as depicted in Railway Age ",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_Union_Terminal_-_RA_-_11.jpg",
+    "file": "File:Cincinnati Union Terminal - RA - 11.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/CUT_plan_Jan._1929_02.jpg/1280px-CUT_plan_Jan._1929_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/6.webp",
+    "w": 1280,
+    "h": 905,
+    "kind": "Plan",
+    "caption": "Plan · Comparison of preliminary studies for Cincinnati Union Terminal",
+    "credit": "Presumably architects Fellheimer and Wagner.",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:CUT_plan_Jan._1929_02.jpg",
+    "file": "File:CUT plan Jan. 1929 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Cincinnati_Union_Terminal_Building_-_Rotunda_cross-section.jpg/1280px-Cincinnati_Union_Terminal_Building_-_Rotunda_cross-section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/7.webp",
+    "w": 1280,
+    "h": 758,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Fehlheimer and Wagner",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_Union_Terminal_Building_-_Rotunda_cross-section.jpg",
+    "file": "File:Cincinnati Union Terminal Building - Rotunda cross-section.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cincinnati_Union_Terminal_42.jpg/1280px-Cincinnati_Union_Terminal_42.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cincinnati-union-terminal/thumbs/8.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Model",
+    "caption": "Model · Cincinnati Union Terminal, iconic rail terminal in Cincinnati, Ohio",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_Union_Terminal_42.jpg",
+    "file": "File:Cincinnati Union Terminal 42.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cincinnati_Union_Terminal%2C_formal_analysis_drawing.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/cincinnati-union-terminal/thumbs/9.webp",
+    "w": 1024,
+    "h": 1024,
+    "kind": "Drawing",
+    "caption": "Drawing · Original drawing on Canson 90lb",
+    "credit": "Eric Inglert",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cincinnati_Union_Terminal,_formal_analysis_drawing.png",
+    "file": "File:Cincinnati Union Terminal, formal analysis drawing.png"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Section",
+   "Model",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "minneapolis-central-library",
@@ -282285,7 +286522,83 @@ window.BUILDINGS = [
   "commons": "Category:Minneapolis Central Library",
   "lead": "File:Minneapolis Central Public Library by Cesar Pelli.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Minneapolis_Central_Public_Library_by_Cesar_Pelli.jpg/1280px-Minneapolis_Central_Public_Library_by_Cesar_Pelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/minneapolis-central-library/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Minneapolis Central Library, on the Hennepin Avenue side",
+    "credit": "Richie Diesterheft",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_Central_Public_Library_by_Cesar_Pelli.jpg",
+    "file": "File:Minneapolis Central Public Library by Cesar Pelli.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Downtown_Minneapolis_Library.jpg/1280px-Downtown_Minneapolis_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/minneapolis-central-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A picture of the library in downtown Minneapolis",
+    "credit": "Freecontent2014",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_Minneapolis_Library.jpg",
+    "file": "File:Downtown Minneapolis Library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Minneapolis_Central_Library_-_panoramio.jpg/1280px-Minneapolis_Central_Library_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/minneapolis-central-library/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bohao Zhao",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_Central_Library_-_panoramio.jpg",
+    "file": "File:Minneapolis Central Library - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Minneapolis_Public_Library-central-2006-10-27.jpg/1280px-Minneapolis_Public_Library-central-2006-10-27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/minneapolis-central-library/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · w:Minneapolis Public Library , w:Minneapolis, Minnesota Minneapolis Public Library",
+    "credit": "Karl Frankowski",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_Public_Library-central-2006-10-27.jpg",
+    "file": "File:Minneapolis Public Library-central-2006-10-27.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Minerva_by_Jacob_Fjelde_2017-07-29.jpg/1280px-Minerva_by_Jacob_Fjelde_2017-07-29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/minneapolis-central-library/thumbs/4.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · A statue of Minerva by Jacob Fjelde in the atrium of the Minneapolis Central Library",
+    "credit": "August Schwerdfeger",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minerva_by_Jacob_Fjelde_2017-07-29.jpg",
+    "file": "File:Minerva by Jacob Fjelde 2017-07-29.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Minerva_by_Fjelde.jpg/1280px-Minerva_by_Fjelde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/minneapolis-central-library/thumbs/5.webp",
+    "w": 843,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Bronze sculpture of Minerva in Minneapolis Central Library atrium by Jacob Fjelde ",
+    "credit": "BoogaLouie",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minerva_by_Fjelde.jpg",
+    "file": "File:Minerva by Fjelde.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "climatron",
@@ -282309,7 +286622,47 @@ window.BUILDINGS = [
   "commons": "Category:Climatron",
   "lead": "File:Climatron - panoramio.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Climatron_-_panoramio.jpg/1280px-Climatron_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/climatron/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "hakkun",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Climatron_-_panoramio.jpg",
+    "file": "File:Climatron - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Climatron%2C_Missouri_Botanical_Gardens.jpg/1280px-Climatron%2C_Missouri_Botanical_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/climatron/thumbs/1.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Climatron,_Missouri_Botanical_Gardens.jpg",
+    "file": "File:Climatron, Missouri Botanical Gardens.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Gfp-climatron-at-st-louis-botanical-gardens.jpg/1280px-Gfp-climatron-at-st-louis-botanical-gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/climatron/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Context",
+    "caption": "Context · St",
+    "credit": "Yinan Chen",
+    "license": "Public Domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gfp-climatron-at-st-louis-botanical-gardens.jpg",
+    "file": "File:Gfp-climatron-at-st-louis-botanical-gardens.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "roofless-church-new-harmony",
@@ -282333,7 +286686,47 @@ window.BUILDINGS = [
   "commons": "Category:Roofless Church",
   "lead": "File:Roofless church, New Harmony, Indiana 1.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Roofless_church%2C_New_Harmony%2C_Indiana_1.JPG/1280px-Roofless_church%2C_New_Harmony%2C_Indiana_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roofless-church-new-harmony/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The roofless church at New Harmony, Indiana",
+    "credit": "Sarah Ewart",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roofless_church,_New_Harmony,_Indiana_1.JPG",
+    "file": "File:Roofless church, New Harmony, Indiana 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Roofless_church_at_New_Harmony%2C_Indiana_4.JPG/1280px-Roofless_church_at_New_Harmony%2C_Indiana_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roofless-church-new-harmony/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance to the roofless church at New Harmony, Indiana",
+    "credit": "Sarah Ewart",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roofless_church_at_New_Harmony,_Indiana_4.JPG",
+    "file": "File:Roofless church at New Harmony, Indiana 4.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Roofless_church%2C_New_Harmony%2C_Indiana_2.JPG/1280px-Roofless_church%2C_New_Harmony%2C_Indiana_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/roofless-church-new-harmony/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Artwork at the roofless church at New Harmony, Indiana",
+    "credit": "Sarah Ewart",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roofless_church,_New_Harmony,_Indiana_2.JPG",
+    "file": "File:Roofless church, New Harmony, Indiana 2.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "community-of-christ-temple-independence",
@@ -282357,7 +286750,83 @@ window.BUILDINGS = [
   "commons": "Category:Independence Temple",
   "lead": "File:Independence - RLDS Temple 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Independence_-_RLDS_Temple_01.jpg/1280px-Independence_-_RLDS_Temple_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/community-of-christ-temple-independence/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Community of Christ Temple in Independence, Missouri; Temple Lot in foreground",
+    "credit": "Ecjmartin1",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Independence_-_RLDS_Temple_01.jpg",
+    "file": "File:Independence - RLDS Temple 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Community_of_Christ_Temple_P5300338.JPG/1280px-Community_of_Christ_Temple_P5300338.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/community-of-christ-temple-independence/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Community of Christ Temple, Independence, MO",
+    "credit": "Chris Light",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Community_of_Christ_Temple_P5300338.JPG",
+    "file": "File:Community of Christ Temple P5300338.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Cutlerite_viewnorth_wide.JPG/1280px-Cutlerite_viewnorth_wide.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/community-of-christ-temple-independence/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "EGDJ",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cutlerite_viewnorth_wide.JPG",
+    "file": "File:Cutlerite viewnorth wide.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Rlds_stone_church_environs.jpg/1280px-Rlds_stone_church_environs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/community-of-christ-temple-independence/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "EGDJ",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rlds_stone_church_environs.jpg",
+    "file": "File:Rlds stone church environs.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Temple-lot2.jpg/1280px-Temple-lot2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/community-of-christ-temple-independence/thumbs/4.webp",
+    "w": 1280,
+    "h": 377,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Americasroof  ( talk )",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple-lot2.jpg",
+    "file": "File:Temple-lot2.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/As_promised%2C_this_is_the_Community_of_Christ_Temple_across_the_street_from_the_Temple_Lot._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/community-of-christ-temple-independence/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · As promised, this is the Community of Christ Temple across the street from the Temple Lot",
+    "credit": "olekinderhook",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:As_promised,_this_is_the_Community_of_Christ_Temple_across_the_street_from_the_Temple_Lot._-_panoramio.jpg",
+    "file": "File:As promised, this is the Community of Christ Temple across the street from the Temple Lot. - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kemper-arena",
@@ -282381,7 +286850,71 @@ window.BUILDINGS = [
   "commons": "Category:Kemper Arena",
   "lead": "File:Kemper Arena 11-22-14.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kemper_Arena_11-22-14.jpg/1280px-Kemper_Arena_11-22-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kemper-arena/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A front view of Kemper Arena(as known when this photo was taken)",
+    "credit": "GorianEmpathy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kemper_Arena_11-22-14.jpg",
+    "file": "File:Kemper Arena 11-22-14.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kemper_Arena.JPG/1280px-Kemper_Arena.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kemper-arena/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kemper Arena in Kansas City, Missouri",
+    "credit": "Garrett Fuller",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kemper_Arena.JPG",
+    "file": "File:Kemper Arena.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/President_Gerald_Ford_and_First_Lady_Betty_Ford_at_the_Republican_National_Convention_in_Kansas_City%2C_Missouri_-_NARA_-_7027909.jpg/1280px-President_Gerald_Ford_and_First_Lady_Betty_Ford_at_the_Republican_National_Convention_in_Kansas_City%2C_Missouri_-_NARA_-_7027909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kemper-arena/thumbs/2.webp",
+    "w": 1280,
+    "h": 776,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Unknown author or not provided",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:President_Gerald_Ford_and_First_Lady_Betty_Ford_at_the_Republican_National_Convention_in_Kansas_City,_Missouri_-_NARA_-_7027909.jpg",
+    "file": "File:President Gerald Ford and First Lady Betty Ford at the Republican National Convention in Kansas City, Missouri - NARA - 7027909.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/President_Gerald_Ford%27s_supporters_at_the_Republican_National_Convention%2C_Kansas_City%2C_Missouri.jpg/1280px-President_Gerald_Ford%27s_supporters_at_the_Republican_National_Convention%2C_Kansas_City%2C_Missouri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kemper-arena/thumbs/3.webp",
+    "w": 956,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · President Gerald Ford's supporters at the Republican National Convention, Kansas City, Missouri",
+    "credit": "John T. Bledsoe",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:President_Gerald_Ford%27s_supporters_at_the_Republican_National_Convention,_Kansas_City,_Missouri.jpg",
+    "file": "File:President Gerald Ford's supporters at the Republican National Convention, Kansas City, Missouri.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/DowntownKCMO_Kemper_RockIslandBridge.jpg/1280px-DowntownKCMO_Kemper_RockIslandBridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kemper-arena/thumbs/4.webp",
+    "w": 1280,
+    "h": 339,
+    "kind": "Context",
+    "caption": "Context · Downtown Kansas City, Missouri; Kemper Arena; and Rock Island Bridge",
+    "credit": "Smuckola",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DowntownKCMO_Kemper_RockIslandBridge.jpg",
+    "file": "File:DowntownKCMO Kemper RockIslandBridge.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "akron-art-museum-knight-building",
@@ -282405,7 +286938,71 @@ window.BUILDINGS = [
   "commons": "Category:Knight Building (Akron Art Museum)",
   "lead": "File:AkronOhioArtMuseum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/AkronOhioArtMuseum.jpg/1280px-AkronOhioArtMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akron-art-museum-knight-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Akron Ohio Art Museum",
+    "credit": "Threeblur0  at en.wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AkronOhioArtMuseum.jpg",
+    "file": "File:AkronOhioArtMuseum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/AkronArtMuseum2009.jpg/1280px-AkronArtMuseum2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akron-art-museum-knight-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Akron Art Museum",
+    "credit": "Sleepydre  (a.k.a  Threeblur0  at  en.wikipedia )",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AkronArtMuseum2009.jpg",
+    "file": "File:AkronArtMuseum2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Concrete_architecture_%28Unsplash%29.jpg/1280px-Concrete_architecture_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akron-art-museum-knight-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Akron Art Museum, Akron, United States",
+    "credit": "Lance Anderson  lanceanderson",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Concrete_architecture_(Unsplash).jpg",
+    "file": "File:Concrete architecture (Unsplash).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/White_architecture_%28Unsplash%29.jpg/1280px-White_architecture_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akron-art-museum-knight-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Akron Art Museum, Akron, United States",
+    "credit": "Lance Anderson  lanceanderson",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_architecture_(Unsplash).jpg",
+    "file": "File:White architecture (Unsplash).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/AkronArtMuseum.jpg/1280px-AkronArtMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akron-art-museum-knight-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Akron Art Museum",
+    "credit": "Threeblur0  at en.wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AkronArtMuseum.jpg",
+    "file": "File:AkronArtMuseum.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "houston-astrodome",
@@ -282429,7 +287026,83 @@ window.BUILDINGS = [
   "commons": "Category:Astrodome",
   "lead": "File:Reliant Astrodome in January 2014.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Reliant_Astrodome_in_January_2014.jpg/1280px-Reliant_Astrodome_in_January_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-astrodome/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the Reliant Astrodome in Houston from a parking lot near Reliant Arena",
+    "credit": "EricEnfermero",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reliant_Astrodome_in_January_2014.jpg",
+    "file": "File:Reliant Astrodome in January 2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Reliant_Astrodome.jpg/1280px-Reliant_Astrodome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-astrodome/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Reliant Astrodome, taken Dec",
+    "credit": "No machine-readable author provided.  Bobbyweatherford~commonswiki  assumed (based on copyright clai",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reliant_Astrodome.jpg",
+    "file": "File:Reliant Astrodome.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/High_school_marching_bands_in_the_Astrodome.jpg/1280px-High_school_marching_bands_in_the_Astrodome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-astrodome/thumbs/2.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · A photograph of many bands playing at the Astrodome",
+    "credit": "KUHT",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:High_school_marching_bands_in_the_Astrodome.jpg",
+    "file": "File:High school marching bands in the Astrodome.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/The_Astrodome%2C_the_world%27s_first_domed_stadium%2C_Houston%2C_Texas_LCCN2011633917.jpg/1280px-The_Astrodome%2C_the_world%27s_first_domed_stadium%2C_Houston%2C_Texas_LCCN2011633917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-astrodome/thumbs/3.webp",
+    "w": 1280,
+    "h": 973,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Astrodome,_the_world%27s_first_domed_stadium,_Houston,_Texas_LCCN2011633917.jpg",
+    "file": "File:The Astrodome, the world's first domed stadium, Houston, Texas LCCN2011633917.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Astrodome_interior_2004.jpg/1280px-Astrodome_interior_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-astrodome/thumbs/4.webp",
+    "w": 987,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Astrodome, part of the Historic American Buildings Survey/Historic American Engineering Record",
+    "credit": "Jet Lowe",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Astrodome_interior_2004.jpg",
+    "file": "File:Astrodome interior 2004.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/FEMA_-_14442_-_Photograph_by_Ed_Edahl_taken_on_09-02-2005_in_Texas.jpg/1280px-FEMA_-_14442_-_Photograph_by_Ed_Edahl_taken_on_09-02-2005_in_Texas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-astrodome/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ed Edahl",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:FEMA_-_14442_-_Photograph_by_Ed_Edahl_taken_on_09-02-2005_in_Texas.jpg",
+    "file": "File:FEMA - 14442 - Photograph by Ed Edahl taken on 09-02-2005 in Texas.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "att-stadium-arlington",
@@ -282453,7 +287126,83 @@ window.BUILDINGS = [
   "commons": "Category:AT&T Stadium",
   "lead": "File:Arlington June 2020 2 (AT&T Stadium).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Arlington_June_2020_2_%28AT%26T_Stadium%29.jpg/1280px-Arlington_June_2020_2_%28AT%26T_Stadium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/att-stadium-arlington/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · AT&T Stadium in Arlington , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arlington_June_2020_2_(AT%26T_Stadium).jpg",
+    "file": "File:Arlington June 2020 2 (AT&T Stadium).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Arlington_June_2020_1_%28AT%26T_Stadium%29.jpg/1280px-Arlington_June_2020_1_%28AT%26T_Stadium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/att-stadium-arlington/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · AT&T Stadium in Arlington , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arlington_June_2020_1_(AT%26T_Stadium).jpg",
+    "file": "File:Arlington June 2020 1 (AT&T Stadium).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Richard_Greene_Linear_Park_June_2020_27_%28AT%26T_Stadium%29.jpg/1280px-Richard_Greene_Linear_Park_June_2020_27_%28AT%26T_Stadium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/att-stadium-arlington/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · AT&T Stadium as viewed from Richard Greene Linear Park in Arlington , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Richard_Greene_Linear_Park_June_2020_27_(AT%26T_Stadium).jpg",
+    "file": "File:Richard Greene Linear Park June 2020 27 (AT&T Stadium).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/AT%26T_Stadium_roof_closed_2022-08-24.jpg/1280px-AT%26T_Stadium_roof_closed_2022-08-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/att-stadium-arlington/thumbs/3.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · The closed retractable roof of AT&T Stadium",
+    "credit": "edwarddallas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AT%26T_Stadium_roof_closed_2022-08-24.jpg",
+    "file": "File:AT&T Stadium roof closed 2022-08-24.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/AT%26T_Stadium_Inside_%28Dec_2025%29.jpg/1280px-AT%26T_Stadium_Inside_%28Dec_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/att-stadium-arlington/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · A picture of the inside of AT&T Stadium in December 2025, during the Chargers vs Cowboys NFL game",
+    "credit": "EvanTech10",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AT%26T_Stadium_Inside_(Dec_2025).jpg",
+    "file": "File:AT&T Stadium Inside (Dec 2025).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/AT%26T_Stadium_2022-08-24.jpg/1280px-AT%26T_Stadium_2022-08-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/att-stadium-arlington/thumbs/5.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Interior",
+    "caption": "Interior · Interior view of AT&T Stadium in 2022",
+    "credit": "edwarddallas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AT%26T_Stadium_2022-08-24.jpg",
+    "file": "File:AT&T Stadium 2022-08-24.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "blanton-museum-of-art",
@@ -282477,7 +287226,110 @@ window.BUILDINGS = [
   "commons": "Category:Blanton Museum of Art",
   "lead": "File:The Blanton Museum of Art at The University of Texas at Austin LCCN2014632388.tif",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg/1280px-University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Jack S",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Austin_August_2019_41_(Jack_S._Blanton_Museum_of_Art).jpg",
+    "file": "File:University of Texas at Austin August 2019 41 (Jack S. Blanton Museum of Art).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Blanton_Museum_grounds_2025.jpg/1280px-Blanton_Museum_grounds_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/1.webp",
+    "w": 1024,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Grounds of the Blanton Museum of Art in Austin in 2025",
+    "credit": "Stevensaylor",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blanton_Museum_grounds_2025.jpg",
+    "file": "File:Blanton Museum grounds 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Blanton_Museum_of_Art_-_UT_Austin_%2854984937578%29.jpg/1280px-Blanton_Museum_of_Art_-_UT_Austin_%2854984937578%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Austin, TX",
+    "credit": "ajay_suresh",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blanton_Museum_of_Art_-_UT_Austin_(54984937578).jpg",
+    "file": "File:Blanton Museum of Art - UT Austin (54984937578).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Ellsworth_Kelly%27s_%22Austin%22_%2838278505831%29.jpg/1280px-Ellsworth_Kelly%27s_%22Austin%22_%2838278505831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/3.webp",
+    "w": 1280,
+    "h": 781,
+    "kind": "Exterior",
+    "caption": "Exterior · This building (under construction) is a new item in the Blanton's permanent collection",
+    "credit": "Lars Plougmann  from United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ellsworth_Kelly%27s_%22Austin%22_(38278505831).jpg",
+    "file": "File:Ellsworth Kelly's \"Austin\" (38278505831).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Interior_view_-_Blanton_Museum_of_Art_-_Austin%2C_Texas_-_DSC08029.jpg/1280px-Interior_view_-_Blanton_Museum_of_Art_-_Austin%2C_Texas_-_DSC08029.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior view - Blanton Museum of Art - Austin, Texas",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_view_-_Blanton_Museum_of_Art_-_Austin,_Texas_-_DSC08029.jpg",
+    "file": "File:Interior view - Blanton Museum of Art - Austin, Texas - DSC08029.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Interior_view_-_Blanton_Museum_of_Art_-_Austin%2C_Texas_-_DSC08215.jpg/1280px-Interior_view_-_Blanton_Museum_of_Art_-_Austin%2C_Texas_-_DSC08215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Blanton Museum of Art - Austin, Texas, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_view_-_Blanton_Museum_of_Art_-_Austin,_Texas_-_DSC08215.jpg",
+    "file": "File:Interior view - Blanton Museum of Art - Austin, Texas - DSC08215.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Austin_Building_East_Elevation_2018.jpg/1280px-Austin_Building_East_Elevation_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/6.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Larry D. Moore",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Austin_Building_East_Elevation_2018.jpg",
+    "file": "File:Austin Building East Elevation 2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Paolo_Gerolamo_Piola_-_The_Rest_on_the_Flight_into_Egypt_-_Google_Art_Project.jpg/1280px-Paolo_Gerolamo_Piola_-_The_Rest_on_the_Flight_into_Egypt_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blanton-museum-of-art/thumbs/7.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Paolo Gerolamo Piola\n \n(1666/1724)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Paolo_Gerolamo_Piola_-_The_Rest_on_the_Flight_into_Egypt_-_Google_Art_Project.jpg",
+    "file": "File:Paolo Gerolamo Piola - The Rest on the Flight into Egypt - Google Art Project.jpg"
+   }
+  ],
+  "has": [
+   "Elevation",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "texas-state-capitol",
@@ -282501,7 +287353,83 @@ window.BUILDINGS = [
   "commons": "Category:Texas State Capitol",
   "lead": "File:2025 Texas State Capitol 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/2026-05-26_-_Texas_State_Capitol_-_01.jpg/1280px-2026-05-26_-_Texas_State_Capitol_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/texas-state-capitol/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-05-26_-_Texas_State_Capitol_-_01.jpg",
+    "file": "File:2026-05-26 - Texas State Capitol - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2026-05-26_-_Texas_State_Capitol_-_02.jpg/1280px-2026-05-26_-_Texas_State_Capitol_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/texas-state-capitol/thumbs/1.webp",
+    "w": 1280,
+    "h": 918,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026-05-26_-_Texas_State_Capitol_-_02.jpg",
+    "file": "File:2026-05-26 - Texas State Capitol - 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Austin_July_2017_1_%28Texas_State_Capitol%29.jpg/1280px-Austin_July_2017_1_%28Texas_State_Capitol%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/texas-state-capitol/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Texas State Capitol in Austin , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Austin_July_2017_1_(Texas_State_Capitol).jpg",
+    "file": "File:Austin July 2017 1 (Texas State Capitol).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Austin_July_2017_2_%28Texas_State_Capitol%29.jpg/1280px-Austin_July_2017_2_%28Texas_State_Capitol%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/texas-state-capitol/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Texas State Capitol in Austin , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Austin_July_2017_2_(Texas_State_Capitol).jpg",
+    "file": "File:Austin July 2017 2 (Texas State Capitol).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2025_Texas_State_Capitol_interior_01.jpg/1280px-2025_Texas_State_Capitol_interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/texas-state-capitol/thumbs/4.webp",
+    "w": 1056,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Texas_State_Capitol_interior_01.jpg",
+    "file": "File:2025 Texas State Capitol interior 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/2025_Texas_State_Capitol_interior_06.jpg/1280px-2025_Texas_State_Capitol_interior_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/texas-state-capitol/thumbs/5.webp",
+    "w": 1042,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2025_Texas_State_Capitol_interior_06.jpg",
+    "file": "File:2025 Texas State Capitol interior 06.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ut-austin-main-building",
@@ -282525,7 +287453,83 @@ window.BUILDINGS = [
   "commons": "Category:Main Building (University of Texas at Austin)",
   "lead": "File:University of Texas at Austin August 2019 04 (Main Building).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/University_of_Texas_at_Austin_August_2019_04_%28Main_Building%29.jpg/1280px-University_of_Texas_at_Austin_August_2019_04_%28Main_Building%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ut-austin-main-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Main Building on the campus of the University of Texas at Austin in Austin , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Austin_August_2019_04_(Main_Building).jpg",
+    "file": "File:University of Texas at Austin August 2019 04 (Main Building).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Main_Building_%28University_of_Texas_at_Austin%29_-_DSC08595.jpg/1280px-Main_Building_%28University_of_Texas_at_Austin%29_-_DSC08595.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ut-austin-main-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Main Building, University of Texas at Austin - Austin, Texas, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Building_(University_of_Texas_at_Austin)_-_DSC08595.jpg",
+    "file": "File:Main Building (University of Texas at Austin) - DSC08595.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/The_Tower_-_UT_Austin_%2854984938073%29.jpg/1280px-The_Tower_-_UT_Austin_%2854984938073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ut-austin-main-building/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Austin, TX",
+    "credit": "ajay_suresh",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Tower_-_UT_Austin_(54984938073).jpg",
+    "file": "File:The Tower - UT Austin (54984938073).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Main_Building_%28University_of_Texas_at_Austin%29_-_DSC08585.jpg/1280px-Main_Building_%28University_of_Texas_at_Austin%29_-_DSC08585.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ut-austin-main-building/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Main Building, University of Texas at Austin - Austin, Texas, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Building_(University_of_Texas_at_Austin)_-_DSC08585.jpg",
+    "file": "File:Main Building (University of Texas at Austin) - DSC08585.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/UT_Austin_Main_Building%2C_Gated_Staircase%2C_2025.jpg/1280px-UT_Austin_Main_Building%2C_Gated_Staircase%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ut-austin-main-building/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · A gated staircase in the Main Building of the University of Texas at Austin",
+    "credit": "Chevsapher",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:UT_Austin_Main_Building,_Gated_Staircase,_2025.jpg",
+    "file": "File:UT Austin Main Building, Gated Staircase, 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/UT_Austin_Main_Building%2C_Grand_Staircase%2C_2025.jpg/1280px-UT_Austin_Main_Building%2C_Grand_Staircase%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ut-austin-main-building/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The formal staircase inside the front entrance of the Main Building of the University of Texas at Austin",
+    "credit": "Chevsapher",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:UT_Austin_Main_Building,_Grand_Staircase,_2025.jpg",
+    "file": "File:UT Austin Main Building, Grand Staircase, 2025.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tower-of-the-americas",
@@ -282549,7 +287553,83 @@ window.BUILDINGS = [
   "commons": "Category:Tower of the Americas",
   "lead": "File:San Antonio May 2018 8 (Tower of the Americas).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/San_Antonio_May_2018_8_%28Tower_of_the_Americas%29.jpg/1280px-San_Antonio_May_2018_8_%28Tower_of_the_Americas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-of-the-americas/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Tower of the Americas in San Antonio , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Antonio_May_2018_8_(Tower_of_the_Americas).jpg",
+    "file": "File:San Antonio May 2018 8 (Tower of the Americas).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/HemisFair_Park_May_2018_04_%28Tower_of_the_Americas%29.jpg/1280px-HemisFair_Park_May_2018_04_%28Tower_of_the_Americas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-of-the-americas/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Tower of the Americas at HemisFair Park in San Antonio , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HemisFair_Park_May_2018_04_(Tower_of_the_Americas).jpg",
+    "file": "File:HemisFair Park May 2018 04 (Tower of the Americas).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HemisFair_Park_May_2018_11_%28Tower_of_the_Americas%29.jpg/1280px-HemisFair_Park_May_2018_11_%28Tower_of_the_Americas%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-of-the-americas/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Tower of the Americas at HemisFair Park in San Antonio , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HemisFair_Park_May_2018_11_(Tower_of_the_Americas).jpg",
+    "file": "File:HemisFair Park May 2018 11 (Tower of the Americas).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Moon_over_the_Tower_%2851748225569%29.jpg/1280px-Moon_over_the_Tower_%2851748225569%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-of-the-americas/thumbs/3.webp",
+    "w": 1280,
+    "h": 884,
+    "kind": "Exterior",
+    "caption": "Exterior · Moon over the Tower of the Americas outfitted in Christmas Colors in San Antonio, Texas",
+    "credit": "Corey Leopold",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moon_over_the_Tower_(51748225569).jpg",
+    "file": "File:Moon over the Tower (51748225569).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/San_Antonio%2C_Texas%2C_USA_-_panoramio_%2827%29.jpg/1280px-San_Antonio%2C_Texas%2C_USA_-_panoramio_%2827%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-of-the-americas/thumbs/4.webp",
+    "w": 1037,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · San Antonio, Texas, USA",
+    "credit": "MARELBU",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Antonio,_Texas,_USA_-_panoramio_(27).jpg",
+    "file": "File:San Antonio, Texas, USA - panoramio (27).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Fountains_and_waterfall_outside_Tower_of_The_Americas.jpg/1280px-Fountains_and_waterfall_outside_Tower_of_The_Americas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tower-of-the-americas/thumbs/5.webp",
+    "w": 1280,
+    "h": 442,
+    "kind": "Detail",
+    "caption": "Detail · San Antonio, Texas",
+    "credit": "Runner1928",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fountains_and_waterfall_outside_Tower_of_The_Americas.jpg",
+    "file": "File:Fountains and waterfall outside Tower of The Americas.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bass-performance-hall",
@@ -282573,7 +287653,71 @@ window.BUILDINGS = [
   "commons": "Category:Bass Performance Hall",
   "lead": "File:Fort Worth June 2016 49 (Bass Performance Hall).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Fort_Worth_June_2016_49_%28Bass_Performance_Hall%29.jpg/1280px-Fort_Worth_June_2016_49_%28Bass_Performance_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bass-performance-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Nancy Lee and Perry R",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_June_2016_49_(Bass_Performance_Hall).jpg",
+    "file": "File:Fort Worth June 2016 49 (Bass Performance Hall).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Yoonjung_Han_-_Thirteenth_Van_Cliburn_International_Piano_Competition_competitor_-_Fort_Worth%2C_Texas_-_2009_06_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/bass-performance-hall/thumbs/1.webp",
+    "w": 677,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Damon Mah",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yoonjung_Han_-_Thirteenth_Van_Cliburn_International_Piano_Competition_competitor_-_Fort_Worth,_Texas_-_2009_06_07.jpg",
+    "file": "File:Yoonjung Han - Thirteenth Van Cliburn International Piano Competition competitor - Fort Worth, Texas - 2009 06 07.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Basshall.JPG/1280px-Basshall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bass-performance-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Roger Scott - Bass Hall / 2005.1.24",
+    "credit": "Phlyr  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basshall.JPG",
+    "file": "File:Basshall.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Fort_Worth_June_2016_55_%28Bass_Performance_Hall%29.jpg/1280px-Fort_Worth_June_2016_55_%28Bass_Performance_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bass-performance-hall/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Nancy Lee and Perry R",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_Worth_June_2016_55_(Bass_Performance_Hall).jpg",
+    "file": "File:Fort Worth June 2016 55 (Bass Performance Hall).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bass-Hall-Ft-Worth-5389.jpg/1280px-Bass-Hall-Ft-Worth-5389.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bass-performance-hall/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Building sculpture at Bass Performance Hall in Fort Worth, Texas",
+    "credit": "Loadmaster  (David R. Tribble) \n \n \n\n  \n      \n \n    This image    was made by      Loadmaster (Davi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bass-Hall-Ft-Worth-5389.jpg",
+    "file": "File:Bass-Hall-Ft-Worth-5389.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "san-jacinto-monument",
@@ -282597,7 +287741,83 @@ window.BUILDINGS = [
   "commons": "Category:San Jacinto Monument",
   "lead": "File:Houston monument.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Houston_monument.jpg/1280px-Houston_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-jacinto-monument/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Houston monument",
+    "credit": "Summerbookworm",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houston_monument.jpg",
+    "file": "File:Houston monument.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/San_Jacinto_Battle_Monument_From_Reflection_Pool.jpg/1280px-San_Jacinto_Battle_Monument_From_Reflection_Pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-jacinto-monument/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The view of the San Jacinto Battle Monument from the front of the reflection pool",
+    "credit": "Gronowski26",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Jacinto_Battle_Monument_From_Reflection_Pool.jpg",
+    "file": "File:San Jacinto Battle Monument From Reflection Pool.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Gfp-texas-san-jacinto-monument-across-the-pool.jpg/1280px-Gfp-texas-san-jacinto-monument-across-the-pool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-jacinto-monument/thumbs/2.webp",
+    "w": 1280,
+    "h": 837,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yinan Chen",
+    "license": "Public Domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gfp-texas-san-jacinto-monument-across-the-pool.jpg",
+    "file": "File:Gfp-texas-san-jacinto-monument-across-the-pool.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/San_Jacinto_monument.jpg/1280px-San_Jacinto_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-jacinto-monument/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · San Jacinto monument near Huston, Texas",
+    "credit": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Jacinto_monument.jpg",
+    "file": "File:San Jacinto monument.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/San_Jacinto_Monument006.jpg/1280px-San_Jacinto_Monument006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-jacinto-monument/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · San Jacinto Monument at sunset closeup",
+    "credit": "Da Llien",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Jacinto_Monument006.jpg",
+    "file": "File:San Jacinto Monument006.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/San_Jacinto_Battle_Monument_Observation_Deck.jpg/1280px-San_Jacinto_Battle_Monument_Observation_Deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/san-jacinto-monument/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · The view from the observation deck of the San Jacinto Battle Monument",
+    "credit": "Gronowski26",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:San_Jacinto_Battle_Monument_Observation_Deck.jpg",
+    "file": "File:San Jacinto Battle Monument Observation Deck.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "skydance-bridge",
@@ -282621,7 +287841,59 @@ window.BUILDINGS = [
   "commons": "Category:SkyDance Bridge",
   "lead": "File:Oklahoma Skydance Bridge in 2019.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Oklahoma_Skydance_Bridge_in_2019.jpg/1280px-Oklahoma_Skydance_Bridge_in_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/skydance-bridge/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A photograph of the Skydance Bridge in Oklahoma in June 2019",
+    "credit": "TheDoctorWho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oklahoma_Skydance_Bridge_in_2019.jpg",
+    "file": "File:Oklahoma Skydance Bridge in 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/SkyDance_Bridge2.jpg/1280px-SkyDance_Bridge2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/skydance-bridge/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · SkyDance Bridge, Downtown Oklahoma City",
+    "credit": "Kool Cats Photography over 2 Million Views  (flickr.com)",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SkyDance_Bridge2.jpg",
+    "file": "File:SkyDance Bridge2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/SkyDance_Bridge.jpg/1280px-SkyDance_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/skydance-bridge/thumbs/2.webp",
+    "w": 1108,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a symbol of the Scissor-Tailed Flycatcher symbol for Oklahoma City",
+    "credit": "katsrcool",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SkyDance_Bridge.jpg",
+    "file": "File:SkyDance Bridge.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Skydance_Bridge_Under_Construction.jpg/1280px-Skydance_Bridge_Under_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/skydance-bridge/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The SkyDance Bridge in Oklahoma City under construction in December 2011",
+    "credit": "Soonerliberal",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skydance_Bridge_Under_Construction.jpg",
+    "file": "File:Skydance Bridge Under Construction.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gerald-d-hines-waterwall-park",
@@ -282645,7 +287917,83 @@ window.BUILDINGS = [
   "commons": "Category:Gerald D. Hines Waterwall Park",
   "lead": "File:Gerald D. Hines Waterwall Park.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Gerald_D._Hines_Waterwall_Park.jpg/1280px-Gerald_D._Hines_Waterwall_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gerald-d-hines-waterwall-park/thumbs/0.webp",
+    "w": 944,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Gerald D",
+    "credit": "Sitao Xiang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gerald_D._Hines_Waterwall_Park.jpg",
+    "file": "File:Gerald D. Hines Waterwall Park.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Geral_D._Hines_Waterwall_Park_Base.jpg/1280px-Geral_D._Hines_Waterwall_Park_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gerald-d-hines-waterwall-park/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior dome",
+    "credit": "NeOak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Geral_D._Hines_Waterwall_Park_Base.jpg",
+    "file": "File:Geral D. Hines Waterwall Park Base.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Gerald_D._Hines_Waterwall_Park%2C_Houston%2C_Texas%2C_US_julesvernex2.jpg/1280px-Gerald_D._Hines_Waterwall_Park%2C_Houston%2C_Texas%2C_US_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gerald-d-hines-waterwall-park/thumbs/2.webp",
+    "w": 1280,
+    "h": 830,
+    "kind": "Exterior",
+    "caption": "Exterior · Gerald D",
+    "credit": "Jules Verne Times Two",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gerald_D._Hines_Waterwall_Park,_Houston,_Texas,_US_julesvernex2.jpg",
+    "file": "File:Gerald D. Hines Waterwall Park, Houston, Texas, US julesvernex2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Gerald_D._Hines_Waterwall_Park%2C_Houston%2C_Texas%2C_US_julesvernex2-2.jpg/1280px-Gerald_D._Hines_Waterwall_Park%2C_Houston%2C_Texas%2C_US_julesvernex2-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gerald-d-hines-waterwall-park/thumbs/3.webp",
+    "w": 1280,
+    "h": 836,
+    "kind": "Exterior",
+    "caption": "Exterior · Gerald D",
+    "credit": "Jules Verne Times Two",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gerald_D._Hines_Waterwall_Park,_Houston,_Texas,_US_julesvernex2-2.jpg",
+    "file": "File:Gerald D. Hines Waterwall Park, Houston, Texas, US julesvernex2-2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Gerald_D.Hines_Waterwall.jpg/1280px-Gerald_D.Hines_Waterwall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gerald-d-hines-waterwall-park/thumbs/4.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Gerald D.Hines Waterwall, Houston, Texas, USA",
+    "credit": "গীতাশ্ৰী গগৈ আপ্তে",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gerald_D.Hines_Waterwall.jpg",
+    "file": "File:Gerald D.Hines Waterwall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Geral_D._Hines_Waterwall_Park_Plaque.jpg/1280px-Geral_D._Hines_Waterwall_Park_Plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gerald-d-hines-waterwall-park/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Plaque describing the Water Wall",
+    "credit": "NeOak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Geral_D._Hines_Waterwall_Park_Plaque.jpg",
+    "file": "File:Geral D. Hines Waterwall Park Plaque.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "houston-city-hall",
@@ -282669,7 +288017,59 @@ window.BUILDINGS = [
   "commons": "Category:Houston City Hall",
   "lead": "File:Houston City Hall from Hermann Square (HDR).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Houston_City_Hall_from_Hermann_Square_%28HDR%29.jpg/1280px-Houston_City_Hall_from_Hermann_Square_%28HDR%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-city-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ed Uthman , Houston, Texas, USA",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houston_City_Hall_from_Hermann_Square_(HDR).jpg",
+    "file": "File:Houston City Hall from Hermann Square (HDR).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Houston_City_Hall_in_January_2012.JPG/1280px-Houston_City_Hall_in_January_2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-city-hall/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Houston City Hall in January 2012",
+    "credit": "Another Believer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houston_City_Hall_in_January_2012.JPG",
+    "file": "File:Houston City Hall in January 2012.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Entrance%2C_City_Hall%2C_Houston%2C_Texas_1703281215_%2833759177195%29.jpg/1280px-Entrance%2C_City_Hall%2C_Houston%2C_Texas_1703281215_%2833759177195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-city-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Interior",
+    "caption": "Interior · Entrance, City Hall, Houston, Texas 1703281215",
+    "credit": "Patrick Feller  from Humble, Texas, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance,_City_Hall,_Houston,_Texas_1703281215_(33759177195).jpg",
+    "file": "File:Entrance, City Hall, Houston, Texas 1703281215 (33759177195).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Houston_City_Hall_August_2010.jpg/1280px-Houston_City_Hall_August_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/houston-city-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 1078,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Jujutacular",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houston_City_Hall_August_2010.jpg",
+    "file": "File:Houston City Hall August 2010.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "oklahoma-state-capitol",
@@ -282693,7 +288093,83 @@ window.BUILDINGS = [
   "commons": "Category:Oklahoma State Capitol",
   "lead": "File:Central view of Oklahoma Capitol building.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Central_view_of_Oklahoma_Capitol_building.JPG/1280px-Central_view_of_Oklahoma_Capitol_building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/oklahoma-state-capitol/thumbs/0.webp",
+    "w": 1280,
+    "h": 744,
+    "kind": "Exterior",
+    "caption": "Exterior · Oklahoma City",
+    "credit": "Daniel Mayer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_view_of_Oklahoma_Capitol_building.JPG",
+    "file": "File:Central view of Oklahoma Capitol building.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Oklahoma_state_capitol_building.jpg/1280px-Oklahoma_state_capitol_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/oklahoma-state-capitol/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The state capitol building in Oklahoma City, Oklahoma",
+    "credit": "F McGady",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oklahoma_state_capitol_building.jpg",
+    "file": "File:Oklahoma state capitol building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Oklahoma_State_Capitol_exterior.jpg/1280px-Oklahoma_State_Capitol_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/oklahoma-state-capitol/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior of the Oklahoma State Capitol",
+    "credit": "Steve",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oklahoma_State_Capitol_exterior.jpg",
+    "file": "File:Oklahoma State Capitol exterior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/01_Oklahoma_State_Capitol_House_Chamber.jpg/1280px-01_Oklahoma_State_Capitol_House_Chamber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/oklahoma-state-capitol/thumbs/3.webp",
+    "w": 1280,
+    "h": 978,
+    "kind": "Interior",
+    "caption": "Interior · 01 Oklahoma State Capitol House Chamber",
+    "credit": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:01_Oklahoma_State_Capitol_House_Chamber.jpg",
+    "file": "File:01 Oklahoma State Capitol House Chamber.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/04_Oklahoma_State_Capitol_Staircase.jpg/1280px-04_Oklahoma_State_Capitol_Staircase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/oklahoma-state-capitol/thumbs/4.webp",
+    "w": 1047,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · 04 Oklahoma State Capitol Staircase",
+    "credit": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:04_Oklahoma_State_Capitol_Staircase.jpg",
+    "file": "File:04 Oklahoma State Capitol Staircase.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Oklahoma_State_Capitol%2C_Lincoln_Boulevard%2C_Oklahoma_City%2C_OK_-_54009981897.jpg/1280px-Oklahoma_State_Capitol%2C_Lincoln_Boulevard%2C_Oklahoma_City%2C_OK_-_54009981897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/oklahoma-state-capitol/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oklahoma_State_Capitol,_Lincoln_Boulevard,_Oklahoma_City,_OK_-_54009981897.jpg",
+    "file": "File:Oklahoma State Capitol, Lincoln Boulevard, Oklahoma City, OK - 54009981897.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hall-of-state-fair-park",
@@ -282717,7 +288193,59 @@ window.BUILDINGS = [
   "commons": "Category:Hall of State (Fair Park, Dallas)",
   "lead": "File:Fair Park August 2016 47 (Hall of State).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Fair_Park_August_2016_47_%28Hall_of_State%29.jpg/1280px-Fair_Park_August_2016_47_%28Hall_of_State%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hall-of-state-fair-park/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Hall of State at Fair Park in Dallas , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fair_Park_August_2016_47_(Hall_of_State).jpg",
+    "file": "File:Fair Park August 2016 47 (Hall of State).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Dallas_Fair_Park_Hall_of_State_2009.jpg/1280px-Dallas_Fair_Park_Hall_of_State_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hall-of-state-fair-park/thumbs/1.webp",
+    "w": 1280,
+    "h": 631,
+    "kind": "Interior",
+    "caption": "Interior · Dallas, Texas: Fair Park Hall of State",
+    "credit": "Photo: Andreas Praefcke",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Fair_Park_Hall_of_State_2009.jpg",
+    "file": "File:Dallas Fair Park Hall of State 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Fair_Park_August_2016_46_%28Hall_of_State%29.jpg/1280px-Fair_Park_August_2016_46_%28Hall_of_State%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hall-of-state-fair-park/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Hall of State at Fair Park in Dallas , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fair_Park_August_2016_46_(Hall_of_State).jpg",
+    "file": "File:Fair Park August 2016 46 (Hall of State).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/State_Fair_of_Texas_September_2019_25_%28Hall_of_State%29.jpg/1280px-State_Fair_of_Texas_September_2019_25_%28Hall_of_State%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hall-of-state-fair-park/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The interior of the Hall of State at the State Fair of Texas in Dallas , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:State_Fair_of_Texas_September_2019_25_(Hall_of_State).jpg",
+    "file": "File:State Fair of Texas September 2019 25 (Hall of State).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bishops-palace-galveston",
@@ -282741,7 +288269,83 @@ window.BUILDINGS = [
   "commons": "Category:Bishop's Palace, Galveston",
   "lead": "File:Galveston March 2022 25 (Bishop's Palace).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Galveston_March_2022_25_%28Bishop%27s_Palace%29.jpg/1280px-Galveston_March_2022_25_%28Bishop%27s_Palace%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishops-palace-galveston/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Bishop's Palace in Galveston , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galveston_March_2022_25_(Bishop%27s_Palace).jpg",
+    "file": "File:Galveston March 2022 25 (Bishop's Palace).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bishops_Palace_%281_of_1%29.jpg/1280px-Bishops_Palace_%281_of_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishops-palace-galveston/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bishop's Palace in Galveston, Texas",
+    "credit": "Renelibrary",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishops_Palace_(1_of_1).jpg",
+    "file": "File:Bishops Palace (1 of 1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bishop%27s_Palace_-_Galveston_01.jpg/1280px-Bishop%27s_Palace_-_Galveston_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishops-palace-galveston/thumbs/2.webp",
+    "w": 1018,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishop%27s_Palace_-_Galveston_01.jpg",
+    "file": "File:Bishop's Palace - Galveston 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Bishop%E2%80%99s_Palace_in_Galveston_Texas%2C_taken_on_a_Nokia_Lumia_1520.jpg/1280px-Bishop%E2%80%99s_Palace_in_Galveston_Texas%2C_taken_on_a_Nokia_Lumia_1520.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishops-palace-galveston/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Joseph58tech",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishop%E2%80%99s_Palace_in_Galveston_Texas,_taken_on_a_Nokia_Lumia_1520.jpg",
+    "file": "File:Bishop’s Palace in Galveston Texas, taken on a Nokia Lumia 1520.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Bishop%27s_Palace_-_Galveston_04.jpg/1280px-Bishop%27s_Palace_-_Galveston_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishops-palace-galveston/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bishop%27s_Palace_-_Galveston_04.jpg",
+    "file": "File:Bishop's Palace - Galveston 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Entry_Stair_With_Historic_Markers.jpg/1280px-Entry_Stair_With_Historic_Markers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bishops-palace-galveston/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Entry stairs of the Palace showing column detail and various historic markers",
+    "credit": "Eejjmm8888",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entry_Stair_With_Historic_Markers.jpg",
+    "file": "File:Entry Stair With Historic Markers.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "boston-avenue-methodist-church",
@@ -282765,7 +288369,83 @@ window.BUILDINGS = [
   "commons": "Category:Boston Avenue United Methodist Church (Tulsa, Oklahoma)",
   "lead": "File:Boston Avenue Methodist Church, July 2019.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Boston_Avenue_Methodist_Church%2C_July_2019.jpg/1280px-Boston_Avenue_Methodist_Church%2C_July_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-avenue-methodist-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Boston Avenue United Methodist Church in July 2019",
+    "credit": "Pom'  from France, European Union",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_Avenue_Methodist_Church,_July_2019.jpg",
+    "file": "File:Boston Avenue Methodist Church, July 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Boston_Avenue_Methodist_Church.jpg/1280px-Boston_Avenue_Methodist_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-avenue-methodist-church/thumbs/1.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "The original uploader was  CPacker  at  English Wikipedia .",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_Avenue_Methodist_Church.jpg",
+    "file": "File:Boston Avenue Methodist Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Boston_Avenue_Church%2C_May_2022.jpg/1280px-Boston_Avenue_Church%2C_May_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-avenue-methodist-church/thumbs/2.webp",
+    "w": 1279,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Boston Avenue Church in May 2022",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_Avenue_Church,_May_2022.jpg",
+    "file": "File:Boston Avenue Church, May 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Boston_Avenue_Methodist_Episcopal_Church%2C_Tulsa%2C_OK%2C_Interior%2C_Altar_in_Sanctuary_01.JPG/1280px-Boston_Avenue_Methodist_Episcopal_Church%2C_Tulsa%2C_OK%2C_Interior%2C_Altar_in_Sanctuary_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-avenue-methodist-church/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Boston Avenue Methodist Episcopal Church, 1301 South Boston Ave",
+    "credit": "Sarah J Malerich",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_Avenue_Methodist_Episcopal_Church,_Tulsa,_OK,_Interior,_Altar_in_Sanctuary_01.JPG",
+    "file": "File:Boston Avenue Methodist Episcopal Church, Tulsa, OK, Interior, Altar in Sanctuary 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/From_the_choir_loft.jpg/1280px-From_the_choir_loft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-avenue-methodist-church/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · A pastor kindly led me to the sanctuary and turned on the lights!!",
+    "credit": "Eejjmm8888",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:From_the_choir_loft.jpg",
+    "file": "File:From the choir loft.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Boston_Avenue_Methodist_Episcopal_Church%2C_Tulsa%2C_OK%2C_Exterior%2C_North_07.JPG/1280px-Boston_Avenue_Methodist_Episcopal_Church%2C_Tulsa%2C_OK%2C_Exterior%2C_North_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boston-avenue-methodist-church/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Boston Avenue Methodist Episcopal Church, 1301 South Boston Ave",
+    "credit": "Sarah J Malerich",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boston_Avenue_Methodist_Episcopal_Church,_Tulsa,_OK,_Exterior,_North_07.JPG",
+    "file": "File:Boston Avenue Methodist Episcopal Church, Tulsa, OK, Exterior, North 07.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wortham-theater-center",
@@ -282789,7 +288469,59 @@ window.BUILDINGS = [
   "commons": "Category:Wortham Theater Center",
   "lead": "File:Wortham Center, Houston, Texas, Jan. 2012.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wortham_Center%2C_Houston%2C_Texas%2C_Jan._2012.JPG/1280px-Wortham_Center%2C_Houston%2C_Texas%2C_Jan._2012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wortham-theater-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Wortham Center in Houston, Texas in January 2012",
+    "credit": "Another Believer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wortham_Center,_Houston,_Texas,_Jan._2012.JPG",
+    "file": "File:Wortham Center, Houston, Texas, Jan. 2012.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Wortham_Center_at_Buffalo_Bayou%2C_Houston%2C_Texas.JPG/1280px-Wortham_Center_at_Buffalo_Bayou%2C_Houston%2C_Texas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wortham-theater-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Wortham Center at Buffalo Bayou, Houston, Texas in January 2012",
+    "credit": "Another Believer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wortham_Center_at_Buffalo_Bayou,_Houston,_Texas.JPG",
+    "file": "File:Wortham Center at Buffalo Bayou, Houston, Texas.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Worthamcenterhouston02.jpg/1280px-Worthamcenterhouston02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wortham-theater-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Wortham Theater Center parking garage entrance",
+    "credit": "WhisperToMe",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Worthamcenterhouston02.jpg",
+    "file": "File:Worthamcenterhouston02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Worthamtheatercenter.jpg/1280px-Worthamtheatercenter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wortham-theater-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Wortham Theater Center parking garage entrance",
+    "credit": "WhisperToMe",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Worthamtheatercenter.jpg",
+    "file": "File:Worthamtheatercenter.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "dallas-hall-smu",
@@ -282813,7 +288545,59 @@ window.BUILDINGS = [
   "commons": "Category:Dallas Hall (Southern Methodist University)",
   "lead": "File:Southern Methodist University July 2016 104 (Dallas Hall).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Southern_Methodist_University_July_2016_104_%28Dallas_Hall%29.jpg/1280px-Southern_Methodist_University_July_2016_104_%28Dallas_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dallas-hall-smu/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Dallas Hall on the campus of Southern Methodist University in University Park , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Southern_Methodist_University_July_2016_104_(Dallas_Hall).jpg",
+    "file": "File:Southern Methodist University July 2016 104 (Dallas Hall).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Dallas_Hall_at_SMU_looking_northeast.jpg/1280px-Dallas_Hall_at_SMU_looking_northeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dallas-hall-smu/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Dallas Hall from southwestern corner",
+    "credit": "Abrown4055",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Hall_at_SMU_looking_northeast.jpg",
+    "file": "File:Dallas Hall at SMU looking northeast.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Dallas_Hall_on_the_campus_of_Southern_Methodist_University%2C_Dallas%2C_Texas_LCCN2015630915.jpg/1280px-Dallas_Hall_on_the_campus_of_Southern_Methodist_University%2C_Dallas%2C_Texas_LCCN2015630915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dallas-hall-smu/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Dallas_Hall_on_the_campus_of_Southern_Methodist_University,_Dallas,_Texas_LCCN2015630915.jpg",
+    "file": "File:Dallas Hall on the campus of Southern Methodist University, Dallas, Texas LCCN2015630915.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Southern_Methodist_University_July_2016_107_%28Dallas_Hall%29.jpg/1280px-Southern_Methodist_University_July_2016_107_%28Dallas_Hall%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dallas-hall-smu/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Dallas Hall on the campus of Southern Methodist University in University Park , Texas ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Southern_Methodist_University_July_2016_107_(Dallas_Hall).jpg",
+    "file": "File:Southern Methodist University July 2016 107 (Dallas Hall).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bok-center",
@@ -282837,7 +288621,83 @@ window.BUILDINGS = [
   "commons": "Category:BOK Center",
   "lead": "File:BOK Center from above Tulsa OK 2024-11-09 13-26-51 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/BOK_Center_from_above_Tulsa_OK_2024-11-09_13-26-51_1.jpg/1280px-BOK_Center_from_above_Tulsa_OK_2024-11-09_13-26-51_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bok-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Looking down on the BOK Center, a round multi-purpose arena",
+    "credit": "G. Edward Johnson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BOK_Center_from_above_Tulsa_OK_2024-11-09_13-26-51_1.jpg",
+    "file": "File:BOK Center from above Tulsa OK 2024-11-09 13-26-51 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/BOK_Center_faccade.JPG/1280px-BOK_Center_faccade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bok-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 904,
+    "kind": "Exterior",
+    "caption": "Exterior · The BOK Center in Tulsa, Oklahoma",
+    "credit": "Okiefromokla",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:BOK_Center_faccade.JPG",
+    "file": "File:BOK Center faccade.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/FleetMacTulsa031018_%2831359936748%29.jpg/1280px-FleetMacTulsa031018_%2831359936748%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bok-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Fleetwood Mac - BOK Center Tulsa - Wednesday 3rd October 2018",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FleetMacTulsa031018_(31359936748).jpg",
+    "file": "File:FleetMacTulsa031018 (31359936748).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/FleetMacTulsa031018-60_%2831359854358%29.jpg/1280px-FleetMacTulsa031018-60_%2831359854358%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bok-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Fleetwood Mac - BOK Center Tulsa - Wednesday 3rd October 2018",
+    "credit": "Raph_PH",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FleetMacTulsa031018-60_(31359854358).jpg",
+    "file": "File:FleetMacTulsa031018-60 (31359854358).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/U2_performing_on_Experience_%2B_Innocence_Tour_in_Tulsa_05-02-18_%2811%29.jpg/1280px-U2_performing_on_Experience_%2B_Innocence_Tour_in_Tulsa_05-02-18_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bok-center/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "U2start",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:U2_performing_on_Experience_%2B_Innocence_Tour_in_Tulsa_05-02-18_(11).jpg",
+    "file": "File:U2 performing on Experience + Innocence Tour in Tulsa 05-02-18 (11).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Inside_BOK_Center.JPG/1280px-Inside_BOK_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bok-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside the BOK Center in Tulsa Oklahoma on the August 30 open house",
+    "credit": "Okiefromokla",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_BOK_Center.JPG",
+    "file": "File:Inside BOK Center.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "first-americans-museum",
@@ -282861,7 +288721,59 @@ window.BUILDINGS = [
   "commons": "Category:First Americans Museum",
   "lead": "File:First Americans Museum Campus Oklahoma City 2025.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/First_Americans_Museum_Campus_Oklahoma_City_2025.jpg/1280px-First_Americans_Museum_Campus_Oklahoma_City_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-americans-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Larry D. Moore",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Americans_Museum_Campus_Oklahoma_City_2025.jpg",
+    "file": "File:First Americans Museum Campus Oklahoma City 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/First_Americans_Museum_Oklahoma_City_2025.jpg/1280px-First_Americans_Museum_Oklahoma_City_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-americans-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Larry D. Moore",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Americans_Museum_Oklahoma_City_2025.jpg",
+    "file": "File:First Americans Museum Oklahoma City 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/First_Americans_Museum.jpg/1280px-First_Americans_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-americans-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 786,
+    "kind": "Exterior",
+    "caption": "Exterior · First Americans Museum in Oklahoma City",
+    "credit": "Wesley Fryer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Americans_Museum.jpg",
+    "file": "File:First Americans Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/First_Americans_Museum_-_51580363676.jpg/1280px-First_Americans_Museum_-_51580363676.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-americans-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wesley Fryer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Americans_Museum_-_51580363676.jpg",
+    "file": "File:First Americans Museum - 51580363676.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hunt-library",
@@ -282885,7 +288797,71 @@ window.BUILDINGS = [
   "commons": "Category:James B. Hunt Jr. Library",
   "lead": "File:Hunt Library Exterior 2.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Hunt_Library_Exterior_2.JPG/1280px-Hunt_Library_Exterior_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hunt-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · second angle of Hunt",
+    "credit": "Seannator",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hunt_Library_Exterior_2.JPG",
+    "file": "File:Hunt Library Exterior 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hunt_Library_Commons_Area.JPG/1280px-Hunt_Library_Commons_Area.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hunt-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · common area next to lobby where students can study and read",
+    "credit": "Seannator",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hunt_Library_Commons_Area.JPG",
+    "file": "File:Hunt Library Commons Area.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/NCSU_Hunt_Library_Book_Robot_20130109.png/1280px-NCSU_Hunt_Library_Book_Robot_20130109.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hunt-library/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · North Carolina State University James B",
+    "credit": "Rhododendrites",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NCSU_Hunt_Library_Book_Robot_20130109.png",
+    "file": "File:NCSU Hunt Library Book Robot 20130109.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Hunt_Library_bookBot_Viewing_Window.JPG/1280px-Hunt_Library_bookBot_Viewing_Window.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hunt-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · students can view through these windows to see the bookBot in action",
+    "credit": "Seannator",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hunt_Library_bookBot_Viewing_Window.JPG",
+    "file": "File:Hunt Library bookBot Viewing Window.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/NCSU_Hunt_Library_rooftop_study_area_2013-01.jpg/1280px-NCSU_Hunt_Library_rooftop_study_area_2013-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hunt-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · North Carolina State University James B",
+    "credit": "Rhododendrites",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NCSU_Hunt_Library_rooftop_study_area_2013-01.jpg",
+    "file": "File:NCSU Hunt Library rooftop study area 2013-01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "salvador-dali-museum",
@@ -282909,7 +288885,83 @@ window.BUILDINGS = [
   "commons": "Category:Salvador Dalí Museum",
   "lead": "File:St. Pete Dali Museum03.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/St._Pete_Dali_Museum03.jpg/1280px-St._Pete_Dali_Museum03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/salvador-dali-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "Ebyabe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Pete_Dali_Museum03.jpg",
+    "file": "File:St. Pete Dali Museum03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Salvador_Dal%C3%AD_Museum.JPG/1280px-Salvador_Dal%C3%AD_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/salvador-dali-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Salvador Dalí Museum (2011) at St",
+    "credit": "Taty2007",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_Museum.JPG",
+    "file": "File:Salvador Dalí Museum.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dali_Museum_%282026%29.jpg/1280px-Dali_Museum_%282026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/salvador-dali-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Dali Museum in 2026",
+    "credit": "Obsidiannugget11",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dali_Museum_(2026).jpg",
+    "file": "File:Dali Museum (2026).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Dali_Museum_in_2026.jpg/1280px-Dali_Museum_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/salvador-dali-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 1022,
+    "kind": "Exterior",
+    "caption": "Exterior · The Dalí Museum in 2026",
+    "credit": "Obsidiannugget11",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dali_Museum_in_2026.jpg",
+    "file": "File:Dali Museum in 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Salvador_Dal%C3%AD_Museum_2025a.jpg/1280px-Salvador_Dal%C3%AD_Museum_2025a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/salvador-dali-museum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Salvador Dalí Museum in St",
+    "credit": "Antony-22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_Museum_2025a.jpg",
+    "file": "File:Salvador Dalí Museum 2025a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Salvador_Dal%C3%AD_Museum_2025b.jpg/1280px-Salvador_Dal%C3%AD_Museum_2025b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/salvador-dali-museum/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Salvador Dalí Museum in St",
+    "credit": "Antony-22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Salvador_Dal%C3%AD_Museum_2025b.jpg",
+    "file": "File:Salvador Dalí Museum 2025b.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "freedom-tower-miami",
@@ -282933,7 +288985,83 @@ window.BUILDINGS = [
   "commons": "Category:Freedom Tower (Miami)",
   "lead": "File:Freedom Tower, Miami, Southeast view 20160709 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Freedom_Tower%2C_Miami%2C_Southeast_view_20160709_1.jpg/1280px-Freedom_Tower%2C_Miami%2C_Southeast_view_20160709_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freedom-tower-miami/thumbs/0.webp",
+    "w": 756,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A southeast view of Freedom Tower, Miami, Florida",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Freedom_Tower,_Miami,_Southeast_view_20160709_1.jpg",
+    "file": "File:Freedom Tower, Miami, Southeast view 20160709 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Freedom_Tower_Miami_%28top%29%2C_NE_view.jpg/1280px-Freedom_Tower_Miami_%28top%29%2C_NE_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freedom-tower-miami/thumbs/1.webp",
+    "w": 1280,
+    "h": 860,
+    "kind": "Exterior",
+    "caption": "Exterior · Top of the Freedom Tower , Downtown Miami , Florida",
+    "credit": "Photograph:   Radomianin",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Freedom_Tower_Miami_(top),_NE_view.jpg",
+    "file": "File:Freedom Tower Miami (top), NE view.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Freedom_Tower_%28Miami%2C_Fl.%29.jpg/1280px-Freedom_Tower_%28Miami%2C_Fl.%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freedom-tower-miami/thumbs/2.webp",
+    "w": 1280,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Freedom Tower",
+    "credit": "Federico Pirruccio",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Freedom_Tower_(Miami,_Fl.).jpg",
+    "file": "File:Freedom Tower (Miami, Fl.).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Freedom_Tower_Miami_East_View.JPG/1280px-Freedom_Tower_Miami_East_View.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freedom-tower-miami/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Freedom Tower",
+    "credit": "Luis E Gonzalez Lorenzo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Freedom_Tower_Miami_East_View.JPG",
+    "file": "File:Freedom Tower Miami East View.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Interior_Freedom_Tower_Downtown_Miami_1925_%2823185877805%29.jpg/1280px-Interior_Freedom_Tower_Downtown_Miami_1925_%2823185877805%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freedom-tower-miami/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · U.S",
+    "credit": "Phillip Pessar",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_Freedom_Tower_Downtown_Miami_1925_(23185877805).jpg",
+    "file": "File:Interior Freedom Tower Downtown Miami 1925 (23185877805).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Interior_Freedom_Tower_Downtown_Miami_1925_%2822557416384%29.jpg/1280px-Interior_Freedom_Tower_Downtown_Miami_1925_%2822557416384%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/freedom-tower-miami/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · U.S",
+    "credit": "Phillip Pessar",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_Freedom_Tower_Downtown_Miami_1925_(22557416384).jpg",
+    "file": "File:Interior Freedom Tower Downtown Miami 1925 (22557416384).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "biltmore-hotel-coral-gables",
@@ -282957,7 +289085,83 @@ window.BUILDINGS = [
   "commons": "Category:Biltmore Hotel at Coral Gables",
   "lead": "File:Miami - Biltmore hotel - 0341.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Miami_-_Biltmore_hotel_-_0341.jpg/1280px-Miami_-_Biltmore_hotel_-_0341.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-hotel-coral-gables/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miami_-_Biltmore_hotel_-_0341.jpg",
+    "file": "File:Miami - Biltmore hotel - 0341.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Coral_Gables_FL_Biltmore01.jpg/1280px-Coral_Gables_FL_Biltmore01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-hotel-coral-gables/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Coral Gables, Florida : Coral Gables Biltmore Hotel :",
+    "credit": "Ebyabe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coral_Gables_FL_Biltmore01.jpg",
+    "file": "File:Coral Gables FL Biltmore01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Coral_Gables_-_Biltmore_Hotel_hallway.jpg/1280px-Coral_Gables_-_Biltmore_Hotel_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-hotel-coral-gables/thumbs/2.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Hallway, Biltmore Hotel, Coral Gables, Florida",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coral_Gables_-_Biltmore_Hotel_hallway.jpg",
+    "file": "File:Coral Gables - Biltmore Hotel hallway.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Coral_Gables_-_Biltmore_Hotel.jpg/1280px-Coral_Gables_-_Biltmore_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-hotel-coral-gables/thumbs/3.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Partial view, Biltmore Hotel, Coral Gables, Florida",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coral_Gables_-_Biltmore_Hotel.jpg",
+    "file": "File:Coral Gables - Biltmore Hotel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Miami_-_The_Biltmore_1.jpg/1280px-Miami_-_The_Biltmore_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-hotel-coral-gables/thumbs/4.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View of tower, Biltmore Hotel, Miami, Florida",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miami_-_The_Biltmore_1.jpg",
+    "file": "File:Miami - The Biltmore 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Biltmore_Hotel_at_Coral_Gables%28js%2905.jpg/1280px-Biltmore_Hotel_at_Coral_Gables%28js%2905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-hotel-coral-gables/thumbs/5.webp",
+    "w": 918,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Biltmore Hotel at Coral Gables, Floryda",
+    "credit": "Jerzystrzelecki",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_Hotel_at_Coral_Gables(js)05.jpg",
+    "file": "File:Biltmore Hotel at Coral Gables(js)05.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "vizcaya-museum-and-gardens",
@@ -282981,7 +289185,83 @@ window.BUILDINGS = [
   "commons": "Category:Vizcaya Museum and Gardens",
   "lead": "File:Villa Vizcaya 20110228.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Villa_Vizcaya_20110228.jpg/1280px-Villa_Vizcaya_20110228.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vizcaya-museum-and-gardens/thumbs/0.webp",
+    "w": 1280,
+    "h": 711,
+    "kind": "Interior",
+    "caption": "Interior · I, the copyright holder of this work, hereby publish it under the following license:",
+    "credit": "Averette",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Vizcaya_20110228.jpg",
+    "file": "File:Villa Vizcaya 20110228.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casino_-_Vizcaya_Museum_and_Gardens_-_Miami%2C_Florida_-_DSC08671.jpg/1280px-Casino_-_Vizcaya_Museum_and_Gardens_-_Miami%2C_Florida_-_DSC08671.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vizcaya-museum-and-gardens/thumbs/1.webp",
+    "w": 1280,
+    "h": 835,
+    "kind": "Context",
+    "caption": "Context · Casino - Vizcaya Museum and Gardens - Miami, Florida, USA",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Casino_-_Vizcaya_Museum_and_Gardens_-_Miami,_Florida_-_DSC08671.jpg",
+    "file": "File:Casino - Vizcaya Museum and Gardens - Miami, Florida - DSC08671.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Chandelier_with_electric_light_and_perfume_globes%2C_interior%2C_Vizcaya_IMG_20190918_145336716.jpg/1280px-Chandelier_with_electric_light_and_perfume_globes%2C_interior%2C_Vizcaya_IMG_20190918_145336716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vizcaya-museum-and-gardens/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Chandelier with electric light and perfume globes, interior of Vizcaya Museum and Gardens",
+    "credit": "Mary Mark Ockerbloom",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chandelier_with_electric_light_and_perfume_globes,_interior,_Vizcaya_IMG_20190918_145336716.jpg",
+    "file": "File:Chandelier with electric light and perfume globes, interior, Vizcaya IMG 20190918 145336716.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Courtyard_at_Vizcaya_with_anemometer_for_wind_measurement_IMG_20190918_144317726_HDR.jpg/1280px-Courtyard_at_Vizcaya_with_anemometer_for_wind_measurement_IMG_20190918_144317726_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vizcaya-museum-and-gardens/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Mary Mark Ockerbloom",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Courtyard_at_Vizcaya_with_anemometer_for_wind_measurement_IMG_20190918_144317726_HDR.jpg",
+    "file": "File:Courtyard at Vizcaya with anemometer for wind measurement IMG 20190918 144317726 HDR.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Electric_refridgerator%2C_kitchen_at_Vizcaya_IMG_20190918_152929944_MP.jpg/1280px-Electric_refridgerator%2C_kitchen_at_Vizcaya_IMG_20190918_152929944_MP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vizcaya-museum-and-gardens/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Electric refridgeration ca",
+    "credit": "Mary Mark Ockerbloom",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Electric_refridgerator,_kitchen_at_Vizcaya_IMG_20190918_152929944_MP.jpg",
+    "file": "File:Electric refridgerator, kitchen at Vizcaya IMG 20190918 152929944 MP.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vizcaya_Deering_to_Chalfin_19170124_Attention_to_Details_1.jpg/1280px-Vizcaya_Deering_to_Chalfin_19170124_Attention_to_Details_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vizcaya-museum-and-gardens/thumbs/5.webp",
+    "w": 1104,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "James Deering (November 12, 1859 – September 21, 1925)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Vizcaya_Deering_to_Chalfin_19170124_Attention_to_Details_1.jpg",
+    "file": "File:Vizcaya Deering to Chalfin 19170124 Attention to Details 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nasher-museum-of-art",
@@ -283005,7 +289285,59 @@ window.BUILDINGS = [
   "commons": "Category:Nasher Museum of Art",
   "lead": "File:NasherMuseum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/NasherMuseum.jpg/1280px-NasherMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nasher-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Nasher Museum at Duke University",
+    "credit": "self",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NasherMuseum.jpg",
+    "file": "File:NasherMuseum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/2008-07-24_Nasher_Museum_of_Art.jpg/1280px-2008-07-24_Nasher_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nasher-museum-of-art/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A truck parked in the rear quarters of the Nasher Museum of Art at Duke University in Durham, North Carolina ",
+    "credit": "Ildar Sagdejev ( Specious )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2008-07-24_Nasher_Museum_of_Art.jpg",
+    "file": "File:2008-07-24 Nasher Museum of Art.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Barkley_L._Hendricks_at_the_Nasher_Museum_of_Art%2C_Duke_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/nasher-museum-of-art/thumbs/2.webp",
+    "w": 853,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Barkley L",
+    "credit": "Photo by Duke Photography.",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Barkley_L._Hendricks_at_the_Nasher_Museum_of_Art,_Duke_University.jpg",
+    "file": "File:Barkley L. Hendricks at the Nasher Museum of Art, Duke University.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Jasper_Geeraerts_%28attr.%29_-_Still_Life_with_Meat_Pie.jpg/1280px-Jasper_Geeraerts_%28attr.%29_-_Still_Life_with_Meat_Pie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nasher-museum-of-art/thumbs/3.webp",
+    "w": 1280,
+    "h": 947,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jasper Geeraards",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jasper_Geeraerts_(attr.)_-_Still_Life_with_Meat_Pie.jpg",
+    "file": "File:Jasper Geeraerts (attr.) - Still Life with Meat Pie.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "biltmore-house",
@@ -283029,7 +289361,110 @@ window.BUILDINGS = [
   "commons": "Category:Biltmore Estate",
   "lead": "File:Biltmore House front facade Asheville North Carolina - May 2026.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Biltmore_House_front_facade_Asheville_North_Carolina_-_May_2026.jpg/1280px-Biltmore_House_front_facade_Asheville_North_Carolina_-_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 698,
+    "kind": "Interior",
+    "caption": "Interior · Front facade of Biltmore House at Biltmore Estate in Asheville, North Carolina, United States",
+    "credit": "WillThomas",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_House_front_facade_Asheville_North_Carolina_-_May_2026.jpg",
+    "file": "File:Biltmore House front facade Asheville North Carolina - May 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Biltmore_Estate%2C_2012.jpg/1280px-Biltmore_Estate%2C_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Biltmore Estate",
+    "credit": "Blake Lewis",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_Estate,_2012.jpg",
+    "file": "File:Biltmore Estate, 2012.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Asheville_-_Biltmore_Estate_under_construction.jpg/1280px-Asheville_-_Biltmore_Estate_under_construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 810,
+    "kind": "Exterior",
+    "caption": "Exterior · silver gelatin print",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Asheville_-_Biltmore_Estate_under_construction.jpg",
+    "file": "File:Asheville - Biltmore Estate under construction.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Biltmore_Estate%2C_Asheville%2C_NC_-_51107580701.jpg/1280px-Biltmore_Estate%2C_Asheville%2C_NC_-_51107580701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 945,
+    "kind": "Exterior",
+    "caption": "Exterior · Asheville, North Carolina",
+    "credit": "Sergiy Galyonkin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_Estate,_Asheville,_NC_-_51107580701.jpg",
+    "file": "File:Biltmore Estate, Asheville, NC - 51107580701.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Biltmore_Estate_Drive%2C_Asheville%2C_United_States_%28Unsplash%29.jpg/1280px-Biltmore_Estate_Drive%2C_Asheville%2C_United_States_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Biltmore Estate Drive, Asheville, United States",
+    "credit": "Chris Abney  chrisabney",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_Estate_Drive,_Asheville,_United_States_(Unsplash).jpg",
+    "file": "File:Biltmore Estate Drive, Asheville, United States (Unsplash).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Biltmore_Mound_archaeological_site_agricultural_field_view_from_Winery_Rd_zoomed_in_-_2026_%281_of_1%29.jpg/1280px-Biltmore_Mound_archaeological_site_agricultural_field_view_from_Winery_Rd_zoomed_in_-_2026_%281_of_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 725,
+    "kind": "Detail",
+    "caption": "Detail · Close-up view of the Biltmore Mound from Winery Road",
+    "credit": "WillThomas",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_Mound_archaeological_site_agricultural_field_view_from_Winery_Rd_zoomed_in_-_2026_(1_of_1).jpg",
+    "file": "File:Biltmore Mound archaeological site agricultural field view from Winery Rd zoomed in - 2026 (1 of 1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Biltmore%2C_estate_for_George_Washington_Vanderbilt_II%2C_Asheville%2C_North_Carolina._Poultry_yard_cottage._Elevations_LCCN2016650326.jpg/1280px-Biltmore%2C_estate_for_George_Washington_Vanderbilt_II%2C_Asheville%2C_North_Carolina._Poultry_yard_cottage._Elevations_LCCN2016650326.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/6.webp",
+    "w": 1280,
+    "h": 812,
+    "kind": "Plan",
+    "caption": "Plan · Title: Biltmore, estate for George Washington Vanderbilt II, Asheville, North Carolina",
+    "credit": "Hunt, Richard Morris, 1828-1895, architect",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore,_estate_for_George_Washington_Vanderbilt_II,_Asheville,_North_Carolina._Poultry_yard_cottage._Elevations_LCCN2016650326.jpg",
+    "file": "File:Biltmore, estate for George Washington Vanderbilt II, Asheville, North Carolina. Poultry yard cottage. Elevations LCCN2016650326.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Biltmore_Estate%2C_Asheville%2C_NC_2022_-_Model_village.jpg/1280px-Biltmore_Estate%2C_Asheville%2C_NC_2022_-_Model_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biltmore-house/thumbs/7.webp",
+    "w": 1280,
+    "h": 896,
+    "kind": "Model",
+    "caption": "Model · Asheville, North Carolina",
+    "credit": "Sergiy Galyonkin",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biltmore_Estate,_Asheville,_NC_2022_-_Model_village.jpg",
+    "file": "File:Biltmore Estate, Asheville, NC 2022 - Model village.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "dr-phillips-center",
@@ -283053,7 +289488,83 @@ window.BUILDINGS = [
   "commons": "Category:Dr. Phillips Center for the Performing Arts",
   "lead": "File:Dr Phillips Center, Orlando.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Dr_Phillips_Center%2C_Orlando.jpg/1280px-Dr_Phillips_Center%2C_Orlando.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dr-phillips-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Orlando, Orange County, Florida",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr_Phillips_Center,_Orlando.jpg",
+    "file": "File:Dr Phillips Center, Orlando.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Dr._Phillips_Center_Construction.jpg/1280px-Dr._Phillips_Center_Construction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dr-phillips-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Construction nears completion at the Dr",
+    "credit": "Visitor7",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Phillips_Center_Construction.jpg",
+    "file": "File:Dr. Phillips Center Construction.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Dr._Phillips_Center_Orlando_-_54118164064.jpg/1280px-Dr._Phillips_Center_Orlando_-_54118164064.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dr-phillips-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Dr",
+    "credit": "Connor J. Williams",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Phillips_Center_Orlando_-_54118164064.jpg",
+    "file": "File:Dr. Phillips Center Orlando - 54118164064.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Dr._Phillips_Center_Construction_Fence.jpg/1280px-Dr._Phillips_Center_Construction_Fence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dr-phillips-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Visitor7",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Phillips_Center_Construction_Fence.jpg",
+    "file": "File:Dr. Phillips Center Construction Fence.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Dr._Phillips_Center_for_the_Performing_Arts_interior_01.jpg/1280px-Dr._Phillips_Center_for_the_Performing_Arts_interior_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dr-phillips-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Dr",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Phillips_Center_for_the_Performing_Arts_interior_01.jpg",
+    "file": "File:Dr. Phillips Center for the Performing Arts interior 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Dr._Phillips_Center_for_the_Performing_Arts_interior_02.jpg/1280px-Dr._Phillips_Center_for_the_Performing_Arts_interior_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/dr-phillips-center/thumbs/5.webp",
+    "w": 1202,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Dr",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dr._Phillips_Center_for_the_Performing_Arts_interior_02.jpg",
+    "file": "File:Dr. Phillips Center for the Performing Arts interior 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "schermerhorn-symphony-center",
@@ -283077,7 +289588,83 @@ window.BUILDINGS = [
   "commons": "Category:Schermerhorn Symphony Center",
   "lead": "File:Schermerhorn Symphony Center (Southwest corner).JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Schermerhorn_Symphony_Center_%28Southwest_corner%29.JPG/1280px-Schermerhorn_Symphony_Center_%28Southwest_corner%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schermerhorn-symphony-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Schermerhorn Symphony Center, 1 Symphony Pl, Nashville, Davidson County, Tennessee",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schermerhorn_Symphony_Center_(Southwest_corner).JPG",
+    "file": "File:Schermerhorn Symphony Center (Southwest corner).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Schermerhorn_Symphony_Center_%28Northwest_corner%29.JPG/1280px-Schermerhorn_Symphony_Center_%28Northwest_corner%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schermerhorn-symphony-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Schermerhorn Symphony Center, 1 Symphony Pl, Nashville, Davidson County, Tennessee",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schermerhorn_Symphony_Center_(Northwest_corner).JPG",
+    "file": "File:Schermerhorn Symphony Center (Northwest corner).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Schermerhorn.jpg/1280px-Schermerhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schermerhorn-symphony-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Photo of the Schermerhorn Symphony Center's main entrance in Nashville, Tennessee",
+    "credit": "Ryan Kaldari",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schermerhorn.jpg",
+    "file": "File:Schermerhorn.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Schermerhorn_Symphony_Center_%28Northwest_face%29.JPG/1280px-Schermerhorn_Symphony_Center_%28Northwest_face%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schermerhorn-symphony-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Schermerhorn Symphony Center, 1 Symphony Pl, Nashville, Davidson County, Tennessee",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schermerhorn_Symphony_Center_(Northwest_face).JPG",
+    "file": "File:Schermerhorn Symphony Center (Northwest face).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Nashville%2C_TN_at_night57.jpg/1280px-Nashville%2C_TN_at_night57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schermerhorn-symphony-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Nashville at night",
+    "credit": "dconvertini",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nashville,_TN_at_night57.jpg",
+    "file": "File:Nashville, TN at night57.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nashville%2C_TN_at_night58.jpg/1280px-Nashville%2C_TN_at_night58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schermerhorn-symphony-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Nashville at night",
+    "credit": "dconvertini",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nashville,_TN_at_night58.jpg",
+    "file": "File:Nashville, TN at night58.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mildred-b-cooper-memorial-chapel",
@@ -283101,7 +289688,59 @@ window.BUILDINGS = [
   "commons": "Category:Mildred B. Cooper Memorial Chapel",
   "lead": "File:Mildred B. Cooper Memorial Chapel.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Mildred_B._Cooper_Memorial_Chapel.jpg/1280px-Mildred_B._Cooper_Memorial_Chapel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mildred-b-cooper-memorial-chapel/thumbs/0.webp",
+    "w": 1053,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mildred B",
+    "credit": "EEJCC",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mildred_B._Cooper_Memorial_Chapel.jpg",
+    "file": "File:Mildred B. Cooper Memorial Chapel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Mildred_B_Cooper_Memorial_Chapel_closeup.jpg/1280px-Mildred_B_Cooper_Memorial_Chapel_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mildred-b-cooper-memorial-chapel/thumbs/1.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Detail",
+    "caption": "Detail · Mildred B",
+    "credit": "Alfredo Carrillo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mildred_B_Cooper_Memorial_Chapel_closeup.jpg",
+    "file": "File:Mildred B Cooper Memorial Chapel closeup.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Mildred_B._Cooper_Chapel_interior.jpg/1280px-Mildred_B._Cooper_Chapel_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mildred-b-cooper-memorial-chapel/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Mildred B",
+    "credit": "EEJCC",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mildred_B._Cooper_Chapel_interior.jpg",
+    "file": "File:Mildred B. Cooper Chapel interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mildred_B_Cooper_Memorial_Chapel_inside.jpg/1280px-Mildred_B_Cooper_Memorial_Chapel_inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mildred-b-cooper-memorial-chapel/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior · Mildred B",
+    "credit": "Flickr user: LearningLark",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mildred_B_Cooper_Memorial_Chapel_inside.jpg",
+    "file": "File:Mildred B Cooper Memorial Chapel inside.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "piazza-d-italia",
@@ -283125,7 +289764,83 @@ window.BUILDINGS = [
   "commons": "Category:Piazza d'Italia, New Orleans",
   "lead": "File:Piazza D'Italia.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Piazza_D%27Italia.jpg/1280px-Piazza_D%27Italia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piazza-d-italia/thumbs/0.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Exterior",
+    "caption": "Exterior · The Piazza D'Italia in New Orleans",
+    "credit": "TheEWDSDS",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_D%27Italia.jpg",
+    "file": "File:Piazza D'Italia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Piazza_d%27Italia%2C_New_Orleans%2C_from_Commerce_Street%2C_22_May_2024.jpg/1280px-Piazza_d%27Italia%2C_New_Orleans%2C_from_Commerce_Street%2C_22_May_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piazza-d-italia/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Piazza d'Italia, New Orleans, from Commerce Street, 22 May 2024",
+    "credit": "Infrogmation",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_d%27Italia,_New_Orleans,_from_Commerce_Street,_22_May_2024.jpg",
+    "file": "File:Piazza d'Italia, New Orleans, from Commerce Street, 22 May 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Piazza_d%27Italia%2C_New_Orleans_July_2009_-_1.jpg/1280px-Piazza_d%27Italia%2C_New_Orleans_July_2009_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piazza-d-italia/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Piazza d'Italia, New Orleans",
+    "credit": "The Wandering God",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_d%27Italia,_New_Orleans_July_2009_-_1.jpg",
+    "file": "File:Piazza d'Italia, New Orleans July 2009 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Piazza_d%27Italia%2C_New_Orleans_July_2009_-_2.jpg/1280px-Piazza_d%27Italia%2C_New_Orleans_July_2009_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piazza-d-italia/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Piazza d'Italia, New Orleans",
+    "credit": "The Wandering God",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_d%27Italia,_New_Orleans_July_2009_-_2.jpg",
+    "file": "File:Piazza d'Italia, New Orleans July 2009 - 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Monument_to_Italians_in_New_Orleans_%28392902473%29.jpg/1280px-Monument_to_Italians_in_New_Orleans_%28392902473%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piazza-d-italia/thumbs/4.webp",
+    "w": 1280,
+    "h": 878,
+    "kind": "Exterior",
+    "caption": "Exterior · Monument to Italians in New Orleans",
+    "credit": "Sandra Cohen-Rose and   Colin Rose  from Montreal, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monument_to_Italians_in_New_Orleans_(392902473).jpg",
+    "file": "File:Monument to Italians in New Orleans (392902473).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Commerce_Street%2C_New_Orleans_2_July_2026_-_Towards_Piazza_d%27Italia.jpg/1280px-Commerce_Street%2C_New_Orleans_2_July_2026_-_Towards_Piazza_d%27Italia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piazza-d-italia/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · 600 block of Commerce Street, New Orleans",
+    "credit": "Infrogmation",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Commerce_Street,_New_Orleans_2_July_2026_-_Towards_Piazza_d%27Italia.jpg",
+    "file": "File:Commerce Street, New Orleans 2 July 2026 - Towards Piazza d'Italia.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "memphis-pyramid",
@@ -283149,7 +289864,83 @@ window.BUILDINGS = [
   "commons": "Category:Pyramid Arena",
   "lead": "File:Memphis Pyramid HDR.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Memphis_Pyramid_HDR.jpg/1280px-Memphis_Pyramid_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memphis-pyramid/thumbs/0.webp",
+    "w": 1280,
+    "h": 968,
+    "kind": "Exterior",
+    "caption": "Exterior · High Dynamic Range Image of the Pyramid of Memphis, Tennessee",
+    "credit": "Joel יוֹאֵל",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Memphis_Pyramid_HDR.jpg",
+    "file": "File:Memphis Pyramid HDR.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN_%28cropped%29.jpg/1280px-Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memphis-pyramid/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Memphis_Pyramid_(Great_American_Pyramid)_-_Memphis,_TN_(cropped).jpg",
+    "file": "File:Memphis Pyramid (Great American Pyramid) - Memphis, TN (cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN.jpg/1280px-Memphis_Pyramid_%28Great_American_Pyramid%29_-_Memphis%2C_TN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memphis-pyramid/thumbs/2.webp",
+    "w": 1280,
+    "h": 915,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Memphis_Pyramid_(Great_American_Pyramid)_-_Memphis,_TN.jpg",
+    "file": "File:Memphis Pyramid (Great American Pyramid) - Memphis, TN.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Record_Lows_of_the_Mississippi_River_by_Memphis.jpg/1280px-Record_Lows_of_the_Mississippi_River_by_Memphis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memphis-pyramid/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Matthew Nichols",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Record_Lows_of_the_Mississippi_River_by_Memphis.jpg",
+    "file": "File:Record Lows of the Mississippi River by Memphis.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pyramid_Arena_from_Main_Street_2010-10-02_Downtown_Memphis_TN_01.jpg/1280px-Pyramid_Arena_from_Main_Street_2010-10-02_Downtown_Memphis_TN_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memphis-pyramid/thumbs/4.webp",
+    "w": 1280,
+    "h": 962,
+    "kind": "Context",
+    "caption": "Context · Downtown Memphis, Tennessee",
+    "credit": "Thomas R Machnitzki",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyramid_Arena_from_Main_Street_2010-10-02_Downtown_Memphis_TN_01.jpg",
+    "file": "File:Pyramid Arena from Main Street 2010-10-02 Downtown Memphis TN 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pyramid_Arena_from_Main_Street_2010-10-02_Downtown_Memphis_TN_02.jpg/1280px-Pyramid_Arena_from_Main_Street_2010-10-02_Downtown_Memphis_TN_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/memphis-pyramid/thumbs/5.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Context",
+    "caption": "Context · Downtown Memphis, Tennessee",
+    "credit": "Thomas R Machnitzki",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyramid_Arena_from_Main_Street_2010-10-02_Downtown_Memphis_TN_02.jpg",
+    "file": "File:Pyramid Arena from Main Street 2010-10-02 Downtown Memphis TN 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tennessee-aquarium",
@@ -283173,7 +289964,83 @@ window.BUILDINGS = [
   "commons": "Category:Tennessee Aquarium",
   "lead": "File:TN Aquarium 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/TN_Aquarium_01.jpg/1280px-TN_Aquarium_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tennessee-aquarium/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · TN Aquarium in Chattanooga, TN",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TN_Aquarium_01.jpg",
+    "file": "File:TN Aquarium 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/River_Journey_and_Ocean_Journey.jpg/1280px-River_Journey_and_Ocean_Journey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tennessee-aquarium/thumbs/1.webp",
+    "w": 1280,
+    "h": 822,
+    "kind": "Exterior",
+    "caption": "Exterior · Tennessee Aquarium buildings, Chattanooga, TN",
+    "credit": "Womump",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:River_Journey_and_Ocean_Journey.jpg",
+    "file": "File:River Journey and Ocean Journey.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/TN_Aquarium_02.jpg/1280px-TN_Aquarium_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tennessee-aquarium/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · TN Aquarium in Chattanooga, TN",
+    "credit": "Ɱ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TN_Aquarium_02.jpg",
+    "file": "File:TN Aquarium 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Ancistrus_%28Tennessee_Aquarium%29.jpg/1280px-Ancistrus_%28Tennessee_Aquarium%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tennessee-aquarium/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Ancistrus in the Tennessee Aquarium in Chattanooga, TN, USA",
+    "credit": "Sesamehoneytart",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ancistrus_(Tennessee_Aquarium).jpg",
+    "file": "File:Ancistrus (Tennessee Aquarium).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Butterfly_garden_tenn_aquarium.JPG/1280px-Butterfly_garden_tenn_aquarium.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tennessee-aquarium/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Butterfly garden at the Tennessee Aquarium",
+    "credit": "Thomsonmg2000",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Butterfly_garden_tenn_aquarium.JPG",
+    "file": "File:Butterfly garden tenn aquarium.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Riverbend_2013_2.jpg/1280px-Riverbend_2013_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tennessee-aquarium/thumbs/5.webp",
+    "w": 1280,
+    "h": 956,
+    "kind": "Context",
+    "caption": "Context · Riverbend 2013",
+    "credit": "James9777",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Riverbend_2013_2.jpg",
+    "file": "File:Riverbend 2013 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "country-music-hall-of-fame",
@@ -283197,7 +290064,97 @@ window.BUILDINGS = [
   "commons": "Category:Country Music Hall of Fame and Museum",
   "lead": "File:Country Music Hall of Fame 2022a.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Country_Music_Hall_of_Fame_2022a.jpg/1280px-Country_Music_Hall_of_Fame_2022a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/country-music-hall-of-fame/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Country Music Hall of Fame and Museum in Nashville, Tennessee in 2022",
+    "credit": "Antony-22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_2022a.jpg",
+    "file": "File:Country Music Hall of Fame 2022a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Rabbit_Foot_Minstrels_Printing_Block%2C_1946.jpg/1280px-Rabbit_Foot_Minstrels_Printing_Block%2C_1946.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/country-music-hall-of-fame/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Printing block for posters for the Rabbit Foot Minstrels, a.k.a",
+    "credit": "Joe Mabel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rabbit_Foot_Minstrels_Printing_Block,_1946.jpg",
+    "file": "File:Rabbit Foot Minstrels Printing Block, 1946.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Rogers_Minstrels_Printing_Block%2C_circa_1925.jpg/1280px-Rogers_Minstrels_Printing_Block%2C_circa_1925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/country-music-hall-of-fame/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Printing block for posters for Rogers Minstrels (a.k.a",
+    "credit": "Joe Mabel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rogers_Minstrels_Printing_Block,_circa_1925.jpg",
+    "file": "File:Rogers Minstrels Printing Block, circa 1925.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/USA_Tour_2019_P109_RCA_Studio_B.jpg/1280px-USA_Tour_2019_P109_RCA_Studio_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/country-music-hall-of-fame/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Steinway & Sons Grand Piano in RCA Studio B",
+    "credit": "Fallaner",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:USA_Tour_2019_P109_RCA_Studio_B.jpg",
+    "file": "File:USA Tour 2019 P109 RCA Studio B.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Country_Music_Hall_of_Fame_2022b.jpg/1280px-Country_Music_Hall_of_Fame_2022b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/country-music-hall-of-fame/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Country Music Hall of Fame and Museum in Nashville, Tennessee in 2022",
+    "credit": "Antony-22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_2022b.jpg",
+    "file": "File:Country Music Hall of Fame 2022b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Country_Music_Hall_of_Fame_2022c.jpg/1280px-Country_Music_Hall_of_Fame_2022c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/country-music-hall-of-fame/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Country Music Hall of Fame and Museum in Nashville, Tennessee in 2022",
+    "credit": "Antony-22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Country_Music_Hall_of_Fame_2022c.jpg",
+    "file": "File:Country Music Hall of Fame 2022c.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ampex_model_300_%C2%BD%22_3tr_%28RCA_Studio_B%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/country-music-hall-of-fame/thumbs/6.webp",
+    "w": 853,
+    "h": 1280,
+    "kind": "Model",
+    "caption": "Model · Ampex Corporation introduced the model 300 multi-channel magnetic tape recorder in 1949",
+    "credit": "Cliff",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ampex_model_300_%C2%BD%22_3tr_(RCA_Studio_B).jpg",
+    "file": "File:Ampex model 300 ½\" 3tr (RCA Studio B).jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "perez-art-museum-miami",
@@ -283221,7 +290178,83 @@ window.BUILDINGS = [
   "commons": "Category:Pérez Art Museum Miami",
   "lead": "File:PAMM MRD 21.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/PAMM_MRD_21.jpg/1280px-PAMM_MRD_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perez-art-museum-miami/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Phillip Pessar",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PAMM_MRD_21.jpg",
+    "file": "File:PAMM MRD 21.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/PAMM_MRD_08.jpg/1280px-PAMM_MRD_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perez-art-museum-miami/thumbs/1.webp",
+    "w": 1280,
+    "h": 812,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Erik Cleves Kristensen",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:PAMM_MRD_08.jpg",
+    "file": "File:PAMM MRD 08.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Perez_museum%2C_Miami%2C_Florida%2C_Usa_%2851015332721%29.jpg/1280px-Perez_museum%2C_Miami%2C_Florida%2C_Usa_%2851015332721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perez-art-museum-miami/thumbs/2.webp",
+    "w": 1280,
+    "h": 896,
+    "kind": "Exterior",
+    "caption": "Exterior · A beautiful lady taking pictures of this masterpiec of modern architecture",
+    "credit": "Paolo Gamba  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perez_museum,_Miami,_Florida,_Usa_(51015332721).jpg",
+    "file": "File:Perez museum, Miami, Florida, Usa (51015332721).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/ArtandFeminism_Wikipedia_Edit-a-thon%2C_Perez_Art_Museum_Miami%2C_March_2023.jpg/1280px-ArtandFeminism_Wikipedia_Edit-a-thon%2C_Perez_Art_Museum_Miami%2C_March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perez-art-museum-miami/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "MichaelaBlanc",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ArtandFeminism_Wikipedia_Edit-a-thon,_Perez_Art_Museum_Miami,_March_2023.jpg",
+    "file": "File:ArtandFeminism Wikipedia Edit-a-thon, Perez Art Museum Miami, March 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Jedd_Novatt_in_front_of_CHAOS_SAS_at_PAMM.jpg/1280px-Jedd_Novatt_in_front_of_CHAOS_SAS_at_PAMM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perez-art-museum-miami/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Artist Jedd Novatt standing in front of Chaos SAS at the Perez Art Museum Miami",
+    "credit": "Jedd Novatt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jedd_Novatt_in_front_of_CHAOS_SAS_at_PAMM.jpg",
+    "file": "File:Jedd Novatt in front of CHAOS SAS at PAMM.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Perez_museum%2C_Miami%2C_Florida%2C_Usa_%2851014605803%29.jpg/1280px-Perez_museum%2C_Miami%2C_Florida%2C_Usa_%2851014605803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/perez-art-museum-miami/thumbs/5.webp",
+    "w": 1082,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Paolo Gamba  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Perez_museum,_Miami,_Florida,_Usa_(51014605803).jpg",
+    "file": "File:Perez museum, Miami, Florida, Usa (51014605803).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "clinton-presidential-library",
@@ -283245,7 +290278,97 @@ window.BUILDINGS = [
   "commons": "Category:William J. Clinton Presidential Library",
   "lead": "File:William J. Clinton Presidential Library 2016 1.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/William_J._Clinton_Presidential_Library_2016_1.JPG/1280px-William_J._Clinton_Presidential_Library_2016_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/clinton-presidential-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · William J",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:William_J._Clinton_Presidential_Library_2016_1.JPG",
+    "file": "File:William J. Clinton Presidential Library 2016 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/William_J._Clinton_Presidential_Library_2016_2.JPG/1280px-William_J._Clinton_Presidential_Library_2016_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/clinton-presidential-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · William J",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:William_J._Clinton_Presidential_Library_2016_2.JPG",
+    "file": "File:William J. Clinton Presidential Library 2016 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Clinton_Presidential_Library.jpg/1280px-Clinton_Presidential_Library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/clinton-presidential-library/thumbs/2.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Clinton Presidential Library, Bill Clinton Presidential Library in Little Rock, Arkansas Little Rock",
+    "credit": "Flickr user: Stuart Seeger College Station  https://www.flickr.com/people/stuseeger/",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clinton_Presidential_Library.jpg",
+    "file": "File:Clinton Presidential Library.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Limo_Clinton_Library_%283953058513%29.jpg/1280px-Limo_Clinton_Library_%283953058513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/clinton-presidential-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior · Touring the Clinton Library in Little Rock, Arkansas",
+    "credit": "Deborah Lee Soltesz  from Flagstaff, AZ",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Limo_Clinton_Library_(3953058513).jpg",
+    "file": "File:Limo Clinton Library (3953058513).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Road_Trip_-_Clinton_Library_-_Tenor_%28Yamaha%2C_Amati_Kraslice%2C_Leblanc-Yanagisawa%29_and_Alto_%28Beijing_Wind_Instrument_Factory%29_saxophones_%282009-06-18_08.44.31_by_Deborah_Lee_Soltesz_%40_Flickr_3953838898%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/clinton-presidential-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior · Road Trip: Clinton Library Touring the Clinton Library in Little Rock, Arkansas",
+    "credit": "Deborah Lee Soltesz  from Flagstaff, AZ",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Road_Trip_-_Clinton_Library_-_Tenor_(Yamaha,_Amati_Kraslice,_Leblanc-Yanagisawa)_and_Alto_(Beijing_Wind_Instrument_Factory)_saxophones_(2009-06-18_08.44.31_by_Deborah_Lee_Soltesz_@_Flickr_3953838898).jpg",
+    "file": "File:Road Trip - Clinton Library - Tenor (Yamaha, Amati Kraslice, Leblanc-Yanagisawa) and Alto (Beijing Wind Instrument Factory) saxophones (2009-06-18 08.44.31 by Deborah Lee Soltesz @ Flickr 3953838898).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Saxophones_Presented_to_President_Clinton_as_Gifts_-_Clinton_Presidential_Center_-_Little_Rock_-_Arkansas_-_USA.jpg/1280px-Saxophones_Presented_to_President_Clinton_as_Gifts_-_Clinton_Presidential_Center_-_Little_Rock_-_Arkansas_-_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/clinton-presidential-library/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Adam Jones, Ph.D.",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saxophones_Presented_to_President_Clinton_as_Gifts_-_Clinton_Presidential_Center_-_Little_Rock_-_Arkansas_-_USA.jpg",
+    "file": "File:Saxophones Presented to President Clinton as Gifts - Clinton Presidential Center - Little Rock - Arkansas - USA.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Clinton_exhibit_Presidential_Library_Little_Rock_AR_2013-06-07_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/clinton-presidential-library/thumbs/6.webp",
+    "w": 1024,
+    "h": 768,
+    "kind": "Plan",
+    "caption": "Plan · William J",
+    "credit": "Thomas R Machnitzki ( thomas     machnitzki.com )",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clinton_exhibit_Presidential_Library_Little_Rock_AR_2013-06-07_006.jpg",
+    "file": "File:Clinton exhibit Presidential Library Little Rock AR 2013-06-07 006.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "bechtler-museum-of-modern-art",
@@ -283269,7 +290392,59 @@ window.BUILDINGS = [
   "commons": "Category:Bechtler Museum of Modern Art",
   "lead": "File:BechtlerMuseumCharlotte.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/BechtlerMuseumCharlotte.jpg/1280px-BechtlerMuseumCharlotte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bechtler-museum-of-modern-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 935,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Prasit Frazee",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BechtlerMuseumCharlotte.jpg",
+    "file": "File:BechtlerMuseumCharlotte.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Bechtler_Museum_of_Contemporary_Art.jpg/1280px-Bechtler_Museum_of_Contemporary_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bechtler-museum-of-modern-art/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Daniel Lobo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bechtler_Museum_of_Contemporary_Art.jpg",
+    "file": "File:Bechtler Museum of Contemporary Art.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Charlotte%2C_North_Carolina.jpg/1280px-Charlotte%2C_North_Carolina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bechtler-museum-of-modern-art/thumbs/2.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "David Berkowitz",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Charlotte,_North_Carolina.jpg",
+    "file": "File:Charlotte, North Carolina.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bechtler_Museum_of_Modern_Art.jpg/1280px-Bechtler_Museum_of_Modern_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bechtler-museum-of-modern-art/thumbs/3.webp",
+    "w": 1262,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Bechtler",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bechtler_Museum_of_Modern_Art.jpg",
+    "file": "File:Bechtler Museum of Modern Art.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "vehicle-assembly-building",
@@ -283293,7 +290468,97 @@ window.BUILDINGS = [
   "commons": "Category:Vehicle Assembly Building",
   "lead": "File:VAB and SLS.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/VAB_and_SLS.jpg/1280px-VAB_and_SLS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vehicle-assembly-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kim Shiflett",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:VAB_and_SLS.jpg",
+    "file": "File:VAB and SLS.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/NASA-Vehicle-Assembly-Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/vehicle-assembly-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:NASA-Vehicle-Assembly-Building.jpg",
+    "file": "File:NASA-Vehicle-Assembly-Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Vehicle_Assembly_Building_%281977%29.jpg/1280px-Vehicle_Assembly_Building_%281977%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vehicle-assembly-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 842,
+    "kind": "Exterior",
+    "caption": "Exterior · The Vehicle Assembly Building in 1977",
+    "credit": "Victor Fornasier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vehicle_Assembly_Building_(1977).jpg",
+    "file": "File:Vehicle Assembly Building (1977).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Artemis_II_CTV_Demo_%28KSC-20220511-PH-KLS01_0100%29.jpg/1280px-Artemis_II_CTV_Demo_%28KSC-20220511-PH-KLS01_0100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vehicle-assembly-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Kim Shiflett",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Artemis_II_CTV_Demo_(KSC-20220511-PH-KLS01_0100).jpg",
+    "file": "File:Artemis II CTV Demo (KSC-20220511-PH-KLS01 0100).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Artemis_II_CTV_Demo_%28KSC-20220511-PH-KLS01_0104%29.jpg/1280px-Artemis_II_CTV_Demo_%28KSC-20220511-PH-KLS01_0104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vehicle-assembly-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Kim Shiflett",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Artemis_II_CTV_Demo_(KSC-20220511-PH-KLS01_0104).jpg",
+    "file": "File:Artemis II CTV Demo (KSC-20220511-PH-KLS01 0104).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Launch_Control_Center_and_Vehicle_Assembly_Building.jpg/1280px-Launch_Control_Center_and_Vehicle_Assembly_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vehicle-assembly-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "NASA/Troy Cryder",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Launch_Control_Center_and_Vehicle_Assembly_Building.jpg",
+    "file": "File:Launch Control Center and Vehicle Assembly Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/KSC-20201115-PH-HJW01_0073.jpg/1280px-KSC-20201115-PH-HJW01_0073.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vehicle-assembly-building/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "NASA/Houston White",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:KSC-20201115-PH-HJW01_0073.jpg",
+    "file": "File:KSC-20201115-PH-HJW01 0073.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "louisiana-state-capitol",
@@ -283317,7 +290582,83 @@ window.BUILDINGS = [
   "commons": "Category:Louisiana State Capitol",
   "lead": "File:2014 Louisiana State Capitol.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2014_Louisiana_State_Capitol.JPG/1280px-2014_Louisiana_State_Capitol.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louisiana-state-capitol/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Louisiana State Capitol in Baton Rouge",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_Louisiana_State_Capitol.JPG",
+    "file": "File:2014 Louisiana State Capitol.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Baton_Rouge_Capitol_1986.jpg/1280px-Baton_Rouge_Capitol_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louisiana-state-capitol/thumbs/1.webp",
+    "w": 992,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Louisiana State Capitol, baton Rouge",
+    "credit": "Deceased parent of Infrogmation.\n \nPlease credit \"Family photos of Infrogmation\".",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baton_Rouge_Capitol_1986.jpg",
+    "file": "File:Baton Rouge Capitol 1986.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Louisiana_State_Capitol_Building.jpg/1280px-Louisiana_State_Capitol_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louisiana-state-capitol/thumbs/2.webp",
+    "w": 1280,
+    "h": 1384,
+    "kind": "Exterior",
+    "caption": "Exterior · Louisiana State Capitol in Baton Rouge ",
+    "credit": "Chrismiceli",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louisiana_State_Capitol_Building.jpg",
+    "file": "File:Louisiana State Capitol Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Baton_Rouge_Capitol_1986_Huey%27s_Back.jpg/1280px-Baton_Rouge_Capitol_1986_Huey%27s_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louisiana-state-capitol/thumbs/3.webp",
+    "w": 966,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Louisiana State Capitol, baton Rouge",
+    "credit": "Deceased parent of Infrogmation.\n \nPlease credit \"Family photos of Infrogmation\".",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baton_Rouge_Capitol_1986_Huey%27s_Back.jpg",
+    "file": "File:Baton Rouge Capitol 1986 Huey's Back.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Louisiana_State_Capitol_assassination_column.jpg/1280px-Louisiana_State_Capitol_assassination_column.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louisiana-state-capitol/thumbs/4.webp",
+    "w": 928,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Niagara",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louisiana_State_Capitol_assassination_column.jpg",
+    "file": "File:Louisiana State Capitol assassination column.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Louisiana_State_Capitol_Memorial_Hall_House_side.jpg/1280px-Louisiana_State_Capitol_Memorial_Hall_House_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louisiana-state-capitol/thumbs/5.webp",
+    "w": 928,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Niagara",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louisiana_State_Capitol_Memorial_Hall_House_side.jpg",
+    "file": "File:Louisiana State Capitol Memorial Hall House side.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "florida-state-capitol",
@@ -283341,7 +290682,83 @@ window.BUILDINGS = [
   "commons": "Category:Florida State Capitol",
   "lead": "File:Florida State Capitol from Kleman Plaza.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Florida_State_Capitol_from_Kleman_Plaza.JPG/1280px-Florida_State_Capitol_from_Kleman_Plaza.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/florida-state-capitol/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Florida State Capitol from Kleman Plaza, Tallahassee, Leon County, Florida",
+    "credit": "Michael Rivera",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Florida_State_Capitol_from_Kleman_Plaza.JPG",
+    "file": "File:Florida State Capitol from Kleman Plaza.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Old_and_New_Florida_State_Capitol%2C_Tallahassee%2C_East_view_20160711_1.jpg/1280px-Old_and_New_Florida_State_Capitol%2C_Tallahassee%2C_East_view_20160711_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/florida-state-capitol/thumbs/1.webp",
+    "w": 989,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · An east view of both the historic and the current Florida State Capitols, Tallahassee",
+    "credit": "DXR",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Old_and_New_Florida_State_Capitol,_Tallahassee,_East_view_20160711_1.jpg",
+    "file": "File:Old and New Florida State Capitol, Tallahassee, East view 20160711 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Florida_Senate_chamber_following_2016_rennovation.jpg/1280px-Florida_Senate_chamber_following_2016_rennovation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/florida-state-capitol/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Chamber of the Florida Senate following its rennovation in 2016",
+    "credit": "Florida Senate",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Florida_Senate_chamber_following_2016_rennovation.jpg",
+    "file": "File:Florida Senate chamber following 2016 rennovation.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Tallahassee_-_Florida_State_Capitol_-_20220627111632.jpg/1280px-Tallahassee_-_Florida_State_Capitol_-_20220627111632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/florida-state-capitol/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Tallahassee, Florida State Capitol",
+    "credit": "Riis2602",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tallahassee_-_Florida_State_Capitol_-_20220627111632.jpg",
+    "file": "File:Tallahassee - Florida State Capitol - 20220627111632.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Florida_State_House.jpg/1280px-Florida_State_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/florida-state-capitol/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Florida State House in Tallahassee - the old one in front and the new one behind",
+    "credit": "F McGady",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Florida_State_House.jpg",
+    "file": "File:Florida State House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Tallahassee_-_Florida_State_Capitol_-_20220627114720.jpg/1280px-Tallahassee_-_Florida_State_Capitol_-_20220627114720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/florida-state-capitol/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Tallahassee, Florida State Capitol",
+    "credit": "Riis2602",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tallahassee_-_Florida_State_Capitol_-_20220627114720.jpg",
+    "file": "File:Tallahassee - Florida State Capitol - 20220627114720.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "reynolds-building",
@@ -283365,7 +290782,83 @@ window.BUILDINGS = [
   "commons": "Category:Reynolds Building",
   "lead": "File:Reynolds Building - Winston-Salem, NC.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Reynolds_Building_WS.JPG/1280px-Reynolds_Building_WS.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reynolds-building/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Reynolds Building in Winston-Salem, NC",
+    "credit": "Alexisrael",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reynolds_Building_WS.JPG",
+    "file": "File:Reynolds Building WS.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Reynolds_Building_WS_2.JPG/1280px-Reynolds_Building_WS_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reynolds-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Reynolds Building Entrance in Winston-Salem, NC",
+    "credit": "Alexisrael",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reynolds_Building_WS_2.JPG",
+    "file": "File:Reynolds Building WS 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Downtown_in_the_evening%2C_Winston-Salem%2C_2025-03-01-1.jpg/1280px-Downtown_in_the_evening%2C_Winston-Salem%2C_2025-03-01-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reynolds-building/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Reynolds Building and other buildings of downtown Winston-Salem in evening light",
+    "credit": "Cbaile19",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_in_the_evening,_Winston-Salem,_2025-03-01-1.jpg",
+    "file": "File:Downtown in the evening, Winston-Salem, 2025-03-01-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ornaments_on_the_Reynolds_Building%2C_Winston-Salem%2C_2025-02-28.jpg/1280px-Ornaments_on_the_Reynolds_Building%2C_Winston-Salem%2C_2025-02-28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reynolds-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Decorative relief on the Reynolds Building, Winston-Salem",
+    "credit": "Cbaile19",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ornaments_on_the_Reynolds_Building,_Winston-Salem,_2025-02-28.jpg",
+    "file": "File:Ornaments on the Reynolds Building, Winston-Salem, 2025-02-28.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Winston-Salem_-_Reynolds_Building_03.jpg/1280px-Winston-Salem_-_Reynolds_Building_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reynolds-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 860,
+    "kind": "Interior",
+    "caption": "Interior · Ceiling detail, elevator lobby, R.J",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Winston-Salem_-_Reynolds_Building_03.jpg",
+    "file": "File:Winston-Salem - Reynolds Building 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Winston-Salem_-_Reynolds_Building_02.jpg/1280px-Winston-Salem_-_Reynolds_Building_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reynolds-building/thumbs/5.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Elevator door, R.J",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Winston-Salem_-_Reynolds_Building_02.jpg",
+    "file": "File:Winston-Salem - Reynolds Building 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "arcosanti",
@@ -283389,7 +290882,97 @@ window.BUILDINGS = [
   "commons": "Category:Arcosanti",
   "lead": "File:Arcosanti 12.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Arcosanti_12.jpg/1280px-Arcosanti_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/0.webp",
+    "w": 1280,
+    "h": 442,
+    "kind": "Exterior",
+    "caption": "Exterior · Arcosanti view",
+    "credit": "Graeme Maclean",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arcosanti_12.jpg",
+    "file": "File:Arcosanti 12.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Arcosanti_-_panoramio.jpg/1280px-Arcosanti_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "kallahar",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arcosanti_-_panoramio.jpg",
+    "file": "File:Arcosanti - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/2021_Arcosanti_at_golden_hour.jpg/1280px-2021_Arcosanti_at_golden_hour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/2.webp",
+    "w": 1280,
+    "h": 531,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021_Arcosanti_at_golden_hour.jpg",
+    "file": "File:2021 Arcosanti at golden hour.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Arcosanti_East_%26_West_Housing_IMGP2207.jpg/1280px-Arcosanti_East_%26_West_Housing_IMGP2207.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/3.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Arcosanti East & West Housing",
+    "credit": "Ted Major",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arcosanti_East_%26_West_Housing_IMGP2207.jpg",
+    "file": "File:Arcosanti East & West Housing IMGP2207.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Cafe_at_Arcosanti.jpg/1280px-The_Cafe_at_Arcosanti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · This cafe's dining area offers a spectacular view from its round windows and a balcony",
+    "credit": "Elitemedia.network",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cafe_at_Arcosanti.jpg",
+    "file": "File:The Cafe at Arcosanti.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Arcosanti_living.jpg/1280px-Arcosanti_living.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Living quarters in Arcosanti, AZ",
+    "credit": "Dave Pape  from Buffalo, NY",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arcosanti_living.jpg",
+    "file": "File:Arcosanti living.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Arcosanti_Model.jpg/1280px-Arcosanti_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arcosanti/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Arcosanti building model",
+    "credit": "theregeneration",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arcosanti_Model.jpg",
+    "file": "File:Arcosanti Model.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "biosphere-2",
@@ -283413,7 +290996,83 @@ window.BUILDINGS = [
   "commons": "Category:Biosphere 2",
   "lead": "File:Biosphere 2 - 3174379106.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Biosphere_2_-_3174379106.jpg/1280px-Biosphere_2_-_3174379106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biosphere-2/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · In 1991, eight people entered this building and lived in a closed self-sustaining environment for 2 years",
+    "credit": "a rancid amoeba",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biosphere_2_-_3174379106.jpg",
+    "file": "File:Biosphere 2 - 3174379106.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Biosphere_2_-_Arizona.jpg/1280px-Biosphere_2_-_Arizona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biosphere-2/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Blog4AAA2016-02-26 13.01.05",
+    "credit": "Frost Museum",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biosphere_2_-_Arizona.jpg",
+    "file": "File:Biosphere 2 - Arizona.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Biosphere_2_%284201326573%29.jpg/1280px-Biosphere_2_%284201326573%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biosphere-2/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Windows of Biosphere 2 in central Arizona",
+    "credit": "Chris M Morris",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biosphere_2_(4201326573).jpg",
+    "file": "File:Biosphere 2 (4201326573).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Biosphere_2_Architecture.jpg/1280px-Biosphere_2_Architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biosphere-2/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A building at the Biosphere 2 in Arizona",
+    "credit": "Daniel Oberhaus",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biosphere_2_Architecture.jpg",
+    "file": "File:Biosphere 2 Architecture.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Biosphere_2_Pyramid_-_panoramio.jpg/1280px-Biosphere_2_Pyramid_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biosphere-2/thumbs/4.webp",
+    "w": 1280,
+    "h": 796,
+    "kind": "Exterior",
+    "caption": "Exterior · Biosphere 2 Pyramid",
+    "credit": "ParkerK",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biosphere_2_Pyramid_-_panoramio.jpg",
+    "file": "File:Biosphere 2 Pyramid - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Biosphere_2_TucsonAZ_20050822_1.jpg/1280px-Biosphere_2_TucsonAZ_20050822_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/biosphere-2/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside the Biosphere 2 in Tucson, Arizona , 2005-08",
+    "credit": "Rhododendrites",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biosphere_2_TucsonAZ_20050822_1.jpg",
+    "file": "File:Biosphere 2 TucsonAZ 20050822 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "denver-central-library",
@@ -283437,7 +291096,83 @@ window.BUILDINGS = [
   "commons": "Category:Denver Central Library",
   "lead": "File:Denver Central Library. View from south.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Denver_Central_Library._View_from_south.jpg/1280px-Denver_Central_Library._View_from_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/denver-central-library/thumbs/0.webp",
+    "w": 1280,
+    "h": 1007,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Sarbjit Bahga",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_Central_Library._View_from_south.jpg",
+    "file": "File:Denver Central Library. View from south.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Denver_Central_Library._View_from_south-east.jpg/1280px-Denver_Central_Library._View_from_south-east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/denver-central-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 768,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Sarbjit Bahga",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_Central_Library._View_from_south-east.jpg",
+    "file": "File:Denver Central Library. View from south-east.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Denver_Central_Library_%2854940569058%29.jpg/1280px-Denver_Central_Library_%2854940569058%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/denver-central-library/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Central Library of Denver Public Library",
+    "credit": "Daniel Hartwig",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_Central_Library_(54940569058).jpg",
+    "file": "File:Denver Central Library (54940569058).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Denver_-_Denver_Public_Library_-_20170713114014.jpg/1280px-Denver_-_Denver_Public_Library_-_20170713114014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/denver-central-library/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Denver Public Library",
+    "credit": "Everbruin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_-_Denver_Public_Library_-_20170713114014.jpg",
+    "file": "File:Denver - Denver Public Library - 20170713114014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Denver_Public_Library_Exterior_Architecture.jpg/1280px-Denver_Public_Library_Exterior_Architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/denver-central-library/thumbs/4.webp",
+    "w": 1280,
+    "h": 1051,
+    "kind": "Exterior",
+    "caption": "Exterior · Exterior Design & Architecture of Denver Public Library by Michael Graves",
+    "credit": "Anne Ruthmann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_Public_Library_Exterior_Architecture.jpg",
+    "file": "File:Denver Public Library Exterior Architecture.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Denver_Public_Library_Kids_Program_Area_01.jpg/1280px-Denver_Public_Library_Kids_Program_Area_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/denver-central-library/thumbs/5.webp",
+    "w": 963,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior Design & Architecture of Denver Public Library Kids Program Area",
+    "credit": "Anne Ruthmann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_Public_Library_Kids_Program_Area_01.jpg",
+    "file": "File:Denver Public Library Kids Program Area 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "first-baptist-church-columbus",
@@ -283461,7 +291196,83 @@ window.BUILDINGS = [
   "commons": "Category:Exterior of First Baptist Church (Columbus, Indiana)",
   "lead": "File:FirstbaptistColumbus.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/FirstbaptistColumbus.jpg/1280px-FirstbaptistColumbus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-baptist-church-columbus/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Taken by Greg5030 November 12, 2005",
+    "credit": "Photo by Greg Hume ( Greg5030 )",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:FirstbaptistColumbus.jpg",
+    "file": "File:FirstbaptistColumbus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/First_Baptist_Church%2C_3300_Fairlawn_Drive_%28Columbus%2C_Ind.%29_-_DPLA_-_52c92bf0b7fdfdd3f1dd4b184377c760.jpg/1280px-First_Baptist_Church%2C_3300_Fairlawn_Drive_%28Columbus%2C_Ind.%29_-_DPLA_-_52c92bf0b7fdfdd3f1dd4b184377c760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-baptist-church-columbus/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Context",
+    "caption": "Context · 3300 Fairlawn Drive; Columbus; Indiana; Bartholomew; Dan Kiley, landscape architect",
+    "credit": "Indiana Landmarks",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Baptist_Church,_3300_Fairlawn_Drive_(Columbus,_Ind.)_-_DPLA_-_52c92bf0b7fdfdd3f1dd4b184377c760.jpg",
+    "file": "File:First Baptist Church, 3300 Fairlawn Drive (Columbus, Ind.) - DPLA - 52c92bf0b7fdfdd3f1dd4b184377c760.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/First_baptist_church_B%26W.jpg/1280px-First_baptist_church_B%26W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-baptist-church-columbus/thumbs/2.webp",
+    "w": 1280,
+    "h": 830,
+    "kind": "Exterior",
+    "caption": "Exterior · First Baptist Church, Columbus, Indiana (originally Fairlawn Baptist Church) - as built in mid-1960's",
+    "credit": "Suzanneglass  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_baptist_church_B%26W.jpg",
+    "file": "File:First baptist church B&W.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/First_Baptist_Church_2007.JPG/1280px-First_Baptist_Church_2007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-baptist-church-columbus/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · 2007 view of First Baptist Church, Columbus, IN",
+    "credit": "Suzanneglass  at  English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Baptist_Church_2007.JPG",
+    "file": "File:First Baptist Church 2007.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/FIRST_BAPTIST_CHURCH._%28FROM_THE_SITES_EXHIBITION._FOR_OTHER_IMAGES_IN_THIS_ASSIGNMENT%2C_SEE_FICHE_NUMBERS_66%2C_67%2C_68..._-_NARA_-_553839.jpg/1280px-FIRST_BAPTIST_CHURCH._%28FROM_THE_SITES_EXHIBITION._FOR_OTHER_IMAGES_IN_THIS_ASSIGNMENT%2C_SEE_FICHE_NUMBERS_66%2C_67%2C_68..._-_NARA_-_553839.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-baptist-church-columbus/thumbs/4.webp",
+    "w": 1280,
+    "h": 885,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Declan Haun",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:FIRST_BAPTIST_CHURCH._(FROM_THE_SITES_EXHIBITION._FOR_OTHER_IMAGES_IN_THIS_ASSIGNMENT,_SEE_FICHE_NUMBERS_66,_67,_68..._-_NARA_-_553839.jpg",
+    "file": "File:FIRST BAPTIST CHURCH. (FROM THE SITES EXHIBITION. FOR OTHER IMAGES IN THIS ASSIGNMENT, SEE FICHE NUMBERS 66, 67, 68... - NARA - 553839.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/INTERIOR_COURTYARD_OF_FIRST_BAPTIST_CHURCH_-_NARA_-_546505.jpg/1280px-INTERIOR_COURTYARD_OF_FIRST_BAPTIST_CHURCH_-_NARA_-_546505.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-baptist-church-columbus/thumbs/5.webp",
+    "w": 940,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Declan Haun",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:INTERIOR_COURTYARD_OF_FIRST_BAPTIST_CHURCH_-_NARA_-_546505.jpg",
+    "file": "File:INTERIOR COURTYARD OF FIRST BAPTIST CHURCH - NARA - 546505.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "fire-station-4-columbus",
@@ -283485,7 +291296,35 @@ window.BUILDINGS = [
   "commons": "Category:Fire Station Number 4 (Columbus, Indiana)",
   "lead": "File:Fire Station 4, Columbus, Indiana LCCN2013650708.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Fire_Station_4%2C_Columbus%2C_Indiana_LCCN2013650708.jpg/1280px-Fire_Station_4%2C_Columbus%2C_Indiana_LCCN2013650708.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fire-station-4-columbus/thumbs/0.webp",
+    "w": 1280,
+    "h": 858,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: Fire Station 4, Columbus, Indiana Physical description: 1 photograph : digital, TIFF file, color",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Fire_Station_4,_Columbus,_Indiana_LCCN2013650708.jpg",
+    "file": "File:Fire Station 4, Columbus, Indiana LCCN2013650708.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Fire_station_4_Columbus_IN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/fire-station-4-columbus/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Fire station in Columbus, Indiana , USA",
+    "credit": "Mandy",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fire_station_4_Columbus_IN.jpg",
+    "file": "File:Fire station 4 Columbus IN.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "republic-newspaper-office-columbus",
@@ -283509,7 +291348,83 @@ window.BUILDINGS = [
   "commons": "Category:Exterior of the Republic offices",
   "lead": "File:Republic offices in Columbus, building and trees.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Republic_offices_in_Columbus%2C_front_and_lawn.jpg/1280px-Republic_offices_in_Columbus%2C_front_and_lawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/republic-newspaper-office-columbus/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Nyttend",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Republic_offices_in_Columbus,_front_and_lawn.jpg",
+    "file": "File:Republic offices in Columbus, front and lawn.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Republic_Newspaper_Office_Building%2C_Columbus%2C_Indiana.jpg/1280px-Republic_Newspaper_Office_Building%2C_Columbus%2C_Indiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/republic-newspaper-office-columbus/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · It's a long glass-fronted building that formerly housed the Republic Newspaper in Columbus, Indiana",
+    "credit": "born1945",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Republic_Newspaper_Office_Building,_Columbus,_Indiana.jpg",
+    "file": "File:Republic Newspaper Office Building, Columbus, Indiana.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Republic_Building%2C_Columbus.jpg/1280px-Republic_Building%2C_Columbus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/republic-newspaper-office-columbus/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Republic Office in Columbus, IN, USA",
+    "credit": "Jeff Hart  from Bloomington, IN, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Republic_Building,_Columbus.jpg",
+    "file": "File:Republic Building, Columbus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/THE_REPUBLIC_%28LOCAL_NEWSPAPER%29%2C_BUILT_IN_1971_-_NARA_-_546543.jpg/1280px-THE_REPUBLIC_%28LOCAL_NEWSPAPER%29%2C_BUILT_IN_1971_-_NARA_-_546543.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/republic-newspaper-office-columbus/thumbs/3.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Declan Haun",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:THE_REPUBLIC_(LOCAL_NEWSPAPER),_BUILT_IN_1971_-_NARA_-_546543.jpg",
+    "file": "File:THE REPUBLIC (LOCAL NEWSPAPER), BUILT IN 1971 - NARA - 546543.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Former_Republic_newspaper_office%2C_Don_Nissen.jpg/1280px-Former_Republic_newspaper_office%2C_Don_Nissen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/republic-newspaper-office-columbus/thumbs/4.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Detail",
+    "caption": "Detail · Myron Goldsmith, architect National Historic Landmark",
+    "credit": "Don47203",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Former_Republic_newspaper_office,_Don_Nissen.jpg",
+    "file": "File:Former Republic newspaper office, Don Nissen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Republic_Building_Columbus.jpg/1280px-Republic_Building_Columbus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/republic-newspaper-office-columbus/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Detail",
+    "caption": "Detail · Republic office in Columbus, Indiana",
+    "credit": "Jeff Hart  from Bloomington, IN, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Republic_Building_Columbus.jpg",
+    "file": "File:Republic Building Columbus.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "milwaukee-county-war-memorial-center",
@@ -283533,7 +291448,83 @@ window.BUILDINGS = [
   "commons": "Category:Milwaukee County War Memorial",
   "lead": "File:Milwaukee County War Memorial Center.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Milwaukee_County_War_Memorial_Center.jpg/1280px-Milwaukee_County_War_Memorial_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/milwaukee-county-war-memorial-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dasparag",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_County_War_Memorial_Center.jpg",
+    "file": "File:Milwaukee County War Memorial Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Milwaukee_County_War_Memorial_Center_perspective.jpg/1280px-Milwaukee_County_War_Memorial_Center_perspective.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/milwaukee-county-war-memorial-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 900,
+    "kind": "Exterior",
+    "caption": "Exterior · Milwaukee County War Memorial Center Milwaukee, Wisconsin",
+    "credit": "Peter Alfred Hess  from United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_County_War_Memorial_Center_perspective.jpg",
+    "file": "File:Milwaukee County War Memorial Center perspective.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Milwaukee_July_2022_072_%28Milwaukee_County_War_Memorial%29.jpg/1280px-Milwaukee_July_2022_072_%28Milwaukee_County_War_Memorial%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/milwaukee-county-war-memorial-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Milwaukee County War Memorial in Milwaukee , Wisconsin ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_July_2022_072_(Milwaukee_County_War_Memorial).jpg",
+    "file": "File:Milwaukee July 2022 072 (Milwaukee County War Memorial).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Milwaukee_County_War_Memorial_Center_%28October_2023%29_01.jpg/1280px-Milwaukee_County_War_Memorial_Center_%28October_2023%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/milwaukee-county-war-memorial-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Milwaukee County War Memorial Center in Milwaukee, Wisconsin",
+    "credit": "DiscoA340",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_County_War_Memorial_Center_(October_2023)_01.jpg",
+    "file": "File:Milwaukee County War Memorial Center (October 2023) 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/MCWM.jpg/1280px-MCWM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/milwaukee-county-war-memorial-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · The Milwaukee County War Memorial on a stormy day",
+    "credit": "Littlemisosoup",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MCWM.jpg",
+    "file": "File:MCWM.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Abraham_Lincoln_War_Memorial_Milwaukee.jpg/1280px-Abraham_Lincoln_War_Memorial_Milwaukee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/milwaukee-county-war-memorial-center/thumbs/5.webp",
+    "w": 1088,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Statue of Abraham Lincoln by American artist Gaetano Cecere (1934), Milwaukee, Wisconsin",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_War_Memorial_Milwaukee.jpg",
+    "file": "File:Abraham Lincoln War Memorial Milwaukee.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "arizona-biltmore",
@@ -283557,7 +291548,83 @@ window.BUILDINGS = [
   "commons": "Category:Arizona Biltmore Hotel",
   "lead": "File:Arizona Biltmore - South Facade.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Arizona_Biltmore_-_South_Facade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/arizona-biltmore/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The South side of the Arizona Biltmore Hotel in Phoenix, Arizona",
+    "credit": "Cygnusloop99",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arizona_Biltmore_-_South_Facade.JPG",
+    "file": "File:Arizona Biltmore - South Facade.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Arizona_Biltmore_Courtyard.jpg/1280px-Arizona_Biltmore_Courtyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arizona-biltmore/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The courtyard at the Arizona Biltmore Hotel in Phoenix",
+    "credit": "Visitor7",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arizona_Biltmore_Courtyard.jpg",
+    "file": "File:Arizona Biltmore Courtyard.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Arizona_Biltmore_Hotel%2C_Missouri_Ave%2C_Biltmore_Area%2C_Phoenix%2C_AZ_-_54436900127.jpg/1280px-Arizona_Biltmore_Hotel%2C_Missouri_Ave%2C_Biltmore_Area%2C_Phoenix%2C_AZ_-_54436900127.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arizona-biltmore/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arizona_Biltmore_Hotel,_Missouri_Ave,_Biltmore_Area,_Phoenix,_AZ_-_54436900127.jpg",
+    "file": "File:Arizona Biltmore Hotel, Missouri Ave, Biltmore Area, Phoenix, AZ - 54436900127.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Phoenix-Building-Arizona_Biltmore_Hotel_bridge-1929-1.jpg/1280px-Phoenix-Building-Arizona_Biltmore_Hotel_bridge-1929-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arizona-biltmore/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Arizona Biltmore Hotel bridge",
+    "credit": "Marine 69-71",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phoenix-Building-Arizona_Biltmore_Hotel_bridge-1929-1.jpg",
+    "file": "File:Phoenix-Building-Arizona Biltmore Hotel bridge-1929-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Arizona_Biltmore_Hallway.jpg/1280px-Arizona_Biltmore_Hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arizona-biltmore/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Arizona Biltmore Hotel in Phoenix",
+    "credit": "Visitor7",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arizona_Biltmore_Hallway.jpg",
+    "file": "File:Arizona Biltmore Hallway.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Elevator_Lobby%2C_Arizona_Biltmore_Hotel%2C_Missouri_Ave%2C_Biltmore_Area%2C_Phoenix%2C_AZ_-_54438006348.jpg/1280px-Elevator_Lobby%2C_Arizona_Biltmore_Hotel%2C_Missouri_Ave%2C_Biltmore_Area%2C_Phoenix%2C_AZ_-_54438006348.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/arizona-biltmore/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevator_Lobby,_Arizona_Biltmore_Hotel,_Missouri_Ave,_Biltmore_Area,_Phoenix,_AZ_-_54438006348.jpg",
+    "file": "File:Elevator Lobby, Arizona Biltmore Hotel, Missouri Ave, Biltmore Area, Phoenix, AZ - 54438006348.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "figge-art-museum",
@@ -283581,7 +291648,71 @@ window.BUILDINGS = [
   "commons": "Category:Figge Art Museum Building",
   "lead": "File:Figge Art Museum 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Figge_Art_Museum_2.jpg/1280px-Figge_Art_Museum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/figge-art-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 695,
+    "kind": "Exterior",
+    "caption": "Exterior · Figge Art Museum in Davenport, Iowa",
+    "credit": "Ctjf83",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Figge_Art_Museum_2.jpg",
+    "file": "File:Figge Art Museum 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Figge_Art_Museum_By_Nate_Woolsey_07-04-18.jpg/1280px-Figge_Art_Museum_By_Nate_Woolsey_07-04-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/figge-art-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Figge Art Museum Davenport, Iowa",
+    "credit": "NateWoolsey",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Figge_Art_Museum_By_Nate_Woolsey_07-04-18.jpg",
+    "file": "File:Figge Art Museum By Nate Woolsey 07-04-18.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Figge_Art_Museum_S.JPG/1280px-Figge_Art_Museum_S.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/figge-art-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The south facade along River Drive of the Figge Art Museum in Davenport, Iowa",
+    "credit": "Farragutful",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Figge_Art_Museum_S.JPG",
+    "file": "File:Figge Art Museum S.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Figge_Museum_Building.jpg/1280px-Figge_Museum_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/figge-art-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Figge Museum Building in downtown Davenport",
+    "credit": "Quadcities2012",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Figge_Museum_Building.jpg",
+    "file": "File:Figge Museum Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Figgie_Art_Museum_%2C_12-29-2009%3B_Davenport%2CIowa.jpeg/1280px-Figgie_Art_Museum_%2C_12-29-2009%3B_Davenport%2CIowa.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/figge-art-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Picture I took of the Figgie art Musueum",
+    "credit": "HowlerBytes",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Figgie_Art_Museum_,_12-29-2009;_Davenport,Iowa.jpeg",
+    "file": "File:Figgie Art Museum , 12-29-2009; Davenport,Iowa.jpeg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "marcus-center-for-the-performing-arts",
@@ -283605,7 +291736,83 @@ window.BUILDINGS = [
   "commons": "Category:Marcus Center",
   "lead": "File:Milwaukee August 2022 102 (Marcus Center).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Milwaukee_August_2022_102_%28Marcus_Center%29.jpg/1280px-Milwaukee_August_2022_102_%28Marcus_Center%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marcus-center-for-the-performing-arts/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Marcus Performing Arts Center in Milwaukee , Wisconsin ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_August_2022_102_(Marcus_Center).jpg",
+    "file": "File:Milwaukee August 2022 102 (Marcus Center).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Marcus_Center_%2826808919062%29.jpg/1280px-Marcus_Center_%2826808919062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marcus-center-for-the-performing-arts/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Marcus Center",
+    "credit": "Paul Sableman  from St. Louis, MO",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marcus_Center_(26808919062).jpg",
+    "file": "File:Marcus Center (26808919062).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Marcus_Performing_Arts_Center.jpg/1280px-Marcus_Performing_Arts_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marcus-center-for-the-performing-arts/thumbs/2.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Exterior",
+    "caption": "Exterior · Marcus Performing Arts Center",
+    "credit": "Bginptotao23",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marcus_Performing_Arts_Center.jpg",
+    "file": "File:Marcus Performing Arts Center.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Milwaukee_July_2022_112_%28Peck_Pavilion%29.jpg/1280px-Milwaukee_July_2022_112_%28Peck_Pavilion%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marcus-center-for-the-performing-arts/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Peck Pavilion at the Marcus Center in Milwaukee , Wisconsin ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_July_2022_112_(Peck_Pavilion).jpg",
+    "file": "File:Milwaukee July 2022 112 (Peck Pavilion).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Navy_Band_visits_Milwaukee_%2832797805003%29.jpg/1280px-Navy_Band_visits_Milwaukee_%2832797805003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marcus-center-for-the-performing-arts/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · MILWAUKEE (March 22, 2017) Musician 1st Class David Babich speaks during a U.S",
+    "credit": "United States Navy Band  from Washington, D.C., USA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Navy_Band_visits_Milwaukee_(32797805003).jpg",
+    "file": "File:Navy Band visits Milwaukee (32797805003).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Anti-gay_anti_abortion_demonstrators_in_front_of_Marcus_Center_near_the_State_and_Water_Street_vehicle_screening_gate_during_day_2_of_the_2024_RNC_IMG_6422.jpg/1280px-Anti-gay_anti_abortion_demonstrators_in_front_of_Marcus_Center_near_the_State_and_Water_Street_vehicle_screening_gate_during_day_2_of_the_2024_RNC_IMG_6422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/marcus-center-for-the-performing-arts/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "SecretName101",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anti-gay_anti_abortion_demonstrators_in_front_of_Marcus_Center_near_the_State_and_Water_Street_vehicle_screening_gate_during_day_2_of_the_2024_RNC_IMG_6422.jpg",
+    "file": "File:Anti-gay anti abortion demonstrators in front of Marcus Center near the State and Water Street vehicle screening gate during day 2 of the 2024 RNC IMG 6422.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chapel-of-the-resurrection-valparaiso",
@@ -283629,7 +291836,83 @@ window.BUILDINGS = [
   "commons": "Category:Chapel of the Resurrection (Valparaiso, Indiana)",
   "lead": "File:Chapel of the Resurrection - Exterior Southeast.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Chapel_of_the_Resurrection_-_Exterior_Southeast.JPG/1280px-Chapel_of_the_Resurrection_-_Exterior_Southeast.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-the-resurrection-valparaiso/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Valparaiso University, Valparaiso, Indiana",
+    "credit": "Runner1928",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Resurrection_-_Exterior_Southeast.JPG",
+    "file": "File:Chapel of the Resurrection - Exterior Southeast.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Chapel_of_the_Resurrection_sunset_-_panoramio.jpg/1280px-Chapel_of_the_Resurrection_sunset_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-the-resurrection-valparaiso/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapel of the Resurrection sunset",
+    "credit": "hakkun",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chapel_of_the_Resurrection_sunset_-_panoramio.jpg",
+    "file": "File:Chapel of the Resurrection sunset - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Autumn_at_the_Chapel_of_the_Resurrection_01.JPG/1280px-Autumn_at_the_Chapel_of_the_Resurrection_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-the-resurrection-valparaiso/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Valparaiso University, Valparaiso, Indiana",
+    "credit": "Runner1928",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Autumn_at_the_Chapel_of_the_Resurrection_01.JPG",
+    "file": "File:Autumn at the Chapel of the Resurrection 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/University_Memorial_Chapel_at_Valparaiso_University%2C_circa_1970_-_Valparaiso%2C_Indiana.jpg/1280px-University_Memorial_Chapel_at_Valparaiso_University%2C_circa_1970_-_Valparaiso%2C_Indiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-the-resurrection-valparaiso/thumbs/3.webp",
+    "w": 1280,
+    "h": 885,
+    "kind": "Exterior",
+    "caption": "Exterior · University Memorial Chapel",
+    "credit": "Steve Shook",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_Memorial_Chapel_at_Valparaiso_University,_circa_1970_-_Valparaiso,_Indiana.jpg",
+    "file": "File:University Memorial Chapel at Valparaiso University, circa 1970 - Valparaiso, Indiana.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Stairwell_of_the_Chapel.jpg/1280px-Stairwell_of_the_Chapel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-the-resurrection-valparaiso/thumbs/4.webp",
+    "w": 1280,
+    "h": 590,
+    "kind": "Interior",
+    "caption": "Interior · Stairwell in the Chapel of the Resurrections",
+    "credit": "Chris Light",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stairwell_of_the_Chapel.jpg",
+    "file": "File:Stairwell of the Chapel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lanterns_2019-02-25_020.jpg/1280px-Lanterns_2019-02-25_020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-the-resurrection-valparaiso/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Nave of the Chapel of the Resurrection, Valparaiso University",
+    "credit": "Chris Light",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lanterns_2019-02-25_020.jpg",
+    "file": "File:Lanterns 2019-02-25 020.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stockman-house-mason-city",
@@ -283653,7 +291936,71 @@ window.BUILDINGS = [
   "commons": "Category:Dr. G.C. Stockman House",
   "lead": "File:George Stockman House - 49823261608.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/George_Stockman_House_-_49823261608.jpg/1280px-George_Stockman_House_-_49823261608.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockman-house-mason-city/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Dr",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:George_Stockman_House_-_49823261608.jpg",
+    "file": "File:George Stockman House - 49823261608.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/G_C_Stockman_House_Front-Left.jpg/1280px-G_C_Stockman_House_Front-Left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockman-house-mason-city/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · G",
+    "credit": "PamelaVWhite",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G_C_Stockman_House_Front-Left.jpg",
+    "file": "File:G C Stockman House Front-Left.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/G_C_Stockman_House_Front-Right.jpg/1280px-G_C_Stockman_House_Front-Right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockman-house-mason-city/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Dr",
+    "credit": "PamelaVWhite",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G_C_Stockman_House_Front-Right.jpg",
+    "file": "File:G C Stockman House Front-Right.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/George_Stockman_House_-_49823261608_%28cropped%29.jpg/1280px-George_Stockman_House_-_49823261608_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockman-house-mason-city/thumbs/3.webp",
+    "w": 1280,
+    "h": 722,
+    "kind": "Exterior",
+    "caption": "Exterior · Dr",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:George_Stockman_House_-_49823261608_(cropped).jpg",
+    "file": "File:George Stockman House - 49823261608 (cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/George_Stockman_House_-_49824112142.jpg/960px-George_Stockman_House_-_49824112142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockman-house-mason-city/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Dr",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:George_Stockman_House_-_49824112142.jpg",
+    "file": "File:George Stockman House - 49824112142.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "colorado-state-capitol",
@@ -283677,7 +292024,97 @@ window.BUILDINGS = [
   "commons": "Category:Colorado State Capitol",
   "lead": "File:04 Colorado State Capitol Exterior.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/04_Colorado_State_Capitol_Exterior.jpg/1280px-04_Colorado_State_Capitol_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · 04 Colorado State Capitol Exterior",
+    "credit": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:04_Colorado_State_Capitol_Exterior.jpg",
+    "file": "File:04 Colorado State Capitol Exterior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Denver_capitol.jpg/1280px-Denver_capitol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/1.webp",
+    "w": 1280,
+    "h": 891,
+    "kind": "Exterior",
+    "caption": "Exterior · Denver Capitol building",
+    "credit": "Hustvedt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denver_capitol.jpg",
+    "file": "File:Denver capitol.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Back_Entrance_-_Early_Morning.jpg/1280px-Back_Entrance_-_Early_Morning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/2.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Colorado Capitol Building",
+    "credit": "jjmusgrove",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Back_Entrance_-_Early_Morning.jpg",
+    "file": "File:Back Entrance - Early Morning.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Back_Entrance_-_Noon.jpg/1280px-Back_Entrance_-_Noon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/3.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Colorado Capitol Building",
+    "credit": "jjmusgrove",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Back_Entrance_-_Noon.jpg",
+    "file": "File:Back Entrance - Noon.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/01_Colorado_State_Capitol_Courtyard.jpg/1280px-01_Colorado_State_Capitol_Courtyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/4.webp",
+    "w": 1015,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · 01 Colorado State Capitol Courtyard",
+    "credit": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:01_Colorado_State_Capitol_Courtyard.jpg",
+    "file": "File:01 Colorado State Capitol Courtyard.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/06_Colorado_State_Capitol_Ground_Floor.jpg/1280px-06_Colorado_State_Capitol_Ground_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/5.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Interior",
+    "caption": "Interior · 06 Colorado State Capitol Ground Floor",
+    "credit": "NateBergin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:06_Colorado_State_Capitol_Ground_Floor.jpg",
+    "file": "File:06 Colorado State Capitol Ground Floor.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/One_Mile_Above_Sea_Level.jpg/1280px-One_Mile_Above_Sea_Level.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/colorado-state-capitol/thumbs/6.webp",
+    "w": 1280,
+    "h": 741,
+    "kind": "Elevation",
+    "caption": "Elevation · One Mile Above Sea Level",
+    "credit": "J. Miers - User: (WT-shared) Jtesla16 at  wts wikivoyage",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:One_Mile_Above_Sea_Level.jpg",
+    "file": "File:One Mile Above Sea Level.jpg"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "cedar-rock-lowell-walter-house",
@@ -283698,10 +292135,74 @@ window.BUILDINGS = [
   ],
   "study": "Usonian tadpole plan of brick, walnut and glass; glass-walled living room faces the river; no basement or attic.",
   "qid": null,
-  "commons": null,
+  "commons": "Category:Cedar Rock State Park",
   "lead": "File:Lowell Walter House, June 2015.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Lowell_Walter_House%2C_June_2015.jpg/1280px-Lowell_Walter_House%2C_June_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cedar-rock-lowell-walter-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 632,
+    "kind": "Exterior",
+    "caption": "Exterior · South-southwest face of the Lowell Walter House , Quasqueton, Iowa",
+    "credit": "Orange Suede Sofa",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lowell_Walter_House,_June_2015.jpg",
+    "file": "File:Lowell Walter House, June 2015.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Walter_House_%2851234139412%29.jpg/1280px-The_Walter_House_%2851234139412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cedar-rock-lowell-walter-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Phil Roeder",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Walter_House_(51234139412).jpg",
+    "file": "File:The Walter House (51234139412).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/The_Walter_House_%2851234140617%29.jpg/1280px-The_Walter_House_%2851234140617%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cedar-rock-lowell-walter-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Phil Roeder",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Walter_House_(51234140617).jpg",
+    "file": "File:The Walter House (51234140617).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Cedar_Rock%3B_Quasqueton%2C_Iowa%3B_June_30%2C_2013.JPG/1280px-Cedar_Rock%3B_Quasqueton%2C_Iowa%3B_June_30%2C_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cedar-rock-lowell-walter-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Lowell E",
+    "credit": "Stephen Matthew Milligan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cedar_Rock;_Quasqueton,_Iowa;_June_30,_2013.JPG",
+    "file": "File:Cedar Rock; Quasqueton, Iowa; June 30, 2013.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/CedarRock_LivingRoom.JPG/1280px-CedarRock_LivingRoom.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cedar-rock-lowell-walter-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The Walter Residence, Quasqueton, Iowa",
+    "credit": "BillyMac59",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CedarRock_LivingRoom.JPG",
+    "file": "File:CedarRock LivingRoom.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "allen-lambe-house-wichita",
@@ -283725,7 +292226,74 @@ window.BUILDINGS = [
   "commons": "Category:Allen–Lambe House",
   "lead": "File:Allen-Lambe House.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Allen-Lambe_House.JPG/1280px-Allen-Lambe_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allen-lambe-house-wichita/thumbs/0.webp",
+    "w": 1280,
+    "h": 622,
+    "kind": "Context",
+    "caption": "Context · The Allen-Lambe House, located at 255 North Roosevelt Street in Wichita, Kansas",
+    "credit": "Jeffrey Beall",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allen-Lambe_House.JPG",
+    "file": "File:Allen-Lambe House.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Allen_House_%282024%29.jpg/1280px-Allen_House_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allen-lambe-house-wichita/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allen_House_(2024).jpg",
+    "file": "File:Allen House (2024).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Allen_House_-_54097795632.jpg/1280px-Allen_House_-_54097795632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allen-lambe-house-wichita/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allen_House_-_54097795632.jpg",
+    "file": "File:Allen House - 54097795632.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Drawing%2C_Light_Fixture_and_Plan_of_Glass_Disc_for_Mr._Allen%27s_Study_and_Mrs._Allen%27s_Dressing_Room%2C_Henry_J._Allen_Residence%2C_Wichita%2C_Kansas%2C_1917_%28CH_18800307-2%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allen-lambe-house-wichita/thumbs/3.webp",
+    "w": 1199,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Design for light fixture with two different views",
+    "credit": "Unknown artist",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Drawing,_Light_Fixture_and_Plan_of_Glass_Disc_for_Mr._Allen%27s_Study_and_Mrs._Allen%27s_Dressing_Room,_Henry_J._Allen_Residence,_Wichita,_Kansas,_1917_(CH_18800307-2).jpg",
+    "file": "File:Drawing, Light Fixture and Plan of Glass Disc for Mr. Allen's Study and Mrs. Allen's Dressing Room, Henry J. Allen Residence, Wichita, Kansas, 1917 (CH 18800307-2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Drawing%2C_Andirons%2C_Entrance_Hall_Fireplace%2C_Henry_J._Allen_Residence%2C_Wichita%2C_Kansas%2C_1917_%28CH_18800285-2%29.jpg/1280px-Drawing%2C_Andirons%2C_Entrance_Hall_Fireplace%2C_Henry_J._Allen_Residence%2C_Wichita%2C_Kansas%2C_1917_%28CH_18800285-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allen-lambe-house-wichita/thumbs/4.webp",
+    "w": 1280,
+    "h": 1267,
+    "kind": "Drawing",
+    "caption": "Drawing · Page divided horizontally into two registers with illustrations of andirons in a fireplace",
+    "credit": "Unknown artist",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Drawing,_Andirons,_Entrance_Hall_Fireplace,_Henry_J._Allen_Residence,_Wichita,_Kansas,_1917_(CH_18800285-2).jpg",
+    "file": "File:Drawing, Andirons, Entrance Hall Fireplace, Henry J. Allen Residence, Wichita, Kansas, 1917 (CH 18800285-2).jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "first-unitarian-society-meeting-house-madison",
@@ -283749,7 +292317,83 @@ window.BUILDINGS = [
   "commons": "Category:First Unitarian Society Meetinghouse",
   "lead": "File:First Unitarian Society Meeting House (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/First_Unitarian_Society_Meeting_House_%281%29.jpg/1280px-First_Unitarian_Society_Meeting_House_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-unitarian-society-meeting-house-madison/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · First Unitarian Society Meeting House, Sherwood Hills, Wisconsin, USA, image taken May 2021",
+    "credit": "Bahrsoap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Unitarian_Society_Meeting_House_(1).jpg",
+    "file": "File:First Unitarian Society Meeting House (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/First_Unitarian_Society_of_Madison_Wisconsin_Exterior.jpg/1280px-First_Unitarian_Society_of_Madison_Wisconsin_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-unitarian-society-meeting-house-madison/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kristinjane22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Unitarian_Society_of_Madison_Wisconsin_Exterior.jpg",
+    "file": "File:First Unitarian Society of Madison Wisconsin Exterior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Frank_Lloyd_Wright_Detection_Marker_-_panoramio.jpg/1280px-Frank_Lloyd_Wright_Detection_Marker_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-unitarian-society-meeting-house-madison/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright Detection Marker",
+    "credit": "Corey Coyle",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_Detection_Marker_-_panoramio.jpg",
+    "file": "File:Frank Lloyd Wright Detection Marker - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Unitarian_Meeting_House_-_51333411297.jpg/1280px-Unitarian_Meeting_House_-_51333411297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-unitarian-society-meeting-house-madison/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright's Unitarian Meeting House",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unitarian_Meeting_House_-_51333411297.jpg",
+    "file": "File:Unitarian Meeting House - 51333411297.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/First_Unitarian_Society_of_Madison_Wisconsin_Interior.jpg/1280px-First_Unitarian_Society_of_Madison_Wisconsin_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-unitarian-society-meeting-house-madison/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Kristinjane22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Unitarian_Society_of_Madison_Wisconsin_Interior.jpg",
+    "file": "File:First Unitarian Society of Madison Wisconsin Interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/First_Unitarion_Society_of_Madison_Interior_%26_Furniture.jpg/1280px-First_Unitarion_Society_of_Madison_Interior_%26_Furniture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/first-unitarian-society-meeting-house-madison/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Kristinjane22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:First_Unitarion_Society_of_Madison_Interior_%26_Furniture.jpg",
+    "file": "File:First Unitarion Society of Madison Interior & Furniture.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "joslyn-art-museum",
@@ -283773,6 +292417,96 @@ window.BUILDINGS = [
   "commons": "Category:Joslyn Art Museum",
   "lead": "File:Joslyn Art Museum Omaha Nebraska.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Joslyn_Art_Museum_Omaha_Nebraska.jpg/1280px-Joslyn_Art_Museum_Omaha_Nebraska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/joslyn-art-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Joslyn Art Museum entrance",
+    "credit": "akasped",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Joslyn_Art_Museum_Omaha_Nebraska.jpg",
+    "file": "File:Joslyn Art Museum Omaha Nebraska.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Joslyn_original_entrance.jpg/1280px-Joslyn_original_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/joslyn-art-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Original Entrance the the Joslyn Museum, now used only as a emergency exit or for special events",
+    "credit": "Dmartin969",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Joslyn_original_entrance.jpg",
+    "file": "File:Joslyn original entrance.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Joslyn_Art_Museum.jpg/1280px-Joslyn_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/joslyn-art-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Joslyn Art Museum",
+    "credit": "Collinulness",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Joslyn_Art_Museum.jpg",
+    "file": "File:Joslyn Art Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Joslyn_Art_Museum_2024.jpg/1280px-Joslyn_Art_Museum_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/joslyn-art-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Joslyn Art Museum (Omaha, NE): Joslyn Building & Hawks Pavilion, October 2024",
+    "credit": "Bubudu57",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Joslyn_Art_Museum_2024.jpg",
+    "file": "File:Joslyn Art Museum 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Joslyn_Art_Museum_Entry_Atrium.jpg/1280px-Joslyn_Art_Museum_Entry_Atrium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/joslyn-art-museum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Joslyn Art Museum Hawks Pavilion Entry Atrium",
+    "credit": "Bubudu57",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Joslyn_Art_Museum_Entry_Atrium.jpg",
+    "file": "File:Joslyn Art Museum Entry Atrium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Joslyn_Atrium_South.jpg/1280px-Joslyn_Atrium_South.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/joslyn-art-museum/thumbs/5.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Rdsmith4",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Joslyn_Atrium_South.jpg",
+    "file": "File:Joslyn Atrium South.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Indian_on_horseback_by_Maximilian_zu_Wied-Neuwied.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/joslyn-art-museum/thumbs/6.webp",
+    "w": 556,
+    "h": 701,
+    "kind": "Drawing",
+    "caption": "Drawing · Indian on horseback",
+    "credit": "Maximilian zu Wied-Neuwied (* 1782; † 1867)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_on_horseback_by_Maximilian_zu_Wied-Neuwied.jpg",
+    "file": "File:Indian on horseback by Maximilian zu Wied-Neuwied.jpg"
+   }
+  ],
+  "has": [
+   "Drawing"
+  ],
+  "gv": 3
  }
 ];
