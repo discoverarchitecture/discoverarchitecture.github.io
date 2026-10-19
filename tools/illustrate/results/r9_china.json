@@ -2046,5 +2046,146 @@
    "https://en.wikipedia.org/wiki/Sifang_Art_Museum"
   ],
   "note": "no free photo. Two Commons searches (category and file search) found nothing usable. Wikipedia gives only the 2013 opening; it lists the architect as Steven Holl but no Commons category."
+ },
+ {
+  "id": "tainan-main-public-library",
+  "name": "Tainan Main Public Library",
+  "by": "Mecanoo, MAYU Architects",
+  "city": "Tainan",
+  "cc": "TW",
+  "year": "2021",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Inverted stepped form with cantilevers on slender columns in fours; upper floors wrapped in patterned slats.",
+  "status": "photo",
+  "commons_category": "Category:Tainan_Main_Public_Library",
+  "photos": [
+   {
+    "file": "File:Tainan Main Public Library 20220621 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tainan_Main_Public_Library",
+   "https://commons.wikimedia.org/wiki/Category:Tainan_Main_Public_Library"
+  ],
+  "note": "Opened January 2021 (Wikipedia gives no completion date). The photo is a daylight corner view, cropped, with the small name sign at the lower right; two other photos had crowds and tents.",
+  "coords": [
+   23.0245889,
+   120.2377
+  ]
+ },
+ {
+  "id": "national-theater-and-concert-hall-taipei",
+  "name": "National Theater and Concert Hall",
+  "by": "Yang Cho-cheng, Architects and Engineers Associates",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1987",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Modern in function but recalling traditional Chinese palace architecture; stands at Liberty Square.",
+  "status": "photo",
+  "commons_category": "Category:National_Theater_and_Concert_Hall,_Republic_of_China",
+  "photos": [
+   {
+    "file": "File:National Theater and Concert Hall and Guanghua Pond 20210712.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Theater, National Concert Hall and Guanghua Pond 20100722.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall",
+   "https://commons.wikimedia.org/wiki/Category:National_Theater_and_Concert_Hall,_Republic_of_China"
+  ],
+  "note": "Completed 20 September 1987 (Wikipedia). Both photos are daylight views across Guanghua Pond; the theatre is on the right, cropped at the edge in the first.",
+  "coords": [
+   25.035,
+   121.51806
+  ]
+ },
+ {
+  "id": "chongqing-grand-theatre",
+  "name": "Chongqing Grand Theatre",
+  "by": "Gerkan, Marg and Partners (gmp)",
+  "city": "Chongqing",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Horseshoe-shaped auditorium for 1,826, described as a mix between a space centre and a sailing ship.",
+  "status": "unsure",
+  "commons_category": "Category:Chongqing_Grand_Theatre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chongqing_Grand_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Chongqing_Grand_Theatre"
+  ],
+  "note": "no main photo. Seen: two night shots and a daytime file that seemed to show a different, green-glass stepped building, so I could not confirm it. Construction began 2005; Wikipedia gives 2009.",
+  "coords": [
+   29.568623,
+   106.580384
+  ]
+ },
+ {
+  "id": "hong-kong-academy-for-performing-arts",
+  "name": "Hong Kong Academy for Performing Arts",
+  "by": "Simon Kwan and Associates",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1985",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Axis",
+   "Circulation"
+  ],
+  "features": "Campus of an Academy Block, a Theatre Block and an Administration Block, chosen in a six-firm limited competition.",
+  "status": "unsure",
+  "commons_category": "Category:The_Hong_Kong_Academy_for_Performing_Arts",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Academy_for_Performing_Arts",
+   "https://commons.wikimedia.org/wiki/Category:The_Hong_Kong_Academy_for_Performing_Arts"
+  ],
+  "note": "no main photo. The first category photo seen is a close view of the entrance sign. Academy Block opened 18 September 1985, Theatre Block 3 February 1986 (Wikipedia).",
+  "coords": [
+   22.28028,
+   114.16944
+  ]
  }
 ]
