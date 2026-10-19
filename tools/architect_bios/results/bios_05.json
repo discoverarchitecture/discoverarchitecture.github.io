@@ -134,13 +134,6 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Floornature",
-    "title": "Herman Hertzberger",
-    "url": "https://www.floornature.com/herman-hertzberger-1/",
-    "why": "a profile of his life and main works",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "Reading Office",
     "title": "Herman Hertzberger",
     "url": "https://readingoffice.com/herman-hertzberger/",
@@ -193,13 +186,6 @@
     "url": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
     "why": "an obituary surveying his career and main works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Archiweb",
-    "title": "Hiroshi Hara",
-    "url": "https://www.archiweb.cz/en/hiroshi-hara",
-    "why": "a list of his buildings with photos",
-    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -597,13 +583,6 @@
     "url": "https://backbayhouses.org/mckim-mead-and-white/",
     "why": "a history of the firm and its partners",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Dumbarton Oaks",
-    "title": "McKim, Mead & White",
-    "url": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
-    "why": "a short biography of the firm",
-    "check_failed": "status 202, name not found on page"
    }
   ],
   "skip": false
@@ -663,13 +642,6 @@
     "url": "https://www.archdaily.com/tag/otto-wagner",
     "why": "classics and articles on his buildings",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Wien Museum",
-    "title": "Otto Wagner",
-    "url": "https://www.wienmuseum.at/otto_wagner_en",
-    "why": "the museum that holds his estate, on his life and work",
-    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "University of Washington",
@@ -1378,13 +1350,6 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Structurae",
-    "title": "Vladimir Shukhov",
-    "url": "https://structurae.net/en/persons/vladimir-shukhov",
-    "why": "a list of his structures",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "Architectuul",
     "title": "Vladimir Shukhov",
     "url": "https://architectuul.com/architect/vladimir-shukhov",
@@ -1456,13 +1421,6 @@
     "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
     "why": "the Bauhaus institutions' biography",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Structurae",
-    "title": "Walter Gropius",
-    "url": "https://structurae.net/en/persons/walter-gropius",
-    "why": "a list of his buildings",
-    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false
@@ -1643,13 +1601,6 @@
     "url": "https://en.wikipedia.org/wiki/Achyut_Kanvinde",
     "why": "life, ideas and list of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Structurae",
-    "title": "Achyut Kanvinde",
-    "url": "https://structurae.net/en/persons/achyut-ap-kanvinde",
-    "why": "a list of his buildings",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Greyscape",
@@ -1913,20 +1864,6 @@
     "url": "https://behnisch.com/",
     "why": "the firm of his son Stefan, which keeps the practice's history",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Archiweb",
-    "title": "Günter Behnisch",
-    "url": "https://www.archiweb.cz/en/gunter-behnisch",
-    "why": "a list of his buildings with photos",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
-    "site": "Structurae",
-    "title": "Günter Behnisch",
-    "url": "https://structurae.net/en/persons/gunter-behnisch",
-    "why": "a list of the practice's works",
-    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false
