@@ -1297,6 +1297,486 @@
   ]
  },
  {
+  "id": "dortmunder-u",
+  "name": "Dortmunder U",
+  "by": "Emil Moog",
+  "city": "Dortmund",
+  "cc": "DE",
+  "year": "1927",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Monumentality"
+  ],
+  "features": "Dortmund's first high-rise, a brewery fermentation tower topped by a giant illuminated 'U', now an arts centre.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dortmund_U-Tower"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Dortmunder U",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (only close views of the top or night)",
+  "coords": [
+   51.515,
+   7.45362
+  ]
+ },
+ {
+  "id": "festspielhaus-hellerau",
+  "name": "Festspielhaus Hellerau",
+  "by": "Heinrich Tessenow",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "1911",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "The first modern theatre built without a proscenium arch, with a completely open stage.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Festspielhaus_Hellerau"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Festspielhaus Hellerau",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (no exterior view of the main building)"
+ },
+ {
+  "id": "sprengel-museum-hannover",
+  "name": "Sprengel Museum",
+  "by": "Peter and Ursula Trint with Dieter Quast",
+  "city": "Hanover",
+  "cc": "DE",
+  "year": "1979",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Museum of modern art beside the Maschsee, opened in 1979 and extended in 1992.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sprengel_Museum"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Sprengel Museum Hannover",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (only a dusk entrance view)",
+  "coords": [
+   52.36281,
+   9.74015
+  ]
+ },
+ {
+  "id": "brucknerhaus-linz",
+  "name": "Brucknerhaus",
+  "by": "Heikki and Kaija Siren",
+  "city": "Linz",
+  "cc": "AT",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Festival and congress centre built 1969–73; the large Brucknersaal seats 1,420.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brucknerhaus"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Brucknerhaus",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (boat in front, or night or entrance close-ups)",
+  "coords": [
+   48.31028,
+   14.2925
+  ]
+ },
+ {
+  "id": "dc-towers-vienna",
+  "name": "DC Tower 1",
+  "by": "Dominique Perrault",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Austria's tallest skyscraper: a 'monolith broken in the middle', clad in 32,000 m² of solar-protection glass.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/DC_Towers"
+  ],
+  "status": "photo",
+  "commons_category": "Category:DC Tower 1",
+  "photos": [
+   {
+    "file": "File:Wien - DC Towers.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   48.23194,
+   16.41278
+  ]
+ },
+ {
+  "id": "museum-der-moderne-salzburg",
+  "name": "Museum der Moderne Mönchsberg",
+  "by": "Friedrich, Hoff and Zwink",
+  "city": "Salzburg",
+  "cc": "AT",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Perched on the Mönchsberg cliff 60 m above the square, clad in Untersberg marble with vertical joints.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_der_Moderne_Salzburg"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Museum der Moderne Mönchsberg",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (building seen only far away on the cliff)",
+  "coords": [
+   47.7982,
+   13.0431
+  ]
+ },
+ {
+  "id": "vienna-international-centre",
+  "name": "Vienna International Centre",
+  "by": "Johann Staber",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1979",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Monumentality"
+  ],
+  "features": "Six Y-shaped office towers around a cylindrical conference building; the tallest has 28 floors.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vienna_International_Centre"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Vienna International Centre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (aerial is 501 px; others foggy or partial)",
+  "coords": [
+   48.23472,
+   16.41694
+  ]
+ },
+ {
+  "id": "vitrahaus-weil-am-rhein",
+  "name": "VitraHaus",
+  "by": "Herzog & de Meuron",
+  "city": "Weil am Rhein",
+  "cc": "DE",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Sculptural form"
+  ],
+  "features": "Twelve pitched-roof 'houses' stacked on one another, five forming the base.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/VitraHaus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Exterior of VitraHaus",
+  "photos": [
+   {
+    "file": "File:Weil am Rhein - Vitra Haus.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weil am Rhein - Vitra Haus3.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weil am Rhein - Vitra Haus2.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own."
+ },
+ {
+  "id": "mumok-vienna",
+  "name": "mumok",
+  "by": "Ortner & Ortner",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Cubic museum clad in basalt lava stone in the MuseumsQuartier.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mumok"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Museum Moderner Kunst Stiftung Ludwig Wien",
+  "photos": [
+   {
+    "file": "File:Wien Museumsplatz 1 mumok.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wien Muzeum Sztuki Nowoczesnej.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   48.20372,
+   16.35744
+  ]
+ },
+ {
+  "id": "vorarlberg-museum-bregenz",
+  "name": "Vorarlberg Museum",
+  "by": "Cukrowicz Nachbaur Architekten",
+  "city": "Bregenz",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Reclaimed material"
+  ],
+  "features": "Facade of 16,656 concrete 'blossoms' cast from the bottoms of PET bottles.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vorarlberg_museum"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Vorarlberg Museum (building)",
+  "photos": [
+   {
+    "file": "File:Vorarlberg museum in Bregenz 5.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Vorarlberg museum in Bregenz 4.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   47.50444,
+   9.74667
+  ]
+ },
+ {
+  "id": "hangar-7-salzburg",
+  "name": "Hangar-7",
+  "by": "Volkmar Burgstaller",
+  "city": "Salzburg",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Airfoil-shaped steel-and-glass dome: 1,200 tons of steel and 75,000 sq ft of glass.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hangar-7"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Hangar-7",
+  "photos": [
+   {
+    "file": "File:Red Bull Hangar 7(Ank kumar, Infosys Limited) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   47.79361,
+   13.00722
+  ]
+ },
+ {
+  "id": "zollverein-essen",
+  "name": "Zollverein Coal Mine, Shaft 12",
+  "by": "Fritz Schupp and Martin Kremmer",
+  "city": "Essen",
+  "cc": "DE",
+  "year": "1932",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "New Objectivity mine: cubic reinforced-concrete and steel-truss buildings around a double-bock winding tower.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zollverein_Coal_Mine_Industrial_Complex"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Zollverein Coal Mine industrial complex",
+  "photos": [
+   {
+    "file": "File:1056 zeche zollverein.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1030 Zeche Zollverein.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   51.49139,
+   7.04611
+  ]
+ },
+ {
+  "id": "museum-kueppersmuehle-duisburg",
+  "name": "Museum Küppersmühle",
+  "by": "Herzog & de Meuron",
+  "city": "Duisburg",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Light from above"
+  ],
+  "features": "1860 mill gutted into 3,600 m² of galleries with 6 m ceilings; extension by Herzog & de Meuron 2013–21.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_K%C3%BCppersmühle"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Museum Küppersmühle",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (night, or tight crops of the mill)",
+  "coords": [
+   51.44111,
+   6.775
+  ]
+ },
+ {
+  "id": "vitra-conference-pavilion",
+  "name": "Vitra Conference Pavilion",
+  "by": "Tadao Ando",
+  "city": "Weil am Rhein",
+  "cc": "DE",
+  "year": "1993",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Tadao Ando's first building outside Japan; gridded concrete and holes for light define its style.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conference_Pavilion"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Conference Pavilion (Andō Tadao)",
+  "photos": [
+   {
+    "file": "File:Tadao Ando's Conference Pavilion.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20170805 252 weil am rhein vitra.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own."
+ },
+ {
   "id": "philological-library-berlin",
   "name": "Philological Library, Free University",
   "by": "Norman Foster (Foster + Partners)",
@@ -1357,6 +1837,36 @@
   "view": null,
   "after": null,
   "note": "Photos checked by thumbnail. Commons category verified as this building's own."
+ },
+ {
+  "id": "leipzig-hauptbahnhof",
+  "name": "Leipzig Hauptbahnhof",
+  "by": "William Lossow and Max Hans Kühne",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": "1915",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Structure as expression"
+  ],
+  "features": "Europe's largest station by floor area: 21 platforms in six iron train sheds behind a 298 m facade.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leipzig_Hauptbahnhof"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Exterior of Leipzig Hauptbahnhof",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (category holds rail works; only an aerial)",
+  "coords": [
+   51.34528,
+   12.38222
+  ]
  },
  {
   "id": "tempelhof-airport-berlin",
@@ -1623,6 +2133,47 @@
   ]
  },
  {
+  "id": "zeiss-planetarium-jena",
+  "name": "Zeiss-Planetarium Jena",
+  "by": "Walther Bauersfeld",
+  "city": "Jena",
+  "cc": "DE",
+  "year": "1926",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "World's oldest continuously operating planetarium; stars are projected onto a white cupola.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeiss-Planetarium_Jena"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Planetarium Jena",
+  "photos": [
+   {
+    "file": "File:Zeiss-Planetarium-jena.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zeiss-Planetarium, Jena.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   50.93167,
+   11.58694
+  ]
+ },
+ {
   "id": "bonjour-tristesse-berlin",
   "name": "Bonjour Tristesse (Wohnhaus Schlesisches Tor)",
   "by": "Álvaro Siza Vieira",
@@ -1792,6 +2343,73 @@
   ]
  },
  {
+  "id": "lindt-home-of-chocolate",
+  "name": "Lindt Home of Chocolate",
+  "by": "Christ & Gantenbein",
+  "city": "Kilchberg",
+  "cc": "CH",
+  "year": "2020",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A monumental yet minimalist form inspired by industrial buildings; nine-metre chocolate fountain inside.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lindt_Home_of_Chocolate"
+  ],
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no free photo found (no Commons category)",
+  "coords": [
+   47.3184,
+   8.551
+  ]
+ },
+ {
+  "id": "bis-tower-basel",
+  "name": "BIS Tower (BIZ-Hochhaus)",
+  "by": "Martin Burckhardt",
+  "city": "Basel",
+  "cc": "CH",
+  "year": "1977",
+  "type": "Office & tower",
+  "movement": "Brutalism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Rotunda-shaped 69.5 m tower; copper-coloured hyperboloid shell on twelve load-bearing steel columns.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/BIS_Tower"
+  ],
+  "status": "photo",
+  "commons_category": "Category:BIZ Tower",
+  "photos": [
+   {
+    "file": "File:Basel - Bank für Internationalen Zahlungsausgleich-Tower Building (27527280652).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:BIZ-Tower (2026-08-01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own."
+ },
+ {
   "id": "frauenfriedenskirche-frankfurt",
   "name": "Frauenfriedenskirche",
   "by": "Hans Herkommer",
@@ -1866,6 +2484,52 @@
   "coords": [
    49.01278,
    8.40147
+  ]
+ },
+ {
+  "id": "new-synagogue-graz",
+  "name": "New Synagogue of Graz",
+  "by": "Jörg and Ingrid Mayr",
+  "city": "Graz",
+  "cc": "AT",
+  "year": "2000",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Glass dome on twelve metal pillars forms a Star-of-David cupola; brick, reinforced concrete and glass.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Synagogue_of_Graz"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Synagoge, Graz",
+  "photos": [
+   {
+    "file": "File:Graz David-Herzog-Platz Synagoge-4240.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:WRBaier11 1096.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Grazer Synagoge - Außenansicht, Dezember 2003.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category verified as this building's own.",
+  "coords": [
+   47.06399,
+   15.43368
   ]
  },
  {
