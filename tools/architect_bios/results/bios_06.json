@@ -173,7 +173,8 @@
     "site": "ArchDaily",
     "title": "Tecton tag page",
     "url": "https://www.archdaily.com/tag/tecton",
-    "why": "classics and articles on the group's buildings"
+    "why": "classics and articles on the group's buildings",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -240,7 +241,8 @@
     "site": "ArchDaily",
     "title": "Bruno Taut tag page",
     "url": "https://www.archdaily.com/tag/bruno-taut",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -290,13 +292,15 @@
     "site": "Royal Academy of Arts",
     "title": "Charles Girault",
     "url": "https://www.royalacademy.org.uk/art-artists/name/charles-girault",
-    "why": "a short biography from the Royal Academy collection"
+    "why": "a short biography from the Royal Academy collection",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Dominik Gehl",
     "title": "Charles Girault",
     "url": "https://dominikgehl.com/architects/charles-girault",
-    "why": "a list of his buildings"
+    "why": "a list of his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -417,19 +421,22 @@
     "site": "Visit Palm Springs",
     "title": "Palm Springs architect E. Stewart Williams",
     "url": "https://visitpalmsprings.com/palm-springs-architect-e-stewart-williams/",
-    "why": "a profile of his life and buildings in the city"
+    "why": "a profile of his life and buildings in the city",
+    "checked": "2026-10-19"
    },
    {
     "site": "Palm Springs Art Museum",
     "title": "E. Stewart Williams",
     "url": "https://psmuseum.org/at-home/activity/e-stewart-williams",
-    "why": "the museum he designed, on his career"
+    "why": "the museum he designed, on his career",
+    "checked": "2026-10-19"
    },
    {
     "site": "Atomic Ranch",
     "title": "E. Stewart Williams: Desert Modernist",
     "url": "https://www.atomic-ranch.com/modernist-index/e-stewart-williams-desert-modernist/",
-    "why": "a survey of his houses and public buildings"
+    "why": "a survey of his houses and public buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -544,13 +551,15 @@
     "site": "Architectuul",
     "title": "Emre Arolat",
     "url": "https://architectuul.com/architect/emre-arolat",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Emre Arolat tag page",
     "url": "https://www.archdaily.com/tag/emre-arolat",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -613,13 +622,15 @@
     "site": "ArchDaily",
     "title": "Enric Miralles tag page",
     "url": "https://www.archdaily.com/tag/enric-miralles",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "Architectuul",
     "title": "Enric Miralles",
     "url": "https://architectuul.com/architect/enric-miralles",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1033,13 +1044,15 @@
     "site": "ArchDaily",
     "title": "Henry N. Cobb tag page",
     "url": "https://www.archdaily.com/tag/henry-n-cobb",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Architectuul",
     "title": "Henry Cobb",
     "url": "https://architectuul.com/architect/henry-cobb",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1161,13 +1174,15 @@
     "site": "Architectuul",
     "title": "Jacobus Oud",
     "url": "https://architectuul.com/architect/jacobus-oud",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "Store norske leksikon",
     "title": "Jacobus Johannes Pieter Oud",
     "url": "https://snl.no/Jacobus_Johannes_Pieter_Oud",
-    "why": "an encyclopedia biography"
+    "why": "an encyclopedia biography",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1276,13 +1291,15 @@
     "site": "Architectuul",
     "title": "Juan O'Gorman",
     "url": "https://architectuul.com/architect/juan-ogorman",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "Atomic Ranch",
     "title": "Juan O'Gorman",
     "url": "https://www.atomic-ranch.com/modernist-index/juan-ogorman/",
-    "why": "a survey of his functionalist and later work"
+    "why": "a survey of his functionalist and later work",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1508,7 +1525,8 @@
     "site": "ArchDaily",
     "title": "Kevin Roche tag page",
     "url": "https://www.archdaily.com/tag/kevin-roche",
-    "why": "classics and articles on the firm's buildings"
+    "why": "classics and articles on the firm's buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1630,13 +1648,15 @@
     "site": "Architectuul",
     "title": "Lina Bo Bardi",
     "url": "https://architectuul.com/architect/lina-bo-bardi",
-    "why": "short biography and a list of her buildings with photos"
+    "why": "short biography and a list of her buildings with photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "Lina Bo Bardi",
     "url": "https://www.pritzkerprize.com/lina-bo-bardi",
-    "why": "a feature on her life and work"
+    "why": "a feature on her life and work",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1797,7 +1817,8 @@
     "site": "ArchDaily",
     "title": "Nayyar Ali Dada tag page",
     "url": "https://www.archdaily.com/tag/nayyar-ali-dada",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false

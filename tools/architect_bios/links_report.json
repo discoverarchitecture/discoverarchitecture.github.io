@@ -64,20 +64,20 @@
  },
  {
   "architect": "Berthold Lubetkin and Tecton",
-  "url": "https://historicengland.org.uk/listing/the-list/list-entry/1209885",
-  "status": 403,
-  "final": "https://historicengland.org.uk/listing/the-list/list-entry/1209885",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Berthold Lubetkin and Tecton",
   "url": "https://architectuul.com/architect/tecton",
   "status": 200,
   "final": "https://architectuul.com/architect/tecton",
   "title": "Tecton | Architectuul",
   "about": true,
+  "error": null
+ },
+ {
+  "architect": "Berthold Lubetkin and Tecton",
+  "url": "https://www.archdaily.com/tag/tecton",
+  "status": 404,
+  "final": "https://www.archdaily.com/tag/tecton",
+  "title": "",
+  "about": false,
   "error": null
  },
  {
@@ -100,11 +100,11 @@
  },
  {
   "architect": "Bruno Taut",
-  "url": "https://whc.unesco.org/en/list/1239/",
+  "url": "https://www.archdaily.com/tag/bruno-taut",
   "status": 200,
-  "final": "https://whc.unesco.org/en/list/1239/",
-  "title": "Berlin Modernism Housing Estates - UNESCO World Heritage Centre",
-  "about": false,
+  "final": "https://www.archdaily.com/tag/bruno-taut",
+  "title": "Bruno Taut | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -118,20 +118,20 @@
  },
  {
   "architect": "Charles Girault",
-  "url": "https://www.petitpalais.paris.fr/en/museum/history-of-the-petit-palais",
-  "status": 404,
-  "final": "https://www.petitpalais.paris.fr/en/museum/history-of-the-petit-palais",
+  "url": "https://www.royalacademy.org.uk/art-artists/name/charles-girault",
+  "status": 403,
+  "final": "https://www.royalacademy.org.uk/art-artists/name/charles-girault",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Charles Girault",
-  "url": "https://structurae.net/en/persons/charles-girault",
-  "status": 403,
-  "final": "https://structurae.net/en/persons/charles-girault",
-  "title": "",
-  "about": false,
+  "url": "https://dominikgehl.com/architects/charles-girault",
+  "status": 200,
+  "final": "https://dominikgehl.com/architects/charles-girault",
+  "title": "Charles Girault - Dominik Gehl Photography",
+  "about": true,
   "error": null
  },
  {
@@ -172,20 +172,29 @@
  },
  {
   "architect": "E. Stewart Williams",
-  "url": "https://modernismweek.com/e-stewart-williams/",
-  "status": 404,
-  "final": "https://modernismweek.com/e-stewart-williams/",
-  "title": "",
-  "about": false,
+  "url": "https://visitpalmsprings.com/palm-springs-architect-e-stewart-williams/",
+  "status": 200,
+  "final": "https://visitpalmsprings.com/blog/post/palm-springs-architect-e-stewart-williams/",
+  "title": "E. Stewart Williams: Modernist Architect in Palm Springs",
+  "about": true,
   "error": null
  },
  {
   "architect": "E. Stewart Williams",
-  "url": "https://www.docomomo-us.org/people/e-stewart-williams",
-  "status": 404,
-  "final": "https://www.docomomo-us.org/people/e-stewart-williams",
-  "title": "",
-  "about": false,
+  "url": "https://psmuseum.org/at-home/activity/e-stewart-williams",
+  "status": 200,
+  "final": "https://www.psmuseum.org/at-home/activity/e-stewart-williams",
+  "title": "E. Stewart Williams | Palm Springs Art Museum",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "E. Stewart Williams",
+  "url": "https://www.atomic-ranch.com/modernist-index/e-stewart-williams-desert-modernist/",
+  "status": 200,
+  "final": "https://www.atomic-ranch.com/modernist-index/e-stewart-williams-desert-modernist/",
+  "title": "E. Stewart Williams, Desert Modernist - Atomic Ranch",
+  "about": true,
   "error": null
  },
  {
@@ -235,11 +244,20 @@
  },
  {
   "architect": "Emre Arolat",
-  "url": "https://www.archdaily.com/office/emre-arolat-architecture",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/emre-arolat-architecture",
-  "title": "",
-  "about": false,
+  "url": "https://architectuul.com/architect/emre-arolat",
+  "status": 200,
+  "final": "https://architectuul.com/architect/emre-arolat",
+  "title": "Emre Arolat | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Emre Arolat",
+  "url": "https://www.archdaily.com/tag/emre-arolat",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/emre-arolat",
+  "title": "Emre Arolat | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -262,11 +280,20 @@
  },
  {
   "architect": "Enric Miralles",
-  "url": "https://www.archdaily.com/office/embt",
+  "url": "https://www.archdaily.com/tag/enric-miralles",
   "status": 200,
-  "final": "https://www.archdaily.com/office/embt",
-  "title": "EMBT | ArchDaily",
-  "about": false,
+  "final": "https://www.archdaily.com/tag/enric-miralles",
+  "title": "Enric Miralles | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Enric Miralles",
+  "url": "https://architectuul.com/architect/enric-miralles",
+  "status": 200,
+  "final": "https://architectuul.com/architect/enric-miralles",
+  "title": "Enric Miralles | Architectuul",
+  "about": true,
   "error": null
  },
  {
@@ -469,9 +496,18 @@
  },
  {
   "architect": "Henry N. Cobb",
-  "url": "https://architectuul.com/architect/henry-n-cobb",
+  "url": "https://www.archdaily.com/tag/henry-n-cobb",
   "status": 404,
-  "final": "https://architectuul.com/architect/henry-n-cobb",
+  "final": "https://www.archdaily.com/tag/henry-n-cobb",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Henry N. Cobb",
+  "url": "https://architectuul.com/architect/henry-cobb",
+  "status": 404,
+  "final": "https://architectuul.com/architect/henry-cobb",
   "title": "",
   "about": false,
   "error": null
@@ -514,20 +550,20 @@
  },
  {
   "architect": "J. J. P. Oud",
-  "url": "https://architectuul.com/architect/j-j-p-oud",
-  "status": 404,
-  "final": "https://architectuul.com/architect/j-j-p-oud",
-  "title": "",
-  "about": false,
+  "url": "https://architectuul.com/architect/jacobus-oud",
+  "status": 200,
+  "final": "https://architectuul.com/architect/jacobus-oud",
+  "title": "Jacobus Oud | Architectuul",
+  "about": true,
   "error": null
  },
  {
   "architect": "J. J. P. Oud",
-  "url": "https://www.archdaily.com/tag/jjp-oud",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/jjp-oud",
-  "title": "",
-  "about": false,
+  "url": "https://snl.no/Jacobus_Johannes_Pieter_Oud",
+  "status": 200,
+  "final": "https://snl.no/Jacobus_Johannes_Pieter_Oud",
+  "title": "Jacobus Johannes Pieter Oud – Store norske leksikon",
+  "about": true,
   "error": null
  },
  {
@@ -568,19 +604,28 @@
  },
  {
   "architect": "Juan O'Gorman",
-  "url": "https://architectuul.com/architect/juan-o-gorman",
-  "status": 404,
-  "final": "https://architectuul.com/architect/juan-o-gorman",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Juan O'Gorman",
   "url": "https://www.archdaily.com/tag/juan-ogorman",
   "status": 200,
   "final": "https://www.archdaily.com/tag/juan-ogorman",
   "title": "Juan O'gorman | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Juan O'Gorman",
+  "url": "https://architectuul.com/architect/juan-ogorman",
+  "status": 200,
+  "final": "https://architectuul.com/architect/juan-ogorman",
+  "title": "Juan OGorman | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Juan O'Gorman",
+  "url": "https://www.atomic-ranch.com/modernist-index/juan-ogorman/",
+  "status": 200,
+  "final": "https://www.atomic-ranch.com/modernist-index/juan-ogorman/",
+  "title": "Juan O’Gorman: Through Functionalism and Beyond - Atomic Ranch",
   "about": true,
   "error": null
  },
@@ -685,11 +730,11 @@
  },
  {
   "architect": "Kevin Roche John Dinkeloo and Associates",
-  "url": "https://architectuul.com/architect/kevin-roche-john-dinkeloo-and-associates",
-  "status": 404,
-  "final": "https://architectuul.com/architect/kevin-roche-john-dinkeloo-and-associates",
-  "title": "",
-  "about": false,
+  "url": "https://www.archdaily.com/tag/kevin-roche",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/kevin-roche",
+  "title": "Kevin Roche | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -739,20 +784,29 @@
  },
  {
   "architect": "Lina Bo Bardi",
-  "url": "https://institutobardi.org/",
-  "status": 403,
-  "final": "https://institutobardi.org/",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Lina Bo Bardi",
   "url": "https://www.archdaily.com/tag/lina-bo-bardi",
   "status": 200,
   "final": "https://www.archdaily.com/tag/lina-bo-bardi",
   "title": "Lina Bo Bardi | Tag\n | ArchDaily",
   "about": true,
+  "error": null
+ },
+ {
+  "architect": "Lina Bo Bardi",
+  "url": "https://architectuul.com/architect/lina-bo-bardi",
+  "status": 200,
+  "final": "https://architectuul.com/architect/lina-bo-bardi",
+  "title": "Lina Bo Bardi | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Lina Bo Bardi",
+  "url": "https://www.pritzkerprize.com/lina-bo-bardi",
+  "status": 404,
+  "final": "https://www.pritzkerprize.com/lina-bo-bardi",
+  "title": "",
+  "about": false,
   "error": null
  },
  {
@@ -829,9 +883,9 @@
  },
  {
   "architect": "Nayyar Ali Dada",
-  "url": "https://architectuul.com/architect/nayyar-ali-dada",
+  "url": "https://www.archdaily.com/tag/nayyar-ali-dada",
   "status": 404,
-  "final": "https://architectuul.com/architect/nayyar-ali-dada",
+  "final": "https://www.archdaily.com/tag/nayyar-ali-dada",
   "title": "",
   "about": false,
   "error": null
