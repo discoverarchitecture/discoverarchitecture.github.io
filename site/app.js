@@ -860,7 +860,7 @@
     if (!k) { el.hidden = true; return; }
     const ln = (window.BOOK_LINES || {})[k.id];
     el.hidden = false;
-    el.style.setProperty('--fbg', ln.bg || '#E7DFCF');
+    if (ln.bg) el.style.setProperty('--fbg', ln.bg); else el.style.removeProperty('--fbg');
     el.classList.toggle('dark', !!ln.dark);
     const arrow = (d, label, path) => `<button type="button" data-feat="${d}" aria-label="${label}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="${path}"/></svg></button>`;
     el.innerHTML =
@@ -873,6 +873,8 @@
       `<div class="also"><span class="k">Also on the table today</span><div class="also-row">` +
       five.map((x, j) => j === i ? '' : `<button type="button" data-pick="${j}" aria-label="${esc(x.title)}, ${esc(x.by)}">${coverOnly(x)}<b>${esc(x.title)}</b></button>`).join('') +
       `</div></div></div>`;
+    const cov = el.querySelector('.feat-main .cv img'); // at night the panel is the day's cover, blurred behind dark glass
+    if (cov) el.style.setProperty('--cover', `url("${cov.currentSrc || cov.src}")`); else el.style.removeProperty('--cover');
   }
   function drawCats() {
     table.lists = CATEGORIES.map(c => {
