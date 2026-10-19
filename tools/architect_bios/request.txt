@@ -1,2 +1,1 @@
-python -u tools/check_overview_links.py --files bios_03.json
-# third check, new candidates for 5 architects
+python -u tools/fetch_architect_sources.py --ranks 71-100 --buildings batch_04 --qids "Konstantin Melnikov=Konstantin Melnikov,Morphosis=Morphosis,Nikken Sekkei=Nikken Sekkei,3XN=3XN,RCR Arquitectes=RCR Arquitectes,Snøhetta=Snøhetta,Denton Corker Marshall=Denton Corker Marshall"
