@@ -19,11 +19,11 @@
  },
  {
   "architect": "Rafael Moneo",
-  "url": "https://rafaelmoneo.com/en/projects/",
-  "status": 404,
-  "final": "https://rafaelmoneo.com/en/projects/",
-  "title": "",
-  "about": false,
+  "url": "https://rafaelmoneo.com/",
+  "status": 200,
+  "final": "https://rafaelmoneo.com/en/home/",
+  "title": "Rafael Moneo Arquitecto – Arquitecto",
+  "about": true,
   "error": null
  },
  {
@@ -162,6 +162,15 @@
   "error": null
  },
  {
+  "architect": "Pier Luigi Nervi",
+  "url": "https://www.archdaily.com/tag/pier-luigi-nervi",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/pier-luigi-nervi",
+  "title": "P Ier Luigi Nervi | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
   "architect": "Auguste Perret",
   "url": "https://en.wikipedia.org/wiki/Auguste_Perret",
   "status": 200,
@@ -189,6 +198,15 @@
   "error": null
  },
  {
+  "architect": "Auguste Perret",
+  "url": "https://www.archdaily.com/tag/auguste-perret",
+  "status": 404,
+  "final": "https://www.archdaily.com/tag/auguste-perret",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
   "architect": "Carlos Raúl Villanueva",
   "url": "https://en.wikipedia.org/wiki/Carlos_Raúl_Villanueva",
   "status": 200,
@@ -208,18 +226,18 @@
  },
  {
   "architect": "Carlos Raúl Villanueva",
-  "url": "https://www.fundacionvillanueva.org/",
-  "status": 0,
-  "final": "https://www.fundacionvillanueva.org/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [Errno -3] Temporary failure in name resolution>"
- },
- {
-  "architect": "Carlos Raúl Villanueva",
   "url": "https://www.archdaily.com/office/carlos-raul-villanueva",
   "status": 404,
   "final": "https://www.archdaily.com/office/carlos-raul-villanueva",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Carlos Raúl Villanueva",
+  "url": "https://www.archdaily.com/tag/carlos-raul-villanueva",
+  "status": 404,
+  "final": "https://www.archdaily.com/tag/carlos-raul-villanueva",
   "title": "",
   "about": false,
   "error": null
@@ -271,19 +289,19 @@
  },
  {
   "architect": "Paul Rudolph",
-  "url": "https://www.loc.gov/collections/paul-rudolph-archive/",
-  "status": 403,
-  "final": "https://www.loc.gov/collections/paul-rudolph-archive/",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Paul Rudolph",
   "url": "https://www.archdaily.com/office/paul-rudolph",
   "status": 200,
   "final": "https://www.archdaily.com/office/paul-rudolph",
   "title": "Paul Rudolph | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Paul Rudolph",
+  "url": "https://www.archdaily.com/tag/paul-rudolph",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/paul-rudolph",
+  "title": "Paul Rudolph | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
@@ -361,11 +379,11 @@
  },
  {
   "architect": "Steven Holl",
-  "url": "https://www.stevenholl.com/projects/",
-  "status": 404,
-  "final": "https://www.stevenholl.com/projects/",
-  "title": "",
-  "about": false,
+  "url": "https://www.stevenholl.com/",
+  "status": 200,
+  "final": "https://stevenholl.com/",
+  "title": "STEVEN HOLL ARCHITECTS",
+  "about": true,
   "error": null
  },
  {
@@ -415,19 +433,19 @@
  },
  {
   "architect": "Denys Lasdun",
-  "url": "https://www.architecture.com/explore-architecture/denys-lasdun",
-  "status": 404,
-  "final": "https://www.architecture.com/explore-architecture/denys-lasdun",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Denys Lasdun",
   "url": "https://www.archdaily.com/office/denys-lasdun",
   "status": 200,
   "final": "https://www.archdaily.com/office/denys-lasdun",
   "title": "Denys Lasdun | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Denys Lasdun",
+  "url": "https://www.archdaily.com/tag/denys-lasdun",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/denys-lasdun",
+  "title": "Denys Lasdun | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
@@ -442,11 +460,11 @@
  },
  {
   "architect": "Diébédo Francis Kéré",
-  "url": "https://www.pritzkerprize.com/laureates/2022",
-  "status": 404,
-  "final": "https://www.pritzkerprize.com/laureates/2022",
-  "title": "",
-  "about": false,
+  "url": "https://www.pritzkerprize.com/laureates/diebedo-francis-kere",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/diebedo-francis-kere",
+  "title": "Diébédo Francis Kéré | The Pritzker Architecture Prize",
+  "about": true,
   "error": null
  },
  {
@@ -478,20 +496,20 @@
  },
  {
   "architect": "Eliel Saarinen",
-  "url": "https://center.cranbrook.edu/collections/archives",
+  "url": "https://www.archdaily.com/office/eliel-saarinen",
   "status": 404,
-  "final": "https://center.cranbrook.edu/collections/archives",
+  "final": "https://www.archdaily.com/office/eliel-saarinen",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Eliel Saarinen",
-  "url": "https://www.archdaily.com/office/eliel-saarinen",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/eliel-saarinen",
-  "title": "",
-  "about": false,
+  "url": "https://www.archdaily.com/tag/eliel-saarinen",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/eliel-saarinen",
+  "title": "Eliel Saarinen | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -531,6 +549,15 @@
   "error": null
  },
  {
+  "architect": "Geoffrey Bawa",
+  "url": "https://www.archdaily.com/tag/geoffrey-bawa",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/geoffrey-bawa",
+  "title": "Geoffrey Bawa | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
   "architect": "Harry Seidler",
   "url": "https://en.wikipedia.org/wiki/Harry_Seidler",
   "status": 200,
@@ -564,6 +591,15 @@
   "final": "https://www.archdaily.com/office/harry-seidler",
   "title": "",
   "about": false,
+  "error": null
+ },
+ {
+  "architect": "Harry Seidler",
+  "url": "https://www.archdaily.com/tag/harry-seidler",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/harry-seidler",
+  "title": "Harry Seidler | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -639,6 +675,15 @@
   "error": null
  },
  {
+  "architect": "Mimar Sinan",
+  "url": "https://www.archdaily.com/tag/mimar-sinan",
+  "status": 404,
+  "final": "https://www.archdaily.com/tag/mimar-sinan",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
   "architect": "Ricardo Bofill",
   "url": "https://en.wikipedia.org/wiki/Ricardo_Bofill",
   "status": 200,
@@ -658,11 +703,11 @@
  },
  {
   "architect": "Ricardo Bofill",
-  "url": "https://www.archdaily.com/office/ricardo-bofill-taller-de-arquitectura",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/ricardo-bofill-taller-de-arquitectura",
-  "title": "",
-  "about": false,
+  "url": "https://www.archdaily.com/office/ricardo-bofill",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/ricardo-bofill",
+  "title": "Ricardo Bofill | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -676,11 +721,11 @@
  },
  {
   "architect": "Balkrishna Doshi",
-  "url": "https://www.pritzkerprize.com/laureates/2018",
-  "status": 404,
-  "final": "https://www.pritzkerprize.com/laureates/2018",
-  "title": "",
-  "about": false,
+  "url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+  "title": "Balkrishna Doshi | The Pritzker Architecture Prize",
+  "about": true,
   "error": null
  },
  {
@@ -748,11 +793,11 @@
  },
  {
   "architect": "Christian de Portzamparc",
-  "url": "https://www.christiandeportzamparc.com/en/projects/",
-  "status": 404,
-  "final": "https://www.christiandeportzamparc.com/en/projects/",
-  "title": "",
-  "about": false,
+  "url": "https://www.christiandeportzamparc.com/",
+  "status": 200,
+  "final": "https://www.2portzamparc.com/",
+  "title": "Agence d'architecture et d'urbanisme - 2portzamparc",
+  "about": true,
   "error": null
  },
  {
@@ -802,19 +847,19 @@
  },
  {
   "architect": "Edward Durell Stone",
-  "url": "https://uark.as.atlas-sys.com/repositories/2/resources/1176",
-  "status": 403,
-  "final": "https://uark.as.atlas-sys.com/repositories/2/resources/1176",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Edward Durell Stone",
   "url": "https://www.archdaily.com/office/edward-durell-stone",
   "status": 200,
   "final": "https://www.archdaily.com/office/edward-durell-stone",
   "title": "Edward Durell Stone | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Edward Durell Stone",
+  "url": "https://www.archdaily.com/tag/edward-durell-stone",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/edward-durell-stone",
+  "title": "Edward Durell Stone | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
@@ -856,11 +901,11 @@
  },
  {
   "architect": "gmp Architekten",
-  "url": "https://www.gmp.de/en/projects",
-  "status": 404,
-  "final": "https://www.gmp.de/en/projects",
-  "title": "",
-  "about": false,
+  "url": "https://www.gmp.de/en/",
+  "status": 200,
+  "final": "https://www.gmp.de/en/",
+  "title": "gmp Architekten",
+  "about": true,
   "error": null
  },
  {
@@ -914,6 +959,24 @@
   "status": 200,
   "final": "https://www.archdaily.com/office/john-burgee",
   "title": "John Burgee | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "John Burgee",
+  "url": "https://www.archdaily.com/tag/john-burgee",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/john-burgee",
+  "title": "John Burgee | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "John Burgee",
+  "url": "https://en.wikipedia.org/wiki/Philip_Johnson",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Philip_Johnson",
+  "title": "Philip Johnson - Wikipedia",
   "about": true,
   "error": null
  }

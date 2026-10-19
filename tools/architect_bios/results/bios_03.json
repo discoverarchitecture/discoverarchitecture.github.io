@@ -56,7 +56,7 @@
     "title": "Projects",
     "url": "https://rafaelmoneo.com/",
     "why": "the architect's own project list",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
@@ -339,7 +339,8 @@
     "site": "ArchDaily",
     "title": "Pier Luigi Nervi tag page",
     "url": "https://www.archdaily.com/tag/pier-luigi-nervi",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -416,7 +417,8 @@
     "site": "ArchDaily",
     "title": "Auguste Perret tag page",
     "url": "https://www.archdaily.com/tag/auguste-perret",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -484,7 +486,8 @@
     "site": "ArchDaily",
     "title": "Carlos Raúl Villanueva tag page",
     "url": "https://www.archdaily.com/tag/carlos-raul-villanueva",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -619,7 +622,8 @@
     "site": "ArchDaily",
     "title": "Paul Rudolph tag page",
     "url": "https://www.archdaily.com/tag/paul-rudolph",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -825,7 +829,7 @@
     "title": "Projects",
     "url": "https://www.stevenholl.com/",
     "why": "the practice's own project list",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
@@ -971,7 +975,8 @@
     "site": "ArchDaily",
     "title": "Denys Lasdun tag page",
     "url": "https://www.archdaily.com/tag/denys-lasdun",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1031,7 +1036,7 @@
     "title": "2022 laureate",
     "url": "https://www.pritzkerprize.com/laureates/diebedo-francis-kere",
     "why": "jury citation, biography and photos of works",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    },
    {
     "site": "Kéré Architecture",
@@ -1124,7 +1129,8 @@
     "site": "ArchDaily",
     "title": "Eliel Saarinen tag page",
     "url": "https://www.archdaily.com/tag/eliel-saarinen",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1204,7 +1210,8 @@
     "site": "ArchDaily",
     "title": "Geoffrey Bawa tag page",
     "url": "https://www.archdaily.com/tag/geoffrey-bawa",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1287,7 +1294,8 @@
     "site": "ArchDaily",
     "title": "Harry Seidler tag page",
     "url": "https://www.archdaily.com/tag/harry-seidler",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1452,7 +1460,8 @@
     "site": "ArchDaily",
     "title": "Mimar Sinan tag page",
     "url": "https://www.archdaily.com/tag/mimar-sinan",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1514,7 +1523,7 @@
     "title": "Ricardo Bofill Taller de Arquitectura office page",
     "url": "https://www.archdaily.com/office/ricardo-bofill",
     "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1570,7 +1579,7 @@
     "title": "2018 laureate",
     "url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
     "why": "jury citation, biography and photos of works",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    },
    {
     "site": "Vastushilpa Foundation",
@@ -1713,7 +1722,7 @@
     "title": "Projects",
     "url": "https://www.christiandeportzamparc.com/",
     "why": "the practice's own project list",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
@@ -1845,7 +1854,8 @@
     "site": "ArchDaily",
     "title": "Edward Durell Stone tag page",
     "url": "https://www.archdaily.com/tag/edward-durell-stone",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1958,7 +1968,7 @@
     "title": "Projects",
     "url": "https://www.gmp.de/en/",
     "why": "the practice's own project list",
-    "check_failed": "status 404, name not found on page"
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
@@ -2092,13 +2102,15 @@
     "site": "ArchDaily",
     "title": "John Burgee tag page",
     "url": "https://www.archdaily.com/tag/john-burgee",
-    "why": "all projects about him on ArchDaily"
+    "why": "all projects about him on ArchDaily",
+    "checked": "2026-10-19"
    },
    {
     "site": "Wikipedia",
     "title": "Johnson/Burgee works (Philip Johnson article)",
     "url": "https://en.wikipedia.org/wiki/Philip_Johnson",
-    "why": "the works the two designed together"
+    "why": "the works the two designed together",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
