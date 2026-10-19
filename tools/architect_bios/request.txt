@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 9-40 --qids "Mies van der Rohe=Ludwig Mies van der Rohe,SOM=Skidmore Owings & Merrill,BIG=Bjarke Ingels Group,Henry Hobson Richardson=Henry Hobson Richardson"
+python -u tools/fetch_architect_sources.py --ranks 9-40 --skip OMA --no-architects --buildings batch_02
