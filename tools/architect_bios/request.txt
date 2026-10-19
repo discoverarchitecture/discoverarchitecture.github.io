@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --only "Artur Tarkhanyan" --qids "Artur Tarkhanyan=Arthur Tarkhanyan"
+python -u tools/check_overview_links.py --files bios_05.json
