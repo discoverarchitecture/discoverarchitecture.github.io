@@ -49,29 +49,25 @@
     "site": "Wikipedia",
     "title": "I. M. Pei",
     "url": "https://en.wikipedia.org/wiki/I._M._Pei",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1983 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1983",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Pei Cobb Freed & Partners",
     "title": "Practice",
     "url": "https://www.pcf-p.com/",
-    "why": "the practice he founded, with its project list",
-    "checked": "2026-10-19"
+    "why": "the practice he founded, with its project list"
    },
    {
     "site": "ArchDaily",
     "title": "I. M. Pei office page",
     "url": "https://www.archdaily.com/office/i-m-pei",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -130,22 +126,19 @@
     "site": "Wikipedia",
     "title": "Tadao Ando",
     "url": "https://en.wikipedia.org/wiki/Tadao_Ando",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1995 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1995",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "ArchDaily",
     "title": "Tadao Ando Architect & Associates office page",
     "url": "https://www.archdaily.com/office/tadao-ando-architect-and-associates",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -204,22 +197,19 @@
     "site": "Wikipedia",
     "title": "Santiago Calatrava",
     "url": "https://en.wikipedia.org/wiki/Santiago_Calatrava",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Santiago Calatrava",
     "title": "Projects",
     "url": "https://calatrava.com/projects.html",
-    "why": "the architect's own list of works",
-    "checked": "2026-10-19"
+    "why": "the architect's own list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Santiago Calatrava office page",
     "url": "https://www.archdaily.com/office/santiago-calatrava",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -282,29 +272,25 @@
     "site": "Wikipedia",
     "title": "Arata Isozaki",
     "url": "https://en.wikipedia.org/wiki/Arata_Isozaki",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "2019 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/2019",
-    "why": "jury citation, biography and photos of works",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://www.pritzkerprize.com/laureates/arata-isozaki",
+    "why": "jury citation and biography"
    },
    {
     "site": "Arata Isozaki & Associates",
     "title": "Works",
     "url": "https://www.isozaki.co.jp/",
-    "why": "the office's own list of works",
-    "checked": "2026-10-19"
+    "why": "the office's own list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Arata Isozaki office page",
     "url": "https://www.archdaily.com/office/arata-isozaki",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -360,36 +346,25 @@
     "site": "Wikipedia",
     "title": "Frank Lloyd Wright",
     "url": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Frank Lloyd Wright Foundation",
     "title": "Foundation",
     "url": "https://franklloydwright.org/",
-    "why": "the foundation that runs Taliesin and Taliesin West",
-    "checked": "2026-10-19"
+    "why": "the foundation that runs Taliesin and Taliesin West"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "The 20th-Century Architecture of Frank Lloyd Wright",
     "url": "https://whc.unesco.org/en/list/1496",
-    "why": "the eight listed buildings",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "Frank Lloyd Wright Building Conservancy",
-    "title": "Wright sites",
-    "url": "https://savewright.org/",
-    "why": "preserves and lists his surviving buildings",
-    "check_failed": "status 520, name not found on page"
+    "why": "the eight listed buildings"
    },
    {
     "site": "ArchDaily",
     "title": "Frank Lloyd Wright office page",
     "url": "https://www.archdaily.com/office/frank-lloyd-wright",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -444,22 +419,19 @@
     "site": "Wikipedia",
     "title": "Kengo Kuma",
     "url": "https://en.wikipedia.org/wiki/Kengo_Kuma",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Kengo Kuma & Associates",
     "title": "Projects",
     "url": "https://kkaa.co.jp/en/projects/",
-    "why": "the practice's own project list",
-    "checked": "2026-10-19"
+    "why": "the practice's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "Kengo Kuma & Associates office page",
     "url": "https://www.archdaily.com/office/kengo-kuma-and-associates",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -511,29 +483,25 @@
     "site": "Wikipedia",
     "title": "Jean Nouvel",
     "url": "https://en.wikipedia.org/wiki/Jean_Nouvel",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "2008 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2008",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Ateliers Jean Nouvel",
     "title": "Projects",
-    "url": "https://www.jeannouvel.com/en/projects/",
-    "why": "the practice's own project list",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://www.jeannouvel.com/en/",
+    "why": "the practice's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "Ateliers Jean Nouvel office page",
     "url": "https://www.archdaily.com/office/ateliers-jean-nouvel",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -584,29 +552,25 @@
     "site": "Wikipedia",
     "title": "Kenzō Tange",
     "url": "https://en.wikipedia.org/wiki/Kenzō_Tange",
-    "why": "life, ideas and list of works",
-    "check_failed": "status 0, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1987 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1987",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Tange Associates",
     "title": "Works",
     "url": "https://www.tangeweb.com/",
-    "why": "the office he founded, with its works list",
-    "checked": "2026-10-19"
+    "why": "the office he founded, with its works list"
    },
    {
     "site": "ArchDaily",
     "title": "Kenzo Tange office page",
     "url": "https://www.archdaily.com/office/kenzo-tange",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -657,29 +621,25 @@
     "site": "Wikipedia",
     "title": "Toyo Ito",
     "url": "https://en.wikipedia.org/wiki/Toyo_Ito",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "2013 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2013",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Toyo Ito & Associates",
     "title": "Works",
     "url": "https://www.toyo-ito.co.jp/WEBSITE/",
-    "why": "the office's own list of works",
-    "check_failed": "status 0"
+    "why": "the office's own list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Toyo Ito & Associates office page",
     "url": "https://www.archdaily.com/office/toyo-ito-and-associates",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -735,29 +695,25 @@
     "site": "Wikipedia",
     "title": "Philip Johnson",
     "url": "https://en.wikipedia.org/wiki/Philip_Johnson",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1979 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1979",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "The Glass House",
     "title": "Philip Johnson Glass House",
     "url": "https://theglasshouse.org/",
-    "why": "his house and estate, now a museum",
-    "checked": "2026-10-19"
+    "why": "his house and estate, now a museum"
    },
    {
     "site": "ArchDaily",
     "title": "Philip Johnson office page",
     "url": "https://www.archdaily.com/office/philip-johnson",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -808,29 +764,19 @@
     "site": "Wikipedia",
     "title": "Ludwig Mies van der Rohe",
     "url": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Fundació Mies van der Rohe",
     "title": "Barcelona Pavilion and foundation",
     "url": "https://miesbcn.com/",
-    "why": "the foundation that rebuilt and runs the Barcelona Pavilion",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "MoMA",
-    "title": "Mies van der Rohe Archive",
-    "url": "https://www.moma.org/artists/7166",
-    "why": "the museum that holds his archive",
-    "check_failed": "status 403, name not found on page"
+    "why": "the foundation that rebuilt and runs the Barcelona Pavilion"
    },
    {
     "site": "ArchDaily",
     "title": "Ludwig Mies van der Rohe office page",
     "url": "https://www.archdaily.com/office/ludwig-mies-van-der-rohe",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -885,22 +831,19 @@
     "site": "Wikipedia",
     "title": "Skidmore, Owings & Merrill",
     "url": "https://en.wikipedia.org/wiki/SOM_(architectural_firm)",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "SOM",
     "title": "Projects",
     "url": "https://www.som.com/projects/",
-    "why": "the firm's own project archive",
-    "checked": "2026-10-19"
+    "why": "the firm's own project archive"
    },
    {
     "site": "ArchDaily",
     "title": "SOM office page",
     "url": "https://www.archdaily.com/office/skidmore-owings-and-merrill",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -956,29 +899,25 @@
     "site": "Wikipedia",
     "title": "Álvaro Siza",
     "url": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
-    "why": "life, ideas and list of works",
-    "check_failed": "status 0, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1992 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1992",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Canadian Centre for Architecture",
     "title": "Álvaro Siza archive",
     "url": "https://www.cca.qc.ca/en/archives/408056/alvaro-siza-archive",
-    "why": "his archive, donated in 2014",
-    "checked": "2026-10-19"
+    "why": "his archive, donated in 2014"
    },
    {
     "site": "ArchDaily",
     "title": "Álvaro Siza Vieira office page",
     "url": "https://www.archdaily.com/office/alvaro-siza-vieira",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1033,29 +972,19 @@
     "site": "Wikipedia",
     "title": "Moshe Safdie",
     "url": "https://en.wikipedia.org/wiki/Moshe_Safdie",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Safdie Architects",
     "title": "Projects",
     "url": "https://www.safdiearchitects.com/projects",
-    "why": "the practice's own project list",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "McGill University Library",
-    "title": "Moshe Safdie Archive",
-    "url": "https://www.mcgill.ca/library/branches/cac/safdie",
-    "why": "his drawings and models at the university where he trained",
-    "check_failed": "status 404, name not found on page"
+    "why": "the practice's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "Safdie Architects office page",
     "url": "https://www.archdaily.com/office/safdie-architects",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1106,29 +1035,25 @@
     "site": "Wikipedia",
     "title": "Fumihiko Maki",
     "url": "https://en.wikipedia.org/wiki/Fumihiko_Maki",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1993 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1993",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Maki and Associates",
     "title": "Projects",
     "url": "https://www.maki-and-associates.co.jp/",
-    "why": "the office's own project list",
-    "checked": "2026-10-19"
+    "why": "the office's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "Maki and Associates office page",
     "url": "https://www.archdaily.com/office/maki-and-associates",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1171,22 +1096,25 @@
     "site": "Wikipedia",
     "title": "Kisho Kurokawa",
     "url": "https://en.wikipedia.org/wiki/Kisho_Kurokawa",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "Kisho Kurokawa Architect & Associates",
-    "title": "Works",
-    "url": "https://www.kisho.co.jp/",
-    "why": "the office he founded, with its works list",
-    "check_failed": "status 403, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Kisho Kurokawa office page",
     "url": "https://www.archdaily.com/office/kisho-kurokawa",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Kisho Kurokawa tag page",
+    "url": "https://www.archdaily.com/tag/kisho-kurokawa",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "WikiArquitectura",
+    "title": "Kisho Kurokawa",
+    "url": "https://en.wikiarquitectura.com/architect/kisho-kurokawa/",
+    "why": "buildings with drawings and descriptions"
    }
   ],
   "skip": false
@@ -1242,22 +1170,25 @@
     "site": "Wikipedia",
     "title": "Louis Kahn",
     "url": "https://en.wikipedia.org/wiki/Louis_Kahn",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "University of Pennsylvania",
-    "title": "Louis I. Kahn Collection",
-    "url": "https://www.design.upenn.edu/architectural-archives/collections/louis-i-kahn",
-    "why": "his drawings and papers at the Architectural Archives",
-    "check_failed": "status 404, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Louis Kahn office page",
     "url": "https://www.archdaily.com/office/louis-kahn",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Louis Kahn tag page",
+    "url": "https://www.archdaily.com/tag/louis-kahn",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "WikiArquitectura",
+    "title": "Louis Kahn",
+    "url": "https://en.wikiarquitectura.com/architect/louis-i-kahn/",
+    "why": "buildings with drawings and descriptions"
    }
   ],
   "skip": false
@@ -1308,29 +1239,25 @@
     "site": "Wikipedia",
     "title": "Richard Meier",
     "url": "https://en.wikipedia.org/wiki/Richard_Meier",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1984 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1984",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Richard Meier & Partners",
     "title": "Projects",
     "url": "https://www.richardmeier.com/",
-    "why": "the practice's own project list",
-    "check_failed": "status 0, name not found on page"
+    "why": "the practice's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "Richard Meier & Partners office page",
     "url": "https://www.archdaily.com/office/richard-meier-and-partners",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1385,29 +1312,25 @@
     "site": "Wikipedia",
     "title": "Shigeru Ban",
     "url": "https://en.wikipedia.org/wiki/Shigeru_Ban",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "2014 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2014",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Shigeru Ban Architects",
     "title": "Works",
     "url": "https://shigerubanarchitects.com/works/",
-    "why": "the practice's own list of works",
-    "checked": "2026-10-19"
+    "why": "the practice's own list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Shigeru Ban Architects office page",
     "url": "https://www.archdaily.com/office/shigeru-ban-architects",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1459,29 +1382,31 @@
     "site": "Wikipedia",
     "title": "David Chipperfield",
     "url": "https://en.wikipedia.org/wiki/David_Chipperfield",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "2023 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/2023",
-    "why": "jury citation, biography and photos of works",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://www.pritzkerprize.com/laureates/david-alan-chipperfield",
+    "why": "jury citation and biography"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2023 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/david-chipperfield",
+    "why": "jury citation and biography"
    },
    {
     "site": "David Chipperfield Architects",
     "title": "Projects",
     "url": "https://davidchipperfield.com/projects",
-    "why": "the practice's own project list",
-    "checked": "2026-10-19"
+    "why": "the practice's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "David Chipperfield Architects office page",
     "url": "https://www.archdaily.com/office/david-chipperfield-architects",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1532,22 +1457,25 @@
     "site": "Wikipedia",
     "title": "Eero Saarinen",
     "url": "https://en.wikipedia.org/wiki/Eero_Saarinen",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "Yale University Library",
-    "title": "Eero Saarinen Collection",
-    "url": "https://archives.yale.edu/repositories/12/resources/1006",
-    "why": "his drawings and papers at Yale",
-    "check_failed": "status 202, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Eero Saarinen office page",
     "url": "https://www.archdaily.com/office/eero-saarinen",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Eero Saarinen tag page",
+    "url": "https://www.archdaily.com/tag/eero-saarinen",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "WikiArquitectura",
+    "title": "Eero Saarinen",
+    "url": "https://en.wikiarquitectura.com/architect/eero-saarinen/",
+    "why": "buildings with drawings and descriptions"
    }
   ],
   "skip": false
@@ -1562,7 +1490,8 @@
   "facts": [
    {
     "claim": "14 May 1905 – 26 June 1986; Japanese architect; key figure of modernism in post-war Japan",
-    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa"
+    "source": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+    "note": "Britannica gives 27 June 1986 for his death; only the year is used"
    },
    {
     "claim": "Worked in the studios of Le Corbusier and Antonin Raymond; own firm 1935; tension between Japanese traditional design and European modernism",
@@ -1602,15 +1531,25 @@
     "site": "Wikipedia",
     "title": "Kunio Maekawa",
     "url": "https://en.wikipedia.org/wiki/Kunio_Maekawa",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
+   },
+   {
+    "site": "Archipel",
+    "title": "Kunio Maekawa",
+    "url": "https://archipelvzw.be/en/archief/architecten/kunio-maekawa",
+    "why": "short profile with his main works"
    },
    {
     "site": "ArchDaily",
-    "title": "Kunio Maekawa office page",
-    "url": "https://www.archdaily.com/office/kunio-maekawa",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Kunio Maekawa tag page",
+    "url": "https://www.archdaily.com/tag/kunio-maekawa",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "WikiArquitectura",
+    "title": "Kunio Maekawa",
+    "url": "https://en.wikiarquitectura.com/architect/kunio-maekawa/",
+    "why": "buildings with drawings and descriptions"
    }
   ],
   "skip": false
@@ -1662,22 +1601,19 @@
     "site": "Wikipedia",
     "title": "Marcel Breuer",
     "url": "https://en.wikipedia.org/wiki/Marcel_Breuer",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Marcel Breuer Digital Archive",
     "title": "Syracuse University",
     "url": "https://breuer.syr.edu/",
-    "why": "drawings, photos and papers for his projects",
-    "checked": "2026-10-19"
+    "why": "drawings, photos and papers for his projects"
    },
    {
     "site": "ArchDaily",
     "title": "Marcel Breuer office page",
     "url": "https://www.archdaily.com/office/marcel-breuer",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1732,22 +1668,19 @@
     "site": "Wikipedia",
     "title": "Mario Botta",
     "url": "https://en.wikipedia.org/wiki/Mario_Botta",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Mario Botta Architetti",
     "title": "Projects",
     "url": "https://www.botta.ch/",
-    "why": "the architect's own list of works",
-    "checked": "2026-10-19"
+    "why": "the architect's own list of works"
    },
    {
     "site": "ArchDaily",
     "title": "Mario Botta office page",
     "url": "https://www.archdaily.com/office/mario-botta",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1794,29 +1727,25 @@
     "site": "Wikipedia",
     "title": "Richard Rogers",
     "url": "https://en.wikipedia.org/wiki/Richard_Rogers",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "2007 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2007",
-    "why": "jury citation, biography and photos of works",
-    "checked": "2026-10-19"
+    "why": "jury citation, biography and photos of works"
    },
    {
     "site": "Rogers Stirk Harbour + Partners",
     "title": "Projects",
     "url": "https://www.rsh-p.com/projects/",
-    "why": "the practice he founded, with its project list",
-    "check_failed": "status 0, name not found on page"
+    "why": "the practice he founded, with its project list"
    },
    {
     "site": "ArchDaily",
     "title": "Rogers Stirk Harbour + Partners office page",
     "url": "https://www.archdaily.com/office/rogers-stirk-harbour-plus-partners",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1863,29 +1792,25 @@
     "site": "Wikipedia",
     "title": "Antoni Gaudí",
     "url": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
-    "why": "life, ideas and list of works",
-    "check_failed": "status 0, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "Works of Antoni Gaudí",
     "url": "https://whc.unesco.org/en/list/320",
-    "why": "the seven listed works",
-    "checked": "2026-10-19"
+    "why": "the seven listed works"
    },
    {
     "site": "Sagrada Família",
     "title": "Official site",
     "url": "https://sagradafamilia.org/en/",
-    "why": "history and construction of his largest work",
-    "checked": "2026-10-19"
+    "why": "history and construction of his largest work"
    },
    {
     "site": "ArchDaily",
     "title": "Antoni Gaudí office page",
     "url": "https://www.archdaily.com/office/antoni-gaudi",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -1937,22 +1862,19 @@
     "site": "Wikipedia",
     "title": "Bjarke Ingels Group",
     "url": "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "BIG",
     "title": "Projects",
-    "url": "https://big.dk/projects",
-    "why": "the practice's own project list",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://big.dk/",
+    "why": "the practice's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "BIG office page",
     "url": "https://www.archdaily.com/office/big-bjarke-ingels-group",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -2004,29 +1926,19 @@
     "site": "Wikipedia",
     "title": "Charles Correa",
     "url": "https://en.wikipedia.org/wiki/Charles_Correa",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Charles Correa Foundation",
     "title": "Foundation",
     "url": "https://charlescorreafoundation.org/",
-    "why": "his foundation and archive in Goa",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "RIBA",
-    "title": "Charles Correa: India's Greatest Architect?",
-    "url": "https://www.architecture.com/whats-on/charles-correa",
-    "why": "RIBA's 2013 retrospective of his work",
-    "check_failed": "status 404, name not found on page"
+    "why": "his foundation and archive in Goa"
    },
    {
     "site": "ArchDaily",
     "title": "Charles Correa office page",
     "url": "https://www.archdaily.com/office/charles-correa",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -2073,22 +1985,19 @@
     "site": "Wikipedia",
     "title": "Daniel Libeskind",
     "url": "https://en.wikipedia.org/wiki/Daniel_Libeskind",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Studio Libeskind",
     "title": "Work",
     "url": "https://libeskind.com/work/",
-    "why": "the studio's own project list",
-    "checked": "2026-10-19"
+    "why": "the studio's own project list"
    },
    {
     "site": "ArchDaily",
     "title": "Studio Libeskind office page",
     "url": "https://www.archdaily.com/office/studio-daniel-libeskind",
-    "why": "projects with plans and photos",
-    "checked": "2026-10-19"
+    "why": "projects with plans and photos"
    }
   ],
   "skip": false
@@ -2144,22 +2053,25 @@
     "site": "Wikipedia",
     "title": "Gordon Bunshaft",
     "url": "https://en.wikipedia.org/wiki/Gordon_Bunshaft",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "Pritzker Prize",
     "title": "1988 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1988-bunshaft",
-    "why": "jury citation and biography",
-    "checked": "2026-10-19"
+    "why": "jury citation and biography"
    },
    {
-    "site": "SOM",
-    "title": "Projects",
-    "url": "https://www.som.com/projects/",
-    "why": "the firm where he designed all his major buildings",
-    "check_failed": "status 200, name not found on page"
+    "site": "ArchDaily",
+    "title": "Gordon Bunshaft tag page",
+    "url": "https://www.archdaily.com/tag/gordon-bunshaft",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "WikiArquitectura",
+    "title": "Gordon Bunshaft",
+    "url": "https://en.wikiarquitectura.com/architect/gordon-bunshaft/",
+    "why": "buildings with drawings and descriptions"
    }
   ],
   "skip": false
@@ -2210,22 +2122,19 @@
     "site": "Wikipedia",
     "title": "Henry Hobson Richardson",
     "url": "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson",
-    "why": "life, ideas and list of works",
-    "checked": "2026-10-19"
-   },
-   {
-    "site": "Harvard Houghton Library",
-    "title": "H. H. Richardson architectural drawings",
-    "url": "https://hollisarchives.lib.harvard.edu/repositories/24/resources/1239",
-    "why": "his drawings archive",
-    "check_failed": "status 403, name not found on page"
+    "why": "life, ideas and list of works"
    },
    {
     "site": "ArchDaily",
-    "title": "Henry Hobson Richardson office page",
-    "url": "https://www.archdaily.com/office/henry-hobson-richardson",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "H. H. Richardson tag page",
+    "url": "https://www.archdaily.com/tag/henry-hobson-richardson",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "WikiArquitectura",
+    "title": "H. H. Richardson",
+    "url": "https://en.wikiarquitectura.com/architect/henry-hobson-richardson/",
+    "why": "buildings with drawings and descriptions"
    }
   ],
   "skip": false

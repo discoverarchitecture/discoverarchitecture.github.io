@@ -10,7 +10,7 @@ page title. A link that loads (200) and whose title or page mentions the archite
 updated in place and a summary goes to tools/architect_bios/links_report.json.
 Needs the open internet: runs on GitHub Actions (architect-bios.yml).
 """
-import argparse, datetime, html, json, re, time, unicodedata, urllib.request
+import argparse, datetime, html, json, re, time, unicodedata, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -24,7 +24,10 @@ def fold(s):
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'en'})
+    # accented letters in the path (Kenzō, Gaudí) must be percent-encoded for urllib
+    url = urllib.parse.quote(url, safe=':/?&=#%+,;@!~*()\'')
+    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'en',
+                                               'Accept': 'text/html,application/xhtml+xml,*/*;q=0.8'})
     try:
         with urllib.request.urlopen(req, timeout=40) as r:
             body = r.read(800_000).decode('utf-8', 'ignore')
@@ -32,7 +35,7 @@ def fetch(url):
     except urllib.error.HTTPError as err:
         return err.code, url, ''
     except Exception as err:
-        return 0, url, str(err)
+        return 0, url, 'ERROR ' + str(err)[:200]
 
 
 def keys(name):
@@ -65,7 +68,8 @@ def main():
                 else:
                     link['check_failed'] = f'status {status}' + ('' if about else ', name not found on page')
                 report.append({'architect': a['name'], 'url': link['url'], 'status': status, 'final': final,
-                               'title': title[:200], 'about': about})
+                               'title': title[:200], 'about': about,
+                               'error': body[:200] if body.startswith('ERROR') else None})
                 print(status, 'ok ' if status == 200 and about else 'BAD', a['name'], '|', link['url'], '|', title[:80])
                 time.sleep(1)
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + '\n')
