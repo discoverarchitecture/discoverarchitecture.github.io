@@ -1,0 +1,433 @@
+[
+ {
+  "id": "baker-house-bacchus-marsh",
+  "name": "Baker House",
+  "by": "Robin Boyd",
+  "city": "Bacchus Marsh",
+  "cc": "AU",
+  "year": "1966",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "Modernist International house in remnant bushland, heritage-listed for staying almost untouched since 1966.",
+  "status": "photo",
+  "commons_category": "Category:Baker House, Bacchus Marsh",
+  "photos": [
+   {
+    "file": "File:Baker House - Exterior.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baker House - Courtyard.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baker House - Driveway.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baker_House_(Bacchus_Marsh)"
+  ],
+  "note": "Wikipedia: designed by Robin Boyd, built 1966, Victorian Heritage Register 2007. Photos chosen from file names and category; not yet seen.",
+  "coords": [
+   -37.65361111,
+   144.50083333
+  ]
+ },
+ {
+  "id": "manning-clark-house",
+  "name": "Manning Clark House",
+  "by": "Robin Boyd",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1952",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Human comfort",
+   "Detail",
+   "Community"
+  ],
+  "features": "Robin Boyd's 1952 house for the historian Manning Clark, now a community centre for history, arts and debate.",
+  "status": "photo",
+  "commons_category": "Category:Manning Clark House",
+  "photos": [
+   {
+    "file": "File:Manning Clark house, Forrest, Australian Capital Territory.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manning Clark home.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manning_Clark_House"
+  ],
+  "note": "Wikipedia: designed by Robin Boyd in 1952 (completion 1952 per infobox). Not yet seen."
+ },
+ {
+  "id": "newburn-flats",
+  "name": "Newburn Flats",
+  "by": "Romberg & Shaw (Frederick Romberg and Mary Turner Shaw)",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1941",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Designed 1939 and finished 1941; among the first European Modernist multi-unit homes in Australia.",
+  "status": "photo",
+  "commons_category": "Category:Newburn Flats",
+  "photos": [
+   {
+    "file": "File:South elevation Newburn.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Newburn Flats rear.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Newburn Flats Melbourne.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newburn_Flats"
+  ],
+  "note": "Wikipedia: designed 1939, completed 1941 (infobox 1941). Not yet seen.",
+  "coords": [
+   -37.842861,
+   144.975866
+  ]
+ },
+ {
+  "id": "kew-house-melbourne",
+  "name": "Kew House",
+  "by": "Sean Godsell",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1997",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "18 m by 9 m glass box inside rusted metal screens, cantilevered 5.5 m over a steep slope.",
+  "status": "photo",
+  "commons_category": "Category:Kew House",
+  "photos": [
+   {
+    "file": "File:Front Kew House.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:North view of kew house.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Kew cantilever.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kew_House"
+  ],
+  "note": "Wikipedia: Godsell's own home, built 1996-97. Not yet seen.",
+  "coords": [
+   -37.80916,
+   145.01453
+  ]
+ },
+ {
+  "id": "hamer-hall-melbourne",
+  "name": "Hamer Hall",
+  "by": "Roy Grounds",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Promenade"
+  ],
+  "features": "2,466-seat concert hall Roy Grounds designed as part of the Arts Centre Melbourne, opened 1982.",
+  "status": "photo",
+  "commons_category": "Category:Hamer Hall",
+  "photos": [
+   {
+    "file": "File:Hamer Hall from Princes Bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Southbank Arts Centre 2010-11-22.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamer_Hall,_Melbourne"
+  ],
+  "note": "Wikipedia: designed by Roy Grounds, opened 1982 as the Melbourne Concert Hall. Not yet seen; hall was refurbished later, so check the photo shows it clearly.",
+  "coords": [
+   -37.82027778,
+   144.96833333
+  ]
+ },
+ {
+  "id": "uts-tower-sydney",
+  "name": "UTS Tower (UTS Building 1)",
+  "by": "Michael Dysart (NSW Government Architect's Office)",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1979",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Landmark 27-floor brutalist tower on Broadway, finished 1979 from a 1968 plan.",
+  "status": "photo",
+  "commons_category": "Category:UTS Tower",
+  "photos": [
+   {
+    "file": "File:UTS Tower-Front view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:UTS Tower Entry-Left side view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:The UTS Tower on Broadway.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UTS_Tower"
+  ],
+  "note": "Wikipedia: completed 1979 from a 1968 plan by Michael Dysart. Not yet seen.",
+  "coords": [
+   -33.8837,
+   151.2007
+  ]
+ },
+ {
+  "id": "council-house-perth",
+  "name": "Council House",
+  "by": "Howlett & Bailey (Jeffrey Howlett and Don Bailey)",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1963",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "13-storey modernist council headquarters whose heritage value has been publicly debated.",
+  "status": "photo",
+  "commons_category": "Category:Council House, Perth",
+  "photos": [
+   {
+    "file": "File:PerthCouncilHouse.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:AUS Perth, Central Business District, Council House 001.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Council_House,_Perth"
+  ],
+  "note": "Wikipedia: designed by Howlett and Bailey, opened 1963. An office-type building; kept because of its modernist heritage debate. Not yet seen.",
+  "coords": [
+   -31.956672,
+   115.860753
+  ]
+ },
+ {
+  "id": "capitol-theatre-melbourne",
+  "name": "The Capitol",
+  "by": "Walter Burley Griffin and Marion Mahony Griffin",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1924",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Picture palace with a geometric ceiling of thousands of coloured lights evoking a crystalline cave.",
+  "status": "photo",
+  "commons_category": "Category:Capitol Theatre, Melbourne",
+  "photos": [
+   {
+    "file": "File:Front Elevation.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:RMIT Capitol Melbourne.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Capitol,_Melbourne"
+  ],
+  "note": "Wikipedia: opened 1924, designed by the Griffins. Facade photos chosen from file names; not yet seen, check the first shows the exterior.",
+  "coords": [
+   -37.81536,
+   144.96636
+  ]
+ },
+ {
+  "id": "sydney-harbour-bridge",
+  "name": "Sydney Harbour Bridge",
+  "by": "Dorman Long (design direction John Bradfield)",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1932",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Steel through-arch bridge for rail, road, bicycles and walkers, designed and built by Dorman Long.",
+  "status": "photo",
+  "commons_category": "Category:Sydney Harbour Bridge",
+  "photos": [
+   {
+    "file": "File:Sídney-Australia25.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sídney-Australia07.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sídney-Australia08.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge"
+  ],
+  "note": "Wikipedia: designed and built by Dorman Long under John Bradfield, opened 1932. Not yet seen.",
+  "coords": [
+   -33.85222222,
+   151.21055556
+  ]
+ },
+ {
+  "id": "wellington-cathedral-of-st-paul",
+  "name": "Wellington Cathedral of St Paul",
+  "by": "Cecil Wood",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1998",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Light & shadow",
+   "Structure as expression"
+  ],
+  "features": "Designed in the 1930s, built 1954 to 1998 in reinforced concrete after the 1931 Napier earthquake.",
+  "status": "photo",
+  "commons_category": "Category:Wellington Cathedral of St Paul",
+  "photos": [
+   {
+    "file": "File:DSCN5375 Wellington Cathedral of St Paul.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wellington, Cathedral of Saint Paul, 2016-01-25.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wellington_Cathedral_of_St_Paul"
+  ],
+  "note": "Wikipedia: designed by Cecil Wood in the 1930s; construction began 1954, completed 1998. Not yet seen.",
+  "coords": [
+   -41.2763,
+   174.7774
+  ]
+ }
+]
