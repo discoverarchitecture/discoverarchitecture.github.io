@@ -113,13 +113,6 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "SANAA",
-    "title": "Works",
-    "url": "https://www.sanaa.co.jp/",
-    "why": "the firm's own site and works list",
-    "check_failed": "status 0"
-   },
-   {
     "site": "ArchDaily",
     "title": "SANAA office page",
     "url": "https://www.archdaily.com/office/sanaa",
@@ -330,13 +323,6 @@
    },
    {
     "site": "ArchDaily",
-    "title": "Pier Luigi Nervi office page",
-    "url": "https://www.archdaily.com/office/pier-luigi-nervi",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
     "title": "Pier Luigi Nervi tag page",
     "url": "https://www.archdaily.com/tag/pier-luigi-nervi",
     "why": "all projects about him on ArchDaily",
@@ -407,18 +393,10 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "ArchDaily",
-    "title": "Auguste Perret office page",
-    "url": "https://www.archdaily.com/office/auguste-perret",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Auguste Perret tag page",
-    "url": "https://www.archdaily.com/tag/auguste-perret",
-    "why": "all projects about him on ArchDaily",
-    "check_failed": "status 404, name not found on page"
+    "site": "Metalocus",
+    "title": "Auguste Perret",
+    "url": "https://www.metalocus.es/en/author/perret-0",
+    "why": "articles on his buildings"
    }
   ],
   "skip": false
@@ -474,20 +452,6 @@
     "url": "https://whc.unesco.org/en/list/986",
     "why": "his listed university campus",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Carlos Raúl Villanueva office page",
-    "url": "https://www.archdaily.com/office/carlos-raul-villanueva",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Carlos Raúl Villanueva tag page",
-    "url": "https://www.archdaily.com/tag/carlos-raul-villanueva",
-    "why": "all projects about him on ArchDaily",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -902,11 +866,10 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Mackintosh Architecture",
-    "title": "University of Glasgow",
-    "url": "https://www.mackintosh-architecture.gla.ac.uk/",
-    "why": "the full catalogue of his architectural work",
-    "check_failed": "status 0, name not found on page"
+    "site": "Glasgow Mackintosh",
+    "title": "Mackintosh buildings",
+    "url": "https://www.glasgowmackintosh.com/",
+    "why": "visitor guide to his buildings in Glasgow"
    }
   ],
   "skip": false
@@ -1120,13 +1083,6 @@
    },
    {
     "site": "ArchDaily",
-    "title": "Eliel Saarinen office page",
-    "url": "https://www.archdaily.com/office/eliel-saarinen",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
     "title": "Eliel Saarinen tag page",
     "url": "https://www.archdaily.com/tag/eliel-saarinen",
     "why": "all projects about him on ArchDaily",
@@ -1201,13 +1157,6 @@
    },
    {
     "site": "ArchDaily",
-    "title": "Geoffrey Bawa office page",
-    "url": "https://www.archdaily.com/office/geoffrey-bawa",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
     "title": "Geoffrey Bawa tag page",
     "url": "https://www.archdaily.com/tag/geoffrey-bawa",
     "why": "all projects about him on ArchDaily",
@@ -1270,25 +1219,11 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Harry Seidler & Associates",
-    "title": "Projects",
-    "url": "https://www.seidler.net.au/",
-    "why": "the practice he founded, with its project list",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "Sydney Living Museums",
     "title": "Rose Seidler House",
     "url": "https://sydneylivingmuseums.com.au/rose-seidler-house",
     "why": "the museum in his first house",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Harry Seidler office page",
-    "url": "https://www.archdaily.com/office/harry-seidler",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -1360,13 +1295,6 @@
     "url": "https://www.pritzkerprize.com/laureates/2003",
     "why": "jury citation, biography and photos of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Utzon Center",
-    "title": "Jørn Utzon",
-    "url": "https://utzon.dk/",
-    "why": "the centre in Aalborg devoted to his work",
-    "check_failed": "status 0"
    },
    {
     "site": "ArchDaily",
@@ -1446,22 +1374,7 @@
     "site": "Archnet",
     "title": "Sinan",
     "url": "https://www.archnet.org/authorities/57",
-    "why": "the Aga Khan Documentation Center's list of his buildings",
-    "check_failed": "status 429, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Mimar Sinan office page",
-    "url": "https://www.archdaily.com/office/mimar-sinan",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Mimar Sinan tag page",
-    "url": "https://www.archdaily.com/tag/mimar-sinan",
-    "why": "all projects about him on ArchDaily",
-    "check_failed": "status 404, name not found on page"
+    "why": "the Aga Khan Documentation Center's list of his buildings"
    }
   ],
   "skip": false
@@ -1512,18 +1425,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Ricardo Bofill Taller de Arquitectura",
-    "title": "Projects",
-    "url": "https://ricardobofill.com/projects/",
-    "why": "the practice's own project list",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Ricardo Bofill Taller de Arquitectura office page",
     "url": "https://www.archdaily.com/office/ricardo-bofill",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Ricardo Bofill Taller de Arquitectura",
+    "title": "Projects",
+    "url": "https://ricardobofill.com/",
+    "why": "the practice's own site"
    }
   ],
   "skip": false
@@ -1910,18 +1822,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Princeton University Library",
-    "title": "Félix Candela Architectural Records and Papers",
-    "url": "https://findingaids.princeton.edu/catalog/C1477",
-    "why": "his drawings and papers",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Félix Candela office page",
     "url": "https://www.archdaily.com/office/felix-candela",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Princeton University Library",
+    "title": "Félix Candela Papers",
+    "url": "https://findingaids.princeton.edu/catalog/C1455",
+    "why": "his drawings, photographs and papers"
    }
   ],
   "skip": false
@@ -2024,13 +1935,6 @@
     "url": "https://en.wikipedia.org/wiki/Hans_Scharoun",
     "why": "life, ideas and list of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Akademie der Künste",
-    "title": "Hans Scharoun archive",
-    "url": "https://archiv.adk.de/bigobjekt/5843",
-    "why": "his archive at the Berlin Academy of Arts",
-    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
