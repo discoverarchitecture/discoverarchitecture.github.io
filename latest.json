@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-18T20:33:08+00:00",
+ "fetched_at": "2026-10-19T12:57:59+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 240,
+ "visits_30d": 277,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 86,
+     "count": 95,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,6 +31,14 @@
      "max": 6
     },
     {
+     "count": 4,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
      "count": 3,
      "path_id": 112334616,
      "path": "/buildings/malaysian-houses-of-parliament",
@@ -48,6 +56,14 @@
     },
     {
      "count": 2,
+     "path_id": 112746486,
+     "path": "/buildings/house-in-white",
+     "event": false,
+     "title": "House in White \u2014 Kazuo Shinohara, 1966: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112610074,
      "path": "/buildings/garden-and-house",
      "event": false,
@@ -60,6 +76,14 @@
      "path": "/buildings/fredensborg-houses",
      "event": false,
      "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112365124,
+     "path": "/buildings/taipei-fine-arts-museum",
+     "event": false,
+     "title": "Taipei Fine Arts Museum \u2014 Kao Er-pan, 1983",
      "max": 1
     },
     {
@@ -104,10 +128,10 @@
     },
     {
      "count": 2,
-     "path_id": 112160373,
-     "path": "/buildings",
+     "path_id": 112168513,
+     "path": "/buildings/villa-schreiner",
      "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
     },
     {
@@ -124,6 +148,190 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112963249,
+     "path": "/buildings/shoji-ueda-museum-of-photography",
+     "event": false,
+     "title": "Shoji Ueda Museum of Photography \u2014 Shin Takamatsu, 1995",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112951949,
+     "path": "/buildings/edificio-avianca",
+     "event": false,
+     "title": "Avianca Building, 1969: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112947619,
+     "path": "/buildings/bank-of-georgia-headquarters",
+     "event": false,
+     "title": "Bank of Georgia headquarters \u2014 George Chakhava, 1975: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112936738,
+     "path": "/buildings/coliseu-do-porto",
+     "event": false,
+     "title": "Coliseu do Porto \u2014 Cassiano Branco, 1941: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112934671,
+     "path": "building/nebotinik-ljubljana",
+     "event": true,
+     "title": "Neboti\u010dnik",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112934647,
+     "path": "/buildings/nebotinik-ljubljana",
+     "event": false,
+     "title": "Neboti\u010dnik \u2014 Vladimir \u0160ubic, 1933: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112926237,
+     "path": "/buildings/cite-de-la-musique",
+     "event": false,
+     "title": "Cit\u00e9 de la musique \u2014 Christian de Portzamparc, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112924485,
+     "path": "/buildings/museum-of-sydney",
+     "event": false,
+     "title": "Museum of Sydney \u2014 Denton Corker Marshall, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112923199,
+     "path": "/buildings/casa-rotonda-stabio",
+     "event": false,
+     "title": "Casa Rotonda \u2014 Mario Botta, 1982: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112915299,
+     "path": "/buildings/iate-tenis-clube-pampulha",
+     "event": false,
+     "title": "Iate T\u00eanis Clube, Pampulha \u2014 Oscar Niemeyer, 1942: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112888980,
+     "path": "/buildings/olympic-sculpture-park",
+     "event": false,
+     "title": "Olympic Sculpture Park \u2014 Weiss/Manfredi, 2007: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112887920,
+     "path": "/buildings/torre-latinoamericana",
+     "event": false,
+     "title": "Torre Latinoamericana \u2014 Augusto H. \u00c1lvarez, 1956: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112884296,
+     "path": "/buildings/house-n",
+     "event": false,
+     "title": "House N \u2014 Sou Fujimoto, 2008: photos, plans & sections",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112878037,
+     "path": "/buildings/pointe-a-calliere-museum",
+     "event": false,
+     "title": "Pointe-\u00e0-Calli\u00e8re Museum \u2014 Dan Hanganu, 1992: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112867488,
+     "path": "/buildings/rabindra-bhavan-delhi",
+     "event": false,
+     "title": "Rabindra Bhavan \u2014 Habib Rahman, 1961: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112856475,
+     "path": "/buildings/aula-magna-central-university-of-venezuela",
+     "event": false,
+     "title": "Aula Magna, Central University of Venezuela, 1953: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112843530,
+     "path": "/buildings/villa-bloemenwerf",
+     "event": false,
+     "title": "Villa Bloemenwerf \u2014 Henry van de Velde, 1895: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112842413,
+     "path": "/buildings/st-anna-duren",
+     "event": false,
+     "title": "St. Anna, D\u00fcren \u2014 Rudolf Schwarz, 1956: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112841219,
+     "path": "/buildings/robson-square",
+     "event": false,
+     "title": "Robson Square \u2014 Arthur Erickson, 1983: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112831078,
+     "path": "/buildings/hospital-naval-buenos-aires",
+     "event": false,
+     "title": "Hospital Naval Pedro Mallo \u2014 Clorindo Testa, 1981: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112810953,
+     "path": "/buildings/katsura-imperial-villa",
+     "event": false,
+     "title": "Katsura Imperial Villa, 17th c.: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112810732,
+     "path": "/buildings/supreme-court-of-canada-building",
+     "event": false,
+     "title": "Supreme Court of Canada Building \u2014 Ernest Cormier, 1941",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112809924,
+     "path": "/buildings/palais-de-tokyo",
+     "event": false,
+     "title": "Palais de Tokyo, 1937: photos",
      "max": 1
     },
     {
@@ -236,14 +444,6 @@
      "path": "building/house-in-white",
      "event": true,
      "title": "House in White",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112746486,
-     "path": "/buildings/house-in-white",
-     "event": false,
-     "title": "House in White \u2014 Kazuo Shinohara, 1966: photos",
      "max": 1
     },
     {
@@ -605,209 +805,9 @@
      "event": false,
      "title": "Aiwan-e-Sadr (Presidential Palace), 1981: photos",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112446310,
-     "path": "/buildings/philharmonie-de-paris",
-     "event": false,
-     "title": "Philharmonie de Paris \u2014 Ateliers Jean Nouvel, 2015",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112444305,
-     "path": "/buildings/wiener-stadthalle",
-     "event": false,
-     "title": "Wiener Stadthalle \u2014 Roland Rainer, 1958: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112439490,
-     "path": "/buildings/avicenna-mausoleum",
-     "event": false,
-     "title": "Avicenna Mausoleum \u2014 Houshang Seyhoun, 1954: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112433001,
-     "path": "/buildings/ufa-kristallpalast",
-     "event": false,
-     "title": "Ufa-Kristallpalast \u2014 Coop Himmelb(l)au, 1998: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112422733,
-     "path": "/buildings/le-corbusier-gymnasium",
-     "event": false,
-     "title": "Le Corbusier Gymnasium \u2014 Le Corbusier, 1980: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112408338,
-     "path": "/architects/oscar-niemeyer",
-     "event": false,
-     "title": "Oscar Niemeyer buildings: photos, plans & key works",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112407618,
-     "path": "/buildings/sainsbury-centre-for-visual-arts",
-     "event": false,
-     "title": "Sainsbury Centre for Visual Arts \u2014 Norman Foster, 1978",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112407614,
-     "path": "/buildings/carre-d-art",
-     "event": false,
-     "title": "Carr\u00e9 d'Art \u2014 Foster + Partners, 1993: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112407594,
-     "path": "/architects/norman-foster",
-     "event": false,
-     "title": "Norman Foster buildings: photos, plans & key works",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112386560,
-     "path": "/buildings/gartenstadt-falkenberg",
-     "event": false,
-     "title": "Gartenstadt Falkenberg \u2014 Bruno Taut, 1916: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112376221,
-     "path": "/buildings/buseoksa-muryangsujeon",
-     "event": false,
-     "title": "Muryangsujeon, Buseoksa \u2014 Goryeo builders, 1376: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112373862,
-     "path": "/buildings/kala-academy",
-     "event": false,
-     "title": "Kala Academy \u2014 Charles Correa, 1983: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112365124,
-     "path": "/buildings/taipei-fine-arts-museum",
-     "event": false,
-     "title": "Taipei Fine Arts Museum \u2014 Kao Er-pan, 1983",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112344003,
-     "path": "building/queen-alia-international-airport",
-     "event": true,
-     "title": "Queen Alia International Airport",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112343935,
-     "path": "/buildings/queen-alia-international-airport",
-     "event": false,
-     "title": "Queen Alia International Airport \u2014 Foster + Partners, 2013",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112337980,
-     "path": "/buildings/sansad-bhavan-old-parliament-house",
-     "event": false,
-     "title": "Sansad Bhavan (Old Parliament House), 1927: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112334094,
-     "path": "/buildings/lyon-museum-of-contemporary-art",
-     "event": false,
-     "title": "Lyon Museum of Contemporary Art, 1995: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112331520,
-     "path": "building/usine-claude-et-duval",
-     "event": true,
-     "title": "Usine Claude et Duval",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112321317,
-     "path": "/buildings/sapporo-dome",
-     "event": false,
-     "title": "Sapporo Dome \u2014 Hiroshi Hara, 2001: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112318722,
-     "path": "/buildings/bedzed",
-     "event": false,
-     "title": "BedZED \u2014 Bill Dunster Architects, 2002: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112311579,
-     "path": "/buildings/central-library-ucv",
-     "event": false,
-     "title": "Central Library, Central University of Venezuela, 1953",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112290729,
-     "path": "building/pennzoil-place",
-     "event": true,
-     "title": "Pennzoil Place",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112288700,
-     "path": "/buildings/gosstrakh-apartments",
-     "event": false,
-     "title": "Gosstrakh Apartments \u2014 Moisei Ginzburg, 1927: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112288142,
-     "path": "building/national-assembly-of-bangladesh",
-     "event": true,
-     "title": "National Assembly of Bangladesh",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112286190,
-     "path": "/buildings/louvre-lens",
-     "event": false,
-     "title": "Louvre-Lens \u2014 SANAA, 2012: photos, plans & sections",
-     "max": 1
     }
    ],
-   "total": 213,
+   "total": 227,
    "more": true
   },
   "referrers": {
@@ -815,29 +815,29 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 83,
+     "count": 104,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 76,
+     "count": 79,
      "ref_scheme": "o"
-    },
-    {
-     "id": "gads",
-     "name": "gads",
-     "count": 9,
-     "ref_scheme": "c"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 9,
+     "count": 14,
      "ref_scheme": "c"
     },
     {
      "id": "reddit",
      "name": "reddit",
+     "count": 10,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "gads",
+     "name": "gads",
      "count": 9,
      "ref_scheme": "c"
     },
@@ -852,6 +852,12 @@
      "name": "youtube`",
      "count": 5,
      "ref_scheme": "c"
+    },
+    {
+     "id": "gemini.google.com",
+     "name": "gemini.google.com",
+     "count": 3,
+     "ref_scheme": "h"
     },
     {
      "id": "chatgpt.com",
@@ -870,12 +876,6 @@
      "name": "com.reddit.frontpage",
      "count": 1,
      "ref_scheme": "o"
-    },
-    {
-     "id": "gemini.google.com",
-     "name": "gemini.google.com",
-     "count": 1,
-     "ref_scheme": "h"
     }
    ],
    "more": false
@@ -885,12 +885,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 154
+     "count": 174
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 78
+     "count": 95
     },
     {
      "id": "Firefox",
@@ -905,22 +905,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 95
+     "count": 111
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 61
-    },
-    {
-     "id": "Android",
-     "name": "Android",
-     "count": 30
+     "count": 73
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 28
+     "count": 35
+    },
+    {
+     "id": "Android",
+     "name": "Android",
+     "count": 32
     },
     {
      "id": "Linux",
@@ -935,31 +935,41 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 64
+     "count": 71
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 64
+     "count": 69
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 16
+     "count": 17
     },
     {
      "id": "AU",
      "name": "Australia",
-     "count": 11
+     "count": 12
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 9
+     "count": 12
     },
     {
      "id": "ES",
      "name": "Spain",
+     "count": 11
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 10
+    },
+    {
+     "id": "PT",
+     "name": "Portugal",
      "count": 7
     },
     {
@@ -968,29 +978,24 @@
      "count": 7
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 6
-    },
-    {
      "id": "FR",
      "name": "France",
      "count": 6
     },
     {
-     "id": "PT",
-     "name": "Portugal",
-     "count": 6
-    },
-    {
      "id": "IT",
      "name": "Italy",
-     "count": 5
+     "count": 6
     },
     {
      "id": "CH",
      "name": "Switzerland",
      "count": 4
+    },
+    {
+     "id": "GR",
+     "name": "Greece",
+     "count": 3
     },
     {
      "id": "NL",
@@ -1008,8 +1013,18 @@
      "count": 3
     },
     {
-     "id": "GR",
-     "name": "Greece",
+     "id": "SI",
+     "name": "Slovenia",
+     "count": 3
+    },
+    {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 2
+    },
+    {
+     "id": "PE",
+     "name": "Peru",
      "count": 2
     },
     {
@@ -1018,9 +1033,24 @@
      "count": 2
     },
     {
+     "id": "SG",
+     "name": "Singapore",
+     "count": 2
+    },
+    {
      "id": "TH",
      "name": "Thailand",
      "count": 2
+    },
+    {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 2
+    },
+    {
+     "id": "AR",
+     "name": "Argentina",
+     "count": 1
     },
     {
      "id": "AT",
@@ -1030,11 +1060,6 @@
     {
      "id": "BN",
      "name": "Brunei",
-     "count": 1
-    },
-    {
-     "id": "BR",
-     "name": "Brazil",
      "count": 1
     },
     {
@@ -1088,8 +1113,8 @@
      "count": 1
     },
     {
-     "id": "PE",
-     "name": "Peru",
+     "id": "PL",
+     "name": "Poland",
      "count": 1
     },
     {
@@ -1098,18 +1123,8 @@
      "count": 1
     },
     {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 1
-    },
-    {
      "id": "TN",
      "name": "Tunisia",
-     "count": 1
-    },
-    {
-     "id": "TW",
-     "name": "Taiwan",
      "count": 1
     },
     {
@@ -1130,22 +1145,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 84
+     "count": 99
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 17
+     "count": 22
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 136
+     "count": 151
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 3
+     "count": 5
     },
     {
      "id": "unknown",
@@ -1160,7 +1175,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 240
+     "count": 277
     }
    ],
    "more": false
