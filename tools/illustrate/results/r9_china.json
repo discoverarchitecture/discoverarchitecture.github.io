@@ -1329,5 +1329,450 @@
    39.9036,
    116.395
   ]
+ },
+ {
+  "id": "hainan-science-and-technology-museum",
+  "name": "Hainan Science and Technology Museum",
+  "by": "MAD Architects (Ma Yansong)",
+  "city": "Haikou",
+  "cc": "CN",
+  "year": "2025",
+  "type": "Museum",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Void",
+   "Digital fabrication"
+  ],
+  "features": "Spiral form around a large open core, clad in 843 fibre-reinforced polymer panels.",
+  "status": "photo",
+  "commons_category": "Category:Hainan_Science_and_Technology_Museum",
+  "photos": [
+   {
+    "file": "File:Hainan Science and Technology Museum 04.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Hainan Science and Technology Museum 01.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hainan_Science_and_Technology_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Hainan_Science_and_Technology_Museum"
+  ],
+  "note": "Wikipedia gives 'circa 2025' in the infobox (project may be newly opened); check it isn't on the wall already. Second photo has a fence and tall grass at the base.",
+  "coords": [
+   20.02092,
+   110.21684
+  ]
+ },
+ {
+  "id": "shanghai-oriental-sports-center",
+  "name": "Shanghai Oriental Sports Center",
+  "by": "Gerkan, Marg and Partners (gmp)",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Stadium and halls set on a man-made lake that connects to the Huangpu River.",
+  "status": "photo",
+  "commons_category": "Category:Shanghai_Oriental_Sports_Center",
+  "photos": [
+   {
+    "file": "File:Shanghai Oriental Sports Center 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Oriental Sports Center 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Oriental_Sports_Center",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Oriental_Sports_Center"
+  ],
+  "note": "Wikipedia gives 2008-2011 as the build period, opening July 2011 (body text says completed late 2010). Daylight photos across the lake, no people.",
+  "coords": [
+   31.1595667,
+   121.4728694
+  ]
+ },
+ {
+  "id": "red-house-theater-taipei",
+  "name": "Red House Theater",
+  "by": "Kondo Juro",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1908",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Adaptive reuse"
+  ],
+  "features": "Western and Meiji-era Japanese patterns blended; an octagonal section joins a cruciform building and a square.",
+  "status": "photo",
+  "commons_category": "Category:Red_House_Theater",
+  "photos": [
+   {
+    "file": "File:Taipei Taiwan Red-House-Theater-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_House_Theater",
+   "https://commons.wikimedia.org/wiki/Category:Red_House_Theater"
+  ],
+  "note": "Built 1908 (Wikipedia). Rated 'quality' on Commons; elevated daylight view of the whole octagon. Several other category photos have crowds or cafe tables.",
+  "coords": [
+   25.041987,
+   121.506739
+  ]
+ },
+ {
+  "id": "bank-of-china-building-shanghai",
+  "name": "Bank of China Building, Shanghai",
+  "by": "Palmer & Turner, Lu Qianshou",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1937",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Planned at 34 floors, cut nearly in half after Victor Sassoon insisted nothing beside his tower rise above its spire.",
+  "status": "photo",
+  "commons_category": "Category:Bank_of_China_Building,_Shanghai",
+  "photos": [
+   {
+    "file": "File:Bank of China Building, Shanghai 20250501.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bank of China Building The Bund.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bank_of_China_Building,_Shanghai",
+   "https://commons.wikimedia.org/wiki/Category:Bank_of_China_Building,_Shanghai"
+  ],
+  "note": "Counted as an 'ordinary' type (bank tower); the stated reason is its place on the Bund and the Sassoon height story. Topped out 1937; the bank moved in 1946 (Wikipedia).",
+  "coords": [
+   31.2395,
+   121.4897
+  ]
+ },
+ {
+  "id": "sea-world-culture-and-arts-center",
+  "name": "Sea World Culture and Arts Center",
+  "by": "Fumihiko Maki",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Sculptural podium for the museum and shops, with three cantilevered volumes for a theatre, restaurant and hall.",
+  "status": "photo",
+  "commons_category": "Category:Sea_World_Culture_and_Arts_Center",
+  "photos": [
+   {
+    "file": "File:海上世界文化艺术中心 2.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sea_World_Culture_and_Arts_Center",
+   "https://commons.wikimedia.org/wiki/Category:Sea_World_Culture_and_Arts_Center"
+  ],
+  "note": "Shekou, Nanshan District. The photo is daylight with a few small figures and a tall tower behind. Two other photos had crowds or cars in front.",
+  "coords": [
+   22.483,
+   113.912
+  ]
+ },
+ {
+  "id": "jinwan-arts-center",
+  "name": "Jinwan Arts Center",
+  "by": "Zaha Hadid, Patrik Schumacher (Zaha Hadid Architects)",
+  "city": "Zhuhai",
+  "cc": "CN",
+  "year": "2023",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Parametric",
+   "Structure as expression"
+  ],
+  "features": "Roof pattern based on chevrons of migratory birds; five structurally separate concrete buildings.",
+  "status": "photo",
+  "commons_category": "Category:Jinwan_Arts_Center",
+  "photos": [
+   {
+    "file": "File:Jinwan Arts Center.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jinwan_Arts_Center",
+   "https://commons.wikimedia.org/wiki/Category:Jinwan_Arts_Center"
+  ],
+  "note": "Opened to the public November 2023. Wikipedia carries a January 2026 banner that parts may be LLM-generated and unverified, so the reviewer should confirm the facts. The Commons featured photo (dllu 01) is a night shot, so a daytime CC0 file leads.",
+  "coords": [
+   22.117405,
+   113.356628
+  ]
+ },
+ {
+  "id": "broadway-mansions-shanghai",
+  "name": "Broadway Mansions",
+  "by": "B. Flazer, Palmer & Turner",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1934",
+  "type": "Housing",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Brick"
+  ],
+  "features": "Steel-framed red-brick tower in the stepped skyscraper mode; its plan is said to follow the character for eight.",
+  "status": "photo",
+  "commons_category": "Category:Broadway_Mansions",
+  "photos": [
+   {
+    "file": "File:上海大厦2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Broadway_Mansions",
+   "https://commons.wikimedia.org/wiki/Category:Broadway_Mansions"
+  ],
+  "note": "Counted as an 'ordinary' type (apartment/hotel block); reason is its place among Shanghai's Art Deco towers on the Suzhou Creek. Lead gives 1934 and also mentions 1935. Hazy daylight view across the water.",
+  "coords": [
+   31.24444,
+   121.48611
+  ]
+ },
+ {
+  "id": "shenzhen-cultural-center",
+  "name": "Shenzhen Cultural Center (Library and Concert Hall)",
+  "by": "Arata Isozaki",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Concert hall with vineyard-style seating for 1,800, beside the Shenzhen Library; both by Arata Isozaki.",
+  "status": "photo",
+  "commons_category": "Category:Shenzhen_Concert_Hall",
+  "photos": [
+   {
+    "file": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (21).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (19).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Cultural_Center",
+   "https://commons.wikimedia.org/wiki/Category:Shenzhen_Concert_Hall",
+   "https://en.wikipedia.org/wiki/Shenzhen_Concert_Hall",
+   "https://en.wikipedia.org/wiki/Arata_Isozaki"
+  ],
+  "note": "Wikipedia (Shenzhen Concert Hall) says Isozaki's firm undertook it and 2008 as construction year; the Shenzhen Cultural Center article gives 2007 for the opening. Photos are daylight views of the long glass-fronted complex across a plaza.",
+  "coords": [
+   22.55,
+   114.05194
+  ]
+ },
+ {
+  "id": "bug-dome",
+  "name": "Bug Dome",
+  "by": "WEAK! (Hsieh Ying-Chun, Roan Ching-Yueh, Marco Casagrande)",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Low cost",
+   "Sculptural form"
+  ],
+  "features": "Woven bamboo shell with 'weak concrete' (cement mixed with soil), inspired by the homes insects build.",
+  "status": "photo",
+  "commons_category": "Category:Bug_Dome_by_WEAK!",
+  "photos": [
+   {
+    "file": "File:Bug Dome by WEAK! in Shenzhen Marco Casagrande.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bug Dome by WEAK!.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bug_Dome",
+   "https://commons.wikimedia.org/wiki/Category:Bug_Dome_by_WEAK!"
+  ],
+  "note": "Built for the 2009 Shenzhen and Hong Kong Biennale; I could not confirm it still stands. Wikipedia has no Commons category link, I found this one by search and its files match."
+ },
+ {
+  "id": "museum-of-contemporary-art-and-planning-exhibition-shenzhen",
+  "name": "Museum of Contemporary Art & Planning Exhibition (MOCAPE)",
+  "by": "Coop Himmelb(l)au",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Sculptural museum volume of 88,185 m2 on a 29,688 m2 site in Futian, opened in 2016.",
+  "status": "unsure",
+  "commons_category": "Category:MOCAPE,_Shenzhen_-_Exterior",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Museum_of_Contemporary_Art_and_Urban_Planning",
+   "https://commons.wikimedia.org/wiki/Category:MOCAPE,_Shenzhen_-_Exterior"
+  ],
+  "note": "no main photo. The Exterior sub-category has four 2048x1368 photos (CC BY-SA 4.0, Sept 2017), but each shows only part of the faceted facade, one with lamp posts in front. The main MOCAPE category I first opened held another museum's objects, so I give the sub-category.",
+  "coords": [
+   22.54861,
+   114.05667
+  ]
+ },
+ {
+  "id": "changsha-meixihu-international-culture-and-arts-centre",
+  "name": "Changsha Meixihu International Culture and Arts Centre",
+  "by": "Zaha Hadid, Patrik Schumacher (Zaha Hadid Architects)",
+  "city": "Changsha",
+  "cc": "CN",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Parametric"
+  ],
+  "features": "Sweeping white-tiled curves around a theatre, a contemporary art museum and a multi-purpose venue.",
+  "status": "unsure",
+  "commons_category": "Category:Meixihu_International_Culture_and_Art_Centre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Changsha_Meixihu_International_Culture_and_Arts_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Meixihu_International_Culture_and_Art_Centre"
+  ],
+  "note": "no main photo. Seen: construction shot and a hazy shot with a person in front. More photos exist in the category (CC0 'Grand Theatre, Culture and Arts Center, picture 2-8') and were not looked at."
+ },
+ {
+  "id": "jiaxing-railway-station",
+  "name": "Jiaxing Railway Station",
+  "by": "Ma Yansong (MAD Architects)",
+  "city": "Jiaxing",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "A 'railway station in the forest': passengers enter and leave by the bottom level, in a bottom-in, bottom-out mode.",
+  "status": "unsure",
+  "commons_category": "Category:Jiaxing_Railway_Station",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jiaxing_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Jiaxing_Railway_Station"
+  ],
+  "note": "no main photo. The two category photos seen show the old 1909 brick station, not MAD's new building. Opened 25 June 2021.",
+  "coords": [
+   30.76472,
+   120.76389
+  ]
  }
 ]
