@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 101-130 --buildings batch_05 --qids "Vilanova Artigas=João Batista Vilanova Artigas"
+python -u tools/fetch_architect_sources.py --only "Artur Tarkhanyan" --qids "Artur Tarkhanyan=Arthur Tarkhanyan"
