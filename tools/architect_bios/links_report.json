@@ -1,893 +1,911 @@
 [
  {
-  "architect": "Josep Lluís Sert",
-  "url": "https://en.wikipedia.org/wiki/Josep_Lluís_Sert",
+  "architect": "Hans Hollein",
+  "url": "https://en.wikipedia.org/wiki/Hans_Hollein",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Josep_Llu%C3%ADs_Sert",
-  "title": "Josep Lluís Sert - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Hans_Hollein",
+  "title": "Hans Hollein - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Josep Lluís Sert",
-  "url": "https://www.fmirobcn.org/en/",
+  "architect": "Hans Hollein",
+  "url": "https://www.pritzkerprize.com/laureates/1985",
   "status": 200,
-  "final": "https://www.fmirobcn.org/en/",
-  "title": "Fundació Joan Miró | Barcelona Museum | Art, architecture and landscape",
+  "final": "https://www.pritzkerprize.com/laureates/1985",
+  "title": "Hans Hollein | The Pritzker Architecture Prize",
   "about": true,
   "error": null
  },
  {
-  "architect": "Josep Lluís Sert",
-  "url": "https://www.archdaily.com/office/josep-lluis-sert",
+  "architect": "Hans Hollein",
+  "url": "http://www.hollein.at/",
   "status": 200,
-  "final": "https://www.archdaily.com/office/josep-lluis-sert",
-  "title": "Josep Lluís Sert | ArchDaily",
+  "final": "https://hollein.com/",
+  "title": "Home - HANS HOLLEIN.COM",
   "about": true,
   "error": null
  },
  {
-  "architect": "Kim Swoo-geun",
-  "url": "https://en.wikipedia.org/wiki/Kim_Swoo-geun",
+  "architect": "Hans Hollein",
+  "url": "https://www.archdaily.com/tag/hans-hollein",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Kim_Swoo-geun",
-  "title": "Kim Swoo-geun - Wikipedia",
+  "final": "https://www.archdaily.com/tag/hans-hollein",
+  "title": "Hans Hollein | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Kim Swoo-geun",
-  "url": "https://architectuul.com/architect/kim-swoo-geun",
+  "architect": "Herman Hertzberger",
+  "url": "https://en.wikipedia.org/wiki/Herman_Hertzberger",
   "status": 200,
-  "final": "https://architectuul.com/architect/kim-swoo-geun",
-  "title": "Kim Swoo Geun | Architectuul",
+  "final": "https://en.wikipedia.org/wiki/Herman_Hertzberger",
+  "title": "Herman Hertzberger - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Kim Swoo-geun",
-  "url": "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694",
+  "architect": "Herman Hertzberger",
+  "url": "https://www.archdaily.com/tag/herman-hertzberger",
   "status": 200,
-  "final": "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694",
-  "title": "Saving Space: Kim Swoo-geun buildings at risk",
+  "final": "https://www.archdaily.com/tag/herman-hertzberger",
+  "title": "Herman Hertzberger | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Minoru Yamasaki",
-  "url": "https://en.wikipedia.org/wiki/Minoru_Yamasaki",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Minoru_Yamasaki",
-  "title": "Minoru Yamasaki - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Minoru Yamasaki",
-  "url": "https://www.archdaily.com/tag/minoru-yamasaki",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/minoru-yamasaki",
-  "title": "Minoru Yamasaki | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Minoru Yamasaki",
-  "url": "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
-  "status": 200,
-  "final": "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
-  "title": "Yamasaki, Minoru - Docomomo Wewa",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Minoru Yamasaki",
-  "url": "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture",
-  "status": 200,
-  "final": "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture",
-  "title": "Minoru Yamasaki: The Fragility of Architecture | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Morphosis",
-  "url": "https://en.wikipedia.org/wiki/Morphosis_Architects",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Morphosis_Architects",
-  "title": "Morphosis Architects - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Morphosis",
-  "url": "https://www.pritzkerprize.com/laureates/2005",
-  "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/2005",
-  "title": "Thom Mayne | The Pritzker Architecture Prize",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Morphosis",
-  "url": "https://www.archdaily.com/office/morphosis-architects",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/morphosis",
-  "title": "Morphosis | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Nikken Sekkei",
-  "url": "https://en.wikipedia.org/wiki/Nikken_Sekkei",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Nikken_Sekkei",
-  "title": "Nikken Sekkei - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Nikken Sekkei",
-  "url": "https://www.nikken.co.jp/en/projects/",
-  "status": 200,
-  "final": "https://www.nikken.co.jp/en/projects/",
-  "title": "PROJECTS | NIKKEN SEKKEI LTD",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Nikken Sekkei",
-  "url": "https://www.archdaily.com/office/nikken-sekkei",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/nikken-sekkei",
-  "title": "Nikken Sekkei | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Rogelio Salmona",
-  "url": "https://en.wikipedia.org/wiki/Rogelio_Salmona",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Rogelio_Salmona",
-  "title": "Rogelio Salmona - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Rogelio Salmona",
-  "url": "https://www.fundacionrogeliosalmona.org/",
-  "status": 200,
-  "final": "https://www.fundacionrogeliosalmona.org/",
-  "title": "Fundación Rogelio Salmona",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Rogelio Salmona",
-  "url": "https://www.archdaily.com/office/rogelio-salmona",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/rogelio-salmona",
-  "title": "Rogelio Salmona | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sou Fujimoto",
-  "url": "https://en.wikipedia.org/wiki/Sou_Fujimoto",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Sou_Fujimoto",
-  "title": "Sou Fujimoto - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sou Fujimoto",
-  "url": "https://www.sou-fujimoto.net/",
-  "status": 200,
-  "final": "https://www.sou-fujimoto.net/",
-  "title": "sou fujimoto architects / 藤本壮介建築設計事務所",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sou Fujimoto",
-  "url": "https://www.archdaily.com/office/sou-fujimoto-architects",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/sou-fujimoto-architects",
-  "title": "Sou Fujimoto Architects | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Victor Horta",
-  "url": "https://en.wikipedia.org/wiki/Victor_Horta",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Victor_Horta",
-  "title": "Victor Horta - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Victor Horta",
-  "url": "https://whc.unesco.org/en/list/1005",
-  "status": 200,
-  "final": "https://whc.unesco.org/en/list/1005",
-  "title": "Major Town Houses of the Architect Victor Horta (Brussels) - UNESCO World Heritage Centre",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Victor Horta",
-  "url": "https://www.hortamuseum.be/en",
-  "status": 200,
-  "final": "https://hortamuseum.be/",
-  "title": "Horta Museum",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Victor Horta",
-  "url": "https://www.archdaily.com/office/victor-horta",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/victor-horta",
-  "title": "Victor Horta | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Yoshio Taniguchi",
-  "url": "https://en.wikipedia.org/wiki/Yoshio_Taniguchi",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Yoshio_Taniguchi",
-  "title": "Yoshio Taniguchi - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Yoshio Taniguchi",
-  "url": "https://www.archdaily.com/office/taniguchi-and-associates",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/taniguchi-and-associates",
-  "title": "Taniguchi and Associates | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Yoshio Taniguchi",
-  "url": "https://www.archdaily.com/tag/yoshio-taniguchi",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/yoshio-taniguchi",
-  "title": "Yoshio Taniguchi | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "3XN",
-  "url": "https://en.wikipedia.org/wiki/3XN",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/3XN",
-  "title": "3XN - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "3XN",
-  "url": "https://3xn.com/projects",
-  "status": 200,
-  "final": "https://3xn.com/projects",
-  "title": "",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "3XN",
-  "url": "https://www.archdaily.com/office/3xn",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/3xn",
-  "title": "3XN | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Arthur Erickson",
-  "url": "https://en.wikipedia.org/wiki/Arthur_Erickson",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Arthur_Erickson",
-  "title": "Arthur Erickson - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Arthur Erickson",
-  "url": "https://www.arthurerickson.com/",
-  "status": 200,
-  "final": "https://www.arthurerickson.com/",
-  "title": "Arthur Erickson",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Arthur Erickson",
-  "url": "https://www.arthurerickson.com/",
-  "status": 200,
-  "final": "https://www.arthurerickson.com/",
-  "title": "Arthur Erickson",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Arthur Erickson",
-  "url": "https://www.archdaily.com/tag/arthur-erickson",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/arthur-erickson",
-  "title": "Arthur Erickson | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Erich Mendelsohn",
-  "url": "https://en.wikipedia.org/wiki/Erich_Mendelsohn",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Erich_Mendelsohn",
-  "title": "Erich Mendelsohn - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Erich Mendelsohn",
-  "url": "https://ema.smb.museum/en/",
-  "status": 200,
-  "final": "https://ema.smb.museum/en/",
-  "title": "Staatliche Museen zu Berlin: Home",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Erich Mendelsohn",
-  "url": "https://www.archdaily.com/office/erich-mendelsohn",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/erich-mendelsohn",
-  "title": "Erich Mendelsohn | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Gio Ponti",
-  "url": "https://en.wikipedia.org/wiki/Gio_Ponti",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Gio_Ponti",
-  "title": "Gio Ponti - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Gio Ponti",
-  "url": "https://www.gioponti.org/en",
-  "status": 200,
-  "final": "https://www.gioponti.org/en/gio-ponti-homepage/",
-  "title": "EPISTOLARIO GIOPONTI",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Gio Ponti",
-  "url": "https://www.archdaily.com/office/gio-ponti",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/gio-ponti",
-  "title": "Gio Ponti | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Gottfried Böhm",
-  "url": "https://en.wikipedia.org/wiki/Gottfried_Böhm",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Gottfried_B%C3%B6hm",
-  "title": "Gottfried Böhm - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Gottfried Böhm",
-  "url": "https://www.pritzkerprize.com/laureates/1986",
-  "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/1986",
-  "title": "Gottfried Böhm | The Pritzker Architecture Prize",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Gottfried Böhm",
-  "url": "https://www.archdaily.com/office/gottfried-bohm",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/gottfried-bohm",
-  "title": "Gottfried Böhm | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Henning Larsen",
-  "url": "https://en.wikipedia.org/wiki/Henning_Larsen",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Henning_Larsen",
-  "title": "Henning Larsen - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Henning Larsen",
-  "url": "https://henninglarsen.com/projects",
-  "status": 200,
-  "final": "https://henninglarsen.com/projects",
-  "title": "Projects | Henning Larsen",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Henning Larsen",
-  "url": "https://www.archdaily.com/office/henning-larsen",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/henning-larsen",
-  "title": "Henning Larsen | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Kiyonori Kikutake",
-  "url": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
-  "title": "Kiyonori Kikutake - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Kiyonori Kikutake",
-  "url": "https://www.archdaily.com/tag/kiyonori-kikutake",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/kiyonori-kikutake",
-  "title": "Kiyonori Kikutake | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Kiyonori Kikutake",
-  "url": "https://www.bunka.go.jp/nama/global/eng/archivalcollections/kikutake/index.html",
-  "status": 200,
-  "final": "https://www.bunka.go.jp/nama/global/eng/archivalcollections/kikutake/index.html",
-  "title": "KIKUTAKE Kiyonori Archive - 文化庁 国立近現代建築資料館",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Konstantin Melnikov",
-  "url": "https://en.wikipedia.org/wiki/Konstantin_Melnikov",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Konstantin_Melnikov",
-  "title": "Konstantin Melnikov - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Konstantin Melnikov",
-  "url": "https://www.archdaily.com/office/konstantin-melnikov",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/konstantin-melnikov",
-  "title": "Konstantin Melnikov | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Konstantin Melnikov",
-  "url": "https://www.archdaily.com/tag/konstantin-melnikov",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/konstantin-melnikov",
-  "title": "Konstantin Melnikov | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Konstantin Melnikov",
-  "url": "https://architectuul.com/architect/konstantin-melnikov",
-  "status": 200,
-  "final": "https://architectuul.com/architect/konstantin-melnikov",
-  "title": "Konstantin Melnikov | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Louis Sullivan",
-  "url": "https://en.wikipedia.org/wiki/Louis_Sullivan",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Louis_Sullivan",
-  "title": "Louis Sullivan - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Louis Sullivan",
-  "url": "https://www.artic.edu/archival-collections/digital-publications/louis-sullivan-collection",
+  "architect": "Herman Hertzberger",
+  "url": "https://www.floornature.com/herman-hertzberger-1/",
   "status": 403,
-  "final": "https://www.artic.edu/archival-collections/digital-publications/louis-sullivan-collection",
+  "final": "https://www.floornature.com/herman-hertzberger-1/",
   "title": "",
   "about": false,
   "error": null
  },
  {
-  "architect": "Louis Sullivan",
-  "url": "https://architectuul.com/architect/louis-sullivan",
-  "status": 404,
-  "final": "https://architectuul.com/architect/louis-sullivan",
+  "architect": "Herman Hertzberger",
+  "url": "https://readingoffice.com/herman-hertzberger/",
+  "status": 200,
+  "final": "https://readingoffice.com/herman-hertzberger/",
+  "title": "Herman Hertzberger – Reading Office",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Hiroshi Hara",
+  "url": "https://en.wikipedia.org/wiki/Hiroshi_Hara_(architect)",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Hiroshi_Hara_(architect)",
+  "title": "Hiroshi Hara (architect) - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Hiroshi Hara",
+  "url": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
+  "status": 200,
+  "final": "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025",
+  "title": "Hiroshi Hara, 1936–2025 -",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Hiroshi Hara",
+  "url": "https://www.archiweb.cz/en/hiroshi-hara",
+  "status": 200,
+  "final": "https://www.archiweb.cz/en/hiroshi-hara",
+  "title": "Kontrola prohlížeče",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Junzo Sakakura",
+  "url": "https://en.wikipedia.org/wiki/Junzo_Sakakura",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Junzo_Sakakura",
+  "title": "Junzo Sakakura - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Junzo Sakakura",
+  "url": "https://www.sakakura.co.jp/",
+  "status": 200,
+  "final": "https://www.sakakura.co.jp/",
+  "title": "Sakakura Associates 坂倉建築研究所",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Junzo Sakakura",
+  "url": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
+  "status": 200,
+  "final": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
+  "title": "Junzo SAKAKURA, Architect",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Lúcio Costa",
+  "url": "https://en.wikipedia.org/wiki/Lúcio_Costa",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/L%C3%BAcio_Costa",
+  "title": "Lúcio Costa - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Lúcio Costa",
+  "url": "https://www.casadeluciocosta.org/",
+  "status": 200,
+  "final": "https://www.casadeluciocosta.org/",
+  "title": "How to Design a Functional Small Living Area in Australia | Casa De Lucio Costa",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Lúcio Costa",
+  "url": "https://www.archdaily.com/tag/lucio-costa",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/lucio-costa",
+  "title": "Lúcio Costa | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luigi Moretti",
+  "url": "https://en.wikipedia.org/wiki/Luigi_Moretti",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Luigi_Moretti",
+  "title": "Luigi Moretti - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luigi Moretti",
+  "url": "https://www.archdaily.com/tag/luigi-moretti",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/luigi-moretti",
+  "title": "Luigi Moretti | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luigi Moretti",
+  "url": "https://architectuul.com/architect/luigi-moretti",
+  "status": 200,
+  "final": "https://architectuul.com/architect/luigi-moretti",
+  "title": "Luigi Moretti | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luis Barragán",
+  "url": "https://en.wikipedia.org/wiki/Luis_Barragán",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Luis_Barrag%C3%A1n",
+  "title": "Luis Barragán - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luis Barragán",
+  "url": "https://www.pritzkerprize.com/laureates/1980",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/1980",
+  "title": "Luis Barragán | The Pritzker Architecture Prize",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luis Barragán",
+  "url": "https://www.barragan-foundation.org/",
+  "status": 200,
+  "final": "https://www.barragan-foundation.org/",
+  "title": "Home | Barragan Foundation",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Luis Barragán",
+  "url": "https://whc.unesco.org/en/list/1136/",
+  "status": 200,
+  "final": "https://whc.unesco.org/en/list/1136/",
+  "title": "Luis Barragán House and Studio - UNESCO World Heritage Centre",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Mario Pani",
+  "url": "https://en.wikipedia.org/wiki/Mario_Pani",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Mario_Pani",
+  "title": "Mario Pani - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Mario Pani",
+  "url": "https://www.archdaily.com/tag/mario-pani",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/mario-pani",
+  "title": "Mario Pani | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Mario Pani",
+  "url": "https://architectuul.com/architect/mario-pani",
+  "status": 200,
+  "final": "https://architectuul.com/architect/mario-pani",
+  "title": "Mario Pani | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "McKim, Mead & White",
+  "url": "https://en.wikipedia.org/wiki/McKim,_Mead_&_White",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/McKim,_Mead_&_White",
+  "title": "McKim, Mead & White - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "McKim, Mead & White",
+  "url": "https://architectuul.com/architect/mckim-mead-white",
+  "status": 200,
+  "final": "https://architectuul.com/architect/mckim-mead-white",
+  "title": "McKim, Mead & White | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "McKim, Mead & White",
+  "url": "https://backbayhouses.org/mckim-mead-and-white/",
+  "status": 200,
+  "final": "https://backbayhouses.org/mckim-mead-and-white/",
+  "title": "McKim, Mead, and White | Back Bay Houses",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "McKim, Mead & White",
+  "url": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
+  "status": 202,
+  "final": "https://www.doaks.org/library-archives/garden-archives/biographies/mckim-mead-white",
   "title": "",
   "about": false,
   "error": null
  },
  {
-  "architect": "Louis Sullivan",
-  "url": "https://www.archdaily.com/tag/louis-sullivan",
+  "architect": "Otto Wagner",
+  "url": "https://en.wikipedia.org/wiki/Otto_Wagner",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/louis-sullivan",
-  "title": "Louis Sullivan | Tag\n | ArchDaily",
+  "final": "https://en.wikipedia.org/wiki/Otto_Wagner",
+  "title": "Otto Wagner - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Mahendra Raj",
-  "url": "https://en.wikipedia.org/wiki/Mahendra_Raj",
+  "architect": "Otto Wagner",
+  "url": "https://www.archdaily.com/tag/otto-wagner",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Mahendra_Raj",
-  "title": "Mahendra Raj - Wikipedia",
+  "final": "https://www.archdaily.com/tag/otto-wagner",
+  "title": "Otto Wagner | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Mahendra Raj",
-  "url": "https://www.archdaily.com/tag/mahendra-raj",
+  "architect": "Otto Wagner",
+  "url": "https://www.wienmuseum.at/otto_wagner_en",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/mahendra-raj",
-  "title": "Mahendra Raj | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mahendra Raj",
-  "url": "https://archive.knma.in/node/2085",
-  "status": 401,
-  "final": "https://archive.knma.in/node/2085",
+  "final": "https://www.wienmuseum.at/otto_wagner_en",
   "title": "",
   "about": false,
   "error": null
  },
  {
-  "architect": "Mahendra Raj",
-  "url": "https://www.mashindia.com/structuring-form-celebrates-the-innovative-rigour-of-structural-engineer-mahendra-raj/",
+  "architect": "Otto Wagner",
+  "url": "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm",
   "status": 200,
-  "final": "https://imagecompresser.com/",
-  "title": "POSTOGEL Game Toto x Compresser Official: The New Era Entertainment",
+  "final": "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm",
+  "title": "Vienna 1900",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Populous",
+  "url": "https://en.wikipedia.org/wiki/Populous_Holdings",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Populous_Holdings",
+  "title": "Populous Holdings - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Populous",
+  "url": "https://populous.com/",
+  "status": 200,
+  "final": "https://populous.com/",
+  "title": "Global Architectural Design – Stadiums, Arenas, Events | Populous",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Populous",
+  "url": "https://www.archdaily.com/office/populous",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/populous",
+  "title": "Populous | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Rafael Viñoly",
+  "url": "https://en.wikipedia.org/wiki/Rafael_Viñoly",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Rafael_Vi%C3%B1oly",
+  "title": "Rafael Viñoly - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Rafael Viñoly",
+  "url": "https://vinoly.com/",
+  "status": 200,
+  "final": "https://vinoly.com/",
+  "title": "Rafael Viñoly Architects",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Rafael Viñoly",
+  "url": "https://www.archdaily.com/office/rafael-vinoly-architects",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/rafael-vinoly-architects",
+  "title": "Rafael Viñoly Architects | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raili Pietilä",
+  "url": "https://en.wikipedia.org/wiki/Raili_Pietilä",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Raili_Pietil%C3%A4",
+  "title": "Raili Pietilä - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raili Pietilä",
+  "url": "https://architectuul.com/architect/raili-pietila",
+  "status": 200,
+  "final": "https://architectuul.com/architect/raili-pietila",
+  "title": "Raili Pietila | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raili Pietilä",
+  "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "status": 200,
+  "final": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "title": "Breaking the Modernist Mold - Metropolis",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raili Pietilä",
+  "url": "https://www.ark.fi/en/2021/02/archives-raili-pietila/",
+  "status": 200,
+  "final": "https://www.ark.fi/en/2021/02/archives-raili-pietila/",
+  "title": "Archives: Raili Pietilä | ark",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raymond Moriyama",
+  "url": "https://en.wikipedia.org/wiki/Raymond_Moriyama",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Raymond_Moriyama",
+  "title": "Raymond Moriyama - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raymond Moriyama",
+  "url": "https://mtarch.com/",
+  "status": 200,
+  "final": "https://www.mtarch.com/",
+  "title": "Home | Moriyama Teshima Architects",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Raymond Moriyama",
+  "url": "https://www.archdaily.com/office/moriyama-and-teshima-architects",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/moriyama-teshima-architects",
+  "title": "Moriyama Teshima Architects | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Reima Pietilä",
+  "url": "https://en.wikipedia.org/wiki/Reima_Pietilä",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Reima_Pietil%C3%A4",
+  "title": "Reima Pietilä - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Reima Pietilä",
+  "url": "https://architectuul.com/architect/reima-pietila",
+  "status": 200,
+  "final": "https://architectuul.com/architect/reima-pietila",
+  "title": "Reima Pietila | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Reima Pietilä",
+  "url": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "status": 200,
+  "final": "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+  "title": "Breaking the Modernist Mold - Metropolis",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Reima Pietilä",
+  "url": "https://uia-architectes.org/?p=16461",
+  "status": 200,
+  "final": "https://www.uia-architectes.org/en/awards/gold-medal-triennial-prizes/gold-medal/reima-pietila/",
+  "title": "Reima Pietilä - International Union of Architects",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Riken Yamamoto",
+  "url": "https://en.wikipedia.org/wiki/Riken_Yamamoto",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Riken_Yamamoto",
+  "title": "Riken Yamamoto - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Riken Yamamoto",
+  "url": "https://www.pritzkerprize.com/laureates/riken-yamamoto",
+  "status": 200,
+  "final": "https://www.pritzkerprize.com/laureates/riken-yamamoto",
+  "title": "Riken Yamamoto | The Pritzker Architecture Prize",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Riken Yamamoto",
+  "url": "https://www.riken-yamamoto.co.jp/",
+  "status": 200,
+  "final": "https://www.riken-yamamoto.co.jp/",
+  "title": "Riken Yamamoto Official web",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Riken Yamamoto",
+  "url": "https://www.archdaily.com/tag/riken-yamamoto",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/riken-yamamoto/page/1",
+  "title": "Riken Yamamoto | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Schmidt Hammer Lassen",
+  "url": "https://en.wikipedia.org/wiki/Schmidt_Hammer_Lassen",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Schmidt_Hammer_Lassen",
+  "title": "Schmidt Hammer Lassen - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Schmidt Hammer Lassen",
+  "url": "https://www.shl.dk/",
+  "status": 200,
+  "final": "https://www.shl.dk/en/",
+  "title": "SHL",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Schmidt Hammer Lassen",
+  "url": "https://www.archdaily.com/office/schmidt-hammer-lassen-architects",
+  "status": 200,
+  "final": "https://www.archdaily.com/office/schmidt-hammer-lassen-architects",
+  "title": "Schmidt Hammer Lassen Architects | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Terunobu Fujimori",
+  "url": "https://en.wikipedia.org/wiki/Terunobu_Fujimori",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Terunobu_Fujimori",
+  "title": "Terunobu Fujimori - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Terunobu Fujimori",
+  "url": "https://www.archdaily.com/tag/terunobu-fujimori",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/terunobu-fujimori",
+  "title": "Terunobu Fujimori | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Terunobu Fujimori",
+  "url": "https://architectuul.com/architect/terunobu-fujimori",
+  "status": 200,
+  "final": "https://architectuul.com/architect/terunobu-fujimori",
+  "title": "Terunobu Fujimori | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Togo Murano",
+  "url": "https://en.wikipedia.org/wiki/Togo_Murano",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Togo_Murano",
+  "title": "Togo Murano - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Togo Murano",
+  "url": "https://www.sharjahart.org/en/people/details/murano-togo",
+  "status": 200,
+  "final": "https://www.sharjahart.org/en/people/details/murano-togo",
+  "title": "Togo Murano | Sharjah Art Foundation",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Togo Murano",
+  "url": "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/",
+  "status": 200,
+  "final": "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/",
+  "title": "A Lesson in Collaboration: Remembering Togo Murano (1891 – 1984) |",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vilanova Artigas",
+  "url": "https://en.wikipedia.org/wiki/Vilanova_Artigas",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Vilanova_Artigas",
+  "title": "Vilanova Artigas - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vilanova Artigas",
+  "url": "https://www.archdaily.com/tag/vilanova-artigas",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/vilanova-artigas",
+  "title": "Vilanova Artigas | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vilanova Artigas",
+  "url": "https://architectuul.com/architect/joao-batista-vilanova-artigas",
+  "status": 200,
+  "final": "https://architectuul.com/architect/joao-batista-vilanova-artigas",
+  "title": "Joao Batista Vilanova Artigas | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vladimir Shukhov",
+  "url": "https://en.wikipedia.org/wiki/Vladimir_Shukhov",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Vladimir_Shukhov",
+  "title": "Vladimir Shukhov - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vladimir Shukhov",
+  "url": "https://www.archdaily.com/tag/vladimir-shukhov",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/vladimir-shukhov",
+  "title": "Vladimir Shukhov | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Vladimir Shukhov",
+  "url": "https://structurae.net/en/persons/vladimir-shukhov",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/vladimir-shukhov",
+  "title": "",
   "about": false,
   "error": null
  },
  {
-  "architect": "Michael Wilford",
-  "url": "https://en.wikipedia.org/wiki/Michael_Wilford",
+  "architect": "Vladimir Shukhov",
+  "url": "https://architectuul.com/architect/vladimir-shukhov",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Michael_Wilford",
-  "title": "Michael Wilford - Wikipedia",
+  "final": "https://architectuul.com/architect/vladimir-shukhov",
+  "title": "Vladimir Shukhov | Architectuul",
   "about": true,
   "error": null
  },
  {
-  "architect": "Michael Wilford",
-  "url": "https://www.cca.qc.ca/en/archives/380477/james-stirling-michael-wilford-fonds",
+  "architect": "Walter Gropius",
+  "url": "https://en.wikipedia.org/wiki/Walter_Gropius",
   "status": 200,
-  "final": "https://www.cca.qc.ca/en/archives/380477/james-stirling-michael-wilford-fonds",
-  "title": "Cedric Price fonds | CCA",
+  "final": "https://en.wikipedia.org/wiki/Walter_Gropius",
+  "title": "Walter Gropius - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Michael Wilford",
-  "url": "https://www.archdaily.com/tag/michael-wilford",
+  "architect": "Walter Gropius",
+  "url": "https://www.archdaily.com/tag/walter-gropius",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/michael-wilford",
-  "title": "Michael Wilford | Tag\n | ArchDaily",
+  "final": "https://www.archdaily.com/tag/walter-gropius",
+  "title": "Walter Gropius | Tag\n | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Michael Wilford",
-  "url": "https://architectuul.com/architect/michael-wilford",
+  "architect": "Walter Gropius",
+  "url": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
   "status": 200,
-  "final": "https://architectuul.com/architect/michael-wilford",
-  "title": "Michael Wilford | Architectuul",
+  "final": "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436",
+  "title": "Gropius, Walter: Bauhaus Kooperation",
   "about": true,
   "error": null
  },
  {
-  "architect": "Nicholas Grimshaw",
-  "url": "https://en.wikipedia.org/wiki/Nicholas_Grimshaw",
+  "architect": "Walter Gropius",
+  "url": "https://structurae.net/en/persons/walter-gropius",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/walter-gropius",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Welton Becket",
+  "url": "https://en.wikipedia.org/wiki/Welton_Becket",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Nicholas_Grimshaw",
-  "title": "Nicholas Grimshaw - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Welton_Becket",
+  "title": "Welton Becket - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Nicholas Grimshaw",
-  "url": "https://grimshaw.global/projects/",
+  "architect": "Welton Becket",
+  "url": "https://architectuul.com/architect/welton-becket",
   "status": 200,
-  "final": "https://grimshaw.global/projects/",
-  "title": "Projects | GRIMSHAW",
+  "final": "https://architectuul.com/architect/welton-becket",
+  "title": "Welton Becket | Architectuul",
   "about": true,
   "error": null
  },
  {
-  "architect": "Nicholas Grimshaw",
-  "url": "https://www.archdaily.com/office/grimshaw",
+  "architect": "Welton Becket",
+  "url": "https://www.laconservancy.org/architects/welton-becket",
   "status": 200,
-  "final": "https://www.archdaily.com/office/grimshaw",
-  "title": "Grimshaw | ArchDaily",
+  "final": "https://www.laconservancy.org/learn/architect-biographies/welton-becket/",
+  "title": "Welton Becket - LA Conservancy",
   "about": true,
   "error": null
  },
  {
-  "architect": "RCR Arquitectes",
-  "url": "https://en.wikipedia.org/wiki/RCR_Arquitectes",
+  "architect": "Welton Becket",
+  "url": "https://houstonmod.org/architect/becket-welton/",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/RCR_Arquitectes",
-  "title": "RCR Arquitectes - Wikipedia",
+  "final": "https://houstonmod.org/architect/becket-welton/",
+  "title": "Becket, Welton D. - HoustonMod.",
   "about": true,
   "error": null
  },
  {
-  "architect": "RCR Arquitectes",
-  "url": "https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta",
+  "architect": "WOHA",
+  "url": "https://en.wikipedia.org/wiki/WOHA",
   "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta",
-  "title": "Rafael Aranda, Carme Pigem & Ramon Vilalta | The Pritzker Architecture Prize",
+  "final": "https://en.wikipedia.org/wiki/WOHA",
+  "title": "WOHA - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "RCR Arquitectes",
-  "url": "https://www.rcrarquitectes.es/",
+  "architect": "WOHA",
+  "url": "https://woha.net/",
   "status": 200,
-  "final": "https://www.rcrarquitectes.es/",
-  "title": "Inici - RCR Arquitectes",
+  "final": "https://woha.net/",
+  "title": "WOHA",
   "about": true,
   "error": null
  },
  {
-  "architect": "RCR Arquitectes",
-  "url": "https://www.archdaily.com/office/rcr-arquitectes",
+  "architect": "WOHA",
+  "url": "https://www.archdaily.com/office/woha",
   "status": 200,
-  "final": "https://www.archdaily.com/office/rcr-arquitectes",
-  "title": "RCR Arquitectes | ArchDaily",
+  "final": "https://www.archdaily.com/office/woha",
+  "title": "WOHA | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Ricardo Legorreta",
-  "url": "https://en.wikipedia.org/wiki/Ricardo_Legorreta",
+  "architect": "Achyut Kanvinde",
+  "url": "https://en.wikipedia.org/wiki/Achyut_Kanvinde",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ricardo_Legorreta",
-  "title": "Ricardo Legorreta - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Achyut_Kanvinde",
+  "title": "Achyut Kanvinde - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Ricardo Legorreta",
-  "url": "https://legorreta.mx/",
+  "architect": "Achyut Kanvinde",
+  "url": "https://structurae.net/en/persons/achyut-ap-kanvinde",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/achyut-ap-kanvinde",
+  "title": "",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Achyut Kanvinde",
+  "url": "https://www.greyscape.com/architects/kanvinde-achyut/",
   "status": 200,
-  "final": "https://legorreta.mx/",
-  "title": "Legorreta Arquitectos | Diseñamos para la gente que utiliza las construcciones",
+  "final": "https://www.greyscape.com/architects/kanvinde-achyut/",
+  "title": "Kanvinde, Achyut - Greyscape",
   "about": true,
   "error": null
  },
  {
-  "architect": "Ricardo Legorreta",
-  "url": "https://www.archdaily.com/tag/ricardo-legorreta",
+  "architect": "Achyut Kanvinde",
+  "url": "https://www.studiomatrx.org/architects/achyut-kanvinde",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/ricardo-legorreta",
-  "title": "Ricardo Legorreta | Tag\n | ArchDaily",
+  "final": "https://www.studiomatrx.org/architects/achyut-kanvinde",
+  "title": "Achyut Kanvinde — He brought the Bauhaus home and built the institutions of a new India | Studio Matrx",
   "about": true,
   "error": null
  },
  {
-  "architect": "Richard Neutra",
-  "url": "https://en.wikipedia.org/wiki/Richard_Neutra",
+  "architect": "Alberto Campo Baeza",
+  "url": "https://en.wikipedia.org/wiki/Alberto_Campo_Baeza",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Richard_Neutra",
-  "title": "Richard Neutra - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Alberto_Campo_Baeza",
+  "title": "Alberto Campo Baeza - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Richard Neutra",
-  "url": "https://neutra.org/",
+  "architect": "Alberto Campo Baeza",
+  "url": "https://www.campobaeza.com/",
   "status": 200,
-  "final": "https://neutra.org/",
-  "title": "Home - Neutra Institute for Survival Through Design",
+  "final": "https://www.campobaeza.com/",
+  "title": "",
   "about": true,
   "error": null
  },
  {
-  "architect": "Richard Neutra",
-  "url": "https://www.archdaily.com/tag/richard-neutra",
+  "architect": "Alberto Campo Baeza",
+  "url": "https://www.archdaily.com/office/alberto-campo-baeza",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/richard-neutra",
-  "title": "Richard Neutra | Tag\n | ArchDaily",
+  "final": "https://www.archdaily.com/office/alberto-campo-baeza",
+  "title": "Alberto Campo Baeza | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Ryue Nishizawa",
-  "url": "https://en.wikipedia.org/wiki/Ryue_Nishizawa",
+  "architect": "Architectus",
+  "url": "https://en.wikipedia.org/wiki/Architectus",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ryue_Nishizawa",
-  "title": "Ryue Nishizawa - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Architectus",
+  "title": "Architectus - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Ryue Nishizawa",
-  "url": "https://www.pritzkerprize.com/laureates/2010",
+  "architect": "Architectus",
+  "url": "https://www.archdaily.com/office/architectus",
   "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/2010",
-  "title": "Kazuyo Sejima and Ryue Nishizawa | The Pritzker Architecture Prize",
+  "final": "https://www.archdaily.com/office/architectus",
+  "title": "Architectus | ArchDaily",
   "about": true,
   "error": null
  },
  {
-  "architect": "Ryue Nishizawa",
-  "url": "https://www.archdaily.com/tag/ryue-nishizawa",
+  "architect": "Architectus",
+  "url": "https://www.architectus.com.au/",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/ryue-nishizawa",
-  "title": "Ryue Nishizawa | Tag\n | ArchDaily",
+  "final": "https://architectus.com.au/",
+  "title": "Home | Architectus",
   "about": true,
   "error": null
  },
  {
-  "architect": "Snøhetta",
-  "url": "https://en.wikipedia.org/wiki/Snøhetta_(company)",
+  "architect": "Artur Tarkhanyan",
+  "url": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Sn%C3%B8hetta_(company)",
-  "title": "Snøhetta (company) - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
+  "title": "Tsitsernakaberd - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Snøhetta",
-  "url": "https://snohetta.com/projects",
+  "architect": "Artur Tarkhanyan",
+  "url": "https://www.wikidata.org/wiki/Q4452251",
   "status": 200,
-  "final": "https://www.snohetta.com/projects",
-  "title": "Projects – Snøhetta",
+  "final": "https://www.wikidata.org/wiki/Q4452251",
+  "title": "Arthur Tarkhanyan - Wikidata",
   "about": true,
   "error": null
  },
  {
-  "architect": "Snøhetta",
-  "url": "https://www.archdaily.com/office/snohetta",
+  "architect": "Ashton Raggatt McDougall",
+  "url": "https://en.wikipedia.org/wiki/ARM_Architecture_(company)",
   "status": 200,
-  "final": "https://www.archdaily.com/office/snohetta",
-  "title": "Snøhetta | ArchDaily",
+  "final": "https://en.wikipedia.org/wiki/ARM_Architecture_(company)",
+  "title": "ARM Architecture (company) - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Sverre Fehn",
-  "url": "https://en.wikipedia.org/wiki/Sverre_Fehn",
+  "architect": "Ashton Raggatt McDougall",
+  "url": "https://armarchitecture.com.au/",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Sverre_Fehn",
-  "title": "Sverre Fehn - Wikipedia",
+  "final": "https://armarchitecture.com.au/",
+  "title": "ARM Architecture",
   "about": true,
   "error": null
  },
  {
-  "architect": "Sverre Fehn",
-  "url": "https://www.pritzkerprize.com/laureates/1997",
+  "architect": "Behnisch & Partner",
+  "url": "https://en.wikipedia.org/wiki/Günter_Behnisch",
   "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/1997",
-  "title": "Sverre Fehn | The Pritzker Architecture Prize",
+  "final": "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+  "title": "Günter Behnisch - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Sverre Fehn",
-  "url": "https://www.archdaily.com/tag/sverre-fehn",
+  "architect": "Behnisch & Partner",
+  "url": "https://behnisch.com/",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/sverre-fehn",
-  "title": "Sverre Fehn | Tag\n | ArchDaily",
+  "final": "https://behnisch.com/",
+  "title": "Behnisch Architekturbüro – BEHNISCH",
   "about": true,
   "error": null
  },
  {
-  "architect": "Alejandro Aravena",
-  "url": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
+  "architect": "Behnisch & Partner",
+  "url": "https://www.archiweb.cz/en/gunter-behnisch",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Alejandro_Aravena",
-  "title": "Alejandro Aravena - Wikipedia",
-  "about": true,
+  "final": "https://www.archiweb.cz/en/gunter-behnisch",
+  "title": "Kontrola prohlížeče",
+  "about": false,
   "error": null
  },
  {
-  "architect": "Alejandro Aravena",
-  "url": "https://www.pritzkerprize.com/laureates/2016",
-  "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/ale-jan-dro-ara-ve-na",
-  "title": "Ale­jan­dro Ara­ve­na | The Pritzker Architecture Prize",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Alejandro Aravena",
-  "url": "https://www.archdaily.com/tag/alejandro-aravena",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/alejandro-aravena",
-  "title": "Alejandro Aravena | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Alejandro Aravena",
-  "url": "https://www.elementalchile.cl/en/",
-  "status": 200,
-  "final": "https://www.elementalchile.cl/en",
-  "title": "ELEMENTAL",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Clorindo Testa",
-  "url": "https://en.wikipedia.org/wiki/Clorindo_Testa",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Clorindo_Testa",
-  "title": "Clorindo Testa - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Clorindo Testa",
-  "url": "https://fundacionclorindotesta.org/",
-  "status": 200,
-  "final": "https://fundacionclorindotesta.org/",
-  "title": "Home | Fundación Clorindo Testa",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Clorindo Testa",
-  "url": "https://www.archdaily.com/tag/clorindo-testa",
-  "status": 200,
-  "final": "https://www.archdaily.com/tag/clorindo-testa",
-  "title": "Clorindo Testa | Tag\n | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Denton Corker Marshall",
-  "url": "https://en.wikipedia.org/wiki/Denton_Corker_Marshall",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Denton_Corker_Marshall",
-  "title": "Denton Corker Marshall - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Denton Corker Marshall",
-  "url": "https://www.archdaily.com/office/denton-corker-marshall",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/denton-corker-marshall",
-  "title": "Denton Corker Marshall | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Denton Corker Marshall",
-  "url": "https://dentoncorkermarshall.com/",
-  "status": 200,
-  "final": "https://dentoncorkermarshall.com/",
-  "title": "DCM | Denton Corker Marshall | Architecture + Urban Design",
-  "about": true,
+  "architect": "Behnisch & Partner",
+  "url": "https://structurae.net/en/persons/gunter-behnisch",
+  "status": 403,
+  "final": "https://structurae.net/en/persons/gunter-behnisch",
+  "title": "",
+  "about": false,
   "error": null
  }
 ]
