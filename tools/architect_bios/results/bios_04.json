@@ -111,13 +111,15 @@
     "site": "Architectuul",
     "title": "Kim Swoo-geun",
     "url": "https://architectuul.com/architect/kim-swoo-geun",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "Korea JoongAng Daily",
     "title": "Saving Space: Kim Swoo-geun buildings at risk",
     "url": "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694",
-    "why": "his major buildings and their state today"
+    "why": "his major buildings and their state today",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -182,13 +184,15 @@
     "site": "Docomomo WEWA",
     "title": "Minoru Yamasaki",
     "url": "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
-    "why": "biography and his buildings in the Pacific Northwest"
+    "why": "biography and his buildings in the Pacific Northwest",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Minoru Yamasaki: The Fragility of Architecture",
     "url": "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture",
-    "why": "an overview of his career through a recent book"
+    "why": "an overview of his career through a recent book",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -688,13 +692,15 @@
     "site": "Arthur Erickson Foundation",
     "title": "Arthur Erickson",
     "url": "https://www.arthurerickson.com/",
-    "why": "the foundation's pages on his life and projects"
+    "why": "the foundation's pages on his life and projects",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Arthur Erickson tag page",
     "url": "https://www.archdaily.com/tag/arthur-erickson",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1070,13 +1076,15 @@
     "site": "ArchDaily",
     "title": "Konstantin Melnikov tag page",
     "url": "https://www.archdaily.com/tag/konstantin-melnikov",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "Architectuul",
     "title": "Konstantin Melnikov",
     "url": "https://architectuul.com/architect/konstantin-melnikov",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1142,19 +1150,22 @@
     "site": "Art Institute of Chicago",
     "title": "Louis Sullivan Collection",
     "url": "https://www.artic.edu/archival-collections/digital-publications/louis-sullivan-collection",
-    "why": "drawings, ornament and photographs from across his career"
+    "why": "drawings, ornament and photographs from across his career",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Architectuul",
     "title": "Louis Sullivan",
     "url": "https://architectuul.com/architect/louis-sullivan",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Louis Sullivan tag page",
     "url": "https://www.archdaily.com/tag/louis-sullivan",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1212,13 +1223,15 @@
     "site": "Kiran Nadar Museum of Art",
     "title": "Structuring Form: The Innovative Rigour of Mahendra Raj",
     "url": "https://archive.knma.in/node/2085",
-    "why": "2019 exhibition of seven of his major projects"
+    "why": "2019 exhibition of seven of his major projects",
+    "check_failed": "status 401, name not found on page"
    },
    {
     "site": "MASH India",
     "title": "Structuring Form celebrates the innovative rigour of structural engineer Mahendra Raj",
     "url": "https://www.mashindia.com/structuring-form-celebrates-the-innovative-rigour-of-structural-engineer-mahendra-raj/",
-    "why": "a review of the exhibition and his collaborations"
+    "why": "a review of the exhibition and his collaborations",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -1289,13 +1302,15 @@
     "site": "ArchDaily",
     "title": "Michael Wilford tag page",
     "url": "https://www.archdaily.com/tag/michael-wilford",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "Architectuul",
     "title": "Michael Wilford",
     "url": "https://architectuul.com/architect/michael-wilford",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1827,13 +1842,15 @@
     "site": "ArchDaily",
     "title": "Alejandro Aravena tag page",
     "url": "https://www.archdaily.com/tag/alejandro-aravena",
-    "why": "projects and interviews with plans and photos"
+    "why": "projects and interviews with plans and photos",
+    "checked": "2026-10-19"
    },
    {
     "site": "ELEMENTAL",
     "title": "Official site",
     "url": "https://www.elementalchile.cl/en/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1941,7 +1958,8 @@
     "site": "Denton Corker Marshall",
     "title": "Official site",
     "url": "https://dentoncorkermarshall.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false

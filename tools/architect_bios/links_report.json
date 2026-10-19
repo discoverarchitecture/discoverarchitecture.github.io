@@ -37,20 +37,20 @@
  },
  {
   "architect": "Kim Swoo-geun",
-  "url": "https://www.spacea.com/",
+  "url": "https://architectuul.com/architect/kim-swoo-geun",
   "status": 200,
-  "final": "https://www.spacea.com/",
-  "title": "",
-  "about": false,
+  "final": "https://architectuul.com/architect/kim-swoo-geun",
+  "title": "Kim Swoo Geun | Architectuul",
+  "about": true,
   "error": null
  },
  {
   "architect": "Kim Swoo-geun",
-  "url": "https://www.archdaily.com/tag/kim-swoo-geun",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/kim-swoo-geun",
-  "title": "",
-  "about": false,
+  "url": "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694",
+  "status": 200,
+  "final": "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694",
+  "title": "Saving Space: Kim Swoo-geun buildings at risk",
+  "about": true,
   "error": null
  },
  {
@@ -73,11 +73,20 @@
  },
  {
   "architect": "Minoru Yamasaki",
-  "url": "https://www.archdaily.com/office/minoru-yamasaki",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/minoru-yamasaki",
-  "title": "",
-  "about": false,
+  "url": "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
+  "status": 200,
+  "final": "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
+  "title": "Yamasaki, Minoru - Docomomo Wewa",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Minoru Yamasaki",
+  "url": "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture",
+  "status": 200,
+  "final": "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture",
+  "title": "Minoru Yamasaki: The Fragility of Architecture | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -96,15 +105,6 @@
   "final": "https://www.pritzkerprize.com/laureates/2005",
   "title": "Thom Mayne | The Pritzker Architecture Prize",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Morphosis",
-  "url": "https://www.morphosis.com/",
-  "status": 200,
-  "final": "https://www.morphosis.com/",
-  "title": "Morphopedia {{ stateParams.section ? '- ' + stateParams.section.charAt( 0 ).toUpperCase() + stateParams.section.slice( 1 ) : '' }}",
-  "about": false,
   "error": null
  },
  {
@@ -307,11 +307,20 @@
  },
  {
   "architect": "Arthur Erickson",
-  "url": "https://www.archdaily.com/office/arthur-erickson",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/arthur-erickson",
-  "title": "",
-  "about": false,
+  "url": "https://www.arthurerickson.com/",
+  "status": 200,
+  "final": "https://www.arthurerickson.com/",
+  "title": "Arthur Erickson",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Arthur Erickson",
+  "url": "https://www.archdaily.com/tag/arthur-erickson",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/arthur-erickson",
+  "title": "Arthur Erickson | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -450,15 +459,6 @@
   "error": null
  },
  {
-  "architect": "Kiyonori Kikutake",
-  "url": "https://www.gsd.harvard.edu/exhibition/tectonic-visions-between-land-sea-works-of-kiyonori-kikutake/",
-  "status": 404,
-  "final": "https://www.gsd.harvard.edu/exhibition/tectonic-visions-between-land-sea-works-of-kiyonori-kikutake/",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
   "architect": "Konstantin Melnikov",
   "url": "https://en.wikipedia.org/wiki/Konstantin_Melnikov",
   "status": 200,
@@ -469,19 +469,28 @@
  },
  {
   "architect": "Konstantin Melnikov",
-  "url": "https://melnikovhouse.org/en/",
-  "status": 0,
-  "final": "https://melnikovhouse.org/en/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1010)>"
- },
- {
-  "architect": "Konstantin Melnikov",
   "url": "https://www.archdaily.com/office/konstantin-melnikov",
   "status": 200,
   "final": "https://www.archdaily.com/office/konstantin-melnikov",
   "title": "Konstantin Melnikov | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Konstantin Melnikov",
+  "url": "https://www.archdaily.com/tag/konstantin-melnikov",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/konstantin-melnikov",
+  "title": "Konstantin Melnikov | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Konstantin Melnikov",
+  "url": "https://architectuul.com/architect/konstantin-melnikov",
+  "status": 200,
+  "final": "https://architectuul.com/architect/konstantin-melnikov",
+  "title": "Konstantin Melnikov | Architectuul",
   "about": true,
   "error": null
  },
@@ -496,20 +505,29 @@
  },
  {
   "architect": "Louis Sullivan",
-  "url": "https://www.richardnickelcommittee.org/",
-  "status": 200,
-  "final": "https://www.richardnickelcommittee.org/",
+  "url": "https://www.artic.edu/archival-collections/digital-publications/louis-sullivan-collection",
+  "status": 403,
+  "final": "https://www.artic.edu/archival-collections/digital-publications/louis-sullivan-collection",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Louis Sullivan",
-  "url": "https://www.archdaily.com/office/louis-sullivan",
+  "url": "https://architectuul.com/architect/louis-sullivan",
   "status": 404,
-  "final": "https://www.archdaily.com/office/louis-sullivan",
+  "final": "https://architectuul.com/architect/louis-sullivan",
   "title": "",
   "about": false,
+  "error": null
+ },
+ {
+  "architect": "Louis Sullivan",
+  "url": "https://www.archdaily.com/tag/louis-sullivan",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/louis-sullivan",
+  "title": "Louis Sullivan | Tag\n | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -532,10 +550,19 @@
  },
  {
   "architect": "Mahendra Raj",
-  "url": "https://knma.in/node/2085",
-  "status": 404,
-  "final": "https://knma.in/node/2085",
+  "url": "https://archive.knma.in/node/2085",
+  "status": 401,
+  "final": "https://archive.knma.in/node/2085",
   "title": "",
+  "about": false,
+  "error": null
+ },
+ {
+  "architect": "Mahendra Raj",
+  "url": "https://www.mashindia.com/structuring-form-celebrates-the-innovative-rigour-of-structural-engineer-mahendra-raj/",
+  "status": 200,
+  "final": "https://imagecompresser.com/",
+  "title": "POSTOGEL Game Toto x Compresser Official: The New Era Entertainment",
   "about": false,
   "error": null
  },
@@ -559,11 +586,20 @@
  },
  {
   "architect": "Michael Wilford",
-  "url": "https://www.archdaily.com/office/michael-wilford",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/michael-wilford",
-  "title": "",
-  "about": false,
+  "url": "https://www.archdaily.com/tag/michael-wilford",
+  "status": 200,
+  "final": "https://www.archdaily.com/tag/michael-wilford",
+  "title": "Michael Wilford | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Michael Wilford",
+  "url": "https://architectuul.com/architect/michael-wilford",
+  "status": 200,
+  "final": "https://architectuul.com/architect/michael-wilford",
+  "title": "Michael Wilford | Architectuul",
+  "about": true,
   "error": null
  },
  {
@@ -784,11 +820,20 @@
  },
  {
   "architect": "Alejandro Aravena",
-  "url": "https://www.archdaily.com/office/elemental",
+  "url": "https://www.archdaily.com/tag/alejandro-aravena",
   "status": 200,
-  "final": "https://www.archdaily.com/office/elemental",
-  "title": "ELEMENTAL | ArchDaily",
-  "about": false,
+  "final": "https://www.archdaily.com/tag/alejandro-aravena",
+  "title": "Alejandro Aravena | Tag\n | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Alejandro Aravena",
+  "url": "https://www.elementalchile.cl/en/",
+  "status": 200,
+  "final": "https://www.elementalchile.cl/en",
+  "title": "ELEMENTAL",
+  "about": true,
   "error": null
  },
  {
@@ -829,19 +874,19 @@
  },
  {
   "architect": "Denton Corker Marshall",
-  "url": "https://www.dentoncorkermarshall.com/",
-  "status": 0,
-  "final": "https://www.dentoncorkermarshall.com/",
-  "title": "",
-  "about": true,
-  "error": "ERROR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dentoncorkermarshall.com'. (_ssl.c:1010)>"
- },
- {
-  "architect": "Denton Corker Marshall",
   "url": "https://www.archdaily.com/office/denton-corker-marshall",
   "status": 200,
   "final": "https://www.archdaily.com/office/denton-corker-marshall",
   "title": "Denton Corker Marshall | ArchDaily",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Denton Corker Marshall",
+  "url": "https://dentoncorkermarshall.com/",
+  "status": 200,
+  "final": "https://dentoncorkermarshall.com/",
+  "title": "DCM | Denton Corker Marshall | Architecture + Urban Design",
   "about": true,
   "error": null
  }
