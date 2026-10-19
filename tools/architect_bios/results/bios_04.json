@@ -108,18 +108,16 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "SPACE Group",
-    "title": "Company history",
-    "url": "https://www.spacea.com/",
-    "why": "the practice he founded",
-    "check_failed": "status 200, name not found on page"
+    "site": "Architectuul",
+    "title": "Kim Swoo-geun",
+    "url": "https://architectuul.com/architect/kim-swoo-geun",
+    "why": "short biography and a list of his buildings with photos"
    },
    {
-    "site": "ArchDaily",
-    "title": "Kim Swoo-geun tag page",
-    "url": "https://www.archdaily.com/tag/kim-swoo-geun",
-    "why": "articles on his buildings",
-    "check_failed": "status 404, name not found on page"
+    "site": "Korea JoongAng Daily",
+    "title": "Saving Space: Kim Swoo-geun buildings at risk",
+    "url": "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694",
+    "why": "his major buildings and their state today"
    }
   ],
   "skip": false
@@ -181,11 +179,16 @@
     "checked": "2026-10-19"
    },
    {
+    "site": "Docomomo WEWA",
+    "title": "Minoru Yamasaki",
+    "url": "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
+    "why": "biography and his buildings in the Pacific Northwest"
+   },
+   {
     "site": "ArchDaily",
-    "title": "Minoru Yamasaki office page",
-    "url": "https://www.archdaily.com/office/minoru-yamasaki",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Minoru Yamasaki: The Fragility of Architecture",
+    "url": "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture",
+    "why": "an overview of his career through a recent book"
    }
   ],
   "skip": false
@@ -242,13 +245,6 @@
     "url": "https://www.pritzkerprize.com/laureates/2005",
     "why": "jury citation, biography and photos of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Morphosis",
-    "title": "Projects",
-    "url": "https://www.morphosis.com/",
-    "why": "the practice's own project list",
-    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -321,7 +317,7 @@
   "kind": "person",
   "born_died": "1929–2007",
   "country": "French-Colombian",
-  "bio": "Rogelio Salmona (1929–2007) was a French-Colombian architect, born in Paris and raised in Bogotá, known for red brick and for spirals, curves and radial plans drawn from nature. Invited by Le Corbusier during his 1947 visit to Colombia, he worked as a draughtsman in Le Corbusier's Paris studio for about ten years, and the brickwork he saw in Granada had a lasting influence on him. Late in life he won the Alvar Aalto Medal (2003).\n\nHis first major project, Torres del Parque in Bogotá (1970), is a group of three brick residential towers around a park at the centre of the city. The General Archive of the Nation (1994) and the Gabriel García Márquez Cultural Center (2008) are also in Bogotá, and the Centro Cultural de Cali (1990) in the south-west of the country. The Virgilio Barco Library (2001), set in Bogotá's Simón Bolívar Metropolitan Park, is noted for its handling of water, with pools around the building; it is one of seven sites Colombia has put forward to UNESCO as \"The architectural legacy of Rogelio Salmona\". Rogelio Salmona's buildings are studied for brick, landscape and public space.",
+  "bio": "Rogelio Salmona (1929–2007) was a French-Colombian architect, born in Paris and raised in Bogotá, known for red brick and for spirals, curves and radial plans drawn from nature. Invited by Le Corbusier during his 1947 visit to Colombia, he worked as a draughtsman in Le Corbusier's Paris studio for about ten years, and the brickwork he saw in Granada had a lasting influence on him. Late in life he won the Alvar Aalto Medal (2003).\n\nHis first major project, Torres del Parque in Bogotá (1970), is a group of three brick residential towers around a park at the centre of the city. The General Archive of the Nation (1994) is also in Bogotá, and the Centro Cultural de Cali (1990) is in the south-west of the country. The Virgilio Barco Library (2001), set in Bogotá's Simón Bolívar Metropolitan Park, is noted for its handling of water, with pools around the building; it is one of seven sites Colombia has put forward to UNESCO as \"The architectural legacy of Rogelio Salmona\". Rogelio Salmona's buildings are studied for brick, landscape and public space.",
   "facts": [
    {
     "claim": "April 28, 1929 – October 3, 2007; French Colombian architect; born in Paris, moved early to Bogotá",
@@ -348,12 +344,6 @@
     "source": "https://www.wikidata.org/wiki/Q2860532",
     "architect_qid": "Q998392",
     "checked": "2026-10-19"
-   },
-   {
-    "claim": "Gabriel García Márquez Cultural Center designed by Rogelio Salmona (architect, P84)",
-    "source": "https://www.wikidata.org/wiki/Q5761145",
-    "architect_qid": "Q998392",
-    "check_failed": "architect (P84) on Wikidata: []"
    },
    {
     "claim": "Centro Cultural de Cali designed by Rogelio Salmona (architect, P84)",
@@ -695,11 +685,16 @@
     "checked": "2026-10-19"
    },
    {
+    "site": "Arthur Erickson Foundation",
+    "title": "Arthur Erickson",
+    "url": "https://www.arthurerickson.com/",
+    "why": "the foundation's pages on his life and projects"
+   },
+   {
     "site": "ArchDaily",
-    "title": "Arthur Erickson office page",
-    "url": "https://www.archdaily.com/office/arthur-erickson",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Arthur Erickson tag page",
+    "url": "https://www.archdaily.com/tag/arthur-erickson",
+    "why": "classics and articles on his buildings"
    }
   ],
   "skip": false
@@ -931,10 +926,9 @@
     "source": "https://en.wikipedia.org/wiki/Bildmuseet"
    },
    {
-    "claim": "Bolgen designed by Henning Larsen Architects (architect, P84)",
-    "source": "https://www.wikidata.org/wiki/Q1020211",
-    "architect_qid": "Q1377332",
-    "check_failed": "architect (P84) on Wikidata: ['Q1339465']"
+    "claim": "Works list: The Wave, Vejle, Denmark (2009)",
+    "source": "https://en.wikipedia.org/wiki/Henning_Larsen_Architects",
+    "note": "Bølgen is Danish for \"The Wave\"; the wall calls the building Bolgen"
    }
   ],
   "overview_links": [
@@ -1012,13 +1006,6 @@
     "url": "https://www.bunka.go.jp/nama/global/eng/archivalcollections/kikutake/index.html",
     "why": "his drawings archive with a list of major works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Harvard GSD",
-    "title": "Tectonic Visions Between Land & Sea: Works of Kiyonori Kikutake",
-    "url": "https://www.gsd.harvard.edu/exhibition/tectonic-visions-between-land-sea-works-of-kiyonori-kikutake/",
-    "why": "his first solo exhibition in North America",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1073,18 +1060,23 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Melnikov House Museum",
-    "title": "State Museum of Architecture",
-    "url": "https://melnikovhouse.org/en/",
-    "why": "his house in Moscow, now a museum",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Konstantin Melnikov office page",
     "url": "https://www.archdaily.com/office/konstantin-melnikov",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Konstantin Melnikov tag page",
+    "url": "https://www.archdaily.com/tag/konstantin-melnikov",
+    "why": "classics and articles on his buildings"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Konstantin Melnikov",
+    "url": "https://architectuul.com/architect/konstantin-melnikov",
+    "why": "short biography and a list of his buildings with photos"
    }
   ],
   "skip": false
@@ -1147,18 +1139,22 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Richard Nickel Committee",
-    "title": "Louis Sullivan buildings",
-    "url": "https://www.richardnickelcommittee.org/",
-    "why": "archive and photographs of his buildings",
-    "check_failed": "status 200, name not found on page"
+    "site": "Art Institute of Chicago",
+    "title": "Louis Sullivan Collection",
+    "url": "https://www.artic.edu/archival-collections/digital-publications/louis-sullivan-collection",
+    "why": "drawings, ornament and photographs from across his career"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Louis Sullivan",
+    "url": "https://architectuul.com/architect/louis-sullivan",
+    "why": "short biography and a list of his buildings with photos"
    },
    {
     "site": "ArchDaily",
-    "title": "Louis Sullivan office page",
-    "url": "https://www.archdaily.com/office/louis-sullivan",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Louis Sullivan tag page",
+    "url": "https://www.archdaily.com/tag/louis-sullivan",
+    "why": "classics and articles on his buildings"
    }
   ],
   "skip": false
@@ -1215,9 +1211,14 @@
    {
     "site": "Kiran Nadar Museum of Art",
     "title": "Structuring Form: The Innovative Rigour of Mahendra Raj",
-    "url": "https://knma.in/node/2085",
-    "why": "2019 exhibition of seven of his major projects",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://archive.knma.in/node/2085",
+    "why": "2019 exhibition of seven of his major projects"
+   },
+   {
+    "site": "MASH India",
+    "title": "Structuring Form celebrates the innovative rigour of structural engineer Mahendra Raj",
+    "url": "https://www.mashindia.com/structuring-form-celebrates-the-innovative-rigour-of-structural-engineer-mahendra-raj/",
+    "why": "a review of the exhibition and his collaborations"
    }
   ],
   "skip": false
@@ -1286,10 +1287,15 @@
    },
    {
     "site": "ArchDaily",
-    "title": "Michael Wilford office page",
-    "url": "https://www.archdaily.com/office/michael-wilford",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
+    "title": "Michael Wilford tag page",
+    "url": "https://www.archdaily.com/tag/michael-wilford",
+    "why": "articles on his buildings"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Michael Wilford",
+    "url": "https://architectuul.com/architect/michael-wilford",
+    "why": "short biography and a list of his buildings with photos"
    }
   ],
   "skip": false
@@ -1819,10 +1825,15 @@
    },
    {
     "site": "ArchDaily",
-    "title": "ELEMENTAL office page",
-    "url": "https://www.archdaily.com/office/elemental",
-    "why": "projects with plans and photos",
-    "check_failed": "status 200, name not found on page"
+    "title": "Alejandro Aravena tag page",
+    "url": "https://www.archdaily.com/tag/alejandro-aravena",
+    "why": "projects and interviews with plans and photos"
+   },
+   {
+    "site": "ELEMENTAL",
+    "title": "Official site",
+    "url": "https://www.elementalchile.cl/en/",
+    "why": "the practice's own projects"
    }
   ],
   "skip": false
@@ -1920,18 +1931,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Denton Corker Marshall",
-    "title": "Official site",
-    "url": "https://www.dentoncorkermarshall.com/",
-    "why": "the practice's own projects",
-    "check_failed": "status 0"
-   },
-   {
     "site": "ArchDaily",
     "title": "Denton Corker Marshall office page",
     "url": "https://www.archdaily.com/office/denton-corker-marshall",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "Denton Corker Marshall",
+    "title": "Official site",
+    "url": "https://dentoncorkermarshall.com/",
+    "why": "the practice's own projects"
    }
   ],
   "skip": false
