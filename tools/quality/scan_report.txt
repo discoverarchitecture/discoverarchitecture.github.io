@@ -1,0 +1,5 @@
+buildings scanned: 300 of 300
+with rated candidates: 56
+files dropped by reason: {"not rated": 35430, "already have": 1945, "junk": 6, "licence": 58, "artwork": 5, "other building?": 7, "people/event": 3, "night": 19, "category": 3}
+errors: 0
+
