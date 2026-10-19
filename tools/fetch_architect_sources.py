@@ -144,6 +144,12 @@ def building_text(title):
     return page
 
 
+def surname(name):
+    """The word that should appear in a building's article: the last word of a person's name, or a firm's name."""
+    words = [w for w in re.split(r'[\s,]+', name.lower()) if w not in ('architekten', 'architects', 'associates')]
+    return words[-1] if words else name.lower()
+
+
 def buildings(entries, name):
     site = ROOT / 'site' / 'data' / 'buildings.js'
     items = json.loads(site.read_text().split('window.BUILDINGS = ', 1)[1].rstrip().rstrip(';'))
@@ -159,15 +165,21 @@ def buildings(entries, name):
             rec = {'name': b['name'], 'architect': e['name'], 'qid': b.get('qid')}
             try:
                 qid = b.get('qid')
-                if not qid:
-                    hits = get(WD, {'action': 'wbsearchentities', 'search': b['name'], 'language': 'en',
-                                    'type': 'item', 'limit': 1}).get('search', [])
-                    qid = hits[0]['id'] if hits else None
-                    rec['qid_found_by_search'] = qid
                 title = None
                 if qid:
                     ent = get(WD, {'action': 'wbgetentities', 'ids': qid, 'props': 'sitelinks'})['entities'][qid]
                     title = ent.get('sitelinks', {}).get('enwiki', {}).get('title')
+                else:
+                    # no Wikidata item on the wall: search Wikipedia for "<building> <architect>" and keep the
+                    # first article that names the architect (a name-only search picked wrong items before)
+                    hits = get(WP, {'action': 'query', 'list': 'search', 'srsearch': f"{b['name']} {e['name']}",
+                                    'srlimit': 3, 'formatversion': 2})['query']['search']
+                    rec['found_by_search'] = True
+                    for h in hits:
+                        page = building_text(h['title'])
+                        if surname(e['name']) in page['text'].lower():
+                            rec.update(page)
+                            break
                 if title:
                     rec.update(building_text(title))
             except Exception as err:

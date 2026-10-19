@@ -12,6 +12,10 @@
   chat). Bios 172–190 words. 262 facts, every one with a source (architect articles in `sources.json`, building
   articles in `building_sources/batch_02.json`). Unsourced facts: 0. Links: 100 kept, all checked 19 Oct 2026.
 
+- `results/bios_03.json` (19 Oct 2026), 30 architects, ranks 41–70. Bios 176–190 words. 236 facts, every one with a
+  source; 3 of them are building attributions confirmed on Wikidata (architect, P84) by the checker, for buildings
+  with no English article. Unsourced facts: 0. Links: 92 kept, all checked 19 Oct 2026.
+
 ## Skipped
 - None. Every architect in ranks 1–40 is a real, well-sourced person or practice.
 
@@ -32,6 +36,18 @@
   (Niemeyer's is now added to bios_01).
 - WikiArquitectura `/architect/<name>/` addresses all 404: its address pattern is different; not used.
 - Only two links for **Kunio Maekawa** and **Henry Hobson Richardson** (below the brief's three).
+
+## Batch 3 notes
+- Seven architects have only two checked links: Carlos Raúl Villanueva, Charles Rennie Mackintosh, Eliel Saarinen,
+  Mimar Sinan (Archnet rate-limited the checker, 429), Ricardo Bofill (his site breaks the checker's SSL), Félix
+  Candela and Hans Scharoun (their archive pages load but are built by JavaScript, so the name check cannot see them).
+- Several practice and personal sites fail the checker's certificate check (sanaa.co.jp, seidler.net.au, utzon.dk,
+  ricardobofill.com); probably fine in a browser, unchecked, so left out.
+- SESC 24 de Maio (Paulo Mendes da Rocha) was dropped from his text: no English article and no architect on Wikidata.
+- "Jørn Utzon" (rank 59) and "Jorn Utzon" (rank 216) are the same person under two spellings on the wall; batch 3
+  covers the wall buildings filed under "Jørn". The data side may want to merge them.
+- The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
+  (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
 
 ## Weak spots to note
 - Glenn Murcutt: Wikipedia has no articles on his houses, so the bio says little about each one. His materials list
