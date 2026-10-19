@@ -55,15 +55,6 @@
  },
  {
   "architect": "SANAA",
-  "url": "https://www.sanaa.co.jp/",
-  "status": 0,
-  "final": "https://www.sanaa.co.jp/",
-  "title": "",
-  "about": true,
-  "error": "ERROR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.sanaa.co.jp'. (_ssl.c:1010)>"
- },
- {
-  "architect": "SANAA",
   "url": "https://www.archdaily.com/office/sanaa",
   "status": 200,
   "final": "https://www.archdaily.com/office/sanaa",
@@ -154,15 +145,6 @@
  },
  {
   "architect": "Pier Luigi Nervi",
-  "url": "https://www.archdaily.com/office/pier-luigi-nervi",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/pier-luigi-nervi",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Pier Luigi Nervi",
   "url": "https://www.archdaily.com/tag/pier-luigi-nervi",
   "status": 200,
   "final": "https://www.archdaily.com/tag/pier-luigi-nervi",
@@ -190,20 +172,11 @@
  },
  {
   "architect": "Auguste Perret",
-  "url": "https://www.archdaily.com/office/auguste-perret",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/auguste-perret",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Auguste Perret",
-  "url": "https://www.archdaily.com/tag/auguste-perret",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/auguste-perret",
-  "title": "",
-  "about": false,
+  "url": "https://www.metalocus.es/en/author/perret-0",
+  "status": 200,
+  "final": "https://www.metalocus.es/en/author/perret-0",
+  "title": "Perret | METALOCUS",
+  "about": true,
   "error": null
  },
  {
@@ -222,24 +195,6 @@
   "final": "https://whc.unesco.org/en/list/986",
   "title": "Ciudad Universitaria de Caracas - UNESCO World Heritage Centre",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Carlos Raúl Villanueva",
-  "url": "https://www.archdaily.com/office/carlos-raul-villanueva",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/carlos-raul-villanueva",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Carlos Raúl Villanueva",
-  "url": "https://www.archdaily.com/tag/carlos-raul-villanueva",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/carlos-raul-villanueva",
-  "title": "",
-  "about": false,
   "error": null
  },
  {
@@ -415,12 +370,12 @@
  },
  {
   "architect": "Charles Rennie Mackintosh",
-  "url": "https://www.mackintosh-architecture.gla.ac.uk/",
-  "status": 0,
-  "final": "https://www.mackintosh-architecture.gla.ac.uk/",
-  "title": "",
+  "url": "https://www.glasgowmackintosh.com/",
+  "status": 200,
+  "final": "https://qq338oy.com/",
+  "title": "QQ338: Jalur VIP khusus buat kamu yang mau masuk sekarang juga",
   "about": false,
-  "error": "ERROR Remote end closed connection without response"
+  "error": null
  },
  {
   "architect": "Denys Lasdun",
@@ -496,15 +451,6 @@
  },
  {
   "architect": "Eliel Saarinen",
-  "url": "https://www.archdaily.com/office/eliel-saarinen",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/eliel-saarinen",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Eliel Saarinen",
   "url": "https://www.archdaily.com/tag/eliel-saarinen",
   "status": 200,
   "final": "https://www.archdaily.com/tag/eliel-saarinen",
@@ -541,15 +487,6 @@
  },
  {
   "architect": "Geoffrey Bawa",
-  "url": "https://www.archdaily.com/office/geoffrey-bawa",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/geoffrey-bawa",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Geoffrey Bawa",
   "url": "https://www.archdaily.com/tag/geoffrey-bawa",
   "status": 200,
   "final": "https://www.archdaily.com/tag/geoffrey-bawa",
@@ -568,29 +505,11 @@
  },
  {
   "architect": "Harry Seidler",
-  "url": "https://www.seidler.net.au/",
-  "status": 0,
-  "final": "https://www.seidler.net.au/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
- },
- {
-  "architect": "Harry Seidler",
   "url": "https://sydneylivingmuseums.com.au/rose-seidler-house",
   "status": 200,
   "final": "https://mhnsw.au/visit-us/rose-seidler-house/",
   "title": "Rose Seidler House",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Harry Seidler",
-  "url": "https://www.archdaily.com/office/harry-seidler",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/harry-seidler",
-  "title": "",
-  "about": false,
   "error": null
  },
  {
@@ -619,15 +538,6 @@
   "title": "Jørn Utzon | The Pritzker Architecture Prize",
   "about": true,
   "error": null
- },
- {
-  "architect": "Jørn Utzon",
-  "url": "https://utzon.dk/",
-  "status": 0,
-  "final": "https://utzon.dk/",
-  "title": "",
-  "about": true,
-  "error": "ERROR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'utzon.dk'. (_ssl.c:1010)>"
  },
  {
   "architect": "Jørn Utzon",
@@ -666,24 +576,6 @@
   "error": null
  },
  {
-  "architect": "Mimar Sinan",
-  "url": "https://www.archdaily.com/office/mimar-sinan",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/mimar-sinan",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Mimar Sinan",
-  "url": "https://www.archdaily.com/tag/mimar-sinan",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/mimar-sinan",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
   "architect": "Ricardo Bofill",
   "url": "https://en.wikipedia.org/wiki/Ricardo_Bofill",
   "status": 200,
@@ -694,21 +586,21 @@
  },
  {
   "architect": "Ricardo Bofill",
-  "url": "https://ricardobofill.com/projects/",
-  "status": 0,
-  "final": "https://ricardobofill.com/projects/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
- },
- {
-  "architect": "Ricardo Bofill",
   "url": "https://www.archdaily.com/office/ricardo-bofill",
   "status": 200,
   "final": "https://www.archdaily.com/office/ricardo-bofill",
   "title": "Ricardo Bofill | ArchDaily",
   "about": true,
   "error": null
+ },
+ {
+  "architect": "Ricardo Bofill",
+  "url": "https://ricardobofill.com/",
+  "status": 0,
+  "final": "https://ricardobofill.com/",
+  "title": "",
+  "about": false,
+  "error": "ERROR <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
  },
  {
   "architect": "Balkrishna Doshi",
@@ -874,20 +766,20 @@
  },
  {
   "architect": "Félix Candela",
-  "url": "https://findingaids.princeton.edu/catalog/C1477",
-  "status": 200,
-  "final": "https://findingaids.princeton.edu/challenge?destination=%2Fcatalog%2FC1477",
-  "title": "Verifying connection",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Félix Candela",
   "url": "https://www.archdaily.com/office/felix-candela",
   "status": 200,
   "final": "https://www.archdaily.com/office/felix-candela",
   "title": "Félix Candela | ArchDaily",
   "about": true,
+  "error": null
+ },
+ {
+  "architect": "Félix Candela",
+  "url": "https://findingaids.princeton.edu/catalog/C1455",
+  "status": 200,
+  "final": "https://findingaids.princeton.edu/challenge?destination=%2Fcatalog%2FC1455",
+  "title": "Verifying connection",
+  "about": false,
   "error": null
  },
  {
@@ -924,15 +816,6 @@
   "final": "https://en.wikipedia.org/wiki/Hans_Scharoun",
   "title": "Hans Scharoun - Wikipedia",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Hans Scharoun",
-  "url": "https://archiv.adk.de/bigobjekt/5843",
-  "status": 200,
-  "final": "https://archiv.adk.de/bigobjekt/5843",
-  "title": "easydb.archive",
-  "about": false,
   "error": null
  },
  {

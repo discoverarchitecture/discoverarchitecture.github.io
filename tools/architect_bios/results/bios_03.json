@@ -396,7 +396,8 @@
     "site": "Metalocus",
     "title": "Auguste Perret",
     "url": "https://www.metalocus.es/en/author/perret-0",
-    "why": "articles on his buildings"
+    "why": "articles on his buildings",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -869,7 +870,8 @@
     "site": "Glasgow Mackintosh",
     "title": "Mackintosh buildings",
     "url": "https://www.glasgowmackintosh.com/",
-    "why": "visitor guide to his buildings in Glasgow"
+    "why": "visitor guide to his buildings in Glasgow",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -1374,7 +1376,8 @@
     "site": "Archnet",
     "title": "Sinan",
     "url": "https://www.archnet.org/authorities/57",
-    "why": "the Aga Khan Documentation Center's list of his buildings"
+    "why": "the Aga Khan Documentation Center's list of his buildings",
+    "check_failed": "status 429, name not found on page"
    }
   ],
   "skip": false
@@ -1435,7 +1438,8 @@
     "site": "Ricardo Bofill Taller de Arquitectura",
     "title": "Projects",
     "url": "https://ricardobofill.com/",
-    "why": "the practice's own site"
+    "why": "the practice's own site",
+    "check_failed": "status 0, name not found on page"
    }
   ],
   "skip": false
@@ -1832,7 +1836,8 @@
     "site": "Princeton University Library",
     "title": "Félix Candela Papers",
     "url": "https://findingaids.princeton.edu/catalog/C1455",
-    "why": "his drawings, photographs and papers"
+    "why": "his drawings, photographs and papers",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
