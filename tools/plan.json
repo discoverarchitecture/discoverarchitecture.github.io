@@ -20,5 +20,12 @@
   "goal": "Round 8: five more Sonnet chats (South America, Africa, Middle East and Turkey, South Asia, Japan and Korea), to pass 500 today and start tomorrow's",
   "note": "Started at 11:40 UTC after round 7 merged 472. Same review by eye before anything goes up.",
   "status": "done"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "Data collection",
+  "goal": "Better photos: find Commons Featured, Quality and Valued photos missing from galleries, pilot on the first 300 buildings (Sonnet finds, Opus checks every new main photo by eye)",
+  "status": "in progress",
+  "note": "Owner chose this over copying roark.archi, whose terms forbid bulk copying; Roark takes its photos from Commons anyway."
  }
 ]
