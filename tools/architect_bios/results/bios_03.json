@@ -54,7 +54,7 @@
    {
     "site": "Rafael Moneo",
     "title": "Projects",
-    "url": "https://rafaelmoneo.com/en/projects/",
+    "url": "https://rafaelmoneo.com/",
     "why": "the architect's own project list",
     "check_failed": "status 404, name not found on page"
    },
@@ -334,6 +334,12 @@
     "url": "https://www.archdaily.com/office/pier-luigi-nervi",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Pier Luigi Nervi tag page",
+    "url": "https://www.archdaily.com/tag/pier-luigi-nervi",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -405,6 +411,12 @@
     "url": "https://www.archdaily.com/office/auguste-perret",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Auguste Perret tag page",
+    "url": "https://www.archdaily.com/tag/auguste-perret",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -462,18 +474,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Fundación Villanueva",
-    "title": "Foundation",
-    "url": "https://www.fundacionvillanueva.org/",
-    "why": "the foundation that keeps his archive",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Carlos Raúl Villanueva office page",
     "url": "https://www.archdaily.com/office/carlos-raul-villanueva",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Carlos Raúl Villanueva tag page",
+    "url": "https://www.archdaily.com/tag/carlos-raul-villanueva",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -598,18 +609,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Library of Congress",
-    "title": "Paul Rudolph Archive",
-    "url": "https://www.loc.gov/collections/paul-rudolph-archive/",
-    "why": "his drawings, held by the Library of Congress",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Paul Rudolph office page",
     "url": "https://www.archdaily.com/office/paul-rudolph",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Paul Rudolph tag page",
+    "url": "https://www.archdaily.com/tag/paul-rudolph",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -620,7 +630,7 @@
   "kind": "person",
   "born_died": "1928–2021",
   "country": "Brazilian",
-  "bio": "Paulo Mendes da Rocha (1928–2021) was a Brazilian architect who worked almost only in Brazil and is widely credited with renewing São Paulo through its cultural buildings. A graduate of Mackenzie Presbyterian University (1954) and a professor at the University of São Paulo's architecture school until 1998, he was influenced by Vilanova Artigas and the Paulista School. Much of his work is in concrete, an approach some call \"Brazilian Brutalism\". He won the Pritzker Prize in 2006 and the Venice Biennale's Golden Lion for lifetime achievement in 2016.\n\nHis renovation of the Pinacoteca do Estado de São Paulo (1998), the city's oldest art museum, helped make it one of Brazil's most active cultural institutions. In São Paulo he also designed MuBE – Brazilian Museum of Sculpture (1995) and SESC 24 de Maio (2017). In Lisbon, the new National Coach Museum (2015), designed with the Ricardo Bak Gordon studio and the engineer Rui Furtado, holds most of the royal coach collection and has been Portugal's most visited national museum. Paulo Mendes da Rocha's buildings are studied for bold concrete structure and open public space.",
+  "bio": "Paulo Mendes da Rocha (1928–2021) was a Brazilian architect who worked almost only in Brazil and is widely credited with renewing São Paulo through its cultural buildings. A graduate of Mackenzie Presbyterian University (1954) and a professor at the University of São Paulo's architecture school until 1998, he was influenced by Vilanova Artigas and the Paulista School. Much of his work is in concrete, an approach some call \"Brazilian Brutalism\". He won the Pritzker Prize in 2006 and the Venice Biennale's Golden Lion for lifetime achievement in 2016.\n\nHis renovation of the Pinacoteca do Estado de São Paulo (1998), the city's oldest art museum, helped make it one of Brazil's most active cultural institutions. In São Paulo he also designed MuBE – Brazilian Museum of Sculpture (1995). In Lisbon, the new National Coach Museum (2015), designed with the Ricardo Bak Gordon studio and the engineer Rui Furtado, holds most of the royal coach collection and has been Portugal's most visited national museum. Paulo Mendes da Rocha's buildings are studied for bold concrete structure and open public space.",
   "facts": [
    {
     "claim": "October 25, 1928 – May 23, 2021; Brazilian architect; worked almost exclusively in Brazil; credited with having enhanced and revitalised São Paulo",
@@ -651,12 +661,6 @@
     "source": "https://www.wikidata.org/wiki/Q2923400",
     "architect_qid": "Q312855",
     "checked": "2026-10-19"
-   },
-   {
-    "claim": "SESC 24 de Maio designed by Paulo Mendes da Rocha (architect, P84)",
-    "source": "https://www.wikidata.org/wiki/Q55154350",
-    "architect_qid": "Q312855",
-    "check_failed": "architect (P84) on Wikidata: []"
    }
   ],
   "overview_links": [
@@ -819,7 +823,7 @@
    {
     "site": "Steven Holl Architects",
     "title": "Projects",
-    "url": "https://www.stevenholl.com/projects/",
+    "url": "https://www.stevenholl.com/",
     "why": "the practice's own project list",
     "check_failed": "status 404, name not found on page"
    },
@@ -957,18 +961,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "RIBA Architecture",
-    "title": "Denys Lasdun",
-    "url": "https://www.architecture.com/explore-architecture/denys-lasdun",
-    "why": "RIBA's overview of his work",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Denys Lasdun office page",
     "url": "https://www.archdaily.com/office/denys-lasdun",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Denys Lasdun tag page",
+    "url": "https://www.archdaily.com/tag/denys-lasdun",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -1026,7 +1029,7 @@
    {
     "site": "Pritzker Prize",
     "title": "2022 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/2022",
+    "url": "https://www.pritzkerprize.com/laureates/diebedo-francis-kere",
     "why": "jury citation, biography and photos of works",
     "check_failed": "status 404, name not found on page"
    },
@@ -1111,18 +1114,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Cranbrook Archives",
-    "title": "Saarinen family",
-    "url": "https://center.cranbrook.edu/collections/archives",
-    "why": "archive of his drawings and Cranbrook work",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Eliel Saarinen office page",
     "url": "https://www.archdaily.com/office/eliel-saarinen",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Eliel Saarinen tag page",
+    "url": "https://www.archdaily.com/tag/eliel-saarinen",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -1197,6 +1199,12 @@
     "url": "https://www.archdaily.com/office/geoffrey-bawa",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Geoffrey Bawa tag page",
+    "url": "https://www.archdaily.com/tag/geoffrey-bawa",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -1274,6 +1282,12 @@
     "url": "https://www.archdaily.com/office/harry-seidler",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Harry Seidler tag page",
+    "url": "https://www.archdaily.com/tag/harry-seidler",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -1433,6 +1447,12 @@
     "url": "https://www.archdaily.com/office/mimar-sinan",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Mimar Sinan tag page",
+    "url": "https://www.archdaily.com/tag/mimar-sinan",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -1492,7 +1512,7 @@
    {
     "site": "ArchDaily",
     "title": "Ricardo Bofill Taller de Arquitectura office page",
-    "url": "https://www.archdaily.com/office/ricardo-bofill-taller-de-arquitectura",
+    "url": "https://www.archdaily.com/office/ricardo-bofill",
     "why": "projects with plans and photos",
     "check_failed": "status 404, name not found on page"
    }
@@ -1548,7 +1568,7 @@
    {
     "site": "Pritzker Prize",
     "title": "2018 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/2018",
+    "url": "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
     "why": "jury citation, biography and photos of works",
     "check_failed": "status 404, name not found on page"
    },
@@ -1691,7 +1711,7 @@
    {
     "site": "Christian de Portzamparc",
     "title": "Projects",
-    "url": "https://www.christiandeportzamparc.com/en/projects/",
+    "url": "https://www.christiandeportzamparc.com/",
     "why": "the practice's own project list",
     "check_failed": "status 404, name not found on page"
    },
@@ -1815,18 +1835,17 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "University of Arkansas Libraries",
-    "title": "Edward Durell Stone Papers",
-    "url": "https://uark.as.atlas-sys.com/repositories/2/resources/1176",
-    "why": "his papers and drawings",
-    "check_failed": "status 403, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Edward Durell Stone office page",
     "url": "https://www.archdaily.com/office/edward-durell-stone",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Edward Durell Stone tag page",
+    "url": "https://www.archdaily.com/tag/edward-durell-stone",
+    "why": "all projects about him on ArchDaily"
    }
   ],
   "skip": false
@@ -1937,7 +1956,7 @@
    {
     "site": "gmp Architekten",
     "title": "Projects",
-    "url": "https://www.gmp.de/en/projects",
+    "url": "https://www.gmp.de/en/",
     "why": "the practice's own project list",
     "check_failed": "status 404, name not found on page"
    },
@@ -2068,6 +2087,18 @@
     "url": "https://www.archdaily.com/office/john-burgee",
     "why": "projects with plans and photos",
     "checked": "2026-10-19"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "John Burgee tag page",
+    "url": "https://www.archdaily.com/tag/john-burgee",
+    "why": "all projects about him on ArchDaily"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Johnson/Burgee works (Philip Johnson article)",
+    "url": "https://en.wikipedia.org/wiki/Philip_Johnson",
+    "why": "the works the two designed together"
    }
   ],
   "skip": false
