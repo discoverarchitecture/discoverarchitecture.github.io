@@ -41,25 +41,29 @@
     "site": "Wikipedia",
     "title": "Rafael Moneo",
     "url": "https://en.wikipedia.org/wiki/Rafael_Moneo",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1996 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1996",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Rafael Moneo",
     "title": "Projects",
     "url": "https://rafaelmoneo.com/en/projects/",
-    "why": "the architect's own project list"
+    "why": "the architect's own project list",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Rafael Moneo office page",
     "url": "https://www.archdaily.com/office/rafael-moneo",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -98,25 +102,29 @@
     "site": "Wikipedia",
     "title": "SANAA",
     "url": "https://en.wikipedia.org/wiki/SANAA",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2010 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2010",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "SANAA",
     "title": "Works",
     "url": "https://www.sanaa.co.jp/",
-    "why": "the firm's own site and works list"
+    "why": "the firm's own site and works list",
+    "check_failed": "status 0"
    },
    {
     "site": "ArchDaily",
     "title": "SANAA office page",
     "url": "https://www.archdaily.com/office/sanaa",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -171,19 +179,22 @@
     "site": "Wikipedia",
     "title": "Arne Jacobsen",
     "url": "https://en.wikipedia.org/wiki/Arne_Jacobsen",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Arne Jacobsen",
     "title": "Official site",
     "url": "https://arnejacobsen.com/",
-    "why": "works and designs, run for his estate"
+    "why": "works and designs, run for his estate",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Arne Jacobsen office page",
     "url": "https://www.archdaily.com/office/arne-jacobsen",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -238,25 +249,29 @@
     "site": "Wikipedia",
     "title": "James Stirling",
     "url": "https://en.wikipedia.org/wiki/James_Stirling_(architect)",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1981 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1981",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Canadian Centre for Architecture",
     "title": "James Stirling/Michael Wilford fonds",
     "url": "https://www.cca.qc.ca/en/archives/380477/james-stirling-michael-wilford-fonds",
-    "why": "the archive of his drawings and papers"
+    "why": "the archive of his drawings and papers",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "James Stirling office page",
     "url": "https://www.archdaily.com/office/james-stirling",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -303,19 +318,22 @@
     "site": "Wikipedia",
     "title": "Pier Luigi Nervi",
     "url": "https://en.wikipedia.org/wiki/Pier_Luigi_Nervi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pier Luigi Nervi Project",
     "title": "Association",
     "url": "https://www.pierluiginervi.org/",
-    "why": "an association that studies and shows his works"
+    "why": "an association that studies and shows his works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Pier Luigi Nervi office page",
     "url": "https://www.archdaily.com/office/pier-luigi-nervi",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -371,19 +389,22 @@
     "site": "Wikipedia",
     "title": "Auguste Perret",
     "url": "https://en.wikipedia.org/wiki/Auguste_Perret",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "Le Havre, the City Rebuilt by Auguste Perret",
     "url": "https://whc.unesco.org/en/list/1181",
-    "why": "his listed post-war city"
+    "why": "his listed post-war city",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Auguste Perret office page",
     "url": "https://www.archdaily.com/office/auguste-perret",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -430,25 +451,29 @@
     "site": "Wikipedia",
     "title": "Carlos Raúl Villanueva",
     "url": "https://en.wikipedia.org/wiki/Carlos_Raúl_Villanueva",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "Ciudad Universitaria de Caracas",
     "url": "https://whc.unesco.org/en/list/986",
-    "why": "his listed university campus"
+    "why": "his listed university campus",
+    "checked": "2026-10-19"
    },
    {
     "site": "Fundación Villanueva",
     "title": "Foundation",
     "url": "https://www.fundacionvillanueva.org/",
-    "why": "the foundation that keeps his archive"
+    "why": "the foundation that keeps his archive",
+    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Carlos Raúl Villanueva office page",
     "url": "https://www.archdaily.com/office/carlos-raul-villanueva",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -499,19 +524,22 @@
     "site": "Wikipedia",
     "title": "MVRDV",
     "url": "https://en.wikipedia.org/wiki/MVRDV",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "MVRDV",
     "title": "Projects",
     "url": "https://www.mvrdv.com/projects",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "MVRDV office page",
     "url": "https://www.archdaily.com/office/mvrdv",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -559,25 +587,29 @@
     "site": "Wikipedia",
     "title": "Paul Rudolph",
     "url": "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Paul Rudolph Institute for Modern Architecture",
     "title": "Works",
     "url": "https://www.paulrudolph.institute/",
-    "why": "the institute that documents his buildings"
+    "why": "the institute that documents his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "Library of Congress",
     "title": "Paul Rudolph Archive",
     "url": "https://www.loc.gov/collections/paul-rudolph-archive/",
-    "why": "his drawings, held by the Library of Congress"
+    "why": "his drawings, held by the Library of Congress",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Paul Rudolph office page",
     "url": "https://www.archdaily.com/office/paul-rudolph",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -617,12 +649,14 @@
    {
     "claim": "MuBE designed by Paulo Mendes da Rocha (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q2923400",
-    "architect_qid": "Q312855"
+    "architect_qid": "Q312855",
+    "checked": "2026-10-19"
    },
    {
     "claim": "SESC 24 de Maio designed by Paulo Mendes da Rocha (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q55154350",
-    "architect_qid": "Q312855"
+    "architect_qid": "Q312855",
+    "check_failed": "architect (P84) on Wikidata: []"
    }
   ],
   "overview_links": [
@@ -630,19 +664,22 @@
     "site": "Wikipedia",
     "title": "Paulo Mendes da Rocha",
     "url": "https://en.wikipedia.org/wiki/Paulo_Mendes_da_Rocha",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2006 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2006",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Paulo Mendes da Rocha office page",
     "url": "https://www.archdaily.com/office/paulo-mendes-da-rocha",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -707,25 +744,29 @@
     "site": "Wikipedia",
     "title": "Peter Zumthor",
     "url": "https://en.wikipedia.org/wiki/Peter_Zumthor",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2009 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2009",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Atelier Peter Zumthor",
     "title": "Works",
     "url": "https://zumthor.org/",
-    "why": "the studio's own list of works"
+    "why": "the studio's own list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Peter Zumthor office page",
     "url": "https://www.archdaily.com/office/peter-zumthor",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -772,19 +813,22 @@
     "site": "Wikipedia",
     "title": "Steven Holl",
     "url": "https://en.wikipedia.org/wiki/Steven_Holl",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Steven Holl Architects",
     "title": "Projects",
     "url": "https://www.stevenholl.com/projects/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Steven Holl Architects office page",
     "url": "https://www.archdaily.com/office/steven-holl-architects",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -839,19 +883,22 @@
     "site": "Wikipedia",
     "title": "Charles Rennie Mackintosh",
     "url": "https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Charles Rennie Mackintosh Society",
     "title": "Mackintosh buildings",
     "url": "https://www.crmsociety.com/",
-    "why": "the society that cares for and lists his buildings"
+    "why": "the society that cares for and lists his buildings",
+    "checked": "2026-10-19"
    },
    {
     "site": "Mackintosh Architecture",
     "title": "University of Glasgow",
     "url": "https://www.mackintosh-architecture.gla.ac.uk/",
-    "why": "the full catalogue of his architectural work"
+    "why": "the full catalogue of his architectural work",
+    "check_failed": "status 0, name not found on page"
    }
   ],
   "skip": false
@@ -906,19 +953,22 @@
     "site": "Wikipedia",
     "title": "Denys Lasdun",
     "url": "https://en.wikipedia.org/wiki/Denys_Lasdun",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "RIBA Architecture",
     "title": "Denys Lasdun",
     "url": "https://www.architecture.com/explore-architecture/denys-lasdun",
-    "why": "RIBA's overview of his work"
+    "why": "RIBA's overview of his work",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Denys Lasdun office page",
     "url": "https://www.archdaily.com/office/denys-lasdun",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -970,25 +1020,29 @@
     "site": "Wikipedia",
     "title": "Diébédo Francis Kéré",
     "url": "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2022 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2022",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Kéré Architecture",
     "title": "Projects",
     "url": "https://www.kerearchitecture.com/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Kéré Architecture office page",
     "url": "https://www.archdaily.com/office/kere-architecture",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1028,17 +1082,20 @@
    {
     "claim": "Lahti Town Hall designed by Eliel Saarinen (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q11874375",
-    "architect_qid": "Q312028"
+    "architect_qid": "Q312028",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Joensuu Town Hall designed by Eliel Saarinen (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q4390833",
-    "architect_qid": "Q312028"
+    "architect_qid": "Q312028",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Des Moines Art Center designed by Eliel Saarinen (architect, P84)",
     "source": "https://www.wikidata.org/wiki/Q5263501",
-    "architect_qid": "Q312028"
+    "architect_qid": "Q312028",
+    "checked": "2026-10-19"
    },
    {
     "claim": "Christ Church Lutheran: by Saarinen and Saarinen (Eliel and Eero), dedicated 1949; Eliel's last completed building; National Historic Landmark 2009",
@@ -1050,19 +1107,22 @@
     "site": "Wikipedia",
     "title": "Eliel Saarinen",
     "url": "https://en.wikipedia.org/wiki/Eliel_Saarinen",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Cranbrook Archives",
     "title": "Saarinen family",
     "url": "https://center.cranbrook.edu/collections/archives",
-    "why": "archive of his drawings and Cranbrook work"
+    "why": "archive of his drawings and Cranbrook work",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Eliel Saarinen office page",
     "url": "https://www.archdaily.com/office/eliel-saarinen",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1114,25 +1174,29 @@
     "site": "Wikipedia",
     "title": "Geoffrey Bawa",
     "url": "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Geoffrey Bawa Trust",
     "title": "Bawa's works",
     "url": "https://www.geoffreybawa.com/",
-    "why": "the trust that keeps his archive and houses"
+    "why": "the trust that keeps his archive and houses",
+    "checked": "2026-10-19"
    },
    {
     "site": "Lunuganga Trust",
     "title": "Lunuganga",
     "url": "https://www.lunuganga.com/",
-    "why": "his country garden and estate"
+    "why": "his country garden and estate",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Geoffrey Bawa office page",
     "url": "https://www.archdaily.com/office/geoffrey-bawa",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1187,25 +1251,29 @@
     "site": "Wikipedia",
     "title": "Harry Seidler",
     "url": "https://en.wikipedia.org/wiki/Harry_Seidler",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Harry Seidler & Associates",
     "title": "Projects",
     "url": "https://www.seidler.net.au/",
-    "why": "the practice he founded, with its project list"
+    "why": "the practice he founded, with its project list",
+    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "Sydney Living Museums",
     "title": "Rose Seidler House",
     "url": "https://sydneylivingmuseums.com.au/rose-seidler-house",
-    "why": "the museum in his first house"
+    "why": "the museum in his first house",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Harry Seidler office page",
     "url": "https://www.archdaily.com/office/harry-seidler",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1261,25 +1329,29 @@
     "site": "Wikipedia",
     "title": "Jørn Utzon",
     "url": "https://en.wikipedia.org/wiki/Jørn_Utzon",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2003 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2003",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Utzon Center",
     "title": "Jørn Utzon",
     "url": "https://utzon.dk/",
-    "why": "the centre in Aalborg devoted to his work"
+    "why": "the centre in Aalborg devoted to his work",
+    "check_failed": "status 0"
    },
    {
     "site": "ArchDaily",
     "title": "Jørn Utzon office page",
     "url": "https://www.archdaily.com/office/jorn-utzon",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1338,25 +1410,29 @@
     "site": "Wikipedia",
     "title": "Mimar Sinan",
     "url": "https://en.wikipedia.org/wiki/Mimar_Sinan",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "UNESCO World Heritage Centre",
     "title": "Selimiye Mosque and its Social Complex",
     "url": "https://whc.unesco.org/en/list/1366",
-    "why": "his masterpiece and its complex"
+    "why": "his masterpiece and its complex",
+    "checked": "2026-10-19"
    },
    {
     "site": "Archnet",
     "title": "Sinan",
     "url": "https://www.archnet.org/authorities/57",
-    "why": "the Aga Khan Documentation Center's list of his buildings"
+    "why": "the Aga Khan Documentation Center's list of his buildings",
+    "check_failed": "status 429, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Mimar Sinan office page",
     "url": "https://www.archdaily.com/office/mimar-sinan",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1403,19 +1479,22 @@
     "site": "Wikipedia",
     "title": "Ricardo Bofill",
     "url": "https://en.wikipedia.org/wiki/Ricardo_Bofill",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Ricardo Bofill Taller de Arquitectura",
     "title": "Projects",
     "url": "https://ricardobofill.com/projects/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Ricardo Bofill Taller de Arquitectura office page",
     "url": "https://www.archdaily.com/office/ricardo-bofill-taller-de-arquitectura",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1463,25 +1542,29 @@
     "site": "Wikipedia",
     "title": "Balkrishna Doshi",
     "url": "https://en.wikipedia.org/wiki/B._V._Doshi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "2018 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2018",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Vastushilpa Foundation",
     "title": "Doshi's work",
     "url": "https://www.vastushilpa.org/",
-    "why": "the foundation he set up, with his archive"
+    "why": "the foundation he set up, with his archive",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Balkrishna Doshi office page",
     "url": "https://www.archdaily.com/office/balkrishna-doshi",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1529,19 +1612,22 @@
     "site": "Wikipedia",
     "title": "Carlo Scarpa",
     "url": "https://en.wikipedia.org/wiki/Carlo_Scarpa",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Archivio Carlo Scarpa",
     "title": "MAXXI Architettura",
     "url": "https://www.archiviocarloscarpa.it/",
-    "why": "his drawings archive, held in Treviso"
+    "why": "his drawings archive, held in Treviso",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Carlo Scarpa office page",
     "url": "https://www.archdaily.com/office/carlo-scarpa",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1592,25 +1678,29 @@
     "site": "Wikipedia",
     "title": "Christian de Portzamparc",
     "url": "https://en.wikipedia.org/wiki/Christian_de_Portzamparc",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Pritzker Prize",
     "title": "1994 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1994",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Christian de Portzamparc",
     "title": "Projects",
     "url": "https://www.christiandeportzamparc.com/en/projects/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Christian de Portzamparc office page",
     "url": "https://www.archdaily.com/office/christian-de-portzamparc",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1661,19 +1751,22 @@
     "site": "Wikipedia",
     "title": "Coop Himmelb(l)au",
     "url": "https://en.wikipedia.org/wiki/Coop_Himmelb(l)au",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Coop Himmelb(l)au",
     "title": "Projects",
     "url": "https://coop-himmelblau.at/projects/",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "Coop Himmelb(l)au office page",
     "url": "https://www.archdaily.com/office/coop-himmelb-l-au",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1718,19 +1811,22 @@
     "site": "Wikipedia",
     "title": "Edward Durell Stone",
     "url": "https://en.wikipedia.org/wiki/Edward_Durell_Stone",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "University of Arkansas Libraries",
     "title": "Edward Durell Stone Papers",
     "url": "https://uark.as.atlas-sys.com/repositories/2/resources/1176",
-    "why": "his papers and drawings"
+    "why": "his papers and drawings",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Edward Durell Stone office page",
     "url": "https://www.archdaily.com/office/edward-durell-stone",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1781,19 +1877,22 @@
     "site": "Wikipedia",
     "title": "Félix Candela",
     "url": "https://en.wikipedia.org/wiki/Félix_Candela",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Princeton University Library",
     "title": "Félix Candela Architectural Records and Papers",
     "url": "https://findingaids.princeton.edu/catalog/C1477",
-    "why": "his drawings and papers"
+    "why": "his drawings and papers",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Félix Candela office page",
     "url": "https://www.archdaily.com/office/felix-candela",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1832,19 +1931,22 @@
     "site": "Wikipedia",
     "title": "gmp (Gerkan, Marg and Partners)",
     "url": "https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "gmp Architekten",
     "title": "Projects",
     "url": "https://www.gmp.de/en/projects",
-    "why": "the practice's own project list"
+    "why": "the practice's own project list",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "gmp Architekten office page",
     "url": "https://www.archdaily.com/office/gmp-architekten",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1891,19 +1993,22 @@
     "site": "Wikipedia",
     "title": "Hans Scharoun",
     "url": "https://en.wikipedia.org/wiki/Hans_Scharoun",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "Akademie der Künste",
     "title": "Hans Scharoun archive",
     "url": "https://archiv.adk.de/bigobjekt/5843",
-    "why": "his archive at the Berlin Academy of Arts"
+    "why": "his archive at the Berlin Academy of Arts",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "ArchDaily",
     "title": "Hans Scharoun office page",
     "url": "https://www.archdaily.com/office/hans-scharoun",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
@@ -1954,13 +2059,15 @@
     "site": "Wikipedia",
     "title": "John Burgee",
     "url": "https://en.wikipedia.org/wiki/John_Burgee",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-19"
    },
    {
     "site": "ArchDaily",
     "title": "John Burgee office page",
     "url": "https://www.archdaily.com/office/john-burgee",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-19"
    }
   ],
   "skip": false
