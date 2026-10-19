@@ -588,13 +588,6 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Tange Associates",
-    "title": "Works",
-    "url": "https://www.tangeweb.com/",
-    "why": "the office he founded, with its works list",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "ArchDaily",
     "title": "Kenzo Tange office page",
     "url": "https://www.archdaily.com/office/kenzo-tange",
@@ -659,13 +652,6 @@
     "url": "https://www.pritzkerprize.com/laureates/2013",
     "why": "jury citation, biography and photos of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Toyo Ito & Associates",
-    "title": "Works",
-    "url": "https://www.toyo-ito.co.jp/WEBSITE/",
-    "why": "the office's own list of works",
-    "check_failed": "status 0"
    },
    {
     "site": "ArchDaily",
@@ -1166,13 +1152,6 @@
     "url": "https://www.archdaily.com/tag/kisho-kurokawa",
     "why": "all projects about him on ArchDaily",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "WikiArquitectura",
-    "title": "Kisho Kurokawa",
-    "url": "https://en.wikiarquitectura.com/architect/kisho-kurokawa/",
-    "why": "buildings with drawings and descriptions",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1244,13 +1223,6 @@
     "url": "https://www.archdaily.com/tag/louis-kahn",
     "why": "all projects about him on ArchDaily",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "WikiArquitectura",
-    "title": "Louis Kahn",
-    "url": "https://en.wikiarquitectura.com/architect/louis-i-kahn/",
-    "why": "buildings with drawings and descriptions",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1310,13 +1282,6 @@
     "url": "https://www.pritzkerprize.com/laureates/1984",
     "why": "jury citation, biography and photos of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Richard Meier & Partners",
-    "title": "Projects",
-    "url": "https://www.richardmeier.com/",
-    "why": "the practice's own project list",
-    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -1456,20 +1421,6 @@
     "checked": "2026-10-19"
    },
    {
-    "site": "Pritzker Prize",
-    "title": "2023 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/david-alan-chipperfield",
-    "why": "jury citation and biography",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "Pritzker Prize",
-    "title": "2023 laureate",
-    "url": "https://www.pritzkerprize.com/laureates/david-chipperfield",
-    "why": "jury citation and biography",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "David Chipperfield Architects",
     "title": "Projects",
     "url": "https://davidchipperfield.com/projects",
@@ -1548,13 +1499,6 @@
     "url": "https://www.archdaily.com/tag/eero-saarinen",
     "why": "all projects about him on ArchDaily",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "WikiArquitectura",
-    "title": "Eero Saarinen",
-    "url": "https://en.wikiarquitectura.com/architect/eero-saarinen/",
-    "why": "buildings with drawings and descriptions",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1619,20 +1563,6 @@
     "url": "https://archipelvzw.be/en/archief/architecten/kunio-maekawa",
     "why": "short profile with his main works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Kunio Maekawa tag page",
-    "url": "https://www.archdaily.com/tag/kunio-maekawa",
-    "why": "all projects about him on ArchDaily",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
-    "site": "WikiArquitectura",
-    "title": "Kunio Maekawa",
-    "url": "https://en.wikiarquitectura.com/architect/kunio-maekawa/",
-    "why": "buildings with drawings and descriptions",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1825,13 +1755,6 @@
     "url": "https://www.pritzkerprize.com/laureates/2007",
     "why": "jury citation, biography and photos of works",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "Rogers Stirk Harbour + Partners",
-    "title": "Projects",
-    "url": "https://www.rsh-p.com/projects/",
-    "why": "the practice he founded, with its project list",
-    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "ArchDaily",
@@ -2175,13 +2098,6 @@
     "url": "https://www.archdaily.com/tag/gordon-bunshaft",
     "why": "all projects about him on ArchDaily",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "WikiArquitectura",
-    "title": "Gordon Bunshaft",
-    "url": "https://en.wikiarquitectura.com/architect/gordon-bunshaft/",
-    "why": "buildings with drawings and descriptions",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -2241,13 +2157,6 @@
     "url": "https://www.archdaily.com/tag/henry-hobson-richardson",
     "why": "all projects about him on ArchDaily",
     "checked": "2026-10-19"
-   },
-   {
-    "site": "WikiArquitectura",
-    "title": "H. H. Richardson",
-    "url": "https://en.wikiarquitectura.com/architect/henry-hobson-richardson/",
-    "why": "buildings with drawings and descriptions",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
