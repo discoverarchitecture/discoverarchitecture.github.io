@@ -1774,5 +1774,277 @@
    30.76472,
    120.76389
   ]
+ },
+ {
+  "id": "yuz-museum-shanghai",
+  "name": "Yuz Museum",
+  "by": "Sou Fujimoto",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Converted aircraft hangar at the former Longhua Airport; over 9,000 m2 with a main gallery above 3,000 m2.",
+  "status": "photo",
+  "commons_category": "Category:Yuz_Museum",
+  "photos": [
+   {
+    "file": "File:Yudeyao Meishuguan.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yuz_Museum_Shanghai",
+   "https://commons.wikimedia.org/wiki/Category:Yuz_Museum"
+  ],
+  "note": "Opened 17 May 2014 (Wikipedia names Sou Fujimoto as architect). Daylight view of the whole building; roadside railings and a road sit in front."
+ },
+ {
+  "id": "museum-of-the-communist-party-of-china",
+  "name": "Museum of the Communist Party of China",
+  "by": "Beijing Institute of Architectural Design",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Plan forms the character 'gong'; 28 pillars on the east and west sides stand for the years 1921-1949.",
+  "status": "photo",
+  "commons_category": "Category:Museum_of_the_Communist_Party_of_China",
+  "photos": [
+   {
+    "file": "File:Museum of the Communist Party of China (20211123140738).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_the_Communist_Party_of_China",
+   "https://commons.wikimedia.org/wiki/Category:Museum_of_the_Communist_Party_of_China"
+  ],
+  "note": "Built 2021 (finished 5 May 2021, opened 15 July 2021). Wikipedia names BIAD with Chang Shana leading the detail design. The photo shows the front with flags; a crash barrier runs along the bottom."
+ },
+ {
+  "id": "mercedes-benz-arena-shanghai",
+  "name": "Mercedes-Benz Arena (Expo Culture Center)",
+  "by": "ECADI, MANICA Architecture",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Nicknamed 'the Clam Shell' and 'the Hamburger'; the arena seats 18,000.",
+  "status": "photo",
+  "commons_category": "Category:Mercedes-Benz_Arena_(Shanghai)",
+  "photos": [
+   {
+    "file": "File:Expo Culture Center (4633171163).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Shanghai)",
+   "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_Arena_(Shanghai)"
+  ],
+  "note": "Built 2007 and opened 30 April 2010 as the Expo Culture Center (Wikipedia). The photo is from across the river, hazy daylight, building clear and complete.",
+  "coords": [
+   31.191291,
+   121.489391
+  ]
+ },
+ {
+  "id": "chengdu-museum",
+  "name": "Chengdu Museum",
+  "by": "Sutherland Hussey Harris, Pansolution",
+  "city": "Chengdu",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "New city museum won in an international competition; 65,000 m2 of floor area.",
+  "status": "photo",
+  "commons_category": "Category:Chengdu_Museum",
+  "photos": [
+   {
+    "file": "File:成都博物馆正门.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chengdu Museum 20260513-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chengdu_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Chengdu_Museum"
+  ],
+  "note": "Wikipedia names Sutherland Hussey Harris with Beijing's Pansolution (infobox lists only Sutherland Hussey Harris). The first photo has a few visitors at the base; the second has cars in the street in front.",
+  "coords": [
+   30.65973,
+   104.0612
+  ]
+ },
+ {
+  "id": "olympic-park-observation-tower",
+  "name": "Olympic Park Observation Tower",
+  "by": "Cui Kai, Li Cundong, Zhao Wenbin (China Architecture Design & Research Group)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Inspired by blades of grass; its five circular tops echo the Olympic rings.",
+  "status": "photo",
+  "commons_category": "Category:Olympic_Park_Observation_Tower",
+  "photos": [
+   {
+    "file": "File:20200109 Beijing Olympic Tower-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_Olympic_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Olympic_Park_Observation_Tower"
+  ],
+  "note": "Completed and opened August 2014 per the History section (the lead says 8 August 2015). A tall portrait photo with the base and a small red sign at the bottom.",
+  "coords": [
+   40.00651,
+   116.38784
+  ]
+ },
+ {
+  "id": "shanghai-library-east",
+  "name": "Shanghai Library East",
+  "by": "Schmidt Hammer Lassen Architects",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2022",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Free plan",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Open plan that gives most space to the community; its form refers abstractly to Taihu stones.",
+  "status": "photo",
+  "commons_category": "Category:Shanghai_Library_East_Hall",
+  "photos": [
+   {
+    "file": "File:Shanghai Library East-Exterior East-20250506.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Library",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Library_East_Hall"
+  ],
+  "note": "Opened 2022 (Wikipedia 'Shanghai Library' article covers this and the 1996 main building in Xuhui). Daylight view of the whole building from across a road with crosswalk and a few scooters."
+ },
+ {
+  "id": "shanghai-concert-hall",
+  "name": "Shanghai Concert Hall",
+  "by": "Fan Wenzhao",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1930",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "European-style hall of 1930, moved to a new site in 2008; seats 1,122.",
+  "status": "unsure",
+  "commons_category": "Category:Shanghai_Concert_Hall",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Concert_Hall"
+  ],
+  "note": "no main photo. Seen: a front view with pedestrians in the foreground and the hall small in the frame. Wikipedia: founded 1930 as Nanking Theatre; reopened on its relocated site 26 September 2008.",
+  "coords": [
+   31.2289056,
+   121.4728889
+  ]
+ },
+ {
+  "id": "sifang-art-museum",
+  "name": "Sifang Art Museum",
+  "by": "Steven Holl",
+  "city": "Nanjing",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "New premises opened in 2013 with a 3,000 m2 flexible exhibition area, a teahouse and a curator's residency.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sifang_Art_Museum"
+  ],
+  "note": "no free photo. Two Commons searches (category and file search) found nothing usable. Wikipedia gives only the 2013 opening; it lists the architect as Steven Holl but no Commons category."
  }
 ]
