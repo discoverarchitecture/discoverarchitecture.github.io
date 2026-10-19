@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 41-70 --buildings batch_03 --qids "SANAA=SANAA architecture firm,MVRDV=MVRDV,Coop Himmelb(l)au=Coop Himmelb(l)au,gmp Architekten=von Gerkan Marg and Partners"
+python -u tools/fetch_architect_sources.py --only "SANAA,gmp Architekten" --qids "gmp Architekten=Gerkan, Marg and Partners"
