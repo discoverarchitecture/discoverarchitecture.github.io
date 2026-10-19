@@ -1,2 +1,1 @@
-python -u tools/check_overview_links.py --files bios_02.json,bios_01.json
-# rerun after fixes
+python -u tools/fetch_architect_sources.py --ranks 41-70 --buildings batch_03 --qids "SANAA=SANAA architecture firm,MVRDV=MVRDV,Coop Himmelb(l)au=Coop Himmelb(l)au,gmp Architekten=von Gerkan Marg and Partners"
