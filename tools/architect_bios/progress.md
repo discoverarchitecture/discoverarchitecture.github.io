@@ -23,8 +23,12 @@
 - `results/bios_05.json` (19 Oct 2026), 30 architects, ranks 101–130. Bios 158–190 words. 205 facts, every one with a
   source; 2 are building attributions confirmed on Wikidata. Unsourced facts: 0. Links: 92 kept, all checked 19 Oct 2026 (two check runs).
 
+- `results/bios_06.json` (19 Oct 2026), 30 entries, ranks 131–160. Bios 166–190 words. 178 facts, every one with a
+  source; 5 are building attributions confirmed on Wikidata. Unsourced facts: 0. Links: 93 kept, all checked
+  19 Oct 2026 (two check runs).
+
 ## Skipped
-- None. Every architect in ranks 1–130 is a real person or practice with enough sources to write about.
+- None. Every architect in ranks 1–160 is a real person or practice with enough sources to write about.
 
 ## Links that failed and were left out
 - Encyclopaedia Britannica (all ten): answers automated checks with 403. Probably fine in a browser, but unchecked.
@@ -55,6 +59,31 @@
   covers the wall buildings filed under "Jørn". The data side may want to merge them.
 - The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
   (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
+
+## Batch 6 notes
+- Four entries have only two checked links: **Berthold Lubetkin and Tecton**, **Charles Girault**, **Henry N. Cobb**
+  and **Nayyar Ali Dada**. Historic England, the Royal Academy and Structurae answer the checker with 403; several
+  ArchDaily tag and Architectuul addresses do not exist.
+- **No qid**: **J. Mayer H.** (no Wikidata item found for the firm) and **Kevin Roche John Dinkeloo and Associates**
+  (none found either); both are written from the English articles on Jürgen Mayer and Roche-Dinkeloo.
+- **Grafton Architects** has no English article of its own; it is written from the articles on its founders,
+  Shelley McNamara and Yvonne Farrell (Wikidata Q69570584).
+- Pairs on the wall written as separate pages without repeating each other: **Berthold Lubetkin** (the man, his
+  four wall buildings) and **Berthold Lubetkin and Tecton** (the group, its four); **Kevin Roche** (the man) and
+  **Kevin Roche John Dinkeloo and Associates** (the firm). **Behnisch Architekten** (Stefan Behnisch's firm) is kept
+  apart from Behnisch & Partner in batch 5.
+- Tecton's end date: its own article says it disbanded in 1939, Lubetkin's that it was dissolved in 1948. Both are
+  given in the text and `born_died` is "1932–1948"; the data side may prefer "founded 1932".
+- David Adjaye: the 2023 sexual assault and harassment allegations are stated in one plain sentence, with his denial
+  and the fact that no charges were brought, as earlier batches did for similar matters.
+- Wall buildings not named: SantralIstanbul (Arolat), Novocomum (Terragni), Lister County Courthouse (Asplund) and
+  Friendship Hospital Satkhira (Chowdhury) for want of a source; Gaddafi Stadium (Nayyar Ali Dada) is sourced but was
+  cut to keep the bio within 190 words.
+- Disagreements, noted on the facts: Enric Miralles's birth day (12 or 25 February 1955), Henry van de Velde's death
+  day (15 or 25 October 1957), Gerrit Rietveld's birth date (the article gives two); Frei Otto's
+  Royal Gold Medal (2006 on Wikipedia, 2005 on Wikidata); Nayyar Ali Dada's Alhamra (1981 in his list, 1992 completion);
+  and building years that differ from the wall (Gorilla House, Dutch Pavilion, Santa Caterina, Santa Fe Federal,
+  Central Library UNAM, The Pyramids, Boekentoren, Royal Collections Gallery, Castellón, Sheraton Huzhou).
 
 ## Batch 5 notes
 - Four entries have only two checked links: **Hiroshi Hara** (his office site does not answer; Archiweb's page does
