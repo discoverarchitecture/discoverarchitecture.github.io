@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-10-19T12:57:59+00:00",
+ "fetched_at": "2026-10-19T15:18:48+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 277,
+ "visits_30d": 281,
  "sections": {
   "pages": {
    "hits": [
@@ -52,6 +52,14 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112793901,
+     "path": "/buildings/zarya-vostoka-building",
+     "event": false,
+     "title": "Zarya Vostoka building \u2014 David Chisliev, 1931: photos",
      "max": 1
     },
     {
@@ -148,6 +156,30 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113007284,
+     "path": "/buildings/jacobs-ii-house-solar-hemicycle",
+     "event": false,
+     "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113004058,
+     "path": "/buildings/los-manantiales-restaurant",
+     "event": false,
+     "title": "Los Manantiales Restaurant \u2014 F\u00e9lix Candela, 1958",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 112985791,
+     "path": "/buildings/national-theatre-lagos",
+     "event": false,
+     "title": "National Theatre, Lagos, 1976: photos",
      "max": 1
     },
     {
@@ -364,14 +396,6 @@
      "path": "/buildings/hohenhof",
      "event": false,
      "title": "Hohenhof \u2014 Henry van de Velde, 1908: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112793901,
-     "path": "/buildings/zarya-vostoka-building",
-     "event": false,
-     "title": "Zarya Vostoka building \u2014 David Chisliev, 1931: photos",
      "max": 1
     },
     {
@@ -781,33 +805,9 @@
      "event": false,
      "title": "Tempodrom \u2014 gmp (von Gerkan, Marg and Partners), 2001",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112452407,
-     "path": "building/state-kremlin-palace",
-     "event": true,
-     "title": "State Kremlin Palace",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112451079,
-     "path": "/buildings/zetra-olympic-hall-sarajevo",
-     "event": false,
-     "title": "Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall)",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112449331,
-     "path": "/buildings/aiwan-e-sadr",
-     "event": false,
-     "title": "Aiwan-e-Sadr (Presidential Palace), 1981: photos",
-     "max": 1
     }
    ],
-   "total": 227,
+   "total": 228,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 104,
+     "count": 107,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 79,
+     "count": 80,
      "ref_scheme": "o"
     },
     {
@@ -885,12 +885,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 174
+     "count": 175
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 95
+     "count": 98
     },
     {
      "id": "Firefox",
@@ -910,12 +910,12 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 73
+     "count": 74
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 35
+     "count": 37
     },
     {
      "id": "Android",
@@ -925,7 +925,7 @@
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 26
+     "count": 27
     }
    ],
    "more": false
@@ -940,12 +940,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 69
+     "count": 71
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 17
+     "count": 19
     },
     {
      "id": "AU",
@@ -1145,17 +1145,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 99
+     "count": 100
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 22
+     "count": 23
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 151
+     "count": 153
     },
     {
      "id": "desktophd",
@@ -1175,7 +1175,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 277
+     "count": 281
     }
    ],
    "more": false
