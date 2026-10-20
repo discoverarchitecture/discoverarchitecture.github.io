@@ -16,7 +16,14 @@ The site is a wall for architecture students worldwide (Western countries first)
 student would study it:
 - modern, contemporary, parametric, brutalist or regionalist work, or a key historic precedent;
 - the lead names an architect and says why it matters (a first, a prize, a famous architect's key work, a named
-  movement).
+  movement);
+- **or** prep.json's `architect` names a well-known architect (one with other buildings on the wall, such as Ando,
+  Wright, Mies, SANAA, Kuma, Ito, Niemeyer, Maki, Johnson) and this is one of their built works, even when the lead
+  is short. A short lead is not a reason to skip. (Second test, 20 Oct: 21 of 68 skips were good buildings skipped
+  only because the lead was short.)
+
+Check the year: use the year the building was completed or opened, not a foundation stone or an older building
+on the same site; if the lead says so, follow the lead.
 
 **Skip:**
 - Ordinary stadiums, arenas, airports, office towers, hotels, malls and housing, unless the lead gives such a reason.
