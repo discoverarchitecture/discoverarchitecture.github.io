@@ -30361,18 +30361,6 @@ window.BUILDINGS = [
     "file": "File:Borobudur Sunrise 2012-01-05.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Borobudur_%28Central_Java%2C_Indonesia%29_%2851112185293%29.jpg/1280px-Borobudur_%28Central_Java%2C_Indonesia%29_%2851112185293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/borobudur/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Borobudur (Central Java, Indonesia)",
-    "credit": "Sasha India",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_(Central_Java,_Indonesia)_(51112185293).jpg",
-    "file": "File:Borobudur (Central Java, Indonesia) (51112185293).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Poort_met_reli%C3%ABfs_van_de_Borobudur_%28Boroboedoer%29%2C_nabij_Magelang%2C_Nederlands-Indi%C3%AB._78._Boroboedoer_%28titel_op_object%29%2C_RP-F-00-5346-85.jpg/1280px-Poort_met_reli%C3%ABfs_van_de_Borobudur_%28Boroboedoer%29%2C_nabij_Magelang%2C_Nederlands-Indi%C3%AB._78._Boroboedoer_%28titel_op_object%29%2C_RP-F-00-5346-85.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/borobudur/thumbs/4.webp",
     "w": 1044,
@@ -86508,18 +86496,6 @@ window.BUILDINGS = [
     "file": "File:Ascension de la tour Eiffel par les escaliers.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Budapest_P%C3%A1rizsi_Nagy_%C3%81ruh%C3%A1z_829.jpg/1280px-Budapest_P%C3%A1rizsi_Nagy_%C3%81ruh%C3%A1z_829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Buchhandlung Alexandra im ehemaligen Kaufhaus Divatcsarnok am Boulevard Andrássy út in Budapest (Ungarn)",
-    "credit": "GFreihalter",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Budapest_P%C3%A1rizsi_Nagy_%C3%81ruh%C3%A1z_829.jpg",
-    "file": "File:Budapest Párizsi Nagy Áruház 829.jpg"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Eiffel_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/eiffel-tower/thumbs/6.webp",
     "w": 667,
@@ -98802,30 +98778,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_barricade_Washington_DC_2026-09-21_08-59-25.jpg",
     "file": "File:Kennedy Center barricade Washington DC 2026-09-21 08-59-25.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Kennedy_Center_behind_Barren_Winter_Vegetation_5.jpg/1280px-Kennedy_Center_behind_Barren_Winter_Vegetation_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kennedy-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Theodore Roosevelt Island",
-    "credit": "Amaury Laporte",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_behind_Barren_Winter_Vegetation_5.jpg",
-    "file": "File:Kennedy Center behind Barren Winter Vegetation 5.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kennedy_Center_behind_Barren_Winter_Vegetation.jpg/1280px-Kennedy_Center_behind_Barren_Winter_Vegetation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kennedy-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Theodore Roosevelt Island",
-    "credit": "Amaury Laporte",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_behind_Barren_Winter_Vegetation.jpg",
-    "file": "File:Kennedy Center behind Barren Winter Vegetation.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kennedy_Center_Grand_Foyer.JPG/1280px-Kennedy_Center_Grand_Foyer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
