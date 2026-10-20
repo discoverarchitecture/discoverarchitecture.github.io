@@ -61,6 +61,9 @@
     "File:Barcelona-Pavillon, July 2014 (04).JPG",
     "Detail"
    ]
+  ],
+  "drawings": [
+   "File:Plan Barcelona Pavillon.png"
   ]
  },
  "bauhaus-dessau": {
@@ -1096,6 +1099,12 @@
     "File:Approaching Farnsworth House by Mies Van Der Rohe-3.jpg",
     "Context"
    ]
+  ],
+  "drawings": [
+   "File:Plan - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 3 of 8).tif",
+   "File:Plan and North, East and South Elevations of Core, and Section - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 6 of 8).tif",
+   "File:Details of Walls, Window and Columns - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 8 of 8).tif",
+   "File:Bathroom Elevations, Wardrobe Plans and Details, and Stair Section Details - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 7 of 8).tif"
   ]
  },
  "s-r-crown-hall": {
@@ -1880,6 +1889,9 @@
   ],
   "skip": [
    "File:Nakagin-capsule-tower36 (3767734898).jpg"
+  ],
+  "drawings": [
+   "File:Nakaginshaft.jpg"
   ]
  },
  "cept-university": {
@@ -3696,6 +3708,9 @@
    "File:Histoire des Arts à travers les Âges. (Partie de droite - repères -42 à -31 - Renaissance, Femme couronnée ; Italie-Pise - détail - Personnages derrière le char - homme en capuche) - dessin - btv1b53095106s.jpg",
    "File:(Salon nautique 1928 au Grand Palais) voilier Auroux, 12 m - btv1b532074929.jpg",
    "File:(Salon nautique 1928 au Grand Palais) voilier Janin Cady à moteur auxiliaire - btv1b53207491v.jpg"
+  ],
+  "drawings": [
+   "File:Plan of space for Wellcome exhibits, Paris 1937 Wellcome M0004548.jpg"
   ]
  },
  "rashtrapati-bhavan": {
@@ -11407,6 +11422,9 @@
    "File:China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 01.jpg",
    "File:Sun Yat-sen Mausoleum (710305594).jpg",
    "File:Nanjing - Sun Yat-sen Mausoleum - View 02.jpg"
+  ],
+  "drawings": [
+   "File:Lu Yanzhi's Design of Sun Yat-sen's Mausoleum 2.jpg"
   ]
  },
  "chiang-kai-shek-memorial-hall": {
@@ -13840,6 +13858,9 @@
    "File:Facciata della Stazione Centrale di Milano nel 2016.jpg",
    "File:Facciata Stazione Centrale di Milano.jpg",
    "File:Milan CentralStation 016 4294.jpg"
+  ],
+  "drawings": [
+   "File:Pianta FV Milano Centrale.jpg"
   ]
  },
  "stadio-olimpico-roma": {
@@ -14769,6 +14790,11 @@
     198923,
     "Drawing"
    ]
+  ],
+  "drawings": [
+   "File:Wollaton Hall - plan.png",
+   "File:Wollaton Hall ground plan, 1901.jpg",
+   "File:Wollaton Hall plan.jpg"
   ]
  },
  "our-dynamic-earth-edinburgh": {
@@ -16610,6 +16636,9 @@
    "File:Royal Palace, Amsterdam (33246354178).jpg",
    "File:Royal Palace, Amsterdam (7474827354).jpg",
    "File:Amsterdam Royal Palace (9837332155).jpg"
+  ],
+  "drawings": [
+   "File:Goetghebuer - 1827 - Choix des monuments - 059 Plan Palais Royal Amsterdam.jpg"
   ]
  },
  "lovink-pumping-station": {
@@ -21956,6 +21985,11 @@
  "robie-house": {
   "skip": [
    "File:Frank Lloyd Wright Chair 03.jpg"
+  ],
+  "drawings": [
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 1 of 1).tif",
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 14).png",
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 10).png"
   ]
  },
  "toronto-dominion-centre": {
@@ -23332,6 +23366,11 @@
   "skip": [
    "File:Lettre autographe signée d'Henry Maret à Cesare Corti, Paris, 26 novembre 1890 (manuscrit autographe) - btv1b531166167.jpg",
    "File:20170706 MilanoScala 9342 (36607973931).jpg"
+  ],
+  "drawings": [
+   "File:Scala4.JPG",
+   "File:Scala3.JPG",
+   "File:Scala5.JPG"
   ]
  },
  "lisbon-oceanarium": {
@@ -28207,6 +28246,34 @@
   "skip": [
    "File:NAGOYA Spiral Towers - flickr 33394733682 00a34fdb34 o.jpg",
    "File:230616 Nagoya Mode Academy Spiral Towers at night.jpg"
+  ]
+ },
+ "twa-flight-center": {
+  "drawings": [
+   "File:Flight Wing No. 2 - Section, Elevation and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens HABS NY-6371 (sheet 27 of 32).png",
+   "File:Basement Floor Plan - North Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 6 of 32).png",
+   "File:Basement Floor Plan - South Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 7 of 32).png",
+   "File:Enlarged Stair Plan and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 30 of 32).png"
+  ]
+ },
+ "braga-municipal-stadium": {
+  "drawings": [
+   "File:Eduardo Souto de Moura - Braga Stadium Drawings 01 - Sketch (6010611886).jpg"
+  ]
+ },
+ "mole-antonelliana": {
+  "drawings": [
+   "File:Turin. The Mole Antonelliana, section as of 1973 2009 - Touring Club Italiano GR Torino-0246.tif"
+  ]
+ },
+ "djinguereber-mosque": {
+  "drawings": [
+   "File:Gezicht op en plattegrond van de Djinguereber-moskee te Timboektoe, RP-P-2018-3756.jpg"
+  ]
+ },
+ "shah-mosque-isfahan": {
+  "drawings": [
+   "File:Masjid Shah, General Plan by Pascal Coste.jpg"
   ]
  }
 }
