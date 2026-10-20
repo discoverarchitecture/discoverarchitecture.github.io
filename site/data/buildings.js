@@ -4884,30 +4884,6 @@ window.BUILDINGS = [
     "file": "File:Sydney Harbour Bridge and Sydney Opera House panorama.jpg"
    },
    {
-    "src": "images/sydney-opera-house/8.webp",
-    "thumb": "images/sydney-opera-house/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Maqueta del edificio de la Ópera de Sydney",
-    "credit": "Plindberg",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maqueta_de_la_%C3%B3pera_de_Sydney.jpg",
-    "file": "File:Maqueta de la ópera de Sydney.jpg"
-   },
-   {
-    "src": "images/sydney-opera-house/9.webp",
-    "thumb": "images/sydney-opera-house/thumbs/9.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Photographic Collection  from Australia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Longitudinal_Section_Through_Major_Hall_(Sydney_Opera_House)_(5373322093).jpg",
-    "file": "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg"
-   },
-   {
     "src": "images/sydney-opera-house/10.webp",
     "thumb": "images/sydney-opera-house/thumbs/10.webp",
     "w": 1280,
@@ -4930,6 +4906,30 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stage_Machinery_Plan_(Sydney_Opera_House)_(5373921032)_(3).jpg",
     "file": "File:Stage Machinery Plan (Sydney Opera House) (5373921032) (3).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/9.webp",
+    "thumb": "images/sydney-opera-house/thumbs/9.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Photographic Collection  from Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Longitudinal_Section_Through_Major_Hall_(Sydney_Opera_House)_(5373322093).jpg",
+    "file": "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/8.webp",
+    "thumb": "images/sydney-opera-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Maqueta del edificio de la Ópera de Sydney",
+    "credit": "Plindberg",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maqueta_de_la_%C3%B3pera_de_Sydney.jpg",
+    "file": "File:Maqueta de la ópera de Sydney.jpg"
    }
   ],
   "commons": "Category:Sydney Opera House",
@@ -10584,18 +10584,6 @@ window.BUILDINGS = [
     "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 22.jpg"
    },
    {
-    "src": "images/alhambra/2.webp",
-    "thumb": "images/alhambra/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
-    "credit": "Wikiolo",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
-    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
-   },
-   {
     "src": "images/alhambra/3.webp",
     "thumb": "images/alhambra/thumbs/3.webp",
     "w": 1280,
@@ -10654,6 +10642,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Meisterwerk_maurischer_Kunst_und_Architektur%22._07.jpg",
     "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 07.jpg"
+   },
+   {
+    "src": "images/alhambra/2.webp",
+    "thumb": "images/alhambra/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
+    "credit": "Wikiolo",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
+    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
    },
    {
     "src": "images/alhambra/8.webp",
@@ -30352,18 +30352,6 @@ window.BUILDINGS = [
     "file": "File:Gaanderij van de Borobudur (Boroboedoer), nabij Magelang, Nederlands-Indië 79. Boroboedoer (titel op object), RP-F-00-5346-86.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Borobudur_temple_natural_park.jpg/1280px-Borobudur_temple_natural_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/borobudur/thumbs/2.webp",
-    "w": 1280,
-    "h": 722,
-    "kind": "Exterior",
-    "caption": "Exterior · Natural and beautiful park around the relic of Borobudur Temple",
-    "credit": "Dwi setiyo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_temple_natural_park.jpg",
-    "file": "File:Borobudur temple natural park.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Borobudur_Sunrise_2012-01-05.jpg/1280px-Borobudur_Sunrise_2012-01-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/borobudur/thumbs/3.webp",
     "w": 1280,
@@ -30412,6 +30400,18 @@ window.BUILDINGS = [
     "file": "File:Borobudur Ground Plan.png"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Borobudur_Half_Cross_Section.png/1280px-Borobudur_Half_Cross_Section.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borobudur/thumbs/9.webp",
+    "w": 1280,
+    "h": 753,
+    "kind": "Section",
+    "caption": "Section · Half cross section of en:Borobudur ",
+    "credit": "en:User:Indon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_Half_Cross_Section.png",
+    "file": "File:Borobudur Half Cross Section.png"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/A_beautiful_small_replica_of_the_Borobudur_temple..jpg/1280px-A_beautiful_small_replica_of_the_Borobudur_temple..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/borobudur/thumbs/7.webp",
     "w": 1280,
@@ -30434,18 +30434,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Plattegrond_van_de_Borobudur_TMnr_10015639.jpg",
     "file": "File:COLLECTIE TROPENMUSEUM Plattegrond van de Borobudur TMnr 10015639.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Borobudur_Half_Cross_Section.png/1280px-Borobudur_Half_Cross_Section.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/borobudur/thumbs/9.webp",
-    "w": 1280,
-    "h": 753,
-    "kind": "Section",
-    "caption": "Section · Half cross section of en:Borobudur ",
-    "credit": "en:User:Indon",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_Half_Cross_Section.png",
-    "file": "File:Borobudur Half Cross Section.png"
    }
   ],
   "has": [
@@ -79689,18 +79677,6 @@ window.BUILDINGS = [
     "file": "File:Hungarian Parliament Building (42253966294).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/IMG_0145_-_Hungary%2C_Pest_-_Parliament_%28Orsz%C3%A1gh%C3%A1z%29_-_Recreation_from_Matchboxes.JPG/1280px-IMG_0145_-_Hungary%2C_Pest_-_Parliament_%28Orsz%C3%A1gh%C3%A1z%29_-_Recreation_from_Matchboxes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hungarian-parliament-building/thumbs/6.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Model of the Hungarian Parliament Building (Országház), located within the real building",
-    "credit": "Andrew Bossi",
-    "license": "CC BY-SA 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:IMG_0145_-_Hungary,_Pest_-_Parliament_(Orsz%C3%A1gh%C3%A1z)_-_Recreation_from_Matchboxes.JPG",
-    "file": "File:IMG 0145 - Hungary, Pest - Parliament (Országház) - Recreation from Matchboxes.JPG"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/1911_Britannica-Architecture-Parliament_of_Hungary_Plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/hungarian-parliament-building/thumbs/7.webp",
     "w": 846,
@@ -79711,6 +79687,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:1911_Britannica-Architecture-Parliament_of_Hungary_Plan.png",
     "file": "File:1911 Britannica-Architecture-Parliament of Hungary Plan.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/IMG_0145_-_Hungary%2C_Pest_-_Parliament_%28Orsz%C3%A1gh%C3%A1z%29_-_Recreation_from_Matchboxes.JPG/1280px-IMG_0145_-_Hungary%2C_Pest_-_Parliament_%28Orsz%C3%A1gh%C3%A1z%29_-_Recreation_from_Matchboxes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hungarian-parliament-building/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Model of the Hungarian Parliament Building (Országház), located within the real building",
+    "credit": "Andrew Bossi",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:IMG_0145_-_Hungary,_Pest_-_Parliament_(Orsz%C3%A1gh%C3%A1z)_-_Recreation_from_Matchboxes.JPG",
+    "file": "File:IMG 0145 - Hungary, Pest - Parliament (Országház) - Recreation from Matchboxes.JPG"
    }
   ],
   "has": [
@@ -86540,16 +86528,28 @@ window.BUILDINGS = [
     "file": "File:Ascension de la tour Eiffel par les escaliers.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Sabaneta_Eiffel_Tower.jpg/1280px-Sabaneta_Eiffel_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/5.webp",
-    "w": 1050,
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Eiffel_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/eiffel-tower/thumbs/8.webp",
+    "w": 667,
     "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Eiffel tower replica built in Sabaneta, Antioquia in Colombia inside the Residential Unit \"Paris\"",
-    "credit": "Jpssnd",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sabaneta_Eiffel_Tower.jpg",
-    "file": "File:Sabaneta Eiffel Tower.jpg"
+    "kind": "Elevation",
+    "caption": "Elevation · Plan of the 300m Eiffel tower",
+    "credit": "E. Monod",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_plan.jpg",
+    "file": "File:Eiffel plan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Skizze_Eiffelturm_-_technische_Daten.png/1280px-Skizze_Eiffelturm_-_technische_Daten.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/eiffel-tower/thumbs/9.webp",
+    "w": 996,
+    "h": 1400,
+    "kind": "Elevation",
+    "caption": "Elevation · Drawing of Eiffeltower with technical data",
+    "credit": "Alabasterstein  based on  File:Eiffel tower.svg",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skizze_Eiffelturm_-_technische_Daten.png",
+    "file": "File:Skizze Eiffelturm - technische Daten.png"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Miniature_Eiffel_Tower_in_Homie%C4%BA_%281%29.jpg/1280px-Miniature_Eiffel_Tower_in_Homie%C4%BA_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -86574,30 +86574,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_au_1er_Juin_1888_vue_depuis_le_quai_de_Grenelle_%C3%A0_l%27angle_de_la_rue_de_la_F%C3%A9d%C3%A9ration,_15%C3%A8me_arrondissemen,_D.12333.jpg",
     "file": "File:La Tour Eiffel au 1er Juin 1888 vue depuis le quai de Grenelle à l'angle de la rue de la Fédération, 15ème arrondissemen, D.12333.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Eiffel_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/eiffel-tower/thumbs/8.webp",
-    "w": 667,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation · Plan of the 300m Eiffel tower",
-    "credit": "E. Monod",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_plan.jpg",
-    "file": "File:Eiffel plan.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Skizze_Eiffelturm_-_technische_Daten.png/1280px-Skizze_Eiffelturm_-_technische_Daten.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/9.webp",
-    "w": 996,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation · Drawing of Eiffeltower with technical data",
-    "credit": "Alabasterstein  based on  File:Eiffel tower.svg",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Skizze_Eiffelturm_-_technische_Daten.png",
-    "file": "File:Skizze Eiffelturm - technische Daten.png"
    }
   ],
   "has": [
@@ -98835,30 +98811,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_barricade_Washington_DC_2026-09-21_08-59-25.jpg",
     "file": "File:Kennedy Center barricade Washington DC 2026-09-21 08-59-25.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Kennedy_Center_behind_Barren_Winter_Vegetation_2.jpg/1280px-Kennedy_Center_behind_Barren_Winter_Vegetation_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kennedy-center/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Theodore Roosevelt Island",
-    "credit": "Amaury Laporte",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_behind_Barren_Winter_Vegetation_2.jpg",
-    "file": "File:Kennedy Center behind Barren Winter Vegetation 2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kennedy_Center_behind_Barren_Winter_Vegetation_3.jpg/1280px-Kennedy_Center_behind_Barren_Winter_Vegetation_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kennedy-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Theodore Roosevelt Island",
-    "credit": "Amaury Laporte",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_behind_Barren_Winter_Vegetation_3.jpg",
-    "file": "File:Kennedy Center behind Barren Winter Vegetation 3.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kennedy_Center_Grand_Foyer.JPG/1280px-Kennedy_Center_Grand_Foyer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -206410,6 +206362,18 @@ window.BUILDINGS = [
     "file": "File:20200110 Hall of Military Eminence-2.jpg"
    },
    {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hsiang_Fei_%28plan_of_the_Forbidden_City%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/forbidden-city/thumbs/8.webp",
+    "w": 1200,
+    "h": 1248,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hsiang_Fei_(plan_of_the_Forbidden_City).jpg",
+    "file": "File:Hsiang Fei (plan of the Forbidden City).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Imperial_Palace%2C_Pekin%2C_by_William_Simpson_%281823%E2%80%931899%29.png/1280px-The_Imperial_Palace%2C_Pekin%2C_by_William_Simpson_%281823%E2%80%931899%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/forbidden-city/thumbs/6.webp",
     "w": 1280,
@@ -206432,18 +206396,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Forbidden_City_model.jpg",
     "file": "File:Forbidden City model.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hsiang_Fei_%28plan_of_the_Forbidden_City%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/forbidden-city/thumbs/8.webp",
-    "w": 1200,
-    "h": 1248,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Hsiang_Fei_(plan_of_the_Forbidden_City).jpg",
-    "file": "File:Hsiang Fei (plan of the Forbidden City).jpg"
    }
   ],
   "has": [
@@ -225890,18 +225842,6 @@ window.BUILDINGS = [
     "file": "File:Brighton - Royal Pavilion - 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Drawing%2C_Window_Alcove%2C_1802_%28CH_18610061%29.jpg/1280px-Drawing%2C_Window_Alcove%2C_1802_%28CH_18610061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/royal-pavilion-brighton/thumbs/6.webp",
-    "w": 1280,
-    "h": 1025,
-    "kind": "Drawing",
-    "caption": "Drawing · Design for the Royal Pavilion, Brighton",
-    "credit": "Unknown artist",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Drawing,_Window_Alcove,_1802_(CH_18610061).jpg",
-    "file": "File:Drawing, Window Alcove, 1802 (CH 18610061).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Drawing%2C_Wall_Elevation%2C_probably_for_the_Banqueting_Room%2C_Royal_Pavilion%2C_Brighton%2C_1815%E2%80%9322_%28CH_18609969%29.jpg/1280px-Drawing%2C_Wall_Elevation%2C_probably_for_the_Banqueting_Room%2C_Royal_Pavilion%2C_Brighton%2C_1815%E2%80%9322_%28CH_18609969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/royal-pavilion-brighton/thumbs/7.webp",
     "w": 1280,
@@ -225936,6 +225876,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Drawing,_Entrance_Hall,_West_Wall,_Royal_Pavilion,_Brighton,_1802_or_earlier_(CH_18609981).jpg",
     "file": "File:Drawing, Entrance Hall, West Wall, Royal Pavilion, Brighton, 1802 or earlier (CH 18609981).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Drawing%2C_Window_Alcove%2C_1802_%28CH_18610061%29.jpg/1280px-Drawing%2C_Window_Alcove%2C_1802_%28CH_18610061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/royal-pavilion-brighton/thumbs/6.webp",
+    "w": 1280,
+    "h": 1025,
+    "kind": "Drawing",
+    "caption": "Drawing · Design for the Royal Pavilion, Brighton",
+    "credit": "Unknown artist",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Drawing,_Window_Alcove,_1802_(CH_18610061).jpg",
+    "file": "File:Drawing, Window Alcove, 1802 (CH 18610061).jpg"
    }
   ],
   "has": [
@@ -232530,30 +232482,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:At_London_2025_566_-_Westminster_Bridge_with_Palace_of_Westminster_.jpg",
     "file": "File:At London 2025 566 - Westminster Bridge with Palace of Westminster .jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Jerry_Buttimer_with_Lord_Speaker_%282%29.jpg/1280px-Jerry_Buttimer_with_Lord_Speaker_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-westminster/thumbs/4.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Houses of the Oireachtas",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jerry_Buttimer_with_Lord_Speaker_(2).jpg",
-    "file": "File:Jerry Buttimer with Lord Speaker (2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Jerry_Buttimer_with_Lord_Speaker_%283%29.jpg/1280px-Jerry_Buttimer_with_Lord_Speaker_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-westminster/thumbs/5.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Houses of the Oireachtas",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jerry_Buttimer_with_Lord_Speaker_(3).jpg",
-    "file": "File:Jerry Buttimer with Lord Speaker (3).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Westminster_Clock_%28Big_Ben%29_%E2%80%93_mechanism_plan%2C_c.1854_%28design_by_Edmund_Beckett_Denison%3B_made_by_E_J_Dent%29.png/1280px-Westminster_Clock_%28Big_Ben%29_%E2%80%93_mechanism_plan%2C_c.1854_%28design_by_Edmund_Beckett_Denison%3B_made_by_E_J_Dent%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -259305,18 +259233,6 @@ window.BUILDINGS = [
     "file": "File:Hagia Sophia-height of columns-piers and diameter of dome.png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Saint_Sophia%2C_Constantinopolis.jpg/1280px-Saint_Sophia%2C_Constantinopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hagia-sophia/thumbs/8.webp",
-    "w": 1280,
-    "h": 741,
-    "kind": "Elevation",
-    "caption": "Elevation · Saint Sophia, Constantinopolis",
-    "credit": "Wilhelm Salzenberg (* 20. Januar 1803 in Münster; † 23. Oktober 1887 in Vernex-Montreux, Schweiz)\n \n",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Saint_Sophia,_Constantinopolis.jpg",
-    "file": "File:Saint Sophia, Constantinopolis.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/29a_Coupe_longitudinale_et_vue_sur_l%27atrium.png/1280px-29a_Coupe_longitudinale_et_vue_sur_l%27atrium.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hagia-sophia/thumbs/9.webp",
     "w": 1280,
@@ -259327,6 +259243,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:29a_Coupe_longitudinale_et_vue_sur_l%27atrium.png",
     "file": "File:29a Coupe longitudinale et vue sur l'atrium.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Saint_Sophia%2C_Constantinopolis.jpg/1280px-Saint_Sophia%2C_Constantinopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia/thumbs/8.webp",
+    "w": 1280,
+    "h": 741,
+    "kind": "Elevation",
+    "caption": "Elevation · Saint Sophia, Constantinopolis",
+    "credit": "Wilhelm Salzenberg (* 20. Januar 1803 in Münster; † 23. Oktober 1887 in Vernex-Montreux, Schweiz)\n \n",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint_Sophia,_Constantinopolis.jpg",
+    "file": "File:Saint Sophia, Constantinopolis.jpg"
    }
   ],
   "has": [
@@ -260623,6 +260551,18 @@ window.BUILDINGS = [
     "file": "File:پرگرام تاجگذاری اعلیحضرت همایون شاهنشاهی 09.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Plan_du_palais_du_Golestan_T%C3%A9h%C3%A9ran.jpg/1280px-Plan_du_palais_du_Golestan_T%C3%A9h%C3%A9ran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/golestan-palace/thumbs/9.webp",
+    "w": 1280,
+    "h": 651,
+    "kind": "Plan",
+    "caption": "Plan · map of Golestan Palace in Tehran",
+    "credit": "ChristianeB",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_du_palais_du_Golestan_T%C3%A9h%C3%A9ran.jpg",
+    "file": "File:Plan du palais du Golestan Téhéran.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Golestan_Palace_Drawing.jpg/1280px-Golestan_Palace_Drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/golestan-palace/thumbs/7.webp",
     "w": 996,
@@ -260645,18 +260585,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Interior_view_of_the_marble_throne_by_Eug%C3%A8ne_Flandin.jpg",
     "file": "File:Interior view of the marble throne by Eugène Flandin.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Plan_du_palais_du_Golestan_T%C3%A9h%C3%A9ran.jpg/1280px-Plan_du_palais_du_Golestan_T%C3%A9h%C3%A9ran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/golestan-palace/thumbs/9.webp",
-    "w": 1280,
-    "h": 651,
-    "kind": "Plan",
-    "caption": "Plan · map of Golestan Palace in Tehran",
-    "credit": "ChristianeB",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Plan_du_palais_du_Golestan_T%C3%A9h%C3%A9ran.jpg",
-    "file": "File:Plan du palais du Golestan Téhéran.jpg"
    }
   ],
   "has": [

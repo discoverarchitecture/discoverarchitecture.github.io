@@ -271,7 +271,7 @@ def eligible(b, files, info, skip=(), boost=(), soft=()):
         lic = strip(meta.get('LicenseShortName')) or strip(meta.get('UsageTerms'))
         kind = KIND_FIX.get(t) or describe(t, hint, meta, i.get('cats', ''), b['place'].split(',')[0] if b else '')
         drawing = kind in DRAWINGS
-        if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif') if drawing else ('image/jpeg', 'image/png')):
+        if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif', 'image/tiff') if drawing else ('image/jpeg', 'image/png')):
             continue
         if max(i.get('width', 0), i.get('height', 0)) < (700 if drawing else SMALL_PX):
             continue
@@ -564,11 +564,10 @@ def main():
                 if p:
                     picks.remove(p)
                     picks.insert(0, p)
-            extra = [t for t in ch.get('drawings', []) if t not in {p['title'] for p in picks}]
-            if extra:  # drawings checked by eye (tools/drawings): always kept, after the photos, never the lead
-                info = infos(extra)
-                got = {p['title']: p for p in eligible(b, [(t, '') for t in extra], info) if p['kind'] in DRAWINGS}
-                picks += [got[t] for t in extra if t in got]
+            if ch.get('drawings'):  # drawings checked by eye (tools/drawings) replace the automatic ones, after the photos
+                want = ch['drawings']
+                got = {p['title']: p for p in eligible(b, [(t, '') for t in want], infos(want)) if p['kind'] in DRAWINGS}
+                picks = [p for p in picks if p['kind'] not in DRAWINGS] + [got[t] for t in want if t in got]
             if not picks and b.get('images'):  # nothing usable now: keep what's there (photos, or our drawing)
                 print('    no free photos found; keeping the current gallery')
                 b['gv'] = GALLERY_VERSION
