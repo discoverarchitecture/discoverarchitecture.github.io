@@ -1,2 +1,2 @@
---only empire-state-building,brooklyn-museum,westminster-cathedral,flatiron-building
-Four buildings from the Haiku experiment (checked by Sonnet and Opus).
+--only sagrada-familia,taj-mahal,eiffel-tower,hagia-sophia,angkor-wat,kennedy-center,forbidden-city,alhambra,palace-of-westminster,chrysler-building,sydney-opera-house,borobudur,altare-della-patria,palais-garnier,st-pancras-railway-station,golestan-palace,hungarian-parliament-building,watergate-complex,chateau-frontenac,royal-pavilion-brighton
+Drawings checked by eye for 20 of the most-studied buildings.
