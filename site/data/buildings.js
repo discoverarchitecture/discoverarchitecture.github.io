@@ -10583,6 +10583,18 @@ window.BUILDINGS = [
     "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 22.jpg"
    },
    {
+    "src": "images/alhambra/2.webp",
+    "thumb": "images/alhambra/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
+    "credit": "Wikiolo",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
+    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
+   },
+   {
     "src": "images/alhambra/3.webp",
     "thumb": "images/alhambra/thumbs/3.webp",
     "w": 1280,
@@ -10633,26 +10645,14 @@ window.BUILDINGS = [
    {
     "src": "images/alhambra/7.webp",
     "thumb": "images/alhambra/thumbs/7.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Detail",
-    "caption": "Detail · Tour of the Alhambra",
-    "credit": "Holger Uwe Schmitt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%22Ein_Meisterwerk_maurischer_Kunst_und_Architektur%22._07.jpg",
-    "file": "File:\"Ein Meisterwerk maurischer Kunst und Architektur\". 07.jpg"
-   },
-   {
-    "src": "images/alhambra/2.webp",
-    "thumb": "images/alhambra/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Barrio Castrense of Alhambra in January 2025, picture taken from Tore de la Vela",
-    "credit": "Wikiolo",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barrio_Castrense,_Alhambra_2025.jpg",
-    "file": "File:Barrio Castrense, Alhambra 2025.jpg"
+    "w": 843,
+    "h": 1098,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance Court of the Lions, Alhambra",
+    "credit": "Charles Clifford, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/54248",
+    "file": "AIC:54248"
    },
    {
     "src": "images/alhambra/8.webp",
@@ -89802,6 +89802,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall_(00733).jpg",
     "file": "File:Royal Albert Hall (00733).jpg"
+   },
+   {
+    "src": "images/royal-albert-hall/4.webp",
+    "thumb": "images/royal-albert-hall/thumbs/4.webp",
+    "w": 843,
+    "h": 545,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Unknown, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/60138",
+    "file": "AIC:60138"
    }
   ],
   "has": [],
@@ -230732,8 +230744,20 @@ window.BUILDINGS = [
     "file": "File:At Wollaton Hall 2023 016.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Plan_of_Wollaton_Hall.jpg/1280px-Plan_of_Wollaton_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "images/wollaton-hall/4.webp",
     "thumb": "images/wollaton-hall/thumbs/4.webp",
+    "w": 843,
+    "h": 717,
+    "kind": "Drawing",
+    "caption": "Drawing · Wollaton Hall in the County of Nottingham, plate 68 from Britannia Illustrata",
+    "credit": "Johannes Kip, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/198923",
+    "file": "AIC:198923"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Plan_of_Wollaton_Hall.jpg/1280px-Plan_of_Wollaton_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wollaton-hall/thumbs/5.webp",
     "w": 1280,
     "h": 1115,
     "kind": "Plan",
@@ -230745,7 +230769,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Wollaton_Hall%2C_half-elevation.jpg/1280px-Wollaton_Hall%2C_half-elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wollaton-hall/thumbs/5.webp",
+    "thumb": "images/wollaton-hall/thumbs/6.webp",
     "w": 1280,
     "h": 1097,
     "kind": "Elevation",
@@ -230757,7 +230781,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/At_Wollaton_Hall_2023_024.jpg/1280px-At_Wollaton_Hall_2023_024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wollaton-hall/thumbs/6.webp",
+    "thumb": "images/wollaton-hall/thumbs/7.webp",
     "w": 1280,
     "h": 853,
     "kind": "Model",
@@ -230771,7 +230795,8 @@ window.BUILDINGS = [
   "has": [
    "Plan",
    "Elevation",
-   "Model"
+   "Model",
+   "Drawing"
   ],
   "gv": 3
  },
@@ -256342,9 +256367,49 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Rookery_Building_Spiral_Stairs.png",
     "file": "File:Rookery Building Spiral Stairs.png"
+   },
+   {
+    "src": "images/rookery-building/6.webp",
+    "thumb": "images/rookery-building/thumbs/6.webp",
+    "w": 843,
+    "h": 732,
+    "kind": "Elevation",
+    "caption": "Elevation · Rookery Building, Chicago, Illinois, LaSalle Street Elevation",
+    "credit": "Burnham and Root, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/144340",
+    "file": "AIC:144340"
+   },
+   {
+    "src": "images/rookery-building/7.webp",
+    "thumb": "images/rookery-building/thumbs/7.webp",
+    "w": 843,
+    "h": 1210,
+    "kind": "Section",
+    "caption": "Section · Rookery Building, Chicago, Illinois, Elevation and Section",
+    "credit": "Burnham and Root, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/239956",
+    "file": "AIC:239956"
+   },
+   {
+    "src": "images/rookery-building/8.webp",
+    "thumb": "images/rookery-building/thumbs/8.webp",
+    "w": 843,
+    "h": 677,
+    "kind": "Drawing",
+    "caption": "Drawing · Rookery Building, Chicago, Illinois, Details",
+    "credit": "Burnham and Root, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/239241",
+    "file": "AIC:239241"
    }
   ],
-  "has": [],
+  "has": [
+   "Section",
+   "Elevation",
+   "Drawing"
+  ],
   "gv": 3
  },
  {
@@ -272148,6 +272213,18 @@ window.BUILDINGS = [
     "file": "File:Kolkata Victoria Memorial South side.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Victoria_Memorial_Hall%2C_Kolkata.jpg/1280px-Victoria_Memorial_Hall%2C_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-memorial-kolkata/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Samitkumarsinha",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Hall,_Kolkata.jpg",
+    "file": "File:Victoria Memorial Hall, Kolkata.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/DSC_0138_Victoria_Memorial_Kolkata.jpg/1280px-DSC_0138_Victoria_Memorial_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/victoria-memorial-kolkata/thumbs/2.webp",
     "w": 1280,
@@ -272160,16 +272237,40 @@ window.BUILDINGS = [
     "file": "File:DSC 0138 Victoria Memorial Kolkata.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Victoria_Memorial_Hall%2C_Kolkata.jpg/1280px-Victoria_Memorial_Hall%2C_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/victoria-memorial-kolkata/thumbs/1.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Victoria_Memorial_%28Marble_monument%29.jpg/1280px-Victoria_Memorial_%28Marble_monument%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-memorial-kolkata/thumbs/3.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Samitkumarsinha",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Hall,_Kolkata.jpg",
-    "file": "File:Victoria Memorial Hall, Kolkata.jpg"
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria Memorial, Kolkata",
+    "credit": "কুমুদ ঘোষ",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_(Marble_monument).jpg",
+    "file": "File:Victoria Memorial (Marble monument).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Victoria_Memorial_-_illuminated.jpg/1280px-Victoria_Memorial_-_illuminated.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/victoria-memorial-kolkata/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria Memorial Kolkata",
+    "credit": "Yooktashree barai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_-_illuminated.jpg",
+    "file": "File:Victoria Memorial - illuminated.jpg"
+   },
+   {
+    "src": "images/victoria-memorial-kolkata/5.webp",
+    "thumb": "images/victoria-memorial-kolkata/thumbs/5.webp",
+    "w": 843,
+    "h": 641,
+    "kind": "Exterior",
+    "caption": "Exterior · Victoria Memorial at Calcutta",
+    "credit": "Johnston & Hoffmann, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/103194",
+    "file": "AIC:103194"
    }
   ],
   "has": [],
@@ -284956,8 +285057,32 @@ window.BUILDINGS = [
     "file": "File:Auditorium Building, 430 South Michigan Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,39- (sheet 1 of 1).png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Auditorium_Building.JPG/1280px-Auditorium_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "images/auditorium-building-chicago/4.webp",
     "thumb": "images/auditorium-building-chicago/thumbs/4.webp",
+    "w": 843,
+    "h": 706,
+    "kind": "Drawing",
+    "caption": "Drawing · Auditorium Building, Chicago, Illinois, Ornamental Plaster Work, Pilaster Details",
+    "credit": "Adler & Sullivan, Architects, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/72089",
+    "file": "AIC:72089"
+   },
+   {
+    "src": "images/auditorium-building-chicago/5.webp",
+    "thumb": "images/auditorium-building-chicago/thumbs/5.webp",
+    "w": 843,
+    "h": 567,
+    "kind": "Drawing",
+    "caption": "Drawing · Auditorium Building, Chicago, Illinois, Lobby Details",
+    "credit": "Adler & Sullivan, Architects, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/205223",
+    "file": "AIC:205223"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Auditorium_Building.JPG/1280px-Auditorium_Building.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-building-chicago/thumbs/6.webp",
     "w": 1098,
     "h": 1400,
     "kind": "Elevation",
@@ -284969,7 +285094,8 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Elevation"
+   "Elevation",
+   "Drawing"
   ],
   "gv": 3
  },
@@ -303562,6 +303688,18 @@ window.BUILDINGS = [
     "file": "File:Flatiron detail.jpg"
    },
    {
+    "src": "images/flatiron-building/5.webp",
+    "thumb": "images/flatiron-building/thumbs/5.webp",
+    "w": 725,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Flatiron",
+    "credit": "Alfred Stieglitz, Art Institute of Chicago",
+    "license": "CC0",
+    "source": "https://www.artic.edu/artworks/66715",
+    "file": "AIC:66715"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Typical_floor_of_the_Flatiron_Building.jpg/1280px-Typical_floor_of_the_Flatiron_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/flatiron-building/thumbs/6.webp",
     "w": 1280,
@@ -303601,7 +303739,83 @@ window.BUILDINGS = [
   "commons": "Category:Akita Museum of Art",
   "lead": "File:Akita Museum of Art 20180520.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Akita_Museum_of_Art_20220409.jpg/1280px-Akita_Museum_of_Art_20220409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akita-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akita_Museum_of_Art_20220409.jpg",
+    "file": "File:Akita Museum of Art 20220409.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Akita_Museum_Of_Art_%2849645080%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/akita-museum-of-art/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · 500px provided description: ????????Akita Museum Of Art?",
+    "credit": "Nobuki Taoka",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akita_Museum_Of_Art_(49645080).jpeg",
+    "file": "File:Akita Museum Of Art (49645080).jpeg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tadao_Ando_Architect_Associates_%2849645276%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/akita-museum-of-art/thumbs/2.webp",
+    "w": 853,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · 500px provided description: ????????Akita Museum Of Art?",
+    "credit": "Nobuki Taoka",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tadao_Ando_Architect_Associates_(49645276).jpeg",
+    "file": "File:Tadao Ando Architect Associates (49645276).jpeg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Masakichi_Hirano_Museum_of_Fine_Art_20060929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/akita-museum-of-art/thumbs/3.webp",
+    "w": 1273,
+    "h": 849,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "DoWhile",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Masakichi_Hirano_Museum_of_Fine_Art_20060929.jpg",
+    "file": "File:Masakichi Hirano Museum of Fine Art 20060929.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Akita_Museum_of_Art%2C_stairs.jpg/1280px-Akita_Museum_of_Art%2C_stairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akita-museum-of-art/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akita_Museum_of_Art,_stairs.jpg",
+    "file": "File:Akita Museum of Art, stairs.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Akita_Museum_of_Art_at_night_20210102.jpg/1280px-Akita_Museum_of_Art_at_night_20210102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/akita-museum-of-art/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · Akita Museum of Art is known for Tsuguharu Fujita's collection",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akita_Museum_of_Art_at_night_20210102.jpg",
+    "file": "File:Akita Museum of Art at night 20210102.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "military-cathedral-of-st-mary-queen-of-peace-brasilia",
@@ -303625,7 +303839,59 @@ window.BUILDINGS = [
   "commons": "Category:Catedral Militar Rainha da Paz",
   "lead": "File:Catedral Militar Rainha da Paz brasilia.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Catedral_Militar_Rainha_da_Paz_brasilia.jpg/1280px-Catedral_Militar_Rainha_da_Paz_brasilia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/military-cathedral-of-st-mary-queen-of-peace-brasilia/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Catedral Militar Rainha da Paz, Brasília, Distrito Federal do Brasil, Brasil",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Catedral_Militar_Rainha_da_Paz_brasilia.jpg",
+    "file": "File:Catedral Militar Rainha da Paz brasilia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Webysther_20180212100916_-_Catedral_Militar_Rainha_da_Paz.jpg/1280px-Webysther_20180212100916_-_Catedral_Militar_Rainha_da_Paz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/military-cathedral-of-st-mary-queen-of-peace-brasilia/thumbs/1.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Exterior",
+    "caption": "Exterior · Catedral Militar Rainha da Paz",
+    "credit": "Webysther",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Webysther_20180212100916_-_Catedral_Militar_Rainha_da_Paz.jpg",
+    "file": "File:Webysther 20180212100916 - Catedral Militar Rainha da Paz.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Catedral_Militar_Rainha_da_Paz_-_Bras%C3%ADlia_-_20240805231941.jpg/1280px-Catedral_Militar_Rainha_da_Paz_-_Bras%C3%ADlia_-_20240805231941.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/military-cathedral-of-st-mary-queen-of-peace-brasilia/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · igreja em Brasília, Brasil",
+    "credit": "Túllio F",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Catedral_Militar_Rainha_da_Paz_-_Bras%C3%ADlia_-_20240805231941.jpg",
+    "file": "File:Catedral Militar Rainha da Paz - Brasília - 20240805231941.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Catedral_Militar_Rainha_da_Paz_-_Bras%C3%ADlia_-_20240805232116.jpg/1280px-Catedral_Militar_Rainha_da_Paz_-_Bras%C3%ADlia_-_20240805232116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/military-cathedral-of-st-mary-queen-of-peace-brasilia/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · igreja em Brasília, Brasil",
+    "credit": "Túllio F",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Catedral_Militar_Rainha_da_Paz_-_Bras%C3%ADlia_-_20240805232116.jpg",
+    "file": "File:Catedral Militar Rainha da Paz - Brasília - 20240805232116.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stephanuskirche-wolfsburg",
@@ -303649,7 +303915,71 @@ window.BUILDINGS = [
   "commons": "Category:Stephanuskirche (Wolfsburg)",
   "lead": "File:Wolfsburg Stephanus.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Wolfsburg_Stephanus_2016-.2.jpg/1280px-Wolfsburg_Stephanus_2016-.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stephanuskirche-wolfsburg/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Stephanuskirche in Wolfsburg",
+    "credit": "Kirchenfan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolfsburg_Stephanus_2016-.2.jpg",
+    "file": "File:Wolfsburg Stephanus 2016-.2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Wolfsburg_Stephanus_2016-1.jpg/1280px-Wolfsburg_Stephanus_2016-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stephanuskirche-wolfsburg/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Stephanuskirche in Wolfsburg",
+    "credit": "Kirchenfan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolfsburg_Stephanus_2016-1.jpg",
+    "file": "File:Wolfsburg Stephanus 2016-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Wolfsburg_Stephanus_2016-3.jpg/1280px-Wolfsburg_Stephanus_2016-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stephanuskirche-wolfsburg/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Stephanuskirche in Wolfsburg",
+    "credit": "Kirchenfan",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolfsburg_Stephanus_2016-3.jpg",
+    "file": "File:Wolfsburg Stephanus 2016-3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Wolfsburg_Stephanskirche_und_Markt.JPG/1280px-Wolfsburg_Stephanskirche_und_Markt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stephanuskirche-wolfsburg/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Wolfsburg-Detmerode, Lower Saxony, Stephanuskirche with shopping mall",
+    "credit": "Vanellus Foto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolfsburg_Stephanskirche_und_Markt.JPG",
+    "file": "File:Wolfsburg Stephanskirche und Markt.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Stephanuskirche_WOB_Detail.JPG/1280px-Stephanuskirche_WOB_Detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stephanuskirche-wolfsburg/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Wolfsburg, Lower Saxony, Entrance to St",
+    "credit": "Vanellus Foto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stephanuskirche_WOB_Detail.JPG",
+    "file": "File:Stephanuskirche WOB Detail.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "asian-art-museum-nice",
@@ -303673,7 +304003,83 @@ window.BUILDINGS = [
   "commons": "Category:Musée des arts asiatiques de Nice",
   "lead": "File:Musée Arts Asiatiques de Nice.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Mus%C3%A9e_Arts_Asiatiques_de_Nice.jpg/1280px-Mus%C3%A9e_Arts_Asiatiques_de_Nice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/asian-art-museum-nice/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Musée des Arts Asiatiques de Nice, juste au dessus de l'eau, à gauche, aux abords du Parc Phoenix",
+    "credit": "Gossipguy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_Arts_Asiatiques_de_Nice.jpg",
+    "file": "File:Musée Arts Asiatiques de Nice.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/NiceAsianMuseum.jpg/1280px-NiceAsianMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/asian-art-museum-nice/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Museum of Asian art, Nice",
+    "credit": "Niels Elgaard Larsen - User: (WT-shared) Elgaard at  wts wikivoyage",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NiceAsianMuseum.jpg",
+    "file": "File:NiceAsianMuseum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Parc_Phoenix_L%27Arenas_Nice.jpg/1280px-Parc_Phoenix_L%27Arenas_Nice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/asian-art-museum-nice/thumbs/2.webp",
+    "w": 1280,
+    "h": 807,
+    "kind": "Exterior",
+    "caption": "Exterior · Parc Phoenix, Asian art museum, and business district of L'Arenas, in Nice, France, in 2015",
+    "credit": "André ALLIOT",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_Phoenix_L%27Arenas_Nice.jpg",
+    "file": "File:Parc Phoenix L'Arenas Nice.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Fauteuil_racine_Chine_Quianlong_musee_arts_asiatiques_Nice.jpg/1280px-Fauteuil_racine_Chine_Quianlong_musee_arts_asiatiques_Nice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/asian-art-museum-nice/thumbs/3.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Armchair made from roots",
+    "credit": "Anonymous  (  China  )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fauteuil_racine_Chine_Quianlong_musee_arts_asiatiques_Nice.jpg",
+    "file": "File:Fauteuil racine Chine Quianlong musee arts asiatiques Nice.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Le_mus%C3%A9e_des_arts_asiatiques_%28Nice%29_%285939560440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/asian-art-museum-nice/thumbs/4.webp",
+    "w": 800,
+    "h": 1200,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_mus%C3%A9e_des_arts_asiatiques_(Nice)_(5939560440).jpg",
+    "file": "File:Le musée des arts asiatiques (Nice) (5939560440).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Indra_et_Indrani_%28Mus%C3%A9e_des_arts_asiatiques%2C_Nice%29_%285939561892%29.jpg/1280px-Indra_et_Indrani_%28Mus%C3%A9e_des_arts_asiatiques%2C_Nice%29_%285939561892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/asian-art-museum-nice/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indra_et_Indrani_(Mus%C3%A9e_des_arts_asiatiques,_Nice)_(5939561892).jpg",
+    "file": "File:Indra et Indrani (Musée des arts asiatiques, Nice) (5939561892).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shimane-museum-of-ancient-izumo",
@@ -303697,7 +304103,83 @@ window.BUILDINGS = [
   "commons": "Category:Shimane Museum of Ancient Izumo",
   "lead": "File:Shimane Museum of Ancient Izumo No,6.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Shimane_Museum_of_Ancient_Izumo_No%2C6.JPG/1280px-Shimane_Museum_of_Ancient_Izumo_No%2C6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shimane-museum-of-ancient-izumo/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mti",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shimane_Museum_of_Ancient_Izumo_No,6.JPG",
+    "file": "File:Shimane Museum of Ancient Izumo No,6.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/ShimaneMuseumOfAncientIzumo_02.jpg/1280px-ShimaneMuseumOfAncientIzumo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shimane-museum-of-ancient-izumo/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "micra",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ShimaneMuseumOfAncientIzumo_02.jpg",
+    "file": "File:ShimaneMuseumOfAncientIzumo 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/150322_Shimane_Museum_of_Ancient_Izumo_Japan20s3.jpg/1280px-150322_Shimane_Museum_of_Ancient_Izumo_Japan20s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shimane-museum-of-ancient-izumo/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Shimane Museum of Ancient Izumo in Izumo , Shimane prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:150322_Shimane_Museum_of_Ancient_Izumo_Japan20s3.jpg",
+    "file": "File:150322 Shimane Museum of Ancient Izumo Japan20s3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Shimane_museum_of_ancient_Izumo_01.jpg/1280px-Shimane_museum_of_ancient_Izumo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shimane-museum-of-ancient-izumo/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Twilight2640",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shimane_museum_of_ancient_Izumo_01.jpg",
+    "file": "File:Shimane museum of ancient Izumo 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/150322_Shimane_Museum_of_Ancient_Izumo_Japan05s.jpg/1280px-150322_Shimane_Museum_of_Ancient_Izumo_Japan05s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shimane-museum-of-ancient-izumo/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Shimane Museum of Ancient Izumo in Izumo , Shimane prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:150322_Shimane_Museum_of_Ancient_Izumo_Japan05s.jpg",
+    "file": "File:150322 Shimane Museum of Ancient Izumo Japan05s.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/150322_Shimane_Museum_of_Ancient_Izumo_Japan13bs3.jpg/1280px-150322_Shimane_Museum_of_Ancient_Izumo_Japan13bs3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shimane-museum-of-ancient-izumo/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Shimane Museum of Ancient Izumo in Izumo , Shimane prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:150322_Shimane_Museum_of_Ancient_Izumo_Japan13bs3.jpg",
+    "file": "File:150322 Shimane Museum of Ancient Izumo Japan13bs3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "jiyu-gakuen-girls-school",
@@ -303721,7 +304203,59 @@ window.BUILDINGS = [
   "commons": "Category:Jiyu Gakuen Myonichikan",
   "lead": "File:Jiyu Gakuen.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jiyu_Gakuen.jpg/1280px-Jiyu_Gakuen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jiyu-gakuen-girls-school/thumbs/0.webp",
+    "w": 1280,
+    "h": 796,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jiyu_Gakuen.jpg",
+    "file": "File:Jiyu Gakuen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Jiyu_gakuen_myonichikan.JPG/1280px-Jiyu_gakuen_myonichikan.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jiyu-gakuen-girls-school/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "jmho",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jiyu_gakuen_myonichikan.JPG",
+    "file": "File:Jiyu gakuen myonichikan.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Auditorium%2C_Jiyu_Gakuen_Myonichikan%2C_Ikebukuro%2C_Tokyo._Photographed_2018-06-16.jpg/1280px-Auditorium%2C_Jiyu_Gakuen_Myonichikan%2C_Ikebukuro%2C_Tokyo._Photographed_2018-06-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jiyu-gakuen-girls-school/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Auditorium, Jiyu Gakuen Myonichikan, Ikebukuro, Tokyo",
+    "credit": "山田晴通",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium,_Jiyu_Gakuen_Myonichikan,_Ikebukuro,_Tokyo._Photographed_2018-06-16.jpg",
+    "file": "File:Auditorium, Jiyu Gakuen Myonichikan, Ikebukuro, Tokyo. Photographed 2018-06-16.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Jiyugakuen_Myonichikan.jpg/1280px-Jiyugakuen_Myonichikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/jiyu-gakuen-girls-school/thumbs/3.webp",
+    "w": 1280,
+    "h": 914,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jiyugakuen_Myonichikan.jpg",
+    "file": "File:Jiyugakuen Myonichikan.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "yodoko-guest-house",
@@ -303745,7 +304279,47 @@ window.BUILDINGS = [
   "commons": "Category:Yodoko Guest House",
   "lead": "File:Yamamura house07n4272.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Yamamura_house07n4272.jpg/1280px-Yamamura_house07n4272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yodoko-guest-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Yodoko Guest House (Yamamura House) , Ashiya , Hyogo prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Yamamura_house07n4272.jpg",
+    "file": "File:Yamamura house07n4272.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Yamamura_house06s3200.jpg/1280px-Yamamura_house06s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yodoko-guest-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Yodoko Guest House (Yamamura House) , Ashiya , Hyogo prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Yamamura_house06s3200.jpg",
+    "file": "File:Yamamura house06s3200.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Yamamura_house08n4272.jpg/1280px-Yamamura_house08n4272.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yodoko-guest-house/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Yodoko Guest House (Yamamura House) , Ashiya , Hyogo prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Yamamura_house08n4272.jpg",
+    "file": "File:Yamamura house08n4272.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "museum-of-popular-arts-of-paraiba",
@@ -303769,7 +304343,59 @@ window.BUILDINGS = [
   "commons": "Category:Museu de Arte Popular da Paraíba",
   "lead": "File:Museu dos Três Pandeiros.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Museu_dos_Tr%C3%AAs_Pandeiros.jpg/1280px-Museu_dos_Tr%C3%AAs_Pandeiros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-popular-arts-of-paraiba/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Museu de Arte Popular da Paraíba, ou Museu dos Três Pandeiros, projetado pelo arquiteto Oscar Niemeyer",
+    "credit": "Ruana  Carolina  from Campina Grande, Brasil",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_dos_Tr%C3%AAs_Pandeiros.jpg",
+    "file": "File:Museu dos Três Pandeiros.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Museu_Os_Tr%C3%AAs_Pandeiros_em_Campina_Grande_-_Pb_%2C_Obra_de_Oscar_Niemeyer_%2816989560776%29.jpg/1280px-Museu_Os_Tr%C3%AAs_Pandeiros_em_Campina_Grande_-_Pb_%2C_Obra_de_Oscar_Niemeyer_%2816989560776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-popular-arts-of-paraiba/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Museu Os Três Pandeiros em Campina Grande - Pb , Obra de Oscar Niemeyer",
+    "credit": "Marinelson Almeida - Traveling through Brazil  from Niteroi, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_Os_Tr%C3%AAs_Pandeiros_em_Campina_Grande_-_Pb_,_Obra_de_Oscar_Niemeyer_(16989560776).jpg",
+    "file": "File:Museu Os Três Pandeiros em Campina Grande - Pb , Obra de Oscar Niemeyer (16989560776).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/A%C3%A7ude_Velho_e_Museu_de_Arte_Popular_da_Para%C3%ADba_-_Campina_Grande%2C_Para%C3%ADba%2C_Brasil.jpg/1280px-A%C3%A7ude_Velho_e_Museu_de_Arte_Popular_da_Para%C3%ADba_-_Campina_Grande%2C_Para%C3%ADba%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-popular-arts-of-paraiba/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Açude Velho e Museu de Arte Popular da Paraíba - Campina Grande, Paraíba, Brasil",
+    "credit": "A. Júnior",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A%C3%A7ude_Velho_e_Museu_de_Arte_Popular_da_Para%C3%ADba_-_Campina_Grande,_Para%C3%ADba,_Brasil.jpg",
+    "file": "File:Açude Velho e Museu de Arte Popular da Paraíba - Campina Grande, Paraíba, Brasil.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Museu_de_Arte_Popular_da_Para%C3%ADba_-_Campina_Grande%2C_Para%C3%ADba%2C_Brasil%282%29.jpg/1280px-Museu_de_Arte_Popular_da_Para%C3%ADba_-_Campina_Grande%2C_Para%C3%ADba%2C_Brasil%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-of-popular-arts-of-paraiba/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Museu de Arte Popular da Paraíba - Campina Grande, Paraíba, Brasil",
+    "credit": "A. Júnior",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museu_de_Arte_Popular_da_Para%C3%ADba_-_Campina_Grande,_Para%C3%ADba,_Brasil(2).jpg",
+    "file": "File:Museu de Arte Popular da Paraíba - Campina Grande, Paraíba, Brasil(2).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "pettit-memorial-chapel",
@@ -303793,7 +304419,47 @@ window.BUILDINGS = [
   "commons": "Category:Pettit Memorial Chapel",
   "lead": "File:Belvidere IL Pettit Chapel17.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Pettit_Memorial_Chapel_%287938046226%29.jpg/1280px-Pettit_Memorial_Chapel_%287938046226%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pettit-memorial-chapel/thumbs/0.webp",
+    "w": 1280,
+    "h": 690,
+    "kind": "Exterior",
+    "caption": "Exterior · Pettit Memorial Chapel in Belvidere (1907)",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pettit_Memorial_Chapel_(7938046226).jpg",
+    "file": "File:Pettit Memorial Chapel (7938046226).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Belvidere_Il_Pettit_Chapel7.jpg/1280px-Belvidere_Il_Pettit_Chapel7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pettit-memorial-chapel/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior, Pettit Memorial Chapel, designed by Frank Lloyd Wright",
+    "credit": "IvoShandor",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Belvidere_Il_Pettit_Chapel7.jpg",
+    "file": "File:Belvidere Il Pettit Chapel7.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Belvidere_Il_Pettit_Chapel8.jpg/1280px-Belvidere_Il_Pettit_Chapel8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pettit-memorial-chapel/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior, Pettit Memorial Chapel, designed by Frank Lloyd Wright",
+    "credit": "IvoShandor",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Belvidere_Il_Pettit_Chapel8.jpg",
+    "file": "File:Belvidere Il Pettit Chapel8.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "itatiaia-building",
@@ -303817,7 +304483,83 @@ window.BUILDINGS = [
   "commons": "Category:Edifício Itatiaia (Campinas)",
   "lead": "File:Edifício Itatiaia - Campinas.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Edif%C3%ADcio_Itatiaia_-_Campinas.JPG/1280px-Edif%C3%ADcio_Itatiaia_-_Campinas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itatiaia-building/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Building Itatiaia, projected by Brazilian architect Oscar Niemeyer, built between 1954 and 1960",
+    "credit": "Fasouzafreitas",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Itatiaia_-_Campinas.JPG",
+    "file": "File:Edifício Itatiaia - Campinas.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Edif%C3%ADcio_Itatiaia_-_Campinas_-_20250913113021.jpg/1280px-Edif%C3%ADcio_Itatiaia_-_Campinas_-_20250913113021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itatiaia-building/thumbs/1.webp",
+    "w": 646,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Edifício modernista em Campinas, projetado por Oscar Niemeyer",
+    "credit": "Rodrigo Rocatto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Itatiaia_-_Campinas_-_20250913113021.jpg",
+    "file": "File:Edifício Itatiaia - Campinas - 20250913113021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Edif%C3%ADcio_Itatiaia_-_Traseira_ondulada.jpg/1280px-Edif%C3%ADcio_Itatiaia_-_Traseira_ondulada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itatiaia-building/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Itatiaia building rear, as seen from Coronel Rodovalho Street, with waves, typical niemeyerian feature",
+    "credit": "Fasouzafreitas",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Itatiaia_-_Traseira_ondulada.jpg",
+    "file": "File:Edifício Itatiaia - Traseira ondulada.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Coreto_da_Pra%C3%A7a_Carlos_Gomes.jpg/1280px-Coreto_da_Pra%C3%A7a_Carlos_Gomes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itatiaia-building/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Coreto da Praça Carlos Gomes, em frente ao Edifício Itatiaia, projetado por Oscar Niemeyer, em Campinas",
+    "credit": "MPMrocha",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Coreto_da_Pra%C3%A7a_Carlos_Gomes.jpg",
+    "file": "File:Coreto da Praça Carlos Gomes.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Edif%C3%ADcio_Itatiaia_-_Brises.jpg/1280px-Edif%C3%ADcio_Itatiaia_-_Brises.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itatiaia-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Brises da fachada frontal do Edifício Itatiaia, vistas da Rua Irmã Serafina",
+    "credit": "Fasouzafreitas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Itatiaia_-_Brises.jpg",
+    "file": "File:Edifício Itatiaia - Brises.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Edificio_Itatiaia_-_panoramio.jpg/1280px-Edificio_Itatiaia_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/itatiaia-building/thumbs/5.webp",
+    "w": 1057,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Edificio Itatiaia",
+    "credit": "enioprado",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificio_Itatiaia_-_panoramio.jpg",
+    "file": "File:Edificio Itatiaia - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "samuel-freeman-house",
@@ -303841,7 +304583,59 @@ window.BUILDINGS = [
   "commons": "Category:Samuel Freeman House",
   "lead": "File:Samuel Freeman House, Hollywood, California.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Samuel_Freeman_House%2C_Hollywood%2C_California.JPG/1280px-Samuel_Freeman_House%2C_Hollywood%2C_California.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/samuel-freeman-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Samuel Freeman House, 1962 Glencoe Way, Hollywood, California",
+    "credit": "Los Angeles",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Samuel_Freeman_House,_Hollywood,_California.JPG",
+    "file": "File:Samuel Freeman House, Hollywood, California.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Samuel_Freeman_House%2C_1962_Glencoe_Way%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C62-_%28sheet_2_of_7%29.png/1280px-Samuel_Freeman_House%2C_1962_Glencoe_Way%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C62-_%28sheet_2_of_7%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/samuel-freeman-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 1004,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n Freeman, Samuel \n Schindler, Rudolph M",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Samuel_Freeman_House,_1962_Glencoe_Way,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,62-_(sheet_2_of_7).png",
+    "file": "File:Samuel Freeman House, 1962 Glencoe Way, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,62- (sheet 2 of 7).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Samuel_Freeman_House%2C_1962_Glencoe_Way%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C62-_%28sheet_3_of_7%29.png/1280px-Samuel_Freeman_House%2C_1962_Glencoe_Way%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C62-_%28sheet_3_of_7%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/samuel-freeman-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 1004,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n Freeman, Samuel \n Schindler, Rudolph M",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Samuel_Freeman_House,_1962_Glencoe_Way,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,62-_(sheet_3_of_7).png",
+    "file": "File:Samuel Freeman House, 1962 Glencoe Way, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,62- (sheet 3 of 7).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Samuel_Freeman_House_%2850653706507%29.jpg/1280px-Samuel_Freeman_House_%2850653706507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/samuel-freeman-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Samuel Freeman House - Halloween Tour",
+    "credit": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Samuel_Freeman_House_(50653706507).jpg",
+    "file": "File:Samuel Freeman House (50653706507).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "a-d-german-warehouse",
@@ -303865,7 +304659,83 @@ window.BUILDINGS = [
   "commons": "Category:A. D. German Warehouse",
   "lead": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221470396.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Albert_D._German_Warehouse%2C_Church_Street_and_Haseltine_Street%2C_Richland_Center%2C_WI_-_54221470396.jpg/1280px-Albert_D._German_Warehouse%2C_Church_Street_and_Haseltine_Street%2C_Richland_Center%2C_WI_-_54221470396.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/a-d-german-warehouse/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albert_D._German_Warehouse,_Church_Street_and_Haseltine_Street,_Richland_Center,_WI_-_54221470396.jpg",
+    "file": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221470396.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Albert_D._German_Warehouse%2C_Church_Street_and_Haseltine_Street%2C_Richland_Center%2C_WI_-_54221690579.jpg/1280px-Albert_D._German_Warehouse%2C_Church_Street_and_Haseltine_Street%2C_Richland_Center%2C_WI_-_54221690579.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/a-d-german-warehouse/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Albert_D._German_Warehouse,_Church_Street_and_Haseltine_Street,_Richland_Center,_WI_-_54221690579.jpg",
+    "file": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221690579.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/ADG_1.jpg/1280px-ADG_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/a-d-german-warehouse/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · AD German Warehouse - Richland Center WI",
+    "credit": "Nomadseifer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ADG_1.jpg",
+    "file": "File:ADG 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/ADG_2.jpg/1280px-ADG_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/a-d-german-warehouse/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · AD German Warehouse - Richland Center WI",
+    "credit": "Nomadseifer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ADG_2.jpg",
+    "file": "File:ADG 2.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Frank_Lloyd_Wright_designed_A._D._German_Warehouse_in_Richland_Center_Wisconsin_-_architectural_appointments.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/a-d-german-warehouse/thumbs/4.webp",
+    "w": 800,
+    "h": 1200,
+    "kind": "Exterior",
+    "caption": "Exterior · A",
+    "credit": "Lowell Boileau",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_designed_A._D._German_Warehouse_in_Richland_Center_Wisconsin_-_architectural_appointments.jpg",
+    "file": "File:Frank Lloyd Wright designed A. D. German Warehouse in Richland Center Wisconsin - architectural appointments.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Full_view_of_A.D._German_Warehouse_in_Richland_Center%2C_Wisconsin_by_Lloyd_Wright_who_was_born_in_Richland_Center..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/a-d-german-warehouse/thumbs/5.webp",
+    "w": 1200,
+    "h": 754,
+    "kind": "Exterior",
+    "caption": "Exterior · Full view of A.D",
+    "credit": "Lowell Boileau",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Full_view_of_A.D._German_Warehouse_in_Richland_Center,_Wisconsin_by_Lloyd_Wright_who_was_born_in_Richland_Center..jpg",
+    "file": "File:Full view of A.D. German Warehouse in Richland Center, Wisconsin by Lloyd Wright who was born in Richland Center..jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "one-charles-center",
@@ -303889,7 +304759,71 @@ window.BUILDINGS = [
   "commons": "Category:One Charles Center",
   "lead": "File:One Charles Center Baltimore.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/One_Charles_Center_Baltimore.JPG/1280px-One_Charles_Center_Baltimore.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/one-charles-center/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · One Charles Center in Baltimore, Maryland",
+    "credit": "Smallbones",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:One_Charles_Center_Baltimore.JPG",
+    "file": "File:One Charles Center Baltimore.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Charles_Center_Office_Tower.jpg/1280px-Charles_Center_Office_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/one-charles-center/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mies Van Der Rohe's Charles Center Office Tower",
+    "credit": "Steelplug",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Charles_Center_Office_Tower.jpg",
+    "file": "File:Charles Center Office Tower.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2008_05_07_-_Baltimore_-_W_Lexington_St_at_N_Liberty_St_1.JPG/1280px-2008_05_07_-_Baltimore_-_W_Lexington_St_at_N_Liberty_St_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/one-charles-center/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · West Lexington Street at North Liberty Street, Baltimore , Maryland ",
+    "credit": "Andrew Bossi",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_05_07_-_Baltimore_-_W_Lexington_St_at_N_Liberty_St_1.JPG",
+    "file": "File:2008 05 07 - Baltimore - W Lexington St at N Liberty St 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Facade_detail_photo.jpg/1280px-Facade_detail_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/one-charles-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 947,
+    "kind": "Detail",
+    "caption": "Detail · One Charles Center Baltimore, Maryland by Mies van der Rohe, architect",
+    "credit": "Frederika Eilers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Facade_detail_photo.jpg",
+    "file": "File:Facade detail photo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/2008_05_07_-_Baltimore_-_Park_1.JPG/1280px-2008_05_07_-_Baltimore_-_Park_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/one-charles-center/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · A plaza in Baltimore , Maryland between the Fidelity Building and One Charles Center",
+    "credit": "Andrew Bossi",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:2008_05_07_-_Baltimore_-_Park_1.JPG",
+    "file": "File:2008 05 07 - Baltimore - Park 1.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "david-and-gladys-wright-house",
@@ -303913,7 +304847,71 @@ window.BUILDINGS = [
   "commons": "Category:David & Gladys Wright House",
   "lead": "File:David Wright House.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/David_Wright_House.JPG/1280px-David_Wright_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/david-and-gladys-wright-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · David Wright House, Phoenix, Arizona, photo by Walt Lockley",
+    "credit": "Lockley",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_Wright_House.JPG",
+    "file": "File:David Wright House.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/David_and_Gladys_Wright_House_Phoenix.JPG/1280px-David_and_Gladys_Wright_House_Phoenix.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/david-and-gladys-wright-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright designed a home for his son David and Daughter-in-Law Gladys",
+    "credit": "Outinaz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_and_Gladys_Wright_House_Phoenix.JPG",
+    "file": "File:David and Gladys Wright House Phoenix.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/David_%26_Gladys_Wright_House_-_8041904807.jpg/1280px-David_%26_Gladys_Wright_House_-_8041904807.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/david-and-gladys-wright-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · David & Gladys Wright House",
+    "credit": "David Crummey",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_%26_Gladys_Wright_House_-_8041904807.jpg",
+    "file": "File:David & Gladys Wright House - 8041904807.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/David_%26_Gladys_Wright_House_-_8041909852.jpg/1280px-David_%26_Gladys_Wright_House_-_8041909852.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/david-and-gladys-wright-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · David & Gladys Wright House",
+    "credit": "David Crummey",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_%26_Gladys_Wright_House_-_8041909852.jpg",
+    "file": "File:David & Gladys Wright House - 8041909852.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/David_%26_Gladys_Wright_House_ramp_closeup.jpg/1280px-David_%26_Gladys_Wright_House_ramp_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/david-and-gladys-wright-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · David & Gladys Wright House",
+    "credit": "David Crummey",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:David_%26_Gladys_Wright_House_ramp_closeup.jpg",
+    "file": "File:David & Gladys Wright House ramp closeup.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kraus-house",
@@ -303937,7 +304935,47 @@ window.BUILDINGS = [
   "commons": "Category:Kraus House",
   "lead": "File:FLW Krauss House.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FLW_Krauss_House.jpg/1280px-FLW_Krauss_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kraus-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Taken as part of the Mid-Century Modern Structures Symposium on April 16",
+    "credit": "Mary Striegel",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FLW_Krauss_House.jpg",
+    "file": "File:FLW Krauss House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Kraus_House_-_51603671636.jpg/1280px-Kraus_House_-_51603671636.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kraus-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright House in Ebsworth Park, Kirkwood, Missouri",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kraus_House_-_51603671636.jpg",
+    "file": "File:Kraus House - 51603671636.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Kraus_House_-_51604267559.jpg/1280px-Kraus_House_-_51604267559.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kraus-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright House in Ebsworth Park, Kirkwood, Missouri",
+    "credit": "dwhartwig",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kraus_House_-_51604267559.jpg",
+    "file": "File:Kraus House - 51604267559.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "frederick-c-bogk-house",
@@ -303961,7 +304999,59 @@ window.BUILDINGS = [
   "commons": "Category:Frederick C. Bogk House",
   "lead": "File:Milwaukee August 2023 05 (2420 N. Terrace Avenue--Frederick C. Bogk House).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Milwaukee_August_2023_05_%282420_N._Terrace_Avenue--Frederick_C._Bogk_House%29.jpg/1280px-Milwaukee_August_2023_05_%282420_N._Terrace_Avenue--Frederick_C._Bogk_House%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frederick-c-bogk-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · 2420 North Terrace Avenue (the Frederick C",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_August_2023_05_(2420_N._Terrace_Avenue--Frederick_C._Bogk_House).jpg",
+    "file": "File:Milwaukee August 2023 05 (2420 N. Terrace Avenue--Frederick C. Bogk House).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bogk_House_5462.jpg/1280px-Bogk_House_5462.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frederick-c-bogk-house/thumbs/1.webp",
+    "w": 1251,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Frederick C",
+    "credit": "Gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bogk_House_5462.jpg",
+    "file": "File:Bogk House 5462.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/FC_Bogk_5455.jpg/1280px-FC_Bogk_5455.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frederick-c-bogk-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Frederick C",
+    "credit": "gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Bogk_5455.jpg",
+    "file": "File:FC Bogk 5455.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/FC_Bogk_5456.jpg/1280px-FC_Bogk_5456.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frederick-c-bogk-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Frederick C",
+    "credit": "gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_Bogk_5456.jpg",
+    "file": "File:FC Bogk 5456.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "zlota-44",
@@ -303985,7 +305075,83 @@ window.BUILDINGS = [
   "commons": "Category:Złota 44",
   "lead": "File:2018 Warszawa Złota 44 z PKiN.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/2018_Warszawa_Z%C5%82ota_44_z_PKiN.jpg/1280px-2018_Warszawa_Z%C5%82ota_44_z_PKiN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zlota-44/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Apartamentowiec Złota 44 w Warszawie z tarasu widokowego w Pałacu Kultury i Nauki",
+    "credit": "Cybularny",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018_Warszawa_Z%C5%82ota_44_z_PKiN.jpg",
+    "file": "File:2018 Warszawa Złota 44 z PKiN.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Z%C5%82ota_44_%2806.2013%29.jpg/1280px-Z%C5%82ota_44_%2806.2013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zlota-44/thumbs/1.webp",
+    "w": 721,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Złota 44 in Warsaw",
+    "credit": "Pudelek  (Marcin Szala)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Z%C5%82ota_44_(06.2013).jpg",
+    "file": "File:Złota 44 (06.2013).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/High-rises_and_skyscrapers%2C_City_Centre%2C_2026%2C_Warsaw%2C_Poland.jpg/1280px-High-rises_and_skyscrapers%2C_City_Centre%2C_2026%2C_Warsaw%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zlota-44/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · High-rises and skyscrapers, City Centre, 2026, Warsaw, Poland",
+    "credit": "Igor123121",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:High-rises_and_skyscrapers,_City_Centre,_2026,_Warsaw,_Poland.jpg",
+    "file": "File:High-rises and skyscrapers, City Centre, 2026, Warsaw, Poland.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Palace_of_Culture_and_Science%2C_Warsaw_%28by_Pudelek%29.jpg/1280px-Palace_of_Culture_and_Science%2C_Warsaw_%28by_Pudelek%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zlota-44/thumbs/3.webp",
+    "w": 1280,
+    "h": 928,
+    "kind": "Exterior",
+    "caption": "Exterior · Palace of Culture and Science, Warsaw, Poland",
+    "credit": "Pudelek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Culture_and_Science,_Warsaw_(by_Pudelek).jpg",
+    "file": "File:Palace of Culture and Science, Warsaw (by Pudelek).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Varsovia%2C_Polonia_-_panoramio_%2866%29.jpg/1280px-Varsovia%2C_Polonia_-_panoramio_%2866%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zlota-44/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Varsovia, Polonia",
+    "credit": "Nelson Pérez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Varsovia,_Polonia_-_panoramio_(66).jpg",
+    "file": "File:Varsovia, Polonia - panoramio (66).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/View_from_the_Bedroom_Window_-_Room_1507_-_Holiday_Inn_-_-_Warsaw_%2853112578449%29.jpg/1280px-View_from_the_Bedroom_Window_-_Room_1507_-_Holiday_Inn_-_-_Warsaw_%2853112578449%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zlota-44/thumbs/5.webp",
+    "w": 842,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · View from the Bedroom Window - Room 1507 - Holiday Inn - - Warsaw",
+    "credit": "Haydn Blackey  from Cardiff, Wales",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Bedroom_Window_-_Room_1507_-_Holiday_Inn_-_-_Warsaw_(53112578449).jpg",
+    "file": "File:View from the Bedroom Window - Room 1507 - Holiday Inn - - Warsaw (53112578449).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "2-columbus-circle",
@@ -304009,7 +305175,83 @@ window.BUILDINGS = [
   "commons": "Category:Two Columbus Circle",
   "lead": "File:2 Columbus Circle.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2_Columbus_Circle.jpg/1280px-2_Columbus_Circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/2-columbus-circle/thumbs/0.webp",
+    "w": 1029,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · en:2 Columbus Circle in en:New York City ",
+    "credit": "Renate O'Flaherty, original uploaded by  Seano1",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2_Columbus_Circle.jpg",
+    "file": "File:2 Columbus Circle.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/WTM_wikiWhat_089.jpg/1280px-WTM_wikiWhat_089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/2-columbus-circle/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · This photo is of Wikipedia Takes Manhattan location code 73 , Museum of Arts & Design ",
+    "credit": "This photo was taken by participant/team     wikiWHAT     as part of the  Commons:Wikipedia Takes Ma",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WTM_wikiWhat_089.jpg",
+    "file": "File:WTM wikiWhat 089.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Columbus_Circle_traffic_24_Mar_2015.jpg/1280px-Columbus_Circle_traffic_24_Mar_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/2-columbus-circle/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Trafic backup",
+    "credit": "Doorknob747",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Columbus_Circle_traffic_24_Mar_2015.jpg",
+    "file": "File:Columbus Circle traffic 24 Mar 2015.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Dreary_Columbus_Circle_%2815860123014%29.jpg/1280px-Dreary_Columbus_Circle_%2815860123014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/2-columbus-circle/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A photo by Billie Ward",
+    "credit": "Billie Grace Ward  from New York, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dreary_Columbus_Circle_(15860123014).jpg",
+    "file": "File:Dreary Columbus Circle (15860123014).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/View_of_Central_Park_from_Robert_restaurant_at_Two_Columbus_Circle.jpg/1280px-View_of_Central_Park_from_Robert_restaurant_at_Two_Columbus_Circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/2-columbus-circle/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Jonathan Schilling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Central_Park_from_Robert_restaurant_at_Two_Columbus_Circle.jpg",
+    "file": "File:View of Central Park from Robert restaurant at Two Columbus Circle.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Columbus_Circle_area_Oct_2020_24.jpg/1280px-Columbus_Circle_area_Oct_2020_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/2-columbus-circle/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · 240 Central Park South and 2 Columbus Circle in Manhattan, New York City, seen in October 2020",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Columbus_Circle_area_Oct_2020_24.jpg",
+    "file": "File:Columbus Circle area Oct 2020 24.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hoki-museum",
@@ -304033,7 +305275,71 @@ window.BUILDINGS = [
   "commons": "Category:Hoki Museum",
   "lead": "File:Hoki museum outside front 001.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Hoki_museum_outside_front_001.jpg/1280px-Hoki_museum_outside_front_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hoki-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "W650neco",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoki_museum_outside_front_001.jpg",
+    "file": "File:Hoki museum outside front 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hoki_museum_Jun_22_2019_04-37PM.jpeg/1280px-Hoki_museum_Jun_22_2019_04-37PM.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hoki-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 665,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoki_museum_Jun_22_2019_04-37PM.jpeg",
+    "file": "File:Hoki museum Jun 22 2019 04-37PM.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hoki_Museum%2C_Chiba.jpg/1280px-Hoki_Museum%2C_Chiba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hoki-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Hoki Museum in Midori-ku, Chiba",
+    "credit": "yisris",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoki_Museum,_Chiba.jpg",
+    "file": "File:Hoki Museum, Chiba.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Hoki_museum_cafe.jpg/1280px-Hoki_museum_cafe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hoki-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "W650neco",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoki_museum_cafe.jpg",
+    "file": "File:Hoki museum cafe.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Hoki_museum_inside_museum_cafe_001.jpg/1280px-Hoki_museum_inside_museum_cafe_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hoki-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "W650neco",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoki_museum_inside_museum_cafe_001.jpg",
+    "file": "File:Hoki museum inside museum cafe 001.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "holy-trinity-orthodox-cathedral-chicago",
@@ -304057,7 +305363,83 @@ window.BUILDINGS = [
   "commons": "Category:Holy Trinity Orthodox Cathedral (Chicago)",
   "lead": "File:Holy Trinity Cathedral Chicago.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Holy_Trinity_Cathedral_Chicago.jpg/1280px-Holy_Trinity_Cathedral_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holy-trinity-orthodox-cathedral-chicago/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Holy Trinity Cathedral Chicago Orthodox Church in America Founded in 1892 as St",
+    "credit": "fusion-of-horizons",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Cathedral_Chicago.jpg",
+    "file": "File:Holy Trinity Cathedral Chicago.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Holy_Trinity_Orthodox_Cathedral_Chicago_Portal_2019-2854.jpg/1280px-Holy_Trinity_Orthodox_Cathedral_Chicago_Portal_2019-2854.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holy-trinity-orthodox-cathedral-chicago/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Holy Trinity Orthodox Cathedral, Chicago, Illinois",
+    "credit": "Paul R. Burley",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Orthodox_Cathedral_Chicago_Portal_2019-2854.jpg",
+    "file": "File:Holy Trinity Orthodox Cathedral Chicago Portal 2019-2854.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Holy_Trinity_Russian_and_Greek_Orthodox_Church%2C_1121_North_Leavitt_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C71-_%28sheet_2_of_3%29.png/1280px-Holy_Trinity_Russian_and_Greek_Orthodox_Church%2C_1121_North_Leavitt_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C71-_%28sheet_2_of_3%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holy-trinity-orthodox-cathedral-chicago/thumbs/2.webp",
+    "w": 1280,
+    "h": 1006,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Related names:\n \n  Sullivan, Louis H \n Clark, W T \n Clark, W I \n Homolka, Larry J, historian \n Rudd,",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Russian_and_Greek_Orthodox_Church,_1121_North_Leavitt_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,71-_(sheet_2_of_3).png",
+    "file": "File:Holy Trinity Russian and Greek Orthodox Church, 1121 North Leavitt Street, Chicago, Cook County, IL HABS ILL,16-CHIG,71- (sheet 2 of 3).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Holy_Trinity_Russian_Orthodox_Church_071215.jpg/1280px-Holy_Trinity_Russian_Orthodox_Church_071215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holy-trinity-orthodox-cathedral-chicago/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "User:JeremyA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Russian_Orthodox_Church_071215.jpg",
+    "file": "File:Holy Trinity Russian Orthodox Church 071215.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Louis_Sullivan_-_interior_-_Holy_Trinity_Russian_%26_Greek_Orthodox_Church%2C_1121_North_Leavitt_Street%2C_Chicago%2C_Cook_County%2C_IL.jpg/1280px-Louis_Sullivan_-_interior_-_Holy_Trinity_Russian_%26_Greek_Orthodox_Church%2C_1121_North_Leavitt_Street%2C_Chicago%2C_Cook_County%2C_IL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holy-trinity-orthodox-cathedral-chicago/thumbs/4.webp",
+    "w": 1103,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Harold Allen, photographer  \n \nLouis Sullivan (architect)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Louis_Sullivan_-_interior_-_Holy_Trinity_Russian_%26_Greek_Orthodox_Church,_1121_North_Leavitt_Street,_Chicago,_Cook_County,_IL.jpg",
+    "file": "File:Louis Sullivan - interior - Holy Trinity Russian & Greek Orthodox Church, 1121 North Leavitt Street, Chicago, Cook County, IL.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Easter_Baskets_Prepared_for_Blessing_at_an_Eastern_Orthodox_Church%27s_Hall.jpg/1280px-Easter_Baskets_Prepared_for_Blessing_at_an_Eastern_Orthodox_Church%27s_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/holy-trinity-orthodox-cathedral-chicago/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Vincent J. Lipsio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Easter_Baskets_Prepared_for_Blessing_at_an_Eastern_Orthodox_Church%27s_Hall.jpg",
+    "file": "File:Easter Baskets Prepared for Blessing at an Eastern Orthodox Church's Hall.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "national-museum-of-modern-art-tokyo",
@@ -304081,7 +305463,83 @@ window.BUILDINGS = [
   "commons": "Category:National Museum of Modern Art, Tokyo",
   "lead": "File:National Museum of Modern Art Tokyo.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/National_Museum_of_Modern_Art_Tokyo.jpg/1280px-National_Museum_of_Modern_Art_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-tokyo/thumbs/0.webp",
+    "w": 1280,
+    "h": 743,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Modern_Art_Tokyo.jpg",
+    "file": "File:National Museum of Modern Art Tokyo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_%2854406710465%29.jpg/1280px-%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_%2854406710465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-tokyo/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "m-louis .®  from Osaka, Japan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E4%BA%AC%E5%9B%BD%E7%AB%8B%E8%BF%91%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8_(54406710465).jpg",
+    "file": "File:東京国立近代美術館 (54406710465).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/The_National_Museum_of_Modern_Art%2C_Tokyo_%2853133766316%29.jpg/1280px-The_National_Museum_of_Modern_Art%2C_Tokyo_%2853133766316%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-tokyo/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Modern_Art,_Tokyo_(53133766316).jpg",
+    "file": "File:The National Museum of Modern Art, Tokyo (53133766316).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/The_National_Museum_of_Modern_Art%2C_Tokyo_%2853134244418%29.jpg/1280px-The_National_Museum_of_Modern_Art%2C_Tokyo_%2853134244418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-tokyo/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Modern_Art,_Tokyo_(53134244418).jpg",
+    "file": "File:The National Museum of Modern Art, Tokyo (53134244418).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_National_Museum_of_Modern_Art%2C_Tokyo_Secrets_of_National_Important_Cultural_Properties_%2853133167337%29.jpg/1280px-The_National_Museum_of_Modern_Art%2C_Tokyo_Secrets_of_National_Important_Cultural_Properties_%2853133167337%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-tokyo/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Modern_Art,_Tokyo_Secrets_of_National_Important_Cultural_Properties_(53133167337).jpg",
+    "file": "File:The National Museum of Modern Art, Tokyo Secrets of National Important Cultural Properties (53133167337).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Tokyo%2C_museo_nazionale_d%27arte_moderna%2C_interno_01.jpg/1280px-Tokyo%2C_museo_nazionale_d%27arte_moderna%2C_interno_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-museum-of-modern-art-tokyo/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo,_museo_nazionale_d%27arte_moderna,_interno_01.jpg",
+    "file": "File:Tokyo, museo nazionale d'arte moderna, interno 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "saint-denis-pleyel-station",
@@ -304105,7 +305563,83 @@ window.BUILDINGS = [
   "commons": "Category:Saint-Denis Pleyel (Paris Metro)",
   "lead": "File:Vue générale de face du bâtiment voyageurs de la gare de Saint-Denis - Pleyel depuis le parvis principal.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Escaliers_m%C3%A9caniques_entre_la_ligne_14_et_la_sortie_de_la_station_Saint-Denis_-_Pleyel.jpg/1280px-Escaliers_m%C3%A9caniques_entre_la_ligne_14_et_la_sortie_de_la_station_Saint-Denis_-_Pleyel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-denis-pleyel-station/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Escaliers mécaniques entre la ligne 14 et la sortie de la station Saint-Denis - Pleyel",
+    "credit": "Remontees",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Escaliers_m%C3%A9caniques_entre_la_ligne_14_et_la_sortie_de_la_station_Saint-Denis_-_Pleyel.jpg",
+    "file": "File:Escaliers mécaniques entre la ligne 14 et la sortie de la station Saint-Denis - Pleyel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Station_Saint_Denis_Pleyel_M%C3%A9tro_Paris_-_Saint-Denis_%28FR93%29_-_2026-05-22_-_1.jpg/1280px-Station_Saint_Denis_Pleyel_M%C3%A9tro_Paris_-_Saint-Denis_%28FR93%29_-_2026-05-22_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-denis-pleyel-station/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Station Saint-Denis - Pleyel du métro de Paris, Saint-Denis en Seine-Saint-Denis",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Station_Saint_Denis_Pleyel_M%C3%A9tro_Paris_-_Saint-Denis_(FR93)_-_2026-05-22_-_1.jpg",
+    "file": "File:Station Saint Denis Pleyel Métro Paris - Saint-Denis (FR93) - 2026-05-22 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Station_Saint_Denis_Pleyel_M%C3%A9tro_Paris_-_Saint-Denis_%28FR93%29_-_2024-06-27_-_13.jpg/1280px-Station_Saint_Denis_Pleyel_M%C3%A9tro_Paris_-_Saint-Denis_%28FR93%29_-_2024-06-27_-_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-denis-pleyel-station/thumbs/2.webp",
+    "w": 1280,
+    "h": 642,
+    "kind": "Exterior",
+    "caption": "Exterior · Station Saint-Denis Pleyel du métro de Paris, Saint-Denis en Seine-Saint-Denis",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Station_Saint_Denis_Pleyel_M%C3%A9tro_Paris_-_Saint-Denis_(FR93)_-_2024-06-27_-_13.jpg",
+    "file": "File:Station Saint Denis Pleyel Métro Paris - Saint-Denis (FR93) - 2024-06-27 - 13.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Saint-Denis_-_Pleyel_M%C3%A9tro_14_2024_06.jpg/1280px-Saint-Denis_-_Pleyel_M%C3%A9tro_14_2024_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-denis-pleyel-station/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Station Saint-Denis - Pleyel de la ligne 14 du métro de Paris, le jour de son ouverture, en juin 2024z",
+    "credit": "Idris2000",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saint-Denis_-_Pleyel_M%C3%A9tro_14_2024_06.jpg",
+    "file": "File:Saint-Denis - Pleyel Métro 14 2024 06.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Int%C3%A9rieur_de_la_gare_de_Saint-Denis_-_Pleyel_avec_les_escaliers_m%C3%A9caniques.jpg/1280px-Int%C3%A9rieur_de_la_gare_de_Saint-Denis_-_Pleyel_avec_les_escaliers_m%C3%A9caniques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-denis-pleyel-station/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Intérieur de la gare de Saint-Denis - Pleyel avec les escaliers mécaniques",
+    "credit": "Remontees",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_de_la_gare_de_Saint-Denis_-_Pleyel_avec_les_escaliers_m%C3%A9caniques.jpg",
+    "file": "File:Intérieur de la gare de Saint-Denis - Pleyel avec les escaliers mécaniques.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Int%C3%A9rieur_de_la_gare_de_Saint-Denis_-_Pleyel_avec_une_vol%C3%A9e_d%27escaliers_m%C3%A9caniques.jpg/1280px-Int%C3%A9rieur_de_la_gare_de_Saint-Denis_-_Pleyel_avec_une_vol%C3%A9e_d%27escaliers_m%C3%A9caniques.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saint-denis-pleyel-station/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Intérieur de la gare de Saint-Denis - Pleyel avec une volée d'escaliers mécaniques",
+    "credit": "Remontees",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_de_la_gare_de_Saint-Denis_-_Pleyel_avec_une_vol%C3%A9e_d%27escaliers_m%C3%A9caniques.jpg",
+    "file": "File:Intérieur de la gare de Saint-Denis - Pleyel avec une volée d'escaliers mécaniques.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "fukui-prefectural-dinosaur-museum",
@@ -304129,7 +305663,83 @@ window.BUILDINGS = [
   "commons": "Category:Fukui Prefectural Dinosaur Museum",
   "lead": "File:Fukui Prefectural Dinosaur Museum 20231217.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Fukui_Prefectural_Dinosaur_Museum_20231217.jpg/1280px-Fukui_Prefectural_Dinosaur_Museum_20231217.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-dinosaur-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Totti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Dinosaur_Museum_20231217.jpg",
+    "file": "File:Fukui Prefectural Dinosaur Museum 20231217.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fukui_Prefectural_Dinosaur_Museum_20210504_27.jpg/1280px-Fukui_Prefectural_Dinosaur_Museum_20210504_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-dinosaur-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "先従隗始",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Dinosaur_Museum_20210504_27.jpg",
+    "file": "File:Fukui Prefectural Dinosaur Museum 20210504 27.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Fukuiraptor_Animatronics.jpg/1280px-Fukuiraptor_Animatronics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-dinosaur-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · An animatronics of Fukuiraptor kitadaniensis at the Fukui Prefectural Dinosaur Museum, Katsuyama",
+    "credit": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukuiraptor_Animatronics.jpg",
+    "file": "File:Fukuiraptor Animatronics.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/No_crossing%2C_Fukui_dinosaur_museum.jpg/1280px-No_crossing%2C_Fukui_dinosaur_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-dinosaur-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Journey to Japan",
+    "credit": "sergejf",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:No_crossing,_Fukui_dinosaur_museum.jpg",
+    "file": "File:No crossing, Fukui dinosaur museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Fukui_Prefectural_Dinosaur_Museum_2021-07_ac_%282%29.jpg/1280px-Fukui_Prefectural_Dinosaur_Museum_2021-07_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-dinosaur-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Dinosaur_Museum_2021-07_ac_(2).jpg",
+    "file": "File:Fukui Prefectural Dinosaur Museum 2021-07 ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Fukui_Prefectural_Dinosaur_Museum_2021-07_ac_%283%29.jpg/1280px-Fukui_Prefectural_Dinosaur_Museum_2021-07_ac_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-dinosaur-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Dinosaur_Museum_2021-07_ac_(3).jpg",
+    "file": "File:Fukui Prefectural Dinosaur Museum 2021-07 ac (3).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "torre-realia-bcn",
@@ -304153,7 +305763,83 @@ window.BUILDINGS = [
   "commons": "Category:Torre Realia BCN",
   "lead": "File:Hospitalet de Llobregat - Plaza de Europa, Torres de Toyo Ito (Torres Porta Fira), Torre Realia BCN 5.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Hospitalet_de_Llobregat_-_Plaza_de_Europa%2C_Torres_de_Toyo_Ito_%28Torres_Porta_Fira%29%2C_Torre_Realia_BCN_5.JPG/1280px-Hospitalet_de_Llobregat_-_Plaza_de_Europa%2C_Torres_de_Toyo_Ito_%28Torres_Porta_Fira%29%2C_Torre_Realia_BCN_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-realia-bcn/thumbs/0.webp",
+    "w": 1033,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Zarateman",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hospitalet_de_Llobregat_-_Plaza_de_Europa,_Torres_de_Toyo_Ito_(Torres_Porta_Fira),_Torre_Realia_BCN_5.JPG",
+    "file": "File:Hospitalet de Llobregat - Plaza de Europa, Torres de Toyo Ito (Torres Porta Fira), Torre Realia BCN 5.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Torre_Realia_BCN_10.jpg/1280px-Torre_Realia_BCN_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-realia-bcn/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Kent Wang",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Realia_BCN_10.jpg",
+    "file": "File:Torre Realia BCN 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Torre_Realia_Puerta_de_Europa.jpg/1280px-Torre_Realia_Puerta_de_Europa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-realia-bcn/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre Realia van het Torres KIO-project in Madrid",
+    "credit": "Choinowski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Realia_Puerta_de_Europa.jpg",
+    "file": "File:Torre Realia Puerta de Europa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/16_Torre_Realia_BCN%2C_pl._Europa_41-43_%28l%27Hospitalet_de_Llobregat%29.jpg/1280px-16_Torre_Realia_BCN%2C_pl._Europa_41-43_%28l%27Hospitalet_de_Llobregat%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-realia-bcn/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre Realia BCN, pl",
+    "credit": "Enric",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:16_Torre_Realia_BCN,_pl._Europa_41-43_(l%27Hospitalet_de_Llobregat).jpg",
+    "file": "File:16 Torre Realia BCN, pl. Europa 41-43 (l'Hospitalet de Llobregat).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Torre_Realia_-_20240511_205401.jpg/1280px-Torre_Realia_-_20240511_205401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-realia-bcn/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre Realia",
+    "credit": "Pere López Brosa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Realia_-_20240511_205401.jpg",
+    "file": "File:Torre Realia - 20240511 205401.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hospitalet_de_Llobregat_-_Plaza_de_Europa%2C_Torres_de_Toyo_Ito_%28Torres_Porta_Fira%29%2C_Torre_Realia_BCN_1.JPG/1280px-Hospitalet_de_Llobregat_-_Plaza_de_Europa%2C_Torres_de_Toyo_Ito_%28Torres_Porta_Fira%29%2C_Torre_Realia_BCN_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-realia-bcn/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Zarateman",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hospitalet_de_Llobregat_-_Plaza_de_Europa,_Torres_de_Toyo_Ito_(Torres_Porta_Fira),_Torre_Realia_BCN_1.JPG",
+    "file": "File:Hospitalet de Llobregat - Plaza de Europa, Torres de Toyo Ito (Torres Porta Fira), Torre Realia BCN 1.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nagasaki-museum-of-history-and-culture",
@@ -304177,7 +305863,59 @@ window.BUILDINGS = [
   "commons": "Category:Nagasaki Museum of History and Culture",
   "lead": "File:Nagasaki Museum of History and Culture ac (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Nagasaki_Museum_of_History_and_Culture_ac_%281%29.jpg/1280px-Nagasaki_Museum_of_History_and_Culture_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagasaki-museum-of-history-and-culture/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagasaki_Museum_of_History_and_Culture_ac_(1).jpg",
+    "file": "File:Nagasaki Museum of History and Culture ac (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nagasaki_Museum_of_History_and_Culture_20180616.jpg/1280px-Nagasaki_Museum_of_History_and_Culture_20180616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagasaki-museum-of-history-and-culture/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Houjyou-Minori",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagasaki_Museum_of_History_and_Culture_20180616.jpg",
+    "file": "File:Nagasaki Museum of History and Culture 20180616.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Nagasaki_Museum_of_History_and_Culture_ac_%282%29.jpg/1280px-Nagasaki_Museum_of_History_and_Culture_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagasaki-museum-of-history-and-culture/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagasaki_Museum_of_History_and_Culture_ac_(2).jpg",
+    "file": "File:Nagasaki Museum of History and Culture ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Nagasaki_Museum_of_History_and_Culture_overhead_view_20230324.jpg/1280px-Nagasaki_Museum_of_History_and_Culture_overhead_view_20230324.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nagasaki-museum-of-history-and-culture/thumbs/3.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Marine-Blue",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagasaki_Museum_of_History_and_Culture_overhead_view_20230324.jpg",
+    "file": "File:Nagasaki Museum of History and Culture overhead view 20230324.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kreeger-museum",
@@ -304201,7 +305939,83 @@ window.BUILDINGS = [
   "commons": "Category:Kreeger Museum",
   "lead": "File:Kreeger Museum 1 - 16910611716.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kreeger_Museum_1_-_16910611716.jpg/1280px-Kreeger_Museum_1_-_16910611716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kreeger-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · (c)Amaury Laporte pix.alaporte.net",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreeger_Museum_1_-_16910611716.jpg",
+    "file": "File:Kreeger Museum 1 - 16910611716.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Kreeger_Museum_Inner_Courtyard_-_16314170234.jpg/1280px-Kreeger_Museum_Inner_Courtyard_-_16314170234.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kreeger-museum/thumbs/1.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · (c)Amaury Laporte pix.alaporte.net",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreeger_Museum_Inner_Courtyard_-_16314170234.jpg",
+    "file": "File:Kreeger Museum Inner Courtyard - 16314170234.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kreeger_Museum_2_-_16936547895.jpg/1280px-Kreeger_Museum_2_-_16936547895.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kreeger-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · (c)Amaury Laporte pix.alaporte.net",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreeger_Museum_2_-_16936547895.jpg",
+    "file": "File:Kreeger Museum 2 - 16936547895.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Kreeger_Museum_-_Washington%2C_D.C.jpg/1280px-Kreeger_Museum_-_Washington%2C_D.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kreeger-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 770,
+    "kind": "Exterior",
+    "caption": "Exterior · Kreeger Museum in Washington, D.C",
+    "credit": "APK",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreeger_Museum_-_Washington,_D.C.jpg",
+    "file": "File:Kreeger Museum - Washington, D.C.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Kreeger_Museum_piano.jpg/1280px-Kreeger_Museum_piano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kreeger-museum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Piano inside the Kreeger Museum in Washington, D.C",
+    "credit": "AgnosticPreachersKid",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreeger_Museum_piano.jpg",
+    "file": "File:Kreeger Museum piano.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Kreeger_Museum_hallway.jpg/1280px-Kreeger_Museum_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kreeger-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 1375,
+    "kind": "Interior",
+    "caption": "Interior · A hallway inside the Kreeger Museum in Washington, D.C",
+    "credit": "AgnosticPreachersKid",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kreeger_Museum_hallway.jpg",
+    "file": "File:Kreeger Museum hallway.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "saka-no-ue-no-kumo-museum",
@@ -304225,7 +306039,59 @@ window.BUILDINGS = [
   "commons": "Category:Saka no Ue no Kumo Museum",
   "lead": "File:2023年7月-坂上之雲博物館A.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/2023%E5%B9%B47%E6%9C%88-%E5%9D%82%E4%B8%8A%E4%B9%8B%E9%9B%B2%E5%8D%9A%E7%89%A9%E9%A4%A8A.jpg/1280px-2023%E5%B9%B47%E6%9C%88-%E5%9D%82%E4%B8%8A%E4%B9%8B%E9%9B%B2%E5%8D%9A%E7%89%A9%E9%A4%A8A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saka-no-ue-no-kumo-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "建園春秋",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023%E5%B9%B47%E6%9C%88-%E5%9D%82%E4%B8%8A%E4%B9%8B%E9%9B%B2%E5%8D%9A%E7%89%A9%E9%A4%A8A.jpg",
+    "file": "File:2023年7月-坂上之雲博物館A.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/2023%E5%B9%B47%E6%9C%88-%E5%9D%82%E4%B8%8A%E4%B9%8B%E9%9B%B2%E5%8D%9A%E7%89%A9%E9%A4%A8B.jpg/1280px-2023%E5%B9%B47%E6%9C%88-%E5%9D%82%E4%B8%8A%E4%B9%8B%E9%9B%B2%E5%8D%9A%E7%89%A9%E9%A4%A8B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/saka-no-ue-no-kumo-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "建園春秋",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023%E5%B9%B47%E6%9C%88-%E5%9D%82%E4%B8%8A%E4%B9%8B%E9%9B%B2%E5%8D%9A%E7%89%A9%E9%A4%A8B.jpg",
+    "file": "File:2023年7月-坂上之雲博物館B.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Saka-no-ue-no-kumo_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/saka-no-ue-no-kumo-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Saka no ue no Kumo\" Museum at Matsuyama city, Ehime pref., Japan",
+    "credit": "Tamago915  (  talk  )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saka-no-ue-no-kumo_Museum.jpg",
+    "file": "File:Saka-no-ue-no-kumo Museum.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Sakanouenokumo_museum_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/saka-no-ue-no-kumo-museum/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sakanouenokumo museum",
+    "credit": "DVMG",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakanouenokumo_museum_-_panoramio.jpg",
+    "file": "File:Sakanouenokumo museum - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "onomichi-city-museum-of-art",
@@ -304249,7 +306115,59 @@ window.BUILDINGS = [
   "commons": "Category:Onomichi City Museum of Art",
   "lead": "File:Onomichi City Museum of Art02s3200.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Onomichi_City_Museum_of_Art02s3200.jpg/1280px-Onomichi_City_Museum_of_Art02s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onomichi-city-museum-of-art/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Onomichi City Museum of Art in Onomichi , Hiroshima prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Onomichi_City_Museum_of_Art02s3200.jpg",
+    "file": "File:Onomichi City Museum of Art02s3200.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Onomichi_City_Museum_of_Art.jpg/1280px-Onomichi_City_Museum_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onomichi-city-museum-of-art/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Onomichi City Museum of Art, at Onomichi Hiroshima Japan",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Onomichi_City_Museum_of_Art.jpg",
+    "file": "File:Onomichi City Museum of Art.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Onomichi_City_Museum_of_Art_20180428.jpg/1280px-Onomichi_City_Museum_of_Art_20180428.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onomichi-city-museum-of-art/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Onomichi_City_Museum_of_Art_20180428.jpg",
+    "file": "File:Onomichi City Museum of Art 20180428.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Onomichi_City_Museum_of_Art01s3200.jpg/1280px-Onomichi_City_Museum_of_Art01s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/onomichi-city-museum-of-art/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Onomichi City Museum of Art in Onomichi , Hiroshima prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Onomichi_City_Museum_of_Art01s3200.jpg",
+    "file": "File:Onomichi City Museum of Art01s3200.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hochhaus-neue-donau",
@@ -304273,7 +306191,83 @@ window.BUILDINGS = [
   "commons": "Category:Hochhaus Neue Donau",
   "lead": "File:Hochhaus Neue Donau Vienna from NW on 2012-08-08.png",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hochhaus_Neue_Donau_Vienna_from_NW_on_2012-08-08.png/1280px-Hochhaus_Neue_Donau_Vienna_from_NW_on_2012-08-08.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hochhaus-neue-donau/thumbs/0.webp",
+    "w": 830,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Hochhaus Neue Donau (\"High-rise New Danube\") from the north west on August 8, 2012",
+    "credit": "Robert F. Tobler",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hochhaus_Neue_Donau_Vienna_from_NW_on_2012-08-08.png",
+    "file": "File:Hochhaus Neue Donau Vienna from NW on 2012-08-08.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Hochhaus_Neue_Donau_Vienna_from_NW_on_2012-08-07.jpg/1280px-Hochhaus_Neue_Donau_Vienna_from_NW_on_2012-08-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hochhaus-neue-donau/thumbs/1.webp",
+    "w": 869,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rftblr",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hochhaus_Neue_Donau_Vienna_from_NW_on_2012-08-07.jpg",
+    "file": "File:Hochhaus Neue Donau Vienna from NW on 2012-08-07.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Hochhaus_Neue_Donau-DSC_0016w.jpg/1280px-Hochhaus_Neue_Donau-DSC_0016w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hochhaus-neue-donau/thumbs/2.webp",
+    "w": 957,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · tower building Neue Donau, part of the Donaucity, Vienna - Austria",
+    "credit": "Peter Haas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hochhaus_Neue_Donau-DSC_0016w.jpg",
+    "file": "File:Hochhaus Neue Donau-DSC 0016w.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Donau_City_Vienna_from_SSW_on_2014-08-27.png/1280px-Donau_City_Vienna_from_SSW_on_2014-08-27.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hochhaus-neue-donau/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Donau City in Vienna from south-southwest on August 27, 2014",
+    "credit": "Robert F. Tobler",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Donau_City_Vienna_from_SSW_on_2014-08-27.png",
+    "file": "File:Donau City Vienna from SSW on 2014-08-27.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/2014-09-29_-_Reichsbr%C3%BCcke-Donau_City-Sunken_City.jpg/1280px-2014-09-29_-_Reichsbr%C3%BCcke-Donau_City-Sunken_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hochhaus-neue-donau/thumbs/4.webp",
+    "w": 1280,
+    "h": 663,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Hubertl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014-09-29_-_Reichsbr%C3%BCcke-Donau_City-Sunken_City.jpg",
+    "file": "File:2014-09-29 - Reichsbrücke-Donau City-Sunken City.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Donau_City_Vienna_from_Donauinsel_on_2014-08-28_crop.png/1280px-Donau_City_Vienna_from_Donauinsel_on_2014-08-28_crop.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hochhaus-neue-donau/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · NOTE: This image is a panorama consisting of 3 frames that were merged or stitched in PTGui Pro",
+    "credit": "Robert F. Tobler",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Donau_City_Vienna_from_Donauinsel_on_2014-08-28_crop.png",
+    "file": "File:Donau City Vienna from Donauinsel on 2014-08-28 crop.png"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ito-toren",
@@ -304297,7 +306291,59 @@ window.BUILDINGS = [
   "commons": "Category:Ito Tower (Amsterdam)",
   "lead": "File:Ito Tower.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ito_Tower.jpg/1280px-Ito_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ito-toren/thumbs/0.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · De Ito-toren aan de Amsterdamse Zuidas",
+    "credit": "Steven Lek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ito_Tower.jpg",
+    "file": "File:Ito Tower.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Zuidas4.jpg/1280px-Zuidas4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ito-toren/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture shows the Zuidas in Amsterdam ",
+    "credit": "No machine-readable author provided.  Migdejong  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Zuidas4.jpg",
+    "file": "File:Zuidas4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Amsterdam_-_Ito-Toren_%2829669052133%29.jpg/1280px-Amsterdam_-_Ito-Toren_%2829669052133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ito-toren/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Zuidas - Gustav Mahlerplein Office building",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Ito-Toren_(29669052133).jpg",
+    "file": "File:Amsterdam - Ito-Toren (29669052133).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Amsterdam_-_Ito-Toren_%2829669372324%29.jpg/1280px-Amsterdam_-_Ito-Toren_%2829669372324%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ito-toren/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Zuidas - Gustav Mahlerplein Office building",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_-_Ito-Toren_(29669372324).jpg",
+    "file": "File:Amsterdam - Ito-Toren (29669372324).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "toki-messe",
@@ -304321,7 +306367,83 @@ window.BUILDINGS = [
   "commons": "Category:Toki Messe",
   "lead": "File:TOKI MESSE.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/TOKI_MESSE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/toki-messe/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "HIRO",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:TOKI_MESSE.jpg",
+    "file": "File:TOKI MESSE.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Niigata_20220503155544_%2852274917069%29.jpg/1280px-Niigata_20220503155544_%2852274917069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toki-messe/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · niigata_20220503155544",
+    "credit": "inunami",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Niigata_20220503155544_(52274917069).jpg",
+    "file": "File:Niigata 20220503155544 (52274917069).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Bandaijima_Building_20160504.jpg/1280px-Bandaijima_Building_20160504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toki-messe/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Bandaijima Building is a skyscraper in Niigata City, Japan",
+    "credit": "8-Forest",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bandaijima_Building_20160504.jpg",
+    "file": "File:Bandaijima Building 20160504.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E3%80%8C%E4%BD%90%E6%B8%A1%E5%B3%B6%E3%81%AE%E9%87%91%E5%B1%B1%E3%80%8D%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E6%B1%BA%E5%AE%9A_05.jpg/1280px-%E3%80%8C%E4%BD%90%E6%B8%A1%E5%B3%B6%E3%81%AE%E9%87%91%E5%B1%B1%E3%80%8D%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E6%B1%BA%E5%AE%9A_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toki-messe/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asset utilitist",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E4%BD%90%E6%B8%A1%E5%B3%B6%E3%81%AE%E9%87%91%E5%B1%B1%E3%80%8D%E4%B8%96%E7%95%8C%E6%96%87%E5%8C%96%E9%81%BA%E7%94%A3%E7%99%BB%E9%8C%B2%E6%B1%BA%E5%AE%9A_05.jpg",
+    "file": "File:「佐渡島の金山」世界文化遺産登録決定 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Toki_Messe_Observation_Deck.jpg/1280px-Toki_Messe_Observation_Deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toki-messe/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Manishprabhune",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toki_Messe_Observation_Deck.jpg",
+    "file": "File:Toki Messe Observation Deck.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/The_view_from_Niigata_Nippo_Media_ship_20200906.jpg/1280px-The_view_from_Niigata_Nippo_Media_ship_20200906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toki-messe/thumbs/5.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "皓月旗",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_view_from_Niigata_Nippo_Media_ship_20200906.jpg",
+    "file": "File:The view from Niigata Nippo Media ship 20200906.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mrs-clinton-walker-house",
@@ -304345,7 +306467,83 @@ window.BUILDINGS = [
   "commons": "Category:Mrs. Clinton Walker House",
   "lead": "File:Mrs. Clinton Walker House at Carmel-by-the-Sea.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mrs._Clinton_Walker_House_at_Carmel-by-the-Sea.jpg/1280px-Mrs._Clinton_Walker_House_at_Carmel-by-the-Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mrs-clinton-walker-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bob Aronson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mrs._Clinton_Walker_House_at_Carmel-by-the-Sea.jpg",
+    "file": "File:Mrs. Clinton Walker House at Carmel-by-the-Sea.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Carmel-by-the-Sea.jpg/1280px-Carmel-by-the-Sea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mrs-clinton-walker-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 716,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a picture of the Mrs",
+    "credit": "Greghenderson2006",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carmel-by-the-Sea.jpg",
+    "file": "File:Carmel-by-the-Sea.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Clinton_Walker_House_bow.jpg/1280px-Clinton_Walker_House_bow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mrs-clinton-walker-house/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Picture of the Clinton Walker House bow from the Greg Henderson's photograph collection",
+    "credit": "Greghenderson2006",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clinton_Walker_House_bow.jpg",
+    "file": "File:Clinton Walker House bow.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Clinton_Walker_House_statue.jpg/1280px-Clinton_Walker_House_statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mrs-clinton-walker-house/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Picture of the Clinton Walker House statue from the Greg Henderson's photograph collection",
+    "credit": "Greghenderson2006",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Clinton_Walker_House_statue.jpg",
+    "file": "File:Clinton Walker House statue.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mrs._Clinton_Walker_House_-_Frank_Lloyd_Wright_architecture.jpg/1280px-Mrs._Clinton_Walker_House_-_Frank_Lloyd_Wright_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mrs-clinton-walker-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Context",
+    "caption": "Context · Scenic Rd",
+    "credit": "Bob Aronson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mrs._Clinton_Walker_House_-_Frank_Lloyd_Wright_architecture.jpg",
+    "file": "File:Mrs. Clinton Walker House - Frank Lloyd Wright architecture.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Street_View_of_Mrs._Clinton_Walker_House.jpg/1280px-Street_View_of_Mrs._Clinton_Walker_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mrs-clinton-walker-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Bob Aronson",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Street_View_of_Mrs._Clinton_Walker_House.jpg",
+    "file": "File:Street View of Mrs. Clinton Walker House.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "museum-reinhard-ernst",
@@ -304369,7 +306567,83 @@ window.BUILDINGS = [
   "commons": "Category:Museum Reinhard Ernst",
   "lead": "File:Museum Reinhard Ernst Wiesbaden 8376 7 8.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg/1280px-Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-reinhard-ernst/thumbs/0.webp",
+    "w": 1280,
+    "h": 823,
+    "kind": "Exterior",
+    "caption": "Exterior · Museum Reinhard Ernst, Wiesbaden",
+    "credit": "Welt-der-Form",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_Reinhard_Ernst_Wiesbaden_8376_7_8.jpg",
+    "file": "File:Museum Reinhard Ernst Wiesbaden 8376 7 8.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/MJK_75619_Baugrube_Museums_Reinhard_Ernst_%28Wiesbaden%29.jpg/1280px-MJK_75619_Baugrube_Museums_Reinhard_Ernst_%28Wiesbaden%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-reinhard-ernst/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The excavation pit of the Reinhard Ernst Museum in Wiesbaden",
+    "credit": "Martin Kraft",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MJK_75619_Baugrube_Museums_Reinhard_Ernst_(Wiesbaden).jpg",
+    "file": "File:MJK 75619 Baugrube Museums Reinhard Ernst (Wiesbaden).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/MJK_76442_Baugrube_Museum_Reinhard_Ernst_%28Wiesbaden%29.jpg/1280px-MJK_76442_Baugrube_Museum_Reinhard_Ernst_%28Wiesbaden%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-reinhard-ernst/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · The excavation pit of the Reinhard Ernst Museum in Wiesbaden",
+    "credit": "Martin Kraft",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MJK_76442_Baugrube_Museum_Reinhard_Ernst_(Wiesbaden).jpg",
+    "file": "File:MJK 76442 Baugrube Museum Reinhard Ernst (Wiesbaden).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mre_Frontansicht_2023_%28c%29_Reinhard_%26_Sonja_Ernst-Stiftung_Museum_Reinhard_Ernst%2C_Foto_Helbig_Marburger.jpg/1280px-Mre_Frontansicht_2023_%28c%29_Reinhard_%26_Sonja_Ernst-Stiftung_Museum_Reinhard_Ernst%2C_Foto_Helbig_Marburger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-reinhard-ernst/thumbs/3.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Das Museum Reinhard Ernst in der Wilhelmstraße 1 in Wiesbaden",
+    "credit": "Kthrngrn",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mre_Frontansicht_2023_(c)_Reinhard_%26_Sonja_Ernst-Stiftung_Museum_Reinhard_Ernst,_Foto_Helbig_Marburger.jpg",
+    "file": "File:Mre Frontansicht 2023 (c) Reinhard & Sonja Ernst-Stiftung Museum Reinhard Ernst, Foto Helbig Marburger.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Ernst_Museum%2C_Wiesbaden%2C_interior.jpg/1280px-Ernst_Museum%2C_Wiesbaden%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-reinhard-ernst/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Ernst Museum, Wiesbaden, interior",
+    "credit": "Gerda Arendt",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ernst_Museum,_Wiesbaden,_interior.jpg",
+    "file": "File:Ernst Museum, Wiesbaden, interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Ernst_Museum%2C_Wiesbaden%2C_atrium.jpg/1280px-Ernst_Museum%2C_Wiesbaden%2C_atrium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/museum-reinhard-ernst/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Ernst Museum, Wiesbaden, atrium",
+    "credit": "Gerda Arendt",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ernst_Museum,_Wiesbaden,_atrium.jpg",
+    "file": "File:Ernst Museum, Wiesbaden, atrium.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "richard-king-mellon-hall",
@@ -304393,7 +306667,59 @@ window.BUILDINGS = [
   "commons": "Category:Richard King Mellon Hall of Science, Duquesne University",
   "lead": "File:Mellon Hall, Duquesne University, 2023-05-04, 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mellon_Hall%2C_Duquesne_University%2C_2023-05-04%2C_01.jpg/1280px-Mellon_Hall%2C_Duquesne_University%2C_2023-05-04%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/richard-king-mellon-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Mellon Hall of Science at Duquesne University (architect Ludwig Mies van der Rohe)",
+    "credit": "Cbaile19",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mellon_Hall,_Duquesne_University,_2023-05-04,_01.jpg",
+    "file": "File:Mellon Hall, Duquesne University, 2023-05-04, 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Richard_King_Mellon_Hall_of_Science.jpg/1280px-Richard_King_Mellon_Hall_of_Science.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/richard-king-mellon-hall/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Richard King Mellon Hall of Science at Duquesne University, Pennsylvania",
+    "credit": "EmiliustheGreat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Richard_King_Mellon_Hall_of_Science.jpg",
+    "file": "File:Richard King Mellon Hall of Science.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Mellon_Hall%2C_Duquesne_University%2C_2023-05-04%2C_colonnade_01.jpg/1280px-Mellon_Hall%2C_Duquesne_University%2C_2023-05-04%2C_colonnade_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/richard-king-mellon-hall/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Mellon Hall of Science at Duquesne University (architect Ludwig Mies van der Rohe)",
+    "credit": "Cbaile19",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mellon_Hall,_Duquesne_University,_2023-05-04,_colonnade_01.jpg",
+    "file": "File:Mellon Hall, Duquesne University, 2023-05-04, colonnade 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Mellon_Hall%2C_Duquesne_University%2C_2023-05-04%2C_colonnade_02.jpg/1280px-Mellon_Hall%2C_Duquesne_University%2C_2023-05-04%2C_colonnade_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/richard-king-mellon-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Mellon Hall of Science at Duquesne University (architect Ludwig Mies van der Rohe)",
+    "credit": "Cbaile19",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mellon_Hall,_Duquesne_University,_2023-05-04,_colonnade_02.jpg",
+    "file": "File:Mellon Hall, Duquesne University, 2023-05-04, colonnade 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "torre-picasso",
@@ -304417,7 +306743,83 @@ window.BUILDINGS = [
   "commons": "Category:Torre Picasso",
   "lead": "File:Madrid May 2014-52a.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Madrid_May_2014-52a.jpg/1280px-Madrid_May_2014-52a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-picasso/thumbs/0.webp",
+    "w": 899,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre Picasso, Madrid",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_May_2014-52a.jpg",
+    "file": "File:Madrid May 2014-52a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Torre_Picasso_-_01.jpg/1280px-Torre_Picasso_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-picasso/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Picasso Tower, Madrid, Spain",
+    "credit": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Picasso_-_01.jpg",
+    "file": "File:Torre Picasso - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Madrid_Paseo_de_Castellana.jpg/1280px-Madrid_Paseo_de_Castellana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-picasso/thumbs/2.webp",
+    "w": 1280,
+    "h": 997,
+    "kind": "Exterior",
+    "caption": "Exterior · A view of AZCA (a business park ) from Paseo de la Castellana (avenue) in Madrid ( Spain )",
+    "credit": "Xauxa  Håkan Svensson",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_Paseo_de_Castellana.jpg",
+    "file": "File:Madrid Paseo de Castellana.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2014%2C_Torre_Picasso_%28Picasso_Tower%29_phograph_2%2C_black_and_white.JPG/1280px-2014%2C_Torre_Picasso_%28Picasso_Tower%29_phograph_2%2C_black_and_white.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-picasso/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre Picasso (Picasso Tower) and BBVA and other buildgs in the Madrid, Spain Bankers Buildings of Finance",
+    "credit": "David Adam Kess",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014,_Torre_Picasso_(Picasso_Tower)_phograph_2,_black_and_white.JPG",
+    "file": "File:2014, Torre Picasso (Picasso Tower) phograph 2, black and white.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/AZCA_%28Madrid%29_10.jpg/1280px-AZCA_%28Madrid%29_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-picasso/thumbs/4.webp",
+    "w": 1280,
+    "h": 953,
+    "kind": "Context",
+    "caption": "Context · View from AZCA business park in Madrid ( Spain )",
+    "credit": "Luis García ( Zaqarbal )",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:AZCA_(Madrid)_10.jpg",
+    "file": "File:AZCA (Madrid) 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/AZCA_%28Madrid%29_11.jpg/1280px-AZCA_%28Madrid%29_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/torre-picasso/thumbs/5.webp",
+    "w": 1280,
+    "h": 948,
+    "kind": "Context",
+    "caption": "Context · View from AZCA business park in Madrid ( Spain )",
+    "credit": "Luis García ( Zaqarbal )",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:AZCA_(Madrid)_11.jpg",
+    "file": "File:AZCA (Madrid) 11.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mode-gakuen-spiral-towers",
@@ -304441,6 +306843,82 @@ window.BUILDINGS = [
   "commons": "Category:Nagoya Mode Academy Spiral Towers",
   "lead": "File:Mode Spiral Towers in Nagoya02.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Mode_Spiral_Towers_in_Nagoya02.JPG/1280px-Mode_Spiral_Towers_in_Nagoya02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mode-gakuen-spiral-towers/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Nagoya Mode Academy Spiral Towers",
+    "credit": "Kansai explorer",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mode_Spiral_Towers_in_Nagoya02.JPG",
+    "file": "File:Mode Spiral Towers in Nagoya02.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Nagoya_Spiral_Towers_dk3816.jpg/1280px-Nagoya_Spiral_Towers_dk3816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mode-gakuen-spiral-towers/thumbs/1.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Nagoya, Mode Academy Spiral Towers",
+    "credit": "DrKssn",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_Spiral_Towers_dk3816.jpg",
+    "file": "File:Nagoya Spiral Towers dk3816.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Nagoya_Mode_Academy_Spiral_Towers_2018-08-07.jpg/1280px-Nagoya_Mode_Academy_Spiral_Towers_2018-08-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mode-gakuen-spiral-towers/thumbs/2.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Stck w",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_Mode_Academy_Spiral_Towers_2018-08-07.jpg",
+    "file": "File:Nagoya Mode Academy Spiral Towers 2018-08-07.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/NAGOYA_Spiral_Towers_-_flickr_33394733682_00a34fdb34_o.jpg/1280px-NAGOYA_Spiral_Towers_-_flickr_33394733682_00a34fdb34_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mode-gakuen-spiral-towers/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "S.Brickman",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NAGOYA_Spiral_Towers_-_flickr_33394733682_00a34fdb34_o.jpg",
+    "file": "File:NAGOYA Spiral Towers - flickr 33394733682 00a34fdb34 o.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nagoya_Spiral_Towers_dk3804.jpg/1280px-Nagoya_Spiral_Towers_dk3804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mode-gakuen-spiral-towers/thumbs/4.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Nagoya, Spiral Towers of the Mode Academy",
+    "credit": "DrKssn",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nagoya_Spiral_Towers_dk3804.jpg",
+    "file": "File:Nagoya Spiral Towers dk3804.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/230616_Nagoya_Mode_Academy_Spiral_Towers_at_night.jpg/1280px-230616_Nagoya_Mode_Academy_Spiral_Towers_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mode-gakuen-spiral-towers/thumbs/5.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "名古屋太郎",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:230616_Nagoya_Mode_Academy_Spiral_Towers_at_night.jpg",
+    "file": "File:230616 Nagoya Mode Academy Spiral Towers at night.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
