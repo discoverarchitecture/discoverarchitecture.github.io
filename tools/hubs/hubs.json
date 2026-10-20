@@ -1,0 +1,357 @@
+{
+ "note": "The first 32 hub pages (owner-approved list, 20 Oct 2026). match: movement | type | city (\"City, Country\" as place_full writes it) | concept. Counts change as buildings are added; the generator recounts.",
+ "hubs": [
+  {
+   "kind": "style",
+   "slug": "brutalism",
+   "label": "Brutalism",
+   "match": {
+    "movement": "Brutalism"
+   },
+   "h1": "Brutalist architecture",
+   "title_words": "Brutalist architecture",
+   "count_20oct": 249
+  },
+  {
+   "kind": "style",
+   "slug": "modernism",
+   "label": "Modernism",
+   "match": {
+    "movement": "Modernism"
+   },
+   "h1": "Modernist architecture",
+   "title_words": "Modernist architecture",
+   "count_20oct": 740
+  },
+  {
+   "kind": "style",
+   "slug": "contemporary",
+   "label": "Contemporary",
+   "match": {
+    "movement": "Contemporary"
+   },
+   "h1": "Contemporary architecture",
+   "title_words": "Contemporary architecture",
+   "count_20oct": 999
+  },
+  {
+   "kind": "style",
+   "slug": "deconstructivism",
+   "label": "Deconstructivism",
+   "match": {
+    "movement": "Deconstructivism"
+   },
+   "h1": "Deconstructivist architecture",
+   "title_words": "Deconstructivist architecture",
+   "count_20oct": 71
+  },
+  {
+   "kind": "style",
+   "slug": "parametric",
+   "label": "Parametric",
+   "match": {
+    "movement": "Parametric"
+   },
+   "h1": "Parametric architecture",
+   "title_words": "Parametric architecture",
+   "count_20oct": 51
+  },
+  {
+   "kind": "style",
+   "slug": "high-tech",
+   "label": "High-tech",
+   "match": {
+    "movement": "High-tech"
+   },
+   "h1": "High-tech architecture",
+   "title_words": "High-tech architecture",
+   "count_20oct": 94
+  },
+  {
+   "kind": "style",
+   "slug": "postmodernism",
+   "label": "Postmodernism",
+   "match": {
+    "movement": "Postmodernism"
+   },
+   "h1": "Postmodern architecture",
+   "title_words": "Postmodern architecture",
+   "count_20oct": 149
+  },
+  {
+   "kind": "style",
+   "slug": "art-deco",
+   "label": "Art Deco",
+   "match": {
+    "movement": "Art Deco"
+   },
+   "h1": "Art Deco architecture",
+   "title_words": "Art Deco architecture",
+   "count_20oct": 83
+  },
+  {
+   "kind": "style",
+   "slug": "art-nouveau",
+   "label": "Art Nouveau",
+   "match": {
+    "movement": "Art Nouveau"
+   },
+   "h1": "Art Nouveau architecture",
+   "title_words": "Art Nouveau architecture",
+   "count_20oct": 63
+  },
+  {
+   "kind": "style",
+   "slug": "regionalism",
+   "label": "Regionalism",
+   "match": {
+    "movement": "Regionalism"
+   },
+   "h1": "Critical regionalism in architecture",
+   "title_words": "Critical regionalism in architecture",
+   "count_20oct": 214
+  },
+  {
+   "kind": "type",
+   "slug": "museums",
+   "label": "Museums",
+   "match": {
+    "type": "Museum"
+   },
+   "h1": "Museum architecture",
+   "title_words": "Museum architecture",
+   "count_20oct": 611
+  },
+  {
+   "kind": "type",
+   "slug": "houses",
+   "label": "Houses",
+   "match": {
+    "type": "House"
+   },
+   "h1": "Famous houses by architects",
+   "title_words": "Famous houses by architects",
+   "count_20oct": 209
+  },
+  {
+   "kind": "type",
+   "slug": "libraries",
+   "label": "Libraries",
+   "match": {
+    "type": "Library"
+   },
+   "h1": "Library architecture",
+   "title_words": "Library architecture",
+   "count_20oct": 129
+  },
+  {
+   "kind": "type",
+   "slug": "pavilions",
+   "label": "Pavilions",
+   "match": {
+    "type": "Pavilion"
+   },
+   "h1": "Pavilion architecture",
+   "title_words": "Pavilion architecture",
+   "count_20oct": 44
+  },
+  {
+   "kind": "type",
+   "slug": "housing",
+   "label": "Housing",
+   "match": {
+    "type": "Housing"
+   },
+   "h1": "Housing architecture",
+   "title_words": "Housing architecture",
+   "count_20oct": 236
+  },
+  {
+   "kind": "type",
+   "slug": "religious-buildings",
+   "label": "Religious buildings",
+   "match": {
+    "type": "Religious"
+   },
+   "h1": "Religious architecture: churches, mosques and temples",
+   "title_words": "Religious architecture: churches, mosques and temples",
+   "count_20oct": 331
+  },
+  {
+   "kind": "type",
+   "slug": "schools-and-campuses",
+   "label": "Schools & campuses",
+   "match": {
+    "type": "Education"
+   },
+   "h1": "School and campus architecture",
+   "title_words": "School and campus architecture",
+   "count_20oct": 192
+  },
+  {
+   "kind": "type",
+   "slug": "memorials",
+   "label": "Memorials",
+   "match": {
+    "type": "Memorial"
+   },
+   "h1": "Memorial architecture",
+   "title_words": "Memorial architecture",
+   "count_20oct": 106
+  },
+  {
+   "kind": "city",
+   "slug": "london",
+   "label": "London",
+   "match": {
+    "city": "London, United Kingdom"
+   },
+   "h1": "Architecture in London",
+   "title_words": "London architecture",
+   "count_20oct": 103
+  },
+  {
+   "kind": "city",
+   "slug": "new-york",
+   "label": "New York",
+   "match": {
+    "city": "New York, United States"
+   },
+   "h1": "Architecture in New York",
+   "title_words": "New York architecture",
+   "count_20oct": 47
+  },
+  {
+   "kind": "city",
+   "slug": "chicago",
+   "label": "Chicago",
+   "match": {
+    "city": "Chicago, United States"
+   },
+   "h1": "Architecture in Chicago",
+   "title_words": "Chicago architecture",
+   "count_20oct": 36
+  },
+  {
+   "kind": "city",
+   "slug": "paris",
+   "label": "Paris",
+   "match": {
+    "city": "Paris, France"
+   },
+   "h1": "Architecture in Paris",
+   "title_words": "Paris architecture",
+   "count_20oct": 50
+  },
+  {
+   "kind": "city",
+   "slug": "berlin",
+   "label": "Berlin",
+   "match": {
+    "city": "Berlin, Germany"
+   },
+   "h1": "Architecture in Berlin",
+   "title_words": "Berlin architecture",
+   "count_20oct": 74
+  },
+  {
+   "kind": "city",
+   "slug": "tokyo",
+   "label": "Tokyo",
+   "match": {
+    "city": "Tokyo, Japan"
+   },
+   "h1": "Architecture in Tokyo",
+   "title_words": "Tokyo architecture",
+   "count_20oct": 69
+  },
+  {
+   "kind": "city",
+   "slug": "barcelona",
+   "label": "Barcelona",
+   "match": {
+    "city": "Barcelona, Spain"
+   },
+   "h1": "Architecture in Barcelona",
+   "title_words": "Barcelona architecture",
+   "count_20oct": 38
+  },
+  {
+   "kind": "city",
+   "slug": "los-angeles",
+   "label": "Los Angeles",
+   "match": {
+    "city": "Los Angeles, United States"
+   },
+   "h1": "Architecture in Los Angeles",
+   "title_words": "Los Angeles architecture",
+   "count_20oct": 28
+  },
+  {
+   "kind": "idea",
+   "slug": "adaptive-reuse",
+   "label": "Adaptive reuse",
+   "match": {
+    "concept": "Adaptive reuse"
+   },
+   "h1": "Adaptive reuse in architecture",
+   "title_words": "Adaptive reuse architecture examples",
+   "count_20oct": 179
+  },
+  {
+   "kind": "idea",
+   "slug": "cantilever",
+   "label": "Cantilever",
+   "match": {
+    "concept": "Cantilever"
+   },
+   "h1": "Cantilever in architecture",
+   "title_words": "Cantilever architecture examples",
+   "count_20oct": 170
+  },
+  {
+   "kind": "idea",
+   "slug": "courtyard",
+   "label": "Courtyard",
+   "match": {
+    "concept": "Courtyard"
+   },
+   "h1": "Courtyard in architecture",
+   "title_words": "Courtyard architecture examples",
+   "count_20oct": 293
+  },
+  {
+   "kind": "idea",
+   "slug": "brise-soleil",
+   "label": "Brise-soleil",
+   "match": {
+    "concept": "Brise-soleil"
+   },
+   "h1": "Brise-soleil in architecture",
+   "title_words": "Brise-soleil architecture examples",
+   "count_20oct": 61
+  },
+  {
+   "kind": "idea",
+   "slug": "timber",
+   "label": "Timber",
+   "match": {
+    "concept": "Timber"
+   },
+   "h1": "Timber in architecture",
+   "title_words": "Timber architecture examples",
+   "count_20oct": 192
+  },
+  {
+   "kind": "idea",
+   "slug": "tensile-structures",
+   "label": "Tensile structures",
+   "match": {
+    "concept": "Tensile structure"
+   },
+   "h1": "Tensile structures in architecture",
+   "title_words": "Tensile structures architecture examples",
+   "count_20oct": 56
+  }
+ ]
+}
