@@ -62,11 +62,11 @@ FULL, THUMB = 1400, 520
 
 
 # ---------- HTTP ----------
-def fetch(url, timeout=60):
+def fetch(url, timeout=60, extra=None):
     """GET with polite retries: Wikimedia answers 429 when it's busy."""
     for attempt in range(7):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': UA})
+            req = urllib.request.Request(url, headers={'User-Agent': UA, **(extra or {})})
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 data = r.read()
             time.sleep(0.3)
@@ -365,6 +365,8 @@ def drawings(pool, picks):
 
 
 AIC = ROOT / 'tools' / 'aic' / 'candidates.json'
+AIC_UA = 'FindGreatArchitecture/0.1 (https://findgreatarchitecture.com; architecture study site; contact via GitHub discoverarchitecture)'
+AIC_HEADERS = {'User-Agent': AIC_UA, 'AIC-User-Agent': AIC_UA}  # what tools/aic_scan.py sends, which the museum accepts
 
 
 def aic_picks(b, ch):
@@ -608,23 +610,30 @@ def main():
                 save(head, items)
                 continue
             folder = IMG / b['id']
-            for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
-                f.unlink()
             # The first hundred host their photos; later buildings host only the small wall
             # thumbnail and show the full photo from Wikimedia, to stay under the Pages size limit.
+            # Art Institute works are always hosted here: the museum's image server is theirs, not a CDN.
             hot = b.get('hotlink', False)
             photos = [p for p in picks if p['kind'] not in DRAWINGS][:HOT_PICKS if hot else MAX_PICKS]
             picks = photos + [p for p in picks if p['kind'] in DRAWINGS][:MAX_DRAWINGS]
-            def get(kp):
-                k, p = kp
+            def download(p):
                 url = p['info'].get('thumburl') or p['info']['url']
-                return save_image(fetch(url, timeout=120), folder, k, thumb_only=hot), url
+                if not p['title'].startswith('AIC:'):
+                    return fetch(url, timeout=120), url
+                try:
+                    return fetch(url, timeout=120, extra=AIC_HEADERS), url
+                except urllib.error.HTTPError:  # some works are only served at the smaller size
+                    return fetch(url.replace('/full/843,/', '/full/400,/'), timeout=120, extra=AIC_HEADERS), url
             from concurrent.futures import ThreadPoolExecutor
-            with ThreadPoolExecutor(4) as pool:
-                sizes = list(pool.map(get, enumerate(picks)))
+            with ThreadPoolExecutor(4) as pool:  # download everything first: a failure leaves the old gallery whole
+                got = list(pool.map(download, picks))
+            for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
+                f.unlink()
+            local = lambda p: not hot or p['title'].startswith('AIC:')
+            sizes = [(save_image(data, folder, k, thumb_only=not local(p)), url) for k, (p, (data, url)) in enumerate(zip(picks, got))]
             images = []
             for k, (p, ((w, h), url)) in enumerate(zip(picks, sizes)):
-                images.append({'src': url if hot else f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
+                images.append({'src': f'images/{b["id"]}/{k}.webp' if local(p) else url, 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
             own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover,

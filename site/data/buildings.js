@@ -4884,18 +4884,6 @@ window.BUILDINGS = [
     "file": "File:Sydney Harbour Bridge and Sydney Opera House panorama.jpg"
    },
    {
-    "src": "images/sydney-opera-house/8.webp",
-    "thumb": "images/sydney-opera-house/thumbs/8.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Photographic Collection  from Australia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Longitudinal_Section_Through_Major_Hall_(Sydney_Opera_House)_(5373322093).jpg",
-    "file": "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg"
-   },
-   {
     "src": "images/sydney-opera-house/9.webp",
     "thumb": "images/sydney-opera-house/thumbs/9.webp",
     "w": 1280,
@@ -4930,6 +4918,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Site_Plan_(Sydney_Opera_House)_(5373322823).jpg",
     "file": "File:Site Plan (Sydney Opera House) (5373322823).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/8.webp",
+    "thumb": "images/sydney-opera-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Photographic Collection  from Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Longitudinal_Section_Through_Major_Hall_(Sydney_Opera_House)_(5373322093).jpg",
+    "file": "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg"
    }
   ],
   "commons": "Category:Sydney Opera House",
