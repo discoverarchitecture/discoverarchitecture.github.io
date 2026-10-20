@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-20T04:39:42+00:00",
+ "fetched_at": "2026-10-20T11:25:22+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 327,
+ "visits_30d": 339,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 103,
+     "count": 105,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -40,6 +40,14 @@
     },
     {
      "count": 3,
+     "path_id": 113007284,
+     "path": "/buildings/jacobs-ii-house-solar-hemicycle",
+     "event": false,
+     "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 112334616,
      "path": "/buildings/malaysian-houses-of-parliament",
      "event": false,
@@ -52,14 +60,6 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113007284,
-     "path": "/buildings/jacobs-ii-house-solar-hemicycle",
-     "event": false,
-     "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
      "max": 1
     },
     {
@@ -136,6 +136,14 @@
     },
     {
      "count": 2,
+     "path_id": 112277521,
+     "path": "/buildings/chand-baori",
+     "event": false,
+     "title": "Chand Baori \u2014 Abhaneri, c. 800: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112249459,
      "path": "/buildings/engel-house-tel-aviv",
      "event": false,
@@ -188,6 +196,70 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113212614,
+     "path": "/buildings/world-forum-congress-building",
+     "event": false,
+     "title": "World Forum (Congress Building) \u2014 J. J. P. Oud, 1969: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113208682,
+     "path": "/buildings/le-fresnoy",
+     "event": false,
+     "title": "Le Fresnoy \u2014 Bernard Tschumi, 1997: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113204698,
+     "path": "/buildings/deutsches-architekturmuseum",
+     "event": false,
+     "title": "Deutsches Architekturmuseum (DAM), 1984: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113190057,
+     "path": "/buildings/torres-blancas",
+     "event": false,
+     "title": "Torres Blancas \u2014 Francisco Javier S\u00e1enz de Oiza, 1969",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113183120,
+     "path": "/buildings/ocbc-centre",
+     "event": false,
+     "title": "OCBC Centre \u2014 I. M. Pei, 1976: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113177438,
+     "path": "/buildings/yamaguchi-center-for-arts-and-media",
+     "event": false,
+     "title": "Yamaguchi Center for Arts and Media (YCAM), 2003: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113163505,
+     "path": "/buildings/de-rotterdam",
+     "event": false,
+     "title": "De Rotterdam \u2014 OMA, 2013: photos, plans & sections",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113162917,
+     "path": "/buildings/singapore-flyer",
+     "event": false,
+     "title": "Singapore Flyer, 2008: photos",
      "max": 1
     },
     {
@@ -733,81 +805,9 @@
      "event": false,
      "title": "Cosmic Rays Pavilion, 1951: photos, plans & sections",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112753884,
-     "path": "/buildings/unidad-vecinal-portales",
-     "event": false,
-     "title": "Unidad Vecinal Portales, 1966: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112753079,
-     "path": "building/garden-and-house",
-     "event": true,
-     "title": "Garden & House",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112746558,
-     "path": "building/house-in-white",
-     "event": true,
-     "title": "House in White",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112736600,
-     "path": "building/schindler-house",
-     "event": true,
-     "title": "Schindler House",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112736376,
-     "path": "/buildings/notre-dame-du-haut",
-     "event": false,
-     "title": "Notre-Dame du Haut \u2014 Le Corbusier, 1955: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112732230,
-     "path": "/buildings/church-of-saint-nicolas-heremence",
-     "event": false,
-     "title": "Church of Saint-Nicolas, H\u00e9r\u00e9mence, 1971: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112719572,
-     "path": "building/bloco-das-aguas-livres",
-     "event": true,
-     "title": "Bloco das \u00c1guas Livres",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112719549,
-     "path": "/buildings/bloco-das-aguas-livres",
-     "event": false,
-     "title": "Bloco das \u00c1guas Livres, 1955: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112697945,
-     "path": "/buildings/pennzoil-place",
-     "event": false,
-     "title": "Pennzoil Place \u2014 Philip Johnson and John Burgee, 1975",
-     "max": 1
     }
    ],
-   "total": 240,
+   "total": 244,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 131,
+     "count": 141,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 90,
+     "count": 92,
      "ref_scheme": "o"
     },
     {
@@ -885,17 +885,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 209
+     "count": 218
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 106
+     "count": 108
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 12
+     "count": 13
     }
    ],
    "more": false
@@ -905,27 +905,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 137
+     "count": 142
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 76
+     "count": 77
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 43
+     "count": 45
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 37
+     "count": 39
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 33
+     "count": 35
     },
     {
      "id": "Chrome OS",
@@ -940,22 +940,27 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 87
+     "count": 88
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 75
+     "count": 77
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 20
+     "count": 21
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 16
+     "count": 17
+    },
+    {
+     "id": "ES",
+     "name": "Spain",
+     "count": 13
     },
     {
      "id": "AU",
@@ -968,9 +973,19 @@
      "count": 12
     },
     {
-     "id": "ES",
-     "name": "Spain",
-     "count": 12
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 8
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 7
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 7
     },
     {
      "id": "PT",
@@ -981,21 +996,6 @@
      "id": "TR",
      "name": "Turkey",
      "count": 7
-    },
-    {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 6
-    },
-    {
-     "id": "FR",
-     "name": "France",
-     "count": 6
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 6
     },
     {
      "id": "MX",
@@ -1045,6 +1045,11 @@
     {
      "id": "BR",
      "name": "Brazil",
+     "count": 2
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
      "count": 2
     },
     {
@@ -1103,6 +1108,11 @@
      "count": 1
     },
     {
+     "id": "HK",
+     "name": "Hong Kong",
+     "count": 1
+    },
+    {
      "id": "HR",
      "name": "Croatia",
      "count": 1
@@ -1115,11 +1125,6 @@
     {
      "id": "JP",
      "name": "Japan",
-     "count": 1
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
      "count": 1
     },
     {
@@ -1180,7 +1185,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 106
+     "count": 109
     },
     {
      "id": "tablet",
@@ -1190,12 +1195,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 189
+     "count": 197
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 7
+     "count": 8
     },
     {
      "id": "unknown",
@@ -1210,7 +1215,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 327
+     "count": 339
     }
    ],
    "more": false
