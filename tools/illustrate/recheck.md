@@ -184,3 +184,7 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Cinema Opera | Bahjat Abdelnour | Beirut, LB |
 | Merck Headquarters Building | Kevin Roche John Dinkeloo and Associates | Whitehouse Station, US |
 | Halifax Central Library | Schmidt Hammer Lassen with Fowler Bauld & Mitchell | Halifax, CA |
+| Brisbane Powerhouse | Roy Rusden Ogg | Brisbane, AU |
+| Centenary Pool Complex | James Birrell | Brisbane, AU |
+| KölnTurm | Jean Nouvel (Ateliers Jean Nouvel) with Kohl & Kohl | Cologne, DE |
+| Perth Stadium (Optus Stadium) | Hassell, HKS and Cox | Perth, AU |

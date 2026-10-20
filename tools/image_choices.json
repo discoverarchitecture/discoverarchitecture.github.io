@@ -26292,8 +26292,8 @@
  "manning-clark-house": {
   "category": "Category:Manning Clark House",
   "add": [
-   "File:Manning Clark house, Forrest, Australian Capital Territory.JPG",
-   "File:Manning Clark home.JPG"
+   "File:Manning Clark home.JPG",
+   "File:Manning Clark house, Forrest, Australian Capital Territory.JPG"
   ]
  },
  "newburn-flats": {
@@ -26339,6 +26339,9 @@
   "add": [
    "File:Front Elevation.jpg",
    "File:RMIT Capitol Melbourne.jpg"
+  ],
+  "skip": [
+   "File:Capitol Theatre (48112061772).jpg"
   ]
  },
  "sydney-harbour-bridge": {
@@ -26440,8 +26443,14 @@
  },
  "edmund-barton-building-canberra": {
   "add": [
-   "File:Edmund Barton Building facade.JPG",
-   "File:Edmund barton building canberra.JPG"
+   "File:Edmund barton building canberra.JPG",
+   "File:Edmund Barton Building facade.JPG"
+  ],
+  "skip": [
+   "File:WestcottBarton StEdward arcade.jpg",
+   "File:WestcottBarton StEdward column.jpg",
+   "File:Westcot Barton Howard 1910 Page028.jpg",
+   "File:Church, Middle Barton (6330259666).jpg"
   ]
  },
  "centenary-pool-complex-brisbane": {
@@ -26480,6 +26489,7 @@
  "auckland-town-hall": {
   "category": "Category:Auckland Town Hall",
   "add": [
+   "File:Aucklandtownhall.jpg",
    "File:Aotea Square and Auckland Town Hall 02.jpg",
    "File:Auckland Town Hall 01.jpg"
   ]
@@ -26487,8 +26497,12 @@
  "wellington-town-hall": {
   "category": "Category:Wellington Town Hall",
   "add": [
-   "File:Wellington Town Hall.jpg",
-   "File:Wellington Town Hall, Wellington, New Zealand (11).JPG"
+   "File:Wellington Town Hall, Wellington, New Zealand (11).JPG",
+   "File:Wellington Town Hall.jpg"
+  ],
+  "skip": [
+   "File:Sir Edmund and Lady Louise Hillary leaving the Wellington Town Hall, 1956.jpg",
+   "File:Princess Alexandra Wellington Town Hall 1971.jpg"
   ]
  },
  "auckland-civic-theatre": {
@@ -26506,6 +26520,7 @@
  },
  "national-wine-centre-adelaide": {
   "add": [
+   "File:Adelaide 2009 201.JPG",
    "File:National wine centre walkway - Adelaide.jpg",
    "File:National Wine Centre.jpg"
   ]
@@ -26519,8 +26534,12 @@
  },
  "gladesville-bridge-sydney": {
   "add": [
+   "File:Gladesville Bridge from Paramatta River in December 2014.jpg",
    "File:Gladesville Bridge Sydney 001.jpg",
    "File:Gladesville Bridge (8495164034).jpg"
+  ],
+  "skip": [
+   "File:(1)View from Gladesville Bridge Sydney.jpg"
   ]
  },
  "jubilee-library-brighton": {
@@ -26694,8 +26713,12 @@
  "bauhaus-museum-dessau": {
   "category": "Category:Bauhaus Museum Dessau",
   "add": [
-   "File:2020-09-24-Bauhaus-Museum-Dessau.jpg",
-   "File:Bauhaus Museum Dessau W.jpg"
+   "File:Bauhaus Museum Dessau W.jpg",
+   "File:2020-09-24-Bauhaus-Museum-Dessau.jpg"
+  ],
+  "skip": [
+   "File:Dessau, Bauhaus Museum, Eröffnung am 08.09.2019.jpg",
+   "File:Dessau, Bauhaus Museum, Eröffnung Bundeskanzlerin Angela Merkel.jpg"
   ]
  },
  "bauhaus-museum-weimar": {
@@ -26969,7 +26992,13 @@
  },
  "vasa-museum": {
   "add": [
+   "File:Stockholm Sweden Vasa-Museum-01.jpg",
    "File:Stockholm Vasa Museum and Nordic Museum 09.jpg"
+  ],
+  "skip": [
+   "File:Finngrundet Decksbereich DSC 0133w.jpg",
+   "File:Vasa museum Vasamuset Stockholm Sweden (89).jpg",
+   "File:Vasa museum Vasamuset Stockholm Sweden (95).jpg"
   ]
  },
  "stockholm-court-house": {
@@ -27039,6 +27068,7 @@
  },
  "kunstnernes-hus": {
   "add": [
+   "File:2019-08-23 Oslo 81 - Kunstnernes Hus.jpg",
    "File:KH utvendig web.jpg"
   ]
  },

@@ -292419,22 +292419,10 @@ window.BUILDINGS = [
   "study": "Robin Boyd's 1952 house for the historian Manning Clark, now a community centre for history, arts and debate.",
   "qid": null,
   "commons": "Category:Manning Clark House",
-  "lead": "File:Manning Clark house, Forrest, Australian Capital Territory.JPG",
+  "lead": "Manning Clark home.JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Manning_Clark_house%2C_Forrest%2C_Australian_Capital_Territory.JPG/1280px-Manning_Clark_house%2C_Forrest%2C_Australian_Capital_Territory.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/manning-clark-house/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Manning Clark house, 11 Tasmania Circle, Forrest, Australian Capital Territory",
-    "credit": "Grahamec",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Manning_Clark_house,_Forrest,_Australian_Capital_Territory.JPG",
-    "file": "File:Manning Clark house, Forrest, Australian Capital Territory.JPG"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Manning_Clark_home.JPG/1280px-Manning_Clark_home.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/manning-clark-house/thumbs/1.webp",
@@ -292446,6 +292434,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Manning_Clark_home.JPG",
     "file": "File:Manning Clark home.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Manning_Clark_house%2C_Forrest%2C_Australian_Capital_Territory.JPG/1280px-Manning_Clark_house%2C_Forrest%2C_Australian_Capital_Territory.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/manning-clark-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Manning Clark house, 11 Tasmania Circle, Forrest, Australian Capital Territory",
+    "credit": "Grahamec",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Manning_Clark_house,_Forrest,_Australian_Capital_Territory.JPG",
+    "file": "File:Manning Clark house, Forrest, Australian Capital Territory.JPG"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Manning_Clark_office.JPG/1280px-Manning_Clark_office.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -292911,10 +292911,22 @@ window.BUILDINGS = [
   "study": "Picture palace with a geometric ceiling of thousands of coloured lights evoking a crystalline cave.",
   "qid": null,
   "commons": "Category:Capitol Theatre, Melbourne",
-  "lead": "File:Front Elevation.jpg",
+  "lead": "Front Elevation.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Front_Elevation.jpg/1280px-Front_Elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/capitol-theatre-melbourne/thumbs/6.webp",
+    "w": 682,
+    "h": 1400,
+    "kind": "Elevation",
+    "caption": "Elevation · Front Facade",
+    "credit": "Michelleyesf",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_Elevation.jpg",
+    "file": "File:Front Elevation.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/RMIT_Capitol_Melbourne.jpg/1280px-RMIT_Capitol_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/capitol-theatre-melbourne/thumbs/0.webp",
@@ -292926,18 +292938,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:RMIT_Capitol_Melbourne.jpg",
     "file": "File:RMIT Capitol Melbourne.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Capitol_Theatre_%2848112061772%29.jpg/1280px-Capitol_Theatre_%2848112061772%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/capitol-theatre-melbourne/thumbs/1.webp",
-    "w": 1280,
-    "h": 690,
-    "kind": "Exterior",
-    "caption": "Exterior · Melbourne",
-    "credit": "Rob Deutscher  from Melbourne, Australia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Capitol_Theatre_(48112061772).jpg",
-    "file": "File:Capitol Theatre (48112061772).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Melbourne_Capitol_Theatre.jpg/1280px-Melbourne_Capitol_Theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -292986,18 +292986,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Capitol_Theatre_Melbourne_lobby.jpg",
     "file": "File:Capitol Theatre Melbourne lobby.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Front_Elevation.jpg/1280px-Front_Elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/capitol-theatre-melbourne/thumbs/6.webp",
-    "w": 682,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation · Front Facade",
-    "credit": "Michelleyesf",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Front_Elevation.jpg",
-    "file": "File:Front Elevation.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Capitol_Melbourne_drawing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -293295,108 +293283,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "brisbane-powerhouse",
-  "n": 3449,
-  "name": "Brisbane Powerhouse",
-  "by": "Roy Rusden Ogg",
-  "place": "Brisbane, AU",
-  "year": "1928",
-  "y": 1928,
-  "type": "Culture & sport",
-  "movement": "Historic precedent",
-  "region": "Oceania",
-  "era": "1900–1945",
-  "concepts": [
-   "Adaptive reuse",
-   "Brick",
-   "Community"
-  ],
-  "study": "Former tram power station (built 1927-28, closed 1971) reopened in 2000 as a performing arts centre.",
-  "qid": null,
-  "commons": "Category:Brisbane Powerhouse",
-  "lead": "File:Brisbane Powerhouse on a Sunday 01.JPG",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Brisbane_Powerhouse_on_a_Sunday_01.JPG/1280px-Brisbane_Powerhouse_on_a_Sunday_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brisbane-powerhouse/thumbs/0.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Byron Wu",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brisbane_Powerhouse_on_a_Sunday_01.JPG",
-    "file": "File:Brisbane Powerhouse on a Sunday 01.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Brisbane_Powerhouse_on_a_Sunday_02.JPG/1280px-Brisbane_Powerhouse_on_a_Sunday_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brisbane-powerhouse/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Byron Wu",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Brisbane_Powerhouse_on_a_Sunday_02.JPG",
-    "file": "File:Brisbane Powerhouse on a Sunday 02.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Mural_by_Cezary_Stulgis_and_Benjamin_Reeve_on_side_wall_of_Brisbane_Powerhouse.jpg/1280px-Mural_by_Cezary_Stulgis_and_Benjamin_Reeve_on_side_wall_of_Brisbane_Powerhouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brisbane-powerhouse/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Mural by Cezary Stulgis and Benjamin Reeve on side wall of Brisbane Powerhouse",
-    "credit": "Kgbo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mural_by_Cezary_Stulgis_and_Benjamin_Reeve_on_side_wall_of_Brisbane_Powerhouse.jpg",
-    "file": "File:Mural by Cezary Stulgis and Benjamin Reeve on side wall of Brisbane Powerhouse.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Altostratus_undulatus_New_Farm_Powerhouse_theatre_New_Farm_P1260793.jpg/1280px-Altostratus_undulatus_New_Farm_Powerhouse_theatre_New_Farm_P1260793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brisbane-powerhouse/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Cloudscapes and Skies of New Farm, Queensland",
-    "credit": "John Robert McPherson",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Altostratus_undulatus_New_Farm_Powerhouse_theatre_New_Farm_P1260793.jpg",
-    "file": "File:Altostratus undulatus New Farm Powerhouse theatre New Farm P1260793.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Interior_of_Brisbane_Powerhouse%2C_2020.jpg/1280px-Interior_of_Brisbane_Powerhouse%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brisbane-powerhouse/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Interior of Brisbane Powerhouse, 2020",
-    "credit": "Kgbo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_Brisbane_Powerhouse,_2020.jpg",
-    "file": "File:Interior of Brisbane Powerhouse, 2020.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Powerhouse_Theatre_interior_New_Farm_P1420315a.jpg/1280px-Powerhouse_Theatre_interior_New_Farm_P1420315a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/brisbane-powerhouse/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "John Robert McPherson",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Powerhouse_Theatre_interior_New_Farm_P1420315a.jpg",
-    "file": "File:Powerhouse Theatre interior New Farm P1420315a.jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
   "id": "council-house-2-melbourne",
-  "n": 3450,
+  "n": 3449,
   "name": "Council House 2 (CH2)",
   "by": "Mick Pearce with DesignInc (for City of Melbourne)",
   "place": "Melbourne, AU",
@@ -293472,7 +293360,7 @@ window.BUILDINGS = [
  },
  {
   "id": "public-transport-centre-perth",
-  "n": 3451,
+  "n": 3450,
   "name": "Public Transport Centre (former Westrail Centre)",
   "by": "Forbes & Fitzhardinge",
   "place": "Perth, AU",
@@ -293572,7 +293460,7 @@ window.BUILDINGS = [
  },
  {
   "id": "telstra-tower-canberra",
-  "n": 3452,
+  "n": 3451,
   "name": "Telstra Tower (Black Mountain Tower)",
   "by": "Richard Ure and the Commonwealth Department of Works",
   "place": "Canberra, AU",
@@ -293672,7 +293560,7 @@ window.BUILDINGS = [
  },
  {
   "id": "reserve-bank-of-australia-canberra",
-  "n": 3453,
+  "n": 3452,
   "name": "Reserve Bank of Australia Building",
   "by": "Howlett and Bailey",
   "place": "Canberra, AU",
@@ -293750,7 +293638,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hannah-playhouse-wellington",
-  "n": 3454,
+  "n": 3453,
   "name": "Hannah Playhouse",
   "by": "James Beard",
   "place": "Wellington, NZ",
@@ -293838,7 +293726,7 @@ window.BUILDINGS = [
  },
  {
   "id": "puaka-james-hight-building",
-  "n": 3455,
+  "n": 3454,
   "name": "Puaka-James Hight Building",
   "by": "Ministry of Works (New Zealand)",
   "place": "Christchurch, NZ",
@@ -293914,7 +293802,7 @@ window.BUILDINGS = [
  },
  {
   "id": "manchester-unity-building",
-  "n": 3456,
+  "n": 3455,
   "name": "Manchester Unity Building",
   "by": "Marcus Barlow",
   "place": "Melbourne, AU",
@@ -294014,7 +293902,7 @@ window.BUILDINGS = [
  },
  {
   "id": "old-parliament-house-canberra",
-  "n": 3457,
+  "n": 3456,
   "name": "Old Parliament House",
   "by": "John Smith Murdoch",
   "place": "Canberra, AU",
@@ -294114,7 +294002,7 @@ window.BUILDINGS = [
  },
  {
   "id": "perth-concert-hall",
-  "n": 3458,
+  "n": 3457,
   "name": "Perth Concert Hall",
   "by": "Howlett & Bailey",
   "place": "Perth, AU",
@@ -294204,7 +294092,7 @@ window.BUILDINGS = [
  },
  {
   "id": "paganin-house",
-  "n": 3459,
+  "n": 3458,
   "name": "Paganin House",
   "by": "Iwan Iwanoff",
   "place": "Perth, AU",
@@ -294244,7 +294132,7 @@ window.BUILDINGS = [
  },
  {
   "id": "edmund-barton-building-canberra",
-  "n": 3460,
+  "n": 3459,
   "name": "Edmund Barton Building",
   "by": "Harry Seidler & Associates",
   "place": "Canberra, AU",
@@ -294262,22 +294150,10 @@ window.BUILDINGS = [
   "study": "Large office building on the National Triangle in Barton, designed by Harry Seidler.",
   "qid": null,
   "commons": "Category:Church of St Edward the Confessor, Westcot Barton",
-  "lead": "File:Edmund Barton Building facade.JPG",
+  "lead": "Edmund barton building canberra.JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Edmund_Barton_Building_facade.JPG/1280px-Edmund_Barton_Building_facade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/edmund-barton-building-canberra/thumbs/0.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Hamiltonstone",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Edmund_Barton_Building_facade.JPG",
-    "file": "File:Edmund Barton Building facade.JPG"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Edmund_barton_building_canberra.JPG/1280px-Edmund_barton_building_canberra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/edmund-barton-building-canberra/thumbs/1.webp",
@@ -294291,92 +294167,16 @@ window.BUILDINGS = [
     "file": "File:Edmund barton building canberra.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/WestcottBarton_StEdward_arcade.jpg/1280px-WestcottBarton_StEdward_arcade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/edmund-barton-building-canberra/thumbs/2.webp",
-    "w": 1280,
-    "h": 886,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Motacilla",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WestcottBarton_StEdward_arcade.jpg",
-    "file": "File:WestcottBarton StEdward arcade.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/WestcottBarton_StEdward_column.jpg/1280px-WestcottBarton_StEdward_column.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/edmund-barton-building-canberra/thumbs/3.webp",
-    "w": 840,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Edmund_Barton_Building_facade.JPG/1280px-Edmund_Barton_Building_facade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edmund-barton-building-canberra/thumbs/0.webp",
+    "w": 1050,
     "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Motacilla",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WestcottBarton_StEdward_column.jpg",
-    "file": "File:WestcottBarton StEdward column.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Westcot_Barton_Howard_1910_Page028.jpg/1280px-Westcot_Barton_Howard_1910_Page028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/edmund-barton-building-canberra/thumbs/4.webp",
-    "w": 1280,
-    "h": 1304,
-    "kind": "Interior",
-    "caption": "Interior · From: Screens and Rood Lofts in the Parish Churches of Oxfordshire ",
-    "credit": "Howard, F.E. (Frank Ernest) 1888-1934",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Westcot_Barton_Howard_1910_Page028.jpg",
-    "file": "File:Westcot Barton Howard 1910 Page028.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Church%2C_Middle_Barton_%286330259666%29.jpg/1280px-Church%2C_Middle_Barton_%286330259666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/edmund-barton-building-canberra/thumbs/5.webp",
-    "w": 1280,
-    "h": 839,
-    "kind": "Detail",
-    "caption": "Detail · St Edward the Confessor parish church, Westcot Barton, Oxfordshire, seen from the southeast in snow",
-    "credit": "Lies Thru a Lens ",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Church,_Middle_Barton_(6330259666).jpg",
-    "file": "File:Church, Middle Barton (6330259666).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "centenary-pool-complex-brisbane",
-  "n": 3461,
-  "name": "Centenary Pool Complex",
-  "by": "James Birrell",
-  "place": "Brisbane, AU",
-  "year": "1959",
-  "y": 1959,
-  "type": "Culture & sport",
-  "movement": "Modernism",
-  "region": "Oceania",
-  "era": "1945–1970",
-  "concepts": [
-   "Public space",
-   "Geometry",
-   "Landscape"
-  ],
-  "study": "Heritage-listed Spring Hill swimming pool designed by James Birrell, built 1959.",
-  "qid": null,
-  "commons": "Category:Centenary Pool Complex",
-  "lead": "File:Centenery Pool Gregory Tce Spring Hill IMG 2146.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Centenery_Pool_Gregory_Tce_Spring_Hill_IMG_2146.jpg/1280px-Centenery_Pool_Gregory_Tce_Spring_Hill_IMG_2146.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/centenary-pool-complex-brisbane/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
     "kind": "Exterior",
-    "caption": "Exterior · Centenary Pool Complex is a heritage-listed swimming pool in Spring Hill, Brisbane, Queensland, Australia",
-    "credit": "John Robert McPherson",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Centenery_Pool_Gregory_Tce_Spring_Hill_IMG_2146.jpg",
-    "file": "File:Centenery Pool Gregory Tce Spring Hill IMG 2146.jpg"
+    "caption": "Exterior",
+    "credit": "Hamiltonstone",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edmund_Barton_Building_facade.JPG",
+    "file": "File:Edmund Barton Building facade.JPG"
    }
   ],
   "has": [],
@@ -294384,7 +294184,7 @@ window.BUILDINGS = [
  },
  {
   "id": "capita-centre-sydney",
-  "n": 3462,
+  "n": 3460,
   "name": "Capita Centre (9 Castlereagh Street)",
   "by": "Harry Seidler & Associates",
   "place": "Sydney, AU",
@@ -294436,7 +294236,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hyde-park-barracks-sydney",
-  "n": 3463,
+  "n": 3461,
   "name": "Hyde Park Barracks",
   "by": "Francis Greenway",
   "place": "Sydney, AU",
@@ -294536,7 +294336,7 @@ window.BUILDINGS = [
  },
  {
   "id": "flinders-street-station",
-  "n": 3464,
+  "n": 3462,
   "name": "Flinders Street Station",
   "by": "James W. Fawcett",
   "place": "Melbourne, AU",
@@ -294569,18 +294369,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Station_on_19_July_2025_-_01.jpg",
     "file": "File:Flinders Street Station on 19 July 2025 - 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Flinders_Street_Station_on_19_July_2025_-_02.jpg/1280px-Flinders_Street_Station_on_19_July_2025_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/flinders-street-station/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Flinders Street Station on 19 July 2025",
-    "credit": "Yu Chu Chin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Station_on_19_July_2025_-_02.jpg",
-    "file": "File:Flinders Street Station on 19 July 2025 - 02.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Flinders_St._Viaduct_%26_the_River_Yarra%2C_Melbourne.jpg/1280px-Flinders_St._Viaduct_%26_the_River_Yarra%2C_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -294629,106 +294417,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Melbourne_in_lockdown_-2_(51337357002).jpg",
     "file": "File:Melbourne in lockdown -2 (51337357002).jpg"
-   }
-  ],
-  "has": [],
-  "gv": 3
- },
- {
-  "id": "perth-stadium-optus",
-  "n": 3465,
-  "name": "Perth Stadium (Optus Stadium)",
-  "by": "Hassell, HKS and Cox",
-  "place": "Perth, AU",
-  "year": "2017",
-  "y": 2017,
-  "type": "Culture & sport",
-  "movement": "Contemporary",
-  "region": "Oceania",
-  "era": "2005–today",
-  "concepts": [
-   "Structure as expression",
-   "Sculptural form",
-   "Public space"
-  ],
-  "study": "61,266-capacity stadium completed in late 2017 and opened in January 2018.",
-  "qid": null,
-  "commons": "Category:Perth Stadium",
-  "lead": "File:Perth Stadium from Matagarup Bridge.jpg",
-  "coords": null,
-  "hotlink": true,
-  "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Perth_Stadium_from_Matagarup_Bridge.jpg/1280px-Perth_Stadium_from_Matagarup_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/perth-stadium-optus/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The view of Perth Stadium from Matagarup Bridge in the morning",
-    "credit": "The Logical Positivist",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Perth_Stadium_from_Matagarup_Bridge.jpg",
-    "file": "File:Perth Stadium from Matagarup Bridge.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Perth_Stadium_OIC_1.jpg/1280px-Perth_Stadium_OIC_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/perth-stadium-optus/thumbs/1.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Flinders_Street_Station_on_19_July_2025_-_02.jpg/1280px-Flinders_Street_Station_on_19_July_2025_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flinders-street-station/thumbs/1.webp",
     "w": 1280,
-    "h": 960,
+    "h": 853,
     "kind": "Context",
-    "caption": "Context · Perth Stadium as seen from the south side, Burswood, Western Australia",
-    "credit": "Orderinchaos",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Perth_Stadium_OIC_1.jpg",
-    "file": "File:Perth Stadium OIC 1.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Linkup_Gnangarra_060825-01.jpg/1280px-Linkup_Gnangarra_060825-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/perth-stadium-optus/thumbs/2.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · Riding the VIP passenger train of Cockburn-Thornlie Railway Line",
-    "credit": "Gnan  garra",
-    "license": "CC BY 2.5 au",
-    "source": "https://commons.wikimedia.org/wiki/File:Linkup_Gnangarra_060825-01.jpg",
-    "file": "File:Linkup Gnangarra 060825-01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Linkup_Gnangarra_060825-03.jpg/1280px-Linkup_Gnangarra_060825-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/perth-stadium-optus/thumbs/3.webp",
-    "w": 934,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Riding the VIP passenger train of Cockburn-Thornlie Railway Line",
-    "credit": "Gnan  garra",
-    "license": "CC BY 2.5 au",
-    "source": "https://commons.wikimedia.org/wiki/File:Linkup_Gnangarra_060825-03.jpg",
-    "file": "File:Linkup Gnangarra 060825-03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Perth_Stadium_opening_210118_gnangarra-10.jpg/1280px-Perth_Stadium_opening_210118_gnangarra-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/perth-stadium-optus/thumbs/4.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Exterior",
-    "caption": "Exterior · Perth stadium open day",
-    "credit": "Gnan  garra",
-    "license": "CC BY 2.5 au",
-    "source": "https://commons.wikimedia.org/wiki/File:Perth_Stadium_opening_210118_gnangarra-10.jpg",
-    "file": "File:Perth Stadium opening 210118 gnangarra-10.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Interior_of_50th_floor%2C_Central_Park%2C_Perth%2C_February_2021_03.jpg/1280px-Interior_of_50th_floor%2C_Central_Park%2C_Perth%2C_February_2021_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/perth-stadium-optus/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The interior of 50th floor, Central Park, Perth, Western Australia",
-    "credit": "Calistemon",
+    "caption": "Context · Flinders Street Station on 19 July 2025",
+    "credit": "Yu Chu Chin",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_50th_floor,_Central_Park,_Perth,_February_2021_03.jpg",
-    "file": "File:Interior of 50th floor, Central Park, Perth, February 2021 03.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Flinders_Street_Station_on_19_July_2025_-_02.jpg",
+    "file": "File:Flinders Street Station on 19 July 2025 - 02.jpg"
    }
   ],
   "has": [],
@@ -294736,7 +294436,7 @@ window.BUILDINGS = [
  },
  {
   "id": "auckland-town-hall",
-  "n": 3466,
+  "n": 3463,
   "name": "Auckland Town Hall",
   "by": "J. Clark and Sons",
   "place": "Auckland, NZ",
@@ -294754,10 +294454,22 @@ window.BUILDINGS = [
   "study": "Edwardian Italian Renaissance Revival town hall with a famed Great Hall; Category I heritage.",
   "qid": null,
   "commons": "Category:Auckland Town Hall",
-  "lead": "File:Aotea Square and Auckland Town Hall 02.jpg",
+  "lead": "Aucklandtownhall.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aucklandtownhall.jpg/1280px-Aucklandtownhall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auckland-town-hall/thumbs/2.webp",
+    "w": 1048,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "ChewyPineapple",
+    "license": "CC BY-SA 3.0 nz",
+    "source": "https://commons.wikimedia.org/wiki/File:Aucklandtownhall.jpg",
+    "file": "File:Aucklandtownhall.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Aotea_Square_and_Auckland_Town_Hall_02.jpg/1280px-Aotea_Square_and_Auckland_Town_Hall_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/auckland-town-hall/thumbs/0.webp",
@@ -294783,18 +294495,6 @@ window.BUILDINGS = [
     "file": "File:Auckland Town Hall 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aucklandtownhall.jpg/1280px-Aucklandtownhall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/auckland-town-hall/thumbs/2.webp",
-    "w": 1048,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "ChewyPineapple",
-    "license": "CC BY-SA 3.0 nz",
-    "source": "https://commons.wikimedia.org/wiki/File:Aucklandtownhall.jpg",
-    "file": "File:Aucklandtownhall.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Aotea_Square%2C_Auckland_Town_Hall.jpg/1280px-Aotea_Square%2C_Auckland_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/auckland-town-hall/thumbs/3.webp",
     "w": 1280,
@@ -294812,7 +294512,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wellington-town-hall",
-  "n": 3467,
+  "n": 3464,
   "name": "Wellington Town Hall",
   "by": "Joshua Charlesworth",
   "place": "Wellington, NZ",
@@ -294830,22 +294530,10 @@ window.BUILDINGS = [
   "study": "Concert hall and civic complex that opened in December 1904; closed since the 2013 earthquake for strengthening.",
   "qid": null,
   "commons": "Category:Wellington Town Hall",
-  "lead": "File:Wellington Town Hall.jpg",
+  "lead": "Wellington Town Hall, Wellington, New Zealand (11).JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Wellington_Town_Hall.jpg/1280px-Wellington_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wellington-town-hall/thumbs/0.webp",
-    "w": 1280,
-    "h": 839,
-    "kind": "Interior",
-    "caption": "Interior · Wellington Town Hall, Wellington , New Zealand ",
-    "credit": "Phillip Capper  from Wellington, New Zealand",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wellington_Town_Hall.jpg",
-    "file": "File:Wellington Town Hall.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Wellington_Town_Hall%2C_Wellington%2C_New_Zealand_%2811%29.JPG/1280px-Wellington_Town_Hall%2C_Wellington%2C_New_Zealand_%2811%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/wellington-town-hall/thumbs/1.webp",
@@ -294859,28 +294547,16 @@ window.BUILDINGS = [
     "file": "File:Wellington Town Hall, Wellington, New Zealand (11).JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sir_Edmund_and_Lady_Louise_Hillary_leaving_the_Wellington_Town_Hall%2C_1956.jpg/1280px-Sir_Edmund_and_Lady_Louise_Hillary_leaving_the_Wellington_Town_Hall%2C_1956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wellington-town-hall/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Wellington_Town_Hall.jpg/1280px-Wellington_Town_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wellington-town-hall/thumbs/0.webp",
     "w": 1280,
-    "h": 944,
+    "h": 839,
     "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Unidentified   Evening Post   staff photographer",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Sir_Edmund_and_Lady_Louise_Hillary_leaving_the_Wellington_Town_Hall,_1956.jpg",
-    "file": "File:Sir Edmund and Lady Louise Hillary leaving the Wellington Town Hall, 1956.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Princess_Alexandra_Wellington_Town_Hall_1971.jpg/1280px-Princess_Alexandra_Wellington_Town_Hall_1971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wellington-town-hall/thumbs/3.webp",
-    "w": 1280,
-    "h": 1009,
-    "kind": "Interior",
-    "caption": "Interior · Princess Alexandra on the steps of Wellington Town Hall on 29 April 1971",
-    "credit": "Photographer: A. K. Bristow",
-    "license": "CC BY 3.0 nz",
-    "source": "https://commons.wikimedia.org/wiki/File:Princess_Alexandra_Wellington_Town_Hall_1971.jpg",
-    "file": "File:Princess Alexandra Wellington Town Hall 1971.jpg"
+    "caption": "Interior · Wellington Town Hall, Wellington , New Zealand ",
+    "credit": "Phillip Capper  from Wellington, New Zealand",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wellington_Town_Hall.jpg",
+    "file": "File:Wellington Town Hall.jpg"
    }
   ],
   "has": [],
@@ -294888,7 +294564,7 @@ window.BUILDINGS = [
  },
  {
   "id": "auckland-civic-theatre",
-  "n": 3468,
+  "n": 3465,
   "name": "Civic Theatre",
   "by": "Charles Bohringer and William T. Leighton",
   "place": "Auckland, NZ",
@@ -294988,7 +294664,7 @@ window.BUILDINGS = [
  },
  {
   "id": "christchurch-arts-centre",
-  "n": 3469,
+  "n": 3466,
   "name": "The Arts Centre of Christchurch",
   "by": "Benjamin Mountfort and Samuel Hurst Seager",
   "place": "Christchurch, NZ",
@@ -295088,7 +294764,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-wine-centre-adelaide",
-  "n": 3470,
+  "n": 3467,
   "name": "National Wine Centre of Australia",
   "by": "Philip Cox",
   "place": "Adelaide, AU",
@@ -295106,34 +294782,10 @@ window.BUILDINGS = [
   "study": "Opened 6 October 2001 beside the Adelaide Botanic Garden, designed by Philip Cox.",
   "qid": null,
   "commons": "Category:National Wine Centre, Adelaide",
-  "lead": "File:National wine centre walkway - Adelaide.jpg",
+  "lead": "Adelaide 2009 201.JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/National_wine_centre_walkway_-_Adelaide.jpg/1280px-National_wine_centre_walkway_-_Adelaide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-wine-centre-adelaide/thumbs/0.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Entrance walkway to the National Wine Centre, Adelaide, South Australia",
-    "credit": "Peripitus",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_wine_centre_walkway_-_Adelaide.jpg",
-    "file": "File:National wine centre walkway - Adelaide.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/National_Wine_Centre.jpg/1280px-National_Wine_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-wine-centre-adelaide/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "eGuide Travel",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:National_Wine_Centre.jpg",
-    "file": "File:National Wine Centre.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Adelaide_2009_201.JPG/1280px-Adelaide_2009_201.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-wine-centre-adelaide/thumbs/2.webp",
@@ -295147,6 +294799,18 @@ window.BUILDINGS = [
     "file": "File:Adelaide 2009 201.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/National_wine_centre_walkway_-_Adelaide.jpg/1280px-National_wine_centre_walkway_-_Adelaide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-wine-centre-adelaide/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance walkway to the National Wine Centre, Adelaide, South Australia",
+    "credit": "Peripitus",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_wine_centre_walkway_-_Adelaide.jpg",
+    "file": "File:National wine centre walkway - Adelaide.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Adelaide_%2840000093941%29.jpg/1280px-Adelaide_%2840000093941%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/national-wine-centre-adelaide/thumbs/3.webp",
     "w": 1280,
@@ -295157,6 +294821,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Adelaide_(40000093941).jpg",
     "file": "File:Adelaide (40000093941).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/National_Wine_Centre.jpg/1280px-National_Wine_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-wine-centre-adelaide/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "eGuide Travel",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Wine_Centre.jpg",
+    "file": "File:National Wine Centre.jpg"
    }
   ],
   "has": [],
@@ -295164,7 +294840,7 @@ window.BUILDINGS = [
  },
  {
   "id": "auckland-war-memorial-museum",
-  "n": 3471,
+  "n": 3468,
   "name": "Auckland War Memorial Museum",
   "by": "Grierson & Aimer",
   "place": "Auckland, NZ",
@@ -295278,7 +294954,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gladesville-bridge-sydney",
-  "n": 3472,
+  "n": 3469,
   "name": "Gladesville Bridge",
   "by": "G. Maunsell & Partners with Eugène Freyssinet",
   "place": "Sydney, AU",
@@ -295296,21 +294972,21 @@ window.BUILDINGS = [
   "study": "Concrete arch bridge built 1959 to 1964, with Maunsell & Partners, Anthony Gee and Eugène Freyssinet credited as designers.",
   "qid": null,
   "commons": "Category:Gladesville Bridge",
-  "lead": "File:Gladesville Bridge Sydney 001.jpg",
+  "lead": "Gladesville Bridge from Paramatta River in December 2014.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Gladesville_Bridge_Sydney_001.jpg/1280px-Gladesville_Bridge_Sydney_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gladesville-bridge-sydney/thumbs/0.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gladesville_Bridge_from_Paramatta_River_in_December_2014.jpg/1280px-Gladesville_Bridge_from_Paramatta_River_in_December_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gladesville-bridge-sydney/thumbs/3.webp",
     "w": 1280,
-    "h": 654,
-    "kind": "Context",
-    "caption": "Context · Distant view of Gladesville Bridge, as seen from train crossing Sydney Harbour Bridge at dusk",
-    "credit": "Sardaka",
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The west side of the Gladesville Bridge viewed from a Rivercat ferry on the Paramatta River",
+    "credit": "Nick-D",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gladesville_Bridge_Sydney_001.jpg",
-    "file": "File:Gladesville Bridge Sydney 001.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Gladesville_Bridge_from_Paramatta_River_in_December_2014.jpg",
+    "file": "File:Gladesville Bridge from Paramatta River in December 2014.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Gladesville_Bridge_%288495164034%29.jpg/1280px-Gladesville_Bridge_%288495164034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -295337,18 +295013,6 @@ window.BUILDINGS = [
     "file": "File:Mortlake Bank eastbound on Parramatta River at Gladesville Bridge, 12 April 1968 (John Ward, City of Sydney Archives).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Gladesville_Bridge_from_Paramatta_River_in_December_2014.jpg/1280px-Gladesville_Bridge_from_Paramatta_River_in_December_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gladesville-bridge-sydney/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · The west side of the Gladesville Bridge viewed from a Rivercat ferry on the Paramatta River",
-    "credit": "Nick-D",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Gladesville_Bridge_from_Paramatta_River_in_December_2014.jpg",
-    "file": "File:Gladesville Bridge from Paramatta River in December 2014.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gladesville_Bridge_%288494065589%29.jpg/1280px-Gladesville_Bridge_%288494065589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/gladesville-bridge-sydney/thumbs/4.webp",
     "w": 1280,
@@ -295361,16 +295025,16 @@ window.BUILDINGS = [
     "file": "File:Gladesville Bridge (8494065589).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%281%29View_from_Gladesville_Bridge_Sydney.jpg/1280px-%281%29View_from_Gladesville_Bridge_Sydney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/gladesville-bridge-sydney/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Gladesville_Bridge_Sydney_001.jpg/1280px-Gladesville_Bridge_Sydney_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gladesville-bridge-sydney/thumbs/0.webp",
     "w": 1280,
-    "h": 1129,
+    "h": 654,
     "kind": "Context",
-    "caption": "Context · View from Gladesville Bridge, Gladesville, Sydney (6x6 slide scanned at 6400)",
+    "caption": "Context · Distant view of Gladesville Bridge, as seen from train crossing Sydney Harbour Bridge at dusk",
     "credit": "Sardaka",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:(1)View_from_Gladesville_Bridge_Sydney.jpg",
-    "file": "File:(1)View from Gladesville Bridge Sydney.jpg"
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gladesville_Bridge_Sydney_001.jpg",
+    "file": "File:Gladesville Bridge Sydney 001.jpg"
    }
   ],
   "has": [],
@@ -295378,7 +295042,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jubilee-library-brighton",
-  "n": 3473,
+  "n": 3470,
   "name": "Jubilee Library",
   "by": "Bennetts Associates",
   "place": "Brighton, GB",
@@ -295478,7 +295142,7 @@ window.BUILDINGS = [
  },
  {
   "id": "portcullis-house-london",
-  "n": 3474,
+  "n": 3471,
   "name": "Portcullis House",
   "by": "Michael Hopkins and Partners",
   "place": "London, GB",
@@ -295578,7 +295242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "river-and-rowing-museum-henley",
-  "n": 3475,
+  "n": 3472,
   "name": "River & Rowing Museum",
   "by": "David Chipperfield",
   "place": "Henley-on-Thames, GB",
@@ -295654,7 +295318,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kirklees-stadium-huddersfield",
-  "n": 3476,
+  "n": 3473,
   "name": "Kirklees Stadium (John Smith's Stadium)",
   "by": "Populous",
   "place": "Huddersfield, GB",
@@ -295754,7 +295418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "valkhof-museum-nijmegen",
-  "n": 3477,
+  "n": 3474,
   "name": "Valkhof Museum",
   "by": "Ben van Berkel (UNStudio)",
   "place": "Nijmegen, NL",
@@ -295868,7 +295532,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kuggen-gothenburg",
-  "n": 3478,
+  "n": 3475,
   "name": "Kuggen",
   "by": "Wingårdh arkitektkontor (Gert Wingårdh)",
   "place": "Gothenburg, SE",
@@ -295968,7 +295632,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-shakespeare-theatre-stratford",
-  "n": 3479,
+  "n": 3476,
   "name": "Royal Shakespeare Theatre",
   "by": "Elisabeth Scott; refurbishment by Bennetts Associates",
   "place": "Stratford-upon-Avon, GB",
@@ -296068,7 +295732,7 @@ window.BUILDINGS = [
  },
  {
   "id": "whitechapel-gallery-london",
-  "n": 3480,
+  "n": 3477,
   "name": "Whitechapel Gallery",
   "by": "Charles Harrison Townsend",
   "place": "London, GB",
@@ -296168,7 +295832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mumok-vienna",
-  "n": 3481,
+  "n": 3478,
   "name": "mumok",
   "by": "Ortner & Ortner",
   "place": "Vienna, AT",
@@ -296282,7 +295946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "windermere-jetty-museum",
-  "n": 3482,
+  "n": 3479,
   "name": "Windermere Jetty Museum",
   "by": "Carmody Groarke",
   "place": "Windermere, GB",
@@ -296358,7 +296022,7 @@ window.BUILDINGS = [
  },
  {
   "id": "savill-building-windsor",
-  "n": 3483,
+  "n": 3480,
   "name": "Savill Building",
   "by": "Glenn Howells Architects",
   "place": "Windsor, GB",
@@ -296446,7 +296110,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bracken-house-london",
-  "n": 3484,
+  "n": 3481,
   "name": "Bracken House",
   "by": "Albert Richardson; central part redesigned by Michael Hopkins and Partners",
   "place": "London, GB",
@@ -296546,7 +296210,7 @@ window.BUILDINGS = [
  },
  {
   "id": "altes-museum-berlin",
-  "n": 3485,
+  "n": 3482,
   "name": "Altes Museum",
   "by": "Karl Friedrich Schinkel",
   "place": "Berlin, DE",
@@ -296673,7 +296337,7 @@ window.BUILDINGS = [
  },
  {
   "id": "melk-abbey",
-  "n": 3486,
+  "n": 3483,
   "name": "Melk Abbey",
   "by": "Jakob Prandtauer",
   "place": "Melk, AT",
@@ -296787,7 +296451,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zwinger-dresden",
-  "n": 3487,
+  "n": 3484,
   "name": "Zwinger",
   "by": "Matthäus Daniel Pöppelmann",
   "place": "Dresden, DE",
@@ -296914,7 +296578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wuerzburg-residence",
-  "n": 3488,
+  "n": 3485,
   "name": "Würzburg Residence",
   "by": "Balthasar Neumann",
   "place": "Würzburg, DE",
@@ -297041,7 +296705,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vierzehnheiligen-basilica",
-  "n": 3489,
+  "n": 3486,
   "name": "Basilica of the Fourteen Holy Helpers (Vierzehnheiligen)",
   "by": "Balthasar Neumann",
   "place": "Bad Staffelstein, DE",
@@ -297074,18 +296738,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Vierzehnheiligen_Fassade.JPG",
     "file": "File:Vierzehnheiligen Fassade.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Vierzehnheiligen_Basilika_Luftbild-20220304-RM-115017.jpg/1280px-Vierzehnheiligen_Basilika_Luftbild-20220304-RM-115017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vierzehnheiligen-basilica/thumbs/1.webp",
-    "w": 1280,
-    "h": 958,
-    "kind": "Context",
-    "caption": "Context · Aerial view of the Vierzehnheiligen Basilica",
-    "credit": "Ermell",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vierzehnheiligen_Basilika_Luftbild-20220304-RM-115017.jpg",
-    "file": "File:Vierzehnheiligen Basilika Luftbild-20220304-RM-115017.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vierzehnheiligen_Fassade-20240120-RM-153701.jpg/1280px-Vierzehnheiligen_Fassade-20240120-RM-153701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297136,6 +296788,18 @@ window.BUILDINGS = [
     "file": "File:Vierzehnheiligen Wappen Orgel P3RM0774.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Vierzehnheiligen_Basilika_Luftbild-20220304-RM-115017.jpg/1280px-Vierzehnheiligen_Basilika_Luftbild-20220304-RM-115017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vierzehnheiligen-basilica/thumbs/1.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Context",
+    "caption": "Context · Aerial view of the Vierzehnheiligen Basilica",
+    "credit": "Ermell",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vierzehnheiligen_Basilika_Luftbild-20220304-RM-115017.jpg",
+    "file": "File:Vierzehnheiligen Basilika Luftbild-20220304-RM-115017.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/VierzehnheiligenPlan.jpg/1280px-VierzehnheiligenPlan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/vierzehnheiligen-basilica/thumbs/6.webp",
     "w": 1280,
@@ -297168,7 +296832,7 @@ window.BUILDINGS = [
  },
  {
   "id": "dreischeibenhaus-duesseldorf",
-  "n": 3490,
+  "n": 3487,
   "name": "Dreischeibenhaus",
   "by": "Hentrich, Petschnigg & Partner (Helmut Hentrich, Hubert Petschnigg)",
   "place": "Düsseldorf, DE",
@@ -297282,7 +296946,7 @@ window.BUILDINGS = [
  },
  {
   "id": "heilig-kreuz-frankfurt",
-  "n": 3491,
+  "n": 3488,
   "name": "Holy Cross Church, Bornheim",
   "by": "Martin Weber",
   "place": "Frankfurt, DE",
@@ -297315,18 +296979,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Frankfurt_heiligkreuzkirche.JPG",
     "file": "File:Frankfurt heiligkreuzkirche.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Heiligkreuzkirche-ffm-bornheim001.jpg/1280px-Heiligkreuzkirche-ffm-bornheim001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/heilig-kreuz-frankfurt/thumbs/1.webp",
-    "w": 1280,
-    "h": 863,
-    "kind": "Context",
-    "caption": "Context · Holy Cross Church in Frankfurt am Main - Bornheim seen from South-West",
-    "credit": "dontworry",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heiligkreuzkirche-ffm-bornheim001.jpg",
-    "file": "File:Heiligkreuzkirche-ffm-bornheim001.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Heilig_Kreuz_Holzkreuz_MvW_17102025.JPG/1280px-Heilig_Kreuz_Holzkreuz_MvW_17102025.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -297375,6 +297027,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Heilig_Kreuz_Innenraum_11112012.JPG",
     "file": "File:Heilig Kreuz Innenraum 11112012.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Heiligkreuzkirche-ffm-bornheim001.jpg/1280px-Heiligkreuzkirche-ffm-bornheim001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/heilig-kreuz-frankfurt/thumbs/1.webp",
+    "w": 1280,
+    "h": 863,
+    "kind": "Context",
+    "caption": "Context · Holy Cross Church in Frankfurt am Main - Bornheim seen from South-West",
+    "credit": "dontworry",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Heiligkreuzkirche-ffm-bornheim001.jpg",
+    "file": "File:Heiligkreuzkirche-ffm-bornheim001.jpg"
    }
   ],
   "has": [],
@@ -297382,7 +297046,7 @@ window.BUILDINGS = [
  },
  {
   "id": "siemensstadt-estate-berlin",
-  "n": 3492,
+  "n": 3489,
   "name": "Siemensstadt Estate (Ringsiedlung)",
   "by": "Hans Scharoun (master plan) with Fred Forbát, Otto Bartning, Walter Gropius, Hugo Häring and Paul Rudolf Henning",
   "place": "Berlin, DE",
@@ -297470,7 +297134,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tonhalle-duesseldorf",
-  "n": 3493,
+  "n": 3490,
   "name": "Tonhalle Düsseldorf",
   "by": "Wilhelm Kreis",
   "place": "Düsseldorf, DE",
@@ -297570,7 +297234,7 @@ window.BUILDINGS = [
  },
  {
   "id": "karlskirche-vienna",
-  "n": 3494,
+  "n": 3491,
   "name": "Karlskirche",
   "by": "Johann Bernhard Fischer von Erlach (completed by Joseph Emanuel Fischer von Erlach)",
   "place": "Vienna, AT",
@@ -297710,7 +297374,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wieskirche",
-  "n": 3495,
+  "n": 3492,
   "name": "Wieskirche",
   "by": "Johann Baptist and Dominikus Zimmermann",
   "place": "Steingaden, DE",
@@ -297823,32 +297487,8 @@ window.BUILDINGS = [
   "gv": 3
  },
  {
-  "id": "koelnturm",
-  "n": 3496,
-  "name": "KölnTurm",
-  "by": "Jean Nouvel (Ateliers Jean Nouvel) with Kohl & Kohl",
-  "place": "Cologne, DE",
-  "year": "2001",
-  "y": 2001,
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "region": "Europe",
-  "era": "1990–2005",
-  "concepts": [
-   "Facade as skin",
-   "Steel & glass",
-   "Light & shadow"
-  ],
-  "study": "Reinforced-concrete tower around a load-bearing core; printed images on the glass facade change with the light.",
-  "qid": null,
-  "commons": "Category:KölnTurm",
-  "lead": "File:Koeln-Turm 001.jpg",
-  "coords": null,
-  "hotlink": true
- },
- {
   "id": "solarsiedlung-freiburg",
-  "n": 3497,
+  "n": 3493,
   "name": "Solar Settlement at Schlierberg",
   "by": "Rolf Disch",
   "place": "Freiburg, DE",
@@ -297938,7 +297578,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bauhaus-museum-dessau",
-  "n": 3498,
+  "n": 3494,
   "name": "Bauhaus Museum Dessau",
   "by": "Addenda Architects",
   "place": "Dessau, DE",
@@ -297956,22 +297596,10 @@ window.BUILDINGS = [
   "study": "Museum of the second-largest Bauhaus collection; temporary shows in the atrium below, the permanent display above.",
   "qid": null,
   "commons": "Category:Bauhaus Museum Dessau",
-  "lead": "File:2020-09-24-Bauhaus-Museum-Dessau.jpg",
+  "lead": "Bauhaus Museum Dessau W.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/1280px-2020-09-24-Bauhaus-Museum-Dessau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bauhaus-museum-dessau/thumbs/0.webp",
-    "w": 1280,
-    "h": 598,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Gunnar Klack",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2020-09-24-Bauhaus-Museum-Dessau.jpg",
-    "file": "File:2020-09-24-Bauhaus-Museum-Dessau.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bauhaus_Museum_Dessau_W.jpg/1280px-Bauhaus_Museum_Dessau_W.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bauhaus-museum-dessau/thumbs/1.webp",
@@ -297985,28 +297613,16 @@ window.BUILDINGS = [
     "file": "File:Bauhaus Museum Dessau W.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Dessau%2C_Bauhaus_Museum%2C_Er%C3%B6ffnung_am_08.09.2019.jpg/1280px-Dessau%2C_Bauhaus_Museum%2C_Er%C3%B6ffnung_am_08.09.2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bauhaus-museum-dessau/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2020-09-24-Bauhaus-Museum-Dessau.jpg/1280px-2020-09-24-Bauhaus-Museum-Dessau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bauhaus-museum-dessau/thumbs/0.webp",
     "w": 1280,
-    "h": 720,
+    "h": 598,
     "kind": "Exterior",
-    "caption": "Exterior · Dessau, Eröffnung des Bauhaus Museum am 08.09.2019",
-    "credit": "M_H.DE",
+    "caption": "Exterior",
+    "credit": "Gunnar Klack",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dessau,_Bauhaus_Museum,_Er%C3%B6ffnung_am_08.09.2019.jpg",
-    "file": "File:Dessau, Bauhaus Museum, Eröffnung am 08.09.2019.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Dessau%2C_Bauhaus_Museum%2C_Er%C3%B6ffnung_Bundeskanzlerin_Angela_Merkel.jpg/1280px-Dessau%2C_Bauhaus_Museum%2C_Er%C3%B6ffnung_Bundeskanzlerin_Angela_Merkel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bauhaus-museum-dessau/thumbs/3.webp",
-    "w": 1280,
-    "h": 719,
-    "kind": "Exterior",
-    "caption": "Exterior · Dessau, Eröffnung des Bauhaus Museum am 08.09.2019",
-    "credit": "M_H.DE",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dessau,_Bauhaus_Museum,_Er%C3%B6ffnung_Bundeskanzlerin_Angela_Merkel.jpg",
-    "file": "File:Dessau, Bauhaus Museum, Eröffnung Bundeskanzlerin Angela Merkel.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:2020-09-24-Bauhaus-Museum-Dessau.jpg",
+    "file": "File:2020-09-24-Bauhaus-Museum-Dessau.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Drei_tanzende_S%C3%A4ulen%2C_kinetische_Skulpturengruppe%2C_Dessau%2C_Bauhausmuseum%2C_2019.jpg/1280px-Drei_tanzende_S%C3%A4ulen%2C_kinetische_Skulpturengruppe%2C_Dessau%2C_Bauhausmuseum%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -298026,7 +297642,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bauhaus-museum-weimar",
-  "n": 3499,
+  "n": 3495,
   "name": "Bauhaus Museum Weimar",
   "by": "Heike Hanada with Benedict Tonon",
   "place": "Weimar, DE",
@@ -298140,7 +297756,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sprinkenhof-hamburg",
-  "n": 3500,
+  "n": 3496,
   "name": "Sprinkenhof",
   "by": "Fritz Höger, Hans Gerson and Oskar Gerson",
   "place": "Hamburg, DE",
@@ -298240,7 +297856,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stuttgart-hauptbahnhof",
-  "n": 3501,
+  "n": 3497,
   "name": "Stuttgart Hauptbahnhof",
   "by": "Paul Bonatz and Friedrich Eugen Scholer",
   "place": "Stuttgart, DE",
@@ -298380,7 +297996,7 @@ window.BUILDINGS = [
  },
  {
   "id": "yenidze-dresden",
-  "n": 3502,
+  "n": 3498,
   "name": "Yenidze",
   "by": "Martin Hammitzsch",
   "place": "Dresden, DE",
@@ -298480,7 +298096,7 @@ window.BUILDINGS = [
  },
  {
   "id": "europaeisches-hansemuseum-luebeck",
-  "n": 3503,
+  "n": 3499,
   "name": "European Hansemuseum",
   "by": "Andreas Heller Architects & Designers",
   "place": "Lübeck, DE",
@@ -298580,7 +298196,7 @@ window.BUILDINGS = [
  },
  {
   "id": "haus-am-horn-weimar",
-  "n": 3504,
+  "n": 3500,
   "name": "Haus am Horn",
   "by": "Georg Muche (with Adolf Meyer)",
   "place": "Weimar, DE",
@@ -298680,7 +298296,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstmuseum-wolfsburg",
-  "n": 3505,
+  "n": 3501,
   "name": "Kunstmuseum Wolfsburg",
   "by": "Peter Schweger",
   "place": "Wolfsburg, DE",
@@ -298756,7 +298372,7 @@ window.BUILDINGS = [
  },
  {
   "id": "universum-bremen",
-  "n": 3506,
+  "n": 3502,
   "name": "Universum Bremen",
   "by": "Thomas Klumpp",
   "place": "Bremen, DE",
@@ -298856,7 +298472,7 @@ window.BUILDINGS = [
  },
  {
   "id": "gruene-zitadelle-magdeburg",
-  "n": 3507,
+  "n": 3503,
   "name": "Green Citadel (Grüne Zitadelle)",
   "by": "Friedensreich Hundertwasser",
   "place": "Magdeburg, DE",
@@ -298956,7 +298572,7 @@ window.BUILDINGS = [
  },
  {
   "id": "schaubuehne-berlin",
-  "n": 3508,
+  "n": 3504,
   "name": "Schaubühne am Lehniner Platz",
   "by": "Erich Mendelsohn",
   "place": "Berlin, DE",
@@ -299046,7 +298662,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hfg-ulm",
-  "n": 3509,
+  "n": 3505,
   "name": "Ulm School of Design (HfG)",
   "by": "Max Bill",
   "place": "Ulm, DE",
@@ -299160,7 +298776,7 @@ window.BUILDINGS = [
  },
  {
   "id": "beethovenhalle-bonn",
-  "n": 3510,
+  "n": 3506,
   "name": "Beethovenhalle",
   "by": "Siegfried Wolske",
   "place": "Bonn, DE",
@@ -299274,7 +298890,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sammlung-goetz-munich",
-  "n": 3511,
+  "n": 3507,
   "name": "Sammlung Goetz",
   "by": "Herzog & de Meuron",
   "place": "Munich, DE",
@@ -299350,7 +298966,7 @@ window.BUILDINGS = [
  },
  {
   "id": "st-jakob-park-basel",
-  "n": 3512,
+  "n": 3508,
   "name": "St. Jakob-Park",
   "by": "Herzog & de Meuron",
   "place": "Basel, CH",
@@ -299450,7 +299066,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vitrahaus-weil-am-rhein",
-  "n": 3513,
+  "n": 3509,
   "name": "VitraHaus",
   "by": "Herzog & de Meuron",
   "place": "Weil am Rhein, DE",
@@ -299550,7 +299166,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vorarlberg-museum-bregenz",
-  "n": 3514,
+  "n": 3510,
   "name": "Vorarlberg Museum",
   "by": "Cukrowicz Nachbaur Architekten",
   "place": "Bregenz, AT",
@@ -299650,7 +299266,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hangar-7-salzburg",
-  "n": 3515,
+  "n": 3511,
   "name": "Hangar-7",
   "by": "Volkmar Burgstaller",
   "place": "Salzburg, AT",
@@ -299750,7 +299366,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vitra-conference-pavilion",
-  "n": 3516,
+  "n": 3512,
   "name": "Vitra Conference Pavilion",
   "by": "Tadao Ando",
   "place": "Weil am Rhein, DE",
@@ -299850,7 +299466,7 @@ window.BUILDINGS = [
  },
  {
   "id": "walter-gropius-haus-berlin",
-  "n": 3517,
+  "n": 3513,
   "name": "Walter-Gropius-Haus (Interbau)",
   "by": "Walter Gropius / The Architects' Collaborative with Wils Ebert",
   "place": "Berlin, DE",
@@ -299890,7 +299506,7 @@ window.BUILDINGS = [
  },
  {
   "id": "salginatobel-bridge",
-  "n": 3518,
+  "n": 3514,
   "name": "Salginatobel Bridge",
   "by": "Robert Maillart",
   "place": "Schiers, CH",
@@ -299990,7 +299606,7 @@ window.BUILDINGS = [
  },
  {
   "id": "university-library-freiburg",
-  "n": 3519,
+  "n": 3515,
   "name": "University Library Freiburg",
   "by": "Degelo Architekten",
   "place": "Freiburg, DE",
@@ -300104,7 +299720,7 @@ window.BUILDINGS = [
  },
  {
   "id": "neues-museum-nuernberg",
-  "n": 3520,
+  "n": 3516,
   "name": "Neues Museum Nürnberg",
   "by": "Volker Staab",
   "place": "Nuremberg, DE",
@@ -300204,7 +299820,7 @@ window.BUILDINGS = [
  },
  {
   "id": "zeiss-planetarium-jena",
-  "n": 3521,
+  "n": 3517,
   "name": "Zeiss-Planetarium Jena",
   "by": "Walther Bauersfeld",
   "place": "Jena, DE",
@@ -300318,7 +299934,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bonjour-tristesse-berlin",
-  "n": 3522,
+  "n": 3518,
   "name": "Bonjour Tristesse (Wohnhaus Schlesisches Tor)",
   "by": "Álvaro Siza Vieira",
   "place": "Berlin, DE",
@@ -300406,7 +300022,7 @@ window.BUILDINGS = [
  },
  {
   "id": "mossehaus-berlin",
-  "n": 3523,
+  "n": 3519,
   "name": "Mossehaus",
   "by": "Erich Mendelsohn",
   "place": "Berlin, DE",
@@ -300494,7 +300110,7 @@ window.BUILDINGS = [
  },
  {
   "id": "shell-haus-berlin",
-  "n": 3524,
+  "n": 3520,
   "name": "Shell-Haus",
   "by": "Emil Fahrenkamp",
   "place": "Berlin, DE",
@@ -300594,7 +300210,7 @@ window.BUILDINGS = [
  },
  {
   "id": "hans-sachs-haus-gelsenkirchen",
-  "n": 3525,
+  "n": 3521,
   "name": "Hans-Sachs-Haus",
   "by": "Alfred Fischer",
   "place": "Gelsenkirchen, DE",
@@ -300627,18 +300243,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Gelsenkirchen,_Baudenkmal_023_Hans-Sachs-Haus_Ebertstrasse_1-_Munckelstrasse_4-Vattmannstrasse_7_-_Altstadt_41.jpg",
     "file": "File:Gelsenkirchen, Baudenkmal 023 Hans-Sachs-Haus Ebertstrasse 1- Munckelstrasse 4-Vattmannstrasse 7 - Altstadt 41.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hans-Sachs-Haus2016-04.jpg/1280px-Hans-Sachs-Haus2016-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hans-sachs-haus-gelsenkirchen/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Jordi",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hans-Sachs-Haus2016-04.jpg",
-    "file": "File:Hans-Sachs-Haus2016-04.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinrich-K%C3%B6nig-Platz%2C_Gelsenkirchen-Mitte%2C_Niemcy_%28Hans-Sachs-Haus%29.jpg/1280px-Heinrich-K%C3%B6nig-Platz%2C_Gelsenkirchen-Mitte%2C_Niemcy_%28Hans-Sachs-Haus%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -300687,6 +300291,18 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Max_Burchartz_interior_Hans_Sachs-Haus_Gelsenkirchen.jpg",
     "file": "File:Max Burchartz interior Hans Sachs-Haus Gelsenkirchen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hans-Sachs-Haus2016-04.jpg/1280px-Hans-Sachs-Haus2016-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hans-sachs-haus-gelsenkirchen/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Jordi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hans-Sachs-Haus2016-04.jpg",
+    "file": "File:Hans-Sachs-Haus2016-04.jpg"
    }
   ],
   "has": [],
@@ -300694,7 +300310,7 @@ window.BUILDINGS = [
  },
  {
   "id": "frauenfriedenskirche-frankfurt",
-  "n": 3526,
+  "n": 3522,
   "name": "Frauenfriedenskirche",
   "by": "Hans Herkommer",
   "place": "Frankfurt, DE",
@@ -300770,7 +300386,7 @@ window.BUILDINGS = [
  },
  {
   "id": "baumgarten-bau-karlsruhe",
-  "n": 3527,
+  "n": 3523,
   "name": "Baumgarten-Bau (Federal Constitutional Court)",
   "by": "Paul Baumgarten",
   "place": "Karlsruhe, DE",
@@ -300884,7 +300500,7 @@ window.BUILDINGS = [
  },
  {
   "id": "new-synagogue-graz",
-  "n": 3528,
+  "n": 3524,
   "name": "New Synagogue of Graz",
   "by": "Jörg and Ingrid Mayr",
   "place": "Graz, AT",
@@ -300998,7 +300614,7 @@ window.BUILDINGS = [
  },
  {
   "id": "olympiastadion-berlin",
-  "n": 3529,
+  "n": 3525,
   "name": "Olympiastadion",
   "by": "Werner March",
   "place": "Berlin, DE",
@@ -301125,7 +300741,7 @@ window.BUILDINGS = [
  },
  {
   "id": "neue-wache-berlin",
-  "n": 3530,
+  "n": 3526,
   "name": "Neue Wache",
   "by": "Karl Friedrich Schinkel",
   "place": "Berlin, DE",
@@ -301225,7 +300841,7 @@ window.BUILDINGS = [
  },
  {
   "id": "detlev-rohwedder-haus-berlin",
-  "n": 3531,
+  "n": 3527,
   "name": "Detlev-Rohwedder-Haus",
   "by": "Ernst Sagebiel",
   "place": "Berlin, DE",
@@ -301339,7 +300955,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunsthauswien",
-  "n": 3532,
+  "n": 3528,
   "name": "KunstHausWien",
   "by": "Friedensreich Hundertwasser",
   "place": "Vienna, AT",
@@ -301439,7 +301055,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nordic-embassies-berlin",
-  "n": 3533,
+  "n": 3529,
   "name": "Nordic Embassies",
   "by": "Alfred Berger and Tiina Parkkinen",
   "place": "Berlin, DE",
@@ -301539,7 +301155,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lenbachhaus-munich",
-  "n": 3534,
+  "n": 3530,
   "name": "Lenbachhaus extension",
   "by": "Norman Foster (extension); Gabriel von Seidl (villa)",
   "place": "Munich, DE",
@@ -301639,7 +301255,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rheinturm-duesseldorf",
-  "n": 3535,
+  "n": 3531,
   "name": "Rheinturm",
   "by": "Harald Deilmann",
   "place": "Düsseldorf, DE",
@@ -301753,7 +301369,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tycho-brahe-planetarium",
-  "n": 3536,
+  "n": 3532,
   "name": "Tycho Brahe Planetarium",
   "by": "Knud Munk",
   "place": "Copenhagen, DK",
@@ -301867,7 +301483,7 @@ window.BUILDINGS = [
  },
  {
   "id": "danmarks-nationalbank",
-  "n": 3537,
+  "n": 3533,
   "name": "Danmarks Nationalbank",
   "by": "Arne Jacobsen",
   "place": "Copenhagen, DK",
@@ -301981,7 +301597,7 @@ window.BUILDINGS = [
  },
  {
   "id": "esbjerg-performing-arts-centre",
-  "n": 3538,
+  "n": 3534,
   "name": "Esbjerg Performing Arts Centre",
   "by": "Jan Utzon with Jørn Utzon",
   "place": "Esbjerg, DK",
@@ -302081,7 +301697,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vasa-museum",
-  "n": 3539,
+  "n": 3535,
   "name": "Vasa Museum",
   "by": "Göran Månsson and Marianne Dahlbäck",
   "place": "Stockholm, SE",
@@ -302099,10 +301715,22 @@ window.BUILDINGS = [
   "study": "Museum for the 17th-century warship Vasa; the design won a competition of 384 entries.",
   "qid": null,
   "commons": "Category:Vasa Museum",
-  "lead": "File:Stockholm Vasa Museum and Nordic Museum 09.jpg",
+  "lead": "Stockholm Sweden Vasa-Museum-01.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Stockholm_Sweden_Vasa-Museum-01.jpg/1280px-Stockholm_Sweden_Vasa-Museum-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vasa-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Stockholm, Sweden: The Vasa Museum from sea side",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholm_Sweden_Vasa-Museum-01.jpg",
+    "file": "File:Stockholm Sweden Vasa-Museum-01.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg/1280px-Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/vasa-museum/thumbs/0.webp",
@@ -302126,54 +301754,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Stockholm_August_2020_-_Kastellet,_Vasa_Museum,_and_Nordic_Museum.jpg",
     "file": "File:Stockholm August 2020 - Kastellet, Vasa Museum, and Nordic Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Stockholm_Sweden_Vasa-Museum-01.jpg/1280px-Stockholm_Sweden_Vasa-Museum-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vasa-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Stockholm, Sweden: The Vasa Museum from sea side",
-    "credit": "CEphoto, Uwe Aranas",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stockholm_Sweden_Vasa-Museum-01.jpg",
-    "file": "File:Stockholm Sweden Vasa-Museum-01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Finngrundet_Decksbereich_DSC_0133w.jpg/1280px-Finngrundet_Decksbereich_DSC_0133w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vasa-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Exterior",
-    "caption": "Exterior · Afterdeck of the lightship Finngrundet , museum ship, part of Vasa Museum , Stockholm",
-    "credit": "P e z i",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Finngrundet_Decksbereich_DSC_0133w.jpg",
-    "file": "File:Finngrundet Decksbereich DSC 0133w.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Vasa_museum_Vasamuset_Stockholm_Sweden_%2889%29.jpg/1280px-Vasa_museum_Vasamuset_Stockholm_Sweden_%2889%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vasa-museum/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · This photo was taken inside Vasa museum,Stockholm,Sweden",
-    "credit": "Chinmayee Mishra",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vasa_museum_Vasamuset_Stockholm_Sweden_(89).jpg",
-    "file": "File:Vasa museum Vasamuset Stockholm Sweden (89).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Vasa_museum_Vasamuset_Stockholm_Sweden_%2895%29.jpg/1280px-Vasa_museum_Vasamuset_Stockholm_Sweden_%2895%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vasa-museum/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · This photo was taken inside Vasa museum,Stockholm,Sweden",
-    "credit": "Chinmayee Mishra",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Vasa_museum_Vasamuset_Stockholm_Sweden_(95).jpg",
-    "file": "File:Vasa museum Vasamuset Stockholm Sweden (95).jpg"
    }
   ],
   "has": [],
@@ -302181,7 +301761,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stockholm-court-house",
-  "n": 3540,
+  "n": 3536,
   "name": "Stockholm Court House",
   "by": "Carl Westman",
   "place": "Stockholm, SE",
@@ -302308,7 +301888,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kiruna-church",
-  "n": 3541,
+  "n": 3537,
   "name": "Kiruna Church",
   "by": "Gustaf Wickman",
   "place": "Kiruna, SE",
@@ -302408,7 +301988,7 @@ window.BUILDINGS = [
  },
  {
   "id": "korshagehus",
-  "n": 3542,
+  "n": 3538,
   "name": "Korshagehus",
   "by": "Erik Korshagen",
   "place": "Rørvig, DK",
@@ -302484,7 +302064,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rohsska-museum",
-  "n": 3543,
+  "n": 3539,
   "name": "Röhsska Museum",
   "by": "Carl Westman",
   "place": "Gothenburg, SE",
@@ -302584,7 +302164,7 @@ window.BUILDINGS = [
  },
  {
   "id": "royal-dramatic-theatre",
-  "n": 3544,
+  "n": 3540,
   "name": "Royal Dramatic Theatre",
   "by": "Fredrik Lilljekvist",
   "place": "Stockholm, SE",
@@ -302698,7 +302278,7 @@ window.BUILDINGS = [
  },
  {
   "id": "wenner-gren-center",
-  "n": 3545,
+  "n": 3541,
   "name": "Wenner-Gren Center",
   "by": "Sune Lindström and Alf Bydén",
   "place": "Stockholm, SE",
@@ -302798,7 +302378,7 @@ window.BUILDINGS = [
  },
  {
   "id": "immanuel-church",
-  "n": 3546,
+  "n": 3542,
   "name": "Immanuel Church, Stockholm",
   "by": "Sture Frölén",
   "place": "Stockholm, SE",
@@ -302874,7 +302454,7 @@ window.BUILDINGS = [
  },
  {
   "id": "landskrona-city-hall",
-  "n": 3547,
+  "n": 3543,
   "name": "Landskrona City Hall",
   "by": "Sten Samuelson and Inge Stoltz",
   "place": "Landskrona, SE",
@@ -302950,7 +302530,7 @@ window.BUILDINGS = [
  },
  {
   "id": "valhalla-swimming-hall",
-  "n": 3548,
+  "n": 3544,
   "name": "Valhalla Swimming Hall",
   "by": "Nils Olsson",
   "place": "Gothenburg, SE",
@@ -303038,7 +302618,7 @@ window.BUILDINGS = [
  },
  {
   "id": "lillehammer-art-museum",
-  "n": 3549,
+  "n": 3545,
   "name": "Lillehammer Art Museum",
   "by": "Snøhetta",
   "place": "Lillehammer, NO",
@@ -303114,7 +302694,7 @@ window.BUILDINGS = [
  },
  {
   "id": "stavanger-konserthus",
-  "n": 3550,
+  "n": 3546,
   "name": "Stavanger Konserthus",
   "by": "RATIO Arkitekter",
   "place": "Stavanger, NO",
@@ -303178,7 +302758,7 @@ window.BUILDINGS = [
  },
  {
   "id": "bergen-kunsthall",
-  "n": 3551,
+  "n": 3547,
   "name": "Bergen Kunsthall",
   "by": "Ole Landmark",
   "place": "Bergen, NO",
@@ -303254,7 +302834,7 @@ window.BUILDINGS = [
  },
  {
   "id": "chateau-neuf",
-  "n": 3552,
+  "n": 3548,
   "name": "Chateau Neuf",
   "by": "Kjell Lund and Nils Slaatto",
   "place": "Oslo, NO",
@@ -303330,7 +302910,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kunstnernes-hus",
-  "n": 3553,
+  "n": 3549,
   "name": "Kunstnernes Hus",
   "by": "Gudolf Blakstad and Herman Munthe-Kaas",
   "place": "Oslo, NO",
@@ -303348,10 +302928,22 @@ window.BUILDINGS = [
   "study": "Artists' House, a prominent Functionalist building, opened on 1 October 1930.",
   "qid": null,
   "commons": "Category:Kunstnernes Hus",
-  "lead": "File:KH utvendig web.jpg",
+  "lead": "2019-08-23 Oslo 81 - Kunstnernes Hus.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2019-08-23_Oslo_81_-_Kunstnernes_Hus.jpg/1280px-2019-08-23_Oslo_81_-_Kunstnernes_Hus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunstnernes-hus/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kunstnernes Hus, (\"Artists' House\", art gallery) Oslo, Norway",
+    "credit": "Nemo bis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2019-08-23_Oslo_81_-_Kunstnernes_Hus.jpg",
+    "file": "File:2019-08-23 Oslo 81 - Kunstnernes Hus.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/1132_Kunstnernes_Hus_-_Wergelandsveien%2C_Oslo_-_no-nb_digifoto_20151102_00115_bldsa_PK11977.jpg/1280px-1132_Kunstnernes_Hus_-_Wergelandsveien%2C_Oslo_-_no-nb_digifoto_20151102_00115_bldsa_PK11977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kunstnernes-hus/thumbs/0.webp",
@@ -303387,18 +302979,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:8037_Oslo._Kunstnernes_hus_-_no-nb_digifoto_20151102_00114_bldsa_PK11972.jpg",
     "file": "File:8037 Oslo. Kunstnernes hus - no-nb digifoto 20151102 00114 bldsa PK11972.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/2019-08-23_Oslo_81_-_Kunstnernes_Hus.jpg/1280px-2019-08-23_Oslo_81_-_Kunstnernes_Hus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kunstnernes-hus/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Kunstnernes Hus, (\"Artists' House\", art gallery) Oslo, Norway",
-    "credit": "Nemo bis",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2019-08-23_Oslo_81_-_Kunstnernes_Hus.jpg",
-    "file": "File:2019-08-23 Oslo 81 - Kunstnernes Hus.jpg"
    }
   ],
   "has": [],
@@ -303406,7 +302986,7 @@ window.BUILDINGS = [
  },
  {
   "id": "alajarvi-administrative-centre",
-  "n": 3554,
+  "n": 3550,
   "name": "Alajärvi administrative centre",
   "by": "Alvar Aalto",
   "place": "Alajärvi, FI",
@@ -303446,7 +303026,7 @@ window.BUILDINGS = [
  },
  {
   "id": "porthania",
-  "n": 3555,
+  "n": 3551,
   "name": "Porthania",
   "by": "Aarne Ervi",
   "place": "Helsinki, FI",
@@ -303546,7 +303126,7 @@ window.BUILDINGS = [
  },
  {
   "id": "kouvola-town-hall",
-  "n": 3556,
+  "n": 3552,
   "name": "Kouvola Town Hall",
   "by": "Juha Leiviskä and Bertel Saarnio",
   "place": "Kouvola, FI",
@@ -303622,7 +303202,7 @@ window.BUILDINGS = [
  },
  {
   "id": "rovaniemi-city-hall",
-  "n": 3557,
+  "n": 3553,
   "name": "Rovaniemi City Hall",
   "by": "Alvar Aalto",
   "place": "Rovaniemi, FI",
@@ -303662,7 +303242,7 @@ window.BUILDINGS = [
  },
  {
   "id": "museum-of-central-finland",
-  "n": 3558,
+  "n": 3554,
   "name": "Museum of Central Finland",
   "by": "Alvar Aalto",
   "place": "Jyväskylä, FI",
@@ -303738,7 +303318,7 @@ window.BUILDINGS = [
  },
  {
   "id": "jyvaskyla-city-theatre",
-  "n": 3559,
+  "n": 3555,
   "name": "Jyväskylä City Theatre",
   "by": "Alvar Aalto",
   "place": "Jyväskylä, FI",
@@ -303838,7 +303418,7 @@ window.BUILDINGS = [
  },
  {
   "id": "joutjarvi-church",
-  "n": 3560,
+  "n": 3556,
   "name": "Joutjärvi Church",
   "by": "Unto Ojonen",
   "place": "Lahti, FI",
@@ -303938,7 +303518,7 @@ window.BUILDINGS = [
  },
  {
   "id": "nakkila-church",
-  "n": 3561,
+  "n": 3557,
   "name": "Nakkila Church",
   "by": "Erkki Huttunen",
   "place": "Nakkila, FI",
@@ -304038,7 +303618,7 @@ window.BUILDINGS = [
  },
  {
   "id": "finnish-state-guesthouse",
-  "n": 3562,
+  "n": 3558,
   "name": "Finnish State Guesthouse",
   "by": "Einari Teräsvirta",
   "place": "Helsinki, FI",
@@ -304114,7 +303694,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sahkotalo",
-  "n": 3563,
+  "n": 3559,
   "name": "Sähkötalo",
   "by": "Alvar Aalto",
   "place": "Helsinki, FI",
@@ -304214,7 +303794,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ympyratalo",
-  "n": 3564,
+  "n": 3560,
   "name": "Ympyrätalo",
   "by": "Heikki and Kaija Siren",
   "place": "Helsinki, FI",
@@ -304314,7 +303894,7 @@ window.BUILDINGS = [
  },
  {
   "id": "sibelius-museum",
-  "n": 3565,
+  "n": 3561,
   "name": "Sibelius Museum",
   "by": "Woldemar Baeckman",
   "place": "Turku, FI",
@@ -304414,7 +303994,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seinajoki-library",
-  "n": 3566,
+  "n": 3562,
   "name": "Seinäjoki Library",
   "by": "Alvar Aalto",
   "place": "Seinäjoki, FI",
@@ -304514,7 +304094,7 @@ window.BUILDINGS = [
  },
  {
   "id": "villa-kokkonen",
-  "n": 3567,
+  "n": 3563,
   "name": "Villa Kokkonen",
   "by": "Alvar Aalto",
   "place": "Järvenpää, FI",
@@ -304590,7 +304170,7 @@ window.BUILDINGS = [
  },
  {
   "id": "helsinki-cathedral",
-  "n": 3568,
+  "n": 3564,
   "name": "Helsinki Cathedral",
   "by": "Carl Ludvig Engel",
   "place": "Helsinki, FI",
@@ -304690,7 +304270,7 @@ window.BUILDINGS = [
  },
  {
   "id": "finnish-national-theatre",
-  "n": 3569,
+  "n": 3565,
   "name": "Finnish National Theatre",
   "by": "Onni Tarjanne",
   "place": "Helsinki, FI",
@@ -304790,7 +304370,7 @@ window.BUILDINGS = [
  },
  {
   "id": "uspenski-cathedral",
-  "n": 3570,
+  "n": 3566,
   "name": "Uspenski Cathedral",
   "by": "Aleksey Gornostayev",
   "place": "Helsinki, FI",
@@ -304890,7 +304470,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tampere-cathedral",
-  "n": 3571,
+  "n": 3567,
   "name": "Tampere Cathedral",
   "by": "Lars Sonck",
   "place": "Tampere, FI",
@@ -304990,7 +304570,7 @@ window.BUILDINGS = [
  },
  {
   "id": "tampere-hall",
-  "n": 3572,
+  "n": 3568,
   "name": "Tampere Hall",
   "by": "Sakari Aartelo and Esa Piironen",
   "place": "Tampere, FI",
@@ -305090,7 +304670,7 @@ window.BUILDINGS = [
  },
  {
   "id": "muurame-church",
-  "n": 3573,
+  "n": 3569,
   "name": "Muurame church",
   "by": "Alvar Aalto",
   "place": "Muurame, FI",
@@ -305190,7 +304770,7 @@ window.BUILDINGS = [
  },
  {
   "id": "seinajoki-civil-guard-house",
-  "n": 3574,
+  "n": 3570,
   "name": "Seinäjoki Civil Guard House",
   "by": "Alvar Aalto",
   "place": "Seinäjoki, FI",
@@ -305254,7 +304834,7 @@ window.BUILDINGS = [
  },
  {
   "id": "ateneum",
-  "n": 3575,
+  "n": 3571,
   "name": "Ateneum",
   "by": "Theodor Höijer",
   "place": "Helsinki, FI",
@@ -305381,7 +304961,7 @@ window.BUILDINGS = [
  },
  {
   "id": "espoo-cultural-centre",
-  "n": 3576,
+  "n": 3572,
   "name": "Espoo Cultural Centre",
   "by": "Arto Sipinen",
   "place": "Espoo, FI",
@@ -305481,7 +305061,7 @@ window.BUILDINGS = [
  },
  {
   "id": "vyborg-library",
-  "n": 3577,
+  "n": 3573,
   "name": "Vyborg Library",
   "by": "Aino Aalto and Alvar Aalto",
   "place": "Vyborg, RU",
@@ -305581,7 +305161,7 @@ window.BUILDINGS = [
  },
  {
   "id": "national-theatre-of-iceland",
-  "n": 3578,
+  "n": 3574,
   "name": "National Theatre of Iceland",
   "by": "Guðjón Samúelsson",
   "place": "Reykjavík, IS",
@@ -305657,7 +305237,7 @@ window.BUILDINGS = [
  },
  {
   "id": "arktikum",
-  "n": 3579,
+  "n": 3575,
   "name": "Arktikum",
   "by": "Birch-Bonderup & Thorup-Waade",
   "place": "Rovaniemi, FI",
@@ -305757,7 +305337,7 @@ window.BUILDINGS = [
  },
  {
   "id": "church-of-the-holy-spirit",
-  "n": 3580,
+  "n": 3576,
   "name": "Church of the Holy Spirit, Wolfsburg",
   "by": "Alvar Aalto",
   "place": "Wolfsburg, DE",
@@ -305857,7 +305437,7 @@ window.BUILDINGS = [
  },
  {
   "id": "empire-state-building",
-  "n": 3581,
+  "n": 3577,
   "name": "Empire State Building",
   "by": "Shreve, Lamb & Harmon",
   "place": "New York, US",
@@ -305881,7 +305461,7 @@ window.BUILDINGS = [
  },
  {
   "id": "brooklyn-museum",
-  "n": 3582,
+  "n": 3578,
   "name": "Brooklyn Museum",
   "by": "McKim, Mead & White",
   "place": "New York, US",
@@ -305905,7 +305485,7 @@ window.BUILDINGS = [
  },
  {
   "id": "westminster-cathedral",
-  "n": 3583,
+  "n": 3579,
   "name": "Westminster Cathedral",
   "by": "John Francis Bentley",
   "place": "London, GB",
@@ -305929,7 +305509,7 @@ window.BUILDINGS = [
  },
  {
   "id": "flatiron-building",
-  "n": 3584,
+  "n": 3580,
   "name": "Flatiron Building",
   "by": "Daniel Burnham, Frederick P. Dinkelberg",
   "place": "New York, US",
