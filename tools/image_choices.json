@@ -3964,6 +3964,9 @@
     60138,
     "Exterior"
    ]
+  ],
+  "add": [
+   "File:Royal Albert Hall (00733).jpg"
   ]
  },
  "concertgebouw": {
@@ -27872,6 +27875,10 @@
    "File:Akita Museum of Art 20220409.jpg",
    "File:Akita Museum of Art 20120818.jpg",
    "File:Akita Museum of Art 20130826.jpg"
+  ],
+  "skip": [
+   "File:Masakichi Hirano Museum of Fine Art 20060929.jpg",
+   "File:Akita Museum of Art at night 20210102.jpg"
   ]
  },
  "military-cathedral-of-st-mary-queen-of-peace-brasilia": {
@@ -27879,6 +27886,9 @@
   "add": [
    "File:Catedral Militar Rainha da Paz brasilia.jpg",
    "File:Webysther 20180212100916 - Catedral Militar Rainha da Paz.jpg"
+  ],
+  "skip": [
+   "File:Catedral Militar Rainha da Paz - Brasília - 20240805231941.jpg"
   ]
  },
  "stephanuskirche-wolfsburg": {
@@ -27888,6 +27898,9 @@
    "File:Wolfsburg Stephanus 2016-.2.jpg",
    "File:Wolfsburg Stephanus 2016-1.jpg",
    "File:Wolfsburg Stephanus 2016-3.jpg"
+  ],
+  "skip": [
+   "File:Wolfsburg Stephanskirche und Markt.JPG"
   ]
  },
  "asian-art-museum-nice": {
@@ -27896,6 +27909,10 @@
    "File:Musée Arts Asiatiques de Nice.jpg",
    "File:NiceAsianMuseum.jpg",
    "File:Parc Phoenix L'Arenas Nice.jpg"
+  ],
+  "skip": [
+   "File:Fauteuil racine Chine Quianlong musee arts asiatiques Nice.jpg",
+   "File:Indra et Indrani (Musée des arts asiatiques, Nice) (5939561892).jpg"
   ]
  },
  "shimane-museum-of-ancient-izumo": {
@@ -27905,6 +27922,10 @@
    "File:ShimaneMuseumOfAncientIzumo 02.jpg",
    "File:150322 Shimane Museum of Ancient Izumo Japan20s3.jpg",
    "File:Shimane museum of ancient Izumo 01.jpg"
+  ],
+  "skip": [
+   "File:150322 Shimane Museum of Ancient Izumo Japan05s.jpg",
+   "File:150322 Shimane Museum of Ancient Izumo Japan13bs3.jpg"
   ]
  },
  "jiyu-gakuen-girls-school": {
@@ -27978,6 +27999,9 @@
   "add": [
    "File:David Wright House.JPG",
    "File:David and Gladys Wright House Phoenix.JPG"
+  ],
+  "skip": [
+   "File:David & Gladys Wright House ramp closeup.jpg"
   ]
  },
  "kraus-house": {
@@ -28003,6 +28027,10 @@
   "add": [
    "File:2018 Warszawa Złota 44 z PKiN.jpg",
    "File:Złota 44 (06.2013).jpg"
+  ],
+  "skip": [
+   "File:Palace of Culture and Science, Warsaw (by Pudelek).jpg",
+   "File:Varsovia, Polonia - panoramio (66).jpg"
   ]
  },
  "2-columbus-circle": {
@@ -28010,6 +28038,12 @@
   "add": [
    "File:2 Columbus Circle.jpg",
    "File:WTM wikiWhat 089.jpg"
+  ],
+  "skip": [
+   "File:WTM wikiWhat 089.jpg",
+   "File:Dreary Columbus Circle (15860123014).jpg",
+   "File:View of Central Park from Robert restaurant at Two Columbus Circle.jpg",
+   "File:Columbus Circle area Oct 2020 24.jpg"
   ]
  },
  "hoki-museum": {
@@ -28026,6 +28060,9 @@
    "File:Holy Trinity Cathedral Chicago.jpg",
    "File:Holy Trinity Orthodox Cathedral Chicago Portal 2019-2854.jpg",
    "File:Holy Trinity Russian and Greek Orthodox Church, 1121 North Leavitt Street, Chicago, Cook County, IL HABS ILL,16-CHIG,71- (sheet 2 of 3).png"
+  ],
+  "skip": [
+   "File:Easter Baskets Prepared for Blessing at an Eastern Orthodox Church's Hall.jpg"
   ]
  },
  "national-museum-of-modern-art-tokyo": {
@@ -28033,13 +28070,21 @@
   "add": [
    "File:National Museum of Modern Art Tokyo.jpg",
    "File:東京国立近代美術館 (54406710465).jpg"
+  ],
+  "skip": [
+   "File:The National Museum of Modern Art, Tokyo (53133766316).jpg",
+   "File:The National Museum of Modern Art, Tokyo Secrets of National Important Cultural Properties (53133167337).jpg"
   ]
  },
  "saint-denis-pleyel-station": {
   "category": "Category:Saint-Denis Pleyel (Paris Metro)",
   "add": [
+   "File:Station Saint Denis Pleyel Métro Paris - Saint-Denis (FR93) - 2024-06-27 - 13.jpg",
    "File:Vue générale de face du bâtiment voyageurs de la gare de Saint-Denis - Pleyel depuis le parvis principal.jpg",
    "File:Escaliers mécaniques entre la ligne 14 et la sortie de la station Saint-Denis - Pleyel.jpg"
+  ],
+  "skip": [
+   "File:Station Saint Denis Pleyel Métro Paris - Saint-Denis (FR93) - 2026-05-22 - 1.jpg"
   ]
  },
  "fukui-prefectural-dinosaur-museum": {
@@ -28047,6 +28092,10 @@
   "add": [
    "File:Fukui Prefectural Dinosaur Museum 20231217.jpg",
    "File:Fukui Prefectural Dinosaur Museum 20210504 27.jpg"
+  ],
+  "skip": [
+   "File:Fukuiraptor Animatronics.jpg",
+   "File:No crossing, Fukui dinosaur museum.jpg"
   ]
  },
  "torre-realia-bcn": {
@@ -28054,6 +28103,9 @@
   "add": [
    "File:Hospitalet de Llobregat - Plaza de Europa, Torres de Toyo Ito (Torres Porta Fira), Torre Realia BCN 5.JPG",
    "File:Torre Realia BCN 10.jpg"
+  ],
+  "skip": [
+   "File:Torre Realia Puerta de Europa.jpg"
   ]
  },
  "nagasaki-museum-of-history-and-culture": {
@@ -28066,6 +28118,7 @@
  "kreeger-museum": {
   "category": "Category:Kreeger Museum",
   "add": [
+   "File:Kreeger Museum - Washington, D.C.jpg",
    "File:Kreeger Museum 1 - 16910611716.jpg",
    "File:Kreeger Museum Inner Courtyard - 16314170234.jpg"
   ]
@@ -28089,6 +28142,9 @@
   "add": [
    "File:Hochhaus Neue Donau Vienna from NW on 2012-08-08.png",
    "File:Hochhaus Neue Donau Vienna from NW on 2012-08-07.jpg"
+  ],
+  "skip": [
+   "File:2014-09-29 - Reichsbrücke-Donau City-Sunken City.jpg"
   ]
  },
  "ito-toren": {
@@ -28103,6 +28159,9 @@
   "add": [
    "File:TOKI MESSE.jpg",
    "File:Niigata 20220503155544 (52274917069).jpg"
+  ],
+  "skip": [
+   "File:「佐渡島の金山」世界文化遺産登録決定 05.jpg"
   ]
  },
  "mrs-clinton-walker-house": {
@@ -28110,12 +28169,19 @@
   "add": [
    "File:Mrs. Clinton Walker House at Carmel-by-the-Sea.jpg",
    "File:Carmel-by-the-Sea.jpg"
+  ],
+  "skip": [
+   "File:Clinton Walker House statue.jpg"
   ]
  },
  "museum-reinhard-ernst": {
   "category": "Category:Museum Reinhard Ernst",
   "add": [
    "File:Museum Reinhard Ernst Wiesbaden 8376 7 8.jpg"
+  ],
+  "skip": [
+   "File:MJK 75619 Baugrube Museums Reinhard Ernst (Wiesbaden).jpg",
+   "File:MJK 76442 Baugrube Museum Reinhard Ernst (Wiesbaden).jpg"
   ]
  },
  "richard-king-mellon-hall": {
@@ -28137,6 +28203,10 @@
   "add": [
    "File:Mode Spiral Towers in Nagoya02.JPG",
    "File:Nagoya Spiral Towers dk3816.jpg"
+  ],
+  "skip": [
+   "File:NAGOYA Spiral Towers - flickr 33394733682 00a34fdb34 o.jpg",
+   "File:230616 Nagoya Mode Academy Spiral Towers at night.jpg"
   ]
  }
 }
