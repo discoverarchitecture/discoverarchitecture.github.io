@@ -305854,5 +305854,101 @@ window.BUILDINGS = [
   ],
   "has": [],
   "gv": 3
+ },
+ {
+  "id": "empire-state-building",
+  "n": 3581,
+  "name": "Empire State Building",
+  "by": "Shreve, Lamb & Harmon",
+  "place": "New York, US",
+  "year": "1931",
+  "y": 1931,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "study": "Art Deco skyscraper built 1930–31, the world's tallest building until 1970.",
+  "qid": null,
+  "commons": "Category:Empire State Building",
+  "lead": "File:Empire State Building (aerial view).jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "brooklyn-museum",
+  "n": 3582,
+  "name": "Brooklyn Museum",
+  "by": "McKim, Mead & White",
+  "place": "New York, US",
+  "year": "1897",
+  "y": 1897,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "Before 1900",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Community"
+  ],
+  "study": "Beaux-Arts museum building by McKim, Mead & White, dating to 1897 and expanded several times since.",
+  "qid": null,
+  "commons": "Category:Brooklyn Museum",
+  "lead": "File:Brooklyn Museum June 2008 sunset jeh.JPG",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "westminster-cathedral",
+  "n": 3583,
+  "name": "Westminster Cathedral",
+  "by": "John Francis Bentley",
+  "place": "London, GB",
+  "year": "1895",
+  "y": 1895,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "region": "Europe",
+  "era": "Before 1900",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Structure as expression"
+  ],
+  "study": "Neo-Byzantine brick cathedral built without steel reinforcement; John Betjeman called it a masterpiece in striped brick and stone.",
+  "qid": null,
+  "commons": "Category:Westminster Cathedral",
+  "lead": "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg",
+  "coords": null,
+  "hotlink": true
+ },
+ {
+  "id": "flatiron-building",
+  "n": 3584,
+  "name": "Flatiron Building",
+  "by": "Daniel Burnham, Frederick P. Dinkelberg",
+  "place": "New York, US",
+  "year": "1902",
+  "y": 1902,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "region": "Americas",
+  "era": "1900–1945",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "study": "A 22-storey steel-framed tower filling a triangular block where Fifth Avenue meets Broadway.",
+  "qid": null,
+  "commons": "Category:Flatiron Building (New York City)",
+  "lead": "File:At New York, USA 2017 303.jpg",
+  "coords": null,
+  "hotlink": true
  }
 ];

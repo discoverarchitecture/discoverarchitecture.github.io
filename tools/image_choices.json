@@ -27176,5 +27176,38 @@
   "add": [
    "File:Wolfsburg Heilig-Geist 2012.JPG"
   ]
+ },
+ "empire-state-building": {
+  "category": "Category:Empire State Building",
+  "add": [
+   "File:Empire State Building (aerial view).jpg",
+   "File:Architectural crown and antenna tower of the Empire State Building.jpg",
+   "File:At New York City 2023 031 - Empire State Building seen from the High Line.jpg"
+  ]
+ },
+ "brooklyn-museum": {
+  "category": "Category:Brooklyn Museum",
+  "add": [
+   "File:Brooklyn Museum June 2008 sunset jeh.JPG"
+  ]
+ },
+ "westminster-cathedral": {
+  "category": "Category:Westminster Cathedral",
+  "add": [
+   "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg",
+   "File:UK - London - Westminster - 94.jpg",
+   "File:Looking up at Westminster Cathedral from the piazza on Victoria Street - geograph.org.uk - 7828566.jpg",
+   "File:UK - London - Westminster - 89.jpg",
+   "File:View of the detail above the entrance of Westminster Cathedral - geograph.org.uk - 7828569.jpg"
+  ]
+ },
+ "flatiron-building": {
+  "category": "Category:Flatiron Building (New York City)",
+  "add": [
+   "File:At New York, USA 2017 303.jpg",
+   "File:At New York, USA 2017 305.jpg",
+   "File:Edificio Fuller (Flatiron) en 2010 desde el Empire State crop boxin.jpg",
+   "File:Flatiron Building, New York City, NY 4a12277a original.jpg"
+  ]
  }
 }
