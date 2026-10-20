@@ -141,7 +141,7 @@ def judge(b, files, info, gallery, skip):
         if not fi.OK_LICENSE.search(lic):
             continue
         kind = kind_of(t, hint, meta, i.get('cats', ''), city)
-        if not kind:
+        if not kind or kind == 'Model':  # first 200: nearly all "models" were photos of miniatures and Lego
             continue
         pool.append({'file': t, 'kind': kind, 's': fi.score(i, b, t) + (1 if hint == 'HABS' else 0), 'w': w, 'h': h, 'license': lic,
                      'author': fi.strip(meta.get('Artist'))[:100] or fi.strip(meta.get('Credit'))[:100],
