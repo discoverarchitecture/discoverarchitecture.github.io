@@ -1,0 +1,2872 @@
+[
+ {
+  "id": "altes-museum-berlin",
+  "name": "Altes Museum",
+  "by": "Karl Friedrich Schinkel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1830",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Neoclassical museum fronted by a colonnade of eighteen Ionic columns facing the Lustgarten.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Altes_Museum"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Altes Museum (Berlin)",
+  "photos": [
+   {
+    "file": "File:Altes Museum (Berlin) (6339770591).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Altes Museum, Berlin, Germany.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Altes Museum in Berlin, Germany.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.51944,
+   13.39833
+  ]
+ },
+ {
+  "id": "melk-abbey",
+  "name": "Melk Abbey",
+  "by": "Jakob Prandtauer",
+  "city": "Melk",
+  "cc": "AT",
+  "year": "1736",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Axis"
+  ],
+  "features": "Baroque abbey on a rocky outcrop above the Danube; church frescos by Rottmayr and Troger.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Melk_Abbey"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Melk Abbey",
+  "photos": [
+   {
+    "file": "File:Stift Melk, Westansicht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20231227.Stift Melk.-015.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.22806,
+   15.33389
+  ]
+ },
+ {
+  "id": "zwinger-dresden",
+  "name": "Zwinger",
+  "by": "Matthäus Daniel Pöppelmann",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "1728",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Richly decorated Baroque pavilions linked by galleries lined with balustrades, figures and vases.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zwinger_(Dresden)"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Zwinger, Dresden",
+  "photos": [
+   {
+    "file": "File:2006-07-30 Zwinger dresden2.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:20251122.Dresden Dresdner Zwinger.-013.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.05306,
+   13.73389
+  ]
+ },
+ {
+  "id": "wuerzburg-residence",
+  "name": "Würzburg Residence",
+  "by": "Balthasar Neumann",
+  "city": "Würzburg",
+  "cc": "DE",
+  "year": "1744",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Axis"
+  ],
+  "features": "Baroque palace whose interiors include a grand staircase, a chapel and the Imperial Hall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/W%C3%BCrzburg_Residence"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Würzburg Residence",
+  "photos": [
+   {
+    "file": "File:West facade of the Wurzburg Residence 09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2004-06-27-Germany-Wuerzburg-Lutz Marten-Residenz side view 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   49.79278,
+   9.93861
+  ]
+ },
+ {
+  "id": "vierzehnheiligen-basilica",
+  "name": "Basilica of the Fourteen Holy Helpers (Vierzehnheiligen)",
+  "by": "Balthasar Neumann",
+  "city": "Bad Staffelstein",
+  "cc": "DE",
+  "year": "1772",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Vault",
+   "Light & shadow"
+  ],
+  "features": "Late Baroque basilica; Neumann split the interior into three ovals, the Mercy Altar marking the apparition site.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Basilica_of_the_Fourteen_Holy_Helpers"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Basilika Vierzehnheiligen",
+  "photos": [
+   {
+    "file": "File:Vierzehnheiligen Fassade.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vierzehnheiligen Basilika Luftbild-20220304-RM-115017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vierzehnheiligen Basilika Luftbild-20220304-RM-115153.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.11556,
+   11.05444
+  ]
+ },
+ {
+  "id": "dreischeibenhaus-duesseldorf",
+  "name": "Dreischeibenhaus",
+  "by": "Hentrich, Petschnigg & Partner (Helmut Hentrich, Hubert Petschnigg)",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": "1960",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "'Three Plates Building': one of the first skyscrapers completed in Germany after WW2, 25 floors.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dreischeibenhaus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Dreischeibenhaus",
+  "photos": [
+   {
+    "file": "File:Thyssen Krupp Hochhaus in Düsseldorf (vom Gründgens-Platz aus).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dreischeibenhaus-Westseite-2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.22778,
+   6.78222
+  ]
+ },
+ {
+  "id": "heilig-kreuz-frankfurt",
+  "name": "Holy Cross Church, Bornheim",
+  "by": "Martin Weber",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1929",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "Steel-frame and concrete church with soaring round arches inside and out and a tower with three arcades.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Holy_Cross_Church,_Frankfurt-Bornheim"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Heilig-Kreuz-Kirche (Frankfurt am Main)",
+  "photos": [
+   {
+    "file": "File:Frankfurt heiligkreuzkirche.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Heiligkreuzkirche-ffm-bornheim001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.12694,
+   8.71833
+  ]
+ },
+ {
+  "id": "siemensstadt-estate-berlin",
+  "name": "Siemensstadt Estate (Ringsiedlung)",
+  "by": "Hans Scharoun (master plan) with Fred Forbát, Otto Bartning, Walter Gropius, Hugo Häring and Paul Rudolf Henning",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1931",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Cluster",
+   "Axis"
+  ],
+  "features": "UNESCO-listed modernist housing estate of 1929–31, planned by Hans Scharoun with five other architects.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gro%C3%9Fsiedlung_Siemensstadt"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Großsiedlung Siemensstadt",
+  "photos": [
+   {
+    "file": "File:Berlin Maeckeritzstr.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.53833,
+   13.28
+  ]
+ },
+ {
+  "id": "tonhalle-duesseldorf",
+  "name": "Tonhalle Düsseldorf",
+  "by": "Wilhelm Kreis",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": "1926",
+  "type": "Culture & sport",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Built in 1926 for the GeSoLei exhibition as a planetarium, then the biggest in the world.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tonhalle_D%C3%BCsseldorf"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Tonhalle Düsseldorf",
+  "photos": [
+   {
+    "file": "File:Tonhalle Duesseldorf Oederallee Pempelfort Duesseldorf Germany 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tonhalle, Ehrenhof, Düsseldorf-0862.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tonhalle, Oederallee, Düsseldorf-0786.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.232,
+   6.773
+  ]
+ },
+ {
+  "id": "karlskirche-vienna",
+  "name": "Karlskirche",
+  "by": "Johann Bernhard Fischer von Erlach (completed by Joseph Emanuel Fischer von Erlach)",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1737",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Baroque church with a dome over a high drum, a Greek-temple portico and two flanking columns inspired by Trajan's.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karlskirche"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Karlskirche, Vienna",
+  "photos": [
+   {
+    "file": "File:Austria-03428 - Church of St Charles Borromeo (32783050082).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Karlskirche (36848706164).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20250502 Karlskirche Vienna.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.19828,
+   16.3719
+  ]
+ },
+ {
+  "id": "belvedere-vienna",
+  "name": "Upper Belvedere",
+  "by": "Johann Lukas von Hildebrandt",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1723",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Baroque palace of Prince Eugene; the main garden steps over three large terraces down to the Lower Belvedere.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Belvedere,_Vienna"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Belvedere (Vienna)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (lead is dusk)",
+  "coords": [
+   48.19417,
+   16.38028
+  ]
+ },
+ {
+  "id": "wieskirche",
+  "name": "Wieskirche",
+  "by": "Johann Baptist and Dominikus Zimmermann",
+  "city": "Steingaden",
+  "cc": "DE",
+  "year": "1754",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Vault"
+  ],
+  "features": "Oval Rococo church with a semi-circular narthex, stucco decoration and trompe-l'oeil ceilings.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wieskirche"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Exterior of Wieskirche",
+  "photos": [
+   {
+    "file": "File:Wieskirche 04.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wieskirche 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wieskirche 03.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wieskirche 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   47.68111,
+   10.9
+  ]
+ },
+ {
+  "id": "koelnturm",
+  "name": "KölnTurm",
+  "by": "Jean Nouvel (Ateliers Jean Nouvel) with Kohl & Kohl",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": "2001",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "Reinforced-concrete tower around a load-bearing core; printed images on the glass facade change with the light.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cologne_Tower"
+  ],
+  "status": "photo",
+  "commons_category": "Category:KölnTurm",
+  "photos": [
+   {
+    "file": "File:Koeln-Turm 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.9481,
+   6.9431
+  ]
+ },
+ {
+  "id": "solarsiedlung-freiburg",
+  "name": "Solar Settlement at Schlierberg",
+  "by": "Rolf Disch",
+  "city": "Freiburg",
+  "cc": "DE",
+  "year": "2006",
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Community"
+  ],
+  "features": "59 plus-energy homes facing south under photovoltaic roofs; passive-house standard, regional timber frames.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Solar_Settlement_at_Schlierberg"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Solarsiedlung Freiburg",
+  "photos": [
+   {
+    "file": "File:SoSie+SoSchiff Ansicht.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Freiburg 2009 IMG 4224.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "bauhaus-museum-dessau",
+  "name": "Bauhaus Museum Dessau",
+  "by": "Addenda Architects",
+  "city": "Dessau",
+  "cc": "DE",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Geometry",
+   "Void"
+  ],
+  "features": "Museum of the second-largest Bauhaus collection; temporary shows in the atrium below, the permanent display above.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bauhaus_Museum_Dessau"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Bauhaus Museum Dessau",
+  "photos": [
+   {
+    "file": "File:2020-09-24-Bauhaus-Museum-Dessau.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bauhaus Museum Dessau W.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.8346,
+   12.2421
+  ]
+ },
+ {
+  "id": "bauhaus-museum-weimar",
+  "name": "Bauhaus Museum Weimar",
+  "by": "Heike Hanada with Benedict Tonon",
+  "city": "Weimar",
+  "cc": "DE",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Exposed concrete",
+   "Void"
+  ],
+  "features": "New building for the Weimar Bauhaus collections, opened in April 2019 near the Weimarhallenpark.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bauhaus_Museum_Weimar"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Bauhaus Museum Weimar",
+  "photos": [
+   {
+    "file": "File:Weimar, Bauhaus-Museum, 2019-09 CN-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weimar 0600 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Neues Bauhaus Museum Weimar 2019 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.985,
+   11.32417
+  ]
+ },
+ {
+  "id": "sprinkenhof-hamburg",
+  "name": "Sprinkenhof",
+  "by": "Fritz Höger, Hans Gerson and Oskar Gerson",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": "1943",
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Courtyard"
+  ],
+  "features": "Brick Expressionism on a reinforced-concrete skeleton; rhombic clinker patterns decorate the facade.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sprinkenhof"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Sprinkenhof",
+  "photos": [
+   {
+    "file": "File:Hamburg Sprinkenhof west.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "stuttgart-hauptbahnhof",
+  "name": "Stuttgart Hauptbahnhof",
+  "by": "Paul Bonatz and Friedrich Eugen Scholer",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": "1928",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Rough-hewn Muschelkalk blocks over brick, a 56 m tower and asymmetrical cubes: the Stuttgart School.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stuttgart_Hauptbahnhof"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Stuttgart Hauptbahnhof",
+  "photos": [
+   {
+    "file": "File:2018-08-30 EC 218 \"Chiemgau\" Salzburg - Stuttgart (42581205930).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.78389,
+   9.18167
+  ]
+ },
+ {
+  "id": "slub-dresden",
+  "name": "Saxon State and University Library (SLUB)",
+  "by": "Ortner & Ortner",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "2002",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Stone",
+   "Void"
+  ],
+  "features": "Stone-clad building with a glass roof over the main reading room, about 1,000 study desks.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saxon_State_and_University_Library_Dresden"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:SLUB",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (category holds only interior)",
+  "coords": [
+   51.02806,
+   13.73667
+  ]
+ },
+ {
+  "id": "yenidze-dresden",
+  "name": "Yenidze",
+  "by": "Martin Hammitzsch",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "1909",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Colour"
+  ],
+  "features": "Former cigarette factory in Moorish Revival style, borrowing from mosques and the Alhambra as advertising.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yenidze"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Yenidze",
+  "photos": [
+   {
+    "file": "File:20230705.Yenidze.-011.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20070110100DR Dresden-Friedrichstadt Yenidze Weißeritzstr 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.05889,
+   13.72694
+  ]
+ },
+ {
+  "id": "europaeisches-hansemuseum-luebeck",
+  "name": "European Hansemuseum",
+  "by": "Andreas Heller Architects & Designers",
+  "city": "Lübeck",
+  "cc": "DE",
+  "year": "2015",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Adaptive reuse",
+   "Geometry"
+  ],
+  "features": "Hand-crafted brick; the compact wall recalls the medieval city wall, the roof Lübeck's gables.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/European_Hansemuseum"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Europäisches Hansemuseum",
+  "photos": [
+   {
+    "file": "File:Europäisches Hansemuseum 2015.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   53.87411,
+   10.68961
+  ]
+ },
+ {
+  "id": "hygiene-museum-dresden",
+  "name": "German Hygiene Museum",
+  "by": "Wilhelm Kreis",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "1930",
+  "type": "Museum",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Built for the 1930–31 International Hygiene Exhibition; renovated and partly rebuilt by Peter Kulka 2001–05.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/German_Hygiene_Museum"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Deutsches Hygiene-Museum",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (sculpture in front in every candidate)",
+  "coords": [
+   51.04417,
+   13.74667
+  ]
+ },
+ {
+  "id": "haus-am-horn-weimar",
+  "name": "Haus am Horn",
+  "by": "Georg Muche (with Adolf Meyer)",
+  "city": "Weimar",
+  "cc": "DE",
+  "year": "1923",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Prefabrication",
+   "Light from above"
+  ],
+  "features": "First Bauhaus-principles building: a flat-roofed cube with a clerestory-lit living room at its core.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Haus_am_Horn"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Haus am Horn",
+  "photos": [
+   {
+    "file": "File:Haus am Horn 04.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weimar 0500 59.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.97389,
+   11.33944
+  ]
+ },
+ {
+  "id": "kunstmuseum-wolfsburg",
+  "name": "Kunstmuseum Wolfsburg",
+  "by": "Peter Schweger",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": "1994",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Steel & glass",
+   "Light from above"
+  ],
+  "features": "Glass roof over the open Hollerplatz; the central hall is 16 m high on a 40 m square plan.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Wolfsburg"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Kunstmuseum Wolfsburg",
+  "photos": [
+   {
+    "file": "File:Kunstmuseum Wolfsburg 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wolfsburg Kunstmuseum 2023.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.4186,
+   10.7854
+  ]
+ },
+ {
+  "id": "universum-bremen",
+  "name": "Universum Bremen",
+  "by": "Thomas Klumpp",
+  "city": "Bremen",
+  "cc": "DE",
+  "year": "2000",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Clad in 40,000 stainless steel scales, the building resembles a mixture of a whale and a mussel.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Universum_Science_Center"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Universum Bremen",
+  "photos": [
+   {
+    "file": "File:Universum Bremen085.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   53.10639,
+   8.84472
+  ]
+ },
+ {
+  "id": "gruene-zitadelle-magdeburg",
+  "name": "Green Citadel (Grüne Zitadelle)",
+  "by": "Friedensreich Hundertwasser",
+  "city": "Magdeburg",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Planting",
+   "Colour",
+   "Facade as skin"
+  ],
+  "features": "Every window is different; trees are planted on the roof and along the walls of the apartments.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Green_Citadel_of_Magdeburg"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Grüne Zitadelle",
+  "photos": [
+   {
+    "file": "File:Magdeburg Green Citadel Northern Street Front 2019-09-24 17-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20170422T153446 K0A2646.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.127,
+   11.6343
+  ]
+ },
+ {
+  "id": "schaubuehne-berlin",
+  "name": "Schaubühne am Lehniner Platz",
+  "by": "Erich Mendelsohn",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Conversion of Mendelsohn's 1928 Universum cinema, centrepiece of his New Objectivity WOGA ensemble.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schaub%C3%BChne"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Schaubühne am Lehniner Platz",
+  "photos": [
+   {
+    "file": "File:Berlin-Charlottenburg Schaubuehne 05-2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Schaubuehne am Lehniner Platz 2009 IMGP1721.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.49861,
+   13.30222
+  ]
+ },
+ {
+  "id": "hfg-ulm",
+  "name": "Ulm School of Design (HfG)",
+  "by": "Max Bill",
+  "city": "Ulm",
+  "cc": "DE",
+  "year": "1955",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Modular",
+   "Community"
+  ],
+  "features": "Reinforced-concrete workshops, dormitories and a cafeteria on terraces used for lectures.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ulm_School_of_Design"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Hochschule für Gestaltung Ulm",
+  "photos": [
+   {
+    "file": "File:HfG Ulm Main Entrance photo by Christian Gänshirt.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.38056,
+   9.95278
+  ]
+ },
+ {
+  "id": "beethovenhalle-bonn",
+  "name": "Beethovenhalle",
+  "by": "Siegfried Wolske",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": "1959",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Vault",
+   "Sculptural form"
+  ],
+  "features": "Copper-covered self-supporting steel dome 'rising like a wave from the banks of the Rhine'; 1,402 seats.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beethovenhalle"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Beethovenhalle",
+  "photos": [
+   {
+    "file": "File:Bnbeethrhein.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:2004-03-28-bonn-beethovenhalle-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.7409,
+   7.1049
+  ]
+ },
+ {
+  "id": "sammlung-goetz-munich",
+  "name": "Sammlung Goetz",
+  "by": "Herzog & de Meuron",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Detail",
+   "Light from above",
+   "Timber"
+  ],
+  "features": "Purpose-built museum for a private contemporary art collection, with video and film shown on the lower level.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Goetz_Collection"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Ausstellungsgebäude Sammlung Goetz",
+  "photos": [
+   {
+    "file": "File:Goetz Collection Munich 3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Goetz Collection Munich 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.16611,
+   11.62306
+  ]
+ },
+ {
+  "id": "st-jakob-park-basel",
+  "name": "St. Jakob-Park",
+  "by": "Herzog & de Meuron",
+  "city": "Basel",
+  "cc": "CH",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Switzerland's largest football stadium with 32 shops on three floors inside; seats about 37,500.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Jakob-Park"
+  ],
+  "status": "photo",
+  "commons_category": "Category:St. Jakob-Park",
+  "photos": [
+   {
+    "file": "File:StJakobParkB.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   47.54167,
+   7.62028
+  ]
+ },
+ {
+  "id": "dortmunder-u",
+  "name": "Dortmunder U",
+  "by": "Emil Moog",
+  "city": "Dortmund",
+  "cc": "DE",
+  "year": "1927",
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Monumentality"
+  ],
+  "features": "Dortmund's first high-rise, a brewery fermentation tower topped by a giant illuminated 'U', now an arts centre.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dortmund_U-Tower"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Dortmunder U",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (only close views of the top or night)",
+  "coords": [
+   51.515,
+   7.45362
+  ]
+ },
+ {
+  "id": "festspielhaus-hellerau",
+  "name": "Festspielhaus Hellerau",
+  "by": "Heinrich Tessenow",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": "1911",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "The first modern theatre built without a proscenium arch, with a completely open stage.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Festspielhaus_Hellerau"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Festspielhaus Hellerau",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (no exterior view of the main building)"
+ },
+ {
+  "id": "sprengel-museum-hannover",
+  "name": "Sprengel Museum",
+  "by": "Peter and Ursula Trint with Dieter Quast",
+  "city": "Hanover",
+  "cc": "DE",
+  "year": "1979",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Museum of modern art beside the Maschsee, opened in 1979 and extended in 1992.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sprengel_Museum"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Sprengel Museum Hannover",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (only a dusk entrance view)",
+  "coords": [
+   52.36281,
+   9.74015
+  ]
+ },
+ {
+  "id": "brucknerhaus-linz",
+  "name": "Brucknerhaus",
+  "by": "Heikki and Kaija Siren",
+  "city": "Linz",
+  "cc": "AT",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Festival and congress centre built 1969–73; the large Brucknersaal seats 1,420.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brucknerhaus"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Brucknerhaus",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (boat in front, or night or entrance close-ups)",
+  "coords": [
+   48.31028,
+   14.2925
+  ]
+ },
+ {
+  "id": "museum-der-moderne-salzburg",
+  "name": "Museum der Moderne Mönchsberg",
+  "by": "Friedrich, Hoff and Zwink",
+  "city": "Salzburg",
+  "cc": "AT",
+  "year": "2004",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Perched on the Mönchsberg cliff 60 m above the square, clad in Untersberg marble with vertical joints.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_der_Moderne_Salzburg"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Museum der Moderne Mönchsberg",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (building seen only far away on the cliff)",
+  "coords": [
+   47.7982,
+   13.0431
+  ]
+ },
+ {
+  "id": "vienna-international-centre",
+  "name": "Vienna International Centre",
+  "by": "Johann Staber",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1979",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Monumentality"
+  ],
+  "features": "Six Y-shaped office towers around a cylindrical conference building; the tallest has 28 floors.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vienna_International_Centre"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Vienna International Centre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (aerial is 501 px; others foggy or partial)",
+  "coords": [
+   48.23472,
+   16.41694
+  ]
+ },
+ {
+  "id": "vitrahaus-weil-am-rhein",
+  "name": "VitraHaus",
+  "by": "Herzog & de Meuron",
+  "city": "Weil am Rhein",
+  "cc": "DE",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Sculptural form"
+  ],
+  "features": "Twelve pitched-roof 'houses' stacked on one another, five forming the base.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/VitraHaus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Exterior of VitraHaus",
+  "photos": [
+   {
+    "file": "File:Weil am Rhein - Vitra Haus.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weil am Rhein - Vitra Haus3.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weil am Rhein - Vitra Haus2.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "mumok-vienna",
+  "name": "mumok",
+  "by": "Ortner & Ortner",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Cubic museum clad in basalt lava stone in the MuseumsQuartier.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mumok"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Museum Moderner Kunst Stiftung Ludwig Wien",
+  "photos": [
+   {
+    "file": "File:Wien Museumsplatz 1 mumok.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wien Muzeum Sztuki Nowoczesnej.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.20372,
+   16.35744
+  ]
+ },
+ {
+  "id": "vorarlberg-museum-bregenz",
+  "name": "Vorarlberg Museum",
+  "by": "Cukrowicz Nachbaur Architekten",
+  "city": "Bregenz",
+  "cc": "AT",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Reclaimed material"
+  ],
+  "features": "Facade of 16,656 concrete 'blossoms' cast from the bottoms of PET bottles.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vorarlberg_museum"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Vorarlberg Museum (building)",
+  "photos": [
+   {
+    "file": "File:Vorarlberg museum in Bregenz 5.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Vorarlberg museum in Bregenz 4.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   47.50444,
+   9.74667
+  ]
+ },
+ {
+  "id": "hangar-7-salzburg",
+  "name": "Hangar-7",
+  "by": "Volkmar Burgstaller",
+  "city": "Salzburg",
+  "cc": "AT",
+  "year": "2003",
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Airfoil-shaped steel-and-glass dome: 1,200 tons of steel and 75,000 sq ft of glass.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hangar-7"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Hangar-7",
+  "photos": [
+   {
+    "file": "File:Red Bull Hangar 7(Ank kumar, Infosys Limited) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   47.79361,
+   13.00722
+  ]
+ },
+ {
+  "id": "zollverein-essen",
+  "name": "Zollverein Coal Mine, Shaft 12",
+  "by": "Fritz Schupp and Martin Kremmer",
+  "city": "Essen",
+  "cc": "DE",
+  "year": "1932",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "New Objectivity mine: cubic reinforced-concrete and steel-truss buildings around a double-bock winding tower.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zollverein_Coal_Mine_Industrial_Complex"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Zollverein Coal Mine industrial complex",
+  "photos": [
+   {
+    "file": "File:1056 zeche zollverein.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1030 Zeche Zollverein.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.49139,
+   7.04611
+  ]
+ },
+ {
+  "id": "museum-kueppersmuehle-duisburg",
+  "name": "Museum Küppersmühle",
+  "by": "Herzog & de Meuron",
+  "city": "Duisburg",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Light from above"
+  ],
+  "features": "1860 mill gutted into 3,600 m² of galleries with 6 m ceilings; extension by Herzog & de Meuron 2013–21.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_K%C3%BCppersmühle"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Museum Küppersmühle",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (night, or tight crops of the mill)",
+  "coords": [
+   51.44111,
+   6.775
+  ]
+ },
+ {
+  "id": "vitra-conference-pavilion",
+  "name": "Vitra Conference Pavilion",
+  "by": "Tadao Ando",
+  "city": "Weil am Rhein",
+  "cc": "DE",
+  "year": "1993",
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Tadao Ando's first building outside Japan; gridded concrete and holes for light define its style.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Conference_Pavilion"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Exterior of the Conference Pavilion (Andō Tadao)",
+  "photos": [
+   {
+    "file": "File:Tadao Ando's Conference Pavilion.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20170805 252 weil am rhein vitra.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "philological-library-berlin",
+  "name": "Philological Library, Free University",
+  "by": "Norman Foster (Foster + Partners)",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "2005",
+  "type": "Library",
+  "movement": "High-tech",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Light from above"
+  ],
+  "features": "A library in the shape of a human brain, nicknamed 'the Berlin Brain'.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philological_Library"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Philologische Bibliothek (FU Berlin)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (exteriors are dome details)",
+  "coords": [
+   52.45194,
+   13.28833
+  ]
+ },
+ {
+  "id": "walter-gropius-haus-berlin",
+  "name": "Walter-Gropius-Haus (Interbau)",
+  "by": "Walter Gropius / The Architects' Collaborative with Wils Ebert",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1957",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Community",
+   "Cantilever"
+  ],
+  "features": "Nine-floor concrete-skeleton block of 66 apartments built for the 1957 Interbau exhibition.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walter-Gropius-Haus_(Berlin)"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Walter Gropius Haus",
+  "photos": [
+   {
+    "file": "File:Hansa4tel 5a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "leipzig-hauptbahnhof",
+  "name": "Leipzig Hauptbahnhof",
+  "by": "William Lossow and Max Hans Kühne",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": "1915",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Structure as expression"
+  ],
+  "features": "Europe's largest station by floor area: 21 platforms in six iron train sheds behind a 298 m facade.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leipzig_Hauptbahnhof"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Exterior of Leipzig Hauptbahnhof",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (category holds rail works; only an aerial)",
+  "coords": [
+   51.34528,
+   12.38222
+  ]
+ },
+ {
+  "id": "tempelhof-airport-berlin",
+  "name": "Tempelhof Airport",
+  "by": "Ernst Sagebiel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1941",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Cantilever"
+  ],
+  "features": "A 1.2 km quadrant terminal with a huge canopy roof over the apron; built 1936–41 but never finished.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Berlin_Tempelhof_Airport"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Berlin-Tempelhof Airport",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (no daylight view of the terminal front)",
+  "coords": [
+   52.47361,
+   13.40167
+  ]
+ },
+ {
+  "id": "salginatobel-bridge",
+  "name": "Salginatobel Bridge",
+  "by": "Robert Maillart",
+  "city": "Schiers",
+  "cc": "CH",
+  "year": "1930",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Section"
+  ],
+  "features": "Three-hinged reinforced-concrete arch spanning 90 m across an alpine ravine, with a hollow box girder.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salginatobel_Bridge"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Salginatobelbrücke",
+  "photos": [
+   {
+    "file": "File:Salginatobelbruecke suedost unten.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Salginatobel Bridge mg 4080.jpg",
+    "license": "CC BY-SA 2.0 fr",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   46.98182,
+   9.71772
+  ]
+ },
+ {
+  "id": "schwandbach-bridge",
+  "name": "Schwandbach Bridge",
+  "by": "Robert Maillart",
+  "city": "Rüeggisberg",
+  "cc": "CH",
+  "year": "1933",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Section"
+  ],
+  "features": "Curved concrete arch bridge whose deck is stiff enough to stop the slender arch from buckling.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schwandbach_Bridge"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Schwandbachbrücke",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (no whole-bridge view)",
+  "coords": [
+   46.82936,
+   7.40234
+  ]
+ },
+ {
+  "id": "stadelhofen-station-zurich",
+  "name": "Zürich Stadelhofen Station",
+  "by": "Santiago Calatrava",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "1990",
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Promenade"
+  ],
+  "features": "A lighter metal-and-glass canopy and an underground shop arcade framed by sculptural arches.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zurich_Stadelhofen_railway_station"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Zürich Stadelhofen railway station",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (interiors/canopy details only)",
+  "coords": [
+   47.3667,
+   8.5486
+  ]
+ },
+ {
+  "id": "letzigrund-zurich",
+  "name": "Letzigrund Stadium",
+  "by": "Bétrix & Consolascio, Frei & Ehrensperger",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "2007",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Rebuilt 2006–07 for football and athletics; 25,000 seats, 50,000 for concerts.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Letzigrund"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Letzigrund-Stadion, Zürich",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (only stadium interiors/details)"
+ },
+ {
+  "id": "zurich-hauptbahnhof",
+  "name": "Zürich Hauptbahnhof",
+  "by": "Jakob Friedrich Wanner",
+  "city": "Zurich",
+  "cc": "CH",
+  "year": "1871",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Sandstone neo-Renaissance station whose main entrance is a triumphal arch facing Bahnhofstrasse.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Z%C3%BCrich_Hauptbahnhof"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Zürich Hauptbahnhof",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (far view with crane)",
+  "coords": [
+   47.37817,
+   8.54018
+  ]
+ },
+ {
+  "id": "university-library-freiburg",
+  "name": "University Library Freiburg",
+  "by": "Degelo Architekten",
+  "city": "Freiburg",
+  "cc": "DE",
+  "year": "2015",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Human comfort"
+  ],
+  "features": "7,300 m² facade of glass and matted dark chrome steel; reading rooms along the south side of each floor.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/University_Library_Freiburg"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Universitätsbibliothek Freiburg",
+  "photos": [
+   {
+    "file": "File:Uni Bibliothek (Freiburg) jm33894.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   47.99389,
+   7.84528
+  ]
+ },
+ {
+  "id": "neues-museum-nuernberg",
+  "name": "Neues Museum Nürnberg",
+  "by": "Volker Staab",
+  "city": "Nuremberg",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Museum of modern art and design in Nuremberg's old town; construction ran from 1996 to October 1999.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neues_Museum_N%C3%BCrnberg"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Neues Museum Nürnberg",
+  "photos": [
+   {
+    "file": "File:Neues Museum Nuernberg-3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:NeuesMuseumNbg Aussenansicht.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   49.44778,
+   11.08
+  ]
+ },
+ {
+  "id": "zeiss-planetarium-jena",
+  "name": "Zeiss-Planetarium Jena",
+  "by": "Walther Bauersfeld",
+  "city": "Jena",
+  "cc": "DE",
+  "year": "1926",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "World's oldest continuously operating planetarium; stars are projected onto a white cupola.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zeiss-Planetarium_Jena"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Planetarium Jena",
+  "photos": [
+   {
+    "file": "File:Zeiss-Planetarium-jena.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zeiss-Planetarium, Jena.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.93167,
+   11.58694
+  ]
+ },
+ {
+  "id": "bonjour-tristesse-berlin",
+  "name": "Bonjour Tristesse (Wohnhaus Schlesisches Tor)",
+  "by": "Álvaro Siza Vieira",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1984",
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Community",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Siza's first completed building outside Portugal, built as social housing in Kreuzberg.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bonjour_Tristesse_(building)"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Bonjour Tristesse building, Berlin",
+  "photos": [
+   {
+    "file": "File:Berlin schlesische-str-7 bonjour-tristesse 20050224 p1010029.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:IBA-87-Berlin-146-Alvaro-Siza-Wohnbebauung-Schlesisches-Tor-Bonjour-Tristesse-a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.49995,
+   13.44346
+  ]
+ },
+ {
+  "id": "mossehaus-berlin",
+  "name": "Mossehaus",
+  "by": "Erich Mendelsohn",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1923",
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Mendelsohn's 1921–23 corner rebuild: strips and sculpted elements in the fenestration gave a dynamic form.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mossehaus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Mossehaus",
+  "photos": [
+   {
+    "file": "File:Mosse-Haus Berlin-Mitte 2025-09-20 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Mosse-Haus Berlin-Mitte 2025-09-20 02.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.50885,
+   13.39691
+  ]
+ },
+ {
+  "id": "shell-haus-berlin",
+  "name": "Shell-Haus",
+  "by": "Emil Fahrenkamp",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1931",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Facade jumps forward in six waves, rising from six levels to ten; an early steel-framed high-rise.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shell-Haus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Shell-Haus",
+  "photos": [
+   {
+    "file": "File:Berlin, Tiergarten, Reichpietschufer, Shell-Haus.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shell-HausBerlinmsu-2023-0I9A-8433-.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.50611,
+   13.36333
+  ]
+ },
+ {
+  "id": "hans-sachs-haus-gelsenkirchen",
+  "name": "Hans-Sachs-Haus",
+  "by": "Alfred Fischer",
+  "city": "Gelsenkirchen",
+  "cc": "DE",
+  "year": "1927",
+  "type": "Civic",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Brick Expressionist town hall, with New Objectivity, Streamline Moderne and Bauhaus influences.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hans-Sachs-Haus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Hans-Sachs-Haus (Gelsenkirchen)",
+  "photos": [
+   {
+    "file": "File:Gelsenkirchen, Baudenkmal 023 Hans-Sachs-Haus Ebertstrasse 1- Munckelstrasse 4-Vattmannstrasse 7 - Altstadt 41.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hans-Sachs-Haus2016-04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Heinrich-König-Platz, Gelsenkirchen-Mitte, Niemcy (Hans-Sachs-Haus).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   51.511,
+   7.0927
+  ]
+ },
+ {
+  "id": "lindt-home-of-chocolate",
+  "name": "Lindt Home of Chocolate",
+  "by": "Christ & Gantenbein",
+  "city": "Kilchberg",
+  "cc": "CH",
+  "year": "2020",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A monumental yet minimalist form inspired by industrial buildings; nine-metre chocolate fountain inside.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lindt_Home_of_Chocolate"
+  ],
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no free photo found (no Commons category)",
+  "coords": [
+   47.3184,
+   8.551
+  ]
+ },
+ {
+  "id": "frauenfriedenskirche-frankfurt",
+  "name": "Frauenfriedenskirche",
+  "by": "Hans Herkommer",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1929",
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Colour",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Interwar church mixing Expressionism and New Objectivity, with monumental mosaics inside and out.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frauenfriedenskirche"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Frauenfriedenskirche (Frankfurt am Main)",
+  "photos": [
+   {
+    "file": "File:Frauenfriedenskirche, Frankfurt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Portal der Frauenfriedenskirche, Frankfurt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   50.12833,
+   8.64556
+  ]
+ },
+ {
+  "id": "baumgarten-bau-karlsruhe",
+  "name": "Baumgarten-Bau (Federal Constitutional Court)",
+  "by": "Paul Baumgarten",
+  "city": "Karlsruhe",
+  "cc": "DE",
+  "year": "1969",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Five flat-roofed pavilion-like structures around a long corridor in the Botanical Garden of the Schlossgarten.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baumgarten-Bau"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Bundesverfassungsgericht, Dienstsitz Schlossbezirk",
+  "photos": [
+   {
+    "file": "File:Karlsruhe - Bundesverfassungsgericht, Dienstsitz Schlossbezirk - 20200909091131.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   49.01278,
+   8.40147
+  ]
+ },
+ {
+  "id": "new-synagogue-graz",
+  "name": "New Synagogue of Graz",
+  "by": "Jörg and Ingrid Mayr",
+  "city": "Graz",
+  "cc": "AT",
+  "year": "2000",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Glass dome on twelve metal pillars forms a Star-of-David cupola; brick, reinforced concrete and glass.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Synagogue_of_Graz"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Synagoge, Graz",
+  "photos": [
+   {
+    "file": "File:Graz David-Herzog-Platz Synagoge-4240.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:WRBaier11 1096.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Grazer Synagoge - Außenansicht, Dezember 2003.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   47.06399,
+   15.43368
+  ]
+ },
+ {
+  "id": "behrensbau-hoechst",
+  "name": "Hoechst Technical Administration Building (Behrensbau)",
+  "by": "Peter Behrens",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1924",
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Detail"
+  ],
+  "features": "All-brick Expressionist office block 185 m long, with a tower and a hall of bricks graded green to yellow.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Technical_Administration_Building_of_Hoechst_AG"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Behrensbau",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (category holds only interiors and details)",
+  "coords": [
+   50.09472,
+   8.53444
+  ]
+ },
+ {
+  "id": "schirn-kunsthalle-frankfurt",
+  "name": "Schirn Kunsthalle",
+  "by": "BJSS",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": "1986",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Axis",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "A 20 m rotunda entrance and a 140 m long, five-storey nave between the Römer and the cathedral.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Schirn_Kunsthalle_Frankfurt"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Schirn Kunsthalle",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (only entrance and details)",
+  "coords": [
+   50.11028,
+   8.68361
+  ]
+ },
+ {
+  "id": "heliotrop-freiburg",
+  "name": "Heliotrop",
+  "by": "Rolf Disch",
+  "city": "Freiburg",
+  "cc": "DE",
+  "year": "1994",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Sculptural form",
+   "Parametric"
+  ],
+  "features": "The architect's own home: solar panels rotate to follow the sun and produce 5–6 times the energy it uses.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heliotrope_(building)"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Heliotrop (Freiburg im Breisgau)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (lead is false-colour, the other is a distant view)"
+ },
+ {
+  "id": "olympiastadion-berlin",
+  "name": "Olympiastadion",
+  "by": "Werner March",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1936",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Built 1934–36; the field is sunk 2.65 m and the western end opens to reveal the Bell Tower.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Olympiastadion Berlin",
+  "photos": [
+   {
+    "file": "File:Olympiastadion(Berlin)-2025-09-msu-7767-8371.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Olympiastadion(Berlin)-2025-09-msu-7767-8380.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.51472,
+   13.23944
+  ]
+ },
+ {
+  "id": "neue-wache-berlin",
+  "name": "Neue Wache",
+  "by": "Karl Friedrich Schinkel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1818",
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "Prussian Neoclassical guardhouse with a Doric portico; today a memorial lit by an oculus.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neue_Wache"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Neue Wache",
+  "photos": [
+   {
+    "file": "File:150214 Neue Wache Berlin.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:150419 Neue Wache Berlin-Mitte HDR.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:At Berlin 2024 404.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.5175,
+   13.39556
+  ]
+ },
+ {
+  "id": "sanssouci-potsdam",
+  "name": "Sanssouci",
+  "by": "Georg Wenzeslaus von Knobelsdorff",
+  "city": "Potsdam",
+  "cc": "DE",
+  "year": "1747",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Human comfort"
+  ],
+  "features": "A single-storey Rococo villa above a terraced vineyard, built 1745–47 as Frederick the Great's summer retreat.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sanssouci"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Schloss Sanssouci",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (palace is small across the terraces; others are details)",
+  "coords": [
+   52.40326,
+   13.03863
+  ]
+ },
+ {
+  "id": "detlev-rohwedder-haus-berlin",
+  "name": "Detlev-Rohwedder-Haus",
+  "by": "Ernst Sagebiel",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1936",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Structure as expression"
+  ],
+  "features": "Seven storeys, 2,800 rooms, a reinforced-concrete skeleton faced in limestone and travertine; built 1935–36.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Detlev-Rohwedder-Haus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Detlev-Rohwedder-Haus",
+  "photos": [
+   {
+    "file": "File:Berlin-Detlev-Rohwedder-Haus-Bundesfinanzministerium-02-2023-gje X.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   52.5087,
+   13.384
+  ]
+ },
+ {
+  "id": "koelner-philharmonie",
+  "name": "Kölner Philharmonie",
+  "by": "Busmann + Haberer",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": "1986",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Void",
+   "Cluster"
+  ],
+  "features": "Amphitheatre-style concert hall sunk below the Heinrich-Böll square, part of the Museum Ludwig ensemble.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/K%C3%B6lner_Philharmonie"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Philharmonie Köln",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (entrance crops; the hall is underground)",
+  "coords": [
+   50.9406,
+   6.9608
+  ]
+ },
+ {
+  "id": "kunsthauswien",
+  "name": "KunstHausWien",
+  "by": "Friedensreich Hundertwasser",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "1991",
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Planting",
+   "Facade as skin"
+  ],
+  "features": "Wavy, undulating floors, no straight lines and enamelled checkerboard mosaics on the facade.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/KunstHausWien"
+  ],
+  "status": "photo",
+  "commons_category": "Category:KunstHausWien",
+  "photos": [
+   {
+    "file": "File:Main façade of KunstHausWien Museum, by Friedensreich Hundertwasser (Vienna, Austria).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wien - KunstHausWien (a).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories.",
+  "coords": [
+   48.21092,
+   16.39339
+  ]
+ },
+ {
+  "id": "museumsquartier-vienna",
+  "name": "MuseumsQuartier",
+  "by": "Laurids and Manfred Ortner (Ortner & Ortner)",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Courtyard",
+   "Public space"
+  ],
+  "features": "New museums inserted into the Baroque imperial stables, creating a sequence of courtyards and passages.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/MuseumsQuartier"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:MuseumsQuartier",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (courtyard furniture and street views)",
+  "coords": [
+   48.20333,
+   16.35889
+  ]
+ },
+ {
+  "id": "nordic-embassies-berlin",
+  "name": "Nordic Embassies",
+  "by": "Alfred Berger and Tiina Parkkinen",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": "1999",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Cluster",
+   "Public space"
+  ],
+  "features": "Five national embassies and a shared Felleshus enveloped by a green, copper-clad, snaking wall.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nordic_Embassies_(Berlin)"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Nordic Embassies",
+  "photos": [
+   {
+    "file": "File:Berliner Botshaften der nordischen Länder, Stülerstrasse-Rauchstrasse (2024).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Berliner Botschaften der nordischen Länder, Eingang (2024).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "kunstmuseum-winterthur-extension",
+  "name": "Kunstmuseum Winterthur extension",
+  "by": "Gigon/Guyer",
+  "city": "Winterthur",
+  "cc": "CH",
+  "year": "1995",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Detail",
+   "Light from above",
+   "Geometry"
+  ],
+  "features": "A 1,000 m² modernist addition of 1995 by Annette Gigon and Mike Guyer to the existing museum.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstmuseum_Winterthur"
+  ],
+  "status": "unsure",
+  "commons_category": "Category:Kunstmuseum Winterthur (building)",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "no main photo (no free exterior at 1200 px; category is the older building)"
+ },
+ {
+  "id": "lenbachhaus-munich",
+  "name": "Lenbachhaus extension",
+  "by": "Norman Foster (extension); Gabriel von Seidl (villa)",
+  "city": "Munich",
+  "cc": "DE",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Florentine-style villa of 1887–91 with a 2013 extension clad in copper-aluminium alloy tubes that weather.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lenbachhaus"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Lenbachhaus",
+  "photos": [
+   {
+    "file": "File:Museum Lenbachhaus in München (1).jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Museum Lenbachhaus in München, 2013.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Lenbachhaus - München 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ },
+ {
+  "id": "rheinturm-duesseldorf",
+  "name": "Rheinturm",
+  "by": "Harald Deilmann",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": "1981",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Concrete telecommunications tower with a revolving restaurant and Horst Baumann's light-sculpture clock on the shaft.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rheinturm"
+  ],
+  "status": "photo",
+  "commons_category": "Category:Rheinturm in Düsseldorf",
+  "photos": [
+   {
+    "file": "File:Düsseldorf, der Rheinturm, die Hafenbrücke, die Rheinkniebrücke en der Neue Zollhof IMG 2986 2018-05-05 18.51.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Düsseldorf, der Rheinturm, die Hafenbrücke, die Rheinkniebrücke en der Neue Zollhof IMG 8800 2019-03-22 15.54.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "note": "Photos checked by thumbnail. Commons category checked against its parent categories."
+ }
+]

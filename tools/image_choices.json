@@ -25587,8 +25587,12 @@
  "chung-tai-chan-monastery": {
   "category": "Category:Chung_Tai_Chan_Monastery",
   "add": [
-   "File:Remote view of the Chung Tai Chan Monastery 20190811.jpg",
-   "File:台湾 中台禅寺 - panoramio (1).jpg"
+   "File:台湾 中台禅寺 - panoramio (1).jpg",
+   "File:Remote view of the Chung Tai Chan Monastery 20190811.jpg"
+  ],
+  "skip": [
+   "File:馬英九總統拜訪中台禪寺惟覺老和尚.jpg",
+   "File:Information free guide board at Hall of the Four Heavenly Kings, Chung Tai Chan Monastery 20170819.jpg"
   ]
  },
  "tianjin-grand-theatre": {
@@ -25600,8 +25604,8 @@
  "taipei-guest-house": {
   "category": "Category:Taipei_Guest_House",
   "add": [
-   "File:Taipei Guest House 20140926.jpg",
-   "File:Taipei Guest House Front Side.jpg"
+   "File:Taipei Guest House Front Side.jpg",
+   "File:Taipei Guest House 20140926.jpg"
   ]
  },
  "guangdong-museum": {
@@ -25664,8 +25668,12 @@
  "shenzhen-cultural-center": {
   "category": "Category:Shenzhen_Concert_Hall",
   "add": [
-   "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (21).jpg",
-   "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (19).jpg"
+   "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (19).jpg",
+   "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (21).jpg"
+  ],
+  "skip": [
+   "File:SZ 深圳 Shenzhen Futian 市民中心 Civic Center 鵬程三路 Pengcheng 3rd Road Book City night October 2023 R12S.jpg",
+   "File:SZ 深圳 Shenzhen Futian 市民中心 Civic Center 鵬程三路 Pengcheng 3rd Road night April 2023 Px3 01.jpg"
   ]
  },
  "bug-dome": {
@@ -25679,6 +25687,9 @@
   "category": "Category:Yuz_Museum",
   "add": [
    "File:Yudeyao Meishuguan.JPG"
+  ],
+  "skip": [
+   "File:Image about Will-We Must in Yuz museum.jpg"
   ]
  },
  "museum-of-the-communist-party-of-china": {
@@ -26036,8 +26047,8 @@
  "biltmore-hotel-coral-gables": {
   "category": "Category:Biltmore Hotel at Coral Gables",
   "add": [
-   "File:Miami - Biltmore hotel - 0341.jpg",
-   "File:Coral Gables FL Biltmore01.jpg"
+   "File:Coral Gables FL Biltmore01.jpg",
+   "File:Miami - Biltmore hotel - 0341.jpg"
   ]
  },
  "vizcaya-museum-and-gardens": {
@@ -26116,7 +26127,14 @@
  "clinton-presidential-library": {
   "category": "Category:William J. Clinton Presidential Library",
   "add": [
+   "File:Clinton Presidential Library.jpg",
    "File:William J. Clinton Presidential Library 2016 1.JPG"
+  ],
+  "skip": [
+   "File:Limo Clinton Library (3953058513).jpg",
+   "File:Road Trip - Clinton Library - Tenor (Yamaha, Amati Kraslice, Leblanc-Yanagisawa) and Alto (Beijing Wind Instrument Factory) saxophones (2009-06-18 08.44.31 by Deborah Lee Soltesz @ Flickr 3953838898).jpg",
+   "File:Saxophones Presented to President Clinton as Gifts - Clinton Presidential Center - Little Rock - Arkansas - USA.jpg",
+   "File:Clinton exhibit Presidential Library Little Rock AR 2013-06-07 006.jpg"
   ]
  },
  "bechtler-museum-of-modern-art": {
@@ -26157,9 +26175,9 @@
  "arcosanti": {
   "category": "Category:Arcosanti",
   "add": [
+   "File:2021 Arcosanti at golden hour.jpg",
    "File:Arcosanti 12.jpg",
-   "File:Arcosanti - panoramio.jpg",
-   "File:2021 Arcosanti at golden hour.jpg"
+   "File:Arcosanti - panoramio.jpg"
   ]
  },
  "biosphere-2": {
@@ -26269,6 +26287,894 @@
   "category": "Category:Joslyn Art Museum",
   "add": [
    "File:Joslyn Art Museum Omaha Nebraska.jpg"
+  ]
+ },
+ "manning-clark-house": {
+  "category": "Category:Manning Clark House",
+  "add": [
+   "File:Manning Clark house, Forrest, Australian Capital Territory.JPG",
+   "File:Manning Clark home.JPG"
+  ]
+ },
+ "newburn-flats": {
+  "category": "Category:Newburn Flats",
+  "add": [
+   "File:South elevation Newburn.jpg",
+   "File:Newburn Flats rear.jpg",
+   "File:Newburn Flats Melbourne.jpg"
+  ]
+ },
+ "kew-house-melbourne": {
+  "category": "Category:Kew House",
+  "add": [
+   "File:Front Kew House.JPG",
+   "File:North view of kew house.JPG",
+   "File:Kew cantilever.JPG"
+  ]
+ },
+ "hamer-hall-melbourne": {
+  "category": "Category:Hamer Hall",
+  "add": [
+   "File:Hamer Hall from Princes Bridge.jpg",
+   "File:Southbank Arts Centre 2010-11-22.JPG"
+  ]
+ },
+ "uts-tower-sydney": {
+  "category": "Category:UTS Tower",
+  "add": [
+   "File:UTS Tower-Front view.jpg",
+   "File:UTS Tower Entry-Left side view.jpg",
+   "File:The UTS Tower on Broadway.jpg"
+  ]
+ },
+ "council-house-perth": {
+  "category": "Category:Council House, Perth",
+  "add": [
+   "File:PerthCouncilHouse.jpeg",
+   "File:AUS Perth, Central Business District, Council House 001.jpg"
+  ]
+ },
+ "capitol-theatre-melbourne": {
+  "category": "Category:Capitol Theatre, Melbourne",
+  "add": [
+   "File:Front Elevation.jpg",
+   "File:RMIT Capitol Melbourne.jpg"
+  ]
+ },
+ "sydney-harbour-bridge": {
+  "category": "Category:Sydney Harbour Bridge",
+  "add": [
+   "File:Sídney-Australia25.JPG",
+   "File:Sídney-Australia07.JPG",
+   "File:Sídney-Australia08.JPG"
+  ]
+ },
+ "wellington-cathedral-of-st-paul": {
+  "category": "Category:Wellington Cathedral of St Paul",
+  "add": [
+   "File:DSCN5375 Wellington Cathedral of St Paul.jpg",
+   "File:Wellington, Cathedral of Saint Paul, 2016-01-25.jpg"
+  ]
+ },
+ "brisbane-city-hall": {
+  "category": "Category:Brisbane City Hall",
+  "add": [
+   "File:Brisbane City Hall 20190624.jpg",
+   "File:Brisbane City Hall 1 (30298960383).jpg"
+  ]
+ },
+ "brisbane-powerhouse": {
+  "category": "Category:Brisbane Powerhouse",
+  "add": [
+   "File:Brisbane Powerhouse on a Sunday 01.JPG",
+   "File:Brisbane Powerhouse on a Sunday 02.JPG",
+   "File:Brisbane Powerhouse on a Sunday 03.JPG"
+  ]
+ },
+ "council-house-2-melbourne": {
+  "category": "Category:Council House 2",
+  "add": [
+   "File:CouncilHouse2.jpg"
+  ]
+ },
+ "public-transport-centre-perth": {
+  "category": "Category:Public Transport Centre",
+  "add": [
+   "File:Public Transport Centre seen from the west, April 2026 01.jpg",
+   "File:East Perth Public Transport Centre, September 2026 01.jpg"
+  ]
+ },
+ "telstra-tower-canberra": {
+  "category": "Category:Black Mountain Tower",
+  "add": [
+   "File:Torre Telstra, Canberra - panoramio (cropped).jpg",
+   "File:Black Mountain Transmission Tower (6768338127).jpg"
+  ]
+ },
+ "reserve-bank-of-australia-canberra": {
+  "category": "Category:Reserve Bank of Australia building, Canberra",
+  "add": [
+   "File:Reserve Bank of Australia - panoramio.jpg",
+   "File:Reserve Bank of Australia - Canberra.jpg"
+  ]
+ },
+ "hannah-playhouse-wellington": {
+  "category": "Category:Hannah Playhouse",
+  "add": [
+   "File:Hannah Playhouse.jpg",
+   "File:Downstage Theatre Wellington.JPG"
+  ]
+ },
+ "puaka-james-hight-building": {
+  "category": "Category:Puaka–James Hight Building",
+  "add": [
+   "File:Puaka–James Hight Building in June 2024.jpg",
+   "File:James Hight Building 002.JPG"
+  ]
+ },
+ "manchester-unity-building": {
+  "category": "Category:Manchester Unity Building",
+  "add": [
+   "File:Manchester Unity Building against grey skies, Melbourne.jpg",
+   "File:Manchester Unity building facade, 220 Collins St, Melbourne, Australia.jpg"
+  ]
+ },
+ "old-parliament-house-canberra": {
+  "category": "Category:Old Parliament House, Canberra",
+  "add": [
+   "File:Canberra (AU), Old Parliament House -- 2019 -- 1744.jpg",
+   "File:Canberra (AU), Old Parliament House -- 2019 -- 1791.jpg"
+  ]
+ },
+ "perth-concert-hall": {
+  "category": "Category:Perth Concert Hall, Western Australia",
+  "add": [
+   "File:Perth Concert Hall September 2023.jpg",
+   "File:Perth Concert Hall, March 2022.jpg"
+  ]
+ },
+ "paganin-house": {
+  "add": [
+   "File:Paganin-House-2014.jpg"
+  ]
+ },
+ "edmund-barton-building-canberra": {
+  "add": [
+   "File:Edmund Barton Building facade.JPG",
+   "File:Edmund barton building canberra.JPG"
+  ]
+ },
+ "centenary-pool-complex-brisbane": {
+  "category": "Category:Centenary Pool Complex",
+  "add": [
+   "File:Centenery Pool Gregory Tce Spring Hill IMG 2146.jpg"
+  ]
+ },
+ "capita-centre-sydney": {
+  "category": "Category:Capita Centre",
+  "add": [
+   "File:Capita Centre crop.jpg"
+  ]
+ },
+ "hyde-park-barracks-sydney": {
+  "category": "Category:Hyde Park Barracks, Sydney",
+  "add": [
+   "File:Hyde Park Barracks main building.jpg",
+   "File:Sydney Hyde Park Barracks Front view.jpg"
+  ]
+ },
+ "flinders-street-station": {
+  "category": "Category:Flinders Street Station",
+  "add": [
+   "File:Flinders Street Station on 19 July 2025 - 01.jpg",
+   "File:Flinders Street Station on 19 July 2025 - 02.jpg"
+  ]
+ },
+ "perth-stadium-optus": {
+  "category": "Category:Perth Stadium",
+  "add": [
+   "File:Perth Stadium from Matagarup Bridge.jpg",
+   "File:Perth Stadium OIC 1.jpg"
+  ]
+ },
+ "auckland-town-hall": {
+  "category": "Category:Auckland Town Hall",
+  "add": [
+   "File:Aotea Square and Auckland Town Hall 02.jpg",
+   "File:Auckland Town Hall 01.jpg"
+  ]
+ },
+ "wellington-town-hall": {
+  "category": "Category:Wellington Town Hall",
+  "add": [
+   "File:Wellington Town Hall.jpg",
+   "File:Wellington Town Hall, Wellington, New Zealand (11).JPG"
+  ]
+ },
+ "auckland-civic-theatre": {
+  "category": "Category:Auckland Civic Theatre",
+  "add": [
+   "File:Auckland Civic Theatre.jpg",
+   "File:Auckland, civic theatre 01.jpg"
+  ]
+ },
+ "christchurch-arts-centre": {
+  "category": "Category:Christchurch Arts Centre",
+  "add": [
+   "File:Christchurch Arts Centre, Christchurch, New Zealand.jpg"
+  ]
+ },
+ "national-wine-centre-adelaide": {
+  "add": [
+   "File:National wine centre walkway - Adelaide.jpg",
+   "File:National Wine Centre.jpg"
+  ]
+ },
+ "auckland-war-memorial-museum": {
+  "category": "Category:Auckland War Memorial Museum",
+  "add": [
+   "File:Auckland War Memorial Museum in 2021.jpg",
+   "File:Front view, Auckland War Memorial Museum.jpg"
+  ]
+ },
+ "gladesville-bridge-sydney": {
+  "add": [
+   "File:Gladesville Bridge Sydney 001.jpg",
+   "File:Gladesville Bridge (8495164034).jpg"
+  ]
+ },
+ "jubilee-library-brighton": {
+  "category": "Category:Brighton_Library",
+  "add": [
+   "File:Jubilee Library and Jubilee Square (from Southwest), Brighton.JPG"
+  ]
+ },
+ "portcullis-house-london": {
+  "category": "Category:Portcullis_House",
+  "add": [
+   "File:Westminster Station Building.jpg"
+  ]
+ },
+ "river-and-rowing-museum-henley": {
+  "category": "Category:River_and_Rowing_Museum",
+  "add": [
+   "File:River-Rowing-Museum-Henley.jpg"
+  ]
+ },
+ "kirklees-stadium-huddersfield": {
+  "category": "Category:Kirklees_Stadium",
+  "add": [
+   "File:Huddersfield the-john-smiths-stadium.jpg"
+  ]
+ },
+ "valkhof-museum-nijmegen": {
+  "category": "Category:Museum_Het_Valkhof",
+  "add": [
+   "File:20071118 Museum Het Valkhof.jpg"
+  ]
+ },
+ "kuggen-gothenburg": {
+  "category": "Category:Kuggen",
+  "add": [
+   "File:Goteborg Lindholmen 6.jpg"
+  ]
+ },
+ "royal-shakespeare-theatre-stratford": {
+  "category": "Category:Royal_Shakespeare_Theatre",
+  "add": [
+   "File:Royal Shakespeare Theatre Stratford upon Avon (crop).jpg"
+  ]
+ },
+ "whitechapel-gallery-london": {
+  "category": "Category:Whitechapel_Gallery",
+  "add": [
+   "File:Whitechapel Gallery 2020 (3) - Copy.jpg"
+  ]
+ },
+ "mumok-vienna": {
+  "category": "Category:Museum Moderner Kunst Stiftung Ludwig Wien",
+  "add": [
+   "File:Wien Museumsplatz 1 mumok.jpg",
+   "File:Wien Muzeum Sztuki Nowoczesnej.jpg"
+  ]
+ },
+ "windermere-jetty-museum": {
+  "category": "Category:Windermere_Jetty:_Museum_of_Boats,_Steam_and_Stories",
+  "add": [
+   "File:Windermere Jetty.jpg"
+  ]
+ },
+ "savill-building-windsor": {
+  "category": "Category:Savill_Building",
+  "add": [
+   "File:Savill Building parkside.jpg"
+  ]
+ },
+ "bracken-house-london": {
+  "category": "Category:Bracken_House,_London",
+  "add": [
+   "File:EH1262582 Bracken House 01.jpg"
+  ]
+ },
+ "altes-museum-berlin": {
+  "category": "Category:Altes Museum (Berlin)",
+  "add": [
+   "File:Altes Museum (Berlin) (6339770591).jpg",
+   "File:Altes Museum, Berlin, Germany.jpg",
+   "File:Altes Museum in Berlin, Germany.jpg"
+  ]
+ },
+ "melk-abbey": {
+  "category": "Category:Melk Abbey",
+  "add": [
+   "File:Stift Melk, Westansicht.jpg",
+   "File:20231227.Stift Melk.-015.jpg"
+  ]
+ },
+ "zwinger-dresden": {
+  "category": "Category:Zwinger, Dresden",
+  "add": [
+   "File:2006-07-30 Zwinger dresden2.jpg",
+   "File:20251122.Dresden Dresdner Zwinger.-013.jpg"
+  ]
+ },
+ "wuerzburg-residence": {
+  "category": "Category:Würzburg Residence",
+  "add": [
+   "File:West facade of the Wurzburg Residence 09.jpg",
+   "File:2004-06-27-Germany-Wuerzburg-Lutz Marten-Residenz side view 1.jpg"
+  ]
+ },
+ "vierzehnheiligen-basilica": {
+  "category": "Category:Basilika Vierzehnheiligen",
+  "add": [
+   "File:Vierzehnheiligen Fassade.JPG",
+   "File:Vierzehnheiligen Basilika Luftbild-20220304-RM-115017.jpg",
+   "File:Vierzehnheiligen Basilika Luftbild-20220304-RM-115153.jpg"
+  ]
+ },
+ "dreischeibenhaus-duesseldorf": {
+  "category": "Category:Dreischeibenhaus",
+  "add": [
+   "File:Thyssen Krupp Hochhaus in Düsseldorf (vom Gründgens-Platz aus).jpg",
+   "File:Dreischeibenhaus-Westseite-2024.jpg"
+  ]
+ },
+ "heilig-kreuz-frankfurt": {
+  "category": "Category:Heilig-Kreuz-Kirche (Frankfurt am Main)",
+  "add": [
+   "File:Frankfurt heiligkreuzkirche.JPG",
+   "File:Heiligkreuzkirche-ffm-bornheim001.jpg"
+  ]
+ },
+ "siemensstadt-estate-berlin": {
+  "category": "Category:Großsiedlung Siemensstadt",
+  "add": [
+   "File:Berlin Maeckeritzstr.jpg"
+  ]
+ },
+ "tonhalle-duesseldorf": {
+  "category": "Category:Tonhalle Düsseldorf",
+  "add": [
+   "File:Tonhalle Duesseldorf Oederallee Pempelfort Duesseldorf Germany 02.jpg",
+   "File:Tonhalle, Ehrenhof, Düsseldorf-0862.jpg",
+   "File:Tonhalle, Oederallee, Düsseldorf-0786.jpg"
+  ]
+ },
+ "karlskirche-vienna": {
+  "category": "Category:Karlskirche, Vienna",
+  "add": [
+   "File:Austria-03428 - Church of St Charles Borromeo (32783050082).jpg",
+   "File:Karlskirche (36848706164).jpg",
+   "File:20250502 Karlskirche Vienna.jpg"
+  ]
+ },
+ "wieskirche": {
+  "category": "Category:Exterior of Wieskirche",
+  "add": [
+   "File:Wieskirche 04.jpg",
+   "File:Wieskirche 01.jpg",
+   "File:Wieskirche 03.jpg",
+   "File:Wieskirche 02.jpg"
+  ]
+ },
+ "koelnturm": {
+  "category": "Category:KölnTurm",
+  "add": [
+   "File:Koeln-Turm 001.jpg"
+  ]
+ },
+ "solarsiedlung-freiburg": {
+  "category": "Category:Solarsiedlung Freiburg",
+  "add": [
+   "File:SoSie+SoSchiff Ansicht.jpg",
+   "File:Freiburg 2009 IMG 4224.jpg"
+  ]
+ },
+ "bauhaus-museum-dessau": {
+  "category": "Category:Bauhaus Museum Dessau",
+  "add": [
+   "File:2020-09-24-Bauhaus-Museum-Dessau.jpg",
+   "File:Bauhaus Museum Dessau W.jpg"
+  ]
+ },
+ "bauhaus-museum-weimar": {
+  "category": "Category:Bauhaus Museum Weimar",
+  "add": [
+   "File:Weimar, Bauhaus-Museum, 2019-09 CN-01.jpg",
+   "File:Weimar 0600 07.jpg",
+   "File:Neues Bauhaus Museum Weimar 2019 06.jpg"
+  ]
+ },
+ "sprinkenhof-hamburg": {
+  "category": "Category:Sprinkenhof",
+  "add": [
+   "File:Hamburg Sprinkenhof west.jpg"
+  ]
+ },
+ "stuttgart-hauptbahnhof": {
+  "category": "Category:Stuttgart Hauptbahnhof",
+  "add": [
+   "File:2018-08-30 EC 218 \"Chiemgau\" Salzburg - Stuttgart (42581205930).jpg"
+  ]
+ },
+ "yenidze-dresden": {
+  "category": "Category:Yenidze",
+  "add": [
+   "File:20230705.Yenidze.-011.jpg",
+   "File:20070110100DR Dresden-Friedrichstadt Yenidze Weißeritzstr 3.jpg"
+  ]
+ },
+ "europaeisches-hansemuseum-luebeck": {
+  "category": "Category:Europäisches Hansemuseum",
+  "add": [
+   "File:Europäisches Hansemuseum 2015.jpg"
+  ]
+ },
+ "haus-am-horn-weimar": {
+  "category": "Category:Haus am Horn",
+  "add": [
+   "File:Haus am Horn 04.JPG",
+   "File:Weimar 0500 59.jpg"
+  ]
+ },
+ "kunstmuseum-wolfsburg": {
+  "category": "Category:Kunstmuseum Wolfsburg",
+  "add": [
+   "File:Kunstmuseum Wolfsburg 2021.jpg",
+   "File:Wolfsburg Kunstmuseum 2023.jpg"
+  ]
+ },
+ "universum-bremen": {
+  "category": "Category:Universum Bremen",
+  "add": [
+   "File:Universum Bremen085.jpg"
+  ]
+ },
+ "gruene-zitadelle-magdeburg": {
+  "category": "Category:Grüne Zitadelle",
+  "add": [
+   "File:Magdeburg Green Citadel Northern Street Front 2019-09-24 17-01.jpg",
+   "File:20170422T153446 K0A2646.jpg"
+  ]
+ },
+ "schaubuehne-berlin": {
+  "category": "Category:Schaubühne am Lehniner Platz",
+  "add": [
+   "File:Berlin-Charlottenburg Schaubuehne 05-2014.jpg",
+   "File:Schaubuehne am Lehniner Platz 2009 IMGP1721.JPG"
+  ]
+ },
+ "hfg-ulm": {
+  "category": "Category:Hochschule für Gestaltung Ulm",
+  "add": [
+   "File:HfG Ulm Main Entrance photo by Christian Gänshirt.JPG"
+  ]
+ },
+ "beethovenhalle-bonn": {
+  "category": "Category:Beethovenhalle",
+  "add": [
+   "File:Bnbeethrhein.jpg",
+   "File:2004-03-28-bonn-beethovenhalle-01.jpg"
+  ]
+ },
+ "sammlung-goetz-munich": {
+  "category": "Category:Ausstellungsgebäude Sammlung Goetz",
+  "add": [
+   "File:Goetz Collection Munich 3.jpg",
+   "File:Goetz Collection Munich 1.jpg"
+  ]
+ },
+ "st-jakob-park-basel": {
+  "category": "Category:St. Jakob-Park",
+  "add": [
+   "File:StJakobParkB.JPG"
+  ]
+ },
+ "vitrahaus-weil-am-rhein": {
+  "category": "Category:Exterior of VitraHaus",
+  "add": [
+   "File:Weil am Rhein - Vitra Haus.jpg",
+   "File:Weil am Rhein - Vitra Haus3.jpg",
+   "File:Weil am Rhein - Vitra Haus2.jpg"
+  ]
+ },
+ "vorarlberg-museum-bregenz": {
+  "category": "Category:Vorarlberg Museum (building)",
+  "add": [
+   "File:Vorarlberg museum in Bregenz 5.jpg",
+   "File:Vorarlberg museum in Bregenz 4.jpg"
+  ]
+ },
+ "hangar-7-salzburg": {
+  "category": "Category:Hangar-7",
+  "add": [
+   "File:Red Bull Hangar 7(Ank kumar, Infosys Limited) 01.jpg"
+  ]
+ },
+ "vitra-conference-pavilion": {
+  "category": "Category:Exterior of the Conference Pavilion (Andō Tadao)",
+  "add": [
+   "File:Tadao Ando's Conference Pavilion.jpg",
+   "File:20170805 252 weil am rhein vitra.jpg"
+  ]
+ },
+ "walter-gropius-haus-berlin": {
+  "category": "Category:Walter Gropius Haus",
+  "add": [
+   "File:Hansa4tel 5a.jpg"
+  ]
+ },
+ "salginatobel-bridge": {
+  "category": "Category:Salginatobelbrücke",
+  "add": [
+   "File:Salginatobelbruecke suedost unten.jpg",
+   "File:Salginatobel Bridge mg 4080.jpg"
+  ]
+ },
+ "university-library-freiburg": {
+  "category": "Category:Universitätsbibliothek Freiburg",
+  "add": [
+   "File:Uni Bibliothek (Freiburg) jm33894.jpg"
+  ]
+ },
+ "neues-museum-nuernberg": {
+  "category": "Category:Neues Museum Nürnberg",
+  "add": [
+   "File:Neues Museum Nuernberg-3.jpg",
+   "File:NeuesMuseumNbg Aussenansicht.jpg"
+  ]
+ },
+ "zeiss-planetarium-jena": {
+  "category": "Category:Planetarium Jena",
+  "add": [
+   "File:Zeiss-Planetarium-jena.jpg",
+   "File:Zeiss-Planetarium, Jena.jpg"
+  ]
+ },
+ "bonjour-tristesse-berlin": {
+  "category": "Category:Bonjour Tristesse building, Berlin",
+  "add": [
+   "File:Berlin schlesische-str-7 bonjour-tristesse 20050224 p1010029.jpg",
+   "File:IBA-87-Berlin-146-Alvaro-Siza-Wohnbebauung-Schlesisches-Tor-Bonjour-Tristesse-a.jpg"
+  ]
+ },
+ "mossehaus-berlin": {
+  "category": "Category:Mossehaus",
+  "add": [
+   "File:Mosse-Haus Berlin-Mitte 2025-09-20 01.jpg",
+   "File:Mosse-Haus Berlin-Mitte 2025-09-20 02.jpg"
+  ]
+ },
+ "shell-haus-berlin": {
+  "category": "Category:Shell-Haus",
+  "add": [
+   "File:Berlin, Tiergarten, Reichpietschufer, Shell-Haus.jpg",
+   "File:Shell-HausBerlinmsu-2023-0I9A-8433-.jpg"
+  ]
+ },
+ "hans-sachs-haus-gelsenkirchen": {
+  "category": "Category:Hans-Sachs-Haus (Gelsenkirchen)",
+  "add": [
+   "File:Gelsenkirchen, Baudenkmal 023 Hans-Sachs-Haus Ebertstrasse 1- Munckelstrasse 4-Vattmannstrasse 7 - Altstadt 41.jpg",
+   "File:Hans-Sachs-Haus2016-04.jpg",
+   "File:Heinrich-König-Platz, Gelsenkirchen-Mitte, Niemcy (Hans-Sachs-Haus).jpg"
+  ]
+ },
+ "frauenfriedenskirche-frankfurt": {
+  "category": "Category:Frauenfriedenskirche (Frankfurt am Main)",
+  "add": [
+   "File:Frauenfriedenskirche, Frankfurt.jpg",
+   "File:Portal der Frauenfriedenskirche, Frankfurt.jpg"
+  ]
+ },
+ "baumgarten-bau-karlsruhe": {
+  "category": "Category:Bundesverfassungsgericht, Dienstsitz Schlossbezirk",
+  "add": [
+   "File:Karlsruhe - Bundesverfassungsgericht, Dienstsitz Schlossbezirk - 20200909091131.jpg"
+  ]
+ },
+ "new-synagogue-graz": {
+  "category": "Category:Synagoge, Graz",
+  "add": [
+   "File:Graz David-Herzog-Platz Synagoge-4240.jpg",
+   "File:WRBaier11 1096.jpg",
+   "File:Grazer Synagoge - Außenansicht, Dezember 2003.jpg"
+  ]
+ },
+ "olympiastadion-berlin": {
+  "category": "Category:Olympiastadion Berlin",
+  "add": [
+   "File:Olympiastadion(Berlin)-2025-09-msu-7767-8371.jpg",
+   "File:Olympiastadion(Berlin)-2025-09-msu-7767-8380.jpg"
+  ]
+ },
+ "neue-wache-berlin": {
+  "category": "Category:Neue Wache",
+  "add": [
+   "File:150214 Neue Wache Berlin.jpg",
+   "File:150419 Neue Wache Berlin-Mitte HDR.jpg",
+   "File:At Berlin 2024 404.jpg"
+  ]
+ },
+ "detlev-rohwedder-haus-berlin": {
+  "category": "Category:Detlev-Rohwedder-Haus",
+  "add": [
+   "File:Berlin-Detlev-Rohwedder-Haus-Bundesfinanzministerium-02-2023-gje X.jpg"
+  ]
+ },
+ "kunsthauswien": {
+  "category": "Category:KunstHausWien",
+  "add": [
+   "File:Main façade of KunstHausWien Museum, by Friedensreich Hundertwasser (Vienna, Austria).jpg",
+   "File:Wien - KunstHausWien (a).JPG"
+  ]
+ },
+ "nordic-embassies-berlin": {
+  "category": "Category:Nordic Embassies",
+  "add": [
+   "File:Berliner Botshaften der nordischen Länder, Stülerstrasse-Rauchstrasse (2024).jpg",
+   "File:Berliner Botschaften der nordischen Länder, Eingang (2024).jpg"
+  ]
+ },
+ "lenbachhaus-munich": {
+  "category": "Category:Lenbachhaus",
+  "add": [
+   "File:Museum Lenbachhaus in München (1).jpg",
+   "File:Museum Lenbachhaus in München, 2013.jpg",
+   "File:Lenbachhaus - München 001.jpg"
+  ]
+ },
+ "rheinturm-duesseldorf": {
+  "category": "Category:Rheinturm in Düsseldorf",
+  "add": [
+   "File:Düsseldorf, der Rheinturm, die Hafenbrücke, die Rheinkniebrücke en der Neue Zollhof IMG 2986 2018-05-05 18.51.jpg",
+   "File:Düsseldorf, der Rheinturm, die Hafenbrücke, die Rheinkniebrücke en der Neue Zollhof IMG 8800 2019-03-22 15.54.jpg"
+  ]
+ },
+ "tycho-brahe-planetarium": {
+  "add": [
+   "File:Søerne 5.jpg"
+  ]
+ },
+ "danmarks-nationalbank": {
+  "add": [
+   "File:Danmarks Nationalbank.jpg"
+  ]
+ },
+ "esbjerg-performing-arts-centre": {
+  "add": [
+   "File:Esbjerg Musikkhuset.jpg"
+  ]
+ },
+ "vasa-museum": {
+  "add": [
+   "File:Stockholm Vasa Museum and Nordic Museum 09.jpg"
+  ]
+ },
+ "stockholm-court-house": {
+  "add": [
+   "File:Stockholms radhus 060409.JPG"
+  ]
+ },
+ "kiruna-church": {
+  "add": [
+   "File:Church of Kiruna 2011.jpg"
+  ]
+ },
+ "korshagehus": {
+  "add": [
+   "File:Korshagenhus dk.jpg"
+  ]
+ },
+ "rohsska-museum": {
+  "add": [
+   "File:Rohsska.JPG"
+  ]
+ },
+ "royal-dramatic-theatre": {
+  "add": [
+   "File:The Royal Dramatic Theatre in Stockholm.jpg"
+  ]
+ },
+ "wenner-gren-center": {
+  "add": [
+   "File:Sveaplan 2008.jpg"
+  ]
+ },
+ "immanuel-church": {
+  "add": [
+   "File:Immanuelskyrkan Stockholm.JPG"
+  ]
+ },
+ "landskrona-city-hall": {
+  "add": [
+   "File:Landskrona Stadshus.jpg"
+  ]
+ },
+ "valhalla-swimming-hall": {
+  "add": [
+   "File:Valhallabadet September 2012 02.jpg"
+  ]
+ },
+ "lillehammer-art-museum": {
+  "add": [
+   "File:Lillehammer kunstmuseum.jpg"
+  ]
+ },
+ "stavanger-konserthus": {
+  "add": [
+   "File:Konzerthaus Stavanger 2017.jpg"
+  ]
+ },
+ "bergen-kunsthall": {
+  "add": [
+   "File:Bergen kunsthall.jpg"
+  ]
+ },
+ "chateau-neuf": {
+  "add": [
+   "File:ChateauNeufOslo.jpg"
+  ]
+ },
+ "kunstnernes-hus": {
+  "add": [
+   "File:KH utvendig web.jpg"
+  ]
+ },
+ "alajarvi-administrative-centre": {
+  "add": [
+   "File:Alajärvi town hall 20180706.jpg"
+  ]
+ },
+ "porthania": {
+  "add": [
+   "File:Porthania.jpg"
+  ]
+ },
+ "kouvola-town-hall": {
+  "add": [
+   "File:Kouvolan kaupungintalo.JPG"
+  ]
+ },
+ "rovaniemi-city-hall": {
+  "add": [
+   "File:Rovaniemen kaupungintalo ja Vuorten synty.jpg"
+  ]
+ },
+ "museum-of-central-finland": {
+  "add": [
+   "File:Keski-Suomen Museo.jpg"
+  ]
+ },
+ "jyvaskyla-city-theatre": {
+  "add": [
+   "File:Jyväskylä City Theatre2.jpg"
+  ]
+ },
+ "joutjarvi-church": {
+  "add": [
+   "File:Joutjärvi church 01.jpg"
+  ]
+ },
+ "nakkila-church": {
+  "add": [
+   "File:Nakkilan kirkko.png"
+  ]
+ },
+ "finnish-state-guesthouse": {
+  "add": [
+   "File:Suomen Valtionvierastalo (Finnish State Guest) (Maison des invités de l'État finlandais) 02.jpg"
+  ]
+ },
+ "sahkotalo": {
+  "add": [
+   "File:Sahkotalo.JPG"
+  ]
+ },
+ "ympyratalo": {
+  "add": [
+   "File:Hakaniemenpyoreatalo.jpg"
+  ]
+ },
+ "sibelius-museum": {
+  "add": [
+   "File:Sibeliusmuseum.jpg"
+  ]
+ },
+ "seinajoki-library": {
+  "add": [
+   "File:Aalto library 20180925.jpg"
+  ]
+ },
+ "villa-kokkonen": {
+  "add": [
+   "File:Villa Kokkonen.jpg"
+  ]
+ },
+ "helsinki-cathedral": {
+  "add": [
+   "File:Kirkko3.png"
+  ]
+ },
+ "finnish-national-theatre": {
+  "add": [
+   "File:Teatro Nacional de Finlandia, Helsinki, Finlandia, 2012-08-14, DD 02.JPG"
+  ]
+ },
+ "uspenski-cathedral": {
+  "add": [
+   "File:Catedral Uspenski, Helsinki, Finlandia, 2012-08-14, DD 03.JPG"
+  ]
+ },
+ "tampere-cathedral": {
+  "add": [
+   "File:Tampereen tuomiokirkko kesä 2004 IMG 2328.jpg"
+  ]
+ },
+ "tampere-hall": {
+  "add": [
+   "File:Tampere-talo panorama 2014.jpg"
+  ]
+ },
+ "muurame-church": {
+  "add": [
+   "File:Muurame Church 2017.jpg"
+  ]
+ },
+ "seinajoki-civil-guard-house": {
+  "add": [
+   "File:White Guard bldg Seinajoki.jpg"
+  ]
+ },
+ "ateneum": {
+  "add": [
+   "File:Helsinki July 2013-26a.jpg"
+  ]
+ },
+ "espoo-cultural-centre": {
+  "add": [
+   "File:Espoo Cultural Centre Tapiola.jpg"
+  ]
+ },
+ "vyborg-library": {
+  "add": [
+   "File:Alvar Aalto Library Vyborg3.jpg"
+  ]
+ },
+ "national-theatre-of-iceland": {
+  "add": [
+   "File:Reykjavik National Library National Theatre.jpg"
+  ]
+ },
+ "arktikum": {
+  "add": [
+   "File:ArtikumOutside adjusted.jpg"
+  ]
+ },
+ "church-of-the-holy-spirit": {
+  "add": [
+   "File:Wolfsburg Heilig-Geist 2012.JPG"
   ]
  }
 }

@@ -440,6 +440,31 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Sifang Art Museum | Steven Holl | 2013 | Nanjing, CN | no free photo. Two Commons searches (category and file search) found nothing usable. Wikipedia gives only the 2013 opening; it lists the architect as Steven Holl but no Commons category. |
 | Chongqing Grand Theatre | Gerkan, Marg and Partners (gmp) | 2009 | Chongqing, CN | no main photo. Seen: two night shots and a daytime file that seemed to show a different, green-glass stepped building, so I could not confirm it. Construction began 2005; Wikipedia gives 2009. |
 | Hong Kong Academy for Performing Arts | Simon Kwan and Associates | 1985 | Hong Kong, HK | no main photo. The first category photo seen is a close view of the entrance sign. Academy Block opened 18 September 1985, Theatre Block 3 February 1986 (Wikipedia). |
+| Upper Belvedere | Johann Lukas von Hildebrandt | 1723 | Vienna, AT | no main photo (lead is dusk) |
+| Saxon State and University Library (SLUB) | Ortner & Ortner | 2002 | Dresden, DE | no main photo (category holds only interior) |
+| German Hygiene Museum | Wilhelm Kreis | 1930 | Dresden, DE | no main photo (sculpture in front in every candidate) |
+| Dortmunder U | Emil Moog | 1927 | Dortmund, DE | no main photo (only close views of the top or night) |
+| Festspielhaus Hellerau | Heinrich Tessenow | 1911 | Dresden, DE | no main photo (no exterior view of the main building) |
+| Sprengel Museum | Peter and Ursula Trint with Dieter Quast | 1979 | Hanover, DE | no main photo (only a dusk entrance view) |
+| Brucknerhaus | Heikki and Kaija Siren | 1973 | Linz, AT | no main photo (boat in front, or night or entrance close-ups) |
+| Museum der Moderne Mönchsberg | Friedrich, Hoff and Zwink | 2004 | Salzburg, AT | no main photo (building seen only far away on the cliff) |
+| Vienna International Centre | Johann Staber | 1979 | Vienna, AT | no main photo (aerial is 501 px; others foggy or partial) |
+| Museum Küppersmühle | Herzog & de Meuron | 1999 | Duisburg, DE | no main photo (night, or tight crops of the mill) |
+| Philological Library, Free University | Norman Foster (Foster + Partners) | 2005 | Berlin, DE | no main photo (exteriors are dome details) |
+| Leipzig Hauptbahnhof | William Lossow and Max Hans Kühne | 1915 | Leipzig, DE | no main photo (category holds rail works; only an aerial) |
+| Tempelhof Airport | Ernst Sagebiel | 1941 | Berlin, DE | no main photo (no daylight view of the terminal front) |
+| Schwandbach Bridge | Robert Maillart | 1933 | Rüeggisberg, CH | no main photo (no whole-bridge view) |
+| Zürich Stadelhofen Station | Santiago Calatrava | 1990 | Zurich, CH | no main photo (interiors/canopy details only) |
+| Letzigrund Stadium | Bétrix & Consolascio, Frei & Ehrensperger | 2007 | Zurich, CH | no main photo (only stadium interiors/details) |
+| Zürich Hauptbahnhof | Jakob Friedrich Wanner | 1871 | Zurich, CH | no main photo (far view with crane) |
+| Lindt Home of Chocolate | Christ & Gantenbein | 2020 | Kilchberg, CH | no free photo found (no Commons category) |
+| Hoechst Technical Administration Building (Behrensbau) | Peter Behrens | 1924 | Frankfurt, DE | no main photo (category holds only interiors and details) |
+| Schirn Kunsthalle | BJSS | 1986 | Frankfurt, DE | no main photo (only entrance and details) |
+| Heliotrop | Rolf Disch | 1994 | Freiburg, DE | no main photo (lead is false-colour, the other is a distant view) |
+| Sanssouci | Georg Wenzeslaus von Knobelsdorff | 1747 | Potsdam, DE | no main photo (palace is small across the terraces; others are details) |
+| Kölner Philharmonie | Busmann + Haberer | 1986 | Cologne, DE | no main photo (entrance crops; the hall is underground) |
+| MuseumsQuartier | Laurids and Manfred Ortner (Ortner & Ortner) | 2001 | Vienna, AT | no main photo (courtyard furniture and street views) |
+| Kunstmuseum Winterthur extension | Gigon/Guyer | 1995 | Winterthur, CH | no main photo (no free exterior at 1200 px; category is the older building) |
 | Walker Art Center | Edward Larrabee Barnes; Herzog & de Meuron | 1971 | Minneapolis, US | no main photo: only a signage-heavy daylight view (Walker Art Center, October 2017.jpg, CC BY 2.0) and a night view found; other exteriors (A view of the Walker Art Center exterior.jpg, CC BY 2.0, 4000x2337) not viewed. |
 | Purcell–Cutts House | Purcell & Elmslie | 1913 | Minneapolis, US | no main photo: the only full exterior (Purcell and Elmslie Purcell-Cutts House MIA 9092.jpg) is a dusk view; others are details. |
 | Kalita Humphreys Theater | Frank Lloyd Wright | 1959 | Dallas, US | no main photo: the only exterior in its Commons category is a rainy 1962 black-and-white photo (KHTPre62-1.jpg, PD, 1806x1788) with a car in front; reviewer may accept it as a historic lead |
