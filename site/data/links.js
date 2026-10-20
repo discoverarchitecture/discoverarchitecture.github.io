@@ -1425,6 +1425,11 @@ window.LINKS = {
  "alhambra": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/the-alhambra/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.alhambra-patronato.es"
@@ -1523,6 +1528,11 @@ window.LINKS = {
  },
  "allianz-arena": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/allianz-arena/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -3708,6 +3718,11 @@ window.LINKS = {
  "bacardi-bottling-plant": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/bacardi-bottling-plant/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.bacardi.com"
@@ -3859,6 +3874,11 @@ window.LINKS = {
  },
  "bahrain-world-trade-center": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/bahrain-world-trade-center/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -4112,6 +4132,11 @@ window.LINKS = {
  },
  "bank-of-america-tower": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/bank-of-america-tower/"
+   },
    {
     "kind": "Structure",
     "site": "Structurae",
@@ -4706,6 +4731,11 @@ window.LINKS = {
  },
  "bayterek-tower": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/bayterek-tower/"
+   },
    {
     "kind": "Structure",
     "site": "Structurae",
@@ -6843,6 +6873,11 @@ window.LINKS = {
  "burj-al-arab": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/burj-al-arab/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah"
@@ -8832,6 +8867,11 @@ window.LINKS = {
  },
  "cathedral-of-learning": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/cathedral-of-learning/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -11060,6 +11100,11 @@ window.LINKS = {
  "city-of-arts-and-sciences": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/city-of-arts-and-sciences/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.cac.es"
@@ -12095,6 +12140,11 @@ window.LINKS = {
  "cube-houses": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/cube-houses/"
+   },
+   {
     "kind": "Location",
     "site": "Map",
     "url": "https://www.openstreetmap.org/?mlat=51.92028&mlon=4.49056#map=17/51.92028/4.49056"
@@ -12148,7 +12198,13 @@ window.LINKS = {
   "wiki": "https://en.wikipedia.org/wiki/Cummins_Corporate_Office_Building"
  },
  "curtain-wall-house": {
-  "links": [],
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/curtain-wall-house/"
+   }
+  ],
   "wiki": "https://en.wikipedia.org/wiki/Lace_curtain_and_shanty_Irish"
  },
  "curutchet-house": {
@@ -12343,6 +12399,11 @@ window.LINKS = {
  },
  "dancing-house": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/dancing-house/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -13733,6 +13794,11 @@ window.LINKS = {
  "eden-project": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/eden-project/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.edenproject.com/"
@@ -14114,6 +14180,11 @@ window.LINKS = {
  "el-capricho": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/el-capricho/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.elcaprichodegaudi.com/"
@@ -14309,6 +14380,11 @@ window.LINKS = {
  "emirates-towers": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/emirates-towers/"
+   },
+   {
     "kind": "Location",
     "site": "Map",
     "url": "https://www.openstreetmap.org/?mlat=25.21758&mlon=55.28306#map=17/25.21758/55.28306"
@@ -14353,17 +14429,12 @@ window.LINKS = {
  "enso-gutzeit-headquarters": {
   "links": [
    {
-    "kind": "Database",
-    "site": "archINFORM",
-    "url": "https://www.archinform.net/projekte/304.htm"
-   },
-   {
-    "kind": "Location",
-    "site": "Map",
-    "url": "https://www.openstreetmap.org/?mlat=60.16791&mlon=24.95858#map=17/60.16791/24.95858"
+    "kind": "The building",
+    "site": "Official website",
+    "url": "https://www.storaenso.com/"
    }
   ],
-  "wiki": "https://en.wikipedia.org/wiki/Enso_headquarters"
+  "wiki": "https://en.wikipedia.org/wiki/Stora_Enso"
  },
  "entebbe-children-s-surgical-hospital": {
   "links": [
@@ -17562,6 +17633,11 @@ window.LINKS = {
  "glass-house": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/glass-house/"
+   },
+   {
     "kind": "Database",
     "site": "archINFORM",
     "url": "https://www.archinform.net/projekte/2565.htm"
@@ -18390,17 +18466,12 @@ window.LINKS = {
  "green-square-library": {
   "links": [
    {
-    "kind": "Structure",
-    "site": "Structurae",
-    "url": "https://structurae.net/structures/20022184"
-   },
-   {
     "kind": "Location",
     "site": "Map",
-    "url": "https://www.openstreetmap.org/?mlat=40.75778&mlon=-73.98639#map=17/40.75778/-73.98639"
+    "url": "https://www.openstreetmap.org/?mlat=-33.90600&mlon=151.20300#map=17/-33.90600/151.20300"
    }
   ],
-  "wiki": "https://en.wikipedia.org/wiki/One_Astor_Plaza"
+  "wiki": "https://en.wikipedia.org/wiki/Green_Square%2C_New_South_Wales"
  },
  "grieg-hall": {
   "links": [
@@ -18779,6 +18850,11 @@ window.LINKS = {
  "guthrie-theater": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/guthrie-theater/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.guthrietheater.org/"
@@ -18943,6 +19019,11 @@ window.LINKS = {
  },
  "hagia-sophia": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/hagia-sophia/"
+   },
    {
     "kind": "Database",
     "site": "archINFORM",
@@ -21793,6 +21874,11 @@ window.LINKS = {
  "iac-building": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/iac-building/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.iachq.com/interactive/content.html"
@@ -23604,6 +23690,11 @@ window.LINKS = {
  "jin-mao-tower": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/jin-mao-tower/"
+   },
+   {
     "kind": "Structure",
     "site": "Structurae",
     "url": "https://structurae.net/structures/20000671"
@@ -24021,6 +24112,11 @@ window.LINKS = {
  },
  "kaiser-wilhelm-memorial-church": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/kaiser-wilhelm-memorial-church/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -24558,6 +24654,11 @@ window.LINKS = {
  },
  "kavanagh-building": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/kavanagh-building/"
+   },
    {
     "kind": "Structure",
     "site": "Structurae",
@@ -27350,6 +27451,11 @@ window.LINKS = {
  "leopold-museum": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/leopold-museum/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.leopoldmuseum.org/"
@@ -27737,6 +27843,11 @@ window.LINKS = {
  },
  "lipstick-building": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/lipstick-building/"
+   },
    {
     "kind": "Database",
     "site": "archINFORM",
@@ -28334,6 +28445,11 @@ window.LINKS = {
  },
  "lovell-health-house": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/lovell-health-house/"
+   },
    {
     "kind": "Database",
     "site": "archINFORM",
@@ -29466,6 +29582,11 @@ window.LINKS = {
  },
  "manufacturers-trust-company-building": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/manufacturers-trust-company-building/"
+   },
    {
     "kind": "Database",
     "site": "archINFORM",
@@ -30772,6 +30893,11 @@ window.LINKS = {
  "metlife-building": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/metlife-building/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.tishmanspeyer.com/properties/Property.aspx?id=57"
@@ -30806,6 +30932,11 @@ window.LINKS = {
  },
  "metropol-parasol": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/metropol-parasol/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -33328,6 +33459,11 @@ window.LINKS = {
  "museum-of-islamic-art": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/museum-islamic-art/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "https://www.mia.org.qa/en/"
@@ -35084,6 +35220,11 @@ window.LINKS = {
  "national-museum-of-western-art": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/national-museum-of-western-art/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.nmwa.go.jp/"
@@ -35177,6 +35318,11 @@ window.LINKS = {
  },
  "national-september-11-memorial": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/national-september-11-memorial/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -35548,6 +35694,11 @@ window.LINKS = {
  "nemo-science-museum": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/nemo-science-museum/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.nemosciencemuseum.nl/"
@@ -35622,6 +35773,11 @@ window.LINKS = {
  },
  "neue-nationalgalerie": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/neue-nationalgalerie/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -37968,6 +38124,11 @@ window.LINKS = {
  "palace-of-peace-and-reconciliation": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/palace-of-peace-and-reconciliation/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://astana-piramida.kz/en/"
@@ -39035,6 +39196,11 @@ window.LINKS = {
  },
  "park-guell": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/park-guell/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -41071,7 +41237,13 @@ window.LINKS = {
   "wiki": null
  },
  "qatar-faculty-of-islamic-studies": {
-  "links": [],
+  "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/qatar-faculty-islamic-studies/"
+   }
+  ],
   "wiki": "https://en.wikipedia.org/wiki/Religion_in_Qatar"
  },
  "qatar-national-convention-centre": {
@@ -42406,6 +42578,11 @@ window.LINKS = {
  "rockefeller-guest-house": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/rockefeller-guest-house/"
+   },
+   {
     "kind": "Location",
     "site": "Map",
     "url": "https://www.openstreetmap.org/?mlat=40.75622&mlon=-73.96842#map=17/40.75622/-73.96842"
@@ -43137,6 +43314,11 @@ window.LINKS = {
  "s-r-crown-hall": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/crown-hall/"
+   },
+   {
     "kind": "Photo essays",
     "site": "Divisare",
     "url": "https://divisare.com/projects/396852-ludwig-mies-van-der-rohe-davide-adamo-s-r-crown-hall"
@@ -43380,6 +43562,11 @@ window.LINKS = {
  },
  "sainsbury-wing-national-gallery": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/sainsbury-wing-national-gallery/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -46622,6 +46809,11 @@ window.LINKS = {
  "solow-building": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/solow-building/"
+   },
+   {
     "kind": "Structure",
     "site": "Structurae",
     "url": "https://structurae.net/structures/20013909"
@@ -47955,6 +48147,11 @@ window.LINKS = {
  "stoclet-palace": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/stoclet-palace/"
+   },
+   {
     "kind": "Database",
     "site": "archINFORM",
     "url": "https://www.archinform.net/projekte/1761.htm"
@@ -48213,15 +48410,15 @@ window.LINKS = {
    {
     "kind": "The building",
     "site": "Official website",
-    "url": "http://www.zschina.org/"
+    "url": "http://zs-hall.cn"
    },
    {
     "kind": "Location",
     "site": "Map",
-    "url": "https://www.openstreetmap.org/?mlat=32.06442&mlon=118.84827#map=17/32.06442/118.84827"
+    "url": "https://www.openstreetmap.org/?mlat=23.13608&mlon=113.25936#map=17/23.13608/113.25936"
    }
   ],
-  "wiki": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Mausoleum"
+  "wiki": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Memorial_Hall_%28Guangzhou%29"
  },
  "sun-yat-sen-memorial-hall-taipei": {
   "links": [
@@ -48564,12 +48761,22 @@ window.LINKS = {
  "swaminarayan-akshardham-delhi": {
   "links": [
    {
+    "kind": "The building",
+    "site": "Official website",
+    "url": "http://www.akshardham.com"
+   },
+   {
+    "kind": "Structure",
+    "site": "Structurae",
+    "url": "https://structurae.net/structures/20066776"
+   },
+   {
     "kind": "Location",
     "site": "Map",
-    "url": "https://www.openstreetmap.org/?mlat=40.25417&mlon=-74.57778#map=17/40.25417/-74.57778"
+    "url": "https://www.openstreetmap.org/?mlat=28.61250&mlon=77.27730#map=17/28.61250/77.27730"
    }
   ],
-  "wiki": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_%28Robbinsville%29"
+  "wiki": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_%28Delhi%29"
  },
  "swaminarayan-akshardham-gandhinagar": {
   "links": [
@@ -48969,6 +49176,11 @@ window.LINKS = {
  },
  "taj-mahal": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/taj-mahal/"
+   },
    {
     "kind": "The building",
     "site": "Official website",
@@ -52338,6 +52550,11 @@ window.LINKS = {
  "umeda-sky-building": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/umeda-sky-building/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.skybldg.co.jp/skybldg/"
@@ -53853,6 +54070,11 @@ window.LINKS = {
  "villa-la-rotonda": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/villa-rotonda/"
+   },
+   {
     "kind": "Photo essays",
     "site": "Divisare",
     "url": "https://divisare.com/projects/277785-andrea-palladio-atelier-xyz-villa-la-rotonda"
@@ -54871,6 +55093,11 @@ window.LINKS = {
  "weissenhof-estate": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/weissenhof-estate/"
+   },
+   {
     "kind": "Location",
     "site": "Map",
     "url": "https://www.openstreetmap.org/?mlat=48.80060&mlon=9.17750#map=17/48.80060/9.17750"
@@ -55215,6 +55442,11 @@ window.LINKS = {
  "willow-tearooms": {
   "links": [
    {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/the-willow-tearooms/"
+   },
+   {
     "kind": "The building",
     "site": "Official website",
     "url": "http://www.willowtearooms.co.uk"
@@ -55494,6 +55726,11 @@ window.LINKS = {
  },
  "wrigley-building": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/wrigley-building/"
+   },
    {
     "kind": "Database",
     "site": "archINFORM",
@@ -56267,6 +56504,11 @@ window.LINKS = {
  },
  "zizkov-television-tower": {
   "links": [
+   {
+    "kind": "Plans & sections",
+    "site": "WikiArquitectura",
+    "url": "https://en.wikiarquitectura.com/building/zizkov-television-tower/"
+   },
    {
     "kind": "Structure",
     "site": "Structurae",
