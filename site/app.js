@@ -1133,6 +1133,7 @@
     if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
     else if (id === 'filter') { dropHash(); whenReady(() => toggleFilters(true)); } // Filter in another page's bar
     else if (id === 'map') { dropHash(); whenReady(() => { const m = $('mapBtn'); if (m) m.click(); }); } // Map in another page's dock
+    else if (id.startsWith('map=')) { dropHash(); whenReady(() => { DA.mapTo = id.slice(4); const m = $('mapBtn'); if (m) m.click(); }); } // "On the globe" on a building page
     else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
     else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
   };
