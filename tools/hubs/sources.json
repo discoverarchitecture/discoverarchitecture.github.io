@@ -1,0 +1,3104 @@
+[
+ {
+  "slug": "brutalism",
+  "facts": [
+   {
+    "claim": "The term nybrutalism was coined by the Swedish architect Hans Asplund, for a brick house in Uppsala designed in 1950",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "was coined by the Swedish architect Hans Asplund"
+   },
+   {
+    "claim": "Alison Smithson first printed the phrase \"new brutalism\" in 1953",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "The first published usage of the phrase \"new brutalism\" occurred in 1953"
+   },
+   {
+    "claim": "Critic Reyner Banham used the term in a 1955 essay to name both an ethic and a style",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "used it to identify both an ethic and aesthetic style, in his 1955 essay"
+   },
+   {
+    "claim": "The Smithsons framed the movement as an ethic about honest materials, not only a look",
+    "source": "https://en.wikipedia.org/wiki/New_Brutalism",
+    "quote": "an ethic, not an aesthetic"
+   },
+   {
+    "claim": "Le Corbusier called his rough concrete work 'béton brut', from which the name is often traced",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "Le Corbusier himself described that concrete work as 'béton-brut'"
+   },
+   {
+    "claim": "Le Corbusier's Unité d'Habitation in Marseille is often cited as the first inspiration for the style and for brutalist housing",
+    "source": "https://en.wikipedia.org/wiki/Unité_d'Habitation",
+    "quote": "often cited as the initial inspiration for the Brutalist architectural style and philosophy"
+   },
+   {
+    "claim": "Defining material is exposed, unpainted concrete or brick",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "exposed, unpainted concrete or brick"
+   },
+   {
+    "claim": "The style spread to regions around the world",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "soon spread to other regions around the world"
+   },
+   {
+    "claim": "Its popularity began to fall in the late 1970s",
+    "source": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "quote": "The popularity of the movement began to decline in the late 1970s"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Brutalist architecture",
+    "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "why": "history, features, worldwide examples",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "New Brutalism",
+    "url": "https://en.wikipedia.org/wiki/New_Brutalism",
+    "why": "Banham, the Smithsons and the ethic behind the style",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "List of Brutalist structures",
+    "url": "https://en.wikipedia.org/wiki/List_of_Brutalist_structures",
+    "why": "examples by continent",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Category: Brutalist architecture (Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Brutalist_architecture",
+    "why": "free photos of Brutalist buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "unite-dhabitation",
+   "barbican-centre",
+   "boston-city-hall",
+   "park-hill",
+   "robarts-library",
+   "geisel-library",
+   "royal-national-theatre",
+   "kenyatta-international-convention-centre"
+  ],
+  "notes": {
+   "sources_for_buildings": "Brutalist_architecture names Park Hill, Boston City Hall, Barbican Centre, Royal National Theatre, Robarts Library, Geisel Library, Independence Palace (id independence-palace, Modernism on wall); Unite via Unité_d'Habitation page; Kenyatta ICC via List_of_Brutalist_structures",
+   "thin": "Only Wikipedia/Commons reachable; 4 links, none from museums or Britannica. Hunstanton School not on wall.",
+   "dropped": [
+    {
+     "url": "britannica.com, moma.org, getty.edu, docomomo.com, archdaily.com, riba (architecture.com), vam.ac.uk, smarthistory.org, khanacademy.org, theartstory.org",
+     "reason": "hosts unreachable from this sandbox (getaddrinfo ENOTFOUND); only Wikipedia and Wikimedia Commons could be opened, so no non-Wikipedia sources"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "modernism",
+  "facts": [
+   {
+    "claim": "Modern architecture emerged at the end of the 19th century",
+    "source": "https://en.wikipedia.org/wiki/Modern_architecture",
+    "quote": "Modern architecture emerged at the end of the 19th century"
+   },
+   {
+    "claim": "It rested on new construction technologies and rejected ornament",
+    "source": "https://en.wikipedia.org/wiki/Modern_architecture",
+    "quote": "a rejection of ornament"
+   },
+   {
+    "claim": "It became dominant after World War II until the 1980s",
+    "source": "https://en.wikipedia.org/wiki/Modern_architecture",
+    "quote": "became dominant after World War II until the 1980s"
+   },
+   {
+    "claim": "Hitchcock and Johnson's 1932 MoMA show named three principles: volume, regularity, and no applied ornament",
+    "source": "https://en.wikipedia.org/wiki/International_Style_(architecture)",
+    "quote": "No applied ornament"
+   },
+   {
+    "claim": "Their third principle in full",
+    "source": "https://en.wikipedia.org/wiki/International_Style_(architecture)",
+    "quote": "Regularity in the facade, as opposed to building symmetry"
+   },
+   {
+    "claim": "The Getty Research Institute says the International Style spread worldwide and dominated until the 1970s",
+    "source": "https://en.wikipedia.org/wiki/International_Style_(architecture)",
+    "quote": "spread throughout the world, becoming the dominant architectural style until the 1970s"
+   },
+   {
+    "claim": "Le Corbusier's white 1920s houses had no ornament inside or out",
+    "source": "https://en.wikipedia.org/wiki/Modern_architecture",
+    "quote": "They were always white, and had no ornament or decoration on the outside or inside."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Modern architecture",
+    "url": "https://en.wikipedia.org/wiki/Modern_architecture",
+    "why": "origins, figures, phases",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "International Style (architecture)",
+    "url": "https://en.wikipedia.org/wiki/International_Style_(architecture)",
+    "why": "1932 MoMA show and principles",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Bauhaus",
+    "url": "https://en.wikipedia.org/wiki/Bauhaus",
+    "why": "school that shaped modernist design",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Five Points of Architecture",
+    "url": "https://en.wikipedia.org/wiki/Five_Points_of_Architecture",
+    "why": "Le Corbusier's rules: pilotis, free plan, ribbon windows",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Category: Modernist architecture (Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Modernist_architecture",
+    "why": "free photos",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "villa-savoye",
+   "fallingwater",
+   "fagus-factory",
+   "villa-tugendhat",
+   "seagram-building",
+   "bauhaus-dessau",
+   "lovell-health-house",
+   "turun-sanomat-building"
+  ],
+  "notes": {
+   "sources_for_buildings": "Modern_architecture: Villa Savoye, Fallingwater, Fagus Factory; International_Style page: Villa Tugendhat, Lovell Health House (Neutra's Lovell House), Turun Sanomat, Seagram Building, Bauhaus Dessau building",
+   "thin": "Commons link not opened for loading check beyond Brutalist category; verify before use. Only Wikipedia sources.",
+   "dropped": [
+    {
+     "url": "britannica.com, moma.org, getty.edu, docomomo.com, archdaily.com, riba (architecture.com), vam.ac.uk, smarthistory.org, khanacademy.org, theartstory.org",
+     "reason": "hosts unreachable from this sandbox (getaddrinfo ENOTFOUND); only Wikipedia and Wikimedia Commons could be opened, so no non-Wikipedia sources"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "contemporary",
+  "facts": [
+   {
+    "claim": "Contemporary architecture is the architecture of the 21st century",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "Contemporary architecture is the architecture of the 21st century."
+   },
+   {
+    "claim": "The article gives its years as 2000 to the present and says no single style dominates",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "2000–present"
+   },
+   {
+    "claim": "It is global, with major new buildings in China, Russia and India",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "contemporary architecture is global; important new buildings have been built in China, Russia, India"
+   },
+   {
+    "claim": "New structural methods let buildings be taller, lighter and stronger than in the 20th century",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "allow construction of buildings that are taller, lighter and stronger than those in the 20th century."
+   },
+   {
+    "claim": "Computer-aided design is widely used, with buildings modeled in 3D",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "the use of new techniques of computer-aided design"
+   },
+   {
+    "claim": "Some designers favour natural, ecological materials",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "prioritize the use of natural and ecological materials like stone, wood and lime."
+   },
+   {
+    "claim": "Energy efficiency over a building's life is a primary goal of sustainable architecture",
+    "source": "https://en.wikipedia.org/wiki/Sustainable_architecture",
+    "quote": "Energy efficiency over the entire life cycle of a building is a primary goal of sustainable architecture."
+   },
+   {
+    "claim": "The Burj Khalifa in Dubai was the tallest building in the world",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "the Burj Khalifa in Dubai was the tallest building in the world in 2019"
+   },
+   {
+    "claim": "Shigeru Ban's Centre Pompidou-Metz has a roof of glued laminated timber",
+    "source": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "quote": "composed of sixteen kilometers of glued laminated timber"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Contemporary architecture",
+    "url": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "why": "definition, trends, buildings by type",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Sustainable architecture",
+    "url": "https://en.wikipedia.org/wiki/Sustainable_architecture",
+    "why": "low-impact design, energy",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Computer-aided architectural design",
+    "url": "https://en.wikipedia.org/wiki/Computer-aided_architectural_design",
+    "why": "digital tools, BIM, parametric",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Category: 21st-century architecture (Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/Category:21st-century_architecture",
+    "why": "free photos (not opened; unverified)",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "burj-khalifa",
+   "centre-pompidou-metz",
+   "the-shard",
+   "elbphilharmonie",
+   "oslo-opera-house",
+   "cctv-headquarters",
+   "beijing-national-stadium",
+   "harpa"
+  ],
+  "notes": {
+   "sources_for_buildings": "All named in Contemporary_architecture example lists (Burj Khalifa, Centre Pompidou-Metz, Shard, Elbphilharmonie, Oslo Opera House, CCTV Headquarters, Beijing National Stadium, Harpa); Walt Disney Concert Hall also named but filed as Deconstructivism",
+   "thin": "Only Wikipedia sources; Commons 21st-century link was NOT opened, remove if it fails.",
+   "dropped": [
+    {
+     "url": "britannica.com, moma.org, getty.edu, docomomo.com, archdaily.com, riba (architecture.com), vam.ac.uk, smarthistory.org, khanacademy.org, theartstory.org",
+     "reason": "hosts unreachable from this sandbox (getaddrinfo ENOTFOUND); only Wikipedia and Wikimedia Commons could be opened, so no non-Wikipedia sources"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "deconstructivism",
+  "facts": [
+   {
+    "claim": "The style gained notice with the 1982 Parc de la Villette competition",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "came to public notice with the 1982 Parc de la Villette architectural design competition"
+   },
+   {
+    "claim": "Mark Wigley and Philip Johnson curated the 1988 MoMA exhibition",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "Mark Wigley and Philip Johnson curated the 1988"
+   },
+   {
+    "claim": "That show crystallised the movement and made its architects famous",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "which crystallized the movement, and brought fame and notoriety to its key practitioners"
+   },
+   {
+    "claim": "The seven in the show: Eisenman, Gehry, Hadid, Coop Himmelblau, Koolhaas, Libeskind and Tschumi",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivist_architecture",
+    "quote": "Peter Eisenman, Frank Gehry, Zaha Hadid, Coop Himmelblau, Rem Koolhaas, Daniel Libeskind, and Bernard Tschumi"
+   },
+   {
+    "claim": "Defined by absence of obvious harmony, continuity or symmetry",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "an absence of obvious harmony, continuity, or symmetry"
+   },
+   {
+    "claim": "Visual character is controlled chaos",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "unpredictability and controlled chaos"
+   },
+   {
+    "claim": "Its name plays against Russian Constructivism, and links to Derrida's ideas",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "a form of semiotic analysis developed by the French philosopher Jacques Derrida"
+   },
+   {
+    "claim": "Libeskind's Imperial War Museum North uses fragmented, intersecting curved volumes",
+    "source": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "quote": "three fragmented, intersecting curved volumes"
+   },
+   {
+    "claim": "Gehry refused the deconstructivist label for his work",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "he refused to accept that or any other label for his work"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Deconstructivism",
+    "url": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "why": "origin, 1988 exhibition, architects, features",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Postmodern architecture",
+    "url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "why": "the wider movement it emerged from",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Guggenheim Museum Bilbao",
+    "url": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+    "why": "landmark Gehry building (single building; use only as extra)",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Category: Deconstructivism (Wikimedia Commons)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Deconstructivism",
+    "why": "free photos (not opened; unverified)",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "wexner-center-for-the-arts",
+   "imperial-war-museum-north",
+   "vitra-design-museum",
+   "guggenheim-bilbao",
+   "walt-disney-concert-hall",
+   "fondation-louis-vuitton",
+   "vitra-fire-station",
+   "phaeno-science-center"
+  ],
+  "notes": {
+   "sources_for_buildings": "Deconstructivism page: Wexner Center, Imperial War Museum North, Vitra Design Museum; Guggenheim Bilbao and Walt Disney Concert Hall via Gehry mentions (Wikipedia Guggenheim Bilbao page, Contemporary_architecture); Vitra Fire Station/Phaeno/Louis Vuitton: architects named by the article but those exact buildings not confirmed named",
+   "thin": "Guggenheim Bilbao is a single building, so not a true overview link (drop it if strict). Commons link unverified. Only Wikipedia sources. Vitra Fire Station, Phaeno, Fondation Louis Vuitton not confirmed as named in the sources.",
+   "dropped": [
+    {
+     "url": "britannica.com, moma.org, getty.edu, docomomo.com, archdaily.com, riba (architecture.com), vam.ac.uk, smarthistory.org, khanacademy.org, theartstory.org",
+     "reason": "hosts unreachable from this sandbox (getaddrinfo ENOTFOUND); only Wikipedia and Wikimedia Commons could be opened, so no non-Wikipedia sources"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "parametric",
+  "facts": [
+   {
+    "claim": "The term parametricism was coined in 2008 by Patrik Schumacher as a successor to modernism and postmodernism",
+    "source": "https://en.wikipedia.org/wiki/Parametricism",
+    "quote": "The term was coined in 2008 by Patrik Schumacher, who described it as a successor to modernism and postmodernism"
+   },
+   {
+    "claim": "All design elements become parametrically variable and mutually adapt",
+    "source": "https://en.wikipedia.org/wiki/Parametricism",
+    "quote": "Parametricism implies that all elements of the design become parametrically variable and mutually adaptive."
+   },
+   {
+    "claim": "It rejects both serial repetition and unrelated pieces",
+    "source": "https://en.wikipedia.org/wiki/Parametricism",
+    "quote": "Parametricism rejects both homogenization (serial repetition) and pure difference (agglomeration of unrelated elements)"
+   },
+   {
+    "claim": "It aims at spatial complexity while staying legible",
+    "source": "https://en.wikipedia.org/wiki/Parametricism",
+    "quote": "The aim is to build up more spatial complexity while maintaining legibility"
+   },
+   {
+    "claim": "Early practitioners included Greg Lynn, Jesse Reiser, Lars Spuybroek and Kas Oosterhuis",
+    "source": "https://en.wikipedia.org/wiki/Parametricism",
+    "quote": "its earliest practitioners – Greg Lynn, Jesse Reiser, Lars Spuybroek, Kas Oosterhuis among many others"
+   },
+   {
+    "claim": "Parametric design uses algorithms; input parameters drive the model",
+    "source": "https://en.wikipedia.org/wiki/Parametric_design",
+    "quote": "the input parameters that are fed into the algorithms"
+   },
+   {
+    "claim": "Grasshopper is a visual programming tool built on Rhino",
+    "source": "https://en.wikipedia.org/wiki/Parametric_design",
+    "quote": "a visual programming environment built on top of Rhino"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Parametricism",
+    "url": "https://en.wikipedia.org/wiki/Parametricism",
+    "why": "term, Schumacher, features",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Parametric design",
+    "url": "https://en.wikipedia.org/wiki/Parametric_design",
+    "why": "algorithms, Gaudí, Grasshopper",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Computer-aided architectural design",
+    "url": "https://en.wikipedia.org/wiki/Computer-aided_architectural_design",
+    "why": "digital design history",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "shenzhen-baoan-airport-terminal-3",
+   "fondation-louis-vuitton",
+   "guggenheim-bilbao",
+   "heydar-aliyev-center",
+   "maxxi",
+   "mercedes-benz-museum"
+  ],
+  "notes": {
+   "sources_for_buildings": "Parametric_design names Shenzhen Bao'an T3 and Guggenheim Bilbao (Gehry's CATIA); Parametricism names Louis Vuitton Foundation; Heydar Aliyev Center, MAXXI, Mercedes-Benz Museum are wall Parametric-tagged but NOT named by fetched sources (Heydar page does not use the word parametricism). Dongdaemun Design Plaza named by Parametricism but not on the wall.",
+   "thin": "Only 3 overview links (Wikipedia only); only 3 buildings confirmed named by sources; the other 3 ids are wall-tagged Parametric only.",
+   "dropped": [
+    {
+     "url": "britannica.com, moma.org, getty.edu, docomomo.com, archdaily.com, riba (architecture.com), vam.ac.uk, smarthistory.org, khanacademy.org, theartstory.org",
+     "reason": "hosts unreachable from this sandbox (getaddrinfo ENOTFOUND); only Wikipedia and Wikimedia Commons could be opened, so no non-Wikipedia sources"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "high-tech",
+  "facts": [
+   {
+    "claim": "High-tech emerged in the 1970s as a form of late modernism.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "that emerged in the 1970s"
+   },
+   {
+    "claim": "It was first developed in Britain, and many early leaders were British.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "was originally developed in Britain"
+   },
+   {
+    "claim": "Leading practitioners include Hopkins, Foster, Rogers, Piano and Calatrava.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "The style's premier practitioners include the following"
+   },
+   {
+    "claim": "Its core idea is showing how a building is made and works.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "emphasizes transparency in design and construction"
+   },
+   {
+    "claim": "Metal and glass dominate, with steel and aluminium.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "makes extensive use of aluminium, steel, glass"
+   },
+   {
+    "claim": "Interiors are open, without internal load-bearing walls, so spaces can be reconfigured.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "a lack of internal load-bearing walls"
+   },
+   {
+    "claim": "Services such as stairs and lifts are often put outside in separate towers.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "Often these spaces are placed in large service towers external to the building"
+   },
+   {
+    "claim": "Externalising functional parts is a key concept; the Pompidou is cited as an example.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "The externalization of functional components is a key concept of high-tech architecture"
+   },
+   {
+    "claim": "It is most often used for factories, offices and galleries.",
+    "source": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "quote": "most commonly employed in the construction of factories, corporate offices, or art galleries"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "High-tech architecture",
+    "url": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "why": "definition, features, examples table across many countries",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Structural expressionism",
+    "url": "https://en.wikipedia.org/wiki/Structural_expressionism",
+    "why": "the related structure-as-ornament approach",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "High-tech architecture (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:High-tech_architecture",
+    "why": "free photos of high-tech buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "centre-pompidou",
+   "lloyds-building",
+   "hsbc-main-building",
+   "30-st-mary-axe",
+   "hopkins-house",
+   "icc-berlin",
+   "menara-mesiniaga",
+   "zizkov-television-tower"
+  ],
+  "notes": {
+   "building_sources": "All named in the Wikipedia High-tech architecture examples table (Centre Georges Pompidou, Lloyd's Building, HSBC Hong Kong headquarters, 30 St. Mary Axe, Hopkins House, Internationales Congress Centrum Berlin, Mesiniaga Tower, Žižkov TV Tower).",
+   "thin": "Only 1 overview link verified. Britannica, Met, V&A, UNESCO, Getty, ArchDaily, SAH domains failed to resolve (getaddrinfo ENOTFOUND) from this sandbox; only Wikipedia was reachable.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/art/High-Tech-architecture",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "postmodernism",
+  "facts": [
+   {
+    "claim": "Postmodernism emerged in the 1960s as a reaction against austere, uniform modern architecture.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "emerged in the 1960s as a reaction against the austerity, formality, and lack of variety of modern architecture"
+   },
+   {
+    "claim": "Robert Venturi formalised the movement in a 1966 book.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "In 1966, Venturi formalized the movement in his book"
+   },
+   {
+    "claim": "Denise Scott Brown and Robert Venturi are credited with introducing it.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "The movement was formally introduced by the architect and urban planner Denise Scott Brown"
+   },
+   {
+    "claim": "Venturi preferred complexity to modernist purity.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "I am for messy vitality over obvious unity."
+   },
+   {
+    "claim": "It borrows historical elements and allusions and uses unusual materials.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "incorporating historical elements, a subtle use of unusual materials and historical allusions"
+   },
+   {
+    "claim": "It is best known as an American style but notable examples appeared in Europe.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "notable examples also appeared in Europe"
+   },
+   {
+    "claim": "Charles Moore's Piazza d'Italia in New Orleans (1978) is among the most famous works.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "a public square composed of an exuberant collection of pieces of famous Italian Renaissance architecture"
+   },
+   {
+    "claim": "In the late 1990s it split into many new tendencies.",
+    "source": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "quote": "In the late 1990s, it divided into a multitude of new tendencies"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Postmodern architecture",
+    "url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "why": "history, theory, examples worldwide",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Postmodernism",
+    "url": "https://en.wikipedia.org/wiki/Postmodernism",
+    "why": "the wider movement in culture and design",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Postmodern architecture (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Postmodern_architecture",
+    "why": "free photos of postmodern buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "vanna-venturi-house",
+   "at-t-building-550-madison-avenue",
+   "portland-building",
+   "piazza-d-italia",
+   "neue-staatsgalerie",
+   "museum-abteiberg",
+   "guild-house"
+  ],
+  "notes": {
+   "building_sources": "Wikipedia Postmodern architecture names Vanna Venturi House, AT&T Building, Portland Building, Piazza d'Italia, Neue Staatsgalerie Stuttgart, Abteiberg Museum, Guild House.",
+   "thin": "Only 1 overview link verified. Britannica, Met, V&A, UNESCO, Getty, ArchDaily, SAH domains failed to resolve (getaddrinfo ENOTFOUND) from this sandbox; only Wikipedia was reachable.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/art/Postmodernism-architecture",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "art-deco",
+  "facts": [
+   {
+    "claim": "Art Deco first appeared in Paris in the 1910s, just before the First World War.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "first appeared in Paris in the 1910s just before World War I"
+   },
+   {
+    "claim": "It grew from the geometry of the Vienna Secession and Cubism.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "the bold geometric forms of the Vienna Secession and Cubism"
+   },
+   {
+    "claim": "Its name comes from the 1925 Paris decorative arts exhibition.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "The name Art Deco came into use after the 1925 Exposition internationale des arts décoratifs et industriels modernes"
+   },
+   {
+    "claim": "Josef Hoffmann's Stoclet Palace is described as a prototype of the style.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "a prototype of the Art Deco style"
+   },
+   {
+    "claim": "Reinforced concrete gave more freedom of form.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "gave greater freedom of form and less need for reinforcing pillars and columns"
+   },
+   {
+    "claim": "It was an international style that flourished in the 1920s and early 1930s.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "was an international style"
+   },
+   {
+    "claim": "Miami Beach has the world's largest concentration of Art Deco architecture.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "the largest concentration of Art Deco architecture in the world is in Miami Beach, Florida"
+   },
+   {
+    "claim": "The Empire State and Chrysler buildings are its best-known skyscraper monuments.",
+    "source": "https://en.wikipedia.org/wiki/Art_Deco",
+    "quote": "the Empire State Building, the Chrysler Building"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Art Deco",
+    "url": "https://en.wikipedia.org/wiki/Art_Deco",
+    "why": "origins, features, global spread",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Art Deco architecture in New York City",
+    "url": "https://en.wikipedia.org/wiki/Art_Deco_architecture_in_New_York_City",
+    "why": "how the style shaped the skyline",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Art Deco architecture (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Art_Deco_architecture",
+    "why": "free photos of Art Deco buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "chrysler-building",
+   "empire-state-building",
+   "stoclet-palace",
+   "theatre-des-champs-elysees",
+   "palais-de-chaillot",
+   "palais-de-tokyo"
+  ],
+  "notes": {
+   "building_sources": "Wikipedia Art Deco names Chrysler, Empire State, Stoclet Palace, Théâtre des Champs-Élysées (first Paris landmark), Palais de Chaillot, Palais de Tokyo. Note stoclet-palace is tagged Art Nouveau on the wall.",
+   "thin": "Only 2 overview links verified. Britannica, Met, V&A, UNESCO, Getty, ArchDaily, SAH domains failed to resolve (getaddrinfo ENOTFOUND) from this sandbox; only Wikipedia was reachable.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/art/Art-Deco",
+     "reason": "host unreachable"
+    },
+    {
+     "url": "https://whc.unesco.org/en/list/1550/",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "art-nouveau",
+  "facts": [
+   {
+    "claim": "The first Art Nouveau houses appeared in Brussels in the 1890s.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "The first Art Nouveau houses and interior decoration appeared in Brussels in the 1890s."
+   },
+   {
+    "claim": "It drew on natural forms such as plants and flowers.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "inspired by natural forms such as the sinuous curves of plants and flowers"
+   },
+   {
+    "claim": "Asymmetry and whiplash lines give a sense of movement.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "a sense of dynamism and movement, often given by asymmetry or whiplash lines"
+   },
+   {
+    "claim": "Architects used new materials: iron, glass, ceramics and later concrete.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "the use of modern materials, particularly iron, glass, ceramics and later concrete"
+   },
+   {
+    "claim": "Victor Horta's Hôtel Tassel (1893) is a defining example.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "whose Hôtel Tassel was completed in 1893"
+   },
+   {
+    "claim": "Hector Guimard brought it to public architecture with the Paris Métro entrances.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "applied the style to the entrances of the new Paris Métro"
+   },
+   {
+    "claim": "It spread from Britain, Belgium and France across Europe.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "From Britain, Belgium and France, Art Nouveau spread to the rest of Europe"
+   },
+   {
+    "claim": "It was largely exhausted by the start of the First World War in 1914.",
+    "source": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "quote": "By 1914, with the beginning of the First World War, Art Nouveau was largely exhausted."
+   },
+   {
+    "claim": "In German it is Jugendstil, named after the art journal Jugend.",
+    "source": "https://en.wikipedia.org/wiki/Jugendstil",
+    "quote": "It took its name from the art journal Jugend"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Art Nouveau",
+    "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "why": "history, regions, key architects",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Jugendstil",
+    "url": "https://en.wikipedia.org/wiki/Jugendstil",
+    "why": "German and Austrian counterpart",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Art Nouveau architecture (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Art_Nouveau_architecture",
+    "why": "free photos of Art Nouveau buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "hotel-tassel",
+   "hotel-van-eetvelde",
+   "castel-beranger",
+   "villa-bloemenwerf",
+   "glasgow-school-of-art",
+   "majolikahaus"
+  ],
+  "notes": {
+   "building_sources": "Wikipedia Art Nouveau names Hôtel Tassel, Hôtel van Eetvelde, Castel Béranger, Villa Bloemenwerf, Glasgow School of Art library (Mackintosh), Maiolica House (Wagner). Note the Jugendstil quote is from the Jugendstil page: https://en.wikipedia.org/wiki/Jugendstil (fact 9 source field points at Art_Nouveau; fix to Jugendstil).",
+   "thin": "Only 2 overview links verified. Britannica, Met, V&A, UNESCO, Getty, ArchDaily, SAH domains failed to resolve (getaddrinfo ENOTFOUND) from this sandbox; only Wikipedia was reachable.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/art/Art-Nouveau",
+     "reason": "host unreachable"
+    },
+    {
+     "url": "https://www.metmuseum.org/toah/hd/artn/hd_artn.htm",
+     "reason": "host unreachable"
+    },
+    {
+     "url": "https://www.vam.ac.uk/articles/art-nouveau",
+     "reason": "host unreachable"
+    },
+    {
+     "url": "https://whc.unesco.org/en/list/1005/",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "regionalism",
+  "facts": [
+   {
+    "claim": "The idea was first presented in 1981.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "first presented in 1981"
+   },
+   {
+    "claim": "It was introduced by theorists Alexander Tzonis and Liane Lefaivre.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "by the architectural theorists Alexander Tzonis and Liane Lefaivre"
+   },
+   {
+    "claim": "Kenneth Frampton developed it further.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "by the historian-theorist Kenneth Frampton"
+   },
+   {
+    "claim": "It tries to mediate between global and local architectural languages.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "seeks to mediate between the global and the local languages of architecture"
+   },
+   {
+    "claim": "It rejects Postmodern whimsy and ornament.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "rejects the whimsical individualism and ornamentation of"
+   },
+   {
+    "claim": "Frampton stressed topography, climate and light.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "should be on topography, climate, light"
+   },
+   {
+    "claim": "It has produced distinct sub-styles around the world.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "has developed into unique sub-styles across the world"
+   },
+   {
+    "claim": "Utzon's Bagsværd Church (1973-6) is a cited example.",
+    "source": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "quote": "Utzon's Bagsværd Church (1973–6), near Copenhagen"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Critical regionalism",
+    "url": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "why": "theory, Frampton, architects",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Vernacular architecture",
+    "url": "https://en.wikipedia.org/wiki/Vernacular_architecture",
+    "why": "the local building traditions regionalism draws on",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "bagsvaerd-church",
+   "saynatsalo-town-hall",
+   "boa-nova-tea-house",
+   "indian-institute-of-management-bangalore",
+   "hedmark-museum",
+   "parliament-of-sri-lanka"
+  ],
+  "notes": {
+   "building_sources": "Bagsværd Church and Säynätsalo Town Hall are named in the page. Siza, Doshi, Fehn and Bawa are listed as architects only; the last four buildings are my picks by those architects, not named by the source.",
+   "thin": "Only 1 overview link verified; 2 of 6 buildings named by source. Britannica, Met, V&A, UNESCO, Getty, ArchDaily, SAH domains failed to resolve (getaddrinfo ENOTFOUND) from this sandbox; only Wikipedia was reachable.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/topic/Critical-Regionalism",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "museums",
+  "facts": [
+   {
+    "claim": "The word museum goes back to a Greek place dedicated to the Muses",
+    "source": "https://en.wikipedia.org/wiki/Museum",
+    "quote": "a place or temple dedicated to the muses"
+   },
+   {
+    "claim": "Museums began as private collections",
+    "source": "https://en.wikipedia.org/wiki/Museum",
+    "quote": "Museums originated as private collections of interesting items"
+   },
+   {
+    "claim": "The Louvre in Paris was the first public museum in France",
+    "source": "https://en.wikipedia.org/wiki/Museum",
+    "quote": "the first public museum was the Louvre in Paris"
+   },
+   {
+    "claim": "Cities have used museums as tools for economic growth",
+    "source": "https://en.wikipedia.org/wiki/Museum",
+    "quote": "Cities have used museums as tools for economic development"
+   },
+   {
+    "claim": "Museum design must balance preserving a collection with opening it to the public",
+    "source": "https://en.wikipedia.org/wiki/Museum_architecture",
+    "quote": "also needs to be made accessible to the public"
+   },
+   {
+    "claim": "Some museums are made by converting old buildings, for example Tate Modern from a power station",
+    "source": "https://en.wikipedia.org/wiki/Museum_architecture",
+    "quote": "conversion of old buildings that have outlived their usefulness"
+   },
+   {
+    "claim": "New wings can be married to old museum buildings, as at the Louvre",
+    "source": "https://en.wikipedia.org/wiki/Museum_architecture",
+    "quote": "modern architecture being married with existing museum buildings"
+   },
+   {
+    "claim": "The Guggenheim Museum in New York is called a landmark of 20th-century architecture",
+    "source": "https://en.wikipedia.org/wiki/Museum_architecture",
+    "quote": "an important architectural landmark and icon of the 20th century"
+   },
+   {
+    "claim": "Gehry's Guggenheim Bilbao opened in 1997 and its effect on the city became known as the Bilbao effect",
+    "source": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+    "quote": "became known as the Bilbao effect"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Museum",
+    "url": "https://en.wikipedia.org/wiki/Museum",
+    "why": "history, types, famous buildings",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Museum architecture",
+    "url": "https://en.wikipedia.org/wiki/Museum_architecture",
+    "why": "how museum buildings developed, with examples",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Art museum",
+    "url": "https://en.wikipedia.org/wiki/Art_museum",
+    "why": "the art museum as a building type",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "guggenheim-bilbao",
+   "solomon-r-guggenheim-museum",
+   "louvre-pyramid",
+   "tate-modern",
+   "figge-art-museum"
+  ],
+  "notes": {
+   "key_buildings_note": "Museum_architecture names Louvre Pyramid, Tate Modern, both Guggenheims, Figge Art Museum; Museum names Guggenheim Bilbao",
+   "thin": "Only Wikipedia could be opened (all other hosts, including Britannica, failed DNS in the sandbox); 2 overview links only. Quotes for some facts were returned by WebFetch as short excerpts; re-check wording before use.",
+   "dropped": [
+    {
+     "url": "britannica.com / museum, foundation, UNESCO, Serpentine, Mies Barcelona sites",
+     "reason": "hosts unreachable (DNS failure in sandbox)"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "houses",
+  "facts": [
+   {
+    "claim": "A house is a residential building, from a hut to a complex structure",
+    "source": "https://en.wikipedia.org/wiki/House",
+    "quote": "A house is a residential building."
+   },
+   {
+    "claim": "House form is shaped by the available materials",
+    "source": "https://en.wikipedia.org/wiki/House",
+    "quote": "people often build houses out of the nearest available material"
+   },
+   {
+    "claim": "Houses can express their builders' or occupants' opinions",
+    "source": "https://en.wikipedia.org/wiki/House",
+    "quote": "Houses may express the circumstances or opinions of their builders or their inhabitants."
+   },
+   {
+    "claim": "Villa Savoye was built 1928 to 1931 in reinforced concrete",
+    "source": "https://en.wikipedia.org/wiki/Villa_Savoye",
+    "quote": "between 1928 and 1931 using reinforced concrete"
+   },
+   {
+    "claim": "Villa Savoye is a recognised example of the International style and influenced modernism",
+    "source": "https://en.wikipedia.org/wiki/Villa_Savoye",
+    "quote": "had an enormous influence on international modernism"
+   },
+   {
+    "claim": "The Case Study Houses were announced in Arts & Architecture in January 1945 by John Entenza to produce inexpensive modern model homes",
+    "source": "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "quote": "each house must be capable of duplication"
+   },
+   {
+    "claim": "Fallingwater was completed in 1937 (guest wing 1939), by Frank Lloyd Wright for the Kaufmann family, over a waterfall",
+    "source": "https://en.wikipedia.org/wiki/Fallingwater",
+    "quote": "organic architecture"
+   },
+   {
+    "claim": "Farnsworth House (Mies, finished 1951) is a glass and steel box in the International Style",
+    "source": "https://en.wikipedia.org/wiki/Farnsworth_House",
+    "quote": "designed by Ludwig Mies van der Rohe in the International Style"
+   },
+   {
+    "claim": "Eames House was built in 1949 by Charles and Ray Eames for themselves, using mass-produced parts",
+    "source": "https://en.wikipedia.org/wiki/Eames_House",
+    "quote": "constructed in 1949"
+   },
+   {
+    "claim": "Venturi's Vanna Venturi House (1962-64) is among the first prominent postmodern works",
+    "source": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
+    "quote": "one of the first prominent works of the postmodern architecture movement"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "House",
+    "url": "https://en.wikipedia.org/wiki/House",
+    "why": "what a house is, development, what shapes design",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Case Study Houses",
+    "url": "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "why": "the 1945 programme of modern model homes",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Villa",
+    "url": "https://en.wikipedia.org/wiki/Villa",
+    "why": "the villa and country house",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "villa-savoye",
+   "fallingwater",
+   "farnsworth-house",
+   "eames-house",
+   "stahl-house",
+   "vanna-venturi-house"
+  ],
+  "notes": {
+   "key_buildings_note": "All named in the Wikipedia pages cited; Stahl House named in Case_Study_Houses",
+   "thin": "Only Wikipedia reachable; 2 overview links (fewer than 3). Quotes for fallingwater and others are short excerpts from WebFetch summaries, re-verify.",
+   "dropped": []
+  }
+ },
+ {
+  "slug": "libraries",
+  "facts": [
+   {
+    "claim": "The Library of Ashurbanipal in Mesopotamia is among the earliest libraries",
+    "source": "https://en.wikipedia.org/wiki/Library",
+    "quote": "Library of Ashurbanipal"
+   },
+   {
+    "claim": "Early libraries were archives of early writing",
+    "source": "https://en.wikipedia.org/wiki/Library",
+    "quote": "The first libraries consisted of archives of the earliest form of writing."
+   },
+   {
+    "claim": "1,689 Carnegie libraries were built in the US between 1883 and 1929",
+    "source": "https://en.wikipedia.org/wiki/Public_library",
+    "quote": "A total of 1,689 Carnegie libraries were built in the United States between 1883 and 1929"
+   },
+   {
+    "claim": "Compact shelving on tracks was introduced as libraries needed more space",
+    "source": "https://en.wikipedia.org/wiki/Library",
+    "quote": "a method of moving shelves on tracks (compact shelving) was introduced"
+   },
+   {
+    "claim": "Libraries now work as community hubs",
+    "source": "https://en.wikipedia.org/wiki/Library",
+    "quote": "Libraries may also be community hubs"
+   },
+   {
+    "claim": "Labrouste's Bibliotheque Sainte-Genevieve opened in 1851 with exposed cast-iron columns and arches",
+    "source": "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve",
+    "quote": "The slender iron columns and the lace-like cast iron arches under the roof were not concealed."
+   },
+   {
+    "claim": "Sainte-Genevieve is called a major step in creating modern architecture and influenced Boston Public Library",
+    "source": "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve",
+    "quote": "a major step in the creation of modern architecture"
+   },
+   {
+    "claim": "Seattle Central Library by OMA with LMN opened in 2004; its Books Spiral keeps nonfiction in one run",
+    "source": "https://en.wikipedia.org/wiki/Seattle_Central_Library",
+    "quote": "Books Spiral"
+   },
+   {
+    "claim": "Public libraries of the 1960s are characterised by modernism",
+    "source": "https://en.wikipedia.org/wiki/Public_library",
+    "quote": "Public libraries built in the 1960s were characterized by modernism."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Library",
+    "url": "https://en.wikipedia.org/wiki/Library",
+    "why": "history, kinds, buildings named",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Public library",
+    "url": "https://en.wikipedia.org/wiki/Public_library",
+    "why": "public funding, Carnegie, design",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Academic library",
+    "url": "https://en.wikipedia.org/wiki/Academic_library",
+    "why": "libraries on campuses",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "bibliotheque-sainte-genevieve",
+   "seattle-central-library",
+   "vasconcelos-library",
+   "sendai-mediatheque",
+   "beinecke-rare-book-manuscript-library",
+   "robarts-library",
+   "british-library",
+   "boston-public-library-mckim-building"
+  ],
+  "notes": {
+   "key_buildings_note": "Library names Robarts, Beinecke, Sendai Mediatheque, Vasconcelos, British Library; Public_library names Boston Public Library; Sainte-Genevieve and Seattle have own pages",
+   "thin": "Only Wikipedia reachable; 2 overview links. Library_architecture 404s. Some quotes are fragments from WebFetch output; re-verify.",
+   "dropped": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Library_architecture",
+     "reason": "404"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "pavilions",
+  "facts": [
+   {
+    "claim": "A pavilion is a subsidiary building, positioned separately or attached to a main building",
+    "source": "https://en.wikipedia.org/wiki/Pavilion",
+    "quote": "a subsidiary building that is either positioned separately or as an attachment to a main building"
+   },
+   {
+    "claim": "Pavilions are built for pleasure and relaxation",
+    "source": "https://en.wikipedia.org/wiki/Pavilion",
+    "quote": "the common factor is that it was built for pleasure and relaxation"
+   },
+   {
+    "claim": "The word comes from a large tent raised on posts",
+    "source": "https://en.wikipedia.org/wiki/Pavilion",
+    "quote": "large, stately tent raised on posts"
+   },
+   {
+    "claim": "World's fairs use national pavilions",
+    "source": "https://en.wikipedia.org/wiki/Pavilion",
+    "quote": "World's fairs and similar events (art biennales, national fairs, etc.) use national pavilions."
+   },
+   {
+    "claim": "Fair pavilions are mostly temporary",
+    "source": "https://en.wikipedia.org/wiki/World%27s_fair",
+    "quote": "Most of the structures are temporary and are dismantled after the fair closes"
+   },
+   {
+    "claim": "Serpentine has commissioned a temporary summer pavilion every year since 2000",
+    "source": "https://en.wikipedia.org/wiki/Serpentine_Galleries",
+    "quote": "Every year since 2000, Serpentine has commissioned a temporary summer pavilion by a leading architect."
+   },
+   {
+    "claim": "The Giardini in Venice holds 30 permanent national pavilions, some by leading 20th-century architects",
+    "source": "https://en.wikipedia.org/wiki/Giardini_della_Biennale",
+    "quote": "The gardens contain 30 permanent pavilions."
+   },
+   {
+    "claim": "Expo 2000's Japan Pavilion was a gridshell of recycled paper tubes by Shigeru Ban",
+    "source": "https://en.wikipedia.org/wiki/Expo_2000",
+    "quote": "The Japanese Pavilion was a gridshell structure made out of recycled paper tubes"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Pavilion",
+    "url": "https://en.wikipedia.org/wiki/Pavilion",
+    "why": "definition, origin, garden and fair pavilions",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Serpentine Pavilion",
+    "url": "https://en.wikipedia.org/wiki/Serpentine_Pavilion",
+    "why": "the yearly architect commission",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "World's fair",
+    "url": "https://en.wikipedia.org/wiki/World%27s_fair",
+    "why": "fairs and their pavilions",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Giardini della Biennale",
+    "url": "https://en.wikipedia.org/wiki/Giardini_della_Biennale",
+    "why": "Venice national pavilions",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "barcelona-pavilion",
+   "japan-pavilion-expo-2000",
+   "netherlands-pavilion-expo-2000",
+   "royal-pavilion-brighton",
+   "china-pavilion-expo-2010"
+  ],
+  "notes": {
+   "key_buildings_note": "Barcelona: its page; Japan and Netherlands pavilions: Expo_2000; Royal Pavilion Brighton named in Pavilion; China Pavilion only mentioned in Expo_2010 legacy section (weak, optional). Nordic Pavilion (nordic-pavilion) is not confirmed by sources fetched (Giardini page does not name Fehn).",
+   "thin": "Only Wikipedia reachable; Serpentine pavilions are not on the wall; sources name few wall buildings.",
+   "dropped": []
+  }
+ },
+ {
+  "slug": "housing",
+  "facts": [
+   {
+    "claim": "Public or social housing is subsidised or affordable housing provided in buildings.",
+    "source": "https://en.wikipedia.org/wiki/Public_housing",
+    "quote": "Public housing, also known as social housing, is subsidized or affordable housing provided in buildings"
+   },
+   {
+    "claim": "Modern municipal housing began as a response to fast urban population growth.",
+    "source": "https://en.wikipedia.org/wiki/Public_housing",
+    "quote": "The origins of modern municipal housing lie in the dramatic urban population increase"
+   },
+   {
+    "claim": "In Britain, mass council house building began around 1920 after the 1919 Addison Act.",
+    "source": "https://en.wikipedia.org/wiki/Public_housing",
+    "quote": "Mass council house building began in about 1920 in order to replace older and dilapidated properties."
+   },
+   {
+    "claim": "Tower blocks were first built in Britain in the 1950s.",
+    "source": "https://en.wikipedia.org/wiki/Public_housing",
+    "quote": "Tower blocks, first built in the 1950s, featured prominently in this era."
+   },
+   {
+    "claim": "Karl-Marx-Hof is a Red Vienna block arranged around green courts.",
+    "source": "https://en.wikipedia.org/wiki/Red_Vienna",
+    "quote": "Large blocks were situated around green courts, for instance at the Karl-Marx-Hof."
+   },
+   {
+    "claim": "Le Corbusier's Unité d'Habitation is a modernist housing type with 'streets in the sky' corridors and a communal roof terrace; the Marseille building has 337 flats.",
+    "source": "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation",
+    "quote": "wide corridors (\"streets in the sky\") run along the central long axis of every third floor"
+   },
+   {
+    "claim": "The Unité's flat roof was designed as a shared terrace.",
+    "source": "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation",
+    "quote": "The flat roof is designed as a communal terrace"
+   },
+   {
+    "claim": "Quinta Monroy's 'half a house' approach left half of each home for residents to finish; it helped Alejandro Aravena win the 2016 Pritzker Prize.",
+    "source": "https://en.wikipedia.org/wiki/Quinta_Monroy",
+    "quote": "the other half available for modification and infill"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Public housing",
+    "url": "https://en.wikipedia.org/wiki/Public_housing",
+    "why": "history, countries, design",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Red Vienna",
+    "url": "https://en.wikipedia.org/wiki/Red_Vienna",
+    "why": "interwar municipal housing, Karl-Marx-Hof",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Apartment",
+    "url": "https://en.wikipedia.org/wiki/Apartment",
+    "why": "flats, insulae, tenements, mansion blocks",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Pruitt-Igoe",
+    "url": "https://en.wikipedia.org/wiki/Pruitt%E2%80%93Igoe",
+    "why": "a famous failure and the debate on it",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Unité d'Habitation",
+    "url": "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation",
+    "why": "a housing model repeated in five places",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "unite-dhabitation",
+   "hufeisensiedlung",
+   "karl-marx-hof",
+   "park-hill",
+   "habitat-67",
+   "byker-wall",
+   "quinta-monroy",
+   "barbican-estate"
+  ],
+  "notes": {
+   "thin": "Only Wikipedia could be opened: Britannica, UNESCO, NPS, ArchDaily and other sites fail DNS in this sandbox, so no non-Wikipedia link or source. Key buildings: Hufeisensiedlung and Park Hill named in Wikipedia Public_housing captions; Karl-Marx-Hof in Red_Vienna; Unité in Unité_d'Habitation; Habitat 67, Byker Wall, Quinta Monroy by their own articles (not as 'key examples' of the hub page); Barbican Estate not named in a fetched source (my addition, check)."
+  }
+ },
+ {
+  "slug": "religious-buildings",
+  "facts": [
+   {
+    "claim": "Sacred architecture is the design and building of places of worship.",
+    "source": "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "quote": "is a religious architectural practice concerned with the design and construction of places of worship"
+   },
+   {
+    "claim": "Ancient temples were often seen as the dwelling place of a deity.",
+    "source": "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "quote": "Ancient religious buildings, particularly temples, were often viewed as the dwelling place"
+   },
+   {
+    "claim": "A Hindu temple is read as a model of the universe and of inner space.",
+    "source": "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "quote": "the temple represents the macrocosm of the universe as well as the microcosm of inner space."
+   },
+   {
+    "claim": "Gothic architecture began in 12th-century France at the abbey church of Saint-Denis and was tied to cathedrals.",
+    "source": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "quote": "The Abbey of Saint-Denis, near Paris, is considered to be the first Gothic building."
+   },
+   {
+    "claim": "The pointed arch is Gothic's defining feature.",
+    "source": "https://en.wikipedia.org/wiki/Church_architecture",
+    "quote": "The defining feature of the style is the pointed (or ogival) arch."
+   },
+   {
+    "claim": "Steel and concrete changed how 20th-century churches were designed.",
+    "source": "https://en.wikipedia.org/wiki/Church_architecture",
+    "quote": "the use of new materials, such as steel and concrete, has had an effect upon the design of churches"
+   },
+   {
+    "claim": "The earliest mosques were hypostyle halls pioneered under the Umayyads, with a courtyard for Friday prayer crowds.",
+    "source": "https://en.wikipedia.org/wiki/Mosque",
+    "quote": "Arab-plan or hypostyle mosques are the earliest type of mosques, pioneered under the Umayyad Dynasty"
+   },
+   {
+    "claim": "The Ottomans introduced central-dome mosques in the 15th century.",
+    "source": "https://en.wikipedia.org/wiki/Mosque",
+    "quote": "The Ottomans introduced central dome mosques in the 15th century."
+   },
+   {
+    "claim": "A Hindu temple's inner sanctum is crowned by a tower, the shikhara (vimana in the south).",
+    "source": "https://en.wikipedia.org/wiki/Hindu_temple_architecture",
+    "quote": "the garbhagriha is crowned by a tower-like shikhara, also called the vimana in the south."
+   },
+   {
+    "claim": "Bahá'í houses of worship are nine-sided with nine entrances.",
+    "source": "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "quote": "each having nine sides and nine entrances, the number nine being symbolic of unity."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Sacred architecture",
+    "url": "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "why": "worship buildings across religions",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Church architecture",
+    "url": "https://en.wikipedia.org/wiki/Church_architecture",
+    "why": "plans, styles, modern churches",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Mosque",
+    "url": "https://en.wikipedia.org/wiki/Mosque",
+    "why": "plan types, mihrab, minaret, dome",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Hindu temple architecture",
+    "url": "https://en.wikipedia.org/wiki/Hindu_temple_architecture",
+    "why": "sanctum, tower, regional styles",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Gothic architecture",
+    "url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+    "why": "origin at Saint-Denis, features",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "hagia-sophia",
+   "blue-mosque",
+   "shah-mosque-isfahan",
+   "great-mosque-of-djenne",
+   "unity-temple",
+   "lotus-temple",
+   "notre-dame-du-haut",
+   "church-of-the-light"
+  ],
+  "notes": {
+   "thin": "Only Wikipedia reachable (others fail DNS). Named by sources: Hagia Sophia, Unity Temple, Shah Mosque, Lotus Temple (as Bahá'í House in Delhi) in Sacred_architecture; Great Mosque of Djenné in Mosque; Notre-Dame du Haut in Church_architecture. Blue Mosque (Sultan Ahmed) and Church of the Light come from their own pages / the general Ottoman dome fact, not listed as examples; Dome of the Rock named in Sacred_architecture but not checked on wall."
+  }
+ },
+ {
+  "slug": "schools-and-campuses",
+  "facts": [
+   {
+    "claim": "The design of a building can strongly shape students' learning.",
+    "source": "https://en.wikipedia.org/wiki/School_architecture",
+    "quote": "The design of a building can significantly influence the learning experience of students."
+   },
+   {
+    "claim": "A campus traditionally means the land and buildings of a college or university.",
+    "source": "https://en.wikipedia.org/wiki/Campus",
+    "quote": "traditionally refers to the land and buildings of a college or university"
+   },
+   {
+    "claim": "Patrick Abercrombie in 1922 contrasted the scattered-in-a-park American campus with Oxbridge's formal quads.",
+    "source": "https://en.wikipedia.org/wiki/Campus",
+    "quote": "the departments of the university are scattered about a park and are actually among the trees"
+   },
+   {
+    "claim": "Gothic revival flourished in English universities in the 13th to 15th centuries and was later revived for campuses.",
+    "source": "https://en.wikipedia.org/wiki/School_architecture",
+    "quote": "flourished in English universities in the 13th to 15th centuries"
+   },
+   {
+    "claim": "Robson thought Gothic's link with religion was wrong for secular school buildings.",
+    "source": "https://en.wikipedia.org/wiki/School_architecture",
+    "quote": "Robson believed Gothic architecture's association with religion was inappropriate for secular education buildings."
+   },
+   {
+    "claim": "Brutalism was widely used on university campuses in the 1960s and 1970s.",
+    "source": "https://en.wikipedia.org/wiki/School_architecture",
+    "quote": "was extensively used on university campuses across the world in the 1960s and 1970s."
+   },
+   {
+    "claim": "Open classroom design became popular in North America in the late 1960s and 1970s.",
+    "source": "https://en.wikipedia.org/wiki/School_architecture",
+    "quote": "first became popular in North America in the late 1960s and 1970s"
+   },
+   {
+    "claim": "The Bauhaus was founded by Walter Gropius in Weimar on 1 April 1919.",
+    "source": "https://en.wikipedia.org/wiki/Bauhaus",
+    "quote": "The school was founded by Walter Gropius in Weimar on 1 April 1919."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "School architecture (Educational architecture)",
+    "url": "https://en.wikipedia.org/wiki/School_architecture",
+    "why": "history, styles, open classroom",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Campus",
+    "url": "https://en.wikipedia.org/wiki/Campus",
+    "why": "origin of the term and planning",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Bauhaus",
+    "url": "https://en.wikipedia.org/wiki/Bauhaus",
+    "why": "the school as an architecture lesson",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "geisel-library",
+   "bauhaus-dessau",
+   "apple-park"
+  ],
+  "notes": {
+   "thin": "Only 3 links and 3 buildings; Wikipedia only (others fail DNS). Geisel Library named in School_architecture; Bauhaus Dessau implied by the Bauhaus article (Dessau mentioned), not a stated key example; Apple Park named in Campus (corporate campus, type Workplace). Fact 2 reuses the same quote as fact 1 (weak, could drop)."
+  }
+ },
+ {
+  "slug": "memorials",
+  "facts": [
+   {
+    "claim": "A memorial is an object or place that serves as a focus for remembering or commemorating something.",
+    "source": "https://en.wikipedia.org/wiki/Memorial",
+    "quote": "an object or place which serves as a focus for the memory or the commemoration of something"
+   },
+   {
+    "claim": "The most common memorial is the gravestone or plaque.",
+    "source": "https://en.wikipedia.org/wiki/Memorial",
+    "quote": "The most common type of memorial is the gravestone or the memorial plaque."
+   },
+   {
+    "claim": "Temporary, makeshift memorials are called grassroots memorials.",
+    "source": "https://en.wikipedia.org/wiki/Memorial",
+    "quote": "Those temporary or makeshift memorials are also called grassroots memorials."
+   },
+   {
+    "claim": "A mausoleum is a monument enclosing a burial chamber; the word comes from the tomb of Mausolus at Halicarnassus.",
+    "source": "https://en.wikipedia.org/wiki/Mausoleum",
+    "quote": "a monument enclosing the burial chamber of a deceased person or people"
+   },
+   {
+    "claim": "Anitkabir in Ankara is the mausoleum of Atatürk.",
+    "source": "https://en.wikipedia.org/wiki/Mausoleum",
+    "quote": "Anıtkabir"
+   },
+   {
+    "claim": "The Vietnam Veterans Memorial, by Maya Lin, was dedicated in 1982 and is two black granite walls; its colour, lack of ornament and below-ground form were first controversial.",
+    "source": "https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial",
+    "quote": "Maya Lin"
+   },
+   {
+    "claim": "Peter Eisenman's Memorial to the Murdered Jews of Europe in Berlin has 2,711 concrete stelae on a sloping grid and opened in 2005.",
+    "source": "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+    "quote": "2,711 concrete slabs"
+   },
+   {
+    "claim": "Critics said the Berlin memorial's lack of names or information weakens its message.",
+    "source": "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+    "quote": "an incomplete statement"
+   },
+   {
+    "claim": "The Hiroshima Peace Memorial Museum was designed by Kenzo Tange and established in August 1955.",
+    "source": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial_Museum",
+    "quote": "The architect of the main building was Kenzō Tange."
+   },
+   {
+    "claim": "Lincoln Memorial, Chiang Kai-shek Memorial Hall, Anitkabir and Mazar-e-Quaid are listed among memorials.",
+    "source": "https://en.wikipedia.org/wiki/Memorial",
+    "quote": "Chiang Kai-shek Memorial Hall"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Memorial",
+    "url": "https://en.wikipedia.org/wiki/Memorial",
+    "why": "types and examples worldwide",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Mausoleum",
+    "url": "https://en.wikipedia.org/wiki/Mausoleum",
+    "why": "tomb monuments, Taj Mahal",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Vietnam Veterans Memorial",
+    "url": "https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial",
+    "why": "a landmark of memorial design",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Memorial to the Murdered Jews of Europe",
+    "url": "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+    "why": "design and debate",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "memorial-to-the-murdered-jews-of-europe",
+   "anitkabir",
+   "chiang-kai-shek-memorial-hall",
+   "mazar-e-quaid",
+   "taj-mahal",
+   "neue-wache-berlin"
+  ],
+  "notes": {
+   "thin": "Wikipedia only. Weak quotes in facts 5, 6, 7, 8, 10: the fetch tool summarised rather than quoting, so those quotes are fragments (names/numbers) that should be re-verified before use; facts 6-8 may be restated from the summary. Taj Mahal named in Mausoleum caption; Neue Wache not named in a fetched source (my addition). Vietnam Veterans Memorial and Lincoln Memorial are not on the wall (the memorial hub links 3 only about one building each, so 'overview' is partly building-specific)."
+  }
+ },
+ {
+  "slug": "london",
+  "facts": [
+   {
+    "claim": "The 1666 Great Fire is described as a major turning point in the city's architecture.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "one of the most significant turning points in the history of London's architecture"
+   },
+   {
+    "claim": "The fire destroyed about nine tenths of the city.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "the fire destroyed around 90% of the city"
+   },
+   {
+    "claim": "Wren's grid plan was set aside and the city was rebuilt on its medieval street plan.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "it was decided to rebuild the city around the original medieval street plan"
+   },
+   {
+    "claim": "The 1667 rebuilding act required houses of uniform height and plot size, built in brick.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "all new houses were to be built to a uniform height and plot size"
+   },
+   {
+    "claim": "Wren's St Paul's dome was praised by Pevsner as among the most perfect in the world.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "one of the most perfect in the world"
+   },
+   {
+    "claim": "In the 18th century the city walls were mostly demolished to allow the city to expand.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "most of the city walls were demolished to facilitate the dramatic expansion of the city"
+   },
+   {
+    "claim": "Victorian London pioneered infrastructure such as the first underground railway.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "the world's first underground railway system"
+   },
+   {
+    "claim": "John Nash's best-known collaboration with developer James Burton was Regent Street, and he remodelled Buckingham House into Buckingham Palace.",
+    "source": "https://en.wikipedia.org/wiki/John_Nash_(architect)",
+    "quote": "His best-known collaboration with James Burton is Regent Street"
+   },
+   {
+    "claim": "The Shard (2012) became London's first supertall skyscraper.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "quote": "London's first 'supertall' skyscraper"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of London",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "why": "history from the Tower to the Shard",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Great Fire of London",
+    "url": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "why": "the 1666 fire that reshaped the city",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "John Nash (architect)",
+    "url": "https://en.wikipedia.org/wiki/John_Nash_(architect)",
+    "why": "Regency planning: Regent Street, Regent's Park",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "List of tallest buildings and structures in London",
+    "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_and_structures_in_London",
+    "why": "the tall-building skyline",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "barbican-estate",
+   "trellick-tower",
+   "lloyds-building",
+   "30-st-mary-axe",
+   "the-shard",
+   "battersea-power-station",
+   "palace-of-westminster"
+  ],
+  "notes": {
+   "thin": "Only Wikipedia could be reached from the sandbox (Britannica, RIBA, British Museum, other hosts failed DNS). Key buildings: first six named in Architecture of London; Palace of Westminster named there as Westminster Hall and Palace of Westminster.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/place/London/Architecture",
+     "reason": "host unreachable (ENOTFOUND)"
+    },
+    {
+     "url": "https://www.riba.org/",
+     "reason": "host unreachable"
+    },
+    {
+     "url": "https://www.britishmuseum.org/",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "new-york",
+  "facts": [
+   {
+    "claim": "New York has one of the largest and most varied skyscraper collections in the world.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "one of the largest and most varied collection of skyscrapers in the world"
+   },
+   {
+    "claim": "The 1916 Zoning Resolution forced setbacks and limited towers to a share of the lot.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "required setback in new buildings, and restricted towers to a percentage of the lot size"
+   },
+   {
+    "claim": "Art Deco towers such as the Chrysler and Empire State buildings took their tapered tops from those zoning rules.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "with their tapered tops and steel spires, reflected the zoning requirements"
+   },
+   {
+    "claim": "Many historians and architects rank the Chrysler Building among the city's finest.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "considered by many historians and architects to be one of New York's finest"
+   },
+   {
+    "claim": "The Empire State Building was the first to pass 100 storeys.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "It was the first building to go beyond the 100-story mark"
+   },
+   {
+    "claim": "Grand Central Terminal was designed in the Beaux-Arts style.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "It was built in the Beaux-Arts style by the firms"
+   },
+   {
+    "claim": "The Seagram Building and 330 West 42nd Street are named as early influential International Style examples in the US.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "Early influential examples of the International Style in the United States are"
+   },
+   {
+    "claim": "Critic Paul Goldberger called the Seagram Building one of the city's most copied buildings.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "quote": "New York's most copied buildings"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of New York City",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "why": "skyscrapers, Art Deco, International Style",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "List of tallest buildings in New York City",
+    "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_New_York_City",
+    "why": "the skyline ranked",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Skyscraper",
+    "url": "https://en.wikipedia.org/wiki/Skyscraper",
+    "why": "how tall buildings work and where they began",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Art Deco",
+    "url": "https://en.wikipedia.org/wiki/Art_Deco",
+    "why": "the style of the Chrysler and Empire State",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "woolworth-building",
+   "chrysler-building",
+   "empire-state-building",
+   "seagram-building",
+   "metlife-building"
+  ],
+  "notes": {
+   "thin": "Only Wikipedia reachable; 5 buildings (Grand Central, Penn Station, 40 Wall St not on wall; Twin Towers gone). Facts about Zoning etc. from Wikipedia only.",
+   "dropped": [
+    {
+     "url": "https://www.nyc.gov/site/lpc/index.page",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "chicago",
+  "facts": [
+   {
+    "claim": "Most of downtown was destroyed by the Great Chicago Fire in 1871, which led to rebuilding.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "Most structures downtown were destroyed by the Great Chicago Fire in 1871"
+   },
+   {
+    "claim": "The Montauk Building (1882-83) was the first building called a skyscraper.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "First building to be called a 'skyscraper.'"
+   },
+   {
+    "claim": "Jenney's Home Insurance Building (1885) is considered the first to use steel in its structural frame.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "is considered to be the first to use steel in its structural frame"
+   },
+   {
+    "claim": "A steel skeleton meant a building's height was no longer limited by wall strength.",
+    "source": "https://en.wikipedia.org/wiki/Chicago_school_(architecture)",
+    "quote": "meant the height of a building was no longer limited by the strength of its walls"
+   },
+   {
+    "claim": "Louis Sullivan dropped historical precedent for buildings that stressed verticality.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "Louis Sullivan discarded historical precedent and designed buildings that emphasized their vertical nature."
+   },
+   {
+    "claim": "Daniel Burnham led design of the 1893 World's Columbian Exposition 'White City'.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "Daniel Burnham led the design of the 'White City' of the 1893 World's Columbian Exposition"
+   },
+   {
+    "claim": "A 'Second Chicago School' grew from Mies van der Rohe's work at IIT from 1963.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "Since 1963, a 'Second Chicago School' has emerged from the work of Ludwig Mies van der Rohe"
+   },
+   {
+    "claim": "Chicago holds one of the world's largest and most diverse skyscraper collections.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "quote": "Chicago is home to one of the largest and most diverse collections of skyscrapers in the world."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Chicago",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "why": "fire, Chicago School, Mies, skyscrapers",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Chicago school (architecture)",
+    "url": "https://en.wikipedia.org/wiki/Chicago_school_(architecture)",
+    "why": "first and second Chicago schools",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Great Chicago Fire",
+    "url": "https://en.wikipedia.org/wiki/Great_Chicago_Fire",
+    "why": "the 1871 fire that began the rebuilding",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "List of tallest buildings in Chicago",
+    "url": "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Chicago",
+    "why": "the skyline",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "reliance-building",
+   "rookery-building",
+   "monadnock-building",
+   "auditorium-building-chicago",
+   "sullivan-center-chicago",
+   "robie-house",
+   "860-880-lake-shore-drive",
+   "john-hancock-center"
+  ],
+  "notes": {
+   "thin": "Only Wikipedia reachable. Also named in Architecture of Chicago and on the wall: wrigley-building, tribune-tower, chicago-board-of-trade-building, marina-city, willis-tower. Sullivan Center = Carson, Pirie, Scott building.",
+   "dropped": [
+    {
+     "url": "https://www.chicagoarchitecture.org/",
+     "reason": "host unreachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "paris",
+  "facts": [
+   {
+    "claim": "Gothic architecture was born in the rebuilding of the choir of Saint-Denis near Paris (finished 1144).",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "quote": "The style of Gothic architecture was born in the rebuilding of the chevet of the Basilica of Saint-Denis"
+   },
+   {
+    "claim": "Around 1160 Maurice de Sully used the Gothic style at a far larger scale for Notre-Dame.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "quote": "the style was used on a much larger scale by Maurice de Sully"
+   },
+   {
+    "claim": "Sainte-Chapelle's upper chapel is called the supreme example of the new style.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "quote": "The supreme example of the new style was the upper chapel of Sainte-Chapelle"
+   },
+   {
+    "claim": "The Louvre's Lescot wing was rebuilt from 1546 in French Renaissance style.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "quote": "The Lescot wing of the Louvre, rebuilt by Francis I beginning in 1546 in the new French Renaissance style."
+   },
+   {
+    "claim": "Formal building height limits were imposed in 1667.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "quote": "In 1667 formal height limits were imposed on Paris buildings"
+   },
+   {
+    "claim": "The 1889 and 1900 expositions added the Eiffel Tower and Grand Palais.",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "quote": "The great Exposition Universelle (1889) and 1900 added Paris landmarks, including the Eiffel Tower and Grand Palais."
+   },
+   {
+    "claim": "Napoleon III made Haussmann prefect of the Seine in 1853, starting the rebuilding of Paris.",
+    "source": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris",
+    "quote": "He became prefect of Seine on 22 June 1853."
+   },
+   {
+    "claim": "Haussmann was dismissed in January 1870, ending the programme.",
+    "source": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris",
+    "quote": "the Emperor reluctantly dismissed him on 5 January 1870"
+   },
+   {
+    "claim": "The Pompidou Centre design by Rogers and Piano was chosen among 681 entries.",
+    "source": "https://en.wikipedia.org/wiki/Centre_Pompidou",
+    "quote": "The Rogers and Piano design was chosen among 681 competition entries."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Paris",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "why": "Gothic to modern",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Haussmann's renovation of Paris",
+    "url": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris",
+    "why": "the 19th-century street plan",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Centre Pompidou",
+    "url": "https://en.wikipedia.org/wiki/Centre_Pompidou",
+    "why": "1970s high-tech landmark (one building; weak as overview, drop if strict)",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "eiffel-tower",
+   "grand-palais",
+   "palais-garnier",
+   "centre-pompidou"
+  ],
+  "notes": {
+   "thin": "Only 3 links, and 3rd is a single building so effectively 2 true overview links; only 4 buildings (Notre-Dame, Louvre palace, Sainte-Chapelle not on wall). Only Wikipedia reachable. Paris page text was truncated at 100k chars so Beaux-Arts, Le Corbusier not covered.",
+   "dropped": []
+  }
+ },
+ {
+  "slug": "berlin",
+  "facts": [
+   {
+    "claim": "Museum Island's museums were built over a century, first under Prussian kings",
+    "source": "https://en.wikipedia.org/wiki/Museum_Island",
+    "quote": "Originally built from 1830 to 1930, initially by order of the Prussian Kings."
+   },
+   {
+    "claim": "Schinkel drew the plans for the Altes Museum, which opened in 1830",
+    "source": "https://en.wikipedia.org/wiki/Museum_Island",
+    "quote": "In 1822, Schinkel designed the plans for the Altes Museum"
+   },
+   {
+    "claim": "Schinkel's Altes Museum became a template for national art museums elsewhere",
+    "source": "https://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel",
+    "quote": "a model for future national art museums throughout the world"
+   },
+   {
+    "claim": "Schinkel's Bauakademie (1836, demolished 1962) is seen as a forerunner of modern architecture",
+    "source": "https://en.wikipedia.org/wiki/Karl_Friedrich_Schinkel",
+    "quote": "considered one of the forerunners of modern architecture"
+   },
+   {
+    "claim": "Seven Weimar-era housing estates, by Bruno Taut, Martin Wagner and others, are a World Heritage group",
+    "source": "https://en.wikipedia.org/wiki/Berlin_Modernism_Housing_Estates",
+    "quote": "comprising seven separate subsidized housing estates in Berlin"
+   },
+   {
+    "claim": "These estates shaped housing design beyond Germany",
+    "source": "https://en.wikipedia.org/wiki/Berlin_Modernism_Housing_Estates",
+    "quote": "exercised considerable influence on the development of housing around the world"
+   },
+   {
+    "claim": "East Berlin's Karl-Marx-Allee (ex-Stalinallee, 1949-1960) was planned as housing and civic showpiece in socialist classicism",
+    "source": "https://en.wikipedia.org/wiki/Karl-Marx-Allee",
+    "quote": "model of dignified workers' housing and civic life"
+   },
+   {
+    "claim": "The Hansaviertel, mostly destroyed in the war, was rebuilt as the Interbau housing project with Aalto, Eiermann, Gropius, Niemeyer and Ruf",
+    "source": "https://en.wikipedia.org/wiki/Hansaviertel",
+    "quote": "Interbau"
+   },
+   {
+    "claim": "Potsdamer Platz was left desolate in the Cold War and rebuilt in the 1990s",
+    "source": "https://en.wikipedia.org/wiki/Potsdamer_Platz",
+    "quote": "left desolate during the Cold War era"
+   },
+   {
+    "claim": "Libeskind's Jewish Museum (opened 2001) is a deconstructivist building",
+    "source": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin",
+    "quote": "radical, zigzag design"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Berlin",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Berlin",
+    "why": "city overview from Museum Island to Potsdamer Platz",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Museum Island",
+    "url": "https://en.wikipedia.org/wiki/Museum_Island",
+    "why": "Schinkel's museum ensemble, UNESCO site",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Berlin Modernism Housing Estates",
+    "url": "https://en.wikipedia.org/wiki/Berlin_Modernism_Housing_Estates",
+    "why": "Taut, Wagner, Gropius social housing",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Karl-Marx-Allee",
+    "url": "https://en.wikipedia.org/wiki/Karl-Marx-Allee",
+    "why": "East Berlin socialist classicism boulevard",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Hansaviertel",
+    "url": "https://en.wikipedia.org/wiki/Hansaviertel",
+    "why": "Interbau 1957 West Berlin housing",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "altes-museum-berlin",
+   "neue-wache-berlin",
+   "pergamon-museum",
+   "hufeisensiedlung",
+   "gartenstadt-falkenberg",
+   "jewish-museum-berlin",
+   "reichstag"
+  ],
+  "notes": {
+   "key_buildings_sources": {
+    "altes-museum-berlin": "Museum_Island, Karl_Friedrich_Schinkel",
+    "neue-wache-berlin": "Karl_Friedrich_Schinkel",
+    "pergamon-museum": "Museum_Island",
+    "hufeisensiedlung": "Berlin_Modernism_Housing_Estates",
+    "gartenstadt-falkenberg": "Berlin_Modernism_Housing_Estates",
+    "jewish-museum-berlin": "Jewish_Museum_Berlin",
+    "reichstag": "Architecture_of_Berlin (Foster remodel 1990s)"
+   },
+   "thin": "Only en.wikipedia.org could be opened; Britannica, UNESCO and others failed. Architecture_of_Berlin page does not name Schinkel/Bauhaus, so those facts come from other Wikipedia pages.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/place/Berlin",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    },
+    {
+     "url": "https://whc.unesco.org/en/list/896/",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    },
+    {
+     "url": "https://whc.unesco.org/en/list/1239/",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "tokyo",
+  "facts": [
+   {
+    "claim": "Tokyo's buildings do not share one style",
+    "source": "https://en.wikipedia.org/wiki/Tokyo",
+    "quote": "Tokyo's buildings are too diverse to be characterized by any specific architectural style"
+   },
+   {
+    "claim": "The 1923 Great Kanto earthquake pushed the city toward concrete construction",
+    "source": "https://en.wikipedia.org/wiki/Tokyo",
+    "quote": "The Great Kanto Earthquake in 1923 ushered in an era of concrete architecture."
+   },
+   {
+    "claim": "Tokyo has been left in ruins twice in recent history (1923 quake, wartime bombing)",
+    "source": "https://en.wikipedia.org/wiki/Tokyo",
+    "quote": "Twice in recent history has the metropolis been left in ruins"
+   },
+   {
+    "claim": "The March 1945 raid burned much of the city",
+    "source": "https://en.wikipedia.org/wiki/Tokyo",
+    "quote": "Two-fifths of the city were completely burned, more than 276,000 buildings were destroyed"
+   },
+   {
+    "claim": "The 1964 Olympics marked Tokyo's rebirth as a modern city",
+    "source": "https://en.wikipedia.org/wiki/Tokyo",
+    "quote": "The 1964 Olympics in Tokyo symbolized the transition of the city from bombed-out ruins to a modern metropolis."
+   },
+   {
+    "claim": "Metabolism was launched as a manifesto for the 1960 Tokyo World Design Conference",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
+    "quote": "prepared the publication of the Metabolism manifesto"
+   },
+   {
+    "claim": "Its idea treated cities as living, renewing organisms",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
+    "quote": "We regard human society as a vital process"
+   },
+   {
+    "claim": "Kenzo Tange mentored Metabolists without being an official member",
+    "source": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
+    "quote": "remained a mentor for the group rather than an \"official\" member."
+   },
+   {
+    "claim": "Tange's Yoyogi Gymnasium (1964) was praised in his Pritzker citation",
+    "source": "https://en.wikipedia.org/wiki/Yoyogi_National_Gymnasium",
+    "quote": "among the most beautiful buildings of the 20th century"
+   },
+   {
+    "claim": "Kurokawa's Nakagin Capsule Tower pioneered capsule architecture",
+    "source": "https://en.wikipedia.org/wiki/Nakagin_Capsule_Tower",
+    "quote": "the world's first example of capsule architecture."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Tokyo (Architecture section)",
+    "url": "https://en.wikipedia.org/wiki/Tokyo",
+    "why": "city history, quake, war, notable buildings",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Metabolism (architecture)",
+    "url": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
+    "why": "1960 Tokyo movement and its founders",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Japan",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Japan",
+    "why": "wider context incl. postwar architects",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Great Kanto earthquake",
+    "url": "https://en.wikipedia.org/wiki/Great_Kant%C5%8D_earthquake",
+    "why": "1923 disaster and reconstruction of Tokyo",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "yoyogi-national-gymnasium",
+   "nakagin-capsule-tower",
+   "tokyo-metropolitan-government-building",
+   "st-mary-s-cathedral",
+   "national-art-center-tokyo",
+   "kasumigaseki-building",
+   "tokyo-skytree"
+  ],
+  "notes": {
+   "key_buildings_sources": {
+    "yoyogi-national-gymnasium": "Tokyo, Yoyogi_National_Gymnasium",
+    "nakagin-capsule-tower": "Tokyo, Nakagin_Capsule_Tower",
+    "tokyo-metropolitan-government-building": "Tokyo",
+    "st-mary-s-cathedral": "Tokyo (listed as 1967 Tange work)",
+    "national-art-center-tokyo": "Tokyo (Kurokawa)",
+    "kasumigaseki-building": "Tokyo (first skyscraper, 1968)",
+    "tokyo-skytree": "Tokyo"
+   },
+   "thin": "Only Wikipedia reachable. Great Kanto earthquake and Architecture of Japan links are partly off-city context; no non-Wikipedia overview link verified.",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/place/Tokyo",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    },
+    {
+     "url": "https://www.britannica.com/biography/Kenzo-Tange",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "barcelona",
+  "facts": [
+   {
+    "claim": "Barcelona began as the Roman town Barcino",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Barcelona",
+    "quote": "a small walled town that took the urban form of castrum."
+   },
+   {
+    "claim": "The Gothic Quarter holds the oldest parts of the city",
+    "source": "https://en.wikipedia.org/wiki/Gothic_Quarter,_Barcelona",
+    "quote": "the oldest parts of the city of Barcelona"
+   },
+   {
+    "claim": "Cerdà's 1859 Eixample plan was the city's biggest expansion",
+    "source": "https://en.wikipedia.org/wiki/Eixample",
+    "quote": "This was a design plan by Ildefons Cerdà."
+   },
+   {
+    "claim": "The Eixample is a grid with wide avenues",
+    "source": "https://en.wikipedia.org/wiki/Eixample",
+    "quote": "a strict grid pattern crossed by wide avenues"
+   },
+   {
+    "claim": "Its blocks have cut corners",
+    "source": "https://en.wikipedia.org/wiki/Eixample",
+    "quote": "square blocks with chamfered corners"
+   },
+   {
+    "claim": "Modernisme ran from the 1888 World Fair to 1911",
+    "source": "https://en.wikipedia.org/wiki/Catalan_modernism",
+    "quote": "from roughly 1888 (the First Barcelona World Fair) to 1911 (the death of Joan Maragall)"
+   },
+   {
+    "claim": "Gaudí is the movement's best-known architect",
+    "source": "https://en.wikipedia.org/wiki/Catalan_modernism",
+    "quote": "Antoni Gaudí is the best-known architect of this movement."
+   },
+   {
+    "claim": "Domènech i Montaner offered an alternative architecture",
+    "source": "https://en.wikipedia.org/wiki/Catalan_modernism",
+    "quote": "created a genuine alternative architecture"
+   },
+   {
+    "claim": "Mies's German Pavilion for the 1929 Exposition was demolished in 1930",
+    "source": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+    "quote": "The original structure was demolished in 1930."
+   },
+   {
+    "claim": "It was rebuilt permanently in 1983-86",
+    "source": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+    "quote": "reconstructed the pavilion permanently"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Barcelona",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Barcelona",
+    "why": "city overview from Roman to modern",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Eixample",
+    "url": "https://en.wikipedia.org/wiki/Eixample",
+    "why": "Cerdà grid and Modernista blocks",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Catalan modernism",
+    "url": "https://en.wikipedia.org/wiki/Catalan_modernism",
+    "why": "Gaudí, Domènech, Puig i Cadafalch",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Gothic Quarter, Barcelona",
+    "url": "https://en.wikipedia.org/wiki/Gothic_Quarter,_Barcelona",
+    "why": "Roman and medieval core",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Barcelona Pavilion",
+    "url": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+    "why": "1929 modernist landmark (a single building, kept as context only)",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "sagrada-familia",
+   "casa-batllo",
+   "casa-mila",
+   "park-guell",
+   "palau-de-la-musica-catalana",
+   "hospital-de-sant-pau",
+   "barcelona-pavilion"
+  ],
+  "notes": {
+   "key_buildings_sources": {
+    "sagrada-familia": "Eixample, Catalan_modernism",
+    "casa-batllo": "Eixample, Catalan_modernism",
+    "casa-mila": "Eixample, Catalan_modernism",
+    "park-guell": "Catalan_modernism",
+    "palau-de-la-musica-catalana": "Catalan_modernism",
+    "hospital-de-sant-pau": "Catalan_modernism",
+    "barcelona-pavilion": "Barcelona_Pavilion"
+   },
+   "thin": "Only Wikipedia reachable; UNESCO and Britannica failed. Barcelona Pavilion link is about one building, so consider dropping it (4 city-wide links remain).",
+   "dropped": [
+    {
+     "url": "https://www.britannica.com/place/Barcelona-Spain",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    },
+    {
+     "url": "https://whc.unesco.org/en/list/320/",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    },
+    {
+     "url": "https://whc.unesco.org/en/list/804/",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "los-angeles",
+  "facts": [
+   {
+    "claim": "The city mixes many styles, from Mission Revival onward",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Los_Angeles",
+    "quote": "Architectural styles throughout the city include Mission Revival"
+   },
+   {
+    "claim": "Case Study Houses changed American home design",
+    "source": "https://en.wikipedia.org/wiki/Architecture_of_Los_Angeles",
+    "quote": "The case study houses in particular revolutionized residential architecture"
+   },
+   {
+    "claim": "The Case Study programme was launched in 1945 by Arts & Architecture, aiming at repeatable homes",
+    "source": "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "quote": "each house must be capable of duplication and in no sense be an individual performance"
+   },
+   {
+    "claim": "Koenig's Stahl House photograph is among LA's most famous",
+    "source": "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "quote": "widely regarded as one of the most famous architectural photos of Los Angeles"
+   },
+   {
+    "claim": "Schindler's 1922 house was a live/work experiment that set a California precedent",
+    "source": "https://en.wikipedia.org/wiki/Schindler_House",
+    "quote": "setting a precedent for California architecture in particular"
+   },
+   {
+    "claim": "It was planned for shared living",
+    "source": "https://en.wikipedia.org/wiki/Schindler_House",
+    "quote": "a cooperative live/work space for two young families"
+   },
+   {
+    "claim": "Wright called Hollyhock House his California Romanza; it is part of a UNESCO listing",
+    "source": "https://en.wikipedia.org/wiki/Hollyhock_House",
+    "quote": "California Romanza"
+   },
+   {
+    "claim": "Googie, the roadside Space Age style, was named after a Hollywood coffee shop",
+    "source": "https://en.wikipedia.org/wiki/Googie_architecture",
+    "quote": "This is Googie architecture"
+   },
+   {
+    "claim": "Gehry's Disney Hall swapped planned stone for a steel skin",
+    "source": "https://en.wikipedia.org/wiki/Walt_Disney_Concert_Hall",
+    "quote": "less costly stainless steel skin"
+   },
+   {
+    "claim": "The Los Angeles Conservancy was founded in 1978 to save the Central Library",
+    "source": "https://en.wikipedia.org/wiki/Los_Angeles_Conservancy",
+    "quote": "to preserve Los Angeles Central Library, which was threatened with demolition."
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Los Angeles",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Los_Angeles",
+    "why": "styles and architects across the city",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Case Study Houses",
+    "url": "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "why": "1945-66 modern housing programme",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Googie architecture",
+    "url": "https://en.wikipedia.org/wiki/Googie_architecture",
+    "why": "Space Age roadside style from Southern California",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Los Angeles Conservancy",
+    "url": "https://en.wikipedia.org/wiki/Los_Angeles_Conservancy",
+    "why": "preservation of LA's historic buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "stahl-house",
+   "eames-house",
+   "case-study-house-21-bailey-house",
+   "schindler-house",
+   "hollyhock-house",
+   "walt-disney-concert-hall"
+  ],
+  "notes": {
+   "key_buildings_sources": {
+    "stahl-house": "Case_Study_Houses",
+    "eames-house": "Case_Study_Houses",
+    "case-study-house-21-bailey-house": "Case_Study_Houses (Walter Bailey House No. 21)",
+    "schindler-house": "Schindler_House",
+    "hollyhock-house": "Hollyhock_House",
+    "walt-disney-concert-hall": "Walt_Disney_Concert_Hall, Architecture_of_Los_Angeles"
+   },
+   "thin": "Only Wikipedia reachable. Architecture_of_Los_Angeles is short; Googie link is about a style rather than the city.",
+   "dropped": [
+    {
+     "url": "https://www.laconservancy.org/learn/",
+     "reason": "WebFetch could not resolve the host (getaddrinfo ENOTFOUND); only en.wikipedia.org was reachable"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "adaptive-reuse",
+  "facts": [
+   {
+    "claim": "Adaptive reuse means giving an existing building a new purpose.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "Reuse of an existing building for a new purpose."
+   },
+   {
+    "claim": "Old buildings can be treated as a source of materials for new projects.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "mine of raw materials for new projects"
+   },
+   {
+    "claim": "Demolition is a real cost that reuse can avoid.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "Demolition costs may range from 5% to 10% of the total cost of new construction."
+   },
+   {
+    "claim": "Reuse keeps the embodied energy of the original building.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "A significant environmental benefit of reusing built assets is the retention of the original buildings."
+   },
+   {
+    "claim": "Old buildings also link communities to their past.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "old buildings physically link us to our past"
+   },
+   {
+    "claim": "Typical hurdles are the structure and building-code compliance.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "structural integrity issues, compliance with building code regulations"
+   },
+   {
+    "claim": "A condition survey decides whether a reuse project works.",
+    "source": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "quote": "building condition assessment is critical to the success of an adaptive reuse project"
+   },
+   {
+    "claim": "Tate Modern is a gallery in a converted power station, opened in 2000.",
+    "source": "https://en.wikipedia.org/wiki/Tate_Modern",
+    "quote": "since 2000 Tate Modern has occupied the converted former Bankside Power Station"
+   },
+   {
+    "claim": "The Musée d'Orsay occupies a former railway station and opened in 1986.",
+    "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Orsay",
+    "quote": "is housed in the former Gare d'Orsay, a Beaux-Arts railway station built from 1898 to 1900"
+   },
+   {
+    "claim": "The High Line is a park on a former elevated railway spur, opened 2009.",
+    "source": "https://en.wikipedia.org/wiki/High_Line",
+    "quote": "created on a former New York Central Railroad spur"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Adaptive reuse",
+    "url": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "why": "definition, drivers, benefits, problems, many examples",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Historic preservation",
+    "url": "https://en.wikipedia.org/wiki/Historic_preservation",
+    "why": "the wider field of keeping old buildings",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Adaptive reuse (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Adaptive_reuse",
+    "why": "free photos of converted buildings",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "tate-modern",
+   "high-line",
+   "hyde-park-barracks-sydney",
+   "musee-d-orsay",
+   "zeitz-mocaa",
+   "sesc-pompeia"
+  ],
+  "notes": {
+   "key_buildings_note": "Adaptive_reuse page names Tate Modern (as Bankside Power Station), High Line, Hyde Park Barracks (Sydney). Musee d'Orsay, Zeitz MOCAA (converted grain silo) and SESC Pompeia (converted factory) are confirmed by their own Wikipedia pages.",
+   "thin": "Only one whole-subject link (Wikipedia) loaded; Britannica, Historic England, NPS, ArchDaily, Getty were unreachable from the sandbox. Add links later from a machine with web access.",
+   "dropped": [
+    {
+     "url": "britannica.com, historicengland.org.uk, getty.edu, naturallywood.com, archdaily.com, nps.gov, metmuseum.org",
+     "reason": "hostnames not reachable from the sandbox (ENOTFOUND), so not checked"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tall_timber_buildings, /Kogod_Courtyard, /Multihalle_Mannheim, /Bruder_Klaus_Field_Chapel",
+     "reason": "404"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "cantilever",
+  "facts": [
+   {
+    "claim": "A cantilever is fixed at one end and free at the other.",
+    "source": "https://en.wikipedia.org/wiki/Cantilever",
+    "quote": "firmly attached to a fixed structure at one end and is unsupported at the other end"
+   },
+   {
+    "claim": "Cantilevers allow overhangs with no support underneath.",
+    "source": "https://en.wikipedia.org/wiki/Cantilever",
+    "quote": "Cantilever construction allows overhanging structures without external support."
+   },
+   {
+    "claim": "In timber-framed buildings, a cantilevered upper floor is called a jetty.",
+    "source": "https://en.wikipedia.org/wiki/Cantilever",
+    "quote": "A cantilever in a traditionally timber framed building is called a jetty or forebay."
+   },
+   {
+    "claim": "Bridges can be built outward from both sides as paired cantilevers.",
+    "source": "https://en.wikipedia.org/wiki/Cantilever",
+    "quote": "the cantilevers are usually built as pairs"
+   },
+   {
+    "claim": "Frank Lloyd Wright used cantilevers for large balconies at Fallingwater.",
+    "source": "https://en.wikipedia.org/wiki/Cantilever",
+    "quote": "used cantilevers to project large balconies"
+   },
+   {
+    "claim": "Fallingwater's terraces are held only at one end, extending from the chimney.",
+    "source": "https://en.wikipedia.org/wiki/Fallingwater",
+    "quote": "The terraces are supported only at one end, extending outward from the house's chimney."
+   },
+   {
+    "claim": "Robie House has roofs that project from the core rather than rest on walls.",
+    "source": "https://en.wikipedia.org/wiki/Robie_House",
+    "quote": "cantilevered outward from the house's core"
+   },
+   {
+    "claim": "Busan Cinema Center is captioned as having the world's longest cantilever roof.",
+    "source": "https://en.wikipedia.org/wiki/Cantilever",
+    "quote": "with the world's longest cantilever roof"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Cantilever",
+    "url": "https://en.wikipedia.org/wiki/Cantilever",
+    "why": "definition, load behaviour, buildings, bridges, stadiums",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Structural engineering",
+    "url": "https://en.wikipedia.org/wiki/Structural_engineering",
+    "why": "how cantilevers carry load",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Cantilevers in architecture (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Cantilevers",
+    "why": "free photos of cantilevers",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "fallingwater",
+   "busan-cinema-center",
+   "fiat-tagliero-building",
+   "robie-house"
+  ],
+  "notes": {
+   "key_buildings_note": "Cantilever page names Fallingwater, Busan Cinema Center, Fiat Tagliero (Asmara); Robie House from its own page.",
+   "thin": "Only one whole-subject link loaded (Britannica unreachable). Four buildings, at the minimum.",
+   "dropped": [
+    {
+     "url": "britannica.com, historicengland.org.uk, getty.edu, naturallywood.com, archdaily.com, nps.gov, metmuseum.org",
+     "reason": "hostnames not reachable from the sandbox (ENOTFOUND), so not checked"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tall_timber_buildings, /Kogod_Courtyard, /Multihalle_Mannheim, /Bruder_Klaus_Field_Chapel",
+     "reason": "404"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "courtyard",
+  "facts": [
+   {
+    "claim": "A courtyard is an area open to the sky, often surrounded by a building.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard",
+    "quote": "circumscribed area, often surrounded by a building or complex, that is open to the sky"
+   },
+   {
+    "claim": "Courtyard houses date back to the Neolithic, around 6400-6000 BC.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard",
+    "quote": "makes its first appearance c. 6400–6000 BC"
+   },
+   {
+    "claim": "An open central court helps cool a house in warm weather.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard",
+    "quote": "an open central court can be an important aid to cooling house in warm weather"
+   },
+   {
+    "claim": "Courtyards give light, air and privacy, which people everywhere want.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard",
+    "quote": "are properties nearly universally desired in human housing"
+   },
+   {
+    "claim": "They were widely used in the ancient Middle East.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard",
+    "quote": "Courtyards were widely used in the ancient Middle East."
+   },
+   {
+    "claim": "A Roman house's open central area was called the atrium.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard",
+    "quote": "The central uncovered area in a Roman domus was referred to as an atrium."
+   },
+   {
+    "claim": "In Morocco's old towns courtyard houses are the standard form.",
+    "source": "https://en.wikipedia.org/wiki/Courtyard_house",
+    "quote": "courtyard houses have always been the standard form of housing"
+   },
+   {
+    "claim": "The Alhambra's basic palace unit was a rectangular courtyard.",
+    "source": "https://en.wikipedia.org/wiki/Alhambra",
+    "quote": "The basic unit of Nasrid palace architecture was a rectangular courtyard"
+   },
+   {
+    "claim": "Shah Mosque in Isfahan has a central courtyard ringed by four iwans.",
+    "source": "https://en.wikipedia.org/wiki/Shah_Mosque_(Isfahan)",
+    "quote": "The mosque contains a spacious rectangular courtyard in the center that is surrounded by four monumental iwan portals."
+   },
+   {
+    "claim": "Ando's Row House in Sumiyoshi brings in light through an interior courtyard.",
+    "source": "https://en.wikipedia.org/wiki/Row_House_in_Sumiyoshi",
+    "quote": "an interior courtyard with cross walkway was created"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Courtyard",
+    "url": "https://en.wikipedia.org/wiki/Courtyard",
+    "why": "definition, history, climate, world examples",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Courtyard house",
+    "url": "https://en.wikipedia.org/wiki/Courtyard_house",
+    "why": "courtyard houses across regions",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Atrium (architecture)",
+    "url": "https://en.wikipedia.org/wiki/Atrium_(architecture)",
+    "why": "the roofed relative of the courtyard",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "alhambra",
+   "salk-institute",
+   "row-house-in-sumiyoshi",
+   "shah-mosque-isfahan",
+   "kogod-courtyard-national-portrait-gallery"
+  ],
+  "notes": {
+   "key_buildings_note": "Courtyard page names the Alhambra (Court of the Lions). Salk Institute (its plaza courtyard, with Barragan's advice), Row House in Sumiyoshi, Shah Mosque and Kogod Courtyard (Wikipedia: Donald W. Reynolds Center) come from their own pages, not the overview page.",
+   "thin": "Only Wikipedia loaded; Britannica etc. unreachable. Overview pages name few wall buildings, so most key buildings rest on single-building pages.",
+   "dropped": [
+    {
+     "url": "britannica.com, historicengland.org.uk, getty.edu, naturallywood.com, archdaily.com, nps.gov, metmuseum.org",
+     "reason": "hostnames not reachable from the sandbox (ENOTFOUND), so not checked"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tall_timber_buildings, /Kogod_Courtyard, /Multihalle_Mannheim, /Bruder_Klaus_Field_Chapel",
+     "reason": "404"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "brise-soleil",
+  "facts": [
+   {
+    "claim": "A brise soleil cuts a building's heat gain by deflecting sunlight.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "reduces its heat gain by deflecting incoming sunlight"
+   },
+   {
+    "claim": "The French term means 'sun breaker'.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "lit. 'sun breaker'"
+   },
+   {
+    "claim": "It lets in low sun in morning, evening and winter.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "The system allows low-level sunlight to enter a building in the mornings, evenings and during winter"
+   },
+   {
+    "claim": "The simplest form is a horizontal projection on the sun side.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "a horizontal projection extends from the sunside facade of a building"
+   },
+   {
+    "claim": "It is most used on heavily glazed facades.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "most commonly used to prevent facades with a large amount of glass from overheating"
+   },
+   {
+    "claim": "Le Corbusier popularised patterned concrete versions, as at Chandigarh's Palace of Assembly.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "simple patterned concrete walls popularized by Le Corbusier"
+   },
+   {
+    "claim": "Calatrava designed a moving, wing-like version.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "the elaborate wing-like mechanism devised by Santiago Calatrava"
+   },
+   {
+    "claim": "Louvres can also admit low winter sun for passive heating.",
+    "source": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "quote": "to allow the low-angle winter sun to provide some passive solar heating"
+   },
+   {
+    "claim": "Institut du Monde Arabe uses motor-controlled apertures that act as a brise soleil.",
+    "source": "https://en.wikipedia.org/wiki/Institut_du_monde_arabe",
+    "quote": "240 photo-sensitive motor-controlled apertures, or shutters, which act as a sophisticated brise soleil"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Brise soleil",
+    "url": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "why": "definition, function, types, named buildings",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Brise soleil (category)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Brise_soleil",
+    "why": "free photos of brise-soleil",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Passive solar building design",
+    "url": "https://en.wikipedia.org/wiki/Passive_solar_building_design",
+    "why": "shading in climate-responsive design",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "palace-of-assembly",
+   "gustavo-capanema-palace",
+   "carpenter-center-for-the-visual-arts",
+   "milwaukee-art-museum-quadracci-pavilion",
+   "l-hemisferic",
+   "new-york-times-building",
+   "curutchet-house"
+  ],
+  "notes": {
+   "key_buildings_note": "All seven are named as examples on the Brise_soleil page. Institut du Monde Arabe (Nouvel) is not on the wall.",
+   "thin": "Only one whole-subject link loaded (other sites unreachable). The page has no history section; no source for when the term began.",
+   "dropped": [
+    {
+     "url": "britannica.com, historicengland.org.uk, getty.edu, naturallywood.com, archdaily.com, nps.gov, metmuseum.org",
+     "reason": "hostnames not reachable from the sandbox (ENOTFOUND), so not checked"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tall_timber_buildings, /Kogod_Courtyard, /Multihalle_Mannheim, /Bruder_Klaus_Field_Chapel",
+     "reason": "404"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "timber",
+  "facts": [
+   {
+    "claim": "Mass timber is a class of large engineered wood structural parts.",
+    "source": "https://en.wikipedia.org/wiki/Mass_timber",
+    "quote": "Mass timber, also known as engineered timber, is a class of large structural wood components"
+   },
+   {
+    "claim": "Cross-laminated timber panels stack layers at right angles for strength.",
+    "source": "https://en.wikipedia.org/wiki/Mass_timber",
+    "quote": "Each layer of boards is placed perpendicular to adjacent layers for increased rigidity and strength."
+   },
+   {
+    "claim": "CLT works for walls, floors and roofs.",
+    "source": "https://en.wikipedia.org/wiki/Cross-laminated_timber",
+    "quote": "CLT has many applications in construction as it can be used for walls, floors, and roofs."
+   },
+   {
+    "claim": "Mass timber buildings are built faster than steel or concrete ones.",
+    "source": "https://en.wikipedia.org/wiki/Mass_timber",
+    "quote": "MT buildings on average save 20-25% in time"
+   },
+   {
+    "claim": "They perform well in earthquakes.",
+    "source": "https://en.wikipedia.org/wiki/Mass_timber",
+    "quote": "MT built buildings perform very well in seismic events"
+   },
+   {
+    "claim": "Half-timbered building goes back to Roman times in Herculaneum.",
+    "source": "https://en.wikipedia.org/wiki/Timber_framing",
+    "quote": "The most ancient known half-timbered building is called the House of opus craticum."
+   },
+   {
+    "claim": "Mjostarnet (Norway, 2019) was the world's tallest wooden building when finished.",
+    "source": "https://en.wikipedia.org/wiki/Mj%C3%B8st%C3%A5rnet",
+    "quote": "officially the world's tallest wooden building"
+   },
+   {
+    "claim": "The Yingxian pagoda (1056) is the oldest fully wooden pagoda in China.",
+    "source": "https://en.wikipedia.org/wiki/Pagoda_of_Fogong_Temple",
+    "quote": "the oldest existent fully wooden pagoda still standing in China"
+   },
+   {
+    "claim": "Ise Grand Shrine is traditionally rebuilt every 20 years in cypress.",
+    "source": "https://en.wikipedia.org/wiki/Ise_Grand_Shrine",
+    "quote": "has been traditionally rebuilt every 20 years"
+   },
+   {
+    "claim": "Metropol Parasol is marketed as the world's largest wooden structure.",
+    "source": "https://en.wikipedia.org/wiki/Metropol_Parasol",
+    "quote": "marketed as the world's largest wooden structure"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Mass timber",
+    "url": "https://en.wikipedia.org/wiki/Mass_timber",
+    "why": "engineered timber, CLT, benefits, tall timber",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Cross-laminated timber",
+    "url": "https://en.wikipedia.org/wiki/Cross-laminated_timber",
+    "why": "how CLT works and where it began",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Timber framing",
+    "url": "https://en.wikipedia.org/wiki/Timber_framing",
+    "why": "traditional timber and half-timbered building",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "mjostarnet",
+   "ise-grand-shrine",
+   "pagoda-of-fogong-temple",
+   "metropol-parasol",
+   "centre-pompidou-metz",
+   "multihalle-mannheim"
+  ],
+  "notes": {
+   "key_buildings_note": "Each is confirmed by its own Wikipedia page (Mjostarnet, Fogong pagoda, Ise, Metropol Parasol, Centre Pompidou-Metz: 'sixteen kilometres of glued laminated timber'). The Mass_timber page names Mjostarnet. Multihalle Mannheim (timber gridshell) is not source-checked: its Wikipedia page 404ed and the Frei Otto page only lists it.",
+   "thin": "No site other than Wikipedia was reachable. Treat Multihalle as unchecked.",
+   "dropped": [
+    {
+     "url": "britannica.com, historicengland.org.uk, getty.edu, naturallywood.com, archdaily.com, nps.gov, metmuseum.org",
+     "reason": "hostnames not reachable from the sandbox (ENOTFOUND), so not checked"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tall_timber_buildings, /Kogod_Courtyard, /Multihalle_Mannheim, /Bruder_Klaus_Field_Chapel",
+     "reason": "404"
+    }
+   ]
+  }
+ },
+ {
+  "slug": "tensile-structures",
+  "facts": [
+   {
+    "claim": "A tensile structure carries only tension, no compression or bending.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "a construction of elements carrying only tension and no compression or bending"
+   },
+   {
+    "claim": "It is not the same as tensegrity.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "The term tensile should not be confused with tensegrity"
+   },
+   {
+    "claim": "Vladimir Shukhov was an early pioneer of the calculations.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "one of the first to develop practical calculations of stresses and deformations of tensile structures"
+   },
+   {
+    "claim": "Frei Otto championed the idea; his first use was the West German pavilion at Expo 67.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "whose first use of the idea was in the construction of the West German pavilion at Expo 67"
+   },
+   {
+    "claim": "Otto then used it for the Munich Olympic Stadium roof (1972).",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "Otto next used the idea for the roof of the Olympic Stadium."
+   },
+   {
+    "claim": "Such structures are mostly roofs because they span long distances economically.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "most often used as a roof, as they can economically and attractively span large distances"
+   },
+   {
+    "claim": "Common fabrics are PTFE-coated fibreglass and PVC-coated polyester.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "Common materials for doubly curved fabric structures are PTFE-coated fiberglass and PVC-coated polyester"
+   },
+   {
+    "claim": "Some use ETFE film as single layers or cushions.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "Other structures make use of ETFE film, either as single layer or in cushion form"
+   },
+   {
+    "claim": "Pretensioning keeps flexible elements stiff under load.",
+    "source": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "quote": "to ensure that the normally very flexible structural elements remain stiff under all possible loads"
+   },
+   {
+    "claim": "Otto founded the Institute for Lightweight Structures in Stuttgart in 1964.",
+    "source": "https://en.wikipedia.org/wiki/Frei_Otto",
+    "quote": "Otto founded the Institute for Lightweight Structures"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Tensile structure",
+    "url": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "why": "definition, history, materials, examples",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Fabric structure",
+    "url": "https://en.wikipedia.org/wiki/Fabric_structure",
+    "why": "fabric and membrane roofs (page loads; not read in full)",
+    "checked": "2026-10-20"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Frei Otto",
+    "url": "https://en.wikipedia.org/wiki/Frei_Otto",
+    "why": "the pioneer of lightweight tensile structures",
+    "checked": "2026-10-20"
+   }
+  ],
+  "key_buildings_on_wall": [
+   "munich-olympic-stadium",
+   "yoyogi-national-gymnasium",
+   "khan-shatyr-entertainment-center",
+   "millennium-dome",
+   "ingalls-rink",
+   "j-s-dorton-arena",
+   "sidney-myer-music-bowl",
+   "multihalle-mannheim"
+  ],
+  "notes": {
+   "key_buildings_note": "All named as examples on Tensile_structure page except Multihalle Mannheim, named on Frei_Otto page.",
+   "thin": "Fabric structure page only checked for loading, not quotes.",
+   "dropped": [
+    {
+     "url": "britannica.com, historicengland.org.uk, getty.edu, naturallywood.com, archdaily.com, nps.gov, metmuseum.org",
+     "reason": "hostnames not reachable from the sandbox (ENOTFOUND), so not checked"
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Tall_timber_buildings, /Kogod_Courtyard, /Multihalle_Mannheim, /Bruder_Klaus_Field_Chapel",
+     "reason": "404"
+    }
+   ]
+  }
+ }
+]
