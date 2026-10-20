@@ -1,13 +1,13 @@
 [
  {
   "name": "Arthur Erickson",
-  "status": "found",
+  "status": "none",
   "wikidata": "",
   "file": "File:Picture 050.jpg",
   "license": "",
   "author": "",
   "evidence": "",
-  "note": "Wikipedia's infobox photo is a local en.wikipedia fair-use file (not on Commons), so it cannot be used. Commons category and Commons search show no portrait of him. Possible lead for a reviewer: File:Picture 050.jpg is in Category:Arthur Erickson (CC BY-SA 2.5, 800x600, 2003) but has no description saying what it shows, so not claimed. | for eye check: no description"
+  "note": "Wikipedia's infobox photo is a local en.wikipedia fair-use file (not on Commons), so it cannot be used. Commons category and Commons search show no portrait of him. Possible lead for a reviewer: File:Picture 050.jpg is in Category:Arthur Erickson (CC BY-SA 2.5, 800x600, 2003) but has no description saying what it shows, so not claimed. | for eye check: no description | rejected by eye 20 Oct: a building, not a person"
  },
  {
   "name": "Artur Tarkhanyan",
@@ -81,13 +81,13 @@
  },
  {
   "name": "Henry N. Cobb",
-  "status": "found",
+  "status": "none",
   "wikidata": "",
   "file": "File:Henry Cobb (1).jpg",
   "license": "",
   "author": "",
   "evidence": "",
-  "note": "Candidate for reviewer, not claimed: File:Henry Cobb (1).jpg (CC BY-SA 4.0, 3630x5445, by GSAPPstudent / C. J. Wang; Columbia GSAPP lecture 'Anamnesis' by Henry N. Cobb with a response by Laurie Hawkinson). Page does not formally say who is pictured (no 'depicts'), and Hawkinson also spoke, so identity unconfirmed. Look at it by eye before use. Evidence: https://commons.wikimedia.org/wiki/File:Henry_Cobb_(1).jpg | for eye check: may show Laurie Hawkinson"
+  "note": "Candidate for reviewer, not claimed: File:Henry Cobb (1).jpg (CC BY-SA 4.0, 3630x5445, by GSAPPstudent / C. J. Wang; Columbia GSAPP lecture 'Anamnesis' by Henry N. Cobb with a response by Laurie Hawkinson). Page does not formally say who is pictured (no 'depicts'), and Hawkinson also spoke, so identity unconfirmed. Look at it by eye before use. Evidence: https://commons.wikimedia.org/wiki/File:Henry_Cobb_(1).jpg | for eye check: may show Laurie Hawkinson | rejected by eye 20 Oct: a lecture scene, face not clear"
  },
  {
   "name": "Hiroshi Hara",

@@ -1,2 +1,2 @@
-python -u tools/portrait_sheet.py tools/portraits_found_r4.json
-Portrait candidates for architect pages (4 to check by eye).
+python -u tools/fetch_portraits.py
+Add the hand-checked portraits of Juan O'Gorman and Mario Pani.
