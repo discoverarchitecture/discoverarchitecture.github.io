@@ -1,0 +1,950 @@
+[
+ {
+  "id": "guangzhou-library",
+  "drop": [
+   1
+  ],
+  "why": "night"
+ },
+ {
+  "id": "capital-museum-beijing",
+  "drop": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "why": "museum objects/people, not building"
+ },
+ {
+  "id": "wuhan-railway-station",
+  "drop": [
+   6,
+   7
+  ],
+  "why": "map diagram; car display"
+ },
+ {
+  "id": "hong-kong-convention-and-exhibition-centre",
+  "drop": [
+   2,
+   5
+  ],
+  "why": "crowd event; trade show booth"
+ },
+ {
+  "id": "hong-kong-central-library",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "people viewing exhibits"
+ },
+ {
+  "id": "shanghai-astronomy-museum",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "exhibit displays/people"
+ },
+ {
+  "id": "run-run-shaw-creative-media-centre",
+  "drop": [
+   3
+  ],
+  "why": "empty ground, not building"
+ },
+ {
+  "id": "shekou-cruise-center",
+  "drop": [
+   4
+  ],
+  "why": "ship"
+ },
+ {
+  "id": "bund-finance-center",
+  "drop": [
+   2
+  ],
+  "why": "objects on table"
+ },
+ {
+  "id": "hsbc-building-shanghai",
+  "drop": [
+   3
+  ],
+  "why": "near-duplicate of 2"
+ },
+ {
+  "id": "kaohsiung-main-public-library",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "people groups"
+ },
+ {
+  "id": "rockbund-art-museum",
+  "drop": [
+   2,
+   3,
+   5
+  ],
+  "why": "artwork, plaque, poster"
+ },
+ {
+  "id": "tianjin-grand-theatre",
+  "drop": [
+   2
+  ],
+  "why": "sculpture, building incidental"
+ },
+ {
+  "id": "guangdong-museum",
+  "drop": [
+   3
+  ],
+  "why": "near-duplicate"
+ },
+ {
+  "id": "presidential-office-building-taipei",
+  "drop": [
+   2,
+   5
+  ],
+  "why": "military vehicle; people meeting"
+ },
+ {
+  "id": "red-house-theater-taipei",
+  "drop": [
+   1,
+   4,
+   5
+  ],
+  "why": "hydrant sign, vending machine, plaque"
+ },
+ {
+  "id": "bank-of-china-building-shanghai",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "night"
+ },
+ {
+  "id": "sea-world-culture-and-arts-center",
+  "drop": [
+   1,
+   3,
+   5
+  ],
+  "why": "statue, ship, people at statue"
+ },
+ {
+  "id": "jinwan-arts-center",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "night"
+ },
+ {
+  "id": "broadway-mansions-shanghai",
+  "drop": [
+   2,
+   4,
+   5
+  ],
+  "why": "night"
+ },
+ {
+  "id": "bug-dome",
+  "drop": [
+   3
+  ],
+  "why": "night"
+ },
+ {
+  "id": "museum-of-the-communist-party-of-china",
+  "drop": [
+   1,
+   2,
+   4
+  ],
+  "why": "political event, exhibit with people, mural"
+ },
+ {
+  "id": "mercedes-benz-arena-shanghai",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "concert crowds"
+ },
+ {
+  "id": "chengdu-museum",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "museum objects"
+ },
+ {
+  "id": "olympic-park-observation-tower",
+  "drop": [
+   3,
+   5
+  ],
+  "why": "flowers; aerial city view"
+ },
+ {
+  "id": "tainan-main-public-library",
+  "drop": [
+   4
+  ],
+  "why": "people seminar"
+ },
+ {
+  "id": "sullivan-center-chicago",
+  "drop": [
+   3
+  ],
+  "why": "ornament object"
+ },
+ {
+  "id": "bp-pedestrian-bridge",
+  "drop": [
+   5
+  ],
+  "why": "near-duplicate of 0"
+ },
+ {
+  "id": "coonley-house-riverside",
+  "drop": [
+   4
+  ],
+  "why": "colour palette graphic"
+ },
+ {
+  "id": "meyer-may-house",
+  "drop": [
+   3
+  ],
+  "why": "historical marker sign"
+ },
+ {
+  "id": "minneapolis-central-library",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "statue"
+ },
+ {
+  "id": "kemper-arena",
+  "drop": [
+   2,
+   3
+  ],
+  "why": "political event; collage"
+ },
+ {
+  "id": "akron-art-museum-knight-building",
+  "drop": [
+   4
+  ],
+  "why": "night"
+ },
+ {
+  "id": "houston-astrodome",
+  "drop": [
+   2,
+   5
+  ],
+  "why": "marching bands event; crowd on cots"
+ },
+ {
+  "id": "blanton-museum-of-art",
+  "drop": [
+   7
+  ],
+  "why": "old master drawing"
+ },
+ {
+  "id": "tower-of-the-americas",
+  "drop": [
+   3,
+   5
+  ],
+  "why": "night; people in tents"
+ },
+ {
+  "id": "bass-performance-hall",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "portrait of woman; night"
+ },
+ {
+  "id": "gerald-d-hines-waterwall-park",
+  "drop": [
+   3,
+   5
+  ],
+  "why": "night; plaque"
+ },
+ {
+  "id": "oklahoma-state-capitol",
+  "drop": [
+   5
+  ],
+  "why": "night"
+ },
+ {
+  "id": "wortham-theater-center",
+  "drop": [
+   3
+  ],
+  "why": "dark sign"
+ },
+ {
+  "id": "bok-center",
+  "drop": [
+   2,
+   3,
+   4
+  ],
+  "why": "concert sign, band, performer"
+ },
+ {
+  "id": "first-americans-museum",
+  "drop": [
+   3
+  ],
+  "why": "crowd"
+ },
+ {
+  "id": "salvador-dali-museum",
+  "drop": [
+   3
+  ],
+  "why": "near-duplicate"
+ },
+ {
+  "id": "freedom-tower-miami",
+  "drop": [
+   2
+  ],
+  "why": "night"
+ },
+ {
+  "id": "vizcaya-museum-and-gardens",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "cabinet object; typed document"
+ },
+ {
+  "id": "nasher-museum-of-art",
+  "drop": [
+   2,
+   3
+  ],
+  "why": "portrait; painting"
+ },
+ {
+  "id": "biltmore-house",
+  "drop": [
+   5
+  ],
+  "why": "meadow, no building"
+ },
+ {
+  "id": "dr-phillips-center",
+  "drop": [
+   3
+  ],
+  "why": "poster wall"
+ },
+ {
+  "id": "schermerhorn-symphony-center",
+  "drop": [
+   2,
+   4,
+   5
+  ],
+  "why": "night"
+ },
+ {
+  "id": "memphis-pyramid",
+  "drop": [
+   2
+  ],
+  "why": "near-duplicate"
+ },
+ {
+  "id": "tennessee-aquarium",
+  "drop": [
+   3,
+   5
+  ],
+  "why": "animal; person at river"
+ },
+ {
+  "id": "country-music-hall-of-fame",
+  "drop": [
+   1,
+   2,
+   3,
+   6
+  ],
+  "why": "museum objects"
+ },
+ {
+  "id": "perez-art-museum-miami",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "meeting room with person; sculpture with person"
+ },
+ {
+  "id": "bechtler-museum-of-modern-art",
+  "drop": [
+   3
+  ],
+  "why": "night"
+ },
+ {
+  "id": "vehicle-assembly-building",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "cars inside"
+ },
+ {
+  "id": "milwaukee-county-war-memorial-center",
+  "drop": [
+   5
+  ],
+  "why": "statue"
+ },
+ {
+  "id": "marcus-center-for-the-performing-arts",
+  "drop": [
+   3,
+   5
+  ],
+  "why": "saxophonist; street scene"
+ },
+ {
+  "id": "chapel-of-the-resurrection-valparaiso",
+  "drop": [
+   2
+  ],
+  "why": "autumn leaves"
+ },
+ {
+  "id": "joslyn-art-museum",
+  "drop": [
+   6
+  ],
+  "why": "painting"
+ },
+ {
+  "id": "melk-abbey",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "wall fountain objects"
+ },
+ {
+  "id": "heilig-kreuz-frankfurt",
+  "drop": [
+   1,
+   4
+  ],
+  "why": "crucifix object; concert crowd"
+ },
+ {
+  "id": "karlskirche-vienna",
+  "drop": [
+   4
+  ],
+  "why": "reliquary objects"
+ },
+ {
+  "id": "solarsiedlung-freiburg",
+  "drop": [
+   1
+  ],
+  "why": "portrait of man"
+ },
+ {
+  "id": "bauhaus-museum-weimar",
+  "drop": [
+   3,
+   4,
+   6
+  ],
+  "why": "night; wall sign; teapot object"
+ },
+ {
+  "id": "stuttgart-hauptbahnhof",
+  "drop": [
+   6
+  ],
+  "why": "map"
+ },
+ {
+  "id": "yenidze-dresden",
+  "drop": [
+   5
+  ],
+  "why": "evacuation plan sign"
+ },
+ {
+  "id": "kunstmuseum-wolfsburg",
+  "drop": [
+   2
+  ],
+  "why": "night"
+ },
+ {
+  "id": "universum-bremen",
+  "drop": [
+   5
+  ],
+  "why": "near-duplicate aerial"
+ },
+ {
+  "id": "schaubuehne-berlin",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "night; portrait of actor"
+ },
+ {
+  "id": "hfg-ulm",
+  "drop": [
+   3,
+   5,
+   6
+  ],
+  "why": "Munich Olympic stadium sign (other building); clock object; aircraft model"
+ },
+ {
+  "id": "beethovenhalle-bonn",
+  "drop": [
+   3,
+   6
+  ],
+  "why": "map sign; stamp sheet"
+ },
+ {
+  "id": "st-jakob-park-basel",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "match crowds"
+ },
+ {
+  "id": "mumok-vienna",
+  "drop": [
+   5,
+   6
+  ],
+  "why": "sculpture; model object"
+ },
+ {
+  "id": "hangar-7-salzburg",
+  "drop": [
+   1,
+   2,
+   3,
+   5
+  ],
+  "why": "aircraft and exhibit objects"
+ },
+ {
+  "id": "zeiss-planetarium-jena",
+  "drop": [
+   5
+  ],
+  "why": "statue"
+ },
+ {
+  "id": "hans-sachs-haus-gelsenkirchen",
+  "drop": [
+   3
+  ],
+  "why": "night"
+ },
+ {
+  "id": "baumgarten-bau-karlsruhe",
+  "drop": [
+   5,
+   6
+  ],
+  "why": "court hearings with people"
+ },
+ {
+  "id": "olympiastadion-berlin",
+  "drop": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "why": "sign; manhole cover; seating plan; green object"
+ },
+ {
+  "id": "lenbachhaus-munich",
+  "drop": [
+   5
+  ],
+  "why": "person presenting artwork"
+ },
+ {
+  "id": "rheinturm-duesseldorf",
+  "drop": [
+   2,
+   6
+  ],
+  "why": "crowd at river; souvenir/object"
+ },
+ {
+  "id": "tycho-brahe-planetarium",
+  "drop": [
+   5,
+   6
+  ],
+  "why": "lake only; space shuttle model"
+ },
+ {
+  "id": "esbjerg-performing-arts-centre",
+  "drop": [
+   1,
+   3
+  ],
+  "why": "leaves on water; near-duplicate ducks"
+ },
+ {
+  "id": "stockholm-court-house",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "group photo; person in court"
+ },
+ {
+  "id": "rohsska-museum",
+  "drop": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "why": "paintings and textile objects"
+ },
+ {
+  "id": "wenner-gren-center",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "sculpture; street scene"
+ },
+ {
+  "id": "immanuel-church",
+  "drop": [
+   3
+  ],
+  "why": "relief artwork"
+ },
+ {
+  "id": "valhalla-swimming-hall",
+  "drop": [
+   3
+  ],
+  "why": "sign letters only"
+ },
+ {
+  "id": "stavanger-konserthus",
+  "drop": [
+   1
+  ],
+  "why": "concert with performers"
+ },
+ {
+  "id": "chateau-neuf",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "memorial from a French chateau (wrong place); sign"
+ },
+ {
+  "id": "porthania",
+  "drop": [
+   2,
+   3
+  ],
+  "why": "protest crowd"
+ },
+ {
+  "id": "museum-of-central-finland",
+  "drop": [
+   3
+  ],
+  "why": "different building (yellow house)"
+ },
+ {
+  "id": "jyvaskyla-city-theatre",
+  "drop": [
+   1
+  ],
+  "why": "actors, people"
+ },
+ {
+  "id": "nakkila-church",
+  "drop": [
+   1
+  ],
+  "why": "memorial monument"
+ },
+ {
+  "id": "finnish-state-guesthouse",
+  "drop": [
+   2
+  ],
+  "why": "cannon in snow"
+ },
+ {
+  "id": "ympyratalo",
+  "drop": [
+   2
+  ],
+  "why": "marina view, building incidental"
+ },
+ {
+  "id": "sibelius-museum",
+  "drop": [
+   1,
+   4,
+   5
+  ],
+  "why": "piano object; post-it notes; papers on table"
+ },
+ {
+  "id": "finnish-national-theatre",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "food and wine; silhouette of person"
+ },
+ {
+  "id": "uspenski-cathedral",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "ferris wheel is the subject"
+ },
+ {
+  "id": "tampere-hall",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "cosplayers"
+ },
+ {
+  "id": "ateneum",
+  "drop": [
+   1,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "why": "person on phone; night; art glass object; statue; portrait drawing; group photo"
+ },
+ {
+  "id": "espoo-cultural-centre",
+  "drop": [
+   1,
+   4,
+   5
+  ],
+  "why": "night; person in blue light; people in exhibit"
+ },
+ {
+  "id": "vyborg-library",
+  "drop": [
+   5
+  ],
+  "why": "radiator"
+ },
+ {
+  "id": "national-theatre-of-iceland",
+  "drop": [
+   3
+  ],
+  "why": "mountain landscape"
+ },
+ {
+  "id": "arktikum",
+  "drop": [
+   2,
+   3
+  ],
+  "why": "near-duplicate; stuffed bear with children"
+ },
+ {
+  "id": "portcullis-house-london",
+  "drop": [
+   3,
+   4
+  ],
+  "why": "river view, near-duplicates"
+ },
+ {
+  "id": "river-and-rowing-museum-henley",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "copper object; plaque"
+ },
+ {
+  "id": "kirklees-stadium-huddersfield",
+  "drop": [
+   1,
+   3,
+   4
+  ],
+  "why": "sculpture; empty road at dusk; river"
+ },
+ {
+  "id": "valkhof-museum-nijmegen",
+  "drop": [
+   4,
+   6
+  ],
+  "why": "exhibit case; model object"
+ },
+ {
+  "id": "whitechapel-gallery-london",
+  "drop": [
+   3
+  ],
+  "why": "people at screen"
+ },
+ {
+  "id": "bracken-house-london",
+  "drop": [
+   1
+  ],
+  "why": "name plaque"
+ },
+ {
+  "id": "council-house-perth",
+  "drop": [
+   3,
+   4,
+   5
+  ],
+  "why": "cathedral next door and houses, different buildings"
+ },
+ {
+  "id": "sydney-harbour-bridge",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "ship; crowd of climbers"
+ },
+ {
+  "id": "wellington-cathedral-of-st-paul",
+  "drop": [
+   3,
+   4,
+   5
+  ],
+  "why": "plaque; ceremonies with people"
+ },
+ {
+  "id": "brisbane-city-hall",
+  "drop": [
+   2,
+   3
+  ],
+  "why": "man selfie; poster"
+ },
+ {
+  "id": "public-transport-centre-perth",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "plaque; train"
+ },
+ {
+  "id": "telstra-tower-canberra",
+  "drop": [
+   4,
+   5
+  ],
+  "why": "aerial cloud and lake views, tower not visible"
+ },
+ {
+  "id": "hannah-playhouse-wellington",
+  "drop": [
+   2,
+   3,
+   4
+  ],
+  "why": "stage performance; people group; night aerial"
+ },
+ {
+  "id": "puaka-james-hight-building",
+  "drop": [
+   3
+  ],
+  "why": "plaque"
+ },
+ {
+  "id": "old-parliament-house-canberra",
+  "drop": [
+   1,
+   2
+  ],
+  "why": "tent embassy stall; birds"
+ },
+ {
+  "id": "hyde-park-barracks-sydney",
+  "drop": [
+   2
+  ],
+  "why": "night"
+ },
+ {
+  "id": "gladesville-bridge-sydney",
+  "drop": [
+   4
+  ],
+  "why": "hazy cityscape, bridge not visible"
+ }
+]
