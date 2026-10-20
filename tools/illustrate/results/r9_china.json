@@ -1,0 +1,2191 @@
+[
+ {
+  "id": "guangzhou-library",
+  "name": "Guangzhou Library",
+  "by": "Nikken Sekkei",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Stacked, cascading 'book' forms on the facade; the design concept is 'Beautiful Books'.",
+  "status": "photo",
+  "commons_category": "Category:Guangzhou_Library",
+  "photos": [
+   {
+    "file": "File:Guangzhou Library 02805-Guangzhou (32232744063).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guangzhou_Library",
+   "https://commons.wikimedia.org/wiki/Category:Guangzhou_Library"
+  ],
+  "note": "Wikipedia: new building opened 23 June 2013. Most other category photos are night shots, so only the daylight one is listed; it shows the main block but crops the right-hand wing."
+ },
+ {
+  "id": "capital-museum-beijing",
+  "name": "Capital Museum",
+  "by": "Jean-Marie Duthilleul, Cui Kai",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2006",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Stone-clad exterior wall meant to symbolise the city walls and towers of ancient China.",
+  "status": "photo",
+  "commons_category": "Category:Capital_Museum",
+  "photos": [
+   {
+    "file": "File:2008 Capital Museum, Beijing 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Capital Museum (20200821160736).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capital_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Capital_Museum"
+  ],
+  "note": "Wikipedia says the museum moved into its present building in 2006 (no separate completion date). A small bus and car sit in the foreground of the first photo.",
+  "coords": [
+   39.905,
+   116.336
+  ]
+ },
+ {
+  "id": "beijing-television-cultural-center",
+  "name": "Beijing Television Cultural Center (TVCC)",
+  "by": "Rem Koolhaas, Ole Scheeren (OMA)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2012",
+  "type": "Workplace",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Void"
+  ],
+  "features": "A continuous lobby gives access to a 1,500-seat theatre and public facilities under one folded volume.",
+  "status": "photo",
+  "commons_category": "Category:TVCC",
+  "photos": [
+   {
+    "file": "File:Beijing (November 2016) - 512.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TVCC (Television Cultural Center) 20260719153034.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_Television_Cultural_Center",
+   "https://commons.wikimedia.org/wiki/Category:TVCC"
+  ],
+  "note": "Opened 16 May 2012 after a 2009 fire (infobox gives 2009). Check the TVCC isn't already on the wall under another name (taken.txt has CCTV only). The first photo is a tall portrait crop; the second has part of CCTV Headquarters on the right.",
+  "coords": [
+   39.91556,
+   116.45778
+  ]
+ },
+ {
+  "id": "wuhan-railway-station",
+  "name": "Wuhan Railway Station",
+  "by": "AREP, Fourth Survey and Design Institute of China, MaP3, SNCF-IGOA",
+  "city": "Wuhan",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Nine separate parts stand for China's nine provinces; the roof takes its form from the yellow crane, Wuhan's symbol.",
+  "status": "photo",
+  "commons_category": "Category:Wuhan_Railway_Station",
+  "photos": [
+   {
+    "file": "File:Wuhan Railway Station (July 2023).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20240621 West facade of Wuhan Railway Station.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wuhan_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Wuhan_Railway_Station"
+  ],
+  "note": "Won a two-phase competition in 2005; built 2006 to December 2009. The first photo is a wide panorama (3573x1588); the second has two small figures on the forecourt.",
+  "coords": [
+   30.6101917,
+   114.4186639
+  ]
+ },
+ {
+  "id": "tainan-art-museum",
+  "name": "Tainan Art Museum",
+  "by": "Sutejiro Umezawa; Shi Zhao Yong and Shigeru Ban",
+  "city": "Tainan",
+  "cc": "TW",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Ochre-tiled Art Deco building of 1930 beside a new wing shaped after Delonix regia, the royal poinciana.",
+  "status": "photo",
+  "commons_category": "Category:Tainan_Art_Museum",
+  "photos": [
+   {
+    "file": "File:Tainan Art Museum Building 1 (台南市美術館1館）.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tainan_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Tainan_Art_Museum"
+  ],
+  "note": "Building 1 was the 1930 Tainan Police Department; the museum opened 27 January 2019. Only building 1 has a photo in the category listing I saw; building 2 (Ban) photos should be looked for in a sub-category.",
+  "coords": [
+   22.99081,
+   120.20364
+  ]
+ },
+ {
+  "id": "hong-kong-convention-and-exhibition-centre",
+  "name": "Hong Kong Convention and Exhibition Centre",
+  "by": "Skidmore, Owings & Merrill (Larry Oltmanns)",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1988",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Glass curtain wall, the world's largest when built, looking over Victoria Harbour on three sides.",
+  "status": "photo",
+  "commons_category": "Category:Hong_Kong_Convention_and_Exhibition_Centre",
+  "photos": [
+   {
+    "file": "File:HKCEC.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Convention_and_Exhibition_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Hong_Kong_Convention_and_Exhibition_Centre"
+  ],
+  "note": "Old wing 1988, Topside 1989, New Wing 1994-97 (Wikipedia). Photo is from across the harbour, daylight; a Philips sign sits on a neighbouring tower behind it.",
+  "coords": [
+   22.2836611,
+   114.1728472
+  ]
+ },
+ {
+  "id": "hong-kong-central-library",
+  "name": "Hong Kong Central Library",
+  "by": "Ho Chiu-fan",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2001",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Plan built from three shapes: the circle for sky, the square for land, the triangle for accumulated knowledge.",
+  "status": "photo",
+  "commons_category": "Category:Hong_Kong_Central_Library",
+  "photos": [
+   {
+    "file": "File:Hong Kong Central Library 2008.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Central_Library",
+   "https://commons.wikimedia.org/wiki/Category:Hong_Kong_Central_Library"
+  ],
+  "note": "Opened 17 May 2001; Wikipedia names Ho Chiu-fan, a government senior architect, with Rocco Yim's alternative design not chosen. Photo is the front facade in daylight, trees in the lower part.",
+  "coords": [
+   22.2799639,
+   114.1895278
+  ]
+ },
+ {
+  "id": "shanghai-astronomy-museum",
+  "name": "Shanghai Astronomy Museum",
+  "by": "Ennead Architects",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Void"
+  ],
+  "features": "No straight lines or right angles; the forms express some of the fundamental laws of astrophysics.",
+  "status": "photo",
+  "commons_category": "Category:Shanghai_Astronomy_Museum",
+  "photos": [
+   {
+    "file": "File:Shanghai Astronomy Museum 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Astronomy Museum 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Astronomy_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Astronomy_Museum"
+  ],
+  "note": "Opened 2021 in Lingang. The second photo has the museum's name sign in the grass in front.",
+  "coords": [
+   30.915094,
+   121.92267
+  ]
+ },
+ {
+  "id": "run-run-shaw-creative-media-centre",
+  "name": "Run Run Shaw Creative Media Centre",
+  "by": "Daniel Libeskind, Leigh & Orange",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Daniel Libeskind's building for City University of Hong Kong's creative media school, designed with Leigh & Orange.",
+  "status": "photo",
+  "commons_category": "Category:Run_Run_Shaw_Creative_Media_Centre",
+  "photos": [
+   {
+    "file": "File:Run Run Shaw Creative Media Centre.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Run_Run_Shaw_Creative_Media_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Run_Run_Shaw_Creative_Media_Centre"
+  ],
+  "note": "Opened October 2011 in Kowloon Tong; Wikipedia says the design received several awards. Wikipedia gives few design details, so the features line is modest.",
+  "coords": [
+   22.340172,
+   114.168461
+  ]
+ },
+ {
+  "id": "shekou-cruise-center",
+  "name": "Shekou Cruise Center",
+  "by": "Denis Laming",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Triangular terminal with 12 ferry berths and 2 cruise-ship berths.",
+  "status": "photo",
+  "commons_category": "Category:Shekou_Cruise_Center",
+  "photos": [
+   {
+    "file": "File:Shekou Cruise Center 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shekou_Cruise_Center",
+   "https://commons.wikimedia.org/wiki/Category:Shekou_Cruise_Center"
+  ],
+  "note": "Wikipedia: construction began 2014, new terminal due to open 1 November 2016. Photo shows the terminal from the water with two ferries in front.",
+  "coords": [
+   22.468485,
+   113.913648
+  ]
+ },
+ {
+  "id": "marisfrolg-pavilion",
+  "name": "Marisfrolg Pavilion",
+  "by": "Architecture Van Brandenburg (AVB)",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2023",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Biomimetic forms drawn from tropical plants and insect exoskeletons, clad in a mosaic of tile, brick and stone.",
+  "status": "photo",
+  "commons_category": "Category:Marisfrolg_Pavilion",
+  "photos": [
+   {
+    "file": "File:玛丝菲尔大厦2.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Marisfrolg_Pavilion",
+   "https://commons.wikimedia.org/wiki/Category:Marisfrolg_Pavilion"
+  ],
+  "note": "Construction began 2008; Wikipedia gives 2023. The photo shows the entrance side with the winged canopy rather than the whole complex, so the reviewer should confirm it works as a wall tile.",
+  "coords": [
+   22.7034,
+   113.9786
+  ]
+ },
+ {
+  "id": "new-beijing-poly-plaza",
+  "name": "New Beijing Poly Plaza",
+  "by": "Skidmore, Owings & Merrill",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Tensile structure",
+   "Facade as skin"
+  ],
+  "features": "Glass cable-net wall, called the world's largest; the lantern atrium has no support columns at the ground.",
+  "status": "photo",
+  "commons_category": "Category:New_Beijing_Poly_Plaza",
+  "photos": [
+   {
+    "file": "File:New Poly Plaza (20200425093330).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beijing New Poly Plaza.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Beijing_Poly_Plaza",
+   "https://commons.wikimedia.org/wiki/Category:New_Beijing_Poly_Plaza"
+  ],
+  "note": "Office tower, counted as one of the 'ordinary' types; reason is the record-size cable-net wall (Wikipedia).",
+  "coords": [
+   39.9316,
+   116.426
+  ]
+ },
+ {
+  "id": "bund-finance-center",
+  "name": "The Bund Finance Center",
+  "by": "Foster + Partners, Heatherwick Studio",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Three layers of gold stainless-steel tubes, inspired by Chinese theatre curtains, rotate slowly around the building.",
+  "status": "photo",
+  "commons_category": "Category:The_Bund_Finance_Center",
+  "photos": [
+   {
+    "file": "File:The Bund Finance Center in Shanghai.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fosun Art Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Bund_Finance_Center",
+   "https://commons.wikimedia.org/wiki/Category:The_Bund_Finance_Center"
+  ],
+  "note": "Wikipedia credits Foster + Partners with the design and Heatherwick as creative director; infobox year 2017. Rated 'quality' on Commons. A white car is on the road at the base of the first photo.",
+  "coords": [
+   31.2288667,
+   121.4935111
+  ]
+ },
+ {
+  "id": "hsbc-building-shanghai",
+  "name": "HSBC Building, the Bund",
+  "by": "Palmer & Turner",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1923",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Main trading hall has columns made from whole marble blocks, unusual in Asia at the time.",
+  "status": "photo",
+  "commons_category": "Category:HSBC_Building,_Shanghai",
+  "photos": [
+   {
+    "file": "File:HSBC Building, Shanghai 20250501-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/HSBC_Building,_the_Bund",
+   "https://commons.wikimedia.org/wiki/Category:HSBC_Building,_Shanghai"
+  ],
+  "note": "Built 1921-23. Counted as an 'ordinary' type (bank HQ) but a historic Bund landmark. Wikipedia's marble-columns line says unusual in Asia at the time.",
+  "coords": [
+   31.2379,
+   121.4851
+  ]
+ },
+ {
+  "id": "wukang-mansion",
+  "name": "Wukang Mansion",
+  "by": "László Hudec",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1924",
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "French Renaissance style; the oldest veranda-style apartment building in Shanghai.",
+  "status": "photo",
+  "commons_category": "Category:Wukang_Mansion",
+  "photos": [
+   {
+    "file": "File:Wukang Mansion (20191114161507).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wukang Mansion 20250504-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wukang_Mansion",
+   "https://commons.wikimedia.org/wiki/Category:Wukang_Mansion"
+  ],
+  "note": "Counted as housing (ordinary type) but a named landmark by Hudec. Street traffic and pedestrians are small in the first photo.",
+  "coords": [
+   31.2045,
+   121.4383
+  ]
+ },
+ {
+  "id": "shanghai-custom-house",
+  "name": "Custom House, Shanghai",
+  "by": "Palmer & Turner",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1927",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Four Doric columns mark the main entrance; the eastern section is eight storeys facing the Huangpu River.",
+  "status": "photo",
+  "commons_category": "Category:Customs_House,_Shanghai",
+  "photos": [
+   {
+    "file": "File:Customs House, Shanghai 20250501-1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2015 Shanghai Bund- Customs House, 1927 (center).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Custom_House,_Shanghai",
+   "https://commons.wikimedia.org/wiki/Category:Customs_House,_Shanghai"
+  ],
+  "note": "Completed 19 December 1927. The first photo is a close upward view of the facade; the second shows it in the Bund row with a few small figures.",
+  "coords": [
+   31.23889,
+   121.48333
+  ]
+ },
+ {
+  "id": "phoenix-center-beijing",
+  "name": "Phoenix Center",
+  "by": "Shao Weiping (BIAD)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Workplace",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Digital fabrication"
+  ],
+  "features": "Sculptural shape from a Mobius strip, modelled in Digital Project; it resembles a looped DNA double helix.",
+  "status": "unsure",
+  "commons_category": "Category:Phoenix_Center,_Beijing",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phoenix_Center",
+   "https://commons.wikimedia.org/wiki/Category:Phoenix_Center,_Beijing"
+  ],
+  "note": "no main photo. Candidates seen: 'Phoenix Center, Beijing 2.jpg' (CC0, clean dome end but only part of the building), 'Phoenix Center, Beijing 1.jpg' (CC0, PHOENIX sign in front), 'Phoenix Center (20241010161748).jpg' (sign and a person). Wikipedia names Shao Weiping as executive chief architect for BIAD.",
+  "coords": [
+   39.9345,
+   116.471
+  ]
+ },
+ {
+  "id": "national-speed-skating-oval",
+  "name": "National Speed Skating Oval",
+  "by": "Populous, Beijing Institute of Architectural Design",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Facade of 22 'ice ribbons', each 622 m long, around the 2022 Winter Olympics speed-skating hall.",
+  "status": "unsure",
+  "commons_category": "Category:Beijing_National_Speed_Skating_Oval",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Speed_Skating_Oval",
+   "https://commons.wikimedia.org/wiki/Category:Beijing_National_Speed_Skating_Oval"
+  ],
+  "note": "no main photo. The only file in the category I could see is a rink interior; Wikipedia's lead image is not yet looked at. Needs a ground-level daylight exterior.",
+  "coords": [
+   40.0158917,
+   116.3714139
+  ]
+ },
+ {
+  "id": "ucca-center-for-contemporary-art",
+  "name": "UCCA Center for Contemporary Art",
+  "by": "Jean-Michel Wilmotte, Qingyun Ma (renovation); OMA (2019)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Detail"
+  ],
+  "features": "Former East German factory in the 798 Art District, renovated in 2007; the spaces keep traces of their industrial past.",
+  "status": "unsure",
+  "commons_category": "Category:Ullens_Center_for_Contemporary_Art",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ullens_Center_for_Contemporary_Art",
+   "https://commons.wikimedia.org/wiki/Category:Ullens_Center_for_Contemporary_Art"
+  ],
+  "note": "no main photo. The two category photos are a close view with banners and the red UCCA letters at the entrance. Original factory designed by Dessau Design Institute architects (Wikipedia).",
+  "coords": [
+   39.989057,
+   116.48793
+  ]
+ },
+ {
+  "id": "hangzhou-olympic-sports-expo-center",
+  "name": "Hangzhou Olympic Sports Expo Center",
+  "by": "NBBJ, China Construction Design International (CCDI)",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "year": "2018",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Exterior drawn from silk texture and the Qiantang River: 28 large and 27 small petal-like steel forms.",
+  "status": "photo",
+  "commons_category": "Category:Hangzhou_Olympic_Sports_Expo_Center",
+  "photos": [
+   {
+    "file": "File:Hangzhou Olympic Sports Center Stadium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hangzhou_Olympic_Expo_Center",
+   "https://commons.wikimedia.org/wiki/Category:Hangzhou_Olympic_Sports_Expo_Center"
+  ],
+  "note": "Main stadium. The photo is daylight with a wide empty plaza and some stacked barriers in front; the stadium fills about half the width, so the reviewer should judge if it is big enough for a tile. Two other photos had crowds and were left out.",
+  "coords": [
+   30.231648,
+   120.224156
+  ]
+ },
+ {
+  "id": "taichung-main-public-library",
+  "name": "Taichung Main Public Library",
+  "by": "Kazuyo Sejima, Ryue Nishizawa (SANAA)",
+  "city": "Taichung",
+  "cc": "TW",
+  "year": "2025",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Seismic-isolated steel frame, seven floors above ground and two below, by Kazuyo Sejima and Ryue Nishizawa.",
+  "status": "photo",
+  "commons_category": "Category:Taichung_Main_Library",
+  "photos": [
+   {
+    "file": "File:Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taichung_Main_Public_Library",
+   "https://commons.wikimedia.org/wiki/Category:Taichung_Main_Library"
+  ],
+  "note": "Wikipedia says the new building began trial operation on 28 October 2025, so the year is the opening year. Check the wall doesn't already hold it under 'Taichung Green Museumbrary'.",
+  "coords": [
+   24.193039,
+   120.654567
+  ]
+ },
+ {
+  "id": "kaohsiung-main-public-library",
+  "name": "Kaohsiung Main Public Library",
+  "by": "Ricky Liu, with Toyo Ito's team",
+  "city": "Kaohsiung",
+  "cc": "TW",
+  "year": "2014",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Free plan",
+   "Planting"
+  ],
+  "features": "Called the world's first column-suspended green building: no interior columns and a subtropical rooftop garden.",
+  "status": "photo",
+  "commons_category": "Category:Kaohsiung_Main_Library",
+  "photos": [
+   {
+    "file": "File:高雄總圖書館(正面).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kaohsiung Main Public Library 20150103.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kaohsiung_Main_Public_Library",
+   "https://commons.wikimedia.org/wiki/Category:Kaohsiung_Main_Library"
+  ],
+  "note": "Opened to the public November 2014; Phase II tower 2020 (Wikipedia). Wikipedia names 'Ricky Liu and the team of Japanese architect Toyo Ito'. The second photo has a few people at the base.",
+  "coords": [
+   22.6102,
+   120.3018
+  ]
+ },
+ {
+  "id": "rockbund-art-museum",
+  "name": "Rockbund Art Museum",
+  "by": "Palmer and Turner (1933); David Chipperfield (restoration)",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1933",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Chipperfield's restoration kept the original 1932 street facade and a minimalist approach.",
+  "status": "photo",
+  "commons_category": "Category:Rockbund_Art_Museum",
+  "photos": [
+   {
+    "file": "File:RAM building.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rockbund_Art_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Rockbund_Art_Museum"
+  ],
+  "note": "Original building 1932-33; Wikipedia gives Chipperfield's restoration as beginning in 2007 and no completion date for it. Photo is a tall daylight view of the whole facade.",
+  "coords": [
+   31.243,
+   121.4843
+  ]
+ },
+ {
+  "id": "digital-beijing-building",
+  "name": "Digital Beijing Building",
+  "by": "Pei Zhu (Studio Pei-Zhu)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Geometry"
+  ],
+  "features": "Solid and void alternate like 0 and 1; the ends suggest a barcode, the long faces a circuit board.",
+  "status": "photo",
+  "commons_category": "Category:Digital_Beijing_Building",
+  "photos": [
+   {
+    "file": "File:Digital Beijing Building 20160827.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Digital_Beijing_Building",
+   "https://commons.wikimedia.org/wiki/Category:Digital_Beijing_Building"
+  ],
+  "note": "Opened 3 November 2007. Photo taken through a car window; a few cars at the right edge. Another photo had a red bus in front and was left out.",
+  "coords": [
+   39.99396,
+   116.38173
+  ]
+ },
+ {
+  "id": "beijing-national-indoor-stadium",
+  "name": "Beijing National Indoor Stadium",
+  "by": "Glöckner³ with Beijing Institute of Architectural Design",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Form likened to a traditional Chinese folding fan, hence the nickname 'the Fan'.",
+  "status": "photo",
+  "commons_category": "Category:Beijing National Indoor Stadium",
+  "photos": [
+   {
+    "file": "File:Beijing National Indoor Stadium 2019 2.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_National_Indoor_Stadium",
+   "https://commons.wikimedia.org/wiki/Category:Beijing National Indoor Stadium"
+  ],
+  "note": "Opened 26 November 2007. Wikipedia credits Glöckner³ (won the Oct 2003 competition) with BIAD; its infobox lists two Beijing institutes. Rated 'valued' on Commons. Photo is an elevated daylight view in light haze.",
+  "coords": [
+   39.9947806,
+   116.3839583
+  ]
+ },
+ {
+  "id": "chung-tai-chan-monastery",
+  "name": "Chung Tai Chan Monastery",
+  "by": "C. Y. Lee",
+  "city": "Puli",
+  "cc": "TW",
+  "year": "2001",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "A 136 m tall mountain monastery in a deliberately modern idiom, among the tallest and largest in the world.",
+  "status": "photo",
+  "commons_category": "Category:Chung_Tai_Chan_Monastery",
+  "photos": [
+   {
+    "file": "File:Remote view of the Chung Tai Chan Monastery 20190811.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:台湾 中台禅寺 - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chung_Tai_Chan_Monastery",
+   "https://commons.wikimedia.org/wiki/Category:Chung_Tai_Chan_Monastery"
+  ],
+  "note": "Wikipedia: 'widely admired as an architectural masterpiece' for its more modern look. The lead photo is a hazy view from a distance; the second shows only the main tower behind trees.",
+  "coords": [
+   24.009139,
+   120.944583
+  ]
+ },
+ {
+  "id": "tianjin-grand-theatre",
+  "name": "Tianjin Grand Theatre",
+  "by": "Gerkan, Marg and Partners (gmp), East China Architectural Design & Research Institute",
+  "city": "Tianjin",
+  "cc": "CN",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Round theatre raised above a man-made lake; the round shape refers to the concept of heaven.",
+  "status": "photo",
+  "commons_category": "Category:Tianjin_Grand_Theatre",
+  "photos": [
+   {
+    "file": "File:China Tianjin 5227691.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tianjin_Grand_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Tianjin_Grand_Theatre"
+  ],
+  "note": "Completed and opened 22 April 2012. Rated 'quality' on Commons. One small person with an umbrella sits at the lakeside in the foreground."
+ },
+ {
+  "id": "taipei-guest-house",
+  "name": "Taipei Guest House",
+  "by": "Dōgo Fukuda, Ichiro Nomura (rebuilt by Matsunosuke Moriyama, 1911)",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1901",
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Concave plan with a Mansard roof and tall Roman pillars, in the manner of French Second Empire palaces.",
+  "status": "photo",
+  "commons_category": "Category:Taipei_Guest_House",
+  "photos": [
+   {
+    "file": "File:Taipei Guest House 20140926.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taipei Guest House Front Side.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taipei_Guest_House",
+   "https://commons.wikimedia.org/wiki/Category:Taipei_Guest_House"
+  ],
+  "note": "Completed 26 September 1901 (Wikipedia). The first photo is a view from above through the garden trees; the building is about 40 percent of the width.",
+  "coords": [
+   25.0401,
+   121.5166
+  ]
+ },
+ {
+  "id": "guangdong-museum",
+  "name": "Guangdong Museum",
+  "by": "Rocco Design Architects (Rocco Yim)",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "year": "2010",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Circulation"
+  ],
+  "features": "Inspired by the Cantonese ivory puzzle ball; the main circulation is a spiral stair from first to top floor.",
+  "status": "photo",
+  "commons_category": "Category:Guangdong_Museum",
+  "photos": [
+   {
+    "file": "File:Guangdong Museum 20170915-4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guangdong_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Guangdong_Museum",
+   "https://en.wikipedia.org/wiki/Rocco_Design_Architects"
+  ],
+  "note": "New museum opened May 2010 (Wikipedia, Guangdong Museum). The architect is not named in that article's text; the Rocco Design Architects article lists it among the firm's works. Photo: clean daylight front with empty plaza.",
+  "coords": [
+   23.11475,
+   113.326336
+  ]
+ },
+ {
+  "id": "presidential-office-building-taipei",
+  "name": "Presidential Office Building",
+  "by": "Uheiji Nagano, Matsunosuke Moriyama",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1919",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "A 60 m central tower, once the tallest structure in the Taipei Basin; the east front faces Ketagalan Boulevard.",
+  "status": "photo",
+  "commons_category": "Category:Presidential_Building_(Taiwan)",
+  "photos": [
+   {
+    "file": "File:2008-12-29 Presidential Building (Taiwan).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Presidential_Office_Building_(Taiwan)",
+   "https://commons.wikimedia.org/wiki/Category:Presidential_Building_(Taiwan)"
+  ],
+  "note": "Built 1912 to 31 March 1919 (Wikipedia); Nagano's selected design, Moriyama's final design. The photo shows festive flag strings across the front; most other category photos have crowds, ceremonies or protests.",
+  "coords": [
+   25.04,
+   121.51194
+  ]
+ },
+ {
+  "id": "fulfillment-amphitheater",
+  "name": "Fulfillment Amphitheater",
+  "by": "Makoto Sei Watanabe",
+  "city": "Taichung",
+  "cc": "TW",
+  "year": "2006",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Open performance space 40-51 m wide with 6,036 seats on three floors.",
+  "status": "unsure",
+  "commons_category": "Category:Fulfillment_Amphitheater",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fulfillment_Amphitheater",
+   "https://commons.wikimedia.org/wiki/Category:Fulfillment_Amphitheater"
+  ],
+  "note": "no main photo. Seen: 'Taichung Fulfillment Amphitheatre.JPG' (a large steel sculpture stands in front) and 'Wen-Hsin Forest Park ...' (far away). Opened 5 August 2006 (Wikipedia).",
+  "coords": [
+   24.145,
+   120.645
+  ]
+ },
+ {
+  "id": "court-of-final-appeal-building-hong-kong",
+  "name": "Court of Final Appeal Building",
+  "by": "Aston Webb, Ingress Bell",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1912",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Two-storey neo-classical granite building on Ionic columns, topped by a blindfolded statue of Justice.",
+  "status": "unsure",
+  "commons_category": "Category:The_Court_of_Final_Appeal_Building",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Court_of_Final_Appeal_Building",
+   "https://commons.wikimedia.org/wiki/Category:The_Court_of_Final_Appeal_Building"
+  ],
+  "note": "no main photo. Seen two daylight shots, but taxis and railings fill the foreground and towers crowd the background. Completed 15 January 1912 (Wikipedia).",
+  "coords": [
+   22.280996,
+   114.160116
+  ]
+ },
+ {
+  "id": "taipei-dome",
+  "name": "Taipei Dome",
+  "by": "Populous",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "2023",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Oval stadium beside the former Songshan Tobacco Factory (now Songshan Cultural and Creative Park).",
+  "status": "unsure",
+  "commons_category": "Category:Taipei_Dome",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taipei_Dome",
+   "https://commons.wikimedia.org/wiki/Category:Taipei_Dome"
+  ],
+  "note": "no main photo. Seen: a gate view with a barrier and an aerial from Taipei 101. Wikipedia infobox says built 20 May 2023; opened October 2023.",
+  "coords": [
+   25.042306,
+   121.560083
+  ]
+ },
+ {
+  "id": "kai-tak-sports-park",
+  "name": "Kai Tak Sports Park",
+  "by": "Populous",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "2024",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Designed around a covered Kai Tak Sports Avenue; the main stadium has a retractable roof.",
+  "status": "unsure",
+  "commons_category": "Category:Kai_Tak_Sports_Park",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kai_Tak_Sports_Park",
+   "https://commons.wikimedia.org/wiki/Category:Kai_Tak_Sports_Park"
+  ],
+  "note": "no main photo. The first photo seen is a pedestrian street between colourful facades with people. Wikipedia: opened 1 March 2025; body says completed 2024.",
+  "coords": [
+   22.322526,
+   114.197148
+  ]
+ },
+ {
+  "id": "beijing-south-railway-station",
+  "name": "Beijing South Railway Station",
+  "by": "TFP Farrells, Tianjin Design Institute",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2008",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Glass ceiling fitted with 3,246 solar panels over a sprawling ray-like form, built from over 60,000 tons of steel.",
+  "status": "unsure",
+  "commons_category": "Category:Beijing_South_Railway_Station",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_South_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Beijing_South_Railway_Station"
+  ],
+  "note": "no main photo. Seen: a night view, and a daytime view with large red station signs and pedestrians. Opened 1 August 2008 (Wikipedia).",
+  "coords": [
+   39.86583,
+   116.37639
+  ]
+ },
+ {
+  "id": "national-museum-of-china",
+  "name": "National Museum of China",
+  "by": "Gerkan, Marg and Partners (2011 renovation); original 1959 architects not named",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "1959",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Front of ten square pillars, 313 m long; reopened in 2011 after a renovation by gmp.",
+  "status": "unsure",
+  "commons_category": "Category:National_Museum_of_China",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Museum_of_China",
+   "https://commons.wikimedia.org/wiki/Category:National_Museum_of_China"
+  ],
+  "note": "no main photo. Seen: a wide shot with a crowd on Tiananmen Square and a close shot with a red banner. One of the Ten Great Buildings (1959).",
+  "coords": [
+   39.9036,
+   116.395
+  ]
+ },
+ {
+  "id": "hainan-science-and-technology-museum",
+  "name": "Hainan Science and Technology Museum",
+  "by": "MAD Architects (Ma Yansong)",
+  "city": "Haikou",
+  "cc": "CN",
+  "year": "2025",
+  "type": "Museum",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Void",
+   "Digital fabrication"
+  ],
+  "features": "Spiral form around a large open core, clad in 843 fibre-reinforced polymer panels.",
+  "status": "photo",
+  "commons_category": "Category:Hainan_Science_and_Technology_Museum",
+  "photos": [
+   {
+    "file": "File:Hainan Science and Technology Museum 04.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Hainan Science and Technology Museum 01.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hainan_Science_and_Technology_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Hainan_Science_and_Technology_Museum"
+  ],
+  "note": "Wikipedia gives 'circa 2025' in the infobox (project may be newly opened); check it isn't on the wall already. Second photo has a fence and tall grass at the base.",
+  "coords": [
+   20.02092,
+   110.21684
+  ]
+ },
+ {
+  "id": "shanghai-oriental-sports-center",
+  "name": "Shanghai Oriental Sports Center",
+  "by": "Gerkan, Marg and Partners (gmp)",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2011",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Stadium and halls set on a man-made lake that connects to the Huangpu River.",
+  "status": "photo",
+  "commons_category": "Category:Shanghai_Oriental_Sports_Center",
+  "photos": [
+   {
+    "file": "File:Shanghai Oriental Sports Center 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Oriental Sports Center 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Oriental_Sports_Center",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Oriental_Sports_Center"
+  ],
+  "note": "Wikipedia gives 2008-2011 as the build period, opening July 2011 (body text says completed late 2010). Daylight photos across the lake, no people.",
+  "coords": [
+   31.1595667,
+   121.4728694
+  ]
+ },
+ {
+  "id": "red-house-theater-taipei",
+  "name": "Red House Theater",
+  "by": "Kondo Juro",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1908",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Adaptive reuse"
+  ],
+  "features": "Western and Meiji-era Japanese patterns blended; an octagonal section joins a cruciform building and a square.",
+  "status": "photo",
+  "commons_category": "Category:Red_House_Theater",
+  "photos": [
+   {
+    "file": "File:Taipei Taiwan Red-House-Theater-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Red_House_Theater",
+   "https://commons.wikimedia.org/wiki/Category:Red_House_Theater"
+  ],
+  "note": "Built 1908 (Wikipedia). Rated 'quality' on Commons; elevated daylight view of the whole octagon. Several other category photos have crowds or cafe tables.",
+  "coords": [
+   25.041987,
+   121.506739
+  ]
+ },
+ {
+  "id": "bank-of-china-building-shanghai",
+  "name": "Bank of China Building, Shanghai",
+  "by": "Palmer & Turner, Lu Qianshou",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1937",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "Planned at 34 floors, cut nearly in half after Victor Sassoon insisted nothing beside his tower rise above its spire.",
+  "status": "photo",
+  "commons_category": "Category:Bank_of_China_Building,_Shanghai",
+  "photos": [
+   {
+    "file": "File:Bank of China Building, Shanghai 20250501.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bank of China Building The Bund.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bank_of_China_Building,_Shanghai",
+   "https://commons.wikimedia.org/wiki/Category:Bank_of_China_Building,_Shanghai"
+  ],
+  "note": "Counted as an 'ordinary' type (bank tower); the stated reason is its place on the Bund and the Sassoon height story. Topped out 1937; the bank moved in 1946 (Wikipedia).",
+  "coords": [
+   31.2395,
+   121.4897
+  ]
+ },
+ {
+  "id": "sea-world-culture-and-arts-center",
+  "name": "Sea World Culture and Arts Center",
+  "by": "Fumihiko Maki",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Sculptural podium for the museum and shops, with three cantilevered volumes for a theatre, restaurant and hall.",
+  "status": "photo",
+  "commons_category": "Category:Sea_World_Culture_and_Arts_Center",
+  "photos": [
+   {
+    "file": "File:海上世界文化艺术中心 2.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sea_World_Culture_and_Arts_Center",
+   "https://commons.wikimedia.org/wiki/Category:Sea_World_Culture_and_Arts_Center"
+  ],
+  "note": "Shekou, Nanshan District. The photo is daylight with a few small figures and a tall tower behind. Two other photos had crowds or cars in front.",
+  "coords": [
+   22.483,
+   113.912
+  ]
+ },
+ {
+  "id": "jinwan-arts-center",
+  "name": "Jinwan Arts Center",
+  "by": "Zaha Hadid, Patrik Schumacher (Zaha Hadid Architects)",
+  "city": "Zhuhai",
+  "cc": "CN",
+  "year": "2023",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Parametric",
+   "Structure as expression"
+  ],
+  "features": "Roof pattern based on chevrons of migratory birds; five structurally separate concrete buildings.",
+  "status": "photo",
+  "commons_category": "Category:Jinwan_Arts_Center",
+  "photos": [
+   {
+    "file": "File:Jinwan Arts Center.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jinwan_Arts_Center",
+   "https://commons.wikimedia.org/wiki/Category:Jinwan_Arts_Center"
+  ],
+  "note": "Opened to the public November 2023. Wikipedia carries a January 2026 banner that parts may be LLM-generated and unverified, so the reviewer should confirm the facts. The Commons featured photo (dllu 01) is a night shot, so a daytime CC0 file leads.",
+  "coords": [
+   22.117405,
+   113.356628
+  ]
+ },
+ {
+  "id": "broadway-mansions-shanghai",
+  "name": "Broadway Mansions",
+  "by": "B. Flazer, Palmer & Turner",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1934",
+  "type": "Housing",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Brick"
+  ],
+  "features": "Steel-framed red-brick tower in the stepped skyscraper mode; its plan is said to follow the character for eight.",
+  "status": "photo",
+  "commons_category": "Category:Broadway_Mansions",
+  "photos": [
+   {
+    "file": "File:上海大厦2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Broadway_Mansions",
+   "https://commons.wikimedia.org/wiki/Category:Broadway_Mansions"
+  ],
+  "note": "Counted as an 'ordinary' type (apartment/hotel block); reason is its place among Shanghai's Art Deco towers on the Suzhou Creek. Lead gives 1934 and also mentions 1935. Hazy daylight view across the water.",
+  "coords": [
+   31.24444,
+   121.48611
+  ]
+ },
+ {
+  "id": "shenzhen-cultural-center",
+  "name": "Shenzhen Cultural Center (Library and Concert Hall)",
+  "by": "Arata Isozaki",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2007",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Concert hall with vineyard-style seating for 1,800, beside the Shenzhen Library; both by Arata Isozaki.",
+  "status": "photo",
+  "commons_category": "Category:Shenzhen_Concert_Hall",
+  "photos": [
+   {
+    "file": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (21).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:SHENZHEN LIBRARY & SHENZHEN CONCERT HALL (19).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Cultural_Center",
+   "https://commons.wikimedia.org/wiki/Category:Shenzhen_Concert_Hall",
+   "https://en.wikipedia.org/wiki/Shenzhen_Concert_Hall",
+   "https://en.wikipedia.org/wiki/Arata_Isozaki"
+  ],
+  "note": "Wikipedia (Shenzhen Concert Hall) says Isozaki's firm undertook it and 2008 as construction year; the Shenzhen Cultural Center article gives 2007 for the opening. Photos are daylight views of the long glass-fronted complex across a plaza.",
+  "coords": [
+   22.55,
+   114.05194
+  ]
+ },
+ {
+  "id": "bug-dome",
+  "name": "Bug Dome",
+  "by": "WEAK! (Hsieh Ying-Chun, Roan Ching-Yueh, Marco Casagrande)",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Low cost",
+   "Sculptural form"
+  ],
+  "features": "Woven bamboo shell with 'weak concrete' (cement mixed with soil), inspired by the homes insects build.",
+  "status": "photo",
+  "commons_category": "Category:Bug_Dome_by_WEAK!",
+  "photos": [
+   {
+    "file": "File:Bug Dome by WEAK! in Shenzhen Marco Casagrande.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bug Dome by WEAK!.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bug_Dome",
+   "https://commons.wikimedia.org/wiki/Category:Bug_Dome_by_WEAK!"
+  ],
+  "note": "Built for the 2009 Shenzhen and Hong Kong Biennale; I could not confirm it still stands. Wikipedia has no Commons category link, I found this one by search and its files match."
+ },
+ {
+  "id": "museum-of-contemporary-art-and-planning-exhibition-shenzhen",
+  "name": "Museum of Contemporary Art & Planning Exhibition (MOCAPE)",
+  "by": "Coop Himmelb(l)au",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Sculptural museum volume of 88,185 m2 on a 29,688 m2 site in Futian, opened in 2016.",
+  "status": "unsure",
+  "commons_category": "Category:MOCAPE,_Shenzhen_-_Exterior",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shenzhen_Museum_of_Contemporary_Art_and_Urban_Planning",
+   "https://commons.wikimedia.org/wiki/Category:MOCAPE,_Shenzhen_-_Exterior"
+  ],
+  "note": "no main photo. The Exterior sub-category has four 2048x1368 photos (CC BY-SA 4.0, Sept 2017), but each shows only part of the faceted facade, one with lamp posts in front. The main MOCAPE category I first opened held another museum's objects, so I give the sub-category.",
+  "coords": [
+   22.54861,
+   114.05667
+  ]
+ },
+ {
+  "id": "changsha-meixihu-international-culture-and-arts-centre",
+  "name": "Changsha Meixihu International Culture and Arts Centre",
+  "by": "Zaha Hadid, Patrik Schumacher (Zaha Hadid Architects)",
+  "city": "Changsha",
+  "cc": "CN",
+  "year": "2019",
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Parametric"
+  ],
+  "features": "Sweeping white-tiled curves around a theatre, a contemporary art museum and a multi-purpose venue.",
+  "status": "unsure",
+  "commons_category": "Category:Meixihu_International_Culture_and_Art_Centre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Changsha_Meixihu_International_Culture_and_Arts_Centre",
+   "https://commons.wikimedia.org/wiki/Category:Meixihu_International_Culture_and_Art_Centre"
+  ],
+  "note": "no main photo. Seen: construction shot and a hazy shot with a person in front. More photos exist in the category (CC0 'Grand Theatre, Culture and Arts Center, picture 2-8') and were not looked at."
+ },
+ {
+  "id": "jiaxing-railway-station",
+  "name": "Jiaxing Railway Station",
+  "by": "Ma Yansong (MAD Architects)",
+  "city": "Jiaxing",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "A 'railway station in the forest': passengers enter and leave by the bottom level, in a bottom-in, bottom-out mode.",
+  "status": "unsure",
+  "commons_category": "Category:Jiaxing_Railway_Station",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jiaxing_railway_station",
+   "https://commons.wikimedia.org/wiki/Category:Jiaxing_Railway_Station"
+  ],
+  "note": "no main photo. The two category photos seen show the old 1909 brick station, not MAD's new building. Opened 25 June 2021.",
+  "coords": [
+   30.76472,
+   120.76389
+  ]
+ },
+ {
+  "id": "yuz-museum-shanghai",
+  "name": "Yuz Museum",
+  "by": "Sou Fujimoto",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Converted aircraft hangar at the former Longhua Airport; over 9,000 m2 with a main gallery above 3,000 m2.",
+  "status": "photo",
+  "commons_category": "Category:Yuz_Museum",
+  "photos": [
+   {
+    "file": "File:Yudeyao Meishuguan.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yuz_Museum_Shanghai",
+   "https://commons.wikimedia.org/wiki/Category:Yuz_Museum"
+  ],
+  "note": "Opened 17 May 2014 (Wikipedia names Sou Fujimoto as architect). Daylight view of the whole building; roadside railings and a road sit in front."
+ },
+ {
+  "id": "museum-of-the-communist-party-of-china",
+  "name": "Museum of the Communist Party of China",
+  "by": "Beijing Institute of Architectural Design",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2021",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Geometry"
+  ],
+  "features": "Plan forms the character 'gong'; 28 pillars on the east and west sides stand for the years 1921-1949.",
+  "status": "photo",
+  "commons_category": "Category:Museum_of_the_Communist_Party_of_China",
+  "photos": [
+   {
+    "file": "File:Museum of the Communist Party of China (20211123140738).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_the_Communist_Party_of_China",
+   "https://commons.wikimedia.org/wiki/Category:Museum_of_the_Communist_Party_of_China"
+  ],
+  "note": "Built 2021 (finished 5 May 2021, opened 15 July 2021). Wikipedia names BIAD with Chang Shana leading the detail design. The photo shows the front with flags; a crash barrier runs along the bottom."
+ },
+ {
+  "id": "mercedes-benz-arena-shanghai",
+  "name": "Mercedes-Benz Arena (Expo Culture Center)",
+  "by": "ECADI, MANICA Architecture",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Nicknamed 'the Clam Shell' and 'the Hamburger'; the arena seats 18,000.",
+  "status": "photo",
+  "commons_category": "Category:Mercedes-Benz_Arena_(Shanghai)",
+  "photos": [
+   {
+    "file": "File:Expo Culture Center (4633171163).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Shanghai)",
+   "https://commons.wikimedia.org/wiki/Category:Mercedes-Benz_Arena_(Shanghai)"
+  ],
+  "note": "Built 2007 and opened 30 April 2010 as the Expo Culture Center (Wikipedia). The photo is from across the river, hazy daylight, building clear and complete.",
+  "coords": [
+   31.191291,
+   121.489391
+  ]
+ },
+ {
+  "id": "chengdu-museum",
+  "name": "Chengdu Museum",
+  "by": "Sutherland Hussey Harris, Pansolution",
+  "city": "Chengdu",
+  "cc": "CN",
+  "year": "2016",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "New city museum won in an international competition; 65,000 m2 of floor area.",
+  "status": "photo",
+  "commons_category": "Category:Chengdu_Museum",
+  "photos": [
+   {
+    "file": "File:成都博物馆正门.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chengdu Museum 20260513-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chengdu_Museum",
+   "https://commons.wikimedia.org/wiki/Category:Chengdu_Museum"
+  ],
+  "note": "Wikipedia names Sutherland Hussey Harris with Beijing's Pansolution (infobox lists only Sutherland Hussey Harris). The first photo has a few visitors at the base; the second has cars in the street in front.",
+  "coords": [
+   30.65973,
+   104.0612
+  ]
+ },
+ {
+  "id": "olympic-park-observation-tower",
+  "name": "Olympic Park Observation Tower",
+  "by": "Cui Kai, Li Cundong, Zhao Wenbin (China Architecture Design & Research Group)",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": "2014",
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Inspired by blades of grass; its five circular tops echo the Olympic rings.",
+  "status": "photo",
+  "commons_category": "Category:Olympic_Park_Observation_Tower",
+  "photos": [
+   {
+    "file": "File:20200109 Beijing Olympic Tower-1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beijing_Olympic_Tower",
+   "https://commons.wikimedia.org/wiki/Category:Olympic_Park_Observation_Tower"
+  ],
+  "note": "Completed and opened August 2014 per the History section (the lead says 8 August 2015). A tall portrait photo with the base and a small red sign at the bottom.",
+  "coords": [
+   40.00651,
+   116.38784
+  ]
+ },
+ {
+  "id": "shanghai-library-east",
+  "name": "Shanghai Library East",
+  "by": "Schmidt Hammer Lassen Architects",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "2022",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Free plan",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Open plan that gives most space to the community; its form refers abstractly to Taihu stones.",
+  "status": "photo",
+  "commons_category": "Category:Shanghai_Library_East_Hall",
+  "photos": [
+   {
+    "file": "File:Shanghai Library East-Exterior East-20250506.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Library",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Library_East_Hall"
+  ],
+  "note": "Opened 2022 (Wikipedia 'Shanghai Library' article covers this and the 1996 main building in Xuhui). Daylight view of the whole building from across a road with crosswalk and a few scooters."
+ },
+ {
+  "id": "shanghai-concert-hall",
+  "name": "Shanghai Concert Hall",
+  "by": "Fan Wenzhao",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "1930",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "European-style hall of 1930, moved to a new site in 2008; seats 1,122.",
+  "status": "unsure",
+  "commons_category": "Category:Shanghai_Concert_Hall",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shanghai_Concert_Hall",
+   "https://commons.wikimedia.org/wiki/Category:Shanghai_Concert_Hall"
+  ],
+  "note": "no main photo. Seen: a front view with pedestrians in the foreground and the hall small in the frame. Wikipedia: founded 1930 as Nanking Theatre; reopened on its relocated site 26 September 2008.",
+  "coords": [
+   31.2289056,
+   121.4728889
+  ]
+ },
+ {
+  "id": "sifang-art-museum",
+  "name": "Sifang Art Museum",
+  "by": "Steven Holl",
+  "city": "Nanjing",
+  "cc": "CN",
+  "year": "2013",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "New premises opened in 2013 with a 3,000 m2 flexible exhibition area, a teahouse and a curator's residency.",
+  "status": "unsure",
+  "commons_category": null,
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sifang_Art_Museum"
+  ],
+  "note": "no free photo. Two Commons searches (category and file search) found nothing usable. Wikipedia gives only the 2013 opening; it lists the architect as Steven Holl but no Commons category."
+ },
+ {
+  "id": "tainan-main-public-library",
+  "name": "Tainan Main Public Library",
+  "by": "Mecanoo, MAYU Architects",
+  "city": "Tainan",
+  "cc": "TW",
+  "year": "2021",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Facade as skin",
+   "Structure as expression"
+  ],
+  "features": "Inverted stepped form with cantilevers on slender columns in fours; upper floors wrapped in patterned slats.",
+  "status": "photo",
+  "commons_category": "Category:Tainan_Main_Public_Library",
+  "photos": [
+   {
+    "file": "File:Tainan Main Public Library 20220621 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tainan_Main_Public_Library",
+   "https://commons.wikimedia.org/wiki/Category:Tainan_Main_Public_Library"
+  ],
+  "note": "Opened January 2021 (Wikipedia gives no completion date). The photo is a daylight corner view, cropped, with the small name sign at the lower right; two other photos had crowds and tents.",
+  "coords": [
+   23.0245889,
+   120.2377
+  ]
+ },
+ {
+  "id": "national-theater-and-concert-hall-taipei",
+  "name": "National Theater and Concert Hall",
+  "by": "Yang Cho-cheng, Architects and Engineers Associates",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": "1987",
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Modern in function but recalling traditional Chinese palace architecture; stands at Liberty Square.",
+  "status": "photo",
+  "commons_category": "Category:National_Theater_and_Concert_Hall,_Republic_of_China",
+  "photos": [
+   {
+    "file": "File:National Theater and Concert Hall and Guanghua Pond 20210712.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:National Theater, National Concert Hall and Guanghua Pond 20100722.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Theater_and_Concert_Hall",
+   "https://commons.wikimedia.org/wiki/Category:National_Theater_and_Concert_Hall,_Republic_of_China"
+  ],
+  "note": "Completed 20 September 1987 (Wikipedia). Both photos are daylight views across Guanghua Pond; the theatre is on the right, cropped at the edge in the first.",
+  "coords": [
+   25.035,
+   121.51806
+  ]
+ },
+ {
+  "id": "chongqing-grand-theatre",
+  "name": "Chongqing Grand Theatre",
+  "by": "Gerkan, Marg and Partners (gmp)",
+  "city": "Chongqing",
+  "cc": "CN",
+  "year": "2009",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Horseshoe-shaped auditorium for 1,826, described as a mix between a space centre and a sailing ship.",
+  "status": "unsure",
+  "commons_category": "Category:Chongqing_Grand_Theatre",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chongqing_Grand_Theatre",
+   "https://commons.wikimedia.org/wiki/Category:Chongqing_Grand_Theatre"
+  ],
+  "note": "no main photo. Seen: two night shots and a daytime file that seemed to show a different, green-glass stepped building, so I could not confirm it. Construction began 2005; Wikipedia gives 2009.",
+  "coords": [
+   29.568623,
+   106.580384
+  ]
+ },
+ {
+  "id": "hong-kong-academy-for-performing-arts",
+  "name": "Hong Kong Academy for Performing Arts",
+  "by": "Simon Kwan and Associates",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": "1985",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Axis",
+   "Circulation"
+  ],
+  "features": "Campus of an Academy Block, a Theatre Block and an Administration Block, chosen in a six-firm limited competition.",
+  "status": "unsure",
+  "commons_category": "Category:The_Hong_Kong_Academy_for_Performing_Arts",
+  "photos": [],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hong_Kong_Academy_for_Performing_Arts",
+   "https://commons.wikimedia.org/wiki/Category:The_Hong_Kong_Academy_for_Performing_Arts"
+  ],
+  "note": "no main photo. The first category photo seen is a close view of the entrance sign. Academy Block opened 18 September 1985, Theatre Block 3 February 1986 (Wikipedia).",
+  "coords": [
+   22.28028,
+   114.16944
+  ]
+ }
+]

@@ -1,0 +1,462 @@
+[
+ {
+  "id": "empire-state-building",
+  "qid": "Q9188",
+  "status": "photo",
+  "why": "Lead names the Art Deco style and its record as the world's tallest building; main photo shows the whole tower in daylight.",
+  "name": "Empire State Building",
+  "by": "Shreve, Lamb & Harmon",
+  "city": "Manhattan",
+  "cc": "US",
+  "year": 1931,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Art Deco skyscraper built 1930–31, the world's tallest building until 1970.",
+  "commons_category": "Category:Empire State Building",
+  "coords": [
+   40.74833,
+   -73.98556
+  ],
+  "photos": [
+   {
+    "file": "File:Empire State Building (aerial view).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Art Deco landmark is New York's historic Empire State Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Architectural crown and antenna tower of the Empire State Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "golden-gate-bridge",
+  "qid": "Q44440",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "the-pentagon",
+  "qid": "Q11208",
+  "status": "skip",
+  "why": "Government headquarters; the lead gives no architectural reason."
+ },
+ {
+  "id": "brooklyn-bridge",
+  "qid": "Q125006",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "san-siro",
+  "qid": "Q133566",
+  "status": "skip",
+  "why": "Ordinary stadium; the lead gives no architectural reason."
+ },
+ {
+  "id": "resund-bridge",
+  "qid": "Q297871",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "etihad-stadium",
+  "qid": "Q48159",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "national-diet-library",
+  "qid": "Q477675",
+  "status": "skip",
+  "why": "Library; the lead gives no architectural reason."
+ },
+ {
+  "id": "brussels-airport",
+  "qid": "Q28934",
+  "status": "skip",
+  "why": "Airport."
+ },
+ {
+  "id": "fisht-olympic-stadium",
+  "qid": "Q1149601",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "cathedral-of-christ-the-saviour",
+  "qid": "Q194474",
+  "status": "skip",
+  "why": "Church; the lead gives size and rebuilding, not an architectural reason."
+ },
+ {
+  "id": "the-clock-towers",
+  "qid": "Q189476",
+  "status": "skip",
+  "why": "Hotel complex."
+ },
+ {
+  "id": "arena-aufschalke",
+  "qid": "Q150961",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "museum-of-philistine-culture",
+  "qid": "Q23894294",
+  "status": "skip",
+  "why": "Local museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "hampden-park",
+  "qid": "Q193651",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "sheikh-zayed-grand-mosque",
+  "qid": "Q695604",
+  "status": "skip",
+  "why": "Mosque; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "berlin-brandenburg-airport",
+  "qid": "Q160556",
+  "status": "skip",
+  "why": "Airport."
+ },
+ {
+  "id": "johan-cruyff-arena",
+  "qid": "Q207109",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "mhparena",
+  "qid": "Q152349",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "olympic-stadium-kyiv",
+  "qid": "Q183529",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "university-of-tehran",
+  "qid": "Q737835",
+  "status": "skip",
+  "why": "University campus; the lead gives no architectural reason."
+ },
+ {
+  "id": "lincoln-memorial",
+  "qid": "Q213559",
+  "status": "skip",
+  "why": "Memorial; monuments are skipped."
+ },
+ {
+  "id": "dolby-theatre",
+  "qid": "Q180615",
+  "status": "skip",
+  "why": "Theatre inside a shopping complex."
+ },
+ {
+  "id": "ernst-happel-stadion",
+  "qid": "Q185741",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "millennium-stadium",
+  "qid": "Q204496",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "metlife-stadium",
+  "qid": "Q10862290",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "stadio-diego-armando-maradona",
+  "qid": "Q82709",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "saint-alexander-nevsky-cathedral-sofia",
+  "qid": "Q43282",
+  "status": "skip",
+  "why": "Church; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "vasco-da-gama-bridge",
+  "qid": "Q233737",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "olympic-stadium-athens",
+  "qid": "Q189663",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "india-gate",
+  "qid": "Q245347",
+  "status": "skip",
+  "why": "Monument."
+ },
+ {
+  "id": "minsk-national-airport",
+  "qid": "Q777855",
+  "status": "skip",
+  "why": "Airport."
+ },
+ {
+  "id": "flatiron-building",
+  "qid": "Q220728",
+  "status": "skip",
+  "why": "Office tower; the lead gives its shape, not an architectural reason."
+ },
+ {
+  "id": "george-washington-bridge",
+  "qid": "Q125821",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "minix",
+  "qid": "Q187906",
+  "status": "skip",
+  "why": "Not a building."
+ },
+ {
+  "id": "stade-geoffroy-guichard",
+  "qid": "Q861000",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "mestalla-stadium",
+  "qid": "Q202762",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "est-dio-da-luz",
+  "qid": "Q7875112",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "stadium-australia",
+  "qid": "Q295886",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "gillette-stadium",
+  "qid": "Q373355",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "vicente-calder-n-stadium",
+  "qid": "Q207626",
+  "status": "skip",
+  "why": "Demolished stadium."
+ },
+ {
+  "id": "mbombela-stadium",
+  "qid": "Q187087",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "millennium-bridge-london",
+  "qid": "Q44057",
+  "status": "skip",
+  "why": "Footbridge; the lead is about its engineering and repairs."
+ },
+ {
+  "id": "brooklyn-museum",
+  "qid": "Q632682",
+  "status": "photo",
+  "why": "Lead names the Beaux-Arts building by McKim, Mead & White; main photo shows the whole building.",
+  "name": "Brooklyn Museum",
+  "by": "McKim, Mead & White",
+  "city": "Brooklyn",
+  "cc": "US",
+  "year": 1897,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Community"
+  ],
+  "features": "Beaux-Arts museum building by McKim, Mead & White, dating to 1897 and expanded several times since.",
+  "commons_category": "Category:Brooklyn Museum",
+  "coords": [
+   40.67131,
+   -73.96375
+  ],
+  "photos": [
+   {
+    "file": "File:Brooklyn Museum June 2008 sunset jeh.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-art-museum-of-azerbaijan",
+  "qid": "Q2559128",
+  "status": "skip",
+  "why": "Museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "pushkin-museum",
+  "qid": "Q4872",
+  "status": "skip",
+  "why": "Museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "yavuz-sultan-selim-bridge",
+  "qid": "Q7784788",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "tottenham-hotspur-stadium",
+  "qid": "Q55074091",
+  "status": "skip",
+  "why": "Ordinary stadium; its first is a technical pitch, not architecture."
+ },
+ {
+  "id": "stade-pierre-mauroy",
+  "qid": "Q1410402",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "donbas-arena",
+  "qid": "Q180479",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "crypto-com-arena",
+  "qid": "Q186080",
+  "status": "skip",
+  "why": "Ordinary arena."
+ },
+ {
+  "id": "merkur-spiel-arena",
+  "qid": "Q155351",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "grand-mosque-of-paris",
+  "qid": "Q392564",
+  "status": "skip",
+  "why": "Mosque; the lead gives 'oldest', with no architectural reason."
+ },
+ {
+  "id": "national-museum-of-natural-history",
+  "qid": "Q148554",
+  "status": "skip",
+  "why": "Museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "kul-sharif-mosque",
+  "qid": "Q121198",
+  "status": "skip",
+  "why": "Mosque; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "church-of-saint-sava",
+  "qid": "Q330385",
+  "status": "skip",
+  "why": "Church; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "vizcaya-bridge",
+  "qid": "Q331996",
+  "status": "skip",
+  "why": "Engineering-only bridge."
+ },
+ {
+  "id": "westminster-cathedral",
+  "qid": "Q739364",
+  "status": "photo",
+  "why": "Lead names the neo-Byzantine brick design and John Betjeman's praise; photos show the whole building in daylight.",
+  "name": "Westminster Cathedral",
+  "by": "John Francis Bentley",
+  "city": "London",
+  "cc": "GB",
+  "year": 1895,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Structure as expression"
+  ],
+  "features": "Neo-Byzantine brick cathedral built without steel reinforcement; John Betjeman called it a masterpiece in striped brick and stone.",
+  "commons_category": "Category:Westminster Cathedral",
+  "coords": [
+   51.49583,
+   -0.13947
+  ],
+  "photos": [
+   {
+    "file": "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:UK - London - Westminster - 94.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:UK - London - Westminster - 88.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Looking up at Westminster Cathedral from the piazza on Victoria Street - geograph.org.uk - 7828566.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hard-rock-stadium",
+  "qid": "Q864339",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ },
+ {
+  "id": "arrowhead-stadium",
+  "qid": "Q544553",
+  "status": "skip",
+  "why": "Ordinary stadium."
+ }
+]

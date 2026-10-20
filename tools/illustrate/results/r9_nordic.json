@@ -1,0 +1,1645 @@
+[
+ {
+  "id": "tycho-brahe-planetarium",
+  "name": "Tycho Brahe Planetarium",
+  "by": "Knud Munk",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "1989",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Drum-shaped planetarium at the south end of the lake Skt. Jørgens Sø, opened on 1 November 1989.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Søerne 5.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tycho_Brahe_Planetarium",
+   "https://commons.wikimedia.org/wiki/File:Søerne_5.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   55.67444,
+   12.55806
+  ]
+ },
+ {
+  "id": "danmarks-nationalbank",
+  "name": "Danmarks Nationalbank",
+  "by": "Arne Jacobsen",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": "1978",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Central bank headquarters designed in the early 1960s and built 1965–1978, replacing a neo-Renaissance bank.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Danmarks Nationalbank.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Danmarks_Nationalbank",
+   "https://commons.wikimedia.org/wiki/File:Danmarks_Nationalbank.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "esbjerg-performing-arts-centre",
+  "name": "Esbjerg Performing Arts Centre",
+  "by": "Jan Utzon with Jørn Utzon",
+  "city": "Esbjerg",
+  "cc": "DK",
+  "year": "1997",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Concert hall designed by Jan Utzon with his father Jørn Utzon, beside the Art Museum in the City Park.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Esbjerg Musikkhuset.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Esbjerg_Performing_Arts_Centre",
+   "https://commons.wikimedia.org/wiki/File:Esbjerg_Musikkhuset.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. grey day"
+ },
+ {
+  "id": "vasa-museum",
+  "name": "Vasa Museum",
+  "by": "Göran Månsson and Marianne Dahlbäck",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1990",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Museum for the 17th-century warship Vasa; the design won a competition of 384 entries.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stockholm Vasa Museum and Nordic Museum 09.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vasa_Museum",
+   "https://commons.wikimedia.org/wiki/File:Stockholm_Vasa_Museum_and_Nordic_Museum_09.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. boat in front of the museum",
+  "coords": [
+   59.32794,
+   18.09139
+  ]
+ },
+ {
+  "id": "stockholm-court-house",
+  "name": "Stockholm Court House",
+  "by": "Carl Westman",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1915",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "National Romantic courthouse on Kungsholmen, built 1909–1915.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Stockholms radhus 060409.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stockholm_Court_House",
+   "https://commons.wikimedia.org/wiki/File:Stockholms_radhus_060409.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   59.33083,
+   18.04361
+  ]
+ },
+ {
+  "id": "kiruna-church",
+  "name": "Kiruna Church",
+  "by": "Gustaf Wickman",
+  "city": "Kiruna",
+  "cc": "SE",
+  "year": "1912",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Climate response"
+  ],
+  "features": "One of Sweden's largest wooden buildings: Gothic Revival outside, Art Nouveau altar.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Church of Kiruna 2011.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kiruna_Church",
+   "https://commons.wikimedia.org/wiki/File:Church_of_Kiruna_2011.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "korshagehus",
+  "name": "Korshagehus",
+  "by": "Erik Korshagen",
+  "city": "Rørvig",
+  "cc": "DK",
+  "year": "1960",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Climate response"
+  ],
+  "features": "Modernist summer house the architect built for himself; garage and guesthouse added 1965 and 1984.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Korshagenhus dk.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Korshagehus",
+   "https://commons.wikimedia.org/wiki/File:Korshagenhus_dk.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. trees partly hide the house"
+ },
+ {
+  "id": "rohsska-museum",
+  "name": "Röhsska Museum",
+  "by": "Carl Westman",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "1914",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Stone",
+   "Detail"
+  ],
+  "features": "National Romantic design museum building, opened to the public in 1916.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Rohsska.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Röhsska_Museum",
+   "https://commons.wikimedia.org/wiki/File:Rohsska.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   57.7,
+   11.97333
+  ]
+ },
+ {
+  "id": "royal-dramatic-theatre",
+  "name": "Royal Dramatic Theatre",
+  "by": "Fredrik Lilljekvist",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1908",
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Sweden's national stage since 1908, in an Art Nouveau building.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:The Royal Dramatic Theatre in Stockholm.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Dramatic_Theatre",
+   "https://commons.wikimedia.org/wiki/File:The_Royal_Dramatic_Theatre_in_Stockholm.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   59.33333,
+   18.07694
+  ]
+ },
+ {
+  "id": "wenner-gren-center",
+  "name": "Wenner-Gren Center",
+  "by": "Sune Lindström and Alf Bydén",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1961",
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "Three buildings, Helicon, Pylon and Tetragon: a high tower with a lower semicircular building around it.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sveaplan 2008.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wenner-Gren_Center",
+   "https://commons.wikimedia.org/wiki/File:Sveaplan_2008.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. car in the foreground",
+  "coords": [
+   59.35111,
+   18.04861
+  ]
+ },
+ {
+  "id": "kuggen",
+  "name": "Kuggen",
+  "by": "Wingårdh Arkitektkontor (Gert Wingårdh)",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Cog-shaped building for Chalmers University, built October 2010 to March 2011.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Goteborg Lindholmen 6.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kuggen.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kuggen",
+   "https://commons.wikimedia.org/wiki/File:Goteborg_Lindholmen_6.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "immanuel-church",
+  "name": "Immanuel Church, Stockholm",
+  "by": "Sture Frölén",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": "1974",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Light & shadow"
+  ],
+  "features": "Church built on a former tram depot site, with offices and a hotel in the same block, 1970–1974.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Immanuelskyrkan Stockholm.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Immanuel_Church,_Stockholm",
+   "https://commons.wikimedia.org/wiki/File:Immanuelskyrkan_Stockholm.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   59.3425,
+   18.06333
+  ]
+ },
+ {
+  "id": "landskrona-city-hall",
+  "name": "Landskrona City Hall",
+  "by": "Sten Samuelson and Inge Stoltz",
+  "city": "Landskrona",
+  "cc": "SE",
+  "year": "1976",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Modernist city hall by the new harbour, inaugurated in September 1976.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Landskrona Stadshus.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Landskrona_City_Hall",
+   "https://commons.wikimedia.org/wiki/File:Landskrona_Stadshus.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "valhalla-swimming-hall",
+  "name": "Valhalla Swimming Hall",
+  "by": "Nils Olsson",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "1956",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Human comfort",
+   "Geometry",
+   "Water"
+  ],
+  "features": "Designed by Nils Olsson, whose design won a bronze Olympic medal in 1948; finished by Gustav Samuelsson.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Valhallabadet September 2012 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valhalla_Swimming_Hall",
+   "https://commons.wikimedia.org/wiki/File:Valhallabadet_September_2012_02.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. street sign on the building",
+  "coords": [
+   57.69944,
+   11.99
+  ]
+ },
+ {
+  "id": "lillehammer-art-museum",
+  "name": "Lillehammer Art Museum",
+  "by": "Snøhetta",
+  "city": "Lillehammer",
+  "cc": "NO",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Light from above"
+  ],
+  "features": "Snøhetta's wing, opened 1992, joins an older building by Erling Viksjø.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Lillehammer kunstmuseum.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lillehammer_Art_Museum",
+   "https://commons.wikimedia.org/wiki/File:Lillehammer_kunstmuseum.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. older building by Erling Viksjø next to Snøhetta's wing",
+  "coords": [
+   61.11556,
+   10.46389
+  ]
+ },
+ {
+  "id": "stavanger-konserthus",
+  "name": "Stavanger Konserthus",
+  "by": "RATIO Arkitekter",
+  "city": "Stavanger",
+  "cc": "NO",
+  "year": "2012",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Water"
+  ],
+  "features": "Concert hall with an orchestra hall and a multi-purpose hall, opened 15 September 2012.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Konzerthaus Stavanger 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stavanger_Konserthus",
+   "https://commons.wikimedia.org/wiki/File:Konzerthaus_Stavanger_2017.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. oblique view from above"
+ },
+ {
+  "id": "bergen-kunsthall",
+  "name": "Bergen Kunsthall",
+  "by": "Ole Landmark",
+  "city": "Bergen",
+  "cc": "NO",
+  "year": "1935",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Early functionalist art hall designed in 1935.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Bergen kunsthall.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bergen_Kunsthall",
+   "https://commons.wikimedia.org/wiki/File:Bergen_kunsthall.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "chateau-neuf",
+  "name": "Chateau Neuf",
+  "by": "Kjell Lund and Nils Slaatto",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "1973",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Brick",
+   "Structure as expression"
+  ],
+  "features": "Students' society building in concrete and brick, finished in 1971 and opened in 1973.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:ChateauNeufOslo.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chateau_Neuf",
+   "https://commons.wikimedia.org/wiki/File:ChateauNeufOslo.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "kunstnernes-hus",
+  "name": "Kunstnernes Hus",
+  "by": "Gudolf Blakstad and Herman Munthe-Kaas",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": "1930",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Axis",
+   "Light from above"
+  ],
+  "features": "Artists' House, a prominent Functionalist building, opened on 1 October 1930.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:KH utvendig web.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kunstnernes_Hus",
+   "https://commons.wikimedia.org/wiki/File:KH_utvendig_web.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   59.9193,
+   10.7306
+  ]
+ },
+ {
+  "id": "alajarvi-administrative-centre",
+  "name": "Alajärvi administrative centre",
+  "by": "Alvar Aalto",
+  "city": "Alajärvi",
+  "cc": "FI",
+  "year": "1967",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Axis",
+   "Public space"
+  ],
+  "features": "Town hall and health centre (1967) and parish hall (1970) grouped as one complex.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Alajärvi town hall 20180706.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Alajärvi_administrative_centre",
+   "https://commons.wikimedia.org/wiki/File:Alajärvi_town_hall_20180706.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. town hall part of a complex",
+  "coords": [
+   62.99996,
+   23.82315
+  ]
+ },
+ {
+  "id": "porthania",
+  "name": "Porthania",
+  "by": "Aarne Ervi",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1957",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "University of Helsinki building, one of the notable modernist buildings of the 1950s in the city centre.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Porthania.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Porthania",
+   "https://commons.wikimedia.org/wiki/File:Porthania.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.17,
+   24.94833
+  ]
+ },
+ {
+  "id": "kouvola-town-hall",
+  "name": "Kouvola Town Hall",
+  "by": "Juha Leiviskä and Bertel Saarnio",
+  "city": "Kouvola",
+  "cc": "FI",
+  "year": "1968",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "The breakthrough work of Juha Leiviskä, listed by DOCOMOMO Finland.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kouvolan kaupungintalo.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kouvola_Town_Hall",
+   "https://commons.wikimedia.org/wiki/File:Kouvolan_kaupungintalo.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. snow",
+  "coords": [
+   60.87026,
+   26.70173
+  ]
+ },
+ {
+  "id": "rovaniemi-city-hall",
+  "name": "Rovaniemi City Hall",
+  "by": "Alvar Aalto",
+  "city": "Rovaniemi",
+  "cc": "FI",
+  "year": "1986",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Axis",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Aalto's design from the 1960s, finished in 1986 after his death, part of the Aalto Centre.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Rovaniemen kaupungintalo ja Vuorten synty.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rovaniemi_city_hall",
+   "https://commons.wikimedia.org/wiki/File:Rovaniemen_kaupungintalo_ja_Vuorten_synty.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   66.4965,
+   25.72501
+  ]
+ },
+ {
+  "id": "museum-of-central-finland",
+  "name": "Museum of Central Finland",
+  "by": "Alvar Aalto",
+  "city": "Jyväskylä",
+  "cc": "FI",
+  "year": "1960",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Cultural history museum in a building designed by Alvar Aalto, completed in 1960.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Keski-Suomen Museo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Central_Finland",
+   "https://commons.wikimedia.org/wiki/File:Keski-Suomen_Museo.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   62.24,
+   25.7475
+  ]
+ },
+ {
+  "id": "jyvaskyla-city-theatre",
+  "name": "Jyväskylä City Theatre",
+  "by": "Alvar Aalto",
+  "city": "Jyväskylä",
+  "cc": "FI",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Axis"
+  ],
+  "features": "Municipal theatre founded in 1961; the current building dates from 1982.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Jyväskylä City Theatre2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jyväskylä_City_Theatre",
+   "https://commons.wikimedia.org/wiki/File:Jyväskylä_City_Theatre2.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "joutjarvi-church",
+  "name": "Joutjärvi Church",
+  "by": "Unto Ojonen",
+  "city": "Lahti",
+  "cc": "FI",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Light from above"
+  ],
+  "features": "Church designed in 1960–61 and completed in 1962 by a local architect.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Joutjärvi church 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Joutjärvi_Church",
+   "https://commons.wikimedia.org/wiki/File:Joutjärvi_church_01.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "nakkila-church",
+  "name": "Nakkila Church",
+  "by": "Erkki Huttunen",
+  "city": "Nakkila",
+  "cc": "FI",
+  "year": "1937",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Axis",
+   "Monumentality"
+  ],
+  "features": "Functionalist church completed in 1937; its parish centre is by Juha Leiviskä (1970).",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Nakkilan kirkko.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nakkila_Church",
+   "https://commons.wikimedia.org/wiki/File:Nakkilan_kirkko.png"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "finnish-state-guesthouse",
+  "name": "Finnish State Guesthouse",
+  "by": "Einari Teräsvirta",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1984",
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Planting",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "Official visitor accommodation of the Finnish Government in Munkkiniemi, completed in 1984.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Suomen Valtionvierastalo (Finnish State Guest) (Maison des invités de l'État finlandais) 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Finnish_State_Guesthouse",
+   "https://commons.wikimedia.org/wiki/File:Suomen_Valtionvierastalo_(Finnish_State_Guest)_(Maison_des_invités_de_l'État_finlandais)_02.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. trees partly hide the building"
+ },
+ {
+  "id": "sahkotalo",
+  "name": "Sähkötalo",
+  "by": "Alvar Aalto",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1973",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "Headquarters of the city energy company, built from March 1970 to January 1973.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sahkotalo.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sähkötalo",
+   "https://commons.wikimedia.org/wiki/File:Sahkotalo.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.16833,
+   24.93056
+  ]
+ },
+ {
+  "id": "ympyratalo",
+  "name": "Ympyrätalo",
+  "by": "Heikki and Kaija Siren",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1968",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Courtyard",
+   "Facade as skin"
+  ],
+  "features": "Circle-shaped building in Hakaniemi, opened 1968 and renovated 2002–2004.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Hakaniemenpyoreatalo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ympyrätalo",
+   "https://commons.wikimedia.org/wiki/File:Hakaniemenpyoreatalo.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. lead is the 2nd article photo; first was an aerial view"
+ },
+ {
+  "id": "sibelius-museum",
+  "name": "Sibelius Museum",
+  "by": "Woldemar Baeckman",
+  "city": "Turku",
+  "cc": "FI",
+  "year": "1968",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Light & shadow",
+   "Courtyard"
+  ],
+  "features": "Music museum in a building opened in 1968 beside Turku Cathedral.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Sibeliusmuseum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sibelius_Museum",
+   "https://commons.wikimedia.org/wiki/File:Sibeliusmuseum.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.4537,
+   22.2775
+  ]
+ },
+ {
+  "id": "seinajoki-library",
+  "name": "Seinäjoki Library",
+  "by": "Alvar Aalto",
+  "city": "Seinäjoki",
+  "cc": "FI",
+  "year": "1965",
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Cluster"
+  ],
+  "features": "Library completed in 1965 as part of Aalto's centre; the new Apila library (JKMM, 2012) stands beside it.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Aalto library 20180925.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seinäjoki_Library",
+   "https://commons.wikimedia.org/wiki/File:Aalto_library_20180925.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. lead is the 2nd article photo; first showed another building; the new Apila library stands beside it",
+  "coords": [
+   62.78589,
+   22.8423
+  ]
+ },
+ {
+  "id": "villa-kokkonen",
+  "name": "Villa Kokkonen",
+  "by": "Alvar Aalto",
+  "city": "Järvenpää",
+  "cc": "FI",
+  "year": "1969",
+  "type": "House",
+  "movement": "Late modernism",
+  "concepts": [
+   "Timber",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "House Aalto designed for the composer Joonas Kokkonen.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Villa Kokkonen.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Villa_Kokkonen",
+   "https://commons.wikimedia.org/wiki/File:Villa_Kokkonen.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.45745,
+   25.05704
+  ]
+ },
+ {
+  "id": "helsinki-cathedral",
+  "name": "Helsinki Cathedral",
+  "by": "Carl Ludvig Engel",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1852",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Neoclassical cathedral built 1830–1852 above Senate Square, later altered by Ernst Lohrmann.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Kirkko3.png",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Helsinki_Cathedral",
+   "https://commons.wikimedia.org/wiki/File:Kirkko3.png"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.17028,
+   24.95222
+  ]
+ },
+ {
+  "id": "finnish-national-theatre",
+  "name": "Finnish National Theatre",
+  "by": "Onni Tarjanne",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1902",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Axis"
+  ],
+  "features": "National Romantic theatre of 1902 beside Helsinki Central Station square.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Teatro Nacional de Finlandia, Helsinki, Finlandia, 2012-08-14, DD 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Finnish_National_Theatre",
+   "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_de_Finlandia,_Helsinki,_Finlandia,_2012-08-14,_DD_02.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.1722,
+   24.94386
+  ]
+ },
+ {
+  "id": "uspenski-cathedral",
+  "name": "Uspenski Cathedral",
+  "by": "Aleksey Gornostayev",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1868",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Orthodox cathedral in Russian Revival style, built 1862–1868 under Ivan Varnek.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Catedral Uspenski, Helsinki, Finlandia, 2012-08-14, DD 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uspenski_Cathedral",
+   "https://commons.wikimedia.org/wiki/File:Catedral_Uspenski,_Helsinki,_Finlandia,_2012-08-14,_DD_03.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.16833,
+   24.96
+  ]
+ },
+ {
+  "id": "tampere-cathedral",
+  "name": "Tampere Cathedral",
+  "by": "Lars Sonck",
+  "city": "Tampere",
+  "cc": "FI",
+  "year": "1907",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "National Romantic church in granite, built 1902–1907.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tampereen tuomiokirkko kesä 2004 IMG 2328.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tampere_Cathedral",
+   "https://commons.wikimedia.org/wiki/File:Tampereen_tuomiokirkko_kesä_2004_IMG_2328.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. framed by trees",
+  "coords": [
+   61.5025,
+   23.76972
+  ]
+ },
+ {
+  "id": "tampere-hall",
+  "name": "Tampere Hall",
+  "by": "Sakari Aartelo and Esa Piironen",
+  "city": "Tampere",
+  "cc": "FI",
+  "year": "1990",
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Geometry",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Largest congress centre in the Nordic countries, inaugurated 29 September 1990.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Tampere-talo panorama 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tampere_Hall",
+   "https://commons.wikimedia.org/wiki/File:Tampere-talo_panorama_2014.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   61.49583,
+   23.78194
+  ]
+ },
+ {
+  "id": "muurame-church",
+  "name": "Muurame church",
+  "by": "Alvar Aalto",
+  "city": "Muurame",
+  "cc": "FI",
+  "year": "1929",
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "One of Aalto's early works, completed in 1929.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Muurame Church 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Muurame_church",
+   "https://commons.wikimedia.org/wiki/File:Muurame_Church_2017.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   62.12512,
+   25.66429
+  ]
+ },
+ {
+  "id": "seinajoki-civil-guard-house",
+  "name": "Seinäjoki Civil Guard House",
+  "by": "Alvar Aalto",
+  "city": "Seinäjoki",
+  "cc": "FI",
+  "year": "1926",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Axis",
+   "Detail"
+  ],
+  "features": "One of Aalto's first public buildings, designed 1924–1926 in Nordic Classicism.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:White Guard bldg Seinajoki.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seinäjoki_Civil_Guard_House",
+   "https://commons.wikimedia.org/wiki/File:White_Guard_bldg_Seinajoki.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "ateneum",
+  "name": "Ateneum",
+  "by": "Theodor Höijer",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": "1887",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Art museum in the city centre by Rautatientori, designed by Theodor Höijer and completed in 1887.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Helsinki July 2013-26a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ateneum",
+   "https://commons.wikimedia.org/wiki/File:Helsinki_July_2013-26a.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   60.17,
+   24.94417
+  ]
+ },
+ {
+  "id": "espoo-cultural-centre",
+  "name": "Espoo Cultural Centre",
+  "by": "Arto Sipinen",
+  "city": "Espoo",
+  "cc": "FI",
+  "year": "1989",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Culture centre in Tapiola that holds the central library, completed in 1989.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Espoo Cultural Centre Tapiola.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Espoo_Cultural_Centre",
+   "https://commons.wikimedia.org/wiki/File:Espoo_Cultural_Centre_Tapiola.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. lead is the 2nd article photo; the article's first photo showed the Finnish Parliament",
+  "coords": [
+   60.17778,
+   24.80444
+  ]
+ },
+ {
+  "id": "vyborg-library",
+  "name": "Vyborg Library",
+  "by": "Aino Aalto and Alvar Aalto",
+  "city": "Vyborg",
+  "cc": "RU",
+  "year": "1935",
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Section",
+   "Detail"
+  ],
+  "features": "Built 1927–1935 and restored in a project completed in 2013.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Alvar Aalto Library Vyborg3.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vyborg_Library",
+   "https://commons.wikimedia.org/wiki/File:Alvar_Aalto_Library_Vyborg3.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. Russia (Aalto's key work)",
+  "coords": [
+   60.70905,
+   28.74705
+  ]
+ },
+ {
+  "id": "national-theatre-of-iceland",
+  "name": "National Theatre of Iceland",
+  "by": "Guðjón Samúelsson",
+  "city": "Reykjavík",
+  "cc": "IS",
+  "year": "1950",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Axis"
+  ],
+  "features": "National theatre, formally opened on 20 April 1950.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Reykjavik National Library National Theatre.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Theatre_of_Iceland",
+   "https://commons.wikimedia.org/wiki/File:Reykjavik_National_Library_National_Theatre.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight."
+ },
+ {
+  "id": "arktikum",
+  "name": "Arktikum",
+  "by": "Birch-Bonderup & Thorup-Waade",
+  "city": "Rovaniemi",
+  "cc": "FI",
+  "year": "1992",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Public space",
+   "Climate response"
+  ],
+  "features": "Museum and science centre opened 6 December 1992; a crescent annex was added in 1997.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:ArtikumOutside adjusted.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Arktikum",
+   "https://commons.wikimedia.org/wiki/File:ArtikumOutside_adjusted.jpg"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight.",
+  "coords": [
+   66.5075,
+   25.72611
+  ]
+ },
+ {
+  "id": "church-of-the-holy-spirit",
+  "name": "Church of the Holy Spirit, Wolfsburg",
+  "by": "Alvar Aalto",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": "1962",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Lutheran church and parish centre; design completed and building started in 1961.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Wolfsburg Heilig-Geist 2012.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Church_of_the_Holy_Spirit,_Wolfsburg",
+   "https://commons.wikimedia.org/wiki/File:Wolfsburg_Heilig-Geist_2012.JPG"
+  ],
+  "note": "Lead photo checked by eye: whole building, daylight. trees partly hide the church; Germany",
+  "coords": [
+   52.4097,
+   10.76949
+  ]
+ }
+]

@@ -210,3 +210,7 @@ halifax-central-library  # Coordinates check 15 Oct: every photo shows the Centr
 merck-headquarters-building  # Coordinates check 15 Oct: every photo shows the SAS headquarters at Frösundavik, Stockholm (wrong Commons category)
 national-institute-of-immunology  # Coordinates check 15 Oct: every photo shows a Moscow children's hospital (wrong Commons category)
 niagara-falls-public-library  # Coordinates check 15 Oct: photos come from the Niagara Falls Public Library in Ontario, not Paul Rudolph's library in New York
+brisbane-powerhouse  # Round 9 review: no daylight exterior of the building (a market crowd, a mural, interiors)
+centenary-pool-complex-brisbane  # Round 9 review: only photo is at dusk with a car as the subject
+perth-stadium-optus  # Round 9 review: ordinary stadium with no clear daylight exterior (signage, crowds, dusk)
+koelnturm  # Round 9 review: no free photo could be fetched

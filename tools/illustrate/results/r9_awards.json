@@ -1,0 +1,458 @@
+[
+ {
+  "id": "jubilee-library-brighton",
+  "name": "Jubilee Library",
+  "by": "Bennetts Associates",
+  "city": "Brighton",
+  "cc": "GB",
+  "year": "2005",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Among England's most energy-efficient public buildings: half the carbon footprint of a traditional equivalent.",
+  "status": "photo",
+  "commons_category": "Category:Brighton_Library",
+  "photos": [
+   {
+    "file": "File:Jubilee Library and Jubilee Square (from Southwest), Brighton.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Stirling Prize 2005 shortlist",
+  "coords": [
+   50.8252,
+   -0.1383
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jubilee_Library,_Brighton",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Architect from the Stirling list article (Bennetts Associates for Jubilee Library). Photo is the Wikipedia lead image."
+ },
+ {
+  "id": "portcullis-house-london",
+  "name": "Portcullis House",
+  "by": "Michael Hopkins and Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "2001",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Courtyard"
+  ],
+  "features": "Parliamentary offices over Westminster tube station; the corners hang from the roof on steel beams.",
+  "status": "photo",
+  "commons_category": "Category:Portcullis_House",
+  "photos": [
+   {
+    "file": "File:Westminster Station Building.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Stirling Prize 2001 shortlist",
+  "coords": [
+   51.5013,
+   -0.1249
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portcullis_House",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": null
+ },
+ {
+  "id": "river-and-rowing-museum-henley",
+  "name": "River & Rowing Museum",
+  "by": "David Chipperfield",
+  "city": "Henley-on-Thames",
+  "cc": "GB",
+  "year": "1998",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Chipperfield museum by the Thames; Royal Fine Art Commission Building of the Year, 1999.",
+  "status": "photo",
+  "commons_category": "Category:River_and_Rowing_Museum",
+  "photos": [
+   {
+    "file": "File:River-Rowing-Museum-Henley.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Stirling Prize 1999 shortlist",
+  "coords": [
+   51.5322,
+   -0.8961
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/River_%26_Rowing_Museum",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Wikipedia says the museum was officially opened in November 1998; the building is now up for sale."
+ },
+ {
+  "id": "kirklees-stadium-huddersfield",
+  "name": "Kirklees Stadium (John Smith's Stadium)",
+  "by": "Populous",
+  "city": "Huddersfield",
+  "cc": "GB",
+  "year": "1994",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Stadium built in stages from 1994; RIBA Building of the Year for 1995.",
+  "status": "photo",
+  "commons_category": "Category:Kirklees_Stadium",
+  "photos": [
+   {
+    "file": "File:Huddersfield the-john-smiths-stadium.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Building of the Year 1995 (winner)",
+  "coords": [
+   53.65417,
+   -1.76833
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kirklees_Stadium",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Aerial lead photo shows the whole stadium in daylight."
+ },
+ {
+  "id": "valkhof-museum-nijmegen",
+  "name": "Valkhof Museum",
+  "by": "Ben van Berkel (UNStudio)",
+  "city": "Nijmegen",
+  "cc": "NL",
+  "year": "1999",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Museum on the edge of Valkhof park, once a Roman army camp and Charlemagne's citadel.",
+  "status": "photo",
+  "commons_category": "Category:Museum_Het_Valkhof",
+  "photos": [
+   {
+    "file": "File:20071118 Museum Het Valkhof.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "EU Mies van der Rohe Award nominee",
+  "coords": [
+   51.846,
+   5.871
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valkhof_Museum",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Wikipedia names Ben van Berkel as architect; the UNStudio name is not stated there."
+ },
+ {
+  "id": "kuggen-gothenburg",
+  "name": "Kuggen",
+  "by": "Wingårdh arkitektkontor (Gert Wingårdh)",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": "2011",
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Climate response"
+  ],
+  "features": "Round tower in glazed terracotta in six reds and two greens, with a sun-tracking solar screen.",
+  "status": "photo",
+  "commons_category": "Category:Kuggen",
+  "photos": [
+   {
+    "file": "File:Goteborg Lindholmen 6.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "World Architecture Festival 2009 commendation (Future Projects)",
+  "coords": [
+   57.70675,
+   11.93889
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kuggen",
+   "https://en.wikipedia.org/wiki/World_Architecture_Festival"
+  ],
+  "note": null
+ },
+ {
+  "id": "royal-shakespeare-theatre-stratford",
+  "name": "Royal Shakespeare Theatre",
+  "by": "Elisabeth Scott; refurbishment by Bennetts Associates",
+  "city": "Stratford-upon-Avon",
+  "cc": "GB",
+  "year": "2010",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Light from above",
+   "Structure as expression"
+  ],
+  "features": "Elisabeth Scott's 1932 theatre, reworked with a thrust stage and reopened in 2010.",
+  "status": "photo",
+  "commons_category": "Category:Royal_Shakespeare_Theatre",
+  "photos": [
+   {
+    "file": "File:Royal Shakespeare Theatre Stratford upon Avon (crop).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Stirling Prize 2011 shortlist",
+  "coords": [
+   52.1905,
+   -1.7039
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Year is the 2010 reopening; the building dates from 1932."
+ },
+ {
+  "id": "whitechapel-gallery-london",
+  "name": "Whitechapel Gallery",
+  "by": "Charles Harrison Townsend",
+  "city": "London",
+  "cc": "GB",
+  "year": "1901",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Public space"
+  ],
+  "features": "Early British Modern Style building; one of London's first public galleries for temporary shows.",
+  "status": "photo",
+  "commons_category": "Category:Whitechapel_Gallery",
+  "photos": [
+   {
+    "file": "File:Whitechapel Gallery 2020 (3) - Copy.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "EU Mies van der Rohe Award nominee (Whitechapel Art Gallery)",
+  "coords": [
+   51.51598,
+   -0.07049
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Whitechapel_Gallery",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": null
+ },
+ {
+  "id": "mumok-vienna",
+  "name": "Mumok",
+  "by": "Ortner & Ortner",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": "2001",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Stone-clad modern art museum in Vienna's MuseumsQuartier, open since 2001.",
+  "status": "photo",
+  "commons_category": "Category:Museum_Moderner_Kunst_Stiftung_Ludwig_Wien",
+  "photos": [
+   {
+    "file": "File:Wien Museumsplatz 1 mumok.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "EU Mies van der Rohe Award nominee (MuseumsQuartier Wien)",
+  "coords": [
+   48.20372,
+   16.35744
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mumok",
+   "https://en.wikipedia.org/wiki/European_Union_Prize_for_Contemporary_Architecture"
+  ],
+  "note": "Quality image on Commons."
+ },
+ {
+  "id": "windermere-jetty-museum",
+  "name": "Windermere Jetty Museum",
+  "by": "Carmody Groarke",
+  "city": "Windermere",
+  "cc": "GB",
+  "year": "2019",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Water"
+  ],
+  "features": "Boat museum on the Windermere shore with a workshop for conserving historic steam boats.",
+  "status": "photo",
+  "commons_category": "Category:Windermere_Jetty:_Museum_of_Boats,_Steam_and_Stories",
+  "photos": [
+   {
+    "file": "File:Windermere Jetty.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Stirling Prize 2021 shortlist",
+  "coords": [
+   54.37092,
+   -2.92167
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Windermere_Jetty:_Museum_of_Boats,_Steam_and_Stories",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Low dark buildings seen across the water; reviewer check the lead."
+ },
+ {
+  "id": "savill-building-windsor",
+  "name": "Savill Building",
+  "by": "Glenn Howells Architects",
+  "city": "Windsor",
+  "cc": "GB",
+  "year": "2006",
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Planting"
+  ],
+  "features": "Three-domed larch gridshell roof on steel quadropods, with a planted green roof over the entrance.",
+  "status": "photo",
+  "commons_category": "Category:Savill_Building",
+  "photos": [
+   {
+    "file": "File:Savill Building parkside.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Stirling Prize 2007 shortlist",
+  "coords": [
+   51.4271,
+   -0.5966
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Savill_Building",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Wide low view; reviewer check the lead. Type set to Public space (visitor centre) as no better vocab fit."
+ },
+ {
+  "id": "bracken-house-london",
+  "name": "Bracken House",
+  "by": "Albert Richardson; central part redesigned by Michael Hopkins and Partners",
+  "city": "London",
+  "cc": "GB",
+  "year": "1992",
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Adaptive reuse",
+   "Detail"
+  ],
+  "features": "First post-war building listed in England; pink sandstone and bronze, centre redesigned by Hopkins 1988-92.",
+  "status": "photo",
+  "commons_category": "Category:Bracken_House,_London",
+  "photos": [
+   {
+    "file": "File:EH1262582 Bracken House 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "award": "RIBA Building of the Year 1992 shortlist",
+  "coords": [
+   51.5125,
+   -0.09639
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bracken_House,_London",
+   "https://en.wikipedia.org/wiki/RIBA_Stirling_Prize"
+  ],
+  "note": "Year is the Hopkins refurbishment; Richardson built it in 1959. Coordinates from the infobox."
+ }
+]
