@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-20T16:51:20+00:00",
+ "fetched_at": "2026-10-20T21:32:42+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 353,
+ "visits_30d": 382,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 106,
+     "count": 111,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -72,6 +72,14 @@
     },
     {
      "count": 2,
+     "path_id": 113271516,
+     "path": "/buildings/aalto-house-riihitie",
+     "event": false,
+     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112947619,
      "path": "/buildings/bank-of-georgia-headquarters",
      "event": false,
@@ -84,6 +92,14 @@
      "path": "/buildings/zarya-vostoka-building",
      "event": false,
      "title": "Zarya Vostoka building \u2014 David Chisliev, 1931: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112764601,
+     "path": "/buildings/teatro-oficina",
+     "event": false,
+     "title": "Teatro Oficina \u2014 Lina Bo Bardi and Edson Elito, 1993",
      "max": 1
     },
     {
@@ -116,6 +132,14 @@
      "path": "/buildings/nuovo-villaggio-matteotti",
      "event": false,
      "title": "Nuovo Villaggio Matteotti \u2014 Giancarlo De Carlo, 1974: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112481251,
+     "path": "/buildings/bouca-housing",
+     "event": false,
+     "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
      "max": 1
     },
     {
@@ -208,6 +232,174 @@
     },
     {
      "count": 1,
+     "path_id": 113334851,
+     "path": "building/adgb-trade-union-school",
+     "event": true,
+     "title": "ADGB Trade Union School",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334786,
+     "path": "/buildings/madre-museum-naples",
+     "event": false,
+     "title": "MADRE Museum by \u00c1lvaro Siza, 2005: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334783,
+     "path": "building/st-agnes-berlin",
+     "event": true,
+     "title": "St. Agnes (K\u00f6nig Galerie)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334682,
+     "path": "building/dz-bank-building",
+     "event": true,
+     "title": "DZ Bank Building",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334653,
+     "path": "building/academy-of-arts-hanseatenweg",
+     "event": true,
+     "title": "Academy of Arts, Hanseatenweg",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334607,
+     "path": "building/timberline-lodge",
+     "event": true,
+     "title": "Timberline Lodge",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334520,
+     "path": "building/nordic-embassies-berlin",
+     "event": true,
+     "title": "Nordic Embassies",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113334509,
+     "path": "building/maria-regina-martyrum",
+     "event": true,
+     "title": "Maria Regina Martyrum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113331576,
+     "path": "/buildings/villa-busk",
+     "event": false,
+     "title": "Villa Busk by Sverre Fehn, 1990: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113328534,
+     "path": "/buildings/nagoya-city-art-museum",
+     "event": false,
+     "title": "Nagoya City Art Museum by Kisho Kurokawa: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113322419,
+     "path": "/buildings/church-of-saint-peter-durazno",
+     "event": false,
+     "title": "Church of Saint Peter, Durazno by Eladio Dieste: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113319783,
+     "path": "/buildings/estacao-da-luz",
+     "event": false,
+     "title": "Esta\u00e7\u00e3o da Luz by Charles Henry Driver: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113318127,
+     "path": "/buildings/stazione-di-venezia-santa-lucia",
+     "event": false,
+     "title": "Stazione di Venezia Santa Lucia by Angiolo Mazzoni: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113308921,
+     "path": "/buildings/roof-house",
+     "event": false,
+     "title": "Roof House by Tezuka Architects: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113307184,
+     "path": "/buildings/marl-town-hall",
+     "event": false,
+     "title": "Marl Town Hall by Van den Broek en Bakema: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113305005,
+     "path": "/buildings/la-borda",
+     "event": false,
+     "title": "La Borda by Lacol, 2018: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113304414,
+     "path": "/buildings/termas-geometricas",
+     "event": false,
+     "title": "Termas Geom\u00e9tricas by Germ\u00e1n del Sol: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113302863,
+     "path": "/buildings/royal-pavilion-brighton",
+     "event": false,
+     "title": "Royal Pavilion by John Nash, 1823: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113298347,
+     "path": "building/prime-tower",
+     "event": true,
+     "title": "Prime Tower",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113298244,
+     "path": "building/cept-university",
+     "event": true,
+     "title": "CEPT University",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113298212,
+     "path": "map/open",
+     "event": true,
+     "title": "Map opened",
+     "max": 1
+    },
+    {
+     "count": 1,
      "path_id": 113297412,
      "path": "/buildings/national-museum-of-the-republic",
      "event": false,
@@ -244,14 +436,6 @@
      "path": "/buildings/breuer-house-ii-new-canaan",
      "event": false,
      "title": "Breuer House II by Marcel Breuer: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113271516,
-     "path": "/buildings/aalto-house-riihitie",
-     "event": false,
-     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
      "max": 1
     },
     {
@@ -621,193 +805,9 @@
      "event": false,
      "title": "Remai Modern, 2017: photos, plans & sections",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113009392,
-     "path": "/buildings/mediopadana-station",
-     "event": false,
-     "title": "Reggio Emilia AV Mediopadana station, 2013: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113004058,
-     "path": "/buildings/los-manantiales-restaurant",
-     "event": false,
-     "title": "Los Manantiales Restaurant \u2014 F\u00e9lix Candela, 1958",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112985791,
-     "path": "/buildings/national-theatre-lagos",
-     "event": false,
-     "title": "National Theatre, Lagos, 1976: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112963249,
-     "path": "/buildings/shoji-ueda-museum-of-photography",
-     "event": false,
-     "title": "Shoji Ueda Museum of Photography \u2014 Shin Takamatsu, 1995",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112951949,
-     "path": "/buildings/edificio-avianca",
-     "event": false,
-     "title": "Avianca Building, 1969: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112936738,
-     "path": "/buildings/coliseu-do-porto",
-     "event": false,
-     "title": "Coliseu do Porto \u2014 Cassiano Branco, 1941: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112934671,
-     "path": "building/nebotinik-ljubljana",
-     "event": true,
-     "title": "Neboti\u010dnik",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112934647,
-     "path": "/buildings/nebotinik-ljubljana",
-     "event": false,
-     "title": "Neboti\u010dnik \u2014 Vladimir \u0160ubic, 1933: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112926237,
-     "path": "/buildings/cite-de-la-musique",
-     "event": false,
-     "title": "Cit\u00e9 de la musique \u2014 Christian de Portzamparc, 1995: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112924485,
-     "path": "/buildings/museum-of-sydney",
-     "event": false,
-     "title": "Museum of Sydney \u2014 Denton Corker Marshall, 1995: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112923199,
-     "path": "/buildings/casa-rotonda-stabio",
-     "event": false,
-     "title": "Casa Rotonda \u2014 Mario Botta, 1982: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112915299,
-     "path": "/buildings/iate-tenis-clube-pampulha",
-     "event": false,
-     "title": "Iate T\u00eanis Clube, Pampulha \u2014 Oscar Niemeyer, 1942: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112888980,
-     "path": "/buildings/olympic-sculpture-park",
-     "event": false,
-     "title": "Olympic Sculpture Park \u2014 Weiss/Manfredi, 2007: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112887920,
-     "path": "/buildings/torre-latinoamericana",
-     "event": false,
-     "title": "Torre Latinoamericana \u2014 Augusto H. \u00c1lvarez, 1956: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112884296,
-     "path": "/buildings/house-n",
-     "event": false,
-     "title": "House N \u2014 Sou Fujimoto, 2008: photos, plans & sections",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112878037,
-     "path": "/buildings/pointe-a-calliere-museum",
-     "event": false,
-     "title": "Pointe-\u00e0-Calli\u00e8re Museum \u2014 Dan Hanganu, 1992: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112867488,
-     "path": "/buildings/rabindra-bhavan-delhi",
-     "event": false,
-     "title": "Rabindra Bhavan \u2014 Habib Rahman, 1961: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112856475,
-     "path": "/buildings/aula-magna-central-university-of-venezuela",
-     "event": false,
-     "title": "Aula Magna, Central University of Venezuela, 1953: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112843530,
-     "path": "/buildings/villa-bloemenwerf",
-     "event": false,
-     "title": "Villa Bloemenwerf \u2014 Henry van de Velde, 1895: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112842413,
-     "path": "/buildings/st-anna-duren",
-     "event": false,
-     "title": "St. Anna, D\u00fcren \u2014 Rudolf Schwarz, 1956: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112841219,
-     "path": "/buildings/robson-square",
-     "event": false,
-     "title": "Robson Square \u2014 Arthur Erickson, 1983: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112831078,
-     "path": "/buildings/hospital-naval-buenos-aires",
-     "event": false,
-     "title": "Hospital Naval Pedro Mallo \u2014 Clorindo Testa, 1981: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112810953,
-     "path": "/buildings/katsura-imperial-villa",
-     "event": false,
-     "title": "Katsura Imperial Villa, 17th c.: photos",
-     "max": 1
     }
    ],
-   "total": 247,
+   "total": 255,
    "more": true
   },
   "referrers": {
@@ -815,24 +815,24 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 151,
+     "count": 161,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 96,
+     "count": 111,
      "ref_scheme": "o"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 14,
+     "count": 15,
      "ref_scheme": "c"
     },
     {
      "id": "reddit",
      "name": "reddit",
-     "count": 10,
+     "count": 11,
      "ref_scheme": "c"
     },
     {
@@ -848,21 +848,21 @@
      "ref_scheme": "c"
     },
     {
+     "id": "gemini.google.com",
+     "name": "gemini.google.com",
+     "count": 5,
+     "ref_scheme": "h"
+    },
+    {
      "id": "youtube`",
      "name": "youtube`",
      "count": 5,
      "ref_scheme": "c"
     },
     {
-     "id": "gemini.google.com",
-     "name": "gemini.google.com",
-     "count": 4,
-     "ref_scheme": "h"
-    },
-    {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 3,
+     "count": 4,
      "ref_scheme": "c"
     },
     {
@@ -885,17 +885,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 229
+     "count": 248
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 111
+     "count": 120
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 13
+     "count": 14
     }
    ],
    "more": false
@@ -905,27 +905,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 147
+     "count": 162
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 78
+     "count": 87
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 49
+     "count": 51
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 40
+     "count": 42
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 38
+     "count": 39
     },
     {
      "id": "Chrome OS",
@@ -940,22 +940,27 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 91
+     "count": 95
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 77
+     "count": 78
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 22
+     "count": 30
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 17
+     "count": 20
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
+     "count": 14
     },
     {
      "id": "ES",
@@ -968,8 +973,8 @@
      "count": 12
     },
     {
-     "id": "CA",
-     "name": "Canada",
+     "id": "CH",
+     "name": "Switzerland",
      "count": 12
     },
     {
@@ -978,9 +983,9 @@
      "count": 10
     },
     {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 8
+     "id": "TR",
+     "name": "Turkey",
+     "count": 10
     },
     {
      "id": "FR",
@@ -988,19 +993,19 @@
      "count": 8
     },
     {
-     "id": "TR",
-     "name": "Turkey",
-     "count": 8
-    },
-    {
      "id": "PT",
      "name": "Portugal",
-     "count": 7
+     "count": 8
     },
     {
      "id": "MX",
      "name": "Mexico",
      "count": 5
+    },
+    {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 4
     },
     {
      "id": "ID",
@@ -1038,13 +1043,18 @@
      "count": 3
     },
     {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 3
+    },
+    {
      "id": "AT",
      "name": "Austria",
      "count": 2
     },
     {
-     "id": "BR",
-     "name": "Brazil",
+     "id": "FI",
+     "name": "Finland",
      "count": 2
     },
     {
@@ -1065,11 +1075,6 @@
     {
      "id": "TH",
      "name": "Thailand",
-     "count": 2
-    },
-    {
-     "id": "TW",
-     "name": "Taiwan",
      "count": 2
     },
     {
@@ -1105,11 +1110,6 @@
     {
      "id": "CR",
      "name": "Costa Rica",
-     "count": 1
-    },
-    {
-     "id": "FI",
-     "name": "Finland",
      "count": 1
     },
     {
@@ -1205,7 +1205,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 110
+     "count": 121
     },
     {
      "id": "tablet",
@@ -1215,12 +1215,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 208
+     "count": 216
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 10
+     "count": 20
     },
     {
      "id": "unknown",
@@ -1235,7 +1235,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 353
+     "count": 382
     }
    ],
    "more": false
