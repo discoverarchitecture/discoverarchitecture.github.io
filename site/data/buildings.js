@@ -4884,32 +4884,8 @@ window.BUILDINGS = [
     "file": "File:Sydney Harbour Bridge and Sydney Opera House panorama.jpg"
    },
    {
-    "src": "images/sydney-opera-house/10.webp",
-    "thumb": "images/sydney-opera-house/thumbs/10.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Photographic Collection  from Australia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:First_Floor_Plan_(Sydney_Opera_House)_(5373921522).jpg",
-    "file": "File:First Floor Plan (Sydney Opera House) (5373921522).jpg"
-   },
-   {
-    "src": "images/sydney-opera-house/11.webp",
-    "thumb": "images/sydney-opera-house/thumbs/11.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Photographic Collection  from Australia",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stage_Machinery_Plan_(Sydney_Opera_House)_(5373921032)_(3).jpg",
-    "file": "File:Stage Machinery Plan (Sydney Opera House) (5373921032) (3).jpg"
-   },
-   {
-    "src": "images/sydney-opera-house/9.webp",
-    "thumb": "images/sydney-opera-house/thumbs/9.webp",
+    "src": "images/sydney-opera-house/8.webp",
+    "thumb": "images/sydney-opera-house/thumbs/8.webp",
     "w": 1280,
     "h": 869,
     "kind": "Section",
@@ -4920,23 +4896,46 @@ window.BUILDINGS = [
     "file": "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg"
    },
    {
-    "src": "images/sydney-opera-house/8.webp",
-    "thumb": "images/sydney-opera-house/thumbs/8.webp",
+    "src": "images/sydney-opera-house/9.webp",
+    "thumb": "images/sydney-opera-house/thumbs/9.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Maqueta del edificio de la Ópera de Sydney",
-    "credit": "Plindberg",
+    "h": 869,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Photographic Collection  from Australia",
     "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maqueta_de_la_%C3%B3pera_de_Sydney.jpg",
-    "file": "File:Maqueta de la ópera de Sydney.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:First_Floor_Plan_(Sydney_Opera_House)_(5373921522).jpg",
+    "file": "File:First Floor Plan (Sydney Opera House) (5373921522).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/10.webp",
+    "thumb": "images/sydney-opera-house/thumbs/10.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Photographic Collection  from Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stage_Machinery_Plan_(Sydney_Opera_House)_(5373921032)_(3).jpg",
+    "file": "File:Stage Machinery Plan (Sydney Opera House) (5373921032) (3).jpg"
+   },
+   {
+    "src": "images/sydney-opera-house/11.webp",
+    "thumb": "images/sydney-opera-house/thumbs/11.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Photographic Collection  from Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Site_Plan_(Sydney_Opera_House)_(5373322823).jpg",
+    "file": "File:Site Plan (Sydney Opera House) (5373322823).jpg"
    }
   ],
   "commons": "Category:Sydney Opera House",
   "has": [
    "Plan",
-   "Section",
-   "Model"
+   "Section"
   ],
   "gv": 3,
   "coords": [
@@ -17769,8 +17768,20 @@ window.BUILDINGS = [
     "file": "File:Sagrada Familia March 2015-14a.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Simbologia_del_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia.jpg/1280px-Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Simbologia_del_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Planta_SF_Villar_1882.jpg/1280px-Planta_SF_Villar_1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sagrada-familia/thumbs/6.webp",
+    "w": 1280,
+    "h": 1073,
+    "kind": "Plan",
+    "caption": "Plan · Planta de la Sagrada Familia elaborada por Francisco del Villar (1882)",
+    "credit": "Francisco del Villar",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Planta_SF_Villar_1882.jpg",
+    "file": "File:Planta SF Villar 1882.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Simbologia_del_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia.jpg/1280px-Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Simbologia_del_Temple_Expiatori_de_la_Sagrada_Fam%C3%ADlia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sagrada-familia/thumbs/7.webp",
     "w": 997,
     "h": 1400,
     "kind": "Plan",
@@ -17781,47 +17792,33 @@ window.BUILDINGS = [
     "file": "File:Barcelona - Crypt of La Sagrada Família - Simbologia del Temple Expiatori de la Sagrada Família.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Sagrada-sketch.png/1280px-Sagrada-sketch.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sagrada-familia/thumbs/7.webp",
-    "w": 1280,
-    "h": 947,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "Antoni Gaudi / myself",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sagrada-sketch.png",
-    "file": "File:Sagrada-sketch.png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_View_Up_I.jpg/1280px-Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_View_Up_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/SF_-_Alzado_capilla_San_Jos%C3%A9_%281884%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/sagrada-familia/thumbs/8.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - View Up",
-    "credit": "Txllxt TxllxT",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Crypt_of_La_Sagrada_Fam%C3%ADlia_-_Gypsum_Model_of_Central_Nave_Vault_-_View_Up_I.jpg",
-    "file": "File:Barcelona - Crypt of La Sagrada Família - Gypsum Model of Central Nave Vault - View Up I.jpg"
+    "w": 656,
+    "h": 1030,
+    "kind": "Elevation",
+    "caption": "Elevation · Alzado de la Capilla de San José de la Cripta de la Sagrada Familia, dibujo original de Gaudí (1884)",
+    "credit": "Antoni Gaudí",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:SF_-_Alzado_capilla_San_Jos%C3%A9_(1884).jpg",
+    "file": "File:SF - Alzado capilla San José (1884).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Sagrada_Familia059.jpg/1280px-Sagrada_Familia059.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sagrada_Familia-secci%C3%B3n.jpg/1280px-Sagrada_Familia-secci%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sagrada-familia/thumbs/9.webp",
-    "w": 1050,
+    "w": 1056,
     "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · Sagrada Familia 's museum in Barcelona ",
-    "credit": "Harmonia Amanda",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia059.jpg",
-    "file": "File:Sagrada Familia059.jpg"
+    "kind": "Elevation",
+    "caption": "Elevation · Sección transversal de la Sagrada Familia (Gaudí)",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia-secci%C3%B3n.jpg",
+    "file": "File:Sagrada Familia-sección.jpg"
    }
   ],
   "has": [
    "Plan",
-   "Sketch",
-   "Model",
-   "Drawing"
+   "Elevation"
   ],
   "gv": 3
  },
@@ -30353,7 +30350,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Borobudur_Sunrise_2012-01-05.jpg/1280px-Borobudur_Sunrise_2012-01-05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/borobudur/thumbs/3.webp",
+    "thumb": "images/borobudur/thumbs/2.webp",
     "w": 1280,
     "h": 837,
     "kind": "Exterior",
@@ -30362,6 +30359,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Borobudur_Sunrise_2012-01-05.jpg",
     "file": "File:Borobudur Sunrise 2012-01-05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Borobudur_%28Central_Java%2C_Indonesia%29_%2851112185293%29.jpg/1280px-Borobudur_%28Central_Java%2C_Indonesia%29_%2851112185293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/borobudur/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Borobudur (Central Java, Indonesia)",
+    "credit": "Sasha India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_(Central_Java,_Indonesia)_(51112185293).jpg",
+    "file": "File:Borobudur (Central Java, Indonesia) (51112185293).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Poort_met_reli%C3%ABfs_van_de_Borobudur_%28Boroboedoer%29%2C_nabij_Magelang%2C_Nederlands-Indi%C3%AB._78._Boroboedoer_%28titel_op_object%29%2C_RP-F-00-5346-85.jpg/1280px-Poort_met_reli%C3%ABfs_van_de_Borobudur_%28Boroboedoer%29%2C_nabij_Magelang%2C_Nederlands-Indi%C3%AB._78._Boroboedoer_%28titel_op_object%29%2C_RP-F-00-5346-85.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -30388,20 +30397,8 @@ window.BUILDINGS = [
     "file": "File:Monks at Borobudur.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Borobudur_Ground_Plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/borobudur/thumbs/6.webp",
-    "w": 800,
-    "h": 800,
-    "kind": "Plan",
-    "caption": "Plan · en:Borobudur ground plan",
-    "credit": "en:User:Indon",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_Ground_Plan.png",
-    "file": "File:Borobudur Ground Plan.png"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Borobudur_Half_Cross_Section.png/1280px-Borobudur_Half_Cross_Section.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/borobudur/thumbs/9.webp",
+    "thumb": "images/borobudur/thumbs/6.webp",
     "w": 1280,
     "h": 753,
     "kind": "Section",
@@ -30412,35 +30409,20 @@ window.BUILDINGS = [
     "file": "File:Borobudur Half Cross Section.png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/A_beautiful_small_replica_of_the_Borobudur_temple..jpg/1280px-A_beautiful_small_replica_of_the_Borobudur_temple..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Borobudur_half_cross_section.png/1280px-Borobudur_half_cross_section.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/borobudur/thumbs/7.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · This is a miniature replica, in Prayag Film city, of the famous Borobudur temple in Indonesia",
-    "credit": "Kunalrks",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:A_beautiful_small_replica_of_the_Borobudur_temple..jpg",
-    "file": "File:A beautiful small replica of the Borobudur temple..jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/COLLECTIE_TROPENMUSEUM_Plattegrond_van_de_Borobudur_TMnr_10015639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/borobudur/thumbs/8.webp",
-    "w": 700,
-    "h": 688,
-    "kind": "Drawing",
-    "caption": "Drawing · Plan of the Borobudur",
-    "credit": "Unknown author",
+    "h": 858,
+    "kind": "Section",
+    "caption": "Section · Half cross section of Borobudur",
+    "credit": "User:(WT-shared) Burmesedays ,  Indon",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Plattegrond_van_de_Borobudur_TMnr_10015639.jpg",
-    "file": "File:COLLECTIE TROPENMUSEUM Plattegrond van de Borobudur TMnr 10015639.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Borobudur_half_cross_section.png",
+    "file": "File:Borobudur half cross section.png"
    }
   ],
   "has": [
-   "Plan",
-   "Section",
-   "Model",
-   "Drawing"
+   "Section"
   ],
   "gv": 3
  },
@@ -84609,59 +84591,57 @@ window.BUILDINGS = [
     "file": "File:2017-07-29 France, Paris DSC 2843 DxO.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Palais_Garnier_plan_at_ground_floor_-_Mead_1991_p101.jpg/1280px-Palais_Garnier_plan_at_ground_floor_-_Mead_1991_p101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Palais_Garnier_plan_of_the_roof_-_Mead_1991_p104.jpg/1280px-Palais_Garnier_plan_of_the_roof_-_Mead_1991_p104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/6.webp",
-    "w": 1044,
+    "w": 936,
     "h": 1400,
     "kind": "Plan",
-    "caption": "Plan · Ground-floor plan of the Paris Opera's Palais Garnier",
+    "caption": "Plan · Roof plan of the Paris Opera's Palais Garnier",
     "credit": "Charles Garnier  (1825–1898), architect Rebout, engraver Bordet, engraver",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_plan_at_ground_floor_-_Mead_1991_p101.jpg",
-    "file": "File:Palais Garnier plan at ground floor - Mead 1991 p101.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_plan_of_the_roof_-_Mead_1991_p104.jpg",
+    "file": "File:Palais Garnier plan of the roof - Mead 1991 p104.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Mead_1991_p102.jpg/1280px-Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Mead_1991_p102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Beauvert_1996_p106.jpg/1280px-Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Beauvert_1996_p106.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/7.webp",
     "w": 1280,
-    "h": 768,
+    "h": 834,
     "kind": "Section",
     "caption": "Section · Transverse section at the auditorium and pavilions of the Paris Opera's Palais Garnier",
-    "credit": "Charles Garnier  (1825–1898), architect Riquois, engraver Bordet, engraver",
+    "credit": "Charles Garnier",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Mead_1991_p102.jpg",
-    "file": "File:Palais Garnier transverse section at the auditorium and pavilions - Mead 1991 p102.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_transverse_section_at_the_auditorium_and_pavilions_-_Beauvert_1996_p106.jpg",
+    "file": "File:Palais Garnier transverse section at the auditorium and pavilions - Beauvert 1996 p106.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg/1280px-Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Palais_Garnier_long_section_-_Steinhauser_1969_plate7.jpg/1280px-Palais_Garnier_long_section_-_Steinhauser_1969_plate7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/8.webp",
     "w": 1280,
-    "h": 791,
-    "kind": "Elevation",
-    "caption": "Elevation · Elevation of the principal facade of the Paris Opera's Palais Garnier",
-    "credit": "Charles Garnier  (1825–1898), architect de Garron, engraver",
+    "h": 804,
+    "kind": "Section",
+    "caption": "Section · Longitudinal section of the Paris Opera's Palais Garnier",
+    "credit": "Charles Garnier  (1825–1898), architect",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_elevation_of_the_principal_facade_-_Mead_1991_p102.jpg",
-    "file": "File:Palais Garnier elevation of the principal facade - Mead 1991 p102.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_long_section_-_Steinhauser_1969_plate7.jpg",
+    "file": "File:Palais Garnier long section - Steinhauser 1969 plate7.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Maquette_salle_op%C3%A9ra_garnier.jpg/1280px-Maquette_salle_op%C3%A9ra_garnier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Palais_Garnier_transverse_section_at_the_portico_and_loggia_-_Steinhauser_1969_plate18.jpg/1280px-Palais_Garnier_transverse_section_at_the_portico_and_loggia_-_Steinhauser_1969_plate18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palais-garnier/thumbs/9.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Détail de la maquette de l'Opéra Garnier exposée au musée d'Orsay",
-    "credit": "AgathaNi",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquette_salle_op%C3%A9ra_garnier.jpg",
-    "file": "File:Maquette salle opéra garnier.jpg"
+    "h": 826,
+    "kind": "Section",
+    "caption": "Section · Transverse section at the front portico and loggia of the Paris Opera's Palais Garnier (looking north)",
+    "credit": "Charles Garnier  (1825–1898), architect",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Garnier_transverse_section_at_the_portico_and_loggia_-_Steinhauser_1969_plate18.jpg",
+    "file": "File:Palais Garnier transverse section at the portico and loggia - Steinhauser 1969 plate18.jpg"
    }
   ],
   "has": [
    "Plan",
-   "Section",
-   "Elevation",
-   "Model"
+   "Section"
   ],
   "gv": 3
  },
@@ -86528,8 +86508,20 @@ window.BUILDINGS = [
     "file": "File:Ascension de la tour Eiffel par les escaliers.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Budapest_P%C3%A1rizsi_Nagy_%C3%81ruh%C3%A1z_829.jpg/1280px-Budapest_P%C3%A1rizsi_Nagy_%C3%81ruh%C3%A1z_829.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/eiffel-tower/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Buchhandlung Alexandra im ehemaligen Kaufhaus Divatcsarnok am Boulevard Andrássy út in Budapest (Ungarn)",
+    "credit": "GFreihalter",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Budapest_P%C3%A1rizsi_Nagy_%C3%81ruh%C3%A1z_829.jpg",
+    "file": "File:Budapest Párizsi Nagy Áruház 829.jpg"
+   },
+   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Eiffel_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/eiffel-tower/thumbs/8.webp",
+    "thumb": "images/eiffel-tower/thumbs/6.webp",
     "w": 667,
     "h": 1400,
     "kind": "Elevation",
@@ -86541,7 +86533,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Skizze_Eiffelturm_-_technische_Daten.png/1280px-Skizze_Eiffelturm_-_technische_Daten.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/9.webp",
+    "thumb": "images/eiffel-tower/thumbs/7.webp",
     "w": 996,
     "h": 1400,
     "kind": "Elevation",
@@ -86552,33 +86544,32 @@ window.BUILDINGS = [
     "file": "File:Skizze Eiffelturm - technische Daten.png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Miniature_Eiffel_Tower_in_Homie%C4%BA_%281%29.jpg/1280px-Miniature_Eiffel_Tower_in_Homie%C4%BA_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/6.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Miniature Eiffel Tower in Homieĺ",
-    "credit": "Vasyatka1",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Miniature_Eiffel_Tower_in_Homie%C4%BA_(1).jpg",
-    "file": "File:Miniature Eiffel Tower in Homieĺ (1).jpg"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/La_Tour_Eiffel._D%C3%A9tails_de_la_construction_et_du_fonctionnement_des_ascenseurs_Otis.jpg/1280px-La_Tour_Eiffel._D%C3%A9tails_de_la_construction_et_du_fonctionnement_des_ascenseurs_Otis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/eiffel-tower/thumbs/8.webp",
+    "w": 1280,
+    "h": 887,
+    "kind": "Drawing",
+    "caption": "Drawing · This print illustrates the way in which the elevators of the Eiffel Tower functioned",
+    "credit": "G. Hentschel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel._D%C3%A9tails_de_la_construction_et_du_fonctionnement_des_ascenseurs_Otis.jpg",
+    "file": "File:La Tour Eiffel. Détails de la construction et du fonctionnement des ascenseurs Otis.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/La_Tour_Eiffel_au_1er_Juin_1888_vue_depuis_le_quai_de_Grenelle_%C3%A0_l%27angle_de_la_rue_de_la_F%C3%A9d%C3%A9ration%2C_15%C3%A8me_arrondissemen%2C_D.12333.jpg/1280px-La_Tour_Eiffel_au_1er_Juin_1888_vue_depuis_le_quai_de_Grenelle_%C3%A0_l%27angle_de_la_rue_de_la_F%C3%A9d%C3%A9ration%2C_15%C3%A8me_arrondissemen%2C_D.12333.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/eiffel-tower/thumbs/7.webp",
-    "w": 1280,
-    "h": 916,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Le_sommet_de_la_Tour_Eiffel._Coupe_dessin%C3%A9ee_par_M._Rouillard.jpg/1280px-Le_sommet_de_la_Tour_Eiffel._Coupe_dessin%C3%A9ee_par_M._Rouillard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/eiffel-tower/thumbs/9.webp",
+    "w": 915,
+    "h": 1400,
     "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Chauvet, Jules-Adolphe (Péronne, en 29–09–1828 - après 1906), dessinateur",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_au_1er_Juin_1888_vue_depuis_le_quai_de_Grenelle_%C3%A0_l%27angle_de_la_rue_de_la_F%C3%A9d%C3%A9ration,_15%C3%A8me_arrondissemen,_D.12333.jpg",
-    "file": "File:La Tour Eiffel au 1er Juin 1888 vue depuis le quai de Grenelle à l'angle de la rue de la Fédération, 15ème arrondissemen, D.12333.jpg"
+    "caption": "Drawing · This image is a cross section of the top of the Eiffel Tower",
+    "credit": "This image is available from the  Brown University  Library under the digital ID  1254146861593750 .",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_sommet_de_la_Tour_Eiffel._Coupe_dessin%C3%A9ee_par_M._Rouillard.jpg",
+    "file": "File:Le sommet de la Tour Eiffel. Coupe dessinéee par M. Rouillard.jpg"
    }
   ],
   "has": [
    "Elevation",
-   "Model",
    "Drawing"
   ],
   "gv": 3
@@ -98813,6 +98804,30 @@ window.BUILDINGS = [
     "file": "File:Kennedy Center barricade Washington DC 2026-09-21 08-59-25.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Kennedy_Center_behind_Barren_Winter_Vegetation_5.jpg/1280px-Kennedy_Center_behind_Barren_Winter_Vegetation_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kennedy-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Theodore Roosevelt Island",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_behind_Barren_Winter_Vegetation_5.jpg",
+    "file": "File:Kennedy Center behind Barren Winter Vegetation 5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Kennedy_Center_behind_Barren_Winter_Vegetation.jpg/1280px-Kennedy_Center_behind_Barren_Winter_Vegetation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kennedy-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Theodore Roosevelt Island",
+    "credit": "Amaury Laporte",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_behind_Barren_Winter_Vegetation.jpg",
+    "file": "File:Kennedy Center behind Barren Winter Vegetation.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Kennedy_Center_Grand_Foyer.JPG/1280px-Kennedy_Center_Grand_Foyer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kennedy-center/thumbs/5.webp",
     "w": 1050,
@@ -98825,7 +98840,7 @@ window.BUILDINGS = [
     "file": "File:Kennedy Center Grand Foyer.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_22_of_36%29.png/1280px-Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_22_of_36%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_22_of_36%29.tif/lossy-page1-1280px-Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_22_of_36%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/kennedy-center/thumbs/6.webp",
     "w": 1280,
     "h": 995,
@@ -98833,25 +98848,12 @@ window.BUILDINGS = [
     "caption": "Plan",
     "credit": "Related names:\n \n  Olmsted, F L; Partridge, William B; Langden, James G; Jeffers, Thomas; Payne, Irv",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_22_of_36).png",
-    "file": "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 22 of 36).png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_8_of_36%29.png/1280px-Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_8_of_36%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kennedy-center/thumbs/7.webp",
-    "w": 1280,
-    "h": 987,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Related names:\n \n  Olmsted, F L; Partridge, William B; Langden, James G; Jeffers, Thomas; Payne, Irv",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_8_of_36).png",
-    "file": "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 8 of 36).png"
+    "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_22_of_36).tif",
+    "file": "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 22 of 36).tif"
    }
   ],
   "has": [
-   "Plan",
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -206363,7 +206365,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hsiang_Fei_%28plan_of_the_Forbidden_City%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/forbidden-city/thumbs/8.webp",
+    "thumb": "images/forbidden-city/thumbs/6.webp",
     "w": 1200,
     "h": 1248,
     "kind": "Plan",
@@ -206372,36 +206374,10 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Hsiang_Fei_(plan_of_the_Forbidden_City).jpg",
     "file": "File:Hsiang Fei (plan of the Forbidden City).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Imperial_Palace%2C_Pekin%2C_by_William_Simpson_%281823%E2%80%931899%29.png/1280px-The_Imperial_Palace%2C_Pekin%2C_by_William_Simpson_%281823%E2%80%931899%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/forbidden-city/thumbs/6.webp",
-    "w": 1280,
-    "h": 864,
-    "kind": "Sketch",
-    "caption": "Sketch",
-    "credit": "William Simpson",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Imperial_Palace,_Pekin,_by_William_Simpson_(1823%E2%80%931899).png",
-    "file": "File:The Imperial Palace, Pekin, by William Simpson (1823–1899).png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Forbidden_City_model.jpg/1280px-Forbidden_City_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/forbidden-city/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Forbidden City model",
-    "credit": "DestinationFearFan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Forbidden_City_model.jpg",
-    "file": "File:Forbidden City model.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Sketch",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -238087,20 +238063,20 @@ window.BUILDINGS = [
     "file": "File:Watergate Fountain.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_9_of_36%29.png/1280px-Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_9_of_36%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_23_of_36%29.tif/lossy-page1-1280px-Rock_Creek_and_Potomac_Parkway%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C686_%28sheet_23_of_36%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/watergate-complex/thumbs/6.webp",
     "w": 1280,
-    "h": 986,
-    "kind": "Drawing",
-    "caption": "Drawing",
+    "h": 994,
+    "kind": "Plan",
+    "caption": "Plan",
     "credit": "Related names:\n \n  Olmsted, F L; Partridge, William B; Langden, James G; Jeffers, Thomas; Payne, Irv",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_9_of_36).png",
-    "file": "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 9 of 36).png"
+    "source": "https://commons.wikimedia.org/wiki/File:Rock_Creek_and_Potomac_Parkway,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,686_(sheet_23_of_36).tif",
+    "file": "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 23 of 36).tif"
    }
   ],
   "has": [
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
