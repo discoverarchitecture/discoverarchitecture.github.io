@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-19T22:17:14+00:00",
+ "fetched_at": "2026-10-20T04:39:42+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 304,
+ "visits_30d": 327,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 100,
+     "count": 103,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -88,10 +88,26 @@
     },
     {
      "count": 2,
+     "path_id": 112704780,
+     "path": "/buildings/national-library-building",
+     "event": false,
+     "title": "National Library Building \u2014 T. R. Hamzah & Yeang, 2005",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112610074,
      "path": "/buildings/garden-and-house",
      "event": false,
      "title": "Garden & House \u2014 Ryue Nishizawa, 2011: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112547527,
+     "path": "/buildings/nuovo-villaggio-matteotti",
+     "event": false,
+     "title": "Nuovo Villaggio Matteotti \u2014 Giancarlo De Carlo, 1974: photos",
      "max": 1
     },
     {
@@ -172,6 +188,150 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113148939,
+     "path": "building/state-trading-corporation-building",
+     "event": true,
+     "title": "State Trading Corporation Building",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113148887,
+     "path": "/buildings/state-trading-corporation-building",
+     "event": false,
+     "title": "State Trading Corporation Building \u2014 Raj Rewal, 1989: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113146147,
+     "path": "/buildings/bergpolderflat",
+     "event": false,
+     "title": "Bergpolderflat, 1934: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113137604,
+     "path": "/buildings/perret-tower",
+     "event": false,
+     "title": "Perret Tower \u2014 Auguste Perret, 1925: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113136668,
+     "path": "/buildings/toho-gakuen-school-of-music",
+     "event": false,
+     "title": "Toho Gakuen School of Music \u2014 Nikken Sekkei, 2014: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113133146,
+     "path": "/buildings/peace-palace-the-hague",
+     "event": false,
+     "title": "Peace Palace \u2014 Louis M. Cordonnier, 1913: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113129209,
+     "path": "/buildings/ravindra-bharathi",
+     "event": false,
+     "title": "Ravindra Bharathi \u2014 Mohammed Fayazuddin, 1961: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113125170,
+     "path": "/buildings/usera-library",
+     "event": false,
+     "title": "Usera Public Library (Jos\u00e9 Hierro) \u2014 \u00c1balos & Herreros, 2003",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113123091,
+     "path": "building/the-pyramids-indianapolis",
+     "event": true,
+     "title": "The Pyramids (College Life Insurance)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113122999,
+     "path": "/buildings/the-pyramids-indianapolis",
+     "event": false,
+     "title": "The Pyramids (College Life Insurance), 1972",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113122513,
+     "path": "/buildings/paustian-house",
+     "event": false,
+     "title": "Paustian House \u2014 J\u00f8rn Utzon, 1987: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113118844,
+     "path": "/buildings/arcadia-education-project",
+     "event": false,
+     "title": "Arcadia Education Project \u2014 Saif Ul Haque, 2016: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113099209,
+     "path": "/buildings/agios-dimitrios-circular-school",
+     "event": false,
+     "title": "Circular School, Agios Dimitrios \u2014 Takis Zenetos, 1976",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113092245,
+     "path": "/buildings/coltejer-building",
+     "event": false,
+     "title": "Coltejer Building, 1972: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113091673,
+     "path": "/buildings/retiro-bus-station",
+     "event": false,
+     "title": "Retiro Bus Station, 1983: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113090474,
+     "path": "/buildings/toba-sea-folk-museum",
+     "event": false,
+     "title": "Toba Sea-Folk Museum \u2014 Hiroshi Naito, 1992: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113090451,
+     "path": "/buildings/nakagawa-machi-bato-hiroshige-museum",
+     "event": false,
+     "title": "Nakagawa-machi Bato Hiroshige Museum \u2014 Kengo Kuma, 2000",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113088165,
+     "path": "/buildings/bevin-court",
+     "event": false,
+     "title": "Bevin Court, 1954: photos",
      "max": 1
     },
     {
@@ -640,174 +800,14 @@
     },
     {
      "count": 1,
-     "path_id": 112704780,
-     "path": "/buildings/national-library-building",
-     "event": false,
-     "title": "National Library Building \u2014 T. R. Hamzah & Yeang, 2005",
-     "max": 1
-    },
-    {
-     "count": 1,
      "path_id": 112697945,
      "path": "/buildings/pennzoil-place",
      "event": false,
      "title": "Pennzoil Place \u2014 Philip Johnson and John Burgee, 1975",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112696424,
-     "path": "/buildings/manila-city-hall",
-     "event": false,
-     "title": "Manila City Hall \u2014 Antonio M. Toledo, 1941: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112688934,
-     "path": "/buildings/st-davids-hall-cardiff",
-     "event": false,
-     "title": "St David's Hall \u2014 Seymour Harris Partnership, 1982: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112672021,
-     "path": "/buildings/gando-primary-school",
-     "event": false,
-     "title": "Gando Primary School \u2014 Di\u00e9b\u00e9do Francis K\u00e9r\u00e9, 2001",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112651737,
-     "path": "/buildings/kaedi-regional-hospital",
-     "event": false,
-     "title": "Ka\u00e9di Regional Hospital \u2014 Fabrizio Carola, ADAUA, 1989",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112640815,
-     "path": "/buildings/svalbard-global-seed-vault",
-     "event": false,
-     "title": "Svalbard Global Seed Vault \u2014 Peter W. Soderman, 2008: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112605750,
-     "path": "/buildings/sanskar-kendra",
-     "event": false,
-     "title": "Sanskar Kendra \u2014 Le Corbusier, 1957: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112578341,
-     "path": "/buildings/egyptian-museum-cairo",
-     "event": false,
-     "title": "Egyptian Museum \u2014 Marcel Dourgnon, 1902: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112567705,
-     "path": "/buildings/23-de-enero-superblocks",
-     "event": false,
-     "title": "23 de Enero Superblocks \u2014 Carlos Ra\u00fal Villanueva, 1957",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112563396,
-     "path": "/buildings/faculty-of-architecture-university-of-porto",
-     "event": false,
-     "title": "Faculty of Architecture, University of Porto, 1996: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112560724,
-     "path": "/buildings/hotel-van-eetvelde",
-     "event": false,
-     "title": "H\u00f4tel van Eetvelde \u2014 Victor Horta, 1898",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112560704,
-     "path": "/buildings/claudio-santoro-national-theatre",
-     "event": false,
-     "title": "Claudio Santoro National Theatre \u2014 Oscar Niemeyer, 1966",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112558959,
-     "path": "/buildings/new-world-center",
-     "event": false,
-     "title": "New World Center \u2014 Frank Gehry, 2011",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112557676,
-     "path": "/buildings/maison-la-roche",
-     "event": false,
-     "title": "Maison La Roche \u2014 Le Corbusier, Pierre Jeanneret, 1925: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112547527,
-     "path": "/buildings/nuovo-villaggio-matteotti",
-     "event": false,
-     "title": "Nuovo Villaggio Matteotti \u2014 Giancarlo De Carlo, 1974: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112543195,
-     "path": "/buildings/city-hall-and-central-library-the-hague",
-     "event": false,
-     "title": "City Hall and Central Library, The Hague, 1995",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112542681,
-     "path": "building/independence-arch-accra",
-     "event": true,
-     "title": "Independence Arch",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112542443,
-     "path": "/buildings/st-george-cathedral-addis-ababa",
-     "event": false,
-     "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112539595,
-     "path": "building/tanzbrunnen-cologne",
-     "event": true,
-     "title": "Tanzbrunnen (Star Wave Tent)",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112537574,
-     "path": "building/sever-hall",
-     "event": true,
-     "title": "Sever Hall",
-     "max": 1
     }
    ],
-   "total": 235,
+   "total": 240,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 121,
+     "count": 131,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 82,
+     "count": 90,
      "ref_scheme": "o"
     },
     {
@@ -885,17 +885,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 190
+     "count": 209
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 104
+     "count": 106
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 10
+     "count": 12
     }
    ],
    "more": false
@@ -905,27 +905,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 126
+     "count": 137
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 75
+     "count": 76
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 42
+     "count": 43
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 33
+     "count": 37
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 27
+     "count": 33
     },
     {
      "id": "Chrome OS",
@@ -940,17 +940,17 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 77
+     "count": 87
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 72
+     "count": 75
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 19
+     "count": 20
     },
     {
      "id": "GB",
@@ -965,12 +965,12 @@
     {
      "id": "CA",
      "name": "Canada",
-     "count": 11
+     "count": 12
     },
     {
      "id": "ES",
      "name": "Spain",
-     "count": 11
+     "count": 12
     },
     {
      "id": "PT",
@@ -996,6 +996,16 @@
      "id": "IT",
      "name": "Italy",
      "count": 6
+    },
+    {
+     "id": "MX",
+     "name": "Mexico",
+     "count": 5
+    },
+    {
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 4
     },
     {
      "id": "RO",
@@ -1035,11 +1045,6 @@
     {
      "id": "BR",
      "name": "Brazil",
-     "count": 2
-    },
-    {
-     "id": "MX",
-     "name": "Mexico",
      "count": 2
     },
     {
@@ -1098,8 +1103,8 @@
      "count": 1
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "HR",
+     "name": "Croatia",
      "count": 1
     },
     {
@@ -1175,7 +1180,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 101
+     "count": 106
     },
     {
      "id": "tablet",
@@ -1185,12 +1190,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 172
+     "count": 189
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 6
+     "count": 7
     },
     {
      "id": "unknown",
@@ -1205,7 +1210,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 304
+     "count": 327
     }
    ],
    "more": false
