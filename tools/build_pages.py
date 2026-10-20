@@ -619,6 +619,28 @@ def write_wall(items=None):
     return len(rows)
 
 
+REST = '<!-- resting -->'
+
+
+def rest_pages(ids):
+    """A building taken off the wall (held back for want of a photo of it) keeps its address, but its old page gives
+    way to a short note that search engines leave out (noindex), so Google drops the old title and rejected photos.
+    Pages that point to a building's new address ("This building has moved") are left as they are. When the building
+    comes back, its full page is written over the note."""
+    for page in (SITE / 'buildings').glob('*/index.html'):
+        if page.parent.name in ids:
+            continue
+        text = page.read_text()
+        if 'http-equiv="refresh"' in text or REST in text:
+            continue
+        found = re.search(r'<h1[^>]*>(.*?)</h1>', text, re.S) or re.search(r'<title>(.*?)(?: — | · |</title>)', text, re.S)
+        name = html.unescape(re.sub(r'<[^>]+>', '', found.group(1))).strip() if found else page.parent.name.replace('-', ' ')
+        page.write_text(f'<!doctype html>\n{REST}\n<html lang="en"><head><meta charset="utf-8"><title>{e(name)} · {NAME}</title>\n'
+                        '<meta name="robots" content="noindex"><meta name="viewport" content="width=device-width, initial-scale=1"></head>\n'
+                        f'<body><p>{e(name)} is off the wall for now, until we find a good free photo of it.</p>\n'
+                        '<p><a href="../">Every building, A to Z</a> · <a href="../../">Back to the wall</a></p></body></html>\n')
+
+
 def main():
     import sys
     if '--stamp' in sys.argv:  # used by the deploy workflow: refresh the wall's data and the fingerprints only
@@ -646,6 +668,7 @@ def main():
         out = SITE / 'buildings' / b['id']
         out.mkdir(parents=True, exist_ok=True)
         (out / 'index.html').write_text(building_page(b, items))
+    rest_pages({b['id'] for b in items})
     (SITE / 'buildings' / 'index.html').write_text(index_page(items))
     if any(x.get('images') for x in items):
         og_image(items)
