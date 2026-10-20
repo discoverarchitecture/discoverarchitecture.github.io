@@ -1,0 +1,737 @@
+[
+ {
+  "id": "national-museum-of-modern-art-tokyo",
+  "qid": "Q1359908",
+  "status": "photo",
+  "why": "Taniguchi's 1969 building (year from the photo caption; prep's 1952 is the earlier building on the site). Clean daylight exteriors.",
+  "name": "National Museum of Modern Art, Tokyo",
+  "by": "Yoshirō Taniguchi, Kunio Maekawa",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1969,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Japan's main museum of modern art, in Kitanomaru Park, known for its 20th-century collection.",
+  "commons_category": "Category:National Museum of Modern Art, Tokyo",
+  "coords": [
+   35.69055,
+   139.75464
+  ],
+  "photos": [
+   {
+    "file": "File:National Museum of Modern Art Tokyo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:東京国立近代美術館 (54406710465).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "saint-denis-pleyel-station",
+  "qid": "Q3462074",
+  "status": "photo",
+  "why": "Kuma's built work; lead gives the 2024 opening. Main is the whole station from the plaza; no sign in the main.",
+  "name": "Saint-Denis–Pleyel station",
+  "by": "Kengo Kuma",
+  "city": "Saint-Denis",
+  "cc": "FR",
+  "year": 2024,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Light from above",
+   "Steel & glass"
+  ],
+  "features": "Kengo Kuma's station, opened June 2024 as the terminus of Paris Metro Line 14 on the Grand Paris Express.",
+  "commons_category": "Category:Saint-Denis Pleyel (Paris Metro)",
+  "coords": [
+   48.9176,
+   2.34667
+  ],
+  "photos": [
+   {
+    "file": "File:Vue générale de face du bâtiment voyageurs de la gare de Saint-Denis - Pleyel depuis le parvis principal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Escaliers mécaniques entre la ligne 14 et la sortie de la station Saint-Denis - Pleyel.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "brin-genoa-metro",
+  "qid": "Q3644795",
+  "status": "unsure",
+  "why": "no main photo: the photos show trains, platforms and interiors; no clean daylight exterior of the station.",
+  "name": "Brin (Genoa Metro)",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": 1990,
+  "type": "Infrastructure",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Light from above",
+   "Circulation"
+  ],
+  "features": "Renzo Piano's elevated Genoa metro station, opened 13 June 1990, the line's only above-ground station.",
+  "commons_category": "Category:Brin station (Genoa metro)",
+  "coords": [
+   44.42806,
+   8.89556
+  ],
+  "photos": []
+ },
+ {
+  "id": "fukui-prefectural-dinosaur-museum",
+  "qid": "Q3247157",
+  "status": "photo",
+  "why": "Kurokawa's built work; lead names it as a leading dinosaur museum. Main is the museum from the park, daylight.",
+  "name": "Fukui Prefectural Dinosaur Museum",
+  "by": "Kisho Kurokawa",
+  "city": "Katsuyama",
+  "cc": "JP",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Kisho Kurokawa's museum in Nagaoyama Park, one of Asia's leading dinosaur museums, near the Kitadani quarry.",
+  "commons_category": "Category:Fukui Prefectural Dinosaur Museum",
+  "coords": [
+   36.08291,
+   136.50667
+  ],
+  "photos": [
+   {
+    "file": "File:Fukui Prefectural Dinosaur Museum 20231217.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukui Prefectural Dinosaur Museum 20210504 27.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "takaosanguchi-station",
+  "qid": "Q4450115",
+  "status": "unsure",
+  "why": "year not settled: prep's 1967 is probably the station's original opening, not Kuma's building; no date in the lead. For Opus.",
+  "name": "Takaosanguchi Station",
+  "by": "Kengo Kuma",
+  "city": "Hachiōji",
+  "cc": "JP",
+  "year": 1967,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Circulation"
+  ],
+  "features": "Main rail access to Mount Takao, in Hachiōji, Tokyo, on the Keio line.",
+  "commons_category": "Category:Takaosanguchi Station",
+  "coords": [
+   35.63222,
+   139.26992
+  ],
+  "photos": [
+   {
+    "file": "File:Takaosanguchi-Sta-201804.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:高尾山口駅駅舎20221009-P1004431.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torre-realia-bcn",
+  "qid": "Q1189521",
+  "status": "photo",
+  "why": "Toyo Ito's built work; lead gives 2009 completion. Main shows the whole tower in daylight.",
+  "name": "Torre Realia BCN",
+  "by": "Toyo Ito",
+  "city": "L'Hospitalet de Llobregat",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Toyo Ito's 24-floor, 112-metre tower on Plaça d'Europa, L'Hospitalet, completed in 2009.",
+  "commons_category": "Category:Torre Realia BCN",
+  "coords": [
+   41.35555,
+   2.12511
+  ],
+  "photos": [
+   {
+    "file": "File:Hospitalet de Llobregat - Plaza de Europa, Torres de Toyo Ito (Torres Porta Fira), Torre Realia BCN 5.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre Realia BCN 10.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nagasaki-museum-of-history-and-culture",
+  "qid": "Q73613",
+  "status": "photo",
+  "why": "Kurokawa's built work; lead gives the museum's subject and the reconstruction. Main is the whole facade, daylight.",
+  "name": "Nagasaki Museum of History and Culture",
+  "by": "Kisho Kurokawa",
+  "city": "Nagasaki",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Earth & local material",
+   "Monumentality"
+  ],
+  "features": "Kisho Kurokawa's museum of overseas exchange in Nagasaki, with a reconstruction of part of the Magistrate's Office.",
+  "commons_category": "Category:Nagasaki Museum of History and Culture",
+  "coords": [
+   32.75281,
+   129.87956
+  ],
+  "photos": [
+   {
+    "file": "File:Nagasaki Museum of History and Culture ac (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagasaki Museum of History and Culture 20180616.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kreeger-museum",
+  "qid": "Q1787100",
+  "status": "photo",
+  "why": "Johnson's built work; lead names the former home and the collection. Main is the whole building, daylight.",
+  "name": "Kreeger Museum",
+  "by": "Philip Johnson",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Courtyard",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Philip Johnson's museum in the former Kreeger family home, holding 19th and 20th-century paintings and sculpture.",
+  "commons_category": "Category:Kreeger Museum",
+  "coords": [
+   38.92181,
+   -77.08912
+  ],
+  "photos": [
+   {
+    "file": "File:Kreeger Museum 1 - 16910611716.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kreeger Museum Inner Courtyard - 16314170234.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "saka-no-ue-no-kumo-museum",
+  "qid": "Q7402728",
+  "status": "photo",
+  "why": "Ando's built work; lead names architect and inspiration. Front elevation in daylight.",
+  "name": "Saka no Ue no Kumo Museum",
+  "by": "Tadao Ando",
+  "city": "Matsuyama",
+  "cc": "JP",
+  "year": 2007,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light & shadow",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Tadao Ando's museum in Matsuyama, inspired by Shiba Ryōtarō's novel Saka no ue no kumo.",
+  "commons_category": "Category:Saka no Ue no Kumo Museum",
+  "coords": [
+   33.84177,
+   132.76921
+  ],
+  "photos": [
+   {
+    "file": "File:2023年7月-坂上之雲博物館A.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023年7月-坂上之雲博物館B.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "onomichi-city-museum-of-art",
+  "qid": "Q11465485",
+  "status": "photo",
+  "why": "Year 2003 is the Ando building (lead: reopened to his design in 2003), not the 1980 opening. Clean concrete exterior first.",
+  "name": "Onomichi City Museum of Art",
+  "by": "Tadao Ando",
+  "city": "Onomichi",
+  "cc": "JP",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "Tadao Ando's 2003 redesign of Onomichi's art museum in Senkō-ji Park, first opened in 1980.",
+  "commons_category": "Category:Onomichi City Museum of Art",
+  "coords": [
+   34.40992,
+   133.1958
+  ],
+  "photos": [
+   {
+    "file": "File:Onomichi City Museum of Art02s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Onomichi City Museum of Art.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hochhaus-neue-donau",
+  "qid": "Q1621858",
+  "status": "photo",
+  "why": "Seidler's built work; year 2001 from the lead (built 1999 to 2001). Rated Q photo of the whole tower.",
+  "name": "Hochhaus Neue Donau",
+  "by": "Harry Seidler",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 2001,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Harry Seidler's 34-storey residential tower in Vienna's Donau City, 150 metres tall and currently Austria's third tallest building.",
+  "commons_category": "Category:Hochhaus Neue Donau",
+  "coords": [
+   48.2311,
+   16.4158
+  ],
+  "photos": [
+   {
+    "file": "File:Hochhaus Neue Donau Vienna from NW on 2012-08-08.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hochhaus Neue Donau Vienna from NW on 2012-08-07.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ito-toren",
+  "qid": "Q2269636",
+  "status": "photo",
+  "why": "Ito's built work; the whole tower from the street. Year 2005 from prep (lead gives none).",
+  "name": "Ito-toren",
+  "by": "Toyo Ito",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": 2005,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Toyo Ito's 100-metre office tower in Amsterdam's Zuidas, part of the Mahler4 complex.",
+  "commons_category": "Category:Ito Tower (Amsterdam)",
+  "coords": [
+   52.33694,
+   4.87278
+  ],
+  "photos": [
+   {
+    "file": "File:Ito Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zuidas4.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "toki-messe",
+  "qid": "Q705614",
+  "status": "photo",
+  "why": "Maki's built work; lead gives the 2003 opening. Main and second photo are the building from across the water.",
+  "name": "Toki Messe",
+  "by": "Fumihiko Maki",
+  "city": "Niigata",
+  "cc": "JP",
+  "year": 2003,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Fumihiko Maki's convention center in Niigata, opened 2003, with a hotel, art museum and observation deck.",
+  "commons_category": "Category:Toki Messe",
+  "coords": [
+   37.9262,
+   139.06
+  ],
+  "photos": [
+   {
+    "file": "File:TOKI MESSE.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Niigata 20220503155544 (52274917069).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mrs-clinton-walker-house",
+  "qid": "Q106030942",
+  "status": "photo",
+  "why": "Wright's built work; lead gives 1952 completion (not the 1948 design year). Whole house in daylight.",
+  "name": "Mrs. Clinton Walker House",
+  "by": "Frank Lloyd Wright",
+  "city": "Carmel-by-the-Sea",
+  "cc": "US",
+  "year": 1952,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Human comfort"
+  ],
+  "features": "Frank Lloyd Wright's beach house on Carmel Point, designed in 1948 and completed in 1952.",
+  "commons_category": "Category:Mrs. Clinton Walker House",
+  "coords": [
+   36.5435,
+   -121.93326
+  ],
+  "photos": [
+   {
+    "file": "File:Mrs. Clinton Walker House at Carmel-by-the-Sea.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Carmel-by-the-Sea.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kubitschek-residence-museum",
+  "qid": "Q40357761",
+  "status": "unsure",
+  "why": "year not settled: prep's 2013 is probably the museum's opening, not the house's (Niemeyer, Pampulha); lead gives no date. For Opus.",
+  "name": "Kubitschek Residence Museum",
+  "by": "Oscar Niemeyer",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "year": 2013,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Light & shadow"
+  ],
+  "features": "Museum house on the shore of Lake Pampulha, the weekend home of Juscelino Kubitschek.",
+  "commons_category": "Category:Casa Kubitschek",
+  "coords": [
+   -19.85491,
+   -43.98052
+  ],
+  "photos": [
+   {
+    "file": "File:Casa Kubitschek frente 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museu Casa Kubitschek na Pampulha.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-reinhard-ernst",
+  "qid": "Q117834995",
+  "status": "photo",
+  "why": "Maki's built work; lead gives the June 2024 opening. Main is the whole museum from the street, daylight.",
+  "name": "Museum Reinhard Ernst",
+  "by": "Fumihiko Maki",
+  "city": "Wiesbaden",
+  "cc": "DE",
+  "year": 2024,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Fumihiko Maki's abstract art museum in Wiesbaden, opened June 2024 by the Reinhard & Sonja Ernst Foundation.",
+  "commons_category": "Category:Museum Reinhard Ernst",
+  "coords": [
+   50.07849,
+   8.24593
+  ],
+  "photos": [
+   {
+    "file": "File:Museum Reinhard Ernst Wiesbaden 8376 7 8.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "richard-king-mellon-hall",
+  "qid": "Q16899281",
+  "status": "photo",
+  "why": "Mies's built work; lead confirms the design and the bluff site. Clean CC0 view of the whole building first.",
+  "name": "Richard King Mellon Hall",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Pittsburgh",
+  "cc": "US",
+  "year": 1968,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Pilotis",
+   "Light & shadow"
+  ],
+  "features": "Mies van der Rohe's four-storey science hall at Duquesne University, on a bluff above the Monongahela River.",
+  "commons_category": "Category:Richard King Mellon Hall of Science, Duquesne University",
+  "coords": [
+   40.4356,
+   -79.9916
+  ],
+  "photos": [
+   {
+    "file": "File:Mellon Hall, Duquesne University, 2023-05-04, 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Richard King Mellon Hall of Science.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "taichung-main-public-library",
+  "qid": "Q136721227",
+  "status": "photo",
+  "why": "SANAA's built work; lead gives the October 2025 trial operation. Main and second photo are clean daylight exteriors.",
+  "name": "Taichung Main Public Library",
+  "by": "SANAA",
+  "city": "Taichung",
+  "cc": "TW",
+  "year": 2025,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "SANAA's central library for Taichung, Taiwan, which began trial operation in October 2025.",
+  "commons_category": "Category:Taichung Main Library",
+  "coords": [
+   24.19304,
+   120.65457
+  ],
+  "photos": [
+   {
+    "file": "File:Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Taichung Main Public Library (Taichung Green Museumbrary) 2025-11-05 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torre-picasso",
+  "qid": "Q1364394",
+  "status": "photo",
+  "why": "Yamasaki's built work; lead gives 1988 to 2007 as tallest. Rated Q photo of the whole tower first.",
+  "name": "Torre Picasso",
+  "by": "Minoru Yamasaki",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1988,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Minoru Yamasaki's 43-floor tower beside Pablo Picasso Square in Madrid's AZCA, the city's tallest from 1988 to 2007.",
+  "commons_category": "Category:Torre Picasso",
+  "coords": [
+   40.45028,
+   -3.6925
+  ],
+  "photos": [
+   {
+    "file": "File:Madrid May 2014-52a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre Picasso - 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mode-gakuen-spiral-towers",
+  "qid": "Q2878337",
+  "status": "photo",
+  "why": "Kept on the second test: Nikken Sekkei already has 8 buildings on the wall. Lead gives no design reason. Daylight photos only (night photo not used).",
+  "name": "Mode Gakuen Spiral Towers",
+  "by": "Nikken Sekkei",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": 2008,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Nagoya's 170-metre, 36-storey school tower, home to three vocational schools and one of the city's tallest buildings.",
+  "commons_category": "Category:Nagoya Mode Academy Spiral Towers",
+  "coords": [
+   35.16806,
+   136.88583
+  ],
+  "photos": [
+   {
+    "file": "File:Mode Spiral Towers in Nagoya02.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagoya Spiral Towers dk3816.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "shibuya-scramble-square",
+  "qid": "Q64026922",
+  "status": "photo",
+  "why": "Credits include Nikken Sekkei and Kuma's office (both on the wall); lead gives 2019 completion. Only one clean photo of the whole tower.",
+  "name": "Shibuya Scramble Square",
+  "by": "Nikken Sekkei, Tokyu Architects & Engineers, JR East Design, Tokyo Metro, East Japan Railway Company, KENGO KUMA & ASSOCIATES",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2019,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Steel & glass",
+   "Circulation"
+  ],
+  "features": "Mixed-use skyscraper above Shibuya Station, the highest in Shibuya, completed in October 2019.",
+  "commons_category": "Category:Shibuya Scramble Square",
+  "coords": [
+   35.65828,
+   139.70161
+  ],
+  "photos": [
+   {
+    "file": "File:SHIBUYA SCRAMBLE SQUARE East Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ }
+]
