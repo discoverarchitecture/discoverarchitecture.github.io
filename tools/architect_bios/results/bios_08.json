@@ -226,13 +226,6 @@
     "checked": "2026-10-20"
    },
    {
-    "site": "Architectuul",
-    "title": "Edwin Lutyens",
-    "url": "https://architectuul.com/architect/edwin-lutyens",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Wikipedia",
     "title": "Rashtrapati Bhavan",
     "url": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan",
@@ -504,13 +497,6 @@
     "url": "https://en.wikipedia.org/wiki/Prime_Tower",
     "why": "their best-known tower",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "Gigon/Guyer office page",
-    "url": "https://www.archdaily.com/office/gigon-guyer",
-    "why": "projects with plans and photos",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -554,13 +540,6 @@
     "url": "https://en.wikipedia.org/wiki/Liverpool_Cathedral",
     "why": "the work of his whole career",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "Architectuul",
-    "title": "Giles Gilbert Scott",
-    "url": "https://architectuul.com/architect/giles-gilbert-scott",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia",
@@ -840,13 +819,6 @@
     "checked": "2026-10-20"
    },
    {
-    "site": "Architectuul",
-    "title": "Hector Guimard",
-    "url": "https://architectuul.com/architect/hector-guimard",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Wikipedia",
     "title": "Castel Béranger",
     "url": "https://en.wikipedia.org/wiki/Castel_Béranger",
@@ -1016,13 +988,6 @@
     "url": "https://en.wikipedia.org/wiki/Union_Buildings",
     "why": "his best-known building",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "Architectuul",
-    "title": "Herbert Baker",
-    "url": "https://architectuul.com/architect/herbert-baker",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia (German)",
@@ -1203,13 +1168,6 @@
     "url": "https://en.wikipedia.org/wiki/Tomb_of_Nader_Shah",
     "why": "another of his monuments",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "Wikipedia (French)",
-    "title": "Houchang Seyhoun",
-    "url": "https://fr.wikipedia.org/wiki/Houchang_Seyhoun",
-    "why": "a second account of his life",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1253,13 +1211,6 @@
     "url": "https://fr.wikipedia.org/wiki/Jean_Prouvé",
     "why": "a fuller list of works",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "Vitra",
-    "title": "Jean Prouvé",
-    "url": "https://www.vitra.com/en-us/about-vitra/designer/details/jean-prouve",
-    "why": "his furniture, still in production",
-    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Architectuul",
@@ -1324,13 +1275,6 @@
     "url": "https://en.wikipedia.org/wiki/Cameron_Offices",
     "why": "his offices in Canberra",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "Architectuul",
-    "title": "John Andrews",
-    "url": "https://architectuul.com/architect/john-andrews",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1516,13 +1460,6 @@
     "url": "https://en.wikipedia.org/wiki/India_Habitat_Centre",
     "why": "his largest Delhi building",
     "checked": "2026-10-20"
-   },
-   {
-    "site": "Architectuul",
-    "title": "Joseph Allen Stein",
-    "url": "https://architectuul.com/architect/joseph-allen-stein",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false

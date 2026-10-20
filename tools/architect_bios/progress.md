@@ -31,8 +31,17 @@
   Snøhetta in bios_04). Bios 175–190 words. 139 facts, every one with a source; 4 are building attributions confirmed
   on Wikidata. Unsourced facts: 0. Links: 94 kept, all checked 20 Oct 2026 (three check runs).
 
+- `results/bios_08.json` (20 Oct 2026), ranks 191–220: 27 bios plus **Joseon builders** marked `"skip": true`.
+  Glenn Murcutt (rank 202) is already in bios_01 and Jorn Utzon (rank 216) is the Jørn Utzon of bios_03, so neither
+  is repeated. Bios 175–189 words. 101 facts, every one with a source; 3 are building attributions confirmed on
+  Wikidata. Unsourced facts: 0. Links: 105 kept, all checked 20 Oct 2026 (one check run).
+
 ## Skipped
-- None. Every architect in ranks 1–190 is a real person or practice with enough sources to write about.
+- **Joseon builders** (rank 218), marked `"skip": true`: not an architect or practice but the wall's label for the
+  anonymous builders of Jongmyo Shrine, Byeongsan Seowon and Janggyeong Panjeon. Every other architect in ranks
+  1–220 is a real person or practice with enough sources to write about.
+- Glenn Murcutt (rank 202) was written in bios_01 and is not repeated.
+- Jorn Utzon (rank 216) is Jørn Utzon (bios_03) under a second spelling on the wall; not repeated.
 - Snohetta (rank 172) is left out as a duplicate: it is Snøhetta (bios_04) under a second spelling on the wall. The data
   side may want to merge them.
 
@@ -65,6 +74,31 @@
   covers the wall buildings filed under "Jørn". The data side may want to merge them.
 - The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
   (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
+
+## Batch 8 notes
+- **National Monument (Indonesia)** is filed on the wall under Friedrich Silaban, but his article says his 1955 entry
+  was ranked highest yet placed second and the monument was designed by **Soedarsono**. The text says exactly that;
+  the data side may want to change the wall's architect for this building.
+- **No qid**: **Diller Scofidio + Renfro** (the Wikidata search found no item). **Heatherwick Studio** carries Thomas
+  Heatherwick's item (Q3051023), as the search found no item for the studio itself; noted on the fact.
+- **Kant-Dreieck** (Kleihues) has no English article or Wikidata architect; it is sourced from the architects' own
+  project page (kleihues.com), which gives 1992–1995 against the wall's 1994.
+- **Sansad Bhavan (Old Parliament House)** is on the wall under both Lutyens and Baker; Lutyens's page tells of his
+  circular plan, Baker's of the Secretariat and their falling-out, so the two pages do not repeat each other.
+- Hard facts stated in one plain sentence each: Herbert Baker's Nairobi plan (racial segregation) and his Bank of
+  England rebuilding; Helmut Jahn's death in a cycling accident; Henselmann's Nazi-era ban for his partly Jewish
+  ancestry; Domenig as the son of a Nazi judge.
+- Not stated for want of a source: that the Lanserhof Sylt is a health resort (the wall's type says Health).
+- Links left out after the checker: guessed Architectuul pages for Lutyens, Scott, Guimard, Baker, Andrews and Stein
+  (404), ArchDaily's Gigon/Guyer office page (404), French Wikipedia "Houchang Seyhoun" (404) and Vitra's Prouvé
+  page (403). Every architect kept at least three checked links.
+- Disagreements, noted on the facts: Ramos de Azevedo's death day (13 June on Wikipedia, 1 June on Wikidata), the
+  Palace of Justice's inauguration (2 January or 2 August 1933), Joseph Allen Stein's death day (6 or 14 October
+  2001), Gigon/Guyer's founding (1987 on Wikidata, 1989 in the article), the Steinhaus (more than 30 years of work, or
+  1980–2008), Guimard's façade competition (1898 or 1899); and building years that differ from the wall (ICA Boston,
+  Museo Enzo Ferrari, Church of the Autostrada del Sole, Longarone church, Haus des Rundfunks, IG Farben Building,
+  Messeturm, Hochhaus an der Weberwiese, Tomb of Nader Shah, Gifu Kitagata Apartment, Kant-Dreieck). The wall's years
+  are used in the text.
 
 ## Batch 7 notes
 - Only two checked links: **Aris Konstantinidis** (Architectuul and ArchDaily have no page; Impactalk and UCL answer
