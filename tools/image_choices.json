@@ -2965,6 +2965,12 @@
   "drawings": [
    "File:116 Tafel 6 Grenada Alhambra - Plano del Palacio Arabe.jpg",
    "File:Study for the West Façade of the Palace of Charles V, The Alhambra, Granada MET DT8787.jpg"
+  ],
+  "aic": [
+   [
+    54248,
+    "Exterior"
+   ]
   ]
  },
  "chand-baori": {
@@ -3951,6 +3957,12 @@
  "royal-albert-hall": {
   "skip": [
    "File:Cross-section through the Royal Albert Hall.jpg"
+  ],
+  "aic": [
+   [
+    60138,
+    "Exterior"
+   ]
   ]
  },
  "concertgebouw": {
@@ -14747,6 +14759,12 @@
    "File:A view of Wollaton Hall west front from the south-west, Nottingham, England.jpg",
    "File:A view of Wollaton Hall west front, Nottingham, England.jpg",
    "File:Front of Wollaton Hall, Nottingham.jpg"
+  ],
+  "aic": [
+   [
+    198923,
+    "Drawing"
+   ]
   ]
  },
  "our-dynamic-earth-edinburgh": {
@@ -17905,6 +17923,20 @@
  "rookery-building": {
   "add": [
    "File:The Rookery, Chicago, IL.jpg"
+  ],
+  "aic": [
+   [
+    144340,
+    "Elevation"
+   ],
+   [
+    239956,
+    "Section"
+   ],
+   [
+    239241,
+    "Drawing"
+   ]
   ]
  },
  "harold-washington-library-center": {
@@ -19966,6 +19998,12 @@
    "File:Mamma's love.jpg",
    "File:Nostalgia of kolkata.jpg",
    "File:Foundation Stone - Victoria Memorial Hall - Kolkata 2023-05-26 7350.jpg"
+  ],
+  "aic": [
+   [
+    103194,
+    "Exterior"
+   ]
   ]
  },
  "vidhana-soudha": {
@@ -25930,6 +25968,16 @@
    "File:Auditorium Building - Chicago (51574885313).jpg",
    "File:Auditorium Building, Michigan Avenue, Chicago, IL.jpg",
    "File:Auditorium Building Chicago June 30, 2012-92.jpg"
+  ],
+  "aic": [
+   [
+    72089,
+    "Drawing"
+   ],
+   [
+    205223,
+    "Drawing"
+   ]
   ]
  },
  "monadnock-building": {
@@ -27777,6 +27825,12 @@
    "File:At New York, USA 2017 305.jpg",
    "File:Edificio Fuller (Flatiron) en 2010 desde el Empire State crop boxin.jpg",
    "File:Flatiron Building, New York City, NY 4a12277a original.jpg"
+  ],
+  "aic": [
+   [
+    66715,
+    "Exterior"
+   ]
   ]
  },
  "taj-mahal": {

@@ -248,7 +248,7 @@ DOCK = ('<nav class="dock" data-nosnippet aria-label="Browse"><a href="{up}">Hom
 HEAD = HEAD.replace('{topbar}', TOPBAR.replace('{', '{{').replace('}', '}}').replace('{{up}}', '{up}'))
 
 FOOT = """<footer class="foot" data-nosnippet>
-  <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
+  <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons; a few historic drawings and photos come from the Art Institute of Chicago (public domain).</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
 </footer>
 {dock}
