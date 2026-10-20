@@ -27,8 +27,14 @@
   source; 5 are building attributions confirmed on Wikidata. Unsourced facts: 0. Links: 93 kept, all checked
   19 Oct 2026 (two check runs).
 
+- `results/bios_07.json` (20 Oct 2026), 29 entries, ranks 161–190 without Snohetta (rank 172, the same practice as
+  Snøhetta in bios_04). Bios 175–190 words. 139 facts, every one with a source; 4 are building attributions confirmed
+  on Wikidata. Unsourced facts: 0. Links: 94 kept, all checked 20 Oct 2026 (three check runs).
+
 ## Skipped
-- None. Every architect in ranks 1–160 is a real person or practice with enough sources to write about.
+- None. Every architect in ranks 1–190 is a real person or practice with enough sources to write about.
+- Snohetta (rank 172) is left out as a duplicate: it is Snøhetta (bios_04) under a second spelling on the wall. The data
+  side may want to merge them.
 
 ## Links that failed and were left out
 - Encyclopaedia Britannica (all ten): answers automated checks with 403. Probably fine in a browser, but unchecked.
@@ -59,6 +65,28 @@
   covers the wall buildings filed under "Jørn". The data side may want to merge them.
 - The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
   (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
+
+## Batch 7 notes
+- Only two checked links: **Aris Konstantinidis** (Architectuul and ArchDaily have no page; Impactalk and UCL answer
+  403; archINFORM answers 300). Left out after the checker: several guessed Architectuul and ArchDaily addresses
+  (404), Docomomo US (404), the NGV history page (404), Pritzker `/laureates/2026` (404; Radić's page is
+  `/laureates/smiljan-radic-clarke`), the UNESCO Van Nelle page (the firm's name is not on it), barbican.org.uk (404),
+  Armeniapedia (403), and the Architecture-Studio and Fundació Enric Miralles sites (no answer).
+- **No qid**: **O'Donnell + Tuomey** (no Wikidata item found for the practice; written from the articles on Sheila
+  O'Donnell and John Tuomey) and **Alexander Tamanian** (the search found no item).
+- **Ammar Khammash**: his Wikidata item (Q12228283) describes him as a "Dubaite numismatist", which does not match
+  the article; the article is followed and the mismatch is noted on the fact.
+- **Thom Mayne** and **Morphosis** (bios_05) are written so they do not repeat each other. Reports of his temper and
+  his remark after 9/11 are not included; the owner may want to decide whether they belong.
+- Wall buildings left out for want of a source: Villa Stein-de Monzie (Pierre Jeanneret), Rivesaltes Camp Memorial
+  (Ricciotti), ADAC Headquarters (Sauerbruch Hutton), Flower Kiosk at Malmö Eastern Cemetery (Lewerentz), Swiss
+  National Park Visitor Centre (Olgiati) and the National Museum of Japanese History (Ashihara).
+- Disagreements, noted on the facts: Roy Grounds's death day (Wikipedia 2 March, Wikidata 7 March 1981) and his
+  partnership's dates; Benedetta Tagliabue's birth day (23 or 24 June 1963) and EMBT's founding (1993 or 1994);
+  the Parc de la Villette competition (1982 and 1983 in the same article); Olgiati's birthplace (not used); and
+  building years that differ from the wall (Riksbank, St Mark's Church, Diamond Ranch, Goldman & Salatsch,
+  Pedregulho, MAM Rio, Notre-Dame-de-l'Arche-d'Alliance, Le Fresnoy, Sonneveld House, Golden
+  Lane). The wall's years are used in the text.
 
 ## Batch 6 notes
 - Four entries have only two checked links: **Berthold Lubetkin and Tecton**, **Charles Girault**, **Henry N. Cobb**
