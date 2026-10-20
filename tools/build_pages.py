@@ -11,8 +11,8 @@ so search engines and link previews see everything. Output:
   site/sitemap.xml, site/robots.txt
   site/index.html                  the "About this wall" block between <!-- about:start --> and <!-- about:end -->
 
-Page titles say what the page has in the words students search for (photos, plans & sections, case study):
-"plans & sections" appears only when a verified link leads to drawings. Pages with an entry in
+Page titles lead with the building and its architect, the way people search ("Casa Rotonda by Mario Botta"),
+then say what the page has: "plans" appears only when a verified link leads to drawings. Pages with an entry in
 site/data/summaries.js get an "About" section quoted from Wikipedia. tools/pageviews.json ranks the
 buildings people look up most (Wikipedia pageviews, Oct 2025 to Sep 2026) for the home page's list.
 """
@@ -32,6 +32,12 @@ COUNTRY = {
     'LK': 'Sri Lanka', 'VN': 'Vietnam', 'EG': 'Egypt', 'BF': 'Burkina Faso', 'ZA': 'South Africa',
     'AE': 'United Arab Emirates', 'AZ': 'Azerbaijan',
 }
+# Every other country by its two-letter code, from the world map's names (site/data/world.js); the list above wins.
+try:
+    _world = json.loads((SITE / 'data' / 'world.js').read_text().split('window.WORLD = ', 1)[1].rstrip().rstrip(';'))
+    COUNTRY = {**next((v for v in _world.values() if isinstance(v, dict) and v.get('GB') == 'United Kingdom'), {}), **COUNTRY}
+except (OSError, IndexError, ValueError):
+    pass
 # Buildings that no longer stand, so their pages say "was".
 GONE = {'nakagin-capsule-tower': 'demolished in 2022'}
 
@@ -63,8 +69,8 @@ def load():
 
 def place_full(b):
     parts = [p.strip() for p in b['place'].split(',')]
-    if len(parts) == 2 and parts[1] in COUNTRY:
-        return f'{parts[0]}, {COUNTRY[parts[1]]}'
+    if len(parts) >= 2 and parts[-1] in COUNTRY:
+        return ', '.join(parts[:-1] + [COUNTRY[parts[-1]]])
     return b['place']
 
 
@@ -76,14 +82,6 @@ def has_drawings(b):
     return any(l['site'] in DRAWING_SITES for l in (b.get('links') or []))
 
 
-def offer(b):
-    """What the page gives a student, in the words they search for: only what it really has."""
-    parts = ['photos'] if b.get('images') else []
-    if has_drawings(b):
-        parts.append('plans & sections')
-    return ', '.join(parts)
-
-
 def anonymous(b):
     return b['by'].lower().startswith('unknown')
 
@@ -92,53 +90,69 @@ TITLE_MAX = 60   # Google cuts a title at about 580 px, roughly 60 characters
 DESC_MAX = 155   # and a description at about 155
 
 
+def lead(b):
+    """The first architect named, for a title: 'Arthur Erickson (Erickson/Massey Architects)' -> 'Arthur Erickson',
+    'Giuseppe Terragni, Pietro Lingeri' -> 'Giuseppe Terragni'. The full credit is on the page."""
+    return re.split(r',| and | & |;', re.sub(r'\s*\(.*?\)', '', b['by']))[0].strip()
+
+
 def title(b):
-    """Villa Savoye — Le Corbusier, 1931: photos, plans & sections   (at most TITLE_MAX characters).
-    Searches add the architect, "plan", "section" and "photos" to a building's name, so those come first and nothing
-    is left to be cut: a longer, fuller wording is used only when it fits."""
-    who = b['place'].split(',')[0] if anonymous(b) else b['by']
-    what = offer(b)
-    name, year = b['name'], b['year']
-    head = f"{name} — {who}, {year}"
-    options = ([f"{head}: {what} for a case study · {NAME}", f"{head}: {what} for a case study", f"{head}: {what}"] if what
-               else [f"{head}: notes for a case study · {NAME}", f"{head}: notes for a case study"]) + [head]
-    for o in options:
-        if len(o) <= TITLE_MAX:
-            return o
-    # A long list of architects: leave the credit out of the title (it is on the page) rather than cut a name in half.
-    for o in ([f"{name}, {year}: {what}"] if what else []) + [f"{name}, {year}", name]:
-        if len(o) <= TITLE_MAX:
-            return o
-    return name
+    """Villa Savoye by Le Corbusier, 1931: photos, plans & key features   (at most TITLE_MAX characters).
+    Searches pair a building's name with its architect ("casa rotonda mario botta"), so "Name by Architect" comes first
+    and is kept longest; then the year and what the page offers, each only when it fits. A long name loses its
+    bracketed part before anything else."""
+    name, year, who = b['name'], b['year'], lead(b)
+    if not b.get('images'):
+        full = short = 'plans & key features' if has_drawings(b) else 'key features'
+    else:
+        full, short = ('photos, plans & key features', 'photos & plans') if has_drawings(b) else ('photos & key features', 'photos')
+    names = [name] + ([re.sub(r'\s*\(.*?\)', '', name)] if '(' in name else [])
+    options = []
+    for n in names:
+        by = '' if anonymous(b) else f' by {who}'
+        options += [f'{n}{by}, {year}: {full}', f'{n}{by}: {full}', f'{n}{by}: {short}', f'{n}{by}', f'{n}: {short}']
+    return next((o for o in options if len(o) <= TITLE_MAX), names[-1])
 
 
-# How a typology reads in a sentence ("a housing complex in Mumbai"); types not listed read as themselves, lowercased.
-NOUN = {'Culture & sport': 'cultural building', 'Office & tower': 'office building', 'Education': 'campus building',
-        'Housing': 'housing complex', 'Infrastructure': 'structure', 'Civic': 'civic building', 'Religious': 'religious building',
-        'Hospitality': 'hotel or resort', 'Health': 'healthcare building', 'Public space': 'public space', 'Workplace': 'workplace'}
+# How a typology starts the description's second sentence ("House in Stabio, Switzerland, 1982."). Types that would
+# read wrongly for some of their buildings (a restaurant filed under Hospitality) say "Built 1958 in ..." instead.
+KIND = {'House': 'House', 'Museum': 'Museum', 'Library': 'Library', 'Memorial': 'Memorial', 'Pavilion': 'Pavilion',
+        'Palace': 'Palace', 'Housing': 'Housing', 'Religious': 'Religious building', 'Office & tower': 'Office building'}
+
+
+def clause_cut(s, room):
+    """Shortens a sentence to fit at a natural break (; : , —), and mid-sentence with "…" only when there is none."""
+    if len(s) <= room:
+        return s
+    cut = max(s.rfind(c, 0, room) for c in (';', ':', ',', ' —', ' –'))
+    if cut > room * 0.5:
+        return s[:cut].rstrip()
+    return s[:room - 1].rsplit(' ', 1)[0].rstrip(' ,;:-') + '…'
 
 
 def summary(b):
-    """The page description, at most DESC_MAX characters so Google shows all of it: what the building is, its key
-    features (cut at a word if they do not fit), and what the page offers."""
-    noun = NOUN.get(b['type'], b['type'].lower())
-    a = 'an' if noun[0] in 'aeiou' else 'a'
-    verb, tail = ('was', f"; it was {GONE[b['id']]}") if b['id'] in GONE else ('is', '')
-    who = 'by unknown builders' if anonymous(b) else f"by {b['by']}"
-    first = f"{b['name']} {verb} {a} {noun} in {place_full(b)} {who}, {b['year']}{tail}."
-    if len(first) > 110:  # a long credit: the architect is in the title and on the page
-        first = f"{b['name']} {verb} {a} {noun} in {place_full(b)}, {b['year']}{tail}."
-    gives = (['photos'] if b.get('images') else []) + (['plans and sections'] if has_drawings(b) else [])
-    offer_text = f" Free {', '.join(gives)}." if gives else ' Notes for a case study.'
-    label = ' Key features: '
+    """The page description, at most DESC_MAX characters so Google shows all of it: the key features as a whole
+    sentence, then where and when, then what the page offers. Parts are left out, never cut, until it fits."""
     study = ' '.join(b['study'].split()).rstrip('.')
-    room = DESC_MAX - len(first) - len(offer_text) - len(label) - 1  # 1 for the full stop after the features
-    if room < 25:
-        return (first + offer_text)[:DESC_MAX]
-    if len(study) > room:
-        study = study[:room - 1].rsplit(' ', 1)[0].rstrip(' ,;:-') + '…'
-        return f"{first}{label}{study}{offer_text}"
-    return f"{first}{label}{study}.{offer_text}"
+    where = f"{KIND[b['type']]} in {place_full(b)}, {b['year']}" if b['type'] in KIND else f"Built {b['year']} in {place_full(b)}"
+    if b['id'] in GONE:
+        where += f"; {GONE[b['id']]}"
+    if b.get('images'):
+        gives = 'Free credited photos, with links to plans and sections' if has_drawings(b) else 'Free credited photos'
+        tails = [f'{gives} for a case study.', f'{gives}.', 'Free photos.', '']
+    else:
+        tails = ['Links to plans and sections for a case study.' if has_drawings(b) else 'Notes for a case study.', '']
+    for w in (where + '. ', ''):
+        for tail in tails:
+            text = f'{study}. {w}{tail}'.strip()
+            if len(text) <= DESC_MAX:
+                return text
+    room = DESC_MAX - len(where) - 3
+    if room > 60:
+        cut = clause_cut(study, room)
+        return f"{cut}{'' if cut.endswith('…') else '.'} {where}."
+    cut = clause_cut(study, DESC_MAX - 1)
+    return cut if cut.endswith('…') else cut + '.'
 
 
 def related(b, items, n=6):
