@@ -64,7 +64,7 @@
   const state = {
     q: '', seed: 11, ncols: 0, mode: 'buildings', shelf: null,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
-    open: null, shot: 0, kind: 'All', seen: new Set(), lastTile: null,
+    open: null, shot: 0, kind: 'All', seen: new Set(), lastTile: null, where: null, // where: a hub's cities, set by "On the globe" (mapHub)
     booting: true, unwinding: false
   };
   const tileShot = new Map(); // which photo each tile is showing
@@ -121,6 +121,7 @@
     }
     const d = state.decades;
     if (skip !== 'decades' && d && (b.decade < d[0] || b.decade > d[1])) return false;
+    if (state.where && !state.where(b)) return false;
     if (!state.q) return true;
     const hay = fold([b.name, b.by, b.place, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
@@ -811,7 +812,7 @@
     const page = arch && !type && window.ARCH_PAGES ? window.ARCH_PAGES[NAMES.canon(arch)] : '';
     if (page) { location.href = 'architects/' + page + '/'; return; }
     setMode('buildings', true);
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null;
     if (type) state.filters.type.add(type);
     if (arch) arch = NAMES.canon(arch);
     const known = arch && ALL.some(b => b.arch.includes(arch));
@@ -870,7 +871,7 @@
     const t = e.target.closest('.chip'); if (!t) return;
     if (t.dataset.shelf) return showBooks('', t.dataset.shelf);
     if (t.dataset.tag) return showBooks(t.dataset.tag);
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null;
     state.filters[t.dataset.g].add(t.dataset.v);
     state.q = ''; $('q').value = '';
     closeBuilding(); refreshFilters(); render(true);
@@ -1072,7 +1073,7 @@
   $('modeBuildings').addEventListener('click', () => setMode('buildings'));
   $('modeBooks').addEventListener('click', () => setMode('books'));
   function clearAll() {
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.shelf = null;
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null; state.shelf = null;
     state.q = ''; $('q').value = '';
     refreshFilters(); render(true);
   }
@@ -1082,7 +1083,7 @@
   // The dock stays on top of everything. On the plain buildings wall it offers Shuffle; anywhere else (the books wall,
   // an opened building, a filtered or searched wall) Shuffle becomes Home, which goes back to the buildings wall.
   // Surprise me works everywhere, even over an opened building.
-  const atHome = () => state.mode === 'buildings' && sheet.hidden && !state.q && !state.shelf && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
+  const atHome = () => state.mode === 'buildings' && sheet.hidden && !state.q && !state.shelf && !state.decades && !state.where && GROUPS.every(g => !state.filters[g.key].size);
   function updateDock() {
     const home = atHome();
     $('shuffle').hidden = !home;
@@ -1126,6 +1127,23 @@
     window.scrollTo(0, 0);
     keep('localStorage', 'da-top', JSON.stringify(feedState.list.slice(0, 40).map(keyOf)));
   }
+  // A hub page's "On the globe" (#map=style:brutalism): choose that hub's buildings in the wall's own filters, then open the
+  // globe, which shows (and flies to fit) whatever the wall shows. data/hubs.js says what each hub means; it loads only now.
+  const mapHub = key => {
+    const go = () => {
+      const h = (window.HUBS || {})[key], m = $('mapBtn');
+      if (h) {
+        setMode('buildings', true);
+        GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null; state.q = ''; $('q').value = '';
+        state.where = h.places ? b => h.places.includes(b.place) : null;
+        for (const g of ['movement', 'type', 'concepts']) if (h[g]) state.filters[g].add(h[g]);
+        closeBuilding(); refreshFilters(); render(true);
+      }
+      if (m) m.click();
+    };
+    if (window.HUBS) return go();
+    const s = document.createElement('script'); s.src = 'data/hubs.js'; s.onload = s.onerror = go; document.head.appendChild(s);
+  };
   const openFromHash = () => {
     if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
@@ -1133,6 +1151,7 @@
     if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
     else if (id === 'filter') { dropHash(); whenReady(() => toggleFilters(true)); } // Filter in another page's bar
     else if (id === 'map') { dropHash(); whenReady(() => { const m = $('mapBtn'); if (m) m.click(); }); } // Map in another page's dock
+    else if (id.startsWith('map=') && id.includes(':')) { dropHash(); whenReady(() => mapHub(id.slice(4))); } // "On the globe" on a hub page: #map=style:brutalism
     else if (id.startsWith('map=')) { dropHash(); whenReady(() => { DA.mapTo = id.slice(4); const m = $('mapBtn'); if (m) m.click(); }); } // "On the globe" on a building page
     else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
     else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
