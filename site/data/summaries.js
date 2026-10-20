@@ -1289,5 +1289,7289 @@ window.SUMMARIES = {
   "url": "https://en.wikipedia.org/wiki/Kempegowda_International_Airport",
   "revision": 1379745857,
   "fetched": "2026-10-12"
+ },
+ "eiffel-tower": {
+  "paragraphs": [
+   "The Eiffel Tower ( EYE-fəl; French: Tour Eiffel [tuʁ ɛfɛl] ) is a lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower from 1887 to 1889.",
+   "Locally nicknamed \"La dame de fer\" (French for \"Iron Lady\") for its use of wrought iron, it was constructed as the centrepiece of the 1889 World's Fair, and to crown the centennial anniversary of the French Revolution. Although initially criticised by some of France's leading artists and intellectuals for its design, it has since become a global cultural icon of France and one of the most recognisable structures in the world. The tower received 5,889,000 visitors in 2022. The Eiffel Tower is the most visited monument with an entrance fee in the world: 6.91 million people ascended it in 2015. It was designated a monument historique in 1964, and was named part of a UNESCO World Heritage Site (\"Paris, Banks of the Seine\") in 1991."
+  ],
+  "title": "Eiffel Tower",
+  "url": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+  "revision": 1380433272,
+  "fetched": "2026-10-20"
+ },
+ "hagia-sophia": {
+  "paragraphs": [
+   "Hagia Sophia, officially the Hagia Sophia Grand Mosque, is a mosque and a major cultural and historical site in Istanbul, Turkey. It was formerly a church (360–1453) and a museum (1935–2020). The last of three church buildings to be successively erected on the site by the Eastern Roman Empire, it was completed in AD 537, becoming the world's largest interior space and among the first to employ a fully pendentive dome. It is considered the epitome of Byzantine architecture and is said to have \"changed the history of architecture\". From its dedication in 360 until 1453, Hagia Sophia served as the cathedral of Constantinople in the Byzantine liturgical tradition, except for the period 1204–1261 when the Latin Crusaders installed their own hierarchy. After the fall of Constantinople in 1453, it served as a mosque, having its minarets added soon after. The site became a museum in 1935, and was redesignated as a mosque in 2020.",
+   "Hagia Sophia is one of the greatest surviving examples of Byzantine architecture. Its interior is decorated with mosaics, marble pillars, and coverings of great artistic value. Justinian had overseen the completion of the greatest basilica ever built up to that time, and it was to remain the largest church for 500 years until the completion of the abbey church at Cluny in the 12th century."
+  ],
+  "title": "Hagia Sophia",
+  "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+  "revision": 1379544167,
+  "fetched": "2026-10-20"
+ },
+ "wembley-stadium": {
+  "paragraphs": [
+   "Wembley Stadium, branded as Wembley Stadium connected by EE for sponsorship reasons, is an association football stadium in Wembley, London, England. It opened in 2007 on the site of the original Wembley Stadium, which had stood from 1923 until 2000. The stadium is England's national football stadium, and thus hosts the majority of the England national team home matches and the FA Cup Final – the final of England's primary domestic club football competition. It is considered one of the most well known football stadiums in the world, and is considered a hub for the English game. Wembley Stadium is owned by the governing body of English football, the Football Association, whose headquarters are in the stadium, through its subsidiary Wembley National Stadium Ltd (WNSL). With 90,000 seats, it is the largest stadium in the UK and the second-largest stadium in Europe, behind Barcelona's Camp Nou.",
+   "The stadium contains 2,618 toilets, more than any other venue in the world.",
+   "The stadium has a circumference of 1 km (0.62 mi).",
+   "The bowl volume is listed at 1,139,100 m3 (1,489,900 yd3), somewhat smaller than the Millennium Stadium in Cardiff, but with a greater seating capacity.",
+   "At its peak, there were more than 3,500 construction workers on site."
+  ],
+  "title": "Wembley Stadium",
+  "url": "https://en.wikipedia.org/wiki/Wembley_Stadium",
+  "revision": 1381160838,
+  "fetched": "2026-10-20"
+ },
+ "kennedy-center": {
+  "paragraphs": [
+   "The John F. Kennedy Center for the Performing Arts, commonly known as the Kennedy Center, is a cultural center located on the eastern bank of the Potomac River in Washington, D.C. It is considered the national cultural center of the United States, serving as a \"living memorial\" to John F. Kennedy. The center opened on September 8, 1971, and hosts many genres of performance art, spanning theater, ballet, modern dance, classical music, jazz, pop, psychedelic, and folk music. The Kennedy Center is the residence of the National Symphony Orchestra.",
+   "The original building, designed by architect Edward Durell Stone, was constructed by Philadelphia contractor John McShain, and is administered as a bureau of the Smithsonian Institution. An earlier design proposal called for a curvier, spaceship-inspired building similar to the neighboring Watergate complex. Overall, the building is 100 feet (30 m) high, 630 feet (190 m) long, and 300 feet (91 m) wide."
+  ],
+  "title": "Kennedy Center",
+  "url": "https://en.wikipedia.org/wiki/Kennedy_Center",
+  "revision": 1380689576,
+  "fetched": "2026-10-20"
+ },
+ "rock-and-roll-hall-of-fame": {
+  "paragraphs": [
+   "The Rock and Roll Hall of Fame (RRHOF), also simply referred to as the Rock Hall, is a museum and hall of fame located in downtown Cleveland, Ohio, United States, on the shore of Lake Erie. The museum documents the history of rock music and the artists, producers, engineers, and other personnel who have influenced its development.",
+   "Designed by I. M. Pei and structurally engineered by Leslie E. Robertson Associates, the building rises above the shores of Lake Erie. It is a combination of geometric forms and cantilevered spaces that are anchored by a 162-foot (49 m) tower. The tower supports a dual-triangular-shaped glass \"tent\" that extends (at its base) onto a 65,000-square-foot (6,000 m2) plaza that provides a main entry facade.",
+   "The building houses more than 55,000 square feet (5,100 m2) of exhibition space, as well as administrative offices, a store, and a café.",
+   "\"In designing this building,\" Pei said, \"it was my intention to echo the energy of rock and roll. I have consciously used an architectural vocabulary that is bold and new, and I hope the building will become a dramatic landmark for the city of Cleveland and for fans of rock and roll around the world.\""
+  ],
+  "title": "Rock and Roll Hall of Fame",
+  "url": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame",
+  "revision": 1378058570,
+  "fetched": "2026-10-20"
+ },
+ "forbidden-city": {
+  "paragraphs": [
+   "The Forbidden City is the imperial palace complex in the center of the Imperial City in Beijing, China. It was the residence of twenty-four Ming and Qing dynasty Emperors and was the center of political power in China from 1420 to 1924. The palace is now administered by the Palace Museum and has been an UNESCO World Heritage Site since 1987. The Forbidden City is one of the most famous palaces in all of Chinese history and is the largest preserved royal palace complex still standing in the world.",
+   "Bernardo Bertolucci's The Last Emperor was filmed inside the Forbidden City in 1987 (and was the first Western production to do so).",
+   "The Forbidden City was constructed from 1406 to 1420 and was the imperial palace and winter residence of the Emperor of China from the Ming dynasty (since the Yongle Emperor in 1420) to the end of the Qing dynasty in 1924. Serving as the home of Chinese emperors and their households, the Forbidden City was the ceremonial and political center of the Chinese government for over 500 years. Since 1925, the Forbidden City has been under the charge of the Palace Museum, whose extensive collection of artwork and artifacts was built upon the imperial collections of the Ming and Qing dynasties."
+  ],
+  "title": "Forbidden City",
+  "url": "https://en.wikipedia.org/wiki/Forbidden_City",
+  "revision": 1380600836,
+  "fetched": "2026-10-20"
+ },
+ "alhambra": {
+  "paragraphs": [
+   "The Alhambra (, Spanish: [aˈlambɾa]; Arabic: الْحَمْرَاء, romanized: al-ḥamrāʼ ) is a palace and fortress complex located in Granada, Spain. It is one of the most famous monuments of Islamic architecture and the only well-preserved palace from the medieval Islamic world. Additionally, the palace contains notable examples of Spanish Renaissance architecture.",
+   "The building of the complex was begun in 1238 CE by Muhammad I Ibn al-Ahmar, the first Nasrid emir and founder of the Emirate of Granada, the last Muslim state of al-Andalus. It was built on Sabika hill, an outcrop of the Sierra Nevada which had been the site of earlier fortresses and of the 11th-century palace of Samuel ibn Naghrillah. Later Nasrid rulers continuously modified the site. The most significant construction campaigns, which gave the royal palaces much of their defining character, took place in the 14th century during the reigns of Yusuf I and Muhammad V. After the conclusion of the Christian Reconquista in 1492, the site became the Royal Court of Ferdinand and Isabella (where Christopher Columbus received royal endorsement for his expedition), and the palaces were partially altered. In 1526, Charles V commissioned a new Renaissance-style palace in direct juxtaposition with the Nasrid palaces. The Alhambra fell into disrepair over the following centuries, with its buildings occupied by squatters."
+  ],
+  "title": "Alhambra",
+  "url": "https://en.wikipedia.org/wiki/Alhambra",
+  "revision": 1379398227,
+  "fetched": "2026-10-20"
+ },
+ "sheikh-zayed-bridge": {
+  "paragraphs": [
+   "Dame Zaha Mohammad Hadid (Arabic: زهاء حديد, romanized: Zahā' Ḥadīd; 31 October 1950 – 31 March 2016) was an Iraqi and British architect, artist, and designer. She is recognised as a key figure in the architecture of the late-20th and early-21st centuries. Born in Baghdad, Iraq, Hadid studied mathematics as an undergraduate and later enrolled at the Architectural Association School of Architecture in 1972. In search of an alternative to traditional architectural drawing, and influenced by Suprematism and the Russian avant-garde, Hadid adopted painting as a design tool and abstraction as a method to \"reinvestigate the aborted and untested experiments of Modernism [...] to unveil new fields of building\".",
+   "She was described by The Guardian as the \"Queen of Curves\", who \"liberated architectural geometry, giving it a whole new expressive identity\". Her major works include the London Aquatics Centre for the 2012 Olympics, the Broad Art Museum, Rome's MAXXI Museum, and the Guangzhou Opera House. Some of her awards have been presented posthumously, including the statuette for the 2017 Brit Awards. She was also recognized by the 2013 Forbes List as one of the \"World's Most Powerful Women\"."
+  ],
+  "title": "Zaha Hadid",
+  "url": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+  "revision": 1379927948,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-westminster": {
+  "paragraphs": [
+   "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general. The palace has been a Grade I listed building since 1970 and part of a UNESCO World Heritage Site since 1987.",
+   "The palace is a roughly rectangular building with its long axis parallel to the River Thames. The building is planned around the Central Lobby, a large hall from which corridors lead north to the Commons Chamber, south to the Lords Chamber, and west to the public entrance and Westminster Hall; to the east are committee rooms and libraries. A suite of rooms known as the Royal Apartments is at the disposal of the reigning monarch; they lie beyond the Lords' Chamber at the far south of the palace."
+  ],
+  "title": "Palace of Westminster",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+  "revision": 1380933702,
+  "fetched": "2026-10-20"
+ },
+ "fallingwater": {
+  "paragraphs": [
+   "Fallingwater is a house museum in Stewart Township in the Laurel Highlands of southwestern Pennsylvania, United States. Designed by the architect Frank Lloyd Wright, it is built partly over a waterfall on the Bear Run stream. The three-story residence was developed as a weekend retreat for Edgar J. Kaufmann Sr., the owner of Kaufmann's Department Store in Pittsburgh, and his wife Liliane. The Western Pennsylvania Conservancy (WPC), which has operated Fallingwater as a tourist attraction since 1963, maintains 5,000 acres (2,000 ha) surrounding the house.",
+   "Fallingwater has been described as an example of Wright's organic architecture. Though the house is also sometimes described as a Modern-styled building, The Wall Street Journal wrote that the design was \"a kind of streamlined, handmade, organic architecture\" not emulated by other architects. The site's natural setting may have been inspired by Japanese architecture, a style Wright liked. Fallingwater's design shares elements with Wright's earlier Prairie houses and his later Usonian houses. Elements such as trellises are derived from Italian architecture, while the kitchen is inspired by New England colonial architecture. Wright's design for the facade also shares similarities with an unbuilt villa designed by Mies van der Rohe, and the cantilevers resemble those in three structures designed by Rudolph Schindler."
+  ],
+  "title": "Fallingwater",
+  "url": "https://en.wikipedia.org/wiki/Fallingwater",
+  "revision": 1380163297,
+  "fetched": "2026-10-20"
+ },
+ "blenheim-palace": {
+  "paragraphs": [
+   "Blenheim Palace ( BLEN-im) is a country house in Woodstock, Oxfordshire, England. It is the seat of the Dukes of Marlborough, and the birthplace of Sir Winston Churchill. Originally called Blenheim Castle, it has been known as Blenheim Palace since the 19th century. One of England's largest houses, it was built between 1705 and 1722, and was designated a UNESCO World Heritage Site in 1987.",
+   "The palace is named after the 1704 Battle of Blenheim. It was originally intended to be a reward to the 1st Duke of Marlborough for his military triumphs against the French and Bavarians in the War of the Spanish Succession, which culminated in the eponymous battle near the town of Blenheim in what is today southern Germany.",
+   "The land on which the Palace sits was given as a gift, and construction began in 1705, with some financial support from Queen Anne. The project soon became the subject of political infighting and controversy, with the Crown cancelling further financial support in 1712, Marlborough's three-year voluntary exile to the Continent, the fall from royal influence of his wife, and lasting damage to the reputation of the architect Sir John Vanbrugh. Designed in the rare, and short-lived, English Baroque style, the palace elicits architectural assessments as divided today as they were in the 1720s."
+  ],
+  "title": "Blenheim Palace",
+  "url": "https://en.wikipedia.org/wiki/Blenheim_Palace",
+  "revision": 1380365446,
+  "fetched": "2026-10-20"
+ },
+ "sydney-opera-house": {
+  "paragraphs": [
+   "The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings, and a masterpiece of 20th-century architecture.",
+   "The facility features a modern expressionist design, with a series of large precast concrete \"shells\", each composed of sections of a sphere of 75.2 metres (246 ft 8.6 in) radius, forming the roofs of the structure, set on a monumental podium. The building covers 1.8 hectares (4.4 acres) of land and is 183 m (600 ft) long and 120 m (394 ft) wide at its widest point. It is supported on 588 concrete piers sunk as much as 25 m (82 ft) below sea level. The highest roof point is 67 metres above sea-level which is the same height as that of a 22-storey building. The roof is made of 2,194 pre-cast concrete sections, which weigh up to 15 tonnes each."
+  ],
+  "title": "Sydney Opera House",
+  "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+  "revision": 1380403759,
+  "fetched": "2026-10-20"
+ },
+ "wanda-metropolitano": {
+  "paragraphs": [
+   "The Metropolitano Stadium (Spanish: Estadio Metropolitano), officially referred to as Riyadh Air Metropolitano Stadium due to sponsorship, is a football stadium in Madrid, located in the Rosas neighbourhood in the San Blas-Canillejas district. It has been the home stadium of Atlético Madrid since 2017.",
+   "The original stadium was built as part of Madrid's unsuccessful bid to host the 1997 World Athletics Championships, and was opened on 6 September 1994 by the Community of Madrid. It was closed in 2004 due to the city's unsuccessful bid for the 2016 Olympics and in 2013 it passed into the possession of Atlético Madrid. The stadium was rebuilt and the new facility was reopened to the public on 16 September 2017, when Atlético Madrid faced Málaga in La Liga. The stadium had a capacity of 20,000 spectators upon its closure and re-opened with a seating capacity of 68,456 after it was rebuilt. By September 2023, this had been extended to a capacity of 70,460. The capacity then increased to 70,692 with the creation of two skyboxes, expanded VIP seatings, and an additional platform for persons with disabilities. In 2026, the capacity increased again, having now 70,813 seats."
+  ],
+  "title": "Metropolitano Stadium",
+  "url": "https://en.wikipedia.org/wiki/Metropolitano_Stadium",
+  "revision": 1376394896,
+  "fetched": "2026-10-20"
+ },
+ "hong-kong-airport-terminal-1": {
+  "paragraphs": [
+   "Hong Kong International Airport (IATA: HKG, ICAO: VHHH) is an international airport located on the island of Chek Lap Kok in western Hong Kong. It is sometimes referred to Chek Lap Kok Airport to distinguish it from its predecessor, Kai Tak Airport.",
+   "Opened in 1998, Hong Kong International Airport is the world's busiest cargo gateway and one of the world's busiest passenger airports. It is also home to one of the world's largest passenger terminal buildings, which was the largest when the airport opened.",
+   "The airport is operated by Airport Authority Hong Kong, and has three operational runways, each measuring 3.8 kilometres (2.4 mi) in length. It runs 24 hours a day and is the primary hub for Cathay Pacific, Greater Bay Airlines, Hong Kong Airlines, HK Express, and Air Hong Kong. The airport is one of the hubs of Oneworld, and also one of the Asia-Pacific cargo hubs for UPS Airlines. It is a focus city for Air China and China Eastern Airlines. Ethiopian Airlines, United Airlines and Emirates utilises Hong Kong as a stopover point for their flights.",
+   "As of March 2026, Hong Kong International Airport have connections with 80 destinations in 42 countries participating in the Belt and Road Initiative and direct connections to 220 destinations worldwide."
+  ],
+  "title": "Hong Kong International Airport",
+  "url": "https://en.wikipedia.org/wiki/Hong_Kong_International_Airport",
+  "revision": 1381157201,
+  "fetched": "2026-10-20"
+ },
+ "puskas-arena-budapest": {
+  "paragraphs": [
+   "Puskás Aréna (Hungarian pronunciation: [ˈpuʃkaːʃ ˈɒreːnɒ]) is a football stadium in the 14th district (Zugló) of Budapest, Hungary, which primarily serves as the home stadium of the Hungary national football team. The stadium's construction started in 2017 and was finished before the end of 2019. It is an all-seater stadium with a capacity of 67,215. The stadium is built in the place of the former Ferenc Puskás Stadium whose demolition was completed in October 2016. Both stadiums were named in honour of the former national team captain and Hungarian legend Ferenc Puskás (1927–2006)."
+  ],
+  "title": "Puskás Aréna",
+  "url": "https://en.wikipedia.org/wiki/Pusk%C3%A1s_Ar%C3%A9na",
+  "revision": 1379932020,
+  "fetched": "2026-10-20"
+ },
+ "tower-bridge": {
+  "paragraphs": [
+   "Tower Bridge is a Grade I listed combined bascule, suspension, and, until 1960, cantilever bridge in London, built between 1886 and 1894, designed by Horace Jones and engineered by John Wolfe Barry with the help of Henry Marc Brunel. It crosses the River Thames close to the Tower of London and is one of five London bridges owned and maintained by the City Bridge Foundation, a charitable trust founded in 1282.",
+   "The bridge was constructed to connect the 39% of London's population that lived east of London Bridge, equivalent to the populations of \"Manchester on the one side, and Liverpool on the other\", while allowing shipping to access the Pool of London between the Tower of London and London Bridge. The bridge was opened by Edward, Prince of Wales, and Alexandra, Princess of Wales, on 30 June 1894."
+  ],
+  "title": "Tower Bridge",
+  "url": "https://en.wikipedia.org/wiki/Tower_Bridge",
+  "revision": 1376397860,
+  "fetched": "2026-10-20"
+ },
+ "london-stadium": {
+  "paragraphs": [
+   "London Stadium (formerly and also known as the Olympic Stadium and the Stadium at Queen Elizabeth Olympic Park) is a multi-purpose outdoor stadium at Queen Elizabeth Olympic Park in the Stratford district of London. It is located in the Lower Lea Valley, 6 miles (10 km) east of central London. The stadium was originally constructed for the 2012 Summer Olympics and 2012 Summer Paralympics, serving as the athletics venue and as the site of their opening and closing ceremonies. Following the Games, it was rebuilt for multi-purpose use and now serves primarily as the home of football club West Ham United, who became anchor tenants from the 2016 season. UK athletics are the other tenants in the stadium and host a round of the World Athletics Diamond League each year, known as the London Grand Prix, sometimes called the London Anniversary Games."
+  ],
+  "title": "London Stadium",
+  "url": "https://en.wikipedia.org/wiki/London_Stadium",
+  "revision": 1377039897,
+  "fetched": "2026-10-20"
+ },
+ "royal-albert-hall": {
+  "paragraphs": [
+   "The Royal Albert Hall is a concert hall on the northern edge of South Kensington, London, England. It has a seating capacity of 5,272.",
+   "The hall, a Grade I listed building, is an ellipse in plan, with its external major and minor axes of 272 and 236 feet (83 and 72 meters), and its internal minor and major axis of 185 and 219 feet (56 and 67 m). The great glass and wrought-iron dome roofing the hall is 135 ft (41 m) high. The hall was originally designed with a capacity for 8,000 people and has accommodated as many as 12,000 (although present-day safety restrictions mean the maximum permitted capacity is now 5,272 including standing in the Gallery)."
+  ],
+  "title": "Royal Albert Hall",
+  "url": "https://en.wikipedia.org/wiki/Royal_Albert_Hall",
+  "revision": 1380363412,
+  "fetched": "2026-10-20"
+ },
+ "tegel-airport-terminal-a": {
+  "paragraphs": [
+   "Berlin Brandenburg Airport (German: Flughafen Berlin Brandenburg „Willy Brandt“; IATA: BER, ICAO: EDDB; German pronunciation: [beːʔeːˈʔɛɐ̯] ) is an international airport in Schönefeld, just south of the German capital and state of Berlin, in the state of Brandenburg. It is located 18 kilometres (11 mi) south-east of the city centre and serves as a base for Condor, easyJet, Eurowings, Ryanair and Sundair. It mostly has flights to European metropolitan and leisure destinations as well as a number of intercontinental services.",
+   "The new airport replaced Tempelhof, Schönefeld, and Tegel airports (with the first already closed in 2008, followed by the last two in 2020), and has since become the only commercial airport serving Berlin and the surrounding State of Brandenburg, an area with 6 million inhabitants; however, much of Schönefeld's underlying infrastructure, including a runway, has been re-used by the new airport, and some of Berlin Brandenburg's new infrastructure, such as the control tower, was used by Schönefeld's operations in the lead-up to BER's proper opening. With projected annual passenger numbers of around 34 million, Berlin Brandenburg Airport has become the third busiest airport in Germany, surpassing Düsseldorf Airport and making it the twenty-fourth busiest in Europe."
+  ],
+  "title": "Berlin Brandenburg Airport",
+  "url": "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport",
+  "revision": 1380843621,
+  "fetched": "2026-10-20"
+ },
+ "hearst-castle": {
+  "paragraphs": [
+   "Hearst Castle, known formally as La Cuesta Encantada (Spanish for 'The Enchanted Hill'), is a historic estate in San Simeon, located on the Central Coast of California. Conceived by William Randolph Hearst, the publishing tycoon, and his architect Julia Morgan, the castle was built between 1919 and 1947. Today, Hearst Castle is a museum open to the public as a California State Park and registered as a National Historic Landmark and California Historical Landmark.",
+   "George Hearst, William Randolph Hearst's father, had purchased the original 40,000-acre (63 sq mi) estate in 1865 and Camp Hill, the site for the future Hearst Castle, was used for family camping vacations during Hearst's youth. Soon after the death of his mother, Phoebe Hearst, in 1919, William Randolph commissioned the architectural pioneer Julia Morgan to build \"something a little more comfortable up on the hill\", the genesis of the present castle. She worked in close collaboration with Hearst for over twenty years; the castle was under almost continual construction from 1920 until 1939, with work resuming after the end of World War II until Hearst's final departure in 1947."
+  ],
+  "title": "Hearst Castle",
+  "url": "https://en.wikipedia.org/wiki/Hearst_Castle",
+  "revision": 1380763689,
+  "fetched": "2026-10-20"
+ },
+ "stade-de-france": {
+  "paragraphs": [
+   "Stade de France (French pronunciation: [stad də fʁɑ̃s], lit. 'Stadium of France') is the national stadium of France, located just north of Paris in the commune of Saint-Denis. Its seating capacity of 81,338 makes it the largest stadium in France. The stadium is used by the French national football team and rugby union teams for international competitions. It is the largest in Europe for athletics events, seating 77,083 in that configuration. During other events, the stadium's running track is mostly hidden under the grandstands.",
+   "Stade de France has a movable stand which can be retracted to uncover part of the athletics track. The stadium was notably designed with the assistance of a software simulation of crowd in order to get an accurate observation of how it would look fully developed. The facility was also intended to draw interest in and develop the area of the Plaine Saint-Denis, which straddles the communes of Saint-Denis, Aubervilliers, and Saint-Ouen. The primary goal was to renovate the area by building new residential and tertiary sites.",
+   "The stadium was built without any undersoil heating as noted when Ireland were due to play France in the Six Nations Tournament rugby union match of 2012, when the game had to be canceled."
+  ],
+  "title": "Stade de France",
+  "url": "https://en.wikipedia.org/wiki/Stade_de_France",
+  "revision": 1380392758,
+  "fetched": "2026-10-20"
+ },
+ "sigiriya": {
+  "paragraphs": [
+   "Sigiriya or Sinhagiri (Lion Rock Sinhala: සීගිරිය, Tamil: சிகிரியா/சிங்ககிரி, ) is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. It is a site of historical and archaeological significance that is dominated by a massive column of granite approximately 180 m (590 ft) high.",
+   "According to the ancient Sri Lankan chronicle the Cūḷavaṃsa, this area was a large forest, then after storms and landslides it became a hill and was selected by King Kashyapa (CE 477–495) for his new capital. He built his palace on top of this rock and decorated its sides with colourful frescoes. On a small plateau about halfway up the side of this rock he built a gateway in the form of an enormous lion. The name of this place is derived from this structure; Sinhagiri, the Lion Rock.",
+   "The capital and the royal palace were abandoned after the king's death. It was used as a Buddhist monastery until the 14th century. Sigiriya today is a UNESCO listed World Heritage Site. It is one of the best preserved examples of ancient urban planning."
+  ],
+  "title": "Sigiriya",
+  "url": "https://en.wikipedia.org/wiki/Sigiriya",
+  "revision": 1367952186,
+  "fetched": "2026-10-20"
+ },
+ "ben-gurion-airport-terminal-3": {
+  "paragraphs": [
+   "Ben Gurion International Airport (Hebrew: נמל התעופה בן-גוריון, romanized: Nēmāl ha-tē‘ufā Bēn-Guriyôn; Arabic: مطار بن غوريون الدولي, romanized: Maṭār Bin Ġūriyūn ad-duwalī) (IATA: TLV, ICAO: LLBG), commonly known by the Hebrew-language acronym Natbag (נתב״ג), is the main international airport of Israel and the busiest in the country. It lies on the northern outskirts of Lod, 45 kilometres (28 mi) northwest of Jerusalem and 20 kilometres (12 mi) southeast of Tel Aviv. Known as Lod Airport until 1973, it was renamed that year in honour of David Ben-Gurion, Israel's first prime minister, following his death. The airport is operated by the Israel Airports Authority and serves as a hub for El Al, Israir, Arkia and Sundor.",
+   "The airport was built in 1934 during the British Mandate and served as a Royal Air Force station during the Second World War. Israeli forces captured it in July 1948, during Operation Danny, and it became the country's principal point of arrival for Jewish immigrants, from the airlifts of the early 1950s to Operation Solomon in 1991."
+  ],
+  "title": "Ben Gurion Airport",
+  "url": "https://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+  "revision": 1380354703,
+  "fetched": "2026-10-20"
+ },
+ "supreme-court-of-india": {
+  "paragraphs": [
+   "The Supreme Court of India is the supreme judicial authority and the highest court in India. It is the highest appellate court for all civil and criminal cases in India. The court is led by the Chief Justice of India and has a maximum sanctioned strength of 37 judges excluding the chief justice. It was established on 28 January 1950, two days after India became a republic, and replaced the Judicial Committee of the Privy Council and the Federal Court of India as the highest court of appeal. It has operated from the Supreme Court building in New Delhi since 1958. With expansive authority to initiate actions and wield appellate jurisdiction over all courts and the ability to invalidate amendments to the constitution, the Supreme Court of India is widely acknowledged as one of the most powerful supreme courts in the world."
+  ],
+  "title": "Supreme Court of India",
+  "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India",
+  "revision": 1379705866,
+  "fetched": "2026-10-20"
+ },
+ "blue-mosque": {
+  "paragraphs": [
+   "The Sultan Ahmed Mosque (Turkish: Sultanahmet Camii), popularly known as the Blue Mosque, is an Ottoman-era historical imperial mosque located in Istanbul, Turkey. It was constructed between 1609 and 1617 during the rule of Ahmed I. It attracts a large number of tourists and is one of the most iconic and popular monuments of Ottoman architecture.",
+   "The mosque has a classical Ottoman layout with a central dome surrounded by four semi-domes over the prayer hall. It is fronted by a large courtyard and flanked by six minarets. On the inside, it is decorated with thousands of Iznik tiles and painted floral motifs in predominantly blue colours, which give the mosque its popular name. The mosque's külliye (religious complex) includes Ahmed's tomb, a madrasa, and several other buildings in various states of preservation.",
+   "The mosque was built next to the former Hippodrome and stands across from the Hagia Sophia, another popular tourist site. The Blue Mosque was included in the UNESCO World Heritage Site list in 1985 under the name of \"Historic Areas of Istanbul\"."
+  ],
+  "title": "Blue Mosque, Istanbul",
+  "url": "https://en.wikipedia.org/wiki/Blue_Mosque,_Istanbul",
+  "revision": 1373546739,
+  "fetched": "2026-10-20"
+ },
+ "prince-moulay-abdellah-stadium": {
+  "paragraphs": [
+   "Prince Moulay Abdellah Stadium (Arabic: ملعب الأمير مولاي عبد الله, romanized: Mlʻb al-Amīr Mawlāy ʻAbd Allāh, Berber languages: ⴰⵙⴰⵔⵉⵔ ⵏ ⵓⴳⴻⵍⵍⵉⴷ ⵎⵓⵍⴰⵢ ⵄⴰⴱⴷ ⵍⵍⴰⵀ, romanized: asarir n ugellid mulay ɛabd llah, French: Stade Prince Moulay Abdellah) is a football stadium in Rabat, Morocco, with a seating capacity of 69,500. Opened on 5 September 2025, it is the home stadium of the Morocco national football team. It is part of a larger sports complex that includes an athletics track and field stadium, the indoor Salle Moulay Abdellah arena, and an Olympic swimming pool. It is one of the largest stadiums in Morocco.",
+   "The stadium is located 7 kilometres (4 mi) from the center of Rabat, the country's capital. The venue was primarily constructed for the use of football (soccer), and it has VIP and hospitality areas with the most recent technological advancements. Completed for late 2025, the stadium is hosting the 2025 Africa Cup of Nations and the 2030 FIFA World Cup, as well as the Olympic Annex stadium hosting the yearly Rabat International Mohammed VI Athletics Meeting. It was built in two years, potentially granting it a Guinness World Record for the fastest stadium construction in the world."
+  ],
+  "title": "Prince Moulay Abdellah Stadium",
+  "url": "https://en.wikipedia.org/wiki/Prince_Moulay_Abdellah_Stadium",
+  "revision": 1372221840,
+  "fetched": "2026-10-20"
+ },
+ "estadio-monumental-buenos-aires": {
+  "paragraphs": [
+   "The Estadio Monumental (Spanish pronunciation: [esˈtaðjo mˌonumentˈal]; lit. 'Monumental Stadium', named after its monumental structure), also known as Estadio River Plate, is an association football stadium in Buenos Aires, Argentina. Located in the Belgrano neighbourhood, it is the home of River Plate.",
+   "It was opened on 26 May 1938 and was previously (1986–2022) named after former club president Antonio Vespucio Liberti (1900–1978). It is the largest stadium in both Argentina and all of South America with a capacity of 85,018 and is also home of the Argentina national football team. It was the main venue in the 1951 Pan American Games. It hosted the 1978 FIFA World Cup final between Argentina and the Netherlands. It has also hosted four finals of the Copa América, most recently in 2011, as well as many finals of the Copa Libertadores."
+  ],
+  "title": "Estadio Monumental (Buenos Aires)",
+  "url": "https://en.wikipedia.org/wiki/Estadio_Monumental_(Buenos_Aires)",
+  "revision": 1380693759,
+  "fetched": "2026-10-20"
+ },
+ "space-needle": {
+  "paragraphs": [
+   "The Space Needle is an observation tower in Seattle, Washington, United States. Considered to be an icon of the city, it has been designated a Seattle landmark. Located at 400 Broad Street in the Lower Queen Anne neighborhood, it was built in the Seattle Center for the 1962 World's Fair, which drew more than 2.3 million visitors.",
+   "The architecture of the Space Needle is the result of a compromise between the designs of two people, Edward E. Carlson and John Graham, Jr. The two leading ideas for the World Fair involved businessman Edward E. Carlson's sketch (on a napkin) of a giant balloon tethered to the ground (the gently sloping base) and architect John Graham's concept of a flying saucer (that houses the restaurant and observation deck). Victor Steinbrueck introduced the hourglass profile of the tower and its tripod design, which resembles the isthmus that Seattle is situated on. The Space Needle was built to withstand Category 5-plus wind speeds of 200 mph (320 km/h), double the requirements in the building code of 1962, swaying only 1 inch (25 mm) per 10 miles per hour (16 km/h) of wind speed."
+  ],
+  "title": "Space Needle",
+  "url": "https://en.wikipedia.org/wiki/Space_Needle",
+  "revision": 1380562271,
+  "fetched": "2026-10-20"
+ },
+ "tokyo-tower": {
+  "paragraphs": [
+   "Tokyo Tower, also known by its official name Japan Radio Tower (日本電波塔, Nippon denpatō) is a communications and observation tower in the district of Shiba-koen in Minato, Tokyo, Japan, completed in 1958. At 332.9 meters (1,092 feet), it was the tallest tower in Japan until the construction of Tokyo Skytree in 2012. It is a lattice tower inspired by the Eiffel Tower, and is painted white and international orange to comply with air safety regulations.",
+   "The tower's main sources of income are antenna leasing and tourism, and its five-story base building FootTown houses a number of restaurants, gift shops, and other attractions. Departing from it, guests can visit two observation decks: the two-story Main Deck at 150 m (490 ft), and the smaller Top Deck at 249.6 m (819 ft). The tower is repainted every five years, the process itself taking a year to complete."
+  ],
+  "title": "Tokyo Tower",
+  "url": "https://en.wikipedia.org/wiki/Tokyo_Tower",
+  "revision": 1378347911,
+  "fetched": "2026-10-20"
+ },
+ "solomon-r-guggenheim-museum": {
+  "paragraphs": [
+   "The Solomon R. Guggenheim Museum, often referred to as The Guggenheim, is an art museum at 1071 Fifth Avenue between 88th and 89th Streets on the Upper East Side of Manhattan in New York City. It hosts a permanent collection of Impressionist, Post-Impressionist, early Modern and contemporary art and also features special exhibitions throughout the year. It was established by the Solomon R. Guggenheim Foundation in 1939 as the Museum of Non-Objective Painting, under the guidance of its first director, Hilla von Rebay. The museum adopted its current name in 1952, three years after the death of its founder Solomon R. Guggenheim. It continues to be operated and owned by the Solomon R. Guggenheim Foundation.",
+   "Wright's design for the Guggenheim Museum incorporated geometric motifs, such as squares, circles, rectangles, triangles and lozenges. The massing contains two spiraling structures, the six-story main gallery to the south and the smaller \"monitor\" to the north, which are connected by a \"bridge\" on the second story. The ten-story rectangular annex, to the northeast, appears behind the spiraling structures as viewed from Central Park."
+  ],
+  "title": "Solomon R. Guggenheim Museum",
+  "url": "https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum",
+  "revision": 1380354458,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-the-republic-almaty": {
+  "paragraphs": [
+   "The Palace of the Parliament (Romanian: Palatul Parlamentului), initially designed during Communist times as the People's House (Casa Poporului) or (less frequently used) the House of the Republic (Casa Republicii), is the seat of the Parliament of Romania, located atop Dealul Spirii in Bucharest, the national capital. The Palace reaches a height of 84 m (276 ft), is 92 m (302 ft) deep underground, has a floor area of 365,000 m2 (3,930,000 sq ft) and a volume of 2,550,000 m3 (90,000,000 cu ft). The Palace of the Parliament is the heaviest building in the world, weighing about 4,098,500 tonnes (9.04 billion pounds), and is the largest civilian administrative building in the world, the largest military administrative building being the yet larger US Pentagon (cf. List of largest buildings). The Independent described it as the third best building in the world, \"hideous but also sort of impressive.\"",
+   "The building was designed and supervised by chief architect Anca Petrescu, with a team of approximately 700 architects, and constructed over a period of 13 years (1984–1997) in modernist Neoclassical architectural forms and styles, with socialist realism in mind. The Palace was ordered by Nicolae Ceaușescu (1918–1989), the president of Communist Romania."
+  ],
+  "title": "Palace of the Parliament",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_the_Parliament",
+  "revision": 1380443279,
+  "fetched": "2026-10-20"
+ },
+ "us-bank-stadium": {
+  "paragraphs": [
+   "U.S. Bank Stadium is an indoor stadium in Minneapolis, Minnesota, U.S. Opened in 2016, the stadium was built on the former site of the Hubert H. Humphrey Metrodome and is the home venue of the Minnesota Vikings of the National Football League (NFL). It also hosts early season college baseball games of the Minnesota Golden Gophers.",
+   "While the Vikings' owners wanted an outdoor stadium, the state and local governments would only provide funding for an indoor stadium capable of hosting major events like the Super Bowl and the Final Four. A retractable roof was the trend in 2010s football stadiums. However, retractable roof facilities are not typically designed for the roof to be opened and closed in sub-freezing conditions. When built in temperate climates, retractable roofs are generally kept closed throughout the winter months, both to reduce the stress on the roof and its components and also to reduce or eliminate the need to winterize the stadium's interior. In contrast, to be of any competitive on-field advantage to the Vikings, a retractable roof facility would have needed to be designed to operate in a Minnesotan winter so as to allow the Vikings to play a home game outdoors during the NFL playoffs. Eventually, this design was deemed too expensive."
+  ],
+  "title": "U.S. Bank Stadium",
+  "url": "https://en.wikipedia.org/wiki/U.S._Bank_Stadium",
+  "revision": 1377621892,
+  "fetched": "2026-10-20"
+ },
+ "kansai-airport-terminal-1": {
+  "paragraphs": [
+   "Kansai International Airport (Japanese: 関西国際空港, romanized: Kansai Kokusai Kūkō; IATA: KIX, ICAO: RJBB), commonly known as Kankū (Japanese: 関空) is the primary international airport in the Greater Osaka Area of Japan and the closest international airport to the cities of Osaka, Kyoto, and Kobe. It is located on the artificial island of Kankūjima (関空島), in the middle of Osaka Bay off the Honshu shore, 38 km (24 mi) southwest of Ōsaka Station, located within three municipalities, including Izumisano (north), Sennan (south), and Tajiri (central), in Osaka Prefecture. The airport's first airport island covers approximately 510 hectares (1,260 acres) and the second covers approximately 545 hectares (1,347 acres), for a total of 1,055 hectares (2,607 acres).",
+   "Kansai opened on 4 September 1994 to relieve overcrowding at Osaka International Airport, also called Itami Airport, which is closer to Osaka. It consists of two terminals: Terminal 1 and Terminal 2. Terminal 1, designed by Italian architect Renzo Piano, is the longest airport terminal in the world with a length of 1.7 km (1+1⁄16 mi). The airport serves as an international hub for All Nippon Airways, Japan Airlines, and Nippon Cargo Airlines and as a hub for Peach, the first international low-cost carrier in Japan. It is also the north Pacific hub for FedEx Express, which obtained fifth freedom rights under the 1998 U.S."
+  ],
+  "title": "Kansai International Airport",
+  "url": "https://en.wikipedia.org/wiki/Kansai_International_Airport",
+  "revision": 1380775523,
+  "fetched": "2026-10-20"
+ },
+ "battersea-power-station": {
+  "paragraphs": [
+   "Battersea Power Station is a preserved coal-fired power station located on the south bank of the River Thames in Nine Elms in the London Borough of Wandsworth. It was built by the London Power Company (LPC) to the design of Leonard Pearce, Engineer in Chief to the LPC, and CS Allott & Son Engineers. The architects were J. Theo Halliday and Giles Gilbert Scott. The station is one of the world's largest brick buildings and notable for its original, Art Deco interior fittings and decor.",
+   "The building comprises two power stations, built in two stages, in a single building. Battersea A Power Station was built between 1929 and 1935 and Battersea B Power Station, to its east, between 1937 and 1941, when construction was paused owing to the worsening effects of the Second World War. The building was completed in 1955. Battersea B was built to a design nearly identical to that of Battersea A, creating the iconic four-chimney structure."
+  ],
+  "title": "Battersea Power Station",
+  "url": "https://en.wikipedia.org/wiki/Battersea_Power_Station",
+  "revision": 1380453055,
+  "fetched": "2026-10-20"
+ },
+ "portmeirion": {
+  "paragraphs": [
+   "Portmeirion (; Welsh pronunciation: [pɔrtˈmei̯rjɔn]) is a folly Italianate style tourist village in Gwynedd, North Wales. It lies on the estuary of the River Dwyryd in the community of Penrhyndeudraeth, 2 miles (3.2 km) from Porthmadog and 1 mile (1.6 km) from Minffordd railway station.",
+   "Architecture critic Lewis Mumford devoted a large part of a chapter of his 1963 book The Highway and the City to Portmeirion, which he called an artful and playful little modern village, designed as a whole and all of a piece ... a fantastic collection of architectural relics and impish modern fantasies. ... As an architect, [Williams-Ellis] is equally at home in the ancient, traditional world of the stark Welsh countryside and the once brave new world of \"modern architecture.\" But he realized earlier than most of his architectural contemporaries how constricted and desiccated modern forms can become when the architect pays more attention to the mechanical formula or the exploitation of some newly fabricated material than to the visible human results. In a sense, Portmeirion is a gay, deliberately irresponsible reaction against the dull sterilities of so much that passes as modern architecture today. ... [I]t is prompted by [the] impulse ..."
+  ],
+  "title": "Portmeirion",
+  "url": "https://en.wikipedia.org/wiki/Portmeirion",
+  "revision": 1377585720,
+  "fetched": "2026-10-20"
+ },
+ "fragrant-hill-hotel": {
+  "paragraphs": [
+   "Ieoh Ming Pei ( YOH ming PAY; Chinese: 貝聿銘; pinyin: Bèi Yùmíng; April 26, 1917 – May 16, 2019) was a Chinese-American architect.",
+   "Born in Guangzhou into a Chinese family, Pei drew inspiration at an early age from the garden villas at Suzhou, the traditional retreat of the scholar-gentry to which his family belonged. In 1935, he moved to the United States and enrolled in the University of Pennsylvania's architecture school, but quickly transferred to the Massachusetts Institute of Technology. Unhappy with the focus on Beaux-Arts architecture at both schools, he spent his free time researching emerging architects, especially Le Corbusier.",
+   "After graduating from MIT, Pei enrolled in the Harvard Graduate School of Design (GSD) where he befriended faculty members Walter Gropius and Marcel Breuer, both of whom had formerly taught at the Bauhaus. Beginning in 1948, Pei worked as an in-house architect for New York City real estate developer William Zeckendorf. In 1955, he established an independent design firm, I. M. Pei & Associates. In 1966, the firm was reorganized as I. M. Pei & Partners, and in 1989 reorganized"
+  ],
+  "title": "I. M. Pei",
+  "url": "https://en.wikipedia.org/wiki/I._M._Pei",
+  "revision": 1372557855,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-modern-art": {
+  "paragraphs": [
+   "The Museum of Modern Art (MoMA) is an art museum located in Midtown Manhattan, New York City, on 53rd Street between Fifth and Sixth Avenues. MoMA's collection spans the late 19th century to the present, and includes over 200,000 works of architecture and design, drawing, painting, sculpture, photography, prints, illustrated and artist's books, film, as well as electronic media. The museum has been instrumental in shaping the history of modern art, particularly modern art from Europe.",
+   "MoMA's Department of Architecture and Design was founded in 1932 as the first museum department in the world dedicated to the intersection of architecture and design. The department's first director was Philip Johnson who served as curator between 1932 and 1934 and between 1946 and 1954. The next departmental head was Arthur Drexler, who was curator from 1951 to 1956 and then served as head until 1986."
+  ],
+  "title": "Museum of Modern Art",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
+  "revision": 1379359187,
+  "fetched": "2026-10-20"
+ },
+ "woolworth-building": {
+  "paragraphs": [
+   "The Woolworth Building is a 792-foot-tall (241 m) residential building and early skyscraper at 233 Broadway in the Tribeca neighborhood of Lower Manhattan in New York City, United States. Designed by Cass Gilbert in the Neo-Gothic style, the Woolworth Building was originally an office skyscraper. It was the tallest building in the world from 1913 to 1929, and it remains one of the United States' 100 tallest buildings as of 2024.",
+   "Cass Gilbert designed the Woolworth Building in the neo-Gothic style. The building resembles European Gothic cathedrals; Reverend S. Parkes Cadman dubbed it \"The Cathedral of Commerce\" in a booklet published in 1916. F. W. Woolworth, who had devised the idea for the Woolworth Building, had proposed using the Victoria Tower as a model for the building; he reportedly also admired the design of Palace of Westminster. Gilbert, by contrast, disliked the comparison to religious imagery. The architect ultimately used 15th- and 16th-century Gothic ornament on the Woolworth Building, along with a complementary color scheme. Though the building's steel frame was uncommon to neo-Gothic structures, its facade emphasizes vertical design elements, similarly to other neo-Gothic buildings."
+  ],
+  "title": "Woolworth Building",
+  "url": "https://en.wikipedia.org/wiki/Woolworth_Building",
+  "revision": 1378571006,
+  "fetched": "2026-10-20"
+ },
+ "stadio-olimpico-roma": {
+  "paragraphs": [
+   "Stadio Olimpico, colloquially known as l'Olimpico (The Olympic), is an Italian multi-purpose sports venue located in Rome. Seating over 70,000 spectators, it is the largest sports facility in Rome and the second-largest in Italy, after Milan's San Siro. It formerly had a capacity of over 100,000 people, and was also called Stadio dei Centomila (Stadium of the 100,000). It is owned by Sport e Salute, a government agency that manages sports venues, and its operator is the Italian National Olympic Committee.",
+   "The Olimpico is located in northwestern Rome in the Foro Italico sports complex. Construction began in 1928 under Enrico Del Debbio and the venue was expanded in 1937 by Luigi Moretti. World War II interrupted further expansions; after the Liberation of Rome in June 1944, the stadium was used by the Allies as vehicle storage and as a location for Anglo-American military competitions. After the war, the Italian National Olympic Committee (CONI), appointed as operator of the venue, completed construction, and it was opened on 17 May 1953 with a football game between Italy and Hungary. Since opening, the stadium has been home to the city's principal professional football clubs, S.S. Lazio and A.S. Roma. Ciro Immobile has scored the most goals at the stadium (120)."
+  ],
+  "title": "Stadio Olimpico",
+  "url": "https://en.wikipedia.org/wiki/Stadio_Olimpico",
+  "revision": 1381160101,
+  "fetched": "2026-10-20"
+ },
+ "guggenheim-bilbao": {
+  "paragraphs": [
+   "The Guggenheim Museum Bilbao is a museum of modern and contemporary art in Bilbao, Biscay, Spain. It is one of several museums affiliated to the Solomon R. Guggenheim Foundation and features permanent and visiting exhibits of works by Spanish and international artists. It was inaugurated on 18 October 1997 by King Juan Carlos I of Spain, with an exhibition of 250 contemporary works of art. It is one of the largest museums in Spain.",
+   "The Solomon R. Guggenheim Foundation selected Frank Gehry as the architect, and its director, Thomas Krens, encouraged him to design something daring and innovative. The curves on the exterior of the building were intended to appear random; the architect said that \"the randomness of the curves are designed to catch the light\". The interior \"is designed around a large, light-filled atrium with views of Bilbao's estuary and the surrounding hills of the Basque country\". The atrium, which Gehry nicknamed The Flower because of its shape, serves as the organizing center of the museum."
+  ],
+  "title": "Guggenheim Museum Bilbao",
+  "url": "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+  "revision": 1373226042,
+  "fetched": "2026-10-20"
+ },
+ "potala-palace": {
+  "paragraphs": [
+   "Potala Palace (Tibetan: ཕོ་བྲང་པོ་ཏ་ལ་, Wylie: pho brang po ta la; simplified Chinese: 布达拉宫; traditional Chinese: 布達拉宮; pinyin: Bùdálā Gōng) is a museum complex in Lhasa, the capital of the Tibet Autonomous Region of China. It was formerly the winter palace of the Dalai Lamas, and from 1649 until 1959 served as the Dalai Lamas' residence. The palace complex became a museum following the annexation of Tibet by the People's Republic of China.",
+   "The Potala has inward-sloping walls with straight rows of many windows at the upper parts of the walls, and flat roofs at various levels. At the south base of the rock is a large space enclosed by walls and gates with great porticos on the inner side. A series of staircases with intervals leads to the summit of the rock. The whole width of this is occupied by the palace.",
+   "The central part of the group of buildings is a quadrangular terminating in gilt canopies similar to those on Jokhang Temple Monastery. The crimson coloured central member of Potala is called the \"red palace\" and contains the principal halls and chapels and shrines of past Dalai Lamas.",
+   "The colours: red, white, yellow, are caused by the application of limestone."
+  ],
+  "title": "Potala Palace",
+  "url": "https://en.wikipedia.org/wiki/Potala_Palace",
+  "revision": 1372535590,
+  "fetched": "2026-10-20"
+ },
+ "hawa-mahal": {
+  "paragraphs": [
+   "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.",
+   "This palace is a five-storey pyramidal shaped monument that rises to about 50 feet (15 m). The top three floors of the structure have the width of a single room, while the first and second floors have patios in front of them. The front elevation, as seen from the street, is like a honeycomb with small portholes. Each porthole has miniature windows and carved sandstone grills, finials and domes. It gives the appearance of a mass of semi-octagonal bays, giving the monument its unique façade. The inner face on the back side of the building consists of chambers built with pillars and corridors with minimal ornamentation, and reach up to the top floor. The interior of the palace has been described as \"having rooms of different coloured marbles, relieved by inlaid panels or gilding, while fountains adorn the centre of the courtyard\"."
+  ],
+  "title": "Hawa Mahal",
+  "url": "https://en.wikipedia.org/wiki/Hawa_Mahal",
+  "revision": 1375536043,
+  "fetched": "2026-10-20"
+ },
+ "altare-della-patria": {
+  "paragraphs": [
+   "The Victor Emmanuel II National Monument (Italian: Monumento Nazionale a Vittorio Emanuele II), also known as the Vittoriano or for synecdoche Altare della Patria (\"Altar of the Fatherland\"), is a large national monument built between 1885 and 1935 to honour Victor Emmanuel II, the first king of a unified Italy, in Rome, Italy. It occupies a site between the Piazza Venezia and the Capitoline Hill. The monument was realized by Giuseppe Sacconi.",
+   "From an architectural perspective, it was conceived as a modern forum, an agora on three levels connected by stairways and dominated by a portico characterized by a colonnade. The complex process of national unity and liberation from foreign domination carried out by King Victor Emmanuel II of Savoy, to whom the monument is dedicated, has a great symbolic and representative value, being architecturally and artistically centred on the unification of Italy—for this reason the Vittoriano is considered one of the national symbols of Italy."
+  ],
+  "title": "Victor Emmanuel II Monument",
+  "url": "https://en.wikipedia.org/wiki/Victor_Emmanuel_II_Monument",
+  "revision": 1359465111,
+  "fetched": "2026-10-20"
+ },
+ "fnb-stadium-soccer-city": {
+  "paragraphs": [
+   "The First National Bank (FNB) Stadium, also known as Soccer City or the Calabash, is a football and rugby union stadium located in Nasrec, bordering the Soweto area of Johannesburg, South Africa. The site is managed by Stadium Management South Africa (SMSA) and is home of Kaizer Chiefs F.C. in the South African Premiership as well as the venue for key fixtures for the South Africa national football team.",
+   "It is located next to the South African Football Association headquarters (SAFA House) where both the FIFA offices and the Local Organising Committee for the 2010 FIFA World Cup are housed. Designed as the main association football stadium for the 2010 World Cup, the FNB Stadium became the largest stadium in Africa with a capacity of 94,736. However, its maximum capacity during the 2010 FIFA World Cup was 84,490 due to reserved seating for the press and VIPs. The stadium is also known by its nickname \"The Calabash\" due to its resemblance to the African pot or gourd."
+  ],
+  "title": "FNB Stadium",
+  "url": "https://en.wikipedia.org/wiki/FNB_Stadium",
+  "revision": 1380256501,
+  "fetched": "2026-10-20"
+ },
+ "carnegie-hall": {
+  "paragraphs": [
+   "Carnegie Hall ( KAR-nig-ee) is a concert venue at 881 Seventh Avenue, between 56th and 57th Streets, in Midtown Manhattan, New York City. Designed by architect William Burnet Tuthill and built by its namesake, industrialist and philanthropist Andrew Carnegie, the venue is one of the most prestigious in the world for both classical music and popular music. Carnegie Hall has its own artistic programming, development, and marketing departments and presents about 250 performances each season. It is also rented out to performing groups, though it has not had a resident company since the New York Philharmonic moved to Lincoln Center in 1962.",
+   "The Carnegie Hall complex has three auditoriums. The largest one is the Stern Auditorium, a five-story auditorium with 2,790 seats. Also part of the complex are the 599-seat Zankel Hall, located below ground on Seventh Avenue, as well as the 268-seat Joan and Sanford I. Weill Recital Hall on 57th Street. Besides the auditoriums, Carnegie Hall contains offices on its top stories."
+  ],
+  "title": "Carnegie Hall",
+  "url": "https://en.wikipedia.org/wiki/Carnegie_Hall",
+  "revision": 1380074935,
+  "fetched": "2026-10-20"
+ },
+ "barbican-estate": {
+  "paragraphs": [
+   "The Barbican Estate, or Barbican, is a residential complex of around 2,000 flats, maisonettes and houses in central London, within the City of London. It is in an area once devastated by World War II bombings and densely populated by financial institutions, 1.4 miles (2.2 km) north east of Charing Cross. Originally built as rental housing for middle and upper-middle-class professionals, it remains an upmarket residential estate. It contains, or is adjacent to, the Barbican Centre, the Museum of London, the Guildhall School of Music and Drama, the Barbican public library, the City of London School for Girls and a YMCA (now closed), forming the Barbican Complex.",
+   "The Barbican Complex is a prominent example of British brutalist architecture and is Grade II listed as a whole, with the exception of the former Milton Court, which once contained a fire station, medical facilities and some flats but was demolished to allow the construction of a new apartment tower—named The Heron—which also provides additional facilities for the Guildhall School of Music and Drama."
+  ],
+  "title": "Barbican Estate",
+  "url": "https://en.wikipedia.org/wiki/Barbican_Estate",
+  "revision": 1380616189,
+  "fetched": "2026-10-20"
+ },
+ "palais-garnier": {
+  "paragraphs": [
+   "The Palais Garnier (French: [palɛ ɡaʁnje] , \"Garnier Palace\"), also known as Opéra Garnier (French: [ɔpeʁa ɡaʁnje] , \"Garnier Opera\"), is a historic 1,979-seat opera house at the Place de l'Opéra in the 9th arrondissement of Paris, France. It was built for the Paris Opera from 1861 to 1875 at the behest of Emperor Napoleon III. Initially referred to as le nouvel Opéra de Paris (the new Paris Opera), it soon became known as the Palais Garnier, \"in acknowledgment of its extraordinary opulence\" and the architect Charles Garnier's plans and designs, which are representative of the Napoleon III style. It was the primary theatre of the Paris Opera and its associated Paris Opera Ballet until 1989, when a new opera house, the Opéra Bastille, opened at the Place de la Bastille. The company now uses the Palais Garnier mainly for ballet. The theatre has been a monument historique of France since 1923."
+  ],
+  "title": "Palais Garnier",
+  "url": "https://en.wikipedia.org/wiki/Palais_Garnier",
+  "revision": 1372204400,
+  "fetched": "2026-10-20"
+ },
+ "radio-city-music-hall": {
+  "paragraphs": [
+   "Radio City Music Hall (also known as Radio City) is an entertainment venue and theater at 1260 Avenue of the Americas, within Rockefeller Center, in the Midtown Manhattan neighborhood of New York City. Nicknamed \"The Showplace of the Nation\", it is the headquarters for the Rockettes. Radio City Music Hall was designed by Edward Durell Stone and Donald Deskey in the Art Deco style.",
+   "Radio City Music Hall was built on a plot of land that was originally intended for an opera house for the Metropolitan Opera, plans for which were canceled in 1929. It opened on December 27, 1932, as part of the construction of Rockefeller Center. The 5,960-seat Music Hall was the larger of two venues built for Rockefeller Center's \"Radio City\" section, the other being the RKO Roxy Theatre (later the Center Theatre); the \"Radio City\" name came to apply only to Radio City Music Hall. It was largely successful until the 1970s, when declining patronage nearly drove the theater to bankruptcy. Radio City was designated a New York City Landmark in May 1978, and it was restored and allowed to remain open. The theater was extensively renovated in 1999."
+  ],
+  "title": "Radio City Music Hall",
+  "url": "https://en.wikipedia.org/wiki/Radio_City_Music_Hall",
+  "revision": 1376840393,
+  "fetched": "2026-10-20"
+ },
+ "30-rockefeller-plaza": {
+  "paragraphs": [
+   "30 Rockefeller Plaza (officially the Comcast Building; formerly RCA Building and GE Building) is a skyscraper that forms the centerpiece of Rockefeller Center in the Midtown Manhattan neighborhood of New York City, New York. Completed in 1933, the 66-story, 850-foot-tall (10,200 in; 260 m) building was designed in the Art Deco style by Raymond Hood, Rockefeller Center's lead architect. 30 Rockefeller Plaza was known for its main tenant, the Radio Corporation of America (RCA), from its opening in 1933 until 1988 and then for General Electric until 2015, when it was renamed for its owner Comcast. The building also houses the headquarters and New York studios of television network NBC; the headquarters is sometimes called 30 Rock, a nickname that inspired the NBC sitcom of the same name. The tallest structure in Rockefeller Center, the building is the 28th tallest in New York City and the 65th tallest in the United States, and was the third tallest building in the world when it opened."
+  ],
+  "title": "30 Rockefeller Plaza",
+  "url": "https://en.wikipedia.org/wiki/30_Rockefeller_Plaza",
+  "revision": 1379578542,
+  "fetched": "2026-10-20"
+ },
+ "chhatrapati-shivaji-maharaj-terminus": {
+  "paragraphs": [
+   "Chhatrapati Shivaji Terminus (CST), officially Chhatrapati Shivaji Maharaj Terminus (CSMT) and also known as Victoria Terminus (VT), is a historic railway terminus and UNESCO World Heritage Site in Mumbai (Bombay), Maharashtra, India.",
+   "The main station building was designed in the Gothic Revival architecture style of architecture by British architect Frederick William Stevens, with influences from Romanesque and classical Indian architecture. The overall complex consists of a centrally domed office structure and a 330-foot-long platform connected to a 1,200-foot-long train shed.",
+   "The main office building has a C-shaped plan which is symmetrical on an east–west axis, but it has been designed in such a way that all sides are proportionally ornamented. It is crowned by a high central dome, which acts as the focal point. The dome is an octagonal ribbed structure with an allegorical female figure symbolising Progress, holding a torch pointing upwards in her right hand and a spoked wheel in her left hand."
+  ],
+  "title": "Chhatrapati Shivaji Terminus",
+  "url": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus",
+  "revision": 1380827258,
+  "fetched": "2026-10-20"
+ },
+ "gateway-of-india": {
+  "paragraphs": [
+   "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India.",
+   "The foundation stone was laid in March 1913 for a monument built in the Indo-Saracenic style, inspired by elements of 16th-century Gujarati architecture. The final design of the monument by architect George Wittet was sanctioned only in 1914, and construction was completed in 1924. The structure is a memorial arch made of basalt, which is 26 metres (85 feet) high, with an architectural resemblance to a triumphial arch as well as Gujarati architecture of the time."
+  ],
+  "title": "Gateway of India",
+  "url": "https://en.wikipedia.org/wiki/Gateway_of_India",
+  "revision": 1380006177,
+  "fetched": "2026-10-20"
+ },
+ "golestan-palace": {
+  "paragraphs": [
+   "The Golestan Palace (Persian: کاخ گلستان, romanized: Kākh-e Golestān) is the former official royal Qajar complex in Tehran, Iran. One of the oldest historic monuments in the capital and a UNESCO World Heritage Site, the Golestan Palace consists of a group of eight palatial royal structures surrounded by a wall, today used mainly as museums, surrounded by an outer wall, which were once enclosed within the defensive walls of Tehran's citadel. Most of the royal buildings date back to the 19th century and display a collection of Iranian and European crafts and gifts from the 18th to the 20th century."
+  ],
+  "title": "Golestan Palace",
+  "url": "https://en.wikipedia.org/wiki/Golestan_Palace",
+  "revision": 1375512522,
+  "fetched": "2026-10-20"
+ },
+ "falkirk-wheel": {
+  "paragraphs": [
+   "The Falkirk Wheel (Scottish Gaelic: Cuibhle na h-Eaglaise Brice) is a rotating boat lift in Tamfourhill, Falkirk, in central Scotland, connecting the Forth and Clyde Canal with the Union Canal. It opened in 2002 as part of the Millennium Link project, reconnecting the two canals for the first time since the 1930s.",
+   "The Morrison–Bachy Soletanche Joint Venture Team submitted their original design, which resembled a Ferris wheel with four gondolas, in 1999. It was agreed by all parties that the design was functional, but not the showpiece the BWB were looking for. After being asked to reconsider, a 20-strong team of architects and engineers was assembled by British Waterways. Under the leadership of Tony Kettle from architects RMJM, the initial concepts and images were created with the mechanical concepts proposed by the design team from Butterley and M G Bennetts. This was an intense period of work, with the final design concept completed in a three-week period during the summer of 1999. The final design was a co-operative effort between the British Waterways Board, engineering consultants Arup, Butterley Engineering and RMJM."
+  ],
+  "title": "Falkirk Wheel",
+  "url": "https://en.wikipedia.org/wiki/Falkirk_Wheel",
+  "revision": 1375258193,
+  "fetched": "2026-10-20"
+ },
+ "20-fenchurch-street": {
+  "paragraphs": [
+   "20 Fenchurch Street is a commercial skyscraper in London that takes its name from its address on Fenchurch Street, in the historic City of London financial district. It has been nicknamed \"The Walkie-Talkie\" because of its distinctive shape, said to resemble a walkie-talkie handset. Construction was completed in spring 2014, and the three-floor \"sky garden\" was opened in January 2015. The 38-storey building is 160 m (525 ft) tall. Since July 2017, the building has been owned by Lee Kum Kee Groups.",
+   "The new tower at 20 Fenchurch Street was designed by Uruguayan architect Rafael Viñoly.",
+   "The 'sky garden' at the top of the building was claimed by the developer to be London's highest public park, but since opening there have been debates about whether it can be described as a 'park', and whether it is truly 'public' given the access restrictions. The garden spans the top three floors, which are accessible by two express lifts and include a large viewing area, terrace, bar and two restaurants. Fourteen double-deck lifts (seven low-rise up to the 20th floor, seven high-rise above the 20th floor) serve the main office floors of the building."
+  ],
+  "title": "20 Fenchurch Street",
+  "url": "https://en.wikipedia.org/wiki/20_Fenchurch_Street",
+  "revision": 1359835709,
+  "fetched": "2026-10-20"
+ },
+ "watergate-complex": {
+  "paragraphs": [
+   "The Watergate complex is a group of six buildings in the Foggy Bottom neighborhood of Washington, D.C., United States. It includes a development of cooperative apartment residences, a hotel, and an office building.",
+   "Its 10 acres (4.0 ha) area, which sits just north of the John F. Kennedy Center for the Performing Arts, is bounded on the north by Virginia Avenue, on the east by New Hampshire Avenue, on the south by F Street, and on the west by the Rock Creek and Potomac Parkway which is along the Potomac River.",
+   "Built between 1963 and 1971, the Watergate became one of the most desirable living spaces in Washington, D.C., popular with members of Congress and political appointees of the executive branch. The complex has been sold several times since the 1980s. During the 1990s, it was subdivided and its component buildings and parts of buildings were sold to various owners.",
+   "In 1972, the office building was the location of the Watergate scandal, which led to the resignation of U.S. president Richard Nixon two years later. The name \"Watergate\" and the suffix \"-gate\" have become synonymous with and applied by journalists to controversial topics and scandals in the United States and elsewhere."
+  ],
+  "title": "Watergate complex",
+  "url": "https://en.wikipedia.org/wiki/Watergate_complex",
+  "revision": 1374583171,
+  "fetched": "2026-10-20"
+ },
+ "lords-media-centre": {
+  "paragraphs": [
+   "Lord's Cricket Ground, better known as Lord's, is a cricket venue at St John's Wood, historically in Middlesex and now in the City of Westminster, England. Named after its founder, Thomas Lord, it is owned by Marylebone Cricket Club (MCC) and serves as the home of Middlesex County Cricket Club, the England and Wales Cricket Board (ECB), ICC Europe and, until August 2005, the International Cricket Council (ICC). Lord's houses the world's oldest sporting museum.",
+   "Lord's today is not on its original 18th-century site; it is the third of three grounds which Thomas Lord established between 1787 and 1814. His first ground, now referred to as Lord's Old Ground, was where Dorset Square now stands. Lord's Middle Ground was in use from 1811 to 1813, before being abandoned for the construction of Regent's Canal which carved its way through the outfield. Lord's present ground is about 250 yards (230 m) north-west of the previous Middle Ground site. The ground can hold 31,100 spectators, its capacity increasing between 2017 and 2022 as part of MCC's ongoing redevelopment plans."
+  ],
+  "title": "Lord's",
+  "url": "https://en.wikipedia.org/wiki/Lord%27s",
+  "revision": 1380454787,
+  "fetched": "2026-10-20"
+ },
+ "amer-fort": {
+  "paragraphs": [
+   "Amer Fort or Amber Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres (1.5 sq mi) located 11 kilometres (6.8 mi) from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur. Amer Fort is known for its artistic style elements. With its large ramparts and series of gates and cobbled paths, the fort overlooks Maota Lake, which is the main source of water for the Amer Palace.",
+   "The Palace is divided into six separate but main sections each with its own entry gate and courtyard. The main entry is through the Suraj Pol (Sun Gate) which leads to the first main courtyard. This was the place where armies would hold victory parades with their war bounty on their return from battles, which were also witnessed by the Royal family's womenfolk through the latticed windows. This gate was built exclusively and was provided with guards as it was the main entry into the palace. It faced east towards the rising sun, hence the name. Royal cavalcades and dignitaries entered the palace through this gate."
+  ],
+  "title": "Amber Fort",
+  "url": "https://en.wikipedia.org/wiki/Amber_Fort",
+  "revision": 1376796735,
+  "fetched": "2026-10-20"
+ },
+ "high-line": {
+  "paragraphs": [
+   "The High Line is a 1.45-mile-long (2.33 km) elevated linear park, greenway, and rail trail created on a former New York Central Railroad spur on the West Side of Manhattan in New York City. The High Line's design is a collaboration between James Corner Field Operations, Diller Scofidio + Renfro, and Piet Oudolf. The abandoned spur has been redesigned as a \"living system\" drawing from multiple disciplines which include landscape architecture, urban design, and ecology. The High Line was inspired by the 4.7 km (2.9 mi) long Coulée verte (tree-lined walkway), another elevated park in Paris completed in 1993.",
+   "The High Line extends for 1.45 miles (2.33 km) from Gansevoort Street to 34th Street. At 30th Street the elevated tracks turn west around the Hudson Yards Redevelopment Project to the Jacob K. Javits Convention Center on 34th Street. As proposed, the park was to be integrated with the Hudson Yards development and the Hudson Park and Boulevard. If Hudson Yards' Western Rail Yard is built, it will be elevated above the High Line Park, so an exit along the viaduct over the West Side Yard will lead to the Western Rail Yard. The 34th Street entrance is at grade, with wheelchair access."
+  ],
+  "title": "High Line",
+  "url": "https://en.wikipedia.org/wiki/High_Line",
+  "revision": 1379072796,
+  "fetched": "2026-10-20"
+ },
+ "galleria-vittorio-emanuele-ii": {
+  "paragraphs": [
+   "The Galleria Vittorio Emanuele II (Italian: [ɡalleˈriːa vitˈtɔːrjo emanuˈɛːle seˈkondo]; Lombard: Galeria Vittori Emanuel) is Italy's oldest active shopping arcade and a major landmark of Milan. Housed within a four-story double arcade in the centre of town, the Galleria is named after Victor Emmanuel II, the first king of the Kingdom of Italy. It was designed in 1861 and built by architect Giuseppe Mengoni between 1865 and 1877.",
+   "The structure consists of two glass-vaulted arcades intersecting in an octagon covering the street connecting Piazza del Duomo to Piazza della Scala. The street is covered by an arching glass and cast iron roof, a popular design for 19th-century arcades, such as the Burlington Arcade in London, which was the prototype for larger glazed shopping arcades, beginning with the Saint-Hubert Gallery in Brussels (opened in 1847), the Passazh in St Petersburg (opened in 1848), the Galleria Umberto I in Naples (opened in 1890), and the Budapest Galleria.",
+   "The central octagonal space is topped with a glass dome. The Milanese Galleria was larger in scale than its predecessors and was an important step in the evolution of the modern glazed and enclosed shopping mall, of which it was the direct progenitor. It has inspired the use of the term galleria for many other shopping arcades and malls."
+  ],
+  "title": "Galleria Vittorio Emanuele II",
+  "url": "https://en.wikipedia.org/wiki/Galleria_Vittorio_Emanuele_II",
+  "revision": 1366091966,
+  "fetched": "2026-10-20"
+ },
+ "tour-montparnasse": {
+  "paragraphs": [
+   "Tour Maine-Montparnasse (Maine-Montparnasse Tower), also commonly named Tour Montparnasse, is a 210-metre (689 ft) office skyscraper in the Montparnasse area of Paris, France. Constructed from 1969 to 1973, it was the tallest skyscraper in France until 2011, when it was surpassed by the 231-metre (758 ft) Tour First in the La Défense business district west of Paris's city limits. It remains the tallest building in Paris proper and the fourth tallest in France, behind the Link, Tour First and Tour Hekla. As of February 2026, it is the 59th-tallest building in Europe.",
+   "The building has 59 floors and is built on top of the Montparnasse–Bienvenüe station of the Paris Métro.",
+   "There is an observation deck, branded as Paris Montparnasse, located on the 56th floor, 200 m (660 ft) above the ground. The same floor hosts a restaurant called Ciel de Paris, 'Sky of Paris'. There is also a rooftop terrace. On a clear day, the view from the observation deck extends for 40 km (25 mi); aircraft can be seen taking off from Orly Airport. The guard rail, to which various antennae are attached, can be pneumatically lowered."
+  ],
+  "title": "Tour Montparnasse",
+  "url": "https://en.wikipedia.org/wiki/Tour_Montparnasse",
+  "revision": 1373976940,
+  "fetched": "2026-10-20"
+ },
+ "habitat-67": {
+  "paragraphs": [
+   "Habitat 67, or just Habitat, is a housing complex at Cité du Havre, on the Saint Lawrence River, Montreal, Quebec, Canada, designed by Israeli-Canadian-American architect Moshe Safdie. It originated in his master's thesis at the School of Architecture at McGill University and then an amended version was built for Expo 67, a World's Fair held from April to October 1967. Its address is 2600 Avenue Pierre-Dupuy, next to the Marc-Drouin Quay. Habitat 67 is considered an architectural landmark and a recognized building in Montreal."
+  ],
+  "title": "Habitat 67",
+  "url": "https://en.wikipedia.org/wiki/Habitat_67",
+  "revision": 1373028761,
+  "fetched": "2026-10-20"
+ },
+ "chateau-frontenac": {
+  "paragraphs": [
+   "The Fairmont Le Château Frontenac, commonly referred to as the Château Frontenac (French pronunciation: [ʃɑto fʁɔ̃tnak]), is a historic hotel in Quebec City, Quebec, Canada. The hotel is situated in Old Quebec, within the historic district's Upper Town, on the southern side of Place d'Armes. The Château Frontenac was designed by New York architect Bruce Price in the Château style. It was built by the Canadian Pacific Railway company. The hotel is managed by Fairmont Hotels & Resorts. It is considered the most photographed hotel in the world.",
+   "The Château Frontenac is one of Canada's grand railway hotels built by the Canadian Pacific Railway. The Châteauesque architectural style used throughout the hotel would later serve as a template for other Canadian grand railway hotels erected in the late-19th to early-20th century. The central fortress-like tower design is derived from medieval châteaux found throughout France's Loire Valley. The Châteaue style includes elements such as the hotel's asymmetrical profile, with steeply pitched roofs, massive circular and polygonal towers and turrets, a central portal, ornate gables and dormers, and tall chimneys. The exterior base of the hotel is largely made of grey stone ashlar, with steel framing running up the building, Glenboig brick cladding."
+  ],
+  "title": "Château Frontenac",
+  "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_Frontenac",
+  "revision": 1380947051,
+  "fetched": "2026-10-20"
+ },
+ "liverpool-cathedral": {
+  "paragraphs": [
+   "Liverpool Cathedral, formally the Cathedral Church of Christ in Liverpool, is a Church of England cathedral in the city of Liverpool, England. It is the seat of the Anglican Bishop of Liverpool and is the mother church of the Anglican Diocese of Liverpool. It is the largest cathedral and religious building in Britain, and the eighth largest church in the world.",
+   "The cathedral is based on a design by Giles Gilbert Scott and was constructed between 1904 and 1978. It is the longest cathedral in the world: the total external length of the building, including the Lady Chapel (dedicated to the Blessed Virgin), is 621 feet (189 m), and its internal length 480 feet (150 m). In terms of overall volume, Liverpool Cathedral ranks as the fifth-largest cathedral in the world and contests the title of largest Anglican church building with the incomplete Cathedral of St. John the Divine in New York City. With a height of 331 feet (101 m) it is also one of the world's tallest non-spired church buildings and the fourth-tallest structure in the city of Liverpool. The cathedral is recorded in the National Heritage List for England as a designated Grade I listed building."
+  ],
+  "title": "Liverpool Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Liverpool_Cathedral",
+  "revision": 1376015916,
+  "fetched": "2026-10-20"
+ },
+ "natural-history-museum": {
+  "paragraphs": [
+   "The Natural History Museum in London, England, is a museum that exhibits a vast range of specimens from various segments of natural history. It is one of three major museums on Exhibition Road in South Kensington, the others being the Science Museum and the Victoria and Albert Museum. The Natural History Museum's main frontage, however, is on Cromwell Road.",
+   "The museum is home to life and earth science specimens comprising some 80 million items within five main collections: botany, entomology, mineralogy, palaeontology and zoology. The museum is a centre of research specialising in taxonomy, identification and conservation. Given the age of the institution, many of the collections have great historical as well as scientific value, such as specimens collected by Charles Darwin. The museum is particularly famous for its exhibition of dinosaur skeletons and ornate architecture—sometimes dubbed a cathedral of nature—both exemplified by the large Diplodocus cast that dominated the vaulted central hall before it was replaced in 2017 with the skeleton of a blue whale hanging from the ceiling. The Natural History Museum Library contains an extensive collection of books, journals, manuscripts, and artwork linked to the work and research of the scientific departments; access to the library is by appointment only."
+  ],
+  "title": "Natural History Museum, London",
+  "url": "https://en.wikipedia.org/wiki/Natural_History_Museum,_London",
+  "revision": 1377653343,
+  "fetched": "2026-10-20"
+ },
+ "venezuela-pavilion-venice": {
+  "paragraphs": [
+   "The Venice Biennale ( BEE-en-AH-lay, -⁠lee; Italian: la Biennale di Venezia [la bi.enˈnaːle di veˈnɛttsja]) is an international cultural exhibition hosted every two years in Venice, Italy. There are two main components of the festival, known as the Art Biennale (la Biennale d'Arte di Venezia; described in this article) and the Architecture Biennale (la Biennale d'Architettura di Venezia), which have been held in alternating years since the establishment of the latter in 1980. There are also four additional components, comprising Biennale Musica, Biennale Teatro, Venice Film Festival, and Venice Dance Biennale. Between them they cover contemporary art, architecture, music, theatre, film, and contemporary dance. The main exhibition is held in Castello and has around 30 permanent pavilions built by different countries.",
+   "The Venice Biennale of Architecture (Biennale d'Architettura di Venezia) was first held in 1980. It is now held in odd-numbered years. Similarly to the Art Biennale, the exhibition is based one main exhibition in the arsenale halls, as well as national exhibitions hosted in the pavilions of the arsenale and Biennale gardens."
+  ],
+  "title": "Venice Biennale",
+  "url": "https://en.wikipedia.org/wiki/Venice_Biennale",
+  "revision": 1378294496,
+  "fetched": "2026-10-20"
+ },
+ "metlife-building": {
+  "paragraphs": [
+   "The MetLife Building (also 200 Park Avenue and formerly the Pan Am Building) is a skyscraper at Park Avenue and 45th Street, north of Grand Central Terminal, in the Midtown Manhattan neighborhood of New York City, New York, U.S. Designed in the International style by Richard Roth, Walter Gropius, and Pietro Belluschi and completed in 1962, the MetLife Building is 808 feet (246 m) tall with 59 stories. It was advertised as the world's largest commercial office space by square footage at its opening, with 2.4 million square feet (220,000 m2) of usable office space. As of November 2022, the MetLife Building remains one of the 100 tallest buildings in the United States.",
+   "Designed in the International style by Richard Roth, Walter Gropius, and Pietro Belluschi, the MetLife Building was developed by Erwin S. Wolfson and completed in 1963 as the Pan Am Building. It is 808 feet (246 m) tall with 59 stories, containing both commercial and office space. As of September 2024, the MetLife Building is the 42nd-tallest building in New York City and 88th-tallest in the United States."
+  ],
+  "title": "MetLife Building",
+  "url": "https://en.wikipedia.org/wiki/MetLife_Building",
+  "revision": 1378722204,
+  "fetched": "2026-10-20"
+ },
+ "royal-pavilion-brighton": {
+  "paragraphs": [
+   "The Royal Pavilion (also known as the Brighton Pavilion) and its surrounding gardens form a Grade I listed former royal residence in Brighton, England. Beginning in 1787, it was built in three stages as a seaside retreat for George, Prince of Wales, who became the Prince Regent in 1811, and King George IV in 1820. It is built in the Indo-Saracenic style prevalent in India for most of the 19th century. The current appearance, with its Mughal inspired features such as bulbous domes, chhatri-topped minarets and cusped arches, is the work of the architect John Nash, who extended the building starting in 1815. George IV's successors William IV and Victoria also used the Pavilion, but Queen Victoria decided that Osborne House should be the royal seaside retreat, and the Pavilion was sold to the city of Brighton in 1850."
+  ],
+  "title": "Royal Pavilion",
+  "url": "https://en.wikipedia.org/wiki/Royal_Pavilion",
+  "revision": 1380528286,
+  "fetched": "2026-10-20"
+ },
+ "lloyds-building": {
+  "paragraphs": [
+   "The Lloyd's building (sometimes known as the Inside-Out Building) is the home of the insurance institution Lloyd's of London. It is located on the former site of East India House on the corner of Lime Street and Leadenhall Street, in London's main financial district, the City of London. The building is a leading example of radical Bowellism architecture in which the services for the building, such as ducts and lifts, are located on the exterior to maximise space in the interior.",
+   "In 2011, twenty-five years after its completion in 1986 the building received Grade I listing; at this time it was the youngest structure ever to obtain this status. It is said by Historic England to be \"universally recognised as one of the key buildings of the modern epoch\". Its innovation of having key service pipes and other components routed outside the walls has led to very expensive maintenance costs due to their exposure to the elements."
+  ],
+  "title": "Lloyd's building",
+  "url": "https://en.wikipedia.org/wiki/Lloyd%27s_building",
+  "revision": 1374393794,
+  "fetched": "2026-10-20"
+ },
+ "centre-pompidou": {
+  "paragraphs": [
+   "The Centre Pompidou (French pronunciation: [sɑ̃tʁ pɔ̃pidu]), more fully the Centre national d'art et de culture Georges-Pompidou (lit. 'Georges Pompidou National Centre of Art and Culture'), also known as the Pompidou Centre in English and colloquially as Beaubourg, is a building complex in Paris, France. It was designed in the style of high-tech architecture by the architectural team of Richard Rogers, Su Rogers and Renzo Piano, along with Gianfranco Franchini. It is named after Georges Pompidou, the President of France from 1969 to 1974 who commissioned the building, and was officially opened on 31 January 1977 by President Valéry Giscard d'Estaing.",
+   "Centre Pompidou is located in the Beaubourg area of the 4th arrondissement of Paris. It houses the Bibliothèque publique d'information (BPI; Public Information Library), a vast public library, and the Musée National d'Art Moderne, the largest museum for modern art in Europe. The Place Georges Pompidou is an open plaza in front of the museum.",
+   "The Centre Pompidou was closed for renovation in September 2025. It is expected to reopen in 2030 upon the project's completion. The BPI will be temporarily relocated to its Lumière building."
+  ],
+  "title": "Centre Pompidou",
+  "url": "https://en.wikipedia.org/wiki/Centre_Pompidou",
+  "revision": 1378296750,
+  "fetched": "2026-10-20"
+ },
+ "christ-church-cathedral-zanzibar": {
+  "paragraphs": [
+   "The Metropolitan Cathedral of the Most Precious Blood informally known as Westminster Cathedral, is the largest Catholic church in England and Wales. It is dedicated to the Blood of Jesus Christ, is the seat of the Archbishop of Westminster and the mother church of the Archdiocese of Westminster.",
+   "Westminster Cathedral is the 50th largest church in the world in terms of interior area (5,017 m²), seating up to 2,000 people. It is the 38th largest Catholic church globally in terms of interior area.",
+   "The whole building, in the neo-Byzantine style, covers a floor area of about 5,017 square metres (54,000 sq ft); the dominating factor of the scheme, apart from the campanile, being a spacious and uninterrupted nave, 18 metres (59 ft) wide and 70 metres (230 ft) long from the narthex to the sanctuary steps, covered with domical vaulting."
+  ],
+  "title": "Westminster Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Westminster_Cathedral",
+  "revision": 1381133917,
+  "fetched": "2026-10-20"
+ },
+ "bharat-mandapam": {
+  "paragraphs": [
+   "Bharat Mandapam (English: /ˈbʱaːrət̪ ˈməɳɖəpəm/; Sanskrit/Tamil: Bharatha Mandapam) is an exhibition hall located within the confines of the Pragati Maidan complex in New Delhi, India. It is one of the largest convention centres of India. While the Pragati Maidan complex was inaugurated in 1972, Bharat Mandapam was unveiled in 2023 ahead of the 2023 G20 New Delhi summit.",
+   "It was constructed on the site of the Hall of Nations, which was controversially razed in 2017 despite court proceedings underway to address the structure’s heritage status. The decision to demolish the Hall while the matter was sub judice sparked significant public outcry.",
+   "With a total built-up area of 390,000 sq. metres, the complex includes a meeting hall that can accommodate 7,000 people in a single format, along with six modern exhibition halls spanning an exhibition area of 150,000 sq. metres. The 2023 G20 New Delhi summit occurred at this venue between 9-10 September, 2023."
+  ],
+  "title": "Bharat Mandapam",
+  "url": "https://en.wikipedia.org/wiki/Bharat_Mandapam",
+  "revision": 1381125884,
+  "fetched": "2026-10-20"
+ },
+ "isabella-stewart-gardner-museum": {
+  "paragraphs": [
+   "The Isabella Stewart Gardner Museum is an art museum in Boston, Massachusetts, which houses significant examples of European, Asian, and American art. Its collection includes paintings, sculpture, tapestries, and decorative arts. It was founded by Isabella Stewart Gardner, whose will called for her art collection to be permanently exhibited \"for the education and enjoyment of the public forever.\"",
+   "Built to evoke a 15th-century Venetian palace, the museum building provides an atmospheric setting for Gardner's inventive creation. Gardner hired Willard T. Sears to design the building near the marshy Back Bay Fens to house her growing art collection. Inside the museum, three floors of galleries surround a garden courtyard adorned with Roman mosaic, blooming with life in all seasons. The fourth floor was Gardner's private apartments, now used for administration, and rarely for exhibits."
+  ],
+  "title": "Isabella Stewart Gardner Museum",
+  "url": "https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum",
+  "revision": 1373591018,
+  "fetched": "2026-10-20"
+ },
+ "stahl-house": {
+  "paragraphs": [
+   "The Stahl House (also known as Case Study House No. 22) is an American Modernist-styled house in the Hollywood Hills section of Los Angeles, California, United States. The house was designed by architect Pierre Koenig, to preliminary designs by his client, Buck Stahl, It is known as a frequent set location in American films. It is listed on the National Register of Historic Places and is a Los Angeles Historic-Cultural Monument."
+  ],
+  "title": "Stahl House",
+  "url": "https://en.wikipedia.org/wiki/Stahl_House",
+  "revision": 1380755067,
+  "fetched": "2026-10-20"
+ },
+ "sheats-goldstein-residence": {
+  "paragraphs": [
+   "The Sheats–Goldstein Residence is a house designed by American architect John Lautner, in the Beverly Crest neighborhood of Los Angeles, California. Designed and built between 1961 and 1963, Lautner used the sandstone ledge upon which the house was built as design inspiration for a cave-like dwelling, and used the hillside site to take advantage of the dramatic views of Benedict Canyon and Beverly Hills. The house exemplifies the tenets of both Mid-Century Modern design and the American Organic Architecture ethos, deriving its form as an extension of its environment and of the individuals for whom it was built. The design of the house and the completed structure—like all of Lautner's work—have been commended as being strongly influenced and defined by addressing the challenges and constraints of the site."
+  ],
+  "title": "Sheats–Goldstein Residence",
+  "url": "https://en.wikipedia.org/wiki/Sheats%E2%80%93Goldstein_Residence",
+  "revision": 1380635594,
+  "fetched": "2026-10-20"
+ },
+ "beijing-national-stadium": {
+  "paragraphs": [
+   "The National Stadium (国家体育场, Guójiā Tǐyùchǎng), a.k.a. the Bird's Nest (鸟巢), is a stadium at Olympic Green in Chaoyang, Beijing, China. The National Stadium, covering an area of 204,000 square meters with an 80,000 person capacity (91,000 with temporary seating), broke ground in December 2003, officially started construction in March 2004, and was completed in June 2008.",
+   "Beijing National Stadium (BNS) was a joint venture among architects Jacques Herzog and Pierre de Meuron of Herzog & de Meuron, project architect Stefan Marbach and CADG, which was led by chief architect Li Xinggang. During their first meeting in 2003, at Basel, the group decided to do something unlike Herzog and de Meuron had traditionally designed. \"China wanted to have something new for this very important stadium,\" Li stated. In an effort to design a stadium that was \"porous\" while also being \"a collective building, a public vessel\", the team studied Chinese ceramics. This line of thought brought the team to the \"nest scheme\". The stadium consists of two independent structures, standing 50 feet apart: a red concrete seating bowl and the outer steel frame around it."
+  ],
+  "title": "Beijing National Stadium",
+  "url": "https://en.wikipedia.org/wiki/Beijing_National_Stadium",
+  "revision": 1376289592,
+  "fetched": "2026-10-20"
+ },
+ "queen-alia-international-airport": {
+  "paragraphs": [
+   "Queen Alia International Airport (IATA: AMM, ICAO: OJAI) (Arabic: مطار الملكة علياء الدولي, romanized: Maṭār al-Malika ʿAlyāʾ ad-Dawaliyy) is an international airport located in Zizya, 30 kilometers (18 miles) south of Amman, the capital and largest city of Jordan.",
+   "It is the largest airport in the country, named after the country's late Queen Alia, who died in a helicopter crash in 1977. The airport's original terminals were built in 1983, and demolished in 2013, following the inauguration of new terminals. Further terminal were inaugurated in an expansion in 2016.",
+   "QAIA is home to the country's flag carrier, Royal Jordanian, and serves as a hub for Jordan Aviation. Since 2022, the airport has dealt with over 7 million passengers annually."
+  ],
+  "title": "Queen Alia International Airport",
+  "url": "https://en.wikipedia.org/wiki/Queen_Alia_International_Airport",
+  "revision": 1376359076,
+  "fetched": "2026-10-20"
+ },
+ "philadelphia-city-hall": {
+  "paragraphs": [
+   "The Philadelphia City Hall is the seat of the municipal government of the City of Philadelphia in the U.S. state of Pennsylvania. Built in the ornate Second Empire style, City Hall houses the chambers of the Philadelphia City Council and the offices of the Mayor of Philadelphia.",
+   "This building is also a courthouse, serving as the seat of the First Judicial District of Pennsylvania. It houses the Civil Trial and Orphans' Court Divisions of the Court of Common Pleas of Philadelphia County. It also houses the Philadelphia facilities for the Supreme Court of Pennsylvania (which also holds session and accepts filings in Harrisburg and Pittsburgh).",
+   "Built using brick, white marble and limestone, Philadelphia City Hall is the world's largest free-standing masonry building (since the 1953 Mole Antonelliana spire collapse) and was the world's tallest habitable building upon its completion in 1894. It was designated as a National Historic Landmark in 1976; in 2006, it was also named a National Historic Civil Engineering Landmark by the American Society of Civil Engineers. It was regarded as the world's tallest building until 1908 when surpassed by the Singer Building, and it was the world's tallest clock tower until 1909 when surpassed by the Metropolitan Life Insurance Company Tower."
+  ],
+  "title": "Philadelphia City Hall",
+  "url": "https://en.wikipedia.org/wiki/Philadelphia_City_Hall",
+  "revision": 1369907519,
+  "fetched": "2026-10-20"
+ },
+ "peles-castle-sinaia": {
+  "paragraphs": [
+   "Peleș Castle is a Neo-Renaissance palace in the Royal Domain of Sinaia in the Carpathian Mountains, near Sinaia, in Prahova County, Romania, on an existing medieval route linking Transylvania and Wallachia, built between 1873 and 1914. Its inauguration was held in 1883. It was constructed for King Carol I of Romania.",
+   "By form and function, Peleș is a palace, but it is consistently called a castle. Its architectural style is a romantically inspired blend Neo-Renaissance and Gothic Revival similar to Neuschwanstein Castle in Bavaria. A Saxon influence can be observed in the interior courtyard facades, which have allegorical hand-painted murals and ornate fachwerk similar to that seen in northern European alpine architecture. Interior decoration is mostly Baroque influenced, with heavy carved woods and exquisite fabrics."
+  ],
+  "title": "Peleș Castle",
+  "url": "https://en.wikipedia.org/wiki/Pele%C8%99_Castle",
+  "revision": 1375910636,
+  "fetched": "2026-10-20"
+ },
+ "surat-diamond-bourse": {
+  "paragraphs": [
+   "Surat Diamond Bourse (SDB) is a diamond trade centre located in DREAM City in Surat, Gujarat, India, designed by the architecture firm Morphogenesis. It is the world's largest office building with a floor space of 660,000 square metres (7,100,000 sq ft). The current chairman is Govind Dholakia and CEO of Surat Diamond Bourse is Mahesh Gadhavi.",
+   "The building is located in the core of the Diamond Research and Mercantile City, an upcoming business district. It is spread across 14.38 hectares (35.54 acres) with availability of 61,000 square metres (660,000 square feet) built-up area. The bourse comprises nine interconnected towers, each with 15 floors, accommodating 4,200 offices ranging from 28 square metres (300 square feet) to 700 square metres (7,500 square feet), out of which 2,700 offices are with 28 square metres (300 sq ft) area each in five towers, 900 offices with 46 square metres (500 sq ft) area in one tower, 400 offices with 93 square metres (1,000 sq ft) area in another tower, and two towers offering 350 larger offices exceeding 93 square metres (1,000 sq ft) area. The nine towers are connected with each other by a central corridor, with access to services and facilities similar to an airport terminal. There are nine Panchtattva courts in between the nine buildings, created as recreational and green spaces."
+  ],
+  "title": "Surat Diamond Bourse",
+  "url": "https://en.wikipedia.org/wiki/Surat_Diamond_Bourse",
+  "revision": 1378466353,
+  "fetched": "2026-10-20"
+ },
+ "seagram-building": {
+  "paragraphs": [
+   "The Seagram Building is a skyscraper at 375 Park Avenue, between 52nd and 53rd streets, in the Midtown Manhattan neighborhood of New York City, New York, United States. It was designed in the International Style by Ludwig Mies van der Rohe along with Philip Johnson, Ely Jacques Kahn, and Robert Allan Jacobs. The high-rise tower is 515 feet (157 m) tall with 38 stories and, when completed in 1958, initially served as the headquarters of the Seagram Company, a Canadian distiller.",
+   "German-American architect Ludwig Mies van der Rohe designed the Seagram Building in the International Style. Philip Johnson was the co-architect, being responsible for the entrance canopies, elevators, lighting, and restaurant spaces. The partnership of Ely Jacques Kahn and Robert Allan Jacobs were the associate architects. Numerous consultants were involved in the building's design, including mechanical engineers Jaros, Baum & Bolles; structural engineers Severud-Elstad Krueger; electrical engineer Clifton E. Smith; lighting consultant Richard Kelly; acoustics consultant Bolt Beranek and Newman; graphics consultant Elaine Lustig; and landscape architects Charles Middeleer and Karl Linn."
+  ],
+  "title": "Seagram Building",
+  "url": "https://en.wikipedia.org/wiki/Seagram_Building",
+  "revision": 1377459442,
+  "fetched": "2026-10-20"
+ },
+ "70-pine-street": {
+  "paragraphs": [
+   "70 Pine Street (formerly known as the 60 Wall Tower, Cities Service Building, and American International Building) is a 67-story, 952-foot (290 m) residential skyscraper in the Financial District of Lower Manhattan, New York City, New York, U.S. Designed by the architectural firm of Clinton & Russell, Holton & George in the Art Deco style, 70 Pine Street was constructed between 1930 and 1932 as an office building. The structure was originally named for the energy conglomerate Cities Service Company (later Citgo), its first tenant. Upon its completion, it was Lower Manhattan's tallest building and, until 1969, the world's third-tallest building.",
+   "70 Pine Street is a 67-story building rising 952 feet (290 m). The roof is 850 feet (260 m) above ground, while the top story is 800 feet (240 m) high. The skyscraper has a Gothic-like, spire-topped appearance. The architectural firm Clinton & Russell, Holton & George designed 70 Pine Street in the Art Deco style; the structure was the last large commission by these architects. Of that firm's principals, Thomas J. George was likely the most involved with the design. James Stewart & Company was the general contractor, Taylor Fichter Steel Construction was the structural engineer, and John M. Parrish was the project's general superintendent."
+  ],
+  "title": "70 Pine Street",
+  "url": "https://en.wikipedia.org/wiki/70_Pine_Street",
+  "revision": 1375638235,
+  "fetched": "2026-10-20"
+ },
+ "victoria-memorial-kolkata": {
+  "paragraphs": [
+   "The Victoria Memorial is a large marble monument in the Maidan in Central Kolkata (Calcutta), having its entrance on the Queen's Way. It was built between 1906 and 1921 by the British Raj. It is dedicated to the memory of Queen Victoria, the Empress of India from 1876 to 1901.",
+   "The work of construction was entrusted to Martin & Co. of Calcutta founded by Rajendranath Mukherjee and Thomas Acquin Martin, and work on the superstructure began in 1910.",
+   "It is the largest monument to a monarch anywhere in the world. It stands at 26 hectares (64 acres) of gardens and is now a museum under the control of the Ministry of Culture, Government of India. Possessing prominent features of the Indo-Saracenic architecture, it has evolved into one of the most popular attractions in the city."
+  ],
+  "title": "Victoria Memorial, Kolkata",
+  "url": "https://en.wikipedia.org/wiki/Victoria_Memorial,_Kolkata",
+  "revision": 1376798468,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-justice-punjab-and-haryana-high-court": {
+  "paragraphs": [
+   "Punjab and Haryana High Court is the common High Court for the Indian states of Punjab and Haryana and the Union Territory of Chandigarh based in Chandigarh, India. Sanctioned strength of judges of this High Court is 85, consisting of 64 Permanent Judges, including the Chief Justice, and 21 Additional Judges. As of 21 August 2026, there are 64 Judges working in the High Court, comprising 41 Permanent and 23 Additional Judges.",
+   "The court building is known as the Palace of Justice. Designed by Le Corbusier, it and several of his other works were inscribed as UNESCO World Heritage Sites in July 2016.",
+   "Sarv Mittra Sikri, who had been practising in the High Court of Punjab and Haryana and remained Advocate-General for Punjab from 1 November 1956 to 2 February 1964, was the first to be appointed as judge of the Supreme Court of India on 3 February 1964 directly from the Bar; later, becoming the Chief Justice of India on 22 January 1971, again with the distinction of being first of only two CJIs directly from the Bar.",
+   "Past judges include Madan Mohan Punchhi, P. Sathasivam, Tirath Singh Thakur, Jagdish Singh Khehar, Ranjan Gogoi and Surya Kant who were elevated to the Supreme Court of India and became Chief Justice of India."
+  ],
+  "title": "Punjab and Haryana High Court",
+  "url": "https://en.wikipedia.org/wiki/Punjab_and_Haryana_High_Court",
+  "revision": 1380579148,
+  "fetched": "2026-10-20"
+ },
+ "broadcasting-house-london": {
+  "paragraphs": [
+   "Broadcasting House is the headquarters of the BBC, in Portland Place and Langham Place, London. The first radio broadcast from the building was made on 15 March 1932, and the building was officially opened two months later, on 15 May. The main building is in Art Deco style, with a facing of Portland stone over a steel frame. It is a Grade II* listed building and includes the BBC Radio Theatre, where music and speech programmes are recorded in front of a studio audience.",
+   "As part of a major consolidation of the BBC's property portfolio in London, Broadcasting House has been extensively renovated and extended. This involved the demolition of post-war extensions on the eastern side of the building, replaced by a new wing completed in 2005. The wing was named the \"John Peel Wing\" in 2012, after the disc jockey. BBC London, BBC Arabic Television and BBC Persian Television are housed in the new wing, which also contains the reception area for BBC Radio 1 and BBC Radio 1Xtra (the studios themselves are in the new extension to the main building)."
+  ],
+  "title": "Broadcasting House",
+  "url": "https://en.wikipedia.org/wiki/Broadcasting_House",
+  "revision": 1378314303,
+  "fetched": "2026-10-20"
+ },
+ "fernsehturm-berlin": {
+  "paragraphs": [
+   "The Fernsehturm (German: [ˈfɛ͡ənzeːˌtʊ͡ɐm] ; lit. 'Television Tower') in central Berlin was constructed between 1965 and 1969 by the government of the German Democratic Republic as both a functional broadcasting facility and a symbol of communist power.",
+   "It remains a landmark today from its position next to Alexanderplatz in the city's Marien Quarter, part of the district of Mitte, visible across most suburban districts of Berlin. With a height of 368 metres (1,207 ft) (including antenna) it is the tallest structure in Germany, and the third-tallest structure in the European Union. When built it was the fourth-tallest freestanding structure in the world after the Empire State Building and the John Hancock Center.",
+   "Of the four tallest structures in the European Union, the Fernsehturm is two metres (6+1⁄2 feet) shorter than the Torreta de Guardamar, 0.5 m (1 ft 8 in) shorter than the Riga Radio and TV Tower, and 8 m (26 ft) taller than the Trbovlje Power Station. The structure is also more than 220 m (720 ft) higher than the old Berlin Radio Tower in the western part of the city, which was built in the 1920s."
+  ],
+  "title": "Fernsehturm Berlin",
+  "url": "https://en.wikipedia.org/wiki/Fernsehturm_Berlin",
+  "revision": 1376210251,
+  "fetched": "2026-10-20"
+ },
+ "oriental-pearl-tower": {
+  "paragraphs": [
+   "The Oriental Pearl Tower is a futurist TV tower in Lujiazui, Shanghai. Built from 1991 to 1994, the tower was the tallest structure in China until the completion of nearby World Financial Center in 2007. Its status as Shanghai's first AAAAA tourist attraction, the tower's unique architecture, height, and fifteen observation decks have made it a cultural icon of the city.",
+   "The top floor of the Oriental Pearl tower is at 351 metres (1,200 ft), which, combined with its 137 metres (450 ft) antenna, makes the tower 468 metres (1,500 ft) tall. The tower was the tallest freestanding structure in China and Asia from 1994 to 2007, but was later surpassed by Canton Tower in Guangzhou."
+  ],
+  "title": "Oriental Pearl Tower",
+  "url": "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower",
+  "revision": 1357282250,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-culture-and-science": {
+  "paragraphs": [
+   "The Palace of Culture and Science (Polish: Pałac Kultury i Nauki; PKiN) is a notable high-rise building in central Warsaw, Poland. With a total height of 237 metres (778 ft), it is the second tallest building in both Warsaw and Poland (after the Varso Tower), the eighth tallest building in the European Union and one of the tallest on the European continent. At the time of its completion in 1955, the Palace was the eighth tallest building in the world, retaining the position until 1961. Between 2000 and 2002, it was also the tallest clock tower in the world.",
+   "Inspired by Polish historical architecture and American art deco high-rise buildings, the Palace of Culture and Science was designed by Soviet architect Lev Rudnev in the spirit of the \"Seven Sisters\".",
+   "The Palace houses various public and cultural institutions, including theatres, museums, universities, a cinema, a concert hall, a public swimming pool, and the offices of the Polish Academy of Sciences. The building is decorated with sculptures representing the fields of culture and science. The main entrance features sculptures of the astronomer Nicolaus Copernicus, by Ludwika Nitschowa, and the poet Adam Mickiewicz, by Stanisław Horno-Popławski. Since 2007, the PKiN has been listed in the Registry of Objects of Cultural Heritage."
+  ],
+  "title": "Palace of Culture and Science",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science",
+  "revision": 1379412801,
+  "fetched": "2026-10-20"
+ },
+ "stari-most-mostar": {
+  "paragraphs": [
+   "The Old Bridge (Serbo-Croatian: Stari most), also known as the Mostar Bridge, is a rebuilt 16th-century Ottoman bridge in the city of Mostar in Bosnia and Herzegovina. It crosses the river Neretva and connects the two parts of the city, which is named after the bridge keepers (mostari) who guarded the Old Bridge during the Ottoman era. Commissioned by Suleiman the Magnificent in 1557 and designed by Mimar Hayruddin, a student and apprentice of the architect Mimar Sinan, the Old Bridge is an exemplary piece of Balkan Islamic architecture.",
+   "During the Croat–Bosniak War, the Army of the Republic of Bosnia and Herzegovina (ARBiH) used the bridge as a military supply line, leading the Croatian Defence Council (HVO) to shell and destroy it on 9 November 1993. Subsequently, the bridge was reconstructed, and it reopened on 23 July 2004. In 2017, the International Criminal Tribunal for the former Yugoslavia (ICTY) deemed that the bridge was a legitimate military target."
+  ],
+  "title": "Stari Most",
+  "url": "https://en.wikipedia.org/wiki/Stari_Most",
+  "revision": 1361225087,
+  "fetched": "2026-10-20"
+ },
+ "j-edgar-hoover-building": {
+  "paragraphs": [
+   "The J. Edgar Hoover Building is a low-rise office building located at 935 Pennsylvania Avenue NW in Washington, D.C., in the United States. It is the headquarters of the Federal Bureau of Investigation (FBI)."
+  ],
+  "title": "J. Edgar Hoover Building",
+  "url": "https://en.wikipedia.org/wiki/J._Edgar_Hoover_Building",
+  "revision": 1375900839,
+  "fetched": "2026-10-20"
+ },
+ "basilica-of-our-lady-of-peace-of-yamoussoukro": {
+  "paragraphs": [
+   "The Basilica of Our Lady of Peace is a Catholic minor basilica dedicated to Our Lady of Peace in Yamoussoukro, the administrative capital of Ivory Coast. Guinness World Records lists it as the largest church in the world, having surpassed the previous record holder, Saint Peter's Basilica, upon completion. It has an area of 30,000 square metres (320,000 sq ft) and is 158 metres (518 ft) tall. However, it also includes a rectory and a villa (counted in the overall area), which are not strictly part of the church. It can accommodate 18,000 worshippers, compared to 60,000 for St. Peter's.",
+   "While designing it after the Vatican basilica, the Lebanese architect Pierre Fakhoury constructed the dome to be slightly lower than the Basilica of Saint Peter, but topped with a larger cross. The finished height is 158 metres (518 ft). The dome is more than twice the diameter of St. Peter's in Rome, 90 metres (300 ft) versus 41 metres (135 ft). The base of the dome is much lower than Saint Peter's, so the overall height is slightly less. The basilica is constructed with marble imported from Italy and is furnished with 8,400 square metres (90,000 sq ft) of contemporary stained glass from France."
+  ],
+  "title": "Basilica of Our Lady of Peace",
+  "url": "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Peace",
+  "revision": 1374154516,
+  "fetched": "2026-10-20"
+ },
+ "wat-rong-khun": {
+  "paragraphs": [
+   "Wat Rong Khun (Thai: วัดร่องขุ่น), better known as the White Temple, is a contemporary, privately owned art exhibit in the style of a Buddhist temple in Pa O Don Chai, Mueang District, Chiang Rai province, Thailand. Situated outside the city of Chiang Rai, the site attracts a large number of visitors, both Thai and foreign, making it one of Chiang Rai's most visited attractions. The White Temple was created by master Chalermchai Kositpipat, the national artist who designed, constructed, and opened it to visitors in 1997.",
+   "The primary structure of the temple is made of a basic concrete frame and a wooden roof. Viewed from a distance, it appears to be crafted from sparkling porcelain, but on closer inspection it becomes evident that the dazzling effect is achieved through a blend of whitewash and transparent mirrored chips. The outer surfaces are adorned with white plaster and incorporated glass inserts."
+  ],
+  "title": "Wat Rong Khun",
+  "url": "https://en.wikipedia.org/wiki/Wat_Rong_Khun",
+  "revision": 1375704094,
+  "fetched": "2026-10-20"
+ },
+ "egyptian-museum-cairo": {
+  "paragraphs": [
+   "The Museum of Egyptian Antiquities, commonly known as the Egyptian Museum (Egyptian Arabic: المتحف المصرى, romanized: al-Matḥaf al-Miṣrī, Egyptian Arabic pronunciation: [elˈmætħæf elˈmɑsˤɾi]) and also called the Cairo Museum or the Egyptian Museum in Cairo (EMC), is a national history museum in Cairo, Egypt.",
+   "An Egyptological museum, it houses the largest collection of Egyptian antiquities in the world, including over 170,000 items. The Egyptian Museum occupies a building constructed in 1901 on Tahrir Square and is one of the largest museums in Africa as well as the first national museum established in the Middle East."
+  ],
+  "title": "Egyptian Museum",
+  "url": "https://en.wikipedia.org/wiki/Egyptian_Museum",
+  "revision": 1381147104,
+  "fetched": "2026-10-20"
+ },
+ "bahai-house-of-worship-kampala": {
+  "paragraphs": [
+   "A Baháʼí House of Worship, or Baháʼí temple, is a place of worship in the Baháʼí Faith. It is also referred to as Mashriqu'l-Adhkár (Arabic: \"Dawning-place of the remembrances of God\").",
+   "All Baháʼí Houses of Worship share certain architectural elements, some of which are specified in Baháʼí scripture. ‘Abdu'l-Baha's instructions to the architect of the first House of Worship, in Turkmenistan, were that the design should feature nine aspects of the building which each incorporate the number nine, with nine sides, nine columns, nine piers, nine doors, nine gardens, nine paths, nine pools, nine covered walkways and nine loggias. A circular shaped building with nine sides, nine gardens, and nine paths has been retained as a requirement for all subsequent Houses of Worship. The number nine is symbolically significant in Baháʼí belief, in which it represents completeness, perfection, and the Baháʼí teaching of the unity of religion. The number nine also holds significance in the Baháʼí Faith due its numerical value of Bahá according to the abjad numeral system. In a letter dated 20 April 1955 referencing the House of Worship to be built in Germany, Shoghi Effendi indicated via his secretary that nothing in the Baháʼí teachings required a dome for the building."
+  ],
+  "title": "Baháʼí House of Worship",
+  "url": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_House_of_Worship",
+  "revision": 1368737167,
+  "fetched": "2026-10-20"
+ },
+ "accor-arena-bercy": {
+  "paragraphs": [
+   "Accor Arena (originally known as the Palais Omnisports de Paris-Bercy), also known as Bercy Arena, is an indoor sports arena and concert hall in Paris, France. It lies in the neighbourhood of Bercy, on the Boulevard de Bercy, in the 12th arrondissement of Paris. The closest Paris Métro station is Bercy, which also serves the Finance Ministry.",
+   "Designed by the architectural firm Andrault-Parat, Jean Prouvé and Aydin Guvan, the pyramidal arena's sloping walls are covered with a lawn. It can seat 7,000 to 20,300 people, depending on the event.",
+   "The arena was renamed Bercy Arena after renovations on 1 January 2015, AccorHotels Arena in October 2015, and given its current name in June 2020.",
+   "Since 1985, the arena hosts the annual Festival des Arts Martiaux. The 38th Festival des Arts Martiaux was held in March 2025."
+  ],
+  "title": "Accor Arena",
+  "url": "https://en.wikipedia.org/wiki/Accor_Arena",
+  "revision": 1376378070,
+  "fetched": "2026-10-20"
+ },
+ "stadio-artemio-franchi": {
+  "paragraphs": [
+   "The Stadio Artemio Franchi is a football stadium in Florence, Italy. It is currently the home of Fiorentina. The old nickname of the stadium was \"Comunale\". When it was first constructed, it was known as the Stadio Giovanni Berta, after Florentine fascist Giovanni Berta.",
+   "The stadium was officially opened on 13 September 1931 with a match between Fiorentina and Admira Wien (1–0), though it took until 1932 for the stadium to be completely finished and currently holds 47,282. The architect is Pier Luigi Nervi (known for the Nervi Hall in the Vatican) and it is one of the most relevant examples of 20th-century architecture in the city. It hosted some of the matches of the 1934 World Cup, as well as football preliminaries for the 1960 Summer Olympics in Rome. In 1945, it hosted the Spaghetti Bowl between American service teams."
+  ],
+  "title": "Stadio Artemio Franchi",
+  "url": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
+  "revision": 1375791332,
+  "fetched": "2026-10-20"
+ },
+ "swaminarayan-akshardham-delhi": {
+  "paragraphs": [
+   "BAPS Swaminarayan Akshardham in Robbinsville, New Jersey is a large Hindu mandir (temple) built between 2015 and 2023 by the BAPS Swaminarayan Sanstha, which venerates Swaminarayan (1781–1830) as the highest manifestation of Purushottama (Vishnu). It is by a significant margin the largest Hindu mandir in the Western Hemisphere, and the second-largest in the world.",
+   "The foundational base, or the jagati, is made of a 13-tiered structure of limestone, and is also referred to as the Wisdom Plinth because it conveys messages of wisdom from ancient Indian scriptures, scholars, and other world luminaries.",
+   "Above the foundational base plinth is the main outer wall of the mandir, called the mandovar, made of Bulgarian and Turkish limestone. The mandovar includes carvings of poets, philosophers, and sages. It also has 151 statues holding different musical instruments that originated in India.",
+   "The Akshardham has nine shikhars (\"mountain peak,\" that is, a rising tower) and nine samarans (pyramidal domes) atop of the mandir. Symbolically, the shikhars are a visual metaphor for reaching spiritual enlightenment. A 120 ft (37 m) mahashikhar made up of 35 layers represents the pursuit of a higher truth and connecting with a higher being."
+  ],
+  "title": "Swaminarayan Akshardham (Robbinsville)",
+  "url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Robbinsville)",
+  "revision": 1375840012,
+  "fetched": "2026-10-20"
+ },
+ "wiener-stadthalle": {
+  "paragraphs": [
+   "Wiener Stadthalle (German: [ˈviːnɐ ˈʃtathalə]; English: Viennese City Hall) is a multi-purpose indoor arena and convention center located in the 15th district of Vienna, Austria. The Austrian architect Roland Rainer designed the original halls, which were constructed between 1953 and 1958 and later expanded in 1974, 1994 and 2006. The main hall, a flexible multi-purpose venue, is Austria's largest indoor arena and can hold up to approximately 16,083 people.",
+   "The complex comprises six interconnecting halls: A and B (gymnasiums built in 1957, which can also be used for conferences or lectures), C (indoor ice rink), D (indoor arena, mostly for concerts or sport), E (small multi-purpose hall for smaller events) and F (arena hall for more intimate concerts). In addition to the halls, there is a residential and workshop building with a garage, an administration building with a restaurant, as well as the machine rooms and transformer station.",
+   "In December 2022, a photovoltaic system was installed on the roof of Hall D for the production of green electricity. This was later expanded to Hall F and completed in September 2024."
+  ],
+  "title": "Wiener Stadthalle",
+  "url": "https://en.wikipedia.org/wiki/Wiener_Stadthalle",
+  "revision": 1375766997,
+  "fetched": "2026-10-20"
+ },
+ "azadi-stadium": {
+  "paragraphs": [
+   "The Azadi Stadium, opened and also well known as the Aryamehr Stadium (Persian: ورزشگاه آریامهر, romanized: Varzeshgâh-e Âryâmehr), is an all-seater football stadium in Tehran, Iran. The stadium was designed by Abdol Aziz Mirza Farman-Farmaian Architects and Associates (AFFA), with other parts of the sports complex based on plans by American architectural and engineering firm Skidmore, Owings & Merrill. It currently has a capacity of 78,116 spectators, as a result of conversion to an all-seater stadium.",
+   "Originally named Aryamehr (lit. 'Light of the Aryans') after the title of the Shah, the stadium was inaugurated on 17 of October 1971 by Mohammad Reza Pahlavi, the late Shah of Iran, as part of the greater Aryamehr Sport Complex. Both stadium and complex were renamed after the 1979 Iranian Revolution to Azadi (meaning \"freedom\" in Persian).",
+   "The largest association football stadium in Western Asia, it was built to host the 1974 Asian Games and has hosted the 1976 AFC Asian Cup. The stadium has also hosted five finals of Asian Club Competitions: three finals of AFC Champions League in 1999, 2002 and 2018 and two finals of the Asian Cup Winners' Cup in 1991 and 1993. Azadi Stadium also hosted WAFF Championship Tournament in 2004 and 2008."
+  ],
+  "title": "Azadi Stadium",
+  "url": "https://en.wikipedia.org/wiki/Azadi_Stadium",
+  "revision": 1380833334,
+  "fetched": "2026-10-20"
+ },
+ "ac-joshi-library-panjab-university": {
+  "paragraphs": [
+   "Panjab University (PU) is a collegiate public state university located in Chandigarh, India. Funded through both State and Union governments, it is considered a state university. It traces its origins to the University of the Punjab in Lahore, which was founded in 1882. After the partition of India, the university was established on 1 October 1947, and called East Punjab University. Initially headquartered at a cantonment in Solan with teaching departments scattered across northern India, it later relocated to a newly built self-contained campus in sector 14, Chandigarh, and was renamed Panjab University. It is accredited by NAAC A++ grade. It is considered the No. 1 university in Punjab and Haryana.",
+   "The university has 78 teaching and research departments and 10 centres/chairs for teaching and research at the main campus located at Chandigarh. It has 201 affiliated colleges spread over the eight districts of Punjab state and union-territory of Chandigarh, with Regional Centres at Sri Muktsar Sahib, Ludhiana and Hoshiarpur. It is one of the well-ranked universities in India.",
+   "The campus is residential, spread over 220 hectares (550 acres) in sectors 14 and 25 of the city of Chandigarh. The main administrative and academic buildings are located in sector 14, beside a health centre, a sports complex, hostels and residential housing."
+  ],
+  "title": "Panjab University",
+  "url": "https://en.wikipedia.org/wiki/Panjab_University",
+  "revision": 1378631913,
+  "fetched": "2026-10-20"
+ },
+ "farnsworth-house": {
+  "paragraphs": [
+   "The Edith Farnsworth House is a historic house museum along the Fox River near Plano, Illinois, United States. Completed in 1951, it was designed by Ludwig Mies van der Rohe in the International Style and built as a weekend retreat for the nephrologist and physician Edith Farnsworth. It is one of three private residences Mies designed in the U.S. and is cited as a major modernist work. The house is raised 5+1⁄4 feet (1.6 m) above the floodplain, with a minimalist exterior and a mostly open plan interior. The surrounding 62-acre (25 ha) estate also includes a visitor center and exhibit gallery. The estate is owned and operated by the National Trust for Historic Preservation.",
+   "The Farnsworth House was designed by Mies in the International Style. It was his first private house in the United States and one of three private houses that Mies designed in the country. The Farnsworth House was also one of 14 private houses he ever designed; the other 11 are in Europe. It comprises two offset rectangular floor slabs: one containing the house and its outdoor veranda, and the other containing an outdoor terrace."
+  ],
+  "title": "Farnsworth House",
+  "url": "https://en.wikipedia.org/wiki/Farnsworth_House",
+  "revision": 1379892712,
+  "fetched": "2026-10-20"
+ },
+ "united-states-supreme-court-building": {
+  "paragraphs": [
+   "The Supreme Court Building houses the Supreme Court of the United States, the highest court in the federal judiciary of the United States. The building serves as the official workplace of the chief justice of the United States and the eight associate justices of the Supreme Court. It is located at 1 First Street in Northeast Washington, D.C. It is one block immediately east of the United States Capitol and north of the Library of Congress. The building is managed by the Architect of the Capitol. On May 4, 1987, the Supreme Court Building was designated a National Historic Landmark.",
+   "Designed in the neoclassical style, the proposal for a separate building for the Supreme Court was suggested in 1912 by President William Howard Taft, who became Chief Justice in 1921. In 1929, Taft successfully argued for the creation of the new building but did not live to see it built. Physical construction began in 1932 and was completed in 1935 under the guidance of Chief Justice Charles Evans Hughes, Taft's successor. Architect Cass Gilbert, a friend of William Howard Taft, designed the building."
+  ],
+  "title": "United States Supreme Court Building",
+  "url": "https://en.wikipedia.org/wiki/United_States_Supreme_Court_Building",
+  "revision": 1373134657,
+  "fetched": "2026-10-20"
+ },
+ "pergamon-museum": {
+  "paragraphs": [
+   "The Pergamon Museum is a listed building on the Museum Island in the historic centre of Berlin, Germany. It was built from 1910 to 1930 by order of Emperor Wilhelm II and according to plans by Alfred Messel and Ludwig Hoffmann in Stripped Classicism style. As part of the Museum Island complex, the Pergamon Museum was added to the UNESCO World Heritage List in 1999 because of its architecture and testimony to the evolution of museums as architectural and social phenomena.",
+   "Prior to its closing in 2023, the Pergamon Museum was home to the Antikensammlung, including the famous Pergamon Altar, the Vorderasiatisches Museum and the Museum für Islamische Kunst.",
+   "In October 2023, the museum was completely closed for visitors, and is expected to remain mostly closed for 14 to 20 years – until 2037 to 2043 – for the execution of comprehensive renovation works. Its North Wing is expected to reopen in 2027."
+  ],
+  "title": "Pergamon Museum",
+  "url": "https://en.wikipedia.org/wiki/Pergamon_Museum",
+  "revision": 1365738855,
+  "fetched": "2026-10-20"
+ },
+ "national-stadium-singapore": {
+  "paragraphs": [
+   "The Singapore National Stadium is a multi-purpose stadium in Kallang, Singapore, and serves as the country's national stadium. Opened in 2014, it was built on the site of the former National Stadium, which stood from 1973 to 2010. The 55,000-seat facility is the centrepiece of The Kallang, a sports, entertainment and recreation district that also includes the nearby Singapore Indoor Stadium, OCBC Aquatic Centre, OCBC Arena, Kallang Wave Mall and other public sporting facilities.",
+   "The stadium features a 75,000 m2 (810,000 sq ft), 83 m (272 ft)-tall steel dome with a retractable roof, which was described as the largest dome structure in the world. Because of Singapore's tropical climate, the roof is designed to reflect sunlight and insulate the interior, while natural airflow cools spectator areas with less energy than a venue of comparable size.",
+   "The stadium can be configured for football, rugby, athletics and cricket. In its football and rugby configuration, the lowest tier of seating can be moved closer to the pitch, covering the running track. It takes approximately 48 hours to reconfigure the seating for an event.",
+   "The retractable roof incorporates an LED lighting system that can function as a large screen visible from inside and outside the stadium."
+  ],
+  "title": "National Stadium, Singapore",
+  "url": "https://en.wikipedia.org/wiki/National_Stadium,_Singapore",
+  "revision": 1380257928,
+  "fetched": "2026-10-20"
+ },
+ "villa-savoye": {
+  "paragraphs": [
+   "Villa Savoye (French pronunciation: [savwa]) is a modernist villa and gatelodge in Poissy, on the outskirts of Paris, France. It was designed by the Swiss-French architect Le Corbusier and his cousin Pierre Jeanneret with interior and furnishing by Charlotte Perriand, and built between 1928 and 1931 using reinforced concrete."
+  ],
+  "title": "Villa Savoye",
+  "url": "https://en.wikipedia.org/wiki/Villa_Savoye",
+  "revision": 1364999716,
+  "fetched": "2026-10-20"
+ },
+ "gehry-residence": {
+  "paragraphs": [
+   "The Gehry Residence is the former home of architect Frank Gehry. It was originally an extension, designed by Gehry and built around an existing Dutch colonial style house. It makes use of unconventional materials, such as chain-link fences and corrugated steel. It is sometimes considered one of the earliest deconstructivist buildings, although Gehry denied this.",
+   "The residence is in Santa Monica, California. In 1977, Frank and Berta Gehry bought a pink bungalow originally built in 1920. Gehry wanted to experiment with the materials he was already using: metal, plywood, chain link fencing, and wood framing. In 1978, he chose to wrap the house with a new exterior while leaving the old exterior visible. He hardly touched the rear and south facades, and to the other sides of the house he added tilted glass cubes. Many of Gehry's neighbors were unhappy with the unusual architecture appearing in their neighborhood.",
+   "Gehry owned the house until his death in 2025; though he built another residence overlooking Rustic Canyon, he planned to keep the Santa Monica house in the family."
+  ],
+  "title": "Gehry Residence",
+  "url": "https://en.wikipedia.org/wiki/Gehry_Residence",
+  "revision": 1326356649,
+  "fetched": "2026-10-20"
+ },
+ "palazzo-della-civilta-italiana": {
+  "paragraphs": [
+   "The Palazzo della Civiltà Italiana (\"Palace of Italian Civilization\"), also known as the Palazzo della Civiltà del Lavoro (\"Palace of Working Civilization\"), or in everyday speech as the Colosseo Quadrato (\"Square Colosseum\"), is a building in the EUR district in Rome, Italy. It was designed in 1938 by three Italian architects: Giovanni Guerrini, Ernesto Lapadula, and Mario Romano. The building is an example of Italian Rationalism and fascist architecture with neoclassical design, representing romanità, a philosophy which encompasses the past, present, and future all in one. The monumentality of the structure was meant to reflect the fascist regime's new course in Italian history. The design of the building draws inspiration from the Colosseum with rows of arches. According to legend, the structure's six vertical and nine horizontal arches are correlated to the number of letters in the Italian dictator Benito Mussolini's name.",
+   "The EUR provides a large-scale image of how urban Italy might have looked if the Fascist regime had not fallen during the war – large, symmetrical streets and austere buildings of limestone, tuff and marble, in either Stile Littorio (lictor), inspired by ancient Roman architecture, or Rationalism. Its architectural style is often called simplified neoclassicism. Marcello Piacentini, the coordinator of the commission for E42, based it on the Italian Rationalism of Pagano, Libera, and Michelucci."
+  ],
+  "title": "Palazzo della Civiltà Italiana",
+  "url": "https://en.wikipedia.org/wiki/Palazzo_della_Civilt%C3%A0_Italiana",
+  "revision": 1367047374,
+  "fetched": "2026-10-20"
+ },
+ "vidhana-soudha": {
+  "paragraphs": [
+   "Vidhana Soudha (also spelled Vidhāna Saudha; lit. Legislative House) is a building in Bangalore, India. It serves as the seat of bicameral legislature comprising the Karnataka Legislative Assembly and the Karnataka Legislative Council. It is constructed in Neo-Dravidian style and was completed in 1956.",
+   "Vidhana Soudha is an example of Neo-Dravidian architecture and incorporates elements from several Indian sources, including pillars inspired by the Mysore Palace, temple-style columns of the Bhoganandishwara Temple, and window and door shades influenced by Kumara Krupa.",
+   "Vidhana Soudha also incorporates architectural elements associated with Chalukya, Hoysala, and Vijayanagara traditions. The architecture of Vidhana Soudha is a blend of Dravidian and Indo-Saracenic styles (Hindu & Mughal Styles). The Jharokhas and the audience balconies incorporated in the structure are a part of Rajasthani architecture. The central dome is crowned by the Lion Capital of Ashoka, sculpted by Shilpi Shamachar."
+  ],
+  "title": "Vidhana Soudha",
+  "url": "https://en.wikipedia.org/wiki/Vidhana_Soudha",
+  "revision": 1376965794,
+  "fetched": "2026-10-20"
+ },
+ "4-world-trade-center": {
+  "paragraphs": [
+   "4 World Trade Center (4 WTC; also known as 150 Greenwich Street) is a skyscraper constructed as part of the new World Trade Center in Lower Manhattan, New York City. The tower is located on Greenwich Street at the southeastern corner of the World Trade Center site. Fumihiko Maki designed the 978 ft-tall (298 m) building. It houses the headquarters of the Port Authority of New York and New Jersey (PANYNJ).",
+   "4 WTC is described as being either 977 feet (298 m) or 978 feet (298 m) tall, with 2.3 million square feet (210,000 m2) of office space.",
+   "The current 4 World Trade Center is the second building at the site to bear this address. The original building was a nine-story structure at the southeast corner of the World Trade Center complex. It was destroyed during the September 11 attacks in 2001, along with the rest of the World Trade Center. The current building's groundbreaking took place in January 2008, and it opened to tenants and the public on November 13, 2013. The building has 2.3 million square feet (210,000 m2) of space."
+  ],
+  "title": "4 World Trade Center",
+  "url": "https://en.wikipedia.org/wiki/4_World_Trade_Center",
+  "revision": 1375281924,
+  "fetched": "2026-10-20"
+ },
+ "the-morgan-library-museum": {
+  "paragraphs": [
+   "The Morgan Library & Museum (formerly the Pierpont Morgan Library; colloquially the Morgan) is a museum and research library in New York City, New York, United States. Completed in 1906 as the private library of the banker J. P. Morgan, the institution is housed at 225 Madison Avenue in the Murray Hill neighborhood of Manhattan. As of 2024, the museum is directed by Colin B. Bailey and governed by a board of trustees.",
+   "The site was formerly occupied by several Phelps family residences, one of which was sold to J. P. Morgan in 1880. After collecting thousands of objects in the late 19th century, Morgan erected the main building between 1902 and 1906, with Belle da Costa Greene serving as its first librarian for more than four decades. The library was made a public institution in 1924 by J. P. Morgan's son John Pierpont Morgan Jr., in accordance with his father's will, and further expansions were completed in 1928, 1962, and 1991. The Morgan Library was renamed the Morgan Library & Museum after the completion of a major expansion in 2006. Further renovations were completed in 2010 and 2022."
+  ],
+  "title": "Morgan Library & Museum",
+  "url": "https://en.wikipedia.org/wiki/Morgan_Library_%26_Museum",
+  "revision": 1381015516,
+  "fetched": "2026-10-20"
+ },
+ "saint-josephs-oratory": {
+  "paragraphs": [
+   "Saint Joseph's Oratory of Mount Royal (French: Oratoire Saint-Joseph-du-Mont-Royal) is a Roman Catholic minor basilica and national shrine located at 3800 Queen Mary Road in the Côte-des-Neiges neighborhood on Mount Royal's Westmount Summit in Montreal, Quebec. It is a National Historic Site of Canada and is Canada's largest church, with one of the largest church domes in the world. Founded in 1904 by Saint André Bessette in honour of his patron saint, Saint Joseph, the Oratory is the product of numerous architects and thousands of workers in a process spanning six decades. With its monumental scale, Renaissance Revival facade and contrasting Art Deco interior, the Oratory is recognizable not just in Montreal but around the world, attracting more than 2 million visitors and pilgrims to its steps each year.",
+   "The Oratory is the highest building in Montreal, rising more than 30 metres above Mount Royal's summit, allowing it to be seen from many kilometres away. It is the only building that violates the height restriction under the municipal building code of Montreal, which limits the height of any building, including skyscrapers, from surpassing the height of Mount Royal."
+  ],
+  "title": "Saint Joseph's Oratory",
+  "url": "https://en.wikipedia.org/wiki/Saint_Joseph%27s_Oratory",
+  "revision": 1376387504,
+  "fetched": "2026-10-20"
+ },
+ "royal-crescent-bath": {
+  "paragraphs": [
+   "The Royal Crescent is a row of 30 terraced houses laid out in a sweeping crescent in the city of Bath, England. Designed by the architect John Wood, the Younger, and built between 1767 and 1774, it is among the greatest examples of Georgian architecture to be found in the United Kingdom and is a Grade I listed building. Although some changes have been made to the various interiors over the years, the Georgian stone facade remains much as it was when first built.",
+   "The crescent is 500 feet (150 m) long and each building is almost 50 feet (15 m) high, including small rooms with dormer windows in the attic. The ground floor is plain emphasising the columns and windows of the first floor. The 114 columns are 30 inches (76 cm) in diameter reaching 47 feet (14.3 m), each with an entablature 5 feet (1.5 m) deep in a Palladian style. The central house (now the Royal Crescent Hotel) boasts two sets of coupled columns with a single window between them which is the middle of the crescent."
+  ],
+  "title": "Royal Crescent",
+  "url": "https://en.wikipedia.org/wiki/Royal_Crescent",
+  "revision": 1364977980,
+  "fetched": "2026-10-20"
+ },
+ "african-renaissance-monument-dakar": {
+  "paragraphs": [
+   "The African Renaissance Monument (French: Monument de la Renaissance Africaine) is a 50-metre (164 ft) tall bronze statue located on top of one of the twin hills known as Collines des Mamelles, outside Dakar, Senegal. Built overlooking the Atlantic Ocean in the Ouakam suburb, the statue was designed by the Senegalese architect Pierre Goudiaby Atepa after an idea presented by President Abdoulaye Wade, and built by Mansudae Overseas Projects, a monument construction company from North Korea.",
+   "Site preparation atop the 100-metre (330 ft) hill began in 2006, and construction of the bronze statue began in 2008. Originally scheduled for completion in December 2009, delays stretched into early 2010, and the formal dedication occurred on 4 April 2010, Senegal's \"National Day\", commemorating the 50th anniversary of the country's independence from France. It is the tallest statue in Africa."
+  ],
+  "title": "African Renaissance Monument",
+  "url": "https://en.wikipedia.org/wiki/African_Renaissance_Monument",
+  "revision": 1362114499,
+  "fetched": "2026-10-20"
+ },
+ "us-embassy-london-nine-elms": {
+  "paragraphs": [
+   "The Embassy of the United States of America in London is the diplomatic mission of the United States in the United Kingdom. Its office is located in Nine Elms and is the largest American embassy in Western Europe and the focal point for events relating to the United States held in the United Kingdom.",
+   "The embassy building in Nine Elms overlooks the River Thames and has been open to the public since 13 December 2017; it was formally opened on 16 January 2018.",
+   "John Adams was the first minister to open an American legation in London, in 1785 at 9 Grosvenor Square, Westminster, London. For much of the 20th century and into the 21st, the chancery was in a purpose-built building in Grosvenor Square.",
+   "Since 1955, Winfield House in Regent's Park has served as the ambassador's official residence."
+  ],
+  "title": "Embassy of the United States, London",
+  "url": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States,_London",
+  "revision": 1380226558,
+  "fetched": "2026-10-20"
+ },
+ "cape-town-stadium": {
+  "paragraphs": [
+   "The Cape Town Stadium (Afrikaans: Kaapstad-stadion; Xhosa: Inkundla yezemidlalo yaseKapa; known since 2021 as the DHL Stadium for sponsorship reasons) is a football (soccer) and rugby union stadium in Cape Town, South Africa, that was built as part of the country's hosting of the 2010 FIFA World Cup.",
+   "Construction of the Cape Town Stadium, located on the Green Point Common, began in March 2007.",
+   "In 33 months, joint venture contractors Murray & Roberts, now known as Concor and WBHO completed the project at a cost of R4.4billion – or approximately US$600million.",
+   "The project architects were an association between GMP Architects of Germany and local firms, Louis Karol Architects and the joint venture practice Point Architects comprising Comrie Wilkinson Architects and Urban Designers, Jakupa Architects and Urban Designers, Munnik Visser Architects and Paragon Architects. The lead urban designer for the 18hactare stadium precinct was Henri Comrie.",
+   "The structural engineers comprised a joint venture between BKS, Henry Fagan & Partners, KFD Wilkinson, Goba, Iliso and Arcus Gibb."
+  ],
+  "title": "Cape Town Stadium",
+  "url": "https://en.wikipedia.org/wiki/Cape_Town_Stadium",
+  "revision": 1374235351,
+  "fetched": "2026-10-20"
+ },
+ "vienna-state-opera": {
+  "paragraphs": [
+   "The Vienna State Opera is an opera house and opera company located in Vienna, Austria. The 1,709-seat Renaissance Revival venue was the first major building on the Vienna Ring Road. It was built from 1861 to 1869 following plans by August Sicard von Sicardsburg and Eduard van der Nüll, and designs by Josef Hlávka. The opera house was inaugurated as the \"Vienna Court Opera\" (Wiener Hofoper) in the presence of Emperor Franz Joseph I and Empress Elisabeth of Austria. It became known by its current name after the establishment of the First Austrian Republic in 1921. The Vienna State Opera is the successor of the old Vienna Court Opera (built in 1636 inside the Hofburg). The new site was chosen and the construction paid by Emperor Franz Joseph in 1861.",
+   "The members of the Vienna Philharmonic are recruited from the Vienna State Opera orchestra. The building is also the home of the Vienna State Ballet and it hosts the annual Vienna Opera Ball during the carnival season."
+  ],
+  "title": "Vienna State Opera",
+  "url": "https://en.wikipedia.org/wiki/Vienna_State_Opera",
+  "revision": 1379726445,
+  "fetched": "2026-10-20"
+ },
+ "bosco-verticale": {
+  "paragraphs": [
+   "The Bosco Verticale (Vertical Forest) is a complex of two residential skyscrapers designed by Boeri Studio (Stefano Boeri, Gianandrea Barreca, and Giovanni La Varra) and located in the Porta Nuova district of Milan, Italy. They have a height of 116 metres (381 ft) and 84 m (276 ft) and within the complex is an 11-story office building.",
+   "The Bosco Verticale consists of two towers, the De Castillia Tower (formerly Tower E) and the Confalonieri Tower (formerly Tower D), with heights of 110 and 76 meters (26 and 18 floors), respectively. They are connected by an L-shaped base. Both structures feature balconies made of reinforced concrete that protrude irregularly on all four sides of the buildings, with a projection of 3.25 meters. The staggered arrangement of the balconies not only adds dynamism to the profile of the Bosco Verticale but also allows the growth of trees up to nine meters tall. The inclusion of trees of such dimensions was not initially planned in the earlier versions of the project, which envisaged continuous strip balconies.",
+   "In metaphorical and conceptual terms, the Bosco Verticale can be compared to a large tree, where the balconies are the branches, the collection of plant species are the leaves, the central body of the building is the trunk, and the water supply systems are the roots."
+  ],
+  "title": "Bosco Verticale",
+  "url": "https://en.wikipedia.org/wiki/Bosco_Verticale",
+  "revision": 1377981135,
+  "fetched": "2026-10-20"
+ },
+ "al-rifai-mosque-cairo": {
+  "paragraphs": [
+   "The Al-Rifa'i Mosque (Arabic: مسجد الرفاعي, romanized: Al-Rifai, lit. 'Refaai Mosque') is a mosque located in Citadel Square, adjacent to the Citadel, in Islamic Cairo, Egypt. Its name is derived from the Ali Abu Shubbak who is buried in the mosque. It also serves as the royal mausoleum of Muhammad Ali's family. The building is located opposite the Mosque-Madrasa of Sultan Hassan, which dates from around 1361, and was architecturally conceived as a complement to the older structure as part of a vast campaign by the 19th century rulers of Egypt to both associate themselves with the perceived glory of earlier periods in Egypt's Islamic history and modernize the city.",
+   "The mosque was designed in a Neo-Mamluk style, which was fashionable in Cairo at the time and which referenced historic Mamluk architecture. When developing its design, the architects of Al-Rifai Mosque tried to match the Sultan Hassan Mosque next to it in grandeur and height even though they faced some difficulties that were criticized by archaeologists and which were remedied under the supervision of Max Herz."
+  ],
+  "title": "Al-Rifa'i Mosque",
+  "url": "https://en.wikipedia.org/wiki/Al-Rifa%27i_Mosque",
+  "revision": 1380151857,
+  "fetched": "2026-10-20"
+ },
+ "mole-antonelliana": {
+  "paragraphs": [
+   "The Mole Antonelliana is a major landmark building in Turin, Italy, named after its architect, Alessandro Antonelli. A mole in Italian is a building of monumental proportions.",
+   "Construction began in 1863, soon after Italian unification, and was completed in 1889, after the architect's death. Originally conceived of as a synagogue, it now houses the National Museum of Cinema, and is believed to be the tallest museum in the world. A representation of the building is featured on the obverse of the Italian 2 euro cent coin. Catalan vaults are featured in the ceiling of the ground floor under the atrium, which are relatively rare in Italy but popular in Spain, where they originated."
+  ],
+  "title": "Mole Antonelliana",
+  "url": "https://en.wikipedia.org/wiki/Mole_Antonelliana",
+  "revision": 1375678355,
+  "fetched": "2026-10-20"
+ },
+ "estadio-do-morumbi": {
+  "paragraphs": [
+   "The Estádio Cícero Pompeu de Toledo, popularly known as Morumbi, and currently known as MorumBIS for sponsorship reasons, is a multipurpose 66,795-seater football stadium located in the eponymous district in São Paulo, Brazil. It is the home of São Paulo FC and its formal name honors Cícero Pompeu de Toledo, who was São Paulo FC's chairman during most of the stadium construction and died before its inauguration. Morumbi is the largest privately owned stadium in Brazil. Designed by the architect João Batista Vilanova Artigas, the stadium is a monument of Brazilian modernism and in 2018 was formally marked as a cultural building by São Paulo city prefecture."
+  ],
+  "title": "Estádio do Morumbi",
+  "url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Morumbi",
+  "revision": 1380580993,
+  "fetched": "2026-10-20"
+ },
+ "the-iron-bridge": {
+  "paragraphs": [
+   "The Iron Bridge is a cast iron arch bridge that spans the Ironbridge Gorge of the River Severn in Shropshire, England. Opened in 1781, it was the first major bridge in the world to be made of cast iron. Its success inspired the widespread use of cast iron as a structural material, and today the bridge is celebrated as a symbol of the Industrial Revolution.",
+   "The bridge is to a carpenters' design typically used for wood structures, built from five sectional cast-iron ribs that give a span of 100 feet 6 inches (30.63 m). The interlocking rings between the arches make this a truss arch. Exactly 378 long tons 10 cwt (847,800 lb or 384.6 t) of iron was used in the construction of the bridge, and there are almost 1,700 individual components, the heaviest weighing 5.5 long tons (5.6 tonnes). Components were cast individually to fit with each other, rather than being of standard sizes, with discrepancies of up to several centimetres between 'identical' components in different locations."
+  ],
+  "title": "The Iron Bridge",
+  "url": "https://en.wikipedia.org/wiki/The_Iron_Bridge",
+  "revision": 1373531328,
+  "fetched": "2026-10-20"
+ },
+ "philadelphia-museum-of-art": {
+  "paragraphs": [
+   "The Philadelphia Museum of Art is an art museum originally chartered in 1876 for the Centennial Exposition in Philadelphia. The main museum building was completed in 1928 on Fairmount, a hill located at the northwest end of the Benjamin Franklin Parkway at Eakins Oval. The museum administers collections containing over 240,000 objects including major holdings of European, American and Asian origin. The various classes of artwork include sculpture, paintings, prints, drawings, photographs, armor, and decorative arts.",
+   "The Philadelphia Museum of Art administers several annexes including the Rodin Museum, also located on the Benjamin Franklin Parkway, and the Ruth and Raymond G. Perelman Building, which is located across the street just north of the main building. The Perelman Building, which opened in 2007, houses more than 150,000 prints, drawings and photographs, 30,000 costume and textile pieces, and over 1,000 modern and contemporary design objects including furniture, ceramics, and glasswork.",
+   "The museum also administers the historic colonial-era houses of Mount Pleasant and Cedar Grove, both located in Fairmount Park. The main museum building and its annexes are owned by the City of Philadelphia and administered by a registered nonprofit corporation."
+  ],
+  "title": "Philadelphia Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Philadelphia_Museum_of_Art",
+  "revision": 1378338362,
+  "fetched": "2026-10-20"
+ },
+ "trellick-tower": {
+  "paragraphs": [
+   "Trellick Tower is a Grade II* listed tower block on the Cheltenham Estate in Kensal Town, London. Opened in 1972, it was commissioned by the Greater London Council and designed in the Brutalist style by architect Ernő Goldfinger. The tower was planned to replace outdated social accommodation, and designed as an improvement on Goldfinger's earlier Balfron Tower in Poplar, East London. It was the last major project he worked on, and featured various space-saving designs, along with a separate access tower containing a plant room.",
+   "The tower is 98 metres (322 ft) tall (120 metres (394 ft) including the communications mast) and is a Grade II* listed building. The design is based on Goldfinger's earlier and slightly smaller Balfron Tower in Poplar, East London. It has a long, thin profile, with a separate lift and service tower linked at every third storey to the access corridors in the main building, which overall has 31 floors. Flats above and below the corridor levels have internal stairs, while the 23rd and 24th floors are taken up by maisonettes split over the two floors. Overall, the building contains 217 dwellings and was originally owned by the GLC with the flats rented as council flats. All the apartments have balconies. The other building, which also contains shops and amenities, has seven floors."
+  ],
+  "title": "Trellick Tower",
+  "url": "https://en.wikipedia.org/wiki/Trellick_Tower",
+  "revision": 1380858623,
+  "fetched": "2026-10-20"
+ },
+ "mclaren-technology-centre": {
+  "paragraphs": [
+   "The McLaren Technology Centre (MTC) is the headquarters of the McLaren Group and its subsidiaries, located on a 500,000 m2 (50 ha) site in Woking, Surrey, England. The complex consists of two buildings: the original McLaren Technology Centre, which acts as the main headquarters for the group, and the newer McLaren Production Centre, primarily used for manufacturing McLaren Automotive cars.",
+   "The main building is a large, roughly semi-circular, glass-walled building, designed by architect Norman Foster and his company, Foster + Partners. The building was short-listed for the 2005 Stirling Prize, which was won by the Scottish Parliament building. By 2015, approximately 1,500 people worked at the Technology Centre. The Technology Centre also serves as the home to McLaren Racing, McLaren Automotive, and other companies of the McLaren Group. It was also the main setting of McLaren's cartoon, Tooned.",
+   "In 2011, the size of the centre was doubled after a second building, the 34,500 m2 (371,000 sq ft) McLaren Production Centre, was built. McLaren is also planning an extension to this building to be used as an applied technology centre, as well as to house a new wind tunnel and simulator for McLaren Racing. The wind tunnel became operational by October 2023."
+  ],
+  "title": "McLaren Technology Centre",
+  "url": "https://en.wikipedia.org/wiki/McLaren_Technology_Centre",
+  "revision": 1375641657,
+  "fetched": "2026-10-20"
+ },
+ "gorilla-house-london-zoo": {
+  "paragraphs": [
+   "London Zoo, previously known as ZSL London Zoo or London Zoological Gardens and sometimes called Regent's Park Zoo, is the world's oldest scientific zoo. It was opened in London on 27 April 1828 and was originally intended to be used as a collection for scientific study. In 1831, the Tower of London menagerie animals were transferred to the zoo's collection. It was opened to the public in 1847. At its peak, the Zoo attracted over 3 million annual visitors and exhibited over 900 species. As of 2026, London Zoo still houses more than 8,000 individuals from over 300 species, making it one of the largest zoological collections in the United Kingdom.",
+   "Since its earliest days, the zoo has prided itself on appointing leading architects to design its buildings. Today, it holds two Grade I, two Grade II* and ten Grade II listed structures."
+  ],
+  "title": "London Zoo",
+  "url": "https://en.wikipedia.org/wiki/London_Zoo",
+  "revision": 1380812245,
+  "fetched": "2026-10-20"
+ },
+ "jacob-k-javits-convention-center": {
+  "paragraphs": [
+   "The Jacob K. Javits Convention Center, commonly known as the Javits Center, is a large convention center on Eleventh Avenue between 34th Street and 38th Street in Hell's Kitchen, Manhattan, New York City. It was designed by architect James Ingo Freed of Pei Cobb Freed & Partners. The space frame structure was constructed from 1979 to 1986 and was named to honor Jacob Javits, the United States senator for New York. When the Javits Center opened, it replaced the New York Coliseum at Columbus Circle as the city's major convention facility; the Coliseum was subsequently demolished and replaced by Time Warner Center.",
+   "The Javits Center is operated and maintained by the New York Convention Center Operating Corporation, a New York State public-benefit corporation. As of 2021, the Javits Center has a total interior area of 3.3 million square feet (310,000 m2). It is billed as one of the busiest convention centers in the United States. It has undergone expansions throughout its history, with the most recent expansion being completed in 2021 and adding 1.2 million square feet to the building. Plans have also been made for the Javits Center to have panels providing solar power."
+  ],
+  "title": "Javits Center",
+  "url": "https://en.wikipedia.org/wiki/Javits_Center",
+  "revision": 1378843577,
+  "fetched": "2026-10-20"
+ },
+ "boston-city-hall": {
+  "paragraphs": [
+   "Boston City Hall is the seat of city government of Boston, Massachusetts, United States. Surrounded by City Hall Plaza in the Government Center section of Downtown Boston, it includes the offices of the Mayor and the City Council. The building was designed by the architecture firms Kallmann McKinnell & Knowles (KMK) and Campbell, Aldrich & Nulty, with LeMessurier Consultants as engineers. A major brutalist-style building, City Hall is a designated Boston Landmark.",
+   "Boston City Hall was primarily designed by the firm Kallmann McKinnell & Knowles (KMK), led by Gerhard Kallmann, Michael McKinnell, and Edward F. Knowles of Columbia University in New York. It was the first major building Kallmann or McKinnell had designed; neither man was a licensed architect, so they hired Knowles, who did hold a license. Campbell, Aldrich & Nulty were the associate architects, and LeMessurier Associates were the structural engineers. The plans were executed almost precisely to the original specifications."
+  ],
+  "title": "Boston City Hall",
+  "url": "https://en.wikipedia.org/wiki/Boston_City_Hall",
+  "revision": 1375870708,
+  "fetched": "2026-10-20"
+ },
+ "gelora-bung-karno-stadium": {
+  "paragraphs": [
+   "Gelora Bung Karno Main Stadium (Indonesian: Stadion Utama Gelora Bung Karno, lit. 'Bung Karno Sports Arena Main Stadium'; abbreviated as SUGBK or GBK), formerly Senayan Main Stadium and Gelora Senayan Main Stadium, is a multi-purpose stadium located at the center of the Gelora Bung Karno Sports Complex in Central Jakarta, Indonesia. It is mostly used for football matches, and usually used by the Indonesia national football team and Super League club Persija Jakarta. The stadium is named after Sukarno, the first president of Indonesia, who sparked the idea of building the sports complex.",
+   "When first opened prior to the 1962 Asian Games, the stadium had a seating capacity of 110,000. It has been reduced twice during renovations: first to 88,306 in 2006 for the 2007 AFC Asian Cup and then to 77,193 single seats as part of renovations for the 2018 Asian Games and Asian Para Games, where it hosted the ceremonies and athletics competitions. Due to the most recent renovation which saw all remaining bleachers replaced by single seats, it is the 28th largest association football stadium in the world and the 8th largest association football stadium in Asia."
+  ],
+  "title": "Gelora Bung Karno Stadium",
+  "url": "https://en.wikipedia.org/wiki/Gelora_Bung_Karno_Stadium",
+  "revision": 1380868280,
+  "fetched": "2026-10-20"
+ },
+ "camlica-mosque": {
+  "paragraphs": [
+   "The Grand Çamlıca Mosque (Turkish pronunciation: [tʃamlɯdʒa], transliterated as Chamlija in English) (Turkish: Büyük Çamlıca Camii) is a landmark complex for Islamic worship which was completed and opened on 7 March 2019. The mosque stands astride Çamlıca Hill in the Üsküdar district of Istanbul and is visible from much of the centre of the city. The complex incorporates an art gallery, library, and conference hall. It can hold up to 63,000 worshippers at a time (can accommodate up to 100,000 people in case of an earthquake).",
+   "The mosque's design was inspired by Classical Ottoman architecture and the works of Mimar Sinan.",
+   "The exterior of the mosque has been described as \"a huge box attached to a colonnaded courtyard; on top of the box, domes and half-domes swarm around a squat central dome surmounted by a golden, crescent-shaped finial.\" The exterior design may be influenced by Sinan but \"its use of concrete has relegated Sinan's structural devices – the dome-clusters, for example, that he used to diffuse the downward thrust of the main dome – to mere ornament.\" It was supposedly designed to rival Sinan's famous Suleymaniye Mosque, across the Bosphorus on the European side of Istanbul."
+  ],
+  "title": "Çamlıca Mosque",
+  "url": "https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Mosque",
+  "revision": 1374363756,
+  "fetched": "2026-10-20"
+ },
+ "gaddafi-stadium": {
+  "paragraphs": [
+   "Gaddafi Stadium formerly known as Lahore Stadium, is a cricket stadium in Lahore, Punjab, Pakistan, owned by the Pakistan Cricket Board (PCB). With a capacity of 27,000, it is the fourth largest cricket stadium of Pakistan. The headquarters of the Pakistan Cricket Board are situated at Gaddafi Stadium, thus making it the home of the Pakistan national cricket team. It is also the home ground of Lahore Qalandars in the Pakistan Super League. It is named after Libyan revolutionary, Muammar Gaddafi (1942–2011).",
+   "Gaddafi Stadium was designed by Russian-born Pakistani architect and civil engineer Nasreddin Murat-Khan, and constructed by Mian Abdul Khaliq and Company in 1959. The stadium was renovated for the 1996 Cricket World Cup, during which it hosted the tournament final between Australia and Sri Lanka, having previously staged matches in the 1987 World Cup as well. It was the first cricket stadium in Pakistan to be equipped with modern floodlights with their own standby power generators."
+  ],
+  "title": "Gaddafi Stadium",
+  "url": "https://en.wikipedia.org/wiki/Gaddafi_Stadium",
+  "revision": 1378820744,
+  "fetched": "2026-10-20"
+ },
+ "ahwahnee-hotel": {
+  "paragraphs": [
+   "The Ahwahnee is a grand hotel in Yosemite National Park, California, on the floor of Yosemite Valley. It was built by the Yosemite Park and Curry Company and opened for business in 1927. The hotel is constructed of steel, stone, concrete, wood, and glass, and is a premier example of National Park Service rustic architecture. It was declared a National Historic Landmark in 1987.",
+   "The Ahwahnee was temporarily renamed the Majestic Yosemite Hotel in 2016 due to a legal dispute between the U.S. government, which owns the property, and the outgoing concessionaire, Delaware North, which claimed rights to the trademarked name. The name was restored in 2019 upon settlement of the dispute.",
+   "Since 1980, The Ahwahnee is also known for being the inspiration for the interior scene design of the fictional Overlook Hotel in the Stanley Kubrick film The Shining."
+  ],
+  "title": "Ahwahnee Hotel",
+  "url": "https://en.wikipedia.org/wiki/Ahwahnee_Hotel",
+  "revision": 1373866182,
+  "fetched": "2026-10-20"
+ },
+ "royal-liver-building": {
+  "paragraphs": [
+   "The Royal Liver Building is a Grade I listed building in Liverpool, England. It is located at the Pier Head and along with the neighbouring Cunard Building and Port of Liverpool Building is one of Liverpool's Three Graces, which line the city's waterfront. It was also part of Liverpool's formerly UNESCO-designated World Heritage Maritime Mercantile City.",
+   "The building overlooks the River Mersey from its waterfront location on the Pier Head and forms one of the 'Three Graces' along with the Port of Liverpool Building and the Cunard Building. It has ten storeys, including two in the roof. An 18 ft (5.5 m) copper Liver bird stands on each clock tower, designed by Carl Bernard Bartels.",
+   "The building is crowned by a pair of clock towers. The clocks were made by Gent and Co. of Leicester. The clock faces are 7.6 m (25 ft) in diameter, larger than those of London's famous landmark, the Great Westminster Clock, holding the distinction of being the largest electronically driven clocks in the UK."
+  ],
+  "title": "Royal Liver Building",
+  "url": "https://en.wikipedia.org/wiki/Royal_Liver_Building",
+  "revision": 1371680628,
+  "fetched": "2026-10-20"
+ },
+ "mineirao-stadium": {
+  "paragraphs": [
+   "Mineirão (Portuguese pronunciation: [minejˈɾɐ̃w̃]; lit. 'Big Mineiro', named after its large structure), officially known as Governor Magalhães Pinto Stadium, is an association football stadium in Belo Horizonte, Brazil. Owned by the state of Minas Gerais, it is used by Cruzeiro Esporte Clube.",
+   "It served as a venue in the 2013 FIFA Confederations Cup and the 2014 FIFA World Cup. It also hosted some matches of the football tournament of the 2016 Summer Olympics. The stadium has a seating capacity of 66,658 spectators."
+  ],
+  "title": "Mineirão",
+  "url": "https://en.wikipedia.org/wiki/Mineir%C3%A3o",
+  "revision": 1372216310,
+  "fetched": "2026-10-20"
+ },
+ "aras-an-uachtarain": {
+  "paragraphs": [
+   "Áras an Uachtaráin (Irish pronunciation: [ˈaːɾˠəsˠ ənˠ ˈuəxt̪ˠəɾˠaːnʲ] ; \"Residence of the President\"), formerly the Viceregal Lodge, is the official residence and principal workplace of the president of Ireland.",
+   "The estate is located off Chesterfield Avenue in the Phoenix Park in Dublin, with the building's design being credited to amateur architect Nathaniel Clements but more likely guided by professionals (John Wood of Bath, Sir Edward Lovett Pearce and Richard Cassels) and completed around 1751 to 1757."
+  ],
+  "title": "Áras an Uachtaráin",
+  "url": "https://en.wikipedia.org/wiki/%C3%81ras_an_Uachtar%C3%A1in",
+  "revision": 1364675352,
+  "fetched": "2026-10-20"
+ },
+ "michael-lee-chin-crystal": {
+  "paragraphs": [
+   "The Royal Ontario Museum (ROM) is a museum of art, world culture and natural history in Toronto, Ontario, Canada. It is one of the largest museums in North America and the largest museum in Canada. It attracts more than one million visitors every year, making it the most-visited museum in Canada. The 74,000-square-metre (800,000-square-foot) museum building is located north of Queen's Park, in the University district, with its main entrance on Bloor Street West. Museum subway station is named after it and, since a 2008 renovation, is decorated to resemble the ROM's collection at the platform level; Museum station's northwestern entrance directly serves the museum.",
+   "Established on April 16, 1912, and opened on March 19, 1914, the ROM has maintained close relations with the University of Toronto throughout its history, often sharing expertise and resources. It was under direct control and management of the University of Toronto until 1968, when it became an independent Crown agency of the Government of Ontario. It is Canada's largest field-research institution, with research and conservation activities worldwide."
+  ],
+  "title": "Royal Ontario Museum",
+  "url": "https://en.wikipedia.org/wiki/Royal_Ontario_Museum",
+  "revision": 1380648337,
+  "fetched": "2026-10-20"
+ },
+ "anitkabir": {
+  "paragraphs": [
+   "Anıtkabir (Turkish: [aˈnɯtkabiɾ]; lit. 'grave monument') is a complex located in the Çankaya district of Ankara that contains the mausoleum of Mustafa Kemal Atatürk. Designed by Emin Onat and Orhan Arda, construction of Anıtkabir began in 1944 and was completed in 1953. In addition to the mausoleum building and various other structures and monuments, it consists of a wooded area known as the Peace Park.",
+   "Following Atatürk's death on 10 November 1938, it was announced that his remains would remain at the Ankara Ethnography Museum until a mausoleum could be constructed in Ankara. A commission was established by the government to determine the location where the mausoleum would be built. In accordance with the report prepared by the commission, the Republican People's Party parliamentary group decided at its meeting on 17 January 1939 that the structure would be built on Rasattepe. Following this decision, expropriation proceedings were initiated for the relevant land, while an international design competition was launched on 1 March 1941 to determine the design of the structure. Following the evaluation of the projects after the competition ended on 2 March 1942, it was decided that the project by Emin Onat and Orhan Arda would be implemented with certain modifications, and construction began with a groundbreaking ceremony held on 9 October 1944."
+  ],
+  "title": "Anıtkabir",
+  "url": "https://en.wikipedia.org/wiki/An%C4%B1tkabir",
+  "revision": 1378663048,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-the-future": {
+  "paragraphs": [
+   "Museum of the Future (Arabic: متحف المستقبل) is a building located in the Financial District of Dubai, UAE. The museum, with 7 floors, is dedicated to exploring the future of science, technology, and innovation. It is housed in a torus-shaped building with windows in the form of a poem in Arabic about the future, written by Dubai ruler Sheikh Mohammed bin Rashid Al Maktoum. The Government of the United Arab Emirates opened the museum on 22 February 2022."
+  ],
+  "title": "Museum of the Future",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_the_Future",
+  "revision": 1374558444,
+  "fetched": "2026-10-20"
+ },
+ "aami-park": {
+  "paragraphs": [
+   "Melbourne Rectangular Stadium (known under naming rights as AAMI Park) is a stadium located in the Melbourne Sports and Entertainment Precinct in Melbourne. It is primarily used for soccer, and rugby league as the home ground of the Melbourne Victory FC and Melbourne City FC in the A-League men's and women's competitions and the Melbourne Storm in the National Rugby League (NRL).",
+   "Built in 2010, the stadium replaced Olympic Park as Melbourne’s primary rectangular stadium, with it also being the first large stadium to be purpose built for rectangular sports, as Olympic Park was designed for Track and Field. Boasting a capacity of 30,050, it is Melbourne’s third largest stadium.",
+   "The stadium served as a venue during the 2023 FIFA Women’s World Cup as well as the 2015 AFC Asian Cup, and 2017 Rugby League World Cup where it hosted the opening match in both tournaments. It also hosted matches in the Rugby League Four Nations in 2010 and 2014."
+  ],
+  "title": "Melbourne Rectangular Stadium",
+  "url": "https://en.wikipedia.org/wiki/Melbourne_Rectangular_Stadium",
+  "revision": 1379886795,
+  "fetched": "2026-10-20"
+ },
+ "turning-torso": {
+  "paragraphs": [
+   "Turning Torso is a neo-futurist residential skyscraper built in Malmö, Sweden, in 2005. It was the tallest building in the Nordic region until September 2022, when it was surpassed by Karlatornet in Gothenburg. Located on the Swedish side of the Öresund strait, it was built and is owned by Swedish cooperative housing association HSB. It is regarded as the second twisted skyscraper in the world to receive the title after Telekom Tower in Malaysia.",
+   "Turning Torso is based on Twisting Torso, a white marble sculpture by Calatrava that was based on the form of a twisting human being.",
+   "In 1999, HSB Malmö's former managing director, Johnny Örbäck, saw the sculpture in a brochure presenting Calatrava in connection with his contribution to the architectural competition for the Öresund Bridge. It was on this occasion that Örbäck was inspired to build HSB Turning Torso. Shortly afterwards he travelled to Zurich to meet Calatrava, and ask him to design a residential building based on the idea of a structure of twisting cubes."
+  ],
+  "title": "Turning Torso",
+  "url": "https://en.wikipedia.org/wiki/Turning_Torso",
+  "revision": 1377314424,
+  "fetched": "2026-10-20"
+ },
+ "berlin-hauptbahnhof": {
+  "paragraphs": [
+   "Berlin Hauptbahnhof () (English: Berlin Central Station) is the main railway station in Berlin, Germany. It came into full operation two days after a ceremonial opening on 26 May 2006. It is located on the site of the historic Lehrter Bahnhof, and on the Berlin S-Bahn suburban railway. The station is owned by DB InfraGO, a subsidiary of Deutsche Bahn AG, and is classified as a Category 1 station, one of 21 in Germany and four in Berlin, the others being Berlin Gesundbrunnen, Berlin Südkreuz and Berlin Ostbahnhof. It is open 24/7.",
+   "The station building has two platform levels and three connecting and business levels. Compared to Raffles Place MRT station and Taipei main station, it is one of the most densely packed stations. The upper platform level serves the Berlin Stadtbahn and consists of six elevated tracks on four bridge structures, served by three island platforms 10 metres (33 ft) high. The outer bridges carry one track each, while the inner bridges carry two each. The lower platform level serves the Berlin North–South mainline, and consists of eight underground tracks served by four island platforms 15 metres (49 ft 3 in) deep. To the east are two tracks and an island platform serving U-Bahn line U5 (formerly line U55)."
+  ],
+  "title": "Berlin Hauptbahnhof",
+  "url": "https://en.wikipedia.org/wiki/Berlin_Hauptbahnhof",
+  "revision": 1373137661,
+  "fetched": "2026-10-20"
+ },
+ "john-f-kennedy-presidential-library-and-museum": {
+  "paragraphs": [
+   "The John F. Kennedy Presidential Library and Museum is the presidential library and museum of John F. Kennedy (1917–1963), the 35th president of the United States from 1961 to 1963. It is located on Columbia Point in the Dorchester neighborhood of Boston, Massachusetts, next to the University of Massachusetts Boston, the Edward M. Kennedy Institute for the United States Senate, and the Massachusetts Archives and Commonwealth Museum. Designed by the architect I. M. Pei, the building is the official repository for original papers and correspondence of the Kennedy Administration, as well as special bodies of published and unpublished materials, such as books and papers by and about Ernest Hemingway. The library contains approximately 400,000 photographs, 9,400 video recordings, 24 million documents, and 9,000 audio recordings related to Kennedy's presidency.",
+   "The library and museum are part of the Presidential Library System, which is administered by the Office of Presidential Libraries, a part of the National Archives and Records Administration. The library and museum were dedicated in 1979 by President Jimmy Carter and members of the Kennedy family."
+  ],
+  "title": "John F. Kennedy Presidential Library and Museum",
+  "url": "https://en.wikipedia.org/wiki/John_F._Kennedy_Presidential_Library_and_Museum",
+  "revision": 1371352562,
+  "fetched": "2026-10-20"
+ },
+ "sky-tower-auckland": {
+  "paragraphs": [
+   "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Located at the corner of Victoria and Federal Streets within the city's CBD, it is 328 metres (1,076 ft) tall, as measured from ground level to the top of the mast, making it the second-tallest freestanding structure in the Southern Hemisphere, surpassed only by the Autograph Tower in Jakarta, Indonesia, and the 28th tallest tower in the world. Since its completion in 1997, the Sky Tower has become an iconic landmark in Auckland's skyline, due to its height and design. It was the tallest freestanding structure in the Southern Hemisphere from 1996 to 2022.",
+   "The tower is part of the SkyCity Auckland casino complex, originally built in 1994–1997 for Harrah's Entertainment. Several upper levels are accessible to the public, attracting an average of 1,150 visitors per day (over 415,000 per year)."
+  ],
+  "title": "Sky Tower (Auckland)",
+  "url": "https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)",
+  "revision": 1381145673,
+  "fetched": "2026-10-20"
+ },
+ "sun-yat-sen-mausoleum": {
+  "paragraphs": [
+   "The Sun Yat-sen Mausoleum (Chinese: 中山陵; pinyin: Zhōngshān Líng) is situated at the foot of the second peak of Purple Mountain in Nanjing, Jiangsu, China. Construction of the tomb started in January 1926, shortly after Sun Yat-sen's death, and was finished in spring of 1929. The architect was Lü Yanzhi, who died shortly after it was finished. His representative and project partner was his close friend Huang Tanpu."
+  ],
+  "title": "Sun Yat-sen Mausoleum",
+  "url": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Mausoleum",
+  "revision": 1378033962,
+  "fetched": "2026-10-20"
+ },
+ "sun-yat-sen-memorial-hall-guangzhou": {
+  "paragraphs": [
+   "The Sun Yat-sen Mausoleum (Chinese: 中山陵; pinyin: Zhōngshān Líng) is situated at the foot of the second peak of Purple Mountain in Nanjing, Jiangsu, China. Construction of the tomb started in January 1926, shortly after Sun Yat-sen's death, and was finished in spring of 1929. The architect was Lü Yanzhi, who died shortly after it was finished. His representative and project partner was his close friend Huang Tanpu."
+  ],
+  "title": "Sun Yat-sen Mausoleum",
+  "url": "https://en.wikipedia.org/wiki/Sun_Yat-sen_Mausoleum",
+  "revision": 1378033962,
+  "fetched": "2026-10-20"
+ },
+ "national-stadium-warsaw": {
+  "paragraphs": [
+   "The Stadion Narodowy (Polish pronunciation: [ˈstadʲjɔn narɔˈdɔvɨ], English: National Stadium), known for sponsorship reasons as the PGE Narodowy since 2015 (with patron Kazimierz Górski being added in 2021), is a retractable roof football stadium located in Warsaw, Poland. It is used mostly for concerts and football matches and is the home stadium of the Poland national team.",
+   "With a seating capacity of 58,580, the stadium is the largest association football arena in Poland. Its construction was started in 2008 and finished in November 2011. It is located on the site of the former 10th-Anniversary Stadium, at the Zieleniecka Avenue in Praga Południe district, near the city centre. The stadium has a retractable PVC roof which unfolds from a nest on a spire suspended above the centre of the pitch. The retractable roof is inspired by the cable-supported unfolding system of Commerzbank-Arena in Frankfurt, Germany, and is similar to the roof of BC Place in Vancouver, British Columbia, Canada. The stadium is also very similar to the Arena Națională in Bucharest in terms of age, capacity and the roof.",
+   "The National Stadium hosted the opening match (a group match), two additional group matches, a quarter-final, and a semi-final of UEFA Euro 2012, which was co-hosted by Poland and Ukraine."
+  ],
+  "title": "Stadion Narodowy",
+  "url": "https://en.wikipedia.org/wiki/Stadion_Narodowy",
+  "revision": 1378226785,
+  "fetched": "2026-10-20"
+ },
+ "independence-palace": {
+  "paragraphs": [
+   "The Independence Palace (Vietnamese: Dinh Độc Lập), also publicly and officially known as the Reunification Convention Hall or simply Reunification Hall (Vietnamese: Hội trường Thống Nhất), is a historic landmark and government-owned public hall in Ho Chi Minh City (formerly known as Saigon), Vietnam. It was designed by architect Ngô Viết Thụ and was the presidential palace, home and workplace of the president of the Republic of Vietnam (South Vietnam). It was also the site of the Fall of Saigon on 30 April 1975 that ended the Vietnam War, when a Liberation Army of South Vietnam tank crashed through its gates.",
+   "After the reunification of Vietnam, the building continued to serve as a government and presidential office until 1976 when the capital of South Vietnam was officially moved to Hanoi, and the government's functions were relocated. The palace is now preserved as a convention hall for state events, and also as a museum that is open to the public, and is a popular tourist attraction in Ho Chi Minh City."
+  ],
+  "title": "Independence Palace",
+  "url": "https://en.wikipedia.org/wiki/Independence_Palace",
+  "revision": 1376799413,
+  "fetched": "2026-10-20"
+ },
+ "nakagin-capsule-tower": {
+  "paragraphs": [
+   "The Nakagin Capsule Tower Building was a mixed-use residential and office tower in the upscale Ginza district of Tokyo, Japan, designed by the architect Kisho Kurokawa. Completed in two years (1970–1972), the building was a rare remaining example of Japanese Metabolism, an architectural movement emblematic of Japan's postwar cultural resurgence. It was the world's first example of capsule architecture.",
+   "In time, however, the Capsule Tower fell into disrepair. Attempts to raise funds to save the Tower and campaigns to preserve it as a historic landmark were unsuccessful. The building was demolished in 2022, although 23 component units were earmarked for preservation and later repurposed elsewhere."
+  ],
+  "title": "Nakagin Capsule Tower",
+  "url": "https://en.wikipedia.org/wiki/Nakagin_Capsule_Tower",
+  "revision": 1374426595,
+  "fetched": "2026-10-20"
+ },
+ "fondation-louis-vuitton": {
+  "paragraphs": [
+   "The Louis Vuitton Foundation (French: Fondation d'entreprise Louis-Vuitton), previously Louis Vuitton Foundation for Creation (Fondation Louis-Vuitton pour la création), is a French art museum and cultural center sponsored by the group LVMH and its subsidiaries. It is run as a legally separate, nonprofit entity as part of LVMH's promotion of art and culture.",
+   "The art museum opened on 20 October 2014, in the presence of President François Hollande. The Deconstructivist building was designed by Canadian-American architect Frank Gehry, with groundwork starting in 2006. It is adjacent to the Jardin d'Acclimatation in the Bois de Boulogne of the 16th arrondissement of Paris, bordering on Neuilly-sur-Seine. More than 1.4 million people visited the Louis Vuitton Foundation in 2017.",
+   "The cost of the museum, initially projected to be €100 million, was revealed in 2017 to have been nearly eight times that sum. A November 2018 report of the Court of Audit indicated that from 2007 to 2014, building construction constituted the main activity of the Foundation, and that the LVMH group received €518 million of tax breaks during that time."
+  ],
+  "title": "Louis Vuitton Foundation",
+  "url": "https://en.wikipedia.org/wiki/Louis_Vuitton_Foundation",
+  "revision": 1370757426,
+  "fetched": "2026-10-20"
+ },
+ "chinggis-khaan-statue-complex": {
+  "paragraphs": [
+   "The Genghis Khan Equestrian Statue, part of the Genghis Khan Statue Complex, is a 40-metre (130 ft) tall, stainless steel statue of Genghis Khan on horseback and the world's tallest equestrian statue. It is located about a mile from the Tuul River at Tsonjin Boldog, 54 km (33.55 mi) east of the Mongolian capital Ulaanbaatar, where, according to legend, he found a golden whip. The statue is symbolically pointed east toward his birthplace. It is on top of the Genghis Khan Statue Complex, a visitor centre, itself 10 metres (33 ft) tall, with 36 columns representing the 36 khans from Genghis to Ligdan Khan. It was designed by sculptor D. Erdenebileg and architect J. Enkhjargal and erected and opened in 2008 to honor the 800th anniversary of the founding of the Mongol Empire.",
+   "Visitors can walk into the head of the horse through its chest and neck, where they have a panoramic view. The cost of the complex was reported to be US$4.1 million, and it was built by the Genco Tourism Bureau, a Mongolian company. The company is associated with Khaltmaagiin Battulga, who later served as President of Mongolia from 2017 to 2021."
+  ],
+  "title": "Equestrian statue of Genghis Khan",
+  "url": "https://en.wikipedia.org/wiki/Equestrian_statue_of_Genghis_Khan",
+  "revision": 1376486239,
+  "fetched": "2026-10-20"
+ },
+ "titanic-belfast": {
+  "paragraphs": [
+   "Titanic Belfast is a visitor attraction in Belfast, Northern Ireland, which opened in 2012. It is a monument to Belfast's maritime heritage on the site of the former Harland & Wolff shipyard in the city's Titanic Quarter where the RMS Titanic was built. It tells the stories of the Titanic, which hit an iceberg and sank during her maiden voyage in 1912, and her sister ships RMS Olympic and HMHS Britannic. The building contains more than 12,000 square metres (130,000 sq ft) of floor space, most of which is occupied by a series of galleries, private function rooms and community facilities.",
+   "CivicArts / Eric Kuhne and Associates were commissioned as concept architects, with Todd Architects appointed as lead consultants. The building's design is intended to reflect Belfast's history of shipmaking and the industrial legacy bequeathed by Harland & Wolff. Its angular form recalls the shape of ships' prows, with its main \"prow\" angled down the middle of the Titanic and Olympic slipways towards the River Lagan. Most of the building's façade is clad in 3,000 individual silver anodised aluminium shards. It stands 126 feet (38 m) high, the same height as Titanic's hull."
+  ],
+  "title": "Titanic Belfast",
+  "url": "https://en.wikipedia.org/wiki/Titanic_Belfast",
+  "revision": 1378835338,
+  "fetched": "2026-10-20"
+ },
+ "milad-tower": {
+  "paragraphs": [
+   "The Milad Tower (Persian: برج میلاد, romanized: Borj-e Milād, lit. 'Birth Tower') is a multi-purpose tower in Tehran, Iran. It is the sixth-tallest tower and the world's first telecommunication tower in terms of the usage area of the top structure and the tallest tower in Iran and the 24th-tallest freestanding structure in the world. The construction of the tower took about 11 years and 7 months.",
+   "It is located between Shahrak-e Gharb and the district of Gisha, standing at 435 meters from the base to the tip of the antenna. The head consists of a large pod with 12 floors, the roof of which is at 315 meters.",
+   "The tower is a part of the International Trade and Convention Center of Tehran, which also includes a five-star hotel, a convention center, a world trade center, and an IT park.",
+   "It is the regular host site of the Fajr International Film Festival, Iran's most prominent film festival."
+  ],
+  "title": "Milad Tower",
+  "url": "https://en.wikipedia.org/wiki/Milad_Tower",
+  "revision": 1379511420,
+  "fetched": "2026-10-20"
+ },
+ "solow-building": {
+  "paragraphs": [
+   "The Solow Building, also known as 9 West 57th Street, is a skyscraper in the Midtown Manhattan neighborhood of New York City. Completed in 1974 and designed by Gordon Bunshaft of Skidmore, Owings & Merrill, it is west of Fifth Avenue between 57th and 58th Streets, overlooking the Plaza Hotel and Central Park. The building measures 689 feet (210 m) tall with 50 stories. 9 West 57th Street was developed by Sheldon Solow, who named the building after himself and continued to manage and own the building until his death in 2020. Since then, it has been owned by his son Stefan Soloviev.",
+   "9 West 57th Street was designed by Gordon Bunshaft of Skidmore, Owings and Merrill (SOM) and developed by Sheldon Solow. It was built by the Diesel Construction Company. When constructed, the building was also referred to as \"9 West\" and \"Tower 9\". The building is 689 ft (210 m) tall, with 50 stories. Weidlinger Associates was the structural engineer and Code Consultants Inc. was the code consultant."
+  ],
+  "title": "Solow Building",
+  "url": "https://en.wikipedia.org/wiki/Solow_Building",
+  "revision": 1364522863,
+  "fetched": "2026-10-20"
+ },
+ "royal-palace-amsterdam": {
+  "paragraphs": [
+   "The Royal Palace of Amsterdam in Amsterdam (Dutch: Koninklijk Paleis van Amsterdam or Paleis op de Dam) is one of three palaces in the Netherlands which are at the disposal of the monarch by Act of Parliament. It is situated on the west side of Dam Square in the centre of Amsterdam, opposite the War Memorial and next to the Nieuwe Kerk.",
+   "The palace was originally built in the mid-seventeenth century as the new city hall for the city of Amsterdam, and only became a royal palace in 1808 when the Netherlands were part of the First French Republic and First Empire under Napoleon Bonaparte."
+  ],
+  "title": "Royal Palace of Amsterdam",
+  "url": "https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam",
+  "revision": 1379786370,
+  "fetched": "2026-10-20"
+ },
+ "stazione-di-milano-centrale": {
+  "paragraphs": [
+   "Milano Centrale (Italian: Stazione di Milano Centrale) is the main railway station of the city of Milan, Northern Italy, and is the second busiest railway station in Italy for passenger flow (after Roma Termini) and the largest railway station in Europe by volume.",
+   "The station is a terminus and located at the northern end of central Milan. It was officially inaugurated in 1931 to replace the old central station (built 1864), which was a transit station that could not handle the increased traffic caused by the opening of the Simplon Tunnel in 1906 due to the old station's limited number of tracks and space.",
+   "Milano Centrale has high-speed connections to Turin in the west, Venice via Verona in the east and on the north–south mainline to Bologna, Rome, Naples and Salerno. The Simplon and Gotthard railway lines connect Milano Centrale to Basel and Geneva via Domodossola and Zürich via Chiasso in Switzerland.",
+   "Destinations of inter-city and regional railways radiate from Milano Centrale to Ventimiglia (border of France), Genova, Turin, Domodossola (border of Swiss Canton of Valais/Wallis), Tirano (border of Swiss Canton of Graubünden/Grisons), Bergamo, Verona, Mantua, Bologna and La Spezia.",
+   "The Milan suburban railway service, however, does not use Milano Centrale but the other mainline stations: Porta Garibaldi (northwest), Cadorna (west) and Rogoredo (east)."
+  ],
+  "title": "Milano Centrale railway station",
+  "url": "https://en.wikipedia.org/wiki/Milano_Centrale_railway_station",
+  "revision": 1379970486,
+  "fetched": "2026-10-20"
+ },
+ "liverpool-metropolitan-cathedral": {
+  "paragraphs": [
+   "Liverpool Metropolitan Cathedral, officially known as the Metropolitan Cathedral of Christ the King and locally nicknamed \"Paddy's Wigwam\" or \"The Mersey Funnel\", is the seat of the Archbishop of Liverpool and the mother church of the Archdiocese of Liverpool in Liverpool, England. The Grade I Metropolitan Cathedral is one of Liverpool's many listed buildings.",
+   "The cathedral's architect, Frederick Gibberd, was the winner of a worldwide design competition. Construction began in 1962 and was completed in 1967. Earlier designs for a cathedral were proposed in 1933 and 1953, but neither was completed."
+  ],
+  "title": "Liverpool Metropolitan Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Liverpool_Metropolitan_Cathedral",
+  "revision": 1375860923,
+  "fetched": "2026-10-20"
+ },
+ "stadio-san-nicola": {
+  "paragraphs": [
+   "Stadio San Nicola (English: Saint Nicholas Stadium) is a multi-use all-seater stadium designed by Renzo Piano in Bari, Italy. It is currently used mostly for football matches and is the home stadium of SSC Bari. It replaced their previous home, Stadio della Vittoria, in 1990. The stadium's design resembles a flower. To create this particular design, the stadium consists of 26 'petals' and upper tiers of the higher ring separated by 8-metre empty spaces, sufficient to guarantee satisfactory security conditions.",
+   "Being the third largest football stadium in Italy after Milan's San Siro and Rome's Stadio Olimpico; as well as the largest to be used by only one team, San Nicola holds 58,270 people, and was filled to capacity for the first time during a 2013–2014 Serie B playoff match for A.S. Bari in June 2014. Before that, the stadium's largest attendance was 52,000 for an A.S. Bari Serie A match during the 2009–10 season."
+  ],
+  "title": "Stadio San Nicola",
+  "url": "https://en.wikipedia.org/wiki/Stadio_San_Nicola",
+  "revision": 1372234446,
+  "fetched": "2026-10-20"
+ },
+ "rothko-chapel": {
+  "paragraphs": [
+   "The Rothko Chapel is a non-denominational chapel in Houston, Texas, founded by John and Dominique de Menil. The interior serves not only as a chapel, but also serves as the display framework for a major work of modern art: on its walls are fourteen paintings by Mark Rothko in varying hues of black. The shape of the building—an octagon inscribed in a Greek cross—and the design of the chapel were largely influenced by the artist. The chapel sits 2 mi (3.2 km) southwest of downtown in the Montrose neighborhood, situated between the building housing the Menil Collection and the Chapel of Saint Basil on the campus of the University of Saint Thomas. About 110,000 people visit the chapel each year.",
+   "The chapel is an irregular octagonal brick building with gray or rose stucco walls and a skylight. It serves as a place of meditation as well as a meeting hall and is furnished with eight simple, moveable benches for meditative seating; more are provided to accommodate the audience for special events. Holy books from several religions are available.",
+   "As renovated in 2020 by Architecture Research Office and George Sexton Associates, the louvered skylight diffuser consists of 280 reflective aluminum blades that are individually angled and spaced to ensure an even distribution of light onto the paintings along the perimeter walls."
+  ],
+  "title": "Rothko Chapel",
+  "url": "https://en.wikipedia.org/wiki/Rothko_Chapel",
+  "revision": 1377059750,
+  "fetched": "2026-10-20"
+ },
+ "parliament-house": {
+  "paragraphs": [
+   "Parliament House is the meeting place of the Parliament of Australia, the legislative branch of Australia's federal tier of government. The building also houses the core of the executive (the Australian Government), containing the cabinet room and offices of the prime minister and other federal ministers.",
+   "In Walter Burley Griffin's original design for Canberra, Parliament House would be located on Camp Hill, located between Old Parliament House and Capital Hill. Instead a \"Capitol\" building would be placed on Capital Hill, that would hold the national archives and act as a public assembly. Placing Parliament beneath the Capitol building would then represent the people standing above their representatives. Debate over the site continued over the years, with Menzies in 1958 supporting a site on the shore of the lake. However, there remained support for the Capital Hill site, which culminated in the passage of the Parliament Act 1974 with a free vote, which determined that the Capital Hill site should be used."
+  ],
+  "title": "Parliament House, Canberra",
+  "url": "https://en.wikipedia.org/wiki/Parliament_House,_Canberra",
+  "revision": 1374935452,
+  "fetched": "2026-10-20"
+ },
+ "crystal-bridges-museum-of-american-art": {
+  "paragraphs": [
+   "The Crystal Bridges Museum of American Art is an art museum located in Bentonville, Arkansas, which opened to the public on November 11, 2011, and was founded by Alice Walton.",
+   "The museum is situated on a site of approximately 120 to 134 acres of native Ozark forest and consists of eight interconnected pavilions designed by architect Moshe Safdie. Its collection focuses on American art across multiple periods and media, and is displayed in buildings integrated into the surrounding landscape. The institution operates with a permanent endowment, allowing it to offer free general admission to the public."
+  ],
+  "title": "Crystal Bridges Museum of American Art",
+  "url": "https://en.wikipedia.org/wiki/Crystal_Bridges_Museum_of_American_Art",
+  "revision": 1376482621,
+  "fetched": "2026-10-20"
+ },
+ "humayuns-tomb": {
+  "paragraphs": [
+   "Humayun's tomb (Persian: Maqbara-i Humayun) is the tomb of the Mughal Emperor Humayun located in Delhi, India. The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum, under her patronage in 1558, and designed by the Persian architects Mirak Mirza Ghiyas and his son, Sayyid Muhammad, whom she personally chose. It was the first garden-tomb on the Indian subcontinent, and is located in Nizamuddin East, Delhi, close to the Dina-panah Citadel, also known as Purana Qila (Old Fort), that Humayun founded in 1538. It was also the first structure to use red sandstone at such a scale.",
+   "Turkic and Mughal rule in the Indian subcontinent also introduced Central Asian and Persian styles of Islamic architecture in the region, and by the late 12th century early monuments in this style were appearing in and around Delhi, the capital of Delhi Sultanate. Starting with the Turkic Slave dynasty which built the Qutb Minar (1192) and its adjacent Quwwat-ul-Islam mosque (1193 CE). North India was successively ruled by foreign dynasties in the coming centuries, giving rise to the Indo-Islamic architecture."
+  ],
+  "title": "Humayun's tomb",
+  "url": "https://en.wikipedia.org/wiki/Humayun%27s_tomb",
+  "revision": 1378372599,
+  "fetched": "2026-10-20"
+ },
+ "radcliffe-camera": {
+  "paragraphs": [
+   "The Radcliffe Camera (colloquially known as the \"Rad Cam\" or \"The Camera\"; from Latin camera, meaning 'chamber') is a building of the University of Oxford, England, designed by James Gibbs in a Baroque style and built in 1737–49 to house a library, ultimately becoming a reading room of the Bodleian Library, not open to the public, after the original library moved out.",
+   "The building is the earliest example in England of a circular library. It is built in three main stages externally and two stories internally, the upper one containing a gallery. The ground stage is heavily rusticated and has a series of eight pedimented projections alternating with niches. The central stage is divided into bays by coupled Corinthian columns supporting the continuous entablature. The pedimented windows stand above mezzanine openings, reflecting the interior arrangement. The top stage is a lanterned dome on an octagonal drum, with a balustraded parapet with vases.",
+   "The construction used local stone from Headington and Burford, which was then ashlar faced. The dome and cupola are covered with lead. Inside, the original walls and dome were distempered but this was later removed, revealing the decorations to be carved in stone. Only the decorative work of the dome is plaster."
+  ],
+  "title": "Radcliffe Camera",
+  "url": "https://en.wikipedia.org/wiki/Radcliffe_Camera",
+  "revision": 1375467196,
+  "fetched": "2026-10-20"
+ },
+ "montreal-biosphere": {
+  "paragraphs": [
+   "The Biosphere, also known as the Montreal Biosphere, is a museum dedicated to the environment in Montreal, Quebec, Canada. It is housed in the former United States pavilion constructed for Expo 67 located within the grounds of Parc Jean-Drapeau on Saint Helen's Island. The museum's geodesic dome was designed by Buckminster Fuller."
+  ],
+  "title": "Montreal Biosphere",
+  "url": "https://en.wikipedia.org/wiki/Montreal_Biosphere",
+  "revision": 1356489954,
+  "fetched": "2026-10-20"
+ },
+ "johnson-wax-headquarters": {
+  "paragraphs": [
+   "The Johnson Wax Headquarters is the corporate headquarters of the household goods company S. C. Johnson & Son in Racine, Wisconsin, United States. The original headquarters includes two buildings designed by Frank Lloyd Wright: the Administration Building, completed in April 1939, and the Research Tower, completed in November 1950. The headquarters also includes the Golden Rondelle Theater, relocated from the 1964 New York World's Fair, in addition to Fortaleza Hall and the Commons, a memorial to Samuel Curtis Johnson Jr. Both of the original buildings were widely discussed on their completion, and they have been depicted in several exhibits and media works. In addition, the original headquarters received the American Institute of Architects' Twenty-five Year Award and has been designated as a National Historic Landmark."
+  ],
+  "title": "Johnson Wax Headquarters",
+  "url": "https://en.wikipedia.org/wiki/Johnson_Wax_Headquarters",
+  "revision": 1373463169,
+  "fetched": "2026-10-20"
+ },
+ "kaufmann-desert-house": {
+  "paragraphs": [
+   "The Kaufmann Desert House, or simply the Kaufmann House, is a house in Palm Springs, California, that was designed by architect Richard Neutra in 1946. It was commissioned by Edgar J. Kaufmann, Sr., a businessman who also commissioned Fallingwater by Frank Lloyd Wright.",
+   "The house has been described as \"an architectural marvel that helped define the modernist aesthetic of the resort city of Palm Springs\".",
+   "It is designated a Class 1 Historic Site by Palm Springs City Council."
+  ],
+  "title": "Kaufmann Desert House",
+  "url": "https://en.wikipedia.org/wiki/Kaufmann_Desert_House",
+  "revision": 1377022349,
+  "fetched": "2026-10-20"
+ },
+ "metropol-parasol": {
+  "paragraphs": [
+   "The Setas de Sevilla (\"Mushrooms of Seville\") or Las Setas (\"The Mushrooms\"), initially titled Metropol Parasol, is a large, predominantly wood structure located at La Encarnación square in the old quarter of Seville, Spain. It accommodates a traditional market, restaurants, a performance square, archaeological museum, a venue for MICE events Metropol Eventos — and 'rooftop' terrace with a panoramic view of Seville's old city.",
+   "The structure consists of six parasols loosely resembling large mushrooms, inspired by the vaults of the Cathedral of Seville and the ficus trees in the nearby Plaza de Cristo de Burgos. The Setas are organized in four levels. The underground level (Level 0) accommodates the Antiquarium, where Roman and Moorish remains discovered on site are displayed in a museum. Level 1 (street level) is the Central Market. The roof of Level 1 is the surface of the open-air public plaza, shaded by the wooden parasols above and designed for public events. Levels 2 and 3 are the two stages of the panoramic terraces (including a restaurant), offering a view of the city centre.",
+   "Selected from 65 submissions in a city-sponsored competition, the structure was designed by German architect Jürgen Mayer, was completed in April 2011, and is roughly 150 by 70 metres (490 by 230 ft) with an approximate height of 26 metres (85 ft)."
+  ],
+  "title": "Metropol Parasol",
+  "url": "https://en.wikipedia.org/wiki/Metropol_Parasol",
+  "revision": 1371117713,
+  "fetched": "2026-10-20"
+ },
+ "union-station-toronto": {
+  "paragraphs": [
+   "Union Station is a major railway station and intermodal transportation hub in Toronto, Ontario, Canada. The station is located in downtown Toronto, on Front Street West, on the south side of the block bounded by Bay Street and York Street. The municipal government of Toronto owns the station building while the provincial transit agency Metrolinx owns the train shed and trackage. It is operated by the Toronto Terminals Railway, a joint venture of the Canadian National Railway and Canadian Pacific Railway, which directs and controls train movement along the Union Station Rail Corridor, the largest and busiest rail corridor in Canada. Constructed in 1927, Union Station has been a National Historic Site of Canada since 1975, and a Heritage Railway Station since 1989.",
+   "Toronto's Union Station is Canada's largest and most opulent railway station. The Montreal architecture firm of Ross and Macdonald designed the building in the Beaux-Arts style as a joint venture between the Grand Trunk Railway and the Canadian Pacific Railway, with help from CPR architect Hugh Jones and Toronto architect John M. Lyle. In 1975, the Historic Sites and Monuments Board of Canada cited its design as being of \"national architectural significance as one of the finest examples of Beaux-Arts railway station design in Canada\"."
+  ],
+  "title": "Union Station (Toronto)",
+  "url": "https://en.wikipedia.org/wiki/Union_Station_(Toronto)",
+  "revision": 1379026444,
+  "fetched": "2026-10-20"
+ },
+ "stadio-renato-dall-ara": {
+  "paragraphs": [
+   "Stadio Renato Dall'Ara is a multi-purpose stadium in Bologna, Italy. It is currently used mostly for football matches and the home of Bologna FC. The stadium was designed by Giulio Ulisse Arata and inaugurated in 1927 as Stadio Littoriale. It was one of the first stadiums to incorporate the stands into the architecture, an innovation which later became the model for stadiums around the world. The large arch contained an equestrian statue of the dictator Benito Mussolini, which was destroyed during the city's liberation in 1943. The stadium replaced the Stadio Sterlino and is named after Renato Dall'Ara (1892–1964), a former president of Bologna for thirty years.",
+   "The stadium hosted matches in both the 1934 FIFA World Cup and the 1990 FIFA World Cup. Its inclusion in the latter demanded both expansion and modernisation. An increased, all-seated capacity was achieved by adding three rows at the bottom, where the parterre sat, and twelve at the top. To facilitate this, an exposed steel framework, incorporating 120 columns, was aligned with the pre-existing pilasters, supporting the extended terrace and providing access via a series of stairwells running around the stadium’s perimeter."
+  ],
+  "title": "Stadio Renato Dall'Ara",
+  "url": "https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara",
+  "revision": 1379254578,
+  "fetched": "2026-10-20"
+ },
+ "one57": {
+  "paragraphs": [
+   "One57, formerly known as Carnegie 57, is a 75-story, 1,005 ft (306 m) supertall skyscraper at 157 West 57th Street between Sixth and Seventh Avenues in the Midtown neighborhood of Manhattan, New York City. The building has 92 condominium units above a 210-room Park Hyatt Hotel that serves as the flagship Hyatt property. The tower was developed by Extell Development Company and designed by Christian de Portzamparc. It is the first ultra-luxury condominium tower along a stretch of 57th Street called Billionaires' Row.",
+   "One57 was developed by Extell Development Company, which in turn was led by Gary Barnett. The building was designed by architect Christian de Portzamparc, while Goldstein, Hill & West Architects worked on the design details. The building has a roof height of 1,004 ft (306 m) and its top floor at 902 ft (275 m). The certificate of occupancy issued by the New York City Department of Buildings lists the building as having 73 stories above ground level, with a height of 953 ft (290 m). The top story is numbered as floor 90."
+  ],
+  "title": "One57",
+  "url": "https://en.wikipedia.org/wiki/One57",
+  "revision": 1362464561,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-pop-culture": {
+  "paragraphs": [
+   "The Museum of Pop Culture (or MOPOP) is a nonprofit museum in Seattle, Washington, United States, dedicated to contemporary popular culture. It was founded by Microsoft co-founder Paul Allen in 2000 as the Experience Music Project. Since then MOPOP has organized dozens of exhibits, 17 of which have toured across the U.S. and internationally.",
+   "MOPOP is located on the campus of Seattle Center, adjacent to the Space Needle and the Seattle Center Monorail, which runs through the building. The structure itself was designed by Frank Gehry and resembles many of his firm's other works in its sheet-metal construction, such as Guggenheim Museum Bilbao, Walt Disney Concert Hall, and Gehry Tower. Much of the building material is exposed in the building's interior. The building contains 140,000 square feet (13,000 m2), with a 35,000-square-foot (3,300 m2) footprint. The name of the museum's central Sky Church pays homage to Jimi Hendrix. A concert venue capable of holding up to 800 guests, the last structural steel beam to be put in place bears the signatures of all construction workers who were on site on the day it was erected. Hoffman Construction Company of Portland, Oregon, was the general contractor, while Magnusson Klemencic Associates of Seattle were the structural engineers for the project."
+  ],
+  "title": "Museum of Pop Culture",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_Pop_Culture",
+  "revision": 1380983322,
+  "fetched": "2026-10-20"
+ },
+ "barcelona-pavilion": {
+  "paragraphs": [
+   "The Barcelona Pavilion (Catalan: Pavelló alemany; Spanish: Pabellón alemán; \"German Pavilion\") is a structure designed by Ludwig Mies van der Rohe and Lilly Reich. It was originally built as the German Pavilion for the 1929 International Exposition in Barcelona, Catalonia, Spain. This building was used for the official opening of the German section of the exhibition. It is an important building in the history of modern architecture, known for its simple form and its use of expensive materials, such as marble, red onyx, and travertine. The original structure was demolished in 1930, and it was reconstructed in 1986. Furnishings specifically designed for the building, including the Barcelona chair, are still in production, and the structure has inspired many important modernist buildings.",
+   "Mies's response to the proposal by Georg von Schnitzler was radical. After rejecting the original site for aesthetic reasons, Mies agreed to a quiet site at the narrow side of a wide, diagonal axis, where the pavilion would still offer viewpoints and a route leading to one of the exhibition's main attractions, the Poble Espanyol."
+  ],
+  "title": "Barcelona Pavilion",
+  "url": "https://en.wikipedia.org/wiki/Barcelona_Pavilion",
+  "revision": 1365840757,
+  "fetched": "2026-10-20"
+ },
+ "national-museum-of-african-american-history-and-culture": {
+  "paragraphs": [
+   "The National Museum of African American History and Culture (NMAAHC), colloquially known as the Blacksonian, is a Smithsonian Institution museum located on the National Mall in Washington, D.C., in the United States. It was established in 2003 and opened its permanent home in 2016 with a ceremony led by President Barack Obama.",
+   "Early efforts to establish a federally owned museum featuring African-American history and culture can be traced to 1915 and the National Memorial Association, although the modern push for such an organization did not begin until the 1970s. After years of little success, a legislative push began in 1988 that led to authorization of the museum in 2003. A site was selected in 2006, and a design submitted by Freelon Group/Adjaye Associates/Davis Brody Bond was chosen in 2009. Construction began in 2012 and was completed in 2016.",
+   "The NMAAHC is the world's largest museum dedicated to African-American history and culture. In 2022 it welcomed 1,092,552 visitors, and was the second–most visited Smithsonian Museum and eighth–most visited museum in the United States. The museum has more than 40,000 objects in its collection, although only about 3,500 items are on display. The 350,000-square-foot (33,000 m2), 10-story building (five above and five below ground) and its exhibits have won critical praise."
+  ],
+  "title": "National Museum of African American History and Culture",
+  "url": "https://en.wikipedia.org/wiki/National_Museum_of_African_American_History_and_Culture",
+  "revision": 1380362103,
+  "fetched": "2026-10-20"
+ },
+ "cinerama-dome": {
+  "paragraphs": [
+   "The Cinerama Dome is a movie theater on Sunset Boulevard in Hollywood, California that closed in 2020. Designed to exhibit widescreen Cinerama films, it opened November 7, 1963. The original developer was William R. Forman, founder of Pacific Theatres. The Cinerama Dome continued as a leading first-run theater, most recently as part of the ArcLight Hollywood complex, until it closed due to the COVID-19 pandemic in California. The ArcLight chain closed permanently in April 2021, with the theater never having reopened. In June 2022, it was announced that there were plans to reopen under a new name, Cinerama Hollywood. In 2026, Sony Pictures announced that it had purchased the leases to the Cinerama Dome and former ArcLight Hollywood and plans to reopen both locations in 2028, with the former ArcLight as an Alamo Drafthouse Cinema."
+  ],
+  "title": "Cinerama Dome",
+  "url": "https://en.wikipedia.org/wiki/Cinerama_Dome",
+  "revision": 1372075728,
+  "fetched": "2026-10-20"
+ },
+ "heydar-aliyev-center": {
+  "paragraphs": [
+   "The Heydar Aliyev Center (Azerbaijani: Heydər Əliyev Mərkəzi) is a 57,500 m2 (619,000 sq ft) building complex in Baku, Azerbaijan, designed by Zaha Hadid and noted for its distinctive architecture and flowing, curved style that eschews sharp angles. The main contractor, Dia Holdings, is owned by actors that are linked to Azerbaijan's ruling Aliyev family's network of offshore companies.",
+   "In 2007, Zaha Hadid was appointed as the design architect of the Center after a competition. The Center houses a conference hall (auditorium), a gallery hall and a museum. The project is intended to play an integral role in the intellectual life of the city. Located close to the city center, the site plays a pivotal role in the redevelopment of Baku.",
+   "The Heydar Aliyev Center represents a fluid form which emerges by the folding of the landscape's natural topography and by the wrapping of individual functions of the Center. All functions of the Center, together with entrances, are represented by folds in a single continuous surface.",
+   "The Heydar Aliyev Center had an official soft-opening ceremony on 10 May 2012 held by the president of Azerbaijan Ilham Aliyev.",
+   "Extending on eight floor levels, the center accommodates a 1,000-seat auditorium, temporary exhibition spaces, a conference center, workshops, and a museum."
+  ],
+  "title": "Heydar Aliyev Center",
+  "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Center",
+  "revision": 1376505200,
+  "fetched": "2026-10-20"
+ },
+ "centre-block-ottawa": {
+  "paragraphs": [
+   "The Centre Block (French: Édifice du Centre) is the main building of the Canadian Parliament buildings on Parliament Hill, in Ottawa, Ontario, containing the House of Commons and Senate chambers, as well as the offices of a number of members of parliament, senators, and senior administration for both legislative houses. It is also the location of several ceremonial spaces, such as the Hall of Honour, the Memorial Chamber, and Confederation Hall.",
+   "Built in the Gothic Revival style, the present Centre Block is the building's second iteration. The first was destroyed by fire in 1916; all that remains of the original building is the Library of Parliament, at the rear of the Centre Block. Though construction began immediately after the blaze, sculpting work on the interior continued through the 1970s. Then, from 2018, MPs were moved elsewhere for renovations lasting until 2031.",
+   "One of the most recognizable buildings in Canada, the Centre Block is depicted on the Canadian $10 bill (the Library of Parliament), $20 bill (the Peace Tower), and the $50 bill."
+  ],
+  "title": "Centre Block",
+  "url": "https://en.wikipedia.org/wiki/Centre_Block",
+  "revision": 1371423274,
+  "fetched": "2026-10-20"
+ },
+ "barnes-foundation-philadelphia": {
+  "paragraphs": [
+   "The Barnes Foundation is an art collection and educational institution promoting the appreciation of art and horticulture. Originally in Merion, the art collection moved in 2012 to a new building on Benjamin Franklin Parkway in Philadelphia, Pennsylvania. The arboretum of the Barnes Foundation remains in Merion, where it has been proposed that it be maintained under a long-term educational affiliation agreement with Saint Joseph's University.",
+   "The Barnes was founded in 1922 by Albert C. Barnes, who made his fortune by co-developing Argyrol, an antiseptic silver compound that was used to combat gonorrhea and inflammations of the eye, ear, nose, and throat. He sold his business, the A.C. Barnes Company, just months before the stock market crash of 1929.",
+   "Today, the foundation owns more than 4,000 objects, including over 900 paintings, estimated to be worth about $25 billion. These are primarily works by Impressionist, Post-Impressionist, and Modernist masters, but the collection also includes many other paintings by leading European and American artists, as well as African art, antiquities from China, Egypt, and Greece, and Native American art."
+  ],
+  "title": "Barnes Foundation",
+  "url": "https://en.wikipedia.org/wiki/Barnes_Foundation",
+  "revision": 1367992189,
+  "fetched": "2026-10-20"
+ },
+ "registan": {
+  "paragraphs": [
+   "Registan, officially the Registan Square (Uzbek: Registon maydoni) is a historic public square in the city of Samarkand, Uzbekistan. It served as the heart of the Timurid Empire and later as the city's commercial, educational, and ceremonial center. The square is famed for its ensemble of three madrasas (Islamic schools): the Ulugh Beg Madrasa of the Timurid period, the Sherdar Madrasa and the Tilakari Madrasa, built later under the Janid dynasty—which together represent some of the finest achievements of Islamic architecture in Central Asia. Renowned for its soaring iwans, turquoise domes, intricate mosaic tilework, and geometric ornamentation, Registan is considered one of the greatest examples of Timurid and Persian-influenced architecture..",
+   "Several decades after the Mongol conquest, a Friday mosque was erected on Registan Square in Samarkand, the site that had served as the focal point of the Sarbadar uprising of 1365.",
+   "People gathered on the Registan to hear royal proclamations, heralded by blasts on enormous copper pipes called dzharchis — and for public executions. The three madrasas feature distinctive Islamic style with muqarnas. The square was regarded as the hub of the Timurid Renaissance."
+  ],
+  "title": "Registan",
+  "url": "https://en.wikipedia.org/wiki/Registan",
+  "revision": 1372551608,
+  "fetched": "2026-10-20"
+ },
+ "bank-of-america-tower": {
+  "paragraphs": [
+   "The Bank of America Tower, also known as 1 Bryant Park, is a 55-story skyscraper in the Midtown Manhattan neighborhood of New York City, New York, U.S. It is located at 1111 Avenue of the Americas (Sixth Avenue) between 42nd and 43rd Streets, diagonally opposite Bryant Park. The building was designed by Cookfox and Adamson Associates, and it was developed by the Durst Organization for Bank of America. With a height of 1,200 feet (370 m), the Bank of America Tower is the ninth tallest building in New York City and the eleventh tallest building in the United States as of 2022.",
+   "The Bank of America Tower was developed by Douglas Durst of the Durst Organization and designed by Cookfox Architects for Bank of America. Adamson Associates served as the executive designer. Severud Associates was the structural engineer, Jaros, Baum & Bolles was the MEP engineer, and Tishman Realty & Construction was the general contractor. Numerous other consultants, engineers, and contractors were involved in the building's design and construction."
+  ],
+  "title": "Bank of America Tower (Manhattan)",
+  "url": "https://en.wikipedia.org/wiki/Bank_of_America_Tower_(Manhattan)",
+  "revision": 1362686051,
+  "fetched": "2026-10-20"
+ },
+ "kingdom-centre": {
+  "paragraphs": [
+   "Kingdom Centre (Arabic: مركز المملكة), formerly Kingdom Tower, is a 99-story, 302.3 m (992 ft) skyscraper in the al-Olaya district of Riyadh, Saudi Arabia. When completed in 2002, it overtook the 267-meter (876 ft) Faisaliah Tower as the tallest tower in Saudi Arabia. It has since been surpassed and, as of 2021, is the fifth-tallest skyscraper in the country, whose tallest two buildings are The Clock Towers and the Capital Market Authority Tower. It is the world's third-tallest building with a hole, after the Shanghai World Financial Center and the 85 Sky Tower in Taiwan. It contains the King Abdullah Mosque, which is the world's most elevated mosque from ground level.",
+   "The Kingdom Centre was designed by the US-based architecture firm Ellerbe Becket in a joint venture with the Riyadh-based architecture and engineering firm Omrania and Associates. The building is composed of a tower and a podium comprising two symmetrical wings. The tower's almond-shaped plan and curving forms gives the building a distinctive shape that helps keep it cool, with the narrow ends facing the east and west where heat gain is greatest. A high-performance curtain wall, made from silver, butt-jointed reflective glazing, also helps control heat gain while concealing the three main mechanical floors to create a seamless facade."
+  ],
+  "title": "Kingdom Centre",
+  "url": "https://en.wikipedia.org/wiki/Kingdom_Centre",
+  "revision": 1363836369,
+  "fetched": "2026-10-20"
+ },
+ "djinguereber-mosque": {
+  "paragraphs": [
+   "The Djinguereber Mosque (Arabic: مسجد دجينجيربر; French: Mosquée de Djinguereber; from Koyra Chiini jiŋgar-ey beer 'grand mosque'), also known as Djingareyber or Djingarey Ber, is a famous learning center in Timbuktu, Mali. Built in 1327, it is one of three mosques associated with the historical community of scholars and students known today as the \"University of Timbuktu\". It was inscribed on the list of UNESCO World Heritage Sites in 1988.",
+   "The design and construction of the Djinguereber mosque is traditionally credited to the Andalusi scholar Abu Ishaq Al Sahili. According to Ibn Khaldun, one of the best-known sources on 14th-century Mali, he was said to have received 12,000 mithkals of gold dust for the work. More recent analyses reject this version, demonstrating that the architectural style of the Djinguereber Mosque and others in West Africa derives mainly from mosques in the Sahara and traditional African architecture and religions, so that al-Sahili's influence on West African architecture is treated as a myth."
+  ],
+  "title": "Djinguereber Mosque",
+  "url": "https://en.wikipedia.org/wiki/Djinguereber_Mosque",
+  "revision": 1369752104,
+  "fetched": "2026-10-20"
+ },
+ "arc-de-triomf": {
+  "paragraphs": [
+   "The Arc de Triomf (Catalan pronunciation: [ˈarɡ də tɾiˈoɱf]), translated: Arch of Victory, is a memorial arch in Barcelona, Catalonia, Spain. It was built by architect Josep Vilaseca i Casanovas as the main access gate for the 1888 Barcelona World Fair. The arch crosses over the wide central promenade of the Passeig de Lluís Companys, leading to the Ciutadella Park that now occupies the site of the world fair. It is located at the northern end of the promenade, facing the Passeig de Sant Joan.",
+   "The arch is built in reddish brickwork in the Neo-Mudéjar style. The front frieze contains the stone sculpture Barcelona rep les nacions (Catalan for \"Barcelona welcomes the nations\") by Josep Reynés. The opposite frieze contains a stone carving entitled Recompensa (\"Recompense\"), a work from Josep Llimona's earliest period, representing the granting of awards to the participants in the World Exposition. The friezes along the sides of the arch include allegories of agriculture, industry and trade by Antoni Vilanova and of sciences and arts by Torquat Tassó. The two pillars of the arch feature bats carved in stone, which were the emblem of King Jaume I, who ruled over a period of prosperity in Barcelona."
+  ],
+  "title": "Arc de Triomf",
+  "url": "https://en.wikipedia.org/wiki/Arc_de_Triomf",
+  "revision": 1380924263,
+  "fetched": "2026-10-20"
+ },
+ "cctv-headquarters": {
+  "paragraphs": [
+   "The CCTV Headquarters is a 51-floor skyscraper consisting of two conjoined towers that sits on the East Third Ring Road, Guanghua Road in the Beijing Central Business District (CBD). It serves as the headquarters for China Central Television (CCTV) and is the world's 10th largest office building. Rem Koolhaas and Ole Scheeren of OMA were the architects in charge for the building, while Cecil Balmond at Arup provided the complex engineering design.",
+   "The building's construction began on 1 June 2004 and its façade was completed in January 2008. The structure was feted by some architectural critics as \"the greatest work of architecture built in this century\" and was named the 2013 Best Tall Building Worldwide by the Council on Tall Buildings and Urban Habitat."
+  ],
+  "title": "CCTV Headquarters",
+  "url": "https://en.wikipedia.org/wiki/CCTV_Headquarters",
+  "revision": 1353041479,
+  "fetched": "2026-10-20"
+ },
+ "washington-dulles-airport-terminal": {
+  "paragraphs": [
+   "The Dulles International Airport Main Terminal is located in Loudoun and Fairfax counties in Dulles, Virginia, United States. The original structure, 600 feet (180 m) long and 150 feet (46 m) wide, was designed by Eero Saarinen and completed in 1962 as the first terminal at Dulles International Airport. Annexes to the west and east were completed in 1996 as part of a renovation designed by Skidmore, Owings & Merrill (SOM), bringing its total length to 1,240 feet (380 m). The terminal is operated by the Metropolitan Washington Airports Authority, which operates Dulles Airport as a whole. The terminal's design is a suspended structure with roof panels of precast concrete suspended between cables which span the width of the building."
+  ],
+  "title": "Dulles International Airport Main Terminal",
+  "url": "https://en.wikipedia.org/wiki/Dulles_International_Airport_Main_Terminal",
+  "revision": 1381023284,
+  "fetched": "2026-10-20"
+ },
+ "manila-cathedral": {
+  "paragraphs": [
+   "The Minor Basilica and Metropolitan Cathedral of the Immaculate Conception, commonly known as the Manila Cathedral, is a Roman Catholic basilica and the cathedral of the Archdiocese of Manila. It is dedicated to the Blessed Virgin Mary of the Immaculate Conception, the principal patroness of the Philippines.",
+   "The Manila Cathedral was built in the Latin cross (cruciform) layout. Its northwest façade, which is built in the Neo-Romanesque architecture style, is a replica of the façade of the previous cathedral, along with statues of famous saints sculpted in Roman travertine stone. Several of the artworks inside the basilica were made by Italian artists. In the previous cathedral, the statues were originally made of molave wood. The statue of Rose of Lima was sculpted by Angelo Fattinanzi; Jacob, Andrew and Anthony the Abbot were sculpted by Livia Papini; and Francis Xavier and Polycarp were sculpted by Alcide Tico. It is traditional to crown and adorn the statue of Rose of Lima with flowers and roses for her feast day."
+  ],
+  "title": "Manila Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Manila_Cathedral",
+  "revision": 1379353038,
+  "fetched": "2026-10-20"
+ },
+ "high-court-of-australia": {
+  "paragraphs": [
+   "The High Court of Australia is the apex court of the Australian legal system. It exercises original and appellate jurisdiction on matters specified in the Constitution of Australia and supplementary legislation.",
+   "The High Court of Australia building is located on the shore of Lake Burley Griffin in Canberra's Parliamentary Triangle. The High Court was designed between 1972 and 1974 by the Australian architect Christopher Kringas (1936–1975), a director of the firm Edwards Madigan Torzillo and Briggs. The building was constructed from 1975 to 1980. Its international architectural significance is recognised by the Union of International Architects register of Architectural Heritage of the 20th Century. It received the Australian Institute of Architects Canberra Medallion in 1980 and the award for Enduring Architecture in 2007. The High Court was added to the Commonwealth Heritage List in 2004.",
+   "The High Court was established following the passage of the Judiciary Act 1903 (Cth). Its authority derives from chapter III of the Australian Constitution, which vests it (and other courts the Parliament creates) with the judicial power of the Commonwealth. Its internal processes are governed by the High Court of Australia Act 1979 (Cth)."
+  ],
+  "title": "High Court of Australia",
+  "url": "https://en.wikipedia.org/wiki/High_Court_of_Australia",
+  "revision": 1378650086,
+  "fetched": "2026-10-20"
+ },
+ "curtain-wall-house": {
+  "paragraphs": [
+   "Lace curtain Irish and shanty Irish are terms that were commonly used in the 19th and 20th centuries to categorize Irish Americans, by social class. The \"lace curtain Irish\" were those who were well-off, while the \"shanty Irish\" were the poor, who were presumed to live in shanties, or roughly built cabins.",
+   "Neither term was complimentary. Aside from financial status, the term \"lace curtain Irish\" connoted pretentiousness and social climbing, while the \"shanty Irish\" were stereotyped as feckless and ignorant. Though lace curtains later became commonplace in Irish-American working-class homes, \"lace curtain\" was still used in a metaphorical, and often pejorative, sense. In the early 20th century, James Michael Curley, a famously populist Boston politician who was called \"mayor of the poor\", used the term \"cut glass Irish\" to mock the Irish-American middle class, but the term did not catch on. The term “two-toilet Irish” has also been used as a synonym for lace curtain Irish.",
+   "Irish Americans who prospered or married well could go from \"shanty Irish\" to \"lace curtain Irish\", and wealthy socialites could have shanty Irish roots. John F. Kennedy, for example, is considered \"lace curtain\" even though his great-grandparents were working-class Irish immigrants."
+  ],
+  "title": "Lace curtain and shanty Irish",
+  "url": "https://en.wikipedia.org/wiki/Lace_curtain_and_shanty_Irish",
+  "revision": 1360048312,
+  "fetched": "2026-10-20"
+ },
+ "elbphilharmonie": {
+  "paragraphs": [
+   "The Elbphilharmonie (German pronunciation: [ˈɛlpfɪlhaʁmoˌniː] ; \"Elbe Philharmonic Hall\"), popularly nicknamed Elphi, is a concert hall in the HafenCity quarter of Hamburg, Germany, on the Grasbrook peninsula of the Elbe River.",
+   "The building is designed as a cultural and residential complex. The original 1966 brick façade of the Kaispeicher A, formerly a warehouse, was retained at the base of the building. On top of this a footprint-matching superstructure rests on its own foundation exhibiting a glassy exterior and a wavy roof line. About one thousand glass windows are curved. The building has 26 floors with the first eight floors within the brick façade. It reaches its highest point with 108 metres (354 ft) at the western side. The footprint of the building measures 120,000 square metres (1.3×10^6 ft2). A curved escalator from the main entrance at the east side connects the ground floor with an observation deck, the Plaza, at the 8th floor, the top of the brick section. The Plaza is accessible by the public. It offers a view of Hamburg and the Elbe. From the Plaza the foyer of the concert hall can be reached."
+  ],
+  "title": "Elbphilharmonie",
+  "url": "https://en.wikipedia.org/wiki/Elbphilharmonie",
+  "revision": 1372085699,
+  "fetched": "2026-10-20"
+ },
+ "manufacturers-trust-company-building": {
+  "paragraphs": [
+   "The Manufacturers Trust Company Building, also known as 510 Fifth Avenue, is a commercial building at the southwest corner of West 43rd Street and Fifth Avenue in Midtown Manhattan, New York City, United States. Opened in 1954, it is the first bank branch in the United States to be built in the International Style. Charles Evans Hughes III and Gordon Bunshaft of Skidmore, Owings & Merrill (SOM) designed the building for the Manufacturers Trust Company. The structure has four full stories, a penthouse, and a basement. The facade is made largely of glass panes and aluminum mullions. The first story includes a door for the bank vault, designed by Henry Dreyfuss and visible from the street. The second story, recessed from the facade, has a luminous ceiling. The building's height and design were influenced by a lease restriction that prohibited the construction of a taller building on a portion of the site. A smaller penthouse rises above the fourth story."
+  ],
+  "title": "Manufacturers Trust Company Building",
+  "url": "https://en.wikipedia.org/wiki/Manufacturers_Trust_Company_Building",
+  "revision": 1367053268,
+  "fetched": "2026-10-20"
+ },
+ "jawaharlal-nehru-stadium-delhi": {
+  "paragraphs": [
+   "Jawaharlal Nehru Stadium is a multi-sports stadium located in New Delhi, India. It is named after the first Prime Minister of India. Primarily a venue for football and athletics, it is an all-seater 60,254-capacity stadium, designed and constructed to meet the international standards set by FIFA, the Asian Football Confederation (AFC), and World Athletics (WA). It is the fourth largest stadium in India, 27th largest stadium in Asia and the 103rd largest stadium in the world, in terms of seating capacity.",
+   "The Jawaharlal Nehru Stadium was originally constructed by the Government of India to host the athletic events and ceremonies of the 1982 Asian Games. It also hosted the 1989 Asian Championships in Athletics. The stadium was substantially renovated and modernised for the 2010 Commonwealth Games, hosting all the track and field events and opening and closing ceremonies. In 2010, the final cost of the renovation was announced, which was ₹961 crore (US$210.16 million), making it as the most expensive stadium ever built in India and South Asia. The stadium was redesigned by the German architectural companies Gerkan, Marg and Partners and Schlaich Bergermann Partner."
+  ],
+  "title": "Jawaharlal Nehru Stadium, Delhi",
+  "url": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Stadium,_Delhi",
+  "revision": 1379467803,
+  "fetched": "2026-10-20"
+ },
+ "arcelormittal-orbit": {
+  "paragraphs": [
+   "The ArcelorMittal Orbit (often referred to as the Orbit Tower or its original name, Orbit) is a 114.5-metre (376-foot) sculpture and observation tower in Queen Elizabeth Olympic Park in Stratford, London. It is Britain's largest piece of public art, and is intended to be a permanent lasting legacy of London's hosting of the 2012 Summer Olympic and Paralympic Games, assisting in the post-Olympics regeneration of the Stratford area. Sited between London Stadium (formerly called the Olympic Stadium) and the Aquatics Centre, it allows visitors to view the whole Olympic Park from two observation platforms.",
+   "Orbit was designed by Turner Prize–winning artist Anish Kapoor and Cecil Balmond of Arup Group, an engineering firm. Announced on 31 March 2010, it was expected to be completed by December 2011. The project came about after Mayor of London Boris Johnson and Olympics Minister Tessa Jowell decided in 2008 that the Olympic Park needed \"something extra\". Designers were asked for ideas for an \"Olympic tower\" at least 100 metres (330 ft) high: Orbit was the unanimous choice from proposals considered by a nine-person advisory panel."
+  ],
+  "title": "ArcelorMittal Orbit",
+  "url": "https://en.wikipedia.org/wiki/ArcelorMittal_Orbit",
+  "revision": 1369413026,
+  "fetched": "2026-10-20"
+ },
+ "peace-palace-the-hague": {
+  "paragraphs": [
+   "The Peace Palace (Dutch: Vredespaleis [ˈvreːdəspaːˌlɛis]; French: Palais de la Paix) is an international courthouse in The Hague, Netherlands. It houses the International Court of Justice (which is the principal judicial body of the United Nations), and the Permanent Court of Arbitration (PCA).",
+   "The palace officially opened on 28 August 1913; it was built to provide a courthouse for the PCA, a court created to end war by the Hague Convention of 1899. In addition to its function as the headquarters of the PCA since 1913 and of the International Court of Justice since 1946, the palace continues to serve as the Courts' main hearing facilities and hosts dozen of hearings each year."
+  ],
+  "title": "Peace Palace",
+  "url": "https://en.wikipedia.org/wiki/Peace_Palace",
+  "revision": 1379056573,
+  "fetched": "2026-10-20"
+ },
+ "green-square-library": {
+  "paragraphs": [
+   "One Astor Plaza, also known as 1515 Broadway and formerly the W. T. Grant Building, is a 54-story office building on Times Square in the Theater District of Midtown Manhattan in New York City, New York, U.S. It is owned by SL Green Realty and Allianz, and was designed by Der Scutt of Ely J. Kahn & Jacobs, the building was developed by Sam Minskoff and Sons. It is named after the Hotel Astor, which had occupied the site from 1904 to 1967, and occupies a site bounded by Broadway to the east, 45th Street to the north, Shubert Alley to the west, and 44th Street to the south. One Astor Plaza serves as the corporate headquarters of Skydance Corporation (formerly Paramount Skydance). Prior to the formation of Paramount Skydance in 2025, it served as the headquarters of Paramount Global. The building was then the operational, secondary headquarters and major office space for Paramount Skydance from August 2025 until its acquisition of Warner Bros. Discovery in 2026, when it again became the company’s headquarters."
+  ],
+  "title": "One Astor Plaza",
+  "url": "https://en.wikipedia.org/wiki/One_Astor_Plaza",
+  "revision": 1379595938,
+  "fetched": "2026-10-20"
+ },
+ "sydney-tower": {
+  "paragraphs": [
+   "Sydney Tower, also known as the Sydney Tower Eye, Westfield Tower and formerly albeit still commonly as Centrepoint Tower, is an observation and telecommunications tower that is the tallest structure in Sydney, New South Wales, Australia, as well as the second-tallest observation tower in the Southern Hemisphere. Sydney Tower has also previously been known as the AMP Tower.",
+   "The tower stands 309 m (1,014 ft) above the Sydney central business district (CBD), located on Market Street, between Pitt and Castlereagh Streets. It is accessible from the Pitt Street Mall, Market Street or Castlereagh Street and sits above the Westfield Sydney (formerly Centrepoint) shopping centre. The tower is open to the public, and is one of the most prominent tourist attractions in the city, being visible from a number of vantage points throughout town and from adjoining suburbs. Auckland's Sky Tower is taller but Sydney Tower's main observation deck is almost 30 m (98 ft) higher than the observation deck on Auckland's Sky Tower.",
+   "While the shopping centre at the base of the tower is run by the Scentre Group, the tower itself is occupied by Trippas White Group, which owns and operates Sydney Tower Dining, and Merlin Entertainments, which owns and operates the Sydney Tower Eye observation deck and outside adventure experience known as the SKYWALK."
+  ],
+  "title": "Sydney Tower",
+  "url": "https://en.wikipedia.org/wiki/Sydney_Tower",
+  "revision": 1375839828,
+  "fetched": "2026-10-20"
+ },
+ "tribune-tower": {
+  "paragraphs": [
+   "The Tribune Tower is a 463-foot-tall (141 m), 36-floor neo-Gothic skyscraper located at 435 North Michigan Avenue in Chicago, Illinois, United States. The early 1920s international design competition for the tower became an historic event in 20th-century architecture. Built for Chicago Tribune owner Robert R. McCormick, since 2018 it has been converted into luxury residences and in 2023 won a Driehaus Prize for architectural preservation and adaptive reuse from Landmarks Illinois.",
+   "By 1922 the neo-Gothic skyscraper had become an established design tactic, with the first important so-called \"American Perpendicular Style\" at Cass Gilbert's Woolworth Building of 1913. This was a late example, perhaps the last important example, and criticized for its perceived historicism. Construction on the Tribune Tower was completed in 1925 and reached a height of 462 feet (141 m) above ground. The ornate buttresses surrounding the peak of the tower are especially visible when the tower is lit at night."
+  ],
+  "title": "Tribune Tower",
+  "url": "https://en.wikipedia.org/wiki/Tribune_Tower",
+  "revision": 1376355832,
+  "fetched": "2026-10-20"
+ },
+ "heathrow-terminal-5": {
+  "paragraphs": [
+   "Heathrow Terminal 5 is an airport terminal at Heathrow Airport, the main airport serving London. Opened in 2008, the main building in the complex is the largest free-standing structure in the United Kingdom. Until 2012, the terminal building was used solely by British Airways. It now is used as one of the three global hubs of IAG, served by British Airways and Iberia.",
+   "The terminal was designed to handle 30 million passengers a year. In 2018, Terminal 5 handled 32.1 million passengers on 211,000 flights. It was the busiest terminal at the airport, measured both by passenger numbers and flight movements.",
+   "The building's leading architects were from the Richard Rogers Partnership and production design was completed by aviation architects Pascall+Watson. The engineers for the structure were Arup and Mott MacDonald. The building cost £4 billion and took almost 20 years from conception to completion, including the longest public inquiry in British history."
+  ],
+  "title": "Heathrow Terminal 5",
+  "url": "https://en.wikipedia.org/wiki/Heathrow_Terminal_5",
+  "revision": 1370745183,
+  "fetched": "2026-10-20"
+ },
+ "museo-soumaya": {
+  "paragraphs": [
+   "The Museo Soumaya is a private museum in Mexico City and a non-profit cultural institution with two museum buildings in Mexico City — Plaza Loreto opened in 1994 and Plaza Carso opened in 2011. It has over 66,000 works from 30 centuries of art including sculptures from Pre-Hispanic Mesoamerica, 19th- and 20th-century Mexican art and an extensive repertoire of works by European old masters and masters of modern western art such as Auguste Rodin, Salvador Dalí, Bartolomé Esteban Murillo and Tintoretto. It is called one of the most complete collections of its kind.",
+   "The original building of the Museo Soumaya, opened in 1994, is in the Plaza Loreto of San Ángel in the southern part of Mexico City. The new building in Plaza Carso in the Nuevo Polanco district was designed by the Mexican architect Fernando Romero, son-in-law of Lebanese-Mexican billionaire Carlos Slim Helu, and opened in 2011. The building is named after Lebanese-Mexican Soumaya Domit Gemayel who is the late wife of Carlos Slim Helu. Her relatives are also the important political family Gemayel in Lebanon and is a cousin of the former President's Bashir and Amine Gemayel."
+  ],
+  "title": "Museo Soumaya",
+  "url": "https://en.wikipedia.org/wiki/Museo_Soumaya",
+  "revision": 1369283022,
+  "fetched": "2026-10-20"
+ },
+ "deere-and-company-headquarters": {
+  "paragraphs": [
+   "The John Deere World Headquarters (or John Deere Administration Center) is the corporate headquarters for the agricultural equipment manufacturing company John Deere (also known as Deere & Co.) in Moline, Illinois, United States. The complex consists of four structures, three of which are interconnected. Eero Saarinen designed the original two structures, namely the main and display buildings. Roche-Dinkeloo, a firm founded by Saarinen's former associates Kevin Roche and John Dinkeloo, designed the Deere West office building next to the main building, along with the Financial Services Building on another part of the site. The landscape, designed by Sasaki Associates, includes two lakes.",
+   "The main architect of the two original buildings was Eero Saarinen & Associates; after Saarinen's death in 1961, his associates Kevin Roche and John Dinkeloo oversaw their completion. Ammann & Whitney was the structural engineer, Burns & McDonnell was the complex's mechanical engineer, and Huber, Hunt & Nichols was the general contractor. The project employed several other consultants, including acoustical consultant Bolt Beranek & Newman and lighting designer Richard Kelly. Saarinen personally designed most of the furniture, including desks with built-in telephones. Some chairs were designed by Saarinen's associates Charles Eames and Warren Platner. Roche-Dinkeloo, the successor firm to Saarinen & Associates, designed the Deere West annex in 1978, for which Turner Construction was the main contractor."
+  ],
+  "title": "John Deere World Headquarters",
+  "url": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters",
+  "revision": 1375872609,
+  "fetched": "2026-10-20"
+ },
+ "john-deere-world-headquarters": {
+  "paragraphs": [
+   "The John Deere World Headquarters (or John Deere Administration Center) is the corporate headquarters for the agricultural equipment manufacturing company John Deere (also known as Deere & Co.) in Moline, Illinois, United States. The complex consists of four structures, three of which are interconnected. Eero Saarinen designed the original two structures, namely the main and display buildings. Roche-Dinkeloo, a firm founded by Saarinen's former associates Kevin Roche and John Dinkeloo, designed the Deere West office building next to the main building, along with the Financial Services Building on another part of the site. The landscape, designed by Sasaki Associates, includes two lakes.",
+   "The main architect of the two original buildings was Eero Saarinen & Associates; after Saarinen's death in 1961, his associates Kevin Roche and John Dinkeloo oversaw their completion. Ammann & Whitney was the structural engineer, Burns & McDonnell was the complex's mechanical engineer, and Huber, Hunt & Nichols was the general contractor. The project employed several other consultants, including acoustical consultant Bolt Beranek & Newman and lighting designer Richard Kelly. Saarinen personally designed most of the furniture, including desks with built-in telephones. Some chairs were designed by Saarinen's associates Charles Eames and Warren Platner. Roche-Dinkeloo, the successor firm to Saarinen & Associates, designed the Deere West annex in 1978, for which Turner Construction was the main contractor."
+  ],
+  "title": "John Deere World Headquarters",
+  "url": "https://en.wikipedia.org/wiki/John_Deere_World_Headquarters",
+  "revision": 1375872609,
+  "fetched": "2026-10-20"
+ },
+ "toronto-dominion-centre": {
+  "paragraphs": [
+   "The Toronto-Dominion Centre, or TD Centre, is a skyscraper complex in the Financial District of downtown Toronto, Ontario, Canada. Owned by Cadillac Fairview, it is the global headquarters for its anchor tenant, the Toronto-Dominion Bank, and provides office and retail space for many other businesses. The complex consists of six towers and a pavilion covered in bronze-tinted glass and black-painted steel. Approximately 21,000 people work in the complex, making it the largest commercial office complex in Canada.",
+   "The project was the inspiration of Allen Lambert, former president and chairman of the board of the Toronto-Dominion Bank. Sister-in-law Phyllis Lambert recommended Ludwig Mies van der Rohe as design consultant to the architects, John B. Parkin and Associates and Bregman + Hamann, and the Fairview Corporation as the developer. The towers were completed between 1967 and 1991. An additional building was built outside the campus and purchased in 1998. As Mies was given \"virtually a free hand to create Toronto-Dominion Centre\", the complex, as a whole and in its details, is a classic example of his unique take on the International style and represents the end evolution of Mies's North American period."
+  ],
+  "title": "Toronto-Dominion Centre",
+  "url": "https://en.wikipedia.org/wiki/Toronto-Dominion_Centre",
+  "revision": 1378513719,
+  "fetched": "2026-10-20"
+ },
+ "cairo-international-stadium": {
+  "paragraphs": [
+   "The Cairo International Stadium (Egyptian Arabic: ستاد القاهرة الدولي), formerly known as Nasser Stadium, is an Olympic-standard, multi-use stadium with an all-seated capacity of 75,000. The architect of the stadium is the German Werner March, who designed the Olympic Stadium in Berlin from 1934 to 1936. The engineering and construction supervision of the stadium was performed by ACE Moharram Bakhoum. It is the 69th largest stadium in the world and the 3rd largest stadium in Egypt.",
+   "Located in Nasr City; a suburb north east of Cairo, it was completed in 1960, and was inaugurated by President Gamal Abd El Nasser on 23 July that year which coincided with the eighth anniversary of the Egyptian Revolution of 1952."
+  ],
+  "title": "Cairo International Stadium",
+  "url": "https://en.wikipedia.org/wiki/Cairo_International_Stadium",
+  "revision": 1380368798,
+  "fetched": "2026-10-20"
+ },
+ "bank-of-china-tower": {
+  "paragraphs": [
+   "The Bank of China Tower (BOC Tower) is a skyscraper located in Central, Hong Kong. Located at 1 Garden Road on Hong Kong Island, the tower houses the headquarters of the Bank of China (Hong Kong) Limited. One of the most recognisable landmarks in Hong Kong, the building is notable for its distinct shape and design, consisting of triangular frameworks covered by glass curtain walls.",
+   "Designed by Pritzker Prize-winning architect I. M. Pei, the building is 315.0 m (1,033.5 ft) high with two masts reaching 367.4 m (1,205.4 ft) high. The 72-storey building is located near Central MTR station. This was the tallest building in Hong Kong and Asia from 1990 to 1992, the first building outside the United States to break the 305 m (1,000 ft) mark, and the first composite space frame high-rise building. That also means it was the tallest outside the United States from its completion year, 1990. It is now the fourth tallest skyscraper in Hong Kong, after International Commerce Centre, Two International Finance Centre and Central Plaza.",
+   "A small observation deck on the 43rd floor of the building was once open to the public, but is now closed."
+  ],
+  "title": "Bank of China Tower (Hong Kong)",
+  "url": "https://en.wikipedia.org/wiki/Bank_of_China_Tower_(Hong_Kong)",
+  "revision": 1377266320,
+  "fetched": "2026-10-20"
+ },
+ "122-leadenhall-street": {
+  "paragraphs": [
+   "122 Leadenhall Street, also known as the Leadenhall Building, Leadenhall Tower or informally the Cheesegrater, is a 225-metre-tall (738 ft) skyscraper in central London. It opened in July 2014 and was designed by Rogers Stirk Harbour + Partners. The informal name references its wedge shape similar to the kitchen utensil.",
+   "The building adjoins the Lloyd's Building, also designed by Richard Rogers. The previous, 1960s building on the site was owned by British Land and had been designed by Gollins Melvin Ward. By December 2009, the site was cleared but construction stalled because of the 2008 financial crisis. The project was revived in 2010 by Oxford Properties in partnership with British Land."
+  ],
+  "title": "122 Leadenhall Street",
+  "url": "https://en.wikipedia.org/wiki/122_Leadenhall_Street",
+  "revision": 1377269384,
+  "fetched": "2026-10-20"
+ },
+ "alexandra-road-estate": {
+  "paragraphs": [
+   "The Alexandra Road Estate (officially the Alexandra and Ainsworth Estate, but often referred to as Rowley Way, the name of its main thoroughfare) is a housing estate in the London Borough of Camden, North London, England. It was designed in a brutalist style in 1968 by Neave Brown of Camden Council's Architects Department. Construction work commenced in 1972 and was completed in 1978. It is constructed from site-cast, board-marked, white, unpainted reinforced concrete. Along with 520 apartments, the site also includes a school, community centre, youth club, heating complex, tenants hall, and parkland. Views of the construction of the development are shown in the 1970s TV detective drama series The Sweeney (Series 3, Episode 9, 1976)."
+  ],
+  "title": "Alexandra Road Estate",
+  "url": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate",
+  "revision": 1380349685,
+  "fetched": "2026-10-20"
+ },
+ "cube-houses": {
+  "paragraphs": [
+   "Cube houses (Dutch: kubuswoningen) are a set of innovative houses built in the cities of Helmond and Rotterdam in the Netherlands, designed by architect Piet Blom. They are based on the concept of \"living as an urban roof\": high density housing with sufficient space on the ground level; its main purpose being to optimize the space inside. Blom combatted the ideas of conventional residential architecture by tilting the cube shape on its corner and rested it upon a hexagon-shaped pylon. Blom's main goal was to create an urban area that felt like a village. The cube houses around the world are meant to optimize the space as a house and to efficiently distribute the rooms inside."
+  ],
+  "title": "Cube house",
+  "url": "https://en.wikipedia.org/wiki/Cube_house",
+  "revision": 1367088038,
+  "fetched": "2026-10-20"
+ },
+ "wollaton-hall": {
+  "paragraphs": [
+   "Wollaton Hall is an Elizabethan country house of the 1580s standing on a small but prominent hill in Wollaton Park, Nottingham, England. The house is now Nottingham Natural History Museum, with Nottingham Industrial Museum in the outbuildings. The surrounding parkland has a herd of deer, and is regularly used for large-scale outdoor events such as rock concerts, sporting events and festivals.",
+   "The building consists of a central block dominated by a hall three storeys high, with a stone screen at one end and galleries at either end, with the \"Prospect Room\" above that. From this there are extensive views of the park and surrounding country. There are towers at each corner, projecting out from this top floor. At each corner of the house is a square pavilion of three storeys, with decorative features rising above the roof line. Much of the basement storey is cut from the rock the house sits on."
+  ],
+  "title": "Wollaton Hall",
+  "url": "https://en.wikipedia.org/wiki/Wollaton_Hall",
+  "revision": 1365399060,
+  "fetched": "2026-10-20"
+ },
+ "tokyo-metropolitan-government-building": {
+  "paragraphs": [
+   "The Tokyo Metropolitan Government Building (東京都庁舎, Tōkyō-to Chōsha), also referred to as the Tochō (都庁) for short, is the seat of the Tokyo Metropolitan Government, which governs the special wards, cities, towns, and villages that constitute the Tokyo Metropolis.",
+   "Located in Shinjuku ward, the building was designed by architect Kenzo Tange. It consists of a complex of three structures, each taking up a city block. The tallest of the three is the Tokyo Metropolitan Government Building No.1, a tower 48 stories tall that splits into two sections at the 33rd floor. The building also has three levels below ground. The design of the building was meant to resemble an integrated circuit, while also evoking the look of a Gothic cathedral. It is the tallest city hall in the world.",
+   "The other two buildings in the complex are the eight-story Tokyo Metropolitan Assembly Building (including one underground floor) and Tokyo Metropolitan Government Building No. 2, which has 37 stories including three below ground.",
+   "The two panoramic observation decks, one in each tower on floor 45 (202 meters (663 ft) high), are free of charge to the public and contain gift shops and cafes. The two observation decks are open between 9:30 and 22:00 on alternating days."
+  ],
+  "title": "Tokyo Metropolitan Government Building",
+  "url": "https://en.wikipedia.org/wiki/Tokyo_Metropolitan_Government_Building",
+  "revision": 1345442265,
+  "fetched": "2026-10-20"
+ },
+ "torre-glories": {
+  "paragraphs": [
+   "The Torre Glòries (Catalan pronunciation: [ˈtorə ˈɣlɔɾiəs]), formerly known as Torre Agbar, is a 38-story skyscraper located between Avinguda Diagonal and Carrer Badajoz, near Plaça de les Glòries Catalanes, which marks the gateway to the new technological district of Barcelona, Catalonia, Spain. It was designed by French architect Jean Nouvel in association with the Spanish firm b720 Fermín Vázquez Arquitectos and built by Dragados. The Torre Glòries is located in the Poblenou neighbourhood of Barcelona and it was originally named after its owners, the Agbar Group, a holding company whose interests include the Barcelona water company Aigües de Barcelona.",
+   "According to Jean Nouvel, Torre Agbar is intended to recall the shape of a geyser rising into the air. It was inspired by Montserrat, a mountain near Barcelona. In an interview, he described the tower as having a phallic character. As a result of its unusual shape, the building is known by several nicknames, such as el supositori (\"the suppository\"), l'obús (\"the shell\") and some more scatological ones. It is also somewhat similar in shape to Sir Norman Foster's 30 St. Mary Axe in London, often called \"the Gherkin\". The Agbar Tower measures 144.4 m (473 ft 9 in) in height and consists of 38 storeys, including four underground levels."
+  ],
+  "title": "Torre Glòries",
+  "url": "https://en.wikipedia.org/wiki/Torre_Gl%C3%B2ries",
+  "revision": 1380597218,
+  "fetched": "2026-10-20"
+ },
+ "musikverein": {
+  "paragraphs": [
+   "The Wiener Musikverein (German: [ˌviːnɐ muˈziːkfɐ̯ˌaɪn] or German: [ˌviːnɐ muˈziːkfəˌʁaɪn]; German for 'Viennese Music Association'), commonly shortened to Musikverein, is a concert hall in Vienna, Austria, which is located in the Innere Stadt district. During the 1863 construction of the Vienna Ring Road (Ringstraße) a piece of land for a new concert hall was granted to the Society of Friends of Music in Vienna by Emperor Franz Joseph I of Austria. Designed by Danish-born architect Theophil Hansen, the concert hall has housed the Vienna Philharmonic since its opening in 1870.",
+   "The Musikverein's main entrance is situated on Musikvereinsplatz, between Karlsplatz and Bösendorferstraße. The building is located behind the Hotel Imperial that fronts on Kärntner Ring, which is part of the Vienna Ring Road (Ringstraße).",
+   "The plans were designed by Danish architect Theophil Hansen in the Neoclassical style of an ancient Greek temple, including a concert hall and a smaller chamber music hall. The building was inaugurated on 6 January 1870. A major donor was Nikolaus Dumba, an industrialist and liberal politician of Aromanian Greek - Albanian (Voskopoja) descent, whose name was given by the Austrian government to a small street (Dumbastraße) near the Musikverein. Another important donor, also of Aromanian descent, was Simon Sinas."
+  ],
+  "title": "Musikverein",
+  "url": "https://en.wikipedia.org/wiki/Musikverein",
+  "revision": 1378399343,
+  "fetched": "2026-10-20"
+ },
+ "estadio-nacional-mane-garrincha": {
+  "paragraphs": [
+   "Arena BRB Mané Garrincha, formerly Estádio Nacional de Brasília Mané Garrincha, also known as Estádio Nacional Mané Garrincha, Estádio Nacional de Brasília, or simply Mané Garrincha, is a football stadium and multipurpose arena, located in Brasília, in the Distrito Federal. The stadium is one of several structures that make up Brasília's Ayrton Senna Sports Complex. Since 2019, the stadium and its surroundings - including the Nilson Nelson Gymnasium - are under private administration. Opened in 1974, the stadium had a total capacity of 45,200 people. After having reconstruction completed between 2010 and 2013, the capacity was increased to 72,788 people, making it the second-largest stadium in Brazil after the Maracanã Stadium in Rio de Janeiro and one of the largest in South America.",
+   "It was re-inaugurated on 18 May 2013, following renovations completed in preparation for the 2013 FIFA Confederations Cup and 2014 FIFA World Cup. The original architect was Ícaro de Castro Mello. The project was completed at a cost of US$900 million, against an original budget of US$300 million, making the stadium the third-most expensive football stadium in the world after England's Wembley Stadium and Tottenham Hotspur Stadium."
+  ],
+  "title": "Estádio Nacional Mané Garrincha",
+  "url": "https://en.wikipedia.org/wiki/Est%C3%A1dio_Nacional_Man%C3%A9_Garrincha",
+  "revision": 1374880897,
+  "fetched": "2026-10-20"
+ },
+ "laguna-garzon-bridge": {
+  "paragraphs": [
+   "The Laguna Garzón Bridge (Spanish: Puente de la Laguna Garzón) is a bridge crossing the Laguna Garzón in Uruguay, on the border between the Maldonado and Rocha departments. The bridge is famous for its unusual circular shape and was designed by Uruguayan architect Rafael Viñoly. Laguna Garzón was previously served by a small 2-vehicle ferry that required daylight and good weather to operate. The bridge replaced the ferry in December 2015, providing a crossing for pedestrians and up to approximately 1,000 vehicles a day.",
+   "Multiple explanations have been provided for the bridge's unique circular design, wherein oppositely-bound two-lane traffic is split into separate lanes near the start of the bridge, and reforms near the end. Principally, it is reported that the bridge was designed in such a way in order to slow traffic and allow drivers and pedestrians to \"appreciate panoramic views to one of the most beautiful and pristine coastal landscapes in Uruguay.\". Pedestrian crosswalks allow pedestrian access to sidewalks on both the inner and outer edge of the circle."
+  ],
+  "title": "Laguna Garzón Bridge",
+  "url": "https://en.wikipedia.org/wiki/Laguna_Garz%C3%B3n_Bridge",
+  "revision": 1364559876,
+  "fetched": "2026-10-20"
+ },
+ "raffles-city-chongqing": {
+  "paragraphs": [
+   "Raffles City Chongqing is a complex of eight buildings in Yuzhong District, Chongqing, China, developed by Singaporean real estate developer CapitaLand and constructed by China Construction Third Engineering Bureau Group Co. Ltd.",
+   "Raffles City Chongqing features a 300-metre-long horizontal skybridge called the \"Crystal\" that connects the top of four of the skycrapers. The skybridge is the second highest in the world after the Kingdom Centre in Riyadh, Saudi Arabia. The entire project comprises eight towers with a total of 817,000 square metres of floor space. It was designed by Israeli-Canadian architect Moshe Safdie. It is one of the most expensive buildings built in China. It replaced the 32-story passenger terminal building and hotel built in 1996 and the Three Gorges Hotel that was demolished on August 30, 2012."
+  ],
+  "title": "Raffles City Chongqing",
+  "url": "https://en.wikipedia.org/wiki/Raffles_City_Chongqing",
+  "revision": 1379787018,
+  "fetched": "2026-10-20"
+ },
+ "sapporo-dome": {
+  "paragraphs": [
+   "The Sapporo Dome (札幌ドーム, Sapporo Dōmu), a.k.a. the Daiwa House Premist Dome (大和ハウス プレミストドーム, Daiwa Hausu Puremisuto Dōmu) for sponsorship reasons, is a stadium located in Sapporo, Hokkaido, Japan, and is primarily used for association football. It is the home field of the association football club Hokkaido Consadole Sapporo, and was also home to the baseball team Hokkaido Nippon-Ham Fighters through the 2022 Nippon Professional Baseball season. It was a football venue for the 2020 Summer Olympics, was the venue for the opening ceremony of the 2017 Asian Winter Games, and was used for two matches of the 2019 Rugby World Cup. The stadium also hosted matches during the 2002 FIFA World Cup and serves as the venue for the Apex Legends Global Series (ALGS) Championship, having done so since 2025.",
+   "On 19 July 2024, it was announced that the stadium would be named Daiwa House Premist Dome from 1 August 2024 to 31 July 2028, due to a four-year naming rights contract with Daiwa House, a homebuilding company."
+  ],
+  "title": "Sapporo Dome",
+  "url": "https://en.wikipedia.org/wiki/Sapporo_Dome",
+  "revision": 1380895040,
+  "fetched": "2026-10-20"
+ },
+ "hsbc-main-building": {
+  "paragraphs": [
+   "HSBC Main Building is a headquarters building of The Hongkong and Shanghai Banking Corporation, which is today a wholly owned subsidiary of London-based HSBC Holdings. It is located on the southern side of Statue Square near the location of the old City Hall, Hong Kong (built in 1869, demolished in 1933). The previous HSBC building was built in 1935 and demolished to make way for the current building. The address remains as 1 Queen's Road Central (the north facing side of the building was served by Des Voeux Road Central, which was the seashore, making Queen's Road the main entrance, in contrast to the current primary access coming from Des Voeux Road).",
+   "The new building was designed by the British architect Norman Foster and civil & structural engineers Ove Arup & Partners with service design by J. Roger Preston & Partners. It was constructed by the John Lok / Wimpey Joint Venture. From the concept to completion, it took seven years (1978–1985). The building is 178.8 metres high with 47 storeys and four basement levels. The building has a modular design consisting of five steel modules, which were prefabricated in the UK by Scott Lithgow Shipbuilders near Glasgow and shipped to Hong Kong. About 30,000 tons of steel and 4,500 tons of aluminium were used."
+  ],
+  "title": "HSBC Building (Hong Kong)",
+  "url": "https://en.wikipedia.org/wiki/HSBC_Building_(Hong_Kong)",
+  "revision": 1371984869,
+  "fetched": "2026-10-20"
+ },
+ "royal-festival-hall": {
+  "paragraphs": [
+   "The Royal Festival Hall is a 2,700-seat concert, dance and talks venue within Southbank Centre in London, England. It is situated on the South Bank of the River Thames, not far from Hungerford Bridge, in the London Borough of Lambeth. It is a Grade I listed building, the first post-war building to become so protected (in 1981). The London Philharmonic Orchestra, the Philharmonia Orchestra, the Orchestra of the Age of Enlightenment, the London Sinfonietta, Chineke! and Aurora are resident orchestras at Southbank Centre.",
+   "A 1948 sketch by Martin shows the design of the concert hall as the egg in a box. But the strength of the design was the arrangement of interior space: the central staircase has a ceremonial feel and moves elegantly through the different levels of light and air.",
+   "They were concerned that whilst the scale of the project demanded a monumental building, it should not ape the triumphal classicism of many earlier public buildings. The wide open foyers, with bars and restaurants, were intended to be meeting places for all: there were to be no separate bars for different classes of patron. Because these public spaces were built around the auditorium, they also had the effect of insulating the Hall from the noise of the adjacent railway bridge."
+  ],
+  "title": "Royal Festival Hall",
+  "url": "https://en.wikipedia.org/wiki/Royal_Festival_Hall",
+  "revision": 1367831046,
+  "fetched": "2026-10-20"
+ },
+ "shah-mosque-isfahan": {
+  "paragraphs": [
+   "The Shah Mosque (Persian: مسجد شاه, lit. 'Masjed-e Shah'), also officially known as the Imam Mosque or Imam Khomeini Mosque, is a mosque located on the south side of Naqsh-e Jahan Square in Isfahan, in the province of Isfahan, Iran. Its construction began in 1611, during the Safavid Empire under the order of Abbas the Great, and was completed c. 1630.",
+   "It is regarded as one of the masterpieces of Iranian architecture in the Islamic era. The mosque is registered, along with the Naghsh-e Jahan Square and other surrounding structures, as a UNESCO World Heritage Site. It was added to the Iran National Heritage List on 6 January 1932, administered by the Cultural Heritage, Handicrafts and Tourism Organization of Iran. The mosque is depicted on the reverse of the Iranian 20,000 rials banknote."
+  ],
+  "title": "Shah Mosque (Isfahan)",
+  "url": "https://en.wikipedia.org/wiki/Shah_Mosque_(Isfahan)",
+  "revision": 1378455268,
+  "fetched": "2026-10-20"
+ },
+ "capitol-records-building": {
+  "paragraphs": [
+   "The Capitol Records Building, also known as the Capitol Records Tower, is a 13-story tower building in the Hollywood neighborhood of Los Angeles, California, United States. Designed by Louis Naidorf of Welton Becket Associates, it is one of the city's landmarks and is listed on the National Register of Historic Places. Construction began soon after British music company EMI acquired Capitol Records in 1955, and was completed in April 1956. Located just north of the Hollywood and Vine intersection, the Capitol Records Tower houses the consolidation of Capitol Records' West Coast operations and is home to the recording studios and echo chambers of Capitol Studios. The building was designated as a Los Angeles Historic-Cultural Monument in 2006 and sits in the Hollywood Boulevard Commercial and Entertainment District. The Capitol Records Building, designed by architect Louis Naidorf is considered to be the world's first circular office building ever constructed."
+  ],
+  "title": "Capitol Records Building",
+  "url": "https://en.wikipedia.org/wiki/Capitol_Records_Building",
+  "revision": 1379679958,
+  "fetched": "2026-10-20"
+ },
+ "eltham-palace-courtauld-house": {
+  "paragraphs": [
+   "Eltham Palace is a large house at Eltham ( EL-təm) in southeast London, England, within the Royal Borough of Greenwich. The house consists of the medieval great hall of a former royal residence, to which an Art Deco extension was added in the 1930s. The hammerbeam roof of the great hall is the third-largest of its type in England, and the Art Deco interior of the house has been described as a \"masterpiece of modern design\". The house is owned by the Crown Estate and managed by English Heritage, which took over responsibility for the great hall in 1984 and the rest of the site in 1995."
+  ],
+  "title": "Eltham Palace",
+  "url": "https://en.wikipedia.org/wiki/Eltham_Palace",
+  "revision": 1377975943,
+  "fetched": "2026-10-20"
+ },
+ "palau-de-la-musica-catalana": {
+  "paragraphs": [
+   "Palau de la Música Catalana (Catalan pronunciation: [pəˈlaw ðə lə ˈmuzikə kətəˈlanə], English: Palace of Catalan Music) is a concert hall in Barcelona, Catalonia, Spain. Designed in the Catalan modernista style by the architect Lluís Domènech i Montaner, it was built between 1905 and 1908 for Orfeó Català, a choral society founded in 1891 that was a leading force in the Catalan cultural movement that came to be known as the Renaixença (Catalan Rebirth). It was inaugurated on 9 February 1908."
+  ],
+  "title": "Palau de la Música Catalana",
+  "url": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana",
+  "revision": 1377659637,
+  "fetched": "2026-10-20"
+ },
+ "european-investment-bank": {
+  "paragraphs": [
+   "The European Investment Bank (EIB) is the European Union's investment bank and is owned by the 27 member states. It is the largest multilateral financial institution in the world. The EIB finances and invests both through equity and debt to companies and projects that achieve the policy aims of the European Union through loans, equity and guarantees.",
+   "The EIB focuses on the areas of climate, environment, small and medium-sized enterprises (SMEs), development, cohesion and infrastructure. It has played a large role in providing finance during crises including the 2008 financial crisis and the COVID-19 pandemic. Over 60 years since its inception in 1958 to 2018 the EIB has invested over 1.1 trillion euros. In 2025, the EIB signed €86 billion in new financing, while total EIB Group financing reached a record €100 billion. It primarily funds projects that \"cannot be entirely financed by the various means available in the individual Member States\"."
+  ],
+  "title": "European Investment Bank",
+  "url": "https://en.wikipedia.org/wiki/European_Investment_Bank",
+  "revision": 1370855516,
+  "fetched": "2026-10-20"
+ },
+ "moscow-state-university-main-building": {
+  "paragraphs": [
+   "The main building of Moscow State University (Russian: главное здание МГУ, romanized: glavnoe zdanie MGU) is a 239-metre (784 ft), 36-story (central part) skyscraper in Moscow, Russia. It was designed by Lev Rudnev as the headquarters of Moscow State University, and is the tallest among the \"Seven Sisters\" constructed in Moscow between 1947 and 1953 in the Stalinist architectural style.",
+   "It was the tallest building in Europe for 37 years, from 1953 to 1990, before being surpassed by the Messeturm in Germany. As of 2024, it remains the tallest educational building in the world."
+  ],
+  "title": "Main building of Moscow State University",
+  "url": "https://en.wikipedia.org/wiki/Main_building_of_Moscow_State_University",
+  "revision": 1355124759,
+  "fetched": "2026-10-20"
+ },
+ "ford-foundation-building": {
+  "paragraphs": [
+   "The Ford Foundation Center for Social Justice (also known as 320 East 43rd Street, 321 East 42nd Street, or the Ford Foundation Building) is a 12-story office building in East Midtown Manhattan, New York City, United States. Completed in 1967, it was designed in the late modernist style by architect Kevin Roche and engineering partner John Dinkeloo of Roche-Dinkeloo. The building was commissioned as the headquarters of the Ford Foundation, the largest private foundation in the United States when the edifice was constructed.",
+   "The Ford Foundation Center for Social Justice is 12 stories high and reaches 174 feet (53 m). It was designed by Eero Saarinen Associates (renamed Roche-Dinkeloo in 1966), composed of Kevin Roche and John Dinkeloo, who took over the firm after its namesake, their former boss Eero Saarinen, died in 1961. Roche was involved primarily in design, while Dinkeloo oversaw the construction. Turner Construction was the contractor for the building. Cosentini Associates were the mechanical engineers, Severud Associates were the structural engineers, Michael J. Kodaras was the acoustic consultant, and Warren Platner was the interior-design adviser; Eugene Festa and Philip Kinsella were also hired to advise on the design."
+  ],
+  "title": "Ford Foundation Center for Social Justice",
+  "url": "https://en.wikipedia.org/wiki/Ford_Foundation_Center_for_Social_Justice",
+  "revision": 1364436867,
+  "fetched": "2026-10-20"
+ },
+ "balfron-tower": {
+  "paragraphs": [
+   "Balfron Tower is a 27-storey residential building in Poplar, located in the London Borough of Tower Hamlets, London. Built in a Brutalist style, it forms part of the Brownfield Estate, an area of social housing between Chrisp Street Market and the A12 northern approach to the Blackwall Tunnel. It was designed by Ernő Goldfinger in 1963 for the London County Council, built 1965–67 by the GLC, and has been a listed building since 1996 (Grade II*, originally Grade II). Balfron Tower is stylistically similar to Goldfinger's later Trellick Tower in North Kensington, within West London.",
+   "Balfron Tower is 84 metres (276 ft) high and contains 146 homes (136 flats and 10 maisonettes). Lifts serve every third floor; thus, to reach a flat on the 11th, 12th, or 13th floors, residents or visitors would take a lift to the 12th. The lift shaft sits in a separate service tower, also containing laundry rooms and rubbish chutes, and joined to the residential tower by eight walkways.",
+   "The maisonettes are on floors 1 and 2, and 15 and 16, causing a break in the pattern of fenestration on the west side.",
+   "The service tower is topped by a boiler room. In 1985, the original concrete boiler flues were replaced with metal, due to concrete decay."
+  ],
+  "title": "Balfron Tower",
+  "url": "https://en.wikipedia.org/wiki/Balfron_Tower",
+  "revision": 1364371271,
+  "fetched": "2026-10-20"
+ },
+ "st-catherines-college-oxford": {
+  "paragraphs": [
+   "St Catherine's College (colloquially called St Catz or Catz) is one of the constituent colleges of the University of Oxford. The college developed from the St Catherine's Society; it was granted full status as a college in 1962, after a campaign by the historian Alan Bullock, who became the first master of the college, and later vice-chancellor of the university. In 1974, it was one of the first men's colleges to admit women. As of November 2024, it has 494 undergraduate students and 337 graduate students, making it one of the largest colleges in Oxbridge.",
+   "Designed by Danish architect Arne Jacobsen, the college was built in an egalitarian architectural style that maximises the number of rooms for academically qualified students who lack the financial resources to study at Oxford. Though, in modern times the college has ceased being distinctly egalitarian, its students coming from a variety of backgrounds, with 27.7% of undergraduates being privately educated, exceeding centuries-old colleges such as St. Edmund Hall (24.8%), Hertford College (23%), Brasenose College (19.3%), and more modern colleges such as Mansfield College (13.8%).",
+   "In September 2023, access to areas of the college was restricted due to safety concerns around the use of reinforced autoclaved aerated concrete (RAAC)."
+  ],
+  "title": "St Catherine's College, Oxford",
+  "url": "https://en.wikipedia.org/wiki/St_Catherine%27s_College,_Oxford",
+  "revision": 1380809353,
+  "fetched": "2026-10-20"
+ },
+ "guangzhou-opera-house": {
+  "paragraphs": [
+   "Guangzhou Opera House (广州大剧院) is a public municipal opera house in Guangzhou, Guangdong, China. Designed by Zaha Hadid, it opened on 9 May in 2010.",
+   "The structure was designed by Iraqi architect Zaha Hadid. It is conceived as two rocks washed away by the Pearl River. Its freestanding concrete auditorium set within an exposed granite and glass-clad steel frame took over five years to build, and was praised upon opening by architectural critic Jonathan Glancey in The Guardian, who called it \"at once highly theatrical and insistently subtle.\""
+  ],
+  "title": "Guangzhou Opera House",
+  "url": "https://en.wikipedia.org/wiki/Guangzhou_Opera_House",
+  "revision": 1362482308,
+  "fetched": "2026-10-20"
+ },
+ "theme-building": {
+  "paragraphs": [
+   "The Theme Building is a structure at Los Angeles International Airport (LAX), considered an architectural example of the Space Age design style. Influenced by \"Populuxe\" architecture, it is an example of the mid-century modern design movement, later to become known as \"Googie\". In 1993, the city designated the exterior and interior of the Theme Building as a historic-cultural monument.",
+   "The distinctive white building resembles a flying saucer that has landed on its four legs. The initial design was created by James Langenheim, of Pereira & Luckman, subsequently taken to fruition by a team of architects and engineers, headed by William Pereira and Charles Luckman, that also included Paul Williams and Welton Becket. The civil engineer was Richard Bradshaw.",
+   "The appearance of the building's signature crossed arches as homogeneous structures is a design illusion, created by topping four steel-reinforced concrete legs extending approximately 15 feet above the ground with hollow stucco-covered steel trusses. To counteract earthquake movements, the Theme Building was retrofitted in 2010 with a tuned mass damper without changing its outward appearance.",
+   "Constructed near the beginning of the Space Age, the building is an example of how aeronautics and pop culture, design and architecture came together in Los Angeles."
+  ],
+  "title": "Theme Building",
+  "url": "https://en.wikipedia.org/wiki/Theme_Building",
+  "revision": 1380458446,
+  "fetched": "2026-10-20"
+ },
+ "istiqlal-mosque": {
+  "paragraphs": [
+   "Istiqlal Mosque (Indonesian: Masjid Istiqlal, lit. 'Independence Mosque'; Arabic: مَسْجِد ٱلْإِسْتِقْلَال, romanized: Masjid al-Istiqlāl, lit. 'Mosque of the Independence') in Jakarta, Indonesia is the largest mosque in Southeast Asia and the ninth largest mosque in the world in terms of worshipper capacity. Built to commemorate Indonesian independence, this national mosque of Indonesia was named \"Istiqlal\", an Arabic word for \"independence\". The mosque was opened to the public on 22 February 1978. Within Jakarta, the mosque is positioned next to Merdeka Square, the Jakarta Cathedral (Catholic), and also of the Immanuel Church (Reformed).",
+   "The mosque has seven entrances, and all seven gates are named after Al-Asmaul-Husna, the names of God in Islam. The number seven represents the Seven Heavens in Islamic cosmology. The wudu (ablution) fountains are on the ground floor, while the main prayer hall and main courtyard are on the first floor. The building consists of two connected rectangular structures: the main structure and the smaller secondary structure. The smaller one serves as a main gate as well as stairs and prayer spaces."
+  ],
+  "title": "Istiqlal Mosque, Jakarta",
+  "url": "https://en.wikipedia.org/wiki/Istiqlal_Mosque,_Jakarta",
+  "revision": 1375446146,
+  "fetched": "2026-10-20"
+ },
+ "voortrekker-monument": {
+  "paragraphs": [
+   "The Voortrekker Monument is located just south of Pretoria in South Africa. The granite structure is located on a hilltop, and was raised to commemorate the Voortrekkers who left the Cape Colony between 1835 and 1854. It was designed by the architect Gerard Moerdijk.",
+   "On 8 July 2011, the Voortrekker Monument was declared a National Heritage Site by the South African Heritage Resource Agency."
+  ],
+  "title": "Voortrekker Monument",
+  "url": "https://en.wikipedia.org/wiki/Voortrekker_Monument",
+  "revision": 1375281047,
+  "fetched": "2026-10-20"
+ },
+ "56-leonard-street": {
+  "paragraphs": [
+   "56 Leonard Street (known colloquially as the Jenga Building or Jenga Tower) is an 821 ft-tall (250 m), 57-story skyscraper on Leonard Street in the neighborhood of Tribeca in Manhattan, New York City. Completed in 2017, the building was designed by the Swiss architecture firm Herzog & de Meuron, which describes the building as \"houses stacked in the sky.\" It is the tallest structure in Tribeca.",
+   "56 Leonard is designed by the 2001 Pritzker Prize-winning Swiss architecture firm Herzog & de Meuron. Anish Kapoor, known for the public sculpture Cloud Gate in Chicago, designed a similar sculpture to sit at the base of the building. Herzog & de Meuron also designed the building's interiors, which include custom-designed kitchens, fixtures, bathrooms, and fireplaces. Goldstein, Hill & West Architects LLP is the architect of record."
+  ],
+  "title": "56 Leonard Street",
+  "url": "https://en.wikipedia.org/wiki/56_Leonard_Street",
+  "revision": 1374718217,
+  "fetched": "2026-10-20"
+ },
+ "palau-sant-jordi": {
+  "paragraphs": [
+   "The Palau Sant Jordi (Catalan pronunciation: [pəˈlaw ˈsaɲ ˈʒɔɾði], English: St. George's Palace) is a multi-purpose indoor arena that is part of the Olympic Ring complex located in Barcelona, Catalonia, Spain. Designed by the Japanese architect Arata Isozaki, it was opened in 1990. The maximum seating capacity of the arena is 17,960. It is the largest indoor arena by capacity in Spain.",
+   "The Palau Sant Jordi was one of the main venues of the 1992 Summer Olympics, hosting the artistic gymnastics, handball, and volleyball events. Today, it is used for a variety of indoor sport events as well as for concerts and other cultural activities, due to its great flexibility."
+  ],
+  "title": "Palau Sant Jordi",
+  "url": "https://en.wikipedia.org/wiki/Palau_Sant_Jordi",
+  "revision": 1381010118,
+  "fetched": "2026-10-20"
+ },
+ "djamaa-el-djazair": {
+  "paragraphs": [
+   "The Djamaa el Djazaïr (Arabic: جامع الجزائر), also known as the Great Mosque of Algiers, is a large mosque located in Mohammadia, in the Dar El Beïda District of Algiers, Algeria. Opened in April 2019, it houses the world's tallest minaret that is 265 metres (869 ft) high, and is the third-largest mosque in the world after the Great Mosque of Mecca and Al-Masjid an-Nabawi of Medina in Saudi Arabia.",
+   "The architecture of the mosque is based on square geometry combining modern and traditional styles. It evokes the oldest type of mosque, with colonnades opening upwards like a flower while providing space for technical conduits.",
+   "The mosque sits on a site covering 27.75 hectares (68.6 acres) and overlooks the Mediterranean Sea. The prayer hall has a capacity of 37,000 worshippers, while the structure including the compound can house up to 120,000 worshippers and has parking space for 7,000 cars. The complex also houses a Quran school, a park, a library, staff housing area, a fire station, a museum of Islamic art, and a research center on the history of Algeria."
+  ],
+  "title": "Djamaa el Djazaïr",
+  "url": "https://en.wikipedia.org/wiki/Djamaa_el_Djaza%C3%AFr",
+  "revision": 1366942962,
+  "fetched": "2026-10-20"
+ },
+ "church-of-saint-george-lalibela": {
+  "paragraphs": [
+   "The Church of Saint George (Amharic: ቤተ ጊዮርጊስ, romanized: Betä Giyorgis) is one of eleven rock-hewn monolithic churches in Lalibela, a town in the Amhara Region of Ethiopia. Originally named Roha (Warwar), the historical and religious site was named Lalibela after the King Gebre Mesqel Lalibela of the Zagwe dynasty, who commissioned its construction. He is regarded as a saint by the Ethiopian Orthodox Tewahedo Church."
+  ],
+  "title": "Church of Saint George, Lalibela",
+  "url": "https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela",
+  "revision": 1363749576,
+  "fetched": "2026-10-20"
+ },
+ "dallas-city-hall": {
+  "paragraphs": [
+   "Dallas City Hall is the seat of municipal government of the city of Dallas, Texas, United States. It is located at 1500 Marilla Street in the Government District of downtown Dallas. The current building, the city's fifth city hall, was completed in 1978 and replaced the Dallas Municipal Building.",
+   "When you do a city hall, it has to convey an image of the people, and this had to represent the people of Dallas ... The people I met – rich and poor, powerful and not so powerful – were all very proud of their city. They felt that Dallas was the greatest city there was, and I could not disappoint them."
+  ],
+  "title": "Dallas City Hall",
+  "url": "https://en.wikipedia.org/wiki/Dallas_City_Hall",
+  "revision": 1380763120,
+  "fetched": "2026-10-20"
+ },
+ "salk-institute": {
+  "paragraphs": [
+   "The Salk Institute for Biological Studies is a scientific research institute in the La Jolla community of San Diego, California. The independent, non-profit institute was founded in 1960 by Jonas Salk, the developer of the polio vaccine; among the founding consultants were Jacob Bronowski and Francis Crick. Construction of the research facilities began in spring of 1962. The Salk Institute consistently ranks among the top institutions in the US in terms of research output and quality in the life sciences.",
+   "The Salk Institute, La Jolla, California (1959–1965) was to be a campus composed of three clusters: meeting and conference areas, living quarters, and laboratories. Only the laboratory cluster, consisting of two parallel blocks enclosing a water garden, was built. The two laboratory blocks frame a long view of the Pacific Ocean, accentuated by a thin linear fountain that seems to reach for the horizon.",
+   "The campus was designed by Louis Kahn. Salk had sought a beautiful campus in order to draw the best researchers in the world. The original buildings of the Salk Institute were designated a historical landmark in 1991. The entire 27-acre (11 ha) site was deemed eligible by the California Historical Resources Commission in 2006 for listing in the US National Register of Historic Places. It is \"arguably the defining work\" of Kahn."
+  ],
+  "title": "Salk Institute for Biological Studies",
+  "url": "https://en.wikipedia.org/wiki/Salk_Institute_for_Biological_Studies",
+  "revision": 1373051793,
+  "fetched": "2026-10-20"
+ },
+ "unite-dhabitation": {
+  "paragraphs": [
+   "The Unité d'habitation (French pronunciation: [ynite dabitasjɔ̃], Housing Unit; Occitan: Unitat d'abitacion) is a modernist residential housing typology developed by Le Corbusier, with the collaboration of painter-architect Nadir Afonso. It formed the basis of several housing developments throughout Europe designed by Le Corbusier and sharing the same name and reached prominence in the 1950s and 60s.",
+   "The most famous of these buildings is located in the southern part of Marseille, France. It was added to the UNESCO World Heritage List in 2016 because of its importance to the development of modernist architecture, along with 16 other works by Le Corbusier. It is also designated a historic monument by the French Ministry of Culture. It was damaged by fire on 9 February 2012."
+  ],
+  "title": "Unité d'habitation",
+  "url": "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation",
+  "revision": 1374940294,
+  "fetched": "2026-10-20"
+ },
+ "sir-john-soane-s-museum": {
+  "paragraphs": [
+   "Sir John Soane's Museum is a house museum, located next to Lincoln's Inn Fields in Holborn, London, which was formerly the home of neo-classical architect John Soane. It holds many drawings and architectural models of Soane's projects and a large collection of paintings, sculptures, drawings, and antiquities that he acquired over many years. The museum was established during Soane's lifetime by a private act of Parliament, Sir John Soane's Museum Act 1833 (3 & 4 Will. 4. c. 4 Pr.), which took effect on his death in 1837. Soane engaged in this lengthy parliamentary campaign in order to disinherit his son, whom he disliked intensely. The act stipulated that on Soane's death, his house and collections would pass into the care of a board of trustees acting on behalf of the nation, and that they would be preserved as nearly as possible exactly in the state they were at his death. The museum's trustees remained completely independent, relying only on Soane's original endowment, until 1947. Since then, the museum has received an annual Grant-in-Aid from the British Government via the Department for Culture, Media and Sport. Only 90 visitors are allowed in the museum at a time."
+  ],
+  "title": "Sir John Soane's Museum",
+  "url": "https://en.wikipedia.org/wiki/Sir_John_Soane%27s_Museum",
+  "revision": 1369011409,
+  "fetched": "2026-10-20"
+ },
+ "manhattan-municipal-building": {
+  "paragraphs": [
+   "The David N. Dinkins Municipal Building (originally the Municipal Building and later known as the Manhattan Municipal Building) is a 40-story, 580-foot (180 m) building at 1 Centre Street, east of Chambers Street, in the Civic Center neighborhood of Manhattan in New York City, United States. The structure was built to accommodate increased governmental space demands after the 1898 consolidation of the city's five boroughs. Construction began in 1909 and continued through 1914 at a total cost of $12 million (equivalent to $276,794,000 in 2024).",
+   "William M. Kendall of the architectural firm McKim, Mead & White designed the Municipal Building. Two of the firm's other partners, Burt L. Fenner and Teunis J. van der Bent, were tasked with leading construction, while the city's Department of Bridges supervised the project. Alexander Johnson was chief engineer, and Purdy and Henderson were consulting engineers. In addition, the Thompson–Starrett Company was the general contractor. The Mount Waldo Construction Company provided the granite, while Robert Wetherill & Co. installed the original elevators. The foundations were dug by the Foundation Company. The building's architectural style, influential in the civic construction of other American cities, has been \"variously described as Roman Imperial, Italian Renaissance, French Renaissance, or Beaux-Arts\", according to architectural writers Sarah Landau and Carl W. Condit."
+  ],
+  "title": "Manhattan Municipal Building",
+  "url": "https://en.wikipedia.org/wiki/Manhattan_Municipal_Building",
+  "revision": 1377934198,
+  "fetched": "2026-10-20"
+ },
+ "chapel-of-the-holy-cross": {
+  "paragraphs": [
+   "The Chapel of the Holy Cross is a Roman Catholic chapel built from 1954 to 1956 into the red rock buttes of Sedona, Arizona, within the Coconino National Forest. It was inspired and commissioned by local rancher and sculptor Marguerite Brunswig Staude, and was designed by August K. Strotz of the firm of Anshen & Allen, with Richard Hein of the firm as the project architect. The chapel is under the auspices of the episcopal see of the Roman Catholic Diocese of Phoenix and its ministry is conducted by St. John Vianney Parish, Sedona.",
+   "The chapel was added to the National Register of Historic Places in 2011."
+  ],
+  "title": "Chapel of the Holy Cross (Sedona, Arizona)",
+  "url": "https://en.wikipedia.org/wiki/Chapel_of_the_Holy_Cross_(Sedona,_Arizona)",
+  "revision": 1367240767,
+  "fetched": "2026-10-20"
+ },
+ "empire-state-plaza": {
+  "paragraphs": [
+   "The Governor Nelson A. Rockefeller Empire State Plaza (known commonly as the Empire State Plaza, and also as the South Mall or Albany Mall) is a complex of several state government buildings in downtown Albany, New York.",
+   "The complex was built between 1965 and 1976 at an estimated total cost of $2 billion. It houses several departments of the New York State administration and is integrated with the New York State Capitol, completed in 1899, which houses the state legislature. Among the offices at the plaza are the Department of Health and the Biggs Laboratory of the Wadsworth Center. The Empire State Art Collection, a major public collection of 1960s and 1970s monumental abstract artworks, is on permanent display throughout the site. The New York State Office of General Services maintains the plaza. The Nelson A. Rockefeller Empire State Plaza Performing Arts Center Corporation is a New York state public-benefit corporation that was created in 1979 to manage the performing arts facility in the plaza."
+  ],
+  "title": "Empire State Plaza",
+  "url": "https://en.wikipedia.org/wiki/Empire_State_Plaza",
+  "revision": 1372202270,
+  "fetched": "2026-10-20"
+ },
+ "cathedral-of-our-lady-of-the-angels": {
+  "paragraphs": [
+   "The Cathedral of Our Lady of the Angels (Spanish: Catedral de Nuestra Señora de los Ángeles), informally known as the COLA or the Los Angeles Cathedral (Spanish: Catedral de Los Ángeles), is the metropolitan cathedral of the Roman Catholic Church in Los Angeles, California, in the United States. It serves as the mother church for the Archdiocese of Los Angeles, as well as the seat of Archbishop José Horacio Gómez.",
+   "The architectural design was selected from a pool of 38 submissions from international architectural firms by a jury of experts. These experts came from the J. Paul Getty Trust, California Institute of the Arts, the University of California Los Angeles, the University of Southern California, Harvard University and the American Academy in Rome. However, the decision to build a cathedral utilizing contemporary architecture drew criticisms from those who preferred the Gothic Revival stylings typical of preceding centuries.",
+   "Mahony hired the Spanish Rafael Moneo to serve as architect. The construction was supervised by Reverend Richard S. Vosko, a liturgical design consultant."
+  ],
+  "title": "Cathedral of Our Lady of the Angels",
+  "url": "https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_of_the_Angels",
+  "revision": 1369568433,
+  "fetched": "2026-10-20"
+ },
+ "shanghai-museum": {
+  "paragraphs": [
+   "The Shanghai Museum is a public municipal museum of ancient Chinese art, situated on the People's Square in the Huangpu District of Shanghai, China. It is funded by the Shanghai Municipal Culture and Tourism Bureau.",
+   "Rebuilt at its current location in 1996, it is famous for its large collection of rare cultural pieces."
+  ],
+  "title": "Shanghai Museum",
+  "url": "https://en.wikipedia.org/wiki/Shanghai_Museum",
+  "revision": 1363418678,
+  "fetched": "2026-10-20"
+ },
+ "hospital-de-sant-pau": {
+  "paragraphs": [
+   "The former Hospital de la Santa Creu i Sant Pau (Catalan pronunciation: [uspiˈtal də lə ˈsantə ˈkɾɛw i ˈsam ˈpaw], English: Hospital of the Holy Cross and Saint Paul) in the neighborhood of El Guinardó, Barcelona, Catalonia, Spain, is a complex built between 1901 and 1930. It is one of the most prominent works of the Catalan modernisme architect Lluís Domènech i Montaner. The complex was listed as a Conjunto Histórico in 1978. Together with Palau de la Música Catalana, it was declared a UNESCO World Heritage Site in 1997.",
+   "Composed of 12 pavilions connected through long underground galleries within its large green space, Sant Pau is the largest complex built in Art Nouveau style. It was a fully functioning hospital until June 2009, when the new hospital opened next to it. It underwent restoration for use as a museum and cultural center, and re-opened in 2014. An important historical and architectural masterpiece, the building also offers workspace to high-profile social organizations such as the WHO, Banco Farmacéutico, Barcelona Health Hub, EMEA, UN-HABITAT and more. The cultural center also has a historical archive where records and documents of remarkable occurrences related to the hospital and the city can be found."
+  ],
+  "title": "Hospital de Sant Pau",
+  "url": "https://en.wikipedia.org/wiki/Hospital_de_Sant_Pau",
+  "revision": 1377654863,
+  "fetched": "2026-10-20"
+ },
+ "seoul-olympic-stadium": {
+  "paragraphs": [
+   "The Seoul Olympic Stadium (Korean: 서울올림픽주경기장), a.k.a. Jamsil Olympic Stadium (formerly romanised as Chamshil), is a multi-purpose stadium in Seoul, South Korea. It is the main stadium built for the 1988 Summer Olympics and the 10th Asian Games in 1986. It is the centrepiece of the Seoul Sports Complex in the Songpa District, in the southeast of the city south of the Han River. It is the largest stadium in South Korea.",
+   "This multi-purpose stadium was designed by Kim Swoo-geun. The lines of the stadium's profile imitate the elegant curves of a Joseon white porcelain. Spectator seats are distributed across two tiers beneath a partially covered roof structure; seating capacity is 69,950.",
+   "Before its construction, Seoul's largest venues were Dongdaemun Stadium and Hyochang Stadium. Seating 30,000 and 20,000 respectively, they were too small to attract world-class sporting events. Construction on the new stadium began in 1977 with the aim of staging the Asian Games in 1986. When Seoul was awarded the Games of the XXIV Olympiad in September 1981, this stadium became the centrepiece."
+  ],
+  "title": "Seoul Olympic Stadium",
+  "url": "https://en.wikipedia.org/wiki/Seoul_Olympic_Stadium",
+  "revision": 1372229276,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-old-and-new-art": {
+  "paragraphs": [
+   "The Museum of Old and New Art (MONA) is an art museum located within the Moorilla winery on the Berriedale peninsula in Hobart, Tasmania, Australia. It is the largest privately funded museum in the Southern Hemisphere. MONA houses ancient, modern and contemporary art from the David Walsh collection. Noted for its central themes of sex and death, the museum has been described by Walsh as a \"subversive adult Disneyland\".",
+   "The single-storey MONA building appears at street level to be dominated by its surroundings, but its interior possesses a spiral staircase that leads down to three larger levels of labyrinthine display spaces built into the side of the cliffs around Berriedale peninsula. The decision to build it largely underground was taken, according to Walsh, to preserve the heritage setting of the two Roy Grounds houses on the property. Walsh has also said that he wanted a building that \"could sneak up on visitors rather than broadcast its presence ... 'a sense of danger' that would enliven the experience of viewing art\". Most visitors approach by ferry up the River Derwent."
+  ],
+  "title": "Museum of Old and New Art",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_Old_and_New_Art",
+  "revision": 1380035735,
+  "fetched": "2026-10-20"
+ },
+ "scottish-parliament-building": {
+  "paragraphs": [
+   "The Scottish Parliament Building is the home of the Scottish Parliament at Holyrood in central Edinburgh. Construction of the building commenced in June 1999 and the Members of the Scottish Parliament (MSPs) held their first debate in the new building on 7 September 2004. The formal opening by Queen Elizabeth II took place on 9 October 2004. Enric Miralles, the controversial Spanish architect who designed the building, died before its completion.",
+   "Following on from the site selection, the Scottish Office announced that an international competition would be held to find a designer for a new building to house the Parliament. A design committee was appointed under the chairmanship of Dewar, and was tasked with choosing from a shortlist of designs. Proposals were submitted from internationally renowned architects such as Rafael Viñoly, Michael Wilford and Richard Meier. Twelve designs were selected in March 1998, which were whittled down to five by the following May. The five final designs were put on public display throughout Scotland in June 1998. Feedback from the public displays showed that the designs of the Spanish architect Enric Miralles were amongst the most popular. The design team took account of public opinion on the designs and invited all five shortlisted entrants to make presentations on their proposed designs before announcing a winner."
+  ],
+  "title": "Scottish Parliament Building",
+  "url": "https://en.wikipedia.org/wiki/Scottish_Parliament_Building",
+  "revision": 1364627787,
+  "fetched": "2026-10-20"
+ },
+ "australian-war-memorial": {
+  "paragraphs": [
+   "The Australian War Memorial (AWM) is a national war memorial, museum and archive dedicated to all Australians who have died as a result of war, including peacekeeping duties. The AWM is located in Campbell, a suburb of the Australian capital city of Canberra. The grounds include five buildings and a sculpture garden. Most of the museum galleries and commemorative areas are contained in the Memorial Building.",
+   "Plans to build a national war memorial and museum were initiated shortly after the First World War, with the AWM formally established through federal legislation in 1925. Designs for the AWM were created by Emil Sodersten and John Crust, although the onset of the Great Depression delayed its construction. Work on the Memorial Building progressed in the mid-1930s, and the AWM was officially opened to the public in 1941. Several structures designed by Denton Corker Marshall were built on the grounds from the 1980s to 2000s, to house additional museum exhibits and administrative offices. In 1993, the Tomb of the Unknown Australian Soldier was installed inside the Memorial Building's Hall of Memory."
+  ],
+  "title": "Australian War Memorial",
+  "url": "https://en.wikipedia.org/wiki/Australian_War_Memorial",
+  "revision": 1376644971,
+  "fetched": "2026-10-20"
+ },
+ "chiswick-house": {
+  "paragraphs": [
+   "Chiswick House is a Neo-Palladian style villa in the Chiswick district of London, England. A \"glorious\" example of Neo-Palladian architecture in west London, the house was designed and built by Richard Boyle, 3rd Earl of Burlington (1694–1753), and completed in 1729. The house and garden occupy 26.33 hectares (65.1 acres). The garden was created mainly by the architect and landscape designer William Kent, and it is one of the earliest examples of the English landscape garden.",
+   "Chiswick House was an attempt by Lord Burlington to create a Roman villa, rather than a Renaissance pastiche, situated in a symbolic Roman garden. Chiswick Villa is inspired in part by several buildings of the 16th-century Italian architects Andrea Palladio and his assistant Vincenzo Scamozzi. The house is often said to be directly inspired by Palladio's Villa Capra \"La Rotonda\" near Vicenza, as architect Colen Campbell had offered Lord Burlington a design for a villa closely based on the Villa Capra for his use at Chiswick. However, although this was clearly influential, Lord Burlington rejected this design; it was subsequently used at Mereworth Castle, Kent."
+  ],
+  "title": "Chiswick House",
+  "url": "https://en.wikipedia.org/wiki/Chiswick_House",
+  "revision": 1363004230,
+  "fetched": "2026-10-20"
+ },
+ "aalto-university-undergraduate-centre": {
+  "paragraphs": [
+   "Aalto University (Finnish: Aalto-yliopisto; Swedish: Aalto-universitetet) is a public research university located in Espoo, Finland. It was established in 2010 as a merger of three major Finnish universities: the Helsinki University of Technology, the Helsinki School of Economics and the University of Art and Design Helsinki. The close collaboration between the scientific, business and arts communities is intended to foster multi-disciplinary education and research.",
+   "The Finnish government, in 2010, set out to create a university that fosters innovation, merging the three institutions into one. The university is composed of six schools with close to 17,000 students and 4,000 staff members, making it Finland's second largest university. The main campus of Aalto University is located in Otaniemi, Espoo. Aalto University Executive Education and Professional Development also operates in Otaniemi. In addition to the Helsinki metropolitan area, the university also operates its Bachelor's Programme in International Business in Mikkeli and the Metsähovi Radio Observatory in Kirkkonummi.",
+   "The university is named in honour of Alvar Aalto, a prominent Finnish architect, designer and alumnus of the former Helsinki University of Technology, who was also instrumental in designing a large part of the university's main campus in Otaniemi."
+  ],
+  "title": "Aalto University",
+  "url": "https://en.wikipedia.org/wiki/Aalto_University",
+  "revision": 1373602298,
+  "fetched": "2026-10-20"
+ },
+ "new-york-state-capitol": {
+  "paragraphs": [
+   "The New York State Capitol, the seat of the New York state government, is located in Albany, the capital city of the U.S. state of New York. The capitol building is part of the Empire State Plaza complex on State Street in Capitol Park. Housing the New York State Legislature, the building was completed in 1899 at a cost of US$25 million (equivalent to $794 million in modern dollars), making it the most expensive government building of its time. It was listed on the National Register of Historic Places in 1971, then included as a contributing property when the Lafayette Park Historic District was listed in 1978. The New York State Capitol was declared a National Historic Landmark in 1979."
+  ],
+  "title": "New York State Capitol",
+  "url": "https://en.wikipedia.org/wiki/New_York_State_Capitol",
+  "revision": 1378864931,
+  "fetched": "2026-10-20"
+ },
+ "jim-thompson-house": {
+  "paragraphs": [
+   "The Jim Thompson House is a museum in central Bangkok, Thailand, housing the art collection of American businessman and architect James Harrison Wilson Thompson or simply Jim Thompson, the museum designer and former owner. Built in 1959, the museum spans one rectangular rai of land (approximately half an acre or 2023.43 square meters).",
+   "Following his relocation to Bangkok and the establishment of the Thai Silk Company Ltd. in 1948, Thompson also became a major collector of Southeast Asian art, which was not well known among Westerners at the time. Attracted by the subtlety of their craftsmanship and expression, he built a large collection of historical Buddhist statues and traditional Thai paintings made of wood, cloth, and paper that depicted the life of Buddha and the legend of Vessantara Jataka. He collected secular art not only from Thailand but from Burma, Cambodia, and Laos, frequently travelling to those countries on buying trips. His collection also consisted of white and blue porcelain from China, which made its way into Thailand around the 16th and 17th centuries."
+  ],
+  "title": "Jim Thompson House",
+  "url": "https://en.wikipedia.org/wiki/Jim_Thompson_House",
+  "revision": 1344472334,
+  "fetched": "2026-10-20"
+ },
+ "beinecke-rare-book-manuscript-library": {
+  "paragraphs": [
+   "The Beinecke Rare Book and Manuscript Library is the rare book library and literary archive of Yale University Library in New Haven, Connecticut. It is one of the largest buildings in the world dedicated to rare books and manuscripts and is one of the largest collections of such texts. Established by a gift of the Beinecke family and given its own financial endowment, the library is financially independent from the university and is co-governed by Yale University Library and Yale Corporation.",
+   "The Beinecke Library is an International Style building. Its six-story above-ground glass-enclosed tower of book stacks is encased by a windowless façade, supported by four monolithic piers at the corners of the building. The exterior shell is structurally supported by a steel frame with pylons embedded 50 feet (15 m) to bedrock at each corner pier, and the façade is constructed of translucent veined marble and granite. The marble was quarried from Danby, Vermont, and milled to a thickness of 1.25 inches (32 mm) in order to allow filtered daylight to permeate the interior in a subtle golden amber glow. Gordon Bunshaft attributed the inspiration for this effect to \"what I thought was onyx in a Renaissance-type palace in Istanbul,\" referring to the alabaster used in the Dolmabahçe Palace hammam."
+  ],
+  "title": "Beinecke Rare Book and Manuscript Library",
+  "url": "https://en.wikipedia.org/wiki/Beinecke_Rare_Book_and_Manuscript_Library",
+  "revision": 1367542955,
+  "fetched": "2026-10-20"
+ },
+ "palais-de-chaillot": {
+  "paragraphs": [
+   "The Chaillot Palace ( shah-YOH; French: Palais de Chaillot [palɛ də ʃajo]) is a building atop the Chaillot Hill in the Trocadéro area, in the 16th arrondissement of Paris, France.",
+   "The building was designed in classicising \"moderne\" style by architects Louis-Hippolyte Boileau, Jacques Carlu and Léon Azéma. The Palace consists of two separate wings shaped to form a wide arc, which are those of the former Palais du Trocadéro with new taller portions built in front. The pair of larger central pavilions are also those of the former Palais du Trocadéro, encapsulated in new construction. The large central hall and towers of the old palace were demolished, leaving only the basement, with a wide esplanade created on top, establishing an open view from the Place du Trocadéro to the Eiffel Tower and beyond.",
+   "The buildings are decorated with quotations by Paul Valéry, and sculptural groups at the attic level by Raymond Delamarre, Carlo Sarrabezolles and Alfred Bottiau. The eight gilded figures on the terrace of the Rights of Man are attributed to the sculptors Alexandre Descatoire, Marcel Gimond, Jean Paris dit Pryas, Paul Cornet, Lucien Brasseur, Robert Couturier, Paul Niclausse and Félix-Alexandre Desruelles."
+  ],
+  "title": "Palais de Chaillot",
+  "url": "https://en.wikipedia.org/wiki/Palais_de_Chaillot",
+  "revision": 1373786752,
+  "fetched": "2026-10-20"
+ },
+ "television-city": {
+  "paragraphs": [
+   "Television City, alternatively CBS Television City, is a television studio complex located in the Fairfax District of Los Angeles, California, United States. The facilities are located at 7800 Beverly Boulevard, at the corner of Fairfax Avenue. Designed by architect William Pereira and Charles Luckman, Television City opened in 1952 as a dedicated electronic (video) production facility, the second CBS network show factory in Southern California, paralleling 35mm film production at CBS Studio Center in the Studio City section of the San Fernando Valley. Since 1961, Television City has also served as a national backup master control facility for CBS's television network operations. In 2018, CBS sold Television City to the real estate investment company Hackman Capital Partners while continuing to exclusively lease its space.",
+   "The stark modern architecture at Television City consists of black and white planes meeting at razor-sharp corners, with accents of dazzling red, the work of Pereira & Luckman of Los Angeles. The studio facility was built to handle the larger production needs for the network, most of which took place at the rather cramped CBS Columbia Square. The building's black and white color scheme was also used to identify areas where it was designed to be expanded. Black walls and glass walls indicated \"temporary\" structure that could be removed during expansion, while white areas were \"permanent\"."
+  ],
+  "title": "Television City",
+  "url": "https://en.wikipedia.org/wiki/Television_City",
+  "revision": 1380112541,
+  "fetched": "2026-10-20"
+ },
+ "royal-exhibition-building": {
+  "paragraphs": [
+   "The Royal Exhibition Building is a UNESCO World Heritage-listed building in Melbourne, Victoria, Australia, built in 1879–1880 as part of the international exhibition movement, which presented over 50 exhibitions between 1851 and 1915 around the globe. The building sits on approximately 26 hectares (64 acres), is 150 metres (490 ft) long and is surrounded by four city streets. It is situated at 9 Nicholson Street in the Carlton Gardens, flanked by Victoria, Carlton and Rathdowne Streets, at the north-eastern edge of the central business district. It was built to host the Melbourne International Exhibition in 1880–81, and then hosted the even larger Centennial International Exhibition in 1888. It was then chosen as the site for the Federation of the Commonwealth of Australia in 1901. The building is representative of the financial wealth and pride that the city of Melbourne and state of Victoria had in the 1870s. Throughout the 20th century smaller sections and wings of the building were subject to demolition and fire; however, the main building, known as the Great Hall, survived."
+  ],
+  "title": "Royal Exhibition Building",
+  "url": "https://en.wikipedia.org/wiki/Royal_Exhibition_Building",
+  "revision": 1373677198,
+  "fetched": "2026-10-20"
+ },
+ "king-power-mahanakhon": {
+  "paragraphs": [
+   "King Power Mahanakhon (Thai: คิง เพาเวอร์ มหานคร), formerly known as MahaNakhon (มหานคร), is a mixed-use skyscraper in the Silom/Sathon central business district of Bangkok, Thailand. It was opened in December 2016 by MahaNakhon Managing Director Kipsan Beck. It features the unconventional appearance of a glass curtain-walled square tower with a cuboid-surfaced helix cut into the side of the building. Following transfer of the first residential units in April 2016, at 314.2 metres (1,031 ft) with 77 floors, it was recognized as the tallest building in Thailand on 4 May 2016 by the Council on Tall Buildings and Urban Habitat (CTBUH). The building contains a hotel, retail and residences, which are priced between around $US1,100,000 to US$17,000,000, making it one of the most expensive condominiums in Bangkok.",
+   "The building was recognised as the tallest building in Thailand until the Magnolias Waterfront Residences at ICONSIAM broke the record in 2018 with a height of 317 metres. The building was purchased from CEO Sorapoj Techakraisri of PACE Development by King Power group in April 2018, resulting in the name change from MahaNakhon to King Power Mahanakhon."
+  ],
+  "title": "King Power Mahanakhon",
+  "url": "https://en.wikipedia.org/wiki/King_Power_Mahanakhon",
+  "revision": 1360516667,
+  "fetched": "2026-10-20"
+ },
+ "louisiana-museum-of-modern-art": {
+  "paragraphs": [
+   "The Louisiana Museum of Modern Art, also known as the Louisiana, is an art museum located north of Copenhagen, Denmark. Attracting over 700,000 guests annually, the Louisiana is Scandinavia's most visited museum for modern and contemporary art, hosting 6 to 10 exhibitions each year alongside a permanent display of Yayoi Kusama's Gleaming Lights of the Souls. The museum is recognized as a modernist landmark in Danish architecture, and is noted for its synthesis of art, architecture and landscape, boasting a sculpture park with works by Alexander Calder, Henry Moore and Richard Serra. In addition to its permanent and temporary exhibitions, the museum has a shop featuring Danish design items, a restaurant with a view of the Øresund, and a three-storey Children's Wing hosting daily workshops. The museum is included in Patricia Schultz's book 1,000 Places to See Before You Die.",
+   "Each work demands to be seen without too much competition from other works of art and without a restrictive landscape setting."
+  ],
+  "title": "Louisiana Museum of Modern Art",
+  "url": "https://en.wikipedia.org/wiki/Louisiana_Museum_of_Modern_Art",
+  "revision": 1379003344,
+  "fetched": "2026-10-20"
+ },
+ "cbs-building": {
+  "paragraphs": [
+   "The CBS Building, also known as Black Rock and 51W52, is a 38-story, 491-foot-tall (150 m) tower at 51 West 52nd Street in the Midtown Manhattan neighborhood of New York City, New York, U.S. The building was constructed from 1961 to 1964 and was the only skyscraper designed by Eero Saarinen, who referred to the building as the \"simplest skyscraper statement in New York\". The interior spaces and furnishings were designed by Saarinen and, after his death, Florence Knoll Bassett. Built as the headquarters of the CBS broadcasting network, the building was also the headquarters of CBS Records (later Sony Music Entertainment) before the early 1990s.",
+   "The CBS Building was designed by Eero Saarinen, whose other designs ranged from the Gateway Arch, the General Motors Technical Center, and the Dulles International Airport Main Terminal to chairs for the Knoll company. The George A. Fuller Company was the general contractor for the project. Cosentini Associates was the mechanical engineer, while Paul Weidlinger was the structural engineer. Carson, Lundin & Shaw planned the interior layout of the building, designing the mechanical systems and interior partitions. Acoustical engineer Paul Veneklasen advised the firm on how to design different spaces in the building, based on varying acoustical requirements for different divisions."
+  ],
+  "title": "CBS Building",
+  "url": "https://en.wikipedia.org/wiki/CBS_Building",
+  "revision": 1373207262,
+  "fetched": "2026-10-20"
+ },
+ "london-bridge-station-redevelopment": {
+  "paragraphs": [
+   "London Bridge is a central London railway terminus and connected London Underground station in Southwark, south-east London. It occupies a large area on three levels immediately south-east of London Bridge, from which it takes its name. The main line station is the oldest railway station in London fare zone 1 and one of the oldest in the world, having opened in 1836. It is one of two main line termini in London to the south of the River Thames (the other being Waterloo) and is the fifth-busiest station in London, handling over 50 million passengers a year.",
+   "The station was originally opened by the London and Greenwich Railway as a local service. It subsequently served the London and Croydon Railway, the London and Brighton Railway and the South Eastern Railway, thus becoming an important London terminus. It was rebuilt in 1849 and again in 1864 to provide more services and increase capacity. Local services from London Bridge began to be electrified in the beginning of the 20th century, and had spread to national routes by the 1930s. The station was extensively rebuilt by British Rail during the 1970s, along with a comprehensive re-signalling scheme and track alignment."
+  ],
+  "title": "London Bridge station",
+  "url": "https://en.wikipedia.org/wiki/London_Bridge_station",
+  "revision": 1380175162,
+  "fetched": "2026-10-20"
+ },
+ "lever-house": {
+  "paragraphs": [
+   "Lever House is a 307-foot-tall (94 m) office building at 390 Park Avenue in the Midtown Manhattan neighborhood of Manhattan in New York City, United States. Constructed from 1950 to 1952, the building was designed by Gordon Bunshaft and Natalie de Blois of Skidmore, Owings & Merrill (SOM) in the International Style, a 20th-century modern architectural style. It was originally the headquarters of soap company Lever Brothers, a subsidiary of Unilever. Lever House was the second high-rise in New York City with a glass curtain wall, after the United Nations Secretariat Building.",
+   "Lever House was designed by Gordon Bunshaft and Natalie de Blois of Skidmore, Owings & Merrill (SOM) in the International Style, a 20th-century modern architectural style. Lever House, the Seagram Building, the former Union Carbide Building, and the Pepsi-Cola Building are considered part of a grouping of International Style structures developed on Park Avenue from 46th to 59th Street during the mid-20th century. The building was constructed by main contractor George A. Fuller Company, with Jaros, Baum & Bolles as mechanical engineers and Weiskopf & Pickworth as structural engineers. Raymond Loewy Associates designed the interiors, since SOM had no interior design team when the building was completed in 1952."
+  ],
+  "title": "Lever House",
+  "url": "https://en.wikipedia.org/wiki/Lever_House",
+  "revision": 1373477023,
+  "fetched": "2026-10-20"
+ },
+ "at-t-building-550-madison-avenue": {
+  "paragraphs": [
+   "550 Madison Avenue (also 550 Madison; formerly known as the Sony Tower, Sony Plaza, and AT&T Building) is a postmodern–style skyscraper on Madison Avenue between 55th and 56th Streets in the Midtown Manhattan neighborhood of New York City, New York, U.S. Designed by Philip Johnson and John Burgee with associate architect Simmons Architects, the building is a 647-foot-tall (197-meter), 37-story office tower with a facade made of pink granite. It was completed in 1984 as the headquarters of AT&T Corp. and later became the American headquarters of Sony. A four-story granite annex to the west was demolished and replaced with a shorter annex in the early 2020s.",
+   "550 Madison Avenue was designed by Philip Johnson and John Burgee of Johnson/Burgee Architects. Johnson had been an influential figure in modernist architecture during the late 20th century, having helped design the Seagram Building nearby in the 1950s, but he reverted to more classical motifs for 550 Madison Avenue's design. The building was among Johnson and Burgee's most influential works and, according to the New York City Landmarks Preservation Commission (LPC), is sometimes described as the world's first postmodern–style skyscraper. Alan Ritchie of Johnson/Burgee was named as design manager, while Simmons Architects was the associate architect."
+  ],
+  "title": "550 Madison Avenue",
+  "url": "https://en.wikipedia.org/wiki/550_Madison_Avenue",
+  "revision": 1376545554,
+  "fetched": "2026-10-20"
+ },
+ "acropolis-museum": {
+  "paragraphs": [
+   "The Acropolis Museum (Greek: Μουσείο Ακρόπολης, Mouseio Akropolis) is an archaeological museum focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artifact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece. The Acropolis Museum also lies over the ruins of part of Roman and early Byzantine Athens.",
+   "The museum was founded in 2003, while the Organization of the Museum was established in 2008. It opened to the public on 20 June 2009. More than 4,250 objects are exhibited over an area of 14,000 square metres."
+  ],
+  "title": "Acropolis Museum",
+  "url": "https://en.wikipedia.org/wiki/Acropolis_Museum",
+  "revision": 1369164285,
+  "fetched": "2026-10-20"
+ },
+ "selimiye-mosque": {
+  "paragraphs": [
+   "The Selimiye Mosque (Turkish: Selimiye Camii) is an Ottoman imperial mosque, located in the city of Edirne (formerly Adrianople), Turkey. It was commissioned by Sultan Selim II and was built by the imperial architect Mimar Sinan between 1568 and 1575. It was considered by Sinan to be his masterpiece and is one of the highest achievements of Islamic architecture as a whole and Ottoman architecture in particular. The mosque, together with its külliye, was included on UNESCO's World Heritage List in 2011."
+  ],
+  "title": "Selimiye Mosque, Edirne",
+  "url": "https://en.wikipedia.org/wiki/Selimiye_Mosque,_Edirne",
+  "revision": 1367242675,
+  "fetched": "2026-10-20"
+ },
+ "sultan-abdul-samad-building": {
+  "paragraphs": [
+   "The Sultan Abdul Samad Building (Malay: Bangunan Sultan Abdul Samad; Jawi: باڠونن سلطان عبدالصمد) is a late-19th-century building located along Jalan Raja in front of Dataran Merdeka and the Royal Selangor Club in Kuala Lumpur, Malaysia. The building originally housed the offices of the British colonial administration, and was known simply as Government Offices in its early years. In 1974, it was renamed after Sultan Abdul Samad, the reigning sultan of Selangor at the time when construction began.",
+   "The building once housed the superior courts of the country: the Federal Court of Malaysia, the Court of Appeals and the High Court of Malaya; the Federal Court and the Court of Appeals relocated to the Palace of Justice in Putrajaya in 2003, while the High Court of Malaya shifted to the Kuala Lumpur Courts Complex in Segambut in 2007. Later, it housed the offices of the Ministry of Communications and Multimedia and the Ministry of Tourism and Culture of Malaysia.",
+   "The building was most recently restored in 2026, and contains galleries, exhibition spaces and several cafés."
+  ],
+  "title": "Sultan Abdul Samad Building",
+  "url": "https://en.wikipedia.org/wiki/Sultan_Abdul_Samad_Building",
+  "revision": 1372866866,
+  "fetched": "2026-10-20"
+ },
+ "espaces-d-abraxas": {
+  "paragraphs": [
+   "Les Espaces d'Abraxas is a high-density housing complex in Noisy-le-Grand, approximately 12 km (7.5 mi) from Paris, France. The building was designed by architect Ricardo Bofill and his architecture practice Ricardo Bofill Taller de Arquitectura (RBTA) in 1978 on behalf of the French government, during a period of increased urbanisation across France after World War II. This rapid urbanisation led to overcrowding and insufficient housing in Paris. To offset this, the French government implemented a project to create five 'New Towns' on the outskirts of the city.",
+   "The large complex of 591 apartments was designed in 1978 and completed in 1982. It rapidly acquired iconic status, amplified by its use as background sets in movies and music clips. It consists of three buildings: Le Palacio (the palace) is the largest, followed by Le Théâtre (the theatre) to its west, and the smaller L'Arc (the arch) between the other two. Le Palacio has 441 housing units, Le Théâtre has 130, and L'Arche has 20.",
+   "In the decades following its creation, living conditions in the complex deteriorated to the extent that its demolition was debated in the mid-2010s. In 2018, the commune of Noisy-le-Grand announced that Bofill would oversee the renovation of Les Espaces d'Abraxas and of a number of nearby developments, including new construction."
+  ],
+  "title": "Les Espaces d'Abraxas",
+  "url": "https://en.wikipedia.org/wiki/Les_Espaces_d%27Abraxas",
+  "revision": 1364538431,
+  "fetched": "2026-10-20"
+ },
+ "petit-palais": {
+  "paragraphs": [
+   "The Petit Palais (French: [p(ə)ti palɛ]; English: Small Palace) is an art museum in the 8th arrondissement of Paris, France.",
+   "The Beaux-Arts style Petit Palais was designed by Charles Girault, and is around an octi-circular courtyard and garden, similar to the Grand Palais. Its ionic columns, grand porch, and dome echo those of Les Invalides across the river. The tympanum depicting the city of Paris surrounded by muses is the work of sculptor Jean Antoine Injalbert.",
+   "The Petit Palais was built to be a lasting building that would become a permanent fine arts museum after the exhibition. The materials of the building—stone, steel and concrete as well as the decoration were to demonstrate that the Petit Palais was built to be enduring.",
+   "Built for the 1900 Exposition Universelle (\"universal exhibition\"), it now houses the City of Paris Museum of Fine Arts (Musée des beaux-arts de la ville de Paris). The Petit Palais is located across from the Grand Palais on the former Avenue Nicolas II, today Avenue Winston-Churchill. The other façades of the building face the Seine and Avenue des Champs-Élysées."
+  ],
+  "title": "Petit Palais",
+  "url": "https://en.wikipedia.org/wiki/Petit_Palais",
+  "revision": 1362773734,
+  "fetched": "2026-10-20"
+ },
+ "geisel-library": {
+  "paragraphs": [
+   "Geisel Library is the main library building of the University of California, San Diego. It is named in honor of Audrey and Theodor Seuss Geisel, the latter of whom is better known as children's author Dr. Seuss. The building's distinctive architecture, described as occupying \"a fascinating nexus between brutalism and futurism\", has made it an iconic and widely recognized building on campus. The library is located in the center of the UC San Diego campus.",
+   "The distinctive original building was designed in the late 1960s by William Pereira to sit at the head of a canyon. The building's arches, in combination with the design of the individual floors, are intended to look like hands holding up a stack of books. William Pereira & Associates prepared a detailed report in 1969.",
+   "Pereira originally conceived of a mushroom-shaped, steel-framed building, but the projected construction and maintenance costs forced him to switch to a reinforced concrete structure. This change of material presented an opportunity for a more sculptural design, as well as opening up interior spaces that would have been bisected by steel trusses. Prior to construction, a 1/2-scale model of one of the outer columns was built and subjected to various tests."
+  ],
+  "title": "Geisel Library",
+  "url": "https://en.wikipedia.org/wiki/Geisel_Library",
+  "revision": 1374106749,
+  "fetched": "2026-10-20"
+ },
+ "marin-county-civic-center": {
+  "paragraphs": [
+   "The Marin County Civic Center is a governmental complex in San Rafael, the county seat of Marin County, California, United States. Designed by Frank Lloyd Wright and Taliesin Associated Architects (TAA), the 140-acre (57 ha) complex consists of several buildings constructed between 1960 and 1976. The main building consists of two connected wings: the Administration Building to the south and the Hall of Justice to the north. The Civic Center campus also includes an armory, a post office, the Veterans Memorial Auditorium, an exhibition hall, a lagoon, and fairgrounds.",
+   "The Civic Center consists of several structures, including a main building (consisting of the Administration Building and Hall of Justice), along with a post office, military armory, veterans' building, and convention building. Frank Lloyd Wright was responsible for the Administration Building. He and his associate Aaron Green co-designed the Hall of Justice; Wright was responsible for the Hall of Justice's jail, and Green designed that wing's other spaces. After Wright's death, Green and William Wesley Peters, both of Taliesin Associated Architects (TAA), designed the remaining buildings. The Civic Center was Wright's largest public project and has been cited as his only completed governmental project. Along with the Solomon R. Guggenheim Museum in New York, the Civic Center was among Wright's final commissions; it has been cited as his last major work."
+  ],
+  "title": "Marin County Civic Center",
+  "url": "https://en.wikipedia.org/wiki/Marin_County_Civic_Center",
+  "revision": 1381012029,
+  "fetched": "2026-10-20"
+ },
+ "castell-coch": {
+  "paragraphs": [
+   "Castell Coch (Welsh for 'red castle'; Welsh pronunciation: [ˈkas.tɛɬ koːχ]) is a 19th-century Gothic Revival castle built above the village of Tongwynlais in Wales. The first castle on the site was built by the Normans after 1081 to protect the newly conquered town of Cardiff and control the route along the River Taff. Abandoned shortly afterwards, the castle's earth motte was reused by Gilbert de Clare as the basis for a new stone fortification, which he built between 1267 and 1277 to control his freshly annexed Welsh lands. This castle may have been destroyed in the native Welsh rebellion of 1314. In 1760, the castle ruins were acquired by John Stuart, 3rd Earl of Bute, as part of a marriage settlement that brought the family vast estates in South Wales."
+  ],
+  "title": "Castell Coch",
+  "url": "https://en.wikipedia.org/wiki/Castell_Coch",
+  "revision": 1368377343,
+  "fetched": "2026-10-20"
+ },
+ "temppeliaukio-church": {
+  "paragraphs": [
+   "Temppeliaukio Church (Finnish: Temppeliaukion kirkko; Swedish: Tempelplatsens kyrka), also known as the Church of the Rock or Rock Church, is an Evangelical Lutheran church in the Töölö district of Helsinki, Finland. Designed by architect brothers Timo and Tuomo Suomalainen, the church was completed in 1969 and is built directly into the natural granite bedrock of Temppeliaukio (“Temple Square”). The church has approximately 750 seats and functions both as an active parish church and as a concert venue and tourist attraction.",
+   "The church is notable for its integration of architecture and natural geology. Rather than constructing a conventional church on top of the rocky site, the architects excavated the main church hall into the bedrock and retained much of the surrounding rock. The interior is covered by a copper-lined dome surrounded by a broad ring of skylights, which provides natural illumination. The combination of exposed granite, copper, reinforced concrete and natural light has made the church one of the best-known examples of Finnish modernist sacred architecture."
+  ],
+  "title": "Temppeliaukio Church",
+  "url": "https://en.wikipedia.org/wiki/Temppeliaukio_Church",
+  "revision": 1379051371,
+  "fetched": "2026-10-20"
+ },
+ "national-museum-of-scotland": {
+  "paragraphs": [
+   "The National Museum of Scotland (Scottish Gaelic: Taigh-tasgaidh Nàiseanta na h-Alba) in Edinburgh, Scotland, is a museum of Scottish history and culture.",
+   "It was formed in 2006 with the merger of the new Museum of Scotland, with collections relating to Scottish antiquities, culture and history, and the adjacent Royal Scottish Museum (opened in 1866 as the Edinburgh Museum of Science and Art, renamed in 1904, and for the period between 1985 and the merger named the Royal Museum of Scotland or simply the Royal Museum), with international collections covering science and technology, natural history, and world cultures. The two connected buildings stand beside each other on Chambers Street, by the junction with the George IV Bridge, in central Edinburgh. The museum is part of National Museums Scotland and admission is free."
+  ],
+  "title": "National Museum of Scotland",
+  "url": "https://en.wikipedia.org/wiki/National_Museum_of_Scotland",
+  "revision": 1380733949,
+  "fetched": "2026-10-20"
+ },
+ "perth-arena": {
+  "paragraphs": [
+   "Perth Arena (known commercially as RAC Arena) is an entertainment and sporting arena in the city centre of Perth, Western Australia, used mostly for basketball games. It is located on Wellington Street near the site of the former Perth Entertainment Centre, and was officially opened on 10 November 2012. Perth Arena was the first stage of the Perth City Link, a 13.5-hectare (33-acre) major urban renewal and redevelopment project which involved the sinking of the Eastern Railway to link the Perth central business district directly with Northbridge.",
+   "The tender for the project was won by Western Australian construction consortium BGC, and work commenced on the site in June 2007. The arena was jointly designed by architectural firms Ashton Raggatt McDougall and Cameron Chisholm Nicol. With its design based on the Eternity puzzle, the venue holds up to 13,910 spectators for tennis events, 14,846 for basketball (the arena's capacity is capped at 13,000 for National Basketball League regular season games) and a maximum of 15,000 for music or rock concerts. The venue has a retractable roof, 36 luxury appointed corporate suites, a 680-bay underground car park, 5 dedicated function spaces, and touring trucks can drive directly onto the arena floor."
+  ],
+  "title": "Perth Arena",
+  "url": "https://en.wikipedia.org/wiki/Perth_Arena",
+  "revision": 1379677373,
+  "fetched": "2026-10-20"
+ },
+ "abdeen-palace-cairo": {
+  "paragraphs": [
+   "Abdeen District is the home of Abdeen Palace, a 19th-century Cairo palace built by Khedive Ismail and served as the Egyptian royal household's primary official residence from 1874 until the 1952 Egyptian revolution. Since then it has been one of the presidential palaces. The palace is centered in its eponymous district, administratively part of the Western Area of Cairo, and part of the Khedival Cairo Area of Value to the west of Historic Cairo."
+  ],
+  "title": "Abdeen Palace",
+  "url": "https://en.wikipedia.org/wiki/Abdeen_Palace",
+  "revision": 1340877670,
+  "fetched": "2026-10-20"
+ },
+ "pennsylvania-state-capitol": {
+  "paragraphs": [
+   "The Pennsylvania State Capitol is the seat of government for the U.S. state of Pennsylvania located in downtown Harrisburg. The building was designed by architect Joseph Miller Huston in 1902 and completed in 1906 in a Beaux-Arts style with decorative Renaissance themes throughout. The capitol houses the legislative chambers for the Pennsylvania General Assembly, made up of the House of Representatives and the Senate, and the Harrisburg chambers for the Supreme and Superior Courts of Pennsylvania, as well as the offices of the Governor and the Lieutenant Governor. It is also the main building of the Pennsylvania State Capitol Complex.",
+   "The seat of government for the state was initially in Philadelphia, then was relocated to Lancaster in 1799 and finally to Harrisburg in 1812. The current capitol, known as the Huston Capitol, is the third state capitol building built in Harrisburg. The first, the Hills Capitol, was destroyed in 1897 by a fire. The second, the Cobb Capitol, was left unfinished when funding was discontinued in 1899."
+  ],
+  "title": "Pennsylvania State Capitol",
+  "url": "https://en.wikipedia.org/wiki/Pennsylvania_State_Capitol",
+  "revision": 1378937959,
+  "fetched": "2026-10-20"
+ },
+ "icc-berlin": {
+  "paragraphs": [
+   "The Internationales Congress Centrum Berlin (ICC Berlin) is a former convention centre in the Westend locality of Berlin, adjacent to the Messe Berlin exhibition grounds. Designed by Ralf Schüler and Ursulina Schüler-Witte and built between 1973 and 1979, the aluminium-clad building is a major example of high-tech architecture. With 80 halls and rooms and capacity for up to 20,000 people, it was one of the largest congress centres in Europe and became a landmark of West Berlin.",
+   "Regular operations ended in 2014 because the ageing building required extensive renovation. It has since remained closed, with occasional temporary uses. The building was designated a protected monument in 2019.",
+   "In 2024, Berlin launched a redevelopment process for the ICC. In June 2026, the Project Partnership Quartier ICC received an official recommendation for a proposal to reuse the building for events and the creative industries. The project is still in development."
+  ],
+  "title": "Internationales Congress Centrum Berlin",
+  "url": "https://en.wikipedia.org/wiki/Internationales_Congress_Centrum_Berlin",
+  "revision": 1375409144,
+  "fetched": "2026-10-20"
+ },
+ "rainier-tower": {
+  "paragraphs": [
+   "Rainier Tower is a 41-story, 156.67 m (514.0 ft) skyscraper in the Metropolitan Tract of Seattle, Washington, at 1301 Fifth Avenue. It was designed by Minoru Yamasaki, who designed the World Trade Center in New York City as well as the IBM Building, which is on the corner across the street from Rainier Tower to the southeast. Its construction was completed in 1977.",
+   "The skyscraper has an unusual appearance, being built atop an 11-story, 37 m (121 ft) concrete pedestal base that tapers towards ground level, like an inverted pyramid. Architect Yamasaki chose the design in order to preserve the greenery of downtown Seattle and allow more ground space to be devoted to a retail shopping plaza.",
+   "Beneath the tower was Rainier Square, an underground shopping mall connecting with One Union Square, which is owned by the University of Washington (UW). This shopping center was demolished in 2017. Both the mall and tower were originally named after Rainier Bank, which was merged in the 1980s into Security Pacific, which was eventually merged into Bank of America. The tower was named after Security Pacific in 1989 until UW chose to rename it back to the more familiar \"Rainier Tower\" in 1995."
+  ],
+  "title": "Rainier Tower",
+  "url": "https://en.wikipedia.org/wiki/Rainier_Tower",
+  "revision": 1344623282,
+  "fetched": "2026-10-20"
+ },
+ "palacio-de-los-deportes": {
+  "paragraphs": [
+   "Palacio de los Deportes (English: Sports Palace) is an indoor arena located in Mexico City, Mexico. It is within the Magdalena Mixhuca Sports City complex, near the Mexico City International Airport and in front of the Estadio GNP Seguros, in which sports and artistic events are also celebrated. It is operated by Grupo CIE. The palace is named after Mexican military official Juan Escutia, although it is rarely referred to in its full name.",
+   "The stadium was constructed for the 1968 Summer Olympics and opened in 1968. The arena currently has 17,800 seats and can be expanded for more for non-sports events."
+  ],
+  "title": "Palacio de los Deportes",
+  "url": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes",
+  "revision": 1380758302,
+  "fetched": "2026-10-20"
+ },
+ "vasconcelos-library": {
+  "paragraphs": [
+   "Biblioteca Vasconcelos, also known as the Megabiblioteca by the press, is a library in the Buenavista neighborhood of Mexico City. It is dedicated to José Vasconcelos, the philosopher and former president of the National Library of Mexico. The library is spread across 38,000 square metres (409,000 sq ft), and had an initial planned cost of 954 million pesos (roughly US$98 million). The Congress of Mexico proposed plans to reduce the budget of 2006 that included cuts for all three branches of government, but the National Action Party (PAN) presented an alternate budget that preserved funds for Enciclomedia and the Vasconcelos Library.",
+   "The winning proposal for the library was designed by the Mexican architects Alberto Kalach and Juan Palomar. Lily Carr, writing in 2021 noted, \"the structure's cavernous, hollowed-out interior of an ossified matrix of suspended, expandable shelves presents the project as an awe-inspiring, chill-inducing spectacular that immerses the first-time visitor in the architects' vision of a library as a container, or 'ark', a carrier of human knowledge.\"",
+   "The library architecture allegedly inspired the 'tesseract' scene of the film Interstellar (2014) although this has never been confirmed and may just be coincidental."
+  ],
+  "title": "Biblioteca Vasconcelos",
+  "url": "https://en.wikipedia.org/wiki/Biblioteca_Vasconcelos",
+  "revision": 1362154501,
+  "fetched": "2026-10-20"
+ },
+ "red-house-bexleyheath": {
+  "paragraphs": [
+   "Red House is a significant Arts and Crafts building located in Bexleyheath, south-east London, England. Co-designed in 1859 by the architect Philip Webb and the designer William Morris, it was created to serve as a family home for Morris. Construction was completed in 1860.",
+   "Following an education at the University of Oxford, Morris decided to construct a rural house for himself and his new wife, Jane Morris, within a commuting distance of central London. Purchasing a plot of land in what at the time was the village of Upton in Kent, he employed his friend Webb to help him design and construct the house, financing the project with money inherited from his wealthy family. Morris was deeply influenced by medievalism and medieval-inspired neo-Gothic styles are reflected throughout the building's design, which he described as being \"very medieval in spirit.\" It was constructed using Morris' ethos of craftsmanship and artisan skills and is an early example of what came to be known as the Arts and Crafts movement."
+  ],
+  "title": "Red House, Bexleyheath",
+  "url": "https://en.wikipedia.org/wiki/Red_House,_Bexleyheath",
+  "revision": 1344960192,
+  "fetched": "2026-10-20"
+ },
+ "palau-guell": {
+  "paragraphs": [
+   "The Palau Güell (Catalan pronunciation: [pəˈlaw ˈɣweʎ], English: Güell Palace) is a mansion designed by the architect Antoni Gaudí for the industrial tycoon Eusebi Güell, and was built between 1886 and 1888. It is situated on the Carrer Nou de la Rambla, in the El Raval neighborhood of Barcelona in Catalonia, Spain. It is part of the UNESCO World Heritage Site \"Works of Antoni Gaudí\".",
+   "The home is centered around the main room for entertaining high society guests. Guests entered the home in horse-drawn carriages through the front iron gates, which featured a parabolic arch and intricate patterns of forged ironwork resembling seaweed and in some parts a horsewhip. Gaudí placed the bronze sculpture of a phoenix between the two gates, a mythical animal that is an emblem of the economic and cultural renaissance experienced by Catalan society. Animals could be taken down a ramp and kept in the livery stable in the basement where the servants resided, while the guests went up the stairs to the receiving room. The ornate walls and ceilings of the receiving room disguised small viewing windows high on the walls where the owners of the home could view their guests from the upper floor and get a \"sneak peek\" before greeting them, in case they needed to adjust their attire accordingly."
+  ],
+  "title": "Palau Güell",
+  "url": "https://en.wikipedia.org/wiki/Palau_G%C3%BCell",
+  "revision": 1338825687,
+  "fetched": "2026-10-20"
+ },
+ "bmw-headquarters": {
+  "paragraphs": [
+   "The BMW Headquarters (German: BMW-Vierzylinder, lit. 'BMW four-cylinder'), also known as the BMW Tower (German: BMW-Turm or BMW-Hochhaus), is a high-rise building located in the Am Riesenfeld area of Munich, Germany. The building has served as the global corporate headquarters of German automaker BMW since 1973. It was declared a protected historic building in 1999, and it is often cited as one of the most notable examples of modern architecture in Munich. Extensive renovations commenced in 2004 and were completed in 2006."
+  ],
+  "title": "BMW Headquarters",
+  "url": "https://en.wikipedia.org/wiki/BMW_Headquarters",
+  "revision": 1370330044,
+  "fetched": "2026-10-20"
+ },
+ "price-tower": {
+  "paragraphs": [
+   "The Price Tower is a nineteen-story, 221-foot-high (67 m) skyscraper at 510 South Dewey Avenue in Bartlesville, Oklahoma, United States. One of the few high-rises designed by Frank Lloyd Wright, the Price Tower is derived from a 1929 proposal for a group of apartment buildings in New York City. Harold C. Price Sr., the head of the pipeline-construction firm H. C. Price Company, commissioned the tower. The building was widely discussed when it was completed in 1956. It received the American Institute of Architects' Twenty-five Year Award in 1983 and has been designated a National Historic Landmark.",
+   "The Price Tower, a 19-story building designed by Frank Lloyd Wright, measures 221 feet (67 m) tall from ground level to the tip of the spire. Excluding the 35-foot (11 m) spire, the building is 186 feet (57 m) tall. Wright believed that people could live \"a richer, more connected life\" if residential and business uses were combined and planned the building as an \"urban microcosm concept, where you would live, work, eat, and shop all in the same space\". As built, the Price Tower had over 37,000 square feet (3,400 m2) of rentable space. Including corridors and other non-rentable spaces, the gross floor area was 57,315 square feet (5,324.7 m2)."
+  ],
+  "title": "Price Tower",
+  "url": "https://en.wikipedia.org/wiki/Price_Tower",
+  "revision": 1378964543,
+  "fetched": "2026-10-20"
+ },
+ "eames-house": {
+  "paragraphs": [
+   "The Eames House (also known as Case Study House No. 8) is a historic house museum at 203 Chautauqua Boulevard in the Pacific Palisades neighborhood of Los Angeles, California, United States. Designed in the mid-century modern style, the house was constructed in 1949 by Eames Office designers Charles and Ray Eames for themselves. It consists of two standalone rectangular pavilions—a residence and a standalone studio—both constructed of various materials. The Eames House has been operated by the nonprofit Charles & Ray Eames Foundation (originally the Eames Foundation) since 2004.",
+   "The Eames House is designed in the mid-century modern style. It is among the few building designs completed by Charles and Ray Eames before they stopped practicing architecture by the mid-1950s, and it was their only major architectural design. The Eames House is also one of the few Case Study houses built for its designers' own occupancy. Charles, who had an architectural background, was the architect of record and is generally named as the house's main architect. Ray was also involved in both the original and final designs and was responsible for the interior arrangements. Later scholarship credits Ray equally with her husband as co-designer of the Eames House. Kenneth Acker, a temporary employee of the Eames Office, is sometimes credited as a consulting architect."
+  ],
+  "title": "Eames House",
+  "url": "https://en.wikipedia.org/wiki/Eames_House",
+  "revision": 1381090727,
+  "fetched": "2026-10-20"
+ },
+ "basilica-of-the-annunciation": {
+  "paragraphs": [
+   "The Church of the Annunciation (Latin: Basilica Annuntiationis, Arabic: كنيسة البشارة, romanized: Kanīsat al-Bišāra, Hebrew: כנסיית הבשורה), sometimes also referred to as the Basilica of the Annunciation, is a Catholic church in Nazareth, in northern Israel. It is one of two claimants to the site of the Annunciation – in which angel Gabriel appeared to the Virgin Mary and announced that she would give birth to Jesus – the other being the Greek Orthodox Church of the Annunciation.",
+   "The current Catholic Church is a two-storey building finished in 1969 over the site of earlier churches from the Byzantine, Crusader, and the Israeli -period churches.",
+   "It was established over what Catholic tradition holds to be the site of the house of the Virgin Mary."
+  ],
+  "title": "Basilica of the Annunciation",
+  "url": "https://en.wikipedia.org/wiki/Basilica_of_the_Annunciation",
+  "revision": 1366820485,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-nations": {
+  "paragraphs": [
+   "The Palace of Nations is the home of the United Nations Office at Geneva, located in Geneva, Switzerland. It was built between 1929 and 1938 to serve as the headquarters of the League of Nations. It has served as the home of the United Nations Office at Geneva since 1946 when the secretary-general of the United Nations signed a Headquarters Agreement with the Swiss authorities, although Switzerland did not become a member of the United Nations until 2002.",
+   "In 2012, the Palace of Nations hosted more than 10,000 intergovernmental meetings."
+  ],
+  "title": "Palace of Nations",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Nations",
+  "revision": 1378931117,
+  "fetched": "2026-10-20"
+ },
+ "aqua-tower": {
+  "paragraphs": [
+   "Aqua is an 82-story mixed-use skyscraper in Lakeshore East, downtown Chicago, Illinois. Designed by a team led by Jeanne Gang of Studio Gang Architects, with James Loewenberg of Loewenberg & Associates as the Architect of Record, it includes five levels of parking below ground. The building's eighty-story, 140,000 sq ft (13,000 m2) base is topped by a 82,550 sq ft (7,669 m2) terrace with gardens, gazebos, pools, hot tubs, a walking/running track and a fire pit. Each floor covers approximately 16,000 sq ft (1,500 m2).",
+   "The Aqua Tower is located at 225 North Columbus Drive, and is surrounded by high-rises. The location where the tower was built was a former rail yard that is adjacent to the Chicago River and Lake Michigan. To capture views of nearby landmarks for Aqua's residents, Gang stretched its balconies outward by as much as 12 ft (3.7 m). The result is a building composed of irregularly shaped concrete floor slabs which lend the facade an undulating, sculptural quality. Gang cites the striated limestone outcroppings that are a common topographic feature of the Great Lakes region as inspiration for these slabs. The tower is a late project for the repurposing of the site from industrial to commercial and residential use."
+  ],
+  "title": "Aqua (Chicago)",
+  "url": "https://en.wikipedia.org/wiki/Aqua_(Chicago)",
+  "revision": 1378883227,
+  "fetched": "2026-10-20"
+ },
+ "darwin-d-martin-house": {
+  "paragraphs": [
+   "The Darwin D. Martin House is a historic house museum in the Parkside East Historic District of Buffalo, New York, United States. Built for businessman Darwin D. Martin and his wife Isabelle, it is the main house of a six-building estate designed by Frank Lloyd Wright. The main house is located at 125 Jewett Parkway, at the south end of the estate, and was built between 1903 and 1907. The complex also includes a pergola, a conservatory, a carriage house, a gardener's cottage, and the smaller George Barton House, along with a newer visitor center by Toshiko Mori and landscaping by Walter Burley Griffin. The complex is operated by the Martin House Restoration Corporation (MHRC).",
+   "The estate contains six structures designed by Frank Lloyd Wright: the main Martin residence, a long pergola, a conservatory, a carriage house, a gardener's cottage, and the smaller George Barton House. The \"Martin House\" name is sometimes used to refer to all six of these structures as a group. These structures collectively have about 30,000 square feet (2,800 m2) or 32,000 square feet (3,000 m2) of space. Three buildings—the carriage house, conservatory, and pergola—were demolished in 1962 and rebuilt in the 2000s renovation. The reconstructed buildings may be the first demolished Wright designs rebuilt at their original site."
+  ],
+  "title": "Darwin D. Martin House",
+  "url": "https://en.wikipedia.org/wiki/Darwin_D._Martin_House",
+  "revision": 1380946401,
+  "fetched": "2026-10-20"
+ },
+ "harold-holt-swimming-centre": {
+  "paragraphs": [
+   "The Harold Holt Memorial Swimming Centre is a public swimming pool complex located on the corner of High Street and Edgar Street, Glen Iris, Melbourne, Australia. Built in the 1960s by Australian architects Kevin Borland and Daryl Jackson, the Swimming Centre is considered to be a fine example of Brutalist architecture. Originally built in 1927 as a municipal swimming baths, the facilities were renovated in 1967 by Borland and Jackson to accommodate for higher swimming participation numbers. It is named in honour of Prime Minister Harold Holt, the local member of parliament (representing the Division of Higgins) until his apparent drowning death while the facility was under construction.",
+   "The Harold Holt Memorial Swimming Centre is considered to be among the most notable examples of Brutalist architecture. It is classified by the National Trust and is listed on the Victorian Heritage Register."
+  ],
+  "title": "Harold Holt Memorial Swimming Centre",
+  "url": "https://en.wikipedia.org/wiki/Harold_Holt_Memorial_Swimming_Centre",
+  "revision": 1380378530,
+  "fetched": "2026-10-20"
+ },
+ "antwerpen-centraal-station": {
+  "paragraphs": [
+   "Antwerpen-Centraal railway station (Dutch: Station Antwerpen-Centraal; French: Gare d'Anvers-Central) is the main railway station in Antwerp, Belgium. It is one of the most important hubs in the country and is one of the four Belgian stations on the high-speed rail network. From 1873 to early 2007, it was a terminal station. The current building, designed by the architect Louis Delacenserie, was constructed between 1895 and 1905. On 23 March 2007, a tunnel with two continuous tracks was opened under part of the city and under the station. The train services are operated by the National Railway Company of Belgium (NMBS/SNCB).",
+   "The station is widely regarded as the finest example of railway architecture in Belgium, although the extraordinary eclecticism of the influences on Delacenserie's design had led to a difficulty in assigning it to a particular architectural style. In W. G. Sebald's novel Austerlitz an ability to appreciate the full range of the styles that might have influenced Delacenserie is used to illustrate the brilliance of the fictional architectural historian who is the novel's protagonist. Owing to the vast dome above the waiting room hall, the building became colloquially known as the spoorwegkathedraal (\"railroad cathedral\")."
+  ],
+  "title": "Antwerpen-Centraal railway station",
+  "url": "https://en.wikipedia.org/wiki/Antwerpen-Centraal_railway_station",
+  "revision": 1374559892,
+  "fetched": "2026-10-20"
+ },
+ "united-states-institute-of-peace-headquarters": {
+  "paragraphs": [
+   "The United States Institute of Peace Headquarters was built to house staff offices and other facilities for the United States Institute of Peace (USIP). The building is at a prominent location near the National Mall and Potomac River in the Foggy Bottom neighborhood of Washington, D.C. The environmentally friendly building, noted for its unique roof, was designed by architect Moshe Safdie and completed in 2011. Critics' reviews of the building's design have been mixed.",
+   "According to Safdie, the building \"is by definition the physical symbol of peace in the capital's skyline\" and needed to convey the spirit of peace. Safdie stated: \"I'm not one who believes in overt symbolism, but my sense of a building dedicated to peace was a sense of the lightness of being,...It should be a serene building. It should not be an aggressive building. It should be full of light.\" Safdie achieved this by designing a glass curtain wall facing the Lincoln Memorial and a billowing glass ceiling. The ceiling is one of the building elements in common with Safdie's design for the Yitzhak Rabin Center in Israel. The 8 inches (20 cm) thick roof is made of 1,482 white glass panels and supported by steel frames while the interior of the roof is covered by a translucent plastic film."
+  ],
+  "title": "United States Institute of Peace Headquarters",
+  "url": "https://en.wikipedia.org/wiki/United_States_Institute_of_Peace_Headquarters",
+  "revision": 1370663132,
+  "fetched": "2026-10-20"
+ },
+ "madinat-al-zahra-museum": {
+  "paragraphs": [
+   "Madinat al-Zahra or Medina Azahara (Arabic: مدينة الزهراء, romanized: Madīnat az-Zahrāʾ, lit. 'the radiant city') was a fortified palace-city on the western outskirts of Córdoba in present-day Spain. Its remains are a major archaeological site today. The city was built in the 10th century by Abd ar-Rahman III (912–961), a member of the Umayyad dynasty and the first caliph of Al-Andalus. It served as the capital of the Caliphate of Córdoba and its center of government.",
+   "The main reason for its construction was politico-ideological: Abd ar-Rahman III had declared himself \"caliph\" in 929 and the dignity of this new title required the establishment of a new city, a symbol of his power, imitating eastern caliphates. It sought to demonstrate his superiority over his great rivals, the Fatimid Caliphs of Ifriqiya in North Africa and the Abbasid Caliphs in Baghdad. The city was built near Córdoba, the existing capital of al-Andalus under Umayyad rule. Construction began in 936–940 and continued in multiple phases throughout his reign and the reign of his son, Al-Hakam II (r. 961–976). The new city included ceremonial reception halls, a congregational mosque, administrative and government offices, aristocratic residences, gardens, a mint, workshops, barracks, service quarters, and baths. Water was supplied through aqueducts."
+  ],
+  "title": "Madinat al-Zahra",
+  "url": "https://en.wikipedia.org/wiki/Madinat_al-Zahra",
+  "revision": 1379964916,
+  "fetched": "2026-10-20"
+ },
+ "svetitskhoveli-cathedral": {
+  "paragraphs": [
+   "The Svetitskhoveli Cathedral is an Orthodox Christian cathedral located in the historic town of Mtskheta, Georgia, northwest of the Georgian capital Tbilisi. A masterpiece of the Early and High Middle Ages, Svetitskhoveli is recognized by UNESCO as a World Heritage Site. It is currently the second-largest church building in Georgia, after the Holy Trinity Cathedral.",
+   "The cathedral is set on a flat lowland amidst the old town of Mtskheta, as its most significant structure, visible from nearly every spot.",
+   "The base of the three-storey basilica, believed to have been built by Vakhtang Gorgasali after St. Nino's original church, was found by archaeologists during the 1970–71 restoration. Its remnants can be seen in the western and southeastern parts, as well as under the pillars beneath the floor. The remains of an even older wooden church were discovered in the southern arm of the cross."
+  ],
+  "title": "Svetitskhoveli Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Svetitskhoveli_Cathedral",
+  "revision": 1369982180,
+  "fetched": "2026-10-20"
+ },
+ "555-california-street": {
+  "paragraphs": [
+   "555 California Street, formerly Bank of America Center, is a 52-story 779 ft (237 m) skyscraper in San Francisco, California. It is the fourth tallest building in the city as of February 2021, and in 2013 was the largest by floor area. Completed in 1969, the tower was the tallest building west of the Mississippi River until the completion of the Transamerica Pyramid in 1972, and the world headquarters of Bank of America until the 1998 merger with NationsBank, when the company moved its headquarters to the Bank of America Corporate Center in Charlotte, North Carolina. It is currently owned by Vornado Realty Trust and The Trump Organization."
+  ],
+  "title": "555 California Street",
+  "url": "https://en.wikipedia.org/wiki/555_California_Street",
+  "revision": 1379903428,
+  "fetched": "2026-10-20"
+ },
+ "armenian-genocide-memorial": {
+  "paragraphs": [
+   "The Armenian Genocide Memorial complex (Armenian: Հայոց ցեղասպանության զոհերի հուշահամալիր, Hayots tseghaspanutyan zoheri hushahamalir, or Ծիծեռնակաբերդ, Tsitsernakaberd) is Armenia's official memorial dedicated to the victims of the Armenian genocide, built in 1967 on the hill of Tsitsernakaberd (Swallow's fortress in English) (Armenian: Ծիծեռնակաբերդ) in Yerevan. Every year on 24 April, the Armenian Genocide Remembrance Day, thousands of Armenians gather at the memorial to commemorate the victims of the genocide. The people who gather in Tsiternakaberd lay fresh flowers out of respect for all the people who died in the Armenian genocide. Over the years, from around the world, a wide range of politicians, artists, musicians, athletes, and religious figures have visited the memorial.",
+   "The Armenian Genocide Memorial complex has three main structures: the Temple of Eternity, the memorial column, and the memorial wall."
+  ],
+  "title": "Tsitsernakaberd",
+  "url": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
+  "revision": 1363578806,
+  "fetched": "2026-10-20"
+ },
+ "ppg-place": {
+  "paragraphs": [
+   "PPG Place is a complex in downtown Pittsburgh, Pennsylvania, consisting of six buildings within three city blocks and five and a half acres. PPG Place was designed by architects Philip Johnson and John Burgee.",
+   "Named for its anchor tenant, PPG Industries, which initiated the project for its headquarters, the buildings are all of matching glass design consisting of 19,750 pieces of glass. The complex centers on One PPG Place, a 40-story office building. Groundbreaking ceremonies occurred on January 28, 1981. The complex buildings opened between 1983 and 1984, and a dedication ceremony took place on April 11, 1984. Total cost of construction was $200 million ($667.2 million today). The buildings were sold by The Hillman Company to Highwoods Properties in 2011."
+  ],
+  "title": "PPG Place",
+  "url": "https://en.wikipedia.org/wiki/PPG_Place",
+  "revision": 1357934535,
+  "fetched": "2026-10-20"
+ },
+ "shrine-of-the-bab": {
+  "paragraphs": [
+   "The Shrine of the Báb is a structure on the slopes of Mount Carmel in Haifa, Israel, where the remains of the Báb, founder of the Bábí Faith and forerunner of Baháʼu'lláh in the Baháʼí Faith, are buried; it is considered to be the second holiest place on Earth for Baháʼís, after the Shrine of Baháʼu'lláh in Acre. Its precise location on Mount Carmel was designated by Baháʼu'lláh himself to his eldest son, ʻAbdu'l-Bahá, in 1891. ʻAbdu'l-Bahá planned the structure, which was designed and completed several years later by his grandson, Shoghi Effendi.",
+   "Crowning the design, as anticipated by ʻAbdu'l-Bahá, is a dome, which is set on an 18-windowed drum. That, in turn, is mounted on an octagon, a feature suggested by Shoghi Effendi. An arcade surrounds the stone edifice. A restoration project of the exterior and interior of the shrine started in 2008 and was completed in April 2011."
+  ],
+  "title": "Shrine of the Báb",
+  "url": "https://en.wikipedia.org/wiki/Shrine_of_the_B%C3%A1b",
+  "revision": 1372148323,
+  "fetched": "2026-10-20"
+ },
+ "riverside-museum": {
+  "paragraphs": [
+   "The Riverside Museum (replacing the preceding Glasgow Museum of Transport) is a museum in the Partick area of Glasgow, Scotland, housed in a building designed by Zaha Hadid Architects, with its River Clyde frontage at the new Pointhouse Quay. It forms part of the Glasgow Harbour regeneration project. The building opened in June 2011, winning the 2013 European Museum of the Year Award. It houses many exhibits of national and international importance. The Govan–Partick Bridge, which provides a pedestrian and cycle path link from the museum across the Clyde to Govan, opened in 2024."
+  ],
+  "title": "Riverside Museum",
+  "url": "https://en.wikipedia.org/wiki/Riverside_Museum",
+  "revision": 1377087409,
+  "fetched": "2026-10-20"
+ },
+ "eureka-tower": {
+  "paragraphs": [
+   "Eureka Tower is a 297.3 m (975 ft) skyscraper located in the Southbank precinct of Melbourne, Victoria, Australia. Construction began in August 2002 and the exterior was completed on 1 June 2006. The plaza was finished in June 2006 and the building was officially opened on 11 October 2006. The project was designed by Melbourne architectural firm Fender Katsalidis Architects and was built by Grocon (Grollo Australia). The developer of the tower was Eureka Tower Pty Ltd, a joint venture consisting of Daniel Grollo (Grocon), investor Tab Fried and one of the Tower's architects Nonda Katsalidis.",
+   "Construction began August 2002. The tower was officially opened on 11 October 2006. The building's design is themed around the Eureka Stockade. It contains 556 apartments serviced by 13 lifts. Level 88 features an observation deck and level 89, a restaurant, cocktail bar and event space. The building is home to the annual Eureka Climb and a 2013 experiment involving airplants."
+  ],
+  "title": "Eureka Tower",
+  "url": "https://en.wikipedia.org/wiki/Eureka_Tower",
+  "revision": 1381129682,
+  "fetched": "2026-10-20"
+ },
+ "fort-worth-water-gardens": {
+  "paragraphs": [
+   "The Fort Worth Water Gardens is an urban park located on the south end of downtown Fort Worth. It covers 4.3-acres (1.7 hectares) between Houston and Commerce Streets next to the Fort Worth Convention Center. The Water Gardens were built in 1974, designed by noted New York architects Philip Johnson and John Burgee, and were dedicated to the City of Fort Worth by the Amon G. Carter Foundation.",
+   "The focal points of the park are three pools of water. The Quiet Pool is encircled with cypress trees and towering walls that are covered in thin planes of water that cascade almost 90 degrees down to the sunken blue water feature. The Aerated Pool features multiple illuminated spray fountains under a canopy of large oak trees. The Active Pool is the main attraction of the Water Gardens, and has water cascading 38 feet (11 m) down terraces and steps into a small pool at the bottom.",
+   "The park is frequently billed as a \"cooling oasis in the concrete jungle\" of downtown. A terraced knoll helps to shield it from the rest of the City. Interstate 30 was relocated from its former site immediately adjacent to the Water Gardens, making the south end of the park quieter. The park is now situated adjacent to Lancaster Avenue."
+  ],
+  "title": "Fort Worth Water Gardens",
+  "url": "https://en.wikipedia.org/wiki/Fort_Worth_Water_Gardens",
+  "revision": 1343458609,
+  "fetched": "2026-10-20"
+ },
+ "house-of-soviets-kaliningrad": {
+  "paragraphs": [
+   "The House of Soviets (Russian: Дом Советов, romanized: Dom Sovetov) was an unfinished building in the center of the city of Kaliningrad, Kaliningrad Oblast, an exclave of Russia. It was a 21-storey building, 50 meters (160 ft) in length. Residents of the city often referred to it as the \"buried robot\" because its appearance resembled the head of a giant robot buried in the ground up to the shoulders. Intended as the central administration building of the oblast, it was built on the original site of the 13th-century Königsberg Castle.",
+   "Construction of the building was never completed, and it lay empty throughout its existence. Demolition of the structure began in 2023, and was completed in August 2024."
+  ],
+  "title": "House of Soviets (Kaliningrad)",
+  "url": "https://en.wikipedia.org/wiki/House_of_Soviets_(Kaliningrad)",
+  "revision": 1357912630,
+  "fetched": "2026-10-20"
+ },
+ "hollyhock-house": {
+  "paragraphs": [
+   "The Hollyhock House is a house museum at Barnsdall Art Park in the East Hollywood neighborhood of Los Angeles, California, United States. The house, designed by the architect Frank Lloyd Wright for the heiress Aline Barnsdall, is named for the hollyhock-inspired motifs in its design. The main house, incorporating elements from multiple architectural styles, consists of three wings around a central courtyard. It was built alongside two guesthouses called Residence A and B, a garage building, the Schindler Terrace, and the Spring House. Rudolph Schindler, Richard Neutra, and Wright's son Lloyd Wright helped design the main house and the other buildings.",
+   "Hollyhock House was the first house in Los Angeles and in Southern California designed by Frank Lloyd Wright. It is also one of seven houses that Wright designed in Greater Los Angeles and the only one that is regularly open to the public. Rudolph Schindler and Richard Neutra were also involved in the house's design. The house is named after Aline Barnsdall's favorite flower, the hollyhock, which Wright also liked. Hollyhock motifs are used not only throughout the house's interior and exterior, but also on external features such as lampposts."
+  ],
+  "title": "Hollyhock House",
+  "url": "https://en.wikipedia.org/wiki/Hollyhock_House",
+  "revision": 1377022351,
+  "fetched": "2026-10-20"
+ },
+ "united-nations-secretariat-building": {
+  "paragraphs": [
+   "The United Nations Secretariat Building is a skyscraper at the headquarters of the United Nations in the Turtle Bay neighborhood of Manhattan in New York City. It contains the offices of the United Nations Secretariat, the executive organ of the United Nations (UN). The building, designed in the International Style, is 505 ft (154 m) tall with 39 above-ground stories. It was designed by a group of architects led by Wallace Harrison. Although the building is located within the United States, the site is under UN jurisdiction, so the building is exempt from some local regulations.",
+   "The Secretariat Building was designed in the International Style by a team of ten architects working under planning director Wallace K. Harrison. The Board of Design comprised Nikolai Bassov of the Soviet Union; Gaston Brunfaut of Belgium; Ernest Cormier of Canada; Le Corbusier of France; Liang Seu-cheng of China; Sven Markelius of Sweden; Oscar Niemeyer of Brazil; Howard Robertson of the United Kingdom; G. A. Soilleux of Australia; and Julio Vilamajó of Uruguay. Abel Sorenson was the interior designer. In addition, David Fine of United States Steel oversaw the construction of the Secretariat Building. The building houses the administrative functions of the UN, including day-to-day duties such as finance and translation. It contains three basement levels and 39 above-ground stories."
+  ],
+  "title": "United Nations Secretariat Building",
+  "url": "https://en.wikipedia.org/wiki/United_Nations_Secretariat_Building",
+  "revision": 1370041845,
+  "fetched": "2026-10-20"
+ },
+ "reunion-tower": {
+  "paragraphs": [
+   "Reunion Tower is a 561 ft (171 m) observation tower in Dallas, and one of the city's most recognizable landmarks. The tower is located at 300 Reunion Boulevard in the Reunion district of downtown Dallas, which is named after the mid-nineteenth century commune La Reunion. A free-standing structure until the construction of an addition to the Hyatt Regency Dallas and surrounding complex in 1998, the tower is the city's 15th tallest occupiable structure. It was designed by architectural firm Welton Becket & Associates.",
+   "The tower contains three floors with circular floor plans on top of four shafts of poured-in-place concrete. A central cylindrical shaft houses both stairs and mechanical equipment. Three rectangular shafts, featuring elevators, rise parallel to the central shaft. Each shaft's outfacing wall is made up of glass panels, providing tourists views of the city during the 60-second elevator ride to the top. Before renovations in 2008, the first level housed the observation deck, the second a revolving restaurant called Antares, and the third level a club called The Dome. The top three floors are encased in an open-air sphere, which is a geodesic dome formed with aluminum struts. Every one of the struts' 259 intersections is covered by aluminum circles with lights in the center."
+  ],
+  "title": "Reunion Tower",
+  "url": "https://en.wikipedia.org/wiki/Reunion_Tower",
+  "revision": 1367344133,
+  "fetched": "2026-10-20"
+ },
+ "san-francisco-city-hall": {
+  "paragraphs": [
+   "San Francisco City Hall is the seat of government for the City and County of San Francisco, California. Re-opened in 1915 in its open space area in the city's Civic Center, it is a Beaux-Arts monument to the City Beautiful movement that epitomized the high-minded American Renaissance of the 1880s to 1917. The structure's dome is taller than that of the United States Capitol by 42 feet (13 m). The present building replaced an earlier City Hall that was destroyed during the 1906 earthquake, which was two blocks from the present one.",
+   "The building's vast open space is more than 500,000 square feet (46,000 m2) and occupies two full city blocks. It is 390 ft (120 m) between Van Ness Avenue and Polk Street, and 273 ft (83 m) between Grove and McAllister Streets. Its dome, which owes much to Mansart's Baroque domes of the Val-de-Grâce (church) and Les Invalides in Paris, rises 307.5 ft (93.7 m) above the Civic Center Historic District. It is 19 ft (5.8 m) higher than the United States Capitol, and has a diameter of 112 ft (34 m), resting upon 4 x 50 ton (44.5 metric ton) and 4 x 20 ton (17.8 metric ton) girders, each 9 ft (2.7 m) deep and 60 ft (18 m) long."
+  ],
+  "title": "San Francisco City Hall",
+  "url": "https://en.wikipedia.org/wiki/San_Francisco_City_Hall",
+  "revision": 1374984435,
+  "fetched": "2026-10-20"
+ },
+ "wrigley-building": {
+  "paragraphs": [
+   "The Wrigley Building is a commercial skyscraper located at 400–410 North Michigan Avenue on Chicago's Near North Side. It is located on the Magnificent Mile directly across Michigan Avenue from the Tribune Tower. Its two towers in an elaborate style were built between 1920 and 1924 to house the corporate headquarters of the Wrigley Company. Its bright white facade is covered in terra cotta."
+  ],
+  "title": "Wrigley Building",
+  "url": "https://en.wikipedia.org/wiki/Wrigley_Building",
+  "revision": 1361118736,
+  "fetched": "2026-10-20"
+ },
+ "arena-da-amazonia": {
+  "paragraphs": [
+   "Arena da Amazônia (Amazon Arena) is a football stadium in Manaus, Amazonas, Brazil, located on the former site of the Vivaldão stadium. The stadium has an all-seater capacity of 42,924 and was constructed from 2010 to 2014 as part of Brazil's hosting of the 2014 FIFA World Cup. It hosted matches of the football tournament at the 2016 Summer Olympics. During the World Cup, the arena had a limited maximum-capacity of 40,549.",
+   "Built on the site of the old Vivaldo Lima stadium, the Arena da Amazônia is located midway between Manaus International Airport and the historic center of the city. It is also near the Manaus Convention Center and the Amadeu Teixeira Arena. The cost of its construction was split with 25% paid by the Amazonas State Government and 75% by the Brazilian Development Bank.",
+   "The stadium was designed by German architecture firm Gerkan, Marg and Partners, with inspiration from the Amazon rainforest that surrounds the city of Manaus and its metallic exterior structure is designed to evoke the straw baskets that are made in the region. It was built by the Brazilian engineering firm Andrade Gutierrez and incorporates several sustainability-friendly features."
+  ],
+  "title": "Arena da Amazônia",
+  "url": "https://en.wikipedia.org/wiki/Arena_da_Amaz%C3%B4nia",
+  "revision": 1372063922,
+  "fetched": "2026-10-20"
+ },
+ "one-chase-manhattan-plaza-28-liberty-street": {
+  "paragraphs": [
+   "28 Liberty Street, formerly known as One Chase Manhattan Plaza, is a 60-story International Style skyscraper between Nassau, Liberty, William, and Pine Streets in the Financial District of Manhattan in New York City. The building, designed by Gordon Bunshaft of Skidmore, Owings & Merrill (SOM), opened in 1961. It is 813 feet (248 m) tall.",
+   "Skidmore, Owings & Merrill (SOM) designed 28 Liberty Street. Four of the firm's thirteen general partners were most involved with 28 Liberty Street's design, namely Gordon Bunshaft, Edward James Mathews, Nathaniel A. Owings, and J. Walter Severinghaus. Bunshaft, who was tasked with the building's general design, passed most of the planning responsibilities to Roy O. Allen and Jacques E. Guiton, since Bunshaft was also involved in several other projects at the time. Three contractors were hired to excavate the foundations, while Turner Construction was hired as the general contractor. Weiskopf & Pickworth was hired as the structural engineer."
+  ],
+  "title": "28 Liberty Street",
+  "url": "https://en.wikipedia.org/wiki/28_Liberty_Street",
+  "revision": 1376569288,
+  "fetched": "2026-10-20"
+ },
+ "sea-organ": {
+  "paragraphs": [
+   "The Sea organ (Croatian: Morske orgulje) is an architectural sound art object located in Zadar, Croatia and an experimental musical instrument, which plays music by way of sea waves and tubes located underneath a set of large marble steps."
+  ],
+  "title": "Sea organ",
+  "url": "https://en.wikipedia.org/wiki/Sea_organ",
+  "revision": 1310527274,
+  "fetched": "2026-10-20"
+ },
+ "milwaukee-art-museum-quadracci-pavilion": {
+  "paragraphs": [
+   "The Milwaukee Art Museum (also referred to as MAM) is an art museum in Milwaukee, Wisconsin. Its collection of nearly 35,000 works of art and gallery spaces totaling 150,000 sq. ft. (13,900 m²) make it the largest art museum in the state of Wisconsin and one of the largest art museums in the United States.",
+   "The Milwaukee Art Museum emerged from the reunion of two prior art institutions, the Layton Art Gallery and the Milwaukee Art Institute, both established in 1888. In 1957, they combined their collections inside the newly-completed Milwaukee County War Memorial designed by Finnish-American architect Eero Saarinen, forming the Milwaukee Arts Center (renamed Milwaukee Art Museum in 1980). Subsequent expansions included the David Kahler Building in 1975, the Quadracci Pavilion by Spanish architect Santiago Calatrava, inaugurated in 2001, and the East End entrance, opened in 2015.",
+   "Among highlights of the collection are paintings by American artists of the Ashcan School, American and European decorative arts, 19th-century German art and early-20th-century German Expressionist art, as well as folk and Haitian art. The museum also holds one of the largest collections of works by Wisconsin-born artist Georgia O'Keeffe in the United States."
+  ],
+  "title": "Milwaukee Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Milwaukee_Art_Museum",
+  "revision": 1377936299,
+  "fetched": "2026-10-20"
+ },
+ "faneuil-hall-marketplace": {
+  "paragraphs": [
+   "Quincy Market (originally Faneuil Hall Market) is a historic marketplace complex in Downtown Boston, Massachusetts, United States. Located at Merchants Row next to Faneuil Hall, it consists of three buildings constructed in 1826 and designed by Alexander Parris. The central two-story building (sometimes known as Quincy Market) is flanked by the 4+1⁄2-story North and South Markets, each containing multiple storefront units. Since 1976, Quincy Market has been the Faneuil Hall Marketplace, a festival marketplace. The buildings are designated as a National Historic Landmark and as Boston Landmarks.",
+   "Alexander Parris designed all three Quincy Market buildings. The central building, a two-story granite structure, was the most ornate. It is flanked by the North and South Markets, a pair of 4+1⁄2-story brick and granite buildings designed in a more utilitarian style. The three buildings contain a combined 290,000 square feet (27,000 m2) of retail space and 140,000 square feet (13,000 m2) of office space. The structures are built on pyramidal foundations, distributing the buildings' weight across the underlying clay."
+  ],
+  "title": "Quincy Market",
+  "url": "https://en.wikipedia.org/wiki/Quincy_Market",
+  "revision": 1378103925,
+  "fetched": "2026-10-20"
+ },
+ "national-gallery-of-victoria": {
+  "paragraphs": [
+   "The National Gallery of Victoria, popularly known as the NGV, is an art museum in Melbourne, Victoria, Australia. Founded in 1861, it is Australia's oldest and most visited art museum.",
+   "With over 76,000 works in its collection, the NGV has the second largest art collection of any Australian gallery. The NGV houses its collection across two sites: NGV International, located on St Kilda Road in the Melbourne Arts Precinct of Southbank, and the Ian Potter Centre: NGV Australia, located nearby at Federation Square. The NGV International building, designed by Sir Roy Grounds, opened in 1968, and was redeveloped by Mario Bellini before reopening in 2003. It houses the gallery's international art collection and is on the Victorian Heritage Register. The Ian Potter Centre: NGV Australia, designed by Lab Architecture Studio, opened in 2002 and houses the gallery's Australian art collection.",
+   "A third site, The Fox: NGV Contemporary, is planned to open in the Melbourne Arts Precinct in 2028, and will be Australia's largest contemporary art gallery."
+  ],
+  "title": "National Gallery of Victoria",
+  "url": "https://en.wikipedia.org/wiki/National_Gallery_of_Victoria",
+  "revision": 1381146952,
+  "fetched": "2026-10-20"
+ },
+ "hotel-tassel": {
+  "paragraphs": [
+   "The Hôtel Tassel (French: Hôtel Tassel; Dutch: Hotel Tassel), also known as the Tassel House, is a historic town house in Brussels, Belgium. It was designed by Victor Horta for the scientist and professor Emile Tassel, and built between 1892 and 1893, in Art Nouveau style. It is considered one of the first buildings in that style (along with the Hankar House by Paul Hankar, built at the same time) because of its highly innovative plan and its ground-breaking use of materials and decoration. It is located at 6, rue Paul-Emile Janson/Paul-Emile Jansonstraat, a few steps from the Avenue Louise/Louizalaan.",
+   "Together with three other town houses of Victor Horta, including Horta's own house and workshop, it was added to the UNESCO World Heritage list in 2000 as the core of epoch-making urban residences that Horta designed before 1900."
+  ],
+  "title": "Hôtel Tassel",
+  "url": "https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel",
+  "revision": 1372344784,
+  "fetched": "2026-10-20"
+ },
+ "poljud-stadium-split": {
+  "paragraphs": [
+   "Gradski stadion u Poljudu (English: City Stadium in Poljud), better known as Stadion Poljud (English: Poljud Stadium) or simply Poljud, is a multi-use stadium in Split, Croatia, which has been the home ground of Hajduk Split football club since 1979. The stadium is located in the neighbourhood of Poljud, which belongs to city district of Spinut. It was opened in September 1979, and has a seating capacity of 33,987.",
+   "The author of the winning project in the original 1975 competition for the Split stadium was architect Ivan Piteša. He designed a fully covered, shell-shaped stadium without an athletics track, drawing his main inspiration from the Parc des Princes in Paris. Despite winning first place, the project was taken from him under controversial circumstances and awarded to Boris Magaš. In that same competition, Magaš's original proposal, which bore no resemblance to the stadium built today, had only placed third."
+  ],
+  "title": "Stadion Poljud",
+  "url": "https://en.wikipedia.org/wiki/Stadion_Poljud",
+  "revision": 1379611429,
+  "fetched": "2026-10-20"
+ },
+ "genex-tower": {
+  "paragraphs": [
+   "The Western City Gate (Serbian: Западна капија Београда, romanized: Zapadna kapija Beograda), also known as the Genex Tower (Serbian: Кула Генекс, romanized: Kula Geneks) is a 36-story skyscraper in Belgrade, Serbia, which was designed in 1977 by Mihajlo Mitrović in the brutalist style. It is formed by two towers connected with a two-story bridge and revolving restaurant at the top. It is 117 m (384 ft) tall (with restaurant 135–140 m or 443–459 ft). It remained the tallest building in Serbia and Belgrade for 42 years, until being surpassed by West 65 Tower in 2021.",
+   "The two towers are not the same height and serve different purposes. The taller tower serves as a residential tower with 30 floors while the shorter tower houses businesses within its 26 floors. A bridge connects the two at the 26th floor. The building is 117.76 m (386.4 ft) tall."
+  ],
+  "title": "Western City Gate",
+  "url": "https://en.wikipedia.org/wiki/Western_City_Gate",
+  "revision": 1380759873,
+  "fetched": "2026-10-20"
+ },
+ "grundtvig-s-church": {
+  "paragraphs": [
+   "Grundtvig's Church (Danish: Grundtvigs Kirke) is located in the Bispebjerg district of Copenhagen, Denmark. It is a rare example of expressionist church architecture. Due to its originality, it is one of the best known churches in the city.",
+   "Jensen-Klint's design for Grundtvig's Church is a synthesis of architectural styles. In preparation for the project, the architect studied many Danish village churches, particularly those on the island of Zealand with stepped gables. Their traditional building techniques, materials and decoration inspired his design. Klint merged the modern geometric forms of Brick Expressionism with the classical vertical of Gothic architecture.",
+   "The most striking feature of the building is its west façade, reminiscent of a westwork or of the exterior of a church organ. It includes the 49 m (160 ft) tall bell tower. The imposing façade with its strong verticality guides one's eyes towards the sky. The bottom half of the tower is simple brick while the upper reaches present the appearance of one solid, rippling surface.",
+   "Klint decorated the nave with a version of the stepped gables common on Danish churches, but reinterpreted by doubling the apex. The nave was designed with generous dimensions: the triple-aisled hall church is 76 m (259 ft) long in total and 35 m (115 ft) wide; the nave has a height of 22 m (72 ft)."
+  ],
+  "title": "Grundtvig's Church",
+  "url": "https://en.wikipedia.org/wiki/Grundtvig%27s_Church",
+  "revision": 1365353048,
+  "fetched": "2026-10-20"
+ },
+ "villa-tugendhat": {
+  "paragraphs": [
+   "Villa Tugendhat (Czech: Vila Tugendhat) is an architecturally significant building in Brno, Czech Republic. It is one of the pioneering prototypes of modern architecture in Europe, and was designed by the German architects Ludwig Mies van der Rohe and Lilly Reich. It was built between 1928 and 1930 for Fritz Tugendhat and his wife Greta, of the wealthy and influential Jewish Czech Tugendhat family. Of reinforced concrete, the villa soon became an icon of modernism. Famous for its revolutionary use of space and industrial building materials, the building was added to the UNESCO World Heritage List in 2001.",
+   "The free-standing three-story villa is on a slope and faces the south-west. The second story (the ground floor) consists of the main living and social areas with the conservatory, the terrace, the kitchen and servants' rooms. The third story (the first floor) has the main entrance from the street with a passage to the terrace, the entrance hall, and rooms for the parents, children and the nanny with appropriate facilities. The chauffeur's flat with the garages and the terrace are accessed separately."
+  ],
+  "title": "Villa Tugendhat",
+  "url": "https://en.wikipedia.org/wiki/Villa_Tugendhat",
+  "revision": 1375622429,
+  "fetched": "2026-10-20"
+ },
+ "camlca-tower": {
+  "paragraphs": [
+   "Küçük Çamlıca TV & Radio Tower (Turkish: Küçük Çamlıca TV-Radyo Kulesi), or simply Çamlıca Tower, (Turkish pronunciation: [tʃamlɯdʒa]) is a telecommunications tower with observation decks and restaurants on Little Çamlıca Hill in Üsküdar district of Istanbul, Turkey.",
+   "The total height of the tower is 369 metres (1,211 ft), 221 metres (725 ft) of which is a 49-storey reinforced concrete structure with 18 metres (59 ft) below ground. The height of the tower's steel antenna is 168 metres (551 ft). With a total height of 587 metres (1,926 ft) above sea level, it carries the title of the highest structure in Istanbul.",
+   "The structure was chosen by then prime minister Recep Tayyip Erdoğan after the Çamlıca Hill TV & Radio Tower Idea Project, which was opened by Istanbul Metropolitan Municipality in 2011. Construction started in late 2016 and finished four years later in September 2020. However, the project was set to be completed by the end of 2019. It was inaugurated on May 29, 2021.",
+   "After the tower was put into service, other antennas and antenna towers such as Çamlıca TRT Television Tower were either removed or demolished."
+  ],
+  "title": "Çamlıca Tower",
+  "url": "https://en.wikipedia.org/wiki/%C3%87aml%C4%B1ca_Tower",
+  "revision": 1343751354,
+  "fetched": "2026-10-20"
+ },
+ "al-hamra-tower": {
+  "paragraphs": [
+   "The Al Hamra Tower is a skyscraper in Kuwait City, Kuwait. It is the tallest building in Kuwait. Construction of the skyscraper started in 2005. It was completed in 2011. Designed by architectural firms Skidmore, Owings & Merrill and Ramshir and Callison, it is the tallest curved concrete skyscraper in the world, and the 40th tallest building in the world at 414 m (1,358 ft).",
+   "The building utilizes wrapped glass on the east, north, and west both for aesthetics and to reduce the amount of reflective surface area on the south facade, which also features brushed Jura limestone. Flared walls reaching from the southwest and southeast corners of the core span the entire height of the tower, and there is a column-free 24-meter-tall lobby."
+  ],
+  "title": "Al Hamra Tower",
+  "url": "https://en.wikipedia.org/wiki/Al_Hamra_Tower",
+  "revision": 1355210478,
+  "fetched": "2026-10-20"
+ },
+ "union-buildings": {
+  "paragraphs": [
+   "The Union Buildings (Afrikaans: Uniegebou) form the official seat of the South African Government and also house the offices of the President of South Africa. The imposing buildings are located in Pretoria, atop Meintjeskop at the northern end of Arcadia, close to historic Church Square. The large gardens of the Buildings are nestled between Government Avenue, Vermeulen Street East, Church Street, the R104 and Blackwood Street. Fairview Avenue is a closed road through which only officials can enter the Union Buildings. Though not in the centre of Pretoria, the Union Buildings occupy the highest point of Pretoria, and constitute a South African national heritage site.",
+   "These buildings, built from light sandstone, were designed by the architect Sir Herbert Baker in the English monumental style and are 285 m long. They have a semi-circular shape, with the two wings at the sides, this serves to represent the union of a formerly divided people. The clock chimes are identical to those of Big Ben in London. The east and west wings, as well as the twin-domed towers, represent two languages, English and Afrikaans, and the inner court was designed and built to symbolise the Union of South Africa. These buildings are considered by many to be the architect's greatest achievement and a South African architectural masterpiece."
+  ],
+  "title": "Union Buildings",
+  "url": "https://en.wikipedia.org/wiki/Union_Buildings",
+  "revision": 1350139213,
+  "fetched": "2026-10-20"
+ },
+ "bitexco-financial-tower": {
+  "paragraphs": [
+   "Bitexco Financial Tower (Vietnamese: Tháp Tài chính Bitexco) is a skyscraper in Financial District, Saigon, Ho Chi Minh City, Vietnam (next to the city's state treasury). At its completion in 2010, it became the tallest building in Vietnam and kept this status until January 2011, when it was surpassed by Keangnam Hanoi Landmark Tower. With 68 floors above ground and three basements, the building has a height of 262.5 metres (861 ft), making it the second tallest building in the city, fourth tallest in Vietnam, and the 412th tallest in the world, as of May 2022.",
+   "The tower is owned by Bitexco Group, a Vietnamese multi-industry corporation, with a focus on real estate development. The building also houses the Ho Chi Minh City representative office of Bitexco Group, while its headquarters are in Hanoi.",
+   "The tower was designed by Carlos Zapata, Design Principal and Founder of Carlos Zapata Studio, with AREP as architect of record. Designed by Carlos Zapata, drew inspiration for this skyscraper's unique shape from Vietnam's national flower, the Lotus.",
+   "The tower was officially inaugurated on 31 October 2010. In 2013, CNN named the Bitexco Financial Tower one of the 25 Great Skyscraper Icons of Construction. In 2015, Thrillist named the Bitexco Financial Tower the #2 Coolest Skyscraper in the World."
+  ],
+  "title": "Bitexco Financial Tower",
+  "url": "https://en.wikipedia.org/wiki/Bitexco_Financial_Tower",
+  "revision": 1378682620,
+  "fetched": "2026-10-20"
+ },
+ "padre-pio-pilgrimage-church": {
+  "paragraphs": [
+   "The Sanctuary of Saint Pio of Pietrelcina (Italian: Santuario di San Pio da Pietrelcina), also called Shrine of Padre Pio or Padre Pio Pilgrimage Church, is a Catholic shrine in San Giovanni Rotondo, Province of Foggia, Italy, owned by the Order of Friars Minor Capuchin and dedicated to the Italian Capuchin friar, priest, stigmatist, and mystic, widely known as Padre Pio.",
+   "Its surface area is 6,000 square meters and is located two kilometers from the town center. It houses the old church called the Sanctuary of Santa Maria delle Grazie (Our Lady of Grace Capuchin Friary) and its attached convent where Saint Padre Pio lived and the new Chiesa San Pio or Padre Pio Pilgrimage Church right behind it.",
+   "Built in devotion to Saint Pio of Pietrelcina, the Padre Pio Pilgrimage Church can accommodate 6,500 people seated at worship, with standing room for 30,000 people outside. It was built from 1998 to 2004. The body of St. Padre Pio was moved to the sanctuary or newer church in 2010 and is placed in enclosed glass. The Genoan architect Renzo Piano designed the Padre Pio Pilgrimage Church. It is located in front of Casa Sollievo della Sofferenza (\"Home for the Relief of Suffering\"), a large Italian hospital and research center, founded by Padre Pio."
+  ],
+  "title": "Sanctuary of Saint Pio of Pietrelcina",
+  "url": "https://en.wikipedia.org/wiki/Sanctuary_of_Saint_Pio_of_Pietrelcina",
+  "revision": 1337112570,
+  "fetched": "2026-10-20"
+ },
+ "douaumont-ossuary": {
+  "paragraphs": [
+   "The Douaumont Ossuary (French: Ossuaire de Douaumont) is a memorial containing the skeletal remains of soldiers who died on the battlefield during the Battle of Verdun in World War I. It is located in Douaumont-Vaux, France, within the Verdun battlefield, and immediately next to the Fleury-devant-Douaumont National Necropolis. It was built on the initiative of Charles Ginisty, Bishop of Verdun.",
+   "The architects of the ossuary were Léon Azéma, Max Edrei, and Jacques Hardy. George Desvallières designed the stained glass windows. The tower is 46 meters (151 ft) high and has a panoramic view of the battlefields. The tower contains a bronze death-bell, weighing over 2 tonnes (2.0 long tons; 2.2 short tons), called Bourdon de la Victoire, which is sounded at official ceremonies. It was offered by an American benefactor, Anne Thornburn Van Buren, in 1927. At the top of the tower is a rotating red and white \"lantern of the dead\", which shines on the battlefields at night. The cloister is 137 meters (449 ft) long and contains 42 interior alcoves."
+  ],
+  "title": "Douaumont Ossuary",
+  "url": "https://en.wikipedia.org/wiki/Douaumont_Ossuary",
+  "revision": 1361682912,
+  "fetched": "2026-10-20"
+ },
+ "chicago-board-of-trade-building": {
+  "paragraphs": [
+   "The Chicago Board of Trade Building is a 44-story, 604-foot (184 m) Art Deco skyscraper located in the Chicago Loop, standing at the foot of the LaSalle Street \"canyon\". Built in 1930 for the Chicago Board of Trade (CBOT), it has served as the primary trading venue of the CBOT and later the CME Group, formed in 2007 by the merger of the CBOT and the Chicago Mercantile Exchange. In 2012, the CME Group sold the CBOT Building to a consortium of real estate investors, including GlenStar Properties LLC and USAA Real Estate Company.",
+   "In 1925, the Chicago Board of Trade commissioned Holabird & Root to design the current building. The general contractors Hegeman & Harris built it for $11.3 million, although the reported twenty-year mortgage value was $12 million. Clad in gray Indiana limestone, topped with a copper pyramid roof, and standing on a site running 174 ft (53 m) east–west on Jackson Boulevard and 240 ft (73 m) north–south on LaSalle Street, the 605 ft (184 m) tall art deco-styled building opened on June 9, 1930. It serves as the southern border for the skyscrapers hugging LaSalle Street and is taller than surrounding structures for several blocks."
+  ],
+  "title": "Chicago Board of Trade Building",
+  "url": "https://en.wikipedia.org/wiki/Chicago_Board_of_Trade_Building",
+  "revision": 1380485544,
+  "fetched": "2026-10-20"
+ },
+ "de-young-museum": {
+  "paragraphs": [
+   "The de Young Museum, formally the M. H. de Young Memorial Museum, is a fine arts museum located in San Francisco, California, United States, named for early San Francisco newspaperman M. H. de Young. Located on the West Side of the city in Golden Gate Park, it is a component of the Fine Arts Museums of San Francisco, along with the Legion of Honor.",
+   "The current building was completed by architects Jacques Herzog, Pierre de Meuron and Fong + Chan and opened on October 15, 2005. Structural, civil and geotechnical engineering was provided by Rutherford + Chekene; Arup Group provided mechanical and electrical engineering. Herzog & de Meuron won the competition in January 1999 beating out other short-listed architects Tadao Ando and Antoine Predock. The terrain and seismic activity in San Francisco posed a challenge for the designers Herzog & de Meuron and principal architects Fong & Chan. To help withstand future earthquakes, \"[the building] can move up to three feet (91 centimeters) due to a system of ball-bearing sliding plates and viscous fluid dampers that absorb kinetic energy and convert it to heat\"."
+  ],
+  "title": "De Young Museum",
+  "url": "https://en.wikipedia.org/wiki/De_Young_Museum",
+  "revision": 1379438390,
+  "fetched": "2026-10-20"
+ },
+ "goetheanum": {
+  "paragraphs": [
+   "The Goetheanum, located in Dornach, in the canton of Solothurn, Switzerland, is the world center for the anthroposophical movement. The term refers to two structures, the first was in use 1919 to 1922 and destroyed by fire; the second was completed in 1928 and has been in use since.",
+   "The building was designed by Rudolf Steiner, the founder of anthroposophy, and named after Johann Wolfgang von Goethe. It includes two performance halls (1,500 seats), gallery and lecture spaces, a library, a bookstore, and administrative spaces for the Anthroposophical Society; neighboring buildings house the society's research and educational facilities. Conferences focusing on themes of general interest or directed toward teachers, farmers, doctors, therapists, and other professionals are held at the center throughout the year.",
+   "The Goetheanum is open for visitors seven days a week and offers tours several times daily."
+  ],
+  "title": "Goetheanum",
+  "url": "https://en.wikipedia.org/wiki/Goetheanum",
+  "revision": 1379049058,
+  "fetched": "2026-10-20"
+ },
+ "umeda-sky-building": {
+  "paragraphs": [
+   "The Umeda Sky Building (梅田スカイビル, Umeda Sukai Biru) is a two-tower mixed-use skyscraper in Osaka, Japan. Located on the outskirts of the Umeda business district in Kita-ku, Osaka, the Umeda Sky Building consists of two 40-story towers interconnected at their two uppermost stories via glass bridges with escalators and elevators that cross an open atrium space. It is currently the fifteenth-tallest building in the prefecture.",
+   "The towers reach a total height of 170 m (557.74 ft) while the overall height of the tower including the spires is 190 metres (623.4 ft). The towers were designed by Hiroshi Hara, and were constructed by Takenaka Corporation They were completed in 1993."
+  ],
+  "title": "Umeda Sky Building",
+  "url": "https://en.wikipedia.org/wiki/Umeda_Sky_Building",
+  "revision": 1364669903,
+  "fetched": "2026-10-20"
+ },
+ "national-monument-indonesia": {
+  "paragraphs": [
+   "The National Monument (Indonesian: Monumen Nasional, abbreviated Monas) is a 132 m (433 ft) obelisk in the centre of Merdeka Square, Central Jakarta. It is the national monument of the Republic of Indonesia, built to commemorate the struggle for Indonesian independence. This monument is crowned with a flame covered in gold leaf which symbolizes the burning spirit of struggle of the Indonesian people.",
+   "The towering monument encapsulates the philosophy of Lingga and Yoni. Lingga resembles an alu rice pestle and Yoni resembles a lesung rice mortar, two important traditional Indonesian tools. Lingga and Yoni also symbolize harmony, balance, fertility and eternal life with the lingga phallic symbol, representing masculinity, positive elements, and daytime and the Yoni the female organs symbol, representing femininity, negative elements, and night.",
+   "It also resembles the bloom of the famous Amorphophallus titanum, native to Indonesia. Indeed, fiberglass Amorphophallus and Rafflesia sculptures were once installed around the monument.",
+   "The monument consists of a 117.7m obelisk on a 45m square platform at a height of 17m, the goblet yard. The obelisk itself is clad with Italian marble."
+  ],
+  "title": "National Monument (Indonesia)",
+  "url": "https://en.wikipedia.org/wiki/National_Monument_(Indonesia)",
+  "revision": 1376875123,
+  "fetched": "2026-10-20"
+ },
+ "futuro-house": {
+  "paragraphs": [
+   "A Futuro house or Futuro Pod is a round, prefabricated house designed by Finnish architect Matti Suuronen, of which fewer than 100 were built during the late 1960s and early 1970s. The shape, reminiscent of a flying saucer, and the structure's airplane-hatch entrance, has made the houses sought after by collectors. The Futuro is composed of fiberglass-reinforced polyester plastic, polyester-polyurethane, and poly(methyl methacrylate), measuring 4 metres (13 feet) high and 8 metres (26 feet) in diameter."
+  ],
+  "title": "Futuro",
+  "url": "https://en.wikipedia.org/wiki/Futuro",
+  "revision": 1369940631,
+  "fetched": "2026-10-20"
+ },
+ "new-york-state-pavilion": {
+  "paragraphs": [
+   "The New York State Pavilion is a pavilion at Flushing Meadows–Corona Park in Queens, New York City, New York. Constructed for the 1964 New York World's Fair, it was designed by the architects Philip Johnson and Richard Foster, with Lev Zetlin as the structural engineer. The pavilion consists of three reinforced concrete-and-steel structures: the Tent of Tomorrow, observation towers, and Theaterama. It is owned by the New York City Department of Parks and Recreation (NYC Parks) and listed on the National Register of Historic Places.",
+   "The New York State Pavilion consists of three reinforced concrete-and-steel sets of structures: the Tent of Tomorrow, observation towers, and Theaterama. The Tent of Tomorrow is at the center of the site, the observation towers are to the northwest, and the Theaterama is to the northeast. The pavilion was primarily designed by the architectural partnership of Philip Johnson and Richard Foster. The structural engineer Lev Zetlin is credited with designing the Tent of Tomorrow's roof."
+  ],
+  "title": "New York State Pavilion",
+  "url": "https://en.wikipedia.org/wiki/New_York_State_Pavilion",
+  "revision": 1376720599,
+  "fetched": "2026-10-20"
+ },
+ "centre-point-london": {
+  "paragraphs": [
+   "Centre Point is a building in Central London, comprising a 34-storey tower; a 9-storey block to the east including shops, offices, retail units and maisonettes; and a linking block between the two at first-floor level. It occupies 101–103 New Oxford Street and 5–24 St Giles High Street, WC1, with a frontage also to Charing Cross Road, close to St Giles Circus and almost directly above Tottenham Court Road tube station. The site was once occupied by a gallows, and the tower sits directly over the former route of St Giles High Street, which had to be re-routed for the construction.",
+   "The building is 117 m (385 ft) high, has 34 floors and 27,180 m2 (292,563 sq ft) of floor space. Constructed from 1963 to 1966, it was one of the first skyscrapers in London, and as of 2009 was the city's joint 27th-tallest building. It stood empty from the time of its completion until 1975, and was briefly occupied by housing activists in 1974. Since 1995 it has been a Grade II listed building. In 2015, it was converted from office space to flats."
+  ],
+  "title": "Centre Point",
+  "url": "https://en.wikipedia.org/wiki/Centre_Point",
+  "revision": 1370321182,
+  "fetched": "2026-10-20"
+ },
+ "austrian-parliament-building": {
+  "paragraphs": [
+   "The Austrian Parliament Building in Vienna is the meeting place of the two houses of the Austrian Parliament. The building is located on the Ringstraße in the first district, Innere Stadt, near Hofburg Palace and the Palace of Justice. It was built to house the two chambers of the Imperial Council (Reichsrat), the bicameral legislature of the Cisleithanian (Austrian) part of the Austro-Hungarian Empire. Since its construction, the Parliament Building has been the seat of these two houses, and their successors—the National Council (Nationalrat) and the Federal Council (Bundesrat)—of the Austrian legislature.",
+   "The foundation stone was laid in 1874; the building was completed in 1883. The architect responsible for its Greek Revival style was Theophil Hansen. He designed the building holistically, aiming to have each element harmonize with all the others, and was also responsible for the interior decoration, such as statues, paintings, furniture, chandeliers, and numerous other elements. Hansen was honored by Emperor Franz Joseph with the title of Freiherr (Baron) after its completion. Following heavy damage and destruction in World War II, most of the interior has been restored to its original splendor."
+  ],
+  "title": "Austrian Parliament Building",
+  "url": "https://en.wikipedia.org/wiki/Austrian_Parliament_Building",
+  "revision": 1372204478,
+  "fetched": "2026-10-20"
+ },
+ "berlaymont": {
+  "paragraphs": [
+   "The Berlaymont building, or simply the Berlaymont (French pronunciation: [bɛʁlɛmɔ̃]), is an office building in Brussels, Belgium, which houses the headquarters of the European Commission, the executive branch of the European Union (EU). The structure is located on the Robert Schuman Roundabout at 200, rue de la Loi/Wetstraat, in the European Quarter. The unique form of the Berlaymont's architecture is used in the European Commission's official emblem. The building is named after the former Convent of the Ladies of Berlaymont, which occupied the site.",
+   "The building, under the provisional name Centre Administratif Europe, was designed by Lucien De Vestel, in association with Jean Gilson (Groupe Alpha), André and Jean Polak and with the recommendations of the engineer Joris Schmidt. It was directly inspired by the 1958 secretariat building of UNESCO in Paris (which was designed by Marcel Breuer, Pier Luigi Nervi and Bernard Zehrfuss). The technical design was ground-breaking at the time, and generated an enthusiastic response from a Brussels journal: \"This design concept reflects both the 20th century innovative spirit and sheer audacity and brings to mind the astonishing civil engineering arrow at the 1958 exhibition.\""
+  ],
+  "title": "Berlaymont building",
+  "url": "https://en.wikipedia.org/wiki/Berlaymont_building",
+  "revision": 1366985465,
+  "fetched": "2026-10-20"
+ },
+ "dhahran-air-terminal": {
+  "paragraphs": [
+   "King Abdulaziz Air Base (Arabic: قاعدة الملك عبدالعزيز الجوية) (IATA: DHA, ICAO: OEDR), also known as Dhahran Air Base and formerly Dhahran International Airport, Dhahran Airport and Dhahran Airfield, is a Royal Saudi Air Force base located in Dhahran in the Eastern Province, Saudi Arabia. Located west of Thuqbah and 7 km (4 mi) southeast of the Saudi Aramco Dhahran Camp, the airbase was the first Saudi Arabian airport to be constructed, in 1961, and is under the command of Air vice-marshal Prince Turki bin Bandar bin Abdulaziz Al Saud.",
+   "The airbase was initially built and operated by the United States Air Force from 1945 until 1962 and was known as the Dhahran Airfield. After use by the USAF, it was converted for commercial use and was known as the Dhahran International Airport, and was shared with the King Abdulaziz Air Base of the Royal Saudi Air Force. The military relationship that exists today between the United States and Saudi Arabia was highly influenced by the origin and development of this airfield."
+  ],
+  "title": "King Abdulaziz Air Base",
+  "url": "https://en.wikipedia.org/wiki/King_Abdulaziz_Air_Base",
+  "revision": 1365014040,
+  "fetched": "2026-10-20"
+ },
+ "french-communist-party-headquarters": {
+  "paragraphs": [
+   "The headquarters of the French Communist Party (French: siège du Parti communiste français) are located at 2 Place du Colonel Fabien in the 19th arrondissement of Paris. The lead architect was Oscar Niemeyer, who had previously designed many buildings for Brazil's new capital of Brasília.",
+   "It was designed in 1966 and works began in 1968. The building was inaugurated in 1971; its external dome was not fully completed until 1980. It was built in concrete and has curves. The dome, where the party's National Council sits, represents a pregnant woman according to the architect. Niemeyer, himself a communist, designed the building while living in exile in France during the military dictatorship in Brazil. In designing the building, Niemeyer collaborated with Paul Chemetov, Jean Deroche, José L. Pinho, Jean Prouvé, and Jacques Tricot.",
+   "In 2007, the building – a notable structure built in the style of Brutalist architecture – was classed as a monument historique. A survey by 20 minutes in 2020 found the building to be one that divided opinions the most among Parisians, alongside the Tour Montparnasse and the Sacré-Cœur."
+  ],
+  "title": "Headquarters of the French Communist Party",
+  "url": "https://en.wikipedia.org/wiki/Headquarters_of_the_French_Communist_Party",
+  "revision": 1364524678,
+  "fetched": "2026-10-20"
+ },
+ "bauhaus-dessau": {
+  "paragraphs": [
+   "Bauhaus Dessau, also Bauhaus-Building Dessau, is a building-complex in Dessau-Roßlau. It is considered the pinnacle of pre-war modern design in Europe and originated out of the dissolution of the Weimar School and the move by local politicians to reconcile the city's industrial character with its cultural past.",
+   "The building, constructed in the international style, consists of five functionally structured parts, arranged additively in several wings. The reinforced concrete-frame structures were arranged on a flat site in such a way that there is no \"front\" in the customary sense. In one of these wings was the \" School of Arts and Crafts\" (later to become a technical school), the workshop wing with its distinctive glass curtain wall and Atelierhaus. The wall's design evoked industrial innovation of a factory building rather than the tradition and civic elevation of an academic institution. The Atelierhaus contained the dormitory studios for the students. The north wing of the crafts school and the workshop wing are connected by a two-story bridge. This was intended for administrative rooms and the building office of Gropius (later the Bauhaus architecture department). In a flat building between the workshop section and the Atelierhaus are the auditorium and stage as well as the Bauhaus cafeteria."
+  ],
+  "title": "Bauhaus Dessau",
+  "url": "https://en.wikipedia.org/wiki/Bauhaus_Dessau",
+  "revision": 1381108069,
+  "fetched": "2026-10-20"
+ },
+ "chemosphere": {
+  "paragraphs": [
+   "The Chemosphere is a modernist house at 7776 Torreyson Drive in Los Angeles, California, designed by John Lautner in 1960. The building, which the Encyclopædia Britannica once called \"the most modern home built in the world\", is admired both for the ingenuity of its solution to the problem of the site and for its unique octagonal design.",
+   "The building stands on the San Fernando Valley side of the Hollywood Hills, just off Mulholland Drive. It is a one-story octagon with around 2,200 square feet (200 m2) of living space. Most distinctively, the house is perched atop a 5-foot-wide (1.5 m) concrete column nearly 30 feet (9 m) high. This design was Lautner's solution to a site that, with a slope of 45 degrees, was thought to be practically unbuildable. Because of a concrete pedestal, almost 20 feet (6 m) in diameter, buried under the earth and supporting the column, the house has survived earthquakes and heavy rains. The house is reached by a funicular.",
+   "Chemosphere is bisected by a central exposed brick wall with a fireplace, abutted by subdued seating, in the middle. The original decoration was provided by John H. Smith, the first African American admitted to the National Society of Interior Designers."
+  ],
+  "title": "Chemosphere",
+  "url": "https://en.wikipedia.org/wiki/Chemosphere",
+  "revision": 1372848892,
+  "fetched": "2026-10-20"
+ },
+ "humble-administrator-s-garden": {
+  "paragraphs": [
+   "The Humble Administrator's Garden is a Chinese garden in Suzhou, a UNESCO World Heritage Site and one of the most famous of the gardens of Suzhou. The garden is located at 178 Northeast Street (东北街178号; 東北街178號), Gusu District.",
+   "The garden contains numerous pavilions and bridges set among a maze of connected pools and islands. It consists of three major parts set about a large lake: the central part (Zhuozheng Yuan), the eastern part (once called Guitianyuanju, Dwelling Upon Return to the Countryside), and a western part (the Supplementary Garden). The house lies in the south of the garden. In total, the garden contains 48 different buildings with 101 tablets, 40 steles, 21 precious old trees, and over 700 Suzhou-style penjing/penzai. According to Lou Qingxi, compared with the layout from the Zhenghe period in the Ming dynasty, the garden \"now has more buildings and islets\", and although lacks a \"lofty\" feeling, it is \"still a masterpiece of meticulous work\". Liu Dunzhen judged that the arrangement of rocks and water in the ponds of the central third may have its origins in the early Qing. The western third retains the late nineteenth-century layout, while the eastern third has seen several renovation since."
+  ],
+  "title": "Humble Administrator's Garden",
+  "url": "https://en.wikipedia.org/wiki/Humble_Administrator%27s_Garden",
+  "revision": 1366154414,
+  "fetched": "2026-10-20"
+ },
+ "cathedral-of-brasilia": {
+  "paragraphs": [
+   "The Cathedral of Brasília (Portuguese: Catedral Metropolitana de Brasília, \"Metropolitan Cathedral of Brasília\") is the Roman Catholic cathedral serving Brasília, Brazil, and serves as the seat of the Archdiocese of Brasília. It was designed by Brazilian architect Oscar Niemeyer and engineered by Brazilian structural engineer Joaquim Cardozo, and was completed and dedicated on May 31, 1970.",
+   "The cathedral is a hyperboloid structure constructed from 16 concrete columns weighing 90 tons each.",
+   "In the square access to the cathedral are four 2.5-meter (8 ft 2 in) tall bronze sculptures representing the four Evangelists, created by sculptors Alfredo Ceschiatti and Dante Croce in 1968. Also outside the cathedral, to the right as visitors face the entrance, stands a 20-meter (66 ft) tall bell tower containing four large bells donated by Spanish residents of Brazil and cast in Miranda de Ebro. At the entrance of the cathedral is a pillar with passages from the life of Mary, mother of Jesus, painted by Athos.",
+   "A 12-meter (39 ft) wide, 40-centimeter (16 in) deep reflecting pool surrounds the cathedral roof and helps cool the building. Visitors pass under this pool when entering the cathedral."
+  ],
+  "title": "Cathedral of Brasília",
+  "url": "https://en.wikipedia.org/wiki/Cathedral_of_Bras%C3%ADlia",
+  "revision": 1366918619,
+  "fetched": "2026-10-20"
+ },
+ "vienna-city-hall": {
+  "paragraphs": [
+   "The Vienna City Hall (German: Wiener Rathaus; [ʁaːtˌhaʊs]) is the town hall of Vienna, Austria, located in the Innere Stadt on the Rathausplatz, off the Ringstrasse. The Gothic Revival building was designed by Friedrich von Schmidt and constructed between 1872 and 1883. It houses the offices of the Mayor of Vienna, as well as the city and state government."
+  ],
+  "title": "Vienna City Hall",
+  "url": "https://en.wikipedia.org/wiki/Vienna_City_Hall",
+  "revision": 1368792229,
+  "fetched": "2026-10-20"
+ },
+ "commerzbank-tower": {
+  "paragraphs": [
+   "Commerzbank Tower is a 56-story, 259 m (850 ft) skyscraper in the banking district of Frankfurt, Germany. Including an antenna spire on top, the tower has a total height of 300.1 m (985 ft), making it the tallest building in Germany.",
+   "Commerzbank Tower was designed by Foster & Partners, with Arup and Krebs & Kiefer (structural engineering), J. Roger Preston with P&A Petterson Ahrens (mechanical engineering), Schad & Hölzel (electrical engineering). Construction of the building began in 1994 and took three years to complete. The building provides 121,000 m2 (1,300,000 sq ft) of office space for the Commerzbank headquarters, including winter gardens and natural lighting and air circulation. The building is lighted at night with a yellow lighting scheme that was designed by Thomas Ende who won a competition.",
+   "In its immediate neighbourhood are other skyscrapers including the Eurotower (former home of the European Central Bank), the Main Tower, the Silberturm, the Japan Center and the Gallileo. The area forms Frankfurt's central business district, commonly known as Bankenviertel."
+  ],
+  "title": "Commerzbank Tower",
+  "url": "https://en.wikipedia.org/wiki/Commerzbank_Tower",
+  "revision": 1344641285,
+  "fetched": "2026-10-20"
+ },
+ "hiroshima-peace-memorial-museum": {
+  "paragraphs": [
+   "The Hiroshima Peace Memorial Museum is a museum in Hiroshima Peace Memorial Park, in central Hiroshima, Japan, dedicated to documenting the atomic bombing of Hiroshima in World War II.",
+   "The museum was established in August 1955 with the Hiroshima Peace Memorial Hall (now the International Conference Center Hiroshima). It is the most popular of Hiroshima's destinations for school field trips from all over Japan and for international visitors. 53 million people visited the museum between 1955 and 2005, averaging over one million yearly. The architect of the main building was Kenzō Tange."
+  ],
+  "title": "Hiroshima Peace Memorial Museum",
+  "url": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial_Museum",
+  "revision": 1369377388,
+  "fetched": "2026-10-20"
+ },
+ "senate-house-london": {
+  "paragraphs": [
+   "Senate House is the administrative centre of the University of London, situated in the heart of Bloomsbury, London, immediately to the north of the British Museum.",
+   "The Art Deco building was constructed between 1932 and 1937 as the first phase of a large uncompleted scheme designed for the university by Charles Holden. It consists of 19 floors and is 210 feet (64 m) high.",
+   "During the Second World War, the building's use by the Ministry of Information inspired two works of fiction by English writers. The earliest, Graham Greene's novel The Ministry of Fear (1943), inspired a 1944 film adaptation directed by Fritz Lang set in Bloomsbury. The description of the Ministry of Truth in George Orwell's novel Nineteen Eighty-Four (1949) evokes the Senate House. His wife Eileen worked in the building for the Censorship Department of the Ministry of Information.",
+   "Today the main building houses the University of London's Central Academic Bodies and activities, including the offices of the vice-chancellor of the university, the entire collection of the Senate House Library, six of the eight research institutes of the School of Advanced Study, as well as departments of distance learning provider University of London Worldwide."
+  ],
+  "title": "Senate House, London",
+  "url": "https://en.wikipedia.org/wiki/Senate_House,_London",
+  "revision": 1379874937,
+  "fetched": "2026-10-20"
+ },
+ "house-with-chimaeras": {
+  "paragraphs": [
+   "House with Chimaeras (Ukrainian: Будинок з химерами, romanized: Budynok z khymeramy) or Horodetsky House (named for Władysław Horodecki) is an Art Nouveau building located in the historic Lypky neighborhood of Kyiv, the capital of Ukraine. Situated across the street from the President of Ukraine's office at No. 10, Bankova Street, the building has been used as a presidential residence for official and diplomatic ceremonies since 2005. The street in front of the building is closed off to all automobile traffic, and is now a patrolled pedestrian zone due to its proximity to the Presidential Administration building.",
+   "The building was designed in the Art Nouveau style, which was at that time a relatively new style and featured flowing, curvilinear designs often incorporating floral and other plant-inspired motifs. Horodecki featured such motifs in the building's exterior decor in the forms of mythical creatures and big-game animals. His work on the House with Chimaeras has earned him the nickname of the Gaudí of Kyiv."
+  ],
+  "title": "House with Chimaeras",
+  "url": "https://en.wikipedia.org/wiki/House_with_Chimaeras",
+  "revision": 1354623087,
+  "fetched": "2026-10-20"
+ },
+ "enso-gutzeit-headquarters": {
+  "paragraphs": [
+   "The Stora Enso headquarters is an office building located in the Katajanokka neighbourhood of central Helsinki, Finland, completed in 1962. It is notable for having been designed by the Finnish architect Alvar Aalto.",
+   "Aalto's design is outwardly simple — essentially a white, monolithic block. However, the design and proportions are carefully considered, and the building makes use of premium exterior materials such as Carrara marble, granite, copper and brass, as well as lavish interior design features.",
+   "The building is commonly referred to as the \"Sugar Cube\" (Finnish: Sokeripala), due to its shape and colour.",
+   "There are six storeys above ground, with the top floor being slightly recessed to form a roof terrace overlooking the harbour and market square. There are also two underground levels, one of which is used for car parking. The total floor area is c. 12,000 square metres (130,000 sq ft). Many of the internal walls are movable, allowing the layout to be reconfigured should the tenant's spatial needs change."
+  ],
+  "title": "Enso headquarters",
+  "url": "https://en.wikipedia.org/wiki/Enso_headquarters",
+  "revision": 1372251396,
+  "fetched": "2026-10-20"
+ },
+ "cairo-tower": {
+  "paragraphs": [
+   "The Cairo Tower (Arabic: برج القاهرة, Borg El-Qāhira) is a free-standing concrete tower in Cairo, Egypt. At 187 m (614 ft), it was the tallest structure in Egypt for 37 years until 1998, when it was surpassed by the Suez Canal overhead powerline crossing. It was the tallest structure in North Africa for 21 years until 1982, when it was surpassed by the Nador transmitter in Morocco. It was the tallest structure in Africa for one year until 1962, when it was surpassed by Sentech Tower in South Africa.",
+   "One of Cairo's well-known modern monuments, sometimes considered Egypt's second most famous landmark after the Pyramids of Giza, it stands in the Gezira district on Gezira Island in the River Nile, close to downtown Cairo."
+  ],
+  "title": "Cairo Tower",
+  "url": "https://en.wikipedia.org/wiki/Cairo_Tower",
+  "revision": 1374227300,
+  "fetched": "2026-10-20"
+ },
+ "zizkov-television-tower": {
+  "paragraphs": [
+   "The Žižkov Television Tower (Czech: Žižkovský vysílač) is a transmitter tower built in Prague between 1985 and 1992. Designed by the architect Václav Aulický and the structural engineer Jiří Kozák, it stands high above the city's traditional skyline from its position on top of a hill in the district of Žižkov, from which it takes its name. The tower is an example of high-tech architecture."
+  ],
+  "title": "Žižkov Television Tower",
+  "url": "https://en.wikipedia.org/wiki/%C5%BDi%C5%BEkov_Television_Tower",
+  "revision": 1369008340,
+  "fetched": "2026-10-20"
+ },
+ "north-christian-church-columbus": {
+  "paragraphs": [
+   "The North Christian Church is a building and former congregation at 850 Tipton Lane in Columbus, Indiana, United States. Designed by Eero Saarinen and completed in 1964, the 192-foot-tall (59 m) structure originally housed a Protestant Disciples of Christ congregation of the same name. The interior designer Alexander Girard, the landscape architect Dan Kiley, and Saarinen's associate Kevin Roche assisted with various parts of the design. The building has been owned by the Bartholomew County Public Library since 2024. The design has received praise over the years, particularly for its spire and iconography, and was frequently compared to the First Christian Church, designed by Saarinen's father Eliel Saarinen. In addition, the building is designated as a National Historic Landmark.",
+   "The North Christian Church was designed by Eero Saarinen and Associates, with Eero Saarinen as primary architect. Alexander Girard was responsible for many of the interior furnishings, including objects used for liturgy. Van Zelm, Heywood & Shadford received the mechanical engineering contract, while Henry Pfisterer received the structural engineering contract. Other contractors included acoustic consultant Bolt, Beranek & Newman, food-service contractor Howard L. Post, and lighting consultant Stanley McCandless. Repp and Mundt were the church building's general contractors."
+  ],
+  "title": "North Christian Church",
+  "url": "https://en.wikipedia.org/wiki/North_Christian_Church",
+  "revision": 1381023557,
+  "fetched": "2026-10-20"
+ },
+ "sehzade-mosque": {
+  "paragraphs": [
+   "The Şehzade Mosque (Turkish: Şehzade Camii, lit. 'Prince's Mosque') is a 16th-century Ottoman imperial mosque located in the district of Fatih, on the third hill of Istanbul, Turkey. It was commissioned by Suleiman the Magnificent as a memorial to his son Şehzade Mehmed who died in 1543. The mosque was one of the earliest and most important works of architect Mimar Sinan and is one of the signature works of Classical Ottoman architecture."
+  ],
+  "title": "Şehzade Mosque",
+  "url": "https://en.wikipedia.org/wiki/%C5%9Eehzade_Mosque",
+  "revision": 1367352917,
+  "fetched": "2026-10-20"
+ },
+ "somapura-mahavihara": {
+  "paragraphs": [
+   "Somapura Mahavihara (Bengali: সোমপুর মহাবিহার, romanized: Sōmpur Môhābihār), also known as Paharpur Buddhist Vihara (Bengali: পাহাড়পুর বৌদ্ধবিহার, romanized: Pāhāṛpur Bôuddhôbihār), is a major Mahayana and Vajrayana Buddhist monastery (mahavihara) in Paharpur, Badalgachhi, Naogaon, Bangladesh. It is among the best known Buddhist viharas in the Indian subcontinent and one of the most important archaeological sites in the country. It was designated as a UNESCO World Heritage Site in 1985.",
+   "The quadrangular structure consists of 177 cells and a traditional Buddhist stupa in the centre. The rooms were used by the monks for accommodation and meditation. In addition to the large number of stupas and shrines of various sizes and shapes, terracotta plaques, stone sculptures, inscriptions, coins, ceramics etc, have been discovered in this site.",
+   "The site houses the architectural remains of a vast Buddhist monastery, Somapura Mahavihara, covering 11 hectares (27 acres). It was an important intellectual centre for Dharmic Traditions such as Buddhists, Jains and Hindus alike. The 8.5-hectare (21-acre) complex has 177 cells, viharas, numerous stupas, temples and a number of other ancillary buildings. The outside walls with ornamental terracotta plaques still display the influence of these three religions."
+  ],
+  "title": "Somapura Mahavihara",
+  "url": "https://en.wikipedia.org/wiki/Somapura_Mahavihara",
+  "revision": 1367453639,
+  "fetched": "2026-10-20"
+ },
+ "notre-dame-du-haut": {
+  "paragraphs": [
+   "Notre-Dame du Haut (English: Our Lady of the Heights; full name in French: Chapelle Notre-Dame du Haut) is a Roman Catholic chapel in Ronchamp, France. Built in 1955, it is one of the finest examples of the architecture of French-Swiss architect Le Corbusier. Blessed in 1955, it was consecrated in 2005. The chapel is a working religious building and is under the guardianship of the private foundation Association de l’Œuvre de Notre-Dame du Haut. It attracts 80,000 visitors each year. In 2016, it was inscribed on the UNESCO World Heritage List in along with sixteen other works by Le Corbusier, because of its importance to the development of modernist architecture."
+  ],
+  "title": "Notre-Dame du Haut",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_du_Haut",
+  "revision": 1368026562,
+  "fetched": "2026-10-20"
+ },
+ "unity-temple": {
+  "paragraphs": [
+   "Unity Temple is a Unitarian Universalist church building that houses the Unity Temple Unitarian Universalist Congregation at 875 Lake Street in Oak Park, Illinois, United States. The structure, designed by the architect Frank Lloyd Wright in the Prairie style, is cited as an early example of modern architecture. The building consists of an auditorium to the north and a church house called Unity House to the south. The two sections, and an entrance pavilion between them, are made of reinforced concrete.",
+   "The congregation was formed as the Unity Church of Oak Park in 1871. It originally occupied a Gothic Revival building and went through several pastors in its first two decades. Rodney Johonnot, who became the senior pastor in 1892, began planning a replacement structure in the early 1900s. After the original church burned down in 1905, the board of trustees selected a site on Lake Street and hired Wright to design a new building, Unity Temple. Wright's plans were approved in 1906 after much debate, and construction began on May 15 of that year. After various delays, Unity House opened in September 1907, and the auditorium was finished in October 1908; the church was dedicated on September 26, 1909. Over the years, the temple attracted visitors from around the U.S. and the world."
+  ],
+  "title": "Unity Temple",
+  "url": "https://en.wikipedia.org/wiki/Unity_Temple",
+  "revision": 1377793600,
+  "fetched": "2026-10-20"
+ },
+ "kimbell-art-museum": {
+  "paragraphs": [
+   "The Kimbell Art Museum in Fort Worth, Texas, hosts an art collection as well as traveling art exhibitions, educational programs and an extensive research library. Its initial artwork came from the private collection of Kay and Velma Kimbell, who also provided funds for a new building to house it.",
+   "The museum is composed of 16 parallel vaults that are each 100 feet (30.6 m) long, 20 feet (6 m) high and 20 feet (6 m) wide (internal measurements). Intervening low channels separate the vaults. The vaults are grouped into three wings. The north and south wings each have six vaults, with the western one open as a portico. The central space has four vaults, with the western one open as an entry porch facing a courtyard partially enclosed by the two outside wings.",
+   "With one exception, the art galleries are located on the upper floor of the museum to allow access to natural light. Service and curatorial spaces as well as an additional gallery occupy the ground floor. Each interior vault has a slot along its apex to allow natural light into the galleries. Air ducts and other mechanical services are located in the flat channels between the vaults."
+  ],
+  "title": "Kimbell Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Kimbell_Art_Museum",
+  "revision": 1380100339,
+  "fetched": "2026-10-20"
+ },
+ "kuwait-towers": {
+  "paragraphs": [
+   "The Kuwait Towers are a group of three thin towers in Kuwait City, standing on a promontory into the Persian Gulf. They were the sixth, and last, group in the larger Kuwait Water Towers system of 34 towers (33 store water; one stores equipment), and were built in a style considerably different from the other five groups. The Kuwait Towers were officially inaugurated in March 1979 and are regarded as a landmark and symbol of modern Kuwait. The towers were closed for maintenance from March 2012 to 8 March 2016, with a massive fireworks festival commemorating the re-opening. Kuwait Towers facility is operated and managed by the state-owned Touristic Enterprises Company. The Main Tower served as the venue for TEDxKuwaitCity event in 2018 and 2019."
+  ],
+  "title": "Kuwait Towers",
+  "url": "https://en.wikipedia.org/wiki/Kuwait_Towers",
+  "revision": 1380256170,
+  "fetched": "2026-10-20"
+ },
+ "ontario-science-centre": {
+  "paragraphs": [
+   "The Ontario Science Centre, originally the Centennial Centre of Science and Technology, is a science museum and educational organization temporarily located at Harbourfront Centre in Toronto, Canada.",
+   "Designed in the early 1960s, the original buildings were built in the Brutalist architectural style. The building complex is made up of three main buildings connected by a series of bridges and escalators set within more than 40 hectares (100 acres) of parkland. The buildings were constructed while avoiding removal or damage to the mature trees in the area, so that \"the buildings seem to fit naturally into their environment\". They follow the natural contours of the Don River ravine, into which the Centre descends. Ontario's only IMAX Dome theatre opened in 1996.",
+   "The Great Hall is an event venue at the Ontario Science Centre and is home to Cloud, a large, computer-controlled kinetic sculpture by Toronto installation artist David Rokeby, which consists of an array of blue and transparent squares that rotate in various ways to simulate the three states of matter: solid, liquid and gas."
+  ],
+  "title": "Ontario Science Centre",
+  "url": "https://en.wikipedia.org/wiki/Ontario_Science_Centre",
+  "revision": 1378298170,
+  "fetched": "2026-10-20"
+ },
+ "semperoper": {
+  "paragraphs": [
+   "The Semperoper (German pronunciation: [ˈzɛmpɐˌʔoːpɐ] ) is the opera house of the Sächsische Staatsoper Dresden (Saxon State Opera) and the concert hall of the Staatskapelle Dresden (Saxon State Orchestra). It is also home to the Semperoper Ballett. The building is located on the Theaterplatz near the Elbe River in the historic centre of Dresden, Germany.",
+   "The opera house was originally built by the architect Gottfried Semper in 1841. After a devastating fire in 1869, the opera house was rebuilt, partly again by Semper, and completed in 1878. The opera house has a long history of premieres, including major works by Richard Wagner and Richard Strauss."
+  ],
+  "title": "Semperoper",
+  "url": "https://en.wikipedia.org/wiki/Semperoper",
+  "revision": 1372229237,
+  "fetched": "2026-10-20"
+ },
+ "art-gallery-of-ontario": {
+  "paragraphs": [
+   "The Art Gallery of Ontario (AGO; French: Musée des beaux-arts de l'Ontario) is an art museum in Toronto, Ontario, Canada. Located on Dundas Street West in the Grange Park neighbourhood of downtown Toronto, the museum complex takes up 45,000 square metres (480,000 sq ft) of physical space, making it one of the largest art museums in North America and the second-largest art museum in Toronto, after the Royal Ontario Museum. In addition to exhibition spaces, the museum also houses an artist-in-residence office and studio, dining facilities, event spaces, gift shop, library and archives, theatre and lecture hall, research centre, and a workshop.",
+   "Established in 1900 as the Art Museum of Toronto and formally incorporated in 1903, the museum was renamed the Art Gallery of Toronto in 1919, before adopting its present name, the Art Gallery of Ontario, in 1966. The museum acquired the Grange in 1911 and later undertook several expansions to the north and west of the structure. The first series of expansions occurred in 1918, 1924, and 1935, designed by Darling and Pearson. Since 1974, the gallery has undergone four major expansions and renovations. These expansions occurred in 1974 and 1977 by John C. Parkin, and 1993 by Barton Myers and KPMB Architects. From 2004 to 2008, the museum underwent another expansion by Frank Gehry."
+  ],
+  "title": "Art Gallery of Ontario",
+  "url": "https://en.wikipedia.org/wiki/Art_Gallery_of_Ontario",
+  "revision": 1381169758,
+  "fetched": "2026-10-20"
+ },
+ "paul-vi-audience-hall": {
+  "paragraphs": [
+   "The Paul VI Audience Hall (Italian: Aula Paolo VI), also known as the Hall of the Pontifical Audiences, is an audience hall in which the Pope has held various audiences and conferences. It is located behind the Palace of the Holy Office, east of the Domus Sanctae Marthae.",
+   "The hall has a seating capacity of 6,300, designed in reinforced concrete by the Italian architect Pier Luigi Nervi and completed in 1971. It was constructed on land donated by the Knights of Columbus and is named for Pope St. Paul VI. It lies partially in the Vatican City but mostly in Rome; the Italian part of the building is treated as an extraterritorial area of the Holy See, and is used by the pope as an alternative to St. Peter's Square when conducting his Wednesday morning General Audience. It is dominated by an 800-quintal (80-tonne) bronze/copper-alloysculpture by Pericle Fazzini entitled La Resurrezione (The Resurrection). The New Synod Hall (Aula Nuova del Sinodo) is located on the first floor above the vestibule of the Paul VI Audience Hall."
+  ],
+  "title": "Paul VI Audience Hall",
+  "url": "https://en.wikipedia.org/wiki/Paul_VI_Audience_Hall",
+  "revision": 1375875241,
+  "fetched": "2026-10-20"
+ },
+ "beylerbeyi-palace": {
+  "paragraphs": [
+   "The Beylerbeyi Palace (Turkish: Beylerbeyi Sarayı) is a 19th-century Ottoman palace located in the Beylerbeyi neighborhood of Istanbul’s Üsküdar district, on the Asian shore of the Bosporus. Commissioned by Sultan Abdulaziz and completed between 1861 and 1865, the palace served as a summer residence and a place to host foreign dignitaries. Its design combines European architectural influences, particularly Neo-Baroque, with traditional Ottoman interior decoration. Today, it functions as a museum open to the public.",
+   "Beylerbeyi Palace was designed by Sarkis Balyan in the Second Empire style. It is simpler in design compared to earlier palaces such as Dolmabahçe and Küçüksu. The palace is best seen from the Bosphorus, where two separate bathing pavilions can be seen: one for the harem (women’s quarters) and one for the selamlık (men’s quarters).",
+   "The palace’s interior design blends Western and Eastern influences and reflects features typical of traditional Turkish homes. This three-story building, including the basement, contains 24 rooms and 6 halls. The floors are covered with Egyptian straw mats. The rooms and halls are decorated with Turkish Hereke carpets, French Baccarat crystal chandeliers, and clocks made in Istanbul’s Haliç (Golden Horn) Dockyard from England, France, and Turkey. Additionally, porcelain vases from China, Japan, France, Germany, and Turkey’s Yıldız region add to the palace’s ornate decoration."
+  ],
+  "title": "Beylerbeyi Palace",
+  "url": "https://en.wikipedia.org/wiki/Beylerbeyi_Palace",
+  "revision": 1341148033,
+  "fetched": "2026-10-20"
+ },
+ "villa-la-rotonda": {
+  "paragraphs": [
+   "Villa La Rotonda is a Renaissance villa just outside Vicenza in Northern Italy designed by Italian Renaissance architect Andrea Palladio, and begun in 1567, though not completed until 1605. The villa's official name is Villa Almerico Capra Valmarana, but it is also known as \"La Rotonda\", \"Villa Rotonda\", \"Villa Capra\", and \"Villa Almerico Capra\". The name Capra derives from the Capra brothers, who completed the building after they acquired it in 1592. Along with other works by Palladio, the building is conserved as part of the World Heritage Site \"City of Vicenza and the Palladian Villas of the Veneto\".",
+   "The site selected was a hilltop just outside the city of Vicenza. Unlike some other Palladian villas of the Veneto, the building was not designed from the start to accommodate a working farm. This sophisticated building was designed for a site which was, in modern terminology, \"suburban\". Palladio classed the building as a \"palazzo\" rather than a villa."
+  ],
+  "title": "Villa La Rotonda",
+  "url": "https://en.wikipedia.org/wiki/Villa_La_Rotonda",
+  "revision": 1378458894,
+  "fetched": "2026-10-20"
+ },
+ "alte-nationalgalerie": {
+  "paragraphs": [
+   "The Alte Nationalgalerie (lit. Old National Gallery) is a listed building on the Museum Island in the historic centre of Berlin, Germany. The gallery was built from 1862 to 1876 by the order of King Frederick William IV of Prussia according to plans by Friedrich August Stüler and Johann Heinrich Strack in Neoclassical and Renaissance Revival styles. The building's outside stair features a memorial to Frederick William IV. Currently, the Alte Nationalgalerie is home to paintings and sculptures of the 19th century and hosts a variety of tourist buses daily. As part of the Museum Island complex, the gallery was inscribed on the UNESCO World Heritage List in 1999 for its outstanding architecture and its testimony to the development of museums and galleries as a cultural phenomenon in the late 19th century.",
+   "The Alte Nationalgalerie, together with the Altes Museum, the Neues Museum, the Bode Museum, the Pergamon Museum, the Berlin Cathedral and the Lustgarten, make up the Museum Island complex in Berlin. It is situated in the middle of the island, between the rails of the Berlin Stadtbahn and Bode Street on the eastern banks."
+  ],
+  "title": "Alte Nationalgalerie",
+  "url": "https://en.wikipedia.org/wiki/Alte_Nationalgalerie",
+  "revision": 1372550614,
+  "fetched": "2026-10-20"
+ },
+ "fort-jesus": {
+  "paragraphs": [
+   "Fort Jesus (Portuguese: Forte Jesus de Mombaça; Swahili: Boma la Yesu la Mombasa), is a fort located on Mombasa Island. Designed by the Italian architect Giovanni Battista Cairati, it was built between 1593 and 1596 by order of King Felipe II of Spain, who also reigned as King Filipe I of Portugal and the Algarves, to guard the Old Port of Mombasa. Fort Jesus is the only fort maintained by the Portuguese on the Swahili coast and is recognised as a testament to the first successful attempt by a Western power to establish influence over the Indian Ocean trade.",
+   "Cairati, inspired by Italian architect Pietro Cataneo, designed the fort, with the master builder being Gaspar Rodrigues. This was Cairato's last overseas work. Although the design of Fort Jesus is an example of Renaissance architecture, the masonry techniques, building materials, and labor are believed to have been provided by the local Swahili people. The fort, built in the shape of a man viewed from the air, is roughly square with four bulwarks at its corners and is considered a masterpiece of late Renaissance military fortification."
+  ],
+  "title": "Fort Jesus",
+  "url": "https://en.wikipedia.org/wiki/Fort_Jesus",
+  "revision": 1366153677,
+  "fetched": "2026-10-20"
+ },
+ "st-mary-s-cathedral": {
+  "paragraphs": [
+   "St. Mary's Cathedral (in Japanese: 東京カテドラル聖マリア大聖堂, romanized: Tōkyō katedoraru sei Maria daiseidō) is the seat of the Roman Catholic Archdiocese of Tokyo. It is located in the Sekiguchi neighborhood of Bunkyo, Tokyo, Japan.",
+   "The layout of the building is in the form of a cross, from which eight hyperbolic parabolas open upwards to form a cross of light, which continues vertically along the length of the four facades. Through the use of parabolas, the rhomboidal ground floor is turned into a cross as the building rises. This Tange design inspired the later similar design of the landmark cathedral in San Francisco, also referred to as St. Mary's Cathedral.",
+   "To this rhomboid volume other secondary constructions are added, including the baptistry and the baptismal font. The rectangular shapes contrast with the symbolic character of the cathedral. The bell tower is 61.6 m (202 ft) high, standing a short distance away from the main building. The exterior cladding is made of stainless steel.",
+   "In 2004 a large organ built by Italian firm Mascioni was installed.",
+   "Some critics have evaluated the cathedral as one of Tange's lesser works, dealing in cliché and failing to establish a civic space of the sort that Tange aspired to. Architectural historian David Stewart went as far as to state \"the less said about Tokyo Cathedral, the better.\""
+  ],
+  "title": "St. Mary's Cathedral, Tokyo",
+  "url": "https://en.wikipedia.org/wiki/St._Mary%27s_Cathedral,_Tokyo",
+  "revision": 1371751812,
+  "fetched": "2026-10-20"
+ },
+ "cite-de-la-muette": {
+  "paragraphs": [
+   "Drancy internment camp (French: Camp d'internement de Drancy) was an assembly and detention camp for confining Jews who were later deported to the extermination camps during the German occupation of France during World War II. Originally conceived and built as a modernist urban community under the name La Cité de la Muette (lit. 'The City of the Mute'), it was located in Drancy, a northeastern suburb of Paris, France.",
+   "Between 22 June 1942 and 31 July 1944, during its use as an internment camp, 67,400 French, Polish, and German Jews were deported from the camp in 64 rail operations, which included 6,000 children. Only 1,542 prisoners remained alive at the camp when the German authorities in Drancy fled as Allied forces advanced and the Swedish Consul-General Raoul Nordling took control of the camp on 17 August 1944, before handing it over to the French Red Cross to care for the survivors.",
+   "Drancy was under the control of the French police until 1943 when administration was taken over by the SS, which placed officer Alois Brunner in charge of the camp. In 2001, Brunner's case was brought before a French court by Nazi hunter Serge Klarsfeld, which sentenced Brunner in absentia to a life sentence for crimes against humanity."
+  ],
+  "title": "Drancy internment camp",
+  "url": "https://en.wikipedia.org/wiki/Drancy_internment_camp",
+  "revision": 1378027377,
+  "fetched": "2026-10-20"
+ },
+ "karl-marx-hof": {
+  "paragraphs": [
+   "Karl-Marx-Hof (German: [karl maʁks hoːf]; lit. 'Karl Marx Court') is a Gemeindebau in Vienna, situated in Heiligenstadt, a neighbourhood of the 19th district of Vienna, Döbling.",
+   "At 1,100 metres (0.68 mi) in length and spanning four tram stops, Karl-Marx-Hof is one of the longest single residential buildings in the world."
+  ],
+  "title": "Karl-Marx-Hof",
+  "url": "https://en.wikipedia.org/wiki/Karl-Marx-Hof",
+  "revision": 1344376284,
+  "fetched": "2026-10-20"
+ },
+ "london-aquatics-centre": {
+  "paragraphs": [
+   "The London Aquatics Centre is an indoor facility with two 50-metre (164-foot) swimming pools and a 25-metre (82-foot) diving pool in Queen Elizabeth Olympic Park in Stratford, London. The centre, designed by architect Zaha Hadid as one of the main venues of the 2012 Summer Olympics and Paralympics, was used for the swimming, diving and synchronised swimming events. After significant modification, the centre opened to the public in March 2014.",
+   "The centre was designed by Pritzker Prize-winning architect Zaha Hadid in 2004 before London won the bid for the 2012 Summer Olympics. It was built alongside the Water Polo Arena and opposite the Olympic Stadium on the opposite bank of the Waterworks River. The site is 45 metres (148 feet) high, 160 metres (520 feet) long, and 80 metres (260 feet) wide. The wave-like roof is stated to be 11,200 square feet (1,040 m2), a reduction from the previously stated 35,000 square feet (3,300 m2)."
+  ],
+  "title": "London Aquatics Centre",
+  "url": "https://en.wikipedia.org/wiki/London_Aquatics_Centre",
+  "revision": 1375499104,
+  "fetched": "2026-10-20"
+ },
+ "blavatnik-school-of-government": {
+  "paragraphs": [
+   "The Blavatnik School of Government is the school of public policy at the Social Sciences Division at the University of Oxford in Oxford, England, United Kingdom.",
+   "The Blavatnik School of Government is located in the University of Oxford's Radcliffe Observatory Quarter, with its main entrance on Walton Street. The building is designed by architects Herzog & de Meuron to promote open discussion, interaction and collaboration. The central forum is inspired by the idea of openness and transparency and connects all the floors together. Construction work started in autumn 2013, after some controversy, and ended in late 2015. The building is controlled by a combination of systems and technology that helps minimise its environmental impact.",
+   "The building is taller than Carfax Tower in the centre of Oxford, thus dominating the site and causing opposition to the scheme by local residents in the Jericho district of the city and elsewhere. The site is immediately to the south of the café/bar Freud, in the historic 1836 Greek Revival St Paul's Church on Walton Street. The scheme was opposed by the cafe's owner, David Freud, due to its size compared to the church building. The site is also opposite the classical Oxford University Press building."
+  ],
+  "title": "Blavatnik School of Government",
+  "url": "https://en.wikipedia.org/wiki/Blavatnik_School_of_Government",
+  "revision": 1368717895,
+  "fetched": "2026-10-20"
+ },
+ "national-gallery-of-canada": {
+  "paragraphs": [
+   "The National Gallery of Canada (French: Musée des beaux-arts du Canada), located in the capital city of Ottawa, Ontario, is Canada's national art museum. The museum's building takes up 46,621 square metres (501,820 sq ft), with 12,400 square metres (133,000 sq ft) of space used for exhibiting art. It is one of the largest art museums in North America by exhibition space.",
+   "The Gallery's present building was designed by Moshe Safdie & Associates, with construction beginning in 1985, and the building opening in 1988. The building has a total floor area of 46,621 square metres (501,820 sq ft). In 2000, the Royal Architectural Institute of Canada chose the National Gallery as one of the top 500 buildings produced in Canada during the last millennium. The National Gallery of Canada is housed in a building on Sussex Drive, adjacent to the ByWard Market district. The building is the fourth edifice to house the art museum.",
+   "An independent Crown corporation, the Canadian Museums Construction Corporation was established to build the Gallery, with a budget of C$185 million. Following the 1984 Canadian federal election, Prime Minister Brian Mulroney dissolved the corporation. However, because the groundwork for the building was already completed, Mulroney chose to continue funding construction for the Gallery, albeit at a reduced total budget of C$162 million."
+  ],
+  "title": "National Gallery of Canada",
+  "url": "https://en.wikipedia.org/wiki/National_Gallery_of_Canada",
+  "revision": 1375568116,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-islamic-art": {
+  "paragraphs": [
+   "The Museum of Islamic Art (MIA; Arabic: متحف الفن الإسلامي) is a museum at one end of the seven-kilometer-long (4.3 mi) Corniche in Doha, Qatar. As per architect I. M. Pei's specifications, the museum is built on an island on an artificial projecting peninsula near the traditional dhow harbor. A purpose-built park surrounds the building on the eastern and southern facades, while two bridges connect the southern front facade of the property with the main peninsula that contains the park. The western and northern facades are bordered by the harbor, showcasing the Qatari seafaring past. In September 2017, Qatar Museums appointed Julia Gonnella as director of MIA. In 2024, Julia Gonnella became director of the Lusail Museum and was replaced by Shaika Nasser Al-Nassr. In November 2022, the MIA became the first carbon-neutral certified museum in the Middle East. The museum participated in the Expo 2023 Doha from October 2023 to March 2024, with workshops and events focusing on biodiversity and sustainability.",
+   "The museum is influenced by traditional Islamic architecture yet has a uniquely modern design involving geometric patterns. It is the first of its kind to feature over 14 centuries of Islamic art in the Arab States of the Persian Gulf."
+  ],
+  "title": "Museum of Islamic Art, Doha",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_Islamic_Art,_Doha",
+  "revision": 1374150840,
+  "fetched": "2026-10-20"
+ },
+ "jean-marie-tjibaou-cultural-centre": {
+  "paragraphs": [
+   "The Tjibaou Cultural Centre (French: Centre culturel Tjibaou), on the narrow Tina Peninsula, approximately 8 kilometres (5.0 mi) northeast of the historic centre of Nouméa, the capital of New Caledonia, celebrates the vernacular Kanak culture, the indigenous culture of New Caledonia, amidst much political controversy over the independent status sought by some Kanaks from French rule. It opened in June 1998 and was designed by Italian architect Renzo Piano and named after Jean-Marie Tjibaou, the leader of the independence movement who was assassinated in 1989 and had a vision of establishing a cultural centre which blended the linguistic and artistic heritage of the Kanak people.",
+   "The architectural uniqueness of the centre is to the credit of Renzo Piano, an Italian architect."
+  ],
+  "title": "Jean-Marie Tjibaou Cultural Centre",
+  "url": "https://en.wikipedia.org/wiki/Jean-Marie_Tjibaou_Cultural_Centre",
+  "revision": 1371173875,
+  "fetched": "2026-10-20"
+ },
+ "oslo-opera-house": {
+  "paragraphs": [
+   "The Oslo Opera House (Norwegian: Operahuset) is the home of the Norwegian National Opera and Ballet, and the national opera house in Norway. The building is situated in the Bjørvika neighbourhood of central Oslo, at the head of the Oslofjord. It is operated by Norwegian Directorate of Public Construction and Property, the government agency which manages property for the Norwegian government. The structure contains 1,100 rooms in a total area of 49,000 m2 (530,000 sq ft). The main auditorium seats 1,364 and two other performance spaces can seat 200 and 400. The main stage is 16 m (52 ft) wide and 40 m (130 ft) deep. The angled exterior surfaces of the building are covered with marble from Carrara, Italy and white granite and make it appear to rise from the water. It is the largest cultural building constructed in Norway since Nidaros Cathedral was completed circa 1300."
+  ],
+  "title": "Oslo Opera House",
+  "url": "https://en.wikipedia.org/wiki/Oslo_Opera_House",
+  "revision": 1378046521,
+  "fetched": "2026-10-20"
+ },
+ "s-r-crown-hall": {
+  "paragraphs": [
+   "S. R. Crown Hall is a building on the campus of the Illinois Institute of Technology (IIT) in Chicago, Illinois, United States. Completed in 1956, the structure was designed by the architect Ludwig Mies van der Rohe for the IIT's College of Architecture, which he led for two decades. Crown Hall is a Chicago Landmark and is listed on the National Register of Historic Places as a National Historic Landmark.",
+   "Ever since its completion in 1956, Crown Hall has been occupied by IIT's College of Architecture program. The structure was designed by Ludwig Mies van der Rohe, who directed the program from 1938 to 1958 and designed approximately 20 buildings on the campus. Pace Associates was the associate architect, while Frank J. Kornacker & Associates was the structural engineer. Although Crown Hall includes several design features that were commonplace in other contexts (such as plate girders, rolled steel, and welded joints), many of these features had seldom been used as they were in Crown Hall's design."
+  ],
+  "title": "S. R. Crown Hall",
+  "url": "https://en.wikipedia.org/wiki/S._R._Crown_Hall",
+  "revision": 1377106087,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-peace-and-reconciliation": {
+  "paragraphs": [
+   "The Palace of Peace and Reconciliation (Kazakh: Бейбітшілік пен келісім сарайы, Beibıtşılık pen kelısım saraiy), also translated as the Pyramid of Peace and Accord, is a 62-metre-high (203 ft) pyramid in Astana, the capital of Kazakhstan, that serves as a non-denominational national spiritual centre and event venue. Designed by architectural practice Foster and Partners and developed in partnership with Aldar Properties, the Palace is surmounted by a modern stained glass apex by architectural artist Brian Clarke. The Palace was constructed to house the triennial Congress of Leaders of World and Traditional Religions, and completed in 2006.",
+   "The pyramidical portion of the building is 62 metres high and sits on a 15-metre-high (49 ft) earth-covered block. All of this construction is above ground level. Though the landscaping of the Presidential Park rises up to cover the lower levels, these are not basements."
+  ],
+  "title": "Palace of Peace and Reconciliation",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Peace_and_Reconciliation",
+  "revision": 1372427589,
+  "fetched": "2026-10-20"
+ },
+ "capital-gate": {
+  "paragraphs": [
+   "Capital Gate, also known as the Leaning Tower of Abu Dhabi, is a skyscraper in Abu Dhabi that is over 160 meters (520 ft) tall, 35 stories high, with over 16,000 square meters (170,000 sq ft) of usable office space. Capital Gate is one of the tallest buildings in the city and was designed to incline 18° west, more than three times the lean of the Leaning Tower of Pisa. The building is owned and was developed by the Abu Dhabi National Exhibitions Company. The tower is the focal point of Capital Centre.",
+   "The building has a diagrid specially designed to absorb and channel the forces created by wind and seismic loading, as well as the gradient of Capital Gate. Capital Gate is one of only a handful of diagrid buildings in the world. Others include London's 30 St Mary Axe (Gherkin), New York's Hearst Tower, and Beijing's National Stadium.",
+   "Capital Gate was designed by architectural firm RMJM and was completed in 2011. The tower includes 16,000 square meters (170,000 sq ft) of office space and the Andaz Hotel on floors 18 through 33."
+  ],
+  "title": "Capital Gate",
+  "url": "https://en.wikipedia.org/wiki/Capital_Gate",
+  "revision": 1344573486,
+  "fetched": "2026-10-20"
+ },
+ "baron-empain-palace": {
+  "paragraphs": [
+   "The Baron Empain Palace (Arabic: قصر البارون إمبان, \"Qasr el Baron Emban\"), also known as Le Palais Hindou (lit. 'The Hindu Palace'), is a distinctive and historic mansion in Heliopolis, a suburb northeast of central Cairo, Egypt. It was built in 1905 for Édouard Empain, Baron Empain, a Belgian businessman and industrialist with particular interests in tramways. The building was inspired architecturally by Hindu temples.",
+   "The palace was designed by Alexandre Marcel, a French architect and a member of the French Institute. The palace's interior was constructed and decorated by Georges-Louis Claude. Inspired mostly by Angkor Wat in Cambodia and by the Hindu temples of Orissa in East India, it was built between 1907 and 1911, in reinforced concrete, which was considered a symbol of luxury and status at the time. The building is impressive with the richness of its ornamentation, which includes monkeys, elephants, lions and snakes, as well as statues of Buddha, Shiva, Krishna and other Hindu deities."
+  ],
+  "title": "Baron Empain Palace",
+  "url": "https://en.wikipedia.org/wiki/Baron_Empain_Palace",
+  "revision": 1381130733,
+  "fetched": "2026-10-20"
+ },
+ "salt-cathedral-of-zipaquira": {
+  "paragraphs": [
+   "The Salt Cathedral of Zipaquirá (Spanish: Catedral de Sal de Zipaquirá) is an underground Roman Catholic church built within the tunnels of a salt mine 200 metres (660 ft) underground in a halite mountain near the city of Zipaquirá, in Cundinamarca, Colombia. It is a tourist destination and place of pilgrimage in the country.",
+   "The temple at the bottom has three sections, representing the birth, life, and death of Jesus. The icons, ornaments and architectural details are hand carved in the halite rock. Some marble sculptures are included. The cathedral is considered one of the most notable achievements of Colombian architecture, being described as a \"Jewel of Modern Architecture\". The cathedral represents a valuable cultural, environmental and religious patrimony for the Colombian people.",
+   "The cathedral is a functioning church that receives as many as 3,000 visitors on Sundays, but it has no bishop and therefore no official status as a cathedral in Catholicism."
+  ],
+  "title": "Salt Cathedral of Zipaquirá",
+  "url": "https://en.wikipedia.org/wiki/Salt_Cathedral_of_Zipaquir%C3%A1",
+  "revision": 1369661157,
+  "fetched": "2026-10-20"
+ },
+ "53w53": {
+  "paragraphs": [
+   "53 West 53 (also known as 53W53 and formerly known as Tower Verre) is a supertall skyscraper at 53 West 53rd Street in the Midtown Manhattan neighborhood of New York City, adjacent to the Museum of Modern Art (MoMA). It was developed by the real estate companies Pontiac Land Group and Hines. With a height of 1,050 ft (320 m), 53 West 53 is the twelfth-tallest completed building in the city as of January 2025.",
+   "Officially named 53 West 53, the building was designed by French architect Jean Nouvel as a 77-story, 145-unit tower. The building has 77 physical stories. The top story is numbered 87 and several floor numbers are skipped. There are also two basement levels; the cellar immediately below ground is used as storage by MoMA, while the subcellar beneath it contains mechanical rooms for the upper stories. The highest occupied story is 890 ft (270 m) above ground. The tower technically measures 1,049 ft 8 in (319.94 m) tall from the lobby floor to the tip of its tallest spire. This makes it the tenth-tallest completed building in the city as of November 2019."
+  ],
+  "title": "53W53",
+  "url": "https://en.wikipedia.org/wiki/53W53",
+  "revision": 1381046155,
+  "fetched": "2026-10-20"
+ },
+ "komtar": {
+  "paragraphs": [
+   "The Tun Abdul Razak Complex (abbrev. KOMTAR) is a civic complex of five buildings within the central business district of George Town, Penang. It first opened on 2 December 1976. At the time of its completion in 1985, the central skyscraper of the complex, Komtar Tower, at 231.7 metres (760 ft), was the tallest skyscraper in Southeast Asia. The complex contains 1,420,000 square feet (132,000 m2) of office and retail space on a 27-acre (11 ha) superblock. It is a major bus terminal for Rapid Penang, and the seat of the Penang state government and the chief minister of Penang.",
+   "Komtar was conceived to be a step in 1970s \"progressive\" urban planning of the Penang state government. It was expected to ease congestion and remove urban slums from George Town's city centre which appeared after the 1960s recession.",
+   "According to Lim Chong Eu, the complex was a \"sign of collaboration\" between the federal government and Penang. It was given priority in the New Economic Policy championed under the administration of Abdul Razak Hussein, who said that this project \"will change the outlook of George Town from a colonial heritage to a city reflecting a Malaysian society\"."
+  ],
+  "title": "Komtar",
+  "url": "https://en.wikipedia.org/wiki/Komtar",
+  "revision": 1371602420,
+  "fetched": "2026-10-20"
+ },
+ "crypt-of-colonia-guell": {
+  "paragraphs": [
+   "The Church of Colònia Güell is an unfinished work by Antoni Gaudí. It was built as a place of worship for the people on a hillside in the namesake company town in Santa Coloma de Cervelló, near Barcelona (Catalonia, Spain). Colònia Güell was the brainchild of Count Eusebi de Güell; who enlisted the help of architect Antoni Gaudí in 1898. However, work was not started until 1908, 10 years after commission. The plan for the building consisted of constructing two naves, an upper and a lower, two towers, and one forty-meter-high central dome. In 1914, the Güell family halted construction due to the death of Count Güell. At the time, the lower nave was almost complete so between the years of 1915 and 1917, it was completed and readied for use.",
+   "The Church is one of the seven properties Gaudí built near Barcelona that are UNESCO World Heritage Sites. Collectively, these sites are known as the Works of Antoni Gaudí, and show his \"exceptional creative contribution to the development of architecture and building technology in the late 19th and early 20th centuries.\""
+  ],
+  "title": "Church of Colònia Güell",
+  "url": "https://en.wikipedia.org/wiki/Church_of_Col%C3%B2nia_G%C3%BCell",
+  "revision": 1351647390,
+  "fetched": "2026-10-20"
+ },
+ "allen-lambert-galleria-brookfield-place": {
+  "paragraphs": [
+   "Brookfield Place (formerly BCE Place) is an office and retail complex in downtown Toronto, Ontario, Canada, comprising the 2.1 ha (5.2-acre) block bounded by Yonge Street, Wellington Street West, Bay Street, and Front Street West. The complex contains 242,000 m2 (2,604,866 sq ft) of office space, 59,000 sq ft (5,481 m2) of retail space, and consists of two towers, the TD Canada Trust Tower (161 Bay Street) and the Bay Wellington Tower (181 Bay Street), linked by the Allen Lambert Galleria. Brookfield Place is also the home of the Hockey Hall of Fame (housed in an opulent former bank from 1885). The complex also includes 12 preserved heritage buildings. The complex is also connected to the PATH, which includes several shops and a food court in its basement."
+  ],
+  "title": "Brookfield Place (Toronto)",
+  "url": "https://en.wikipedia.org/wiki/Brookfield_Place_(Toronto)",
+  "revision": 1379402797,
+  "fetched": "2026-10-20"
+ },
+ "lipstick-building": {
+  "paragraphs": [
+   "The Lipstick Building, also known as 885 Third Avenue and 53rd at Third, is a 453-foot-tall (138 m) office building at Third Avenue between 53rd Street and 54th Street in the Midtown Manhattan neighborhood of New York City, New York, U.S. It was completed in 1986 and has 34 floors. The building was designed by John Burgee and Philip Johnson for Hines Interests and was developer Gerald D. Hines's first project in New York City. The building's nickname is derived from its shape and color, which resemble those of a lipstick tube.",
+   "The Lipstick Building at 885 Third Avenue was designed by Philip Johnson and John Burgee for developer Gerald D. Hines. Structural engineer Irwin Cantor, mechanical engineer Cosentini Associates, landscape architects Zion and Breen Associates, and lighting consultant Claude Engle were also involved in the building's development. It is 34 stories tall and measures 453 feet (138 m) to its roof. Though the building was officially known as Fifty-third at Third, its unusual massing and the facade's color led to its popular name, the Lipstick Building. It is one of several buildings in New York City that were nicknamed based on their appearance."
+  ],
+  "title": "Lipstick Building",
+  "url": "https://en.wikipedia.org/wiki/Lipstick_Building",
+  "revision": 1373780897,
+  "fetched": "2026-10-20"
+ },
+ "ids-center": {
+  "paragraphs": [
+   "The IDS Center is an office skyscraper located at 80 South 8th Street in Minneapolis, Minnesota. Completed in 1973, it is the tallest building in Minneapolis, and the tallest building in the state at a height of 792 feet (241 m). It originally stood 775 feet 6 inches (236.37 m), though a 16-foot (4.9 m) garage for window washing equipment was added between 1978 and 1979. The structure rises to 910 feet (10,900 in) when including communications spires on the roof, indisputably the highest points in the city. The IDS was constructed as the headquarters of Investors Diversified Services, Inc.—now Ameriprise Financial. It also housed the headquarters of Dayton Hudson Corporation (now Target Corporation) from 1972 until 2001.",
+   "The complex consists of five parts: the 57-story IDS Tower itself at 8th Street & Nicollet Mall, an eight-story annex building along Marquette Avenue, the 19-story Marquette Hotel at 7th Street & Marquette Avenue, and a two-story retail building that was originally dominated by Woolworth's. These four buildings are joined by the seven-story Crystal Court."
+  ],
+  "title": "IDS Center",
+  "url": "https://en.wikipedia.org/wiki/IDS_Center",
+  "revision": 1378885772,
+  "fetched": "2026-10-20"
+ },
+ "jay-pritzker-pavilion": {
+  "paragraphs": [
+   "Jay Pritzker Pavilion, also known as Pritzker Pavilion or Pritzker Music Pavilion, is a bandshell in Millennium Park in the Loop community area of Chicago in Cook County, Illinois, United States. It is located on the south side of Randolph Street and east of the Chicago Landmark Historic Michigan Boulevard District. The pavilion was named after Jay Pritzker, whose family is known for owning Hyatt Hotels. The building was designed by architect Frank Gehry, who accepted the design commission in April 1999; the pavilion was constructed between June 1999 and July 2004, opening officially on July 16, 2004.",
+   "Pritzker Pavilion serves as the centerpiece for Millennium Park and is the home of the Grant Park Symphony Orchestra and Chorus and the Grant Park Music Festival, one of the nation's only remaining free outdoor classical music series. It also hosts a wide range of music series and annual performing arts events. Performers ranging from mainstream rock bands to classical musicians and opera singers have appeared at the pavilion, which even hosts physical fitness activities such as yoga. All rehearsals at the pavilion are open to the public; trained guides are available for the music festival rehearsals, which are well-attended."
+  ],
+  "title": "Jay Pritzker Pavilion",
+  "url": "https://en.wikipedia.org/wiki/Jay_Pritzker_Pavilion",
+  "revision": 1374208893,
+  "fetched": "2026-10-20"
+ },
+ "palacio-do-planalto": {
+  "paragraphs": [
+   "The Palácio do Planalto (Portuguese pronunciation: [paˈlasju du plaˈnawtu]) in Brasília is the official workplace of the president of Brazil. The building was designed by Oscar Niemeyer in 1958 and inaugurated on 21 April 1960. It has been the workplace of every Brazilian president since Juscelino Kubitschek. It is located at the Praça dos Três Poderes (Three Powers Plaza), to the east of the National Congress of Brazil and across from the Supreme Federal Court.",
+   "The presidential palace was a major feature of Costa's plan for the newly established capital city. Niemeyer's idea was to project an image of simplicity and modernity using fine lines and waves to compose the columns and exterior structures. The longitudinal lines of the palace are kept by a sequence of columns whose design is a variation of those at the Palácio da Alvorada, although they were arranged transversely to the body of the building. The palace's façade is also composed by two strong elements: the ramp leading to the hall and the parlatorium (speaker's platform), from where the president and foreign heads of state can address the public at the Three Powers Plaza."
+  ],
+  "title": "Palácio do Planalto",
+  "url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_do_Planalto",
+  "revision": 1366372319,
+  "fetched": "2026-10-20"
+ },
+ "thomas-jefferson-building-library-of-congress": {
+  "paragraphs": [
+   "The Thomas Jefferson Building, also known as the Main Library, is the oldest of the Library of Congress buildings in Washington, D.C. Built between 1890 and 1897, it was initially known as the Library of Congress Building. In 1980, the building was named in honor of Thomas Jefferson (1743–1826), a Founding Father, the principal author of the Declaration of Independence, and the third U.S. president. In 1815, the purchase of Jefferson's book collection formed a core foundation for the library's collection, and by the 1880s, it was felt that the library, which had grown to include the US Copyright Office, needed its own building.",
+   "John L. Smithmeyer and Paul J. Pelz won the competition for the architectural plans of the library in 1873. The start of the project was delayed by U.S. congressional debates until a vote on the project was held in 1886."
+  ],
+  "title": "Thomas Jefferson Building",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson_Building",
+  "revision": 1367007070,
+  "fetched": "2026-10-20"
+ },
+ "zayed-national-museum": {
+  "paragraphs": [
+   "Zayed National Museum (Arabic: مَتْحَف زَايِد ٱلْوَطَنِي, romanized: Matḥaf Zāyid Al-Waṭanī) is a museum in Abu Dhabi, United Arab Emirates. It is designed as a memorial to the late Zayed bin Sultan Al Nahyan, the founding father and first president of the UAE. The museum is the centrepiece of the Saadiyat Island Cultural District, and showcases the history, culture, and economic transformation of the Emirates. Zayed National Museum, the national museum of the United Arab Emirates located in the heart of Saadiyat Cultural District, was opened to the public on 3 December 2025 and cost AED 2.5 billion or US$ 680 million to be built. An entrance ticket is around AED 70 for adults, 35 AED for university students and teachers, and free for under-18s. It is 123 m high."
+  ],
+  "title": "Zayed National Museum",
+  "url": "https://en.wikipedia.org/wiki/Zayed_National_Museum",
+  "revision": 1379926463,
+  "fetched": "2026-10-20"
+ },
+ "miller-house-columbus": {
+  "paragraphs": [
+   "The Miller House and Garden is a historic house museum at 2760 Highland Way in Columbus, Indiana, United States. It was designed by Eero Saarinen as a mid-century modern residence for the family of the businessman J. Irwin Miller and his wife Xenia Simons Miller. The interior designer Alexander Girard, the landscape architect Dan Kiley, and Saarinen's associate Kevin Roche assisted with various parts of the design. The house and gardens, owned by the Indianapolis Museum of Art (IMA) since 2009, are designated as a National Historic Landmark. Both the house and the gardens have been praised for their design over the years.",
+   "The Miller House is one of the very few single-family homes designed by Eero Saarinen, as he typically specialized in larger buildings. Other figures involved in the house's design include the interior designer Alexander Girard, who worked closely with the Millers to furnish the residence; the landscape architect Dan Kiley; and Saarinen's associate Kevin Roche. S. R. Lewis & Associates were the building's mechanical engineers. Architectural drawings credit Saarinen and Girard equally with the design, and Kiley did not join the project until the house's blueprints were largely complete. The house's exterior, interior, and gardens were all designed in tandem, so the different parts of the design all related to one another."
+  ],
+  "title": "Miller House (Columbus, Indiana)",
+  "url": "https://en.wikipedia.org/wiki/Miller_House_(Columbus,_Indiana)",
+  "revision": 1380293620,
+  "fetched": "2026-10-20"
+ },
+ "nelson-mandela-bay-stadium": {
+  "paragraphs": [
+   "The Nelson Mandela Bay Stadium is a soccer and rugby union stadium in Gqeberha in the Eastern Cape province of South Africa. It hosted 2010 FIFA World Cup matches, including the third-place play off. It is the home of Chippa United Football Club and formerly of rugby union team Southern Kings.",
+   "The stadium was designed by the Department of Public Works' National Construction Week Programme in 2006 with student from Holy Cross High School Thina Dlulane, Yandisa Dalamba, Inga Ngalonkulu and Siyabonga Nyezi from Umtata. Their design that was reviewed in the Mahlamba Ndlopfu Presidency House by the Public Work delegates and was the winning designed prototype concept and was the inspiration behind the design.",
+   "The stadium has a unique roof-structure and views over the North End Lake. The roof is made up of a series of white 'petals' making it look like a flower. This is the reason for the stadium's nickname, The Protea. The stadium building is approximately 40m high and consists of six levels on the western side in addition to five on each of the north, south and east stands. The main architecture was handled by Architectural Design Associates(Pty)Ltd and Dominic Bonnesse Architects cc."
+  ],
+  "title": "Nelson Mandela Bay Stadium",
+  "url": "https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium",
+  "revision": 1372219384,
+  "fetched": "2026-10-20"
+ },
+ "wainwright-building": {
+  "paragraphs": [
+   "The Wainwright Building (also known as the Wainwright State Office Building) is a 10-story, 135-foot (41 m) terra cotta office building at 709 Chestnut Street in Downtown St. Louis, Missouri. The Wainwright Building is considered to be one of the first aesthetically fully expressed early skyscrapers. It was designed by Dankmar Adler and Louis Sullivan and built between 1890 and 1891. It was named for local brewer, building contractor, and financier Ellis Wainwright.",
+   "Aesthetically, the Wainwright Building exemplifies Sullivan's theories about the tall building, which included a tripartite (three-part) composition (base-shaft-attic) based on the structure of the classical column, and his desire to emphasize the height of the building. He wrote: \"[The skyscraper] must be tall, every inch of it tall. The force and power of altitude must be in it the glory and pride of exaltation must be in it. It must be every inch a proud and soaring thing, rising in sheer exultation that from bottom to top it is a unit without a single dissenting line.\" His 1896 article cited his Wainwright Building as an example. Despite the classical column concept, the building's design was deliberately modern, featuring none of the neoclassical style that Sullivan held in contempt."
+  ],
+  "title": "Wainwright Building",
+  "url": "https://en.wikipedia.org/wiki/Wainwright_Building",
+  "revision": 1379725079,
+  "fetched": "2026-10-20"
+ },
+ "rookery-building": {
+  "paragraphs": [
+   "The Rookery Building is a historic office building at 209 South LaSalle Street in the Loop community area of downtown Chicago, Illinois, United States. Completed by architects Daniel Burnham and John Wellborn Root of Burnham and Root in 1888, it is considered one of their masterpiece buildings, and was once the location of their offices. The building is 181 feet (55 m) in height, twelve stories tall, and is considered the oldest standing high-rise in Chicago. It features exterior load-bearing walls and an interior steel frame. Inside is a light court, which illuminates a two-story atrium lobby with ornamental stairs. The building is designated a Chicago Landmark, and it is listed on the National Register of Historic Places as a National Historic Landmark.",
+   "The Rookery is located at 209 South LaSalle Street in the Loop community area of downtown Chicago, Illinois, United States. It was built by the architectural partnership of Daniel H. Burnham and John Wellborn Root, known as Burnham and Root. The building, designed in the Chicago School architectural tradition, is one of the few results of their partnership that is still standing. While much of the Loop's 19th-century architecture has been demolished, the Rookery has been preserved and renovated over the years."
+  ],
+  "title": "Rookery Building",
+  "url": "https://en.wikipedia.org/wiki/Rookery_Building",
+  "revision": 1378448469,
+  "fetched": "2026-10-20"
+ },
+ "ponte-genova-san-giorgio": {
+  "paragraphs": [
+   "The Genoa Saint George Bridge (Italian: Viadotto Genova-San Giorgio) is a motorway viaduct that crosses the Polcevera river and the districts of Sampierdarena and Cornigliano, in the city of Genoa. It was designed by architect Renzo Piano.",
+   "The bridge replaces the Ponte Morandi (Polcevera Viaduct), which partially collapsed on 14 August 2018 and was demolished in June 2019.",
+   "The new viaduct, with its associated junctions, constitutes the initial section of the Italian A10 motorway, managed by the concessionaire Autostrade per l'Italia, which in turn is included in the European route E80.",
+   "The new bridge was inaugurated on 3 August 2020."
+  ],
+  "title": "Genoa-Saint George Bridge",
+  "url": "https://en.wikipedia.org/wiki/Genoa-Saint_George_Bridge",
+  "revision": 1379759963,
+  "fetched": "2026-10-20"
+ },
+ "forsyth-barr-stadium": {
+  "paragraphs": [
+   "Forsyth Barr Stadium is a multi-purpose stadium in Dunedin, New Zealand. At various stages of development it was also known as Dunedin Stadium or Awatea Street Stadium, or its non-commercial official name during the 2011 Rugby World Cup and 2015 FIFA U-20 World Cup, Otago Stadium. The fully covered stadium is also known colloquially as 'The Glasshouse' due to its resemblance to a horticultural hothouse.",
+   "The stadium was designed by Populous and Jasmax in a joint venture. The stadium roof was constructed with a clear ETFE roof supplied and installed by the firm Vector Foiltec, the same material as used at Allianz Arena in Munich and the Water Cube in Beijing.",
+   "The stadium was designed as a versatile venue, and is expected to be able to host a range of events including sports (rugby union, rugby league, football, basketball, netball), concerts, trade fairs and other large-scale events. The use of relocatable seating allows for flexibility to suit a range of event requirements. Due to size constraints, some sports (such as cricket, a popular sport in New Zealand) are unable to use the stadium."
+  ],
+  "title": "Forsyth Barr Stadium",
+  "url": "https://en.wikipedia.org/wiki/Forsyth_Barr_Stadium",
+  "revision": 1375234073,
+  "fetched": "2026-10-20"
+ },
+ "olympic-stadium-amsterdam": {
+  "paragraphs": [
+   "The Olympic Stadium (Dutch: Olympisch Stadion, Dutch pronunciation: [oːˈlɪmpiˌstaːdijɔn]) is a sporting venue which was used as the main stadium for the 1928 Summer Olympics in Amsterdam. The venue is currently used mostly for athletics, other sports events and music concerts.",
+   "The Olympic Stadium was designed by architect Jan Wils, and is one of the finest examples of Amsterdamse School architecture, complementing the surrounding neighbourhood designed by H.P. Berlage. The design won the Olympic gold medal in the architecture competition at the 1928 Olympics. The concrete second ring that was added in 1937 to the north and south wing of the stadium was also designed by Jan Wils.",
+   "When completed, the stadium had a capacity of 31,600. Following the completion of the rival De Kuip stadium in Rotterdam in 1937, the Amsterdam authorities increased the capacity of the Olympic Stadium to 64,000 by adding a second ring to the stadium. In 1987, the stadium was listed as a national monument."
+  ],
+  "title": "Olympic Stadium (Amsterdam)",
+  "url": "https://en.wikipedia.org/wiki/Olympic_Stadium_(Amsterdam)",
+  "revision": 1372222708,
+  "fetched": "2026-10-20"
+ },
+ "makuhari-messe": {
+  "paragraphs": [
+   "Makuhari Messe (幕張メッセ) is a convention center in Chiba City, Chiba Prefecture, Japan, located just outside of Tokyo. Designed by Fumihiko Maki, it is accessible by Tokyo's commuter rail system. Makuhari is the name of the area, and Messe is a German language word meaning \"trade fair\".",
+   "The convention center opened on 9 October 1989. It hosts many high-technology events.",
+   "Makuhari Messe is close to Tokyo Disney Resort in Urayasu, and to Chiba prefecture's black sand beaches. It is accessible from Kaihimmakuhari station on the Keiyō Line of East Japan Railway Company (JR East). The center is host to many annual events and trade shows, including: Tokyo Auto Salon (modified car show, in January), the biennial Tokyo Motor Show (in October), the annual Tokyo Game Show (video game hardware and software exhibition, in September), the annual Jump Festa (manga, anime, and video game exposition, in December), the biannual Wonder Festival (toys, scale figures, and garage kits exposition, in February and July) and some stages of the Summer Sonic music festival. The venue was also host to several Nintendo Space World events for many years.",
+   "It was the venue for several sports during the Tokyo 2020 Olympic and Paralympic Games."
+  ],
+  "title": "Makuhari Messe",
+  "url": "https://en.wikipedia.org/wiki/Makuhari_Messe",
+  "revision": 1381145443,
+  "fetched": "2026-10-20"
+ },
+ "hotel-nacional-de-cuba": {
+  "paragraphs": [
+   "The Hotel Nacional de Cuba is a historic Spanish eclectic style hotel in Havana, Cuba, opened in 1930. Located on the sea front of Vedado district, it stands on Taganana Hill, offering commanding views of the sea and the city.",
+   "The Hotel Nacional was designed by the New York architecture firm of McKim, Mead and White, financed by the National City Bank of New York, and constructed in fourteen months by the U.S. engineering firm of Purdy and Henderson. The structure contains a mix of styles, including Sevillian, Roman, Moorish and Art Deco. The Palladian style entrance portico has two stylized column capitals and quoins of coral stone.",
+   "The layout of the Hotel Nacional is based on two Greek crosses, giving the majority of the rooms a view of the ocean. The 6 typical floors have 74 rooms and 5,912.4 m2 (63,641 sq ft). of floor area. The eighth floor (top floor) has 66 rooms and an area of 4,675.3 m2 (50,325 sq ft). The footprint of the building measures approximately 159 m x 81 m. The structure of the building is a steel frame, while the decorative elements including ground floor details, columns, wall facings, and much of the paving, are in coral stone."
+  ],
+  "title": "Hotel Nacional de Cuba",
+  "url": "https://en.wikipedia.org/wiki/Hotel_Nacional_de_Cuba",
+  "revision": 1366982793,
+  "fetched": "2026-10-20"
+ },
+ "mausoleum-of-mohammed-v": {
+  "paragraphs": [
+   "The Mausoleum of Mohammed V (Arabic: ضريح محمد الخامس, romanized: Ḍarīḥ Muḥammad al-Khāmis) is a mausoleum located across from the Hassan Tower in Rabat, Morocco. It contains the tombs of the Moroccan king Mohammed V and his two sons, late King Hassan II and Prince Abdallah.",
+   "The mausoleum stands on an elevated platform at the southeastern corner of the esplanade. It is a rectangular structure made in reinforced concrete covered with white marble on the exterior. The exterior is marked by porticos of Moorish arches and a pyramidal green roof. The arches are also polylobed and the wall surfaces above them are carved with a characteristic Moroccan sebka motif. Inside, the mausoleum chamber is covered by a dome of mahogany wood with coloured glass, while the walls are covered in zellij tiling. Some elements are finished with chased brass. The cenotaph of Mohammed V is carved in white onyx and was made by craftsman Ibn Abdelkrim. A reader of the Quran is often present, having an assigned seat."
+  ],
+  "title": "Mausoleum of Mohammed V",
+  "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Mohammed_V",
+  "revision": 1378087838,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-justice": {
+  "paragraphs": [
+   "The Palace of Justice of Brussels or Law Courts of Brussels is a courthouse in Brussels, Belgium. It is the country's most important court building, seat of the judicial arrondissement of Brussels, as well as of several courts and tribunals, including the Court of Cassation (Belgian supreme court), the Court of Assizes (highest criminal court), the Court of Appeal of Brussels (appellate court), the Tribunal of First Instance of Brussels (general jurisdiction), and the Bar Association of Brussels.",
+   "Designed by the architect Joseph Poelaert, in an eclectic style of Greco-Roman inspiration, to replace an older courthouse, the current building was erected between 1866 and 1883. With a ground surface of 26,006 m2 (279,930 sq ft), the edifice is reputed to be the largest constructed in the 19th century and remains one of the largest of its kind. The total cost of the construction, land, and furnishings approximated 50 million Belgian francs. The building suffered heavy damage during World War II, when the cupola was destroyed and later rebuilt higher than the original. The structure has been under renovation since 1984 and scaffolding from that era still hangs on the building, though it is set to come down by 2035."
+  ],
+  "title": "Palace of Justice, Brussels",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Justice,_Brussels",
+  "revision": 1372686018,
+  "fetched": "2026-10-20"
+ },
+ "kaohsiung-national-stadium": {
+  "paragraphs": [
+   "The National Stadium (Chinese: 國家體育場; pinyin: Guójiā Tǐyùchǎng; also named 龍騰體育場), formerly known as the World Games Stadium, is a multi-purpose stadium in Zuoying District, Kaohsiung, Taiwan. It is currently the largest stadium in Taiwan in terms of capacity.",
+   "Completed in 2009, it is used mostly for football matches and it hosted the main events for the 2009 World Games. The stadium has a capacity of 55,000 people. Since the conclusion of the games, the stadium has been used for selected Chinese Taipei national football team matches including FIFA World Cup qualifiers.",
+   "The stadium, designed by Japanese architect Toyo Ito, makes use of 1 MW of solar cells to provide most of its power needs. The stadium's semi spiral-shaped, like a dragon, is the first stadium in the world to provide power using solar power technology. The solar panels covering the vast external face of the stadium are able to generate most of the power required for its own operation, as well as additional power that can be sent to the grid."
+  ],
+  "title": "National Stadium (Kaohsiung)",
+  "url": "https://en.wikipedia.org/wiki/National_Stadium_(Kaohsiung)",
+  "revision": 1380961063,
+  "fetched": "2026-10-20"
+ },
+ "bloch-building-nelson-atkins-museum-of-art": {
+  "paragraphs": [
+   "The Nelson-Atkins Museum of Art is an art museum in Kansas City, Missouri, known for its encyclopedic collection of art from nearly every continent and culture, and especially for its extensive collection of Asian art.",
+   "In 2007, Time magazine ranked the museum's new Bloch Building number one on its list of \"The 10 Best (New and Upcoming) Architectural Marvels\" which considered candidates from around the globe.",
+   "The museum is open five days a week: Monday from 10 am-5 pm, closed Tuesday and Wednesday, open Thursday 10-9, Friday 10-9, Saturday and Sunday 10-5."
+  ],
+  "title": "Nelson-Atkins Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Nelson-Atkins_Museum_of_Art",
+  "revision": 1370332900,
+  "fetched": "2026-10-20"
+ },
+ "toronto-city-hall": {
+  "paragraphs": [
+   "The Toronto City Hall, or New City Hall, is the seat of the municipal government of Toronto, Ontario, Canada, and one of the city's most distinctive landmarks. Designed by Viljo Revell and engineered by Hannskarl Bandel, this example of Neo-Expressionist Modern architecture opened in 1965. Adjacent is the Nathan Phillips Square public square, designed and opened together with the hall.",
+   "Toronto City Hall replaced the neighbouring Old City Hall, which had been occupied by the municipal government since 1899 but was no longer adequate in size. Plans for a civic square dated to the 1900s, inspired by the \"City Beautiful\" movement.",
+   "The design of the hall and square was the result of an international design competition in 1958. The design competition sparked a national discussion on the meaning of monumental public buildings, the role of competitions in design and the place of urban public space in society. It was the first architectural competition in Ontario to allow international architects, requiring the local architects' association to change its rules and allow open competition at the instigation of then Toronto Mayor Nathan Phillips, after whom the square is named."
+  ],
+  "title": "Toronto City Hall",
+  "url": "https://en.wikipedia.org/wiki/Toronto_City_Hall",
+  "revision": 1376745993,
+  "fetched": "2026-10-20"
+ },
+ "concertgebouw": {
+  "paragraphs": [
+   "The Royal Concertgebouw is a concert hall in Amsterdam, Netherlands. The Dutch term \"concertgebouw\" translates into English as \"concert building\". Its superb acoustics place it among the finest concert halls in the world, along with New York's Carnegie Hall, Boston's Symphony Hall and the Musikverein in Vienna.",
+   "The Main Hall (Grote Zaal) seats 1,974, and is 44 metres (144 feet) long, 28 metres (92 feet) wide, and 17 metres (56 feet) high. Its reverberation time is 2.8 seconds without audience, 2.2 seconds with, making it ideal for the late Romantic repertoire such as Mahler. Although this characteristic makes it largely unsuited for amplified music, groups such as Led Zeppelin, Pink Floyd and The Who did perform there in the 1960s. In the Main Hall, there is a layer of dust in several places as removing this layer would impact the acoustics as they are now.",
+   "A smaller, oval-shaped venue, the Recital Hall (Kleine Zaal), is located behind the Main Hall. The Recital Hall is 20 metres (66 feet) long and 15 metres (49 feet) wide. Its more intimate space is well-suited for chamber music and lieder. The Recital Hall has 437 seats."
+  ],
+  "title": "Concertgebouw, Amsterdam",
+  "url": "https://en.wikipedia.org/wiki/Concertgebouw,_Amsterdam",
+  "revision": 1364380526,
+  "fetched": "2026-10-20"
+ },
+ "nebraska-state-capitol": {
+  "paragraphs": [
+   "The Nebraska State Capitol is the seat of government of the U.S. state of Nebraska and is located in downtown Lincoln. Designed by New York architect Bertram Grosvenor Goodhue in 1920, it was constructed of Indiana limestone from 1922 to 1932. The capitol houses the primary executive and judicial offices of Nebraska and is home to the Nebraska Legislature—the only unicameral state legislature in the United States.",
+   "The Nebraska State Capitol's 400-foot (120 m) tower is the tallest building in the state outside of Omaha and can be seen twenty miles (32 km) away. It was the first state capitol to incorporate a functional tower into its design. Goodhue stated that \"Nebraska is a level country and its Capitol should have some altitude or beacon effect.\" In 1976, the National Park Service designated the capitol a National Historic Landmark, and in 1997, the Park Service extended the designation to include the capitol grounds, which Ernst H. Herminghaus designed in 1932."
+  ],
+  "title": "Nebraska State Capitol",
+  "url": "https://en.wikipedia.org/wiki/Nebraska_State_Capitol",
+  "revision": 1369513671,
+  "fetched": "2026-10-20"
+ },
+ "gateshead-millennium-bridge": {
+  "paragraphs": [
+   "The Gateshead Millennium Bridge is a pedestrian and cyclist tilt bridge spanning the River Tyne between Gateshead arts quarter on the south bank and Newcastle upon Tyne's Quayside area on the north bank. It was the first tilting bridge ever to be constructed. Opened for public use in 2001, the award-winning structure was conceived and designed by architectural practice WilkinsonEyre and structural engineering firm Gifford. The bridge is sometimes called the 'Blinking Eye Bridge' or the 'Winking Eye Bridge' due to its shape and its tilting method. The Millennium Bridge stands as the twentieth tallest structure in the city, and is shorter in stature than the neighbouring Tyne Bridge.",
+   "Gateshead Millennium Bridge was constructed to fulfil the following main design constraints: the bridge must be 4.5 metres (15 ft) above river-level during high spring tides when closed; nothing must be built on the Gateshead Quayside; the deck must have no more than a 1:20 slope to allow disabled access. The bridge consists of two steel arches – a deck which acts as the pedestrian and cycle path, and a supporting arch. The bridge was designed to be as light as possible to allow for easy opening and closing, so the two arches are lighter towards the centre span than at the hinges."
+  ],
+  "title": "Gateshead Millennium Bridge",
+  "url": "https://en.wikipedia.org/wiki/Gateshead_Millennium_Bridge",
+  "revision": 1378081416,
+  "fetched": "2026-10-20"
+ },
+ "secession-building": {
+  "paragraphs": [
+   "The Secession Building (German: Secessionsgebäude) is a contemporary art exhibition hall in Vienna, Austria. It was completed in 1898 by Joseph Maria Olbrich as an architectural manifesto for the Vienna Secession, a group of rebel artists that seceded from the long-established fine art institution.",
+   "The building features the Beethoven Frieze by Gustav Klimt, one of the most widely recognized artworks of Secession style (a branch of Art Nouveau, also known as Jugendstil in Germany and Nordic countries). The building was financed by Karl Wittgenstein, the father of Ludwig Wittgenstein.",
+   "The motto of the Secessionist movement is written above the entrance of the pavilion: \"To every age its art, to every art its freedom\" (German: Der Zeit ihre Kunst. Der Kunst ihre Freiheit). Below this is a sculpture of three gorgons representing painting, sculpture, and architecture.",
+   "The building has been selected to figure on the national side of the €0.50 Austrian coin. It also appears as the main motif of one of the Austrian gold collectors' coins: the 100 euro Secession commemorative coin, minted in November 2004, on the obverse side. The reverse depicts a detail from the Beethoven Frieze, which is housed in the building.",
+   "The Secession building is currently an artist-run kunsthalle centred around international contemporary art."
+  ],
+  "title": "Secession Building",
+  "url": "https://en.wikipedia.org/wiki/Secession_Building",
+  "revision": 1344627698,
+  "fetched": "2026-10-20"
+ },
+ "palacio-da-alvorada": {
+  "paragraphs": [
+   "The Palácio da Alvorada (Portuguese pronunciation: [paˈlasju dawvoˈɾadɐ]) is the official residence of the president of Brazil. It is located in the national capital of Brasília, on a peninsula at the margins of Paranoá Lake. The building was designed by Oscar Niemeyer and built between 1957 and 1958 in the modernist style. It has been the residence of every Brazilian president since Juscelino Kubitschek. The building is listed as a National Historic Heritage Site.",
+   "The building has an area of 7,000 square metres (75,000 ft2) distributed along three floors: basement, landing and second floor. Located in adjacent buildings within palace grounds are the chapel and the heliport. The basement level houses the movie theater, game room, kitchen, laundry, medical center, and the building's administration.",
+   "The Palácio da Alvorada is used as a residence and for official receptions. The president's workplace and center of the executive branch is the Palácio do Planalto."
+  ],
+  "title": "Palácio da Alvorada",
+  "url": "https://en.wikipedia.org/wiki/Pal%C3%A1cio_da_Alvorada",
+  "revision": 1380336690,
+  "fetched": "2026-10-20"
+ },
+ "jacobs-ii-house-solar-hemicycle": {
+  "paragraphs": [
+   "The Herbert and Katherine Jacobs Second House (also known as Jacobs II or the Solar Hemicycle) is a house in Madison, Wisconsin, United States. Designed by Frank Lloyd Wright and built in 1946–1948, the house was designed for the journalist Herbert Jacobs and his wife Katherine, whose first house he had designed a decade earlier. The Solar Hemicycle name is derived from the house's semicircular-arc floor plan, its use of natural materials, and its energy-saving orientation. The Jacobs Second House has been praised for its architecture over the years, and Wright went on to design other houses with circular design motifs. The house was added to the National Register of Historic Places in 1974 and declared a National Historic Landmark in 2003."
+  ],
+  "title": "Herbert and Katherine Jacobs Second House",
+  "url": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_Second_House",
+  "revision": 1373390642,
+  "fetched": "2026-10-20"
+ },
+ "waterloo-international": {
+  "paragraphs": [
+   "Waterloo International station was the London terminus of the Eurostar international rail service from its opening on 14 November 1994 to its closure on 13 November 2007, when it was replaced by London St Pancras International as the terminal for international rail services following the opening of High Speed 1 (HS1). It was on the western side of London Waterloo mainline station but was managed and branded separately.",
+   "In August 2017, the buildings and platforms were reopened for one month while platforms within the main station were rebuilt. After a period of redevelopment, platforms 20–22 reopened as part of the main station in December 2018, followed by platforms 23 and 24 in May 2019."
+  ],
+  "title": "Waterloo International railway station",
+  "url": "https://en.wikipedia.org/wiki/Waterloo_International_railway_station",
+  "revision": 1355557712,
+  "fetched": "2026-10-20"
+ },
+ "cayan-tower": {
+  "paragraphs": [
+   "Cayan Tower, known as Infinity Tower before it was inaugurated, is a 306-metre-tall (1,004 ft), 75-story skyscraper in Dubai, United Arab Emirates. The tower is designed by Skidmore, Owings and Merrill SOM architectural group for Cayan Real Estate Investment and Development. Upon its opening on 10 June 2013, the tower became the world's tallest high-rise building with a twist of 90 degrees. This record has since been surpassed by the Shanghai Tower, which opened in February 2015.",
+   "The twisting design of Cayan Tower was achieved by rotating each floor 1.2 degrees around a cylindrical elevator and service core. Prior to its name change to Cayan, the tower carried various names to describe its original shape. The unique design was supported by a dynamic analysis that studied the potential performance of the tower under wind, seismic, and other dynamic loads. Cayan Tower's apartments are designed with reconstituted wooden floors, Chinese synthetic marble counter tops, and kitchen fixtures. The tower also includes a five-story parking garage behind it.",
+   "The rooms of the tower are designed in such a way that it would not be affected by direct sunlight due to titanium-coloured metal panels on cast-in-place concrete columns aided with repetitive staggered screen panels to stop penetrating sunlight from disturbing the residents of the unit."
+  ],
+  "title": "Cayan Tower",
+  "url": "https://en.wikipedia.org/wiki/Cayan_Tower",
+  "revision": 1346679847,
+  "fetched": "2026-10-20"
+ },
+ "church-of-the-light": {
+  "paragraphs": [
+   "The Church of the Light (sometimes called the \"Church with Light\") is the main chapel of the Ibaraki Kasugaoka Church, a member church of the United Church of Christ in Japan. It was built in 1989, in the city of Ibaraki, Osaka Prefecture.",
+   "This building is one of the most famous designs of Japanese architect Tadao Ando.",
+   "In 1999, the main building was extended with the addition of a Sunday School."
+  ],
+  "title": "Church of the Light",
+  "url": "https://en.wikipedia.org/wiki/Church_of_the_Light",
+  "revision": 1364379586,
+  "fetched": "2026-10-20"
+ },
+ "telangana-secretariat": {
+  "paragraphs": [
+   "Telangana Secretariat, officially known as Dr. B. R. Ambedkar Telangana Secretariat situated at Hyderabad, is the administrative office of the employees of the Government of Telangana in India. The Telangana government on 15 September 2022 has decided to name the new Secretariat complex as Dr. B. R. Ambedkar Telangana Secretariat. Designed by Chennai-based Architects Ponni Concessao and Oscar Concessao, the complex has been built by Shapoorji Pallonji and Company Pvt Limited with all Green Building Council norms. There is a 125-ft tall statue of Ambedkar beside the Telangana Secretariat."
+  ],
+  "title": "Telangana Secretariat",
+  "url": "https://en.wikipedia.org/wiki/Telangana_Secretariat",
+  "revision": 1380963950,
+  "fetched": "2026-10-20"
+ },
+ "the-interlace": {
+  "paragraphs": [
+   "The Interlace is a 1,040-unit apartment building complex located at the boundary between Bukit Merah and Queenstown, Singapore. Noteworthy for its break from the typical tower design in cities with high population densities, it resembles Jenga blocks irregularly stacked upon each other. Designed by The Office for Metropolitan Architecture (OMA), it was awarded the World Building of the Year title at the 2015 World Architecture Festival.",
+   "Interlace consists of six storey blocks staggered in a hexagonal arrangements surrounding eight courtyards. The blocks are stacked four high at the center to provide maximum of 24 floors. This provides almost every home with a wide view of the surrounding areas. The courtyards have swimming pools.",
+   "The 170,000 m (560,000 ft) Interlace complex sits on 8 ha (20 acres) of land, at the corner of Depot Road and Alexandra Road. It has 31 interconnected residential blocks to maximize natural light and create communal spaces with units ranging in size from 74 m2 (800 ft2) to 590 m2 (6,300 ft2) for the penthouses at the top of each block. Recreational facilities include swimming pools, a gym, and tennis courts."
+  ],
+  "title": "The Interlace",
+  "url": "https://en.wikipedia.org/wiki/The_Interlace",
+  "revision": 1372503135,
+  "fetched": "2026-10-20"
+ },
+ "hirshhorn-museum-and-sculpture-garden": {
+  "paragraphs": [
+   "The Hirshhorn Museum and Sculpture Garden is an art museum beside the National Mall in Washington, D.C., United States. The museum was initially endowed during the 1960s with the permanent art collection of Joseph H. Hirshhorn. It was designed by architect Gordon Bunshaft and is part of the Smithsonian Institution. It was conceived as the United States' museum of contemporary and modern art and currently focuses its collection-building and exhibition-planning mainly on the post–World War II period, with particular emphasis on art made during the last 50 years.",
+   "The museum was designed by architect Gordon Bunshaft (1909–1990) and provides 60,000 square feet (5,600 m2) of exhibition space inside and nearly four acres outside in its two-level Sculpture Garden and plaza. The New York Times described it as \"a fortress of a building that works as a museum.\" An original plan with a reflecting pool across the Mall was approved in July 1967. When excavation started, a controversy arose, resulting in a revised design, with a smaller footprint, which was approved on July 1, 1971."
+  ],
+  "title": "Hirshhorn Museum and Sculpture Garden",
+  "url": "https://en.wikipedia.org/wiki/Hirshhorn_Museum_and_Sculpture_Garden",
+  "revision": 1368388441,
+  "fetched": "2026-10-20"
+ },
+ "shell-centre-london": {
+  "paragraphs": [
+   "The Shell Centre in London is the global headquarters of oil major Shell plc. It is located on Belvedere Road in the London Borough of Lambeth. It is a prominent feature on the South Bank of the River Thames near County Hall, and now forms the backdrop to the London Eye.",
+   "The choice of Portland Stone cladding, and bronze framed individual upright windows were denounced by Modern Movement critics, and the centre's buildings have generally been regarded as dull. However, the extremely traditional cladding has meant that the buildings have weathered better than most of their contemporaries with concrete or aggregate faced façades or curtain wall glazing.",
+   "The original interiors were luxuriously appointed, and as well as contributions from a British design team (many of whom had worked on the Festival of Britain), they included work by Ernesto Nathan Rogers who had worked on the Torre Velasca in Milan. Facilities for staff were lavish by the standards of the time, and the basement of the building was designed with a full size swimming pool and a spacious gymnasium."
+  ],
+  "title": "Shell Centre",
+  "url": "https://en.wikipedia.org/wiki/Shell_Centre",
+  "revision": 1379540675,
+  "fetched": "2026-10-20"
+ },
+ "avala-tower-belgrade": {
+  "paragraphs": [
+   "The Avala Tower (Serbian: Авалски торањ, romanized: Avalski toranj) is a 204.68 m (672 ft) tall television and radio transmission tower located on Mount Avala, in Belgrade, Serbia. The original tower was finished in 1965, but was destroyed on 29 April 1999, during the NATO bombing of Yugoslavia. The tower's reconstruction commenced on 21 December 2006. It was officially reconstructed in 23 October 2009, and it was officially reopened on 21 April 2010."
+  ],
+  "title": "Avala Tower",
+  "url": "https://en.wikipedia.org/wiki/Avala_Tower",
+  "revision": 1377419775,
+  "fetched": "2026-10-20"
+ },
+ "mehmed-pasa-sokolovic-bridge-visegrad": {
+  "paragraphs": [
+   "The Mehmed Paša Sokolović Bridge (Serbian: Мост Мехмед-паше Соколовића, romanized: Most Mehmed-paše Sokolovića) is a historic bridge over the Drina River in Višegrad, in the Republika Srpska region of Bosnia and Herzegovina. It was completed in 1577 by the Ottoman court architect Mimar Sinan on the order of the Grand Vizier Mehmed Paša Sokolović. In 2003 bridge was included into the List of National Monuments of Bosnia and Herzegovina by KONS, and UNESCO inclusion into the World Heritage List followed in 2007."
+  ],
+  "title": "Mehmed Paša Sokolović Bridge",
+  "url": "https://en.wikipedia.org/wiki/Mehmed_Pa%C5%A1a_Sokolovi%C4%87_Bridge",
+  "revision": 1346929635,
+  "fetched": "2026-10-20"
+ },
+ "bode-museum": {
+  "paragraphs": [
+   "The Bode Museum (German: Bode-Museum), formerly called the Emperor Frederick Museum (German: Kaiser-Friedrich-Museum), is a listed building on the Museum Island in the historic centre of Berlin. It was built from 1898 to 1904 by order of German Emperor William II according to plans by Ernst von Ihne in Baroque Revival style. The building's front square featured a memorial to German Emperor Frederick III, which was destroyed by the East German authorities. Currently, the Bode-Museum is home to the Skulpturensammlung, the Museum für Byzantinische Kunst and the Münzkabinett (sculpture, Byzantine art, and coins and medals). As part of the Museum Island complex, the Bode-Museum was inscribed on the UNESCO World Heritage List in 1999 because of its outstanding architecture and testimony to the development of museums as a cultural phenomenon in the late 19th and early 20th centuries."
+  ],
+  "title": "Bode Museum",
+  "url": "https://en.wikipedia.org/wiki/Bode_Museum",
+  "revision": 1372550331,
+  "fetched": "2026-10-20"
+ },
+ "erdene-zuu": {
+  "paragraphs": [
+   "The Erdene Zuu Monastery (Mongolian: Эрдэнэ Зуу хийд, romanized: Erdene Zuu khiid) is probably the earliest surviving Buddhist monastery in Mongolia. Built in 1585, it is located in Kharkhorin, Övörkhangai Province and is now included within the Orkhon Valley Cultural Landscape World Heritage Site. The monastery is affiliated with the Gelug sect of Tibetan Buddhism."
+  ],
+  "title": "Erdene Zuu Monastery",
+  "url": "https://en.wikipedia.org/wiki/Erdene_Zuu_Monastery",
+  "revision": 1370541715,
+  "fetched": "2026-10-20"
+ },
+ "jacobs-first-house": {
+  "paragraphs": [
+   "The Herbert and Katherine Jacobs First House, commonly referred to as Jacobs I, is a single-family home at 441 Toepfer Avenue in Madison, Wisconsin, United States. Designed by the architect Frank Lloyd Wright for the family of the journalist Herbert Jacobs, it was completed in 1937 and is sometimes cited as Wright's first Usonian-style house. The house is a single-story, L-shaped structure covering 1,550 square feet (144 m2). It sits on a slope that descends toward Lake Wingra to the southeast.",
+   "The Jacobs First House is sometimes cited as Wright's first Usonian-style house, and it has been known as \"Jacobs I\" or \"Usonia No. 1\". Although the Usonia No. 1 name is sometimes attributed to Wright, the architect also claimed that his first Usonian design was the 1923 La Miniatura in Pasadena, California. Wright's designs for the Hoult family's residence in Wichita, Kansas, and the Lusk family's residence in Huron, South Dakota, are also cited as having preceded the Jacobs First House, although neither was ultimately built. The house is one of several buildings designed by Wright in Madison, along with others such as the Jacobs Second House, the Gilmore \"Airplane\" House, and the First Unitarian Society of Madison. By the 1980s, it was one of eight Wright-designed buildings remaining in Dane County."
+  ],
+  "title": "Herbert and Katherine Jacobs First House",
+  "url": "https://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_First_House",
+  "revision": 1377459245,
+  "fetched": "2026-10-20"
+ },
+ "breuer-building": {
+  "paragraphs": [
+   "945 Madison Avenue, also known as the Breuer Building and formerly the Whitney Museum Building, is located on the Upper East Side of Manhattan, New York City. Built from 1964 to 1966 as the third home of the Whitney Museum of American Art, it subsequently held a branch of the Metropolitan Museum of Art and the Frick Collection before becoming the headquarters of Sotheby's auction house. Marcel Breuer and Hamilton P. Smith were the primary architects, with Michael H. Irving as the consulting architect and Paul Weidlinger as the structural engineer. 945 Madison Avenue was Breuer's most significant design in New York City and one of the most important of his career. It was also his first museum commission, and his first and only remaining work in Manhattan."
+  ],
+  "title": "945 Madison Avenue",
+  "url": "https://en.wikipedia.org/wiki/945_Madison_Avenue",
+  "revision": 1375872168,
+  "fetched": "2026-10-20"
+ },
+ "maxxi": {
+  "paragraphs": [
+   "MAXXI (Italian: Museo nazionale delle arti del XXI secolo, 'national museum of 21st-century arts') is a national museum of contemporary art and architecture in the Flaminio neighborhood of Rome, Italy. The museum is managed by a foundation created by the Italian Ministry of Culture. The building was designed by Zaha Hadid, and won the Stirling Prize of the Royal Institute of British Architects in 2010.",
+   "MAXXI consists of two museums: \"MAXXI Art\" and \"MAXXI Architecture\". \"MAXXI Architecture\" represents Italy's first national museum of architecture, and is dedicated to modern and contemporary Italian and international architecture. The outdoor courtyard surrounding the museum provides a venue for large-scale works of art."
+  ],
+  "title": "MAXXI",
+  "url": "https://en.wikipedia.org/wiki/MAXXI",
+  "revision": 1377687275,
+  "fetched": "2026-10-20"
+ },
+ "yerevan-cascade": {
+  "paragraphs": [
+   "The Cascade (Armenian: Կասկադ) is an architectural and monumental complex in Yerevan, Armenia, that consists of a multi-level staircase structure with terraces, fountains, sculptures, and exhibition halls. The complex connects the city center with the elevated areas of the Kanaker-Zeytun administrative district and is an important element of the urban planning axis established in the master plan of Yerevan by architect Alexander Tamanyan.",
+   "The complex consists of five main terraces connected by flights of stairs and internal escalators. The total length of the complex is approximately 302 meters, with 555-572 steps(depends on the sides). The architecture combines elements of Soviet modernism with traditional Armenian architecture, including decorative reliefs and bas-reliefs with elements of Armenian khachkars (cross-stones), ornaments with traditional images of grapevines, pomegranates, the tree of life, and other symbols. The construction materials are milky white tuff and travertine.",
+   "It is one of the symbols of the city, one of the most visited tourist sites and an important public space."
+  ],
+  "title": "Yerevan Cascade",
+  "url": "https://en.wikipedia.org/wiki/Yerevan_Cascade",
+  "revision": 1379522369,
+  "fetched": "2026-10-20"
+ },
+ "europa-building-brussels": {
+  "paragraphs": [
+   "The Europa building is the seat of the European Council and Council of the European Union, located on the Rue de la Loi/Wetstraat in the European Quarter of Brussels, Belgium. Its defining feature is the multi-storey lantern-shaped construct holding the main meeting rooms, a representation of which has been adopted by both the European Council and Council of the EU as their official emblems.",
+   "The Europa building is situated on the former site of the partially demolished and renovated Bloc A of the Résidence Palace, a complex of luxurious apartment blocks. Its exterior combines the Art Deco façade of the original 1920s building, which has been listed since 2004, with the contemporary design of the architect Philippe Samyn. The building is linked via two skyways and a service tunnel to the adjacent Justus Lipsius building, which provides for additional office space, meeting rooms and press facilities."
+  ],
+  "title": "Europa building",
+  "url": "https://en.wikipedia.org/wiki/Europa_building",
+  "revision": 1361698684,
+  "fetched": "2026-10-20"
+ },
+ "fisher-building": {
+  "paragraphs": [
+   "The Fisher Building is a landmark office tower located at 3011 West Grand Boulevard in the heart of the New Center area of Detroit, Michigan. The ornate 30-story building, completed in 1928, is one of the major works of architect Albert Kahn, and is designed in an Art Deco style, faced with limestone, granite, and several types of marble. The Fisher family financed the building with proceeds from the sale of Fisher Body to General Motors. It was designed to house office and retail space.",
+   "The Fisher Building rises 30 stories with a roof height of 428 feet (130 m), a top floor height of 339 feet (103 m), and the spire reaching 444 feet (135 m). The building has 21 elevators. Albert Kahn and Associates designed the building with Joseph Nathaniel French serving as chief architect. French took inspiration from Eliel Saarinen's Tribune Tower design of 1922, seen in the emphasis on verticality and the stepped-back upper stories. The building is unlike any other Albert Kahn production. It has been called \"Detroit's largest art object\"."
+  ],
+  "title": "Fisher Building",
+  "url": "https://en.wikipedia.org/wiki/Fisher_Building",
+  "revision": 1373283107,
+  "fetched": "2026-10-20"
+ },
+ "royal-college-of-physicians": {
+  "paragraphs": [
+   "The Royal College of Physicians (RCP) is a British professional membership body dedicated to improving the practice of medicine, chiefly through the accreditation of physicians by examination. Founded by royal charter from King Henry VIII in 1518, as the College of Physicians, the RCP is the oldest medical college in England.",
+   "The RCP's home in Regent's Park is one of the few post-war buildings to be listed at Grade I. In 2016 it was announced that the RCP was to open new premises in Liverpool at The Spine, a new building in the Liverpool Knowledge Quarter. The Spine opened in May 2021."
+  ],
+  "title": "Royal College of Physicians",
+  "url": "https://en.wikipedia.org/wiki/Royal_College_of_Physicians",
+  "revision": 1379211119,
+  "fetched": "2026-10-20"
+ },
+ "860-880-lake-shore-drive": {
+  "paragraphs": [
+   "860–880 Lake Shore Drive (officially 860–880 North Lake Shore Drive) are a pair of glass-and-steel apartment towers along Lake Shore Drive in Chicago, Illinois, United States. Located in the Streeterville neighborhood, within the Near North Side community area, the buildings were designed in the International Style by Ludwig Mies van der Rohe and were his first high-rise design. Holsman, Holsman, Klekamp & Taylor and Pace Associates were also involved with the design as the associated architects. Each of the towers is identical in shape and materials, measuring 270 feet (82 m) tall with 26 stories. The buildings are listed on the National Register of Historic Places and are designated as a Chicago Landmark.",
+   "The towers at 860–880 Lake Shore Drive were designed by the modernist architect Ludwig Mies van der Rohe for the developer Herbert Greenwald. Holsman, Holsman, Klekamp & Taylor were the consulting architects, and Pace Associates were the associated architects. In addition, Frank J. Kornacher was the engineer, and Richard Kelly the lighting designer. Both towers are 26 stories high, with a height of 270 feet (82 m), and are designed in the International Style. They are the first high-rise buildings Mies designed."
+  ],
+  "title": "860–880 Lake Shore Drive",
+  "url": "https://en.wikipedia.org/wiki/860%E2%80%93880_Lake_Shore_Drive",
+  "revision": 1372267683,
+  "fetched": "2026-10-20"
+ },
+ "cardboard-cathedral": {
+  "paragraphs": [
+   "The Cardboard Cathedral, formally called the Transitional Cathedral, in Christchurch, New Zealand, is the transitional pro-cathedral of the Anglican Diocese of Christchurch, replacing ChristChurch Cathedral, which was significantly damaged in the 2011 Christchurch earthquake. It is located on the site of the former St John the Baptist Church on the corner of Hereford and Madras Streets in Latimer Square, several blocks from the permanent location of ChristChurch Cathedral.",
+   "The building rises 21 metres (69 ft) above the altar. Materials used include 60-centimetre (24 in)-diameter cardboard tubes, timber and steel. The roof is of polycarbon, with eight shipping containers forming the walls. The foundation is concrete slab. The architect wanted the cardboard tubes to be the structural elements, but local manufacturers could not produce tubes thick enough and importing the cardboard was rejected. The 96 tubes, reinforced with laminated wood beams, are \"coated with waterproof polyurethane and flame retardants\" with two-inch gaps between them so that light can filter inside. Instead of a replacement rose window, the building has triangular pieces of stained glass. The building seats around 700 people. It serves as a conference venue as well as a cathedral. It was designed to last 50 years instead of being permanent."
+  ],
+  "title": "Cardboard Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Cardboard_Cathedral",
+  "revision": 1359738131,
+  "fetched": "2026-10-20"
+ },
+ "glass-house": {
+  "paragraphs": [
+   "The Glass House (or Johnson House) is a historic house museum on Ponus Ridge Road in New Canaan, Connecticut. It was built in 1948–49 by the architect Philip Johnson, who designed the home as his weekend retreat. The New York Times has called the home his \"signature work\".",
+   "The house is mostly hidden from the street. It is behind a stone wall at the edge of a crest in Johnson's estate overlooking a pond. Grass and gravel strips lead toward the building. The structure is 56 feet (17 m) long, 32 feet (9.8 m) wide and 10.5 feet (3.2 m) high. The kitchen, dining, and sleeping areas were all in one glass-enclosed room, which Johnson initially lived in, together with the brick guest house. Later, the glass-walled building was used only for entertaining. The exterior sides of the Glass House utilize charcoal-painted steel and glass. The brick floor is 10 inches (25 cm) above the ground. The interior is open, with the space divided by low walnut cabinets; a brick cylinder contains the bathroom, the only object to reach floor-to-ceiling."
+  ],
+  "title": "Glass House (New Canaan, Connecticut)",
+  "url": "https://en.wikipedia.org/wiki/Glass_House_(New_Canaan,_Connecticut)",
+  "revision": 1373301302,
+  "fetched": "2026-10-20"
+ },
+ "flame-towers": {
+  "paragraphs": [
+   "The Flame Towers (Azerbaijani: Alov qüllələri) are a group of three skyscrapers in Baku, Azerbaijan. The main contractor, Dia Holdings, is owned by two brothers who are linked to Azerbaijan's ruling Aliyev family's network of offshore companies.",
+   "The height of the tallest tower is 182 m (597 ft). The three flame-shaped towers are intended to symbolize the elements of fire, and are a reference to Azerbaijan's nickname \"The Land of Fire\", historically rooted in a region where natural gas flares emit from the ground and Zoroastrian worshipers considered flames to be a symbol of the divine (notably at the Ateshgah of Baku and Yanar Dag).",
+   "The three buildings (South, East and West) consist of 130 residential apartments over 33 floors, a Fairmont hotel tower that includes 250 rooms and 61 serviced apartments, and office blocks which provides a net 33,114 square meters of office space."
+  ],
+  "title": "Flame Towers",
+  "url": "https://en.wikipedia.org/wiki/Flame_Towers",
+  "revision": 1371464238,
+  "fetched": "2026-10-20"
+ },
+ "maqam-echahid": {
+  "paragraphs": [
+   "The Maqam Echahid (Arabic: مقام الشهيد, Maqāmu š-šahīd, Arabic pronunciation: [maqaːmu ʃːahiːd], Kabyle: Asmektay n umeɣras/ⴰⵙⵎⴽⵜⴰⵢ ⵏ ⵓⵎⴻⵖⵔⴰⵙ, English: Martyr's Memorial) is a concrete monument commemorating the Algerian War. The monument was opened on July 5, 1982, on the 20th anniversary of Algeria's independence. It is fashioned in the shape of three standing palm leaves, which shelter the \"Eternal Flame\" under it. At the edge of each palm leaf is a statue of a soldier representing a stage of Algeria's struggle for independence.",
+   "Consisting of three stylized fins that join mid-height, the concrete monument built by the Canadian company Lavalin, based on a model produced in the Fine Art Institute of Algiers, under the leadership of Bashir Yelles, reaches a height of 96 metres (315 ft). Above the three supporting fins, at 14 metres (45 ft) from the ground, is an Islamic style turret with a diameter of 10 metres (33 ft) and a height of 7.6 metres (25 ft), topped by a dome of 6 metres (20 ft). It rests on an esplanade that burns an \"eternal flame\" and includes a crypt, an amphitheater and the National Museum of El Mujahid (underground)."
+  ],
+  "title": "Maqam Echahid",
+  "url": "https://en.wikipedia.org/wiki/Maqam_Echahid",
+  "revision": 1342608580,
+  "fetched": "2026-10-20"
+ },
+ "guthrie-theater": {
+  "paragraphs": [
+   "The Guthrie Theater, founded in 1963, is a center for theater performance, production, education, and professional training in Minneapolis, Minnesota. The concept of the theater was born in 1959 in a series of discussions among Sir Tyrone Guthrie, Oliver Rea and Peter Zeisler. Disenchanted with Broadway, they intended to form a theater with a resident acting company, to perform classic plays in rotating repertory, while maintaining the highest professional standards.",
+   "The Guthrie Theater has had two main-stage facilities. The first building was designed by Ralph Rapson and included a 1,441-seat thrust stage designed by Tanya Moiseiwitsch; it was operated from 1963 to 2006. After closing its 2005–2006 season, the theater moved to its current facility, designed by French architect Jean Nouvel.",
+   "In 1982, the theater won the Regional Theatre Tony Award."
+  ],
+  "title": "Guthrie Theater",
+  "url": "https://en.wikipedia.org/wiki/Guthrie_Theater",
+  "revision": 1375935129,
+  "fetched": "2026-10-20"
+ },
+ "custom-house-dublin": {
+  "paragraphs": [
+   "The Custom House (Irish: Teach an Chustaim) is a neoclassical 18th century building in Dublin, Ireland which houses the Department of Housing, Local Government and Heritage. It is located on the north bank of the River Liffey, on Custom House Quay between Butt Bridge and Talbot Memorial Bridge."
+  ],
+  "title": "The Custom House",
+  "url": "https://en.wikipedia.org/wiki/The_Custom_House",
+  "revision": 1378034817,
+  "fetched": "2026-10-20"
+ },
+ "adler-planetarium": {
+  "paragraphs": [
+   "The Adler Planetarium is a municipal public museum for astronomy in Chicago, Illinois, United States. It is operated by the Chicago Park District, a municipal government agency of the City of Chicago. It is the first planetarium in the United States.",
+   "It was founded in 1930 by local businessman Max Adler. Located on the northeastern tip of Northerly Island on Lake Michigan, the Adler Planetarium was the first planetarium in the United States. It is part of Chicago's Museum Campus, which includes the Shedd Aquarium and the Field Museum of Natural History. The Planetarium's mission is to inspire exploration and understanding of the universe.",
+   "The Adler Planetarium opened to the public on May 12, 1930. Its architect, Ernest A. Grunsfeld Jr., was awarded the gold medal of the Chicago chapter of the American Institute of Architects in 1931 for its design. In 1987, it was declared a National Historic Landmark.",
+   "The Adler has three theaters, space science exhibitions, including the Gemini 12 space capsule, and a collection of antique scientific instruments and print materials. In addition, the Adler Planetarium hosts the Doane Observatory, a research-active public observatory.",
+   "The planetarium is surrounded by sculptures including: Man Enters the Cosmos by Henry Moore (1980); Spiral Galaxy by John David Mooney (1998); and America's Courtyard by Ary Perez and Denise Milan."
+  ],
+  "title": "Adler Planetarium",
+  "url": "https://en.wikipedia.org/wiki/Adler_Planetarium",
+  "revision": 1379733602,
+  "fetched": "2026-10-20"
+ },
+ "isokon-building": {
+  "paragraphs": [
+   "Isokon Flats, also known as Lawn Road Flats and the Isokon building, on Lawn Road, Belsize Park in the London Borough of Camden, is a reinforced-concrete block of 36 flats (originally 32), designed by Canadian engineer Wells Coates for Molly and Jack Pritchard."
+  ],
+  "title": "Isokon Flats",
+  "url": "https://en.wikipedia.org/wiki/Isokon_Flats",
+  "revision": 1371599759,
+  "fetched": "2026-10-20"
+ },
+ "gropius-house": {
+  "paragraphs": [
+   "The Gropius House is a historic house museum at 68 Baker Bridge Road in Lincoln, Massachusetts, United States. Designed by Bauhaus architect Walter Gropius and his partner Marcel Breuer in the modern style, the two-story, wood-frame structure was completed in 1938. The house was originally the residence of Gropius, his wife Ise (née Frank), and their daughter Ati. It occupies the center of a hill on an approximately 5.5-acre (2.2 ha) property. Its materials and architectural details, though modernist and relatively simple, were intended to evoke similarities to other New England buildings. Operated by Historic New England since 1985, the house includes a collection of Bauhaus-related items. The design, an early example of modernist residential architecture in the eastern United States, has received extensive commentary on its juxtaposition of traditional and modernist design elements. The building is designated a National Historic Landmark and is part of the Woods End Road Historic District."
+  ],
+  "title": "Gropius House",
+  "url": "https://en.wikipedia.org/wiki/Gropius_House",
+  "revision": 1380068449,
+  "fetched": "2026-10-20"
+ },
+ "metropolitan-cathedral-of-rio-de-janeiro": {
+  "paragraphs": [
+   "The Metropolitan Cathedral of Saint Sebastian (Portuguese: Catedral Metropolitana de São Sebastião), better known as the Metropolitan Cathedral of Rio de Janeiro (Catedral Metropolitana do Rio de Janeiro) or as the Cathedral of St. Sebastian of Rio de Janeiro (Catedral de São Sebastião do Rio de Janeiro), is a cathedral of the Catholic Church and the seat of the Archdiocese of Rio de Janeiro. The cathedral is home to the cathedra of the Archbishops of the city of Rio de Janeiro, Brazil. The church is dedicated to Saint Sebastian, the patron saint of Rio de Janeiro.",
+   "The cathedral was designed by Edgar de Oliveira da Fonseca in a modern style based on Mayan architectural style of pyramids. The current cathedral was built between 1964 and 1979 and replaced as seat of the Archdiocese a series of churches that had served as cathedrals since 1676, the most recent and notable of those being the Church of Our Lady of Mount Carmel of the Ancient See, now known as the Old Cathedral, built in the 18th century, and that had been declared Rio's cathedral in the early 19th century."
+  ],
+  "title": "Rio de Janeiro Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_Cathedral",
+  "revision": 1376513996,
+  "fetched": "2026-10-20"
+ },
+ "stoclet-palace": {
+  "paragraphs": [
+   "The Stoclet Palace (French: Palais Stoclet [palɛ stɔklɛ]; Dutch: Stocletpaleis [stɔˈklɛːpaːˌlɛis]), also known as the Stoclet House, is a historic mansion in Woluwe-Saint-Pierre, a municipality of Brussels, Belgium. It was designed by the Austrian-Moravian architect Josef Hoffmann for the Belgian financier Adolphe Stoclet, and built between 1905 and 1911, in the Vienna Secession style.",
+   "The Stoclet Palace was commissioned by Adolphe Stoclet, a wealthy Belgian financier and art collector, and his wife Suzanne. The Stoclets hired the 35-year-old Austrian architect Josef Hoffmann, who was a founding member of the Vienna Secession, a radical group of designers and artists established in 1897, to build them their own mansion. Stoclet had met Hoffmann while in Vienna to oversee the construction of a railroad, and he shared his avant-garde artistic inclinations. While Stoclet initially considered building the house in Vienna, he eventually settled on a site in Brussels."
+  ],
+  "title": "Stoclet Palace",
+  "url": "https://en.wikipedia.org/wiki/Stoclet_Palace",
+  "revision": 1375548101,
+  "fetched": "2026-10-20"
+ },
+ "frere-hall": {
+  "paragraphs": [
+   "Frere Hall (Urdu: فریئر ہال) is a building in Karachi, Pakistan that dates from the early British colonial era in Sindh. Completed in 1865, Frere Hall was originally intended to serve as Karachi's town hall, and now serves as an exhibition space and library.",
+   "Frere Hall was built in the Venetian-Gothic style that also blends elements of British and local architecture. The building features multiple pointed arches, ribbed vaults, quatrefoils, and flying buttresses. Carving on the walls and beautifully articulated mosaic designs are visible on multiple walls and pillars.",
+   "The building is built primarily out of local yellow-toned limestone, with stone details formed from white oolite stone quarried from the nearby town of Bholari. Red and grey sandstone is also used in the building, which was quarried from the Sindhi town of Jungshahi.",
+   "A tall octagonal tower is located in one of the building's corner that is crowned by an iron cage. The roof of the hall is coated with Muntz metal.",
+   "The hall is surrounded by two lawns originally known as \"Queen's Lawn\" and \"King's Lawn\" which after independence were renamed as Bagh-e-Jinnah, or \"Jinnah Gardens\"."
+  ],
+  "title": "Frere Hall",
+  "url": "https://en.wikipedia.org/wiki/Frere_Hall",
+  "revision": 1344722953,
+  "fetched": "2026-10-20"
+ },
+ "messeturm": {
+  "paragraphs": [
+   "The Messeturm, or Trade Fair Tower, is a 63-storey, 257 m (843 ft) skyscraper in the Westend-Süd district of Frankfurt, Germany. It is the second tallest building in Frankfurt, the second tallest building in Germany and the third tallest building in the European Union. It was the tallest building in Europe from its completion in 1990 until 1997 when it was surpassed by the Commerzbank Tower, which is also located in Frankfurt.",
+   "The Messeturm is similar in design to towers by other architects including the Bank of America Plaza in Atlanta, Georgia and Key Tower (1991) in Cleveland, Ohio. Frankfurters often call it Bleistift (\"pencil\") due to its shape. The construction of the building's foundation set a world record for the longest continuous concrete pour. Ninety trucks poured concrete for 78 hours into the 6-metre (20 ft) deep foundation. Its ground floor area is just 1,681 m2 (18,090 sq ft), and features a 36.3 m (119.1 ft) pyramid at the top.",
+   "The tower uses numerous geometric shapes in its design such as the square footprint which is the main shape used throughout the tower. It then rises to a cylindrical shape which finally completes in a pyramid.",
+   "There are 900 parking places in a public parking garage and a direct connection to the subway."
+  ],
+  "title": "Messeturm",
+  "url": "https://en.wikipedia.org/wiki/Messeturm",
+  "revision": 1369491087,
+  "fetched": "2026-10-20"
+ },
+ "patuxai": {
+  "paragraphs": [
+   "Patuxai is a war monument in Downtown Vientiane, Laos, built between 1957 and 1968. The Patuxai was dedicated to those who fought in the struggle for independence from France. In romanizing the name from the Laotian language, it is variously transliterated as Patuxai, Patuxay, Patousai and Patusai. It is also called Patuxai Arch or the Arc de Triomphe of Vientiane as it resembles the Arc de Triomphe in Paris. However, it is Laotian in design, decorated with mythological creatures.",
+   "The monument has five towers that represent the five principles of coexistence among nations of the world. They are also representative of the five Buddhist principles of “thoughtful amiability, flexibility, honesty, honor and prosperity”.",
+   "The monument has gateways on four sides oriented towards the four cardinal directions. The east–west gateways open to the Lane Xang Avenue, which is used during ceremonial national parades. In front of each gate, there is a pond. The four ponds represent the open section of a lotus flower (representing reverence of Laotians to the brave warriors of the nation). The four corners of the gateways are adorned by statues of a Naga King (mythical symbol of Laos), with a depiction signifying spraying of a jet of water (suggesting nature, fertility, welfare and happiness) into the ponds on the ground."
+  ],
+  "title": "Patuxai",
+  "url": "https://en.wikipedia.org/wiki/Patuxai",
+  "revision": 1344898943,
+  "fetched": "2026-10-20"
+ },
+ "hungarian-state-opera-house-budapest": {
+  "paragraphs": [
+   "The Hungarian State Opera House (Hungarian: Magyar Állami Operaház [ˈmɒɟɒr ˈaːlːɒmi ˈopɛrɒɦaːz]) is a historic opera house located in central Budapest, on Andrássy avenue. Originally known as the Hungarian Royal Opera House, it was designed by Miklós Ybl, a major figure of 19th-century Hungarian architecture. Construction began in 1875, funded by the city of Budapest and by Emperor Franz Joseph I of Austria-Hungary, and the new house opened to the public on the 27 September 1884. Before the closure of the \"Népszínház\" in Budapest, it was the third largest opera building in the city; today it is the second largest opera house in Budapest and in Hungary.",
+   "The decoration of the symmetrical façade follows a musical theme. In niches on either side of the main entrance there are figures of Erkel and Liszt, which were sculpted by Alajos Stróbl.",
+   "The foyer has marble columns. The vaulted ceiling is covered in murals by Bertalan Székely and Mór Than. They depict the nine Muses.",
+   "Wrought-iron lamps illuminate the wide stone staircase and the main entrance. Going to the opera was a great social occasion in the 19th century. A vast, sweeping staircase was an important element of the opera house as it allowed ladies to show off their new gowns."
+  ],
+  "title": "Hungarian State Opera House",
+  "url": "https://en.wikipedia.org/wiki/Hungarian_State_Opera_House",
+  "revision": 1372998604,
+  "fetched": "2026-10-20"
+ },
+ "canadian-museum-of-history": {
+  "paragraphs": [
+   "The Canadian Museum of History (French: Musée canadien de l’histoire) is a national museum on anthropology, Canadian history, cultural studies, and ethnology in Gatineau, Quebec, Canada. The purpose of the museum is to promote the heritage of Canada, as well as support related research. The museum is based in a 75,000-square-metre-building (810,000 sq ft) designed by Douglas Cardinal.",
+   "The 75,000 square metres (810,000 sq ft) structure was designed by Douglas Cardinal. The building's infrastructure includes approximately 56,000 square metres (600,000 sq ft) of concrete, and 7,300 tonnes of steel. Cardinal sought to create form a \"sculptural icon\" for the country, encouraged by then-prime minister, Pierre Trudeau, to develop a symbol that \"enshrined our cultures\". As a result, the building was the first structure in the National Capital Region that incorporates Indigenous architectural designs. Cardinal's design for the building was largely influenced by his understanding of how geography helped shaped Canada's history and culture."
+  ],
+  "title": "Canadian Museum of History",
+  "url": "https://en.wikipedia.org/wiki/Canadian_Museum_of_History",
+  "revision": 1379544851,
+  "fetched": "2026-10-20"
+ },
+ "wazir-khan-mosque": {
+  "paragraphs": [
+   "The Wazir Khan Mosque is a 17th-century Mughal mosque located in the city of Lahore, Punjab, Pakistan. The mosque was commissioned by the then governor of Lahore, Wazir Khan, during the reign of the Mughal emperor Shah Jahan as a part of an ensemble of buildings that also included the nearby Wazir Khan Hammam baths. Construction of the mosque began in 1634, and was completed in 1641.",
+   "The mosque is built on an elevated plinth, with the main portal opening onto the Wazir Khan Chowk. The outer perimeter of the Wazir Khan Mosque measures 279 feet (85 m) by 159 feet (48 m), with the long axis parallel to the Shahi Guzargah. It was built with bricks laid in kankar lime. The mosque's interior is embellished with frescoes that synthesize Mughal and local Punjabi decorative traditions, while the exterior of the mosque is decorated with intricate Punjabi tile-mosaic known as kashi-kari.",
+   "Considered to be the most ornately decorated Mughal-era mosque, Wazir Khan Mosque is noted for its intricate faience tile-work known as kashi-kari, as well as its interior surfaces that are almost entirely embellished with elaborate frescoes. It is on the UNESCO World Heritage Tentative List."
+  ],
+  "title": "Wazir Khan Mosque",
+  "url": "https://en.wikipedia.org/wiki/Wazir_Khan_Mosque",
+  "revision": 1379690569,
+  "fetched": "2026-10-20"
+ },
+ "pacific-science-center": {
+  "paragraphs": [
+   "Pacific Science Center (PacSci) is a nonprofit science education organization in Seattle, Washington, United States. Its main science museum is on the ground of the Seattle Center near Downtown Seattle with auxiliary facilities in Bellevue, Washington. Pacific Science Center was founded in 1962 and reused the United States Science Pavilion that was built for the Century 21 Exposition. The Seattle campus has more than 1 million visitors each year."
+  ],
+  "title": "Pacific Science Center",
+  "url": "https://en.wikipedia.org/wiki/Pacific_Science_Center",
+  "revision": 1379611434,
+  "fetched": "2026-10-20"
+ },
+ "rietveld-schroder-house": {
+  "paragraphs": [
+   "The Rietveld Schröder House (Dutch: Rietveld Schröderhuis; also known as the Schröder House) in Utrecht (Prins Hendriklaan 50) was built in 1924 by Dutch architect Gerrit Rietveld for Mrs. Truus Schröder-Schräder and her three children.",
+   "The Rietveld Schröder House constitutes both inside and outside a radical break with all architecture before it. The two-storey house is situated in Utrecht, at the end of a terrace, but it makes no attempt to relate to its neighbouring buildings (although it shares an exterior wall with the last house in the terrace). It faces a motorway built in the 1960s.",
+   "Inside there is no static accumulation of rooms, but a dynamic, changeable open zone. The ground floor can still be termed traditional; ranged around a central staircase are kitchen and three sit/bedrooms. Additionally, the house included a garage, which was very strange because Truus did not own a car. The living area upstairs, stated as being an attic to satisfy the fire regulations of the planning authorities, in fact forms a large open zone except for a separate toilet and a bathroom. Rietveld wanted to leave the upper level as it was. Mrs Schröder, however, felt that as living space it should be usable in either form, open or subdivided. This was achieved with a system of sliding and revolving panels."
+  ],
+  "title": "Rietveld Schröder House",
+  "url": "https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House",
+  "revision": 1344961062,
+  "fetched": "2026-10-20"
+ },
+ "hubert-h-humphrey-building": {
+  "paragraphs": [
+   "The Hubert H. Humphrey Building (originally the South Portal Building) is the headquarters of the United States Department of Health and Human Services (HHS), located at 200 Independence Avenue SW in Southwest Washington, D.C., United States. The eight-story office building, owned by the U.S. federal government, was built by the General Services Administration as the headquarters of the United States Department of Health, Education, and Welfare (HEW). It was completed in 1977 and designed by Marcel Breuer in the brutalist style. The building is one of two that Breuer designed for the U.S. federal government in the District of Columbia, along with the Robert C. Weaver Federal Building, and is listed on the National Register of Historic Places.",
+   "The Hubert H. Humphrey Building was primarily designed by Marcel Breuer in the brutalist style. It was one of Breuer's final designs, as he retired from his architectural practice in 1976. The Humphrey Building is also the second of Breuer's two designs in Washington, D.C., after the Robert C. Weaver Federal Building, Herbert Beckhard and Nolen-Swinburne & Associates assisted with the design, having previously collaborated with him in the design of the Weaver Building. In addition, the Humphrey Building includes multiple works of art, since Breuer had preferred to incorporate visual art in his buildings."
+  ],
+  "title": "Hubert H. Humphrey Building",
+  "url": "https://en.wikipedia.org/wiki/Hubert_H._Humphrey_Building",
+  "revision": 1373405774,
+  "fetched": "2026-10-20"
+ },
+ "inland-steel-building": {
+  "paragraphs": [
+   "The Inland Steel Building is a 332-foot-tall (101 m) skyscraper at 30 West Monroe Street in Chicago, Illinois, United States. Constructed from 1956 to 1958, the building was designed by Bruce Graham and Walter Netsch of the architectural firm Skidmore, Owings & Merrill (SOM) in the International Style. It was originally the headquarters of the Inland Steel Company and was one of the first skyscrapers to be built in the Chicago Loop since World War II. The Inland Steel Building is designated a Chicago Landmark and is listed on the National Register of Historic Places.",
+   "The Inland Steel Building was designed in a modernist style, particularly the International Style. The design is attributed to Bruce Graham and Walter Netsch of Skidmore, Owings, & Merrill, who were longtime rivals. Netsch had drawn up the preliminary design, while Graham was the main designer, having taken over after Netsch dropped the commission in favor of designing the Air Force Academy. It was SOM's first major structure in downtown Chicago, in addition to being either man's first major Chicago design. Gordon Bunshaft, the head of SOM's New York office, advised Graham and Netsch on the design; Metropolis Magazine wrote that the Inland Steel Building's design benefited from Bunshaft's influence. Fazlur Rahman Khan of SOM was responsible for the structural design."
+  ],
+  "title": "Inland Steel Building",
+  "url": "https://en.wikipedia.org/wiki/Inland_Steel_Building",
+  "revision": 1375922323,
+  "fetched": "2026-10-20"
+ },
+ "denver-art-museum-hamilton-building": {
+  "paragraphs": [
+   "The Denver Art Museum (DAM) is an art museum located in the Civic Center of Denver, Colorado, United States. With an encyclopedic collection of more than 70,000 diverse works from across the centuries and world, the DAM is one of the largest art museums between the West Coast and Chicago. It is known for its collection of American Indian art, as well as The Petrie Institute of Western American Art, which oversees the museum's Western art collection. The museum's Martin Building (formerly known as the North Building) was designed by famed Italian architect Gio Ponti in 1971.",
+   "The Denver Art Museum's Architecture, Design and Graphics department was founded in 1990 by former director Lewis I. Sharp. The collection has concentrations in areas including Italian design from the 1960s and 1970s, American graphic design from the 1950s to the present day, post-World War II furniture and product design in America and western Europe and contemporary western European and Japanese design.",
+   "In 2018, the museum began a transformational $150 million renovation project to unify the campus and revitalize Ponti's original structure, including the creation of new exhibition spaces, two new dining options, and a new welcome center."
+  ],
+  "title": "Denver Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Denver_Art_Museum",
+  "revision": 1381013931,
+  "fetched": "2026-10-20"
+ },
+ "jewish-museum-berlin": {
+  "paragraphs": [
+   "The Jewish Museum Berlin (Jüdisches Museum Berlin) was opened in 2001 and is the largest Jewish museum in Europe. On 3,500 square metres (38,000 square feet) of floor space, the museum presents the history of the Jews in Germany from the Middle Ages to the present day, with new focuses and new scenography. It consists of three buildings, two of which are new additions specifically built for the museum by architect Daniel Libeskind. German-Jewish history is documented in the collections, the library and the archive, and is reflected in the museum's program of events.",
+   "The Jewish Museum Berlin is located in what was West Berlin before the fall of the Wall. Essentially, it consists of two buildings – a baroque old building, the \"Kollegienhaus\" (that formerly housed the Berlin Museum) and a new, deconstructivist-style building by Libeskind. The two buildings have no visible connection above ground. The Libeskind building, consisting of about 15,000 m2 (160,000 sq ft), is a twisted zig-zag and is accessible only via an underground passage from the old building."
+  ],
+  "title": "Jewish Museum Berlin",
+  "url": "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin",
+  "revision": 1377872165,
+  "fetched": "2026-10-20"
+ },
+ "anahuacalli-museum": {
+  "paragraphs": [
+   "The Diego Rivera Anahuacalli Museum is a museum and arts center in Mexico City, located in the San Pablo de Tepetlapa neighborhood of Coyoacán, 10 minutes by car from the Frida Kahlo Museum, as well as from the tourist neighborhood of this district.",
+   "The Anahuacalli (from the Nahuatl word, whose meaning is \"house surrounded by water\"), is a temple of the arts designed by the Mexican muralist Diego Rivera. This museum stands out for its extensive collection of pre-Columbian art, as well as for its Ecological Space that protects endemic flora and fauna. Rivera designed its architecture in order to safeguard his vast collection of pre-Hispanic pieces, while exhibiting the most beautiful works of this set in the museum's main building. Accordingly, a selection of 2,000 artworks, especially well executed and preserved, has been on display since the opening of the Anahuacalli to the public on September 18, 1964."
+  ],
+  "title": "Anahuacalli Museum",
+  "url": "https://en.wikipedia.org/wiki/Anahuacalli_Museum",
+  "revision": 1374649527,
+  "fetched": "2026-10-20"
+ },
+ "casa-malaparte": {
+  "paragraphs": [
+   "Casa Malaparte (also Villa Malaparte) is a house on Punta Massullo, on the eastern side of the isle of Capri, Italy. It is considered to be one of the best examples of Italian modern and contemporary architecture.",
+   "Casa Malaparte is a red masonry box with reverse pyramidal stairs leading to the roof patio. On the roof is a freestanding curving white wall of increasing height. It sits on a dangerous cliff 32 metres above the sea overlooking the Gulf of Salerno. Access to this private property is either by foot from the town of Capri or by boat and a staircase cut into the cliff. Casa Malaparte's interior and exterior (particularly the rooftop patio) are prominently featured in Jean-Luc Godard's 1963 film, Contempt (Le Mépris).",
+   "The house was conceived around 1937 by Curzio Malaparte. Malaparte built the home himself with the help of Adolfo Amitrano, a local stonemason."
+  ],
+  "title": "Casa Malaparte",
+  "url": "https://en.wikipedia.org/wiki/Casa_Malaparte",
+  "revision": 1368419329,
+  "fetched": "2026-10-20"
+ },
+ "eastgate-centre": {
+  "paragraphs": [
+   "The Eastgate Centre is a shopping centre and office block in the business centre of Harare, Zimbabwe, designed by Mick Pearce and built by Ove Arup and Partners. It is a unique example of building ventilated and cooled entirely by natural means.",
+   "The Eastgate Centre was commissioned in 1961 opening its doors in 1996 on Robert Mugabe Avenue and Second Street in the business downtown of Harare, Zimbabwe. The project cost $36 million. It was designed by Zimbabwean architect Mick Pearce and built by engineers from British firm Ove Arup and Partners. Eastgate contains nine storeys of commercial space lined up into two rows that ran along a glass-covered atrium, with retail shops situated on the first two floors and offices above them. The rows are connected by skyways that span across its atrium held up by cables. Arup reduced the use of steel for the construction of skyways, minimising its costs and at the same time accounting for easy maintenance of supporting cables and their jacking points."
+  ],
+  "title": "Eastgate Centre, Harare",
+  "url": "https://en.wikipedia.org/wiki/Eastgate_Centre,_Harare",
+  "revision": 1352275740,
+  "fetched": "2026-10-20"
+ },
+ "neue-nationalgalerie": {
+  "paragraphs": [
+   "The Neue Nationalgalerie (New National Gallery) at the Kulturforum is an art museum in Berlin, Germany. Its main focus is on modern art from the 20th century. It is part of the National Gallery of the Berlin State Museums. The museum building and its sculpture gardens were designed by Ludwig Mies van der Rohe and opened on 15 September 1968 in what was then West Berlin south of the Tiergarten park.",
+   "The gallery closed in 2015 for renovation. The work, by David Chipperfield Architects, was completed in 2021, and the museum reopened in August 2021 with an exhibition of works by American sculptor Alexander Calder."
+  ],
+  "title": "Neue Nationalgalerie",
+  "url": "https://en.wikipedia.org/wiki/Neue_Nationalgalerie",
+  "revision": 1368963796,
+  "fetched": "2026-10-20"
+ },
+ "bahrain-world-trade-center": {
+  "paragraphs": [
+   "The Bahrain World Trade Center is a 240-metre-high (787 ft), 50-floor, twin tower complex located in Manama, Bahrain. Designed by the multi-national architectural firm Atkins, construction on the towers was completed in 2008. It is the first skyscraper in the world to integrate wind turbines into its design. The wind turbines were developed, built and installed by the Danish company Norwin A/S. The structure is constructed close to the King Faisal Highway, near popular landmarks such as the towers of Bahrain Financial Harbour (BFH), NBB and Abraj Al Lulu. It currently ranks as the second-tallest building in Bahrain, after the twin towers of the Bahrain Financial Harbour. The project has received several awards for sustainability, including the 2006 LEAF Award for Best Use of Technology within a Large Scheme and the Arab Construction World for Sustainable Design Award."
+  ],
+  "title": "Bahrain World Trade Center",
+  "url": "https://en.wikipedia.org/wiki/Bahrain_World_Trade_Center",
+  "revision": 1343179060,
+  "fetched": "2026-10-20"
+ },
+ "federal-palace-of-switzerland": {
+  "paragraphs": [
+   "The Federal Palace is a building in Bern housing the Swiss Federal Assembly (legislature) and the Federal Council (executive). It is the seat of the government of Switzerland and parliament of the country. The building is a listed symmetrical complex just over 300 metres (980 ft) long. It is considered one of the most important historic buildings in the country and listed in the Swiss Inventory of Cultural Assets of National Importance. It consists of three interconnected buildings in the southwest of Bern's old city. The two chambers of the Federal Assembly, the National Council and Council of States, meet in the parliament building on Bundesplatz.",
+   "The oldest part of the Federal Palace is the west wing (then called \"Bundes-Rathaus\", now \"Bundeshaus West\"), built from 1852 to 1857 under Jakob Friedrich Studer. The building united the federal administration, government and parliament under one roof. To solve pressing space problems, the east wing (\"Bundeshaus Ost\") was built from 1884 to 1892 under Hans Wilhelm Auer. Under Auer's direction, the parliament building in the center was erected between 1894 and 1902 to conclude the project. At the beginning of the 21st century, the first comprehensive renovation of the Federal Palace took place."
+  ],
+  "title": "Federal Palace of Switzerland",
+  "url": "https://en.wikipedia.org/wiki/Federal_Palace_of_Switzerland",
+  "revision": 1378092690,
+  "fetched": "2026-10-20"
+ },
+ "helsinki-central-station": {
+  "paragraphs": [
+   "Helsinki Central Station (Finnish: Helsingin päärautatieasema, Swedish: Helsingfors centralstation) (HEC) is the main station for commuter rail and long-distance trains departing from Helsinki, Finland. About 200,000 people \"pass through the station\" every day, half of whom are train passengers. The station serves as the terminus for all trains in the Helsinki commuter rail network, as well as for all Helsinki-bound long-distance trains in Finland. The Rautatientori (Central Railway Station) metro station is located in the same building.",
+   "Helsinki Central Station is one of Eliel Saarinen’s best-known works in Finland. It is architecturally and technically innovative and is one of the most prominent landmarks in the Helsinki city centre. It is also considered an important example of Finnish architecture.",
+   "Following its completion in 1914, the station attracted international attention and has subsequently been regarded as an important example of railway station architecture. The German architecture press described it as the most beautiful railway station in the world. The station building also served as an inspiration for the design of the Singapore railway station."
+  ],
+  "title": "Helsinki Central Station",
+  "url": "https://en.wikipedia.org/wiki/Helsinki_Central_Station",
+  "revision": 1379171379,
+  "fetched": "2026-10-20"
+ },
+ "sacred-heart-basilica-koekelberg": {
+  "paragraphs": [
+   "The National Basilica of the Sacred Heart (French: Basilique nationale du Sacré-Cœur; Dutch: Nationale Basiliek van het Heilig-Hart) is a Catholic minor basilica and parish church in Brussels, Belgium. It is dedicated to the Sacred Heart, inspired by the Basilique du Sacré-Cœur in Paris. Symbolically, King Leopold II laid the first stone in 1905 during the celebrations of the 75th anniversary of Belgian independence. The construction was halted by the two world wars and finished only in 1970. Belonging to the Metropolitan Archdiocese of Mechelen–Brussels, it is the 17th largest church by area in the world and the largest in Belgium.",
+   "Located at the head of Elisabeth Park atop the Koekelberg Plateau, between the municipalities of Koekelberg and Ganshoren, the church is popularly known as the Koekelberg Basilica (French: Basilique de Koekelberg; Dutch: Basiliek van Koekelberg). The massive brick and reinforced concrete structure, in Art Deco style of neo-Byzantine inspiration, features two thinner towers and a nearly as high green copper dome that rises 89 metres (292 ft) above ground, dominating Brussels' north-western skyline."
+  ],
+  "title": "Basilica of the Sacred Heart, Brussels",
+  "url": "https://en.wikipedia.org/wiki/Basilica_of_the_Sacred_Heart,_Brussels",
+  "revision": 1372686715,
+  "fetched": "2026-10-20"
+ },
+ "auditorio-de-tenerife": {
+  "paragraphs": [
+   "The Auditorio de Tenerife \"Adán Martín\" (commonly referred to as the Auditorio de Tenerife) is an auditorium in Santa Cruz de Tenerife, Canary Islands, Spain. Designed by architect Santiago Calatrava, it is located on the Avenue of the Constitution in the Canarian capital, and next to the Atlantic Ocean in the southern part of Port of Santa Cruz de Tenerife. Construction began in 1997 and was completed in 2003. The auditorium was inaugurated on 26 September of that year in the presence of Felipe, Prince of Asturias, and was later visited by former U.S. President Bill Clinton. The building is framed within the tenets of late-modern architecture of the late 20th century.",
+   "The majestic profile of the auditorium has become an architectural symbol of the city of Santa Cruz de Tenerife, the island of Tenerife and the Canary Islands. It is also regarded as the finest contemporary building in the Canary Islands and one of the most emblematic buildings of Spanish architecture. In March 2008, it was included by the post office in a set of six stamps (Correos) depicting the most emblematic works of Spanish architecture. In 2011, the image of the Tenerife Auditorium was included in a series of commemorative coins of 5 euros, which displayed the most emblematic symbols of several Spanish cities."
+  ],
+  "title": "Auditorio de Tenerife",
+  "url": "https://en.wikipedia.org/wiki/Auditorio_de_Tenerife",
+  "revision": 1380847862,
+  "fetched": "2026-10-20"
+ },
+ "century-plaza-towers": {
+  "paragraphs": [
+   "The Century Plaza Towers are two 44-story, 571-foot (174 m) twin towers in the Century City neighborhood of Los Angeles, California. They are the tallest buildings in California outside Downtown Los Angeles and San Francisco.",
+   "Commissioned by Alcoa, the towers were designed by Minoru Yamasaki and completed in 1975. The towers resemble Yamasaki's iconic work, the original World Trade Center in New York City, with their twin configuration, vertical black and gray lines, and aluminum exteriors. The towers have an unusual triangular footprint and are landmarks that are clearly seen around the Los Angeles Westside. Their prominence in the Century City skyline has been reduced in recent years with the addition of new skyscrapers that partially block their view. Nevertheless, the Century Plaza Towers remain the tallest buildings in Century City and the tallest skyscrapers in Southern California outside of downtown Los Angeles. The towers sit atop one of the world's largest underground parking garages with a capacity of roughly 5,000 cars.",
+   "The Los Angeles Times reported that in February 2020, the signature twin office skyscrapers were fully occupied for the first time."
+  ],
+  "title": "Century Plaza Towers",
+  "url": "https://en.wikipedia.org/wiki/Century_Plaza_Towers",
+  "revision": 1353462840,
+  "fetched": "2026-10-20"
+ },
+ "swaminarayan-akshardham-gandhinagar": {
+  "paragraphs": [
+   "Swaminarayan Akshardham in Gandhinagar, Gujarat, India is a large Hindu temple complex inspired by Yogiji Maharaj (1892–1971) the fourth spiritual successor of Swaminarayan, and created by Pramukh Swami Maharaj (1921–2016), the fifth spiritual successor of Swaminarayan according to the BAPS denomination of Swaminarayan Hinduism. The complex was built over 13 years and is a tribute to Swaminarayan and his life and teachings. At the center of the 23-acre complex is the Akshardham temple, which is built from 6,000 metric tons of pink sandstone from Rajasthan. The complex's name refers to the divine abode of Swaminarayan in the BAPS philosophy; followers of Swaminarayan believe that the jiva (soul) goes to Akshardham after attaining moksha, or liberation.",
+   "On September 24, 2002, the temple was attacked by two Islamic terrorists from Lashkar-e-Taiba, killing 33 worshippers and wounding 70."
+  ],
+  "title": "Swaminarayan Akshardham (Gandhinagar)",
+  "url": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Gandhinagar)",
+  "revision": 1379334217,
+  "fetched": "2026-10-20"
+ },
+ "musee-du-quai-branly": {
+  "paragraphs": [
+   "The Musée du Quai Branly – Jacques Chirac (French pronunciation: [myze dy ke bʁɑ̃li ʒak ʃiʁak]; English: Jacques Chirac Museum of Quay Branly, MQB) is an art museum located in Paris, France. The museum, designed by French architect Jean Nouvel, features the indigenous art and cultures of Africa, Asia, Oceania, and the Americas. The museum collection comprises more than a million objects (ethnographic objects, photographs, documents, etc.), of which 3,500 are on display at any given time in both permanent and temporary thematic exhibits. A selection of objects from the museum is also displayed in the Gallery of the Five Continents of the Louvre.",
+   "The Museum Quai Branly opened in 2006; it is the newest of the major museums in Paris and received 1.15 million visitors in 2016. It is jointly administered by the French Ministry of Culture and the Ministry of Higher Education and Research, and serves as both a museum and as a center for research.",
+   "The museum is located in the 7th arrondissement of Paris, on the left bank of the Seine, close to the Eiffel Tower and the Alma Bridge. Since its conception, the museum has been the subject of praise as well as controversy, with some journalists, scholars, and governments calling for the repatriation of parts of its collections that were acquired through colonial conquest."
+  ],
+  "title": "Musée du Quai Branly – Jacques Chirac",
+  "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_%E2%80%93_Jacques_Chirac",
+  "revision": 1378005433,
+  "fetched": "2026-10-20"
+ },
+ "oslo-city-hall": {
+  "paragraphs": [
+   "Oslo City Hall (Norwegian: Oslo rådhus) is a municipal building in Oslo, the capital of Norway. It houses the city council, the city's administration and various other municipal organisations. The building as it stands today was constructed between 1931 and 1950, with an interruption during the Second World War. It was designed by architects Arnstein Arneberg and Magnus Poulsson. The building is located in the city center, in the northern part of the Pipervika neighbourhood, and it faces Oslofjord.",
+   "Oslo City Hall is built of red brick and has two towers, one 63 meters tall and other 66 meters tall. The bricks used are larger than what was typical at the time of construction, but are roughly the same size as bricks used in the Middle Ages. The bricks, measuring approximately 27.5 × 13 × 8.5 cm, were produced by Hovin Teglverk in Oslo. The eastern tower has a carillon set of 49 bells. Various events and ceremonies take place in the building, notably the Nobel Peace Prize ceremony, which takes place every December."
+  ],
+  "title": "Oslo City Hall",
+  "url": "https://en.wikipedia.org/wiki/Oslo_City_Hall",
+  "revision": 1364549888,
+  "fetched": "2026-10-20"
+ },
+ "phillips-exeter-academy-library": {
+  "paragraphs": [
+   "Phillips Exeter Academy Library is a library that serves Phillips Exeter Academy, an independent boarding school located in Exeter, New Hampshire, United States. It is the largest secondary school library in the world, containing 160,000 volumes over nine levels with a shelf capacity of 250,000 volumes.",
+   "The library has an almost cubical shape: each of its four sides is 111 feet (33 m) wide and 80 feet (24 m) tall. It is constructed in three concentric areas (which Kahn called \"doughnuts\"). In the words of Robert McCarter, author of Louis I. Kahn, \"From the very beginning of the design process, Kahn conceived of the three types of spaces as if they were three buildings constructed of different materials and of different scales – buildings-within-buildings\". The outer area, which houses the reading carrels, is made of brick. The middle area, which contains the heavy book stacks, is made of reinforced concrete. The inner area is an atrium.",
+   "The library's heating and cooling needs are supplied by the nearby dining hall, which Kahn built at the same time as the library, but which is considered to be of less architectural significance."
+  ],
+  "title": "Phillips Exeter Academy Library",
+  "url": "https://en.wikipedia.org/wiki/Phillips_Exeter_Academy_Library",
+  "revision": 1362107737,
+  "fetched": "2026-10-20"
+ },
+ "republican-palace-baghdad": {
+  "paragraphs": [
+   "The Republican Palace (Arabic: القصر الجمهوري, al-Qaṣr al-Jumhūriy) is a palace in Baghdad, Iraq, constructed on the orders of King Faisal II and completed in the early 1960's. It was the third royal palace built during the Hashemite Kingdom of Iraq after Al-Rehab Palace and Al Zohour Palace. The palace was the administrative location of the Iraqi Presidency starting with the presidency of Abdul Salam Arif in 1963 until Saddam Hussein in 2003.",
+   "The palace was spared during the 2003 invasion of Iraq and was used as the Multi-National Force – Iraq coalition headquarters during the U.S. Occupation of Iraq as well as the American diplomatic mission in Iraq until 1 January 2009 when it was returned to the Iraqi Presidency. The area around the palace became known as the Green Zone."
+  ],
+  "title": "Republican Palace, Baghdad",
+  "url": "https://en.wikipedia.org/wiki/Republican_Palace,_Baghdad",
+  "revision": 1370335958,
+  "fetched": "2026-10-20"
+ },
+ "haludovo-palace-hotel-malinska": {
+  "paragraphs": [
+   "The Haludovo Palace Hotel is an abandoned resort hotel near Malinska on the island of Krk, Croatia. It formed the architectural and social centre of Haludovo, a large tourist resort designed by Croatian architect Boris Magaš and constructed between 1969 and 1972 during the rapid expansion of tourism on the Yugoslav Adriatic.",
+   "Covering approximately 25 hectares (62 acres), Haludovo was conceived as a self-contained tourist settlement rather than a single hotel. In addition to the Palace, it included Hotel Tamaris, groups of atrium and two-storey villas, the coastal Fishermen's Village, and extensive sports, leisure and service facilities. The first phase was designed for approximately 1,650 guests, while the original planning concept envisaged an eventual capacity of about 5,000 beds.",
+   "Haludovo gained international attention in 1972 through a short-lived partnership between the Rijeka-based Yugoslav trading company Brodokomerc and American publisher Bob Guccione, founder of Penthouse. Guccione established the Penthouse Adriatic Club within the Palace, including a casino intended primarily for foreign visitors. The partnership ended the following year amid financial difficulties, but Haludovo continued operating as a conventional holiday resort throughout the 1970s and 1980s."
+  ],
+  "title": "Haludovo Palace Hotel",
+  "url": "https://en.wikipedia.org/wiki/Haludovo_Palace_Hotel",
+  "revision": 1378107795,
+  "fetched": "2026-10-20"
+ },
+ "ig-farben-building": {
+  "paragraphs": [
+   "The IG Farben Building (German: IG Farben-Haus), also known as the Poelzig Building (Poelzig-Bau), is a building complex in Frankfurt, Germany. It is the central building of the Westend Campus of Goethe University Frankfurt. Designed by Hans Poelzig in the New Objectivity style and completed in 1931, it was built as the corporate headquarters of IG Farben. It was the largest building constructed in the Weimar Republic and remained Europe's largest office complex until the 1950s.",
+   "The main block is 250 metres long and consists of six wings connected by a gently curved central corridor. The arrangement brought daylight and ventilation to the offices while avoiding the enclosed courtyards common in large office buildings of the period. Its steel frame is faced with travertine, and horizontal window bands emphasise the curve of the façade. Poelzig's design combined monumental scale with the repetitive forms of industrial construction."
+  ],
+  "title": "IG Farben Building",
+  "url": "https://en.wikipedia.org/wiki/IG_Farben_Building",
+  "revision": 1380020980,
+  "fetched": "2026-10-20"
+ },
+ "helsinki-central-library-oodi": {
+  "paragraphs": [
+   "The Helsinki Central Library Oodi (Finnish: Helsingin keskustakirjasto Oodi; Swedish: Helsingfors centrumbibliotek Ode), commonly referred to as Oodi (lit. 'ode'), is a public library in Helsinki, Finland. The library is situated in the Kluuvi district, close to Helsinki Central Station and next to Helsinki Music Centre and Kiasma Museum of Contemporary Art. Despite its name, the library is not the main library in the Helsinki City Library system, which is located in Pasila instead; \"central\" refers to its location in the city centre.",
+   "Since opening in December 2018, Oodi has become one of Helsinki's most visited public buildings. It received more than 2.7 million visits in 2025, and recorded more than 575,000 loans, the highest figure among Helsinki's libraries. In 2025, Oodi was also the venue for around 1,200 free public events, including literary discussions, music performances, children's events, language cafés, lectures and film screenings. Oodi welcomed its ten-millionth visitor in March 2024, less than six years after opening.",
+   "In 2019, Helsinki Central Library Oodi was included in TIME magazine's “World’s Greatest Places” list. TIME highlighted Oodi as an innovative “library of the future”, drawing particular attention to its combination of traditional library functions with spaces for games, recording, film, concerts and other activities, as well as its distinctive architecture and reading spaces."
+  ],
+  "title": "Helsinki Central Library Oodi",
+  "url": "https://en.wikipedia.org/wiki/Helsinki_Central_Library_Oodi",
+  "revision": 1379052226,
+  "fetched": "2026-10-20"
+ },
+ "m": {
+  "paragraphs": [
+   "M+ is an art museum located in the West Kowloon Cultural District of Hong Kong. It exhibits twentieth- and twenty-first-century art encompassing visual art, design and architecture, and moving image. It opened on 12 November 2021."
+  ],
+  "title": "M+",
+  "url": "https://en.wikipedia.org/wiki/M%2B",
+  "revision": 1363328601,
+  "fetched": "2026-10-20"
+ },
+ "national-museum-of-qatar": {
+  "paragraphs": [
+   "The National Museum of Qatar is a national museum in Doha, Qatar. The current building opened to the public on 28 March 2019, replacing the previous building which opened in 1975. The building was designed by the French architect Jean Nouvel who was inspired by the desert rose crystal, which is found in Qatar. The museum site includes Sheikh Abdullah bin Jassim Al Thani's palace, which is the heart of the Qatari national identity."
+  ],
+  "title": "National Museum of Qatar",
+  "url": "https://en.wikipedia.org/wiki/National_Museum_of_Qatar",
+  "revision": 1380301748,
+  "fetched": "2026-10-20"
+ },
+ "teatro-amazonas": {
+  "paragraphs": [
+   "The Amazon Theatre (Portuguese: Teatro Amazonas) is an opera house located in Manaus, Brazil. It is the location of the annual Festival Amazonas de Ópera (Amazonas Opera Festival) and the home of the Amazonas Philharmonic Orchestra which regularly rehearses and performs at the Amazon Theatre along with choirs, musical concerts and other performances.",
+   "More than 126 years old, it represents the city's heyday during the rubber boom. It was chosen by the magazine Vogue as one of the most beautiful opera houses in the world. In July 2026, it was designated by UNESCO as a World Heritage Site along with Teatro da Paz."
+  ],
+  "title": "Amazon Theatre",
+  "url": "https://en.wikipedia.org/wiki/Amazon_Theatre",
+  "revision": 1379250810,
+  "fetched": "2026-10-20"
+ },
+ "four-courts-dublin": {
+  "paragraphs": [
+   "The Four Courts (Irish: Na Ceithre Cúirteanna) is Ireland's most prominent courts building, located on Inns Quay in Dublin. The Four Courts is the principal seat of the Supreme Court, the Court of Appeal, the High Court and the Dublin Circuit Court. Until 2010 the building also housed the Central Criminal Court; this is now located in the Criminal Courts of Justice building."
+  ],
+  "title": "Four Courts",
+  "url": "https://en.wikipedia.org/wiki/Four_Courts",
+  "revision": 1380310298,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-contemporary-art-los-angeles": {
+  "paragraphs": [
+   "The Museum of Contemporary Art, Los Angeles (MOCA) is a contemporary art museum which has two locations in Los Angeles. The main museum is located on Grand Avenue in Downtown Los Angeles, near the Walt Disney Concert Hall. The second location is MOCA's original space, initially intended as a temporary exhibit space while the main facility was built. It is now known as the Geffen Contemporary and is located in the Little Tokyo district of downtown Los Angeles. Between 2000 and 2019, it operated a satellite facility at the Pacific Design Center facility in West Hollywood.",
+   "The exhibits consist primarily of American and European contemporary art created after 1940. As of 2026, the collection included nearly 8,000 objects. Since the museum's inception, MOCA's programming has been defined by its multi-disciplinary approach to contemporary art."
+  ],
+  "title": "Museum of Contemporary Art, Los Angeles",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_Contemporary_Art,_Los_Angeles",
+  "revision": 1381164210,
+  "fetched": "2026-10-20"
+ },
+ "pagoda-of-fogong-temple": {
+  "paragraphs": [
+   "Wooden buildings that have exceptional heights are listed, starting with the tallest wooden structures. Wooden buildings are having a resurgence, as they are considered to be a climate-friendly alternative to some synthetic materials.",
+   "In some cases wooden structures were built as not enough steel was available, in others the non-conductive nature of wood was used. Latter was important for towers, which carried a radio antenna in its structure or for structures used for measurements on antennas.",
+   "The tallest recorded wooden structures had been wooden radio masts with heights of up to 220 meters, or 720 feet, constructed in Russia in the first half of the 20th century but they were replaced by steel masts. Data verifying the location of these structures is not readily available. The second highest recorded wooden structure was the tower of the Mühlacker radio transmitter (190 meters or 620 feet, destroyed in 1945). The tallest standing wooden structure is the Gliwice Radio Tower (112 m or 367 ft), located in Gliwice, Poland."
+  ],
+  "title": "List of tallest wooden buildings and structures",
+  "url": "https://en.wikipedia.org/wiki/List_of_tallest_wooden_buildings_and_structures",
+  "revision": 1378899839,
+  "fetched": "2026-10-20"
+ },
+ "aga-khan-museum": {
+  "paragraphs": [
+   "The Aga Khan Museum is a museum of Islamic art located in the North York district of Toronto, Ontario, Canada. The museum is dedicated to Islamic art and objects, and it houses approximately 1,200 rare objects assembled by Shah Karim al-Husayni and Prince Sadruddin Aga Khan. As an initiative of the Aga Khan Trust for Culture, an agency of the Aga Khan Development Network, the museum is dedicated to promoting understanding of Muslim cultures and their connection with other cultures through the arts. In addition to the Permanent Collection, the Aga Khan Museum features several temporary exhibitions each year that respond to current scholarship, emerging themes, and new artistic developments. The Museum Collection and exhibitions are complemented by educational programmes and performing arts events.",
+   "Designed by Pritzker Prize-winning architect Fumihiko Maki, the Aga Khan Museum shares a 6.8-hectare (17-acre) site with Toronto's Ismaili Centre, which was designed by Indian architect Charles Correa. The surrounding landscaped park was created by landscape architect Vladimir Djurovic and is a contemporary interpretation of the Islamic courtyard—the Charbaag.",
+   "The museum is home to galleries, exhibition spaces, classrooms, a reference library, an auditorium, and a restaurant. It houses a permanent collection of over 1,000 objects representing a broad range of artistic styles and materials from more than ten centuries of human history."
+  ],
+  "title": "Aga Khan Museum",
+  "url": "https://en.wikipedia.org/wiki/Aga_Khan_Museum",
+  "revision": 1374502115,
+  "fetched": "2026-10-20"
+ },
+ "first-christian-church-columbus": {
+  "paragraphs": [
+   "The First Christian Church (originally known as the Tabernacle Church of Christ) is a church building at 531 Fifth Street in Columbus, Indiana, United States. The building was designed by Eliel Saarinen, with some details overseen by his son Eero Saarinen and his associate Charles Eames. Built in 1942, it was the first modern-style building in Columbus and one of the first churches in the United States to be built in a contemporary architectural style. It houses the First Christian Church congregation, which is nondenominational and was founded in 1855 as the Christian Congregation in Columbus. The building has received praise for its design over the years and is designated as a National Historic Landmark.",
+   "The First Christian Church was designed by Eliel Saarinen, in conjunction with his son Eero. At the time of the building's development in the 1940s, the two men worked closely together, and many parts of the design cannot be attributed definitively to either man. The writer Harry McCawley states that Eero probably helped with planning, while Charles Eames, later to become a prominent furniture designer in his own right, designed other details. The architectural historian Russell D. Rudzinski attributes the massing, or general shape, to Eero but says that his father was certainly responsible for the articulation of details."
+  ],
+  "title": "First Christian Church (Columbus, Indiana)",
+  "url": "https://en.wikipedia.org/wiki/First_Christian_Church_(Columbus,_Indiana)",
+  "revision": 1376256753,
+  "fetched": "2026-10-20"
+ },
+ "seattle-central-library": {
+  "paragraphs": [
+   "The Seattle Central Library is the flagship library of the Seattle Public Library system. The 11-story (185 feet or 56.9 meters high) glass and steel building in the downtown core of Seattle, Washington was opened to the public on May 23, 2004. Rem Koolhaas and Joshua Prince-Ramus of OMA/LMN were the principal architects, and Magnusson Klemencic Associates was the structural engineer with Arup. Arup also provided mechanical, electrical, and plumbing engineering, as well as fire/life safety, security, IT and communications, and audio visual consulting. Hoffman Construction Company of Portland, Oregon, was the general contractor.",
+   "Rem Koolhaas and Joshua Prince-Ramus of the Dutch firm Office for Metropolitan Architecture (OMA), working in conjunction with the Seattle firm LMN Architects, served as the building's principal architects. Ramus served as the partner in charge. Bjarke Ingels designed the interior boxes for OMA. OMA was not one of the firms invited to compete for the project. Ramus, formerly a Seattle resident, found out from his mother one day in advance that the library board was inviting interested firms to attend a mandatory public meeting. He flew in, and OMA ended up winning the project."
+  ],
+  "title": "Seattle Central Library",
+  "url": "https://en.wikipedia.org/wiki/Seattle_Central_Library",
+  "revision": 1378800750,
+  "fetched": "2026-10-20"
+ },
+ "bmw-welt": {
+  "paragraphs": [
+   "The BMW Welt is a combined exhibition, delivery, adventure museum, and event venue located in Munich's district Am Riesenfeld, next to the Olympic Park, in the immediate vicinity of the BMW Headquarters and factory. It was built from August 2003 to summer 2007. A solar system with 800 kW of power is installed on the roof of the main building. The opening took place on 17 October 2007. The BMW Welt is the most visited tourist attraction in Bavaria.",
+   "In 2001, an international architectural design competition was sponsored by BMW. Twenty-seven offices participated in the competition four of which were awarded prizes. The jury awarded two offices Sauerbruch Hutton and COOP HIMMELB(L)AU first prize and made the recommendation for the competitors to rework their design submissions in a third design phase in order for BMW to determine which office would be awarded the contract.",
+   "The contract was awarded to the Vienna-based architects COOP HIMMELB(L)AU and the facility was constructed from August 2003 through summer 2007 at a cost of US$200 million. Originally conceived to be open and ready for World Cup 2006, it eventually opened on 17 October 2007, and deliveries commenced on 23 October 2007. The first customer to take European delivery of a new BMW at the Welt was Jonathan Spira."
+  ],
+  "title": "BMW Welt",
+  "url": "https://en.wikipedia.org/wiki/BMW_Welt",
+  "revision": 1355552800,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-tomorrow": {
+  "paragraphs": [
+   "The Museum of Tomorrow (Portuguese: Museu do Amanhã) is a science museum in the city of Rio de Janeiro, Brazil. It was designed by Spanish neofuturistic architect Santiago Calatrava, and built next to the waterfront at Pier Maua. Its construction was supported by the Roberto Marinho Foundation and cost approximately 230 million reais. The building was opened on 17 December 2015, with President Dilma Rousseff in attendance.",
+   "One of the goals in building the museum was to strengthen the cultural and international identity of the city of Rio de Janeiro. The museum was presented as an icon of the reurbanization of the port area."
+  ],
+  "title": "Museum of Tomorrow",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_Tomorrow",
+  "revision": 1374503446,
+  "fetched": "2026-10-20"
+ },
+ "vitra-fire-station": {
+  "paragraphs": [
+   "The Vitra Fire Station is a concrete and steel building of 852 m2 (9,170 sq ft) located at the Vitra Furniture factory in Weil am Rhein, Germany. Completed in 1993, it was the first constructed project by Iraqi architect Zaha Hadid.",
+   "Architect Nicholas Grimshaw was hired to redesign of the damaged factory complex. His original proposal was a unified series of buildings. However, the company later chose to create a collection of buildings with varying styles. For the fire station, the company hired Zaha Hadid, whom it had been considering for the design of some of its furniture product line."
+  ],
+  "title": "Vitra Fire Station",
+  "url": "https://en.wikipedia.org/wiki/Vitra_Fire_Station",
+  "revision": 1265139228,
+  "fetched": "2026-10-20"
+ },
+ "8-spruce-street": {
+  "paragraphs": [
+   "8 Spruce previously known as the Beekman Tower and New York by Gehry, is a residential skyscraper on Spruce Street in the Financial District of Manhattan in New York City. Designed by architect Frank Gehry + Gehry Partners LLP and developed by Forest City Realty Trust, the building rises 870 feet (265.2 m) with 76 stories. WSP Cantor Seinuk was the lead structural engineer, Jaros, Baum & Bolles provided MEP engineering, and Kreisler Borg Florman was construction manager. 8 Spruce Street was the tallest residential tower in the Western Hemisphere at the time of opening in February 2011.",
+   "The building includes a school, a hospital, retail stores, and a parking garage on its lower levels. There are 899 apartments on the upper stories."
+  ],
+  "title": "8 Spruce",
+  "url": "https://en.wikipedia.org/wiki/8_Spruce",
+  "revision": 1381072136,
+  "fetched": "2026-10-20"
+ },
+ "l-oceanografic-restaurant": {
+  "paragraphs": [
+   "L'Oceanogràfic (Valencian: [loseˌanoˈɣɾafik], Spanish: El Oceanográfico [el oˌθeanoˈɣɾafiko], 'The Oceanographic') is an oceanarium situated in the Garden of the Turia to the southeast of the city center of Valencia, Spain, where different marine habitats are represented. It was designed by the architect Félix Candela and the structural engineers Alberto Domingo and Carlos Lázaro. It is integrated inside the cultural complex known as the City of Arts and Sciences. It was opened on 14 February 2003."
+  ],
+  "title": "L'Oceanogràfic",
+  "url": "https://en.wikipedia.org/wiki/L%27Oceanogr%C3%A0fic",
+  "revision": 1375574629,
+  "fetched": "2026-10-20"
+ },
+ "castillo-san-felipe-de-barajas": {
+  "paragraphs": [
+   "The Castillo San Felipe de Barajas (San Felipe de Barajas Castle) is a fortress in the city of Cartagena, Colombia. The castle was built in 1639, and is located on the Hill of San Lázaro in a strategic location, dominating approaches to the city by land or sea. It was originally known as the Castillo de San Lázaro. It was built by African slave labor under Spanish supervision during the colonial era. The fortress was involved in several battles between the late 17th to early 19th centuries between European powers."
+  ],
+  "title": "Castillo San Felipe de Barajas",
+  "url": "https://en.wikipedia.org/wiki/Castillo_San_Felipe_de_Barajas",
+  "revision": 1372180101,
+  "fetched": "2026-10-20"
+ },
+ "stavros-niarchos-foundation-cultural-center": {
+  "paragraphs": [
+   "The Stavros Niarchos Foundation Cultural Center (SNFCC) (Greek: Κέντρο Πολιτισμού Ίδρυμα Σταύρος Νιάρχος, romanized: Kéntro Politismoú Ídryma Staúros Niárchos (ΚΠΙΣΝ)) is a cultural center complex in the municipality of Kallithea in Athens, Greece. It includes new facilities for the National Library of Greece (NLG) and the Greek National Opera (GNO), as well as the 210,000 m2 (2,300,000 sq ft) Stavros Niarchos Park. The center was designed by architect Renzo Piano and its construction was funded by the Stavros Niarchos Foundation. The $861 million project was completed in 2016, and was donated to the Greek state in 2017.",
+   "Renzo Piano envisaged the SNFCC rising out of the ground like a dislodged piece of the Earth's crust. As a result, an artificial hill is constructed and the roof of both the library and the opera house is emerging from it maintaining the slope. The library is lower and the ‘hill’ concludes with the opera house. The roof of the library will be covered with ground material and planted with indigenous Greek plants. On top of the opera house there will be a canopy supported on thin steel columns. According to Piano, \"the canopy represents a cloud hovering over the highest point of the hill\"."
+  ],
+  "title": "Stavros Niarchos Foundation Cultural Center",
+  "url": "https://en.wikipedia.org/wiki/Stavros_Niarchos_Foundation_Cultural_Center",
+  "revision": 1358530134,
+  "fetched": "2026-10-20"
+ },
+ "palais-de-tokyo": {
+  "paragraphs": [
+   "The Palais de Tokyo (Tokyo Palace) is a building dedicated to modern and contemporary art, located at 13 avenue du Président-Wilson, facing the Trocadéro, in the 16th arrondissement of Paris. The eastern wing of the building belongs to the City of Paris, and hosts the Musée d'Art Moderne de Paris (Paris' Museum of Modern Art). The western wing belongs to the French state and since 2002, has hosted the Palais de Tokyo / Site de création contemporaine, the largest museum in France dedicated to temporary exhibitions of contemporary art.",
+   "The building is separated from the River Seine by the Avenue de New-York, which was formerly named Quai Debilly and later Avenue de Tokio (from 1918 to 1945). The name Palais de Tokyo derives from the name of this street. The Iéna station on Line 9 of the Paris Metro is located very close to the museum."
+  ],
+  "title": "Palais de Tokyo",
+  "url": "https://en.wikipedia.org/wiki/Palais_de_Tokyo",
+  "revision": 1371836447,
+  "fetched": "2026-10-20"
+ },
+ "copenhagen-opera-house": {
+  "paragraphs": [
+   "The Copenhagen Opera House (in Danish usually called Operaen, literally The opera) is the national opera house of Denmark, and among the most modern opera houses in the world. It is also one of the most expensive opera houses ever built at a cost of 2.5 billion DKK (c. 370,000,000 USD). It is located on the island of Holmen in central Copenhagen."
+  ],
+  "title": "Copenhagen Opera House",
+  "url": "https://en.wikipedia.org/wiki/Copenhagen_Opera_House",
+  "revision": 1370138805,
+  "fetched": "2026-10-20"
+ },
+ "berliner-philharmonie": {
+  "paragraphs": [
+   "The Berliner Philharmonie (German: [bɛʁˌliːnɐ fɪlhaʁmoˈniː] ) is a concert hall in Berlin, Germany, and home to the Berlin Philharmonic Orchestra.",
+   "The Philharmonie lies on the south edge of the city's Tiergarten and just west of the former Berlin Wall. The Philharmonie is on Herbert-von-Karajan-Straße, named for the orchestra's longest-serving principal conductor. The building forms part of the Kulturforum complex of cultural institutions close to Potsdamer Platz.",
+   "The Philharmonie consists of two venues, the Grand Hall (Großer Saal) with 2,440 seats and the Chamber Music Hall (Kammermusiksaal) with 1,180 seats. Though conceived together, the smaller hall was opened in the 1980s, some twenty years after the main building."
+  ],
+  "title": "Berliner Philharmonie",
+  "url": "https://en.wikipedia.org/wiki/Berliner_Philharmonie",
+  "revision": 1369434375,
+  "fetched": "2026-10-20"
+ },
+ "wales-millennium-centre": {
+  "paragraphs": [
+   "Wales Millennium Centre (Welsh: Canolfan Mileniwm Cymru) is Wales's national arts centre located in the Cardiff Bay area of Cardiff, Wales. The site covers a total area of 7.5 acres (3.0 ha). Phase 1 of the building was opened during the weekend of 26–28 November 2004 and phase 2 opened on 22 January 2009 with an inaugural concert.",
+   "The original plans for Wales Millennium Centre were that it would have a concert hall, but the final design of phase 1 did not include one. Instead, space was left for a concert hall to be built after phase 1 opened in 2004, and construction on phase 2 was then due to begin early in 2005. However, phase 2 construction did not actually begin until April 2007. Phase 2 was designed to fit into Wales Millennium Centre's curved slate frontage, with an upper part constructed from timber."
+  ],
+  "title": "Wales Millennium Centre",
+  "url": "https://en.wikipedia.org/wiki/Wales_Millennium_Centre",
+  "revision": 1372986078,
+  "fetched": "2026-10-20"
+ },
+ "mausoleum-of-aga-khan-aswan": {
+  "paragraphs": [
+   "The Mausoleum of Aga Khan is the mausoleum of Aga Khan III (Sir Sultan Muhammed Shah, who died in 1957). The mausoleum is located at Aswan along the Nile of Egypt, since Egypt was formerly the centre of power of the Fatimids, an Ismaili Shia dynasty. It is now also the resting place of Aga Khan IV (Karim al-Hussaini, who died in 2025).",
+   "The construction of the mausoleum began in 1956 and ended in 1960. The Aga Khan III's wife, Begum Om Habibeh Aga Khan, commissioned the construction of the mausoleum, which initially accepted tourists inside; however, the interior was closed off to the public in 1997.",
+   "A red rose is laid on the Aga Khan III's tomb every day – a practice first started by Begum Om Habibeh Aga Khan.",
+   "The archaeological research and preservation project of the Aga Khan Necropolis, led by the University of Milan, was awarded the national Crystal Compass Award, a Russian national award recognizing outstanding geographical and research projects."
+  ],
+  "title": "Mausoleum of Aga Khan",
+  "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Aga_Khan",
+  "revision": 1374179009,
+  "fetched": "2026-10-20"
+ },
+ "e-1027": {
+  "paragraphs": [
+   "E-1027 is a modernist villa in Roquebrune-Cap-Martin, in the Alpes-Maritimes department of France. It was designed and built from 1926–1929 by the Irish architect and furniture designer Eileen Gray and the French/Romanian Architect Jean Badovici. L-shaped and flat-roofed with floor-to-ceiling windows and a spiral stairway to the guest room, E-1027 was both open and compact. This is considered to be Gray's first major work, making indistinct the border between architecture and decoration, and highly personalized to be in accord with the lifestyle of its intended occupants.",
+   "The name of the house, E-1027, is a code of Eileen Gray and Jean Badovici ('E' standing for Eileen, '10' Jean, '2' Badovici, '7' Gray), reflecting their relationship as lovers during its construction. It is impossible to identify the exact individual contributions of Gray or Badovici to E-1027. Gray also designed furniture for the house, including a tubular steel table which would enable her sister to eat breakfast in bed without leaving crumbs on sheets, due to an adjustable top that caught the crumbs.",
+   "Gray and Badovici separated shortly after the completion of the house and Badovici inherited the house in 1932. In 1938/1939, Le Corbusier painted significant murals in the house, which survive; Gray felt they were an act of vandalism."
+  ],
+  "title": "E-1027",
+  "url": "https://en.wikipedia.org/wiki/E-1027",
+  "revision": 1364383076,
+  "fetched": "2026-10-20"
+ },
+ "great-mosque-of-rome": {
+  "paragraphs": [
+   "The Mosque of Rome (Italian: Moschea di Roma), also known as the Great Mosque of Rome, is a Friday mosque situated in Parioli, Rome, Italy. With a land area of 30,000 square metres (320,000 sq ft), it is the largest mosque in the Western world and can accommodate more than 12,000 worshipers. The building is located in the Acqua Acetosa area, at the foot of the Parioli Mounts, north of the city. It is also the seat of the Italian Islamic Cultural Centre (Italian: Centro Culturale Islamico d'Italia).",
+   "In addition to being a meeting place for religious activities, it provides cultural and social services variously connecting Muslims together. It also holds teachings, wedding ceremonies, funeral services, exegesis, exhibitions, conventions, and other events, despite being located in an area with relatively few Muslims."
+  ],
+  "title": "Mosque of Rome",
+  "url": "https://en.wikipedia.org/wiki/Mosque_of_Rome",
+  "revision": 1380297087,
+  "fetched": "2026-10-20"
+ },
+ "museum-of-the-second-world-war-gdansk": {
+  "paragraphs": [
+   "The Museum of the Second World War (Polish: Muzeum II Wojny Światowej) is a state cultural institution and museum established in 2008 in Gdańsk, Poland, which is devoted to the Second World War. Its exhibits opened in 2017. The museum is supervised by the Ministry of Culture and National Heritage.",
+   "The Prime Minister of Poland, Donald Tusk, opened the architectural competition to design the main building of the museum. The judging panel included such experts as Daniel Libeskind and Jack Lohman, the director of the Museum of London. The winning design was created by the Gdynia-based Kwadrat architectural studio. The seat of the museum faces the Motława River and is located on Wałowa Street in close proximity to the Radunia Canal and the historic Polish Post Office Building.",
+   "The museum grounds cover an area of 2.5 acres and the building covers approximately 23,000 square metres. The building consists of three major spheres, which symbolically represent the connection between the past, present and future. The most distinctive part of the building is the 40-metre tall leaning tower with a glass façade, which houses a library, reading and conference rooms as well as cafés and restaurants with a view of the panorama of Gdańsk."
+  ],
+  "title": "Museum of the Second World War",
+  "url": "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War",
+  "revision": 1372910404,
+  "fetched": "2026-10-20"
+ },
+ "calouste-gulbenkian-museum": {
+  "paragraphs": [
+   "Lisbon's Calouste Gulbenkian Museum houses one of the world's most important private art collections. It includes works from Ancient Egypt to the early 20th century, spanning the arts of the Islamic World, China and Japan, as well as French decorative arts. It also features the jewellery of René Lalique and works by some of the most important painters of all time, such as Rembrandt, Monet, Rubens, Manet, Renoir, Degas and Turner. The Museum was founded by Armenian Portugal-based oil magnate Calouste Gulbenkian. The Gulbenkian Museum closed for renovation until July 2026, and reopened on 18 July 2026.",
+   "The museum was designed as a showcase for the collection, which was relatively unique for an art museum at a time when most museums were housed in buildings originally built for other purposes. The landscaping and museum building interact, with views into woods and wetlands punctuating the artwork on display, while woodland paths offer views of the dramatic building, the edges of which include terraces and water features that blur the border between built and natural environment. The grouped buildings are set within a park bordered by the Avenida de Berna (north), Avenida António Augusto de Aguiar (west), Rua Marquês de Sá da Bandeira (east) and the Centro de Arte Moderna (south)."
+  ],
+  "title": "Calouste Gulbenkian Museum",
+  "url": "https://en.wikipedia.org/wiki/Calouste_Gulbenkian_Museum",
+  "revision": 1365792074,
+  "fetched": "2026-10-20"
+ },
+ "parker-center": {
+  "paragraphs": [
+   "Parker Center, initially named the Police Administration Building or Police Facilities Building, was the former headquarters of the Los Angeles Police Department from 1955 until October 2009. It was located in Downtown Los Angeles at 150 North Los Angeles Street. Often nicknamed \"The Glass House\", the building was named for former LAPD chief William H. Parker in 1966.",
+   "The LAPD moved to a different headquarters building in 2009 after the Parker Center became outdated. After the building was shifted to mostly secondary use, and attempts to preserve the building failed, the Los Angeles Bureau of Engineering recommended its demolition. Demolition and razing of the Parker Center was approved in 2017, and completed in 2019. Plans to replace the building with the Los Angeles Street Civic Building were scrapped in 2020 due to a lack of funds."
+  ],
+  "title": "Parker Center",
+  "url": "https://en.wikipedia.org/wiki/Parker_Center",
+  "revision": 1370598733,
+  "fetched": "2026-10-20"
+ },
+ "robert-c-weaver-federal-building": {
+  "paragraphs": [
+   "The Robert C. Weaver Federal Building is a ten-story office building in Washington, D.C., United States. Owned by the U.S. federal government, it was built by the General Services Administration as the headquarters of the United States Department of Housing and Urban Development (HUD). Designed by Marcel Breuer in the brutalist style, it was completed in 1968. The building is one of two that Breuer designed for the U.S. federal government in the District of Columbia, along with the Hubert H. Humphrey Building, and is listed on the National Register of Historic Places.",
+   "The Robert C. Weaver Federal Building was primarily designed by Marcel Breuer. The Weaver Building is the first of two buildings in Washington, D.C., designed by Breuer; the other is the Hubert H. Humphrey Building, for which Breuer received the commission after positive reception to the HUD design. Breuer and Herbert Beckhard, one of his frequent collaborators, collaborated on the initial drawings. Nolen-Swinburne & Associates oversaw the final drawings; the Architectural Record specifically credited Nolen-Swinburne employee Chard F. Webb. Paul Weidlinger was the structural engineer, and Loring & Associates was the mechanical engineering firm."
+  ],
+  "title": "Robert C. Weaver Federal Building",
+  "url": "https://en.wikipedia.org/wiki/Robert_C._Weaver_Federal_Building",
+  "revision": 1379903446,
+  "fetched": "2026-10-20"
+ },
+ "al-faisaliah-tower": {
+  "paragraphs": [
+   "Al-Faisaliah Tower (Arabic: برج الفيصلية) is a 267-metre-high commercial skyscraper and mixed-use complex located in the Al-Olaya district of Riyadh, Saudi Arabia. Designed by Foster + Partners, the tower is the centerpiece of the Al-Faisaliah Center development. The building's design was inspired by the form of the Umar ibn al-Khattab Mosque in Al-Jouf Province, and its lobby contains a stained-glass installation created by architectural artist Brian Clarke in collaboration with Norman Foster.",
+   "Completed in 2000, Al-Faisaliah Tower was the first skyscraper built in Saudi Arabia. It was the tallest building in the country between 2000 and 2002. The tower is named after King Faisal bin Abdulaziz. At one point, it was ranked as the world's 325th tallest building."
+  ],
+  "title": "Al Faisaliah Tower",
+  "url": "https://en.wikipedia.org/wiki/Al_Faisaliah_Tower",
+  "revision": 1360222156,
+  "fetched": "2026-10-20"
+ },
+ "nasir-al-mulk-mosque": {
+  "paragraphs": [
+   "The Nasir-ol-Molk Mosque (Persian: مسجد نصیرالملک, romanized: Masjed-e Nasir ol-Molk), also known as the Pink Mosque (Persian: مسجد صورتی, romanized: Masjed-e Surati), is a mosque located in Shiraz, in the province of Fars, Iran. Completed in 1888 CE, the Qajar era mosque is located in the Gowd-e Araban district of Shiraz, south of Lotfali Khan Zand Street, next to the Shāh Chérāgh Mosque.",
+   "The mosque was completed in the Qajar style and was designed by Mohammad Hasan-e-Memār, a Persian architect who had also built the noted Eram Garden before the Nasir-ol-Molk Mosque, Mohammad Hosseini Shirazi, and Mohammad Rezā Kāshi-Sāz-e-Širāzi. There is a poem inscribed on marble at the mosque's entrance and the mosque contains extensive use of blue, yellow, pink, azure, and white tiles."
+  ],
+  "title": "Nasir-ol-Molk Mosque",
+  "url": "https://en.wikipedia.org/wiki/Nasir-ol-Molk_Mosque",
+  "revision": 1380517299,
+  "fetched": "2026-10-20"
+ },
+ "saint-louis-art-museum-east-building": {
+  "paragraphs": [
+   "The Saint Louis Art Museum (SLAM) is an art museum located in St. Louis, Missouri, United States. With paintings, sculptures, cultural objects, and ancient masterpieces from around the world, its three-story building stands in Forest Park in St. Louis, Missouri, where it is visited by up to a half million people every year. Admission is free through a subsidy from the cultural tax district for St. Louis City and County.",
+   "In addition to the featured exhibitions, the museum offers rotating exhibitions and installations. These include the Currents series, which features contemporary artists, as well as regular exhibitions of new media art and works on paper."
+  ],
+  "title": "Saint Louis Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Saint_Louis_Art_Museum",
+  "revision": 1375388295,
+  "fetched": "2026-10-20"
+ },
+ "masjid-negara": {
+  "paragraphs": [
+   "The National Mosque of Malaysia (Malay: Masjid Negara Malaysia; Jawi: مسجد نݢارا مليسيا) is a mosque in Kuala Lumpur, Malaysia. It has a capacity for 15,000 people and is situated among 13 acres (53,000 m2) of gardens. Its key features are a 73-metre-high (240 ft) minaret and a 16-pointed star concrete main roof. The umbrella, synonymous with the tropics, is featured conspicuously – the main roof is reminiscent of an open umbrella, the minaret's cap a folded one. The folded plates of the concrete main roof are a creative solution to achieving the larger spans required in the main gathering hall. Reflecting pools and fountains are spread throughout the compound. Completed in 1965, the mosque is a bold and modern approach in reinforced concrete, symbolic of the aspirations of a then newly independent nation."
+  ],
+  "title": "National Mosque of Malaysia",
+  "url": "https://en.wikipedia.org/wiki/National_Mosque_of_Malaysia",
+  "revision": 1375550842,
+  "fetched": "2026-10-20"
+ },
+ "high-museum-of-art": {
+  "paragraphs": [
+   "The High Museum of Art (colloquially the High) is the largest museum for visual art in the Southeastern United States. Located in Atlanta, Georgia (on Peachtree Street in Midtown, the city's arts district), the High is 312,000 square feet (28,985 m2) and a division of the Woodruff Arts Center.",
+   "In 1983, a 135,000-square-foot (12,500 m2) building designed by Richard Meier opened to house the High Museum of Art. Meier won the 1984 Pritzker Prize after completing the building. The Meier building was funded by a $7.9 million challenge grant from former Coca-Cola president Robert W. Woodruff matched by $20 million raised by the museum. The building contains 135,000 square feet with about 52,000 square feet (4,800 m2) of gallery space."
+  ],
+  "title": "High Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/High_Museum_of_Art",
+  "revision": 1375790995,
+  "fetched": "2026-10-20"
+ },
+ "fagus-factory": {
+  "paragraphs": [
+   "The Fagus Factory (German: Fagus-Werk) is a shoe last factory in Alfeld on the Leine, Lower Saxony, Germany, and serves as an important example of early modern architecture. Commissioned by owner Carl Benscheidt who wanted a radical structure to express the company's break from the past, the factory was designed by Walter Gropius and Adolf Meyer. It was constructed between 1911 and 1913, with additions and interiors completed in 1925. Because of its influence in the development of modern architecture and outstanding design, the factory has been listed as a UNESCO World Heritage Site since 2011.",
+   "For the first time a complete facade is conceived in glass. The supporting piers are reduced to narrow mullions of brick. The corners are left without any support, yielding an unprecedented sense of openness and continuity between inside and out. The expression of the flat roof has also changed. Only in the building [the Steiner House, Vienna] by Adolf Loos which was done one year before the Fagus Factory, have we seen the same feeling for the pure cube. Another exceedingly important quality of Gropius's building is that, thanks to the large expanses of clear glass, the usual hard separation of exterior and interior is annihilated."
+  ],
+  "title": "Fagus Factory",
+  "url": "https://en.wikipedia.org/wiki/Fagus_Factory",
+  "revision": 1366153559,
+  "fetched": "2026-10-20"
+ },
+ "national-building-museum": {
+  "paragraphs": [
+   "The National Building Museum is a museum of architecture, design, engineering, construction, and urban planning in Northwest Washington, D.C., U.S. It was created by an act of Congress in 1980, and is a private non-profit institution. Located at 401 F Street NW, it is adjacent to the National Law Enforcement Officers Memorial and the Judiciary Square Metro station. The museum hosts various temporary exhibits in galleries around the spacious Great Hall.",
+   "The building, completed in 1887, served as the Pension Building, housing the United States Pension Bureau, and hosted several presidential inaugural balls. It is centered around a high-columned interior central courtyard hall often used for various events. It is an important early large-scale example of Renaissance Revival architecture, and was designated a National Historic Landmark in 1985."
+  ],
+  "title": "National Building Museum",
+  "url": "https://en.wikipedia.org/wiki/National_Building_Museum",
+  "revision": 1376710279,
+  "fetched": "2026-10-20"
+ },
+ "central-library-ucv": {
+  "paragraphs": [
+   "The Central University of Venezuela (Spanish: Universidad Central de Venezuela; UCV) is a public university located in Caracas, Venezuela. Founded in 1721, it is the oldest university in Venezuela and one of the oldest in the Western Hemisphere.",
+   "The main university campus, Ciudad Universitaria de Caracas, was designed by architect Carlos Raúl Villanueva and it is considered a masterpiece of urban planning and was declared a World Heritage Site by UNESCO in 2000."
+  ],
+  "title": "Central University of Venezuela",
+  "url": "https://en.wikipedia.org/wiki/Central_University_of_Venezuela",
+  "revision": 1378457955,
+  "fetched": "2026-10-20"
+ },
+ "katsura-imperial-villa": {
+  "paragraphs": [
+   "The Katsura Imperial Villa or Katsura Detached Palace (桂離宮, Katsura Rikyū; Japanese pronunciation: [ka.tsɯ.ɾa ɾʲiꜜ.kʲɯː]) is an Imperial residence with associated gardens and outbuildings in the western suburbs of Kyoto, Japan. Located on the western bank of the Katsura River in Katsura, Nishikyō-ku, the Villa is 8km distant from the main Kyoto Imperial Palace. The villa and gardens are nationally recognized as an Important Cultural Property of Japan.",
+   "The grounds of the villa are regarded as a notable exemplar of traditional Japanese gardening. Tea ceremony houses within the strolling gardens and the main villa itself are all sited to maximize appreciation of varied foliage and changing seasonal vistas.",
+   "The palace originally belonged to the prince of the Hachijō-no-miya (八条宮) family. The Imperial Household Agency currently administers the site. Although the Imperial Villa itself is not open to visitors, public tours of the gardens are available by appointment."
+  ],
+  "title": "Katsura Imperial Villa",
+  "url": "https://en.wikipedia.org/wiki/Katsura_Imperial_Villa",
+  "revision": 1380698720,
+  "fetched": "2026-10-20"
+ },
+ "bloomberg-london": {
+  "paragraphs": [
+   "Bloomberg London is an office building in the City of London, which was opened in 2017. It is owned by Bloomberg L.P. and functions as their European headquarters. It is at 3 Queen Victoria Street, to the west of Walbrook, on the site previously occupied by Bucklersbury House."
+  ],
+  "title": "Bloomberg London",
+  "url": "https://en.wikipedia.org/wiki/Bloomberg_London",
+  "revision": 1372815310,
+  "fetched": "2026-10-20"
+ },
+ "miami-marine-stadium": {
+  "paragraphs": [
+   "The Miami Marine Stadium is a marine stadium on Virginia Key, Miami, Florida, United States. The facility, completed in 1963 on land donated to the City of Miami from the Matheson family, is the first stadium purpose-built for powerboat racing in the United States. The stadium was abandoned in 1992 when officials declared it unsafe following Hurricane Andrew. It was listed on the National Register of Historic Places in 2018.",
+   "Poured entirely in concrete, the Miami Marine Stadium consists of a cantilevered folded plate roof supported by eight large slanted columns anchored in the ground through the grandstand. A huge horizontal beam tied them all together. A cut in the seating arrangement allowed spectators to appreciate the full height of the posts, which were pushed as far back as possible to permit unobstructed views over the watercourse. This concept was presented by one of the project's architects, Hilaro Candela to be original, however the idea was synonymous to several other well-established stadiums throughout Latin America and Europe, including the Florence Stadium designed by Pier Luigi Nervi, built 1932, the Baseball and Soccer stadiums in Cartagena, Colombia, by Guillermo Gonzalez Zuleta in 1947 and The University Stadium in Caracas designed by Carlos Raul Villanueva, built in 1950."
+  ],
+  "title": "Miami Marine Stadium",
+  "url": "https://en.wikipedia.org/wiki/Miami_Marine_Stadium",
+  "revision": 1379750435,
+  "fetched": "2026-10-20"
+ },
+ "lake-point-tower": {
+  "paragraphs": [
+   "Lake Point Tower is a residential skyscraper located on a promontory of the Lake Michigan waterfront in Chicago, just north of the Chicago River at 505 North Lake Shore Drive. Completed in 1968, it has a curving three-wing design. The building is in the Streeterville neighborhood on the Near North Side and is adjacent to Navy Pier; it is the city's only skyscraper east of Lake Shore Drive."
+  ],
+  "title": "Lake Point Tower",
+  "url": "https://en.wikipedia.org/wiki/Lake_Point_Tower",
+  "revision": 1371215817,
+  "fetched": "2026-10-20"
+ },
+ "arctic-cathedral": {
+  "paragraphs": [
+   "Tromsdalen Church or the Arctic Cathedral (Norwegian: Tromsdalen kirke, Ishavskatedralen) is a parish church of the Church of Norway in Tromsø Municipality in Troms county, Norway. It is located in the Tromsdalen valley on the east side of Tromsø. It is the church for the Tromsøysund parish, which is part of the Tromsø domprosti (arch-deanery) in the Diocese of Nord-Hålogaland. The modern concrete and metal church was built in a long church style in 1965 using plans drawn up by architect Jan Inge Hovig. The church seats about 600 people."
+  ],
+  "title": "Arctic Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Arctic_Cathedral",
+  "revision": 1354361425,
+  "fetched": "2026-10-20"
+ },
+ "psfs-building": {
+  "paragraphs": [
+   "The PSFS Building, also known as the Loews Philadelphia Hotel, is a skyscraper in Center City, Philadelphia, Pennsylvania. The building, the first International Style skyscraper constructed in the United States, was designed by architects William Lescaze and George Howe, was built for the Philadelphia Saving (later Savings) Fund Society. The skyscraper's design was a departure from traditional bank and Philadelphia architecture, lacking features such as domes and ornamentation. Combining Lescaze's experience with European modernism, Howe's Beaux-Arts background and the desire of Society President James M. Wilcox for a forward-thinking, tall building the skyscraper incorporated the main characteristics of International style architecture. The building is listed on the National Register of Historic Places as a National Historic Landmark.",
+   "The PSFS Building was built for the Philadelphia Saving Fund Society under direction of bank President James M. Wilcox. Wilcox's goal for the building was \"ultra modern only in the sense that it is ultra-practical.\" The building's design went through several revisions with Wilcox working closely with architects William Lescaze and George Howe. The building was a radical departure from the traditional Greek and Italian inspired bank architecture. Beaux-arts trained George Howe combined his experience with William Lescaze familiarity of modern European design."
+  ],
+  "title": "PSFS Building",
+  "url": "https://en.wikipedia.org/wiki/PSFS_Building",
+  "revision": 1372489905,
+  "fetched": "2026-10-20"
+ },
+ "bayterek-tower": {
+  "paragraphs": [
+   "Baiterek (Kazakh: Бәйтерек, romanized: Bäiterek; \"tall poplar tree\") is a monument and observation tower in Astana, the capital city of Kazakhstan. A tourist attraction popular with foreign visitors and Kazakhs, it is emblematic of the city, which became capital of the country in 1997. The tower is located on Nurjol Boulevard, and is considered a symbol of post-independence Kazakhstan.",
+   "The 105 meters tall structure rises from a wide flat base within a raised plaza. It consists of a narrow cylindrical shaft, surrounded by white branch-like girders that flare out near the top, supporting a gold-mirrored 22 meter diameter sphere. The base contains a ticket booth and exhibition space, with two lifts rising within the shaft to the observation deck within the 'egg'. Entrances to the monument are sunk below eye level, reached by stairs from the surrounding plaza."
+  ],
+  "title": "Baiterek (monument)",
+  "url": "https://en.wikipedia.org/wiki/Baiterek_(monument)",
+  "revision": 1369167107,
+  "fetched": "2026-10-20"
+ },
+ "markthal": {
+  "paragraphs": [
+   "The Markthal (English: Market Hall) is a residential and office building with a market hall underneath, located in Rotterdam.",
+   "The Markthal was designed by architectural firm MVRDV. The grey nature stone building has an archwise structure like a horseshoe. The building has a glass facade on both sides; these are made up of smaller glass windows. The smaller windows are mostly squared and around 1485 millimeters wide. All of these are hung around a structure of steel cables, 34 metres high and 42 metres wide, which makes it the largest glass-window cable structure in Europe. Each facade has 26 vertical and 22 horizontal cables. The facade was designed and installed by Octatube",
+   "The building was opened on October 1, 2014, by Queen Máxima of the Netherlands. Besides the large market hall, the complex houses 228 apartments, 4,600 m2 retail space, 1,600 m2 horeca and an underground 4-story parking garage with a capacity of over 1200 cars."
+  ],
+  "title": "Market Hall (Rotterdam)",
+  "url": "https://en.wikipedia.org/wiki/Market_Hall_(Rotterdam)",
+  "revision": 1359786504,
+  "fetched": "2026-10-20"
+ },
+ "notre-dame-d-afrique-algiers": {
+  "paragraphs": [
+   "The Basilique Notre Dame d'Afrique (English: Basilica of Our Lady of Africa) is a Catholic basilica in Algiers, Algeria. It is the origin of the modern Catholic devotion to Our Lady of Africa.",
+   "Pope Pius IX granted two Pontifical decrees towards the shrine on the same day on 15 April 1876. The first decree invoked to canonically crown the venerated Marian image enshrined within. The coronation rites was executed by the Archbishop of Carthage Charles Lavigerie on 30 April 1876. The second decree which raised the sanctuary to the status of Basilica based on an \"immemorial custom\"; Pope Benedict XV later regulated to limit these privileges in 1918 to Papal edicts unless an ancient custom already refers to a building as a \"Basilica\"."
+  ],
+  "title": "Notre-Dame d'Afrique",
+  "url": "https://en.wikipedia.org/wiki/Notre-Dame_d%27Afrique",
+  "revision": 1367921273,
+  "fetched": "2026-10-20"
+ },
+ "quebec-parliament-building": {
+  "paragraphs": [
+   "The Parliament Building of Quebec is an eight-floor structure in Quebec City, Quebec. It is home to the National Assembly of Quebec (Assemblée Nationale du Québec). The Parliament Building was designed by architect Eugène-Étienne Taché in a Second Empire style and built between 1877 and 1886, in the heart of Parliament Hill. The National Assembly (or, as it was called until 1968, the Legislative Assembly) first met there on 27 March 1884, even though the building was only fully completed two years later, on 8 April 1886. From the 1910s to the 1930s, the government built several adjacent buildings to expand its office spaces, creating a parliamentary complex, of which the Parliament Building is the main edifice. This structure is a successor of several earlier buildings, the earliest of which was built in 1620 and among which there were two other parliament houses that served as legislatures."
+  ],
+  "title": "Parliament Building (Quebec)",
+  "url": "https://en.wikipedia.org/wiki/Parliament_Building_(Quebec)",
+  "revision": 1364628692,
+  "fetched": "2026-10-20"
+ },
+ "pinnacle-duxton": {
+  "paragraphs": [
+   "The Pinnacle@Duxton is a 50-storey residential development in Singapore's city centre, next to the business district. All seven connected towers are collectively the world's tallest public residential buildings, and featuring the two longest sky gardens ever built on skyscrapers, at 500m each.",
+   "An international architectural design competition was conducted by the Urban Redevelopment Authority on behalf of the Ministry of National Development between 8 August 2001 and 21 September 2001."
+  ],
+  "title": "The Pinnacle@Duxton",
+  "url": "https://en.wikipedia.org/wiki/The_Pinnacle@Duxton",
+  "revision": 1372503418,
+  "fetched": "2026-10-20"
+ },
+ "church-of-all-nations": {
+  "paragraphs": [
+   "The Church of All Nations (Hebrew: כנסיית כל העמים; Arabic: كنيسة كل الأمم), also known as the Church of Gethsemane or the Basilica of the Agony (Latin: Basilica Agoniæ Domini), is a Catholic church located on the Mount of Olives in East Jerusalem, next to the Garden of Gethsemane. It enshrines a section of bedrock where Jesus is said to have prayed before his arrest. (Mark 14:32–42)",
+   "The church was built between 1919 and 1924 using funds donated from many different countries. The coat-of-arms of twelve of the countries from which donations originated are incorporated into the ceiling, each in a separate, small dome, and also into the interior mosaics. The countries honored in this way are, east to west (altar to entrance) and beginning with the northern apse: Argentina, Brazil, Chile and Mexico; in the middle of the church are commemorated: Italy, France, Spain and the United Kingdom, and to the right: Belgium, Canada, Germany, and the United States of America. The mosaics in the apses were donated by Ireland, Hungary, and Poland (by the sculpturist Tadeusz Adam Zieliński). The crown around the bedrock itself was a gift of Australia. These multi-national donations give the church one of its present names as the \"Church of All Nations\"."
+  ],
+  "title": "Church of All Nations",
+  "url": "https://en.wikipedia.org/wiki/Church_of_All_Nations",
+  "revision": 1368614127,
+  "fetched": "2026-10-20"
+ },
+ "centro-de-exposicoes-centro-administrativo-da-bahia": {
+  "paragraphs": [
+   "The Centro de Exposições do Centro Administrativo da Bahia, known as the \"Prédio da Balança\", \"Balance Building\" is a brutalist building by João Filgueiras Lima at the Centro Administrativo da Bahia in Bahia, Brazil. It contains an exhibition hall and amphitheater.",
+   "The building was designed in 1974 by architect João Filgueiras Lima who was selected by Mário Kertész, the Secretary of Planning, Science, and Technology. The structure marks the entrance to Centro Administrativo da Bahia.",
+   "The rectangular concrete building is 52 metres (171 ft) long by 9 metres (30 ft) wide. It is suspended 5 metres (16 ft) above the ground by cables which extend from two identical side towers. Each tower contains a 4-metre (13 ft) cylindrical shaft, with one tower having stairs and the other an elevator. The exhibition hall on one end of the building has a pyramidal ceiling which contains a skylight. The amphitheater at the other end is the inversion of the exhibition hall space. The ground floor contains a reception area and the basement holds the cooling and electrical system."
+  ],
+  "title": "Centro de Exposições do Centro Administrativo da Bahia",
+  "url": "https://en.wikipedia.org/wiki/Centro_de_Exposi%C3%A7%C3%B5es_do_Centro_Administrativo_da_Bahia",
+  "revision": 1373955592,
+  "fetched": "2026-10-20"
+ },
+ "mosque-madrasa-of-sultan-hassan": {
+  "paragraphs": [
+   "The Mosque-Madrasa of Sultan Hasan (Arabic: مسجد ومدرسة السلطان حسن) is a monumental mosque and madrasa located in Salah al-Din Square in the historic district of Cairo, Egypt. It was built between 1356 and 1363 CE during the Bahri Mamluk period, commissioned by Sultan an-Nasir Hasan. The mosque was considered remarkable for its massive size and innovative architectural components, and is still considered one of the most impressive historic monuments in Cairo today."
+  ],
+  "title": "Mosque-Madrasa of Sultan Hasan",
+  "url": "https://en.wikipedia.org/wiki/Mosque-Madrasa_of_Sultan_Hasan",
+  "revision": 1380145399,
+  "fetched": "2026-10-20"
+ },
+ "esplanade-theatres-on-the-bay": {
+  "paragraphs": [
+   "Esplanade – Theatres on the Bay is a performing arts centre located in the Downtown Core of Singapore near the mouth of the Singapore River. Named after the nearby Esplanade Park, it consists of two rounded structures: one housing a concert hall with about 1,600 seats; and the other a theatre with a capacity of about 2,000 for the performing arts. It is nicknamed \"The Durian\".",
+   "The building was designed by two architectural firms working in conjunction: by DP Architects (DPA) of Singapore and the London-based Michael Wilford & Partners (MWP), although the latter left the project in May 1995. The design consists of two rounded space frames fitted with triangulated glass elements and sunshades, which balance outward views with solar shading. The original design, presented to the public in 1994, consisted of unadorned glass cases over the theatres, and initially elicited criticisms from the public, including calling it \"two copulating aardvarks\". Critics also accused that the design is insensitive to Singapore's location and climate as it would have created a greenhouse in the tropical climate of Singapore, but according to DPA director Vikas Gore some form of shading was always intended, and a cladding of aluminium sunshades was added to the final design."
+  ],
+  "title": "Esplanade – Theatres on the Bay",
+  "url": "https://en.wikipedia.org/wiki/Esplanade_%E2%80%93_Theatres_on_the_Bay",
+  "revision": 1372288877,
+  "fetched": "2026-10-20"
+ },
+ "brion-cemetery": {
+  "paragraphs": [
+   "The Brion tomb, also known as the Brion sanctuary and Brion-Vega tomb, in San Vito d'Altivole near Treviso, Italy, is the burial ground of the Brion family. It was designed by Venetian architect Carlo Scarpa between 1968–1978 as an L-shaped 2,000 m2 (22,000 sq ft) extension to the adjacent municipal cemetery. It is regarded as a masterpiece of post-modernist architecture and a powerful commemorative monument.",
+   "Scarpa felt that \"the place for the dead is a garden\" and is himself buried adjacent to the Brion sanctuary."
+  ],
+  "title": "Brion tomb",
+  "url": "https://en.wikipedia.org/wiki/Brion_tomb",
+  "revision": 1373290703,
+  "fetched": "2026-10-20"
+ },
+ "sappaya-sapasathan": {
+  "paragraphs": [
+   "Sappaya-Sapasathan (Thai: สัปปายะสภาสถาน, RTGS: Sappayasaphasathan, pronounced [sàp.pāː.já(ʔ).sā.pʰāː.sā.tʰǎːn]) is the third and current meeting place of the National Assembly of Thailand, the bicameral legislative branch of the Government of Thailand. It is located in Bangkok on the east bank of the Chao Phraya River in Kiakkai neighbourhood of the Dusit District. It is the world's largest parliament building with 424,000 m2 of floor space.",
+   "Sappaya-Sapasathan was designed by a team led by Theerapol Niyom, who was the winner in the building's design competition. Built to provide more than 424,000 m2 [4,600,000 square feet] of floor space, at a budget of approximately 23 billion baht, it can accommodate more than 5,000 people and parking for 2,000 cars. Its main features are a Thai pagoda in the center of the building, Surya Hall (Hall of the Sun) for House of Representative, Chandra Hall (Hall of the Moon) for Senate of Thailand, and the use of 5,018 teak trees as they represent the \"DNA of Thailand\".",
+   "It also houses museums, a convention center, a seminar room, a banquet hall, and offices. The design has been criticised for being \"religious architecture\", embracing \"elements of Buddhist and Hindu cosmology\".",
+   "Once completed, Parliament House MRT station on MRT Purple Line will serve the area."
+  ],
+  "title": "Sappaya-Sapasathan",
+  "url": "https://en.wikipedia.org/wiki/Sappaya-Sapasathan",
+  "revision": 1375793727,
+  "fetched": "2026-10-20"
+ },
+ "viaduc-de-garabit": {
+  "paragraphs": [
+   "The Garabit viaduct (French: viaduc de Garabit) is a railway arch bridge spanning the Truyère, near Ruynes-en-Margeride, Cantal, France, in the mountainous Massif Central region.",
+   "The Garabit viaduct, which uses a parabolic arch to support a single rail line across the gorge,",
+   "Rail traffic using the bridge causes a deflection (load displacement) of about 8 millimetres (0.315 in), which was the same value as the one calculated by Eiffel. The bridge, which is 124 m (407 ft) above the river, had the world's longest arch when it was completed in 1884. This was surpassed two years later with the opening of the Dom Luís I Bridge across the Douro in Porto, Portugal in 1886.",
+   "Until 11 September 2009, one regular daily Corail passenger train passed each way from Clermont-Ferrand to Béziers. However, the viaduct was closed when cracks were discovered in one of the foundation piles. The Garabit viaduct reopened the following month after a safety inspection, with a speed limit of 10 km/h (6.2 mph) for all traffic.",
+   "The bridge was constructed between 1882 and 1884 by Gustave Eiffel, with structural engineering by Maurice Koechlin, and was opened in 1885. It is 565 m (1,854 ft) in length and has a principal arch of 165 m (541 ft) span."
+  ],
+  "title": "Garabit viaduct",
+  "url": "https://en.wikipedia.org/wiki/Garabit_viaduct",
+  "revision": 1379511315,
+  "fetched": "2026-10-20"
+ },
+ "suzhou-museum": {
+  "paragraphs": [
+   "The Suzhou Museum (Chinese: 蘇州博物館; pinyin: Sūzhōu Bówùguǎn) is a museum of ancient Chinese art, paintings, calligraphy and handmade crafts in Suzhou, Jiangsu, China. It is one of the most visited museums in the world, with more than 2 million visitors in 2018. The Folk Branch of the museum is at the Bei family ancestral temple near Lion Grove Garden. The Western New Pavilion was designed by renowned architect I.M. Pei and was completed and opened in 2006.",
+   "The Suzhou Museum building was designed by Pritzker Prize-winning architect I.M. Pei in association with Pei Partnership Architects. The structural engineering firm for this project was Leslie E. Robertson Associates. Construction began in 2002 and the building was inaugurated on October 6, 2006. The PBS American Masters television documentary series chronicled the design, construction, and inauguration of the new museum in a 2010 episode entitled \"I.M. Pei: Building China Modern\"."
+  ],
+  "title": "Suzhou Museum",
+  "url": "https://en.wikipedia.org/wiki/Suzhou_Museum",
+  "revision": 1363430498,
+  "fetched": "2026-10-20"
+ },
+ "tomb-of-ferdowsi": {
+  "paragraphs": [
+   "The Tomb of Ferdowsi (Persian: آرامگاه فردوسی, romanized: Ârâmgâh-e Ferdowsi) is a tomb complex composed of a white marble base, and a decorative edifice erected in honour of the Persian poet Ferdowsi located in Tus, Razavi Khorasan province, Iran. It was built in the early 1930s, and mainly uses elements of Achaemenid architecture to demonstrate Iran's rich culture and history. The construction of the mausoleum as well as its aesthetic design is a reflection of the cultural, and geo-political status of Iran at the time."
+  ],
+  "title": "Tomb of Ferdowsi",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Ferdowsi",
+  "revision": 1374325027,
+  "fetched": "2026-10-20"
+ },
+ "wayfarers-chapel": {
+  "paragraphs": [
+   "Wayfarers Chapel, or \"The Glass Church\", is a disassembled chapel designed by Lloyd Wright and originally located in Rancho Palos Verdes, California. The chapel had unique organic architecture sited on a bluff above the Pacific Ocean. Affiliated with the Swedenborgian Church of North America, it served as a memorial to the 18th-century scientist and theosopher Emanuel Swedenborg. Built in 1949, the chapel was dismantled in 2024 and carefully stored after extreme earth movement had damaged the structure. In 2025, the chapel announced they were attempting to relocate to a new location in Rancho Palos Verdes.",
+   "As with many of Wright's buildings, the chapel features geometric designs and incorporates the natural landscape into the design. Wright departed from the tradition of using masonry in order to \"achieve a delicate enclosure that allows the surrounding landscape to define the sacred space\". In the 1950s, the chapel featured a hanging garden.",
+   "The Wayfarers Chapel was listed in the National Register of Historic Places in 2005 and was designated a National Historic Landmark for its architecture and landscaping in 2023."
+  ],
+  "title": "Wayfarers Chapel",
+  "url": "https://en.wikipedia.org/wiki/Wayfarers_Chapel",
+  "revision": 1375709366,
+  "fetched": "2026-10-20"
+ },
+ "richard-j-daley-center": {
+  "paragraphs": [
+   "The Richard J. Daley Center (also known by its open courtyard Daley Plaza), originally known as the Chicago Civic Center, is the premier civic center of the city of Chicago, Illinois.",
+   "The Center's modernist skyscraper primarily houses offices and courtrooms for the Cook County Circuit Courts, Cook County State's Attorney and additional office space for the City and the County. It is adjacent to the neoclassical City Hall-County Building, also on the plaza. The open granite-paved plaza used for gatherings, protests, and events is also the site of the Chicago Picasso, a gift to the city from the artist.",
+   "Situated on Randolph Street and Washington Street between Dearborn Street and Clark Street, the Daley Center, with its \"majestic\" interior spaces, is considered a significant example of modernist Chicago architecture. The main building was designed in the International Style of the Second Chicago School by Jacques Brownson of the firm C. F. Murphy Associates as supervising architects, with Skidmore, Owings & Merrill and Loebl, Schlossman, Bennett & Dart as associated architects, and was completed in 1965. At the time it was the tallest building in Chicago, but only held this title for four years until the John Hancock Center was completed."
+  ],
+  "title": "Richard J. Daley Center",
+  "url": "https://en.wikipedia.org/wiki/Richard_J._Daley_Center",
+  "revision": 1377487556,
+  "fetched": "2026-10-20"
+ },
+ "sec-armadillo": {
+  "paragraphs": [
+   "The SEC Armadillo, originally known as the Clyde Auditorium, is a concert and conference venue located on the banks of the River Clyde in Glasgow, Scotland. It forms part of the Scottish Event Campus (SEC), alongside the SEC Centre and the OVO Hydro. Designed by the architectural practice Foster + Partners, the building opened in September 1997 as an expansion of the Scottish Exhibition and Conference Centre (SECC).",
+   "The auditorium's design is characterised by a series of overlapping, curved external sections that create its distinctive silhouette. The building's appearance has frequently been associated with the shape of an armadillo, giving rise to the nickname that became widely used by the public. The design also incorporated the practical requirements of a large conference venue. Its auditorium and associated facilities were intended to accommodate conferences, presentations and performances, while providing connections to the wider exhibition and meeting spaces of the SECC. The building has sometimes been compared visually with the Sydney Opera House because of its sculptural roofline. However, the engineering account published by Arup documents the structure's distinctive system of curved shells and supporting steelwork, demonstrating the technical complexity behind its appearance."
+  ],
+  "title": "SEC Armadillo",
+  "url": "https://en.wikipedia.org/wiki/SEC_Armadillo",
+  "revision": 1380192878,
+  "fetched": "2026-10-20"
+ },
+ "federation-square": {
+  "paragraphs": [
+   "Federation Square (marketed and colloquially known as Fed Square) is a venue for arts, culture and public events on the edge of the Melbourne central business district. It covers an area of 3.2 ha (7.9 acres) at the intersection of Flinders and Swanston Streets built above busy railway lines and across the road from Flinders Street station. It incorporates major cultural institutions such as the Ian Potter Centre, Australian Centre for the Moving Image (ACMI) and the Koorie Heritage Trust as well as cafes and bars in a series of buildings centred around a large paved square, and a glass walled atrium."
+  ],
+  "title": "Federation Square",
+  "url": "https://en.wikipedia.org/wiki/Federation_Square",
+  "revision": 1381129419,
+  "fetched": "2026-10-20"
+ },
+ "sidney-myer-music-bowl": {
+  "paragraphs": [
+   "The Sidney Myer Music Bowl is an outdoor bandshell performance venue in Melbourne, Victoria, Australia. It is located in the lawns and gardens of Kings Domain on Linlithgow Avenue close to the Arts Centre and the Southbank entertainment precinct. It was opened by Prime Minister Robert Menzies on 12 February 1959.",
+   "The bowl's canopy consists of a thin membrane made out of half an inch of weather-proofed plywood sheeted on both sides with aluminium attached to a cobwebbed frame of steel cables and supported by 21.3 metres (70 ft) masts pivoted to the earth. The total area of the canopy is 4,055 square metres (43,650 sq ft). The main cable at the edge of the canopy comprises 7 ropes, each about 9 cm in diameter and 173 metres (568 ft) long, anchored deep into the ground in concrete blocks. Longitudinal cables hold up the roof and transverse cables hold it down."
+  ],
+  "title": "Sidney Myer Music Bowl",
+  "url": "https://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl",
+  "revision": 1372230296,
+  "fetched": "2026-10-20"
+ },
+ "al-shaheed-monument": {
+  "paragraphs": [
+   "Al-Shaheed Monument (Arabic: نصب الشهيد, romanized: Nusb al-Shaheed), also known as the Martyr's Memorial, is a monument designed by Iraqi sculptor Ismail Fatah al-Turk and situated in the Iraqi capital, Baghdad. It was originally dedicated to the Iraqi soldiers killed in the Iran–Iraq War and has since grown to become generally considered to be a commemoration of all Iraqi martyrs.",
+   "Designed by the Iraqi sculptor and artist, Ismail Fatah al-Turk (1934–2004), and built in association with Iraqi architect, Saman Kamal, and the Baghdad Architecture Group, the monument was constructed between 1981 and 1983, with its official opening in 1983.",
+   "The monument consists of a circular platform 190 meters in diameter in the center of an artificial lake. On the platform sits a 40-meter tall split turquoise dome, which resembles the domes of the Abbasid era. The two halves of the split dome are offset, with an eternal flame in the middle. The outer shells are constructed of a galvanized steel frame with glazed turquoise ceramic tile cladding which was pre-cast in carbon fiber reinforced concrete. The interior is opulent, being that under the Iraqi flag, there is an open hole, or oculus, providing light below. The rest of the site consists of parks, a playground, parking lots, walkways, bridges, and the lake."
+  ],
+  "title": "Al-Shaheed Monument",
+  "url": "https://en.wikipedia.org/wiki/Al-Shaheed_Monument",
+  "revision": 1365087358,
+  "fetched": "2026-10-20"
+ },
+ "matenadaran": {
+  "paragraphs": [
+   "The Matenadaran (Armenian: Մատենադարան), officially the Mesrop Mashtots Institute of Ancient Manuscripts, is the largest center for the storage, study and popularization of Armenian manuscripts, combining the functions of a museum, archive and scientific institution. It holds the most extensive collection of Armenian manuscripts in existence.",
+   "The architectural ensemble of the Matenadaran includes the main building, road leading up to the building, the wing colonnades, and monumental statues of prominent medieval Armenian figures. It is a national monument of Armenia.",
+   "It was established in 1959 on the basis of the nationalized collection of the Armenian Church, formerly held at Etchmiadzin. Its collection has gradually expanded since its establishment, mostly from individual donations. One of the most prominent landmarks of Yerevan, it is named after Mesrop Mashtots, the inventor of the Armenian alphabet, whose statue stands in front of the building. Its collection is included in the register of the UNESCO Memory of the World program."
+  ],
+  "title": "Matenadaran",
+  "url": "https://en.wikipedia.org/wiki/Matenadaran",
+  "revision": 1380880654,
+  "fetched": "2026-10-20"
+ },
+ "state-historical-museum": {
+  "paragraphs": [
+   "The State Historical Museum (Russian: Государственный исторический музей, ГИМ, romanized: Gosudarstvennyy istoricheskiy muzey, GIM) of Russia is a museum of Russian history located between Red Square and Manege Square in Moscow. The museum's exhibitions range from relics of prehistoric tribes that lived in the territory of present-day Russia, to priceless artworks acquired by members of the Romanov dynasty. The total number of objects in the museum's collection numbers in the millions.",
+   "The place where the museum now stands was formerly occupied by the Principal Medicine Store, built by order of Peter the Great in the Moscow Baroque style.",
+   "The museum was founded in 1872 by Ivan Zabelin, Aleksey Uvarov and several other Slavophiles interested in promoting Russian history and national self-awareness. The board of trustees, composed of Sergey Solovyov, Vasily Klyuchevsky, Uvarov, and other leading historians, presided over the construction of the museum building. After a prolonged competition, the project was handed over to Vladimir Osipovich Shervud (or Sherwood, 1833–97)."
+  ],
+  "title": "State Historical Museum",
+  "url": "https://en.wikipedia.org/wiki/State_Historical_Museum",
+  "revision": 1379381464,
+  "fetched": "2026-10-20"
+ },
+ "old-city-hall-toronto": {
+  "paragraphs": [
+   "The Old City Hall is a Romanesque-style civic building and former court house in Toronto, Ontario, Canada. It was the home of the Toronto City Council from 1899 to 1966 and a provincial court house until 2023, and remains one of the city's most prominent structures.",
+   "Old City Hall can be described as an enormous square quad with a courtyard in the middle. Situated at the front elevation, its clock tower was placed off centre to provide a terminating vista for Bay Street. In spite of this seeming asymmetry, the balance of the design is still existent throughout. Ultimately, even though the clock tower was off centre, balance was achieved through the repetition of the subtle details of measure and pattern. For example, to the right side of the main entrance a narrow circular tower rises 21.4 meters from grade. It is cut precisely in half by the roof line; it extends above the roof line by 10.7 meters and is also 10.7 meters from the roof line to the base of the main tower. Further on, the east and west pavilions, although quite different in their designs, are very similar in shape. The double-storied oriel of the east tower is exaggerated to counter the weight of the double tower of the west pavilion."
+  ],
+  "title": "Old City Hall (Toronto)",
+  "url": "https://en.wikipedia.org/wiki/Old_City_Hall_(Toronto)",
+  "revision": 1378035615,
+  "fetched": "2026-10-20"
+ },
+ "preston-bus-station": {
+  "paragraphs": [
+   "Preston bus station is the central bus station in the city of Preston, Lancashire, England. It was designed by Ove Arup & Partners in Brutalist architectural style between 1968 and 1969, to a design by Keith Ingham and Charles Wilson of Building Design Partnership with E. H. Stazicker. It was built by John Laing.",
+   "Built in Brutalist architectural style between 1968 and 1969, designed by Keith Ingham and Charles Wilson of Building Design Partnership with E. H. Stazicker, it had (until 2017) a capacity of 80 double-decker buses, 40 along each side of the building. Some claimed that it was the second largest bus station in Western Europe. Pedestrian access to the bus station was originally through any of three subways, one of which linked directly to the adjacent Guild Hall, while the design also incorporates a multi-storey car park of five floors with space for 1,100 cars. It has been described by the Twentieth Century Society as \"one of the most significant Brutalist buildings in the UK\"."
+  ],
+  "title": "Preston bus station",
+  "url": "https://en.wikipedia.org/wiki/Preston_bus_station",
+  "revision": 1376852325,
+  "fetched": "2026-10-20"
+ },
+ "erasmus-bridge-rotterdam": {
+  "paragraphs": [
+   "The Erasmusbrug (English: \"Erasmus Bridge\") is a combined cable-stayed and bascule bridge. Construction began in 1986 and was completed in 1996. It crosses the Nieuwe Maas in the centre of Rotterdam, connecting the north and south parts of the city. The bridge was named in 1992 after Desiderius Erasmus, a prominent Christian Renaissance humanist also known as Erasmus of Rotterdam. The Erasmus Bridge is Rotterdam's most important landmark and is even part of the city's official logo.",
+   "During the preliminary design process, many alternative designs were developed. In 1990, one of the review architects, Ben van Berkel, revealed his own design, which was similar to the one Santiago Calatrava used for the Alamillo Bridge in Sevilla, Spain: a single pylon positioned on one side of the river with a backward lean. Because the initially designed 150-m-high concrete bent pylon was to act as a counterweight for the 284-m span, the pylon had no back stays."
+  ],
+  "title": "Erasmusbrug",
+  "url": "https://en.wikipedia.org/wiki/Erasmusbrug",
+  "revision": 1371937085,
+  "fetched": "2026-10-20"
+ },
+ "cathedral-of-saint-mary-of-the-assumption": {
+  "paragraphs": [
+   "The Cathedral of Saint Mary of the Assumption, also known locally as Saint Mary's Cathedral, is the principal church of the Archdiocese of San Francisco in San Francisco, California, United States. It is the mother church of the Catholic faithful in the California counties of Marin, San Francisco and San Mateo and is the metropolitan cathedral for the Ecclesiastical province of San Francisco.",
+   "The original design team in the early 1960s for the third Saint Mary's Cathedral was the architects John Michael Lee, Paul A. Ryan and Angus McSweeney of San Francisco. Archbishop Joseph Thomas McGucken told them that he envisioned:...a cathedral that would accommodate large numbers of people; one that would enable even large crowds to surround the altar; and a structure that would be a statement that God is present in beauty in the earthly city. However, the options that the architects originally presented received negative feedback. The archdiocese then added the Italian architect Pier Luigi Nervi and the American architect Pietro Belluschi to the design team. The archdiocese approved the modernistic design, but some architectural critics accused the architects of plagiarizing the design of the new Saint Mary's Cathedral in Tokyo, Japan."
+  ],
+  "title": "Cathedral of Saint Mary of the Assumption (San Francisco)",
+  "url": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_Mary_of_the_Assumption_(San_Francisco)",
+  "revision": 1380819347,
+  "fetched": "2026-10-20"
+ },
+ "natural-history-museum-vienna": {
+  "paragraphs": [
+   "The Natural History Museum Vienna (German: Naturhistorisches Museum Wien) is a large natural history museum located in Vienna, Austria.",
+   "The historicism style of art and architecture was very popular in 19th century Austria.",
+   "The Natural History Museum Vienna incorporates stylistic elements from many past periods, in particular the Renaissance. Work began on the building in 1871 and the facade was finished in 1881. It is around 170 meters long and 70 meters wide, comprising two courtyards that are each surrounded by working and exhibition rooms. The roof is crowned with a 65 m dome bearing a huge bronze statue of the Greek sun god Helios, a symbol of the life-giving element without which nature would not exist. The upper and middle levels (mezzanine and first floor) of the intricately decorated facade display allegorical and mythological figures representing key elements of the universe and its discovery and understanding by man. On the balustrade visitors can see sculptures of researchers and scientists who represent the continuing progress of human knowledge. These fundamental ideas are also the basis for the sculptures and paintings in the Dome Hall and the grand staircase; the highlight here is Hans Canon's ceiling fresco, The Circle of Life."
+  ],
+  "title": "Natural History Museum, Vienna",
+  "url": "https://en.wikipedia.org/wiki/Natural_History_Museum,_Vienna",
+  "revision": 1363573565,
+  "fetched": "2026-10-20"
+ },
+ "harold-washington-library-center": {
+  "paragraphs": [
+   "The Harold Washington Library Center is the central library for the Chicago Public Library System. It is located just south of the Loop 'L', at 400 South State Street in Chicago, in the U.S. state of Illinois. It is a full-service library and is ADA compliant. Opened in 1991, it functionally replaced (after more than a decade) the city's 19th-century central library. The postmodernist building contains approximately 756,000 sq ft (70,200 m2) of work space. The total square footage is approximately 972,000 sq ft (90,300 m2) including the rooftop winter-garden event space. It is named in honor of former Mayor Harold Washington."
+  ],
+  "title": "Harold Washington Library",
+  "url": "https://en.wikipedia.org/wiki/Harold_Washington_Library",
+  "revision": 1378294801,
+  "fetched": "2026-10-20"
+ },
+ "kunsthaus-zurich-extension": {
+  "paragraphs": [
+   "The Kunsthaus Zürich is an art museum in Zurich. It is the biggest art museum in Switzerland by area and houses one of the most important art collections in Switzerland, assembled over time by the Zürcher Kunstgesellschaft, a nonprofit art society. The collection spans from the Middle Ages to contemporary art, with an emphasis on Swiss art.",
+   "The old museum part was drawn-up by architects Karl Moser and Robert Curjel and opened in 1910. Particularly notable are the several preserved Moser interiors in the original section of the museum, decorated in masterful Neo-Grec version of Secession style. The bas-reliefs on the facade are by Moser's longtime collaborator Oskar Kiefer. The original museum building was extended in 1925, 1958 and 1976."
+  ],
+  "title": "Kunsthaus Zürich",
+  "url": "https://en.wikipedia.org/wiki/Kunsthaus_Z%C3%BCrich",
+  "revision": 1351241569,
+  "fetched": "2026-10-20"
+ },
+ "st-peters-seminary-cardross": {
+  "paragraphs": [
+   "St Peter's Seminary is a former Roman Catholic seminary near Cardross, Argyll and Bute, Scotland. Designed by the firm of Gillespie, Kidd & Coia, it has been described by the international architecture conservation organisation Docomomo International as a modern \"building of world significance\". It is one of only 42 post-war buildings in Scotland to be listed at Category A, the highest level of protection for a building of \"special architectural or historic interest\". It has been abandoned since 1987, and is currently in a ruined state. In July 2020, the site was given to the Kilmahew Education Trust Ltd who plan to reinstate the educational elements of the Seminary Complex after conservation and restoration."
+  ],
+  "title": "St Peter's Seminary, Cardross",
+  "url": "https://en.wikipedia.org/wiki/St_Peter%27s_Seminary,_Cardross",
+  "revision": 1374463095,
+  "fetched": "2026-10-20"
+ },
+ "theatre-des-champs-elysees": {
+  "paragraphs": [
+   "The Théâtre des Champs-Élysées (French pronunciation: [teɑtʁə de ʃɑ̃z‿elize]) is an entertainment venue standing at 15 avenue Montaigne in Paris. It is situated near Avenue des Champs-Élysées, from which it takes its name. Its eponymous main hall seats up to 1,905 people, while the smaller Comédie and Studio des Champs-Élysées, above the main hall, seat 601 and 230 people respectively.",
+   "The theatre is built of reinforced concrete and features rectangular forms, straight lines, and decoration attached to the outside on plaques of marble and stucco, which was a radical departure from the Art Nouveau style, and, at the time, shockingly plain in appearance.",
+   "The building's concrete construction was not merely a stylistic choice. Subsoil conditions and the site's proximity to the Seine made concrete necessary. Henry van de Velde was the initial architect, resigning when it was clear that the contractors, the Perret brothers, had a far deeper understanding of reinforced concrete construction than he did, although the Perrets, were not licensed architects and had another designer, Roger Bouvard, sign their plans."
+  ],
+  "title": "Théâtre des Champs-Élysées",
+  "url": "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9es",
+  "revision": 1372243930,
+  "fetched": "2026-10-20"
+ },
+ "national-museum-architecture": {
+  "paragraphs": [
+   "The National Museum (Norwegian: Nasjonalmuseet, officially the National Museum of Art, Architecture and Design) is a museum in Oslo, Norway which holds the Norwegian state's public collection of art, architecture, and design objects. The collection totals over 400,000 works, amongst them the first copy of Edvard Munch's The Scream from 1893. The museum is state-owned and managed by the Norwegian Ministry of Culture.",
+   "The National Museum was established in 2003 by the merging of the Museum of Architecture, the Museum of Industrial Art, the Museum of Decorative Arts and Design, the Museum of Contemporary Art, and the National Gallery of Norway. In 2022, the museum opened its new building at Vestbanehallen at the centre of Oslo, housing the entirety of the collections from these previous museums.",
+   "The current director of the museum is Ingrid Røynesdal who was appointed in 2023."
+  ],
+  "title": "National Museum of Norway",
+  "url": "https://en.wikipedia.org/wiki/National_Museum_of_Norway",
+  "revision": 1368971093,
+  "fetched": "2026-10-20"
+ },
+ "roy-thomson-hall": {
+  "paragraphs": [
+   "Roy Thomson Hall is a concert hall in Toronto, Ontario, Canada. Located downtown in the city's entertainment district, it is home to the Toronto Symphony Orchestra, the Toronto Mendelssohn Choir, and the esports team Toronto Defiant. Opened in 1982, its circular architectural design exhibits a sloping and curvilinear glass exterior. It was designed by Canadian architects Arthur Erickson and Mathers and Haldenby. Itzhak Perlman acted as a special advisor to the architects on accessibility needs for disabled performers and guests.",
+   "The hall seats 2,630 guests and features a pipe organ built by Canadian organ builder Gabriel Kney from London, Ontario.",
+   "The hall was formerly known as The New Massey Hall during its construction and pre-construction phase. It acquired its official name on January 14, 1982, as thanks to the family of Roy Thomson (first Lord Thomson of Fleet and founder of the publishing empire Thomson Corporation), who had donated C$4.5 million to complete the fundraising efforts for the new hall.",
+   "The hall was renovated over a period of six months in 2002, after years of complaints from musicians about the quality of its acoustics."
+  ],
+  "title": "Roy Thomson Hall",
+  "url": "https://en.wikipedia.org/wiki/Roy_Thomson_Hall",
+  "revision": 1376744491,
+  "fetched": "2026-10-20"
+ },
+ "no-1-poultry": {
+  "paragraphs": [
+   "No 1 Poultry is a commercial building in the City of London, used for offices and retail. It occupies the apex where the eastern ends of Poultry and Queen Victoria Street meet at Mansion House Street, the western approach to Bank junction.",
+   "The design, by James Stirling, was constructed after the architect's death. It replaced the Mappin & Webb building, a neo-Gothic, conical-turreted, Grade II-listed retail building owned by developer Rudolph Palumbo and later by his son, Peter Palumbo. An alternative scheme, a modernist tower by Ludwig Mies van der Rohe in the manner of the Seagram Building in New York City, was abandoned after a high-profile architectural and planning dispute in the 1980s. The eventual postmodern design, with its alternating bands of rose-pink and muted yellow stone, was approved. As before, the apex carries a clock face, now positioned higher above a large pointed arrangement of thirty window panes.",
+   "In 2016, the landowner proposed exterior alterations. Building users, neighbours and architectural experts urged Historic England to recognise and protect the building, and it was listed at Grade II*, making it, at the time, the youngest building in England to receive that designation."
+  ],
+  "title": "No 1 Poultry",
+  "url": "https://en.wikipedia.org/wiki/No_1_Poultry",
+  "revision": 1379041642,
+  "fetched": "2026-10-20"
+ },
+ "haus-der-kunst": {
+  "paragraphs": [
+   "The Haus der Kunst (German: [ˈhaʊs deːɐ̯ ˈkʊnst], House of Art) is a museum for modern and contemporary art in Munich, Bavaria. It is located at Prinzregentenstraße 1 at the southern edge of the Englischer Garten, Munich's largest park. It was built between 1933 and 1937 at the behest of Adolf Hitler and to a monumental neo-classical design by Paul Troost as Haus der deutschen Kunst."
+  ],
+  "title": "Haus der Kunst",
+  "url": "https://en.wikipedia.org/wiki/Haus_der_Kunst",
+  "revision": 1350520717,
+  "fetched": "2026-10-20"
+ },
+ "hill-house-helensburgh": {
+  "paragraphs": [
+   "The Hill House is a villa in Helensburgh, Scotland, designed between 1902 and 1904 by Charles Rennie Mackintosh. Commissioned by publisher Walter Blackie, the house was conceived in an innovative manner and is noted for its forward looking design and construction techniques. The building is characterised by an austere, unornamented exterior finished in grey roughcast and drawing references from Scottish vernacular and baronial architecture. Margaret Macdonald Mackintosh also played a key role in the project designing and making interior elements. Her total contribution as with many Mackintosh projects remains the subject of ongoing debate but it is accepted that the major architectural composition is by Mackintosh. In 1982, the property was donated to the National Trust for Scotland, which continues to maintain and open it to the public."
+  ],
+  "title": "Hill House, Helensburgh",
+  "url": "https://en.wikipedia.org/wiki/Hill_House,_Helensburgh",
+  "revision": 1372511460,
+  "fetched": "2026-10-20"
+ },
+ "mode-gakuen-cocoon-tower": {
+  "paragraphs": [
+   "Mode Gakuen Cocoon Tower (モード学園コクーンタワー, Mōdo gakuen kokūn tawā) is a 204-metre-tall (669-foot), 50-story educational facility located in the Nishi-Shinjuku district in Shinjuku, Tokyo, Japan.",
+   "Mode Gakuen invited architects to compete to build its new Tokyo location, stipulating that the building could not be rectangular. About 50 architects submitted more than 150 proposals. The winner had a curved shell of white aluminum and dark blue glass, criss-crossed by a web of white diagonal lines. The architects, Tange Associates, said its cocoon-like shape symbolizes nurturing the students inside; they also said they wanted the building to revitalize the surrounding area and to create a gateway between Shinjuku Station and the Shinjuku central business district. The building earned the firm the Emporis 2008 Skyscraper of the year award.",
+   "The building was designed by a team led by Paul Noritaka Tange, the son of Kenzo Tange. The building is home to three educational institutions: Tokyo Mode Gakuen (fashion vocational school), HAL Tokyo (special technology and design college), and Shuto Ikō (medical college). Completed in October 2008, the tower is the second-tallest educational building in the world and was the 17th-tallest building in Tokyo. It was awarded the 2008 Skyscraper of the Year by Emporis."
+  ],
+  "title": "Mode Gakuen Cocoon Tower",
+  "url": "https://en.wikipedia.org/wiki/Mode_Gakuen_Cocoon_Tower",
+  "revision": 1367457719,
+  "fetched": "2026-10-20"
+ },
+ "one-central-park": {
+  "paragraphs": [
+   "One Central Park is a mixed-use dual skyscraper located in the Sydney suburb of Chippendale in New South Wales, Australia. Developed as a joint venture between Frasers Property and Sekisui House, it was constructed by Besix Watpac as the first stage of the Central Park urban renewal project.",
+   "Built by Besix Watpac, One Central Park is a two-tower complex that forms part of the larger Central Park precinct. The Central Park precinct, which is located on just less than six hectares of land, was designed to allow for the development of approximately 235,000 square metres of residential, commercial and retail space. Initial project forecasts anticipated that around 2,200 residential apartments and 900 student dwellings would be constructed over 3–10 years."
+  ],
+  "title": "One Central Park",
+  "url": "https://en.wikipedia.org/wiki/One_Central_Park",
+  "revision": 1354490214,
+  "fetched": "2026-10-20"
+ },
+ "sheikh-lotfollah-mosque": {
+  "paragraphs": [
+   "The Sheikh Lotfollah Mosque (Persian: مسجد شیخ لطف الله, romanized: Masjed-e Sheykh Lotfollah;) is a Shi'ite mosque, located on the eastern side of Naqsh-e Jahan Square, Isfahan, Iran. Construction of the mosque started in 1011 AH (1602/1603 CE) and was finished in 1028 AH (1618/1619 CE). It is one of the masterpieces of Iranian architecture from the Safavid era. It was designed by the chief architect Muhammad Reza during the reign of Shah Abbas the Great. On the advice of Arthur Upham Pope, Reza Shah Pahlavi had the mosque restored in the 1920s.",
+   "The mosque is more similar in type to a mausoleum than a four-iwan mosque. Architectural historians ascribe this either to the fact that members of the Shah's family had used it for private worship or that it had functioned as a women's sanctuary. The building was completed in 1028 AH (1618/1619 CE).",
+   "According to Sheila Blair and Jonathan Bloom, the architect of the building was Muhammad Reza (or Muhammad Riza), son of Husayn, a builder from Isfahan, whose name appears on an inscription around the mihrab. Other names found in the mosque's inscriptions are Ali Reza al-Abbasi, a calligrapher who also worked later on the Shah Mosque nearby, and Baqir Banna' (Baqir the Builder)."
+  ],
+  "title": "Sheikh Lotfollah Mosque",
+  "url": "https://en.wikipedia.org/wiki/Sheikh_Lotfollah_Mosque",
+  "revision": 1380518095,
+  "fetched": "2026-10-20"
+ },
+ "the-bow": {
+  "paragraphs": [
+   "The Bow is a 158,000-square-metre (1,700,000 sq ft) skyscraper in Downtown Calgary, Alberta, Canada. The 236-metre (774 ft) building was the tallest in Calgary between July 8, 2010, when it surpassed the Suncor Energy Centre, and May 11, 2016, when it was exceeded by Brookfield Place. The Bow is currently the second-tallest office tower in Calgary and the third-tallest in Canada outside Toronto, Ontario. The Bow is also considered the start of redevelopment in Calgary's Downtown East Village. It was completed in 2012 and was ranked among the top 10 architectural projects in the world of that year according to Azure magazine. It was built for oil and gas company Encana, and was the headquarters of its successors Ovintiv and Cenovus."
+  ],
+  "title": "The Bow (skyscraper)",
+  "url": "https://en.wikipedia.org/wiki/The_Bow_(skyscraper)",
+  "revision": 1369721780,
+  "fetched": "2026-10-20"
+ },
+ "vanna-venturi-house": {
+  "paragraphs": [
+   "The Vanna Venturi House, one of the first prominent works of the postmodern architecture movement, is located in the neighborhood of Chestnut Hill in Philadelphia, Pennsylvania. It was designed by architect Robert Venturi for his mother, Vanna Venturi, and built between 1962 and 1964."
+  ],
+  "title": "Vanna Venturi House",
+  "url": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
+  "revision": 1377847937,
+  "fetched": "2026-10-20"
+ },
+ "fiat-tagliero-building": {
+  "paragraphs": [
+   "The Fiat Tagliero Building is a Futurist-style filling station in Asmara, Eritrea. It was completed in 1938 and designed by the Italian engineer Giuseppe Pettazzi."
+  ],
+  "title": "Fiat Tagliero Building",
+  "url": "https://en.wikipedia.org/wiki/Fiat_Tagliero_Building",
+  "revision": 1318954999,
+  "fetched": "2026-10-20"
+ },
+ "national-centre-for-the-performing-arts": {
+  "paragraphs": [
+   "The National Centre for the Performing Arts (NCPA) (国家大剧院), colloquially described as The Boiled Egg (水煮蛋), is an arts centre containing an opera house in Xicheng, Beijing, China. Designed by French architect Paul Andreu, the NCPA opened in 2007 and is the largest theatre complex in Asia. The NCPA is semi-spherical in appearance, with a long axis length of 212.20 meters in the east-west direction, a short axis length of 143.64 meters in the north-south direction, a height of 46.285 meters, an area of 119,900 square meters, and a total construction area of approximately 165,000 square meters, including 105,000 square meters of main buildings and 60,000 square meters of underground, auxiliary facilities, with a total cost of 3.067 billion yuan. The centre contains an opera hall, music hall, theater and art exhibition halls, restaurants, audio shops, and other supporting facilities."
+  ],
+  "title": "National Centre for the Performing Arts (China)",
+  "url": "https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(China)",
+  "revision": 1379846974,
+  "fetched": "2026-10-20"
+ },
+ "rustem-pasha-mosque": {
+  "paragraphs": [
+   "The Rüstem Pasha Mosque (Turkish: Rüstem Paşa Camii) is an Ottoman mosque located in the Hasırcılar Çarşısı (Strawmat Weavers Market) in the Tahtakale neighborhood of the Fatih district of Istanbul, Turkey, near the Spice Bazaar. Named after Rüstem Pasha, who served as Grand Vizier of the Ottoman Empire under Sultan Suleiman I, it was designed by the Ottoman imperial architect Mimar Sinan and completed in around 1563.",
+   "The mosque is noted for the many different designs of İznik tiles that cover almost every vertical surface both in the interior and under the entrance porch."
+  ],
+  "title": "Rüstem Pasha Mosque",
+  "url": "https://en.wikipedia.org/wiki/R%C3%BCstem_Pasha_Mosque",
+  "revision": 1370047635,
+  "fetched": "2026-10-20"
+ },
+ "iac-building": {
+  "paragraphs": [
+   "The IAC Building is the headquarters of the media company IAC at 555 West 18th Street on the northeast corner of Eleventh Avenue in the Chelsea neighborhood of Manhattan, New York City. Designed by Frank Gehry and completed in 2007, it was Gehry's first full-building design in New York City and featured the world's largest high definition screen at the time in its lobby.",
+   "Reminiscent of several other Gehry designs, the building appears to consist of two major levels: a large base of twisted tower-sections packed together like the cells of a bee hive, with a second bundle of lesser diameter sitting on top of the first. The cell units have the appearance of sails skinned over the skeleton of the building. The full-height windows fade from clear to white on the top and bottom edges of each story. The overall impression is of two very tall stories, which belies its actual 10-story structure. Vanity Fair commented that the building is perhaps one of the world's most attractive office buildings. Barry Diller, the head of IAC who was intimately involved with the project, mandated that the facade be covered in smooth glass rather than wrinkling titanium, as Gehry had originally planned."
+  ],
+  "title": "IAC Building",
+  "url": "https://en.wikipedia.org/wiki/IAC_Building",
+  "revision": 1378724079,
+  "fetched": "2026-10-20"
+ },
+ "acropolium-of-carthage": {
+  "paragraphs": [
+   "The Acropolium, also known as Saint Louis Cathedral (French: Cathédrale Saint-Louis de Carthage), is a former Latin Catholic church located in Carthage, Tunisia.",
+   "Late 19th century French architecture tended to feature composite styles (as in the case of the Basilica of the Sacré Cœur in Paris, built in the Romanesque-Byzantine architectural tradition in the same era). The building, constructed according to the plans of the abbot Pougnet, is inspired by Byzantine, Gothic, and Moorish architectural style, and is in the shape of a Latin cross of 65 meters by 30. The façade is framed by two square towers, the crossing lies beneath a large cupola surrounded by eight short towers or spires, and there is a smaller cupola above the apse.",
+   "The church contains a nave and two aisles separated by arches passing above. The ceiling beams are sculpted, painted and gilt with arabesques. The church has 284 stained glass windows.",
+   "The church is home to artefacts, such as a monument in onyx holding the reliquary of Saint Louis, and mosaics of Saint Cyprien. Its great bell weighs six tons and there is a four-bell carillon as well. A cross, the only one standing at that time in Tunisia, tops the building."
+  ],
+  "title": "Acropolium of Carthage",
+  "url": "https://en.wikipedia.org/wiki/Acropolium_of_Carthage",
+  "revision": 1367241664,
+  "fetched": "2026-10-20"
+ },
+ "national-museum-of-western-art": {
+  "paragraphs": [
+   "The National Museum of Western Art (国立西洋美術館, Kokuritsu Seiyō Bijutsukan; lit. \"National Western Art Museum\", NMWA) is the premier public art gallery in Japan specializing in art from the Western tradition. The museum is in the Ueno Park in Taitō, central Tokyo. It received 1,162,345 visitors in 2016.",
+   "The museum is square in plan, with the main body of the galleries raised on piloti to first floor level. The layout is influenced by Le Corbusier's Sanskar Kendra museum in Ahmedabad which was being designed at the same time.",
+   "Entrance for visitors is at ground floor level via the 19th Century Hall. This double height space is lit from above with a north glazed pyramidal skylight intersected with reinforced concrete beams and a column. On the opposite side of the hall from the entrance, the ascent to the paintings gallery is via a promenade ramp, which affords better views of Rodin's sculptures. The paintings gallery wraps around 19th Century Hall, the ceiling is initially low but is raised to two storeys around the perimeter to display the paintings. There are also balconies at this level that push back into the 19th Century Hall to re-orient the visitor."
+  ],
+  "title": "National Museum of Western Art",
+  "url": "https://en.wikipedia.org/wiki/National_Museum_of_Western_Art",
+  "revision": 1374460910,
+  "fetched": "2026-10-20"
+ },
+ "la-muralla-roja": {
+  "paragraphs": [
+   "La Muralla Roja (lit. 'the Red Wall') is a postmodern apartment complex in Manzanera, Calpe, Spain. It is designed by Spanish architect Ricardo Bofill for the client Palomar S.A. in 1968 and fully constructed by 1973. It has been ranked among \"Ricardo Bofill's 10 Most Iconic Works\".",
+   "The apartment complex is constructed based on the geometric figure of the greek cross with approximately 5 meter arms. It has exactly 13 of these crosses imbedded into its design. Apartments interiors are formatted to have kitchens and bathrooms at the intersections of the cross structures.",
+   "The entire complex is based on five connected plants. Three of these follow the same structure of being four levels, with each level being different from the other. The first level is composed of a four plan module composed into an L shape that is 64 square meters. Despite the interior model being L-shaped, the courtyards and patios are what in the end give it the resulting shape of a cross. The second level consists of five module apartments that are 80 square meters. The third floor is a replica of the first floor with the exception of it being rotated 180 degrees. The last floor of 78.90 square meters only consists of a single apartment, replicating those of the second floor."
+  ],
+  "title": "La Muralla Roja",
+  "url": "https://en.wikipedia.org/wiki/La_Muralla_Roja",
+  "revision": 1368065126,
+  "fetched": "2026-10-20"
+ },
+ "riga-radio-and-tv-tower": {
+  "paragraphs": [
+   "The Riga Radio and TV Tower (Latvian: Rīgas radio un televīzijas tornis) in Riga, Latvia is the tallest tower in the European Union. It is operated by the Latvian State Radio and Television Centre (LVRTC). It was built between 1979 and 1989 with funding from the central government of the Soviet Union. Its highest point reaches 368.5 metres (1,209 ft),† which makes it the third tallest tower in Europe (after the Ostankino Tower at 540 metres (1,770 ft) and the Kyiv TV Tower at 385 metres (1,263 ft)) and the 15th tallest self-supporting tower in the world."
+  ],
+  "title": "Riga Radio and TV Tower",
+  "url": "https://en.wikipedia.org/wiki/Riga_Radio_and_TV_Tower",
+  "revision": 1362485836,
+  "fetched": "2026-10-20"
+ },
+ "glass-pavilion-toledo-museum-of-art": {
+  "paragraphs": [
+   "The Toledo Museum of Art is an art museum located in the Old West End neighborhood of Toledo, Ohio. It houses a collection of more than 30,000 objects. With 45 galleries, it covers 280,000 square feet (26,000 m2) and is currently in the midst of a massive multiyear expansion plan to its 40-acre (16 ha) campus. The museum was founded by Toledo glassmaker Edward Drummond Libbey in 1901, and moved to its current location, a Greek Revival building designed by Edward B. Green and Harry W. Wachter, in 1912. The main building was expanded twice, in the 1920s and 1930s. Other buildings were added in the 1990s and 2006. The museum's main building consists of 4+1⁄2 acres (18,000 m2) of floor space on two levels. Features include fifteen classroom studios, a 1,750-seat Peristyle concert hall, a 176-seat lecture hall, a café and gift shop. The museum averages some 380,000 visitors per year and, in 2010, was voted America's favorite museum by the readers of the visual arts website Modern Art Notes.",
+   "The Toledo Museum of Art's eleventh and current director is Adam M. Levine."
+  ],
+  "title": "Toledo Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Toledo_Museum_of_Art",
+  "revision": 1380466536,
+  "fetched": "2026-10-20"
+ },
+ "portland-building": {
+  "paragraphs": [
+   "The Portland Building, alternatively referenced as the Portland Municipal Services Building, is a 15-story municipal office building located at 1120 SW 5th Avenue in downtown Portland, Oregon. Built at a cost of US$29 million, it opened in 1982 and was considered architecturally groundbreaking at the time.",
+   "The building houses offices of the City of Portland and is located adjacent to Portland City Hall. It was added to the National Register of Historic Places in 2011. An extensive reconstruction of the building began in December 2017 and was completed in 2020. The building was temporarily closed for that work, and the closure was extended by the COVID-19 pandemic."
+  ],
+  "title": "Portland Building",
+  "url": "https://en.wikipedia.org/wiki/Portland_Building",
+  "revision": 1372278426,
+  "fetched": "2026-10-20"
+ },
+ "palacio-salvo": {
+  "paragraphs": [
+   "The Palacio Salvo (English: Salvo Palace) is an eclectic skyscraper at the intersection of 18 de Julio Avenue and Plaza Independencia in the Centro neighbourhood of Montevideo, Uruguay. Finished in 1928, It was built thanks to the initiative of the business brothers Ángel, José and Lorenzo Salvo, the 27-story Palacio Salvo stands 105 m (344 ft) high. It was the tallest building in Latin America for a brief period, at its completion it was the tallest reinforced concrete structure in the world. It was designed by the architect Mario Palanti, an Italian immigrant living in Buenos Aires, who used a similar design for his Palacio Barolo in Buenos Aires, Argentina.",
+   "With an eclectic style that combines Renaissance references with Gothic reminiscences and Neoclassical touches, its distinctive silhouette has become an emblem of the city and a reminder of the prosperous years of the early 20th century.",
+   "The building consists of a basement, ground floor, mezzanine, ten full upper floors, and fourteen tower floors, housing 370 residential units. It was originally built as an office building, with a section designated for a hotel and the ground floor reserved for commercial spaces, featuring an open passageway connecting Plaza Independencia with Andes Street (since 2024, renamed José Germán Araújo Street)."
+  ],
+  "title": "Palacio Salvo",
+  "url": "https://en.wikipedia.org/wiki/Palacio_Salvo",
+  "revision": 1355203869,
+  "fetched": "2026-10-20"
+ },
+ "gare-do-oriente": {
+  "paragraphs": [
+   "Gare do Oriente (Portuguese pronunciation: [ˈɡaɾɨ ðu oɾiˈẽtɨ]), also known as Oriente Station (Portuguese: Estação Oriente or Estação do Oriente) or Lisbon Oriente Station (lit. Lisbon East Station), is an intermodal transport hub situated in the civil parish of Parque das Nações, in Lisbon. It includes a train station serving regional and intercity services, a metro station and a bus terminal serving local and long-distance routes.",
+   "Oriente Station is situated in an urban area of reclaimed industrial and abandoned buildings fronting the northern margin of the Tagus River, situated 6 kilometres (3.7 mi) from the city centre.",
+   "Ambitious in its conception, the modernist station includes a Lisbon Metro station, a high-speed commuter and regional train hub, a local, national and international bus station, a shopping centre and a police station. The rail station was conceived with a multi-modal platform intersecting the cardinal axes for the various transport modes.",
+   "With some influence from Gothic architecture, the station bears considerable resemblance to Santiago Calatrava's earlier Allen Lambert Galleria within Toronto's Brookfield Place. Calatrava's objective was to realize a new space with ample room and functionality providing multiple connections between various zones in the metropolitan area of Lisbon."
+  ],
+  "title": "Gare do Oriente",
+  "url": "https://en.wikipedia.org/wiki/Gare_do_Oriente",
+  "revision": 1376241153,
+  "fetched": "2026-10-20"
+ },
+ "castletown-house": {
+  "paragraphs": [
+   "Castletown House, Celbridge, County Kildare, Ireland, is a Palladian house built in 1722 for William Conolly, the Speaker of the Irish House of Commons. It formed the centrepiece of an 800-acre (320 ha) estate. The estate was sold in 1965 by William Conolly-Carew, 6th Baron Carew, and later sub-divided.",
+   "The house and a core demesne of 120 acres were bought by a group of preservationists, and became the first major project of the Irish Georgian Society; they were later transferred to a dedicated charitable foundation, and ultimately to state ownership in 1994. In November 2025 the Office of Public Works acquired 235-acre (95 ha) of the remaining part of the estate in private ownership."
+  ],
+  "title": "Castletown House",
+  "url": "https://en.wikipedia.org/wiki/Castletown_House",
+  "revision": 1367675068,
+  "fetched": "2026-10-20"
+ },
+ "punakha-dzong": {
+  "paragraphs": [
+   "The Punakha Dzong, also known as Pungthang Dewa Chhenbi Phodrang (meaning \"the palace of great happiness or bliss\"), is the administrative centre of Punakha District in Punakha, Bhutan. Constructed by Ngawang Namgyal, 1st Zhabdrung Rinpoche, in 1637–38, it is the second oldest and second-largest dzong in Bhutan and one of its most majestic structures. The dzong houses the sacred relics of the southern Drukpa Lineage of the Kagyu school of Tibetan Buddhism, including the Rangjung Kharsapani and the sacred remains of Ngawang Namgyal and the tertön Pema Lingpa.",
+   "The dzong is part of the Drukpa Lineage of the Kagyu school of Tibetan Buddhism in Bhutan. It is the second oldest and most majestic dzong in Bhutan built at the orders of Ngawang Namgyal. It is a six-storied structure with a central tower or utse at an average elevation of 1,200 m (3,900 ft) with a scenic, mountainous background. The materials used in building the dzong consisted of compacted earth, stones and timber in doors and windows."
+  ],
+  "title": "Punakha Dzong",
+  "url": "https://en.wikipedia.org/wiki/Punakha_Dzong",
+  "revision": 1367128900,
+  "fetched": "2026-10-20"
+ },
+ "lovell-health-house": {
+  "paragraphs": [
+   "The Lovell House or Lovell Health House is an International style modernist residence designed and built by Richard Neutra between 1927 and 1929. The home, located at 4616 Dundee Drive in the Los Feliz neighborhood of Los Angeles, California, was built for the physician and naturopath Philip Lovell. It is considered a major monument in architectural history, and was a turning point in Neutra's career.",
+   "The Lovell House underwent multiple design iterations before its final construction. Early designs included an L-shaped structure descending a hillside in three levels, connected by a long balcony on the third floor. These designs emphasized stepped masses and earth ramps leading to a tennis court, reflecting the natural integration central to Richard Neutra's architectural philosophy. Despite its later designation as the \"Health House,\" none of the initial designs included the extensive exercise facilities originally envisioned by Lovell."
+  ],
+  "title": "Lovell House",
+  "url": "https://en.wikipedia.org/wiki/Lovell_House",
+  "revision": 1377022381,
+  "fetched": "2026-10-20"
+ },
+ "the-lowry": {
+  "paragraphs": [
+   "Lowry is a theatre and gallery complex at Salford Quays, Salford, Greater Manchester, England. It is named after the early 20th-century painter L. S. Lowry, known for his paintings of industrial scenes in North West England. The complex opened on 28 April 2000 and was officially opened on 12 October 2000 by Queen Elizabeth II.",
+   "The complex was designed by Michael Wilford with structural engineer Buro Happold and constructed by Bovis Construction. Groundbreaking took place on 19 June 1997. The Lowry is built on a triangular site at the end of Pier 8 and has a triangular plan. A promenade encircling the building provides views of the Manchester Ship Canal, MediaCityUK and the Salford Quays developments.",
+   "The foyer faces the public plaza, where there is a large aerofoil canopy at the entrance clad with perforated steel and illuminated from inside at night. Much of the building is clad in stainless steel and glass."
+  ],
+  "title": "The Lowry",
+  "url": "https://en.wikipedia.org/wiki/The_Lowry",
+  "revision": 1380057360,
+  "fetched": "2026-10-20"
+ },
+ "bibliotheque-sainte-genevieve": {
+  "paragraphs": [
+   "Sainte-Geneviève Library is a university library of the universities of Paris, administered by the Sorbonne-Nouvelle University (a public liberal arts and humanities university) located at 10, place du Panthéon, across the square from the Panthéon, in the 5th arrondissement of Paris.",
+   "It is based on the collection of the Abbey of Saint Genevieve, which was founded in the 6th century by Clovis I, the King of the Franks. The collection of the library was saved from destruction during the French Revolution. A new reading room for the library, with an innovative iron frame supporting the roof, was built between 1838 and 1851 by architect Henri Labrouste. The library contains around 2 million documents, and currently is the principal inter-university library for the different universities of Paris, and is also open to the public. It is administratively affiliated with Sorbonne Nouvelle University."
+  ],
+  "title": "Sainte-Geneviève Library",
+  "url": "https://en.wikipedia.org/wiki/Sainte-Genevi%C3%A8ve_Library",
+  "revision": 1365649637,
+  "fetched": "2026-10-20"
+ },
+ "robarts-library": {
+  "paragraphs": [
+   "The John P. Robarts Research Library, commonly referred to as Robarts Library (ROH-barts), is the main humanities and social sciences library of the University of Toronto Libraries and the largest individual library at the university, located on the St. George campus in downtown Toronto. Opened in 1973 and named for John Robarts, the 17th Premier of Ontario, the library contains more than 4.5 million bookform items, 4.1 million microform items and 740,000 other items.",
+   "The design of the Robarts Library complex was headed by Mathers & Haldenby Architects with consultation from Warner, Burns, Toan & Lunde, the New York architectural firm whose earlier works included the libraries at Cornell and Brown universities and who specialized in precast concrete buildings. Coinciding with the Canadian Centennial celebrations, the initial plan was expanded to add three more storeys to the original design. Construction of the library began in 1968 and completed in 1973, at a cost of over $40 million."
+  ],
+  "title": "Robarts Library",
+  "url": "https://en.wikipedia.org/wiki/Robarts_Library",
+  "revision": 1375420368,
+  "fetched": "2026-10-20"
+ },
+ "royal-museum-central-africa-tervuren": {
+  "paragraphs": [
+   "The Royal Museum for Central Africa (RMCA) (Dutch: Koninklijk Museum voor Midden-Afrika (KMMA); French: Musée royal de l'Afrique centrale (MRAC); German: Königliches Museum für Zentralafrika (KMZA)), communicating under the name AfricaMuseum since 2018, is an ethnography and natural history museum situated in Tervuren in Flemish Brabant, Belgium, just outside Brussels. It was originally built to showcase King Leopold II's Congo Free State in the International Exposition of 1897.",
+   "The museum focuses on the Congo, a former Belgian colony. The sphere of interest, however, especially in biological research, extends to the whole Congo Basin, Central Africa, East Africa, and West Africa, attempting to integrate \"Africa\" as a whole. Intended originally as a colonial museum, from 1960 onwards it has focused more on ethnography and anthropology. Like most museums, it houses a research department in addition to its public exhibit department. Not all research pertains to Africa (e.g. research on the archaeozoology of Sagalassos, Turkey). Some researchers have strong ties with the Royal Belgian Institute of Natural Sciences.",
+   "In November 2013, the museum closed for extensive renovation work, including the construction of new exhibition space, and re-opened in December 2018."
+  ],
+  "title": "Royal Museum for Central Africa",
+  "url": "https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa",
+  "revision": 1376728745,
+  "fetched": "2026-10-20"
+ },
+ "vivocity": {
+  "paragraphs": [
+   "VivoCity is a shopping mall located in the HarbourFront precinct of Bukit Merah, Singapore. It is the largest shopping mall in Singapore, with 99,987 square metres (1,076,250 square feet) of net lettable area and 142,854 square metres (1,537,670 square feet) of gross floor area spread over a three-storey shopping complex and two basement levels.",
+   "It was designed by the Japanese architect Toyo Ito, and its name is derived from the word vivacity. In December 2016, VivoCity was recognized by Forbes as one of the top shopping malls in Singapore."
+  ],
+  "title": "VivoCity",
+  "url": "https://en.wikipedia.org/wiki/VivoCity",
+  "revision": 1376372974,
+  "fetched": "2026-10-20"
+ },
+ "catedral-de-lima": {
+  "paragraphs": [
+   "The Cathedral Basilica of Lima, commonly known as the Metropolitan Cathedral of Lima, is a Roman Catholic cathedral in Lima, Peru. It is the seat of the Archdiocese of Lima. Its construction began in 1535 by Francisco Pizarro and was completed in 1797, having been built in its present form between 1602 and 1797. Its patron saint is Saint John, Apostle and Evangelist, to whom it is dedicated.",
+   "Located on the eastern limit of the Plaza Mayor, at the second block of the Jirón Carabaya, and is part of the Historic Centre of Lima. The Archbishop's Palace and Iglesia del Sagrario are located beside the cathedral. It is the oldest and largest church in Peru."
+  ],
+  "title": "Metropolitan Cathedral of Lima",
+  "url": "https://en.wikipedia.org/wiki/Metropolitan_Cathedral_of_Lima",
+  "revision": 1375854393,
+  "fetched": "2026-10-20"
+ },
+ "hong-kong-coliseum": {
+  "paragraphs": [
+   "Hong Kong Coliseum (Chinese: 香港體育館), commonly and informally known as the Hung Hom Coliseum (紅磡體育館, 紅館) is a multi-purpose indoor arena, in Hung Hom Bay, Kowloon, Hong Kong near Hung Hom station. It is in Yau Tsim Mong District.",
+   "It was built by the Urban Council and inaugurated on 27 April 1983. The opening of the stadium coincided with the 100th anniversary of the Urban Council. The coliseum has 12,500 seats, which is the second largest among indoor facilities in Hong Kong, only behind the 2005 AsiaWorld–Arena.",
+   "It is managed by the Leisure and Cultural Service Department of the Hong Kong Government."
+  ],
+  "title": "Hong Kong Coliseum",
+  "url": "https://en.wikipedia.org/wiki/Hong_Kong_Coliseum",
+  "revision": 1364526450,
+  "fetched": "2026-10-20"
+ },
+ "jakarta-cathedral": {
+  "paragraphs": [
+   "Jakarta Cathedral (Indonesian: Gereja Katedral Jakarta; Dutch: Kathedraal van Jakarta) is a Latin Catholic cathedral in Jakarta, Indonesia, which is also the seat of the Archbishop of Jakarta, currently Cardinal Ignatius Suharyo Hardjoatmodjo. Its official name is the Church of Our Lady of the Assumption (Gereja Santa Perawan Maria Diangkat ke Surga, derived from the original name in Dutch: De Kerk van Onze Lieve Vrouwe ten Hemelopneming). This current cathedral was consecrated in 1901 and built in the neo-Gothic style, a common architectural style to build churches at that time. The Jakarta Cathedral is located in Central Jakarta near Merdeka Square and Merdeka Palace. The Istiqlal Mosque is located next to the cathedral.",
+   "The plan of the cathedral took the form of a cross. Complete with a narthrex, nave, crossing, transepts, aisles, choir, and an apse on the eastern end. with a length from the narthrex to the apse of 60 meters and 10 meters wide, plus 5 metres on each aisle. It is a cathedral because it contains the \"cathedra\", the throne of bishop. The main entrance of the building is facing west."
+  ],
+  "title": "Jakarta Cathedral",
+  "url": "https://en.wikipedia.org/wiki/Jakarta_Cathedral",
+  "revision": 1375446010,
+  "fetched": "2026-10-20"
+ },
+ "columbus-lighthouse": {
+  "paragraphs": [
+   "Columbus Lighthouse (Spanish: Faro a Colón, meaning \"Columbus Lighthouse\") is a mausoleum monument dedicated to Christopher Columbus, located in Santo Domingo Este, Dominican Republic.",
+   "Construction began in 1986, based on plans drawn in 1931 by Scottish architect J.L. Gleave. The monument was inaugurated in 1992, in time for the 500th anniversary of Columbus's first voyage. It was funded by the Latin American states at a total cost of approximately US$70 million.",
+   "The monument's lighthouse-style features include projecting beams of light that form a cross shape. These beams are so powerful that they can be seen from neighboring Puerto Rico."
+  ],
+  "title": "Columbus Lighthouse",
+  "url": "https://en.wikipedia.org/wiki/Columbus_Lighthouse",
+  "revision": 1379943131,
+  "fetched": "2026-10-20"
+ },
+ "el-capricho": {
+  "paragraphs": [
+   "El Capricho is a villa in Comillas (Cantabria), Spain, designed by Antoni Gaudí. It was built in 1883–1885 for the summer use of a wealthy client, Máximo Díaz de Quijano, who died a year before the house was completed.",
+   "El Capricho is one of the many marvels created by the esteemed architect Antoni Gaudi. In this project, Gaudi displayed his extensive knowledge of problem-solving and architectural styles to make a combined testimony of history and his own unique way.",
+   "Gaudí, who designed only a small number of buildings outside Catalonia, was involved with other projects at Comillas. He was the assistant of Joan Martorell on another summer residence, the Palacio de Sobrellano.",
+   "El Capricho belongs to the architect's orientalist period, during the beginnings of Gaudi's artwork. El Capricho allows to see all the foundations on which Modernisme is based, anticipating Europe's avant-garde Art Nouveau. The tower has been compared to a minaret. After the death of Máximo Díaz de Quijano, this building was used such as a summer house for the most economically and politically powerful people."
+  ],
+  "title": "El Capricho",
+  "url": "https://en.wikipedia.org/wiki/El_Capricho",
+  "revision": 1357852275,
+  "fetched": "2026-10-20"
+ },
+ "most-snp-bratislava": {
+  "paragraphs": [
+   "Most SNP (\"Bridge of the Slovak National Uprising\"), commonly referred to as Most Slovenského národného povstania or the UFO Bridge, and named Nový most (\"New Bridge\") from 1993 to 2012, is a road bridge over the Danube in Bratislava, the capital of Slovakia. It is the world's longest bridge to have one pylon and one cable-stayed plane.",
+   "Most SNP is an asymmetrical cable-stayed bridge with a main span length of 303 m (994 ft), a total length of 430.8 m (1,413 ft), a width of 21 m (69 ft), and a weight of 537 t (592 short tons). Its steel construction is suspended from steel cables, connected on the Petržalka side to two pillars. There are four lanes for motor traffic on the upper level and lanes for bicycles and pedestrians on the lower level. It is a member of The World Federation of Great Towers."
+  ],
+  "title": "Most SNP",
+  "url": "https://en.wikipedia.org/wiki/Most_SNP",
+  "revision": 1375997179,
+  "fetched": "2026-10-20"
+ },
+ "beijing-national-aquatics-center": {
+  "paragraphs": [
+   "The Water Cube (水立方), fully a.k.a. the National Aquatics Centre (国家游泳中心), is a swimming center at the Olympic Green in Chaoyang, Beijing, China.",
+   "In July 2003 the Water Cube design was chosen from 10 proposals in an international architectural competition for the aquatic center project.",
+   "The Water Cube was specially designed and built by a consortium made up of PTW Architects (an Australian architecture firm), Arup international engineering group, CSCEC (China State Construction Engineering Corporation), and CCDI (China Construction Design International) of Shanghai. The Water Cube's design was initiated by a team effort: the Chinese partners felt a square was more symbolic to Chinese culture and its relationship to the Bird's Nest stadium while the Sydney-based partners came up with the idea of covering the 'cube' with bubbles, symbolizing water. Contextually, the Cube symbolizes Earth, while the circle (represented by the elliptic stadium) represents heaven, a common motif in ancient Chinese art."
+  ],
+  "title": "Water Cube",
+  "url": "https://en.wikipedia.org/wiki/Water_Cube",
+  "revision": 1375233139,
+  "fetched": "2026-10-20"
+ },
+ "v-a-dundee": {
+  "paragraphs": [
+   "V&A Dundee is a design museum in Dundee, Scotland, which opened on 15 September 2018. The V&A Dundee is the first design museum in Scotland and the first Victoria and Albert museum outside London. The V&A Dundee is also the first building in the United Kingdom designed by Kengo Kuma, whose vision was for a 'living room for the city'."
+  ],
+  "title": "V&A Dundee",
+  "url": "https://en.wikipedia.org/wiki/V%26A_Dundee",
+  "revision": 1380927910,
+  "fetched": "2026-10-20"
+ },
+ "aichi-international-arena": {
+  "paragraphs": [
+   "Aichi International Arena (愛知国際アリーナ, Aichi Kokusai Arīna), also known as IG Arena (IGアリーナ, IG Arīna) for sponsorship reasons, is a multi-purpose arena in Kita-ku, Nagoya, Aichi Prefecture, Japan. Opened in July 2025, the arena is a replacement for the Aichi Prefectural Gymnasium, which was built in 1964."
+  ],
+  "title": "Aichi International Arena",
+  "url": "https://en.wikipedia.org/wiki/Aichi_International_Arena",
+  "revision": 1373798489,
+  "fetched": "2026-10-20"
+ },
+ "rose-seidler-house": {
+  "paragraphs": [
+   "Rose Seidler House is a heritage-listed former residence and now house museum located at 69–71 Clissold Road in the Sydney suburb of Wahroonga in the Ku-ring-gai Council local government area of New South Wales, Australia. It was designed by Harry Seidler and built from 1948 to 1950 by Bret R. Lake. It is also known as In neighbourhood precinct with Marcus Seidler House and Teplitzky House or Rose House. The property is owned by the NSW Office of Environment and Heritage, an agency of the Government of New South Wales. It was added to the New South Wales State Heritage Register on 2 April 1999.",
+   "The mid-century modern house was designed for both of Seidler's parents – Rose and Max Seidler, however since Rose Seidler was the person who initiated and drove the commission, making all the main client decisions, the house is named after only her."
+  ],
+  "title": "Rose Seidler House",
+  "url": "https://en.wikipedia.org/wiki/Rose_Seidler_House",
+  "revision": 1375804135,
+  "fetched": "2026-10-20"
+ },
+ "sirkeci-terminal": {
+  "paragraphs": [
+   "Sirkeci railway station (Turkish: Sirkeci garı), listed on maps as Istanbul railway station (Turkish: İstanbul garı), is a railway terminal in Istanbul, Turkey. The terminal is located in Sirkeci, on the tip of Istanbul's historic peninsula, right next to the Golden Horn and just northwest of Gülhane Park and the Topkapı Palace.",
+   "Sirkeci Terminal on the European side of the Bosporus strait, along with Haydarpaşa Terminal on the Asian side, are Istanbul's two intercity and commuter railway terminals. Built in 1890 by the Oriental Railway as the eastern terminus of the world-famous Orient Express that once operated between Paris and Istanbul in the period between 1883 and 2009, Sirkeci Terminal has become a symbol of the city.",
+   "As of 19 March 2013, service to the station was indefinitely suspended due to the rehabilitation of the existing line between Kazlıçeşme and Halkalı for the new Marmaray commuter rail line. On 29 October 2013, a new underground station was opened to the public and is serviced by Marmaray trains travelling across the Bosphorus. The station reopened on 26 February 2024 as part of T6 Sirkeci–Kazlıçeşme Tramway Line / U3 Sirkeci–Kazlıçeşme Rail Line."
+  ],
+  "title": "Sirkeci railway station",
+  "url": "https://en.wikipedia.org/wiki/Sirkeci_railway_station",
+  "revision": 1370093043,
+  "fetched": "2026-10-20"
+ },
+ "unesco-headquarters": {
+  "paragraphs": [
+   "UNESCO Headquarters (Maison de l'UNESCO) is a building in Paris, France, which houses the United Nations Educational, Scientific and Cultural Organization (UNESCO). It was inaugurated on 3 November 1958 at number 7 Place de Fontenoy, and is open to the public.",
+   "The design of the UNESCO Headquarters building was the combined work of three architects: Bernard Zehrfuss (France), Marcel Breuer (Hungary), and Pier Luigi Nervi (Italy). Plans were also validated by an international committee of five architects composed of Lúcio Costa (Brazil), Walter Gropius (Germany/United States), Le Corbusier (France), Sven Markelius (Sweden) and Ernesto Nathan Rogers (Italy), with the collaboration of Eero Saarinen (Finland).",
+   "The main building, which houses the secretariat, consists of seven floors forming a three-pointed star. To this is added a building called the \"accordion\" and a cubic building, which is intended for permanent delegations and non-governmental organisations. These buildings occupy a trapezoidal area of land measuring 30,350 square metres (326,700 ft2), cut in the northeast corner by the semi-circular shape of the Place de Fontenoy. It is bordered by avenues of Saxony, Segur de Suffren and Lowendal."
+  ],
+  "title": "UNESCO Headquarters",
+  "url": "https://en.wikipedia.org/wiki/UNESCO_Headquarters",
+  "revision": 1372310488,
+  "fetched": "2026-10-20"
+ },
+ "millard-house-la-miniatura": {
+  "paragraphs": [
+   "The Millard House, commonly known as La Miniatura, is a house at 645 Prospect Crescent in Pasadena, a suburb of Los Angeles, California, United States. Designed by Frank Lloyd Wright, it was completed in 1924 for the rare-book dealer Alice Millard. The house was the first of four concrete textile block houses that Wright designed in Greater Los Angeles in the 1920s, the others being the Samuel Freeman House, the Storer House, and the Ennis House. It was Wright's second design for Millard's family, after the George Madison Millard House in Illinois. La Miniatura is listed on the National Register of Historic Places and is a contributing property to the Prospect Historic District.",
+   "The Millard House or La Miniatura is one of eight buildings that Wright designed in Greater Los Angeles, alongside houses like the Storer House, the Hollyhock House, the Ennis House, and the Freeman House. The Ennis, Freeman, Millard, and Storer houses were the only four textile block houses he designed in Los Angeles. According to the writer Hugh Hart, \"Wright saw his Textile Block Method approach as an utterly modern, and democratic, expression of his organic architecture ideal.\" Few of his clients ended up commissioning textile-block designs, given the novelty of the construction method."
+  ],
+  "title": "Millard House (Pasadena, California)",
+  "url": "https://en.wikipedia.org/wiki/Millard_House_(Pasadena,_California)",
+  "revision": 1373393025,
+  "fetched": "2026-10-20"
+ },
+ "walden-7": {
+  "paragraphs": [
+   "The Walden 7 is an apartment building designed by Ricardo Bofill Taller de Arquitectura and located in Sant Just Desvern near Barcelona, in Catalonia, Spain. Construction began in 1972, with it being inaugurated three years later. It was renovated due to damage from 1993 to 1995."
+  ],
+  "title": "Walden 7",
+  "url": "https://en.wikipedia.org/wiki/Walden_7",
+  "revision": 1341504770,
+  "fetched": "2026-10-20"
+ },
+ "menara-telekom": {
+  "paragraphs": [
+   "Telekom Tower (Malay: Menara Telekom), also known as TM Tower, is a 55-storey, 310-meter-tall supertall skyscraper in Lembah Pantai in western Kuala Lumpur, Malaysia. Until 2023 it was the headquarters of Malaysian telecommunications company Telekom Malaysia.",
+   "It is the world's fourth-tallest twisted building. It is Malaysia's fifth-tallest building, and is shaped to represent a sprouting \"bamboo shoot\". It is regarded as the first twisted skyscraper in the world. It was designed by Hijjas Kasturi Associates and was constructed between 1998 and 2001 by Daewoo Construction. The building was officially opened on 11 February 2003 by the fourth Malaysian Prime Minister, Tun Dr. Mahathir Mohamad. It resembles the Bitexco Financial Tower (finished in 2010) in Ho Chi Minh City, and the Telecommunications Tower (finished in 2002) in Montevideo.",
+   "With a series of hanging gardens climbing it, the structure cost over $160 million. The tower has been designed to benefit from its surrounding environment, using its windows, orientation, and air condition system to encourage energy saving.",
+   "The complex also includes a 2,500-capacity theatre, a large prayer hall (surau) and a sports facility. A unique feature of the tower is its 22 open sky gardens alternating every three floors. The office floors are separated into north and south wings served by express double-deck elevators."
+  ],
+  "title": "Telekom Tower",
+  "url": "https://en.wikipedia.org/wiki/Telekom_Tower",
+  "revision": 1378816106,
+  "fetched": "2026-10-20"
+ },
+ "j-s-dorton-arena": {
+  "paragraphs": [
+   "J. S. Dorton Arena is a 7,610-seat multi-purpose arena located in Raleigh, North Carolina, on the grounds of the North Carolina State Fair. It opened in 1952 as State Fair Arena. It has hosted many sporting events, concerts, political rallies, and circuses.",
+   "Dorton Arena was the first structure in the world to use a cable-supported roof. Its design features a steel cable supported saddle-shaped roof in tension, held up by parabolic concrete arches in compression. The arches cross about 26 feet above ground level and continue underground, where their ends are held together by more steel cables in tension. The outer walls of the arena support next to no weight at all.",
+   "The arena served as an inspiration to many architects and civil engineers, both at home and abroad. This led to a boom in lightweight constructions such as the Europe 1-Broadcasting House (1954) in Überherrn, the auditorium Paul-Emile Janson (1956) in Bruxelles, the Ingalls Rink (1958) in New Haven, the Športová hala Pasienky (1958) in Bratislava, the Yoyogi National Gymnasium (1964) in Tokyo, the Ice Aréna (1965) in Prešov and the Sporthal Beverwijk (1971) in Beverwijk."
+  ],
+  "title": "Dorton Arena",
+  "url": "https://en.wikipedia.org/wiki/Dorton_Arena",
+  "revision": 1373104257,
+  "fetched": "2026-10-20"
+ },
+ "burrell-collection": {
+  "paragraphs": [
+   "The Burrell Collection is a museum in Glasgow, Scotland, managed by Glasgow Museums. It houses the art collection of Sir William Burrell and Constance, Lady Burrell. The museum opened in 1983 and reopened on 29 March 2022 following a major refurbishment. It was announced as the winner of the Art Fund Museum of the Year in July 2023.",
+   "In 1970, an architectural competition was launched to identify a suitable architect for the museum. The competition brief made it clear that whilst the competitors were to comply with Burrell's exacting conditions, they were at liberty to design \"a fine modern building\" which would make the most out of both the collection and the site. The closing date for the competition for the museum building in 1971 was delayed by a postal strike, allowing time for the eventual winning architect Barry Gasson to complete his entry, designed in collaboration with John Meunier and Brit Andresen, all tutors at Cambridge University's School of Architecture."
+  ],
+  "title": "Burrell Collection",
+  "url": "https://en.wikipedia.org/wiki/Burrell_Collection",
+  "revision": 1374752734,
+  "fetched": "2026-10-20"
+ },
+ "mesa-laboratory-ncar": {
+  "paragraphs": [
+   "The Mesa Laboratory of the National Center for Atmospheric Research is a research center located in Boulder, Colorado. The building complex was designed by modernist architect I. M. Pei in 1961 as his first project outside of city building design. It has been noted for its Anasazi-inspired architecture and use of bush-hammered concrete to blend into the surrounding area.",
+   "In 1960 the University Corporation for Atmospheric Research (UCAR) appointed Walter Orr Roberts as the founding director of the National Center for Atmospheric Research (NCAR) and designated the Table Mesa below the Flatirons sandstone cliffs as its laboratory site. After agreeing to preserve the entire 565-acre (2.29 km2) site from development, the state of Colorado purchased the land and turned it over to NCAR for the research laboratory. Pietro Belluschi, then the dean of architecture at the Massachusetts Institute of Technology advised Roberts on the selection of the architect for the center. Utilizing the deans of architecture at the UCAR constituent universities as an expert committee, they eventually selected I. M. Pei as the project's architect. Until this time, Pei had been known for his work on large-scale urban projects and for his innovative use of concrete in building and lacked a reputation in rural projects or laboratory constructions."
+  ],
+  "title": "Mesa Laboratory",
+  "url": "https://en.wikipedia.org/wiki/Mesa_Laboratory",
+  "revision": 1363022111,
+  "fetched": "2026-10-20"
+ },
+ "philippine-international-convention-center": {
+  "paragraphs": [
+   "The Philippine International Convention Center (Filipino: Sentrong Pangkumbensyong Pandaigdig ng Pilipinas; PICC) is a convention center located in the Cultural Center of the Philippines Complex in Pasay, Philippines. The Brutalist facility has been the host of numerous local and foreign conventions, meetings, fairs, and social events.",
+   "The PICC is composed of five building modules: the Delegation Building, Secretariat Building, Plenary Hall, Reception Hall and The Forum. Designed by Leandro Locsin, the facility is situated on a 12-hectare (30-acre) lot in reclaimed land. It has 38 meeting rooms, a Muslim prayer hall, and a floor area of more than 70,000 square feet (6,500 m2). Surrounding the Reception and Plenary Halls are reflecting pools, while open-air facilities like The Courtyard and The Garden are also present within the complex.",
+   "The PICC also hosts the main office of the National Privacy Commission and an office of the Securities and Exchange Commission. It formerly housed the office of the vice president of the Philippines from 1992 to 2005, the Philippine Charity Sweepstakes Office, and a satellite office of the Professional Regulation Commission until 2025."
+  ],
+  "title": "Philippine International Convention Center",
+  "url": "https://en.wikipedia.org/wiki/Philippine_International_Convention_Center",
+  "revision": 1377930827,
+  "fetched": "2026-10-20"
+ },
+ "torre-velasca": {
+  "paragraphs": [
+   "The Torre Velasca (\"Velasca Tower\") is a skyscraper built in the 1950s by the BBPR architectural partnership, in Milan, Italy. The construction was achieved in 1958, and inaugurated in 1961. Measuring 106 metres (348 ft) in height to the roof, the tower has 26 stories. The building is considered one of the few Italian examples of post-rationalist brutalist architecture.",
+   "The Torre Velasca is known for its peculiar and characteristic mushroom-like shape that stands out in the city skyline. Its structure recalls the Lombard tradition, made of medieval fortresses and towers, each having a massive profile. In such fortresses, the lower parts were always narrower, while the higher parts were propped up by wood or stone beams. As a consequence, the shape of this building is the result of a modern interpretation of the typical medieval Italian castle. At the same time, BBPR in this building satisfied the functional needs of space: narrower surfaces on the ground, wider and more spacious ones on the top floors. The town planning laws, then, imposed specific volumes (depending on the buildings' purpose); in this tower, the latter were the mixed functions of residential and commercial use."
+  ],
+  "title": "Torre Velasca",
+  "url": "https://en.wikipedia.org/wiki/Torre_Velasca",
+  "revision": 1375544428,
+  "fetched": "2026-10-20"
+ },
+ "national-library-of-australia": {
+  "paragraphs": [
+   "The National Library of Australia (NLA), formerly the Commonwealth National Library and Commonwealth Parliament Library, is the largest reference library in Australia, responsible under the terms of the National Library Act 1960 for \"maintaining and developing a national collection of library material, including a comprehensive collection of library material relating to Australia and the Australian people\", thus functioning as a national library. It is located in Parkes, Canberra, ACT.",
+   "The original National Library building on Kings Avenue, Canberra was designed by Edwin Hubert Henderson (1885–1939), who was Chief Architect of the Commonwealth of Australia from 1929 to 1939, and built in 1934. Originally intended to be several wings, only one wing was completed, partly because of the advent of World War II. The 1957 Paton Committee reported that the accommodation was inadequate for a National Library. The building was used for the headquarters of the Canberra Public Library Service until its demolition in 1968, when it became the site of the Edmund Barton Building."
+  ],
+  "title": "National Library of Australia",
+  "url": "https://en.wikipedia.org/wiki/National_Library_of_Australia",
+  "revision": 1378305258,
+  "fetched": "2026-10-20"
+ },
+ "omar-ali-saifuddien-mosque": {
+  "paragraphs": [
+   "The Omar Ali Saifuddien Mosque (Malay: Masjid Omar Ali Saifuddien). or unofficially Sultan Omar Ali Saifuddin Mosque (abbreviated as the SOAS Mosque), is a mosque in Bandar Seri Begawan, the capital of Brunei. It is one of the two state mosques (masjid negara), the other being Jame' Asr Hassanil Bolkiah Mosque. One of the biggest and most striking mosques in the Far East, it was completed in 1958 at a cost of US$5 million, built by the eponymous Omar Ali Saifuddien III, the 28th Sultan of Brunei.",
+   "The mosque's general architectural style is primarily influenced by the Mughal Empire, with Islamic and Bruneian architectural elements accented throughout the structure's façade and interior. The mosque's features include the mihrab, mimbar, prayer hall and dome, minaret, ablution area, and sahn. Nolli created all of the architectural elements, including the pillars with their distinctive Bruneian motif, a thick rope or kalat. This pattern is a reflection of the columns in Lapau. A square fountain pool with green and yellow tiles creating a songket weave (tenunan) pattern can be seen outside in the courtyard on the left."
+  ],
+  "title": "Omar Ali Saifuddien Mosque",
+  "url": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_Mosque",
+  "revision": 1367479153,
+  "fetched": "2026-10-20"
+ },
+ "chichester-festival-theatre": {
+  "paragraphs": [
+   "Chichester Festival Theatre is a theatre and Grade II* listed building situated in Oaklands Park in the city of Chichester, West Sussex, England. Designed by Philip Powell and Hidalgo Moya, it was opened by its founder Leslie Evershed-Martin in 1962. The smaller and more intimate Minerva Theatre was built nearby in 1989. A third venue, The Nest, a 120-seat studio space for work by emerging artists, opened in July 2025.",
+   "The inaugural artistic director was Sir Laurence Olivier, and it was at Chichester that the first National Theatre company was formed. Chichester's productions would transfer to the National Theatre's base at the Old Vic in London. The opening productions in 1962 were: The Chances by John Fletcher (first production 1638) which opened on 3 July; The Broken Heart (1633), by John Ford, opened 9 July; and Uncle Vanya (1896), by Anton Chekov, opened 16 July and highly acclaimed. Among the actors in the opening season were: Lewis Casson, Fay Compton, Joan Greenwood, Rosemary Harris, Kathleen Harrison, Keith Michell, André Morell, John Neville, Laurence Olivier, Joan Plowright, Michael Redgrave, Athene Seyler, Sybil Thorndike and Peter Woodthorpe."
+  ],
+  "title": "Chichester Festival Theatre",
+  "url": "https://en.wikipedia.org/wiki/Chichester_Festival_Theatre",
+  "revision": 1377035547,
+  "fetched": "2026-10-20"
+ },
+ "copan-building": {
+  "paragraphs": [
+   "The Edifício Copan (Copan Building), or just Copan, is one of the most important and emblematic buildings in the city of São Paulo, located at number 200 Avenida Ipiranga, in the city center, and was inaugurated in 1966. It is one of the symbols of modern Brazilian architecture, designed by architect Oscar Niemeyer with structural design by engineer Joaquim Cardozo, aiming to celebrate the Fourth Centenary of the city of São Paulo. The work, however, only began in 1957, with some changes and carried out with the help of Carlos Lemos.",
+   "The building has the largest reinforced concrete structure in the country, 115 meters high (377 ft.), 32 floors and 120 thousand square meters of built area, divided into six blocks, with a total of 1,160 apartments of varying sizes, according to an estimate of five thousand residents from different social classes and more than seventy commercial establishments."
+  ],
+  "title": "Edifício Copan",
+  "url": "https://en.wikipedia.org/wiki/Edif%C3%ADcio_Copan",
+  "revision": 1376480750,
+  "fetched": "2026-10-20"
+ },
+ "tomb-of-shah-rukn-e-alam": {
+  "paragraphs": [
+   "The tomb of Shah Rukn-e-Alam is the mausoleum of the 14th century Sufi saint Shah Rukn-e-Alam located in Multan, Punjab, Pakistan, at the northwestern edge of the Multan Fort. The shrine is considered to be the earliest example of Tughluq architecture, and is one of the most impressive shrines in the Indian subcontinent. The shrine attracts over 100,000 pilgrims to the annual urs festival that commemorates his death.",
+   "The shrine represents the culmination of Multani funerary architecture that began with the Shrine of Khalid Walid near Kabirwala."
+  ],
+  "title": "Tomb of Shah Rukn-e-Alam",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Shah_Rukn-e-Alam",
+  "revision": 1381035420,
+  "fetched": "2026-10-20"
+ },
+ "thorncrown-chapel": {
+  "paragraphs": [
+   "Thorncrown Chapel was designed by E. Fay Jones and constructed in Eureka Springs, Arkansas, in 1980. The design recalls the Prairie School of architecture popularized by Frank Lloyd Wright, with whom Jones had apprenticed. The chapel was commissioned by Jim Reed, a retired schoolteacher who envisioned a non-denominational pilgrimage chapel set apart for meditation. The design was inspired by Sainte-Chapelle, a Gothic church in Paris pierced by numerous stained glass windows. It held some of King Louis IX's medieval Christian relics, including the Crown of Thorns believed to have been worn by Christ. This relic inspired the name of the American chapel.",
+   "The chapel's unusual artistry has been recognized. It was selected for the 2006 Twenty-five Year Award by the American Institute of Architects. It was listed on the National Register of Historic Places (NRHP) in 2000, three decades before the 50-year cutoff required of most NRHP listings. It was included in Budget Travel's list of \"12 Most Beautiful Churches in America\" and Bored Panda's list of \"50 Most Extraordinary Churches Of The World.\""
+  ],
+  "title": "Thorncrown Chapel",
+  "url": "https://en.wikipedia.org/wiki/Thorncrown_Chapel",
+  "revision": 1373454080,
+  "fetched": "2026-10-20"
+ },
+ "sultan-mosque-singapore": {
+  "paragraphs": [
+   "The Sultan Mosque (Jawi: مسجد سلطان) is a historic congregational mosque located in the Kampong Glam district of Rochor, Singapore. First built in 1826 and later rebuilt into its current form in 1932, the Sultan Mosque is one of the national monuments of Singapore and is considered to be the most well-known mosque in the country.",
+   "The Sultan Mosque is built with a classical architectural style influenced by Indo-Saracenic architecture. The main building of the mosque, which includes its main prayer hall and memorial, face the direction of Mecca and are not aligned with Muscat Street and North Bridge Road. The compound of the mosque is enclosed by railings and concrete walls, with rear and front entrances.",
+   "The mosque has two identical gold-coloured onion domes that top each corner of the main building. Each onion dome is topped by a crescent-and-star emblem, while the base of the domes are both adorned with the sawn-off ends of glass bottles that were collected from the poor during the reconstruction process of the mosque. The dome facing North Bridge Road tops a private memorial that contains a cenotaph dedicated to Tengku Alam Shah and his family, who were formerly buried in a mausoleum behind the mosque."
+  ],
+  "title": "Sultan Mosque",
+  "url": "https://en.wikipedia.org/wiki/Sultan_Mosque",
+  "revision": 1380894907,
+  "fetched": "2026-10-20"
+ },
+ "philharmonie-de-paris": {
+  "paragraphs": [
+   "The Philharmonie de Paris (French pronunciation: [filaʁmoni də paʁi]; English: Paris Philharmonic Hall) is a complex of concert halls in Paris, France. The buildings also house exhibition spaces and rehearsal rooms. The main buildings are all located in the Parc de la Villette at the northeastern edge of Paris in the 19th arrondissement. At the core of this set of spaces is the symphonic concert hall of 2,400 seats designed by Jean Nouvel and opened in January 2015. Its construction had been postponed for about twenty years to complete the current musical institution la Cité de la Musique designed by Christian de Portzamparc and opened in 1995.",
+   "Mainly dedicated to symphonic concerts, the Philharmonie de Paris also presents other forms of music such as jazz and world music."
+  ],
+  "title": "Philharmonie de Paris",
+  "url": "https://en.wikipedia.org/wiki/Philharmonie_de_Paris",
+  "revision": 1378439848,
+  "fetched": "2026-10-20"
+ },
+ "casa-de-narino": {
+  "paragraphs": [
+   "The Casa de Nariño (Spanish pronunciation: ['kasa ðe na'riɲo]), literally the House of Nariño, is the official residence and principal workplace of the President of Colombia. It houses the main office of the executive branch and is located in the capital city of Bogotá, Colombia. It was dedicated in 1908 after being constructed on the site of the house where Antonio Nariño was born. The design was made by architects Gastón Lelarge, a French-born former pupil of Charles Garnier, and Julián Lombana.",
+   "On the north side of the palace, is the Plaza de Armas (Parade Square), a place where foreign guests are received with military honors. On the north side of this square are two sculptures: A replica of the pre-Columbian anthropomorphic stone sculpture called \"El dios de la muerte\" (Spanish for the God of Death), whose original can be found in the San Agustin Archaeological Park, and also, a sculpture by Édgar Negret in 1979 titled \"Vigilantes\", it is composed of 10 red bent aluminum plates and is dedicated to love and feelings. On the west side of the square are the fountain and the flagpole."
+  ],
+  "title": "Casa de Nariño",
+  "url": "https://en.wikipedia.org/wiki/Casa_de_Nari%C3%B1o",
+  "revision": 1379750761,
+  "fetched": "2026-10-20"
+ },
+ "arena-zagreb": {
+  "paragraphs": [
+   "The Arena Zagreb is a multi-purpose indoor arena located in Zagreb, Croatia. The site also includes a building complex, the Arena Complex (Arena Center), making it one of the largest shopping-entertainment centers in the city. The arena is used for hockey, futsal, handball, athletics, basketball, volleyball, numerous other sporting competitions, and various concerts, exhibitions, fairs, conventions, and congresses. Arena Zagreb is a former member of the European Arenas Association (EAA), and it is the biggest indoor and sports arena in Croatia and one of the biggest indoor arenas in Europe.",
+   "The arena was built in a previously undeveloped part of Zagreb that had long been overlooked—marked by a mix of neglected fields and modest residential buildings. Before construction began, the area resembled an urban wasteland more than a future cultural and sports destination."
+  ],
+  "title": "Arena Zagreb",
+  "url": "https://en.wikipedia.org/wiki/Arena_Zagreb",
+  "revision": 1372063909,
+  "fetched": "2026-10-20"
+ },
+ "shukhov-tower": {
+  "paragraphs": [
+   "The Shukhov Radio Tower (Russian: Шуховская башня), also known as the Shabolovka Tower (Шаболовская башня), is a broadcasting tower deriving from the Russian avant-garde in Moscow designed by Vladimir Shukhov. The 160-metre-high (520 ft) free-standing steel diagrid structure was built between 1920 and 1922, during the Russian Civil War.",
+   "Vladimir Shukhov invented the world's first hyperboloid structure in the year 1890. Later he wrote a book, Rafters, in which he proved that the triangular shapes are 20-25% heavier than the arched ones with a ray grating. After that, Shukhov filed a number of patents for a diagrid. He aimed not only to achieve greater strength and rigidity of the structure, but also ease and simplicity through the use of as little building material as possible.",
+   "The first diagrid tower was built for the All-Russia Exhibition in Nizhny Novgorod in 1896, and later was bought by Yury Nechaev-Maltsov, a well-known manufacturer in the city. Shukhov was responsible for constructions of a new types of lighthouses, masts, water towers and transmission towers."
+  ],
+  "title": "Shukhov Tower",
+  "url": "https://en.wikipedia.org/wiki/Shukhov_Tower",
+  "revision": 1347959261,
+  "fetched": "2026-10-20"
+ },
+ "villa-necchi-campiglio": {
+  "paragraphs": [
+   "Villa Necchi Campiglio is a historic residence (house museum) located at via Mozart, 14, Milan. It was built between 1932 and 1935 as an independent single-family house designed by Piero Portaluppi, an important Milanese Rationalist architect, and is surrounded by a large private garden with a tennis court and swimming pool. This was the second swimming pool ever to be built in Milan after the municipal one, and the first to be built on private land."
+  ],
+  "title": "Villa Necchi Campiglio",
+  "url": "https://en.wikipedia.org/wiki/Villa_Necchi_Campiglio",
+  "revision": 1372864423,
+  "fetched": "2026-10-20"
+ },
+ "ho-chi-minh-city-hall": {
+  "paragraphs": [
+   "Ho Chi Minh City Hall, officially called the Ho Chi Minh City People's Council and People's Committee Head Office (Vietnamese: Trụ sở Hội đồng Nhân dân và Ủy ban Nhân dân Thành phố Hồ Chí Minh), is a city hall and the seat of the government of Ho Chi Minh City, Vietnam. It is located in downtown Ho Chi Minh City's Saigon ward, between Pasteur, Lý Tự Trọng, Đồng Khởi, and Lê Thánh Tôn Street, with its front facade facing Nguyễn Huệ Boulevard. The building houses the office of the city's Chairman of the People's Committee, People's Council and various other government departments, such as Transportation, Natural Resources & Environment, Industry & Trade and Home Affairs.",
+   "The building originally comprised a grand hall with a clock tower upon it and 2 single story blocks on the left and right wing, stretching from Pellerin Street to Catinat Street (now Pasteur Street and Đồng Khởi Street).",
+   "Ho Chi Minh City Hall served as an administrative house for past governments during the French colonial period of Vietnam and Vietnam War. The building now also serves as one of Vietnam's national heritage sites and is open for public at the last weekend of each month."
+  ],
+  "title": "Ho Chi Minh City Hall",
+  "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Hall",
+  "revision": 1376799402,
+  "fetched": "2026-10-20"
+ },
+ "miho-museum": {
+  "paragraphs": [
+   "The Miho Museum (Japanese: ミホ ミュージアム, romanized: Miho myūjiamu) is an art museum located southeast of Kyoto, Japan, in the Shigaraki neighborhood of the city of Kōka, in Shiga Prefecture.",
+   "Mihoko Koyama and her daughter, Hiroko Koyama, commissioned the American architect I. M. Pei to design the Miho Museum. Pei's design, which he came to call Shangri-La, is executed in a hilly and forested landscape. Approximately three-quarters of the 17,400 square meter building is situated underground, carved out of a rocky mountaintop. The roof is a large glass and steel construction, while the exterior and interior walls and floor are made of a warm beige-colored limestone from France – the same material used by Pei in the reception hall of the Louvre. The structural engineer for this project was Leslie E. Robertson Associates.",
+   "Pei continued to make changes to the design of the galleries during construction as new pieces were acquired for the collection.",
+   "Pei had earlier designed the bell tower at Misono, the international headquarters and spiritual center of the Shumei organization. The bell tower can be seen from the windows of the museum."
+  ],
+  "title": "Miho Museum",
+  "url": "https://en.wikipedia.org/wiki/Miho_Museum",
+  "revision": 1374332215,
+  "fetched": "2026-10-20"
+ },
+ "lahore-museum": {
+  "paragraphs": [
+   "The Lahore Museum (Urdu: عجائب گھر لاہور, romanized: ajayb ghar lahour; lit. 'Lahore Wonder House') is a museum located in Lahore, Punjab, Pakistan. It is one of the oldest and most significant museums in the country, being founded in 1865. It was moved to its present building in 1894 on The Mall during the British colonial period. Lahore Museum is Pakistan's largest museum, as well as one of its most visited ones.",
+   "The museum, built in a Indo-Saracenic style, houses an extensive collection of Buddhist art from the ancient Indo-Greek and Gandhara kingdoms. It also has collections from the Indus Valley Civilisation, Mughal Empire, Sikh Empire and the British Raj."
+  ],
+  "title": "Lahore Museum",
+  "url": "https://en.wikipedia.org/wiki/Lahore_Museum",
+  "revision": 1380953795,
+  "fetched": "2026-10-20"
+ },
+ "aspire-tower": {
+  "paragraphs": [
+   "Aspire Tower, also known as The Torch Doha, is a 300-metre-tall (980 ft) skyscraper hotel located in the Aspire Zone complex in Doha, Qatar. Designed by architect Hadi Simaan and AREP and engineer Ove Arup and Partners, the tower served as the focal point for the 15th Asian Games hosted by Qatar in December 2006.",
+   "The tower is currently the second tallest structure and building in Doha and Qatar. In 2023, it was surpassed by the Lusail Plaza Towers. The tower has also been known as Khalifa Sports Tower or Doha Olympic Tower."
+  ],
+  "title": "Aspire Tower",
+  "url": "https://en.wikipedia.org/wiki/Aspire_Tower",
+  "revision": 1364677598,
+  "fetched": "2026-10-20"
+ },
+ "tomb-of-nader-shah": {
+  "paragraphs": [
+   "The Tomb of Nader Shah (Persian: آرامگاه نادرشاه), also known as the Mausoleum of Nader Shah, is a mausoleum located in Mashhad, in the northeastern province of Razavi Khorasan, Iran. Designed by Hooshang Seyhoun and completed in 1963, the structure contains the grave of Nader Shah.",
+   "The structure was added to the Iran National Heritage List on 9 December 1975, administered by the Cultural Heritage, Handicrafts and Tourism Organization of Iran."
+  ],
+  "title": "Tomb of Nader Shah",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Nader_Shah",
+  "revision": 1366922591,
+  "fetched": "2026-10-20"
+ },
+ "bilbao-metro-fosteritos": {
+  "paragraphs": [
+   "The Bilbao Metro (Spanish: Metro de Bilbao, Basque: Bilboko metroa) is a rapid transit system serving the city of Bilbao and the region of Greater Bilbao. Lines 1 and 2 have a \"Y\" shape, as they transit both banks of the river Ibaizabal and then combine to form one line that ends in the south of Bilbao. Line 3 connects the higher neighbourhoods to the east of Bilbao. All three current lines meet at Zazpikaleak/Casco Viejo station. The Metro is connected with the Bilbao tram, Bilboko Aldiriak (commuter rail services), Euskotren Trena (commuter rail services), Feve (commuter rail services, regional and long-distance trains), Renfe long-distance trains, and Bilbao's bus station (Bilbao Intermodal). All three lines use metre gauge.",
+   "Access to the Metro is provided by fosteritos, glass structures named after the architect who designed them, Norman Foster.",
+   "Large caverns of a 160 m2 (1,700 sq ft) cross section were dug for stations, creating large open spaces, as opposed to the traditional sets of linked tunnels. For example, the ticket line is in the same space as the trains, for this purpose steel structures called 'mezzanines' have been built over the tracks. Trains are fully accessible by lifts and escalators. Materials such as steel and concrete have been used throughout."
+  ],
+  "title": "Bilbao Metro",
+  "url": "https://en.wikipedia.org/wiki/Bilbao_Metro",
+  "revision": 1380237579,
+  "fetched": "2026-10-20"
+ },
+ "byker-wall": {
+  "paragraphs": [
+   "The Byker Wall is a long, unbroken block of 620 maisonettes in the Byker district of Newcastle upon Tyne, England. They were designed by Ralph Erskine and constructed in the 1970s. The wall is just part of the estate, which in total covers 200 acres (80 hectares).",
+   "The Wall, along with the low-rise dwellings built to its south, replaced Victorian slum terraced housing. There were nearly 1200 houses on the site at Byker. They had been condemned as unfit for human habitation in 1953, and demolition began in 1966.",
+   "The new housing block was designed by Ralph Erskine, assisted by Vernon Gracie. Design began in 1968 and construction took place between 1969 and 1982. The architects opened an office on site to develop communication and trust between the existing residents. Existing buildings were to be demolished as the new accommodation was built.",
+   "The new high-rise block was designed to shield the site from an intended motorway, which was never built. Construction materials for Byker Wall were relatively cheap, concrete, brick and timber. Surfaces were treated with bright colours, while brick bandings were used on the 'Wall' to indicate floor levels."
+  ],
+  "title": "Byker Wall",
+  "url": "https://en.wikipedia.org/wiki/Byker_Wall",
+  "revision": 1364675552,
+  "fetched": "2026-10-20"
+ },
+ "transparent-factory": {
+  "paragraphs": [
+   "The Transparent Factory was a car factory and exhibition space in Dresden, Germany owned by German carmaker Volkswagen (through Volkswagen Sachsen GmbH subsidiary) and designed by architect Gunter Henn of the Henn GmbH firm. It originally opened in 2002, producing the Volkswagen Phaeton until 2016. As of 2017, it produced the electric version of the Golf. The ID.3 was the last car produced there, from January 2021 until the factory's closure in December 2025.",
+   "The original German name is Gläserne Manufaktur (meaning factory made of glass). Both the German and English names are a word play on the double meaning of transparent and glassy, referring to both transparency and transparency of the production process."
+  ],
+  "title": "Transparent Factory",
+  "url": "https://en.wikipedia.org/wiki/Transparent_Factory",
+  "revision": 1379493966,
+  "fetched": "2026-10-20"
+ },
+ "hyatt-regency-atlanta": {
+  "paragraphs": [
+   "The Hyatt Regency Atlanta is a business hotel located on Peachtree Street in downtown Atlanta, Georgia. Opened in 1967 as the Regency Hyatt House, John C. Portman Jr.'s revolutionary 22-story atrium design for the hotel has influenced hotel design enormously in the years since. The hotel instantly became one of the most recognized buildings in Atlanta.",
+   "The building consists of the main \"Atrium Tower\" and two extensions, completed in 1971 and 1982, respectively, containing a total of 1,260 rooms. On top of the Hyatt Regency is a revolving restaurant called Polaris, located just beneath the blue dome-shaped structure which gives the hotel its distinctive profile. This was Portman's first designed revolving restaurant of many. When the hotel first opened, the restaurant gave diners an ever-changing panoramic view of the entire city; however, as taller buildings were erected on all sides of the hotel, the restaurant's view became increasingly constricted. The Polaris closed in August 2004 and remained empty until renovation plans were approved in 2013. Polaris reopened in June 2014."
+  ],
+  "title": "Hyatt Regency Atlanta",
+  "url": "https://en.wikipedia.org/wiki/Hyatt_Regency_Atlanta",
+  "revision": 1367529451,
+  "fetched": "2026-10-20"
+ },
+ "sainte-marie-de-la-tourette": {
+  "paragraphs": [
+   "Sainte Marie de La Tourette is a Dominican Order priory, located on a hillside near Lyon, France, designed by the architect Le Corbusier, the architect’s final building. The design of the building began in May 1953 and completed in 1960. The committee that decided the creation of the building considered that the primary duty of the monastery should be the spiritual awakening of the people and in particular the inhabitants of nearby areas. As a result, the monastery was constructed in Eveux-sur-Arbresle, which is just 25 km from Lyon and is accessible by train or car."
+  ],
+  "title": "Sainte Marie de La Tourette",
+  "url": "https://en.wikipedia.org/wiki/Sainte_Marie_de_La_Tourette",
+  "revision": 1364626012,
+  "fetched": "2026-10-20"
+ },
+ "design-museum": {
+  "paragraphs": [
+   "The Design Museum in Kensington, London, England, exhibits product, industrial, graphic, fashion, and architectural design. In 2018, the museum won the European Museum of the Year Award. The museum operates as a registered charity, and all funds generated by ticket sales aid the museum in curating new exhibitions."
+  ],
+  "title": "Design Museum",
+  "url": "https://en.wikipedia.org/wiki/Design_Museum",
+  "revision": 1377998491,
+  "fetched": "2026-10-20"
+ },
+ "roche-tower-bau-1": {
+  "paragraphs": [
+   "Roche Tower (German: Roche-Turm), also known as Building 1 (German: Bau 1), is an office skyscraper in the Swiss city of Basel. Designed by Herzog & de Meuron for the pharmaceutical company Hoffmann-La Roche, it stands 178 metres (584 ft) tall with 41 floors. At the time of its opening, it was the tallest building in Switzerland, surpassing the Prime Tower (126 meters) in Zürich by 52 metres. The building has a total floor space of 74,200 m2 (799,000 sq ft) and cost CHF 550 million to construct. It houses around 2,000 employees.",
+   "In 2020, Roche Tower was overtaken in height by the adjacent 205-metre Building 2, also developed by Roche."
+  ],
+  "title": "Roche Tower",
+  "url": "https://en.wikipedia.org/wiki/Roche_Tower",
+  "revision": 1364624253,
+  "fetched": "2026-10-20"
+ },
+ "cologne-central-mosque": {
+  "paragraphs": [
+   "The Cologne Central Mosque (German: Zentralmoschee Köln, Turkish: Köln Merkez-Camii) is a mosque located in the Ehrenfeld neighbourhood of the city of Cologne, in North Rhine-Westphalia, Germany. Commissioned by the German branch of the Turkish-Islamic Union for Religious Affairs (known as Diyanet İşleri Türk İslam Birliği, and abbreviated as DİTİB), the large, representative central mosque (zentralmoschee) was completed in 2017 and inaugurated by Turkish President Erdogan. As the largest mosque in Germany with the capacity to accommodate up to 4,000 worshippers, prior to its construction, there was some local opposition to the project.",
+   "Designed by Gottfried Böhm and his son, Paul, who specializes in building churches, the mosque was completed in 2017 in the German Postmodern style, inspired by Neo-Ottoman architecture. The mosque cost £15–20 million (€17-20 million), funded by Diyanet İşleri Türk İslam Birliği (DİTİB), a branch of the Turkish government's religious affairs authority, bank loans, and donations from 884 Muslim associations. St. Theodore Catholic Church in Cologne also raised funds for the mosque."
+  ],
+  "title": "Cologne Central Mosque",
+  "url": "https://en.wikipedia.org/wiki/Cologne_Central_Mosque",
+  "revision": 1366944164,
+  "fetched": "2026-10-20"
+ },
+ "galway-cathedral": {
+  "paragraphs": [
+   "The Cathedral of Our Lady Assumed into Heaven and St Nicholas (Irish language: Ard-Eaglais Mhaighdean na Deastógála agus Naomh Nioclás), commonly known as Galway Cathedral, is a Roman Catholic cathedral in Galway, Ireland.",
+   "The architect of the cathedral was John J. Robinson who had previously designed many churches in Dublin and around the country. The architecture of the cathedral draws on many influences. The dome and pillars reflect a Renaissance style. Other features, including the rose windows and mosaics, echo the broad tradition of Christian art. The cathedral dome, at a height of 44.2 metres (145 ft), is a prominent landmark on the city skyline.",
+   "Constructed nearly entirely of local limestone, the cathedral is considered to be last stone public building in Ireland.",
+   "Although many were of the opinion that a 1950s style cathedral should be built, the client wanted a traditional style building. During a controversial interview on Telefís Éireann's The Late Late Show in 1966, Trinity College Dublin student Brian Trevaskis referred to the building as a \"ghastly monstrosity\". More recently, it was described in an Irish Times article concerning \"ugly\" Irish buildings as a \"squatting Frankenstein's monster\" and \"a monument to the hubris of its soft-handed sponsors\"."
+  ],
+  "title": "Cathedral of Our Lady Assumed into Heaven and St Nicholas, Galway",
+  "url": "https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_Assumed_into_Heaven_and_St_Nicholas,_Galway",
+  "revision": 1370704131,
+  "fetched": "2026-10-20"
+ },
+ "lisbon-oceanarium": {
+  "paragraphs": [
+   "The Lisbon Oceanarium is an oceanarium in Lisbon, Portugal. It is located in the Parque das Nações, which was the exhibition grounds for the Expo '98. It is one of the largest indoor aquariums in Europe and approximately 1 million people visit each year.",
+   "The Lisbon Oceanarium’s conceptual design, architecture, and exhibit design was led by Peter Chermayeff of Peter Chermayeff LLC while at Cambridge Seven Associates. It is said to resemble an aircraft carrier, and is built on a pier in an artificial lagoon. Chermayeff is also the designer of the Osaka Oceanarium Kaiyukan, one of the world's largest aquariums, and many other aquariums around the world."
+  ],
+  "title": "Lisbon Oceanarium",
+  "url": "https://en.wikipedia.org/wiki/Lisbon_Oceanarium",
+  "revision": 1379392497,
+  "fetched": "2026-10-20"
+ },
+ "kauffman-center-performing-arts": {
+  "paragraphs": [
+   "The Kauffman Center for the Performing Arts is in downtown Kansas City, Missouri, USA, at 16th and Broadway, near the city's Power & Light District, the T-Mobile Center and the Crossroads Arts District. Opened in 2011, it houses two venues: the 1,800-seat Muriel Kauffman Theatre, home of the Kansas City Ballet and Lyric Opera of Kansas City; and the 1,600-seat Helzberg Hall, home of the Kansas City Symphony Orchestra. Both venues host a variety of artists and performance groups in addition to these three resident entities.",
+   "The center's exterior consists of two symmetrical half shells of vertical, concentric arches that open toward the south. Each shell houses one acoustically independent performance venue, although the backstage area is shared. The south façade of the Center is made entirely of glass. Safdie describes the lobby as \"an expansive glazed porch contained by a glass tent-like structure\". For those inside Brandmeyer Great Hall, the glass puts Kansas City on display; for those on the outside, the Kauffman Center becomes like a terrarium, revealing the thousands of attendees backlit against the white interior."
+  ],
+  "title": "Kauffman Center for the Performing Arts",
+  "url": "https://en.wikipedia.org/wiki/Kauffman_Center_for_the_Performing_Arts",
+  "revision": 1372756058,
+  "fetched": "2026-10-20"
+ },
+ "tempodrom": {
+  "paragraphs": [
+   "The Tempodrom (also referred to as Neues Tempodrom) is a multi-purpose event venue in Berlin.",
+   "Founded by Irene Moessinger, it opened in 1980 next to the Berlin Wall on the west side of Potsdamer Platz, housed in a large circus tent. After several changes of location, it is now housed in a permanent building in the Kreuzberg neighborhood."
+  ],
+  "title": "Tempodrom",
+  "url": "https://en.wikipedia.org/wiki/Tempodrom",
+  "revision": 1377091084,
+  "fetched": "2026-10-20"
+ },
+ "chet-holifield-federal-building": {
+  "paragraphs": [
+   "The Chet Holifield Federal Building, colloquially known as \"the Ziggurat Building\", is a United States government building in Laguna Niguel, California. It was built between 1968 and 1971 for North American Aviation/Rockwell International, and designed by William Pereira.",
+   "Perhaps innovative for its time, the building has more recently been described as \"appearing to be one part government building and two parts apocalyptic stronghold\", and as a \"white elephant.\"",
+   "The sculptural Chet Holifield Federal Building is a stepped pyramidal form that has a similar appearance to ancient ziggurats. Architect William L. Pereira designed it. A large portion of the more than one million square foot building is below grade. It is located on a 92-acre (370,000 m2) parcel of land in Laguna Niguel, California, between Los Angeles and San Diego, and approximately 4 miles (6.4 km) from the Pacific coastline.",
+   "The building has seven tiers and is constructed of angled, painted, pre-cast concrete panels with reticulation, a textured finish that displays curvilinear forms. The building displays some characteristics of the Brutalist style of Modern architecture, which is distinguished by weighty, massive forms; rough, exposed concrete surfaces; broad, expansive wall planes; and recessed windows."
+  ],
+  "title": "Chet Holifield Federal Building",
+  "url": "https://en.wikipedia.org/wiki/Chet_Holifield_Federal_Building",
+  "revision": 1376458325,
+  "fetched": "2026-10-20"
+ },
+ "pearl-river-tower": {
+  "paragraphs": [
+   "Pearl River Tower (珠江城大厦) is a 71-story, 309.6 m (1,016 ft), clean technology neofuturistic skyscraper at the junction of Jinsui Road/Zhujiang Avenue West, Tianhe, Guangzhou, China. The tower's architecture and engineering were performed by Skidmore, Owings & Merrill with Adrian D. Smith and Gordon Gill (now at their own firm, AS+GG) as architects. Ground broke on the tower on 8 September 2006 and construction was completed in March 2011. It is intended for office use and is partially occupied by the China National Tobacco Corporation.",
+   "The design of the Pearl River Tower is intended to minimise harm to the environment and it will extract energy from the natural and passive forces surrounding the building. Major accomplishments are the technological integration of form and function in a holistic approach to engineering and architectural design."
+  ],
+  "title": "Pearl River Tower",
+  "url": "https://en.wikipedia.org/wiki/Pearl_River_Tower",
+  "revision": 1344620145,
+  "fetched": "2026-10-20"
+ },
+ "centennial-hall": {
+  "paragraphs": [
+   "The Centennial Hall (Polish: Hala Stulecia [ˈxala stuˈlɛt͡ɕa]); German: Jahrhunderthalle), formerly named People's Hall (Hala Ludowa), is a historic building in Wrocław, Poland. It was constructed according to the plans of architect Max Berg in 1911–1913. Max Berg designed Centennial Hall to serve as a multifunctional structure to host \"exhibitions, concerts, theatrical and opera performances, and sporting events\". The hall continues to be used for sporting events, business summits, and concerts.",
+   "The cupola modeled on the Centennial Hall was made of reinforced concrete, and with an inner diameter of 69 m (226 ft) and height of 42 m (138 ft) it was the largest building of its kind at the time of construction. The symmetrical quatrefoil shape with a large circular central space seats 7,000 persons. The dome itself is 23 m (75 ft) high, made of steel and glass. The Jahrhunderthalle became a key reference for the development of reinforced concrete structures in the 20th century.",
+   "At the centre of the structure a superior dome with lantern is situated. Looking from the inside, there is a clearly visible pattern of the Iron Cross at the top of the dome; for this reason the centre of the structure was shrouded during the Communist era in Poland."
+  ],
+  "title": "Centennial Hall (Wrocław)",
+  "url": "https://en.wikipedia.org/wiki/Centennial_Hall_(Wroc%C5%82aw)",
+  "revision": 1372073767,
+  "fetched": "2026-10-20"
+ },
+ "golden-lane-estate": {
+  "paragraphs": [
+   "The Golden Lane Estate is a 1950s council housing complex in the City of London. It was built on the northern edge of the City, on a site devastated by bombing during the Second World War. Since 1997, the estate has been protected by a grade II status, deemed a site of special architectural interest.",
+   "The maisonette blocks are faced with panels in primary colours (red and blue on maisonette blocks and yellow on the tower block). Bush-hammered concrete occurs less than in the Barbican. However, some of the concrete surfaces which are today painted - for example on the narrow elevations of Great Arthur House - were originally unpainted but later coated when they suffered early on from staining and streaking from iron pyrites in the aggregate.",
+   "Inside, most maisonettes display open-tread cast terrazzo staircases projecting from the party walls as a cantilever. This, and the fact that the bedrooms are suspended, structurally speaking, without supports over the living rooms gives very compact planning with a surprisingly spacious feel to small flats, in spite of the fact that they were built under the severe Government building restrictions of the post-Second World War period. The engineer was Felix Samuely. Some maisonettes retain their hour-glass shaped hot-water radiators, visible in windows."
+  ],
+  "title": "Golden Lane Estate",
+  "url": "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
+  "revision": 1335365857,
+  "fetched": "2026-10-20"
+ },
+ "manila-metropolitan-theater": {
+  "paragraphs": [
+   "The Manila Metropolitan Theater (Filipino: Tanghalang Metropolitan; also known as the Metropolitan Theater; abbreviated as the MET) is a historic Philippine Art Deco building located in Plaza Lawton in Ermita, Manila. It is recognized as the forefront of the Art Deco architectural style in the Philippines.",
+   "The Metropolitan Theater was designed by Filipino architect Juan M. Arellano in the Art Deco style. Arellano was inspired by the phrase \"On Wings of Song\" for the structural configuration of the building: a rectangular-shaped auditorium flanked by pavilions on either side. Throughout the design, Arellano weaved Filipino decorative elements into the Art Deco style. Philippine Magazine editor A.V.H. Hartendorp described the style as \"modern expressionistic.\"",
+   "Designed by architect Juan M. Arellano, the Metropolitan Theater was inaugurated on December 10, 1931. The theater was heavily damaged during the Battle of Manila and subsequently went through several restoration programs of varying levels of success. After its most extensive public restoration efforts, the Metropolitan Theater reopened on December 10, 2021, the 90th anniversary of its inauguration. It is currently under the administration of the National Commission for Culture and the Arts (NCCA).",
+   "In 1976, the Metropolitan Theater was declared a National Historical Landmark by the National Historical Commission of the Philippines (NHCP). In 2010, the National Museum recognized the Met as a National Cultural Treasure."
+  ],
+  "title": "Manila Metropolitan Theater",
+  "url": "https://en.wikipedia.org/wiki/Manila_Metropolitan_Theater",
+  "revision": 1368451937,
+  "fetched": "2026-10-20"
+ },
+ "palacio-barolo": {
+  "paragraphs": [
+   "Palacio Barolo is a landmark office building, located at 1370 Avenida de Mayo, in the neighborhood of Monserrat, Buenos Aires, Argentina. It stood as Buenos Aires' tallest building for more than a decade until the construction of the Kavanagh Building in 1936. Its twin brother, Palacio Salvo, is a building designed and erected in Eclectic style, built by the same architect in Montevideo.",
+   "This building was declared a national historic monument in 1997. Currently, the building has several travel agencies, a Spanish school for foreigners, a store that sells clothes for tango, offices and studios of architects, accountants, lawyers, and designers."
+  ],
+  "title": "Palacio Barolo",
+  "url": "https://en.wikipedia.org/wiki/Palacio_Barolo",
+  "revision": 1375914967,
+  "fetched": "2026-10-20"
+ },
+ "lvmh-tower": {
+  "paragraphs": [
+   "The LVMH Tower is a 24-story high-rise office tower on 57th Street, near Madison Avenue, in Midtown Manhattan, New York City. Designed by Christian de Portzamparc, the building opened in 1999 as the overseas headquarters of Paris-based LVMH Moët Hennessy Louis Vuitton SE. The building has received widespread praise from architecture critics."
+  ],
+  "title": "LVMH Tower",
+  "url": "https://en.wikipedia.org/wiki/LVMH_Tower",
+  "revision": 1372764564,
+  "fetched": "2026-10-20"
+ },
+ "rockefeller-guest-house": {
+  "paragraphs": [
+   "The Rockefeller Guest House is a building at 242 East 52nd Street in the East Midtown and Turtle Bay neighborhoods of Manhattan in New York City. Situated on the southern sidewalk of 52nd Street between Second Avenue and Third Avenue, it was designed by Philip Johnson and completed in 1950. The residence was constructed as a guest house for philanthropist Blanchette Rockefeller, who was married to John D. Rockefeller III. It was the only private residence in New York City that Johnson designed.",
+   "The Rockefeller Guest House, designed by Philip Johnson and completed in 1950, was one of the architect's first designs in New York City, as well as his only design of a residence in the city. When the Rockefeller Guest House was commissioned, Johnson was not yet a licensed architect in New York state, but he was already a noted proponent of the International Style of architecture. Frederick C. Genz, an architect with Johnson's firm, was the associate architect. Murphy-Brinkworth Construction Corp was the general contractor, and the Eipel Engineering Company was the Rockefeller Guest House's structural engineer. Numerous other engineers and contractors were involved in the building's construction."
+  ],
+  "title": "Rockefeller Guest House",
+  "url": "https://en.wikipedia.org/wiki/Rockefeller_Guest_House",
+  "revision": 1354468900,
+  "fetched": "2026-10-20"
+ },
+ "kuala-lumpur-railway-station": {
+  "paragraphs": [
+   "The Kuala Lumpur railway station is a Malaysian railway station located in Kuala Lumpur. Construction began in 1910 and was fully completed in 1917. Replacing an older station on the same site, the station was Kuala Lumpur's railway hub in the city for the Federated Malay States Railways (FMSR) and its successor Keretapi Tanah Melayu (KTM) (English: Malayan Railways), before Kuala Lumpur Sentral station assumed much of its role in 2001. The station is notable for its architecture, adopting a mixture of Eastern and Western designs.",
+   "When originally completed in 1917, the Kuala Lumpur railway station consisted of a main terminal building at the front and three platforms serving four railway tracks at the back.",
+   "The main structure, which contains a main hall, ticket counters, railway offices and the railway hotel, is primarily designed in a \"Raj\" styling, mixture of Western and Mughal similar to Moorish Revival or Indo-Saracenic architecture. Dominated by horseshoe and ogee arches, and large chhatris (six originally, with two added later) at the corners of the building accompanying smaller variations at the front, the station is comparable to its contemporaries like the Sultan Abdul Samad Building, surrounding structures constructed around the Merdeka Square and the Railway Administration Building directly across the street."
+  ],
+  "title": "Kuala Lumpur railway station",
+  "url": "https://en.wikipedia.org/wiki/Kuala_Lumpur_railway_station",
+  "revision": 1379444062,
+  "fetched": "2026-10-20"
+ },
+ "polin-museum-of-the-history-of-polish-jews": {
+  "paragraphs": [
+   "POLIN Museum of the History of Polish Jews (Polish: Muzeum Historii Żydów Polskich) is a museum dedicated to preserving and recalling the memory of the history of Jews in Poland. The museum is located on the site of the former Warsaw Ghetto. The Hebrew word Polin in the museum's English name means either \"Poland\" or \"rest here\" and relates to a legend about the arrival of the first Jews to Poland. Construction of the museum in designated land in Muranów, Warsaw's prewar Jewish quarter, began in 2009, following an international architectural competition won by Finnish architects Rainer Mahlamäki and Ilmari Lahdelma.",
+   "Completed at a cost of 320 million zł, the museum opened on 19 April 2013 with the core exhibition, showcasing the thousand-year history of Polish Jews, opening on 28 October 2014. The museum's architecture features a minimalist exterior with glass fins and copper mesh, and an interior designed by Event Communications. A central feature is the cavernous entrance hall, symbolizing the fractured history of Polish Jews. The organizational structure of POLIN includes an academic team led by Barbara Kirshenblatt-Gimblett and chief historian Antony Polonsky."
+  ],
+  "title": "POLIN Museum of the History of Polish Jews",
+  "url": "https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews",
+  "revision": 1368871294,
+  "fetched": "2026-10-20"
+ },
+ "artscience-museum": {
+  "paragraphs": [
+   "The ArtScience Museum is a museum within the integrated resort of Marina Bay Sands in the Downtown Core of the Central Area in Singapore. Opened on 17 February 2011 by Singapore's prime minister, Lee Hsien Loong, it features exhibitions that blend art, science, culture and technology. It is the largest private museum in Singapore.",
+   "The architecture is said to be a form reminiscent of a lotus flower. It was designed by Moshe Safdie and features an exterior made of fibre-reinforced plastic supported internally by a steel lattice.",
+   "Referred to as \"The Welcoming Hand of Singapore\" by Las Vegas Sands chairman Sheldon Adelson, the ArtScience Museum is anchored by a round base in the middle, with ten extensions referred to as \"fingers\" in the shape of a flower. The design concept for each finger denotes various gallery spaces sporting skylights at the \"fingertips\", which are included as sustainable illumination for the curved interior walls.",
+   "The museum mainly hosts touring exhibitions curated by other museums, in addition to a permanent exhibition created in conjunction with art collective teamLab."
+  ],
+  "title": "ArtScience Museum",
+  "url": "https://en.wikipedia.org/wiki/ArtScience_Museum",
+  "revision": 1377874899,
+  "fetched": "2026-10-20"
+ },
+ "dallas-museum-of-art": {
+  "paragraphs": [
+   "The Dallas Museum of Art (DMA) is an art museum located in the Arts District of downtown Dallas, Texas, along Woodall Rodgers Freeway between St. Paul and Harwood. In the 1970s, the museum moved from its previous location in Fair Park to the Arts District. The new building was designed by Edward Larrabee Barnes and John MY Lee Associates, the 2007 winner of the American Institute of Architects Gold Medal. The construction of the building spanned in stages over a decade.",
+   "The museum collection is made up of more than 24,000 objects, dating from the third millennium BC to the present day. It is known for its dynamic exhibition policy and educational programs. The Mildred R. and Frederick M. Mayer Library (the museum's non-circulating research library) contains over 50,000 volumes available to curators and the general public. With 159,000 square feet (14,800 m2) of exhibition spaces, it is one of the largest art museums in the United States."
+  ],
+  "title": "Dallas Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Dallas_Museum_of_Art",
+  "revision": 1380583097,
+  "fetched": "2026-10-20"
+ },
+ "anna-centenary-library": {
+  "paragraphs": [
+   "The Anna Centenary Library (ACL) is an established state library of the Government of Tamil Nadu. It is located at Kotturpuram, Chennai. It is built at a cost of ₹172 crores (₹1,720 million). It is named after a former chief minister of Tamil Nadu, C. N. Annadurai. It was opened by the then Chief Minister of Tamil Nadu M. Karunanidhi. The average number of persons who visited the library between January and October 2011 is around 26,500, compared to the monthly average of 20,000 in 2010."
+  ],
+  "title": "Anna Centenary Library",
+  "url": "https://en.wikipedia.org/wiki/Anna_Centenary_Library",
+  "revision": 1376809245,
+  "fetched": "2026-10-20"
+ },
+ "kavanagh-building": {
+  "paragraphs": [
+   "The Kavanagh Building (Spanish: Edificio Kavanagh) is a residential skyscraper in Retiro, Buenos Aires, Argentina. Designed in 1934 by architects Gregorio Sánchez, Ernesto Lagos and Luis María de la Torre, it is considered a pinnacle of modernist architecture. At the time of its inauguration in 1936, the Kavanagh was the tallest building in Latin America surpassing the Palacio Salvo built in Montevideo, Uruguay in 1928, as well as the tallest building in the world with a reinforced concrete structure.",
+   "The Kavanagh Building is considered a leading example of International Style architecture, known locally as rationalism or modern movement. The building is sometimes classified as Art Deco due to the similarity of both styles. La Nación's Fabio Grementieri called it a \"masterful synthesis of rationalism and Art Deco, of renewal and tradition, of Paris and New York.\" Rationalism was introduced in Buenos Aires by intellectual Victoria Ocampo with the modernist house she commissioned from architect Alejandro Bustillo, built in Barrio Parque in 1929 and characterized by \"simple cubic shapes, white walls and neat proportions\". Its contrast with the Belle Époque-style houses of the rest of the neighborhood, popular among the city's upper classes, led to critical reviews. Nevertheless, Ocampo's house proved to be very influential as the rationalist style gained popularity during the 1930s."
+  ],
+  "title": "Kavanagh Building",
+  "url": "https://en.wikipedia.org/wiki/Kavanagh_Building",
+  "revision": 1344685627,
+  "fetched": "2026-10-20"
+ },
+ "mark-taper-forum": {
+  "paragraphs": [
+   "The Mark Taper Forum is a 739-seat thrust stage at the Los Angeles Music Center designed by Welton Becket and Associates on the Bunker Hill section of downtown Los Angeles. Named for real estate developer Mark Taper, the Forum, the neighboring Ahmanson Theatre and the Kirk Douglas Theatre are all operated by the Center Theatre Group."
+  ],
+  "title": "Mark Taper Forum",
+  "url": "https://en.wikipedia.org/wiki/Mark_Taper_Forum",
+  "revision": 1372084172,
+  "fetched": "2026-10-20"
+ },
+ "municipal-house-obecni-dum": {
+  "paragraphs": [
+   "Municipal House (Czech: Obecní dům) is a civic building that houses Smetana Hall, a celebrated concert venue, in Prague, Czech Republic. It is located on Náměstí Republiky next to the Powder Gate in the centre of the city."
+  ],
+  "title": "Municipal House",
+  "url": "https://en.wikipedia.org/wiki/Municipal_House",
+  "revision": 1364544012,
+  "fetched": "2026-10-20"
+ },
+ "kentuck-knob": {
+  "paragraphs": [
+   "Kentuck Knob (also known as the Hagan House) is a house in Stewart Township within Fayette County, Pennsylvania, United States. Designed by the architect Frank Lloyd Wright in the Usonian style, the residence was built for Isaac Newton \"I. N.\" Hagan, the owner of a local ice-cream firm, along with his wife, Bernardine. It is built on the southern slope of a knoll known as Kentuck Knob, overlooking the Youghiogheny River gorge. The name of the house and knoll is derived from Little Kentuck, a hill in Fayette County named by an 18th-century settler who was planning to move to Kentucky. The house is a designated National Historic Landmark.",
+   "Kentuck Knob is a single-story dwelling with three bedrooms. The building is one of Wright's few remaining higher-end Usonian houses, as well as an example of Wright's later Usonian work. The design includes elements of organic architecture. Wright made extensive use of stone, a material that he described as creating inspiring \"marvels of beauty\"; Kentuck Knob may incorporate around 800 short tons (710 long tons; 730 t) of stone. Most of the stone for the house came from the estate itself, though the floors use stone from Maryland."
+  ],
+  "title": "Kentuck Knob",
+  "url": "https://en.wikipedia.org/wiki/Kentuck_Knob",
+  "revision": 1379725197,
+  "fetched": "2026-10-20"
+ },
+ "leeum-samsung-museum-of-art": {
+  "paragraphs": [
+   "The Leeum Museum of Art (Korean: 리움미술관) is a museum in Hannam-dong, Yongsan District, Seoul, South Korea. It is run by the Samsung Foundation of Culture. It is considered one of South Korea's top three private art museums.",
+   "The museum consists of two parts, one of which houses traditional Korean art, the other contemporary art. The first part of the museum was designed by Swiss architect Mario Botta and the second part of the museum by French architect Jean Nouvel and Dutch architect Rem Koolhaas."
+  ],
+  "title": "Leeum Museum of Art",
+  "url": "https://en.wikipedia.org/wiki/Leeum_Museum_of_Art",
+  "revision": 1364538273,
+  "fetched": "2026-10-20"
+ },
+ "manila-central-post-office": {
+  "paragraphs": [
+   "The Manila Central Post Office, often referred to as the Post Office Building, is the central post office of Manila and serves as the headquarters of the Philippine Postal Corporation (PHLPost). It also houses the country's primary mail sorting and distribution operations.",
+   "The Manila Post Office was strategically located by Daniel Burnham at the foot of Jones Bridge because of two reasons. First was that the Pasig River could be used conveniently as an easy route for delivering mail and secondly, the post office could be accessible from all sides including Quiapo, Binondo, Malate, and Ermita.",
+   "Considered to be Juan Arellano's magnum opus, it was designed in the neoclassical style that expressed order and balance. The costs of its construction was worth one million pesos. Fronting the huge, rectangular volume are the 16 Ionic pillars that are lined up above the steps just before entering the lobby. The main body of the building is capped by a recessed rectangular attic storey and flanked and buttressed by two semi-circular wings. Inside, the main lobby has subsidiary halls at each end housed under the semi-circular spaces roofed with domes."
+  ],
+  "title": "Manila Central Post Office",
+  "url": "https://en.wikipedia.org/wiki/Manila_Central_Post_Office",
+  "revision": 1362313129,
+  "fetched": "2026-10-20"
+ },
+ "vitra-design-museum": {
+  "paragraphs": [
+   "The Vitra Design Museum is a privately owned museum for design in Weil am Rhein, Germany, near Basel, Switzerland. The museum building is by Frank Gehry.",
+   "Former Vitra CEO, and son of Vitra founders Willi and Erika Fehlbaum, Rolf Fehlbaum founded the museum in 1989 as an independent private foundation. The Vitra corporation provides it with a financial subsidy, the use of Vitra architecture, and organizational cooperation."
+  ],
+  "title": "Vitra Design Museum",
+  "url": "https://en.wikipedia.org/wiki/Vitra_Design_Museum",
+  "revision": 1374839385,
+  "fetched": "2026-10-20"
+ },
+ "hill-of-the-buddha": {
+  "paragraphs": [
+   "The Hill of the Buddha (Japanese: 頭大仏, Hepburn: Atama Daibutsu; \"Large Buddha's Head\") is a Buddhist shrine at Makomanai Takino Cemetery (Japanese: 真駒内滝野霊園) in Sapporo, Japan, designed by Japanese modernist architect Tadao Ando. The shrine features a 13.5 m (44 ft) tall statue of the Buddha encircled by an artificial hill rotunda planted with 150,000 lavender plants.",
+   "The design incorporated the pre-existing Buddha statue, which was sculpted circa 2000 and stood solitary. On approaching the statue, only the head sticks out from the hill, and the shrine is entered through a tunnel for a full view of the statue inside of the open rotunda. The building opened in December 2015."
+  ],
+  "title": "Hill of the Buddha",
+  "url": "https://en.wikipedia.org/wiki/Hill_of_the_Buddha",
+  "revision": 1261525958,
+  "fetched": "2026-10-20"
+ },
+ "the-glasshouse": {
+  "paragraphs": [
+   "The Glasshouse is an international centre for musical education and concerts on the Gateshead bank of Quayside in northern England. Opened in 2004 as Sage Gateshead, still known locally by that name and occupied by North Music Trust, the venue's original name honours a patron: the accountancy software company The Sage Group.",
+   "The centre occupies a curved glass and stainless steel building designed by Foster + Partners, Buro Happold (structural engineering), Mott MacDonald (engineering consultants) and Arup (acoustics), with views of Newcastle and Gateshead Quaysides, the Tyne Bridge and the Gateshead Millennium Bridge.",
+   "The Glasshouse contains three performance spaces; a 1,700-seater, a 450-seater, and a smaller rehearsal and performance hall, the Northern Rock Foundation Hall. The rest of the building was designed around these three spaces to allow for maximum attention to detail in their acoustic properties. Structurally it is three separate buildings, insulated from each other to prevent noise and vibration travelling between them. The gaps between them may be seen as one walks around inside. A special 'spongy' concrete mix was used in the construction, with a higher-than-usual air capacity to improve the acoustic. These three buildings are enclosed (but not touched) by the now-famous glass and steel shell. Sage One was intended as an acoustically perfect space, modelled on the Musikverein in Vienna."
+  ],
+  "title": "The Glasshouse, Gateshead",
+  "url": "https://en.wikipedia.org/wiki/The_Glasshouse,_Gateshead",
+  "revision": 1378055274,
+  "fetched": "2026-10-20"
+ },
+ "edo-tokyo-museum": {
+  "paragraphs": [
+   "The Edo-Tokyo Museum (江戸東京博物館, Edo Tōkyō Hakubutsukan) is a historical museum located at 1-4-1 Yokoami, Sumida-Ku, Tokyo in the Ryogoku district. The museum opened in March 1993 to preserve Edo's cultural heritage, and features city models of Edo and Tokyo between 1590 (just prior to the Edo period beginning) and 1964. It was the first museum built dedicated to the history of Tokyo. Some main features of the permanent exhibitions are the life-size replica of the Nihonbashi, which was the bridge leading into Edo; scale models of towns and buildings across the Edo, Meiji, and Shōwa periods; and the Nakamura-za theatre.",
+   "Designed by Kiyonori Kikutake, the building is 62.2 meters tall and covers 30,000 square meters. The concrete exterior is designed based on a traditional rice storehouse (takayuka-shiki style) and is the same height as the Edo Castle. Kikutake claimed that the building \"crystallizes Japanese culture in built form,\" concerning the structure's traditional references but contemporary execution. There are eight floors, one below ground and seven elevated off the ground by four columns, with an open air plaza at ground level. The first floor has a museum shop, restaurants, and a ticket counter. The primary entrance is on the third floor, reached by a bright red escalator from the plaza."
+  ],
+  "title": "Edo-Tokyo Museum",
+  "url": "https://en.wikipedia.org/wiki/Edo-Tokyo_Museum",
+  "revision": 1377476190,
+  "fetched": "2026-10-20"
+ },
+ "harry-and-penelope-seidler-house": {
+  "paragraphs": [
+   "The Harry and Penelope Seidler House is a heritage-listed modernist house located at 13 Kalang Avenue in the Sydney suburb of Killara, Australia. It was designed by architects Penelope and Harry Seidler and Harry Seidler & Associates, and built from 1966 to 1967 by Peter Cussel. It was added to the New South Wales State Heritage Register on 20 June 2008.",
+   "Architects: Harry and Penelope Seidler, Harry Seidler & Associates"
+  ],
+  "title": "Harry and Penelope Seidler House",
+  "url": "https://en.wikipedia.org/wiki/Harry_and_Penelope_Seidler_House",
+  "revision": 1376234959,
+  "fetched": "2026-10-20"
+ },
+ "reliance-building": {
+  "paragraphs": [
+   "The Reliance Building is a skyscraper at 1 West Washington Street in the Loop community area of Chicago, Illinois. The first floor and basement were designed by John Root of the Burnham and Root architectural firm in 1890, while the rest of the building was completed by Charles B. Atwood in 1895. It is the first skyscraper to have large plate glass windows covering the majority of its surface area—a design feature that became dominant in the 20th century. The building fell into disrepair starting in the 1940s, and was restored in the late 1990s. Since 1999, the building has housed the 122-room Staypineapple, An Iconic Hotel, The Loop (formerly the Hotel Burnham) and Atwood Cafe.",
+   "The addition of the remaining floors in 1894–1895 completed the building and marked the \"first comprehensive achievement\" of the Chicago construction method. The building's plate-glass windows are set within the terra-cotta-tiled facade. Its steel-frame superstructure is built atop concrete caissons sunk as much as 125 feet beneath the footing."
+  ],
+  "title": "Reliance Building",
+  "url": "https://en.wikipedia.org/wiki/Reliance_Building",
+  "revision": 1379238909,
+  "fetched": "2026-10-20"
+ },
+ "tokyo-international-forum": {
+  "paragraphs": [
+   "The Tokyo International Forum (東京国際フォーラム, Tōkyō Kokusai Fōramu) is a multi-purpose exhibition center in Tokyo, Japan. The complex is generally considered to be in the Yūrakuchō business district, being adjacent to Yūrakuchō Station, but it is administratively in the Marunouchi district.",
+   "Tokyo International Forum was built on the site of the Old City Hall, the former government headquarters which was relocated to the Tokyo Metropolitan Government Building in Nishi-Shinjuku."
+  ],
+  "title": "Tokyo International Forum",
+  "url": "https://en.wikipedia.org/wiki/Tokyo_International_Forum",
+  "revision": 1373889193,
+  "fetched": "2026-10-20"
+ },
+ "stuttgart-tv-tower": {
+  "paragraphs": [
+   "Fernsehturm Stuttgart (English: SWR TV Tower Stuttgart) is a 216.61 m (710.7 ft) telecommunications tower in Stuttgart, Germany. It was the world's first telecommunications tower constructed from reinforced concrete, and is thus the original modernist architecture highrise needle tower with a \"basket\" atop that would be built worldwide in the following years. Although controversial at first, it quickly became a well known landmark of Stuttgart and a tourist attraction."
+  ],
+  "title": "Fernsehturm Stuttgart",
+  "url": "https://en.wikipedia.org/wiki/Fernsehturm_Stuttgart",
+  "revision": 1370861698,
+  "fetched": "2026-10-20"
+ },
+ "mjostarnet": {
+  "paragraphs": [
+   "Mjøstårnet (Norwegian for the tower of Mjøsa) is an 18-storey mixed-use building in Brumunddal, Norway, completed in March 2019. At the time of completion, it was officially the world's tallest wooden building, at 85.4 m (280 ft) tall, before being surpassed by Ascent MKE in August 2022. The building is named after Norway's biggest lake, which is 100 km away from Oslo.",
+   "Mjøstårnet was designed by Norwegian studio Voll Arkitekter for AB Invest. Timber structures were installed by Norwegian firm Moelven Limtre, including load-bearing structures in glued laminated timber. Cross laminated timber were used for stairwells, elevator shafts and balconies.",
+   "As the main vertical/lateral structural elements and the floor spanning systems of Mjøstårnet are constructed from timber, the building is considered an all-timber structure. An all-timber structure may include the use of localized non-timber connections between timber elements. It may also include non-timber floors as long as the decks are supported by a primary structure made in timber (resting on timber beams). In Mjøstårnet, concrete slabs were used on the top seven floors in order to handle comfort criteria and acoustics."
+  ],
+  "title": "Mjøstårnet",
+  "url": "https://en.wikipedia.org/wiki/Mj%C3%B8st%C3%A5rnet",
+  "revision": 1310388006,
+  "fetched": "2026-10-20"
+ },
+ "hanoi-opera-house": {
+  "paragraphs": [
+   "The Hanoi Opera House (French: Opéra de Hanoï), or the Grand Opera House (French: Grand Opéra, Vietnamese: Nhà hát Lớn Hà Nội) is an opera house in central Hanoi, Vietnam. It is located at August Revolution Square, anchoring the head of Tràng Tiền street.",
+   "One of Hanoi's most prominent architectural landmarks, the Hanoi Opera House was modeled on the Palais Garnier, the older of Paris's two opera houses, but with a smaller scale and using materials that are more suitable to the local environment. Built in the Neoclassical style with French Renaissance elements, the design was initially conceived by French architect Broyer and Chief Inspector of Public Buildings Victorin Harlay, and later fully realized by French architect François Lagisquet in collaboration with Harlay. Construction started in June 1901 and finished a decade later in December 1911.",
+   "A source of great municipal pride, the theater became the heart of French cultural life in Hanoi. The colonial government subsidized an opera company to sing each winter for local French residents, at the cost of the native taxpayer. However, the 870-seat theater stood mostly empty for the rest of the year, with only the occasional military band or touring soloist making brief appearances."
+  ],
+  "title": "Hanoi Opera House",
+  "url": "https://en.wikipedia.org/wiki/Hanoi_Opera_House",
+  "revision": 1365902680,
+  "fetched": "2026-10-20"
+ },
+ "2-willow-road": {
+  "paragraphs": [
+   "2 Willow Road is part of a terrace of three houses in Hampstead, London designed by architect Ernő Goldfinger and completed in 1939. It has been managed by the National Trust since 1995 and is open to the public. It was one of the first Modernist buildings acquired by the Trust, giving rise to some controversy. Goldfinger lived there with his wife Ursula and their children until his death in 1987."
+  ],
+  "title": "2 Willow Road",
+  "url": "https://en.wikipedia.org/wiki/2_Willow_Road",
+  "revision": 1373843174,
+  "fetched": "2026-10-20"
+ },
+ "virasat-e-khalsa": {
+  "paragraphs": [
+   "Virasat-e-Khalsa, also known as the Khalsa Heritage Complex, is a mega-museum complex of Sikhism, located in the town of Anandpur Sahib, and is close to the Takht Kesgarh Sahib, located in the state of Punjab, India. The museum celebrates 500 years of Sikh history and the 300th anniversary of the birth of Khalsa, based on the scriptures written by the tenth and last of Sikhism's gurus, Guru Gobind Singh. Tourists and pilgrims visit. It is the most visited Sikh museum.",
+   "The buildings are constructed of poured-in-place concrete; some beams and columns remain exposed, though a great deal of the structures will be clad in a local honey-colored stone. The rooftops are stainless steel-clad and exhibit a double curvature: they gather and reflect the sky while a series of dams in the ravine create pools that reflect the entire complex at night. The smaller western complex includes an entrance plaza, an auditorium with 400 seating-capacity, two-story research and reference library, and changing exhibition galleries."
+  ],
+  "title": "Virasat-e-Khalsa",
+  "url": "https://en.wikipedia.org/wiki/Virasat-e-Khalsa",
+  "revision": 1363274328,
+  "fetched": "2026-10-20"
+ },
+ "hundertwasser-toilets": {
+  "paragraphs": [
+   "The Hundertwasser Toilets is a public toilet located at 60 Gillies Street, the main street of the town of Kawakawa in northern New Zealand. The structure was completed in 1999 and named after the architect and visual artist Friedensreich Hundertwasser, who conceived and designed the project. It is one of the few toilet blocks worldwide seen both as an international work of art and a tourist attraction in its own right.",
+   "The toilet facility was designed by the reclusive Austrian and New Zealand artist Friedensreich Hundertwasser, who lived near Kawakawa from 1975 until his death in 2000, aged 71. The decorative toilet block is the only project designed by Hundertwasser in the Southern Hemisphere and the last project completed within the artist's lifetime. The style is typical Hundertwasser, with wavy lines, irregular ceramic tiles, integrated small sculptures, coloured glass and a live tree incorporated into the architecture."
+  ],
+  "title": "Hundertwasser Toilets",
+  "url": "https://en.wikipedia.org/wiki/Hundertwasser_Toilets",
+  "revision": 1323009992,
+  "fetched": "2026-10-20"
+ },
+ "willow-tearooms": {
+  "paragraphs": [
+   "The Willow Tearooms are tearooms at 217 Sauchiehall Street, Glasgow, Scotland, designed by internationally renowned architect Charles Rennie Mackintosh, which opened for business in October 1903. They quickly gained enormous popularity, and are the most famous of the many Glasgow tearooms that opened in the late 19th and early 20th century. The building was fully restored, largely to Mackintosh's original designs, between 2014 and 2018. It re-opened as working tearooms in July 2018 and traded under the name \"Mackintosh at The Willow\" until February 2026 when it was renamed again to \"The Mackintosh Tearooms\".",
+   "The name was changed following a 2017 trademark dispute with the former operator of 'The Willow Tearooms'. That name brand is now used at tearoom premises in Buchanan Street, Glasgow and, since 2024 at a venue in Princes St, Edinburgh. The name was additionally used at the Watt Brothers Department Store in Sauchiehall Street, Glasgow between 2016 and its closure in 2019."
+  ],
+  "title": "Willow Tearooms",
+  "url": "https://en.wikipedia.org/wiki/Willow_Tearooms",
+  "revision": 1379275087,
+  "fetched": "2026-10-20"
+ },
+ "national-palace-of-culture": {
+  "paragraphs": [
+   "The National Palace of Culture (Национален дворец на културата, Natsionalen dvorets na kulturata; abbreviated as НДК, NDK) is a multifunctional conference and cultural centre in Sofia, the capital of Bulgaria. It was opened on 31 March 1981 in celebration of the 1300th anniversary of the Bulgarian state.",
+   "The centre was initiated at the suggestion of Lyudmila Zhivkova, daughter of the communist leader of the former People's Republic of Bulgaria Todor Zhivkov. The project was designed by a team of Bulgarian and foreign architects led by Alexander Georgiev Barov (1931–1999), together with Ivan Kanazirev. The landscaping of Bulgaria Square in front of the National Palace of Culture was designed by a team led by Atanas Agura.",
+   "Internally, the building exhibits a unified visual style, employing geometric motifs, dark colours, monumental murals, mosaics, sculptures, woodcarvings and metal works created by Bulgarian artists of the second half of the twentieth century.",
+   "During the 1990s, after the political changes in Bulgaria, the NDK lost a significant portion of its property, including infrastructure, commercial areas and car parks. Since 2011, the NDK has been restructured as a commercial company, while remaining state property.",
+   "In July 2005, the National Palace of Culture was proclaimed the best congress centre in the world for the year by the International Association of Congress Centres."
+  ],
+  "title": "National Palace of Culture",
+  "url": "https://en.wikipedia.org/wiki/National_Palace_of_Culture",
+  "revision": 1380565499,
+  "fetched": "2026-10-20"
+ },
+ "kocatepe-mosque": {
+  "paragraphs": [
+   "The Kocatepe Mosque (Turkish: Kocatepe Camii) is the largest mosque in Ankara, Turkey. It was built between 1967 and 1987 in the Kocatepe quarter in Kızılay, and its size and prominent situation have made it a landmark that can be seen from almost anywhere in central Ankara.",
+   "The accepted project was an innovative and modern design. The construction started, but due to heavy critique from conservatives for its modernist look, the construction was stopped at the foundation level. Vedat Dalokay later built a modified version of the Kocatepe Mosque after winning an international competition for the Shah Faisal Mosque in Islamabad, Pakistan in 1969. This mosque, which can accommodate 24,000 worshippers, is one of the largest mosques in the world, and accepted by many as the frontiers of modern Islamic architecture.",
+   "After a third architectural competition in 1967, a more conservative design by Hüsrev Tayla and M. Fatin Uluengin was chosen. It was completed in 1987, and was built in a neo-classical Ottoman architecture style. It was inspired by the Selimiye Mosque in Edirne, as well as the Shehzade and Sultan Ahmet mosques in Istanbul, which in turn, were influenced by the Eastern Roman architecture of the Hagia Sophia."
+  ],
+  "title": "Kocatepe Mosque",
+  "url": "https://en.wikipedia.org/wiki/Kocatepe_Mosque",
+  "revision": 1367245625,
+  "fetched": "2026-10-20"
+ },
+ "national-library-of-kosovo": {
+  "paragraphs": [
+   "The National Library of Kosovo (Albanian: Biblioteka Kombëtare e Kosovës; Serbian: Народна библиотека Косова, romanized: Narodna biblioteka Kosova) is the highest library institution in Kosovo established by the Assembly and is located in Pristina.",
+   "The mission of the library is to collect, preserve, promote and make accessible the documentary and intellectual heritage of Kosovo. It holds exhibitions and holds an archive of national newspapers. The library also provides a number of other services. It is known for its unique history, and the style of the building designed by the Croatian architect Andrija Mutnjaković, followed by controversies about the outside appearance of it. It was ranked in the top ten ugliest buildings in the world by VirtualTourist."
+  ],
+  "title": "National Library of Kosovo",
+  "url": "https://en.wikipedia.org/wiki/National_Library_of_Kosovo",
+  "revision": 1377008478,
+  "fetched": "2026-10-20"
+ },
+ "hall-of-nations": {
+  "paragraphs": [
+   "The Hall of Nations was an exhibition hall inaugurated in 1972 as part of the Pragati Maidan complex in New Delhi, India. It was built to commemorate 25 years of Indian independence.",
+   "Inaugurated by then-Prime Minister Indira Gandhi for the India International Trade Fair called Asia 72, it was the world’s first and, at the time, the largest-span space-frame structure built in reinforced concrete. The Hall of Nations comprised a group of four halls of varying sizes, interconnected by a system of ramps. They were designed by architect Raj Rewal, who was later bestowed with a gold medal by the Indian Institute of Architects in 1989.",
+   "In 2017, the Hall of Nations was demolished, along with Halls 1 through 6 and 14 through 20, state pavilions, and neighbouring landmarks such as the Hall of Industries and the Nehru Pavilion, to make way for a new exhibition and convention center. This new complex, named Bharat Mandapam, stands on the site of the former Hall of Nations."
+  ],
+  "title": "Hall of Nations",
+  "url": "https://en.wikipedia.org/wiki/Hall_of_Nations",
+  "revision": 1376256923,
+  "fetched": "2026-10-20"
+ },
+ "pirelli-tower": {
+  "paragraphs": [
+   "Pirelli Tower (Italian: Grattacielo Pirelli – also nicknamed Pirellone, literally 'Big Pirelli') is a 32-storey, 127 m (417 ft) skyscraper in Milan, Italy. The base of the building is 1,900 m2 (20,000 sq ft), with a length of 75.5 m (248 ft) and a width of 20.5 m (67 ft). The construction used approximately 30,000 m3 (1,100,000 cu ft) of concrete. The building weighs close to 70,000 t (69,000 long tons; 77,000 short tons) with a volume of 125,324 m3 (4,425,800 cu ft).",
+   "Characterized by a structural skeleton, curtain wall façades and tapered sides, it was among the first skyscrapers to abandon the customary block form. After its completion it was the tallest building in Italy until 1961, when the restoration of the Mole Antonelliana's pinnacle was done. The architectural historian Hasan-Uddin Khan praised it as \"one of the most elegant tall buildings in the world\" and as one of the \"few tall European buildings [that made] statements that added to the vocabulary of the skyscraper\".",
+   "The building inspired the Pan Am Building (now MetLife Building) in New York, the National Mutual West Plaza in Auckland and the Banco Sabadell Tower in Barcelona."
+  ],
+  "title": "Pirelli Tower",
+  "url": "https://en.wikipedia.org/wiki/Pirelli_Tower",
+  "revision": 1375677474,
+  "fetched": "2026-10-20"
+ },
+ "weissenhof-estate": {
+  "paragraphs": [
+   "The Weissenhof Estate is a housing estate built for the 1927 Deutscher Werkbund exhibition in Stuttgart, Germany. It was an international showcase of modern architecture's aspiration to provide inexpensive, simple, efficient, and good-quality housing.",
+   "Two buildings designed by Le Corbusier were designated a World Heritage Site in 2016 as part of The Architectural Work of Le Corbusier, an Outstanding Contribution to the Modern Movement. The remainder of the estate, and some adjacent streets and buildings, are a part of the site's buffer zone."
+  ],
+  "title": "Weissenhof Estate",
+  "url": "https://en.wikipedia.org/wiki/Weissenhof_Estate",
+  "revision": 1366157495,
+  "fetched": "2026-10-20"
+ },
+ "paimio-sanatorium": {
+  "paragraphs": [
+   "Paimio Sanatorium (Finnish: Paimion parantola; Swedish: Pemars sanatorium) is a former tuberculosis sanatorium in Paimio, Southwest Finland, designed by Finnish architects Alvar and Aino Aalto. The Aaltos won the architectural competition for the project in 1929, and the building was completed in 1933. It soon received critical acclaim both in Finland and abroad and became one of the best-known works of Finnish modernist architecture.",
+   "The Aaltos' starting point for the design was to make the building itself a contributor to the healing process. Alvar Aalto described the building as a \"medical instrument\". The design therefore paid unusual attention to the physical and psychological comfort of patients.",
+   "Patient bedrooms were designed to minimise disturbance and provide access to light and fresh air. Rooms generally accommodated two patients, with individual cupboards and washbasins. The washbasins were specially shaped to reduce noise when in use. Lighting was positioned so that patients lying in bed would not have a lamp directly in their field of vision, while the ceilings were painted a muted greyish-green to reduce glare.",
+   "The patient rooms also contained specially designed cupboards fixed to the walls and raised above the floor, making it easier to clean beneath them. These details demonstrate the Aaltos' approach of treating furniture, fittings and architecture as parts of a single design problem."
+  ],
+  "title": "Paimio Sanatorium",
+  "url": "https://en.wikipedia.org/wiki/Paimio_Sanatorium",
+  "revision": 1375839117,
+  "fetched": "2026-10-20"
+ },
+ "palace-of-culture-iasi": {
+  "paragraphs": [
+   "The Palace of Culture (Romanian: Palatul Culturii) is an edifice located in Iași, Romania. The building served as the Administrative and Justice Palace until 1955, when its designation and use was changed, and assigned to the four museums nowadays united under the name of Moldavia National Museum Complex. Also, the building houses the Cultural Heritage Conservation-Restoration Centre, and hosts various exhibitions and other events.",
+   "The Palace has 298 large rooms with a total area of 34,236 m2 (368,510 sq ft), 92 windows in the front part of the building and another 36 inside the building.",
+   "Decoratively, the central hall shows a figurative mosaic including various representations of a gothic bestiary, concentrically arranged: two-headed eagles, dragons, griffons, lions. The hall is superposed by a glass ceiling room, where initially a greenhouse was arranged."
+  ],
+  "title": "Palace of Culture (Iași)",
+  "url": "https://en.wikipedia.org/wiki/Palace_of_Culture_(Ia%C8%99i)",
+  "revision": 1344895442,
+  "fetched": "2026-10-20"
+ },
+ "beijing-railway-station": {
+  "paragraphs": [
+   "Beijing railway station is a passenger railway station in Dongcheng District, Beijing. The station is located just southeast of the city centre inside the Second Ring Road with Beijing Station Street to the north and the remnants of the city wall between Chongwenmen and Dongbianmen to the south. The Beijing railway station opened in 1959 and was the largest train station in China at the time. Though superseded by the larger Beijing West and Beijing South stations, this station remains the only one located inside the old walled city. Trains entering and leaving the station pass by the Dongbianmen corner tower. With gilded eaves and soaring clock towers, the architecture of the railway blends traditional Chinese and socialist realist influence.",
+   "To commemorate the Tenth Anniversary of the founding of the People's Republic of China, the Central Committee of the Chinese Communist Party in 1958 began the planning and construction of ten large-scale projects, known as the \"Ten Great Buildings\" to showcase the new outlook of the country and the Beijing railway station was amongst the projects undertaken."
+  ],
+  "title": "Beijing railway station",
+  "url": "https://en.wikipedia.org/wiki/Beijing_railway_station",
+  "revision": 1370806415,
+  "fetched": "2026-10-20"
+ },
+ "capitolio-de-puerto-rico": {
+  "paragraphs": [
+   "The Capitol of Puerto Rico (Spanish: Capitolio de Puerto Rico), most commonly known as El Capitolio (The Capitol), is the seat of the Legislative Assembly of Puerto Rico, a bicameral legislature composed of a Senate and a House of Representatives, responsible for the legislative branch of the government in the archipelago and island. Located in San Juan Islet, immediately outside the city walls of the Old San Juan historic quarter in the capital city and municipality of San Juan, the ocean and bayfront, white marble-cladded edifice was built in the Neoclassical Beaux-Arts style between 1921 and 1929. Architect Rafael Carmoega designed the building to resemble the Pantheon in Rome, using as inspiration the Low Memorial Library in New York City. It is part of the U.S. National Register of Historic Places since 1977."
+  ],
+  "title": "Capitol of Puerto Rico",
+  "url": "https://en.wikipedia.org/wiki/Capitol_of_Puerto_Rico",
+  "revision": 1381149919,
+  "fetched": "2026-10-20"
+ },
+ "manila-city-hall": {
+  "paragraphs": [
+   "The Manila City Hall (Filipino: Bulwagan ng Lungsod ng Maynila) is the official seat of government of the City of Manila, located in the historic center of Ermita, Manila. It is where the Mayor of Manila holds office and the chambers of the Manila City Council is located. It was originally intended to be a part of a national government center envisioned by Daniel H. Burnham in the 1900s. Although the dream plan was not fully implemented, some buildings for the proposed government center were constructed, including the Old Legislative Building (now the National Museum of Fine Arts), and the Agriculture and Finance Buildings (presently the National Museum of Anthropology and National Museum of Natural History).",
+   "Antonio Manalac Toledo was the architect responsible for the design of the current Manila City Hall which exhibits a Neoclassical style. Juan M. Arellano's design, which had an Art Deco style, was supposed to be used for the city hall but Juan Arellano quit the project and was replaced by Antonio Manalac Toledo. Shortly after its construction, the city hall had a floor area of 8,422 square meters (90,650 sq ft) and had around 200 rooms."
+  ],
+  "title": "Manila City Hall",
+  "url": "https://en.wikipedia.org/wiki/Manila_City_Hall",
+  "revision": 1358051179,
+  "fetched": "2026-10-20"
+ },
+ "wittgenstein-house": {
+  "paragraphs": [
+   "Haus Wittgenstein (also known as the Stonborough House and the Wittgenstein House) is a house in the modernist style on the Kundmanngasse, Vienna, Austria. It \"shows remarkably similar characteristics in its obsession with detail and complete disregard for the requirements of the people who are expected to live within it.\" The house was commissioned by Margaret Stonborough-Wittgenstein, who asked the architect Paul Engelmann to design a townhouse for her. Stonborough-Wittgenstein invited her brother, the philosopher Ludwig Wittgenstein, to help with the design. In the end, he became more author than helper."
+  ],
+  "title": "Haus Wittgenstein",
+  "url": "https://en.wikipedia.org/wiki/Haus_Wittgenstein",
+  "revision": 1319485747,
+  "fetched": "2026-10-20"
+ },
+ "national-space-centre": {
+  "paragraphs": [
+   "The National Space Centre is a museum and educational resource covering the fields of space science and astronomy, along with a space research programme in partnership with the University of Leicester. It is located on the north side of the city in Belgrave, Leicester, England, next to Space Park Leicester and the River Soar. Many of the exhibits, including upright rockets are housed in a tower with minimal steel supports and a semi-transparent cladding of ETFE 'pillows', which has become one of Leicester's most recognisable landmarks. The National Space Centre contains the United Kingdom's largest planetarium. It is a registered charity with a board of trustees.",
+   "Nicholas Grimshaw, the architects of the Eden Project, won an architectural competition to design the National Space Centre in September 1996 beating four other architects. The fit out of the building was undertaken by C-Beck Group. The structural and services engineer was Arup, the quantity surveyor was Capita Property Services, the project manager was Gardiner and Theobold, management services and main contractor was Sir Robert McAlpine, the landscape architect was Land Use Consultants, the cladding consultant was Montressor Partnership, and the acoustic consultant was Sandy Brown Associates."
+  ],
+  "title": "National Space Centre (England)",
+  "url": "https://en.wikipedia.org/wiki/National_Space_Centre_(England)",
+  "revision": 1377968213,
+  "fetched": "2026-10-20"
+ },
+ "sidi-saiyyed-mosque": {
+  "paragraphs": [
+   "The Sidi Saiyyed Mosque, popularly known locally as Sidi Saiyyed ni Jali, is a Sunni mosque located in Ahmedabad, in the state of Gujarat, India. The mosque was built by Sidi Sayyad, a Habshi nobleman, in 980 AH (1572/1573 CE). The structure is designated as a Monument of National Importance.",
+   "The mosque is entirely arcuated and is known for its ten intricately carved stone latticework windows (jalis) on the side and rear arches. The rear wall is filled with square stone pierced panels in geometrical designs. The two bays flanking the central aisle have reticulated stone slabs carved in designs of intertwined trees and foliage and a palm motif. This intricately carved lattice stone window is the Sidi Saiyyed Jali, the unofficial symbol of city of Ahmedabad and the inspiration for the design of the logo of the Indian Institute of Management Ahmedabad.",
+   "The central window arch of the mosque, where another intricate jali would typically be expected, is instead walled with stone. This is possibly because the mosque was not completed according to plan before the Mughals invaded Gujarat."
+  ],
+  "title": "Sidi Saiyyed Mosque",
+  "url": "https://en.wikipedia.org/wiki/Sidi_Saiyyed_Mosque",
+  "revision": 1366859030,
+  "fetched": "2026-10-20"
+ },
+ "eli-and-edythe-broad-art-museum": {
+  "paragraphs": [
+   "The Eli and Edythe Broad Art Museum (MSU Broad or BAM) is a nonprofit, contemporary art museum designed by Zaha Hadid located on the campus of Michigan State University in East Lansing, Michigan, United States. It opened on November 10, 2012.",
+   "The rotating exhibition schedule allows for frequent new shows to be on view. The museum's curatorial focus is a global focus on emerging to mid-career artists. Exhibitions consist largely of contemporary artists, including those achieving their Master of Fine Arts degree at Michigan State University, as well as shows of selected works from the collection. The MSU Broad organizes a few hundred programs for various ages, open to all at no charge. Admission to the galleries and all community events and programs is free for all visitors, with only certain special exhibitions charging admissions fees."
+  ],
+  "title": "Eli and Edythe Broad Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Eli_and_Edythe_Broad_Art_Museum",
+  "revision": 1365144391,
+  "fetched": "2026-10-20"
+ },
+ "einstein-tower": {
+  "paragraphs": [
+   "The Einstein Tower (German: Einsteinturm) is an astrophysical observatory in the Albert Einstein Science Park in Potsdam, Germany. The Tower was built by architect Erich Mendelsohn in 1924.",
+   "It was built on the summit of the Potsdam Telegraphenberg to house a solar telescope designed by the astronomer Erwin Finlay-Freundlich. The telescope supports experiments and observations to validate (or disprove) Albert Einstein's relativity theory.",
+   "Although Einstein never worked there, he supported the construction and operation of the telescope.",
+   "Einstein Tower is a working solar observatory today as part of the Leibniz Institute for Astrophysics Potsdam."
+  ],
+  "title": "Einstein Tower",
+  "url": "https://en.wikipedia.org/wiki/Einstein_Tower",
+  "revision": 1351671223,
+  "fetched": "2026-10-20"
+ },
+ "werkbundsiedlung-wien": {
+  "paragraphs": [
+   "The Deutscher Werkbund (German: [ˈdɔʏtʃɐ ˈvɛʁkbʊnt]; lit. 'German Association of Craftsmen') is a German association of artists, architects, designers and industrialists established in 1907. The Werkbund became an important element in the development of modern architecture and industrial design, particularly in the later creation of the Bauhaus school of design. Its initial purpose was to establish a partnership of product manufacturers with design professionals to improve the competitiveness of German companies in global markets. The Werkbund was less an artistic movement than a state-sponsored effort to integrate traditional crafts and industrial mass production techniques, to put Germany on a competitive footing with England and the United States. Its motto Vom Sofakissen zum Städtebau (from sofa cushions to city-building) indicates its range of interest."
+  ],
+  "title": "Deutscher Werkbund",
+  "url": "https://en.wikipedia.org/wiki/Deutscher_Werkbund",
+  "revision": 1371624182,
+  "fetched": "2026-10-20"
+ },
+ "tomb-of-hafez": {
+  "paragraphs": [
+   "The Tomb of Hafez (Persian: آرامگاه حافظ), commonly known as Hāfezieh (حافظیه), are two memorial structures erected in the northern edge of Shiraz, Iran, in memory of the celebrated Persian poet Hafez. The open pavilion structures are situated in the Musalla Gardens on the north bank of a seasonal river and house the marble tomb of Hafez. The present buildings, built in 1935 and designed by the French architect and archaeologist André Godard, are at the site of previous structures, the best-known of which was built in 1773. The tomb, its gardens, and the surrounding memorials to other great figures are a focus of tourism in Shiraz."
+  ],
+  "title": "Tomb of Hafez",
+  "url": "https://en.wikipedia.org/wiki/Tomb_of_Hafez",
+  "revision": 1362123853,
+  "fetched": "2026-10-20"
+ },
+ "finlandia-hall": {
+  "paragraphs": [
+   "The Finlandia Hall is a congress and event venue in the centre of Helsinki on the Töölönlahti Bay, owned by the City of Helsinki. The building, which was designed by architect Alvar Aalto, was completed in 1971. Every detail in the building is designed by Aalto. The designs were completed in 1962, with building taking place between 1967 and 1971. The Congress Wing was designed in 1970 and built in 1973–1975. In 2011, the building was expanded with new exhibition and meeting facilities.",
+   "The Finlandia Hall and its Congress wing was the only part of a plan for a grand new monumental centre for Helsinki around the Töölö Bay area, designed by Alvar Aalto from 1959 to 1976, to actually be built. The main feature of the Finlandia Hall building is a tower-like section with a sloping roof. Alvar Aalto's idea behind the design was that a high empty space would provide better acoustics. A lattice ceiling hides the space to the audience but it allows the creation of the same deep post-echo as tall church towers. Aalto used Italian Carrara marble in both indoor and outdoor surfaces as a contrast to black granite. For Aalto, the marble was a tie to the Mediterranean culture, which he wanted to bring to Finland."
+  ],
+  "title": "Finlandia Hall",
+  "url": "https://en.wikipedia.org/wiki/Finlandia_Hall",
+  "revision": 1368349608,
+  "fetched": "2026-10-20"
+ },
+ "schindler-house": {
+  "paragraphs": [
+   "The Schindler House, also known as the Schindler Chace House or Kings Road House, is a house in West Hollywood, California, designed by architect Rudolph M. Schindler.",
+   "The Schindler House is laid out as two interlinking L-shaped apartments (referred to as the Schindler and Chace apartments) using the basic design of the camp site that he had seen a year before. Each apartment was designed for a separate family, consisting of 2 studios, connected by a utility room. The utility room was meant to serve the functions of a kitchen, laundry, sewing room, and storage. The four studios were originally designated for the four members of the household (Rudolph & Pauline Schindler and Clyde & Marian Chace). The house also has a guest studio with its own kitchen and bathroom. The house, at just under 3,500 square feet (330 m2), sits on a 20,000-square-foot (1,900 m2) lot.",
+   "Instead of bedrooms, there are two rooftop sleeping baskets. The baskets were redwood four post canopies with beams at mitered corners, protected from the rain by canvas sides."
+  ],
+  "title": "Schindler House",
+  "url": "https://en.wikipedia.org/wiki/Schindler_House",
+  "revision": 1372961376,
+  "fetched": "2026-10-20"
+ },
+ "narayanhiti-palace-museum": {
+  "paragraphs": [
+   "The Narayanhiti Palace Museum (Nepali: नारायणहिटी दरवार सङ्ग्रहालय, romanized: Nārāyaṇahiṭī Daravāra Saṅgrahālaya) is a public museum in Kathmandu, Nepal located east of the Kaiser Mahal and next to Thamel. The museum was created in 2008 from the complex of the former Narayanhiti Palace (or Narayanhiti Durbar) following the 2006 revolution. Before the revolution, the palace was the residence and principal workplace of the monarch of the Kingdom of Nepal, and hosted occasions of state.",
+   "The existing palace complex was built by order of King Mahendra in 1963, and incorporates an impressive array of courtyards, gardens and buildings."
+  ],
+  "title": "Narayanhiti Palace Museum",
+  "url": "https://en.wikipedia.org/wiki/Narayanhiti_Palace_Museum",
+  "revision": 1368317499,
+  "fetched": "2026-10-20"
+ },
+ "nemo-science-museum": {
+  "paragraphs": [
+   "NEMO Science Museum (from Latin: Nemo, lit. 'Nobody') is a science centre in Amsterdam, Netherlands. It is located in the Oosterdokseiland neighbourhood in the Amsterdam-Centrum borough, situated between the Oosterdokseiland and the Kattenburg. The museum has its origins in 1923, and is housed in a building designed by Renzo Piano since 1997. It contains five floors of hands-on science exhibitions and is the largest science center in the Netherlands. It attracts around 728,000 visitors annually, which makes it the seventh most visited museum in the Netherlands."
+  ],
+  "title": "NEMO (museum)",
+  "url": "https://en.wikipedia.org/wiki/NEMO_(museum)",
+  "revision": 1363273954,
+  "fetched": "2026-10-20"
+ },
+ "toronto-reference-library": {
+  "paragraphs": [
+   "The Toronto Reference Library is a public reference library in Toronto, Ontario, Canada. It is located on the corner of Yonge Street and Asquith Avenue, within the Yorkville neighbourhood of downtown Toronto and is the largest and most visited branch of Toronto Public Library (TPL).",
+   "The building was designed by Raymond Moriyama Architects in the mid-1970s. At 39,626.4 square metres (426,535 sq ft), the five-double-storey building is the largest TPL branch by area. The building is approximately 36 metres (119 ft) at its highest point. The first level is approximately 78 by 78 metres (255 ft × 255 ft).",
+   "The first level of the structure was designed to align in height with adjacent buildings, with the first level being 14-metre-high (45 ft). The other levels of the building are pushed further back into the property, away from the street; forming a pyramid shape to decrease the massing of the building. The building was primarily built out of steel reinforced concrete and is clad with orange-reddish brick to match the building material of the other buildings in the area; although glass portions on the sections of the building facing Yonge Street also exists. Street-friendly programming was incorporated into the design of the entrance to provide a \"lively connection\" from the sidewalk."
+  ],
+  "title": "Toronto Reference Library",
+  "url": "https://en.wikipedia.org/wiki/Toronto_Reference_Library",
+  "revision": 1358911219,
+  "fetched": "2026-10-20"
+ },
+ "niteroi-contemporary-art-museum": {
+  "paragraphs": [
+   "The Niterói Contemporary Art Museum (Museu de Arte Contemporânea de Niterói — MAC) is situated in the city of Niterói, Rio de Janeiro, Brazil, and is one of the city’s main landmarks. It was completed in 1996.",
+   "The MAC-Niterói was designed by Oscar Niemeyer with the assistance of structural engineer Bruno Contarini, who had worked with Niemeyer on earlier projects. The structure is 16 meters high; its cupola has a diameter of 50 meters with three floors. The museum has a collection of 1,217 works from the art collector João Sattamini. The collection was assembled since the 1950s by Sattamini, constituting the second largest collection of contemporary art in Brazil.",
+   "The museum projects itself over Boa Viagem (“Bon Voyage,” “Good Journey”) beach and also a neighborhood, the 817 square metres (8,790 sq ft) reflecting pool that surrounds the cylindrical base “like a flower,” in the words of Niemeyer."
+  ],
+  "title": "Niterói Contemporary Art Museum",
+  "url": "https://en.wikipedia.org/wiki/Niter%C3%B3i_Contemporary_Art_Museum",
+  "revision": 1374270177,
+  "fetched": "2026-10-20"
+ },
+ "church-of-st-joan-of-arc": {
+  "paragraphs": [
+   "The Church of Saint Joan of Arc (French: L'église Sainte-Jeanne-d'Arc) is a Catholic church in the city centre of Rouen, northern France.",
+   "The church of Saint Joan of Arc was completed in 1979 in the centre of the ancient market square, known as the Place du Vieux-Marché, the place where Joan of Arc was burned at the stake for heresy in 1431. A small garden, Le Bucher (\"The Pyre\"), which is outside and to the north of the church marks the exact spot.",
+   "The modern church Sainte-Jeanne d'Arc and the adjacent market halls were designed by the architect Louis Arretche, who was commissioned in 1969. The sweeping curves of the structure are meant to evoke both the flames that consumed Joan of Arc and an overturned longship. Many early Christian churches were designed in the shape of an overturned boat. The market halls simultaneously resemble smaller overturned boats and fish with gaping mouths, which are also rich Christian symbols. The tiled roof echoes this theme and forms a covered walkway over the square."
+  ],
+  "title": "Church of St Joan of Arc",
+  "url": "https://en.wikipedia.org/wiki/Church_of_St_Joan_of_Arc",
+  "revision": 1363750508,
+  "fetched": "2026-10-20"
+ },
+ "wat-xieng-thong": {
+  "paragraphs": [
+   "Wat Xieng Thong is a Buddhist temple (vat or wat) on the northern tip of the peninsula of Luang Prabang, Laos. Built between 1559 and 1560 by King Setthathirath, Wat Xieng Thong is one of the most important of Lao monasteries and remains a significant monument to the spirit of religion, royalty and traditional art."
+  ],
+  "title": "Wat Xieng Thong",
+  "url": "https://en.wikipedia.org/wiki/Wat_Xieng_Thong",
+  "revision": 1373098404,
+  "fetched": "2026-10-20"
+ },
+ "queen-elizabeth-hall": {
+  "paragraphs": [
+   "The Queen Elizabeth Hall (QEH) is a music venue on the South Bank in London, England, that hosts classical, jazz, and avant-garde music, talks and dance performances. It was opened in 1967, with a concert conducted by Benjamin Britten.",
+   "The QEH was built along with the smaller Purcell Room as part of Southbank Centre arts complex. It stands alongside the Royal Festival Hall, which was built for the Festival of Britain of 1951, and the Hayward Gallery which opened in 1968."
+  ],
+  "title": "Queen Elizabeth Hall",
+  "url": "https://en.wikipedia.org/wiki/Queen_Elizabeth_Hall",
+  "revision": 1376154696,
+  "fetched": "2026-10-20"
+ },
+ "karen-demirchyan-complex": {
+  "paragraphs": [
+   "Karen Demirchyan Sports and Concerts Complex (Armenian: Կարեն Դեմիրճյանի անվան մարզահամերգային համալիր, romanized: Karen Demirchyani anvan marzahamergayin hamalir), also known as Demirchyan Arena, Sports & Music Complex, or simply Hamalir (for complex in Armenian), is a large multi-purpose sports and concert complex with 184 stairs leading up Tsitsernakaberd hill which dominates over the western parts of Yerevan, near the Hrazdan River gorge.",
+   "The complex's external structure is designed in the shape of a large bird opening its wings. Its architectural concepts include a turning stand of 1,008 seats, that can rapidly connect the arena and the concerts hall big halls to reveal additional seating, a concept for which the architects were awarded the USSR State Prize, the highest of its kind, in 1987."
+  ],
+  "title": "Karen Demirchyan Complex",
+  "url": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
+  "revision": 1372209393,
+  "fetched": "2026-10-20"
+ },
+ "ciudad-universitaria-unam": {
+  "paragraphs": [
+   "Ciudad Universitaria (University City) is the main campus of the National Autonomous University of Mexico (UNAM), located in Coyoacán borough in the southern part of Mexico City. Designed by architects Mario Pani and Enrique del Moral, it encloses the Olympic Stadium, about 40 faculties and institutes, the Cultural Center, an ecological reserve, the Central Library, the National Library of Mexico and a few museums. It was built during the 1950s on an ancient solidified lava bed in Coyoacán called \"El Pedregal\" to replace the scattered buildings in downtown Mexico City where classes were given. It was completed in 1954 at a cost of approximately $25 million. It was declared a World Heritage Site by UNESCO in 2007.",
+   "Although the University has other buildings in Mexico City (mostly for undergraduate studies and cultural purposes), in other Mexican states and in other countries (such as Canada and the United States), Ciudad Universitaria, known simply as \"C.U.\", is the prime symbol of the University."
+  ],
+  "title": "Ciudad Universitaria, Mexico City",
+  "url": "https://en.wikipedia.org/wiki/Ciudad_Universitaria,_Mexico_City",
+  "revision": 1380779197,
+  "fetched": "2026-10-20"
+ },
+ "prudential-house-warsaw": {
+  "paragraphs": [
+   "The Prudential House, officially known now as the Hotel Warszawa, is a historic skyscraper hotel in Warsaw, Poland, located on Warsaw Insurgents Square along Świętokrzyska Street. Built between 1931 and 1933 in the Art Deco style, it served as a base for the British Prudential Insurance Company. It was the tallest building in interwar Poland."
+  ],
+  "title": "Prudential House",
+  "url": "https://en.wikipedia.org/wiki/Prudential_House",
+  "revision": 1371375831,
+  "fetched": "2026-10-20"
+ },
+ "haydarpasa-terminal": {
+  "paragraphs": [
+   "Haydarpaşa station (Turkish: Haydarpaşa Garı) is a railway station in Istanbul, that was, until 2012 the main city terminal for trains travelling to and from the Anatolian side of Turkey. It used to be Turkey's busiest railway station. (Its counterpart on the European side of the city was Sirkeci station which served train services to and from the Thracian side of the country.) The station building still houses the headquarters for District 1 of the State Railways but since a fire in 2010 the station has not been in use and its future remains uncertain.",
+   "Haydarpaşa stands on an embankment over the Bosphorus just south of the Port of Haydarpaşa (one of the main container terminals in Turkey) and is slightly north of busy Kadıköy. Until the rail service was suspended, ferry services connected it to Eminönü, Karaköy and Kadıköy."
+  ],
+  "title": "Haydarpaşa railway station",
+  "url": "https://en.wikipedia.org/wiki/Haydarpa%C5%9Fa_railway_station",
+  "revision": 1371003249,
+  "fetched": "2026-10-20"
+ },
+ "place-ville-marie": {
+  "paragraphs": [
+   "Place Ville Marie (French pronunciation: [plas vil maʁi], abbr. PVM) is a large office and shopping complex skyscraper in Downtown Montreal, Quebec, Canada, comprising four office buildings and an underground shopping plaza. The main building, 1 Place Ville Marie (formerly Royal Bank Tower from its anchor tenant), was built in the International style in 1962 as the headquarters for the Royal Bank of Canada. While RBC's corporate headquarters and the majority of its management operations have been based in Toronto's Royal Bank Plaza since 1976, Place Ville Marie remains RBC's head office, a distinct title from its corporate headquarters. It is a 188 m (617 ft), 47-storey, cruciform office tower. The complex is a nexus for Montreal's Underground City (RÉSO), the world's busiest, with indoor access to over 1,600 businesses, numerous subway stations, a suburban transportation terminal, and tunnels extending throughout downtown. A counter-clockwise rotating beacon on the rooftop lights up at night, illuminating the surrounding sky with up to four white horizontal beams that can be seen as far as 50 kilometres (31 mi) away.",
+   "This beacon is not considered as a NAVAID for aviation purposes."
+  ],
+  "title": "Place Ville Marie",
+  "url": "https://en.wikipedia.org/wiki/Place_Ville_Marie",
+  "revision": 1380432222,
+  "fetched": "2026-10-20"
+ },
+ "asian-games-village": {
+  "paragraphs": [
+   "The Asian Games Village is located in the Siri Fort area, near Hauz Khas in South Delhi, India.",
+   "The site was developed as the athletes' village for the 1982 Asian Games held in New Delhi. This site was designed by Raj Rewal The village is the first of its kind in the Games series. Built on the remains of the 15th Century Khalji Dynasty's Siri Fort over an area of 800 acres (3.2 km2), this residential colony has 853 flats of which 793 house top officials of PSUs, bureaucrats, public servants, and union ministers. Former President of India APJ Abdul Kalam was a resident in the colony before his nomination to that position.",
+   "Asian Games Village is one of the most desirable and posh areas of New Delhi, as it is surrounded by the lush green spaces of Siri Fort Ridge and located next to the Siri Fort sports complex, which hosted the squash and badminton tournaments during the 2010 Commonwealth Games. A simple 2 BHK flat here is priced at USD 1 million, with full-fledged bungalows starting at USD 4 million.",
+   "The hierarchy of Courtyards is present at different levels of the complex. The complex consists of 700 housing units, out of which 200 were individual houses and 500 apartments, which vary from 2 to 4-story structures."
+  ],
+  "title": "Asian Games Village (Delhi)",
+  "url": "https://en.wikipedia.org/wiki/Asian_Games_Village_(Delhi)",
+  "revision": 1373212309,
+  "fetched": "2026-10-20"
+ },
+ "embassy-of-belgium-new-delhi": {
+  "paragraphs": [
+   "The Embassy of Belgium in New Delhi is the diplomatic mission of the Kingdom of Belgium to India. The embassy is located at Shantipath, Chanakyapuri. The Embassy of Belgium in New Delhi covers the services for India, Sri Lanka, Bangladesh, the Maldives, Bhutan and Nepal. Belgium also operates a consulate in Mumbai and Chennai. The Belgian ambassador to India is Didier Vanderhasselt.",
+   "Belgium had opened its embassy in India in 1947, just a few months after India's independence. Its first ambassador to India was Eugène, 11th Prince of Ligne.",
+   "The construction of the current embassy complex (seen in picture) was designed and managed by Satish Gujral, and completed in 1984. The design resembles a fortress of rocky outcrops. The building complex includes the administrative buildings of the embassy, chancellor's residence, ambassador's residence, and staff housing. The embassy was one of Satish Gujral's most challenging assignments, winning him national and international awards. In 2000, the building was recognised as one of the 1000 best buildings of the 20th century"
+  ],
+  "title": "Embassy of Belgium, New Delhi",
+  "url": "https://en.wikipedia.org/wiki/Embassy_of_Belgium,_New_Delhi",
+  "revision": 1350677312,
+  "fetched": "2026-10-20"
+ },
+ "jetwing-lighthouse": {
+  "paragraphs": [
+   "Jetwing Lighthouse or Lighthouse Hotel, is a five-star franchise hotel, operated by Jetwing Hotels, located in Galle, Sri Lanka. It is just north of the Galle Fort on the Indian Ocean coastline.",
+   "The Lighthouse hotel was one of Geoffrey Bawa's last major projects. The post-modern minimalist hotel reflects the 17th-century Dutch fort at Galle, in that it looks down on the ocean from atop a rocky promontory. A semi-circular drive leads visitors to a traditional stone façade. A small portal opens to an enclosed entry plaza, which features a spiral staircase, with intricate bronze and copper sculptured balustrading, topped by a blue-tiled Moorish dome. The sculptured balustrading, depicting the 'Battle of Randeniwela' between the Sinhalese and the Portuguese, was designed and constructed by Ceylonese architect/artist Laki Senanayake. The main lobby is a lowly lit space that accented by sunlight pooling on the polished concrete floor. The room almost appears to reach the vast blue Indian Ocean beyond. The rest of the property unfolds through a series of immaculately sculpted pools, courtyards, and stairs – which almost seem to be part of the natural landscape. Bawa made a number of the natural boulders the focus of the hotel, framing views of them from the air-conditioned dining room and the open-air lounge."
+  ],
+  "title": "Jetwing Lighthouse",
+  "url": "https://en.wikipedia.org/wiki/Jetwing_Lighthouse",
+  "revision": 1365455423,
+  "fetched": "2026-10-20"
+ },
+ "british-council-new-delhi": {
+  "paragraphs": [
+   "The headquarters of the British Council in India are in New Delhi in a 1992 building designed by Indian architect Charles Correa. The front of the building includes a mural by British artist Howard Hodgkin.",
+   "The British Council was first established in India in 1948. Today it has offices in Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Kolkata, Mumbai, Pune as well as its headquarters in Delhi. The Director of the British Council in India is Barbara Wickham OBE"
+  ],
+  "title": "British Council, India",
+  "url": "https://en.wikipedia.org/wiki/British_Council,_India",
+  "revision": 1321697667,
+  "fetched": "2026-10-20"
+ },
+ "bharat-bhavan": {
+  "paragraphs": [
+   "Bharat Bhavan is an autonomous multi-arts complex and museum in Bhopal, India, established and funded by the Government of Madhya Pradesh. The architect of the Bharat Bhavan is Charles Correa. Opened in 1982, facing the Upper Lake, Bhopal, it houses multiple art galleries, a graphic printing workshop, a ceramics workshop, an open-air amphitheatre, a studio theatre, an auditorium, a museum of tribal & folk art, and libraries of Indian poetry, classical music & folk music."
+  ],
+  "title": "Bharat Bhavan",
+  "url": "https://en.wikipedia.org/wiki/Bharat_Bhavan",
+  "revision": 1350066405,
+  "fetched": "2026-10-20"
+ },
+ "india-international-centre": {
+  "paragraphs": [
+   "The India International Centre (IIC) is a non-official organisation situated in New Delhi, India. Membership of the IIC includes artists, academicians, senior government officials, judges, jurists, parliamentarians, doctors, ministers, governors, social activists, journalists and persons from other domains. It serves as a meeting place for cultural and intellectual offerings; while maintaining its non-official character, non-aligned motivations and remains uncommitted to any particular form of governmental, political, economic or religious affiliation.",
+   "The centre's main complex and its annex (located adjacent to Lodhi Gardens) were designed by the architect Joseph Allen Stein. There are several other major institutions around the centre, which are also designed by Stein, giving the area the popular name of 'Steinabad'."
+  ],
+  "title": "India International Centre",
+  "url": "https://en.wikipedia.org/wiki/India_International_Centre",
+  "revision": 1376795869,
+  "fetched": "2026-10-20"
+ },
+ "seema-malaka": {
+  "paragraphs": [
+   "Seema Malaka (Sinhala: සීමා මාලකය) is a Buddhist temple in Colombo, Sri Lanka. The temple is mainly used for meditation and rest, rather than for worship. Situated in the Beira Lake, the temple was originally constructed in the late 19th century. Seema Malaka is a part of the Gangaramaya Temple and is situated few hundred meters to its east."
+  ],
+  "title": "Seema Malaka",
+  "url": "https://en.wikipedia.org/wiki/Seema_Malaka",
+  "revision": 1366898697,
+  "fetched": "2026-10-20"
+ },
+ "bentota-beach-hotel": {
+  "paragraphs": [
+   "Cinnamon Bentota Beach, formerly known as Bentota Beach Hotel, is a luxury five-star hotel in Bentota, Sri Lanka. The hotel was built in 1967 and designed by Geoffrey Bawa. After refurbishment, the hotel reopened in 2019. The hotel is owned and operated by a subsidiary of John Keells Holdings under its luxury hotel chain, Cinnamon Hotels & Resorts. Cinnamon Bentota Beach is known for its architecture and decor.",
+   "The Sri Lankan architect Geoffrey Bawa designed the Bentota Beach Hotel which was built between 1967 and 1969. Bawa's architectural approach is described as \"tropical modernism\". It is the first resort hotel in Sri Lanka and was built on the site where the old rest house stood. With the construction of the hotel, Bentota was designated as the first \"national holiday resort\". Laki Senanayake worked on the peacock culture of the hotel and Ismeth Raheem painted 14 black and white panels."
+  ],
+  "title": "Cinnamon Bentota Beach",
+  "url": "https://en.wikipedia.org/wiki/Cinnamon_Bentota_Beach",
+  "revision": 1323056470,
+  "fetched": "2026-10-20"
+ },
+ "premabhai-hall": {
+  "paragraphs": [
+   "Premabhai Hall is an abandoned public theater in the old city of Ahmedabad, India designed by architect B. V. Doshi. It was opened in 1972 and abandoned in 1997. It is an example of Brutalist architecture.",
+   "The hall is built in post-Le Corbusier brutalist style, with the entire structure built out of reinforced concrete. It houses an auditorium with a seating capacity of 1000. The stage is 100 metres (330 ft) wide. It has spacious interior corridors and large public gathering spaces. The roof has large terrace. The large structure looks like a monumental sculpture."
+  ],
+  "title": "Premabhai Hall",
+  "url": "https://en.wikipedia.org/wiki/Premabhai_Hall",
+  "revision": 1365410877,
+  "fetched": "2026-10-20"
+ },
+ "palika-kendra": {
+  "paragraphs": [
+   "The Palika Kendra is a 21-story building on Sansad Marg, New Delhi, India. Designed by Kuldip Singh and Mahendra Raj, it is among the few structures in Delhi that feature Brutalist architecture. After its inauguration in 1984 with a height of 91 metres (299 ft), it remained one of the tallest buildings in Delhi for years. It serves as the headquarters of the New Delhi Municipal Council and hosts the main server and the command and control centre of the civic body.",
+   "The Palika Kendra is among 62 buildings and structures that the Indian National Trust for Art and Cultural Heritage is trying to get designated as modern heritages of the post-independent India. On the 150th birth anniversary of Mahatma Gandhi on 31 January 2019, the Vice President of India, Venkaiah Naidu, inaugurated a grand wall mural of Gandhi made up of terracotta kulhars on a wall of the building."
+  ],
+  "title": "Palika Kendra",
+  "url": "https://en.wikipedia.org/wiki/Palika_Kendra",
+  "revision": 1364552472,
+  "fetched": "2026-10-20"
+ },
+ "akbar-bhawan": {
+  "paragraphs": [
+   "Akbar Bhawan, formerly the Akbar Hotel, is a building in the Chanakyapuri locality of New Delhi, India which houses the South Asian University and offices of the Government of India's Ministry of External Affairs. Designed by Shiv Nath Prasad in collaboration with Mahendra Raj, it is one of Delhi's best known examples of brutalist architecture and bears semblance to the Unité d'habitation in Marseille, France. Inaugurated in 1972, it was a hotel of the India Tourism Development Corporation before its conversion into an office complex in 1986. Named after emperor Akbar The Hotel was noted for its use of innovative decor that blended contemporary designs with traditional Indian art and handicrafts.",
+   "Akbar Bhawan was designed by architect Shiv Nath Prasad and built by Mahendra Raj. It mirrors the architectural style of Le Corbusier and is one of India's best known examples of brutalist architecture. Built with prestressed concrete, the building has few decorative motifs keeping in line with the brutalist aesthetic. It has a raw concrete finish, uses brise soleils and features an exposed staircase at its far end. The use of a transfer girder in the transitional floors of the building allowed for the creation of a column free lobby, a feature that came to be adopted widely in hotel design."
+  ],
+  "title": "Akbar Bhawan",
+  "url": "https://en.wikipedia.org/wiki/Akbar_Bhawan",
+  "revision": 1369101763,
+  "fetched": "2026-10-20"
+ },
+ "state-trading-corporation-building": {
+  "paragraphs": [
+   "State Trading Corporation building (also known as Jawahar Vyapar Bhawan) in New Delhi, India, was designed by the architect Raj Rewal, and is home to the government-owned State Trading Corporation of India. Built between 1976 and 1989, it is considered to be an important example of modernist architecture in post-Independence India. Rewal used elements from the Japanese Metabolism style, but departed from it by drawing inspiration from Mughal architecture, as seen in the polychromatic sandstone cladding, instead of concrete. The \"structurally expressive\" design employs Vierendeel trusses. Apart from offices, the building houses the Central Cottage Industries Emporium, a government-run store that retails Indian crafts products."
+  ],
+  "title": "State Trading Corporation building",
+  "url": "https://en.wikipedia.org/wiki/State_Trading_Corporation_building",
+  "revision": 1345073153,
+  "fetched": "2026-10-20"
+ },
+ "st-peter-and-st-pauls-church-parumala": {
+  "paragraphs": [
+   "St. Peter's and St. Paul's Orthodox Church (also known as Parumala Pally or Parumala Seminary) in Parumala, Thiruvalla Taluk, Pathanamthitta district, Kerala, India, is a pilgrimage centre and mausoleum of the Malankara Orthodox Syrian Church.",
+   "The church, which can accommodate more than 2000 worshipers, was designed by Charles Correa. It is a circle with an inner diameter of 39 meters, divided into three segments by two chords of 16 meters length.",
+   "In 2018 the main altar wall of the church was adorned with a large icon painting."
+  ],
+  "title": "St. Peter and St. Paul's Church, Parumala",
+  "url": "https://en.wikipedia.org/wiki/St._Peter_and_St._Paul%27s_Church,_Parumala",
+  "revision": 1363872669,
+  "fetched": "2026-10-20"
+ },
+ "chowdiah-memorial-hall": {
+  "paragraphs": [
+   "Chowdiah Memorial Hall is a cultural centre in Bangalore which provides a home for musical and theatrical performances as well as competitions. Located in Malleswaram, it was built as a tribute to Tirumakudalu Chowdiah. It is administered by Academy of Music, an independent registered body, founded in 1961.",
+   "The auditorium is built in the shape of a gigantic seven stringed violin, complete with the strings, keys, the bridge and the bow. It has marble foyer lit with chandeliers. This is probably the only auditorium in the world that is dedicated to the memory of a musician and shaped like a violin."
+  ],
+  "title": "Chowdiah Memorial Hall",
+  "url": "https://en.wikipedia.org/wiki/Chowdiah_Memorial_Hall",
+  "revision": 1372075434,
+  "fetched": "2026-10-20"
+ },
+ "jehangir-art-gallery": {
+  "paragraphs": [
+   "Jehangir Art Gallery is an art gallery in Mumbai (India). It was founded by Sir Cowasji Jehangir at the urging of K. K. Hebbar and Homi J. Bhabha. It was built in 1952. Managed by the Committee of Management, the entire cost of this mansion was donated by Cowasji Jehangir. This gallery is situated at Kala Ghoda, behind the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, in South Mumbai near the Gateway of India, and has four exhibition halls. The gallery was designed by G.M. Bhuta for G.M. Bhuta & Associates. The gallery closed for 11 months as a part of the COVID-19 lockdown in India and was partially re-opened on 16 February 2021. It has since been fully re-opened.",
+   "The building has been designed by Durga Bajpai and is one of the early concrete structures in the city. The gallery has been turned inwards due to a combined function of an auditorium and an art gallery. Although the concept of an introvert art gallery could be questioned today, the Jehangir is an example of an early modernist notion of the inward looking art galleries in the city. Moreover, the function of the auditorium left no scope for the gallery to be open to the street."
+  ],
+  "title": "Jehangir Art Gallery",
+  "url": "https://en.wikipedia.org/wiki/Jehangir_Art_Gallery",
+  "revision": 1363488932,
+  "fetched": "2026-10-20"
+ },
+ "nehru-centre-mumbai": {
+  "paragraphs": [
+   "Nehru Centre is a centre to promote the teachings and ideals of the first Prime Minister of India, Jawaharlal Nehru, through educational and cultural programmes in the city of Mumbai, India. The Centre organises scientific, cultural and educational activities. It was conceived in 1972, with foundation stone was laid by Indira Gandhi and the centre was completed in 1985 on a six-acre site in Worli. Designed by architect I.M. Kadri, the building's distinctive cylindrical tower with an ascending landscaped slope at its base symbolizes Nehru's vision of India's growth from agrarian roots to industrial modernity. It houses an auditorium, planetarium, art galleries, a library, and the \"Discovery of India\" exhibition."
+  ],
+  "title": "Nehru Centre",
+  "url": "https://en.wikipedia.org/wiki/Nehru_Centre",
+  "revision": 1333743910,
+  "fetched": "2026-10-20"
+ },
+ "sunethra-bandaranaike-house": {
+  "paragraphs": [
+   "The Sunethra Bandaranaike House or Horagolla Stables is the country house of Sunethra Bandaranaike, renovated in the 1980s by the renowned architect Geoffrey Bawa.",
+   "The house was the original walauwa of Horagolla, the home of Sunethra Bandaranaike's great-grandfather Gate Mudaliyar Don Christoffel Henricus Dias Abeywickrema Jayatilake Seneviratne Bandaranaike. It was converted to a stable by Sir Solomon Dias Bandaranaike, who after his appointment as Maha Mudaliyar (Head Mudaliyar) at the turn of the twentieth century built the Horagolla Walauwa as his stately home close to the older walauw. A walauwa is the traditional name for a headman's house.",
+   "In the 1980s the deteriorated stable building was renovated and redesigned by Geoffrey Bawa into a house for Sunethra Bandaranaike and her then husband Udaya Nanayakara. Construction commenced on 1 April 1983 and was completed 25 November 1987. The building consists of two sections; the original stables and the new wing, with these two sections forming an 'L' shape. The original building had one large arched entrance and enclosures for the six horses. Openings were introduced in the form of doors and windows and an internal mezzanine floor separates this space into a ground floor and upper gallery. The main sitting room is on the ground floor while the upper gallery provides an additional lounge/sitting area."
+  ],
+  "title": "Sunethra Bandaranaike House",
+  "url": "https://en.wikipedia.org/wiki/Sunethra_Bandaranaike_House",
+  "revision": 1345857313,
+  "fetched": "2026-10-20"
+ },
+ "martyred-intellectuals-memorial-mirpur": {
+  "paragraphs": [
+   "Martyred Intellectuals Memorial (Bengali: শহীদ বুদ্ধিজীবী স্মৃতিসৌধ) is a monument built in memory of the martyred intellectuals of the Bangladesh Liberation War. The memorial is located at Rayerbazar, Mohammadpur Thana in Dhaka. The memorial was designed by architect Farid U Ahmed and Jami Al Shafi. The initial proposal for a memorial at Rayer Bazar was brought forward by Projonmo 71 (organisation of the children of the martyrs of liberation war), who also laid a temporary foundation stone in 1991."
+  ],
+  "title": "Martyred Intellectuals Memorial",
+  "url": "https://en.wikipedia.org/wiki/Martyred_Intellectuals_Memorial",
+  "revision": 1348683104,
+  "fetched": "2026-10-20"
+ },
+ "mausoleum-of-three-leaders-dhaka": {
+  "paragraphs": [
+   "The Mausoleum of Three Leaders, officially Three National Leaders' Shrine, located at Shahbag, New Dhaka in Bangladesh. It contains the graves of three prominent leaders of Pakistan Movement from Bengal: A. K. Fazlul Huq, Huseyn Shaheed Suhrawardy and Khwaja Nazimuddin. All three men served as the Prime Minister of Bengal in British India and after independence two of them also served as Prime Minister of Pakistan.",
+   "It was designed by architect Masud Ahmad and S. A. Zahiruddin. The style of architecture of the monuments is an interpretation of Islamic Arcs. The Mausoleum of three leaders consists of a hyperbolic paraboloid structure that is erected over the three graves of the three political leaders. It is possible to enter this mausoleum from two sides. Although you have to go underground to see the three tombs located here, there are replicas of three graves below the monument."
+  ],
+  "title": "Mausoleum of Three Leaders",
+  "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Three_Leaders",
+  "revision": 1375495770,
+  "fetched": "2026-10-20"
+ },
+ "singha-durbar": {
+  "paragraphs": [
+   "Singha Durbar (Nepali: सिंहदरबार, lit. 'Lion's Palace') is a palace in Kathmandu, the capital of Nepal. The palace complex lies in the centre of Kathmandu, to the north of Babar Mahal and Thapathali Durbar and east of Bhadrakali Temple. This palace was built by Chandra Shumsher Jung Bahadur Rana in June 1908. It houses administrative offices of the Government of Nepal, including the Federal Parliament and several government ministries. In 2025, the main building was destroyed in the Gen Z protests, along with the prime minister's office. After Singha Durbar sustained damage during the Gen Z Protest Nepal movement, public discussions have emerged regarding its reconstruction and restoration."
+  ],
+  "title": "Singha Durbar",
+  "url": "https://en.wikipedia.org/wiki/Singha_Durbar",
+  "revision": 1378014886,
+  "fetched": "2026-10-20"
+ },
+ "sixty-dome-mosque": {
+  "paragraphs": [
+   "The Sixty Dome Mosque (Bengali: ষাট গম্বুজ মসজিদ) is a historical mosque, located in Bagerhat, in the Khulna Division of Bangladesh. It is a part of the Mosque City of Bagerhat, a UNESCO World Heritage Site. It is the largest mosque in Bangladesh from the Bengal Sultanate period (1352–1576). It was built by Khan Jahan Ali, the governor of the Sundarbans. It has been described as \"one of the most impressive Muslim monuments in the whole of South Asia.\" It is situated approximately 4.8 kilometres (3 mi) from the main town of Bagerhat; and nearly 320 km (200 mi) from Dhaka. Despite its nomenclature, the mosque has 81 domes that are supported by sixty columns.",
+   "The Sixty Dome Mosque features unusually thick, tapered brick walls in the Tughlaq style and a hut-shaped roofline that anticipates later styles. Its oblong plan measures 45.26 metres (148 ft 6 in) by 30.89 metres (101 ft 4 in) externally, and 37.57 metres (123 ft 3 in) by 23.22 metres (76 ft 2 in) internally. There are 77 low domes arranged in seven rows of eleven, with an additional dome on each corner, bringing the total to 81 domes. There are four towers, two of four towers were used for the call to prayer (azaan)."
+  ],
+  "title": "Sixty Dome Mosque",
+  "url": "https://en.wikipedia.org/wiki/Sixty_Dome_Mosque",
+  "revision": 1366897346,
+  "fetched": "2026-10-20"
+ },
+ "lankatilaka-vihara": {
+  "paragraphs": [
+   "Lankatilaka Vihara (Sinhala: ලංකාතිලක විහාරය, romanized: laṁkātilaka vihāraya, Tamil: இலங்காதிலக விகாரை, romanized: Ilaṅkātilaka vikārai) is a Buddhist temple with integrated Hindu shrines situated in Udunuwara of Kandy, Sri Lanka. It is located on Daulagala road approximately 4 km (2.5 mi) away from Pilimatalawa junction and a few kilometres from the temple, Gadaladeniya Vihara. It is considered the most magnificent architectural edifice created during the Gampola era."
+  ],
+  "title": "Lankatilaka Vihara",
+  "url": "https://en.wikipedia.org/wiki/Lankatilaka_Vihara",
+  "revision": 1380052490,
+  "fetched": "2026-10-20"
+ },
+ "hatirjheel": {
+  "paragraphs": [
+   "Hatirjheel (Bengali: হাতিরঝিল [ɦatir dʒʱil], English: ; lit. Lake of Elephant) is a lakefront in Dhaka, Bangladesh with surrounding roads and bridges built to ease traffic congestion.",
+   "The largest freshwater basin in Dhaka, Hatirjheel historically served as a waterway for bathing elephants during the colonial period and was later used by traders via the now-defunct Narai River. Over time, it became heavily encroached upon by illegal structures. In 2008, the government launched a development project that included the construction of roads, bridges, and a water retention area. The site was officially opened to the public in 2013 and is now a popular recreational spot for residents of Dhaka.",
+   "Despite being developed as a rainwater retention facility, Hatirjheel has failed to fulfil its intended purpose, primarily due to inadequate sewage infrastructure that has led to severe pollution from sewage runoff. In addition to environmental degradation, the area faces significant challenges related to crime and poor waste management."
+  ],
+  "title": "Hatirjheel",
+  "url": "https://en.wikipedia.org/wiki/Hatirjheel",
+  "revision": 1376082937,
+  "fetched": "2026-10-20"
+ },
+ "bangabandhu-novo-theatre": {
+  "paragraphs": [
+   "Novotheatre, Dhaka (formerly Bhasani Novotheatre and Bangabandhu Sheikh Mujibur Rahman Novotheatre) is a planetarium on Bijoy Sarani Avenue of Tejgaon area in Dhaka, Bangladesh.",
+   "The planetarium was designed by architect Ali Imam. The Planetarium dome simulates Earth and its cool blue sky. This dome-shaped theater was built with the latest equipment, enabling visitors to soar into space as well as experience the thrills of an interplanetary journey in a three-dimensional environment. The curved ceiling represents the sky and shows moving images of planets and stars through projection onto a large-screen dome at an angle of 120 degrees."
+  ],
+  "title": "Novo Theatre, Dhaka",
+  "url": "https://en.wikipedia.org/wiki/Novo_Theatre,_Dhaka",
+  "revision": 1366502412,
+  "fetched": "2026-10-20"
+ },
+ "supreme-court-of-pakistan": {
+  "paragraphs": [
+   "The Supreme Court Building in Red Zone, Islamabad is the official and principal seat of the Supreme Court of Pakistan, the apex court of the country. Completed in 1993, it is flanked by the Prime Minister's Office to the south and the Presidential Palace and the Parliament House to the north.",
+   "Designed by famous Japanese architect, Kenzō Tange, under the consultation of the EPA, the complex was engineered and built by the CDA Engineering and Siemens Engineering. The building was part of an effort by the government of Pakistan to incorporate modernism into the architecture of important government buildings, for which several architects were invited; Tange, after initially rejecting the invitation, ultimately agreed to participate."
+  ],
+  "title": "Supreme Court of Pakistan Building",
+  "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Pakistan_Building",
+  "revision": 1369067099,
+  "fetched": "2026-10-20"
+ },
+ "national-art-gallery-islamabad": {
+  "paragraphs": [
+   "National Art Gallery in Islamabad, Pakistan is the country's first national art gallery. Built on a small hillock opposite the Majlis-e-Shoora (the Parliament of Pakistan) and the Aiwan-e-Sadr (the President's House). It opened to the public on Sunday, August 26, 2007. National Art Gallery, Pakistan is a part of the larger organization called Pakistan National Council of the Arts.",
+   "In a nationwide design contest in 1989, the design of Suhail Abbasi & Naeem Pasha of M/s Suhail & Pasha, Architects & Planning Consultants Islamabad was selected for the construction of the National Art Gallery. Their modernistic brick cube is a model of Miesian purity and functionality.",
+   "The gallery, with a covered area of 1800 square yards, has 14 galleries with adjacent display areas, lecture halls, workshop and storage facilities, laboratories and a library. The four-storey gallery has modern facilities, including an auditorium with capacity for 400, a theatre, stage facilities and an open-air theatre.",
+   "In 2007, Director General of PNCA was Naeem Tahir.",
+   "In 2017, Director General of Pakistan National Council of Arts (PNCA) was Jamal Shah."
+  ],
+  "title": "National Art Gallery, Pakistan",
+  "url": "https://en.wikipedia.org/wiki/National_Art_Gallery,_Pakistan",
+  "revision": 1363428419,
+  "fetched": "2026-10-20"
+ },
+ "islamic-summit-minar": {
+  "paragraphs": [
+   "The Summit Minar is an obelisk-shaped structure built in the centre of Charing Cross, Mall Road in the city of Lahore, Punjab the province of Pakistan. It was built to commemorate the second Islamic Summit Conference held in Lahore from 22 to 24 February 1974. It is located in front of WAPDA House and the Punjab Assembly Building.",
+   "The minar was designed by a Turkish architect, Vedat Dalokay, who also designed the Faisal Mosque located in Islamabad. The National Construction Company Pakistan Ltd. was tasked with the construction, which was overseen by the Pakistan Public Works Department. Construction of the project commenced in February 1975, and took 20 months to complete, costing approximately Rs.15 million.",
+   "The monument, composed of an obelisk and reflecting pool, completes the design of an urban square. Below ground, there is a museum display housing art pieces, paintings and gifts given by the countries which attend the Summit in 1974, meeting rooms, and a small auditorium. The pavilion located outside was built before the minaret, and houses a copy of the Quran (written in gold leaves) in a glass case.",
+   "Its foundation stone was laid on 22 February 1975 on the first anniversary of the conference. It is 155 feet (47 m) high."
+  ],
+  "title": "Summit Minar, Lahore",
+  "url": "https://en.wikipedia.org/wiki/Summit_Minar,_Lahore",
+  "revision": 1351647939,
+  "fetched": "2026-10-20"
+ },
+ "lahore-expo-centre": {
+  "paragraphs": [
+   "Expo Centre Lahore (Urdu: نُمَائِش گاہ لاہور) is a 4,000-square-metre (43,000 sq ft) convention center located in Lahore, Punjab, Pakistan. Designed by joint venture of National Engineering Services Pakistan (NESPAK) and Nayyar Ali Dada & Associates, the convention center is located in Johar Town at the corner of Abdul Haque Road and Shahrah Nazaria-e-Pakistan. Construction began in 2007 and was completed in 2010."
+  ],
+  "title": "Lahore International Expo Centre",
+  "url": "https://en.wikipedia.org/wiki/Lahore_International_Expo_Centre",
+  "revision": 1372212423,
+  "fetched": "2026-10-20"
+ },
+ "karachi-metropolitan-corporation-building": {
+  "paragraphs": [
+   "The Karachi Metropolitan Corporation (KMC) Building is a colonial-era building located on M. A. Jinnah Road, in central Karachi. Construction began in 1927, completed in 1930, and the building was then inaugurated in 1932. It is considered to be one of the most architecturally significant buildings in Karachi."
+  ],
+  "title": "Karachi Metropolitan Corporation Building",
+  "url": "https://en.wikipedia.org/wiki/Karachi_Metropolitan_Corporation_Building",
+  "revision": 1364532814,
+  "fetched": "2026-10-20"
+ },
+ "karachi-chamber-of-commerce-building": {
+  "paragraphs": [
+   "The Karachi Chamber of Commerce and Industry Building, also known as the KCCI Building, is a heritage building in central Karachi, Pakistan dating from 1934. Its foundation stone was laid by Gandhi in July 1934. It currently serves as headquarters for the Karachi Chamber of Commerce & Industry.",
+   "Ahmed Hussain Agha designed the structure in the Mughal-revival style known as Anglo-Mughal, which was popular in the 1920s. Most earlier buildings in Karachi relied heavily on a European style of architectures, such as the Frere Hall, Khaliq Dina Hall, and Karachi Port Trust Building. The KCCI Building differs from earlier civic structures in the city in that it is heavily influenced by Mughal architecture. Other Karachi buildings built in the same style include the Mohatta Palace, Karachi Metropolitan Corporation Building, and Hindu Gymkhana.",
+   "It was constructed of sandstone, with some materials brought from Jaipur, now in the Indian state of Rajasthan."
+  ],
+  "title": "Karachi Chamber of Commerce and Industry Building",
+  "url": "https://en.wikipedia.org/wiki/Karachi_Chamber_of_Commerce_and_Industry_Building",
+  "revision": 1371858568,
+  "fetched": "2026-10-20"
+ },
+ "mohatta-palace": {
+  "paragraphs": [
+   "Qasr-e-Fatima, also known as the Mohatta Palace, (Urdu: محل موہٹا / Sindhi: موھٽا پیلس) is a museum. Designed by Ahmed Hussain Agha, the palace was built in 1927 in the affluent seaside suburb of Clifton as the summer home of Shivratan Mohatta, a Hindu Marwari businessman from what is now the modern-day Indian state of Rajasthan. The palace was built in the tradition of stone palaces of Rajasthan, using pink Jodhpur stone in combination with the local yellow stone from nearby Gizri."
+  ],
+  "title": "Qasr-e-Fatima",
+  "url": "https://en.wikipedia.org/wiki/Qasr-e-Fatima",
+  "revision": 1380118282,
+  "fetched": "2026-10-20"
+ },
+ "empress-market": {
+  "paragraphs": [
+   "The Empress Market (Urdu: ایمپریس مارکیٹ, Sindhi: ايمپريس مارڪيٽ) is a marketplace situated in the Saddar Town locality of Karachi, Pakistan. The market traces its origins to the British Raj era, when it was first constructed. Today, it is amongst the most popular and busy places for shopping in Karachi. Commodities sold in the Empress Market range from condiments, fruit, vegetables and meat to stationery material, textiles and pets. A recreational park called Jahangir Park also is located nearby."
+  ],
+  "title": "Empress Market",
+  "url": "https://en.wikipedia.org/wiki/Empress_Market",
+  "revision": 1374308553,
+  "fetched": "2026-10-20"
+ },
+ "karachi-port-trust-building": {
+  "paragraphs": [
+   "The Karachi Port Trust Building, also referred to as the KPT Building, is a building in Karachi, Sindh, Pakistan that serves as headquarters for the Karachi Port Trust, which administers the Port of Karachi. The building dates from the height of the British Raj, and was inaugurated on 5 January 1916.",
+   "The building's architectural style is an amalgamation of British, Hindu and Gothic styles. It was designed by George Wittet, who was a consultant architect of the Government of Bombay. Wittet was also the architect of the Gateway of India in Bombay.",
+   "The building's façade was made of a yellow-toned stone from the Indian city of Jaipur. The building's exterior is notable for its curved façade. In the centre of the building’s curvature is a large dome designed in a Roman, rather than Islamic, style.",
+   "The exterior and interior of the building is decorated simply. Rooms are spacious, and feature high ceilings. Costly teak wood was extensively used throughout the building. The wood on the windows are decorated in a dark green colour. KPT Head office building had only one entrance with a huge door and 2 large anchors are kept on both sides. Striking arches of the corridors crafted in both exterior and interior, which is symbolic Roman Styled Architecture."
+  ],
+  "title": "Karachi Port Trust Building",
+  "url": "https://en.wikipedia.org/wiki/Karachi_Port_Trust_Building",
+  "revision": 1374069694,
+  "fetched": "2026-10-20"
+ },
+ "wapda-house-lahore": {
+  "paragraphs": [
+   "The WAPDA House (Urdu/Punjabi: واپڈا ہاؤس) is a nine-story office building located in Lahore, Pakistan, that serves as the headquarters of the Water and Power Development Authority (WAPDA). It is one of several prominent government buildings located at Charing Cross on Lahore's Mall Road, officially known as Shahrah-e-Quaid-e-Azam. The building shares views of the Punjab Provincial Assembly, Islamic Summit Minar, Masonic Lodge, and other key landmarks.",
+   "The WAPDA House has two underground basement levels in addition to seven floors comprising the tower, containing around 1,000 rooms. It has a gross area of 51,000 square metres (549,000 sq ft) and a height of 35 metres (115 ft) above ground level, excluding the roof. The rooftop features a perforated canopy with a 12 metres (40 ft) high plexiglas dome, covering a central rotunda that is 20 metres (65 ft) in diameter. This interior circular hall extends to the full height of the building. On the ground floor, corridors of 6 metres (20 ft) width each connect the three entrance halls to the circular hall."
+  ],
+  "title": "WAPDA House",
+  "url": "https://en.wikipedia.org/wiki/WAPDA_House",
+  "revision": 1341503912,
+  "fetched": "2026-10-20"
  }
 };
