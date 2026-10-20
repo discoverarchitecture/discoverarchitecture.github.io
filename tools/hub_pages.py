@@ -271,9 +271,11 @@ GLOBE = ('<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r=
 def title_for(bp, h):
     n = len(h['buildings'])
     words = h['title_words']
-    for o in (f'{words}: {n} buildings with photos & plans', f'{words}: {n} buildings & photos', f'{words}: {n} buildings', f'{words}: {n} buildings'.replace(' buildings', '')):
-        if len(o) <= bp.TITLE_MAX:
-            return o
+    short = words.split(':')[0]  # "Religious architecture: churches, mosques and temples" -> "Religious architecture"
+    for w in dict.fromkeys((words, short)):
+        for o in (f'{w}: {n} buildings with photos & plans', f'{w}: {n} buildings & photos', f'{w}: {n} buildings'):
+            if len(o) <= bp.TITLE_MAX:
+                return o
     return h['h1'][:bp.TITLE_MAX]
 
 

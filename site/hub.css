@@ -17,7 +17,7 @@
   .hub .cols, .hub .col { gap: 14px; }
 }
 @media (max-width: 999px) {
-  .hub .rail { display: flex; }
+  .hub .rail { display: flex; align-items: stretch; }
   .hub .rail h1 { font-size: 40px; }
   .hub .cols, .hub .col { gap: 10px; }
 }
