@@ -1,2 +1,2 @@
-python -u tools/fetch_pageviews.py
-Wikipedia pageviews for every building, to pick the 1,000 most-studied for drawings, links and About text.
+python -u tools/drawings_scan.py --first 200
+Drawings scan for the first 200 of tools/top1000.txt (see tools/drawings/BRIEF.md).
