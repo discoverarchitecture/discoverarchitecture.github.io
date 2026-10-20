@@ -4,7 +4,6 @@ import json, html as H
 import os
 SP = os.path.dirname(os.path.abspath(__file__)) + '/'
 D = json.load(open(SP + 'salk.json')); CR = json.load(open(SP + 'credits.json'))
-DRAW_CSS = open(SP + 'draw.css').read()
 img = lambda i, cls='': f'<img class="ph {cls}" src="images/salk/{i}.webp" alt="" loading="lazy">'
 def layered(svg, L): return svg.replace('</svg>', f'<g class="dlayer">{L}</g></svg>')
 CONTENT = {  # what fills each board slot
