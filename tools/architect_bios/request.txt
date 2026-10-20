@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 161-190 --buildings batch_07 --skip Snohetta --qids "Arup=Arup Group,Brinkman & Van der Vlugt=Brinkman en Van der Vlugt,Alexander Tamanian=Alexander Tamanian architect"
+python -u tools/check_overview_links.py --files bios_07.json
