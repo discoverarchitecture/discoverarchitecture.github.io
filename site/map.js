@@ -365,6 +365,7 @@
   }
   // The Map button works from anywhere: an open building closes and the map flies to it; the books wall switches to buildings.
   async function openMap() {
+    if (window.fgaEvent) fgaEvent('map/open', 'Map opened');
     const was = !$('sheet').hidden && DA.state.open && DA.state.open.kind !== 'book' ? DA.state.open : null;
     if (!$('sheet').hidden) $('close').click();
     if (DA.state.mode === 'books') $('modeBuildings').click();
