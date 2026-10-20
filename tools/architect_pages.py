@@ -333,7 +333,7 @@ def page(bp, plans, key, ctx):
         f'<footer class="foot" data-nosnippet><p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>'
         f'<p><a href="{up}">Find Great Architecture</a> · <a href="{up}architects/">Architects</a> · <a href="{up}buildings/">All buildings</a></p></footer></section>\n'
         f'</main>\n'
-        f'<nav class="dock" data-nosnippet aria-label="Browse"><a href="{up}">Home</a><a class="go" href="{up}#surprise">Surprise me</a></nav>\n'
+        f'{bp.DOCK.format(up=up)}\n'
         f'{SCRIPT}\n</body>\n</html>\n')
     return head + body
 

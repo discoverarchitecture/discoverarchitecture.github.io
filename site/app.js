@@ -1109,6 +1109,13 @@
   window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, loadDetail, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
     coin, medalHtml, laureate: name => laureateOf(null, name), open: id => openAny(id),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
+  // A search sent from another page's bar (/?q=…) is on the wall before the first tiles are dealt; the address keeps any other tag.
+  const sent = new URLSearchParams(location.search);
+  if (sent.get('q')) {
+    $('q').value = sent.get('q'); state.q = fold(sent.get('q').trim());
+    sent.delete('q');
+    try { history.replaceState(history.state, '', location.pathname + (sent.toString() ? '?' + sent : '') + location.hash); } catch (e) { /* ignore */ }
+  }
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position
     const y = +kept('sessionStorage', 'da-y') || 0;
@@ -1122,7 +1129,10 @@
   const openFromHash = () => {
     if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
+    const whenReady = f => document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', f, { once: true }) : f(); // filter.js and map.js load after this file
     if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
+    else if (id === 'filter') { dropHash(); whenReady(() => toggleFilters(true)); } // Filter in another page's bar
+    else if (id === 'map') { dropHash(); whenReady(() => { const m = $('mapBtn'); if (m) m.click(); }); } // Map in another page's dock
     else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
     else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
   };
