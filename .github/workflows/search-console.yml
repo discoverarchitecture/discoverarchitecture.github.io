@@ -29,10 +29,12 @@ jobs:
           if git fetch -q --depth 1 origin analytics-data; then git reset -q --hard FETCH_HEAD; else echo "First run: the branch will be created."; fi
       - run: pip install -q cryptography
       - name: Fetch from Search Console
+        timeout-minutes: 20  # page checks stop after 10 minutes; this is the safety net, and Save still runs
         env:
           GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
-        run: python3 tools/fetch_search_console.py --out ../data/search_console
+        run: python3 -u tools/fetch_search_console.py --out ../data/search_console
       - name: Save
+        if: always()  # keeps whatever was fetched, even if the page checks failed
         run: |
           cd ../data
           git add -A

@@ -1,0 +1,83 @@
+/* Every colour on the site, by day and by night. Pages take their colours only from here, so night works
+   everywhere at once. theme.js sets data-night on <html> before the page draws (the visitor's choice, else their
+   device's own setting). Photos, portraits and book covers are never tinted. */
+:root {
+  --ground: #FFFFFF;
+  --paper: #F7F7F5;
+  --surface: #FFFFFF;       /* cards, panels, buttons that sit on the page */
+  --ink: #111110;
+  --graphite: #5D5C57;
+  --hair: #E6E4DF;
+  --edge: #D9D7D1;          /* a slightly stronger border */
+  --line: #8F8D86;          /* dotted and dashed lines */
+  --slot: #DCDBD5;          /* where a photo or portrait is still loading */
+  --slot-2: #E2E1DC;
+  --slot-ink: #3E3D39;
+  --stage: #1B1B1A;         /* behind photos */
+  --field: #F3F2EE;
+  --field-2: #F7F6F3;
+  --field-3: #EDEBE6;
+  --land: #D3D1CA;          /* small maps */
+  --land-2: #E4E2DC;
+  --mute: #BDBAB2;          /* bars, pips and quiet marks */
+  --mute-2: #CFCCC5;
+  --reg-0: #ECEAE5; --reg-1: #D0CDC6; --reg-2: #BDBAB2; --reg-3: #A9A69E;  /* the filter's region map, fewest to most */
+  --label: #6E5A55;         /* country names on the globe */
+  /* Sunset red, used sparingly: "Architecture.", the main action button and hover. Small text stays black. */
+  --red: #DA3A26;
+  --red-ink: #B82E1D;
+  --red-pale: #F3C2BA;
+  --red-soft: #FBECEA; --red-edge: #F1C3BC;
+  /* The game: green for right */
+  --green: #15803D; --green-soft: #ECF6EF; --green-edge: #B7DEC3;
+  --glass: rgba(255,255,255,.82);
+  --glass-strong: rgba(255,255,255,.92);
+  --rim: rgba(255,255,255,.75);   /* the bright edge of glass panels */
+  --glass-shadow: 0 8px 28px rgba(0,0,0,.14), inset 0 1px 0 rgba(255,255,255,.35);
+  --go-soft: #E3F4E8; --go-soft-2: #D2EEDB; --go-edge: #A9D9B8; --go-ink: #14532D;  /* the light green game button */
+  --feat: #E7DFCF;          /* the featured book's band, unless the book sets its own */
+  color-scheme: light;
+}
+:root[data-night] {
+  --ground: #121211;
+  --paper: #191917;
+  --surface: #1E1E1C;
+  --ink: #EDEDE9;
+  --graphite: #A3A19A;
+  --hair: #2F2E2B;
+  --edge: #3A3935;
+  --line: #6B6964;
+  --slot: #2A2927;
+  --slot-2: #2A2927;
+  --slot-ink: #C9C7C0;
+  --stage: #0B0B0A;
+  --field: #232220;
+  --field-2: #1E1E1C;
+  --field-3: #2A2927;
+  --land: #3D3C38;
+  --land-2: #33322F;
+  --mute: #4A4945;
+  --mute-2: #45443F;
+  --reg-0: #2A2927; --reg-1: #45443F; --reg-2: #5E5C56; --reg-3: #7A7871;
+  --label: #E8D6D1;
+  --red-ink: #F0563F;
+  --red-pale: #6B2A20;
+  --red-soft: #3A1712; --red-edge: #6B261C;
+  --green-soft: #12301D; --green-edge: #1F5A33;
+  --glass: rgba(30,30,28,.78);
+  --glass-strong: rgba(30,30,28,.92);
+  --rim: rgba(255,255,255,.14);
+  --glass-shadow: 0 8px 28px rgba(0,0,0,.4), inset 0 1px 0 rgba(255,255,255,.08);
+  --go-soft: #12301D; --go-soft-2: #17402A; --go-edge: #1F5A33; --go-ink: #BBF7D0;
+  --feat: #1E1E1C;
+  color-scheme: dark;
+}
+
+/* The day/night switch: a moon by day, a sun by night. */
+.theme-btn { all: unset; box-sizing: border-box; cursor: pointer; flex: none; width: 44px; height: 44px; display: grid; place-items: center;
+  border: 1px solid var(--hair); border-radius: var(--r, 10px); background: var(--surface); color: var(--ink); transition: color .15s ease, border-color .15s ease; }
+.theme-btn svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.theme-btn .sun, :root[data-night] .theme-btn .moon { display: none; }
+:root[data-night] .theme-btn .sun { display: block; }
+.theme-btn:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+@media (hover: hover) { .theme-btn:hover { color: var(--red); border-color: var(--red); } }
