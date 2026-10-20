@@ -1,2 +1,2 @@
-python -u tools/aic_scan.py --first 1000
-Art Institute of Chicago scan for the most-studied and US buildings.
+python -u tools/fetch_summaries.py --top 1000
+About texts (quoted from Wikipedia, credited) for the 1,000 most-studied buildings.
