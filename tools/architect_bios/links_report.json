@@ -54,15 +54,6 @@
   "error": null
  },
  {
-  "architect": "O'Donnell + Tuomey",
-  "url": "https://www.archdaily.com/office/odonnell-plus-tuomey",
-  "status": 404,
-  "final": "https://www.archdaily.com/office/odonnell-plus-tuomey",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
   "architect": "Peter Celsing",
   "url": "https://en.wikipedia.org/wiki/Peter_Celsing",
   "status": 200,
@@ -82,11 +73,20 @@
  },
  {
   "architect": "Peter Celsing",
-  "url": "https://architectuul.com/architect/peter-celsing",
-  "status": 404,
-  "final": "https://architectuul.com/architect/peter-celsing",
-  "title": "",
-  "about": false,
+  "url": "https://www.riksbank.se/sv/om-riksbanken/historia/riksbankens-hus/arkitekten-peter-celsing/",
+  "status": 200,
+  "final": "https://www.riksbank.se/sv/om-riksbanken/riksbankens-hus/arkitekten-peter-celsing/",
+  "title": "Arkitekten Peter Celsing | Sveriges Riksbank",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Peter Celsing",
+  "url": "https://scandinaviandesign.com/peter-celsing/",
+  "status": 200,
+  "final": "https://scandinaviandesign.com/peter-celsing/",
+  "title": "Peter Celsing — Architect Behind Stockholm's Kulturhuset - Scandinaviandesign.com",
+  "about": true,
   "error": null
  },
  {
@@ -163,11 +163,11 @@
  },
  {
   "architect": "Pietro Belluschi",
-  "url": "https://www.docomomo-us.org/people/pietro-belluschi",
-  "status": 404,
-  "final": "https://www.docomomo-us.org/people/pietro-belluschi",
-  "title": "",
-  "about": false,
+  "url": "https://oregonencyclopedia.org/articles/belluschi_pietro_1899_1994_/",
+  "status": 200,
+  "final": "https://www.oregonencyclopedia.org/articles/belluschi_pietro_1899_1994_/",
+  "title": "Pietro Belluschi (1899-1994)",
+  "about": true,
   "error": null
  },
  {
@@ -190,11 +190,20 @@
  },
  {
   "architect": "Roy Grounds",
-  "url": "https://www.ngv.vic.gov.au/about/history-of-the-ngv/",
-  "status": 404,
-  "final": "https://www.ngv.vic.gov.au/about/history-of-the-ngv/",
-  "title": "",
-  "about": false,
+  "url": "https://adb.anu.edu.au/biography/grounds-roy-burman-12571",
+  "status": 200,
+  "final": "https://adb.anu.edu.au/biography/grounds-sir-roy-burman-12571",
+  "title": "Biography - Sir Roy Burman Grounds - Australian Dictionary of Biography",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Roy Grounds",
+  "url": "https://canberrahouse.com.au/people/roy-grounds.html",
+  "status": 200,
+  "final": "https://canberrahouse.com.au/people/roy-grounds.html",
+  "title": "Canberra house | Roy Grounds",
+  "about": true,
   "error": null
  },
  {
@@ -294,15 +303,6 @@
   "final": "https://www.pritzkerprize.com/laureates/smiljan-radic-clarke",
   "title": "Smiljan Radić Clarke | The Pritzker Architecture Prize",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Smiljan Radić",
-  "url": "https://www.pritzkerprize.com/laureates/2026",
-  "status": 404,
-  "final": "https://www.pritzkerprize.com/laureates/2026",
-  "title": "",
-  "about": false,
   "error": null
  },
  {
@@ -415,10 +415,19 @@
  },
  {
   "architect": "Yoshinobu Ashihara",
-  "url": "https://www.archdaily.com/tag/yoshinobu-ashihara",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/yoshinobu-ashihara",
-  "title": "",
+  "url": "https://ashihara.jp/profile.html",
+  "status": 200,
+  "final": "https://ashihara.jp/profile.html",
+  "title": "芦原建築設計研究所｜ASHIHARA Architect & Associates｜プロフィール｜Profile",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Yoshinobu Ashihara",
+  "url": "https://archives.library.torontomu.ca/index.php/ashihara-yoshinobu",
+  "status": 200,
+  "final": "https://archives.library.torontomu.ca/",
+  "title": "Toronto Metropolitan University Libraries Archives &amp; Special Collections - TMU Archives &amp; Special Collections",
   "about": false,
   "error": null
  },
@@ -550,9 +559,9 @@
  },
  {
   "architect": "Alexander Tamanian",
-  "url": "https://architectuul.com/architect/alexander-tamanian",
-  "status": 404,
-  "final": "https://architectuul.com/architect/alexander-tamanian",
+  "url": "https://armeniapedia.org/wiki/Alexander_Tamanian",
+  "status": 403,
+  "final": "https://armeniapedia.org/wiki/Alexander_Tamanian",
   "title": "",
   "about": false,
   "error": null
@@ -577,11 +586,20 @@
  },
  {
   "architect": "Ammar Khammash",
-  "url": "https://www.global-award.org/ammar-khammash",
-  "status": 404,
-  "final": "https://www.global-award.org/ammar-khammash",
-  "title": "",
-  "about": false,
+  "url": "https://designdoha.org.qa/en/calendar/design-doha-prize2024/ammar-khammash/",
+  "status": 200,
+  "final": "https://designdoha.org.qa/en/calendar/design-doha-prize2024/ammar-khammash/",
+  "title": "Ammar Khammash - Design Doha",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Ammar Khammash",
+  "url": "https://divisare.com/authors/2144783495-ammar-khammash",
+  "status": 200,
+  "final": "https://divisare.com/authors/2144783495-ammar-khammash",
+  "title": "Ammar Khammash  · Divisare",
+  "about": true,
   "error": null
  },
  {
@@ -595,12 +613,21 @@
  },
  {
   "architect": "Architecture-Studio",
-  "url": "https://www.architecture-studio.fr/",
+  "url": "https://www.architecture-studio.fr/en/",
   "status": 0,
-  "final": "https://www.architecture-studio.fr/",
+  "final": "https://www.architecture-studio.fr/en/",
   "title": "",
   "about": false,
   "error": "ERROR <urlopen error [Errno 104] Connection reset by peer>"
+ },
+ {
+  "architect": "Architecture-Studio",
+  "url": "https://en.wikipedia.org/wiki/Arab_World_Institute",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Arab_World_Institute",
+  "title": "Institut du monde arabe - Wikipedia",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Architecture-Studio",
@@ -622,18 +649,18 @@
  },
  {
   "architect": "Aris Konstantinidis",
-  "url": "https://architectuul.com/architect/aris-konstantinidis",
-  "status": 404,
-  "final": "https://architectuul.com/architect/aris-konstantinidis",
+  "url": "https://impactalk.gr/en/stories-talk/aris-konstantinidis-artistic-architect",
+  "status": 403,
+  "final": "https://impactalk.gr/en/stories-talk/aris-konstantinidis-artistic-architect",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Aris Konstantinidis",
-  "url": "https://www.archdaily.com/tag/aris-konstantinidis",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/aris-konstantinidis",
+  "url": "https://www.ucl.ac.uk/bartlett/news/2024/jan/dr-stelios-giamarelos-awarded-publication-grant-schwarz-foundation",
+  "status": 403,
+  "final": "https://www.ucl.ac.uk/bartlett/news/2024/jan/dr-stelios-giamarelos-awarded-publication-grant-schwarz-foundation",
   "title": "",
   "about": false,
   "error": null
@@ -676,20 +703,29 @@
  },
  {
   "architect": "Basil Spence",
-  "url": "https://www.scottisharchitects.org.uk/architect_full.php?id=202151",
-  "status": 403,
-  "final": "https://www.scottisharchitects.org.uk/architect_full.php?id=202151",
-  "title": "",
-  "about": false,
+  "url": "https://ourhistory.is.ed.ac.uk/index.php/Sir_Basil_Urwin_Spence_(1907-1976)",
+  "status": 200,
+  "final": "https://ourhistory.is.ed.ac.uk/index.php/Sir_Basil_Urwin_Spence_(1907-1976)",
+  "title": "Sir Basil Urwin Spence (1907-1976) - Our History",
+  "about": true,
   "error": null
  },
  {
   "architect": "Basil Spence",
-  "url": "https://architectuul.com/architect/basil-spence",
-  "status": 404,
-  "final": "https://architectuul.com/architect/basil-spence",
-  "title": "",
-  "about": false,
+  "url": "https://www.undiscoveredscotland.co.uk/usbiography/s/basilspence.html",
+  "status": 200,
+  "final": "https://www.undiscoveredscotland.co.uk/usbiography/s/basilspence.html",
+  "title": "Sir Basil Spence: Biography on Undiscovered Scotland",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Basil Spence",
+  "url": "https://architecture.arthistoryresearch.net/architects/spence-basil",
+  "status": 200,
+  "final": "https://architecture.arthistoryresearch.net/architects/spence-basil",
+  "title": "Spence, Basil 1907 - 1976 | AHRnet",
+  "about": true,
   "error": null
  },
  {
@@ -712,12 +748,21 @@
  },
  {
   "architect": "Benedetta Tagliabue",
-  "url": "https://www.fundacioenricmiralles.com/",
-  "status": 0,
-  "final": "https://www.fundacioenricmiralles.com/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.fundacioenricmiralles.com'. (_ssl.c:1010)>"
+  "url": "https://www.designboom.com/architecture/benedetta-tagliabue-interview-embt-12-05-2014/",
+  "status": 200,
+  "final": "https://www.designboom.com/architecture/benedetta-tagliabue-interview-embt-12-05-2014/",
+  "title": "interview with architect benedetta tagliabue of EMBT",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Benedetta Tagliabue",
+  "url": "https://worldarchitecture.org/architecture-news/ecgef/-in-the-end-it-is-very-difficult-to-avoid-from-the-notion-of-style-says-benedetta-tagliabue.html",
+  "status": 200,
+  "final": "https://worldarchitecture.org/architecture-news/ecgef/-in-the-end-it-is-very-difficult-to-avoid-from-the-notion-of-style-says-benedetta-tagliabue.html",
+  "title": "\"In the end it is very difficult to avoid from the notion of style\" says Benedetta Tagliabue",
+  "about": true,
+  "error": null
  },
  {
   "architect": "Bernard Tschumi",
@@ -766,20 +811,20 @@
  },
  {
   "architect": "Brinkman & Van der Vlugt",
-  "url": "https://whc.unesco.org/en/list/1441/",
+  "url": "https://en.wikipedia.org/wiki/Van_Nelle_Factory",
   "status": 200,
-  "final": "https://whc.unesco.org/en/list/1441/",
-  "title": "Van Nellefabriek - UNESCO World Heritage Centre",
-  "about": false,
+  "final": "https://en.wikipedia.org/wiki/Van_Nelle_Factory",
+  "title": "Van Nelle Factory - Wikipedia",
+  "about": true,
   "error": null
  },
  {
   "architect": "Brinkman & Van der Vlugt",
-  "url": "https://architectuul.com/architect/brinkman-van-der-vlugt",
-  "status": 404,
-  "final": "https://architectuul.com/architect/brinkman-van-der-vlugt",
-  "title": "",
-  "about": false,
+  "url": "https://www.metalocus.es/en/author/brinkman-and-van-der-vlugt",
+  "status": 200,
+  "final": "https://www.metalocus.es/en/author/brinkman-and-van-der-vlugt",
+  "title": "Brinkman and Van der Vlugt | METALOCUS",
+  "about": true,
   "error": null
  },
  {
@@ -793,11 +838,20 @@
  },
  {
   "architect": "Chamberlin, Powell and Bon",
-  "url": "https://www.barbican.org.uk/our-story/architecture",
-  "status": 404,
-  "final": "https://www.barbican.org.uk/our-story/architecture",
-  "title": "",
-  "about": false,
+  "url": "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
+  "title": "Golden Lane Estate - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Chamberlin, Powell and Bon",
+  "url": "https://www.themodernhouse.com/directory-of-architects-and-designers/chamberlin-powell-bon",
+  "status": 200,
+  "final": "https://themodernhouse.com/directory-of-architects-and-designers/chamberlin-powell-bon",
+  "title": "The Modern House | Selling the UK's most inspiring living spaces",
+  "about": true,
   "error": null
  },
  {

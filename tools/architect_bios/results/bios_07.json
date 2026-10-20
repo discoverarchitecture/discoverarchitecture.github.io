@@ -25,19 +25,22 @@
     "site": "Wikipedia",
     "title": "Nieto Sobejano Arquitectos",
     "url": "https://en.wikipedia.org/wiki/Nieto_Sobejano_Arquitectos",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Nieto Sobejano",
     "title": "Official site",
     "url": "https://www.nietosobejano.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Nieto Sobejano Arquitectos office page",
     "url": "https://www.archdaily.com/office/nieto-sobejano-arquitectos",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -73,19 +76,22 @@
     "site": "Wikipedia",
     "title": "Sheila O'Donnell",
     "url": "https://en.wikipedia.org/wiki/Sheila_O'Donnell",
-    "why": "the co-founder's life and a list of the practice's works"
+    "why": "the co-founder's life and a list of the practice's works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "John Tuomey",
     "url": "https://en.wikipedia.org/wiki/John_Tuomey",
-    "why": "the other co-founder's life and work"
+    "why": "the other co-founder's life and work",
+    "checked": "2026-10-20"
    },
    {
     "site": "O'Donnell + Tuomey",
     "title": "Official site",
     "url": "https://odonnell-tuomey.ie/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -125,25 +131,29 @@
     "site": "Wikipedia",
     "title": "Peter Celsing",
     "url": "https://en.wikipedia.org/wiki/Peter_Celsing",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Peter Celsing tag page",
     "url": "https://www.archdaily.com/tag/peter-celsing",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-20"
    },
    {
     "site": "Sveriges Riksbank",
     "title": "The architect Peter Celsing",
     "url": "https://www.riksbank.se/sv/om-riksbanken/historia/riksbankens-hus/arkitekten-peter-celsing/",
-    "why": "the central bank on the architect of its headquarters (in Swedish)"
+    "why": "the central bank on the architect of its headquarters (in Swedish)",
+    "checked": "2026-10-20"
    },
    {
     "site": "Scandinavian Design",
     "title": "Peter Celsing",
     "url": "https://scandinaviandesign.com/peter-celsing/",
-    "why": "an illustrated overview of his life and buildings"
+    "why": "an illustrated overview of his life and buildings",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -194,19 +204,22 @@
     "site": "Wikipedia",
     "title": "Peter Eisenman",
     "url": "https://en.wikipedia.org/wiki/Peter_Eisenman",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Eisenman Architects",
     "title": "Official site",
     "url": "https://eisenmanarchitects.com/",
-    "why": "the office's own projects"
+    "why": "the office's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Peter Eisenman tag page",
     "url": "https://www.archdaily.com/tag/peter-eisenman",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -245,19 +258,22 @@
     "site": "Wikipedia",
     "title": "Pierre Jeanneret",
     "url": "https://en.wikipedia.org/wiki/Pierre_Jeanneret",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Pierre Jeanneret",
     "url": "https://architectuul.com/architect/pierre-jeanneret",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Pierre Jeanneret tag page",
     "url": "https://www.archdaily.com/tag/pierre-jeanneret",
-    "why": "classics and articles on his work"
+    "why": "classics and articles on his work",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -289,7 +305,8 @@
    {
     "claim": "555 California Street: architect Pietro Belluschi (Wikidata P84)",
     "source": "https://www.wikidata.org/wiki/Q243921",
-    "architect_qid": "Q2032354"
+    "architect_qid": "Q2032354",
+    "checked": "2026-10-20"
    },
    {
     "claim": "555 California Street: completed 1969; world headquarters of Bank of America until 1998",
@@ -305,19 +322,22 @@
     "site": "Wikipedia",
     "title": "Pietro Belluschi",
     "url": "https://en.wikipedia.org/wiki/Pietro_Belluschi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Pietro Belluschi",
     "url": "https://architectuul.com/architect/pietro-belluschi",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "The Oregon Encyclopedia",
     "title": "Pietro Belluschi (1899–1994)",
     "url": "https://oregonencyclopedia.org/articles/belluschi_pietro_1899_1994_/",
-    "why": "a full biography by the historian Leland Roth"
+    "why": "a full biography by the historian Leland Roth",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -347,7 +367,8 @@
    {
     "claim": "Shine Dome: architect Roy Grounds (Wikidata P84)",
     "source": "https://www.wikidata.org/wiki/Q27493197",
-    "architect_qid": "Q7372867"
+    "architect_qid": "Q7372867",
+    "checked": "2026-10-20"
    },
    {
     "claim": "NGV International building designed by Sir Roy Grounds, opened 1968",
@@ -359,25 +380,29 @@
     "site": "Wikipedia",
     "title": "Roy Grounds",
     "url": "https://en.wikipedia.org/wiki/Roy_Grounds",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Roy Grounds",
     "url": "https://architectuul.com/architect/roy-grounds",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Australian Dictionary of Biography",
     "title": "Grounds, Sir Roy Burman",
     "url": "https://adb.anu.edu.au/biography/grounds-roy-burman-12571",
-    "why": "the national biography, with his career and works"
+    "why": "the national biography, with his career and works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Canberra House",
     "title": "Roy Grounds",
     "url": "https://canberrahouse.com.au/people/roy-grounds.html",
-    "why": "his houses and buildings in Canberra"
+    "why": "his houses and buildings in Canberra",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -420,19 +445,22 @@
     "site": "Wikipedia",
     "title": "Rudy Ricciotti",
     "url": "https://en.wikipedia.org/wiki/Rudy_Ricciotti",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Rudy Ricciotti",
     "title": "Official site",
     "url": "https://rudyricciotti.com/",
-    "why": "his own projects"
+    "why": "his own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Rudy Ricciotti tag page",
     "url": "https://www.archdaily.com/tag/rudy-ricciotti",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -471,19 +499,22 @@
     "site": "Wikipedia",
     "title": "Sauerbruch Hutton",
     "url": "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Sauerbruch Hutton",
     "title": "Official site",
     "url": "https://www.sauerbruchhutton.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Sauerbruch Hutton office page",
     "url": "https://www.archdaily.com/office/sauerbruch-hutton",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -523,19 +554,22 @@
     "site": "Wikipedia",
     "title": "Sigurd Lewerentz",
     "url": "https://en.wikipedia.org/wiki/Sigurd_Lewerentz",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "UNESCO World Heritage",
     "title": "Skogskyrkogården",
     "url": "https://whc.unesco.org/en/list/558/",
-    "why": "the World Heritage listing for the Woodland Cemetery"
+    "why": "the World Heritage listing for the Woodland Cemetery",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Sigurd Lewerentz",
     "url": "https://architectuul.com/architect/sigurd-lewerentz",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -570,19 +604,22 @@
     "site": "Wikipedia",
     "title": "Smiljan Radić",
     "url": "https://en.wikipedia.org/wiki/Smiljan_Radić_Clarke",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Pritzker Prize",
     "title": "2026 laureate",
     "url": "https://www.pritzkerprize.com/laureates/smiljan-radic-clarke",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Smiljan Radić tag page",
     "url": "https://www.archdaily.com/tag/smiljan-radic",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -630,19 +667,22 @@
     "site": "Wikipedia",
     "title": "Thom Mayne",
     "url": "https://en.wikipedia.org/wiki/Thom_Mayne",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Pritzker Prize",
     "title": "2005 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2005",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Thom Mayne tag page",
     "url": "https://www.archdaily.com/tag/thom-mayne",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -667,7 +707,8 @@
    {
     "claim": "Atelier Bardill: architect Valerio Olgiati (Wikidata P84)",
     "source": "https://www.wikidata.org/wiki/Q107360957",
-    "architect_qid": "Q116136"
+    "architect_qid": "Q116136",
+    "checked": "2026-10-20"
    }
   ],
   "overview_links": [
@@ -675,19 +716,22 @@
     "site": "Wikipedia",
     "title": "Valerio Olgiati",
     "url": "https://en.wikipedia.org/wiki/Valerio_Olgiati",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Valerio Olgiati",
     "title": "Official site",
     "url": "https://olgiati.net/",
-    "why": "his office's own projects"
+    "why": "his office's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Valerio Olgiati tag page",
     "url": "https://www.archdaily.com/tag/valerio-olgiati",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -731,19 +775,22 @@
     "site": "Wikipedia",
     "title": "WilkinsonEyre",
     "url": "https://en.wikipedia.org/wiki/WilkinsonEyre",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "WilkinsonEyre",
     "title": "Official site",
     "url": "https://www.wilkinsoneyre.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "WilkinsonEyre office page",
     "url": "https://www.archdaily.com/office/wilkinsoneyre",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -782,25 +829,29 @@
     "site": "Wikipedia",
     "title": "Yoshinobu Ashihara",
     "url": "https://en.wikipedia.org/wiki/Yoshinobu_Ashihara",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Yoshinobu Ashihara",
     "url": "https://architectuul.com/architect/yoshinobu-ashihara",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Ashihara Architect & Associates",
     "title": "Profile",
     "url": "https://ashihara.jp/profile.html",
-    "why": "the office he founded, with its history"
+    "why": "the office he founded, with its history",
+    "checked": "2026-10-20"
    },
    {
     "site": "Toronto Metropolitan University Archives",
     "title": "Ashihara, Yoshinobu",
     "url": "https://archives.library.torontomu.ca/index.php/ashihara-yoshinobu",
-    "why": "an archival biography of his career and writing"
+    "why": "an archival biography of his career and writing",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -844,19 +895,22 @@
     "site": "Wikipedia",
     "title": "Adolf Loos",
     "url": "https://en.wikipedia.org/wiki/Adolf_Loos",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Adolf Loos",
     "url": "https://architectuul.com/architect/adolf-loos",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Adolf Loos tag page",
     "url": "https://www.archdaily.com/tag/adolf-loos",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -897,19 +951,22 @@
     "site": "Wikipedia",
     "title": "Affonso Eduardo Reidy",
     "url": "https://en.wikipedia.org/wiki/Affonso_Eduardo_Reidy",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Affonso Eduardo Reidy",
     "url": "https://architectuul.com/architect/affonso-eduardo-reidy",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Affonso Eduardo Reidy tag page",
     "url": "https://www.archdaily.com/tag/affonso-eduardo-reidy",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -940,19 +997,22 @@
     "site": "Wikipedia",
     "title": "Aldo Rossi",
     "url": "https://en.wikipedia.org/wiki/Aldo_Rossi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Pritzker Prize",
     "title": "1990 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1990",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Aldo Rossi",
     "url": "https://architectuul.com/architect/aldo-rossi",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -984,7 +1044,8 @@
    {
     "claim": "Pastoor van Arskerk: architect Aldo van Eyck (Wikidata P84)",
     "source": "https://www.wikidata.org/wiki/Q15880551",
-    "architect_qid": "Q444571"
+    "architect_qid": "Q444571",
+    "checked": "2026-10-20"
    }
   ],
   "overview_links": [
@@ -992,19 +1053,22 @@
     "site": "Wikipedia",
     "title": "Aldo van Eyck",
     "url": "https://en.wikipedia.org/wiki/Aldo_van_Eyck",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Aldo van Eyck",
     "url": "https://architectuul.com/architect/aldo-van-eyck",
-    "why": "short biography and a list of his buildings with photos"
+    "why": "short biography and a list of his buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Aldo van Eyck tag page",
     "url": "https://www.archdaily.com/tag/aldo-van-eyck",
-    "why": "classics and articles on his buildings"
+    "why": "classics and articles on his buildings",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1048,19 +1112,22 @@
     "site": "Wikipedia",
     "title": "Alexander Tamanian",
     "url": "https://en.wikipedia.org/wiki/Alexander_Tamanian",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Yerevan Opera Theatre",
     "url": "https://en.wikipedia.org/wiki/Yerevan_Opera_Theatre",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    },
    {
     "site": "Armeniapedia",
     "title": "Alexander Tamanian",
     "url": "https://armeniapedia.org/wiki/Alexander_Tamanian",
-    "why": "a longer biography with his plans and buildings in Armenia"
+    "why": "a longer biography with his plans and buildings in Armenia",
+    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false
@@ -1092,25 +1159,29 @@
     "site": "Wikipedia",
     "title": "Ammar Khammash",
     "url": "https://en.wikipedia.org/wiki/Ammar_Khammash",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Khammash Architects",
     "title": "Official site",
     "url": "https://www.khammash.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "Design Doha",
     "title": "Ammar Khammash",
     "url": "https://designdoha.org.qa/en/calendar/design-doha-prize2024/ammar-khammash/",
-    "why": "a short profile of his work"
+    "why": "a short profile of his work",
+    "checked": "2026-10-20"
    },
    {
     "site": "Divisare",
     "title": "Ammar Khammash",
     "url": "https://divisare.com/authors/2144783495-ammar-khammash",
-    "why": "his projects with photos"
+    "why": "his projects with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1146,25 +1217,29 @@
     "site": "Wikipedia",
     "title": "Architecture-Studio",
     "url": "https://en.wikipedia.org/wiki/Architecture-Studio",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architecture-Studio",
     "title": "Official site",
     "url": "https://www.architecture-studio.fr/en/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Arab World Institute",
     "url": "https://en.wikipedia.org/wiki/Arab_World_Institute",
-    "why": "the building the practice designed with Jean Nouvel"
+    "why": "the building the practice designed with Jean Nouvel",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Architecture-Studio office page",
     "url": "https://www.archdaily.com/office/architecture-studio",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1195,19 +1270,22 @@
     "site": "Wikipedia",
     "title": "Aris Konstantinidis",
     "url": "https://en.wikipedia.org/wiki/Aris_Konstantinidis",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Impactalk",
     "title": "Aris Konstantinidis, artistic architect",
     "url": "https://impactalk.gr/en/stories-talk/aris-konstantinidis-artistic-architect",
-    "why": "an illustrated essay on his life and buildings"
+    "why": "an illustrated essay on his life and buildings",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "UCL Bartlett",
     "title": "Critical Regionalism Abroad",
     "url": "https://www.ucl.ac.uk/bartlett/news/2024/jan/dr-stelios-giamarelos-awarded-publication-grant-schwarz-foundation",
-    "why": "a recent book on his work and teaching abroad"
+    "why": "a recent book on his work and teaching abroad",
+    "check_failed": "status 403, name not found on page"
    }
   ],
   "skip": false
@@ -1246,19 +1324,22 @@
     "site": "Wikipedia",
     "title": "Arup",
     "url": "https://en.wikipedia.org/wiki/Arup_Group",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Arup",
     "title": "Official site",
     "url": "https://www.arup.com/",
-    "why": "the firm's own projects"
+    "why": "the firm's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Arup office page",
     "url": "https://www.archdaily.com/office/arup",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1301,25 +1382,29 @@
     "site": "Wikipedia",
     "title": "Basil Spence",
     "url": "https://en.wikipedia.org/wiki/Basil_Spence",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "University of Edinburgh",
     "title": "Sir Basil Urwin Spence (1907–1976)",
     "url": "https://ourhistory.is.ed.ac.uk/index.php/Sir_Basil_Urwin_Spence_(1907-1976)",
-    "why": "the university's history page on its former student and architect"
+    "why": "the university's history page on its former student and architect",
+    "checked": "2026-10-20"
    },
    {
     "site": "Undiscovered Scotland",
     "title": "Sir Basil Spence",
     "url": "https://www.undiscoveredscotland.co.uk/usbiography/s/basilspence.html",
-    "why": "a short biography"
+    "why": "a short biography",
+    "checked": "2026-10-20"
    },
    {
     "site": "AHRnet",
     "title": "Spence, Basil 1907–1976",
     "url": "https://architecture.arthistoryresearch.net/architects/spence-basil",
-    "why": "a career outline with his partnerships and works"
+    "why": "a career outline with his partnerships and works",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1356,25 +1441,29 @@
     "site": "Wikipedia",
     "title": "Benedetta Tagliabue",
     "url": "https://en.wikipedia.org/wiki/Benedetta_Tagliabue",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Miralles Tagliabue EMBT",
     "title": "Official site",
     "url": "https://www.mirallestagliabue.com/",
-    "why": "the studio's own projects"
+    "why": "the studio's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "designboom",
     "title": "Interview with Benedetta Tagliabue",
     "url": "https://www.designboom.com/architecture/benedetta-tagliabue-interview-embt-12-05-2014/",
-    "why": "an interview on EMBT and her work"
+    "why": "an interview on EMBT and her work",
+    "checked": "2026-10-20"
    },
    {
     "site": "World Architecture",
     "title": "Benedetta Tagliabue interview",
     "url": "https://worldarchitecture.org/architecture-news/ecgef/-in-the-end-it-is-very-difficult-to-avoid-from-the-notion-of-style-says-benedetta-tagliabue.html",
-    "why": "an interview on the studio's approach to public space"
+    "why": "an interview on the studio's approach to public space",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1411,19 +1500,22 @@
     "site": "Wikipedia",
     "title": "Bernard Tschumi",
     "url": "https://en.wikipedia.org/wiki/Bernard_Tschumi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Bernard Tschumi Architects",
     "title": "Official site",
     "url": "https://www.tschumi.com/",
-    "why": "the office's own projects and writings"
+    "why": "the office's own projects and writings",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Bernard Tschumi tag page",
     "url": "https://www.archdaily.com/tag/bernard-tschumi",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1459,25 +1551,29 @@
     "site": "Wikipedia",
     "title": "Leendert van der Vlugt",
     "url": "https://en.wikipedia.org/wiki/Leendert_van_der_Vlugt",
-    "why": "the partner credited with the designs, and the firm's works"
+    "why": "the partner credited with the designs, and the firm's works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Johannes Brinkman",
     "url": "https://en.wikipedia.org/wiki/Johannes_Brinkman",
-    "why": "the other partner and the firm's later history"
+    "why": "the other partner and the firm's later history",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Van Nelle Factory",
     "url": "https://en.wikipedia.org/wiki/Van_Nelle_Factory",
-    "why": "their best-known building"
+    "why": "their best-known building",
+    "checked": "2026-10-20"
    },
    {
     "site": "Metalocus",
     "title": "Brinkman and Van der Vlugt",
     "url": "https://www.metalocus.es/en/author/brinkman-and-van-der-vlugt",
-    "why": "articles on the firm's buildings, with photos and drawings"
+    "why": "articles on the firm's buildings, with photos and drawings",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1509,25 +1605,29 @@
     "site": "Wikipedia",
     "title": "Chamberlin, Powell and Bon",
     "url": "https://en.wikipedia.org/wiki/Chamberlin,_Powell_and_Bon",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Golden Lane Estate",
     "url": "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
-    "why": "the estate that started the practice"
+    "why": "the estate that started the practice",
+    "checked": "2026-10-20"
    },
    {
     "site": "The Modern House",
     "title": "Chamberlin, Powell & Bon",
     "url": "https://www.themodernhouse.com/directory-of-architects-and-designers/chamberlin-powell-bon",
-    "why": "a short profile of the firm"
+    "why": "a short profile of the firm",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Chamberlin, Powell and Bon",
     "url": "https://architectuul.com/architect/chamberlin-powell-and-bon",
-    "why": "a list of the firm's buildings with photos"
+    "why": "a list of the firm's buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
