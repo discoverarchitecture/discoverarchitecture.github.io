@@ -1,0 +1,362 @@
+[
+ {
+  "id": "empire-state-building",
+  "haiku": "photo",
+  "verdict": "photo error",
+  "note": "Keep is right (Art Deco, tallest-building record). Facts, vocab and licences all match prep. But the main photo is a close aerial crop of the tower with its base cut off, not the whole building from outside; the other two chosen photos are crown close-ups. Mildest kind of photo miss; no whole-building daylight shot exists in the set, so 'unsure: no main photo' would be the strict call."
+ },
+ {
+  "id": "golden-gate-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "the-pentagon",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Government headquarters; the lead gives no architectural reason."
+ },
+ {
+  "id": "brooklyn-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "san-siro",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok: lead is only capacity and clubs."
+ },
+ {
+  "id": "resund-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "etihad-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "national-diet-library",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Library; the lead gives no architectural reason."
+ },
+ {
+  "id": "brussels-airport",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Airport."
+ },
+ {
+  "id": "fisht-olympic-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "cathedral-of-christ-the-saviour",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Church; the lead gives size and rebuilding, not an architectural reason."
+ },
+ {
+  "id": "the-clock-towers",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Hotel complex."
+ },
+ {
+  "id": "arena-aufschalke",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok: retractable roof and slide-out pitch is engineering, not an architectural reason in the brief's sense."
+ },
+ {
+  "id": "museum-of-philistine-culture",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Local museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "hampden-park",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "sheikh-zayed-grand-mosque",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Mosque; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "berlin-brandenburg-airport",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Airport."
+ },
+ {
+  "id": "johan-cruyff-arena",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "mhparena",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "olympic-stadium-kyiv",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "university-of-tehran",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: University campus; the lead gives no architectural reason."
+ },
+ {
+  "id": "lincoln-memorial",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip is defensible (national memorial, monument rule). Borderline: lead says neoclassical temple by Henry Bacon."
+ },
+ {
+  "id": "dolby-theatre",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Theatre inside a shopping complex."
+ },
+ {
+  "id": "ernst-happel-stadion",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok but borderline: lead names Otto Ernst Schweizer and the 1931 Workers' Olympiad; no style or significance given."
+ },
+ {
+  "id": "millennium-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "metlife-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "stadio-diego-armando-maradona",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "saint-alexander-nevsky-cathedral-sofia",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok: size and tourism; Neo-Byzantine is named but nothing else."
+ },
+ {
+  "id": "vasco-da-gama-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "olympic-stadium-athens",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok: Calatrava is in the data but not in the lead, and the main photo is a flame at a ceremony."
+ },
+ {
+  "id": "india-gate",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Monument."
+ },
+ {
+  "id": "minsk-national-airport",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Airport."
+ },
+ {
+  "id": "flatiron-building",
+  "haiku": "skip",
+  "verdict": "should keep",
+  "note": "Steel-framed triangular tower by Daniel Burnham, opened 1902: a classic historic precedent and the lead names the architect and the shape. Suggested entry: type Office & tower, movement Historic precedent, photos p1 and p2 (the two Q-rated street views of the whole building), not the aerial 'main' crop."
+ },
+ {
+  "id": "george-washington-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "minix",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Not a building."
+ },
+ {
+  "id": "stade-geoffroy-guichard",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "mestalla-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "est-dio-da-luz",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "stadium-australia",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "gillette-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "vicente-calder-n-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Demolished stadium."
+ },
+ {
+  "id": "mbombela-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "millennium-bridge-london",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok: footbridge, lead is about the wobble and ownership; Foster is not in the lead."
+ },
+ {
+  "id": "brooklyn-museum",
+  "haiku": "photo",
+  "verdict": "agree",
+  "note": "Borderline keep: lead names McKim, Mead & White and the Beaux-Arts style but gives no reason it matters, and Haiku skipped comparable cases (Lincoln Memorial, NMNH). Allowed by the brief's 'named movement' test. Facts match prep; features line is supported by the lead; vocab ok; main photo shows the facade whole, in daylight."
+ },
+ {
+  "id": "national-art-museum-of-azerbaijan",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "pushkin-museum",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Museum; the lead gives no architectural reason."
+ },
+ {
+  "id": "yavuz-sultan-selim-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "tottenham-hotspur-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium; its first is a technical pitch, not architecture."
+ },
+ {
+  "id": "stade-pierre-mauroy",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "donbas-arena",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "crypto-com-arena",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary arena."
+ },
+ {
+  "id": "merkur-spiel-arena",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "grand-mosque-of-paris",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Mosque; the lead gives 'oldest', with no architectural reason."
+ },
+ {
+  "id": "national-museum-of-natural-history",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip ok: lead is about the collection; none of the photos show the building."
+ },
+ {
+  "id": "kul-sharif-mosque",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Mosque; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "church-of-saint-sava",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Church; the lead gives size, not an architectural reason."
+ },
+ {
+  "id": "vizcaya-bridge",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Engineering-only bridge."
+ },
+ {
+  "id": "westminster-cathedral",
+  "haiku": "photo",
+  "verdict": "agree",
+  "note": "Good keep: lead gives a reason (neo-Byzantine, all brick, Betjeman quote). Facts, vocab, features (18 words) and licences match prep. Main photo is the whole west front and tower in daylight, clear subject."
+ },
+ {
+  "id": "hard-rock-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ },
+ {
+  "id": "arrowhead-stadium",
+  "haiku": "skip",
+  "verdict": "agree",
+  "note": "Skip agreed: Ordinary stadium."
+ }
+]

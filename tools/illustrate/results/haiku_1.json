@@ -1,0 +1,183 @@
+[
+ {
+  "id": "empire-state-building",
+  "name": "Empire State Building",
+  "by": "Shreve, Lamb & Harmon",
+  "city": "New York",
+  "cc": "US",
+  "year": 1931,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Art Deco skyscraper built 1930–31, the world's tallest building until 1970.",
+  "qid": "Q9188",
+  "commons_category": "Category:Empire State Building",
+  "coords": [
+   40.74833,
+   -73.98556
+  ],
+  "status": "photo",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Empire_State_Building",
+   "https://www.wikidata.org/wiki/Q9188"
+  ],
+  "photos": [
+   {
+    "file": "File:Empire State Building (aerial view).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Architectural crown and antenna tower of the Empire State Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At New York City 2023 031 - Empire State Building seen from the High Line.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "brooklyn-museum",
+  "name": "Brooklyn Museum",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": 1897,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Community"
+  ],
+  "features": "Beaux-Arts museum building by McKim, Mead & White, dating to 1897 and expanded several times since.",
+  "qid": "Q632682",
+  "commons_category": "Category:Brooklyn Museum",
+  "coords": [
+   40.67131,
+   -73.96375
+  ],
+  "status": "photo",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brooklyn_Museum",
+   "https://www.wikidata.org/wiki/Q632682"
+  ],
+  "photos": [
+   {
+    "file": "File:Brooklyn Museum June 2008 sunset jeh.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "westminster-cathedral",
+  "name": "Westminster Cathedral",
+  "by": "John Francis Bentley",
+  "city": "London",
+  "cc": "GB",
+  "year": 1895,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Structure as expression"
+  ],
+  "features": "Neo-Byzantine brick cathedral built without steel reinforcement; John Betjeman called it a masterpiece in striped brick and stone.",
+  "qid": "Q739364",
+  "commons_category": "Category:Westminster Cathedral",
+  "coords": [
+   51.49583,
+   -0.13947
+  ],
+  "status": "photo",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Westminster_Cathedral",
+   "https://www.wikidata.org/wiki/Q739364"
+  ],
+  "photos": [
+   {
+    "file": "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:UK - London - Westminster - 94.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Looking up at Westminster Cathedral from the piazza on Victoria Street - geograph.org.uk - 7828566.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:UK - London - Westminster - 89.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:View of the detail above the entrance of Westminster Cathedral - geograph.org.uk - 7828569.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "flatiron-building",
+  "qid": "Q220728",
+  "name": "Flatiron Building",
+  "by": "Daniel Burnham, Frederick P. Dinkelberg",
+  "city": "New York",
+  "cc": "US",
+  "year": 1902,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "A 22-storey steel-framed tower filling a triangular block where Fifth Avenue meets Broadway.",
+  "commons_category": "Category:Flatiron Building (New York City)",
+  "coords": [
+   40.74111,
+   -73.98972
+  ],
+  "status": "photo",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flatiron_Building",
+   "https://www.wikidata.org/wiki/Q220728"
+  ],
+  "photos": [
+   {
+    "file": "File:At New York, USA 2017 303.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At New York, USA 2017 305.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edificio Fuller (Flatiron) en 2010 desde el Empire State crop boxin.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Flatiron Building, New York City, NY 4a12277a original.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ }
+]

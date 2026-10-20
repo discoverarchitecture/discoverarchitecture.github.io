@@ -14,6 +14,7 @@ Only public-domain, CC0, CC BY and CC BY-SA files are used. Each photo keeps its
 Steer the picks in tools/image_choices.json:
   {"salk-institute": {"category": "Category:Salk Institute", "more": ["Category:Another folder"],
                       "add": ["File:Some good photo.jpg"],
+                      "drawings": ["File:Some plan.png"],  # checked by eye; kept after the photos
                       "skip": ["File:A bad pick.jpg"]}}
 
 Writes WebP images to site/images/<id>/ and a review sheet to tools/review.html.
@@ -563,6 +564,11 @@ def main():
                 if p:
                     picks.remove(p)
                     picks.insert(0, p)
+            extra = [t for t in ch.get('drawings', []) if t not in {p['title'] for p in picks}]
+            if extra:  # drawings checked by eye (tools/drawings): always kept, after the photos, never the lead
+                info = infos(extra)
+                got = {p['title']: p for p in eligible(b, [(t, '') for t in extra], info) if p['kind'] in DRAWINGS}
+                picks += [got[t] for t in extra if t in got]
             if not picks and b.get('images'):  # nothing usable now: keep what's there (photos, or our drawing)
                 print('    no free photos found; keeping the current gallery')
                 b['gv'] = GALLERY_VERSION

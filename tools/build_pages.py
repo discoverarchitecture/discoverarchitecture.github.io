@@ -394,6 +394,184 @@ def facts_html(b, up):
         f'<div>{fact_icon(k, b)}<dt>{e(k)}</dt><dd>{architect_html(b, up) if k == "Architect" else e(v)}</dd></div>' for k, v in facts) + '</dl>'
 
 
+# ---------- the building page as the opened building from the wall (v27 · 02, approved 20 Oct 2026) ----------
+# The same parts in the same order as the opened building on the wall: the portrait byline and the country map, the
+# key features, three small "threads" (the game, the globe, an idea), photo rows of more buildings, then the links.
+WORLD = {}
+CODE_FIX = {'UK': 'GB', 'Hong Kong': 'HK'}
+COUNTS = {}  # filled once per run: idea and type counts, buildings per architect
+
+
+def country_of(b):
+    c = b['place'].split(', ')[-1]
+    return CODE_FIX.get(c, c)
+
+
+def project(lat, lon):
+    """Natural Earth I, the same as app.js and tools/make_world.py."""
+    import math
+    x0, sc, y0, top, bottom = WORLD['proj']
+    ph = max(bottom, min(top, lat)) * math.pi / 180
+    la = lon * math.pi / 180
+    p2 = ph * ph
+    p4 = p2 * p2
+    x = la * (0.8707 - 0.131979 * p2 + p4 * (-0.013791 + p4 * (0.003971 * p2 - 0.001529 * p4)))
+    y = ph * (1.007226 + p2 * (0.015085 + p4 * (-0.044475 + 0.028874 * p2 - 0.005916 * p4)))
+    return [(x - x0) * sc, (y0 - y) * sc]
+
+
+def fit_path(d, frame, u):
+    """A country's outline cut to the map's frame and thinned to what shows at the map's size (about 190 px wide):
+    points closer than a pixel are dropped, and each step is written in whole units from the last."""
+    x0, y0, x1, y1 = frame
+    out = []
+    for ring in re.split(r'Z', d):
+        nums = [float(v) for v in re.findall(r'-?\d+(?:\.\d+)?', ring)]
+        pts = list(zip(nums[0::2], nums[1::2]))
+        for inside, cut in ((lambda p: p[0] >= x0, lambda a, b: (x0, a[1] + (b[1] - a[1]) * (x0 - a[0]) / (b[0] - a[0]))),
+                            (lambda p: p[0] <= x1, lambda a, b: (x1, a[1] + (b[1] - a[1]) * (x1 - a[0]) / (b[0] - a[0]))),
+                            (lambda p: p[1] >= y0, lambda a, b: (a[0] + (b[0] - a[0]) * (y0 - a[1]) / (b[1] - a[1]), y0)),
+                            (lambda p: p[1] <= y1, lambda a, b: (a[0] + (b[0] - a[0]) * (y1 - a[1]) / (b[1] - a[1]), y1))):
+            kept = []
+            for i, cur in enumerate(pts):  # Sutherland-Hodgman, one edge of the frame at a time
+                prev = pts[i - 1]
+                if inside(cur):
+                    if not inside(prev):
+                        kept.append(cut(prev, cur))
+                    kept.append(cur)
+                elif inside(prev):
+                    kept.append(cut(prev, cur))
+            pts = kept
+            if not pts:
+                break
+        thin = []
+        for x, y in pts:
+            x, y = round(x), round(y)
+            if not thin or abs(x - thin[-1][0]) + abs(y - thin[-1][1]) >= max(1, u):
+                thin.append((x, y))
+        if len(thin) < 3:
+            continue
+        steps = ' '.join(f'{x - a} {y - b}' for (a, b), (x, y) in zip(thin, thin[1:]))
+        out.append(f'M{thin[0][0]} {thin[0][1]}l{steps}z')
+    return ''.join(out)
+
+
+def where_html(b, up):
+    """The small country map beside the byline, framed like the wall's (app.js mapHtml), but carrying only the countries
+    that show inside the frame, so each page stays light. Drawn inline, so it follows day and night."""
+    if not WORLD:
+        WORLD.update(read_js('world.js', 'WORLD'))
+    if not WORLD:
+        return ''
+    code = country_of(b)
+    name = WORLD['names'].get(code, code)
+    W, H = WORLD['w'], WORLD['h']
+    pt = project(*b['coords']) if b.get('coords') else WORLD['centre'].get(code)
+    c = pt or [W / 2, H / 2]
+    box = WORLD['box'].get(code) or [c[0], c[1], c[0], c[1]]
+    ratio = H / W
+    vw = min(W, max(170, (box[2] - box[0]) * 2.4, (box[3] - box[1]) * 2.4 / ratio)) if box[2] - box[0] < W / 2 else W
+    vh = vw * ratio
+    cx, cy = ((box[0] + box[2]) / 2, (box[1] + box[3]) / 2) if vw < W else (c[0], c[1])
+    vx = max(0, min(W - vw, cx - vw / 2))
+    vy = max(0, min(H - vh, cy - vh / 2))
+    u = vw / 190
+    tiny = (box[2] - box[0]) / u < 6
+    frame = (vx - 4 * u, vy - 4 * u, vx + vw + 4 * u, vy + vh + 4 * u)
+    near = ''.join(fit_path(d, frame, u) for k, d in WORLD['paths'].items() if k in WORLD['box'] and not (
+        WORLD['box'][k][2] < vx or WORLD['box'][k][0] > vx + vw or WORLD['box'][k][3] < vy or WORLD['box'][k][1] > vy + vh))
+    here = fit_path(WORLD['paths'].get(code, ''), frame, u)
+    at = f'cx="{pt[0]:.1f}" cy="{pt[1]:.1f}"' if pt else ''
+    city = b['place'].split(',')[0]
+    label = city if city == name else f'{city}, {name}'
+    return (f'<a class="where" href="{up}#map{"=" + e(b["id"]) if b.get("coords") else ""}" aria-label="On the globe: {e(label)}">'
+            f'<svg viewBox="{vx:.1f} {vy:.1f} {vw:.1f} {vh:.1f}" role="img" aria-label="World map with {e(name)} marked"><path class="land" d="{near}"/>'
+            + (f'<path class="here" d="{here}"/>' if here else '')
+            + (f'<circle class="ring" {at} r="{8 * u:.1f}"/>' if pt and tiny else '')
+            + (f'<circle class="pin" {at} r="{3.5 * u:.1f}"/>' if pt and b.get('coords') else '')
+            + f'</svg><span class="where-name">{e(label)} ↗</span></a>')
+
+
+def counts(items):
+    if not COUNTS:
+        from collections import Counter
+        COUNTS['idea'] = Counter(c for x in items for c in x['concepts'])
+        COUNTS['type'] = Counter(x['type'] for x in items)
+        COUNTS['arch'] = {}
+        for x in items:
+            for n in (NM.list(x['by']) if NM else [x['by']]):
+                COUNTS['arch'].setdefault(n, []).append(x)
+    return COUNTS
+
+
+def first_architect(b):
+    names = NM.list(b['by']) if NM else [b['by']]
+    return names[0] if names else b['by']
+
+
+def portrait(b):
+    if not PEOPLE:
+        PEOPLE.update(read_js('architects.js', 'ARCHITECTS') or {'people': {}, 'buildings': {}})
+    for qid in PEOPLE.get('buildings', {}).get(b['id'], []):
+        p = PEOPLE['people'].get(qid)
+        if p and p.get('thumb'):
+            return p
+    return None
+
+
+def initials(name):
+    import re as _re
+    words = [w for w in name.split() if _re.search(r'[^\W\d_]', w)]
+    if len(words) < 2:
+        return (words[0] if words else '?')[:3].upper()
+    return (words[0][0] + words[-1][0]).upper()
+
+
+def arch_link(name, up):
+    """An architect's own page when they have one, else the wall searched for them."""
+    return f'{up}architects/{ARCH[name]}/' if name in ARCH else f'{up}?q={q(name)}'
+
+
+def byline_html(b, up, mine):
+    who, p = first_architect(b), portrait(b)
+    face = (f'<img class="face" src="{e(p["thumb"])}" alt="{e(p["name"])}" loading="lazy">' if p
+            else f'<span class="face initials" aria-hidden="true">{e(initials(who))}</span>')
+    n = len(mine) + 1
+    long = len(b['by']) > 28 or any(len(w) > 10 for w in re.split(r'[\s-]', b['by']))  # as on the wall
+    see = f'<span class="see">See all {n} buildings →</span>' if n > 1 else ''
+    return (f'<a class="by-link" href="{arch_link(who, up)}">{face}<span class="by-text"><i>by</i>'
+            f'<b{" class=" + chr(34) + "long" + chr(34) if long else ""}>{e(b["by"]).replace("/", "/<wbr>")}</b>{see}</span></a>')
+
+
+def tile(x, up):
+    im = x.get('images') or []
+    ph = f'<img src="{e(at(up, im[0]["thumb"]))}" alt="" loading="lazy">' if im else ''
+    return (f'<a href="{up}buildings/{x["id"]}/"><span class="ph">{ph}</span><b>{e(x["name"])}</b>'
+            f'<small>{e(x["year"])} · {e(x["place"].split(",")[0])}</small></a>')
+
+
+THREAD_ART = {
+    'game': '<path d="M8 5.5v13l10-6.5z"/>',
+    'globe': '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/>',
+}
+
+
+def threads_html(b, up, n_idea):
+    idea = b['concepts'][0] if b.get('concepts') else ''
+    d = (FILTER_ART.get('ideaIcons') or {}).get(idea) or 'M4 6h16M4 12h16M4 18h10'
+    city = b['place'].split(',')[0]
+    cards = [
+        ('game', f'{up}play/#daily', 'Guess the building', "Play today’s five", THREAD_ART['game']),
+        ('globe', f'{up}#map={e(b["id"])}', 'On the globe', f'Fly to {e(city)}', THREAD_ART['globe']) if b.get('coords') else
+        ('globe', f'{up}#map', 'On the globe', 'Spin the globe', THREAD_ART['globe']),  # only buildings with coordinates are on it
+    ]
+    if idea:
+        cards.append(('idea', f'{up}?q={q(idea)}', 'Follow an idea', f'{e(idea)}<span class="n"> · {n_idea}</span>', f'<path d="{e(d)}"/>'))
+    return '<nav class="threads" aria-label="Keep exploring">' + ''.join(
+        f'<a class="thread {k}" href="{h}"><span class="ic"><svg viewBox="0 0 24 24" aria-hidden="true">{art}</svg></span>'
+        f'<span class="tx"><small>{lab}</small><b>{t}</b></span><i class="go" aria-hidden="true">→</i></a>' for k, h, lab, t, art in cards) + '</nav>'
+
+
 def building_page(b, items):
     up = '../../'
     url = f"{BASE}buildings/{b['id']}/"
@@ -422,23 +600,57 @@ def building_page(b, items):
         gallery = f'<div class="gallery"><div class="slides">{figs}</div><div class="thumbs">{thumbs}</div></div>' + GALLERY_JS
     else:
         gallery = '<div class="gallery none"><p>No free photos yet. Use the links to see photos and drawings elsewhere.</p></div>'
-    rel_html = ''.join(
-        f'<a href="{up}buildings/{x["id"]}/"><span class="ph">{f"<img src={chr(34)}{e(at(up, x["images"][0]["thumb"]))}{chr(34)} alt={chr(34)}{chr(34)} loading={chr(34)}lazy{chr(34)}>" if x.get("images") else ""}</span>'
-        f'<b>{e(x["name"])}</b><small>{e(x["by"])} · {e(x["year"])}</small></a>' for x in related(b, items))
+    C = counts(items)
+    who = first_architect(b)
+    mine = [x for x in C['arch'].get(who, []) if x['id'] != b['id']]
+    mine.sort(key=lambda x: -x['y'])
+    idea = b['concepts'][0] if b.get('concepts') else ''
+    near = related(b, items, n=60)
+    pool = [x for x in near if idea in x['concepts'] and x not in mine]
+    kin = [x for x in near if x['type'] == b['type'] and x not in mine and x not in pool[:4]]
+    rows = []
+    if mine:
+        rows.append(f'<section class="onward"><h2><span>More by {e(who)}</span><a href="{arch_link(who, up)}">All {len(mine) + 1} →</a></h2><div class="row">{"".join(tile(x, up) for x in mine[:4])}</div></section>')
+    if idea and pool:
+        rows.append(f'<section class="onward"><h2><span>More with {e(idea.lower())}</span><a href="{up}?q={q(idea)}">All {C["idea"][idea]} →</a></h2><div class="row">{"".join(tile(x, up) for x in pool[:4])}</div></section>')
+    ideas = [(c, C['idea'][c]) for c in b['concepts']] + [(b['type'], C['type'][b['type']])]
+    find = ('<section class="onward find"><h2><span>Find more with</span></h2>' + ''.join(
+        f'<a href="{up}?q={q(v)}"><span class="nm">{e(v)}</span><i aria-hidden="true"></i><span class="n">{n} buildings →</span></a>' for v, n in ideas)
+        + '<p class="note">Each opens every building that shares the idea.</p></section>')
+    nxt = (mine or pool or kin or near)[0]
+    nim = (nxt.get('images') or [{}])[0].get('thumb')
+    next_html = (f'<a class="nextcard" href="{up}buildings/{nxt["id"]}/">{f"<img src={chr(34)}{e(at(up, nim))}{chr(34)} alt={chr(34)}{chr(34)}>" if nim else ""}'
+                 f'<span><small>Next</small><b>{e(nxt["name"])}</b></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></a>'
+                 '<script>(function () { var n = document.currentScript.previousElementSibling, f = function () { n.classList.toggle("on", scrollY > 480 || innerWidth > 820); };'
+                 ' f(); addEventListener("scroll", f, { passive: true }); addEventListener("resize", f); })();</script>')
+    deeper = links(b)
+    link_html = lambda rows_: ''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><b class="lt"><span>{e(k)}</span>{e(n)} ↗</b>{logo_html(n, up)}</a>' for k, n, u, d in rows_)
+    deeper_html = (f'<section class="onward deeper"><h2><span>Go deeper</span></h2><div class="links">{link_html(deeper[:6])}</div>'
+                   + (f'<details class="more-links"><summary>See all {len(deeper)} links</summary><div class="links">{link_html(deeper[6:])}</div></details>' if len(deeper) > 6 else '')
+                   + '</section>')
+    same = (f'<section class="onward"><h2><span>More · {e(b["type"])}</span><a href="{up}?q={q(b["type"])}">All {C["type"][b["type"]]} →</a></h2><div class="row">{"".join(tile(x, up) for x in kin[:4])}</div></section>' if kin else '')
+    p = portrait(b)
+    credit = (f'<p class="credits">Portrait: {e(p["credit"]) + " · " if p.get("credit") else ""}{e(p.get("license", ""))}'
+              f'{(" · <a href=" + chr(34) + e(p["source"]) + chr(34) + ">source</a>") if p.get("source") else ""}</p>') if p else ''
     body = f"""<main class="page">
   {gallery}
   <article class="info">
     <p class="kicker">{e(b['type'])} · {e(b['movement'])}</p>
     <h1>{e(b['name'])}</h1>
-    <p class="by">{e(b['by'])} · {e(place_full(b))} · {e(b['year'])}</p>
+    <div class="whowhere">{byline_html(b, up, mine)}{where_html(b, up)}</div>
+    <p class="meta">{e(b['year'])}</p>
     <p class="study"><span>Key features</span>{e(b['study'])}</p>
-    <ul class="tags">{''.join(f'<li>{e(c)}</li>' for c in b['concepts'])}</ul>
-    {facts_html(b, up)}
+    {threads_html(b, up, C['idea'].get(idea, 0))}
+    {''.join(rows)}
+    {find}
+    <section class="onward details"><h2><span>Details</span></h2>{facts_html(b, up)}</section>
+    {deeper_html}
+    {same}
     <a class="cta" href="{up}#{b['id']}">See it on the wall</a>
+    {credit}
   </article>
 </main>
-{about_block(b)}<section class="block"><h2>Go deeper</h2><div class="links">{''.join(f'<a href="{e(u)}" rel="noopener"{"" if d else " class=" + chr(34) + "guess" + chr(34)}><b class="lt"><span>{e(k)}</span>{e(n)} ↗</b>{logo_html(n, up)}</a>' for k, n, u, d in links(b))}</div></section>
-<section class="block"><h2>Drift onward</h2><div class="rel">{rel_html}</div></section>
+{about_block(b)}{next_html}
 """
     return head + body + FOOT.format(up=up, total=TOTAL, css_v=CSS_V)
 
