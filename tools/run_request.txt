@@ -1,2 +1,2 @@
-python -u tools/fetch_summaries.py --top 1000
-About texts (quoted from Wikipedia, credited) for the 1,000 most-studied buildings.
+python -u tools/cheap_prep.py tools/cheap/pool2.json --n 100
+Haiku experiment, second pool (100).
