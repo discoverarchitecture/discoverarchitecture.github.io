@@ -2,7 +2,7 @@
 window.SUMMARIES = {
  "sagrada-familia": {
   "paragraphs": [
-   "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic church in the Eixample district of Barcelona, Catalonia, Spain. Designed by the Catalan architect Antoni Gaudí, it is the tallest church",
+   "Basílica i Temple Expiatori de la Sagrada Família, or simply Sagrada Família, is a Catholic church in the Eixample district of Barcelona, Catalonia, Spain.",
    "The style of Sagrada Família is variously likened to Spanish Late Gothic, Catalan Modernism or Art Nouveau. While the style falls within the Art Nouveau period, Nikolaus Pevsner points out that, along with Charles Rennie Mackintosh in Glasgow, Scotland, Gaudí carried the Art Nouveau style far beyond its usual application as a surface decoration.",
    "On 19 March 1882, construction of Sagrada Família began under the architect Francisco de Paula del Villar. In 1883, when Villar resigned, Gaudí took over as chief architect, transforming the project with his architectural and engineering style, combining Gothic and curvilinear Art Nouveau forms. Gaudí devoted the remainder of his life to the project, and he is buried in the church's crypt. At the time of his death in 1926, less than a quarter of the project was complete."
   ],
@@ -604,7 +604,7 @@ window.SUMMARIES = {
   "paragraphs": [
    "Olympiastadion (German pronunciation: [ʔoˈlʏmpi̯aːˌʃtaːdi̯ɔn] ) is a stadium located in Munich, Germany. Situated at the heart of the Olympiapark München in northern Munich, the stadium was built as the main venue for the 1972 Summer Olympics.",
    "Designed by the German architect Günther Behnisch and the engineer Frei Otto, with the assistance of John Argyris, the lightweight tent construction of the Olympiastadion was considered revolutionary for its time. This included large sweeping canopies of acrylic glass stabilized by steel cables that were used for the first time on a large scale. The idea was to imitate the Alps skyline and to set a counterpoint to the 1936 Summer Olympics in Berlin, held during the Nazi regime. The sweeping and transparent canopy was designed to symbolize the new, democratic and optimistic West Germany. This concept was reflected in the official motto: \"The cheerful Games\" (\"Die Heiteren Spiele\").",
-   "During the Olympics 70,824 tickets—including the unsaleable—were available for the events taking place in the stadium (including the opening and closing ceremonies). Yet, during the track and field competitions,"
+   "During the Olympics 70,824 tickets—including the unsaleable—were available for the events taking place in the stadium (including the opening and closing ceremonies)."
   ],
   "title": "Olympiastadion (Munich)",
   "url": "https://en.wikipedia.org/wiki/Olympiastadion_(Munich)",
@@ -1653,7 +1653,7 @@ window.SUMMARIES = {
   "paragraphs": [
    "Ieoh Ming Pei ( YOH ming PAY; Chinese: 貝聿銘; pinyin: Bèi Yùmíng; April 26, 1917 – May 16, 2019) was a Chinese-American architect.",
    "Born in Guangzhou into a Chinese family, Pei drew inspiration at an early age from the garden villas at Suzhou, the traditional retreat of the scholar-gentry to which his family belonged. In 1935, he moved to the United States and enrolled in the University of Pennsylvania's architecture school, but quickly transferred to the Massachusetts Institute of Technology. Unhappy with the focus on Beaux-Arts architecture at both schools, he spent his free time researching emerging architects, especially Le Corbusier.",
-   "After graduating from MIT, Pei enrolled in the Harvard Graduate School of Design (GSD) where he befriended faculty members Walter Gropius and Marcel Breuer, both of whom had formerly taught at the Bauhaus. Beginning in 1948, Pei worked as an in-house architect for New York City real estate developer William Zeckendorf. In 1955, he established an independent design firm, I. M. Pei & Associates. In 1966, the firm was reorganized as I. M. Pei & Partners, and in 1989 reorganized"
+   "After graduating from MIT, Pei enrolled in the Harvard Graduate School of Design (GSD) where he befriended faculty members Walter Gropius and Marcel Breuer, both of whom had formerly taught at the Bauhaus. Beginning in 1948, Pei worked as an in-house architect for New York City real estate developer William Zeckendorf. In 1955, he established an independent design firm, I. M. Pei & Associates. In 1966, the firm was reorganized as I. M."
   ],
   "title": "I. M. Pei",
   "url": "https://en.wikipedia.org/wiki/I._M._Pei",
@@ -6447,7 +6447,7 @@ window.SUMMARIES = {
  "markthal": {
   "paragraphs": [
    "The Markthal (English: Market Hall) is a residential and office building with a market hall underneath, located in Rotterdam.",
-   "The Markthal was designed by architectural firm MVRDV. The grey nature stone building has an archwise structure like a horseshoe. The building has a glass facade on both sides; these are made up of smaller glass windows. The smaller windows are mostly squared and around 1485 millimeters wide. All of these are hung around a structure of steel cables, 34 metres high and 42 metres wide, which makes it the largest glass-window cable structure in Europe. Each facade has 26 vertical and 22 horizontal cables. The facade was designed and installed by Octatube",
+   "The Markthal was designed by architectural firm MVRDV. The grey nature stone building has an archwise structure like a horseshoe. The building has a glass facade on both sides; these are made up of smaller glass windows. The smaller windows are mostly squared and around 1485 millimeters wide. All of these are hung around a structure of steel cables, 34 metres high and 42 metres wide, which makes it the largest glass-window cable structure in Europe. Each facade has 26 vertical and 22 horizontal cables.",
    "The building was opened on October 1, 2014, by Queen Máxima of the Netherlands. Besides the large market hall, the complex houses 228 apartments, 4,600 m2 retail space, 1,600 m2 horeca and an underground 4-story parking garage with a capacity of over 1200 cars."
   ],
   "title": "Market Hall (Rotterdam)",
@@ -6549,7 +6549,6 @@ window.SUMMARIES = {
  "viaduc-de-garabit": {
   "paragraphs": [
    "The Garabit viaduct (French: viaduc de Garabit) is a railway arch bridge spanning the Truyère, near Ruynes-en-Margeride, Cantal, France, in the mountainous Massif Central region.",
-   "The Garabit viaduct, which uses a parabolic arch to support a single rail line across the gorge,",
    "Rail traffic using the bridge causes a deflection (load displacement) of about 8 millimetres (0.315 in), which was the same value as the one calculated by Eiffel. The bridge, which is 124 m (407 ft) above the river, had the world's longest arch when it was completed in 1884. This was surpassed two years later with the opening of the Dom Luís I Bridge across the Douro in Porto, Portugal in 1886.",
    "Until 11 September 2009, one regular daily Corail passenger train passed each way from Clermont-Ferrand to Béziers. However, the viaduct was closed when cracks were discovered in one of the foundation piles. The Garabit viaduct reopened the following month after a safety inspection, with a speed limit of 10 km/h (6.2 mph) for all traffic.",
    "The bridge was constructed between 1882 and 1884 by Gustave Eiffel, with structural engineering by Maurice Koechlin, and was opened in 1885. It is 565 m (1,854 ft) in length and has a principal arch of 165 m (541 ft) span."
@@ -7804,8 +7803,7 @@ window.SUMMARIES = {
  },
  "harry-and-penelope-seidler-house": {
   "paragraphs": [
-   "The Harry and Penelope Seidler House is a heritage-listed modernist house located at 13 Kalang Avenue in the Sydney suburb of Killara, Australia. It was designed by architects Penelope and Harry Seidler and Harry Seidler & Associates, and built from 1966 to 1967 by Peter Cussel. It was added to the New South Wales State Heritage Register on 20 June 2008.",
-   "Architects: Harry and Penelope Seidler, Harry Seidler & Associates"
+   "The Harry and Penelope Seidler House is a heritage-listed modernist house located at 13 Kalang Avenue in the Sydney suburb of Killara, Australia. It was designed by architects Penelope and Harry Seidler and Harry Seidler & Associates, and built from 1966 to 1967 by Peter Cussel. It was added to the New South Wales State Heritage Register on 20 June 2008."
   ],
   "title": "Harry and Penelope Seidler House",
   "url": "https://en.wikipedia.org/wiki/Harry_and_Penelope_Seidler_House",
@@ -8247,7 +8245,7 @@ window.SUMMARIES = {
   "paragraphs": [
    "The Embassy of Belgium in New Delhi is the diplomatic mission of the Kingdom of Belgium to India. The embassy is located at Shantipath, Chanakyapuri. The Embassy of Belgium in New Delhi covers the services for India, Sri Lanka, Bangladesh, the Maldives, Bhutan and Nepal. Belgium also operates a consulate in Mumbai and Chennai. The Belgian ambassador to India is Didier Vanderhasselt.",
    "Belgium had opened its embassy in India in 1947, just a few months after India's independence. Its first ambassador to India was Eugène, 11th Prince of Ligne.",
-   "The construction of the current embassy complex (seen in picture) was designed and managed by Satish Gujral, and completed in 1984. The design resembles a fortress of rocky outcrops. The building complex includes the administrative buildings of the embassy, chancellor's residence, ambassador's residence, and staff housing. The embassy was one of Satish Gujral's most challenging assignments, winning him national and international awards. In 2000, the building was recognised as one of the 1000 best buildings of the 20th century"
+   "The construction of the current embassy complex (seen in picture) was designed and managed by Satish Gujral, and completed in 1984. The design resembles a fortress of rocky outcrops. The building complex includes the administrative buildings of the embassy, chancellor's residence, ambassador's residence, and staff housing. The embassy was one of Satish Gujral's most challenging assignments, winning him national and international awards."
   ],
   "title": "Embassy of Belgium, New Delhi",
   "url": "https://en.wikipedia.org/wiki/Embassy_of_Belgium,_New_Delhi",
@@ -8267,7 +8265,7 @@ window.SUMMARIES = {
  "british-council-new-delhi": {
   "paragraphs": [
    "The headquarters of the British Council in India are in New Delhi in a 1992 building designed by Indian architect Charles Correa. The front of the building includes a mural by British artist Howard Hodgkin.",
-   "The British Council was first established in India in 1948. Today it has offices in Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Kolkata, Mumbai, Pune as well as its headquarters in Delhi. The Director of the British Council in India is Barbara Wickham OBE"
+   "The British Council was first established in India in 1948. Today it has offices in Ahmedabad, Bengaluru, Chandigarh, Chennai, Hyderabad, Kolkata, Mumbai, Pune as well as its headquarters in Delhi."
   ],
   "title": "British Council, India",
   "url": "https://en.wikipedia.org/wiki/British_Council,_India",

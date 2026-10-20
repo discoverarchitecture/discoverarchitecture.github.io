@@ -51,6 +51,15 @@ def clean(par):
     return re.sub(r'\s+', ' ', par).strip()
 
 
+def whole(par):
+    """Wikipedia's plain text drops some templates (heights, "in the world"), leaving a sentence cut short:
+    end the paragraph at its last full sentence."""
+    if re.search(r'[.!?…"”’)]$', par):
+        return par
+    m = list(re.finditer(r'[.!?](?=\s)', par))
+    return par[:m[-1].end()] if m else ''
+
+
 def trim(words_text, limit=MAX_WORDS):
     """Cut at a sentence end once the limit is reached."""
     words = words_text.split()
@@ -97,6 +106,7 @@ def extract(title):
         head = ' '.join(chosen[:-1])
         room = MAX_WORDS - len(head.split())
         chosen[-1] = trim(chosen[-1], max(room, 60))
+    chosen = [x for x in (whole(c) for c in chosen) if x]
     return {'paragraphs': chosen, 'title': page['title'], 'url': page['canonicalurl'],
             'revision': page.get('revisions', [{}])[0].get('revid'), '_full': text}
 
