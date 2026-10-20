@@ -564,6 +564,51 @@ button.by-link:focus-visible { outline: 3px solid var(--red); outline-offset: 3p
 .play-menu b { font-size: 16px; font-weight: 700; transition: color .15s ease; }
 .play-menu span { font: 500 13px var(--mono); letter-spacing: .02em; color: var(--graphite); }
 
+/* ---------- the opened building, final look (v25 · 01, approved 17 Oct): Look B ----------
+   A thin ink rule over each part (a catalogue index), glass photo tabs and arrows over the photo, Go deeper in dashed
+   cells two to a row (six shown, then "See all"), "Find more with" as dotted leader rows with counts, and glass
+   neighbours. Day and night come from theme.css. */
+.info h2 { border-top-color: var(--ink); }
+.kinds { position: absolute; z-index: 2; left: 12px; top: 12px; display: flex; gap: 6px; flex-wrap: wrap; }
+.kinds[hidden] { display: none; }
+.kinds button { all: unset; cursor: pointer; display: inline-flex; align-items: baseline; gap: 5px; padding: 6px 11px; border-radius: var(--r); font: 600 13px var(--mono); letter-spacing: .03em; color: #fff;
+  background: rgba(20,20,19,.38); -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px); border: 1px solid rgba(255,255,255,.22); }
+.kinds button span { opacity: .7; font-weight: 500; }
+.kinds button[aria-pressed="true"] { background: rgba(255,255,255,.9); color: #111110; border-color: transparent; }
+@media (hover: hover) { .kinds button:hover { border-color: #fff; } }
+.kinds button:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+.strip button[hidden] { display: none; }
+.nav { width: 44px; height: 44px; top: calc(50% - 46px); border-radius: 50%; background: rgba(20,20,19,.38); -webkit-backdrop-filter: blur(16px); backdrop-filter: blur(16px); border: 1px solid rgba(255,255,255,.25); }
+.nav svg { width: 20px; height: 20px; }
+.nav.prev { left: 12px; } .nav.next { right: 12px; }
+.links { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.links a { border-style: dashed; border-color: color-mix(in srgb, var(--graphite) 55%, transparent); background: transparent; }
+.links a[data-extra] { display: none; }
+.links.all a[data-extra] { display: flex; }
+.more { all: unset; cursor: pointer; align-self: flex-start; margin-top: 8px; padding: 8px 13px; border: 1px solid var(--ink); border-radius: var(--r); font: 600 14px var(--sans); transition: color .15s ease, border-color .15s ease; }
+.more[hidden] { display: none; }
+@media (hover: hover) { .more:hover { color: var(--red); border-color: var(--red); } }
+.more:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+.chips.rows { display: flex; flex-direction: column; gap: 0; }
+.chips.rows .chip { display: flex; align-items: baseline; gap: 8px; padding: 8px 0; border: 0; border-radius: 0; background: none; box-shadow: none; font-size: 16px; font-weight: 600; }
+.chips.rows .chip i { flex: 1; border-bottom: 1px dotted var(--line); translate: 0 -4px; }
+.chips.rows .chip .n { font: 500 13px var(--mono); color: var(--graphite); opacity: 1; }
+@media (hover: hover) { .chips.rows .chip:hover, .chips.rows .chip:hover .n { color: var(--red); } }
+.info .note { margin: 4px 0 0; font: 500 13px var(--mono); letter-spacing: .02em; color: var(--graphite); }
+.info .note[hidden] { display: none; }
+.step-btn .arrow { background: var(--glass); -webkit-backdrop-filter: blur(22px) saturate(185%); backdrop-filter: blur(22px) saturate(185%); border: 1px solid var(--rim); box-shadow: var(--glass-shadow); border-radius: 50%; }
+.peek { background: var(--glass); color: var(--ink); -webkit-backdrop-filter: blur(22px) saturate(185%); backdrop-filter: blur(22px) saturate(185%); border: 1px solid var(--rim); box-shadow: var(--glass-shadow); border-radius: var(--r-panel); }
+.peek small { color: var(--graphite); }
+@media (max-width: 820px) {
+  .kinds { top: 10px; left: 10px; }
+  .kinds button { font-size: 12px; padding: 5px 9px; }
+  .nav { width: 38px; height: 38px; top: calc(50% - 19px); }
+  .links a { padding: 8px 9px; gap: 8px; font-size: 13px; }
+  .step-btn { border-radius: 14px; }
+  .step-btn .arrow { background: none; border: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
+  .peek { background: none; border: 0; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none; }
+}
+
 /* ---------- top panel D (v23 · 01 D, approved 19 Oct): the name, large, on glass above the wall ----------
    At the top, one glass panel: "Find great / Architecture." with the motto, then search · Filter · day/night ·
    Guess the building?, then Buildings | Books and the ideas. It fades and lifts as it scrolls away (app.js sets --p).
