@@ -64,7 +64,7 @@
   const state = {
     q: '', seed: 11, ncols: 0, mode: 'buildings', shelf: null,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
-    open: null, shot: 0, seen: new Set(), lastTile: null,
+    open: null, shot: 0, kind: 'All', seen: new Set(), lastTile: null,
     booting: true, unwinding: false
   };
   const tileShot = new Map(); // which photo each tile is showing
@@ -410,6 +410,18 @@
   }
   const relHtml = list => list.map(x => `<button type="button" data-id="${esc(x.id)}"><span class="ph">${x.images && x.images[0] ? `<img src="${esc(x.images[0].thumb)}" alt="" loading="lazy">` : ''}</span>${esc(x.name)}<small>${esc(x.year)} · ${esc(x.place.split(',')[0])}</small></button>`).join('');
 
+  /* Photo tabs (v25): All · Exterior · Interior · Detail, in glass over the photo, when a building has two or more of
+     those kinds. A tab narrows the arrows, the swipe and the strip to its photos. */
+  const KINDS = ['Exterior', 'Interior', 'Detail'];
+  const inKind = (im, kind) => kind === 'All' || !im || im.kind === kind;
+  function drawKinds(b) {
+    const ims = b.images || [], have = KINDS.map(k => [k, ims.filter(im => im.kind === k).length]).filter(([, n]) => n);
+    if (!have.some(([k]) => k === state.kind)) state.kind = 'All';
+    const el = $('gKinds');
+    el.hidden = !b.full || have.length < 2;
+    el.innerHTML = [['All', ims.length], ...have].map(([k, n]) => `<button type="button" data-kind="${k}" aria-pressed="${k === state.kind}">${k}<span>${n}</span></button>`).join('');
+    $('strip').querySelectorAll('button').forEach(t => { t.hidden = !inKind(ims[+t.dataset.k], state.kind); });
+  }
   function showShot(k) {
     const b = state.open; if (!b || b.kind === 'book') return;
     const ims = b.images || [];
@@ -424,7 +436,9 @@
     const total = photoCount(b);
     k = (k + total) % total;
     if (!ims[k]) k = 0; // the other photos are still loading
+    if (!inKind(ims[k], state.kind)) k = Math.max(0, ims.findIndex(im => inKind(im, state.kind)));
     state.shot = k;
+    const shown = state.kind === 'All' ? null : ims.map((im, j) => [im, j]).filter(([im]) => inKind(im, state.kind)).map(([, j]) => j);
     const im = ims[k];
     // Show the small thumbnail at once, then swap in the full photo (often from Wikimedia) when it arrives.
     const drawing = im.kind === 'Drawing';
@@ -437,10 +451,10 @@
       full.src = im.src;
     }
     const credit = (im.credit || '').replace(/\.$/, '');
-    $('gCap').innerHTML = `<span class="c">${k + 1}/${total}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
+    $('gCap').innerHTML = `<span class="c">${shown ? shown.indexOf(k) + 1 : k + 1}/${shown ? shown.length : total}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
       `<span class="l">${credit ? (im.kind === 'Drawing' ? '' : 'Photo: ') + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
     $('strip').querySelectorAll('button').forEach((t, j) => t.setAttribute('aria-current', j === k));
-    $('gPrev').hidden = $('gNext').hidden = total < 2;
+    $('gPrev').hidden = $('gNext').hidden = (shown ? shown.length : total) < 2;
   }
 
   // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
@@ -477,15 +491,26 @@
     } catch (e) { /* some embedded frames forbid it */ }
   }
 
-  const linksHtml = b => linksFor(b).map(([k, n, u, direct]) =>
-    `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Searches this site for the building"'}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
+  // Go deeper shows six links, then "See all N links" opens the rest (v25).
+  const LINKS_SHOWN = 6;
+  const linksHtml = b => linksFor(b).map(([k, n, u, direct], i) =>
+    `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Searches this site for the building"'}${i >= LINKS_SHOWN ? ' data-extra' : ''}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
+  function drawLinks(b) {
+    $('links').innerHTML = linksHtml(b);
+    const n = linksFor(b).length, more = $('linksMore');
+    more.hidden = n <= LINKS_SHOWN;
+    more.textContent = `See all ${n} links ↓`;
+    more.setAttribute('aria-expanded', 'false');
+    $('links').classList.remove('all');
+  }
   const stripHtml = b => (b.images || []).map((im, k) =>
     `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
   // The opened building shows at once from what the wall already has; its other photos and its links join in when they arrive.
   function fillDetail(b) {
     if (state.open !== b) return;
     $('strip').innerHTML = stripHtml(b);
-    $('links').innerHTML = linksHtml(b);
+    drawLinks(b);
+    drawKinds(b);
     showShot(state.shot); // same thumbnail, now with its full photo, credit and licence
   }
   function openBuilding(id, surprise, fromEl, fromHistory) {
@@ -499,6 +524,8 @@
     $('linksTitle').textContent = 'Go deeper';
 
     $('strip').innerHTML = stripHtml(b);
+    state.kind = 'All';
+    drawKinds(b);
     showShot(tileShot.get(b.id) || 0);
 
     const kick = $('bKicker');
@@ -513,10 +540,13 @@
     $('bMeta').textContent = b.year;
     $('bStudy').innerHTML = `<span>Key features</span>${esc(b.study)}`;
     $('pageLink').href = 'buildings/' + b.id + '/';
-    $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
-      `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
+    // Find more with (v25): one dotted row per idea, with how many buildings share it.
+    const row = (g, v) => { const n = ALL.filter(x => g === 'type' ? x.type === v : (x.concepts || []).includes(v)).length;
+      return `<button type="button" class="chip" data-g="${g}" data-v="${esc(v)}"><span class="nm">${esc(v)}</span><i aria-hidden="true"></i><span class="n">${n.toLocaleString('en')} buildings →</span></button>`; };
+    $('bChips').innerHTML = (b.concepts || []).map(c => row('concepts', c)).join('') + row('type', b.type);
+    $('bChips').classList.add('rows'); $('chipsNote').hidden = false;
 
-    $('links').innerHTML = b.full ? linksHtml(b) : '';
+    if (b.full) drawLinks(b); else { $('links').innerHTML = ''; $('linksMore').hidden = true; }
 
     const mine = byArchitect(b), kin = sameType(b);
     $('byArch').hidden = !mine.length;
@@ -539,7 +569,7 @@
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
     updateStep();
-    if (!b.full) loadDetail(b).then(() => fillDetail(b), () => { if (state.open === b) $('links').innerHTML = linksHtml(b); });
+    if (!b.full) loadDetail(b).then(() => fillDetail(b), () => { if (state.open === b) drawLinks(b); });
   }
 
   /* ---------- related books in the opened building ---------- */
@@ -648,6 +678,7 @@
     $('bStudy').innerHTML = `<span>Why read it</span>${esc(k.why)}`;
     $('pageLink').hidden = true;
     $('linksTitle').textContent = 'Get it';
+    $('linksMore').hidden = true; $('gKinds').hidden = true; $('bChips').classList.remove('rows'); $('chipsNote').hidden = true;
     $('links').innerHTML = bookLinks(k).map(([kind, n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
     $('shopNote').hidden = !SHOP.tag;
     const built = buildingsOf(k), who = (k.architects || [])[0];
@@ -744,10 +775,23 @@
   $('sPrev').addEventListener('click', () => stepBuilding(-1));
   $('sNext').addEventListener('click', () => stepBuilding(1));
   // Moving between photos needs the full list, so a very early press waits for it.
-  const shotBy = d => { const b = state.open; if (b && b.kind !== 'book' && !b.full) loadDetail(b).then(() => showShot(state.shot + d), () => {}); else showShot(state.shot + d); };
+  // the next photo in the chosen tab, round the end
+  const nextShot = d => { const b = state.open, ims = (b && b.images) || [], n = photoCount(b) || 1;
+    for (let i = 1; i <= n; i++) { const k = ((state.shot + d * i) % n + n) % n; if (inKind(ims[k], state.kind)) return k; } return state.shot; };
+  const shotBy = d => { const b = state.open; if (b && b.kind !== 'book' && !b.full) loadDetail(b).then(() => showShot(nextShot(d)), () => {}); else showShot(nextShot(d)); };
   $('gPrev').addEventListener('click', () => shotBy(-1));
   $('gNext').addEventListener('click', () => shotBy(1));
   $('strip').addEventListener('click', e => { const t = e.target.closest('button[data-k]'); if (t) showShot(+t.dataset.k); });
+  $('gKinds').addEventListener('click', e => {
+    const t = e.target.closest('button[data-kind]'); const b = state.open; if (!t || !b) return;
+    state.kind = t.dataset.kind; drawKinds(b);
+    showShot((b.images || []).findIndex(im => inKind(im, state.kind)));
+  });
+  $('linksMore').addEventListener('click', e => {
+    const open = $('links').classList.toggle('all'), b = state.open;
+    e.currentTarget.setAttribute('aria-expanded', open);
+    e.currentTarget.textContent = open ? 'Show fewer ↑' : `See all ${b ? linksFor(b).length : ''} links ↓`;
+  });
   // swipe between photos on touch screens
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
