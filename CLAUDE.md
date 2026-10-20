@@ -15,7 +15,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 
 - **Every design is drawn for both phone and computer, phone first.** Each new canvas board shows the phone version (390px wide) next to the computer version, and nothing is built until both have been seen. Every change is checked at about 400px and at desktop width before its pull request.
 
-- **Free images only**: public domain, CC0, CC BY or CC BY-SA, from Wikimedia Commons. Never NC or ND. Every photo shows its credit and licence and links to its source.
+- **Free images only**: public domain, CC0, CC BY or CC BY-SA, from Wikimedia Commons. Never NC or ND. Every photo shows its credit and licence and links to its source. The one other source allowed (owner, 20 Oct 2026): the Art Institute of Chicago's public-domain (CC0) works, mainly architectural drawings, credited "Art Institute of Chicago" and linked to the artwork's page there.
 - About ten buildings have no free photos. The owner will decide later how to handle licensed photos: remind them, don't solve it alone.
 - **The main photo (the wall tile) shows the building**, never people as the subject, an event, a crowd, artworks, objects or a sign (owner's rule, 14 Oct 2026). Every new lead is checked by eye for this; a building with no such photo stays off the wall until one is found.
 - Building photos are always **square-cornered**. Everything else in the UI is rounded: buttons, filters and tags are **rectangles with rounded corners** (`--r`, 10px), not round pills; panels get softer corners (`--r-panel`, 18px).
