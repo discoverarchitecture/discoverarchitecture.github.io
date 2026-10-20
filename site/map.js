@@ -365,6 +365,7 @@
   }
   // The Map button works from anywhere: an open building closes and the map flies to it; the books wall switches to buildings.
   async function openMap() {
+    const to = DA.mapTo; DA.mapTo = null; // a building page's "On the globe" link (#map=<id>) names the building to fly to
     const was = !$('sheet').hidden && DA.state.open && DA.state.open.kind !== 'book' ? DA.state.open : null;
     if (!$('sheet').hidden) $('close').click();
     if (DA.state.mode === 'books') $('modeBuildings').click();
@@ -380,7 +381,7 @@
     }
     resize();
     $('gNone').hidden = items.length > 0;
-    const here = was && all.find(it => it.b === was);
+    const here = to ? all.find(it => it.b.id === to) : was && all.find(it => it.b === was);
     if (here) fly(here, 22); // straight to the building that was open, with its card
     else if (items.length && items.length < all.length) fit();
   }
