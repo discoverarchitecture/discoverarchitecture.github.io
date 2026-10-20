@@ -1,2 +1,2 @@
---only sagrada-familia,taj-mahal,eiffel-tower,hagia-sophia,angkor-wat,kennedy-center,forbidden-city,alhambra,palace-of-westminster,chrysler-building,sydney-opera-house,borobudur,altare-della-patria,palais-garnier,st-pancras-railway-station,golestan-palace,hungarian-parliament-building,watergate-complex,chateau-frontenac,royal-pavilion-brighton
-Drawings checked by eye for 20 of the most-studied buildings.
+--only sagrada-familia,eiffel-tower,kennedy-center,forbidden-city,sydney-opera-house,borobudur,palais-garnier,watergate-complex,alhambra,royal-albert-hall,victoria-memorial-kolkata,wollaton-hall,rookery-building,flatiron-building,auditorium-building-chicago
+Refetch: checked drawings replace the automatic ones.
