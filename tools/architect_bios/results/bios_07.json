@@ -1119,13 +1119,15 @@
     "site": "Wikipedia",
     "title": "Government House, Yerevan",
     "url": "https://en.wikipedia.org/wiki/Government_House,_Yerevan",
-    "why": "his building on Republic Square"
+    "why": "his building on Republic Square",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "AD Classics: Armenian Opera Theater",
     "url": "https://www.archdaily.com/157639/ad-classics-armenian-opera-theater-alexander-tamanian",
-    "why": "a study of his opera house with photos"
+    "why": "a study of his opera house with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1268,13 +1270,15 @@
     "site": "archINFORM",
     "title": "Aris Konstantinidis",
     "url": "https://www.archinform.net/arch/3194.htm",
-    "why": "a list of his buildings with references"
+    "why": "a list of his buildings with references",
+    "check_failed": "status 300, name not found on page"
    },
    {
     "site": "University of Thessaly",
     "title": "Weekend House, Anavyssos",
     "url": "https://www.arch.uth.gr/en/projectpopup/index/449",
-    "why": "a study of his best-known house"
+    "why": "a study of his best-known house",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false

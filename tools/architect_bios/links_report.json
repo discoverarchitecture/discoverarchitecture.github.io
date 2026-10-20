@@ -423,15 +423,6 @@
   "error": null
  },
  {
-  "architect": "Yoshinobu Ashihara",
-  "url": "https://archives.library.torontomu.ca/index.php/ashihara-yoshinobu",
-  "status": 200,
-  "final": "https://archives.library.torontomu.ca/",
-  "title": "Toronto Metropolitan University Libraries Archives &amp; Special Collections - TMU Archives &amp; Special Collections",
-  "about": false,
-  "error": null
- },
- {
   "architect": "Adolf Loos",
   "url": "https://en.wikipedia.org/wiki/Adolf_Loos",
   "status": 200,
@@ -559,11 +550,20 @@
  },
  {
   "architect": "Alexander Tamanian",
-  "url": "https://armeniapedia.org/wiki/Alexander_Tamanian",
-  "status": 403,
-  "final": "https://armeniapedia.org/wiki/Alexander_Tamanian",
-  "title": "",
-  "about": false,
+  "url": "https://en.wikipedia.org/wiki/Government_House,_Yerevan",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Government_House,_Yerevan",
+  "title": "Government House, Yerevan - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Alexander Tamanian",
+  "url": "https://www.archdaily.com/157639/ad-classics-armenian-opera-theater-alexander-tamanian",
+  "status": 200,
+  "final": "https://www.archdaily.com/157639/ad-classics-armenian-opera-theater-alexander-tamanian",
+  "title": "AD Classics: Armenian Opera Theater / Alexander Tamanian | ArchDaily",
+  "about": true,
   "error": null
  },
  {
@@ -613,15 +613,6 @@
  },
  {
   "architect": "Architecture-Studio",
-  "url": "https://www.architecture-studio.fr/en/",
-  "status": 0,
-  "final": "https://www.architecture-studio.fr/en/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [Errno 104] Connection reset by peer>"
- },
- {
-  "architect": "Architecture-Studio",
   "url": "https://en.wikipedia.org/wiki/Arab_World_Institute",
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Arab_World_Institute",
@@ -649,20 +640,20 @@
  },
  {
   "architect": "Aris Konstantinidis",
-  "url": "https://impactalk.gr/en/stories-talk/aris-konstantinidis-artistic-architect",
-  "status": 403,
-  "final": "https://impactalk.gr/en/stories-talk/aris-konstantinidis-artistic-architect",
+  "url": "https://www.archinform.net/arch/3194.htm",
+  "status": 300,
+  "final": "https://www.archinform.net/arch/3194.htm",
   "title": "",
   "about": false,
   "error": null
  },
  {
   "architect": "Aris Konstantinidis",
-  "url": "https://www.ucl.ac.uk/bartlett/news/2024/jan/dr-stelios-giamarelos-awarded-publication-grant-schwarz-foundation",
-  "status": 403,
-  "final": "https://www.ucl.ac.uk/bartlett/news/2024/jan/dr-stelios-giamarelos-awarded-publication-grant-schwarz-foundation",
-  "title": "",
-  "about": false,
+  "url": "https://www.arch.uth.gr/en/projectpopup/index/449",
+  "status": 200,
+  "final": "https://www.arch.uth.gr/en/projectpopup/index/449",
+  "title": "UGCourseProject",
+  "about": true,
   "error": null
  },
  {
