@@ -643,6 +643,7 @@ body.slim .bar, body.mapped .bar { position: fixed; opacity: 1; transform: none;
 body.slim.ideas-away .bar { transform: translateY(calc(-100% - 28px)); }
 body.slim .bar-row, body.mapped .bar-row { flex-direction: row; align-items: center; gap: 6px; padding: 6px 6px 6px 14px; border-radius: 16px;
   background: var(--glass); -webkit-backdrop-filter: blur(22px) saturate(185%); backdrop-filter: blur(22px) saturate(185%); border: 1px solid var(--rim); box-shadow: var(--glass-shadow); }
+body.slim .bar-row, body.mapped .bar-row { position: relative; z-index: 2; } /* its glass is a layer of its own: lift it, and the game menu inside it, above the ideas row */
 body.slim .bar-top, body.mapped .bar-top { flex: none; }
 body.slim .motto, body.mapped .motto, body.slim .mark .big, body.mapped .mark .big { display: none; }
 body.slim .mark .mini, body.mapped .mark .mini { display: inline; font-size: 30px; line-height: 1; }

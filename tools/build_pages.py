@@ -195,11 +195,7 @@ HEAD = """<!doctype html>
 {extra}
 </head>
 <body>
-<header class="top" data-nosnippet>
-  <a class="mark" href="{up}">Find great<br><span class="accent">Architecture.</span></a>
-  <nav>{theme_btn}<a class="all" href="{up}buildings/" data-tip="A huge, growing collection of buildings">All buildings</a><a class="wall" href="{up}{wallhash}">Back to the wall</a></nav>
-</header>
-"""
+{topbar}"""
 
 # Thumbnails scroll the strip sideways rather than jumping the page to the anchor.
 GALLERY_JS = """<script>
@@ -215,19 +211,37 @@ GALLERY_JS = """<script>
 THEME_BTN = ('<button type="button" class="theme-btn" data-theme-toggle aria-label="Night view" aria-pressed="false">'
              '<svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>'
              '<svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button>')
-HEAD = HEAD.replace('{theme_btn}', THEME_BTN.replace('{', '{{').replace('}', '}}'))
+# Every page has the wall's slim bar (search, Filter, night view, the games) and its dock (Home, Map, Surprise me).
+# Search goes to the wall as /?q=…; Filter, Map and Surprise me land on the wall as #filter, #map and #surprise.
+TOPBAR = """<header class="top" data-nosnippet>
+  <a class="mark" href="{up}" aria-label="Find Great Architecture: back to the wall">A<span class="accent">.</span></a>
+  <form class="search" action="{up}" method="get" role="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg><label class="sr" for="tq">Search buildings, architects, cities or ideas</label><input id="tq" type="search" name="q" placeholder="Search a building, architect, city or idea…" autocomplete="off" enterkeyhint="search"></form>
+  <a class="tbtn fbtn" href="{up}#filter" aria-label="Filter"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M7 12h10M10 17h4"/></svg><span>Filter</span></a>
+  {theme_btn}
+  <div class="play"><button type="button" class="tbtn play-btn" aria-haspopup="menu" aria-expanded="false"><svg class="pi" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4.5v15l12.5-7.5z"/></svg><span>Guess the building?</span><svg class="chev" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+    <div class="play-menu" role="menu" hidden><a role="menuitem" href="{up}play/#daily"><b>Daily five</b><span>Same five for everyone. New every day.</span></a><a role="menuitem" href="{up}play/#endless"><b>Endless</b><span>Keep going until you miss one.</span></a></div></div>
+  <script>(function () { var p = document.currentScript.parentNode.querySelector('.play'), b = p.querySelector('button'), m = p.querySelector('.play-menu');
+    function set(o) { m.hidden = !o; b.setAttribute('aria-expanded', o); }
+    b.addEventListener('click', function (e) { e.stopPropagation(); set(m.hidden); });
+    document.addEventListener('click', function (e) { if (!p.contains(e.target)) set(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') set(false); }); })();</script>
+</header>
+"""
+TOPBAR = TOPBAR.replace('{theme_btn}', THEME_BTN)
+DOCK = ('<nav class="dock" data-nosnippet aria-label="Browse"><a href="{up}">Home</a>'
+        '<a class="map" href="{up}#map"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>Map</a>'
+        '<a class="go" href="{up}#surprise">Surprise me</a></nav>')
+HEAD = HEAD.replace('{topbar}', TOPBAR.replace('{', '{{').replace('}', '}}').replace('{{up}}', '{up}'))
 
 FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
 </footer>
-<nav class="dock" data-nosnippet aria-label="Browse">
-  <a href="{up}">Home</a>
-  <a class="go" href="{up}#surprise">Surprise me</a>
-</nav>
+{dock}
 </body>
 </html>
 """
+FOOT = FOOT.replace('{dock}', DOCK)
 
 
 def about_block(b):
