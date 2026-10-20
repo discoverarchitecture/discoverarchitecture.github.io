@@ -1,2 +1,2 @@
-python -u tools/drawings_scan.py --first 200 --offset 200
-Drawings for the most-studied buildings, ranks 201-400.
+python -u tools/drawings_scan.py --first 200 --offset 400
+Drawings for the most-studied buildings, ranks 401-600.
