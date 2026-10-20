@@ -140,3 +140,18 @@ main { width: min(1200px, 100% - 32px); margin: 0 auto; }
   .fq summary { font-size: 17px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+/* ---------- first-screen sign-up, and "who it's for" (round 2; kept when the board files were replaced) ---------- */
+.qf { margin-top: 26px; display: flex; flex-direction: column; gap: 10px; max-width: 680px; }
+.qf-row { display: flex; gap: 8px; } .qf-row input { flex: 1 1 240px; min-width: 0; height: 56px; padding: 0 16px; font: inherit; font-size: 17px; }
+.qf-row select { flex: none; height: 56px; padding: 0 34px 0 14px; font: inherit; font-size: 16px; -webkit-appearance: none; appearance: none; background-repeat: no-repeat; background-position: right 12px center; background-size: 12px; cursor: pointer; }
+.qf-row .cta { height: 56px; padding: 0 22px; font-size: 17px; }
+.qf-fine { margin: 0; font-size: 13px; line-height: 1.5; } .qf-fine a { color: inherit; }
+.qf-more, .qf-thanks { display: none; } .qf.sent .qf-row, .qf.sent .qf-fine { display: none; } .qf.sent .qf-more { display: flex; flex-direction: column; gap: 12px; padding: 18px; }
+.qf.done .qf-more { display: none; } .qf.done .qf-thanks { display: block; margin: 0; font-weight: 700; font-size: 18px; }
+.qf-more b { font-size: 19px; } .qf-more > span { font-size: 15px; } .qf-more .f input { height: 48px; } .qf-more .cta { align-self: flex-start; height: 46px; padding: 0 20px; }
+.skips { list-style: none; margin: 28px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.skips li { padding: 14px 18px; font-size: 18px; font-weight: 600; } .skips s { text-decoration-thickness: 2px; }
+@media (max-width: 860px) {
+  .qf-row { flex-wrap: wrap; } .qf-row input { flex: 1 1 100%; } .qf-row select { flex: 1; } .qf-row .cta { flex: 1; padding: 0 14px; }
+  .skips li { font-size: 16px; padding: 11px 14px; }
+}
