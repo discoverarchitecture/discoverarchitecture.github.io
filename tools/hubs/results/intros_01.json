@@ -1,0 +1,104 @@
+[
+ {
+  "slug": "brutalism",
+  "intro": "Brutalist architecture uses exposed, unpainted concrete or brick, as an ethic of honest materials as much as a look. Swedish architect Hans Asplund coined the word nybrutalism for a brick house in Uppsala designed in 1950. Alison Smithson first printed \"new brutalism\" in 1953, and the critic Reyner Banham used it in a 1955 essay to name both an ethic and a style. The name is often traced to béton brut, Le Corbusier's phrase for his rough concrete. The style spread around the world, and its popularity began to fall in the late 1970s.\n\nLe Corbusier's Unité d'Habitation in Marseille (1952) is often cited as the style's first inspiration: a vertical neighbourhood of duplex flats served by internal streets. Park Hill in Sheffield (1961) takes those streets outside as wide concrete decks that follow the slope. Boston City Hall (1968) is an inverted ziggurat whose form shows the city government's work from outside. The Kenyatta International Convention Centre in Nairobi (1973) sets a cylindrical tower beside a conical-roofed hall. The Barbican Centre in London (1982) buries an arts centre below a podium of walkways, lakes and bush-hammered towers.",
+  "facts_used": [
+   "The term nybrutalism was coined by the Swedish architect Hans Asplund, for a brick house in Uppsala designed in 1950",
+   "Alison Smithson first printed the phrase \"new brutalism\" in 1953",
+   "Critic Reyner Banham used the term in a 1955 essay to name both an ethic and a style",
+   "The Smithsons framed the movement as an ethic about honest materials, not only a look",
+   "Le Corbusier called his rough concrete work 'béton brut', from which the name is often traced",
+   "Le Corbusier's Unité d'Habitation in Marseille is often cited as the first inspiration for the style and for brutalist housing",
+   "Defining material is exposed, unpainted concrete or brick",
+   "The style spread to regions around the world",
+   "Its popularity began to fall in the late 1970s",
+   "wall (site/data/buildings.js): unite-dhabitation, Le Corbusier, Marseille, 1952: \"A vertical neighbourhood: interlocking duplex flats served by internal streets.\"",
+   "wall (site/data/buildings.js): park-hill, Sheffield, 1961: \"Long concrete-framed slabs with wide deck 'streets in the sky' that follow the slope to meet the ground.\"",
+   "wall (site/data/buildings.js): boston-city-hall, Boston, 1968: \"An inverted ziggurat whose form shows the city government's functions from outside.\"",
+   "wall (site/data/buildings.js): kenyatta-international-convention-centre, Nairobi, 1973: \"Cylindrical concrete tower beside a conical-roofed plenary hall\"",
+   "wall (site/data/buildings.js): barbican-centre, London, 1982: \"Arts centre buried below a raised podium of walkways, lakes and bush-hammered concrete towers.\""
+  ],
+  "meta": "Brutalist architecture: raw concrete buildings from Marseille to Nairobi, with free photos, plans and key examples."
+ },
+ {
+  "slug": "museums",
+  "intro": "Museum architecture has to keep a collection safe and open it to the public, and every museum building strikes its own balance between the two. The word museum goes back to a Greek place dedicated to the Muses. Museums began as private collections; in France, the Louvre in Paris became the first public museum. Some museums move into old buildings that have outlived their use; others marry a new wing to an old one. Cities have also used museums as tools for economic growth.\n\nThe Solomon R. Guggenheim Museum in New York (1959), called a landmark of 20th-century architecture, replaces floors and rooms with one continuous spiral ramp around a skylit atrium. I. M. Pei's Louvre Pyramid in Paris (1989) lights an underground hall that links the museum's wings. Tate Modern in London (2000) turned a power station into a museum, its Turbine Hall an indoor street. Frank Gehry's Guggenheim Bilbao (1997) shaped its titanium curves with CATIA, aerospace software, and its pull on the city became known as the Bilbao effect. Study them for how visitors move, where light comes from, and what a museum does for its city.",
+  "facts_used": [
+   "Museum design must balance preserving a collection with opening it to the public",
+   "The word museum goes back to a Greek place dedicated to the Muses",
+   "Museums began as private collections",
+   "The Louvre in Paris was the first public museum in France",
+   "Some museums are made by converting old buildings, for example Tate Modern from a power station",
+   "New wings can be married to old museum buildings, as at the Louvre",
+   "Cities have used museums as tools for economic growth",
+   "The Guggenheim Museum in New York is called a landmark of 20th-century architecture",
+   "Gehry's Guggenheim Bilbao opened in 1997 and its effect on the city became known as the Bilbao effect",
+   "wall (site/data/buildings.js): solomon-r-guggenheim-museum, New York, 1959: \"One continuous spiral ramp around a skylit atrium replaces floors and rooms.\"",
+   "wall (site/data/buildings.js): louvre-pyramid, I. M. Pei, Paris, 1989: \"Glass and steel pyramid lights an underground hall that links the museum's wings.\"",
+   "wall (site/data/buildings.js): tate-modern, London, 2000: \"A power station turned museum; the Turbine Hall became an indoor street.\"",
+   "wall (site/data/buildings.js): guggenheim-bilbao, Frank Gehry: \"Titanium curves designed with CATIA, software from the aerospace industry.\""
+  ],
+  "meta": "Museum architecture: how great museum buildings show collections, guide visitors and change cities. Free photos and plans."
+ },
+ {
+  "slug": "london",
+  "intro": "London's architecture is worth studying because the city has been rebuilt again and again on its old ground. The Great Fire of 1666, which destroyed about nine tenths of the city, was a turning point. Wren's grid plan was set aside: the city was rebuilt on its medieval streets, under a 1667 act asking for brick houses of uniform height and plot size. Pevsner praised Wren's dome for St Paul's as among the most perfect in the world. Most of the city walls came down in the 18th century so London could grow; Victorian London built the world's first underground railway. John Nash laid out Regent Street with James Burton and remodelled Buckingham House into Buckingham Palace.\n\nThe Palace of Westminster (1876), by Charles Barry and Augustus Pugin, wraps the parliament in Perpendicular Gothic Revival detail. Battersea Power Station (1955) is one of the world's largest brick buildings. The Barbican Estate (1982) lifts housing, arts and a lake onto walkways above the street. The Lloyd's Building (1986) sets its lifts, stairs and ducts in plug-in towers around a 60-metre atrium. The Shard (2012) became London's first supertall skyscraper.",
+  "facts_used": [
+   "The 1666 Great Fire is described as a major turning point in the city's architecture.",
+   "The fire destroyed about nine tenths of the city.",
+   "Wren's grid plan was set aside and the city was rebuilt on its medieval street plan.",
+   "The 1667 rebuilding act required houses of uniform height and plot size, built in brick.",
+   "Wren's St Paul's dome was praised by Pevsner as among the most perfect in the world.",
+   "In the 18th century the city walls were mostly demolished to allow the city to expand.",
+   "Victorian London pioneered infrastructure such as the first underground railway.",
+   "John Nash's best-known collaboration with developer James Burton was Regent Street, and he remodelled Buckingham House into Buckingham Palace.",
+   "The Shard (2012) became London's first supertall skyscraper.",
+   "wall (site/data/buildings.js): palace-of-westminster, Charles Barry and Augustus Pugin, 1876: \"Perpendicular Gothic Revival style with ornate decoration\"",
+   "wall (site/data/buildings.js): battersea-power-station, 1955: \"One of the world's largest brick buildings\"",
+   "wall (site/data/buildings.js): barbican-estate, 1982: \"A walkway city of housing, arts centre, lake and conservatory above the street.\"",
+   "wall (site/data/buildings.js): lloyds-building, 1986: \"Lifts, stairs and ducts as plug-in towers around a 60-metre atrium.\""
+  ],
+  "meta": "Architecture in London, from the rebuilding after the Great Fire to The Shard. Free photos, plans and key buildings."
+ },
+ {
+  "slug": "adaptive-reuse",
+  "intro": "Adaptive reuse gives an existing building a new purpose instead of pulling it down. It avoids the cost of demolition and keeps the energy already spent on the original building. An old building can also be mined for materials for new projects, and it keeps a community's link to its past. The usual hurdles are structure and building codes, so a condition survey decides whether a project works.\n\nThe Musée d'Orsay in Paris (1986) fills a former railway station, whose glazed barrel vault now shelters stepped stone gallery terraces. Lina Bo Bardi's SESC Pompéia in São Paulo (1986) keeps a drum factory as a leisure centre and adds concrete towers linked by bridges. Tate Modern in London (2000) turned a power station into a gallery, and its Turbine Hall became an indoor street. The High Line in New York (2009) is a park on an abandoned elevated railway. Zeitz MOCAA in Cape Town (2017) carves a grain silo into an atrium shaped like a single grain of corn. These adaptive reuse examples show what to keep and where a new cut can open the old structure.",
+  "facts_used": [
+   "Adaptive reuse means giving an existing building a new purpose.",
+   "Demolition is a real cost that reuse can avoid.",
+   "Reuse keeps the embodied energy of the original building.",
+   "Old buildings can be treated as a source of materials for new projects.",
+   "Old buildings also link communities to their past.",
+   "Typical hurdles are the structure and building-code compliance.",
+   "A condition survey decides whether a reuse project works.",
+   "The Musée d'Orsay occupies a former railway station and opened in 1986.",
+   "Tate Modern is a gallery in a converted power station, opened in 2000.",
+   "The High Line is a park on a former elevated railway spur, opened 2009.",
+   "wall (site/data/buildings.js): musee-d-orsay: \"Former railway station whose glazed barrel vault now shelters stepped stone gallery terraces.\"",
+   "wall (site/data/buildings.js): sesc-pompeia, Lina Bo Bardi, São Paulo, 1986: \"A drum factory kept as a leisure centre, with new concrete towers linked by bridges.\"",
+   "wall (site/data/buildings.js): tate-modern: \"the Turbine Hall became an indoor street\"",
+   "wall (site/data/buildings.js): high-line: \"An abandoned elevated railway turned into a park in the air.\"",
+   "wall (site/data/buildings.js): zeitz-mocaa, Cape Town, 2017: \"A grain silo carved into an atrium shaped like a single grain of corn.\""
+  ],
+  "meta": "Adaptive reuse examples: power stations, factories, silos and railways turned into museums, parks and more."
+ },
+ {
+  "slug": "parametric",
+  "intro": "Parametric architecture designs buildings with algorithms: the architect sets input parameters, and the model changes as they change. Patrik Schumacher coined the term parametricism in 2008 and described it as a successor to modernism and postmodernism. In it, every element of a design can vary and adapt to the others. It rejects both serial repetition and a heap of unrelated pieces, aiming for complex space that stays legible. Its early practitioners included Greg Lynn, Jesse Reiser, Lars Spuybroek and Kas Oosterhuis. Grasshopper, built on Rhino, is a visual programming tool for such models.\n\nFrank Gehry's Guggenheim Bilbao (1997) came before the name, its titanium curves drawn with CATIA, aerospace software. UNStudio's Mercedes-Benz Museum in Stuttgart (2006) winds double-helix ramps on a trefoil plan. Zaha Hadid's MAXXI in Rome (2010) braids concrete galleries under a roof of light fins, and her Heydar Aliyev Center in Baku (2012) folds one continuous surface from plaza to roof, with no line between wall and ground. Shenzhen Bao'an International Airport Terminal 3 (2013), by Studio Fuksas, wraps a 1.6 km terminal in a double honeycomb skin pierced by hexagonal openings.",
+  "facts_used": [
+   "Parametric design uses algorithms; input parameters drive the model",
+   "The term parametricism was coined in 2008 by Patrik Schumacher as a successor to modernism and postmodernism",
+   "All design elements become parametrically variable and mutually adapt",
+   "It rejects both serial repetition and unrelated pieces",
+   "It aims at spatial complexity while staying legible",
+   "Early practitioners included Greg Lynn, Jesse Reiser, Lars Spuybroek and Kas Oosterhuis",
+   "Grasshopper is a visual programming tool built on Rhino",
+   "wall (site/data/buildings.js): guggenheim-bilbao, Frank Gehry, 1997: \"Titanium curves designed with CATIA, software from the aerospace industry.\"",
+   "wall (site/data/buildings.js): mercedes-benz-museum, UNStudio, Stuttgart, 2006: \"Double-helix ramps on a trefoil plan wind visitors down from the top floor.\"",
+   "wall (site/data/buildings.js): maxxi, Zaha Hadid, Rome, 2010: \"Braided concrete galleries and black stairs under a roof of light fins.\"",
+   "wall (site/data/buildings.js): heydar-aliyev-center, Zaha Hadid, Baku, 2012: \"One continuous surface folds from plaza to roof, with no line between wall and ground.\"",
+   "wall (site/data/buildings.js): shenzhen-baoan-airport-terminal-3, Studio Fuksas, 2013: \"1.6 km terminal in a double honeycomb skin pierced by hexagonal openings\""
+  ],
+  "meta": "Parametric architecture: algorithm-driven buildings by Zaha Hadid, Gehry and others, with free photos and plans."
+ }
+]
