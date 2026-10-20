@@ -1,2 +1,2 @@
-python -u tools/fetch_portraits.py
-Add the hand-checked portraits of Juan O'Gorman and Mario Pani.
+python -u tools/cheap_prep.py tools/cheap/pool.json --n 60
+Haiku experiment: prepare 60 candidate buildings (facts, Wikipedia lead, free photos, contact sheets) so a cheap model can judge them without browsing.
