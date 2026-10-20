@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-20T11:25:22+00:00",
+ "fetched_at": "2026-10-20T16:51:20+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 339,
+ "visits_30d": 353,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 105,
+     "count": 106,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -44,6 +44,14 @@
      "path": "/buildings/jacobs-ii-house-solar-hemicycle",
      "event": false,
      "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 112368513,
+     "path": "/buildings/fredensborg-houses",
+     "event": false,
+     "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
      "max": 1
     },
     {
@@ -112,14 +120,6 @@
     },
     {
      "count": 2,
-     "path_id": 112368513,
-     "path": "/buildings/fredensborg-houses",
-     "event": false,
-     "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
      "path_id": 112365124,
      "path": "/buildings/taipei-fine-arts-museum",
      "event": false,
@@ -168,6 +168,14 @@
     },
     {
      "count": 2,
+     "path_id": 112175031,
+     "path": "/buildings/netherlands-embassy-berlin",
+     "event": false,
+     "title": "Netherlands Embassy, Berlin \u2014 OMA, Rem Koolhaas, 2003: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112173076,
      "path": "/buildings/university-of-ruhuna",
      "event": false,
@@ -196,6 +204,94 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113297412,
+     "path": "/buildings/national-museum-of-the-republic",
+     "event": false,
+     "title": "National Museum of the Republic by Oscar Niemeyer: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113295353,
+     "path": "/buildings/palacio-federal-legislativo",
+     "event": false,
+     "title": "Palacio Federal Legislativo by Luciano Urdaneta Vargas",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113295058,
+     "path": "/buildings/cauchie-house-brussels",
+     "event": false,
+     "title": "Cauchie House by Paul Cauchie: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113288267,
+     "path": "/buildings/grady-gammage-memorial-auditorium",
+     "event": false,
+     "title": "Grady Gammage Memorial Auditorium by Frank Lloyd Wright",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113272631,
+     "path": "/buildings/breuer-house-ii-new-canaan",
+     "event": false,
+     "title": "Breuer House II by Marcel Breuer: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113271516,
+     "path": "/buildings/aalto-house-riihitie",
+     "event": false,
+     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113268668,
+     "path": "/buildings/house-of-wisdom-sharjah",
+     "event": false,
+     "title": "House of Wisdom by Foster + Partners: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113258960,
+     "path": "/buildings/universidad-laboral-gijon",
+     "event": false,
+     "title": "Universidad Laboral de Gij\u00f3n by Luis Moya Blanco: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113252554,
+     "path": "/buildings/independence-memorial-hall",
+     "event": false,
+     "title": "Independence Memorial Hall by Tom Neville Wynne-Jones",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113245715,
+     "path": "/buildings/maison-a-bordeaux",
+     "event": false,
+     "title": "Maison \u00e0 Bordeaux by OMA, 1998: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113233425,
+     "path": "/buildings/entebbe-children-s-surgical-hospital",
+     "event": false,
+     "title": "Entebbe Children's Surgical Hospital by Renzo Piano",
      "max": 1
     },
     {
@@ -709,105 +805,9 @@
      "event": false,
      "title": "Katsura Imperial Villa, 17th c.: photos",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112810732,
-     "path": "/buildings/supreme-court-of-canada-building",
-     "event": false,
-     "title": "Supreme Court of Canada Building \u2014 Ernest Cormier, 1941",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112809924,
-     "path": "/buildings/palais-de-tokyo",
-     "event": false,
-     "title": "Palais de Tokyo, 1937: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112804032,
-     "path": "/buildings/museum-frieder-burda",
-     "event": false,
-     "title": "Museum Frieder Burda \u2014 Richard Meier, 2004: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112798074,
-     "path": "/buildings/manchester-civil-justice-centre",
-     "event": false,
-     "title": "Manchester Civil Justice Centre, 2007",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112797432,
-     "path": "/buildings/casa-rustici",
-     "event": false,
-     "title": "Casa Rustici \u2014 Giuseppe Terragni, Pietro Lingeri, 1935",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112794511,
-     "path": "/buildings/hohenhof",
-     "event": false,
-     "title": "Hohenhof \u2014 Henry van de Velde, 1908: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112774424,
-     "path": "/buildings/gunma-music-center",
-     "event": false,
-     "title": "Gunma Music Center \u2014 Antonin Raymond, 1961: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112766381,
-     "path": "/buildings/hooper-house-ii",
-     "event": false,
-     "title": "Hooper House II \u2014 Marcel Breuer, 1959: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112764601,
-     "path": "/buildings/teatro-oficina",
-     "event": false,
-     "title": "Teatro Oficina \u2014 Lina Bo Bardi and Edson Elito, 1993",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112763444,
-     "path": "/buildings/hospicio-cabanas",
-     "event": false,
-     "title": "Hospicio Caba\u00f1as \u2014 Manuel Tols\u00e1, 1810: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112758830,
-     "path": "/buildings/de-kunstlinie",
-     "event": false,
-     "title": "De Kunstlinie \u2014 SANAA, 2007: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 112757468,
-     "path": "/buildings/cosmic-rays-pavilion",
-     "event": false,
-     "title": "Cosmic Rays Pavilion, 1951: photos, plans & sections",
-     "max": 1
     }
    ],
-   "total": 244,
+   "total": 247,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 141,
+     "count": 151,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 92,
+     "count": 96,
      "ref_scheme": "o"
     },
     {
@@ -885,12 +885,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 218
+     "count": 229
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 108
+     "count": 111
     },
     {
      "id": "Firefox",
@@ -905,27 +905,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 142
+     "count": 147
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 77
+     "count": 78
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 45
+     "count": 49
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 39
+     "count": 40
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 35
+     "count": 38
     },
     {
      "id": "Chrome OS",
@@ -940,7 +940,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 88
+     "count": 91
     },
     {
      "id": "IN",
@@ -950,7 +950,7 @@
     {
      "id": "DE",
      "name": "Germany",
-     "count": 21
+     "count": 22
     },
     {
      "id": "GB",
@@ -960,7 +960,7 @@
     {
      "id": "ES",
      "name": "Spain",
-     "count": 13
+     "count": 14
     },
     {
      "id": "AU",
@@ -973,6 +973,11 @@
      "count": 12
     },
     {
+     "id": "IT",
+     "name": "Italy",
+     "count": 10
+    },
+    {
      "id": "CH",
      "name": "Switzerland",
      "count": 8
@@ -980,21 +985,16 @@
     {
      "id": "FR",
      "name": "France",
-     "count": 7
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 7
-    },
-    {
-     "id": "PT",
-     "name": "Portugal",
-     "count": 7
+     "count": 8
     },
     {
      "id": "TR",
      "name": "Turkey",
+     "count": 8
+    },
+    {
+     "id": "PT",
+     "name": "Portugal",
      "count": 7
     },
     {
@@ -1083,6 +1083,11 @@
      "count": 1
     },
     {
+     "id": "BE",
+     "name": "Belgium",
+     "count": 1
+    },
+    {
      "id": "BN",
      "name": "Brunei",
      "count": 1
@@ -1100,6 +1105,11 @@
     {
      "id": "CR",
      "name": "Costa Rica",
+     "count": 1
+    },
+    {
+     "id": "FI",
+     "name": "Finland",
      "count": 1
     },
     {
@@ -1130,6 +1140,11 @@
     {
      "id": "LB",
      "name": "Lebanon",
+     "count": 1
+    },
+    {
+     "id": "LU",
+     "name": "Luxembourg",
      "count": 1
     },
     {
@@ -1168,6 +1183,11 @@
      "count": 1
     },
     {
+     "id": "UA",
+     "name": "Ukraine",
+     "count": 1
+    },
+    {
      "id": "VN",
      "name": "Vietnam",
      "count": 1
@@ -1185,7 +1205,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 109
+     "count": 110
     },
     {
      "id": "tablet",
@@ -1195,12 +1215,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 197
+     "count": 208
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 8
+     "count": 10
     },
     {
      "id": "unknown",
@@ -1215,7 +1235,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 339
+     "count": 353
     }
    ],
    "more": false
