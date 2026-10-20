@@ -14353,12 +14353,17 @@ window.LINKS = {
  "enso-gutzeit-headquarters": {
   "links": [
    {
-    "kind": "The building",
-    "site": "Official website",
-    "url": "https://www.storaenso.com/"
+    "kind": "Database",
+    "site": "archINFORM",
+    "url": "https://www.archinform.net/projekte/304.htm"
+   },
+   {
+    "kind": "Location",
+    "site": "Map",
+    "url": "https://www.openstreetmap.org/?mlat=60.16791&mlon=24.95858#map=17/60.16791/24.95858"
    }
   ],
-  "wiki": "https://en.wikipedia.org/wiki/Stora_Enso"
+  "wiki": "https://en.wikipedia.org/wiki/Enso_headquarters"
  },
  "entebbe-children-s-surgical-hospital": {
   "links": [
