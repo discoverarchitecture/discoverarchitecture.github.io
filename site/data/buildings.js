@@ -302744,7 +302744,110 @@ window.BUILDINGS = [
   "commons": "Category:Empire State Building",
   "lead": "File:Empire State Building (aerial view).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Empire_State_Building_%28aerial_view%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/empire-state-building/thumbs/0.webp",
+    "w": 846,
+    "h": 1270,
+    "kind": "Context",
+    "caption": "Context · This image has been extracted from another file",
+    "credit": "Sam Valadi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+    "file": "File:Empire State Building (aerial view).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Architectural_crown_and_antenna_tower_of_the_Empire_State_Building.jpg/1280px-Architectural_crown_and_antenna_tower_of_the_Empire_State_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Architectural crown and antenna tower of the Empire State Building",
+    "credit": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Architectural_crown_and_antenna_tower_of_the_Empire_State_Building.jpg",
+    "file": "File:Architectural crown and antenna tower of the Empire State Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/At_New_York_City_2023_031_-_Empire_State_Building_seen_from_the_High_Line.jpg/1280px-At_New_York_City_2023_031_-_Empire_State_Building_seen_from_the_High_Line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Empire State Building seen from the High Line, New York City",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_New_York_City_2023_031_-_Empire_State_Building_seen_from_the_High_Line.jpg",
+    "file": "File:At New York City 2023 031 - Empire State Building seen from the High Line.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Art_Deco_landmark_is_New_York%27s_historic_Empire_State_Building.jpg/1280px-Art_Deco_landmark_is_New_York%27s_historic_Empire_State_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Art Deco landmark is New York's historic Empire State Building",
+    "credit": "Oleg Yunakov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art_Deco_landmark_is_New_York%27s_historic_Empire_State_Building.jpg",
+    "file": "File:Art Deco landmark is New York's historic Empire State Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Empire_State_Building_%2849534607248%29.jpg/1280px-Empire_State_Building_%2849534607248%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Mig Gilbert  from Brighton",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(49534607248).jpg",
+    "file": "File:Empire State Building (49534607248).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Empire_State-2023_02.jpg/1280px-Empire_State-2023_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/5.webp",
+    "w": 911,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Manhattan-Nueva York",
+    "credit": "Alberto-g-rovi",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Empire_State-2023_02.jpg",
+    "file": "File:Empire State-2023 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Empire_State_Building_plan.jpg/1280px-Empire_State_Building_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/6.webp",
+    "w": 1094,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · One of many architect sketches for the skyscraper",
+    "credit": "Shreve, Lamb & Harmon",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_plan.jpg",
+    "file": "File:Empire State Building plan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Glenn_O._Coleman_-_Dirigible_Over_New_York_-_Google_Art_Project.jpg/1280px-Glenn_O._Coleman_-_Dirigible_Over_New_York_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/empire-state-building/thumbs/7.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Glenn O. Coleman (1887 - 1932)  (American)   Details on Google Art Project",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Glenn_O._Coleman_-_Dirigible_Over_New_York_-_Google_Art_Project.jpg",
+    "file": "File:Glenn O. Coleman - Dirigible Over New York - Google Art Project.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "brooklyn-museum",
@@ -302768,7 +302871,110 @@ window.BUILDINGS = [
   "commons": "Category:Brooklyn Museum",
   "lead": "File:Brooklyn Museum June 2008 sunset jeh.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Brooklyn_Museum_June_2008_sunset_jeh.JPG/1280px-Brooklyn_Museum_June_2008_sunset_jeh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 778,
+    "kind": "Exterior",
+    "caption": "Exterior · Brooklyn Museum shortly before sunset on a partly cloudy day",
+    "credit": "Jim.henderson",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_June_2008_sunset_jeh.JPG",
+    "file": "File:Brooklyn Museum June 2008 sunset jeh.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Immersionist_Habitat%2C_Feb_2026.jpg/1280px-Immersionist_Habitat%2C_Feb_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/1.webp",
+    "w": 1107,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Shipsmasthub",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Immersionist_Habitat,_Feb_2026.jpg",
+    "file": "File:Immersionist Habitat, Feb 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Submerged_Motherlands%2C_Brooklyn_Museum_2014.jpg/1280px-Submerged_Motherlands%2C_Brooklyn_Museum_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Photo: Tod Seelie",
+    "credit": "Emmmala",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Submerged_Motherlands,_Brooklyn_Museum_2014.jpg",
+    "file": "File:Submerged Motherlands, Brooklyn Museum 2014.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Courtyard_view_2_-_Brooklyn_Museum_-_Brooklyn%2C_NY_-_DSC08821.JPG/1280px-Courtyard_view_2_-_Brooklyn_Museum_-_Brooklyn%2C_NY_-_DSC08821.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior view of the Brooklyn Museum - Brooklyn, New York, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Courtyard_view_2_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08821.JPG",
+    "file": "File:Courtyard view 2 - Brooklyn Museum - Brooklyn, NY - DSC08821.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Courtyard_view_3_-_Brooklyn_Museum_-_Brooklyn%2C_NY_-_DSC08822.JPG/1280px-Courtyard_view_3_-_Brooklyn_Museum_-_Brooklyn%2C_NY_-_DSC08822.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interior view of the Brooklyn Museum - Brooklyn, New York, USA",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Courtyard_view_3_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08822.JPG",
+    "file": "File:Courtyard view 3 - Brooklyn Museum - Brooklyn, NY - DSC08822.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Archives_of_American_Art_-_Guy_Maccoy_-_2905.jpg/1280px-Archives_of_American_Art_-_Guy_Maccoy_-_2905.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 757,
+    "kind": "Detail",
+    "caption": "Detail · Maccoy at work on a mural",
+    "credit": "Unidentified",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Archives_of_American_Art_-_Guy_Maccoy_-_2905.jpg",
+    "file": "File:Archives of American Art - Guy Maccoy - 2905.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Art_Smith_%22modern_cuff%22_bracelet_on_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/brooklyn-museum/thumbs/6.webp",
+    "w": 1104,
+    "h": 1400,
+    "kind": "Model",
+    "caption": "Model · Model wearing the \"modern cuff\" bracelet by Art Smith ",
+    "credit": "Brooklyn Museum, Peter Basch",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art_Smith_%22modern_cuff%22_bracelet_on_model.jpg",
+    "file": "File:Art Smith \"modern cuff\" bracelet on model.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Archives_of_American_Art_-_A_life_class_for_adults_at_the_Brooklyn_Museum%2C_under_the_auspice_of_the_New_York_City_WPA_Art_Project_-_11039.jpg/1280px-Archives_of_American_Art_-_A_life_class_for_adults_at_the_Brooklyn_Museum%2C_under_the_auspice_of_the_New_York_City_WPA_Art_Project_-_11039.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brooklyn-museum/thumbs/7.webp",
+    "w": 1280,
+    "h": 1001,
+    "kind": "Drawing",
+    "caption": "Drawing · (null)",
+    "credit": "[A life class for adults at the Brooklyn Museum, under the auspice of the New York City WPA Art Proj",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Archives_of_American_Art_-_A_life_class_for_adults_at_the_Brooklyn_Museum,_under_the_auspice_of_the_New_York_City_WPA_Art_Project_-_11039.jpg",
+    "file": "File:Archives of American Art - A life class for adults at the Brooklyn Museum, under the auspice of the New York City WPA Art Project - 11039.jpg"
+   }
+  ],
+  "has": [
+   "Model",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "westminster-cathedral",
@@ -302792,7 +302998,97 @@ window.BUILDINGS = [
   "commons": "Category:Westminster Cathedral",
   "lead": "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Westminster_Cathedral_London%2C_4th_May_2024_-_53708806889.jpg/1280px-Westminster_Cathedral_London%2C_4th_May_2024_-_53708806889.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/0.webp",
+    "w": 1217,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Our trips to Europe usually start or end in London",
+    "credit": "Frank Kovalchek",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Westminster_Cathedral_London,_4th_May_2024_-_53708806889.jpg",
+    "file": "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/UK_-_London_-_Westminster_-_94.jpg/1280px-UK_-_London_-_Westminster_-_94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/1.webp",
+    "w": 848,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · UK - London - Westminster",
+    "credit": "www.mgaylard.co.uk and thanks for looking",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_-_London_-_Westminster_-_94.jpg",
+    "file": "File:UK - London - Westminster - 94.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Looking_up_at_Westminster_Cathedral_from_the_piazza_on_Victoria_Street_-_geograph.org.uk_-_7828566.jpg/1280px-Looking_up_at_Westminster_Cathedral_from_the_piazza_on_Victoria_Street_-_geograph.org.uk_-_7828566.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Looking up at Westminster Cathedral from the piazza on Victoria Street",
+    "credit": "Robert Lamb",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Looking_up_at_Westminster_Cathedral_from_the_piazza_on_Victoria_Street_-_geograph.org.uk_-_7828566.jpg",
+    "file": "File:Looking up at Westminster Cathedral from the piazza on Victoria Street - geograph.org.uk - 7828566.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/UK_-_London_-_Westminster_-_89.jpg/1280px-UK_-_London_-_Westminster_-_89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/3.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · UK - London - Westminster",
+    "credit": "www.mgaylard.co.uk and thanks for looking",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UK_-_London_-_Westminster_-_89.jpg",
+    "file": "File:UK - London - Westminster - 89.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/View_of_the_detail_above_the_entrance_of_Westminster_Cathedral_-_geograph.org.uk_-_7828569.jpg/1280px-View_of_the_detail_above_the_entrance_of_Westminster_Cathedral_-_geograph.org.uk_-_7828569.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · View of the detail above the entrance of Westminster Cathedral",
+    "credit": "Robert Lamb",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_detail_above_the_entrance_of_Westminster_Cathedral_-_geograph.org.uk_-_7828569.jpg",
+    "file": "File:View of the detail above the entrance of Westminster Cathedral - geograph.org.uk - 7828569.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Consecration_Procession%2C_Westminster_Cathedral%2C_London_LCCN2014688504.jpg/1280px-Consecration_Procession%2C_Westminster_Cathedral%2C_London_LCCN2014688504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/5.webp",
+    "w": 1280,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: Consecration Procession, Westminster Cathedral, London Abstract/medium: 1 negative : glass ; 5 x 7 in",
+    "credit": "Bain News Service, publisher",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Consecration_Procession,_Westminster_Cathedral,_London_LCCN2014688504.jpg",
+    "file": "File:Consecration Procession, Westminster Cathedral, London LCCN2014688504.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Elevation_of_the_Chalice_%285358315507%29.jpg/1280px-Elevation_of_the_Chalice_%285358315507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/westminster-cathedral/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Elevation",
+    "caption": "Elevation · Solemn Mass with Ordination of the Revv",
+    "credit": "Fr James Bradley  from Southampton, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elevation_of_the_Chalice_(5358315507).jpg",
+    "file": "File:Elevation of the Chalice (5358315507).jpg"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "flatiron-building",
@@ -302816,6 +303112,96 @@ window.BUILDINGS = [
   "commons": "Category:Flatiron Building (New York City)",
   "lead": "File:At New York, USA 2017 303.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/At_New_York%2C_USA_2017_303.jpg/1280px-At_New_York%2C_USA_2017_303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/0.webp",
+    "w": 939,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Flatiron Building, New York City, USA",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_New_York,_USA_2017_303.jpg",
+    "file": "File:At New York, USA 2017 303.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/At_New_York%2C_USA_2017_305.jpg/1280px-At_New_York%2C_USA_2017_305.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/1.webp",
+    "w": 868,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Flatiron Building, New York City, USA",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_New_York,_USA_2017_305.jpg",
+    "file": "File:At New York, USA 2017 305.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg/1280px-Edificio_Fuller_%28Flatiron%29_en_2010_desde_el_Empire_State_crop_boxin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/2.webp",
+    "w": 740,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Flatiron Building (formerly the Fuller Building), Manhattan, New York",
+    "credit": "Imelenchon  (original work)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificio_Fuller_(Flatiron)_en_2010_desde_el_Empire_State_crop_boxin.jpg",
+    "file": "File:Edificio Fuller (Flatiron) en 2010 desde el Empire State crop boxin.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Flatiron_Building%2C_New_York_City%2C_NY_4a12277a_original.jpg/1280px-Flatiron_Building%2C_New_York_City%2C_NY_4a12277a_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/3.webp",
+    "w": 1128,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Detroit Publishing Co. , publisher",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Flatiron_Building,_New_York_City,_NY_4a12277a_original.jpg",
+    "file": "File:Flatiron Building, New York City, NY 4a12277a original.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Flatiron_detail.jpg/1280px-Flatiron_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the Flatiron Building in New York City",
+    "credit": "hu:User:Totya",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flatiron_detail.jpg",
+    "file": "File:Flatiron detail.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Flatiron_Building_%2829088278604%29.jpg/1280px-Flatiron_Building_%2829088278604%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Detail",
+    "caption": "Detail · This was close to midday I think",
+    "credit": "Erick Irani  from Doha",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flatiron_Building_(29088278604).jpg",
+    "file": "File:Flatiron Building (29088278604).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Typical_floor_of_the_Flatiron_Building.jpg/1280px-Typical_floor_of_the_Flatiron_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/flatiron-building/thumbs/6.webp",
+    "w": 1280,
+    "h": 681,
+    "kind": "Plan",
+    "caption": "Plan · Typical floor of the Flatiron Building",
+    "credit": "D. H. Burnham & co",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Typical_floor_of_the_Flatiron_Building.jpg",
+    "file": "File:Typical floor of the Flatiron Building.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  }
 ];
