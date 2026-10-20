@@ -67,11 +67,11 @@ document.querySelectorAll('.rv, .sec, #dstudio').forEach(el => io.observe(el));
 if (qs.has('studio')) { studio.dataset.go = 1; auto = false; playIdea(qs.get('studio')); }
 
 // 3. the style picker
-const styler = $('#styler'), bdS = $('#bdStyle'); let sAuto = !qs.has('style');
-function setStyle(s) { bdS.className = 'bd ' + s; styler.querySelectorAll('.st-btns button').forEach(b => b.classList.toggle('on', b.dataset.s === s)); }
+const styler = $('#styler'); let sAuto = !qs.has('style');
+function setStyle(s) { styler.querySelectorAll('.st-board .bd').forEach(b => b.hidden = b.dataset.layout !== s); styler.querySelectorAll('.st-btns button').forEach(b => b.classList.toggle('on', b.dataset.s === s)); }
 styler.addEventListener('click', e => { const b = e.target.closest('button'); if (b) { sAuto = false; setStyle(b.dataset.s); } });
 if (qs.has('style')) setStyle(qs.get('style'));
-(async () => { const ss = ['swiss', 'editorial', 'blueprint']; let i = 1; while (!reduce) { await sleep(3200); if (!sAuto) break; setStyle(ss[i++ % 3]); } })();
+(async () => { const ss = STYLE_KEYS; let i = 1; while (!reduce) { await sleep(3200); if (!sAuto) break; setStyle(ss[i++ % 3]); } })();
 
 // 4. image touch-ups
 const touch = $('#touch'), frame = $('#tcFrame'), badge = $('#tcBadge'), pix = $('#tcPix');

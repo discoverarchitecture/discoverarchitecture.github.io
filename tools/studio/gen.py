@@ -1,43 +1,28 @@
-# FGA Studio waitlist page, round 2: a professional-grade sample board (Salk Institute, free photos + our drawings),
-# the email form in the first screen, and the "you design, it presents" message. Directions A and B share this body.
+# FGA Studio waitlist page, round 3: the sample board remade as a competition-style A1 sheet in three layouts
+# (board2.py, board2.css, drawings from salk2.py), inside the Pin-up party page. HERO=calm|drawing|editorial picks the
+# layout shown in the hero (default calm); the style picker switches between all three.
 import json, html as H
-import os
+import os, sys
 SP = os.path.dirname(os.path.abspath(__file__)) + '/'
-D = json.load(open(SP + 'salk.json')); CR = json.load(open(SP + 'credits.json'))
-img = lambda i, cls='': f'<img class="ph {cls}" src="images/salk/{i}.webp" alt="" loading="lazy">'
-def layered(svg, L): return svg.replace('</svg>', f'<g class="dlayer">{L}</g></svg>')
-CONTENT = {  # what fills each board slot
-    'hero': img(0), 'axon': D['axon'], 'section': layered(D['section'], D['L_svc_sec']), 'site': layered(D['site'], D['L_axis_site']), 'ph1': img(1, 'bw'), 'ph2': img(5, 'bw')}
-IDEAS = [('Axis to the Pacific', 'A channel of water runs down the plaza toward the ocean.'),
-         ('Served and servant', 'Service floors run between the laboratory floors.'),
-         ('Light on the plaza', 'The open travertine plaza takes the sky between the two wings.')]
-CREDIT_LINE = 'Photos: Jason Taellious, CC BY-SA 2.0 · Daniel L. Lu, CC BY-SA 4.0 · Beyond My Ken, CC BY-SA 4.0 · Wikimedia Commons'
-def board(theme='swiss', ident='', filled=False):
-    def slot(k, cls='', cap=''):
-        inner = CONTENT[k] if filled else ''
-        return f'<div class="bslot {cls}" data-slot="{k}">{inner}{f"<span class=cap>{cap}</span>" if cap else ""}</div>'
-    ideas = ''.join(f'<li><b>{i:02d}</b><span><em>{t}</em>{d}</span></li>' for i, (t, d) in enumerate(IDEAS, 1))
-    return f'''<div class="bd {theme}" {ident}><div class="bdi">
-  <header class="bh"><div><small>Precedent study · Sheet A1</small><h4>Salk Institute</h4><p>Louis Kahn · La Jolla, California · 1965</p></div>
-    <ul class="bh-ideas">{''.join(f'<li><b>{i:02d}</b>{t}</li>' for i, (t, d) in enumerate(IDEAS, 1))}</ul></header>
-  {slot('hero', 'b-hero', 'The plaza, looking west')}
-  <div class="brow2"><div class="btext"><h5>Concept</h5><p class="lead">Laboratories with service floors between them, around a travertine plaza open to the Pacific.</p><ol class="bideas">{ideas}</ol></div>{slot('axon', 'b-axon', 'Exploded axonometric')}</div>
-  {slot('section', 'b-sec', 'Section through the plaza · served and servant')}
-  <div class="brow4">{slot('site', 'b-site', 'Site plan · axis to the Pacific')}{slot('ph1', 'b-ph', 'South laboratories')}{slot('ph2', 'b-ph', 'Stair and skylight')}</div>
-  <footer class="bf"><span>{CREDIT_LINE}</span><span>Concept mock-up · drawings not to scale</span></footer>
-</div></div>'''
+sys.path.insert(0, SP)
+import board2 as B
+D = B.D; CR = B.CR; img = B.img; layered = B.layered; CONTENT = B.CONTENT
+HERO = os.environ.get('HERO', 'calm')
+board = lambda ident='', filled=False, layout=None: B.board(layout or HERO, ident, filled)
 
-PILE = [('hero', 2, 4, 60, 30, -5, 'IMG_0412.jpg'), ('axon', 50, 22, 46, 30, 6, 'axo_exploded.pdf'), ('section', 6, 38, 52, 22, -3, 'section_BB.dwg'),
-        ('site', 42, 56, 44, 28, 4, 'site_plan.pdf'), ('ph1', 3, 64, 38, 22, -8, 'facade.jpg'), ('ph2', 60, 2, 26, 30, 7, 'stair.jpg')]
+PILE = [('hero', 2, 4, 60, 28, -5, 'IMG_0412.jpg'), ('axon', 50, 20, 46, 30, 6, 'axo_exploded.pdf'), ('section', 6, 36, 52, 20, -3, 'section_BB.dwg'),
+        ('site', 42, 54, 44, 28, 4, 'site_plan.pdf'), ('ph1', 3, 60, 38, 22, -8, 'facade.jpg'), ('ph2', 60, 2, 26, 30, 7, 'stair.jpg'),
+        ('long', 10, 84, 56, 13, -2, 'long_section.pdf')]
 flyers = ''.join(f'<div class="fly" data-fly="{k}" style="--px:{x}%;--py:{y}%;--pw:{w}%;--ph:{h}%;--pr:{r}deg;--d:{i * 70}ms">{CONTENT[k]}<span class="tag">{lab}</span></div>'
                  for i, (k, x, y, w, h, r, lab) in enumerate(PILE))
 extras = ('<div class="note" style="--px:62%;--py:60%;--pr:6deg">axis to the sea?<br>served/servant!!<br>light ✶</div>'
           f'<div class="fly ref" style="--px:68%;--py:80%;--pw:28%;--ph:17%;--pr:-5deg">{img(7)}<span class="tag">refs.jpg</span></div>')
-deck = (f'<div class="deck"><div class="sl s3 white">{D["section"]}</div><div class="sl s2 white">{D["axon"]}</div>'
+deck = (f'<div class="deck"><div class="sl s3 white">{D["long"]}</div><div class="sl s2 white">{D["axon"]}</div>'
         f'<div class="sl s1">{img(0)}<b>Salk Institute</b></div><span class="dk">Deck · PPTX</span></div>')
-STAGE = f'''<div class="stage" id="stage" aria-label="Concept mock-up: a pile of drawings and photos turning into a finished jury board and deck">
+PHF = {'calm': 'grayscale(1) contrast(1.04)', 'drawing': 'grayscale(1) contrast(1.02)', 'editorial': 'none'}[HERO]
+STAGE = f'''<div class="stage" id="stage" style="--stage-phf: {PHF}" aria-label="Concept mock-up: a pile of drawings and photos turning into a finished jury board and deck">
   <span class="mock">Concept mock-up</span><span class="state"><i class="s-pile">Your files</i><i class="s-built">Your jury board</i></span>
-  {board('swiss', 'id="bd0"')}{flyers}{extras}{deck}</div>'''
+  {board('id="bd0"')}{flyers}{extras}{deck}</div>'''
 
 STEPS = [
     ('Upload', 'Plans, sections, elevations, renders, sketches, model photos and references. Messy is fine.',
@@ -68,9 +53,9 @@ STUDIO = f'''<div class="dstudio" id="dstudio">
   </div>
 </div>'''
 DIA = json.dumps({
-    'axis': {'w': 'axis to the Pacific', 'plan': D['L_axis_site'], 'sec': '', 'pts': [['plan', 470, 200], ['plan', 200, 200]], 'log': ['Click the end of the water channel', 'Click the open end of the plaza', 'Draw the axis out to the Pacific']},
-    'svc': {'w': 'served and servant', 'plan': D['L_svc_site'], 'sec': D['L_svc_sec'], 'pts': [['sec', 148, 218], ['sec', 652, 160]], 'log': ['Click a service floor', 'Click the other wing', 'Fill the servant floors on plan and section']},
-    'light': {'w': 'light', 'plan': D['L_light_site'], 'sec': D['L_light_sec'], 'pts': [['sec', 400, 226], ['plan', 330, 200]], 'log': ['Click the plaza in section', 'Click it on the plan', 'Show the sky falling between the wings']}})
+    'axis': {'w': 'axis to the Pacific', 'plan': D['L_axis_site'], 'sec': '', 'pts': [['plan', 828, 350], ['plan', 310, 350]], 'log': ['Click the end of the water channel', 'Click the open end of the plaza', 'Draw the axis out to the Pacific']},
+    'svc': {'w': 'served and servant', 'plan': D['L_svc_site'], 'sec': D['L_svc_sec'], 'pts': [['sec', 200, 286], ['sec', 760, 198]], 'log': ['Click a service floor', 'Click the other wing', 'Fill the servant floors on plan and section']},
+    'light': {'w': 'light', 'plan': D['L_light_site'], 'sec': D['L_light_sec'], 'pts': [['sec', 480, 300], ['plan', 580, 350]], 'log': ['Click the plaza in section', 'Click it on the plan', 'Show the sky falling between the wings']}})
 
 TOUCH = f'''<div class="touch" id="touch">
   <div class="tc-frame" id="tcFrame"><div class="tc-ext"><img id="tcImg" src="images/salk/0.webp" alt="The Salk Institute plaza"></div><canvas id="tcPix" width="640" height="374"></canvas><span class="tc-crop"></span><span class="tc-badge" id="tcBadge">Original</span></div>
@@ -78,9 +63,9 @@ TOUCH = f'''<div class="touch" id="touch">
   <p class="tc-note">The building itself is never changed.</p>
 </div>'''
 
-STYLES = [('swiss', 'Minimal Swiss'), ('editorial', 'Bold Editorial'), ('blueprint', 'Technical Blueprint')]
-STYLER = ('<div class="styler" id="styler"><div class="st-btns">' + ''.join(f'<button type="button" data-s="{k}"{" class=on" if i == 0 else ""}>{n}</button>' for i, (k, n) in enumerate(STYLES))
-          + '</div><div class="st-board">' + board('swiss', 'id="bdStyle"', True) + '</div></div>')
+STYLES = B.LAYOUTS
+STYLER = ('<div class="styler" id="styler"><div class="st-btns">' + ''.join(f'<button type="button" data-s="{k}"{" class=on" if k == HERO else ""}>{n}</button>' for k, n in STYLES)
+          + '</div><div class="st-board">' + ''.join(board(f'data-layout="{k}"' + ('' if k == HERO else ' hidden'), True, k) for k, n in STYLES) + '</div></div>')
 FORMATS = ''.join(f'<li class="fm {c}"><span class="fr"></span><b>{t}</b><small>{s}</small>{"<em>Later</em>" if later else ""}</li>' for c, t, s, later in [
     ('a1', 'A1 board', '594 × 841 mm', 0), ('a0', 'A0 board', '841 × 1189 mm', 0), ('arch', '24 × 36 in', 'ARCH D', 0), ('ppt', 'Slide deck', '16:9 PowerPoint', 0), ('sq', 'Square', 'for Instagram', 1), ('web', 'Web deck', 'a link to share', 1)])
 FAQ = [('Which formats can I make?', 'An A1, A0 or 24 × 36 in board, or a slide deck. Square posts and a web deck come later. You can switch before you export.'),
@@ -121,7 +106,7 @@ def page(d):
     lede = 'Upload your plans, sections, renders and sketches and name the ideas your board must explain. Get a professional-grade jury board and deck you can still edit, without the nights in InDesign and Photoshop.'
     words = ['pin-up', 'jury board', 'crit', 'jury sheets', 'final review', 'láminas', 'pranchas'] * 4
     marquee = '<div class="marquee" aria-hidden="true"><div>' + ''.join(f'<span>{w}</span><i>✦</i>' for w in words) + '</div></div>'
-    css = open(SP + f'style_{d}.css').read() + open(SP + 'style_common.css').read() + open(SP + 'board.css').read()
+    css = open(SP + f'style_{d}.css').read() + open(SP + 'style_common.css').read() + open(SP + 'draw2.css').read() + open(SP + 'board2.css').read()
     fonts = 'family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Inter+Tight:wght@500;600;700;800&family=Inter:wght@400;500;600&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@500&family=Caveat:wght@600'
     credits = ' · '.join(f'<a href="{H.escape(c["source"])}">{H.escape(c["credit"])}</a>, {c["license"]}' for c in [CR[i] for i in (0, 1, 5, 7)])
     return f'''<!doctype html>
@@ -159,11 +144,11 @@ def page(d):
 </main>
 <footer class="foot"><span>FGA Studio (working name) · by <a href="https://findgreatarchitecture.com/">Find Great Architecture</a></span>
 <span>Sample board: the Salk Institute (Louis Kahn). Drawings are our own diagrams, not to scale. Photos via Wikimedia Commons: {credits}</span><a href="/privacy/">Privacy</a></footer>
-<script>const DIA = {DIA};
+<script>const DIA = {DIA}; const STYLE_KEYS = {json.dumps([k for k, n in STYLES])};
 {open(SP + 'common.js').read()}</script>
 </body></html>'''
 import os
 os.makedirs(SP + 'web', exist_ok=True)
 for d in ('A',):
-    open(SP + f'web/{d}.html', 'w').write(page(d))
+    open(SP + f'web/{d}{"" if HERO == "calm" else "_" + HERO}.html', 'w').write(page(d))
 print('ok')
