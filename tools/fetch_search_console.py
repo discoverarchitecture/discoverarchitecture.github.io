@@ -12,7 +12,7 @@ Fails loudly (non-zero exit) on any problem, so a broken job is never mistaken f
     GSC_SERVICE_ACCOUNT="$(cat key.json)" python3 tools/fetch_search_console.py --out /tmp/gsc
     GSC_TOKEN=ya29... python3 tools/fetch_search_console.py --out /tmp/gsc   # an access token instead of a key, for a quick try
 """
-import argparse, base64, csv, datetime as dt, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, base64, concurrent.futures, csv, datetime as dt, json, os, re, sys, threading, time, urllib.error, urllib.parse, urllib.request
 
 API = os.environ.get('GSC_API') or 'https://searchconsole.googleapis.com'  # the override is for tests
 TOKEN_URL = os.environ.get('GSC_TOKEN_URL') or 'https://oauth2.googleapis.com/token'
@@ -22,6 +22,8 @@ SITEMAP = os.path.join(os.path.dirname(__file__), '..', 'site', 'sitemap.xml')
 WINDOW = 28          # days in latest.json, as in Search Console's own default view
 ROWS = 1000          # rows per breakdown in latest.json
 INSPECT_PER_RUN = 300  # Google allows 2,000 page checks a day per site; 300 checks the whole sitemap in under two weeks
+INSPECT_MINUTES = 10  # Google takes seconds per page check; stop asking after this long so the run always finishes and saves
+WORKERS = 4           # page checks asked at once (Google allows 600 a minute)
 
 
 def access_token():
@@ -117,8 +119,9 @@ def sitemap_urls():
         return re.findall(r'<loc>(.*?)</loc>', f.read())
 
 
-def inspect(token, site, out_dir, limit):
-    """Asks Google about pages it has not been asked about yet, then the longest-unchecked ones. Keeps every answer."""
+def inspect(token, site, out_dir, limit, minutes):
+    """Asks Google about pages it has not been asked about yet, then the longest-unchecked ones. Keeps every answer.
+    Each answer takes Google a few seconds, so a few pages are asked at once and the asking stops after `minutes`."""
     path = os.path.join(out_dir, 'indexing.json')
     pages = {}
     try:
@@ -130,19 +133,34 @@ def inspect(token, site, out_dir, limit):
     listed = set(urls)
     pages = {u: p for u, p in pages.items() if u in listed}  # pages that left the sitemap are dropped
     todo = sorted(urls, key=lambda u: (u in pages, pages.get(u, {}).get('checked', '')))[:limit]
-    done = 0
-    for u in todo:
+    deadline = time.time() + minutes * 60
+    stop = threading.Event()
+
+    def ask(u):
+        if stop.is_set() or time.time() > deadline:
+            return u, None
         try:
-            res = call(token, 'POST', '/v1/urlInspection/index:inspect', {'inspectionUrl': u, 'siteUrl': site},
-                       attempts=3)['inspectionResult']['indexStatusResult']
+            return u, call(token, 'POST', '/v1/urlInspection/index:inspect', {'inspectionUrl': u, 'siteUrl': site},
+                           attempts=3)['inspectionResult']['indexStatusResult']
         except SystemExit as e:  # the search numbers are already saved, and Google's daily limit may simply be used up
-            print(f'::warning::stopped checking pages after {done}: {e}')
-            break
-        pages[u] = {'checked': dt.date.today().isoformat(), 'verdict': res.get('verdict'),
-                    'state': res.get('coverageState'), 'last_crawl': (res.get('lastCrawlTime') or '')[:10],
-                    'google_canonical': res.get('googleCanonical') if res.get('googleCanonical') not in (None, u) else None}
-        done += 1
-        time.sleep(0.2)  # well inside 600 a minute
+            if not stop.is_set():
+                print(f'::warning::stopped checking pages: {e}')
+            stop.set()
+            return u, None
+
+    done = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for u, res in pool.map(ask, todo):
+            if res is None:
+                continue
+            pages[u] = {'checked': dt.date.today().isoformat(), 'verdict': res.get('verdict'),
+                        'state': res.get('coverageState'), 'last_crawl': (res.get('lastCrawlTime') or '')[:10],
+                        'google_canonical': res.get('googleCanonical') if res.get('googleCanonical') not in (None, u) else None}
+            done += 1
+            if done % 50 == 0:
+                print(f'  checked {done} pages so far', flush=True)
+    if time.time() > deadline and done < len(todo):
+        print(f'Out of time for page checks after {done}; the rest wait for the next run.')
     states = {}
     for p in pages.values():
         states[p['state'] or 'unknown'] = states.get(p['state'] or 'unknown', 0) + 1
@@ -160,6 +178,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--out', required=True)
     ap.add_argument('--inspect', type=int, default=INSPECT_PER_RUN, help='pages to check for indexing this run (0 to skip)')
+    ap.add_argument('--inspect-minutes', type=float, default=INSPECT_MINUTES, help='stop checking pages after this long')
     args = ap.parse_args()
     os.makedirs(args.out, exist_ok=True)
     token = access_token()
@@ -199,15 +218,16 @@ def main():
     with open(os.path.join(args.out, 'latest.json'), 'w') as f:
         json.dump(latest, f, indent=1)
 
-    done, summary = inspect(token, site, args.out, args.inspect) if args.inspect else (0, None)
-
     last = sorted(old)[-3:]
     web = latest['web']['total']
     print(f'Property {site}. Saved {len(old)} days to daily.csv; latest:',
           ', '.join(f"{d}={old[d]['clicks']} clicks/{old[d]['impressions']} shown" for d in last))
     print(f"Last {WINDOW} days, web: {web['clicks']} clicks, {web['impressions']} impressions,",
           f"{len(latest['web']['queries'])} queries, {len(latest['web']['pages'])} pages.",
-          f"Image search: {latest['image']['total']['clicks']} clicks.")
+          f"Image search: {latest['image']['total']['clicks']} clicks.", flush=True)
+    print('Search numbers saved; checking pages for indexing.', flush=True)
+    done, summary = inspect(token, site, args.out, args.inspect, args.inspect_minutes) if args.inspect else (0, None)
+
     if summary:
         print(f"Checked {done} pages for indexing this run; {summary['indexed']} of {summary['checked']} checked so far are in Google.")
 
