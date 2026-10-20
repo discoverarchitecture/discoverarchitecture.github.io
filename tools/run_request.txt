@@ -1,2 +1,2 @@
-python -u tools/probe_links.py
-Check the link finder site searches.
+python -u tools/drawings_scan.py --first 200 --offset 200
+Drawings for the most-studied buildings, ranks 201-400.
