@@ -1,0 +1,549 @@
+[
+ {
+  "slug": "modernism",
+  "intro": "Modernist architecture builds with new construction technology and rejects ornament, so volume, structure and plan carry the whole design. It emerged at the end of the 19th century and was dominant from the Second World War until the 1980s. In 1932 Hitchcock and Johnson's exhibition at MoMA set out its principles: architecture as volume, regularity in the facade rather than symmetry, and no applied ornament. Under the name International Style it spread throughout the world. Le Corbusier's white houses of the 1920s had no ornament inside or out.\n\nThe Fagus Factory in Alfeld (1911), by Walter Gropius and Adolf Meyer, sets its glass curtain wall forward of the piers, so the corners turn with no column. Gropius's Bauhaus Dessau (1926) wraps its workshops in glass on a pinwheel plan. Mies van der Rohe's Villa Tugendhat in Brno (1930) brings the open plan into a family home, with glass walls that drop away to the garden. Le Corbusier's Villa Savoye in Poissy (1931) puts his Five Points of Architecture into a single house. Mies's Seagram Building in New York (1958) stands back behind a plaza, its bronze mullions expressing the frame.",
+  "facts_used": [
+   "Modern architecture emerged at the end of the 19th century",
+   "It rested on new construction technologies and rejected ornament",
+   "It became dominant after World War II until the 1980s",
+   "Hitchcock and Johnson's 1932 MoMA show named three principles: volume, regularity, and no applied ornament",
+   "Their third principle in full",
+   "The Getty Research Institute says the International Style spread worldwide and dominated until the 1970s",
+   "Le Corbusier's white 1920s houses had no ornament inside or out",
+   "wall (site/data/buildings.js): fagus-factory: Fagus Factory, Walter Gropius, Adolf Meyer, Alfeld, DE, 1911: \"Glazed curtain wall set forward of the piers turns the corners with no corner column.\"",
+   "wall (site/data/buildings.js): bauhaus-dessau: Bauhaus Dessau, Walter Gropius, Dessau, DE, 1926: \"A pinwheel plan, with a glass curtain wall wrapping the workshops.\"",
+   "wall (site/data/buildings.js): villa-tugendhat: Villa Tugendhat, Mies van der Rohe, Brno, CZ, 1930: \"The open plan in a family home, with glass walls that drop away to the garden.\"",
+   "wall (site/data/buildings.js): villa-savoye: Villa Savoye, Le Corbusier, Poissy, FR, 1931: \"Le Corbusier's Five Points of Architecture in a single house.\"",
+   "wall (site/data/buildings.js): seagram-building: Seagram Building, Mies van der Rohe, New York, US, 1958: \"Set back behind a plaza, with bronze mullions that express the frame.\""
+  ],
+  "meta": "Modernist architecture: the Bauhaus, Villa Savoye, the Seagram Building and more, with free photos and plans."
+ },
+ {
+  "slug": "contemporary",
+  "intro": "Contemporary architecture is the architecture of the 21st century, from 2000 to today, and no single style leads it. It is shaped by method more than style: new structural systems make buildings taller, lighter and stronger than in the 20th century, and designs are modelled in 3D on computers. Some designers favour natural, ecological materials such as stone, wood and lime; energy efficiency over a building's whole life is a primary goal of sustainable design. The field is global, with important new buildings in China, Russia and India.\n\nThe Burj Khalifa in Dubai (2010), once the tallest building in the world, rises on a Y-shaped buttressed core that steps back in a spiral against the wind. Shigeru Ban's Centre Pompidou-Metz (2010) covers three stacked gallery tubes with a woven grid of glued laminated timber. Snøhetta's Oslo Opera House (2008) slopes a marble roof into the fjord, open for anyone to walk on. OMA's CCTV Headquarters in Beijing (2012) joins two leaning towers with a 75-metre cantilever. Herzog & de Meuron's Elbphilharmonie in Hamburg (2017) sets a glass crown on a brick warehouse, with a public plaza between old and new.",
+  "facts_used": [
+   "Contemporary architecture is the architecture of the 21st century",
+   "The article gives its years as 2000 to the present and says no single style dominates",
+   "It is global, with major new buildings in China, Russia and India",
+   "New structural methods let buildings be taller, lighter and stronger than in the 20th century",
+   "Computer-aided design is widely used, with buildings modeled in 3D",
+   "Some designers favour natural, ecological materials",
+   "Energy efficiency over a building's life is a primary goal of sustainable architecture",
+   "The Burj Khalifa in Dubai was the tallest building in the world",
+   "Shigeru Ban's Centre Pompidou-Metz has a roof of glued laminated timber",
+   "wall (site/data/buildings.js): burj-khalifa: Burj Khalifa, SOM, Dubai, AE, 2010: \"A Y-shaped buttressed core steps back in a spiral, breaking up wind vortices up its height.\"",
+   "wall (site/data/buildings.js): centre-pompidou-metz: Centre Pompidou-Metz, Shigeru Ban, Jean de Gastines, Metz, FR, 2010: \"A hexagonal woven glulam grid under a PTFE membrane roof covers three stacked gallery tubes.\"",
+   "wall (site/data/buildings.js): oslo-opera-house: Oslo Opera House, Snøhetta, Oslo, NO, 2008: \"A marble roof that slopes into the fjord, open for anyone to walk on.\"",
+   "wall (site/data/buildings.js): cctv-headquarters: CCTV Headquarters, OMA, Beijing, CN, 2012: \"A loop of two leaning towers joined by a 75-metre cantilever.\"",
+   "wall (site/data/buildings.js): elbphilharmonie: Elbphilharmonie, Herzog & de Meuron, Hamburg, DE, 2017: \"A glass crown on a brick warehouse, with a public plaza between old and new.\""
+  ],
+  "meta": "Contemporary architecture since 2000: from the Burj Khalifa to the Elbphilharmonie, with free photos and plans."
+ },
+ {
+  "slug": "deconstructivism",
+  "intro": "Deconstructivist architecture breaks a building into fragments, with no obvious harmony, continuity or symmetry; its look is often described as controlled chaos. The name plays on Russian Constructivism and on the ideas of the French philosopher Jacques Derrida. The style came to public notice with the 1982 competition for the Parc de la Villette. In 1988 Mark Wigley and Philip Johnson curated an exhibition at MoMA that crystallised the movement and made its seven architects famous: Peter Eisenman, Frank Gehry, Zaha Hadid, Coop Himmelblau, Rem Koolhaas, Daniel Libeskind and Bernard Tschumi. Gehry refused the label, as he refused any other.\n\nEisenman's Wexner Center for the Arts in Columbus (1989) runs a white steel scaffold grid along two shifted city grids, splitting fragments of a brick armoury. Gehry's Vitra Design Museum in Weil am Rhein (1989) collides white plastered volumes around skylit galleries. In the same town, the Vitra Fire Station (1993), Hadid's first built work, is a set of sharp concrete planes caught in motion. Libeskind's Imperial War Museum North in Manchester (2002) is three fragmented, intersecting curved volumes, shards of earth, air and water from a shattered globe.",
+  "facts_used": [
+   "The style gained notice with the 1982 Parc de la Villette competition",
+   "Mark Wigley and Philip Johnson curated the 1988 MoMA exhibition",
+   "That show crystallised the movement and made its architects famous",
+   "The seven in the show: Eisenman, Gehry, Hadid, Coop Himmelblau, Koolhaas, Libeskind and Tschumi",
+   "Defined by absence of obvious harmony, continuity or symmetry",
+   "Visual character is controlled chaos",
+   "Its name plays against Russian Constructivism, and links to Derrida's ideas",
+   "Libeskind's Imperial War Museum North uses fragmented, intersecting curved volumes",
+   "Gehry refused the deconstructivist label for his work",
+   "wall (site/data/buildings.js): wexner-center-for-the-arts: Wexner Center for the Arts, Peter Eisenman, Columbus, US, 1989: \"White steel scaffold grid follows two shifted city grids, splitting fragments of a brick armoury.\"",
+   "wall (site/data/buildings.js): vitra-design-museum: Vitra Design Museum, Frank Gehry, Weil am Rhein, DE, 1989: \"White plastered volumes collide around skylit galleries, with curving stair towers.\"",
+   "wall (site/data/buildings.js): vitra-fire-station: Vitra Fire Station, Zaha Hadid, Weil am Rhein, DE, 1993: \"Zaha Hadid's first built work: sharp concrete planes caught in motion.\"",
+   "wall (site/data/buildings.js): imperial-war-museum-north: Imperial War Museum North, Daniel Libeskind, Manchester, GB, 2002: \"Three curved shards, of earth, air and water, from a shattered globe.\""
+  ],
+  "meta": "Deconstructivist architecture: Gehry, Hadid, Libeskind and Eisenman's broken forms, with free photos and plans."
+ },
+ {
+  "slug": "high-tech",
+  "intro": "High-tech architecture shows how a building is made and how it works: structure, lifts, stairs and ducts are put on display instead of hidden. It emerged in the 1970s as a form of late modernism and was first developed in Britain. Steel, aluminium and glass dominate. Interiors have no internal load-bearing walls, so the space can be rearranged, and services often move outside into separate towers. The style is used most for factories, offices and galleries, and its leading architects include Hopkins, Foster, Rogers, Piano and Calatrava.\n\nRenzo Piano and Richard Rogers's Centre Pompidou in Paris (1977) moves structure and colour-coded services outside, leaving free floors and a public piazza. Michael and Patty Hopkins's Hopkins House in London (1976) is a two-storey steel and glass box entered by a bridge. Rogers's Lloyd's Building in London (1986) sets lifts, stairs and ducts in plug-in towers around a 60-metre atrium. Norman Foster's HSBC Main Building in Hong Kong (1986) hangs its floors from suspension trusses, freeing a public plaza beneath. In Malaysia, Ken Yeang's Menara Mesiniaga (1992) cools a round tower with spiralling sky gardens and sunshades on its hot facades.",
+  "facts_used": [
+   "High-tech emerged in the 1970s as a form of late modernism.",
+   "It was first developed in Britain, and many early leaders were British.",
+   "Leading practitioners include Hopkins, Foster, Rogers, Piano and Calatrava.",
+   "Its core idea is showing how a building is made and works.",
+   "Metal and glass dominate, with steel and aluminium.",
+   "Interiors are open, without internal load-bearing walls, so spaces can be reconfigured.",
+   "Services such as stairs and lifts are often put outside in separate towers.",
+   "Externalising functional parts is a key concept; the Pompidou is cited as an example.",
+   "It is most often used for factories, offices and galleries.",
+   "wall (site/data/buildings.js): centre-pompidou: Centre Pompidou, Renzo Piano, Richard Rogers, Paris, FR, 1977: \"Structure and services moved outside and colour-coded, leaving free floors and a public piazza.\"",
+   "wall (site/data/buildings.js): hopkins-house: Hopkins House, Michael and Patty Hopkins, London, GB, 1976: \"Two-storey steel-frame and glass box, entered by a bridge from the street at upper level; open plan inside.\"",
+   "wall (site/data/buildings.js): lloyds-building: Lloyd's Building, Richard Rogers, London, UK, 1986: \"Lifts, stairs and ducts as plug-in towers around a 60-metre atrium.\"",
+   "wall (site/data/buildings.js): hsbc-main-building: HSBC Main Building, Norman Foster, Hong Kong, 1986: \"Floors hung from suspension trusses, freeing a public plaza beneath.\"",
+   "wall (site/data/buildings.js): menara-mesiniaga: Menara Mesiniaga, Ken Yeang, Subang Jaya, MY, 1992: \"Spiralling sky gardens, sunshades on hot facades and a rooftop sun-roof frame cool a round tower.\""
+  ],
+  "meta": "High-tech architecture: exposed steel, glass and services by Foster, Rogers and Piano. Free photos and plans."
+ },
+ {
+  "slug": "postmodernism",
+  "intro": "Postmodern architecture brings back what modernism took out: historical references, ornament, colour and wit. It emerged in the 1960s against the austerity and sameness of modern buildings. Denise Scott Brown and Robert Venturi are credited with introducing it, and Venturi set it out in a 1966 book that declared, \"I am for messy vitality over obvious unity.\" Postmodern buildings borrow historical elements and allusions and use unusual materials. The style is best known in America, but notable examples appeared in Europe, and in the late 1990s it split into many new tendencies.\n\nVenturi's Vanna Venturi House in Philadelphia (1964) splits a gable facade over a broken arch. Charles Moore's Piazza d'Italia in New Orleans (1978) is a public square with a fountain shaped like Italy, curved colonnades and neon. Michael Graves's Portland Building (1982) paints giant pilasters and a keystone onto a cubic block. In Stuttgart, James Stirling's Neue Staatsgalerie (1984) ramps a public path through an open drum courtyard, with a classical plan and pop-coloured details. Philip Johnson and John Burgee's AT&T Building (550 Madison Avenue) in New York (1984) caps a granite tower with a broken pediment.",
+  "facts_used": [
+   "Postmodernism emerged in the 1960s as a reaction against austere, uniform modern architecture.",
+   "Robert Venturi formalised the movement in a 1966 book.",
+   "Denise Scott Brown and Robert Venturi are credited with introducing it.",
+   "Venturi preferred complexity to modernist purity.",
+   "It borrows historical elements and allusions and uses unusual materials.",
+   "It is best known as an American style but notable examples appeared in Europe.",
+   "Charles Moore's Piazza d'Italia in New Orleans (1978) is among the most famous works.",
+   "In the late 1990s it split into many new tendencies.",
+   "wall (site/data/buildings.js): vanna-venturi-house: Vanna Venturi House, Robert Venturi, Philadelphia, US, 1964: \"Split gable facade over a broken arch, with chimney and stair competing for the centre of the plan.\"",
+   "wall (site/data/buildings.js): piazza-d-italia: Piazza d'Italia, Charles Moore with Perez Architects, New Orleans, US, 1978: \"Postmodern plaza with a fountain shaped like Italy, curved colonnades and stainless-steel and neon details.\"",
+   "wall (site/data/buildings.js): portland-building: Portland Building, Michael Graves, Portland, US, 1982: \"Cubic block with giant painted pilasters, keystone and small square windows applied as graphics.\"",
+   "wall (site/data/buildings.js): neue-staatsgalerie: Neue Staatsgalerie, James Stirling, Stuttgart, DE, 1984: \"A public path ramps through an open drum courtyard, mixing a classical plan with pop-coloured details.\"",
+   "wall (site/data/buildings.js): at-t-building-550-madison-avenue: AT&T Building (550 Madison Avenue), Philip Johnson, John Burgee, New York, US, 1984: \"Granite tower capped by a broken pediment over a tall arched entrance loggia.\""
+  ],
+  "meta": "Postmodern architecture: Venturi, Graves, Moore and Stirling's return to history, colour and wit. Free photos."
+ },
+ {
+  "slug": "art-deco",
+  "intro": "Art Deco architecture pairs bold geometry with rich decoration: setbacks, sunbursts, metal ornament and decorated crowns. It first appeared in Paris in the 1910s, just before the First World War, growing from the geometric forms of the Vienna Secession and Cubism. Its name comes from the 1925 exhibition of decorative and industrial arts in Paris. Reinforced concrete gave more freedom of form. It was an international style that flourished in the 1920s and early 1930s, and Miami Beach holds the largest concentration of Art Deco buildings in the world.\n\nJosef Hoffmann's Stoclet Palace in Brussels (1911) is described as a prototype of the style: white marble planes edged with bronze mouldings make its walls read as thin panels. Auguste Perret's Théâtre des Champs-Élysées in Paris (1913) spans its auditorium with a concrete frame behind a flat marble front. In New York, the Chrysler Building (1930) stacks a stainless-steel crown of sunburst arches above its setbacks, and the Empire State Building (1931) was the world's tallest building until 1970. The Palais de Chaillot in Paris (1937) curves two wings around a terrace that opens a view to the Eiffel Tower.",
+  "facts_used": [
+   "Art Deco first appeared in Paris in the 1910s, just before the First World War.",
+   "It grew from the geometry of the Vienna Secession and Cubism.",
+   "Its name comes from the 1925 Paris decorative arts exhibition.",
+   "Josef Hoffmann's Stoclet Palace is described as a prototype of the style.",
+   "Reinforced concrete gave more freedom of form.",
+   "It was an international style that flourished in the 1920s and early 1930s.",
+   "Miami Beach has the world's largest concentration of Art Deco architecture.",
+   "wall (site/data/buildings.js): stoclet-palace: Stoclet Palace, Josef Hoffmann, Brussels, BE, 1911: \"White marble planes edged with bronze mouldings make the walls read as thin panels.\"",
+   "wall (site/data/buildings.js): theatre-des-champs-elysees: Théâtre des Champs-Élysées, Auguste Perret, Paris, FR, 1913: \"Concrete frame on paired columns spans the auditorium behind a flat marble front.\"",
+   "wall (site/data/buildings.js): chrysler-building: Chrysler Building, William Van Alen, New York, US, 1930: \"Stainless-steel crown of stacked sunburst arches above setbacks, with metal ornaments on the brick shaft.\"",
+   "wall (site/data/buildings.js): empire-state-building: Empire State Building, Shreve, Lamb & Harmon, New York, US, 1931: \"Art Deco skyscraper built 1930–31, the world's tallest building until 1970.\"",
+   "wall (site/data/buildings.js): palais-de-chaillot: Palais de Chaillot, Louis-Hippolyte Boileau, Jacques Carlu, Léon Azéma, Paris, FR, 1937: \"Two curved wings around a terrace that opens a view to the Eiffel Tower; facades carry Paul Valéry inscriptions.\""
+  ],
+  "meta": "Art Deco architecture: from Paris to the Chrysler and Empire State buildings, with free photos and plans."
+ },
+ {
+  "slug": "art-nouveau",
+  "intro": "Art Nouveau architecture takes its lines from nature: the curves of plants and flowers, asymmetry and whiplash lines that give a sense of movement. Architects built it with new materials: iron, glass, ceramics and later concrete. The first Art Nouveau houses appeared in Brussels in the 1890s, and the style spread from Britain, Belgium and France across Europe. In German it is called Jugendstil, after the art journal Jugend. Hector Guimard brought it into public architecture with his entrances for the Paris Métro. By the start of the First World War in 1914 it was largely exhausted.\n\nVictor Horta's Hôtel Tassel in Brussels is a defining example: exposed iron columns and whiplash ornament flow through an open, top-lit stair hall. His Hôtel van Eetvelde (1898) lights the core of a narrow townhouse through an octagonal hall under a glass cupola. Guimard's Castel Béranger in Paris (1898) mixes brick, stone and ceramic around a whiplash-curved iron gate. Otto Wagner's Majolikahaus in Vienna (1899) covers a flat apartment front in weatherproof tiles printed with flowers. Charles Rennie Mackintosh's Glasgow School of Art (1909) sets huge north-light studio windows in a stone front.",
+  "facts_used": [
+   "The first Art Nouveau houses appeared in Brussels in the 1890s.",
+   "It drew on natural forms such as plants and flowers.",
+   "Asymmetry and whiplash lines give a sense of movement.",
+   "Architects used new materials: iron, glass, ceramics and later concrete.",
+   "Victor Horta's Hôtel Tassel (1893) is a defining example.",
+   "Hector Guimard brought it to public architecture with the Paris Métro entrances.",
+   "It spread from Britain, Belgium and France across Europe.",
+   "It was largely exhausted by the start of the First World War in 1914.",
+   "In German it is Jugendstil, named after the art journal Jugend.",
+   "wall (site/data/buildings.js): hotel-tassel: Hôtel Tassel, Victor Horta, Brussels, BE, 1894: \"Exposed iron columns and whiplash ornament flow through an open, top-lit stair hall.\"",
+   "wall (site/data/buildings.js): hotel-van-eetvelde: Hôtel van Eetvelde, Victor Horta, Brussels, BE, 1898: \"Octagonal hall under a glass cupola lights the core of a narrow townhouse.\"",
+   "wall (site/data/buildings.js): castel-beranger: Castel Béranger, Hector Guimard, Paris, FR, 1898: \"Mixed brick, stone and ceramic facades around an asymmetric entrance gate of whiplash-curved iron.\"",
+   "wall (site/data/buildings.js): majolikahaus: Majolikahaus, Otto Wagner, Vienna, AT, 1899: \"A flat apartment front covered in weatherproof majolica tiles printed with a spreading floral pattern.\"",
+   "wall (site/data/buildings.js): glasgow-school-of-art: Glasgow School of Art, Charles Rennie Mackintosh, Glasgow, GB, 1909: \"Huge north-light studio windows on a stone front, with tall oriel windows lighting the west wing library.\""
+  ],
+  "meta": "Art Nouveau architecture: Horta, Guimard, Wagner and Mackintosh's curves of iron and glass. Free photos and plans."
+ },
+ {
+  "slug": "regionalism",
+  "intro": "Critical regionalism is modern architecture rooted in its place: it starts from the local topography, climate and light rather than a universal style. The idea was first presented in 1981 by the theorists Alexander Tzonis and Liane Lefaivre, and the historian Kenneth Frampton developed it further. It tries to mediate between the global and the local languages of architecture, and it rejects the whimsy and ornament of postmodernism. It has grown into distinct sub-styles around the world.\n\nAlvar Aalto's Säynätsalo Town Hall in Jyväskylä (1952) gathers brick rooms around a raised grass courtyard, with timber trusses over the council chamber. Álvaro Siza's Boa Nova Tea House in Leça da Palmeira (1963) sets low tiled roofs among the rocks above the sea, reached by steps through the boulders. Jørn Utzon's Bagsværd Church near Copenhagen (1976) hides a billowing concrete ceiling, washed with daylight, inside a plain industrial shell. Geoffrey Bawa's Parliament of Sri Lanka (1982) groups pavilions with stacked copper roofs on an island in an artificial lake. Balkrishna Doshi's Indian Institute of Management Bangalore (1983) links courts and classrooms of rough granite and concrete with long corridors under open pergolas.",
+  "facts_used": [
+   "The idea was first presented in 1981.",
+   "It was introduced by theorists Alexander Tzonis and Liane Lefaivre.",
+   "Kenneth Frampton developed it further.",
+   "It tries to mediate between global and local architectural languages.",
+   "It rejects Postmodern whimsy and ornament.",
+   "Frampton stressed topography, climate and light.",
+   "It has produced distinct sub-styles around the world.",
+   "Utzon's Bagsværd Church (1973-6) is a cited example.",
+   "wall (site/data/buildings.js): saynatsalo-town-hall: Säynätsalo Town Hall, Alvar Aalto, Jyväskylä, FI, 1952: \"A brick town hall around a raised grass courtyard, with timber trusses over the council.\"",
+   "wall (site/data/buildings.js): boa-nova-tea-house: Boa Nova Tea House, Álvaro Siza, Leça da Palmeira, PT, 1963: \"Low tiled roofs and timber interiors set among rocks above the sea, reached by steps through boulders.\"",
+   "wall (site/data/buildings.js): bagsvaerd-church: Bagsværd Church, Jørn Utzon, Copenhagen, DK, 1976: \"A plain industrial shell outside; inside, a billowing concrete ceiling washed with daylight.\"",
+   "wall (site/data/buildings.js): parliament-of-sri-lanka: Parliament of Sri Lanka, Geoffrey Bawa, Sri Jayawardenepura Kotte, LK, 1982: \"Pavilions with stacked copper roofs grouped on an island in an artificial lake.\"",
+   "wall (site/data/buildings.js): indian-institute-of-management-bangalore: Indian Institute of Management Bangalore, Balkrishna Doshi, Bengaluru, IN, 1983: \"Long corridors under open pergolas link courts and classrooms built of rough granite and concrete.\""
+  ],
+  "meta": "Critical regionalism: modern buildings shaped by local climate, light and craft, by Aalto, Siza, Utzon and Bawa."
+ },
+ {
+  "slug": "houses",
+  "intro": "Famous houses by architects are small buildings that carry big arguments. A house can express the opinions of the people who build it or live in it, and its form is shaped by the materials at hand, so a single house can set out a whole way of building. In January 1945 John Entenza's magazine Arts & Architecture announced the Case Study Houses, to produce inexpensive modern model homes that could be built again and again.\n\nFrank Lloyd Wright completed Fallingwater for the Kaufmann family in 1937, with a guest wing in 1939; its concrete terraces cantilever over a waterfall. Le Corbusier built the Villa Savoye in Poissy between 1928 and 1931 in reinforced concrete, putting his Five Points of Architecture into one house; it had an enormous influence on international modernism. Mies van der Rohe's Farnsworth House (1951) is a single glass room lifted above a floodplain on eight steel columns. Charles and Ray Eames built the Eames House in Los Angeles for themselves in 1949 from mass-produced parts. Robert Venturi's Vanna Venturi House in Philadelphia (1964) is one of the first prominent works of postmodern architecture.",
+  "facts_used": [
+   "House form is shaped by the available materials",
+   "Houses can express their builders' or occupants' opinions",
+   "Villa Savoye was built 1928 to 1931 in reinforced concrete",
+   "Villa Savoye is a recognised example of the International style and influenced modernism",
+   "The Case Study Houses were announced in Arts & Architecture in January 1945 by John Entenza to produce inexpensive modern model homes",
+   "Fallingwater was completed in 1937 (guest wing 1939), by Frank Lloyd Wright for the Kaufmann family, over a waterfall",
+   "Farnsworth House (Mies, finished 1951) is a glass and steel box in the International Style",
+   "Eames House was built in 1949 by Charles and Ray Eames for themselves, using mass-produced parts",
+   "Venturi's Vanna Venturi House (1962-64) is among the first prominent postmodern works",
+   "wall (site/data/buildings.js): fallingwater: Fallingwater, Frank Lloyd Wright, Mill Run, US, 1939: \"Concrete terraces cantilevered over a waterfall: building and site as one.\"",
+   "wall (site/data/buildings.js): villa-savoye: Villa Savoye, Le Corbusier, Poissy, FR, 1931: \"Le Corbusier's Five Points of Architecture in a single house.\"",
+   "wall (site/data/buildings.js): farnsworth-house: Farnsworth House, Mies van der Rohe, Plano, US, 1951: \"A single glass room lifted above a floodplain on eight steel columns.\"",
+   "wall (site/data/buildings.js): eames-house: Eames House, Charles and Ray Eames, Los Angeles, US, 1949: \"A Case Study House assembled from off-the-shelf industrial parts.\"",
+   "wall (site/data/buildings.js): vanna-venturi-house: Vanna Venturi House, Robert Venturi, Philadelphia, US, 1964: \"Split gable facade over a broken arch, with chimney and stair competing for the centre of the plan.\""
+  ],
+  "meta": "Famous houses by architects, from Fallingwater and Villa Savoye to the Eames House, with free photos and plans."
+ },
+ {
+  "slug": "libraries",
+  "intro": "Library architecture has to store books and bring people to them, and over time the balance has moved from archive to public room. The first libraries were archives of the earliest writing, such as the Library of Ashurbanipal in Mesopotamia. As collections grew, libraries ran short of space and introduced compact shelving on tracks. Between 1883 and 1929, 1,689 Carnegie libraries were built in the United States, and the public libraries of the 1960s were shaped by modernism. Today libraries also work as community hubs.\n\nHenri Labrouste's Bibliothèque Sainte-Geneviève in Paris, opened in 1851, leaves its slender cast-iron columns and arches visible over the reading room; it is called a major step towards modern architecture, and it influenced the Boston Public Library, McKim Building (1895). Gordon Bunshaft's Beinecke Rare Book & Manuscript Library in New Haven (1963) filters light through translucent marble panels onto a glass-walled book tower. Toyo Ito's Sendai Mediatheque (2001) carries thin floors on thirteen lattice tubes. OMA's Seattle Central Library (2004) stacks shifted platforms inside a diamond-mesh skin, and its Books Spiral keeps the nonfiction collection in one continuous run.",
+  "facts_used": [
+   "The Library of Ashurbanipal in Mesopotamia is among the earliest libraries",
+   "Early libraries were archives of early writing",
+   "1,689 Carnegie libraries were built in the US between 1883 and 1929",
+   "Compact shelving on tracks was introduced as libraries needed more space",
+   "Libraries now work as community hubs",
+   "Labrouste's Bibliotheque Sainte-Genevieve opened in 1851 with exposed cast-iron columns and arches",
+   "Sainte-Genevieve is called a major step in creating modern architecture and influenced Boston Public Library",
+   "Seattle Central Library by OMA with LMN opened in 2004; its Books Spiral keeps nonfiction in one run",
+   "Public libraries of the 1960s are characterised by modernism",
+   "wall (site/data/buildings.js): bibliotheque-sainte-genevieve: Bibliothèque Sainte-Geneviève, Henri Labrouste, Paris, FR, 1850: \"Upper-floor reading room with slender cast-iron columns carrying iron arches, left visible.\"",
+   "wall (site/data/buildings.js): boston-public-library-mckim-building: Boston Public Library, McKim Building, McKim, Mead & White, Boston, US, 1895: \"Granite palazzo front of arched windows over the vaulted Bates Hall reading room and an arcaded courtyard.\"",
+   "wall (site/data/buildings.js): beinecke-rare-book-manuscript-library: Beinecke Rare Book & Manuscript Library, Gordon Bunshaft, SOM, New Haven, US, 1963: \"Translucent marble panels in a Vierendeel frame filter light onto a glass-walled book tower.\"",
+   "wall (site/data/buildings.js): sendai-mediatheque: Sendai Mediatheque, Toyo Ito, Sendai, JP, 2001: \"Thirteen lattice tubes carry thin floor plates, like seaweed in a tank.\"",
+   "wall (site/data/buildings.js): seattle-central-library: Seattle Central Library, OMA, Seattle, US, 2004: \"Platforms stacked and shifted inside a diamond-mesh skin; the book spiral is one continuous ramp.\""
+  ],
+  "meta": "Library architecture: from Sainte-Geneviève's iron reading room to Seattle's book spiral. Free photos and plans."
+ },
+ {
+  "slug": "pavilions",
+  "intro": "A pavilion is a smaller building set apart from, or attached to, a main building, and it was traditionally built for pleasure and relaxation. The word comes from a large tent raised on posts. World's fairs, art biennales and national fairs use national pavilions, and most are temporary, taken down when the fair closes. The Giardini in Venice holds 30 permanent national pavilions, some by leading 20th-century architects. Since 2000 the Serpentine has commissioned a summer pavilion from a leading architect every year.\n\nMies van der Rohe and Lilly Reich's Barcelona Pavilion (1929) sets free-standing walls under a floating roof, so space flows instead of forming rooms. In Hanover, the Japan Pavilion, Expo 2000 by Shigeru Ban with Frei Otto was a gridshell of recycled paper tubes, designed to be recycled afterwards, while MVRDV's Netherlands Pavilion, Expo 2000 stacked Dutch landscapes, from dunes to a forest floor, into a vertical park. He Jingtang's China Pavilion, Expo 2010 in Shanghai cantilevers an inverted pyramid of red beams modelled on dougong timber brackets. John Nash's Royal Pavilion in Brighton (1823) shows the older meaning: a building for pleasure, crowned with bulbous domes.",
+  "facts_used": [
+   "A pavilion is a subsidiary building, positioned separately or attached to a main building",
+   "Pavilions are built for pleasure and relaxation",
+   "The word comes from a large tent raised on posts",
+   "World's fairs use national pavilions",
+   "Fair pavilions are mostly temporary",
+   "Serpentine has commissioned a temporary summer pavilion every year since 2000",
+   "The Giardini in Venice holds 30 permanent national pavilions, some by leading 20th-century architects",
+   "Expo 2000's Japan Pavilion was a gridshell of recycled paper tubes by Shigeru Ban",
+   "wall (site/data/buildings.js): barcelona-pavilion: Barcelona Pavilion, Mies van der Rohe, Lilly Reich, Barcelona, ES, 1929: \"Free-standing walls under a floating roof: space that flows instead of rooms.\"",
+   "wall (site/data/buildings.js): japan-pavilion-expo-2000: Japan Pavilion, Expo 2000, Shigeru Ban with Frei Otto, Hanover, DE, 2000: \"A long gridshell of paper tubes under a paper membrane roof, designed to be recycled afterwards.\"",
+   "wall (site/data/buildings.js): netherlands-pavilion-expo-2000: Netherlands Pavilion, Expo 2000, MVRDV, Hanover, DE, 2000: \"Stacked Dutch landscapes, from dunes and flowers to a forest floor, pile up into a vertical park.\"",
+   "wall (site/data/buildings.js): china-pavilion-expo-2010: China Pavilion, Expo 2010, He Jingtang, Shanghai, CN, 2010: \"Inverted pyramid of stacked red beams cantilevers outward, modelled on dougong timber brackets.\"",
+   "wall (site/data/buildings.js): royal-pavilion-brighton: Royal Pavilion, John Nash, Brighton, GB, 1823: \"Bulbous domes and chhatri-topped minarets.\""
+  ],
+  "meta": "Pavilion architecture: world's fair and expo pavilions, from Mies's Barcelona Pavilion to Shigeru Ban's paper tubes."
+ },
+ {
+  "slug": "housing",
+  "intro": "Housing architecture designs homes in numbers, and much of its history is the history of public or social housing: subsidised or affordable homes provided in larger buildings. Modern municipal housing began as a response to fast urban population growth. In Britain, mass council house building began around 1920, after the Addison Act of 1919, and tower blocks followed in the 1950s. Red Vienna placed large blocks around green courts. Le Corbusier's Unité d'Habitation turned housing into a modernist type, with \"streets in the sky\" and a shared roof terrace.\n\nBruno Taut and Martin Wagner's Hufeisensiedlung in Berlin (1927) bends a horseshoe of housing around a pond. Karl Ehn's Karl-Marx-Hof in Vienna (1930) runs for over a kilometre around large green courts. The Unité d'Habitation in Marseille (1952) has 337 flats, with internal streets on every third floor and a communal terrace on the flat roof. Park Hill in Sheffield (1961) takes those streets outside as wide concrete decks. Alejandro Aravena's Quinta Monroy in Iquique (2004) builds half a good house and leaves the other half for families to finish; the approach helped Aravena win the 2016 Pritzker Prize.",
+  "facts_used": [
+   "Public or social housing is subsidised or affordable housing provided in buildings.",
+   "Modern municipal housing began as a response to fast urban population growth.",
+   "In Britain, mass council house building began around 1920 after the 1919 Addison Act.",
+   "Tower blocks were first built in Britain in the 1950s.",
+   "Karl-Marx-Hof is a Red Vienna block arranged around green courts.",
+   "Le Corbusier's Unité d'Habitation is a modernist housing type with 'streets in the sky' corridors and a communal roof terrace; the Marseille building has 337 flats.",
+   "The Unité's flat roof was designed as a shared terrace.",
+   "Quinta Monroy's 'half a house' approach left half of each home for residents to finish; it helped Alejandro Aravena win the 2016 Pritzker Prize.",
+   "wall (site/data/buildings.js): hufeisensiedlung: Hufeisensiedlung, Bruno Taut, Martin Wagner, Berlin, DE, 1927: \"Horseshoe-shaped housing ring around a pond and shared green, with coloured terraces.\"",
+   "wall (site/data/buildings.js): karl-marx-hof: Karl-Marx-Hof, Karl Ehn, Vienna, AT, 1930: \"Over a kilometre of social housing around large green courts, with arched gateways and flagpole towers.\"",
+   "wall (site/data/buildings.js): unite-dhabitation: Unité d'Habitation, Le Corbusier, Marseille, FR, 1952: \"A vertical neighbourhood: interlocking duplex flats served by internal streets.\"",
+   "wall (site/data/buildings.js): park-hill: Park Hill, Jack Lynn, Ivor Smith, Sheffield, GB, 1961: \"Long concrete-framed slabs with wide deck 'streets in the sky' that follow the slope to meet the ground.\"",
+   "wall (site/data/buildings.js): quinta-monroy: Quinta Monroy, Alejandro Aravena, Elemental, Iquique, CL, 2004: \"'Half a good house': the state builds half and families build the rest.\""
+  ],
+  "meta": "Housing architecture: social housing from Red Vienna and Berlin to the Unité d'Habitation and Quinta Monroy."
+ },
+ {
+  "slug": "religious-buildings",
+  "intro": "Religious architecture designs places of worship, whose plan and form carry belief. Ancient temples were often seen as a god's dwelling. A Hindu temple is read as a model of the universe and of inner space, its sanctum crowned by a tower, the shikhara, called the vimana in the south. The earliest mosques were hypostyle halls with courtyards for Friday prayer, and the Ottomans introduced the central-dome mosque in the 15th century. Gothic architecture began in 12th-century France at the abbey church of Saint-Denis, and its defining feature is the pointed arch. In the 20th century, steel and concrete changed church design.\n\nHagia Sophia in Istanbul (537) was one of the first buildings with a fully pendentive dome. The Sultan Ahmed Mosque (Blue Mosque), from 1617, rings its central dome with four semi-domes. The Great Mosque of Djenné in Mali (1907) is built of mud brick, its palm-wood beams left as fixed scaffolding for re-plastering. Le Corbusier's Notre-Dame du Haut in Ronchamp (1955) punches thick walls with deep, coloured windows that model the light. Tadao Ando's Church of the Light in Ibaraki (1989) cuts a cross into a concrete wall.",
+  "facts_used": [
+   "Sacred architecture is the design and building of places of worship.",
+   "Ancient temples were often seen as the dwelling place of a deity.",
+   "A Hindu temple is read as a model of the universe and of inner space.",
+   "Gothic architecture began in 12th-century France at the abbey church of Saint-Denis and was tied to cathedrals.",
+   "The pointed arch is Gothic's defining feature.",
+   "Steel and concrete changed how 20th-century churches were designed.",
+   "The earliest mosques were hypostyle halls pioneered under the Umayyads, with a courtyard for Friday prayer crowds.",
+   "The Ottomans introduced central-dome mosques in the 15th century.",
+   "A Hindu temple's inner sanctum is crowned by a tower, the shikhara (vimana in the south).",
+   "wall (site/data/buildings.js): hagia-sophia: Hagia Sophia, Isidore of Miletus, Anthemius of Tralles, Istanbul, TR, 537: \"One of the first buildings with a fully pendentive dome, about 33 m across after rebuilding.\"",
+   "wall (site/data/buildings.js): blue-mosque: Sultan Ahmed Mosque (Blue Mosque), Sedefkar Mehmed Agha, Istanbul, TR, 1617: \"Central dome surrounded by four semi-domes, each flanked by three smaller ones; six minarets.\"",
+   "wall (site/data/buildings.js): great-mosque-of-djenne: Great Mosque of Djenné, Ismaïla Traoré, Djenné, ML, 1907: \"A vast mud-brick mosque whose projecting palm-wood beams act as fixed scaffolding for re-plastering.\"",
+   "wall (site/data/buildings.js): notre-dame-du-haut: Notre-Dame du Haut, Le Corbusier, Ronchamp, FR, 1955: \"Thick walls punched with deep, coloured windows that model the light.\"",
+   "wall (site/data/buildings.js): church-of-the-light: Church of the Light, Tadao Ando, Ibaraki, JP, 1989: \"A cross cut into a concrete wall: light as the only ornament.\""
+  ],
+  "meta": "Religious architecture: churches, mosques and temples from Hagia Sophia to Ando's Church of the Light. Free photos."
+ },
+ {
+  "slug": "schools-and-campuses",
+  "intro": "School and campus architecture matters because the design of a building can strongly shape how students learn. A campus traditionally means the land and buildings of a college or university. In 1922 Patrick Abercrombie contrasted the American campus, its departments scattered about a park among the trees, with the formal quadrangles of Oxford and Cambridge. Gothic, which flourished in English universities from the 13th to the 15th centuries, was later revived for campuses. Brutalism was used on university campuses around the world in the 1960s and 1970s, and in the same years open classrooms became popular in North America. Walter Gropius founded the Bauhaus in Weimar on 1 April 1919.\n\nGropius's Bauhaus Dessau (1926) wraps the school's workshops in a glass curtain wall on a pinwheel plan. William Pereira's Geisel Library in San Diego (1970) is a campus building of that brutalist era: its reading floors stack outward like an inverted stepped pyramid on splayed concrete piers above a glazed base. Foster + Partners' Apple Park in Cupertino (2017) takes the campus idea into the workplace: a ring of curved glass around a planted courtyard.",
+  "facts_used": [
+   "The design of a building can strongly shape students' learning.",
+   "A campus traditionally means the land and buildings of a college or university.",
+   "Patrick Abercrombie in 1922 contrasted the scattered-in-a-park American campus with Oxbridge's formal quads.",
+   "Gothic revival flourished in English universities in the 13th to 15th centuries and was later revived for campuses.",
+   "Brutalism was widely used on university campuses in the 1960s and 1970s.",
+   "Open classroom design became popular in North America in the late 1960s and 1970s.",
+   "The Bauhaus was founded by Walter Gropius in Weimar on 1 April 1919.",
+   "wall (site/data/buildings.js): bauhaus-dessau: Bauhaus Dessau, Walter Gropius, Dessau, DE, 1926: \"A pinwheel plan, with a glass curtain wall wrapping the workshops.\"",
+   "wall (site/data/buildings.js): geisel-library: Geisel Library, William Pereira, San Diego, US, 1970: \"Reading floors stack out like an inverted stepped pyramid on splayed concrete piers above a glazed base.\"",
+   "wall (site/data/buildings.js): apple-park: Apple Park, Foster + Partners, Cupertino, US, 2017: \"Four-storey ring of curved glass with white floor canopies, around a planted central courtyard.\""
+  ],
+  "meta": "School and campus architecture: from the Bauhaus to brutalist university libraries, with free photos and plans."
+ },
+ {
+  "slug": "memorials",
+  "intro": "Memorial architecture gives remembering a place: a memorial is an object or place that focuses memory or commemoration. The most common kind is a gravestone or a plaque, and temporary, makeshift memorials are called grassroots memorials. A mausoleum is a monument that encloses a burial chamber; the word comes from the tomb of Mausolus at Halicarnassus. Maya Lin's Vietnam Veterans Memorial, dedicated in 1982, is two black granite walls, and its colour, lack of ornament and form below ground were controversial at first.\n\nPeter Eisenman's Memorial to the Murdered Jews of Europe in Berlin (2005) sets 2,711 concrete stelae on a sloping grid, forming narrow aisles; critics said its lack of names or information weakens its message. Karl Friedrich Schinkel's Neue Wache in Berlin (1818), a Neoclassical guardhouse, is now a memorial lit by an oculus. Anitkabir in Ankara (1953), the mausoleum of Atatürk, leads a ceremonial road lined with lions to a vast court. Mazar-e-Quaid in Karachi (1970) raises a white marble cube with pointed arches on a platform. The Taj Mahal in Agra (1653) sets a white marble tomb on a raised plinth in a quartered garden.",
+  "facts_used": [
+   "A memorial is an object or place that serves as a focus for remembering or commemorating something.",
+   "The most common memorial is the gravestone or plaque.",
+   "Temporary, makeshift memorials are called grassroots memorials.",
+   "A mausoleum is a monument enclosing a burial chamber; the word comes from the tomb of Mausolus at Halicarnassus.",
+   "Anitkabir in Ankara is the mausoleum of Atatürk.",
+   "The Vietnam Veterans Memorial, by Maya Lin, was dedicated in 1982 and is two black granite walls; its colour, lack of ornament and below-ground form were first controversial.",
+   "Peter Eisenman's Memorial to the Murdered Jews of Europe in Berlin has 2,711 concrete stelae on a sloping grid and opened in 2005.",
+   "Critics said the Berlin memorial's lack of names or information weakens its message.",
+   "wall (site/data/buildings.js): memorial-to-the-murdered-jews-of-europe: Memorial to the Murdered Jews of Europe, Peter Eisenman, Berlin, DE, 2005: \"A field of 2,711 concrete stelae of varying height on undulating ground, forming narrow aisles.\"",
+   "wall (site/data/buildings.js): neue-wache-berlin: Neue Wache, Karl Friedrich Schinkel, Berlin, DE, 1818: \"Prussian Neoclassical guardhouse with a Doric portico; today a memorial lit by an oculus.\"",
+   "wall (site/data/buildings.js): anitkabir: Anitkabir, Emin Onat, Orhan Arda, Ankara, TR, 1953: \"A ceremonial road lined with lions leads to a vast court and a stripped classical hall of honour.\"",
+   "wall (site/data/buildings.js): mazar-e-quaid: Mazar-e-Quaid, Yahya Merchant, Karachi, PK, 1970: \"A white marble cube with pointed arches and a shallow dome, raised on a platform in a large park.\"",
+   "wall (site/data/buildings.js): taj-mahal: Taj Mahal, Ustad Ahmad Lahauri, Agra, IN, 1653: \"White marble tomb on a raised plinth at the end of a quartered garden, framed by four minarets.\""
+  ],
+  "meta": "Memorial architecture: how memorials and mausoleums shape remembering, from the Taj Mahal to Berlin. Free photos."
+ },
+ {
+  "slug": "new-york",
+  "intro": "New York's architecture is worth studying for its skyscrapers: the city has one of the largest and most varied collections in the world. The 1916 Zoning Resolution required setbacks and limited towers to a share of the lot; Art Deco towers such as the Chrysler and Empire State buildings took their tapered tops from those rules. Grand Central Terminal was built in the Beaux-Arts style. Later, the Seagram Building and 330 West 42nd Street became early influential examples of the International Style in the United States.\n\nCass Gilbert's Woolworth Building (1913) dresses a steel frame in Gothic Revival terracotta. William Van Alen's Chrysler Building (1930), which many historians and architects rank among the city's finest, stacks a stainless-steel crown of sunburst arches above its setbacks. The Empire State Building (1931) was the first building to pass 100 storeys and the world's tallest until 1970. Mies van der Rohe's Seagram Building (1958) stands back behind a plaza, its bronze mullions expressing the frame; the critic Paul Goldberger called it one of the city's most copied. The MetLife Building (1963) sets a precast concrete slab across Park Avenue above Grand Central.",
+  "facts_used": [
+   "New York has one of the largest and most varied skyscraper collections in the world.",
+   "The 1916 Zoning Resolution forced setbacks and limited towers to a share of the lot.",
+   "Art Deco towers such as the Chrysler and Empire State buildings took their tapered tops from those zoning rules.",
+   "Many historians and architects rank the Chrysler Building among the city's finest.",
+   "The Empire State Building was the first to pass 100 storeys.",
+   "Grand Central Terminal was designed in the Beaux-Arts style.",
+   "The Seagram Building and 330 West 42nd Street are named as early influential International Style examples in the US.",
+   "Critic Paul Goldberger called the Seagram Building one of the city's most copied buildings.",
+   "wall (site/data/buildings.js): woolworth-building: Woolworth Building, Cass Gilbert, New York, US, 1913: \"A Gothic Revival skyscraper of terracotta over a steel frame, with a mosaic-vaulted lobby.\"",
+   "wall (site/data/buildings.js): chrysler-building: Chrysler Building, William Van Alen, New York, US, 1930: \"Stainless-steel crown of stacked sunburst arches above setbacks, with metal ornaments on the brick shaft.\"",
+   "wall (site/data/buildings.js): empire-state-building: Empire State Building, Shreve, Lamb & Harmon, New York, US, 1931: \"Art Deco skyscraper built 1930–31, the world's tallest building until 1970.\"",
+   "wall (site/data/buildings.js): seagram-building: Seagram Building, Mies van der Rohe, New York, US, 1958: \"Set back behind a plaza, with bronze mullions that express the frame.\"",
+   "wall (site/data/buildings.js): metlife-building: MetLife Building, Emery Roth & Sons, Walter Gropius and Pietro Belluschi, New York, US, 1963: \"An elongated octagonal slab of precast concrete set across the axis of Park Avenue above Grand Central.\""
+  ],
+  "meta": "Architecture in New York: skyscrapers from the Woolworth and Chrysler buildings to the Seagram. Free photos and plans."
+ },
+ {
+  "slug": "chicago",
+  "intro": "Chicago is where the skyscraper was worked out, and it holds one of the world's largest and most varied collections. The Great Chicago Fire of 1871 destroyed most of downtown, and the city rebuilt. The Montauk Building (1882–83) was the first to be called a skyscraper, and Jenney's Home Insurance Building (1885) is considered the first with steel in its structural frame. A steel skeleton meant height was no longer limited by the strength of the walls. Louis Sullivan set aside historical precedent to stress height, and from 1963 a \"Second Chicago School\" grew from Mies van der Rohe's work at IIT.\n\nThe Monadnock Building (1893) is the tallest load-bearing masonry building ever built. The Reliance Building (1895) was the first skyscraper with large plate-glass windows over most of its surface. Sullivan's Sullivan Center (Carson Pirie Scott Building), finished in 1907, sets a white terracotta grid over an ornate cast-iron base. Mies's 860-880 Lake Shore Drive (1951) places two steel and glass towers at right angles, their I-beam mullions expressing the frame. Bruce Graham and Fazlur Khan's John Hancock Center (1969) tapers inside an X-braced tube that resists the wind.",
+  "facts_used": [
+   "Most of downtown was destroyed by the Great Chicago Fire in 1871, which led to rebuilding.",
+   "The Montauk Building (1882-83) was the first building called a skyscraper.",
+   "Jenney's Home Insurance Building (1885) is considered the first to use steel in its structural frame.",
+   "A steel skeleton meant a building's height was no longer limited by wall strength.",
+   "Louis Sullivan dropped historical precedent for buildings that stressed verticality.",
+   "A 'Second Chicago School' grew from Mies van der Rohe's work at IIT from 1963.",
+   "Chicago holds one of the world's largest and most diverse skyscraper collections.",
+   "wall (site/data/buildings.js): monadnock-building: Monadnock Building, Burnham & Root; Holabird & Roche, Chicago, US, 1893: \"Built 1891–93: 16 stories, 215 ft, the tallest load-bearing masonry building ever built.\"",
+   "wall (site/data/buildings.js): reliance-building: Reliance Building, John Root & Charles B. Atwood, Chicago, US, 1895: \"The first skyscraper with large plate-glass windows over most of its surface.\"",
+   "wall (site/data/buildings.js): sullivan-center-chicago: Sullivan Center (Carson Pirie Scott Building), Louis Sullivan, Chicago, US, 1907: \"Chicago School store of 1899–1907: ornate cast-iron base, white terracotta grid above, 12 stories.\"",
+   "wall (site/data/buildings.js): 860-880-lake-shore-drive: 860-880 Lake Shore Drive, Ludwig Mies van der Rohe, Chicago, US, 1951: \"Two steel-and-glass towers set at right angles, with applied I-beam mullions expressing the frame.\"",
+   "wall (site/data/buildings.js): john-hancock-center: John Hancock Center, Bruce Graham, Fazlur Khan, Chicago, US, 1969: \"Tapering tower whose exterior X-braced tube resists wind, stacking shops, offices and flats.\""
+  ],
+  "meta": "Architecture in Chicago, birthplace of the skyscraper, from the Monadnock to the John Hancock Center. Free photos."
+ },
+ {
+  "slug": "paris",
+  "intro": "Paris is a city where styles were born and then set into a single, ordered plan. Gothic architecture began in the rebuilding of the choir of Saint-Denis, finished in 1144, and around 1160 Maurice de Sully used it at a far larger scale for Notre-Dame. The city imposed formal height limits on its buildings in 1667. In 1853 Napoleon III made Haussmann prefect of the Seine, starting the rebuilding of Paris; the programme ended when Haussmann was dismissed in January 1870. The world's fairs of 1889 and 1900 added the Eiffel Tower and the Grand Palais, and the design for the Centre Pompidou was chosen from 681 competition entries.\n\nCharles Garnier's Palais Garnier (1875) turns its grand staircase and foyers into a promenade as theatrical as the stage. Gustave Eiffel's Eiffel Tower (1889) gathers four curving wrought-iron legs into a single tapering shaft. Charles Girault's Grand Palais (1900) hides a riveted steel-and-glass vaulted nave behind stone Beaux-Arts facades. Renzo Piano and Richard Rogers's Centre Pompidou (1977) moves its structure and colour-coded services outside, leaving free floors and a public piazza.",
+  "facts_used": [
+   "Gothic architecture was born in the rebuilding of the choir of Saint-Denis near Paris (finished 1144).",
+   "Around 1160 Maurice de Sully used the Gothic style at a far larger scale for Notre-Dame.",
+   "Formal building height limits were imposed in 1667.",
+   "Napoleon III made Haussmann prefect of the Seine in 1853, starting the rebuilding of Paris.",
+   "Haussmann was dismissed in January 1870, ending the programme.",
+   "The 1889 and 1900 expositions added the Eiffel Tower and Grand Palais.",
+   "The Pompidou Centre design by Rogers and Piano was chosen among 681 entries.",
+   "wall (site/data/buildings.js): palais-garnier: Palais Garnier, Charles Garnier, Paris, FR, 1875: \"A Beaux-Arts opera whose grand staircase and foyers make a promenade as theatrical as the stage.\"",
+   "wall (site/data/buildings.js): eiffel-tower: Eiffel Tower, Gustave Eiffel (with Koechlin, Nouguier and Sauvestre), Paris, FR, 1889: \"A wrought-iron lattice whose four curving legs gather into a single tapering shaft.\"",
+   "wall (site/data/buildings.js): grand-palais: Grand Palais, Charles Girault, Paris, FR, 1900: \"Riveted steel-and-glass vaulted nave set behind stone Beaux-Arts facades.\"",
+   "wall (site/data/buildings.js): centre-pompidou: Centre Pompidou, Renzo Piano, Richard Rogers, Paris, FR, 1977: \"Structure and services moved outside and colour-coded, leaving free floors and a public piazza.\""
+  ],
+  "meta": "Architecture in Paris, from Haussmann's boulevards and the Eiffel Tower to the Centre Pompidou. Free photos and plans."
+ },
+ {
+  "slug": "berlin",
+  "intro": "Berlin's architecture is worth studying because the city's 20th century, from Weimar-era reform to the Cold War and after, is written in its buildings. Karl Friedrich Schinkel set its classical core: his Altes Museum, opened in 1830, became a model for national art museums around the world. Seven Weimar-era housing estates by Bruno Taut, Martin Wagner and others now form a World Heritage group that influenced housing far beyond Germany. East Berlin built Karl-Marx-Allee (1949–1960) as a showpiece of workers' housing in socialist classicism, and the Hansaviertel, mostly destroyed in the war, was rebuilt as the Interbau project with Aalto, Gropius, Niemeyer and others. Potsdamer Platz, left desolate in the Cold War, was rebuilt in the 1990s.\n\nTaut's Gartenstadt Falkenberg (1916), nicknamed the paintbox estate, paints its garden-city terraces in strong colours. His Hufeisensiedlung with Wagner (1927) bends a horseshoe of housing around a pond. Norman Foster's Reichstag (1999) tops the parliament with a glass dome whose mirrored cone reflects daylight into the chamber below. Daniel Libeskind's Jewish Museum Berlin (2001) follows a zigzag plan cut through by empty \"voids\" that visitors can see but not enter.",
+  "facts_used": [
+   "Schinkel drew the plans for the Altes Museum, which opened in 1830",
+   "Schinkel's Altes Museum became a template for national art museums elsewhere",
+   "Seven Weimar-era housing estates, by Bruno Taut, Martin Wagner and others, are a World Heritage group",
+   "These estates shaped housing design beyond Germany",
+   "East Berlin's Karl-Marx-Allee (ex-Stalinallee, 1949-1960) was planned as housing and civic showpiece in socialist classicism",
+   "The Hansaviertel, mostly destroyed in the war, was rebuilt as the Interbau housing project with Aalto, Eiermann, Gropius, Niemeyer and Ruf",
+   "Potsdamer Platz was left desolate in the Cold War and rebuilt in the 1990s",
+   "Libeskind's Jewish Museum (opened 2001) is a deconstructivist building",
+   "wall (site/data/buildings.js): altes-museum-berlin: Altes Museum, Karl Friedrich Schinkel, Berlin, DE, 1830: \"Neoclassical museum fronted by a colonnade of eighteen Ionic columns facing the Lustgarten.\"",
+   "wall (site/data/buildings.js): gartenstadt-falkenberg: Gartenstadt Falkenberg, Bruno Taut, Berlin, DE, 1916: \"Garden city terraces painted in strong colours, nicknamed the paintbox estate.\"",
+   "wall (site/data/buildings.js): hufeisensiedlung: Hufeisensiedlung, Bruno Taut, Martin Wagner, Berlin, DE, 1927: \"Horseshoe-shaped housing ring around a pond and shared green, with coloured terraces.\"",
+   "wall (site/data/buildings.js): reichstag: Reichstag, Norman Foster, Berlin, DE, 1999: \"Glass dome with spiral ramps and a mirrored cone that reflects daylight into the chamber below.\"",
+   "wall (site/data/buildings.js): jewish-museum-berlin: Jewish Museum Berlin, Daniel Libeskind, Berlin, DE, 2001: \"A zigzag plan cut through by empty 'voids' that visitors can see but not enter.\""
+  ],
+  "meta": "Architecture in Berlin, from Schinkel and Weimar housing to the Reichstag dome and Jewish Museum. Free photos."
+ },
+ {
+  "slug": "tokyo",
+  "intro": "Tokyo's buildings share no single style, but the city is a key place to study modern Japanese architecture: it was left in ruins twice in recent history and rebuilt each time. The Great Kanto earthquake of 1923 began an era of concrete building, and an air raid in March 1945 burned much of the city. The 1964 Olympics marked its rebirth. Metabolism was launched with a manifesto for the 1960 World Design Conference in Tokyo, treating the city as a living organism. Kenzo Tange mentored the Metabolists without joining them.\n\nTange's Yoyogi National Gymnasium (1964), built for the Olympics, hangs a suspension roof from two concrete masts; his Pritzker citation counted it \"among the most beautiful buildings of the 20th century\". His St. Mary's Cathedral (1964) joins eight concrete shells in a cross-shaped skylight. The Kasumigaseki Building (1968) was Japan's first modern skyscraper, 36 floors on a flexible steel frame built to ride out earthquakes. Kisho Kurokawa's Nakagin Capsule Tower (1972) bolts prefabricated capsules to two cores, the world's first example of capsule architecture. Nikken Sekkei's Tokyo Skytree (2012) damps sway with a concrete core, like a pagoda's central column.",
+  "facts_used": [
+   "Tokyo's buildings do not share one style",
+   "The 1923 Great Kanto earthquake pushed the city toward concrete construction",
+   "Tokyo has been left in ruins twice in recent history (1923 quake, wartime bombing)",
+   "The March 1945 raid burned much of the city",
+   "The 1964 Olympics marked Tokyo's rebirth as a modern city",
+   "Metabolism was launched as a manifesto for the 1960 Tokyo World Design Conference",
+   "Its idea treated cities as living, renewing organisms",
+   "Kenzo Tange mentored Metabolists without being an official member",
+   "Tange's Yoyogi Gymnasium (1964) was praised in his Pritzker citation",
+   "Kurokawa's Nakagin Capsule Tower pioneered capsule architecture",
+   "wall (site/data/buildings.js): yoyogi-national-gymnasium: Yoyogi National Gymnasium, Kenzo Tange, Tokyo, JP, 1964: \"A suspension roof hung from two concrete masts, built for the 1964 Olympics.\"",
+   "wall (site/data/buildings.js): st-mary-s-cathedral: St. Mary's Cathedral, Kenzo Tange, Tokyo, JP, 1964: \"Eight hyperbolic paraboloid concrete shells clad in steel meet in a cross-shaped skylight.\"",
+   "wall (site/data/buildings.js): kasumigaseki-building: Kasumigaseki Building, Yamashita Sekkei with Mitsui Fudosan, Tokyo, JP, 1968: \"Japan's first modern skyscraper, 36 floors on a flexible steel frame built to ride out earthquakes.\"",
+   "wall (site/data/buildings.js): nakagin-capsule-tower: Nakagin Capsule Tower, Kisho Kurokawa, Tokyo, JP, 1972: \"Prefabricated capsules bolted to two cores: the Metabolist idea of replaceable parts.\"",
+   "wall (site/data/buildings.js): tokyo-skytree: Tokyo Skytree, Nikken Sekkei, Tokyo, JP, 2012: \"Triangular base morphs into a round plan, with a concrete core acting as a pagoda-style damping column.\""
+  ],
+  "meta": "Architecture in Tokyo: Tange, Metabolism and capsule towers, from the 1964 Olympics to Skytree. Free photos and plans."
+ },
+ {
+  "slug": "barcelona",
+  "intro": "Barcelona's architecture is worth studying for one plan and one movement. Ildefons Cerdà's Eixample of 1859, the city's biggest expansion, laid a strict grid of wide avenues and square blocks with chamfered corners. Modernisme ran from the city's first World Fair in 1888 to 1911; Antoni Gaudí is its best-known architect, and Lluís Domènech i Montaner created a genuine alternative to his work. For the 1929 Exposition, Mies van der Rohe built the German Pavilion, demolished in 1930 and rebuilt permanently in 1983–86.\n\nGaudí's Casa Batlló (1906) wraps a bone-like facade around a light well tiled from deep to pale blue to even out the daylight. His Casa Milà (1912) carries an undulating stone facade on columns, with two light courts and a catenary-arched attic. The Sagrada Familia, begun in 1882, filters coloured daylight into its nave through branching, tree-like columns and hyperboloid vaults. Domènech i Montaner's Palau de la Música Catalana (1908) uses a steel frame to open walls of glass and a stained-glass skylight over the concert hall. Mies van der Rohe and Lilly Reich's Barcelona Pavilion (1929) sets free-standing walls under a floating roof.",
+  "facts_used": [
+   "Cerdà's 1859 Eixample plan was the city's biggest expansion",
+   "The Eixample is a grid with wide avenues",
+   "Its blocks have cut corners",
+   "Modernisme ran from the 1888 World Fair to 1911",
+   "Gaudí is the movement's best-known architect",
+   "Domènech i Montaner offered an alternative architecture",
+   "Mies's German Pavilion for the 1929 Exposition was demolished in 1930",
+   "It was rebuilt permanently in 1983-86",
+   "wall (site/data/buildings.js): casa-batllo: Casa Batlló, Antoni Gaudi, Barcelona, ES, 1906: \"Bone-like facade and a light well tiled from deep to pale blue to even out the daylight.\"",
+   "wall (site/data/buildings.js): casa-mila: Casa Milà, Antoni Gaudi, Barcelona, ES, 1912: \"Undulating stone facade on columns, two light courts and a catenary-arched attic.\"",
+   "wall (site/data/buildings.js): sagrada-familia: Sagrada Familia, Antoni Gaudi, Barcelona, ES, begun 1882: \"Branching tree-like columns and hyperboloid vaults filter coloured daylight into the nave.\"",
+   "wall (site/data/buildings.js): palau-de-la-musica-catalana: Palau de la Música Catalana, Lluis Domenech i Montaner, Barcelona, ES, 1908: \"Steel frame allows walls of glass and a stained-glass skylight over the concert hall.\"",
+   "wall (site/data/buildings.js): barcelona-pavilion: Barcelona Pavilion, Mies van der Rohe, Lilly Reich, Barcelona, ES, 1929: \"Free-standing walls under a floating roof: space that flows instead of rooms.\""
+  ],
+  "meta": "Architecture in Barcelona: Gaudí, Domènech i Montaner, the Eixample grid and the Barcelona Pavilion. Free photos."
+ },
+ {
+  "slug": "los-angeles",
+  "intro": "Los Angeles architecture is studied above all for its modern houses: the Case Study Houses changed how homes were designed. Arts & Architecture launched the programme in 1945 and asked for houses \"capable of duplication\", not one-off performances. Rudolph Schindler's house of 1922 was a cooperative live/work space for two young families and set a precedent for California architecture. Frank Lloyd Wright called Hollyhock House his \"California Romanza\". Googie, the roadside Space Age style, was named after a Hollywood coffee shop. In 1978 the Los Angeles Conservancy was founded to save the Central Library from demolition.\n\nThe Schindler House (1922) is built of tilt-up concrete slabs with glass slits, its L-shaped studios each opening onto a garden court. Charles and Ray Eames's Eames House (1949) is a Case Study House assembled from off-the-shelf industrial parts. Pierre Koenig's Stahl House (Case Study House #22), from 1960, cantilevers an L-shaped steel and glass pavilion over the Hollywood Hills; its photograph is one of the most famous of Los Angeles. Frank Gehry's Walt Disney Concert Hall (2003) wraps a vineyard-style hall in curved stainless steel, a cheaper skin than the stone first planned.",
+  "facts_used": [
+   "The city mixes many styles, from Mission Revival onward",
+   "Case Study Houses changed American home design",
+   "The Case Study programme was launched in 1945 by Arts & Architecture, aiming at repeatable homes",
+   "Koenig's Stahl House photograph is among LA's most famous",
+   "Schindler's 1922 house was a live/work experiment that set a California precedent",
+   "It was planned for shared living",
+   "Wright called Hollyhock House his California Romanza; it is part of a UNESCO listing",
+   "Googie, the roadside Space Age style, was named after a Hollywood coffee shop",
+   "Gehry's Disney Hall swapped planned stone for a steel skin",
+   "The Los Angeles Conservancy was founded in 1978 to save the Central Library",
+   "wall (site/data/buildings.js): schindler-house: Schindler House, Rudolph Schindler, West Hollywood, US, 1922: \"Tilt-up concrete wall slabs with glass slits; L-shaped studios each open onto a garden court.\"",
+   "wall (site/data/buildings.js): eames-house: Eames House, Charles and Ray Eames, Los Angeles, US, 1949: \"A Case Study House assembled from off-the-shelf industrial parts.\"",
+   "wall (site/data/buildings.js): stahl-house: Stahl House (Case Study House #22), Pierre Koenig, Los Angeles, US, 1960: \"L-shaped steel and glass pavilion cantilevered over the Hollywood Hills, with deep flat roof overhangs.\"",
+   "wall (site/data/buildings.js): hollyhock-house: Hollyhock House, Frank Lloyd Wright, Los Angeles, US, 1921: \"Mayan-inspired house with battered walls and stylised hollyhock friezes around a central courtyard.\"",
+   "wall (site/data/buildings.js): walt-disney-concert-hall: Walt Disney Concert Hall, Frank Gehry, Los Angeles, US, 2003: \"Vineyard-style hall wrapped in curved stainless steel sails modelled with aerospace software.\""
+  ],
+  "meta": "Architecture in Los Angeles: Case Study Houses, Schindler, Wright and Gehry's Disney Hall. Free photos and plans."
+ },
+ {
+  "slug": "cantilever",
+  "intro": "A cantilever is a structural member fixed at one end and free at the other, so a building can overhang with no support underneath. In a traditional timber-framed building, a cantilevered upper floor is called a jetty. Bridges can be built outward from both sides as pairs of cantilevers that meet in the middle.\n\nFrank Lloyd Wright's Robie House in Chicago (1910) projects long roofs from the core of the house instead of resting them on walls. At Fallingwater (1939) he used cantilevers to push large balconies over a waterfall: the concrete terraces are held only at one end, extending outward from the chimney. Giuseppe Pettazzi's Fiat Tagliero Building in Asmara (1938) shapes a service station like an aeroplane, with two 15 m concrete wings cantilevered from a central tower. Coop Himmelb(l)au's Busan Cinema Center (2011) is captioned as having the world's longest cantilever roof, carried on a single cone over an outdoor theatre.",
+  "facts_used": [
+   "A cantilever is fixed at one end and free at the other.",
+   "Cantilevers allow overhangs with no support underneath.",
+   "In timber-framed buildings, a cantilevered upper floor is called a jetty.",
+   "Bridges can be built outward from both sides as paired cantilevers.",
+   "Frank Lloyd Wright used cantilevers for large balconies at Fallingwater.",
+   "Fallingwater's terraces are held only at one end, extending from the chimney.",
+   "Robie House has roofs that project from the core rather than rest on walls.",
+   "Busan Cinema Center is captioned as having the world's longest cantilever roof.",
+   "wall (site/data/buildings.js): robie-house: Robie House, Frank Lloyd Wright, Chicago, US, 1910: \"Long cantilevered roofs and Roman brick bands, with living spaces flowing around a central hearth.\"",
+   "wall (site/data/buildings.js): fallingwater: Fallingwater, Frank Lloyd Wright, Mill Run, US, 1939: \"Concrete terraces cantilevered over a waterfall: building and site as one.\"",
+   "wall (site/data/buildings.js): fiat-tagliero-building: Fiat Tagliero Building, Giuseppe Pettazzi, Asmara, ER, 1938: \"Two 15 m concrete wings cantilever from a central tower, shaping a service station like an aeroplane.\"",
+   "wall (site/data/buildings.js): busan-cinema-center: Busan Cinema Center, Coop Himmelb(l)au, Busan, KR, 2011: \"Huge cantilevered roof with an LED underside shelters an outdoor theatre, carried on one cone.\""
+  ],
+  "meta": "Cantilevers in architecture: overhangs from Fallingwater and Robie House to Busan's giant roof. Free photos and plans."
+ },
+ {
+  "slug": "courtyard",
+  "intro": "A courtyard is an area open to the sky, often surrounded by a building, bringing light, air and privacy into the middle of a plan, which people want nearly everywhere. In warm weather an open central court helps cool a house. Courtyard houses go back to the Neolithic, around 6400–6000 BC, and courtyards were widely used in the ancient Middle East. The open centre of a Roman house was called the atrium, and in Morocco's old towns the courtyard house has always been the standard form.\n\nIn the Alhambra in Granada the basic unit of the palace is a rectangular courtyard, each room opening to the sky. The Shah Mosque, Isfahan (1629) rings its central courtyard with four monumental iwans. Louis Kahn's Salk Institute in La Jolla (1965) sets its laboratories around a travertine plaza open to the Pacific. Tadao Ando's Row House in Sumiyoshi in Osaka (1976) splits a concrete box with an open courtyard you cross to get to bed, even in the rain. Foster + Partners' Kogod Courtyard, National Portrait Gallery in Washington, D.C. (2007) covers a 19th-century courtyard with an undulating glass canopy.",
+  "facts_used": [
+   "A courtyard is an area open to the sky, often surrounded by a building.",
+   "Courtyard houses date back to the Neolithic, around 6400-6000 BC.",
+   "An open central court helps cool a house in warm weather.",
+   "Courtyards give light, air and privacy, which people everywhere want.",
+   "They were widely used in the ancient Middle East.",
+   "A Roman house's open central area was called the atrium.",
+   "In Morocco's old towns courtyard houses are the standard form.",
+   "The Alhambra's basic palace unit was a rectangular courtyard.",
+   "Shah Mosque in Isfahan has a central courtyard ringed by four iwans.",
+   "Ando's Row House in Sumiyoshi brings in light through an interior courtyard.",
+   "wall (site/data/buildings.js): alhambra: Alhambra, Nasrid builders, Granada, ES, 14th c.: \"A sequence of courtyards, water and pattern, each room opening to the sky.\"",
+   "wall (site/data/buildings.js): shah-mosque-isfahan: Shah Mosque, Isfahan, Ali Akbar Isfahani, Isfahan, IR, 1629: \"The plan turns 45 degrees behind the portal so the courtyard and halls face Mecca, not the square.\"",
+   "wall (site/data/buildings.js): salk-institute: Salk Institute, Louis Kahn, La Jolla, US, 1965: \"Laboratories with service floors between them, around a travertine plaza open to the Pacific.\"",
+   "wall (site/data/buildings.js): row-house-in-sumiyoshi: Row House in Sumiyoshi, Tadao Ando, Osaka, JP, 1976: \"A concrete box split by an open courtyard you cross to get to bed, even in the rain.\"",
+   "wall (site/data/buildings.js): kogod-courtyard-national-portrait-gallery: Kogod Courtyard, National Portrait Gallery, Foster + Partners, Washington, D.C., US, 2007: \"Undulating glass and steel canopy on a few columns encloses a 19th-century courtyard.\""
+  ],
+  "meta": "Courtyards in architecture: light, air and privacy, from the Alhambra to the Salk Institute. Free photos and plans."
+ },
+ {
+  "slug": "brise-soleil",
+  "intro": "A brise-soleil, French for \"sun breaker\", is a screen that shades a facade and cuts a building's heat gain by deflecting sunlight. The simplest form is a horizontal projection on the sunny side. It is used most on glass facades that would otherwise overheat, and it still lets in the low sun of mornings, evenings and winter. Le Corbusier popularised patterned concrete versions, and Santiago Calatrava designed a moving one shaped like a wing. At the Institut du Monde Arabe, 240 photo-sensitive, motor-controlled apertures act as a brise-soleil.\n\nLúcio Costa and Oscar Niemeyer's Gustavo Capanema Palace in Rio de Janeiro (1945) sets adjustable brise-soleil on the sun facade of an office slab. Le Corbusier's Palace of Assembly in Chandigarh (1962) is a parliament built for the Punjab sun. His Curutchet House in La Plata (1953) fits house and clinic on a narrow lot behind a brise-soleil. Calatrava's Milwaukee Art Museum, Quadracci Pavilion (2001) opens and folds a winged sunscreen of steel fins above a glass hall. Renzo Piano's New York Times Building (2007) screens clear glass walls with horizontal ceramic rods that shade the offices.",
+  "facts_used": [
+   "A brise soleil cuts a building's heat gain by deflecting sunlight.",
+   "The French term means 'sun breaker'.",
+   "It lets in low sun in morning, evening and winter.",
+   "The simplest form is a horizontal projection on the sun side.",
+   "It is most used on heavily glazed facades.",
+   "Le Corbusier popularised patterned concrete versions, as at Chandigarh's Palace of Assembly.",
+   "Calatrava designed a moving, wing-like version.",
+   "Institut du Monde Arabe uses motor-controlled apertures that act as a brise soleil.",
+   "wall (site/data/buildings.js): gustavo-capanema-palace: Gustavo Capanema Palace, Lúcio Costa, Oscar Niemeyer, Rio de Janeiro, BR, 1945: \"Office slab on tall pilotis, with adjustable brise-soleil on the sun facade and tile murals at ground level.\"",
+   "wall (site/data/buildings.js): palace-of-assembly: Palace of Assembly, Le Corbusier, Chandigarh, IN, 1962: \"A parliament built for the Punjab sun: portico, brise-soleil and a hyperboloid chamber.\"",
+   "wall (site/data/buildings.js): curutchet-house: Curutchet House, Le Corbusier, La Plata, AR, 1953: \"House and clinic on a narrow lot, linked by a ramp around a tree, behind a brise-soleil.\"",
+   "wall (site/data/buildings.js): milwaukee-art-museum-quadracci-pavilion: Milwaukee Art Museum, Quadracci Pavilion, Santiago Calatrava, Milwaukee, US, 2001: \"A winged sunscreen of steel fins opens and folds above a glass reception hall on the lakefront.\"",
+   "wall (site/data/buildings.js): new-york-times-building: New York Times Building, Renzo Piano, New York, US, 2007: \"Clear glass walls screened by horizontal ceramic rods that shade the offices and catch the light.\""
+  ],
+  "meta": "Brise-soleil in architecture: sun-breaking screens by Le Corbusier, Niemeyer, Calatrava and Piano. Free photos."
+ },
+ {
+  "slug": "timber",
+  "intro": "Timber architecture covers both the oldest ways of building in wood and some of the newest. Mass timber is a class of large engineered wood parts that carry structure. Cross-laminated timber stacks layers of boards at right angles for strength and serves for walls, floors and roofs. Mass timber buildings go up faster than steel or concrete ones and perform very well in earthquakes. The oldest known half-timbered building is in Roman Herculaneum.\n\nThe Pagoda of Fogong Temple (Yingxian Wooden Pagoda), from 1056, is the oldest fully wooden pagoda still standing in China, held together without nails by 54 kinds of bracket sets. The Ise Grand Shrine is traditionally rebuilt in cypress every 20 years, which keeps the craft alive. Frei Otto and Carlfried Mutschler's Multihalle Mannheim (1975) is a timber lath gridshell, laid flat and then pushed up into shape. J. Mayer H.'s Metropol Parasol in Seville (2011), marketed as the world's largest wooden structure, spreads timber parasols over a market and Roman ruins. Voll Arkitekter's Mjostarnet in Brumunddal (2019) was the world's tallest wooden building when it was finished, an 18-storey glulam frame.",
+  "facts_used": [
+   "Mass timber is a class of large engineered wood structural parts.",
+   "Cross-laminated timber panels stack layers at right angles for strength.",
+   "CLT works for walls, floors and roofs.",
+   "Mass timber buildings are built faster than steel or concrete ones.",
+   "They perform well in earthquakes.",
+   "Half-timbered building goes back to Roman times in Herculaneum.",
+   "Mjostarnet (Norway, 2019) was the world's tallest wooden building when finished.",
+   "The Yingxian pagoda (1056) is the oldest fully wooden pagoda in China.",
+   "Ise Grand Shrine is traditionally rebuilt every 20 years in cypress.",
+   "Metropol Parasol is marketed as the world's largest wooden structure.",
+   "wall (site/data/buildings.js): pagoda-of-fogong-temple: Pagoda of Fogong Temple (Yingxian Wooden Pagoda), Liao dynasty builders, Yingxian, CN, 1056: \"67 m all-timber pagoda, no nails: five storeys outside, nine inside, held by 54 kinds of bracket sets.\"",
+   "wall (site/data/buildings.js): ise-grand-shrine: Ise Grand Shrine, Shinto shrine carpenters, Ise, JP, 2013: \"Unpainted cypress shrine rebuilt on an adjacent plot every 20 years, keeping the craft alive.\"",
+   "wall (site/data/buildings.js): multihalle-mannheim: Multihalle Mannheim, Frei Otto, Carlfried Mutschler, Mannheim, DE, 1975: \"Double-curved timber lath gridshell, laid flat then pushed up into shape, covering a free-form hall.\"",
+   "wall (site/data/buildings.js): metropol-parasol: Metropol Parasol, J. Mayer H., Seville, ES, 2011: \"Giant timber parasols over a market and Roman ruins, with a walkway on top.\"",
+   "wall (site/data/buildings.js): mjostarnet: Mjostarnet, Voll Arkitekter, Brumunddal, NO, 2019: \"An 18-storey glulam frame with large diagonal timber braces, among the tallest timber buildings.\""
+  ],
+  "meta": "Timber architecture: mass timber, CLT and great wooden buildings from Ise to Mjostarnet. Free photos and plans."
+ },
+ {
+  "slug": "tensile-structures",
+  "intro": "A tensile structure carries only tension, with no compression or bending, and it should not be confused with tensegrity. Because tensile structures span long distances economically, they are most often roofs. Pretensioning keeps their flexible parts stiff. Common fabrics are PTFE-coated fibreglass and PVC-coated polyester, and some roofs use ETFE film in single layers or cushions. Vladimir Shukhov was one of the first to calculate their stresses. Frei Otto championed the idea, founded the Institute for Lightweight Structures in Stuttgart in 1964, and first used it for the West German pavilion at Expo 67.\n\nMaciej Nowicki and William Henley Deitrick's J. S. Dorton Arena in Raleigh (1952) was the first structure in the world with a cable-supported roof. Kenzo Tange's Yoyogi National Gymnasium in Tokyo (1964) hangs its roof from two concrete masts. For the Munich Olympic Stadium (1972), Behnisch & Partner and Otto spread a cable-net roof with acrylic glass panels. Richard Rogers's Millennium Dome in London (1999) hangs a PTFE-coated fabric roof on cables from twelve yellow masts. Foster + Partners' Khan Shatyr Entertainment Center in Astana (2010) is a tilted cable-net tent of ETFE cushions.",
+  "facts_used": [
+   "A tensile structure carries only tension, no compression or bending.",
+   "It is not the same as tensegrity.",
+   "Vladimir Shukhov was an early pioneer of the calculations.",
+   "Frei Otto championed the idea; his first use was the West German pavilion at Expo 67.",
+   "Otto then used it for the Munich Olympic Stadium roof (1972).",
+   "Such structures are mostly roofs because they span long distances economically.",
+   "Common fabrics are PTFE-coated fibreglass and PVC-coated polyester.",
+   "Some use ETFE film as single layers or cushions.",
+   "Pretensioning keeps flexible elements stiff under load.",
+   "Otto founded the Institute for Lightweight Structures in Stuttgart in 1964.",
+   "wall (site/data/buildings.js): j-s-dorton-arena: J. S. Dorton Arena, Maciej Nowicki & William Henley Deitrick, Raleigh, US, 1952: \"The first structure in the world to use a cable-supported roof.\"",
+   "wall (site/data/buildings.js): yoyogi-national-gymnasium: Yoyogi National Gymnasium, Kenzo Tange, Tokyo, JP, 1964: \"A suspension roof hung from two concrete masts, built for the 1964 Olympics.\"",
+   "wall (site/data/buildings.js): munich-olympic-stadium: Munich Olympic Stadium, Behnisch & Partner, Frei Otto, Munich, DE, 1972: \"Cable-net roof with acrylic glass panels; seating set into an earth-bowl landscape.\"",
+   "wall (site/data/buildings.js): millennium-dome: Millennium Dome, Richard Rogers, London, GB, 1999: \"PTFE-coated fabric roof on cables hung from twelve yellow masts.\"",
+   "wall (site/data/buildings.js): khan-shatyr-entertainment-center: Khan Shatyr Entertainment Center, Foster + Partners, Astana, KZ, 2010: \"A tilted cable-net tent of ETFE cushions hangs from a central mast, enclosing a climate-buffered park.\""
+  ],
+  "meta": "Tensile structures in architecture: cable nets and fabric roofs by Frei Otto, Tange and others. Free photos and plans."
+ }
+]
