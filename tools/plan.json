@@ -36,5 +36,17 @@
   "metric": "buildings_added",
   "status": "in progress",
   "note": "Owner asked for 500 today. Brief adds the stricter main-photo rule, Commons-rated photos first, and a check that the Commons category is the building's own."
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "goal": "Drawings for the most-studied buildings ranked 201-1,000: Commons scan in four runs, Sonnet first check, Opus check by eye, fetch",
+  "status": "in progress"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "goal": "Architect pages batch 7 (ranks 161-190): write-ups by the Opus writer chat, then build, check and pull request",
+  "status": "in progress"
  }
 ]

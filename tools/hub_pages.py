@@ -356,7 +356,7 @@ def page(bp, hubs, h, ctx):
         f'{body_intro}'
         f'<a class="cta" href="#buildings">See the {n} buildings ↓</a>'
         f'{globe}{links}{books}{relh}</aside>\n'
-        f'<section class="wallpane" id="buildings"><div class="whead"><h2>{bp.e(h["label"])} buildings <span><span id="shown">{n}</span></span></h2>'
+        f'<section class="wallpane" id="buildings"><div class="whead"><h2>Buildings <span><span id="shown">{n}</span></span></h2>'
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div><div id="more" aria-hidden="true"></div>'
         f'<footer class="foot" data-nosnippet><p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>'
