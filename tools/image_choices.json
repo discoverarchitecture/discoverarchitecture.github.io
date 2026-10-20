@@ -3055,6 +3055,12 @@
     "File:Pianta, prospetto e spaccato di villa Almerico Capra detta La Rotonda, 1570 - Archivio Accademia delle Scienze Torino, Millon 66 28 027.jpg",
     "Drawing"
    ]
+  ],
+  "drawings": [
+   "File:Palladio Rotonda planta Scamozzi 1778 (23547396).jpg",
+   "File:Progetto per Villa Almerico Capra, 1570 - Archivio Accademia delle Scienze Torino, Millon 64 05 093.jpg",
+   "File:Vicenza. La Rotonda. northwest elevation and section along the northeast-southwest axis 2007 - Touring Club Italiano GR Veneto@0339.tif",
+   "File:Palladio Rotonda seccion Scamozzi 1778.jpg"
   ]
  },
  "millau-viaduct": {
@@ -4020,6 +4026,11 @@
    "File:Paris - Intérieur du Petit - PA00088878 - 015.jpg",
    "File:Paris - Intérieur du Petit - PA00088878 - 024.jpg",
    "File:Paris - Façade du Petit Palais - PA00088878 - 003.jpg"
+  ],
+  "drawings": [
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(13).jpg",
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(4).jpg",
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(14).jpg"
   ]
  },
  "isabella-stewart-gardner-museum": {
@@ -7426,6 +7437,12 @@
   "skip": [
    "File:Cover Sheet - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 1 of 17).png",
    "File:Column, Price Tower, Dewey Avenue, Bartlesville, OK.jpg"
+  ],
+  "drawings": [
+   "File:Second Floor Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 5 of 17).tif",
+   "File:Section, and Light, Louver, and Spire Details - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 17 of 17).tif",
+   "File:Site Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 2 of 17).tif",
+   "File:East Elevation - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 12 of 17).tif"
   ]
  },
  "general-motors-technical-center": {
@@ -16739,6 +16756,9 @@
   "skip": [
    "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-1.jpg",
    "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-2.jpg"
+  ],
+  "drawings": [
+   "File:Detailed construction sketch; cross-section of the railway hall (platform roof) of the \"Antwerp Central\" (Antwerpen-Centraal) railway station.tif"
   ]
  },
  "cinquantenaire-arcade-brussels": {
@@ -21727,6 +21747,9 @@
     "File:Goetheanum-Längsschnitt.jpg",
     "Drawing"
    ]
+  ],
+  "drawings": [
+   "File:Zweites Goetheanum - Riss des Grossen Saals.jpg"
   ]
  },
  "louvre-lens": {
@@ -22673,6 +22696,9 @@
  "hospital-de-sant-pau": {
   "skip": [
    "File:Woman posing for photos near the main entrance of the Hospital de la Santa Creu i Sant Pau.jpg"
+  ],
+  "drawings": [
+   "File:SantPau-EsboçOriginal-102sh.jpg"
   ]
  },
  "clifton-cathedral": {
@@ -23659,6 +23685,11 @@
  "semperoper": {
   "skip": [
    "File:Dresden Germany Interior-of-Semperoper-01.jpg"
+  ],
+  "drawings": [
+   "File:DD Oper Grundriss.tiff",
+   "File:Die Bauten von Dresden (1878) Illustrationsseite 136a.jpg",
+   "File:Die Bauten von Dresden (1878) Illustrationsseite 134a.jpg"
   ]
  },
  "30-rockefeller-plaza": {
@@ -24057,6 +24088,10 @@
  "darwin-d-martin-house": {
   "skip": [
    "File:Conservatory at the Darwin D. Martin House estate in Buffalo, New York.jpg"
+  ],
+  "drawings": [
+   "File:D. D. Martin House site plan - HABS NY,15-BUF,5-.gif",
+   "File:Historic American Buildings Survey, Plate - 55, 'Wohnhaus Martin, Buffalo, N. Y. Grundrisse des Haupt und Obergeschosses' in Frank Lloyd Wright Ausgefuhrte Bauten (Berlin- Ernst HABS NY,15-BUF,5-15.tif"
   ]
  },
  "millard-house-la-miniatura": {
@@ -25110,6 +25145,9 @@
  "selimiye-mosque": {
   "add": [
    "File:Ist-Ath - 99 cropped.jpg"
+  ],
+  "drawings": [
+   "File:Edirne Selimiye Mosque Plan in 2003 4454.jpg"
   ]
  },
  "sesc-24-de-maio": {
@@ -28274,6 +28312,14 @@
  "shah-mosque-isfahan": {
   "drawings": [
    "File:Masjid Shah, General Plan by Pascal Coste.jpg"
+  ]
+ },
+ "unity-temple": {
+  "drawings": [
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 4 of 7).png",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 1 of 7).tif",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 2 of 7).png",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 3 of 7).png"
   ]
  }
 }
