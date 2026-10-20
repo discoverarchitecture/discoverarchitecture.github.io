@@ -8,9 +8,12 @@ For every link in overview_links it records the HTTP status, the final address a
 page title. A link that loads (200) and whose title or page mentions the architect's surname gets
 "checked": "<date>"; any other link gets "check_failed": "<reason>" and no "checked". The results files are
 updated in place and a summary goes to tools/architect_bios/links_report.json.
+
+Facts whose source is a Wikidata item and that carry "architect_qid" (used for buildings with no English article)
+are checked too: the item's architect (P84) must include that qid. Those facts get "checked" or "check_failed".
 Needs the open internet: runs on GitHub Actions (architect-bios.yml).
 """
-import argparse, datetime, html, json, re, time, unicodedata, urllib.request
+import argparse, datetime, html, json, re, time, unicodedata, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -24,7 +27,10 @@ def fold(s):
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'en'})
+    # accented letters in the path (Kenzō, Gaudí) must be percent-encoded for urllib
+    url = urllib.parse.quote(url, safe=':/?&=#%+,;@!~*()\'')
+    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'en',
+                                               'Accept': 'text/html,application/xhtml+xml,*/*;q=0.8'})
     try:
         with urllib.request.urlopen(req, timeout=40) as r:
             body = r.read(800_000).decode('utf-8', 'ignore')
@@ -32,7 +38,17 @@ def fetch(url):
     except urllib.error.HTTPError as err:
         return err.code, url, ''
     except Exception as err:
-        return 0, url, str(err)
+        return 0, url, 'ERROR ' + str(err)[:200]
+
+
+def wikidata_architects(item_url):
+    qid = item_url.rstrip('/').rsplit('/', 1)[-1]
+    status, _, body = fetch(f'https://www.wikidata.org/wiki/Special:EntityData/{qid}.json')
+    if status != 200:
+        return None
+    ent = json.loads(body)['entities'][qid]
+    return [c['mainsnak']['datavalue']['value']['id'] for c in ent.get('claims', {}).get('P84', [])
+            if c['mainsnak'].get('datavalue')]
 
 
 def keys(name):
@@ -65,9 +81,21 @@ def main():
                 else:
                     link['check_failed'] = f'status {status}' + ('' if about else ', name not found on page')
                 report.append({'architect': a['name'], 'url': link['url'], 'status': status, 'final': final,
-                               'title': title[:200], 'about': about})
+                               'title': title[:200], 'about': about,
+                               'error': body[:200] if body.startswith('ERROR') else None})
                 print(status, 'ok ' if status == 200 and about else 'BAD', a['name'], '|', link['url'], '|', title[:80])
                 time.sleep(1)
+            for fact in a.get('facts', []):
+                if 'architect_qid' not in fact:
+                    continue
+                found = wikidata_architects(fact['source'])
+                fact.pop('check_failed', None)
+                fact.pop('checked', None)
+                if found and fact['architect_qid'] in found:
+                    fact['checked'] = today
+                else:
+                    fact['check_failed'] = f'architect (P84) on Wikidata: {found}'
+                print('fact', 'ok ' if 'checked' in fact else 'BAD', a['name'], '|', fact['source'], found)
         path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + '\n')
     (DIR / 'links_report.json').write_text(json.dumps(report, ensure_ascii=False, indent=1) + '\n')
 

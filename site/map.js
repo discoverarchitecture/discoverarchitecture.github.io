@@ -11,8 +11,8 @@
 
   /* ---------- the dock button and the panel ---------- */
   const dock = document.querySelector('.dock');
-  dock.insertAdjacentHTML('afterbegin', `<button type="button" id="mapBack" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Wall</button>`);
-  $('surprise').insertAdjacentHTML('beforebegin', `<button type="button" id="mapBtn" class="mapbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>Map</button>`);
+  dock.insertAdjacentHTML('afterbegin', `<button type="button" id="mapBack" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg><span class="dl">Wall</span></button>`);
+  $('surprise').insertAdjacentHTML('beforebegin', `<button type="button" id="mapBtn" class="mapbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg><span class="dl">Map</span></button>`);
   document.body.insertAdjacentHTML('beforeend', `
 <section class="globe" id="globe" aria-label="Map of the buildings" hidden>
   <canvas id="gView"></canvas>
@@ -68,7 +68,13 @@
   }
 
   /* ---------- drawing ---------- */
-  const C = { halo: 'rgba(218,58,38,.10)', sea1: '#FFFFFF', sea2: '#FBEAE6', grat: 'rgba(218,58,38,.12)', equator: 'rgba(218,58,38,.32)', land: '#F3C2BA', border: 'rgba(184,46,29,.4)', rim: '#F3C2BA' };
+  // Day: sunset red land on white. Night: deeper red land on a dark sea, lighter borders and names (v26).
+  const DAY = { halo: 'rgba(218,58,38,.10)', sea1: '#FFFFFF', sea2: '#FBEAE6', grat: 'rgba(218,58,38,.12)', equator: 'rgba(218,58,38,.32)', land: '#F3C2BA', border: 'rgba(184,46,29,.4)', rim: '#F3C2BA',
+    dot: '#111110', dotEdge: '#FFFFFF', name: '#6E5A55', nameEdge: 'rgba(255,255,255,.85)' };
+  const NIGHT = { halo: 'rgba(218,58,38,.16)', sea1: '#161615', sea2: '#2A1714', grat: 'rgba(218,58,38,.22)', equator: 'rgba(218,58,38,.45)', land: '#9C3324', border: 'rgba(255,190,175,.35)', rim: '#9C3324',
+    dot: '#EDEDE9', dotEdge: '#121211', name: '#E8D6D1', nameEdge: 'rgba(18,18,17,.85)' };
+  let C = document.documentElement.hasAttribute('data-night') ? NIGHT : DAY;
+  window.addEventListener('themechange', e => { C = e.detail && e.detail.night ? NIGHT : DAY; dirty(); });
   const V = { lon: 10, lat: 30, k: 1 };
   let W = 0, H = 0, DPR = 1, raf = 0, selected = null, drawn = { tiles: [], dots: [], T: 26, r: 3 }, stretch = false;
   let globe, gratProj, GRAT;
@@ -134,7 +140,7 @@
       else dots.push([it, q[0], q[1]]);
     }
     const r = V.k >= 6 ? 4 : 3;
-    ctx.fillStyle = '#111110'; ctx.strokeStyle = '#FFFFFF'; ctx.lineWidth = 1.5;
+    ctx.fillStyle = C.dot; ctx.strokeStyle = C.dotEdge; ctx.lineWidth = 1.5;
     for (const [, x, y] of dots) { ctx.beginPath(); ctx.arc(x, y, r, 0, 6.2832); ctx.fill(); ctx.stroke(); }
     const photo = (it, x, y, S) => {
       const im = thumb(it.b);
@@ -172,8 +178,8 @@
       }
       if (at == null) continue;
       shown.add(l.name);
-      ctx.globalAlpha = a; ctx.strokeStyle = 'rgba(255,255,255,.85)'; ctx.lineWidth = 3; ctx.strokeText(l.name, q[0], at);
-      ctx.fillStyle = '#6E5A55'; ctx.fillText(l.name, q[0], at); ctx.globalAlpha = 1;
+      ctx.globalAlpha = a; ctx.strokeStyle = C.nameEdge; ctx.lineWidth = 3; ctx.strokeText(l.name, q[0], at);
+      ctx.fillStyle = C.name; ctx.fillText(l.name, q[0], at); ctx.globalAlpha = 1;
     }
     if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
     // zoomed in past a country's own name: it stays pinned, small, at the top
@@ -359,11 +365,14 @@
   }
   // The Map button works from anywhere: an open building closes and the map flies to it; the books wall switches to buildings.
   async function openMap() {
+    if (window.fgaEvent) fgaEvent('map/open', 'Map opened');
+    const to = DA.mapTo; DA.mapTo = null; // a building page's "On the globe" link (#map=<id>) names the building to fly to
     const was = !$('sheet').hidden && DA.state.open && DA.state.open.kind !== 'book' ? DA.state.open : null;
     if (!$('sheet').hidden) $('close').click();
     if (DA.state.mode === 'books') $('modeBuildings').click();
+    document.body.classList.add('mapped'); // the top panel turns into its slim bar first, so the map sits right under it
     place();
-    panel.hidden = false; document.body.classList.add('mapped');
+    panel.hidden = false;
     requestAnimationFrame(() => panel.classList.add('in'));
     await load();
     if (!globe) {
@@ -373,7 +382,7 @@
     }
     resize();
     $('gNone').hidden = items.length > 0;
-    const here = was && all.find(it => it.b === was);
+    const here = to ? all.find(it => it.b.id === to) : was && all.find(it => it.b === was);
     if (here) fly(here, 22); // straight to the building that was open, with its card
     else if (items.length && items.length < all.length) fit();
   }

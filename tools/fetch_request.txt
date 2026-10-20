@@ -1,2 +1,2 @@
---only grande-arche,park-guell,szechenyi-thermal-bath,art-institute-of-chicago-modern-wing,notre-dame-de-lourdes-casablanca,fondazione-prada,scuola-fagnano-olona,330-north-wabash,cleo-rogers-memorial-library
-Photos for the Design chat flags (15 Oct): new main photos picked on Commons, to be checked by eye.
+--only empire-state-building,brooklyn-museum,westminster-cathedral,flatiron-building
+Four buildings from the Haiku experiment (checked by Sonnet and Opus).

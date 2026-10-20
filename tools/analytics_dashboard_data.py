@@ -63,6 +63,8 @@ def main():
             kind, _, key = h['path'].partition('/')
             if kind in ('building', 'book'):
                 add('Opened', ('Book: ' if kind == 'book' else '') + (h.get('title') or key), h['count'])
+            elif kind in ('map', 'play'):  # map/open, play/daily/3-of-5, play/endless/over, play/share/<kind>
+                add('Map and game', h.get('title') or h['path'], h['count'])
         else:
             pages.append({'path': h['path'], 'title': h.get('title') or '', 'visits': int(h['count'])})
     pages.sort(key=lambda r: -r['visits'])

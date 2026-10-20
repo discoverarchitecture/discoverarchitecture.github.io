@@ -1,0 +1,30 @@
+[
+ {
+  "id": "vitrahaus-weil-am-rhein",
+  "field": "type",
+  "ours": "Culture & sport",
+  "source_says": "Flagship store, cafe and exhibition space for Vitra's Home Collection (retail/showroom, not a culture or sport venue)",
+  "url": "https://en.wikipedia.org/wiki/VitraHaus"
+ },
+ {
+  "id": "edmund-barton-building-canberra",
+  "field": "type",
+  "ours": "Civic",
+  "source_says": "Commercial office building (houses government departments; Wikipedia calls it a commercial office building). Minor, arguable",
+  "url": "https://en.wikipedia.org/wiki/Edmund_Barton_Building"
+ },
+ {
+  "id": "chateau-neuf",
+  "field": "year",
+  "ours": "1973",
+  "source_says": "Construction finished 1971, officially opened 1973. Year is the opening year, so acceptable. Minor note only",
+  "url": "https://en.wikipedia.org/wiki/Chateau_Neuf"
+ },
+ {
+  "id": "_summary",
+  "field": "checked",
+  "ours": "26 buildings checked (every tenth id in r9_ids.txt, positions 10, 20 ... 260), fields by/year/place/type",
+  "source_says": "23 fully match; 1 clear mismatch (VitraHaus type); 2 minor notes (Edmund Barton type, Chateau Neuf year is opening year)",
+  "url": ""
+ }
+]

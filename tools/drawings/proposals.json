@@ -1,0 +1,288 @@
+[
+ {
+  "id": "sagrada-familia",
+  "add": [
+   "File:Planta SF Villar 1882.jpg",
+   "File:Barcelona - Crypt of La Sagrada Família - Simbologia del Temple Expiatori de la Sagrada Família.jpg",
+   "File:SF - Alzado capilla San José (1884).jpg",
+   "File:Sagrada Familia-sección.jpg"
+  ],
+  "kinds": {
+   "File:Planta SF Villar 1882.jpg": "Plan",
+   "File:Barcelona - Crypt of La Sagrada Família - Simbologia del Temple Expiatori de la Sagrada Família.jpg": "Plan",
+   "File:SF - Alzado capilla San José (1884).jpg": "Elevation",
+   "File:Sagrada Familia-sección.jpg": "Elevation"
+  },
+  "why": "Historic plan, a second plan and two line elevations of the church."
+ },
+ {
+  "id": "taj-mahal",
+  "add": [
+   "File:TajPlanMughalGardens.jpg",
+   "File:Tajplan.png"
+  ],
+  "kinds": {
+   "File:TajPlanMughalGardens.jpg": "Plan",
+   "File:Tajplan.png": "Plan"
+  },
+  "why": "Two clear line plans of the complex."
+ },
+ {
+  "id": "eiffel-tower",
+  "add": [
+   "File:Eiffel plan.jpg",
+   "File:Skizze Eiffelturm - technische Daten.png",
+   "File:La Tour Eiffel. Détails de la construction et du fonctionnement des ascenseurs Otis.jpg",
+   "File:Le sommet de la Tour Eiffel. Coupe dessinéee par M. Rouillard.jpg"
+  ],
+  "kinds": {
+   "File:Eiffel plan.jpg": "Elevation",
+   "File:Skizze Eiffelturm - technische Daten.png": "Elevation",
+   "File:La Tour Eiffel. Détails de la construction et du fonctionnement des ascenseurs Otis.jpg": "Drawing",
+   "File:Le sommet de la Tour Eiffel. Coupe dessinéee par M. Rouillard.jpg": "Drawing"
+  },
+  "why": "Dimensioned elevations plus two construction engravings."
+ },
+ {
+  "id": "hagia-sophia",
+  "add": [
+   "File:Santa Sophia 282.jpg",
+   "File:Hagia Sophia-height of columns-piers and diameter of dome.png",
+   "File:Saint Sophia, Constantinopolis.jpg",
+   "File:29a Coupe longitudinale et vue sur l'atrium.png"
+  ],
+  "kinds": {
+   "File:Santa Sophia 282.jpg": "Plan",
+   "File:Hagia Sophia-height of columns-piers and diameter of dome.png": "Section",
+   "File:Saint Sophia, Constantinopolis.jpg": "Elevation",
+   "File:29a Coupe longitudinale et vue sur l'atrium.png": "Section"
+  },
+  "why": "Plan and section sheet, annotated section, line elevation and a coloured cutaway section."
+ },
+ {
+  "id": "angkor-wat",
+  "add": [
+   "File:Awatplan05colours.PNG"
+  ],
+  "kinds": {
+   "File:Awatplan05colours.PNG": "Plan"
+  },
+  "why": "Site plan of the temple complex."
+ },
+ {
+  "id": "kennedy-center",
+  "add": [
+   "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 22 of 36).tif"
+  ],
+  "kinds": {
+   "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 22 of 36).tif": "Plan"
+  },
+  "why": "Site plan sheet (three identical scans; the sharpest kept)."
+ },
+ {
+  "id": "forbidden-city",
+  "add": [
+   "File:Hsiang Fei (plan of the Forbidden City).jpg",
+   "File:Nieuhof-Ambassade-vers-la-Chine-1665 0832.tif"
+  ],
+  "kinds": {
+   "File:Hsiang Fei (plan of the Forbidden City).jpg": "Plan",
+   "File:Nieuhof-Ambassade-vers-la-Chine-1665 0832.tif": "Drawing"
+  },
+  "why": "Clear red plan of the palace and a historic bird's-eye plan engraving."
+ },
+ {
+  "id": "alhambra",
+  "add": [
+   "File:116 Tafel 6 Grenada Alhambra - Plano del Palacio Arabe.jpg",
+   "File:Study for the West Façade of the Palace of Charles V, The Alhambra, Granada MET DT8787.jpg"
+  ],
+  "kinds": {
+   "File:116 Tafel 6 Grenada Alhambra - Plano del Palacio Arabe.jpg": "Plan",
+   "File:Study for the West Façade of the Palace of Charles V, The Alhambra, Granada MET DT8787.jpg": "Elevation"
+  },
+  "why": "Plan of the palace and an elevation of the Palace of Charles V (inside the Alhambra complex)."
+ },
+ {
+  "id": "palace-of-westminster",
+  "add": [
+   "File:Life and works of sir Charls Barry page 309.jpg",
+   "File:Palace of Westminster plan, F. Crace, high resolution.png",
+   "File:Life and works of sir Charls Barry page 383.jpg"
+  ],
+  "kinds": {
+   "File:Life and works of sir Charls Barry page 309.jpg": "Plan",
+   "File:Palace of Westminster plan, F. Crace, high resolution.png": "Plan",
+   "File:Life and works of sir Charls Barry page 383.jpg": "Plan"
+  },
+  "why": "Three historic plans of the palace."
+ },
+ {
+  "id": "chrysler-building",
+  "add": [
+   "File:Chrysler Building 31st to 41st floor plan.png",
+   "File:Chrysler Building 6th to 10th floor plan.png",
+   "File:Chrysler Building first floor plan.png"
+  ],
+  "kinds": {
+   "File:Chrysler Building 31st to 41st floor plan.png": "Plan",
+   "File:Chrysler Building 6th to 10th floor plan.png": "Plan",
+   "File:Chrysler Building first floor plan.png": "Plan"
+  },
+  "why": "Floor plans for different floor ranges."
+ },
+ {
+  "id": "sydney-opera-house",
+  "add": [
+   "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg",
+   "File:First Floor Plan (Sydney Opera House) (5373921522).jpg",
+   "File:Stage Machinery Plan (Sydney Opera House) (5373921032) (3).jpg",
+   "File:Site Plan (Sydney Opera House) (5373322823).jpg"
+  ],
+  "kinds": {
+   "File:Longitudinal Section Through Major Hall (Sydney Opera House) (5373322093).jpg": "Section",
+   "File:First Floor Plan (Sydney Opera House) (5373921522).jpg": "Plan",
+   "File:Stage Machinery Plan (Sydney Opera House) (5373921032) (3).jpg": "Plan",
+   "File:Site Plan (Sydney Opera House) (5373322823).jpg": "Plan"
+  },
+  "why": "Utzon-era drawing sheets: a section, two plans and a site plan."
+ },
+ {
+  "id": "borobudur",
+  "add": [
+   "File:Borobudur Half Cross Section.png",
+   "File:Borobudur half cross section.png"
+  ],
+  "kinds": {
+   "File:Borobudur Half Cross Section.png": "Section",
+   "File:Borobudur half cross section.png": "Section"
+  },
+  "why": "Two half cross-section diagrams of the stepped temple."
+ },
+ {
+  "id": "altare-della-patria",
+  "add": [
+   "File:Vittorianomap.jpg"
+  ],
+  "kinds": {
+   "File:Vittorianomap.jpg": "Plan"
+  },
+  "why": "Plan of the monument."
+ },
+ {
+  "id": "carnegie-hall",
+  "add": [
+   "File:Drawing, Design for Stained Glass Window- Over Main Entrance - Lateral Building, Carnegie Hall, New York, NY, late 19th century (CH 18733225).jpg",
+   "File:Drawing, Design for Stained Glass Windows- Chamber Music Hall - Back of Stage, Carnegie Hall, New York, NY, late 19th century (CH 18733231).jpg"
+  ],
+  "kinds": {
+   "File:Drawing, Design for Stained Glass Window- Over Main Entrance - Lateral Building, Carnegie Hall, New York, NY, late 19th century (CH 18733225).jpg": "Drawing",
+   "File:Drawing, Design for Stained Glass Windows- Chamber Music Hall - Back of Stage, Carnegie Hall, New York, NY, late 19th century (CH 18733231).jpg": "Drawing"
+  },
+  "why": "Archive design drawings for stained-glass windows of the hall (decorative, lower priority)."
+ },
+ {
+  "id": "palais-garnier",
+  "add": [
+   "File:Palais Garnier plan of the roof - Mead 1991 p104.jpg",
+   "File:Palais Garnier transverse section at the auditorium and pavilions - Beauvert 1996 p106.jpg",
+   "File:Palais Garnier long section - Steinhauser 1969 plate7.jpg",
+   "File:Palais Garnier transverse section at the portico and loggia - Steinhauser 1969 plate18.jpg"
+  ],
+  "kinds": {
+   "File:Palais Garnier plan of the roof - Mead 1991 p104.jpg": "Plan",
+   "File:Palais Garnier transverse section at the auditorium and pavilions - Beauvert 1996 p106.jpg": "Section",
+   "File:Palais Garnier long section - Steinhauser 1969 plate7.jpg": "Section",
+   "File:Palais Garnier transverse section at the portico and loggia - Steinhauser 1969 plate18.jpg": "Section"
+  },
+  "why": "Roof plan and three sections of the opera house."
+ },
+ {
+  "id": "st-pancras-railway-station",
+  "add": [
+   "File:DISTRICT(1888) p137 - St Pancras Station (plan).jpg"
+  ],
+  "kinds": {
+   "File:DISTRICT(1888) p137 - St Pancras Station (plan).jpg": "Plan"
+  },
+  "why": "Plan of the station."
+ },
+ {
+  "id": "golestan-palace",
+  "add": [
+   "File:Plan du palais du Golestan Téhéran.jpg"
+  ],
+  "kinds": {
+   "File:Plan du palais du Golestan Téhéran.jpg": "Plan"
+  },
+  "why": "Plan of the palace garden complex (map-style plan)."
+ },
+ {
+  "id": "hungarian-parliament-building",
+  "add": [
+   "File:1911 Britannica-Architecture-Parliament of Hungary Plan.png"
+  ],
+  "kinds": {
+   "File:1911 Britannica-Architecture-Parliament of Hungary Plan.png": "Plan"
+  },
+  "why": "Ground plan of the parliament."
+ },
+ {
+  "id": "watergate-complex",
+  "add": [
+   "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 23 of 36).tif"
+  ],
+  "kinds": {
+   "File:Rock Creek and Potomac Parkway, Washington, District of Columbia, DC HABS DC,WASH,686 (sheet 23 of 36).tif": "Plan"
+  },
+  "why": "HABS site plan sheet (three near-identical scans; the first kept)."
+ },
+ {
+  "id": "chateau-frontenac",
+  "add": [
+   "File:Chateau Frontenac ground floor plan.png",
+   "File:Chateau Frontenac first floor plan.png"
+  ],
+  "kinds": {
+   "File:Chateau Frontenac ground floor plan.png": "Plan",
+   "File:Chateau Frontenac first floor plan.png": "Plan"
+  },
+  "why": "Ground-floor and first-floor plans."
+ },
+ {
+  "id": "royal-pavilion-brighton",
+  "add": [
+   "File:Drawing, Wall Elevation, probably for the Banqueting Room, Royal Pavilion, Brighton, 1815–22 (CH 18609969).jpg",
+   "File:Drawing, Wall Elevation Design, probably for the King's Apartments, Royal Pavilion, Brighton, 1802 (CH 18610005).jpg",
+   "File:Drawing, Design for the North Wall of the Music Room, Royal Pavilion, Brighton, 1818–19 (CH 18609647-2).jpg",
+   "File:Drawing, Entrance Hall, West Wall, Royal Pavilion, Brighton, 1802 or earlier (CH 18609981).jpg"
+  ],
+  "kinds": {
+   "File:Drawing, Wall Elevation, probably for the Banqueting Room, Royal Pavilion, Brighton, 1815–22 (CH 18609969).jpg": "Elevation",
+   "File:Drawing, Wall Elevation Design, probably for the King's Apartments, Royal Pavilion, Brighton, 1802 (CH 18610005).jpg": "Elevation",
+   "File:Drawing, Design for the North Wall of the Music Room, Royal Pavilion, Brighton, 1818–19 (CH 18609647-2).jpg": "Elevation",
+   "File:Drawing, Entrance Hall, West Wall, Royal Pavilion, Brighton, 1802 or earlier (CH 18609981).jpg": "Elevation"
+  },
+  "why": "Interior wall elevations (design drawings, Yale Center for British Art): banqueting room, king's apartments, music room, entrance hall."
+ },
+ {
+  "id": "british-library",
+  "add": [
+   "File:British Library - Ground floor.png"
+  ],
+  "kinds": {
+   "File:British Library - Ground floor.png": "Plan"
+  },
+  "why": "Ground-floor plan diagram."
+ },
+ {
+  "id": "fernsehturm-berlin",
+  "add": [
+   "File:Hexagonales Raster.jpg"
+  ],
+  "kinds": {
+   "File:Hexagonales Raster.jpg": "Drawing"
+  },
+  "why": "Design diagram of the hexagonal grid the tower and its base were laid out on."
+ }
+]

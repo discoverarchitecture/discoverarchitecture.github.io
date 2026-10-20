@@ -95,3 +95,30 @@ The Design chat, checking galleries for the "Worth the swipe" dots, flagged 43 p
 Adding map coordinates exposed a hidden photo problem. 16 buildings had a `commons` field naming a same-name Commons category for another building, in another country, so their galleries showed that other building. Examples: the Beirut Cinema Opera showed the Reims one, Halifax Central Library (Canada) showed the one in England, and the Merck headquarters showed SAS in Stockholm.
 - Wrong photos came out of 7 galleries, and 5 buildings were held back.
 - These were caught only because the coordinates landed in the wrong country. Same-country mix-ups would not show up this way.
+
+## Better photos pilot (19 Oct 2026): Commons-rated photos, first 300 buildings
+
+A Sonnet helper (`tools/quality_photos.py`, `tools/quality/BRIEF.md`) found Featured, Quality and Valued photos on
+Commons that were missing from galleries. 56 of the 300 buildings had some. Opus checked every proposal by eye:
+5 new main photos (NMAAHC, Danish Maritime Museum, Portugal Pavilion, Parliament House, Robson Square) and
+63 gallery photos for 40 buildings. 5 proposals were turned down: a bell frame, a sculpture in front of the
+Guggenheim, a far skyline, a near-duplicate and a lamp close-up.
+
+## Round 9 (19–20 Oct 2026): China and Taiwan, central USA, Germany/Austria/Switzerland, the Nordic countries, award winners, Australia and New Zealand
+
+329 buildings proposed by six Sonnet helpers; 260 reached the wall. The target was 500: the helpers found fewer
+buildings with a free daylight photo of the building than hoped, and quality came first.
+
+| Number | Round 9 | Level |
+|---|---|---|
+| Leads held back in photo review | 4 of 264 (2%): Brisbane Powerhouse, Centenary Pool, Perth Stadium, Kölnturm | fine |
+| No free photo | 61 of 329 (19%): China 27%, central USA 20%, DACH 32%, the rest 0% | fine (DACH alone is near the 35% warning) |
+| Already on the wall | 3 of 329 (1%): Zollverein, Kuggen, Baker House | fine |
+| Facts failing the source check | 1 of 26 checked (4%): VitraHaus typed "Culture & sport", now Pavilion. Edmund Barton Building moved from Civic to Office & tower. Architect, year and place matched on all 26. | warning: small sample, just over 3%. The next round checks every building |
+| Ordinary types | 31 of 260 (12%) | fine |
+
+Photo review: 16 buildings got a better main photo from their own gallery. A second Sonnet check of all 260
+galleries, verified by eye on the contact sheets, took out 223 more photos: people and events, museum objects,
+signs, night shots, maps, near-duplicates, and photos of other buildings (the Munich Olympic Stadium in the HfG Ulm
+gallery, the cathedral next door in Perth's Council House, paintings in the Röhsska Museum, a French château in
+Château Neuf).
