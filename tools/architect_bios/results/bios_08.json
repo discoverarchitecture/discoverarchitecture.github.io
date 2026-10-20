@@ -25,25 +25,29 @@
     "site": "Wikipedia",
     "title": "Christoph Ingenhoven",
     "url": "https://en.wikipedia.org/wiki/Christoph_Ingenhoven",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "ingenhoven associates",
     "title": "Official site",
     "url": "https://www.ingenhovenarchitects.com/",
-    "why": "the office's own projects"
+    "why": "the office's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Christoph Ingenhoven",
     "url": "https://de.wikipedia.org/wiki/Christoph_Ingenhoven",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "1 Bligh Street",
     "url": "https://en.wikipedia.org/wiki/1_Bligh_Street",
-    "why": "his best-known tower in Australia"
+    "why": "his best-known tower in Australia",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -79,31 +83,36 @@
     "site": "Wikipedia",
     "title": "Diller Scofidio + Renfro",
     "url": "https://en.wikipedia.org/wiki/Diller_Scofidio_+_Renfro",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Diller Scofidio + Renfro",
     "title": "Official site",
     "url": "https://dsrny.com/",
-    "why": "the studio's own projects"
+    "why": "the studio's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Elizabeth Diller",
     "url": "https://en.wikipedia.org/wiki/Elizabeth_Diller",
-    "why": "the co-founder's life and work"
+    "why": "the co-founder's life and work",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Ricardo Scofidio",
     "url": "https://en.wikipedia.org/wiki/Ricardo_Scofidio",
-    "why": "the other co-founder"
+    "why": "the other co-founder",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Diller Scofidio + Renfro office page",
     "url": "https://www.archdaily.com/office/diller-scofidio-plus-renfro",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -138,25 +147,29 @@
     "site": "Wikipedia",
     "title": "DP Architects",
     "url": "https://en.wikipedia.org/wiki/DP_Architects",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "DP Architects",
     "title": "Official site",
     "url": "https://www.dpa.com.sg/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Esplanade – Theatres on the Bay",
     "url": "https://en.wikipedia.org/wiki/Esplanade_–_Theatres_on_the_Bay",
-    "why": "its best-known building"
+    "why": "its best-known building",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "DP Architects office page",
     "url": "https://www.archdaily.com/office/dp-architects",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -195,31 +208,36 @@
     "site": "Wikipedia",
     "title": "Edwin Lutyens",
     "url": "https://en.wikipedia.org/wiki/Edwin_Lutyens",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "The Lutyens Trust",
     "title": "The Lutyens Trust",
     "url": "https://www.lutyenstrust.org.uk/",
-    "why": "the society that studies and protects his work"
+    "why": "the society that studies and protects his work",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (French)",
     "title": "Edwin Lutyens",
     "url": "https://fr.wikipedia.org/wiki/Edwin_Lutyens",
-    "why": "a second account of his life and works"
+    "why": "a second account of his life and works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Edwin Lutyens",
     "url": "https://architectuul.com/architect/edwin-lutyens",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Rashtrapati Bhavan",
     "url": "https://en.wikipedia.org/wiki/Rashtrapati_Bhavan",
-    "why": "his largest building"
+    "why": "his largest building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -239,7 +257,8 @@
    {
     "claim": "Matthäuskirche Pforzheim: architect Egon Eiermann",
     "source": "https://www.wikidata.org/wiki/Q1543101",
-    "architect_qid": "Q65803"
+    "architect_qid": "Q65803",
+    "checked": "2026-10-20"
    },
    {
     "claim": "Kaiser Wilhelm Memorial Church: present building 1959–1963; 1956 competition won by Eiermann, who proposed tearing down the spire remnant; public outcry; revised design preserved the tower; octagonal church, hexagonal tower; walls a concrete honeycomb with 21,292 stained glass inlays by Gabriel Loire inspired by Chartres, predominantly blue",
@@ -255,25 +274,29 @@
     "site": "Wikipedia",
     "title": "Egon Eiermann",
     "url": "https://en.wikipedia.org/wiki/Egon_Eiermann",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Egon Eiermann",
     "url": "https://de.wikipedia.org/wiki/Egon_Eiermann",
-    "why": "a fuller list of his buildings and furniture"
+    "why": "a fuller list of his buildings and furniture",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Egon Eiermann",
     "url": "https://architectuul.com/architect/egon-eiermann",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Kaiser Wilhelm Memorial Church",
     "url": "https://en.wikipedia.org/wiki/Kaiser_Wilhelm_Memorial_Church",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -310,19 +333,22 @@
     "site": "Wikipedia",
     "title": "Ramos de Azevedo",
     "url": "https://en.wikipedia.org/wiki/Ramos_de_Azevedo",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (Portuguese)",
     "title": "Ramos de Azevedo",
     "url": "https://pt.wikipedia.org/wiki/Ramos_de_Azevedo",
-    "why": "a fuller account of his life and works"
+    "why": "a fuller account of his life and works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Theatro Municipal (São Paulo)",
     "url": "https://en.wikipedia.org/wiki/Theatro_Municipal_(São_Paulo)",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -358,19 +384,22 @@
     "site": "Wikipedia",
     "title": "Friedrich Silaban",
     "url": "https://en.wikipedia.org/wiki/Friedrich_Silaban",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (Indonesian)",
     "title": "Friedrich Silaban",
     "url": "https://id.wikipedia.org/wiki/Friedrich_Silaban",
-    "why": "a fuller account of his life and works"
+    "why": "a fuller account of his life and works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Istiqlal Mosque, Jakarta",
     "url": "https://en.wikipedia.org/wiki/Istiqlal_Mosque,_Jakarta",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -402,25 +431,29 @@
     "site": "Wikipedia",
     "title": "Future Systems",
     "url": "https://en.wikipedia.org/wiki/Future_Systems",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Jan Kaplický",
     "url": "https://en.wikipedia.org/wiki/Jan_Kaplický",
-    "why": "the co-founder's life and work"
+    "why": "the co-founder's life and work",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Amanda Levete",
     "url": "https://en.wikipedia.org/wiki/Amanda_Levete",
-    "why": "the partner who led its built work"
+    "why": "the partner who led its built work",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Future Systems",
     "url": "https://architectuul.com/architect/future-systems",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -448,31 +481,36 @@
     "site": "Wikipedia",
     "title": "Gigon/Guyer",
     "url": "https://en.wikipedia.org/wiki/Gigon/Guyer",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Gigon/Guyer",
     "title": "Official site",
     "url": "https://www.gigon-guyer.ch/",
-    "why": "the office's own projects"
+    "why": "the office's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Gigon/Guyer",
     "url": "https://de.wikipedia.org/wiki/Gigon/Guyer",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Prime Tower",
     "url": "https://en.wikipedia.org/wiki/Prime_Tower",
-    "why": "their best-known tower"
+    "why": "their best-known tower",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Gigon/Guyer office page",
     "url": "https://www.archdaily.com/office/gigon-guyer",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -507,25 +545,29 @@
     "site": "Wikipedia",
     "title": "Giles Gilbert Scott",
     "url": "https://en.wikipedia.org/wiki/Giles_Gilbert_Scott",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Liverpool Cathedral",
     "url": "https://en.wikipedia.org/wiki/Liverpool_Cathedral",
-    "why": "the work of his whole career"
+    "why": "the work of his whole career",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Giles Gilbert Scott",
     "url": "https://architectuul.com/architect/giles-gilbert-scott",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Red telephone box",
     "url": "https://en.wikipedia.org/wiki/Red_telephone_box",
-    "why": "his most widely seen design"
+    "why": "his most widely seen design",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -558,25 +600,29 @@
     "site": "Wikipedia",
     "title": "Giovanni Michelucci",
     "url": "https://en.wikipedia.org/wiki/Giovanni_Michelucci",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (Italian)",
     "title": "Giovanni Michelucci",
     "url": "https://it.wikipedia.org/wiki/Giovanni_Michelucci",
-    "why": "a fuller account of his life and works"
+    "why": "a fuller account of his life and works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Fondazione Giovanni Michelucci",
     "title": "Official site",
     "url": "https://www.michelucci.it/",
-    "why": "the foundation he set up, with his archive"
+    "why": "the foundation he set up, with his archive",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Firenze Santa Maria Novella railway station",
     "url": "https://en.wikipedia.org/wiki/Firenze_Santa_Maria_Novella_railway_station",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -597,7 +643,8 @@
    {
     "claim": "Steinhaus, Steindorf am Ossiacher See: architect Günther Domenig",
     "source": "https://www.wikidata.org/wiki/Q38174849",
-    "architect_qid": "Q112992"
+    "architect_qid": "Q112992",
+    "checked": "2026-10-20"
    },
    {
     "claim": "Documentation Center Nazi Party Rally Grounds: Domenig won the 1998 international competition with a diagonal glass and steel passageway spearing through the northern head of the building; in the north wing of the unfinished Congress Hall; pun on and refutation of Albert Speer (the name translates to \"spear\"); Domenig, the son of a Nazi judge, confronted his own history; unveiled 4 November 2001",
@@ -609,25 +656,29 @@
     "site": "Wikipedia",
     "title": "Günther Domenig",
     "url": "https://en.wikipedia.org/wiki/Günther_Domenig",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Günther Domenig",
     "url": "https://de.wikipedia.org/wiki/Günther_Domenig",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Günther Domenig",
     "url": "https://architectuul.com/architect/gunther-domenig",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Documentation Center Nazi Party Rally Grounds",
     "url": "https://en.wikipedia.org/wiki/Documentation_Center_Nazi_Party_Rally_Grounds",
-    "why": "his best-known building outside Austria"
+    "why": "his best-known building outside Austria",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -663,25 +714,29 @@
     "site": "Wikipedia",
     "title": "Hans Poelzig",
     "url": "https://en.wikipedia.org/wiki/Hans_Poelzig",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Hans Poelzig",
     "url": "https://de.wikipedia.org/wiki/Hans_Poelzig",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Hans Poelzig",
     "url": "https://architectuul.com/architect/hans-poelzig",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "IG Farben Building",
     "url": "https://en.wikipedia.org/wiki/IG_Farben_Building",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -709,25 +764,29 @@
     "site": "Wikipedia",
     "title": "Thomas Heatherwick",
     "url": "https://en.wikipedia.org/wiki/Thomas_Heatherwick",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Heatherwick Studio",
     "title": "Official site",
     "url": "https://heatherwick.com/",
-    "why": "the studio's own projects"
+    "why": "the studio's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Heatherwick Studio office page",
     "url": "https://www.archdaily.com/office/heatherwick-studio",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Zeitz Museum of Contemporary Art Africa",
     "url": "https://en.wikipedia.org/wiki/Zeitz_Museum_of_Contemporary_Art_Africa",
-    "why": "the studio's silo museum"
+    "why": "the studio's silo museum",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -763,31 +822,36 @@
     "site": "Wikipedia",
     "title": "Hector Guimard",
     "url": "https://en.wikipedia.org/wiki/Hector_Guimard",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (French)",
     "title": "Hector Guimard",
     "url": "https://fr.wikipedia.org/wiki/Hector_Guimard",
-    "why": "a fuller list of his buildings"
+    "why": "a fuller list of his buildings",
+    "checked": "2026-10-20"
    },
    {
     "site": "Le Cercle Guimard",
     "title": "Le Cercle Guimard",
     "url": "https://www.lecercleguimard.fr/",
-    "why": "the society devoted to his work"
+    "why": "the society devoted to his work",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Hector Guimard",
     "url": "https://architectuul.com/architect/hector-guimard",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Castel Béranger",
     "url": "https://en.wikipedia.org/wiki/Castel_Béranger",
-    "why": "his first major building"
+    "why": "his first major building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -823,25 +887,29 @@
     "site": "Wikipedia",
     "title": "Helmut Jahn",
     "url": "https://en.wikipedia.org/wiki/Helmut_Jahn",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "JAHN",
     "title": "Official site",
     "url": "http://www.jahn-us.com/",
-    "why": "the office's own projects"
+    "why": "the office's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Helmut Jahn",
     "url": "https://de.wikipedia.org/wiki/Helmut_Jahn",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Helmut Jahn",
     "url": "https://architectuul.com/architect/helmut-jahn",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -869,7 +937,8 @@
    {
     "claim": "Jachthuis Sint Hubertus: architect H. P. Berlage",
     "source": "https://www.wikidata.org/wiki/Q1678308",
-    "architect_qid": "Q318816"
+    "architect_qid": "Q318816",
+    "checked": "2026-10-20"
    },
    {
     "claim": "Kunstmuseum Den Haag: current building designed by H. P. Berlage, built 1931–1935; Berlage died just before completion, his son-in-law Emil Emanuel Strasser oversaw the final touches; yellow bricks; largest Mondrian collection in the world",
@@ -881,25 +950,29 @@
     "site": "Wikipedia",
     "title": "H. P. Berlage",
     "url": "https://en.wikipedia.org/wiki/H._P._Berlage",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (Dutch)",
     "title": "Hendrik Petrus Berlage",
     "url": "https://nl.wikipedia.org/wiki/Hendrik_Petrus_Berlage",
-    "why": "a fuller account of his life and works"
+    "why": "a fuller account of his life and works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Hendrik Petrus Berlage",
     "url": "https://architectuul.com/architect/hendrik-petrus-berlage",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Beurs van Berlage",
     "url": "https://en.wikipedia.org/wiki/Beurs_van_Berlage",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -934,25 +1007,29 @@
     "site": "Wikipedia",
     "title": "Herbert Baker",
     "url": "https://en.wikipedia.org/wiki/Herbert_Baker",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Union Buildings",
     "url": "https://en.wikipedia.org/wiki/Union_Buildings",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Herbert Baker",
     "url": "https://architectuul.com/architect/herbert-baker",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Herbert Baker",
     "url": "https://de.wikipedia.org/wiki/Herbert_Baker",
-    "why": "a second account of his life and works"
+    "why": "a second account of his life and works",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -988,25 +1065,29 @@
     "site": "Wikipedia",
     "title": "Hermann Henselmann",
     "url": "https://en.wikipedia.org/wiki/Hermann_Henselmann",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Hermann Henselmann",
     "url": "https://de.wikipedia.org/wiki/Hermann_Henselmann",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Hermann Henselmann",
     "url": "https://architectuul.com/architect/hermann-henselmann",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Karl-Marx-Allee",
     "url": "https://en.wikipedia.org/wiki/Karl-Marx-Allee",
-    "why": "the boulevard he helped shape"
+    "why": "the boulevard he helped shape",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1041,31 +1122,36 @@
     "site": "Wikipedia",
     "title": "HOK",
     "url": "https://en.wikipedia.org/wiki/HOK_(firm)",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "HOK",
     "title": "Official site",
     "url": "https://www.hok.com/",
-    "why": "the firm's own projects"
+    "why": "the firm's own projects",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "HOK office page",
     "url": "https://www.archdaily.com/office/hok",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Gyo Obata",
     "url": "https://en.wikipedia.org/wiki/Gyo_Obata",
-    "why": "the co-founder and its design lead for decades"
+    "why": "the co-founder and its design lead for decades",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Flame Towers",
     "url": "https://en.wikipedia.org/wiki/Flame_Towers",
-    "why": "one of its best-known buildings"
+    "why": "one of its best-known buildings",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1101,25 +1187,29 @@
     "site": "Wikipedia",
     "title": "Houshang Seyhoun",
     "url": "https://en.wikipedia.org/wiki/Hooshang_Seyhoun",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Mausoleum of Omar Khayyám",
     "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Omar_Khayyám",
-    "why": "his best-known monument"
+    "why": "his best-known monument",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Tomb of Nader Shah",
     "url": "https://en.wikipedia.org/wiki/Tomb_of_Nader_Shah",
-    "why": "another of his monuments"
+    "why": "another of his monuments",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (French)",
     "title": "Houchang Seyhoun",
     "url": "https://fr.wikipedia.org/wiki/Houchang_Seyhoun",
-    "why": "a second account of his life"
+    "why": "a second account of his life",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1154,31 +1244,36 @@
     "site": "Wikipedia",
     "title": "Jean Prouvé",
     "url": "https://en.wikipedia.org/wiki/Jean_Prouvé",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (French)",
     "title": "Jean Prouvé",
     "url": "https://fr.wikipedia.org/wiki/Jean_Prouvé",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Vitra",
     "title": "Jean Prouvé",
     "url": "https://www.vitra.com/en-us/about-vitra/designer/details/jean-prouve",
-    "why": "his furniture, still in production"
+    "why": "his furniture, still in production",
+    "check_failed": "status 403, name not found on page"
    },
    {
     "site": "Architectuul",
     "title": "Jean Prouvé",
     "url": "https://architectuul.com/architect/jean-prouve",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Maison du Peuple (Clichy)",
     "url": "https://en.wikipedia.org/wiki/Maison_du_Peuple_(Clichy)",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1213,25 +1308,29 @@
     "site": "Wikipedia",
     "title": "John Andrews",
     "url": "https://en.wikipedia.org/wiki/John_Andrews_(architect)",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Andrews Building",
     "url": "https://en.wikipedia.org/wiki/Andrews_Building",
-    "why": "the building named after him"
+    "why": "the building named after him",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Cameron Offices",
     "url": "https://en.wikipedia.org/wiki/Cameron_Offices",
-    "why": "his offices in Canberra"
+    "why": "his offices in Canberra",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "John Andrews",
     "url": "https://architectuul.com/architect/john-andrews",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1266,31 +1365,36 @@
     "site": "Wikipedia",
     "title": "John Lautner",
     "url": "https://en.wikipedia.org/wiki/John_Lautner",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "The John Lautner Foundation",
     "title": "Official site",
     "url": "https://www.johnlautner.org/",
-    "why": "the foundation that keeps his archive"
+    "why": "the foundation that keeps his archive",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Chemosphere",
     "url": "https://en.wikipedia.org/wiki/Chemosphere",
-    "why": "his best-known house"
+    "why": "his best-known house",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Sheats–Goldstein Residence",
     "url": "https://en.wikipedia.org/wiki/Sheats–Goldstein_Residence",
-    "why": "another of his houses"
+    "why": "another of his houses",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "John Lautner",
     "url": "https://architectuul.com/architect/john-lautner",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1326,25 +1430,29 @@
     "site": "Wikipedia",
     "title": "Josef Paul Kleihues",
     "url": "https://en.wikipedia.org/wiki/Josef_Paul_Kleihues",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Kleihues + Kleihues",
     "title": "Official site",
     "url": "https://kleihues.com/?lang=en",
-    "why": "the office he founded, with his buildings"
+    "why": "the office he founded, with his buildings",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Josef Paul Kleihues",
     "url": "https://de.wikipedia.org/wiki/Josef_Paul_Kleihues",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Josef Paul Kleihues",
     "url": "https://architectuul.com/architect/josef-paul-kleihues",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
@@ -1392,25 +1500,29 @@
     "site": "Wikipedia",
     "title": "Joseph Allen Stein",
     "url": "https://en.wikipedia.org/wiki/Joseph_Allen_Stein",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "India International Centre",
     "url": "https://en.wikipedia.org/wiki/India_International_Centre",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "India Habitat Centre",
     "url": "https://en.wikipedia.org/wiki/India_Habitat_Centre",
-    "why": "his largest Delhi building"
+    "why": "his largest Delhi building",
+    "checked": "2026-10-20"
    },
    {
     "site": "Architectuul",
     "title": "Joseph Allen Stein",
     "url": "https://architectuul.com/architect/joseph-allen-stein",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1442,31 +1554,36 @@
     "site": "Wikipedia",
     "title": "Kazuyo Sejima",
     "url": "https://en.wikipedia.org/wiki/Kazuyo_Sejima",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Pritzker Prize",
     "title": "2010 laureates",
     "url": "https://www.pritzkerprize.com/laureates/2010",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "SANAA",
     "url": "https://en.wikipedia.org/wiki/SANAA",
-    "why": "the firm she leads with Ryue Nishizawa"
+    "why": "the firm she leads with Ryue Nishizawa",
+    "checked": "2026-10-20"
    },
    {
     "site": "ArchDaily",
     "title": "Kazuyo Sejima tag page",
     "url": "https://www.archdaily.com/tag/kazuyo-sejima",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-20"
    },
    {
     "site": "Wikipedia",
     "title": "Sumida Hokusai Museum",
     "url": "https://en.wikipedia.org/wiki/Sumida_Hokusai_Museum",
-    "why": "one of her own office's museums"
+    "why": "one of her own office's museums",
+    "checked": "2026-10-20"
    }
   ],
   "skip": false
