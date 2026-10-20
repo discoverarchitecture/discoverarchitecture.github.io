@@ -1,2 +1,2 @@
-python -u tools/drawings_scan.py --first 200
-Drawings scan for the first 200 of tools/top1000.txt (see tools/drawings/BRIEF.md).
+python -u tools/aic_scan.py --first 1000
+Art Institute of Chicago scan for the most-studied and US buildings.
