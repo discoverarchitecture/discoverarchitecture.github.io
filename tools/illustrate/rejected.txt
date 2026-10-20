@@ -214,3 +214,4 @@ brisbane-powerhouse  # Round 9 review: no daylight exterior of the building (a m
 centenary-pool-complex-brisbane  # Round 9 review: only photo is at dusk with a car as the subject
 perth-stadium-optus  # Round 9 review: ordinary stadium with no clear daylight exterior (signage, crowds, dusk)
 koelnturm  # Round 9 review: no free photo could be fetched
+kraus-house  # Haiku pool 2 photo review: every photo shows the house behind trees and a wall

@@ -1,462 +1,1416 @@
 [
  {
-  "id": "empire-state-building",
-  "qid": "Q9188",
+  "id": "united-nations-university",
+  "qid": "Q492442",
+  "status": "skip",
+  "why": "lead is about the institution, not the building"
+ },
+ {
+  "id": "cleveland-museum-of-art",
+  "qid": "Q657415",
+  "status": "skip",
+  "why": "lead is about the collection; photos are interiors"
+ },
+ {
+  "id": "museum-of-fine-arts-houston",
+  "qid": "Q1565911",
+  "status": "skip",
+  "why": "lead lists the buildings but gives no reason for the Mies building"
+ },
+ {
+  "id": "williams-tower",
+  "qid": "Q1357650",
   "status": "photo",
-  "why": "Lead names the Art Deco style and its record as the world's tallest building; main photo shows the whole tower in daylight.",
-  "name": "Empire State Building",
-  "by": "Shreve, Lamb & Harmon",
-  "city": "Manhattan",
+  "why": "Named movement (postmodern) and a known architect; photos clear.",
+  "name": "Williams Tower",
+  "by": "Philip Johnson",
+  "city": "Houston",
   "cc": "US",
-  "year": 1931,
+  "year": 1982,
   "type": "Office & tower",
-  "movement": "Art Deco",
+  "movement": "Postmodernism",
   "concepts": [
    "Monumentality",
-   "Sculptural form",
-   "Geometry"
+   "Steel & glass",
+   "Sculptural form"
   ],
-  "features": "Art Deco skyscraper built 1930–31, the world's tallest building until 1970.",
-  "commons_category": "Category:Empire State Building",
+  "features": "A 64-story postmodern tower in Houston, designed by John Burgee Architects with Philip Johnson.",
+  "commons_category": "Category:Williams Tower",
   "coords": [
-   40.74833,
-   -73.98556
+   29.73722,
+   -95.46139
   ],
   "photos": [
    {
-    "file": "File:Empire State Building (aerial view).jpg",
-    "license": "Public domain",
+    "file": "File:Williamstower.jpg",
+    "license": "CC BY-SA 3.0",
     "seen": true
    },
    {
-    "file": "File:Art Deco landmark is New York's historic Empire State Building.jpg",
-    "license": "CC BY-SA 4.0",
+    "file": "File:Williams Tower1.jpg",
+    "license": "CC BY 2.0",
     "seen": true
    },
    {
-    "file": "File:Architectural crown and antenna tower of the Empire State Building.jpg",
-    "license": "CC BY-SA 4.0",
+    "file": "File:HoustonWilliamsTower.jpg",
+    "license": "CC BY-SA 3.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "golden-gate-bridge",
-  "qid": "Q44440",
+  "id": "serpentine-galleries",
+  "qid": "Q591086",
   "status": "skip",
-  "why": "Engineering-only bridge."
+  "why": "lead gives no design reason; only photo shows Battersea Power Station"
  },
  {
-  "id": "the-pentagon",
-  "qid": "Q11208",
+  "id": "national-museum-of-modern-art-tokyo",
+  "qid": "Q1359908",
   "status": "skip",
-  "why": "Government headquarters; the lead gives no architectural reason."
+  "why": "lead is about the collection; no design reason"
  },
  {
-  "id": "brooklyn-bridge",
-  "qid": "Q125006",
-  "status": "skip",
-  "why": "Engineering-only bridge."
+  "id": "university-of-brasilia",
+  "qid": "Q1330634",
+  "status": "unsure",
+  "why": "Lead says Niemeyer designed the main building, but the main photo is another campus building.",
+  "note": "no main photo"
  },
  {
-  "id": "san-siro",
-  "qid": "Q133566",
+  "id": "sagrera-railway-station",
+  "qid": "Q618596",
   "status": "skip",
-  "why": "Ordinary stadium; the lead gives no architectural reason."
+  "why": "still under construction; lead gives no design reason; photos show tracks"
  },
  {
-  "id": "resund-bridge",
-  "qid": "Q297871",
-  "status": "skip",
-  "why": "Engineering-only bridge."
+  "id": "la-marseillaise-skyscraper",
+  "qid": "Q58208336",
+  "status": "unsure",
+  "why": "Lead gives a prize and the design; photos are far views or close-ups of the tower under construction.",
+  "note": "no main photo"
  },
  {
-  "id": "etihad-stadium",
-  "qid": "Q48159",
+  "id": "bank-of-shanghai-headquarters",
+  "qid": "Q782435",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "office tower; lead gives height only"
  },
  {
-  "id": "national-diet-library",
-  "qid": "Q477675",
+  "id": "saint-denis-pleyel-station",
+  "qid": "Q3462074",
   "status": "skip",
-  "why": "Library; the lead gives no architectural reason."
+  "why": "metro station; lead gives no design reason"
  },
  {
-  "id": "brussels-airport",
-  "qid": "Q28934",
+  "id": "fira-barcelona-metro",
+  "qid": "Q5492214",
   "status": "skip",
-  "why": "Airport."
+  "why": "metro station; lead gives no design reason"
  },
  {
-  "id": "fisht-olympic-stadium",
-  "qid": "Q1149601",
+  "id": "hunan-museum",
+  "qid": "Q5942029",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "lead gives no design reason"
  },
  {
-  "id": "cathedral-of-christ-the-saviour",
-  "qid": "Q194474",
+  "id": "one-atlantic-center",
+  "qid": "Q2023960",
   "status": "skip",
-  "why": "Church; the lead gives size and rebuilding, not an architectural reason."
+  "why": "office tower; lead gives height only"
  },
  {
-  "id": "the-clock-towers",
-  "qid": "Q189476",
+  "id": "brin-genoa-metro",
+  "qid": "Q3644795",
   "status": "skip",
-  "why": "Hotel complex."
+  "why": "metro station; lead names Piano without a reason"
  },
  {
-  "id": "arena-aufschalke",
-  "qid": "Q150961",
+  "id": "fukui-prefectural-dinosaur-museum",
+  "qid": "Q3247157",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "lead is about dinosaurs; no design reason"
  },
  {
-  "id": "museum-of-philistine-culture",
-  "qid": "Q23894294",
+  "id": "takaosanguchi-station",
+  "qid": "Q4450115",
   "status": "skip",
-  "why": "Local museum; the lead gives no architectural reason."
+  "why": "station; lead gives no design reason"
  },
  {
-  "id": "hampden-park",
-  "qid": "Q193651",
+  "id": "dinegro-genoa-metro",
+  "qid": "Q3707866",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "metro station; lead gives no design reason"
  },
  {
-  "id": "sheikh-zayed-grand-mosque",
-  "qid": "Q695604",
+  "id": "darsena-genoa-metro",
+  "qid": "Q3702849",
   "status": "skip",
-  "why": "Mosque; the lead gives size, not an architectural reason."
+  "why": "metro station; lead gives no design reason"
  },
  {
-  "id": "berlin-brandenburg-airport",
-  "qid": "Q160556",
+  "id": "de-ferrari-genoa-metro",
+  "qid": "Q3703954",
   "status": "skip",
-  "why": "Airport."
+  "why": "metro station; lead gives no design reason"
  },
  {
-  "id": "johan-cruyff-arena",
-  "qid": "Q207109",
+  "id": "principe-genoa-metro",
+  "qid": "Q3921992",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "metro station; lead gives no design reason"
  },
  {
-  "id": "mhparena",
-  "qid": "Q152349",
+  "id": "ryuo-station",
+  "qid": "Q7385664",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "station; lead gives no design reason"
  },
  {
-  "id": "olympic-stadium-kyiv",
-  "qid": "Q183529",
+  "id": "torre-realia-bcn",
+  "qid": "Q1189521",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "tower; lead gives height and floors only"
  },
  {
-  "id": "university-of-tehran",
-  "qid": "Q737835",
+  "id": "japanese-sword-museum",
+  "qid": "Q3329874",
   "status": "skip",
-  "why": "University campus; the lead gives no architectural reason."
+  "why": "lead is about swords; no design reason"
  },
  {
-  "id": "lincoln-memorial",
-  "qid": "Q213559",
+  "id": "city-tower-prague",
+  "qid": "Q3489939",
   "status": "skip",
-  "why": "Memorial; monuments are skipped."
+  "why": "tower; lead gives height only"
  },
  {
-  "id": "dolby-theatre",
-  "qid": "Q180615",
-  "status": "skip",
-  "why": "Theatre inside a shopping complex."
- },
- {
-  "id": "ernst-happel-stadion",
-  "qid": "Q185741",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "millennium-stadium",
-  "qid": "Q204496",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "metlife-stadium",
-  "qid": "Q10862290",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "stadio-diego-armando-maradona",
-  "qid": "Q82709",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "saint-alexander-nevsky-cathedral-sofia",
-  "qid": "Q43282",
-  "status": "skip",
-  "why": "Church; the lead gives size, not an architectural reason."
- },
- {
-  "id": "vasco-da-gama-bridge",
-  "qid": "Q233737",
-  "status": "skip",
-  "why": "Engineering-only bridge."
- },
- {
-  "id": "olympic-stadium-athens",
-  "qid": "Q189663",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "india-gate",
-  "qid": "Q245347",
-  "status": "skip",
-  "why": "Monument."
- },
- {
-  "id": "minsk-national-airport",
-  "qid": "Q777855",
-  "status": "skip",
-  "why": "Airport."
- },
- {
-  "id": "flatiron-building",
-  "qid": "Q220728",
-  "status": "skip",
-  "why": "Office tower; the lead gives its shape, not an architectural reason."
- },
- {
-  "id": "george-washington-bridge",
-  "qid": "Q125821",
-  "status": "skip",
-  "why": "Engineering-only bridge."
- },
- {
-  "id": "minix",
-  "qid": "Q187906",
-  "status": "skip",
-  "why": "Not a building."
- },
- {
-  "id": "stade-geoffroy-guichard",
-  "qid": "Q861000",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "mestalla-stadium",
-  "qid": "Q202762",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "est-dio-da-luz",
-  "qid": "Q7875112",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "stadium-australia",
-  "qid": "Q295886",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "gillette-stadium",
-  "qid": "Q373355",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "vicente-calder-n-stadium",
-  "qid": "Q207626",
-  "status": "skip",
-  "why": "Demolished stadium."
- },
- {
-  "id": "mbombela-stadium",
-  "qid": "Q187087",
-  "status": "skip",
-  "why": "Ordinary stadium."
- },
- {
-  "id": "millennium-bridge-london",
-  "qid": "Q44057",
-  "status": "skip",
-  "why": "Footbridge; the lead is about its engineering and repairs."
- },
- {
-  "id": "brooklyn-museum",
-  "qid": "Q632682",
+  "id": "akita-museum-of-art",
+  "qid": "Q11483668",
   "status": "photo",
-  "why": "Lead names the Beaux-Arts building by McKim, Mead & White; main photo shows the whole building.",
-  "name": "Brooklyn Museum",
-  "by": "McKim, Mead & White",
-  "city": "Brooklyn",
-  "cc": "US",
-  "year": 1897,
+  "why": "Lead describes the design and the architect's award.",
+  "name": "Akita Museum of Art",
+  "by": "Tadao Ando",
+  "city": "Akita",
+  "cc": "JP",
+  "year": 2013,
   "type": "Museum",
-  "movement": "Historic precedent",
+  "movement": "Contemporary",
   "concepts": [
-   "Monumentality",
-   "Public space",
-   "Community"
+   "Light from above",
+   "Sculptural form",
+   "Free plan"
   ],
-  "features": "Beaux-Arts museum building by McKim, Mead & White, dating to 1897 and expanded several times since.",
-  "commons_category": "Category:Brooklyn Museum",
+  "features": "A triangular museum by award-winning Tadao Ando, with a triangular skylight and a free-standing staircase.",
+  "commons_category": "Category:Akita Museum of Art",
   "coords": [
-   40.67131,
-   -73.96375
+   39.71743,
+   140.1215
   ],
   "photos": [
    {
-    "file": "File:Brooklyn Museum June 2008 sunset jeh.JPG",
-    "license": "Public domain",
+    "file": "File:Akita Museum of Art 20180520.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akita Museum of Art 20220409.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akita Museum of Art 20120818.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akita Museum of Art 20130826.jpg",
+    "license": "CC BY-SA 3.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "national-art-museum-of-azerbaijan",
-  "qid": "Q2559128",
+  "id": "nagasaki-museum-of-history-and-culture",
+  "qid": "Q73613",
   "status": "skip",
-  "why": "Museum; the lead gives no architectural reason."
+  "why": "lead is about the collection; no design reason"
  },
  {
-  "id": "pushkin-museum",
-  "qid": "Q4872",
+  "id": "japon-louvre-sculpture-museum",
+  "qid": "Q11349249",
   "status": "skip",
-  "why": "Museum; the lead gives no architectural reason."
+  "why": "lead is about the replicas; main photo is a statue"
  },
  {
-  "id": "yavuz-sultan-selim-bridge",
-  "qid": "Q7784788",
+  "id": "lancy-pont-rouge-railway-station",
+  "qid": "Q1583893",
   "status": "skip",
-  "why": "Engineering-only bridge."
+  "why": "station; lead gives no design reason"
  },
  {
-  "id": "tottenham-hotspur-stadium",
-  "qid": "Q55074091",
+  "id": "university-of-information-science",
+  "qid": "Q1535007",
   "status": "skip",
-  "why": "Ordinary stadium; its first is a technical pitch, not architecture."
+  "why": "university; main photo is a logo"
  },
  {
-  "id": "stade-pierre-mauroy",
-  "qid": "Q1410402",
+  "id": "kreeger-museum",
+  "qid": "Q1787100",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "lead does not name the architect or give a design reason"
  },
  {
-  "id": "donbas-arena",
-  "qid": "Q180479",
+  "id": "saka-no-ue-no-kumo-museum",
+  "qid": "Q7402728",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "lead names Ando but says nothing about the design"
  },
  {
-  "id": "crypto-com-arena",
-  "qid": "Q186080",
+  "id": "merriweather-post-pavilion",
+  "qid": "Q3306612",
   "status": "skip",
-  "why": "Ordinary arena."
+  "why": "concert venue; photos show crowds"
  },
  {
-  "id": "merkur-spiel-arena",
-  "qid": "Q155351",
+  "id": "onomichi-city-museum-of-art",
+  "qid": "Q11465485",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "lead mentions Ando's design but says nothing about it"
  },
  {
-  "id": "grand-mosque-of-paris",
-  "qid": "Q392564",
+  "id": "hochhaus-neue-donau",
+  "qid": "Q1621858",
   "status": "skip",
-  "why": "Mosque; the lead gives 'oldest', with no architectural reason."
+  "why": "residential tower; lead gives height only"
  },
  {
-  "id": "national-museum-of-natural-history",
-  "qid": "Q148554",
+  "id": "ito-toren",
+  "qid": "Q2269636",
   "status": "skip",
-  "why": "Museum; the lead gives no architectural reason."
+  "why": "office building; lead gives height only"
  },
  {
-  "id": "kul-sharif-mosque",
-  "qid": "Q121198",
+  "id": "bass-museum",
+  "qid": "Q4867942",
   "status": "skip",
-  "why": "Mosque; the lead gives size, not an architectural reason."
+  "why": "lead does not name the architect or give a design reason"
  },
  {
-  "id": "church-of-saint-sava",
-  "qid": "Q330385",
-  "status": "skip",
-  "why": "Church; the lead gives size, not an architectural reason."
- },
- {
-  "id": "vizcaya-bridge",
-  "qid": "Q331996",
-  "status": "skip",
-  "why": "Engineering-only bridge."
- },
- {
-  "id": "westminster-cathedral",
-  "qid": "Q739364",
+  "id": "military-cathedral-of-st-mary-queen-of-peace-brasilia",
+  "qid": "Q9709756",
   "status": "photo",
-  "why": "Lead names the neo-Byzantine brick design and John Betjeman's praise; photos show the whole building in daylight.",
-  "name": "Westminster Cathedral",
-  "by": "John Francis Bentley",
-  "city": "London",
-  "cc": "GB",
-  "year": 1895,
+  "why": "Lead names Niemeyer and explains the design.",
+  "name": "Military Cathedral of St. Mary Queen of Peace, Brasília",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": 1991,
   "type": "Religious",
-  "movement": "Historic precedent",
+  "movement": "Modernism",
   "concepts": [
-   "Brick",
-   "Colour",
+   "Sculptural form",
+   "Monumentality",
    "Structure as expression"
   ],
-  "features": "Neo-Byzantine brick cathedral built without steel reinforcement; John Betjeman called it a masterpiece in striped brick and stone.",
-  "commons_category": "Category:Westminster Cathedral",
+  "features": "Niemeyer's triangular church in Brasília, whose form refers to a tent.",
+  "commons_category": "Category:Catedral Militar Rainha da Paz",
   "coords": [
-   51.49583,
-   -0.13947
+   -15.78081,
+   -47.92431
   ],
   "photos": [
    {
-    "file": "File:Westminster Cathedral London, 4th May 2024 - 53708806889.jpg",
+    "file": "File:Catedral Militar Rainha da Paz brasilia.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Webysther 20180212100916 - Catedral Militar Rainha da Paz.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "toki-messe",
+  "qid": "Q705614",
+  "status": "skip",
+  "why": "convention centre; lead gives facilities only"
+ },
+ {
+  "id": "stephanuskirche-wolfsburg",
+  "qid": "Q11722211",
+  "status": "photo",
+  "why": "Lead gives a named movement and an architect.",
+  "name": "Stephanuskirche (Wolfsburg)",
+  "by": "Alvar Aalto",
+  "city": "Wolfsburg",
+  "cc": "DE",
+  "year": 1968,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Light & shadow",
+   "Sculptural form"
+  ],
+  "features": "A church and parish center by Alvar Aalto, a prominent example of International modernism in Germany.",
+  "commons_category": "Category:Stephanuskirche (Wolfsburg)",
+  "coords": [
+   52.3943,
+   10.7542
+  ],
+  "photos": [
+   {
+    "file": "File:Wolfsburg Stephanus.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Wolfsburg Stephanus 2016-.2.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Wolfsburg Stephanus 2016-1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Wolfsburg Stephanus 2016-3.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "asian-art-museum-nice",
+  "qid": "Q3330160",
+  "status": "photo",
+  "why": "Lead describes the design; main Wikidata photo is a statue, so tile uses p3.",
+  "name": "Asian Art Museum (Nice)",
+  "by": "François Deslaugiers, Kenzō Tange",
+  "city": "Nice",
+  "cc": "FR",
+  "year": 1998,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Tange's museum sits above an artificial lake in Nice, its marble-clad solid forms seeming to float on water.",
+  "commons_category": "Category:Musée des arts asiatiques de Nice",
+  "coords": [
+   43.66806,
+   7.21611
+  ],
+  "photos": [
+   {
+    "file": "File:Musée Arts Asiatiques de Nice.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:NiceAsianMuseum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Parc Phoenix L'Arenas Nice.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "shimane-museum-of-ancient-izumo",
+  "qid": "Q4802099",
+  "status": "photo",
+  "why": "Lead names Maki and the design reference.",
+  "name": "Shimane Museum of Ancient Izumo",
+  "by": "Fumihiko Maki",
+  "city": "Izumo",
+  "cc": "JP",
+  "year": 2007,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Maki's museum, whose design references tatara steel, locally important in Izumo.",
+  "commons_category": "Category:Shimane Museum of Ancient Izumo",
+  "coords": [
+   35.39875,
+   132.68872
+  ],
+  "photos": [
+   {
+    "file": "File:ShimaneMuseumOfAncientIzumo 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:150322 Shimane Museum of Ancient Izumo Japan20s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Shimane museum of ancient Izumo 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shimane Museum of Ancient Izumo No,6.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jiyu-gakuen-girls-school",
+  "qid": "Q55533542",
+  "status": "photo",
+  "why": "Lead names Wright and the design; historic precedent.",
+  "name": "Jiyu Gakuen Girls' School",
+  "by": "Frank Lloyd Wright, Arata Endo",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1922,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Double height",
+   "Courtyard",
+   "Low cost"
+  ],
+  "features": "Wright's school building in Tokyo, built of economical wood and plaster with a double-height central section.",
+  "commons_category": "Category:Jiyu Gakuen Myonichikan",
+  "coords": [
+   35.72667,
+   139.70722
+  ],
+  "photos": [
+   {
+    "file": "File:Jiyu Gakuen.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jiyu gakuen myonichikan.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Jiyugakuen Myonichikan (4717703136).jpg",
     "license": "CC BY 2.0",
     "seen": true
    },
    {
-    "file": "File:UK - London - Westminster - 94.jpg",
-    "license": "CC BY 4.0",
+    "file": "File:Auditorium, Jiyu Gakuen Myonichikan, Ikebukuro, Tokyo. Photographed 2018-06-16.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yodoko-guest-house",
+  "qid": "Q11511042",
+  "status": "photo",
+  "why": "Lead gives the Wright design and its significance in Japan.",
+  "name": "Yodokō Guest House",
+  "by": "Frank Lloyd Wright, Arata Endo",
+  "city": "Ashiya",
+  "cc": "JP",
+  "year": 1924,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Sculptural form"
+  ],
+  "features": "Wright's only surviving residence in Japan, four levels stepped into a hill overlooking Osaka Bay.",
+  "commons_category": "Category:Yodoko Guest House",
+  "coords": [
+   34.7398,
+   135.3
+  ],
+  "photos": [
+   {
+    "file": "File:Yamamura house07n4272.jpg",
+    "license": "CC BY 2.5",
     "seen": true
    },
    {
-    "file": "File:UK - London - Westminster - 88.jpg",
+    "file": "File:Yamamura house06s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Yamamura house09n4272.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Yamamura house08n4272.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-of-popular-arts-of-paraiba",
+  "qid": "Q10333773",
+  "status": "photo",
+  "why": "Lead names Niemeyer and his last project.",
+  "name": "Museum of Popular Arts of Paraíba",
+  "by": "Oscar Niemeyer",
+  "city": "Campina Grande",
+  "cc": "BR",
+  "year": 2012,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Water",
+   "Community"
+  ],
+  "features": "Niemeyer's last project: a circular museum of popular arts, known as the Three Pandeiros Museum for its shape.",
+  "commons_category": "Category:Museu de Arte Popular da Paraíba",
+  "coords": [
+   -7.22417,
+   -35.87889
+  ],
+  "photos": [
+   {
+    "file": "File:Museu dos Três Pandeiros.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museu Os Três Pandeiros em Campina Grande - Pb , Obra de Oscar Niemeyer (16989560776).jpg",
     "license": "CC BY 2.0",
     "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pettit-memorial-chapel",
+  "qid": "Q2081276",
+  "status": "photo",
+  "why": "Lead gives style and rarity; historic precedent.",
+  "name": "Pettit Memorial Chapel",
+  "by": "Frank Lloyd Wright",
+  "city": "Belvidere",
+  "cc": "US",
+  "year": 1907,
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "Wright's only funerary structure built in his lifetime, a Prairie Style chapel in Belvidere Cemetery.",
+  "commons_category": "Category:Pettit Memorial Chapel",
+  "coords": [
+   42.27,
+   -88.84806
+  ],
+  "photos": [
+   {
+    "file": "File:Belvidere IL Pettit Chapel17.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
    },
    {
-    "file": "File:Looking up at Westminster Cathedral from the piazza on Victoria Street - geograph.org.uk - 7828566.jpg",
+    "file": "File:Pettit Memorial Chapel (7938046226).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belvidere Il Pettit Chapel11.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Belvidere Il Pettit Chapel12.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "itatiaia-building",
+  "qid": "Q10270232",
+  "status": "photo",
+  "why": "Lead gives a first and an architect.",
+  "name": "Itatiaia Building",
+  "by": "Oscar Niemeyer",
+  "city": "Campinas",
+  "cc": "BR",
+  "year": 1957,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Brise-soleil"
+  ],
+  "features": "Campinas's first Modernist building, by Oscar Niemeyer, often compared with Copan in São Paulo.",
+  "commons_category": "Category:Edifício Itatiaia (Campinas)",
+  "coords": [
+   -22.90381,
+   -47.05726
+  ],
+  "photos": [
+   {
+    "file": "File:Edifício Itatiaia - Campinas.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Itatiaia - Campinas - 20250913113021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Itatiaia - Traseira ondulada.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fairmont-singapore",
+  "qid": "Q5430604",
+  "status": "skip",
+  "why": "hotel"
+ },
+ {
+  "id": "samuel-freeman-house",
+  "qid": "Q7411421",
+  "status": "photo",
+  "why": "Lead gives style and the textile-block design; photos 2-3 are Commons drawings.",
+  "name": "Samuel Freeman House",
+  "by": "Frank Lloyd Wright",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1925,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A concrete textile-block house in the Hollywood Hills, mixing Islamic and Maya elements in 12,000 blocks.",
+  "commons_category": "Category:Samuel Freeman House",
+  "coords": [
+   34.10566,
+   -118.3386
+  ],
+  "photos": [
+   {
+    "file": "File:Samuel Freeman House, Hollywood, California.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Samuel Freeman House, 1962 Glencoe Way, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,62- (sheet 2 of 7).png",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Samuel Freeman House, 1962 Glencoe Way, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,62- (sheet 3 of 7).png",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mrs-clinton-walker-house",
+  "qid": "Q106030942",
+  "status": "skip",
+  "why": "lead names Wright and the listing but gives no design reason"
+ },
+ {
+  "id": "city-view-pittsburgh",
+  "qid": "Q524673",
+  "status": "skip",
+  "why": "residential tower; lead names Pei but gives no reason"
+ },
+ {
+  "id": "a-d-german-warehouse",
+  "qid": "Q4647666",
+  "status": "photo",
+  "why": "Lead gives style and Wright's link to the town.",
+  "name": "A. D. German Warehouse",
+  "by": "Frank Lloyd Wright",
+  "city": "Richland Center",
+  "cc": "US",
+  "year": 1921,
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Structure as expression"
+  ],
+  "features": "Wright's Mayan Revival warehouse in Richland Center, the Wisconsin town where he was born.",
+  "commons_category": "Category:A. D. German Warehouse",
+  "coords": [
+   43.33333,
+   -90.38444
+  ],
+  "photos": [
+   {
+    "file": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221470396.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221690579.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221696008.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Albert D. German Warehouse, Church Street and Haseltine Street, Richland Center, WI - 54221866840.jpg",
     "license": "CC BY-SA 2.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "hard-rock-stadium",
-  "qid": "Q864339",
-  "status": "skip",
-  "why": "Ordinary stadium."
+  "id": "one-charles-center",
+  "qid": "Q7092521",
+  "status": "photo",
+  "why": "Lead names Mies, the style and a first.",
+  "name": "One Charles Center",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Baltimore",
+  "cc": "US",
+  "year": 1962,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Mies van der Rohe's aluminium and glass International Style tower, the first modernist office tower in Baltimore.",
+  "commons_category": "Category:One Charles Center",
+  "coords": [
+   39.2908,
+   -76.6156
+  ],
+  "photos": [
+   {
+    "file": "File:One Charles Center Baltimore.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Charles Center Office Tower.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "arrowhead-stadium",
-  "qid": "Q544553",
+  "id": "david-and-gladys-wright-house",
+  "qid": "Q5230416",
+  "status": "photo",
+  "why": "Lead describes the design.",
+  "name": "David and Gladys Wright House",
+  "by": "Frank Lloyd Wright",
+  "city": "Phoenix",
+  "cc": "US",
+  "year": 1952,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "A curved Wright house on seven piers, wrapped around a courtyard and reached by a spiral ramp.",
+  "commons_category": "Category:David & Gladys Wright House",
+  "coords": [
+   33.50139,
+   -111.96917
+  ],
+  "photos": [
+   {
+    "file": "File:David Wright House.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:David and Gladys Wright House Phoenix.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kalita-humphreys-theater",
+  "qid": "Q6353240",
+  "status": "photo",
+  "why": "Lead gives rarity and significance.",
+  "name": "Kalita Humphreys Theater",
+  "by": "Frank Lloyd Wright",
+  "city": "Dallas",
+  "cc": "US",
+  "year": 1959,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "The only theater by Frank Lloyd Wright, one of his last buildings, built for Dallas Theater Center.",
+  "commons_category": "Category:Kalita Humphreys Theater",
+  "coords": [
+   32.8108,
+   -96.8007
+  ],
+  "photos": [
+   {
+    "file": "File:KHTPre62-1.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kubitschek-residence-museum",
+  "qid": "Q40357761",
   "status": "skip",
-  "why": "Ordinary stadium."
+  "why": "lead gives no design reason"
+ },
+ {
+  "id": "teatro-maria-della-costa",
+  "qid": "Q7691928",
+  "status": "skip",
+  "why": "lead gives seat count only"
+ },
+ {
+  "id": "museum-reinhard-ernst",
+  "qid": "Q117834995",
+  "status": "skip",
+  "why": "lead does not name the architect or give a design reason"
+ },
+ {
+  "id": "siemensforum-munchen",
+  "qid": "Q1403403",
+  "status": "skip",
+  "why": "lead names Meier as builder but gives no design reason"
+ },
+ {
+  "id": "kraus-house",
+  "qid": "Q6436430",
+  "status": "photo",
+  "why": "Lead describes the design.",
+  "name": "Kraus House",
+  "by": "Frank Lloyd Wright",
+  "city": "Kirkwood",
+  "cc": "US",
+  "year": 1955,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Brick",
+   "Landscape"
+  ],
+  "features": "A Wright house in brick and cypress, laid out on parallelograms, with right angles only in the bathroom.",
+  "commons_category": "Category:Kraus House",
+  "coords": [
+   38.58262,
+   -90.44233
+  ],
+  "photos": [
+   {
+    "file": "File:FLW Krauss House.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kraus House - 51603671636.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kraus House - 51604267559.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kraus House - 51604024849.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "richard-king-mellon-hall",
+  "qid": "Q16899281",
+  "status": "skip",
+  "why": "lead names Mies but gives no design reason"
+ },
+ {
+  "id": "auldbrass-plantation",
+  "qid": "Q4821753",
+  "status": "unsure",
+  "why": "Lead says it is the only plantation Wright designed; photos show parts (door, pool, sculptures), not the complex.",
+  "note": "no main photo"
+ },
+ {
+  "id": "frederick-c-bogk-house",
+  "qid": "Q5497461",
+  "status": "photo",
+  "why": "Lead names the Prairie style and its look.",
+  "name": "Frederick C. Bogk House",
+  "by": "Frank Lloyd Wright",
+  "city": "Milwaukee",
+  "cc": "US",
+  "year": 1917,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Wright's Prairie-style family house in Milwaukee, built to look solid and almost impregnable.",
+  "commons_category": "Category:Frederick C. Bogk House",
+  "coords": [
+   43.06173,
+   -87.87665
+  ],
+  "photos": [
+   {
+    "file": "File:Milwaukee August 2023 05 (2420 N. Terrace Avenue--Frederick C. Bogk House).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bogk House 5462.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:FC Bogk 5455.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:FC Bogk 5456.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kundert-medical-clinic",
+  "qid": "Q6444319",
+  "status": "unsure",
+  "why": "Lead gives Wright's rare commercial building; photos show only part of the clinic.",
+  "note": "no main photo"
+ },
+ {
+  "id": "zlota-44",
+  "qid": "Q249053",
+  "status": "photo",
+  "why": "Lead names Libeskind and the design inspiration.",
+  "name": "Złota 44",
+  "by": "Daniel Libeskind",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": 2016,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Libeskind's 52-story residential tower in central Warsaw, inspired by an eagle's wing and called Żagiel.",
+  "commons_category": "Category:Złota 44",
+  "coords": [
+   52.23111,
+   21.0025
+  ],
+  "photos": [
+   {
+    "file": "File:2018 Warszawa Złota 44 z PKiN.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Złota 44 (06.2013).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haeundae-i-park",
+  "qid": "Q5638300",
+  "status": "skip",
+  "why": "tower complex; lead gives no design reason"
+ },
+ {
+  "id": "the-concourse",
+  "qid": "Q7727300",
+  "status": "unsure",
+  "why": "Lead names Paul Rudolph and post-modernism; photos are renderings, distant views or cropped.",
+  "note": "no main photo"
+ },
+ {
+  "id": "2-columbus-circle",
+  "qid": "Q4633310",
+  "status": "photo",
+  "why": "Lead names two architects and the modernist design.",
+  "name": "2 Columbus Circle",
+  "by": "Edward Durell Stone",
+  "city": "New York",
+  "cc": "US",
+  "year": 1964,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "Edward Durell Stone's modernist building, redesigned by Brad Cloepfil for the Museum of Arts and Design.",
+  "commons_category": "Category:Two Columbus Circle",
+  "coords": [
+   40.7674,
+   -73.9819
+  ],
+  "photos": [
+   {
+    "file": "File:2 Columbus Circle.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:WTM wikiWhat 089.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "a-conger-goodyear-house",
+  "qid": "Q4647651",
+  "status": "skip",
+  "why": "lead says only 'historic home'"
+ },
+ {
+  "id": "taichung-main-public-library",
+  "qid": "Q136721227",
+  "status": "skip",
+  "why": "lead does not name the architect or describe the design"
+ },
+ {
+  "id": "eliel-saarinen-s-tribune-tower-design",
+  "qid": "Q16974640",
+  "status": "unsure",
+  "why": "Lead gives an unbuilt 1922 competition design with influence; only a drawing and a newspaper page.",
+  "note": "no main photo"
+ },
+ {
+  "id": "pruitt-igoe",
+  "qid": "Q165316",
+  "status": "unsure",
+  "why": "Lead gives the modernist design and its decline; the main photo is an aerial of the whole complex.",
+  "note": "no main photo"
+ },
+ {
+  "id": "torre-picasso",
+  "qid": "Q1364394",
+  "status": "skip",
+  "why": "office tower; lead gives height only"
+ },
+ {
+  "id": "rinku-gate-tower-building",
+  "qid": "Q2673535",
+  "status": "skip",
+  "why": "hotel and office tower; lead gives height and layout only"
+ },
+ {
+  "id": "osaka-prefectural-government-sakishima-building",
+  "qid": "Q1201344",
+  "status": "skip",
+  "why": "office tower; lead gives height only"
+ },
+ {
+  "id": "mode-gakuen-spiral-towers",
+  "qid": "Q2878337",
+  "status": "skip",
+  "why": "school tower; lead gives height only"
+ },
+ {
+  "id": "miraikan",
+  "qid": "Q656957",
+  "status": "skip",
+  "why": "lead gives no design reason"
+ },
+ {
+  "id": "foundation-e-g-buhrle",
+  "qid": "Q666331",
+  "status": "skip",
+  "why": "lead gives no design reason"
+ },
+ {
+  "id": "midland-square",
+  "qid": "Q1155401",
+  "status": "skip",
+  "why": "office and shopping tower; lead gives height only"
+ },
+ {
+  "id": "sumitomo-fudosan-roppongi-grand-tower",
+  "qid": "Q23666199",
+  "status": "skip",
+  "why": "office tower; lead gives no design reason"
+ },
+ {
+  "id": "one-lujiazui",
+  "qid": "Q2024017",
+  "status": "skip",
+  "why": "office tower; lead gives height only"
+ },
+ {
+  "id": "izumi-garden-tower",
+  "qid": "Q3275660",
+  "status": "skip",
+  "why": "hotel and office tower; lead gives height only"
+ },
+ {
+  "id": "bank-of-china-tower-shanghai",
+  "qid": "Q2405705",
+  "status": "skip",
+  "why": "office tower; lead gives height only"
+ },
+ {
+  "id": "hiroshima-museum-of-art",
+  "qid": "Q63828",
+  "status": "skip",
+  "why": "lead gives no design reason"
+ },
+ {
+  "id": "nec-supertower",
+  "qid": "Q1621350",
+  "status": "skip",
+  "why": "headquarters tower; lead gives cost and height only"
+ },
+ {
+  "id": "museum-of-the-imperial-collections",
+  "qid": "Q3076188",
+  "status": "skip",
+  "why": "lead is about the collection; museum closed"
+ },
+ {
+  "id": "pola-museum-of-art",
+  "qid": "Q1574475",
+  "status": "skip",
+  "why": "lead says only 'striking building'; no design reason"
+ },
+ {
+  "id": "exxonmobil-building",
+  "qid": "Q3488682",
+  "status": "photo",
+  "why": "Lead describes the fins and the tallest-west-of-Mississippi record.",
+  "name": "ExxonMobil Building",
+  "by": "Welton Becket",
+  "city": "Houston",
+  "cc": "US",
+  "year": 1963,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "A 1963 Houston tower whose fins protrude from its exterior to shade it from the sun.",
+  "commons_category": "Category:ExxonMobil Building",
+  "coords": [
+   29.7535,
+   -95.3694
+  ],
+  "photos": [
+   {
+    "file": "File:ExxonMobilBuilding.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Former ExxonMobil Building in Houston.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hoki-museum",
+  "qid": "Q5878014",
+  "status": "photo",
+  "why": "Lead gives a first and names the architects.",
+  "name": "Hoki Museum",
+  "by": "Nikken Sekkei",
+  "city": "Chiba",
+  "cc": "JP",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Exposed concrete"
+  ],
+  "features": "Japan's first museum dedicated to Realist painting, designed by Nikken Sekkei.",
+  "commons_category": "Category:Hoki Museum",
+  "coords": [
+   35.52208,
+   140.27986
+  ],
+  "photos": [
+   {
+    "file": "File:Hoki museum outside front 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hoki museum Jun 22 2019 04-37PM.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hoki Museum, Chiba.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aurora-plaza",
+  "qid": "Q2109257",
+  "status": "unsure",
+  "why": "Lead gives the curved facade; photos show the AURORA sign and neighbouring towers.",
+  "note": "no main photo"
+ },
+ {
+  "id": "tottori-prefectural-museum",
+  "qid": "Q4707652",
+  "status": "skip",
+  "why": "lead is about the collection"
+ },
+ {
+  "id": "world-trade-center-tokyo",
+  "qid": "Q2948463",
+  "status": "unsure",
+  "why": "Lead gives a first-generation Japanese skyscraper; the building is being demolished and photos show scrap and objects.",
+  "note": "no main photo"
+ },
+ {
+  "id": "trade-tower",
+  "qid": "Q486183",
+  "status": "skip",
+  "why": "office tower; lead gives height and shape only"
+ },
+ {
+  "id": "toyota-automobile-museum",
+  "qid": "Q7830749",
+  "status": "skip",
+  "why": "lead is about the cars"
+ },
+ {
+  "id": "holy-trinity-orthodox-cathedral-chicago",
+  "qid": "Q2498222",
+  "status": "photo",
+  "why": "Lead gives rarity and the architect's standing.",
+  "name": "Holy Trinity Orthodox Cathedral (Chicago)",
+  "by": "Louis Sullivan",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 1903,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "One of only two churches by Louis Sullivan, a seminal architect of the late 19th and early 20th centuries.",
+  "commons_category": "Category:Holy Trinity Orthodox Cathedral (Chicago)",
+  "coords": [
+   41.90194,
+   -87.68188
+  ],
+  "photos": [
+   {
+    "file": "File:Holy Trinity Cathedral Chicago.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Holy Trinity Orthodox Cathedral Chicago Portal 2019-2854.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Holy Trinity Russian and Greek Orthodox Church, 1121 North Leavitt Street, Chicago, Cook County, IL HABS ILL,16-CHIG,71- (sheet 2 of 3).png",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lake-biwa-museum",
+  "qid": "Q11564667",
+  "status": "skip",
+  "why": "lead is about the aquarium and collection"
+ },
+ {
+  "id": "nagoya-lucent-tower",
+  "qid": "Q2913609",
+  "status": "skip",
+  "why": "tower; lead gives height only"
+ },
+ {
+  "id": "bunkyo-civic-center",
+  "qid": "Q2928236",
+  "status": "skip",
+  "why": "government building; lead gives no design reason"
+ },
+ {
+  "id": "tokorozawa-aviation-museum",
+  "qid": "Q1041232",
+  "status": "skip",
+  "why": "lead is about the aviation collection; main photo is an engine"
+ },
+ {
+  "id": "shibuya-scramble-square",
+  "qid": "Q64026922",
+  "status": "skip",
+  "why": "office and shopping tower; lead gives height and floor area only"
  }
 ]

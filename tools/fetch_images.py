@@ -15,6 +15,7 @@ Steer the picks in tools/image_choices.json:
   {"salk-institute": {"category": "Category:Salk Institute", "more": ["Category:Another folder"],
                       "add": ["File:Some good photo.jpg"],
                       "drawings": ["File:Some plan.png"],  # checked by eye; kept after the photos
+                      "aic": [[12345, "Elevation"]],  # Art Institute of Chicago CC0 works (tools/aic)
                       "skip": ["File:A bad pick.jpg"]}}
 
 Writes WebP images to site/images/<id>/ and a review sheet to tools/review.html.
@@ -61,11 +62,11 @@ FULL, THUMB = 1400, 520
 
 
 # ---------- HTTP ----------
-def fetch(url, timeout=60):
+def fetch(url, timeout=60, extra=None):
     """GET with polite retries: Wikimedia answers 429 when it's busy."""
     for attempt in range(7):
         try:
-            req = urllib.request.Request(url, headers={'User-Agent': UA})
+            req = urllib.request.Request(url, headers={'User-Agent': UA, **(extra or {})})
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 data = r.read()
             time.sleep(0.3)
@@ -271,7 +272,7 @@ def eligible(b, files, info, skip=(), boost=(), soft=()):
         lic = strip(meta.get('LicenseShortName')) or strip(meta.get('UsageTerms'))
         kind = KIND_FIX.get(t) or describe(t, hint, meta, i.get('cats', ''), b['place'].split(',')[0] if b else '')
         drawing = kind in DRAWINGS
-        if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif') if drawing else ('image/jpeg', 'image/png')):
+        if i.get('mime') not in (('image/jpeg', 'image/png', 'image/gif', 'image/tiff') if drawing else ('image/jpeg', 'image/png')):
             continue
         if max(i.get('width', 0), i.get('height', 0)) < (700 if drawing else SMALL_PX):
             continue
@@ -360,6 +361,30 @@ def drawings(pool, picks):
         if p and n < MAX_DRAWINGS and not any(q['kind'] == want for q in picks):
             out.append(p)
             n += 1
+    return out
+
+
+AIC = ROOT / 'tools' / 'aic' / 'candidates.json'
+AIC_UA = 'FindGreatArchitecture/0.1 (https://findgreatarchitecture.com; architecture study site; contact via GitHub discoverarchitecture)'
+AIC_HEADERS = {'User-Agent': AIC_UA, 'AIC-User-Agent': AIC_UA}  # what tools/aic_scan.py sends, which the museum accepts
+
+
+def aic_picks(b, ch):
+    """Art Institute of Chicago public-domain (CC0) works chosen by hand in image_choices.json "aic":
+    [[aic_id, kind], ...], from tools/aic/candidates.json. Credited to the museum and linked to the artwork's page."""
+    if not ch.get('aic') or not AIC.exists():
+        return []
+    works = {str(w['aic_id']): w for w in json.loads(AIC.read_text(encoding='utf-8')).get(b['id'], [])}
+    out = []
+    for wid, kind in ch['aic']:
+        w = works.get(str(wid))
+        if not w:
+            print('    not in the Art Institute candidates:', wid)
+            continue
+        out.append({'title': f'AIC:{wid}', 'kind': kind, 'license': 'CC0', 'score': 0,
+                    'credit': ', '.join(x for x in [w.get('artist'), 'Art Institute of Chicago'] if x)[:100],
+                    'info': {'url': w['iiif'], 'thumburl': w['iiif'], 'descriptionurl': w['page'],
+                             'extmetadata': {'ImageDescription': w.get('title', '')}}})
     return out
 
 
@@ -564,34 +589,51 @@ def main():
                 if p:
                     picks.remove(p)
                     picks.insert(0, p)
-            extra = [t for t in ch.get('drawings', []) if t not in {p['title'] for p in picks}]
-            if extra:  # drawings checked by eye (tools/drawings): always kept, after the photos, never the lead
-                info = infos(extra)
-                got = {p['title']: p for p in eligible(b, [(t, '') for t in extra], info) if p['kind'] in DRAWINGS}
-                picks += [got[t] for t in extra if t in got]
+            if ch.get('drawings'):  # drawings checked by eye (tools/drawings) replace the automatic ones, after the photos
+                want = ch['drawings']
+                got = {p['title']: p for p in eligible(b, [(t, '') for t in want], infos(want)) if p['kind'] in DRAWINGS}
+                picks = [p for p in picks if p['kind'] not in DRAWINGS] + [got[t] for t in want if t in got]
+            aic = aic_picks(b, ch)
+            if aic:  # Art Institute of Chicago works checked by eye: drawings before the automatic ones, photos last
+                ph = [p for p in picks if p['kind'] not in DRAWINGS]
+                dr = [p for p in picks if p['kind'] in DRAWINGS]
+                hand = len(ch.get('drawings', [])) if ch.get('drawings') else 0
+                picks = ph + dr[:hand] + [p for p in aic if p['kind'] in DRAWINGS] + dr[hand:]
+                old_photos = [p for p in aic if p['kind'] not in DRAWINGS]
+                if old_photos:
+                    cap = (HOT_PICKS if b.get('hotlink') else MAX_PICKS) - len(old_photos)
+                    keep = [p for p in picks if p['kind'] not in DRAWINGS][:max(1, cap)]
+                    picks = keep + old_photos + [p for p in picks if p['kind'] in DRAWINGS]
             if not picks and b.get('images'):  # nothing usable now: keep what's there (photos, or our drawing)
                 print('    no free photos found; keeping the current gallery')
                 b['gv'] = GALLERY_VERSION
                 save(head, items)
                 continue
             folder = IMG / b['id']
-            for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
-                f.unlink()
             # The first hundred host their photos; later buildings host only the small wall
             # thumbnail and show the full photo from Wikimedia, to stay under the Pages size limit.
+            # Art Institute works are always hosted here: the museum's image server is theirs, not a CDN.
             hot = b.get('hotlink', False)
             photos = [p for p in picks if p['kind'] not in DRAWINGS][:HOT_PICKS if hot else MAX_PICKS]
             picks = photos + [p for p in picks if p['kind'] in DRAWINGS][:MAX_DRAWINGS]
-            def get(kp):
-                k, p = kp
+            def download(p):
                 url = p['info'].get('thumburl') or p['info']['url']
-                return save_image(fetch(url, timeout=120), folder, k, thumb_only=hot), url
+                if not p['title'].startswith('AIC:'):
+                    return fetch(url, timeout=120), url
+                try:
+                    return fetch(url, timeout=120, extra=AIC_HEADERS), url
+                except urllib.error.HTTPError:  # some works are only served at the smaller size
+                    return fetch(url.replace('/full/843,/', '/full/400,/'), timeout=120, extra=AIC_HEADERS), url
             from concurrent.futures import ThreadPoolExecutor
-            with ThreadPoolExecutor(4) as pool:
-                sizes = list(pool.map(get, enumerate(picks)))
+            with ThreadPoolExecutor(4) as pool:  # download everything first: a failure leaves the old gallery whole
+                got = list(pool.map(download, picks))
+            for f in list(folder.glob('*.webp')) + list(folder.glob('thumbs/*.webp')):
+                f.unlink()
+            local = lambda p: not hot or p['title'].startswith('AIC:')
+            sizes = [(save_image(data, folder, k, thumb_only=not local(p)), url) for k, (p, (data, url)) in enumerate(zip(picks, got))]
             images = []
             for k, (p, ((w, h), url)) in enumerate(zip(picks, sizes)):
-                images.append({'src': url if hot else f'images/{b["id"]}/{k}.webp', 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
+                images.append({'src': f'images/{b["id"]}/{k}.webp' if local(p) else url, 'thumb': f'images/{b["id"]}/thumbs/{k}.webp', 'w': w, 'h': h,
                                'kind': p['kind'], 'caption': caption(p['kind'], p['info'].get('extmetadata', {}), b),
                                'credit': p['credit'], 'license': p['license'], 'source': p['info'].get('descriptionurl'), 'file': p['title']})
             own = [i for i in b.get('images', []) if i['src'].endswith('.svg')]  # our drawing stays the cover,
