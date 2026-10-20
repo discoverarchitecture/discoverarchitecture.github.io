@@ -15,6 +15,7 @@ Steer the picks in tools/image_choices.json:
   {"salk-institute": {"category": "Category:Salk Institute", "more": ["Category:Another folder"],
                       "add": ["File:Some good photo.jpg"],
                       "drawings": ["File:Some plan.png"],  # checked by eye; kept after the photos
+                      "aic": [[12345, "Elevation"]],  # Art Institute of Chicago CC0 works (tools/aic)
                       "skip": ["File:A bad pick.jpg"]}}
 
 Writes WebP images to site/images/<id>/ and a review sheet to tools/review.html.
@@ -363,6 +364,28 @@ def drawings(pool, picks):
     return out
 
 
+AIC = ROOT / 'tools' / 'aic' / 'candidates.json'
+
+
+def aic_picks(b, ch):
+    """Art Institute of Chicago public-domain (CC0) works chosen by hand in image_choices.json "aic":
+    [[aic_id, kind], ...], from tools/aic/candidates.json. Credited to the museum and linked to the artwork's page."""
+    if not ch.get('aic') or not AIC.exists():
+        return []
+    works = {str(w['aic_id']): w for w in json.loads(AIC.read_text(encoding='utf-8')).get(b['id'], [])}
+    out = []
+    for wid, kind in ch['aic']:
+        w = works.get(str(wid))
+        if not w:
+            print('    not in the Art Institute candidates:', wid)
+            continue
+        out.append({'title': f'AIC:{wid}', 'kind': kind, 'license': 'CC0', 'score': 0,
+                    'credit': ', '.join(x for x in [w.get('artist'), 'Art Institute of Chicago'] if x)[:100],
+                    'info': {'url': w['iiif'], 'thumburl': w['iiif'], 'descriptionurl': w['page'],
+                             'extmetadata': {'ImageDescription': w.get('title', '')}}})
+    return out
+
+
 def picked(b, ch):
     """Photos chosen by hand in image_choices.json "pick": "File:…" or ["File:…", "Interior"], in order."""
     want = [(x, None) if isinstance(x, str) else (x[0], x[1]) for x in ch['pick']]
@@ -568,6 +591,17 @@ def main():
                 want = ch['drawings']
                 got = {p['title']: p for p in eligible(b, [(t, '') for t in want], infos(want)) if p['kind'] in DRAWINGS}
                 picks = [p for p in picks if p['kind'] not in DRAWINGS] + [got[t] for t in want if t in got]
+            aic = aic_picks(b, ch)
+            if aic:  # Art Institute of Chicago works checked by eye: drawings before the automatic ones, photos last
+                ph = [p for p in picks if p['kind'] not in DRAWINGS]
+                dr = [p for p in picks if p['kind'] in DRAWINGS]
+                hand = len(ch.get('drawings', [])) if ch.get('drawings') else 0
+                picks = ph + dr[:hand] + [p for p in aic if p['kind'] in DRAWINGS] + dr[hand:]
+                old_photos = [p for p in aic if p['kind'] not in DRAWINGS]
+                if old_photos:
+                    cap = (HOT_PICKS if b.get('hotlink') else MAX_PICKS) - len(old_photos)
+                    keep = [p for p in picks if p['kind'] not in DRAWINGS][:max(1, cap)]
+                    picks = keep + old_photos + [p for p in picks if p['kind'] in DRAWINGS]
             if not picks and b.get('images'):  # nothing usable now: keep what's there (photos, or our drawing)
                 print('    no free photos found; keeping the current gallery')
                 b['gv'] = GALLERY_VERSION
