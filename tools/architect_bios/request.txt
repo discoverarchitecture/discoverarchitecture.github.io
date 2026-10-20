@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --only "Christoph Ingenhoven,Diller Scofidio + Renfro,DP Architects,Francisco Ramos de Azevedo,Future Systems,Gigon/Guyer,Giles Gilbert Scott,Hans Poelzig,HOK,Houshang Seyhoun" --qids "Francisco Ramos de Azevedo=Ramos de Azevedo,Gigon/Guyer=Gigon/Guyer,Hans Poelzig=Hans Poelzig,Houshang Seyhoun=Houshang Seyhoun"
+python -u tools/check_overview_links.py --files bios_08.json
