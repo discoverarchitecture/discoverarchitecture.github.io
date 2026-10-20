@@ -32,6 +32,9 @@
   --green: #15803D; --green-soft: #ECF6EF; --green-edge: #B7DEC3;
   --glass: rgba(255,255,255,.82);
   --glass-strong: rgba(255,255,255,.92);
+  --rim: rgba(255,255,255,.75);   /* the bright edge of glass panels */
+  --glass-shadow: 0 8px 28px rgba(0,0,0,.14), inset 0 1px 0 rgba(255,255,255,.35);
+  --go-soft: #E3F4E8; --go-soft-2: #D2EEDB; --go-edge: #A9D9B8; --go-ink: #14532D;  /* the light green game button */
   --feat: #E7DFCF;          /* the featured book's band, unless the book sets its own */
   color-scheme: light;
 }
@@ -63,6 +66,9 @@
   --green-soft: #12301D; --green-edge: #1F5A33;
   --glass: rgba(30,30,28,.78);
   --glass-strong: rgba(30,30,28,.92);
+  --rim: rgba(255,255,255,.14);
+  --glass-shadow: 0 8px 28px rgba(0,0,0,.4), inset 0 1px 0 rgba(255,255,255,.08);
+  --go-soft: #12301D; --go-soft-2: #17402A; --go-edge: #1F5A33; --go-ink: #BBF7D0;
   --feat: #1E1E1C;
   color-scheme: dark;
 }

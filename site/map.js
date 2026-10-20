@@ -11,8 +11,8 @@
 
   /* ---------- the dock button and the panel ---------- */
   const dock = document.querySelector('.dock');
-  dock.insertAdjacentHTML('afterbegin', `<button type="button" id="mapBack" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Wall</button>`);
-  $('surprise').insertAdjacentHTML('beforebegin', `<button type="button" id="mapBtn" class="mapbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>Map</button>`);
+  dock.insertAdjacentHTML('afterbegin', `<button type="button" id="mapBack" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg><span class="dl">Wall</span></button>`);
+  $('surprise').insertAdjacentHTML('beforebegin', `<button type="button" id="mapBtn" class="mapbtn"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg><span class="dl">Map</span></button>`);
   document.body.insertAdjacentHTML('beforeend', `
 <section class="globe" id="globe" aria-label="Map of the buildings" hidden>
   <canvas id="gView"></canvas>
@@ -368,8 +368,9 @@
     const was = !$('sheet').hidden && DA.state.open && DA.state.open.kind !== 'book' ? DA.state.open : null;
     if (!$('sheet').hidden) $('close').click();
     if (DA.state.mode === 'books') $('modeBuildings').click();
+    document.body.classList.add('mapped'); // the top panel turns into its slim bar first, so the map sits right under it
     place();
-    panel.hidden = false; document.body.classList.add('mapped');
+    panel.hidden = false;
     requestAnimationFrame(() => panel.classList.add('in'));
     await load();
     if (!globe) {
