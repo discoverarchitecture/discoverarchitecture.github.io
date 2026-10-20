@@ -197,6 +197,7 @@
     clearTimeout(toast.timer); toast.timer = setTimeout(() => { t.hidden = true; }, 2400);
   }
   async function share(text) {
+    if (window.fgaEvent) fgaEvent('play/share/' + (game ? game.kind : 'game'), 'Shared a game result');
     const full = text + '\n' + SITE;
     try { if (navigator.share && matchMedia('(pointer: coarse)').matches) { await navigator.share({ text: full }); return; } } catch (e) { if (e && e.name === 'AbortError') return; }
     try { await navigator.clipboard.writeText(full); toast('Copied. Paste it in your group chat.'); }
@@ -277,6 +278,7 @@
       }
       stt.best = Math.max(stt.best, s.score);
       store.set('da-daily-stats', stt);
+      if (window.fgaEvent) fgaEvent('play/daily/' + correct + '-of-5', 'Daily five finished: ' + correct + ' of 5 right');
       game.celebrate = true;
       drawDaily(); window.scrollTo(0, 0);
     };
@@ -407,6 +409,7 @@
       const s2 = endlessStats(), runN = g.results.filter(Boolean).length;
       g.newBest = runN > s2.best; s2.best = Math.max(s2.best, runN); s2.runs++;
       store.set('da-endless', s2);
+      if (window.fgaEvent) fgaEvent('play/endless/over', 'Endless run over');
       g.over = true; g.celebrate = true; drawEndless(); window.scrollTo(0, 0);
     };
   }

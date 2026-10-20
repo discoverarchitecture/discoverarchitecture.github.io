@@ -29,3 +29,12 @@ jobs:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
+      # Tell Bing (IndexNow) which pages changed, now that they are live. A manual run sends every page in the sitemap.
+      # Never fails the deploy: the log says what happened.
+      - name: Tell Bing about changed pages
+        continue-on-error: true
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python3 tools/indexnow.py --all
+          else python3 tools/indexnow.py --changed "$BEFORE" "$GITHUB_SHA"; fi
