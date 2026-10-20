@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool2.json --n 100
-Haiku experiment, second pool (100).
+python -u tools/probe_links.py
+Check the link finder site searches.
