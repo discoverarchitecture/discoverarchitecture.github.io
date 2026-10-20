@@ -1,0 +1,23 @@
+/* Hub pages (site/styles/, types/, cities/, ideas/<slug>/), made by tools/hub_pages.py. An architect page (architect.css, v24 option B)
+   with four columns of buildings on a computer and two on a phone, and an "On the globe" link. Colours come from theme.css only. */
+.hub .rail h1 { font-size: clamp(34px, 3.4vw, 46px); line-height: .95; }
+.hub .rail .facts { font-size: 14px; }
+.hub .col[hidden] { display: none; }
+#more { height: 1px; }
+
+/* "On the globe": a rounded rectangle, not a pill; sunset red on hover like every clickable thing */
+.globe-link { display: grid; grid-template-columns: 26px 1fr; column-gap: 12px; align-items: center; padding: 11px 14px; border: 1px solid var(--edge); border-radius: var(--r); background: var(--surface); color: var(--ink); text-decoration: none; }
+.globe-link svg { grid-row: 1 / span 2; width: 26px; height: 26px; fill: none; stroke: currentColor; stroke-width: 1.6; }
+.globe-link span { font: 700 16px var(--sans); }
+.globe-link small { font: 400 13px var(--sans); color: var(--graphite); }
+@media (hover: hover) { .globe-link:hover { border-color: var(--red); color: var(--red); } }
+
+@media (min-width: 1000px) {
+  .hub { grid-template-columns: minmax(360px, 33.34%) minmax(0, 1fr); }
+  .hub .cols, .hub .col { gap: 14px; }
+}
+@media (max-width: 999px) {
+  .hub .rail { display: flex; }
+  .hub .rail h1 { font-size: 40px; }
+  .hub .cols, .hub .col { gap: 10px; }
+}

@@ -269,6 +269,19 @@ def about_block(b):
             f'<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener">CC BY-SA 4.0</a>.</p></section>\n')
 
 
+def hub_links():
+    """The hub pages by kind, for the home page's text block, so crawlers (and people without JavaScript) can reach them."""
+    if not HUBS:
+        return ''
+    import hub_pages
+    out = ''
+    for kind, (folder, _, plural) in hub_pages.KINDS.items():
+        mine = [h for h in HUBS if h['kind'] == kind]
+        if mine:
+            out += (f'  <h3><a href="{folder}/">{plural}</a></h3>\n  <p>' + ' · '.join(f'<a href="{h["path"]}">{e(h["label"])}</a>' for h in mine) + '</p>\n')
+    return out
+
+
 def home_block(items):
     """Crawler-readable text for the home page, which is otherwise drawn by JavaScript: what the wall is, and the
     twenty buildings people look up most (tools/pageviews.json). Written between the about:start/end markers."""
@@ -285,6 +298,7 @@ def home_block(items):
             f'Spin the globe to explore buildings from all over the world, <a href="buildings/">see them all A–Z</a>, '
             f'or test yourself with the <a href="play/">guess-the-building games</a>. '
             f'Short building videos on <a href="https://www.youtube.com/@findgreatarchitecture" rel="noopener">YouTube</a>.</p>\n'
+            f'{hub_links()}'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
             f'</section>')
 
@@ -347,6 +361,13 @@ def ld_image(b, im):
 
 ARCH = {}  # canonical architect name -> page slug, filled in by main() before any page is written (tools/architect_pages.py)
 NM = None  # names_py.Names, the same one-name-per-architect rule as the wall
+HUBS = []  # the hub pages (tools/hub_pages.py), planned in main() before any page is written
+HUBLOOK = {}  # (kind, value) -> hub, so building pages can link their style, type, city and ideas to a hub
+
+
+def hub_href(kind, value, up):
+    h = HUBLOOK.get((kind, value))
+    return f'{up}{h["path"]}' if h else ''
 
 
 def architect_html(b, up):
@@ -390,8 +411,13 @@ def fact_icon(k, b):
 
 def facts_html(b, up):
     facts = [('Architect', b['by']), ('Place', place_full(b)), ('Year', b['year']), ('Typology', b['type']), ('Movement', b['movement']), ('Region', b['region'])]
+    hubs = {'Place': hub_href('city', place_full(b), up), 'Typology': hub_href('type', b['type'], up), 'Movement': hub_href('style', b['movement'], up)}
+    def cell(k, v):
+        if k == 'Architect':
+            return architect_html(b, up)
+        return f'<a href="{hubs[k]}">{e(v)}</a>' if hubs.get(k) else e(v)
     return '<dl class="facts">' + ''.join(
-        f'<div>{fact_icon(k, b)}<dt>{e(k)}</dt><dd>{architect_html(b, up) if k == "Architect" else e(v)}</dd></div>' for k, v in facts) + '</dl>'
+        f'<div>{fact_icon(k, b)}<dt>{e(k)}</dt><dd>{cell(k, v)}</dd></div>' for k, v in facts) + '</dl>'
 
 
 # ---------- the building page as the opened building from the wall (v27 · 02, approved 20 Oct 2026) ----------
@@ -613,9 +639,9 @@ def building_page(b, items):
         rows.append(f'<section class="onward"><h2><span>More by {e(who)}</span><a href="{arch_link(who, up)}">All {len(mine) + 1} →</a></h2><div class="row">{"".join(tile(x, up) for x in mine[:4])}</div></section>')
     if idea and pool:
         rows.append(f'<section class="onward"><h2><span>More with {e(idea.lower())}</span><a href="{up}?q={q(idea)}">All {C["idea"][idea]} →</a></h2><div class="row">{"".join(tile(x, up) for x in pool[:4])}</div></section>')
-    ideas = [(c, C['idea'][c]) for c in b['concepts']] + [(b['type'], C['type'][b['type']])]
+    ideas = [(c, C['idea'][c], hub_href('idea', c, up)) for c in b['concepts']] + [(b['type'], C['type'][b['type']], hub_href('type', b['type'], up))]
     find = ('<section class="onward find"><h2><span>Find more with</span></h2>' + ''.join(
-        f'<a href="{up}?q={q(v)}"><span class="nm">{e(v)}</span><i aria-hidden="true"></i><span class="n">{n} buildings →</span></a>' for v, n in ideas)
+        f'<a href="{href or up + "?q=" + q(v)}"><span class="nm">{e(v)}</span><i aria-hidden="true"></i><span class="n">{n} buildings →</span></a>' for v, n, href in ideas)
         + '<p class="note">Each opens every building that shares the idea.</p></section>')
     nxt = (mine or pool or kin or near)[0]
     nim = (nxt.get('images') or [{}])[0].get('thumb')
@@ -875,6 +901,13 @@ def main():
     ARCH.update({k: p['slug'] for k, p in plans.items()})
     (SITE / 'data' / 'arch_pages.js').write_text('// Architects who have their own page (site/architects/<slug>/). Made by tools/build_pages.py.\n'
                                                  'window.ARCH_PAGES = ' + json.dumps(ARCH, ensure_ascii=False, sort_keys=True) + ';\n')
+    import hub_pages
+    HUBS[:] = hub_pages.plan(sys.modules[__name__], items, ARCH)
+    HUBLOOK.clear()
+    HUBLOOK.update(hub_pages.lookup(HUBS))
+    hub_pages.build(sys.modules[__name__], HUBS)
+    page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
+                           page.read_text(), flags=re.S))
     stamp_wall()
     for b in items:
         out = SITE / 'buildings' / b['id']
@@ -884,7 +917,7 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(index_page(items))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}buildings/{b['id']}/" for b in items]
+    urls = [BASE, BASE + 'play/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items]
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n')
