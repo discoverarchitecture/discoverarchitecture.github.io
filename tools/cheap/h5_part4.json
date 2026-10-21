@@ -1,0 +1,629 @@
+[
+ {
+  "id": "lise-meitner-house",
+  "qid": "Q119397183",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "hydrapier",
+  "qid": "Q12773511",
+  "status": "unsure",
+  "why": "Lead gives Asymptote's competition-winning pavilion (2002), but prep has no photos.",
+  "note": "no main photo"
+ },
+ {
+  "id": "american-folk-art-museum-midtown-building",
+  "qid": "Q63869721",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "kunstmuseum-basel-neubau",
+  "qid": "Q69545079",
+  "status": "skip",
+  "why": "empty lead; Kunstmuseum Basel, New Building is already on the wall"
+ },
+ {
+  "id": "spencer-theater-for-the-performing-arts",
+  "qid": "Q93964790",
+  "status": "skip",
+  "why": "empty lead; Predock is on the wall, flagged for the owner"
+ },
+ {
+  "id": "early-learning-centre-university-of-toronto",
+  "qid": "Q111512588",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "mpreis-reutte",
+  "qid": "Q121133302",
+  "status": "skip",
+  "why": "empty lead; supermarket"
+ },
+ {
+  "id": "parasite-lp2",
+  "qid": "Q123117993",
+  "status": "skip",
+  "why": "empty lead; instance says destroyed building"
+ },
+ {
+  "id": "van-schijndel-house",
+  "qid": "Q55065653",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "atchugarry-museum-of-contemporary-art",
+  "qid": "Q110486593",
+  "status": "photo",
+  "why": "Lead gives a first (Uruguay's first permanent contemporary art museum) and names the design architect; main photo shows the whole building.",
+  "name": "Atchugarry Museum of Contemporary Art",
+  "by": "Carlos Ott",
+  "city": "San Carlos",
+  "cc": "UY",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "A museum on a 90-acre landscape that commentators call Uruguay's first permanent contemporary art museum.",
+  "commons_category": null,
+  "coords": [
+   -34.86604,
+   -54.82065
+  ],
+  "photos": [
+   {
+    "file": "File:Museo de Arte Contemporáneo Atchugarry 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "spiral-house",
+  "qid": "Q19471959",
+  "status": "photo",
+  "why": "Lead gives a named design idea (terracing from Arab villages) and the architect; main photo shows the whole building.",
+  "name": "Spiral House",
+  "by": "Zvi Hecker",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": 1990,
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Facade as skin"
+  ],
+  "features": "An apartment complex spiralling upward, its terraced roofs used as living space, as in Arab villages.",
+  "commons_category": "Category:Spiral House",
+  "coords": [
+   32.0782,
+   34.82123
+  ],
+  "photos": [
+   {
+    "file": "File:SpiralHouseRG1.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Spiral House-Ramat Gan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:PikiWiki Israel 60671 spiral house ramat gan.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "disney-sequoia-lodge",
+  "qid": "Q1888041",
+  "status": "skip",
+  "why": "themed hotel; main photo is a beaver dam, not the building"
+ },
+ {
+  "id": "faculty-of-fine-arts-of-pontevedra",
+  "qid": "Q20543637",
+  "status": "skip",
+  "why": "lead describes a faculty in old barracks, not the building's design"
+ },
+ {
+  "id": "the-queen-sonja-art-stable",
+  "qid": "Q42023914",
+  "status": "skip",
+  "why": "lead gives no reason it matters"
+ },
+ {
+  "id": "torres-de-hercules",
+  "qid": "Q7827071",
+  "status": "skip",
+  "why": "office towers; lead gives no design reason"
+ },
+ {
+  "id": "toyota-sports-performance-center",
+  "qid": "Q7830871",
+  "status": "skip",
+  "why": "training facility; lead gives no design reason"
+ },
+ {
+  "id": "twin-towers-ramat-gan",
+  "qid": "Q7858314",
+  "status": "photo",
+  "why": "Lead names the postmodern style. City is Ramat Gan from the lead, not the first Wikidata value (Tel Aviv).",
+  "name": "Twin Towers (Ramat Gan)",
+  "by": "Moore Yaski Sivan Architects",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": 1994,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Two identical 14-storey office towers in a postmodern glass style, built on a former candy factory site.",
+  "commons_category": "Category:Twin Towers (Ramat Gan)",
+  "coords": [
+   32.0836,
+   34.8061
+  ],
+  "photos": [
+   {
+    "file": "File:PikiWiki Israel 14200 Twin Towers in Ramat Gan.JPG",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Ramat Gan Twins.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twin-towers-ramatgan-3.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museu-de-arte-do-rio",
+  "qid": "Q10333798",
+  "status": "unsure",
+  "why": "Lead names Jacobsen Arquitetura and the 2013 museum, but no photo shows the whole building as the subject (the main is the square).",
+  "note": "no main photo"
+ },
+ {
+  "id": "salvadoran-museum-of-art",
+  "qid": "Q6033911",
+  "status": "skip",
+  "why": "lead gives no design reason; main photo is a monument"
+ },
+ {
+  "id": "centara-grand-and-bangkok-convention-centre",
+  "qid": "Q5058999",
+  "status": "skip",
+  "why": "hotel; lead gives no design reason; no photos"
+ },
+ {
+  "id": "isbank-museum-ankara",
+  "qid": "Q63485357",
+  "status": "skip",
+  "why": "lead gives no design reason and no building date"
+ },
+ {
+  "id": "cultural-center-of-spain-in-el-salvador",
+  "qid": "Q61931385",
+  "status": "skip",
+  "why": "lead describes the cultural organisation, not the building"
+ },
+ {
+  "id": "beit-avi-chai",
+  "qid": "Q6953970",
+  "status": "photo",
+  "why": "Architect is on the wall (Supreme Court of Israel), and this is her built cultural centre. Lead is about activities, so the feature is thin. Year 2007 from prep (lead gives none).",
+  "name": "Beit Avi Chai",
+  "by": "Ada Karmi-Melamede",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Monumentality"
+  ],
+  "features": "A Jerusalem cultural centre and art gallery, founded by the Avi Chai Foundation to promote Jewish-Israeli culture.",
+  "commons_category": "Category:Beit Avichai",
+  "coords": [
+   31.77778,
+   35.21611
+  ],
+  "photos": [
+   {
+    "file": "File:BeitAviChaiMay062023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pearl-dawn",
+  "qid": "Q20981854",
+  "status": "skip",
+  "why": "skyscraper; lead gives no design reason; main photo is a beach view"
+ },
+ {
+  "id": "museum-of-contemporary-art-aguascalientes",
+  "qid": "Q24498896",
+  "status": "skip",
+  "why": "lead describes galleries, not the building's design"
+ },
+ {
+  "id": "book-and-documentary-heritage-museum-of-iran",
+  "qid": "Q61064135",
+  "status": "skip",
+  "why": "lead describes the collection; main photo is a manuscript"
+ },
+ {
+  "id": "multi-purpose-tower",
+  "qid": "Q970936",
+  "status": "skip",
+  "why": "office tower; lead gives no design reason (Portman is on the wall; borderline)"
+ },
+ {
+  "id": "cinemateca-capitolio",
+  "qid": "Q18466770",
+  "status": "skip",
+  "why": "1928 eclectic cinema reused in 2015; lead gives style but no design argument (borderline)"
+ },
+ {
+  "id": "dragao-do-mar-center-of-art-and-culture",
+  "qid": "Q5305525",
+  "status": "skip",
+  "why": "lead describes a cultural complex, not its design; main photo is an aerial"
+ },
+ {
+  "id": "herzlilinblum-museum",
+  "qid": "Q7037613",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "moshe-castel-museum-of-art",
+  "qid": "Q16130515",
+  "status": "skip",
+  "why": "empty lead (David Resnick is on the wall)"
+ },
+ {
+  "id": "museo-de-esculturas-luis-perlotti",
+  "qid": "Q21573457",
+  "status": "skip",
+  "why": "lead describes the collection; photos are sculptures and interiors"
+ },
+ {
+  "id": "kurimanzutto",
+  "qid": "Q27894560",
+  "status": "skip",
+  "why": "lead describes a gallery, not a building; main photo is a crowd"
+ },
+ {
+  "id": "palmah-hativat-harel",
+  "qid": "Q6705958",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "praca-das-esculturas",
+  "qid": "Q10353447",
+  "status": "skip",
+  "why": "sculpture park; statues are the subject"
+ },
+ {
+  "id": "surp-hovhannes-church-of-artashat",
+  "qid": "Q20508362",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "church-of-the-holy-mother-of-god-nor-nork",
+  "qid": "Q20515621",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "ub-city",
+  "qid": "Q3595524",
+  "status": "skip",
+  "why": "high-rise complex; lead gives no design reason; architect is a company"
+ },
+ {
+  "id": "chennai-trade-centre",
+  "qid": "Q5091469",
+  "status": "skip",
+  "why": "exhibition centre; lead gives no design reason"
+ },
+ {
+  "id": "congress-hall-paramaribo",
+  "qid": "Q56479341",
+  "status": "skip",
+  "why": "convention centre; lead gives no design reason"
+ },
+ {
+  "id": "pantanal-aquarium",
+  "qid": "Q111905375",
+  "status": "photo",
+  "why": "Architect is on the wall (Hotel Unique), and the lead gives the aquarium's scale. Main Wikidata photo (white form on sand) is unclear, so photo 02 leads.",
+  "name": "Pantanal Aquarium",
+  "by": "Ruy Ohtake",
+  "city": "Campo Grande",
+  "cc": "BR",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Ruy Ohtake's building for the largest freshwater aquarium in the world, finished nearly eleven years late.",
+  "commons_category": "Category:Bioparque Pantanal",
+  "coords": [
+   -20.45568,
+   -54.57605
+  ],
+  "photos": [
+   {
+    "file": "File:Bioparque Pantanal 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bioparque Pantanal 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dlf-cybercity-chennai",
+  "qid": "Q17007967",
+  "status": "skip",
+  "why": "IT park; lead gives no design reason"
+ },
+ {
+  "id": "ciudad-cayala",
+  "qid": "Q96103622",
+  "status": "skip",
+  "why": "planned district, not a building"
+ },
+ {
+  "id": "guyim-vault-house",
+  "qid": "Q111947628",
+  "status": "skip",
+  "why": "concept home; not built; no photos"
+ },
+ {
+  "id": "san-martin-344-building",
+  "qid": "Q6119330",
+  "status": "skip",
+  "why": "office tower; lead gives construction history, no design reason"
+ },
+ {
+  "id": "al-husayn-mosque-canopies",
+  "qid": "Q130307907",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "arie-klang-house",
+  "qid": "Q124858139",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "hermann-struck-house",
+  "qid": "Q16130018",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "bat-yam-museum-of-art",
+  "qid": "Q6575765",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "bet-gabriel-on-the-kinneret",
+  "qid": "Q6609001",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "ashdod-museum-of-art",
+  "qid": "Q6673490",
+  "status": "skip",
+  "why": "lead gives galleries and a vault, no design reason"
+ },
+ {
+  "id": "saint-martyrs-church",
+  "qid": "Q112859186",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "water-museum",
+  "qid": "Q113840113",
+  "status": "skip",
+  "why": "lead describes collections; main photo is a painting"
+ },
+ {
+  "id": "hanevi-im-pedestrian-ashdod",
+  "qid": "Q124339627",
+  "status": "skip",
+  "why": "empty lead; a street, not a building"
+ },
+ {
+  "id": "jerusalem-art-campus",
+  "qid": "Q126278120",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "holy-mother-of-god-church",
+  "qid": "Q13054820",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "broshim-school",
+  "qid": "Q136203782",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "cloud-11",
+  "qid": "Q140626499",
+  "status": "skip",
+  "why": "mixed-use development; lead gives no design reason; lead says opened 2025"
+ },
+ {
+  "id": "idf-184th-tank-battalion-memorial",
+  "qid": "Q16338525",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "santiago-del-estero-forum",
+  "qid": "Q16570318",
+  "status": "photo",
+  "why": "Lead gives an architectural reason (historic station combined with modern use). Year null: the lead gives none, and prep's 2012 likely dates the reuse, not the station.",
+  "name": "Santiago del Estero Forum",
+  "by": "B4FS Studio",
+  "city": "Santiago del Estero",
+  "cc": "AR",
+  "year": null,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A convention centre in a former railway station, where historic and modern architecture are combined.",
+  "commons_category": "Category:Forum Santiago del Estero",
+  "coords": [
+   -27.78028,
+   -64.2625
+  ],
+  "photos": [
+   {
+    "file": "File:Forum Santiago del Estero.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "alexandroni-brigade-memorial-in-netanya",
+  "qid": "Q18191360",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "kvutzat-kinneret-museum",
+  "qid": "Q18191936",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "saint-gevorg-church",
+  "qid": "Q20508247",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "holy-cross-church-nerkin-charbakh",
+  "qid": "Q20515679",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "sherover-cultural-center",
+  "qid": "Q25490016",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "latrun-detension-camp-memorial",
+  "qid": "Q27668742",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "alexandroni-brigade-memorial-in-latrun",
+  "qid": "Q27685167",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "kamar-business-center",
+  "qid": "Q55380168",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "k-towers",
+  "qid": "Q55649830",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "islamic-consultative-assembly-building",
+  "qid": "Q56357070",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "mellat-cineplex",
+  "qid": "Q5864014",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "mahmoud-darwish-museum",
+  "qid": "Q61434689",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "centro-de-justicia-de-santiago",
+  "qid": "Q6408875",
+  "status": "skip",
+  "why": "court complex; lead gives no design reason"
+ },
+ {
+  "id": "smolarz-auditorium",
+  "qid": "Q6606413",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "the-first-aliyah-museum",
+  "qid": "Q6758922",
+  "status": "skip",
+  "why": "empty lead"
+ }
+]
