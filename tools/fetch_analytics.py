@@ -4,6 +4,7 @@
 Run daily by .github/workflows/analytics.yml (needs the GOATCOUNTER_TOKEN secret).
 Writes, into --out:
   daily.csv    day,visits  one row per day, grows over time (old days are kept, recent days refreshed)
+  signups.csv  day,signups FGA Studio waitlist sign-ups per day (the GoatCounter event studio/signup; no emails)
   latest.json  the last 30 days: pages, referrers, browsers, systems, locations, screen sizes, languages
 Fails loudly (non-zero exit) on any problem, so a broken job is never mistaken for "no visitors".
 
@@ -58,6 +59,37 @@ def day_visits(entry):
     return sum(int(h or 0) for h in entry.get('hourly') or [])
 
 
+def signups(out, start, end, event='studio/signup'):
+    """FGA Studio waitlist sign-ups per day, from the event the /studio/ page counts after each sign-up (a number only;
+    the emails themselves go to the owner's Google Sheet). Kept like daily.csv: old days stay, recent days refresh.
+    A failure here only warns: it must never cost the daily visits."""
+    try:
+        time.sleep(1)
+        data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, filter=event, daily='true', limit=20)
+    except SystemExit as e:
+        print(f'::warning::waitlist sign-ups could not be fetched ({e}); keeping the numbers saved earlier')
+        return
+    days = {}
+    for h in data.get('hits') or []:
+        if h.get('path') != event:
+            continue
+        for d in h.get('stats') or []:
+            if d.get('day'):
+                days[d['day'][:10]] = days.get(d['day'][:10], 0) + day_visits(d)
+    path = os.path.join(out, 'signups.csv')
+    old = {}
+    if os.path.exists(path):
+        with open(path, newline='') as f:
+            old = {r['day']: int(r['signups']) for r in csv.DictReader(f)}
+    old.update(days)
+    with open(path, 'w', newline='') as f:
+        w = csv.writer(f)
+        w.writerow(['day', 'signups'])
+        for d in sorted(old):
+            w.writerow([d, old[d]])
+    print('Waitlist sign-ups:', sum(days.values()), 'in the last 90 days')
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--out', required=True)
@@ -88,6 +120,8 @@ def main():
         w.writerow(['day', 'visits'])
         for d in sorted(old):
             w.writerow([d, old[d]])
+
+    signups(args.out, stamp(today - dt.timedelta(days=89)), until)
 
     # The last 30 days, broken down.
     window = {'start': stamp(today - dt.timedelta(days=29)), 'end': until}
