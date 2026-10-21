@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --pages tools/architect_bios/pages_09.json
+python -u tools/check_overview_links.py --files bios_09.json
