@@ -30031,6 +30031,10 @@
   "add": [
    "File:Monona Terrace from Lake Monona.jpg",
    "File:Stairwell in Monona Terrace (53970426805).jpg"
+  ],
+  "skip": [
+   "File:Looking out from Monona Terrace over Lake Monona (53969983616).jpg",
+   "File:Stairwell in Monona Terrace (53969092752).jpg"
   ]
  },
  "torre-de-cristal": {
@@ -30039,6 +30043,10 @@
    "File:Torre de Cristal (Madrid) 05a.jpg",
    "File:Torre de Cristal - CTBA - Madrid 01.jpg",
    "File:Torre de Cristal - CTBA - Madrid 02.jpg"
+  ],
+  "skip": [
+   "File:Torre Sacyr Vallehermoso & Torre Caja Madrid reflejadas en Torre de Cristal.jpg",
+   "File:Madrid - CTBA, Torre de Cristal 22.jpg"
   ]
  },
  "minnaert-building": {
@@ -30064,6 +30072,11 @@
   "category": "Category:Science Museum (Valladolid)",
   "add": [
    "File:Valladolid - Museo de la Ciencia 10b.jpg"
+  ],
+  "skip": [
+   "File:Pasteur, el detective del vino 10.jpg",
+   "File:Agua web.jpg",
+   "File:Valladolid - Museo de la Ciencia, modelo del galeón Santísima Trinidad.jpg"
   ]
  },
  "fresno-city-hall": {
@@ -30071,6 +30084,9 @@
   "add": [
    "File:Fresno City Hall Nima1.JPG",
    "File:Fresno City Hall Fountain.jpg"
+  ],
+  "skip": [
+   "File:Day of Decision (9186687615).jpg"
   ]
  },
  "100-eleventh-avenue": {
@@ -30078,6 +30094,9 @@
   "add": [
    "File:100 Eleventh Avenue (24234).jpg",
    "File:JuneInNYC-27 (55380998769).jpg"
+  ],
+  "skip": [
+   "File:NY Chelsea Pier 60 IMG 2189 nouvel chelsea 100 11th Av luxury condominium.JPG"
   ]
  },
  "zenith-de-lille": {
@@ -30085,12 +30104,19 @@
   "add": [
    "File:Zénith de Lille 2014.JPG",
    "File:Lille vue zenith pont.jpg"
+  ],
+  "skip": [
+   "File:Zéntih arena de Lille - concert de Tal en novembre 2014.JPG"
   ]
  },
  "golden-angel": {
   "category": "Category:Zlatý Anděl (Prague)",
   "add": [
    "File:Zlaty andel.jpg"
+  ],
+  "skip": [
+   "File:Zlatý Anděl 20251110 154918.jpg",
+   "File:Smíchov, Nádražní, Zlatý Anděl.jpg"
   ]
  },
  "he-art-museum": {
@@ -30098,12 +30124,18 @@
   "add": [
    "File:He Art Museum Entry.jpg",
    "File:He Art Museum Garden.jpg"
+  ],
+  "skip": [
+   "File:He Art Museum main stairwell from top.jpg"
   ]
  },
  "le-consortium": {
   "category": "Category:Le Consortium",
   "add": [
    "File:Dijon, Le Consortium.jpg"
+  ],
+  "skip": [
+   "File:Seungduk Kim-034.jpg"
   ]
  },
  "frist-campus-center": {
@@ -30124,12 +30156,19 @@
   "add": [
    "File:201121 The Museum for wood culture Kami Hyogo pref Japan01s3.jpg",
    "File:Inside of The Museum for wood culture.JPG"
+  ],
+  "skip": [
+   "File:201121 Mt Sobu-take view from The Museum for wood culture Kami Hyogo pref Japan01s3.jpg"
   ]
  },
  "paraninfo-de-la-universidad-del-pais-vasco": {
   "category": "Category:Paranymph of Euskal Herriko Unibertsitatea (Bizkaia Aretoa)",
   "add": [
    "File:Bilbao - Torre Iberdrola y Paraninfo de la UPV-EHU 2.jpg"
+  ],
+  "skip": [
+   "File:Guggenheim Museum (9085378323).jpg",
+   "File:Bilbao - Torre Iberdrola y Paraninfo de la UPV-EHU 1.jpg"
   ]
  },
  "himeji-city-museum-of-literature": {
@@ -30137,6 +30176,9 @@
   "add": [
    "File:Himeji City Museum of Literature01-r.jpg",
    "File:Himeji City Museum of Literature04s3872.jpg"
+  ],
+  "skip": [
+   "File:Himeji City Museum of Literature02-r.jpg"
   ]
  },
  "kfw-westarkade": {
@@ -30145,12 +30187,21 @@
    "File:Westarkade, Frankfurt, West view 20170226 1.jpg",
    "File:Westarkade highrise, Frankfurt, Northwest view 20170226 1.jpg",
    "File:Westarkade Frankfurt.jpg"
+  ],
+  "skip": [
+   "File:Westarkade Frankfurt viewed from Zeppelinallee.jpg",
+   "File:Zeppelinallee-2010-ffm-033.jpg"
   ]
  },
  "muritzeum": {
   "category": "Category:Müritzeum",
   "add": [
+   "File:20250717.Waren.Müritzeum.-011.jpg",
    "File:20250717.Waren.Müritzeum.-015.jpg"
+  ],
+  "skip": [
+   "File:20250717.Waren.Müritzeum.-019.1.jpg",
+   "File:Aquarium Werk3-AndreasDuerst.jpg"
   ]
  },
  "przedszkole-bundestagu": {
@@ -30159,6 +30210,9 @@
    "File:Bundestagskindergarten.JPG",
    "File:Berlin, Bundestagskindergarten 2014-07.jpg",
    "File:Deutscher Bundestag - Kindertagesstätte.jpg"
+  ],
+  "skip": [
+   "File:Berliner Fernsehturm und Bundestagskindergarten.jpg"
   ]
  },
  "fukuoka-camera-museum": {
@@ -30172,6 +30226,9 @@
   "add": [
    "File:Centro Cultural de Viana do Castelo - Portugal (53466324161).jpg",
    "File:Centro Cultural de Viana do Castelo - Portugal (53425263052).jpg"
+  ],
+  "skip": [
+   "File:Centro Cultural de Viana do Castelo (2).jpg"
   ]
  },
  "centre-ceramique": {
@@ -30179,6 +30236,11 @@
   "add": [
    "File:20130505 Maastricht Céramique 01.JPG",
    "File:Centre Céramique, Maastricht, Netherlands - panoramio (26).jpg"
+  ],
+  "skip": [
+   "File:Maastricht-Centre Céramique (3).jpg",
+   "File:Maastricht-Centre Céramique (4).jpg",
+   "File:20130504 Maastricht Céramique 06 Plein 1992.JPG"
   ]
  },
  "ken-iwata-mother-and-child-museum": {
@@ -30186,6 +30248,9 @@
   "add": [
    "File:Mother and child museum - panoramio.jpg",
    "File:Mother and child museum - panoramio (1).jpg"
+  ],
+  "skip": [
+   "File:Omishima (14559).jpg"
   ]
  },
  "residenze-hadid": {
@@ -30193,6 +30258,9 @@
   "add": [
    "File:Residenze Hadid, CityLife district, Milan, Italy 03 00 33 307000.jpeg",
    "File:Residenze Hadid, CityLife district, Milan, Italy 03 00 44 213000.jpeg"
+  ],
+  "skip": [
+   "File:Via Luciano Berio, Milan, May 2018 (02).jpg"
   ]
  },
  "campus-palmas-altas-sevilla": {
@@ -30201,6 +30269,9 @@
    "File:Campus Palmas Altas.jpg",
    "File:Palmas Altas (Abengoa).jpg",
    "File:Palmas Altas 01.jpg"
+  ],
+  "skip": [
+   "File:Palmasaltas-283.jpg"
   ]
  },
  "hagi-uragami-museum": {
@@ -30208,6 +30279,9 @@
   "add": [
    "File:Hagi Uragami Mus.JPG",
    "File:山口県立萩美術館・浦上記念館 2023-11-25.jpg"
+  ],
+  "skip": [
+   "File:雄略天皇.jpg"
   ]
  },
  "ciudad-bbva": {
@@ -30228,12 +30302,23 @@
   "add": [
    "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan01s4.jpg",
    "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan02s3.jpg"
+  ],
+  "skip": [
+   "File:260718 Katayamazu Onsen Kaga Ishikawa pref Japan01s3.jpg",
+   "File:Nakaya Ukichiro Museum of Snow and Ice Demonstration of in vitro Generation of Snowflake.jpg",
+   "File:Museum of Snow and Ice 1 (5209623258).jpg",
+   "File:Museum of Snow and Ice 2 (5209021449).jpg"
   ]
  },
  "lafayette-anticipations-galeries-lafayette-corporate-foundation": {
   "category": "Category:Lafayette Anticipations",
   "add": [
    "File:Façade du 9 rue du Plâtre, bâtiment rénové par Rem Koolhaas et OMA.jpg"
+  ],
+  "skip": [
+   "File:ArtAndFeminism 2015Paris - 1.JPG",
+   "File:ArtAndFeminism 2015Paris - 2.JPG",
+   "File:Tsuneko Taniuchi.JPG"
   ]
  },
  "maison-de-l-ordre-des-avocats": {
@@ -30241,6 +30326,10 @@
   "add": [
    "File:Maison des Avocats (DSC09467).jpg",
    "File:Maison des Avocats (DSC09463).jpg"
+  ],
+  "skip": [
+   "File:Maison des Avocats (29677354067).jpg",
+   "File:Maison des Avocats (29677354657).jpg"
   ]
  },
  "toyama-international-conference-center": {
@@ -30248,6 +30337,9 @@
   "add": [
    "File:080506 Toyama International Conference Center Toyama Japan01s3.jpg",
    "File:Toyama International Conference Center 20180503.jpg"
+  ],
+  "skip": [
+   "File:富山城址公園からの風景 - panoramio.jpg"
   ]
  },
  "campus-einaudi": {
@@ -30268,12 +30360,21 @@
   "add": [
    "File:Nagano-city arts center 長野市芸術館.jpg",
    "File:Nagano-city main Hall＆Nagano-city Arts center 長野市役所と長野市芸術館.jpg"
+  ],
+  "skip": [
+   "File:Nagano-city main Hall＆Nagano-city Arts center 長野市役所と長野市芸術館.jpg"
   ]
  },
  "finnish-forest-museum-lusto": {
   "category": "Category:Finnish Forest Museum Lusto",
   "add": [
    "File:Lusto 1 AB.jpg"
+  ],
+  "skip": [
+   "File:Brunsvika arithmometer.JPG",
+   "File:Chainsaws in Lusto.JPG",
+   "File:Fordson Major forestry tractor 1.jpg",
+   "File:Lusto interior.JPG"
   ]
  },
  "caja-magica": {
@@ -30281,6 +30382,9 @@
   "add": [
    "File:Caja Mágica exterior.jpg",
    "File:Los espacios de eventos de Madrid Destino se consolidan como polo de actividad empresarial, solidaria y ciudadana 05.jpg"
+  ],
+  "skip": [
+   "File:® MADRID P.L.M. CAJA MÁGICA PANORAMA ESTE - panoramio (2).jpg"
   ]
  },
  "onikuru": {
@@ -30306,19 +30410,32 @@
   "add": [
    "File:150922 Chihiro Art Museum Azumino Japan01s3.jpg",
    "File:150922 Chihiro Art Museum Azumino Japan02s3.jpg"
+  ],
+  "skip": [
+   "File:150922 Chihiro Art Museum Azumino Japan05n.jpg",
+   "File:安曇野ちひろ美術館=「絵本の部屋」P8149268.jpg"
   ]
  },
  "pabellon-de-la-navegacion": {
   "category": "Category:Pabellón de la Navegación",
   "add": [
    "File:Pabellon navegacion e2012003.jpg"
+  ],
+  "skip": [
+   "File:Pabellon de la Navegación (1).jpg",
+   "File:Pabellon de la Navegación (10).jpg",
+   "File:Nuestra Señora del Pilar (barco).jpg"
   ]
  },
  "burghof-lorrach": {
   "category": "Category:Burghof Lörrach",
   "add": [
-   "File:Burghof Lörrach... - panoramio.jpg",
-   "File:Truncated Pyramid Room.jpg"
+   "File:Truncated Pyramid Room.jpg",
+   "File:Burghof Lörrach... - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Aerial view - Lörrach - Rathaus1.jpg",
+   "File:Aerial view - Lörrach Innenstadt1.jpg"
   ]
  },
  "yaoko-kawagoe-museum": {
@@ -30330,6 +30447,9 @@
   "category": "Category:Frances Young Tang Teaching Museum and Art Gallery",
   "add": [
    "File:Tang Museum entrance.jpg"
+  ],
+  "skip": [
+   "File:Tang Museum sign.jpg"
   ]
  },
  "musik-und-kongresshalle-lubeck": {
@@ -30338,6 +30458,9 @@
    "File:MuK. - panoramio.jpg",
    "File:MuK Musik und Kongresshalle Lübeck.jpg",
    "File:Lubeck sala kongresowa.jpg"
+  ],
+  "skip": [
+   "File:Germany Luebeck music hall detail.jpg"
   ]
  },
  "taisha-urara-kan-cultural-hall": {
@@ -30351,6 +30474,9 @@
    "File:Kaustinen CAP.JPG",
    "File:Kansantaiteenkeskus (14791386510).jpg",
    "File:Kansantaiteenkeskus (14955095296).jpg"
+  ],
+  "skip": [
+   "File:Trio Ponttopaat.jpg"
   ]
  },
  "church-of-st-basil-of-ostrog-belgrade": {
@@ -30359,12 +30485,19 @@
    "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 06.jpg",
    "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 3.jpg",
    "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 01.jpg"
+  ],
+  "skip": [
+   "File:Hram Sv. Vasilije Ostroški, Novi Beograd.jpg",
+   "File:Свјетлопис србског православног храма Св. Василија Острошког, Бежанијска Коса, Биоград10.jpg"
   ]
  },
  "ishikawa-nanao-art-museum": {
   "category": "Category:Ishikawa Nanao Art Museum",
   "add": [
    "File:石川県七尾美術館 Nanao Art Museum.jpg"
+  ],
+  "skip": [
+   "File:Zennyo Ryuo - Hasegawa Touhaku.jpg"
   ]
  },
  "dia-beacon": {
@@ -30381,13 +30514,25 @@
    "File:The Otsuka Museum of Art01s3200.jpg",
    "File:The Otsuka Museum of Art20s3203.jpg",
    "File:The Otsuka Museum of Art10s3872.jpg"
+  ],
+  "skip": [
+   "File:Otsuka Museum of Art2-R.jpg",
+   "File:Ohtsuka Art-kun.jpg",
+   "File:Ohtsuka Art-kun2.jpg"
   ]
  },
  "cite-de-la-mode-et-du-design": {
   "category": "Category:Cité de la mode et du design",
   "add": [
+   "File:Cité de la mode et du design @ Paris (15191278798).jpg",
    "File:Crue2018 - Quai d'Austerlitz (69) - pht.jpg",
    "File:Crue2018 - Quai d'Austerlitz (60) - pht.jpg"
+  ],
+  "skip": [
+   "File:Crue2018 - Quai d'Austerlitz (69) - pht.jpg",
+   "File:Crue2018 - Quai d'Austerlitz (60) - pht.jpg",
+   "File:Paris - Les Docks - Cité de la Mode et du Design (22590649244).jpg",
+   "File:Paris - Les Docks - Cité de la Mode et du Design (23192974366).jpg"
   ]
  },
  "550-south-tryon": {
@@ -30396,6 +30541,10 @@
    "File:Duke Energy Center Charlotte.jpg",
    "File:Charlotte, North Carolina.jpg",
    "File:Duke Energy Center and The Westin Charlotte, 2010.jpg"
+  ],
+  "skip": [
+   "File:550 South Tryon on South Tryon St Late December 2025.jpg",
+   "File:Charlotte, NC skyline (49112507893).jpg"
   ]
  },
  "new-synagogue-mainz": {
@@ -30417,6 +30566,10 @@
    "File:Paulinum72012.JPG",
    "File:Leipzig - Neues Augusteum & Paulinum.jpg",
    "File:Leipzig - Augusteum & Paulinum.jpg"
+  ],
+  "skip": [
+   "File:Arwed Rossbach und seine Bauten, Berlin 1904, Leipzig, Paulinerkirche, Ansicht nach dem Umbau. Erbaut von 1898 bis 1899.jpg",
+   "File:Leipzig Paulinerkirche Scheibe-Orgel um 1720.jpg"
   ]
  },
  "grandstand-us-open": {
@@ -30424,11 +30577,22 @@
   "add": [
    "File:Flushing Meadows Fair Grounds td (2018-05-26) 003 - USTA Grandstand.jpg",
    "File:Grand Central Pkwy td (2022-01-14) 018 - USTA Grandstand.jpg"
+  ],
+  "skip": [
+   "File:2019 USTA exhibition Tracy Austin and Lindsay Davenport.jpg",
+   "File:2019 USTA exhibition Tracy Austin warming up.jpg",
+   "File:2019 USTA exhibition Tracy Austin and Lindsay Davenport warming up.jpg",
+   "File:2015 US Open Tennis - Tournament - September 5, 2015 (21184482502).jpg"
   ]
  },
  "atchugarry-museum-of-contemporary-art": {
   "add": [
    "File:Museo de Arte Contemporáneo Atchugarry 02.jpg"
+  ],
+  "skip": [
+   "File:Quipus 53 B, Jorge Eduardo Eielson.jpg",
+   "File:Embajadora Fulton visita el Museo MACA (53183428846).jpg",
+   "File:La Piedad, Pablo Atchugarry.jpg"
   ]
  },
  "spiral-house": {
@@ -30443,6 +30607,12 @@
   "category": "Category:Beit Avichai",
   "add": [
    "File:BeitAviChaiMay062023.jpg"
+  ],
+  "skip": [
+   "File:BeitAvichaiRosen26.jpg",
+   "File:BeitAvihaiRosen527.jpg",
+   "File:Rosen499.jpg",
+   "File:Detail from the Litvinovsky exhibition at Beit Avi Chai's Art Gallery.jpg"
   ]
  },
  "pantanal-aquarium": {
@@ -30460,14 +30630,22 @@
    "File:Evangelische Pfarrkirche Klosterneuburg 01.JPG",
    "File:Klosterneuburg evangelische Kirche Innenansicht.jpg",
    "File:Evangelische Pfarrkirche Klosterneuburg 03.JPG"
+  ],
+  "skip": [
+   "File:Evangelische Pfarrkirche Klosterneuburg 03.JPG"
   ]
  },
  "memorial-luiz-carlos-prestes": {
   "category": "Category:Memorial Luiz Carlos Prestes",
   "add": [
+   "File:Memorial Luiz Carlos Prestes PoA 01.jpg",
    "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil).jpg",
    "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 0.jpg",
    "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 3.jpg"
+  ],
+  "skip": [
+   "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 3.jpg",
+   "File:Memorial Luiz Carlos Prestes PoA 02.jpg"
   ]
  },
  "crematorium-bratislava": {
@@ -30475,6 +30653,10 @@
   "add": [
    "File:WP 20151027 13 12 32 Pro.jpg",
    "File:WP 20151027 13 11 43 Pro.jpg"
+  ],
+  "skip": [
+   "File:Orientačný plán krematória v Bratislave.JPG",
+   "File:Významné osobnosti uložené v Urnovom háji v Bratislave.jpg"
   ]
  },
  "lugano-arte-e-cultura": {
@@ -30483,6 +30665,10 @@
    "File:Lugano art culture 1090083.jpg",
    "File:LAC di Lugano 02.jpg",
    "File:LAC Lugano 03.jpg"
+  ],
+  "skip": [
+   "File:LAC Lugano 03.jpg",
+   "File:Panorama sur la ville depuis le musée d'art (LAC, Lugano, Suisse) (21783614270).jpg"
   ]
  },
  "stc-group": {
@@ -30492,6 +30678,9 @@
    "File:Bevenrode (ship, 1970) in front of STC Building Rotterdam.jpg",
    "File:STC Rotterdam vanaf de Waterweg.jpg",
    "File:Rotterdam STC building seen from 3e Katendrechtsehoofd.jpg"
+  ],
+  "skip": [
+   "File:GraphyArchy - Wikipedia 00240.jpg"
   ]
  },
  "museum-belvedere": {
@@ -30500,6 +30689,12 @@
    "File:Museum Belvédère, Heerenveen-4807.jpg",
    "File:Museum Belvédère, Heerenveen-4806.jpg",
    "File:Museum Belvédère, Heerenveen-4804.jpg"
+  ],
+  "skip": [
+   "File:Museumbelvedereoranjewoud.jpg",
+   "File:Oranjewoud Museumpark Landgoed Oranjewoud in a fog 01.jpg",
+   "File:Jan Mankes - Mother in Interior (Q86926769, frameless).jpg",
+   "File:Oranjewoud Museum Belvédère seen from the north.jpg"
   ]
  },
  "festspielhaus-st-polten": {
@@ -30507,6 +30702,12 @@
   "add": [
    "File:Sankt Pölten - Regierungsviertel - Festspielhaus.jpg",
    "File:2019 11 20 St Poelten Festspielhaus 3.jpeg"
+  ],
+  "skip": [
+   "File:2019 11 20 St Poelten Festspielhaus 3.jpeg",
+   "File:2019 11 20 St Poelten Festspielhaus 1.jpeg",
+   "File:Das Tonkünstler-Orchester im Festspielhaus St. Pölten.jpg",
+   "File:Sankt Pölten - Regierungsviertel - Skulptur von Efthymios Warlamis.jpg"
   ]
  },
  "konzerthaus-blaibach": {
@@ -30521,6 +30722,11 @@
   "category": "Category:Bing Concert Hall",
   "add": [
    "File:Bing concert hall at Stanford University.JPG"
+  ],
+  "skip": [
+   "File:Natalie Cressman Ian Faquini Stanford April 2025 001.jpg",
+   "File:Natalie Cressman Ian Faquini Stanford April 2025 002.jpg",
+   "File:Stanford Talisman October 2019 002.jpg"
   ]
  },
  "canadian-clay-and-glass-gallery": {
@@ -30528,6 +30734,10 @@
   "add": [
    "File:Waterloo IMG 2913 (23095556386).jpg",
    "File:Canadian Clay and Glass Gallery - Waterloo, ON.jpg"
+  ],
+  "skip": [
+   "File:Waterloo IMG 2922 (23095552176).jpg",
+   "File:Uptown Waterloo (Aerial) - Waterloo, ON.jpg"
   ]
  },
  "san-riccardo-pampuri-church": {
@@ -30536,6 +30746,9 @@
    "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 003.jpg",
    "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 002.jpg",
    "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 004.jpg"
+  ],
+  "skip": [
+   "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 002.jpg"
   ]
  },
  "st-katharina-von-siena": {
@@ -30551,6 +30764,9 @@
   "add": [
    "File:Rijeka Mosque 3.JPG",
    "File:Rijeka Mosque 1.JPG"
+  ],
+  "skip": [
+   "File:Rijeka Mosque - interior 2.JPG"
   ]
  },
  "bibliotheque-universitaire-des-langues-et-civilisations": {
@@ -30558,6 +30774,10 @@
   "add": [
    "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410443482).jpg",
    "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410469472).jpg"
+  ],
+  "skip": [
+   "File:BULACcardcatalogueParis.JPG",
+   "File:Aboulféda - Roi d'Apamée d'après les tableaux géographiques.jpg"
   ]
  },
  "armenian-cathedral-of-moscow": {
@@ -30566,6 +30786,11 @@
    "File:Moscow ArmemianMonastery CathedralAndChapel 4106.jpg",
    "File:Кафедральный собор Преображения Господня (АХК) в 2024 году.jpg",
    "File:Армянский храмовый комплекс в Москве, Россия 1.jpg"
+  ],
+  "skip": [
+   "File:Армянский храмовый комплекс в Москве, Россия 1.jpg",
+   "File:Holy Transfiguration Armenian Cathedral, Moscow 01.jpg",
+   "File:The Holy Transfiguration Cathedral of the Armenian monastery complex of Moscow. View from Olimpiyski Avenue, Oct. 16, 2011.jpg"
   ]
  },
  "fuglsang-art-museum": {
@@ -30574,6 +30799,12 @@
    "File:Fuglsang-Kunstmuseum.jpg",
    "File:Fuglsang Kunstmuseum, 2023.jpg",
    "File:Fuglsang Kunstmuseum 2014 EV1.jpg"
+  ],
+  "skip": [
+   "File:Kai nielsen, leda, studio di figura, 1918 ca. (fuglsang kunstmuseum).jpg",
+   "File:Fuglsang, L.A. Ring-udstilling 2023 (1).jpg",
+   "File:Fuglsang, L.A. Ring-udstilling 2023 (2).jpg",
+   "File:Astrid Holm - Stående kvindelig model.png"
   ]
  },
  "biblioteca-raul-rangel-frias": {
@@ -30588,6 +30819,9 @@
    "File:Diehtosiida-exterior.jpg",
    "File:Den samiske høgskolen.jpg",
    "File:Den samiske høgskolen (14373593336).jpg"
+  ],
+  "skip": [
+   "File:Publikum i Diehtosiida.jpg"
   ]
  },
  "museum-for-architectural-drawing": {
@@ -30596,6 +30830,10 @@
    "File:Museum für Architekturzeichnung, Berlin, 150516, ako.jpg",
    "File:140503 Museum für Architekturzeichnung.jpg",
    "File:140301 Museum fuer Architekturzeichnung.jpg"
+  ],
+  "skip": [
+   "File:Berlin-Mitte, Prenzlauer Berg, Christinenstraße 17–20.jpg",
+   "File:Архитектурная фантазия - \"Техно-кокон\". автор Артур Скижали-Вейс.jpg"
   ]
  },
  "museu-de-arte-do-rio": {
@@ -30604,6 +30842,10 @@
    "File:Praça Mauá 11 2015 Rio 708.JPG",
    "File:MauaSquare2.jpg",
    "File:Museu de Arte do Rio - MAR (8729729032).jpg"
+  ],
+  "skip": [
+   "File:Museu de Arte do Rio (Setembro-2025).jpg",
+   "File:MAAT.jpg"
   ]
  }
 }
