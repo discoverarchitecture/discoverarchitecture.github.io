@@ -157,6 +157,55 @@ def usable_links(rec):
     return [l for l in rec.get('overview_links') or [] if l.get('url') and l.get('ok') is not False and l.get('checked')]
 
 
+READING = ROOT / 'tools' / 'reading'
+SHOWN_LINKS = 6
+
+
+def load_reading():
+    """key -> links, from tools/reading/*.json (hubs.json, architects_0N.json): 10 to 15 checked reading links per page.
+    Keys are 'hub:<kind>:<slug>' and 'architect:<name>'. A later file wins; a page with no entry keeps its current links."""
+    out = {}
+    for f in sorted(READING.glob('*.json')) if READING.exists() else []:
+        if f.name == 'todo.json':
+            continue
+        data = json.loads(f.read_text())
+        for r in data if isinstance(data, list) else []:
+            if r.get('key') and r.get('links'):
+                out[r['key']] = r['links']
+    return out
+
+
+def _same(url):
+    return re.sub(r'^https?://(www\.)?|[#?].*$|/$', '', (url or '').strip().lower())
+
+
+def merge_links(reading, current):
+    """The reading file's links first, in its order, then any current link not already among them."""
+    out, seen = [], set()
+    for l in list(reading or []) + list(current or []):
+        k = _same(l.get('url'))
+        if l.get('url') and k not in seen:
+            seen.add(k)
+            out.append(l)
+    return out
+
+
+def links_block(bp, heading, links, name, up):
+    """"Read about ...": the first six with the site's logo (or its first letter), the title and a "Subscription" mark on paid
+    links; the rest open in place under "See all N", the way "Go deeper" does on building pages."""
+    if not links:
+        return ''
+    def row(l):
+        t = (l.get('title') or l.get('why') or '').strip()
+        same = not t or t.lower() == l['site'].lower() or l['site'].lower().startswith(t.lower())
+        paid = '<small class="paid">Subscription</small>' if l.get('paid') else ''
+        return (f'<a href="{bp.e(l["url"])}" rel="noopener">{link_logo(bp, l, name, up)}<span class="lt"><b>{bp.e(l["site"])}</b>'
+                f'{"" if same else "<span> · " + bp.e(t) + "</span>"}{paid}</span><span class="go" aria-hidden="true">\u2197</span></a>')
+    rest = links[SHOWN_LINKS:]
+    more = (f'<details class="more-rows"><summary>See all {len(links)}</summary><div class="rows">{"".join(row(l) for l in rest)}</div></details>' if rest else '')
+    return f'<section class="blk"><h2>{bp.e(heading)}</h2><div class="rows">{"".join(row(l) for l in links[:SHOWN_LINKS])}</div>{more}</section>'
+
+
 def books_for(bp, key, nm, books):
     mine = [b for b in books if key in {nm.canon(a) for a in b.get('architects') or []}]
     surname = key.split()[-1].lower()
@@ -279,14 +328,7 @@ def page(bp, plans, key, ctx):
                f'onerror="this.onerror=null;this.src=this.dataset.fallback" data-fallback="{bp.e(port["thumb"])}">'
                f'<figcaption>{bp.e(cred)}{src}</figcaption></figure>')
     more = (f'<details class="more"><summary><span class="m">Read more</span><span class="l">Show less</span></summary>{"".join(f"<p>{bp.e(p)}</p>" for p in paras[1:])}</details>' if len(paras) > 1 else '')
-    def label(l):  # "Wikipedia · Zaha Hadid", but not "Zaha Hadid Architects · Zaha Hadid Architects"
-        t = (l.get('title') or l.get('why') or '').strip()
-        same = not t or t.lower() == l['site'].lower() or l['site'].lower().startswith(t.lower())
-        return '' if same else f'<span> · {bp.e(t)}</span>'
-    rows = ''.join(f'<a href="{bp.e(l["url"])}" rel="noopener">{link_logo(bp, l, name, up)}<span class="lt"><b>{bp.e(l["site"])}</b>'
-                   f'{label(l)}</span><span class="go" aria-hidden="true">↗</span></a>'
-                   for l in usable_links(rec))
-    links = f'<section class="blk"><h2>Read about the work</h2><div class="rows">{rows}</div></section>' if rows else ''
+    links = links_block(bp, 'Read about the work', merge_links(ctx['reading'].get(f'architect:{key}'), usable_links(rec)), name, up)
     bks = books_for(bp, key, ctx['nm'], ctx['books'])
     bk = ''.join(
         f'<a class="bk" href="{up}#book:{bp.e(b["id"])}"><span class="cv">' +
@@ -358,7 +400,7 @@ def build(bp, items):
         return nm, plans
     import worth_swipe
     ctx = {'swipe': set(worth_swipe.chosen()), 'nm': nm, 'books': bp.read_js('books.js', 'BOOKS') or [],
-           'people': (bp.read_js('architects.js', 'ARCHITECTS') or {}).get('people', {})}
+           'people': (bp.read_js('architects.js', 'ARCHITECTS') or {}).get('people', {}), 'reading': load_reading()}
     keep = set()
     for key, p in plans.items():
         d = out / p['slug']

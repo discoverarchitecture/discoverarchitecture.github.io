@@ -4,7 +4,7 @@ small tables the visitor dashboard reads. Plain reshaping, no calculation beyond
 
     python3 tools/analytics_dashboard_data.py --src <folder with daily.csv + latest.json> --out <folder>
 
-Writes into --out: daily.csv, breakdowns.json, pages.json, status.json
+Writes into --out: daily.csv (day, visits, signups), breakdowns.json, pages.json, status.json
 (Buildings and books opened are rows of breakdowns.json with group 'Opened': a file with no rows cannot be loaded by the dashboard.)
 """
 import argparse, csv, datetime as dt, json, os
@@ -34,11 +34,15 @@ def main():
     os.makedirs(a.out, exist_ok=True)
     latest = json.load(open(os.path.join(a.src, 'latest.json')))
     sec = latest['sections']
+    signups = {}  # FGA Studio waitlist sign-ups per day (signups.csv, from the event studio/signup), if any yet
+    if os.path.exists(os.path.join(a.src, 'signups.csv')):
+        with open(os.path.join(a.src, 'signups.csv'), newline='') as f:
+            signups = {r['day']: int(r['signups']) for r in csv.DictReader(f)}
     with open(os.path.join(a.src, 'daily.csv'), newline='') as f, open(os.path.join(a.out, 'daily.csv'), 'w', newline='') as g:
         w = csv.writer(g)
-        w.writerow(['day', 'visits'])
+        w.writerow(['day', 'visits', 'signups'])
         for r in csv.DictReader(f):
-            w.writerow([r['day'], r['visits']])
+            w.writerow([r['day'], r['visits'], signups.get(r['day'], 0)])
 
     rows = []
     def add(group, name, visits):
@@ -65,13 +69,17 @@ def main():
                 add('Opened', ('Book: ' if kind == 'book' else '') + (h.get('title') or key), h['count'])
             elif kind in ('map', 'play'):  # map/open, play/daily/3-of-5, play/endless/over, play/share/<kind>
                 add('Map and game', h.get('title') or h['path'], h['count'])
+            elif kind == 'studio':  # studio/ai-button (the wall's AI button opened), studio/signup (waitlist sign-ups)
+                add('FGA Studio', h.get('title') or h['path'], h['count'])
         else:
             pages.append({'path': h['path'], 'title': h.get('title') or '', 'visits': int(h['count'])})
     pages.sort(key=lambda r: -r['visits'])
     json.dump(rows, open(os.path.join(a.out, 'breakdowns.json'), 'w'), indent=1)
     json.dump(pages, open(os.path.join(a.out, 'pages.json'), 'w'), indent=1)
     now = dt.datetime.now(dt.timezone.utc)
+    month_ago = (now - dt.timedelta(days=30)).date().isoformat()
     json.dump([{'fetched_at': latest['fetched_at'], 'visits_30d': latest.get('visits_30d'),
+                'signups_30d': sum(n for d, n in signups.items() if d > month_ago), 'signups_total': sum(signups.values()),
                 'refreshed_at': now.isoformat(timespec='seconds'), 'next_refresh': next_refresh(now).isoformat(timespec='seconds')}],
               open(os.path.join(a.out, 'status.json'), 'w'), indent=1)
     print(f'{len(rows)} breakdown rows ({sum(1 for r in rows if r["group"] == "Opened")} opened buildings/books), {len(pages)} pages')
