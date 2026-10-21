@@ -59,14 +59,6 @@
     "why": "Global database of concrete buildings at risk"
    },
    {
-    "site": "MoMA",
-    "title": "Brutalist Architecture",
-    "url": "https://www.moma.org/collection/terms/brutalist-architecture",
-    "kind": "museum",
-    "paid": false,
-    "why": "MoMA's definition and related works"
-   },
-   {
     "site": "Domus",
     "title": "Brutalism & Brutalist architecture: the most famous brutalist buildings",
     "url": "https://www.domusweb.it/en/movements/brutalism.html",
@@ -89,14 +81,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Why the style divides and endures"
-   },
-   {
-    "site": "Places Journal",
-    "title": "Concrete Utopia: Architecture in Yugoslavia",
-    "url": "https://placesjournal.org/article/concrete-utopia-architecture-in-yugoslavia/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Brutalism beyond Britain, in the Balkans"
    },
    {
     "site": "Google Arts & Culture",
@@ -137,14 +121,6 @@
     "kind": "video",
     "paid": false,
     "why": "Video history from Unite to Robin Hood Gardens"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Brutalist architecture",
-    "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples"
    }
   ]
  },
@@ -174,14 +150,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Getty's plain answer to a big question"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "International Style",
-    "url": "https://smarthistory.org/period-culture-style/modernisms/international-style/",
-    "kind": "overview",
-    "paid": false,
-    "why": "Student-friendly explanation with key buildings"
    },
    {
     "site": "Tate",
@@ -214,22 +182,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Bauhaus ideas and architects, illustrated"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "The Bauhaus, an introduction",
-    "url": "https://smarthistory.org/the-bauhaus-an-introduction/",
-    "kind": "overview",
-    "paid": false,
-    "why": "What the school was and why it mattered"
-   },
-   {
-    "site": "MoMA",
-    "title": "Bauhaus 1919-1933: Workshops for Modernity",
-    "url": "https://www.moma.org/calendar/exhibitions/303",
-    "kind": "museum",
-    "paid": false,
-    "why": "Museum exhibition on the school"
    },
    {
     "site": "Docomomo US",
@@ -371,22 +323,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Review of a survey of 21st-century homes"
-   },
-   {
-    "site": "Places Journal",
-    "title": "Zombies and Ghosts",
-    "url": "https://placesjournal.org/article/zombies-and-ghosts-architecture-and-finance-capitalism/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Architecture and finance capital today"
-   },
-   {
-    "site": "Places Journal",
-    "title": "The Death and Life of Great Architecture Criticism",
-    "url": "https://placesjournal.org/article/the-death-and-life-of-great-architecture-criticism/",
-    "kind": "essay",
-    "paid": false,
-    "why": "How architecture is written about now"
    },
    {
     "site": "ArchDaily",
@@ -544,14 +480,6 @@
     "kind": "overview",
     "paid": false,
     "why": "Neutral summary of the exhibition"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Deconstructivism",
-    "url": "https://en.wikipedia.org/wiki/Deconstructivism",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples"
    }
   ]
  },
@@ -597,14 +525,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Historian traces computing's role in design"
-   },
-   {
-    "site": "Places Journal",
-    "title": "Between Mission Statement and Parametric Model",
-    "url": "https://placesjournal.org/article/between-mission-statement-and-parametric-model/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Critical look at parametric design culture"
    },
    {
     "site": "Patrik Schumacher",
@@ -685,14 +605,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Academic reading of the manifesto"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Parametric architecture",
-    "url": "https://en.wikipedia.org/wiki/Parametric_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples"
    }
   ]
  },
@@ -818,14 +730,6 @@
     "kind": "video",
     "paid": false,
     "why": "Both designers in conversation"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "High-tech architecture",
-    "url": "https://en.wikipedia.org/wiki/High-tech_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples"
    }
   ]
  },
@@ -881,14 +785,6 @@
     "why": "The movement's founding architects"
    },
    {
-    "site": "MoMA",
-    "title": "Robert Venturi",
-    "url": "https://www.moma.org/artists/6132-robert-venturi",
-    "kind": "museum",
-    "paid": false,
-    "why": "MoMA's page on Venturi and his work"
-   },
-   {
     "site": "V&A",
     "title": "Postmodernism",
     "url": "https://www.vam.ac.uk/collections/postmodernism",
@@ -937,14 +833,6 @@
     "why": "Obituary of the theorist"
    },
    {
-    "site": "Domus",
-    "title": "La Strada Novissima: The 1980 Venice Biennale",
-    "url": "https://www.domusweb.it/en/from-the-archive/2012/08/25/-em-la-strada-novissima-em--the-1980-venice-biennale.html",
-    "kind": "museum",
-    "paid": false,
-    "why": "The Biennale show that launched Po-Mo"
-   },
-   {
     "site": "ArchDaily",
     "title": "Playful and Ironic: The Legacy of Postmodernist Architecture in the United States",
     "url": "https://www.archdaily.com/1038681/playful-and-ironic-the-legacy-of-postmodernist-architecture-in-the-united-states",
@@ -959,22 +847,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Book tour of postmodern buildings worldwide"
-   },
-   {
-    "site": "Docomomo US",
-    "title": "The '70s Turn 50: Divergences in American Architecture",
-    "url": "https://www.docomomo-us.org/news/the-70s-turn-50-divergences-in-american-architecture",
-    "kind": "essay",
-    "paid": false,
-    "why": "How 1970s US architecture split"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Postmodern architecture",
-    "url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples"
    }
   ]
  },
@@ -1028,22 +900,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Deco buildings across continents"
-   },
-   {
-    "site": "The Metropolitan Museum of Art",
-    "title": "French Art Deco",
-    "url": "https://www.metmuseum.org/essays/french-art-deco",
-    "kind": "essay",
-    "paid": false,
-    "why": "Museum essay on the style's origins"
-   },
-   {
-    "site": "The Metropolitan Museum of Art",
-    "title": "Design, 1925-50",
-    "url": "https://www.metmuseum.org/toah/hd/dsgn2/hd_dsgn2.htm",
-    "kind": "essay",
-    "paid": false,
-    "why": "Wider design context of the period"
    },
    {
     "site": "V&A",
@@ -1115,22 +971,6 @@
     "why": "Clear definition, key figures, regional variants"
    },
    {
-    "site": "Smarthistory",
-    "title": "Art Nouveau",
-    "url": "https://smarthistory.org/art-nouveau/",
-    "kind": "overview",
-    "paid": false,
-    "why": "Student-friendly introduction with examples"
-   },
-   {
-    "site": "The Metropolitan Museum of Art",
-    "title": "Art Nouveau",
-    "url": "https://www.metmuseum.org/essays/art-nouveau",
-    "kind": "essay",
-    "paid": false,
-    "why": "Museum essay on the movement and its design"
-   },
-   {
     "site": "V&A",
     "title": "Art Nouveau",
     "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
@@ -1185,14 +1025,6 @@
     "kind": "museum",
     "paid": false,
     "why": "Why Horta's townhouses are World Heritage"
-   },
-   {
-    "site": "Council of Europe",
-    "title": "Réseau Art Nouveau Network",
-    "url": "https://www.coe.int/en/web/cultural-routes/reseau-art-nouveau-network",
-    "kind": "museum",
-    "paid": false,
-    "why": "European cities that preserve Art Nouveau"
    },
    {
     "site": "Britannica",
@@ -1272,14 +1104,6 @@
     "why": "Intellectual history of the movement"
    },
    {
-    "site": "Places Journal",
-    "title": "Regionalism Revisited: The Case of Francisco Artigas",
-    "url": "https://placesjournal.org/article/regionalism-revisited-the-case-of-francisco-artigas/",
-    "kind": "essay",
-    "paid": false,
-    "why": "A critique from Mexico"
-   },
-   {
     "site": "Metropolis",
     "title": "Can Local Architecture Help Cure the Ills of Globalism?",
     "url": "https://metropolismag.com/viewpoints/can-local-architecture-help-cure-the-ills-of-globalism/",
@@ -1288,44 +1112,12 @@
     "why": "Regionalism's relevance today"
    },
    {
-    "site": "The Architect's Newspaper",
-    "title": "Regionalism Now",
-    "url": "https://www.archpaper.com/2012/04/regionalism-now/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Contemporary regional practice"
-   },
-   {
-    "site": "OASE Journal",
-    "title": "Towards a Critical Regionalism",
-    "url": "https://oasejournal.nl/en/Issues/103/TowardsaCriticalRegionalism",
-    "kind": "essay",
-    "paid": false,
-    "why": "Frampton's 1983 essay revisited"
-   },
-   {
-    "site": "OASE Journal",
-    "title": "A Conversation with Kenneth Frampton",
-    "url": "https://oasejournal.nl/en/Issues/103/AConversationwithKennethFrampton",
-    "kind": "interview",
-    "paid": false,
-    "why": "Frampton on his own idea"
-   },
-   {
     "site": "Canadian Centre for Architecture",
     "title": "Critical regionalism (1983), Kenneth Frampton fonds",
     "url": "https://www.cca.qc.ca/en/archives/470921/kenneth-frampton-fonds/479679/works-and-teaching/479689/critical-regionalism-1983",
     "kind": "museum",
     "paid": false,
     "why": "Archive material behind the essay"
-   },
-   {
-    "site": "Domus",
-    "title": "Kenneth Frampton's critical regionalism put in practice",
-    "url": "https://www.domusweb.it/en/architecture/gallery/2020/09/30/slanted-house-the-installation-emphasizing-the-relation-between-house-and-landscape.html",
-    "kind": "news",
-    "paid": false,
-    "why": "The theory shown in a built example"
    },
    {
     "site": "JSTOR / UCL Press",
@@ -1373,44 +1165,12 @@
   "key": "hub:type:museums",
   "links": [
    {
-    "site": "Smarthistory",
-    "title": "A brief history of the art museum",
-    "url": "https://smarthistory.org/a-brief-history-of-the-art-museum/",
-    "kind": "overview",
-    "paid": false,
-    "why": "How museum buildings evolved"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "Understanding Museums",
-    "url": "https://smarthistory.org/curated-guide/understanding-museums/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Curated reading on museums"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "How museums shape meaning",
-    "url": "https://smarthistory.org/how-museums-shape-meaning/",
-    "kind": "essay",
-    "paid": false,
-    "why": "What the building does to the art"
-   },
-   {
     "site": "Britannica",
     "title": "Museum: structure and operations",
     "url": "https://www.britannica.com/topic/museum-cultural-institution/Museum-structure-and-operations",
     "kind": "overview",
     "paid": false,
     "why": "Building types and the debate over display"
-   },
-   {
-    "site": "DETAIL",
-    "title": "Museum typology: an outline of architectural history",
-    "url": "https://www.detail.de/de_en/museum-typology-an-outline-of-architectural-history-14969",
-    "kind": "essay",
-    "paid": false,
-    "why": "Museum design from Renaissance to today"
    },
    {
     "site": "Dezeen",
@@ -1475,6 +1235,22 @@
     "kind": "overview",
     "paid": false,
     "why": "Reference with notable museums"
+   },
+   {
+    "site": "The Spectator",
+    "title": "The Bilbao effect",
+    "url": "https://spectator.com/article/the-bilbao-effect/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Jonathan Meades on the icon-museum idea"
+   },
+   {
+    "site": "De Gruyter",
+    "title": "The Museum as a Building Type",
+    "url": "https://bdt.degruyter.com/?p=18878",
+    "kind": "essay",
+    "paid": false,
+    "why": "Historical survey of the museum as a type"
    }
   ]
  },
@@ -1623,14 +1399,6 @@
     "why": "Libraries seen as interiors"
    },
    {
-    "site": "Places Journal",
-    "title": "Library as Infrastructure",
-    "url": "https://placesjournal.org/article/library-as-infrastructure/",
-    "kind": "essay",
-    "paid": false,
-    "why": "The library as public infrastructure"
-   },
-   {
     "site": "Metropolis",
     "title": "The Unexpected Renaissance of the Public Library",
     "url": "https://metropolismag.com/projects/unexpected-renaissance-public-library/",
@@ -1653,14 +1421,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Public libraries as civic buildings"
-   },
-   {
-    "site": "The Architect's Newspaper",
-    "title": "Five architecture teams on the library of the future",
-    "url": "https://www.archpaper.com/2014/12/five-architecture-teams-get-way-library-future-will-look-lot-different-today/",
-    "kind": "news",
-    "paid": false,
-    "why": "Designers imagine the future library"
    },
    {
     "site": "Smithsonian Magazine",
@@ -1756,14 +1516,6 @@
     "why": "MoMA's survey of exposition buildings"
    },
    {
-    "site": "Smarthistory",
-    "title": "The World's Columbian Exposition: Introduction",
-    "url": "https://smarthistory.org/worlds-columbian-exposition-intro/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Architecture of a great world's fair"
-   },
-   {
     "site": "La Biennale di Venezia",
     "title": "Giardini della Biennale",
     "url": "https://www.labiennale.org/en/venues/giardini-della-biennale",
@@ -1857,30 +1609,6 @@
     "why": "The case for preserving mass housing"
    },
    {
-    "site": "Places Journal",
-    "title": "The Social Project: Public Housing in Postwar France",
-    "url": "https://placesjournal.org/article/the-social-project/",
-    "kind": "essay",
-    "paid": false,
-    "why": "French grands ensembles explained"
-   },
-   {
-    "site": "Places Journal",
-    "title": "The Modern Urbanism of Cook's Camden",
-    "url": "https://placesjournal.org/article/the-modern-urbanism-of-cooks-camden/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Camden's council housing programme"
-   },
-   {
-    "site": "Places Journal",
-    "title": "Socialism and Nationalism on the Danube",
-    "url": "https://placesjournal.org/article/socialism-and-nationalism-on-the-danube/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Housing, politics and Red Vienna"
-   },
-   {
     "site": "YouTube",
     "title": "Peter Barber: Reimagining Social Housing (John T. Dunlop Lecture)",
     "url": "https://www.youtube.com/watch?v=1BgUe9z2ARM",
@@ -1903,14 +1631,6 @@
     "kind": "video",
     "paid": false,
     "why": "Dezeen talk on housing worldwide"
-   },
-   {
-    "site": "YouTube",
-    "title": "Rich concepts for the poor: Social housing in the Netherlands",
-    "url": "https://www.youtube.com/watch?v=p_1jM5-mJGk",
-    "kind": "video",
-    "paid": false,
-    "why": "Dutch housing and urban development"
    },
    {
     "site": "Wikipedia",
@@ -1948,14 +1668,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Eight key Islamic buildings"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "Common types of mosque architecture",
-    "url": "https://smarthistory.org/common-types-of-mosque-architecture/",
-    "kind": "overview",
-    "paid": false,
-    "why": "Hypostyle, iwan and dome mosques"
    },
    {
     "site": "Dezeen",
@@ -2027,14 +1739,6 @@
     "why": "Quick history of school building design"
    },
    {
-    "site": "Smarthistory",
-    "title": "The Bauhaus, an introduction",
-    "url": "https://smarthistory.org/the-bauhaus-an-introduction/",
-    "kind": "overview",
-    "paid": false,
-    "why": "The school that reshaped design education"
-   },
-   {
     "site": "V&A",
     "title": "Modernist architecture: the Bauhaus and beyond",
     "url": "https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond",
@@ -2057,14 +1761,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Two centuries of school design, summarised"
-   },
-   {
-    "site": "RIBA",
-    "title": "RIBA Better Spaces for Learning report",
-    "url": "https://www.architecture.com/knowledge-and-resources/resources-landing-page/better-spaces-for-learning",
-    "kind": "essay",
-    "paid": false,
-    "why": "Why good school design matters"
    },
    {
     "site": "Wallpaper*",
@@ -2099,14 +1795,6 @@
     "why": "More school projects and articles"
    },
    {
-    "site": "Smarthistory",
-    "title": "The Bauhaus and Bau",
-    "url": "https://smarthistory.org/the-bauhaus-and-bau/",
-    "kind": "essay",
-    "paid": false,
-    "why": "How Bauhaus taught building"
-   },
-   {
     "site": "Wallpaper*",
     "title": "What is Bauhaus? Everything you need to know",
     "url": "https://www.wallpaper.com/architecture/what-is-bauhaus",
@@ -2129,14 +1817,6 @@
     "kind": "news",
     "paid": false,
     "why": "Current best UK school projects"
-   },
-   {
-    "site": "Places Journal",
-    "title": "Campus Design as Critical Practice",
-    "url": "https://placesjournal.org/article/campus-design-as-critical-practice/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Rethinking what a campus can do"
    },
    {
     "site": "ArchDaily",
@@ -2163,28 +1843,12 @@
     "why": "Twelve university buildings, by material"
    },
    {
-    "site": "Smarthistory",
-    "title": "Thomas Jefferson, Rotunda, University of Virginia",
-    "url": "https://smarthistory.org/jefferson-rotunda-uvirginia/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Jefferson's academical village"
-   },
-   {
     "site": "National Park Service",
     "title": "The Olmsted Firm: College Campuses",
     "url": "https://www.nps.gov/articles/000/olmsted-college-campuses.htm",
     "kind": "essay",
     "paid": false,
     "why": "How Olmsted planned US campuses"
-   },
-   {
-    "site": "Canadian Architect",
-    "title": "University of Toronto: An Architectural Tour",
-    "url": "https://www.canadianarchitect.com/university-of-toronto-an-architectural-tour/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Walking tour of a historic campus"
    }
   ]
  },
@@ -2206,14 +1870,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Eight memorials and how they work"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "Maya Lin, Vietnam Veterans Memorial",
-    "url": "https://smarthistory.org/maya-lin-vietnam-veterans-memorial/",
-    "kind": "essay",
-    "paid": false,
-    "why": "The memorial that changed the genre"
    },
    {
     "site": "Smithsonian Magazine",
@@ -2349,14 +2005,6 @@
     "why": "Lloyd's, Pompidou-era high-tech London"
    },
    {
-    "site": "Historic England",
-    "title": "The City of London - Local Heritage Hub",
-    "url": "https://historicengland.org.uk/local/locations/the-city-of-london/",
-    "kind": "overview",
-    "paid": false,
-    "why": "Heritage history of the City"
-   },
-   {
     "site": "ArchDaily",
     "title": "Brutalist London",
     "url": "https://www.archdaily.com/1040840/brutalist-london",
@@ -2490,14 +2138,6 @@
     "why": "Short tour of key landmarks"
    },
    {
-    "site": "The Metropolitan Museum of Art",
-    "title": "Glimpses of Old New York",
-    "url": "https://www.metmuseum.org/perspectives/old-new-york",
-    "kind": "essay",
-    "paid": false,
-    "why": "Early 19th-century New York building"
-   },
-   {
     "site": "Wallpaper*",
     "title": "'Never Built New York' imagines a city that never was",
     "url": "https://www.wallpaper.com/architecture/parallel-universe-a-new-book-charts-new-yorks-unbuilt-history",
@@ -2621,22 +2261,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Downtown highlights in one list"
-   },
-   {
-    "site": "Art Institute of Chicago",
-    "title": "Researching a Chicago Building",
-    "url": "https://www.artic.edu/research-center/research-guides/researching-a-chicago-building",
-    "kind": "museum",
-    "paid": false,
-    "why": "Archives and books for Chicago buildings"
-   },
-   {
-    "site": "Art Institute of Chicago",
-    "title": "Chicago Commercial, Residential, and Landscape Architecture, Pre-WWII",
-    "url": "https://www.artic.edu/archival-collections/finding-aids/chicago-commercial-residential-and-landscape-architecture-pre-wwii",
-    "kind": "museum",
-    "paid": false,
-    "why": "Archive of early Chicago drawings"
    },
    {
     "site": "Docomomo US",
@@ -2793,14 +2417,6 @@
     "why": "Critical look at Berlin Brutalism"
    },
    {
-    "site": "Places Journal",
-    "title": "Berlin: The Art of Reunification",
-    "url": "https://placesjournal.org/article/berlin-the-art-of-reunification/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Memory and building after reunification"
-   },
-   {
     "site": "Wallpaper*",
     "title": "Mapped out: explore the streets of Berlin through Bauhaus and brutalism",
     "url": "https://www.wallpaper.com/architecture/modernist-map-exploring-berlin-through-bauhaus-and-brutalism",
@@ -2878,14 +2494,6 @@
     "why": "Official list of Tokyo highlights"
    },
    {
-    "site": "Places Journal",
-    "title": "Liquid Cities: Metabolism and the Dematerialization of Architecture",
-    "url": "https://placesjournal.org/article/liquid-cities/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Metabolism, Tange and Tokyo planning"
-   },
-   {
     "site": "Wallpaper*",
     "title": "Why Japanese metabolism is architecture's raddest movement",
     "url": "https://www.wallpaper.com/architecture/japanese-metabolism",
@@ -2916,14 +2524,6 @@
     "kind": "museum",
     "paid": false,
     "why": "MoMA show on Tokyo's transformation"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "Showa period",
-    "url": "https://smarthistory.org/showa-period/",
-    "kind": "overview",
-    "paid": false,
-    "why": "Postwar Japanese art and architecture"
    },
    {
     "site": "Wallpaper*",
@@ -2993,14 +2593,6 @@
     "kind": "museum",
     "paid": false,
     "why": "Gaudí's World Heritage works, illustrated"
-   },
-   {
-    "site": "The Metropolitan Museum of Art",
-    "title": "Barcelona and Modernity",
-    "url": "https://www.metmuseum.org/exhibitions/listings/2007/barcelona-and-modernity",
-    "kind": "museum",
-    "paid": false,
-    "why": "Exhibition on Gaudí to Dalí"
    },
    {
     "site": "Smithsonian Magazine",
@@ -3301,14 +2893,6 @@
     "why": "Short talk linking reuse to Jane Jacobs"
    },
    {
-    "site": "MDPI Architecture",
-    "title": "Notes towards a definition of adaptive reuse (Sally Stone)",
-    "url": "https://www.mdpi.com/2673-8945/3/3/26",
-    "kind": "essay",
-    "paid": false,
-    "why": "Scholarly history of the term"
-   },
-   {
     "site": "Wikipedia",
     "title": "Adaptive reuse",
     "url": "https://en.wikipedia.org/wiki/Adaptive_reuse",
@@ -3423,30 +3007,6 @@
     "why": "The Roman atrium and its descendants"
    },
    {
-    "site": "The Metropolitan Museum of Art",
-    "title": "Roman Housing",
-    "url": "https://www.metmuseum.org/essays/roman-housing",
-    "kind": "essay",
-    "paid": false,
-    "why": "Atrium and peristyle in Roman houses"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "Roman domestic architecture: the domus",
-    "url": "https://smarthistory.org/roman-domestic-architecture-domus/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Courtyard living in ancient Rome"
-   },
-   {
-    "site": "Google Arts & Culture",
-    "title": "Siheyuan",
-    "url": "https://artsandculture.google.com/entity/siheyuan/m06lhhy?hl=en",
-    "kind": "museum",
-    "paid": false,
-    "why": "Beijing's courtyard house type"
-   },
-   {
     "site": "Dezeen",
     "title": "Courtyards in architecture",
     "url": "https://www.dezeen.com/tag/courtyards/",
@@ -3485,14 +3045,6 @@
     "kind": "essay",
     "paid": false,
     "why": "The courtyard as a city-scale idea"
-   },
-   {
-    "site": "Domus",
-    "title": "Beijing. A brick courtyard house between modernity and tradition",
-    "url": "https://www.domusweb.it/en/architecture/2018/07/23/beijing-a-brick-courtyard-house-between-modernity-and-tradition.html",
-    "kind": "essay",
-    "paid": false,
-    "why": "A modern take on the siheyuan"
    },
    {
     "site": "Britannica",
@@ -3578,22 +3130,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Where Le Corbusier first tried the brise-soleil"
-   },
-   {
-    "site": "Smarthistory",
-    "title": "International Style architecture in Mexico and Brazil",
-    "url": "https://smarthistory.org/international-style-architecture-mexico-brazil/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Brise-soleil in Latin American modernism"
-   },
-   {
-    "site": "Fondation Le Corbusier",
-    "title": "City of Chandigarh, India, 1950-1965",
-    "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-city-of-chandigarh-india-1950-1965/",
-    "kind": "museum",
-    "paid": false,
-    "why": "Sun control in Le Corbusier's Indian city"
    },
    {
     "site": "Google Arts & Culture",
@@ -3695,14 +3231,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Books to read on timber building"
-   },
-   {
-    "site": "ICE",
-    "title": "Weald and Downland Gridshell: Timber Engineering Marvel",
-    "url": "https://ice.org.uk/what-is-civil-engineering/what-do-civil-engineers-do/the-weald-and-downland-gridshell",
-    "kind": "essay",
-    "paid": false,
-    "why": "Timber gridshell engineering explained"
    },
    {
     "site": "Wikipedia",
