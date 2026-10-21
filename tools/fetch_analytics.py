@@ -5,6 +5,9 @@ Run daily by .github/workflows/analytics.yml (needs the GOATCOUNTER_TOKEN secret
 Writes, into --out:
   daily.csv    day,visits  one row per day, grows over time (old days are kept, recent days refreshed)
   signups.csv  day,signups FGA Studio waitlist sign-ups per day (the GoatCounter event studio/signup; no emails)
+  events.csv   day,path,count  the FGA Studio page and its events (studio/ai-button, studio/ai-link, studio/signup,
+               studio/details), the map (map/open) and the game (/play, play/...), per day. Fetched on their own,
+               because latest.json keeps only the 100 busiest paths and the many opened buildings can push these out
   latest.json  the last 30 days: pages, referrers, browsers, systems, locations, screen sizes, languages
 Fails loudly (non-zero exit) on any problem, so a broken job is never mistaken for "no visitors".
 
@@ -90,6 +93,43 @@ def signups(out, start, end, event='studio/signup'):
     print('Waitlist sign-ups:', sum(days.values()), 'in the last 90 days')
 
 
+EVENT_PREFIXES = ('/studio', 'studio/', 'map/', '/play', 'play/')
+
+
+def events(out, start, end):
+    """Per-day counts for the studio page and the map and game events, kept like daily.csv (old days stay, recent days
+    refresh). GoatCounter's filter matches titles too, so only paths that start with EVENT_PREFIXES are kept. Warns on failure."""
+    days = {}
+    for f in ('studio', 'map/', 'play'):
+        try:
+            time.sleep(1)
+            data = get('stats/hits', attempts=2, timeout=25, waits=(20,), start=start, end=end, filter=f, daily='true', limit=50)
+        except SystemExit as e:
+            print(f'::warning::{f} events could not be fetched ({e}); keeping the numbers saved earlier')
+            return
+        for h in data.get('hits') or []:
+            if not (h.get('path') or '').startswith(EVENT_PREFIXES):
+                continue
+            for d in h.get('stats') or []:
+                if d.get('day') and day_visits(d):
+                    days[(d['day'][:10], h['path'])] = day_visits(d)
+    path = os.path.join(out, 'events.csv')
+    old = {}
+    if os.path.exists(path):
+        with open(path, newline='') as f:
+            old = {(r['day'], r['path']): int(r['count']) for r in csv.DictReader(f)}
+    old.update(days)
+    with open(path, 'w', newline='') as f:
+        w = csv.writer(f)
+        w.writerow(['day', 'path', 'count'])
+        for k in sorted(old):
+            w.writerow([k[0], k[1], old[k]])
+    totals = {}
+    for (d, p), n in days.items():
+        totals[p] = totals.get(p, 0) + n
+    print('Studio, map and game, last 90 days:', ', '.join(f'{p}={n}' for p, n in sorted(totals.items())) or 'none yet')
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--out', required=True)
@@ -122,6 +162,7 @@ def main():
             w.writerow([d, old[d]])
 
     signups(args.out, stamp(today - dt.timedelta(days=89)), until)
+    events(args.out, stamp(today - dt.timedelta(days=89)), until)
 
     # The last 30 days, broken down.
     window = {'start': stamp(today - dt.timedelta(days=29)), 'end': until}

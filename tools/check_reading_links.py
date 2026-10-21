@@ -21,7 +21,10 @@ UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML
 BLOCKS_BOTS = ('nytimes.com', 'newyorker.com', 'ft.com', 'wsj.com', 'theatlantic.com', 'economist.com',
                'architectural-review.com', 'architectsjournal.co.uk', 'dezeen.com', 'archdaily.com', 'domusweb.it',
                'architecturaldigest.com', 'wallpaper.com', 'theguardian.com', 'bbc.com', 'washingtonpost.com',
-               'bloomberg.com', 'vogue.com', 'smithsonianmag.com', 'britannica.com', 'jstor.org', 'tandfonline.com')
+               'bloomberg.com', 'vogue.com', 'smithsonianmag.com', 'britannica.com', 'jstor.org', 'tandfonline.com',
+               'placesjournal.org', 'smarthistory.org', 'metmuseum.org', 'moma.org', 'tate.org.uk', 'vam.ac.uk',
+               'getty.edu', 'guggenheim.org', 'cca.qc.ca', 'architecture.com', 'ribaj.com', 'architecturalrecord.com',
+               'designboom.com', 'metropolismag.com', 'wallpaper.com', 'icon.co.uk', 'artsandculture.google.com')
 
 
 def host(url):

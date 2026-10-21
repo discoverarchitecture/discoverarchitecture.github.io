@@ -18,13 +18,13 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
-      - name: Check every candidate file on this branch
+      # Only this branch's own group (claude/reading-<group>): branches merge main, which carries the other groups'
+      # candidate files, and re-checking those would rewrite lists that were already reviewed and merged.
+      - name: Check this branch's candidate file
         run: |
-          for f in tools/reading/candidates_*.json; do
-            [ -e "$f" ] || continue
-            g=$(basename "$f" .json); g=${g#candidates_}
-            python3 tools/check_reading_links.py --group "$g"
-          done
+          g="${GITHUB_REF_NAME#claude/reading-}"
+          if [ ! -e "tools/reading/candidates_$g.json" ]; then echo "No tools/reading/candidates_$g.json on this branch."; exit 0; fi
+          python3 tools/check_reading_links.py --group "$g"
       - name: Commit results
         run: |
           git add tools/reading
