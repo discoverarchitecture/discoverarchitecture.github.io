@@ -68,7 +68,9 @@ STYLER = ('<div class="styler" id="styler"><div class="st-btns">' + ''.join(f'<b
           + '</div><div class="st-board">' + ''.join(board(f'data-layout="{k}"' + ('' if k == HERO else ' hidden'), True, k) for k, n in STYLES) + '</div></div>')
 FORMATS = ''.join(f'<li class="fm {c}"><span class="fr"></span><b>{t}</b><small>{s}</small>{"<em>Later</em>" if later else ""}</li>' for c, t, s, later in [
     ('a1', 'A1 board', '594 × 841 mm', 0), ('a0', 'A0 board', '841 × 1189 mm', 0), ('arch', '24 × 36 in', 'ARCH D', 0), ('ppt', 'Slide deck', '16:9 PowerPoint', 0), ('sq', 'Square', 'for Instagram', 1), ('web', 'Web deck', 'a link to share', 1)])
-FAQ = [('Which formats can I make?', 'An A1, A0 or 24 × 36 in board, or a slide deck. Square posts and a web deck come later. You can switch before you export.'),
+FAQ = [('How do I lay out an architecture presentation board?', 'Decide the two to four ideas the board must explain, then let one strong image lead and give every other drawing a job: a plan, a section or a diagram that proves one idea. Keep a clear reading order, plans and sections at stated scales, short captions and plenty of white space. FGA Studio plans this story with you and lays it out on a grid you can still change.'),
+       ('What size is an architecture presentation board?', 'Usually A1 (594 × 841 mm) in the UK, Europe, India and Australia, and 24 × 36 in (ARCH D) in the US; some schools ask for A0 (841 × 1189 mm) at final reviews. Check your studio brief. FGA Studio makes all three and a 16:9 slide deck.'),
+       ('Which formats can I make?', 'An A1, A0 or 24 × 36 in board, or a slide deck. Square posts and a web deck come later. You can switch before you export.'),
        ('How much does it cost?', 'You pay per use with credits; there is no subscription. A quick board takes a few credits; more diagrams and image touch-ups take more. Credit packs are priced by country. You see a free, watermarked preview before you pay anything.'),
        ('Does it work with PowerPoint and Canva?', 'Yes. You get an editable PowerPoint file: a whole A1 board sits on one slide, and it opens in PowerPoint, Keynote, Google Slides and Canva. You also get a print-ready PDF.'),
        ('Is it allowed for my coursework?', 'It lays out your drawings and draws the ideas you point to; the design and the thinking are yours. Words are written only from your own brief. Check your school’s rules on AI tools, and say you used it if they ask.'),
@@ -102,8 +104,8 @@ SKIP = '''<section class="sec skip"><p class="kick">Who it’s for</p><h2>Your h
 def page(d):
     headline = {'A': 'Design the building.<br><span class="hl">Skip the</span> <span class="hl2">all-nighter.</span>',
                 'B': 'You design.<br><span class="lit">It presents.</span>'}[d]
-    eyebrow = 'Professional-grade jury boards from your own drawings'
-    lede = 'Upload your plans, sections, renders and sketches and name the ideas your board must explain. Get a professional-grade jury board and deck you can still edit, without the nights in InDesign and Photoshop.'
+    eyebrow = 'Architecture presentation boards from your own drawings'
+    lede = 'Upload your plans, sections, renders and sketches and name the ideas your board must explain. Get a professional-grade presentation board for your jury or crit, and a deck you can still edit, without the nights in InDesign and Photoshop.'
     words = ['pin-up', 'jury board', 'crit', 'jury sheets', 'final review', 'láminas', 'pranchas'] * 4
     marquee = '<div class="marquee" aria-hidden="true"><div>' + ''.join(f'<span>{w}</span><i>✦</i>' for w in words) + '</div></div>'
     css = open(SP + f'style_{d}.css').read() + open(SP + 'style_common.css').read() + open(SP + 'draw2.css').read() + open(SP + 'board2.css').read()

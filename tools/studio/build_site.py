@@ -17,9 +17,10 @@ import gen  # noqa: E402  (builds the prototype too)
 
 BASE = 'https://findgreatarchitecture.com/'
 URL = BASE + 'studio/'
-TITLE = 'FGA Studio: AI jury board & presentation generator'
-DESC = ('You design, FGA Studio presents. Turn your plans, sections and renders into a professional-grade jury board '
-        'and an editable PowerPoint. Join the waitlist.')
+TITLE = 'AI architecture presentation board generator · FGA Studio'
+# Words students search in the US, UK and Europe: "architecture presentation board" (SEO strategy chat, 21 Oct 2026).
+DESC = ('Turn your plans, sections and renders into an A1 architecture presentation board and an editable PowerPoint '
+        'for your jury or crit. Join the waitlist.')
 
 
 def main():
@@ -34,7 +35,7 @@ def main():
     ld = {'@context': 'https://schema.org', '@type': 'WebPage', 'name': TITLE, 'description': DESC, 'url': URL,
           'isPartOf': {'@type': 'WebSite', 'name': 'Find Great Architecture', 'url': BASE},
           'about': {'@type': 'SoftwareApplication', 'name': 'FGA Studio', 'applicationCategory': 'DesignApplication', 'operatingSystem': 'Web',
-                    'description': 'An AI tool that turns architecture students’ drawings into an editable jury board and presentation.'}}
+                    'description': 'An AI tool that turns architecture students’ drawings into an editable architecture presentation board and slide deck.'}}
     head = (f'<title>{TITLE}</title>\n<meta name="description" content="{DESC}">\n<link rel="canonical" href="{URL}">\n'
             f'<meta property="og:type" content="website"><meta property="og:site_name" content="Find Great Architecture">'
             f'<meta property="og:title" content="{TITLE}"><meta property="og:description" content="{DESC}"><meta property="og:url" content="{URL}">'
