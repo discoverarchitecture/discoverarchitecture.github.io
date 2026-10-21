@@ -3080,6 +3080,22 @@
     "kind": "overview",
     "paid": false,
     "why": "Quick overview of the firm"
+   },
+   {
+    "site": "Gallery 400, UIC",
+    "title": "Nikken Sekkei: Its Ninety Years and the Modernization of Japan",
+    "url": "https://gallery400.uic.edu/exhibition/nikken-sekkei-its-ninety-years-and-the-modernization-of-japan/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Exhibition on the firm's history"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Sekkei: Nikken Sekkei, Building Future Japan 1900-2000",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/44786166",
+    "kind": "museum",
+    "paid": false,
+    "why": "Book on the firm's century"
    }
   ]
  },
@@ -5300,6 +5316,78 @@
     "kind": "guide",
     "paid": false,
     "why": "Articles and projects tagged Nishizawa"
+   },
+   {
+    "site": "Archilovers",
+    "title": "Ryue Nishizawa",
+    "url": "https://www.archilovers.com/ryue-nishizawa/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Profile and project list"
+   },
+   {
+    "site": "Reading Office",
+    "title": "Ryue Nishizawa",
+    "url": "https://readingoffice.com/ryue-nishizawa/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography and key works"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Ryue Nishizawa: Some Ideas on Living",
+    "url": "https://www.cca.qc.ca/en/events/2873/ryue-nishizawa-some-ideas-on-living",
+    "kind": "museum",
+    "paid": false,
+    "why": "His housing ideas, CCA talk"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "A propos de Ryue Nishizawa",
+    "url": "https://www.cca.qc.ca/perspectivesdevie/2008/05/a-propos-de-ryue-nishizawa/lang/en.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "CCA essay on his independent work"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Ryue Nishizawa",
+    "url": "https://metalocus.es/en/author/nishizawa",
+    "kind": "news",
+    "paid": false,
+    "why": "Articles on his projects"
+   },
+   {
+    "site": "Archeyes",
+    "title": "SANAA Profile",
+    "url": "https://archeyes.com/architects/sanaa-bibliography/",
+    "kind": "profile",
+    "paid": false,
+    "why": "SANAA bibliography and works"
+   },
+   {
+    "site": "Studio International",
+    "title": "Kazuyo Sejima Ryue Nishizawa SANAA",
+    "url": "https://www.studiointernational.com/kazuyo-sejima-ryue-nishizawa-sanaa",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical review of SANAA exhibition"
+   },
+   {
+    "site": "e-architect",
+    "title": "Danish Architecture Centre SANAA Exhibition",
+    "url": "https://e-architect.com/exhibitions/danish-architecture-centre-sanaa-exhibition",
+    "kind": "museum",
+    "paid": false,
+    "why": "SANAA exhibition overview"
+   },
+   {
+    "site": "Architecture Lab",
+    "title": "Ryue Nishizawa: Biography, Works, Awards",
+    "url": "https://www.architecturelab.net/architect/famous/ryue-nishizawa/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography, works and awards"
    }
   ]
  }
