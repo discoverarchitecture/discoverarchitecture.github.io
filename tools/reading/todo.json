@@ -1,0 +1,2065 @@
+{
+ "hubs": [
+  {
+   "key": "hub:style:brutalism",
+   "name": "Brutalist architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "https://en.wikipedia.org/wiki/New_Brutalism",
+    "https://en.wikipedia.org/wiki/List_of_Brutalist_structures",
+    "https://commons.wikimedia.org/wiki/Category:Brutalist_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:modernism",
+   "name": "Modernist architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Modern_architecture",
+    "https://en.wikipedia.org/wiki/International_Style_(architecture)",
+    "https://en.wikipedia.org/wiki/Bauhaus",
+    "https://en.wikipedia.org/wiki/Five_Points_of_Architecture",
+    "https://commons.wikimedia.org/wiki/Category:Modernist_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:contemporary",
+   "name": "Contemporary architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "https://en.wikipedia.org/wiki/Sustainable_architecture",
+    "https://en.wikipedia.org/wiki/Computer-aided_architectural_design",
+    "https://commons.wikimedia.org/wiki/Category:21st-century_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:deconstructivism",
+   "name": "Deconstructivist architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Deconstructivism",
+    "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao",
+    "https://commons.wikimedia.org/wiki/Category:Deconstructivism"
+   ]
+  },
+  {
+   "key": "hub:style:parametric",
+   "name": "Parametric architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Parametricism",
+    "https://en.wikipedia.org/wiki/Parametric_design",
+    "https://en.wikipedia.org/wiki/Computer-aided_architectural_design"
+   ]
+  },
+  {
+   "key": "hub:style:high-tech",
+   "name": "High-tech architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "https://en.wikipedia.org/wiki/Structural_expressionism",
+    "https://commons.wikimedia.org/wiki/Category:High-tech_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:postmodernism",
+   "name": "Postmodern architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "https://en.wikipedia.org/wiki/Postmodernism",
+    "https://commons.wikimedia.org/wiki/Category:Postmodern_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:art-deco",
+   "name": "Art Deco architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Art_Deco",
+    "https://en.wikipedia.org/wiki/Art_Deco_architecture_in_New_York_City",
+    "https://commons.wikimedia.org/wiki/Category:Art_Deco_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:art-nouveau",
+   "name": "Art Nouveau architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "https://en.wikipedia.org/wiki/Jugendstil",
+    "https://commons.wikimedia.org/wiki/Category:Art_Nouveau_architecture"
+   ]
+  },
+  {
+   "key": "hub:style:regionalism",
+   "name": "Critical regionalism in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "https://en.wikipedia.org/wiki/Vernacular_architecture"
+   ]
+  },
+  {
+   "key": "hub:type:museums",
+   "name": "Museum architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Museum",
+    "https://en.wikipedia.org/wiki/Museum_architecture",
+    "https://en.wikipedia.org/wiki/Art_museum"
+   ]
+  },
+  {
+   "key": "hub:type:houses",
+   "name": "Famous houses by architects",
+   "have": [
+    "https://en.wikipedia.org/wiki/House",
+    "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "https://en.wikipedia.org/wiki/Villa"
+   ]
+  },
+  {
+   "key": "hub:type:libraries",
+   "name": "Library architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Library",
+    "https://en.wikipedia.org/wiki/Public_library",
+    "https://en.wikipedia.org/wiki/Academic_library"
+   ]
+  },
+  {
+   "key": "hub:type:pavilions",
+   "name": "Pavilion architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Pavilion",
+    "https://en.wikipedia.org/wiki/Serpentine_Pavilion",
+    "https://en.wikipedia.org/wiki/World%27s_fair",
+    "https://en.wikipedia.org/wiki/Giardini_della_Biennale"
+   ]
+  },
+  {
+   "key": "hub:type:housing",
+   "name": "Housing architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Public_housing",
+    "https://en.wikipedia.org/wiki/Red_Vienna",
+    "https://en.wikipedia.org/wiki/Apartment",
+    "https://en.wikipedia.org/wiki/Pruitt%E2%80%93Igoe",
+    "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation"
+   ]
+  },
+  {
+   "key": "hub:type:religious-buildings",
+   "name": "Religious architecture: churches, mosques and temples",
+   "have": [
+    "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "https://en.wikipedia.org/wiki/Church_architecture",
+    "https://en.wikipedia.org/wiki/Mosque",
+    "https://en.wikipedia.org/wiki/Hindu_temple_architecture",
+    "https://en.wikipedia.org/wiki/Gothic_architecture"
+   ]
+  },
+  {
+   "key": "hub:type:schools-and-campuses",
+   "name": "School and campus architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/School_architecture",
+    "https://en.wikipedia.org/wiki/Campus",
+    "https://en.wikipedia.org/wiki/Bauhaus"
+   ]
+  },
+  {
+   "key": "hub:type:memorials",
+   "name": "Memorial architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Memorial",
+    "https://en.wikipedia.org/wiki/Mausoleum",
+    "https://en.wikipedia.org/wiki/Vietnam_Veterans_Memorial",
+    "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe"
+   ]
+  },
+  {
+   "key": "hub:city:london",
+   "name": "Architecture in London",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "https://en.wikipedia.org/wiki/John_Nash_(architect)",
+    "https://en.wikipedia.org/wiki/List_of_tallest_buildings_and_structures_in_London"
+   ]
+  },
+  {
+   "key": "hub:city:new-york",
+   "name": "Architecture in New York",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_New_York_City",
+    "https://en.wikipedia.org/wiki/Skyscraper",
+    "https://en.wikipedia.org/wiki/Art_Deco"
+   ]
+  },
+  {
+   "key": "hub:city:chicago",
+   "name": "Architecture in Chicago",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "https://en.wikipedia.org/wiki/Chicago_school_(architecture)",
+    "https://en.wikipedia.org/wiki/Great_Chicago_Fire",
+    "https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Chicago"
+   ]
+  },
+  {
+   "key": "hub:city:paris",
+   "name": "Architecture in Paris",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris",
+    "https://en.wikipedia.org/wiki/Centre_Pompidou"
+   ]
+  },
+  {
+   "key": "hub:city:berlin",
+   "name": "Architecture in Berlin",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_Berlin",
+    "https://en.wikipedia.org/wiki/Museum_Island",
+    "https://en.wikipedia.org/wiki/Berlin_Modernism_Housing_Estates",
+    "https://en.wikipedia.org/wiki/Karl-Marx-Allee",
+    "https://en.wikipedia.org/wiki/Hansaviertel"
+   ]
+  },
+  {
+   "key": "hub:city:tokyo",
+   "name": "Architecture in Tokyo",
+   "have": [
+    "https://en.wikipedia.org/wiki/Tokyo",
+    "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
+    "https://en.wikipedia.org/wiki/Architecture_of_Japan",
+    "https://en.wikipedia.org/wiki/Great_Kant%C5%8D_earthquake"
+   ]
+  },
+  {
+   "key": "hub:city:barcelona",
+   "name": "Architecture in Barcelona",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_Barcelona",
+    "https://en.wikipedia.org/wiki/Eixample",
+    "https://en.wikipedia.org/wiki/Catalan_modernism",
+    "https://en.wikipedia.org/wiki/Gothic_Quarter,_Barcelona",
+    "https://en.wikipedia.org/wiki/Barcelona_Pavilion"
+   ]
+  },
+  {
+   "key": "hub:city:los-angeles",
+   "name": "Architecture in Los Angeles",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture_of_Los_Angeles",
+    "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "https://en.wikipedia.org/wiki/Googie_architecture",
+    "https://en.wikipedia.org/wiki/Los_Angeles_Conservancy"
+   ]
+  },
+  {
+   "key": "hub:idea:adaptive-reuse",
+   "name": "Adaptive reuse in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "https://en.wikipedia.org/wiki/Historic_preservation",
+    "https://commons.wikimedia.org/wiki/Category:Adaptive_reuse"
+   ]
+  },
+  {
+   "key": "hub:idea:cantilever",
+   "name": "Cantilever in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Cantilever",
+    "https://en.wikipedia.org/wiki/Structural_engineering",
+    "https://commons.wikimedia.org/wiki/Category:Cantilevers"
+   ]
+  },
+  {
+   "key": "hub:idea:courtyard",
+   "name": "Courtyard in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Courtyard",
+    "https://en.wikipedia.org/wiki/Courtyard_house",
+    "https://en.wikipedia.org/wiki/Atrium_(architecture)"
+   ]
+  },
+  {
+   "key": "hub:idea:brise-soleil",
+   "name": "Brise-soleil in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Brise_soleil",
+    "https://commons.wikimedia.org/wiki/Category:Brise_soleil",
+    "https://en.wikipedia.org/wiki/Passive_solar_building_design"
+   ]
+  },
+  {
+   "key": "hub:idea:timber",
+   "name": "Timber in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Mass_timber",
+    "https://en.wikipedia.org/wiki/Cross-laminated_timber",
+    "https://en.wikipedia.org/wiki/Timber_framing"
+   ]
+  },
+  {
+   "key": "hub:idea:tensile-structures",
+   "name": "Tensile structures in architecture",
+   "have": [
+    "https://en.wikipedia.org/wiki/Tensile_structure",
+    "https://en.wikipedia.org/wiki/Fabric_structure",
+    "https://en.wikipedia.org/wiki/Frei_Otto"
+   ]
+  }
+ ],
+ "architects_01": [
+  {
+   "key": "architect:Norman Foster",
+   "name": "Norman Foster",
+   "have": [
+    "https://en.wikipedia.org/wiki/Norman_Foster",
+    "https://www.pritzkerprize.com/laureates/1999",
+    "https://www.fosterandpartners.com/projects",
+    "https://www.normanfosterfoundation.org/",
+    "https://www.archdaily.com/office/foster-plus-partners"
+   ]
+  },
+  {
+   "key": "architect:Renzo Piano",
+   "name": "Renzo Piano",
+   "have": [
+    "https://en.wikipedia.org/wiki/Renzo_Piano",
+    "https://www.pritzkerprize.com/laureates/1998",
+    "https://www.rpbw.com/",
+    "https://www.fondazionerenzopiano.org/",
+    "https://www.archdaily.com/office/renzo-piano-building-workshop"
+   ]
+  },
+  {
+   "key": "architect:Oscar Niemeyer",
+   "name": "Oscar Niemeyer",
+   "have": [
+    "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+    "https://www.pritzkerprize.com/laureates/1988-niemeyer",
+    "https://www.oscarniemeyer.org.br/",
+    "https://www.archdaily.com/office/oscar-niemeyer"
+   ]
+  },
+  {
+   "key": "architect:Zaha Hadid",
+   "name": "Zaha Hadid",
+   "have": [
+    "https://en.wikipedia.org/wiki/Zaha_Hadid",
+    "https://www.pritzkerprize.com/laureates/2004",
+    "https://www.zaha-hadid.com/",
+    "https://www.archdaily.com/office/zha"
+   ]
+  },
+  {
+   "key": "architect:Le Corbusier",
+   "name": "Le Corbusier",
+   "have": [
+    "https://en.wikipedia.org/wiki/Le_Corbusier",
+    "https://whc.unesco.org/en/list/1321",
+    "https://www.fondationlecorbusier.fr/",
+    "https://www.archdaily.com/office/le-corbusier"
+   ]
+  },
+  {
+   "key": "architect:Alvar Aalto",
+   "name": "Alvar Aalto",
+   "have": [
+    "https://en.wikipedia.org/wiki/Alvar_Aalto",
+    "https://www.alvaraalto.fi/en/",
+    "https://www.archdaily.com/office/alvar-aalto"
+   ]
+  },
+  {
+   "key": "architect:Frank Gehry",
+   "name": "Frank Gehry",
+   "have": [
+    "https://en.wikipedia.org/wiki/Frank_Gehry",
+    "https://www.pritzkerprize.com/laureates/1989",
+    "https://www.foga.com/",
+    "https://www.archdaily.com/office/gehry-partners"
+   ]
+  },
+  {
+   "key": "architect:Herzog & de Meuron",
+   "name": "Herzog & de Meuron",
+   "have": [
+    "https://en.wikipedia.org/wiki/Herzog_%26_de_Meuron",
+    "https://www.pritzkerprize.com/laureates/2001",
+    "https://www.archdaily.com/office/herzog-and-de-meuron"
+   ]
+  },
+  {
+   "key": "architect:OMA",
+   "name": "OMA",
+   "have": [
+    "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture",
+    "https://www.oma.com/projects",
+    "https://www.pritzkerprize.com/laureates/2000",
+    "https://www.archdaily.com/office/oma"
+   ]
+  },
+  {
+   "key": "architect:Glenn Murcutt",
+   "name": "Glenn Murcutt",
+   "have": [
+    "https://en.wikipedia.org/wiki/Glenn_Murcutt",
+    "https://www.pritzkerprize.com/laureates/2002",
+    "https://www.ozetecture.org/glenn-murcutt-profile",
+    "https://www.archdaily.com/770780/spotlight-glenn-murcutt"
+   ]
+  },
+  {
+   "key": "architect:I. M. Pei",
+   "name": "I. M. Pei",
+   "have": [
+    "https://en.wikipedia.org/wiki/I._M._Pei",
+    "https://www.pritzkerprize.com/laureates/1983",
+    "https://www.pcf-p.com/",
+    "https://www.archdaily.com/office/i-m-pei"
+   ]
+  },
+  {
+   "key": "architect:Tadao Ando",
+   "name": "Tadao Ando",
+   "have": [
+    "https://en.wikipedia.org/wiki/Tadao_Ando",
+    "https://www.pritzkerprize.com/laureates/1995",
+    "https://www.archdaily.com/office/tadao-ando-architect-and-associates"
+   ]
+  },
+  {
+   "key": "architect:Santiago Calatrava",
+   "name": "Santiago Calatrava",
+   "have": [
+    "https://en.wikipedia.org/wiki/Santiago_Calatrava",
+    "https://calatrava.com/projects.html",
+    "https://www.archdaily.com/office/santiago-calatrava"
+   ]
+  },
+  {
+   "key": "architect:Arata Isozaki",
+   "name": "Arata Isozaki",
+   "have": [
+    "https://en.wikipedia.org/wiki/Arata_Isozaki",
+    "https://www.pritzkerprize.com/laureates/arata-isozaki",
+    "https://www.isozaki.co.jp/",
+    "https://www.archdaily.com/office/arata-isozaki"
+   ]
+  },
+  {
+   "key": "architect:Frank Lloyd Wright",
+   "name": "Frank Lloyd Wright",
+   "have": [
+    "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright",
+    "https://franklloydwright.org/",
+    "https://whc.unesco.org/en/list/1496",
+    "https://www.archdaily.com/office/frank-lloyd-wright"
+   ]
+  },
+  {
+   "key": "architect:Kengo Kuma",
+   "name": "Kengo Kuma",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kengo_Kuma",
+    "https://kkaa.co.jp/en/projects/",
+    "https://www.archdaily.com/office/kengo-kuma-and-associates"
+   ]
+  },
+  {
+   "key": "architect:Jean Nouvel",
+   "name": "Jean Nouvel",
+   "have": [
+    "https://en.wikipedia.org/wiki/Jean_Nouvel",
+    "https://www.pritzkerprize.com/laureates/2008",
+    "https://www.jeannouvel.com/en/",
+    "https://www.archdaily.com/office/ateliers-jean-nouvel"
+   ]
+  },
+  {
+   "key": "architect:Kenzō Tange",
+   "name": "Kenzō Tange",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kenzō_Tange",
+    "https://www.pritzkerprize.com/laureates/1987",
+    "https://www.archdaily.com/office/kenzo-tange"
+   ]
+  },
+  {
+   "key": "architect:Toyo Ito",
+   "name": "Toyo Ito",
+   "have": [
+    "https://en.wikipedia.org/wiki/Toyo_Ito",
+    "https://www.pritzkerprize.com/laureates/2013",
+    "https://www.archdaily.com/office/toyo-ito-and-associates"
+   ]
+  },
+  {
+   "key": "architect:Philip Johnson",
+   "name": "Philip Johnson",
+   "have": [
+    "https://en.wikipedia.org/wiki/Philip_Johnson",
+    "https://www.pritzkerprize.com/laureates/1979",
+    "https://theglasshouse.org/",
+    "https://www.archdaily.com/office/philip-johnson"
+   ]
+  },
+  {
+   "key": "architect:Mies van der Rohe",
+   "name": "Mies van der Rohe",
+   "have": [
+    "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
+    "https://miesbcn.com/",
+    "https://www.archdaily.com/office/ludwig-mies-van-der-rohe"
+   ]
+  },
+  {
+   "key": "architect:SOM",
+   "name": "SOM",
+   "have": [
+    "https://en.wikipedia.org/wiki/SOM_(architectural_firm)",
+    "https://www.som.com/projects/",
+    "https://www.archdaily.com/office/skidmore-owings-and-merrill"
+   ]
+  },
+  {
+   "key": "architect:Álvaro Siza",
+   "name": "Álvaro Siza",
+   "have": [
+    "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
+    "https://www.pritzkerprize.com/laureates/1992",
+    "https://www.cca.qc.ca/en/archives/408056/alvaro-siza-archive",
+    "https://www.archdaily.com/office/alvaro-siza-vieira"
+   ]
+  },
+  {
+   "key": "architect:Moshe Safdie",
+   "name": "Moshe Safdie",
+   "have": [
+    "https://en.wikipedia.org/wiki/Moshe_Safdie",
+    "https://www.safdiearchitects.com/projects",
+    "https://www.archdaily.com/office/safdie-architects"
+   ]
+  },
+  {
+   "key": "architect:Fumihiko Maki",
+   "name": "Fumihiko Maki",
+   "have": [
+    "https://en.wikipedia.org/wiki/Fumihiko_Maki",
+    "https://www.pritzkerprize.com/laureates/1993",
+    "https://www.maki-and-associates.co.jp/",
+    "https://www.archdaily.com/office/maki-and-associates"
+   ]
+  },
+  {
+   "key": "architect:Kisho Kurokawa",
+   "name": "Kisho Kurokawa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kisho_Kurokawa",
+    "https://www.archdaily.com/office/kisho-kurokawa",
+    "https://www.archdaily.com/tag/kisho-kurokawa"
+   ]
+  },
+  {
+   "key": "architect:Louis Kahn",
+   "name": "Louis Kahn",
+   "have": [
+    "https://en.wikipedia.org/wiki/Louis_Kahn",
+    "https://www.archdaily.com/office/louis-kahn",
+    "https://www.archdaily.com/tag/louis-kahn"
+   ]
+  },
+  {
+   "key": "architect:Richard Meier",
+   "name": "Richard Meier",
+   "have": [
+    "https://en.wikipedia.org/wiki/Richard_Meier",
+    "https://www.pritzkerprize.com/laureates/1984",
+    "https://www.archdaily.com/office/richard-meier-and-partners"
+   ]
+  },
+  {
+   "key": "architect:Shigeru Ban",
+   "name": "Shigeru Ban",
+   "have": [
+    "https://en.wikipedia.org/wiki/Shigeru_Ban",
+    "https://www.pritzkerprize.com/laureates/2014",
+    "https://shigerubanarchitects.com/works/",
+    "https://www.archdaily.com/office/shigeru-ban-architects"
+   ]
+  },
+  {
+   "key": "architect:David Chipperfield",
+   "name": "David Chipperfield",
+   "have": [
+    "https://en.wikipedia.org/wiki/David_Chipperfield",
+    "https://davidchipperfield.com/projects",
+    "https://www.archdaily.com/office/david-chipperfield-architects"
+   ]
+  },
+  {
+   "key": "architect:Eero Saarinen",
+   "name": "Eero Saarinen",
+   "have": [
+    "https://en.wikipedia.org/wiki/Eero_Saarinen",
+    "https://www.archdaily.com/office/eero-saarinen",
+    "https://www.archdaily.com/tag/eero-saarinen"
+   ]
+  },
+  {
+   "key": "architect:Kunio Maekawa",
+   "name": "Kunio Maekawa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kunio_Maekawa",
+    "https://archipelvzw.be/en/archief/architecten/kunio-maekawa"
+   ]
+  },
+  {
+   "key": "architect:Marcel Breuer",
+   "name": "Marcel Breuer",
+   "have": [
+    "https://en.wikipedia.org/wiki/Marcel_Breuer",
+    "https://breuer.syr.edu/",
+    "https://www.archdaily.com/office/marcel-breuer"
+   ]
+  },
+  {
+   "key": "architect:Mario Botta",
+   "name": "Mario Botta",
+   "have": [
+    "https://en.wikipedia.org/wiki/Mario_Botta",
+    "https://www.botta.ch/",
+    "https://www.archdaily.com/office/mario-botta"
+   ]
+  },
+  {
+   "key": "architect:Richard Rogers",
+   "name": "Richard Rogers",
+   "have": [
+    "https://en.wikipedia.org/wiki/Richard_Rogers",
+    "https://www.pritzkerprize.com/laureates/2007",
+    "https://www.archdaily.com/office/rogers-stirk-harbour-plus-partners"
+   ]
+  },
+  {
+   "key": "architect:Antoni Gaudí",
+   "name": "Antoni Gaudí",
+   "have": [
+    "https://en.wikipedia.org/wiki/Antoni_Gaudí",
+    "https://whc.unesco.org/en/list/320",
+    "https://sagradafamilia.org/en/",
+    "https://www.archdaily.com/office/antoni-gaudi"
+   ]
+  },
+  {
+   "key": "architect:BIG",
+   "name": "BIG",
+   "have": [
+    "https://en.wikipedia.org/wiki/Bjarke_Ingels_Group",
+    "https://big.dk/",
+    "https://www.archdaily.com/office/big-bjarke-ingels-group"
+   ]
+  },
+  {
+   "key": "architect:Charles Correa",
+   "name": "Charles Correa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Charles_Correa",
+    "https://charlescorreafoundation.org/",
+    "https://www.archdaily.com/office/charles-correa"
+   ]
+  },
+  {
+   "key": "architect:Daniel Libeskind",
+   "name": "Daniel Libeskind",
+   "have": [
+    "https://en.wikipedia.org/wiki/Daniel_Libeskind",
+    "https://libeskind.com/work/",
+    "https://www.archdaily.com/office/studio-daniel-libeskind"
+   ]
+  },
+  {
+   "key": "architect:Gordon Bunshaft",
+   "name": "Gordon Bunshaft",
+   "have": [
+    "https://en.wikipedia.org/wiki/Gordon_Bunshaft",
+    "https://www.pritzkerprize.com/laureates/1988-bunshaft",
+    "https://www.archdaily.com/tag/gordon-bunshaft"
+   ]
+  },
+  {
+   "key": "architect:Henry Hobson Richardson",
+   "name": "Henry Hobson Richardson",
+   "have": [
+    "https://en.wikipedia.org/wiki/Henry_Hobson_Richardson",
+    "https://www.archdaily.com/tag/henry-hobson-richardson"
+   ]
+  },
+  {
+   "key": "architect:Rafael Moneo",
+   "name": "Rafael Moneo",
+   "have": [
+    "https://en.wikipedia.org/wiki/Rafael_Moneo",
+    "https://www.pritzkerprize.com/laureates/1996",
+    "https://rafaelmoneo.com/",
+    "https://www.archdaily.com/office/rafael-moneo"
+   ]
+  },
+  {
+   "key": "architect:SANAA",
+   "name": "SANAA",
+   "have": [
+    "https://en.wikipedia.org/wiki/SANAA",
+    "https://www.pritzkerprize.com/laureates/2010",
+    "https://www.archdaily.com/office/sanaa"
+   ]
+  },
+  {
+   "key": "architect:Arne Jacobsen",
+   "name": "Arne Jacobsen",
+   "have": [
+    "https://en.wikipedia.org/wiki/Arne_Jacobsen",
+    "https://arnejacobsen.com/",
+    "https://www.archdaily.com/office/arne-jacobsen"
+   ]
+  },
+  {
+   "key": "architect:James Stirling",
+   "name": "James Stirling",
+   "have": [
+    "https://en.wikipedia.org/wiki/James_Stirling_(architect)",
+    "https://www.pritzkerprize.com/laureates/1981",
+    "https://www.cca.qc.ca/en/archives/380477/james-stirling-michael-wilford-fonds",
+    "https://www.archdaily.com/office/james-stirling"
+   ]
+  },
+  {
+   "key": "architect:Pier Luigi Nervi",
+   "name": "Pier Luigi Nervi",
+   "have": [
+    "https://en.wikipedia.org/wiki/Pier_Luigi_Nervi",
+    "https://www.pierluiginervi.org/",
+    "https://www.archdaily.com/tag/pier-luigi-nervi"
+   ]
+  },
+  {
+   "key": "architect:Auguste Perret",
+   "name": "Auguste Perret",
+   "have": [
+    "https://en.wikipedia.org/wiki/Auguste_Perret",
+    "https://whc.unesco.org/en/list/1181",
+    "https://www.metalocus.es/en/author/perret-0"
+   ]
+  },
+  {
+   "key": "architect:Carlos Raúl Villanueva",
+   "name": "Carlos Raúl Villanueva",
+   "have": [
+    "https://en.wikipedia.org/wiki/Carlos_Raúl_Villanueva",
+    "https://whc.unesco.org/en/list/986"
+   ]
+  }
+ ],
+ "architects_02": [
+  {
+   "key": "architect:MVRDV",
+   "name": "MVRDV",
+   "have": [
+    "https://en.wikipedia.org/wiki/MVRDV",
+    "https://www.mvrdv.com/projects",
+    "https://www.archdaily.com/office/mvrdv"
+   ]
+  },
+  {
+   "key": "architect:Paul Rudolph",
+   "name": "Paul Rudolph",
+   "have": [
+    "https://en.wikipedia.org/wiki/Paul_Rudolph_(architect)",
+    "https://www.paulrudolph.institute/",
+    "https://www.archdaily.com/office/paul-rudolph",
+    "https://www.archdaily.com/tag/paul-rudolph"
+   ]
+  },
+  {
+   "key": "architect:Paulo Mendes da Rocha",
+   "name": "Paulo Mendes da Rocha",
+   "have": [
+    "https://en.wikipedia.org/wiki/Paulo_Mendes_da_Rocha",
+    "https://www.pritzkerprize.com/laureates/2006",
+    "https://www.archdaily.com/office/paulo-mendes-da-rocha"
+   ]
+  },
+  {
+   "key": "architect:Peter Zumthor",
+   "name": "Peter Zumthor",
+   "have": [
+    "https://en.wikipedia.org/wiki/Peter_Zumthor",
+    "https://www.pritzkerprize.com/laureates/2009",
+    "https://zumthor.org/",
+    "https://www.archdaily.com/office/peter-zumthor"
+   ]
+  },
+  {
+   "key": "architect:Steven Holl",
+   "name": "Steven Holl",
+   "have": [
+    "https://en.wikipedia.org/wiki/Steven_Holl",
+    "https://www.stevenholl.com/",
+    "https://www.archdaily.com/office/steven-holl-architects"
+   ]
+  },
+  {
+   "key": "architect:Charles Rennie Mackintosh",
+   "name": "Charles Rennie Mackintosh",
+   "have": [
+    "https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh",
+    "https://www.crmsociety.com/"
+   ]
+  },
+  {
+   "key": "architect:Denys Lasdun",
+   "name": "Denys Lasdun",
+   "have": [
+    "https://en.wikipedia.org/wiki/Denys_Lasdun",
+    "https://www.archdaily.com/office/denys-lasdun",
+    "https://www.archdaily.com/tag/denys-lasdun"
+   ]
+  },
+  {
+   "key": "architect:Diébédo Francis Kéré",
+   "name": "Diébédo Francis Kéré",
+   "have": [
+    "https://en.wikipedia.org/wiki/Diébédo_Francis_Kéré",
+    "https://www.pritzkerprize.com/laureates/diebedo-francis-kere",
+    "https://www.kerearchitecture.com/",
+    "https://www.archdaily.com/office/kere-architecture"
+   ]
+  },
+  {
+   "key": "architect:Eliel Saarinen",
+   "name": "Eliel Saarinen",
+   "have": [
+    "https://en.wikipedia.org/wiki/Eliel_Saarinen",
+    "https://www.archdaily.com/tag/eliel-saarinen"
+   ]
+  },
+  {
+   "key": "architect:Geoffrey Bawa",
+   "name": "Geoffrey Bawa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Geoffrey_Bawa",
+    "https://www.geoffreybawa.com/",
+    "https://www.lunuganga.com/",
+    "https://www.archdaily.com/tag/geoffrey-bawa"
+   ]
+  },
+  {
+   "key": "architect:Harry Seidler",
+   "name": "Harry Seidler",
+   "have": [
+    "https://en.wikipedia.org/wiki/Harry_Seidler",
+    "https://sydneylivingmuseums.com.au/rose-seidler-house",
+    "https://www.archdaily.com/tag/harry-seidler"
+   ]
+  },
+  {
+   "key": "architect:Jørn Utzon",
+   "name": "Jørn Utzon",
+   "have": [
+    "https://en.wikipedia.org/wiki/Jørn_Utzon",
+    "https://www.pritzkerprize.com/laureates/2003",
+    "https://www.archdaily.com/office/jorn-utzon"
+   ]
+  },
+  {
+   "key": "architect:Mimar Sinan",
+   "name": "Mimar Sinan",
+   "have": [
+    "https://en.wikipedia.org/wiki/Mimar_Sinan",
+    "https://whc.unesco.org/en/list/1366"
+   ]
+  },
+  {
+   "key": "architect:Ricardo Bofill",
+   "name": "Ricardo Bofill",
+   "have": [
+    "https://en.wikipedia.org/wiki/Ricardo_Bofill",
+    "https://www.archdaily.com/office/ricardo-bofill"
+   ]
+  },
+  {
+   "key": "architect:Balkrishna Doshi",
+   "name": "Balkrishna Doshi",
+   "have": [
+    "https://en.wikipedia.org/wiki/B._V._Doshi",
+    "https://www.pritzkerprize.com/laureates/balkrishna-doshi",
+    "https://www.vastushilpa.org/",
+    "https://www.archdaily.com/office/balkrishna-doshi"
+   ]
+  },
+  {
+   "key": "architect:Carlo Scarpa",
+   "name": "Carlo Scarpa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Carlo_Scarpa",
+    "https://www.archiviocarloscarpa.it/",
+    "https://www.archdaily.com/office/carlo-scarpa"
+   ]
+  },
+  {
+   "key": "architect:Christian de Portzamparc",
+   "name": "Christian de Portzamparc",
+   "have": [
+    "https://en.wikipedia.org/wiki/Christian_de_Portzamparc",
+    "https://www.pritzkerprize.com/laureates/1994",
+    "https://www.christiandeportzamparc.com/",
+    "https://www.archdaily.com/office/christian-de-portzamparc"
+   ]
+  },
+  {
+   "key": "architect:Coop Himmelb(l)au",
+   "name": "Coop Himmelb(l)au",
+   "have": [
+    "https://en.wikipedia.org/wiki/Coop_Himmelb(l)au",
+    "https://coop-himmelblau.at/projects/",
+    "https://www.archdaily.com/office/coop-himmelb-l-au"
+   ]
+  },
+  {
+   "key": "architect:Edward Durell Stone",
+   "name": "Edward Durell Stone",
+   "have": [
+    "https://en.wikipedia.org/wiki/Edward_Durell_Stone",
+    "https://www.archdaily.com/office/edward-durell-stone",
+    "https://www.archdaily.com/tag/edward-durell-stone"
+   ]
+  },
+  {
+   "key": "architect:Félix Candela",
+   "name": "Félix Candela",
+   "have": [
+    "https://en.wikipedia.org/wiki/Félix_Candela",
+    "https://www.archdaily.com/office/felix-candela"
+   ]
+  },
+  {
+   "key": "architect:gmp Architekten",
+   "name": "gmp Architekten",
+   "have": [
+    "https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners",
+    "https://www.gmp.de/en/",
+    "https://www.archdaily.com/office/gmp-architekten"
+   ]
+  },
+  {
+   "key": "architect:Hans Scharoun",
+   "name": "Hans Scharoun",
+   "have": [
+    "https://en.wikipedia.org/wiki/Hans_Scharoun",
+    "https://www.archdaily.com/office/hans-scharoun"
+   ]
+  },
+  {
+   "key": "architect:John Burgee",
+   "name": "John Burgee",
+   "have": [
+    "https://en.wikipedia.org/wiki/John_Burgee",
+    "https://www.archdaily.com/office/john-burgee",
+    "https://www.archdaily.com/tag/john-burgee",
+    "https://en.wikipedia.org/wiki/Philip_Johnson"
+   ]
+  },
+  {
+   "key": "architect:Josep Lluís Sert",
+   "name": "Josep Lluís Sert",
+   "have": [
+    "https://en.wikipedia.org/wiki/Josep_Lluís_Sert",
+    "https://www.fmirobcn.org/en/",
+    "https://www.archdaily.com/office/josep-lluis-sert"
+   ]
+  },
+  {
+   "key": "architect:Kim Swoo-geun",
+   "name": "Kim Swoo-geun",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kim_Swoo-geun",
+    "https://architectuul.com/architect/kim-swoo-geun",
+    "https://www.koreajoongangdaily.com/lifestyle/saving-space-kim-swoogeun-buildings-at-risk/11551694"
+   ]
+  },
+  {
+   "key": "architect:Minoru Yamasaki",
+   "name": "Minoru Yamasaki",
+   "have": [
+    "https://en.wikipedia.org/wiki/Minoru_Yamasaki",
+    "https://www.archdaily.com/tag/minoru-yamasaki",
+    "https://www.docomomo-wewa.org/architect/yamasaki-minoru/",
+    "https://www.archdaily.com/1018524/minoru-yamasaki-the-fragility-of-architecture"
+   ]
+  },
+  {
+   "key": "architect:Morphosis",
+   "name": "Morphosis",
+   "have": [
+    "https://en.wikipedia.org/wiki/Morphosis_Architects",
+    "https://www.pritzkerprize.com/laureates/2005",
+    "https://www.archdaily.com/office/morphosis-architects"
+   ]
+  },
+  {
+   "key": "architect:Nikken Sekkei",
+   "name": "Nikken Sekkei",
+   "have": [
+    "https://en.wikipedia.org/wiki/Nikken_Sekkei",
+    "https://www.nikken.co.jp/en/projects/",
+    "https://www.archdaily.com/office/nikken-sekkei"
+   ]
+  },
+  {
+   "key": "architect:Rogelio Salmona",
+   "name": "Rogelio Salmona",
+   "have": [
+    "https://en.wikipedia.org/wiki/Rogelio_Salmona",
+    "https://www.fundacionrogeliosalmona.org/",
+    "https://www.archdaily.com/office/rogelio-salmona"
+   ]
+  },
+  {
+   "key": "architect:Sou Fujimoto",
+   "name": "Sou Fujimoto",
+   "have": [
+    "https://en.wikipedia.org/wiki/Sou_Fujimoto",
+    "https://www.sou-fujimoto.net/",
+    "https://www.archdaily.com/office/sou-fujimoto-architects"
+   ]
+  },
+  {
+   "key": "architect:Victor Horta",
+   "name": "Victor Horta",
+   "have": [
+    "https://en.wikipedia.org/wiki/Victor_Horta",
+    "https://whc.unesco.org/en/list/1005",
+    "https://www.hortamuseum.be/en",
+    "https://www.archdaily.com/office/victor-horta"
+   ]
+  },
+  {
+   "key": "architect:Yoshio Taniguchi",
+   "name": "Yoshio Taniguchi",
+   "have": [
+    "https://en.wikipedia.org/wiki/Yoshio_Taniguchi",
+    "https://www.archdaily.com/office/taniguchi-and-associates",
+    "https://www.archdaily.com/tag/yoshio-taniguchi"
+   ]
+  },
+  {
+   "key": "architect:3XN",
+   "name": "3XN",
+   "have": [
+    "https://en.wikipedia.org/wiki/3XN",
+    "https://3xn.com/projects",
+    "https://www.archdaily.com/office/3xn"
+   ]
+  },
+  {
+   "key": "architect:Arthur Erickson",
+   "name": "Arthur Erickson",
+   "have": [
+    "https://en.wikipedia.org/wiki/Arthur_Erickson",
+    "https://www.arthurerickson.com/",
+    "https://www.arthurerickson.com/",
+    "https://www.archdaily.com/tag/arthur-erickson"
+   ]
+  },
+  {
+   "key": "architect:Erich Mendelsohn",
+   "name": "Erich Mendelsohn",
+   "have": [
+    "https://en.wikipedia.org/wiki/Erich_Mendelsohn",
+    "https://ema.smb.museum/en/",
+    "https://www.archdaily.com/office/erich-mendelsohn"
+   ]
+  },
+  {
+   "key": "architect:Gio Ponti",
+   "name": "Gio Ponti",
+   "have": [
+    "https://en.wikipedia.org/wiki/Gio_Ponti",
+    "https://www.gioponti.org/en",
+    "https://www.archdaily.com/office/gio-ponti"
+   ]
+  },
+  {
+   "key": "architect:Gottfried Böhm",
+   "name": "Gottfried Böhm",
+   "have": [
+    "https://en.wikipedia.org/wiki/Gottfried_Böhm",
+    "https://www.pritzkerprize.com/laureates/1986",
+    "https://www.archdaily.com/office/gottfried-bohm"
+   ]
+  },
+  {
+   "key": "architect:Henning Larsen",
+   "name": "Henning Larsen",
+   "have": [
+    "https://en.wikipedia.org/wiki/Henning_Larsen",
+    "https://henninglarsen.com/projects",
+    "https://www.archdaily.com/office/henning-larsen"
+   ]
+  },
+  {
+   "key": "architect:Kiyonori Kikutake",
+   "name": "Kiyonori Kikutake",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kiyonori_Kikutake",
+    "https://www.archdaily.com/tag/kiyonori-kikutake",
+    "https://www.bunka.go.jp/nama/global/eng/archivalcollections/kikutake/index.html"
+   ]
+  },
+  {
+   "key": "architect:Konstantin Melnikov",
+   "name": "Konstantin Melnikov",
+   "have": [
+    "https://en.wikipedia.org/wiki/Konstantin_Melnikov",
+    "https://www.archdaily.com/office/konstantin-melnikov",
+    "https://www.archdaily.com/tag/konstantin-melnikov",
+    "https://architectuul.com/architect/konstantin-melnikov"
+   ]
+  },
+  {
+   "key": "architect:Louis Sullivan",
+   "name": "Louis Sullivan",
+   "have": [
+    "https://en.wikipedia.org/wiki/Louis_Sullivan",
+    "https://www.archdaily.com/tag/louis-sullivan"
+   ]
+  },
+  {
+   "key": "architect:Mahendra Raj",
+   "name": "Mahendra Raj",
+   "have": [
+    "https://en.wikipedia.org/wiki/Mahendra_Raj",
+    "https://www.archdaily.com/tag/mahendra-raj"
+   ]
+  },
+  {
+   "key": "architect:Michael Wilford",
+   "name": "Michael Wilford",
+   "have": [
+    "https://en.wikipedia.org/wiki/Michael_Wilford",
+    "https://www.cca.qc.ca/en/archives/380477/james-stirling-michael-wilford-fonds",
+    "https://www.archdaily.com/tag/michael-wilford",
+    "https://architectuul.com/architect/michael-wilford"
+   ]
+  },
+  {
+   "key": "architect:Nicholas Grimshaw",
+   "name": "Nicholas Grimshaw",
+   "have": [
+    "https://en.wikipedia.org/wiki/Nicholas_Grimshaw",
+    "https://grimshaw.global/projects/",
+    "https://www.archdaily.com/office/grimshaw"
+   ]
+  },
+  {
+   "key": "architect:RCR Arquitectes",
+   "name": "RCR Arquitectes",
+   "have": [
+    "https://en.wikipedia.org/wiki/RCR_Arquitectes",
+    "https://www.pritzkerprize.com/laureates/rafael-aranda-carme-pigem-ramon-vilalta",
+    "https://www.rcrarquitectes.es/",
+    "https://www.archdaily.com/office/rcr-arquitectes"
+   ]
+  },
+  {
+   "key": "architect:Ricardo Legorreta",
+   "name": "Ricardo Legorreta",
+   "have": [
+    "https://en.wikipedia.org/wiki/Ricardo_Legorreta",
+    "https://legorreta.mx/",
+    "https://www.archdaily.com/tag/ricardo-legorreta"
+   ]
+  },
+  {
+   "key": "architect:Richard Neutra",
+   "name": "Richard Neutra",
+   "have": [
+    "https://en.wikipedia.org/wiki/Richard_Neutra",
+    "https://neutra.org/",
+    "https://www.archdaily.com/tag/richard-neutra"
+   ]
+  },
+  {
+   "key": "architect:Ryue Nishizawa",
+   "name": "Ryue Nishizawa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Ryue_Nishizawa",
+    "https://www.pritzkerprize.com/laureates/2010",
+    "https://www.archdaily.com/tag/ryue-nishizawa"
+   ]
+  }
+ ],
+ "architects_03": [
+  {
+   "key": "architect:Snøhetta",
+   "name": "Snøhetta",
+   "have": [
+    "https://en.wikipedia.org/wiki/Snøhetta_(company)",
+    "https://snohetta.com/projects",
+    "https://www.archdaily.com/office/snohetta"
+   ]
+  },
+  {
+   "key": "architect:Sverre Fehn",
+   "name": "Sverre Fehn",
+   "have": [
+    "https://en.wikipedia.org/wiki/Sverre_Fehn",
+    "https://www.pritzkerprize.com/laureates/1997",
+    "https://www.archdaily.com/tag/sverre-fehn"
+   ]
+  },
+  {
+   "key": "architect:Alejandro Aravena",
+   "name": "Alejandro Aravena",
+   "have": [
+    "https://en.wikipedia.org/wiki/Alejandro_Aravena",
+    "https://www.pritzkerprize.com/laureates/2016",
+    "https://www.archdaily.com/tag/alejandro-aravena",
+    "https://www.elementalchile.cl/en/"
+   ]
+  },
+  {
+   "key": "architect:Clorindo Testa",
+   "name": "Clorindo Testa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Clorindo_Testa",
+    "https://fundacionclorindotesta.org/",
+    "https://www.archdaily.com/tag/clorindo-testa"
+   ]
+  },
+  {
+   "key": "architect:Denton Corker Marshall",
+   "name": "Denton Corker Marshall",
+   "have": [
+    "https://en.wikipedia.org/wiki/Denton_Corker_Marshall",
+    "https://www.archdaily.com/office/denton-corker-marshall",
+    "https://dentoncorkermarshall.com/"
+   ]
+  },
+  {
+   "key": "architect:Hans Hollein",
+   "name": "Hans Hollein",
+   "have": [
+    "https://en.wikipedia.org/wiki/Hans_Hollein",
+    "https://www.pritzkerprize.com/laureates/1985",
+    "http://www.hollein.at/",
+    "https://www.archdaily.com/tag/hans-hollein"
+   ]
+  },
+  {
+   "key": "architect:Herman Hertzberger",
+   "name": "Herman Hertzberger",
+   "have": [
+    "https://en.wikipedia.org/wiki/Herman_Hertzberger",
+    "https://www.archdaily.com/tag/herman-hertzberger",
+    "https://readingoffice.com/herman-hertzberger/"
+   ]
+  },
+  {
+   "key": "architect:Hiroshi Hara",
+   "name": "Hiroshi Hara",
+   "have": [
+    "https://en.wikipedia.org/wiki/Hiroshi_Hara_(architect)",
+    "https://world-architects.com/ca/architecture-news/headlines/hiroshi-hara-1936-2025"
+   ]
+  },
+  {
+   "key": "architect:Junzo Sakakura",
+   "name": "Junzo Sakakura",
+   "have": [
+    "https://en.wikipedia.org/wiki/Junzo_Sakakura",
+    "https://www.sakakura.co.jp/",
+    "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html"
+   ]
+  },
+  {
+   "key": "architect:Lúcio Costa",
+   "name": "Lúcio Costa",
+   "have": [
+    "https://en.wikipedia.org/wiki/Lúcio_Costa",
+    "https://www.casadeluciocosta.org/",
+    "https://www.archdaily.com/tag/lucio-costa"
+   ]
+  },
+  {
+   "key": "architect:Luigi Moretti",
+   "name": "Luigi Moretti",
+   "have": [
+    "https://en.wikipedia.org/wiki/Luigi_Moretti",
+    "https://www.archdaily.com/tag/luigi-moretti",
+    "https://architectuul.com/architect/luigi-moretti"
+   ]
+  },
+  {
+   "key": "architect:Luis Barragán",
+   "name": "Luis Barragán",
+   "have": [
+    "https://en.wikipedia.org/wiki/Luis_Barragán",
+    "https://www.pritzkerprize.com/laureates/1980",
+    "https://www.barragan-foundation.org/",
+    "https://whc.unesco.org/en/list/1136/"
+   ]
+  },
+  {
+   "key": "architect:Mario Pani",
+   "name": "Mario Pani",
+   "have": [
+    "https://en.wikipedia.org/wiki/Mario_Pani",
+    "https://www.archdaily.com/tag/mario-pani",
+    "https://architectuul.com/architect/mario-pani"
+   ]
+  },
+  {
+   "key": "architect:McKim, Mead & White",
+   "name": "McKim, Mead & White",
+   "have": [
+    "https://en.wikipedia.org/wiki/McKim,_Mead_&_White",
+    "https://architectuul.com/architect/mckim-mead-white",
+    "https://backbayhouses.org/mckim-mead-and-white/"
+   ]
+  },
+  {
+   "key": "architect:Otto Wagner",
+   "name": "Otto Wagner",
+   "have": [
+    "https://en.wikipedia.org/wiki/Otto_Wagner",
+    "https://www.archdaily.com/tag/otto-wagner",
+    "https://depts.washington.edu/vienna/architecture/wagner/chrono.htm"
+   ]
+  },
+  {
+   "key": "architect:Populous",
+   "name": "Populous",
+   "have": [
+    "https://en.wikipedia.org/wiki/Populous_Holdings",
+    "https://populous.com/",
+    "https://www.archdaily.com/office/populous"
+   ]
+  },
+  {
+   "key": "architect:Rafael Viñoly",
+   "name": "Rafael Viñoly",
+   "have": [
+    "https://en.wikipedia.org/wiki/Rafael_Viñoly",
+    "https://vinoly.com/",
+    "https://www.archdaily.com/office/rafael-vinoly-architects"
+   ]
+  },
+  {
+   "key": "architect:Raili Pietilä",
+   "name": "Raili Pietilä",
+   "have": [
+    "https://en.wikipedia.org/wiki/Raili_Pietilä",
+    "https://architectuul.com/architect/raili-pietila",
+    "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+    "https://www.ark.fi/en/2021/02/archives-raili-pietila/"
+   ]
+  },
+  {
+   "key": "architect:Raymond Moriyama",
+   "name": "Raymond Moriyama",
+   "have": [
+    "https://en.wikipedia.org/wiki/Raymond_Moriyama",
+    "https://mtarch.com/",
+    "https://www.archdaily.com/office/moriyama-and-teshima-architects"
+   ]
+  },
+  {
+   "key": "architect:Reima Pietilä",
+   "name": "Reima Pietilä",
+   "have": [
+    "https://en.wikipedia.org/wiki/Reima_Pietilä",
+    "https://architectuul.com/architect/reima-pietila",
+    "https://metropolismag.com/projects/breaking-the-modernist-mold/",
+    "https://uia-architectes.org/?p=16461"
+   ]
+  },
+  {
+   "key": "architect:Riken Yamamoto",
+   "name": "Riken Yamamoto",
+   "have": [
+    "https://en.wikipedia.org/wiki/Riken_Yamamoto",
+    "https://www.pritzkerprize.com/laureates/riken-yamamoto",
+    "https://www.riken-yamamoto.co.jp/",
+    "https://www.archdaily.com/tag/riken-yamamoto"
+   ]
+  },
+  {
+   "key": "architect:Schmidt Hammer Lassen",
+   "name": "Schmidt Hammer Lassen",
+   "have": [
+    "https://en.wikipedia.org/wiki/Schmidt_Hammer_Lassen",
+    "https://www.shl.dk/",
+    "https://www.archdaily.com/office/schmidt-hammer-lassen-architects"
+   ]
+  },
+  {
+   "key": "architect:Terunobu Fujimori",
+   "name": "Terunobu Fujimori",
+   "have": [
+    "https://en.wikipedia.org/wiki/Terunobu_Fujimori",
+    "https://www.archdaily.com/tag/terunobu-fujimori",
+    "https://architectuul.com/architect/terunobu-fujimori"
+   ]
+  },
+  {
+   "key": "architect:Togo Murano",
+   "name": "Togo Murano",
+   "have": [
+    "https://en.wikipedia.org/wiki/Togo_Murano",
+    "https://www.sharjahart.org/en/people/details/murano-togo",
+    "https://www.irenebrination.com/2014/11/26/togo-murano-1984-2014/"
+   ]
+  },
+  {
+   "key": "architect:Vilanova Artigas",
+   "name": "Vilanova Artigas",
+   "have": [
+    "https://en.wikipedia.org/wiki/Vilanova_Artigas",
+    "https://www.archdaily.com/tag/vilanova-artigas",
+    "https://architectuul.com/architect/joao-batista-vilanova-artigas"
+   ]
+  },
+  {
+   "key": "architect:Vladimir Shukhov",
+   "name": "Vladimir Shukhov",
+   "have": [
+    "https://en.wikipedia.org/wiki/Vladimir_Shukhov",
+    "https://www.archdaily.com/tag/vladimir-shukhov",
+    "https://architectuul.com/architect/vladimir-shukhov"
+   ]
+  },
+  {
+   "key": "architect:Walter Gropius",
+   "name": "Walter Gropius",
+   "have": [
+    "https://en.wikipedia.org/wiki/Walter_Gropius",
+    "https://www.archdaily.com/tag/walter-gropius",
+    "https://bauhauskooperation.de/en/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-1436"
+   ]
+  },
+  {
+   "key": "architect:Welton Becket",
+   "name": "Welton Becket",
+   "have": [
+    "https://en.wikipedia.org/wiki/Welton_Becket",
+    "https://architectuul.com/architect/welton-becket",
+    "https://www.laconservancy.org/architects/welton-becket",
+    "https://houstonmod.org/architect/becket-welton/"
+   ]
+  },
+  {
+   "key": "architect:WOHA",
+   "name": "WOHA",
+   "have": [
+    "https://en.wikipedia.org/wiki/WOHA",
+    "https://woha.net/",
+    "https://www.archdaily.com/office/woha"
+   ]
+  },
+  {
+   "key": "architect:Achyut Kanvinde",
+   "name": "Achyut Kanvinde",
+   "have": [
+    "https://en.wikipedia.org/wiki/Achyut_Kanvinde",
+    "https://www.greyscape.com/architects/kanvinde-achyut/",
+    "https://www.studiomatrx.org/architects/achyut-kanvinde"
+   ]
+  },
+  {
+   "key": "architect:Alberto Campo Baeza",
+   "name": "Alberto Campo Baeza",
+   "have": [
+    "https://en.wikipedia.org/wiki/Alberto_Campo_Baeza",
+    "https://www.campobaeza.com/",
+    "https://www.archdaily.com/office/alberto-campo-baeza"
+   ]
+  },
+  {
+   "key": "architect:Architectus",
+   "name": "Architectus",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architectus",
+    "https://www.archdaily.com/office/architectus",
+    "https://www.architectus.com.au/"
+   ]
+  },
+  {
+   "key": "architect:Artur Tarkhanyan",
+   "name": "Artur Tarkhanyan",
+   "have": [
+    "https://en.wikipedia.org/wiki/Tsitsernakaberd",
+    "https://www.wikidata.org/wiki/Q4452251"
+   ]
+  },
+  {
+   "key": "architect:Ashton Raggatt McDougall",
+   "name": "Ashton Raggatt McDougall",
+   "have": [
+    "https://en.wikipedia.org/wiki/ARM_Architecture_(company)",
+    "https://armarchitecture.com.au/"
+   ]
+  },
+  {
+   "key": "architect:Behnisch & Partner",
+   "name": "Behnisch & Partner",
+   "have": [
+    "https://en.wikipedia.org/wiki/Günter_Behnisch",
+    "https://behnisch.com/"
+   ]
+  },
+  {
+   "key": "architect:Behnisch Architekten",
+   "name": "Behnisch Architekten",
+   "have": [
+    "https://en.wikipedia.org/wiki/Behnisch_Architekten",
+    "https://behnisch.com/",
+    "https://www.archdaily.com/office/behnisch-architekten"
+   ]
+  },
+  {
+   "key": "architect:Berthold Lubetkin",
+   "name": "Berthold Lubetkin",
+   "have": [
+    "https://en.wikipedia.org/wiki/Berthold_Lubetkin",
+    "https://architectuul.com/architect/berthold-lubetkin",
+    "https://www.archdaily.com/tag/berthold-lubetkin"
+   ]
+  },
+  {
+   "key": "architect:Berthold Lubetkin and Tecton",
+   "name": "Berthold Lubetkin and Tecton",
+   "have": [
+    "https://en.wikipedia.org/wiki/Tecton_Group",
+    "https://architectuul.com/architect/tecton"
+   ]
+  },
+  {
+   "key": "architect:Bruno Taut",
+   "name": "Bruno Taut",
+   "have": [
+    "https://en.wikipedia.org/wiki/Bruno_Taut",
+    "https://architectuul.com/architect/bruno-taut",
+    "https://www.archdaily.com/tag/bruno-taut"
+   ]
+  },
+  {
+   "key": "architect:Charles Girault",
+   "name": "Charles Girault",
+   "have": [
+    "https://en.wikipedia.org/wiki/Charles_Girault",
+    "https://dominikgehl.com/architects/charles-girault"
+   ]
+  },
+  {
+   "key": "architect:David Adjaye",
+   "name": "David Adjaye",
+   "have": [
+    "https://en.wikipedia.org/wiki/David_Adjaye",
+    "https://www.adjaye.com/",
+    "https://www.archdaily.com/office/adjaye-associates"
+   ]
+  },
+  {
+   "key": "architect:E. Stewart Williams",
+   "name": "E. Stewart Williams",
+   "have": [
+    "https://en.wikipedia.org/wiki/E._Stewart_Williams",
+    "https://visitpalmsprings.com/palm-springs-architect-e-stewart-williams/",
+    "https://psmuseum.org/at-home/activity/e-stewart-williams",
+    "https://www.atomic-ranch.com/modernist-index/e-stewart-williams-desert-modernist/"
+   ]
+  },
+  {
+   "key": "architect:Eduardo Souto de Moura",
+   "name": "Eduardo Souto de Moura",
+   "have": [
+    "https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura",
+    "https://www.pritzkerprize.com/laureates/2011",
+    "https://www.archdaily.com/tag/eduardo-souto-de-moura"
+   ]
+  },
+  {
+   "key": "architect:Emre Arolat",
+   "name": "Emre Arolat",
+   "have": [
+    "https://en.wikipedia.org/wiki/Emre_Arolat",
+    "https://www.emrearolat.com/",
+    "https://architectuul.com/architect/emre-arolat",
+    "https://www.archdaily.com/tag/emre-arolat"
+   ]
+  },
+  {
+   "key": "architect:Enric Miralles",
+   "name": "Enric Miralles",
+   "have": [
+    "https://en.wikipedia.org/wiki/Enric_Miralles",
+    "https://www.mirallestagliabue.com/",
+    "https://www.archdaily.com/tag/enric-miralles",
+    "https://architectuul.com/architect/enric-miralles"
+   ]
+  },
+  {
+   "key": "architect:Ernő Goldfinger",
+   "name": "Ernő Goldfinger",
+   "have": [
+    "https://en.wikipedia.org/wiki/Ernő_Goldfinger",
+    "https://www.nationaltrust.org.uk/visit/london/2-willow-road",
+    "https://architectuul.com/architect/erno-goldfinger"
+   ]
+  },
+  {
+   "key": "architect:Frei Otto",
+   "name": "Frei Otto",
+   "have": [
+    "https://en.wikipedia.org/wiki/Frei_Otto",
+    "https://www.pritzkerprize.com/laureates/2015",
+    "http://www.freiotto.com/",
+    "https://www.archdaily.com/tag/frei-otto"
+   ]
+  },
+  {
+   "key": "architect:Gerrit Rietveld",
+   "name": "Gerrit Rietveld",
+   "have": [
+    "https://en.wikipedia.org/wiki/Gerrit_Rietveld",
+    "https://www.rietveldschroderhuis.nl/en",
+    "https://whc.unesco.org/en/list/965/"
+   ]
+  }
+ ],
+ "architects_04": [
+  {
+   "key": "architect:Giuseppe Terragni",
+   "name": "Giuseppe Terragni",
+   "have": [
+    "https://en.wikipedia.org/wiki/Giuseppe_Terragni",
+    "https://architectuul.com/architect/giuseppe-terragni",
+    "https://www.archdaily.com/tag/giuseppe-terragni"
+   ]
+  },
+  {
+   "key": "architect:Grafton Architects",
+   "name": "Grafton Architects",
+   "have": [
+    "https://en.wikipedia.org/wiki/Shelley_McNamara",
+    "https://en.wikipedia.org/wiki/Yvonne_Farrell",
+    "https://www.graftonarchitects.ie/",
+    "https://www.archdaily.com/office/grafton-architects"
+   ]
+  },
+  {
+   "key": "architect:Gunnar Asplund",
+   "name": "Gunnar Asplund",
+   "have": [
+    "https://en.wikipedia.org/wiki/Gunnar_Asplund",
+    "https://whc.unesco.org/en/list/558/",
+    "https://architectuul.com/architect/gunnar-asplund"
+   ]
+  },
+  {
+   "key": "architect:Henry N. Cobb",
+   "name": "Henry N. Cobb",
+   "have": [
+    "https://en.wikipedia.org/wiki/Henry_N._Cobb",
+    "https://www.pcf-p.com/about/henry-n-cobb/"
+   ]
+  },
+  {
+   "key": "architect:Henry van de Velde",
+   "name": "Henry van de Velde",
+   "have": [
+    "https://en.wikipedia.org/wiki/Henry_van_de_Velde",
+    "https://www.boekentoren.be/en",
+    "https://architectuul.com/architect/henry-van-de-velde"
+   ]
+  },
+  {
+   "key": "architect:J. J. P. Oud",
+   "name": "J. J. P. Oud",
+   "have": [
+    "https://en.wikipedia.org/wiki/J._J._P._Oud",
+    "https://architectuul.com/architect/jacobus-oud",
+    "https://snl.no/Jacobus_Johannes_Pieter_Oud"
+   ]
+  },
+  {
+   "key": "architect:J. Mayer H.",
+   "name": "J. Mayer H.",
+   "have": [
+    "https://en.wikipedia.org/wiki/Jürgen_Mayer",
+    "https://www.jmayerh.de/",
+    "https://www.archdaily.com/office/j-mayer-h-architects"
+   ]
+  },
+  {
+   "key": "architect:Juan O'Gorman",
+   "name": "Juan O'Gorman",
+   "have": [
+    "https://en.wikipedia.org/wiki/Juan_O'Gorman",
+    "https://www.archdaily.com/tag/juan-ogorman",
+    "https://architectuul.com/architect/juan-ogorman",
+    "https://www.atomic-ranch.com/modernist-index/juan-ogorman/"
+   ]
+  },
+  {
+   "key": "architect:Kashef Mahboob Chowdhury",
+   "name": "Kashef Mahboob Chowdhury",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kashef_Mahboob_Chowdhury",
+    "https://www.akdn.org/architecture/project/friendship-centre",
+    "https://www.archdaily.com/office/kashef-chowdhury-urbana"
+   ]
+  },
+  {
+   "key": "architect:Kazuo Shinohara",
+   "name": "Kazuo Shinohara",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kazuo_Shinohara",
+    "https://architectuul.com/architect/kazuo-shinohara",
+    "https://www.archdaily.com/tag/kazuo-shinohara"
+   ]
+  },
+  {
+   "key": "architect:Kevin Roche",
+   "name": "Kevin Roche",
+   "have": [
+    "https://en.wikipedia.org/wiki/Kevin_Roche",
+    "https://www.pritzkerprize.com/laureates/1982",
+    "http://www.krjda.com/"
+   ]
+  },
+  {
+   "key": "architect:Kevin Roche John Dinkeloo and Associates",
+   "name": "Kevin Roche John Dinkeloo and Associates",
+   "have": [
+    "https://en.wikipedia.org/wiki/Roche-Dinkeloo",
+    "http://www.krjda.com/",
+    "https://www.archdaily.com/tag/kevin-roche"
+   ]
+  },
+  {
+   "key": "architect:Lacaton & Vassal",
+   "name": "Lacaton & Vassal",
+   "have": [
+    "https://en.wikipedia.org/wiki/Lacaton_&_Vassal",
+    "https://www.pritzkerprize.com/laureates/anne-lacaton-and-jean-philippe-vassal",
+    "https://www.lacatonvassal.com/",
+    "https://www.archdaily.com/office/lacaton-and-vassal"
+   ]
+  },
+  {
+   "key": "architect:Lina Bo Bardi",
+   "name": "Lina Bo Bardi",
+   "have": [
+    "https://en.wikipedia.org/wiki/Lina_Bo_Bardi",
+    "https://www.archdaily.com/tag/lina-bo-bardi",
+    "https://architectuul.com/architect/lina-bo-bardi"
+   ]
+  },
+  {
+   "key": "architect:MAD Architects",
+   "name": "MAD Architects",
+   "have": [
+    "https://en.wikipedia.org/wiki/MAD_Studio",
+    "https://www.i-mad.com/",
+    "https://www.archdaily.com/office/mad-architects"
+   ]
+  },
+  {
+   "key": "architect:Mansilla + Tuñón",
+   "name": "Mansilla + Tuñón",
+   "have": [
+    "https://en.wikipedia.org/wiki/Mansilla_+_Tuñón_Architects",
+    "http://www.mansilla-tunon.com/",
+    "https://www.archdaily.com/office/mansilla-plus-tunon-arquitectos"
+   ]
+  },
+  {
+   "key": "architect:Nayyar Ali Dada",
+   "name": "Nayyar Ali Dada",
+   "have": [
+    "https://en.wikipedia.org/wiki/Nayyar_Ali_Dada",
+    "https://www.akdn.org/architecture/project/alhamra-arts-council"
+   ]
+  },
+  {
+   "key": "architect:Nieto Sobejano Arquitectos",
+   "name": "Nieto Sobejano Arquitectos",
+   "have": [
+    "https://en.wikipedia.org/wiki/Nieto_Sobejano_Arquitectos",
+    "https://www.nietosobejano.com/",
+    "https://www.archdaily.com/office/nieto-sobejano-arquitectos"
+   ]
+  },
+  {
+   "key": "architect:O'Donnell + Tuomey",
+   "name": "O'Donnell + Tuomey",
+   "have": [
+    "https://en.wikipedia.org/wiki/Sheila_O'Donnell",
+    "https://en.wikipedia.org/wiki/John_Tuomey",
+    "https://odonnell-tuomey.ie/"
+   ]
+  },
+  {
+   "key": "architect:Peter Celsing",
+   "name": "Peter Celsing",
+   "have": [
+    "https://en.wikipedia.org/wiki/Peter_Celsing",
+    "https://www.archdaily.com/tag/peter-celsing",
+    "https://www.riksbank.se/sv/om-riksbanken/historia/riksbankens-hus/arkitekten-peter-celsing/",
+    "https://scandinaviandesign.com/peter-celsing/"
+   ]
+  },
+  {
+   "key": "architect:Peter Eisenman",
+   "name": "Peter Eisenman",
+   "have": [
+    "https://en.wikipedia.org/wiki/Peter_Eisenman",
+    "https://eisenmanarchitects.com/",
+    "https://www.archdaily.com/tag/peter-eisenman"
+   ]
+  },
+  {
+   "key": "architect:Pierre Jeanneret",
+   "name": "Pierre Jeanneret",
+   "have": [
+    "https://en.wikipedia.org/wiki/Pierre_Jeanneret",
+    "https://architectuul.com/architect/pierre-jeanneret",
+    "https://www.archdaily.com/tag/pierre-jeanneret"
+   ]
+  },
+  {
+   "key": "architect:Pietro Belluschi",
+   "name": "Pietro Belluschi",
+   "have": [
+    "https://en.wikipedia.org/wiki/Pietro_Belluschi",
+    "https://architectuul.com/architect/pietro-belluschi",
+    "https://oregonencyclopedia.org/articles/belluschi_pietro_1899_1994_/"
+   ]
+  },
+  {
+   "key": "architect:Roy Grounds",
+   "name": "Roy Grounds",
+   "have": [
+    "https://en.wikipedia.org/wiki/Roy_Grounds",
+    "https://architectuul.com/architect/roy-grounds",
+    "https://adb.anu.edu.au/biography/grounds-roy-burman-12571",
+    "https://canberrahouse.com.au/people/roy-grounds.html"
+   ]
+  },
+  {
+   "key": "architect:Rudy Ricciotti",
+   "name": "Rudy Ricciotti",
+   "have": [
+    "https://en.wikipedia.org/wiki/Rudy_Ricciotti",
+    "https://rudyricciotti.com/",
+    "https://www.archdaily.com/tag/rudy-ricciotti"
+   ]
+  },
+  {
+   "key": "architect:Sauerbruch Hutton",
+   "name": "Sauerbruch Hutton",
+   "have": [
+    "https://en.wikipedia.org/wiki/Sauerbruch_Hutton",
+    "https://www.sauerbruchhutton.com/",
+    "https://www.archdaily.com/office/sauerbruch-hutton"
+   ]
+  },
+  {
+   "key": "architect:Sigurd Lewerentz",
+   "name": "Sigurd Lewerentz",
+   "have": [
+    "https://en.wikipedia.org/wiki/Sigurd_Lewerentz",
+    "https://whc.unesco.org/en/list/558/",
+    "https://architectuul.com/architect/sigurd-lewerentz"
+   ]
+  },
+  {
+   "key": "architect:Smiljan Radić",
+   "name": "Smiljan Radić",
+   "have": [
+    "https://en.wikipedia.org/wiki/Smiljan_Radić_Clarke",
+    "https://www.pritzkerprize.com/laureates/smiljan-radic-clarke",
+    "https://www.archdaily.com/tag/smiljan-radic"
+   ]
+  },
+  {
+   "key": "architect:Thom Mayne",
+   "name": "Thom Mayne",
+   "have": [
+    "https://en.wikipedia.org/wiki/Thom_Mayne",
+    "https://www.pritzkerprize.com/laureates/2005",
+    "https://www.archdaily.com/tag/thom-mayne"
+   ]
+  },
+  {
+   "key": "architect:Valerio Olgiati",
+   "name": "Valerio Olgiati",
+   "have": [
+    "https://en.wikipedia.org/wiki/Valerio_Olgiati",
+    "https://olgiati.net/",
+    "https://www.archdaily.com/tag/valerio-olgiati"
+   ]
+  },
+  {
+   "key": "architect:WilkinsonEyre",
+   "name": "WilkinsonEyre",
+   "have": [
+    "https://en.wikipedia.org/wiki/WilkinsonEyre",
+    "https://www.wilkinsoneyre.com/",
+    "https://www.archdaily.com/office/wilkinsoneyre"
+   ]
+  },
+  {
+   "key": "architect:Yoshinobu Ashihara",
+   "name": "Yoshinobu Ashihara",
+   "have": [
+    "https://en.wikipedia.org/wiki/Yoshinobu_Ashihara",
+    "https://architectuul.com/architect/yoshinobu-ashihara",
+    "https://ashihara.jp/profile.html"
+   ]
+  },
+  {
+   "key": "architect:Adolf Loos",
+   "name": "Adolf Loos",
+   "have": [
+    "https://en.wikipedia.org/wiki/Adolf_Loos",
+    "https://architectuul.com/architect/adolf-loos",
+    "https://www.archdaily.com/tag/adolf-loos"
+   ]
+  },
+  {
+   "key": "architect:Affonso Eduardo Reidy",
+   "name": "Affonso Eduardo Reidy",
+   "have": [
+    "https://en.wikipedia.org/wiki/Affonso_Eduardo_Reidy",
+    "https://architectuul.com/architect/affonso-eduardo-reidy",
+    "https://www.archdaily.com/tag/affonso-eduardo-reidy"
+   ]
+  },
+  {
+   "key": "architect:Aldo Rossi",
+   "name": "Aldo Rossi",
+   "have": [
+    "https://en.wikipedia.org/wiki/Aldo_Rossi",
+    "https://www.pritzkerprize.com/laureates/1990",
+    "https://architectuul.com/architect/aldo-rossi"
+   ]
+  },
+  {
+   "key": "architect:Aldo van Eyck",
+   "name": "Aldo van Eyck",
+   "have": [
+    "https://en.wikipedia.org/wiki/Aldo_van_Eyck",
+    "https://architectuul.com/architect/aldo-van-eyck",
+    "https://www.archdaily.com/tag/aldo-van-eyck"
+   ]
+  },
+  {
+   "key": "architect:Alexander Tamanian",
+   "name": "Alexander Tamanian",
+   "have": [
+    "https://en.wikipedia.org/wiki/Alexander_Tamanian",
+    "https://en.wikipedia.org/wiki/Yerevan_Opera_Theatre",
+    "https://en.wikipedia.org/wiki/Government_House,_Yerevan",
+    "https://www.archdaily.com/157639/ad-classics-armenian-opera-theater-alexander-tamanian"
+   ]
+  },
+  {
+   "key": "architect:Ammar Khammash",
+   "name": "Ammar Khammash",
+   "have": [
+    "https://en.wikipedia.org/wiki/Ammar_Khammash",
+    "https://www.khammash.com/",
+    "https://designdoha.org.qa/en/calendar/design-doha-prize2024/ammar-khammash/",
+    "https://divisare.com/authors/2144783495-ammar-khammash"
+   ]
+  },
+  {
+   "key": "architect:Architecture-Studio",
+   "name": "Architecture-Studio",
+   "have": [
+    "https://en.wikipedia.org/wiki/Architecture-Studio",
+    "https://en.wikipedia.org/wiki/Arab_World_Institute",
+    "https://www.archdaily.com/office/architecture-studio"
+   ]
+  },
+  {
+   "key": "architect:Aris Konstantinidis",
+   "name": "Aris Konstantinidis",
+   "have": [
+    "https://en.wikipedia.org/wiki/Aris_Konstantinidis",
+    "https://www.arch.uth.gr/en/projectpopup/index/449"
+   ]
+  },
+  {
+   "key": "architect:Arup",
+   "name": "Arup",
+   "have": [
+    "https://en.wikipedia.org/wiki/Arup_Group",
+    "https://www.arup.com/",
+    "https://www.archdaily.com/office/arup"
+   ]
+  },
+  {
+   "key": "architect:Basil Spence",
+   "name": "Basil Spence",
+   "have": [
+    "https://en.wikipedia.org/wiki/Basil_Spence",
+    "https://ourhistory.is.ed.ac.uk/index.php/Sir_Basil_Urwin_Spence_(1907-1976)",
+    "https://www.undiscoveredscotland.co.uk/usbiography/s/basilspence.html",
+    "https://architecture.arthistoryresearch.net/architects/spence-basil"
+   ]
+  },
+  {
+   "key": "architect:Benedetta Tagliabue",
+   "name": "Benedetta Tagliabue",
+   "have": [
+    "https://en.wikipedia.org/wiki/Benedetta_Tagliabue",
+    "https://www.mirallestagliabue.com/",
+    "https://www.designboom.com/architecture/benedetta-tagliabue-interview-embt-12-05-2014/",
+    "https://worldarchitecture.org/architecture-news/ecgef/-in-the-end-it-is-very-difficult-to-avoid-from-the-notion-of-style-says-benedetta-tagliabue.html"
+   ]
+  },
+  {
+   "key": "architect:Bernard Tschumi",
+   "name": "Bernard Tschumi",
+   "have": [
+    "https://en.wikipedia.org/wiki/Bernard_Tschumi",
+    "https://www.tschumi.com/",
+    "https://www.archdaily.com/tag/bernard-tschumi"
+   ]
+  },
+  {
+   "key": "architect:Brinkman & Van der Vlugt",
+   "name": "Brinkman & Van der Vlugt",
+   "have": [
+    "https://en.wikipedia.org/wiki/Leendert_van_der_Vlugt",
+    "https://en.wikipedia.org/wiki/Johannes_Brinkman",
+    "https://en.wikipedia.org/wiki/Van_Nelle_Factory",
+    "https://www.metalocus.es/en/author/brinkman-and-van-der-vlugt"
+   ]
+  },
+  {
+   "key": "architect:Chamberlin, Powell and Bon",
+   "name": "Chamberlin, Powell and Bon",
+   "have": [
+    "https://en.wikipedia.org/wiki/Chamberlin,_Powell_and_Bon",
+    "https://en.wikipedia.org/wiki/Golden_Lane_Estate",
+    "https://www.themodernhouse.com/directory-of-architects-and-designers/chamberlin-powell-bon",
+    "https://architectuul.com/architect/chamberlin-powell-and-bon"
+   ]
+  }
+ ]
+}

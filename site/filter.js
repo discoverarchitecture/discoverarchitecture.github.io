@@ -260,7 +260,7 @@
     if (t.dataset.close != null) { DA.close(); return; }
     if (t.dataset.arch) { if (goPage(t.dataset.arch)) return; F.arch.add(t.dataset.arch); changed(); return; } // "See all … buildings" in a medal's card
     if (t.dataset.show != null) { DA.close(); return; }
-    if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; clearSearch(); changed(); return; }
+    if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; state.where = null; clearSearch(); changed(); return; }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; refresh(true); panel.querySelector('.fp-body').scrollTop = 0; return; }
     if (t.dataset.letter) { ui.letter = t.dataset.letter; refresh(true); return; }
     if (t.dataset.period) { toggle('period', t.dataset.period); changed(); return; }
