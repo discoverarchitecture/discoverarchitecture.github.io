@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool4.json --n 300
-Haiku pipeline, fourth pool (300).
+python -u tools/cheap_prep.py tools/cheap/pool5.json --n 300
+Haiku pipeline, fifth pool (300 contemporary).
