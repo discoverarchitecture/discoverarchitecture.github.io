@@ -1,2 +1,2 @@
-python -u tools/drawings_scan.py --first 200 --offset 800
-Drawings for the most-studied buildings, ranks 801-1000.
+python -u tools/cheap_prep.py tools/cheap/pool4.json --n 300
+Haiku pipeline, fourth pool (300).

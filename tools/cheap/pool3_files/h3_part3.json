@@ -1,0 +1,1884 @@
+[
+ {
+  "id": "nema-chicago",
+  "qid": "Q21609043",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Tall residential tower; the wall candidate is a street view that does not clearly show this tower; no year in lead."
+ },
+ {
+  "id": "casablanca-twin-center",
+  "qid": "Q2743636",
+  "status": "photo",
+  "why": "Well-known architect's built work; lead short but names the complex.",
+  "name": "Casablanca Twin Center",
+  "by": "Ricardo Bofill",
+  "city": "Casablanca",
+  "cc": "MA",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Ricardo Bofill's twin towers in Casablanca, a complex of two 28-floor skyscrapers with shops, offices and a hotel.",
+  "commons_category": "Category:Casablanca Twin Center",
+  "coords": [
+   33.58611,
+   -7.63194
+  ],
+  "photos": [
+   {
+    "file": "File:Maârif, Morocco - panoramio (7).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twin Center, Boulevard Mohamed Zerktouni, Casablanca.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "artigas-gardens",
+  "qid": "Q2814599",
+  "status": "photo",
+  "why": "Gaudí built work; lead dates it 1905-1906.",
+  "name": "Artigas Gardens",
+  "by": "Antoni Gaudí",
+  "city": "La Pobla de Lillet",
+  "cc": "ES",
+  "year": 1906,
+  "type": "Public space",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Vault"
+  ],
+  "features": "Gaudí's 1905–06 Modernista gardens, filled with arches and Catholic symbols, restored in 1992.",
+  "commons_category": "Category:Jardins de Can Artigas",
+  "coords": [
+   42.25361,
+   1.975
+  ],
+  "photos": [
+   {
+    "file": "File:Lillet21.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lillet07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sunila",
+  "qid": "Q3977023",
+  "status": "photo",
+  "why": "Aalto built work; lead short, no year.",
+  "name": "Sunila",
+  "by": "Alvar Aalto",
+  "city": "Kotka",
+  "cc": "FI",
+  "year": null,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Alvar Aalto's industrial district and complex in Kotka, on the shore of the Gulf of Finland.",
+  "commons_category": "Category:Sunila, Kotka",
+  "coords": [
+   60.4993,
+   26.9543
+  ],
+  "photos": [
+   {
+    "file": "File:Alvar Aalto Sunila 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "central-funicular",
+  "qid": "Q100008",
+  "status": "skip",
+  "why": "Transport railway; lead gives no architectural reason."
+ },
+ {
+  "id": "seyh-celebi-mosque",
+  "qid": "Q127788165",
+  "status": "photo",
+  "why": "Sinan built work; lead gives 1574 as the date mentioned.",
+  "name": "Şeyh Çelebi Mosque",
+  "by": "Mimar Sinan",
+  "city": "Edirne",
+  "cc": "TR",
+  "year": 1574,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Sinan's Ottoman mosque in Edirne, built of alternating cut stone and brick on a square plan.",
+  "commons_category": "Category:Şeyhi Çelebi Camii",
+  "coords": [
+   41.67255,
+   26.56836
+  ],
+  "photos": [
+   {
+    "file": "File:Şeyhi Çelebi Camii 2025 - 2c.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Şeyh Çelebi Camii 22.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yahya-bey-mosque",
+  "qid": "Q127788305",
+  "status": "photo",
+  "why": "Sinan built work; lead dates it 1577-1578.",
+  "name": "Yahya Bey Mosque",
+  "by": "Mimar Sinan",
+  "city": "Edirne",
+  "cc": "TR",
+  "year": 1578,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "Sinan's 1577–78 mosque in central Edirne, alternating layers of cut stone and brick with a single dome.",
+  "commons_category": "Category:Yahya Bey mosque",
+  "coords": [
+   41.67626,
+   26.56346
+  ],
+  "photos": [
+   {
+    "file": "File:Yahya Bey Camii 22.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yahya Bey Camii IMG 4620.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maison-du-bresil",
+  "qid": "Q1617722",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Le Corbusier and Costa hostel; the only candidate is a sign, the rest a model or people."
+ },
+ {
+  "id": "rustem-pasha-medrese",
+  "qid": "Q31193235",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Sinan medrese; photos show only the courtyard and rooftops, not the whole exterior."
+ },
+ {
+  "id": "citylife",
+  "qid": "Q3678603",
+  "status": "photo",
+  "why": "Three famous architects; lead gives no completion year.",
+  "name": "CityLife",
+  "by": "Arata Isozaki, Zaha Hadid, Daniel Libeskind",
+  "city": "Milan",
+  "cc": "IT",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Cluster",
+   "Public space"
+  ],
+  "features": "A Milan district of three towers by Isozaki, Hadid and Libeskind, on the former Fiera Milano grounds.",
+  "commons_category": "Category:CityLife",
+  "coords": [
+   45.47566,
+   9.15318
+  ],
+  "photos": [
+   {
+    "file": "File:Veduta delle tre torri del quartiere Citylife a Milano.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Le Tre Torri City life.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palacio-do-jaburu",
+  "qid": "Q3917430",
+  "status": "photo",
+  "why": "Niemeyer built work; lead gives 1977.",
+  "name": "Palácio do Jaburu",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": 1977,
+  "type": "Palace",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Oscar Niemeyer's residence for Brazil's vice president, designed in 1973 and opened in 1977 near the Alvorada Palace.",
+  "commons_category": "Category:Palácio do Jaburu",
+  "coords": [
+   -15.79617,
+   -47.83293
+  ],
+  "photos": [
+   {
+    "file": "File:2014 - Palácio do Jaburu (11821778125).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brasíia-DF, 29-06-2011. Palácio do Jaburu. (14261300971).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palácio do Jaburu (14077422657).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dwight-d-eisenhower-memorial",
+  "qid": "Q5318133",
+  "status": "skip",
+  "why": "Memorial; most clean photos show people and the main photo is another building."
+ },
+ {
+  "id": "mercury-tower",
+  "qid": "Q111663933",
+  "status": "photo",
+  "why": "Hadid built work; lead says it topped out 2020, not completion.",
+  "name": "Mercury Tower",
+  "by": "Zaha Hadid Architects",
+  "city": "St. Julian's",
+  "cc": "MT",
+  "year": null,
+  "type": "Housing",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Zaha Hadid's late concept design for Malta's tallest tower, with a twisted form between levels 10 and 13.",
+  "commons_category": "Category:Mercury Towers",
+  "coords": [
+   35.92311,
+   14.48934
+  ],
+  "photos": [
+   {
+    "file": "File:St Julian's (Malta).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:St Julian's (Malta) - 53043023665.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tanabe-art-museum",
+  "qid": "Q11577460",
+  "status": "photo",
+  "why": "Kikutake built work; thin lead, but the architect is well known.",
+  "name": "Tanabe Art Museum",
+  "by": "Kiyonori Kikutake",
+  "city": "Matsue",
+  "cc": "JP",
+  "year": 1979,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Landscape"
+  ],
+  "features": "Kiyonori Kikutake's Matsue museum, opened 1979, for a local clan's tea ceremony treasures.",
+  "commons_category": "Category:Tanabe Museum of Art",
+  "coords": [
+   35.4792,
+   133.05
+  ],
+  "photos": [
+   {
+    "file": "File:Shiominawate Matsue06s4592.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:田部美術館 - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "omniturm",
+  "qid": "Q15107362",
+  "status": "photo",
+  "why": "BIG built work; lead gives completion 2019.",
+  "name": "Omniturm",
+  "by": "BIG",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": 2019,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "BIG's 190-metre Frankfurt tower, completed 2019, with both office and residential space.",
+  "commons_category": "Category:Omniturm",
+  "coords": [
+   50.11139,
+   8.67306
+  ],
+  "photos": [
+   {
+    "file": "File:Omniturm Frankfurt 09-19.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Omniturm Frankfurt am Main.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "quartiers-modernes-fruges",
+  "qid": "Q2974657",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Le Corbusier estate; the only photo is a street sign."
+ },
+ {
+  "id": "maison-planeix",
+  "qid": "Q3278943",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Le Corbusier villa; the only photo is a plaque."
+ },
+ {
+  "id": "aalto-center",
+  "qid": "Q4250273",
+  "status": "photo",
+  "why": "Aalto built work; lead says mainly completed 1960-1968.",
+  "name": "Aalto Center",
+  "by": "Alvar Aalto",
+  "city": "Seinäjoki",
+  "cc": "FI",
+  "year": 1968,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Public space",
+   "Community"
+  ],
+  "features": "Alvar Aalto's six-building civic and cultural centre in Seinäjoki, mainly completed between 1960 and 1968.",
+  "commons_category": "Category:Aaltokeskus",
+  "coords": [
+   62.7861,
+   22.8417
+  ],
+  "photos": [
+   {
+    "file": "File:Aalto-keskus 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Seinäjoki library, city hall and theater from bell tower of Lakeuden risti 02.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "luma-arles",
+  "qid": "Q47488973",
+  "status": "photo",
+  "why": "Gehry built work; the wall photo is a railway scene, so the tower photo is used instead.",
+  "name": "LUMA Arles",
+  "by": "Frank Gehry, Bureau Bas Smets",
+  "city": "Arles",
+  "cc": "FR",
+  "year": null,
+  "type": "Museum",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Adaptive reuse"
+  ],
+  "features": "Gehry's LUMA Tower in Arles, clad in 11,000 angled stainless steel panels, beside renovated railway workshops.",
+  "commons_category": "Category:Luma Arles",
+  "coords": [
+   43.67333,
+   4.63694
+  ],
+  "photos": [
+   {
+    "file": "File:לומה ארל במבט כולל.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:לומה ארל - מבט פנימי אל לוחות הנירוסטה.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rosenbaum-house",
+  "qid": "Q7368526",
+  "status": "photo",
+  "why": "Wright built work; lead gives no year.",
+  "name": "Rosenbaum House",
+  "by": "Frank Lloyd Wright",
+  "city": "Florence",
+  "cc": "US",
+  "year": null,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Free plan"
+  ],
+  "features": "Wright's Usonian house for the Rosenbaums, one of only 26 pre-war Usonian houses and his only Alabama building.",
+  "commons_category": "Category:Rosenbaum House",
+  "coords": [
+   34.79278,
+   -87.68028
+  ],
+  "photos": [
+   {
+    "file": "File:Frank Lloyd Wright designed house in Florence, Alabama LCCN2011631298.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Rosenbaum House, one of the residences created by Frank Lloyd Wright, Florence, Alabama LCCN2011633963.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Rosenbaum House Front Pano.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "suleymaniye-hamam",
+  "qid": "Q749094",
+  "status": "photo",
+  "why": "Sinan built work; lead gives 1557.",
+  "name": "Süleymaniye Hamam",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1557,
+  "type": "Public space",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Stone",
+   "Community"
+  ],
+  "features": "Sinan's 1557 bathhouse in Istanbul's Süleymaniye complex, arched and domed, with marble inlay on its walls.",
+  "commons_category": "Category:Süleymaniye Hammam",
+  "coords": [
+   41.0159,
+   28.9658
+  ],
+  "photos": [
+   {
+    "file": "File:Süleymaniye Hammam from outside, 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Suleymaniye Hamam DSCF5502.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "marsk-tower",
+  "qid": "Q108303626",
+  "status": "photo",
+  "why": "BIG built work; lead gives no year.",
+  "name": "Marsk Tower",
+  "by": "BIG",
+  "city": "Skærbæk",
+  "cc": "DK",
+  "year": null,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Promenade",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "BIG's double-helix steel observation tower in the Wadden Sea park, with a spiral staircase of 272 steps.",
+  "commons_category": "Category:Marsk Tårnet",
+  "coords": [
+   55.15289,
+   8.74069
+  ],
+  "photos": [
+   {
+    "file": "File:Marsk Tårnet.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marsk Tårnet 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marsk Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "toyota-city-museum",
+  "qid": "Q125906525",
+  "status": "photo",
+  "why": "Shigeru Ban built work; lead gives opening 2024.",
+  "name": "Toyota City Museum",
+  "by": "Shigeru Ban",
+  "city": "Toyota",
+  "cc": "JP",
+  "year": 2024,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Shigeru Ban's 2024 museum in Toyota, set in the former Shichishū Castle grounds beside a Peter Walker garden.",
+  "commons_category": "Category:Toyota City Museum",
+  "coords": [
+   35.08158,
+   137.15167
+  ],
+  "photos": [
+   {
+    "file": "File:Toyohaku1.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toyohaku3.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "buen-kulturhus",
+  "qid": "Q14388827",
+  "status": "photo",
+  "why": "3XN built work; lead gives opening 2012.",
+  "name": "Buen kulturhus",
+  "by": "3XN",
+  "city": "Mandal",
+  "cc": "NO",
+  "year": 2012,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Planting"
+  ],
+  "features": "3XN's 2012 cultural house in Mandal, partly turf-covered, with a library, cinemas and a gallery.",
+  "commons_category": "Category:Buen kulturhus",
+  "coords": [
+   58.02593,
+   7.45688
+  ],
+  "photos": [
+   {
+    "file": "File:Buen, Mandal.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Buen Kulturhus, Mandal.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "otaniemi-water-tower",
+  "qid": "Q15073511",
+  "status": "photo",
+  "why": "Aalto built work; lead gives design year 1971.",
+  "name": "Otaniemi water tower",
+  "by": "Alvar Aalto",
+  "city": "Espoo",
+  "cc": "FI",
+  "year": 1971,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Free plan"
+  ],
+  "features": "Aalto's 1971 water tower in Otaniemi, a 45-metre landmark stacking a water tank on a free-form building.",
+  "commons_category": "Category:Otaniemi water tower",
+  "coords": [
+   60.1812,
+   24.8199
+  ],
+  "photos": [
+   {
+    "file": "File:Otaniemen vesitorni 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Otaniemen vesitorni 1.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Otaniemen vesitorni 2.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "church-of-the-assumption",
+  "qid": "Q1742632",
+  "status": "photo",
+  "why": "Architect is from Wikidata only; lead does not name Sinan. Check the attribution.",
+  "name": "Church of the Assumption",
+  "by": "Mimar Sinan",
+  "city": "Uzundzhovo",
+  "cc": "BG",
+  "year": null,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Stone",
+   "Monumentality"
+  ],
+  "features": "A Bulgarian church that began as an Ottoman-era mosque and was rebuilt as a church in 1906.",
+  "commons_category": "Category:Church of the Assumption, Uzundzhovo",
+  "coords": [
+   41.96283,
+   25.65511
+  ],
+  "photos": [
+   {
+    "file": "File:Църквата \"Успение Богородично\", която е била джамия на Узунджовския панаир.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Church of the Assumption in Uzundzho 2011 PD 07.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "memorial-jk",
+  "qid": "Q1756676",
+  "status": "photo",
+  "why": "Niemeyer built work, a mausoleum with a cultural centre; photo is the building, not the statue.",
+  "name": "Memorial JK",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": null,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Niemeyer's mausoleum and cultural centre for Juscelino Kubitschek on Brasília's Monumental Axis.",
+  "commons_category": "Category:Memorial JK",
+  "coords": [
+   -15.78436,
+   -47.91308
+  ],
+  "photos": [
+   {
+    "file": "File:Memorial J Kubitschek Brasilia 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "christ-the-king-cathedral-belo-horizonte",
+  "qid": "Q27700254",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Niemeyer cathedral under construction; the wall photo shows a building site and the other is a render."
+ },
+ {
+  "id": "radiant-city",
+  "qid": "Q2974705",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Le Corbusier Unité at Rezé; the photos show the tower only with the town in front."
+ },
+ {
+  "id": "town-hall-of-le-havre",
+  "qid": "Q3146216",
+  "status": "photo",
+  "why": "Perret built work; lead gives the monument listing 2017, and the photo desc gives 1953-1958.",
+  "name": "Town hall of Le Havre",
+  "by": "Auguste Perret, Jacques Tournant",
+  "city": "Le Havre",
+  "cc": "FR",
+  "year": 1958,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Le Havre's seat of government, designed by Auguste Perret and Jacques Tournant, and a listed monument since 2017.",
+  "commons_category": "Category:Town hall of Le Havre",
+  "coords": [
+   49.4935,
+   0.1078
+  ],
+  "photos": [
+   {
+    "file": "File:Le Havre, Normandie, France (45478490075).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "air-india-building",
+  "qid": "Q3172573",
+  "status": "skip",
+  "why": "Office tower; lead gives no architectural reason beyond being a former headquarters."
+ },
+ {
+  "id": "annunciation-greek-orthodox-church",
+  "qid": "Q3586059",
+  "status": "photo",
+  "why": "Wright built work; lead gives completion 1961.",
+  "name": "Annunciation Greek Orthodox Church",
+  "by": "Frank Lloyd Wright",
+  "city": "Wauwatosa",
+  "cc": "US",
+  "year": 1961,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Vault",
+   "Monumentality"
+  ],
+  "features": "Wright's late church in Wauwatosa, with a shallow scalloped dome that reinterprets Byzantine forms for today.",
+  "commons_category": "Category:Annunciation Greek Orthodox Church",
+  "coords": [
+   43.0989,
+   -88.02887
+  ],
+  "photos": [
+   {
+    "file": "File:Annunciation Church Apr09.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Annunciation Greek Orthodox Church.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Doors Open Milwaukee 2023 65 (Annunciation Greek Orthodox Church).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jinbocho-theater",
+  "qid": "Q4409942",
+  "status": "skip",
+  "why": "Ordinary theatre complex; lead gives no architectural reason."
+ },
+ {
+  "id": "cultural-complex-of-the-republic",
+  "qid": "Q4818298",
+  "status": "photo",
+  "why": "Niemeyer built work; lead gives 2006.",
+  "name": "Cultural Complex of the Republic",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": 2006,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Niemeyer's national library and museum on Brasília's Monumental Axis, opened in 2006.",
+  "commons_category": "Category:Complexo Cultural da República",
+  "coords": [
+   -15.79694,
+   -47.87933
+  ],
+  "photos": [
+   {
+    "file": "File:MuseuNatRep rainy.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Complexo Cultural da Republica 01.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ambience",
+  "qid": "Q510710",
+  "status": "skip",
+  "why": "Cruise ship, not a building."
+ },
+ {
+  "id": "james-charnley-house",
+  "qid": "Q6131262",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Only measured drawings (HABS), no photo of the building from outside."
+ },
+ {
+  "id": "rustem-pasha-caravanserai",
+  "qid": "Q6580550",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Caravanserai; the best exterior has a shop sign in front and the rest are interiors or details."
+ },
+ {
+  "id": "martin-ryerson-tomb",
+  "qid": "Q6776503",
+  "status": "photo",
+  "why": "Louis Sullivan built work; lead gives 1889.",
+  "name": "Martin Ryerson Tomb",
+  "by": "Louis Sullivan",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 1889,
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Stone"
+  ],
+  "features": "Sullivan's 1889 Egyptian Revival tomb in Chicago's historic Graceland Cemetery.",
+  "commons_category": "Category:Martin Ryerson Tomb",
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:Chicago, Illinois, Martin Ryerson Tomb 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Martin Ryerson Mausoleum (1818-1897).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tower-25",
+  "qid": "Q7829624",
+  "status": "photo",
+  "why": "Nouvel built work; a crane shows at the edge of the photo.",
+  "name": "Tower 25",
+  "by": "Jean Nouvel",
+  "city": "Nicosia",
+  "cc": "CY",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Jean Nouvel's white high-rise in central Nicosia, 62 metres tall, with offices and apartments.",
+  "commons_category": "Category:Tower 25",
+  "coords": [
+   35.1686,
+   33.3605
+  ],
+  "photos": [
+   {
+    "file": "File:Stasinou Avenue View.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "willits-house",
+  "qid": "Q8022162",
+  "status": "photo",
+  "why": "Wright built work; lead gives design year 1901.",
+  "name": "Willits House",
+  "by": "Frank Lloyd Wright",
+  "city": "Highland Park",
+  "cc": "US",
+  "year": 1901,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Cluster",
+   "Timber",
+   "Detail"
+  ],
+  "features": "Wright's 1901 Prairie house in Highland Park, cruciform with four wings around a central fireplace.",
+  "commons_category": "Category:Ward W. Willits House",
+  "coords": [
+   42.17879,
+   -87.78694
+  ],
+  "photos": [
+   {
+    "file": "File:Ward Winfield Willits House (8702672773).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frank Lloyd Wright - Highland Park, IL - Ward W. Willits House (4).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frank Lloyd Wright - Highland Park, IL - Ward W. Willits House (1).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stanislav-range-front-light",
+  "qid": "Q7599046",
+  "status": "photo",
+  "why": "Shukhov built work; year 1911 from prep.json.",
+  "name": "Stanislav Range Front Light",
+  "by": "Vladimir Shukhov",
+  "city": "Kherson",
+  "cc": "UA",
+  "year": 1911,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Shukhov's steel hyperboloid lighthouse on a tiny islet, guiding ships into the Dnieper River.",
+  "commons_category": "Category:Stanislav Range Front Light",
+  "coords": [
+   46.51194,
+   32.15111
+  ],
+  "photos": [
+   {
+    "file": "File:Станіслав-Аджигольські маяки передній5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Станіслав-Аджигольські маяки передній3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "waldspirale",
+  "qid": "Q133635",
+  "status": "photo",
+  "why": "Hundertwasser built work; lead gives completion 2000.",
+  "name": "Waldspirale",
+  "by": "Friedensreich Hundertwasser",
+  "city": "Darmstadt",
+  "cc": "DE",
+  "year": 2000,
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Colour",
+   "Planting",
+   "Sculptural form"
+  ],
+  "features": "Hundertwasser's 2000 Darmstadt housing complex, with a spiral plan and a green roof.",
+  "commons_category": "Category:Waldspirale Darmstadt",
+  "coords": [
+   49.8856,
+   8.65583
+  ],
+  "photos": [
+   {
+    "file": "File:Darmstadt Waldspirale 102 0011.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Waldspirale - Darmstadt - Friedensreich Hundertwasser - Heinz Springmann - 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Waldspirale - Darmstadt - Friedensreich Hundertwasser - Heinz Springmann - 10.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "royal-museum-of-the-armed-forces-and-military-history",
+  "qid": "Q1395176",
+  "status": "photo",
+  "why": "Girault built work; year 1923 from prep.json.",
+  "name": "Royal Museum of the Armed Forces and Military History",
+  "by": "Gédéon Bordiau, Charles Girault",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": 1923,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Vault"
+  ],
+  "features": "Military museum in two historic halls of Brussels' Cinquantenaire park complex.",
+  "commons_category": "Category:Royal Military Museum, Brussels",
+  "coords": [
+   50.84082,
+   4.39336
+  ],
+  "photos": [
+   {
+    "file": "File:Brussel Legermuseum R01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kuchlbauer-tower",
+  "qid": "Q824739",
+  "status": "photo",
+  "why": "Hundertwasser built work; year 2010 from prep.json.",
+  "name": "Kuchlbauer Tower",
+  "by": "Peter Pelikan, Friedensreich Hundertwasser",
+  "city": "Abensberg",
+  "cc": "DE",
+  "year": 2010,
+  "type": "Public space",
+  "movement": "Expressionism",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Hundertwasser's observation tower on a Bavarian brewery's grounds in Abensberg, dated 2010.",
+  "commons_category": "Category:Abensberg Kuchlbauerturm",
+  "coords": [
+   48.817,
+   11.8423
+  ],
+  "photos": [
+   {
+    "file": "File:Abensberg, Brauerei Kuchlbauer, Kuchlbauerturm -- 2026 -- 4180.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Abensberg Kuchlbauerturm 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Башня Хундертвассера.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palacio-taranco",
+  "qid": "Q1139321",
+  "status": "photo",
+  "why": "Girault built work; year 1910 from prep.json.",
+  "name": "Palacio Taranco",
+  "by": "Charles Girault",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": 1910,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Girault's early 20th-century Montevideo palace in French style, now home to a decorative arts museum.",
+  "commons_category": "Category:Palacio Taranco",
+  "coords": [
+   -34.90697,
+   -56.20839
+  ],
+  "photos": [
+   {
+    "file": "File:Palacio de don Félix Ortiz de Taranco..JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palacio Taranco by MaxiCiccone.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "carolina-rediviva",
+  "qid": "Q1044419",
+  "status": "photo",
+  "why": "Lead says oldest and largest university library in the country.",
+  "name": "Carolina Rediviva",
+  "by": "Carl Fredrik Sundvall, Peter Celsing, Axel Anderberg, Jöran Curman",
+  "city": "Uppsala",
+  "cc": "SE",
+  "year": 1841,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Sweden's oldest and largest university library building, begun in 1820 and completed in 1841.",
+  "commons_category": "Category:Carolina Rediviva",
+  "coords": [
+   59.855,
+   17.63111
+  ],
+  "photos": [
+   {
+    "file": "File:Carolina Rediviva Uppsala.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Carolina Rediviva in summer.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jaarbeurs",
+  "qid": "Q2692856",
+  "status": "skip",
+  "why": "Convention centre; lead gives no architectural reason and the year 1764 is doubtful."
+ },
+ {
+  "id": "royal-castle-of-laeken",
+  "qid": "Q1542585",
+  "status": "skip",
+  "why": "Royal residence; lead gives no architectural reason beyond its history."
+ },
+ {
+  "id": "kroller-muller-museum",
+  "qid": "Q1051928",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Kröller-Müller Museum; photos show people and sculptures, and the building only in part."
+ },
+ {
+  "id": "qatar-national-library",
+  "qid": "Q1361436",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Qatar National Library; the only candidate is an interior and the rest are old maps."
+ },
+ {
+  "id": "bauhaus-universitat-weimar",
+  "qid": "Q573975",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Bauhaus University Weimar; no photo shows the Van de Velde main building clearly."
+ },
+ {
+  "id": "malmo-opera",
+  "qid": "Q1507772",
+  "status": "photo",
+  "why": "Lewerentz built work; a statue stands in front but the building is the subject.",
+  "name": "Malmö Opera",
+  "by": "Sigurd Lewerentz, David Helldén, Erik Lallerstedt",
+  "city": "Malmö",
+  "cc": "SE",
+  "year": 1944,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Community"
+  ],
+  "features": "Sigurd Lewerentz's 1933–44 Malmö theatre, now an opera house with 1,511 seats in an enclosed amphitheatre.",
+  "commons_category": "Category:Malmö Opera",
+  "coords": [
+   55.59611,
+   12.99639
+  ],
+  "photos": [
+   {
+    "file": "File:Malmö stadsteater 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "leo-burnett-building",
+  "qid": "Q2556762",
+  "status": "photo",
+  "why": "Kevin Roche built work; lead gives 1989 and a clear architectural reason.",
+  "name": "Leo Burnett Building",
+  "by": "Kevin Roche",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 1989,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "Kevin Roche's 1989 postmodern Chicago tower in granite, masonry and glass, with steel-barred Chicago windows.",
+  "commons_category": "Category:Leo Burnett Building",
+  "coords": [
+   41.8864,
+   -87.62922
+  ],
+  "photos": [
+   {
+    "file": "File:Leo Burnett Building.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "osthaus-museum-hagen",
+  "qid": "Q314559",
+  "status": "photo",
+  "why": "Van de Velde built work; lead gives no year.",
+  "name": "Osthaus-Museum Hagen",
+  "by": "Henry van de Velde",
+  "city": "Hagen",
+  "cc": "DE",
+  "year": null,
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Henry van de Velde's interior for Karl Ernst Osthaus's museum; Hagen later gained the building.",
+  "commons_category": "Category:Karl-Ernst-Osthaus-Museum",
+  "coords": [
+   51.35603,
+   7.47304
+  ],
+  "photos": [
+   {
+    "file": "File:Hagen Osthaus Museum.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "guggenheim-hermitage-museum",
+  "qid": "Q1974769",
+  "status": "skip",
+  "why": "Closed museum inside a hotel; the wall photo shows the hotel, not the Koolhaas design."
+ },
+ {
+  "id": "jean-cocteau-museum",
+  "qid": "Q3329214",
+  "status": "skip",
+  "why": "Lead gives no architectural reason; the architect is not clearly well known."
+ },
+ {
+  "id": "new-synagogue-zilina",
+  "qid": "Q12772437",
+  "status": "photo",
+  "why": "Behrens built work; lead gives completion 1931.",
+  "name": "New Synagogue, Žilina",
+  "by": "Peter Behrens",
+  "city": "Žilina",
+  "cc": "SK",
+  "year": 1931,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Community"
+  ],
+  "features": "Peter Behrens's 1931 synagogue in Žilina, \"the last Slovak synagogue\", restored in 2011–2017 as an arts centre.",
+  "commons_category": "Category:Neologická synagóga (Žilina)",
+  "coords": [
+   49.22472,
+   18.73722
+  ],
+  "photos": [
+   {
+    "file": "File:Žilina - neologická synagóga - 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Žilina - Neolog Synagogue - 2018.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hotel-otlet",
+  "qid": "Q3145619",
+  "status": "photo",
+  "why": "Art Nouveau townhouse by a named architect; lead gives 1894-1898.",
+  "name": "Hôtel Otlet",
+  "by": "Octave Van Rysselberghe, Henry van de Velde",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": 1898,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Stone"
+  ],
+  "features": "A Brussels Art Nouveau town house by Octave van Rysselberghe, built 1894–1898 for the jurist Paul Otlet.",
+  "commons_category": "Category:Hôtel Otlet",
+  "coords": [
+   50.8296,
+   4.35968
+  ],
+  "photos": [
+   {
+    "file": "File:Hôtel Otlet - 3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hôtel Otlet, vue d'ensemble.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "castle-of-the-three-dragons",
+  "qid": "Q1048705",
+  "status": "photo",
+  "why": "Domènech i Montaner built work; lead gives 1888.",
+  "name": "Castle of the Three Dragons",
+  "by": "Lluís Domènech i Montaner",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1888,
+  "type": "Hospitality",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Domènech i Montaner's Modernisme café-restaurant, built for the 1888 Barcelona Universal Exposition.",
+  "commons_category": "Category:Castell dels Tres Dragons",
+  "coords": [
+   41.38807,
+   2.18339
+  ],
+  "photos": [
+   {
+    "file": "File:Tres Dragons 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - Castell dels Tres Dragons (3).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "castle-drogo",
+  "qid": "Q746819",
+  "status": "photo",
+  "why": "Lutyens built work; lead gives 1911-1930.",
+  "name": "Castle Drogo",
+  "by": "Edwin Lutyens",
+  "city": "Drewsteignton",
+  "cc": "GB",
+  "year": 1930,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Lutyens's Devon granite country house, built 1911–1930 and called the last castle built in England.",
+  "commons_category": "Category:Castle Drogo",
+  "coords": [
+   50.6959,
+   -3.811
+  ],
+  "photos": [
+   {
+    "file": "File:Castle Drogo - geograph.org.uk - 6946993.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Drogorama (8258424926).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bank-of-america-financial-center",
+  "qid": "Q586913",
+  "status": "photo",
+  "why": "Pelli built work; lead gives 1992.",
+  "name": "Bank of America Financial Center",
+  "by": "César Pelli",
+  "city": "Charlotte",
+  "cc": "US",
+  "year": 1992,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "César Pelli's 871-foot Charlotte tower, the tallest in North Carolina since it was built in 1992.",
+  "commons_category": "Category:Bank of America Corporate Center",
+  "coords": [
+   35.2278,
+   -80.843
+  ],
+  "photos": [
+   {
+    "file": "File:Bank of America Corporate Center.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bank of America Corporate Center Charlotte, North Carolina.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "wells-fargo-center",
+  "qid": "Q2385191",
+  "status": "photo",
+  "why": "Pelli built work; lead says completed 1988 (prep says 1989).",
+  "name": "Wells Fargo Center",
+  "by": "César Pelli",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": 1988,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "César Pelli's 774-foot Minneapolis tower, a modernised Art Deco design that echoes nearby towers.",
+  "commons_category": "Category:Wells Fargo Center (Minneapolis)",
+  "coords": [
+   44.97694,
+   -93.27083
+  ],
+  "photos": [
+   {
+    "file": "File:Wells Fargo Center from Foshay.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Minneapolis April 2025 06 (Wells Fargo Center).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cajasol-tower",
+  "qid": "Q2746748",
+  "status": "photo",
+  "why": "Pelli built work; lead says completed 2015.",
+  "name": "Cajasol Tower",
+  "by": "César Pelli",
+  "city": "Seville",
+  "cc": "ES",
+  "year": 2015,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "César Pelli's 180-metre Seville office tower, the tallest building in Andalusia, completed in 2015.",
+  "commons_category": "Category:Torre Sevilla",
+  "coords": [
+   37.39194,
+   -6.00972
+  ],
+  "photos": [
+   {
+    "file": "File:Torre Sevilla abril 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre Sevilla abril 2015 edited.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Río Guadalquivir y Torre Sevilla, Sevilla, España, 2015-12-06, DD 66.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rottweil-elevator-test-tower",
+  "qid": "Q18334510",
+  "status": "photo",
+  "why": "Jahn built work, a test tower; lead gives 2017 and the observation deck.",
+  "name": "Rottweil elevator test tower",
+  "by": "Helmut Jahn, Werner Sobek",
+  "city": "Rottweil",
+  "cc": "DE",
+  "year": 2017,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A 246-metre elevator test tower by Helmut Jahn and Werner Sobek, with Germany's tallest observation deck.",
+  "commons_category": "Category:TK-Elevator-Testturm",
+  "coords": [
+   48.17917,
+   8.62483
+  ],
+  "photos": [
+   {
+    "file": "File:AIMG 0324 A 81 Aufzugsturm.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Org e370525c4a8f8aab 1592164604000-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cafe-museum",
+  "qid": "Q268795",
+  "status": "photo",
+  "why": "Adolf Loos built work; lead gives 1899.",
+  "name": "Café Museum",
+  "by": "Adolf Loos",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1899,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Detail",
+   "Community",
+   "Public space"
+  ],
+  "features": "Adolf Loos's Viennese café of 1899, whose original interior he designed and which became an artists' meeting place.",
+  "commons_category": "Category:Cafe Museum",
+  "coords": [
+   48.20143,
+   16.36767
+  ],
+  "photos": [
+   {
+    "file": "File:Cafe Museum 4.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cafe Museum Strasse.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-museum-of-art-osaka",
+  "qid": "Q1055037",
+  "status": "photo",
+  "why": "Pelli built work; lead gives no year (prep year 1977 not confirmed).",
+  "name": "National Museum of Art, Osaka",
+  "by": "César Pelli",
+  "city": "Osaka",
+  "cc": "JP",
+  "year": null,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Pelli's subterranean art museum on Osaka's Nakanoshima island, between two rivers.",
+  "commons_category": "Category:The National Museum of Art, Osaka",
+  "coords": [
+   34.69179,
+   135.49202
+  ],
+  "photos": [
+   {
+    "file": "File:NMAO 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:The National Museum of Art, Osaka 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tapies-museum",
+  "qid": "Q2447148",
+  "status": "photo",
+  "why": "Domènech i Montaner built work; year 1984 is when the museum opened, the building is older.",
+  "name": "Tàpies Museum",
+  "by": "Lluís Domènech i Montaner",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1984,
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Domènech i Montaner's former publishing house in Barcelona, now the Tàpies contemporary art museum.",
+  "commons_category": "Category:Fundació Antoni Tàpies",
+  "coords": [
+   41.39167,
+   2.16361
+  ],
+  "photos": [
+   {
+    "file": "File:Museu Tàpies.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kinderheim-a-s-makarenko",
+  "qid": "Q61993661",
+  "status": "skip",
+  "why": "Ordinary GDR children's home; lead gives no architectural reason beyond its size."
+ },
+ {
+  "id": "gioia-22-tower",
+  "qid": "Q60838294",
+  "status": "photo",
+  "why": "Pelli built work; lead gives 2018-2021.",
+  "name": "Gioia 22 Tower",
+  "by": "César Pelli",
+  "city": "Milan",
+  "cc": "IT",
+  "year": 2021,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Pelli's 121-metre office tower in Milan, built 2018–2021 with 25 floors.",
+  "commons_category": "Category:Torre Gioia 22",
+  "coords": [
+   45.48525,
+   9.19686
+  ],
+  "photos": [
+   {
+    "file": "File:Torre Gioia 22 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "olympiahalle",
+  "qid": "Q48849",
+  "status": "skip",
+  "why": "Ordinary multi-purpose arena; lead gives no architectural reason."
+ },
+ {
+  "id": "berwald-hall",
+  "qid": "Q829222",
+  "status": "unsure",
+  "note": "no main photo",
+  "why": "Berwald Hall; the only exterior photo shows an entrance corner, not the building."
+ },
+ {
+  "id": "academy-of-fine-arts-vienna",
+  "qid": "Q414219",
+  "status": "photo",
+  "why": "Theophil Hansen built work; lead gives 1877.",
+  "name": "Academy of Fine Arts Vienna",
+  "by": "Theophil Hansen",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1877,
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Community"
+  ],
+  "features": "Theophil Hansen's Ringstraße academy building of 1877, home to a public art school and its collection.",
+  "commons_category": "Category:Academy of Fine Arts Vienna",
+  "coords": [
+   48.20139,
+   16.36528
+  ],
+  "photos": [
+   {
+    "file": "File:Akademie der bildenden Künste Wien.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Akademie der bildenden Kuenste DSC 2400w.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ }
+]

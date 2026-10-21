@@ -1,0 +1,891 @@
+[
+ {
+  "id": "accenture-tower",
+  "qid": "Q2425550",
+  "status": "photo",
+  "why": "Helmut Jahn tower in a named style (late modernism); main photo shows the whole tower from street level.",
+  "name": "Accenture Tower",
+  "by": "Helmut Jahn",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 1987,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Late modernist 42-story tower by Murphy/Jahn, built 1984–1987 on air rights from the old North Western Station.",
+  "commons_category": "Category:Citigroup Center (Chicago, Illinois)",
+  "coords": [
+   41.882,
+   -87.64049
+  ],
+  "photos": [
+   {
+    "file": "File:CitigroupCenterChicago.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Chicago in 2022 Part of the Accenture Tower (500 West Madison) (52047851892).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Citigroup Center, Chicago (14396644410).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Citigroup Center (14396680218).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "winter-garden-atrium",
+  "qid": "Q8026225",
+  "status": "photo",
+  "why": "Pelli glass-vaulted atrium (1988), a known public space; main photo shows the whole front in daylight.",
+  "name": "Winter Garden Atrium",
+  "by": "César Pelli",
+  "city": "New York",
+  "cc": "US",
+  "year": 1988,
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A 10-story glass-vaulted pavilion with plants, rebuilt in 2002 after the September 11 attacks damaged it.",
+  "commons_category": "Category:Winter Garden Atrium",
+  "coords": [
+   40.71305,
+   -74.01528
+  ],
+  "photos": [
+   {
+    "file": "File:Manhattan New York City 2009 PD 20091129 019.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gigantium",
+  "qid": "Q1523646",
+  "status": "skip",
+  "why": "Sports and concert arena; lead gives no design reason."
+ },
+ {
+  "id": "abraham-lincoln-presidential-library-and-museum",
+  "qid": "Q330237",
+  "status": "skip",
+  "why": "Presidential library and museum; lead gives no design reason; photos are mostly exhibits."
+ },
+ {
+  "id": "osaka-maritime-museum",
+  "qid": "Q867148",
+  "status": "photo",
+  "why": "Paul Andreu dome with a structural award (lead); opened 2000 per lead. Main photo shows the dome whole.",
+  "name": "Osaka Maritime Museum",
+  "by": "Paul Andreu",
+  "city": "Osaka",
+  "cc": "JP",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Domed museum on reclaimed land in Osaka Bay, built to resist quakes, waves and wind; closed since 2013.",
+  "commons_category": "Category:Osaka Maritime Museum",
+  "coords": [
+   34.64005,
+   135.40457
+  ],
+  "photos": [
+   {
+    "file": "File:Osaka maritime museum01s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Maritime Museum @ Sakishima Island @ Osaka Bay (13382097593).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Osaka Maritime Museum1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "svampen",
+  "qid": "Q613568",
+  "status": "skip",
+  "why": "Water tower; lead gives its height and history, not a design reason."
+ },
+ {
+  "id": "agoudas-hakehilos-synagogue",
+  "qid": "Q1567790",
+  "status": "photo",
+  "why": "Guimard Art Nouveau synagogue, completed 1914 (lead); main photo shows the facade whole.",
+  "name": "Agoudas Hakehilos Synagogue",
+  "by": "Hector Guimard",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 1914,
+  "type": "Religious",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Community"
+  ],
+  "features": "Hector Guimard's Art Nouveau synagogue of 1914 on rue Pavée, still used by an Orthodox congregation.",
+  "commons_category": "Category:Synagogue de la rue Pavée",
+  "coords": [
+   48.85597,
+   2.36049
+  ],
+  "photos": [
+   {
+    "file": "File:Paris-Marais-Synagoge-102-2017-gje.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Agoudas Hakehilos Synagogue (Hector Guimard) in 1917.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue Rue Pavée - Paris IV (FR75) - 2023-05-30 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue Rue Pavée - Paris IV (FR75) - 2023-05-30 - 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "metropolitan-cathedral-of-athens",
+  "qid": "Q981372",
+  "status": "skip",
+  "why": "Cathedral; lead is one line and does not describe the building; architect list is not clear."
+ },
+ {
+  "id": "chiba-prefectural-museum-of-art",
+  "qid": "Q11406332",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; main photo is an aerial view of the campus."
+ },
+ {
+  "id": "main-building-of-the-ministry-of-defense",
+  "qid": "Q4189903",
+  "status": "skip",
+  "why": "Government headquarters; lead gives no design reason; photos are reliefs and riverside views."
+ },
+ {
+  "id": "casa-navas",
+  "qid": "Q5047861",
+  "status": "unsure",
+  "why": "Domènech i Montaner modernisme, built 1901-1908 (lead). Strong lead, but all seven photos are balcony and ornament close-ups.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museum-of-evolution-of-polish-academy-of-sciences",
+  "qid": "Q6940852",
+  "status": "skip",
+  "why": "Display area inside the Palace of Culture; lead describes the exhibits, not the building."
+ },
+ {
+  "id": "international-building",
+  "qid": "Q3153239",
+  "status": "photo",
+  "why": "Raymond Hood Art Deco tower, completed 1935 (lead); main photo is the whole tower from the street.",
+  "name": "International Building",
+  "by": "Raymond Hood",
+  "city": "New York",
+  "cc": "US",
+  "year": 1935,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A 41-story Art Deco limestone tower at Rockefeller Center, designed by its lead architect, Raymond Hood.",
+  "commons_category": "Category:International Building (Rockefeller Center)",
+  "coords": [
+   40.75917,
+   -73.97778
+  ],
+  "photos": [
+   {
+    "file": "File:Rockefeller-Center3.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "auditorium-conciliazione",
+  "qid": "Q5650373",
+  "status": "photo",
+  "why": "Piacentini hall, finished 1950 (lead), on a planned axis; main photo shows the whole facade.",
+  "name": "Auditorium Conciliazione",
+  "by": "Marcello Piacentini, Giorgio Calza Bini",
+  "city": "Rome",
+  "cc": "IT",
+  "year": 1950,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Finished in 1950 after a 1930s plan; its hall opens onto the long view from St Peter's to Ponte Sant'Angelo.",
+  "commons_category": "Category:Auditorium Conciliazione",
+  "coords": [
+   41.90257,
+   12.4635
+  ],
+  "photos": [
+   {
+    "file": "File:Auditorium Conciliazione 25 10 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Roma - Auditorium della Conciliazione (40984258940).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "baroda-house",
+  "qid": "Q16207035",
+  "status": "unsure",
+  "why": "Lutyens residence (lead). Only photo cuts the building to its dome; no whole-building photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "portland-art-museum",
+  "qid": "Q279049",
+  "status": "unsure",
+  "why": "Belluschi per prep.json. Year 1892 is probably the museum founding date, not the building. Confirm the building date before keeping."
+ },
+ {
+  "id": "landakotskirkja",
+  "qid": "Q794242",
+  "status": "photo",
+  "why": "Samúelsson (well-known Icelandic architect, on the wall); lead short but the church is his built work; main photo shows the whole church. Year 1929 from prep.json.",
+  "name": "Landakotskirkja",
+  "by": "Guðjón Samúelsson",
+  "city": "Reykjavík",
+  "cc": "IS",
+  "year": 1929,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Community"
+  ],
+  "features": "Iceland's only Catholic cathedral, a basilica in Reykjavík with services in Icelandic, Polish and English.",
+  "commons_category": "Category:Landakotskirkja",
+  "coords": [
+   64.14744,
+   -21.94855
+  ],
+  "photos": [
+   {
+    "file": "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 093.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 091.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 094.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sacro-cuore-di-cristo-re",
+  "qid": "Q642479",
+  "status": "unsure",
+  "why": "Piacentini church; main photo is clear, but prep year 1920 conflicts with the lead (\"designed between the 1920s and 1930s\"). Confirm the year."
+ },
+ {
+  "id": "fulton-center",
+  "qid": "Q1020690",
+  "status": "skip",
+  "why": "Transit hub and mall; lead gives no design reason; photos show screens and signs."
+ },
+ {
+  "id": "republic-square",
+  "qid": "Q2584192",
+  "status": "skip",
+  "why": "A square, not a building; no year in prep.json or lead."
+ },
+ {
+  "id": "international-finance-centre",
+  "qid": "Q15246",
+  "status": "skip",
+  "why": "Office and mall complex; no year in prep.json or lead."
+ },
+ {
+  "id": "los-angeles-county-museum-of-art",
+  "qid": "Q1641836",
+  "status": "unsure",
+  "why": "Pereira per prep.json. Main photo is the May Company department store (prep caption), not the complex; the other whole-building photos show a different architect design. No year."
+ },
+ {
+  "id": "karl-marx-allee",
+  "qid": "Q683226",
+  "status": "skip",
+  "why": "A street, not a building; photos show one building run."
+ },
+ {
+  "id": "citigroup-centre",
+  "qid": "Q867663",
+  "status": "skip",
+  "why": "Office complex; lead gives no design reason."
+ },
+ {
+  "id": "liberty-place",
+  "qid": "Q1449747",
+  "status": "skip",
+  "why": "Office and mall complex; lead gives no design reason."
+ },
+ {
+  "id": "the-cenotaph",
+  "qid": "Q2896743",
+  "status": "photo",
+  "why": "Lutyens national war memorial, unveiled 1920 (lead); memorial rule applies; main photo shows the whole Cenotaph.",
+  "name": "The Cenotaph",
+  "by": "Edwin Lutyens",
+  "city": "London",
+  "cc": "GB",
+  "year": 1920,
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Void",
+   "Sculptural form"
+  ],
+  "features": "Lutyens's national war memorial on Whitehall, unveiled in 1920; its empty-tomb form symbolises the absent dead.",
+  "commons_category": "Category:Cenotaph, London",
+  "coords": [
+   51.50269,
+   -0.12608
+  ],
+  "photos": [
+   {
+    "file": "File:The Cenotaph on Whitehall, London.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "taipei-grand-mosque",
+  "qid": "Q717882",
+  "status": "unsure",
+  "why": "Largest and oldest mosque in Taiwan (lead); photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "national-observatory-of-athens",
+  "qid": "Q1816405",
+  "status": "skip",
+  "why": "Lead is about the research organisation, not the building; no year."
+ },
+ {
+  "id": "casa-lleo-morera",
+  "qid": "Q2330791",
+  "status": "unsure",
+  "why": "Domènech i Montaner modernisme; lead gives an award in 1906 and a remodel from 1902, but no completion year. Photos good."
+ },
+ {
+  "id": "lindisfarne-castle",
+  "qid": "Q2627072",
+  "status": "skip",
+  "why": "Medieval castle; the lead's only architectural note is a 1901 alteration, not the building's completion."
+ },
+ {
+  "id": "tel-aviv-performing-arts-center",
+  "qid": "Q555356",
+  "status": "photo",
+  "why": "Rechter performing arts centre, opened 1994 (lead); main photo shows the building whole.",
+  "name": "Tel Aviv Performing Arts Center",
+  "by": "Yaakov Rechter",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": 1994,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Community"
+  ],
+  "features": "Tel Aviv's performing arts centre on King Saul Boulevard, home of the Israeli Opera; opened 1994.",
+  "commons_category": "Category:Tel Aviv Performing Arts Center",
+  "coords": [
+   32.0764,
+   34.7855
+  ],
+  "photos": [
+   {
+    "file": "File:Tel Aviv Performing Arts 03.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Tel Aviv, 2015 (24901961195).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "george-bush-presidential-library",
+  "qid": "Q1507065",
+  "status": "skip",
+  "why": "Presidential library; lead gives no design reason."
+ },
+ {
+  "id": "vartanants-square",
+  "qid": "Q16902563",
+  "status": "skip",
+  "why": "A square; lead gives no design reason and no year."
+ },
+ {
+  "id": "thiepval-memorial",
+  "qid": "Q1861419",
+  "status": "unsure",
+  "why": "Lutyens memorial; lead calls it \"the greatest executed British work of monumental architecture of the twentieth century\". Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "auditorio-nacional",
+  "qid": "Q286179",
+  "status": "skip",
+  "why": "Entertainment venue; lead gives no year and no design reason."
+ },
+ {
+  "id": "shanghai-new-international-expo-center",
+  "qid": "Q30177",
+  "status": "skip",
+  "why": "Exhibition hall complex; lead gives trade figures, not design."
+ },
+ {
+  "id": "rhodes-memorial",
+  "qid": "Q3429602",
+  "status": "unsure",
+  "why": "Herbert Baker memorial, finished 1912 (lead). Photos are statues and busts; only p5 shows the building, so no clear main photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "shanghai-ifc",
+  "qid": "Q406446",
+  "status": "skip",
+  "why": "Office and mall complex; lead gives no design reason."
+ },
+ {
+  "id": "ypf-tower",
+  "qid": "Q2444549",
+  "status": "skip",
+  "why": "Office tower; lead gives height and a record, no design reason."
+ },
+ {
+  "id": "arco-della-vittoria",
+  "qid": "Q3621768",
+  "status": "unsure",
+  "why": "Piacentini memorial arch; lead calls it a principal example of Fascist-period monumental architecture. Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "hyderabad-house",
+  "qid": "Q5953898",
+  "status": "unsure",
+  "why": "Lutyens State Guest House (lead). Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "adnoc-headquarters",
+  "qid": "Q290435",
+  "status": "skip",
+  "why": "Office tower complex; lead gives no design reason."
+ },
+ {
+  "id": "state-house",
+  "qid": "Q3497294",
+  "status": "skip",
+  "why": "Official residence; lead gives no design reason."
+ },
+ {
+  "id": "studio-museum-in-harlem",
+  "qid": "Q903403",
+  "status": "unsure",
+  "why": "Lead gives a 2025 opening for the new building, but the main photo shows the demolished building. Prep does not say which architect designed the new one."
+ },
+ {
+  "id": "osaka-museum-of-history",
+  "qid": "Q11261312",
+  "status": "photo",
+  "why": "Pelli and Nihon Sekkei museum, opened 2001 (lead); main photo shows the cylinder by itself.",
+  "name": "Osaka Museum of History",
+  "by": "Nihon Sekkei, NTT Facilities, César Pelli",
+  "city": "Osaka",
+  "cc": "JP",
+  "year": 2001,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Section",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Shows Naniwa Palace remains in its basement, beside the NHK broadcasting centre by the same architects.",
+  "commons_category": "Category:Osaka Museum of History",
+  "coords": [
+   34.68272,
+   135.52081
+  ],
+  "photos": [
+   {
+    "file": "File:140923 Osaka Museum of History Osaka Japan02s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-museum-of-prehistory",
+  "qid": "Q1540258",
+  "status": "unsure",
+  "why": "Michael Graves per prep.json. Photos good; lead is one line. No year in prep.json or lead."
+ },
+ {
+  "id": "deutschmeister-palais",
+  "qid": "Q2046973",
+  "status": "unsure",
+  "why": "Hansen palace, Vienna. Lead gives design years 1864-1868, not a completion year. Photos good."
+ },
+ {
+  "id": "groote-schuur",
+  "qid": "Q3643657",
+  "status": "skip",
+  "why": "Estate and farm history; lead gives no design reason."
+ },
+ {
+  "id": "haus-des-lehrers",
+  "qid": "Q586235",
+  "status": "photo",
+  "why": "Henselmann GDR building, built 1962-1964 (lead, completed 1964); mural is part of the design; main photo shows the whole building.",
+  "name": "Haus des Lehrers",
+  "by": "Hermann Henselmann",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1964,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Community"
+  ],
+  "features": "A 1960s GDR building near Alexanderplatz, its walls wrapped in Walter Womacka's mural 'Our Life'.",
+  "commons_category": "Category:Haus des Lehrers",
+  "coords": [
+   52.5214,
+   13.4164
+  ],
+  "photos": [
+   {
+    "file": "File:Haus des Lehrers, 2024 (01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Andreasstraße (Berlin-Friedrichshain)-2026-03-msu-8305.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bandeirantes-palace",
+  "qid": "Q9054624",
+  "status": "skip",
+  "why": "Government palace; lead gives no design reason; photos are mostly objects and aerials."
+ },
+ {
+  "id": "louwman-museum",
+  "qid": "Q1456512",
+  "status": "photo",
+  "why": "Michael Graves building per prep.json; opened 2010 per lead (\"since 2010\"); main photo shows the building.",
+  "name": "Louwman Museum",
+  "by": "Michael Graves",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "A museum of historic cars, coaches and motorcycles in The Hague, in a Michael Graves building since 2010.",
+  "commons_category": "Category:Louwman Collection",
+  "coords": [
+   51.71583,
+   4.88583
+  ],
+  "photos": [
+   {
+    "file": "File:Den Haag - Louwman Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "india-house",
+  "qid": "Q14996965",
+  "status": "unsure",
+  "why": "Herbert Baker per prep.json; lead gives only the Grade II listing (1981). Photos good. No year in the lead; a photo caption says 1925-30."
+ },
+ {
+  "id": "church-house",
+  "qid": "Q2967665",
+  "status": "unsure",
+  "why": "Baker per prep.json; lead gives its wartime and UN history. Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "130-william",
+  "qid": "Q30641786",
+  "status": "skip",
+  "why": "Residential tower; lead gives no design reason."
+ },
+ {
+  "id": "goodwood-plant",
+  "qid": "Q3133547",
+  "status": "skip",
+  "why": "Car factory; lead gives production figures, not design; photos show cars."
+ },
+ {
+  "id": "st-bartholomew-s-episcopal-church",
+  "qid": "Q3937267",
+  "status": "unsure",
+  "why": "Goodhue and McKim, Mead & White per prep.json; lead gives parish history only. Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "steiner-house",
+  "qid": "Q4012578",
+  "status": "photo",
+  "why": "Loos house; lead calls it one of his major works. Year 1910 comes from a Commons caption in prep.json, not from the lead.",
+  "name": "Steiner House",
+  "by": "Adolf Loos",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1910,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Section",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Considered one of the major works of Adolf Loos, in Vienna.",
+  "commons_category": "Category:Haus Steiner",
+  "coords": [
+   48.18389,
+   16.28317
+  ],
+  "photos": [
+   {
+    "file": "File:Steiner1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Steiner2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Adolf Loos Haus Steiner mit Magnolie.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palazzo-dello-strozzino",
+  "qid": "Q514448",
+  "status": "photo",
+  "why": "Renaissance palace, year 1450 from prep.json; the lead describes the stone facade; photos show it whole.",
+  "name": "Palazzo dello Strozzino",
+  "by": "Michelozzo, Giuliano da Maiano, Marcello Piacentini, Ghino Venturi",
+  "city": "Florence",
+  "cc": "IT",
+  "year": 1450,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "A Renaissance stone palace on Piazza degli Strozzi, diagonal to the larger Palazzo Strozzi.",
+  "commons_category": "Category:Palazzo dello Strozzino",
+  "coords": [
+   43.77084,
+   11.25257
+  ],
+  "photos": [
+   {
+    "file": "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,0.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,2.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jeddah-economic-city",
+  "qid": "Q520877",
+  "status": "skip",
+  "why": "Urban development, not a building."
+ },
+ {
+  "id": "stockholm-university-library",
+  "qid": "Q10680674",
+  "status": "unsure",
+  "why": "Erskine per prep.json; lead describes a research library. Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "national-theatre-of-bahrain",
+  "qid": "Q16250454",
+  "status": "skip",
+  "why": "Lead gives cost and size only; no design reason; photos show skyline and water."
+ },
+ {
+  "id": "kino-babylon",
+  "qid": "Q1742238",
+  "status": "photo",
+  "why": "Poelzig cinema, erected 1928-29 (lead); main photo shows the building; sign-led and interior photos left out.",
+  "name": "Kino Babylon",
+  "by": "Hans Poelzig",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1929,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Community"
+  ],
+  "features": "A 1928–29 listed cinema by Hans Poelzig in the Neue Sachlichkeit style, restored in 1999–2001.",
+  "commons_category": "Category:Babylon (cinema in Berlin)",
+  "coords": [
+   52.5258,
+   13.4119
+  ],
+  "photos": [
+   {
+    "file": "File:Berlin, Mitte, Rosa-Luxemburg-Strasse 30, Wohnanlage und Kino Babylon.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kino Babylon.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torres-atrio",
+  "qid": "Q19207166",
+  "status": "skip",
+  "why": "Under construction; no year."
+ },
+ {
+  "id": "arras-memorial",
+  "qid": "Q2782982",
+  "status": "unsure",
+  "why": "Lutyens memorial; lead gives names and dates of the dead only. Photos good. No year in prep.json or lead."
+ },
+ {
+  "id": "tower-hill-memorial",
+  "qid": "Q2911428",
+  "status": "skip",
+  "why": "Two memorials from different dates; the year would be ambiguous."
+ },
+ {
+  "id": "neuve-chapelle-indian-memorial",
+  "qid": "Q2917267",
+  "status": "skip",
+  "why": "Memorial; lead gives no design reason and no year."
+ },
+ {
+  "id": "riverside-south",
+  "qid": "Q3496849",
+  "status": "skip",
+  "why": "Proposed, stalled site; photo is a building site."
+ },
+ {
+  "id": "one-hyde-park",
+  "qid": "Q6000580",
+  "status": "skip",
+  "why": "Luxury housing; lead gives no design reason."
+ },
+ {
+  "id": "kahlil-gibran-memorial-garden",
+  "qid": "Q6347023",
+  "status": "skip",
+  "why": "Garden with sculpture; the sculpture is the subject."
+ },
+ {
+  "id": "walker-art-center",
+  "qid": "Q1851516",
+  "status": "skip",
+  "why": "Year 1927 is the collection date, not the building; lead gives no design reason."
+ },
+ {
+  "id": "stopera",
+  "qid": "Q1138851",
+  "status": "unsure",
+  "why": "Holzbauer and Dam per prep.json; lead describes the block and its name. Prep year 1967 looks like a design date; lead gives no opening date. Confirm before keeping."
+ }
+]

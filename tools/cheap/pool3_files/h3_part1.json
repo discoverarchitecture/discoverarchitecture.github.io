@@ -1,0 +1,1728 @@
+[
+ {
+  "id": "villa-jeanneret",
+  "qid": "Q3843577",
+  "status": "unsure",
+  "why": "Le Corbusier's 1923 house, a key precedent; the only photo is an axonometric drawing.",
+  "note": "no main photo"
+ },
+ {
+  "id": "weltzheimer-johnson-house",
+  "qid": "Q7982128",
+  "status": "unsure",
+  "why": "Wright's 1949 house; photos show interiors and details, no whole-house view.",
+  "note": "no main photo"
+ },
+ {
+  "id": "rovaniemi-city-hall",
+  "qid": "Q19407034",
+  "status": "photo",
+  "why": "Aalto work finished after his death; clear whole-building photos",
+  "name": "Rovaniemi city hall",
+  "by": "Alvar Aalto, Elissa Aalto",
+  "city": "Rovaniemi",
+  "cc": "FI",
+  "year": 1986,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Public space",
+   "Community"
+  ],
+  "features": "Aalto's city hall, completed in 1986 after his death, in a protected complex of Aalto buildings.",
+  "commons_category": "Category:Rovaniemi Town Hall",
+  "coords": [
+   66.5,
+   25.7333
+  ],
+  "photos": [
+   {
+    "file": "File:Rovaniemen kaupungintalo ja Vuorten synty.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rovaniemen kaupungintalo 2022-09-14 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Rovaniemen kaupungintalo 2022-09-14 03.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "louvre-inverted-pyramid",
+  "qid": "Q3177458",
+  "status": "unsure",
+  "why": "I. M. Pei's skylight; photos show the inside of the pyramid, not the building from outside.",
+  "note": "no main photo"
+ },
+ {
+  "id": "dom-ino-house",
+  "qid": "Q5289711",
+  "status": "unsure",
+  "why": "Le Corbusier's Dom-ino is a concept; photos are models, not a built building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "exelon-pavilions",
+  "qid": "Q5419995",
+  "status": "photo",
+  "why": "Piano; solar pavilions in a park, clear exterior photos",
+  "name": "Exelon Pavilions",
+  "by": "Renzo Piano",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 2004,
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Four Piano pavilions in Millennium Park that generate solar electricity and give access to underground parking.",
+  "commons_category": "Category:Exelon Pavilions",
+  "coords": [
+   41.88408,
+   -87.62237
+  ],
+  "photos": [
+   {
+    "file": "File:Southwest Exelon Pavilion.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20080602 Southwest Exelon Pavilion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "winslow-house-river-forest-illinois",
+  "qid": "Q2395397",
+  "status": "photo",
+  "why": "Key Wright precedent; whole house in daylight",
+  "name": "Winslow House (River Forest, Illinois)",
+  "by": "Frank Lloyd Wright",
+  "city": "River Forest",
+  "cc": "US",
+  "year": 1895,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Free plan",
+   "Brick",
+   "Landscape"
+  ],
+  "features": "Wright's first major commission as an independent architect, which he called the first 'prairie house'.",
+  "commons_category": "Category:William H. Winslow House",
+  "coords": [
+   41.88861,
+   -87.82889
+  ],
+  "photos": [
+   {
+    "file": "File:William H. Winslow House Front Facade.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Winslow, William H House and Stable.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-tammekann",
+  "qid": "Q45022",
+  "status": "photo",
+  "why": "Aalto house; clear whole-house photo",
+  "name": "Villa Tammekann",
+  "by": "Alvar Aalto",
+  "city": "Tartu City",
+  "cc": "EE",
+  "year": 1932,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Aalto's first design built outside Finland, and the only one in Estonia or the Baltic states.",
+  "commons_category": null,
+  "coords": [
+   58.3845,
+   26.70469
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Tammekann, Tartu, Estonia.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bigo-genoa",
+  "qid": "Q3639876",
+  "status": "photo",
+  "why": "Piano; whole structure in daylight",
+  "name": "Bigo (Genoa)",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": 1992,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Piano's Expo '92 structure in Genoa's Old Port, with a rotating panoramic lift, now a city symbol.",
+  "commons_category": "Category:Grande Bigo of Genoa",
+  "coords": [
+   44.40885,
+   8.92663
+  ],
+  "photos": [
+   {
+    "file": "File:Bigo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20160814 027 Genova - Genua - Porto Antico (29049889901).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Winda bigo 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "brasilia-digital-tv-tower",
+  "qid": "Q627859",
+  "status": "photo",
+  "why": "Niemeyer, on the wall list; tower in daylight",
+  "name": "Brasília Digital TV Tower",
+  "by": "Oscar Niemeyer",
+  "city": "Lago Norte",
+  "cc": "BR",
+  "year": 2012,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Niemeyer's broadcast tower, known as the Cerrado flower, inaugurated in 2012 for digital TV across Brasília's Federal District.",
+  "commons_category": "Category:Torre de TV Digital de Brasília",
+  "coords": [
+   -15.69927,
+   -47.82957
+  ],
+  "photos": [
+   {
+    "file": "File:Torre de TV Digital.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre de TV Digital de Brasilia. (15345189027).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre de TV Digital de Brasilia. (15345596090).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nussdorf-weir-and-lock",
+  "qid": "Q2005525",
+  "status": "skip",
+  "why": "Engineering-only weir and lock; the lead calls it hydraulic engineering."
+ },
+ {
+  "id": "ars-aevi",
+  "qid": "Q2625926",
+  "status": "skip",
+  "why": "The Piano museum is only planned; the photos show the existing hall."
+ },
+ {
+  "id": "biosphere-genoa",
+  "qid": "Q3640190",
+  "status": "photo",
+  "why": "Piano; distinctive, clear exterior",
+  "name": "Biosphere (Genoa)",
+  "by": "Renzo Piano",
+  "city": "Genoa",
+  "cc": "IT",
+  "year": 2001,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Water"
+  ],
+  "features": "Piano's glass sphere over Genoa's Old Harbour, built for the 2001 G8 summit held in the city.",
+  "commons_category": "Category:Biosphere of Genoa",
+  "coords": [
+   44.40984,
+   8.92549
+  ],
+  "photos": [
+   {
+    "file": "File:Genova Biosfera - Bolla of Renzo Piano.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Genova - Biosfera - 2024-09-01 20-11-18 001.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "central-saint-giles",
+  "qid": "Q5061785",
+  "status": "photo",
+  "why": "Piano's first UK work; colourful whole-block view",
+  "name": "Central Saint Giles",
+  "by": "Renzo Piano",
+  "city": "London Borough of Camden",
+  "cc": "GB",
+  "year": 2010,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Renzo Piano's first UK work, its façades covered in 134,000 glazed tiles around a public courtyard.",
+  "commons_category": "Category:Central Saint Giles (London)",
+  "coords": [
+   51.516,
+   -0.12774
+  ],
+  "photos": [
+   {
+    "file": "File:London (5258879642).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Central St. Giles Court 3.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cleveland-clinic-lou-ruvo-center-for-brain-health",
+  "qid": "Q1988897",
+  "status": "photo",
+  "why": "Gehry; daylight exterior of the whole building",
+  "name": "Cleveland Clinic Lou Ruvo Center for Brain Health",
+  "by": "Frank Gehry",
+  "city": "Las Vegas",
+  "cc": "US",
+  "year": 2010,
+  "type": "Health",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Gehry's Las Vegas brain-health centre, opened in 2010 and run by the Cleveland Clinic.",
+  "commons_category": "Category:Lou Ruvo Center for Brain Health",
+  "coords": [
+   36.1674,
+   -115.155
+  ],
+  "photos": [
+   {
+    "file": "File:Lou Ruvo Center - South West Corner - 2010-12-10.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "one-international-place",
+  "qid": "Q2024002",
+  "status": "photo",
+  "why": "Named Postmodern tower by Johnson/Burgee; clear photos",
+  "name": "One International Place",
+  "by": "John Burgee",
+  "city": "Boston",
+  "cc": "US",
+  "year": 1987,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "A Postmodern Johnson/Burgee skyscraper, Boston's tenth-tallest, with three separate elements.",
+  "commons_category": "Category:International Place (Boston, Massachusetts)",
+  "coords": [
+   42.3558,
+   -71.0521
+  ],
+  "photos": [
+   {
+    "file": "File:One International Place, Boston MA.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:One International Place & Two International Place (54960644391).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "thomas-h-gale-house",
+  "qid": "Q2424445",
+  "status": "photo",
+  "why": "Early Wright, key precedent; clear house photos",
+  "name": "Thomas H. Gale House",
+  "by": "Frank Lloyd Wright",
+  "city": "Oak Park",
+  "cc": "US",
+  "year": 1892,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Free plan",
+   "Sculptural form"
+  ],
+  "features": "Wright's early 1892 house, designed while he still worked for Adler & Sullivan.",
+  "commons_category": "Category:Thomas H. Gale House",
+  "coords": [
+   41.89389,
+   -87.80167
+  ],
+  "photos": [
+   {
+    "file": "File:Oak Park Il Thomas Gale House2.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Thomas H. Gale House (7417325784).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Thomas H. Gale House (706409343).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gunma-insect-world",
+  "qid": "Q4555542",
+  "status": "photo",
+  "why": "Ando, on the wall list; glass building in daylight",
+  "name": "Gunma Insect World",
+  "by": "Tadao Ando",
+  "city": "Kiryū",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "Ando's insect-learning facility in Gunma, opened in 2005 for hands-on outdoor learning about insects.",
+  "commons_category": "Category:Gunma Insect World",
+  "coords": [
+   36.43589,
+   139.25092
+  ],
+  "photos": [
+   {
+    "file": "File:Glasshouse of Gunma Insect World.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "centro-internacional-de-ferias-y-congresos-de-tenerife",
+  "qid": "Q664681",
+  "status": "photo",
+  "why": "Calatrava; clear whole-building views",
+  "name": "Centro Internacional de Ferias y Congresos de Tenerife",
+  "by": "Santiago Calatrava",
+  "city": "Santa Cruz de Tenerife",
+  "cc": "ES",
+  "year": 1996,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Calatrava's 1996 trade fair and congress centre on Tenerife's seafront, with a great hall on the top floor.",
+  "commons_category": "Category:Centro Internacional de Ferias y Congresos (Santa Cruz de Tenerife)",
+  "coords": [
+   28.45458,
+   -16.25781
+  ],
+  "photos": [
+   {
+    "file": "File:Congresos 03.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Tenerife 2020 837.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Tenerife 2020 819.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "philips-pavilion",
+  "qid": "Q2915963",
+  "status": "photo",
+  "why": "Le Corbusier and Xenakis; whole pavilion in view",
+  "name": "Philips Pavilion",
+  "by": "Le Corbusier, Iannis Xenakis",
+  "city": "Laeken",
+  "cc": "BE",
+  "year": 1958,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "Xenakis added the tent-like enclosure of prefabricated concrete panels and cables to Le Corbusier's plan.",
+  "commons_category": "Category:Philips Pavilion of Expo 1958",
+  "coords": [
+   50.89222,
+   4.34639
+  ],
+  "photos": [
+   {
+    "file": "File:Expo58 building Philips.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Opbouw wereldtentoonstelling in Brussel, Philipspaviljoen, Bestanddeelnr 909-4204.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kimmel-center-for-the-performing-arts",
+  "qid": "Q3196907",
+  "status": "photo",
+  "why": "Viñoly; exterior in daylight",
+  "name": "Kimmel Center for the Performing Arts",
+  "by": "Rafael Viñoly",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": 2001,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Steel & glass"
+  ],
+  "features": "Viñoly's performing arts centre on Philadelphia's Avenue of the Arts, owned by the Philadelphia Orchestra and Ensemble Arts.",
+  "commons_category": "Category:Kimmel Center for the Performing Arts",
+  "coords": [
+   39.94667,
+   -75.16524
+  ],
+  "photos": [
+   {
+    "file": "File:Kimmel Center for the Performing Arts (53587020645).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "harvard-art-museums",
+  "qid": "Q3783572",
+  "status": "unsure",
+  "why": "Piano's Harvard building is not dated in prep; 1895 belongs to the older Fogg Museum, which the main photo shows.",
+  "note": "year to check; no main photo"
+ },
+ {
+  "id": "caja-madrid-obelisk",
+  "qid": "Q2423307",
+  "status": "skip",
+  "why": "A monument commemorating a bank anniversary, not a building to study."
+ },
+ {
+  "id": "guell-pavilions",
+  "qid": "Q595553",
+  "status": "photo",
+  "why": "Gaudí, a famous architect; gate pavilions in daylight",
+  "name": "Güell Pavilions",
+  "by": "Antoni Gaudí",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1887,
+  "type": "Pavilion",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "Gaudí's early Catalan Modernist gatehouses and pavilions for the Güell estate, built 1884–1887.",
+  "commons_category": "Category:Pavellons Güell",
+  "coords": [
+   41.38932,
+   2.11927
+  ],
+  "photos": [
+   {
+    "file": "File:Pavellons Finca Güel.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona 3695.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "albany-city-hall",
+  "qid": "Q3146112",
+  "status": "photo",
+  "why": "Richardson; clear whole-building photos",
+  "name": "Albany City Hall",
+  "by": "Henry Hobson Richardson",
+  "city": "Albany",
+  "cc": "US",
+  "year": 1883,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Richardson's Romanesque city hall, opened in 1883 as the seat of Albany's government.",
+  "commons_category": "Category:Albany City Hall",
+  "coords": [
+   42.65167,
+   -73.75444
+  ],
+  "photos": [
+   {
+    "file": "File:AlbanyNYCityHall.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rear of Albany City Hall and Corning Park.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "san-diego-convention-center",
+  "qid": "Q2236617",
+  "status": "skip",
+  "why": "Ordinary convention centre; the lead gives no design reason."
+ },
+ {
+  "id": "llotja-de-sant-jordi",
+  "qid": "Q2922441",
+  "status": "unsure",
+  "why": "Calatrava's underground exhibition hall; all photos are interiors, none from outside.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ifema-palacio-municipal",
+  "qid": "Q6057727",
+  "status": "skip",
+  "why": "Ordinary convention centre; the lead gives no design reason."
+ },
+ {
+  "id": "manzanares-park",
+  "qid": "Q6062319",
+  "status": "skip",
+  "why": "A park, not a building."
+ },
+ {
+  "id": "castle-hill-light",
+  "qid": "Q5050138",
+  "status": "photo",
+  "why": "Richardson, a well-known architect; clear daylight photos",
+  "name": "Castle Hill Light",
+  "by": "Henry Hobson Richardson",
+  "city": "Newport",
+  "cc": "US",
+  "year": 1890,
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Newport's lighthouse at the end of Ocean Drive, still an active navigation aid and a city symbol.",
+  "commons_category": "Category:Castle Hill Light",
+  "coords": [
+   41.46194,
+   -71.36333
+  ],
+  "photos": [
+   {
+    "file": "File:Castle Hill Light, near Newport RI (8935587252).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Castle Hill LIghthouse.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nagoya-tv-tower",
+  "qid": "Q283373",
+  "status": "skip",
+  "why": "A TV tower; the lead gives no design reason."
+ },
+ {
+  "id": "kyoto-state-guest-house",
+  "qid": "Q26791586",
+  "status": "skip",
+  "why": "The lead gives no design reason; the photo is a closure notice at a gate."
+ },
+ {
+  "id": "fukuoka-tower",
+  "qid": "Q847033",
+  "status": "skip",
+  "why": "A tower that is a record (tallest seaside tower), not a design reason."
+ },
+ {
+  "id": "columbushaus",
+  "qid": "Q1112834",
+  "status": "photo",
+  "why": "Mendelsohn; lost building with clear historic photos",
+  "name": "Columbushaus",
+  "by": "Erich Mendelsohn",
+  "city": "Bezirk Mitte",
+  "cc": "DE",
+  "year": 1932,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Mendelsohn's nine-storey Potsdamer Platz office and shop block, an icon of progressive architecture, razed in 1957.",
+  "commons_category": "Category:Columbushaus (Berlin)",
+  "coords": [
+   52.51,
+   13.3761
+  ],
+  "photos": [
+   {
+    "file": "File:Potsdamer Platz mit Columbushaus, 1932.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Columbushaus Berlin Potsdamer Platz (49609033677).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "toyosu-market",
+  "qid": "Q11633916",
+  "status": "skip",
+  "why": "Ordinary wholesale market; the lead gives no design reason."
+ },
+ {
+  "id": "pavilion-of-human-passions",
+  "qid": "Q7698728",
+  "status": "photo",
+  "why": "Horta; whole temple in daylight; year from lead (built 1891-1897)",
+  "name": "Pavilion of Human Passions",
+  "by": "Victor Horta",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": 1897,
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Horta's neoclassical temple in Brussels, built 1891–1897, with the first steps toward Art Nouveau.",
+  "commons_category": "Category:Temple of Human Passions",
+  "coords": [
+   50.84305,
+   4.38738
+  ],
+  "photos": [
+   {
+    "file": "File:Belgique - Bruxelles - Pavillon des Passions humaines - 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Paviljoen der Menselijke Driften 17.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pavillon des Passions Humaines (14032842272).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nagoya-city-science-museum",
+  "qid": "Q11415016",
+  "status": "skip",
+  "why": "The lead gives no design reason beyond its planetarium."
+ },
+ {
+  "id": "jazz-at-lincoln-center",
+  "qid": "Q3123802",
+  "status": "unsure",
+  "why": "Viñoly's hall inside the Time Warner Center; photos are interiors and signs. Lead gives 2004 opening, prep 1991 is the founding.",
+  "note": "no main photo"
+ },
+ {
+  "id": "miyazaki-prefectural-museum-of-nature-and-history",
+  "qid": "Q4677133",
+  "status": "photo",
+  "why": "Sakakura, a major Japanese modernist; whole building in daylight",
+  "name": "Miyazaki Prefectural Museum of Nature and History",
+  "by": "Junzo Sakakura",
+  "city": "Miyazaki",
+  "cc": "JP",
+  "year": 1971,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Sakakura's prefectural museum of nature and history, opened in 1971 in the grounds of Miyazaki Jingū.",
+  "commons_category": "Category:Miyazaki Prefectural Museum of Nature and History",
+  "coords": [
+   31.94,
+   131.42361
+  ],
+  "photos": [
+   {
+    "file": "File:Miyazaki Miyazaki Prefectural Museum 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Miyazaki Prefectural Museum of Nature and History 20170319.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "scmaglev-and-railway-park",
+  "qid": "Q5362576",
+  "status": "skip",
+  "why": "Railway museum; the lead gives no design reason."
+ },
+ {
+  "id": "louvre-palace",
+  "qid": "Q1075988",
+  "status": "unsure",
+  "why": "Lead gives the Lescot wing as late 1540s, not a year; prep's 1190 is the first castle on the site.",
+  "note": "year to check"
+ },
+ {
+  "id": "400-west-market",
+  "qid": "Q2748066",
+  "status": "photo",
+  "why": "Johnson (on the list) with Burgee; tower in daylight",
+  "name": "400 West Market",
+  "by": "John Burgee",
+  "city": "Louisville",
+  "cc": "US",
+  "year": 1993,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "Johnson and Burgee's Louisville tower, Kentucky's tallest, built in reinforced concrete.",
+  "commons_category": "Category:AEGON Center",
+  "coords": [
+   38.2549,
+   -85.7572
+  ],
+  "photos": [
+   {
+    "file": "File:AegonCtr2030.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:AEGON Center.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "curve-theatre",
+  "qid": "Q3007860",
+  "status": "photo",
+  "why": "Viñoly; curved building in daylight",
+  "name": "Curve (theatre)",
+  "by": "Rafael Viñoly",
+  "city": "Leicester",
+  "cc": "GB",
+  "year": 2008,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Viñoly's theatre in Leicester's cultural quarter, next to the Athena conference and banqueting centre.",
+  "commons_category": "Category:Curve (theatre)",
+  "coords": [
+   52.6355,
+   -1.1275
+  ],
+  "photos": [
+   {
+    "file": "File:Curve Leicester full panorama.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Curve, Leicester - 5 September 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hagia-sophia-hurrem-sultan-bathhouse",
+  "qid": "Q2712287",
+  "status": "photo",
+  "why": "Sinan; clear exterior in daylight",
+  "name": "Hagia Sophia Hurrem Sultan Bathhouse",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1556,
+  "type": "Health",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Sinan's 16th-century bath for Hürrem Sultan, built on the site of the ancient Baths of Zeuxippus.",
+  "commons_category": "Category:Haseki Hürrem Sultan Hamamı",
+  "coords": [
+   41.00715,
+   28.97909
+  ],
+  "photos": [
+   {
+    "file": "File:Bath of Roxelane Istanbul 2007.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:20180115 HagiaSophia 7955 (25291143197).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokohama-science-center",
+  "qid": "Q8054641",
+  "status": "skip",
+  "why": "Science museum; the lead gives no design reason."
+ },
+ {
+  "id": "canadian-war-museum",
+  "qid": "Q1032442",
+  "status": "unsure",
+  "why": "Moriyama and Rankin museum; photos are exhibit panels and displays, no exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "trinity-church-boston",
+  "qid": "Q901259",
+  "status": "photo",
+  "why": "Richardson's church; daylight exterior",
+  "name": "Trinity Church (Boston)",
+  "by": "Henry Hobson Richardson",
+  "city": "Boston",
+  "cc": "US",
+  "year": 1877,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Light & shadow"
+  ],
+  "features": "Richardson's 1877 church in Boston's Back Bay, home of an Episcopal parish founded in 1733.",
+  "commons_category": "Category:Trinity Church, Boston",
+  "coords": [
+   42.34989,
+   -71.07536
+  ],
+  "photos": [
+   {
+    "file": "File:Trinity Church, Boston, Massachusetts - front oblique view.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:H. H. Richardson - Boston, MA - Trinity Church (J).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "greek-orthodox-cathedral-of-st-luke-glasgow",
+  "qid": "Q2942389",
+  "status": "unsure",
+  "why": "Prep gives Mackintosh for an 1877 building, and the lead names neither him nor a date. Check the architect and year.",
+  "note": "architect and year to check"
+ },
+ {
+  "id": "juma-jami-mosque",
+  "qid": "Q2390721",
+  "status": "photo",
+  "why": "Sinan; mosque in daylight",
+  "name": "Juma-Jami Mosque",
+  "by": "Mimar Sinan",
+  "city": "Yevpatoria",
+  "cc": "UA",
+  "year": 1564,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Light from above",
+   "Courtyard"
+  ],
+  "features": "A 16th-century Sinan mosque in Yevpatoria, Crimea, built between 1552 and 1564.",
+  "commons_category": "Category:Juma-Jami Mosque in Yevpatoria",
+  "coords": [
+   45.19583,
+   33.37722
+  ],
+  "photos": [
+   {
+    "file": "File:Eupatoria 04-14 img12 Juma Jami Mosque.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2021. Евпатория PANO 20210722 185802.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sokollu-mehmed-pasha-mosque-kadirga",
+  "qid": "Q1572472",
+  "status": "photo",
+  "why": "Sinan; year 1571/2 from lead; mosque in daylight",
+  "name": "Sokollu Mehmed Pasha Mosque, Kadırga",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1572,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Monumentality",
+   "Light from above"
+  ],
+  "features": "Sinan's Ottoman mosque in Kadırga, Istanbul, noted for its fine Iznik tiles inside.",
+  "commons_category": "Category:Sokollu Mehmet Pasha Mosque",
+  "coords": [
+   41.00472,
+   28.97194
+  ],
+  "photos": [
+   {
+    "file": "File:Sokollu Mehmet Pasha Camii exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Istanbul Sokollu Mehmet Pasha mosque december 2015 5249.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "zal-mahmud-pasha-mosque",
+  "qid": "Q1572457",
+  "status": "photo",
+  "why": "Sinan; mosque in daylight",
+  "name": "Zal Mahmud Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1590,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Courtyard"
+  ],
+  "features": "A 16th-century Ottoman mosque in Eyüp, Istanbul, designed by Mimar Sinan and completed in 1590.",
+  "commons_category": "Category:Zal Mahmud Pasha Mosque",
+  "coords": [
+   41.04478,
+   28.93582
+  ],
+  "photos": [
+   {
+    "file": "File:Zal Mahmud Pasha Mosque.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zal Mahmud Paşa Camii IMG 0221.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "atik-valide-mosque",
+  "qid": "Q2483550",
+  "status": "photo",
+  "why": "Sinan; clear exterior",
+  "name": "Atik Valide Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1586,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Light from above"
+  ],
+  "features": "Sinan's imperial mosque for Nurbanu Sultan in Üsküdar, part of a complex with a madrasa and caravanserai.",
+  "commons_category": "Category:Atik Valide Mosque",
+  "coords": [
+   41.01894,
+   29.02364
+  ],
+  "photos": [
+   {
+    "file": "File:Istanbul, üsküdar, moschea dell'atik valide, 1577-1583 circa, esterno, veduta della moschea e dei minareti.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "charlier-museum",
+  "qid": "Q256200",
+  "status": "unsure",
+  "why": "Prep gives Horta and 1844; the lead names neither. Check the architect and year.",
+  "note": "architect and year to check"
+ },
+ {
+  "id": "mihrimah-sultan-mosque-edirnekapi",
+  "qid": "Q1581190",
+  "status": "photo",
+  "why": "Sinan; exterior views, dome and walls",
+  "name": "Mihrimah Sultan Mosque, Edirnekapı",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1562,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Sinan's mosque for Mihrimah Sultan, on the summit of Istanbul's Sixth Hill beside the Byzantine walls.",
+  "commons_category": "Category:Mihrimah Mosque (Edirnekapı)",
+  "coords": [
+   41.02917,
+   28.93583
+  ],
+  "photos": [
+   {
+    "file": "File:Istanbul Mihrimah Sultan Mosque (Edirnekapı) from east looking up in 2024 5369.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Istanbul Mihrimah Sultan Mosque (Edirnekapı) seen from Sulukule Caddesi outside the city walls in 2024 5364.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "osman-shah-mosque",
+  "qid": "Q15911667",
+  "status": "photo",
+  "why": "Sinan; clear daylight exterior",
+  "name": "Osman Shah Mosque",
+  "by": "Mimar Sinan",
+  "city": "Trikala",
+  "cc": "GR",
+  "year": 1570,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "A 1570 Ottoman mosque in Trikala, abandoned in the 1890s and later reused for cultural purposes.",
+  "commons_category": "Category:Osman Shah Mosque",
+  "coords": [
+   39.5501,
+   21.7711
+  ],
+  "photos": [
+   {
+    "file": "File:Trikala Greece Kursum Mosque 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:041 ΚΟΥΡΣΟΥΜ ΤΖΑΜΙ,ΤΡΙΚΑΛΑ 7.2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mihrimah-sultan-mosque-uskudar",
+  "qid": "Q2537376",
+  "status": "photo",
+  "why": "Sinan; clear exterior with trees",
+  "name": "Mihrimah Sultan Mosque, Üsküdar",
+  "by": "Mimar Sinan",
+  "city": "Üsküdar",
+  "cc": "TR",
+  "year": 1548,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Water",
+   "Light from above"
+  ],
+  "features": "A 16th-century Sinan mosque on Üsküdar's waterfront, named after the ferry jetty beside it.",
+  "commons_category": "Category:Mihrimah Sultan Mosque (Üsküdar)",
+  "coords": [
+   41.02679,
+   29.01598
+  ],
+  "photos": [
+   {
+    "file": "File:Üsküdar Mihrimah Sultan Camii.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sinan-pasha-mosque-istanbul",
+  "qid": "Q1572395",
+  "status": "photo",
+  "why": "Sinan; mosque exterior",
+  "name": "Sinan Pasha Mosque (Istanbul)",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1554,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Sinan's mosque in Beşiktaş, built for Admiral Sinan Pasha, with Barbaros Hayrettin Pasha's tomb across the street.",
+  "commons_category": "Category:Sinan Paşa Mosque",
+  "coords": [
+   41.04234,
+   29.00624
+  ],
+  "photos": [
+   {
+    "file": "File:İstanbul 5153.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sinan Pasha Mosque 0680.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kilic-ali-pasha-complex",
+  "qid": "Q862848",
+  "status": "photo",
+  "why": "Sinan; year from lead (mosque 1578-1580)",
+  "name": "Kılıç Ali Pasha Complex",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1580,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Water",
+   "Stone"
+  ],
+  "features": "Sinan's mosque in Tophane, built beside the sea when he was in his nineties, in a complex finished in 1587.",
+  "commons_category": "Category:Kılıç Ali Pasha Mosque",
+  "coords": [
+   41.02637,
+   28.98093
+  ],
+  "photos": [
+   {
+    "file": "File:İstanbul 4939.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Istanbul, moschea di Kılıç Ali Pasha, di sinan, 1580-87, esterno 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "semsi-pasha-mosque",
+  "qid": "Q1572431",
+  "status": "photo",
+  "why": "Sinan; mosque in daylight",
+  "name": "Şemsi Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1581,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "Sinan's Ottoman mosque in Üsküdar, a densely populated district of Istanbul.",
+  "commons_category": "Category:Şemsi Pasha Mosque",
+  "coords": [
+   41.02594,
+   29.01137
+  ],
+  "photos": [
+   {
+    "file": "File:Semsi Ahmet Pasha mosque 0297.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Şemsi Pasha Mosque.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "molla-celebi-mosque",
+  "qid": "Q2719788",
+  "status": "photo",
+  "why": "Sinan; mosque exterior",
+  "name": "Molla Çelebi Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1584,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Water",
+   "Stone"
+  ],
+  "features": "Sinan's 16th-century mosque on the Bosphorus waterfront in Fındıklı, near the Kabataş ferry port.",
+  "commons_category": "Category:Molla Çelebi Mosque",
+  "coords": [
+   41.0321,
+   28.9906
+  ],
+  "photos": [
+   {
+    "file": "File:İstanbul 5430.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kara-ahmed-pasha-mosque",
+  "qid": "Q1572049",
+  "status": "photo",
+  "why": "Sinan; several clear exteriors",
+  "name": "Kara Ahmed Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1572,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Light from above"
+  ],
+  "features": "A 16th-century Sinan mosque near Istanbul's city walls, completed around 1572.",
+  "commons_category": "Category:Kara Ahmed Pasha Mosque",
+  "coords": [
+   41.02112,
+   28.92922
+  ],
+  "photos": [
+   {
+    "file": "File:Istanbul Gazi Ahmet Paşa Mosque exterior NE side 3049.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Istanbul Gazi Ahmet Paşa Mosque exterior in 2015 0032.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kara Ahmet Pasha Camii DSCF7434.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "seven-saints-church-sofia",
+  "qid": "Q2989415",
+  "status": "unsure",
+  "why": "Prep gives 1528 and Sinan; the lead gives 1547 as the mosque's founding and 1903 as the church's opening.",
+  "note": "year and architect to check"
+ },
+ {
+  "id": "piyale-pasha-mosque",
+  "qid": "Q7199786",
+  "status": "photo",
+  "why": "Sinan; mosque exterior",
+  "name": "Piyale Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1573,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "A 16th-century Sinan mosque in Kasımpaşa, also called the Tersane (Shipyard) Mosque.",
+  "commons_category": "Category:Piyale Pasha Mosque",
+  "coords": [
+   41.0446,
+   28.966
+  ],
+  "photos": [
+   {
+    "file": "File:Istanbul Piyale Pasha Mosque exterior NW side in 2014 6766.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Istanbul Piyale Pasha Mosque exterior back side with tomb in 2014 6755.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sokollu-mehmed-pasha-mosque-azapkapi",
+  "qid": "Q6071846",
+  "status": "photo",
+  "why": "Sinan; clear exteriors in daylight",
+  "name": "Sokollu Mehmed Pasha Mosque, Azapkapı",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1577,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Water",
+   "Light from above"
+  ],
+  "features": "Sinan's mosque in Azapkapı, beside the Atatürk Bridge; built for the grand vizier Sokollu Mehmed Pasha.",
+  "commons_category": "Category:Sokollu Mehmet Pasha Mosque (Azapkapı)",
+  "coords": [
+   41.025,
+   28.96778
+  ],
+  "photos": [
+   {
+    "file": "File:Sokollu Mehmet Pasha Mosque Azapkapi 7408.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sokollu Mehmet Paşa Camii IMG 5363.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "behram-pasha-mosque",
+  "qid": "Q3675542",
+  "status": "unsure",
+  "why": "Sinan's 1572 mosque; photos show the arcade and details only, no whole-building exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "gazi-husrev-beg-mosque",
+  "qid": "Q1255835",
+  "status": "photo",
+  "why": "Sinan; mosque and minaret, marginal framing",
+  "name": "Gazi Husrev-beg Mosque",
+  "by": "Mimar Sinan",
+  "city": "Sarajevo",
+  "cc": "BA",
+  "year": 1531,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Stone"
+  ],
+  "features": "Bosnia and Herzegovina's largest historic mosque, a 16th-century Ottoman landmark in Sarajevo.",
+  "commons_category": "Category:Gazi Husrev-beg's Mosque",
+  "coords": [
+   43.85917,
+   18.42903
+  ],
+  "photos": [
+   {
+    "file": "File:Gazi Husrev-beg's Mosque IMG 9523 sarajevo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hadim-ibrahim-pasha-mosque",
+  "qid": "Q5637873",
+  "status": "photo",
+  "why": "Sinan; exterior in daylight",
+  "name": "Hadim Ibrahim Pasha Mosque",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1551,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Courtyard"
+  ],
+  "features": "A 16th-century Ottoman mosque in Istanbul's Silivrikapı neighbourhood, designed by Mimar Sinan.",
+  "commons_category": "Category:Hadim Ibrahim Pasha Mosque",
+  "coords": [
+   41.006,
+   28.923
+  ],
+  "photos": [
+   {
+    "file": "File:Hadim Ibrahim Mosque 9219.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Istanbul Hadım Ibrahim Paşa mosque exterior from garden in 20245506.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sokollu-mehmed-pasha-mosque-buyukcekmece",
+  "qid": "Q6049801",
+  "status": "skip",
+  "why": "Ruin of a mosque; ruins are skipped."
+ },
+ {
+  "id": "muradiye-mosque-manisa",
+  "qid": "Q17011687",
+  "status": "photo",
+  "why": "Sinan; whole mosque in daylight",
+  "name": "Muradiye Mosque, Manisa",
+  "by": "Mimar Sinan",
+  "city": "Manisa",
+  "cc": "TR",
+  "year": 1585,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Light from above"
+  ],
+  "features": "A 16th-century Sinan mosque in Manisa, commissioned by Sultan Murad III.",
+  "commons_category": "Category:Muradiye Mosque (Manisa)",
+  "coords": [
+   38.60986,
+   27.429
+  ],
+  "photos": [
+   {
+    "file": "File:IzManisaM04.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aqsunqur-mosque",
+  "qid": "Q622784",
+  "status": "unsure",
+  "why": "Prep names Mimar Sinan and 1347; the lead describes a Mamluk mosque in Cairo. Check the architect.",
+  "note": "architect to check"
+ },
+ {
+  "id": "iskender-pasha-mosque-kanlica",
+  "qid": "Q6104328",
+  "status": "photo",
+  "why": "Sinan; exterior in daylight",
+  "name": "İskender Pasha Mosque, Kanlıca",
+  "by": "Mimar Sinan",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1559,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Water",
+   "Light from above"
+  ],
+  "features": "A 1559–60 Sinan mosque across from Kanlıca Pier, commissioned by a military judge and extensively rebuilt.",
+  "commons_category": "Category:İskender Pasha Mosque (Kanlıca)",
+  "coords": [
+   41.10002,
+   29.06587
+  ],
+  "photos": [
+   {
+    "file": "File:Gazi Iskender Pasha Camii 0831.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gazi Iskender Pasha Camii 0832.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "university-of-pennsylvania",
+  "qid": "Q49117",
+  "status": "skip",
+  "why": "A university, not one building; photos are archive scans."
+ }
+]

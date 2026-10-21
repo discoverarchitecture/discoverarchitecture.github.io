@@ -1,5 +1,107 @@
 [
  {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Architect pages batch 8 (27 architects) and drawings for 40 more of the most-studied buildings",
+  "pr": "99"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Design",
+  "what": "FGA Studio: Other option, tick on Join, more counts; AI button opens the page on a computer",
+  "pr": "104"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/hub-pages-rebuild",
+  "what": "Hub pages: all 32 introductions live",
+  "pr": "103"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Design",
+  "what": "FGA Studio: waitlist page at /studio/, AI button on the wall, sign-ups counted",
+  "pr": "101"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Further reading: check candidate links on GitHub's servers",
+  "pr": "102"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/hub-intros",
+  "what": "Hub introductions: the other 27",
+  "pr": "97"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Drawings for the most-studied buildings 201-1,000: Commons scanned in four runs, 82 drawings for 40 buildings accepted (Sonnet first pass, Opus check by eye) and fetched; 15 off-topic photos from the refetch removed.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-pages-reading",
+  "what": "Read about: show up to 15 links, six then See all",
+  "pr": "100"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Further reading: brief for 10–15 links per hub and architect page",
+  "pr": "98"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-pages",
+  "what": "Hub pages: styles, building types, cities and ideas (first 32)",
+  "pr": "94"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-intros",
+  "what": "Hub introductions: first five for the owner's approval",
+  "pr": "95"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Architect pages, batch 7: 29 more architects",
+  "pr": "96"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-sources",
+  "what": "Hub sources: facts and links for the first 32 hubs",
+  "pr": "93"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Hub pages: brief and list of the first 32 (styles, types, cities, ideas)",
+  "pr": "92"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Most-studied buildings: drawings, Art Institute works, About texts, WikiArquitectura links; 35 buildings from the Haiku test",
+  "pr": "91"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/keen-cray-9mzzze",
+  "what": "Pinterest site verification tag + outreach playbook",
+  "pr": "90"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Count what visitors do on the wall (buildings, map, game), and tell Bing about changed pages",
+  "pr": "89"
+ },
+ {
   "date": "2026-10-20",
   "workstream": "Data collection",
   "what": "Round 9: 264 new buildings, a second gallery check, and tools for drawings and the Art Institute",
@@ -57,6 +159,12 @@
   "date": "2026-10-20",
   "workstream": "Data collection",
   "what": "Drawings: first 200 most-studied buildings scanned on Commons; 46 drawings for 20 buildings checked by eye and queued for fetching.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "FGA Studio (design)",
+  "what": "Sample board remade (round 3): Salk drawings redrawn like a studio set, three layouts (Calm grid, Drawing first, Editorial) on canvas v32 with phone and computer views; waiting for the owner’s pick and case-study PDFs.",
   "pr": ""
  },
  {
