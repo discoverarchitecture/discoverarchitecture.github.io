@@ -466,7 +466,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Lindt Home of Chocolate | Christ & Gantenbein | 2020 | Kilchberg, CH | no free photo found (no Commons category) |
 | Hoechst Technical Administration Building (Behrensbau) | Peter Behrens | 1924 | Frankfurt, DE | no main photo (category holds only interiors and details) |
 | Schirn Kunsthalle | BJSS | 1986 | Frankfurt, DE | no main photo (only entrance and details) |
-| Heliotrop | Rolf Disch | 1994 | Freiburg, DE | no main photo (lead is false-colour, the other is a distant view) |
 | Sanssouci | Georg Wenzeslaus von Knobelsdorff | 1747 | Potsdam, DE | no main photo (palace is small across the terraces; others are details) |
 | Kölner Philharmonie | Busmann + Haberer | 1986 | Cologne, DE | no main photo (entrance crops; the hall is underground) |
 | MuseumsQuartier | Laurids and Manfred Ortner (Ortner & Ortner) | 2001 | Vienna, AT | no main photo (courtyard furniture and street views) |

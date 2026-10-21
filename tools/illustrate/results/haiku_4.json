@@ -1,0 +1,3168 @@
+[
+ {
+  "id": "pasadena-city-hall",
+  "qid": "Q2055241",
+  "status": "photo",
+  "name": "Pasadena City Hall",
+  "by": "Bakewell & Brown, John Bakewell Jr., Arthur Brown, Jr.",
+  "city": "Pasadena",
+  "cc": "US",
+  "year": 1927,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A City Beautiful civic building of 1927 that blends Mediterranean Revival and Spanish Colonial Revival styles.",
+  "commons_category": "Category:Pasadena City Hall",
+  "coords": [
+   34.1476,
+   -118.144
+  ],
+  "photos": [
+   {
+    "file": "File:Pasadena City Hall DSC 4681 ad.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pasadena_City_Hall",
+   "https://www.wikidata.org/wiki/Q2055241"
+  ]
+ },
+ {
+  "id": "cecil-h-green-library",
+  "qid": "Q4405931",
+  "status": "photo",
+  "name": "Cecil H. Green Library",
+  "by": "Arthur Brown, Jr.",
+  "city": "Stanford",
+  "cc": "US",
+  "year": 1919,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Courtyard"
+  ],
+  "features": "Stanford's main library, with 4 million volumes, the centre of a campus library system.",
+  "commons_category": "Category:Cecil H. Green Library",
+  "coords": [
+   37.42683,
+   -122.16714
+  ],
+  "photos": [
+   {
+    "file": "File:Stanford University Green Library Bing Wing.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cecil_H._Green_Library",
+   "https://www.wikidata.org/wiki/Q4405931"
+  ]
+ },
+ {
+  "id": "heliotrope-building",
+  "qid": "Q325460",
+  "status": "photo",
+  "name": "Heliotrope (building)",
+  "by": "Rolf Disch",
+  "city": "Freiburg im Breisgau",
+  "cc": "DE",
+  "year": 1994,
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Human comfort",
+   "Facade as skin"
+  ],
+  "features": "Rolf Disch's own home, an energy-positive house that captures four to six times the energy it uses.",
+  "commons_category": "Category:Heliotrop (Freiburg im Breisgau)",
+  "coords": [
+   47.9733,
+   7.83322
+  ],
+  "photos": [
+   {
+    "file": "File:Heliotrop Freiburg.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Heliotrop (Gebäude).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Heliotrop in Freiburg am Lorettoberg 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Heliotrop in Freiburg am Lorettoberg 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heliotrope_%28building%29",
+   "https://www.wikidata.org/wiki/Q325460"
+  ]
+ },
+ {
+  "id": "kotelnicheskaya-embankment-building",
+  "qid": "Q2022067",
+  "status": "photo",
+  "name": "Kotelnicheskaya Embankment Building",
+  "by": "Dmitry Chechulin",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 1952,
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "One of seven Stalinist skyscrapers, and the tallest building in Europe when it was completed in 1952.",
+  "commons_category": "Category:Skyscraper on Kotelnicheskaya Embankment",
+  "coords": [
+   55.7471,
+   37.64288
+  ],
+  "photos": [
+   {
+    "file": "File:00 4680 Moskau - Kotelnicheskaya Embankment.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow Kotelnicheskaya Skyscraper 020 1510.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow Kotelnicheskaya Skyscraper 020 1547.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kotelnicheskaya_Embankment_Building",
+   "https://www.wikidata.org/wiki/Q2022067"
+  ]
+ },
+ {
+  "id": "kudrinskaya-square-building",
+  "qid": "Q2388422",
+  "status": "photo",
+  "name": "Kudrinskaya Square Building",
+  "by": "Mikhail Posokhin, Ashot Mndoyants",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 1954,
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "One of the Seven Sisters, Moscow's Stalinist skyscrapers, designed by Posokhin and Mndoyants.",
+  "commons_category": "Category:Kudrinskaya Square Building",
+  "coords": [
+   55.75889,
+   37.58056
+  ],
+  "photos": [
+   {
+    "file": "File:Moscow - 2026 - Restoration of the House on Kudrinskaya.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kudrinskaya Square Building in Moscow.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kudrinskaya_Square_Building",
+   "https://www.wikidata.org/wiki/Q2388422"
+  ]
+ },
+ {
+  "id": "scharinska-villan",
+  "qid": "Q10663150",
+  "status": "photo",
+  "name": "Scharinska villan",
+  "by": "Ragnar Östberg",
+  "city": "Umeå",
+  "cc": "SE",
+  "year": 1905,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "A pink villa by Ragnar Östberg, built 1904-05 for a family, beside Döbelns park in Umeå.",
+  "commons_category": "Category:Scharinska villan",
+  "coords": [
+   63.82361,
+   20.27139
+  ],
+  "photos": [
+   {
+    "file": "File:Scharinska villan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scharinska_villan",
+   "https://www.wikidata.org/wiki/Q10663150"
+  ]
+ },
+ {
+  "id": "war-memorial-opera-house",
+  "qid": "Q2915772",
+  "status": "photo",
+  "name": "War Memorial Opera House",
+  "by": "Arthur Brown, Jr., G. Albert Lansburgh",
+  "city": "San Francisco",
+  "cc": "US",
+  "year": 1932,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Stone"
+  ],
+  "features": "Home of the San Francisco Opera since 1932; it hosted the 1945 conference that set up the United Nations.",
+  "commons_category": "Category:War Memorial Opera House",
+  "coords": [
+   37.7786,
+   -122.421
+  ],
+  "photos": [
+   {
+    "file": "File:War Memorial Opera House (San Francisco).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/War_Memorial_Opera_House",
+   "https://www.wikidata.org/wiki/Q2915772"
+  ]
+ },
+ {
+  "id": "ainola",
+  "qid": "Q151782",
+  "status": "photo",
+  "name": "Ainola",
+  "by": "Lars Sonck",
+  "city": "Järvenpää",
+  "cc": "FI",
+  "year": 1904,
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "A two-story wooden home designed by Lars Sonck for composer Jean Sibelius and his family.",
+  "commons_category": "Category:Ainola",
+  "coords": [
+   60.45451,
+   25.08639
+  ],
+  "photos": [
+   {
+    "file": "File:Ainola yard.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ainola",
+   "https://www.wikidata.org/wiki/Q151782"
+  ]
+ },
+ {
+  "id": "museum-of-human-evolution",
+  "qid": "Q3816087",
+  "status": "photo",
+  "name": "Museum of Human Evolution",
+  "by": "Juan Navarro Baldeweg",
+  "city": "Burgos",
+  "cc": "ES",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Opened in 2010 beside the Arlanzón river, near the Atapuerca World Heritage fossil sites.",
+  "commons_category": "Category:Museo de la Evolución Humana",
+  "coords": [
+   42.3392,
+   -3.6972
+  ],
+  "photos": [
+   {
+    "file": "File:MEH Frontal.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Human_Evolution",
+   "https://www.wikidata.org/wiki/Q3816087"
+  ]
+ },
+ {
+  "id": "museum-of-art-architecture-and-technology",
+  "qid": "Q27522479",
+  "status": "photo",
+  "name": "Museum of Art, Architecture and Technology",
+  "by": "Amanda Levete, AL_A",
+  "city": "Lisbon",
+  "cc": "PT",
+  "year": 2016,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Water",
+   "Public space"
+  ],
+  "features": "Lisbon's museum of art, architecture and technology, a 2016 work by Amanda Levete (AL_A).",
+  "commons_category": "Category:Museu de Arte, Arquitetura e Tecnologia",
+  "coords": [
+   38.69591,
+   -9.1935
+  ],
+  "photos": [
+   {
+    "file": "File:The MAAT (34943440096).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Art%2C_Architecture_and_Technology",
+   "https://www.wikidata.org/wiki/Q27522479"
+  ]
+ },
+ {
+  "id": "karaite-kenesa-kyiv",
+  "qid": "Q787448",
+  "status": "photo",
+  "name": "Karaite Kenesa (Kyiv)",
+  "by": "Władysław Horodecki",
+  "city": "Kyiv",
+  "cc": "UA",
+  "year": 1902,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Colour"
+  ],
+  "features": "A former Karaite synagogue in Kyiv, listed as a monument of architectural heritage of national importance.",
+  "commons_category": "Category:Karaite kenesa in Kyiv",
+  "coords": [
+   50.45,
+   30.51111
+  ],
+  "photos": [
+   {
+    "file": "File:Караїмська Кенаса в Києві.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Karaite_Kenesa_%28Kyiv%29",
+   "https://www.wikidata.org/wiki/Q787448"
+  ]
+ },
+ {
+  "id": "aschanska-villa",
+  "qid": "Q10419250",
+  "status": "photo",
+  "name": "Aschanska Villa",
+  "by": "Ragnar Östberg",
+  "city": "Umeå",
+  "cc": "SE",
+  "year": 1906,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "A listed Umeå villa by Ragnar Östberg, completed in 1906 for a colonel and now a restaurant.",
+  "commons_category": "Category:Aschanska villan",
+  "coords": [
+   63.82385,
+   20.26425
+  ],
+  "photos": [
+   {
+    "file": "File:Aschanska villan, Umeå.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aschanska villan Umea Sweden.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aschanska_Villa",
+   "https://www.wikidata.org/wiki/Q10419250"
+  ]
+ },
+ {
+  "id": "didrichsen-art-museum",
+  "qid": "Q5274238",
+  "status": "photo",
+  "name": "Didrichsen Art Museum",
+  "by": "Viljo Revell",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 1965,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "A Helsinki art museum of 1965, designed by Viljo Revell.",
+  "commons_category": "Category:Didrichsen Art Museum",
+  "coords": [
+   60.18528,
+   24.85639
+  ],
+  "photos": [
+   {
+    "file": "File:Didrichsenin taidemuseo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Didrichsen Art Museum 04.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Didrichsen Art Museum 01.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Didrichsen_Art_Museum",
+   "https://www.wikidata.org/wiki/Q5274238"
+  ]
+ },
+ {
+  "id": "air-force-command-building-belgrade",
+  "qid": "Q2929295",
+  "status": "photo",
+  "name": "Air Force Command Building, Belgrade",
+  "by": "Dragiša Brašovan",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": 1935,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A monumental headquarters in Zemun, Belgrade, by Dragiša Brašovan, which later housed the Air Force Museum.",
+  "commons_category": "Category:Airforce command building (Zemun)",
+  "coords": [
+   44.8415,
+   20.4132
+  ],
+  "photos": [
+   {
+    "file": "File:Зграда команде ваздухопловства 2012-09-16 14-01-51.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Zgrada komande vazduhoplovstva (Zemun) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Air_Force_Command_Building%2C_Belgrade",
+   "https://www.wikidata.org/wiki/Q2929295"
+  ]
+ },
+ {
+  "id": "jinpukaku",
+  "qid": "Q6202742",
+  "status": "photo",
+  "name": "Jinpūkaku",
+  "by": "Katayama Tōkuma",
+  "city": "Tottori",
+  "cc": "JP",
+  "year": 1907,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "A French Renaissance-style Western residence of the Ikeda clan in Tottori, built 1907.",
+  "commons_category": "Category:Jinpukaku",
+  "coords": [
+   35.50719,
+   134.2375
+  ],
+  "photos": [
+   {
+    "file": "File:Jinpukaku00s5s4500.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Jinpukaku02 1920.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jinp%C5%ABkaku",
+   "https://www.wikidata.org/wiki/Q6202742"
+  ]
+ },
+ {
+  "id": "banovina-palace-novi-sad",
+  "qid": "Q15639886",
+  "status": "photo",
+  "name": "Banovina Palace (Novi Sad)",
+  "by": "Dragiša Brašovan",
+  "city": "Novi Sad",
+  "cc": "RS",
+  "year": 1940,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Public space"
+  ],
+  "features": "A 1936-40 Novi Sad government complex by Dragiša Brašovan, mixing modernism with art deco.",
+  "commons_category": "Category:Zgrada Vlade Vojvodine",
+  "coords": [
+   45.25354,
+   19.84971
+  ],
+  "photos": [
+   {
+    "file": "File:Banovina Complex in Novi Sad - Kompleks Banovine u Novom Sadu 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Horthy Miklós sugárút (Bulevar Mihajla Pupina), Báni palota (Banovina).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Banovina_Palace_%28Novi_Sad%29",
+   "https://www.wikidata.org/wiki/Q15639886"
+  ]
+ },
+ {
+  "id": "aichi-prefectural-ceramic-museum",
+  "qid": "Q4696582",
+  "status": "photo",
+  "name": "Aichi Prefectural Ceramic Museum",
+  "by": "Yoshirō Taniguchi",
+  "city": "Seto",
+  "cc": "JP",
+  "year": 1978,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "A prefectural ceramics museum in Seto, Japan, designed by Yoshirō Taniguchi.",
+  "commons_category": "Category:Aichi Prefectural Ceramic Museum",
+  "coords": [
+   35.18583,
+   137.09806
+  ],
+  "photos": [
+   {
+    "file": "File:Aichi Prefectural Ceramic Museum-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aichi Prefectural Ceramic Museum.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Aichi Prefectural Ceramic Museum01-r.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aichi_Prefectural_Ceramic_Museum",
+   "https://www.wikidata.org/wiki/Q4696582"
+  ]
+ },
+ {
+  "id": "seville-public-library",
+  "qid": "Q7458071",
+  "status": "photo",
+  "name": "Seville Public Library",
+  "by": "Cruz y Ortiz",
+  "city": "Seville",
+  "cc": "ES",
+  "year": 1999,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Brick",
+   "Light & shadow"
+  ],
+  "features": "A 1999 public library in Seville, a highly innovative design nominated for a major European architectural award.",
+  "commons_category": "Category:Biblioteca Pública Provincial Infanta Elena (Sevilla)",
+  "coords": [
+   37.37713,
+   -5.99159
+  ],
+  "photos": [
+   {
+    "file": "File:Biblioteca publica sevilla 001.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca Publica Sevilla.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seville_Public_Library",
+   "https://www.wikidata.org/wiki/Q7458071"
+  ]
+ },
+ {
+  "id": "altes-stadthaus-berlin",
+  "qid": "Q95417",
+  "status": "photo",
+  "name": "Altes Stadthaus, Berlin",
+  "by": "Ludwig Hoffmann",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1911,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Courtyard"
+  ],
+  "features": "Berlin's former city hall, built 1902-11 by Ludwig Hoffmann, with five courtyards and 29 allegorical sculptures.",
+  "commons_category": "Category:Altes Stadthaus (Berlin)",
+  "coords": [
+   52.51639,
+   13.41083
+  ],
+  "photos": [
+   {
+    "file": "File:Altes Stadthaus, Westseite, Berlin-Mitte, 160213, ako.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Altes Stadthaus, Berlin, 160213, ako.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Altes_Stadthaus%2C_Berlin",
+   "https://www.wikidata.org/wiki/Q95417"
+  ]
+ },
+ {
+  "id": "forum-groningen",
+  "qid": "Q3076424",
+  "status": "photo",
+  "name": "Forum Groningen",
+  "by": "NL Architects, Walter van Dijk",
+  "city": "Groningen",
+  "cc": "NL",
+  "year": 2019,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "A cultural centre in Groningen with a library, cinema, museums and a rooftop bar, opened in 2019.",
+  "commons_category": "Category:Groninger Forum",
+  "coords": [
+   53.21892,
+   6.57033
+  ],
+  "photos": [
+   {
+    "file": "File:Forum-Groningen1-Kirschbluete-2026-04-msu7-3811.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Groninger Forum-2026-04-msu2-3811.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forum_Groningen",
+   "https://www.wikidata.org/wiki/Q3076424"
+  ]
+ },
+ {
+  "id": "pagode-de-vincennes",
+  "qid": "Q2985016",
+  "status": "photo",
+  "name": "Pagode de Vincennes",
+  "by": "Louis-Hippolyte Boileau",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 1931,
+  "type": "Pavilion",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Landscape"
+  ],
+  "features": "A 1931 Colonial Exposition pavilion by Louis-Hippolyte Boileau, now the seat of France's Buddhist Union beside Lac Daumesnil.",
+  "commons_category": "Category:Pagode de Vincennes",
+  "coords": [
+   48.82846,
+   2.41537
+  ],
+  "photos": [
+   {
+    "file": "File:Pagode de Vincennes, January 2013.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grande Pagode du Bois de Vincennes @ Lac Daumesnil @ Bois de Vincennes @ Paris (23620289130).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Pagode_de_Vincennes",
+   "https://www.wikidata.org/wiki/Q2985016"
+  ]
+ },
+ {
+  "id": "d-coque",
+  "qid": "Q1272946",
+  "status": "photo",
+  "name": "D'Coque",
+  "by": "Roger Taillibert",
+  "city": "Luxembourg",
+  "cc": "LU",
+  "year": 1982,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "The Coque, a sports and culture centre in Kirchberg with an indoor arena and Olympic-sized pool.",
+  "commons_category": "Category:D'Coque",
+  "coords": [
+   49.62361,
+   6.15417
+  ],
+  "photos": [
+   {
+    "file": "File:Luxembourg, Parc central Kirchberg (105).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/D%27Coque",
+   "https://www.wikidata.org/wiki/Q1272946"
+  ]
+ },
+ {
+  "id": "planetario-di-milano",
+  "qid": "Q3906237",
+  "status": "photo",
+  "name": "Planetario di Milano",
+  "by": "Piero Portaluppi, Gualtiero Galmanini",
+  "city": "Milan",
+  "cc": "IT",
+  "year": 1930,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Milan's planetarium of 1930, designed by Piero Portaluppi for Ulrico Hoepli, the largest in Italy.",
+  "commons_category": "Category:Planetario (Milan)",
+  "coords": [
+   45.47373,
+   9.2036
+  ],
+  "photos": [
+   {
+    "file": "File:Civico Planetario Ulrico Hoepli.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Milano - Planetario 0044.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Planetario_di_Milano",
+   "https://www.wikidata.org/wiki/Q3906237"
+  ]
+ },
+ {
+  "id": "saskatchewan-legislative-building",
+  "qid": "Q3579114",
+  "status": "photo",
+  "name": "Saskatchewan Legislative Building",
+  "by": "William Sutherland Maxwell, Edward Maxwell",
+  "city": "Regina",
+  "cc": "CA",
+  "year": 1912,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "Saskatchewan's 1912 Legislative Building in Regina, by the Maxwell brothers, houses the Legislative Assembly.",
+  "commons_category": "Category:Saskatchewan Legislative Building",
+  "coords": [
+   50.4324,
+   -104.615
+  ],
+  "photos": [
+   {
+    "file": "File:Saskatchewan Legislative Building - Regina.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Saskatchewan Legislative Assembly - Regina (30194708148).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saskatchewan_Legislative_Building",
+   "https://www.wikidata.org/wiki/Q3579114"
+  ]
+ },
+ {
+  "id": "prinkipo-greek-orthodox-orphanage",
+  "qid": "Q5005317",
+  "status": "photo",
+  "name": "Prinkipo Greek Orthodox Orphanage",
+  "by": "Alexandre Vallaury",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1903,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "The largest wooden building in Europe: an orphanage from 1903 to 1964 on Büyükada, one of the Princes' Islands.",
+  "commons_category": "Category:Prinkipo Greek Orthodox Orphanage",
+  "coords": [
+   40.86083,
+   29.12333
+  ],
+  "photos": [
+   {
+    "file": "File:Prinkipo Greek Orthodox Orphanage building from under the hill, 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NE view of the Prinkipo Greek Orthodox Orphanage building, 2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Prinkipo_Greek_Orthodox_Orphanage",
+   "https://www.wikidata.org/wiki/Q5005317"
+  ]
+ },
+ {
+  "id": "neuer-marstall",
+  "qid": "Q1980221",
+  "status": "photo",
+  "name": "Neuer Marstall",
+  "by": "Ernst von Ihne",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1901,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Courtyard"
+  ],
+  "features": "Neo-Baroque royal stables of 1901 by Ernst von Ihne, with three courtyards, facing the former Royal Palace.",
+  "commons_category": "Category:Neuer Marstall (Berlin)",
+  "coords": [
+   52.5164,
+   13.4042
+  ],
+  "photos": [
+   {
+    "file": "File:Neuer Marstall Berlin.jpg",
+    "license": "CC BY 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin-Marstall-Musikhochschule Hanns Eisler-02-2017-gje.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Neuer_Marstall",
+   "https://www.wikidata.org/wiki/Q1980221"
+  ]
+ },
+ {
+  "id": "nuevos-ministerios",
+  "qid": "Q2919276",
+  "status": "photo",
+  "name": "Nuevos Ministerios",
+  "by": "Secundino Zuazo",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1942,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Public space"
+  ],
+  "features": "Madrid's government complex, begun in 1933 by Secundino Zuazo and completed in 1942.",
+  "commons_category": "Category:Nuevos Ministerios",
+  "coords": [
+   40.44396,
+   -3.69346
+  ],
+  "photos": [
+   {
+    "file": "File:Bill Aplin Madrid, Spain in June 1967 (29935780424).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Minisztérium épületrészlet - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nuevos_Ministerios",
+   "https://www.wikidata.org/wiki/Q2919276"
+  ]
+ },
+ {
+  "id": "35-east-wacker",
+  "qid": "Q2816312",
+  "status": "photo",
+  "name": "35 East Wacker",
+  "by": "Joachim Giæver, Frederick P. Dinkelberg",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 1927,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "A 40-storey Jewelers' Building in Chicago, co-designed by Giæver and Dinkelberg; in 1927 the tallest outside New York.",
+  "commons_category": "Category:35 East Wacker",
+  "coords": [
+   41.8865,
+   -87.6268
+  ],
+  "photos": [
+   {
+    "file": "File:35 East Wacker, Chicago September 2016-41.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20070513 35 East Wacker.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/35_East_Wacker",
+   "https://www.wikidata.org/wiki/Q2816312"
+  ]
+ },
+ {
+  "id": "building-of-the-yugoslavian-legation-in-berlin",
+  "qid": "Q1497336",
+  "status": "photo",
+  "name": "Building of the Yugoslavian legation in Berlin",
+  "by": "Werner March",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1940,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Berlin's 1938-40 legation for Yugoslavia, designed by Werner March, now a listed building.",
+  "commons_category": "Category:Diplomatic mission of Yugoslavia Berlin",
+  "coords": [
+   52.5087,
+   13.3463
+  ],
+  "photos": [
+   {
+    "file": "File:Diplomatische Gesandtschaft Berlin.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Legation of Yugoslavia, Berlin (P1031509).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Building_of_the_Yugoslavian_legation_in_Berlin",
+   "https://www.wikidata.org/wiki/Q1497336"
+  ]
+ },
+ {
+  "id": "headquarters-of-the-bank-of-the-argentine-nation",
+  "qid": "Q5718167",
+  "status": "photo",
+  "name": "Headquarters of the Bank of the Argentine Nation",
+  "by": "Alejandro Bustillo",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": 1944,
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Alejandro Bustillo's Neoclassical bank headquarters fills a city block, with a 50 m dome.",
+  "commons_category": "Category:Banco de la Nación Argentina (Buenos Aires)",
+  "coords": [
+   -34.60722,
+   -58.37139
+  ],
+  "photos": [
+   {
+    "file": "File:Banco de la Nación.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2018-10-19 Plaza de Mayo, Buenos Aires, Argentina (Martin Rulsch) 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Headquarters_of_the_Bank_of_the_Argentine_Nation",
+   "https://www.wikidata.org/wiki/Q5718167"
+  ]
+ },
+ {
+  "id": "rosecliff",
+  "qid": "Q2166814",
+  "status": "photo",
+  "name": "Rosecliff",
+  "by": "Stanford White, McKim, Mead & White",
+  "city": "Newport",
+  "cc": "US",
+  "year": 1902,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Axis"
+  ],
+  "features": "A Gilded Age summer mansion in Newport by McKim, Mead & White, built 1898–1902 for grand entertaining.",
+  "commons_category": "Category:Rosecliff",
+  "coords": [
+   41.46528,
+   -71.30556
+  ],
+  "photos": [
+   {
+    "file": "File:Rosecliff (1308020662).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rosecliff",
+   "https://www.wikidata.org/wiki/Q2166814"
+  ]
+ },
+ {
+  "id": "fox-theatre-detroit",
+  "qid": "Q3080199",
+  "status": "photo",
+  "name": "Fox Theatre (Detroit)",
+  "by": "C. Howard Crane",
+  "city": "Detroit",
+  "cc": "US",
+  "year": 1928,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "A 1928 movie palace by theatre architect C. Howard Crane, a National Historic Landmark for its architecture.",
+  "commons_category": "Category:Fox Theatre (Detroit, Michigan)",
+  "coords": [
+   42.3386,
+   -83.05224
+  ],
+  "photos": [
+   {
+    "file": "File:Detroit August 2025 30 (Fox Theatre).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Detroit December 2015 13 (Fox Theatre).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fox_Theatre_%28Detroit%29",
+   "https://www.wikidata.org/wiki/Q3080199"
+  ]
+ },
+ {
+  "id": "hansahochhaus",
+  "qid": "Q281051",
+  "status": "photo",
+  "name": "Hansahochhaus",
+  "by": "Jacob Koerfer",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1925,
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "Cologne's first skyscraper and one of Germany's first, an Expressionist office building built 1924–25.",
+  "commons_category": "Category:Hansahochhaus",
+  "coords": [
+   50.9489,
+   6.95139
+  ],
+  "photos": [
+   {
+    "file": "File:Hansahochhaus Köln - Gesamtansicht (0308-10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cologne Germany Saturn-Hansaring-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hansahochhaus",
+   "https://www.wikidata.org/wiki/Q281051"
+  ]
+ },
+ {
+  "id": "oakland-city-hall",
+  "qid": "Q932794",
+  "status": "photo",
+  "name": "Oakland City Hall",
+  "by": "Henry Hornbostel",
+  "city": "Oakland",
+  "cc": "US",
+  "year": 1914,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "The first high-rise government building in the United States, and once the tallest west of the Mississippi.",
+  "commons_category": "Category:Oakland City Hall",
+  "coords": [
+   37.8053,
+   -122.272
+  ],
+  "photos": [
+   {
+    "file": "File:Oakland City Hall (Oakland, CA) 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oakland_City_Hall",
+   "https://www.wikidata.org/wiki/Q932794"
+  ]
+ },
+ {
+  "id": "london-coliseum",
+  "qid": "Q1868965",
+  "status": "photo",
+  "name": "London Coliseum",
+  "by": "Frank Matcham",
+  "city": "London",
+  "cc": "GB",
+  "year": 1904,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Circulation",
+   "Detail"
+  ],
+  "features": "Opened in 1904 with the first triple stage revolve in England, and lifts to its upper levels.",
+  "commons_category": "Category:Coliseum Theatre",
+  "coords": [
+   51.5097,
+   -0.12639
+  ],
+  "photos": [
+   {
+    "file": "File:The Coliseum and the Chandos, City of Westminster (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:London Coliseum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:London Coliseum 2018-09-23.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/London_Coliseum",
+   "https://www.wikidata.org/wiki/Q1868965"
+  ]
+ },
+ {
+  "id": "copenhagen-city-hall",
+  "qid": "Q2010247",
+  "status": "photo",
+  "name": "Copenhagen City Hall",
+  "by": "Martin Nyrop",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": 1905,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Brick",
+   "Detail"
+  ],
+  "features": "The Danish National Romantic city hall by Martin Nyrop, built 1892 to 1905 in Renaissance Revival style.",
+  "commons_category": "Category:Copenhagen City Hall",
+  "coords": [
+   55.67528,
+   12.57028
+  ],
+  "photos": [
+   {
+    "file": "File:Københavns Rådhus 2013 (cropped).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190621 Copenhagen 6782 (48445373296).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Københavns Rådhus - Copenhagen City Hall (37177879483).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Copenhagen_City_Hall",
+   "https://www.wikidata.org/wiki/Q2010247"
+  ]
+ },
+ {
+  "id": "waldemarsudde",
+  "qid": "Q537",
+  "status": "photo",
+  "name": "Waldemarsudde",
+  "by": "Ferdinand Boberg",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1905,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Prince Eugen's former home on Djurgården, its main building completed in 1905 by Ferdinand Boberg.",
+  "commons_category": "Category:Prins Eugens Waldemarsudde",
+  "coords": [
+   59.32,
+   18.11306
+  ],
+  "photos": [
+   {
+    "file": "File:Waldemarsudde - 20260417 - 14.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Waldemarsudde April 2006.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Waldemarsudde",
+   "https://www.wikidata.org/wiki/Q537"
+  ]
+ },
+ {
+  "id": "bolshoy-dom",
+  "qid": "Q4092985",
+  "status": "photo",
+  "name": "Bolshoy Dom",
+  "by": "Noi Trotsky, Alexander Gegello, Andrey Ol",
+  "city": "Saint Petersburg",
+  "cc": "RU",
+  "year": 1932,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A late Constructivist office block in Saint Petersburg, designed by Noi Trotsky, Alexander Gegello and Andrey Ol.",
+  "commons_category": "Category:Liteyny 4",
+  "coords": [
+   59.9485,
+   30.3492
+  ],
+  "photos": [
+   {
+    "file": "File:Big House on Liteyny prospect in Saint Petersburg.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SPb Liteyny4 019 8223.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tsentralny District, St Petersburg, Russia - panoramio (268).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bolshoy_Dom",
+   "https://www.wikidata.org/wiki/Q4092985"
+  ]
+ },
+ {
+  "id": "rosenbad",
+  "qid": "Q744615",
+  "status": "photo",
+  "name": "Rosenbad",
+  "by": "Ferdinand Boberg",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1902,
+  "type": "Civic",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Water"
+  ],
+  "features": "Stockholm's government seat, an Art Nouveau building by Ferdinand Boberg, completed in 1902.",
+  "commons_category": "Category:Rosenbad",
+  "coords": [
+   59.32847,
+   18.06583
+  ],
+  "photos": [
+   {
+    "file": "File:Rosenbad 2006.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Strömgatan January 2026 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rosenbad",
+   "https://www.wikidata.org/wiki/Q744615"
+  ]
+ },
+ {
+  "id": "leighton-house",
+  "qid": "Q6519762",
+  "status": "photo",
+  "name": "Leighton House",
+  "by": "George Aitchison",
+  "city": "London",
+  "cc": "GB",
+  "year": 1895,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Frederic Leighton's Victorian home, with an Arab Hall of tiles bought in the Near East and Orientalist interiors.",
+  "commons_category": "Category:Leighton House Museum",
+  "coords": [
+   51.4986,
+   -0.20309
+  ],
+  "photos": [
+   {
+    "file": "File:Casa de Leighton, Londres, Inglaterra, 2022-11-26, DD 40.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leighton House Museum.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leighton_House",
+   "https://www.wikidata.org/wiki/Q6519762"
+  ]
+ },
+ {
+  "id": "palau-nacional",
+  "qid": "Q2341107",
+  "status": "photo",
+  "name": "Palau Nacional",
+  "by": "Enric Catà, Eugeni Pere Cendoya, Pere Domènech i Roura",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1929,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "The 1929 International Exhibition's main site, with an elliptical dome; Catalonia's national art museum since 1934.",
+  "commons_category": "Category:Palau Nacional (Barcelona)",
+  "coords": [
+   41.36833,
+   2.15331
+  ],
+  "photos": [
+   {
+    "file": "File:Palau Nacional, Barcelona.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:(Barcelona) Palau Nacional - National Museum of Art of Catalunya.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palau_Nacional",
+   "https://www.wikidata.org/wiki/Q2341107"
+  ]
+ },
+ {
+  "id": "gothenburg-city-theatre",
+  "qid": "Q3118440",
+  "status": "photo",
+  "name": "Gothenburg City Theatre",
+  "by": "Carl Bergsten",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 1934,
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Neo-Classical with a touch of Streamline Moderne, on Götaplatsen; critics found its auditorium intimate and democratic.",
+  "commons_category": "Category:Göteborgs stadsteater",
+  "coords": [
+   57.6975,
+   11.9805
+  ],
+  "photos": [
+   {
+    "file": "File:At Göteborg 2026 0138.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Göteborgs stadsteater.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Göteborg 2026 0139.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gothenburg_City_Theatre",
+   "https://www.wikidata.org/wiki/Q3118440"
+  ]
+ },
+ {
+  "id": "ethnographic-museum-zagreb",
+  "qid": "Q502157",
+  "status": "photo",
+  "name": "Ethnographic Museum, Zagreb",
+  "by": "Vjekoslav Bastl",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": 1903,
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "A Secession building, the former Trades Hall of 1903, with statues by Rudolf Valdec and frescoes by Oton Iveković.",
+  "commons_category": "Category:Ethnographic museum in Zagreb",
+  "coords": [
+   45.80835,
+   15.969
+  ],
+  "photos": [
+   {
+    "file": "File:Etnografski muzej u Zagrebu 3, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografski muzej u Zagrebu 2, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografski muzej u Zagrebu, 2025.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethnographic_Museum%2C_Zagreb",
+   "https://www.wikidata.org/wiki/Q502157"
+  ]
+ },
+ {
+  "id": "perelman-performing-arts-center",
+  "qid": "Q18152059",
+  "status": "photo",
+  "name": "Perelman Performing Arts Center",
+  "by": "Joshua Prince-Ramus, Davis Brody Bond",
+  "city": "New York",
+  "cc": "US",
+  "year": 2023,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Joshua Ramus's performing arts center on the World Trade Center site, chosen in 2015 after earlier plans were scrapped.",
+  "commons_category": "Category:Ronald O. Perelman Performing Arts Center",
+  "coords": [
+   40.7126,
+   -74.0123
+  ],
+  "photos": [
+   {
+    "file": "File:Perelman-Performing-Arts-Center-Street-03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Performing arts center October 1st 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Perelman Performing Arts Center (55313844031).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perelman_Performing_Arts_Center",
+   "https://www.wikidata.org/wiki/Q18152059"
+  ]
+ },
+ {
+  "id": "russian-army-theatre",
+  "qid": "Q1958711",
+  "status": "photo",
+  "name": "Russian Army Theatre",
+  "by": "Karo Halabyan, Vasiliy Simbirtsev, Boris Barkhin",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 1940,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "A prime example of Stalinist architecture, the largest theatre in Moscow, designed to resemble a Soviet red star.",
+  "commons_category": "Category:Russian Army Theatre",
+  "coords": [
+   55.78279,
+   37.61377
+  ],
+  "photos": [
+   {
+    "file": "File:Wiki Red Army Theater Moscow.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Russian_Army_Theatre",
+   "https://www.wikidata.org/wiki/Q1958711"
+  ]
+ },
+ {
+  "id": "musee-d-art-contemporain-du-val-de-marne",
+  "qid": "Q3329594",
+  "status": "photo",
+  "name": "Musée d'Art Contemporain du Val-de-Marne",
+  "by": "Denise Duhart, Jacques Ripault",
+  "city": "Vitry-sur-Seine",
+  "cc": "FR",
+  "year": 2005,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A 2005 contemporary art museum by Jacques Ripault, set in 10,000 m² of public garden.",
+  "commons_category": "Category:MAC/VAL",
+  "coords": [
+   48.79278,
+   2.38722
+  ],
+  "photos": [
+   {
+    "file": "File:Vitry - Musee d'art contemporain 00.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Le MAC VAL de Vitry sur Seine (43776159612).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Art_Contemporain_du_Val-de-Marne",
+   "https://www.wikidata.org/wiki/Q3329594"
+  ]
+ },
+ {
+  "id": "tsiolkovsky-state-museum-of-the-history-of-cosmonautics",
+  "qid": "Q4146892",
+  "status": "photo",
+  "name": "Tsiolkovsky State Museum of the History of Cosmonautics",
+  "by": "Boris Barkhin, Yevgeny Kireyev",
+  "city": "Kaluga",
+  "cc": "RU",
+  "year": 1967,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "The first museum in the world on the history of space exploration, opened in Kaluga in 1967.",
+  "commons_category": "Category:Tsiolkovsky State Museum of the History of Cosmonautics",
+  "coords": [
+   54.5172,
+   36.2306
+  ],
+  "photos": [
+   {
+    "file": "File:Space museum (Kaluga).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tsiolkovsky_State_Museum_of_the_History_of_Cosmonautics",
+   "https://www.wikidata.org/wiki/Q4146892"
+  ]
+ },
+ {
+  "id": "allen-memorial-art-museum",
+  "qid": "Q3816734",
+  "status": "photo",
+  "name": "Allen Memorial Art Museum",
+  "by": "Cass Gilbert",
+  "city": "Oberlin",
+  "cc": "US",
+  "year": 1917,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "An Oberlin College art museum founded in 1917, holding over 15,000 works.",
+  "commons_category": "Category:Allen Memorial Art Museum",
+  "coords": [
+   41.2937,
+   -82.2168
+  ],
+  "photos": [
+   {
+    "file": "File:Oberlin College - Allen Memorial Art Museum.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Ohio - Oberlin College - 20170715131652.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Allen_Memorial_Art_Museum",
+   "https://www.wikidata.org/wiki/Q3816734"
+  ]
+ },
+ {
+  "id": "kramars-villa",
+  "qid": "Q3558615",
+  "status": "photo",
+  "name": "Kramář's Villa",
+  "by": "Friedrich Ohmann",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1914,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Axis",
+   "Detail"
+  ],
+  "features": "Built in 1914 in Prague, now the official residence of the Czech prime minister.",
+  "commons_category": "Category:Kramářova vila",
+  "coords": [
+   50.09339,
+   14.41046
+  ],
+  "photos": [
+   {
+    "file": "File:Praha, Kramářova vila, severní pohled.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kram%C3%A1%C5%99%27s_Villa",
+   "https://www.wikidata.org/wiki/Q3558615"
+  ]
+ },
+ {
+  "id": "hospital-clinico-san-carlos",
+  "qid": "Q6673106",
+  "status": "photo",
+  "name": "Hospital Clínico San Carlos",
+  "by": "Manuel Sánchez Arcas, Eduardo Torroja",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1951,
+  "type": "Health",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Structure as expression"
+  ],
+  "features": "A university hospital in Madrid's Ciudad Universitaria, linked to the Complutense University for clinical training.",
+  "commons_category": "Category:Hospital Clínico San Carlos",
+  "coords": [
+   40.44056,
+   -3.72028
+  ],
+  "photos": [
+   {
+    "file": "File:Hospital Clínico San Carlos (Madrid) 02.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   },
+   {
+    "file": "File:Hospital Clínico San Carlos (Madrid) 03.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   },
+   {
+    "file": "File:Hospital Clínico San Carlos (Madrid) 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hospital_Cl%C3%ADnico_San_Carlos",
+   "https://www.wikidata.org/wiki/Q6673106"
+  ]
+ },
+ {
+  "id": "sven-harry-s-art-museum",
+  "qid": "Q10684670",
+  "status": "photo",
+  "name": "Sven-Harry's Art Museum",
+  "by": "Wingårdh arkitektkontor",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "An art museum in Stockholm, housed in a multi-purpose building with a gallery, apartments and businesses.",
+  "commons_category": "Category:Sven-Harrys konstmuseum",
+  "coords": [
+   59.3395,
+   18.04389
+  ],
+  "photos": [
+   {
+    "file": "File:Sven Harrys konstmuseum 2011a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sven-Harrys (3).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sven-Harrys (4).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sven-Harry%27s_Art_Museum",
+   "https://www.wikidata.org/wiki/Q10684670"
+  ]
+ },
+ {
+  "id": "new-city-hall-prague",
+  "qid": "Q12041278",
+  "status": "photo",
+  "name": "New City Hall (Prague)",
+  "by": "Osvald Polívka",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1911,
+  "type": "Civic",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Prague's central administrative building, seat of the City Hall, council and mayor since 1945.",
+  "commons_category": "Category:Nová radnice, Praha",
+  "coords": [
+   50.0872,
+   14.4179
+  ],
+  "photos": [
+   {
+    "file": "File:Praha Nova radnice.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Prague Old Town 2021 42.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_City_Hall_%28Prague%29",
+   "https://www.wikidata.org/wiki/Q12041278"
+  ]
+ },
+ {
+  "id": "tournay-abbey",
+  "qid": "Q2820324",
+  "status": "photo",
+  "name": "Tournay Abbey",
+  "by": "Guillaume Gillet",
+  "city": "Tournay",
+  "cc": "FR",
+  "year": 1958,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Landscape"
+  ],
+  "features": "An active Benedictine monastery of about 20 monks; the new building was completed in 1958.",
+  "commons_category": "Category:Abbaye Notre-Dame de Tournay",
+  "coords": [
+   43.18,
+   0.24528
+  ],
+  "photos": [
+   {
+    "file": "File:Abbaye Notre-Dame de Tournay 30.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Abbaye Notre-Dame de Tournay (France) vue d'ensemble 2191.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Abbaye Notre-Dame de Tournay 35.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tournay_Abbey",
+   "https://www.wikidata.org/wiki/Q2820324"
+  ]
+ },
+ {
+  "id": "filoli",
+  "qid": "Q478408",
+  "status": "photo",
+  "name": "Filoli",
+  "by": "Willis Polk",
+  "city": "Woodside",
+  "cc": "US",
+  "year": 1917,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Courtyard",
+   "Axis"
+  ],
+  "features": "A country house in 16 acres of formal gardens, a California Historical Landmark.",
+  "commons_category": "Category:Filoli",
+  "coords": [
+   37.47039,
+   -122.31069
+  ],
+  "photos": [
+   {
+    "file": "File:Filoli mansion - backyard view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Filoli Mansion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Filoli",
+   "https://www.wikidata.org/wiki/Q478408"
+  ]
+ },
+ {
+  "id": "novi-sad-synagogue",
+  "qid": "Q1243512",
+  "status": "photo",
+  "name": "Novi Sad Synagogue",
+  "by": "Lipót Baumhorn",
+  "city": "Novi Sad",
+  "cc": "RS",
+  "year": 1909,
+  "type": "Religious",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Monumentality",
+   "Vault",
+   "Detail"
+  ],
+  "features": "Completed in 1909, once one of the largest synagogues in Central Europe, now a cultural centre.",
+  "commons_category": "Category:Novi Sad Synagogue",
+  "coords": [
+   45.25313,
+   19.84071
+  ],
+  "photos": [
+   {
+    "file": "File:Novosadska sinagoga 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Novosadska sinagoga 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Синагога у Новом Саду 3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Novi_Sad_Synagogue",
+   "https://www.wikidata.org/wiki/Q1243512"
+  ]
+ },
+ {
+  "id": "lucenec-synagogue",
+  "qid": "Q9350260",
+  "status": "photo",
+  "name": "Lučenec Synagogue",
+  "by": "Lipót Baumhorn",
+  "city": "Lučenec",
+  "cc": "SK",
+  "year": 1925,
+  "type": "Religious",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Light from above"
+  ],
+  "features": "A Secession-style synagogue completed in 1925, reconstructed and reopened as a cultural centre in 2016.",
+  "commons_category": "Category:Synagogue in Lučenec",
+  "coords": [
+   48.325,
+   19.66696
+  ],
+  "photos": [
+   {
+    "file": "File:Lučenec - synagóga (2016) E.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue in Lučenec (Losonc).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lu%C4%8Denec_Synagogue",
+   "https://www.wikidata.org/wiki/Q9350260"
+  ]
+ },
+ {
+  "id": "cluj-napoca-national-theatre",
+  "qid": "Q1414007",
+  "status": "photo",
+  "name": "Cluj-Napoca National Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Cluj-Napoca",
+  "cc": "RO",
+  "year": 1906,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "The Lucian Blaga National Theatre in Cluj-Napoca, sharing its building with the Romanian Opera.",
+  "commons_category": "Category:Romanian State Theatre and Opera, Cluj-Napoca",
+  "coords": [
+   46.7704,
+   23.59709
+  ],
+  "photos": [
+   {
+    "file": "File:Opera nationala romana cluj - teatrul national lucian blaga - 2019iunie.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cluj-Napoca National Theatre in 2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatrul Național Român.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cluj-Napoca_National_Theatre",
+   "https://www.wikidata.org/wiki/Q1414007"
+  ]
+ },
+ {
+  "id": "adam-mickiewicz-theatre-cieszyn",
+  "qid": "Q9356192",
+  "status": "photo",
+  "name": "Adam Mickiewicz Theatre, Cieszyn",
+  "by": "Fellner & Helmer",
+  "city": "Cieszyn",
+  "cc": "PL",
+  "year": 1910,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "A theatre on Theatre Square in the Old City of Cieszyn, Poland.",
+  "commons_category": "Category:Adam Mickiewicz Theatre in Cieszyn",
+  "coords": [
+   49.75,
+   18.6304
+  ],
+  "photos": [
+   {
+    "file": "File:Teatr w Cieszynie 2.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   },
+   {
+    "file": "File:Teatr w Cieszynie 3.JPG",
+    "license": "CC BY-SA 3.0 pl",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Adam_Mickiewicz_Theatre%2C_Cieszyn",
+   "https://www.wikidata.org/wiki/Q9356192"
+  ]
+ },
+ {
+  "id": "heureka",
+  "qid": "Q1634495",
+  "status": "photo",
+  "name": "Heureka",
+  "by": "Heikkinen – Komonen Architects, Mikko Heikkinen, Markku Komonen",
+  "city": "Vantaa",
+  "cc": "FI",
+  "year": 1989,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "A science centre by Heikkinen–Komonen Architects, opened in 1989 beside the Keravanjoki river and the Main Line railway.",
+  "commons_category": "Category:Heureka, Vantaa",
+  "coords": [
+   60.2875,
+   25.04028
+  ],
+  "photos": [
+   {
+    "file": "File:Science centre Heureka in Tikkurila, Vantaa, Finland, 2022 June.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Heureka.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Heureka",
+   "https://www.wikidata.org/wiki/Q1634495"
+  ]
+ },
+ {
+  "id": "historical-museum-of-the-palatinate",
+  "qid": "Q1325163",
+  "status": "photo",
+  "name": "Historical Museum of the Palatinate",
+  "by": "Gabriel von Seidl",
+  "city": "Speyer",
+  "cc": "DE",
+  "year": 1910,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Public space"
+  ],
+  "features": "A history museum across the square from Speyer Cathedral, with about a million artifacts.",
+  "commons_category": "Category:Historisches Museum der Pfalz (Speyer)",
+  "coords": [
+   49.3157,
+   8.44157
+  ],
+  "photos": [
+   {
+    "file": "File:Speyer BW 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Speyer, Museum der Pfalz.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Speyer 1987 (10) Historisches Museum (51240150699).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Historical_Museum_of_the_Palatinate",
+   "https://www.wikidata.org/wiki/Q1325163"
+  ]
+ },
+ {
+  "id": "new-mexico-museum-of-art",
+  "qid": "Q559229",
+  "status": "photo",
+  "name": "New Mexico Museum of Art",
+  "by": "Isaac Rapp",
+  "city": "Santa Fe",
+  "cc": "US",
+  "year": 1917,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Climate response",
+   "Courtyard"
+  ],
+  "features": "A state-run art museum in Santa Fe, one block off the historic Plaza.",
+  "commons_category": "Category:New Mexico Museum of Art",
+  "coords": [
+   35.6881,
+   -105.939
+  ],
+  "photos": [
+   {
+    "file": "File:Santa Fe, New Mexico, USA 5-2024 25.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Santa Fe, New Mexico, USA - panoramio (84).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Newmexico museumofart.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Mexico_Museum_of_Art",
+   "https://www.wikidata.org/wiki/Q559229"
+  ]
+ },
+ {
+  "id": "hawaii-state-capitol",
+  "qid": "Q1290002",
+  "status": "photo",
+  "name": "Hawaii State Capitol",
+  "by": "John Carl Warnecke",
+  "city": "Honolulu",
+  "cc": "US",
+  "year": 1969,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Climate response",
+   "Light from above"
+  ],
+  "features": "Hawaii's statehouse, opened on 15 March 1969 to replace ʻIolani Palace.",
+  "commons_category": "Category:Hawaii State Capitol",
+  "coords": [
+   21.3075,
+   -157.8575
+  ],
+  "photos": [
+   {
+    "file": "File:2020 Hawaii State Capitol 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2020 Hawaii State Capitol 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hawaii state capitol from the south-east.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hawaii_State_Capitol",
+   "https://www.wikidata.org/wiki/Q1290002"
+  ]
+ },
+ {
+  "id": "desert-view-watchtower",
+  "qid": "Q2062022",
+  "status": "photo",
+  "name": "Desert View Watchtower",
+  "by": "Mary Colter",
+  "city": "Grand Canyon National Park",
+  "cc": "US",
+  "year": 1932,
+  "type": "Pavilion",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Earth & local material",
+   "Landscape"
+  ],
+  "features": "A 70-foot stone watchtower on the Grand Canyon's South Rim, completed in 1932 and designed by Mary Colter.",
+  "commons_category": "Category:Desert View Watchtower",
+  "coords": [
+   36.04389,
+   -111.82583
+  ],
+  "photos": [
+   {
+    "file": "File:Desert View Tower, GCNP, AZ 20110810 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Canyon Desert View Watchtower 17x11.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Canyon National Park-Arizona1456.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Desert_View_Watchtower",
+   "https://www.wikidata.org/wiki/Q2062022"
+  ]
+ },
+ {
+  "id": "painted-desert-inn",
+  "qid": "Q2194613",
+  "status": "photo",
+  "name": "Painted Desert Inn",
+  "by": "Lyle E. Bennett",
+  "city": "Petrified Forest National Park",
+  "cc": "US",
+  "year": 1937,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Colour"
+  ],
+  "features": "A historic complex in Petrified Forest National Park, overlooking the Painted Desert.",
+  "commons_category": "Category:Painted Desert Inn",
+  "coords": [
+   35.08398,
+   -109.7881
+  ],
+  "photos": [
+   {
+    "file": "File:Painted Desert Inn NHL 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Painted Desert Inn 2013.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Painted Desert Inn NHL 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Painted_Desert_Inn",
+   "https://www.wikidata.org/wiki/Q2194613"
+  ]
+ },
+ {
+  "id": "old-faithful-inn",
+  "qid": "Q3027805",
+  "status": "photo",
+  "name": "Old Faithful Inn",
+  "by": "Robert Reamer",
+  "city": "Yellowstone National Park",
+  "cc": "US",
+  "year": 1904,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Stone",
+   "Double height"
+  ],
+  "features": "A log hotel in Yellowstone, the first of the great park lodges and a National Park Service Rustic landmark.",
+  "commons_category": "Category:Old Faithful Inn",
+  "coords": [
+   44.45972,
+   -110.83111
+  ],
+  "photos": [
+   {
+    "file": "File:Old Faithful Inn main facade.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:First light on Old Faithful Inn (52213506762).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Old_Faithful_Inn",
+   "https://www.wikidata.org/wiki/Q3027805"
+  ]
+ },
+ {
+  "id": "013",
+  "qid": "Q2319846",
+  "status": "photo",
+  "name": "013",
+  "by": "Jan Benthem, Mels Crouwel, Benthem Crouwel Architects",
+  "city": "Tilburg",
+  "cc": "NL",
+  "year": 1998,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "A music venue in Tilburg, opened in 1998, the largest popular music venue in the southern Netherlands.",
+  "commons_category": "Category:013, Tilburg",
+  "coords": [
+   51.55861,
+   5.09306
+  ],
+  "photos": [
+   {
+    "file": "File:Tilburg poppodium 013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/013",
+   "https://www.wikidata.org/wiki/Q2319846"
+  ]
+ },
+ {
+  "id": "museum-yamato-bunkakan",
+  "qid": "Q3329639",
+  "status": "photo",
+  "name": "Museum Yamato Bunkakan",
+  "by": "Isoya Yoshida",
+  "city": "Nara",
+  "cc": "JP",
+  "year": 1960,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Museum of Asian art in Nara, established in 1960 for the private collection of the Kintetsu railway company.",
+  "commons_category": "Category:Yamato Bunka Kan",
+  "coords": [
+   34.69528,
+   135.75667
+  ],
+  "photos": [
+   {
+    "file": "File:Yamato Bunkakan02nt3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Yamato Bunkakan01s4592.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Yamato Bunkakan05n4592.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_Yamato_Bunkakan",
+   "https://www.wikidata.org/wiki/Q3329639"
+  ]
+ },
+ {
+  "id": "urasoe-art-museum",
+  "qid": "Q11558303",
+  "status": "photo",
+  "name": "Urasoe Art Museum",
+  "by": "Shozo Uchii",
+  "city": "Urasoe",
+  "cc": "JP",
+  "year": 1990,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Cluster",
+   "Sculptural form",
+   "Light from above"
+  ],
+  "features": "Opened in 1990 in Urasoe, Okinawa, with a collection focused on Ryukyu lacquerware.",
+  "commons_category": "Category:Urasoe Art Museum",
+  "coords": [
+   26.24992,
+   127.71947
+  ],
+  "photos": [
+   {
+    "file": "File:Urasoe Art Museum04s4s2940.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Urasoe Art Museum01n3104.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Urasoe Art Museum07n3104.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Urasoe Art Museum06n3104.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Urasoe_Art_Museum",
+   "https://www.wikidata.org/wiki/Q11558303"
+  ]
+ },
+ {
+  "id": "vatroslav-lisinski-concert-hall",
+  "qid": "Q1267773",
+  "status": "photo",
+  "name": "Vatroslav Lisinski Concert Hall",
+  "by": "Marijan Haberle",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": 1973,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Concert hall and convention centre with 1,841 and 305 seat halls and a lobby that doubles as an exhibition area.",
+  "commons_category": "Category:Vatroslav Lisinski Concert Hall",
+  "coords": [
+   45.80111,
+   15.98028
+  ],
+  "photos": [
+   {
+    "file": "File:Koncertna dvorana Vatroslav Lisinski.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Koncertna dvorana-Zagreb.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vatroslav Lisinski Concert Hall.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vatroslav_Lisinski_Concert_Hall",
+   "https://www.wikidata.org/wiki/Q1267773"
+  ]
+ },
+ {
+  "id": "janacek-theatre",
+  "qid": "Q3511873",
+  "status": "photo",
+  "name": "Janáček Theatre",
+  "by": "Jan Víšek, Vilém Zavřel, Libuše Žáčková-Pokorová, Otakar Oplatek",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1965,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Largest of the National Theatre Brno's three theatres, built from 1960, opened in 1965 and fronted by a landscaped green.",
+  "commons_category": "Category:Janáčkovo divadlo",
+  "coords": [
+   49.19806,
+   16.61083
+  ],
+  "photos": [
+   {
+    "file": "File:Brno, Janáčkovo divadlo, park před divadlem (6913).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Janackovo Divadlo Brno 2009.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Janáčkovo divadlo - park 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jan%C3%A1%C4%8Dek_Theatre",
+   "https://www.wikidata.org/wiki/Q3511873"
+  ]
+ },
+ {
+  "id": "house-on-the-embankment",
+  "qid": "Q1504212",
+  "status": "photo",
+  "name": "House on the Embankment",
+  "by": "Boris Iofan",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 1931,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Courtyard",
+   "Facade as skin"
+  ],
+  "features": "A block-wide constructivist apartment building on the Moskva River, Moscow's tallest residential building until 1952.",
+  "commons_category": "Category:House on Embankment",
+  "coords": [
+   55.74432,
+   37.61263
+  ],
+  "photos": [
+   {
+    "file": "File:Estrade Theatre (2023-03-27) 03.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Комплекс «Дома правительства».jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow. Moskva river. House on the Embankment P5162717 2600.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/House_on_the_Embankment",
+   "https://www.wikidata.org/wiki/Q1504212"
+  ]
+ },
+ {
+  "id": "de-doelen",
+  "qid": "Q2237396",
+  "status": "photo",
+  "name": "De Doelen",
+  "by": "Kraaijvanger, Rein Fledderus, Evert Kraaijvanger, Herman Kraaijvanger",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": 1966,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Concert venue rebuilt in 1966 after the 1934 original was destroyed in 1940; a Rijksmonument since 2015.",
+  "commons_category": "Category:De Doelen Rotterdam",
+  "coords": [
+   51.92167,
+   4.47306
+  ],
+  "photos": [
+   {
+    "file": "File:Rotterdam de doelen.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:De Doelen Rotterdam I73515 - kopie.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:GraphyArchyPocket . Wikipedia 00068.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/De_Doelen",
+   "https://www.wikidata.org/wiki/Q2237396"
+  ]
+ },
+ {
+  "id": "palacio-de-congresos-madrid",
+  "qid": "Q6057914",
+  "status": "photo",
+  "name": "Palacio de Congresos de Madrid",
+  "by": "Pablo Pintado",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1970,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Monumentality"
+  ],
+  "features": "A convention centre on the Paseo de la Castellana, its facade carrying a ceramic mosaic after Joan Miró.",
+  "commons_category": "Category:Palacio de Congresos de Madrid",
+  "coords": [
+   40.45289,
+   -3.69115
+  ],
+  "photos": [
+   {
+    "file": "File:Palacio de Congresos y Exposiciones (Madrid) 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Madrid - Palacio de Congresos (35260705873).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Madrid, palacio de congresos.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Palacio_de_Congresos_%28Madrid%29",
+   "https://www.wikidata.org/wiki/Q6057914"
+  ]
+ },
+ {
+  "id": "siida-museum",
+  "qid": "Q946264",
+  "status": "photo",
+  "name": "Siida",
+  "by": "Juhani Pallasmaa",
+  "city": "Inari",
+  "cc": "FI",
+  "year": 1998,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Climate response"
+  ],
+  "features": "Home to the Sámi Museum and Northern Lapland Nature Centre, on Lake Inari; opened in 1998.",
+  "commons_category": "Category:Siida",
+  "coords": [
+   68.91083,
+   27.01361
+  ],
+  "photos": [
+   {
+    "file": "File:SIIDA Inari, Suomi Finland 2013-03-10 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Siida_%28museum%29",
+   "https://www.wikidata.org/wiki/Q946264"
+  ]
+ },
+ {
+  "id": "jewish-museum-munich",
+  "qid": "Q320903",
+  "status": "photo",
+  "name": "Jewish Museum Munich",
+  "by": "Wandel Lorch Götze Wach",
+  "city": "Munich",
+  "cc": "DE",
+  "year": 2007,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Part of the Jewish Center on Sankt-Jakobs-Platz, between the Ohel Jakob synagogue and the community centre; built 2004 to 2007.",
+  "commons_category": "Category:Jewish Museum Munich",
+  "coords": [
+   48.13431,
+   11.57233
+  ],
+  "photos": [
+   {
+    "file": "File:München Jüdisches Zentrum und Jüdisches Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jüdisches Museum München 7437.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chanukkia-st-jakobs-platz-2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jewish_Museum_Munich",
+   "https://www.wikidata.org/wiki/Q320903"
+  ]
+ },
+ {
+  "id": "bush-house",
+  "qid": "Q852282",
+  "status": "photo",
+  "name": "Bush House",
+  "by": "Harvey Wiley Corbett",
+  "city": "London",
+  "cc": "GB",
+  "year": 1935,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Built 1925 to 1935 as a trade centre; by 1929 called the world's most expensive building.",
+  "commons_category": "Category:Bush House, London",
+  "coords": [
+   51.51288,
+   -0.1173
+  ],
+  "photos": [
+   {
+    "file": "File:Bush House, London 2024-09-04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bush House, Aldwych, London.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bush_House",
+   "https://www.wikidata.org/wiki/Q852282"
+  ]
+ },
+ {
+  "id": "waino-aaltonen-museum-of-art",
+  "qid": "Q3019261",
+  "status": "photo",
+  "name": "Wäinö Aaltonen Museum of Art",
+  "by": "Matti Aaltonen, Irma Aaltonen",
+  "city": "Turku",
+  "cc": "FI",
+  "year": 1967,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "A modern art museum on the east bank of the Aura River in Turku, holding the city's art collection.",
+  "commons_category": "Category:Wäinö Aaltonen Museum of Art",
+  "coords": [
+   60.445,
+   22.2603
+  ],
+  "photos": [
+   {
+    "file": "File:Wäinö Aaltosen museo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wäinö Aaltonen Museum of Art 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wäinö Aaltonen Museum of Art 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/W%C3%A4in%C3%B6_Aaltonen_Museum_of_Art",
+   "https://www.wikidata.org/wiki/Q3019261"
+  ]
+ },
+ {
+  "id": "royal-armouries-museum",
+  "qid": "Q7373689",
+  "status": "photo",
+  "name": "Royal Armouries Museum",
+  "by": "Derek Walker",
+  "city": "Leeds",
+  "cc": "GB",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "A £42.5 million purpose-built museum at Leeds Dock, opened in 1996 for the national collection of arms and armour.",
+  "commons_category": "Category:Royal Armouries, Leeds",
+  "coords": [
+   53.7919,
+   -1.53226
+  ],
+  "photos": [
+   {
+    "file": "File:Leeds Lock and Royal Armouries.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Royal Armouries, Leeds (8th June 2018) 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:RoyalArmouriesMuseumandBridge.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Royal_Armouries_Museum",
+   "https://www.wikidata.org/wiki/Q7373689"
+  ]
+ },
+ {
+  "id": "ohara-museum-of-art",
+  "qid": "Q2977589",
+  "status": "photo",
+  "name": "Ohara Museum of Art",
+  "by": "Kazue Yakushiji",
+  "city": "Kurashiki",
+  "cc": "JP",
+  "year": 1930,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Detail"
+  ],
+  "features": "The first permanent collection of Western art in Japan, opened in 1930, with wings added from 1961.",
+  "commons_category": "Category:Ohara Museum of Art",
+  "coords": [
+   34.59615,
+   133.77067
+  ],
+  "photos": [
+   {
+    "file": "File:Kurashiki Ohara Art Museum02nt3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Kurashiki Ohara Art Museum03n4592.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:211203 Ohara Museum of Art Kurashiki Okayama pref Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ohara_Museum_of_Art",
+   "https://www.wikidata.org/wiki/Q2977589"
+  ]
+ }
+]
