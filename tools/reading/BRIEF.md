@@ -50,12 +50,20 @@ curated list or tour of buildings), `profile` (an architect or practice profile,
 
 ## Checking every link
 
-Open each one with WebFetch (WebSearch helps you find them). Keep it only if it loads, is the page you think it is (put
-its real title in `title`), is about this subject, and is not a search page or an error. A paywalled page counts as
-loading if its title and opening are visible. Record `checked`. No link you have not opened.
+The cloud chats can only open Wikipedia, so links are checked on GitHub's servers (21 Oct 2026):
 
-Fewer than 10 good links is acceptable for a small subject: never pad with weak ones. Note it in
-`tools/reading/progress_<group>.md` with the reason.
+1. Find candidates with **WebSearch** (and WebFetch for Wikipedia). Take URLs only from real search results or pages
+   you opened; never type an address from memory. Aim for 14 to 18 candidates per page, so 10 to 15 survive.
+2. Write them to `tools/reading/candidates_<group>.json` (same format as above, without `checked`), commit and push to
+   your branch. That runs `.github/workflows/reading-check.yml`, which opens every link with
+   `tools/check_reading_links.py` and commits back `tools/reading/<group>.json` (only links that loaded, with `checked`
+   and the page's real title) and `tools/reading/check_<group>.md` (every failure and why, and pages under 10).
+3. Wait a few minutes, `git pull`, read `check_<group>.md`, add replacements for failures to the candidates file, push
+   again. Repeat until every page has 10 to 15, or a small subject honestly has fewer (say why in
+   `progress_<group>.md`).
+
+Big publishers that turn away automated visitors (the NYT, the FT, Dezeen and others listed in the script) are kept when
+they answer 403, marked `blocked_check`. Never edit `<group>.json` by hand: only the check writes it.
 
 ## Working
 
