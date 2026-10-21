@@ -36,10 +36,14 @@
   is repeated. Bios 175–189 words. 101 facts, every one with a source; 3 are building attributions confirmed on
   Wikidata. Unsourced facts: 0. Links: 105 kept, all checked 20 Oct 2026 (one check run).
 
+- `results/bios_09.json` (21 Oct 2026), 30 architects, ranks 221–250. Bios 176–190 words. 106 facts, every one with a
+  source; 4 are building attributions confirmed on Wikidata. Unsourced facts: 0. Links: 113 kept, all checked
+  21 Oct 2026 (two check runs).
+
 ## Skipped
 - **Joseon builders** (rank 218), marked `"skip": true`: not an architect or practice but the wall's label for the
   anonymous builders of Jongmyo Shrine, Byeongsan Seowon and Janggyeong Panjeon. Every other architect in ranks
-  1–220 is a real person or practice with enough sources to write about.
+  1–250 is a real person or practice with enough sources to write about.
 - Glenn Murcutt (rank 202) was written in bios_01 and is not repeated.
 - Jorn Utzon (rank 216) is Jørn Utzon (bios_03) under a second spelling on the wall; not repeated.
 - Snohetta (rank 172) is left out as a duplicate: it is Snøhetta (bios_04) under a second spelling on the wall. The data
@@ -74,6 +78,41 @@
   covers the wall buildings filed under "Jørn". The data side may want to merge them.
 - The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
   (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
+
+## Batch 9 notes
+- New in the fetcher: `--pages FILE` saves the text of other pages (any-language Wikipedia through its API, other
+  sites from their HTML) into `page_sources.json`, for architects and buildings with no English article. The list
+  for this batch is `pages_09.json`. Facts taken from these pages cite the page itself.
+- Written partly or mainly from non-English sources: **Masato Otaka** (Japanese Wikipedia, the Centre Pompidou's
+  page on his Sakaide model, and the English article on Metabolism), **Van den Broek en Bakema** (Dutch and German
+  articles on the firm and its buildings, with the English article on Jaap Bakema), **Shin Takamatsu** (his English
+  works list and the Japanese article), **Sedad Hakkı Eldem** (Turkish article for the Atatürk Library), **Mario
+  Roberto Álvarez** (Spanish article for the SOMISA Building), **Domènech i Montaner** (Spanish article for Casa
+  Fuster), **Tezuka Architects** (the museum's own page for Kyororo) and **UNStudio** (a project page for the
+  Galleria façade).
+- **No qid**: **Tezuka Architects** (no Wikidata item found for the practice).
+- Wall credits the data side may want to look at: the **Government House of the Kazakh ASSR (now KBTU)**, whose
+  article says the building now houses the Kazakh National Academy of Arts; **Preston Bus Station** (designed by
+  Building Design Partnership, engineered by Ove Arup & Partners) and **Dunelm House** (designed by the Architects'
+  Co-Partnership, completed under Ove Arup's supervision), both filed under Ove Arup; **Central Hall, University of
+  York** and the **Royal Commonwealth Pool**, designed by John Speight and John Richards of RMJM, filed under Robert
+  Matthew; the **Fondation Avicenne**, designed by Foroughi and Heydar Ghiai with André Bloc and Claude Parent. The
+  texts say who did what.
+- Paired entries written so they do not repeat each other: **Leslie Martin** and **Robert Matthew** (the Royal
+  Festival Hall told from each side); **Ove Arup** (the man) and **Arup** (the firm, bios_07); **Van den Broek en
+  Bakema** and **Brinkman & Van der Vlugt** (bios_07).
+- Hard facts stated in one plain sentence each: Piacentini's role in Fascist architecture under Mussolini; the 2004
+  collapse at Andreu's Terminal 2E; Speer's report that Hitler admired Behrens's Saint Petersburg embassy; the
+  criticism of Wang Shu's Pritzker for leaving out Lu Wenyu.
+- Links left out after the checker: guessed Architectuul pages for Leslie Martin, Álvarez, Rewal, Takamatsu and
+  González de León (404), ArchDaily's Kris Yao tag (404) and UNStudio office page (name not found), the Kris Yao and
+  MRA office sites, Arup's founder page (404), Wikipedia's Niavaran Palace and Harvey Court pages (name not found or
+  404).
+- Disagreements, noted on the facts: Domènech i Montaner's birth year (1849 in the article, 1850 on Wikidata), Eldem's
+  birth day (31 or 18 August 1908), Lundgaard & Tranberg's founding (1985 or 1983), the Kingsgate Bridge's opening
+  (1963 or 1964); and building years that differ from the wall (Kannikegården, Centro Cultural General San Martín,
+  Sun House, Behrens's embassy and crematorium, Faculty of Architecture in Montevideo, Zeyrek, Atatürk Library, Marl
+  Town Hall, Independence Monument in Phnom Penh). The wall's years are used in the text.
 
 ## Batch 8 notes
 - **National Monument (Indonesia)** is filed on the wall under Friedrich Silaban, but his article says his 1955 entry
@@ -214,3 +253,5 @@ Put the command on the first line of `tools/architect_bios/request.txt` and push
   architects into `sources.json`, and every wall building's article into `building_sources/batch_03.json`; one run)
 - `python -u tools/check_overview_links.py --files bios_04.json` (link check, and the Wikidata check of facts that
   carry `architect_qid`)
+- `python -u tools/fetch_architect_sources.py --pages tools/architect_bios/pages_09.json` (saves other-language
+  Wikipedia articles and other pages into `page_sources.json`)

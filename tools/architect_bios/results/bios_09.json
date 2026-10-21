@@ -116,13 +116,6 @@
     "url": "https://en.wikipedia.org/wiki/Kettle's_Yard",
     "why": "the gallery he extended",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Harvey Court",
-    "url": "https://en.wikipedia.org/wiki/Harvey_Court",
-    "why": "his brick brutalist college building",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
