@@ -82,6 +82,33 @@
     "paid": false,
     "why": "Critique of Eisenman's reading of Terragni",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Terragni: European Architect",
+    "url": "https://domusweb.it/en/architecture/2004/06/28/terragni-european-architect.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Centenary reassessment of his career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "EPFL",
+    "title": "Terragni and Sartoris in Como, Capital of Italian Rationalism",
+    "url": "https://actu.epfl.ch/news/terragni-and-sartoris-in-como-capital-of-italian-r",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive exhibition on Como rationalism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Modernism in Architecture",
+    "title": "Gruppo 7 and the MIAR",
+    "url": "https://modernism-in-architecture.org/facts/gruppo-7-and-the-movimento-italiano-per-larchitettura-razionale-miar/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Gruppo 7 manifesto and movement context",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -308,6 +335,42 @@
     "kind": "museum",
     "paid": false,
     "why": "Swedish architecture museum on Asplund's archive",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArkDes",
+    "title": "Gunnar Asplund's Collection",
+    "url": "https://arkdes.se/en/the-collection/the-collection-that-shaped-modern-sweden/gunnar-asplunds-collection/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of 27,000 drawings and sketches",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "The Evasive Asplund",
+    "url": "https://www.domusweb.it/en/reviews/2007/11/06/the-evasive-asplund.amp.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Review of Blundell Jones monograph",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "EAHN Journal",
+    "title": "Review essay on Asplund and Lewerentz books",
+    "url": "https://journal.eahn.org/article/7642/galley/21293/download",
+    "kind": "essay",
+    "paid": false,
+    "why": "Scholarly view of Woodland Cemetery partnership",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Routledge",
+    "title": "Erik Gunnar Asplund: Landscapes and Buildings",
+    "url": "https://www.taylorfrancis.com/books/9780815378228",
+    "kind": "essay",
+    "paid": false,
+    "why": "Publisher page for Woollen's study",
     "checked": "2026-10-21"
    }
   ]
@@ -813,6 +876,15 @@
     "kind": "guide",
     "paid": false,
     "why": "Collected project coverage",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Atomic Ranch",
+    "title": "Juan O'Gorman: Through Functionalism and Beyond",
+    "url": "https://www.atomic-ranch.com/?p=57451",
+    "kind": "essay",
+    "paid": false,
+    "why": "His shift from functionalism to regionalism",
     "checked": "2026-10-21"
    }
   ]
@@ -1476,8 +1548,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical reputation essay",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Wallpaper*",
@@ -1796,6 +1867,24 @@
     "paid": false,
     "why": "Journal's issues and features on the practice",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Mansilla + Tuñón",
+    "url": "https://domusweb.it/en/architecture/2008/12/30/mansilla--tunon.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Vicenza exhibition and work overview",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Luis Moreno Mansilla (1959-2012)",
+    "url": "https://www.dezeen.com/?p=194586",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Brief notice of his death",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -1854,6 +1943,33 @@
     "kind": "essay",
     "paid": false,
     "why": "Academic seminar on his Lahore brick architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Asia Society",
+    "title": "Lahore Literary Festival in New York 2018 (Afternoon Session)",
+    "url": "https://asiasociety.org/node/23130",
+    "kind": "video",
+    "paid": false,
+    "why": "Dada on Lahore's architecture and conservation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Mosqpedia",
+    "title": "Nayyar Ali Dada",
+    "url": "https://mosqpedia.org/manaber/nayyar-ali-dada/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Career summary and major projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Newsweek Pakistan",
+    "title": "Alhamra and Nayyar Ali Dada",
+    "url": "https://www.newsweekpakistan.com/?p=857579",
+    "kind": "news",
+    "paid": false,
+    "why": "How his best-known project began",
     "checked": "2026-10-21"
    }
   ]
@@ -2127,6 +2243,15 @@
     "kind": "video",
     "paid": false,
     "why": "Eisenman on Berlin memorial and ideas",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Binus University",
+    "title": "Interview with Peter Eisenman: I Am Not Convinced That I Have a Style",
+    "url": "https://architecture.binus.ac.id/2018/04/05/interview-with-peter-eisenman-i-am-not-convinced-that-i-have-a-style/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Excerpt from Belogolovsky conversations",
     "checked": "2026-10-21"
    },
    {
@@ -2478,6 +2603,33 @@
     "paid": false,
     "why": "Reference entry",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Architecture AU",
+    "title": "Reading room: new and notable books",
+    "url": "https://architectureau.com/articles/Reading-room-new-and-notable-books-worth-diving-into",
+    "kind": "news",
+    "paid": false,
+    "why": "Notes the Grounds, Romberg & Boyd book",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "InDesignLive",
+    "title": "Grounds, Romberg & Boyd: Melbourne's Midcentury Modernists",
+    "url": "https://indesignlive.com/?p=214954",
+    "kind": "news",
+    "paid": false,
+    "why": "Book notice on the partnership",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Uro Publications",
+    "title": "Grounds, Romberg & Boyd: Melbourne's Midcentury Modernists",
+    "url": "https://uropublications.com/catalogue/grounds-romberg-boyd-melbournes-midcentury-modernists",
+    "kind": "museum",
+    "paid": false,
+    "why": "Publisher page for the only book on the firm",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -2671,6 +2823,15 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Akademie der Künste",
+    "title": "draw love build / sauerbruch hutton tracing modernities",
+    "url": "https://adk.de/en/programme/event-calendar/2024/10/draw-love-build-sauerbruch-hutton-tracing-modernities-2",
+    "kind": "museum",
+    "paid": false,
+    "why": "2024 Berlin retrospective, archive context",
+    "checked": "2026-10-21"
+   },
+   {
     "site": "Machine Books",
     "title": "sauerbruch hutton",
     "url": "https://www.machinebooks.co.uk/sauerbruch-hutton/",
@@ -2718,8 +2879,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical review of the Lewerentz revival",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
@@ -3464,15 +3624,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Radio Prague International",
-    "title": "Adolf Loos, the enigmatic Moravian-born architect, at 150",
-    "url": "https://english.radio.cz/node/8702554",
-    "kind": "news",
-    "paid": false,
-    "why": "Anniversary feature on his life",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Brno Architecture Manual",
     "title": "Adolf Loos",
     "url": "https://www.bam.brno.cz/en/architect/3779-adolf-loos",
@@ -3738,6 +3889,15 @@
     "kind": "museum",
     "paid": false,
     "why": "Dutch national archive of his work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Socks",
+    "title": "Human structures and architectural archetypes: Aldo van Eyck's playgrounds",
+    "url": "https://socks-studio.com/2018/02/11/human-structures-and-architectural-archetypes-aldo-van-eycks-playgrounds-1947-1978/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Illustrated essay on the playgrounds",
     "checked": "2026-10-21"
    },
    {
@@ -4208,6 +4368,33 @@
     "kind": "museum",
     "paid": false,
     "why": "Exhibition on his Epirus work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Greek Reporter",
+    "title": "Aris Konstantinidis: The Architect Who Helped Bring Modernism to Greece",
+    "url": "https://greekreporter.com/2022/08/05/aris-konstantinidis-the-architect-who-helped-bring-modernism-to-greece/",
+    "kind": "news",
+    "paid": false,
+    "why": "Accessible overview of his career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Archisearch",
+    "title": "Critical Regionalism Abroad: Aris Konstantinidis without Greece",
+    "url": "https://www.archisearch.gr/?p=151489",
+    "kind": "news",
+    "paid": false,
+    "why": "Book announcement with summary",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Sight Unseen",
+    "title": "The 10 Best Modernist Buildings in Greece",
+    "url": "https://www.sightunseen.com/?p=137177",
+    "kind": "guide",
+    "paid": false,
+    "why": "Greek modernism context, Xenia hotels",
     "checked": "2026-10-21"
    }
   ]
@@ -4785,6 +4972,33 @@
     "kind": "essay",
     "paid": false,
     "why": "Firm's Nieuwe Bouwen approach",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectura.nl",
+    "title": "Brinkman & Van der Vlugt Architects",
+    "url": "https://www.architectura.nl/architecture/brinkman-van-der-vlugt-architects.html",
+    "kind": "overview",
+    "paid": false,
+    "why": "Dutch overview of the firm",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "TU Delft",
+    "title": "Johannes Andreas (Jan) Brinkman",
+    "url": "https://tudelft.nl/en/community/alumni/inspiring-alumni/historical-alumni/johannes-andreas-jan-brinkman",
+    "kind": "profile",
+    "paid": false,
+    "why": "University profile of Brinkman's career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Het Nieuwe Instituut",
+    "title": "Het Nieuwe Bouwen",
+    "url": "https://nieuweinstituut.nl/en/projects/huis-sonneveld/het-nieuwe-bouwen",
+    "kind": "essay",
+    "paid": false,
+    "why": "The Dutch movement the firm led",
     "checked": "2026-10-21"
    }
   ]
