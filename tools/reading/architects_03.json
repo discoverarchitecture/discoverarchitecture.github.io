@@ -82,6 +82,60 @@
     "paid": false,
     "why": "Video talk on sustainability and building",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Architects, not Architecture: Kjetil Thorsen from Snøhetta",
+    "url": "https://www.archdaily.com/939999/architects-not-architecture-kjetil-thorsen-from-snohetta",
+    "kind": "interview",
+    "paid": false,
+    "why": "Founder on the practice's philosophy",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Designboom",
+    "title": "Interview with Kjetil Trædal Thorsen, founding partner of Snøhetta",
+    "url": "https://www.designboom.com/architecture/interview-kjetil-thorsen-snohetta-10-03-2014/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Founder on the firm's approach",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Surface",
+    "title": "Snøhetta Cofounder Craig Dykers on How He Pushes His Non-Hierarchical Firm to Take Risks",
+    "url": "https://www.surfacemag.com/articles/craig-dykers-snohetta-interview/",
+    "kind": "interview",
+    "paid": false,
+    "why": "How the collective studio works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Snøhetta: Memories of architectural landscapes",
+    "url": "https://www.metalocus.es/en/news/snohetta-memories-architectural-landscapes",
+    "kind": "essay",
+    "paid": false,
+    "why": "Overview of landscape-led work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architecture Norway",
+    "title": "Craig Dykers interview",
+    "url": "https://www.architecturenorway.no/stories/people-stories/dykers-11/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Dykers on Norwegian roots",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Competitions",
+    "title": "Interview: Craig Dykers/Snøhetta (Fall 2006)",
+    "url": "https://competitions.org/2011/05/interview-craig-dykers/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Competition-winning method, early years",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -230,6 +284,15 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "ArchDaily",
+    "title": "Alejandro Aravena Shares the Foundational Philosophies at the Core of His Practice",
+    "url": "https://www.archdaily.com/906076/alejandro-aravena-shares-the-foundational-philosophies-at-the-core-of-his-socially-conscious-practice",
+    "kind": "interview",
+    "paid": false,
+    "why": "Aravena's guiding principles in his words",
+    "checked": "2026-10-21"
+   },
+   {
     "site": "Designboom",
     "title": "Alejandro Aravena discusses his curation of the 2016 Venice Architecture Biennale",
     "url": "https://www.designboom.com/architecture/alejandro-aravena-interview-venice-architecture-biennale-2016-fabrica-reunion-06-28-2016/",
@@ -263,6 +326,15 @@
     "kind": "interview",
     "paid": false,
     "why": "Building sustainably at speed and scale",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Norman Foster and Alejandro Aravena on Social Housing",
+    "url": "https://www.youtube.com/watch?v=3evZ6cd86vU",
+    "kind": "video",
+    "paid": false,
+    "why": "Two Pritzker laureates discuss housing",
     "checked": "2026-10-21"
    },
    {
@@ -367,6 +439,51 @@
     "kind": "profile",
     "paid": false,
     "why": "Spanish-language profile and works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Clorindo Testa (1923-2013)",
+    "url": "https://architectural-review.com/opinion/obituary-clorindo-testa-1923-2013/8647159.article",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Career obituary from a leading journal",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo Journal",
+    "title": "Clorindo Testa, 1923-2013",
+    "url": "https://docomomojournal.com/index.php/journal/article/view/175",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Modern Movement specialists' tribute",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo Portugal",
+    "title": "Clorindo Testa, 1923-2013",
+    "url": "https://www.docomomo.pt/articles/clorindo-testa-1923-2013-2",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Short career summary",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Clorindo Testa",
+    "url": "https://architectuul.com/architect/clorindo-testa",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography and works list",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Brutalist Architecture: 4 Argentine Works Declared Historic Monuments",
+    "url": "https://www.archdaily.com/1119701/brutalist-architecture-4-argentine-works-declared-historic-monuments",
+    "kind": "news",
+    "paid": false,
+    "why": "Heritage status of his brutalist works",
     "checked": "2026-10-21"
    }
   ]
@@ -786,6 +903,51 @@
     "paid": false,
     "why": "Reference overview of career",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Window Research Institute",
+    "title": "Hiroshi Hara and Fictionality (Part 1)",
+    "url": "https://madoken.jp/en/series/38424/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Long interview on life and ideas",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Window Research Institute",
+    "title": "Hiroshi Hara and Fictionality (Part 2)",
+    "url": "https://madoken.jp/en/series/38427/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Village surveys and design thinking",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Artfront Gallery",
+    "title": "Why I Work With Artists: an interview with Hiroshi Hara",
+    "url": "https://artfront.co.jp/en/news_blog/why-i-work-with-artists-an-interview-with-hiroshi-hara-on-the-occasion-of-the-shintaro-tanaka-exhibition/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Hara on art and architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Hiroshi Hara with Mikio Wakabayashi, Meanwhile in Japan",
+    "url": "https://www.cca.qc.ca/en/events/88475/hiroshi-hara-with-mikio-wakabayashi-and-others-meanwhile-in-japan",
+    "kind": "museum",
+    "paid": false,
+    "why": "1960s-70s theories revisited",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "UCLA International Institute",
+    "title": "a.ud lecture series with US-Japan chair Hiroshi Hara",
+    "url": "https://international.ucla.edu/japan/article/168884",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture on his reflection houses",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -845,6 +1007,51 @@
     "paid": false,
     "why": "Reference overview of career",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Visual Architecture No.380: Design for Humanity / Sakakura Associates",
+    "url": "https://www.archdaily.com/1029815/jian-zhu-hua-bao-visual-architecture-n80-design-for-humanity-sakakura-associates-architects-and-engineers",
+    "kind": "profile",
+    "paid": false,
+    "why": "Sakakura's legacy and firm today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Museum of Modern Art Kamakura",
+    "title": "Junzo SAKAKURA, Architect (2009 retrospective)",
+    "url": "https://www.moma.pref.kanagawa.jp/storage/en/museum/exhibitions/2009/sakakura/index_en2009.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "Retrospective exhibition on his career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Urban Mishmash",
+    "title": "Junzo Sakakura, Japanese architect's exhibition in Paris",
+    "url": "https://www.urbanmishmash.com/art-culture/exhibitions/junzo-sakakura-architecture/",
+    "kind": "news",
+    "paid": false,
+    "why": "Paris retrospective overview",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Unitec ePress",
+    "title": "Japonisation of Modern Architecture: Ishimoto, Sakakura and Other Precursors",
+    "url": "https://www.unitec.ac.nz/epress/wp-content/uploads/2014/08/Japonisation-of-Modern-Architecture_Kikuji-Ishimoto-Junzo-Sakakura-and-Other-Precursors-by-Ari-Seligmann.pdf",
+    "kind": "essay",
+    "paid": false,
+    "why": "Scholarly paper on Japanese modernism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "John Barr Architect",
+    "title": "MOMA Kamakura: The Last Japanese Building",
+    "url": "https://www.johnbarrarchitect.com/post/2018/01/21/moma-kamakura-the-last-japanese-building",
+    "kind": "essay",
+    "paid": false,
+    "why": "Architect's visit to his first major work",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -890,6 +1097,15 @@
    },
    {
     "site": "ArchDaily",
+    "title": "Collection of Lucio Costa donated to Casa da Arquitectura",
+    "url": "https://www.archdaily.com/970708/collection-of-lucio-costa-donated-to-casa-da-arquitectura-in-portugal",
+    "kind": "museum",
+    "paid": false,
+    "why": "His archive and its holdings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
     "title": "Lúcio Costa tag",
     "url": "https://www.archdaily.com/tag/lucio-costa",
     "kind": "guide",
@@ -922,6 +1138,69 @@
     "kind": "overview",
     "paid": false,
     "why": "Reference overview of career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "UNESCO World Heritage Centre",
+    "title": "Brasilia",
+    "url": "https://whc.unesco.org/en/list/445/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Official listing of Costa's Pilot Plan",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Brazilian modernism: explore the enduring allure of the country's midcentury architecture",
+    "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "Guide to Brazilian modernism around Costa",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Brasilia celebrates its 60th anniversary",
+    "url": "https://www.domusweb.it/en/speciali/brasilia/2020/brasilia-today-we-celebrate-its-60th-anniversary.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Costa's Pilot Plan at sixty",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Brasilia in pictures: 50 great buildings, 50 years",
+    "url": "https://www.wallpaper.com/architecture/brasilia-in-pictures-50-great-buildings-50-years",
+    "kind": "guide",
+    "paid": false,
+    "why": "Photo tour of Costa's Brasília",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Brasilia, Brazil",
+    "url": "https://artsandculture.google.com/story/brasilia-brazil-unesco/PwXxbi8YVtNuLQ?hl=en",
+    "kind": "museum",
+    "paid": false,
+    "why": "Costa's first Pilot Plan sketches",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Espaço Lucio Costa",
+    "url": "https://artsandculture.google.com/story/espa%C3%A7o-lucio-costa-centro-cultural-tres-poderes/VQXhSDJzfH3Bzg?hl=en",
+    "kind": "museum",
+    "paid": false,
+    "why": "Tribute space with Brasília models",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Modernism, Latin Style",
+    "url": "https://www.architecturalrecord.com/articles/5917-modernism-latin-style",
+    "kind": "essay",
+    "paid": false,
+    "why": "Latin American modernism including Costa",
     "checked": "2026-10-21"
    }
   ]
@@ -1236,6 +1515,42 @@
     "paid": false,
     "why": "Mexico City building guide including Pani",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Arquine",
+    "title": "Mario Pani",
+    "url": "https://arquine.com/mario-pani-105-aniversario/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Spanish profile; few English alternatives",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Arquine",
+    "title": "Pani y la vivienda colectiva",
+    "url": "https://arquine.com/pani-y-la-vivienda-colectiva/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Spanish essay on his housing blocks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Arquine",
+    "title": "Mario Pani. Arquitectura en proceso. Conversación con Pablo Landa",
+    "url": "https://arquine.com/mario-pani-arquitectura-en-proceso-conversacion-con-pablo-landa/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Spanish conversation about his working process",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "From Mario Pani to mezcal: a tour through modern-day Mexico City",
+    "url": "https://www.wallpaper.com/travel/mexico-city-tour-the-must-see-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "Mexico City tour including Pani buildings",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -1333,15 +1648,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Firm's New York buildings gathered",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "NYC-Architecture.com",
-    "title": "New York Architecture Images - McKim Mead and White",
-    "url": "https://www.nyc-architecture.com/ARCH/ARCH-McKimMeadandWhite.htm",
-    "kind": "guide",
-    "paid": false,
-    "why": "Photo guide to the firm's New York work",
     "checked": "2026-10-21"
    },
    {
@@ -1647,6 +1953,42 @@
     "kind": "obituary",
     "paid": false,
     "why": "Obituary with works overview",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Architecture: The Legends - Rafael Viñoly",
+    "url": "https://www.youtube.com/watch?v=CsuYND9NziQ",
+    "kind": "video",
+    "paid": false,
+    "why": "Profile video with the architect",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "World-Renowned Architect Rafael Viñoly Breaks Down his Biggest Projects",
+    "url": "https://www.youtube.com/watch?v=ph1iv6SOV6c",
+    "kind": "video",
+    "paid": false,
+    "why": "Architect walks through major projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Interview with the Architect: Connecting with Rafael Viñoly at the Cleveland Museum of Art",
+    "url": "https://www.youtube.com/watch?v=hdMVfnYVMbc",
+    "kind": "interview",
+    "paid": false,
+    "why": "Interview on museum design approach",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Talking To - Architect Rafael Viñoly",
+    "url": "https://www.youtube.com/watch?v=2hiPnfBJ61A",
+    "kind": "interview",
+    "paid": false,
+    "why": "Conversation on his practice",
     "checked": "2026-10-21"
    },
    {
@@ -1988,6 +2330,60 @@
     "paid": false,
     "why": "Articles on Pietilä's work",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Reima Pietilä",
+    "url": "https://en.wikipedia.org/wiki/Reima_Pietil%C3%A4",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encoded address; earlier form failed",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo Finland",
+    "title": "Reima Pietilä",
+    "url": "https://en.docomomo.fi/architects/reima-pietila/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Works list from Finnish modernism experts",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Finnish Architecture Navigator",
+    "title": "Raili Pietilä",
+    "url": "https://www.finnisharchitecture.fi/architects/raili-pietila",
+    "kind": "profile",
+    "paid": false,
+    "why": "Raili's profile and joint works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ARK Finnish Architecture Review",
+    "title": "Editorial 4/2023: Master in the Forest",
+    "url": "https://www.ark.fi/en/2023/04/editorial-4-2023-master-in-the-forest/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Pietiläs' built heritage and renovations",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Finnish Architecture (Raili and Reima Pietilä) at the Finnish Institute",
+    "url": "https://www.archdaily.com/1110403/finnish-architecture-raili-and-reima-pietila-at-the-finnish-institute",
+    "kind": "news",
+    "paid": false,
+    "why": "Book launch with unpublished plans",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Más de Arte",
+    "title": "Raili y Reima Pietilä: desafiando la arquitectura moderna",
+    "url": "https://masdearte.com/raili-y-reima-pietilae-desafiando-la-arquitectura-moderna-2",
+    "kind": "essay",
+    "paid": false,
+    "why": "Spanish; little else in English",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -2178,6 +2574,60 @@
     "paid": false,
     "why": "Encyclopedia overview of the practice",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Global firm Perkins+Will buys Scandinavian office Schmidt Hammer Lassen",
+    "url": "https://www.dezeen.com/2018/01/26/global-firm-perkins-will-buys-scandinavian-office-schmidt-hammer-lassen/",
+    "kind": "news",
+    "paid": false,
+    "why": "Founders on the practice's future",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Schmidt Hammer Lassen Architects Joins Perkins+Will in Monumental Merger",
+    "url": "https://www.archdaily.com/887702/schmidt-hammer-lassen-architects-joins-perkins-plus-will-in-monumental-merger",
+    "kind": "news",
+    "paid": false,
+    "why": "History and scale of the practice",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Schmidt Hammer Lassen Architects",
+    "url": "https://www.metalocus.es/en/author/schmidt-hammer-lassen-architects",
+    "kind": "profile",
+    "paid": false,
+    "why": "Feed of the practice's projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "e-architect",
+    "title": "Schmidt Hammer Lassen Architects, Denmark",
+    "url": "https://www.e-architect.com/architects/schmidt-hammer-lassen-architects",
+    "kind": "profile",
+    "paid": false,
+    "why": "Practice profile with project list",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Perkins&Will",
+    "title": "Danish Design Practice Rørbæk og Møller Arkitekter Joins Schmidt Hammer Lassen",
+    "url": "https://perkinswill.com/news/rorbaek-og-moller-arkitekter/",
+    "kind": "news",
+    "paid": false,
+    "why": "Current offices and staff",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architecture News Plus",
+    "title": "Schmidt Hammer Lassen Architects",
+    "url": "https://architecturenewsplus.com/profiles/119",
+    "kind": "profile",
+    "paid": false,
+    "why": "Older profile; founders and offices",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -2341,6 +2791,60 @@
     "kind": "museum",
     "paid": false,
     "why": "Exhibition notice on his architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Togo Murano: Master Architect of Japan",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/33404705",
+    "kind": "museum",
+    "paid": false,
+    "why": "Catalogue record of the main English monograph",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Swarthmore College (Choice review)",
+    "title": "Review of Togo Murano: Master Architect of Japan",
+    "url": "https://works.swarthmore.edu/fac-art/58",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical review of the Bognar monograph",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Prince Hotels",
+    "title": "Showa 100th architecture: Murano's hotels",
+    "url": "https://www.princehotels.co.jp/contents/showa100th/architecture/en/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Murano's modernist and sukiya buildings compared",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Artscape",
+    "title": "Picks: Murano Togo exhibition",
+    "url": "https://artscape.jp/artscape/eng/picks/1411_02.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "Review of Osaka Murano exhibition",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ICAM",
+    "title": "Museum and Archives, Kyoto Institute of Technology",
+    "url": "https://icam-web.org/members/museum-and-archives-kyoto-institute-of-technology/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Home of Murano's drawings archive",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Archeyes",
+    "title": "Togo Murano",
+    "url": "https://archeyes.com/?p=5433",
+    "kind": "profile",
+    "paid": false,
+    "why": "Career and works overview",
     "checked": "2026-10-21"
    }
   ]
@@ -3112,6 +3616,15 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "YouTube",
+    "title": "Portrait of Alberto Campo Baeza, The Daylight Award 2024 Laureate",
+    "url": "https://www.youtube.com/watch?v=TKml3igT-XA",
+    "kind": "video",
+    "paid": false,
+    "why": "Short film portrait on daylight",
+    "checked": "2026-10-21"
+   },
+   {
     "site": "Architecture Lab",
     "title": "Interview with Alberto Campo Baeza of Estudio Arquitectura Campo Baeza",
     "url": "https://www.architecturelab.net/interview-with-alberto-campo-baeza-of-estudio-arquitectura-campo-baeza/",
@@ -3136,6 +3649,15 @@
     "kind": "news",
     "paid": false,
     "why": "Spain's top honour, with career context",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Alberto Campo Baeza, Premio Nacional de Arquitectura 2020",
+    "url": "https://www.youtube.com/watch?v=aCtgTYdfp48",
+    "kind": "video",
+    "paid": false,
+    "why": "Video on his prize-winning career",
     "checked": "2026-10-21"
    },
    {
@@ -3250,6 +3772,51 @@
     "paid": false,
     "why": "Practice history and notable works",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Architecture Now",
+    "title": "Recap: NZIA Gold Medallists",
+    "url": "https://architecturenow.co.nz/articles/recap-nzia-gold-medallists/",
+    "kind": "news",
+    "paid": false,
+    "why": "Clifford among New Zealand's gold medallists",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "NZIA",
+    "title": "2014 Gold Medal: Patrick Clifford",
+    "url": "https://nzia.co.nz/awards/gold-medal/2014-gold-medal-patrick-clifford",
+    "kind": "profile",
+    "paid": false,
+    "why": "Citation for Architectus co-founder",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectus",
+    "title": "A golden moment for Patrick Clifford",
+    "url": "https://architectus.co.nz/latest/a-golden-moment-for-patrick-clifford/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Firm's account of Clifford's Gold Medal",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Australian Design Review",
+    "title": "Architectus embraces landscape architecture",
+    "url": "https://www.australiandesignreview.com/featured/architectus-embraces-landscape-architecture/",
+    "kind": "news",
+    "paid": false,
+    "why": "Practice's expansion into landscape",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Architectus: Between Order and Opportunity",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/318869673",
+    "kind": "museum",
+    "paid": false,
+    "why": "Catalogue record of the practice monograph",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -3272,6 +3839,51 @@
     "kind": "news",
     "paid": false,
     "why": "Armenian modernist buildings in illustration",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Discovering the architecture of Yerevan and its Soviet modernism",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2025/03/13/yerevan-buildings-soviet-modernism.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Photo tour of Yerevan's Soviet modernism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Nvard Yerkanian Brings Armenia's Modernist Architecture to Life",
+    "url": "https://www.archdaily.com/939966/nvard-yerkanian-brings-armenias-modernist-architecture-to-life",
+    "kind": "news",
+    "paid": false,
+    "why": "Illustrated Armenian modernist landmarks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Soviet Modernism",
+    "url": "https://www.domusweb.it/en/architecture/2012/12/25/soviet-modernism.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Context of Soviet modernism across republics",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Garage Museum",
+    "title": "Yerevan: A Guide to Soviet Modernist Architecture 1955-1991",
+    "url": "https://garagemca.org/en/programs/publishing/yerevan-soviet-modernist-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Book guide to Yerevan's modernist buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Armenian Explorer",
+    "title": "Soviet modernist buildings in Armenia",
+    "url": "https://armenianexplorer.com/urbexarmenia/soviet-modernist-buildings-in-armenia",
+    "kind": "guide",
+    "paid": false,
+    "why": "Tour of Armenian modernist buildings",
     "checked": "2026-10-21"
    }
   ]
@@ -3472,6 +4084,69 @@
     "paid": false,
     "why": "Practice overview and projects",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Gunter Behnisch, Munich Olympics architect, dies",
+    "url": "https://www.architectsjournal.co.uk/archive/gunter-behnisch-munich-olympics-architect-dies",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Obituary covering his career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Gunter Behnisch (1922-2010)",
+    "url": "https://www.architectsjournal.co.uk/news/gunter-behnisch-1922-2010",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Tribute placing him in German reconstruction",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Live interview with architect Stefan Behnisch",
+    "url": "https://www.dezeen.com/2020/05/11/stefan-behnisch-vdf-screentime/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Stefan Behnisch on the practice today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Arquitectura Viva",
+    "title": "Gunter Behnisch (1922-2010)",
+    "url": "https://arquitecturaviva.com/articles/gunter-behnisch-1922-2010",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Spanish magazine's career summary",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Designboom",
+    "title": "behnisch architekten",
+    "url": "https://www.designboom.com/tag/behnisch-architekten/",
+    "kind": "news",
+    "paid": false,
+    "why": "Designboom's collected practice coverage",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Gunther Behnisch",
+    "url": "https://www.archdaily.com/tag/gunther-behnisch",
+    "kind": "profile",
+    "paid": false,
+    "why": "Collected works by Behnisch",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Stuttgarter Zeitung",
+    "title": "Stefan Behnisch on his father Gunter Behnisch",
+    "url": "https://www.stuttgarter-zeitung.de/kultur/architekt-stefan-behnisch-ueber-seinen-vater-guenter-behnisch-baumeister-der-offenen-gesellschaft-79033815.html",
+    "kind": "interview",
+    "paid": false,
+    "why": "German; son on father's open-society architecture",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -3549,6 +4224,43 @@
     "paid": false,
     "why": "Practice's own site",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Form Follows Performance",
+    "url": "https://metropolismag.com/programs/form-follows-performance-2/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Sustainable design approach of the practice",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Designboom",
+    "title": "Behnisch Architekten",
+    "url": "https://www.designboom.com/tag/behnisch-architekten/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Collected projects by the practice",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Behnisch Architekten",
+    "url": "https://www.dezeen.com/tag/behnisch-architekten/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Practice projects and news",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Like Father, Like Son: 4 Famous Architecture Dynasties",
+    "url": "https://www.archdaily.com/644466/like-father-like-son-4-famous-architecture-dynasties",
+    "kind": "essay",
+    "paid": false,
+    "why": "Günter to Stefan Behnisch, firm history",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -3580,6 +4292,15 @@
     "kind": "essay",
     "paid": false,
     "why": "His Russian roots and early formation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Berthold Lubetkin: A talk by John Allan",
+    "url": "https://www.youtube.com/watch?v=brmTRMj4cdI",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture by his leading biographer",
     "checked": "2026-10-21"
    },
    {
@@ -3694,6 +4415,15 @@
     "kind": "guide",
     "paid": false,
     "why": "Tour of Tecton's main buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Berthold Lubetkin: A talk by John Allan",
+    "url": "https://www.youtube.com/watch?v=brmTRMj4cdI",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture on Lubetkin and Tecton's work",
     "checked": "2026-10-21"
    },
    {
@@ -3911,6 +4641,51 @@
     "kind": "profile",
     "paid": false,
     "why": "Short architect profile",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "INHA AGORHA",
+    "title": "Girault, Charles (1851-1932)",
+    "url": "https://agorha.inha.fr/ark:/54721/32e5e413-158d-4c11-aec7-05475c7361c5",
+    "kind": "profile",
+    "paid": false,
+    "why": "Detailed career record; French",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Académie des Beaux-Arts",
+    "title": "Charles-Louis Girault",
+    "url": "https://www.academiedesbeauxarts.fr/charles-louis-girault",
+    "kind": "profile",
+    "paid": false,
+    "why": "Academy member profile; French",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Larousse",
+    "title": "Charles Louis Girault",
+    "url": "https://www.larousse.fr/encyclopedie/personnage/Charles_Louis_Girault/121503",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopedia entry assessing his style; French",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Charles Girault",
+    "url": "https://artsandculture.google.com/entity/charles-girault/m04jgc9l?hl=en",
+    "kind": "museum",
+    "paid": false,
+    "why": "Drawings and works by Girault",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Africa Museum archives",
+    "title": "Girault, Charles",
+    "url": "https://archives.africamuseum.be/agents/people/826",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of his Belgian commissions",
     "checked": "2026-10-21"
    }
   ]
@@ -4150,6 +4925,24 @@
     "paid": false,
     "why": "His museum buildings on its campus",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Palm Springs Life",
+    "title": "See the Artistic Side of E. Stewart Williams",
+    "url": "https://www.palmspringslife.com/see-the-artistic-side-of-e-stewart-williams-at-architecture-and-design-exhibit/",
+    "kind": "news",
+    "paid": false,
+    "why": "2014 retrospective exhibition coverage",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "An Eloquent Modernist: E. Stewart Williams, Architect",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/883510739",
+    "kind": "museum",
+    "paid": false,
+    "why": "Library record of the monograph",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -4349,15 +5142,6 @@
     "kind": "video",
     "paid": false,
     "why": "Venice Biennale keynote, mosques discussed",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Architects Not Architecture",
-    "title": "Livestream: Turkey Edition",
-    "url": "https://www.architectsnotarchitecture.com/?p=19108",
-    "kind": "interview",
-    "paid": false,
-    "why": "Talk and interview on creative periods",
     "checked": "2026-10-21"
    },
    {
