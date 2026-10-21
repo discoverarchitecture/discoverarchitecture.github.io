@@ -75,30 +75,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Archiweb",
-    "title": "Giuseppe Terragni",
-    "url": "https://www.archiweb.cz/en/giuseppe-terragni",
-    "kind": "profile",
+    "site": "Arquitectura Viva",
+    "title": "Terragni in Vanishing Point",
+    "url": "https://arquitecturaviva.com/articles/terragni-en-punto-de-fuga-0",
+    "kind": "essay",
     "paid": false,
-    "why": "Biography and works overview",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archilovers",
-    "title": "Giuseppe Terragni",
-    "url": "https://www.archilovers.com/giuseppe-terragni/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Biography and project list",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Encyclopaedia Universalis",
-    "title": "TERRAGNI GIUSEPPE (1904-1943)",
-    "url": "https://www.universalis.fr/encyclopedie/giuseppe-terragni/",
-    "kind": "overview",
-    "paid": true,
-    "why": "French encyclopaedia entry",
+    "why": "Critique of Eisenman's reading of Terragni",
     "checked": "2026-10-21"
    }
   ]
@@ -215,15 +197,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arquitectura Viva",
-    "title": "Grafton Architects (article 45582)",
-    "url": "https://arquitecturaviva.com/articulos/45582",
-    "kind": "interview",
-    "paid": false,
-    "why": "European architecture magazine feature",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Grafton Architects",
     "title": "Grafton Architects",
     "url": "https://www.graftonarchitects.ie/",
@@ -249,15 +222,6 @@
     "paid": false,
     "why": "Founders and career summary",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Vimeo",
-    "title": "Grafton Architects Yvonne Farrell & Shelley McNamara",
-    "url": "https://vimeo.com/112922935",
-    "kind": "video",
-    "paid": false,
-    "why": "Film portrait of the practice",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -281,15 +245,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Works and influence overview",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "ArkDes",
-    "title": "Gunnar Asplund's Collection",
-    "url": "https://arkdes.se/en/the-collection/the-collection-that-shaped-modern-sweden/gunnar-asplunds-collection/",
-    "kind": "museum",
-    "paid": false,
-    "why": "Swedish museum's drawings archive",
     "checked": "2026-10-21"
    },
    {
@@ -347,21 +302,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "e-architect",
-    "title": "Gunnar Asplund Architect Sweden",
-    "url": "https://www.e-architect.com/architects/gunnar-asplund",
-    "kind": "profile",
+    "site": "ArkDes",
+    "title": "Gunnar Asplund's hidden cultural treasure",
+    "url": "https://pressroom.arkdes.se/posts/pressreleases/gunnar-asplunds-hidden-cultural-treasure-to-b",
+    "kind": "museum",
     "paid": false,
-    "why": "Style and key buildings",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Design Index",
-    "title": "Erik Gunnar Asplund",
-    "url": "https://designindex.org/index/design/erik-gunnar-asplund.html",
-    "kind": "profile",
-    "paid": false,
-    "why": "Design-history entry",
+    "why": "Swedish architecture museum on Asplund's archive",
     "checked": "2026-10-21"
    }
   ]
@@ -451,15 +397,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arquitectura Viva",
-    "title": "Henry N. Cobb (1926-2020)",
-    "url": "https://arquitecturaviva.com/articulos/henry-n-cobb-1926-2020",
-    "kind": "obituary",
-    "paid": false,
-    "why": "Spanish magazine obituary",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Interior Design",
     "title": "Henry N. Cobb, renowned architect and partner of I.M. Pei, dies at 93",
     "url": "https://interiordesign.net/designwire/henry-n-cobb-renowned-architect-and-business-partner-of-i-m-pei-dies-at-93/",
@@ -502,15 +439,6 @@
     "kind": "overview",
     "paid": false,
     "why": "Career and works summary",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Office Insight",
-    "title": "Architect Henry N. Cobb, 1926-2020",
-    "url": "https://officeinsight.com/officenewswire/architect-henry-n-cobb-1926-2020/",
-    "kind": "obituary",
-    "paid": false,
-    "why": "Firm statement and career",
     "checked": "2026-10-21"
    }
   ]
@@ -601,33 +529,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Heritage KBF",
-    "title": "Henry van de Velde - Passion - Function - Beauty",
-    "url": "https://heritage-kbf.be/node/445",
-    "kind": "museum",
-    "paid": false,
-    "why": "Belgian exhibition page",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Focus on Belgium",
-    "title": "Henry van de Velde",
-    "url": "https://focusonbelgium.be/en/Do%20you%20know%20these%20Belgians/henry-van-de-velde",
-    "kind": "profile",
-    "paid": false,
-    "why": "Belgian profile of his life",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Store norske leksikon",
-    "title": "Henry van de Velde",
-    "url": "https://snl.no/Henry_van_de_Velde",
-    "kind": "overview",
-    "paid": false,
-    "why": "Norwegian encyclopaedia entry",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Boekentoren",
     "title": "Boekentoren",
     "url": "https://www.boekentoren.be/en",
@@ -657,15 +558,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Works list and biography",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Store norske leksikon",
-    "title": "Jacobus Johannes Pieter Oud",
-    "url": "https://snl.no/Jacobus_Johannes_Pieter_Oud",
-    "kind": "overview",
-    "paid": false,
-    "why": "Norwegian encyclopaedia entry; nothing better found",
     "checked": "2026-10-21"
    },
    {
@@ -731,6 +623,15 @@
     "paid": false,
     "why": "Publisher note on Oud's career",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "J. J. P. Oud collection record",
+    "url": "https://www.cca.qc.ca/en/search/details/collection/object/469513",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive holdings on Oud's drawings",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -783,30 +684,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Archiweb",
-    "title": "Jürgen Mayer H. - online lecture",
-    "url": "https://www.archiweb.cz/en/n/lectures/j-rgen-mayer-h-on-line-prednaska",
-    "kind": "video",
-    "paid": false,
-    "why": "2021 lecture recording",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Holcim Foundation",
     "title": "Getting personal about architecture",
     "url": "https://www.holcimfoundation.org/Article/getting-personal-about-architecture",
     "kind": "essay",
     "paid": false,
     "why": "Mayer H. on communicating architecture",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archiweb",
-    "title": "rozhovor s jürgenem mayerem h",
-    "url": "https://www.archiweb.cz/en/n/interview/rozhovor-s-j-rgenem-mayerem-h",
-    "kind": "interview",
-    "paid": false,
-    "why": "2009 interview on work and technology",
     "checked": "2026-10-21"
    },
    {
@@ -834,6 +717,24 @@
     "kind": "museum",
     "paid": false,
     "why": "RA lecture on architecture and freedom",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "WFM Media",
+    "title": "Interview with Jürgen Mayer H.",
+    "url": "https://wfmmedia.com/?p=61322",
+    "kind": "interview",
+    "paid": false,
+    "why": "Mayer on style, design and recent projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Juergen Mayer",
+    "url": "https://www.dezeen.com/?p=1190971",
+    "kind": "profile",
+    "paid": false,
+    "why": "Dezeen's collected coverage of the studio",
     "checked": "2026-10-21"
    }
   ]
@@ -906,30 +807,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Time Out Mexico",
-    "title": "Casa Estudio de Diego Rivera y Frida Kahlo",
-    "url": "https://www.timeoutmexico.mx/ciudad-de-mexico/museos-y-centros-culturales/casa-estudio-de-diego-rivera-y-frida-kahlo",
-    "kind": "museum",
-    "paid": false,
-    "why": "Visitor guide to his best-known houses (Spanish)",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "ArchDaily",
     "title": "Juan O'Gorman tag",
     "url": "https://www.archdaily.com/tag/juan-ogorman",
     "kind": "guide",
     "paid": false,
     "why": "Collected project coverage",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Lex.dk",
-    "title": "Juan O'Gorman",
-    "url": "https://lex.dk/Juan_O%E2%80%99Gorman",
-    "kind": "overview",
-    "paid": false,
-    "why": "Danish encyclopaedia entry",
     "checked": "2026-10-21"
    }
   ]
@@ -1132,15 +1015,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arquitectura Viva",
-    "title": "Kazuo Shinohara",
-    "url": "https://arquitecturaviva.com/articles/kazuo-shinohara-8",
-    "kind": "profile",
-    "paid": false,
-    "why": "Magazine profile",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "ArchDaily",
     "title": "Kazuo Shinohara tag",
     "url": "https://www.archdaily.com/tag/kazuo-shinohara",
@@ -1270,15 +1144,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Career spotlight with key works",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archiseek",
-    "title": "Kevin Roche (1922-2019)",
-    "url": "https://www.archiseek.com/kevin-roche-architect/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Irish architecture site profile",
     "checked": "2026-10-21"
    },
    {
@@ -1432,30 +1297,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Archiseek",
-    "title": "Kevin Roche (1922-2019)",
-    "url": "https://www.archiseek.com/kevin-roche-architect/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Irish architecture site profile",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "University College Dublin",
     "title": "In Memoriam: Kevin Roche",
     "url": "https://www.ucd.ie/newsandopinion/news/2019/march/05/inmemoriamkevinroche1922-2019",
     "kind": "obituary",
     "paid": false,
     "why": "Alma mater tribute",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Architectural Record",
-    "title": "Kevin Roche John Dinkeloo and Associates",
-    "url": "https://www.architecturalrecord.com/topics/2665-kevin-roche-john-dinkeloo-and-associates",
-    "kind": "guide",
-    "paid": false,
-    "why": "Collected coverage of the firm",
     "checked": "2026-10-21"
    }
   ]
@@ -1597,24 +1444,6 @@
     "paid": false,
     "why": "The practice's own site and projects",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Lacaton & Vassal",
-    "url": "https://en.wikipedia.org/wiki/Lacaton_&_Vassal",
-    "kind": "overview",
-    "paid": false,
-    "why": "Encyclopaedia overview",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wallpaper*",
-    "title": "Pritzker Prize 2021 winners announced: Lacaton and Vassal",
-    "url": "https://www.wallpaper.com/architecture/pritzker-prize-2021-anne-lacaton-jean-philippe-vassal",
-    "kind": "news",
-    "paid": false,
-    "why": "Prize announcement and context",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -1647,7 +1476,8 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical reputation essay",
-    "checked": "2026-10-21"
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Wallpaper*",
@@ -1683,15 +1513,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Works and biography collected",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Artforum",
-    "title": "THE NON-CONFORMIST: THE ARCHITECTURE OF LINA BO BARDI",
-    "url": "https://www.artforum.com/features/the-non-conformist-the-architecture-of-lina-bo-bardi-224305/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Feature on her architecture",
     "checked": "2026-10-21"
    },
    {
@@ -1826,15 +1647,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Archilovers",
-    "title": "10 Q&A with Archilovers: MAD Architects",
-    "url": "https://archilovers.com/stories/28526/10-q-a-with-archilovers-mad-architects.html",
-    "kind": "interview",
-    "paid": false,
-    "why": "Personal Q&A and Shanshui City",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Cultured",
     "title": "Lucas Museum and Ma Yansong feature",
     "url": "https://www.culturedmag.com/article/2026/09/03/architecture-lucas-museum-ma-yansong/",
@@ -1922,24 +1734,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arquitectura Viva",
-    "title": "Interview: school of architecture was a stroke of luck",
-    "url": "https://arquitecturaviva.com/articles/tras-el-mies-al-musac",
-    "kind": "interview",
-    "paid": false,
-    "why": "Both partners on training and Moneo",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Arquitectura Viva",
-    "title": "El maestro mellizo",
-    "url": "https://arquitecturaviva.com/articulos/el-maestro-mellizo",
-    "kind": "essay",
-    "paid": false,
-    "why": "Portrait of their contrasting personalities",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Professione Architetto",
     "title": "An interview with Luis Mansilla and Emilio Tuñón",
     "url": "https://www.professionearchitetto.it/news/en/an-interview-with-luis-mansilla-and-emilio-tunon/",
@@ -1974,6 +1768,33 @@
     "kind": "profile",
     "paid": false,
     "why": "Works and awards summary",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Mansilla + Tuñón Architects",
+    "url": "https://en.wikipedia.org/wiki/Mansilla_%2B_Tu%C3%B1%C3%B3n_Architects",
+    "kind": "overview",
+    "paid": false,
+    "why": "Practice history and major works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Mansilla + Tuñón, Gold Medal for Merit in Fine Arts",
+    "url": "https://www.metalocus.es/en/news/mansilla-tunon-arquitectos-winners-gold-medal-merit-fine-arts",
+    "kind": "news",
+    "paid": false,
+    "why": "Award coverage of whole body of work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architecture and Urbanism (a+u)",
+    "title": "Mansilla + Tuñón",
+    "url": "https://backnumber.japan-architect.co.jp/english/2maga/au/Architects/m/Mansilla%2BTunon.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Journal's issues and features on the practice",
     "checked": "2026-10-21"
    }
   ]
@@ -2018,21 +1839,21 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Mosqpedia",
-    "title": "Nayyar Ali Dada",
-    "url": "https://mosqpedia.org/manaber/nayyar-ali-dada/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Biography and list of works",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Punjab Lahore Arts Council",
     "title": "Nayyar Ali Dada",
     "url": "https://lac.punjab.gov.pk/node/32",
     "kind": "profile",
     "paid": false,
     "why": "Alhamra's institution on its architect",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "University of Liverpool",
+    "title": "A Significance for Brick: Architecture and the Public in Lahore",
+    "url": "https://www.liverpool.ac.uk/geography-and-planning/research/power-space-and-cultural-change/seminar-series/significance-for-brick/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Academic seminar on his Lahore brick architecture",
     "checked": "2026-10-21"
    }
   ]
@@ -2104,15 +1925,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arquitectura Viva",
-    "title": "Nieto Sobejano tag page",
-    "url": "https://arquitecturaviva.com/tag/nieto-sobejano",
-    "kind": "profile",
-    "paid": false,
-    "why": "Spanish magazine coverage archive",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Metalocus",
     "title": "Nieto Sobejano author page",
     "url": "https://metalocus.es/en/author/nieto-sobejano",
@@ -2137,33 +1949,6 @@
     "kind": "video",
     "paid": false,
     "why": "Lecture at their alma mater",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Bustler",
-    "title": "Nieto and Sobejano win 2015 Alvar Aalto Medal",
-    "url": "https://bustler.net/news/4174/fuensanta-nieto-enrique-sobejano-win-2015-alvar-aalto-medal",
-    "kind": "news",
-    "paid": false,
-    "why": "Award news item",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Aedes",
-    "title": "Nieto Sobejano, Madrid",
-    "url": "https://cms.baunetz.de/cms/aedes/en/videodetail?id=373762",
-    "kind": "museum",
-    "paid": false,
-    "why": "Berlin gallery exhibition video",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Cersaie",
-    "title": "Meeting with Nieto Sobejano",
-    "url": "https://www.cersaie.it/event/Meeting-with-Nieto-Sobejano/100833/2014",
-    "kind": "video",
-    "paid": false,
-    "why": "Talk by the partners",
     "checked": "2026-10-21"
    }
   ]
@@ -2217,15 +2002,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Business of Home",
-    "title": "irish architecture duo to be awarded riba royal gold medal",
-    "url": "https://businessofhome.com/articles/irish-architecture-duo-to-be-awarded-riba-royal-gold-medal",
-    "kind": "news",
-    "paid": false,
-    "why": "Royal Gold Medal announcement",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Irish Life and Lore",
     "title": "John Tuomey and Sheila O'Donnell",
     "url": "https://www.irishlifeandlore.com/?p=18164",
@@ -2250,15 +2026,6 @@
     "kind": "video",
     "paid": false,
     "why": "Book launch and lecture, 2022",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "e-architect",
-    "title": "O'Donnell + Tuomey Architects Dublin",
-    "url": "https://www.e-architect.com/architects/o-donnell-tuomey",
-    "kind": "profile",
-    "paid": false,
-    "why": "Works list and practice overview",
     "checked": "2026-10-21"
    },
    {
@@ -2303,42 +2070,6 @@
   "key": "architect:Peter Celsing",
   "links": [
    {
-    "site": "Riksbank",
-    "title": "The architect Peter Celsing",
-    "url": "https://www.riksbank.se/en-gb/about-the-riksbank/the-building/the-architect-peter-celsing/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Institutional biography with major works",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Arquitectura Viva",
-    "title": "Peter Celsing, 1920-1974",
-    "url": "https://arquitecturaviva.com/articles/peter-celsing-1920-1974-",
-    "kind": "profile",
-    "paid": false,
-    "why": "Architecture magazine profile",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archiweb",
-    "title": "peter celsing",
-    "url": "https://www.archiweb.cz/en/peter-celsing",
-    "kind": "profile",
-    "paid": false,
-    "why": "Works list with projects",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Svenska kyrkan",
-    "title": "peter celsing och harlanda kyrka",
-    "url": "https://www.svenskakyrkan.se/orgryte/peter-celsing-och-harlanda-kyrka",
-    "kind": "essay",
-    "paid": false,
-    "why": "His church work and Lewerentz (Swedish)",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Wikipedia",
     "title": "Peter Celsing",
     "url": "https://en.wikipedia.org/wiki/Peter_Celsing",
@@ -2348,21 +2079,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Riksbank",
-    "title": "Arkitekten Peter Celsing",
-    "url": "https://www.riksbank.se/sv/om-riksbanken/historia/riksbankens-hus/arkitekten-peter-celsing",
+    "site": "Sveriges Riksbank",
+    "title": "The architect Peter Celsing",
+    "url": "https://www.riksbank.se/en-gb/about-the-riksbank/history/the-building/the-architect-peter-celsing/",
     "kind": "profile",
     "paid": false,
-    "why": "Swedish version, more detail (Swedish)",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Scandinavian Design",
-    "title": "Peter Celsing — Architect Behind Stockholm's Kulturhuset",
-    "url": "https://scandinaviandesign.com/peter-celsing/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Blog overview; weak, low priority",
+    "why": "Bank's own biography of Celsing",
     "checked": "2026-10-21"
    }
   ]
@@ -2405,15 +2127,6 @@
     "kind": "video",
     "paid": false,
     "why": "Eisenman on Berlin memorial and ideas",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Binus University",
-    "title": "Interview with Peter Eisenman: I Am Not Convinced That I Have a Style",
-    "url": "https://architecture.binus.ac.id/2018/04/05/interview-with-peter-eisenman-i-am-not-convinced-that-i-have-a-style/",
-    "kind": "interview",
-    "paid": false,
-    "why": "Excerpt from Belogolovsky conversations",
     "checked": "2026-10-21"
    },
    {
@@ -2557,24 +2270,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Sworder's",
-    "title": "Designing Chandigarh",
-    "url": "https://www.sworder.co.uk/news/designing-chandigarh/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Auction house essay on Chandigarh furniture",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Cheffins",
-    "title": "Trendspotter - Pierre Jeanneret for Chandigarh",
-    "url": "https://fineart.cheffins.co.uk/news-item/trendspotter--pierre-jeanneret-for-chandigarh/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Short guide to his furniture",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Jeanneret Chandigarh",
     "title": "jeanneret-chandigarh.com",
     "url": "https://www.jeanneret-chandigarh.com/",
@@ -2602,13 +2297,14 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Masterworks",
-    "title": "pierre jeanneret",
-    "url": "https://www.masterworks.com/academy/artists/pierre-jeanneret",
-    "kind": "profile",
+    "site": "Dezeen",
+    "title": "Chandigarh Chairs",
+    "url": "https://www.dezeen.com/2024/10/25/chandigarh-chair-mid-century-modern-jeanneret-criticism/amp/",
+    "kind": "essay",
     "paid": false,
-    "why": "Biography; market-oriented, low priority",
-    "checked": "2026-10-21"
+    "why": "Critique of the Jeanneret chair myth",
+    "checked": "2026-10-21",
+    "blocked_check": true
    }
   ]
  },
@@ -2704,15 +2400,6 @@
     "kind": "overview",
     "paid": false,
     "why": "Reference entry",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archiweb",
-    "title": "pietro belluschi",
-    "url": "https://www.archiweb.cz/en/pietro-belluschi",
-    "kind": "profile",
-    "paid": false,
-    "why": "Works list",
     "checked": "2026-10-21"
    }
   ]
@@ -2843,15 +2530,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Domus",
-    "title": "Ricciotti architetto",
-    "url": "https://www.domusweb.it/it/architettura/2013/04/22/rudy_ricciotti.html",
-    "kind": "essay",
-    "paid": false,
-    "why": "Surface, decoration, high-performance concrete (Italian)",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Metalocus",
     "title": "L'ARCHITECTURE EST UN SPORT DE COMBAT by RUDY RICCIOTTI",
     "url": "https://www.metalocus.es/en/news/larchitecture-est-un-sport-de-combat-rudy-ricciotti",
@@ -2879,48 +2557,21 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Le Temps",
-    "title": "rudy ricciotti architecte insoumis sans la suisse je serais reste un voyou",
-    "url": "https://www.letemps.ch/culture/rudy-ricciotti-architecte-insoumis-sans-la-suisse-je-serais-reste-un-voyou",
-    "kind": "interview",
-    "paid": false,
-    "why": "2025 interview at Cassis (French)",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "MyProvence",
-    "title": "L'anarchitecture de Rudy Ricciotti",
-    "url": "https://www.myprovence.fr/ca-s-agite-dans-le-local/a-moi-la-culture/interview/bouches-du-rhone/lanarchitecture-de-rudy-ricciotti",
-    "kind": "interview",
-    "paid": false,
-    "why": "2016 interview on approach (French)",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Dominik Gehl",
-    "title": "Rudy Ricciotti",
-    "url": "https://dominikgehl.com/architects/rudy-ricciotti",
-    "kind": "profile",
-    "paid": false,
-    "why": "Short career biography",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "YouTube",
-    "title": "Grand entretien avec Rudy Ricciotti, architecte de combat",
-    "url": "https://www.youtube.com/watch?v=LCsWR-6zpvg",
-    "kind": "video",
-    "paid": false,
-    "why": "Long filmed interview (French)",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Arhitectura",
     "title": "rudy ricciotti architecture is a combat sport",
     "url": "https://arhitectura-1906.ro/en/2013/08/rudy-ricciotti-architecture-is-a-combat-sport/",
     "kind": "essay",
     "paid": false,
     "why": "Review of his book in English",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Des Plans",
+    "title": "Rudy Ricciotti",
+    "url": "https://desplans.com/architects/rudy-ricciotti/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Short English career profile",
     "checked": "2026-10-21"
    }
   ]
@@ -2985,15 +2636,6 @@
    },
    {
     "site": "Domus",
-    "title": "The architecture of colour",
-    "url": "https://www.domusweb.it/en/architecture/2003/06/09/the-architecture-of-colour.html",
-    "kind": "essay",
-    "paid": false,
-    "why": "How they use colour as material",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Domus",
     "title": "Sauerbruch Hutton: Works for Munich",
     "url": "https://www.domusweb.it/en/interviews/2012/03/20/sauerbruch-hutton-works-for-munich.html",
     "kind": "interview",
@@ -3026,15 +2668,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Overview of their career trajectory",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Akademie der Künste",
-    "title": "draw love build / sauerbruch hutton tracing modernities",
-    "url": "https://adk.de/en/programme/event-calendar/2024/10/draw-love-build-sauerbruch-hutton-tracing-modernities-2",
-    "kind": "museum",
-    "paid": false,
-    "why": "2024 Berlin retrospective, archive context",
     "checked": "2026-10-21"
    },
    {
@@ -3085,16 +2718,8 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical review of the Lewerentz revival",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wallpaper*",
-    "title": "We celebrate Swedish modernist architect Sigurd Lewerentz",
-    "url": "https://www.wallpaper.com/architecture/modernist-architect-sigurd-lewerentz-profile-sweden",
-    "kind": "profile",
-    "paid": false,
-    "why": "Accessible profile of his career",
-    "checked": "2026-10-21"
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "ArchDaily",
@@ -3175,15 +2800,6 @@
     "kind": "interview",
     "paid": false,
     "why": "Curator conversation on his legacy",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Scandinavian Design",
-    "title": "Sigurd Lewerentz: Swedish Architect and Furniture Designer, 1885–1975",
-    "url": "https://scandinaviandesign.com/?p=93508",
-    "kind": "profile",
-    "paid": false,
-    "why": "Biography including his joinery work",
     "checked": "2026-10-21"
    },
    {
@@ -3300,30 +2916,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Cube",
-    "title": "Smiljan Radić Clarke wins the Pritzker Architecture Prize",
-    "url": "https://www.cube-magazin.de/en/smiljan-radic-clarke-erhaelt-pritzker-architekturpreis/",
-    "kind": "news",
-    "paid": false,
-    "why": "Jury remarks and Serpentine example",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Architecture AU",
     "title": "Smiljan Radić awarded 2026 Pritzker Prize",
     "url": "https://architectureau.com/articles/Smiljan-Radic-awarded-2026-Pritzker-Prize/",
     "kind": "news",
     "paid": false,
     "why": "Australian coverage of the prize",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Bonart",
-    "title": "Smiljan Radić Pritzker Prize 2026: the architecture of the essential",
-    "url": "https://www.bonart.cat/en/n/46300/smiljan-radic-pritzker-prize-2026-the-architecture-of-the-essential",
-    "kind": "essay",
-    "paid": false,
-    "why": "Critical reading of his work",
     "checked": "2026-10-21"
    },
    {
@@ -3419,15 +3017,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Archive of Morphosis projects",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Arquitectura Viva",
-    "title": "Pritzker Prize 2005",
-    "url": "https://arquitecturaviva.com/articles/premio-pritzker-3",
-    "kind": "news",
-    "paid": false,
-    "why": "Spanish journal's prize assessment",
     "checked": "2026-10-21"
    },
    {
@@ -3553,15 +3142,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Designboom",
-    "title": "Olgiati at Venice Architecture Biennale 2018",
-    "url": "https://www.designboom.com/architecture/valerio-olgiati-venice-architecture-biennale-06-03-2018/",
-    "kind": "news",
-    "paid": false,
-    "why": "Biennale installation with his film",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Divisare",
     "title": "Valerio Olgiati",
     "url": "https://divisare.com/authors/10083-valerio-olgiati",
@@ -3600,15 +3180,6 @@
     "kind": "obituary",
     "paid": false,
     "why": "Life, career and buildings, with interview",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "AD Interviews: Chris Wilkinson & Jim Eyre / Wilkinson Eyre Architects",
-    "url": "https://www.archdaily.com/352906/ad-interviews-chris-wilkinson-jim-eyre-wilkinson-eyre-architects",
-    "kind": "interview",
-    "paid": false,
-    "why": "Both founders on their approach",
     "checked": "2026-10-21"
    },
    {
@@ -3654,15 +3225,6 @@
     "kind": "interview",
     "paid": false,
     "why": "Jim Eyre on the practice today",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archi.ru",
-    "title": "Chris Wilkinson. Interview and text by Vladimir Belogolovskiy",
-    "url": "https://archi.ru/en/news_current.html?nid=8521",
-    "kind": "interview",
-    "paid": false,
-    "why": "Wilkinson on bridges and towers",
     "checked": "2026-10-21"
    },
    {
@@ -3770,15 +3332,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Ashihara Design Archive",
-    "title": "Biography",
-    "url": "https://www.ashihara.jp/da/html/bio0103ea.htm",
-    "kind": "profile",
-    "paid": false,
-    "why": "Year-by-year biography",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "NACT",
     "title": "Yoshinobu Ashihara exhibition",
     "url": "https://www.nact.jp/english/artcommons/user/detail/54080",
@@ -3839,15 +3392,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Austria-Forum",
-    "title": "Loos, Adolf",
-    "url": "https://austria-forum.org/af/Biographien/Loos,_Adolf",
-    "kind": "overview",
-    "paid": false,
-    "why": "Austrian biography",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Architectuul",
     "title": "Adolf Loos",
     "url": "https://architectuul.com/architect/adolf-loos",
@@ -3863,15 +3407,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Articles and projects tagged Loos",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Archiweb",
-    "title": "Vienna prepared two exhibitions for the Brno native Loos",
-    "url": "https://www.archiweb.cz/en/n/exhibition/viden-pripravila-brnenskemu-rodakovi-loosovi-dve-vystavy",
-    "kind": "museum",
-    "paid": false,
-    "why": "Vienna's 150th-anniversary shows",
     "checked": "2026-10-21"
    },
    {
@@ -3893,30 +3428,57 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Visiting Vienna",
-    "title": "Loos exhibition",
-    "url": "https://www.visitingvienna.com/sights/museums/loos-exhibition/",
-    "kind": "news",
-    "paid": false,
-    "why": "Visiting Loos's Vienna",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "UT Austin School of Architecture",
-    "title": "Professor Long's Scholarship Praised in The New York Review of Books",
-    "url": "https://soa.utexas.edu/news/professor-longs-scholarship-praised-new-york-review-books",
-    "kind": "news",
-    "paid": false,
-    "why": "Points to Filler's long essay on Loos",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Wikipedia",
     "title": "Adolf Loos",
     "url": "https://en.wikipedia.org/wiki/Adolf_Loos",
     "kind": "overview",
     "paid": false,
     "why": "Life, Raumplan, works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Adolf Loos",
+    "url": "https://domusweb.it/en/biographies/adolf-loos.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Concise biography from Domus",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "National Gallery of Victoria",
+    "title": "Adolf Loos",
+    "url": "https://www.ngv.vic.gov.au/vienna/architecture/adolf-loos.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum note on Loos in Vienna",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "MAK Vienna",
+    "title": "Loos, Adolf (collection)",
+    "url": "https://sammlung.mak.at/en/artist/loos-adolf_3845",
+    "kind": "museum",
+    "paid": false,
+    "why": "MAK collection page for Loos",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Radio Prague International",
+    "title": "Adolf Loos, the enigmatic Moravian-born architect, at 150",
+    "url": "https://english.radio.cz/node/8702554",
+    "kind": "news",
+    "paid": false,
+    "why": "Anniversary feature on his life",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Brno Architecture Manual",
+    "title": "Adolf Loos",
+    "url": "https://www.bam.brno.cz/en/architect/3779-adolf-loos",
+    "kind": "profile",
+    "paid": false,
+    "why": "Loos and his Czech works",
     "checked": "2026-10-21"
    }
   ]
@@ -3995,15 +3557,6 @@
     "kind": "news",
     "paid": false,
     "why": "Rare construction-era photographs",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Encyclopaedia Universalis",
-    "title": "Affonso Eduardo Reidy (French)",
-    "url": "https://www.universalis.fr/encyclopedie/affonso-eduardo-reidy/",
-    "kind": "overview",
-    "paid": true,
-    "why": "French encyclopaedia entry; little in English",
     "checked": "2026-10-21"
    },
    {
@@ -4102,15 +3655,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arquitectura Viva",
-    "title": "Aldo Rossi at the MAXXI",
-    "url": "https://arquitecturaviva.com/articles/aldo-rossi-at-the-maxxi",
-    "kind": "museum",
-    "paid": false,
-    "why": "2021 retrospective reviewed",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Italian Art Society",
     "title": "Aldo Rossi, died 4 September 1997",
     "url": "https://www.italianartsociety.org/?p=16626",
@@ -4197,39 +3741,12 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Socks",
-    "title": "Human structures and architectural archetypes: Aldo van Eyck's playgrounds",
-    "url": "https://socks-studio.com/2018/02/11/human-structures-and-architectural-archetypes-aldo-van-eycks-playgrounds-1947-1978/",
-    "kind": "essay",
-    "paid": false,
-    "why": "Illustrated essay on the playgrounds",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Merijn Oudenampsen",
     "title": "Aldo van Eyck and the City as Playground",
     "url": "https://merijnoudenampsen.org/2013/03/27/aldo-van-eyck-and-the-city-as-playground/",
     "kind": "essay",
     "paid": false,
     "why": "Playgrounds and the city",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Arquitectura Viva",
-    "title": "El laberinto y la vida",
-    "url": "https://arquitecturaviva.com/articles/el-laberinto-y-la-vida-3",
-    "kind": "essay",
-    "paid": false,
-    "why": "Essay on his structuralism",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Arquitectura Viva",
-    "title": "Aldo van Eyck (article 62033)",
-    "url": "https://arquitecturaviva.com/articles/62033",
-    "kind": "essay",
-    "paid": false,
-    "why": "Arquitectura Viva on van Eyck",
     "checked": "2026-10-21"
    },
    {
@@ -4275,6 +3792,33 @@
     "kind": "overview",
     "paid": false,
     "why": "Life, Team 10, works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wihuri Foundation",
+    "title": "Aldo van Eyck",
+    "url": "https://wihuriprizes.fi/en/international-prize/aldo-van-eyck/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Prize page summarising his career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Conversation",
+    "title": "How mid-century Amsterdam built 700 doorstep playgrounds",
+    "url": "https://theconversation.com/how-mid-century-amsterdam-built-700-doorstep-playgrounds-and-then-forgot-about-them-205674",
+    "kind": "essay",
+    "paid": false,
+    "why": "Playgrounds and their legacy",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Archis",
+    "title": "Amsterdam's Playgrounds by Aldo van Eyck",
+    "url": "https://archis.org/volume/amsterdams-playgrounds-by-aldo-van-eyck/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Journal essay on the playgrounds",
     "checked": "2026-10-21"
    }
   ]
@@ -4362,21 +3906,39 @@
     "paid": false,
     "why": "Tour of Tamanian-era Yerevan",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "RIBA Journal",
+    "title": "Roy Khatchadourian on Yerevan",
+    "url": "https://www.ribaj.com/culture/roy-khatchadourian/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Tamanyan's plan as city emblem",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Apollo",
+    "title": "The magisterial modernism of Yerevan, Armenia's rock-star capital",
+    "url": "https://apollo-magazine.com/?p=1033400",
+    "kind": "essay",
+    "paid": false,
+    "why": "Yerevan's plan and architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Discovering the architecture of Armenia's capital Yerevan",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2025/03/13/yerevan-buildings-soviet-modernism.amp.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Tour of Yerevan's buildings",
+    "checked": "2026-10-21"
    }
   ]
  },
  {
   "key": "architect:Ammar Khammash",
   "links": [
-   {
-    "site": "ArchDaily",
-    "title": "\"The Site is the Architect, the Site is Materiality\": On Ammar Khammash and Notes on Formation",
-    "url": "https://www.archdaily.com/1007806/the-site-is-the-architect-the-site-is-materiality-on-ammar-khammash-and-notes-on-formation",
-    "kind": "interview",
-    "paid": true,
-    "why": "Interview on site, materials, practice",
-    "checked": "2026-10-21"
-   },
    {
     "site": "Wikipedia",
     "title": "Ammar Khammash",
@@ -4518,24 +4080,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "e-architect",
-    "title": "Architecture-Studio Paris Architects Building, French design studio projects news",
-    "url": "https://www.e-architect.com/architects/architecture-studio",
-    "kind": "profile",
-    "paid": false,
-    "why": "Project list for the firm",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Metalocus",
-    "title": "asarchitecture studio",
-    "url": "https://www.metalocus.es/es/autor/asarchitecture-studio",
-    "kind": "guide",
-    "paid": false,
-    "why": "Articles on the practice (Spanish)",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "ArchDaily",
     "title": "Novancia Business School / Architecture-Studio",
     "url": "https://www.archdaily.com/431412/novancia-business-school-as-architecture-studio",
@@ -4578,6 +4122,15 @@
     "kind": "museum",
     "paid": false,
     "why": "Paris museum's press material on the firm",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architecture-Studio",
+    "title": "The studio",
+    "url": "https://architecturestudio.fr/en/studio/",
+    "kind": "profile",
+    "paid": false,
+    "why": "The practice in its own words",
     "checked": "2026-10-21"
    }
   ]
@@ -4640,21 +4193,21 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Archaeology Wiki",
-    "title": "Out of time, within limits. Aris Konstantinidis: The architect of the Ioannina Museum",
-    "url": "https://www.archaeology.wiki/blog/2013/02/20/aris-konstantinidis-the-architect-of-the-ioannina-museum/",
-    "kind": "museum",
-    "paid": false,
-    "why": "Exhibition on his museum designs",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "University of Thessaly",
     "title": "Aris Konstantinidis project page",
     "url": "https://www.arch.uth.gr/en/projectpopup/index/449",
     "kind": "museum",
     "paid": false,
     "why": "University archive entry (already linked)",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Archaeology Wiki",
+    "title": "Out of time, within limits: Konstantinidis",
+    "url": "https://www.archaeology.wiki/blog/2013/02/20/aris-konstantinidis-the-architect-of-the-ioannina-museum/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Exhibition on his Epirus work",
     "checked": "2026-10-21"
    }
   ]
@@ -4846,15 +4399,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Architect profile and works",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "e-architect",
-    "title": "Basil Spence Architect, Scotland architecture",
-    "url": "https://www.e-architect.com/architects/basil-spence",
-    "kind": "profile",
-    "paid": false,
-    "why": "Works list",
     "checked": "2026-10-21"
    },
    {
@@ -5094,15 +4638,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "e-architect",
-    "title": "Bernard Tschumi Retrospective Exhibition",
-    "url": "https://www.e-architect.com/exhibitions/bernard-tschumi-exhibition-centre-pompidou",
-    "kind": "museum",
-    "paid": false,
-    "why": "Pompidou retrospective overview",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Swiss Architecture Museum",
     "title": "Bernard Tschumi. Architecture: Concept and Notation",
     "url": "https://myartguides.com/exhibitions/basel/bernard-tschumi-architecture-concept-and-notation",
@@ -5232,6 +4767,25 @@
     "paid": false,
     "why": "Dutch institute on their Sonneveld work",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Johannes Andreas Brinkman",
+    "url": "https://www.britannica.com/print/article/79695",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopedia entry on the firm",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Metalocus",
+    "title": "New Objectivity: Van Nelle Fabriek",
+    "url": "https://metalocus.es/en/news/new-objectivity-van-nelle-fabriek-brinkman-van-der-vlugt",
+    "kind": "essay",
+    "paid": false,
+    "why": "Firm's Nieuwe Bouwen approach",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -5267,15 +4821,6 @@
    },
    {
     "site": "Barbican Living",
-    "title": "Chamberlin, Powell & Bon",
-    "url": "https://www.barbicanliving.co.uk/barbican-story/the-architects/chamberlin-powell-bon/",
-    "kind": "profile",
-    "paid": false,
-    "why": "The three partners and the firm",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Barbican Living",
     "title": "Brutalists or Modernists?",
     "url": "https://www.barbicanliving.co.uk/were-they-brutalists-or-modernists/",
     "kind": "essay",
@@ -5299,15 +4844,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Biography and key projects",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "e-architect",
-    "title": "Chamberlin Powell & Bon Building",
-    "url": "https://e-architect.com/architects/chamberlin-powell-bon",
-    "kind": "guide",
-    "paid": false,
-    "why": "Project list with images",
     "checked": "2026-10-21"
    },
    {
