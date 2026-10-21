@@ -1,0 +1,583 @@
+{
+ "keep_ok": [
+  "church-of-st-basil-of-ostrog-belgrade",
+  "ishikawa-nanao-art-museum",
+  "dia-beacon",
+  "otsuka-museum-of-art",
+  "550-south-tryon",
+  "new-synagogue-mainz",
+  "ardmore-residence",
+  "paulinum-university-of-leipzig",
+  "grandstand-us-open",
+  "atchugarry-museum-of-contemporary-art",
+  "spiral-house",
+  "beit-avi-chai",
+  "pantanal-aquarium",
+  "santiago-del-estero-forum"
+ ],
+ "keep_fix": [
+  {
+   "id": "church-of-st-basil-of-ostrog-belgrade",
+   "field": "movement",
+   "haiku": "Historic precedent",
+   "should_be": "Regionalism",
+   "why": "The church was completed in 2001; 'Historic precedent' is for old key buildings. It revives an old-Christian rotunda plan, which fits Regionalism."
+  },
+  {
+   "id": "dia-beacon",
+   "field": "by",
+   "haiku": "Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
+   "should_be": "Robert Irwin, Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
+   "why": "Wikidata names Robert Irwin and the lead says the 1929 Nabisco factory was renovated by Dia with Irwin and the OpenOffice architects, so Irwin should not be dropped (the features line already names him)."
+  },
+  {
+   "id": "new-synagogue-mainz",
+   "field": "movement",
+   "haiku": "Modernism",
+   "should_be": "Deconstructivism",
+   "why": "The photos show an angular, folded, dark-clad form; the lead's 'Modernist-styled' is generic. Optional: Modernism is also defensible from the lead."
+  },
+  {
+   "id": "spiral-house",
+   "field": "concepts",
+   "haiku": "Exposed concrete",
+   "should_be": "Stone (replace 'Exposed concrete')",
+   "why": "The lead says the facade is plaster, pink glass and stone fragments, not exposed concrete."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "church-of-st-cyril-of-turau-and-all-the-patron-saints-of-the-belarusian-people",
+   "why": "Same building as an existing wall entry (position 182 is on the duplicate list); must stay skipped."
+  },
+  {
+   "id": "twin-towers-ramat-gan",
+   "why": "Ordinary pair of 14-floor office towers; the lead only says reflective glass in a postmodern style, no record, prize or famous key work, so it fails the office-tower rule."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "ishikawa-nanao-art-museum",
+   "better_file_or_null": null,
+   "why": "Marginal: the only photo shows the low building far away across a lawn behind trees. Whole building in daylight, so keepable, but weak as a wall tile; look for a better one when possible."
+  },
+  {
+   "id": "cite-de-la-mode-et-du-design",
+   "better_file_or_null": null,
+   "why": "Haiku's main (the terrace with rainbow chairs) is not the building, and its replacements are the 2018 Seine flood (flooded quay, the building only distant or the older warehouse). No photo in prep shows the Jakob+MacFarlane building as the clear subject; keep it off the wall until one is found (a good building: Jakob + MacFarlane, opened 2010)."
+  },
+  {
+   "id": "pantanal-aquarium",
+   "better_file_or_null": "File:Bioparque Pantanal 37.jpg",
+   "why": "Haiku's first photo (02) is a cropped entrance with visitors in frame. The Wikidata main (37) shows the whole building, though grey and distant; decide between the two."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "bing-concert-hall",
+   "why": "Haiku marked it unsure only for lack of a city. The lead names Richard Olcott of Ennead and the 842-seat vineyard hall, opened 2013, and the main photo is a clear daylight exterior. City is Stanford (the lead places it at Stanford University; prep gives only Santa Clara County). Other photos are performances, so only the main is listed.",
+   "entry": {
+    "id": "bing-concert-hall",
+    "qid": "Q4914117",
+    "status": "photo",
+    "why": "Haiku marked it unsure only for lack of a city. The lead names Richard Olcott of Ennead and the 842-seat vineyard hall, opened 2013, and the main photo is a clear daylight exterior. City is Stanford (the lead places it at Stanford University; prep gives only Santa Clara County). Other photos are performances, so only the main is listed.",
+    "name": "Bing Concert Hall",
+    "by": "Ennead Architects",
+    "city": "Stanford",
+    "cc": "US",
+    "year": 2013,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+     "Geometry",
+     "Section",
+     "Public space"
+    ],
+    "features": "A Stanford concert hall with 842 seats in vineyard-style terraces around the stage, by Richard Olcott of Ennead Architects.",
+    "commons_category": "Category:Bing Concert Hall",
+    "coords": [
+     37.4319,
+     -122.166
+    ],
+    "photos": [
+     {
+      "file": "File:Bing concert hall at Stanford University.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "canadian-clay-and-glass-gallery",
+   "why": "Patkau (a well-known Canadian practice) and the lead gives a design reason: a Governor General's Medal of Excellence in 1997. Built 1993 and standing. Haiku skipped it only because the architect is not on the wall. Main photo has the flag pole in front, so the entrance-corner photo goes first.",
+   "entry": {
+    "id": "canadian-clay-and-glass-gallery",
+    "qid": "Q5029867",
+    "status": "photo",
+    "why": "Patkau (a well-known Canadian practice) and the lead gives a design reason: a Governor General's Medal of Excellence in 1997. Built 1993 and standing. Haiku skipped it only because the architect is not on the wall. Main photo has the flag pole in front, so the entrance-corner photo goes first.",
+    "name": "Canadian Clay and Glass Gallery",
+    "by": "Patricia Patkau",
+    "city": "Waterloo",
+    "cc": "CA",
+    "year": 1993,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Brick",
+     "Steel & glass",
+     "Public space"
+    ],
+    "features": "Patkau Architects' gallery for Canadian ceramics and glass, opened in 1993 and awarded a 1997 Governor General's Medal of Excellence.",
+    "commons_category": "Category:Canadian Clay and Glass Gallery",
+    "coords": [
+     43.465,
+     -80.5263
+    ],
+    "photos": [
+     {
+      "file": "File:Waterloo IMG 2913 (23095556386).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Canadian Clay and Glass Gallery - Waterloo, ON.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "san-riccardo-pampuri-church",
+   "why": "WEAK, owner may drop: Guido Canella is a notable Italian architect and the main photo is a clear daylight facade with a striking timber truss gable, but the Italian lead only says it is the parish church of Zeloforamagno, so the features line is plain. Year 1990 is prep's (no year in the lead).",
+   "entry": {
+    "id": "san-riccardo-pampuri-church",
+    "qid": "Q55358441",
+    "status": "photo",
+    "why": "WEAK, owner may drop: Guido Canella is a notable Italian architect and the main photo is a clear daylight facade with a striking timber truss gable, but the Italian lead only says it is the parish church of Zeloforamagno, so the features line is plain. Year 1990 is prep's (no year in the lead).",
+    "name": "San Riccardo Pampuri church",
+    "by": "Guido Canella",
+    "city": "Peschiera Borromeo",
+    "cc": "IT",
+    "year": 1990,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+     "Timber",
+     "Brick",
+     "Community"
+    ],
+    "features": "A parish church in Zeloforamagno, part of Peschiera Borromeo, in the Archdiocese of Milan.",
+    "commons_category": "Category:San Riccardo Pampuri (Zeloforamagno, Peschiera Borromeo)",
+    "coords": [
+     45.42754,
+     9.30348
+    ],
+    "photos": [
+     {
+      "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 003.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 002.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 004.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "st-katharina-von-siena",
+   "why": "Heinz Bienefeld is a notable brick architect; the German lead says the church was built 2001-2003 from his plans by his son Nikolaus and is Cologne's youngest Catholic church. Haiku skipped it as a parish church with no design reason; a posthumous work from a known architect's plans is worth a place. Year 2003 (consecration), not prep's 2001 (construction start). The main photo is a narrow portrait of the tower with the church beside it; the other photos are brick details and a street.",
+   "entry": {
+    "id": "st-katharina-von-siena",
+    "qid": "Q62588192",
+    "status": "photo",
+    "why": "Heinz Bienefeld is a notable brick architect; the German lead says the church was built 2001-2003 from his plans by his son Nikolaus and is Cologne's youngest Catholic church. Haiku skipped it as a parish church with no design reason; a posthumous work from a known architect's plans is worth a place. Year 2003 (consecration), not prep's 2001 (construction start). The main photo is a narrow portrait of the tower with the church beside it; the other photos are brick details and a street.",
+    "name": "St. Katharina von Siena",
+    "by": "Heinz Bienefeld",
+    "city": "Cologne",
+    "cc": "DE",
+    "year": 2003,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+     "Brick",
+     "Community",
+     "Monumentality"
+    ],
+    "features": "Cologne's newest Catholic church, built 2001-2003 by Nikolaus Bienefeld from his father Heinz Bienefeld's plans.",
+    "commons_category": "Category:St. Katharina von Siena (Köln)",
+    "coords": [
+     51.03731,
+     6.88565
+    ],
+    "photos": [
+     {
+      "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0216.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0226.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0227.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "mosque-of-rijeka",
+   "why": "BORDERLINE, owner may drop: a distinctive sculptural shell-domed mosque with a clear daylight exterior as the main photo, built 2009-2013 and standing. The lead gives only the build dates, so the features line is plain. Dusan Dzamonja is a sculptor-architect, so the architect is accepted from Wikidata.",
+   "entry": {
+    "id": "mosque-of-rijeka",
+    "qid": "Q26256577",
+    "status": "photo",
+    "why": "BORDERLINE, owner may drop: a distinctive sculptural shell-domed mosque with a clear daylight exterior as the main photo, built 2009-2013 and standing. The lead gives only the build dates, so the features line is plain. Dusan Dzamonja is a sculptor-architect, so the architect is accepted from Wikidata.",
+    "name": "Mosque of Rijeka",
+    "by": "Dušan Džamonja",
+    "city": "Rijeka",
+    "cc": "HR",
+    "year": 2013,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+     "Sculptural form",
+     "Vault",
+     "Geometry"
+    ],
+    "features": "A mosque in Rijeka, Croatia, built between 2009 and 2013.",
+    "commons_category": "Category:Mosque of Rijeka",
+    "coords": [
+     45.34588,
+     14.39743
+    ],
+    "photos": [
+     {
+      "file": "File:Rijeka Mosque 3.JPG",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Rijeka Mosque 1.JPG",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "bibliotheque-universitaire-des-langues-et-civilisations",
+   "why": "Yves Lion (named in the instructions as one to rescue). Library in Paris Rive Gauche, open 2011, clear daylight exterior as the main photo. Other photos are a book page, shelves and talks, so only two exterior views are listed.",
+   "entry": {
+    "id": "bibliotheque-universitaire-des-langues-et-civilisations",
+    "qid": "Q2901548",
+    "status": "photo",
+    "why": "Yves Lion (named in the instructions as one to rescue). Library in Paris Rive Gauche, open 2011, clear daylight exterior as the main photo. Other photos are a book page, shelves and talks, so only two exterior views are listed.",
+    "name": "Bibliothèque universitaire des langues et civilisations",
+    "by": "Yves Lion",
+    "city": "Paris",
+    "cc": "FR",
+    "year": 2011,
+    "type": "Library",
+    "movement": "Contemporary",
+    "concepts": [
+     "Brick",
+     "Courtyard",
+     "Community"
+    ],
+    "features": "Paris Rive Gauche academic library, open since 2011, for all languages and civilisations beyond the Western world.",
+    "commons_category": "Category:Bibliothèque universitaire des langues et civilisations",
+    "coords": [
+     48.82917,
+     2.37972
+    ],
+    "photos": [
+     {
+      "file": "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410443482).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410469472).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "armenian-cathedral-of-moscow",
+   "why": "The lead gives a record (largest Armenian church and church complex outside Armenia), consecrated 2013. Main photo is a clear daylight view of the cathedral and chapel. Haiku skipped it for no design reason; a record counts under the rules. Movement Regionalism because it revives Armenian church forms.",
+   "entry": {
+    "id": "armenian-cathedral-of-moscow",
+    "qid": "Q4069756",
+    "status": "photo",
+    "why": "The lead gives a record (largest Armenian church and church complex outside Armenia), consecrated 2013. Main photo is a clear daylight view of the cathedral and chapel. Haiku skipped it for no design reason; a record counts under the rules. Movement Regionalism because it revives Armenian church forms.",
+    "name": "Armenian Cathedral of Moscow",
+    "by": "Artak Ghulyan",
+    "city": "Moscow",
+    "cc": "RU",
+    "year": 2013,
+    "type": "Religious",
+    "movement": "Regionalism",
+    "concepts": [
+     "Stone",
+     "Monumentality",
+     "Community"
+    ],
+    "features": "Consecrated in 2013, the Moscow Armenian cathedral is the largest Armenian church and church complex outside Armenia.",
+    "commons_category": "Category:The Holy Transfiguration Cathedral of the Armenian monastery complex of Moscow",
+    "coords": [
+     55.78806,
+     37.62119
+    ],
+    "photos": [
+     {
+      "file": "File:Moscow ArmemianMonastery CathedralAndChapel 4106.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Кафедральный собор Преображения Господня (АХК) в 2024 году.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Армянский храмовый комплекс в Москве, Россия 1.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "fuglsang-art-museum",
+   "why": "Strong keep (Tony Fretton, 2009 RIBA European Award, Stirling shortlist, landscape integration, all from the lead); main photo is a clear daylight exterior. Haiku held it only for the city: prep gives Guldborgsund Municipality only, so city 'Toreby' (Fuglsang, Lolland) is from general knowledge and should be confirmed, or use 'Guldborgsund'. Year 2008 is prep's (the lead gives none).",
+   "entry": {
+    "id": "fuglsang-art-museum",
+    "qid": "Q5507293",
+    "status": "photo",
+    "why": "Strong keep (Tony Fretton, 2009 RIBA European Award, Stirling shortlist, landscape integration, all from the lead); main photo is a clear daylight exterior. Haiku held it only for the city: prep gives Guldborgsund Municipality only, so city 'Toreby' (Fuglsang, Lolland) is from general knowledge and should be confirmed, or use 'Guldborgsund'. Year 2008 is prep's (the lead gives none).",
+    "name": "Fuglsang Art Museum",
+    "by": "Tony Fretton",
+    "city": "Toreby",
+    "cc": "DK",
+    "year": 2008,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Landscape",
+     "Geometry",
+     "Light & shadow"
+    ],
+    "features": "Tony Fretton's purpose-built museum on Lolland, integrated with its landscape; it won a 2009 RIBA European Award.",
+    "commons_category": "Category:Fuglsang Kunstmuseum",
+    "coords": [
+     54.72387,
+     11.79965
+    ],
+    "photos": [
+     {
+      "file": "File:Fuglsang-Kunstmuseum.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Fuglsang Kunstmuseum, 2023.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Fuglsang Kunstmuseum 2014 EV1.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "biblioteca-raul-rangel-frias",
+   "why": "Legorreta, six buildings on the wall; the Spanish lead says it was designed by him joining tradition and modernity and was inaugurated in 1995 (so year 1995, not prep's 1994). WEAK PHOTO: the only photo shows the library behind a fence with a sculpture in front; usable but not ideal, owner may hold it back. City 'Monterrey' is from general knowledge (prep gives only the state Nuevo Leon; the coordinates sit in the UANL university campus) and should be confirmed.",
+   "entry": {
+    "id": "biblioteca-raul-rangel-frias",
+    "qid": "Q108938574",
+    "status": "photo",
+    "why": "Legorreta, six buildings on the wall; the Spanish lead says it was designed by him joining tradition and modernity and was inaugurated in 1995 (so year 1995, not prep's 1994). WEAK PHOTO: the only photo shows the library behind a fence with a sculpture in front; usable but not ideal, owner may hold it back. City 'Monterrey' is from general knowledge (prep gives only the state Nuevo Leon; the coordinates sit in the UANL university campus) and should be confirmed.",
+    "name": "Biblioteca Raúl Rangel Frías",
+    "by": "Ricardo Legorreta",
+    "city": "Monterrey",
+    "cc": "MX",
+    "year": 1995,
+    "type": "Library",
+    "movement": "Regionalism",
+    "concepts": [
+     "Monumentality",
+     "Colour",
+     "Geometry"
+    ],
+    "features": "Ricardo Legorreta's university library for the UANL, opened in 1995, joining tradition and modernity in his style.",
+    "commons_category": "Category:Biblioteca Raúl Rangel Frías",
+    "coords": [
+     25.71608,
+     -100.31189
+    ],
+    "photos": [
+     {
+      "file": "File:Fachada BURRF.jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "diehtosiida",
+   "why": "Reiulf Ramstad (named in the instructions) and a built Sami campus opened 2009. Haiku skipped it because the lead says what it houses. The first photo is the front with the cantilevered upper volume and the name sign, in daylight; the Wikidata photo list has no 'main', so photo 0 is the exterior. Interior and lecture-hall photos are left out.",
+   "entry": {
+    "id": "diehtosiida",
+    "qid": "Q3223562",
+    "status": "photo",
+    "why": "Reiulf Ramstad (named in the instructions) and a built Sami campus opened 2009. Haiku skipped it because the lead says what it houses. The first photo is the front with the cantilevered upper volume and the name sign, in daylight; the Wikidata photo list has no 'main', so photo 0 is the exterior. Interior and lecture-hall photos are left out.",
+    "name": "Diehtosiida",
+    "by": "Reiulf Ramstad Arkitekter",
+    "city": "Kautokeino",
+    "cc": "NO",
+    "year": 2009,
+    "type": "Education",
+    "movement": "Contemporary",
+    "concepts": [
+     "Timber",
+     "Cantilever",
+     "Community"
+    ],
+    "features": "A Sámi academic campus in Kautokeino housing the Sámi University College, Sámi Archives and other institutions; opened 2009.",
+    "commons_category": "Category:Diehtosiida",
+    "coords": [
+     69.01444,
+     23.03717
+    ],
+    "photos": [
+     {
+      "file": "File:Diehtosiida-exterior.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Den samiske høgskolen.jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Den samiske høgskolen (14373593336).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "museum-for-architectural-drawing",
+   "why": "Named in the instructions (Tchoban). A built, standing Berlin museum (2013) for architectural drawings with a striking concrete-relief facade; rated Q main photo is a clear daylight exterior. The lead gives only what it shows and the 2013 opening, so the features line is plain. Architect names tidied to Sergei Tchoban, Sergey Kuznetsov (Wikidata also lists SPEECH architectural office).",
+   "entry": {
+    "id": "museum-for-architectural-drawing",
+    "qid": "Q17353861",
+    "status": "photo",
+    "why": "Named in the instructions (Tchoban). A built, standing Berlin museum (2013) for architectural drawings with a striking concrete-relief facade; rated Q main photo is a clear daylight exterior. The lead gives only what it shows and the 2013 opening, so the features line is plain. Architect names tidied to Sergei Tchoban, Sergey Kuznetsov (Wikidata also lists SPEECH architectural office).",
+    "name": "Museum for Architectural Drawing",
+    "by": "Sergei Tchoban, Sergey Kuznetsov",
+    "city": "Berlin",
+    "cc": "DE",
+    "year": 2013,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Exposed concrete",
+     "Facade as skin",
+     "Sculptural form"
+    ],
+    "features": "A private Berlin museum for architectural drawings, run by the Tchoban Foundation and opened in June 2013.",
+    "commons_category": "Category:Museum für Architekturzeichnung",
+    "coords": [
+     52.53207,
+     13.41003
+    ],
+    "photos": [
+     {
+      "file": "File:Museum für Architekturzeichnung, Berlin, 150516, ako.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "seen": true
+     },
+     {
+      "file": "File:140503 Museum für Architekturzeichnung.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "seen": true
+     },
+     {
+      "file": "File:140301 Museum fuer Architekturzeichnung.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "museu-de-arte-do-rio",
+   "why": "Haiku held it as 'no main photo', but the Wikidata main (Praca Maua) shows the whole museum, the historic palace and the new building under the floating canopy, in daylight. Jacobsen Arquitetura named in the lead, opened 1 March 2013. Features use only the lead.",
+   "entry": {
+    "id": "museu-de-arte-do-rio",
+    "qid": "Q10333798",
+    "status": "photo",
+    "why": "Haiku held it as 'no main photo', but the Wikidata main (Praca Maua) shows the whole museum, the historic palace and the new building under the floating canopy, in daylight. Jacobsen Arquitetura named in the lead, opened 1 March 2013. Features use only the lead.",
+    "name": "Rio Art Museum",
+    "by": "Jacobsen Arquitetura",
+    "city": "Rio de Janeiro",
+    "cc": "BR",
+    "year": 2013,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Adaptive reuse",
+     "Public space",
+     "Circulation"
+    ],
+    "features": "Rio's art museum, opened in 2013, planned by Jacobsen Arquitetura around a flow system for the whole site.",
+    "commons_category": "Category:Museu de Arte do Rio",
+    "coords": [
+     -22.89657,
+     -43.18199
+    ],
+    "photos": [
+     {
+      "file": "File:Praça Mauá 11 2015 Rio 708.JPG",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:MauaSquare2.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Museu de Arte do Rio - MAR (8729729032).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 150-299 (150 candidates). Haiku: 17 photo, 7 unsure, 126 skip. Photo entries: 14 keep_ok (4 with a small fix: St Basil movement, Dia Beacon by, Mainz movement, Spiral House concept), 2 keep_wrong (182 duplicate; Twin Towers ordinary office towers), 1 held for want of a building photo (Cite de la mode, flood photos only). 3 main-photo flags (Nanao weak, Cite de la mode, Pantanal). Unsure: 3 rescued (Bing, Fuglsang, Raul Rangel Frias), 1 rescued with a new photo (Rio Art Museum), 3 stay skipped (Pearling Site no exterior photo, Disney Yacht Club themed hotel, HydraPier no photos). Other skips rescued: 8 (Canadian Clay and Glass Gallery, San Riccardo Pampuri church [weak], St Katharina von Siena, Mosque of Rijeka [borderline], BULAC, Armenian Cathedral of Moscow, Diehtosiida, Museum for Architectural Drawing). Total rescued 12; 2 flagged weak/borderline (153, 162) and 1 weak photo (180). Skips left as skipped: all empty leads, duplicates 182/194/228, towers, arenas, ordinary churches and mosques, museums with no design reason; borderline left skipped: Dragao do Mar (aerial main photo only), Eilat Sports Center, Disney Yacht Club, miroir d'eau (not a building)."
+}
