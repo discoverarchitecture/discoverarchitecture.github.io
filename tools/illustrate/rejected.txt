@@ -215,3 +215,4 @@ centenary-pool-complex-brisbane  # Round 9 review: only photo is at dusk with a 
 perth-stadium-optus  # Round 9 review: ordinary stadium with no clear daylight exterior (signage, crowds, dusk)
 koelnturm  # Round 9 review: no free photo could be fetched
 kraus-house  # Haiku pool 2 photo review: every photo shows the house behind trees and a wall
+biblioteca-raul-rangel-frias  # Haiku pool 5 photo review: no photo shows the building (only a fence and a sculpture)

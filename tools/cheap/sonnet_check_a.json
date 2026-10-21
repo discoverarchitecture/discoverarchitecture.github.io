@@ -1,1005 +1,676 @@
 {
  "keep_ok": [
-  "pasadena-city-hall",
-  "cecil-h-green-library",
-  "heliotrope-building",
-  "kotelnicheskaya-embankment-building",
-  "kudrinskaya-square-building",
-  "scharinska-villan",
-  "war-memorial-opera-house",
-  "ainola",
-  "museum-of-human-evolution",
-  "museum-of-art-architecture-and-technology",
-  "karaite-kenesa-kyiv",
-  "aschanska-villa",
-  "didrichsen-art-museum",
-  "air-force-command-building-belgrade",
-  "glenstone",
-  "jinpukaku",
-  "banovina-palace-novi-sad",
-  "aichi-prefectural-ceramic-museum",
-  "seville-public-library",
-  "altes-stadthaus-berlin",
-  "forum-groningen",
-  "pagode-de-vincennes",
-  "d-coque",
-  "planetario-di-milano",
-  "saskatchewan-legislative-building",
-  "prinkipo-greek-orthodox-orphanage",
-  "neuer-marstall",
-  "nuevos-ministerios",
-  "35-east-wacker",
-  "building-of-the-yugoslavian-legation-in-berlin",
-  "headquarters-of-the-bank-of-the-argentine-nation",
-  "rosecliff",
-  "fox-theatre-detroit",
-  "hansahochhaus",
-  "oakland-city-hall"
+  "monona-terrace",
+  "torre-de-cristal",
+  "minnaert-building",
+  "casa-rozes",
+  "valladolid-science-museum",
+  "fresno-city-hall",
+  "100-eleventh-avenue",
+  "zenith-de-lille",
+  "golden-angel",
+  "he-art-museum",
+  "le-consortium",
+  "frist-campus-center",
+  "el-palauet",
+  "the-museum-for-wood-culture",
+  "paraninfo-de-la-universidad-del-pais-vasco",
+  "himeji-city-museum-of-literature",
+  "kfw-westarkade",
+  "muritzeum",
+  "fukuoka-camera-museum",
+  "centro-cultural-de-viana-do-castelo",
+  "centre-ceramique",
+  "ken-iwata-mother-and-child-museum",
+  "residenze-hadid",
+  "campus-palmas-altas-sevilla",
+  "hagi-uragami-museum",
+  "ciudad-bbva",
+  "tateyama-museum-of-toyama",
+  "nakaya-ukichiro-museum-of-snow-and-ice",
+  "lafayette-anticipations-galeries-lafayette-corporate-foundation",
+  "maison-de-l-ordre-des-avocats",
+  "toyama-international-conference-center",
+  "campus-einaudi",
+  "nagano-city-arts-center",
+  "beetham-tower-manchester",
+  "finnish-forest-museum-lusto",
+  "caja-magica",
+  "onikuru",
+  "de-citadel",
+  "chihiro-art-museum-azumino",
+  "pabellon-de-la-navegacion",
+  "yaoko-kawagoe-museum",
+  "the-frances-young-tang-teaching-museum-and-art-gallery",
+  "musik-und-kongresshalle-lubeck",
+  "taisha-urara-kan-cultural-hall",
+  "kaustinen-folk-arts-centre"
  ],
  "keep_fix": [
   {
-   "id": "glenstone",
-   "field": "year",
-   "haiku": 2006,
-   "should_be": 2018,
-   "why": "2006 is only the museum's founding (lead). The first photo shows Thomas Phifer's pavilions, which the lead says were finished in the late 2010s; 2018 is from my memory, not prep, so check it or use null."
-  },
-  {
-   "id": "banovina-palace-novi-sad",
-   "field": "movement",
-   "haiku": "Art Deco",
-   "should_be": "Modernism",
-   "why": "The lead says 'modernist style (with art deco and stripped classicism elements)', so Modernism is the main style."
-  },
-  {
-   "id": "prinkipo-greek-orthodox-orphanage",
-   "field": "movement",
-   "haiku": "Regionalism",
-   "should_be": "Historic precedent",
-   "why": "The lead says nothing about regional design; it is a historic wooden building (largest in Europe), so Historic precedent is the supported choice."
-  },
-  {
-   "id": "jinpukaku",
-   "field": "type",
-   "haiku": "Palace",
-   "should_be": "House",
-   "why": "The lead calls it a residence of the Ikeda clan, a French Renaissance-style house; Palace overstates it."
-  },
-  {
-   "id": "air-force-command-building-belgrade",
+   "id": "kitakyushu-international-conference-center",
    "field": "features",
-   "haiku": "A monumental 1935 Belgrade-area headquarters by Dragiša Brašovan, a Serbian modernist.",
-   "should_be": "A monumental headquarters in Zemun, Belgrade, by Dragiša Brašovan, which later housed the Air Force Museum.",
-   "why": "'Serbian modernist' and '1935' are not in the lead, and 'Belgrade-area' is vague; the lead says it is a monumental edifice in Zemun and the Air Force Museum was founded there in 1957."
+   "haiku": "Arata Isozaki's convention centre in Kitakyushu, Fukuoka, opened in 1990.",
+   "should_be": "Arata Isozaki's convention centre in Kitakyushu, Fukuoka Prefecture.",
+   "why": "The lead does not say it opened in 1990 (that year comes from Wikidata, not the lead)."
+  },
+  {
+   "id": "shizuoka-city-museum-of-history",
+   "field": "features",
+   "haiku": "SANAA's public history museum in Shizuoka city, opened in 2023.",
+   "should_be": "SANAA's public history museum in Shizuoka city.",
+   "why": "The lead does not give an opening year. Also check the SANAA credit by eye if a source turns up; the photos look more like a plain grey stone building."
+  },
+  {
+   "id": "przedszkole-bundestagu",
+   "field": "name",
+   "haiku": "Przedszkole Bundestagu",
+   "should_be": "Kita des Deutschen Bundestages",
+   "why": "The lead is Polish, but the building is in Berlin and is called by its German name; the Polish article title is an odd name to show. (id would become kita-des-deutschen-bundestages)"
+  },
+  {
+   "id": "historisches-museum-saar",
+   "field": "year",
+   "haiku": 1999,
+   "should_be": null,
+   "why": "The lead gives no year and Wikidata's 1999 is doubtful for Gottfried Boehm's museum; leave null rather than guess."
+  },
+  {
+   "id": "1101-new-york-avenue",
+   "field": "city",
+   "haiku": "Washington",
+   "should_be": "Washington, D.C.",
+   "why": "The wall writes it this way (Washington, D.C., US)."
+  },
+  {
+   "id": "skylight",
+   "field": "city",
+   "haiku": "Frankfurt am Main",
+   "should_be": "Frankfurt",
+   "why": "The wall writes Frankfurt, DE."
+  },
+  {
+   "id": "burghof-lorrach",
+   "field": "movement",
+   "haiku": "Deconstructivism",
+   "should_be": "Contemporary",
+   "why": "The lead says only that the architecture suits the old town; nothing supports Deconstructivism."
+  },
+  {
+   "id": "prins-hendrikkade-600",
+   "field": "by",
+   "haiku": "Renzo Piano",
+   "should_be": "René van Zuuk",
+   "why": "Wikidata names van Zuuk. The lead says Piano's 1996 pavilion was reused and the new building built around it for ARCAM, so Piano is not the designer of this building."
+  },
+  {
+   "id": "prins-hendrikkade-600",
+   "field": "year",
+   "haiku": 1996,
+   "should_be": null,
+   "why": "1996 is Piano's earlier pavilion; the lead (cut off) gives no completion year for the ARCAM building and 1999 looks like a design year."
+  },
+  {
+   "id": "prins-hendrikkade-600",
+   "field": "features",
+   "haiku": "Renzo Piano's 1996 pavilion on Amsterdam's Oosterdok, later reused as the ARCAM architecture centre.",
+   "should_be": "New ARCAM architecture centre built around Piano's 1996 Oosterdok pavilion, with a lower waterside facade and a higher street facade.",
+   "why": "Credits the right building and uses the lead's brief."
+  },
+  {
+   "id": "prins-hendrikkade-600",
+   "field": "movement",
+   "haiku": "High-tech",
+   "should_be": "Contemporary",
+   "why": "Piano's pavilion is the reused part; the building shown is van Zuuk's."
   }
  ],
  "keep_wrong": [
   {
-   "id": "general-staff-building-moscow",
-   "why": "Ordinary government office slab (Office & tower). The lead gives only the function and Posokhin's name, no reason it matters; first photo p3 is a cropped corner."
+   "id": "selene-building",
+   "why": "Residential tower; the lead gives no design reason beyond the architect's name, and it is not a key work."
   },
   {
-   "id": "gani-mammadov-residence",
-   "why": "Lead only says 'monument of local importance'; an ordinary Baku house by a little-known architect. Haiku itself called it a marginal keep."
+   "id": "cheung-kong-center",
+   "why": "Ordinary office tower; the lead gives only height and rank (fourth tallest when completed), no design reason."
   },
   {
-   "id": "phoenix-theatre-london",
-   "why": "West End theatre; the lead gives only the site history, no architectural reason. Both chosen photos are street fronts dominated by signs, posters and canopies (sign as subject)."
+   "id": "30-hudson-street",
+   "why": "Ordinary office tower; the lead gives height, state ranking and tenant facilities, no design reason."
+  },
+  {
+   "id": "50-west-street",
+   "why": "Residential condominium tower; the lead gives only height and unit count."
+  },
+  {
+   "id": "fubon-life-tower",
+   "why": "Office tower; the lead gives height and rank only, not a key work of the architect."
+  },
+  {
+   "id": "iberdrola-tower",
+   "why": "Office tower; its only claim is tallest in the Basque Country, a local record, not a design reason."
+  },
+  {
+   "id": "jongno-tower",
+   "why": "Ordinary office tower; hollow floors and a view are minor, not a design reason, and the lead names no key work."
+  },
+  {
+   "id": "30-hudson-yards",
+   "why": "Commercial supertall; the observation deck is the only feature, so it fails the strict office-tower rule; the first photo is also a distant sliver of the tower."
+  },
+  {
+   "id": "shin-marunouchi-building",
+   "why": "Ordinary office tower; the lead gives only height and completion date, no design reason."
+  },
+  {
+   "id": "torre-puig",
+   "why": "Office tower; the lead gives only an address, so features have no design content and it is not a key work."
+  },
+  {
+   "id": "apple-piazza-liberty",
+   "why": "Apple shop; the lead says only 'an underground building' and the photos are crowds in front of the glass cube."
+  },
+  {
+   "id": "kamakura-museum-of-history-and-culture",
+   "why": "Architect credit doubtful: Wikidata names Foster and Partners but the photos show a small Japanese concrete museum against a hillside, the lead names no architect and gives no reason it matters. Needs a source before it goes up."
+  },
+  {
+   "id": "pierre-boulez-saal",
+   "why": "Gehry designed only the Boulez hall inside a reused scenery depot; the lead is about the academy and names no architect, and the first photo is the old depot facade, not Gehry's work."
+  },
+  {
+   "id": "parkview",
+   "why": "Office tower; the lead credits the Meier studio only with the masterplan and gives no design reason for this building."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "heliotrope-building",
-   "better_file_or_null": "File:Heliotrop Freiburg.jpg",
-   "why": "Haiku put p4 first, where the house is small and half hidden in trees. Wikidata's main photo shows the whole glass tower against the sky."
+   "id": "the-museum-for-wood-culture",
+   "better_file_or_null": "File:201121 The Museum for wood culture Kami Hyogo pref Japan01s3.jpg",
+   "why": "Haiku's first photo is a view from inside the timber courtyard; this one shows the timber-clad volume and walkway from outside."
   },
   {
-   "id": "seville-public-library",
-   "better_file_or_null": "File:Biblioteca publica sevilla 001.jpg",
-   "why": "Haiku's first photo (p3) is a street view with a car and trees hiding the building; p2 shows the long brick facade clearly. Prep's main is a close-up of the 'biblioteca pública' sign."
-  },
-  {
-   "id": "pagode-de-vincennes",
-   "better_file_or_null": "File:Pagode de Vincennes, January 2013.jpg",
-   "why": "Haiku's first photo (p2) is a roof peeping over a fence; p4 shows the whole pagoda (in snow). Wikidata's main photo is a festival day (flagged junk), so not it."
-  },
-  {
-   "id": "museum-of-art-architecture-and-technology",
+   "id": "muritzeum",
    "better_file_or_null": null,
-   "why": "The only exterior is a close crop of the white roof edge and promenade, not the whole building; no better exterior in prep. Acceptable only if the owner is fine with an iconic crop."
+   "why": "First photo is a roof deck with railings; the entrance photo has a crowd and the sign dominating. No clean whole-building view in prep."
+  },
+  {
+   "id": "beetham-tower-manchester",
+   "better_file_or_null": "File:Beetham Tower Manchester (5871822967).jpg",
+   "why": "First photo looks up a facade; this one shows the whole tower in its street."
+  },
+  {
+   "id": "onikuru",
+   "better_file_or_null": null,
+   "why": "Single photo (opening day) shows the building tiny at the far end of an empty plaza."
+  },
+  {
+   "id": "de-citadel",
+   "better_file_or_null": null,
+   "why": "Single photo looks down on a green roof and low houses; the block itself is not shown."
+  },
+  {
+   "id": "burghof-lorrach",
+   "better_file_or_null": "File:Burghof Lörrach... - panoramio.jpg",
+   "why": "First photo is a close view of one black pavilion; this daylight view shows pavilions and the building behind (wide 1600x632)."
+  },
+  {
+   "id": "musik-und-kongresshalle-lubeck",
+   "better_file_or_null": "File:MuK. - panoramio.jpg",
+   "why": "The first photo is a wide aerial of the old town with the hall small in it; this one shows the hall clearly in sunshine."
+  },
+  {
+   "id": "casa-rozes",
+   "better_file_or_null": null,
+   "why": "Borderline: the only photo shows the house small among vegetation. Keep the building, but the tile is weak until a closer photo is found."
+  },
+  {
+   "id": "lafayette-anticipations-galeries-lafayette-corporate-foundation",
+   "better_file_or_null": null,
+   "why": "Borderline: the only photo is the old Paris street facade; Koolhaas's work is inside the courtyard and is not shown."
   }
  ],
  "rescued": [
   {
-   "id": "allen-memorial-art-museum",
-   "why": "Wikidata also lists Venturi and Scott Brown, but they did the later addition (born 1925/1931), so only Cass Gilbert (well known, on the wall) is kept. Lead short, year is prep's. Whole building in daylight.",
+   "id": "klosterneuburg-protestant-church",
+   "why": "Distinctive round church by Heinz Tesar; the first photo is an interior but the exterior view (second) is clear and bright. Lead is thin but supports a plain features line.",
    "entry": {
-    "id": "allen-memorial-art-museum",
-    "qid": "Q3816734",
+    "id": "klosterneuburg-protestant-church",
+    "qid": "Q38085901",
     "status": "photo",
-    "name": "Allen Memorial Art Museum",
-    "by": "Cass Gilbert",
-    "city": "Oberlin",
-    "cc": "US",
-    "year": 1917,
-    "type": "Museum",
-    "movement": "Historic precedent",
+    "why": "Tesar's round Protestant church, clear exterior photo.",
+    "name": "Klosterneuburg Protestant Church",
+    "by": "Heinz Tesar",
+    "city": "Klosterneuburg",
+    "cc": "AT",
+    "year": 1995,
+    "type": "Religious",
+    "movement": "Contemporary",
     "concepts": [
-     "Courtyard",
-     "Monumentality",
-     "Detail"
+     "Light from above",
+     "Sculptural form",
+     "Geometry"
     ],
-    "features": "An Oberlin College art museum founded in 1917, holding over 15,000 works.",
-    "commons_category": "Category:Allen Memorial Art Museum",
+    "features": "Evangelical parish church on Franz-Rumpler-Strasse in Klosterneuburg, Lower Austria.",
+    "commons_category": "Category:Klosterneuburg Protestant Church",
     "coords": [
-     41.2937,
-     -82.2168
+     48.30179,
+     16.32402
     ],
     "photos": [
      {
-      "file": "File:Oberlin College - Allen Memorial Art Museum.jpg",
-      "license": "Public domain",
+      "file": "File:Klosterneuburg evangelische Kirche Außenansicht.jpg",
+      "license": "CC BY-SA 3.0 at",
       "seen": true
      },
      {
-      "file": "File:Ohio - Oberlin College - 20170715131652.jpg",
+      "file": "File:Evangelische Pfarrkirche Klosterneuburg 01.JPG",
+      "license": "CC BY-SA 3.0 at",
+      "seen": true
+     },
+     {
+      "file": "File:Klosterneuburg evangelische Kirche Innenansicht.jpg",
+      "license": "CC BY-SA 3.0 at",
+      "seen": true
+     },
+     {
+      "file": "File:Evangelische Pfarrkirche Klosterneuburg 03.JPG",
+      "license": "CC BY-SA 3.0 at",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "house-of-history-baden-wurttemberg",
+   "why": "Stirling-Wilford museum on Stuttgart's Cultural Mile; Haiku held it only for the year. The lead (cut off) does not give an opening year, so year is null. Front view photo is usable.",
+   "entry": {
+    "id": "house-of-history-baden-wurttemberg",
+    "qid": "Q263491",
+    "status": "photo",
+    "why": "Wilford's history museum in Stuttgart; front view photo.",
+    "name": "House of History Baden-Württemberg",
+    "by": "Michael Wilford, Manuel Schupp",
+    "city": "Stuttgart",
+    "cc": "DE",
+    "year": null,
+    "type": "Museum",
+    "movement": "Postmodernism",
+    "concepts": [
+     "Public space",
+     "Stone",
+     "Facade as skin"
+    ],
+    "features": "State history museum on Stuttgart's Cultural Mile between the Staatsgalerie and the Musikhochschule, a Stirling-Wilford project.",
+    "commons_category": "Category:Haus der Geschichte Baden-Württemberg",
+    "coords": [
+     48.7789,
+     9.18583
+    ],
+    "photos": [
+     {
+      "file": "File:Haus der Geschichte BW - Frontansicht.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:HausderGeschichteBaden-Württemberg.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Stuttgart Haus der Geschichte-pjt1.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "memorial-luiz-carlos-prestes",
+   "why": "Niemeyer built work; the lead describes the curved walls. Main photo shows the black and red curved volumes clearly although towers stand behind.",
+   "entry": {
+    "id": "memorial-luiz-carlos-prestes",
+    "qid": "Q48878372",
+    "status": "photo",
+    "why": "Niemeyer memorial in Porto Alegre; main photo shows the building.",
+    "name": "Memorial Luiz Carlos Prestes",
+    "by": "Oscar Niemeyer",
+    "city": "Porto Alegre",
+    "cc": "BR",
+    "year": 1998,
+    "type": "Memorial",
+    "movement": "Modernism",
+    "concepts": [
+     "Sculptural form",
+     "Geometry",
+     "Monumentality"
+    ],
+    "features": "Niemeyer's memorial and cultural centre in Porto Alegre, with curved walls recalling the Prestes Column and a photographic archive.",
+    "commons_category": "Category:Memorial Luiz Carlos Prestes",
+    "coords": [
+     -30.04593,
+     -51.23212
+    ],
+    "photos": [
+     {
+      "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 0.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 3.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
-    ],
-    "why": "Wikidata also lists Venturi and Scott Brown, but they did the later addition (born 1925/1931), so only Cass Gilbert (well known, on the wall) is kept. Lead short, year is prep's. Whole building in daylight."
+    ]
    }
   },
   {
-   "id": "kramars-villa",
-   "why": "Skipped only because the lead names the client, not Ohmann; Wikidata's Ohmann fits 1914 (he is already on the wall). Whole villa, daylight, clear.",
+   "id": "saxon-landtag",
+   "why": "Kulka's glass-and-steel parliament entrance is a well-known German work; Haiku skipped only because the lead is short and the architect has no other wall building. Main photo is clear. Year is null: Wikidata's 1990 looks like the Landtag's refounding, not the building.",
    "entry": {
-    "id": "kramars-villa",
-    "qid": "Q3558615",
+    "id": "saxon-landtag",
+    "qid": "Q1618988",
     "status": "photo",
-    "name": "Kramář's Villa",
-    "by": "Friedrich Ohmann",
-    "city": "Prague",
-    "cc": "CZ",
-    "year": 1914,
-    "type": "House",
-    "movement": "Historic precedent",
+    "why": "Peter Kulka's Saxon parliament building in Dresden.",
+    "name": "Saxon Landtag",
+    "by": "Peter Kulka",
+    "city": "Dresden",
+    "cc": "DE",
+    "year": null,
+    "type": "Civic",
+    "movement": "Contemporary",
     "concepts": [
-     "Landscape",
-     "Axis",
-     "Detail"
+     "Steel & glass",
+     "Structure as expression",
+     "Public space"
     ],
-    "features": "Built in 1914 in Prague, now the official residence of the Czech prime minister.",
-    "commons_category": "Category:Kramářova vila",
+    "features": "Seat of the Saxon state parliament, on Bernhard von Lindenau Platz in Dresden.",
+    "commons_category": "Category:Sächsischer Landtag (building)",
     "coords": [
-     50.09339,
-     14.41046
+     51.05678,
+     13.73316
     ],
     "photos": [
      {
-      "file": "File:Praha, Kramářova vila, severní pohled.jpg",
+      "file": "File:SLT-aussen.JPG",
       "license": "CC BY-SA 3.0",
       "seen": true
      }
-    ],
-    "why": "Skipped only because the lead names the client, not Ohmann; Wikidata's Ohmann fits 1914 (he is already on the wall). Whole villa, daylight, clear."
+    ]
    }
   },
   {
-   "id": "hospital-clinico-san-carlos",
-   "why": "MARGINAL. Sánchez Arcas and Torroja (Torroja is on the wall) fit the date, brick rationalist hospital; lead gives only function and no year (1951 is prep's, unverified). Whole building, daylight, cars in front.",
+   "id": "crematorium-bratislava",
+   "why": "Lead (Czech) calls it a cult work of Nordic-style modernism in a forest; completion 1967-68 from the lead. Main photo shows the long horizontal building on its hillside, small in the frame but clear; the second is a closer view.",
    "entry": {
-    "id": "hospital-clinico-san-carlos",
-    "qid": "Q6673106",
+    "id": "crematorium-bratislava",
+    "qid": "Q12769693",
     "status": "photo",
-    "name": "Hospital Clínico San Carlos",
-    "by": "Manuel Sánchez Arcas, Eduardo Torroja",
-    "city": "Madrid",
-    "cc": "ES",
-    "year": 1951,
-    "type": "Health",
+    "why": "Milucky's crematorium in Bratislava, completed 1968.",
+    "name": "Crematorium Bratislava",
+    "by": "Ferdinand Milučký",
+    "city": "Bratislava",
+    "cc": "SK",
+    "year": 1968,
+    "type": "Memorial",
     "movement": "Modernism",
     "concepts": [
-     "Brick",
-     "Geometry",
-     "Structure as expression"
+     "Landscape",
+     "Stone",
+     "Light & shadow"
     ],
-    "features": "A university hospital in Madrid's Ciudad Universitaria, linked to the Complutense University for clinical training.",
-    "commons_category": "Category:Hospital Clínico San Carlos",
+    "features": "Slovakia's first crematorium, built 1967-68, its horizontal lines set in woodland on the Little Carpathians.",
+    "commons_category": "Category:Crematorium Bratislava",
     "coords": [
-     40.44056,
-     -3.72028
+     48.2096,
+     17.04493
     ],
     "photos": [
      {
-      "file": "File:Hospital Clínico San Carlos (Madrid) 02.jpg",
-      "license": "CC BY-SA 3.0 es",
+      "file": "File:WP 20151027 13 12 32 Pro.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Hospital Clínico San Carlos (Madrid) 03.jpg",
-      "license": "CC BY-SA 3.0 es",
-      "seen": true
-     },
-     {
-      "file": "File:Hospital Clínico San Carlos (Madrid) 01.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:WP 20151027 13 11 43 Pro.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      }
-    ],
-    "why": "MARGINAL. Sánchez Arcas and Torroja (Torroja is on the wall) fit the date, brick rationalist hospital; lead gives only function and no year (1951 is prep's, unverified). Whole building, daylight, cars in front."
+    ]
    }
   },
   {
-   "id": "sven-harry-s-art-museum",
-   "why": "Wingårdh is on the wall and the 2011 date fits; gold-clad contemporary building. Haiku held it only for no architectural reason in the lead. Main photo whole corner view, daylight.",
+   "id": "lugano-arte-e-cultura",
+   "why": "Major Swiss cultural centre (LAC) by Ivano Gianola; Haiku skipped only because the architect has no other wall building. Clear sunny exterior photo is the second one.",
    "entry": {
-    "id": "sven-harry-s-art-museum",
-    "qid": "Q10684670",
+    "id": "lugano-arte-e-cultura",
+    "qid": "Q26986943",
     "status": "photo",
-    "name": "Sven-Harry's Art Museum",
-    "by": "Wingårdh arkitektkontor",
-    "city": "Stockholm",
-    "cc": "SE",
-    "year": 2011,
-    "type": "Museum",
+    "why": "LAC Lugano, a major cultural centre; clear exterior photo.",
+    "name": "Lugano Arte e Cultura",
+    "by": "Ivano Gianola",
+    "city": "Lugano",
+    "cc": "CH",
+    "year": 2015,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+     "Stone",
+     "Public space",
+     "Facade as skin"
+    ],
+    "features": "Polyfunctional cultural centre in Lugano for music, visual and performing arts, housing the MASI art museum.",
+    "commons_category": "Category:LAC Lugano",
+    "coords": [
+     45.99932,
+     8.94808
+    ],
+    "photos": [
+     {
+      "file": "File:Lugano art culture 1090083.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:LAC di Lugano 02.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:LAC Lugano 03.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "stc-group",
+   "why": "Neutelings Riedijk's checkerboard STC building (already well represented by Minnaert). The lead describes the college, but its last line gives the Rotterdam headquarters, enough for a plain features line. Clear daylight exterior photos.",
+   "entry": {
+    "id": "stc-group",
+    "qid": "Q2365720",
+    "status": "photo",
+    "why": "Neutelings Riedijk's STC building in Rotterdam.",
+    "name": "STC Group",
+    "by": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
+    "city": "Rotterdam",
+    "cc": "NL",
+    "year": 2000,
+    "type": "Education",
     "movement": "Contemporary",
     "concepts": [
      "Facade as skin",
-     "Colour",
+     "Sculptural form",
      "Geometry"
     ],
-    "features": "An art museum in Stockholm, housed in a multi-purpose building with a gallery, apartments and businesses.",
-    "commons_category": "Category:Sven-Harrys konstmuseum",
+    "features": "Rotterdam headquarters of the Shipping and Transport College Group, a maritime transport and logistics education provider.",
+    "commons_category": "Category:Scheepvaart en Transport College",
     "coords": [
-     59.3395,
-     18.04389
+     51.90172,
+     4.46127
     ],
     "photos": [
      {
-      "file": "File:Sven Harrys konstmuseum 2011a.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Sven-Harrys (3).JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Sven-Harrys (4).JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ],
-    "why": "Wingårdh is on the wall and the 2011 date fits; gold-clad contemporary building. Haiku held it only for no architectural reason in the lead. Main photo whole corner view, daylight."
-   }
-  },
-  {
-   "id": "kucuksu-pavilion",
-   "why": "Wikidata's 1944 is wrong for a Balyan work (he worked in the 19th century; the family is on the wall via Dolmabahce and Beylerbeyi) and the lead gives no year, so year is null. Photo p2 is the clear front view in daylight.",
-   "entry": {
-    "id": "kucuksu-pavilion",
-    "qid": "Q1755906",
-    "status": "photo",
-    "name": "Küçüksu Pavilion",
-    "by": "Nigoğayos Balyan",
-    "city": "Istanbul",
-    "cc": "TR",
-    "year": null,
-    "type": "Palace",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Water",
-     "Detail",
-     "Facade as skin"
-    ],
-    "features": "A summer pavilion on the Bosphorus' Asian shore, used by Ottoman sultans for short stays and hunts.",
-    "commons_category": "Category:Küçüksu Palace",
-    "coords": [
-     41.07833,
-     29.06472
-    ],
-    "photos": [
-     {
-      "file": "File:İstanbul - Küçüksu Kasrı 0983.JPG",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:İstanbul - Küçüksu Kasrı 0987.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Exterior view of Küçüksu Palace (1).jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ],
-    "why": "Wikidata's 1944 is wrong for a Balyan work (he worked in the 19th century; the family is on the wall via Dolmabahce and Beylerbeyi) and the lead gives no year, so year is null. Photo p2 is the clear front view in daylight."
-   }
-  },
-  {
-   "id": "new-city-hall-prague",
-   "why": "Polívka (already on the wall) fits 1911; lead names nobody. Style is Art Nouveau from general knowledge, not the lead. Whole facade, daylight.",
-   "entry": {
-    "id": "new-city-hall-prague",
-    "qid": "Q12041278",
-    "status": "photo",
-    "name": "New City Hall (Prague)",
-    "by": "Osvald Polívka",
-    "city": "Prague",
-    "cc": "CZ",
-    "year": 1911,
-    "type": "Civic",
-    "movement": "Art Nouveau",
-    "concepts": [
-     "Monumentality",
-     "Facade as skin",
-     "Detail"
-    ],
-    "features": "Prague's central administrative building, seat of the City Hall, council and mayor since 1945.",
-    "commons_category": "Category:Nová radnice, Praha",
-    "coords": [
-     50.0872,
-     14.4179
-    ],
-    "photos": [
-     {
-      "file": "File:Praha Nova radnice.jpg",
-      "license": "CC BY-SA 2.5",
-      "seen": true
-     },
-     {
-      "file": "File:Prague Old Town 2021 42.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ],
-    "why": "Polívka (already on the wall) fits 1911; lead names nobody. Style is Art Nouveau from general knowledge, not the lead. Whole facade, daylight."
-   }
-  },
-  {
-   "id": "tournay-abbey",
-   "why": "MARGINAL. Gillet (Notre-Dame de Royan is on the wall) fits the 1950s build; lead gives the 1958 completion. First photo p1 shows church and tower in daylight; the main photo is half hidden by a tree.",
-   "entry": {
-    "id": "tournay-abbey",
-    "qid": "Q2820324",
-    "status": "photo",
-    "name": "Tournay Abbey",
-    "by": "Guillaume Gillet",
-    "city": "Tournay",
-    "cc": "FR",
-    "year": 1958,
-    "type": "Religious",
-    "movement": "Modernism",
-    "concepts": [
-     "Stone",
-     "Courtyard",
-     "Landscape"
-    ],
-    "features": "An active Benedictine monastery of about 20 monks; the new building was completed in 1958.",
-    "commons_category": "Category:Abbaye Notre-Dame de Tournay",
-    "coords": [
-     43.18,
-     0.24528
-    ],
-    "photos": [
-     {
-      "file": "File:Abbaye Notre-Dame de Tournay 30.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Abbaye Notre-Dame de Tournay (France) vue d'ensemble 2191.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Abbaye Notre-Dame de Tournay 35.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ],
-    "why": "MARGINAL. Gillet (Notre-Dame de Royan is on the wall) fits the 1950s build; lead gives the 1958 completion. First photo p1 shows church and tower in daylight; the main photo is half hidden by a tree."
-   }
-  },
-  {
-   "id": "filoli",
-   "why": "Willis Polk is on the wall; 1917 is prep's year (lead has none). Brick facade in clear daylight (p1).",
-   "entry": {
-    "id": "filoli",
-    "qid": "Q478408",
-    "status": "photo",
-    "name": "Filoli",
-    "by": "Willis Polk",
-    "city": "Woodside",
-    "cc": "US",
-    "year": 1917,
-    "type": "House",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Landscape",
-     "Courtyard",
-     "Axis"
-    ],
-    "features": "A country house in 16 acres of formal gardens, a California Historical Landmark.",
-    "commons_category": "Category:Filoli",
-    "coords": [
-     37.47039,
-     -122.31069
-    ],
-    "photos": [
-     {
-      "file": "File:Filoli mansion - backyard view.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Filoli Mansion.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ],
-    "why": "Willis Polk is on the wall; 1917 is prep's year (lead has none). Brick facade in clear daylight (p1)."
-   }
-  },
-  {
-   "id": "novi-sad-synagogue",
-   "why": "Baumhorn is on the wall (Gyöngyös). Lead gives 1909 and its size. Skipped only because no architect in the lead. Style is Secession from general knowledge. Photo p2 is the clean whole view in daylight.",
-   "entry": {
-    "id": "novi-sad-synagogue",
-    "qid": "Q1243512",
-    "status": "photo",
-    "name": "Novi Sad Synagogue",
-    "by": "Lipót Baumhorn",
-    "city": "Novi Sad",
-    "cc": "RS",
-    "year": 1909,
-    "type": "Religious",
-    "movement": "Art Nouveau",
-    "concepts": [
-     "Monumentality",
-     "Vault",
-     "Detail"
-    ],
-    "features": "Completed in 1909, once one of the largest synagogues in Central Europe, now a cultural centre.",
-    "commons_category": "Category:Novi Sad Synagogue",
-    "coords": [
-     45.25313,
-     19.84071
-    ],
-    "photos": [
-     {
-      "file": "File:Novosadska sinagoga 02.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Novosadska sinagoga 01.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Синагога у Новом Саду 3.JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ],
-    "why": "Baumhorn is on the wall (Gyöngyös). Lead gives 1909 and its size. Skipped only because no architect in the lead. Style is Secession from general knowledge. Photo p2 is the clean whole view in daylight."
-   }
-  },
-  {
-   "id": "szeged-synagogue",
-   "why": "Baumhorn's best-known work. Prep year 1900 is probably the start of building (lead gives none), so year is null; please fill from a source. Main photo is a clear whole view in daylight.",
-   "entry": {
-    "id": "szeged-synagogue",
-    "qid": "Q834288",
-    "status": "photo",
-    "name": "Szeged Synagogue",
-    "by": "Lipót Baumhorn",
-    "city": "Szeged",
-    "cc": "HU",
-    "year": null,
-    "type": "Religious",
-    "movement": "Art Nouveau",
-    "concepts": [
-     "Monumentality",
-     "Vault",
-     "Colour"
-    ],
-    "features": "Szeged's Great Synagogue, a tourist attraction that also serves as an events centre and concert hall.",
-    "commons_category": "Category:New Synagogue (Szeged)",
-    "coords": [
-     46.2539,
-     20.14265
-    ],
-    "photos": [
-     {
-      "file": "File:Szeged synagogue SF.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Szeged - Új Zsinagóga (44021910514).jpg",
+      "file": "File:Rotterdam, The Netherlands (7622612352).jpg",
       "license": "CC BY 2.0",
       "seen": true
      },
      {
-      "file": "File:Szeged - Új Zsinagóga (44740331311).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     }
-    ],
-    "why": "Baumhorn's best-known work. Prep year 1900 is probably the start of building (lead gives none), so year is null; please fill from a source. Main photo is a clear whole view in daylight."
-   }
-  },
-  {
-   "id": "lucenec-synagogue",
-   "why": "Baumhorn is on the wall. Year 1925 is from the lead (prep's 1923 is not the completion). Main photo shows the restored building whole in daylight.",
-   "entry": {
-    "id": "lucenec-synagogue",
-    "qid": "Q9350260",
-    "status": "photo",
-    "name": "Lučenec Synagogue",
-    "by": "Lipót Baumhorn",
-    "city": "Lučenec",
-    "cc": "SK",
-    "year": 1925,
-    "type": "Religious",
-    "movement": "Art Nouveau",
-    "concepts": [
-     "Monumentality",
-     "Detail",
-     "Light from above"
-    ],
-    "features": "A Secession-style synagogue completed in 1925, reconstructed and reopened as a cultural centre in 2016.",
-    "commons_category": "Category:Synagogue in Lučenec",
-    "coords": [
-     48.325,
-     19.66696
-    ],
-    "photos": [
-     {
-      "file": "File:Lučenec - synagóga (2016) E.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Synagogue in Lučenec (Losonc).jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ],
-    "why": "Baumhorn is on the wall. Year 1925 is from the lead (prep's 1923 is not the completion). Main photo shows the restored building whole in daylight."
-   }
-  },
-  {
-   "id": "cluj-napoca-national-theatre",
-   "why": "Fellner & Helmer are on the wall twice and 1906 fits. Haiku held it only because the lead names no architect. Whole facade, daylight.",
-   "entry": {
-    "id": "cluj-napoca-national-theatre",
-    "qid": "Q1414007",
-    "status": "photo",
-    "name": "Cluj-Napoca National Theatre",
-    "by": "Fellner & Helmer",
-    "city": "Cluj-Napoca",
-    "cc": "RO",
-    "year": 1906,
-    "type": "Culture & sport",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Monumentality",
-     "Axis",
-     "Detail"
-    ],
-    "features": "The Lucian Blaga National Theatre in Cluj-Napoca, sharing its building with the Romanian Opera.",
-    "commons_category": "Category:Romanian State Theatre and Opera, Cluj-Napoca",
-    "coords": [
-     46.7704,
-     23.59709
-    ],
-    "photos": [
-     {
-      "file": "File:Opera nationala romana cluj - teatrul national lucian blaga - 2019iunie.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Cluj-Napoca National Theatre in 2014.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Teatrul Național Român.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ],
-    "why": "Fellner & Helmer are on the wall twice and 1906 fits. Haiku held it only because the lead names no architect. Whole facade, daylight."
-   }
-  },
-  {
-   "id": "adam-mickiewicz-theatre-cieszyn",
-   "why": "MARGINAL. Fellner & Helmer (on the wall) fit 1910; lead is a single line. Rated (Q) daylight main photo shows the whole front.",
-   "entry": {
-    "id": "adam-mickiewicz-theatre-cieszyn",
-    "qid": "Q9356192",
-    "status": "photo",
-    "name": "Adam Mickiewicz Theatre, Cieszyn",
-    "by": "Fellner & Helmer",
-    "city": "Cieszyn",
-    "cc": "PL",
-    "year": 1910,
-    "type": "Culture & sport",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Detail",
-     "Facade as skin",
-     "Monumentality"
-    ],
-    "features": "A theatre on Theatre Square in the Old City of Cieszyn, Poland.",
-    "commons_category": "Category:Adam Mickiewicz Theatre in Cieszyn",
-    "coords": [
-     49.75,
-     18.6304
-    ],
-    "photos": [
-     {
-      "file": "File:Teatr w Cieszynie 2.JPG",
-      "license": "CC BY-SA 3.0 pl",
-      "seen": true
-     },
-     {
-      "file": "File:Teatr w Cieszynie 3.JPG",
-      "license": "CC BY-SA 3.0 pl",
-      "seen": true
-     }
-    ],
-    "why": "MARGINAL. Fellner & Helmer (on the wall) fit 1910; lead is a single line. Rated (Q) daylight main photo shows the whole front."
-   }
-  },
-  {
-   "id": "heureka",
-   "why": "Lead names the architects and the 1989 opening; Haiku skipped for no reason given. Prep's main photo is a distant view; p6 (2022) shows the front in daylight.",
-   "entry": {
-    "id": "heureka",
-    "qid": "Q1634495",
-    "status": "photo",
-    "name": "Heureka",
-    "by": "Heikkinen – Komonen Architects, Mikko Heikkinen, Markku Komonen",
-    "city": "Vantaa",
-    "cc": "FI",
-    "year": 1989,
-    "type": "Museum",
-    "movement": "Late modernism",
-    "concepts": [
-     "Landscape",
-     "Geometry",
-     "Public space"
-    ],
-    "features": "A science centre by Heikkinen–Komonen Architects, opened in 1989 beside the Keravanjoki river and the Main Line railway.",
-    "commons_category": "Category:Heureka, Vantaa",
-    "coords": [
-     60.2875,
-     25.04028
-    ],
-    "photos": [
-     {
-      "file": "File:Science centre Heureka in Tikkurila, Vantaa, Finland, 2022 June.jpg",
+      "file": "File:Bevenrode (ship, 1970) in front of STC Building Rotterdam.jpg",
       "license": "CC BY 4.0",
       "seen": true
      },
      {
-      "file": "File:Heureka.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ],
-    "why": "Lead names the architects and the 1989 opening; Haiku skipped for no reason given. Prep's main photo is a distant view; p6 (2022) shows the front in daylight."
-   }
-  },
-  {
-   "id": "historical-museum-of-the-palatinate",
-   "why": "MARGINAL. Gabriel von Seidl (a villa of his is on the wall) fits 1910; lead names nobody. Rated (Q) photo p1 shows the whole building in daylight.",
-   "entry": {
-    "id": "historical-museum-of-the-palatinate",
-    "qid": "Q1325163",
-    "status": "photo",
-    "name": "Historical Museum of the Palatinate",
-    "by": "Gabriel von Seidl",
-    "city": "Speyer",
-    "cc": "DE",
-    "year": 1910,
-    "type": "Museum",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Monumentality",
-     "Courtyard",
-     "Public space"
-    ],
-    "features": "A history museum across the square from Speyer Cathedral, with about a million artifacts.",
-    "commons_category": "Category:Historisches Museum der Pfalz (Speyer)",
-    "coords": [
-     49.3157,
-     8.44157
-    ],
-    "photos": [
-     {
-      "file": "File:Speyer BW 2.JPG",
-      "license": "CC BY-SA 3.0",
+      "file": "File:STC Rotterdam vanaf de Waterweg.jpg",
+      "license": "CC BY 2.0",
       "seen": true
      },
      {
-      "file": "File:Speyer, Museum der Pfalz.JPG",
-      "license": "CC0",
-      "seen": true
-     },
-     {
-      "file": "File:Speyer 1987 (10) Historisches Museum (51240150699).jpg",
-      "license": "CC BY-SA 2.0",
-      "seen": true
-     }
-    ],
-    "why": "MARGINAL. Gabriel von Seidl (a villa of his is on the wall) fits 1910; lead names nobody. Rated (Q) photo p1 shows the whole building in daylight."
-   }
-  },
-  {
-   "id": "new-mexico-museum-of-art",
-   "why": "Pueblo Revival regionalism (clear from the photos, not the lead). 1917 is prep's year. First photo p1 is the whole corner in daylight.",
-   "entry": {
-    "id": "new-mexico-museum-of-art",
-    "qid": "Q559229",
-    "status": "photo",
-    "name": "New Mexico Museum of Art",
-    "by": "Isaac Rapp",
-    "city": "Santa Fe",
-    "cc": "US",
-    "year": 1917,
-    "type": "Museum",
-    "movement": "Regionalism",
-    "concepts": [
-     "Earth & local material",
-     "Climate response",
-     "Courtyard"
-    ],
-    "features": "A state-run art museum in Santa Fe, one block off the historic Plaza.",
-    "commons_category": "Category:New Mexico Museum of Art",
-    "coords": [
-     35.6881,
-     -105.939
-    ],
-    "photos": [
-     {
-      "file": "File:Santa Fe, New Mexico, USA 5-2024 25.jpg",
-      "license": "CC BY-SA 2.0",
-      "seen": true
-     },
-     {
-      "file": "File:Santa Fe, New Mexico, USA - panoramio (84).jpg",
-      "license": "CC BY 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Newmexico museumofart.jpg",
-      "license": "Public domain",
-      "seen": true
-     }
-    ],
-    "why": "Pueblo Revival regionalism (clear from the photos, not the lead). 1917 is prep's year. First photo p1 is the whole corner in daylight."
-   }
-  },
-  {
-   "id": "hawaii-state-capitol",
-   "why": "Rescued as asked: Warnecke fits 1969 and the lead gives the opening date. First photo p4 is the clean whole view in daylight; the main photo is half behind trees.",
-   "entry": {
-    "id": "hawaii-state-capitol",
-    "qid": "Q1290002",
-    "status": "photo",
-    "name": "Hawaii State Capitol",
-    "by": "John Carl Warnecke",
-    "city": "Honolulu",
-    "cc": "US",
-    "year": 1969,
-    "type": "Civic",
-    "movement": "Late modernism",
-    "concepts": [
-     "Structure as expression",
-     "Climate response",
-     "Light from above"
-    ],
-    "features": "Hawaii's statehouse, opened on 15 March 1969 to replace ʻIolani Palace.",
-    "commons_category": "Category:Hawaii State Capitol",
-    "coords": [
-     21.3075,
-     -157.8575
-    ],
-    "photos": [
-     {
-      "file": "File:2020 Hawaii State Capitol 01.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:2020 Hawaii State Capitol 02.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Hawaii state capitol from the south-east.jpg",
-      "license": "Public domain",
-      "seen": true
-     }
-    ],
-    "why": "Rescued as asked: Warnecke fits 1969 and the lead gives the opening date. First photo p4 is the clean whole view in daylight; the main photo is half behind trees."
-   }
-  },
-  {
-   "id": "desert-view-watchtower",
-   "why": "Lead names Mary Colter and 1932. Haiku held it only for want of a city; prep gives only the county, so the place is the national park. Rated (Q) photo p1 shows the whole tower in daylight.",
-   "entry": {
-    "id": "desert-view-watchtower",
-    "qid": "Q2062022",
-    "status": "photo",
-    "name": "Desert View Watchtower",
-    "by": "Mary Colter",
-    "city": "Grand Canyon National Park",
-    "cc": "US",
-    "year": 1932,
-    "type": "Pavilion",
-    "movement": "Regionalism",
-    "concepts": [
-     "Stone",
-     "Earth & local material",
-     "Landscape"
-    ],
-    "features": "A 70-foot stone watchtower on the Grand Canyon's South Rim, completed in 1932 and designed by Mary Colter.",
-    "commons_category": "Category:Desert View Watchtower",
-    "coords": [
-     36.04389,
-     -111.82583
-    ],
-    "photos": [
-     {
-      "file": "File:Desert View Tower, GCNP, AZ 20110810 1.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Grand Canyon Desert View Watchtower 17x11.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Grand Canyon National Park-Arizona1456.JPG",
+      "file": "File:Rotterdam STC building seen from 3e Katendrechtsehoofd.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
-    ],
-    "why": "Lead names Mary Colter and 1932. Haiku held it only for want of a city; prep gives only the county, so the place is the national park. Rated (Q) photo p1 shows the whole tower in daylight."
+    ]
    }
   },
   {
-   "id": "painted-desert-inn",
-   "why": "MARGINAL. Pueblo Revival inn (regionalism, National Historic Landmark per the file names); lead gives no architect or year, both are prep's. Whole building, daylight.",
+   "id": "museum-belvedere",
+   "why": "Low dark museum in the Frisian landscape by Inbo; Haiku skipped for lack of lead detail. Borderline rescue: lead says only that it is a modern art museum. Main photo is clear.",
    "entry": {
-    "id": "painted-desert-inn",
-    "qid": "Q2194613",
+    "id": "museum-belvedere",
+    "qid": "Q12013196",
     "status": "photo",
-    "name": "Painted Desert Inn",
-    "by": "Lyle E. Bennett",
-    "city": "Petrified Forest National Park",
-    "cc": "US",
-    "year": 1937,
-    "type": "Hospitality",
-    "movement": "Regionalism",
-    "concepts": [
-     "Earth & local material",
-     "Landscape",
-     "Colour"
-    ],
-    "features": "A historic complex in Petrified Forest National Park, overlooking the Painted Desert.",
-    "commons_category": "Category:Painted Desert Inn",
-    "coords": [
-     35.08398,
-     -109.7881
-    ],
-    "photos": [
-     {
-      "file": "File:Painted Desert Inn NHL 01.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Painted Desert Inn 2013.JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Painted Desert Inn NHL 02.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ],
-    "why": "MARGINAL. Pueblo Revival inn (regionalism, National Historic Landmark per the file names); lead gives no architect or year, both are prep's. Whole building, daylight."
-   }
-  },
-  {
-   "id": "old-faithful-inn",
-   "why": "Wrongly skipped as an ordinary hotel: the lead calls it the 'Golden Age' of National Park Service Rustic and the first great park lodge. Timberline Lodge and the Ahwahnee are already on the wall. Whole building, daylight.",
-   "entry": {
-    "id": "old-faithful-inn",
-    "qid": "Q3027805",
-    "status": "photo",
-    "name": "Old Faithful Inn",
-    "by": "Robert Reamer",
-    "city": "Yellowstone National Park",
-    "cc": "US",
-    "year": 1904,
-    "type": "Hospitality",
-    "movement": "Regionalism",
-    "concepts": [
-     "Timber",
-     "Stone",
-     "Double height"
-    ],
-    "features": "A log hotel in Yellowstone, the first of the great park lodges and a National Park Service Rustic landmark.",
-    "commons_category": "Category:Old Faithful Inn",
-    "coords": [
-     44.45972,
-     -110.83111
-    ],
-    "photos": [
-     {
-      "file": "File:Old Faithful Inn main facade.jpg",
-      "license": "Public domain",
-      "seen": true
-     },
-     {
-      "file": "File:First light on Old Faithful Inn (52213506762).jpg",
-      "license": "Public domain",
-      "seen": true
-     }
-    ],
-    "why": "Wrongly skipped as an ordinary hotel: the lead calls it the 'Golden Age' of National Park Service Rustic and the first great park lodge. Timberline Lodge and the Ahwahnee are already on the wall. Whole building, daylight."
-   }
-  },
-  {
-   "id": "013",
-   "why": "MARGINAL. Benthem Crouwel fits; year is the lead's 1998 opening (prep's 1994 is the design). Dark perforated box, whole building in daylight; all other photos are concerts.",
-   "entry": {
-    "id": "013",
-    "qid": "Q2319846",
-    "status": "photo",
-    "name": "013",
-    "by": "Jan Benthem, Mels Crouwel, Benthem Crouwel Architects",
-    "city": "Tilburg",
+    "why": "Inbo's art museum in Heerenveen; clear exterior photo.",
+    "name": "Museum Belvédère",
+    "by": "Inbo",
+    "city": "Heerenveen",
     "cc": "NL",
-    "year": 1998,
+    "year": 2004,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Landscape",
+     "Water",
+     "Facade as skin"
+    ],
+    "features": "A museum of modern and contemporary art in Heerenveen, Friesland.",
+    "commons_category": "Category:Museum Belvédère",
+    "coords": [
+     52.95722,
+     5.96361
+    ],
+    "photos": [
+     {
+      "file": "File:Museum Belvédère, Heerenveen-4807.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Museum Belvédère, Heerenveen-4806.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Museum Belvédère, Heerenveen-4804.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "festspielhaus-st-polten",
+   "why": "Klaus Kada's festival house, a known Austrian work; opening date 1 March 1997 is in the lead. Strong main photo.",
+   "entry": {
+    "id": "festspielhaus-st-polten",
+    "qid": "Q1408821",
+    "status": "photo",
+    "why": "Kada's festival house in St. Poelten, opened 1997.",
+    "name": "Festspielhaus St. Pölten",
+    "by": "Klaus Kada",
+    "city": "St. Pölten",
+    "cc": "AT",
+    "year": 1997,
     "type": "Culture & sport",
     "movement": "Contemporary",
     "concepts": [
-     "Facade as skin",
-     "Geometry",
-     "Light & shadow"
+     "Sculptural form",
+     "Steel & glass",
+     "Public space"
     ],
-    "features": "A music venue in Tilburg, opened in 1998, the largest popular music venue in the southern Netherlands.",
-    "commons_category": "Category:013, Tilburg",
+    "features": "Festival house in St. Pölten's cultural district, opened on 1 March 1997 beside the state museum and library.",
+    "commons_category": "Category:Festspielhaus (St. Pölten)",
     "coords": [
-     51.55861,
-     5.09306
+     48.2009,
+     15.631
     ],
     "photos": [
      {
-      "file": "File:Tilburg poppodium 013.jpg",
+      "file": "File:Sankt Pölten - Regierungsviertel - Festspielhaus.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:2019 11 20 St Poelten Festspielhaus 3.jpeg",
       "license": "CC BY-SA 3.0",
       "seen": true
      }
+    ]
+   }
+  },
+  {
+   "id": "konzerthaus-blaibach",
+   "why": "Well-known granite-clad concert hall by Peter Haimerl; the lead is short but supports a plain features line; opening year 2014 is Wikidata's. Clear main photo.",
+   "entry": {
+    "id": "konzerthaus-blaibach",
+    "qid": "Q97602086",
+    "status": "photo",
+    "why": "Haimerl's concert hall in Blaibach; striking granite volume.",
+    "name": "Konzerthaus Blaibach",
+    "by": "Peter Haimerl",
+    "city": "Blaibach",
+    "cc": "DE",
+    "year": 2014,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+     "Stone",
+     "Sculptural form",
+     "Cantilever"
     ],
-    "why": "MARGINAL. Benthem Crouwel fits; year is the lead's 1998 opening (prep's 1994 is the design). Dark perforated box, whole building in daylight; all other photos are concerts."
+    "features": "Concert house in the village of Blaibach in the Upper Palatinate, for concerts, cultural events and exhibitions.",
+    "commons_category": "Category:Konzerthaus Blaibach",
+    "coords": [
+     49.1659,
+     12.80787
+    ],
+    "photos": [
+     {
+      "file": "File:Konzerthaus Blaibach.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Blaibach, Konzerthaus (1).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Konzerthaus Blaibach-1.JPG",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
    }
   }
  ],
- "summary": "Positions 0-149: Haiku had 38 photo, 31 unsure, 81 skip. Photo entries: 35 ok (of which 5 need a small fix: glenstone, banovina-palace-novi-sad, prinkipo-greek-orthodox-orphanage, jinpukaku, air-force-command-building-belgrade; 4 need a better first photo: heliotrope-building, seville-public-library, pagode-de-vincennes, museum-of-art-architecture-and-technology), 3 wrong (general-staff-building-moscow, gani-mammadov-residence, phoenix-theatre-london). Rescued 21 unsure/skip entries with a usable main photo (about 6 marked MARGINAL). No duplicates with the wall (checked qid, id and name). Still held (not rescued): Fuhrerbau (owner decision on Nazi-era work; Haus der Kunst and Olympiastadion are already on the wall), Reichsbahnbunker Friedrichstrasse, Utah and Arizona capitols, AXS Satow / Takeo Sato Japanese prefectural museums (Enku, Iwate, Fukuoka), Osaka Nakanoshima Library, Westphalian State Museum (Staab building shown, but year/architect mixed with 1905 original), Audi museum mobile (no clear daylight whole view), Palazzo dell'Arengario (main at dusk), Carnegie Library of Washington (year unverified)."
+ "summary": "Positions 0-149: Haiku kept 67 as photo; 45 fine as they are (keep_ok, includes 8 of the main_photo_wrong ids whose building is right but photo is not), 8 need a field fix (11 fixes over 8 buildings), 14 wrong (mostly towers and one doubtful architect credit), 9 with a weak main photo. Rescued 10 from skip/unsure. Skips left alone: duplicates 6, 22, 35, 57, 108, 120, 127, 141; empty leads; demolished; no photos; interior-only photos. Notes: no dup_flag field exists in prep.json, so I checked all kept and rescued entries against site/data/buildings.js by qid, id and 250 m distance; nothing new on the wall. Unverifiable offline: Shizuoka (SANAA credit), Centre Ceramique year 1995. Haiku's 'Selene (building)' id is kept as given."
 }

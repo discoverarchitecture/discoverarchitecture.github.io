@@ -2,6 +2,72 @@
  {
   "date": "2026-10-21",
   "workstream": "Data collection",
+  "what": "177 new buildings from the third and fourth Haiku pools; page titles keep firm names whole",
+  "pr": "114"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Design",
+  "what": "Wall: \"AI Jury Presentation Generator\" in title case",
+  "pr": "115"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Visitor numbers: count the studio page, AI button, map and game per day on their own",
+  "pr": "113"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-live",
+  "what": "Read about: all reading links live",
+  "pr": "112"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Further reading: hubs (32 pages), and the link check runs only its own group",
+  "pr": "111"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_04",
+  "what": "Further reading: architects_04",
+  "pr": "109"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Reading link check: keep museum and journal pages that block automated visitors",
+  "pr": "110"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_01",
+  "what": "Further reading: architects_01",
+  "pr": "107"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_03",
+  "what": "Further reading: architects_03",
+  "pr": "105"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-order",
+  "what": "Read about: most useful links first",
+  "pr": "108"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_02",
+  "what": "Further reading: architects_02",
+  "pr": "106"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
   "what": "Architect pages batch 8 (27 architects) and drawings for 40 more of the most-studied buildings",
   "pr": "99"
  },
@@ -39,6 +105,18 @@
   "date": "2026-10-21",
   "workstream": "Data collection",
   "what": "Drawings for the most-studied buildings 201-1,000: Commons scanned in four runs, 82 drawings for 40 buildings accepted (Sonnet first pass, Opus check by eye) and fetched; 15 off-topic photos from the refetch removed.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, third pool: 287 candidates judged by Haiku, every judgement checked by Sonnet, every gallery by Opus; 98 buildings added, 77 off-topic photos removed, 21 held for want of a sourced year.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, fourth pool (modern): 300 candidates judged by Haiku, every judgement checked by Sonnet (37 rescued), every gallery by Opus; 79 buildings added, 90 weak photos removed, 7 held for want of a sourced year. Page titles now keep firms like McKim, Mead & White whole.",
   "pr": ""
  },
  {

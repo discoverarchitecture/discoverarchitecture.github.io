@@ -189,3 +189,4 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | KölnTurm | Jean Nouvel (Ateliers Jean Nouvel) with Kohl & Kohl | Cologne, DE |
 | Perth Stadium (Optus Stadium) | Hassell, HKS and Cox | Perth, AU |
 | Kraus House | Frank Lloyd Wright | Kirkwood, US |
+| Biblioteca Raúl Rangel Frías | Ricardo Legorreta | Monterrey, MX |

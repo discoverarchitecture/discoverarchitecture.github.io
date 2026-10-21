@@ -6,7 +6,8 @@
 Network work runs here, on GitHub Actions, so the model reading the result never browses: for each candidate
 (a Wikidata harvest row: qid, label, enwiki, architect, inception, country, coords, commons, image) it saves the
 English Wikipedia lead (up to 900 characters) and up to six free photos from the building's own Commons category,
-rated photos (Featured, Quality, Valued) first, with licence, size, description and categories. It writes
+rated photos (Featured, Quality, Valued) first, with licence, size, description and categories. A row marked
+"fill": true (from the scored list, without the harvest's facts) first gets them from Wikidata. It writes
 tools/cheap/prep.json and contact sheets tools/cheap/sheets/sheet_NN.jpg (8 buildings each: Wikidata's main
 photo, then the candidates p1 to p6).
 """
@@ -88,12 +89,33 @@ def sheets(rows):
         sheet.save(OUT / 'sheets' / f'sheet_{s // PER:02d}.jpg', quality=78)
 
 
+def fill(pool):
+    """Fetches the harvest's facts for rows that only carry a qid, name and architect."""
+    from harvest import entities, labels
+    todo = [r['qid'] for r in pool if r.get('fill')]
+    if not todo:
+        return
+    recs = entities(todo)
+    refs = {v for r in recs.values() for key in ('architect', 'country', 'located', 'instance')
+            for v in r.get(key, []) if isinstance(v, str) and v.startswith('Q')}
+    names = labels(refs)
+    for r in pool:
+        rec = recs.get(r['qid']) if r.get('fill') else None
+        if rec:
+            for key in ('architect', 'country', 'located', 'instance'):
+                if key in rec:
+                    rec[key] = [names.get(v, v) if isinstance(v, str) else v for v in rec[key]]
+            r.update({k: v for k, v in rec.items() if v and k != 'qid'})
+    print(len(recs), 'rows filled from Wikidata', flush=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('pool')
     ap.add_argument('--n', type=int, default=60)
     a = ap.parse_args()
     pool = json.loads((ROOT / a.pool).read_text(encoding='utf-8'))[:a.n]
+    fill(pool)
     rows = []
     for k, r in enumerate(pool):
         try:

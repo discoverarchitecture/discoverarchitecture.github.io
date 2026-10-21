@@ -55,5 +55,14 @@
   "goal": "Remake the sample jury board as a competition-style sheet and put three directions on the canvas (v32), phone and computer",
   "status": "done",
   "note": "Canvas v32; page with the new board at https://claude.ai/artifact/BSryrWdYyaYMF6beeECjco; branch claude/studio-board"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 5: 300 contemporary candidates (1990 or later), at most 4 per architect; Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
+  "target": 80,
+  "metric": "buildings_added",
+  "status": "done",
+  "note": "82 added"
  }
 ]
