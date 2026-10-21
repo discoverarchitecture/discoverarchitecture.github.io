@@ -1,0 +1,123 @@
+[
+ {
+  "id": "rookery-building",
+  "add": [
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 2 of 8).png",
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 3 of 8).png"
+  ],
+  "kinds": {
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 2 of 8).png": "Plan",
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 3 of 8).png": "Plan"
+  },
+  "why": "HABS measured floor plans (sheets 2 and 3 of 8); png versions kept, tif twins and the text-heavy title sheet 1 left out."
+ },
+ {
+  "id": "palace-of-justice",
+  "add": [
+   "File:Plan miniemengevel.png",
+   "File:Plan jp 1880.png",
+   "File:Doorsnede jp.png"
+  ],
+  "kinds": {
+   "File:Plan miniemengevel.png": "Elevation",
+   "File:Plan jp 1880.png": "Elevation",
+   "File:Doorsnede jp.png": "Section"
+  },
+  "why": "Poelaert's drawings of the Brussels Palace of Justice, from the Commons category of its architectural drawings: two elevations with the tall dome and a section; the 1862 elevation and section (earlier lower-dome scheme) and the city development plan left out."
+ },
+ {
+  "id": "concertgebouw",
+  "add": [
+   "File:A.L. van Gendt Concertgebouw 0.jpg"
+  ],
+  "kinds": {
+   "File:A.L. van Gendt Concertgebouw 0.jpg": "Drawing"
+  },
+  "why": "Van Gendt's sheet for the Amsterdam Concertgebouw: plans, elevations and hall interior (De Opmerker). The 'Den Haag plan' is a different building and is left out."
+ },
+ {
+  "id": "breuer-building",
+  "add": [
+   "File:Breuer Building plan 02a.jpg"
+  ],
+  "kinds": {
+   "File:Breuer Building plan 02a.jpg": "Plan"
+  },
+  "why": "Plan and section drawing of the Breuer Building (Whitney, Madison Ave)."
+ },
+ {
+  "id": "stockholm-city-hall",
+  "add": [
+   "File:Stockholms stadshus plan 1 tr Blå rummet.jpg",
+   "File:Stockholms stadshus, tornskisser, 1918, 1919.jpg"
+  ],
+  "kinds": {
+   "File:Stockholms stadshus plan 1 tr Blå rummet.jpg": "Plan",
+   "File:Stockholms stadshus, fasadritning sept 1909.jpg": "Elevation",
+   "File:Stockholms stadshus, tornskisser, 1918, 1919.jpg": "Sketch"
+  },
+  "why": "First-floor plan (clearest of three near-identical versions), Östberg's 1909 facade drawing and his 1918-19 tower sketches. The unbuilt 'Mälardrott' competition entry left out."
+ },
+ {
+  "id": "fisher-building",
+  "add": [
+   "File:Fisher Building 5th to 9th Floor Plan.png"
+  ],
+  "kinds": {
+   "File:Fisher Building 5th to 9th Floor Plan.png": "Plan"
+  },
+  "why": "Floor plan of the Detroit Fisher Building (Albert Kahn). The Chicago HABS Fisher Building photo is a different building."
+ },
+ {
+  "id": "mausebunker",
+  "add": [
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg"
+  ],
+  "kinds": {
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg": "Plan",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg": "Elevation",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg": "Section",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg": "Drawing"
+  },
+  "why": "Gerd Hänska's own drawings of the Zentrale Tierlaboratorien (Mäusebunker): second-floor plan, long elevations, cross-sections and the sheet titled Perspektive (shows views of the building as line drawings)."
+ },
+ {
+  "id": "national-building-museum",
+  "add": [
+   "File:Pension Building, 440 G Street Northwest, Washington, District of Columbia, DC HABS DC,WASH,152- (sheet 1 of 1).png"
+  ],
+  "kinds": {
+   "File:Pension Building, 440 G Street Northwest, Washington, District of Columbia, DC HABS DC,WASH,152- (sheet 1 of 1).png": "Elevation"
+  },
+  "why": "HABS measured drawing of the Pension Building entrance elevation; png kept, tif twin left out. The two other candidates are HABS photographs."
+ },
+ {
+  "id": "mosque-madrasa-of-sultan-hassan",
+  "add": [
+   "File:Plan of Medresa (c.1830) - TIMEA.jpg"
+  ],
+  "kinds": {
+   "File:Plan of Medresa (c.1830) - TIMEA.jpg": "Plan"
+  },
+  "why": "Old printed plan of the Sultan Hassan madrasa (Lane-Poole); the other five 'sections' are photos."
+ },
+ {
+  "id": "viaduc-de-garabit",
+  "add": [
+   "File:Viaduc de Garabit Planche 12 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 3 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 4 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 5 - Mémoire de G. Eiffel.jpg"
+  ],
+  "kinds": {
+   "File:Viaduc de Garabit Planche 12 - Mémoire de G. Eiffel.jpg": "Elevation",
+   "File:Viaduc de Garabit Planche 3 - Mémoire de G. Eiffel.jpg": "Drawing",
+   "File:Viaduc de Garabit Planche 4 - Mémoire de G. Eiffel.jpg": "Drawing",
+   "File:Viaduc de Garabit Planche 5 - Mémoire de G. Eiffel.jpg": "Elevation"
+  },
+  "why": "Plates from Eiffel's Mémoire for the Garabit viaduct: arch elevation (planche 12), construction details (3, 4) and viaduct elevation (5). Planches 7 and 10 (calculation tables, near-duplicate of 12) left out."
+ }
+]

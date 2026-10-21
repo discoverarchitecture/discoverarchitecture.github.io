@@ -1,0 +1,176 @@
+[
+ {
+  "id": "la-scala",
+  "add": [
+   "File:Scala4.JPG",
+   "File:Scala3.JPG",
+   "File:Scala5.JPG"
+  ],
+  "kinds": {
+   "File:Scala4.JPG": "Elevation",
+   "File:Scala3.JPG": "Section",
+   "File:Scala5.JPG": "Section"
+  },
+  "why": "Piermarini's 1789 engravings of the Teatro alla Scala: facade elevation, auditorium section and long section. Left out the two later views (d5, d6): perspective street views, not plans or elevations."
+ },
+ {
+  "id": "farnsworth-house",
+  "add": [
+   "File:Plan - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 3 of 8).tif",
+   "File:Plan and North, East and South Elevations of Core, and Section - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 6 of 8).tif",
+   "File:Details of Walls, Window and Columns - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 8 of 8).tif",
+   "File:Bathroom Elevations, Wardrobe Plans and Details, and Stair Section Details - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 7 of 8).tif"
+  ],
+  "kinds": {
+   "File:Plan - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 3 of 8).tif": "Plan",
+   "File:Plan and North, East and South Elevations of Core, and Section - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 6 of 8).tif": "Section",
+   "File:Details of Walls, Window and Columns - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 8 of 8).tif": "Drawing",
+   "File:Bathroom Elevations, Wardrobe Plans and Details, and Stair Section Details - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 7 of 8).tif": "Drawing"
+  },
+  "why": "HABS measured drawings of the Edith Farnsworth House: floor plan (sheet 3), core plan/elevations/section (6), wall/window/column details (8), bathroom elevations and stair section (7). Left out the cover sheet and site-evolution sheets (mostly text)."
+ },
+ {
+  "id": "twa-flight-center",
+  "add": [
+   "File:Flight Wing No. 2 - Section, Elevation and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens HABS NY-6371 (sheet 27 of 32).png",
+   "File:Basement Floor Plan - North Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 6 of 32).png",
+   "File:Basement Floor Plan - South Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 7 of 32).png",
+   "File:Enlarged Stair Plan and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 30 of 32).png"
+  ],
+  "kinds": {
+   "File:Flight Wing No. 2 - Section, Elevation and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens HABS NY-6371 (sheet 27 of 32).png": "Section",
+   "File:Basement Floor Plan - North Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 6 of 32).png": "Plan",
+   "File:Basement Floor Plan - South Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 7 of 32).png": "Plan",
+   "File:Enlarged Stair Plan and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 30 of 32).png": "Drawing"
+  },
+  "why": "HABS sheets of the TWA Flight Center: flight wing section and elevation, north and south wing basement plans, enlarged stair plan. d6 is a .tif duplicate of d4, d5 a near-duplicate wing section."
+ },
+ {
+  "id": "braga-municipal-stadium",
+  "add": [
+   "File:Eduardo Souto de Moura - Braga Stadium Drawings 01 - Sketch (6010611886).jpg"
+  ],
+  "kinds": {
+   "File:Eduardo Souto de Moura - Braga Stadium Drawings 01 - Sketch (6010611886).jpg": "Sketch"
+  },
+  "why": "Eduardo Souto de Moura's own concept sketch of the Braga stadium."
+ },
+ {
+  "id": "mole-antonelliana",
+  "add": [
+   "File:Turin. The Mole Antonelliana, section as of 1973 2009 - Touring Club Italiano GR Torino-0246.tif"
+  ],
+  "kinds": {
+   "File:Turin. The Mole Antonelliana, section as of 1973 2009 - Touring Club Italiano GR Torino-0246.tif": "Section"
+  },
+  "why": "Elevation-section of the Mole Antonelliana from the Touring Club guide (the file says 'section as of 1873'); line drawing on a pale pink background."
+ },
+ {
+  "id": "sun-yat-sen-mausoleum",
+  "add": [
+   "File:Lu Yanzhi's Design of Sun Yat-sen's Mausoleum 2.jpg"
+  ],
+  "kinds": {
+   "File:Lu Yanzhi's Design of Sun Yat-sen's Mausoleum 2.jpg": "Drawing"
+  },
+  "why": "Lu Yanzhi's own design rendering of the memorial hall and stairs."
+ },
+ {
+  "id": "nakagin-capsule-tower",
+  "add": [
+   "File:Nakaginshaft.jpg"
+  ],
+  "kinds": {
+   "File:Nakaginshaft.jpg": "Plan"
+  },
+  "why": "Floor plan of the tower redrawn from the original design drawings (small file, 489x723, but clean)."
+ },
+ {
+  "id": "royal-palace-amsterdam",
+  "add": [
+   "File:Goetghebuer - 1827 - Choix des monuments - 059 Plan Palais Royal Amsterdam.jpg"
+  ],
+  "kinds": {
+   "File:Goetghebuer - 1827 - Choix des monuments - 059 Plan Palais Royal Amsterdam.jpg": "Plan"
+  },
+  "why": "Engraved ground plan of the Royal Palace in Amsterdam (Goetghebuer, 1827)."
+ },
+ {
+  "id": "stazione-di-milano-centrale",
+  "add": [
+   "File:Pianta FV Milano Centrale.jpg"
+  ],
+  "kinds": {
+   "File:Pianta FV Milano Centrale.jpg": "Plan"
+  },
+  "why": "Plan of the station building at platform level."
+ },
+ {
+  "id": "barcelona-pavilion",
+  "add": [
+   "File:Plan Barcelona Pavillon.png"
+  ],
+  "kinds": {
+   "File:Plan Barcelona Pavillon.png": "Plan"
+  },
+  "why": "Floor plan of the Barcelona Pavilion (modern redrawing, SketchUp, clear)."
+ },
+ {
+  "id": "djinguereber-mosque",
+  "add": [
+   "File:Gezicht op en plattegrond van de Djinguereber-moskee te Timboektoe, RP-P-2018-3756.jpg"
+  ],
+  "kinds": {
+   "File:Gezicht op en plattegrond van de Djinguereber-moskee te Timboektoe, RP-P-2018-3756.jpg": "Plan"
+  },
+  "why": "Rijksmuseum print after Caillie: elevation view and plan of the Djinguereber Mosque."
+ },
+ {
+  "id": "wollaton-hall",
+  "add": [
+   "File:Wollaton Hall - plan.png",
+   "File:Wollaton Hall ground plan, 1901.jpg",
+   "File:Wollaton Hall plan.jpg"
+  ],
+  "kinds": {
+   "File:Wollaton Hall - plan.png": "Plan",
+   "File:Wollaton Hall ground plan, 1901.jpg": "Plan",
+   "File:Wollaton Hall plan.jpg": "Plan"
+  },
+  "why": "Three plans of Wollaton Hall: clean ground plan, 1901 ground plan, and Smithson's plan with the garden layout (the last two are scans of printed pages)."
+ },
+ {
+  "id": "shah-mosque-isfahan",
+  "add": [
+   "File:Masjid Shah, General Plan by Pascal Coste.jpg"
+  ],
+  "kinds": {
+   "File:Masjid Shah, General Plan by Pascal Coste.jpg": "Plan"
+  },
+  "why": "Pascal Coste's general plan of the Masjid-e Shah."
+ },
+ {
+  "id": "robie-house",
+  "add": [
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 1 of 1).tif",
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 14).png",
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 10).png"
+  ],
+  "kinds": {
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 1 of 1).tif": "Drawing",
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 14).png": "Section",
+   "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 10).png": "Drawing"
+  },
+  "why": "HABS measured drawings of the Robie House: column/axonometric detail sheet, a section-and-plan sheet (sheet 10 of 14), window and art-glass details. Duplicates (.tif of the same sheets, cover sheet) left out; kinds of d6 judged from the thumbnail only."
+ },
+ {
+  "id": "grand-palais",
+  "add": [
+   "File:Plan of space for Wellcome exhibits, Paris 1937 Wellcome M0004548.jpg"
+  ],
+  "kinds": {
+   "File:Plan of space for Wellcome exhibits, Paris 1937 Wellcome M0004548.jpg": "Plan"
+  },
+  "why": "Plan of the lower ground floor of the Grand Palais (1937 exhibition plan, Wellcome Collection); category is 'Plans of the Grand Palais'. Moderately sure it shows the whole building; the other five candidates are paintings/drawings of art history murals, not architecture."
+ }
+]
