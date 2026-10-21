@@ -1,0 +1,3917 @@
+[
+ {
+  "key": "hub:style:brutalism",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Brutalism",
+    "url": "https://www.britannica.com/art/Brutalism-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Clear definition, origins and key buildings",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "RIBA",
+    "title": "Brutalism in Architecture: Origins, Features & Legacy",
+    "url": "https://www.architecture.com/explore-architecture/brutalism",
+    "kind": "overview",
+    "paid": false,
+    "why": "British institute's concise style guide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "V&A",
+    "title": "A (fun) beginners' guide to Brutalism",
+    "url": "https://www.vam.ac.uk/articles/a-beginners-guide-to-brutalism",
+    "kind": "guide",
+    "paid": false,
+    "why": "Friendly museum introduction with examples",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "A season dedicated to Brutalism and Brutalist architecture",
+    "url": "https://www.dezeen.com/2015/10/16/brutalism-guide-brutalist-buildings-20th-century-architecture-movement/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Illustrated tour of the movement",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Troubles in Theory V: the Brutalist moment(s)",
+    "url": "https://www.architectural-review.com/essays/brutalism/troubles-in-theory-v-the-brutalist-moments",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical history of where Brutalism came from",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "The New Brutalism by Reyner Banham",
+    "url": "https://www.architectural-review.com/archive/the-new-brutalism-by-reyner-banham",
+    "kind": "essay",
+    "paid": false,
+    "why": "Banham's original text that named the style",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "SOS Brutalism",
+    "title": "#SOSBrutalism",
+    "url": "https://www.sosbrutalism.org/cms/15802395",
+    "kind": "museum",
+    "paid": false,
+    "why": "Global database of concrete buildings at risk",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Brutalism & Brutalist architecture: the most famous brutalist buildings",
+    "url": "https://www.domusweb.it/en/movements/brutalism.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Key buildings and architects, worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "The finest brutalist architecture in the world",
+    "url": "https://www.wallpaper.com/architecture/brutalist-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Photo guide to icons across continents",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Brutalism: The Architecture Style We Love to Love",
+    "url": "https://www.archdaily.com/957201/brutalism-the-architecture-style-we-love-to-love",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why the style divides and endures",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Building the Brutal",
+    "url": "https://artsandculture.google.com/story/building-the-brutal-barbican-centre/aQUR5-kgbg5mIQ?hl=en",
+    "kind": "museum",
+    "paid": false,
+    "why": "Story of the Barbican, Brutalism's London icon",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Concrete poetry by Jonathan Meades",
+    "url": "https://www.architectsjournal.co.uk/news/concrete-poetry-by-jonathan-meades",
+    "kind": "news",
+    "paid": false,
+    "why": "Meades on the style's poetry and politics",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Metropolis",
+    "title": "What's It Take to Preserve a Brutalist Building?",
+    "url": "https://metropolismag.com/ideas/preservation/what-it-takes-preserve-brutalist-building",
+    "kind": "essay",
+    "paid": false,
+    "why": "Preservation debates around concrete landmarks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Smithsonian Magazine",
+    "title": "Washingtonians Love to Hate Brutalist Architecture. But What If We Could Fix It?",
+    "url": "https://www.smithsonianmag.com/smart-news/washingtonians-love-to-hate-brutalist-architecture-but-what-if-we-could-fix-it-180984968/",
+    "kind": "news",
+    "paid": false,
+    "why": "US view on loving and reusing Brutalism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "The Most Hated (and loved) Architecture in History",
+    "url": "https://www.youtube.com/watch?v=UhdIEq_h0es",
+    "kind": "video",
+    "paid": false,
+    "why": "Video history from Unite to Robin Hood Gardens",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Brutalist architecture",
+    "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:modernism",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Western architecture - Modernism, Skyscrapers, Urbanism",
+    "url": "https://www.britannica.com/art/Western-architecture/20th-century-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Authoritative account of early modernism",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "RIBA",
+    "title": "Modernism architecture style guide",
+    "url": "https://www.riba.org/explore/riba-collections/architectural-styles/modernism-movement/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Concise guide with British context",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Getty",
+    "title": "What Is Modern Architecture, Anyway?",
+    "url": "https://www.getty.edu/news/what-is-modern-architecture-anyway/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Getty's plain answer to a big question",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Tate",
+    "title": "International style",
+    "url": "https://www.tate.org.uk/art/art-terms/i/international-style",
+    "kind": "overview",
+    "paid": false,
+    "why": "Short art-term definition",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "A Brief History of The International Style",
+    "url": "https://www.archdaily.com/997425/a-brief-history-of-the-international-style",
+    "kind": "essay",
+    "paid": false,
+    "why": "Timeline from 1932 MoMA show onwards",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "AD Classics: Modern Architecture International Exhibition / Philip Johnson and Henry-Russell Hitchcock",
+    "url": "https://www.archdaily.com/409918/ad-classics-modern-architecture-international-exhibition-philip-johnson-and-henry-russell-hitchcock",
+    "kind": "essay",
+    "paid": false,
+    "why": "The 1932 MoMA show that named it",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Dezeen's guide to Bauhaus architecture and design",
+    "url": "https://www.dezeen.com/2018/11/01/bauhaus-100-guide-architecture-design/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Bauhaus ideas and architects, illustrated",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo US",
+    "title": "Styles of the Modern Era",
+    "url": "https://www.docomomo-us.org/explore-modern/styles-of-the-modern-era",
+    "kind": "guide",
+    "paid": false,
+    "why": "Modern styles explained for preservation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Famous modernist architects: an ultimate guide",
+    "url": "https://www.wallpaper.com/architecture/famous-modernist-architects",
+    "kind": "guide",
+    "paid": false,
+    "why": "Who to know, with their key works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Society of Architectural Historians",
+    "title": "Rediscovering the Bauhaus at 100",
+    "url": "https://sah.org/publications/sah-blog/blog-detail/sah-blog/2019/11/12/rediscovering-the-bauhaus-at-100",
+    "kind": "essay",
+    "paid": false,
+    "why": "Historians reassess the Bauhaus legacy",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Modern Architecture Tells an Incomplete Story",
+    "url": "https://metropolismag.com/viewpoints/modern-architecture-tells-an-incomplete-story/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Challenges the canon, widens the story",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "A brief history of the curtain wall, from the Bauhaus to the glass city",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2026/04/03/%20curtain-wall-history-architecture.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Modernism's key technology traced",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Twentieth Century Society",
+    "title": "Architectural Styles II: Mid Century Modernism with Elain Harwood",
+    "url": "https://c20society.org.uk/lectures/architectural-styles-ii-mid-century-modernism-with-elain-harwood",
+    "kind": "video",
+    "paid": false,
+    "why": "Expert lecture on post-war modernisms",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Modern Movement in Architecture, CIAM, and Weissenhof Estate",
+    "url": "https://www.youtube.com/watch?v=dOsqFhDFozA",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture on CIAM and Weissenhof",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Modern architecture",
+    "url": "https://en.wikipedia.org/wiki/Modern_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:contemporary",
+  "links": [
+   {
+    "site": "ArchDaily",
+    "title": "Contemporary Architecture and the Modern City",
+    "url": "https://www.archdaily.com/1020898/contemporary-architecture-and-the-modern-city",
+    "kind": "essay",
+    "paid": false,
+    "why": "How contemporary work relates to the city",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "The best architecture of 2025",
+    "url": "https://www.dezeen.com/2025/12/04/best-architecture-2025/",
+    "kind": "news",
+    "paid": false,
+    "why": "Year's standout projects worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten of the most innovative contemporary houses from around the world",
+    "url": "https://www.dezeen.com/2025/02/12/innovative-contemporary-houses-homes-for-our-time/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Current ideas in housing, global examples",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "The 21st Century Needs Its Own Paradigm Shift in Architecture",
+    "url": "https://metropolismag.com/viewpoints/the-21st-century-needs-its-own-paradigm-shift-in-architecture/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Argues what this century's architecture needs",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Year in Review 2018: The Style of Our Time Is Reuse",
+    "url": "https://www.metropolismag.com/architecture/year-review-2018-adaptive-reuse/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Reuse as the defining approach",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "AR July/August 2025: AR New into Old",
+    "url": "https://www.architectural-review.com/essays/letters-from-the-editor/ar-july-august-2025-ar-new-into-old",
+    "kind": "essay",
+    "paid": false,
+    "why": "Editor on adaptive reuse as practice",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Reuse, reuse, reuse: How Denmark has embraced sustainable construction",
+    "url": "https://www.architectsjournal.co.uk/buildings/how-denmark-has-embraced-sustainable-construction",
+    "kind": "news",
+    "paid": false,
+    "why": "Sustainability shaping European practice",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Sustainable architecture: 43 innovative and inspiring building designs",
+    "url": "https://www.wallpaper.com/architecture/sustainable-architecture-innovation",
+    "kind": "guide",
+    "paid": false,
+    "why": "Current low-carbon buildings, worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "The Contemporary House examines life in the 21st century",
+    "url": "https://www.wallpaper.com/architecture/the-contemporary-house-thames-and-hudson-book",
+    "kind": "guide",
+    "paid": false,
+    "why": "Review of a survey of 21st-century homes",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Building Forward: How Vernacular Knowledge Is Shaping Contemporary Architecture",
+    "url": "https://www.archdaily.com/1042710/building-forward-how-vernacular-knowledge-is-shaping-contemporary-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "Local materials and methods in current work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Our Hopes for the Built Environment in 2026",
+    "url": "https://metropolismag.com/viewpoints/our-hopes-for-the-built-environment-in-2026/",
+    "kind": "news",
+    "paid": false,
+    "why": "Where practice may head next",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "International architecture awards: which are the most important and how to participate",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2024/11/14/the-most-important-architecture-prizes-and-how-to-enter-them.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Map of the prizes shaping the field",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Contemporary architecture",
+    "url": "https://en.wikipedia.org/wiki/Contemporary_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:deconstructivism",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Western architecture - Postmodernism, Deconstruction, Post-structuralism",
+    "url": "https://www.britannica.com/art/Western-architecture/Postmodernism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopaedia account of the deconstructivist turn",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Dezeen's introduction to deconstructivist architecture",
+    "url": "https://www.dezeen.com/2022/05/03/deconstructivist-architecture-introduction/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Clear primer on origins and ideas",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Deconstructivism guide",
+    "url": "https://www.dezeen.com/deconstructivism/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Hub of profiles, buildings and interviews",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "The legacy of deconstructivism \"makes me want to retreat to the back of the room\" says Bernard Tschumi",
+    "url": "https://www.dezeen.com/2022/05/23/legacy-deconstrucitivsim-bernard-tschumi-interview/",
+    "kind": "interview",
+    "paid": false,
+    "why": "A participant looks back on the label",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Deconstructivist architecture (Johnson and Wigley, exhibition catalogue)",
+    "url": "https://www.moma.org/documents/moma_catalogue_1813_300062863.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "The 1988 exhibition catalogue itself",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "MOMA 1988 press release: Deconstructivist Architecture",
+    "url": "https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6526/releases/MOMA_1988_0029_29.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's original 1988 announcement",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "AD Classics: 1988 Deconstructivist Exhibition at New York's Museum of Modern Art (MoMA)",
+    "url": "https://www.archdaily.com/868063/ad-classics-1988-deconstructivist-exhibition-johnson-wigley-new-york-museum-of-modern-art-moma",
+    "kind": "essay",
+    "paid": false,
+    "why": "Account of the show and its seven architects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "From Deconstructivism to Barrier-Breaking Achievements: Zaha Hadid's Legacy 10 Years After Her Passing",
+    "url": "https://www.archdaily.com/1040206/from-deconstructivism-to-barrier-breaking-achievements-zaha-hadids-legacy-10-years-after-her-passing",
+    "kind": "profile",
+    "paid": false,
+    "why": "Hadid's path from the 1988 show",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Deconstructivism",
+    "url": "https://www.archdaily.com/tag/deconstructivism",
+    "kind": "guide",
+    "paid": false,
+    "why": "Buildings and articles on the style",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Deconstructivism, the Kamikaze Mission?",
+    "url": "https://metropolismag.com/programs/deconstructivism-the-kamikaze-mission/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Wigley on why it was not an ism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Who Was Günther Domenig, the Unknown Deconstructivist?",
+    "url": "https://metropolismag.com/profiles/who-was-gunther-domenig-the-unknown-deconstructivist/",
+    "kind": "profile",
+    "paid": false,
+    "why": "A forgotten Austrian deconstructivist",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Our guide to Daniel Libeskind and his ground-breaking, era-defining architecture",
+    "url": "https://www.wallpaper.com/architecture/daniel-libeskind-guide",
+    "kind": "profile",
+    "paid": false,
+    "why": "Libeskind's deconstructivist works, explained",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Studio Libeskind",
+    "title": "Deconstructivist Architecture, Museum of Modern Art, New York City",
+    "url": "https://libeskind.com/publishing/deconstructivist-architecture/",
+    "kind": "profile",
+    "paid": false,
+    "why": "A participant's page on the 1988 show",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Rem Koolhaas: architecture, projects & biography",
+    "url": "https://www.domusweb.it/en/biographies/rem-koolhaas.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "One of the seven, with key projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "EBSCO Research Starters",
+    "title": "Deconstructivists Exhibit at the Museum of Modern Art",
+    "url": "https://www.ebsco.com/research-starters/visual-arts/deconstructivists-exhibit-museum-modern-art",
+    "kind": "overview",
+    "paid": false,
+    "why": "Neutral summary of the exhibition",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Deconstructivism",
+    "url": "https://en.wikipedia.org/wiki/Deconstructivism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:parametric",
+  "links": [
+   {
+    "site": "Dezeen",
+    "title": "Parametricism guide",
+    "url": "https://www.dezeen.com/parametricism/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Dezeen's 2026 hub on the style",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "A simple guide to parametricism",
+    "url": "https://www.dezeen.com/2026/05/06/parametricism-simple-guide/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Plain introduction to origins and method",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Parametricism is the architecture \"of neoliberalism itself\"",
+    "url": "https://www.dezeen.com/2026/05/05/parametricism-introduction-owen-hopkins/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Owen Hopkins on parametricism's politics",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Parametric architecture",
+    "url": "https://domusweb.it/en/movements/parametric-architecture.html",
+    "kind": "overview",
+    "paid": false,
+    "why": "Characteristics and key buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "e-flux Architecture",
+    "title": "Mario Carpo - A short but believable history of the digital turn in architecture",
+    "url": "https://www.e-flux.com/architecture/chronograms/528659/a-short-but-believable-history-of-the-digital-turn-in-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "Historian traces computing's role in design",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Patrik Schumacher",
+    "title": "Parametricism and the Autopoiesis of Architecture",
+    "url": "https://patrikschumacher.com/parametricism-and-the-autopoiesis-of-architecture/",
+    "kind": "essay",
+    "paid": false,
+    "why": "The theorist's own argument, with debate",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Patrik Schumacher",
+    "title": "Lectures",
+    "url": "https://patrikschumacher.com/lectures/",
+    "kind": "video",
+    "paid": false,
+    "why": "Recorded talks by the style's main proponent",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "How Parametricism Can Rebuild War-Torn Cities: A Lecture by Patrik Schumacher",
+    "url": "https://www.youtube.com/watch?v=KNPnACnZq9g",
+    "kind": "video",
+    "paid": false,
+    "why": "Schumacher applies the idea to cities",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Parametricism by Patrik Schumacher and Rosey Chan",
+    "url": "https://www.youtube.com/watch?v=7ZN-CGXZqD4",
+    "kind": "video",
+    "paid": false,
+    "why": "Schumacher explains the style in conversation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Zaha Hadid Architects",
+    "title": "Global Cities",
+    "url": "https://www.zaha-hadid.com/design/global-cities/",
+    "kind": "museum",
+    "paid": false,
+    "why": "ZHA's early parametric urbanism research",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Parametric Design Process",
+    "url": "https://artsandculture.google.com/story/parametric-design-process-ddp/owWRhYcMvpu2Jw?hl=en",
+    "kind": "guide",
+    "paid": false,
+    "why": "Visual walk-through of the design process",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Parametric Design",
+    "url": "https://www.archdaily.com/tag/parametric-design",
+    "kind": "guide",
+    "paid": false,
+    "why": "Projects and articles on parametric work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Error 404: Architectural Memory in the Age of Algorithms",
+    "url": "https://www.archdaily.com/1038820/error-404-architectural-memory-in-the-age-of-algorithms",
+    "kind": "essay",
+    "paid": false,
+    "why": "Algorithms, memory and architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Daniel Davis",
+    "title": "Patrik Schumacher parametricism",
+    "url": "https://danieldavis.com/patrik-schumacher-parametricism",
+    "kind": "essay",
+    "paid": false,
+    "why": "A critical practitioner reads the manifesto",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Revista Vírus (USP)",
+    "title": "The Parametricism manifest: prospects about a \"new global style\" for architectural design and urban planning",
+    "url": "https://revistas.usp.br/virus/article/view/228650",
+    "kind": "essay",
+    "paid": false,
+    "why": "Academic reading of the manifesto",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Parametric architecture",
+    "url": "https://en.wikipedia.org/wiki/Parametric_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:high-tech",
+  "links": [
+   {
+    "site": "RIBA",
+    "title": "High Tech Architecture: Origins, Features & Legacy",
+    "url": "https://www.riba.org/explore/riba-collections/architectural-styles/high-tech-movement/",
+    "kind": "overview",
+    "paid": false,
+    "why": "British institute's concise style guide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "High-tech architecture",
+    "url": "https://www.dezeen.com/2019/11/04/high-tech-architecture-guide/amp/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Illustrated guide to the movement",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Domus",
+    "title": "High-Tech architecture. Characteristics and buildings",
+    "url": "https://www.domusweb.it/en/movements/high-tech.html",
+    "kind": "overview",
+    "paid": false,
+    "why": "Features and key buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "The evolution of High-Tech architecture, from the Centre Pompidou to Norman Foster",
+    "url": "https://www.domusweb.it/en/architecture/2026/10/06/high-tech-evolution-architecture-from-centre-pompidou-to-norman-foster.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "How the style changed since the 1970s",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Explore High Tech architecture with our guide",
+    "url": "https://www.wallpaper.com/architecture/high-tech-architecture-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "Pioneers and landmark buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Revisiting the True Meaning of \"High Tech\" Architecture",
+    "url": "https://metropolismag.com/viewpoints/superstructures-high-tech-architecture/",
+    "kind": "essay",
+    "paid": false,
+    "why": "What the label really meant",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "High-Tech: another British thoroughbred",
+    "url": "https://www.architectural-review.com/archive/viewpoints/high-tech-another-british-thoroughbred/8604479.article",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critic on high-tech's British roots",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Retelling the fairytale of High Tech",
+    "url": "https://www.architectsjournal.co.uk/news/opinion/retelling-the-fairytale-of-high-tech",
+    "kind": "essay",
+    "paid": false,
+    "why": "Review of the Superstructures exhibition",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "6 Incredible High-Tech Buildings",
+    "url": "https://artsandculture.google.com/story/6-incredible-high-tech-buildings/zgXxFDcIYC_seQ?hl=en",
+    "kind": "guide",
+    "paid": false,
+    "why": "Six landmark examples, illustrated",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "High-tech architecture: Richard Rogers",
+    "url": "https://www.dezeen.com/2019/11/06/richard-rogers-high-tech-architecture/amp/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Rogers' inside-out approach",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Renzo Piano is the Italian high-tech architect",
+    "url": "https://www.dezeen.com/2019/11/26/renzo-piano-high-tech-architecture/amp/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Piano's place in the movement",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Britannica",
+    "title": "Richard Rogers",
+    "url": "https://www.britannica.com/biography/Richard-Rogers",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography of a high-tech pioneer",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Icon",
+    "title": "The high-tech inside-out design of Richard Rogers",
+    "url": "https://www.iconeye.com/architecture/the-high-tech-inside-out-design-of-richard-rogers-2",
+    "kind": "profile",
+    "paid": false,
+    "why": "Rogers' major works discussed",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Richard Rogers interview: Pompidou Centre \"captured the revolutionary spirit of 1968\"",
+    "url": "https://www.youtube.com/watch?v=ug8cUl-xX88",
+    "kind": "interview",
+    "paid": false,
+    "why": "Rogers on the Pompidou Centre",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Richard Rogers and Renzo Piano with Alan Rusbridger",
+    "url": "https://www.youtube.com/watch?v=f7B-VmkZ-jA",
+    "kind": "video",
+    "paid": false,
+    "why": "Both designers in conversation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "High-tech architecture",
+    "url": "https://en.wikipedia.org/wiki/High-tech_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:postmodernism",
+  "links": [
+   {
+    "site": "Dezeen",
+    "title": "The Dezeen guide to Postmodern architecture and design",
+    "url": "https://www.dezeen.com/2015/07/23/guide-to-postmodern-architecture-design-glenn-adamson/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Illustrated guide with Glenn Adamson",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "AD Essentials: Postmodernism",
+    "url": "https://www.archdaily.com/769368/ad-essentials-postmodernism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Key ideas and buildings in brief",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "What Is Postmodernism?",
+    "url": "https://www.archdaily.com/964625/what-is-postmodernism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Plain definition for students",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Postmodern Architecture. Works & main Postmodern figures",
+    "url": "https://www.domusweb.it/en/movements/postmodernism.html",
+    "kind": "overview",
+    "paid": false,
+    "why": "Works and key figures",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Western architecture - Postmodernism, Deconstruction, Post-structuralism",
+    "url": "https://www.britannica.com/art/Western-architecture/Postmodernism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopaedia account of the shift",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Britannica",
+    "title": "Robert Venturi and Denise Scott Brown",
+    "url": "https://www.britannica.com/biography/Robert-Venturi-and-Denise-Scott-Brown",
+    "kind": "profile",
+    "paid": false,
+    "why": "The movement's founding architects",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "V&A",
+    "title": "Postmodernism",
+    "url": "https://www.vam.ac.uk/collections/postmodernism",
+    "kind": "museum",
+    "paid": false,
+    "why": "V&A's postmodernism collection and exhibition",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Postmodern architecture: from Las Vegas to Japan",
+    "url": "https://www.wallpaper.com/gallery/architecture/postmodern-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Worldwide tour of postmodern buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Postmodernism redux",
+    "url": "https://www.architectsjournal.co.uk/practice/culture/postmodernism-redux",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why Po-Mo is back in view",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Postmodernism post-mortem",
+    "url": "https://www.architectsjournal.co.uk/practice/culture/postmodernism-post-mortem",
+    "kind": "essay",
+    "paid": false,
+    "why": "Questions the story of modernism's end",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Metropolis",
+    "title": "Charles Jencks Tried to Make Sense of Architecture in a Messy Time",
+    "url": "https://metropolismag.com/profiles/charles-jencks-mcmansion-hell/",
+    "kind": "profile",
+    "paid": false,
+    "why": "The movement's chief theorist",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Twentieth Century Society",
+    "title": "Charles Jencks",
+    "url": "https://c20society.org.uk/obituaries/charles-jencks",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Obituary of the theorist",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "La Strada Novissima: The 1980 Venice Biennale",
+    "url": "https://www.domusweb.it/en/from-the-archive/2012/08/25/-em-la-strada-novissima-em--the-1980-venice-biennale.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "The Biennale show that launched Po-Mo",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Playful and Ironic: The Legacy of Postmodernist Architecture in the United States",
+    "url": "https://www.archdaily.com/1038681/playful-and-ironic-the-legacy-of-postmodernist-architecture-in-the-united-states",
+    "kind": "essay",
+    "paid": false,
+    "why": "US legacy of the style",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Less is a Bore book celebrates \"postmodern architecture in all its forms\"",
+    "url": "https://www.dezeen.com/2020/02/14/less-bore-book-celebrates-postmodern-architecture-forms/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Book tour of postmodern buildings worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo US",
+    "title": "The '70s Turn 50: Divergences in American Architecture",
+    "url": "https://www.docomomo-us.org/news/the-70s-turn-50-divergences-in-american-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "How 1970s US architecture split",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Postmodern architecture",
+    "url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:art-deco",
+  "links": [
+   {
+    "site": "RIBA",
+    "title": "Art Deco Architecture: Origins, Features & Legacy",
+    "url": "https://www.architecture.com/explore-architecture/art-deco",
+    "kind": "overview",
+    "paid": false,
+    "why": "British institute's concise style guide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "A really quick guide to art deco",
+    "url": "https://www.dezeen.com/2025/03/03/art-deco-guide/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Fast introduction for the centenary",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Fifteen of America's most significant art deco buildings",
+    "url": "https://www.dezeen.com/2025/03/12/significant-art-deco-buildings-usa-art-deco-centenary/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Landmark US deco towers",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Everything you need to know about art deco design",
+    "url": "https://www.dezeen.com/2025/04/29/everything-you-need-to-know-about-art-deco-video/",
+    "kind": "video",
+    "paid": false,
+    "why": "Short video explainer",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "What is Art Deco Architecture?",
+    "url": "https://www.archdaily.com/972018/what-is-art-deco-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Features and key examples",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Art Deco architecture around the world: the ultimate guide",
+    "url": "https://www.wallpaper.com/architecture/art-deco-architecture-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "Deco buildings across continents",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "V&A",
+    "title": "An introduction to Art Deco",
+    "url": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco",
+    "kind": "overview",
+    "paid": false,
+    "why": "Museum introduction to the style",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Miami Design Preservation League",
+    "title": "10 Styles of Art Deco Worldwide",
+    "url": "https://mdpl.org/news/2023/05/10-styles-of-art-deco-worldwide/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Regional deco variations around the world",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "The Exhibition That Started An International Style: Art Deco",
+    "url": "https://metropolismag.com/architecture/exhibition-started-international-style-art-deco",
+    "kind": "essay",
+    "paid": false,
+    "why": "The 1925 Paris exposition retold",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Art Deco",
+    "url": "https://www.domusweb.it/en/art/2013/10/23/art_da_co.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Paris 1925 and architecture as brand",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Art Deco",
+    "url": "https://kids.britannica.com/scholars/article/Art-Deco/9661",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopaedia entry on the style",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "YouTube",
+    "title": "Art Deco High Style in the Roaring 20s",
+    "url": "https://www.youtube.com/watch?v=enuU_XaOUgM",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture on key deco buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Art Deco",
+    "url": "https://en.wikipedia.org/wiki/Art_Deco",
+    "kind": "overview",
+    "paid": false,
+    "why": "Broad reference with world examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:art-nouveau",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Art Nouveau",
+    "url": "https://www.britannica.com/art/Art-Nouveau",
+    "kind": "overview",
+    "paid": false,
+    "why": "Clear definition, key figures, regional variants",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "V&A",
+    "title": "Art Nouveau",
+    "url": "https://www.vam.ac.uk/articles/art-nouveau-an-international-style",
+    "kind": "essay",
+    "paid": false,
+    "why": "How the style spread across countries",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "What Is Art Nouveau?",
+    "url": "https://www.archdaily.com/974955/what-is-art-nouveau",
+    "kind": "guide",
+    "paid": false,
+    "why": "Features, architects, key buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Art Nouveau: architecture, artists, characteristics and works",
+    "url": "https://www.domusweb.it/en/movements/art-nouveau.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "National names and landmark works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Tate",
+    "title": "Art nouveau",
+    "url": "https://www.tate.org.uk/art/art-terms/a/art-nouveau",
+    "kind": "overview",
+    "paid": false,
+    "why": "Short art-historical definition",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Art Nouveau Architecture From Around The World",
+    "url": "https://artsandculture.google.com/story/art-nouveau-architecture-from-around-the-world/HAUBeqMfl0oPJA?hl=en",
+    "kind": "guide",
+    "paid": false,
+    "why": "Photo tour of Art Nouveau cities",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "visit.brussels",
+    "title": "10 must-visit Art Nouveau houses and mansions in Brussels",
+    "url": "https://www.visit.brussels/en/visitors/what-to-do/10-must-visit-art-nouveau-houses-and-mansions-in-brussels",
+    "kind": "guide",
+    "paid": false,
+    "why": "Where the style began, house by house",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "UNESCO World Heritage Centre",
+    "title": "Major Town Houses of the Architect Victor Horta (Brussels)",
+    "url": "https://whc.unesco.org/en/list/1005/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Why Horta's townhouses are World Heritage",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Western architecture: Art Nouveau",
+    "url": "https://www.britannica.com/art/Western-architecture/Art-Nouveau",
+    "kind": "essay",
+    "paid": false,
+    "why": "The style within architectural history",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "V&A",
+    "title": "Art Nouveau collection",
+    "url": "https://www.vam.ac.uk/collections/art-nouveau",
+    "kind": "museum",
+    "paid": false,
+    "why": "Objects and drawings from the movement",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Art Nouveau",
+    "url": "https://artsandculture.google.com/story/0gURpSTgaCIyIQ",
+    "kind": "guide",
+    "paid": false,
+    "why": "Visual story of the movement",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Art Nouveau",
+    "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
+    "kind": "overview",
+    "paid": false,
+    "why": "Detailed reference with national variants",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikimedia Commons",
+    "title": "Category: Art Nouveau architecture",
+    "url": "https://commons.wikimedia.org/wiki/Category:Art_Nouveau_architecture",
+    "kind": "museum",
+    "paid": false,
+    "why": "Free photos of Art Nouveau buildings",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:style:regionalism",
+  "links": [
+   {
+    "site": "The Architectural Review",
+    "title": "Critical Regionalism for our time",
+    "url": "https://www.architectural-review.com/essays/critical-regionalism-for-our-time",
+    "kind": "essay",
+    "paid": false,
+    "why": "Frampton's idea restated for today",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "What is critical regionalism?",
+    "url": "https://www.archdaily.com/1122001/what-is-critical-regionalism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Plain explanation of the idea",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Re-evaluating Critical Regionalism: An Architecture of the Place",
+    "url": "https://www.archdaily.com/966401/re-evaluating-critical-regionalism-an-architecture-of-the-place",
+    "kind": "essay",
+    "paid": false,
+    "why": "Origins, principles and criticism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Resisting Postmodern Architecture: Critical Regionalism before Globalisation",
+    "url": "https://www.archdaily.com/1009772/resisting-postmodern-architecture-critical-regionalism-before-globalisation",
+    "kind": "essay",
+    "paid": false,
+    "why": "Intellectual history of the movement",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Can Local Architecture Help Cure the Ills of Globalism?",
+    "url": "https://metropolismag.com/viewpoints/can-local-architecture-help-cure-the-ills-of-globalism/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Regionalism's relevance today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Critical regionalism (1983), Kenneth Frampton fonds",
+    "url": "https://www.cca.qc.ca/en/archives/470921/kenneth-frampton-fonds/479679/works-and-teaching/479689/critical-regionalism-1983",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive material behind the essay",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Kenneth Frampton's critical regionalism put in practice",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2020/09/30/slanted-house-the-installation-emphasizing-the-relation-between-house-and-landscape.html",
+    "kind": "news",
+    "paid": false,
+    "why": "The theory shown in a built example",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "JSTOR / UCL Press",
+    "title": "Resisting Postmodern Architecture: Critical Regionalism before Globalisation",
+    "url": "https://www.jstor.org/stable/j.ctv1v090hv",
+    "kind": "essay",
+    "paid": false,
+    "why": "Open-access book on the theory",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Hassan Fathy (1900-1989)",
+    "url": "https://www.architectural-review.com/essays/reputations/hassan-fathy-1900-1989",
+    "kind": "profile",
+    "paid": false,
+    "why": "A key regionalist from Egypt",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Pritzker Architecture Prize",
+    "title": "Luis Barragan",
+    "url": "https://www.pritzkerprize.com/laureates/1980",
+    "kind": "profile",
+    "paid": false,
+    "why": "Mexican regionalist modernism",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "The first book on the philosophy and work of Hassan Fathy",
+    "url": "https://www.wallpaper.com/architecture/hassan-fathy-book-laurence-king",
+    "kind": "profile",
+    "paid": false,
+    "why": "Building with local earth and climate",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Critical regionalism",
+    "url": "https://en.wikipedia.org/wiki/Critical_regionalism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference with architects and examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:museums",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Museum: structure and operations",
+    "url": "https://www.britannica.com/topic/museum-cultural-institution/Museum-structure-and-operations",
+    "kind": "overview",
+    "paid": false,
+    "why": "Building types and the debate over display",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten architecturally significant museums designed by famous studios",
+    "url": "https://www.dezeen.com/2023/05/18/museums-architecture-roundup/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Landmark museum buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "50 famous museums in the world absolutely worth visiting",
+    "url": "https://www.domusweb.it/en/architecture/2024/03/22/architecture-to-know-the-50-most-important-museums-in-the-world.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Fifty key museum buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "10 must-see architecture and design museums in Europe",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2024/12/09/must-see-design-architecture-museums-europe.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "European museum buildings to visit",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Museum",
+    "url": "https://www.architectural-review.com/buildings/museum",
+    "kind": "guide",
+    "paid": false,
+    "why": "AR's museum building studies and essays",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "The museum question",
+    "url": "https://www.architectsjournal.co.uk/archive/the-museum-question",
+    "kind": "essay",
+    "paid": false,
+    "why": "Should the building outshine the art?",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Museum Architecture",
+    "url": "https://www.archdaily.com/tag/museum-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Stream of museum projects and essays",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Archiving the Technosphere: How Museum Architecture Mediates Human-Made Systems",
+    "url": "https://www.archdaily.com/1039369/archiving-the-technosphere-how-museum-architecture-mediates-human-made-systems",
+    "kind": "essay",
+    "paid": false,
+    "why": "A recent critical look at museum design",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Museum architecture",
+    "url": "https://en.wikipedia.org/wiki/Museum_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference with notable museums",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:houses",
+  "links": [
+   {
+    "site": "Dezeen",
+    "title": "Twelve houses designed by world-famous architects",
+    "url": "https://www.dezeen.com/2022/11/10/houses-world-famous-architects-roundups/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Famous houses by famous names",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Famous modernist architects: an ultimate guide",
+    "url": "https://www.wallpaper.com/architecture/famous-modernist-architects",
+    "kind": "guide",
+    "paid": false,
+    "why": "Who built modernism's key houses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "50 Most Popular Houses",
+    "url": "https://www.archdaily.com/875619/50-most-popular-houses",
+    "kind": "guide",
+    "paid": false,
+    "why": "Widely read house case studies",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Tour Los Angeles' finest modernist houses",
+    "url": "https://www.wallpaper.com/architecture/residential/modernist-houses-los-angeles",
+    "kind": "guide",
+    "paid": false,
+    "why": "Case Study era and beyond",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Tour 21 lesser-known modernist houses in Europe",
+    "url": "https://www.wallpaper.com/architecture/residential/21-lesser-known-modernist-houses-in-europe",
+    "kind": "guide",
+    "paid": false,
+    "why": "European modernist houses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten of the most innovative contemporary houses from around the world",
+    "url": "https://www.dezeen.com/2025/02/12/innovative-contemporary-houses-homes-for-our-time/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Contemporary houses, worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Dezeen's guide to mid-century modern design from A to Z",
+    "url": "https://www.dezeen.com/2024/11/01/dezeen-guide-mid-century-modern-design-a-to-z/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Mid-century houses and designers",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Museum of Modern Art",
+    "title": "Creative Living: Residential Architecture in MoMA's Collection",
+    "url": "https://www.moma.org/momaorg/shared/pdfs/moma_learning/docs/CL_Full.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "Houses and drawings from MoMA's collection",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Getty",
+    "title": "Overdrive: L.A. Constructs the Future, 1940-1990",
+    "url": "https://www.getty.edu/art/exhibitions/overdrive/residential_fabric.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "Los Angeles and the modern house",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Case Study Houses",
+    "url": "https://en.wikipedia.org/wiki/Case_Study_Houses",
+    "kind": "overview",
+    "paid": false,
+    "why": "The California house experiment",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:libraries",
+  "links": [
+   {
+    "site": "Wallpaper*",
+    "title": "Library architecture & design: a worldwide guide",
+    "url": "https://www.wallpaper.com/gallery/architecture/worlds-most-beautiful-libraries",
+    "kind": "guide",
+    "paid": false,
+    "why": "Libraries worth travelling for",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "150 Libraries you need to visit before you die",
+    "url": "https://www.wallpaper.com/design-interiors/worlds-best-libraries",
+    "kind": "guide",
+    "paid": false,
+    "why": "Book review of a global library survey",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Eight striking libraries that are bound to impress",
+    "url": "https://www.dezeen.com/2019/05/04/libraries-interiors-roundups/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Striking library interiors",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "12 libraries for the new millennium",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2022/09/14/12-libraries-against-the-spiritual-winter.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Recent libraries around the world",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Typology: Libraries",
+    "url": "https://architectural-review.com/essays/typology/typology-libraries/8621638.article",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical history of the building type",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Light and enlightenment: libraries in Finnish cultural identity",
+    "url": "https://architectural-review.com/essays/light-and-enlightenment-libraries-in-finnish-cultural-identity",
+    "kind": "essay",
+    "paid": false,
+    "why": "Aalto to Oodi",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Reading Rooms: Photographs of World Libraries",
+    "url": "https://www.architectural-review.com/view/reviews/reading-rooms-photographs-of-world-libraries/8656217.article",
+    "kind": "essay",
+    "paid": false,
+    "why": "Libraries seen as interiors",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Metropolis",
+    "title": "The Unexpected Renaissance of the Public Library",
+    "url": "https://metropolismag.com/projects/unexpected-renaissance-public-library/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why new libraries keep being built",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Continuing Education: Next-Gen Libraries",
+    "url": "https://www.architecturalrecord.com/articles/18431-continuing-education-next-gen-libraries",
+    "kind": "essay",
+    "paid": false,
+    "why": "Library design for the 21st century",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Civic Architecture Comes Down to Earth",
+    "url": "https://www.architecturalrecord.com/articles/11209-civic-architecture-comes-down-to-earth",
+    "kind": "essay",
+    "paid": false,
+    "why": "Public libraries as civic buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Smithsonian Magazine",
+    "title": "Discover These 15 Enchanting Libraries",
+    "url": "https://www.smithsonianmag.com/arts-culture/book-lovers-can-explore-these-15-enchanting-libraries-180986213/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Fifteen great libraries to visit",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Libraries",
+    "url": "https://www.dezeen.com/tag/libraries/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Dezeen's library projects and news",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Library",
+    "url": "https://en.wikipedia.org/wiki/Library",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference on libraries through history",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:pavilions",
+  "links": [
+   {
+    "site": "Serpentine",
+    "title": "History of the Pavilion",
+    "url": "https://www.serpentinegalleries.org/home/history-of-the-pavilion/",
+    "kind": "museum",
+    "paid": false,
+    "why": "The commission that made pavilions famous",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Dezeen's guide to Serpentine Gallery Pavilions",
+    "url": "https://www.dezeen.com/2012/06/05/dezeens-guide-to-serpentine-gallery-pavilions/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Pavilion by pavilion, from 2000",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "From Zaha Hadid to today, 25 years of Serpentine Pavilions",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2025/06/05/serpentine-pavilion-history-marina-tabassum-2025.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Quarter-century survey",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Round-Up: The Serpentine Pavilion Through the Years",
+    "url": "https://www.archdaily.com/790106/round-up-the-serpentine-pavilion-through-the-years",
+    "kind": "guide",
+    "paid": false,
+    "why": "Every pavilion in one place",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Life after Serpentine: Second Lives of Architecture's Famed Pavilions",
+    "url": "https://www.archdaily.com/903223/life-after-serpentine-second-lives-of-some-of-architectures-famed-pavilions",
+    "kind": "essay",
+    "paid": false,
+    "why": "What happens when a pavilion moves",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Pavilions from World Expos 1851-2021",
+    "url": "https://artsandculture.google.com/story/pavilions-from-world-expos-1851-2021/8gXB5ZWjmuyElg",
+    "kind": "guide",
+    "paid": false,
+    "why": "Expo pavilions across 170 years",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "World's fair",
+    "url": "https://www.britannica.com/topic/worlds-fair",
+    "kind": "overview",
+    "paid": false,
+    "why": "Where the pavilion tradition began",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Museum of Modern Art",
+    "title": "Exposition architecture (1936)",
+    "url": "https://assets.moma.org/documents/moma_catalogue_2095_300061903.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's survey of exposition buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "La Biennale di Venezia",
+    "title": "Giardini della Biennale",
+    "url": "https://www.labiennale.org/en/venues/giardini-della-biennale",
+    "kind": "museum",
+    "paid": false,
+    "why": "Venice's garden of national pavilions",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten stand-out pavilions at the Venice Architecture Biennale",
+    "url": "https://www.dezeen.com/2025/05/09/venice-architecture-biennale-best-pavilions/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Temporary national pavilions today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Top Pavilions to See at the Venice Architecture Biennale 2025",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2025/05/08/biennale-venice-2025-best-pavilions-gardens-arsenal.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Biennale pavilions in the Giardini",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Pick of the Pavilions at 2023's Venice Biennale",
+    "url": "https://www.architectsjournal.co.uk/news/pick-of-the-pavilions-at-2023s-venice-biennale",
+    "kind": "news",
+    "paid": false,
+    "why": "Critics' picks of the pavilions",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Pavilion",
+    "url": "https://en.wikipedia.org/wiki/Pavilion",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference on the building type",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:housing",
+  "links": [
+   {
+    "site": "Dezeen",
+    "title": "Ten modernist council estates that made a vital contribution to London's architecture",
+    "url": "https://www.dezeen.com/2024/03/13/london-estates-book-modernist-council-housing-social-housing-revival/",
+    "kind": "guide",
+    "paid": false,
+    "why": "London's key council estates",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Fifty architecture studios leading the social housing revival",
+    "url": "https://www.dezeen.com/2024/04/05/50-architecture-studios-social-housing-revival/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Who is building housing now",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Social housing has become a matter of enclaves and micro-sites",
+    "url": "https://www.dezeen.com/2024/03/18/peter-barber-owen-hatherley-opinion-social-housing-revival/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Peter Barber and Owen Hatherley in conversation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "6 Radical Experiments in Social Housing Exhibited by the RIBA and V&A",
+    "url": "https://www.archdaily.com/905948/6-radical-experiments-in-social-housing-exhibited-by-the-riba-and-v-and-a",
+    "kind": "guide",
+    "paid": false,
+    "why": "Six landmark housing experiments",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The Rise and Fall of Danchi, Japan's Largest Social Housing Experiment",
+    "url": "https://www.archdaily.com/933829/the-rise-and-fall-of-danchi-japans-largest-social-housing-experiment",
+    "kind": "essay",
+    "paid": false,
+    "why": "Mass housing in Japan",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Why Moscow's Massacre of Mass Housing Is a Huge Mistake",
+    "url": "https://www.archdaily.com/868981/why-moscows-massacre-of-mass-housing-is-a-huge-mistake",
+    "kind": "essay",
+    "paid": false,
+    "why": "The case for preserving mass housing",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Peter Barber: Reimagining Social Housing (John T. Dunlop Lecture)",
+    "url": "https://www.youtube.com/watch?v=1BgUe9z2ARM",
+    "kind": "video",
+    "paid": false,
+    "why": "An architect on dignified social housing",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "A New Era of Public Housing with Paul Karakusevic",
+    "url": "https://www.youtube.com/watch?v=DlTEVbmcOl4",
+    "kind": "video",
+    "paid": false,
+    "why": "Talk and Q&A on new council housing",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Live talk about social housing around the world with MAD Architects",
+    "url": "https://www.youtube.com/watch?v=YCRw_5S_-zw",
+    "kind": "video",
+    "paid": false,
+    "why": "Dezeen talk on housing worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Rich concepts for the poor: Social housing in the Netherlands",
+    "url": "https://www.youtube.com/watch?v=p_1jM5-mJGk",
+    "kind": "video",
+    "paid": false,
+    "why": "Dutch housing and urban development",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Public housing",
+    "url": "https://en.wikipedia.org/wiki/Public_housing",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference on public housing worldwide",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:religious-buildings",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Religious architecture",
+    "url": "https://www.britannica.com/topic/religious-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Churches, temples, mosques compared",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Britannica",
+    "title": "Islamic architecture",
+    "url": "https://www.britannica.com/topic/Islamic-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Mosque forms across the Islamic world",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Britannica",
+    "title": "8 Masterpieces of Islamic Architecture",
+    "url": "https://www.britannica.com/story/8-masterpieces-of-islamic-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Eight key Islamic buildings",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Eight modern mosques that offer a contemporary take on Islamic architecture",
+    "url": "https://www.dezeen.com/2025/09/06/modern-mosques-roundup/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Contemporary mosque design",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Worship",
+    "url": "https://www.dezeen.com/tag/worship/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Dezeen's churches, mosques and temples",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The Phenomenology of Light in Contemporary Religious Architecture",
+    "url": "https://www.archdaily.com/997853/the-phenomenology-of-light-in-contemporary-religious-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "How light shapes sacred space",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Contemporary Mosques: Using Context as Driver over Symbolism",
+    "url": "https://www.archdaily.com/1025921/contemporary-mosques-using-context-as-driver-over-symbolism",
+    "kind": "essay",
+    "paid": false,
+    "why": "Domes and minarets debated",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Spiritual Journeys: Religious Architecture in the Global South",
+    "url": "https://www.archdaily.com/1013469/spiritual-journeys-religious-architecture-in-the-global-south",
+    "kind": "guide",
+    "paid": false,
+    "why": "Sacred buildings beyond the West",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "In America, A New Religious Architecture on the Rise",
+    "url": "https://metropolismag.com/viewpoints/in-america-a-new-religious-architecture-on-the-rise/",
+    "kind": "essay",
+    "paid": false,
+    "why": "New American places of worship",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Sacred architecture",
+    "url": "https://en.wikipedia.org/wiki/Sacred_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference across faiths",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:schools-and-campuses",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "School architecture",
+    "url": "https://en.wikipedia.org/wiki/School_architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Quick history of school building design",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "V&A",
+    "title": "Modernist architecture: the Bauhaus and beyond",
+    "url": "https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond",
+    "kind": "essay",
+    "paid": false,
+    "why": "Bauhaus ideas and their spread",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Bauhaus movement. Characteristics, works of art & main figures",
+    "url": "https://www.domusweb.it/en/movements/bauhaus.html",
+    "kind": "overview",
+    "paid": false,
+    "why": "Bauhaus figures and works in brief",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Alberta Journal of Educational Research",
+    "title": "Building Paradigms: Major Transformations in School Architecture (1798-2009)",
+    "url": "https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55322/42359",
+    "kind": "essay",
+    "paid": false,
+    "why": "Two centuries of school design, summarised",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "School architecture: design scoring kudos in the classroom",
+    "url": "https://www.wallpaper.com/gallery/architecture/school-architecture-and-design",
+    "kind": "guide",
+    "paid": false,
+    "why": "Gallery of standout school buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "School architecture and interior design",
+    "url": "https://www.dezeen.com/tag/schools/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Stream of recent school projects",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "School Architecture",
+    "url": "https://www.archdaily.com/tag/school-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Hundreds of school projects worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "School Design",
+    "url": "https://www.archdaily.com/tag/school-design",
+    "kind": "guide",
+    "paid": false,
+    "why": "More school projects and articles",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "What is Bauhaus? Everything you need to know",
+    "url": "https://www.wallpaper.com/architecture/what-is-bauhaus",
+    "kind": "overview",
+    "paid": false,
+    "why": "Plain-English Bauhaus primer",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Far from Being a Temple to Rationality, the Bauhaus Was a \"Cauldron of Perversions\"",
+    "url": "https://metropolismag.com/viewpoints/bauhaus-perversions/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Colomina's sharp take on Bauhaus",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architects' Journal",
+    "title": "AJ Architecture Awards 2026 shortlists Part 4: Higher education, school and health",
+    "url": "https://www.architectsjournal.co.uk/news/aj-architecture-awards-2026-shortlists-part-4-higher-education-school-and-health",
+    "kind": "news",
+    "paid": false,
+    "why": "Current best UK school projects",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "10 College Campuses with the Best Architecture",
+    "url": "https://www.archdaily.com/159583/10-college-campuses-with-the-best-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Ten celebrated campuses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Campus and education architecture",
+    "url": "https://www.wallpaper.com/gallery/architecture/higher-education-campuses-with-elevated-aesthetics",
+    "kind": "guide",
+    "paid": false,
+    "why": "Gallery of striking campus buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Twelve groundbreaking universities from Dezeen's Pinterest",
+    "url": "https://www.dezeen.com/2024/01/22/pinterest-roundup-university-buildings/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Twelve university buildings, by material",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "National Park Service",
+    "title": "The Olmsted Firm: College Campuses",
+    "url": "https://www.nps.gov/articles/000/olmsted-college-campuses.htm",
+    "kind": "essay",
+    "paid": false,
+    "why": "How Olmsted planned US campuses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Architect",
+    "title": "University of Toronto: An Architectural Tour",
+    "url": "https://www.canadianarchitect.com/university-of-toronto-an-architectural-tour/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Walking tour of a historic campus",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:type:memorials",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Memorial",
+    "url": "https://en.wikipedia.org/wiki/Memorial",
+    "kind": "overview",
+    "paid": false,
+    "why": "Types and history of memorials",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Materializing the Intangible: 8 Memorials Around the World",
+    "url": "https://www.archdaily.com/946112/materializing-the-intangible-8-memorials-around-the-world",
+    "kind": "guide",
+    "paid": false,
+    "why": "Eight memorials and how they work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Smithsonian Magazine",
+    "title": "Monumental Achievement",
+    "url": "https://www.smithsonianmag.com/arts-culture/monumental-achievement-71095571/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Maya Lin on designing the Wall",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Vietnam Veterans Memorial",
+    "url": "https://www.britannica.com/topic/Vietnam-Veterans-Memorial",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference entry on the Wall",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "National Park Service",
+    "title": "Vietnam Veterans Memorial",
+    "url": "https://www.nps.gov/vive/learn/historyculture/vvmoverview.htm",
+    "kind": "overview",
+    "paid": false,
+    "why": "Design history from the owner",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Architecture should not be comforting says Daniel Libeskind",
+    "url": "https://www.dezeen.com/2015/11/19/daniel-libeskind-architecture-should-not-be-comforting-memorials-ground-zero-masterplan-jewish-museum-berlin/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Libeskind on memory and memorials",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Our guide to Daniel Libeskind and his ground-breaking, era-defining architecture",
+    "url": "https://www.wallpaper.com/architecture/daniel-libeskind-guide",
+    "kind": "profile",
+    "paid": false,
+    "why": "Libeskind's memorial and museum work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "NJIT Digital Commons",
+    "title": "Counter-monuments: The anti-monumental and the dialogic",
+    "url": "https://digitalcommons.njit.edu/fac_pubs/17981",
+    "kind": "essay",
+    "paid": false,
+    "why": "Scholarly look at counter-monuments",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Goldsmiths Research Online",
+    "title": "The German Countermonument: Conceptual Indeterminacies and the Retheorisation of the Arts of Vicarious Memory",
+    "url": "https://research.gold.ac.uk/id/eprint/13023",
+    "kind": "essay",
+    "paid": false,
+    "why": "Academic essay on German countermonuments",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Memorial Architecture",
+    "url": "https://www.archdaily.com/tag/memorial-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Memorial projects from around the world",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Monuments And Memorials",
+    "url": "https://www.archdaily.com/tag/monuments-and-memorials",
+    "kind": "guide",
+    "paid": false,
+    "why": "More memorials and monuments",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "e-architect",
+    "title": "Memorial buildings: architecture designs",
+    "url": "https://www.e-architect.com/memorial-buildings",
+    "kind": "guide",
+    "paid": false,
+    "why": "Recent commemorative buildings, worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Maya Lin",
+    "url": "https://www.britannica.com/biography/Maya-Lin",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography of the Wall's designer",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "PubMed Central",
+    "title": "Memorials as Healing Places: A Matrix for Bridging Material Design and Visitor Experience",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9180716/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Research on how memorials affect visitors",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:london",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of London",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_London",
+    "kind": "overview",
+    "paid": false,
+    "why": "Overview from Romans to today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "London Architecture City Guide: 20 Modern and Contemporary Attractions",
+    "url": "https://www.archdaily.com/148522/architecture-city-guide-london",
+    "kind": "guide",
+    "paid": false,
+    "why": "Twenty buildings to visit",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Thirty of London's most architecturally significant buildings",
+    "url": "https://www.dezeen.com/2022/09/08/londons-most-significant-buildings-architecture-open-house/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Thirty key buildings, Open House picks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "V&A",
+    "title": "Exploring London's futuristic high-tech architecture",
+    "url": "https://www.vam.ac.uk/articles/exploring-londons-futuristic-high-tech-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "Lloyd's, Pompidou-era high-tech London",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Brutalist London",
+    "url": "https://www.archdaily.com/1040840/brutalist-london",
+    "kind": "guide",
+    "paid": false,
+    "why": "Brutalist London, building by building",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Richard Seifert: a guide to his brutalist London architecture",
+    "url": "https://www.wallpaper.com/architecture/richard-seifert-brutalist-architecture-guide",
+    "kind": "profile",
+    "paid": false,
+    "why": "The architect who shaped 1960s London",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Your London architectural guide for a weekend stroll",
+    "url": "https://www.wallpaper.com/architecture/opinionated-guide-london-architecture-book-hoxton-mini-press",
+    "kind": "guide",
+    "paid": false,
+    "why": "Pocket guide to 54 buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten modernist architecture highlights in London's Metro-land",
+    "url": "https://www.dezeen.com/2020/10/12/ten-modernist-architecture-highlights-in-londons-metro-land/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Suburban modernism worth a trip",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architects' Journal",
+    "title": "Rowan Moore: London's high-rise free-for-all",
+    "url": "https://www.architectsjournal.co.uk/archive/rowan-moore-londons-high-rise-free-for-all",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critic on London's tower boom",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Outrage: future generations will laugh in horror and derision at the folly of facadism",
+    "url": "https://www.architectural-review.com/essays/outrage/outrage-future-generations-will-laugh-in-horror-and-derision-at-the-folly-of-facadism",
+    "kind": "essay",
+    "paid": false,
+    "why": "Argument over London's facadism",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "V&A",
+    "title": "Architecture",
+    "url": "https://www.vam.ac.uk/collections/architecture",
+    "kind": "museum",
+    "paid": false,
+    "why": "National architecture collection with RIBA",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Sir John Soane's Museum",
+    "title": "Sir John Soane's Museum",
+    "url": "https://www.soane.org/",
+    "kind": "museum",
+    "paid": false,
+    "why": "An architect's house museum",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The 30 Most Influential Architects in London",
+    "url": "https://www.archdaily.com/903932/the-30-most-influential-architects-in-london",
+    "kind": "profile",
+    "paid": false,
+    "why": "Who shaped London's skyline",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "e-flux",
+    "title": "An unrivalled critical guide to over 1,100 of the best buildings in London",
+    "url": "https://www.e-flux.com/announcements/272099/free-london-architecture-guide-app/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Free app guide to 1,100 buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architects' Journal",
+    "title": "London's 'jarring' skyline and 'trophy architect' towers slammed by NY critic",
+    "url": "https://www.architectsjournal.co.uk/news/londons-jarring-skyline-and-trophy-architect-towers-slammed-by-ny-critic",
+    "kind": "news",
+    "paid": false,
+    "why": "Debate over the City's towers",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   }
+  ]
+ },
+ {
+  "key": "hub:city:new-york",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of New York City",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_New_York_City",
+    "kind": "overview",
+    "paid": false,
+    "why": "Overview of the city's styles",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "New York City Architecture Guide: 10 Must-See Landmarks and 20 Contemporary Attractions",
+    "url": "https://www.archdaily.com/97964/architecture-city-guide-new-york-city",
+    "kind": "guide",
+    "paid": false,
+    "why": "Landmarks and new towers to visit",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "New York's Modernism Architecture City Guide",
+    "url": "https://www.archdaily.com/429668/architecture-city-guide-modern-new-york",
+    "kind": "guide",
+    "paid": false,
+    "why": "Beaux-Arts to Brutalism in New York",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "10 Historic Hidden Architecture Gems to Visit in New York City",
+    "url": "https://www.archdaily.com/995115/12-historic-hidden-architecture-gems-to-visit-in-new-york-city",
+    "kind": "guide",
+    "paid": false,
+    "why": "Lesser-known historic buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "13 Iconic Buildings to Visit in New York City",
+    "url": "https://www.britannica.com/list/13-iconic-buildings-to-visit-in-new-york-city",
+    "kind": "guide",
+    "paid": false,
+    "why": "Short tour of key landmarks",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "'Never Built New York' imagines a city that never was",
+    "url": "https://www.wallpaper.com/architecture/parallel-universe-a-new-book-charts-new-yorks-unbuilt-history",
+    "kind": "essay",
+    "paid": false,
+    "why": "Unbuilt projects that shaped the city",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Center for Architecture",
+    "title": "Walking Tours",
+    "url": "https://www.centerforarchitecture.org/tours/walking-tours/",
+    "kind": "museum",
+    "paid": false,
+    "why": "AIA New York's architecture tours",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "AIA New York",
+    "title": "Origins of Green",
+    "url": "https://www.aiany.org/membership/oculus-magazine/article/summer-2018/origins-of-green/",
+    "kind": "essay",
+    "paid": false,
+    "why": "New York's green-design history",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Seven super-skinny skyscrapers changing New York City's skyline",
+    "url": "https://www.dezeen.com/2022/04/13/super-skinny-skyscrapers-new-york-city/amp/",
+    "kind": "guide",
+    "paid": false,
+    "why": "The pencil towers of Midtown",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Six new supertall skyscrapers changing New York's skyline",
+    "url": "https://www.dezeen.com/2021/07/19/supertall-skyscrapers-new-york-2021-roundup/",
+    "kind": "guide",
+    "paid": false,
+    "why": "The supertall boom",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "20th Century Architecture in New York, with Francis Morrone",
+    "url": "https://www.youtube.com/watch?v=KjbgLtfW6KI",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture on New York's 20th-century buildings",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:chicago",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Chicago",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Chicago",
+    "kind": "overview",
+    "paid": false,
+    "why": "Overview from fire to skyline",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Make No Little Plans: A Brief History of Chicago Architecture",
+    "url": "https://www.archdaily.com/991107/make-no-little-plans-a-brief-history-of-chicago-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "Short history of Chicago's building",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Chicago Architecture Center",
+    "title": "Buildings of Chicago",
+    "url": "https://www.architecture.org/online-resources/buildings-of-chicago",
+    "kind": "guide",
+    "paid": false,
+    "why": "Building-by-building guide from the CAC",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Chicago Architecture Center",
+    "title": "5 things to know about Chicago's impact on architecture",
+    "url": "https://www.architecture.org/online-resources/stories-of-chicago/chicagos-impact-on-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why Chicago matters to architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Chicago School",
+    "url": "https://www.britannica.com/topic/Chicago-School-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Reference entry on the Chicago School",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Domus",
+    "title": "The Domus guide to Chicago",
+    "url": "https://www.domusweb.it/en/architecture/2023/06/13/domus-guide-to-chicago.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Curated architectural route through Chicago",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Chicago City Guide: 23 Buildings You Shouldn't Miss",
+    "url": "https://www.archdaily.com/925736/23-buildings-you-shouldnt-miss-in-chicago-if-you-are-into-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Twenty-three buildings to visit",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "15 Buildings That Embody Chicago's Postmodern Moment",
+    "url": "https://metropolismag.com/projects/photos-15-buildings-embody-chicago-postmodern-moment",
+    "kind": "guide",
+    "paid": false,
+    "why": "Chicago's postmodern buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Choose Chicago",
+    "title": "Chicago architecture: 12 iconic buildings not to miss",
+    "url": "https://www.choosechicago.com/blog/architecture-history/10-iconic-buildings-in-downtown-chicago/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Downtown highlights in one list",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo US",
+    "title": "Chicago chapter",
+    "url": "https://www.docomomo-us.org/chapter/chicago",
+    "kind": "museum",
+    "paid": false,
+    "why": "Modern Chicago tours and talks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Chicago Architecture Center",
+    "title": "Must-See Chicago",
+    "url": "https://www.architecture.org/city-tours/must-see-chicago",
+    "kind": "guide",
+    "paid": false,
+    "why": "Tour covering the key landmarks",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:paris",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Paris",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Paris",
+    "kind": "overview",
+    "paid": false,
+    "why": "Overview of Paris building styles",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Paris City Guide: 23 Places Every Architect Must Visit",
+    "url": "https://www.archdaily.com/922278/23-places-in-paris-every-architect-must-visit",
+    "kind": "guide",
+    "paid": false,
+    "why": "Twenty-three must-see buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Paris 20th-Century Architecture City Guide",
+    "url": "https://www.archdaily.com/1004592/paris-20th-century-architecture-city-guide-from-le-corbusiers-modern-villas-to-brutalist-estates",
+    "kind": "guide",
+    "paid": false,
+    "why": "Le Corbusier to Brutalist estates",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "26 Historic Buildings to Visit the Next Time You're in Paris",
+    "url": "https://www.britannica.com/list/26-historic-buildings-to-visit-the-next-time-youre-in-paris",
+    "kind": "guide",
+    "paid": false,
+    "why": "Historic Paris from Gothic to modern",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Cité de l'architecture",
+    "title": "Architectures remarquables du Grand Paris",
+    "url": "https://www.citedelarchitecture.fr/en/node/47306",
+    "kind": "museum",
+    "paid": false,
+    "why": "Notable buildings across Greater Paris",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "The Modern City",
+    "url": "https://artsandculture.google.com/story/the-modern-city/QQWx47RAyoNCKg?hl=en",
+    "kind": "essay",
+    "paid": false,
+    "why": "How Paris, London, Berlin modernised",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Paris tour: must-sees in the French capital",
+    "url": "https://www.wallpaper.com/travel/paris-tour-design-architecture-must-sees",
+    "kind": "guide",
+    "paid": false,
+    "why": "Design and architecture stops in Paris",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Le Corbusier: a guide to the master of modernism",
+    "url": "https://www.wallpaper.com/architecture/le-corbusier-ultimate-guide",
+    "kind": "profile",
+    "paid": false,
+    "why": "Le Corbusier's Paris-era work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "French Entree",
+    "title": "A Guide to Haussmannian Architecture in France",
+    "url": "https://www.frenchentree.com/living-in-france/a-guide-to-haussmannian-architecture-in-france/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Haussmann's Paris explained",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Explore High Tech architecture with our guide",
+    "url": "https://www.wallpaper.com/architecture/high-tech-architecture-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "High-tech style, Pompidou included",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:berlin",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Berlin",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Berlin",
+    "kind": "overview",
+    "paid": false,
+    "why": "Overview from Schinkel to today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "visitBerlin",
+    "title": "Architecture - Berlin's most impressive buildings",
+    "url": "https://www.visitberlin.de/en/architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Official guide to Berlin's key buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "visitBerlin",
+    "title": "Buildings of Berlin Modernism",
+    "url": "https://www.visitberlin.de/en/buildings-berlin-modernism",
+    "kind": "guide",
+    "paid": false,
+    "why": "UNESCO modernist housing estates",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "visitBerlin",
+    "title": "Architects of Modernism",
+    "url": "https://www.visitberlin.de/en/architects-modernism",
+    "kind": "profile",
+    "paid": false,
+    "why": "Taut, Gropius, Mies in Berlin",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Photos of over 150 buildings tell the story of Berlin's Brutalism",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2025/10/20/brutalist-berlin-architecture-photos.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Berlin Brutalism in pictures",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Brute forces in Berlin",
+    "url": "https://www.architectural-review.com/essays/brute-forces-in-berlin",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical look at Berlin Brutalism",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Mapped out: explore the streets of Berlin through Bauhaus and brutalism",
+    "url": "https://www.wallpaper.com/architecture/modernist-map-exploring-berlin-through-bauhaus-and-brutalism",
+    "kind": "guide",
+    "paid": false,
+    "why": "Map of 50 modernist Berlin buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "'Brutalist Berlin' is an essential new guide for architectural tourists",
+    "url": "https://www.wallpaper.com/architecture/brutalist-berlin-book",
+    "kind": "guide",
+    "paid": false,
+    "why": "Guide to fifty concrete landmarks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "The Modern City",
+    "url": "https://artsandculture.google.com/story/the-modern-city/QQWx47RAyoNCKg?hl=en",
+    "kind": "essay",
+    "paid": false,
+    "why": "Berlin among three modernising capitals",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Berlin",
+    "url": "https://www.archdaily.com/city/berlin",
+    "kind": "guide",
+    "paid": false,
+    "why": "Berlin projects and city guide",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:tokyo",
+  "links": [
+   {
+    "site": "Wikipedia",
+    "title": "Metabolism (architecture)",
+    "url": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
+    "kind": "overview",
+    "paid": false,
+    "why": "The movement that imagined future Tokyo",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "An Architectural Journey Through Tokyo, the Never-Ending City",
+    "url": "https://www.archdaily.com/1029375/an-architectural-journey-through-tokyo-the-never-ending-city",
+    "kind": "essay",
+    "paid": false,
+    "why": "Tokyo's architecture, district by district",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Tokyo: Editor's Spotlight",
+    "url": "https://www.archdaily.com/1014772/tokyo-editors-spotlight",
+    "kind": "guide",
+    "paid": false,
+    "why": "35 buildings on an interactive map",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "13 Buildings You Should Visit When You're in Tokyo, Japan",
+    "url": "https://www.britannica.com/list/13-buildings-you-should-visit-when-youre-in-tokyo",
+    "kind": "guide",
+    "paid": false,
+    "why": "Short tour of Tokyo landmarks",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Japan National Tourism Organization",
+    "title": "Outstanding Architectural Accomplishments in Tokyo",
+    "url": "https://www.japan.travel/en/tokyo2020/outstanding-architectural-accomplishments-in-tokyo/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Official list of Tokyo highlights",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Why Japanese metabolism is architecture's raddest movement",
+    "url": "https://www.wallpaper.com/architecture/japanese-metabolism",
+    "kind": "overview",
+    "paid": false,
+    "why": "Metabolism explained simply",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Metabolism, the City of the Future",
+    "url": "https://www.domusweb.it/en/news/2011/05/03/metabolism-the-city-of-the-future.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Metabolists' vision of the city",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Project Japan: Rem Koolhaas and Hans Ulrich Obrist",
+    "url": "https://www.wallpaper.com/architecture/project-japan-rem-koolhaas-and-hans-ulrich-obrist",
+    "kind": "interview",
+    "paid": false,
+    "why": "Koolhaas and Obrist on Japan's lineage",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Tokyo 1955-1970: A New Avant-Garde (press release)",
+    "url": "https://www.moma.org/documents/moma_press-release_389333.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA show on Tokyo's transformation",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "The best modern Japanese houses and architecture",
+    "url": "https://www.wallpaper.com/gallery/architecture/best-japanese-houses-and-interiors-in-japan",
+    "kind": "guide",
+    "paid": false,
+    "why": "Gallery of Japan's modern houses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "New Map Celebrates Tokyo's Concrete Architecture",
+    "url": "https://www.archdaily.com/882861/new-map-celebrates-tokyos-concrete-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Map of Tokyo's concrete landmarks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Japan National Tourism Organization",
+    "title": "Japanese Architecture",
+    "url": "https://www.japan.travel/en/guide/japanese-architecture/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Japanese architecture from temples to towers",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:barcelona",
+  "links": [
+   {
+    "site": "ArchDaily",
+    "title": "Barcelona Architecture City Guide: 30 Buildings and Places from Gaudí to Today",
+    "url": "https://www.archdaily.com/918881/23-amazing-places-in-barcelonas-best-architecture-city-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "Thirty buildings from Gaudí to now",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "AR Reading list 088: Barcelona",
+    "url": "https://www.architectural-review.com/archive/reading-lists/ar-reading-list-088-barcelona",
+    "kind": "essay",
+    "paid": false,
+    "why": "Seven archive essays on the city",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Britannica",
+    "title": "Barcelona Facts",
+    "url": "https://www.britannica.com/facts/Barcelona",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopedia overview of the city",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "UNESCO World Heritage",
+    "title": "Palau de la Música Catalana and Hospital de Sant Pau, Barcelona",
+    "url": "https://whc.unesco.org/en/list/804/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Two Modernista masterpieces, listed",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Works of Antoni Gaudí, Spain",
+    "url": "https://artsandculture.google.com/story/works-of-antoni-gaud%C3%AD-spain-unesco/EwXxN9VZZdgIAA?hl=en",
+    "kind": "museum",
+    "paid": false,
+    "why": "Gaudí's World Heritage works, illustrated",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Smithsonian Magazine",
+    "title": "Explore Antoni Gaudi's Barcelona",
+    "url": "https://www.smithsonianmag.com/lifelists/antoni-gaudis-barcelona-37834490/",
+    "kind": "guide",
+    "paid": false,
+    "why": "A tour of Gaudí's city",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "See Barcelona Through an Architect's Eyes",
+    "url": "https://www.archdaily.com/870023/see-barcelona-through-an-architects-eyes",
+    "kind": "guide",
+    "paid": false,
+    "why": "An architect's view of the city",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Barcelona World Capital of Architecture 2026: events, calendar and what will happen month by month",
+    "url": "https://www.domusweb.it/en/news/2026/04/10/barcelona-world-capital-architecture-2026-events-calendar.html",
+    "kind": "news",
+    "paid": false,
+    "why": "What the city is showing in 2026",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Exploring the Rich History & Architecture of Barcelona",
+    "url": "https://www.britannica.com/video/Overview-Barcelona-Spain/-191624",
+    "kind": "video",
+    "paid": false,
+    "why": "Short film on the city's history",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Barcelona architecture and design",
+    "url": "https://www.dezeen.com/tag/barcelona/",
+    "kind": "news",
+    "paid": false,
+    "why": "Dezeen's Barcelona coverage in one place",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Happy returns: Mies van der Rohe's Barcelona Pavilion celebrates 30 years",
+    "url": "https://www.wallpaper.com/architecture/mies-van-der-rohes-barcelona-pavilion-celebrates-30th-anniversary",
+    "kind": "news",
+    "paid": false,
+    "why": "The modernist counterpoint to Gaudí",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Reflections on Mies",
+    "url": "https://www.architectsjournal.co.uk/archive/reflections-on-mies",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critics' readings of the Pavilion",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Outrage: Public space suffers as Barcelona's MACBA gets an extension",
+    "url": "https://www.architectural-review.com/essays/outrage/outrage-macba-goes-massive-and-public-space-suffers",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critique of recent change in the old town",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Barcelona",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Barcelona",
+    "kind": "overview",
+    "paid": false,
+    "why": "Period-by-period survey of the city",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:city:los-angeles",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Los Angeles - Architecture, Spanish Revival, Moderne",
+    "url": "https://www.britannica.com/place/Los-Angeles-California/Architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Encyclopedia survey of LA's styles",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Architecture City Guide: Los Angeles",
+    "url": "https://www.archdaily.com/104761/architecture-city-guide-los-angeles",
+    "kind": "guide",
+    "paid": false,
+    "why": "Twelve key buildings to see",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Getty",
+    "title": "Overdrive: L.A. Constructs the Future, 1940-1990",
+    "url": "https://www.getty.edu/art/exhibitions/overdrive/index.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "Getty survey of LA's built history",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Getty",
+    "title": "Pacific Standard Time Presents: Modern Architecture in L.A.",
+    "url": "https://www.getty.edu/projects/pacific-standard-time-presents-modern-architecture-in-la/",
+    "kind": "museum",
+    "paid": false,
+    "why": "City-wide look at modern LA",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Tour Los Angeles' finest modernist houses, from shiny icons to lesser-known gems",
+    "url": "https://www.wallpaper.com/architecture/residential/modernist-houses-los-angeles",
+    "kind": "guide",
+    "paid": false,
+    "why": "Modernist houses from Gill to Ellwood",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "\"LA boasts the world's most important legacy of 20th century architecture\"",
+    "url": "https://www.dezeen.com/2025/01/14/los-angeles-architecture-heritage/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why LA's heritage matters",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Los Angeles Conservancy",
+    "title": "L.A. Before 1940",
+    "url": "https://www.laconservancy.org/l-a-before-1940/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Early LA from Gill to Moderne",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Los Angeles Conservancy",
+    "title": "1960-1970: Imperial California",
+    "url": "https://www.laconservancy.org/1960-1970-imperial-california/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Postwar boom and its architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "15 Postmodern Buildings That Helped Define Los Angeles",
+    "url": "https://metropolismag.com/architecture/los-angeles-postmodern-architecture-survey",
+    "kind": "guide",
+    "paid": false,
+    "why": "Postmodern LA, 1975 to the 1990s",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Googie Architecture LA: the best remaining roadside gems",
+    "url": "https://www.wallpaper.com/architecture/googie-architecture-los-angeles",
+    "kind": "guide",
+    "paid": false,
+    "why": "Googie landmarks you can still visit",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "California Modernism Architecture: 11 examples of modernist homes",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2022/05/09/11-iconic-works-of-californian-modernism.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Eleven California modernist houses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Getty",
+    "title": "Take a Walking Tour of Downtown Los Angeles's Iconic Architecture",
+    "url": "https://www.getty.edu/news/walking-tour-of-downtown-los-angeles-architecture/",
+    "kind": "guide",
+    "paid": false,
+    "why": "A Grand Avenue walking route",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Mapping out Los Angeles' concrete architecture",
+    "url": "https://www.wallpaper.com/architecture/concrete-map-los-angeles",
+    "kind": "guide",
+    "paid": false,
+    "why": "A concrete and brutalist map of LA",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Architecture of Los Angeles",
+    "url": "https://en.wikipedia.org/wiki/Architecture_of_Los_Angeles",
+    "kind": "overview",
+    "paid": false,
+    "why": "Neighbourhood and style survey",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:idea:adaptive-reuse",
+  "links": [
+   {
+    "site": "ArchDaily",
+    "title": "Adaptive Reuse",
+    "url": "https://www.archdaily.com/tag/adaptive-reuse",
+    "kind": "guide",
+    "paid": false,
+    "why": "Hundreds of reuse projects in one place",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "20 Creative Adaptive Reuse Projects",
+    "url": "https://www.archdaily.com/783283/20-creative-adaptive-reuse-projects",
+    "kind": "guide",
+    "paid": false,
+    "why": "Twenty conversions worldwide",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Adaptive Reuse: Rethinking Carbon, Sustainability and Social Justice",
+    "url": "https://www.archdaily.com/971194/adaptive-reuse-rethinking-carbon-sustainability-and-social-justice",
+    "kind": "essay",
+    "paid": false,
+    "why": "The carbon and social case for reuse",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "From abandoned spaces to iconic places: 10 adaptive reuse projects",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2025/01/11/architecture-abandoned-reconverted-tate-modern-high-line.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "From Tate Modern to the High Line",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "32 Adaptive Reuse Projects That Point to a Better Future",
+    "url": "https://metropolismag.com/viewpoints/32-adaptive-reuse-projects/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Thirty-two recent conversions",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "We must repurpose our architecture, not tear it down and start again",
+    "url": "https://architectsjournal.co.uk/opinion/we-must-repurpose-our-architecture-not-tear-it-down-and-start-again/10044120.article",
+    "kind": "essay",
+    "paid": false,
+    "why": "The argument against demolition",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "'Never demolish, never replace': retrofit aces Lacaton and Vassal win 2021 Pritzker Prize",
+    "url": "https://www.architectsjournal.co.uk/news/never-demolish-never-replace-retrofit-aces-lacaton-and-vassal-win-2021-pritzker-prize",
+    "kind": "news",
+    "paid": false,
+    "why": "Retrofit wins architecture's top prize",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "Anne Lacaton and Jean-Philippe Vassal",
+    "url": "https://www.pritzkerprize.com/laureates/anne-lacaton-and-jean-philippe-vassal",
+    "kind": "profile",
+    "paid": false,
+    "why": "The practice built on reusing buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Adaptive reuse requires architects to get \"hands on\" say experts",
+    "url": "https://www.dezeen.com/2025/09/04/adaptive-reuse-future-skill-sets-experts-advice/",
+    "kind": "news",
+    "paid": false,
+    "why": "What reuse asks of architects now",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Continuing Education: Embodied Carbon & Adaptive Reuse",
+    "url": "https://www.architecturalrecord.com/articles/15481-continuing-education-embodied-carbon-adaptive-reuse",
+    "kind": "essay",
+    "paid": false,
+    "why": "Embodied carbon saved by reusing",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Renovation, Restoration & Adaptive Reuse: 2026",
+    "url": "https://www.architecturalrecord.com/articles/17991-renovation-restoration-and-adaptive-reuse-2026",
+    "kind": "guide",
+    "paid": false,
+    "why": "This year's best reuse projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "National Park Service",
+    "title": "Preservation By Topic - Technical Preservation Services",
+    "url": "https://www.nps.gov/orgs/1739/preservation-by-topic.htm",
+    "kind": "guide",
+    "paid": false,
+    "why": "US standards for rehabilitating old buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "TED",
+    "title": "Maria MacDonald: Adaptive Reuse, Jane Jacobs, and Observation",
+    "url": "https://www.ted.com/talks/maria_macdonald_adaptive_reuse_jane_jacobs_and_observation",
+    "kind": "video",
+    "paid": false,
+    "why": "Short talk linking reuse to Jane Jacobs",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Adaptive reuse",
+    "url": "https://en.wikipedia.org/wiki/Adaptive_reuse",
+    "kind": "overview",
+    "paid": false,
+    "why": "Definition and history in brief",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:idea:cantilever",
+  "links": [
+   {
+    "site": "Dezeen",
+    "title": "Cantilevers",
+    "url": "https://www.dezeen.com/tag/cantilevers/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Dezeen's cantilever projects in one place",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Domus",
+    "title": "Cantilever architecture: 15 gravity-defying projects",
+    "url": "https://www.domusweb.it/en/architecture/gallery/2024/12/17/cantiliver-architecture-gravity-defying-projects-brutalism-skyscrapers-structures.html",
+    "kind": "guide",
+    "paid": false,
+    "why": "Fifteen cantilevers, houses to towers",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Nine skyscrapers that have precariously perched cantilevers",
+    "url": "https://www.dezeen.com/2024/02/08/skyscrapers-cantilevers-roundups/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Cantilevers at tower scale",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten residential buildings with cantilevered hovering volumes",
+    "url": "https://www.dezeen.com/2023/09/21/cantilevered-buildings/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Houses and flats that hover",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The New York City Cantilever: If You Can't Go Up, Go Out",
+    "url": "https://www.archdaily.com/472009/the-new-york-city-cantilever-if-you-can-t-go-up-go-out",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why zoning drives cantilevers in New York",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Nikken Sekkei Completes World's Longest Cantilever Skyscraper in Dubai",
+    "url": "https://www.archdaily.com/1012871/nikken-sekkei-completes-worlds-longest-cantilever-skyscraper-in-dubai",
+    "kind": "news",
+    "paid": false,
+    "why": "The record-length cantilever",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Hanging Loose",
+    "url": "https://www.architecturalrecord.com/articles/6683-hanging-loose",
+    "kind": "essay",
+    "paid": false,
+    "why": "How Fallingwater's cantilevers were fixed",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Cantilever bridge",
+    "url": "https://www.britannica.com/technology/cantilever-bridge",
+    "kind": "overview",
+    "paid": false,
+    "why": "The cantilever principle in bridges",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Encyclopedia.com",
+    "title": "Cantilever",
+    "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/cantilever",
+    "kind": "overview",
+    "paid": false,
+    "why": "Plain definition and uses",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Cantilever",
+    "url": "https://en.wikipedia.org/wiki/Cantilever",
+    "kind": "overview",
+    "paid": false,
+    "why": "Definition and structural basics",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:idea:courtyard",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Court",
+    "url": "https://www.britannica.com/technology/court-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "Courts across cultures and history",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Britannica",
+    "title": "Atrium",
+    "url": "https://www.britannica.com/technology/atrium-architecture",
+    "kind": "overview",
+    "paid": false,
+    "why": "The Roman atrium and its descendants",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Courtyards in architecture",
+    "url": "https://www.dezeen.com/tag/courtyards/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Dezeen's courtyard projects",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten homes centred around bright interior courtyards",
+    "url": "https://www.dezeen.com/2022/01/23/ten-homes-bright-interior-courtyards-lookbooks/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Ten courtyard homes today",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The Courtyard as Architecture's Lightest Cooling System",
+    "url": "https://www.archdaily.com/1040845/the-courtyard-as-architectures-lightest-cooling-system",
+    "kind": "essay",
+    "paid": false,
+    "why": "How courtyards cool a building",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Unfolding Privacy: Centering the Home Around the Courtyard",
+    "url": "https://www.archdaily.com/1033040/unfolding-privacy-centering-the-home-around-the-courtyard",
+    "kind": "essay",
+    "paid": false,
+    "why": "Courtyard house types and privacy",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Courtyardism: A Vision for a More Balanced Urban Future in the Greater Bay Area",
+    "url": "https://www.archdaily.com/1031397/courtyardism-a-vision-for-a-more-balanced-urban-future-in-the-greater-bay-area-by-wang-weijen-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "The courtyard as a city-scale idea",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "Beijing. A brick courtyard house between modernity and tradition",
+    "url": "https://www.domusweb.it/en/architecture/2018/07/23/beijing-a-brick-courtyard-house-between-modernity-and-tradition.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "A modern take on the siheyuan",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Patio",
+    "url": "https://www.britannica.com/technology/patio",
+    "kind": "overview",
+    "paid": false,
+    "why": "The Spanish and Latin American patio",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Courtyard house",
+    "url": "https://en.wikipedia.org/wiki/Courtyard_house",
+    "kind": "overview",
+    "paid": false,
+    "why": "Courtyard houses worldwide",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:idea:brise-soleil",
+  "links": [
+   {
+    "site": "Britannica",
+    "title": "Brise-soleil",
+    "url": "https://www.britannica.com/technology/brise-soleil",
+    "kind": "overview",
+    "paid": false,
+    "why": "Definition and Le Corbusier's role",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Tropical Modernism Beyond Aesthetics: The Politics of Shade and Air",
+    "url": "https://www.archdaily.com/1041076/tropical-modernism-beyond-aesthetics-the-politics-of-shade-and-air",
+    "kind": "essay",
+    "paid": false,
+    "why": "Shade as climate design in the tropics",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Screened-In: Mastering the Brise-Soleil in France",
+    "url": "https://www.archdaily.com/971349/screened-in-mastering-the-brise-soleil-in-france",
+    "kind": "guide",
+    "paid": false,
+    "why": "French buildings that master the screen",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Residential Thermal Comfort: The Use of Brise-Soleil in 10 Latin American Houses",
+    "url": "https://www.archdaily.com/1128369/residential-thermal-comfort-the-use-of-brise-soleil-in-10-latin-american-houses",
+    "kind": "guide",
+    "paid": false,
+    "why": "Ten Latin American houses compared",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Brazilian modernism: explore the enduring allure of the country's midcentury architecture",
+    "url": "https://www.wallpaper.com/architecture/brazilian-modernism-guide",
+    "kind": "guide",
+    "paid": false,
+    "why": "Brazil's shaded modernist buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Eight Modernist masterpieces in Rio de Janeiro to visit during the Olympics",
+    "url": "https://www.dezeen.com/2016/07/29/eight-modernist-architecture-landscape-masterpieces-rio-de-janeiro-visit-during-olympic-paralympic-games/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Rio's latticed and louvred landmarks",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Review of 'Modern Architecture and Climate: Design Before Air Conditioning'",
+    "url": "https://www.architecturalrecord.com/articles/14830-review-of-modern-architecture-and-climate-design-before-air-conditioning",
+    "kind": "essay",
+    "paid": false,
+    "why": "Climate and the modernist sunshade",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "We visit Villa Baizeau in Tunisia, Le Corbusier's only project in Africa",
+    "url": "https://www.wallpaper.com/architecture/residential/le-corbusier-villa-baizeau-tunisia",
+    "kind": "essay",
+    "paid": false,
+    "why": "Where Le Corbusier first tried the brise-soleil",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Fondation Le Corbusier",
+    "title": "City of Chandigarh, India, 1950-1965",
+    "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-city-of-chandigarh-india-1950-1965/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Sun control in Le Corbusier's Indian city",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "The Modernist Buildings of Oscar Niemeyer",
+    "url": "https://artsandculture.google.com/story/IAWxjsdlsqt_Lg",
+    "kind": "museum",
+    "paid": false,
+    "why": "Niemeyer, Brazil and shaded facades",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Brise soleil",
+    "url": "https://en.wikipedia.org/wiki/Brise_soleil",
+    "kind": "overview",
+    "paid": false,
+    "why": "Types, history and examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:idea:timber",
+  "links": [
+   {
+    "site": "Dezeen",
+    "title": "The Dezeen guide to mass timber in architecture",
+    "url": "https://www.dezeen.com/2023/03/01/dezeen-guide-mass-timber-revolution/",
+    "kind": "guide",
+    "paid": false,
+    "why": "What mass timber is and how it's used",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "The Dezeen guide to wood in architecture, interiors and design",
+    "url": "https://www.dezeen.com/2021/02/05/dezeen-guide-wood-in-architecture-interiors-design/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Wood across scales and building types",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Ten significant mass-timber buildings that changed the way we think about wood",
+    "url": "https://www.dezeen.com/2023/04/03/significant-mass-timber-buildings-timber-revolution/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Ten landmark timber buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The Case For Tall Wood Buildings",
+    "url": "https://www.archdaily.com/443626/the-case-for-tall-wood-buildings",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why tall wood is workable",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Timber's Transformation: An Old Building Material Is Reborn",
+    "url": "https://www.metropolismag.com/sustainability/timbers-transformation-an-old-building-material-is-reborn/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Timber's fall and return in the US",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Continuing Education: Tall Mass Timber Construction",
+    "url": "https://www.architecturalrecord.com/articles/6733-continuing-education-tall-mass-timber-construction",
+    "kind": "essay",
+    "paid": false,
+    "why": "Engineering tall timber structures",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Domus",
+    "title": "The use of wood in contemporary architecture as described by Bjarke Ingels",
+    "url": "https://www.domusweb.it/en/speciali/guest-editor/bjarke-ingels/2025/06/05/editorial-bjarke-ingels-june-wood.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "An architect on why wood returns",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "From Russia with Wood: Crumbling timber churches",
+    "url": "https://www.architectural-review.com/essays/books/from-russia-with-wood-crumbling-timber-churches",
+    "kind": "essay",
+    "paid": false,
+    "why": "Vernacular timber building in Russia",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Timber as a crop",
+    "url": "https://www.architectural-review.com/archive/timber-as-a-crop",
+    "kind": "essay",
+    "paid": false,
+    "why": "Forestry and the future of building in wood",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Metropolis",
+    "title": "Put These Timber Architecture Books on Your Shelf",
+    "url": "https://metropolismag.com/viewpoints/timber-architecture-books/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Books to read on timber building",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Mass timber",
+    "url": "https://en.wikipedia.org/wiki/Mass_timber",
+    "kind": "overview",
+    "paid": false,
+    "why": "Mass timber types and uses",
+    "checked": "2026-10-21"
+   }
+  ]
+ },
+ {
+  "key": "hub:idea:tensile-structures",
+  "links": [
+   {
+    "site": "ArchDaily",
+    "title": "Tensile Structures: How Do They Work and What Are the Different Types?",
+    "url": "https://www.archdaily.com/887462/tensile-structures-how-do-they-work-and-what-are-the-different-types",
+    "kind": "guide",
+    "paid": false,
+    "why": "How tensile structures work, by type",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Tensile structures",
+    "url": "https://www.dezeen.com/tag/tensile-structures/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Dezeen's tensile projects in one place",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "Biography: Frei Otto",
+    "url": "https://www.pritzkerprize.com/biography-frei-otto",
+    "kind": "profile",
+    "paid": false,
+    "why": "The pioneer of membrane architecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Frei Otto",
+    "url": "https://www.britannica.com/biography/Frei-Otto",
+    "kind": "profile",
+    "paid": false,
+    "why": "Otto's career and lightweight roofs",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Dezeen",
+    "title": "Frei Otto: a life in projects",
+    "url": "https://www.dezeen.com/2015/03/11/frei-otto-a-life-in-projects/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Otto's key tensile works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Six projects by Pritzker winner Frei Otto",
+    "url": "https://www.architectsjournal.co.uk/news/six-projects-by-pritzker-winner-frei-otto",
+    "kind": "profile",
+    "paid": false,
+    "why": "Six Otto projects explained",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Architects' Journal",
+    "title": "Obituary: Frei Otto (1925-2015)",
+    "url": "https://www.architectsjournal.co.uk/news/obituary-frei-otto-1925-2015",
+    "kind": "obituary",
+    "paid": false,
+    "why": "A life in lightweight structures",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "MoMA",
+    "title": "The work of Frei Otto (exhibition catalogue)",
+    "url": "https://assets.moma.org/documents/moma_catalogue_2662_300299029.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's catalogue on Otto's tension structures",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Maracanã Stadium Roof Structure / schlaich bergermann und partner",
+    "url": "https://www.archdaily.com/515131/maracana-stadium-roof-structure-schlaich-bergermann-und-partner",
+    "kind": "essay",
+    "paid": false,
+    "why": "A modern membrane stadium roof",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Britannica",
+    "title": "Millennium Dome",
+    "url": "https://www.britannica.com/topic/Millennium-Dome",
+    "kind": "overview",
+    "paid": false,
+    "why": "The world's largest cable-and-fabric dome",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Institution of Structural Engineers",
+    "title": "The Design and Construction of the Millennium Dome",
+    "url": "https://www.istructe.org/journal/volumes/volume-77-(published-in-1999)/issue-7/the-design-and-construction-of-the-millennium-dome/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Engineers on a tensile fabric roof",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "The Khan Shatyr Entertainment Centre by Foster + Partners",
+    "url": "https://www.dezeen.com/2010/07/06/the-khan-shatyr-entertainment-centre-by-foster-partners/",
+    "kind": "news",
+    "paid": false,
+    "why": "The world's tallest tensile structure",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Tensile structure",
+    "url": "https://en.wikipedia.org/wiki/Tensile_structure",
+    "kind": "overview",
+    "paid": false,
+    "why": "Principles and famous examples",
+    "checked": "2026-10-21"
+   }
+  ]
+ }
+]
