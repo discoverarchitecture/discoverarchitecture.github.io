@@ -1,0 +1,3387 @@
+[
+ {
+  "id": "monona-terrace",
+  "qid": "Q6901787",
+  "status": "photo",
+  "why": "Wright design named in the lead; the lead gives the 1997 opening.",
+  "name": "Monona Terrace",
+  "by": "Frank Lloyd Wright",
+  "city": "Madison",
+  "cc": "US",
+  "year": 1997,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Public space"
+  ],
+  "features": "Frank Lloyd Wright's 1938 design for a lakeshore convention centre, opened in 1997 on Lake Monona.",
+  "commons_category": "Category:Monona Terrace",
+  "coords": [
+   43.07158,
+   -89.38007
+  ],
+  "photos": [
+   {
+    "file": "File:Monona Terrace from Lake Monona.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stairwell in Monona Terrace (53970426805).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monona_Terrace",
+   "https://www.wikidata.org/wiki/Q6901787"
+  ]
+ },
+ {
+  "id": "torre-de-cristal",
+  "qid": "Q953610",
+  "status": "photo",
+  "why": "Pelli built work; the lead gives the height and says it is the tallest in Spain. Year from the lead (built 2004 to 2008).",
+  "name": "Torre de Cristal",
+  "by": "César Pelli",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2008,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "César Pelli's 249-metre glass tower in Madrid's Cuatro Torres business area, the tallest building in Spain.",
+  "commons_category": "Category:Torre de Cristal, Madrid",
+  "coords": [
+   40.47806,
+   -3.68722
+  ],
+  "photos": [
+   {
+    "file": "File:Torre de Cristal (Madrid) 05a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre de Cristal - CTBA - Madrid 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre de Cristal - CTBA - Madrid 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Torre_de_Cristal",
+   "https://www.wikidata.org/wiki/Q953610"
+  ]
+ },
+ {
+  "id": "minnaert-building",
+  "qid": "Q30914563",
+  "status": "photo",
+  "why": "Neutelings Riedijk building; the lead gives the 1997 opening and the faculties.",
+  "name": "Minnaert building",
+  "by": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
+  "city": "Utrecht",
+  "cc": "NL",
+  "year": 1997,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Brick",
+   "Sculptural form"
+  ],
+  "features": "Campus building named after astronomer Marcel Minnaert, opened in 1997 for Utrecht University's science faculties.",
+  "commons_category": "Category:Minnaertgebouw",
+  "coords": [
+   52.08694,
+   5.16667
+  ],
+  "photos": [
+   {
+    "file": "File:Het Minnaertgebouw van de Universiteit Utrecht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Het Minnaertgebouw.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Minnaertgebouw3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Minnaertgebouw",
+   "https://www.wikidata.org/wiki/Q30914563"
+  ]
+ },
+ {
+  "id": "casa-rozes",
+  "qid": "Q8341669",
+  "status": "photo",
+  "why": "Coderch house; the lead calls it one of the most relevant works of Coderch.",
+  "name": "Casa Rozes",
+  "by": "Josep Antoni Coderch",
+  "city": "Roses",
+  "cc": "ES",
+  "year": 1962,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Section",
+   "Landscape"
+  ],
+  "features": "Coderch's 1961–62 clifftop house, stepped down in cube-like levels beneath a cantilevered terrace.",
+  "commons_category": "Category:Casa Rozes",
+  "coords": [
+   42.23783,
+   3.2081
+  ],
+  "photos": [
+   {
+    "file": "File:Roses - Casa Rozes.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Casa_Rozes",
+   "https://www.wikidata.org/wiki/Q8341669"
+  ]
+ },
+ {
+  "id": "kitakyushu-international-conference-center",
+  "qid": "Q11400928",
+  "status": "photo",
+  "why": "Isozaki built work on the architect test; the lead is short.",
+  "name": "Kitakyushu International Conference Center",
+  "by": "Arata Isozaki",
+  "city": "Kitakyushu",
+  "cc": "JP",
+  "year": 1990,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Arata Isozaki's convention centre in Kitakyushu, Fukuoka Prefecture.",
+  "commons_category": null,
+  "coords": [
+   33.89011,
+   130.88819
+  ],
+  "photos": [
+   {
+    "file": "File:Kitakyushu International Conference Hall Panoramic.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%8C%97%E4%B9%9D%E5%B7%9E%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%A0%B4",
+   "https://www.wikidata.org/wiki/Q11400928"
+  ]
+ },
+ {
+  "id": "valladolid-science-museum",
+  "qid": "Q1189057",
+  "status": "photo",
+  "why": "Moneo museum in a reused mill; the lead gives the reuse and the 2003 opening.",
+  "name": "Valladolid Science Museum",
+  "by": "Rafael Moneo",
+  "city": "Valladolid",
+  "cc": "ES",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Brick"
+  ],
+  "features": "Rafael Moneo's science museum, opened in 2003 inside a reused old flour mill.",
+  "commons_category": "Category:Science Museum (Valladolid)",
+  "coords": [
+   41.63723,
+   -4.74522
+  ],
+  "photos": [
+   {
+    "file": "File:Valladolid - Museo de la Ciencia 10b.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Valladolid_Science_Museum",
+   "https://www.wikidata.org/wiki/Q1189057"
+  ]
+ },
+ {
+  "id": "fresno-city-hall",
+  "qid": "Q2817266",
+  "status": "photo",
+  "why": "Erickson building; the lead calls it a post-modern futurist structure.",
+  "name": "Fresno City Hall",
+  "by": "Arthur Erickson",
+  "city": "Fresno",
+  "cc": "US",
+  "year": 1991,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Arthur Erickson's post-modern, futurist city hall in Fresno, housing the mayor's office and council chambers.",
+  "commons_category": "Category:Fresno City Hall",
+  "coords": [
+   36.7395,
+   -119.785
+  ],
+  "photos": [
+   {
+    "file": "File:Fresno City Hall Nima1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fresno City Hall Fountain.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fresno_City_Hall",
+   "https://www.wikidata.org/wiki/Q2817266"
+  ]
+ },
+ {
+  "id": "100-eleventh-avenue",
+  "qid": "Q16823802",
+  "status": "photo",
+  "why": "Nouvel building; the lead names his \"vision machine\" and the curtain wall.",
+  "name": "100 Eleventh Avenue",
+  "by": "Jean Nouvel, Beyer Blinder Belle",
+  "city": "New York",
+  "cc": "US",
+  "year": 2010,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Jean Nouvel's 23-storey West Side tower, called 'a vision machine', with one of New York's most advanced curtain walls.",
+  "commons_category": "Category:100 Eleventh Avenue",
+  "coords": [
+   40.7461,
+   -74.0078
+  ],
+  "photos": [
+   {
+    "file": "File:100 Eleventh Avenue (24234).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:JuneInNYC-27 (55380998769).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/100_Eleventh_Avenue",
+   "https://www.wikidata.org/wiki/Q16823802"
+  ]
+ },
+ {
+  "id": "zenith-de-lille",
+  "qid": "Q20055541",
+  "status": "photo",
+  "why": "Koolhaas built work; the lead names him and the cultural complex.",
+  "name": "Zénith de Lille",
+  "by": "Rem Koolhaas",
+  "city": "Lille",
+  "cc": "FR",
+  "year": 1994,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Rem Koolhaas's arena in Lille, seating up to 7,000 and opened in 1994 within the Lille Grand Palais complex.",
+  "commons_category": "Category:Zénith de Lille",
+  "coords": [
+   50.6336,
+   3.07763
+  ],
+  "photos": [
+   {
+    "file": "File:Zénith de Lille 2014.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lille vue zenith pont.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Z%C3%A9nith_de_Lille",
+   "https://www.wikidata.org/wiki/Q20055541"
+  ]
+ },
+ {
+  "id": "golden-angel",
+  "qid": "Q5579128",
+  "status": "photo",
+  "why": "Nouvel built work; the lead names him and the crossroads.",
+  "name": "Golden Angel",
+  "by": "Jean Nouvel",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 2000,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Jean Nouvel's administrative complex in Prague, beside the Angel crossroads named after an old pharmacy.",
+  "commons_category": "Category:Zlatý Anděl (Prague)",
+  "coords": [
+   50.07177,
+   14.40364
+  ],
+  "photos": [
+   {
+    "file": "File:Zlaty andel.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Golden_Angel",
+   "https://www.wikidata.org/wiki/Q5579128"
+  ]
+ },
+ {
+  "id": "he-art-museum",
+  "qid": "Q85877621",
+  "status": "photo",
+  "why": "Ando museum; the lead names the Pritzker Prize.",
+  "name": "He Art Museum",
+  "by": "Tadao Ando",
+  "city": "Foshan",
+  "cc": "CN",
+  "year": 2020,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Tadao Ando's privately funded non-profit museum in Foshan, designed by a Pritzker Prize winner.",
+  "commons_category": "Category:He Art Museum",
+  "coords": [
+   22.9357,
+   113.2147
+  ],
+  "photos": [
+   {
+    "file": "File:He Art Museum Entry.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:He Art Museum Garden.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/He_Art_Museum",
+   "https://www.wikidata.org/wiki/Q85877621"
+  ]
+ },
+ {
+  "id": "le-consortium",
+  "qid": "Q3221735",
+  "status": "photo",
+  "why": "Ban building; the lead names him and the 2011 opening.",
+  "name": "Le Consortium",
+  "by": "Shigeru Ban",
+  "city": "Dijon",
+  "cc": "FR",
+  "year": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Shigeru Ban's 2011 building for a Dijon contemporary art centre that earlier used an appliance store and a factory.",
+  "commons_category": "Category:Le Consortium",
+  "coords": [
+   47.31341,
+   5.04615
+  ],
+  "photos": [
+   {
+    "file": "File:Dijon, Le Consortium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Le_Consortium",
+   "https://www.wikidata.org/wiki/Q3221735"
+  ]
+ },
+ {
+  "id": "frist-campus-center",
+  "qid": "Q3506959",
+  "status": "photo",
+  "why": "Venturi building; the lead names him and the 2001 completion.",
+  "name": "Frist Campus Center",
+  "by": "Robert Venturi",
+  "city": "Princeton",
+  "cc": "US",
+  "year": 2001,
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Courtyard",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Venturi's 2001 addition fills the courtyard of a Collegiate Gothic hall, now a focal point of Princeton's social life.",
+  "commons_category": "Category:Frist Campus Center",
+  "coords": [
+   40.34683,
+   -74.65537
+  ],
+  "photos": [
+   {
+    "file": "File:Princeton Frist Campus Center back.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frist_Campus_Center",
+   "https://www.wikidata.org/wiki/Q3506959"
+  ]
+ },
+ {
+  "id": "el-palauet",
+  "qid": "Q72049198",
+  "status": "photo",
+  "why": "Isozaki built work on the architect test; the lead is short (heritage listing).",
+  "name": "El Palauet",
+  "by": "Arata Isozaki",
+  "city": "Palafolls",
+  "cc": "ES",
+  "year": 1990,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "An Isozaki building in Palafolls, Maresme, listed in Catalonia's architectural heritage inventory.",
+  "commons_category": "Category:El Palauet (Palafolls)",
+  "coords": [
+   41.66955,
+   2.75088
+  ],
+  "photos": [
+   {
+    "file": "File:El Palauet.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:El Palauet-Palafolls.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ca.wikipedia.org/wiki/El_Palauet_%28Palafolls%29",
+   "https://www.wikidata.org/wiki/Q72049198"
+  ]
+ },
+ {
+  "id": "the-museum-for-wood-culture",
+  "qid": "Q11393028",
+  "status": "photo",
+  "why": "Ando museum; the lead gives its theme and 1994 opening.",
+  "name": "The Museum for Wood Culture",
+  "by": "Tadao Ando",
+  "city": "Kami",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Tadao Ando's museum on the theme 'forest, sea and sun', opened in 1994 beside an outdoor education centre.",
+  "commons_category": "Category:The Museum for wood culture",
+  "coords": [
+   35.42806,
+   134.57972
+  ],
+  "photos": [
+   {
+    "file": "File:201121 The Museum for wood culture Kami Hyogo pref Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inside of The Museum for wood culture.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%AB%8B%E6%9C%A8%E3%81%AE%E6%AE%BF%E5%A0%82",
+   "https://www.wikidata.org/wiki/Q11393028"
+  ]
+ },
+ {
+  "id": "paraninfo-de-la-universidad-del-pais-vasco",
+  "qid": "Q3755956",
+  "status": "photo",
+  "why": "Siza building; the lead describes the tiled facade and the 2010 opening.",
+  "name": "Paraninfo de la Universidad del País Vasco",
+  "by": "Álvaro Siza Vieira",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": 2010,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Álvaro Siza's 2010 hall for the Basque Country university, faced in grey handmade tiles and white marble.",
+  "commons_category": "Category:Paranymph of Euskal Herriko Unibertsitatea (Bizkaia Aretoa)",
+  "coords": [
+   43.26867,
+   -2.93781
+  ],
+  "photos": [
+   {
+    "file": "File:Bilbao - Torre Iberdrola y Paraninfo de la UPV-EHU 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Paraninfo_de_la_Universidad_del_Pa%C3%ADs_Vasco",
+   "https://www.wikidata.org/wiki/Q3755956"
+  ]
+ },
+ {
+  "id": "himeji-city-museum-of-literature",
+  "qid": "Q11447552",
+  "status": "photo",
+  "why": "Ando built work on the architect test; the lead is short.",
+  "name": "Himeji City Museum of Literature",
+  "by": "Tadao Ando",
+  "city": "Himeji",
+  "cc": "JP",
+  "year": 1991,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Tadao Ando's municipal literature museum in Himeji, Hyogo.",
+  "commons_category": "Category:Himeji City Museum of Literature",
+  "coords": [
+   34.84177,
+   134.68766
+  ],
+  "photos": [
+   {
+    "file": "File:Himeji City Museum of Literature01-r.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Himeji City Museum of Literature04s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%A7%AB%E8%B7%AF%E6%96%87%E5%AD%A6%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11447552"
+  ]
+ },
+ {
+  "id": "kfw-westarkade",
+  "qid": "Q2564456",
+  "status": "photo",
+  "why": "Sauerbruch Hutton tower; the lead gives its sustainable design and the 2011 award.",
+  "name": "KfW Westarkade",
+  "by": "Sauerbruch Hutton",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": 2010,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "A 14-storey Frankfurt office tower run on natural ventilation and geothermal energy, named best tall building in 2011.",
+  "commons_category": "Category:Westarkade",
+  "coords": [
+   50.1206,
+   8.65452
+  ],
+  "photos": [
+   {
+    "file": "File:Westarkade, Frankfurt, West view 20170226 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Westarkade highrise, Frankfurt, Northwest view 20170226 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Westarkade Frankfurt.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/KfW_Westarkade",
+   "https://www.wikidata.org/wiki/Q2564456"
+  ]
+ },
+ {
+  "id": "muritzeum",
+  "qid": "Q872955",
+  "status": "photo",
+  "why": "Wingårdh building; the lead names the aquarium.",
+  "name": "Müritzeum",
+  "by": "Gert Wingårdh",
+  "city": "Waren",
+  "cc": "DE",
+  "year": 2007,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Water"
+  ],
+  "features": "Gert Wingårdh's visitor centre on Lake Müritz, with the largest freshwater aquarium for native fish in Germany.",
+  "commons_category": "Category:Müritzeum",
+  "coords": [
+   53.515,
+   12.6844
+  ],
+  "photos": [
+   {
+    "file": "File:20250717.Waren.Müritzeum.-015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/M%C3%BCritzeum",
+   "https://www.wikidata.org/wiki/Q872955"
+  ]
+ },
+ {
+  "id": "przedszkole-bundestagu",
+  "qid": "Q104820679",
+  "status": "photo",
+  "why": "Peichl building; the lead gives the ship form and the colour.",
+  "name": "Kita des Deutschen Bundestages",
+  "by": "Gustav Peichl",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1999,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Peichl's Berlin nursery for Bundestag families, shaped like a ship moored on the Spree, with lively colour.",
+  "commons_category": "Category:Bundestagskindergarten",
+  "coords": [
+   52.5213,
+   13.3753
+  ],
+  "photos": [
+   {
+    "file": "File:Bundestagskindergarten.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin, Bundestagskindergarten 2014-07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Deutscher Bundestag - Kindertagesstätte.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Przedszkole_Bundestagu",
+   "https://www.wikidata.org/wiki/Q104820679"
+  ]
+ },
+ {
+  "id": "fukuoka-camera-museum",
+  "qid": "Q116972269",
+  "status": "photo",
+  "why": "Ando built work on the architect test; the lead names the museum theme.",
+  "name": "Fukuoka Camera Museum",
+  "by": "Tadao Ando",
+  "city": "Takaoka",
+  "cc": "JP",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Tadao Ando's camera and photography museum in Takaoka, Toyama.",
+  "commons_category": "Category:Fukuoka Camera Museum",
+  "coords": [
+   36.71147,
+   136.92981
+  ],
+  "photos": [
+   {
+    "file": "File:Fukuoka Camera Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A5%E3%82%BC%E3%81%B5%E3%81%8F%E3%81%8A%E3%81%8B%E3%82%AB%E3%83%A1%E3%83%A9%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q116972269"
+  ]
+ },
+ {
+  "id": "centro-cultural-de-viana-do-castelo",
+  "qid": "Q18483738",
+  "status": "photo",
+  "why": "Souto de Moura building; the lead names him and the 2013 opening.",
+  "name": "Centro Cultural de Viana do Castelo",
+  "by": "Eduardo Souto de Moura",
+  "city": "Viana do Castelo",
+  "cc": "PT",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Souto de Moura's multi-purpose cultural centre on the Lima estuary, opened in 2013 after long delays.",
+  "commons_category": "Category:Coliseu de Viana do Castelo",
+  "coords": [
+   41.69022,
+   -8.82885
+  ],
+  "photos": [
+   {
+    "file": "File:Centro Cultural de Viana do Castelo - Portugal (53466324161).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centro Cultural de Viana do Castelo - Portugal (53425263052).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Centro_Cultural_de_Viana_do_Castelo",
+   "https://www.wikidata.org/wiki/Q18483738"
+  ]
+ },
+ {
+  "id": "centre-ceramique",
+  "qid": "Q3180768",
+  "status": "photo",
+  "why": "Coenen building; the lead describes its programme.",
+  "name": "Centre Céramique",
+  "by": "Jo Coenen",
+  "city": "Maastricht",
+  "cc": "NL",
+  "year": 1995,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Jo Coenen's cultural centre in Maastricht's Céramique district, with the city library, concert podium and café.",
+  "commons_category": "Category:Centre Céramique (Maastricht)",
+  "coords": [
+   50.84583,
+   5.70111
+  ],
+  "photos": [
+   {
+    "file": "File:20130505 Maastricht Céramique 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centre Céramique, Maastricht, Netherlands - panoramio (26).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Centre_C%C3%A9ramique_%28Maastricht%29",
+   "https://www.wikidata.org/wiki/Q3180768"
+  ]
+ },
+ {
+  "id": "ken-iwata-mother-and-child-museum",
+  "qid": "Q11377194",
+  "status": "photo",
+  "why": "Ito building; the lead describes the half-open exhibition space.",
+  "name": "Ken Iwata Mother and Child Museum",
+  "by": "Toyo Ito",
+  "city": "Imabari",
+  "cc": "JP",
+  "year": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Toyo Ito's reinforced-concrete museum on Ōmishima island, half open to the air, with benches among sculptures.",
+  "commons_category": "Category:Ken Iwata Mother and Child Museum",
+  "coords": [
+   34.19479,
+   132.95418
+  ],
+  "photos": [
+   {
+    "file": "File:Mother and child museum - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mother and child museum - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Ken_Iwata_Mother_and_Child_Museum",
+   "https://www.wikidata.org/wiki/Q11377194"
+  ]
+ },
+ {
+  "id": "residenze-hadid",
+  "qid": "Q48807681",
+  "status": "photo",
+  "why": "Hadid complex; the lead gives the seven buildings and the ten-year build.",
+  "name": "Residenze Hadid",
+  "by": "Zaha Hadid",
+  "city": "Milan",
+  "cc": "IT",
+  "year": 2014,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Zaha Hadid's CityLife complex of seven residential buildings in Milan, built over ten years from 2004.",
+  "commons_category": "Category:Residenze Hadid",
+  "coords": [
+   45.47592,
+   9.15757
+  ],
+  "photos": [
+   {
+    "file": "File:Residenze Hadid, CityLife district, Milan, Italy 03 00 33 307000.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Residenze Hadid, CityLife district, Milan, Italy 03 00 44 213000.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Residenze_Hadid",
+   "https://www.wikidata.org/wiki/Q48807681"
+  ]
+ },
+ {
+  "id": "campus-palmas-altas-sevilla",
+  "qid": "Q5746034",
+  "status": "photo",
+  "why": "Rogers is well-known; lead gives the 2009 inauguration. Main photo at dusk rejected; daylight photos used.",
+  "name": "Campus Palmas Altas (Sevilla)",
+  "by": "Richard Rogers",
+  "city": "Seville",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "A group of seven buildings by Richard Rogers and Luis Vidal Arquitectos, once Abengoa's headquarters.",
+  "commons_category": "Category:Campus Palmas Altas (Sevilla)",
+  "coords": [
+   37.33861,
+   -5.97639
+  ],
+  "photos": [
+   {
+    "file": "File:Campus Palmas Altas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palmas Altas (Abengoa).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palmas Altas 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Campus_Palmas_Altas_%28Sevilla%29",
+   "https://www.wikidata.org/wiki/Q5746034"
+  ]
+ },
+ {
+  "id": "hagi-uragami-museum",
+  "qid": "Q11467091",
+  "status": "photo",
+  "why": "Tange is well-known with other buildings on the wall; the lead names no architect. Year from prep.",
+  "name": "Hagi Uragami Museum",
+  "by": "Kenzō Tange",
+  "city": "Hagi",
+  "cc": "JP",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Community",
+   "Public space"
+  ],
+  "features": "A prefectural art museum in Hagi, one of several cultural facilities planned to be spread evenly across Yamaguchi Prefecture.",
+  "commons_category": "Category:Hagi Uragami Museum",
+  "coords": [
+   34.40944,
+   131.39436
+  ],
+  "photos": [
+   {
+    "file": "File:Hagi Uragami Mus.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:山口県立萩美術館・浦上記念館 2023-11-25.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E7%9C%8C%E7%AB%8B%E8%90%A9%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E6%B5%A6%E4%B8%8A%E8%A8%98%E5%BF%B5%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11467091"
+  ]
+ },
+ {
+  "id": "ciudad-bbva",
+  "qid": "Q19788709",
+  "status": "photo",
+  "why": "Herzog & de Meuron are well-known; the lead names the complex and La Vela.",
+  "name": "Ciudad BBVA",
+  "by": "Herzog & de Meuron",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2015,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Cluster",
+   "Sculptural form"
+  ],
+  "features": "Seven buildings forming BBVA's operating centre in Madrid, with the 93-metre tower La Vela.",
+  "commons_category": "Category:Ciudad BBVA",
+  "coords": [
+   40.50117,
+   -3.66417
+  ],
+  "photos": [
+   {
+    "file": "File:Ciudad BBVA.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:La vela bbva.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Ciudad_BBVA",
+   "https://www.wikidata.org/wiki/Q19788709"
+  ]
+ },
+ {
+  "id": "tateyama-museum-of-toyama",
+  "qid": "Q11456516",
+  "status": "photo",
+  "why": "Isozaki is well-known; the lead is short but the main photo is clear and in daylight.",
+  "name": "Tateyama Museum of Toyama",
+  "by": "Arata Isozaki",
+  "city": "Tateyama",
+  "cc": "JP",
+  "year": 1991,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "A prefectural museum in Tateyama, built as a wide-area, dispersed museum.",
+  "commons_category": "Category:Tateyama Museum of Toyama",
+  "coords": [
+   36.58271,
+   137.39349
+  ],
+  "photos": [
+   {
+    "file": "File:Tateyama-museum toyama-pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E7%9C%8C%E7%AB%8B%E5%B1%B1%E5%8D%9A%E7%89%A9%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11456516"
+  ]
+ },
+ {
+  "id": "nakaya-ukichiro-museum-of-snow-and-ice",
+  "qid": "Q17226278",
+  "status": "photo",
+  "why": "The lead names Isozaki as designer and gives the 1994 completion.",
+  "name": "Nakaya Ukichiro Museum of Snow and Ice",
+  "by": "Arata Isozaki",
+  "city": "Kaga",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Arata Isozaki's museum for physicist Nakaya Ukichiro, with a hands-on lab for making snow and ice.",
+  "commons_category": "Category:Nakaya Ukichoro Museum of Snow and Ice",
+  "coords": [
+   36.35244,
+   136.3625
+  ],
+  "photos": [
+   {
+    "file": "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan01s4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan02s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%B0%B7%E5%AE%87%E5%90%89%E9%83%8E%E9%9B%AA%E3%81%AE%E7%A7%91%E5%AD%A6%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q17226278"
+  ]
+ },
+ {
+  "id": "lafayette-anticipations-galeries-lafayette-corporate-foundation",
+  "qid": "Q17353174",
+  "status": "photo",
+  "why": "OMA rehabilitated the building; the lead gives the March 2018 opening. Facade photo only.",
+  "name": "Lafayette Anticipations – Galeries Lafayette Corporate Foundation",
+  "by": "Rem Koolhaas, Ellen van Loon",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2018,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A Paris foundation for artists, opened in 2018 in a building rehabilitated by Rem Koolhaas and OMA.",
+  "commons_category": "Category:Lafayette Anticipations",
+  "coords": [
+   48.85922,
+   2.3548
+  ],
+  "photos": [
+   {
+    "file": "File:Façade du 9 rue du Plâtre, bâtiment rénové par Rem Koolhaas et OMA.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Lafayette_Anticipations_-_Fondation_d%27entreprise_Galeries_Lafayette",
+   "https://www.wikidata.org/wiki/Q17353174"
+  ]
+ },
+ {
+  "id": "maison-de-l-ordre-des-avocats",
+  "qid": "Q50532135",
+  "status": "photo",
+  "why": "Piano is well-known; the lead names his agency and the Cité judiciaire site.",
+  "name": "Maison de l'ordre des avocats",
+  "by": "Renzo Piano",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2019,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Renzo Piano's agency designed this building, home to the Paris bar's lawyers' order, in the Cité judiciaire.",
+  "commons_category": "Category:Maison de l'ordre des avocats",
+  "coords": [
+   48.8949,
+   2.31131
+  ],
+  "photos": [
+   {
+    "file": "File:Maison des Avocats (DSC09467).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Maison des Avocats (DSC09463).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Maison_de_l%27ordre_des_avocats",
+   "https://www.wikidata.org/wiki/Q50532135"
+  ]
+ },
+ {
+  "id": "toyama-international-conference-center",
+  "qid": "Q11456337",
+  "status": "photo",
+  "why": "Maki is well-known. Prep flags both photos as junk; checked by eye, the building is clear and in daylight.",
+  "name": "Toyama International Conference Center",
+  "by": "Fumihiko Maki",
+  "city": "Toyama",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Toyama's convention centre, nicknamed the Ōtemachi Forum.",
+  "commons_category": "Category:Toyama International Conference Center",
+  "coords": [
+   36.69153,
+   137.21108
+  ],
+  "photos": [
+   {
+    "file": "File:080506 Toyama International Conference Center Toyama Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Toyama International Conference Center 20180503.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B1%B1%E5%9B%BD%E9%9A%9B%E4%BC%9A%E8%AD%B0%E5%A0%B4",
+   "https://www.wikidata.org/wiki/Q11456337"
+  ]
+ },
+ {
+  "id": "campus-einaudi",
+  "qid": "Q41670794",
+  "status": "photo",
+  "why": "Foster is well-known; the lead is short but the campus is clear in daylight.",
+  "name": "Campus Einaudi",
+  "by": "Norman Foster",
+  "city": "Turin",
+  "cc": "IT",
+  "year": 2012,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A Turin university campus on Lungo Dora Siena, named after Italy's second president, Luigi Einaudi.",
+  "commons_category": "Category:Campus Einaudi",
+  "coords": [
+   45.07391,
+   7.69966
+  ],
+  "photos": [
+   {
+    "file": "File:Campus Universitario.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Campus Luigi Einaudi @ Università degli Studi di Torino @ Turin (49195208386).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Campus Luigi Einaudi Torino - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Campus_Luigi_Einaudi",
+   "https://www.wikidata.org/wiki/Q41670794"
+  ]
+ },
+ {
+  "id": "1101-new-york-avenue",
+  "qid": "Q4547248",
+  "status": "photo",
+  "why": "Roche is well-known with other buildings on the wall; the lead gives the design detail and 2007 completion.",
+  "name": "1101 New York Avenue",
+  "by": "Kevin Roche",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": 2007,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "A Washington office tower whose corners are notched to give more window offices.",
+  "commons_category": null,
+  "coords": [
+   38.9003,
+   -77.0275
+  ],
+  "photos": [
+   {
+    "file": "File:1101 New York Avenue, NW - Washington, D.C..jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/1101_New_York_Avenue",
+   "https://www.wikidata.org/wiki/Q4547248"
+  ]
+ },
+ {
+  "id": "nagano-city-arts-center",
+  "qid": "Q85884244",
+  "status": "photo",
+  "why": "Maki is well-known; the lead gives the 2016 opening.",
+  "name": "Nagano City Arts Center",
+  "by": "Fumihiko Maki",
+  "city": "Nagano",
+  "cc": "JP",
+  "year": 2016,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Community"
+  ],
+  "features": "A comprehensive arts and culture centre in Nagano City, opened on 8 May 2016.",
+  "commons_category": "Category:Nagano City Arts Center",
+  "coords": [
+   36.6485,
+   138.19533
+  ],
+  "photos": [
+   {
+    "file": "File:Nagano-city arts center 長野市芸術館.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagano-city main Hall＆Nagano-city Arts center 長野市役所と長野市芸術館.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E9%95%B7%E9%87%8E%E5%B8%82%E8%8A%B8%E8%A1%93%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q85884244"
+  ]
+ },
+ {
+  "id": "beetham-tower-manchester",
+  "qid": "Q814128",
+  "status": "photo",
+  "why": "The lead gives a first (the Financial Times description) and the 2006 completion.",
+  "name": "Beetham Tower, Manchester",
+  "by": "SimpsonHaugh and Partners, Ian Simpson",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": 2006,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Described by the Financial Times as the UK's first proper skyscraper outside London.",
+  "commons_category": "Category:Beetham Tower, Manchester",
+  "coords": [
+   53.47528,
+   -2.25028
+  ],
+  "photos": [
+   {
+    "file": "File:Beetham Tower Manchester (5871822967).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beetham Tower Manchester (5871824135).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beetham_Tower%2C_Manchester",
+   "https://www.wikidata.org/wiki/Q814128"
+  ]
+ },
+ {
+  "id": "finnish-forest-museum-lusto",
+  "qid": "Q11879901",
+  "status": "photo",
+  "why": "Mahlamäki has a building on the wall. Lead is short; main photo is clear.",
+  "name": "Finnish Forest Museum Lusto",
+  "by": "Rainer Mahlamäki, Ilmari Lahdelma",
+  "city": "Savonlinna",
+  "cc": "FI",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Finland's forest museum, sited at Punkaharju.",
+  "commons_category": "Category:Finnish Forest Museum Lusto",
+  "coords": [
+   61.79917,
+   29.32194
+  ],
+  "photos": [
+   {
+    "file": "File:Lusto 1 AB.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Lusto",
+   "https://www.wikidata.org/wiki/Q11879901"
+  ]
+ },
+ {
+  "id": "caja-magica",
+  "qid": "Q371585",
+  "status": "photo",
+  "why": "Perrault is well-known; the lead gives the design (three courts, retractable roofs).",
+  "name": "Caja Mágica",
+  "by": "Dominique Perrault",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "A Madrid tennis centre with three courts under one structure and a series of retractable roofs.",
+  "commons_category": "Category:Caja Mágica",
+  "coords": [
+   40.3689,
+   -3.68415
+  ],
+  "photos": [
+   {
+    "file": "File:Caja Mágica exterior.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Los espacios de eventos de Madrid Destino se consolidan como polo de actividad empresarial, solidaria y ciudadana 05.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Caja_M%C3%A1gica",
+   "https://www.wikidata.org/wiki/Q371585"
+  ]
+ },
+ {
+  "id": "onikuru",
+  "qid": "Q124710195",
+  "status": "photo",
+  "why": "Toyo Ito is well-known; the lead is short; the main photo is a clean exterior.",
+  "name": "ONIKURU",
+  "by": "Toyo Ito",
+  "city": "Ibaraki",
+  "cc": "JP",
+  "year": 2023,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A civic complex in Ibaraki with a hall, library, children's centre, indoor playground and planetarium.",
+  "commons_category": "Category:Onikuru",
+  "coords": [
+   34.81558,
+   135.56933
+  ],
+  "photos": [
+   {
+    "file": "File:おにクル開業日の写真.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%AB%E3%82%AF%E3%83%AB",
+   "https://www.wikidata.org/wiki/Q124710195"
+  ]
+ },
+ {
+  "id": "skylight",
+  "qid": "Q1425497",
+  "status": "photo",
+  "why": "Rogers is well-known; the lead gives the design idea and the 6 September 2001 opening.",
+  "name": "Skylight",
+  "by": "Richard Rogers",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": 2001,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Cluster",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A 'city within a city' in Frankfurt: offices, shops and flats around a 66-metre residential tower.",
+  "commons_category": "Category:Skylight (Frankfurt am Main)",
+  "coords": [
+   50.117,
+   8.6822
+  ],
+  "photos": [
+   {
+    "file": "File:Frankfurt, Skylight, SEB.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Skylight_%28Frankfurt_am_Main%29",
+   "https://www.wikidata.org/wiki/Q1425497"
+  ]
+ },
+ {
+  "id": "de-citadel",
+  "qid": "Q1816575",
+  "status": "photo",
+  "why": "Portzamparc is well-known; the lead gives the prize and the OMA masterplan link.",
+  "name": "De Citadel",
+  "by": "Christian de Portzamparc",
+  "city": "Almere",
+  "cc": "NL",
+  "year": 2006,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Public space"
+  ],
+  "features": "Portzamparc's multi-use building at the heart of OMA's Almere centre masterplan, which won an Almere architecture prize.",
+  "commons_category": "Category:De Citadel, Almere",
+  "coords": [
+   52.3696,
+   5.21881
+  ],
+  "photos": [
+   {
+    "file": "File:Citadel almere flickr.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Citadel_%28Almere%29",
+   "https://www.wikidata.org/wiki/Q1816575"
+  ]
+ },
+ {
+  "id": "chihiro-art-museum-azumino",
+  "qid": "Q11450770",
+  "status": "photo",
+  "why": "Naito has three buildings on the wall; the lead gives the scale claim.",
+  "name": "Chihiro Art Museum Azumino",
+  "by": "Hiroshi Naito",
+  "city": "Matsukawa",
+  "cc": "JP",
+  "year": 1997,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Community"
+  ],
+  "features": "The world's largest picture-book museum, in Matsukawa village's Azumino Chihiro Park.",
+  "commons_category": "Category:Chihiro Art Museum Azumino",
+  "coords": [
+   36.41492,
+   137.84417
+  ],
+  "photos": [
+   {
+    "file": "File:150922 Chihiro Art Museum Azumino Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:150922 Chihiro Art Museum Azumino Japan02s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%AE%89%E6%9B%87%E9%87%8E%E3%81%A1%E3%81%B2%E3%82%8D%E7%BE%8E%E8%A1%93%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11450770"
+  ]
+ },
+ {
+  "id": "pabellon-de-la-navegacion",
+  "qid": "Q12198135",
+  "status": "photo",
+  "why": "The lead gives the biennial mention and the Expo origin; one clean exterior photo.",
+  "name": "Pabellón de la Navegación",
+  "by": "Guillermo Vázquez Consuegra",
+  "city": "Seville",
+  "cc": "ES",
+  "year": 1992,
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Modular"
+  ],
+  "features": "Built for Seville's 1992 Expo, now an Atlantic navigation museum; its architect won a biennial mention.",
+  "commons_category": "Category:Pabellón de la Navegación",
+  "coords": [
+   37.39451,
+   -6.00789
+  ],
+  "photos": [
+   {
+    "file": "File:Pabellon navegacion e2012003.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Pabell%C3%B3n_de_la_Navegaci%C3%B3n_%28Sevilla%29",
+   "https://www.wikidata.org/wiki/Q12198135"
+  ]
+ },
+ {
+  "id": "burghof-lorrach",
+  "qid": "Q1015062",
+  "status": "photo",
+  "why": "The lead says the architecture is known beyond the region and works with the old town. Two clean exteriors.",
+  "name": "Burghof Lörrach",
+  "by": "Steib + Steib",
+  "city": "Lörrach",
+  "cc": "DE",
+  "year": 1998,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Community"
+  ],
+  "features": "A culture and events centre in Lörrach whose architecture works with the historic old town.",
+  "commons_category": "Category:Burghof Lörrach",
+  "coords": [
+   47.61083,
+   7.65928
+  ],
+  "photos": [
+   {
+    "file": "File:Burghof Lörrach... - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Truncated Pyramid Room.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Burghof_L%C3%B6rrach",
+   "https://www.wikidata.org/wiki/Q1015062"
+  ]
+ },
+ {
+  "id": "yaoko-kawagoe-museum",
+  "qid": "Q11344966",
+  "status": "photo",
+  "why": "Toyo Ito is well-known; the lead is short; the main photo is a clean daylight exterior.",
+  "name": "Yaoko Kawagoe Museum",
+  "by": "Toyo Ito",
+  "city": "Kawagoe",
+  "cc": "JP",
+  "year": 2012,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A Kawagoe art museum showing the works of Western-style painter Misu Yuji.",
+  "commons_category": null,
+  "coords": [
+   35.92856,
+   139.48906
+  ],
+  "photos": [
+   {
+    "file": "File:Yaoko Kawagoe Museum aka Yuji Misu Memorial Hall.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%AA%E3%82%B3%E3%83%BC%E5%B7%9D%E8%B6%8A%E7%BE%8E%E8%A1%93%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11344966"
+  ]
+ },
+ {
+  "id": "the-frances-young-tang-teaching-museum-and-art-gallery",
+  "qid": "Q16201701",
+  "status": "photo",
+  "why": "Predock has a building on the wall; the lead is one sentence; the main photo is a clean exterior.",
+  "name": "The Frances Young Tang Teaching Museum and Art Gallery",
+  "by": "Antoine Predock",
+  "city": "Saratoga Springs",
+  "cc": "US",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A teaching museum and art gallery at Skidmore College in Saratoga Springs, New York.",
+  "commons_category": "Category:Frances Young Tang Teaching Museum and Art Gallery",
+  "coords": [
+   43.0954,
+   -73.7859
+  ],
+  "photos": [
+   {
+    "file": "File:Tang Museum entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Frances_Young_Tang_Teaching_Museum_and_Art_Gallery",
+   "https://www.wikidata.org/wiki/Q16201701"
+  ]
+ },
+ {
+  "id": "musik-und-kongresshalle-lubeck",
+  "qid": "Q1954986",
+  "status": "photo",
+  "why": "Gerkan is well-known with other buildings on the wall; the lead gives the mixed programme and 1994 opening.",
+  "name": "Musik- und Kongresshalle Lübeck",
+  "by": "Meinhard von Gerkan",
+  "city": "Lübeck",
+  "cc": "DE",
+  "year": 1994,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Public space"
+  ],
+  "features": "A Lübeck hall combining an international congress centre, a philharmonic and a civic hall, opened in 1994.",
+  "commons_category": "Category:Musik- und Kongreßhalle Lübeck",
+  "coords": [
+   53.8693,
+   10.6781
+  ],
+  "photos": [
+   {
+    "file": "File:MuK. - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:MuK Musik und Kongresshalle Lübeck.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lubeck sala kongresowa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Musik-_und_Kongresshalle_L%C3%BCbeck",
+   "https://www.wikidata.org/wiki/Q1954986"
+  ]
+ },
+ {
+  "id": "taisha-urara-kan-cultural-hall",
+  "qid": "Q11438315",
+  "status": "photo",
+  "why": "Toyo Ito is well-known; the lead is one line; the main photo is clean.",
+  "name": "Taisha Urara-kan Cultural Hall",
+  "by": "Toyo Ito",
+  "city": "Izumo",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A cultural facility in Izumo City, Shimane Prefecture.",
+  "commons_category": null,
+  "coords": [
+   35.3906,
+   132.68496
+  ],
+  "photos": [
+   {
+    "file": "File:Taisya bunkaplace.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A4%BE%E6%96%87%E5%8C%96%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9",
+   "https://www.wikidata.org/wiki/Q11438315"
+  ]
+ },
+ {
+  "id": "kaustinen-folk-arts-centre",
+  "qid": "Q18681944",
+  "status": "photo",
+  "why": "Mahlamäki has a building on the wall; the lead gives the function; brick exteriors in daylight.",
+  "name": "Kaustinen Folk Arts Centre",
+  "by": "Rainer Mahlamäki",
+  "city": "Kaustinen",
+  "cc": "FI",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Landscape"
+  ],
+  "features": "A culture and events centre and concert house in Kaustinen, presenting Finnish folk culture.",
+  "commons_category": "Category:Kaustinen Folk Arts Centre",
+  "coords": [
+   63.54382,
+   23.6924
+  ],
+  "photos": [
+   {
+    "file": "File:Kaustinen CAP.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Kansantaiteenkeskus (14791386510).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kansantaiteenkeskus (14955095296).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fi.wikipedia.org/wiki/Kansantaiteenkeskus",
+   "https://www.wikidata.org/wiki/Q18681944"
+  ]
+ },
+ {
+  "id": "church-of-st-basil-of-ostrog-belgrade",
+  "qid": "Q2497798",
+  "status": "photo",
+  "why": "Lead names the architect and his plan; first church in New Belgrade since WWII. Photos daylight, outside.",
+  "name": "Church of St. Basil of Ostrog, Belgrade",
+  "by": "Mihajlo Mitrović",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": 2001,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Community",
+   "Vault"
+  ],
+  "features": "New Belgrade's first church since World War II, with an 'old Christian' rotunda plan and tall bell-tower.",
+  "commons_category": "Category:Church of St. Basil of Ostrog (Novi Beograd)",
+  "coords": [
+   44.82028,
+   20.38806
+  ],
+  "photos": [
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Church_of_St._Basil_of_Ostrog%2C_Belgrade",
+   "https://www.wikidata.org/wiki/Q2497798"
+  ]
+ },
+ {
+  "id": "ishikawa-nanao-art-museum",
+  "qid": "Q11585933",
+  "status": "photo",
+  "why": "Short lead, but architect (Uchii) has a building on the wall, so kept. Single daylight exterior photo.",
+  "name": "Ishikawa Nanao Art Museum",
+  "by": "Shozo Uchii",
+  "city": "Nanao",
+  "cc": "JP",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Light & shadow"
+  ],
+  "features": "A 1995 art museum on the Noto Peninsula by Shozo Uchii, holding works by Hasegawa Tōhaku.",
+  "commons_category": "Category:Ishikawa Nanao Art Museum",
+  "coords": [
+   37.04481,
+   136.95373
+  ],
+  "photos": [
+   {
+    "file": "File:石川県七尾美術館 Nanao Art Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ishikawa_Nanao_Art_Museum",
+   "https://www.wikidata.org/wiki/Q11585933"
+  ]
+ },
+ {
+  "id": "dia-beacon",
+  "qid": "Q1207917",
+  "status": "photo",
+  "why": "Adaptive reuse with a clear lead. Prep architect is artist Robert Irwin; the lead names the renovating architects, so those are used.",
+  "name": "Dia Beacon",
+  "by": "Robert Irwin, Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
+  "city": "Beacon",
+  "cc": "US",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A former Nabisco box-printing factory near the Hudson, renovated for Dia's art collection with Robert Irwin and OpenOffice architects.",
+  "commons_category": "Category:Dia:Beacon",
+  "coords": [
+   41.50008,
+   -73.98257
+  ],
+  "photos": [
+   {
+    "file": "File:Dia Beacon (55195273088).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dia Beacon 08.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dia Beacon 09.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dia_Beacon",
+   "https://www.wikidata.org/wiki/Q1207917"
+  ]
+ },
+ {
+  "id": "otsuka-museum-of-art",
+  "qid": "Q3329659",
+  "status": "photo",
+  "why": "Sakakura firm (Junzo Sakakura office, with buildings on the wall); lead is about the museum, founded 1998.",
+  "name": "Ōtsuka Museum of Art",
+  "by": "Sakakura Associates Architects and Engineers",
+  "city": "Naruto",
+  "cc": "JP",
+  "year": 1998,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Over a thousand full-size ceramic reproductions of famous artworks, including the Sistine Chapel, in Naruto.",
+  "commons_category": "Category:Otsuka Museum of Art",
+  "coords": [
+   34.2324,
+   134.638
+  ],
+  "photos": [
+   {
+    "file": "File:The Otsuka Museum of Art01s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:The Otsuka Museum of Art20s3203.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Otsuka Museum of Art10s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/%C5%8Ctsuka_Museum_of_Art",
+   "https://www.wikidata.org/wiki/Q3329659"
+  ]
+ },
+ {
+  "id": "cite-de-la-mode-et-du-design",
+  "qid": "Q2974772",
+  "status": "photo",
+  "why": "Lead names Jakob + MacFarlane and calls it a bold contemporary monument; opened 2010 per lead. Main photo (terrace) rejected; flood-view photos used.",
+  "name": "Cité de la mode et du design",
+  "by": "Dominique Jakob, Brendan Macfarlane",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2010,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Public space"
+  ],
+  "features": "Jakob and MacFarlane's bold fashion and design centre, built on the site of old general storehouses beside the Seine.",
+  "commons_category": "Category:Cité de la mode et du design",
+  "coords": [
+   48.84111,
+   2.36972
+  ],
+  "photos": [
+   {
+    "file": "File:Crue2018 - Quai d'Austerlitz (69) - pht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crue2018 - Quai d'Austerlitz (60) - pht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cit%C3%A9_de_la_mode_et_du_design",
+   "https://www.wikidata.org/wiki/Q2974772"
+  ]
+ },
+ {
+  "id": "550-south-tryon",
+  "qid": "Q3041087",
+  "status": "photo",
+  "why": "Lead gives a first (tallest building to use precast double tees). Office tower kept for that reason.",
+  "name": "550 South Tryon",
+  "by": "Tvsdesign",
+  "city": "Charlotte",
+  "cc": "US",
+  "year": 2010,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Monumentality",
+   "Modular"
+  ],
+  "features": "The tallest building in the world to use precast double tees, completed in 2010 in Charlotte.",
+  "commons_category": "Category:550 South Tryon",
+  "coords": [
+   35.224,
+   -80.8481
+  ],
+  "photos": [
+   {
+    "file": "File:Duke Energy Center Charlotte.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Charlotte, North Carolina.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Duke Energy Center and The Westin Charlotte, 2010.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/550_South_Tryon",
+   "https://www.wikidata.org/wiki/Q3041087"
+  ]
+ },
+ {
+  "id": "new-synagogue-mainz",
+  "qid": "Q870253",
+  "status": "photo",
+  "why": "Lead gives design and site (rebuilt on the 1938 synagogue site); Manuel Herz has a building on the wall. Night photo excluded.",
+  "name": "New Synagogue (Mainz)",
+  "by": "Manuel Herz",
+  "city": "Mainz",
+  "cc": "DE",
+  "year": 2010,
+  "type": "Religious",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Community",
+   "Facade as skin"
+  ],
+  "features": "A Modernist-styled synagogue and community centre on the site of Mainz's synagogue destroyed in 1938.",
+  "commons_category": "Category:New Synagogue in Mainz",
+  "coords": [
+   50.0087,
+   8.25931
+  ],
+  "photos": [
+   {
+    "file": "File:New Synagogue Mainz exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagoge Mainz.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:New Synagogue, Mainz, front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Synagogue_%28Mainz%29",
+   "https://www.wikidata.org/wiki/Q870253"
+  ]
+ },
+ {
+  "id": "ardmore-residence",
+  "qid": "Q20311743",
+  "status": "photo",
+  "why": "Lead gives design and an Emporis award; van Berkel has buildings on the wall. Newton is a district, so city is Singapore.",
+  "name": "Ardmore Residence",
+  "by": "Ben van Berkel",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": 2013,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Sculptural form"
+  ],
+  "features": "A Singapore tower whose skin of four-storey sections has carved openings and balconies, by Ben van Berkel.",
+  "commons_category": null,
+  "coords": [
+   1.30997,
+   103.82889
+  ],
+  "photos": [
+   {
+    "file": "File:Ardmore Residence.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ardmore_Residence",
+   "https://www.wikidata.org/wiki/Q20311743"
+  ]
+ },
+ {
+  "id": "paulinum-university-of-leipzig",
+  "qid": "Q2063901",
+  "status": "photo",
+  "why": "Lead names the award-winning architect and the rebuilt-on-site story. Year 2017 from prep.json (lead gives no completion year).",
+  "name": "Paulinum (University of Leipzig)",
+  "by": "Erick van Egeraat",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": 2017,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "Erick van Egeraat's university hall on the old Paulinerkirche site; the church was destroyed in 1968.",
+  "commons_category": "Category:Paulinum",
+  "coords": [
+   51.33903,
+   12.37931
+  ],
+  "photos": [
+   {
+    "file": "File:Paulinum72012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Neues Augusteum & Paulinum.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Augusteum & Paulinum.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paulinum_%28University_of_Leipzig%29",
+   "https://www.wikidata.org/wiki/Q2063901"
+  ]
+ },
+ {
+  "id": "grandstand-us-open",
+  "qid": "Q28451256",
+  "status": "photo",
+  "why": "Lead gives a first (first LEED tennis stadium). Main photo is at night, so daylight photos used.",
+  "name": "Grandstand (US Open)",
+  "by": "Rossetti Architects",
+  "city": "New York",
+  "cc": "US",
+  "year": 2016,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Rossetti Architects' stadium at the US Open, the world's first Leadership in Energy and Environmental Design (LEED) tennis stadium.",
+  "commons_category": "Category:Grandstand (US Open)",
+  "coords": [
+   40.74788,
+   -73.8476
+  ],
+  "photos": [
+   {
+    "file": "File:Flushing Meadows Fair Grounds td (2018-05-26) 003 - USTA Grandstand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Central Pkwy td (2022-01-14) 018 - USTA Grandstand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grandstand_%28US_Open%29",
+   "https://www.wikidata.org/wiki/Q28451256"
+  ]
+ },
+ {
+  "id": "atchugarry-museum-of-contemporary-art",
+  "qid": "Q110486593",
+  "status": "photo",
+  "why": "Lead gives a first (Uruguay's first permanent contemporary art museum) and names the design architect; main photo shows the whole building.",
+  "name": "Atchugarry Museum of Contemporary Art",
+  "by": "Carlos Ott",
+  "city": "San Carlos",
+  "cc": "UY",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "A museum on a 90-acre landscape that commentators call Uruguay's first permanent contemporary art museum.",
+  "commons_category": null,
+  "coords": [
+   -34.86604,
+   -54.82065
+  ],
+  "photos": [
+   {
+    "file": "File:Museo de Arte Contemporáneo Atchugarry 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Atchugarry_Museum_of_Contemporary_Art",
+   "https://www.wikidata.org/wiki/Q110486593"
+  ]
+ },
+ {
+  "id": "spiral-house",
+  "qid": "Q19471959",
+  "status": "photo",
+  "why": "Lead gives a named design idea (terracing from Arab villages) and the architect; main photo shows the whole building.",
+  "name": "Spiral House",
+  "by": "Zvi Hecker",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": 1990,
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "An apartment complex spiralling upward, its terraced roofs used as living space, as in Arab villages.",
+  "commons_category": "Category:Spiral House",
+  "coords": [
+   32.0782,
+   34.82123
+  ],
+  "photos": [
+   {
+    "file": "File:SpiralHouseRG1.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Spiral House-Ramat Gan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:PikiWiki Israel 60671 spiral house ramat gan.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spiral_House",
+   "https://www.wikidata.org/wiki/Q19471959"
+  ]
+ },
+ {
+  "id": "beit-avi-chai",
+  "qid": "Q6953970",
+  "status": "photo",
+  "why": "Architect is on the wall (Supreme Court of Israel), and this is her built cultural centre. Lead is about activities, so the feature is thin. Year 2007 from prep (lead gives none).",
+  "name": "Beit Avi Chai",
+  "by": "Ada Karmi-Melamede",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Monumentality"
+  ],
+  "features": "A Jerusalem cultural centre and art gallery, founded by the Avi Chai Foundation to promote Jewish-Israeli culture.",
+  "commons_category": "Category:Beit Avichai",
+  "coords": [
+   31.77778,
+   35.21611
+  ],
+  "photos": [
+   {
+    "file": "File:BeitAviChaiMay062023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beit_Avi_Chai",
+   "https://www.wikidata.org/wiki/Q6953970"
+  ]
+ },
+ {
+  "id": "pantanal-aquarium",
+  "qid": "Q111905375",
+  "status": "photo",
+  "why": "Architect is on the wall (Hotel Unique), and the lead gives the aquarium's scale. Main Wikidata photo (white form on sand) is unclear, so photo 02 leads.",
+  "name": "Pantanal Aquarium",
+  "by": "Ruy Ohtake",
+  "city": "Campo Grande",
+  "cc": "BR",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Ruy Ohtake's building for the largest freshwater aquarium in the world, finished nearly eleven years late.",
+  "commons_category": "Category:Bioparque Pantanal",
+  "coords": [
+   -20.45568,
+   -54.57605
+  ],
+  "photos": [
+   {
+    "file": "File:Bioparque Pantanal 37.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bioparque Pantanal 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bioparque Pantanal 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Aqu%C3%A1rio_do_Pantanal",
+   "https://www.wikidata.org/wiki/Q111905375"
+  ]
+ },
+ {
+  "id": "klosterneuburg-protestant-church",
+  "qid": "Q38085901",
+  "status": "photo",
+  "why": "Tesar's round Protestant church, clear exterior photo.",
+  "name": "Klosterneuburg Protestant Church",
+  "by": "Heinz Tesar",
+  "city": "Klosterneuburg",
+  "cc": "AT",
+  "year": 1995,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Light from above",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Evangelical parish church on Franz-Rumpler-Strasse in Klosterneuburg, Lower Austria.",
+  "commons_category": "Category:Klosterneuburg Protestant Church",
+  "coords": [
+   48.30179,
+   16.32402
+  ],
+  "photos": [
+   {
+    "file": "File:Klosterneuburg evangelische Kirche Außenansicht.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Evangelische Pfarrkirche Klosterneuburg 01.JPG",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Klosterneuburg evangelische Kirche Innenansicht.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Evangelische Pfarrkirche Klosterneuburg 03.JPG",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Evangelische_Pfarrkirche_Klosterneuburg",
+   "https://www.wikidata.org/wiki/Q38085901"
+  ]
+ },
+ {
+  "id": "memorial-luiz-carlos-prestes",
+  "qid": "Q48878372",
+  "status": "photo",
+  "why": "Niemeyer memorial in Porto Alegre; main photo shows the building.",
+  "name": "Memorial Luiz Carlos Prestes",
+  "by": "Oscar Niemeyer",
+  "city": "Porto Alegre",
+  "cc": "BR",
+  "year": 1998,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Niemeyer's memorial and cultural centre in Porto Alegre, with curved walls recalling the Prestes Column and a photographic archive.",
+  "commons_category": "Category:Memorial Luiz Carlos Prestes",
+  "coords": [
+   -30.04593,
+   -51.23212
+  ],
+  "photos": [
+   {
+    "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 0.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Memorial_Luiz_Carlos_Prestes",
+   "https://www.wikidata.org/wiki/Q48878372"
+  ]
+ },
+ {
+  "id": "crematorium-bratislava",
+  "qid": "Q12769693",
+  "status": "photo",
+  "why": "Milucky's crematorium in Bratislava, completed 1968.",
+  "name": "Crematorium Bratislava",
+  "by": "Ferdinand Milučký",
+  "city": "Bratislava",
+  "cc": "SK",
+  "year": 1968,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "Slovakia's first crematorium, built 1967-68, its horizontal lines set in woodland on the Little Carpathians.",
+  "commons_category": "Category:Crematorium Bratislava",
+  "coords": [
+   48.2096,
+   17.04493
+  ],
+  "photos": [
+   {
+    "file": "File:WP 20151027 13 12 32 Pro.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:WP 20151027 13 11 43 Pro.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://cs.wikipedia.org/wiki/Krematorium_a_urnov%C3%BD_h%C3%A1j_v_Bratislav%C4%9B",
+   "https://www.wikidata.org/wiki/Q12769693"
+  ]
+ },
+ {
+  "id": "lugano-arte-e-cultura",
+  "qid": "Q26986943",
+  "status": "photo",
+  "why": "LAC Lugano, a major cultural centre; clear exterior photo.",
+  "name": "Lugano Arte e Cultura",
+  "by": "Ivano Gianola",
+  "city": "Lugano",
+  "cc": "CH",
+  "year": 2015,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Polyfunctional cultural centre in Lugano for music, visual and performing arts, housing the MASI art museum.",
+  "commons_category": "Category:LAC Lugano",
+  "coords": [
+   45.99932,
+   8.94808
+  ],
+  "photos": [
+   {
+    "file": "File:Lugano art culture 1090083.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:LAC di Lugano 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:LAC Lugano 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lugano_Arte_e_Cultura",
+   "https://www.wikidata.org/wiki/Q26986943"
+  ]
+ },
+ {
+  "id": "stc-group",
+  "qid": "Q2365720",
+  "status": "photo",
+  "why": "Neutelings Riedijk's STC building in Rotterdam.",
+  "name": "STC Group",
+  "by": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": 2000,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Rotterdam headquarters of the Shipping and Transport College Group, a maritime transport and logistics education provider.",
+  "commons_category": "Category:Scheepvaart en Transport College",
+  "coords": [
+   51.90172,
+   4.46127
+  ],
+  "photos": [
+   {
+    "file": "File:Rotterdam, The Netherlands (7622612352).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bevenrode (ship, 1970) in front of STC Building Rotterdam.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:STC Rotterdam vanaf de Waterweg.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam STC building seen from 3e Katendrechtsehoofd.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/STC_Group",
+   "https://www.wikidata.org/wiki/Q2365720"
+  ]
+ },
+ {
+  "id": "museum-belvedere",
+  "qid": "Q12013196",
+  "status": "photo",
+  "why": "Inbo's art museum in Heerenveen; clear exterior photo.",
+  "name": "Museum Belvédère",
+  "by": "Inbo",
+  "city": "Heerenveen",
+  "cc": "NL",
+  "year": 2004,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Facade as skin"
+  ],
+  "features": "A museum of modern and contemporary art in Heerenveen, Friesland.",
+  "commons_category": "Category:Museum Belvédère",
+  "coords": [
+   52.95722,
+   5.96361
+  ],
+  "photos": [
+   {
+    "file": "File:Museum Belvédère, Heerenveen-4807.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum Belvédère, Heerenveen-4806.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum Belvédère, Heerenveen-4804.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Museum_Belved%C3%A8re",
+   "https://www.wikidata.org/wiki/Q12013196"
+  ]
+ },
+ {
+  "id": "festspielhaus-st-polten",
+  "qid": "Q1408821",
+  "status": "photo",
+  "why": "Kada's festival house in St. Poelten, opened 1997.",
+  "name": "Festspielhaus St. Pölten",
+  "by": "Klaus Kada",
+  "city": "St. Pölten",
+  "cc": "AT",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Festival house in St. Pölten's cultural district, opened on 1 March 1997 beside the state museum and library.",
+  "commons_category": "Category:Festspielhaus (St. Pölten)",
+  "coords": [
+   48.2009,
+   15.631
+  ],
+  "photos": [
+   {
+    "file": "File:Sankt Pölten - Regierungsviertel - Festspielhaus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2019 11 20 St Poelten Festspielhaus 3.jpeg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Festspielhaus_St._P%C3%B6lten",
+   "https://www.wikidata.org/wiki/Q1408821"
+  ]
+ },
+ {
+  "id": "konzerthaus-blaibach",
+  "qid": "Q97602086",
+  "status": "photo",
+  "why": "Haimerl's concert hall in Blaibach; striking granite volume.",
+  "name": "Konzerthaus Blaibach",
+  "by": "Peter Haimerl",
+  "city": "Blaibach",
+  "cc": "DE",
+  "year": 2014,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Sculptural form",
+   "Cantilever"
+  ],
+  "features": "Concert house in the village of Blaibach in the Upper Palatinate, for concerts, cultural events and exhibitions.",
+  "commons_category": "Category:Konzerthaus Blaibach",
+  "coords": [
+   49.1659,
+   12.80787
+  ],
+  "photos": [
+   {
+    "file": "File:Konzerthaus Blaibach.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blaibach, Konzerthaus (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Konzerthaus Blaibach-1.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Konzerthaus_Blaibach",
+   "https://www.wikidata.org/wiki/Q97602086"
+  ]
+ },
+ {
+  "id": "bing-concert-hall",
+  "qid": "Q4914117",
+  "status": "photo",
+  "why": "Haiku marked it unsure only for lack of a city. The lead names Richard Olcott of Ennead and the 842-seat vineyard hall, opened 2013, and the main photo is a clear daylight exterior. City is Stanford (the lead places it at Stanford University; prep gives only Santa Clara County). Other photos are performances, so only the main is listed.",
+  "name": "Bing Concert Hall",
+  "by": "Ennead Architects",
+  "city": "Stanford",
+  "cc": "US",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Section",
+   "Public space"
+  ],
+  "features": "A Stanford concert hall with 842 seats in vineyard-style terraces around the stage, by Richard Olcott of Ennead Architects.",
+  "commons_category": "Category:Bing Concert Hall",
+  "coords": [
+   37.4319,
+   -122.166
+  ],
+  "photos": [
+   {
+    "file": "File:Bing concert hall at Stanford University.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bing_Concert_Hall",
+   "https://www.wikidata.org/wiki/Q4914117"
+  ]
+ },
+ {
+  "id": "canadian-clay-and-glass-gallery",
+  "qid": "Q5029867",
+  "status": "photo",
+  "why": "Patkau (a well-known Canadian practice) and the lead gives a design reason: a Governor General's Medal of Excellence in 1997. Built 1993 and standing. Haiku skipped it only because the architect is not on the wall. Main photo has the flag pole in front, so the entrance-corner photo goes first.",
+  "name": "Canadian Clay and Glass Gallery",
+  "by": "Patricia Patkau",
+  "city": "Waterloo",
+  "cc": "CA",
+  "year": 1993,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Patkau Architects' gallery for Canadian ceramics and glass, opened in 1993 and awarded a 1997 Governor General's Medal of Excellence.",
+  "commons_category": "Category:Canadian Clay and Glass Gallery",
+  "coords": [
+   43.465,
+   -80.5263
+  ],
+  "photos": [
+   {
+    "file": "File:Waterloo IMG 2913 (23095556386).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Canadian Clay and Glass Gallery - Waterloo, ON.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Canadian_Clay_and_Glass_Gallery",
+   "https://www.wikidata.org/wiki/Q5029867"
+  ]
+ },
+ {
+  "id": "san-riccardo-pampuri-church",
+  "qid": "Q55358441",
+  "status": "photo",
+  "why": "WEAK, owner may drop: Guido Canella is a notable Italian architect and the main photo is a clear daylight facade with a striking timber truss gable, but the Italian lead only says it is the parish church of Zeloforamagno, so the features line is plain. Year 1990 is prep's (no year in the lead).",
+  "name": "San Riccardo Pampuri church",
+  "by": "Guido Canella",
+  "city": "Peschiera Borromeo",
+  "cc": "IT",
+  "year": 1990,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Brick",
+   "Community"
+  ],
+  "features": "A parish church in Zeloforamagno, part of Peschiera Borromeo, in the Archdiocese of Milan.",
+  "commons_category": "Category:San Riccardo Pampuri (Zeloforamagno, Peschiera Borromeo)",
+  "coords": [
+   45.42754,
+   9.30348
+  ],
+  "photos": [
+   {
+    "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 003.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 004.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Chiesa_di_San_Riccardo_Pampuri_%28Peschiera_Borromeo%29",
+   "https://www.wikidata.org/wiki/Q55358441"
+  ]
+ },
+ {
+  "id": "st-katharina-von-siena",
+  "qid": "Q62588192",
+  "status": "photo",
+  "why": "Heinz Bienefeld is a notable brick architect; the German lead says the church was built 2001-2003 from his plans by his son Nikolaus and is Cologne's youngest Catholic church. Haiku skipped it as a parish church with no design reason; a posthumous work from a known architect's plans is worth a place. Year 2003 (consecration), not prep's 2001 (construction start). The main photo is a narrow portrait of the tower with the church beside it; the other photos are brick details and a street.",
+  "name": "St. Katharina von Siena",
+  "by": "Heinz Bienefeld",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 2003,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Monumentality"
+  ],
+  "features": "Cologne's newest Catholic church, built 2001-2003 by Nikolaus Bienefeld from his father Heinz Bienefeld's plans.",
+  "commons_category": "Category:St. Katharina von Siena (Köln)",
+  "coords": [
+   51.03731,
+   6.88565
+  ],
+  "photos": [
+   {
+    "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0216.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0226.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0227.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/St._Katharina_von_Siena_%28K%C3%B6ln%29",
+   "https://www.wikidata.org/wiki/Q62588192"
+  ]
+ },
+ {
+  "id": "mosque-of-rijeka",
+  "qid": "Q26256577",
+  "status": "photo",
+  "why": "BORDERLINE, owner may drop: a distinctive sculptural shell-domed mosque with a clear daylight exterior as the main photo, built 2009-2013 and standing. The lead gives only the build dates, so the features line is plain. Dusan Dzamonja is a sculptor-architect, so the architect is accepted from Wikidata.",
+  "name": "Mosque of Rijeka",
+  "by": "Dušan Džamonja",
+  "city": "Rijeka",
+  "cc": "HR",
+  "year": 2013,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Vault",
+   "Geometry"
+  ],
+  "features": "A mosque in Rijeka, Croatia, built between 2009 and 2013.",
+  "commons_category": "Category:Mosque of Rijeka",
+  "coords": [
+   45.34588,
+   14.39743
+  ],
+  "photos": [
+   {
+    "file": "File:Rijeka Mosque 3.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rijeka Mosque 1.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rijeka_Mosque",
+   "https://www.wikidata.org/wiki/Q26256577"
+  ]
+ },
+ {
+  "id": "bibliotheque-universitaire-des-langues-et-civilisations",
+  "qid": "Q2901548",
+  "status": "photo",
+  "why": "Yves Lion (named in the instructions as one to rescue). Library in Paris Rive Gauche, open 2011, clear daylight exterior as the main photo. Other photos are a book page, shelves and talks, so only two exterior views are listed.",
+  "name": "Bibliothèque universitaire des langues et civilisations",
+  "by": "Yves Lion",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2011,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Community"
+  ],
+  "features": "Paris Rive Gauche academic library, open since 2011, for all languages and civilisations beyond the Western world.",
+  "commons_category": "Category:Bibliothèque universitaire des langues et civilisations",
+  "coords": [
+   48.82917,
+   2.37972
+  ],
+  "photos": [
+   {
+    "file": "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410443482).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410469472).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_universitaire_des_langues_et_civilisations",
+   "https://www.wikidata.org/wiki/Q2901548"
+  ]
+ },
+ {
+  "id": "armenian-cathedral-of-moscow",
+  "qid": "Q4069756",
+  "status": "photo",
+  "why": "The lead gives a record (largest Armenian church and church complex outside Armenia), consecrated 2013. Main photo is a clear daylight view of the cathedral and chapel. Haiku skipped it for no design reason; a record counts under the rules. Movement Regionalism because it revives Armenian church forms.",
+  "name": "Armenian Cathedral of Moscow",
+  "by": "Artak Ghulyan",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 2013,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Community"
+  ],
+  "features": "Consecrated in 2013, the Moscow Armenian cathedral is the largest Armenian church and church complex outside Armenia.",
+  "commons_category": "Category:The Holy Transfiguration Cathedral of the Armenian monastery complex of Moscow",
+  "coords": [
+   55.78806,
+   37.62119
+  ],
+  "photos": [
+   {
+    "file": "File:Moscow ArmemianMonastery CathedralAndChapel 4106.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Кафедральный собор Преображения Господня (АХК) в 2024 году.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Армянский храмовый комплекс в Москве, Россия 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armenian_Cathedral_of_Moscow",
+   "https://www.wikidata.org/wiki/Q4069756"
+  ]
+ },
+ {
+  "id": "fuglsang-art-museum",
+  "qid": "Q5507293",
+  "status": "photo",
+  "why": "Strong keep (Tony Fretton, 2009 RIBA European Award, Stirling shortlist, landscape integration, all from the lead); main photo is a clear daylight exterior. Haiku held it only for the city: prep gives Guldborgsund Municipality only, so city 'Toreby' (Fuglsang, Lolland) is from general knowledge and should be confirmed, or use 'Guldborgsund'. Year 2008 is prep's (the lead gives none).",
+  "name": "Fuglsang Art Museum",
+  "by": "Tony Fretton",
+  "city": "Toreby",
+  "cc": "DK",
+  "year": 2008,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "Tony Fretton's purpose-built museum on Lolland, integrated with its landscape; it won a 2009 RIBA European Award.",
+  "commons_category": "Category:Fuglsang Kunstmuseum",
+  "coords": [
+   54.72387,
+   11.79965
+  ],
+  "photos": [
+   {
+    "file": "File:Fuglsang-Kunstmuseum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fuglsang Kunstmuseum, 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fuglsang Kunstmuseum 2014 EV1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fuglsang_Art_Museum",
+   "https://www.wikidata.org/wiki/Q5507293"
+  ]
+ },
+ {
+  "id": "biblioteca-raul-rangel-frias",
+  "qid": "Q108938574",
+  "status": "photo",
+  "why": "Legorreta, six buildings on the wall; the Spanish lead says it was designed by him joining tradition and modernity and was inaugurated in 1995 (so year 1995, not prep's 1994). WEAK PHOTO: the only photo shows the library behind a fence with a sculpture in front; usable but not ideal, owner may hold it back. City 'Monterrey' is from general knowledge (prep gives only the state Nuevo Leon; the coordinates sit in the UANL university campus) and should be confirmed.",
+  "name": "Biblioteca Raúl Rangel Frías",
+  "by": "Ricardo Legorreta",
+  "city": "Monterrey",
+  "cc": "MX",
+  "year": 1995,
+  "type": "Library",
+  "movement": "Regionalism",
+  "concepts": [
+   "Monumentality",
+   "Colour",
+   "Geometry"
+  ],
+  "features": "Ricardo Legorreta's university library for the UANL, opened in 1995, joining tradition and modernity in his style.",
+  "commons_category": "Category:Biblioteca Raúl Rangel Frías",
+  "coords": [
+   25.71608,
+   -100.31189
+  ],
+  "photos": [
+   {
+    "file": "File:Fachada BURRF.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Biblioteca_Ra%C3%BAl_Rangel_Fr%C3%ADas",
+   "https://www.wikidata.org/wiki/Q108938574"
+  ]
+ },
+ {
+  "id": "diehtosiida",
+  "qid": "Q3223562",
+  "status": "photo",
+  "why": "Reiulf Ramstad (named in the instructions) and a built Sami campus opened 2009. Haiku skipped it because the lead says what it houses. The first photo is the front with the cantilevered upper volume and the name sign, in daylight; the Wikidata photo list has no 'main', so photo 0 is the exterior. Interior and lecture-hall photos are left out.",
+  "name": "Diehtosiida",
+  "by": "Reiulf Ramstad Arkitekter",
+  "city": "Kautokeino",
+  "cc": "NO",
+  "year": 2009,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Cantilever",
+   "Community"
+  ],
+  "features": "A Sámi academic campus in Kautokeino housing the Sámi University College, Sámi Archives and other institutions; opened 2009.",
+  "commons_category": "Category:Diehtosiida",
+  "coords": [
+   69.01444,
+   23.03717
+  ],
+  "photos": [
+   {
+    "file": "File:Diehtosiida-exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Den samiske høgskolen.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Den samiske høgskolen (14373593336).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Diehtosiida",
+   "https://www.wikidata.org/wiki/Q3223562"
+  ]
+ },
+ {
+  "id": "museum-for-architectural-drawing",
+  "qid": "Q17353861",
+  "status": "photo",
+  "why": "Named in the instructions (Tchoban). A built, standing Berlin museum (2013) for architectural drawings with a striking concrete-relief facade; rated Q main photo is a clear daylight exterior. The lead gives only what it shows and the 2013 opening, so the features line is plain. Architect names tidied to Sergei Tchoban, Sergey Kuznetsov (Wikidata also lists SPEECH architectural office).",
+  "name": "Museum for Architectural Drawing",
+  "by": "Sergei Tchoban, Sergey Kuznetsov",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 2013,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "A private Berlin museum for architectural drawings, run by the Tchoban Foundation and opened in June 2013.",
+  "commons_category": "Category:Museum für Architekturzeichnung",
+  "coords": [
+   52.53207,
+   13.41003
+  ],
+  "photos": [
+   {
+    "file": "File:Museum für Architekturzeichnung, Berlin, 150516, ako.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:140503 Museum für Architekturzeichnung.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:140301 Museum fuer Architekturzeichnung.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_for_Architectural_Drawing",
+   "https://www.wikidata.org/wiki/Q17353861"
+  ]
+ },
+ {
+  "id": "museu-de-arte-do-rio",
+  "qid": "Q10333798",
+  "status": "photo",
+  "why": "Haiku held it as 'no main photo', but the Wikidata main (Praca Maua) shows the whole museum, the historic palace and the new building under the floating canopy, in daylight. Jacobsen Arquitetura named in the lead, opened 1 March 2013. Features use only the lead.",
+  "name": "Rio Art Museum",
+  "by": "Jacobsen Arquitetura",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": 2013,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Circulation"
+  ],
+  "features": "Rio's art museum, opened in 2013, planned by Jacobsen Arquitetura around a flow system for the whole site.",
+  "commons_category": "Category:Museu de Arte do Rio",
+  "coords": [
+   -22.89657,
+   -43.18199
+  ],
+  "photos": [
+   {
+    "file": "File:Praça Mauá 11 2015 Rio 708.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:MauaSquare2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museu de Arte do Rio - MAR (8729729032).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museu_de_Arte_do_Rio",
+   "https://www.wikidata.org/wiki/Q10333798"
+  ]
+ }
+]
