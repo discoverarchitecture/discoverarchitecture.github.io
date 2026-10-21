@@ -1583,15 +1583,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Britannica",
-    "title": "Balkrishna Doshi",
-    "url": "https://www.britannica.com:443/print/article/2123490",
-    "kind": "overview",
-    "paid": false,
-    "why": "Concise biography and key works",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Dezeen",
     "title": "\"India's greatest architect\" Balkrishna Doshi dies aged 95",
     "url": "https://www.dezeen.com/?p=1889048",
@@ -1800,6 +1791,15 @@
  {
   "key": "architect:Christian de Portzamparc",
   "links": [
+   {
+    "site": "Britannica",
+    "title": "Christian de Portzamparc",
+    "url": "https://www.britannica.com:443/print/article/929430",
+    "kind": "overview",
+    "paid": false,
+    "why": "Concise biography and key works",
+    "checked": "2026-10-21"
+   },
    {
     "site": "Pritzker Prize",
     "title": "Christian de Portzamparc biography",
@@ -3222,6 +3222,60 @@
     "paid": false,
     "why": "His brick architecture explained",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Rogelio Salmona (CCA library)",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/72465682",
+    "kind": "museum",
+    "paid": false,
+    "why": "CCA library publication on his work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Rogelio Salmona (CCA library)",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/693517049",
+    "kind": "museum",
+    "paid": false,
+    "why": "CCA holdings on his housing work",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Arquitectura Viva",
+    "title": "Rogelio Salmona",
+    "url": "https://arquitecturaviva.com/articulos/rogelio-salmona",
+    "kind": "essay",
+    "paid": false,
+    "why": "Spanish-language architecture magazine feature",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Radio Nacional de Colombia",
+    "title": "Rogelio Salmona: arquitectura del tiempo y la memoria",
+    "url": "https://radionacional.co/noticias-colombia/rogelio-salmona-arquitectura-del-tiempo-y-la-memoria-de-biblored",
+    "kind": "news",
+    "paid": false,
+    "why": "Spanish; his Bogotá libraries",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Biografías y Vidas",
+    "title": "Rogelio Salmona",
+    "url": "https://www.biografiasyvidas.com/biografia/s/salmona.htm",
+    "kind": "profile",
+    "paid": false,
+    "why": "Spanish-language biography",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "USP Portal Latinoamericano",
+    "title": "Salmona, Rogerio",
+    "url": "https://sites.usp.br/portalatinoamericano/es/espanol-salmona-rogerio",
+    "kind": "profile",
+    "paid": false,
+    "why": "Spanish; university profile",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -4320,15 +4374,6 @@
     "paid": false,
     "why": "Projects gathered in one place",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Henning Larsen",
-    "title": "Projects",
-    "url": "https://henninglarsen.com/projects",
-    "kind": "museum",
-    "paid": false,
-    "why": "The practice's own project archive",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -4748,6 +4793,15 @@
     "kind": "news",
     "paid": false,
     "why": "His collaborations with Kahn, Correa, Doshi",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Aaj News",
+    "title": "Indian 'ace' structural engineer Mahindra Raj passes away",
+    "url": "https://english.aaj.tv/news/30285708",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Short obituary with key projects",
     "checked": "2026-10-21"
    },
    {

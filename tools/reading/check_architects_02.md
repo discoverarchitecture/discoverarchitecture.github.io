@@ -1,6 +1,6 @@
 # Link check for architects_02, 2026-10-21
 
-582 links kept, 77 failed.
+588 links kept, 76 failed.
 
 ## Failed (find replacements)
 
@@ -27,11 +27,11 @@
 - architect:Harry Seidler: https://dev.australianbookreview.com.au/148-abr-online/2014-issues/february-2014-no-358/2900-philip-goad-reviews-a-singular-vision-by-helen-o-neill — HTTP 401
 - architect:Ricardo Bofill: https://www.archpaper.com/2022/01/ricardo-bofill-passes-away-at-82/ — HTTP 403
 - architect:Ricardo Bofill: https://www.netflix.com/gb/title/81471054 — HTTP 404
+- architect:Balkrishna Doshi: https://www.britannica.com:443/print/article/2123490 — HTTP 403
 - architect:Balkrishna Doshi: https://www.architecture.com/knowledge-and-resources/knowledge-landing-page/balkrishna-doshi-19272023 — HTTP 404
 - architect:Balkrishna Doshi: https://magnetfilm.de/documentary/films/the-promise-architect-bv-doshi/ — could not open (URLError)
 - architect:Carlo Scarpa: https://www-3.collection.cooperhewitt.org/people/18537489/bio — HTTP 500
 - architect:Carlo Scarpa: https://www.architecture.com/riba-books/books/architects-and-designers/product/carlo-scarpa-architecture-and-design.html — HTTP 404
-- architect:Christian de Portzamparc: https://www.britannica.com:443/print/article/929430 — HTTP 403
 - architect:Christian de Portzamparc: https://www.operadeparis.fr/en/magazine/350-years/case/christian-de-portzamparc-architect — HTTP 404
 - architect:Edward Durell Stone: https://www.architecture.com/riba-books/books/architects-and-designers/product/edward-durell-stone-modernisms-populist-architect.html — HTTP 404
 - architect:Félix Candela: https://wallach.columbia.edu/content/felix-candela-1910-2010 — HTTP 403
@@ -73,7 +73,6 @@
 - architect:Mahendra Raj: https://www.detail.de/de_en/the-structure — HTTP 410
 - architect:Mahendra Raj: https://www.archpaper.com/?p=324228 — HTTP 403
 - architect:Mahendra Raj: https://structurae.net/en/persons/mahendra-raj — HTTP 403
-- architect:Mahendra Raj: https://english.aaj.tv/news/30285708 — HTTP 503
 - architect:Michael Wilford: https://manchesterhistory.net/manchester/architects/wilford.html — HTTP 403
 - architect:Nicholas Grimshaw: https://www.architecture.com/knowledge-and-resources/knowledge-landing-page/sir-nicholas-grimshaw-to-receive-royal-gold-medal-for-architecture — HTTP 404
 - architect:Nicholas Grimshaw: https://www.architectmagazine.com/?p=340947 — HTTP 403
@@ -84,4 +83,4 @@
 
 ## Pages with fewer than 10 links
 
-- architect:Rogelio Salmona: 8 links
+None.
