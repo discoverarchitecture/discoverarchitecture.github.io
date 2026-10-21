@@ -1,1 +1,1 @@
-python -u tools/check_overview_links.py --files bios_08.json
+python -u tools/fetch_architect_sources.py --ranks 221-256 --buildings batch_09
