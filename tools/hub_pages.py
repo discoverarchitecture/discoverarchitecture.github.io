@@ -356,7 +356,7 @@ def page(bp, hubs, h, ctx):
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div><div id="more" aria-hidden="true"></div>'
         f'<footer class="foot" data-nosnippet><p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>'
-        f'<p><a href="{up}">Find Great Architecture</a> · <a href="{up}{kind_url(kind)}">{KINDS[kind][2]}</a> · <a href="{up}buildings/">All buildings</a></p></footer></section>\n'
+        f'<p><a href="{up}">Find Great Architecture</a> · <a href="{up}{kind_url(kind)}">{KINDS[kind][2]}</a> · <a href="{up}buildings/">All buildings</a></p>{bp.legal_foot(up)}</footer></section>\n'
         f'</main>\n'
         f'<script type="application/json" id="hubdata">{data_json}</script>\n'
         f'{bp.DOCK.format(up=up)}\n'

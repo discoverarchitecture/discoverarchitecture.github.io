@@ -698,6 +698,8 @@ body.ideas-away .dock button { padding: 0 13px; gap: 0; }
 .about-wall a { color: var(--ink); }
 @media (hover: hover) { .about-wall a:hover { color: var(--red); } }
 .about-wall small { color: var(--graphite); }
+.about-legal { margin-top: 18px; padding-top: 12px; border-top: 1px solid var(--hair); }
+.about-legal p { margin: 0 0 4px; }
 .feed { padding-bottom: 0; }
 
 /* ---------- Books: the front table (design v18 · 05 computer, 06 phone) ---------- */
@@ -920,6 +922,8 @@ body.slim .ai-btn, body.mapped .ai-btn { display: none; }
 .ai-go { display: flex; align-items: center; justify-content: center; gap: 8px; height: 48px; border-radius: 12px; background: var(--red); color: #fff; font: 700 16px var(--sans); text-decoration: none; }
 @media (hover: hover) { .ai-go:hover { background: var(--red-ink); color: #fff; } }
 .ai-fine { margin: 0; text-align: center; font: 500 12px var(--mono); letter-spacing: .03em; color: var(--graphite); }
+.ai-legal a { color: inherit; }
+@media (hover: hover) { .ai-legal a:hover { color: var(--red); } }
 @media (max-width: 820px) {
   .ai-btn { top: 12px; right: 12px; height: 36px; padding: 0 11px 0 9px; gap: 6px; font-size: 14px; border-radius: 10px; }
   .ai-long { display: none; } .ai-short { display: inline; }
