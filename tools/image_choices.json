@@ -28433,6 +28433,9 @@
    "File:20160814 027 Genova - Genua - Porto Antico (29049889901).jpg",
    "File:Bigo.jpg",
    "File:Winda bigo 1.jpg"
+  ],
+  "skip": [
+   "File:Bigo panel.jpg"
   ]
  },
  "brasilia-digital-tv-tower": {
@@ -28441,6 +28444,12 @@
    "File:Torre de TV Digital.JPG",
    "File:Torre de TV Digital de Brasilia. (15345189027).jpg",
    "File:Torre de TV Digital de Brasilia. (15345596090).jpg"
+  ],
+  "skip": [
+   "File:Roberto Castro Torre de TV Digital Brasília DF (40908827661).jpg",
+   "File:Panorama Praça dos Três Poderes - Torre TV - Eixo Monumental BSB 07 2014 9910.jpg",
+   "File:Panorama Lago Norte & Eixo Monumental BSB 07 2014 9908.jpg",
+   "File:Panorama Lago Norte & Plano Piloto BSB 07 2014 9921.jpg"
   ]
  },
  "central-saint-giles": {
@@ -28448,12 +28457,19 @@
   "add": [
    "File:London (5258879642).jpg",
    "File:Central St. Giles Court 3.jpg"
+  ],
+  "skip": [
+   "File:Central Saint Giles Office Building - Holborn - sculpture - ob 08.jpg",
+   "File:William by Rebecca Warren, Central St Giles, London.jpg"
   ]
  },
  "cleveland-clinic-lou-ruvo-center-for-brain-health": {
   "category": "Category:Lou Ruvo Center for Brain Health",
   "add": [
    "File:Lou Ruvo Center - South West Corner - 2010-12-10.JPG"
+  ],
+  "skip": [
+   "File:Clark County Government Center.png"
   ]
  },
  "thomas-h-gale-house": {
@@ -28468,6 +28484,11 @@
   "category": "Category:Gunma Insect World",
   "add": [
    "File:Glasshouse of Gunma Insect World.jpg"
+  ],
+  "skip": [
+   "File:TANAKA Juuyoh - Orange Tiger (by).jpg",
+   "File:A road for walk at Gunma Insect World.jpg",
+   "File:Japanese rhinoceros beetle at Gunma Insect World.jpg"
   ]
  },
  "centro-internacional-de-ferias-y-congresos-de-tenerife": {
@@ -28482,6 +28503,9 @@
   "category": "Category:Kimmel Center for the Performing Arts",
   "add": [
    "File:Kimmel Center for the Performing Arts (53587020645).jpg"
+  ],
+  "skip": [
+   "File:Kimmel Center interior.jpg"
   ]
  },
  "guell-pavilions": {
@@ -28504,6 +28528,9 @@
    "File:Belgique - Bruxelles - Pavillon des Passions humaines - 01.jpg",
    "File:Paviljoen der Menselijke Driften 17.jpg",
    "File:Pavillon des Passions Humaines (14032842272).jpg"
+  ],
+  "skip": [
+   "File:Pavilion of the Human Passions (door) - Jef Lambeaux.jpg"
   ]
  },
  "miyazaki-prefectural-museum-of-nature-and-history": {
@@ -28511,6 +28538,9 @@
   "add": [
    "File:Miyazaki Miyazaki Prefectural Museum 1.jpg",
    "File:Miyazaki Prefectural Museum of Nature and History 20170319.jpg"
+  ],
+  "skip": [
+   "File:Garden of Miyazaki Prefectural Museum of Nature and History.jpg"
   ]
  },
  "400-west-market": {
@@ -28518,6 +28548,9 @@
   "add": [
    "File:AegonCtr2030.JPG",
    "File:AEGON Center.JPG"
+  ],
+  "skip": [
+   "File:AegonCtr2033.JPG"
   ]
  },
  "curve-theatre": {
@@ -28525,6 +28558,9 @@
   "add": [
    "File:Curve Leicester full panorama.jpg",
    "File:Curve, Leicester - 5 September 2026.jpg"
+  ],
+  "skip": [
+   "File:Leicester Pride 2026 - Orton Square (3) - 5 September 2026.jpg"
   ]
  },
  "hagia-sophia-hurrem-sultan-bathhouse": {
@@ -28532,6 +28568,9 @@
   "add": [
    "File:Bath of Roxelane Istanbul 2007.jpg",
    "File:20180115 HagiaSophia 7955 (25291143197).jpg"
+  ],
+  "skip": [
+   "File:Baths of Roxelana (5989180544).jpg"
   ]
  },
  "trinity-church-boston": {
@@ -28539,6 +28578,9 @@
   "add": [
    "File:Trinity Church, Boston, Massachusetts - front oblique view.JPG",
    "File:H. H. Richardson - Boston, MA - Trinity Church (J).jpg"
+  ],
+  "skip": [
+   "File:Phillips Brooks Monument, Trinity Church, Boston, Massachusetts.jpg"
   ]
  },
  "juma-jami-mosque": {
@@ -28558,8 +28600,8 @@
  "zal-mahmud-pasha-mosque": {
   "category": "Category:Zal Mahmud Pasha Mosque",
   "add": [
-   "File:Zal Mahmud Paşa Camii IMG 0221.jpg",
-   "File:Zal Mahmud Pasha Mosque.jpg"
+   "File:Zal Mahmud Pasha Mosque.jpg",
+   "File:Zal Mahmud Paşa Camii IMG 0221.jpg"
   ]
  },
  "atik-valide-mosque": {
@@ -28573,12 +28615,18 @@
   "add": [
    "File:Trikala Greece Kursum Mosque 3.jpg",
    "File:041 ΚΟΥΡΣΟΥΜ ΤΖΑΜΙ,ΤΡΙΚΑΛΑ 7.2018.jpg"
+  ],
+  "skip": [
+   "File:Κουρσούμ Τζαμί 3424.jpg"
   ]
  },
  "mihrimah-sultan-mosque-uskudar": {
   "category": "Category:Mihrimah Sultan Mosque (Üsküdar)",
   "add": [
    "File:Üsküdar Mihrimah Sultan Camii.jpg"
+  ],
+  "skip": [
+   "File:Endowment Deed of Mihrimah Sultan.jpg"
   ]
  },
  "sinan-pasha-mosque-istanbul": {
@@ -28593,6 +28641,9 @@
   "add": [
    "File:İstanbul 4939.jpg",
    "File:Istanbul, moschea di Kılıç Ali Pasha, di sinan, 1580-87, esterno 01.jpg"
+  ],
+  "skip": [
+   "File:Istanbul photos by J.Lubbock 2015 582.jpg"
   ]
  },
  "semsi-pasha-mosque": {
@@ -28600,6 +28651,10 @@
   "add": [
    "File:Semsi Ahmet Pasha mosque 0297.jpg",
    "File:Şemsi Pasha Mosque.JPG"
+  ],
+  "skip": [
+   "File:Sunset and Şemsi Ahmed Paşa Mosque.jpg",
+   "File:Üsküdar Şemsi Ahmet Paşa Camii bahçesinden bir çekim.jpg"
   ]
  },
  "molla-celebi-mosque": {
@@ -28621,6 +28676,10 @@
   "add": [
    "File:Istanbul Piyale Pasha Mosque exterior NW side in 2014 6766.jpg",
    "File:Istanbul Piyale Pasha Mosque exterior back side with tomb in 2014 6755.jpg"
+  ],
+  "skip": [
+   "File:Piyalepaşa Camisi Tavan-01.jpg",
+   "File:Piyalepaşa Camisi-03.jpg"
   ]
  },
  "sokollu-mehmed-pasha-mosque-azapkapi": {
@@ -28663,6 +28722,9 @@
   "category": "Category:Valletta City Gate",
   "add": [
    "File:City Gate, Valletta 002.jpg"
+  ],
+  "skip": [
+   "File:Malta - Valletta - Triq il-Papa Piju V + City Gate 03 ies.jpg"
   ]
  },
  "st-nicholas-greek-orthodox-church": {
@@ -28670,17 +28732,27 @@
   "add": [
    "File:St. Nicholas Greek Orthodox Church - 195245115.jpg",
    "File:St. Nicholas Greek Orthodox Church and National Shrine (55312935307).jpg"
+  ],
+  "skip": [
+   "File:Landing gear near WTC2 and Greek Orthodox Church.jpg",
+   "File:St Nicholas Greek Orthodox Church during the February 2026 North American blizzard.jpg",
+   "File:Liberty Street Park east entry jeh.jpg",
+   "File:Liberty Street Park northeast stair jeh.jpg"
   ]
  },
  "hotel-solvay": {
   "category": "Category:Hôtel Solvay",
   "add": [
    "File:Avenue Louise 224 Louizalaan Brussels 2012-08.jpg"
+  ],
+  "skip": [
+   "File:Hotel Solvay 01.jpg"
   ]
  },
  "university-of-science-and-technology-houari-boumediene": {
   "category": "Category:Université des sciences et de la technologie Houari-Boumediene",
   "add": [
+   "File:Auditoriome.jpg",
    "File:USTHB en été.jpg",
    "File:USTHB.JPG"
   ]
@@ -28697,6 +28769,9 @@
   "add": [
    "File:Ennis House front view 2005.jpg",
    "File:Ennis House 3.jpg"
+  ],
+  "skip": [
+   "File:Ennis House.JPG"
   ]
  },
  "muradie-mosque": {
@@ -28711,6 +28786,9 @@
   "add": [
    "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0059.jpg",
    "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0051.jpg"
+  ],
+  "skip": [
+   "File:Lüleburgaz - Sokullu Mehmet Paşa Arasta ve Dua Kubbesi, Lüleburgaz - 20250531151420.jpg"
   ]
  },
  "wells-fargo-center": {
@@ -28718,6 +28796,10 @@
   "add": [
    "File:Wells Fargo Center from Foshay.jpg",
    "File:Minneapolis April 2025 06 (Wells Fargo Center).jpg"
+  ],
+  "skip": [
+   "File:Minneapolis April 2025 01 (Wells Fargo Center).jpg",
+   "File:Minneapolis neighborhood Marshall Terrace (52230295024).jpg"
   ]
  },
  "pertev-pasa-mosque": {
@@ -28739,19 +28821,31 @@
   "add": [
    "File:425 Park Avenue (55272623292).jpg",
    "File:Park Av Nov 2021 24.jpg"
+  ],
+  "skip": [
+   "File:425 Park Ave. LOC gsc.5a24902.jpg",
+   "File:425 Park Ave construction at the base.jpg"
   ]
  },
  "frank-lloyd-wright-home-and-studio": {
   "category": "Category:Frank Lloyd Wright Home and Studio",
   "add": [
+   "File:FLW home and studio.jpg",
    "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (6).jpg",
    "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (5).jpg"
+  ],
+  "skip": [
+   "File:Frank Lloyd Wright Home and Studio Marker.jpg"
   ]
  },
  "gazi-hajdar-kadi-mosque": {
   "category": "Category:Hajdar Kadi Mosque (Bitola)",
   "add": [
    "File:Haydar kadı mosque Bt.jpg"
+  ],
+  "skip": [
+   "File:Минарет Ајдар кади џамија Битољ (Minaret of Hajdar Kadi Mosque, Bitola).jpg",
+   "File:Islamic geometric patterns (Aydar kadi mosque, Bitola, Macedonia).jpg"
   ]
  },
  "artigas-gardens": {
@@ -28759,6 +28853,10 @@
   "add": [
    "File:Lillet21.jpg",
    "File:Lillet07.jpg"
+  ],
+  "skip": [
+   "File:\"Tren del Ciment\" (SCHÖMA).jpg",
+   "File:Riu Llobregat al costat de la fàbrica antiga.jpeg"
   ]
  },
  "seyh-celebi-mosque": {
@@ -28766,6 +28864,10 @@
   "add": [
    "File:Şeyhi Çelebi Camii 2025 - 2c.jpg",
    "File:Şeyh Çelebi Camii 22.JPG"
+  ],
+  "skip": [
+   "File:Şeyh Çelebi Camii 23.JPG",
+   "File:Şeyhi Çelebi Mezarı.jpg"
   ]
  },
  "yahya-bey-mosque": {
@@ -28781,6 +28883,10 @@
    "File:2014 - Palácio do Jaburu (11821778125).jpg",
    "File:Brasíia-DF, 29-06-2011. Palácio do Jaburu. (14261300971).jpg",
    "File:Palácio do Jaburu (14077422657).jpg"
+  ],
+  "skip": [
+   "File:Palácio do Jaburu - Capela (14264363475).jpg",
+   "File:Palácio do Jaburu - Jardins de Burle Marx.jpg"
   ]
  },
  "omniturm": {
@@ -28788,6 +28894,10 @@
   "add": [
    "File:Omniturm Frankfurt 09-19.jpg",
    "File:Omniturm Frankfurt am Main.jpg"
+  ],
+  "skip": [
+   "File:Marienturm und Omniturm.jpg",
+   "File:Metzler-Haus.jpg"
   ]
  },
  "aalto-center": {
@@ -28809,6 +28919,10 @@
   "add": [
    "File:Toyohaku1.jpg",
    "File:Toyohaku3.jpg"
+  ],
+  "skip": [
+   "File:Toyota City Local History Museum 2025-01 ac (2).jpg",
+   "File:Toyota City Museum (Aichi) VLux5 hdsr 02.jpg"
   ]
  },
  "buen-kulturhus": {
@@ -28846,6 +28960,9 @@
   "add": [
    "File:Chicago, Illinois, Martin Ryerson Tomb 2.jpg",
    "File:Martin Ryerson Mausoleum (1818-1897).jpg"
+  ],
+  "skip": [
+   "File:Ryerson tomb (34809884971).jpg"
   ]
  },
  "willits-house": {
@@ -28897,6 +29014,12 @@
   "category": "Category:Malmö Opera",
   "add": [
    "File:Malmö stadsteater 2.jpg"
+  ],
+  "skip": [
+   "File:20210603 Michael Bojesen 8296 (51265951261).jpg",
+   "File:20210603 Michael Bojesen 8303 (51266986985).jpg",
+   "File:Tragos fountain by nils sjogren.jpg",
+   "File:Sculpture Tragos Outside Malmö Opera.jpg"
   ]
  },
  "leo-burnett-building": {
@@ -28904,6 +29027,9 @@
   "add": [
    "File:Leo Burnett Building.jpg",
    "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 01.jpg"
+  ],
+  "skip": [
+   "File:Block 37 March 2008.jpg"
   ]
  },
  "new-synagogue-zilina": {
@@ -28932,6 +29058,10 @@
   "add": [
    "File:Castle Drogo - geograph.org.uk - 6946993.jpg",
    "File:Drogorama (8258424926).jpg"
+  ],
+  "skip": [
+   "File:Castle Drogo - The view to the east of the castle - geograph.org.uk - 8123963.jpg",
+   "File:Castle Drogo under wraps - geograph.org.uk - 3923328.jpg"
   ]
  },
  "cajasol-tower": {
@@ -28940,6 +29070,10 @@
    "File:Torre Sevilla abril 2015.jpg",
    "File:Torre Sevilla abril 2015 edited.jpg",
    "File:Río Guadalquivir y Torre Sevilla, Sevilla, España, 2015-12-06, DD 66.JPG"
+  ],
+  "skip": [
+   "File:Calle betis 2017 001.jpg",
+   "File:Plaza de Toros Sevilla during dusk.jpg"
   ]
  },
  "rottweil-elevator-test-tower": {
@@ -28948,6 +29082,9 @@
    "File:ThyssenKrupp Test Tower, Rottweil.jpg",
    "File:AIMG 0324 A 81 Aufzugsturm.jpg",
    "File:Org e370525c4a8f8aab 1592164604000-1.jpg"
+  ],
+  "skip": [
+   "File:Grundriss Thyssenkrupp Testturm mit Membranstruktur.png"
   ]
  },
  "academy-of-fine-arts-vienna": {
@@ -28964,12 +29101,19 @@
    "File:Chicago in 2022 Part of the Accenture Tower (500 West Madison) (52047851892).jpg",
    "File:Citigroup Center, Chicago (14396644410).jpg",
    "File:Citigroup Center (14396680218).jpg"
+  ],
+  "skip": [
+   "File:Glass Balconies, Looking West from Willis Tower Skydeck, Chicago, Illinois (9179377925).jpg",
+   "File:Accenture Tower escalators to Ogilvie station.jpg"
   ]
  },
  "winter-garden-atrium": {
   "category": "Category:Winter Garden Atrium",
   "add": [
    "File:Manhattan New York City 2009 PD 20091129 019.JPG"
+  ],
+  "skip": [
+   "File:Paulus Hook Pier Jersey City September 2020 HDR.jpg"
   ]
  },
  "osaka-maritime-museum": {
@@ -29014,6 +29158,10 @@
   "category": "Category:Cenotaph, London",
   "add": [
    "File:The Cenotaph on Whitehall, London.jpg"
+  ],
+  "skip": [
+   "File:London , Westminster - The Cenotaph - geograph.org.uk - 7930385.jpg",
+   "File:Cenotaph sketch by Lutyens - Original.png"
   ]
  },
  "tel-aviv-performing-arts-center": {
@@ -29021,6 +29169,11 @@
   "add": [
    "File:Tel Aviv, 2015 (24901961195).jpg",
    "File:Tel Aviv Performing Arts 03.JPG"
+  ],
+  "skip": [
+   "File:White Night in Tel Aviv P1030263.JPG",
+   "File:White Night in Tel Aviv P1030264.JPG",
+   "File:The Tel Aviv performing arts centre.jpg"
   ]
  },
  "osaka-museum-of-history": {
@@ -29035,12 +29188,18 @@
   "add": [
    "File:Haus des Lehrers, 2024 (01).jpg",
    "File:Andreasstraße (Berlin-Friedrichshain)-2026-03-msu-8305.jpg"
+  ],
+  "skip": [
+   "File:Orientierungsplan - Demokratisches Berlin. DDR Hauptstadt. 1964 (3980898340).jpg"
   ]
  },
  "louwman-museum": {
   "category": "Category:Louwman Collection",
   "add": [
    "File:Den Haag - Louwman Museum.jpg"
+  ],
+  "skip": [
+   "File:Duesenberg SJ 1935.JPG"
   ]
  },
  "steiner-house": {
@@ -29056,6 +29215,10 @@
   "add": [
    "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,0.jpg",
    "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,2.jpg"
+  ],
+  "skip": [
+   "File:Firenze - Palazzo dello Strozzino - 2026-09-16 19-17-02 001.jpg",
+   "File:Inferriata da finestra, xvii secolo, dal cortile del palazzo dello strozzino.jpg"
   ]
  },
  "kino-babylon": {
@@ -29063,6 +29226,11 @@
   "add": [
    "File:Berlin, Mitte, Rosa-Luxemburg-Strasse 30, Wohnanlage und Kino Babylon.jpg",
    "File:Kino Babylon.jpg"
+  ],
+  "skip": [
+   "File:Berlin kino babylon.jpg",
+   "File:Aussenansicht Kino Babylon.jpg",
+   "File:Aussenansicht Kino Babylon - 12592495504.jpg"
   ]
  },
  "taliesin": {
@@ -29083,6 +29251,9 @@
   "add": [
    "File:Parkring 8 Ansicht 2.jpg",
    "File:Deutschmeisterpalais-IMG 4189.JPG"
+  ],
+  "skip": [
+   "File:Palais Erzherzog Wilhelm 01.jpg"
   ]
  },
  "india-house": {
