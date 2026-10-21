@@ -1,0 +1,624 @@
+[
+ {
+  "id": "arab-college-jerusalem",
+  "qid": "Q4783168",
+  "status": "skip",
+  "why": "Destroyed in the 1948 war (lead)."
+ },
+ {
+  "id": "juan-b-ambrosetti-museum-of-ethnography",
+  "qid": "Q9046820",
+  "status": "skip",
+  "why": "Ethnographic museum; the lead gives no reason it matters and names no architect."
+ },
+ {
+  "id": "congregation-emanu-el-san-francisco",
+  "qid": "Q5160642",
+  "status": "skip",
+  "why": "Synagogue; the lead gives no architectural reason and names no architect."
+ },
+ {
+  "id": "filoli",
+  "qid": "Q478408",
+  "status": "skip",
+  "why": "Country house and gardens; the lead names no architect and no reason it matters."
+ },
+ {
+  "id": "nubank-parque",
+  "qid": "Q4788902",
+  "status": "skip",
+  "why": "Football stadium; ordinary type."
+ },
+ {
+  "id": "tammelan-stadion",
+  "qid": "Q124219206",
+  "status": "skip",
+  "why": "Football stadium; ordinary type."
+ },
+ {
+  "id": "ciudad-real-madrid",
+  "qid": "Q616283",
+  "status": "skip",
+  "why": "Football training complex; ordinary type."
+ },
+ {
+  "id": "novi-sad-synagogue",
+  "qid": "Q1243512",
+  "status": "skip",
+  "why": "Synagogue; the lead names no architect and gives no architectural reason."
+ },
+ {
+  "id": "randers-stadium",
+  "qid": "Q784770",
+  "status": "skip",
+  "why": "Football stadium; ordinary type."
+ },
+ {
+  "id": "szeged-synagogue",
+  "qid": "Q834288",
+  "status": "skip",
+  "why": "Synagogue; the lead names no architect or year, and gives no architectural reason."
+ },
+ {
+  "id": "lucenec-synagogue",
+  "qid": "Q9350260",
+  "status": "skip",
+  "why": "Synagogue; the lead names no architect and gives no architectural reason."
+ },
+ {
+  "id": "headquarters-of-the-bank-of-the-argentine-nation",
+  "qid": "Q5718167",
+  "status": "photo",
+  "why": "Lead names Bustillo, calls it a Neoclassical National Historic Landmark; daylight facade clear.",
+  "name": "Headquarters of the Bank of the Argentine Nation",
+  "by": "Alejandro Bustillo",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": 1944,
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Stone",
+   "Axis"
+  ],
+  "features": "Alejandro Bustillo's Neoclassical bank headquarters fills a city block, with a 50 m dome.",
+  "commons_category": "Category:Banco de la Nación Argentina (Buenos Aires)",
+  "coords": [
+   -34.60722,
+   -58.37139
+  ],
+  "photos": [
+   {
+    "file": "File:Banco de la Nación.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2018-10-19 Plaza de Mayo, Buenos Aires, Argentina (Martin Rulsch) 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tor-di-valle-racecourse",
+  "qid": "Q3801694",
+  "status": "skip",
+  "why": "Racecourse; the lead is in the past tense and no photo shows a standing building."
+ },
+ {
+  "id": "dozsa-gyorgy-street-synagogue",
+  "qid": "Q935425",
+  "status": "skip",
+  "why": "Former synagogue now a sports hall; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "cluj-napoca-national-theatre",
+  "qid": "Q1414007",
+  "status": "unsure",
+  "why": "Lead does not name the architect; prep names Fellner & Helmer, not confirmed. Photos are clear."
+ },
+ {
+  "id": "jordan-schnitzer-museum-of-art",
+  "qid": "Q6276990",
+  "status": "skip",
+  "why": "Art museum; the lead gives no reason it matters beyond its collection."
+ },
+ {
+  "id": "allegheny-observatory",
+  "qid": "Q549937",
+  "status": "skip",
+  "why": "Observatory; the lead names no architect and gives no architectural reason."
+ },
+ {
+  "id": "new-amsterdam-theatre",
+  "qid": "Q2004827",
+  "status": "unsure",
+  "why": "Herts & Tallant theatre with a landmark Art Nouveau interior (lead), but no photo shows the whole building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "kentucky-state-capitol",
+  "qid": "Q3696032",
+  "status": "skip",
+  "why": "Capitol; the lead gives no architectural reason."
+ },
+ {
+  "id": "utah-state-capitol",
+  "qid": "Q2627661",
+  "status": "skip",
+  "why": "Capitol; the lead gives no architectural reason."
+ },
+ {
+  "id": "arlene-schnitzer-concert-hall",
+  "qid": "Q4792174",
+  "status": "skip",
+  "why": "Historic theatre; the lead gives no architectural reason."
+ },
+ {
+  "id": "seattle-art-museum",
+  "qid": "Q1816301",
+  "status": "skip",
+  "why": "Art museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "national-world-war-i-museum-and-memorial",
+  "qid": "Q6303624",
+  "status": "skip",
+  "why": "Memorial, not a building to study."
+ },
+ {
+  "id": "rosecliff",
+  "qid": "Q2166814",
+  "status": "photo",
+  "why": "Lead names McKim, Mead & White as architects; whole facade in daylight.",
+  "name": "Rosecliff",
+  "by": "Stanford White, McKim, Mead & White",
+  "city": "Newport",
+  "cc": "US",
+  "year": 1902,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Axis"
+  ],
+  "features": "A Gilded Age summer mansion in Newport by McKim, Mead & White, built 1898–1902 for grand entertaining.",
+  "commons_category": "Category:Rosecliff",
+  "coords": [
+   41.46528,
+   -71.30556
+  ],
+  "photos": [
+   {
+    "file": "File:Rosecliff (1308020662).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nederlander-theatre-chicago",
+  "qid": "Q3077068",
+  "status": "skip",
+  "why": "Theatre; the lead gives no architectural reason."
+ },
+ {
+  "id": "fox-theatre-detroit",
+  "qid": "Q3080199",
+  "status": "photo",
+  "why": "Lead names Crane and the landmark listing for architecture; clear street views of the complex.",
+  "name": "Fox Theatre (Detroit)",
+  "by": "C. Howard Crane",
+  "city": "Detroit",
+  "cc": "US",
+  "year": 1928,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Light & shadow",
+   "Detail"
+  ],
+  "features": "A 1928 movie palace by theatre architect C. Howard Crane, a National Historic Landmark for its architecture.",
+  "commons_category": "Category:Fox Theatre (Detroit, Michigan)",
+  "coords": [
+   42.3386,
+   -83.05224
+  ],
+  "photos": [
+   {
+    "file": "File:Detroit August 2025 30 (Fox Theatre).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Detroit December 2015 13 (Fox Theatre).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "adam-mickiewicz-theatre-cieszyn",
+  "qid": "Q9356192",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "ed-sullivan-theater",
+  "qid": "Q3268242",
+  "status": "skip",
+  "why": "Theatre; the lead gives no architectural reason."
+ },
+ {
+  "id": "fuhrerbau",
+  "qid": "Q571767",
+  "status": "unsure",
+  "why": "Built by Paul Troost in the Nazi period and still standing; the lead gives only a historical reason. Owner to decide."
+ },
+ {
+  "id": "custom-house-tower",
+  "qid": "Q3007905",
+  "status": "skip",
+  "why": "Office tower; the lead gives no reason it matters."
+ },
+ {
+  "id": "ziegfeld-theatre-1927",
+  "qid": "Q198850",
+  "status": "skip",
+  "why": "Razed in 1966 (lead)."
+ },
+ {
+  "id": "haus-der-technik",
+  "qid": "Q830344",
+  "status": "skip",
+  "why": "Exhibition hall with its roof destroyed in WWII and now commercial; the lead gives no architectural reason."
+ },
+ {
+  "id": "cheekwood-botanical-garden-and-museum-of-art",
+  "qid": "Q2066407",
+  "status": "skip",
+  "why": "Estate and gardens; the lead gives no reason it matters."
+ },
+ {
+  "id": "royal-lodge",
+  "qid": "Q3238037",
+  "status": "skip",
+  "why": "Royal residence; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "heureka",
+  "qid": "Q1634495",
+  "status": "skip",
+  "why": "Science centre; the lead names the architects but gives no reason it matters."
+ },
+ {
+  "id": "kobe-city-museum",
+  "qid": "Q3330666",
+  "status": "skip",
+  "why": "Museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "birmingham-central-library",
+  "qid": "Q3640335",
+  "status": "skip",
+  "why": "Closed and replaced in 2013 (lead, past tense); not a standing building to study."
+ },
+ {
+  "id": "moscow-planetarium",
+  "qid": "Q4304240",
+  "status": "unsure",
+  "why": "Oldest planetarium in Russia (lead), a Constructivist-era building; the lead names no architect."
+ },
+ {
+  "id": "pontevedra-auditorium-and-convention-centre",
+  "qid": "Q12397272",
+  "status": "skip",
+  "why": "Convention centre; ordinary type, and the lead gives no reason it matters."
+ },
+ {
+  "id": "historical-museum-of-the-palatinate",
+  "qid": "Q1325163",
+  "status": "unsure",
+  "why": "Museum; prep names Gabriel von Seidl, but the lead does not name him or say why it matters. Photos are clear."
+ },
+ {
+  "id": "new-mexico-museum-of-art",
+  "qid": "Q559229",
+  "status": "unsure",
+  "why": "Pueblo Revival museum (Isaac Rapp per prep); the lead names no architect or reason. Regionalist; photos are clear."
+ },
+ {
+  "id": "hawaii-state-capitol",
+  "qid": "Q1290002",
+  "status": "unsure",
+  "why": "Hawaii State Capitol (Warnecke per prep); the lead names no architect or reason. Photos are clear."
+ },
+ {
+  "id": "munchner-haus-der-kulturinstitute",
+  "qid": "Q320557",
+  "status": "skip",
+  "why": "One-line lead with no architect or reason; Nazi-period building."
+ },
+ {
+  "id": "desert-view-watchtower",
+  "qid": "Q2062022",
+  "status": "unsure",
+  "why": "Mary Colter's stone watchtower, completed 1932 (lead names her). Prep gives only Coconino County, so no city."
+ },
+ {
+  "id": "painted-desert-inn",
+  "qid": "Q2194613",
+  "status": "unsure",
+  "why": "Pueblo Revival inn (Lyle E. Bennett per prep); the lead names no architect or reason. Regionalist; photos are clear."
+ },
+ {
+  "id": "beacon-theatre-new-york-city",
+  "qid": "Q264186",
+  "status": "skip",
+  "why": "Theatre; the lead gives no architectural reason."
+ },
+ {
+  "id": "samuel-j-friedman-theatre",
+  "qid": "Q5935075",
+  "status": "skip",
+  "why": "Broadway theatre; the lead gives no reason beyond its landmark interior."
+ },
+ {
+  "id": "theater-duisburg",
+  "qid": "Q1618570",
+  "status": "skip",
+  "why": "Destroyed in WWII; the theatre standing now was rebuilt in 1950, not Dülfer's design."
+ },
+ {
+  "id": "old-faithful-inn",
+  "qid": "Q3027805",
+  "status": "skip",
+  "why": "Hotel; the lead names no architect and gives no reason beyond the description."
+ },
+ {
+  "id": "the-finnish-institute-in-france",
+  "qid": "Q3152243",
+  "status": "skip",
+  "why": "Institute in a Paris building; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "montclair-art-museum",
+  "qid": "Q6904586",
+  "status": "skip",
+  "why": "Art museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "kaliningrad-regional-drama-theatre",
+  "qid": "Q1255657",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "hansahochhaus",
+  "qid": "Q281051",
+  "status": "photo",
+  "why": "Lead names Koerfer and the Expressionist style; whole tower in daylight.",
+  "name": "Hansahochhaus",
+  "by": "Jacob Koerfer",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1925,
+  "type": "Office & tower",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "Cologne's first skyscraper and one of Germany's first, an Expressionist office building built 1924–25.",
+  "commons_category": "Category:Hansahochhaus",
+  "coords": [
+   50.9489,
+   6.95139
+  ],
+  "photos": [
+   {
+    "file": "File:Hansahochhaus Köln - Gesamtansicht (0308-10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cologne Germany Saturn-Hansaring-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "baltimore-museum-of-art",
+  "qid": "Q377579",
+  "status": "skip",
+  "why": "Art museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "musee-marc-chagall",
+  "qid": "Q3329265",
+  "status": "skip",
+  "why": "Museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "okinawa-prefectural-museum",
+  "qid": "Q4617100",
+  "status": "skip",
+  "why": "Museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "biograph-theater",
+  "qid": "Q4914863",
+  "status": "skip",
+  "why": "Theatre; the lead gives no architectural reason."
+ },
+ {
+  "id": "reichsbahnbunker-friedrichstrae",
+  "qid": "Q540470",
+  "status": "skip",
+  "why": "Air-raid shelter; the lead names no architect and gives no architectural reason."
+ },
+ {
+  "id": "museum-of-contemporary-art-andros",
+  "qid": "Q4759525",
+  "status": "skip",
+  "why": "One-line lead with no architect or reason."
+ },
+ {
+  "id": "helsinki-city-theatre",
+  "qid": "Q5393689",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "013",
+  "qid": "Q2319846",
+  "status": "skip",
+  "why": "Music venue; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "commerce-square",
+  "qid": "Q2986235",
+  "status": "skip",
+  "why": "Office towers; ordinary type."
+ },
+ {
+  "id": "united-states-bullion-depository",
+  "qid": "Q1798266",
+  "status": "skip",
+  "why": "Bullion vault; the lead gives no architectural reason."
+ },
+ {
+  "id": "arizona-state-capitol",
+  "qid": "Q670442",
+  "status": "skip",
+  "why": "Capitol; the lead gives no architectural reason."
+ },
+ {
+  "id": "hokkaido-museum",
+  "qid": "Q11403709",
+  "status": "skip",
+  "why": "Museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "fukuoka-prefectural-museum-of-art",
+  "qid": "Q11592587",
+  "status": "skip",
+  "why": "Art museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "stellafane",
+  "qid": "Q7607161",
+  "status": "skip",
+  "why": "Observatory clubhouse; the lead gives no architectural reason."
+ },
+ {
+  "id": "osaka-prefectural-nakanoshima-library",
+  "qid": "Q7105601",
+  "status": "skip",
+  "why": "Library; the lead gives no architectural reason."
+ },
+ {
+  "id": "oakland-city-hall",
+  "qid": "Q932794",
+  "status": "photo",
+  "why": "Lead names Hornbostel and the firsts; whole building in daylight.",
+  "name": "Oakland City Hall",
+  "by": "Henry Hornbostel",
+  "city": "Oakland",
+  "cc": "US",
+  "year": 1914,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "The first high-rise government building in the United States, and once the tallest west of the Mississippi.",
+  "commons_category": "Category:Oakland City Hall",
+  "coords": [
+   37.8053,
+   -122.272
+  ],
+  "photos": [
+   {
+    "file": "File:Oakland City Hall (Oakland, CA) 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "carnegie-library-of-washington-d-c",
+  "qid": "Q17514655",
+  "status": "unsure",
+  "why": "First of four Carnegie libraries (lead reason), but the lead does not name the architect or give a year. Photos are clear."
+ },
+ {
+  "id": "maryhill-museum-of-art",
+  "qid": "Q6781199",
+  "status": "skip",
+  "why": "Museum; the lead gives no reason it matters architecturally."
+ },
+ {
+  "id": "staatsschauspiel-dresden",
+  "qid": "Q870330",
+  "status": "skip",
+  "why": "Theatre company; the lead gives no architectural reason."
+ },
+ {
+  "id": "gothenburg-museum-of-art",
+  "qid": "Q1992004",
+  "status": "skip",
+  "why": "Art museum; the lead gives no reason it matters."
+ },
+ {
+  "id": "intex-osaka",
+  "qid": "Q2070374",
+  "status": "skip",
+  "why": "Convention centre; ordinary type."
+ },
+ {
+  "id": "museum-yamato-bunkakan",
+  "qid": "Q3329639",
+  "status": "skip",
+  "why": "Museum; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "mirador-del-rio",
+  "qid": "Q287592",
+  "status": "unsure",
+  "why": "Mirador del Río (César Manrique per prep); the lead names no architect or reason, and the main photo shows a rock railing, not the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "fillgraderstiege",
+  "qid": "Q390534",
+  "status": "skip",
+  "why": "A staircase, not a building."
+ },
+ {
+  "id": "opernhaus-chemnitz",
+  "qid": "Q315578",
+  "status": "skip",
+  "why": "Opera house; the lead gives no architectural reason."
+ },
+ {
+  "id": "fox-westwood-village-theater",
+  "qid": "Q3931687",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no reason it matters."
+ },
+ {
+  "id": "federal-reserve-bank-of-new-york-building",
+  "qid": "Q4635209",
+  "status": "skip",
+  "why": "Bank headquarters; the lead gives no reason it matters architecturally."
+ }
+]
