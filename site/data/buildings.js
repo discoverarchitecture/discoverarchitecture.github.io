@@ -726,14 +726,14 @@ window.BUILDINGS = [
    {
     "src": "images/barcelona-pavilion/8.webp",
     "thumb": "images/barcelona-pavilion/thumbs/8.webp",
-    "w": 1280,
-    "h": 673,
+    "w": 1261,
+    "h": 710,
     "kind": "Plan",
-    "caption": "Plan",
-    "credit": "3coma14",
+    "caption": "Plan · Floor Plan Barcelona Pavillon",
+    "credit": "TomAlt",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Planta_libre-pabell%C3%B3n_de_barcelona.png",
-    "file": "File:Planta libre-pabellón de barcelona.png"
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_Barcelona_Pavillon.png",
+    "file": "File:Plan Barcelona Pavillon.png"
    }
   ],
   "commons": "Category:Barcelona-Pavillon",
@@ -974,10 +974,62 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Approaching_Farnsworth_House_by_Mies_Van_Der_Rohe-3.jpg",
     "file": "File:Approaching Farnsworth House by Mies Van Der Rohe-3.jpg"
+   },
+   {
+    "src": "images/farnsworth-house/6.webp",
+    "thumb": "images/farnsworth-house/thumbs/6.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Milnarik, Elizabeth, creator",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_-_Edith_Farnsworth_House,_14520_River_Road,_Plano,_Kendall_County,_IL_HABS_ILL,47-PLAN.V,1-_(sheet_3_of_8).tif",
+    "file": "File:Plan - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 3 of 8).tif"
+   },
+   {
+    "src": "images/farnsworth-house/7.webp",
+    "thumb": "images/farnsworth-house/thumbs/7.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Milnarik, Elizabeth, creator",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_and_North,_East_and_South_Elevations_of_Core,_and_Section_-_Edith_Farnsworth_House,_14520_River_Road,_Plano,_Kendall_County,_IL_HABS_ILL,47-PLAN.V,1-_(sheet_6_of_8).tif",
+    "file": "File:Plan and North, East and South Elevations of Core, and Section - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 6 of 8).tif"
+   },
+   {
+    "src": "images/farnsworth-house/8.webp",
+    "thumb": "images/farnsworth-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Milnarik, Elizabeth",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Details_of_Walls,_Window_and_Columns_-_Edith_Farnsworth_House,_14520_River_Road,_Plano,_Kendall_County,_IL_HABS_ILL,47-PLAN.V,1-_(sheet_8_of_8).tif",
+    "file": "File:Details of Walls, Window and Columns - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 8 of 8).tif"
+   },
+   {
+    "src": "images/farnsworth-house/9.webp",
+    "thumb": "images/farnsworth-house/thumbs/9.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Milnarik, Elizabeth",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bathroom_Elevations,_Wardrobe_Plans_and_Details,_and_Stair_Section_Details_-_Edith_Farnsworth_House,_14520_River_Road,_Plano,_Kendall_County,_IL_HABS_ILL,47-PLAN.V,1-_(sheet_7_of_8).tif",
+    "file": "File:Bathroom Elevations, Wardrobe Plans and Details, and Stair Section Details - Edith Farnsworth House, 14520 River Road, Plano, Kendall County, IL HABS ILL,47-PLAN.V,1- (sheet 7 of 8).tif"
    }
   ],
   "commons": "Category:Farnsworth House",
-  "has": [],
+  "has": [
+   "Plan",
+   "Section",
+   "Drawing"
+  ],
   "gv": 3,
   "coords": [
    41.635,
@@ -5171,21 +5223,21 @@ window.BUILDINGS = [
     "file": "File:Nakagin Capsule Tower (51473249937).jpg"
    },
    {
-    "src": "images/nakagin-capsule-tower/8.webp",
-    "thumb": "images/nakagin-capsule-tower/thumbs/8.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Dick Thomas Johnson  from Tokyo, Japan",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Nakagin_Capsule_Tower_(51473917286).jpg",
-    "file": "File:Nakagin Capsule Tower (51473917286).jpg"
+    "src": "images/nakagin-capsule-tower/7.webp",
+    "thumb": "images/nakagin-capsule-tower/thumbs/7.webp",
+    "w": 489,
+    "h": 723,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Nekotasu",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakaginshaft.jpg",
+    "file": "File:Nakaginshaft.jpg"
    }
   ],
   "commons": "Category:Nakagin Capsule Tower",
   "has": [
-   "Model"
+   "Plan"
   ],
   "gv": 3,
   "coords": [
@@ -10930,34 +10982,58 @@ window.BUILDINGS = [
     "file": "File:Vicenza - Villa Almerico Capra (La Rotonda) - interno.jpg"
    },
    {
-    "src": "images/villa-la-rotonda/8.webp",
-    "thumb": "images/villa-la-rotonda/thumbs/8.webp",
+    "src": "images/villa-la-rotonda/7.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/7.webp",
     "w": 1280,
-    "h": 840,
+    "h": 1273,
     "kind": "Plan",
     "caption": "Plan",
     "credit": "Ottavio Bertotti Scamozzi",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_(23547400).jpg",
-    "file": "File:Palladio Rotonda (23547400).jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_planta_Scamozzi_1778_(23547396).jpg",
+    "file": "File:Palladio Rotonda planta Scamozzi 1778 (23547396).jpg"
    },
    {
-    "src": "images/villa-la-rotonda/7.webp",
-    "thumb": "images/villa-la-rotonda/thumbs/7.webp",
-    "w": 923,
+    "src": "images/villa-la-rotonda/8.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/8.webp",
+    "w": 926,
     "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Palladio",
+    "kind": "Plan",
+    "caption": "Plan · Andrea Palladio, Progetto per Villa Almerico Capra, 1570 - [Incisione]",
+    "credit": "Andrea Palladio",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Pianta,_prospetto_e_spaccato_di_villa_Almerico_Capra_detta_La_Rotonda,_1570_-_Archivio_Accademia_delle_Scienze_Torino,_Millon_66_28_027.jpg",
-    "file": "File:Pianta, prospetto e spaccato di villa Almerico Capra detta La Rotonda, 1570 - Archivio Accademia delle Scienze Torino, Millon 66 28 027.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Progetto_per_Villa_Almerico_Capra,_1570_-_Archivio_Accademia_delle_Scienze_Torino,_Millon_64_05_093.jpg",
+    "file": "File:Progetto per Villa Almerico Capra, 1570 - Archivio Accademia delle Scienze Torino, Millon 64 05 093.jpg"
+   },
+   {
+    "src": "images/villa-la-rotonda/9.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/9.webp",
+    "w": 960,
+    "h": 593,
+    "kind": "Section",
+    "caption": "Section · Vicenza",
+    "credit": "Touring Club Italiano",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vicenza._La_Rotonda._northwest_elevation_and_section_along_the_northeast-southwest_axis_2007_-_Touring_Club_Italiano_GR_Veneto@0339.tif",
+    "file": "File:Vicenza. La Rotonda. northwest elevation and section along the northeast-southwest axis 2007 - Touring Club Italiano GR Veneto@0339.tif"
+   },
+   {
+    "src": "images/villa-la-rotonda/10.webp",
+    "thumb": "images/villa-la-rotonda/thumbs/10.webp",
+    "w": 752,
+    "h": 465,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Andrea Palladio",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Palladio_Rotonda_seccion_Scamozzi_1778.jpg",
+    "file": "File:Palladio Rotonda seccion Scamozzi 1778.jpg"
    }
   ],
   "commons": "Category:Villa Capra \"La Rotonda\"",
   "has": [
    "Plan",
-   "Drawing"
+   "Section"
   ],
   "gv": 3,
   "coords": [
@@ -15662,28 +15738,16 @@ window.BUILDINGS = [
     "file": "File:Goetheanum Dornach2.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Goetheanum_Dornach.jpg/1280px-Goetheanum_Dornach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/goetheanum/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_View_-_Goetheanum1.jpg/1280px-Aerial_View_-_Goetheanum1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetheanum/thumbs/1.webp",
     "w": 1280,
-    "h": 843,
-    "kind": "Exterior",
-    "caption": "Exterior · Goetheanum in Dornach",
-    "credit": "Wladyslaw",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Goetheanum_Dornach.jpg",
-    "file": "File:Goetheanum Dornach.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Dornach_-_Goetheanum.jpg/1280px-Dornach_-_Goetheanum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/goetheanum/thumbs/5.webp",
-    "w": 1280,
-    "h": 892,
-    "kind": "Exterior",
-    "caption": "Exterior · Dornach: Goetheanum",
+    "h": 723,
+    "kind": "Context",
+    "caption": "Context · Aerial view of Goetheanum ",
     "credit": "Taxiarchos228",
     "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Dornach_-_Goetheanum.jpg",
-    "file": "File:Dornach - Goetheanum.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_View_-_Goetheanum1.jpg",
+    "file": "File:Aerial View - Goetheanum1.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Dornach_-_Goetheanum_-_Detail4.jpg/1280px-Dornach_-_Goetheanum_-_Detail4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -15710,58 +15774,44 @@ window.BUILDINGS = [
     "file": "File:Dornach - Goetheanum - Detail3.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Aerial_View_-_Goetheanum1.jpg/1280px-Aerial_View_-_Goetheanum1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/goetheanum/thumbs/1.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Goetheanum_Dornach.jpg/1280px-Goetheanum_Dornach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetheanum/thumbs/4.webp",
     "w": 1280,
-    "h": 723,
-    "kind": "Context",
-    "caption": "Context · Aerial view of Goetheanum ",
+    "h": 843,
+    "kind": "Exterior",
+    "caption": "Exterior · Goetheanum in Dornach",
+    "credit": "Wladyslaw",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goetheanum_Dornach.jpg",
+    "file": "File:Goetheanum Dornach.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Dornach_-_Goetheanum.jpg/1280px-Dornach_-_Goetheanum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetheanum/thumbs/5.webp",
+    "w": 1280,
+    "h": 892,
+    "kind": "Exterior",
+    "caption": "Exterior · Dornach: Goetheanum",
     "credit": "Taxiarchos228",
     "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aerial_View_-_Goetheanum1.jpg",
-    "file": "File:Aerial View - Goetheanum1.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Dornach_-_Goetheanum.jpg",
+    "file": "File:Dornach - Goetheanum.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Erstes_Goetheanum_-_Riss_des_Saalgeschosses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Zweites_Goetheanum_-_Riss_des_Grossen_Saals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/goetheanum/thumbs/6.webp",
-    "w": 1156,
-    "h": 1400,
+    "w": 1104,
+    "h": 1324,
     "kind": "Plan",
-    "caption": "Plan · Footprint of the hall storey of the first Goetheanum, about 900 seats",
+    "caption": "Plan · Footprint of the Great Hall of the Goetheanum",
     "credit": "Alabasterstein",
     "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Erstes_Goetheanum_-_Riss_des_Saalgeschosses.jpg",
-    "file": "File:Erstes Goetheanum - Riss des Saalgeschosses.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Goetheanum_Model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/goetheanum/thumbs/8.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Goetheanum Model, Dornach , Schweiz",
-    "credit": "Florian K  at  German Wikipedia",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Goetheanum_Model.jpg",
-    "file": "File:Goetheanum Model.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Goetheanum-L%C3%A4ngsschnitt.jpg/1280px-Goetheanum-L%C3%A4ngsschnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/goetheanum/thumbs/7.webp",
-    "w": 1280,
-    "h": 669,
-    "kind": "Drawing",
-    "caption": "Drawing · Longitudinal cut of Goetheanum, the dotted linie marks the original planed high of the roof",
-    "credit": "Alabasterstein",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Goetheanum-L%C3%A4ngsschnitt.jpg",
-    "file": "File:Goetheanum-Längsschnitt.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Zweites_Goetheanum_-_Riss_des_Grossen_Saals.jpg",
+    "file": "File:Zweites Goetheanum - Riss des Grossen Saals.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model",
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -18511,9 +18561,23 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_Municipal_de_Braga._(6066709621).jpg",
     "file": "File:Estádio Municipal de Braga. (6066709621).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Eduardo_Souto_de_Moura_-_Braga_Stadium_Drawings_01_-_Sketch_%286010611886%29.jpg/1280px-Eduardo_Souto_de_Moura_-_Braga_Stadium_Drawings_01_-_Sketch_%286010611886%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/braga-municipal-stadium/thumbs/6.webp",
+    "w": 1280,
+    "h": 615,
+    "kind": "Sketch",
+    "caption": "Sketch · Eduardo Souto de Moura - Braga Stadium Drawings 01 - Sketch.jpg",
+    "credit": "準建築人手札網站 Forgemind ArchiMedia  from Taichung, Taiwan, Taiwan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eduardo_Souto_de_Moura_-_Braga_Stadium_Drawings_01_-_Sketch_(6010611886).jpg",
+    "file": "File:Eduardo Souto de Moura - Braga Stadium Drawings 01 - Sketch (6010611886).jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Sketch"
+  ],
   "gv": 3
  },
  {
@@ -20924,7 +20988,7 @@ window.BUILDINGS = [
   "images": [
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Schindler-Chase_house_%28Rudolf_Schindler%29%2C_1922_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/schindler-house/thumbs/1.webp",
+    "thumb": "images/schindler-house/thumbs/0.webp",
     "w": 1200,
     "h": 796,
     "kind": "Exterior",
@@ -20936,7 +21000,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Schindler_House.jpg/1280px-Schindler_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/schindler-house/thumbs/0.webp",
+    "thumb": "images/schindler-house/thumbs/1.webp",
     "w": 1280,
     "h": 960,
     "kind": "Exterior",
@@ -20995,46 +21059,45 @@ window.BUILDINGS = [
     "file": "File:Exterior view of the R.M. Schindler residence, West Hollywood (previously Sherman), 1921-1922 (shulman-1997-JS-316-ISLA).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/SchindlerHouse00002a.gif/1280px-SchindlerHouse00002a.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/SchindlerHouse00003a.gif/1280px-SchindlerHouse00003a.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/schindler-house/thumbs/6.webp",
     "w": 1280,
     "h": 1007,
     "kind": "Plan",
     "caption": "Plan · Rudolph M",
-    "credit": "Jeffrey B. Lentz",
+    "credit": "Stanley A. Westfall",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:SchindlerHouse00002a.gif",
-    "file": "File:SchindlerHouse00002a.gif"
+    "source": "https://commons.wikimedia.org/wiki/File:SchindlerHouse00003a.gif",
+    "file": "File:SchindlerHouse00003a.gif"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/SchindlerHouse00005a.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/SchindlerHouse00004a.gif/1280px-SchindlerHouse00004a.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/schindler-house/thumbs/7.webp",
-    "w": 956,
-    "h": 741,
+    "w": 1280,
+    "h": 1008,
+    "kind": "Plan",
+    "caption": "Plan · Rudolph M",
+    "credit": "Stanley A. Westfall",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:SchindlerHouse00004a.gif",
+    "file": "File:SchindlerHouse00004a.gif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/SchindlerHouse00005a.gif/1280px-SchindlerHouse00005a.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/schindler-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 1008,
     "kind": "Elevation",
     "caption": "Elevation · Rudolph M",
     "credit": "Stanley A. Westfall",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:SchindlerHouse00005a.PNG",
-    "file": "File:SchindlerHouse00005a.PNG"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Schindler_House_isometry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/schindler-house/thumbs/8.webp",
-    "w": 804,
-    "h": 548,
-    "kind": "Drawing",
-    "caption": "Drawing · Isometric drawing of the Schindler House, Los Angeles, CA",
-    "credit": "Stanley A. Westfall, Jeffrey B. Lentz",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Schindler_House_isometry.jpg",
-    "file": "File:Schindler House isometry.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:SchindlerHouse00005a.gif",
+    "file": "File:SchindlerHouse00005a.gif"
    }
   ],
   "has": [
    "Plan",
-   "Elevation",
-   "Drawing"
+   "Elevation"
   ],
   "gv": 3
  },
@@ -26545,46 +26608,58 @@ window.BUILDINGS = [
     "file": "File:Detail interior stairwell at TWA.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Basement_Floor_Plan_-_Center_-_Trans_World_Airlines_Flight_Center%2C_John_F._Kennedy_International_Airport%2C_Jamaica_Bay%2C_Queens_%28subdivision%29%2C_Queens_County%2C_NY_HABS_NY-6371_%28sheet_5_of_32%29.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Flight_Wing_No._2_-_Section%2C_Elevation_and_Details_-_Trans_World_Airlines_Flight_Center%2C_John_F._Kennedy_International_Airport%2C_Jamaica_Bay%2C_Queens_%28subdivision%29%2C_Queens_HABS_NY-6371_%28sheet_27_of_32%29.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/twa-flight-center/thumbs/6.webp",
+    "w": 1280,
+    "h": 1014,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Beyer Blinder Belle Architects and Planners, creator",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Flight_Wing_No._2_-_Section,_Elevation_and_Details_-_Trans_World_Airlines_Flight_Center,_John_F._Kennedy_International_Airport,_Jamaica_Bay,_Queens_(subdivision),_Queens_HABS_NY-6371_(sheet_27_of_32).png",
+    "file": "File:Flight Wing No. 2 - Section, Elevation and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens HABS NY-6371 (sheet 27 of 32).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Basement_Floor_Plan_-_North_Wing_-_Trans_World_Airlines_Flight_Center%2C_John_F._Kennedy_International_Airport%2C_Jamaica_Bay%2C_Queens_%28subdivision%29%2C_Queens_County%2C_NY_HABS_NY-6371_%28sheet_6_of_32%29.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twa-flight-center/thumbs/7.webp",
+    "w": 1280,
+    "h": 1017,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Beyer Blinder Belle Architects and Planners\n  Related names:\n \n  Saarinen, Eero, Architect \n Port Au",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Basement_Floor_Plan_-_North_Wing_-_Trans_World_Airlines_Flight_Center,_John_F._Kennedy_International_Airport,_Jamaica_Bay,_Queens_(subdivision),_Queens_County,_NY_HABS_NY-6371_(sheet_6_of_32).png",
+    "file": "File:Basement Floor Plan - North Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 6 of 32).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Basement_Floor_Plan_-_South_Wing_-_Trans_World_Airlines_Flight_Center%2C_John_F._Kennedy_International_Airport%2C_Jamaica_Bay%2C_Queens_%28subdivision%29%2C_Queens_County%2C_NY_HABS_NY-6371_%28sheet_7_of_32%29.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twa-flight-center/thumbs/8.webp",
     "w": 1280,
     "h": 1015,
     "kind": "Plan",
     "caption": "Plan",
     "credit": "Beyer Blinder Belle Architects and Planners\n  Related names:\n \n  Saarinen, Eero, Architect \n Port Au",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Basement_Floor_Plan_-_Center_-_Trans_World_Airlines_Flight_Center,_John_F._Kennedy_International_Airport,_Jamaica_Bay,_Queens_(subdivision),_Queens_County,_NY_HABS_NY-6371_(sheet_5_of_32).png",
-    "file": "File:Basement Floor Plan - Center - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 5 of 32).png"
+    "source": "https://commons.wikimedia.org/wiki/File:Basement_Floor_Plan_-_South_Wing_-_Trans_World_Airlines_Flight_Center,_John_F._Kennedy_International_Airport,_Jamaica_Bay,_Queens_(subdivision),_Queens_County,_NY_HABS_NY-6371_(sheet_7_of_32).png",
+    "file": "File:Basement Floor Plan - South Wing - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 7 of 32).png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Flight_Wing_No._1_-_Section_and_Elevation_-_Trans_World_Airlines_Flight_Center%2C_John_F._Kennedy_International_Airport%2C_Jamaica_Bay%2C_Queens_%28subdivision%29%2C_Queens_County%2C_HABS_NY-6371_%28sheet_23_of_32%29.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/twa-flight-center/thumbs/7.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Enlarged_Stair_Plan_and_Details_-_Trans_World_Airlines_Flight_Center%2C_John_F._Kennedy_International_Airport%2C_Jamaica_Bay%2C_Queens_%28subdivision%29%2C_Queens_County%2C_NY_HABS_NY-6371_%28sheet_30_of_32%29.png/1280px-thumbnail.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twa-flight-center/thumbs/9.webp",
     "w": 1280,
     "h": 1013,
-    "kind": "Section",
-    "caption": "Section",
-    "credit": "Beyer Blinder Belle Architects and Planners, creator",
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Beyer Blinder Belle Architects and Planners",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Flight_Wing_No._1_-_Section_and_Elevation_-_Trans_World_Airlines_Flight_Center,_John_F._Kennedy_International_Airport,_Jamaica_Bay,_Queens_(subdivision),_Queens_County,_HABS_NY-6371_(sheet_23_of_32).png",
-    "file": "File:Flight Wing No. 1 - Section and Elevation - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, HABS NY-6371 (sheet 23 of 32).png"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Balthazar_Korab_with_TWA_model.jpg/1280px-Balthazar_Korab_with_TWA_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/twa-flight-center/thumbs/8.webp",
-    "w": 1280,
-    "h": 875,
-    "kind": "Model",
-    "caption": "Model · Balthazar Korab with TWA model",
-    "credit": "Balthazar Korab",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Balthazar_Korab_with_TWA_model.jpg",
-    "file": "File:Balthazar Korab with TWA model.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Enlarged_Stair_Plan_and_Details_-_Trans_World_Airlines_Flight_Center,_John_F._Kennedy_International_Airport,_Jamaica_Bay,_Queens_(subdivision),_Queens_County,_NY_HABS_NY-6371_(sheet_30_of_32).png",
+    "file": "File:Enlarged Stair Plan and Details - Trans World Airlines Flight Center, John F. Kennedy International Airport, Jamaica Bay, Queens (subdivision), Queens County, NY HABS NY-6371 (sheet 30 of 32).png"
    }
   ],
   "has": [
    "Plan",
    "Section",
-   "Model"
+   "Drawing"
   ],
   "gv": 3
  },
@@ -26812,8 +26887,20 @@ window.BUILDINGS = [
     "file": "File:Frank Lloyd Wright - Chicago, IL - Frederick Robie House (B).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bathroom_Needle_Shower%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54214066345.jpg/1280px-Bathroom_Needle_Shower%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54214066345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Chicago%2C_robie_house_di_frank_lloyd_wright%2C_1908-1910%2C_esterno_01.jpg/1280px-Chicago%2C_robie_house_di_frank_lloyd_wright%2C_1908-1910%2C_esterno_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/robie-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago,_robie_house_di_frank_lloyd_wright,_1908-1910,_esterno_01.jpg",
+    "file": "File:Chicago, robie house di frank lloyd wright, 1908-1910, esterno 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bathroom_Needle_Shower%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54214066345.jpg/1280px-Bathroom_Needle_Shower%2C_Frederick_C._Robie_House%2C_Woodlawn_Avenue_and_58th_Street%2C_Hyde_Park%2C_Chicago%2C_IL_-_54214066345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robie-house/thumbs/3.webp",
     "w": 1050,
     "h": 1400,
     "kind": "Interior",
@@ -26848,20 +26935,45 @@ window.BUILDINGS = [
     "file": "File:Hallway Window, Frederick C. Robie House, Woodlawn Avenue and 58th Street, Hyde Park, Chicago, IL.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_1_of_1%29.png/1280px-Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_1_of_1%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_1_of_1%29.tif/lossy-page1-1280px-Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_1_of_1%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/robie-house/thumbs/6.webp",
     "w": 1280,
     "h": 1008,
-    "kind": "Plan",
-    "caption": "Plan",
+    "kind": "Drawing",
+    "caption": "Drawing",
     "credit": "Related names:\n \n  Wright, Frank Lloyd \n H.B. Barnard Company \n Robie, Frederick C \n Chicago Theolog",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Frederick_C._Robie_House,_5757_Woodlawn_Avenue,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,33-_(sheet_1_of_1).png",
-    "file": "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 1 of 1).png"
+    "source": "https://commons.wikimedia.org/wiki/File:Frederick_C._Robie_House,_5757_Woodlawn_Avenue,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,33-_(sheet_1_of_1).tif",
+    "file": "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 1 of 1).tif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_10_of_14%29.png/1280px-Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_10_of_14%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robie-house/thumbs/7.webp",
+    "w": 1280,
+    "h": 1012,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n H.B. Barnard Company \n Robie, Frederick C \n Chicago Theolog",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Frederick_C._Robie_House,_5757_Woodlawn_Avenue,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,33-_(sheet_10_of_14).png",
+    "file": "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 14).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_10_of_10%29.png/1280px-Frederick_C._Robie_House%2C_5757_Woodlawn_Avenue%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C33-_%28sheet_10_of_10%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robie-house/thumbs/8.webp",
+    "w": 1280,
+    "h": 1009,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n H.B. Barnard Company \n Robie, Frederick C \n Chicago Theolog",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Frederick_C._Robie_House,_5757_Woodlawn_Avenue,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,33-_(sheet_10_of_10).png",
+    "file": "File:Frederick C. Robie House, 5757 Woodlawn Avenue, Chicago, Cook County, IL HABS ILL,16-CHIG,33- (sheet 10 of 10).png"
    }
   ],
   "has": [
-   "Plan"
+   "Section",
+   "Drawing"
   ],
   "gv": 3
  },
@@ -26965,7 +27077,7 @@ window.BUILDINGS = [
     "file": "File:Door, Unity Temple, Lake Street and Kenilworth Avenue, Oak Park, IL.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_1_of_7%29.png/1280px-Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_1_of_7%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_4_of_7%29.png/1280px-Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_4_of_7%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/unity-temple/thumbs/6.webp",
     "w": 1280,
     "h": 1006,
@@ -26973,12 +27085,49 @@ window.BUILDINGS = [
     "caption": "Plan",
     "credit": "Related names:\n \n  Wright, Frank Lloyd \n Mueller, Paul S, T \n Jandoli, Liz, transmitter",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Unity_Temple,_875_Lake_Street,_Oak_Park,_Cook_County,_IL_HABS_ILL,16-OAKPA,3-_(sheet_1_of_7).png",
-    "file": "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 1 of 7).png"
+    "source": "https://commons.wikimedia.org/wiki/File:Unity_Temple,_875_Lake_Street,_Oak_Park,_Cook_County,_IL_HABS_ILL,16-OAKPA,3-_(sheet_4_of_7).png",
+    "file": "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 4 of 7).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_1_of_7%29.tif/lossy-page1-1280px-Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_1_of_7%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unity-temple/thumbs/7.webp",
+    "w": 1280,
+    "h": 1006,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n Mueller, Paul S, T \n Jandoli, Liz, transmitter",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Unity_Temple,_875_Lake_Street,_Oak_Park,_Cook_County,_IL_HABS_ILL,16-OAKPA,3-_(sheet_1_of_7).tif",
+    "file": "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 1 of 7).tif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_2_of_7%29.png/1280px-Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_2_of_7%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unity-temple/thumbs/8.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n Mueller, Paul S, T \n Jandoli, Liz, transmitter",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Unity_Temple,_875_Lake_Street,_Oak_Park,_Cook_County,_IL_HABS_ILL,16-OAKPA,3-_(sheet_2_of_7).png",
+    "file": "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 2 of 7).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_3_of_7%29.png/1280px-Unity_Temple%2C_875_Lake_Street%2C_Oak_Park%2C_Cook_County%2C_IL_HABS_ILL%2C16-OAKPA%2C3-_%28sheet_3_of_7%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/unity-temple/thumbs/9.webp",
+    "w": 1280,
+    "h": 1007,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd \n Mueller, Paul S, T \n Jandoli, Liz, transmitter",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Unity_Temple,_875_Lake_Street,_Oak_Park,_Cook_County,_IL_HABS_ILL,16-OAKPA,3-_(sheet_3_of_7).png",
+    "file": "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 3 of 7).png"
    }
   ],
   "has": [
-   "Plan"
+   "Plan",
+   "Elevation"
   ],
   "gv": 3
  },
@@ -27821,33 +27970,20 @@ window.BUILDINGS = [
     "file": "File:2021 The Frick on Madison - Former Whitney Museum Of American Art 1035.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Breuer_Building_plan_01.jpg/1280px-Breuer_Building_plan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Breuer_Building_plan_02a.jpg/1280px-Breuer_Building_plan_02a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/breuer-building/thumbs/6.webp",
     "w": 1280,
-    "h": 991,
+    "h": 698,
     "kind": "Plan",
     "caption": "Plan · Breuer Building plan",
     "credit": "Marcel Breuer firm.",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Breuer_Building_plan_01.jpg",
-    "file": "File:Breuer Building plan 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Whitney_Museum_drawing_01.jpg/1280px-Whitney_Museum_drawing_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/breuer-building/thumbs/7.webp",
-    "w": 1280,
-    "h": 1128,
-    "kind": "Drawing",
-    "caption": "Drawing · Whitney Museum drawing",
-    "credit": "Helmut Jacoby",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Whitney_Museum_drawing_01.jpg",
-    "file": "File:Whitney Museum drawing 01.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Breuer_Building_plan_02a.jpg",
+    "file": "File:Breuer Building plan 02a.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -37214,7 +37350,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Emam..mosque.jpg/1280px-Emam..mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shah-mosque-isfahan/thumbs/3.webp",
+    "thumb": "images/shah-mosque-isfahan/thumbs/1.webp",
     "w": 941,
     "h": 1400,
     "kind": "Exterior",
@@ -37225,8 +37361,32 @@ window.BUILDINGS = [
     "file": "File:Emam..mosque.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Emam.mosque.jpg/1280px-Emam.mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shah-mosque-isfahan/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Elnazenayati75",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Emam.mosque.jpg",
+    "file": "File:Emam.mosque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shah_Mosque_%28Isfahan%2C_Iran%29_2013_01.jpg/1280px-Shah_Mosque_%28Isfahan%2C_Iran%29_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shah-mosque-isfahan/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Shah Mosque, Isfahan, Iran",
+    "credit": "Skot",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shah_Mosque_(Isfahan,_Iran)_2013_01.jpg",
+    "file": "File:Shah Mosque (Isfahan, Iran) 2013 01.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/%22Shah%28Imam%29%22_mosque.jpg/1280px-%22Shah%28Imam%29%22_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shah-mosque-isfahan/thumbs/1.webp",
+    "thumb": "images/shah-mosque-isfahan/thumbs/4.webp",
     "w": 1280,
     "h": 853,
     "kind": "Interior",
@@ -37238,7 +37398,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Emam%2Cmosque.jpg/1280px-Emam%2Cmosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shah-mosque-isfahan/thumbs/2.webp",
+    "thumb": "images/shah-mosque-isfahan/thumbs/5.webp",
     "w": 1280,
     "h": 853,
     "kind": "Interior",
@@ -37249,44 +37409,20 @@ window.BUILDINGS = [
     "file": "File:Emam,mosque.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Shah_Mosque_%28Isfahan%2C_Iran%29_2013_01.jpg/1280px-Shah_Mosque_%28Isfahan%2C_Iran%29_2013_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shah-mosque-isfahan/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Shah Mosque, Isfahan, Iran",
-    "credit": "Skot",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Shah_Mosque_(Isfahan,_Iran)_2013_01.jpg",
-    "file": "File:Shah Mosque (Isfahan, Iran) 2013 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Imam_Mosque_cupola-inside.jpg/1280px-Imam_Mosque_cupola-inside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/shah-mosque-isfahan/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Գարվիք",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Imam_Mosque_cupola-inside.jpg",
-    "file": "File:Imam Mosque cupola-inside.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Masjid_Shah%2C_view_of_the_courtyard_by_Pascal_Coste.jpg/1280px-Masjid_Shah%2C_view_of_the_courtyard_by_Pascal_Coste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Masjid_Shah%2C_General_Plan_by_Pascal_Coste.jpg/1280px-Masjid_Shah%2C_General_Plan_by_Pascal_Coste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/shah-mosque-isfahan/thumbs/6.webp",
-    "w": 1280,
-    "h": 828,
-    "kind": "Drawing",
-    "caption": "Drawing · Masjid Shah, view of the courtyard",
+    "w": 1055,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Masjid Shah, General Plan",
     "credit": "Pascal Coste",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Masjid_Shah,_view_of_the_courtyard_by_Pascal_Coste.jpg",
-    "file": "File:Masjid Shah, view of the courtyard by Pascal Coste.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Masjid_Shah,_General_Plan_by_Pascal_Coste.jpg",
+    "file": "File:Masjid Shah, General Plan by Pascal Coste.jpg"
    }
   ],
   "has": [
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -37422,7 +37558,7 @@ window.BUILDINGS = [
   "images": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ist-Ath_-_99_cropped.jpg/1280px-Ist-Ath_-_99_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/selimiye-mosque/thumbs/1.webp",
+    "thumb": "images/selimiye-mosque/thumbs/0.webp",
     "w": 1003,
     "h": 1400,
     "kind": "Exterior",
@@ -37434,7 +37570,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Edirne_Selimiye_Mosque_%2854528497801%29.jpg/1280px-Edirne_Selimiye_Mosque_%2854528497801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/selimiye-mosque/thumbs/0.webp",
+    "thumb": "images/selimiye-mosque/thumbs/1.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -37491,9 +37627,23 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_2.JPG",
     "file": "File:Selimiye Mosque 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Edirne_Selimiye_Mosque_Plan_in_2003_4454.jpg/1280px-Edirne_Selimiye_Mosque_Plan_in_2003_4454.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selimiye-mosque/thumbs/6.webp",
+    "w": 1083,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · A plan, unfortunately the arasta part to the right was cut off (by me, I suppose)",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edirne_Selimiye_Mosque_Plan_in_2003_4454.jpg",
+    "file": "File:Edirne Selimiye Mosque Plan in 2003 4454.jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Plan"
+  ],
   "gv": 3
  },
  {
@@ -54881,7 +55031,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Hospital_de_la_Santa_Creu_i_Sant_Pau_14.jpg/1280px-Hospital_de_la_Santa_Creu_i_Sant_Pau_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hospital-de-sant-pau/thumbs/5.webp",
+    "thumb": "images/hospital-de-sant-pau/thumbs/4.webp",
     "w": 933,
     "h": 1400,
     "kind": "Interior",
@@ -54892,46 +55042,32 @@ window.BUILDINGS = [
     "file": "File:Hospital de la Santa Creu i Sant Pau 14.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hospital_SantPau-planol-nom.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/hospital-de-sant-pau/thumbs/6.webp",
-    "w": 1015,
-    "h": 933,
-    "kind": "Plan",
-    "caption": "Plan · Esquma pavellons de l'Hospital de la Santa Creu i Sant Pau (Barcelona, Catalunya)",
-    "credit": "Amadalvarez",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/033_Hospital_de_Sant_Pau%2C_creu_patent_de_la_reixa_d%27entrada.JPG/1280px-033_Hospital_de_Sant_Pau%2C_creu_patent_de_la_reixa_d%27entrada.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hospital-de-sant-pau/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · This image was uploaded as part of Wiki Loves Monuments 2014 ",
+    "credit": "Enfo",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hospital_SantPau-planol-nom.png",
-    "file": "File:Hospital SantPau-planol-nom.png"
+    "source": "https://commons.wikimedia.org/wiki/File:033_Hospital_de_Sant_Pau,_creu_patent_de_la_reixa_d%27entrada.JPG",
+    "file": "File:033 Hospital de Sant Pau, creu patent de la reixa d'entrada.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/033_Hospital_de_la_Santa_Creu_i_Sant_Pau_%28Barcelona%29%2C_maqueta.jpg/1280px-033_Hospital_de_la_Santa_Creu_i_Sant_Pau_%28Barcelona%29%2C_maqueta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hospital-de-sant-pau/thumbs/7.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Hospital de la Santa Creu i Sant Pau (Barcelona), maqueta",
-    "credit": "Enric",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:033_Hospital_de_la_Santa_Creu_i_Sant_Pau_(Barcelona),_maqueta.jpg",
-    "file": "File:033 Hospital de la Santa Creu i Sant Pau (Barcelona), maqueta.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/SantPau-al%C3%A7atpavello-186sh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/hospital-de-sant-pau/thumbs/8.webp",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/SantPau-Esbo%C3%A7Original-102sh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/hospital-de-sant-pau/thumbs/6.webp",
     "w": 1200,
-    "h": 823,
-    "kind": "Drawing",
-    "caption": "Drawing · Alçat d'un pavelló de l'Hospital de Sant Pau (1903) (Catalunya)",
+    "h": 688,
+    "kind": "Sketch",
+    "caption": "Sketch",
     "credit": "Lluís Domènech i Montaner",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:SantPau-al%C3%A7atpavello-186sh.jpg",
-    "file": "File:SantPau-alçatpavello-186sh.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:SantPau-Esbo%C3%A7Original-102sh.jpg",
+    "file": "File:SantPau-EsboçOriginal-102sh.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Model",
-   "Drawing"
+   "Sketch"
   ],
   "gv": 3
  },
@@ -58723,20 +58859,8 @@ window.BUILDINGS = [
     "file": "File:Fontaine du Grand Palais.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Artificial_Intelligence_Action_Summit_at_the_Grand_Palais%2C_Paris_-_2025_01.jpg/1280px-Artificial_Intelligence_Action_Summit_at_the_Grand_Palais%2C_Paris_-_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-palais/thumbs/2.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Exterior",
-    "caption": "Exterior · Façade of the Grand Palais (Paris, France) during the Artificial Intelligence Action Summit",
-    "credit": "Dati Bendo / European Union, 2025 / EC - Audiovisual Service",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Action_Summit_at_the_Grand_Palais,_Paris_-_2025_01.jpg",
-    "file": "File:Artificial Intelligence Action Summit at the Grand Palais, Paris - 2025 01.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Avenue_des_Champs-%C3%89lys%C3%A9es_-_53947107360.jpg/1280px-Avenue_des_Champs-%C3%89lys%C3%A9es_-_53947107360.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/grand-palais/thumbs/3.webp",
+    "thumb": "images/grand-palais/thumbs/2.webp",
     "w": 1280,
     "h": 852,
     "kind": "Exterior",
@@ -58747,16 +58871,52 @@ window.BUILDINGS = [
     "file": "File:Avenue des Champs-Élysées - 53947107360.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%287%29.jpg/1280px-Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Btv1b8448930w-p070.jpg/1280px-Btv1b8448930w-p070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-palais/thumbs/3.webp",
+    "w": 1131,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · [Collection Jules Beau",
+    "credit": "Jules Beau",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Btv1b8448930w-p070.jpg",
+    "file": "File:Btv1b8448930w-p070.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Salon_nautique_1928_au_Grand_Palais%29_voilier_Mallard_Papillon%2C_6_m_65_-_btv1b53207490d.jpg/1280px-%28Salon_nautique_1928_au_Grand_Palais%29_voilier_Mallard_Papillon%2C_6_m_65_-_btv1b53207490d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-palais/thumbs/4.webp",
+    "w": 1025,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Agence Rol. Agence photographique (commanditaire)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:(Salon_nautique_1928_au_Grand_Palais)_voilier_Mallard_Papillon,_6_m_65_-_btv1b53207490d.jpg",
+    "file": "File:(Salon nautique 1928 au Grand Palais) voilier Mallard Papillon, 6 m 65 - btv1b53207490d.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/1-10-20%2C_remise_d%27une_ambulance_pour_le_Japon_%28exposition_de_v%C3%A9hicules_sanitaires_au_Grand-Palais%29_-_btv1b530521821.jpg/1280px-1-10-20%2C_remise_d%27une_ambulance_pour_le_Japon_%28exposition_de_v%C3%A9hicules_sanitaires_au_Grand-Palais%29_-_btv1b530521821.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/grand-palais/thumbs/5.webp",
+    "w": 1280,
+    "h": 923,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Agence Rol. Agence photographique (commanditaire)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:1-10-20,_remise_d%27une_ambulance_pour_le_Japon_(exposition_de_v%C3%A9hicules_sanitaires_au_Grand-Palais)_-_btv1b530521821.jpg",
+    "file": "File:1-10-20, remise d'une ambulance pour le Japon (exposition de véhicules sanitaires au Grand-Palais) - btv1b530521821.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plan_of_space_for_Wellcome_exhibits%2C_Paris_1937_Wellcome_M0004548.jpg/1280px-Plan_of_space_for_Wellcome_exhibits%2C_Paris_1937_Wellcome_M0004548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/grand-palais/thumbs/6.webp",
     "w": 1280,
-    "h": 827,
+    "h": 924,
     "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Girault, Charles Louis (Cosne-Cours-sur-Loire, 27–12–1851 - Paris, 26–12–1932), architecte",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce,_de_l%27Industrie_-_Plan_d%27ensemble,_PPL80(7).jpg",
-    "file": "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(7).jpg"
+    "caption": "Plan · Plan of building space allocated for WHMM exhibits, for the 1937 Paris show",
+    "credit": "https://wellcomeimages.org/indexplus/obf_images/f5/99/7b71443ae0007a7246645fe4c99b.jpg \n \n  Gallery:",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_of_space_for_Wellcome_exhibits,_Paris_1937_Wellcome_M0004548.jpg",
+    "file": "File:Plan of space for Wellcome exhibits, Paris 1937 Wellcome M0004548.jpg"
    }
   ],
   "has": [
@@ -78187,6 +78347,30 @@ window.BUILDINGS = [
     "file": "File:20110725 Milano La Scala 5507.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/20170706_MilanoScala_9332_%2836607980811%29.jpg/1280px-20170706_MilanoScala_9332_%2836607980811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/la-scala/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Teatro alla Scala",
+    "credit": "Ray Swi-hymn  from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20170706_MilanoScala_9332_(36607980811).jpg",
+    "file": "File:20170706 MilanoScala 9332 (36607980811).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/20170706_MilanoScala_9334_%2836607979101%29.jpg/1280px-20170706_MilanoScala_9334_%2836607979101%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/la-scala/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Teatro alla Scala",
+    "credit": "Ray Swi-hymn  from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20170706_MilanoScala_9334_(36607979101).jpg",
+    "file": "File:20170706 MilanoScala 9334 (36607979101).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Teatro_alla_Scala_lampadario_Milan.jpg/1280px-Teatro_alla_Scala_lampadario_Milan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/la-scala/thumbs/3.webp",
     "w": 1280,
@@ -78221,9 +78405,48 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Mailand_scala_view_from_stage_1300010_Pano.jpg",
     "file": "File:Mailand scala view from stage 1300010 Pano.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Scala4.JPG/1280px-Scala4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/la-scala/thumbs/6.webp",
+    "w": 1280,
+    "h": 893,
+    "kind": "Elevation",
+    "caption": "Elevation · facciata del Teatro alla Scala , incisione in rame del 1789",
+    "credit": "G. Morazzoni",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Scala4.JPG",
+    "file": "File:Scala4.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Scala3.JPG/1280px-Scala3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/la-scala/thumbs/7.webp",
+    "w": 1280,
+    "h": 824,
+    "kind": "Section",
+    "caption": "Section · spaccato della sala del teatro alla Scala, incisione del 1789",
+    "credit": "G. Morazzoni",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Scala3.JPG",
+    "file": "File:Scala3.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Scala5.JPG/1280px-Scala5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/la-scala/thumbs/8.webp",
+    "w": 1280,
+    "h": 782,
+    "kind": "Section",
+    "caption": "Section · \"spaccato per lungo\" del teatro alla Scala, \"Piermarini inv",
+    "credit": "G. Morazzoni",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Scala5.JPG",
+    "file": "File:Scala5.JPG"
    }
   ],
-  "has": [],
+  "has": [
+   "Section",
+   "Elevation"
+  ],
   "gv": 3
  },
  {
@@ -90077,45 +90300,58 @@ window.BUILDINGS = [
     "file": "File:Dresden Germany Interior-of-Semperoper-04.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/L-Semperoper.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/semperoper/thumbs/6.webp",
-    "w": 1110,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:L-Semperoper.png",
-    "file": "File:L-Semperoper.png"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Dresden_Germany_Interior-of-Semperoper-02.jpg/1280px-Dresden_Germany_Interior-of-Semperoper-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semperoper/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Dresden, Germany: Interior of the Semperoper",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dresden_Germany_Interior-of-Semperoper-02.jpg",
+    "file": "File:Dresden Germany Interior-of-Semperoper-02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Innere_Ansicht_des_Gro%C3%9Fen_Opernhauses_1755_Dresden.jpg/1280px-Innere_Ansicht_des_Gro%C3%9Fen_Opernhauses_1755_Dresden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/DD_Oper_Grundriss.tiff/lossy-page1-1280px-DD_Oper_Grundriss.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semperoper/thumbs/6.webp",
+    "w": 1280,
+    "h": 1279,
+    "kind": "Plan",
+    "caption": "Plan · Das Neue Hoftheater in Dresden, Grundriss",
+    "credit": "Botho Straußberger",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:DD_Oper_Grundriss.tiff",
+    "file": "File:DD Oper Grundriss.tiff"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_136a.jpg/1280px-Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_136a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/semperoper/thumbs/7.webp",
     "w": 1280,
-    "h": 805,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "This file is from the  Mechanical Curator collection , a set of over 1 million images scanned from o",
+    "h": 702,
+    "kind": "Section",
+    "caption": "Section · Längendurchschnitt vom neuen königlichen Hoftheater",
+    "credit": "Ludwig Neumann, Hermann August Richter, Otto Siebdrat, Richard Steche, Robert Wimmer",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Innere_Ansicht_des_Gro%C3%9Fen_Opernhauses_1755_Dresden.jpg",
-    "file": "File:Innere Ansicht des Großen Opernhauses 1755 Dresden.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Bauten_von_Dresden_(1878)_Illustrationsseite_136a.jpg",
+    "file": "File:Die Bauten von Dresden (1878) Illustrationsseite 136a.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_130.jpg/1280px-Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_130.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_134a.jpg/1280px-Die_Bauten_von_Dresden_%281878%29_Illustrationsseite_134a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/semperoper/thumbs/8.webp",
-    "w": 969,
-    "h": 1400,
-    "kind": "Drawing",
-    "caption": "Drawing · siehe Bildtext aus: Die Bauten, technischen und industriellen Anlagen von Dresden",
+    "w": 1280,
+    "h": 717,
+    "kind": "Elevation",
+    "caption": "Elevation · Das neue königliche Hoftheater",
     "credit": "Ludwig Neumann, Hermann August Richter, Otto Siebdrat, Richard Steche, Robert Wimmer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Die_Bauten_von_Dresden_(1878)_Illustrationsseite_130.jpg",
-    "file": "File:Die Bauten von Dresden (1878) Illustrationsseite 130.jpg"
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Die_Bauten_von_Dresden_(1878)_Illustrationsseite_134a.jpg",
+    "file": "File:Die Bauten von Dresden (1878) Illustrationsseite 134a.jpg"
    }
   ],
   "has": [
    "Plan",
-   "Drawing"
+   "Section",
+   "Elevation"
   ],
   "gv": 3
  },
@@ -90160,7 +90396,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Amsterdam%2C_Holland_%28Ank_kumar_%29_02.jpg/1280px-Amsterdam%2C_Holland_%28Ank_kumar_%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/concertgebouw/thumbs/2.webp",
+    "thumb": "images/concertgebouw/thumbs/1.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -90172,7 +90408,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Amsterdam%2C_Holland_%28Ank_kumar_%29_05.jpg/1280px-Amsterdam%2C_Holland_%28Ank_kumar_%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/concertgebouw/thumbs/3.webp",
+    "thumb": "images/concertgebouw/thumbs/2.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -90183,8 +90419,20 @@ window.BUILDINGS = [
     "file": "File:Amsterdam, Holland (Ank kumar ) 05.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel%2C_fotonummer_157-0885%2C_Bestanddeelnr_157-0885.jpg/1280px-Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel%2C_fotonummer_157-0885%2C_Bestanddeelnr_157-0885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/concertgebouw/thumbs/3.webp",
+    "w": 1280,
+    "h": 929,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Anefo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Collectie_Fotocollectiie_Afdrukken_ANEFO_Rousel,_fotonummer_157-0885,_Bestanddeelnr_157-0885.jpg",
+    "file": "File:Collectie Fotocollectiie Afdrukken ANEFO Rousel, fotonummer 157-0885, Bestanddeelnr 157-0885.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amsterdam_-_Het_Concertgebouw_%2830299820055%29.jpg/1280px-Amsterdam_-_Het_Concertgebouw_%2830299820055%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/concertgebouw/thumbs/5.webp",
+    "thumb": "images/concertgebouw/thumbs/4.webp",
     "w": 1280,
     "h": 853,
     "kind": "Interior",
@@ -90195,20 +90443,32 @@ window.BUILDINGS = [
     "file": "File:Amsterdam - Het Concertgebouw (30299820055).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Den_Haag_-_Madurodam_-_Concertgebouw_Amsterdam.jpg/1280px-Den_Haag_-_Madurodam_-_Concertgebouw_Amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Aankomst_van_koningin_Juliana_en_prins_Bernhard%2C_Bestanddeelnr_913-8361.jpg/1280px-Aankomst_van_koningin_Juliana_en_prins_Bernhard%2C_Bestanddeelnr_913-8361.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/concertgebouw/thumbs/5.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Joop van Bilsen  for  Anefo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aankomst_van_koningin_Juliana_en_prins_Bernhard,_Bestanddeelnr_913-8361.jpg",
+    "file": "File:Aankomst van koningin Juliana en prins Bernhard, Bestanddeelnr 913-8361.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/A.L._van_Gendt_Concertgebouw_0.jpg/1280px-A.L._van_Gendt_Concertgebouw_0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/concertgebouw/thumbs/6.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Model",
-    "caption": "Model · Model of the Concert Building in Amsterdam, North Holland at Madurodam",
-    "credit": "Willem Nabuurs",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Den_Haag_-_Madurodam_-_Concertgebouw_Amsterdam.jpg",
-    "file": "File:Den Haag - Madurodam - Concertgebouw Amsterdam.jpg"
+    "h": 1010,
+    "kind": "Drawing",
+    "caption": "Drawing · Concertgebouw, Amsterdam, perspectives and plans",
+    "credit": "Adolf Leonard van Gendt (1835-1901)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:A.L._van_Gendt_Concertgebouw_0.jpg",
+    "file": "File:A.L. van Gendt Concertgebouw 0.jpg"
    }
   ],
   "has": [
-   "Model"
+   "Drawing"
   ],
   "gv": 3
  },
@@ -90403,20 +90663,20 @@ window.BUILDINGS = [
     "file": "File:Torino Mole Antonelliana Vista panoramica 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Sezione_Mole_Antonelliana_%285995786994%29.jpg/1280px-Sezione_Mole_Antonelliana_%285995786994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Turin._The_Mole_Antonelliana%2C_section_as_of_1973_2009_-_Touring_Club_Italiano_GR_Torino-0246.tif/lossy-page1-960px-Turin._The_Mole_Antonelliana%2C_section_as_of_1973_2009_-_Touring_Club_Italiano_GR_Torino-0246.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mole-antonelliana/thumbs/6.webp",
-    "w": 1050,
+    "w": 867,
     "h": 1400,
-    "kind": "Model",
-    "caption": "Model · Modello/sezione della Mole Antonelliana",
-    "credit": "Simone Graziano Panetto  from Torino, Italy",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Sezione_Mole_Antonelliana_(5995786994).jpg",
-    "file": "File:Sezione Mole Antonelliana (5995786994).jpg"
+    "kind": "Section",
+    "caption": "Section · Turin",
+    "credit": "Touring Club Italiano",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Turin._The_Mole_Antonelliana,_section_as_of_1973_2009_-_Touring_Club_Italiano_GR_Torino-0246.tif",
+    "file": "File:Turin. The Mole Antonelliana, section as of 1973 2009 - Touring Club Italiano GR Torino-0246.tif"
    }
   ],
   "has": [
-   "Model"
+   "Section"
   ],
   "gv": 3
  },
@@ -94549,8 +94809,20 @@ window.BUILDINGS = [
     "file": "File:Petit Palais Paris 2.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/D%C3%A9corations_de_la_vo%C3%BBte_du_p%C3%A9ristyle_du_Petit_Palais%2C_Paris_Mus%C3%A9es_20230822223801%283%29.jpg/1280px-D%C3%A9corations_de_la_vo%C3%BBte_du_p%C3%A9ristyle_du_Petit_Palais%2C_Paris_Mus%C3%A9es_20230822223801%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/petit-palais/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Baudouin, Paul-Albert (Rouen, 24–10–1844 - Paris, 24–12–1931), peintre",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%A9corations_de_la_vo%C3%BBte_du_p%C3%A9ristyle_du_Petit_Palais,_Paris_Mus%C3%A9es_20230822223801(3).jpg",
+    "file": "File:Décorations de la voûte du péristyle du Petit Palais, Paris Musées 20230822223801(3).jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Dome_%40_Petit_Palais_%40_Paris_%2834760528501%29.jpg/1280px-Dome_%40_Petit_Palais_%40_Paris_%2834760528501%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/petit-palais/thumbs/4.webp",
+    "thumb": "images/petit-palais/thumbs/2.webp",
     "w": 1280,
     "h": 853,
     "kind": "Interior",
@@ -94561,20 +94833,81 @@ window.BUILDINGS = [
     "file": "File:Dome @ Petit Palais @ Paris (34760528501).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Petit_Palais_des_Beaux-Arts._Plan_de_l%27%C3%A9tage_-_Archives_nationales-_CP-F-12-4445-L-A.jpg/1280px-Petit_Palais_des_Beaux-Arts._Plan_de_l%27%C3%A9tage_-_Archives_nationales-_CP-F-12-4445-L-A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Fresco_%40_Petit_Palais_%40_Paris_%2834760573121%29.jpg/1280px-Fresco_%40_Petit_Palais_%40_Paris_%2834760573121%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/petit-palais/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Petit Palais, an art museum in the 8th arrondissement of Paris, France",
+    "credit": "Guilhem Vellut  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fresco_@_Petit_Palais_@_Paris_(34760573121).jpg",
+    "file": "File:Fresco @ Petit Palais @ Paris (34760573121).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Int%C3%A9rieur_Petit_Palais_-_Paris_VIII_%28FR75%29_-_2026-05-30_-_1.jpg/1280px-Int%C3%A9rieur_Petit_Palais_-_Paris_VIII_%28FR75%29_-_2026-05-30_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/petit-palais/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Intérieur du petit Palais, Paris",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Petit_Palais_-_Paris_VIII_(FR75)_-_2026-05-30_-_1.jpg",
+    "file": "File:Intérieur Petit Palais - Paris VIII (FR75) - 2026-05-30 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Petit_Palais_Paris_8e.jpg/1280px-Petit_Palais_Paris_8e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/petit-palais/thumbs/5.webp",
+    "w": 868,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Petit Palais in the 8th arrondissement of Paris , France",
+    "credit": "Moonik",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Petit_Palais_Paris_8e.jpg",
+    "file": "File:Petit Palais Paris 8e.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%2813%29.jpg/1280px-Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/petit-palais/thumbs/6.webp",
     "w": 1280,
-    "h": 895,
-    "kind": "Plan",
-    "caption": "Plan · Archives photographiques de l'Exposition universelle de 1900",
-    "credit": "This file was provided to Wikimedia Commons by the  Archives Nationales  as part of a cooperation pr",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Petit_Palais_des_Beaux-Arts._Plan_de_l%27%C3%A9tage_-_Archives_nationales-_CP-F-12-4445-L-A.jpg",
-    "file": "File:Petit Palais des Beaux-Arts. Plan de l'étage - Archives nationales- CP-F-12-4445-L-A.jpg"
+    "h": 955,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Girault, Charles Louis (Cosne-Cours-sur-Loire, 27–12–1851 - Paris, 26–12–1932), architecte",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce,_de_l%27Industrie_-_Plan_d%27ensemble,_PPL80(13).jpg",
+    "file": "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(13).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%284%29.jpg/1280px-Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/petit-palais/thumbs/7.webp",
+    "w": 1280,
+    "h": 684,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Girault, Charles Louis (Cosne-Cours-sur-Loire, 27–12–1851 - Paris, 26–12–1932), architecte",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce,_de_l%27Industrie_-_Plan_d%27ensemble,_PPL80(4).jpg",
+    "file": "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%2814%29.jpg/1280px-Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce%2C_de_l%27Industrie_-_Plan_d%27ensemble%2C_PPL80%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/petit-palais/thumbs/8.webp",
+    "w": 1280,
+    "h": 820,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Girault, Charles Louis (Cosne-Cours-sur-Loire, 27–12–1851 - Paris, 26–12–1932), architecte",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Exposition_universelle_de_1900._Projets_approuv%C3%A9s_par_Monsieur_le_Ministre_du_Commerce,_de_l%27Industrie_-_Plan_d%27ensemble,_PPL80(14).jpg",
+    "file": "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(14).jpg"
    }
   ],
   "has": [
-   "Plan"
+   "Section",
+   "Elevation"
   ],
   "gv": 3
  },
@@ -107901,20 +108234,59 @@ window.BUILDINGS = [
     "file": "File:FEM Innen Labor.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss.jpg/1280px-Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg/1280px-Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mausebunker/thumbs/5.webp",
     "w": 1280,
-    "h": 848,
+    "h": 732,
     "kind": "Plan",
     "caption": "Plan",
     "credit": "Gerd Hänska",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss.jpg",
-    "file": "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg",
+    "file": "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg/1280px-Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mausebunker/thumbs/6.webp",
+    "w": 1280,
+    "h": 780,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Gerd Hänska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg",
+    "file": "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg/1280px-Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mausebunker/thumbs/7.webp",
+    "w": 1280,
+    "h": 768,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Gerd Hänska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg",
+    "file": "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg/1280px-Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mausebunker/thumbs/8.webp",
+    "w": 1280,
+    "h": 736,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Gerd Hänska",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg",
+    "file": "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg"
    }
   ],
   "has": [
-   "Plan"
+   "Plan",
+   "Section",
+   "Elevation",
+   "Drawing"
   ],
   "gv": 3
  },
@@ -108746,6 +109118,18 @@ window.BUILDINGS = [
     "file": "File:Frank Lloyd Wright - Buffalo, NY - Darwin D. Martin House (B).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Darwin_Martin_House_entrance_and_front_of_house_with_tour_group.jpg/1280px-Darwin_Martin_House_entrance_and_front_of_house_with_tour_group.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/darwin-d-martin-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nathaniel Abbott",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Darwin_Martin_House_entrance_and_front_of_house_with_tour_group.jpg",
+    "file": "File:Darwin Martin House entrance and front of house with tour group.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/FLW_-_Darwin_D_Martin_-_Conservatory_North_-_2009-04-03.jpg/1280px-FLW_-_Darwin_D_Martin_-_Conservatory_North_-_2009-04-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/darwin-d-martin-house/thumbs/4.webp",
     "w": 1050,
@@ -108768,9 +109152,35 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:FLW_-_Darwin_D_Martin_-_Conservatory_South_-_2009-04-03.jpg",
     "file": "File:FLW - Darwin D Martin - Conservatory South - 2009-04-03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/D._D._Martin_House_site_plan_-_HABS_NY%2C15-BUF%2C5-.gif/1280px-D._D._Martin_House_site_plan_-_HABS_NY%2C15-BUF%2C5-.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/darwin-d-martin-house/thumbs/6.webp",
+    "w": 996,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:D._D._Martin_House_site_plan_-_HABS_NY,15-BUF,5-.gif",
+    "file": "File:D. D. Martin House site plan - HABS NY,15-BUF,5-.gif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Historic_American_Buildings_Survey%2C_Plate_-_55%2C_%27Wohnhaus_Martin%2C_Buffalo%2C_N._Y._Grundrisse_des_Haupt_und_Obergeschosses%27_in_Frank_Lloyd_Wright_Ausgefuhrte_Bauten_%28Berlin-_Ernst_HABS_NY%2C15-BUF%2C5-15.tif/lossy-page1-1280px-thumbnail.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/darwin-d-martin-house/thumbs/7.webp",
+    "w": 1187,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "https://www.loc.gov/pictures/item/ny0203.photos.116402p",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Historic_American_Buildings_Survey,_Plate_-_55,_%27Wohnhaus_Martin,_Buffalo,_N._Y._Grundrisse_des_Haupt_und_Obergeschosses%27_in_Frank_Lloyd_Wright_Ausgefuhrte_Bauten_(Berlin-_Ernst_HABS_NY,15-BUF,5-15.tif",
+    "file": "File:Historic American Buildings Survey, Plate - 55, 'Wohnhaus Martin, Buffalo, N. Y. Grundrisse des Haupt und Obergeschosses' in Frank Lloyd Wright Ausgefuhrte Bauten (Berlin- Ernst HABS NY,15-BUF,5-15.tif"
    }
   ],
-  "has": [],
+  "has": [
+   "Plan"
+  ],
   "gv": 3
  },
  {
@@ -112793,7 +113203,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/P20220316AS-2685-2_%2852028925723%29.jpg/1280px-P20220316AS-2685-2_%2852028925723%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-building-museum/thumbs/2.webp",
+    "thumb": "images/national-building-museum/thumbs/1.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -112805,7 +113215,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/National_Building_Museum_in_Washington_D.C._%28Tony_Webster%29.jpg/1280px-National_Building_Museum_in_Washington_D.C._%28Tony_Webster%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-building-museum/thumbs/3.webp",
+    "thumb": "images/national-building-museum/thumbs/2.webp",
     "w": 1280,
     "h": 853,
     "kind": "Exterior",
@@ -112816,28 +113226,16 @@ window.BUILDINGS = [
     "file": "File:National Building Museum in Washington D.C. (Tony Webster).jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/SOUTH_FACADE%2C_CENTRAL_SECTION.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/national-building-museum/thumbs/6.webp",
-    "w": 756,
-    "h": 968,
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/National_Science_Bowl_2013_%28Pic_5%29.jpg/1280px-National_Science_Bowl_2013_%28Pic_5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-building-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
     "kind": "Exterior",
-    "caption": "Exterior · 27",
-    "credit": "HABS photographer",
+    "caption": "Exterior",
+    "credit": "ENERGY.GOV",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:SOUTH_FACADE,_CENTRAL_SECTION.jpg",
-    "file": "File:SOUTH FACADE, CENTRAL SECTION.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/ENTRANCE_-_SOUTH_ELEVATION_-_Pension_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/national-building-museum/thumbs/7.webp",
-    "w": 667,
-    "h": 953,
-    "kind": "Exterior",
-    "caption": "Exterior · 1",
-    "credit": "HABS photographer",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:ENTRANCE_-_SOUTH_ELEVATION_-_Pension_Building.jpg",
-    "file": "File:ENTRANCE - SOUTH ELEVATION - Pension Building.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:National_Science_Bowl_2013_(Pic_5).jpg",
+    "file": "File:National Science Bowl 2013 (Pic 5).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Aerial_view_of_Judiciary_Square.jpg/1280px-Aerial_view_of_Judiciary_Square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -112862,9 +113260,23 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Judiciary_Square_(cropped).jpg",
     "file": "File:Aerial view of Judiciary Square (cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Pension_Building%2C_440_G_Street_Northwest%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C152-_%28sheet_1_of_1%29.png/1280px-Pension_Building%2C_440_G_Street_Northwest%2C_Washington%2C_District_of_Columbia%2C_DC_HABS_DC%2CWASH%2C152-_%28sheet_1_of_1%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/national-building-museum/thumbs/6.webp",
+    "w": 1280,
+    "h": 1005,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Related names:\n \n  Meigs, Montgomery C \n Buberl, C \n Jandoli, Liz, transmitter",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pension_Building,_440_G_Street_Northwest,_Washington,_District_of_Columbia,_DC_HABS_DC,WASH,152-_(sheet_1_of_1).png",
+    "file": "File:Pension Building, 440 G Street Northwest, Washington, District of Columbia, DC HABS DC,WASH,152- (sheet 1 of 1).png"
    }
   ],
-  "has": [],
+  "has": [
+   "Elevation"
+  ],
   "gv": 3
  },
  {
@@ -116152,7 +116564,7 @@ window.BUILDINGS = [
   "images": [
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Monumento_a_la_Infanter%C3%ADa_Belga_y_Palacio_de_Justicia%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_66.jpg/1280px-Monumento_a_la_Infanter%C3%ADa_Belga_y_Palacio_de_Justicia%2C_Bruselas%2C_B%C3%A9lgica%2C_2021-12-15%2C_DD_66.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-justice/thumbs/1.webp",
+    "thumb": "images/palace-of-justice/thumbs/0.webp",
     "w": 1280,
     "h": 668,
     "kind": "Exterior",
@@ -116164,7 +116576,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Justitiepaleis_en_Regentschapsstraat.jpg/1280px-Justitiepaleis_en_Regentschapsstraat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/palace-of-justice/thumbs/0.webp",
+    "thumb": "images/palace-of-justice/thumbs/1.webp",
     "w": 931,
     "h": 1400,
     "kind": "Exterior",
@@ -116223,46 +116635,45 @@ window.BUILDINGS = [
     "file": "File:Coupole du Palais de Justice de Bruxelles 03.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Goetghebuer_-_1827_-_Choix_des_monuments_-_097b_Plan_palais_justice_Bruxelles.jpg/1280px-Goetghebuer_-_1827_-_Choix_des_monuments_-_097b_Plan_palais_justice_Bruxelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Plan_miniemengevel.png/1280px-Plan_miniemengevel.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palace-of-justice/thumbs/6.webp",
-    "w": 919,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Petrus Jacobus Goetghebuer",
+    "w": 1280,
+    "h": 809,
+    "kind": "Elevation",
+    "caption": "Elevation · Law Courts of Brussels",
+    "credit": "Anonymous",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Goetghebuer_-_1827_-_Choix_des_monuments_-_097b_Plan_palais_justice_Bruxelles.jpg",
-    "file": "File:Goetghebuer - 1827 - Choix des monuments - 097b Plan palais justice Bruxelles.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_miniemengevel.png",
+    "file": "File:Plan miniemengevel.png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Maquette_of_the_Palace_of_Justice_in_Brussels%2C_1875_%28photo_A._de_Blochouse%2C_1878-1890%29.jpg/1280px-Maquette_of_the_Palace_of_Justice_in_Brussels%2C_1875_%28photo_A._de_Blochouse%2C_1878-1890%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Plan_jp_1880.png/1280px-Plan_jp_1880.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palace-of-justice/thumbs/7.webp",
     "w": 1280,
-    "h": 894,
-    "kind": "Model",
-    "caption": "Model · Model of the Palace of Justice in Brussels, 1875 (photo A",
-    "credit": "Alexandre de Blochouse",
+    "h": 960,
+    "kind": "Elevation",
+    "caption": "Elevation · Law Courts of Brussels",
+    "credit": "Anonymous",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Maquette_of_the_Palace_of_Justice_in_Brussels,_1875_(photo_A._de_Blochouse,_1878-1890).jpg",
-    "file": "File:Maquette of the Palace of Justice in Brussels, 1875 (photo A. de Blochouse, 1878-1890).jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_jp_1880.png",
+    "file": "File:Plan jp 1880.png"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Nouveau_Palais_de_Justice_de_Bruxelles_3851.jpg/1280px-Nouveau_Palais_de_Justice_de_Bruxelles_3851.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Doorsnede_jp.png/1280px-Doorsnede_jp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/palace-of-justice/thumbs/8.webp",
     "w": 1280,
-    "h": 858,
-    "kind": "Drawing",
-    "caption": "Drawing · Architectural drawing of the western facade of the Law Courts of Brussels",
-    "credit": "Creator:Joseph Poelaert",
+    "h": 825,
+    "kind": "Section",
+    "caption": "Section · Law Courts of Brussels",
+    "credit": "Anonymous",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Nouveau_Palais_de_Justice_de_Bruxelles_3851.jpg",
-    "file": "File:Nouveau Palais de Justice de Bruxelles 3851.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Doorsnede_jp.png",
+    "file": "File:Doorsnede jp.png"
    }
   ],
   "has": [
-   "Plan",
-   "Model",
-   "Drawing"
+   "Section",
+   "Elevation"
   ],
   "gv": 3
  },
@@ -119921,16 +120332,16 @@ window.BUILDINGS = [
     "file": "File:Interior of Fisher Building, Detroit.JPG"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Fisher_Building_First_Floor_Plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fisher_Building_5th_to_9th_Floor_Plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/fisher-building/thumbs/6.webp",
-    "w": 788,
-    "h": 915,
+    "w": 760,
+    "h": 903,
     "kind": "Plan",
-    "caption": "Plan · First floor plan, Fisher Building, 3011 West Grand Boulevard, Detroit, Michigan",
+    "caption": "Plan · 5th to 9th floor plan, Fisher Building, 3011 West Grand Boulevard, Detroit, Michigan",
     "credit": "Architect: Albert Kahn, Inc.",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Fisher_Building_First_Floor_Plan.png",
-    "file": "File:Fisher Building First Floor Plan.png"
+    "source": "https://commons.wikimedia.org/wiki/File:Fisher_Building_5th_to_9th_Floor_Plan.png",
+    "file": "File:Fisher Building 5th to 9th Floor Plan.png"
    }
   ],
   "has": [
@@ -130245,20 +130656,8 @@ window.BUILDINGS = [
     "file": "File:The Mosque-Madrassa of Sultan Hassan.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Madrasah_of_Sultan_Hassan_in_2017%2C_photo_by_Hatem_Moushir_1.jpg/1280px-Madrasah_of_Sultan_Hassan_in_2017%2C_photo_by_Hatem_Moushir_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Madrasah of Sultan Hassan in 2017, photo by Hatem Moushir",
-    "credit": "Hatem Moushir",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Madrasah_of_Sultan_Hassan_in_2017,_photo_by_Hatem_Moushir_1.jpg",
-    "file": "File:Madrasah of Sultan Hassan in 2017, photo by Hatem Moushir 1.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Al_Sultan_Hassan_Mosque.jpg/1280px-Al_Sultan_Hassan_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/4.webp",
+    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/3.webp",
     "w": 1280,
     "h": 853,
     "kind": "Interior",
@@ -130270,7 +130669,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Madrasah_of_Sultan_Hassan_in_2017%2C_photo_by_Hatem_Moushir_23.jpg/1280px-Madrasah_of_Sultan_Hassan_in_2017%2C_photo_by_Hatem_Moushir_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/5.webp",
+    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/4.webp",
     "w": 933,
     "h": 1400,
     "kind": "Interior",
@@ -130282,7 +130681,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Sultan_Hassan_Mosque_at_cairo.jpg/1280px-Sultan_Hassan_Mosque_at_cairo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/7.webp",
+    "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/5.webp",
     "w": 1280,
     "h": 831,
     "kind": "Detail",
@@ -130293,16 +130692,16 @@ window.BUILDINGS = [
     "file": "File:Sultan Hassan Mosque at cairo.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Britannica_Mosque_-_Sultan_Hasan_Cairo_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Plan_of_Medresa_%28c.1830%29_-_TIMEA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/mosque-madrasa-of-sultan-hassan/thumbs/6.webp",
-    "w": 809,
-    "h": 1377,
+    "w": 1024,
+    "h": 775,
     "kind": "Plan",
-    "caption": "Plan · Floor plan of Mosque of Sultan Hasan, Cairo",
-    "credit": "unknown draftsman",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Britannica_Mosque_-_Sultan_Hasan_Cairo_plan.jpg",
-    "file": "File:Britannica Mosque - Sultan Hasan Cairo plan.jpg"
+    "caption": "Plan · Plan of a school",
+    "credit": "Lane-Poole, Stanley",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Plan_of_Medresa_(c.1830)_-_TIMEA.jpg",
+    "file": "File:Plan of Medresa (c.1830) - TIMEA.jpg"
    }
   ],
   "has": [
@@ -136548,16 +136947,16 @@ window.BUILDINGS = [
     "file": "File:ASC Leiden - van Achterberg Collection - 05 - 29 - Un four à pain brûlant avec la tour (minaret) de la mosquée Djingareyber - Tombouctou, Mali - Novembre-décembre 1993.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Details_van_de_Djinguereber-moskee_te_Timboektoe_en_het_huis_van_Sidi_Abdallah_Chebir%2C_RP-P-2018-3757.jpg/1280px-Details_van_de_Djinguereber-moskee_te_Timboektoe_en_het_huis_van_Sidi_Abdallah_Chebir%2C_RP-P-2018-3757.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Gezicht_op_en_plattegrond_van_de_Djinguereber-moskee_te_Timboektoe%2C_RP-P-2018-3756.jpg/1280px-Gezicht_op_en_plattegrond_van_de_Djinguereber-moskee_te_Timboektoe%2C_RP-P-2018-3756.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/djinguereber-mosque/thumbs/6.webp",
     "w": 1280,
-    "h": 880,
+    "h": 837,
     "kind": "Plan",
     "caption": "Plan",
     "credit": "Rijksmuseum",
     "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Details_van_de_Djinguereber-moskee_te_Timboektoe_en_het_huis_van_Sidi_Abdallah_Chebir,_RP-P-2018-3757.jpg",
-    "file": "File:Details van de Djinguereber-moskee te Timboektoe en het huis van Sidi Abdallah Chebir, RP-P-2018-3757.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Gezicht_op_en_plattegrond_van_de_Djinguereber-moskee_te_Timboektoe,_RP-P-2018-3756.jpg",
+    "file": "File:Gezicht op en plattegrond van de Djinguereber-moskee te Timboektoe, RP-P-2018-3756.jpg"
    }
   ],
   "has": [
@@ -166110,7 +166509,7 @@ window.BUILDINGS = [
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Price_Tower_%285630175602%29.jpg/1280px-Price_Tower_%285630175602%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/price-tower/thumbs/3.webp",
+    "thumb": "images/price-tower/thumbs/2.webp",
     "w": 930,
     "h": 1400,
     "kind": "Exterior",
@@ -166119,6 +166518,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Price_Tower_(5630175602).jpg",
     "file": "File:Price Tower (5630175602).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Price_Tower.jpg/1280px-Price_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/price-tower/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · c",
+    "credit": "ExqBoredinNac",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Price_Tower.jpg",
+    "file": "File:Price Tower.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lobby_Ceiling%2C_Price_Tower%2C_Dewey_Avenue%2C_Bartlesville%2C_OK_-_53708746318.jpg/1280px-Lobby_Ceiling%2C_Price_Tower%2C_Dewey_Avenue%2C_Bartlesville%2C_OK_-_53708746318.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -166133,32 +166544,69 @@ window.BUILDINGS = [
     "file": "File:Lobby Ceiling, Price Tower, Dewey Avenue, Bartlesville, OK - 53708746318.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/11th_and_13th_-_15th_Floor_Plans_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_8_of_17%29.png/1280px-11th_and_13th_-_15th_Floor_Plans_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_8_of_17%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/price-tower/thumbs/6.webp",
-    "w": 1280,
-    "h": 843,
-    "kind": "Plan",
-    "caption": "Plan",
-    "credit": "Related names:\n \n  Frank Lloyd Wright, architect \n CMB Price Tower Arts Center, delineator",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:11th_and_13th_-_15th_Floor_Plans_-_Price_Tower,_510_South_Dewey_Avenue,_Bartlesville,_Washington_County,_OK_HABS_OK-67_(sheet_8_of_17).png",
-    "file": "File:11th and 13th - 15th Floor Plans - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 8 of 17).png"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Doorway%2C_Price_Tower%2C_Dewey_Avenue%2C_Bartlesville%2C_OK_-_53708963390.jpg/1280px-Doorway%2C_Price_Tower%2C_Dewey_Avenue%2C_Bartlesville%2C_OK_-_53708963390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/price-tower/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Bartlesville, OK",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doorway,_Price_Tower,_Dewey_Avenue,_Bartlesville,_OK_-_53708963390.jpg",
+    "file": "File:Doorway, Price Tower, Dewey Avenue, Bartlesville, OK - 53708963390.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/East_Elevation_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_12_of_17%29.png/1280px-East_Elevation_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_12_of_17%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Second_Floor_Plan_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_5_of_17%29.tif/lossy-page1-1280px-Second_Floor_Plan_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_5_of_17%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/price-tower/thumbs/6.webp",
+    "w": 1280,
+    "h": 841,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "https://www.loc.gov/pictures/item/ok0106.sheet.00005a",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Second_Floor_Plan_-_Price_Tower,_510_South_Dewey_Avenue,_Bartlesville,_Washington_County,_OK_HABS_OK-67_(sheet_5_of_17).tif",
+    "file": "File:Second Floor Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 5 of 17).tif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Section%2C_and_Light%2C_Louver%2C_and_Spire_Details_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_17_of_17%29.tif/lossy-page1-1280px-Section%2C_and_Light%2C_Louver%2C_and_Spire_Details_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_17_of_17%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/price-tower/thumbs/7.webp",
+    "w": 1280,
+    "h": 840,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "https://www.loc.gov/pictures/item/ok0106.sheet.00017a",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Section,_and_Light,_Louver,_and_Spire_Details_-_Price_Tower,_510_South_Dewey_Avenue,_Bartlesville,_Washington_County,_OK_HABS_OK-67_(sheet_17_of_17).tif",
+    "file": "File:Section, and Light, Louver, and Spire Details - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 17 of 17).tif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Site_Plan_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_2_of_17%29.tif/lossy-page1-1280px-Site_Plan_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_2_of_17%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/price-tower/thumbs/8.webp",
+    "w": 1280,
+    "h": 840,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "https://www.loc.gov/pictures/item/ok0106.sheet.00002a",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Site_Plan_-_Price_Tower,_510_South_Dewey_Avenue,_Bartlesville,_Washington_County,_OK_HABS_OK-67_(sheet_2_of_17).tif",
+    "file": "File:Site Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 2 of 17).tif"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/East_Elevation_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_12_of_17%29.tif/lossy-page1-1280px-East_Elevation_-_Price_Tower%2C_510_South_Dewey_Avenue%2C_Bartlesville%2C_Washington_County%2C_OK_HABS_OK-67_%28sheet_12_of_17%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/price-tower/thumbs/9.webp",
     "w": 923,
     "h": 1400,
     "kind": "Elevation",
     "caption": "Elevation",
     "credit": "Related names:\n \n  Frank Lloyd Wright, architect \n CMB Price Tower Arts Center, delineator",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:East_Elevation_-_Price_Tower,_510_South_Dewey_Avenue,_Bartlesville,_Washington_County,_OK_HABS_OK-67_(sheet_12_of_17).png",
-    "file": "File:East Elevation - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 12 of 17).png"
+    "source": "https://commons.wikimedia.org/wiki/File:East_Elevation_-_Price_Tower,_510_South_Dewey_Avenue,_Bartlesville,_Washington_County,_OK_HABS_OK-67_(sheet_12_of_17).tif",
+    "file": "File:East Elevation - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 12 of 17).tif"
    }
   ],
   "has": [
    "Plan",
+   "Section",
    "Elevation"
   ],
   "gv": 3
@@ -179981,6 +180429,18 @@ window.BUILDINGS = [
     "file": "File:Lovell House, Los Angeles, California.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Lovell_Health_House_3.jpg/1280px-Lovell_Health_House_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lovell-health-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The Lovell Health House by Richard Neutra in the International style (1929)",
+    "credit": "Codera23",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lovell_Health_House_3.jpg",
+    "file": "File:Lovell Health House 3.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lovell_House_1.jpg/1280px-Lovell_House_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/lovell-health-house/thumbs/3.webp",
     "w": 1280,
@@ -179993,19 +180453,33 @@ window.BUILDINGS = [
     "file": "File:Lovell House 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Lovell_Health_House_3.jpg/1280px-Lovell_Health_House_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lovell-health-house/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lovell_%28Health%29_House%2C_4616_Dundee_Drive%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C66-_%28sheet_1_of_9%29.png/1280px-Lovell_%28Health%29_House%2C_4616_Dundee_Drive%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C66-_%28sheet_1_of_9%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lovell-health-house/thumbs/4.webp",
     "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · The Lovell Health House by Richard Neutra in the International style (1929)",
-    "credit": "Codera23",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Lovell_Health_House_3.jpg",
-    "file": "File:Lovell Health House 3.jpg"
+    "h": 1006,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Neutra, Richard J",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lovell_(Health)_House,_4616_Dundee_Drive,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,66-_(sheet_1_of_9).png",
+    "file": "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 1 of 9).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Lovell_%28Health%29_House%2C_4616_Dundee_Drive%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C66-_%28sheet_8_of_9%29.png/1280px-Lovell_%28Health%29_House%2C_4616_Dundee_Drive%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C66-_%28sheet_8_of_9%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lovell-health-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Related names:\n \n  Neutra, Richard J",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lovell_(Health)_House,_4616_Dundee_Drive,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,66-_(sheet_8_of_9).png",
+    "file": "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 8 of 9).png"
    }
   ],
-  "has": [],
+  "has": [
+   "Section"
+  ],
   "gv": 3
  },
  {
@@ -199590,33 +200064,33 @@ window.BUILDINGS = [
     "file": "File:Stockholms stadshus February 2026 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Stockholms_stadshus_plan_1_tr_Bl%C3%A5_hallen.jpg/1280px-Stockholms_stadshus_plan_1_tr_Bl%C3%A5_hallen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Stockholms_stadshus_plan_1_tr_Bl%C3%A5_rummet.jpg/1280px-Stockholms_stadshus_plan_1_tr_Bl%C3%A5_rummet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/stockholm-city-hall/thumbs/4.webp",
     "w": 1280,
     "h": 814,
     "kind": "Plan",
-    "caption": "Plan · Stockholms stadshus översiktsplan våning 1 trappa, Blå hallen",
+    "caption": "Plan · Stockholms stadshus översiktsplan våning 1 trappa",
     "credit": "Holger.Ellgaard",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_plan_1_tr_Bl%C3%A5_hallen.jpg",
-    "file": "File:Stockholms stadshus plan 1 tr Blå hallen.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_plan_1_tr_Bl%C3%A5_rummet.jpg",
+    "file": "File:Stockholms stadshus plan 1 tr Blå rummet.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Stockholms_stadshus%2C_planritning%2C_1916.jpg/1280px-Stockholms_stadshus%2C_planritning%2C_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/stockholm-city-hall/thumbs/6.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Stockholms_stadshus%2C_tornskisser%2C_1918%2C_1919.jpg/1280px-Stockholms_stadshus%2C_tornskisser%2C_1918%2C_1919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stockholm-city-hall/thumbs/5.webp",
     "w": 1280,
-    "h": 678,
-    "kind": "Drawing",
-    "caption": "Drawing · Stockholms stadshus, ritning, bottenvåning",
+    "h": 1298,
+    "kind": "Sketch",
+    "caption": "Sketch · Stockholms stadshus, tornskisser",
     "credit": "Ragnar Östberg (1866-1945)",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus,_planritning,_1916.jpg",
-    "file": "File:Stockholms stadshus, planritning, 1916.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus,_tornskisser,_1918,_1919.jpg",
+    "file": "File:Stockholms stadshus, tornskisser, 1918, 1919.jpg"
    }
   ],
   "has": [
    "Plan",
-   "Drawing"
+   "Sketch"
   ],
   "gv": 3
  },
@@ -202559,20 +203033,8 @@ window.BUILDINGS = [
   "hotlink": true,
   "images": [
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/20231124_Zhongshan_Ling_%28084845%29.jpg/1280px-20231124_Zhongshan_Ling_%28084845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sun-yat-sen-mausoleum/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Yumeto",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20231124_Zhongshan_Ling_(084845).jpg",
-    "file": "File:20231124 Zhongshan Ling (084845).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Sun_Yat-sen_Mausoleum_49670-Nanjing_%2827690056440%29.jpg/1280px-Sun_Yat-sen_Mausoleum_49670-Nanjing_%2827690056440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sun-yat-sen-mausoleum/thumbs/1.webp",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/0.webp",
     "w": 1280,
     "h": 848,
     "kind": "Exterior",
@@ -202583,8 +203045,32 @@ window.BUILDINGS = [
     "file": "File:Sun Yat-sen Mausoleum 49670-Nanjing (27690056440).jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/20231124_Zhongshan_Ling_%28084845%29.jpg/1280px-20231124_Zhongshan_Ling_%28084845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Yumeto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20231124_Zhongshan_Ling_(084845).jpg",
+    "file": "File:20231124 Zhongshan Ling (084845).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg/1280px-China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Mausoleum of Sun Yat Sen Complex",
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:China-Nanjing_(2024)_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg",
+    "file": "File:China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 08.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Sun_Yat-sen_Mausoleum_-_54400370204.jpg/1280px-Sun_Yat-sen_Mausoleum_-_54400370204.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sun-yat-sen-mausoleum/thumbs/5.webp",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/3.webp",
     "w": 933,
     "h": 1400,
     "kind": "Interior",
@@ -202593,9 +203079,47 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_Mausoleum_-_54400370204.jpg",
     "file": "File:Sun Yat-sen Mausoleum - 54400370204.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sun_Yat-sen_Sacrificial_Hall_Inscription.jpg/1280px-Sun_Yat-sen_Sacrificial_Hall_Inscription.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/4.webp",
+    "w": 1280,
+    "h": 616,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "乌拉跨氪",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_Sacrificial_Hall_Inscription.jpg",
+    "file": "File:Sun Yat-sen Sacrificial Hall Inscription.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/General_Pace_at_Sun_Yat_Sen_memorial.jpg/1280px-General_Pace_at_Sun_Yat_Sen_memorial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/5.webp",
+    "w": 878,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Chairman of the Joint Chiefs of Staff U.S",
+    "credit": "Defense Dept. photo by U.S. Air Force Staff Sgt. D. Myles Cullen",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:General_Pace_at_Sun_Yat_Sen_memorial.jpg",
+    "file": "File:General Pace at Sun Yat Sen memorial.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lu_Yanzhi%27s_Design_of_Sun_Yat-sen%27s_Mausoleum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/sun-yat-sen-mausoleum/thumbs/6.webp",
+    "w": 624,
+    "h": 850,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "吕彦直/Lu Yan-chi",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lu_Yanzhi%27s_Design_of_Sun_Yat-sen%27s_Mausoleum_2.jpg",
+    "file": "File:Lu Yanzhi's Design of Sun Yat-sen's Mausoleum 2.jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Drawing"
+  ],
   "gv": 3
  },
  {
@@ -221141,8 +221665,20 @@ window.BUILDINGS = [
     "file": "File:Façade de la Bibliothèque Sainte-Geneviève, sud-est.JPG"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/A_la_biblioth%C3%A8que_Ste_Genevi%C3%A8ve._1%2C_G.19701.jpg/1280px-A_la_biblioth%C3%A8que_Ste_Genevi%C3%A8ve._1%2C_G.19701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/3.webp",
+    "w": 1111,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Vernier, Charles (23–04–1813 - 02–08–1892), dessinateur-lithographe",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_la_biblioth%C3%A8que_Ste_Genevi%C3%A8ve._1,_G.19701.jpg",
+    "file": "File:A la bibliothèque Ste Geneviève. 1, G.19701.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%2810%29.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/5.webp",
+    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/4.webp",
     "w": 933,
     "h": 1400,
     "kind": "Interior",
@@ -221153,46 +221689,44 @@ window.BUILDINGS = [
     "file": "File:Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event (10).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_elevation.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%2812%29.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event 4",
+    "credit": "User:Piyanist",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_by_Piyanist_-_Wikimania_2026_Tour_Event_(12).jpg",
+    "file": "File:Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event (12).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Bibliothek_Sainte-Genevi%C3%A8ve_ground_floor_plan.jpg/1280px-Bibliothek_Sainte-Genevi%C3%A8ve_ground_floor_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bibliotheque-sainte-genevieve/thumbs/6.webp",
     "w": 1280,
-    "h": 1104,
+    "h": 502,
     "kind": "Plan",
     "caption": "Plan",
     "credit": "",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_elevation.jpg",
-    "file": "File:Bibliothèque Sainte-Geneviève elevation.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Bibliothek_Sainte-Genevi%C3%A8ve_ground_floor_plan.jpg",
+    "file": "File:Bibliothek Sainte-Geneviève ground floor plan.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_Facade.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_floor_plan.jpg/1280px-Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_floor_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bibliotheque-sainte-genevieve/thumbs/7.webp",
-    "w": 883,
-    "h": 1400,
-    "kind": "Elevation",
-    "caption": "Elevation",
+    "w": 1280,
+    "h": 522,
+    "kind": "Plan",
+    "caption": "Plan",
     "credit": "",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_Facade.jpg",
-    "file": "File:Bibliothèque Sainte-Geneviève Facade.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Corvette_Aurore-IMG_9598.JPG/1280px-Corvette_Aurore-IMG_9598.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibliotheque-sainte-genevieve/thumbs/8.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "Rama",
-    "license": "CC BY-SA 3.0 fr",
-    "source": "https://commons.wikimedia.org/wiki/File:Corvette_Aurore-IMG_9598.JPG",
-    "file": "File:Corvette Aurore-IMG 9598.JPG"
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_floor_plan.jpg",
+    "file": "File:Bibliothèque Sainte-Geneviève floor plan.jpg"
    }
   ],
   "has": [
-   "Plan",
-   "Elevation",
-   "Model"
+   "Plan"
   ],
   "gv": 3
  },
@@ -221327,6 +221861,18 @@ window.BUILDINGS = [
     "file": "File:00 0523 Viaduc de Garabit - Département Cantal.jpg"
    },
    {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg/1280px-00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viaduc-de-garabit/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal,_Frankreich.jpg",
+    "file": "File:00 0526 Viaduc de Garabit - Département Cantal, Frankreich.jpg"
+   },
+   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Garabit.jpg/1280px-Garabit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/viaduc-de-garabit/thumbs/3.webp",
     "w": 1280,
@@ -221363,32 +221909,57 @@ window.BUILDINGS = [
     "file": "File:Garabit-Viadukt (93).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg/1280px-00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal%2C_Frankreich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/viaduc-de-garabit/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "W. Bulach",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:00_0526_Viaduc_de_Garabit_-_D%C3%A9partement_Cantal,_Frankreich.jpg",
-    "file": "File:00 0526 Viaduc de Garabit - Département Cantal, Frankreich.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Viaduc_de_Garabit_Planche_13_-_M%C3%A9moire_de_G._Eiffel.jpg/1280px-Viaduc_de_Garabit_Planche_13_-_M%C3%A9moire_de_G._Eiffel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Viaduc_de_Garabit_Planche_12_-_M%C3%A9moire_de_G._Eiffel.jpg/1280px-Viaduc_de_Garabit_Planche_12_-_M%C3%A9moire_de_G._Eiffel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/viaduc-de-garabit/thumbs/6.webp",
     "w": 1280,
-    "h": 596,
-    "kind": "Plan",
-    "caption": "Plan",
+    "h": 669,
+    "kind": "Elevation",
+    "caption": "Elevation",
     "credit": "Gustave Eiffel",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Viaduc_de_Garabit_Planche_13_-_M%C3%A9moire_de_G._Eiffel.jpg",
-    "file": "File:Viaduc de Garabit Planche 13 - Mémoire de G. Eiffel.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Viaduc_de_Garabit_Planche_12_-_M%C3%A9moire_de_G._Eiffel.jpg",
+    "file": "File:Viaduc de Garabit Planche 12 - Mémoire de G. Eiffel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Viaduc_de_Garabit_Planche_3_-_M%C3%A9moire_de_G._Eiffel.jpg/1280px-Viaduc_de_Garabit_Planche_3_-_M%C3%A9moire_de_G._Eiffel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viaduc-de-garabit/thumbs/7.webp",
+    "w": 1280,
+    "h": 904,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Gustave Eiffel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Viaduc_de_Garabit_Planche_3_-_M%C3%A9moire_de_G._Eiffel.jpg",
+    "file": "File:Viaduc de Garabit Planche 3 - Mémoire de G. Eiffel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Viaduc_de_Garabit_Planche_4_-_M%C3%A9moire_de_G._Eiffel.jpg/1280px-Viaduc_de_Garabit_Planche_4_-_M%C3%A9moire_de_G._Eiffel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viaduc-de-garabit/thumbs/8.webp",
+    "w": 1280,
+    "h": 858,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Gustave Eiffel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Viaduc_de_Garabit_Planche_4_-_M%C3%A9moire_de_G._Eiffel.jpg",
+    "file": "File:Viaduc de Garabit Planche 4 - Mémoire de G. Eiffel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Viaduc_de_Garabit_Planche_5_-_M%C3%A9moire_de_G._Eiffel.jpg/1280px-Viaduc_de_Garabit_Planche_5_-_M%C3%A9moire_de_G._Eiffel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/viaduc-de-garabit/thumbs/9.webp",
+    "w": 1280,
+    "h": 593,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Gustave Eiffel",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Viaduc_de_Garabit_Planche_5_-_M%C3%A9moire_de_G._Eiffel.jpg",
+    "file": "File:Viaduc de Garabit Planche 5 - Mémoire de G. Eiffel.jpg"
    }
   ],
   "has": [
-   "Plan"
+   "Elevation",
+   "Drawing"
   ],
   "gv": 3
  },
@@ -223209,9 +223780,23 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Sala_Reale_della_Stazione_Centrale_a_Milano.jpg",
     "file": "File:Sala Reale della Stazione Centrale a Milano.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Pianta_FV_Milano_Centrale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/stazione-di-milano-centrale/thumbs/6.webp",
+    "w": 1024,
+    "h": 1246,
+    "kind": "Plan",
+    "caption": "Plan · Stazione ferroviaria di Milano Centrale, pianta del fabbricato viaggiatori al piano dei binari",
+    "credit": "ca. 1931",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Pianta_FV_Milano_Centrale.jpg",
+    "file": "File:Pianta FV Milano Centrale.jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Plan"
+  ],
   "gv": 3
  },
  {
@@ -230744,44 +231329,68 @@ window.BUILDINGS = [
     "file": "File:At Wollaton Hall 2023 016.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Plan_of_Wollaton_Hall.jpg/1280px-Plan_of_Wollaton_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wollaton-hall/thumbs/5.webp",
-    "w": 1280,
-    "h": 1115,
-    "kind": "Plan",
-    "caption": "Plan · Plan of Wollaton Hall by John Thorpe, Nottingham, England",
-    "credit": "John Thorpe",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Plan_of_Wollaton_Hall.jpg",
-    "file": "File:Plan of Wollaton Hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Wollaton_Hall%2C_half-elevation.jpg/1280px-Wollaton_Hall%2C_half-elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wollaton-hall/thumbs/6.webp",
-    "w": 1280,
-    "h": 1097,
-    "kind": "Elevation",
-    "caption": "Elevation · Wollaton Hall, half-elevation by John Thorpe, Nottingham, England",
-    "credit": "John Thorpe",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Wollaton_Hall,_half-elevation.jpg",
-    "file": "File:Wollaton Hall, half-elevation.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/At_Wollaton_Hall_2023_024.jpg/1280px-At_Wollaton_Hall_2023_024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/wollaton-hall/thumbs/7.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/At_Wollaton_Hall_2023_006.jpg/1280px-At_Wollaton_Hall_2023_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wollaton-hall/thumbs/4.webp",
     "w": 1280,
     "h": 853,
-    "kind": "Model",
-    "caption": "Model",
+    "kind": "Interior",
+    "caption": "Interior",
     "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
     "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:At_Wollaton_Hall_2023_024.jpg",
-    "file": "File:At Wollaton Hall 2023 024.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:At_Wollaton_Hall_2023_006.jpg",
+    "file": "File:At Wollaton Hall 2023 006.jpg"
    },
    {
-    "src": "images/wollaton-hall/4.webp",
-    "thumb": "images/wollaton-hall/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Wollaton_Hall%2C_image1.jpg/1280px-Wollaton_Hall%2C_image1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wollaton-hall/thumbs/5.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "It's No Game",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wollaton_Hall,_image1.jpg",
+    "file": "File:Wollaton Hall, image1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Wollaton_Hall_-_plan.png/1280px-Wollaton_Hall_-_plan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wollaton-hall/thumbs/6.webp",
+    "w": 1280,
+    "h": 1047,
+    "kind": "Plan",
+    "caption": "Plan · Wollaton Hall - plan",
+    "credit": "No credit for plan; architect was John Thorpe",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Wollaton_Hall_-_plan.png",
+    "file": "File:Wollaton Hall - plan.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Wollaton_Hall_ground_plan%2C_1901.jpg/1280px-Wollaton_Hall_ground_plan%2C_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wollaton-hall/thumbs/7.webp",
+    "w": 1280,
+    "h": 1283,
+    "kind": "Plan",
+    "caption": "Plan · Wollation Hall, ground plan, 1901, Nottingham, England",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Wollaton_Hall_ground_plan,_1901.jpg",
+    "file": "File:Wollaton Hall ground plan, 1901.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Wollaton_Hall_plan.jpg/1280px-Wollaton_Hall_plan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wollaton-hall/thumbs/8.webp",
+    "w": 1280,
+    "h": 1296,
+    "kind": "Plan",
+    "caption": "Plan · Wollaton Hall, plan by Smithson, Nottingham, England",
+    "credit": "Smithson",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Wollaton_Hall_plan.jpg",
+    "file": "File:Wollaton Hall plan.jpg"
+   },
+   {
+    "src": "images/wollaton-hall/9.webp",
+    "thumb": "images/wollaton-hall/thumbs/9.webp",
     "w": 843,
     "h": 717,
     "kind": "Drawing",
@@ -230794,8 +231403,6 @@ window.BUILDINGS = [
   ],
   "has": [
    "Plan",
-   "Elevation",
-   "Model",
    "Drawing"
   ],
   "gv": 3
@@ -245833,20 +246440,20 @@ window.BUILDINGS = [
     "file": "File:Netherlands-4401 - Royal Palace in Amsterdam (11995762826).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Illuminatie_van_het_stadhuis_voor_Willem_V_en_Wilhelmina_van_Pruisen%2C_1768%2C_RP-T-00-1582.jpg/1280px-Illuminatie_van_het_stadhuis_voor_Willem_V_en_Wilhelmina_van_Pruisen%2C_1768%2C_RP-T-00-1582.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Goetghebuer_-_1827_-_Choix_des_monuments_-_059_Plan_Palais_Royal_Amsterdam.jpg/1280px-Goetghebuer_-_1827_-_Choix_des_monuments_-_059_Plan_Palais_Royal_Amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/royal-palace-amsterdam/thumbs/6.webp",
     "w": 1280,
-    "h": 1003,
-    "kind": "Drawing",
-    "caption": "Drawing",
-    "credit": "Rijksmuseum",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Illuminatie_van_het_stadhuis_voor_Willem_V_en_Wilhelmina_van_Pruisen,_1768,_RP-T-00-1582.jpg",
-    "file": "File:Illuminatie van het stadhuis voor Willem V en Wilhelmina van Pruisen, 1768, RP-T-00-1582.jpg"
+    "h": 871,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Petrus Jacobus Goetghebuer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Goetghebuer_-_1827_-_Choix_des_monuments_-_059_Plan_Palais_Royal_Amsterdam.jpg",
+    "file": "File:Goetghebuer - 1827 - Choix des monuments - 059 Plan Palais Royal Amsterdam.jpg"
    }
   ],
   "has": [
-   "Drawing"
+   "Plan"
   ],
   "gv": 3
  },
@@ -246551,7 +247158,7 @@ window.BUILDINGS = [
     "w": 1280,
     "h": 1120,
     "kind": "Exterior",
-    "caption": "Exterior · This photo of unknown has been taken in the Unknown Unknown",
+    "caption": "Exterior · This photo of unknown has been taken in the Unknown",
     "credit": "Wikihydro",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Station_Antwerpen-Centraal_2021-1.jpg",
@@ -246580,9 +247187,47 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Antwerpen,_centraal_station_oeg7051_bij_het_Comics_Station_IMG_1152_2017-08-27_14.13.jpg",
     "file": "File:Antwerpen, centraal station oeg7051 bij het Comics Station IMG 1152 2017-08-27 14.13.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-4.jpg/1280px-Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/antwerpen-centraal-station/thumbs/4.webp",
+    "w": 1280,
+    "h": 1067,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Renée Kools",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Antwerpen_beeld_het_Vreedzame_Hand_2023-05-16-4.jpg",
+    "file": "File:Antwerpen beeld het Vreedzame Hand 2023-05-16-4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Antwerpen_Centraal_Station_2023-05-16.jpg/1280px-Antwerpen_Centraal_Station_2023-05-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/antwerpen-centraal-station/thumbs/5.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Renée Kools",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Antwerpen_Centraal_Station_2023-05-16.jpg",
+    "file": "File:Antwerpen Centraal Station 2023-05-16.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Detailed_construction_sketch%3B_cross-section_of_the_railway_hall_%28platform_roof%29_of_the_%22Antwerp_Central%22_%28Antwerpen-Centraal%29_railway_station.tif/lossy-page1-1280px-Detailed_construction_sketch%3B_cross-section_of_the_railway_hall_%28platform_roof%29_of_the_%22Antwerp_Central%22_%28Antwerpen-Centraal%29_railway_station.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/antwerpen-centraal-station/thumbs/6.webp",
+    "w": 1280,
+    "h": 987,
+    "kind": "Section",
+    "caption": "Section",
+    "credit": "Unknown to me, but the sketch must have been made by either Clément Van Bogaert (1865 – 1937) or by ",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Detailed_construction_sketch;_cross-section_of_the_railway_hall_(platform_roof)_of_the_%22Antwerp_Central%22_(Antwerpen-Centraal)_railway_station.tif",
+    "file": "File:Detailed construction sketch; cross-section of the railway hall (platform roof) of the \"Antwerp Central\" (Antwerpen-Centraal) railway station.tif"
    }
   ],
-  "has": [],
+  "has": [
+   "Section"
+  ],
   "gv": 3
  },
  {
@@ -253806,20 +254451,32 @@ window.BUILDINGS = [
     "file": "File:Hanoi opera stage.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Harley_and_Broyer_-_Hanoi_Opera_House_1.jpg/1280px-Harley_and_Broyer_-_Hanoi_Opera_House_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Francois_Lagisquet_-_Hanoi_Opera_House.jpg/1280px-Francois_Lagisquet_-_Hanoi_Opera_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hanoi-opera-house/thumbs/6.webp",
     "w": 1280,
-    "h": 797,
-    "kind": "Drawing",
-    "caption": "Drawing",
+    "h": 1116,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Francois Lagisquet",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Francois_Lagisquet_-_Hanoi_Opera_House.jpg",
+    "file": "File:Francois Lagisquet - Hanoi Opera House.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Harley_and_Broyer_-_Hanoi_Opera_House_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/hanoi-opera-house/thumbs/7.webp",
+    "w": 1001,
+    "h": 650,
+    "kind": "Elevation",
+    "caption": "Elevation",
     "credit": "Harley and Broyer",
     "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Harley_and_Broyer_-_Hanoi_Opera_House_1.jpg",
-    "file": "File:Harley and Broyer - Hanoi Opera House 1.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Harley_and_Broyer_-_Hanoi_Opera_House_2.jpg",
+    "file": "File:Harley and Broyer - Hanoi Opera House 2.jpg"
    }
   ],
   "has": [
-   "Drawing"
+   "Elevation"
   ],
   "gv": 3
  },
@@ -256173,9 +256830,48 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Reliance_Building,_32_North_State_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,30-2.jpg",
     "file": "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30-2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Reliance_Building%2C_32_North_State_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C30-_%28sheet_2_of_4%29.png/1280px-Reliance_Building%2C_32_North_State_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C30-_%28sheet_2_of_4%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reliance-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Related names:\n \n  Burnham and Root \n Atwood, Charles B",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reliance_Building,_32_North_State_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,30-_(sheet_2_of_4).png",
+    "file": "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 2 of 4).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Reliance_Building%2C_32_North_State_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C30-_%28sheet_3_of_4%29.png/1280px-Reliance_Building%2C_32_North_State_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C30-_%28sheet_3_of_4%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reliance-building/thumbs/6.webp",
+    "w": 1097,
+    "h": 1400,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Related names:\n \n  Burnham and Root \n Atwood, Charles B",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reliance_Building,_32_North_State_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,30-_(sheet_3_of_4).png",
+    "file": "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 3 of 4).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Reliance_Building%2C_32_North_State_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C30-_%28sheet_4_of_4%29.png/1280px-Reliance_Building%2C_32_North_State_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C30-_%28sheet_4_of_4%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/reliance-building/thumbs/7.webp",
+    "w": 1101,
+    "h": 1400,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Related names: \n  Burnham and Root \n Atwood, Charles B",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reliance_Building,_32_North_State_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,30-_(sheet_4_of_4).png",
+    "file": "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 4 of 4).png"
    }
   ],
-  "has": [],
+  "has": [
+   "Plan",
+   "Elevation"
+  ],
   "gv": 3
  },
  {
@@ -256369,20 +257065,32 @@ window.BUILDINGS = [
     "file": "File:Rookery Building Spiral Stairs.png"
    },
    {
-    "src": "images/rookery-building/7.webp",
-    "thumb": "images/rookery-building/thumbs/7.webp",
-    "w": 843,
-    "h": 1210,
-    "kind": "Section",
-    "caption": "Section · Rookery Building, Chicago, Illinois, Elevation and Section",
-    "credit": "Burnham and Root, Art Institute of Chicago",
-    "license": "CC0",
-    "source": "https://www.artic.edu/artworks/239956",
-    "file": "AIC:239956"
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Rookery_Building%2C_209_South_LaSalle_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C31-_%28sheet_2_of_8%29.png/1280px-Rookery_Building%2C_209_South_LaSalle_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C31-_%28sheet_2_of_8%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rookery-building/thumbs/6.webp",
+    "w": 1280,
+    "h": 1006,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Related names:\n \n  Fuller, George A; Waller, Edward C; Burnham and Root; Wright, Frank Lloyd; George",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rookery_Building,_209_South_LaSalle_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,31-_(sheet_2_of_8).png",
+    "file": "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 2 of 8).png"
    },
    {
-    "src": "images/rookery-building/6.webp",
-    "thumb": "images/rookery-building/thumbs/6.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Rookery_Building%2C_209_South_LaSalle_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C31-_%28sheet_3_of_8%29.png/1280px-Rookery_Building%2C_209_South_LaSalle_Street%2C_Chicago%2C_Cook_County%2C_IL_HABS_ILL%2C16-CHIG%2C31-_%28sheet_3_of_8%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rookery-building/thumbs/7.webp",
+    "w": 1280,
+    "h": 1005,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Related names:\n \n  Fuller, George A; Waller, Edward C; Burnham and Root; Wright, Frank Lloyd; George",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rookery_Building,_209_South_LaSalle_Street,_Chicago,_Cook_County,_IL_HABS_ILL,16-CHIG,31-_(sheet_3_of_8).png",
+    "file": "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 3 of 8).png"
+   },
+   {
+    "src": "images/rookery-building/8.webp",
+    "thumb": "images/rookery-building/thumbs/8.webp",
     "w": 843,
     "h": 732,
     "kind": "Elevation",
@@ -256393,22 +257101,22 @@ window.BUILDINGS = [
     "file": "AIC:144340"
    },
    {
-    "src": "images/rookery-building/8.webp",
-    "thumb": "images/rookery-building/thumbs/8.webp",
+    "src": "images/rookery-building/9.webp",
+    "thumb": "images/rookery-building/thumbs/9.webp",
     "w": 843,
-    "h": 677,
-    "kind": "Drawing",
-    "caption": "Drawing · Rookery Building, Chicago, Illinois, Details",
+    "h": 1210,
+    "kind": "Section",
+    "caption": "Section · Rookery Building, Chicago, Illinois, Elevation and Section",
     "credit": "Burnham and Root, Art Institute of Chicago",
     "license": "CC0",
-    "source": "https://www.artic.edu/artworks/239241",
-    "file": "AIC:239241"
+    "source": "https://www.artic.edu/artworks/239956",
+    "file": "AIC:239956"
    }
   ],
   "has": [
+   "Plan",
    "Section",
-   "Elevation",
-   "Drawing"
+   "Elevation"
   ],
   "gv": 3
  },
