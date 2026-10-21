@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-10-21-8",
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 5: 300 contemporary candidates (1990 or later), at most 4 per architect; Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
+  "target": 80,
+  "actual": 259,
+  "note": "82 added",
+  "status": "done"
+ },
+ {
   "id": "2026-10-20-5",
   "date": "2026-10-20",
   "workstream": "Data collection",

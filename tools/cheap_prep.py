@@ -113,6 +113,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('pool')
     ap.add_argument('--n', type=int, default=60)
+    ap.add_argument('--leads', action='store_true', help='then give rows without an English lead one from another language')
     a = ap.parse_args()
     pool = json.loads((ROOT / a.pool).read_text(encoding='utf-8'))[:a.n]
     fill(pool)
@@ -131,6 +132,9 @@ def main():
     (OUT / 'prep.json').write_text(json.dumps(rows, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
     sheets(rows)
     print(len(rows), 'prepared')
+    if a.leads:
+        import cheap_leads
+        cheap_leads.main()
 
 
 if __name__ == '__main__':
