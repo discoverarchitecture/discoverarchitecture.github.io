@@ -272,7 +272,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Het Minnaertgebouw is een campusgebouw van de Universiteit Utrecht in de Nederlandse stad Utrecht. Het gebouw is gelegen in de wijk de Uithof. Het gebouw is genoemd naar de Belgische astronoom Marcel Minnaert, een pionier van het spectroscopisch onderzoek van de Zon. De oplevering was in 1997 en het herbergt de faculteiten Bèta- en Geowetenschappen.",
   "photos": [
    {
     "file": "File:Minnaertgebouw.jpg",
@@ -365,7 +365,9 @@
     "main": false,
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/33/Utrecht%2C_Uithof_-_Minnaertgebouw%2C_2nd_floor-20051006-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
    }
-  ]
+  ],
+  "lead_lang": "nl",
+  "lead_title": "Minnaertgebouw"
  },
  {
   "qid": "Q8341669",
@@ -395,7 +397,7 @@
    "single-family detached home"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Casa Rozes es un edificio residencial del término municipal de Rosas, en la comarca del Alto Ampurdán, sobre la punta de Canyelles Grosses. Es de estilo racionalista y del Movimiento Moderno proyectado por José Antonio Coderch.​​ Edificado sobre el acantilado entre 1961 y 1962.​ La residencia es de una sola planta que aprovecha la irregularidad del terreno para organizarse en varios niveles escalonados en un constante y rítmico desplazamiento lateral. Todos los niveles en forma de cubo están comunicados por un largo pasillo.​ una terraza cubierta con voladizo domina el nivel más superior de la casa.​ Junto con la Casa Ugalde de Caldetas, puede considerarse una de las obras más relevantes de la producción arquitectónica de Coderch y de la arquitectura de este período en Cataluña.​​",
   "photos": [
    {
     "file": "File:Roses - Casa Rozes.jpg",
@@ -410,7 +412,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Roses_-_Casa_Rozes.jpg/1280px-Roses_-_Casa_Rozes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Casa Rozes"
  },
  {
   "qid": "Q38085901",
@@ -439,7 +443,7 @@
    "church building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die evangelische Pfarrkirche Klosterneuburg steht in der Franz-Rumpler-Straße in Klosterneuburg in Niederösterreich. Sie gehört zur Evangelischen Superintendentur A. B. Niederösterreich.",
   "photos": [
    {
     "file": "File:Klosterneuburg evangelische Kirche Innenansicht.jpg",
@@ -532,7 +536,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Evangelische_Pfarrkirche_Klosterneuburg_01.JPG/1280px-Evangelische_Pfarrkirche_Klosterneuburg_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Evangelische Pfarrkirche Klosterneuburg"
  },
  {
   "qid": "Q11400928",
@@ -559,7 +565,7 @@
    "convention center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "北緯33度53分24.4秒 東経130度53分17.5秒 北九州国際会議場（きたきゅうしゅうこくさいかいぎじょう、Kitakyushu International Conference Center）は、福岡県北九州市小倉北区浅野にあるコンベンションセンター。",
   "photos": [
    {
     "file": "File:Kitakyushu International Conference Hall Panoramic.jpg",
@@ -574,7 +580,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Kitakyushu_International_Conference_Hall_Panoramic.jpg/1280px-Kitakyushu_International_Conference_Hall_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "北九州国際会議場"
  },
  {
   "qid": "Q117348202",
@@ -1467,8 +1475,10 @@
    "creative residency"
   ],
   "sitelinks": null,
-  "lead": "",
-  "photos": []
+  "lead": "Le Théâtre de l'Archipel est un théâtre contemporain inauguré le 10 octobre 2011, situé à Perpignan (Pyrénées-Orientales). Il a obtenu en 2012 le label scène nationale. Les scènes nationales sont aujourd’hui 78, réparties sur l’ensemble du territoire français, en grande majorité dans des villes moyennes de 50 à 200 000 habitants, comme c'est le cas pour Perpignan.",
+  "photos": [],
+  "lead_lang": "fr",
+  "lead_title": "Théâtre de l'Archipel"
  },
  {
   "qid": "Q1531538",
@@ -1495,8 +1505,10 @@
    "skyscraper"
   ],
   "sitelinks": null,
-  "lead": "",
-  "photos": []
+  "lead": "Das Jameson House ist ein hohes Mehrzweckgebäude im Stadtteil Downtown von Vancouver, British Columbia, Kanada. Das Gebäude wurde 2011 fertiggestellt, verfügt über 38 Etagen und erreicht eine Höhe von 118 Metern. Das Gebäude befindet sich in der 826 West Hastings Street. Es wurde von dem Architektenbüro Foster + Partners sowie von Walter Francl Architecture Inc. in moderner Architektur entworfen. Das Gebäude dient als Wohn- sowie Bürogebäude. Des Weiteren befinden sich im Erdgeschoss mehrere Einkaufsgeschäfte. Das Gebäude zeichnet sich neben der Architektur durch eine vollautomatische Tiefgarage mit Einparksystem aus.",
+  "photos": [],
+  "lead_lang": "de",
+  "lead_title": "Jameson House"
  },
  {
   "qid": "Q1136181",
@@ -2816,7 +2828,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Palauet és una obra de Palafolls (Maresme) inclosa a l'Inventari del Patrimoni Arquitectònic de Catalunya.",
   "photos": [
    {
     "file": "File:El Palauet.jpg",
@@ -2857,7 +2869,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CataloniaMaresmePalafollsPalauet.JPG/1280px-CataloniaMaresmePalafollsPalauet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ca",
+  "lead_title": "El Palauet (Palafolls)"
  },
  {
   "qid": "Q5059071",
@@ -3747,7 +3761,7 @@
    "cultural center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "O Memorial Luiz Carlos Prestes é um memorial e centro cultural de Porto Alegre, instalado em um prédio situado na Avenida Ipiranga, no bairro Praia de Belas. O prédio foi projetado por Oscar Niemeyer para ser uma homenagem a vida de Luiz Carlos Prestes. As paredes, em curvas que lembram a Coluna Prestes, contam com acervo fotográfico que narra a história dos noventa anos do comunista brasileiro.",
   "photos": [
    {
     "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil).jpg",
@@ -3840,7 +3854,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Memorial_Luiz_Carlos_Prestes_%28Porto_Alegre%2C_Brasil%29_4.jpg/1280px-Memorial_Luiz_Carlos_Prestes_%28Porto_Alegre%2C_Brasil%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "pt",
+  "lead_title": "Memorial Luiz Carlos Prestes"
  },
  {
   "qid": "Q11393028",
@@ -3869,7 +3885,7 @@
    "museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "兵庫県立木の殿堂（ひょうごけんりつきのでんどう）は、「森と海と太陽」をテーマにした博物館である。兵庫県立兎和野高原野外教育センターの付属施設として、1994年に開館した。",
   "photos": [
    {
     "file": "File:201121 The Museum for wood culture Kami Hyogo pref Japan02s3.jpg",
@@ -3962,7 +3978,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Inside_of_The_Museum_for_wood_culture.JPG/1280px-Inside_of_The_Museum_for_wood_culture.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "兵庫県立木の殿堂"
  },
  {
   "qid": "Q16495045",
@@ -4155,7 +4173,7 @@
    "paranymph"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El paraninfo de la Universidad del País Vasco (en euskera Bizkaia Aretoa UPV/EHU)​ es un edificio diseñado por el arquitecto portugués Álvaro Siza, ubicado en la zona de Abandoibarra de Bilbao en el País Vasco (España). Fue inaugurado el 21 de septiembre de 2010.​ Alberga el paraninfo de la Universidad del País Vasco, complementando a la Biblioteca de la Universidad de Deusto, diseñada por Rafael Moneo. Con forma de L, su fachada principal está recubierta de azulejos grises artesanales, resaltando el resto en mármol blanco. Rodean al edificio, además de la biblioteca, la Torre Iberdrola, el Museo Guggenheim Bilbao y la plaza Euskadi.",
   "photos": [
    {
     "file": "File:Bilbao - Torre Iberdrola y Paraninfo de la UPV-EHU 2.jpg",
@@ -4248,7 +4266,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Bilbao_-_Paraninfo_de_la_UPV-EHU_1.jpg/1280px-Bilbao_-_Paraninfo_de_la_UPV-EHU_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Paraninfo de la Universidad del País Vasco"
  },
  {
   "qid": "Q41509140",
@@ -4430,7 +4450,7 @@
    "literary museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "姫路文学館（ひめじぶんがくかん）は、兵庫県姫路市にある姫路市立の文学館。",
   "photos": [
    {
     "file": "File:Himeji City Museum of Literature04s3872.jpg",
@@ -4458,7 +4478,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Himeji_City_Museum_of_Literature01-r.jpg/1280px-Himeji_City_Museum_of_Literature01-r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "姫路文学館"
  },
  {
   "qid": "Q1618988",
@@ -4908,7 +4930,7 @@
    "kindergarten"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Przedszkole Bundestagu (niem. Betriebskindertagesstätte) – budynek przedszkola dla dzieci parlamentarzystów i pracowników Bundestagu zlokalizowany na trójkątnej parceli w centrum Berlina (Mitte), pomiędzy Otto-von-Bismarck-Allee, Konrad-Adenauer-Straße i nabrzeżem Sprewy, bezpośrednio przy Paul-Löbe-Haus. Obiekt zaprojektowany przez Gustava Peichla z Wiednia oddano do użytku w 1999 (budowa rozpoczęła się rok wcześniej). Artysta zwyciężył w konkursie architektonicznym. Forma budynku ma przypominać wesoły, ale równocześnie elegancki statek, który \"zacumował\" przy grupie budowli stanowiących tzw. \"Wstęgę Federacji\" (Paul-Löbe-Haus, Marie-Elisabeth-Lüders-Haus i Urząd Kanclerza Federalnego). Przedszkole charakteryzuje się prostymi formami geometrycznymi i żywą kolorystyką wywiedzionymi bezpośrednio z dziecięcej fantazji. Na dachu umieszczono kule-\"groty\" przeznaczone na popołudniową drzemkę.",
   "photos": [
    {
     "file": "File:Bundestagskindergarten.JPG",
@@ -4988,7 +5010,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Berlin%2C_Bundestagskindergarten_2014-07.jpg/1280px-Berlin%2C_Bundestagskindergarten_2014-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "pl",
+  "lead_title": "Przedszkole Bundestagu"
  },
  {
   "qid": "Q15124495",
@@ -5018,7 +5042,7 @@
    "school"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die Paul-Grüninger-Schule ist eine 1996 erbaute Schule im 21. Wiener Gemeindebezirk Floridsdorf. Sie liegt südlich der Hanreitergasse und westlich der Ocwirkgasse. Sie beherbergt eine Volks- und eine Neue Mittelschule (College für Berufsorientierung).",
   "photos": [
    {
     "file": "File:Wien 21 Paul-Grüninger-Schule 01.jpg",
@@ -5098,7 +5122,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Wien_21_Paul-Gr%C3%BCninger-Schule_03.jpg/1280px-Wien_21_Paul-Gr%C3%BCninger-Schule_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Paul-Grüninger-Schule"
  },
  {
   "qid": "Q112226928",
@@ -5127,7 +5153,7 @@
    "history museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "静岡市歴史博物館（しずおかしれきしはくぶつかん）は、静岡県静岡市葵区追手町にある公立の歴史博物館である。",
   "photos": [
    {
     "file": "File:DSC9803Shizuoka City Museum 20220724b.jpg",
@@ -5220,7 +5246,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Shizuoka_City_Museum_20220724p.jpg/1280px-Shizuoka_City_Museum_20220724p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "静岡市歴史博物館"
  },
  {
   "qid": "Q116972269",
@@ -5249,7 +5277,7 @@
    "photography museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "ミュゼふくおかカメラ館（ミュゼふくおかカメラかん、英称：Fukuoka Camera Museum）は、富山県高岡市福岡町福岡新にあるカメラと写真をテーマとした博物館。日本博物館協会、富山県博物館協会会員。",
   "photos": [
    {
     "file": "File:Fukuoka Camera Museum.jpg",
@@ -5264,7 +5292,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Fukuoka_Camera_Museum.jpg/1280px-Fukuoka_Camera_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "ミュゼふくおかカメラ館"
  },
  {
   "qid": "Q5035508",
@@ -5503,7 +5533,7 @@
    "cultural heritage"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "O Centro Cultural de Viana do Castelo, ou Coliseu de Viana do Castelo, é um centro cultural localizado na atual freguesia de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela, no município e no Distrito de Viana do Castelo. Projeto do arquiteto Eduardo Souto Moura, o Centro Cultural de Viana do Castelo foi inaugurado em 14 de julho de 2013, depois de atrasos no término da obra. O Centro Cultural de Viana está disponível para receber todo o tipo de eventos culturais e até torneios internacionais. É um projeto localizado na marginal da Foz do Lima, na praça Marques Júnior. Este arrojado projeto, com um fim multiusos destina-se a ser a sede de eventos culturais, musicais, desportivos e de lazer em Viana do Castelo. O valor da obra ficou por volta dos 13 milhões de euros, o que inclui arranjos exteriores de 1,1 milhões de euros, acessos pedonais e rodoviários, uma zona relvada e um",
   "photos": [
    {
     "file": "File:Centro Cultural de Viana do Castelo - Portugal (53466324161).jpg",
@@ -5596,7 +5626,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Centro_Cultural_de_Viana_do_Castelo_-_Portugal_%2853425263052%29.jpg/1280px-Centro_Cultural_de_Viana_do_Castelo_-_Portugal_%2853425263052%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "pt",
+  "lead_title": "Centro Cultural de Viana do Castelo"
  },
  {
   "qid": "Q12769693",
@@ -5626,7 +5658,7 @@
    "Q95206590"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Krematorium a urnový háj v Bratislavě je krematorium na Hodonínské ulici 44 v Bratislavě a první krematorium na Slovensku. Postaveno bylo v letech 1967–68 podle projektu architekta Ferdinanda Milučkého z roku 1962–63. Nachází se na západě Bratislavy, na svazích Malých Karpat v řídkém lese. Staré duby a borovice tvoří kontrast s jeho vodorovnými liniemi, umístěnými nad loukou na kopci. Krematorium je navrženo v duchu severské moderny, která se podobným způsobem spojovala s přírodou. Celý komplex je navržen s velkým citem pro krajinu a také umístění architektury do ní. Je to kultovní stavba a její hodnoty jsou hlavně duchovní. Patří k nejlepším dílům poválečné architektury na Slovensku.[zdroj?]",
   "photos": [
    {
     "file": "File:WP 20151027 13 12 32 Pro.jpg",
@@ -5680,7 +5712,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/WP_20151027_13_11_43_Pro.jpg/1280px-WP_20151027_13_11_43_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "cs",
+  "lead_title": "Krematorium a urnový háj v Bratislavě"
  },
  {
   "qid": "Q16839071",
@@ -5831,7 +5865,7 @@
    "house"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La Casa Serra és una obra d'Olot (Garrotxa) protegida com a bé cultural d'interès local.",
   "photos": [
    {
     "file": "File:Casa Serra o Casa dels Nassos, Olot. P1000249.jpg",
@@ -5846,7 +5880,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Casa_Serra_o_Casa_dels_Nassos%2C_Olot._P1000249.jpg/1280px-Casa_Serra_o_Casa_dels_Nassos%2C_Olot._P1000249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ca",
+  "lead_title": "Casa Serra (Olot)"
  },
  {
   "qid": "Q105695664",
@@ -6532,7 +6568,7 @@
    "library"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Le Centre Céramique est un bâtiment culturel du quartier Céramique de Maastricht, situé à l'angle de la place 1992 et de l'avenue Céramique. Conçu par Jo Coenen, il comprend la bibliothèque de la ville de Maastricht et divers espaces d'exposition. Il offre, en outre, un podium pour des concerts, des espaces de lecture, des ateliers et un café.",
   "photos": [
    {
     "file": "File:20130505 Maastricht Céramique 01.JPG",
@@ -6625,7 +6661,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/20130504_Maastricht_C%C3%A9ramique_18_Centre_C%C3%A9ramique.JPG/1280px-20130504_Maastricht_C%C3%A9ramique_18_Centre_C%C3%A9ramique.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Centre Céramique (Maastricht)"
  },
  {
   "qid": "Q10333960",
@@ -6718,7 +6756,7 @@
    "sculpture garden"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Das Ken Iwata Mother and Child Museum (japanisch 岩田健母と子のミュージアム) befindet sich im Südwesten der Insel Ōmishima in der japanischen Seto-Inlandsee. Die Insel gehört zum Verwaltungsgebiet der Stadt Imabari der Präfektur Ehime. Das Museum zeigt Werke von Ken Iwata (岩田 健) mit dem Hauptthema „Mutter und Kind“. Die Grundfläche des Museums beträgt 197,29 m². Das Museumsgebäude besteht aus Stahlbeton und wurde von Toyo Itos Architekturbüro 2009 entworfen. Auf der Insel befindet sich auch das Toyo-Ito-Architekturmuseum. Der Bau des Ken Iwata Mother and Child Museums wurde von der Taisei Corporation (大成建設) zwischen Oktober 2010 und November 2011 durchgeführt. Das Museum eröffnete im Sommer 2011. Der Ausstellungsraum ist halb im Freien mit einer Reihe von Bänken, sodass Besucher die Skulpturen in aller Ruhe betrachten können.",
   "photos": [
    {
     "file": "File:Mother and child museum - panoramio (1).jpg",
@@ -6811,7 +6849,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Omishima_%2880675%29.jpg/1280px-Omishima_%2880675%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Ken Iwata Mother and Child Museum"
  },
  {
   "qid": "Q16641572",
@@ -6841,7 +6881,7 @@
    "administrative building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Torre Puig es un edificio situado en la plaza de Europa 46-48 de Hospitalet de Llobregat, Barcelona.",
   "photos": [
    {
     "file": "File:Hospitalet de Llobregat - Plaza de Europa, Torre Puig 2.JPG",
@@ -6934,7 +6974,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Hospitalet_de_Llobregat_-_Plaza_de_Europa%2C_Torre_Puig_5.JPG/1280px-Hospitalet_de_Llobregat_-_Plaza_de_Europa%2C_Torre_Puig_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Torre Puig"
  },
  {
   "qid": "Q3230929",
@@ -6991,7 +7033,7 @@
    "library"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La bibliothèque Oscar Niemeyer est une bibliothèque située au 2, place Niemeyer au Havre. Elle occupe une partie de l’ensemble architectural « Espace Oscar Niemeyer » construit par l’architecte du même nom entre 1978 et 1982 et rénové à partir de 2011 par l’agence d'architecture Dominique Deshoulières et Hubert Jeanneau auxquels est associée Françoise Sogno pour la bibliothèque. Inaugurée le 2 novembre 2015, elle a reçu le prix Livres Hebdo de l’Espace intérieur en 2016. Conçue comme une bibliothèque tiers lieu, la bibliothèque Oscar Niemeyer constitue l’une des figures de proue du réseau de lecture public havrais, fonctionnant en binôme avec la bibliothèque Armand Salacrou. Elle dispose d’une surface de 5 270 m2, dont 4 000 m2 accessibles au public, comprenant le bâtiment du Petit Volcan et une partie de l’ancienne galerie qui le relie au grand Volcan. En 2018, elle met à la disposition",
   "photos": [
    {
     "file": "File:Bibliothèque volcan 2.JPG",
@@ -7084,7 +7126,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Biblioth%C3%A8que_Le_Havre_%28180698739%29.jpeg/1280px-Biblioth%C3%A8que_Le_Havre_%28180698739%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Bibliothèque Oscar-Niemeyer"
  },
  {
   "qid": "Q48807681",
@@ -7113,7 +7157,7 @@
    "architectural ensemble"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Le Residenze Hadid (anche CityLife Milano Residential Complex) è un complesso residenziale polifunzionale composto da 7 edifici differenti realizzato a Milano dall'architetta irachena Zaha Hadid nell'ambito del progetto CityLife. I lavori, iniziati nel 2004, si sono conclusi dieci anni più tardi.",
   "photos": [
    {
     "file": "File:Via Luciano Berio, Milan, May 2018 (02).jpg",
@@ -7206,7 +7250,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Residenze_Hadid%2C_CityLife_district%2C_Milan%2C_Italy_03_01_00_329000.jpeg/1280px-Residenze_Hadid%2C_CityLife_district%2C_Milan%2C_Italy_03_01_00_329000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "it",
+  "lead_title": "Residenze Hadid"
  },
  {
   "qid": "Q56328172",
@@ -7235,7 +7281,7 @@
    "Apple Store"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Apple Piazza Liberty (o Apple Store Piazza Liberty o Apple Store Milano) è un edificio sotterraneo situato a Milano.",
   "photos": [
    {
     "file": "File:Piazza del liberty Milano da dietro 2018.jpg",
@@ -7315,7 +7361,9 @@
     "main": false,
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/72/Piazza_del_liberty_Milano_settembre_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
    }
-  ]
+  ],
+  "lead_lang": "it",
+  "lead_title": "Apple Piazza Liberty"
  },
  {
   "qid": "Q5746034",
@@ -7344,7 +7392,7 @@
    "campus"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Campus Palmas Altas (también se conoce por sus sigla CPA) es un conjunto de siete edificios donde se ubicaban las oficinas centrales de Abengoa y albergó hasta agosto de 2019 uno de los campus de la Universidad Loyola Andalucía. El 27 de diciembre de 2021 se formalizó su venta a la Junta de Andalucía para albergar la futura Ciudad de la Justicia de Sevilla. El conjunto fue diseñado por el arquitecto británico Richard Rogers junto a sus socios españoles Luis Vidal Arquitectos. Tuvo un coste de 132 millones de euros y alberga una superficie total de 96 000 m², de los cuales 47 000 son oficinas y el resto espacios verdes y equipamientos. Fue inaugurado por los reyes Juan Carlos I y Sofía el 23 de septiembre de 2009.​",
   "photos": [
    {
     "file": "File:Palmasaltas-283.jpg",
@@ -7437,7 +7485,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Palmas_Altas_09.jpg/1280px-Palmas_Altas_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Campus Palmas Altas (Sevilla)"
  },
  {
   "qid": "Q11467091",
@@ -7467,7 +7517,7 @@
    "prefectural museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "山口県立萩美術館・浦上記念館（やまぐちけんりつはぎびじゅつかん・うらがみきねんかん）は山口県萩市にある美術館。なお、同施設の建設計画は、県立の文化施設を県内各地にバランスよく配置する意図をもって、下関市の山口県国際総合センター（海峡メッセ下関）と岩国市のシンフォニア岩国の建設と一体をなすものとして、推し進められた。",
   "photos": [
    {
     "file": "File:Hagi Uragami Mus.JPG",
@@ -7508,7 +7558,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%E9%9B%84%E7%95%A5%E5%A4%A9%E7%9A%87.jpg/1280px-%E9%9B%84%E7%95%A5%E5%A4%A9%E7%9A%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "山口県立萩美術館・浦上記念館"
  },
  {
   "qid": "Q1620996",
@@ -7537,7 +7589,7 @@
    "museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Das Historische Museum Saar ist das Museum zur Landesgeschichte des Saarlandes und befindet sich am Saarbrücker Schlossplatz. Das Ziel des Museums ist es, die Geschichte des Landes an der Saar über einen Zeitraum von 100 Jahren bis ca. 1959 unter kultur,- sozial,- wirtschafts,- industrie- und technikgeschichtlichen Aspekten aufzuarbeiten und zu präsentieren. Zusätzlich kann man anhand von Ausgrabungen der Saarbrücker Burg mit den Kasematten die Entwicklung von der Burg zum heutigen Schloss Saarbrücken nachvollziehen. Die Dauerausstellung wird durch Wechselausstellungen ergänzt. Träger des Museums sind der Regionalverband Saarbrücken (zu ca. 90 %) und das Saarland (zu ca. 10 %). Leitender Direktor des Museums ist seit Januar 2025 der promovierte Historiker Peter Henkel.",
   "photos": [
    {
     "file": "File:Historisches Museum Saar Saarbruecken 01.jpg",
@@ -7630,7 +7682,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Sonderausstellungshalle.jpg/1280px-Sonderausstellungshalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Historisches Museum Saar"
  },
  {
   "qid": "Q104427018",
@@ -7826,7 +7880,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La Ciudad BBVA es un complejo de siete edificios que alberga la actual sede operativa de la entidad bancaria española Banco Bilbao Vizcaya Argentaria. El edificio principal conocido como La Vela se alza en el centro del complejo y tiene 93 metros de altura y 19 pisos. Se encuentra en el barrio de Las Tablas, en Madrid, y es accesible desde la A-1 (Autovía del Norte) y la ronda de circunvalación M-40.",
   "photos": [
    {
     "file": "File:BBVA head offices (Madrid) 08.jpg",
@@ -7919,7 +7973,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/La_vela_bbva.jpg/1280px-La_vela_bbva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Ciudad BBVA"
  },
  {
   "qid": "Q11456516",
@@ -7949,7 +8005,7 @@
    "prefectural museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "富山県立山博物館（とやまけんたてやまはくぶつかん）は、富山県中新川郡立山町芦峅寺にある富山県立の広域分散型博物館である。施設名は、「とやまけんりつ やま（山）はくぶつかん」と誤認されるのを避けるため、富山県［立山博物館］と角括弧を用いて表記される。",
   "photos": [
    {
     "file": "File:Tateyama-museum toyama-pref.jpg",
@@ -7964,7 +8020,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tateyama-museum_toyama-pref.jpg/1280px-Tateyama-museum_toyama-pref.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "富山県立山博物館"
  },
  {
   "qid": "Q17226278",
@@ -7994,7 +8052,7 @@
    "biographical museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "中谷宇吉郎雪の科学館（なかやうきちろう ゆきのかがくかん、英語: Nakaya Ukichiro Museum of Snow and Ice）は、石川県加賀市に位置する中谷宇吉郎の雪にまつわる博物館である。 石川県江沼郡片山津町（現・加賀市）出身で、世界で初めて人工的に雪の結晶を作りだすことに成功し、低温科学の分野で世界的な研究を成し遂げた、物理学者・中谷宇吉郎を顕彰する目的で、1994年11月1日に開館した。近くには柴山潟や片山津温泉がある。館の設計を世界的建築家の磯崎新が手がけ、1994年11月に竣工した。 館内は、雪と氷にまつわる様々な展示がある。資料やスライドショーのみならず、「雪と氷の実験室」で雪や氷を作ることができる体験型の施設がある。中谷宇吉郎に関する展示も多く、その名言「雪は天から送られた手紙である」が記された掛軸がある。また、子供雪博士教室や講演会、コンサート、写真展などの雪にまつわるイベントも多く開催されている。",
   "photos": [
    {
     "file": "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan01s4.jpg",
@@ -8087,7 +8145,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/260718_Nakaya_Ukichiro_Museum_of_Snow_and_Ice_Kaga_Ishikawa_pref_Japan06s3.jpg/1280px-260718_Nakaya_Ukichiro_Museum_of_Snow_and_Ice_Kaga_Ishikawa_pref_Japan06s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "中谷宇吉郎雪の科学館"
  },
  {
   "qid": "Q17353174",
@@ -8118,7 +8178,7 @@
    "art collection"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Créée en octobre 2013 par le Groupe Galeries Lafayette, Lafayette Anticipations – Fondation d’entreprise Galeries Lafayette a ouvert ses portes en mars 2018 au 9 rue du Plâtre, dans le Marais, à Paris dans un bâtiment réhabilité par Rem Koolhaas et son agence d'architecture OMA. Cette fondation d'intérêt général a pour ambition de soutenir les artistes et créateurs. La Fondation est présidée par Guillaume Houzé et son directeur est Clément Delépine, qui succède à Rebecca Lamarche-Vadel et François Quintin. En octobre 2021, Géraldine Breuil rejoint la Fondation comme directrice adjointe. La Fondation est en activité depuis 2013 à travers le programme de préfiguration Lafayette Anticipations.",
   "photos": [
    {
     "file": "File:Façade du 9 rue du Plâtre, bâtiment rénové par Rem Koolhaas et OMA.jpg",
@@ -8133,7 +8193,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Fa%C3%A7ade_du_9_rue_du_Pl%C3%A2tre%2C_b%C3%A2timent_r%C3%A9nov%C3%A9_par_Rem_Koolhaas_et_OMA.jpg/1280px-Fa%C3%A7ade_du_9_rue_du_Pl%C3%A2tre%2C_b%C3%A2timent_r%C3%A9nov%C3%A9_par_Rem_Koolhaas_et_OMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Lafayette Anticipations - Fondation d'entreprise Galeries Lafayette"
  },
  {
   "qid": "Q50532135",
@@ -8163,7 +8225,7 @@
    "facility"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La Maison de l'ordre des avocats (MOdA) est un bâtiment, abritant l'Ordre des avocats et la caisse des règlements pécuniaires des avocats de Paris, prenant place dans la cité judiciaire de Paris. Conçue par RPWB, l’agence de Renzo Piano, elle est située sur le parvis Robert-Badinter.",
   "photos": [
    {
     "file": "File:Maison des Avocats (DSC09467).jpg",
@@ -8256,7 +8318,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Maison_des_Avocats_%2844616057721%29.jpg/1280px-Maison_des_Avocats_%2844616057721%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Maison de l'ordre des avocats"
  },
  {
   "qid": "Q26986943",
@@ -8411,7 +8475,7 @@
    "church building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La chiesa del Santo Volto di Gesù è una chiesa di Roma, nel quartiere Portuense, in via della Magliana. Essa rappresenta uno dei più riusciti esempi di architettura religiosa moderna a Roma, paragonabile ad altre chiese contemporanee, quali la chiesa di Dio Padre Misericordioso di Richard Meier e la chiesa di San Francesco di Sales di Lucrezio Carbonara. È stata costruita, su progetto degli architetti Piero Sartogo e Nathalie Grenon, tra il 2003 ed il 2006. L'inaugurazione è avvenuta sabato 18 marzo 2006. Al completamento dell'edificio hanno contribuito altri artisti contemporanei, tra cui Mimmo Paladino, che ha realizzato la Via Crucis composta di formelle di ceramica smaltata; Eliseo Mattiacci, autore della grande croce esterna; Carla Accardi, che ha realizzato una vetrata di contenuti astratti, che divide la cappella del Santissimo Sacramento dall'aula liturgica; Chiara Dynys, autrice",
   "photos": [
    {
     "file": "File:Q11 Portuense - S. Volto di Gesù 17.JPG",
@@ -8478,7 +8542,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Roma_-_Chiesa_del_Santo_Volto_di_Ges%C3%B9_-_2023-09-01_00-01-16_001.JPG/1280px-Roma_-_Chiesa_del_Santo_Volto_di_Ges%C3%B9_-_2023-09-01_00-01-16_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "it",
+  "lead_title": "Chiesa del Santo Volto di Gesù"
  },
  {
   "qid": "Q7553765",
@@ -8605,7 +8671,7 @@
    "museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "鎌倉歴史文化交流館（かまくられきしぶんかこうりゅうかん）は、2017年（平成29年）5月15日に開館した鎌倉市立の歴史博物館に類する展示施設である。 なお、計画段階では仮称として「鎌倉歴史文化交流センター」と表記されていた。",
   "photos": [
    {
     "file": "File:Kamakura Museum of History & Culture 1.jpg",
@@ -8672,7 +8738,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kamakura_Museum_of_History_%26_Culture_5.jpg/1280px-Kamakura_Museum_of_History_%26_Culture_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "鎌倉歴史文化交流館"
  },
  {
   "qid": "Q2365720",
@@ -8837,7 +8905,7 @@
    "convention center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "富山国際会議場（とやまこくさいかいぎじょう、英: TOYAMA INTERNATIONAL CONFERENCE CENTER）は、富山県富山市大手町にあるコンベンションセンターである。愛称は「大手町フォーラム」。",
   "photos": [
    {
     "file": "File:080506 Toyama International Conference Center Toyama Japan01s3.jpg",
@@ -8891,7 +8959,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Toyama_International_Conference_Center_20180503.jpg/1280px-Toyama_International_Conference_Center_20180503.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "富山国際会議場"
  },
  {
   "qid": "Q28870831",
@@ -8921,7 +8991,7 @@
    "concert hall"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die Barenboim-Said Akademie (kurz: BSA) ist eine Musikhochschule in Berlin-Mitte. Sie ist nach dem argentinisch-israelischen Pianisten und Dirigenten Daniel Barenboim und dem amerikanisch-palästinensischen Literaturkritiker Edward Said benannt. Ihr Gebäude ist das frühere Kulissendepot der Staatsoper Unter den Linden; es befindet sich in deren rückwärtig angrenzendem Bereich an der Französischen Straße.",
   "photos": [
    {
     "file": "File:Pierre-Boulez-Saal-Franzoesische-Str-Berlin-Mitte-12-2017a.jpg",
@@ -9014,7 +9084,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Mitte_Barenboim-Said-Akademie_Pierre_Boulez-Saal-003.jpg/1280px-Mitte_Barenboim-Said-Akademie_Pierre_Boulez-Saal-003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Pierre-Boulez-Saal"
  },
  {
   "qid": "Q41670794",
@@ -9043,7 +9115,7 @@
    "campus"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Il Campus Luigi Einaudi (CLE) è un campus universitario sito in Lungo Dora Siena, a Torino, intitolato al secondo presidente della Repubblica italiana.",
   "photos": [
    {
     "file": "File:Campus Universitario.JPG",
@@ -9136,7 +9208,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Torino_Mole_Antonelliana_Vista_sul_il_Campo_Luigi_Einaudi.jpg/1280px-Torino_Mole_Antonelliana_Vista_sul_il_Campo_Luigi_Einaudi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "it",
+  "lead_title": "Campus Luigi Einaudi"
  },
  {
   "qid": "Q4547248",
@@ -9207,7 +9281,7 @@
    "arts center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "長野市芸術館（ながのしげいじゅつかん）は、長野県長野市にある総合芸術文化施設。2016年5月8日に開館した。",
   "photos": [
    {
     "file": "File:Nagano-city main Hall＆Nagano-city Arts center 長野市役所と長野市芸術館.jpg",
@@ -9248,7 +9322,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Nagano-city_main_Hall%EF%BC%86Nagano-city_Arts_center_2_%E9%95%B7%E9%87%8E%E5%B8%82%E5%BD%B9%E6%89%80%E3%81%A8%E9%95%B7%E9%87%8E%E5%B8%82%E8%8A%B8%E8%A1%93%E9%A4%A8.jpg/1280px-Nagano-city_main_Hall%EF%BC%86Nagano-city_Arts_center_2_%E9%95%B7%E9%87%8E%E5%B8%82%E5%BD%B9%E6%89%80%E3%81%A8%E9%95%B7%E9%87%8E%E5%B8%82%E8%8A%B8%E8%A1%93%E9%A4%A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "長野市芸術館"
  },
  {
   "qid": "Q18380158",
@@ -9570,7 +9646,7 @@
    "forestry museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Le Musée Lusto - Musée de la forêt de Finlande (finnois : Lusto – Suomen Metsämuseo) est un musée situé à Punkaharju en Finlande.",
   "photos": [
    {
     "file": "File:Lusto 1 AB.jpg",
@@ -9611,7 +9687,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Finland_IMG_4664_%282718841693%29.jpg/1280px-Finland_IMG_4664_%282718841693%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Musée Lusto"
  },
  {
   "qid": "Q12013196",
@@ -9640,7 +9718,7 @@
    "museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Het Museum Belvedère is een museum voor moderne en hedendaagse kunst in Heerenveen, provincie Friesland.",
   "photos": [
    {
     "file": "File:Museum Belvédère, Heerenveen-4807.jpg",
@@ -9733,7 +9811,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Museum_Belv%C3%A9d%C3%A8re%2C_Heerenveen-4785.jpg/1280px-Museum_Belv%C3%A9d%C3%A8re%2C_Heerenveen-4785.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "nl",
+  "lead_title": "Museum Belvedère"
  },
  {
   "qid": "Q371585",
@@ -10008,7 +10088,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "茨木市文化・子育て複合施設 おにクル（いばらきしぶんかこそだてふくごうしせつ おにクル）は、大阪府茨木市駅前3丁目にある複合施設である。 ホール・図書館・こども支援センター・屋内こども広場・市民活動センター・プラネタリウムなどで構成されている。",
   "photos": [
    {
     "file": "File:おにクル開業日の写真.jpg",
@@ -10023,7 +10103,9 @@
     "main": true,
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/26/%E3%81%8A%E3%81%AB%E3%82%AF%E3%83%AB%E9%96%8B%E6%A5%AD%E6%97%A5%E3%81%AE%E5%86%99%E7%9C%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "おにクル"
  },
  {
   "qid": "Q1425497",
@@ -10050,7 +10132,7 @@
    "built structure"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Das Skylight ist ein nach dem Prinzip der „Stadt in der Stadt“ konzipierter Büro-, Geschäfts- und Wohnkomplex zwischen Bleichstraße, Brönnerstraße, Stephanstraße und Katzenpforte in der Innenstadt von Frankfurt am Main. Das Hauptgebäude wird im Nordwesten der Anlage durch ein 66 Meter hohes Wohnhochhaus ergänzt. Der Komplex wurde am 6. September 2001 eröffnet. Die Gebäudegruppe entstand 1999–2001 nach einem Entwurf von Richard Rogers Partnership und ABB Architekten für die DeTe Immobilien Planung und Baumanagement, die Baukosten betrugen rund 51 Millionen Euro. Gegenwärtiger Eigentümer ist die Deka Immobilien GmbH.",
   "photos": [
    {
     "file": "File:Frankfurt, Skylight, SEB.JPG",
@@ -10065,7 +10147,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurt%2C_Skylight%2C_SEB.JPG/1280px-Frankfurt%2C_Skylight%2C_SEB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Skylight (Frankfurt am Main)"
  },
  {
   "qid": "Q16950323",
@@ -10219,7 +10303,7 @@
    "built structure"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "De Citadel is een gebouw met meerdere functies in het centrum van Almere gereedgekomen in 2006. In datzelfde jaar won de Citadel de Architectuurprijs Almere (deskundigenjury). Het gebouw is ontworpen door de Franse architect Christian de Portzamparc en vormt de kern van het masterplan van OMA van Rem Koolhaas voor het centrum van Almere. De geometrische monotonie van het vlakke en rechthoekige stratenplan wordt doorbroken door hellende straten en de hoek waaronder het vierkante blok, met zijden van 130 meter, staat ten opzichte van de overige straten in het centrum. Onder de verhoogde straten zijn er parkeergarages, een weg en een busbaan. Er langs zijn er winkels en horeca. Op het dak van het winkelcentrum zijn 46 huizen gebouwd en een torentje met zes appartementen. De Citadel vormt een samenkomen van de principes van de Portzamparc en Koolhaas: \"îlot ouvert\" en \"density\". De dichtheid",
   "photos": [
    {
     "file": "File:Citadel almere flickr.jpg",
@@ -10234,7 +10318,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Citadel_almere_flickr.jpg/1280px-Citadel_almere_flickr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "nl",
+  "lead_title": "Citadel (Almere)"
  },
  {
   "qid": "Q3114848",
@@ -10264,8 +10350,10 @@
    "defunct organization"
   ],
   "sitelinks": null,
-  "lead": "",
-  "photos": []
+  "lead": "Le Gaumont Grand Écran Italie, complexe cinématographique polyvalent situé Place d'Italie dans le 13e arrondissement de Paris, est l'aboutissement d'un projet d'urbanisme à vocation culturelle conçu en 1988 par la municipalité parisienne dans le but de redynamiser le secteur de la place d’Italie (avenue d'Italie - avenue des Gobelins - quartier de la Butte-aux-Cailles), autour d'un pôle consacré à l'audiovisuel. Longtemps resté le plus grand écran de cinéma d'Europe, il est toujours le plus grand de Paris..",
+  "photos": [],
+  "lead_lang": "fr",
+  "lead_title": "Grand Écran Italie"
  },
  {
   "qid": "Q48867431",
@@ -10295,7 +10383,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "O Museu de Arte Contemporânea Nadir Afonso (MACNA) é um museu de arte contemporânea situado na cidade de Chaves, em Portugal. Foi inaugurado em julho de 2016, encontrando-se instalado num edifício projetado pelo arquiteto Álvaro Siza Vieira. O MACNA, um museu municipal administrado pela Câmara Municipal de Chaves, exibe em permanência obras do pintor Nadir Afonso e apresenta ainda outras obras de arte contemporânea em regime de exposições temporárias. Entre outros espaços, cujo acesso poderá ser restrito, o edifício é constituído por um foyer, uma biblioteca, um auditório para cerca de cem pessoas, um bar e quatro salas de exposição.",
   "photos": [
    {
     "file": "File:Monade Museu Nadir Afonso.jpg",
@@ -10336,7 +10424,9 @@
     "main": false,
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ema_Berta_MACNA_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
    }
-  ]
+  ],
+  "lead_lang": "pt",
+  "lead_title": "Museu de Arte Contemporânea Nadir Afonso"
  },
  {
   "qid": "Q62616170",
@@ -10366,7 +10456,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Parkview je kancelářská budova na Pankráci v Praze 4, na rohu ulic Hvězdova a Pujmanové, v sousedství Centrálního parku Pankrác. Je poslední z výškových budov multifunkčního centra \"City\" na Pankrácké pláni dle architektonicko-urbanistické studie ateliéru Richard Meier & Partners, kterou zadala v roce 1999 developerská skupina ECM. Ta se ovšem nevyrovnala s následky globální finanční krize a zkrachovala; realizace pěti z deseti staveb se zastavila v roce 2011 a postupně je převzali jiní investoři. Projekt Parkview od ECM koupila společnost Skanska Property, která postavila i sousední budovu City Green Court (2012). Stavba Parkview započala koncem roku 2018, dokončena byla v roce 2020. Na projektu se podílelo architektonické studio CUBOID Architekti; projektantem byla firma m3m. Parkview v lednu 2021 koupil za 77 mil EUR jeden z největších evropských realitních fondů Deka Immobilien.",
   "photos": [
    {
     "file": "File:Praha Pankrac stavba Parkview 8.jpg",
@@ -10407,7 +10497,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Pankr%C3%A1c_Night_01.jpg/1280px-Pankr%C3%A1c_Night_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "cs",
+  "lead_title": "Parkview"
  },
  {
   "qid": "Q1408821",
@@ -10682,7 +10774,7 @@
    "filial church"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die römisch-katholische Filialkirche Aigen im Ennstal befindet sich im Ort Aigen im Ennstal in der Gemeinde Aigen im Ennstal in der Steiermark. Die Kirche ist dem Hl. Florian geweiht. Sie ist Filialkirche der zum Dekanat Oberes Ennstal – Steirisches Salzkammergut in der Diözese Graz-Seckau gehörigen Pfarre Irdning. Die Kirche steht unter Denkmalschutz (Listeneintrag).",
   "photos": [
    {
     "file": "File:St. Florian, Aigen im Ennstal.jpg",
@@ -10736,7 +10828,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kirche_Aigen_-Skizze_Grundriss.jpg/1280px-Kirche_Aigen_-Skizze_Grundriss.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Filialkirche Aigen im Ennstal"
  },
  {
   "qid": "Q11384745",
@@ -10766,7 +10860,7 @@
    "astronautical museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "佐賀県立宇宙科学館（さがけんりつうちゅうかがくかん）は、佐賀県武雄市にある宇宙に関する展示を主とした科学館。館の愛称は「ゆめぎんが」である。2024年（令和6年）に25周年となり3階の宇宙発見ゾーンがリニューアルされた。",
   "photos": [
    {
     "file": "File:佐賀県立宇宙科学館玄関.jpg",
@@ -10859,7 +10953,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cottus_sp._%28middle-egg_type%29_Yumeginga.jpg/1280px-Cottus_sp._%28middle-egg_type%29_Yumeginga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "佐賀県立宇宙科学館"
  },
  {
   "qid": "Q11450770",
@@ -10889,7 +10985,7 @@
    "biographical museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "安曇野ちひろ美術館（あずみのちひろびじゅつかん）は、長野県北安曇郡松川村にある絵本画家いわさきちひろと世界の絵本画家の作品を収蔵する世界最大規模の絵本美術館である。松川村営の安曇野ちひろ公園内に立地する。",
   "photos": [
    {
     "file": "File:150922 Chihiro Art Museum Azumino Japan01s3.jpg",
@@ -10982,7 +11078,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chihiro_Art_Museum_Azumino%2C_26_Jun_2012%2C_001.jpg/1280px-Chihiro_Art_Museum_Azumino%2C_26_Jun_2012%2C_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "安曇野ちひろ美術館"
  },
  {
   "qid": "Q119726978",
@@ -11127,7 +11225,7 @@
    "museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Pabellón de la Navegación fue construido para la Exposición universal de Sevilla en 1992, proyectado por el arquitecto sevillano Guillermo Vázquez Consuegra que por ello recibió una mención de edificación en la II Bienal de Arquitectura Española. Desde 2012, el edificio es un espacio museístico que cuenta la evolución de la navegación atlántica.",
   "photos": [
    {
     "file": "File:Pabellon navegacion e2012003.jpg",
@@ -11220,7 +11318,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Pabellon_de_la_Navegaci%C3%B3n_%2816%29.jpg/1280px-Pabellon_de_la_Navegaci%C3%B3n_%2816%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Pabellón de la Navegación (Sevilla)"
  },
  {
   "qid": "Q1015062",
@@ -11249,7 +11349,7 @@
    "cultural center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Der Burghof ist ein von 1996 bis 1998 erbautes Kultur- und Veranstaltungszentrum in Lörrach in Südbaden. Er ist überregional bekannt geworden aufgrund seiner Architektur, die im Ensemble mit der historisch gewachsenen Altstadt Lörrachs wirkt und der zeitgenössischen Kunst im und am Bau.",
   "photos": [
    {
     "file": "File:Burghof Loerrach.jpg",
@@ -11303,7 +11403,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Burghof_L%C3%B6rrach..._-_panoramio.jpg/1280px-Burghof_L%C3%B6rrach..._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Burghof Lörrach"
  },
  {
   "qid": "Q11392654",
@@ -11327,7 +11429,7 @@
    "museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "共同溝展示館（きょうどうこうてんじかん）とは、かつて東京都江東区有明、臨海副都心シンボルプロムナード公園内にあった東京都港湾局が管理する施設である。通称はK－MUSEUM。 保安上公開されていない臨海副都心の共同溝を紹介する目的で建設された。共同溝を紹介する展示室と共同溝の配管を見学できる見学通路で構成されている。夢の大橋東側のたもとに位置し、橋梁台座下部に設置された配管を見ることができた。 建物は渡辺誠によるデザインで、中止となった世界都市博覧会のモニュメントになる予定だった。 利用者数の低迷を理由に2001年（平成13年）4月1日から無期休館となり、再開しないまま2024年（令和6年）11月より解体工事に着手した。設計した渡辺は、共同溝で目立った存在であったゴミ真空集塵システムの運用を中止したことが休館の遠因であった可能性を推察している。",
   "photos": [
    {
     "file": "File:K Museum2.jpg",
@@ -11394,7 +11496,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/K-MUSEUM.jpg/1280px-K-MUSEUM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "共同溝展示館"
  },
  {
   "qid": "Q116689663",
@@ -11425,7 +11529,7 @@
    "public library"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La Biblioteca Jaume Fuster es una biblioteca pública de la ciudad española de Barcelona, construida en 2005​ y llamada así en honor al escritor catalán Jaume Fuster (1945-1998). Emplazada en la plaza de Lesseps en el distrito de Gracia, con sus alrededor de 5 mil metros cuadrados​ es la biblioteca pública de mayor superficie de la ciudad, la cual será solo superada por el proyecto de la Biblioteca Central de Barcelona.​",
   "photos": [
    {
     "file": "File:Bibl Lesseps.JPG",
@@ -11518,7 +11622,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Biblioteca_Jaume_Fuster.jpg/1280px-Biblioteca_Jaume_Fuster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Biblioteca Jaume Fuster"
  },
  {
   "qid": "Q2815351",
@@ -11959,7 +12065,7 @@
    "biographical museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "ヤオコー川越美術館（ヤオコーかわごえびじゅつかん）は、埼玉県川越市氷川町にある美術館。埼玉県に所縁の深い洋画家三栖右嗣の作品を収蔵・展示しており、三栖右嗣記念館（みすゆうじきねんかん）とも称する。",
   "photos": [
    {
     "file": "File:Yaoko Kawagoe Museum aka Yuji Misu Memorial Hall.jpg",
@@ -11974,7 +12080,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Yaoko_Kawagoe_Museum_aka_Yuji_Misu_Memorial_Hall.jpg/1280px-Yaoko_Kawagoe_Museum_aka_Yuji_Misu_Memorial_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "ヤオコー川越美術館"
  },
  {
   "qid": "Q106843470",
@@ -12292,7 +12400,7 @@
    "concert hall"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die Musik- und Kongresshalle Lübeck – in Lübeck meist nur MuK genannt – steht auf der Wallhalbinsel am Traveufer gegenüber der Beckergrube und der Mengstraße der Lübecker Altstadt. Die MuK wurde von dem Architekten Meinhard von Gerkan entworfen und am 1. Oktober 1994 eröffnet. Sie verbindet die Funktionen einer internationalen Kongresshalle, einer Philharmonie und einer Stadthalle.",
   "photos": [
    {
     "file": "File:MuK Musik und Kongresshalle Lübeck.jpg",
@@ -12385,7 +12493,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/MuK._-_panoramio.jpg/1280px-MuK._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Musik- und Kongresshalle Lübeck"
  },
  {
   "qid": "Q37513056",
@@ -12416,7 +12526,7 @@
    "IMAX theatre"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "L'IMAX Port Vell (1995-2014) va ser una sala de cinema inaugurada l'any 1995 i ubicada en el recinte d'oci Maremagnum de Barcelona, al Moll d'Espanya s/n (enfront del Passeig de Colom), al districte de Ciutat Vella. Fou una de les 10 sales més taquilleres del món en quant al cinema de gran format es refereix. L'edifici, aleshores de nova construcció, va ser obra dels arquitectes Enric Sòria i Jordi Garcés. El cine IMAX del Port Vell va ser inaugurat per Pasqual Maragall, aleshores alcalde, juntament amb el també aleshores ministre d'Obres Públiques Josep Borrell. Maragall descrivia la sala com \"un dels símbols de la Barcelona del segle XXI\", donades la seva tecnologia d'última generació i, l'any 1995, considerada pionera. El format IMAX projecta la pel·lícula en una pantalla de 7 pisos d'alçada, la més gran a nivell nacional, en format 3D; i el format Omnimax projecta la pel·lícula sobre",
   "photos": [
    {
     "file": "File:Imax Port Vell Barcelona 001.JPG",
@@ -12509,7 +12619,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Imax_Port_Vell_Barcelona_003.JPG/1280px-Imax_Port_Vell_Barcelona_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ca",
+  "lead_title": "IMAX Port Vell"
  },
  {
   "qid": "Q97602086",
@@ -12538,7 +12650,7 @@
    "concert hall"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Das Konzerthaus Blaibach liegt in Blaibach in der Oberpfalz. Es bietet Platz für Konzerte, Kulturveranstaltungen und Ausstellungen.",
   "photos": [
    {
     "file": "File:Konzerthaus Blaibach.jpg",
@@ -12618,7 +12730,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Konzerthaus_Blaibach_%28cropped%29.jpg/1280px-Konzerthaus_Blaibach_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Konzerthaus Blaibach"
  },
  {
   "qid": "Q79118291",
@@ -12824,7 +12938,7 @@
    "music venue"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "大社文化プレイス（たいしゃぶんかプレイス）は島根県出雲市にある文化施設。",
   "photos": [
    {
     "file": "File:Taisya bunkaplace.jpg",
@@ -12839,7 +12953,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Taisya_bunkaplace.jpg/1280px-Taisya_bunkaplace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "大社文化プレイス"
  },
  {
   "qid": "Q125212495",
@@ -13476,7 +13592,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Prins Hendrikkade 600 te Amsterdam is een gebouw aan de Prins Hendrikkade te Amsterdam. Hier werd in 1996 een paviljoen naar ontwerp van Renzo Piano gebouwd om uitzicht te verschaffen op diens creatie NEMO Science Museum. Het gebouw staat op de kade van het Oosterdok, daar waar de Schippersgracht uitmondt. Toen dat paviljoen een herbestemming moest ondergaan en het Architectuurcentrum Amsterdam (ARCAM), gevestigd in het gebouw van de Academie van Bouwkunst aan het Waterlooplein, een grotere ruimte nodig had, was de keus snel gemaakt. Het deels nieuwe gebouw moest aan een aantal eisen voldoen: het nieuwe gebouw moest om het oude gebouw voltooid worden; gevels verdwenen maar vloeren en kolommen bleven kijkend vanuit het Scheepvaartmuseum moest het de gevelwand van de Prins Hendrikkade niet verstoren (zo werd gekozen voor een lagere gevel aan de waterkant en een hogere gevel aan de straatka",
   "photos": [
    {
     "file": "File:2022 Arcam-gebouw, Asd (5).jpg",
@@ -13569,7 +13685,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2022_Arcam-gebouw%2C_Asd_%286%29.jpg/1280px-2022_Arcam-gebouw%2C_Asd_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "nl",
+  "lead_title": "Prins Hendrikkade 600"
  },
  {
   "qid": "Q11722150",
@@ -13598,7 +13716,7 @@
    "parish church"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die Pfarrkirche St. Florian ist die jüngste römisch-katholische Kirche im Stadtbereich der bayerischen Landeshauptstadt München.",
   "photos": [
    {
     "file": "File:St. Florian in Riem 0120171205 152854 DxO 16.jpg",
@@ -13691,7 +13809,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Oekumenisches_Kirchenzentrum_Muenchen-Riem-10.jpg/1280px-Oekumenisches_Kirchenzentrum_Muenchen-Riem-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "St. Florian (Riem)"
  },
  {
   "qid": "Q1529647",
@@ -13720,7 +13840,7 @@
    "commercial building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Das Glaskugelhaus Dresden befindet sich am Wiener Platz/Prager Straße in der Seevorstadt von Dresden, gegenüber dem Hauptbahnhof. Der Bau ist ein Haus in Kugelform, eingebettet in zwei daneben befindliche Quaderbauten.",
   "photos": [
    {
     "file": "File:Dresden, Wiener Platz 10, Kugelhaus, 17.6.2.40-060080.jpg",
@@ -13813,7 +13933,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/2005052801_Wiener_Platz_Glaskugelhaus_Nachtaufnahme.jpg/1280px-2005052801_Wiener_Platz_Glaskugelhaus_Nachtaufnahme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Glaskugelhaus Dresden"
  },
  {
   "qid": "Q18681944",
@@ -13842,7 +13964,7 @@
    "concert hall"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Kansantaiteenkeskus on Kaustisella toimiva tapahtuma- ja kulttuurikeskus sekä konserttitalo. Julkisien ja yksityisten juhlien ja tilaisuuksien, monialaisten konserttien ja esitysten, sekä kokousten ja seminaarien järjestämisen lisäksi keskuksessa esitellään kansanomaista suomalaista ja muuta kulttuuria. Talo toimii kansainvälisenä esittely-, tiedotus-, koulutus-, tallennus- ja tutkimuskeskuksena. Vakituisia toimijoita ovat talon oman konsertti- ja tapahtumatuotannon lisäksi Kansanmusiikki-instituutti, Näppärit, Suomen Kansansoitinmuseo, Kaustinen Folk Music Festivalin järjestävä Pro Kaustinen, sekä kunnallinen elokuvateatteri Kino Kansantaiteenkeskus. Kaikenlaisissa tilaisuuksissa palvelee Kansantaiteenkeskuksen oma tilauskahvila/ravintola Fiuli. Kansantaiteenkeskuksen uudisrakennuksen peruskivi muurattiin 1996, ja se valmistui seuraavana vuonna. Talo on kookas: neliöitä on 3 500 , juhla",
   "photos": [
    {
     "file": "File:Kaustinen CAP.JPG",
@@ -13935,7 +14057,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Kansantaiteenkeskus_%2814955076166%29.jpg/1280px-Kansantaiteenkeskus_%2814955076166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fi",
+  "lead_title": "Kansantaiteenkeskus"
  },
  {
   "qid": "Q20643160",
@@ -13965,7 +14089,7 @@
    "cultural center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Die Begegnungsstätte Alte Synagoge ist ein Gebäudeensemble in Wuppertal, das ein Ausstellungs- und Begegnungszentrum beherbergt, welches der Erinnerung und Darstellung jüdischen Lebens in der Region dient. Die Begegnungsstätte ist das einzige jüdische Museum und der einzige Lernort zur Geschichte des Nationalsozialismus im Bergischen Land. Leiterin der Begegnungsstätte ist Ulrike Schrader. Der Trägerverein setzt sich aus über 20 gesellschaftlichen Institutionen und Vereinen zusammen.",
   "photos": [
    {
     "file": "File:Elberfeld - Alte Synagoge 02 ies.jpg",
@@ -14058,7 +14182,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Wuppertal_Engelsfest_2013_050.JPG/1280px-Wuppertal_Engelsfest_2013_050.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Begegnungsstätte Alte Synagoge Wuppertal"
  },
  {
   "qid": "Q3207449",
@@ -14088,7 +14214,7 @@
    "arts center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La Cité des Congrès de Nantes (anciennement « Cité internationale des congrès de Nantes ») est le centre des congrès de la ville de Nantes en France. Il accueille aussi bien des événements à caractère professionnel que des manifestations culturelles et sociétales.",
   "photos": [
    {
     "file": "File:La-cite-nantes.jpg",
@@ -14181,7 +14307,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nantes_%287898929780%29.jpg/1280px-Nantes_%287898929780%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Cité des congrès de Nantes"
  },
  {
   "qid": "Q3576481",
@@ -14212,7 +14340,7 @@
    "sports venue"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Le Zénith de Dijon est une salle de spectacles située dans l'ancien parc de la Toison d'Or à proximité du centre commercial de la Toison d'Or au nord de Dijon. Inauguré le 6 octobre 2005, comme le onzième du nom en France, il fait partie par sa capacité, 8 840 personnes maximum, des plus grands Zéniths de France avec ceux de Toulouse et Nantes. Le millionième spectateur a été accueilli en octobre 2009.",
   "photos": [
    {
     "file": "File:Intérieur Zénith - Dijon (FR21) - 2022-11-06 - 1.jpg",
@@ -14305,7 +14433,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Meeting_Jean-Luc_M%C3%A9lenchon_Dijon_-_19_avril_2017.jpg/1280px-Meeting_Jean-Luc_M%C3%A9lenchon_Dijon_-_19_avril_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Zénith de Dijon"
  },
  {
   "qid": "Q4914117",
@@ -14579,7 +14709,7 @@
    "church building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La chiesa di San Riccardo Pampuri è la chiesa parrocchiale di Zeloforamagno, frazione di Peschiera Borromeo; fa parte della zona pastorale VI di Melegnano dell'arcidiocesi di Milano.",
   "photos": [
    {
     "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 003.jpg",
@@ -14633,7 +14763,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Peschiera_Borromeo%2C_Zeloforamagno_-_Chiesa_di_San_Riccardo_Pampuri_-_2023-09-24_15-08-52_001.jpg/1280px-Peschiera_Borromeo%2C_Zeloforamagno_-_Chiesa_di_San_Riccardo_Pampuri_-_2023-09-24_15-08-52_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "it",
+  "lead_title": "Chiesa di San Riccardo Pampuri (Peschiera Borromeo)"
  },
  {
   "qid": "Q62588192",
@@ -14662,7 +14794,7 @@
    "church building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "St. Katharina von Siena ist eine katholische Filialkirche im Kölner Stadtteil Blumenberg, die in den Jahren 2001 bis 2003 nach Plänen des Architekten Heinz Bienefeld von seinem Sohn Nikolaus Bienefeld erbaut und am dritten Adventssonntag 2003 geweiht wurde. Die Kirche steht unter dem Patrozinium von Katharina von Siena und ist der bislang jüngste katholische Kirchenbau in Köln (Stand 2020).",
   "photos": [
    {
     "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0216.jpg",
@@ -14755,7 +14887,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/St._Katharina_von_Siena%2C_K%C3%B6ln-Blumenberg-6982.jpg/1280px-St._Katharina_von_Siena%2C_K%C3%B6ln-Blumenberg-6982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "St. Katharina von Siena (Köln)"
  },
  {
   "qid": "Q5656081",
@@ -15082,7 +15216,7 @@
    "pavilion"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "De Aue Paviljoens is een bouwwerk dat in opdracht van Jan Hoet door het Belgische architectenbureau Robbrecht & Daem ontworpen werd voor de tentoonstelling Documenta IX in het Duitse Kassel in 1992.",
   "photos": [
    {
     "file": "File:Documenta IX Temporäre Bauten II.jpg",
@@ -15110,7 +15244,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Documenta_IX_Tempor%C3%A4re_Bauten_I_1992.jpg/1280px-Documenta_IX_Tempor%C3%A4re_Bauten_I_1992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "nl",
+  "lead_title": "Aue Paviljoens"
  },
  {
   "qid": "Q56477161",
@@ -17270,7 +17406,7 @@
    "academic library"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "La Biblioteca Universitaria Raúl Rangel Frías es una de las bibliotecas centrales con la que cuenta la Universidad Autónoma de Nuevo León (UANL) fue inaugurada en 1995.​ Se encuentra alojada en un edificio diseñado por el arquitecto Ricardo Legorreta bajo su línea estilística que conjuga la tradición y la modernidad.​",
   "photos": [
    {
     "file": "File:Fachada BURRF.jpg",
@@ -17285,7 +17421,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Fachada_BURRF.jpg/1280px-Fachada_BURRF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Biblioteca Raúl Rangel Frías"
  },
  {
   "qid": "Q121602845",
@@ -17307,7 +17445,7 @@
    "built structure"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Das Besucherzentrum Pearling Site in Al-Muharraq bildet den Eingang zur Kulturstätte und wurde 2019 von Valerio Olgiati entworfen. Drei Austernbänke, ein Küstenabschnitt und neun Gebäudegruppen bilden in der Hafenstadt Muharraq im Königreich Bahrain den Pfad der Perlenfischer, der seit 2012 zum UNESCO-Welterbe gehört und die Geschichte des Perlenhandels in der Golfregion nacherzählt. Den Auftakt zum Perlenfischerpfad, der die verschiedenen Stätten miteinander verbindet, bildet das Besucherzentrum von Valerio Olgiati, das zwischen 2016 und 2019 errichtet wurde. In der dichten Stadtstruktur ist es ein urbanes Gefüge, dessen Grundfläche einem öffentlichen Park entspricht. Die Ausgrabungsstätte wird von einem Dach geschützt. Getragen wird es von Stützen und einem Museum, das das kulturelle Erbe der Perlenfischerei als Zeugnis einer Inselökonomie festhaltet. Der Beton ist rot-braun eingefärbt",
   "photos": [
    {
     "file": "File:Brutarchitekt, Muharraq.jpg",
@@ -17322,7 +17460,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Brutarchitekt%2C_Muharraq.jpg/1280px-Brutarchitekt%2C_Muharraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "de",
+  "lead_title": "Besucherzentrum Pearling Site"
  },
  {
   "qid": "Q23541304",
@@ -18359,7 +18499,7 @@
    "biographical museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "奥田元宋・小由女美術館（おくだげんそうさゆめびじゅつかん）は、広島県三次市の市街地に近い南東部にある美術館。2006年（平成18年）4月15日開館。",
   "photos": [
    {
     "file": "File:GensoSayume.JPG",
@@ -18374,7 +18514,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/GensoSayume.JPG/1280px-GensoSayume.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "ja",
+  "lead_title": "奥田元宋・小由女美術館"
  },
  {
   "qid": "Q38238747",
@@ -22103,8 +22245,10 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
-  "photos": []
+  "lead": "HydraPier Pavilion je vodné mólo ležiace na umelo vytvorenom jazere v blízkosti mesta Haarlemmermeer v Holandsku. Postavený bol v roku 2002 ako víťazný projekt medzinárodnej súťaže na vstupný pavilón svetovej záhradníckej výstavy Floridade. V súťaži zvíťazil manželský pár Hani Rashid – Lise Anne Couture, zakladatelia ateliéru Asymptote Architecture z New Yorku. HydraPier je jedným z mála postavených projektov tejto dvojice. Porotu súťaže oslovil poetický koncept pavilónu, ktorý prepája reálne fyzické prostredie s virtuálnymi zážitkami návštevníkov.",
+  "photos": [],
+  "lead_lang": "sk",
+  "lead_title": "HydraPier Pavilion"
  },
  {
   "qid": "Q63869721",
@@ -23604,7 +23748,7 @@
    "educational institution"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Centro Cultural de España en El Salvador (CCESV) es el centro cultural de la Agencia Española de Cooperación Internacional para el Desarrollo en la Misión Diplomática Permanente de España en San Salvador, «dedicada al impulso de las relaciones culturales con los países en vías de desarrollo, fijando, como prioridad sectorial, la cultura, con especial incidencia en los aspectos que definan la identidad cultural dirigida al desarrollo endógeno, y los que favorezcan la promoción cultural y el libre acceso a equipamientos y servicios culturales de todos los sectores de la población potencialmente beneficiaria».​",
   "photos": [
    {
     "file": "File:Fachada exterior del CCESV en 2026 - 55094018366.jpg",
@@ -23697,7 +23841,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Presentaci%C3%B3n_del_mon%C3%B3logo_%22No_solo_duelen_los_golpes%22_de_Pamela_Palenciano_en_el_Centro_Cultural_de_Espa%C3%B1a_en_El_Salvador.jpg/1280px-Presentaci%C3%B3n_del_mon%C3%B3logo_%22No_solo_duelen_los_golpes%22_de_Pamela_Palenciano_en_el_Centro_Cultural_de_Espa%C3%B1a_en_El_Salvador.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Centro Cultural de España en El Salvador"
  },
  {
   "qid": "Q6953970",
@@ -24179,7 +24325,7 @@
    "arthouse cinema"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "A Cinemateca Capitólio é um centro cultural localizado no Centro Histórico de Porto Alegre dedicado à preservação cinematográfica e exibição de filmes. Situa-se no histórico Cine-Theatro Capitólio, um prédio de estilo eclético de influência açoriana projetado pelo engenheiro Domingos Rocco e inaugurado em 12 de outubro de 1928. No espaço, que teve como seu primeiro proprietário Luis Fallace, ocorriam peças de teatro, projeção de filmes, balés, concursos de misses e espetáculos de mágica. Com a reforma do local em 2015, foi transformado numa cinemateca. Ao longo das décadas de 1920 e 1930, realizou ainda outras atividades culturais, mas efetivou sua principal atração na difusão do cinema. Tinha contrato de exclusividade com as duas maiores produtoras de filmes da época: a United Artists e a RKO Pictures. Posteriormente, passou a lançar com exclusividade em Porto Alegre os filmes produzido",
   "photos": [
    {
     "file": "File:Cine-theatro-capitólio.jpg",
@@ -24272,7 +24418,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Capit%C3%B3lio_%28Porto_Alegre%29_3.jpg/1280px-Capit%C3%B3lio_%28Porto_Alegre%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "pt",
+  "lead_title": "Cinemateca Capitólio"
  },
  {
   "qid": "Q5305525",
@@ -24670,7 +24818,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Museo de Esculturas Luis Perlotti es un museo de arte ubicado en la calle Pujol 644, barrio de Caballito, Ciudad Autónoma de Buenos Aires. Lleva su nombre en homenaje al escultor argentino Luis Perlotti. Tiene como misión preservar, difundir y promover la producción y recepción de la escultura argentina en general, y del artista homónimo en particular. Su patrimonio incluye más de 1600 piezas, entre dibujos, pinturas, grabados, murales y variados géneros escultóricos: tallas en madera, esculturas en mármol y bronce, cerámica y piedra reconstituida. Entre ellas, se destaca la producción de Perlotti, caracterizada por su temática americanista, obras de grandes maestros de la escultura nacional y dos murales del pintor Benito Quinquela Martín. Además, cuenta con la donación de artistas de la talla de Lidia Battisti, Juan Carlos Ferraro, y Alfredo Yacussi.​",
   "photos": [
    {
     "file": "File:Museo de Esculturas Luis Perlotti, Buenos Aires 02.jpg",
@@ -24763,7 +24911,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Museo_de_Esculturas_Luis_Perlotti%2C_Buenos_Aires_12.jpg/1280px-Museo_de_Esculturas_Luis_Perlotti%2C_Buenos_Aires_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Museo de Esculturas Luis Perlotti"
  },
  {
   "qid": "Q27894560",
@@ -25690,7 +25840,7 @@
    "natural history museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "O BioParque Pantanal é um aquário localizado em Campo Grande, Mato Grosso do Sul, inaugurado em 28 de março de 2022. Localiza-se na Avenida Afonso Pena entre o Parque das Nações Indígenas, em Campo Grande. Trata-se de um complexo de dezenove mil metros quadrados que ostenta o maior aquário de água doce em todo o mundo. O grande edifício foi desenhado por Ruy Ohtake. A história do aquário até sua inauguração foi marcada por um considerável atraso. A obra, iniciada em 2011, deveria durar 900 dias porém só foi entregue em 2022, quase 11 anos depois. Diversas acusações de irregularidades chegaram a atingir até mesmo o ex-governador do Mato Grosso do Sul, André Puccinelli (MDB), que foi preso preventivamente.",
   "photos": [
    {
     "file": "File:Bioparque Pantanal 37.jpg",
@@ -25783,7 +25933,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Bioparque_Pantanal_06.jpg/1280px-Bioparque_Pantanal_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "pt",
+  "lead_title": "Aquário do Pantanal"
  },
  {
   "qid": "Q17007967",
@@ -25882,7 +26034,7 @@
    "planned community"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Ciudad Cayalá es una ciudad planificada dentro de la Ciudad de Guatemala, frecuentemente visitada por nacionales y extranjeros por su arquitectura de estilo europeo y entorno natural. La comunidad fue construida buscando satisfacer todos los gustos y necesidades de sus residentes y visitantes.​ Ciudad Cayalá cuenta con más de 1.900 viviendas y más de 33.000 metros cuadrados de oficinas, una zona comercial con más de 260 tiendas entre las que se destacan 36 restaurantes, 12 academias y gimnasios, también se ubican 7 bancos, 4 hospitales y clínicas médicas, 7 salas de cine y más de 3.600 parqueos para visitantes. En la localidad también se ubica la Embajada de los Estados Unidos, sobre el Boulevard Austriaco.​",
   "photos": [
    {
     "file": "File:Ciudad Cayalá - Guatemala.jpg",
@@ -25975,7 +26127,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ciudad_Cayal%C3%A1_Guatemala.jpg/1280px-Ciudad_Cayal%C3%A1_Guatemala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Ciudad Cayalá (Guatemala)"
  },
  {
   "qid": "Q111947628",
@@ -26027,7 +26181,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "San Martín 344 es una torre de oficinas que se encuentra en el centro financiero de la ciudad de Buenos Aires. El edificio fue proyectado por el estudio de arquitectura Mario Roberto Álvarez y Asociados, y construido entre 1992 y 2003 por su comitente, la compañía RAGHSA que también es propietaria de la torre, cuyas oficinas son alquiladas. Se trató de una obra muy demorada que comenzó estando a cargo del estudio Pfeifer-Zurdo, se vio paralizada por el efecto Tequila y recién tomó velocidad en el año 2000.​ El estudio de los arquitectos René Iannuzzi y Gualter Colombo se hizo cargo de la dirección de la obra, Obras Metálicas S.A. proveyó las estructuras y el vidrio para el muro cortina de la fachada fue fabricado por la firma Peter Müller de Houston (Estados Unidos). Un accidente laboral ocurrió durante la obra, cuando el 2 de octubre de 2000 tres obreros fallecieron al caer en un montac",
   "photos": [
    {
     "file": "File:San Martín 344.jpg",
@@ -26042,7 +26196,9 @@
     "main": true,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/San_Mart%C3%ADn_344.jpg/1280px-San_Mart%C3%ADn_344.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "San Martín 344"
  },
  {
   "qid": "Q130307907",
@@ -26936,7 +27092,7 @@
    "art museum"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "Le Musée de l'eau est situé dans le village Bonjo du canton Wouri-Bwele, arrondissement de Yabassi, département du Nkam, région du Littoral. Son lieu d'implantation est la rive droite du Wouri en face du débarcadère de Bonakwaba-Bonio (île Wouri). Musée ethnographique, présente une collection variée d'objets d'arts (art plastique, danse, musique...). Il est également un centre d’interprétation de l'histoire du Cameroun au travers de photos et documents historiques. Cette institution culturelle prône l'unicité des peuples sawa.",
   "photos": [
    {
     "file": "File:L' étreinte fraternelle (cropped).jpg",
@@ -27029,7 +27185,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Banniere_Mus%C3%A9e_de_l%27eau_%28cropped%29.jpg/1280px-Banniere_Mus%C3%A9e_de_l%27eau_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "fr",
+  "lead_title": "Musée de l’eau"
  },
  {
   "qid": "Q124339627",
@@ -27609,7 +27767,7 @@
    "convention center"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Fórum Santiago del Estero, Centro de Convenciones y Exposiciones es un edificio ubicado en la ciudad de Santiago del Estero (Argentina) que está destinado a reuniones, congresos, seminarios y convenciones entre otros usos. Se encuentra emplazado en uno de los edificios históricos de la ciudad que se encontraba en desuso: la vieja estación de Ferrocarriles Mitre, para lo cual se recuperó y se puso en valor. Desde el punto de vista arquitectónico se destaca porque conjuga lo histórico con lo moderno. Por sus numerosas y variadas prestaciones, la fácil accesibilidad y su ubicación dentro de la ciudad, el Fórum es el espacio más apropiado para desarrollar importantes eventos empresariales, de capacitación, culturales, sociales y artísticos.",
   "photos": [
    {
     "file": "File:Forum Santiago del Estero.JPG",
@@ -27650,7 +27808,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Forum_Santiago_del_Estero_3.jpg/1280px-Forum_Santiago_del_Estero_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Fórum Santiago del Estero"
  },
  {
   "qid": "Q18191360",
@@ -29102,7 +29262,7 @@
    "building"
   ],
   "sitelinks": null,
-  "lead": "",
+  "lead": "El Centro de Justicia de Santiago (también conocido por su acrónimo, CJS) es un conjunto arquitectónico, ubicado en Santiago de Chile, que alberga a la totalidad de los tribunales penales que están bajo la jurisdicción de la Corte de Apelaciones de Santiago —salvo el Juzgado de Garantía de Colina— que son 14 Juzgados de Garantía y 7 Tribunales de Juicio Oral en lo Penal.​ El complejo además es sede de la Fiscalía Metropolitana Centro Norte y las Defensorías Regionales Metropolitana Norte y Metropolitana Sur. Desde 2013 también alberga de manera temporal al Segundo Tribunal Ambiental.​​ Fue inaugurado en 2006, pero solo en 2011 fue utilizado completamente por el Poder Judicial.​ Está emplazado en los terrenos que antes pertenecieron a las Fábricas y Maestranzas del Ejército de Chile (FAMAE),​ a un costado de la Autopista Central, la antigua penitenciaría de Santiago y la Cárcel Santiago 1",
   "photos": [
    {
     "file": "File:Centro de Justicia, Santiago 20230312.jpg",
@@ -29156,7 +29316,9 @@
     "main": false,
     "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Centro_de_Justicia_de_Santiago.jpg/1280px-Centro_de_Justicia_de_Santiago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
    }
-  ]
+  ],
+  "lead_lang": "es",
+  "lead_title": "Centro de Justicia de Santiago"
  },
  {
   "qid": "Q6606413",
