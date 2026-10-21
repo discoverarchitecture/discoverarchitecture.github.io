@@ -1583,6 +1583,15 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Britannica",
+    "title": "Balkrishna Doshi",
+    "url": "https://www.britannica.com:443/print/article/2123490",
+    "kind": "overview",
+    "paid": false,
+    "why": "Concise biography and key works",
+    "checked": "2026-10-21"
+   },
+   {
     "site": "Dezeen",
     "title": "\"India's greatest architect\" Balkrishna Doshi dies aged 95",
     "url": "https://www.dezeen.com/?p=1889048",
@@ -2044,7 +2053,8 @@
     "kind": "overview",
     "paid": false,
     "why": "Biography and key buildings",
-    "checked": "2026-10-21"
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "U.S. Modernist",
@@ -2185,6 +2195,15 @@
     "kind": "video",
     "paid": false,
     "why": "Interview on his 1954 lecture",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Columbia Libraries",
+    "title": "Félix Candela architectural records and papers, 1950-1984",
+    "url": "https://findingaids.library.columbia.edu/ead/nnc-a/ldpd_3464748/dsc/1",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of his drawings",
     "checked": "2026-10-21"
    },
    {
@@ -2900,6 +2919,15 @@
     "paid": false,
     "why": "Quick overview of life and works",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Docomomo WEWA",
+    "title": "Minoru Yamasaki",
+    "url": "https://www.docomomo-wewa.org/?p=8736",
+    "kind": "profile",
+    "paid": false,
+    "why": "Modernist career overview",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -2986,6 +3014,42 @@
     "paid": false,
     "why": "Quick overview of the firm",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Designboom",
+    "title": "Morphosis Architects, Thom Mayne studio visit",
+    "url": "https://www.designboom.com/architecture/morphosis-architects-thom-mayne-studio-visit-08-07-2017/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Mayne interview at the studio",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Thom Mayne",
+    "url": "https://en.wikipedia.org/wiki/Thom_Mayne",
+    "kind": "profile",
+    "paid": false,
+    "why": "Founder's career summary",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "SCI-Arc",
+    "title": "Thom Mayne lecture",
+    "url": "https://sciarc.edu/events/lectures/thom-mayne",
+    "kind": "video",
+    "paid": false,
+    "why": "Founder lecture at SCI-Arc",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "World Architecture",
+    "title": "Thom Mayne profile",
+    "url": "https://worldarchitecture.org/profiles/hnh/thom-mayne-profile-page.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Profile and project list",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -3063,6 +3127,24 @@
     "paid": false,
     "why": "Book on the firm's century",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Nikken Sekkei Ltd",
+    "url": "https://www.archdaily.com/professional/nikken-sekkei-ltd",
+    "kind": "profile",
+    "paid": false,
+    "why": "Firm profile and projects",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Nikken Sekkei tag",
+    "url": "https://www.archdaily.com/tag/nikken-sekkei",
+    "kind": "guide",
+    "paid": false,
+    "why": "Projects by the firm",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -3130,6 +3212,15 @@
     "kind": "overview",
     "paid": false,
     "why": "Quick overview of life and works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Outlook Luxe",
+    "title": "Rogelio Salmona explained: Bogotá's red brick masterpieces",
+    "url": "https://luxe.outlookindia.com/art-design/architecture/rogelio-salmona-explained-the-visionary-architect-behind-bogotas-red-brick-masterpieces",
+    "kind": "essay",
+    "paid": false,
+    "why": "His brick architecture explained",
     "checked": "2026-10-21"
    }
   ]
@@ -3321,6 +3412,33 @@
     "kind": "overview",
     "paid": false,
     "why": "Quick overview of life and works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Yale University Press",
+    "title": "The House of Victor Horta",
+    "url": "https://yalebooks.yale.edu/book/9780300273205/the-house-of-victor-horta",
+    "kind": "museum",
+    "paid": false,
+    "why": "Scholarly book on his own house",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Library Journal",
+    "title": "Victor Horta: The Architect of Art Nouveau",
+    "url": "https://libraryjournal.com/review/victor-horta-the-architect-of-art-nouveau",
+    "kind": "essay",
+    "paid": false,
+    "why": "Review of the major monograph",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Brussels Times",
+    "title": "Birth of Victor Horta, Art Nouveau pioneer",
+    "url": "https://brusselstimes.com/346704/otd-in-1861-birth-of-victor-horta-architect-and-art-nouveau-pioneer",
+    "kind": "news",
+    "paid": false,
+    "why": "Short life and legacy",
     "checked": "2026-10-21"
    }
   ]
@@ -4639,6 +4757,24 @@
     "kind": "guide",
     "paid": false,
     "why": "Articles and projects tagged Raj",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "STIRworld",
+    "title": "Mahendra Raj and his oeuvre of structural expressionism",
+    "url": "https://www.stirworld.com/inspire-people-mahendra-raj-and-his-oeuvre-of-structural-expressionism-in-indian-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "His structural expressionism in India",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Hindustan Times",
+    "title": "Engineer behind Pragati Maidan passes away at 97",
+    "url": "https://www.pressreader.com/india/hindustan-times-gurugram/20220509/281655373660326",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Newspaper obituary",
     "checked": "2026-10-21"
    }
   ]
