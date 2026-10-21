@@ -1,0 +1,2043 @@
+[
+ {
+  "id": "kirjatalo",
+  "qid": "Q11871668",
+  "status": "photo",
+  "why": "Aalto's built commercial block; the street-corner photo is clear and in daylight. Year 1969 from the photo captions; Wikidata's 1967 is earlier than both captions.",
+  "name": "Kirjatalo",
+  "by": "Alvar Aalto",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 1969,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Modular"
+  ],
+  "features": "Aalto's commercial block on a central Helsinki corner, whose best-known tenant is the flagship Academic Bookstore.",
+  "commons_category": "Category:Kirjatalo",
+  "coords": [
+   60.16786,
+   24.94356
+  ],
+  "photos": [
+   {
+    "file": "File:Pohjoisesplanadi 39.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aaltoalvari",
+  "qid": "Q5547490",
+  "status": "photo",
+  "why": "Aalto's built pool; the lead is short, but a well-known architect's built work is enough. Brick exterior in daylight.",
+  "name": "AaltoAlvari",
+  "by": "Alvar Aalto",
+  "city": "Jyväskylä",
+  "cc": "FI",
+  "year": 1955,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "Alvar Aalto's swimming hall on Seminaarinmäki in Jyväskylä, before its later extension.",
+  "commons_category": "Category:AaltoAlvari",
+  "coords": [
+   62.23625,
+   25.72849
+  ],
+  "photos": [
+   {
+    "file": "File:AaltoAlvari 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jyväskylä - Aaltoalvari.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:AaltoAlvari.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fountainhead",
+  "qid": "Q5474838",
+  "status": "unsure",
+  "why": "The only photo shows part of a wall under trees, and its caption says it is a house in Woodland Hills, not this one.",
+  "name": "Fountainhead",
+  "note": "no main photo"
+ },
+ {
+  "id": "seth-peterson-cottage",
+  "qid": "Q7456571",
+  "status": "photo",
+  "why": "Wright's last design, clear whole-house exterior. Year left empty: Wikidata's 1958 is the design year; the lead gives only the 1959 start and the 1961 sale.",
+  "name": "Seth Peterson Cottage",
+  "by": "Frank Lloyd Wright",
+  "city": "Reedsburg",
+  "cc": "US",
+  "year": null,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "One of Wright's last designs, a one-story cottage in Mirror Lake State Park, with ashlar foundations and large glass.",
+  "commons_category": "Category:Seth Peterson Cottage",
+  "coords": [
+   43.56306,
+   -89.82528
+  ],
+  "photos": [
+   {
+    "file": "File:Seth Peterson Cottage Exterior.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jyvaskyla-city-theatre",
+  "qid": "Q17381272",
+  "status": "photo",
+  "why": "Aalto's built theatre; the lead is short, but a well-known architect's built work is enough. Year 1982 from Wikidata.",
+  "name": "Jyväskylä City Theatre",
+  "by": "Alvar Aalto",
+  "city": "Jyväskylä",
+  "cc": "FI",
+  "year": 1982,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Alvar Aalto's building for Jyväskylä's municipal theatre, whose company was founded in 1961.",
+  "commons_category": "Category:Jyväskylä City Theatre",
+  "coords": [
+   62.24,
+   25.7475
+  ],
+  "photos": [
+   {
+    "file": "File:Jyväskylä City Theatre2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jyväskylä City Theatre.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jyväskylä City Theatre 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "seinajoki-city-theatre",
+  "qid": "Q17383823",
+  "status": "photo",
+  "why": "Aalto's built theatre; the lead is short, but the architect is well known. Front photo is clear; billboard shots left out.",
+  "name": "Seinäjoki City Theatre",
+  "by": "Alvar Aalto, Elissa Aalto",
+  "city": "Seinäjoki",
+  "cc": "FI",
+  "year": 1987,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Alvar and Elissa Aalto's municipal theatre for the Finnish city of Seinäjoki.",
+  "commons_category": "Category:Seinäjoki City Theatre",
+  "coords": [
+   62.78584,
+   22.84098
+  ],
+  "photos": [
+   {
+    "file": "File:Seinäjoki City Theatre.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Seinäjoki City Theatre 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "norman-lykes-house",
+  "qid": "Q71324027",
+  "status": "photo",
+  "why": "Wright designed it and his apprentice Rattenbury finished it in 1967; the photos show the whole house on its slope.",
+  "name": "Norman Lykes House",
+  "by": "Frank Lloyd Wright",
+  "city": "Phoenix",
+  "cc": "US",
+  "year": 1967,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Sculptural form",
+   "Stone"
+  ],
+  "features": "Wright's last house design, a circular two-story home on a mountain slope, finished in 1967 by his onetime apprentice.",
+  "commons_category": "Category:Norman Lykes House",
+  "coords": [
+   33.53861,
+   -112.00306
+  ],
+  "photos": [
+   {
+    "file": "File:Norman Lykes House, 2010.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:FLW Norman Lykes House (2019).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Paradise Valley-Norman Lykes House-1959-1967.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dudley-spencer-house",
+  "qid": "Q5311982",
+  "status": "photo",
+  "why": "Clear front view of the house in its wooded setting. The lead gives the build period 1956 to 1961, so the year is 1961.",
+  "name": "Dudley Spencer House",
+  "by": "Frank Lloyd Wright",
+  "city": "Wilmington",
+  "cc": "US",
+  "year": 1961,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Earth & local material",
+   "Landscape"
+  ],
+  "features": "Wright's Usonian house in Wilmington, Delaware: a hemicycle design of irregular fieldstone, built by its first owner.",
+  "commons_category": null,
+  "coords": [
+   39.77361,
+   -75.51694
+  ],
+  "photos": [
+   {
+    "file": "File:Laurel FLW DE.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bellevue-arts-museum",
+  "qid": "Q4883914",
+  "status": "photo",
+  "why": "Holl's built museum; the lead says it closed in 2024 but not that it was demolished. Year 2001 from the lead, not Wikidata's 1947. Sculpture photo left out.",
+  "name": "Bellevue Arts Museum",
+  "by": "Steven Holl",
+  "city": "Bellevue",
+  "cc": "US",
+  "year": 2001,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Steven Holl's three-story 2001 building across from Bellevue Square; the museum closed in 2024.",
+  "commons_category": "Category:Bellevue Arts Museum",
+  "coords": [
+   47.61537,
+   -122.20119
+  ],
+  "photos": [
+   {
+    "file": "File:BellevueArtsMuseum01.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bellevue, WA (2023) - 54.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "611-place",
+  "qid": "Q3499247",
+  "status": "photo",
+  "why": "Lead gives its form and a record (tallest in the city on completion), so not an ordinary tower. Main photo is the whole tower; the other photos show neighbours.",
+  "name": "611 Place",
+  "by": "William Pereira",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1969,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Structure as expression"
+  ],
+  "features": "William Pereira's cross-shaped tower clad in vertical aluminum beams, the tallest building in Los Angeles when completed in 1969.",
+  "commons_category": "Category:611 West 6th Street (Los Angeles)",
+  "coords": [
+   34.049,
+   -118.256
+  ],
+  "photos": [
+   {
+    "file": "File:611Place LosAngeles.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haus-hohe-pappeln",
+  "qid": "Q1236266",
+  "status": "photo",
+  "why": "Van de Velde's own house, a known Art Nouveau work. Lead gives the build as 1906–1907, so year 1907. Garden and fountain photos left out.",
+  "name": "Haus Hohe Pappeln",
+  "by": "Henry van de Velde",
+  "city": "Weimar",
+  "cc": "DE",
+  "year": 1907,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Sculptural form"
+  ],
+  "features": "Henry van de Velde's own house in Weimar, built to his designs in 1906–1907; now a museum.",
+  "commons_category": "Category:Haus Hohe Pappeln",
+  "coords": [
+   50.9597,
+   11.3422
+  ],
+  "photos": [
+   {
+    "file": "File:Haus Hohe Pappeln - Ostansicht.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hohe pappeln 01 6.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weimar-Haus Hohe Pappeln-1-CTH.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cyclorama-building",
+  "qid": "Q5198995",
+  "status": "skip",
+  "why": "Demolished in 2013, per the lead."
+ },
+ {
+  "id": "new-york-public-library-for-the-performing-arts",
+  "qid": "Q7013890",
+  "status": "photo",
+  "why": "Wikidata's architects (the unnamed item Q459464 is left out); a well-known architect's built work, so a short lead is enough. Night photo and Calder-sculpture photos left out.",
+  "name": "New York Public Library for the Performing Arts",
+  "by": "Gordon Bunshaft, James Polshek",
+  "city": "New York",
+  "cc": "US",
+  "year": 1965,
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A Lincoln Center library for the performing arts, housing one of the world's largest such collections.",
+  "commons_category": "Category:New York Public Library for the Performing Arts",
+  "coords": [
+   40.77361,
+   -73.98444
+  ],
+  "photos": [
+   {
+    "file": "File:New York Public Library for the Performing Arts - Main Entrance, March 14, 2024.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:NYPL for the Performing Arts Amsterdam Avenue entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "netherlands-architecture-institute",
+  "qid": "Q361792",
+  "status": "skip",
+  "why": "Already on the wall as Het Nieuwe Instituut (Jo Coenen, 1993): the same building."
+ },
+ {
+  "id": "bryce-canyon-lodge",
+  "qid": "Q2927193",
+  "status": "photo",
+  "why": "Lead names the architect and why it matters (NPS rustic design). Year 1925 from 'built between 1924 and 1925'. Lead gives only the park, so the city field is the park's name. Dusk photos left out.",
+  "name": "Bryce Canyon Lodge",
+  "by": "Gilbert Stanley Underwood",
+  "city": "Bryce Canyon",
+  "cc": "US",
+  "year": 1925,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "A National Park Service rustic lodge of local materials, the only original Underwood structure left in these parks.",
+  "commons_category": "Category:Bryce Canyon Lodge and Deluxe Cabins",
+  "coords": [
+   37.62698,
+   -112.168
+  ],
+  "photos": [
+   {
+    "file": "File:Bryce Canyon Lodge.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:The Lodge at Bryce Canyon, Bryce Canyon National Park, Bryce Canyon City, UT - 54003969827.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Lodge at Bryce Canyon, Bryce Canyon National Park, Bryce Canyon City, UT - 54003969932.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "americanization-school",
+  "qid": "Q4745595",
+  "status": "photo",
+  "why": "Lead names a pioneer of modern architecture and says it was one of his last works; clear daylight photos of the whole building.",
+  "name": "Americanization School",
+  "by": "Irving Gill",
+  "city": "Oceanside",
+  "cc": "US",
+  "year": 1931,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Light & shadow",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "One of Irving Gill's last works, a 1931 school by a pioneer of modern architecture.",
+  "commons_category": "Category:Americanization School (Oceanside, California)",
+  "coords": [
+   33.19639,
+   -117.37194
+  ],
+  "photos": [
+   {
+    "file": "File:Ocean Americanization.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2010-1026-AmericanizationSchool-side.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2010-1026-AmericanizationSchool.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-agnes-kirche",
+  "qid": "Q2316884",
+  "status": "skip",
+  "why": "Already on the wall as St. Agnes (König Galerie), by Werner Düttmann, 1967: the same building."
+ },
+ {
+  "id": "casa-delle-armi",
+  "qid": "Q3604043",
+  "status": "photo",
+  "why": "Architect and a built 1930s Rome building; the lead explains its origin. Whole-building daylight photos; the marble detail photo left out.",
+  "name": "Casa delle Armi",
+  "by": "Luigi Moretti",
+  "city": "Rome",
+  "cc": "IT",
+  "year": 1936,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Luigi Moretti's experimental Casa del Balilla, designed in 1934 and finished in 1936 as a fencing academy.",
+  "commons_category": "Category:Accademia di scherma al Foro Italico",
+  "coords": [
+   41.92643,
+   12.45684
+  ],
+  "photos": [
+   {
+    "file": "File:ACCADEMIASCHERMA21082021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:CASADELLEARMI121082021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "skandia-theater",
+  "qid": "Q693444",
+  "status": "photo",
+  "why": "Well-known architect's built work with a short lead. Wikidata's main photo is a night shot with crowd and neon, so the daylight facade photo leads instead.",
+  "name": "Skandia-Theater",
+  "by": "Gunnar Asplund",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1923,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Gunnar Asplund's cinema on Drottninggatan in Stockholm, opened in 1923 and protected since 2000.",
+  "commons_category": "Category:Biograf Skandia",
+  "coords": [
+   59.33535,
+   18.06005
+  ],
+  "photos": [
+   {
+    "file": "File:Skandiabiografen, fasad Apelbergsgatan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "orchestra-hall",
+  "qid": "Q7100235",
+  "status": "photo",
+  "why": "Lead gives a clear reason (acoustics, home of a major orchestra). Night photos left out; the main photo shows the facade by day.",
+  "name": "Orchestra Hall",
+  "by": "C. Howard Crane",
+  "city": "Detroit",
+  "cc": "US",
+  "year": 1919,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "C. Howard Crane's concert hall in Detroit, renowned for its acoustics and home of the Detroit Symphony Orchestra.",
+  "commons_category": "Category:Detroit Orchestra Hall",
+  "coords": [
+   42.34875,
+   -83.0593
+  ],
+  "photos": [
+   {
+    "file": "File:Max M Fisher Music Center.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Detroit August 2025 34 (Orchestra Hall).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Detroit December 2021 43 (Orchestra Hall).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pfarrkirche-allerheiligen-innsbruck",
+  "qid": "Q11722111",
+  "status": "photo",
+  "why": "Holzmeister already has two buildings on the wall, so a built work with a short lead is enough. Belfry and organ photos left out.",
+  "name": "Pfarrkirche Allerheiligen, Innsbruck",
+  "by": "Clemens Holzmeister",
+  "city": "Innsbruck",
+  "cc": "AT",
+  "year": 1965,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Timber",
+   "Light from above",
+   "Brick"
+  ],
+  "features": "Clemens Holzmeister's Tyrolean parish church, built 1963–1965 and consecrated in 1965.",
+  "commons_category": "Category:Pfarrkirche Allerheiligen, Innsbruck",
+  "coords": [
+   47.26798,
+   11.35559
+  ],
+  "photos": [
+   {
+    "file": "File:Innsbruck-Allerheiligen-Kirche-Stgeorg.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pfarrkirche Allerheiligen (Innsbruck), Innenhof mit Blick auf Turm.JPG",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pfarrkirche-pertisau",
+  "qid": "Q24289600",
+  "status": "photo",
+  "why": "Holzmeister already has two buildings on the wall, so a built work with a short lead is enough. Year 1969 is Wikidata's; the lead gives none. Stained-glass and tree photos left out.",
+  "name": "Pfarrkirche Pertisau",
+  "by": "Clemens Holzmeister",
+  "city": "Eben am Achensee",
+  "cc": "AT",
+  "year": 1969,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Clemens Holzmeister's Holy Trinity parish church in Pertisau, Tyrol, now a listed monument.",
+  "commons_category": "Category:Pfarrkirche Pertisau",
+  "coords": [
+   47.43996,
+   11.69634
+  ],
+  "photos": [
+   {
+    "file": "File:Pertisau - Pfarrkirche hl Dreifaltigkeit - I.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pertisau - Pfarrkirche hl Dreifaltigkeit - II.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ministry-of-the-economy-and-finance-building",
+  "qid": "Q26995756",
+  "status": "unsure",
+  "why": "Built work of a large 1980s complex, but the main photo is a bridge and the other photos show parts of the buildings, not the whole complex.",
+  "name": "Ministry of the Economy and Finance building",
+  "note": "no main photo"
+ },
+ {
+  "id": "the-albert",
+  "qid": "Q5609688",
+  "status": "photo",
+  "why": "Albert Kahn is a well-known architect and the building is named for him; year 1929 from Wikidata. Movement is a judgement from the photo; the lead gives no style. Only one photo, daylight.",
+  "name": "The Albert",
+  "by": "Albert Kahn",
+  "city": "Detroit",
+  "cc": "US",
+  "year": 1929,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "A former Detroit office building, named after architect Albert Kahn and converted into apartments in 2014.",
+  "commons_category": null,
+  "coords": [
+   42.33299,
+   -83.04895
+  ],
+  "photos": [
+   {
+    "file": "File:GriswoldBuildingDetroit.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "listers-harads-tingshus",
+  "qid": "Q10567484",
+  "status": "skip",
+  "why": "Already on the wall as Lister County Courthouse (Gunnar Asplund, 1921): the same building."
+ },
+ {
+  "id": "kabelwerk-dr-cassirer",
+  "qid": "Q1120381",
+  "status": "photo",
+  "why": "Poelzig already has several buildings on the wall, so a built work with a short lead is enough. Year 1929 is Wikidata's; the lead gives 1928 to 1930 as the design period. Only the hall photo passes; the other photos show a kebab shop.",
+  "name": "Kabelwerk Dr. Cassirer",
+  "by": "Hans Poelzig",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1929,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Modular",
+   "Facade as skin"
+  ],
+  "features": "Hans Poelzig's 1928–1930 works hall in Hakenfelde, now a museum store and a protected monument.",
+  "commons_category": "Category:Kabelwerk Dr. Cassirer",
+  "coords": [
+   52.5588,
+   13.2199
+  ],
+  "photos": [
+   {
+    "file": "File:Poelzig Halle 2012.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-of-viktor-bauer",
+  "qid": "Q11899040",
+  "status": "photo",
+  "why": "Loos already has several buildings on the wall, and the lead says why this one matters. Year 1914 from the lead (built 1913–1914). Whole-house daylight photos.",
+  "name": "Villa of Viktor Bauer",
+  "by": "Adolf Loos",
+  "city": "Hrušovany u Brna",
+  "cc": "CZ",
+  "year": 1914,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Loos's puristic villa for a sugar-refinery director in Hrušovany, the only large Loos work in Moravia.",
+  "commons_category": "Category:Villa of Viktor Bauer",
+  "coords": [
+   49.0317,
+   16.5939
+  ],
+  "photos": [
+   {
+    "file": "File:Hrušovany-u-Brna-vila-Viktora-Bauera2013a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vila Dr. Viktora Bauera – celkový pohled (foto Kryštof Knoflíček).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "franz-domes-hof",
+  "qid": "Q1274011",
+  "status": "photo",
+  "why": "JUDGEMENT CALL: the lead names no architect, so Wikidata's Behrens is used (Behrens is on the wall). Housing with no reason in the lead; Opus should check the attribution. Photos show the whole block.",
+  "name": "Franz-Domes-Hof",
+  "by": "Peter Behrens",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1930,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Brick"
+  ],
+  "features": "A protected municipal housing estate in Vienna's Margareten district, on the Margaretengürtel.",
+  "commons_category": "Category:Franz-Domes-Hof",
+  "coords": [
+   48.18538,
+   16.34528
+  ],
+  "photos": [
+   {
+    "file": "File:Franz-Domes-Hof2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Franz-Domes-Hof1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "olaf-gulbransson-museum-tegernsee",
+  "qid": "Q15123451",
+  "status": "photo",
+  "why": "Ruf already has two buildings on the wall. The lead says little about the architecture, only that the building is a listed monument. Main photo shows the whole pavilion in daylight.",
+  "name": "Olaf-Gulbransson-Museum Tegernsee",
+  "by": "Sep Ruf",
+  "city": "Tegernsee",
+  "cc": "DE",
+  "year": 1966,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Sep Ruf's 1966 pavilion for a branch gallery of Bavaria's state painting collections, at Tegernsee.",
+  "commons_category": "Category:Olaf-Gulbransson-Museum Tegernsee",
+  "coords": [
+   47.70947,
+   11.75434
+  ],
+  "photos": [
+   {
+    "file": "File:Tegernsee Olaf Gulbransson Museum.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "huis-hillebrand",
+  "qid": "Q17440478",
+  "status": "photo",
+  "why": "Rietveld already has several buildings on the wall; the lead gives the design and its roof detail. Year 1935 is Wikidata's; the lead gives the design years 1934 and 1935. Photos are daylight, the 1930s prints left out.",
+  "name": "Huis Hillebrand",
+  "by": "Gerrit Rietveld",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": 1935,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Rietveld's 1934–1935 house in The Hague, with a low tent roof that looks flat from close up.",
+  "commons_category": "Category:Van Soutelandelaan 42, The Hague",
+  "coords": [
+   52.10284,
+   4.32379
+  ],
+  "photos": [
+   {
+    "file": "File:Huis Hillebrandt - Van Soutelandelaan 42, The Hague.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Huis Hillebrand juli 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "volksbadhuis-hilversum",
+  "qid": "Q17449964",
+  "status": "photo",
+  "why": "Dudok already has a building on the wall (Hilversum town hall); a built work with a short lead is enough. Year 1921 from Wikidata. Interior-free daylight photos.",
+  "name": "Volksbadhuis Hilversum",
+  "by": "Willem Marinus Dudok",
+  "city": "Hilversum",
+  "cc": "NL",
+  "year": 1921,
+  "type": "Health",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Dudok's Hilversum public baths, 1920–1975, now a home and a national monument.",
+  "commons_category": "Category:Volksbadhuis (Hilversum)",
+  "coords": [
+   52.21795,
+   5.16706
+  ],
+  "photos": [
+   {
+    "file": "File:HvsVolksbadhuis2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:HvsVolksbadhuis3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Overzicht voorgevel badhuis met toren - Hilversum - 20343119 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "landhaus-bejach",
+  "qid": "Q1802967",
+  "status": "photo",
+  "why": "Mendelsohn already has several buildings on the wall; the lead says it is Neues Bauen. Year 1928 from the lead (built 1927–1928), not Wikidata's 1920. Plaque and gate photos left out.",
+  "name": "Landhaus Bejach",
+  "by": "Erich Mendelsohn",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1928,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Erich Mendelsohn's 1927–1928 house in the Neues Bauen style, built for the city doctor Curt Bejach.",
+  "commons_category": "Category:Landhaus Bejach",
+  "coords": [
+   52.3892,
+   13.1292
+  ],
+  "photos": [
+   {
+    "file": "File:Bernhardt Beyer Str. 12 Haus.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bernhardt Beyer Str. 12 Garten.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-snellman",
+  "qid": "Q18246868",
+  "status": "photo",
+  "why": "Asplund already has several buildings on the wall, and the lead calls this one of his early works. Year 1918 is Wikidata's; the lead gives none. Drawing and door photos left out.",
+  "name": "Villa Snellman",
+  "by": "Gunnar Asplund",
+  "city": "Djursholm",
+  "cc": "SE",
+  "year": 1918,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "One of Gunnar Asplund's early works, a house on a corner plot in Djursholm.",
+  "commons_category": "Category:Villa Snellman",
+  "coords": [
+   59.39177,
+   18.07676
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Snellman 2008b.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Villa Snellman okt 2008a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bioscoop-vreeburg",
+  "qid": "Q19832755",
+  "status": "unsure",
+  "why": "A Rietveld 1936 remodel of a Utrecht cinema, but the only photo is a shop front with a large sign, and the Wikidata item has no coordinates.",
+  "name": "Bioscoop Vreeburg",
+  "note": "no main photo"
+ },
+ {
+  "id": "club-of-dorogomilovsky-chemical-plant",
+  "qid": "Q20706205",
+  "status": "skip",
+  "why": "The lead is empty. The club is by Melnikov, but there is no lead to describe it; Opus could add one."
+ },
+ {
+  "id": "raadhuis-van-usquert",
+  "qid": "Q2300426",
+  "status": "photo",
+  "why": "The lead names Berlage as the designer of this only town hall, so Wikidata's two other names are left out. Year 1930 from the lead (built 1930), not Wikidata's 1928 design year. Clear daylight photos of the whole building.",
+  "name": "Raadhuis van Usquert",
+  "by": "Hendrik Petrus Berlage",
+  "city": "Usquert",
+  "cc": "NL",
+  "year": 1930,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Berlage's only town hall, a brick building in Usquert whose tower he lengthened at his own cost.",
+  "commons_category": "Category:Raadhuis Usquert",
+  "coords": [
+   53.40348,
+   6.60898
+  ],
+  "photos": [
+   {
+    "file": "File:Gemeentehuis Usquert.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Raadhuis in Usquert.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:RaadhuisUsquert1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cal-passani",
+  "qid": "Q23811243",
+  "status": "photo",
+  "why": "Jujol already has a building on the wall (Torre de la Creu), so a built work with a short lead is enough. Year 1932 is Wikidata's. Whole-house daylight photos.",
+  "name": "Cal Passani",
+  "by": "Josep Maria Jujol",
+  "city": "Sant Joan Despí",
+  "cc": "ES",
+  "year": 1932,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Josep Maria Jujol's Catalan modernist house in Sant Joan Despí, listed in Catalonia's architectural heritage inventory.",
+  "commons_category": "Category:Cal Passani (Sant Joan Despí)",
+  "coords": [
+   41.37154,
+   2.05713
+  ],
+  "photos": [
+   {
+    "file": "File:Jujol-SantJoanDespi-calPessani-5656.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:129 Cal Passani, c. Francesc Macià 44 (Sant Joan Despí).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:131 Cal Passani, c. Francesc Macià 44 (Sant Joan Despí).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-bofarull",
+  "qid": "Q24035478",
+  "status": "unsure",
+  "why": "A large Jujol house with a protected tower, but the photos are mostly interiors and details; the only outside view is the tower alone.",
+  "name": "Casa Bofarull",
+  "note": "no main photo"
+ },
+ {
+  "id": "casa-ximenis",
+  "qid": "Q24035491",
+  "status": "photo",
+  "why": "Jujol already has a building on the wall, and the lead says it is a protected modernist work. Year 1914 from Wikidata. Whole-house daylight photos; the detail and balcony photos left out.",
+  "name": "Casa Ximenis",
+  "by": "Josep Maria Jujol",
+  "city": "Tarragona",
+  "cc": "ES",
+  "year": 1914,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Colour"
+  ],
+  "features": "Jujol's 1914 modernist house in Tarragona, a protected local heritage site.",
+  "commons_category": "Category:Casa Ximenis",
+  "coords": [
+   41.11806,
+   1.25417
+  ],
+  "photos": [
+   {
+    "file": "File:Casa Ximenis, Tarragona-1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:463 Casa Ximenis, a la Via de l'Imperi Romà.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:465 Casa Ximenis, a la Via de l'Imperi Romà.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-gans",
+  "qid": "Q2525136",
+  "status": "photo",
+  "why": "Behrens already has several buildings on the wall, so a built work with a short lead is enough. Year 1931 is Wikidata's. Black-and-white archive photos; the interior photos are left out.",
+  "name": "Villa Gans",
+  "by": "Peter Behrens, Camillo Karl Schneider",
+  "city": "Kronberg im Taunus",
+  "cc": "DE",
+  "year": 1931,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "A protected grand residence above Kronberg im Taunus, by Peter Behrens with Camillo Karl Schneider.",
+  "commons_category": "Category:Villa Gans (Kronberg)",
+  "coords": [
+   50.1882,
+   8.4881
+  ],
+  "photos": [
+   {
+    "file": "File:Peter Behrens - Villa Gans in Kronberg (3).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Peter Behrens - Villa Gans in Kronberg (11).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Peter Behrens - Villa Gans in Kronberg (4).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rietveld-pavilion",
+  "qid": "Q29642218",
+  "status": "photo",
+  "why": "Rietveld already has several buildings on the wall. Year left empty: 1954 is the design year and the lead gives no completion date. Two daylight photos of the whole pavilion; the black-and-white photos left out.",
+  "name": "Rietveld Pavilion",
+  "by": "Gerrit Rietveld",
+  "city": "Otterlo",
+  "cc": "NL",
+  "year": null,
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Brise-soleil",
+   "Landscape"
+  ],
+  "features": "Rietveld's pavilion, first designed for the 1955 Sonsbeek show in Arnhem and moved to Otterlo in 1964.",
+  "commons_category": "Category:Rietveld Pavillion",
+  "coords": [
+   52.09663,
+   5.819
+  ],
+  "photos": [
+   {
+    "file": "File:Overzicht galerij aan de achter zijde en rechterzijde - Otterlo - 20357472 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rietveld Schroder Huis Kroller Muller Museum Otterlo, Holland - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aldo-van-eyck-pavilion",
+  "qid": "Q29642647",
+  "status": "photo",
+  "why": "Van Eyck already has four buildings on the wall. The lead names van Eyck as the designer, so Wikidata's Rietveld and van Rooijen are left out. Wikidata's 1954 is wrong (the lead says 1965), and no completion date is given, so year is empty.",
+  "name": "Aldo van Eyck Pavilion",
+  "by": "Aldo van Eyck",
+  "city": "Otterlo",
+  "cc": "NL",
+  "year": null,
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Modular",
+   "Landscape"
+  ],
+  "features": "Aldo van Eyck's pavilion in the Kröller-Müller sculpture park, designed in 1965 and there since 2005–2006.",
+  "commons_category": "Category:Aldo van Eyckpavillion",
+  "coords": [
+   52.09598,
+   5.82648
+  ],
+  "photos": [
+   {
+    "file": "File:Aldo van Eyck Pavillion.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Aldo van Eyckpaviljoen 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "henrik-ibsens-gate-48-oslo",
+  "qid": "Q29949470",
+  "status": "skip",
+  "why": "The lead is empty. The US Embassy in Oslo is by Saarinen, but with no lead there is nothing to describe it; Opus could add one."
+ },
+ {
+  "id": "haus-scheu",
+  "qid": "Q37998364",
+  "status": "photo",
+  "why": "Loos already has several buildings on the wall, and the lead says why this one matters (an early flat roof). Year 1913 from the lead (built 1912–1913). Daylight exterior photos; the interior lamp photo left out.",
+  "name": "Haus Scheu",
+  "by": "Adolf Loos",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1913,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Loos's Vienna house, one of the first modern buildings to use a flat roof.",
+  "commons_category": "Category:Haus Scheu",
+  "coords": [
+   48.1837,
+   16.29103
+  ],
+  "photos": [
+   {
+    "file": "File:Larochegasse 3, Haus Scheu, Adolf Loos.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haus Scheu, Adolf Loos.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Adolf Loos, 1912-1913, A1130 Wien, Larochegasse 3, Haus Scheu, p1.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "66-old-church-street-chelsea",
+  "qid": "Q4642194",
+  "status": "photo",
+  "why": "Gropius already has several buildings on the wall. The lead names the designers and their client; year 1936 is the end of the lead's 1935–1936 design period. Neighbour-house photo left out.",
+  "name": "66 Old Church Street, Chelsea",
+  "by": "Walter Gropius, Maxwell Fry",
+  "city": "London",
+  "cc": "GB",
+  "year": 1936,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Gropius and Fry's house for the politician and playwright Benn Levy, part of a joint scheme with Cohen House.",
+  "commons_category": "Category:66 Old Church Street, Chelsea",
+  "coords": [
+   51.48803,
+   -0.17408
+  ],
+  "photos": [
+   {
+    "file": "File:66 Old Church Street, Chelsea.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:66 Old Church Street 1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haus-auerbach",
+  "qid": "Q55065519",
+  "status": "photo",
+  "why": "Gropius already has several buildings on the wall, and the lead says why this one matters. Year 1924 from Wikidata and the 1924 photo caption. Sculpture garden and plaque photos left out.",
+  "name": "Haus Auerbach",
+  "by": "Walter Gropius, Adolf Meyer",
+  "city": "Jena",
+  "cc": "DE",
+  "year": 1924,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "Gropius and Meyer's 1924 house in Jena, Gropius's first built private house and the last he designed with Meyer.",
+  "commons_category": "Category:Haus Auerbach (Jena)",
+  "coords": [
+   50.9333,
+   11.5742
+  ],
+  "photos": [
+   {
+    "file": "File:Jena Villa Auerbach (01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haus Auerbach Ostseite.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jena Villa Auerbach (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "building-of-the-kunstmuseum-den-haag",
+  "qid": "Q65936118",
+  "status": "skip",
+  "why": "Already on the wall as Kunstmuseum Den Haag (Gemeentemuseum), by Berlage, 1935: the same building."
+ },
+ {
+  "id": "haus-riehl",
+  "qid": "Q99839577",
+  "status": "photo",
+  "why": "Mies already has many buildings on the wall; the lead names him as designer, so the 2001 restorer Folkerts is left out. Year 1909 is when the lead says it was inaugurated, not Wikidata's 1907. Daylight whole-house photos.",
+  "name": "Haus Riehl",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Potsdam",
+  "cc": "DE",
+  "year": 1909,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Mies van der Rohe's first work, a country house in Potsdam inaugurated in 1909.",
+  "commons_category": "Category:Haus Riehl",
+  "coords": [
+   52.40564,
+   13.10593
+  ],
+  "photos": [
+   {
+    "file": "File:Haus Riehl von Ludwig Mies, 2001 nach Instandsetzung von Folkerts Architekten.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mies van der Rohe - Haus Riehl (Westseite) - Babelsberg.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mies van der Rohe - Haus Riehl (Süd- u. Seeseite) - Babelsberg 2024.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "eiffel-building",
+  "qid": "Q10270223",
+  "status": "photo",
+  "why": "Niemeyer already has many buildings on the wall; the lead gives the reason and the dates (designed 1953, completed 1956). The view from another building is left out; the two street photos show the whole tower.",
+  "name": "Eiffel Building",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1956,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Facade as skin",
+   "Modular"
+  ],
+  "features": "Niemeyer's mixed-use tower in São Paulo's República district, a Brazilian take on Le Corbusier's Cartesian skyscraper.",
+  "commons_category": "Category:Edifício Eiffel",
+  "coords": [
+   -23.54418,
+   -46.64466
+  ],
+  "photos": [
+   {
+    "file": "File:Edifício Eiffel, Oscar Niemeyer (5878746304).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Eiffel, Oscar Niemeyer (5878187263).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "buffalo-city-hall",
+  "qid": "Q1001988",
+  "status": "photo",
+  "why": "Lead names both designers (Dietel and Wade), so Wikidata's Wade alone is widened. Year 1931 from the lead (completed 1931), not Wikidata's 1932. One photo; the McKinley monument is in the foreground, but the building is the subject.",
+  "name": "Buffalo City Hall",
+  "by": "George J. Dietel, John J. Wade",
+  "city": "Buffalo",
+  "cc": "US",
+  "year": 1931,
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Stone"
+  ],
+  "features": "Buffalo's 32-story Art Deco city hall, completed in 1931, one of the largest municipal buildings in the US.",
+  "commons_category": "Category:Buffalo City Hall",
+  "coords": [
+   42.88659,
+   -78.8793
+  ],
+  "photos": [
+   {
+    "file": "File:View of Buffalo City Hall (cropped).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jonson-gallery",
+  "qid": "Q106828547",
+  "status": "photo",
+  "why": "The lead names the architect and says why the building matters (a modern-art centre in a Pueblo Revival building). Year 1950 from the lead (completed 1950), not Wikidata's 1949.",
+  "name": "Jonson Gallery",
+  "by": "John Gaw Meem",
+  "city": "Albuquerque",
+  "cc": "US",
+  "year": 1950,
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "John Gaw Meem's Pueblo Revival home and gallery for the modernist painter Raymond Jonson, on a hillside.",
+  "commons_category": "Category:Jonson Gallery and House",
+  "coords": [
+   35.08694,
+   -106.62083
+  ],
+  "photos": [
+   {
+    "file": "File:Jonson Gallery and House, Albuquerque NM.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Unm johnsongallery.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "brooks-camp-boat-house",
+  "qid": "Q4974983",
+  "status": "skip",
+  "why": "An ordinary National Park Service log boathouse, with no architectural reason in the lead and no photos."
+ },
+ {
+  "id": "first-presbyterian-church",
+  "qid": "Q5453567",
+  "status": "skip",
+  "why": "A Romanesque Revival church with no architectural reason in the lead; the architects are not known enough to carry it, and the lead is about the seminary."
+ },
+ {
+  "id": "stewart-lee-udall-department-of-the-interior-building",
+  "qid": "Q6735987",
+  "status": "skip",
+  "why": "A government headquarters, an ordinary office type; the lead gives no architectural reason."
+ },
+ {
+  "id": "o-t-bassett-tower",
+  "qid": "Q7072173",
+  "status": "unsure",
+  "why": "An Art Deco tower, one of Henry Trost's last commissions, with a lead that gives a reason; but the Wikidata item has no photos at all.",
+  "name": "O. T. Bassett Tower",
+  "note": "no main photo"
+ },
+ {
+  "id": "rio-theatre",
+  "qid": "Q42617268",
+  "status": "photo",
+  "why": "The lead gives the style and its features (Moderne, neon, glass blocks), and the year is the opening date. Main photo is the whole facade, with the marquee as part of it.",
+  "name": "Rio Theatre",
+  "by": "Boller Brothers",
+  "city": "Overland Park",
+  "cc": "US",
+  "year": 1946,
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "A 1946 Moderne cinema in Overland Park, Kansas, with teal neon, glass blocks and aluminum trim.",
+  "commons_category": "Category:Overland Theater",
+  "coords": [
+   38.98416,
+   -94.66929
+  ],
+  "photos": [
+   {
+    "file": "File:Overland Theater.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stadthalle-hannover",
+  "qid": "Q1576239",
+  "status": "photo",
+  "why": "Bonatz already has a building on the wall (Stuttgart Hauptbahnhof), so a built work with a short lead is enough. Year 1914 from the lead (opened 1914). Dome-hall exterior photos; the old book plates and the interior left out.",
+  "name": "Stadthalle Hannover",
+  "by": "Paul Bonatz, Friedrich Eugen Scholer",
+  "city": "Hanover",
+  "cc": "DE",
+  "year": 1914,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Bonatz and Scholer's 1914 dome hall in Hanover, the largest concert hall for classical music in Germany.",
+  "commons_category": "Category:Hannover Congress Centrum",
+  "coords": [
+   52.37594,
+   9.76924
+  ],
+  "photos": [
+   {
+    "file": "File:Hannover Congress Centrum dome hall Theodor-Heuss-Platz Zoo Hannover Germany.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2026-01-11 Kuppelsaal im Schnee 0232.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "asilomar-conference-grounds",
+  "qid": "Q2976485",
+  "status": "photo",
+  "why": "Morgan already has a building on the wall (Hearst Castle); the lead gives the building count and dates. Year 1913 from the lead (the first buildings). Chapel interiors, the person photo and the guest room left out; the two exterior photos are used.",
+  "name": "Asilomar Conference Grounds",
+  "by": "Julia Morgan",
+  "city": "Pacific Grove",
+  "cc": "US",
+  "year": 1913,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Julia Morgan's conference grounds at Pacific Grove, where she designed 16 buildings from 1913 to 1929.",
+  "commons_category": "Category:Asilomar Conference Grounds",
+  "coords": [
+   36.61972,
+   -121.93139
+  ],
+  "photos": [
+   {
+    "file": "File:Oak Knoll - Asilomar State Beach - DSC03013.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Scripps - Asilomar State Beach - DSC03009.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-urbig",
+  "qid": "Q101647264",
+  "status": "photo",
+  "why": "Mies already has many buildings on the wall; the lead says it is a villa on Griebnitzsee. Year 1915 from Wikidata and the 1913–1915 caption. Only one photo of the villa; the Truman and Churchill photos are left out.",
+  "name": "Villa Urbig",
+  "by": "Ludwig Mies van der Rohe",
+  "city": "Potsdam",
+  "cc": "DE",
+  "year": 1915,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Mies van der Rohe's 1913–1915 villa on Griebnitzsee in Potsdam, once a villa colony.",
+  "commons_category": "Category:Villa Urbig",
+  "coords": [
+   52.39982,
+   13.11838
+  ],
+  "photos": [
+   {
+    "file": "File:2025-05-01-Villa-Urbig-Virchowstr-Potsdam-Babelsberg.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-institute-for-technical-education-leuven",
+  "qid": "Q115679370",
+  "status": "photo",
+  "why": "Van de Velde already has several buildings on the wall. The lead names the convent site and the school (1937 to 1984) but no date for this building, and Wikidata's 1942 is unconfirmed, so year is empty. Whether this building is the library is taken from the lead's wording; Opus should check. Interior photos left out.",
+  "name": "National Institute for Technical Education Leuven",
+  "by": "Henry van de Velde",
+  "city": "Leuven",
+  "cc": "BE",
+  "year": null,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Steel & glass",
+   "Modular"
+  ],
+  "features": "Henry van de Velde's technical school in Leuven, on a former convent site; now the Tweebronnen library.",
+  "commons_category": "Category:Diestsestraat 49, Rijschoolstraat 4, Leuven",
+  "coords": [
+   50.88079,
+   4.70377
+  ],
+  "photos": [
+   {
+    "file": "File:Rijschoolstraat 4 (Leuven).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:De technische school Van de Velde , ext., gevelzicht - 354894 - onroerenderfgoed.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "vakantiehuisjes-rietveld",
+  "qid": "Q1847482",
+  "status": "photo",
+  "why": "Rietveld already has several buildings on the wall. The lead says six were built in Markelo and one now stands at the Arnhem open-air museum, so the city is Arnhem. The lead gives no coordinates, so none. Info boards and the interior left out.",
+  "name": "Vakantiehuisjes (Rietveld)",
+  "by": "Gerrit Rietveld",
+  "city": "Arnhem",
+  "cc": "NL",
+  "year": 1951,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Prefabrication",
+   "Modular",
+   "Timber"
+  ],
+  "features": "One of six Rietveld cottages of 1951 for factory staff; one was moved to the Arnhem open-air museum.",
+  "commons_category": "Category:Vakantiehuisjes (Rietveld)",
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:2025-04-23 Arnhem Openluchtmuseum 220.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2025-04-23 Arnhem Openluchtmuseum 221.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palazzo-degli-affari",
+  "qid": "Q3891171",
+  "status": "photo",
+  "why": "Mollino already has a building on the wall (Teatro Regio), and the lead names the bold structure as the reason it matters. Year 1972 from Wikidata. Two daylight facade photos; the detail and the centre photo left out.",
+  "name": "Palazzo degli Affari",
+  "by": "Carlo Mollino",
+  "city": "Turin",
+  "cc": "IT",
+  "year": 1972,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Carlo Mollino's Turin chamber of commerce offices, a bold structural solution set against its surroundings.",
+  "commons_category": "Category:Palazzo degli Affari (Turin)",
+  "coords": [
+   45.06519,
+   7.68649
+  ],
+  "photos": [
+   {
+    "file": "File:Sede camera commercio torino progetto mollino graffi galardi migliasso 01 facciata valdo fusi.png",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sede camera commercio torino prog mollino graffi galardi migliasso 03 facciata via nino costa.png",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "marcel-breuer-house-at-pocantico",
+  "qid": "Q55065594",
+  "status": "unsure",
+  "why": "Marcel Breuer's MoMA house, moved to Pocantico in 1950, but all three photos are archive drawings, not photographs of the house.",
+  "name": "Marcel Breuer House at Pocantico",
+  "note": "no main photo"
+ },
+ {
+  "id": "waldsangerpfad-3",
+  "qid": "Q61768521",
+  "status": "skip",
+  "why": "The lead is empty. The house is by Behrens, but with no lead there is nothing to describe it; Opus could add one."
+ },
+ {
+  "id": "stillman-house-i",
+  "qid": "Q7617254",
+  "status": "photo",
+  "why": "Breuer already has many buildings on the wall; the lead gives the design and the site history. Year 1951 from Wikidata (lead gives design 1950). Daylight exterior photos.",
+  "name": "Stillman House I",
+  "by": "Marcel Breuer",
+  "city": "Litchfield",
+  "cc": "US",
+  "year": 1951,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Breuer's 1950 house in Litchfield, one of three Breuer commissions on the site; its pool wall has a Calder mural.",
+  "commons_category": "Category:Stillman House",
+  "coords": [
+   41.7542,
+   -73.1885
+  ],
+  "photos": [
+   {
+    "file": "File:Back 3 Stillman House 2013-09-14 18-59.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Back 2013-09-14 18-55.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Back 4 Stillman House 2013-09-14 19-12.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hooper-house-baltimore-county-maryland",
+  "qid": "Q14691989",
+  "status": "skip",
+  "why": "Already on the wall as Hooper House II (Marcel Breuer, 1959): the same house."
+ },
+ {
+  "id": "byzantium",
+  "qid": "Q21980990",
+  "status": "photo",
+  "why": "Koolhaas's office designed it, and the lead names Christiaanse and Steiner as the executing architects. Year left empty: Wikidata's 1985 is before the 1988 competition in the lead, and no completion date is given. Mixed-use complex, so a judgement call for Opus.",
+  "name": "Byzantium",
+  "by": "Rem Koolhaas, Kees Christiaanse, Ron Steiner",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": null,
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Koolhaas's OMA complex on Amsterdam's Stadhouderskade: housing, offices and parking, one of the largest buildings in the city when opened.",
+  "commons_category": null,
+  "coords": [
+   52.36204,
+   4.88051
+  ],
+  "photos": [
+   {
+    "file": "File:ByzantiumStadhouderskade-1a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maison-wolfers",
+  "qid": "Q29562993",
+  "status": "skip",
+  "why": "The lead is empty. The house is by Van de Velde, but with no lead there is nothing to describe it; Opus could add one."
+ },
+ {
+  "id": "padiglione-portoghesi",
+  "qid": "Q55647516",
+  "status": "skip",
+  "why": "The lead is empty. The pavilion is by Portoghesi, but with no lead there is nothing to describe it; Opus could add one."
+ },
+ {
+  "id": "hara-museum-arc",
+  "qid": "Q60400398",
+  "status": "skip",
+  "why": "The lead is empty. The museum is by Isozaki, but with no lead there is nothing to describe it; Opus could add one."
+ },
+ {
+  "id": "montreal-building",
+  "qid": "Q10270246",
+  "status": "unsure",
+  "why": "Niemeyer's first large São Paulo block, but no photo shows the whole building: the aerial and street views show the city, and the others are close-ups of the curved facade.",
+  "name": "Montreal Building",
+  "note": "no main photo"
+ },
+ {
+  "id": "st-fronleichnam",
+  "qid": "Q62587785",
+  "status": "photo",
+  "why": "Böhm already has two buildings on the wall. The lead gives the build period 1958 to 1960, so the year is 1960 (completed). Whole-church daylight photos; the spire and tower details left out.",
+  "name": "St. Fronleichnam",
+  "by": "Gottfried Böhm",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1960,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "Gottfried Böhm's church in Cologne-Porz, built 1958–1960 and a listed monument since 1997.",
+  "commons_category": "Category:St. Fronleichnam (Köln-Porz)",
+  "coords": [
+   50.88808,
+   7.06597
+  ],
+  "photos": [
+   {
+    "file": "File:St. fronleichnam koeln porz urbach 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Fronleichnam, Köln-Porz-7132.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Fronleichnam, Köln-Porz-7130.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "barclayvesey-building",
+  "qid": "Q1983213",
+  "status": "photo",
+  "why": "The lead gives the design, Walker's first major commission and its place among the first Art Deco skyscrapers. Year 1927 is the end of the lead's 1923–1927 build. Only the street photo is of the building; the rest show the city or the 2001 attack.",
+  "name": "Barclay–Vesey Building",
+  "by": "Ralph Thomas Walker",
+  "city": "New York",
+  "cc": "US",
+  "year": 1927,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Light & shadow"
+  ],
+  "features": "Ralph Walker's Art Deco tower in Lower Manhattan, his first major commission and one of the first Art Deco skyscrapers.",
+  "commons_category": "Category:Barclay–Vesey Building",
+  "coords": [
+   40.71375,
+   -74.01292
+  ],
+  "photos": [
+   {
+    "file": "File:Barclay-Vesey Building 140 West Street.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bahai-house-of-worship",
+  "qid": "Q4843063",
+  "status": "photo",
+  "why": "The lead names the architect and says why it matters (second and oldest surviving temple, a deliberate mix of religious symbols). Year 1951 from the lead (completed 1951; dedicated 1953). Night and dusk photos and the three-exposure composite left out.",
+  "name": "Baháʼí House of Worship",
+  "by": "Louis Bourgeois",
+  "city": "Wilmette",
+  "cc": "US",
+  "year": 1951,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Louis Bourgeois's temple in Wilmette, the second Baháʼí House of Worship built and the oldest one still standing.",
+  "commons_category": "Category:Bahá'í House of Worship in Wilmette",
+  "coords": [
+   42.07444,
+   -87.6843
+  ],
+  "photos": [
+   {
+    "file": "File:Baha'i Temple - Wilmette, IL.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bahá'í House of Worship Wilmette Illinois 2021-2702.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-churchill-museum",
+  "qid": "Q16895670",
+  "status": "skip",
+  "why": "A Churchill memorial museum in a church taken down in London and rebuilt in Missouri: a memorial and a rebuilt church, not a building in its own right."
+ }
+]
