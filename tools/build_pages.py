@@ -253,16 +253,29 @@ DOCK = ('<nav class="dock" data-nosnippet aria-label="Browse"><a href="{up}">Hom
         '<a class="go" href="{up}#surprise">Surprise me</a></nav>')
 HEAD = HEAD.replace('{topbar}', TOPBAR.replace('{', '{{').replace('}', '}}').replace('{{up}}', '{up}'))
 
+# The legal links and who runs the site, at the foot of every page (owner, 21 Oct 2026, for the Dodo Payments review).
+# The same lines are in architect_pages.py and hub_pages.py (through legal_foot), tools/studio/gen.py, site/index.html,
+# site/play/index.html and the hand-written pages (terms, privacy, pricing, refunds, contact).
+LEGAL = ('<p class="legal-links"><a href="{up}pricing/">Pricing</a> · <a href="{up}terms/">Terms</a> · '
+         '<a href="{up}privacy/">Privacy</a> · <a href="{up}refunds/">Refunds</a> · <a href="{up}contact/">Contact</a></p>'
+         '<p>Find Great Architecture · run by Akshat Pagaria · India</p>')
+
+
+def legal_foot(up):
+    return LEGAL.replace('{up}', up)
+
+
 FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons; a few historic drawings and photos come from the Art Institute of Chicago (public domain).</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
   <p><a href="{up}studio/?ref=footer">FGA Studio: make an architecture presentation board from your own drawings →</a></p>
+  {legal}
 </footer>
 {dock}
 </body>
 </html>
 """
-FOOT = FOOT.replace('{dock}', DOCK)
+FOOT = FOOT.replace('{dock}', DOCK).replace('{legal}', LEGAL)
 
 
 def about_block(b):
@@ -307,6 +320,7 @@ def home_block(items):
             f'Short building videos on <a href="https://www.youtube.com/@findgreatarchitecture" rel="noopener">YouTube</a>.</p>\n'
             f'{hub_links()}'
             f'  <h3>Most looked-up buildings</h3>\n  <ol>{"".join(row(b) for b in top)}</ol>\n'
+            f'  <div class="about-legal">{legal_foot("")}</div>\n'
             f'</section>')
 
 
