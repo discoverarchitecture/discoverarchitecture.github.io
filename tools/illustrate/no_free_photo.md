@@ -88,6 +88,9 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | İpekyol Textile Factory | Emre Arolat | 2006 | Edirne, TR | No Commons files found (not in Category:Buildings by Emre Arolat either). Sources describe one mass with concrete walls, a light steel roof, linear gardens between sections and coffered facades with open and closed zones, but give no elevation, height or skylight layout, so I didn't draw it. |
 | Disney Ice (Anaheim Ice) | Frank Gehry | 1995 | Anaheim, US | lead photo didn't show the building; see recheck.md |
 | Kalita Humphreys Theater | Frank Lloyd Wright | 1959 | Dallas, US | no main photo: the only exterior in its Commons category is a rainy 1962 black-and-white photo (KHTPre62-1.jpg, PD, 1806x1788) with a car in front; reviewer may accept it as a historic lead |
+| Kraus House | Frank Lloyd Wright | 1955 | Kirkwood, US | Haiku pool 2 photo review: every photo shows the house behind trees and a wall |
+| One International Place | Johnson/Burgee Architects | 1987 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Tanabe Art Museum | Kiyonori Kikutake | 1979 | Matsue, JP | no free photo found in the Commons category (it returned no files). |
 | Palais Bulles | Antti Lovag | 1989 | Théoule-sur-Mer, FR | lead photo didn't show the building; see recheck.md |
 | CMA CGM Tower | Zaha Hadid Architects | 2011 | Marseille, FR | lead photo still didn't show the building (Oct 13 review) |
 | Sainte-Bernadette du Banlay | Claude Parent, Paul Virilio | 1966 | Nevers, FR | No files on Commons at all (a strong drawing candidate). Sources confirm two interlocking concrete shells cantilevered over a central pillar, a big overhang on the facade, opaque walls with small porthole-like openings and light from a central split, but none gives the profile of the shells or the roof; the detailed pages (WikiArquitectura, CAUE 58) couldn't be reached. A trial drawing came out as a guess, so I removed it. |
@@ -338,7 +341,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | 500 Boylston Street | Johnson/Burgee Architects | 1989 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Niagara Falls Public Library | Paul Rudolph | 1974 | Niagara Falls, US | Coordinates check 15 Oct: photos come from the Niagara Falls Public Library in Ontario, not Paul Rudolph's library in New York |
 | Olympic Tower | Skidmore, Owings & Merrill | 1974 | New York, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
-| One International Place | Johnson/Burgee Architects | 1987 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Temple Emanuel | William Bernoudy | 1962 | Creve Coeur, US | round 7 review: only photo is into the sun; the others show a different building |
 | Blue Cross-Blue Shield Building | C. F. Murphy Associates | 1968 | Chicago, US | round 7b review: lead photo is not clearly this building; others are skyline views |
 | Highfield House | Ludwig Mies van der Rohe | 1964 | Baltimore, US | round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower |
@@ -382,7 +384,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Rhodes Memorial | Herbert Baker | 1912 | Cape Town, ZA | round 7-8 recheck 15 Oct: only the view down its steps, not the memorial |
 | Oita Stadium (Big Eye) | Kisho Kurokawa | 2001 | Oita, JP | round 7-8 recheck 15 Oct: only one small far photo |
 | Cheongju National Museum | Kim Swoo-geun | 1987 | Cheongju, KR | no free photo: the only file in the Commons category is an interior under KOGL Type 1. The Kim Swoo-geun article dates the building 1979; the museum article says it opened in 1987. |
-| Tanabe Art Museum | Kiyonori Kikutake | 1979 | Matsue, JP | no free photo found in the Commons category (it returned no files). |
 | Troy Museum | Yalın Mimarlık | 2018 | Çanakkale, TR | round 8 review: no exterior photo, only galleries inside |
 | TCDD General Headquarters Building | Bedri Uçar | 1941 | Ankara, TR | no free photo. Lead image is Free Art License, not allowed; no other photo checked. Movement label is a judgement (article calls the style grandiose, linked to fascist architecture). |
 | Istanbul University Faculty of Arts and Sciences Building | Sedad Hakkı Eldem, Emin Halid Onat | 1944 | Istanbul, TR | no free photo. No lead image; Commons category search found nothing. Not photo-checked further. |
