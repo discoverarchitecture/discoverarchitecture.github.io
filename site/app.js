@@ -1161,3 +1161,26 @@
   if (h0) openAny(h0.id, h0.surprise, true); else openFromHash();
   state.booting = false;
 })();
+
+// The AI jury presentation generator: on a computer the button in the name panel goes straight to FGA Studio (/studio/);
+// on a phone it opens a sheet that leads there. Pressing it is counted as the event studio/ai-button, and following
+// the sheet's link as studio/ai-link.
+(function () {
+  const btn = document.getElementById('aiBtn'), pop = document.getElementById('aiPop'), veil = document.getElementById('aiVeil');
+  if (!btn || !pop) return;
+  const phone = () => matchMedia('(max-width: 820px)').matches;
+  function show(open) {
+    pop.hidden = !open; veil.hidden = !open || !phone(); btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) { pop.querySelector('.ai-go').focus({ preventScroll: true }); if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI jury presentation generator'); }
+  }
+  btn.addEventListener('click', () => {
+    if (phone()) return show(pop.hidden);
+    if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI jury presentation generator');
+    setTimeout(() => { location.href = pop.querySelector('.ai-go').href; }, 150); // a moment for the count to leave
+  });
+  pop.querySelector('.ai-go').addEventListener('click', () => { if (window.fgaEvent) fgaEvent('studio/ai-link', 'AI panel: See FGA Studio'); });
+  document.getElementById('aiClose').addEventListener('click', () => { show(false); btn.focus(); });
+  veil.addEventListener('click', () => show(false));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden) { show(false); btn.focus(); } });
+  document.addEventListener('click', e => { if (!pop.hidden && !pop.contains(e.target) && !btn.contains(e.target)) show(false); });
+})();

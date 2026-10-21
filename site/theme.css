@@ -36,6 +36,9 @@
   --glass-shadow: 0 8px 28px rgba(0,0,0,.14), inset 0 1px 0 rgba(255,255,255,.35);
   --go-soft: #E3F4E8; --go-soft-2: #D2EEDB; --go-edge: #A9D9B8; --go-ink: #14532D;  /* the light green game button */
   --feat: #E7DFCF;          /* the featured book's band, unless the book sets its own */
+  /* the AI jury presentation generator button: a slowly turning rainbow rim and a sweep of light (v29 · 01 A) */
+  --ai-1: #DA3A26; --ai-2: #F59E0B; --ai-3: #EC4899; --ai-4: #8B5CF6; --ai-5: #3B82F6; --ai-6: #14B8A6;
+  --ai-sheen: rgba(255,255,255,.85); --ai-glow: rgba(139,92,246,.22); --ai-veil: rgba(17,17,16,.32);
   color-scheme: light;
 }
 :root[data-night] {
@@ -70,6 +73,8 @@
   --glass-shadow: 0 8px 28px rgba(0,0,0,.4), inset 0 1px 0 rgba(255,255,255,.08);
   --go-soft: #12301D; --go-soft-2: #17402A; --go-edge: #1F5A33; --go-ink: #BBF7D0;
   --feat: #1E1E1C;
+  --ai-1: #F0563F; --ai-2: #FBBF24; --ai-3: #F472B6; --ai-4: #A78BFA; --ai-5: #60A5FA; --ai-6: #2DD4BF;
+  --ai-sheen: rgba(255,255,255,.18); --ai-glow: rgba(167,139,250,.28); --ai-veil: rgba(0,0,0,.5);
   color-scheme: dark;
 }
 

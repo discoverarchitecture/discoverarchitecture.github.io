@@ -1,0 +1,131 @@
+[
+ {
+  "id": "selimiye-mosque",
+  "add": [
+   "File:Edirne Selimiye Mosque Plan in 2003 4454.jpg"
+  ],
+  "kinds": {
+   "File:Edirne Selimiye Mosque Plan in 2003 4454.jpg": "Plan"
+  },
+  "why": "Clear scanned floor plan of the Selimiye Mosque with legend."
+ },
+ {
+  "id": "hospital-de-sant-pau",
+  "add": [
+   "File:SantPau-EsboçOriginal-102sh.jpg"
+  ],
+  "kinds": {
+   "File:SantPau-EsboçOriginal-102sh.jpg": "Sketch"
+  },
+  "why": "Domenech i Montaner's original sketch of the site layout (bird's-eye plan of the pavilions); Commons category Site plans of Spain."
+ },
+ {
+  "id": "petit-palais",
+  "add": [
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(13).jpg",
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(4).jpg",
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(14).jpg"
+  ],
+  "kinds": {
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(13).jpg": "Section",
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(4).jpg": "Elevation",
+   "File:Exposition universelle de 1900. Projets approuvés par Monsieur le Ministre du Commerce, de l'Industrie - Plan d'ensemble, PPL80(14).jpg": "Elevation"
+  },
+  "why": "Girault's 1900 Exposition Universelle project drawings of the Petit Palais: transverse section, principal facade, lateral facade. Twins PPL80(5)/(12) of the principal facade and the two-view sheet (6) left out."
+ },
+ {
+  "id": "price-tower",
+  "add": [
+   "File:Second Floor Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 5 of 17).tif",
+   "File:Section, and Light, Louver, and Spire Details - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 17 of 17).tif",
+   "File:Site Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 2 of 17).tif",
+   "File:East Elevation - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 12 of 17).tif"
+  ],
+  "kinds": {
+   "File:Second Floor Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 5 of 17).tif": "Plan",
+   "File:Section, and Light, Louver, and Spire Details - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 17 of 17).tif": "Section",
+   "File:Site Plan - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 2 of 17).tif": "Plan",
+   "File:East Elevation - Price Tower, 510 South Dewey Avenue, Bartlesville, Washington County, OK HABS OK-67 (sheet 12 of 17).tif": "Elevation"
+  },
+  "why": "HABS OK-67 measured drawings: second floor plan, section with spire details, site plan, east elevation. Basement plan and north elevation left out for the 4 limit."
+ },
+ {
+  "id": "darwin-d-martin-house",
+  "add": [
+   "File:D. D. Martin House site plan - HABS NY,15-BUF,5-.gif",
+   "File:Historic American Buildings Survey, Plate - 55, 'Wohnhaus Martin, Buffalo, N. Y. Grundrisse des Haupt und Obergeschosses' in Frank Lloyd Wright Ausgefuhrte Bauten (Berlin- Ernst HABS NY,15-BUF,5-15.tif"
+  ],
+  "kinds": {
+   "File:D. D. Martin House site plan - HABS NY,15-BUF,5-.gif": "Plan",
+   "File:Historic American Buildings Survey, Plate - 55, 'Wohnhaus Martin, Buffalo, N. Y. Grundrisse des Haupt und Obergeschosses' in Frank Lloyd Wright Ausgefuhrte Bauten (Berlin- Ernst HABS NY,15-BUF,5-15.tif": "Plan"
+  },
+  "why": "HABS site/ground plan of the whole Martin complex (clean gif) and the Wasmuth plate of main and upper floor plans. The photographed twin of the site plan (Plate 44, d1) and the three HABS photos (d4-d6) left out."
+ },
+ {
+  "id": "antwerpen-centraal-station",
+  "add": [
+   "File:Detailed construction sketch; cross-section of the railway hall (platform roof) of the \"Antwerp Central\" (Antwerpen-Centraal) railway station.tif"
+  ],
+  "kinds": {
+   "File:Detailed construction sketch; cross-section of the railway hall (platform roof) of the \"Antwerp Central\" (Antwerpen-Centraal) railway station.tif": "Section"
+  },
+  "why": "Construction cross-section of the platform hall roof of Antwerp Central."
+ },
+ {
+  "id": "goetheanum",
+  "add": [
+   "File:Zweites Goetheanum - Riss des Grossen Saals.jpg"
+  ],
+  "kinds": {
+   "File:Zweites Goetheanum - Riss des Grossen Saals.jpg": "Plan",
+   "File:Wandtafelbild - Gotheanum-Motiv (1924).jpg": "Sketch"
+  },
+  "why": "Plan of the second Goetheanum's Great Hall; Steiner's own blackboard sketch of the idea for the second Goetheanum (1 Jan 1924), abstract in colour and doubtful for readability."
+ },
+ {
+  "id": "unity-temple",
+  "add": [
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 4 of 7).png",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 1 of 7).tif",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 2 of 7).png",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 3 of 7).png"
+  ],
+  "kinds": {
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 4 of 7).png": "Plan",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 1 of 7).tif": "Plan",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 2 of 7).png": "Elevation",
+   "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 3 of 7).png": "Elevation"
+  },
+  "why": "HABS ILL,16-OAKPA,3 measured drawings: floor plan (sheet 4), site plan (sheet 1), elevations (sheets 2 and 3); png versions kept, tif twins dropped."
+ },
+ {
+  "id": "semperoper",
+  "add": [
+   "File:DD Oper Grundriss.tiff",
+   "File:Die Bauten von Dresden (1878) Illustrationsseite 136a.jpg",
+   "File:Die Bauten von Dresden (1878) Illustrationsseite 134a.jpg"
+  ],
+  "kinds": {
+   "File:DD Oper Grundriss.tiff": "Plan",
+   "File:Die Bauten von Dresden (1878) Illustrationsseite 136a.jpg": "Section",
+   "File:Die Bauten von Dresden (1878) Illustrationsseite 134a.jpg": "Elevation"
+  },
+  "why": "Clean plan, longitudinal section and facade of Semper's 1878 Hoftheater (the present building) from Die Bauten von Dresden (1878). Book-page photos of the same sheets (d2, d3, d4) left out."
+ },
+ {
+  "id": "villa-la-rotonda",
+  "add": [
+   "File:Palladio Rotonda planta Scamozzi 1778 (23547396).jpg",
+   "File:Progetto per Villa Almerico Capra, 1570 - Archivio Accademia delle Scienze Torino, Millon 64 05 093.jpg",
+   "File:Vicenza. La Rotonda. northwest elevation and section along the northeast-southwest axis 2007 - Touring Club Italiano GR Veneto@0339.tif",
+   "File:Palladio Rotonda seccion Scamozzi 1778.jpg"
+  ],
+  "kinds": {
+   "File:Palladio Rotonda planta Scamozzi 1778 (23547396).jpg": "Plan",
+   "File:Progetto per Villa Almerico Capra, 1570 - Archivio Accademia delle Scienze Torino, Millon 64 05 093.jpg": "Plan",
+   "File:Vicenza. La Rotonda. northwest elevation and section along the northeast-southwest axis 2007 - Touring Club Italiano GR Veneto@0339.tif": "Section",
+   "File:Palladio Rotonda seccion Scamozzi 1778.jpg": "Section"
+  },
+  "why": "Palladio-based plan (Scamozzi 1778), Palladio's 1570 plate with plan and elevation, a modern measured section and Scamozzi's section (752 px, small but clear). Fletcher page (d3) and 553 px plate (d4) left out."
+ }
+]
