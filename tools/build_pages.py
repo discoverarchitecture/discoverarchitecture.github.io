@@ -92,8 +92,11 @@ DESC_MAX = 155   # and a description at about 155
 
 def lead(b):
     """The first architect named, for a title: 'Arthur Erickson (Erickson/Massey Architects)' -> 'Arthur Erickson',
-    'Giuseppe Terragni, Pietro Lingeri' -> 'Giuseppe Terragni'. The full credit is on the page."""
-    return re.split(r',| and | & |;', re.sub(r'\s*\(.*?\)', '', b['by']))[0].strip()
+    'Giuseppe Terragni, Pietro Lingeri' -> 'Giuseppe Terragni'. A firm of surnames ('McKim, Mead & White',
+    'Skidmore, Owings & Merrill') stays whole. The full credit is on the page."""
+    by = re.sub(r'\s*\(.*?\)', '', b['by'])
+    firm = re.match(r"[A-Z][\w'’.-]+(?:, [A-Z][\w'’.-]+)+,? (?:&|and) [A-Z][\w'’.-]+\b", by)
+    return firm.group(0) if firm else re.split(r',| and | & |;', by)[0].strip()
 
 
 def title(b):
@@ -107,10 +110,13 @@ def title(b):
     else:
         full, short = ('photos, plans & key features', 'photos & plans') if has_drawings(b) else ('photos & key features', 'photos')
     names = [name] + ([re.sub(r'\s*\(.*?\)', '', name)] if '(' in name else [])
+    whos = [who] + ([re.split(r',| and | & ', who)[0]] if ',' in who else [])   # a long firm falls back to its first name
     options = []
     for n in names:
-        by = '' if anonymous(b) else f' by {who}'
-        options += [f'{n}{by}, {year}: {full}', f'{n}{by}: {full}', f'{n}{by}: {short}', f'{n}{by}', f'{n}: {short}']
+        for w in whos:
+            by = '' if anonymous(b) else f' by {w}'
+            options += [f'{n}{by}, {year}: {full}', f'{n}{by}: {full}', f'{n}{by}: {short}', f'{n}{by}']
+        options.append(f'{n}: {short}')
     return next((o for o in options if len(o) <= TITLE_MAX), names[-1])
 
 

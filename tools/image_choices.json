@@ -28407,5 +28407,1623 @@
   "drawings": [
    "File:Plan of Medresa (c.1830) - TIMEA.jpg"
   ]
+ },
+ "exelon-pavilions": {
+  "category": "Category:Exelon Pavilions",
+  "add": [
+   "File:Southwest Exelon Pavilion.jpg",
+   "File:20080602 Southwest Exelon Pavilion.jpg"
+  ]
+ },
+ "winslow-house-river-forest-illinois": {
+  "category": "Category:William H. Winslow House",
+  "add": [
+   "File:William H. Winslow House Front Facade.jpg",
+   "File:Winslow, William H House and Stable.JPG"
+  ]
+ },
+ "villa-tammekann": {
+  "add": [
+   "File:Villa Tammekann, Tartu, Estonia.jpg"
+  ]
+ },
+ "bigo-genoa": {
+  "category": "Category:Grande Bigo of Genoa",
+  "add": [
+   "File:20160814 027 Genova - Genua - Porto Antico (29049889901).jpg",
+   "File:Bigo.jpg",
+   "File:Winda bigo 1.jpg"
+  ],
+  "skip": [
+   "File:Bigo panel.jpg"
+  ]
+ },
+ "brasilia-digital-tv-tower": {
+  "category": "Category:Torre de TV Digital de Brasília",
+  "add": [
+   "File:Torre de TV Digital.JPG",
+   "File:Torre de TV Digital de Brasilia. (15345189027).jpg",
+   "File:Torre de TV Digital de Brasilia. (15345596090).jpg"
+  ],
+  "skip": [
+   "File:Roberto Castro Torre de TV Digital Brasília DF (40908827661).jpg",
+   "File:Panorama Praça dos Três Poderes - Torre TV - Eixo Monumental BSB 07 2014 9910.jpg",
+   "File:Panorama Lago Norte & Eixo Monumental BSB 07 2014 9908.jpg",
+   "File:Panorama Lago Norte & Plano Piloto BSB 07 2014 9921.jpg"
+  ]
+ },
+ "central-saint-giles": {
+  "category": "Category:Central Saint Giles (London)",
+  "add": [
+   "File:London (5258879642).jpg",
+   "File:Central St. Giles Court 3.jpg"
+  ],
+  "skip": [
+   "File:Central Saint Giles Office Building - Holborn - sculpture - ob 08.jpg",
+   "File:William by Rebecca Warren, Central St Giles, London.jpg"
+  ]
+ },
+ "cleveland-clinic-lou-ruvo-center-for-brain-health": {
+  "category": "Category:Lou Ruvo Center for Brain Health",
+  "add": [
+   "File:Lou Ruvo Center - South West Corner - 2010-12-10.JPG"
+  ],
+  "skip": [
+   "File:Clark County Government Center.png"
+  ]
+ },
+ "thomas-h-gale-house": {
+  "category": "Category:Thomas H. Gale House",
+  "add": [
+   "File:Oak Park Il Thomas Gale House2.jpg",
+   "File:Thomas H. Gale House (7417325784).jpg",
+   "File:Thomas H. Gale House (706409343).jpg"
+  ]
+ },
+ "gunma-insect-world": {
+  "category": "Category:Gunma Insect World",
+  "add": [
+   "File:Glasshouse of Gunma Insect World.jpg"
+  ],
+  "skip": [
+   "File:TANAKA Juuyoh - Orange Tiger (by).jpg",
+   "File:A road for walk at Gunma Insect World.jpg",
+   "File:Japanese rhinoceros beetle at Gunma Insect World.jpg"
+  ]
+ },
+ "centro-internacional-de-ferias-y-congresos-de-tenerife": {
+  "category": "Category:Centro Internacional de Ferias y Congresos (Santa Cruz de Tenerife)",
+  "add": [
+   "File:Congresos 03.jpg",
+   "File:At Tenerife 2020 837.jpg",
+   "File:At Tenerife 2020 819.jpg"
+  ]
+ },
+ "kimmel-center-for-the-performing-arts": {
+  "category": "Category:Kimmel Center for the Performing Arts",
+  "add": [
+   "File:Kimmel Center for the Performing Arts (53587020645).jpg"
+  ],
+  "skip": [
+   "File:Kimmel Center interior.jpg"
+  ]
+ },
+ "guell-pavilions": {
+  "category": "Category:Pavellons Güell",
+  "add": [
+   "File:Pavellons Finca Güel.jpg",
+   "File:Barcelona 3695.JPG"
+  ]
+ },
+ "albany-city-hall": {
+  "category": "Category:Albany City Hall",
+  "add": [
+   "File:AlbanyNYCityHall.jpg",
+   "File:Rear of Albany City Hall and Corning Park.jpg"
+  ]
+ },
+ "pavilion-of-human-passions": {
+  "category": "Category:Temple of Human Passions",
+  "add": [
+   "File:Belgique - Bruxelles - Pavillon des Passions humaines - 01.jpg",
+   "File:Paviljoen der Menselijke Driften 17.jpg",
+   "File:Pavillon des Passions Humaines (14032842272).jpg"
+  ],
+  "skip": [
+   "File:Pavilion of the Human Passions (door) - Jef Lambeaux.jpg"
+  ]
+ },
+ "miyazaki-prefectural-museum-of-nature-and-history": {
+  "category": "Category:Miyazaki Prefectural Museum of Nature and History",
+  "add": [
+   "File:Miyazaki Miyazaki Prefectural Museum 1.jpg",
+   "File:Miyazaki Prefectural Museum of Nature and History 20170319.jpg"
+  ],
+  "skip": [
+   "File:Garden of Miyazaki Prefectural Museum of Nature and History.jpg"
+  ]
+ },
+ "400-west-market": {
+  "category": "Category:AEGON Center",
+  "add": [
+   "File:AegonCtr2030.JPG",
+   "File:AEGON Center.JPG"
+  ],
+  "skip": [
+   "File:AegonCtr2033.JPG"
+  ]
+ },
+ "curve-theatre": {
+  "category": "Category:Curve (theatre)",
+  "add": [
+   "File:Curve Leicester full panorama.jpg",
+   "File:Curve, Leicester - 5 September 2026.jpg"
+  ],
+  "skip": [
+   "File:Leicester Pride 2026 - Orton Square (3) - 5 September 2026.jpg"
+  ]
+ },
+ "hagia-sophia-hurrem-sultan-bathhouse": {
+  "category": "Category:Haseki Hürrem Sultan Hamamı",
+  "add": [
+   "File:Bath of Roxelane Istanbul 2007.jpg",
+   "File:20180115 HagiaSophia 7955 (25291143197).jpg"
+  ],
+  "skip": [
+   "File:Baths of Roxelana (5989180544).jpg"
+  ]
+ },
+ "trinity-church-boston": {
+  "category": "Category:Trinity Church, Boston",
+  "add": [
+   "File:Trinity Church, Boston, Massachusetts - front oblique view.JPG",
+   "File:H. H. Richardson - Boston, MA - Trinity Church (J).jpg"
+  ],
+  "skip": [
+   "File:Phillips Brooks Monument, Trinity Church, Boston, Massachusetts.jpg"
+  ]
+ },
+ "juma-jami-mosque": {
+  "category": "Category:Juma-Jami Mosque in Yevpatoria",
+  "add": [
+   "File:Eupatoria 04-14 img12 Juma Jami Mosque.jpg",
+   "File:2021. Евпатория PANO 20210722 185802.jpg"
+  ]
+ },
+ "sokollu-mehmed-pasha-mosque-kadirga": {
+  "category": "Category:Sokollu Mehmet Pasha Mosque",
+  "add": [
+   "File:Sokollu Mehmet Pasha Camii exterior.jpg",
+   "File:Istanbul Sokollu Mehmet Pasha mosque december 2015 5249.jpg"
+  ]
+ },
+ "zal-mahmud-pasha-mosque": {
+  "category": "Category:Zal Mahmud Pasha Mosque",
+  "add": [
+   "File:Zal Mahmud Pasha Mosque.jpg",
+   "File:Zal Mahmud Paşa Camii IMG 0221.jpg"
+  ]
+ },
+ "atik-valide-mosque": {
+  "category": "Category:Atik Valide Mosque",
+  "add": [
+   "File:Istanbul, üsküdar, moschea dell'atik valide, 1577-1583 circa, esterno, veduta della moschea e dei minareti.jpg"
+  ]
+ },
+ "osman-shah-mosque": {
+  "category": "Category:Osman Shah Mosque",
+  "add": [
+   "File:Trikala Greece Kursum Mosque 3.jpg",
+   "File:041 ΚΟΥΡΣΟΥΜ ΤΖΑΜΙ,ΤΡΙΚΑΛΑ 7.2018.jpg"
+  ],
+  "skip": [
+   "File:Κουρσούμ Τζαμί 3424.jpg"
+  ]
+ },
+ "mihrimah-sultan-mosque-uskudar": {
+  "category": "Category:Mihrimah Sultan Mosque (Üsküdar)",
+  "add": [
+   "File:Üsküdar Mihrimah Sultan Camii.jpg"
+  ],
+  "skip": [
+   "File:Endowment Deed of Mihrimah Sultan.jpg"
+  ]
+ },
+ "sinan-pasha-mosque-istanbul": {
+  "category": "Category:Sinan Paşa Mosque",
+  "add": [
+   "File:İstanbul 5153.jpg",
+   "File:Sinan Pasha Mosque 0680.jpg"
+  ]
+ },
+ "kilic-ali-pasha-complex": {
+  "category": "Category:Kılıç Ali Pasha Mosque",
+  "add": [
+   "File:İstanbul 4939.jpg",
+   "File:Istanbul, moschea di Kılıç Ali Pasha, di sinan, 1580-87, esterno 01.jpg"
+  ],
+  "skip": [
+   "File:Istanbul photos by J.Lubbock 2015 582.jpg"
+  ]
+ },
+ "semsi-pasha-mosque": {
+  "category": "Category:Şemsi Pasha Mosque",
+  "add": [
+   "File:Semsi Ahmet Pasha mosque 0297.jpg",
+   "File:Şemsi Pasha Mosque.JPG"
+  ],
+  "skip": [
+   "File:Sunset and Şemsi Ahmed Paşa Mosque.jpg",
+   "File:Üsküdar Şemsi Ahmet Paşa Camii bahçesinden bir çekim.jpg"
+  ]
+ },
+ "molla-celebi-mosque": {
+  "category": "Category:Molla Çelebi Mosque",
+  "add": [
+   "File:İstanbul 5430.jpg"
+  ]
+ },
+ "kara-ahmed-pasha-mosque": {
+  "category": "Category:Kara Ahmed Pasha Mosque",
+  "add": [
+   "File:Kara Ahmet Pasha Camii DSCF7434.jpg",
+   "File:Istanbul Gazi Ahmet Paşa Mosque exterior NE side 3049.jpg",
+   "File:Istanbul Gazi Ahmet Paşa Mosque exterior in 2015 0032.jpg"
+  ]
+ },
+ "piyale-pasha-mosque": {
+  "category": "Category:Piyale Pasha Mosque",
+  "add": [
+   "File:Istanbul Piyale Pasha Mosque exterior NW side in 2014 6766.jpg",
+   "File:Istanbul Piyale Pasha Mosque exterior back side with tomb in 2014 6755.jpg"
+  ],
+  "skip": [
+   "File:Piyalepaşa Camisi Tavan-01.jpg",
+   "File:Piyalepaşa Camisi-03.jpg"
+  ]
+ },
+ "sokollu-mehmed-pasha-mosque-azapkapi": {
+  "category": "Category:Sokollu Mehmet Pasha Mosque (Azapkapı)",
+  "add": [
+   "File:Sokollu Mehmet Pasha Mosque Azapkapi 7408.jpg",
+   "File:Sokollu Mehmet Paşa Camii IMG 5363.jpg"
+  ]
+ },
+ "hadim-ibrahim-pasha-mosque": {
+  "category": "Category:Hadim Ibrahim Pasha Mosque",
+  "add": [
+   "File:Hadim Ibrahim Mosque 9219.jpg",
+   "File:Istanbul Hadım Ibrahim Paşa mosque exterior from garden in 20245506.jpg"
+  ]
+ },
+ "muradiye-mosque-manisa": {
+  "category": "Category:Muradiye Mosque (Manisa)",
+  "add": [
+   "File:IzManisaM04.jpg"
+  ]
+ },
+ "banya-bashi-mosque": {
+  "category": "Category:Banyabaşı Mosque",
+  "add": [
+   "File:05158-Banyabaşı Mosque, Sofia (8269331286).jpg",
+   "File:Banya Bashi Mosque - Sofia.jpg",
+   "File:Banya Bashi Mosque Sofia.jpg"
+  ]
+ },
+ "casa-vicens": {
+  "category": "Category:Casa Vicens",
+  "add": [
+   "File:Gaudí - Casa Vicens.JPG",
+   "File:Barcelona - Carrer de les Carolines - View NNW on Casa Vicens 1889 Antoni Gaudí I.jpg",
+   "File:Barcelona - Carrer de les Carolines - View North on Casa Vicens 1883-89 Antoni Gaudí II.jpg"
+  ]
+ },
+ "city-gate": {
+  "category": "Category:Valletta City Gate",
+  "add": [
+   "File:City Gate, Valletta 002.jpg"
+  ],
+  "skip": [
+   "File:Malta - Valletta - Triq il-Papa Piju V + City Gate 03 ies.jpg"
+  ]
+ },
+ "st-nicholas-greek-orthodox-church": {
+  "category": "Category:St. Nicholas Greek Orthodox Church",
+  "add": [
+   "File:St. Nicholas Greek Orthodox Church - 195245115.jpg",
+   "File:St. Nicholas Greek Orthodox Church and National Shrine (55312935307).jpg"
+  ],
+  "skip": [
+   "File:Landing gear near WTC2 and Greek Orthodox Church.jpg",
+   "File:St Nicholas Greek Orthodox Church during the February 2026 North American blizzard.jpg",
+   "File:Liberty Street Park east entry jeh.jpg",
+   "File:Liberty Street Park northeast stair jeh.jpg"
+  ]
+ },
+ "hotel-solvay": {
+  "category": "Category:Hôtel Solvay",
+  "add": [
+   "File:Avenue Louise 224 Louizalaan Brussels 2012-08.jpg"
+  ],
+  "skip": [
+   "File:Hotel Solvay 01.jpg"
+  ]
+ },
+ "university-of-science-and-technology-houari-boumediene": {
+  "category": "Category:Université des sciences et de la technologie Houari-Boumediene",
+  "add": [
+   "File:Auditoriome.jpg",
+   "File:USTHB en été.jpg",
+   "File:USTHB.JPG"
+  ]
+ },
+ "hajji-ahmed-the-ducat-minters-mosque": {
+  "category": "Category:Hajji Ahmed the Ducat Minter's Mosque",
+  "add": [
+   "File:Džamija-Livno00523.JPG",
+   "File:Džamija-Livno00520.JPG"
+  ]
+ },
+ "ennis-house": {
+  "category": "Category:Ennis House",
+  "add": [
+   "File:Ennis House front view 2005.jpg",
+   "File:Ennis House 3.jpg"
+  ],
+  "skip": [
+   "File:Ennis House.JPG"
+  ]
+ },
+ "muradie-mosque": {
+  "category": "Category:Muradie Mosque",
+  "add": [
+   "File:Muradie Mosque Vlore - Exterior and Minaret.jpg",
+   "File:Murachi Mosque, Vlora, Albania.jpg"
+  ]
+ },
+ "sokollu-mehmed-pasha-mosque-luleburgaz": {
+  "category": "Category:Sokollu Mehmet Paşa complex in Lüleburgaz",
+  "add": [
+   "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0059.jpg",
+   "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0051.jpg"
+  ],
+  "skip": [
+   "File:Lüleburgaz - Sokullu Mehmet Paşa Arasta ve Dua Kubbesi, Lüleburgaz - 20250531151420.jpg"
+  ]
+ },
+ "wells-fargo-center": {
+  "category": "Category:Wells Fargo Center (Minneapolis)",
+  "add": [
+   "File:Wells Fargo Center from Foshay.jpg",
+   "File:Minneapolis April 2025 06 (Wells Fargo Center).jpg"
+  ],
+  "skip": [
+   "File:Minneapolis April 2025 01 (Wells Fargo Center).jpg",
+   "File:Minneapolis neighborhood Marshall Terrace (52230295024).jpg"
+  ]
+ },
+ "pertev-pasa-mosque": {
+  "category": "Category:Pertev Pasha Mosque",
+  "add": [
+   "File:Yeni cuma camii (1) 01.jpg",
+   "File:Yeni cuma camii (1) 04.jpg"
+  ]
+ },
+ "lumbracle": {
+  "category": "Category:L'Umbracle",
+  "add": [
+   "File:Umbráculo, Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 43.JPG",
+   "File:Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 39.JPG"
+  ]
+ },
+ "425-park-avenue": {
+  "category": "Category:425 Park Avenue",
+  "add": [
+   "File:425 Park Avenue (55272623292).jpg",
+   "File:Park Av Nov 2021 24.jpg"
+  ],
+  "skip": [
+   "File:425 Park Ave. LOC gsc.5a24902.jpg",
+   "File:425 Park Ave construction at the base.jpg"
+  ]
+ },
+ "frank-lloyd-wright-home-and-studio": {
+  "category": "Category:Frank Lloyd Wright Home and Studio",
+  "add": [
+   "File:FLW home and studio.jpg",
+   "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (6).jpg",
+   "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (5).jpg"
+  ],
+  "skip": [
+   "File:Frank Lloyd Wright Home and Studio Marker.jpg"
+  ]
+ },
+ "gazi-hajdar-kadi-mosque": {
+  "category": "Category:Hajdar Kadi Mosque (Bitola)",
+  "add": [
+   "File:Haydar kadı mosque Bt.jpg"
+  ],
+  "skip": [
+   "File:Минарет Ајдар кади џамија Битољ (Minaret of Hajdar Kadi Mosque, Bitola).jpg",
+   "File:Islamic geometric patterns (Aydar kadi mosque, Bitola, Macedonia).jpg"
+  ]
+ },
+ "artigas-gardens": {
+  "category": "Category:Jardins de Can Artigas",
+  "add": [
+   "File:Lillet21.jpg",
+   "File:Lillet07.jpg"
+  ],
+  "skip": [
+   "File:\"Tren del Ciment\" (SCHÖMA).jpg",
+   "File:Riu Llobregat al costat de la fàbrica antiga.jpeg"
+  ]
+ },
+ "seyh-celebi-mosque": {
+  "category": "Category:Şeyhi Çelebi Camii",
+  "add": [
+   "File:Şeyhi Çelebi Camii 2025 - 2c.jpg",
+   "File:Şeyh Çelebi Camii 22.JPG"
+  ],
+  "skip": [
+   "File:Şeyh Çelebi Camii 23.JPG",
+   "File:Şeyhi Çelebi Mezarı.jpg"
+  ]
+ },
+ "yahya-bey-mosque": {
+  "category": "Category:Yahya Bey mosque",
+  "add": [
+   "File:Yahya Bey Camii 22.JPG",
+   "File:Yahya Bey Camii IMG 4620.jpg"
+  ]
+ },
+ "palacio-do-jaburu": {
+  "category": "Category:Palácio do Jaburu",
+  "add": [
+   "File:2014 - Palácio do Jaburu (11821778125).jpg",
+   "File:Brasíia-DF, 29-06-2011. Palácio do Jaburu. (14261300971).jpg",
+   "File:Palácio do Jaburu (14077422657).jpg"
+  ],
+  "skip": [
+   "File:Palácio do Jaburu - Capela (14264363475).jpg",
+   "File:Palácio do Jaburu - Jardins de Burle Marx.jpg"
+  ]
+ },
+ "omniturm": {
+  "category": "Category:Omniturm",
+  "add": [
+   "File:Omniturm Frankfurt 09-19.jpg",
+   "File:Omniturm Frankfurt am Main.jpg"
+  ],
+  "skip": [
+   "File:Marienturm und Omniturm.jpg",
+   "File:Metzler-Haus.jpg"
+  ]
+ },
+ "aalto-center": {
+  "category": "Category:Aaltokeskus",
+  "add": [
+   "File:Aalto-keskus 2.jpg",
+   "File:Seinäjoki library, city hall and theater from bell tower of Lakeuden risti 02.jpg"
+  ]
+ },
+ "suleymaniye-hamam": {
+  "category": "Category:Süleymaniye Hammam",
+  "add": [
+   "File:Süleymaniye Hammam from outside, 2024.jpg",
+   "File:Suleymaniye Hamam DSCF5502.jpg"
+  ]
+ },
+ "toyota-city-museum": {
+  "category": "Category:Toyota City Museum",
+  "add": [
+   "File:Toyohaku1.jpg",
+   "File:Toyohaku3.jpg"
+  ],
+  "skip": [
+   "File:Toyota City Local History Museum 2025-01 ac (2).jpg",
+   "File:Toyota City Museum (Aichi) VLux5 hdsr 02.jpg"
+  ]
+ },
+ "buen-kulturhus": {
+  "category": "Category:Buen kulturhus",
+  "add": [
+   "File:Buen, Mandal.JPG",
+   "File:Buen Kulturhus, Mandal.jpg"
+  ]
+ },
+ "otaniemi-water-tower": {
+  "category": "Category:Otaniemi water tower",
+  "add": [
+   "File:Otaniemen vesitorni 2013.jpg",
+   "File:Otaniemen vesitorni 1.JPG",
+   "File:Otaniemen vesitorni 2.JPG"
+  ]
+ },
+ "annunciation-greek-orthodox-church": {
+  "category": "Category:Annunciation Greek Orthodox Church",
+  "add": [
+   "File:Annunciation Church Apr09.jpg",
+   "File:Annunciation Greek Orthodox Church.jpg",
+   "File:Doors Open Milwaukee 2023 65 (Annunciation Greek Orthodox Church).jpg"
+  ]
+ },
+ "cultural-complex-of-the-republic": {
+  "category": "Category:Complexo Cultural da República",
+  "add": [
+   "File:Complexo Cultural da Republica 01.jpg",
+   "File:MuseuNatRep rainy.jpg"
+  ]
+ },
+ "martin-ryerson-tomb": {
+  "category": "Category:Martin Ryerson Tomb",
+  "add": [
+   "File:Chicago, Illinois, Martin Ryerson Tomb 2.jpg",
+   "File:Martin Ryerson Mausoleum (1818-1897).jpg"
+  ],
+  "skip": [
+   "File:Ryerson tomb (34809884971).jpg"
+  ]
+ },
+ "willits-house": {
+  "category": "Category:Ward W. Willits House",
+  "add": [
+   "File:Ward Winfield Willits House (8702672773).jpg",
+   "File:Frank Lloyd Wright - Highland Park, IL - Ward W. Willits House (4).jpg",
+   "File:Frank Lloyd Wright - Highland Park, IL - Ward W. Willits House (1).jpg"
+  ]
+ },
+ "stanislav-range-front-light": {
+  "category": "Category:Stanislav Range Front Light",
+  "add": [
+   "File:Станіслав-Аджигольські маяки передній5.jpg",
+   "File:Станіслав-Аджигольські маяки передній3.jpg"
+  ]
+ },
+ "waldspirale": {
+  "category": "Category:Waldspirale Darmstadt",
+  "add": [
+   "File:Darmstadt Waldspirale 102 0011.jpg",
+   "File:Waldspirale - Darmstadt - Friedensreich Hundertwasser - Heinz Springmann - 02.jpg",
+   "File:Waldspirale - Darmstadt - Friedensreich Hundertwasser - Heinz Springmann - 10.jpg"
+  ]
+ },
+ "kuchlbauer-tower": {
+  "category": "Category:Abensberg Kuchlbauerturm",
+  "add": [
+   "File:Abensberg, Brauerei Kuchlbauer, Kuchlbauerturm -- 2026 -- 4180.jpg",
+   "File:Abensberg Kuchlbauerturm 01.jpg",
+   "File:Башня Хундертвассера.JPG"
+  ]
+ },
+ "palacio-taranco": {
+  "category": "Category:Palacio Taranco",
+  "add": [
+   "File:Palacio de don Félix Ortiz de Taranco..JPG",
+   "File:Palacio Taranco by MaxiCiccone.JPG"
+  ]
+ },
+ "carolina-rediviva": {
+  "category": "Category:Carolina Rediviva",
+  "add": [
+   "File:Carolina Rediviva Uppsala.JPG",
+   "File:Carolina Rediviva in summer.jpg"
+  ]
+ },
+ "malmo-opera": {
+  "category": "Category:Malmö Opera",
+  "add": [
+   "File:Malmö stadsteater 2.jpg"
+  ],
+  "skip": [
+   "File:20210603 Michael Bojesen 8296 (51265951261).jpg",
+   "File:20210603 Michael Bojesen 8303 (51266986985).jpg",
+   "File:Tragos fountain by nils sjogren.jpg",
+   "File:Sculpture Tragos Outside Malmö Opera.jpg"
+  ]
+ },
+ "leo-burnett-building": {
+  "category": "Category:Leo Burnett Building",
+  "add": [
+   "File:Leo Burnett Building.jpg",
+   "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 01.jpg"
+  ],
+  "skip": [
+   "File:Block 37 March 2008.jpg"
+  ]
+ },
+ "new-synagogue-zilina": {
+  "category": "Category:Neologická synagóga (Žilina)",
+  "add": [
+   "File:Žilina - neologická synagóga - 2019.jpg",
+   "File:Žilina - Neolog Synagogue - 2018.JPG"
+  ]
+ },
+ "hotel-otlet": {
+  "category": "Category:Hôtel Otlet",
+  "add": [
+   "File:Hôtel Otlet - 3.JPG",
+   "File:Hôtel Otlet, vue d'ensemble.JPG"
+  ]
+ },
+ "castle-of-the-three-dragons": {
+  "category": "Category:Castell dels Tres Dragons",
+  "add": [
+   "File:Tres Dragons 2022.jpg",
+   "File:Barcelona - Castell dels Tres Dragons (3).jpg"
+  ]
+ },
+ "castle-drogo": {
+  "category": "Category:Castle Drogo",
+  "add": [
+   "File:Castle Drogo - geograph.org.uk - 6946993.jpg",
+   "File:Drogorama (8258424926).jpg"
+  ],
+  "skip": [
+   "File:Castle Drogo - The view to the east of the castle - geograph.org.uk - 8123963.jpg",
+   "File:Castle Drogo under wraps - geograph.org.uk - 3923328.jpg"
+  ]
+ },
+ "cajasol-tower": {
+  "category": "Category:Torre Sevilla",
+  "add": [
+   "File:Torre Sevilla abril 2015.jpg",
+   "File:Torre Sevilla abril 2015 edited.jpg",
+   "File:Río Guadalquivir y Torre Sevilla, Sevilla, España, 2015-12-06, DD 66.JPG"
+  ],
+  "skip": [
+   "File:Calle betis 2017 001.jpg",
+   "File:Plaza de Toros Sevilla during dusk.jpg"
+  ]
+ },
+ "rottweil-elevator-test-tower": {
+  "category": "Category:TK-Elevator-Testturm",
+  "add": [
+   "File:ThyssenKrupp Test Tower, Rottweil.jpg",
+   "File:AIMG 0324 A 81 Aufzugsturm.jpg",
+   "File:Org e370525c4a8f8aab 1592164604000-1.jpg"
+  ],
+  "skip": [
+   "File:Grundriss Thyssenkrupp Testturm mit Membranstruktur.png"
+  ]
+ },
+ "academy-of-fine-arts-vienna": {
+  "category": "Category:Academy of Fine Arts Vienna",
+  "add": [
+   "File:Akademie der bildenden Kuenste DSC 2400w.jpg",
+   "File:Akademie der bildenden Künste Wien.jpg"
+  ]
+ },
+ "accenture-tower": {
+  "category": "Category:Citigroup Center (Chicago, Illinois)",
+  "add": [
+   "File:CitigroupCenterChicago.jpg",
+   "File:Chicago in 2022 Part of the Accenture Tower (500 West Madison) (52047851892).jpg",
+   "File:Citigroup Center, Chicago (14396644410).jpg",
+   "File:Citigroup Center (14396680218).jpg"
+  ],
+  "skip": [
+   "File:Glass Balconies, Looking West from Willis Tower Skydeck, Chicago, Illinois (9179377925).jpg",
+   "File:Accenture Tower escalators to Ogilvie station.jpg"
+  ]
+ },
+ "winter-garden-atrium": {
+  "category": "Category:Winter Garden Atrium",
+  "add": [
+   "File:Manhattan New York City 2009 PD 20091129 019.JPG"
+  ],
+  "skip": [
+   "File:Paulus Hook Pier Jersey City September 2020 HDR.jpg"
+  ]
+ },
+ "osaka-maritime-museum": {
+  "category": "Category:Osaka Maritime Museum",
+  "add": [
+   "File:Osaka maritime museum01s3200.jpg",
+   "File:Maritime Museum @ Sakishima Island @ Osaka Bay (13382097593).jpg",
+   "File:Osaka Maritime Museum1.jpg"
+  ]
+ },
+ "agoudas-hakehilos-synagogue": {
+  "category": "Category:Synagogue de la rue Pavée",
+  "add": [
+   "File:Paris-Marais-Synagoge-102-2017-gje.jpg",
+   "File:Agoudas Hakehilos Synagogue (Hector Guimard) in 1917.jpg",
+   "File:Synagogue Rue Pavée - Paris IV (FR75) - 2023-05-30 - 1.jpg",
+   "File:Synagogue Rue Pavée - Paris IV (FR75) - 2023-05-30 - 3.jpg"
+  ]
+ },
+ "international-building": {
+  "category": "Category:International Building (Rockefeller Center)",
+  "add": [
+   "File:Rockefeller-Center3.jpg"
+  ]
+ },
+ "auditorium-conciliazione": {
+  "category": "Category:Auditorium Conciliazione",
+  "add": [
+   "File:Auditorium Conciliazione 25 10 2020.jpg",
+   "File:Roma - Auditorium della Conciliazione (40984258940).jpg"
+  ]
+ },
+ "landakotskirkja": {
+  "category": "Category:Landakotskirkja",
+  "add": [
+   "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 093.JPG",
+   "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 091.JPG",
+   "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 094.JPG"
+  ]
+ },
+ "the-cenotaph": {
+  "category": "Category:Cenotaph, London",
+  "add": [
+   "File:The Cenotaph on Whitehall, London.jpg"
+  ],
+  "skip": [
+   "File:London , Westminster - The Cenotaph - geograph.org.uk - 7930385.jpg",
+   "File:Cenotaph sketch by Lutyens - Original.png"
+  ]
+ },
+ "tel-aviv-performing-arts-center": {
+  "category": "Category:Tel Aviv Performing Arts Center",
+  "add": [
+   "File:Tel Aviv, 2015 (24901961195).jpg",
+   "File:Tel Aviv Performing Arts 03.JPG"
+  ],
+  "skip": [
+   "File:White Night in Tel Aviv P1030263.JPG",
+   "File:White Night in Tel Aviv P1030264.JPG",
+   "File:The Tel Aviv performing arts centre.jpg"
+  ]
+ },
+ "osaka-museum-of-history": {
+  "category": "Category:Osaka Museum of History",
+  "add": [
+   "File:View near Tanimachi-yonchome Station and the Osaka Castle.jpg",
+   "File:140923 Osaka Museum of History Osaka Japan02s3.jpg"
+  ]
+ },
+ "haus-des-lehrers": {
+  "category": "Category:Haus des Lehrers",
+  "add": [
+   "File:Haus des Lehrers, 2024 (01).jpg",
+   "File:Andreasstraße (Berlin-Friedrichshain)-2026-03-msu-8305.jpg"
+  ],
+  "skip": [
+   "File:Orientierungsplan - Demokratisches Berlin. DDR Hauptstadt. 1964 (3980898340).jpg"
+  ]
+ },
+ "louwman-museum": {
+  "category": "Category:Louwman Collection",
+  "add": [
+   "File:Den Haag - Louwman Museum.jpg"
+  ],
+  "skip": [
+   "File:Duesenberg SJ 1935.JPG"
+  ]
+ },
+ "steiner-house": {
+  "category": "Category:Haus Steiner",
+  "add": [
+   "File:Steiner1.jpg",
+   "File:Steiner2.jpg",
+   "File:Adolf Loos Haus Steiner mit Magnolie.jpg"
+  ]
+ },
+ "palazzo-dello-strozzino": {
+  "category": "Category:Palazzo dello Strozzino",
+  "add": [
+   "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,0.jpg",
+   "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,2.jpg"
+  ],
+  "skip": [
+   "File:Firenze - Palazzo dello Strozzino - 2026-09-16 19-17-02 001.jpg",
+   "File:Inferriata da finestra, xvii secolo, dal cortile del palazzo dello strozzino.jpg"
+  ]
+ },
+ "kino-babylon": {
+  "category": "Category:Babylon (cinema in Berlin)",
+  "add": [
+   "File:Berlin, Mitte, Rosa-Luxemburg-Strasse 30, Wohnanlage und Kino Babylon.jpg",
+   "File:Kino Babylon.jpg"
+  ],
+  "skip": [
+   "File:Berlin kino babylon.jpg",
+   "File:Aussenansicht Kino Babylon.jpg",
+   "File:Aussenansicht Kino Babylon - 12592495504.jpg"
+  ]
+ },
+ "taliesin": {
+  "category": "Category:Taliesin (building)",
+  "add": [
+   "File:Taliesin, Spring Green (2).jpg"
+  ]
+ },
+ "casa-lleo-morera": {
+  "category": "Category:Casa Lleó Morera",
+  "add": [
+   "File:DiM Lleo Morera 9826 copia.jpg",
+   "File:Barcelona-Eixample, bovendeel van Casa Lleó Morera IPA-40399 ontworpen door Lluis Domènech i Montane IMG 3562 2026-08-30 09.06.jpg"
+  ]
+ },
+ "deutschmeister-palais": {
+  "category": "Category:Palais Erzherzog Wilhelm",
+  "add": [
+   "File:Parkring 8 Ansicht 2.jpg",
+   "File:Deutschmeisterpalais-IMG 4189.JPG"
+  ],
+  "skip": [
+   "File:Palais Erzherzog Wilhelm 01.jpg"
+  ]
+ },
+ "india-house": {
+  "category": "Category:India House (Westminster)",
+  "add": [
+   "File:London - India House High Commission of India (40412413273).jpg",
+   "File:India House, Aldwych, London 01.jpg",
+   "File:London - India House High Commission of India (40412413033).jpg"
+  ]
+ },
+ "st-bartholomews-episcopal-church": {
+  "category": "Category:St. Bartholomew's Episcopal Church (Manhattan)",
+  "add": [
+   "File:NYC St. Bartholomew's 07.jpg",
+   "File:St. Bartholomew's Church - 2026 (55284018210).jpg"
+  ]
+ },
+ "pasadena-city-hall": {
+  "category": "Category:Pasadena City Hall",
+  "add": [
+   "File:Pasadena City Hall DSC 4681 ad.JPG"
+  ]
+ },
+ "cecil-h-green-library": {
+  "category": "Category:Cecil H. Green Library",
+  "add": [
+   "File:Stanford University Green Library Bing Wing.jpg"
+  ]
+ },
+ "heliotrope-building": {
+  "category": "Category:Heliotrop (Freiburg im Breisgau)",
+  "add": [
+   "File:Heliotrop Freiburg.jpg",
+   "File:Heliotrop (Gebäude).jpg",
+   "File:Heliotrop in Freiburg am Lorettoberg 4.jpg",
+   "File:Heliotrop in Freiburg am Lorettoberg 2.jpg"
+  ]
+ },
+ "kotelnicheskaya-embankment-building": {
+  "category": "Category:Skyscraper on Kotelnicheskaya Embankment",
+  "add": [
+   "File:00 4680 Moskau - Kotelnicheskaya Embankment.jpg",
+   "File:Moscow Kotelnicheskaya Skyscraper 020 1510.jpg",
+   "File:Moscow Kotelnicheskaya Skyscraper 020 1547.jpg"
+  ]
+ },
+ "kudrinskaya-square-building": {
+  "category": "Category:Kudrinskaya Square Building",
+  "add": [
+   "File:Moscow - 2026 - Restoration of the House on Kudrinskaya.jpg",
+   "File:Kudrinskaya Square Building in Moscow.jpg"
+  ]
+ },
+ "scharinska-villan": {
+  "category": "Category:Scharinska villan",
+  "add": [
+   "File:Scharinska villan.jpg"
+  ]
+ },
+ "war-memorial-opera-house": {
+  "category": "Category:War Memorial Opera House",
+  "add": [
+   "File:War Memorial Opera House (San Francisco).JPG"
+  ],
+  "skip": [
+   "File:Christmas Tree at the War Memorial Opera House, San Francisco, 2019.jpg",
+   "File:Opera House Tricolour (23146921521).jpg"
+  ]
+ },
+ "ainola": {
+  "category": "Category:Ainola",
+  "add": [
+   "File:Ainola yard.jpg"
+  ],
+  "skip": [
+   "File:Ainola, yläkerran työhuone 2002 (RHO125172-27).jpg",
+   "File:Ainola, sali 2002 (RHO125172-71).jpg",
+   "File:Jean-Sibelius-1939a.jpg"
+  ]
+ },
+ "museum-of-human-evolution": {
+  "category": "Category:Museo de la Evolución Humana",
+  "add": [
+   "File:MEH Frontal.JPG"
+  ],
+  "skip": [
+   "File:Fuente museo evolución burgos.jpg",
+   "File:Museo de la Evolución Humana (34624735764).jpg",
+   "File:Apollo 11 Cave painting 1.jpg"
+  ]
+ },
+ "museum-of-art-architecture-and-technology": {
+  "category": "Category:Museu de Arte, Arquitetura e Tecnologia",
+  "add": [
+   "File:The MAAT (34943440096).jpg"
+  ],
+  "skip": [
+   "File:Over Flow (2018) - Tadashi Kawamata (1953).jpg",
+   "File:Deya at Museum of Art, Architecture and Technology - MAAT (27956681707).jpg"
+  ]
+ },
+ "karaite-kenesa-kyiv": {
+  "category": "Category:Karaite kenesa in Kyiv",
+  "add": [
+   "File:Караїмська Кенаса в Києві.jpg"
+  ],
+  "skip": [
+   "File:Ярославів Вал вул., 7 DSC 5403.JPG",
+   "File:Kenesa in Kiev interior 2.jpg"
+  ]
+ },
+ "aschanska-villa": {
+  "category": "Category:Aschanska villan",
+  "add": [
+   "File:Aschanska villan, Umeå.jpg",
+   "File:Aschanska villan Umea Sweden.jpg"
+  ]
+ },
+ "didrichsen-art-museum": {
+  "category": "Category:Didrichsen Art Museum",
+  "add": [
+   "File:Didrichsenin taidemuseo.jpg",
+   "File:Didrichsen Art Museum 04.JPG",
+   "File:Didrichsen Art Museum 01.JPG"
+  ],
+  "skip": [
+   "File:2018 Didrichsen Art Museum, Helsinki (26906901181).jpg",
+   "File:Akseli Gallen-Kallela - Pilvi tornit (1904).jpg"
+  ]
+ },
+ "air-force-command-building-belgrade": {
+  "category": "Category:Airforce command building (Zemun)",
+  "add": [
+   "File:Зграда команде ваздухопловства 2012-09-16 14-01-51.jpg",
+   "File:Zgrada komande vazduhoplovstva (Zemun) 01.jpg"
+  ]
+ },
+ "jinpukaku": {
+  "category": "Category:Jinpukaku",
+  "add": [
+   "File:Jinpukaku00s5s4500.jpg",
+   "File:Jinpukaku02 1920.jpg"
+  ]
+ },
+ "banovina-palace-novi-sad": {
+  "category": "Category:Zgrada Vlade Vojvodine",
+  "add": [
+   "File:Banovina Complex in Novi Sad - Kompleks Banovine u Novom Sadu 01.jpg",
+   "File:Horthy Miklós sugárút (Bulevar Mihajla Pupina), Báni palota (Banovina).jpg"
+  ]
+ },
+ "aichi-prefectural-ceramic-museum": {
+  "category": "Category:Aichi Prefectural Ceramic Museum",
+  "add": [
+   "File:Aichi Prefectural Ceramic Museum-01.jpg",
+   "File:Aichi Prefectural Ceramic Museum.JPG",
+   "File:Aichi Prefectural Ceramic Museum01-r.jpg"
+  ],
+  "skip": [
+   "File:Kiseto style glaze.jpg"
+  ]
+ },
+ "seville-public-library": {
+  "category": "Category:Biblioteca Pública Provincial Infanta Elena (Sevilla)",
+  "add": [
+   "File:Biblioteca publica sevilla 001.jpg",
+   "File:Biblioteca Publica Sevilla.jpg"
+  ],
+  "skip": [
+   "File:Infanta Elena.jpg"
+  ]
+ },
+ "altes-stadthaus-berlin": {
+  "category": "Category:Altes Stadthaus (Berlin)",
+  "add": [
+   "File:Altes Stadthaus, Westseite, Berlin-Mitte, 160213, ako.jpg",
+   "File:Altes Stadthaus, Berlin, 160213, ako.jpg"
+  ],
+  "skip": [
+   "File:20240815 View cupola Berlin Cathedral 02.jpg"
+  ]
+ },
+ "forum-groningen": {
+  "category": "Category:Groninger Forum",
+  "add": [
+   "File:Forum-Groningen1-Kirschbluete-2026-04-msu7-3811.jpg",
+   "File:Groninger Forum-2026-04-msu2-3811.jpg"
+  ],
+  "skip": [
+   "File:Groninger Forum-2026-04-msu2-3811.jpg"
+  ]
+ },
+ "pagode-de-vincennes": {
+  "category": "Category:Pagode de Vincennes",
+  "add": [
+   "File:Pagode de Vincennes, January 2013.jpg",
+   "File:Grande Pagode du Bois de Vincennes @ Lac Daumesnil @ Bois de Vincennes @ Paris (23620289130).jpg"
+  ],
+  "skip": [
+   "File:Pagode bouddhique Vincennes.jpg",
+   "File:Moine tibétain réalisant un mandala, Pagode du bois de Vincennes, 2013.jpg"
+  ]
+ },
+ "d-coque": {
+  "category": "Category:D'Coque",
+  "add": [
+   "File:Luxembourg, Parc central Kirchberg (105).jpg"
+  ]
+ },
+ "planetario-di-milano": {
+  "category": "Category:Planetario (Milan)",
+  "add": [
+   "File:Civico Planetario Ulrico Hoepli.jpg",
+   "File:Milano - Planetario 0044.JPG"
+  ]
+ },
+ "saskatchewan-legislative-building": {
+  "category": "Category:Saskatchewan Legislative Building",
+  "add": [
+   "File:Saskatchewan Legislative Building - Regina.jpg",
+   "File:Saskatchewan Legislative Assembly - Regina (30194708148).jpg"
+  ],
+  "skip": [
+   "File:King George VI and Queen Elizabeth arrive at the Saskatchewan Provincial Legislature... Le roi George VI et la reine Elizabeth arrivent à l’Assemblée législative de la Saskatchewan... (34022285310).jpg"
+  ]
+ },
+ "prinkipo-greek-orthodox-orphanage": {
+  "category": "Category:Prinkipo Greek Orthodox Orphanage",
+  "add": [
+   "File:Prinkipo Greek Orthodox Orphanage building from under the hill, 2024.jpg",
+   "File:NE view of the Prinkipo Greek Orthodox Orphanage building, 2024.jpg"
+  ]
+ },
+ "neuer-marstall": {
+  "category": "Category:Neuer Marstall (Berlin)",
+  "add": [
+   "File:Neuer Marstall Berlin.jpg",
+   "File:Berlin-Marstall-Musikhochschule Hanns Eisler-02-2017-gje.jpg"
+  ],
+  "skip": [
+   "File:Germany-00077 - GDR Bronze (30326438295).jpg"
+  ]
+ },
+ "nuevos-ministerios": {
+  "category": "Category:Nuevos Ministerios",
+  "add": [
+   "File:Madrid 00 41 42 102000.jpeg",
+   "File:Bill Aplin Madrid, Spain in June 1967 (29935780424).jpg",
+   "File:Minisztérium épületrészlet - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Vaca - Nuevos Ministerios - Madrid 01.jpg",
+   "File:Plan de Cercanías Madrid.jpg"
+  ]
+ },
+ "35-east-wacker": {
+  "category": "Category:35 East Wacker",
+  "add": [
+   "File:35 East Wacker, Chicago September 2016-41.jpg",
+   "File:20070513 35 East Wacker.JPG"
+  ]
+ },
+ "building-of-the-yugoslavian-legation-in-berlin": {
+  "category": "Category:Diplomatic mission of Yugoslavia Berlin",
+  "add": [
+   "File:Diplomatische Gesandtschaft Berlin.jpg",
+   "File:Legation of Yugoslavia, Berlin (P1031509).jpg"
+  ],
+  "skip": [
+   "File:Karte Botschaftsviertel Planung 1938-Botschaft YU.png"
+  ]
+ },
+ "headquarters-of-the-bank-of-the-argentine-nation": {
+  "category": "Category:Banco de la Nación Argentina (Buenos Aires)",
+  "add": [
+   "File:Banco de la Nación.jpg",
+   "File:2018-10-19 Plaza de Mayo, Buenos Aires, Argentina (Martin Rulsch) 05.jpg"
+  ],
+  "skip": [
+   "File:Banco Nacion.jpg"
+  ]
+ },
+ "rosecliff": {
+  "category": "Category:Rosecliff",
+  "add": [
+   "File:Rosecliff (1308020662).jpg"
+  ],
+  "skip": [
+   "File:Newport Flower Show 2011 IMG 1740.jpg",
+   "File:Newport Flower Show 2011 IMG 1741.jpg"
+  ]
+ },
+ "fox-theatre-detroit": {
+  "category": "Category:Fox Theatre (Detroit, Michigan)",
+  "add": [
+   "File:Detroit August 2025 30 (Fox Theatre).jpg",
+   "File:Detroit December 2015 13 (Fox Theatre).jpg"
+  ],
+  "skip": [
+   "File:Dem Prez Debate 0104 (48428000316).jpg"
+  ]
+ },
+ "hansahochhaus": {
+  "category": "Category:Hansahochhaus",
+  "add": [
+   "File:Hansahochhaus Köln - Gesamtansicht (0308-10).jpg",
+   "File:Cologne Germany Saturn-Hansaring-01.jpg"
+  ]
+ },
+ "oakland-city-hall": {
+  "category": "Category:Oakland City Hall",
+  "add": [
+   "File:Oakland City Hall (Oakland, CA) 2.JPG"
+  ]
+ },
+ "london-coliseum": {
+  "category": "Category:Coliseum Theatre",
+  "add": [
+   "File:The Coliseum and the Chandos, City of Westminster (02).jpg",
+   "File:London Coliseum.jpg",
+   "File:London Coliseum 2018-09-23.jpg"
+  ]
+ },
+ "copenhagen-city-hall": {
+  "category": "Category:Copenhagen City Hall",
+  "add": [
+   "File:Københavns Rådhus 2013 (cropped).jpg",
+   "File:20190621 Copenhagen 6782 (48445373296).jpg",
+   "File:Københavns Rådhus - Copenhagen City Hall (37177879483).jpg"
+  ]
+ },
+ "waldemarsudde": {
+  "category": "Category:Prins Eugens Waldemarsudde",
+  "add": [
+   "File:Waldemarsudde - 20260417 - 14.jpg",
+   "File:Waldemarsudde April 2006.JPG"
+  ]
+ },
+ "bolshoy-dom": {
+  "category": "Category:Liteyny 4",
+  "add": [
+   "File:Big House on Liteyny prospect in Saint Petersburg.jpg",
+   "File:SPb Liteyny4 019 8223.jpg",
+   "File:Tsentralny District, St Petersburg, Russia - panoramio (268).jpg"
+  ],
+  "skip": [
+   "File:Люк в плену у ФСБ 05.jpg"
+  ]
+ },
+ "rosenbad": {
+  "category": "Category:Rosenbad",
+  "add": [
+   "File:Rosenbad 2006.jpg",
+   "File:Strömgatan January 2026 01.jpg"
+  ],
+  "skip": [
+   "File:20180626 GamlaStan 8088 (48413019747).jpg",
+   "File:20180626 GamlaStan 8090 (48412869211).jpg"
+  ]
+ },
+ "leighton-house": {
+  "category": "Category:Leighton House Museum",
+  "add": [
+   "File:Casa de Leighton, Londres, Inglaterra, 2022-11-26, DD 40.jpg",
+   "File:Leighton House Museum.jpg"
+  ],
+  "skip": [
+   "File:A Moment of Peril, by Thomas Brock, 1880, bronze - Leighton House Museum - London - DSC01772.jpg",
+   "File:Back yard - Leighton House Museum - London - DSC01771.jpg",
+   "File:Frederic Leighton - Cimabue's Celebrated Madonna (color sketch).jpg"
+  ]
+ },
+ "palau-nacional": {
+  "category": "Category:Palau Nacional (Barcelona)",
+  "add": [
+   "File:Palau Nacional, Barcelona.jpg",
+   "File:(Barcelona) Palau Nacional - National Museum of Art of Catalunya.jpg"
+  ],
+  "skip": [
+   "File:Barcelona - 179 (3466063273).jpg"
+  ]
+ },
+ "gothenburg-city-theatre": {
+  "category": "Category:Göteborgs stadsteater",
+  "add": [
+   "File:At Göteborg 2026 0138.jpg",
+   "File:Göteborgs stadsteater.jpg",
+   "File:At Göteborg 2026 0139.jpg"
+  ],
+  "skip": [
+   "File:Gothenburg City Theatre at night.jpg",
+   "File:Poseidon statue in Gothenburg by night.jpg"
+  ]
+ },
+ "ethnographic-museum-zagreb": {
+  "category": "Category:Ethnographic museum in Zagreb",
+  "add": [
+   "File:Etnografski muzej u Zagrebu 3, 2025.jpg",
+   "File:Etnografski muzej u Zagrebu 2, 2025.jpg",
+   "File:Etnografski muzej u Zagrebu, 2025.png"
+  ]
+ },
+ "perelman-performing-arts-center": {
+  "category": "Category:Ronald O. Perelman Performing Arts Center",
+  "add": [
+   "File:Perelman-Performing-Arts-Center-Street-03.jpg",
+   "File:Performing arts center October 1st 2022.jpg",
+   "File:Perelman Performing Arts Center (55313844031).jpg"
+  ],
+  "skip": [
+   "File:Performing arts center at the WTC.jpg",
+   "File:World Trade Center photomontage, aerial view.jpg"
+  ]
+ },
+ "russian-army-theatre": {
+  "category": "Category:Russian Army Theatre",
+  "add": [
+   "File:Wiki Red Army Theater Moscow.jpg"
+  ],
+  "skip": [
+   "File:Alexandrov's Ensemble in 1957.jpg"
+  ]
+ },
+ "musee-d-art-contemporain-du-val-de-marne": {
+  "category": "Category:MAC/VAL",
+  "add": [
+   "File:Vitry - Musee d'art contemporain 00.jpg",
+   "File:Le MAC VAL de Vitry sur Seine (43776159612).jpg"
+  ],
+  "skip": [
+   "File:Le MAC VAL de Vitry sur Seine (43093938174).jpg",
+   "File:Le MAC-VAL (Vitry-sur-Seine) (14657345967).jpg"
+  ]
+ },
+ "tsiolkovsky-state-museum-of-the-history-of-cosmonautics": {
+  "category": "Category:Tsiolkovsky State Museum of the History of Cosmonautics",
+  "add": [
+   "File:Space museum (Kaluga).jpg"
+  ],
+  "skip": [
+   "File:Kaluga - Tsiolkovsky Park and Museum (03).jpg",
+   "File:Kaluga - Tsiolkovsky Park and Museum (11).jpg",
+   "File:Kaluga Wikiexpedition (2016-06-11) 0119.jpg"
+  ]
+ },
+ "allen-memorial-art-museum": {
+  "category": "Category:Allen Memorial Art Museum",
+  "add": [
+   "File:Oberlin College - Allen Memorial Art Museum.jpg",
+   "File:Ohio - Oberlin College - 20170715131652.jpg"
+  ]
+ },
+ "kramars-villa": {
+  "category": "Category:Kramářova vila",
+  "add": [
+   "File:Praha, Kramářova vila, severní pohled.jpg"
+  ],
+  "skip": [
+   "File:2018-08-13 CZ Praha 01, Vltava, Muzeum Franze Kafky, Mánesův most, Luznice 32101623, Kotva 32103926 (50051657802).jpg",
+   "File:2018-08-13 CZ Praha 01, Vltava, Muzeum Franze Kafky, Mánesův most, Luznice 32101623, Kotva 32103926 (50051658087).jpg",
+   "File:Kramarova vila v pohledu z Novomestske radnice.JPG"
+  ]
+ },
+ "hospital-clinico-san-carlos": {
+  "category": "Category:Hospital Clínico San Carlos",
+  "add": [
+   "File:Hospital Clínico San Carlos (Madrid) 02.jpg",
+   "File:Hospital Clínico San Carlos (Madrid) 03.jpg",
+   "File:Hospital Clínico San Carlos (Madrid) 01.jpg"
+  ],
+  "skip": [
+   "File:(Chamberí) Madrid - Aerial photograph (cropped).jpg"
+  ]
+ },
+ "sven-harry-s-art-museum": {
+  "category": "Category:Sven-Harrys konstmuseum",
+  "add": [
+   "File:Sven Harrys konstmuseum 2011a.jpg",
+   "File:Sven-Harrys (3).JPG",
+   "File:Sven-Harrys (4).JPG"
+  ],
+  "skip": [
+   "File:Selfie in a branch mirror.jpg"
+  ]
+ },
+ "new-city-hall-prague": {
+  "category": "Category:Nová radnice, Praha",
+  "add": [
+   "File:Praha Nova radnice.jpg",
+   "File:Prague Old Town 2021 42.jpg"
+  ],
+  "skip": [
+   "File:20.12.22 Prague 22 (52576577648).jpg"
+  ]
+ },
+ "tournay-abbey": {
+  "category": "Category:Abbaye Notre-Dame de Tournay",
+  "add": [
+   "File:Abbaye Notre-Dame de Tournay 30.jpg",
+   "File:Abbaye Notre-Dame de Tournay (France) vue d'ensemble 2191.jpg",
+   "File:Abbaye Notre-Dame de Tournay 35.jpg"
+  ]
+ },
+ "filoli": {
+  "category": "Category:Filoli",
+  "add": [
+   "File:Filoli mansion - backyard view.jpg",
+   "File:Filoli Mansion.jpg"
+  ]
+ },
+ "novi-sad-synagogue": {
+  "category": "Category:Novi Sad Synagogue",
+  "add": [
+   "File:Novosadska sinagoga 02.jpg",
+   "File:Novosadska sinagoga 01.jpg",
+   "File:Синагога у Новом Саду 3.JPG"
+  ]
+ },
+ "lucenec-synagogue": {
+  "category": "Category:Synagogue in Lučenec",
+  "add": [
+   "File:Lučenec - synagóga (2016) E.jpg",
+   "File:Synagogue in Lučenec (Losonc).jpg"
+  ]
+ },
+ "cluj-napoca-national-theatre": {
+  "category": "Category:Romanian State Theatre and Opera, Cluj-Napoca",
+  "add": [
+   "File:Opera nationala romana cluj - teatrul national lucian blaga - 2019iunie.jpg",
+   "File:Cluj-Napoca National Theatre in 2014.jpg",
+   "File:Teatrul Național Român.jpg"
+  ],
+  "skip": [
+   "File:Teatrul national Cluj Napoca.JPG",
+   "File:The Romanian Opera in Cluj-Napoca, Transylvania, Romania at night.jpg"
+  ]
+ },
+ "adam-mickiewicz-theatre-cieszyn": {
+  "category": "Category:Adam Mickiewicz Theatre in Cieszyn",
+  "add": [
+   "File:Teatr w Cieszynie 2.JPG",
+   "File:Teatr w Cieszynie 3.JPG"
+  ]
+ },
+ "heureka": {
+  "category": "Category:Heureka, Vantaa",
+  "add": [
+   "File:Science centre Heureka in Tikkurila, Vantaa, Finland, 2022 June.jpg",
+   "File:Heureka.jpg"
+  ],
+  "skip": [
+   "File:DavidJonesFakePerpetual.jpg",
+   "File:Science centre Heureka in Tikkurila, Vantaa, Finland, 2004.jpg",
+   "File:Heureka bridge in Tikkurila, Vantaa, Finland, 2004.jpg",
+   "File:Arctodus simus model.jpg"
+  ]
+ },
+ "historical-museum-of-the-palatinate": {
+  "category": "Category:Historisches Museum der Pfalz (Speyer)",
+  "add": [
+   "File:Speyer BW 2.JPG",
+   "File:Speyer, Museum der Pfalz.JPG",
+   "File:Speyer 1987 (10) Historisches Museum (51240150699).jpg"
+  ],
+  "skip": [
+   "File:Speyer Historisches Museum der Pfalz Türgriff 029.jpg"
+  ]
+ },
+ "new-mexico-museum-of-art": {
+  "category": "Category:New Mexico Museum of Art",
+  "add": [
+   "File:Santa Fe, New Mexico, USA 5-2024 25.jpg",
+   "File:Santa Fe, New Mexico, USA - panoramio (84).jpg",
+   "File:Newmexico museumofart.jpg"
+  ],
+  "skip": [
+   "File:20240907 1643 Sky Railway, Santa Fe, New Mexico.jpg"
+  ]
+ },
+ "hawaii-state-capitol": {
+  "category": "Category:Hawaii State Capitol",
+  "add": [
+   "File:2020 Hawaii State Capitol 01.jpg",
+   "File:2020 Hawaii State Capitol 02.jpg",
+   "File:Hawaii state capitol from the south-east.jpg"
+  ]
+ },
+ "desert-view-watchtower": {
+  "category": "Category:Desert View Watchtower",
+  "add": [
+   "File:Desert View Tower, GCNP, AZ 20110810 1.jpg",
+   "File:Grand Canyon Desert View Watchtower 17x11.jpg",
+   "File:Grand Canyon National Park-Arizona1456.JPG"
+  ],
+  "skip": [
+   "File:Atalaya de Desert View-2022 (2).jpg",
+   "File:08477 Grand Canyon Historic- Model of Desert View Watchtower c.1932 (5898100440).jpg"
+  ]
+ },
+ "painted-desert-inn": {
+  "category": "Category:Painted Desert Inn",
+  "add": [
+   "File:Painted Desert Inn NHL 01.jpg",
+   "File:Painted Desert Inn 2013.JPG",
+   "File:Painted Desert Inn NHL 02.jpg"
+  ]
+ },
+ "old-faithful-inn": {
+  "category": "Category:Old Faithful Inn",
+  "add": [
+   "File:Old Faithful Inn main facade.jpg",
+   "File:First light on Old Faithful Inn (52213506762).jpg"
+  ],
+  "skip": [
+   "File:First light on Old Faithful and Old Faithful Inn (52214528298).jpg",
+   "File:White bus Yellowstone YNP1.jpg"
+  ]
+ },
+ "013": {
+  "category": "Category:013, Tilburg",
+  "add": [
+   "File:Tilburg poppodium 013.jpg"
+  ],
+  "skip": [
+   "File:Kelli Scarr - 2009.jpg",
+   "File:SonataArctica 25112007Tilburg.JPG",
+   "File:Opeth at 013 Tilburg 2016 (1).jpg",
+   "File:Dave Brock.jpg"
+  ]
+ },
+ "museum-yamato-bunkakan": {
+  "category": "Category:Yamato Bunka Kan",
+  "add": [
+   "File:Yamato Bunkakan02nt3200.jpg",
+   "File:Yamato Bunkakan01s4592.jpg",
+   "File:Yamato Bunkakan05n4592.jpg"
+  ],
+  "skip": [
+   "File:Casket decorated with fan paintings Ogata Korin.jpg",
+   "File:Mao I 001.jpg"
+  ]
+ },
+ "urasoe-art-museum": {
+  "category": "Category:Urasoe Art Museum",
+  "add": [
+   "File:Urasoe Art Museum04s4s2940.jpg",
+   "File:Urasoe Art Museum01n3104.jpg",
+   "File:Urasoe Art Museum07n3104.jpg",
+   "File:Urasoe Art Museum06n3104.jpg"
+  ],
+  "skip": [
+   "File:Eight Views of Ryukyu by Hokusai - proof of Bamboo Hedge at Kumemura (Urasoe Art Museum).jpg",
+   "File:Eight Views of Ryukyu by Hokusai - proof of Banana Groves at Nakashima (Urasoe Art Museum).jpg"
+  ]
+ },
+ "vatroslav-lisinski-concert-hall": {
+  "category": "Category:Vatroslav Lisinski Concert Hall",
+  "add": [
+   "File:Koncertna dvorana Vatroslav Lisinski.jpg",
+   "File:Koncertna dvorana-Zagreb.JPG",
+   "File:Vatroslav Lisinski Concert Hall.jpg"
+  ],
+  "skip": [
+   "File:Angela Davis in Q&A.jpeg",
+   "File:Marko Perković Thompson Vatroslav Lisinski 7 rujna 2008 4.jpg",
+   "File:Ivanka Boljkovac koncert Križ nek ti sačuva ime Vatroslav Lisinski 7 rujna 2008.jpg"
+  ]
+ },
+ "janacek-theatre": {
+  "category": "Category:Janáčkovo divadlo",
+  "add": [
+   "File:Brno, Janáčkovo divadlo, park před divadlem (6913).jpg",
+   "File:Janackovo Divadlo Brno 2009.JPG",
+   "File:Janáčkovo divadlo - park 03.jpg"
+  ],
+  "skip": [
+   "File:Janáčkovo divadlo - park 03.jpg",
+   "File:Brno, Janáčkovo divadlo, interiér (1).jpg",
+   "File:Brno, Janáčkovo divadlo, interiér (2).jpg"
+  ]
+ },
+ "house-on-the-embankment": {
+  "category": "Category:House on Embankment",
+  "add": [
+   "File:Estrade Theatre (2023-03-27) 03.jpg",
+   "File:Комплекс «Дома правительства».jpg",
+   "File:Moscow. Moskva river. House on the Embankment P5162717 2600.jpg"
+  ],
+  "skip": [
+   "File:2026-08-22 Construction of Bolotnaya Embankment footbridge 03.jpg",
+   "File:2026-08-22 Construction of Bolotnaya Embankment footbridge 04.jpg"
+  ]
+ },
+ "de-doelen": {
+  "category": "Category:De Doelen Rotterdam",
+  "add": [
+   "File:Rotterdam de doelen.jpg",
+   "File:De Doelen Rotterdam I73515 - kopie.jpg",
+   "File:GraphyArchyPocket . Wikipedia 00068.jpg"
+  ],
+  "skip": [
+   "File:Volksdansers op het Schouwburgplein bij De Doelen tijdens de Manifestatie C70 1970 2.jpg",
+   "File:Maquette nieuw Concertgebouw te Rotterdam, Bestanddeelnr 910-9715.jpg"
+  ]
+ },
+ "palacio-de-congresos-madrid": {
+  "category": "Category:Palacio de Congresos de Madrid",
+  "add": [
+   "File:Palacio de Congresos y Exposiciones (Madrid) 01.jpg",
+   "File:Madrid - Palacio de Congresos (35260705873).jpg",
+   "File:Madrid, palacio de congresos.jpg"
+  ]
+ },
+ "siida-museum": {
+  "category": "Category:Siida",
+  "add": [
+   "File:SIIDA Inari, Suomi Finland 2013-03-10 001.jpg"
+  ],
+  "skip": [
+   "File:Sami reindeer fur shoes, Siida Museum, Inari, Finland (1) (36545928621).jpg",
+   "File:Bear trap, Siida Museum, Inari, Finland (1) (36289274380).jpg",
+   "File:Bear trap, Siida Museum, Inari, Finland (3) (36515528192).jpg",
+   "File:Sami Parliament speaker's club.jpg"
+  ]
+ },
+ "jewish-museum-munich": {
+  "category": "Category:Jewish Museum Munich",
+  "add": [
+   "File:München Jüdisches Zentrum und Jüdisches Museum.jpg",
+   "File:Jüdisches Museum München 7437.jpg",
+   "File:Chanukkia-st-jakobs-platz-2019.jpg"
+  ],
+  "skip": [
+   "File:RFERL-Ausstellung Jüdisches Museum München, 2.jpeg",
+   "File:REFRL-Ausstellung Stadtmuseum München, Modell Oettingenstr 67, 1.jpeg"
+  ]
+ },
+ "bush-house": {
+  "category": "Category:Bush House, London",
+  "add": [
+   "File:Bush House, London 2024-09-04.jpg",
+   "File:Bush House, Aldwych, London.jpg"
+  ]
+ },
+ "waino-aaltonen-museum-of-art": {
+  "category": "Category:Wäinö Aaltonen Museum of Art",
+  "add": [
+   "File:Wäinö Aaltosen museo.jpg",
+   "File:Wäinö Aaltonen Museum of Art 02.jpg",
+   "File:Wäinö Aaltonen Museum of Art 01.jpg"
+  ]
+ },
+ "royal-armouries-museum": {
+  "category": "Category:Royal Armouries, Leeds",
+  "add": [
+   "File:Leeds Lock and Royal Armouries.jpg",
+   "File:Royal Armouries, Leeds (8th June 2018) 001.jpg",
+   "File:RoyalArmouriesMuseumandBridge.jpg"
+  ]
+ },
+ "ohara-museum-of-art": {
+  "category": "Category:Ohara Museum of Art",
+  "add": [
+   "File:Kurashiki Ohara Art Museum02nt3200.jpg",
+   "File:Kurashiki Ohara Art Museum03n4592.jpg",
+   "File:211203 Ohara Museum of Art Kurashiki Okayama pref Japan01s3.jpg"
+  ],
+  "skip": [
+   "File:Edvard Munch - Madonna - Google Art Project (495100).jpg",
+   "File:KojimaTorajirō 1912 Sleeping Young Model.png"
+  ]
  }
 }

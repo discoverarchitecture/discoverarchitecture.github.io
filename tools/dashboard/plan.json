@@ -1,5 +1,35 @@
 [
  {
+  "id": "2026-10-20-5",
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "goal": "Drawings for the most-studied buildings ranked 201-1,000: Commons scan in four runs, Sonnet first check, Opus check by eye, fetch",
+  "target": null,
+  "actual": null,
+  "note": "",
+  "status": "in progress"
+ },
+ {
+  "id": "2026-10-20-6",
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "goal": "Architect pages batch 7 (ranks 161-190): write-ups by the Opus writer chat, then build, check and pull request",
+  "target": null,
+  "actual": null,
+  "note": "",
+  "status": "in progress"
+ },
+ {
+  "id": "2026-10-20-7",
+  "date": "2026-10-20",
+  "workstream": "FGA Studio (design)",
+  "goal": "Remake the sample jury board as a competition-style sheet and put three directions on the canvas (v32), phone and computer",
+  "target": null,
+  "actual": null,
+  "note": "Canvas v32; page with the new board at https://claude.ai/artifact/BSryrWdYyaYMF6beeECjco; branch claude/studio-board",
+  "status": "done"
+ },
+ {
   "id": "2026-10-19-3",
   "date": "2026-10-19",
   "workstream": "Data collection",

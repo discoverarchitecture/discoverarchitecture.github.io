@@ -1,0 +1,615 @@
+[
+ {
+  "id": "odeon-tower",
+  "qid": "Q3533145",
+  "status": "skip",
+  "why": "Residential and office tower; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "osaka-city-museum-of-fine-arts",
+  "qid": "Q9004920",
+  "status": "skip",
+  "why": "Two-sentence lead names no architect and gives no reason to study it."
+ },
+ {
+  "id": "expocenter-of-ukraine",
+  "qid": "Q4314964",
+  "status": "skip",
+  "why": "Exhibition complex; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "museum-of-sketches-for-public-art",
+  "qid": "Q683097",
+  "status": "skip",
+  "why": "The lead names no architect; 1934 is the museum's founding year, and the photos show a 2015-17 entrance."
+ },
+ {
+  "id": "tour-paradis",
+  "qid": "Q3533637",
+  "status": "skip",
+  "why": "Office tower; the lead gives height and occupancy records, not a design reason."
+ },
+ {
+  "id": "ljubljana-university-medical-centre",
+  "qid": "Q6470942",
+  "status": "skip",
+  "why": "Hospital; the photos show staff and visiting officials, not the building as the subject."
+ },
+ {
+  "id": "robin-hood-gardens",
+  "qid": "Q7352508",
+  "status": "skip",
+  "why": "Demolished: the lead describes the estate in the past tense."
+ },
+ {
+  "id": "marubi-national-museum-of-photography",
+  "qid": "Q13039148",
+  "status": "skip",
+  "why": "The lead does not name Kolë Idromeno; 1970 is the photo studio's founding year."
+ },
+ {
+  "id": "elgin-and-winter-garden-theatres",
+  "qid": "Q5360073",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect (Wikidata says Thomas W. Lamb) and gives no design reason."
+ },
+ {
+  "id": "kings-theatre-brooklyn",
+  "qid": "Q6413028",
+  "status": "skip",
+  "why": "Movie palace; the lead names Rapp and Rapp but gives no design reason."
+ },
+ {
+  "id": "jesuit-college-kutna-hora",
+  "qid": "Q6731222",
+  "status": "skip",
+  "why": "Historic school; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "mark-hellinger-theatre",
+  "qid": "Q6767988",
+  "status": "skip",
+  "why": "Theatre; the photos are street views dominated by signs, and the lead's design claim is thin."
+ },
+ {
+  "id": "inkognitogata-18",
+  "qid": "Q944124",
+  "status": "skip",
+  "why": "The lead names Riseng & Kiehl for the new buildings, not Henrik Nissen; the photos show the older villa."
+ },
+ {
+  "id": "de-kuip",
+  "qid": "Q330298",
+  "status": "unsure",
+  "why": "Stadium; the photos show a shore, a memorial plaque and a night view, not the building. Architects not named in the lead text we have.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museum-of-far-eastern-antiquities-stockholm",
+  "qid": "Q298289",
+  "status": "skip",
+  "why": "Museum in an old armoury (Tyghuset); the lead names no architect, and 1926 is the museum's founding year."
+ },
+ {
+  "id": "bush-house",
+  "qid": "Q852282",
+  "status": "unsure",
+  "why": "Strong candidate, but the lead text in prep.json is cut off before any architect is named (Wikidata says Harvey Wiley Corbett). Check the full lead."
+ },
+ {
+  "id": "listasavn-f-roya",
+  "qid": "Q1130410",
+  "status": "skip",
+  "why": "The lead names J.P. Gregoriussen but gives no reason a student would study it."
+ },
+ {
+  "id": "109-department-store",
+  "qid": "Q685328",
+  "status": "skip",
+  "why": "Department store; the lead gives no design reason."
+ },
+ {
+  "id": "dominion-theatre",
+  "qid": "Q2173732",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "museum-of-the-republic-of-north-macedonia",
+  "qid": "Q3133557",
+  "status": "unsure",
+  "why": "The lead names no architect; 1924 is the museum's founding year, not the building's, so the building's date and architect need checking."
+ },
+ {
+  "id": "aldwych-theatre",
+  "qid": "Q1783531",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "palau-nacional",
+  "qid": "Q2341107",
+  "status": "photo",
+  "why": "Lead names the three architects and the 1929 exhibition site; year null because the lead gives no completion year.",
+  "name": "Palau Nacional",
+  "by": "Enric Catà, Eugeni Pere Cendoya, Pere Domènech i Roura",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": null,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "The 1929 International Exhibition's main site, with an elliptical dome; Catalonia's national art museum since 1934.",
+  "commons_category": "Category:Palau Nacional (Barcelona)",
+  "coords": [
+   41.36833,
+   2.15331
+  ],
+  "photos": [
+   {
+    "file": "File:Palau Nacional, Barcelona.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:(Barcelona) Palau Nacional - National Museum of Art of Catalunya.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "u-s-steel-tower",
+  "qid": "Q632329",
+  "status": "skip",
+  "why": "Office tower; the lead names no architect and gives height records only."
+ },
+ {
+  "id": "bijlmermeer",
+  "qid": "Q128498",
+  "status": "skip",
+  "why": "A neighbourhood, not a building; the lead gives no design reason."
+ },
+ {
+  "id": "usher-hall",
+  "qid": "Q1636910",
+  "status": "skip",
+  "why": "Concert hall; the lead names no architect and describes events, not design."
+ },
+ {
+  "id": "tyholttarnet",
+  "qid": "Q1935277",
+  "status": "skip",
+  "why": "Radio tower; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "union-square-hong-kong",
+  "qid": "Q1114839",
+  "status": "skip",
+  "why": "Mixed-use real estate complex; the lead gives size and towers, not design."
+ },
+ {
+  "id": "waino-aaltonen-museum-of-art",
+  "qid": "Q3019261",
+  "status": "skip",
+  "why": "The lead's 'Aaltonen' is the sculptor, not the architects; no design reason is given."
+ },
+ {
+  "id": "gothenburg-city-theatre",
+  "qid": "Q3118440",
+  "status": "photo",
+  "why": "Lead names Carl Bergsten and a style (Streamline Moderne); the photos are daylight views of the whole front.",
+  "name": "Gothenburg City Theatre",
+  "by": "Carl Bergsten",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 1934,
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Neo-Classical with a touch of Streamline Moderne, on Götaplatsen; critics found its auditorium intimate and democratic.",
+  "commons_category": "Category:Göteborgs stadsteater",
+  "coords": [
+   57.6975,
+   11.9805
+  ],
+  "photos": [
+   {
+    "file": "File:At Göteborg 2026 0138.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Göteborgs stadsteater.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Göteborg 2026 0139.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ethnographic-museum-zagreb",
+  "qid": "Q502157",
+  "status": "photo",
+  "why": "Lead names Vjekoslav Bastl and calls it a Secession building from 1903; photos show the whole facade.",
+  "name": "Ethnographic Museum, Zagreb",
+  "by": "Vjekoslav Bastl",
+  "city": "Zagreb",
+  "cc": "HR",
+  "year": 1903,
+  "type": "Museum",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "A Secession building, the former Trades Hall of 1903, with statues by Rudolf Valdec and frescoes by Oton Iveković.",
+  "commons_category": "Category:Ethnographic museum in Zagreb",
+  "coords": [
+   45.80835,
+   15.969
+  ],
+  "photos": [
+   {
+    "file": "File:Etnografski muzej u Zagrebu 3, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografski muzej u Zagrebu 2, 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografski muzej u Zagrebu, 2025.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-kitahama",
+  "qid": "Q2201650",
+  "status": "skip",
+  "why": "Residential tower; the lead names a developer, not an architect."
+ },
+ {
+  "id": "thalia-theater-hamburg",
+  "qid": "Q456499",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "perelman-performing-arts-center",
+  "qid": "Q18152059",
+  "status": "photo",
+  "why": "Lead names Joshua Ramus; a 2023 contemporary performing arts center on the World Trade Center site.",
+  "name": "Perelman Performing Arts Center",
+  "by": "Joshua Ramus",
+  "city": "New York",
+  "cc": "US",
+  "year": 2023,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Joshua Ramus's performing arts center on the World Trade Center site, chosen in 2015 after earlier plans were scrapped.",
+  "commons_category": "Category:Ronald O. Perelman Performing Arts Center",
+  "coords": [
+   40.7126,
+   -74.0123
+  ],
+  "photos": [
+   {
+    "file": "File:Performing arts center October 1st 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Perelman Performing Arts Center (55313844031).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Perelman-Performing-Arts-Center-Street-03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "russian-army-theatre",
+  "qid": "Q1958711",
+  "status": "photo",
+  "why": "Lead names Halabyan and Simbirtsev and calls it a prime example of Stalinist architecture; built to 1940 per the lead.",
+  "name": "Russian Army Theatre",
+  "by": "Karo Halabyan, Vasiliy Simbirtsev, Boris Barkhin",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 1940,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "A prime example of Stalinist architecture, the largest theatre in Moscow, designed to resemble a Soviet red star.",
+  "commons_category": "Category:Russian Army Theatre",
+  "coords": [
+   55.78279,
+   37.61377
+  ],
+  "photos": [
+   {
+    "file": "File:Wiki Red Army Theater Moscow.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-james-theatre",
+  "qid": "Q3909790",
+  "status": "skip",
+  "why": "Broadway theatre; the photos are mostly signs, and the lead gives only a style name."
+ },
+ {
+  "id": "bodleian-art-archaeology-and-ancient-world-library",
+  "qid": "Q2210813",
+  "status": "skip",
+  "why": "The lead names no architect and gives no design reason."
+ },
+ {
+  "id": "psd-bank-dome",
+  "qid": "Q319387",
+  "status": "skip",
+  "why": "Arena; the lead gives capacity and events only."
+ },
+ {
+  "id": "musee-d-art-contemporain-du-val-de-marne",
+  "qid": "Q3329594",
+  "status": "photo",
+  "why": "Lead names Jacques Ripault; a 2005 contemporary museum with a clean facade, photographed in daylight.",
+  "name": "Musée d'Art Contemporain du Val-de-Marne",
+  "by": "Denise Duhart, Jacques Ripault",
+  "city": "Vitry-sur-Seine",
+  "cc": "FR",
+  "year": 2005,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A 2005 contemporary art museum by Jacques Ripault, set in 10,000 m² of public garden.",
+  "commons_category": "Category:MAC/VAL",
+  "coords": [
+   48.79278,
+   2.38722
+  ],
+  "photos": [
+   {
+    "file": "File:Vitry - Musee d'art contemporain 00.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Le MAC VAL de Vitry sur Seine (43776159612).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "schomburg-center-for-research-in-black-culture",
+  "qid": "Q1060566",
+  "status": "skip",
+  "why": "Library; the lead names no architect and is about the collections."
+ },
+ {
+  "id": "palace-of-the-patriarchate-belgrade",
+  "qid": "Q16084567",
+  "status": "skip",
+  "why": "The lead names no architect and gives no design reason."
+ },
+ {
+  "id": "museum-catharijneconvent",
+  "qid": "Q1954426",
+  "status": "skip",
+  "why": "The lead names no architect; a converted convent, with no design reason given."
+ },
+ {
+  "id": "royal-armouries-museum",
+  "qid": "Q7373689",
+  "status": "skip",
+  "why": "The lead names no architect (Derek Walker is in Wikidata only) and gives no design reason."
+ },
+ {
+  "id": "stormvloedkering-hollandse-ijssel",
+  "qid": "Q821997",
+  "status": "skip",
+  "why": "Engineering: a storm surge barrier, not a building."
+ },
+ {
+  "id": "united-states-capitol-visitor-center",
+  "qid": "Q2495308",
+  "status": "unsure",
+  "why": "The main photo is an interior; the other photos show ceremonies and events.",
+  "note": "no main photo"
+ },
+ {
+  "id": "heidelberg-university-library",
+  "qid": "Q880794",
+  "status": "skip",
+  "why": "Library; the lead names no architect and gives no design reason; the photos show no clear exterior."
+ },
+ {
+  "id": "theatre-on-the-balustrade",
+  "qid": "Q919372",
+  "status": "skip",
+  "why": "The lead is one sentence and describes no building."
+ },
+ {
+  "id": "nuremberg-toy-museum",
+  "qid": "Q2310413",
+  "status": "skip",
+  "why": "The lead names no architect and gives no design reason."
+ },
+ {
+  "id": "fernmeldeturm-nurnberg",
+  "qid": "Q458405",
+  "status": "skip",
+  "why": "Telecom tower; the lead gives height and the egg-shaped basket, but no reason a student would study it."
+ },
+ {
+  "id": "national-museum-of-science-and-technology-sweden",
+  "qid": "Q177550",
+  "status": "skip",
+  "why": "The lead names no architect and gives no design reason."
+ },
+ {
+  "id": "ohara-museum-of-art",
+  "qid": "Q2977589",
+  "status": "unsure",
+  "why": "The lead gives a first (the first permanent Western-art collection in Japan), but the lead text does not name Kazue Yakushiji. Check the architect."
+ },
+ {
+  "id": "john-and-mable-ringling-museum-of-art",
+  "qid": "Q612530",
+  "status": "skip",
+  "why": "Museum; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "verkhovna-rada-building",
+  "qid": "Q2790684",
+  "status": "unsure",
+  "why": "Good candidate: the lead names Zabolotnyi, dates it to 1936-38 and notes his State Prize. But no photo shows the whole building clearly: the main is a street with cars, and the colonnade view is dim and off to one side.",
+  "note": "no main photo"
+ },
+ {
+  "id": "estonia-theatre",
+  "qid": "Q11704264",
+  "status": "photo",
+  "why": "Lead names Lindgren and Lönn and a Jugendstil design, opened 1913; photos are historic exteriors (public domain).",
+  "name": "Estonia Theatre",
+  "by": "Wivi Lönn, Armas Lindgren",
+  "city": "Tallinn",
+  "cc": "EE",
+  "year": 1913,
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Jugendstil theatre by Armas Lindgren and Wivi Lönn, opened in 1913, once Tallinn's largest building.",
+  "commons_category": "Category:Estonia Theatre",
+  "coords": [
+   59.43472,
+   24.75083
+  ],
+  "photos": [
+   {
+    "file": "File:Tallinn, Estonia seltsi hoone, AM N05972.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:AM N06025.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Tallinn, teater Estonia - vaade turuplatsile, AM N05926.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kharkiv-state-academy-of-design-and-arts",
+  "qid": "Q12166926",
+  "status": "skip",
+  "why": "The lead names no architect and gives no design reason."
+ },
+ {
+  "id": "sondheim-theatre",
+  "qid": "Q2122620",
+  "status": "skip",
+  "why": "Theatre; the lead names Sprague but gives no design reason."
+ },
+ {
+  "id": "lenkom-theatre",
+  "qid": "Q2396186",
+  "status": "skip",
+  "why": "Theatre; the lead gives its history, not a design reason."
+ },
+ {
+  "id": "datsan-gunzechoinei",
+  "qid": "Q2640832",
+  "status": "skip",
+  "why": "Temple; the lead names no architect and gives only a record claim."
+ },
+ {
+  "id": "tsiolkovsky-state-museum-of-the-history-of-cosmonautics",
+  "qid": "Q4146892",
+  "status": "photo",
+  "why": "Lead names the designers and calls it the first museum in the world on space history; opened 1967.",
+  "name": "Tsiolkovsky State Museum of the History of Cosmonautics",
+  "by": "Yevgeny Kireyev",
+  "city": "Kaluga",
+  "cc": "RU",
+  "year": 1967,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "The first museum in the world on the history of space exploration, opened in Kaluga in 1967.",
+  "commons_category": "Category:Tsiolkovsky State Museum of the History of Cosmonautics",
+  "coords": [
+   54.5172,
+   36.2306
+  ],
+  "photos": [
+   {
+    "file": "File:Space museum (Kaluga).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "vinohrady-theatre",
+  "qid": "Q478043",
+  "status": "skip",
+  "why": "Theatre; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "huntington-place",
+  "qid": "Q1104711",
+  "status": "skip",
+  "why": "Convention centre; the lead gives no design reason."
+ }
+]

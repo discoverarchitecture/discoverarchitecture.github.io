@@ -1,0 +1,714 @@
+[
+  {
+    "id": "betondorp",
+    "qid": "Q582916",
+    "status": "unsure",
+    "why": "Lead names no architect (Wikidata lists four) and gives only \"the 1920s\", so no year."
+  },
+  {
+    "id": "moore-theatre",
+    "qid": "Q6908241",
+    "status": "skip",
+    "why": "Theatre; lead gives history, no design reason; architect not explained."
+  },
+  {
+    "id": "virginia-museum-of-fine-arts",
+    "qid": "Q4013975",
+    "status": "unsure",
+    "why": "Wikidata credits Rick Mather, but the lead gives 1936 for the museum and names no architect; Mather worked decades later."
+  },
+  {
+    "id": "leiden-university-library",
+    "qid": "Q638395",
+    "status": "skip",
+    "why": "Lead is about the library holdings, not the building; photos are old prints and books."
+  },
+  {
+    "id": "uss-arizona-memorial",
+    "qid": "Q2004262",
+    "status": "skip",
+    "why": "Memorial over a wreck; monuments are skipped and the main photo shows the wreck."
+  },
+  {
+    "id": "south-dakota-state-capitol",
+    "qid": "Q2919981",
+    "status": "skip",
+    "why": "State capitol; lead gives no design reason."
+  },
+  {
+    "id": "montana-state-capitol",
+    "qid": "Q2985180",
+    "status": "skip",
+    "why": "State capitol; lead gives no design reason."
+  },
+  {
+    "id": "gotoh-museum",
+    "qid": "Q2374140",
+    "status": "skip",
+    "why": "Lead names no architect and gives no design reason."
+  },
+  {
+    "id": "oita-art-museum",
+    "qid": "Q11432755",
+    "status": "skip",
+    "why": "Lead names no architect and gives only the collection."
+  },
+  {
+    "id": "urasoe-art-museum",
+    "qid": "Q11558303",
+    "status": "skip",
+    "why": "Lead names no architect and gives only the collection."
+  },
+  {
+    "id": "government-building-vaduz",
+    "qid": "Q2137745",
+    "status": "skip",
+    "why": "Neo-Renaissance government building; the lead firsts are utilities, not design."
+  },
+  {
+    "id": "yanase-takashi-memorial-hall",
+    "qid": "Q2496737",
+    "status": "skip",
+    "why": "Lead names no architect; it describes an artist museum, and the first photo is an object."
+  },
+  {
+    "id": "london-palladium",
+    "qid": "Q676755",
+    "status": "skip",
+    "why": "Matcham theatre; lead gives a listing and history, no design reason."
+  },
+  {
+    "id": "kenwood-house",
+    "qid": "Q764804",
+    "status": "photo",
+    "why": "Lead: Robert Adam remodelled it in the 18th century. Year null: the lead gives no single date (built late 17th century, remodelled 18th).",
+    "name": "Kenwood House",
+    "by": "Robert Adam, William Atkinson",
+    "city": "London",
+    "cc": "GB",
+    "year": null,
+    "type": "House",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Detail",
+      "Light & shadow",
+      "Landscape"
+    ],
+    "features": "Remodelled in the 18th century by Scottish architect Robert Adam, on the edge of Hampstead Heath.",
+    "commons_category": "Category:Kenwood House",
+    "coords": [
+      51.57139,
+      -0.1675
+    ],
+    "photos": [
+      {
+        "file": "File:Hampstead Heath , Kenwood House - geograph.org.uk - 7691885.jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Kenwood House North Facade.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:1379242 I KENWOOD HOUSE, from N Camden London 20250612 0001.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "vatroslav-lisinski-concert-hall",
+    "qid": "Q1267773",
+    "status": "skip",
+    "why": "Concert hall; lead gives seats and lobby only, no architect named."
+  },
+  {
+    "id": "janacek-theatre",
+    "qid": "Q3511873",
+    "status": "skip",
+    "why": "Opera house; lead gives building history, names no architect, no design reason."
+  },
+  {
+    "id": "basilica-of-sainte-therese-lisieux",
+    "qid": "Q810098",
+    "status": "skip",
+    "why": "Pilgrimage church; lead gives size and visitors, no architect named."
+  },
+  {
+    "id": "duchcov-chateau",
+    "qid": "Q1416937",
+    "status": "skip",
+    "why": "Baroque chateau; lead names no architect and the year 2000 is not a build date."
+  },
+  {
+    "id": "fukui-fine-arts-museum",
+    "qid": "Q11591489",
+    "status": "skip",
+    "why": "Lead names no architect and gives only the collection."
+  },
+  {
+    "id": "waldstadion-frankfurt",
+    "qid": "Q157273",
+    "status": "skip",
+    "why": "Stadium; ordinary sports venue."
+  },
+  {
+    "id": "arcul-de-triumf",
+    "qid": "Q638278",
+    "status": "skip",
+    "why": "Triumphal arch; monuments are skipped."
+  },
+  {
+    "id": "old-bailey",
+    "qid": "Q1194829",
+    "status": "skip",
+    "why": "Courthouse; lead gives listing and monumental style, no design reason a student would study."
+  },
+  {
+    "id": "london-coliseum",
+    "qid": "Q1868965",
+    "status": "photo",
+    "why": "Lead: Frank Matcham design, and the first theatre in England with a triple stage revolve.",
+    "name": "London Coliseum",
+    "by": "Frank Matcham",
+    "city": "London",
+    "cc": "GB",
+    "year": 1904,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Circulation",
+      "Detail"
+    ],
+    "features": "Opened in 1904 with the first triple stage revolve in England, and lifts to its upper levels.",
+    "commons_category": "Category:Coliseum Theatre",
+    "coords": [
+      51.5097,
+      -0.12639
+    ],
+    "photos": [
+      {
+        "file": "File:London Coliseum.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:London Coliseum 2018-09-23.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:The Coliseum and the Chandos, City of Westminster (02).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "copenhagen-city-hall",
+    "qid": "Q2010247",
+    "status": "photo",
+    "why": "Lead: Martin Nyrop design in National Romantic style, built 1892-1905.",
+    "name": "Copenhagen City Hall",
+    "by": "Martin Nyrop",
+    "city": "Copenhagen",
+    "cc": "DK",
+    "year": 1905,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Brick",
+      "Detail"
+    ],
+    "features": "The Danish National Romantic city hall by Martin Nyrop, built 1892 to 1905 in Renaissance Revival style.",
+    "commons_category": "Category:Copenhagen City Hall",
+    "coords": [
+      55.67528,
+      12.57028
+    ],
+    "photos": [
+      {
+        "file": "File:Københavns Rådhus 2013 (cropped).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:20190621 Copenhagen 6782 (48445373296).jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Københavns Rådhus - Copenhagen City Hall (37177879483).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "haute-provence-observatory",
+    "qid": "Q2013015",
+    "status": "skip",
+    "why": "Observatory; lead gives no design reason and the main photo is a telescope inside."
+  },
+  {
+    "id": "rathaus-schoneberg",
+    "qid": "Q695194",
+    "status": "skip",
+    "why": "Town hall; lead gives political history, names no architect, no design reason."
+  },
+  {
+    "id": "lady-lever-art-gallery",
+    "qid": "Q1586957",
+    "status": "skip",
+    "why": "Gallery; lead is about the collection and names no architect."
+  },
+  {
+    "id": "vakhtangov-state-academic-theatre",
+    "qid": "Q1186561",
+    "status": "skip",
+    "why": "Theatre; lead gives company history, no architect named."
+  },
+  {
+    "id": "waldemarsudde",
+    "qid": "Q537",
+    "status": "photo",
+    "why": "Lead: Boberg designed the Mansion (1905) and Gallery (1913). Year is 1905, not the 1947 death year in Wikidata.",
+    "name": "Waldemarsudde",
+    "by": "Ferdinand Boberg",
+    "city": "Stockholm",
+    "cc": "SE",
+    "year": 1905,
+    "type": "Museum",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Landscape",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "Prince Eugen's former home on Djurgården, its main building completed in 1905 by Ferdinand Boberg.",
+    "commons_category": "Category:Prins Eugens Waldemarsudde",
+    "coords": [
+      59.32,
+      18.11306
+    ],
+    "photos": [
+      {
+        "file": "File:Waldemarsudde April 2006.JPG",
+        "license": "CC BY-SA 2.5",
+        "seen": true
+      },
+      {
+        "file": "File:Waldemarsudde - 20260417 - 14.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "gaudi-house-museum",
+    "qid": "Q1968399",
+    "status": "unsure",
+    "why": "Lead credits Gaudi for the furniture only; Wikidata names Francesc Berenguer i Mestres, who is not in the lead, so the house architect is unconfirmed."
+  },
+  {
+    "id": "parliament-of-navarre",
+    "qid": "Q2742602",
+    "status": "skip",
+    "why": "Regional parliament; lead gives no architect or design reason."
+  },
+  {
+    "id": "james-earl-jones-theatre",
+    "qid": "Q5173206",
+    "status": "skip",
+    "why": "Broadway theatre; lead gives no design reason."
+  },
+  {
+    "id": "duff-house",
+    "qid": "Q1263962",
+    "status": "skip",
+    "why": "Georgian house; lead gives listing and form, no architect or design reason."
+  },
+  {
+    "id": "hatoyama-hall",
+    "qid": "Q871522",
+    "status": "skip",
+    "why": "Residence; lead gives political history, no architect, no design reason."
+  },
+  {
+    "id": "theater-freiburg",
+    "qid": "Q1727716",
+    "status": "skip",
+    "why": "Theatre; lead gives its venues and history; photos show a later glass extension."
+  },
+  {
+    "id": "theater-st-gallen",
+    "qid": "Q2415961",
+    "status": "unsure",
+    "why": "Lead names no architect (Wikidata: Claude Paillard) and gives no year; the white building in the photos is the 2022 interim theatre."
+  },
+  {
+    "id": "osaka-international-peace-center",
+    "qid": "Q7105564",
+    "status": "skip",
+    "why": "Museum; lead gives history and politics, no architect or design reason."
+  },
+  {
+    "id": "bedford-park-london",
+    "qid": "Q83290",
+    "status": "skip",
+    "why": "A suburb (district), not a building."
+  },
+  {
+    "id": "westfalenstadion",
+    "qid": "Q150928",
+    "status": "skip",
+    "why": "Stadium; ordinary sports venue."
+  },
+  {
+    "id": "rheinenergiestadion",
+    "qid": "Q151893",
+    "status": "skip",
+    "why": "Stadium; ordinary sports venue."
+  },
+  {
+    "id": "walters-art-museum",
+    "qid": "Q210081",
+    "status": "skip",
+    "why": "Lead gives collections and founders, no architect or design reason."
+  },
+  {
+    "id": "fabra-observatory",
+    "qid": "Q1373728",
+    "status": "skip",
+    "why": "Observatory; lead gives research, no architect or design reason."
+  },
+  {
+    "id": "cadarache",
+    "qid": "Q855102",
+    "status": "skip",
+    "why": "Research centre; not a building study, and photos are aerial and maps."
+  },
+  {
+    "id": "naturmuseum-senckenberg",
+    "qid": "Q706441",
+    "status": "skip",
+    "why": "Natural history museum; lead gives visitors and collection, no architect."
+  },
+  {
+    "id": "poble-espanyol",
+    "qid": "Q1062480",
+    "status": "unsure",
+    "why": "Lead gives the design reason (117 replica buildings in regional styles) but names no architect (Wikidata: Francesc Folguera)."
+  },
+  {
+    "id": "grand-rex",
+    "qid": "Q1809902",
+    "status": "skip",
+    "why": "Lead is one line; the main photo is a night shot."
+  },
+  {
+    "id": "museum-mayer-van-den-bergh",
+    "qid": "Q1699233",
+    "status": "skip",
+    "why": "Lead gives the collection, no architect and no design reason."
+  },
+  {
+    "id": "smaratorg-tower",
+    "qid": "Q1814829",
+    "status": "skip",
+    "why": "Office and retail tower; the lead gives height only."
+  },
+  {
+    "id": "museu-de-belles-arts-de-valencia",
+    "qid": "Q1748404",
+    "status": "skip",
+    "why": "Lead gives the collection and a 17th-18th century palace; no architect named."
+  },
+  {
+    "id": "skagens-museum",
+    "qid": "Q3555520",
+    "status": "skip",
+    "why": "Lead gives the painters and collection; no architect named."
+  },
+  {
+    "id": "lazaro-galdiano-museum",
+    "qid": "Q386570",
+    "status": "skip",
+    "why": "Lead gives the collection and opening date; no architect named."
+  },
+  {
+    "id": "bolshoy-dom",
+    "qid": "Q4092985",
+    "status": "photo",
+    "why": "Lead: late Constructivist design by three named architects, built 1931-32 (year is the end of that range).",
+    "name": "Bolshoy Dom",
+    "by": "Noi Trotsky, Alexander Gegello, Andrei Ol",
+    "city": "Saint Petersburg",
+    "cc": "RU",
+    "year": 1932,
+    "type": "Civic",
+    "movement": "Modernism",
+    "concepts": [
+      "Monumentality",
+      "Facade as skin",
+      "Detail"
+    ],
+    "features": "A late Constructivist office block in Saint Petersburg, designed by Noi Trotsky, Alexander Gegello and Andrey Ol.",
+    "commons_category": "Category:Liteyny 4",
+    "coords": [
+      59.9485,
+      30.3492
+    ],
+    "photos": [
+      {
+        "file": "File:Big House on Liteyny prospect in Saint Petersburg.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:SPb Liteyny4 019 8223.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Tsentralny District, St Petersburg, Russia - panoramio (268).jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "house-on-the-embankment",
+    "qid": "Q1504212",
+    "status": "unsure",
+    "why": "Lead calls it constructivist but names no architect (Wikidata: Boris Iofan)."
+  },
+  {
+    "id": "museum-for-the-macedonian-struggle-thessaloniki",
+    "qid": "Q1954602",
+    "status": "skip",
+    "why": "Neoclassical museum; lead gives its history, no design reason."
+  },
+  {
+    "id": "sprengel-museum",
+    "qid": "Q510144",
+    "status": "skip",
+    "why": "Lead names architects but no design reason; photos are a sculpture and stage events, no main photo."
+  },
+  {
+    "id": "dayton-art-institute",
+    "qid": "Q597355",
+    "status": "skip",
+    "why": "Lead gives the collection and rankings; no architect named."
+  },
+  {
+    "id": "aland-maritime-museum",
+    "qid": "Q4357413",
+    "status": "unsure",
+    "why": "Lead describes the prow-shaped design but names no architect (Wikidata: Jonas Cedercreutz); no year in the lead."
+  },
+  {
+    "id": "museum-of-communication-frankfurt",
+    "qid": "Q1954640",
+    "status": "unsure",
+    "why": "Lead names Gunter Behnisch and 1990 for the present building (a keep), but the main photo shows a sculpture, not the building.",
+    "note": "no main photo"
+  },
+  {
+    "id": "de-doelen",
+    "qid": "Q2237396",
+    "status": "skip",
+    "why": "Lead names no architect; its reason is the listing and rebuild, not design."
+  },
+  {
+    "id": "cankar-centre",
+    "qid": "Q5032503",
+    "status": "unsure",
+    "why": "Lead names Edvard Ravnikar; the two photos are a facade close-up and an interior, so no outside view.",
+    "note": "no main photo"
+  },
+  {
+    "id": "winterthur-museum-garden-and-library",
+    "qid": "Q2585168",
+    "status": "skip",
+    "why": "Estate and museum; lead gives the collection, no design reason."
+  },
+  {
+    "id": "yebisu-garden-place",
+    "qid": "Q11259433",
+    "status": "skip",
+    "why": "Mixed-use complex; lead gives no design reason."
+  },
+  {
+    "id": "villa-massimo",
+    "qid": "Q523577",
+    "status": "skip",
+    "why": "Lead is about the academy and fellowship; no architect or design reason."
+  },
+  {
+    "id": "palacio-de-congresos-madrid",
+    "qid": "Q6057914",
+    "status": "skip",
+    "why": "Lead gives only a Miro mosaic and disuse; no architect or design reason."
+  },
+  {
+    "id": "court-of-appeal-for-northern-norrland",
+    "qid": "Q10526701",
+    "status": "skip",
+    "why": "Court building; lead gives its jurisdiction, no design reason."
+  },
+  {
+    "id": "kharkiv-ukrainian-drama-theatre",
+    "qid": "Q4496305",
+    "status": "skip",
+    "why": "Theatre; lead gives company history, no architect named."
+  },
+  {
+    "id": "apollo-theatre",
+    "qid": "Q4780361",
+    "status": "skip",
+    "why": "Theatre; lead gives listing and history, no design reason."
+  },
+  {
+    "id": "schwerbelastungskorper",
+    "qid": "Q704670",
+    "status": "skip",
+    "why": "Test cylinder for a Nazi monument; a structure, and the main photo is an interior."
+  },
+  {
+    "id": "rosenbad",
+    "qid": "Q744615",
+    "status": "photo",
+    "why": "Lead: Art Nouveau design by Boberg, completed 1902.",
+    "name": "Rosenbad",
+    "by": "Ferdinand Boberg",
+    "city": "Stockholm",
+    "cc": "SE",
+    "year": 1902,
+    "type": "Civic",
+    "movement": "Art Nouveau",
+    "concepts": [
+      "Facade as skin",
+      "Detail",
+      "Water"
+    ],
+    "features": "Stockholm's government seat, an Art Nouveau building by Ferdinand Boberg, completed in 1902.",
+    "commons_category": "Category:Rosenbad",
+    "coords": [
+      59.32847,
+      18.06583
+    ],
+    "photos": [
+      {
+        "file": "File:Rosenbad 2006.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Strömgatan January 2026 01.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "skalnate-pleso-observatory",
+    "qid": "Q333531",
+    "status": "skip",
+    "why": "Observatory; lead gives research and location, no architect or design reason."
+  },
+  {
+    "id": "belfast-city-hall",
+    "qid": "Q3351920",
+    "status": "skip",
+    "why": "Civic building; lead gives its listing only, no architect or design reason."
+  },
+  {
+    "id": "tour-michelet",
+    "qid": "Q3490249",
+    "status": "skip",
+    "why": "Office tower; lead gives height only."
+  },
+  {
+    "id": "museum-of-contemporary-art-zagreb",
+    "qid": "Q3503103",
+    "status": "unsure",
+    "why": "Lead gives no architect or year (Wikidata: Igor Franic, 1954); cannot confirm designer or date from the lead."
+  },
+  {
+    "id": "siida-museum",
+    "qid": "Q946264",
+    "status": "skip",
+    "why": "Museum; lead gives an opening date, no architect or design reason."
+  },
+  {
+    "id": "yser-towers",
+    "qid": "Q1708620",
+    "status": "skip",
+    "why": "War memorial tower; monuments are skipped."
+  },
+  {
+    "id": "hovet",
+    "qid": "Q304362",
+    "status": "skip",
+    "why": "Ice arena; ordinary sports and concert venue."
+  },
+  {
+    "id": "oneeleven",
+    "qid": "Q2302438",
+    "status": "skip",
+    "why": "Luxury apartment tower; housing with no design reason in the lead."
+  },
+  {
+    "id": "leighton-house",
+    "qid": "Q6519762",
+    "status": "photo",
+    "why": "Lead: George Aitchison built it for Leighton, with Orientalist interiors. Year is the 1895 completion, not the 1929 date in Wikidata.",
+    "name": "Leighton House",
+    "by": "George Aitchison",
+    "city": "London",
+    "cc": "GB",
+    "year": 1895,
+    "type": "House",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Colour",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "Frederic Leighton's Victorian home, with an Arab Hall of tiles bought in the Near East and Orientalist interiors.",
+    "commons_category": "Category:Leighton House Museum",
+    "coords": [
+      51.4986,
+      -0.20309
+    ],
+    "photos": [
+      {
+        "file": "File:Casa de Leighton, Londres, Inglaterra, 2022-11-26, DD 40.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Leighton House Museum.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "government-house-minsk",
+    "qid": "Q2569179",
+    "status": "skip",
+    "why": "Government building; lead names Langbard but gives no design reason."
+  },
+  {
+    "id": "jewish-museum-munich",
+    "qid": "Q320903",
+    "status": "skip",
+    "why": "Lead names no architect and gives no design reason."
+  }
+]

@@ -1,0 +1,568 @@
+{
+ "keep_ok": [
+  "exelon-pavilions",
+  "winslow-house-river-forest-illinois",
+  "cleveland-clinic-lou-ruvo-center-for-brain-health",
+  "thomas-h-gale-house",
+  "gunma-insect-world",
+  "centro-internacional-de-ferias-y-congresos-de-tenerife",
+  "kimmel-center-for-the-performing-arts",
+  "guell-pavilions",
+  "albany-city-hall",
+  "pavilion-of-human-passions",
+  "miyazaki-prefectural-museum-of-nature-and-history",
+  "curve-theatre",
+  "hagia-sophia-hurrem-sultan-bathhouse",
+  "trinity-church-boston",
+  "juma-jami-mosque",
+  "sokollu-mehmed-pasha-mosque-kadirga",
+  "osman-shah-mosque",
+  "sinan-pasha-mosque-istanbul",
+  "kilic-ali-pasha-complex",
+  "semsi-pasha-mosque",
+  "piyale-pasha-mosque",
+  "hadim-ibrahim-pasha-mosque",
+  "muradiye-mosque-manisa",
+  "banya-bashi-mosque",
+  "st-nicholas-greek-orthodox-church",
+  "hotel-solvay",
+  "uob-plaza",
+  "hajji-ahmed-the-ducat-minters-mosque",
+  "ennis-house",
+  "muradie-mosque",
+  "pertev-pasa-mosque",
+  "lumbracle",
+  "425-park-avenue",
+  "frank-lloyd-wright-home-and-studio",
+  "gazi-hajdar-kadi-mosque",
+  "nagaragawa-convention-center"
+ ],
+ "keep_fix": [
+  {
+   "id": "villa-tammekann",
+   "field": "city",
+   "haiku": "Tartu City",
+   "should_be": "Tartu",
+   "why": "'Tartu City' is Wikidata's municipality name; the lead and the city are Tartu."
+  },
+  {
+   "id": "brasilia-digital-tv-tower",
+   "field": "city",
+   "haiku": "Lago Norte",
+   "should_be": "Brasília",
+   "why": "Lago Norte is a district; the lead places the tower in Brasília."
+  },
+  {
+   "id": "central-saint-giles",
+   "field": "city",
+   "haiku": "London Borough of Camden",
+   "should_be": "London",
+   "why": "A borough, not the city; lead says central London."
+  },
+  {
+   "id": "one-international-place",
+   "field": "by",
+   "haiku": "John Burgee",
+   "should_be": "Philip Johnson, John Burgee",
+   "why": "Lead: designed by Johnson/Burgee Architects, 'whose principals are Philip Johnson and John Burgee'."
+  },
+  {
+   "id": "400-west-market",
+   "field": "by",
+   "haiku": "John Burgee",
+   "should_be": "Philip Johnson, John Burgee",
+   "why": "Lead: designed by John Burgee with Philip Johnson."
+  },
+  {
+   "id": "mihrimah-sultan-mosque-uskudar",
+   "field": "city",
+   "haiku": "Üsküdar",
+   "should_be": "Istanbul",
+   "why": "Üsküdar is a district; the lead says it is in Istanbul."
+  },
+  {
+   "id": "sokollu-mehmed-pasha-mosque-azapkapi",
+   "field": "year",
+   "haiku": 1577,
+   "should_be": 1578,
+   "why": "Lead says it was built in 1578 (prep year 1577 is the older Wikidata value); the brief says follow the lead."
+  },
+  {
+   "id": "casa-vicens",
+   "field": "movement",
+   "haiku": "Modernism",
+   "should_be": "Art Nouveau",
+   "why": "Gaudí's Catalan Modernisme; the other Gaudí entries (Güell Pavilions, Collegio Teresiano) use Art Nouveau, and 'Modernism' would read as the modern movement."
+  },
+  {
+   "id": "city-gate",
+   "field": "by",
+   "haiku": "Francesco Laparelli, Tumas Dingli, Renzo Piano",
+   "should_be": "Renzo Piano",
+   "why": "Lead: the present gate (2011-2014) is by Piano; Laparelli/Dingli designed the earlier gates that were replaced (the earlier-architect credit the brief warns about)."
+  },
+  {
+   "id": "collegio-teresiano",
+   "field": "name",
+   "haiku": "Collegio Teresiano",
+   "should_be": "College of Saint Teresa-Ganduxer",
+   "why": "That is the English Wikipedia title (prep enwiki); 'Collegio Teresiano' is an Italian-looking Wikidata label. The id would change to match. Year null is fine (no source in prep)."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "rovaniemi-city-hall",
+   "why": "Already on the wall (same Wikidata Q19407034); adding it again would duplicate."
+  },
+  {
+   "id": "biosphere-genoa",
+   "why": "Already on the wall as biosphere-genoa (named 'Biosphere (Bigo)', same Commons category Biosphere of Genoa); duplicate. (The separate Bigo structure, id bigo-genoa, is not on the wall.)"
+  },
+  {
+   "id": "j-paul-getty-museum",
+   "why": "Duplicate: the wall already has getty-center (Richard Meier, 1997, Q29247). This Wikidata item is the museum institution (Getty Center plus Getty Villa), year left null."
+  },
+  {
+   "id": "jatiya-sangsad-bhaban",
+   "why": "Duplicate: already on the wall as national-assembly-of-bangladesh (Louis Kahn, 1982)."
+  },
+  {
+   "id": "nevigeser-wallfahrtsdom",
+   "why": "Duplicate: already on the wall as neviges-pilgrimage-church (same Commons category, Böhm, 1968)."
+  },
+  {
+   "id": "philips-pavilion",
+   "why": "Demolished: the lead says 'was a modernist pavilion' built for Expo 58; the photos are archive prints, with a crowd in the main one. By the 'demolished works' rule it is out, though it is a hugely studied precedent (Xenakis) so the owner may want an exception. City 'Laeken' should be Brussels if kept."
+  },
+  {
+   "id": "columbushaus",
+   "why": "Demolished: lead says gutted by fire in 1953 and razed in 1957; all photos are historic postcards or prints. City 'Bezirk Mitte' should read Berlin."
+  },
+  {
+   "id": "castle-hill-light",
+   "why": "A lighthouse (infrastructure). The lead names no architect and gives no design reason, so Richardson is unsupported by prep.json; the features line is only 'symbol of Newport'."
+  },
+  {
+   "id": "gazi-husrev-beg-mosque",
+   "why": "Architect unsupported: the lead names no architect, and Sinan could not have designed a 1531 mosque (he became chief architect in 1538); Wikidata's attribution looks wrong. Main photo is also a marginal tall crop of the minaret."
+  },
+  {
+   "id": "iskender-pasha-mosque-kanlica",
+   "why": "The lead says the mosque 'has been extensively rebuilt', so Sinan's 1559-60 design is not the building as it stands; main photo is mostly the minaret."
+  },
+  {
+   "id": "karadozbey-mosque",
+   "why": "The lead says it was destroyed in the early 1990s and rebuilt in 2004: a reconstruction credited to Sinan and 1557. Name also does not match prep (enwiki title is 'Karađoz Bey Mosque')."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "bigo-genoa",
+   "better_file_or_null": "File:20160814 027 Genova - Genua - Porto Antico (29049889901).jpg",
+   "why": "Marginal: the current main has sailboat masts and a blue hull cutting across the foreground; the second photo shows the whole Bigo clean over the water."
+  },
+  {
+   "id": "zal-mahmud-pasha-mosque",
+   "better_file_or_null": "File:Zal Mahmud Paşa Camii IMG 0221.jpg",
+   "why": "Marginal: main is a tight tall crop with a power line across it; the second file shows the whole mosque from above in daylight."
+  },
+  {
+   "id": "atik-valide-mosque",
+   "better_file_or_null": null,
+   "why": "The only photo is dark and backlit, with trees hiding most of the mosque; no better whole-building view exists among its photos."
+  },
+  {
+   "id": "molla-celebi-mosque",
+   "better_file_or_null": null,
+   "why": "Only photo is a narrow overcast crop of a dome behind bare trees; the other files are porch or dome details, a distant waterfront and a view behind a fence."
+  },
+  {
+   "id": "kara-ahmed-pasha-mosque",
+   "better_file_or_null": "File:Kara Ahmet Pasha Camii DSCF7434.jpg",
+   "why": "Haiku put a side-wall view with parked cars first; Wikidata's main photo shows the dome and minaret clearly."
+  },
+  {
+   "id": "vivian-beaumont-theater",
+   "better_file_or_null": "File:New York Vivian Beaumont Theater-20120520-RM-192313.jpg",
+   "why": "Haiku's first photo is a shaded dark view; the Q-rated file (Haiku's second) is bright, daylight and shows the building clearly."
+  },
+  {
+   "id": "wells-fargo-center",
+   "better_file_or_null": "File:Wells Fargo Center, October 2024.jpg",
+   "why": "Haiku's first photo is a dusk silhouette; this daylight shot (its second) shows the tower's face and top."
+  },
+  {
+   "id": "university-of-science-and-technology-houari-boumediene",
+   "better_file_or_null": null,
+   "why": "Main is a lawn with a long building far behind (hazy), the subject is the grass. It is also a campus, not one building; the dramatic concrete pavilion is in 'Auditoriome.jpg' but that is a single hall."
+  },
+  {
+   "id": "sokollu-mehmed-pasha-mosque-luleburgaz",
+   "better_file_or_null": null,
+   "why": "Foggy grey view with the mosque behind pine trees and a wall; the other photos are street walls and a rooftop dome close-up; no clear whole-building view."
+  },
+  {
+   "id": "rustem-pasha-caravanserai",
+   "better_file_or_null": null,
+   "why": "Main shows a courtyard corner and wall; the rest are shopfronts and an entrance. No whole-building view (it is a hotel with interior remodelled 2016-18)."
+  },
+  {
+   "id": "city-gate",
+   "better_file_or_null": null,
+   "why": "Only photo is a crowd of pedestrians crossing the bridge; the gate opening is barely readable. The other files are the old gate, a Eurovision fan zone and a historic print."
+  }
+ ],
+ "unsure_resolved": [
+  {
+   "id": "villa-jeanneret",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Only photo is an axonometric site plan. Confirmed no main photo."
+  },
+  {
+   "id": "weltzheimer-johnson-house",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "All seven photos are interior or detail shots (armchair, window sill, drawers, books, a man by a window). No exterior."
+  },
+  {
+   "id": "louvre-inverted-pyramid",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Photos are the underground mall interior, an Apple store and the Carrousel square; the pyramid is a skylight seen from inside, no exterior of the building."
+  },
+  {
+   "id": "dom-ino-house",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "A structural concept, not a built building; photos are museum models and a LEGO render."
+  },
+  {
+   "id": "harvard-art-museums",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Hold: prep year 1895 is the Fogg's founding, and the lead names no architect. Piano's work is the 2014 renovation and expansion of the older Fogg building, so it would be a renovation credited as new, and the year would not come from prep. If the owner accepts it anyway, the usable exterior of Piano's wing is 'File:Harvard Art Museums (54941166385).jpg' (CC BY 4.0), not the current main (the old Fogg)."
+  },
+  {
+   "id": "llotja-de-sant-jordi",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "All five photos are interiors of the underground hall; no exterior exists."
+  },
+  {
+   "id": "jazz-at-lincoln-center",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "An organisation inside the Time Warner Center; photos are signage, interiors and a concert."
+  },
+  {
+   "id": "louvre-palace",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Hold: the main photo (Pavillon de Flore, daylight) is fine, but there is no completion year in prep (1190 is the medieval castle; the lead dates the Lescot wing to the late 1540s) and five architects across centuries. Needs an owner decision, not a data fix."
+  },
+  {
+   "id": "canadian-war-museum",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "All seven photos are exhibit labels, panels and an aircraft inside the museum; no exterior. Prep year 1880 is wrong (the 2005 Moriyama building)."
+  },
+  {
+   "id": "greek-orthodox-cathedral-of-st-luke-glasgow",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Architect wrong: Wikidata names Charles Rennie Mackintosh for an 1877 building (he was born in 1868); the lead names no architect or year. The main photo itself is a usable exterior, so the building could return with a verified architect."
+  },
+  {
+   "id": "charlier-museum",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Prep's Horta and 1844 are inconsistent: the lead names no architect and the house dates from 1844, so Horta cannot have designed it as it stands (at most a later alteration). Main photo is a street facade."
+  },
+  {
+   "id": "seven-saints-church-sofia",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Architect and year do not fit: the lead says an Ottoman mosque from 1547 (Sinan credited) converted to a church in 1903, so Sinan did not design the church as it stands. The photos are excellent, so it could return with a correct architect."
+  },
+  {
+   "id": "behram-pasha-mosque",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Main shows only the striped arcade close up, the rest are carved details; no whole-building exterior."
+  },
+  {
+   "id": "aqsunqur-mosque",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Architect wrong: Wikidata names Mimar Sinan for a 1347 Mamluk mosque in Cairo (Sinan lived 1488-1588); the lead names no architect. Main photo is a usable street exterior."
+  },
+  {
+   "id": "peoples-palace-damascus",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "No photos exist in prep (empty sheet)."
+  },
+  {
+   "id": "defterdar-mosque",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Five photos are interiors, the other two are a garden wall and a garden portico; no whole-building exterior."
+  },
+  {
+   "id": "caracas-museum-of-fine-arts",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Hold: the main file name says 'Museo de Arte contemporáneo de Caracas' although the photo looks like the neoclassical Museo de Bellas Artes entrance; the item covers two Villanueva buildings (1930s and 1970s) and no year is in prep. Needs checking by someone who can see the source."
+  },
+  {
+   "id": "taliesin",
+   "keep": true,
+   "main_file_or_null": "File:Taliesin, Spring Green (2).jpg",
+   "entry": {
+    "id": "taliesin",
+    "qid": "Q734970",
+    "status": "photo",
+    "name": "Taliesin",
+    "by": "Frank Lloyd Wright",
+    "city": "Spring Green",
+    "cc": "US",
+    "year": 1911,
+    "type": "House",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Landscape",
+     "Cluster",
+     "Stone"
+    ],
+    "features": "Wright's house-studio estate in Spring Green, begun in 1911, an exemplar of the Prairie School of architecture.",
+    "commons_category": "Category:Taliesin (building)",
+    "coords": [
+     43.1415,
+     -90.0709
+    ],
+    "photos": [
+     {
+      "file": "File:Taliesin, Spring Green (2).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Marginal yes: 'Taliesin, Spring Green (2).jpg' is a clear daylight view of the stone walls, roofs and garden of the complex (not the whole estate, which has no whole view). Year 1911 is when the lead says development began; the house was rebuilt after fires, so treat the year as 'begun'. Other photos show the house tiny in a landscape or in snow. Wikipedia title is 'Taliesin (studio)'; Taliesin West is a different building already on the wall."
+  },
+  {
+   "id": "thessaloniki-concert-hall",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "No photos exist in prep (empty sheet)."
+  },
+  {
+   "id": "one-detroit-center",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Street views cut the tower off at the top and the rest are lake skylines; no clear subject."
+  },
+  {
+   "id": "191-peachtree-tower",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "The tower appears among others in skyline shots and behind trees and statues; never the clear subject."
+  },
+  {
+   "id": "amalita-collection",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "The only photo is the glass base of the building with a sculpture, with a tower behind it; not the whole building."
+  }
+ ],
+ "wrong_skips": [
+  {
+   "id": "san-diego-convention-center",
+   "qid": "Q2236617",
+   "why": "Borderline: a convention centre, but by Arthur Erickson (5 other buildings on the wall) under the brief's second test, and the main photo is a clear daylight exterior of its glazed vaults and white sails. The lead is thin, so movement and concepts are guesses from the photos.",
+   "entry": {
+    "id": "san-diego-convention-center",
+    "qid": "Q2236617",
+    "status": "photo",
+    "name": "San Diego Convention Center",
+    "by": "Arthur Erickson",
+    "city": "San Diego",
+    "cc": "US",
+    "year": 1989,
+    "type": "Civic",
+    "movement": "Contemporary",
+    "concepts": [
+     "Tensile structure",
+     "Steel & glass",
+     "Public space"
+    ],
+    "features": "Arthur Erickson's waterfront convention centre in San Diego, the city's primary convention venue.",
+    "commons_category": "Category:San Diego Convention Center",
+    "coords": [
+     32.70639,
+     -117.16139
+    ],
+    "photos": [
+     {
+      "file": "File:SD Convention Ctr west side 4.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:San Diego Convention Center (53908593789).jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "ifema-palacio-municipal",
+   "qid": "Q6057727",
+   "why": "Borderline: a congress centre, but by Ricardo Bofill (6 other buildings on the wall) under the brief's second test; clear daylight exteriors of its glass-and-stone box. Lead is thin, so movement and concepts are guesses from the photos.",
+   "entry": {
+    "id": "ifema-palacio-municipal",
+    "qid": "Q6057727",
+    "status": "photo",
+    "name": "IFEMA Palacio Municipal",
+    "by": "Ricardo Bofill",
+    "city": "Madrid",
+    "cc": "ES",
+    "year": 1993,
+    "type": "Civic",
+    "movement": "Contemporary",
+    "concepts": [
+     "Facade as skin",
+     "Steel & glass",
+     "Geometry"
+    ],
+    "features": "Bofill Taller de Arquitectura's congress centre near the IFEMA fairground in Madrid, operated by IFEMA since 2019.",
+    "commons_category": "Category:Palacio Municipal de Congresos, Madrid",
+    "coords": [
+     40.4621,
+     -3.61663
+    ],
+    "photos": [
+     {
+      "file": "File:Palacio Municipal de Congresos de Madrid 05.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Palacio Municipal de Congresos de Madrid 08.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Campo de las Naciones - 011 (35730410762).jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "unipol-dome",
+   "qid": "Q64825395",
+   "why": "David Chipperfield (7 other buildings on the wall); the Olympic ice-hockey arena has a sculptural golden-clad drum and the one photo is a clear exterior in low sun. Year left null (prep gives none; the lead only says it hosted the 2026 Winter Olympics). Wikipedia title is 'PalaItalia'; the lead also calls it Arena Milano.",
+   "entry": {
+    "id": "unipol-dome",
+    "qid": "Q64825395",
+    "status": "photo",
+    "name": "Unipol Dome",
+    "by": "David Chipperfield",
+    "city": "Milan",
+    "cc": "IT",
+    "year": null,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+     "Sculptural form",
+     "Facade as skin",
+     "Public space"
+    ],
+    "features": "Milan's indoor arena for 16,000 spectators, host of ice hockey at the 2026 Winter Olympics.",
+    "commons_category": null,
+    "coords": [
+     45.44167,
+     9.25556
+    ],
+    "photos": [
+     {
+      "file": "File:Arena Santa Giulia - PalaItalia illuminata (11 gennaio 2026).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "nussdorf-weir-and-lock",
+   "qid": "Q2005525",
+   "why": "Borderline: Otto Wagner (the wall already holds his Stadtbahn, Majolikahaus and others, including infrastructure), clear daylight photos of the weir and Wagner's lock building. Haiku skipped it as hydraulic engineering; the owner can decide. Prep year 1894 is unverified by the lead (law of 1892).",
+   "entry": {
+    "id": "nussdorf-weir-and-lock",
+    "qid": "Q2005525",
+    "status": "photo",
+    "name": "Nussdorf weir and lock",
+    "by": "Otto Wagner",
+    "city": "Vienna",
+    "cc": "AT",
+    "year": 1894,
+    "type": "Infrastructure",
+    "movement": "Art Nouveau",
+    "concepts": [
+     "Structure as expression",
+     "Water",
+     "Public space"
+    ],
+    "features": "Otto Wagner's weir and lock where the Donaukanal leaves the Danube, built after a law of July 1892.",
+    "commons_category": "Category:Nußdorfer Wehr",
+    "coords": [
+     48.2592,
+     16.3692
+    ],
+    "photos": [
+     {
+      "file": "File:Wien - Nußdorfer Wehr (2).JPG",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Nussdorfer Wehr und Schemmerl Brücke.jpg",
+      "license": "CC BY-SA 3.0 at",
+      "seen": true
+     },
+     {
+      "file": "File:2017-06-01 AT Wien 19 Döbling & Wien 20 Brigittenau, Donaukanal, Nussdorfer Wehr, Schemerlbrücke (50699960191).jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 0-143: 67 photo, 55 skip, 22 unsure. Photo entries: 36 fine with no flag, 10 need a field fix, 11 should come out (5 duplicates already on the wall, 2 demolished, 3 architect-or-rebuilt problems, 1 lighthouse), 11 have a weak first photo (overlaps with the fix list: 1 id). Unsure: 1 of 22 should be kept (Taliesin, marginal); the other 21 stay off (4 have a wrong architect or year in prep, 3 are on hold for an owner decision, 9 have no exterior photo or are not a built building). Skips: 4 borderline wrong skips (San Diego Convention Center, IFEMA Palacio Municipal, Unipol Dome, Nussdorf weir and lock); the 'already on the wall' skips and the rest are right. Skip gruppo-mondadori (Niemeyer's Mondadori HQ) is right but for another reason: the building is already on the wall as mondadori-palace."
+}

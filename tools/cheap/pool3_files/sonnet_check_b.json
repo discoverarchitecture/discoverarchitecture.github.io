@@ -1,0 +1,934 @@
+{
+ "keep_ok": [
+  "casablanca-twin-center",
+  "artigas-gardens",
+  "yahya-bey-mosque",
+  "citylife",
+  "palacio-do-jaburu",
+  "mercury-tower",
+  "tanabe-art-museum",
+  "omniturm",
+  "aalto-center",
+  "rosenbaum-house",
+  "suleymaniye-hamam",
+  "marsk-tower",
+  "toyota-city-museum",
+  "buen-kulturhus",
+  "otaniemi-water-tower",
+  "memorial-jk",
+  "annunciation-greek-orthodox-church",
+  "cultural-complex-of-the-republic",
+  "martin-ryerson-tomb",
+  "tower-25",
+  "stanislav-range-front-light",
+  "kuchlbauer-tower",
+  "palacio-taranco",
+  "malmo-opera",
+  "new-synagogue-zilina",
+  "castle-of-the-three-dragons",
+  "castle-drogo",
+  "national-museum-of-art-osaka",
+  "gioia-22-tower",
+  "academy-of-fine-arts-vienna",
+  "accenture-tower",
+  "osaka-maritime-museum",
+  "agoudas-hakehilos-synagogue",
+  "international-building",
+  "auditorium-conciliazione",
+  "the-cenotaph",
+  "tel-aviv-performing-arts-center",
+  "osaka-museum-of-history",
+  "haus-des-lehrers",
+  "louwman-museum",
+  "kino-babylon"
+ ],
+ "keep_fix": [
+  {
+   "id": "seyh-celebi-mosque",
+   "field": "name",
+   "haiku": "Şeyh Çelebi Mosque",
+   "should_be": "Şeyhi Çelebi Mosque",
+   "why": "English Wikipedia title and lead spelling is Şeyhi Çelebi Mosque. Also note the lead says the construction date is unknown (1574 is only 'mentioned'), so the year is soft."
+  },
+  {
+   "id": "willits-house",
+   "field": "year",
+   "haiku": 1901,
+   "should_be": "1901 is the design year (lead: 'Designed in 1901'); completion year is not in prep",
+   "why": "Brief wants completion year. No completion date in prep, so either leave null or confirm elsewhere (commonly given as 1903)."
+  },
+  {
+   "id": "waldspirale",
+   "field": "by",
+   "haiku": "Friedensreich Hundertwasser",
+   "should_be": "Friedensreich Hundertwasser, Heinz M. Springmann",
+   "why": "Lead: designed by the artist Hundertwasser, 'planned and implemented by architect Heinz M. Springmann'. The Wikidata architect alone overstates Hundertwasser's role."
+  },
+  {
+   "id": "carolina-rediviva",
+   "field": "by",
+   "haiku": "Carl Fredrik Sundvall, Peter Celsing, Axel Anderberg, Jöran Curman",
+   "should_be": "Carl Fredrik Sundvall",
+   "why": "Lead: 'The original architect was Carl Fredrik Sundvall'; later additions by Anderberg and Celsing. Curman is not in the lead. The 1841 building is Sundvall's; later additions should not be credited as authors."
+  },
+  {
+   "id": "hotel-otlet",
+   "field": "by",
+   "haiku": "Octave Van Rysselberghe, Henry van de Velde",
+   "should_be": "Octave Van Rysselberghe",
+   "why": "Lead says the house was designed by van Rysselberghe (1894-98); van de Velde is not mentioned, so the Wikidata co-credit is unsupported here."
+  },
+  {
+   "id": "bank-of-america-financial-center",
+   "field": "name",
+   "haiku": "Bank of America Financial Center",
+   "should_be": "Bank of America Corporate Center",
+   "why": "English Wikipedia title and lead use 'Bank of America Corporate Center' (the id should follow)."
+  },
+  {
+   "id": "wells-fargo-center",
+   "field": "movement",
+   "haiku": "Art Deco",
+   "should_be": "Postmodernism",
+   "why": "A 1988 tower the lead calls 'a modernized art deco style' echoing nearby towers: a late-20th-century building, not an Art Deco one. Features line is fine."
+  },
+  {
+   "id": "cajasol-tower",
+   "field": "name",
+   "haiku": "Cajasol Tower",
+   "should_be": "Sevilla Tower",
+   "why": "English Wikipedia title is Sevilla Tower (Torre Sevilla); 'Cajasol' is a former name. Year 2015 is right (lead), id should follow the name."
+  },
+  {
+   "id": "rottweil-elevator-test-tower",
+   "field": "name",
+   "haiku": "Rottweil elevator test tower",
+   "should_be": "TK Elevator Test Tower",
+   "why": "English Wikipedia title and lead use TK Elevator Test Tower. Year 2017 and features are fine."
+  },
+  {
+   "id": "tapies-museum",
+   "field": "year",
+   "haiku": 1984,
+   "should_be": null,
+   "why": "1984 is when Tàpies founded the museum; the building is the former Montaner and Simon publishing house. Lead gives no building year, so null (not 1984)."
+  },
+  {
+   "id": "winter-garden-atrium",
+   "field": "by",
+   "haiku": "César Pelli",
+   "should_be": "César Pelli, Diana Balmori",
+   "why": "Lead says 'Designed by Diana Balmori', also 'substantially rebuilt in 2002'. Wikidata names Pelli (the complex architect). Credit both or verify; the atrium as it stands is partly the 2002 rebuild."
+  },
+  {
+   "id": "landakotskirkja",
+   "field": "features",
+   "haiku": "Iceland's only Catholic cathedral, a basilica in Reykjavík with services in Icelandic, Polish and English.",
+   "should_be": "Iceland's only Catholic cathedral, a basilica in Reykjavík (also called the Basilica of Christ the King).",
+   "why": "The service languages say nothing about the building. Concepts (Facade as skin, Detail, Community) are weak; Monumentality, Light from above or Stone would suit a stone Gothic-form church better, but the lead gives no design facts."
+  },
+  {
+   "id": "steiner-house",
+   "field": "year",
+   "haiku": 1910,
+   "should_be": "1910 is not in prep.json (lead has no date)",
+   "why": "Loos's Steiner House is 1910 by general knowledge, but prep supplies no year. Accept 1910 only if the owner allows a well-known date, otherwise null."
+  },
+  {
+   "id": "palazzo-dello-strozzino",
+   "field": "by",
+   "haiku": "Michelozzo, Giuliano da Maiano, Marcello Piacentini, Ghino Venturi",
+   "should_be": "Michelozzo, Giuliano da Maiano",
+   "why": "Piacentini and Venturi appear to be the 20th-century Cinema Odeon alteration (lead: the north facade houses the Odeon entrance), not the Renaissance palace. Year 1450 is Wikidata's approximate inception, not completion."
+  },
+  {
+   "id": "leo-burnett-building",
+   "field": "concepts",
+   "haiku": "Facade as skin, Steel & glass, Structure as expression",
+   "should_be": "Facade as skin, Steel & glass, Detail",
+   "why": "Minor: nothing in the lead supports 'Structure as expression'; the lead's feature is the steel-barred 'Chicago windows'."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "church-of-the-assumption",
+   "why": "Wikidata names Sinan, but the lead says only that an Ottoman-era mosque was reconstructed as a church in 1906; the building as it stands is a 1906 conversion, not Sinan's design, and the lead gives no architectural reason to study it."
+  },
+  {
+   "id": "royal-museum-of-the-armed-forces-and-military-history",
+   "why": "A military museum inside the two historic Cinquantenaire halls. The lead describes only the museum, gives no architecture, and the year 1923 (prep) is not a building date; first photo has parked cars in front. If wanted, it belongs as the Cinquantenaire complex, not as a museum entry."
+  },
+  {
+   "id": "osthaus-museum-hagen",
+   "why": "Lead says van de Velde designed only the interior, which was lost to reconstruction and bombing and later restored; the exterior in the photos is not his. Credited as if he designed the building."
+  },
+  {
+   "id": "cafe-museum",
+   "why": "Lead says Loos designed the original interior only (cafe opened 1899). The photos Haiku chose show an ordinary Viennese street facade that is not Loos's work, so the wall tile would show a building he did not design."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "casablanca-twin-center",
+   "better_file_or_null": null,
+   "why": "Both listed photos are street scenes with traffic and neighbouring buildings competing with the towers; idx2 'Twin Center, Boulevard Mohamed Zerktouni' shows both towers but is also a street canyon. Weak but no clean alternative; acceptable only as a low-confidence keep."
+  },
+  {
+   "id": "cultural-complex-of-the-republic",
+   "better_file_or_null": "File:Complexo Cultural da Republica 01.jpg",
+   "why": "Haiku put the rainy purple-sky shot of the dome (MuseuNatRep rainy) first; the main photo shows both the library block and the museum dome in daylight, which is what the complex name describes."
+  },
+  {
+   "id": "kuchlbauer-tower",
+   "better_file_or_null": "File:Abensberg, Brauerei Kuchlbauer, Kuchlbauerturm -- 2026 -- 4180.jpg",
+   "why": "First photo is a tilted worm's-eye crop of the top half. The main (idx0, 'Башня Хундертвассера') is the only whole-tower view but small and hazy; idx4 is straighter and shows more of the tower with its gate."
+  },
+  {
+   "id": "rottweil-elevator-test-tower",
+   "better_file_or_null": "File:ThyssenKrupp Test Tower, Rottweil.jpg",
+   "why": "First photo is the tower far off across a landscape (small subject); 'ThyssenKrupp Test Tower, Rottweil.jpg' shows the whole twisting white tower against sky."
+  },
+  {
+   "id": "academy-of-fine-arts-vienna",
+   "better_file_or_null": "File:Akademie der bildenden Kuenste DSC 2400w.jpg",
+   "why": "The rated (Q) main photo shows the whole Ringstraße facade in daylight; the narrower crop Haiku put first is less complete."
+  },
+  {
+   "id": "tel-aviv-performing-arts-center",
+   "better_file_or_null": "File:Tel Aviv, 2015 (24901961195).jpg",
+   "why": "Main photo is covered by large banners over the facade; 'Tel Aviv, 2015 (24901961195)' shows the glazed front clearly (one tiny figure)."
+  },
+  {
+   "id": "osaka-museum-of-history",
+   "better_file_or_null": "File:View near Tanimachi-yonchome Station and the Osaka Castle.jpg",
+   "why": "Main photo crops the top of the drum; idx2 'View near Tanimachi-yonchome Station' shows the museum and NHK block whole. Optional. Haiku also kept only one photo although idx2, idx4, idx5 are usable."
+  }
+ ],
+ "unsure_resolved": [
+  {
+   "id": "nema-chicago",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Tall rental tower; main is an under-construction street view, others are Soldier Field and skylines. Agree: no usable photo."
+  },
+  {
+   "id": "rustem-pasha-medrese",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Only the main (courtyard with arcade and domes) is of the building itself; it is an interior court view, the rest are rooftops and a door. Sinan medrese with a one-line lead; no whole-exterior photo. Agree with skip."
+  },
+  {
+   "id": "quartiers-modernes-fruges",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Only photo is a road sign. Agree."
+  },
+  {
+   "id": "christ-the-king-cathedral-belo-horizonte",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Under construction photo and a render. Agree."
+  },
+  {
+   "id": "radiant-city",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Unité d'habitation at Rezé is worth having, but every photo has the church, a crane or the town in front; no clear whole-building photo. Needs a new photo search (and the name should be 'Unité d'habitation of Nantes-Rezé', not 'Radiant city')."
+  },
+  {
+   "id": "james-charnley-house",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Only HABS measured drawings. Agree."
+  },
+  {
+   "id": "rustem-pasha-caravanserai",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Best exterior has café stalls and signs in front, rest are interiors or roof details. Agree."
+  },
+  {
+   "id": "bauhaus-universitat-weimar",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "An institution; photos show side streets and a modern annex, not Van de Velde's main building. Agree."
+  },
+  {
+   "id": "berwald-hall",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Main shows only an entrance canopy with passers-by; rest are people or interiors. Agree."
+  },
+  {
+   "id": "casa-navas",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "All seven are balcony and ornament close-ups. Agree; a strong Domènech building if a façade photo is found."
+  },
+  {
+   "id": "baroda-house",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Only a cropped dome. Agree."
+  },
+  {
+   "id": "portland-art-museum",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Main shows a brick building with a glazed entrance (probably the 1930s block) but prep gives no building date (1892 is the museum's founding) and the lead is about the collection, so year and which building is shown cannot be supported from prep."
+  },
+  {
+   "id": "sacro-cuore-di-cristo-re",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Only whole-building image is an old sepia postcard; year conflicts (prep 1920, lead 'designed 1920s-30s'). Agree with unsure; could be revisited with a modern photo."
+  },
+  {
+   "id": "los-angeles-county-museum-of-art",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Main is the May Company department store (now another museum) and the other whole-building shots show a later architect's saucer building. Not Pereira's complex. Agree."
+  },
+  {
+   "id": "studio-museum-in-harlem",
+   "keep": false,
+   "main_file_or_null": null,
+   "entry": null,
+   "why": "Main shows the demolished old building; the new Adjaye building (2025) is not credited in prep. Agree."
+  },
+  {
+   "id": "taipei-grand-mosque",
+   "keep": true,
+   "main_file_or_null": "File:Taipei Grand Mosque 20060112.jpg",
+   "entry": {
+    "id": "taipei-grand-mosque",
+    "qid": "Q717882",
+    "status": "photo",
+    "why": "Largest and oldest mosque in Taiwan (lead); clear whole-building photos.",
+    "name": "Taipei Grand Mosque",
+    "by": "Yang Cho-cheng",
+    "city": "Taipei",
+    "cc": "TW",
+    "year": null,
+    "type": "Religious",
+    "movement": "Regionalism",
+    "concepts": [
+     "Facade as skin",
+     "Geometry",
+     "Community"
+    ],
+    "features": "Taiwan's largest and oldest mosque, in Taipei's Da'an District.",
+    "commons_category": "Category:Taipei Grand Mosque",
+    "coords": [
+     25.02793,
+     121.53422
+    ],
+    "photos": [
+     {
+      "file": "File:Taipei Grand Mosque 20060112.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:台北清真寺 11.jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:台北清真寺 13.jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Low-confidence keep: distinctive white mosque with red diamond bands, good clear photos, but the lead gives no design facts and no year (prep has none). Movement and concepts are judgement from the photos."
+  },
+  {
+   "id": "casa-lleo-morera",
+   "keep": true,
+   "main_file_or_null": "File:DiM Lleo Morera 9826 copia.jpg",
+   "entry": {
+    "id": "casa-lleo-morera",
+    "qid": "Q2330791",
+    "status": "photo",
+    "why": "Key Modernisme work (lead); main shows the full front.",
+    "name": "Casa Lleó Morera",
+    "by": "Lluís Domènech i Montaner",
+    "city": "Barcelona",
+    "cc": "ES",
+    "year": 1906,
+    "type": "House",
+    "movement": "Art Nouveau",
+    "concepts": [
+     "Detail",
+     "Facade as skin",
+     "Stone"
+    ],
+    "features": "Domènech i Montaner's remodel of Casa Rocamora, a 1906 prizewinner on Barcelona's Illa de la Discòrdia.",
+    "commons_category": "Category:Casa Lleó Morera",
+    "coords": [
+     41.39124,
+     2.16553
+    ],
+    "photos": [
+     {
+      "file": "File:DiM Lleo Morera 9826 copia.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Barcelona-Eixample, bovendeel van Casa Lleó Morera IPA-40399 ontworpen door Lluis Domènech i Montane IMG 3562 2026-08-30 09.06.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Main is a full-height street view of the front, usable. Year 1906 is inferred (remodel from 1902, town-hall prize 1906); the lead gives no completion year, so confirm or leave null. It is a remodel of an 1864 house, but the designed building as it stands is his."
+  },
+  {
+   "id": "thiepval-memorial",
+   "keep": true,
+   "main_file_or_null": "File:Thiepval cimetière derrière mémorial 1.jpg",
+   "entry": {
+    "id": "thiepval-memorial",
+    "qid": "Q1861419",
+    "status": "photo",
+    "why": "Lead quotes it as the greatest executed British monumental architecture; clear daylight view.",
+    "name": "Thiepval Memorial",
+    "by": "Edwin Lutyens",
+    "city": "Thiepval",
+    "cc": "FR",
+    "year": null,
+    "type": "Memorial",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Brick",
+     "Landscape"
+    ],
+    "features": "Lutyens's Somme memorial to 72,337 missing servicemen, called the greatest British work of monumental architecture of its century.",
+    "commons_category": "Category:Thiepval Memorial to the Missing of the Somme",
+    "coords": [
+     50.05056,
+     2.68583
+    ],
+    "photos": [
+     {
+      "file": "File:Thiepval cimetière derrière mémorial 1.jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Thiepval Memorial Cloudy.jpg",
+      "license": "CC0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: Lutyens, strong lead quote, clear main (cemetery in front is part of the setting). Year not in prep (a 1932 photo exists but is not a source), so null."
+  },
+  {
+   "id": "arco-della-vittoria",
+   "keep": true,
+   "main_file_or_null": "File:Genova - Piazza della Vittoria.jpg",
+   "entry": {
+    "id": "arco-della-vittoria",
+    "qid": "Q3621768",
+    "status": "photo",
+    "why": "Lead calls it a principal example of Fascist-period monumental architecture; clear photos.",
+    "name": "Arco della Vittoria",
+    "by": "Marcello Piacentini",
+    "city": "Genoa",
+    "cc": "IT",
+    "year": null,
+    "type": "Memorial",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Stone",
+     "Axis"
+    ],
+    "features": "Piacentini's Genoa victory arch in Istrian stone, with an internal crypt, a principal Fascist-period monument.",
+    "commons_category": "Category:Arco dei Caduti (Genoa)",
+    "coords": [
+     44.40307,
+     8.94496
+    ],
+    "photos": [
+     {
+      "file": "File:Genova - Piazza della Vittoria.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Arco della Vittoria, Panoramica.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Low-confidence keep: a memorial arch (borderline under the brief's 'monuments' skip) but the lead gives a design reason and the photos are clear. Year is not in prep (lead says 'Inaugurated on 31 May' without a year), so null."
+  },
+  {
+   "id": "hyderabad-house",
+   "keep": true,
+   "main_file_or_null": "File:Hyderabad House, India Gate, New Delhi.jpg",
+   "entry": {
+    "id": "hyderabad-house",
+    "qid": "Q5953898",
+    "status": "photo",
+    "why": "Lutyens work; clear whole-building daylight photo.",
+    "name": "Hyderabad House",
+    "by": "Edwin Lutyens",
+    "city": "New Delhi",
+    "cc": "IN",
+    "year": null,
+    "type": "Palace",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Axis",
+     "Landscape"
+    ],
+    "features": "Lutyens's New Delhi residence for the last Nizam of Hyderabad, now the Prime Minister's state guest house.",
+    "commons_category": "Category:Hyderabad House",
+    "coords": [
+     28.61603,
+     77.2278
+    ],
+    "photos": [
+     {
+      "file": "File:Hyderabad House, India Gate, New Delhi.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Hyderabad house in delhi india.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: famous architect, main is the whole building with its drive and garden. Year is not in prep so null; concepts are judgement from the photos."
+  },
+  {
+   "id": "national-museum-of-prehistory",
+   "keep": true,
+   "main_file_or_null": "File:National Museum of Prehistory, Taitung 02.jpg",
+   "entry": {
+    "id": "national-museum-of-prehistory",
+    "qid": "Q1540258",
+    "status": "photo",
+    "why": "Michael Graves built work; clear colourful exterior.",
+    "name": "National Museum of Prehistory",
+    "by": "Michael Graves",
+    "city": "Taitung",
+    "cc": "TW",
+    "year": null,
+    "type": "Museum",
+    "movement": "Postmodernism",
+    "concepts": [
+     "Colour",
+     "Geometry",
+     "Public space"
+    ],
+    "features": "Michael Graves's national museum of prehistory in Taitung City, Taiwan.",
+    "commons_category": "Category:National Museum of Prehistory (Taiwan)",
+    "coords": [
+     22.76028,
+     121.09167
+    ],
+    "photos": [
+     {
+      "file": "File:National Museum of Prehistory, Taitung 02.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:The building exterior of National Museum of Prehistory, Taiwan (2023).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:National Museum of Prehistory, Taitung 01.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: Michael Graves (3 already on the wall), main and two others show the museum clearly. Do not use idx1, idx2, idx6 (Kangle station, not the museum). Year not in prep, so null."
+  },
+  {
+   "id": "deutschmeister-palais",
+   "keep": true,
+   "main_file_or_null": "File:Parkring 8 Ansicht 2.jpg",
+   "entry": {
+    "id": "deutschmeister-palais",
+    "qid": "Q2046973",
+    "status": "photo",
+    "why": "Hansen Ringstraße palace; clear façade photo.",
+    "name": "Deutschmeister-Palais",
+    "by": "Theophil Hansen",
+    "city": "Vienna",
+    "cc": "AT",
+    "year": 1868,
+    "type": "Palace",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Stone",
+     "Courtyard"
+    ],
+    "features": "Theophil Hansen's Parkring palace for Archduke Wilhelm, designed 1864-1868, now offices of the OPEC Fund.",
+    "commons_category": "Category:Palais Erzherzog Wilhelm",
+    "coords": [
+     48.2061,
+     16.3789
+    ],
+    "photos": [
+     {
+      "file": "File:Parkring 8 Ansicht 2.jpg",
+      "license": "CC BY-SA 3.0 at",
+      "seen": true
+     },
+     {
+      "file": "File:Deutschmeisterpalais-IMG 4189.JPG",
+      "license": "CC BY-SA 3.0 at",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: Hansen (2 on the wall), main is the full front in daylight. Year 1868 is the end of the design years in the lead (no separate completion year)."
+  },
+  {
+   "id": "india-house",
+   "keep": true,
+   "main_file_or_null": "File:London - India House High Commission of India (40412413273).jpg",
+   "entry": {
+    "id": "india-house",
+    "qid": "Q14996965",
+    "status": "photo",
+    "why": "Baker building; the lead is thin but the architect is well known and photos are clear.",
+    "name": "India House",
+    "by": "Herbert Baker",
+    "city": "London",
+    "cc": "GB",
+    "year": 1930,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Stone",
+     "Facade as skin",
+     "Monumentality"
+    ],
+    "features": "Herbert Baker's Aldwych building of 1925-30, home of the High Commission of India, Grade II listed since 1981.",
+    "commons_category": "Category:India House (Westminster)",
+    "coords": [
+     51.5124,
+     -0.1183
+    ],
+    "photos": [
+     {
+      "file": "File:London - India House High Commission of India (40412413273).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:India House, Aldwych, London 01.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:London - India House High Commission of India (40412413033).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Low-confidence keep (short lead, famous architect per the brief). Year 1930 comes from the Commons descriptions of the photos ('Arch. Herbert Baker 1925-30'), which are in prep; the lead has none."
+  },
+  {
+   "id": "church-house",
+   "keep": true,
+   "main_file_or_null": "File:Church House Westminster London 2016 (02).jpg",
+   "entry": {
+    "id": "church-house",
+    "qid": "Q2967665",
+    "status": "photo",
+    "why": "Baker building; only the main photo shows the building.",
+    "name": "Church House",
+    "by": "Herbert Baker",
+    "city": "London",
+    "cc": "GB",
+    "year": null,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Brick",
+     "Monumentality",
+     "Public space"
+    ],
+    "features": "Herbert Baker's Church of England headquarters beside Westminster Abbey, which also hosted the first UN Security Council meeting.",
+    "commons_category": "Category:Church House, Westminster",
+    "coords": [
+     51.49778,
+     -0.12944
+    ],
+    "photos": [
+     {
+      "file": "File:Church House Westminster London 2016 (02).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Low-confidence keep: only main is usable (the rest are press-event photos). No year in prep, so null. Skip it if the owner wants fewer short-lead buildings."
+  },
+  {
+   "id": "st-bartholomew-s-episcopal-church",
+   "keep": true,
+   "main_file_or_null": "File:NYC St. Bartholomew's 07.jpg",
+   "entry": {
+    "id": "st-bartholomews-episcopal-church",
+    "qid": "Q3937267",
+    "status": "photo",
+    "why": "National Historic Landmark for its architecture (lead); clear façade photos.",
+    "name": "St. Bartholomew's Episcopal Church",
+    "by": "Bertram Goodhue, McKim, Mead & White",
+    "city": "New York",
+    "cc": "US",
+    "year": 1918,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Brick",
+     "Detail"
+    ],
+    "features": "Goodhue's Park Avenue church in Midtown Manhattan, a National Historic Landmark for its early 20th-century ecclesiastical architecture.",
+    "commons_category": "Category:St. Bartholomew's Episcopal Church (Manhattan)",
+    "coords": [
+     40.75722,
+     -73.97361
+    ],
+    "photos": [
+     {
+      "file": "File:NYC St. Bartholomew's 07.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:St. Bartholomew's Church - 2026 (55284018210).jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: lead says NHL for its ecclesiastical architecture by Goodhue. Year 1918 comes from the lead (2018 was the centennial of the first service in its Park Avenue home). Use 'NYC St. Bartholomew's 07.jpg' as main; the file marked main has a street event and people."
+  },
+  {
+   "id": "stockholm-university-library",
+   "keep": true,
+   "main_file_or_null": "File:Stockholm University Library 2019.jpg",
+   "entry": {
+    "id": "stockholm-university-library",
+    "qid": "Q10680674",
+    "status": "photo",
+    "why": "Erskine library; clear exterior photos.",
+    "name": "Stockholm University Library",
+    "by": "Ralph Erskine",
+    "city": "Stockholm",
+    "cc": "SE",
+    "year": null,
+    "type": "Library",
+    "movement": "Late modernism",
+    "concepts": [
+     "Exposed concrete",
+     "Facade as skin",
+     "Landscape"
+    ],
+    "features": "Ralph Erskine's building for Stockholm University Library, one of Sweden's largest research libraries.",
+    "commons_category": "Category:Stockholms universitetsbibliotek",
+    "coords": [
+     59.36333,
+     18.06056
+    ],
+    "photos": [
+     {
+      "file": "File:Stockholm University Library 2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Uni biblioteket 2010a.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Uni biblioteket 2010c.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: Ralph Erskine (3 on the wall), clear daylight exterior. The lead describes the library service, not the building; year not in prep, so null; movement and concepts are judgement from the photos."
+  },
+  {
+   "id": "arras-memorial",
+   "keep": true,
+   "main_file_or_null": "File:Arras Memorial 100.jpg",
+   "entry": {
+    "id": "arras-memorial",
+    "qid": "Q2782982",
+    "status": "photo",
+    "why": "Lutyens memorial; clear exterior photos.",
+    "name": "Arras Memorial",
+    "by": "Edwin Lutyens",
+    "city": "Arras",
+    "cc": "FR",
+    "year": null,
+    "type": "Memorial",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Axis",
+     "Courtyard"
+    ],
+    "features": "Lutyens's memorial to 35,942 missing soldiers of the Arras sector, set in the Faubourg d'Amiens British Cemetery.",
+    "commons_category": "Category:Arras Memorial",
+    "coords": [
+     50.28698,
+     2.76065
+    ],
+    "photos": [
+     {
+      "file": "File:Arras Memorial 100.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Arras Memorial 109.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Arras Memorial 103.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Low-confidence keep (famous architect, thin lead). Main file is idx1 'Arras Memorial 100.jpg', not the Haiku main (an interior arcade). Year not in prep, so null. Lower priority than Thiepval."
+  },
+  {
+   "id": "stopera",
+   "keep": true,
+   "main_file_or_null": "File:Stopera 2063.jpg",
+   "entry": {
+    "id": "stopera",
+    "qid": "Q1138851",
+    "status": "photo",
+    "why": "Landmark city hall and opera house; rated (Q) photos from across the Amstel.",
+    "name": "Stopera",
+    "by": "Wilhelm Holzbauer, Cees Dam",
+    "city": "Amsterdam",
+    "cc": "NL",
+    "year": null,
+    "type": "Civic",
+    "movement": "Postmodernism",
+    "concepts": [
+     "Brick",
+     "Public space",
+     "Water"
+    ],
+    "features": "Amsterdam's city hall and opera house in one block, its curved front on the Amstel clad in red-orange brick.",
+    "commons_category": "Category:Stopera",
+    "coords": [
+     52.36727,
+     4.90153
+    ],
+    "photos": [
+     {
+      "file": "File:Stopera 2063.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Amsterdam, de Stopera vanaf de Blauwbrug IMG 1096 2026-04-06 14.38.jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Amsterdam, de Blauwbrug RM518352 met de Stopera op de achtergrond IMG 1091 2026-04-06 14.29.jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     }
+    ]
+   },
+   "why": "Keep: well-known Amsterdam landmark, rated main photo shows it whole. Lead credits Holzbauer and Dam (Bijvoet and Holt appear only in photo categories). Prep year 1967 is a design date; the lead has no opening year, so null (it opened 1986, not in prep)."
+  }
+ ],
+ "wrong_skips": [
+  {
+   "id": "svampen",
+   "qid": "Q613568",
+   "why": "Borderline. Iconic 1958 mushroom water tower by an architect named in the lead, with clear photos; kept Otaniemi water tower sets the precedent. Haiku skipped it as 'height and history'. Optional.",
+   "entry": {
+    "id": "svampen",
+    "qid": "Q613568",
+    "status": "photo",
+    "why": "Distinctive 1958 water tower; clear exterior photos.",
+    "name": "Svampen",
+    "by": "Sune Lindström, Poul Kyhl",
+    "city": "Örebro",
+    "cc": "SE",
+    "year": 1958,
+    "type": "Infrastructure",
+    "movement": "Modernism",
+    "concepts": [
+     "Structure as expression",
+     "Sculptural form",
+     "Landscape"
+    ],
+    "features": "Örebro's 58-metre mushroom-shaped water tower of 1958, with a public terrace and cafe at the top.",
+    "commons_category": "Category:Svampen, Örebro",
+    "coords": [
+     59.28806,
+     15.22528
+    ],
+    "photos": [
+     {
+      "file": "File:Svampen from Bergkällebacken, Örebro.jpg",
+      "license": "CC0",
+      "seen": true
+     },
+     {
+      "file": "File:Svampen water tower in Örebro, Sweden seen from the south.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Svampen i Örebro underifrån sett.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 144-286 (143 entries): Haiku had 60 photo, 28 unsure, 55 skip. Photos: 41 keep_ok, 15 keep_fix (name/by/year/movement/features), 4 keep_wrong, 7 main-photo problems. Unsure: 13 resolved keep, 15 stay out. Skips: 1 borderline wrong skip (Svampen); the other 'real' skips look right (several are borderline, see report). keep_ok lists entries with no field fix and not keep_wrong; the main_photo_wrong list is separate and overlaps with keep_ok and keep_fix. Office/tower share of the kept set is high (about 10 of 60), near the 20 percent warning line."
+}
