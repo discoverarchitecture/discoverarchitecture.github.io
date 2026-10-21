@@ -111,3 +111,11 @@
   .arch .cap .r2 { font-size: 12px; }
   .wallpane { padding-top: 24px; }
 }
+
+/* "Read about …": six links, then "See all N" opens the rest in place (tools/architect_pages.links_block) */
+.blk .more-rows { margin-top: 8px; }
+.blk .more-rows summary { list-style: none; cursor: pointer; display: inline-block; padding: 8px 13px; border: 1px solid var(--ink); border-radius: var(--r); font: 600 14px var(--sans); transition: color .15s ease, border-color .15s ease; }
+.blk .more-rows summary::-webkit-details-marker { display: none; }
+.blk .more-rows[open] summary { display: none; }
+@media (hover: hover) { .blk .more-rows summary:hover { color: var(--red); border-color: var(--red); } }
+.rows .lt .paid { display: inline-block; margin-left: 8px; padding: 1px 6px; border: 1px solid var(--edge); border-radius: 6px; font: 500 11px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); vertical-align: 1px; }

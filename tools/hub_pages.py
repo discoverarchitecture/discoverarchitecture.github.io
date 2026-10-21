@@ -310,11 +310,7 @@ def page(bp, hubs, h, ctx):
         more = (f'<details class="more"><summary><span class="m">Read more</span><span class="l">Show less</span></summary>'
                 f'{"".join(f"<p>{link_names(bp, p, pool, up)}</p>" for p in paras[1:])}</details>' if len(paras) > 1 else '')
         body_intro = f'<div class="bio"><p>{link_names(bp, paras[0], pool, up)}</p>{more}</div>'
-    srcs = [l for l in ap.usable_links(h['sources'])]
-    rows = ''.join(f'<a href="{bp.e(l["url"])}" rel="noopener">{ap.link_logo(bp, l, h["label"], up)}<span class="lt"><b>{bp.e(l["site"])}</b>'
-                   f'{"<span> · " + bp.e(l["title"]) + "</span>" if l.get("title") and l["title"].lower() != l["site"].lower() else ""}</span><span class="go" aria-hidden="true">↗</span></a>'
-                   for l in srcs)
-    links = f'<section class="blk"><h2>Read about {bp.e(h["label"])}</h2><div class="rows">{rows}</div></section>' if rows else ''
+    links = ap.links_block(bp, f'Read about {h["label"]}', ap.merge_links(ctx['reading'].get(f'hub:{kind}:{h["slug"]}'), ap.usable_links(h['sources'])), h['label'], up)
     bk = ''.join(
         f'<a class="bk" href="{up}#book:{bp.e(b["id"])}"><span class="cv">' +
         (f'<img src="{bp.e(bp.at(up, b["cover"]["thumb"]))}" alt="" loading="lazy" width="78" height="117">' if b.get('cover') and b['cover'].get('thumb')
@@ -388,7 +384,7 @@ def index_page(bp, hubs, kind):
 def build(bp, hubs):
     """Write site/<kind folder>/<slug>/index.html for every hub and an index page per kind; remove pages left over from earlier runs."""
     import worth_swipe
-    ctx = {'swipe': set(worth_swipe.chosen()), 'books': bp.read_js('books.js', 'BOOKS') or []}
+    ctx = {'swipe': set(worth_swipe.chosen()), 'books': bp.read_js('books.js', 'BOOKS') or [], 'reading': ap.load_reading()}
     for kind, (folder, _, _) in KINDS.items():
         out = bp.SITE / folder
         out.mkdir(exist_ok=True)
