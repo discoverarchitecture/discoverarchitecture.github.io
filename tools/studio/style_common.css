@@ -114,6 +114,7 @@ main { width: min(1200px, 100% - 32px); margin: 0 auto; }
 .seg { display: flex; flex-wrap: wrap; gap: 6px; } .seg label { position: relative; } .seg input { position: absolute; opacity: 0; inset: 0; }
 .seg span { display: inline-flex; align-items: center; height: 42px; padding: 0 14px; font-weight: 600; font-size: 15px; cursor: pointer; }
 .consent { margin: 0; font-size: 13px; line-height: 1.5; } .thanks { display: none; margin: 0; font-weight: 700; } .wl.sent .thanks { display: block; }
+.wl .j-done, .wl.sent .j-go { display: none; } .wl.sent .j-done { display: inline; } .wl.sent .cta { cursor: default; }
 /* ---------- faq ---------- */
 .faq { margin-top: 24px; display: flex; flex-direction: column; } .fq summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; gap: 16px; padding: 20px 0; font-size: 19px; font-weight: 700; }
 .fq summary::-webkit-details-marker { display: none; } .fq summary i { position: relative; width: 16px; height: 16px; flex: none; margin-top: 4px; }

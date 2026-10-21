@@ -56,7 +56,7 @@ def main():
   }
   var qf = document.getElementById('qf'), wl = document.getElementById('join');
   qf.addEventListener('submit', function () { send(qf, 'signup'); });
-  qf.querySelector('.qf-more .cta').addEventListener('click', function () { send(qf, 'details'); });
+  qf.querySelector('.qf-more .cta').addEventListener('click', function () { send(qf, 'details'); if (window.fgaEvent) fgaEvent('studio/details', 'FGA Studio waitlist: optional answers'); });
   wl.addEventListener('submit', function () { send(wl, 'signup'); });
 })();
 </script>
