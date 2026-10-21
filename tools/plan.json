@@ -71,6 +71,7 @@
   "goal": "Haiku batch 6: 300 candidates from 1900–1989, at most 4 per architect, no government post offices or courthouses; Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
   "target": 80,
   "metric": "buildings_added",
-  "status": "in progress"
+  "status": "done",
+  "note": "114 added"
  }
 ]
