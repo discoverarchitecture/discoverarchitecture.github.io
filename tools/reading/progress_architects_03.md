@@ -7,7 +7,7 @@ Under 10, honestly short:
 - **Artur Tarkhanyan (7):** obscure; English coverage is about Soviet-Armenian modernism and the Rossia cinema, not him alone.
 - **Charles Girault (8):** most sources are French reference and archive pages, and the rest are single buildings (Petit Palais, Grand Palais), which the brief excludes.
 
-Over 15 (Lúcio Costa 16, Rafael Viñoly 16, David Adjaye 16): the reviewer can trim one each.
+Review round (SEO chat, 21 Oct): lists trimmed to 15 at most, 3 links per site at most, non-English pages and minor local news dropped where 10+ English links remain (kept only when the best source: Pani's Arquine pieces, Girault's INHA and Académie records, Itaú Cultural for Artigas), and each list ordered overview, profile, guide, essay, interview, obituary, museum, video, news. Further searches for Tarkhanyan and Girault found nothing new beyond one English archive record for Girault (La Casa de la Arquitectura); more is honestly not available.
 
 Known gaps and notes for the reviewer:
 - No Guardian, NYT, BBC or Architectural Digest links: the search tool cannot search those domains, so no paid links are in this group.
