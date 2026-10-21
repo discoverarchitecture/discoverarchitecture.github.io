@@ -122,3 +122,22 @@ galleries, verified by eye on the contact sheets, took out 223 more photos: peop
 signs, night shots, maps, near-duplicates, and photos of other buildings (the Munich Olympic Stadium in the HfG Ulm
 gallery, the cathedral next door in Perth's Council House, paintings in the Röhsska Museum, a French château in
 Château Neuf).
+
+## Haiku pipeline, third pool (21 Oct 2026): 287 candidates by architects with 2+ buildings on the wall
+
+Haiku judged all 287 from prepared facts, Wikipedia leads and contact sheets. Sonnet checked every keep, every
+unsure and every skip; Opus checked every gallery by eye. 98 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 98 (4 better leads chosen) | fine |
+| No free photo | 3 of 287 (1%); 35 more had no usable outside photo | fine |
+| Already on the wall | 32 of 287 (11%): 25 caught by Wikipedia article, 5 by Sonnet, 2 by the add step | fine |
+| Facts failing the source check | Haiku's raw output: about 25 fact errors and 15 wrong keeps in 124 keeps (over 20%). All fixed by Sonnet's full check before anything was added | **stop level for Haiku alone** — Haiku must not run without a full Sonnet check |
+| Ordinary types | 10 of 98 (10%) | fine |
+
+What Haiku got wrong: it trusts Wikidata's architect (Sinan credited for a 1347 Mamluk mosque, Horta for an 1844
+museum, renovation architects for older buildings), takes demolished or rebuilt buildings at face value, uses a
+district as the city, and does not check the wall for duplicates. 21 good buildings are held in
+`tools/cheap/held_no_year.json` because no source in the prepared data gives a year. 25 of the 98 are Ottoman
+mosques by Sinan: fine as historic precedents, but the next pool should lean modern.

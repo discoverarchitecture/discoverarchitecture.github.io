@@ -33,5 +33,10 @@
   "date": "2026-10-21",
   "workstream": "Data collection",
   "note": "Drawings for the most-studied buildings 201-1,000: Commons scanned in four runs, 82 drawings for 40 buildings accepted (Sonnet first pass, Opus check by eye) and fetched; 15 off-topic photos from the refetch removed."
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "note": "Haiku pipeline, third pool: 287 candidates judged by Haiku, every judgement checked by Sonnet, every gallery by Opus; 98 buildings added, 77 off-topic photos removed, 21 held for want of a sourced year."
  }
 ]
