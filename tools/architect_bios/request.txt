@@ -1,1 +1,1 @@
-python -u tools/fetch_architect_sources.py --ranks 221-256 --buildings batch_09
+python -u tools/fetch_architect_sources.py --pages tools/architect_bios/pages_09.json

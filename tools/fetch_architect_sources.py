@@ -13,9 +13,12 @@ tools/architect_bios/sources.json (name -> record), so batches can be fetched on
 With --buildings NAME, it also fetches the English Wikipedia text (introduction plus design sections, about 800
 words) of every wall building by these architects, into tools/architect_bios/building_sources/NAME.json
 (building id -> record); --no-architects skips the architect records, --skip leaves names out.
+With --pages FILE (a JSON list of addresses), it also saves the plain text of each page into
+tools/architect_bios/page_sources.json (address -> record): any-language Wikipedia articles through their API, other
+sites as text stripped from the HTML. For architects and buildings with no English article.
 Needs network access to wikidata.org and en.wikipedia.org: runs on GitHub Actions (architect-bios.yml).
 """
-import argparse, json, re, sys, time, urllib.parse, urllib.request
+import argparse, html, json, re, sys, time, urllib.parse, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -192,6 +195,50 @@ def buildings(entries, name):
     print('wrote', path, len(out))
 
 
+PAGES_OUT = DIR / 'page_sources.json'
+
+
+def page_text(url):
+    """Plain text of one page: a Wikipedia article in any language through its API, anything else from its HTML."""
+    m = re.match(r'https://([a-z-]+)\.wikipedia\.org/wiki/(.+)', url)
+    if m:
+        lang, title = m.group(1), urllib.parse.unquote(m.group(2)).replace('_', ' ')
+        res = get(f'https://{lang}.wikipedia.org/w/api.php', {'action': 'query', 'prop': 'extracts', 'explaintext': 1,
+                                                             'titles': title, 'redirects': 1, 'formatversion': 2})
+        page = res['query']['pages'][0]
+        title, text = page.get('title'), page.get('extract', '')
+    else:
+        req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'en'})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            raw = r.read().decode(r.headers.get_content_charset() or 'utf-8', 'replace')
+        t = re.search(r'<title[^>]*>(.*?)</title>', raw, re.S | re.I)
+        title = html.unescape(t.group(1).strip()) if t else None
+        raw = re.sub(r'<(script|style|noscript|svg)\b.*?</\1>', ' ', raw, flags=re.S | re.I)
+        raw = re.sub(r'<br\s*/?>|</(p|div|li|h[1-6]|tr)>', '\n', raw, flags=re.I)
+        text = html.unescape(re.sub(r'<[^>]+>', ' ', raw))
+        text = '\n'.join(re.sub(r'[ \t\r\f\v]+', ' ', line).strip() for line in text.split('\n'))
+        text = re.sub(r'\n{2,}', '\n', text).strip()
+    words = text.split(' ')
+    if len(words) > MAX_WORDS:
+        text = ' '.join(words[:MAX_WORDS]) + ' [...]'
+    return {'url': url, 'title': title, 'text': text}
+
+
+def pages(listfile):
+    urls = json.loads((ROOT / listfile).read_text())
+    out = json.loads(PAGES_OUT.read_text()) if PAGES_OUT.exists() else {}
+    for url in urls:
+        try:
+            out[url] = page_text(url)
+            print('  page', url, len(out[url]['text'].split()), 'words')
+        except Exception as err:
+            out[url] = {'url': url, 'error': str(err)}
+            print('  page FAILED', url, err)
+        time.sleep(1)
+    PAGES_OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1) + '\n')
+    print('wrote', PAGES_OUT, len(out))
+
+
 def pick(todo, ranks, only):
     if only:
         names = {n.strip() for n in only.split(',')}
@@ -210,7 +257,12 @@ def main():
     ap.add_argument('--no-architects', action='store_true')
     ap.add_argument('--skip', help='names to leave out, comma-separated')
     ap.add_argument('--qids', help='overrides, "Name=Q123,Other=search phrase"')
+    ap.add_argument('--pages', help='JSON list of addresses to save as text into page_sources.json')
     args = ap.parse_args()
+    if args.pages:
+        pages(args.pages)
+        if not (args.ranks or args.only):
+            return
     todo = json.loads((DIR / 'todo.json').read_text())
     over = dict(p.split('=', 1) for p in (args.qids or '').split(',') if '=' in p)
     out = json.loads(OUT.read_text()) if OUT.exists() else {}
