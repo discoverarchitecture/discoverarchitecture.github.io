@@ -1,1027 +1,208 @@
 [
  {
-  "architect": "Kris Yao",
-  "url": "https://en.wikipedia.org/wiki/Kris_Yao",
+  "architect": "Werner Düttmann",
+  "url": "https://de.wikipedia.org/wiki/Werner_Düttmann",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Kris_Yao",
-  "title": "Kris Yao - Wikipedia",
+  "final": "https://de.wikipedia.org/wiki/Werner_D%C3%BCttmann",
+  "title": "Werner Düttmann – Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Kris Yao",
-  "url": "https://en.wikipedia.org/wiki/Lanyang_Museum",
+  "architect": "Werner Düttmann",
+  "url": "https://en.wikipedia.org/wiki/Brücke_Museum",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Lanyang_Museum",
-  "title": "Lanyang Museum - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Kris Yao",
-  "url": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters",
-  "title": "China Steel Corporation Headquarters - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Kris Yao",
-  "url": "https://en.wikipedia.org/wiki/Nung_Chan_Monastery",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Nung_Chan_Monastery",
-  "title": "Nung Chan Monastery - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Kris Yao",
-  "url": "https://zh.wikipedia.org/wiki/姚仁喜",
-  "status": 200,
-  "final": "https://zh.wikipedia.org/wiki/%E5%A7%9A%E4%BB%81%E5%96%9C",
-  "title": "姚仁喜 - 维基百科，自由的百科全书",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Leslie Martin",
-  "url": "https://en.wikipedia.org/wiki/Leslie_Martin",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Leslie_Martin",
-  "title": "Leslie Martin - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Leslie Martin",
-  "url": "https://en.wikipedia.org/wiki/Royal_Festival_Hall",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Royal_Festival_Hall",
-  "title": "Royal Festival Hall - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Leslie Martin",
-  "url": "https://en.wikipedia.org/wiki/Kettle's_Yard",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Kettle's_Yard",
-  "title": "Kettle's Yard - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Leslie Martin",
-  "url": "https://en.wikipedia.org/wiki/Harvey_Court",
-  "status": 404,
-  "final": "https://en.wikipedia.org/wiki/Harvey_Court",
-  "title": "",
+  "final": "https://en.wikipedia.org/wiki/Br%C3%BCcke_Museum",
+  "title": "Brücke Museum - Wikipedia",
   "about": false,
   "error": null
  },
  {
-  "architect": "Lev Rudnev",
-  "url": "https://en.wikipedia.org/wiki/Lev_Rudnev",
+  "architect": "Werner Düttmann",
+  "url": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Lev_Rudnev",
-  "title": "Lev Rudnev - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lev Rudnev",
-  "url": "https://ru.wikipedia.org/wiki/Руднев,_Лев_Владимирович",
-  "status": 200,
-  "final": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B4%D0%BD%D0%B5%D0%B2,_%D0%9B%D0%B5%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
-  "title": "Руднев, Лев Владимирович — Википедия",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lev Rudnev",
-  "url": "https://en.wikipedia.org/wiki/Main_building_of_Moscow_State_University",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Main_building_of_Moscow_State_University",
-  "title": "Main building of Moscow State University - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lev Rudnev",
-  "url": "https://architectuul.com/architect/lev-rudnev",
-  "status": 200,
-  "final": "https://architectuul.com/architect/lev-rudnev",
-  "title": "Lev Rudnev | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lluís Domènech i Montaner",
-  "url": "https://en.wikipedia.org/wiki/Lluís_Domènech_i_Montaner",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Llu%C3%ADs_Dom%C3%A8nech_i_Montaner",
-  "title": "Lluís Domènech i Montaner - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lluís Domènech i Montaner",
-  "url": "https://ca.wikipedia.org/wiki/Lluís_Domènech_i_Montaner",
-  "status": 200,
-  "final": "https://ca.wikipedia.org/wiki/Llu%C3%ADs_Dom%C3%A8nech_i_Montaner",
-  "title": "Lluís Domènech i Montaner - Viquipèdia, l'enciclopèdia lliure",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lluís Domènech i Montaner",
-  "url": "https://en.wikipedia.org/wiki/Palau_de_la_Música_Catalana",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Palau_de_la_M%C3%BAsica_Catalana",
-  "title": "Palau de la Música Catalana - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lluís Domènech i Montaner",
-  "url": "https://architectuul.com/architect/lluis-domenech-i-montaner",
-  "status": 200,
-  "final": "https://architectuul.com/architect/lluis-domenech-i-montaner",
-  "title": "Lluis Domenech I Montaner | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lundgaard & Tranberg",
-  "url": "https://en.wikipedia.org/wiki/Lundgaard_&_Tranberg",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Lundgaard_&_Tranberg",
-  "title": "Lundgaard & Tranberg - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lundgaard & Tranberg",
-  "url": "https://www.ltarkitekter.dk/",
-  "status": 200,
-  "final": "https://www.ltarkitekter.dk/",
-  "title": "Lundgaard & Tranberg Arkitekter – Arkitektrådgivning inden for transformation, renovering, planer og nybyg",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lundgaard & Tranberg",
-  "url": "https://en.wikipedia.org/wiki/Tietgenkollegiet",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Tietgenkollegiet",
-  "title": "Tietgenkollegiet - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Lundgaard & Tranberg",
-  "url": "https://www.archdaily.com/office/lundgaard-and-tranberg-architects",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/lundgaard-and-tranberg-architects",
-  "title": "Lundgaard & Tranberg Architects | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Marcello Piacentini",
-  "url": "https://en.wikipedia.org/wiki/Marcello_Piacentini",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Marcello_Piacentini",
-  "title": "Marcello Piacentini - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Marcello Piacentini",
-  "url": "https://it.wikipedia.org/wiki/Marcello_Piacentini",
-  "status": 200,
-  "final": "https://it.wikipedia.org/wiki/Marcello_Piacentini",
-  "title": "Marcello Piacentini - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Marcello Piacentini",
-  "url": "https://en.wikipedia.org/wiki/Matarazzo_Building",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Matarazzo_Building",
-  "title": "Matarazzo Building - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Marcello Piacentini",
-  "url": "https://architectuul.com/architect/marcello-piacentini",
-  "status": 200,
-  "final": "https://architectuul.com/architect/marcello-piacentini",
-  "title": "Marcello Piacentini | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mario Roberto Álvarez",
-  "url": "https://en.wikipedia.org/wiki/Mario_Roberto_Álvarez",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Mario_Roberto_%C3%81lvarez",
-  "title": "Mario Roberto Álvarez - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mario Roberto Álvarez",
-  "url": "https://es.wikipedia.org/wiki/Mario_Roberto_Álvarez",
-  "status": 200,
-  "final": "https://es.wikipedia.org/wiki/Mario_Roberto_%C3%81lvarez",
-  "title": "Mario Roberto Álvarez - Wikipedia, la enciclopedia libre",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mario Roberto Álvarez",
-  "url": "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Martín",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Mart%C3%ADn",
-  "title": "Centro Cultural General San Martín - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mario Roberto Álvarez",
-  "url": "https://es.wikipedia.org/wiki/Edificio_SOMISA",
-  "status": 200,
-  "final": "https://es.wikipedia.org/wiki/Edificio_SOMISA",
-  "title": "Edificio Somisa - Wikipedia, la enciclopedia libre",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Masato Otaka",
-  "url": "https://ja.wikipedia.org/wiki/大高正人",
-  "status": 200,
-  "final": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%AB%98%E6%AD%A3%E4%BA%BA",
-  "title": "大高正人 - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Masato Otaka",
-  "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cpg4pqx",
-  "status": 200,
-  "final": "https://www.centrepompidou.fr/en/ressources/oeuvre/cpg4pqx",
-  "title": "Complexe d'habitations, Sakaide, Japon - Centre Pompidou",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Masato Otaka",
-  "url": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
-  "title": "Metabolism (architecture) - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Maxwell Fry",
-  "url": "https://en.wikipedia.org/wiki/Maxwell_Fry",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Maxwell_Fry",
-  "title": "Maxwell Fry - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Maxwell Fry",
-  "url": "https://en.wikipedia.org/wiki/Kensal_House",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Kensal_House",
-  "title": "Kensal House - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Maxwell Fry",
-  "url": "https://en.wikipedia.org/wiki/Jane_Drew",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Jane_Drew",
-  "title": "Jane Drew - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Maxwell Fry",
-  "url": "https://architectuul.com/architect/maxwell-fry",
-  "status": 200,
-  "final": "https://architectuul.com/architect/maxwell-fry",
-  "title": "Maxwell Fry | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mecanoo",
-  "url": "https://en.wikipedia.org/wiki/Mecanoo",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Mecanoo",
-  "title": "Mecanoo - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mecanoo",
-  "url": "https://www.mecanoo.nl/",
-  "status": 200,
-  "final": "https://www.mecanoo.nl/",
-  "title": "We are Mecanoo",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mecanoo",
-  "url": "https://en.wikipedia.org/wiki/Francine_Houben",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Francine_Houben",
-  "title": "Francine Houben - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mecanoo",
-  "url": "https://www.archdaily.com/office/mecanoo",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/mecanoo",
-  "title": "Mecanoo | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mohsen Foroughi",
-  "url": "https://en.wikipedia.org/wiki/Mohsen_Foroughi",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Mohsen_Foroughi",
-  "title": "Mohsen Foroughi - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mohsen Foroughi",
-  "url": "https://en.wikipedia.org/wiki/Tomb_of_Saadi",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Tomb_of_Saadi",
-  "title": "Tomb of Saadi - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Mohsen Foroughi",
-  "url": "https://en.wikipedia.org/wiki/Heydar_Ghiai",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Heydar_Ghiai",
-  "title": "Heydar Ghiai - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Moisei Ginzburg",
-  "url": "https://en.wikipedia.org/wiki/Moisei_Ginzburg",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Moisei_Ginzburg",
-  "title": "Moisei Ginzburg - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Moisei Ginzburg",
-  "url": "https://en.wikipedia.org/wiki/Narkomfin_building",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Narkomfin_building",
-  "title": "Narkomfin building - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Moisei Ginzburg",
-  "url": "https://ru.wikipedia.org/wiki/Гинзбург,_Моисей_Яковлевич",
-  "status": 200,
-  "final": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BD%D0%B7%D0%B1%D1%83%D1%80%D0%B3,_%D0%9C%D0%BE%D0%B8%D1%81%D0%B5%D0%B9_%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%D0%B8%D1%87",
-  "title": "Гинзбург, Моисей Яковлевич — Википедия",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Moisei Ginzburg",
-  "url": "https://architectuul.com/architect/moisei-ginzburg",
-  "status": 200,
-  "final": "https://architectuul.com/architect/moisei-ginzburg",
-  "title": "Moisei Ginzburg | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ove Arup",
-  "url": "https://en.wikipedia.org/wiki/Ove_Arup",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ove_Arup",
-  "title": "Ove Arup - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ove Arup",
-  "url": "https://en.wikipedia.org/wiki/Kingsgate_Bridge",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Kingsgate_Bridge",
-  "title": "Kingsgate Bridge - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ove Arup",
-  "url": "https://en.wikipedia.org/wiki/Arup_Group",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Arup_Group",
-  "title": "Arup Group - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ove Arup",
-  "url": "https://en.wikipedia.org/wiki/Dunelm_House",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Dunelm_House",
-  "title": "Dunelm House - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Paul Andreu",
-  "url": "https://en.wikipedia.org/wiki/Paul_Andreu",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Paul_Andreu",
-  "title": "Paul Andreu - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Paul Andreu",
-  "url": "https://fr.wikipedia.org/wiki/Paul_Andreu",
-  "status": 200,
-  "final": "https://fr.wikipedia.org/wiki/Paul_Andreu",
-  "title": "Paul Andreu — Wikipédia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Paul Andreu",
-  "url": "https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(China)",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(China)",
-  "title": "National Centre for the Performing Arts (China) - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Paul Andreu",
-  "url": "https://architectuul.com/architect/paul-andreu",
-  "status": 200,
-  "final": "https://architectuul.com/architect/paul-andreu",
-  "title": "Paul Andreu | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Pedro Ramírez Vázquez",
-  "url": "https://en.wikipedia.org/wiki/Pedro_Ramírez_Vázquez",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Pedro_Ram%C3%ADrez_V%C3%A1zquez",
-  "title": "Pedro Ramírez Vázquez - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Pedro Ramírez Vázquez",
-  "url": "https://es.wikipedia.org/wiki/Pedro_Ramírez_Vázquez",
-  "status": 200,
-  "final": "https://es.wikipedia.org/wiki/Pedro_Ram%C3%ADrez_V%C3%A1zquez",
-  "title": "Pedro Ramírez Vázquez - Wikipedia, la enciclopedia libre",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Pedro Ramírez Vázquez",
-  "url": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
-  "title": "National Museum of Anthropology (Mexico) - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Pedro Ramírez Vázquez",
-  "url": "https://architectuul.com/architect/pedro-ramirez-vazquez",
-  "status": 200,
-  "final": "https://architectuul.com/architect/pedro-ramirez-vazquez",
-  "title": "Pedro Ramirez Vazquez | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Peter Behrens",
-  "url": "https://en.wikipedia.org/wiki/Peter_Behrens",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Peter_Behrens",
-  "title": "Peter Behrens - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Peter Behrens",
-  "url": "https://de.wikipedia.org/wiki/Peter_Behrens",
-  "status": 200,
-  "final": "https://de.wikipedia.org/wiki/Peter_Behrens",
-  "title": "Peter Behrens – Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Peter Behrens",
-  "url": "https://en.wikipedia.org/wiki/AEG_turbine_factory",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/AEG_turbine_factory",
-  "title": "AEG turbine factory - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Peter Behrens",
-  "url": "https://architectuul.com/architect/peter-behrens",
-  "status": 200,
-  "final": "https://architectuul.com/architect/peter-behrens",
-  "title": "Peter Behrens | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Raj Rewal",
-  "url": "https://en.wikipedia.org/wiki/Raj_Rewal",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Raj_Rewal",
-  "title": "Raj Rewal - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Raj Rewal",
-  "url": "https://www.rajrewal.in/",
-  "status": 200,
-  "final": "https://rajrewal.in/",
-  "title": "Raj Rewal Associates",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Raj Rewal",
-  "url": "https://en.wikipedia.org/wiki/Hall_of_Nations",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Hall_of_Nations",
-  "title": "Hall of Nations - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ralph Erskine",
-  "url": "https://en.wikipedia.org/wiki/Ralph_Erskine_(architect)",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ralph_Erskine_(architect)",
-  "title": "Ralph Erskine (architect) - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ralph Erskine",
-  "url": "https://sv.wikipedia.org/wiki/Ralph_Erskine",
-  "status": 200,
-  "final": "https://sv.wikipedia.org/wiki/Ralph_Erskine",
-  "title": "Ralph Erskine – Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ralph Erskine",
-  "url": "https://en.wikipedia.org/wiki/Byker_Wall",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Byker_Wall",
-  "title": "Byker Wall - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ralph Erskine",
-  "url": "https://architectuul.com/architect/ralph-erskine",
-  "status": 200,
-  "final": "https://architectuul.com/architect/ralph-erskine",
-  "title": "Ralph Erskine | Architectuul",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ram Karmi",
-  "url": "https://en.wikipedia.org/wiki/Ram_Karmi",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ram_Karmi",
-  "title": "Ram Karmi - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ram Karmi",
-  "url": "https://he.wikipedia.org/wiki/רם_כרמי",
-  "status": 200,
-  "final": "https://he.wikipedia.org/wiki/%D7%A8%D7%9D_%D7%9B%D7%A8%D7%9E%D7%99",
-  "title": "רם כרמי – ויקיפדיה",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ram Karmi",
-  "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Israel_Building",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Supreme_Court_of_Israel_Building",
-  "title": "Supreme Court of Israel Building - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Ram Karmi",
-  "url": "https://en.wikipedia.org/wiki/Ada_Karmi-Melamede",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ada_Karmi-Melamede",
-  "title": "Ada Karmi-Melamede - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Robert Matthew",
-  "url": "https://en.wikipedia.org/wiki/Robert_Matthew",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Robert_Matthew",
-  "title": "Robert Matthew - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Robert Matthew",
-  "url": "https://en.wikipedia.org/wiki/RMJM",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/RMJM",
-  "title": "RMJM - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Robert Matthew",
-  "url": "https://en.wikipedia.org/wiki/Royal_Commonwealth_Pool",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Royal_Commonwealth_Pool",
-  "title": "Royal Commonwealth Pool - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Román Fresnedo Siri",
-  "url": "https://en.wikipedia.org/wiki/Román_Fresnedo_Siri",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Fresnedo_Siri",
-  "title": "Román Fresnedo Siri - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Román Fresnedo Siri",
-  "url": "https://es.wikipedia.org/wiki/Román_Fresnedo_Siri",
-  "status": 200,
-  "final": "https://es.wikipedia.org/wiki/Rom%C3%A1n_Fresnedo_Siri",
-  "title": "Román Fresnedo Siri - Wikipedia, la enciclopedia libre",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Román Fresnedo Siri",
-  "url": "https://en.wikipedia.org/wiki/Hipodromo_do_Cristal",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Hipodromo_do_Cristal",
-  "title": "Hipodromo do Cristal - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sedad Hakkı Eldem",
-  "url": "https://en.wikipedia.org/wiki/Sedad_Hakkı_Eldem",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Sedad_Hakk%C4%B1_Eldem",
-  "title": "Sedad Hakkı Eldem - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sedad Hakkı Eldem",
-  "url": "https://tr.wikipedia.org/wiki/Sedad_Hakkı_Eldem",
-  "status": 200,
-  "final": "https://tr.wikipedia.org/wiki/Sedad_Hakk%C4%B1_Eldem",
-  "title": "Sedad Hakkı Eldem - Vikipedi",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sedad Hakkı Eldem",
-  "url": "https://en.wikipedia.org/wiki/Hilton_Istanbul_Bosphorus",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Hilton_Istanbul_Bosphorus",
-  "title": "Hilton Istanbul Bosphorus - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Sedad Hakkı Eldem",
-  "url": "https://architectuul.com/architect/sedad-hakki-eldem",
-  "status": 200,
-  "final": "https://architectuul.com/architect/sedad-hakki-eldem",
-  "title": "Sedad Hakkı Eldem | Architectuul",
-  "about": true,
+  "final": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
+  "title": "Academy of Arts, Berlin - Wikipedia",
+  "about": false,
   "error": null
  },
  {
-  "architect": "Shin Takamatsu",
-  "url": "https://en.wikipedia.org/wiki/Shin_Takamatsu",
+  "architect": "Werner Düttmann",
+  "url": "https://architectuul.com/architect/werner-duttmann",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Shin_Takamatsu",
-  "title": "Shin Takamatsu - Wikipedia",
+  "final": "https://architectuul.com/architect/werner-duttmann",
+  "title": "Werner Duttmann | Architectuul",
   "about": true,
   "error": null
  },
  {
-  "architect": "Shin Takamatsu",
-  "url": "https://ja.wikipedia.org/wiki/高松伸",
+  "architect": "William Pereira",
+  "url": "https://en.wikipedia.org/wiki/William_Pereira",
   "status": 200,
-  "final": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E4%BC%B8",
-  "title": "高松伸 - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/William_Pereira",
+  "title": "William Pereira - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Shin Takamatsu",
-  "url": "https://de.wikipedia.org/wiki/Shin_Takamatsu",
+  "architect": "William Pereira",
+  "url": "https://en.wikipedia.org/wiki/Geisel_Library",
   "status": 200,
-  "final": "https://de.wikipedia.org/wiki/Shin_Takamatsu",
-  "title": "Shin Takamatsu – Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Geisel_Library",
+  "title": "Geisel Library - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Shin Takamatsu",
-  "url": "https://fr.wikipedia.org/wiki/Shin_Takamatsu",
+  "architect": "William Pereira",
+  "url": "https://en.wikipedia.org/wiki/Transamerica_Pyramid",
   "status": 200,
-  "final": "https://fr.wikipedia.org/wiki/Shin_Takamatsu",
-  "title": "Shin Takamatsu — Wikipédia",
+  "final": "https://en.wikipedia.org/wiki/Transamerica_Pyramid",
+  "title": "Transamerica Pyramid - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Teodoro González de León",
-  "url": "https://en.wikipedia.org/wiki/Teodoro_González_de_León",
+  "architect": "William Pereira",
+  "url": "https://architectuul.com/architect/william-pereira",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Teodoro_Gonz%C3%A1lez_de_Le%C3%B3n",
-  "title": "Teodoro González de León - Wikipedia",
+  "final": "https://architectuul.com/architect/william-pereira",
+  "title": "William Pereira | Architectuul",
   "about": true,
   "error": null
  },
  {
-  "architect": "Teodoro González de León",
-  "url": "https://es.wikipedia.org/wiki/Teodoro_González_de_León",
+  "architect": "Yaakov Rechter",
+  "url": "https://en.wikipedia.org/wiki/Yaakov_Rechter",
   "status": 200,
-  "final": "https://es.wikipedia.org/wiki/Teodoro_Gonz%C3%A1lez_de_Le%C3%B3n",
-  "title": "Teodoro González de León - Wikipedia, la enciclopedia libre",
+  "final": "https://en.wikipedia.org/wiki/Yaakov_Rechter",
+  "title": "Yaakov Rechter - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Teodoro González de León",
-  "url": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,_Mexico_City",
+  "architect": "Yaakov Rechter",
+  "url": "https://en.wikipedia.org/wiki/Heichal_HaTarbut",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,_Mexico_City",
-  "title": "Museo Rufino Tamayo, Mexico City - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Heichal_HaTarbut",
+  "title": "Heichal HaTarbut - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Tezuka Architects",
-  "url": "https://en.wikipedia.org/wiki/Takaharu_Tezuka",
+  "architect": "Yaakov Rechter",
+  "url": "https://en.wikipedia.org/wiki/Atarim_Square",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Takaharu_Tezuka",
-  "title": "Takaharu Tezuka - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Atarim_Square",
+  "title": "Atarim Square - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Tezuka Architects",
-  "url": "https://www.tezuka-arch.com/",
-  "status": 200,
-  "final": "https://www.tezuka-arch.com/",
-  "title": "手塚建築研究所",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Tezuka Architects",
-  "url": "https://www.matsunoyama.com/kyororo/english",
-  "status": 200,
-  "final": "https://www.matsunoyama.com/kyororo/english",
-  "title": "English | 越後松之山「森の学校」キョロロ",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Tezuka Architects",
-  "url": "https://www.archdaily.com/office/tezuka-architects",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/tezuka-architects",
-  "title": "Tezuka Architects | ArchDaily",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "UNStudio",
-  "url": "https://en.wikipedia.org/wiki/UNStudio",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/UNStudio",
-  "title": "UNStudio - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "UNStudio",
-  "url": "https://www.unstudio.com/",
-  "status": 200,
-  "final": "https://www.unstudio.com/",
-  "title": "Explore Beyond Architecture | UNS",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "UNStudio",
-  "url": "https://en.wikipedia.org/wiki/Ben_van_Berkel",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ben_van_Berkel",
-  "title": "Ben van Berkel - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Van den Broek en Bakema",
-  "url": "https://en.wikipedia.org/wiki/Jaap_Bakema",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Jaap_Bakema",
-  "title": "Jaap Bakema - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Van den Broek en Bakema",
-  "url": "https://en.wikipedia.org/wiki/Jo_van_den_Broek",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Jo_van_den_Broek",
-  "title": "Jo van den Broek - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Van den Broek en Bakema",
-  "url": "https://nl.wikipedia.org/wiki/Van_den_Broek_en_Bakema",
-  "status": 200,
-  "final": "https://nl.wikipedia.org/wiki/Van_den_Broek_en_Bakema",
-  "title": "Broekbakema - Wikipedia",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Van den Broek en Bakema",
-  "url": "https://www.broekbakema.nl/",
-  "status": 200,
-  "final": "https://www.broekbakema.nl/",
-  "title": "Broekbakema",
-  "about": true,
-  "error": null
- },
- {
-  "architect": "Vann Molyvann",
-  "url": "https://en.wikipedia.org/wiki/Vann_Molyvann",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Vann_Molyvann",
-  "title": "Vann Molyvann - Wikipedia",
-  "about": true,
-  "error": null
+  "architect": "Yaakov Rechter",
+  "url": "https://www.rechter-architects.com/",
+  "status": 0,
+  "final": "https://www.rechter-architects.com/",
+  "title": "",
+  "about": false,
+  "error": "ERROR <urlopen error [Errno -2] Name or service not known>"
  },
  {
-  "architect": "Vann Molyvann",
-  "url": "https://www.vannmolyvannproject.org/",
+  "architect": "Liu Jiakun",
+  "url": "https://en.wikipedia.org/wiki/Liu_Jiakun",
   "status": 200,
-  "final": "https://www.vannmolyvannproject.org/",
-  "title": "The Vann Molyvann Project",
+  "final": "https://en.wikipedia.org/wiki/Liu_Jiakun",
+  "title": "Liu Jiakun - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Vann Molyvann",
-  "url": "https://en.wikipedia.org/wiki/Independence_Monument_(Cambodia)",
+  "architect": "Liu Jiakun",
+  "url": "https://www.pritzkerprize.com/laureates/liu-jiakun",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Independence_Monument_(Cambodia)",
-  "title": "Independence Monument (Cambodia) - Wikipedia",
+  "final": "https://www.pritzkerprize.com/laureates/liu-jiakun",
+  "title": "Liu Jiakun | The Pritzker Architecture Prize",
   "about": true,
   "error": null
  },
  {
-  "architect": "Vann Molyvann",
-  "url": "https://architectuul.com/architect/vann-molyvann",
+  "architect": "Liu Jiakun",
+  "url": "https://architecturalrecord.com/articles/17402-liu-jiakun-wins-2025-pritzker-architecture-prize",
   "status": 200,
-  "final": "https://architectuul.com/architect/vann-molyvann",
-  "title": "Vann Molyvann | Architectuul",
+  "final": "https://www.architecturalrecord.com/articles/17402-liu-jiakun-wins-2025-pritzker-architecture-prize",
+  "title": "Liu Jiakun Wins 2025 Pritzker Architecture Prize | Architectural Record",
   "about": true,
   "error": null
  },
  {
-  "architect": "Walter Netsch",
-  "url": "https://en.wikipedia.org/wiki/Walter_Netsch",
+  "architect": "Richard and Su Rogers",
+  "url": "https://en.wikipedia.org/wiki/Su_Rogers",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Walter_Netsch",
-  "title": "Walter Netsch - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Su_Rogers",
+  "title": "Su Rogers - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Walter Netsch",
-  "url": "https://en.wikipedia.org/wiki/United_States_Air_Force_Academy_Cadet_Chapel",
+  "architect": "Richard and Su Rogers",
+  "url": "https://en.wikipedia.org/wiki/Richard_Rogers",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/United_States_Air_Force_Academy_Cadet_Chapel",
-  "title": "United States Air Force Academy Cadet Chapel - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Richard_Rogers",
+  "title": "Richard Rogers - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Walter Netsch",
-  "url": "https://en.wikipedia.org/wiki/Regenstein_Library",
+  "architect": "Richard and Su Rogers",
+  "url": "https://en.wikipedia.org/wiki/22_Parkside",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Regenstein_Library",
-  "title": "Regenstein Library - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/22_Parkside",
+  "title": "22 Parkside - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Walter Netsch",
-  "url": "https://architectuul.com/architect/walter-netsch",
+  "architect": "Richard and Su Rogers",
+  "url": "https://en.wikipedia.org/wiki/Zip-Up_House",
   "status": 200,
-  "final": "https://architectuul.com/architect/walter-netsch",
-  "title": "Walter Netsch | Architectuul",
+  "final": "https://en.wikipedia.org/wiki/Zip-Up_House",
+  "title": "Zip-Up House - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Wang Shu",
-  "url": "https://en.wikipedia.org/wiki/Wang_Shu",
+  "architect": "Robert Venturi",
+  "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Wang_Shu",
-  "title": "Wang Shu - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Robert_Venturi",
+  "title": "Robert Venturi - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Wang Shu",
-  "url": "https://www.pritzkerprize.com/laureates/2012",
+  "architect": "Robert Venturi",
+  "url": "https://www.pritzkerprize.com/laureates/1991",
   "status": 200,
-  "final": "https://www.pritzkerprize.com/laureates/2012",
-  "title": "Wang Shu | The Pritzker Architecture Prize",
+  "final": "https://www.pritzkerprize.com/laureates/1991",
+  "title": "Robert Venturi | The Pritzker Architecture Prize",
   "about": true,
   "error": null
  },
  {
-  "architect": "Wang Shu",
-  "url": "https://en.wikipedia.org/wiki/Ningbo_Museum",
+  "architect": "Robert Venturi",
+  "url": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
   "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Ningbo_Museum",
-  "title": "Ningbo Museum - Wikipedia",
+  "final": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
+  "title": "Vanna Venturi House - Wikipedia",
   "about": true,
   "error": null
  },
  {
-  "architect": "Wang Shu",
-  "url": "https://www.archdaily.com/tag/wang-shu",
+  "architect": "Robert Venturi",
+  "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
   "status": 200,
-  "final": "https://www.archdaily.com/tag/wang-shu",
-  "title": "Wang Shu | Tag\n | ArchDaily",
+  "final": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+  "title": "Denise Scott Brown - Wikipedia",
   "about": true,
   "error": null
  }

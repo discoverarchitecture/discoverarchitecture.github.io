@@ -21,25 +21,29 @@
     "site": "Wikipedia (German)",
     "title": "Werner Düttmann",
     "url": "https://de.wikipedia.org/wiki/Werner_Düttmann",
-    "why": "his life and a full list of works"
+    "why": "his life and a full list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Brücke Museum",
     "url": "https://en.wikipedia.org/wiki/Brücke_Museum",
-    "why": "his best-known museum"
+    "why": "his best-known museum",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Academy of Arts, Berlin",
     "url": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
-    "why": "the academy he designed for and presided over"
+    "why": "the academy he designed for and presided over",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "Architectuul",
     "title": "Werner Düttmann",
     "url": "https://architectuul.com/architect/werner-duttmann",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -74,25 +78,29 @@
     "site": "Wikipedia",
     "title": "William Pereira",
     "url": "https://en.wikipedia.org/wiki/William_Pereira",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Geisel Library",
     "url": "https://en.wikipedia.org/wiki/Geisel_Library",
-    "why": "one of his best-known buildings"
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Transamerica Pyramid",
     "url": "https://en.wikipedia.org/wiki/Transamerica_Pyramid",
-    "why": "his best-known tower"
+    "why": "his best-known tower",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "William Pereira",
     "url": "https://architectuul.com/architect/william-pereira",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -124,25 +132,29 @@
     "site": "Wikipedia",
     "title": "Yaakov Rechter",
     "url": "https://en.wikipedia.org/wiki/Yaakov_Rechter",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Heichal HaTarbut",
     "url": "https://en.wikipedia.org/wiki/Heichal_HaTarbut",
-    "why": "one of his best-known buildings"
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Atarim Square",
     "url": "https://en.wikipedia.org/wiki/Atarim_Square",
-    "why": "his brutalist square in Tel Aviv"
+    "why": "his brutalist square in Tel Aviv",
+    "checked": "2026-10-21"
    },
    {
     "site": "Rechter Architects",
     "title": "Official site",
     "url": "https://www.rechter-architects.com/",
-    "why": "the family practice he led with his son"
+    "why": "the family practice he led with his son",
+    "check_failed": "status 0, name not found on page"
    }
   ],
   "skip": false
@@ -178,19 +190,22 @@
     "site": "Wikipedia",
     "title": "Liu Jiakun",
     "url": "https://en.wikipedia.org/wiki/Liu_Jiakun",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Pritzker Prize",
     "title": "2025 laureate",
     "url": "https://www.pritzkerprize.com/laureates/liu-jiakun",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectural Record",
     "title": "Liu Jiakun wins 2025 Pritzker Architecture Prize",
     "url": "https://architecturalrecord.com/articles/17402-liu-jiakun-wins-2025-pritzker-architecture-prize",
-    "why": "a review of his main buildings"
+    "why": "a review of his main buildings",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -222,25 +237,29 @@
     "site": "Wikipedia",
     "title": "Su Rogers",
     "url": "https://en.wikipedia.org/wiki/Su_Rogers",
-    "why": "the life and work of Su Rogers"
+    "why": "the life and work of Su Rogers",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Richard Rogers",
     "url": "https://en.wikipedia.org/wiki/Richard_Rogers",
-    "why": "the life and work of Richard Rogers"
+    "why": "the life and work of Richard Rogers",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "22 Parkside",
     "url": "https://en.wikipedia.org/wiki/22_Parkside",
-    "why": "the house they built for his parents"
+    "why": "the house they built for his parents",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Zip-Up House",
     "url": "https://en.wikipedia.org/wiki/Zip-Up_House",
-    "why": "the concept house behind it"
+    "why": "the concept house behind it",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -267,25 +286,29 @@
     "site": "Wikipedia",
     "title": "Robert Venturi",
     "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Pritzker Prize",
     "title": "1991 laureate",
     "url": "https://www.pritzkerprize.com/laureates/1991",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Vanna Venturi House",
     "url": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Denise Scott Brown",
     "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
-    "why": "his wife and partner"
+    "why": "his wife and partner",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
