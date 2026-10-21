@@ -43,5 +43,10 @@
   "date": "2026-10-21",
   "workstream": "Data collection",
   "note": "Haiku pipeline, fourth pool (modern): 300 candidates judged by Haiku, every judgement checked by Sonnet (37 rescued), every gallery by Opus; 79 buildings added, 90 weak photos removed, 7 held for want of a sourced year. Page titles now keep firms like McKim, Mead & White whole."
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "note": "Haiku pipeline, fifth pool (1990 onwards): 300 candidates judged by Haiku, every judgement checked by Sonnet (22 rescued, 16 wrong keeps out), every gallery by Opus; 82 contemporary buildings added (Ando, Isozaki, Ito, Maki, Siza, Souto de Moura, Moneo, Nouvel, Koolhaas, Herzog & de Meuron, Patkau, Tchoban…), 119 weak photos removed, 7 held."
  }
 ]

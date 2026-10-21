@@ -160,3 +160,23 @@ Haiku was now too strict: it skipped buildings whose Wikipedia lead names no arc
 good skips. 7 buildings wait in `tools/cheap/held_no_year.json` for a sourced year. Opus took 90 weak photos out of
 47 galleries (people, interiors of other rooms, night shots, near-duplicates). Six credits that listed a firm and its
 partners were shortened to the firm (Heureka, 013, MAAT, Rosecliff, De Doelen, Pasadena City Hall).
+
+## Haiku pipeline, fifth pool (21 Oct 2026): 300 contemporary candidates (1990 or later)
+
+At most 4 per architect, at most 25 towers; no stadiums, stations, hotels, malls, offices or housing by type. 221 of
+the 300 came from the scored list without the harvest's facts; `cheap_prep.py` now fills those from Wikidata, and
+`cheap_leads.py` gave 81 buildings without an English article a lead from another language's Wikipedia (Japanese,
+German, Spanish, French…). Haiku judged all 300; Sonnet checked every judgement; Opus checked every gallery.
+82 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 1 of 83 (1%): Biblioteca Raúl Rangel Frías (only a fence and a sculpture); 4 better leads chosen | fine |
+| No free photo | 13 of 300 (4%) | fine |
+| Already on the wall | 11 of 300 (4%), found by Wikipedia article and by distance (a wall building within 200 m), plus Beetham Tower, turned down in round 7 | fine |
+| Facts failing the source check | Haiku's keeps: 12 of 84 needed a fact fixed and 16 were wrong keeps (33%), mostly towers kept without a design reason. All fixed by Sonnet before anything was added | **stop level for Haiku alone**, as in pools 3 and 4 |
+| Ordinary types | 13 of 82 (16%): 6 towers, 5 housing, 2 workplaces, each with a reason in its lead (a record, a prize, a named innovation) | fine, but the highest of the Haiku pools |
+
+Held: 5 without a sourced year and the Shizuoka City Museum of History, whose SANAA credit nothing in the lead
+supports (`tools/cheap/pool5_held.json`). 75 candidates had no Wikipedia lead in any language and were skipped.
+The pool filter now needs the distance check too: 11 duplicates had a different Wikidata item from the wall's entry.

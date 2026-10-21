@@ -62,6 +62,7 @@
   "goal": "Haiku batch 5: 300 contemporary candidates (1990 or later), at most 4 per architect; Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
   "target": 80,
   "metric": "buildings_added",
-  "status": "in progress"
+  "status": "done",
+  "note": "82 added"
  }
 ]
