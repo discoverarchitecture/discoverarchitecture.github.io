@@ -30,25 +30,29 @@
     "site": "Wikipedia",
     "title": "Kris Yao",
     "url": "https://en.wikipedia.org/wiki/Kris_Yao",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "KRIS YAO | ARTECH",
     "title": "Official site",
     "url": "https://www.kyarchitects.com/",
-    "why": "the office's own projects"
+    "why": "the office's own projects",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Lanyang Museum",
     "url": "https://en.wikipedia.org/wiki/Lanyang_Museum",
-    "why": "one of his best-known buildings"
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
     "title": "Kris Yao tag page",
     "url": "https://www.archdaily.com/tag/kris-yao",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -76,7 +80,8 @@
    {
     "claim": "Centro de Arte Moderna Gulbenkian: architect Leslie Martin",
     "source": "https://www.wikidata.org/wiki/Q1054339",
-    "architect_qid": "Q1820811"
+    "architect_qid": "Q1820811",
+    "checked": "2026-10-21"
    },
    {
     "claim": "Calouste Gulbenkian Foundation: in 1983 the Modern Art Centre was added at one end of Gulbenkian Park",
@@ -88,19 +93,22 @@
     "site": "Wikipedia",
     "title": "Leslie Martin",
     "url": "https://en.wikipedia.org/wiki/Leslie_Martin",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Royal Festival Hall",
     "url": "https://en.wikipedia.org/wiki/Royal_Festival_Hall",
-    "why": "the building he led the design of"
+    "why": "the building he led the design of",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Leslie Martin",
     "url": "https://architectuul.com/architect/leslie-martin",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -135,25 +143,29 @@
     "site": "Wikipedia",
     "title": "Lev Rudnev",
     "url": "https://en.wikipedia.org/wiki/Lev_Rudnev",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Russian)",
     "title": "Руднев, Лев Владимирович",
     "url": "https://ru.wikipedia.org/wiki/Руднев,_Лев_Владимирович",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Main building of Moscow State University",
     "url": "https://en.wikipedia.org/wiki/Main_building_of_Moscow_State_University",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Lev Rudnev",
     "url": "https://architectuul.com/architect/lev-rudnev",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -182,7 +194,8 @@
    {
     "claim": "Casa Fuster: architect Lluís Domènech i Montaner",
     "source": "https://www.wikidata.org/wiki/Q2518066",
-    "architect_qid": "Q317876"
+    "architect_qid": "Q317876",
+    "checked": "2026-10-21"
    },
    {
     "claim": "Casa Fuster: designed by Lluís Domènech i Montaner and built 1908–1911 for Mariano Fuster i Fuster and Consòl Fabra i Puig; his last town house; at the top of the Passeig de Gràcia; a luxury hotel since 2004",
@@ -194,25 +207,29 @@
     "site": "Wikipedia",
     "title": "Lluís Domènech i Montaner",
     "url": "https://en.wikipedia.org/wiki/Lluís_Domènech_i_Montaner",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Catalan)",
     "title": "Lluís Domènech i Montaner",
     "url": "https://ca.wikipedia.org/wiki/Lluís_Domènech_i_Montaner",
-    "why": "a fuller account of his life and works"
+    "why": "a fuller account of his life and works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Palau de la Música Catalana",
     "url": "https://en.wikipedia.org/wiki/Palau_de_la_Música_Catalana",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Lluís Domènech i Montaner",
     "url": "https://architectuul.com/architect/lluis-domenech-i-montaner",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -244,25 +261,29 @@
     "site": "Wikipedia",
     "title": "Lundgaard & Tranberg",
     "url": "https://en.wikipedia.org/wiki/Lundgaard_&_Tranberg",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Lundgaard & Tranberg",
     "title": "Official site",
     "url": "https://www.ltarkitekter.dk/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Tietgenkollegiet",
     "url": "https://en.wikipedia.org/wiki/Tietgenkollegiet",
-    "why": "their best-known building"
+    "why": "their best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
     "title": "Lundgaard & Tranberg office page",
     "url": "https://www.archdaily.com/office/lundgaard-and-tranberg-architects",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -294,25 +315,29 @@
     "site": "Wikipedia",
     "title": "Marcello Piacentini",
     "url": "https://en.wikipedia.org/wiki/Marcello_Piacentini",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Italian)",
     "title": "Marcello Piacentini",
     "url": "https://it.wikipedia.org/wiki/Marcello_Piacentini",
-    "why": "a fuller account of his life and works"
+    "why": "a fuller account of his life and works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Matarazzo Building",
     "url": "https://en.wikipedia.org/wiki/Matarazzo_Building",
-    "why": "his building in São Paulo"
+    "why": "his building in São Paulo",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Marcello Piacentini",
     "url": "https://architectuul.com/architect/marcello-piacentini",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -344,25 +369,29 @@
     "site": "Wikipedia",
     "title": "Mario Roberto Álvarez",
     "url": "https://en.wikipedia.org/wiki/Mario_Roberto_Álvarez",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "MRA+A",
     "title": "Official site",
     "url": "https://www.mraa.com.ar/",
-    "why": "the office he founded"
+    "why": "the office he founded",
+    "check_failed": "status 0, name not found on page"
    },
    {
     "site": "Wikipedia (Spanish)",
     "title": "Mario Roberto Álvarez",
     "url": "https://es.wikipedia.org/wiki/Mario_Roberto_Álvarez",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Mario Roberto Álvarez",
     "url": "https://architectuul.com/architect/mario-roberto-alvarez",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -401,19 +430,22 @@
     "site": "Wikipedia (Japanese)",
     "title": "大高正人",
     "url": "https://ja.wikipedia.org/wiki/大高正人",
-    "why": "his life and a full list of works"
+    "why": "his life and a full list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Centre Pompidou",
     "title": "Housing complex, Sakaide",
     "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cpg4pqx",
-    "why": "his model of the Sakaide artificial ground in the museum's collection"
+    "why": "his model of the Sakaide artificial ground in the museum's collection",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Metabolism (architecture)",
     "url": "https://en.wikipedia.org/wiki/Metabolism_(architecture)",
-    "why": "the movement he helped found"
+    "why": "the movement he helped found",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -445,25 +477,29 @@
     "site": "Wikipedia",
     "title": "Maxwell Fry",
     "url": "https://en.wikipedia.org/wiki/Maxwell_Fry",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Kensal House",
     "url": "https://en.wikipedia.org/wiki/Kensal_House",
-    "why": "his best-known housing"
+    "why": "his best-known housing",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Jane Drew",
     "url": "https://en.wikipedia.org/wiki/Jane_Drew",
-    "why": "his wife and partner"
+    "why": "his wife and partner",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Maxwell Fry",
     "url": "https://architectuul.com/architect/maxwell-fry",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -498,25 +534,29 @@
     "site": "Wikipedia",
     "title": "Mecanoo",
     "url": "https://en.wikipedia.org/wiki/Mecanoo",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Mecanoo",
     "title": "Official site",
     "url": "https://www.mecanoo.nl/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Francine Houben",
     "url": "https://en.wikipedia.org/wiki/Francine_Houben",
-    "why": "the founder who leads it"
+    "why": "the founder who leads it",
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
     "title": "Mecanoo office page",
     "url": "https://www.archdaily.com/office/mecanoo",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -551,25 +591,29 @@
     "site": "Wikipedia",
     "title": "Mohsen Foroughi",
     "url": "https://en.wikipedia.org/wiki/Mohsen_Foroughi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Tomb of Saadi",
     "url": "https://en.wikipedia.org/wiki/Tomb_of_Saadi",
-    "why": "one of his monuments"
+    "why": "one of his monuments",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Niavaran Palace Complex",
     "url": "https://en.wikipedia.org/wiki/Niavaran_Palace_Complex",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "check_failed": "status 200, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Heydar Ghiai",
     "url": "https://en.wikipedia.org/wiki/Heydar_Ghiai",
-    "why": "his partner on the Senate House and in Paris"
+    "why": "his partner on the Senate House and in Paris",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -597,25 +641,29 @@
     "site": "Wikipedia",
     "title": "Moisei Ginzburg",
     "url": "https://en.wikipedia.org/wiki/Moisei_Ginzburg",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Narkomfin building",
     "url": "https://en.wikipedia.org/wiki/Narkomfin_building",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Russian)",
     "title": "Гинзбург, Моисей Яковлевич",
     "url": "https://ru.wikipedia.org/wiki/Гинзбург,_Моисей_Яковлевич",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Moisei Ginzburg",
     "url": "https://architectuul.com/architect/moisei-ginzburg",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -647,19 +695,22 @@
     "site": "Wikipedia",
     "title": "Ove Arup",
     "url": "https://en.wikipedia.org/wiki/Ove_Arup",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Arup",
     "title": "Ove Arup, our founder",
     "url": "https://www.arup.com/about-us/our-founder/",
-    "why": "the firm's own account of his life and ideas"
+    "why": "the firm's own account of his life and ideas",
+    "check_failed": "status 404, name not found on page"
    },
    {
     "site": "Wikipedia",
     "title": "Kingsgate Bridge",
     "url": "https://en.wikipedia.org/wiki/Kingsgate_Bridge",
-    "why": "the last structure he designed"
+    "why": "the last structure he designed",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -694,25 +745,29 @@
     "site": "Wikipedia",
     "title": "Paul Andreu",
     "url": "https://en.wikipedia.org/wiki/Paul_Andreu",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (French)",
     "title": "Paul Andreu",
     "url": "https://fr.wikipedia.org/wiki/Paul_Andreu",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "National Centre for the Performing Arts (China)",
     "url": "https://en.wikipedia.org/wiki/National_Centre_for_the_Performing_Arts_(China)",
-    "why": "his best-known building in China"
+    "why": "his best-known building in China",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Paul Andreu",
     "url": "https://architectuul.com/architect/paul-andreu",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -747,25 +802,29 @@
     "site": "Wikipedia",
     "title": "Pedro Ramírez Vázquez",
     "url": "https://en.wikipedia.org/wiki/Pedro_Ramírez_Vázquez",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Spanish)",
     "title": "Pedro Ramírez Vázquez",
     "url": "https://es.wikipedia.org/wiki/Pedro_Ramírez_Vázquez",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "National Museum of Anthropology (Mexico)",
     "url": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Mexico)",
-    "why": "his best-known museum"
+    "why": "his best-known museum",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Pedro Ramírez Vázquez",
     "url": "https://architectuul.com/architect/pedro-ramirez-vazquez",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -794,7 +853,8 @@
    {
     "claim": "Hagen Crematorium: architect Peter Behrens",
     "source": "https://www.wikidata.org/wiki/Q1287806",
-    "architect_qid": "Q76726"
+    "architect_qid": "Q76726",
+    "checked": "2026-10-21"
    }
   ],
   "overview_links": [
@@ -802,25 +862,29 @@
     "site": "Wikipedia",
     "title": "Peter Behrens",
     "url": "https://en.wikipedia.org/wiki/Peter_Behrens",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (German)",
     "title": "Peter Behrens",
     "url": "https://de.wikipedia.org/wiki/Peter_Behrens",
-    "why": "a fuller list of works"
+    "why": "a fuller list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "AEG turbine factory",
     "url": "https://en.wikipedia.org/wiki/AEG_turbine_factory",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Peter Behrens",
     "url": "https://architectuul.com/architect/peter-behrens",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -855,25 +919,29 @@
     "site": "Wikipedia",
     "title": "Raj Rewal",
     "url": "https://en.wikipedia.org/wiki/Raj_Rewal",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Raj Rewal Associates",
     "title": "Official site",
     "url": "https://www.rajrewal.in/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Hall of Nations",
     "url": "https://en.wikipedia.org/wiki/Hall_of_Nations",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Raj Rewal",
     "url": "https://architectuul.com/architect/raj-rewal",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -912,25 +980,29 @@
     "site": "Wikipedia",
     "title": "Ralph Erskine",
     "url": "https://en.wikipedia.org/wiki/Ralph_Erskine_(architect)",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Swedish)",
     "title": "Ralph Erskine",
     "url": "https://sv.wikipedia.org/wiki/Ralph_Erskine",
-    "why": "a fuller list of works in Sweden"
+    "why": "a fuller list of works in Sweden",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Byker Wall",
     "url": "https://en.wikipedia.org/wiki/Byker_Wall",
-    "why": "his best-known housing"
+    "why": "his best-known housing",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Ralph Erskine",
     "url": "https://architectuul.com/architect/ralph-erskine",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -957,25 +1029,29 @@
     "site": "Wikipedia",
     "title": "Ram Karmi",
     "url": "https://en.wikipedia.org/wiki/Ram_Karmi",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Hebrew)",
     "title": "רם כרמי",
     "url": "https://he.wikipedia.org/wiki/רם_כרמי",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Supreme Court of Israel Building",
     "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Israel_Building",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Ada Karmi-Melamede",
     "url": "https://en.wikipedia.org/wiki/Ada_Karmi-Melamede",
-    "why": "his sister and partner on the Supreme Court"
+    "why": "his sister and partner on the Supreme Court",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1015,19 +1091,22 @@
     "site": "Wikipedia",
     "title": "Robert Matthew",
     "url": "https://en.wikipedia.org/wiki/Robert_Matthew",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "RMJM",
     "url": "https://en.wikipedia.org/wiki/RMJM",
-    "why": "the practice he founded"
+    "why": "the practice he founded",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Royal Commonwealth Pool",
     "url": "https://en.wikipedia.org/wiki/Royal_Commonwealth_Pool",
-    "why": "one of his practice's best-known buildings"
+    "why": "one of his practice's best-known buildings",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1055,19 +1134,22 @@
     "site": "Wikipedia",
     "title": "Román Fresnedo Siri",
     "url": "https://en.wikipedia.org/wiki/Román_Fresnedo_Siri",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Spanish)",
     "title": "Román Fresnedo Siri",
     "url": "https://es.wikipedia.org/wiki/Román_Fresnedo_Siri",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Hipodromo do Cristal",
     "url": "https://en.wikipedia.org/wiki/Hipodromo_do_Cristal",
-    "why": "his racecourse in Porto Alegre"
+    "why": "his racecourse in Porto Alegre",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1100,25 +1182,29 @@
     "site": "Wikipedia",
     "title": "Sedad Hakkı Eldem",
     "url": "https://en.wikipedia.org/wiki/Sedad_Hakkı_Eldem",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Turkish)",
     "title": "Sedad Hakkı Eldem",
     "url": "https://tr.wikipedia.org/wiki/Sedad_Hakkı_Eldem",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Hilton Istanbul Bosphorus",
     "url": "https://en.wikipedia.org/wiki/Hilton_Istanbul_Bosphorus",
-    "why": "one of his best-known buildings"
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Sedad Hakkı Eldem",
     "url": "https://architectuul.com/architect/sedad-hakki-eldem",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1145,19 +1231,22 @@
     "site": "Wikipedia",
     "title": "Shin Takamatsu",
     "url": "https://en.wikipedia.org/wiki/Shin_Takamatsu",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Japanese)",
     "title": "高松伸",
     "url": "https://ja.wikipedia.org/wiki/高松伸",
-    "why": "a fuller account of his career and awards"
+    "why": "a fuller account of his career and awards",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Shin Takamatsu",
     "url": "https://architectuul.com/architect/shin-takamatsu",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1192,25 +1281,29 @@
     "site": "Wikipedia",
     "title": "Teodoro González de León",
     "url": "https://en.wikipedia.org/wiki/Teodoro_González_de_León",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Spanish)",
     "title": "Teodoro González de León",
     "url": "https://es.wikipedia.org/wiki/Teodoro_González_de_León",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Museo Rufino Tamayo, Mexico City",
     "url": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,_Mexico_City",
-    "why": "one of his best-known buildings"
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Teodoro González de León",
     "url": "https://architectuul.com/architect/teodoro-gonzalez-de-leon",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1238,25 +1331,29 @@
     "site": "Wikipedia",
     "title": "Takaharu Tezuka",
     "url": "https://en.wikipedia.org/wiki/Takaharu_Tezuka",
-    "why": "the co-founder's life and list of works"
+    "why": "the co-founder's life and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Tezuka Architects",
     "title": "Official site",
     "url": "https://www.tezuka-arch.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-21"
    },
    {
     "site": "Kyororo",
     "title": "Echigo-Matsunoyama Museum of Natural Science",
     "url": "https://www.matsunoyama.com/kyororo/english",
-    "why": "the museum's own page on its building"
+    "why": "the museum's own page on its building",
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
     "title": "Tezuka Architects office page",
     "url": "https://www.archdaily.com/office/tezuka-architects",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1284,7 +1381,8 @@
    {
     "claim": "Agora Theatre, Lelystad: architect UNStudio",
     "source": "https://www.wikidata.org/wiki/Q5364010",
-    "architect_qid": "Q2062078"
+    "architect_qid": "Q2062078",
+    "checked": "2026-10-21"
    }
   ],
   "overview_links": [
@@ -1292,25 +1390,29 @@
     "site": "Wikipedia",
     "title": "UNStudio",
     "url": "https://en.wikipedia.org/wiki/UNStudio",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "UNStudio",
     "title": "Official site",
     "url": "https://www.unstudio.com/",
-    "why": "the practice's own projects"
+    "why": "the practice's own projects",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Ben van Berkel",
     "url": "https://en.wikipedia.org/wiki/Ben_van_Berkel",
-    "why": "the co-founder"
+    "why": "the co-founder",
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
     "title": "UNStudio office page",
     "url": "https://www.archdaily.com/office/unstudio",
-    "why": "projects with plans and photos"
+    "why": "projects with plans and photos",
+    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
@@ -1350,25 +1452,29 @@
     "site": "Wikipedia",
     "title": "Jaap Bakema",
     "url": "https://en.wikipedia.org/wiki/Jaap_Bakema",
-    "why": "the partner who led much of its design"
+    "why": "the partner who led much of its design",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Jo van den Broek",
     "url": "https://en.wikipedia.org/wiki/Jo_van_den_Broek",
-    "why": "the other partner"
+    "why": "the other partner",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Dutch)",
     "title": "Van den Broek en Bakema",
     "url": "https://nl.wikipedia.org/wiki/Van_den_Broek_en_Bakema",
-    "why": "the firm's history and works"
+    "why": "the firm's history and works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Broekbakema",
     "title": "Official site",
     "url": "https://www.broekbakema.nl/",
-    "why": "the office that continues the firm"
+    "why": "the office that continues the firm",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1396,25 +1502,29 @@
     "site": "Wikipedia",
     "title": "Vann Molyvann",
     "url": "https://en.wikipedia.org/wiki/Vann_Molyvann",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Vann Molyvann Project",
     "title": "Vann Molyvann Project",
     "url": "https://www.vannmolyvannproject.org/",
-    "why": "a research project documenting his buildings"
+    "why": "a research project documenting his buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Independence Monument (Cambodia)",
     "url": "https://en.wikipedia.org/wiki/Independence_Monument_(Cambodia)",
-    "why": "his best-known monument"
+    "why": "his best-known monument",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Vann Molyvann",
     "url": "https://architectuul.com/architect/vann-molyvann",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1449,25 +1559,29 @@
     "site": "Wikipedia",
     "title": "Walter Netsch",
     "url": "https://en.wikipedia.org/wiki/Walter_Netsch",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "United States Air Force Academy Cadet Chapel",
     "url": "https://en.wikipedia.org/wiki/United_States_Air_Force_Academy_Cadet_Chapel",
-    "why": "his best-known building"
+    "why": "his best-known building",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Regenstein Library",
     "url": "https://en.wikipedia.org/wiki/Regenstein_Library",
-    "why": "one of his 15 libraries"
+    "why": "one of his 15 libraries",
+    "checked": "2026-10-21"
    },
    {
     "site": "Architectuul",
     "title": "Walter Netsch",
     "url": "https://architectuul.com/architect/walter-netsch",
-    "why": "a list of buildings with photos"
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1494,25 +1608,29 @@
     "site": "Wikipedia",
     "title": "Wang Shu",
     "url": "https://en.wikipedia.org/wiki/Wang_Shu",
-    "why": "life, ideas and list of works"
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Pritzker Prize",
     "title": "2012 laureate",
     "url": "https://www.pritzkerprize.com/laureates/2012",
-    "why": "jury citation, biography and photos of works"
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Ningbo Museum",
     "url": "https://en.wikipedia.org/wiki/Ningbo_Museum",
-    "why": "his best-known museum"
+    "why": "his best-known museum",
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
     "title": "Wang Shu tag page",
     "url": "https://www.archdaily.com/tag/wang-shu",
-    "why": "projects and articles with photos"
+    "why": "projects and articles with photos",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
