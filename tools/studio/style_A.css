@@ -58,7 +58,7 @@ h2 { margin: 0 0 14px; font: 800 clamp(40px, 5.2vw, 76px)/.92 var(--display); le
 .f input[type=email], .f input[type=text] { border: 2px solid var(--ink); border-radius: 14px; background: #fff; }
 .f input:focus { outline: 3px solid var(--grape); outline-offset: 1px; }
 .seg span { border: 2px solid var(--ink); border-radius: 12px; background: #fff; } .seg input:checked + span { background: var(--ink); color: #fff; } .seg input:focus-visible + span { outline: 3px solid var(--grape); }
-.consent { color: var(--mute); } .thanks { color: var(--grape); }
+.consent { color: var(--mute); } .thanks { color: var(--grape); } .wl.sent .cta, .wl.sent .cta:hover { background: var(--lime); color: var(--ink); transform: none; box-shadow: 3px 3px 0 var(--ink); }
 .fq { border-bottom: 2px solid var(--ink); } .fq summary { font-family: var(--display); }
 .foot { color: var(--mute); }
 @media (max-width: 860px) {

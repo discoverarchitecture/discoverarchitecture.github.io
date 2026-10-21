@@ -75,7 +75,7 @@ FAQ = [('Which formats can I make?', 'An A1, A0 or 24 × 36 in board, or a slide
        ('Do my drawings stay private?', 'Yes. Your files are made into the board in your own browser, not on our servers.')]
 faq = ''.join(f'<details class="fq"><summary>{q}<i></i></summary><p>{a}</p></details>' for q, a in FAQ)
 ROLE = '<option value="" disabled selected>I am a…</option><option value="student">Student</option><option value="teacher">Teacher</option><option value="architect">Practising architect</option>'
-WHEN = '<div class="seg">' + ''.join(f'<label><input type="radio" name="when" value="{v}"><span>{t}</span></label>' for v, t in [('this-month', 'This month'), ('1-3-months', '1–3 months'), ('later', 'Later')]) + '</div>'
+WHEN = '<div class="seg">' + ''.join(f'<label><input type="radio" name="when" value="{v}"><span>{t}</span></label>' for v, t in [('this-month', 'This month'), ('1-3-months', '1–3 months'), ('later', 'Later'), ('other', 'Other')]) + '</div>'
 QUICK = f'''<form class="qf" id="qf" action="#" method="post">
   <div class="qf-row"><input type="email" name="email" required placeholder="Your email" autocomplete="email" aria-label="Your email"><select name="role" required aria-label="I am a">{ROLE}</select><button class="cta" type="submit">Get early access</button></div>
   <input type="hidden" name="ref" value=""><input type="hidden" name="b" value="">
@@ -85,15 +85,15 @@ QUICK = f'''<form class="qf" id="qf" action="#" method="post">
     <fieldset class="f"><legend>When is your next jury?</legend>{WHEN}</fieldset><button class="cta" type="button" onclick="this.closest('.qf').classList.add('done')">Send</button></div>
   <p class="qf-thanks">Thanks. See you before your jury.</p>
 </form>'''
-FORM = f'''<form class="wl" id="join" action="#" method="post" onsubmit="event.preventDefault(); this.classList.add('sent')">
+FORM = f'''<form class="wl" id="join" action="#" method="post" onsubmit="event.preventDefault(); this.classList.add('sent'); this.querySelector('[type=submit]').disabled = true">
   <label class="f"><span>Email</span><input type="email" name="email" required placeholder="you@school.edu" autocomplete="email"></label>
   <fieldset class="f"><legend>I am a</legend><div class="seg"><label><input type="radio" name="role" value="student" required><span>Student</span></label><label><input type="radio" name="role" value="teacher"><span>Teacher</span></label><label><input type="radio" name="role" value="architect"><span>Practising architect</span></label></div></fieldset>
   <label class="f"><span>What are you presenting next? <em>optional</em></span><input type="text" name="next" placeholder="e.g. a library by a river, final review"></label>
   <fieldset class="f"><legend>When is your next jury? <em>optional</em></legend>{WHEN}</fieldset>
   <input type="hidden" name="ref" value=""><input type="hidden" name="b" value="">
-  <button class="cta big" type="submit">Join the waitlist</button>
+  <button class="cta big" type="submit"><span class="j-go">Join the waitlist</span><span class="j-done">✓ You’re on the list</span></button>
   <p class="consent">We’ll email you when FGA Studio opens, and about your early-access discount. Nothing else. <a href="/privacy/">Privacy</a></p>
-  <p class="thanks">You’re on the list. See you before your jury.</p>
+  <p class="thanks">See you before your jury.</p>
 </form>'''
 SKIP = '''<section class="sec skip"><p class="kick">Who it’s for</p><h2>Your hours belong<br>to the design.</h2>
   <p class="sub">For students who would rather be designing than fighting software. You design the building; FGA Studio makes the presentation.</p>

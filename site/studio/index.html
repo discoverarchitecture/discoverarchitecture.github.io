@@ -69,7 +69,7 @@ h2 { margin: 0 0 14px; font: 800 clamp(40px, 5.2vw, 76px)/.92 var(--display); le
 .f input[type=email], .f input[type=text] { border: 2px solid var(--ink); border-radius: 14px; background: #fff; }
 .f input:focus { outline: 3px solid var(--grape); outline-offset: 1px; }
 .seg span { border: 2px solid var(--ink); border-radius: 12px; background: #fff; } .seg input:checked + span { background: var(--ink); color: #fff; } .seg input:focus-visible + span { outline: 3px solid var(--grape); }
-.consent { color: var(--mute); } .thanks { color: var(--grape); }
+.consent { color: var(--mute); } .thanks { color: var(--grape); } .wl.sent .cta, .wl.sent .cta:hover { background: var(--lime); color: var(--ink); transform: none; box-shadow: 3px 3px 0 var(--ink); }
 .fq { border-bottom: 2px solid var(--ink); } .fq summary { font-family: var(--display); }
 .foot { color: var(--mute); }
 @media (max-width: 860px) {
@@ -202,6 +202,7 @@ main { width: min(1200px, 100% - 32px); margin: 0 auto; }
 .seg { display: flex; flex-wrap: wrap; gap: 6px; } .seg label { position: relative; } .seg input { position: absolute; opacity: 0; inset: 0; }
 .seg span { display: inline-flex; align-items: center; height: 42px; padding: 0 14px; font-weight: 600; font-size: 15px; cursor: pointer; }
 .consent { margin: 0; font-size: 13px; line-height: 1.5; } .thanks { display: none; margin: 0; font-weight: 700; } .wl.sent .thanks { display: block; }
+.wl .j-done, .wl.sent .j-go { display: none; } .wl.sent .j-done { display: inline; } .wl.sent .cta { cursor: default; }
 /* ---------- faq ---------- */
 .faq { margin-top: 24px; display: flex; flex-direction: column; } .fq summary { list-style: none; cursor: pointer; display: flex; justify-content: space-between; gap: 16px; padding: 20px 0; font-size: 19px; font-weight: 700; }
 .fq summary::-webkit-details-marker { display: none; } .fq summary i { position: relative; width: 16px; height: 16px; flex: none; margin-top: 4px; }
@@ -342,7 +343,7 @@ main { width: min(1200px, 100% - 32px); margin: 0 auto; }
   <p class="qf-fine">Launching early 2027 · early access and a launch discount · we’ll only email you about FGA Studio · <a href="/privacy/">Privacy</a></p>
   <div class="qf-more"><b>You’re on the list ✓</b><span>Two optional questions, so we build for your next jury:</span>
     <label class="f"><span>What are you presenting next?</span><input type="text" name="next" placeholder="e.g. a library by a river, final review"></label>
-    <fieldset class="f"><legend>When is your next jury?</legend><div class="seg"><label><input type="radio" name="when" value="this-month"><span>This month</span></label><label><input type="radio" name="when" value="1-3-months"><span>1–3 months</span></label><label><input type="radio" name="when" value="later"><span>Later</span></label></div></fieldset><button class="cta" type="button" onclick="this.closest('.qf').classList.add('done')">Send</button></div>
+    <fieldset class="f"><legend>When is your next jury?</legend><div class="seg"><label><input type="radio" name="when" value="this-month"><span>This month</span></label><label><input type="radio" name="when" value="1-3-months"><span>1–3 months</span></label><label><input type="radio" name="when" value="later"><span>Later</span></label><label><input type="radio" name="when" value="other"><span>Other</span></label></div></fieldset><button class="cta" type="button" onclick="this.closest('.qf').classList.add('done')">Send</button></div>
   <p class="qf-thanks">Thanks. See you before your jury.</p>
 </form>
   </div>
@@ -694,15 +695,15 @@ main { width: min(1200px, 100% - 32px); margin: 0 auto; }
 <section class="sec price" id="price"><div><p class="kick">Price</p><h2>Pay per board.<br>No subscription.</h2><p class="sub">Credits, priced by country. A quick board is cheap; more diagrams and image touch-ups use more credits.</p></div>
   <div class="pcards"><div class="pc"><b>Free</b><span>Watermarked preview of your whole board</span></div><div class="pc hot"><b>Credits</b><span>Pay only when you export: packs of roughly US$5–25, or ₹199–999 in India</span></div><div class="pc"><b>Your files</b><span>Editable PPTX and print-ready PDF, yours to keep</span></div></div></section>
 <section class="sec honest"><p class="kick">Coursework</p><h2>It lays out and draws your ideas.<br><span class="mute">The thinking stays yours.</span></h2></section>
-<section class="sec join" id="waitlist"><div><p class="kick">Waitlist</p><h2>Launching early 2027.</h2><p class="sub">Join for early access and a launch discount.</p></div><form class="wl" id="join" action="#" method="post" onsubmit="event.preventDefault(); this.classList.add('sent')">
+<section class="sec join" id="waitlist"><div><p class="kick">Waitlist</p><h2>Launching early 2027.</h2><p class="sub">Join for early access and a launch discount.</p></div><form class="wl" id="join" action="#" method="post" onsubmit="event.preventDefault(); this.classList.add('sent'); this.querySelector('[type=submit]').disabled = true">
   <label class="f"><span>Email</span><input type="email" name="email" required placeholder="you@school.edu" autocomplete="email"></label>
   <fieldset class="f"><legend>I am a</legend><div class="seg"><label><input type="radio" name="role" value="student" required><span>Student</span></label><label><input type="radio" name="role" value="teacher"><span>Teacher</span></label><label><input type="radio" name="role" value="architect"><span>Practising architect</span></label></div></fieldset>
   <label class="f"><span>What are you presenting next? <em>optional</em></span><input type="text" name="next" placeholder="e.g. a library by a river, final review"></label>
-  <fieldset class="f"><legend>When is your next jury? <em>optional</em></legend><div class="seg"><label><input type="radio" name="when" value="this-month"><span>This month</span></label><label><input type="radio" name="when" value="1-3-months"><span>1–3 months</span></label><label><input type="radio" name="when" value="later"><span>Later</span></label></div></fieldset>
+  <fieldset class="f"><legend>When is your next jury? <em>optional</em></legend><div class="seg"><label><input type="radio" name="when" value="this-month"><span>This month</span></label><label><input type="radio" name="when" value="1-3-months"><span>1–3 months</span></label><label><input type="radio" name="when" value="later"><span>Later</span></label><label><input type="radio" name="when" value="other"><span>Other</span></label></div></fieldset>
   <input type="hidden" name="ref" value=""><input type="hidden" name="b" value="">
-  <button class="cta big" type="submit">Join the waitlist</button>
+  <button class="cta big" type="submit"><span class="j-go">Join the waitlist</span><span class="j-done">✓ You’re on the list</span></button>
   <p class="consent">We’ll email you when FGA Studio opens, and about your early-access discount. Nothing else. <a href="/privacy/">Privacy</a></p>
-  <p class="thanks">You’re on the list. See you before your jury.</p>
+  <p class="thanks">See you before your jury.</p>
 </form></section>
 <section class="sec" id="faq"><p class="kick">FAQ</p><h2>Questions</h2><div class="faq"><details class="fq"><summary>Which formats can I make?<i></i></summary><p>An A1, A0 or 24 × 36 in board, or a slide deck. Square posts and a web deck come later. You can switch before you export.</p></details><details class="fq"><summary>How much does it cost?<i></i></summary><p>You pay per use with credits; there is no subscription. A quick board takes a few credits; more diagrams and image touch-ups take more. Credit packs are priced by country. You see a free, watermarked preview before you pay anything.</p></details><details class="fq"><summary>Does it work with PowerPoint and Canva?<i></i></summary><p>Yes. You get an editable PowerPoint file: a whole A1 board sits on one slide, and it opens in PowerPoint, Keynote, Google Slides and Canva. You also get a print-ready PDF.</p></details><details class="fq"><summary>Is it allowed for my coursework?<i></i></summary><p>It lays out your drawings and draws the ideas you point to; the design and the thinking are yours. Words are written only from your own brief. Check your school’s rules on AI tools, and say you used it if they ask.</p></details><details class="fq"><summary>Do my drawings stay private?<i></i></summary><p>Yes. Your files are made into the board in your own browser, not on our servers.</p></details></div></section>
 </main>
@@ -816,7 +817,7 @@ if (qs.has('sent')) qf.classList.add('sent');
   }
   var qf = document.getElementById('qf'), wl = document.getElementById('join');
   qf.addEventListener('submit', function () { send(qf, 'signup'); });
-  qf.querySelector('.qf-more .cta').addEventListener('click', function () { send(qf, 'details'); });
+  qf.querySelector('.qf-more .cta').addEventListener('click', function () { send(qf, 'details'); if (window.fgaEvent) fgaEvent('studio/details', 'FGA Studio waitlist: optional answers'); });
   wl.addEventListener('submit', function () { send(wl, 'signup'); });
 })();
 </script>
