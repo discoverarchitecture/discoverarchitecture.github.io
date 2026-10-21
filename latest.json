@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-21T17:05:40+00:00",
+ "fetched_at": "2026-10-21T21:35:13+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 687,
+ "visits_30d": 735,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 196,
+     "count": 203,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 28
     },
     {
-     "count": 31,
+     "count": 34,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -23,12 +23,20 @@
      "max": 9
     },
     {
-     "count": 29,
+     "count": 31,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
      "title": "Map opened",
      "max": 12
+    },
+    {
+     "count": 6,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
+     "max": 2
     },
     {
      "count": 6,
@@ -39,27 +47,27 @@
      "max": 6
     },
     {
+     "count": 5,
+     "path_id": 113691164,
+     "path": "/studio",
+     "event": false,
+     "title": "FGA Studio: AI jury board & presentation generator",
+     "max": 1
+    },
+    {
+     "count": 5,
+     "path_id": 113672778,
+     "path": "play/daily/2-of-5",
+     "event": true,
+     "title": "Daily five finished: 2 of 5 right",
+     "max": 2
+    },
+    {
      "count": 4,
      "path_id": 113703716,
      "path": "/buildings/sagrada-familia",
      "event": false,
      "title": "Sagrada Familia by Antoni Gaudi: photos & plans",
-     "max": 2
-    },
-    {
-     "count": 4,
-     "path_id": 113702981,
-     "path": "studio/ai-button",
-     "event": true,
-     "title": "AI jury presentation generator",
-     "max": 2
-    },
-    {
-     "count": 4,
-     "path_id": 113672778,
-     "path": "play/daily/2-of-5",
-     "event": true,
-     "title": "Daily five finished: 2 of 5 right",
      "max": 2
     },
     {
@@ -76,6 +84,14 @@
      "path": "/buildings",
      "event": false,
      "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113367278,
+     "path": "/buildings/petrobras-headquarters-edise",
+     "event": false,
+     "title": "Petrobras Headquarters (Edise) by Roberto Lu\u00eds Gandolfi",
      "max": 1
     },
     {
@@ -127,6 +143,22 @@
      "max": 1
     },
     {
+     "count": 3,
+     "path_id": 112168513,
+     "path": "/buildings/villa-schreiner",
+     "event": false,
+     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113885699,
+     "path": "building/mit-chapel",
+     "event": true,
+     "title": "MIT Chapel",
+     "max": 1
+    },
+    {
      "count": 2,
      "path_id": 113839314,
      "path": "building/menara-tabung-haji",
@@ -152,6 +184,14 @@
     },
     {
      "count": 2,
+     "path_id": 113752482,
+     "path": "book/precedents-in-architecture",
+     "event": true,
+     "title": "Precedents in Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113702040,
      "path": "book/body-memory-and-architecture",
      "event": true,
@@ -164,14 +204,6 @@
      "path": "book/experiencing-architecture",
      "event": true,
      "title": "Experiencing Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113691164,
-     "path": "/studio",
-     "event": false,
-     "title": "FGA Studio: AI jury board & presentation generator",
      "max": 1
     },
     {
@@ -224,10 +256,10 @@
     },
     {
      "count": 2,
-     "path_id": 113367278,
-     "path": "/buildings/petrobras-headquarters-edise",
-     "event": false,
-     "title": "Petrobras Headquarters (Edise) by Roberto Lu\u00eds Gandolfi",
+     "path_id": 113334851,
+     "path": "building/adgb-trade-union-school",
+     "event": true,
+     "title": "ADGB Trade Union School",
      "max": 1
     },
     {
@@ -424,14 +456,6 @@
     },
     {
      "count": 2,
-     "path_id": 112168513,
-     "path": "/buildings/villa-schreiner",
-     "event": false,
-     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
      "path_id": 112095271,
      "path": "/buildings/sakaide-artificial-ground",
      "event": false,
@@ -444,6 +468,206 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113942418,
+     "path": "/buildings/mjostarnet",
+     "event": false,
+     "title": "Mjostarnet by Voll Arkitekter: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113942033,
+     "path": "/pricing",
+     "event": false,
+     "title": "FGA Studio pricing \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113939366,
+     "path": "/buildings/palace-of-happiness-baku",
+     "event": false,
+     "title": "Palace of Happiness by Jozef Ploszko: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113937972,
+     "path": "/buildings/edmonton-city-hall",
+     "event": false,
+     "title": "Edmonton City Hall by Dub Architects: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113933403,
+     "path": "building/martin-luther-king-jr-memorial-library",
+     "event": true,
+     "title": "Martin Luther King Jr. Memorial Library",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113925846,
+     "path": "/buildings/institute-of-foreign-languages",
+     "event": false,
+     "title": "Institute of Foreign Languages by Vann Molyvann: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113925721,
+     "path": "building/sheldon-museum-of-art",
+     "event": true,
+     "title": "Sheldon Museum of Art",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113925666,
+     "path": "/buildings/palazzetto-dello-sport",
+     "event": false,
+     "title": "Palazzetto dello Sport by Pier Luigi Nervi: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113925368,
+     "path": "/buildings/el-colegio-de-mexico",
+     "event": false,
+     "title": "El Colegio de M\u00e9xico by Teodoro Gonz\u00e1lez de Le\u00f3n: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113925138,
+     "path": "studio/ai-link",
+     "event": true,
+     "title": "AI panel: See FGA Studio",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924841,
+     "path": "building/zenith-strasbourg",
+     "event": true,
+     "title": "Z\u00e9nith de Strasbourg",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924827,
+     "path": "building/ithra",
+     "event": true,
+     "title": "Ithra",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924800,
+     "path": "/buildings/bishops-palace-galveston",
+     "event": false,
+     "title": "Bishop's Palace by Nicholas J. Clayton: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924780,
+     "path": "building/bishops-palace-galveston",
+     "event": true,
+     "title": "Bishop's Palace",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924748,
+     "path": "building/nagasaki-prefectural-art-museum",
+     "event": true,
+     "title": "Nagasaki Prefectural Art Museum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924744,
+     "path": "book/a-pattern-language",
+     "event": true,
+     "title": "A Pattern Language",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924722,
+     "path": "building/asakusa-culture-tourist-information-center",
+     "event": true,
+     "title": "Asakusa Culture Tourist Information Center",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924707,
+     "path": "building/nakagawa-machi-bato-hiroshige-museum",
+     "event": true,
+     "title": "Nakagawa-machi Bato Hiroshige Museum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113924513,
+     "path": "book/a-world-history-of-architecture",
+     "event": true,
+     "title": "A World History of Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113919760,
+     "path": "building/beethovenhalle-bonn",
+     "event": true,
+     "title": "Beethovenhalle",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113919348,
+     "path": "building/stadthaus-scharnhauser-park",
+     "event": true,
+     "title": "Stadthaus Scharnhauser Park",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113919093,
+     "path": "building/bauhaus-museum-dessau",
+     "event": true,
+     "title": "Bauhaus Museum Dessau",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113918722,
+     "path": "building/galeries-lafayette-berlin",
+     "event": true,
+     "title": "Galeries Lafayette Berlin",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113918604,
+     "path": "building/building-of-the-yugoslavian-legation-in-berlin",
+     "event": true,
+     "title": "Building of the Yugoslavian legation in Berlin",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113917934,
+     "path": "building/bosco-verticale",
+     "event": true,
+     "title": "Bosco Verticale",
      "max": 1
     },
     {
@@ -581,246 +805,22 @@
      "event": true,
      "title": "Palazzo della Civilt\u00e0 Italiana",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113888839,
-     "path": "building/frac-nord-pas-de-calais",
-     "event": true,
-     "title": "FRAC Nord-Pas de Calais",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113887165,
-     "path": "building/borobudur",
-     "event": true,
-     "title": "Borobudur",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113887126,
-     "path": "building/banyuwangi-international-airport",
-     "event": true,
-     "title": "Banyuwangi International Airport",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113885699,
-     "path": "building/mit-chapel",
-     "event": true,
-     "title": "MIT Chapel",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113872304,
-     "path": "building/kempegowda-international-airport-terminal-2",
-     "event": true,
-     "title": "Kempegowda International Airport Terminal 2",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113872284,
-     "path": "building/indian-institute-of-management-bangalore",
-     "event": true,
-     "title": "Indian Institute of Management Bangalore",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113870393,
-     "path": "building/solomon-r-guggenheim-museum",
-     "event": true,
-     "title": "Solomon R. Guggenheim Museum",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113868292,
-     "path": "building/bauhaus-dessau",
-     "event": true,
-     "title": "Bauhaus Dessau",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855492,
-     "path": "building/habitat-67",
-     "event": true,
-     "title": "Habitat 67",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855478,
-     "path": "book/for-everyone-a-garden",
-     "event": true,
-     "title": "For Everyone a Garden",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855455,
-     "path": "/architects/moshe-safdie",
-     "event": false,
-     "title": "Moshe Safdie buildings: photos, plans & key works",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855444,
-     "path": "building/marina-bay-sands",
-     "event": true,
-     "title": "Marina Bay Sands",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855375,
-     "path": "/buildings/scheepvaarthuis-amsterdam",
-     "event": false,
-     "title": "Scheepvaarthuis by Johan van der Mey: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855345,
-     "path": "building/shine-dome",
-     "event": true,
-     "title": "Shine Dome",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855266,
-     "path": "building/telangana-secretariat",
-     "event": true,
-     "title": "Dr. B.R. Ambedkar Telangana State Secretariat",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113855233,
-     "path": "building/patan-museum",
-     "event": true,
-     "title": "Patan Museum",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113852201,
-     "path": "/buildings/custom-house-dublin",
-     "event": false,
-     "title": "The Custom House by James Gandon: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113847367,
-     "path": "building/john-hancock-tower",
-     "event": true,
-     "title": "John Hancock Tower",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113846093,
-     "path": "building/museum-of-old-and-new-art",
-     "event": true,
-     "title": "Museum of Old and New Art",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113843731,
-     "path": "building/the-gateway",
-     "event": true,
-     "title": "The Gateway",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113841667,
-     "path": "building/56-leonard-street",
-     "event": true,
-     "title": "56 Leonard Street",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113839752,
-     "path": "building/centre-pompidou-metz",
-     "event": true,
-     "title": "Centre Pompidou-Metz",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113839288,
-     "path": "book/thinking-architecture",
-     "event": true,
-     "title": "Thinking Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113839124,
-     "path": "building/curtain-wall-house",
-     "event": true,
-     "title": "Curtain Wall House",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113838934,
-     "path": "building/sevan-writers-resort",
-     "event": true,
-     "title": "Sevan Writers' Resort",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113838041,
-     "path": "play/daily/1-of-5",
-     "event": true,
-     "title": "Daily five finished: 1 of 5 right",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113836785,
-     "path": "building/cn-tower",
-     "event": true,
-     "title": "CN Tower",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113836618,
-     "path": "building/nemo-science-museum",
-     "event": true,
-     "title": "NEMO Science Museum",
-     "max": 1
     }
    ],
-   "total": 425,
+   "total": 448,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 342,
+     "count": 371,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 187,
+     "count": 193,
      "ref_scheme": "g"
     },
     {
@@ -832,7 +832,7 @@
     {
      "id": "reddit",
      "name": "reddit",
-     "count": 11,
+     "count": 12,
      "ref_scheme": "c"
     },
     {
@@ -844,7 +844,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 7,
+     "count": 8,
      "ref_scheme": "c"
     },
     {
@@ -872,6 +872,12 @@
      "ref_scheme": "c"
     },
     {
+     "id": "wall",
+     "name": "wall",
+     "count": 3,
+     "ref_scheme": "c"
+    },
+    {
      "id": "bing.com",
      "name": "bing.com",
      "count": 2,
@@ -882,12 +888,6 @@
      "name": "com.reddit.frontpage",
      "count": 1,
      "ref_scheme": "o"
-    },
-    {
-     "id": "wall",
-     "name": "wall",
-     "count": 1,
-     "ref_scheme": "c"
     }
    ],
    "more": false
@@ -897,17 +897,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 436
+     "count": 458
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 233
+     "count": 258
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 18
+     "count": 19
     }
    ],
    "more": false
@@ -917,27 +917,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 236
+     "count": 248
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 193
+     "count": 218
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 133
+     "count": 136
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 71
+     "count": 78
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 53
+     "count": 54
     },
     {
      "id": "Chrome OS",
@@ -952,22 +952,22 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 292
+     "count": 322
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 126
+     "count": 129
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 31
+     "count": 38
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 31
+     "count": 32
     },
     {
      "id": "AU",
@@ -977,7 +977,7 @@
     {
      "id": "CA",
      "name": "Canada",
-     "count": 16
+     "count": 17
     },
     {
      "id": "CH",
@@ -1022,12 +1022,17 @@
     {
      "id": "MX",
      "name": "Mexico",
-     "count": 5
+     "count": 6
     },
     {
      "id": "PK",
      "name": "Pakistan",
      "count": 5
+    },
+    {
+     "id": "AT",
+     "name": "Austria",
+     "count": 4
     },
     {
      "id": "BR",
@@ -1055,8 +1060,8 @@
      "count": 4
     },
     {
-     "id": "AT",
-     "name": "Austria",
+     "id": "BE",
+     "name": "Belgium",
      "count": 3
     },
     {
@@ -1093,11 +1098,6 @@
      "id": "VN",
      "name": "Vietnam",
      "count": 3
-    },
-    {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 2
     },
     {
      "id": "HK",
@@ -1185,8 +1185,18 @@
      "count": 1
     },
     {
+     "id": "LT",
+     "name": "Republic of Lithuania",
+     "count": 1
+    },
+    {
      "id": "MA",
      "name": "Morocco",
+     "count": 1
+    },
+    {
+     "id": "MK",
+     "name": "North Macedonia",
      "count": 1
     },
     {
@@ -1202,6 +1212,11 @@
     {
      "id": "PL",
      "name": "Poland",
+     "count": 1
+    },
+    {
+     "id": "PR",
+     "name": "Puerto Rico",
      "count": 1
     },
     {
@@ -1232,7 +1247,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 315
+     "count": 343
     },
     {
      "id": "tablet",
@@ -1242,12 +1257,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 319
+     "count": 332
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 26
+     "count": 33
     },
     {
      "id": "unknown",
@@ -1262,7 +1277,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 687
+     "count": 735
     }
    ],
    "more": false
