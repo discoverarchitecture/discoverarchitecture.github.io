@@ -137,6 +137,33 @@
     "paid": false,
     "why": "Advice to young architects",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Norman Foster Foundation",
+    "title": "Norman Foster Foundation",
+    "url": "https://www.normanfosterfoundation.org/",
+    "kind": "museum",
+    "paid": false,
+    "why": "His foundation, research and archive",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Foster + Partners",
+    "title": "Projects",
+    "url": "https://www.fosterandpartners.com/projects",
+    "kind": "profile",
+    "paid": false,
+    "why": "The practice's own project archive",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Norman Foster",
+    "url": "https://en.wikipedia.org/wiki/Norman_Foster",
+    "kind": "overview",
+    "paid": false,
+    "why": "Detailed reference entry",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -277,6 +304,15 @@
     "kind": "museum",
     "paid": false,
     "why": "His foundation and archive",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Renzo Piano",
+    "url": "https://en.wikipedia.org/wiki/Renzo_Piano",
+    "kind": "overview",
+    "paid": false,
+    "why": "Detailed reference entry",
     "checked": "2026-10-21"
    }
   ]
@@ -419,6 +455,15 @@
     "paid": false,
     "why": "His foundation and archive",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Oscar Niemeyer",
+    "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
+    "kind": "overview",
+    "paid": false,
+    "why": "Detailed reference entry",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -560,6 +605,24 @@
     "paid": false,
     "why": "Archive interview on her profession",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Zaha Hadid Architects",
+    "title": "Zaha Hadid Architects",
+    "url": "https://www.zaha-hadid.com/",
+    "kind": "profile",
+    "paid": false,
+    "why": "The practice's own site",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Zaha Hadid",
+    "url": "https://en.wikipedia.org/wiki/Zaha_Hadid",
+    "kind": "overview",
+    "paid": false,
+    "why": "Detailed reference entry",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -602,6 +665,36 @@
     "paid": false,
     "why": "Life and work overview",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Le Corbusier",
+    "url": "https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/le-corbusier",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum research page on the architect",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "MoMA",
+    "title": "Le Corbusier: An Atlas of Modern Landscapes",
+    "url": "https://www.moma.org/calendar/exhibitions/1297",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA retrospective exhibition page",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Le Corbusier",
+    "url": "https://smarthistory.org/artist/le-corbusier/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Student-friendly essays on his work",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "ArchDaily",
@@ -752,6 +845,16 @@
     "paid": false,
     "why": "Museum profile of his design work",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Alvar Aalto",
+    "url": "https://www.moma.org/collection/artists/34",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's collection of his work",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Dezeen",
@@ -932,6 +1035,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "MoMA",
+    "title": "Frank O. Gehry",
+    "url": "https://www.moma.org/collection/artists/2108",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's artist page and collection",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "The Canadian Encyclopedia",
     "title": "Frank Gehry",
     "url": "https://thecanadianencyclopedia.ca/index.php/en/article/frank-gehry",
@@ -947,6 +1060,24 @@
     "kind": "essay",
     "paid": false,
     "why": "Opinion on his late career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Designboom",
+    "title": "step into frank gehry's sweeping signature style in a new retrospective",
+    "url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
+    "kind": "news",
+    "paid": false,
+    "why": "Centenary retrospective at Serralves",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Fortune",
+    "title": "Frank Gehry architect interview",
+    "url": "https://fortune.com/2018/10/26/frank-gehry-architect-interview",
+    "kind": "interview",
+    "paid": false,
+    "why": "Gehry on childhood and his process",
     "checked": "2026-10-21"
    }
   ]
@@ -1064,6 +1195,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "MoMA",
+    "title": "Artist's Choice: Herzog & de Meuron, Perception Restrained",
+    "url": "https://www.moma.org/calendar/exhibitions/78",
+    "kind": "museum",
+    "paid": false,
+    "why": "Their curated MoMA exhibition",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Serpentine Galleries",
     "title": "Park Nights public talk: Herzog & de Meuron",
     "url": "https://www.serpentinegalleries.org/exhibitions-events/park-nights-public-talk-herzog-de-meuron",
@@ -1089,6 +1230,16 @@
     "paid": false,
     "why": "De Meuron on practice and design",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Herzog & de Meuron architecture and design",
+    "url": "https://www.dezeen.com/tag/herzog-de-meuron/",
+    "kind": "news",
+    "paid": false,
+    "why": "Dezeen's running coverage of the firm",
+    "checked": "2026-10-21",
+    "blocked_check": true
    }
   ]
  },
@@ -1194,6 +1345,16 @@
     "paid": false,
     "why": "Unbuilt towers and the ideas behind them",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Thresholds/O.M.A. at MoMA: Rem Koolhaas and the Place of Public Architecture",
+    "url": "https://www.moma.org/calendar/exhibitions/440",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA exhibition on OMA's public buildings",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Harvard Gazette",
@@ -1307,15 +1468,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Australian profile by his home institution",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Praemium Imperiale",
-    "title": "TOP Laureate Glenn Murcutt",
-    "url": "https://www.praemiumimperiale.org/en/laureate-en/laureates-en/murcutt-en",
-    "kind": "profile",
-    "paid": false,
-    "why": "2021 laureate citation and biography",
     "checked": "2026-10-21"
    },
    {
@@ -1493,6 +1645,15 @@
     "kind": "video",
     "paid": false,
     "why": "Pei interviewed on his career",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "RGM 2010 - Interview with I.M. Pei",
+    "url": "https://www.youtube.com/watch?v=RaqX1cAKAb0",
+    "kind": "video",
+    "paid": false,
+    "why": "RIBA Gold Medal interview",
     "checked": "2026-10-21"
    }
   ]
@@ -1742,6 +1903,26 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Santiago Calatrava",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2005/santiago-calatrava",
+    "kind": "museum",
+    "paid": false,
+    "why": "Sculpture-to-architecture exhibition: models, drawings, sculptures",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "MoMA",
+    "title": "Thresholds/Santiago Calatrava: Structure and Expression",
+    "url": "https://www.moma.org/calendar/exhibitions/391",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's 1993 show on structure and movement",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Architectural Record",
     "title": "Newsmaker: Santiago Calatrava",
     "url": "https://www.architecturalrecord.com/articles/2619-newsmaker-santiago-calatrava",
@@ -1930,6 +2111,16 @@
     "kind": "overview",
     "paid": false,
     "why": "Full biography and major works",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Met",
+    "title": "Frank Lloyd Wright (1867-1959) - The Metropolitan Museum of Art",
+    "url": "https://www.metmuseum.org/essays/frank-lloyd-wright-1867-1959",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum essay on his career and designs",
     "checked": "2026-10-21",
     "blocked_check": true
    },
@@ -2593,6 +2784,26 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Smarthistory",
+    "title": "Philip Johnson",
+    "url": "https://smarthistory.org/artist/philip-johnson/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Teaching resources on Johnson",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Museum of Modern Art",
+    "title": "Philip Johnson Papers in The Museum of Modern Art Archives",
+    "url": "https://www.moma.org/research/archives/finding-aids/PJohnsonPapersb.html",
+    "kind": "museum",
+    "paid": false,
+    "why": "His MoMA career and archive",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "The New Criterion",
     "title": "Philip Johnson, 1906-2005",
     "url": "https://newcriterion.com/dispatch/philip-johnson-1906-2005/",
@@ -2707,6 +2918,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "The Museum of Modern Art",
+    "title": "Mies van der Rohe",
+    "url": "https://www.moma.org/calendar/exhibitions/2734",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's retrospective exhibition page",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Google Arts & Culture",
     "title": "Ludwig Mies van der Rohe",
     "url": "https://artsandculture.google.com/entity/ludwig-mies-van-der-rohe/m04jxp?hl=en",
@@ -2794,6 +3015,15 @@
     "blocked_check": true
    },
    {
+    "site": "Domus",
+    "title": "SOM - Domus",
+    "url": "https://www.domusweb.it/it/speciali/best-architecture-firms/2019/som.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Profile of the firm (Italian-language page)",
+    "checked": "2026-10-21"
+   },
+   {
     "site": "Chicago Architecture Center",
     "title": "Skidmore, Owings & Merrill",
     "url": "https://architecture.org/online-resources/architecture-encyclopedia/skidmore-owings-merrill",
@@ -2801,6 +3031,16 @@
     "paid": false,
     "why": "Chicago architecture encyclopedia entry",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "The Museum of Modern Art",
+    "title": "Architectural Work by Skidmore, Owings and Merrill (1950 exhibition)",
+    "url": "https://www.moma.org/calendar/exhibitions/2411/installation_images/21678",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's 1950 exhibition on SOM",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Dezeen",
@@ -3014,6 +3254,15 @@
     "kind": "guide",
     "paid": false,
     "why": "Browse his projects on ArchDaily",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Álvaro Siza Vieira",
+    "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
+    "kind": "overview",
+    "paid": false,
+    "why": "Full works list and background",
     "checked": "2026-10-21"
    }
   ]
@@ -3313,6 +3562,16 @@
     "blocked_check": true
    },
    {
+    "site": "MoMA",
+    "title": "The Many Lives of the Nakagin Capsule Tower",
+    "url": "https://www.moma.org/calendar/exhibitions/5830",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA exhibition on his best-known work",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "The Architects' Journal",
     "title": "The floating world of Kisho Kurokawa",
     "url": "https://www.architectsjournal.co.uk/archive/the-floating-world-of-kisho-kurokawa",
@@ -3356,6 +3615,16 @@
     "paid": false,
     "why": "2007 obituary summing up his career",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Kisho Kurokawa",
+    "url": "https://www.moma.org/collection/artists/6967",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA holdings including Helix City drawings",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Mori Art Museum",
@@ -3452,6 +3721,16 @@
     "paid": false,
     "why": "William Curtis on Kahn's lasting influence",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Louis I. Kahn: In the Realm of Architecture",
+    "url": "https://www.moma.org/calendar/exhibitions/371",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA exhibition page on his whole career",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "ArchDaily",
@@ -3640,6 +3919,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "MoMA",
+    "title": "Richard Meier",
+    "url": "https://www.moma.org/artists/3910",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA holdings of his drawings and studies",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Wikipedia",
     "title": "Richard Meier",
     "url": "https://en.wikipedia.org/wiki/Richard_Meier",
@@ -3772,6 +4061,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "MoMA",
+    "title": "Shigeru Ban",
+    "url": "https://www.moma.org/artists/23272",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's artist page",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Architectural Record",
     "title": "Shigeru Ban Awarded 2026 AIA Gold Medal",
     "url": "https://www.architecturalrecord.com/articles/17898-shigeru-ban-awarded-2026-aia-gold-medal",
@@ -3796,6 +4095,15 @@
     "kind": "interview",
     "paid": false,
     "why": "Ban on paper emergency shelters",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "YouTube",
+    "title": "Architect Shigeru Ban is disappointed by his own profession",
+    "url": "https://www.youtube.com/watch?v=204V3hKAqkc",
+    "kind": "video",
+    "paid": false,
+    "why": "Ban's critique of the profession",
     "checked": "2026-10-21"
    }
   ]
@@ -3939,6 +4247,24 @@
     "paid": false,
     "why": "Interview on heritage and modernism",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "David Chipperfield Architects",
+    "title": "Face to face with David Chipperfield",
+    "url": "https://davidchipperfield.com/video-and-audio/face-to-face-with-david-chipperfield",
+    "kind": "interview",
+    "paid": false,
+    "why": "Audio conversation on the practice site",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Designboom",
+    "title": "david chipperfield: 10 landmark projects by the 2023 pritzker laureate",
+    "url": "https://www.designboom.com/architecture/david-chipperfield-10-landmark-projects-2023-pritzker-laureate-03-08-2023/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Ten landmark projects",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -3981,24 +4307,6 @@
     "why": "Concise career summary, major works",
     "checked": "2026-10-21",
     "blocked_check": true
-   },
-   {
-    "site": "PBS American Masters",
-    "title": "Eero Saarinen: The Architect Who Saw the Future",
-    "url": "https://www.pbs.org/wnet/americanmasters/eero-saarinen-film/7507/",
-    "kind": "video",
-    "paid": false,
-    "why": "Feature documentary on his whole career",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "PBS American Masters",
-    "title": "Eero Saarinen",
-    "url": "https://www.pbs.org/wnet/americanmasters/masters/eero-saarinen/",
-    "kind": "profile",
-    "paid": false,
-    "why": "Biography and film clips",
-    "checked": "2026-10-21"
    },
    {
     "site": "Dezeen",
@@ -4192,6 +4500,16 @@
     "paid": false,
     "why": "Biography with projects list",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Smarthistory",
+    "url": "https://smarthistory.org/artist/marcel-breuer/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Breuer essays and videos in one place",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "ArchDaily",
@@ -4528,6 +4846,24 @@
     "paid": false,
     "why": "2007 laureate page and jury citation",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "\"We thought Lloyd's building was the ultimate in technology, but it's practically hand made\"",
+    "url": "https://www.dezeen.com/2013/08/04/movie-richard-rogers-lloyds-building-high-tech-architecture/",
+    "kind": "video",
+    "paid": false,
+    "why": "Rogers questions the high-tech label",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Rogers Stirk Harbour + Partners (ArchDaily)",
+    "title": "Rogers Stirk Harbour + Partners",
+    "url": "https://www.archdaily.com/office/rogers-stirk-harbour-plus-partners",
+    "kind": "profile",
+    "paid": false,
+    "why": "His practice's works",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -4552,6 +4888,16 @@
     "paid": false,
     "why": "Tour of Gaudí's Barcelona",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Smarthistory",
+    "url": "https://smarthistory.org/artist/antoni-gaudi/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Gaudí essays and videos in one place",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Wallpaper*",
@@ -4941,6 +5287,25 @@
     "paid": false,
     "why": "Correa on his practice and housing",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Dezeen",
+    "title": "David Adjaye designs Charles Correa exhibition at RIBA",
+    "url": "https://www.dezeen.com/2013/03/23/david-adjaye-designs-charles-correa-exhibition-at-riba/amp/",
+    "kind": "museum",
+    "paid": false,
+    "why": "RIBA show of 6,000 Correa drawings",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Holcim Foundation",
+    "title": "Charles Correa",
+    "url": "https://www.holcimfoundation.org/experts/charles-correa",
+    "kind": "profile",
+    "paid": false,
+    "why": "Short biography and honours",
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -5081,6 +5446,24 @@
     "kind": "interview",
     "paid": false,
     "why": "Q&A on his sculptural practice",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "SFMOMA",
+    "title": "Daniel Libeskind",
+    "url": "https://www.sfmoma.org/artist/Daniel_Libeskind/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum profile of his drawings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "University of New Mexico",
+    "title": "The Language of Architecture (lecture)",
+    "url": "https://digitalrepository.unm.edu/arch_lectures/22",
+    "kind": "video",
+    "paid": false,
+    "why": "Full university lecture, 2013",
     "checked": "2026-10-21"
    }
   ]
@@ -5662,6 +6045,15 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Den Store Danske",
+    "title": "Arne Jacobsen",
+    "url": "https://lex.dk/Arne_Jacobsen",
+    "kind": "overview",
+    "paid": false,
+    "why": "Danish national encyclopaedia entry",
+    "checked": "2026-10-21"
+   },
+   {
     "site": "YouTube",
     "title": "Arne Jacobsen: Designing Denmark, by Katrine Stenum Poulsen",
     "url": "https://www.youtube.com/watch?v=1wz0PwZL2D8",
@@ -5977,15 +6369,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Altaplana",
-    "title": "Perret, Auguste",
-    "url": "https://www.altaplana.be/en/dictionary/perret-auguste",
-    "kind": "overview",
-    "paid": false,
-    "why": "Dictionary entry on his career",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Metalocus",
     "title": "Auguste Perret",
     "url": "https://www.metalocus.es/en/author/perret-0",
@@ -6071,6 +6454,16 @@
     "paid": false,
     "why": "World Heritage listing of his campus",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Carlos Raúl Villanueva",
+    "url": "https://www.moma.org/artists/42344",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA artist page and collection works",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Getty",

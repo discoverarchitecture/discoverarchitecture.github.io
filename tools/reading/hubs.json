@@ -67,6 +67,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "MoMA",
+    "title": "Brutalist Architecture",
+    "url": "https://www.moma.org/collection/terms/brutalist-architecture",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's definition and related works",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Domus",
     "title": "Brutalism & Brutalist architecture: the most famous brutalist buildings",
     "url": "https://www.domusweb.it/en/movements/brutalism.html",
@@ -94,6 +104,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "Concrete Utopia: Architecture in Yugoslavia",
+    "url": "https://placesjournal.org/article/concrete-utopia-architecture-in-yugoslavia/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Brutalism beyond Britain, in the Balkans",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Google Arts & Culture",
     "title": "Building the Brutal",
     "url": "https://artsandculture.google.com/story/building-the-brutal-barbican-centre/aQUR5-kgbg5mIQ?hl=en",
@@ -118,24 +138,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Preservation debates around concrete landmarks",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Smithsonian Magazine",
-    "title": "Washingtonians Love to Hate Brutalist Architecture. But What If We Could Fix It?",
-    "url": "https://www.smithsonianmag.com/smart-news/washingtonians-love-to-hate-brutalist-architecture-but-what-if-we-could-fix-it-180984968/",
-    "kind": "news",
-    "paid": false,
-    "why": "US view on loving and reusing Brutalism",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "YouTube",
-    "title": "The Most Hated (and loved) Architecture in History",
-    "url": "https://www.youtube.com/watch?v=UhdIEq_h0es",
-    "kind": "video",
-    "paid": false,
-    "why": "Video history from Unite to Robin Hood Gardens",
     "checked": "2026-10-21"
    }
   ]
@@ -172,6 +174,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Smarthistory",
+    "title": "International Style",
+    "url": "https://smarthistory.org/period-culture-style/modernisms/international-style/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Student-friendly explanation with key buildings",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Tate",
     "title": "International style",
     "url": "https://www.tate.org.uk/art/art-terms/i/international-style",
@@ -206,6 +218,26 @@
     "paid": false,
     "why": "Bauhaus ideas and architects, illustrated",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Smarthistory",
+    "title": "The Bauhaus, an introduction",
+    "url": "https://smarthistory.org/the-bauhaus-an-introduction/",
+    "kind": "overview",
+    "paid": false,
+    "why": "What the school was and why it mattered",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "MoMA",
+    "title": "Bauhaus 1919-1933: Workshops for Modernity",
+    "url": "https://www.moma.org/calendar/exhibitions/303",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum exhibition on the school",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Docomomo US",
@@ -250,33 +282,6 @@
     "kind": "essay",
     "paid": false,
     "why": "Modernism's key technology traced",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Twentieth Century Society",
-    "title": "Architectural Styles II: Mid Century Modernism with Elain Harwood",
-    "url": "https://c20society.org.uk/lectures/architectural-styles-ii-mid-century-modernism-with-elain-harwood",
-    "kind": "video",
-    "paid": false,
-    "why": "Expert lecture on post-war modernisms",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "YouTube",
-    "title": "Modern Movement in Architecture, CIAM, and Weissenhof Estate",
-    "url": "https://www.youtube.com/watch?v=dOsqFhDFozA",
-    "kind": "video",
-    "paid": false,
-    "why": "Lecture on CIAM and Weissenhof",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Modern architecture",
-    "url": "https://en.wikipedia.org/wiki/Modern_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples",
     "checked": "2026-10-21"
    }
   ]
@@ -364,6 +369,26 @@
     "paid": false,
     "why": "Review of a survey of 21st-century homes",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Places Journal",
+    "title": "Zombies and Ghosts",
+    "url": "https://placesjournal.org/article/zombies-and-ghosts-architecture-and-finance-capitalism/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Architecture and finance capital today",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Places Journal",
+    "title": "The Death and Life of Great Architecture Criticism",
+    "url": "https://placesjournal.org/article/the-death-and-life-of-great-architecture-criticism/",
+    "kind": "essay",
+    "paid": false,
+    "why": "How architecture is written about now",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "ArchDaily",
@@ -595,6 +620,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "Between Mission Statement and Parametric Model",
+    "url": "https://placesjournal.org/article/between-mission-statement-and-parametric-model/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical look at parametric design culture",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Patrik Schumacher",
     "title": "Parametricism and the Autopoiesis of Architecture",
     "url": "https://patrikschumacher.com/parametricism-and-the-autopoiesis-of-architecture/",
@@ -673,15 +708,6 @@
     "kind": "essay",
     "paid": false,
     "why": "A critical practitioner reads the manifesto",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Revista Vírus (USP)",
-    "title": "The Parametricism manifest: prospects about a \"new global style\" for architectural design and urban planning",
-    "url": "https://revistas.usp.br/virus/article/view/228650",
-    "kind": "essay",
-    "paid": false,
-    "why": "Academic reading of the manifesto",
     "checked": "2026-10-21"
    }
   ]
@@ -890,6 +916,16 @@
     "blocked_check": true
    },
    {
+    "site": "MoMA",
+    "title": "Robert Venturi",
+    "url": "https://www.moma.org/artists/6132-robert-venturi",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's page on Venturi and his work",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "V&A",
     "title": "Postmodernism",
     "url": "https://www.vam.ac.uk/collections/postmodernism",
@@ -1021,6 +1057,26 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "The Metropolitan Museum of Art",
+    "title": "French Art Deco",
+    "url": "https://www.metmuseum.org/essays/french-art-deco",
+    "kind": "essay",
+    "paid": false,
+    "why": "Museum essay on the style's origins",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Design, 1925-50",
+    "url": "https://www.metmuseum.org/toah/hd/dsgn2/hd_dsgn2.htm",
+    "kind": "essay",
+    "paid": false,
+    "why": "Wider design context of the period",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "V&A",
     "title": "An introduction to Art Deco",
     "url": "https://www.vam.ac.uk/articles/an-introduction-to-art-deco",
@@ -1096,6 +1152,26 @@
     "kind": "overview",
     "paid": false,
     "why": "Clear definition, key figures, regional variants",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Art Nouveau",
+    "url": "https://smarthistory.org/art-nouveau/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Student-friendly introduction with examples",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Art Nouveau",
+    "url": "https://www.metmuseum.org/essays/art-nouveau",
+    "kind": "essay",
+    "paid": false,
+    "why": "Museum essay on the movement and its design",
     "checked": "2026-10-21",
     "blocked_check": true
    },
@@ -1198,15 +1274,6 @@
     "paid": false,
     "why": "Detailed reference with national variants",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikimedia Commons",
-    "title": "Category: Art Nouveau architecture",
-    "url": "https://commons.wikimedia.org/wiki/Category:Art_Nouveau_architecture",
-    "kind": "museum",
-    "paid": false,
-    "why": "Free photos of Art Nouveau buildings",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -1248,6 +1315,16 @@
     "paid": false,
     "why": "Intellectual history of the movement",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Places Journal",
+    "title": "Regionalism Revisited: The Case of Francisco Artigas",
+    "url": "https://placesjournal.org/article/regionalism-revisited-the-case-of-francisco-artigas/",
+    "kind": "essay",
+    "paid": false,
+    "why": "A critique from Mexico",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Metropolis",
@@ -1317,6 +1394,36 @@
  {
   "key": "hub:type:museums",
   "links": [
+   {
+    "site": "Smarthistory",
+    "title": "A brief history of the art museum",
+    "url": "https://smarthistory.org/a-brief-history-of-the-art-museum/",
+    "kind": "overview",
+    "paid": false,
+    "why": "How museum buildings evolved",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Understanding Museums",
+    "url": "https://smarthistory.org/curated-guide/understanding-museums/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Curated reading on museums",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Smarthistory",
+    "title": "How museums shape meaning",
+    "url": "https://smarthistory.org/how-museums-shape-meaning/",
+    "kind": "essay",
+    "paid": false,
+    "why": "What the building does to the art",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
    {
     "site": "Britannica",
     "title": "Museum: structure and operations",
@@ -1572,6 +1679,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "Library as Infrastructure",
+    "url": "https://placesjournal.org/article/library-as-infrastructure/",
+    "kind": "essay",
+    "paid": false,
+    "why": "The library as public infrastructure",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Metropolis",
     "title": "The Unexpected Renaissance of the Public Library",
     "url": "https://metropolismag.com/projects/unexpected-renaissance-public-library/",
@@ -1705,6 +1822,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Smarthistory",
+    "title": "The World's Columbian Exposition: Introduction",
+    "url": "https://smarthistory.org/worlds-columbian-exposition-intro/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Architecture of a great world's fair",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "La Biennale di Venezia",
     "title": "Giardini della Biennale",
     "url": "https://www.labiennale.org/en/venues/giardini-della-biennale",
@@ -1809,6 +1936,36 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "The Social Project: Public Housing in Postwar France",
+    "url": "https://placesjournal.org/article/the-social-project/",
+    "kind": "essay",
+    "paid": false,
+    "why": "French grands ensembles explained",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Places Journal",
+    "title": "The Modern Urbanism of Cook's Camden",
+    "url": "https://placesjournal.org/article/the-modern-urbanism-of-cooks-camden/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Camden's council housing programme",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Places Journal",
+    "title": "Socialism and Nationalism on the Danube",
+    "url": "https://placesjournal.org/article/socialism-and-nationalism-on-the-danube/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Housing, politics and Red Vienna",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "YouTube",
     "title": "Peter Barber: Reimagining Social Housing (John T. Dunlop Lecture)",
     "url": "https://www.youtube.com/watch?v=1BgUe9z2ARM",
@@ -1876,6 +2033,16 @@
     "kind": "guide",
     "paid": false,
     "why": "Eight key Islamic buildings",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Common types of mosque architecture",
+    "url": "https://smarthistory.org/common-types-of-mosque-architecture/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Hypostyle, iwan and dome mosques",
     "checked": "2026-10-21",
     "blocked_check": true
    },
@@ -1958,6 +2125,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Smarthistory",
+    "title": "The Bauhaus, an introduction",
+    "url": "https://smarthistory.org/the-bauhaus-an-introduction/",
+    "kind": "overview",
+    "paid": false,
+    "why": "The school that reshaped design education",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "V&A",
     "title": "Modernist architecture: the Bauhaus and beyond",
     "url": "https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond",
@@ -1973,6 +2150,15 @@
     "kind": "overview",
     "paid": false,
     "why": "Bauhaus figures and works in brief",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Alberta Journal of Educational Research",
+    "title": "Building Paradigms: Major Transformations in School Architecture (1798-2009)",
+    "url": "https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55322/42359",
+    "kind": "essay",
+    "paid": false,
+    "why": "Two centuries of school design, summarised",
     "checked": "2026-10-21"
    },
    {
@@ -2013,6 +2199,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Smarthistory",
+    "title": "The Bauhaus and Bau",
+    "url": "https://smarthistory.org/the-bauhaus-and-bau/",
+    "kind": "essay",
+    "paid": false,
+    "why": "How Bauhaus taught building",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Wallpaper*",
     "title": "What is Bauhaus? Everything you need to know",
     "url": "https://www.wallpaper.com/architecture/what-is-bauhaus",
@@ -2040,39 +2236,22 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "Campus Design as Critical Practice",
+    "url": "https://placesjournal.org/article/campus-design-as-critical-practice/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Rethinking what a campus can do",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "ArchDaily",
     "title": "10 College Campuses with the Best Architecture",
     "url": "https://www.archdaily.com/159583/10-college-campuses-with-the-best-architecture",
     "kind": "guide",
     "paid": false,
     "why": "Ten celebrated campuses",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wallpaper*",
-    "title": "Campus and education architecture",
-    "url": "https://www.wallpaper.com/gallery/architecture/higher-education-campuses-with-elevated-aesthetics",
-    "kind": "guide",
-    "paid": false,
-    "why": "Gallery of striking campus buildings",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Dezeen",
-    "title": "Twelve groundbreaking universities from Dezeen's Pinterest",
-    "url": "https://www.dezeen.com/2024/01/22/pinterest-roundup-university-buildings/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Twelve university buildings, by material",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "National Park Service",
-    "title": "The Olmsted Firm: College Campuses",
-    "url": "https://www.nps.gov/articles/000/olmsted-college-campuses.htm",
-    "kind": "essay",
-    "paid": false,
-    "why": "How Olmsted planned US campuses",
     "checked": "2026-10-21"
    }
   ]
@@ -2097,6 +2276,16 @@
     "paid": false,
     "why": "Eight memorials and how they work",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Maya Lin, Vietnam Veterans Memorial",
+    "url": "https://smarthistory.org/maya-lin-vietnam-veterans-memorial/",
+    "kind": "essay",
+    "paid": false,
+    "why": "The memorial that changed the genre",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Smithsonian Magazine",
@@ -2338,15 +2527,6 @@
     "paid": false,
     "why": "Free app guide to 1,100 buildings",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "The Architects' Journal",
-    "title": "London's 'jarring' skyline and 'trophy architect' towers slammed by NY critic",
-    "url": "https://www.architectsjournal.co.uk/news/londons-jarring-skyline-and-trophy-architect-towers-slammed-by-ny-critic",
-    "kind": "news",
-    "paid": false,
-    "why": "Debate over the City's towers",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -2396,6 +2576,16 @@
     "kind": "guide",
     "paid": false,
     "why": "Short tour of key landmarks",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Glimpses of Old New York",
+    "url": "https://www.metmuseum.org/perspectives/old-new-york",
+    "kind": "essay",
+    "paid": false,
+    "why": "Early 19th-century New York building",
     "checked": "2026-10-21",
     "blocked_check": true
    },
@@ -2680,15 +2870,6 @@
    },
    {
     "site": "visitBerlin",
-    "title": "Buildings of Berlin Modernism",
-    "url": "https://www.visitberlin.de/en/buildings-berlin-modernism",
-    "kind": "guide",
-    "paid": false,
-    "why": "UNESCO modernist housing estates",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "visitBerlin",
     "title": "Architects of Modernism",
     "url": "https://www.visitberlin.de/en/architects-modernism",
     "kind": "profile",
@@ -2713,6 +2894,16 @@
     "paid": false,
     "why": "Critical look at Berlin Brutalism",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Places Journal",
+    "title": "Berlin: The Art of Reunification",
+    "url": "https://placesjournal.org/article/berlin-the-art-of-reunification/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Memory and building after reunification",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Wallpaper*",
@@ -2802,6 +2993,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "Liquid Cities: Metabolism and the Dematerialization of Architecture",
+    "url": "https://placesjournal.org/article/liquid-cities/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Metabolism, Tange and Tokyo planning",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Wallpaper*",
     "title": "Why Japanese metabolism is architecture's raddest movement",
     "url": "https://www.wallpaper.com/architecture/japanese-metabolism",
@@ -2836,6 +3037,16 @@
     "paid": false,
     "why": "MoMA show on Tokyo's transformation",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Showa period",
+    "url": "https://smarthistory.org/showa-period/",
+    "kind": "overview",
+    "paid": false,
+    "why": "Postwar Japanese art and architecture",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Wallpaper*",
@@ -2914,6 +3125,16 @@
     "paid": false,
     "why": "Gaudí's World Heritage works, illustrated",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Barcelona and Modernity",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2007/barcelona-and-modernity",
+    "kind": "museum",
+    "paid": false,
+    "why": "Exhibition on Gaudí to Dalí",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Smithsonian Magazine",
@@ -3384,6 +3605,26 @@
     "blocked_check": true
    },
    {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Roman Housing",
+    "url": "https://www.metmuseum.org/essays/roman-housing",
+    "kind": "essay",
+    "paid": false,
+    "why": "Atrium and peristyle in Roman houses",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
+    "site": "Smarthistory",
+    "title": "Roman domestic architecture: the domus",
+    "url": "https://smarthistory.org/roman-domestic-architecture-domus/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Courtyard living in ancient Rome",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Dezeen",
     "title": "Courtyards in architecture",
     "url": "https://www.dezeen.com/tag/courtyards/",
@@ -3525,6 +3766,16 @@
     "paid": false,
     "why": "Where Le Corbusier first tried the brise-soleil",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Smarthistory",
+    "title": "International Style architecture in Mexico and Brazil",
+    "url": "https://smarthistory.org/international-style-architecture-mexico-brazil/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Brise-soleil in Latin American modernism",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Google Arts & Culture",

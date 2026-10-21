@@ -128,6 +128,16 @@
     "checked": "2026-10-21"
    },
    {
+    "site": "Places Journal",
+    "title": "Makers of Modernism",
+    "url": "https://placesjournal.org/?p=2436",
+    "kind": "essay",
+    "paid": false,
+    "why": "Review of Rudolph's writings and reputation",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Paul Rudolph Institute",
     "title": "Paul Rudolph Institute",
     "url": "https://www.paulrudolph.institute/",
@@ -2398,15 +2408,6 @@
    },
    {
     "site": "Akademie der Künste",
-    "title": "Hans Scharoun: Architect and Visionary",
-    "url": "https://adk.de/news-einblicke/news/2014/01-5/hans-scharoun-architect-and-visionary",
-    "kind": "museum",
-    "paid": false,
-    "why": "Exhibition from his own archive",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Akademie der Künste",
     "title": "Hans Scharoun. Plans and drawings",
     "url": "https://digital.adk.de/en/hans-scharoun-plans-and-drawings",
     "kind": "museum",
@@ -4363,6 +4364,16 @@
   "key": "architect:Kiyonori Kikutake",
   "links": [
    {
+    "site": "Places Journal",
+    "title": "Kiyonori Kikutake: Structuring the Future",
+    "url": "https://placesjournal.org/article/kiyonori-kikutake-structuring-the-future/",
+    "kind": "essay",
+    "paid": false,
+    "why": "In-depth essay on his career",
+    "checked": "2026-10-21",
+    "blocked_check": true
+   },
+   {
     "site": "Britannica",
     "title": "Kikutake Kiyonori",
     "url": "https://www.britannica.com/print/article/317634",
@@ -5344,6 +5355,16 @@
     "paid": false,
     "why": "Concise student overview",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "MoMA",
+    "title": "Richard Neutra",
+    "url": "https://www.moma.org/artists/4277",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's collection and biography",
+    "checked": "2026-10-21",
+    "blocked_check": true
    },
    {
     "site": "Wikipedia",

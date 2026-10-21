@@ -1,11 +1,10 @@
 # Link check for architects_02, 2026-10-21
 
-586 links kept, 77 failed.
+588 links kept, 75 failed.
 
 ## Failed (find replacements)
 
 - architect:MVRDV: https://www.architizer.com/firms/mvrdv — HTTP 403
-- architect:Paul Rudolph: https://placesjournal.org/?p=2436 — HTTP 403
 - architect:Paulo Mendes da Rocha: https://www.architectmagazine.com/person/paulo-mendes-da-rocha/ — HTTP 403
 - architect:Peter Zumthor: https://oasejournal.nl/en/Issues/91/ConcentratedConfidence — HTTP 404
 - architect:Steven Holl: https://www.britannica.com:443/biography/Steven-Holl — HTTP 403
@@ -41,6 +40,7 @@
 - architect:gmp Architekten: https://architizer.com/firms/gmp-von-gerkan-marg-and-partners-architects1/ — HTTP 403
 - architect:gmp Architekten: https://www.floornature.com/farewell-meinhard-von-gerkan-gmp-17511/ — HTTP 403
 - architect:Hans Scharoun: https://rem.routledge.com/articles/scharoun-hans-bernhard-henry-1893-1972 — HTTP 500
+- architect:Hans Scharoun: https://adk.de/news-einblicke/news/2014/01-5/hans-scharoun-architect-and-visionary — HTTP 502
 - architect:Hans Scharoun: https://www.archiseek.com/?p=10874 — HTTP 404
 - architect:Hans Scharoun: https://www.architecture.com/riba-books/books/architects-and-designers/product/hans-scharoun-buildings-and-projects.html — HTTP 404
 - architect:John Burgee: https://harvardplanning.emuseum.com/people/4738/john-henry-burgee — HTTP 403
@@ -64,7 +64,6 @@
 - architect:Gio Ponti: https://www.frontiere.polimi.it/gio-ponti-and-politecnico/?lang=en — HTTP 404
 - architect:Gottfried Böhm: https://www.archpaper.com/2021/06/pritzker-prize-winning-architect-gottfried-bohm-dies-at-101/ — HTTP 403
 - architect:Henning Larsen: https://www.archpaper.com/2013/07/henning-larsen-1925-2013/ — HTTP 403
-- architect:Kiyonori Kikutake: https://placesjournal.org/article/kiyonori-kikutake-structuring-the-future/ — HTTP 403
 - architect:Kiyonori Kikutake: https://www.archpaper.com/2012/02/kiyonori-kikutake-1928-2011/ — HTTP 403
 - architect:Kiyonori Kikutake: https://www.archdaily.com/287150/lecture-what-was-metabolism-reflections-on-the-life-of-kiyonori-kikutake-toyo-ito/ — HTTP 404
 - architect:Konstantin Melnikov: https://modsovarch.tulane.edu/?p=2632 — HTTP 403
@@ -79,7 +78,6 @@
 - architect:Nicholas Grimshaw: https://www.architectmagazine.com/?p=340947 — HTTP 403
 - architect:RCR Arquitectes: https://www.architectmagazine.com/?p=346295 — HTTP 403
 - architect:Ricardo Legorreta: https://www.washingtontimes.com/news/2011/dec/30/mexican-architect-ricardo-legorreta-dies-at-80/ — HTTP 403
-- architect:Richard Neutra: https://www.moma.org/artists/4277 — HTTP 403
 - architect:Ryue Nishizawa: https://www.studiointernational.com/kazuyo-sejima-ryue-nishizawa-sanaa — HTTP 404
 
 ## Pages with fewer than 10 links
