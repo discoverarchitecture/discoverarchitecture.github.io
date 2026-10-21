@@ -1,0 +1,1354 @@
+[
+ {
+  "id": "guggenheim-museum-bilbao",
+  "qid": "Q179199",
+  "status": "photo",
+  "why": "Gehry's built work; lead calls it a signal moment in architectural culture.",
+  "name": "Guggenheim Museum Bilbao",
+  "by": "Frank Gehry",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": 1997,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Frank Gehry's museum on the Nervion River, hailed as a signal moment in architectural culture.",
+  "commons_category": "Category:Guggenheim Museum Bilbao",
+  "coords": [
+   43.26883,
+   -2.9341
+  ],
+  "photos": [
+   {
+    "file": "File:Museo Guggenheim, Bilbao (31273245344).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bilbao - Gug.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "centre-georges-pompidou",
+  "qid": "Q178065",
+  "status": "unsure",
+  "why": "Famous high-tech work, but no main photo: the main view is a far skyline and the other shots are not the Paris building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "potsdamer-platz",
+  "qid": "Q152252",
+  "status": "skip",
+  "why": "A public square and traffic junction, not one building."
+ },
+ {
+  "id": "syracuse-university",
+  "qid": "Q617433",
+  "status": "skip",
+  "why": "University campus; the lead is about the institution."
+ },
+ {
+  "id": "museum-of-fine-arts-boston",
+  "qid": "Q49133",
+  "status": "skip",
+  "why": "Lead is about the museum's collection, not the building's architecture."
+ },
+ {
+  "id": "the-architectural-work-of-le-corbusier",
+  "qid": "Q55619850",
+  "status": "skip",
+  "why": "A serial World Heritage listing of 17 sites, not one building."
+ },
+ {
+  "id": "j-paul-getty-museum",
+  "qid": "Q731126",
+  "status": "photo",
+  "why": "Richard Meier's Getty Center is his key built work; the lead places it on a cliff over the Sepulveda Pass.",
+  "name": "J. Paul Getty Museum",
+  "by": "Richard Meier",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": null,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Cluster"
+  ],
+  "features": "Richard Meier's Getty Center on a Los Angeles cliff over the Sepulveda Pass, with the Getty Villa on the Pacific.",
+  "commons_category": "Category:J. Paul Getty Museum",
+  "coords": [
+   34.0775,
+   -118.475
+  ],
+  "photos": [
+   {
+    "file": "File:Aerial Getty Museum.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "metro-bilbao",
+  "qid": "Q325309",
+  "status": "skip",
+  "why": "A rapid transit system: infrastructure, not a building."
+ },
+ {
+  "id": "jatiya-sangsad-bhaban",
+  "qid": "Q497536",
+  "status": "photo",
+  "why": "Louis Kahn's parliament complex, one of the largest legislative complexes in the world.",
+  "name": "Jatiya Sangsad Bhaban",
+  "by": "Louis Kahn",
+  "city": "Dhaka",
+  "cc": "BD",
+  "year": null,
+  "type": "Civic",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Louis Kahn's parliament complex in Dhaka, first designed for Pakistan, one of the largest legislative complexes in the world.",
+  "commons_category": "Category:National Parliament Building of Bangladesh",
+  "coords": [
+   23.76222,
+   90.37861
+  ],
+  "photos": [
+   {
+    "file": "File:বাংলাদেশের জাতীয় সংসদ ভবন 16.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jatiya Sangsad Bhaban 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "heydar-aliyev-cultural-center",
+  "qid": "Q43928",
+  "status": "photo",
+  "why": "Zaha Hadid's curved complex in Baku; the lead names its flowing style.",
+  "name": "Heydar Aliyev Cultural Center",
+  "by": "Zaha Hadid",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Parametric",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "Zaha Hadid's Baku complex, noted for a flowing, curved style that avoids sharp angles.",
+  "commons_category": "Category:Heydar Aliyev Cultural Center",
+  "coords": [
+   40.39528,
+   49.86694
+  ],
+  "photos": [
+   {
+    "file": "File:HEIDAR ALIYEV CENTER AND GARDENS.מרכז היידר אלייב והדשא.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Azarbaijan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "banya-bashi-mosque",
+  "qid": "Q790052",
+  "status": "photo",
+  "why": "Mimar Sinan's Sunni mosque of 1566 in Sofia, a famous architect's built work; the lead is short.",
+  "name": "Banya Bashi Mosque",
+  "by": "Mimar Sinan",
+  "city": "Sofia",
+  "cc": "BG",
+  "year": 1566,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Light from above"
+  ],
+  "features": "Mimar Sinan's Sunni mosque in Sofia, Bulgaria, from 1566.",
+  "commons_category": "Category:Banyabaşı Mosque",
+  "coords": [
+   42.69951,
+   23.32258
+  ],
+  "photos": [
+   {
+    "file": "File:05158-Banyabaşı Mosque, Sofia (8269331286).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Banya Bashi Mosque - Sofia.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Banya Bashi Mosque Sofia.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-vicens",
+  "qid": "Q746333",
+  "status": "photo",
+  "why": "Gaudi's first major project; the lead says it was built 1883-1885 and caused a sensation.",
+  "name": "Casa Vicens",
+  "by": "Antoni Gaudí",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1885,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Detail"
+  ],
+  "features": "Gaudí's first major project, built 1883–1885 in Gràcia with an orientalist, Neo-Mudéjar look.",
+  "commons_category": "Category:Casa Vicens",
+  "coords": [
+   41.40349,
+   2.15064
+  ],
+  "photos": [
+   {
+    "file": "File:Gaudí - Casa Vicens.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - Carrer de les Carolines - View NNW on Casa Vicens 1889 Antoni Gaudí I.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - Carrer de les Carolines - View North on Casa Vicens 1883-89 Antoni Gaudí II.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "german-pavilion-barcelona",
+  "qid": "Q807915",
+  "status": "photo",
+  "why": "Mies van der Rohe's 1929 pavilion, a landmark of modern architecture named in the lead.",
+  "name": "German Pavilion, Barcelona",
+  "by": "Ludwig Mies van der Rohe, Lilly Reich",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1929,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Geometry",
+   "Free plan"
+  ],
+  "features": "Mies van der Rohe's 1929 pavilion, simple in form, with marble, onyx and travertine; rebuilt 1986.",
+  "commons_category": "Category:Barcelona-Pavillon",
+  "coords": [
+   41.37056,
+   2.15
+  ],
+  "photos": [
+   {
+    "file": "File:Barcelona-Pavillon, July 2014 (08).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Barcelona Pavilion, Barcelona, 2010.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "arab-world-institute",
+  "qid": "Q860166",
+  "status": "unsure",
+  "why": "Nouvel's institute, but no main photo: the sheet shows the river and trees, not the building clearly.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sabarmati-ashram",
+  "qid": "Q1410702",
+  "status": "skip",
+  "why": "Gandhi's ashram: the lead is about his residence, and the photos show historic huts, not a clear architectural work."
+ },
+ {
+  "id": "luis-barragan-house-and-studio",
+  "qid": "Q1046414",
+  "status": "photo",
+  "why": "Barragán's own house and studio, a key Mexican modern work; the lead gives its date and role.",
+  "name": "Luis Barragán House and Studio",
+  "by": "Luis Barragán",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": 1948,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Courtyard",
+   "Water"
+  ],
+  "features": "Barragán's own house and studio in Mexico City, built in 1948 and a museum since 1994.",
+  "commons_category": "Category:Luis Barragán House and Studio",
+  "coords": [
+   19.41111,
+   -99.1925
+  ],
+  "photos": [
+   {
+    "file": "File:Luis Barragan House exterior 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Luis Barragán House facade looking north along General Francisco Ramirez.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "city-gate",
+  "qid": "Q2044535",
+  "status": "photo",
+  "why": "Renzo Piano's 2014 gate into Valletta, a modern landmark named in the lead. prep lists earlier gate designers first.",
+  "name": "City Gate",
+  "by": "Francesco Laparelli, Tumas Dingli, Renzo Piano",
+  "city": "Valletta",
+  "cc": "MT",
+  "year": 2014,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Renzo Piano's gate into Valletta, built 2011–2014 on the site of four earlier gates.",
+  "commons_category": "Category:Valletta City Gate",
+  "coords": [
+   35.89617,
+   14.50931
+  ],
+  "photos": [
+   {
+    "file": "File:City Gate, Valletta 002.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "karadozbey-mosque",
+  "qid": "Q1729060",
+  "status": "photo",
+  "why": "Mimar Sinan's mosque in Mostar, one of the region's largest; a famous architect's built work.",
+  "name": "Karadozbey Mosque",
+  "by": "Mimar Sinan",
+  "city": "Mostar",
+  "cc": "BA",
+  "year": 1557,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "Sinan's mosque in Mostar, with a large dome and a 34.5-metre minaret, rebuilt in 2004.",
+  "commons_category": "Category:Karadzozbey Mosque (Mostar)",
+  "coords": [
+   43.34138,
+   17.81391
+  ],
+  "photos": [
+   {
+    "file": "File:Karadjoz-Bey's Mosque 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mostar, 2013 (07).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "minneapolis-institute-of-art",
+  "qid": "Q1700481",
+  "status": "skip",
+  "why": "Lead is about the museum and its collection, not the building."
+ },
+ {
+  "id": "unipol-dome",
+  "qid": "Q64825395",
+  "status": "skip",
+  "why": "An indoor sports and concert arena; the lead gives no design reason."
+ },
+ {
+  "id": "sambadrome-marques-de-sapucai",
+  "qid": "Q281521",
+  "status": "skip",
+  "why": "A parade and stadium venue; the lead gives no design reason."
+ },
+ {
+  "id": "gruppo-mondadori",
+  "qid": "Q85355",
+  "status": "skip",
+  "why": "Lead is about the publishing company, not the building."
+ },
+ {
+  "id": "russia-tower",
+  "qid": "Q767873",
+  "status": "skip",
+  "why": "A cancelled skyscraper project, not built."
+ },
+ {
+  "id": "guggenheim-abu-dhabi",
+  "qid": "Q1321116",
+  "status": "skip",
+  "why": "Not yet built; the lead gives a planned opening, so there is no completion year."
+ },
+ {
+  "id": "praca-dos-tres-poderes",
+  "qid": "Q1704545",
+  "status": "skip",
+  "why": "A government plaza of several buildings; the lead describes the square."
+ },
+ {
+  "id": "st-nicholas-greek-orthodox-church",
+  "qid": "Q18157",
+  "status": "photo",
+  "why": "Calatrava's church, consecrated in 2022; the lead names the architect and the church's role in the World Trade Center.",
+  "name": "St. Nicholas Greek Orthodox Church",
+  "by": "Santiago Calatrava",
+  "city": "New York",
+  "cc": "US",
+  "year": 2022,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Calatrava's Greek Orthodox church and shrine in the World Trade Center, consecrated in 2022.",
+  "commons_category": "Category:St. Nicholas Greek Orthodox Church",
+  "coords": [
+   40.7103,
+   -74.0139
+  ],
+  "photos": [
+   {
+    "file": "File:St. Nicholas Greek Orthodox Church - 195245115.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Nicholas Greek Orthodox Church and National Shrine (55312935307).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hotel-solvay",
+  "qid": "Q2671145",
+  "status": "photo",
+  "why": "Horta's Art Nouveau town house, a key precedent named in the lead.",
+  "name": "Hôtel Solvay",
+  "by": "Victor Horta",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": 1900,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Promenade"
+  ],
+  "features": "Victor Horta's Art Nouveau town house in Brussels, designed for Armand Solvay and built 1895–1900.",
+  "commons_category": "Category:Hôtel Solvay",
+  "coords": [
+   50.82632,
+   4.36528
+  ],
+  "photos": [
+   {
+    "file": "File:Avenue Louise 224 Louizalaan Brussels 2012-08.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pampulha",
+  "qid": "Q590564",
+  "status": "skip",
+  "why": "A district of Belo Horizonte, not one building; the lead describes the region."
+ },
+ {
+  "id": "assumption-of-mary-cathedral-hiroshima",
+  "qid": "Q4425941",
+  "status": "photo",
+  "why": "Togo Murano's memorial cathedral, a postwar landmark named in the lead; built 1950-1954.",
+  "name": "Assumption of Mary Cathedral, Hiroshima",
+  "by": "Togo Murano, Kenzō Tange",
+  "city": "Hiroshima",
+  "cc": "JP",
+  "year": 1954,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Togo Murano's memorial cathedral in Hiroshima, built as a tribute to victims of war and the atomic bomb.",
+  "commons_category": "Category:Memorial Cathedral for World Peace",
+  "coords": [
+   34.39564,
+   132.46778
+  ],
+  "photos": [
+   {
+    "file": "File:Assumption of Mary Cathedral, Hiroshima.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:広島世界平和記念聖堂01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "peoples-palace-damascus",
+  "qid": "Q5868468",
+  "status": "unsure",
+  "why": "Presidential palace; the lead is clear, but no photos were found for the sheet.",
+  "note": "no main photo"
+ },
+ {
+  "id": "estadio-serra-dourada",
+  "qid": "Q924172",
+  "status": "unsure",
+  "why": "Pritzker-winner's stadium, but no clear exterior photo of the whole stadium: the rest are inside the stands.",
+  "note": "no main photo"
+ },
+ {
+  "id": "plaza-de-toros-de-pamplona",
+  "qid": "Q2033759",
+  "status": "skip",
+  "why": "A bullring: a venue, and the lead gives no design reason."
+ },
+ {
+  "id": "defterdar-mosque",
+  "qid": "Q2058733",
+  "status": "unsure",
+  "why": "Sinan's mosque, but the sheet shows only interiors and courtyard details, no whole-building exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "khusrawiyya-mosque",
+  "qid": "Q4022689",
+  "status": "skip",
+  "why": "Destroyed in the Syrian civil war; the lead describes a lost mosque, now a ruin."
+ },
+ {
+  "id": "dongdaemun-design-plaza-park",
+  "qid": "Q5295847",
+  "status": "unsure",
+  "why": "Zaha Hadid's landmark, but the main photo is at night and the others are details, crowds or the roof.",
+  "note": "no main photo"
+ },
+ {
+  "id": "gropiusstadt",
+  "qid": "Q677917",
+  "status": "skip",
+  "why": "A housing estate; the lead names Gropius only as the namesake."
+ },
+ {
+  "id": "crown-sydney",
+  "qid": "Q16890775",
+  "status": "skip",
+  "why": "Hotel and apartment tower; the lead gives height and use, not design."
+ },
+ {
+  "id": "museum-tinguely",
+  "qid": "Q180904",
+  "status": "unsure",
+  "why": "Botta's 1996 museum, but the sheet has only interiors and people, no exterior of the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "usonia",
+  "qid": "Q2032468",
+  "status": "skip",
+  "why": "A style for a class of houses, not one building."
+ },
+ {
+  "id": "caracas-museum-of-fine-arts",
+  "qid": "Q2630111",
+  "status": "unsure",
+  "why": "Villanueva's museum with a Brutalist wing named in the lead, but the photo files name another museum (Museo de Arte Contemporáneo), so the building cannot be confirmed by eye.",
+  "note": "photo may be another building"
+ },
+ {
+  "id": "villa-la-roche",
+  "qid": "Q3278824",
+  "status": "unsure",
+  "why": "Le Corbusier's Villa La Roche, but the sheet shows furniture, a roof terrace and portraits, no whole-building exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sukhna-lake",
+  "qid": "Q7333197",
+  "status": "skip",
+  "why": "A reservoir and wildlife lake, not a building."
+ },
+ {
+  "id": "taliesin",
+  "qid": "Q734970",
+  "status": "unsure",
+  "why": "Wright's house-studio complex, but the house is small in every frame and there is no close whole-building view.",
+  "note": "no main photo"
+ },
+ {
+  "id": "uob-plaza",
+  "qid": "Q888068",
+  "status": "photo",
+  "why": "Tange's late-modernist twin towers; the lead names the architect and the style.",
+  "name": "UOB Plaza",
+  "by": "Kenzō Tange",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Geometry",
+   "Pilotis"
+  ],
+  "features": "Kenzo Tange's late-modernist twin towers in Singapore, joined by a podium on four columns.",
+  "commons_category": "Category:UOB Plaza",
+  "coords": [
+   1.2853,
+   103.8508
+  ],
+  "photos": [
+   {
+    "file": "File:UOBnOUB.JPG",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "university-of-science-and-technology-houari-boumediene",
+  "qid": "Q3181219",
+  "status": "photo",
+  "why": "Niemeyer's university campus near Algiers, inaugurated in 1974; the lead names the architect.",
+  "name": "University of Science and Technology, Houari Boumediene",
+  "by": "Oscar Niemeyer",
+  "city": "Bab-Ezzouar",
+  "cc": "DZ",
+  "year": 1974,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Cluster",
+   "Monumentality"
+  ],
+  "features": "Niemeyer's university campus near Algiers, inaugurated in 1974.",
+  "commons_category": "Category:Université des sciences et de la technologie Houari-Boumediene",
+  "coords": [
+   36.7144,
+   3.18222
+  ],
+  "photos": [
+   {
+    "file": "File:USTHB en été.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:USTHB.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "caferaga-medresseh",
+  "qid": "Q3301243",
+  "status": "unsure",
+  "why": "Sinan's medrese, but the photos are courtyard views and details, with no clear whole-building exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "hajji-ahmed-the-ducat-minters-mosque",
+  "qid": "Q3503439",
+  "status": "photo",
+  "why": "Sinan's 1574 mosque complex, one of the town's most recognisable symbols, per the lead.",
+  "name": "Hajji Ahmed the Ducat Minter's Mosque",
+  "by": "Mimar Sinan",
+  "city": "Livno",
+  "cc": "BA",
+  "year": 1574,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Mimar Sinan's mosque complex in Livno, one of the town's most recognisable symbols, completed in 1574.",
+  "commons_category": "Category:Hajji Ahmed the Ducat Minter's Mosque",
+  "coords": [
+   43.83333,
+   17
+  ],
+  "photos": [
+   {
+    "file": "File:Džamija-Livno00523.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Džamija-Livno00520.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "al-adiliyah-mosque",
+  "qid": "Q4702150",
+  "status": "skip",
+  "why": "A former mosque now in partial ruins."
+ },
+ {
+  "id": "interbau",
+  "qid": "Q569926",
+  "status": "skip",
+  "why": "An exhibition project of many buildings, not one building."
+ },
+ {
+  "id": "ennis-house",
+  "qid": "Q578184",
+  "status": "photo",
+  "why": "Wright's Mayan Revival concrete textile-block house, completed in 1925; the lead names the architect.",
+  "name": "Ennis House",
+  "by": "Frank Lloyd Wright",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1925,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Exposed concrete"
+  ],
+  "features": "Wright's Mayan Revival house of concrete textile blocks in Los Angeles, completed in 1925.",
+  "commons_category": "Category:Ennis House",
+  "coords": [
+   34.11611,
+   -118.29278
+  ],
+  "photos": [
+   {
+    "file": "File:Ennis House front view 2005.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ennis House 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "thessaloniki-concert-hall",
+  "qid": "Q7783471",
+  "status": "unsure",
+  "why": "Isozaki's concert hall, but the sheet has no photos for it.",
+  "note": "no main photo"
+ },
+ {
+  "id": "vivian-beaumont-theater",
+  "qid": "Q176205",
+  "status": "photo",
+  "why": "Saarinen's Broadway theatre at Lincoln Center; the lead calls it one of his last structures.",
+  "name": "Vivian Beaumont Theater",
+  "by": "Eero Saarinen",
+  "city": "New York",
+  "cc": "US",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Cluster",
+   "Promenade"
+  ],
+  "features": "Eero Saarinen's Broadway theatre at Lincoln Center, one of his last structures, in New York City.",
+  "commons_category": "Category:Vivian Beaumont Theater",
+  "coords": [
+   40.77361,
+   -73.98417
+  ],
+  "photos": [
+   {
+    "file": "File:Lincoln Center Nov 2023 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:New York Vivian Beaumont Theater-20120520-RM-192313.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "porto-carras",
+  "qid": "Q1885884",
+  "status": "skip",
+  "why": "A resort hotel; the lead is about its tourism, not its design."
+ },
+ {
+  "id": "muradie-mosque",
+  "qid": "Q1953480",
+  "status": "photo",
+  "why": "Mimar Sinan's mosque in Vlorë, built 1537–1542 and a designated cultural monument.",
+  "name": "Muradie Mosque",
+  "by": "Mimar Sinan",
+  "city": "Vlorë",
+  "cc": "AL",
+  "year": 1542,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Mimar Sinan's mosque in Vlorë, built 1537–1542 on a central square.",
+  "commons_category": "Category:Muradie Mosque",
+  "coords": [
+   40.46904,
+   19.49093
+  ],
+  "photos": [
+   {
+    "file": "File:Muradie Mosque Vlore - Exterior and Minaret.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Murachi Mosque, Vlora, Albania.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "turia-garden",
+  "qid": "Q2713406",
+  "status": "skip",
+  "why": "A city park, not a building."
+ },
+ {
+  "id": "one-detroit-center",
+  "qid": "Q3124927",
+  "status": "unsure",
+  "why": "Johnson and Burgee office tower, but the street views cut off the tower and the rest are skyline views.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sokollu-mehmed-pasha-mosque-luleburgaz",
+  "qid": "Q38174028",
+  "status": "photo",
+  "why": "Sinan's mosque of 1565-1570 for the grand vizier Sokollu Mehmed Pasha; the lead names the architect.",
+  "name": "Sokollu Mehmed Pasha Mosque, Lüleburgaz",
+  "by": "Mimar Sinan",
+  "city": "Lüleburgaz",
+  "cc": "TR",
+  "year": 1569,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Cluster"
+  ],
+  "features": "Sinan's mosque in Lüleburgaz, commissioned by the grand vizier Sokollu Mehmed Pasha.",
+  "commons_category": "Category:Sokollu Mehmet Paşa complex in Lüleburgaz",
+  "coords": [
+   41.4075,
+   27.35139
+  ],
+  "photos": [
+   {
+    "file": "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0059.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0051.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "swedish-centre-for-architecture-and-design",
+  "qid": "Q4356728",
+  "status": "skip",
+  "why": "A national museum of architecture; the lead is about the institution, not the building."
+ },
+ {
+  "id": "opera-nouvel",
+  "qid": "Q9496",
+  "status": "photo",
+  "why": "Jean Nouvel's redesign of Lyon's opera house, done between 1985 and 1993; the lead names the architect.",
+  "name": "Opéra Nouvel",
+  "by": "Jean Nouvel",
+  "city": "Lyon",
+  "cc": "FR",
+  "year": 1993,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Jean Nouvel's redesign of Lyon's opera house, formerly the Grand Théâtre, done between 1985 and 1993.",
+  "commons_category": "Category:Opéra de Lyon",
+  "coords": [
+   45.76783,
+   4.83661
+  ],
+  "photos": [
+   {
+    "file": "File:Place de la Comédie (Lyon, 2025).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tiranas-rock",
+  "qid": "Q128995824",
+  "status": "skip",
+  "why": "Not yet built; the lead describes a planned tower."
+ },
+ {
+  "id": "wells-fargo-center",
+  "qid": "Q1631887",
+  "status": "photo",
+  "why": "Johnson's Denver tower, completed in 1983 and nicknamed for its curved crown; the lead names the architect.",
+  "name": "Wells Fargo Center",
+  "by": "Philip Johnson",
+  "city": "Denver",
+  "cc": "US",
+  "year": 1983,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Philip Johnson's Denver tower, nicknamed the Cash Register Building for its curved top floors.",
+  "commons_category": "Category:Wells Fargo Center (Denver)",
+  "coords": [
+   39.7446,
+   -104.985
+  ],
+  "photos": [
+   {
+    "file": "File:WellsFargoCenter.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wells Fargo Center, October 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pertev-pasa-mosque",
+  "qid": "Q18209673",
+  "status": "photo",
+  "why": "Sinan's mosque in İzmit, completed 1579; a famous architect's built work.",
+  "name": "Pertev Paşa Mosque",
+  "by": "Mimar Sinan",
+  "city": "İzmit",
+  "cc": "TR",
+  "year": 1579,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Mimar Sinan's mosque in İzmit, also called the New Friday Mosque, dated 1579.",
+  "commons_category": "Category:Pertev Pasha Mosque",
+  "coords": [
+   40.7628,
+   29.931
+  ],
+  "photos": [
+   {
+    "file": "File:Yeni cuma camii (1) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yeni cuma camii (1) 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nevigeser-wallfahrtsdom",
+  "qid": "Q1982229",
+  "status": "photo",
+  "why": "Böhm's brutalist pilgrimage church, consecrated in 1968; the lead names the architect and style.",
+  "name": "Nevigeser Wallfahrtsdom",
+  "by": "Gottfried Böhm",
+  "city": "Velbert",
+  "cc": "DE",
+  "year": 1968,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Gottfried Böhm's brutalist pilgrimage church in Neviges, consecrated in 1968.",
+  "commons_category": "Category:Maria Königin des Friedens (Neviges)",
+  "coords": [
+   51.31278,
+   7.0875
+  ],
+  "photos": [
+   {
+    "file": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2023-05-Wallfahrtskirche-Maria-Koenigin-des-Friedens-Neviges-2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lumbracle",
+  "qid": "Q2437999",
+  "status": "photo",
+  "why": "Calatrava's landscaped walk and sculpture garden in Valencia, completed in 2001; the lead names the architect.",
+  "name": "L'Umbracle",
+  "by": "Santiago Calatrava",
+  "city": "Valencia",
+  "cc": "ES",
+  "year": 2001,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Promenade",
+   "Structure as expression"
+  ],
+  "features": "Calatrava's sculpture garden and landscaped walk in Valencia's City of Arts and Sciences, planted with native species.",
+  "commons_category": "Category:L'Umbracle",
+  "coords": [
+   39.45547,
+   -0.35401
+  ],
+  "photos": [
+   {
+    "file": "File:Umbráculo, Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 43.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 39.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "425-park-avenue",
+  "qid": "Q2631826",
+  "status": "photo",
+  "why": "Foster + Partners' office tower, completed October 2022; the lead names the architect and date.",
+  "name": "425 Park Avenue",
+  "by": "Norman Foster",
+  "city": "New York",
+  "cc": "US",
+  "year": 2022,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Foster + Partners' redevelopment of an office tower on Park Avenue, completed in October 2022.",
+  "commons_category": "Category:425 Park Avenue",
+  "coords": [
+   40.76054,
+   -73.97116
+  ],
+  "photos": [
+   {
+    "file": "File:425 Park Avenue (55272623292).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Park Av Nov 2021 24.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "191-peachtree-tower",
+  "qid": "Q2746067",
+  "status": "unsure",
+  "why": "Johnson and Burgee tower, but the photos show it among other towers, never as the clear subject.",
+  "note": "no main photo"
+ },
+ {
+  "id": "frank-lloyd-wright-home-and-studio",
+  "qid": "Q3069681",
+  "status": "photo",
+  "why": "Wright's own home and studio, built in 1889 with a Prairie-style studio; the lead names the architect.",
+  "name": "Frank Lloyd Wright Home and Studio",
+  "by": "Frank Lloyd Wright",
+  "city": "Oak Park",
+  "cc": "US",
+  "year": 1889,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Wright's home and studio in Oak Park, built in 1889 and expanded with a Prairie-style studio.",
+  "commons_category": "Category:Frank Lloyd Wright Home and Studio",
+  "coords": [
+   41.89413,
+   -87.79978
+  ],
+  "photos": [
+   {
+    "file": "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (6).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (5).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gazi-hajdar-kadi-mosque",
+  "qid": "Q3324863",
+  "status": "photo",
+  "why": "Sinan's mosque in Bitola (1561); the lead says it was restored and reopened in 2016.",
+  "name": "Gazi Hajdar Kadi Mosque",
+  "by": "Mimar Sinan",
+  "city": "Bitola",
+  "cc": "MK",
+  "year": 1561,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Mimar Sinan's mosque in Bitola, restored and reopened to the public in November 2016.",
+  "commons_category": "Category:Hajdar Kadi Mosque (Bitola)",
+  "coords": [
+   41.03499,
+   21.33847
+  ],
+  "photos": [
+   {
+    "file": "File:Haydar kadı mosque Bt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "collegio-teresiano",
+  "qid": "Q567753",
+  "status": "photo",
+  "why": "Gaudí's Modernisme school building, a Spanish Asset of Cultural Interest, per the lead.",
+  "name": "Collegio Teresiano",
+  "by": "Antoni Gaudí",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": null,
+  "type": "Education",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Gaudí's Modernisme school building in Barcelona, declared a Spanish Asset of Cultural Interest.",
+  "commons_category": "Category:Col·legi de les Teresianes, Barcelona",
+  "coords": [
+   41.39977,
+   2.1332
+  ],
+  "photos": [
+   {
+    "file": "File:009 Col·legi de les Teresianes.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nagaragawa-convention-center",
+  "qid": "Q1086088",
+  "status": "photo",
+  "why": "Tadao Ando's convention centre in Gifu; the photos show its concrete form clearly.",
+  "name": "Nagaragawa Convention Center",
+  "by": "Tadao Ando",
+  "city": "Gifu",
+  "cc": "JP",
+  "year": null,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Tadao Ando's convention centre in Gifu, part of the World Event and Convention Complex.",
+  "commons_category": "Category:Nagaragawa Convention Center",
+  "coords": [
+   35.44121,
+   136.76856
+  ],
+  "photos": [
+   {
+    "file": "File:Nagaragawa Convention Center 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:NCC & GMH 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "amalita-collection",
+  "qid": "Q1108956",
+  "status": "unsure",
+  "why": "Viñoly's art museum, but the one photo shows a glass base and a sculpture, not a clear whole-building view.",
+  "note": "no main photo"
+ },
+ {
+  "id": "rustem-pasha-caravanserai",
+  "qid": "Q1647825",
+  "status": "photo",
+  "why": "Sinan's 1561 caravanserai in Edirne, now a hotel; the lead names the architect and date.",
+  "name": "Rüstem Pasha Caravanserai",
+  "by": "Mimar Sinan",
+  "city": "Edirne",
+  "cc": "TR",
+  "year": 1561,
+  "type": "Hospitality",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Cluster",
+   "Monumentality"
+  ],
+  "features": "Sinan's 1561 caravanserai in Edirne, with a courtyard and hammam, now a 110-room hotel.",
+  "commons_category": "Category:Rüstem Pasha Caravanserai (Edirne)",
+  "coords": [
+   41.67567,
+   26.55553
+  ],
+  "photos": [
+   {
+    "file": "File:Kervansaray Hotel - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rüstem Pasha Caravanserai Hotel area in 2024 5957.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ }
+]
