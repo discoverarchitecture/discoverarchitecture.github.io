@@ -307064,7 +307064,71 @@ window.BUILDINGS = [
   "commons": "Category:Exelon Pavilions",
   "lead": "File:Southwest Exelon Pavilion.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Southwest_Exelon_Pavilion.jpg/1280px-Southwest_Exelon_Pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/exelon-pavilions/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Southwest Exelon Pavilion in Millennium Park, Chicago, Illinois, USA (as seen from the Nichols Bridgeway)",
+    "credit": "Ruhrfisch  (  talk  )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Southwest_Exelon_Pavilion.jpg",
+    "file": "File:Southwest Exelon Pavilion.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/20080602_Southwest_Exelon_Pavilion.jpg/1280px-20080602_Southwest_Exelon_Pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/exelon-pavilions/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Southwest Exelon Pavilion",
+    "credit": "TonyTheTiger   ( t / c / bio / WP:CHICAGO / WP:LOTM )",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20080602_Southwest_Exelon_Pavilion.jpg",
+    "file": "File:20080602 Southwest Exelon Pavilion.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Downtown_Chicago_Illinois_Nov05_img_2698.jpg/1280px-Downtown_Chicago_Illinois_Nov05_img_2698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/exelon-pavilions/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_Chicago_Illinois_Nov05_img_2698.jpg",
+    "file": "File:Downtown Chicago Illinois Nov05 img 2698.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Downtown_Chicago_Illinois_Nov05_stg_2567.jpg/1280px-Downtown_Chicago_Illinois_Nov05_stg_2567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/exelon-pavilions/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dori",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Downtown_Chicago_Illinois_Nov05_stg_2567.jpg",
+    "file": "File:Downtown Chicago Illinois Nov05 stg 2567.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Inside_Exelon_Pavilion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/exelon-pavilions/thumbs/4.webp",
+    "w": 1280,
+    "h": 841,
+    "kind": "Interior",
+    "caption": "Interior · Inside Northwest en:Exelon Pavilion",
+    "credit": "Adilia Ortega (flickr user fleurdalily)",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Exelon_Pavilion.jpg",
+    "file": "File:Inside Exelon Pavilion.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "winslow-house-river-forest-illinois",
@@ -307088,7 +307152,73 @@ window.BUILDINGS = [
   "commons": "Category:William H. Winslow House",
   "lead": "File:William H. Winslow House Front Facade.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/William_H._Winslow_House_Front_Facade.jpg/1280px-William_H._Winslow_House_Front_Facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winslow-house-river-forest-illinois/thumbs/0.webp",
+    "w": 1280,
+    "h": 792,
+    "kind": "Exterior",
+    "caption": "Exterior · 515 Auvergne Place, River Forest IL USA Architect: Frank Lloyd Wright, 1894",
+    "credit": "Oak Park Cycle Club",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:William_H._Winslow_House_Front_Facade.jpg",
+    "file": "File:William H. Winslow House Front Facade.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Winslow%2C_William_H_House_and_Stable.JPG/1280px-Winslow%2C_William_H_House_and_Stable.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winslow-house-river-forest-illinois/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · William H",
+    "credit": "Thshriver",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Winslow,_William_H_House_and_Stable.JPG",
+    "file": "File:Winslow, William H House and Stable.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/William_H._Winslow_House%2C_Auvergne_Place%2C_River_Forest%2C_Cook_County%2C_IL_HABS_ILL%2C16-RIVFO%2C1-_%28sheet_1_of_5%29.png/1280px-William_H._Winslow_House%2C_Auvergne_Place%2C_River_Forest%2C_Cook_County%2C_IL_HABS_ILL%2C16-RIVFO%2C1-_%28sheet_1_of_5%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winslow-house-river-forest-illinois/thumbs/2.webp",
+    "w": 1280,
+    "h": 1006,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:William_H._Winslow_House,_Auvergne_Place,_River_Forest,_Cook_County,_IL_HABS_ILL,16-RIVFO,1-_(sheet_1_of_5).png",
+    "file": "File:William H. Winslow House, Auvergne Place, River Forest, Cook County, IL HABS ILL,16-RIVFO,1- (sheet 1 of 5).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/William_H._Winslow_House%2C_Auvergne_Place%2C_River_Forest%2C_Cook_County%2C_IL_HABS_ILL%2C16-RIVFO%2C1-_%28sheet_2_of_5%29.png/1280px-William_H._Winslow_House%2C_Auvergne_Place%2C_River_Forest%2C_Cook_County%2C_IL_HABS_ILL%2C16-RIVFO%2C1-_%28sheet_2_of_5%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winslow-house-river-forest-illinois/thumbs/3.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:William_H._Winslow_House,_Auvergne_Place,_River_Forest,_Cook_County,_IL_HABS_ILL,16-RIVFO,1-_(sheet_2_of_5).png",
+    "file": "File:William H. Winslow House, Auvergne Place, River Forest, Cook County, IL HABS ILL,16-RIVFO,1- (sheet 2 of 5).png"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Winslow_House_floor_plan.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/winslow-house-river-forest-illinois/thumbs/4.webp",
+    "w": 1089,
+    "h": 864,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Winslow_House_floor_plan.gif",
+    "file": "File:Winslow House floor plan.gif"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "villa-tammekann",
@@ -307109,10 +307239,38 @@ window.BUILDINGS = [
   ],
   "study": "Aalto's first design built outside Finland, and the only one in Estonia or the Baltic states.",
   "qid": null,
-  "commons": null,
+  "commons": "Category:Villa Tammekann",
   "lead": "File:Villa Tammekann, Tartu, Estonia.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Villa_Tammekann%2C_Tartu%2C_Estonia.jpg/1280px-Villa_Tammekann%2C_Tartu%2C_Estonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tammekann/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ninara",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tammekann,_Tartu,_Estonia.jpg",
+    "file": "File:Villa Tammekann, Tartu, Estonia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Villa_Tammekann%2C_Tartu%2C_Estonia_-_54182634052.jpg/1280px-Villa_Tammekann%2C_Tartu%2C_Estonia_-_54182634052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tammekann/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ninara",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tammekann,_Tartu,_Estonia_-_54182634052.jpg",
+    "file": "File:Villa Tammekann, Tartu, Estonia - 54182634052.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bigo-genoa",
@@ -307136,7 +307294,83 @@ window.BUILDINGS = [
   "commons": "Category:Grande Bigo of Genoa",
   "lead": "File:20160814 027 Genova - Genua - Porto Antico (29049889901).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/20160814_027_Genova_-_Genua_-_Porto_Antico_%2829049889901%29.jpg/1280px-20160814_027_Genova_-_Genua_-_Porto_Antico_%2829049889901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bigo-genoa/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · 20160814 027 Genova - Genua - Porto Antico",
+    "credit": "Sjaak Kempe  from Groningen, The Netherlands",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20160814_027_Genova_-_Genua_-_Porto_Antico_(29049889901).jpg",
+    "file": "File:20160814 027 Genova - Genua - Porto Antico (29049889901).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Bigo.jpg/1280px-Bigo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bigo-genoa/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Grande Bigo of Genoa",
+    "credit": "Alexdechi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bigo.jpg",
+    "file": "File:Bigo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Winda_bigo_1.jpg/1280px-Winda_bigo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bigo-genoa/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Winda Bigo w Genui",
+    "credit": "Panek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Winda_bigo_1.jpg",
+    "file": "File:Winda bigo 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bigo_panel.jpg/1280px-Bigo_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bigo-genoa/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Winda Bigo w Genui",
+    "credit": "Panek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bigo_panel.jpg",
+    "file": "File:Bigo panel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Genoa_-_View_from_Bigo_-_1.jpg/1280px-Genoa_-_View_from_Bigo_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bigo-genoa/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Context",
+    "caption": "Context · Genoa (Liguria, Italy) - View from the Bigo - Old town, Palazzo San Giorgio and elevated highway",
+    "credit": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Genoa_-_View_from_Bigo_-_1.jpg",
+    "file": "File:Genoa - View from Bigo - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Genoa_-_View_from_Bigo_-_2.jpg/1280px-Genoa_-_View_from_Bigo_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bigo-genoa/thumbs/5.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Context",
+    "caption": "Context · Genoa (Liguria, Italy) - View from the Bigo - Seaside buildings",
+    "credit": "Benjamin Smith",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Genoa_-_View_from_Bigo_-_2.jpg",
+    "file": "File:Genoa - View from Bigo - 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "brasilia-digital-tv-tower",
@@ -307160,7 +307394,97 @@ window.BUILDINGS = [
   "commons": "Category:Torre de TV Digital de Brasília",
   "lead": "File:Torre de TV Digital.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Torre_de_TV_Digital.JPG/1280px-Torre_de_TV_Digital.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/0.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre de TV Digital em Sobradinho, DF, Brasil",
+    "credit": "Matheusgf78",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital.JPG",
+    "file": "File:Torre de TV Digital.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Torre_de_TV_Digital_de_Brasilia._%2815345189027%29.jpg/1280px-Torre_de_TV_Digital_de_Brasilia._%2815345189027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre de TV Digital de Brasilia",
+    "credit": "Marinelson Almeida - Traveling through Brazil  from Niteroi, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital_de_Brasilia._(15345189027).jpg",
+    "file": "File:Torre de TV Digital de Brasilia. (15345189027).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Torre_de_TV_Digital_de_Brasilia._%2815345596090%29.jpg/1280px-Torre_de_TV_Digital_de_Brasilia._%2815345596090%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Torre de TV Digital de Brasilia",
+    "credit": "Marinelson Almeida - Traveling through Brazil  from Niteroi, Brasil",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_de_TV_Digital_de_Brasilia._(15345596090).jpg",
+    "file": "File:Torre de TV Digital de Brasilia. (15345596090).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Roberto_Castro_Torre_de_TV_Digital_Bras%C3%ADlia_DF_%2840908827661%29.jpg/1280px-Roberto_Castro_Torre_de_TV_Digital_Bras%C3%ADlia_DF_%2840908827661%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Crédito obrigatório: Roberto Castro - MTUR",
+    "credit": "MTur Destinos",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Roberto_Castro_Torre_de_TV_Digital_Bras%C3%ADlia_DF_(40908827661).jpg",
+    "file": "File:Roberto Castro Torre de TV Digital Brasília DF (40908827661).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Panorama_Pra%C3%A7a_dos_Tr%C3%AAs_Poderes_-_Torre_TV_-_Eixo_Monumental_BSB_07_2014_9910.jpg/1280px-Panorama_Pra%C3%A7a_dos_Tr%C3%AAs_Poderes_-_Torre_TV_-_Eixo_Monumental_BSB_07_2014_9910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 292,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_Pra%C3%A7a_dos_Tr%C3%AAs_Poderes_-_Torre_TV_-_Eixo_Monumental_BSB_07_2014_9910.jpg",
+    "file": "File:Panorama Praça dos Três Poderes - Torre TV - Eixo Monumental BSB 07 2014 9910.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Panorama_Lago_Norte_%26_Eixo_Monumental_BSB_07_2014_9908.jpg/1280px-Panorama_Lago_Norte_%26_Eixo_Monumental_BSB_07_2014_9908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 256,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_Lago_Norte_%26_Eixo_Monumental_BSB_07_2014_9908.jpg",
+    "file": "File:Panorama Lago Norte & Eixo Monumental BSB 07 2014 9908.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Panorama_Lago_Norte_%26_Plano_Piloto_BSB_07_2014_9921.jpg/1280px-Panorama_Lago_Norte_%26_Plano_Piloto_BSB_07_2014_9921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/brasilia-digital-tv-tower/thumbs/6.webp",
+    "w": 1280,
+    "h": 270,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_Lago_Norte_%26_Plano_Piloto_BSB_07_2014_9921.jpg",
+    "file": "File:Panorama Lago Norte & Plano Piloto BSB 07 2014 9921.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "central-saint-giles",
@@ -307184,7 +307508,83 @@ window.BUILDINGS = [
   "commons": "Category:Central Saint Giles (London)",
   "lead": "File:London (5258879642).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/London_%285258879642%29.jpg/1280px-London_%285258879642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-giles/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · December 2010",
+    "credit": "Cristian Bortes  from Cluj-Napoca, Romania",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_(5258879642).jpg",
+    "file": "File:London (5258879642).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Central_St._Giles_Court_3.jpg/1280px-Central_St._Giles_Court_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-giles/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Central St",
+    "credit": "Peter Alfred Hess",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_St._Giles_Court_3.jpg",
+    "file": "File:Central St. Giles Court 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Central_St._Giles_Court_2.jpg/1280px-Central_St._Giles_Court_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-giles/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Central St",
+    "credit": "Peter Alfred Hess",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_St._Giles_Court_2.jpg",
+    "file": "File:Central St. Giles Court 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Central_Saint_Giles_5_%285842836646%29.jpg/1280px-Central_Saint_Giles_5_%285842836646%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-giles/thumbs/3.webp",
+    "w": 866,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Saint_Giles_5_(5842836646).jpg",
+    "file": "File:Central Saint Giles 5 (5842836646).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Central_Saint_Giles_Office_Building_-_Holborn_-_sculpture_-_ob_08.jpg/1280px-Central_Saint_Giles_Office_Building_-_Holborn_-_sculpture_-_ob_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-giles/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Modern architecture in Holborn",
+    "credit": "Elliott Brown  from Birmingham, United Kingdom",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_Saint_Giles_Office_Building_-_Holborn_-_sculpture_-_ob_08.jpg",
+    "file": "File:Central Saint Giles Office Building - Holborn - sculpture - ob 08.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/William_by_Rebecca_Warren%2C_Central_St_Giles%2C_London.jpg/1280px-William_by_Rebecca_Warren%2C_Central_St_Giles%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-saint-giles/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · William by Rebecca Warren, Central St Giles, London",
+    "credit": "Ham",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:William_by_Rebecca_Warren,_Central_St_Giles,_London.jpg",
+    "file": "File:William by Rebecca Warren, Central St Giles, London.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cleveland-clinic-lou-ruvo-center-for-brain-health",
@@ -307208,7 +307608,83 @@ window.BUILDINGS = [
   "commons": "Category:Lou Ruvo Center for Brain Health",
   "lead": "File:Lou Ruvo Center - South West Corner - 2010-12-10.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lou_Ruvo_Center_-_South_West_Corner_-_2010-12-10.JPG/1280px-Lou_Ruvo_Center_-_South_West_Corner_-_2010-12-10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cleveland-clinic-lou-ruvo-center-for-brain-health/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Cygnusloop99",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_-_South_West_Corner_-_2010-12-10.JPG",
+    "file": "File:Lou Ruvo Center - South West Corner - 2010-12-10.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Brain_Health_Center_-_Las_Vegas_%2837437251794%29.jpg/1280px-Brain_Health_Center_-_Las_Vegas_%2837437251794%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cleveland-clinic-lou-ruvo-center-for-brain-health/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Brain Health Center - Las Vegas",
+    "credit": "Janusz Sobolewski  from Mississauga, Ontario, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brain_Health_Center_-_Las_Vegas_(37437251794).jpg",
+    "file": "File:Brain Health Center - Las Vegas (37437251794).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Center_for_Brain_Health_gf_422.jpg/1280px-Center_for_Brain_Health_gf_422.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cleveland-clinic-lou-ruvo-center-for-brain-health/thumbs/2.webp",
+    "w": 984,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Luo Ruvo Center for Brain Health, Las Vegas Nevada",
+    "credit": "Gillfoto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Center_for_Brain_Health_gf_422.jpg",
+    "file": "File:Center for Brain Health gf 422.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Clark_County_Government_Center.png/1280px-Clark_County_Government_Center.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cleveland-clinic-lou-ruvo-center-for-brain-health/thumbs/3.webp",
+    "w": 1280,
+    "h": 681,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Carol M. Highsmith",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Clark_County_Government_Center.png",
+    "file": "File:Clark County Government Center.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Lou_Ruvo_Center_-_2010-12-10_-_Atrium.JPG/1280px-Lou_Ruvo_Center_-_2010-12-10_-_Atrium.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cleveland-clinic-lou-ruvo-center-for-brain-health/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · the atrium in the middle of the Lou Ruvo Center for Brain Health",
+    "credit": "Cygnusloop99",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_-_2010-12-10_-_Atrium.JPG",
+    "file": "File:Lou Ruvo Center - 2010-12-10 - Atrium.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Lou_Ruvo_Center_%2820287814466%29.jpg/1280px-Lou_Ruvo_Center_%2820287814466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cleveland-clinic-lou-ruvo-center-for-brain-health/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · This building in Downtown Las Vegas is home to the Cleveland Clinic Lou Ruvo Center for Brain Health",
+    "credit": "Janusz Sobolewski  from Mississauga, Ontario, Canada",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_(20287814466).jpg",
+    "file": "File:Lou Ruvo Center (20287814466).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "thomas-h-gale-house",
@@ -307232,7 +307708,59 @@ window.BUILDINGS = [
   "commons": "Category:Thomas H. Gale House",
   "lead": "File:Oak Park Il Thomas Gale House2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Oak_Park_Il_Thomas_Gale_House2.jpg/1280px-Oak_Park_Il_Thomas_Gale_House2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/thomas-h-gale-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Thomas H",
+    "credit": "IvoShandor",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Oak_Park_Il_Thomas_Gale_House2.jpg",
+    "file": "File:Oak Park Il Thomas Gale House2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Thomas_H._Gale_House_%287417325784%29.jpg/1280px-Thomas_H._Gale_House_%287417325784%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/thomas-h-gale-house/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Thomas H",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_H._Gale_House_(7417325784).jpg",
+    "file": "File:Thomas H. Gale House (7417325784).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Thomas_H._Gale_House_%28706409343%29.jpg/1280px-Thomas_H._Gale_House_%28706409343%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/thomas-h-gale-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 950,
+    "kind": "Exterior",
+    "caption": "Exterior · 1027 West Chicago Avenue, Oak Park IL USA Architect: Frank Lloyd Wright, 1892",
+    "credit": "Oak Park Cycle Club  from Oak Park, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_H._Gale_House_(706409343).jpg",
+    "file": "File:Thomas H. Gale House (706409343).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Oak_Park_Il_Thomas_Gale_House1.jpg/1280px-Oak_Park_Il_Thomas_Gale_House1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/thomas-h-gale-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Thomas H",
+    "credit": "IvoShandor",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Oak_Park_Il_Thomas_Gale_House1.jpg",
+    "file": "File:Oak Park Il Thomas Gale House1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gunma-insect-world",
@@ -307256,7 +307784,59 @@ window.BUILDINGS = [
   "commons": "Category:Gunma Insect World",
   "lead": "File:Glasshouse of Gunma Insect World.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Glasshouse_of_Gunma_Insect_World.jpg/1280px-Glasshouse_of_Gunma_Insect_World.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-insect-world/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Glasshouse of Gunma Insect World ",
+    "credit": "岡部碩道",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Glasshouse_of_Gunma_Insect_World.jpg",
+    "file": "File:Glasshouse of Gunma Insect World.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/TANAKA_Juuyoh_-_Orange_Tiger_%28by%29.jpg/1280px-TANAKA_Juuyoh_-_Orange_Tiger_%28by%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-insect-world/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Gunma Insect World , Kiryuu-shi(city) Gunma-ken(Prefecture), Japan",
+    "credit": "TANAKA Juuyoh",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TANAKA_Juuyoh_-_Orange_Tiger_(by).jpg",
+    "file": "File:TANAKA Juuyoh - Orange Tiger (by).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/A_road_for_walk_at_Gunma_Insect_World.jpg/1280px-A_road_for_walk_at_Gunma_Insect_World.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-insect-world/thumbs/2.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · A road for walk at Gunma Insect World ",
+    "credit": "岡部碩道",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:A_road_for_walk_at_Gunma_Insect_World.jpg",
+    "file": "File:A road for walk at Gunma Insect World.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Japanese_rhinoceros_beetle_at_Gunma_Insect_World.jpg/1280px-Japanese_rhinoceros_beetle_at_Gunma_Insect_World.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gunma-insect-world/thumbs/3.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Japanese rhinoceros beetle at Gunma Insect World ",
+    "credit": "岡部碩道",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Japanese_rhinoceros_beetle_at_Gunma_Insect_World.jpg",
+    "file": "File:Japanese rhinoceros beetle at Gunma Insect World.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "centro-internacional-de-ferias-y-congresos-de-tenerife",
@@ -307280,7 +307860,59 @@ window.BUILDINGS = [
   "commons": "Category:Centro Internacional de Ferias y Congresos (Santa Cruz de Tenerife)",
   "lead": "File:Congresos 03.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Congresos_03.jpg/1280px-Congresos_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centro-internacional-de-ferias-y-congresos-de-tenerife/thumbs/0.webp",
+    "w": 1280,
+    "h": 789,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Koppchen",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Congresos_03.jpg",
+    "file": "File:Congresos 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/At_Tenerife_2020_837.jpg/1280px-At_Tenerife_2020_837.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centro-internacional-de-ferias-y-congresos-de-tenerife/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · International Fair and Congress Center (Santa Cruz de Tenerife)",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Tenerife_2020_837.jpg",
+    "file": "File:At Tenerife 2020 837.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/At_Tenerife_2020_819.jpg/1280px-At_Tenerife_2020_819.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centro-internacional-de-ferias-y-congresos-de-tenerife/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · International Fair and Congress Center (Santa Cruz de Tenerife)",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Tenerife_2020_819.jpg",
+    "file": "File:At Tenerife 2020 819.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/At_Tenerife_2026_601_-_Centro_Internacional_de_Ferias_y_Congresos%2C_Santa_Cruz.jpg/1280px-At_Tenerife_2026_601_-_Centro_Internacional_de_Ferias_y_Congresos%2C_Santa_Cruz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/centro-internacional-de-ferias-y-congresos-de-tenerife/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Centro Internacional de Ferias y Congresos from the Palmetum de Santa Cruz de Tenerife",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Tenerife_2026_601_-_Centro_Internacional_de_Ferias_y_Congresos,_Santa_Cruz.jpg",
+    "file": "File:At Tenerife 2026 601 - Centro Internacional de Ferias y Congresos, Santa Cruz.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kimmel-center-for-the-performing-arts",
@@ -307304,7 +307936,83 @@ window.BUILDINGS = [
   "commons": "Category:Kimmel Center for the Performing Arts",
   "lead": "File:Kimmel Center for the Performing Arts (53587020645).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Kimmel_Center_for_the_Performing_Arts_%2853587020645%29.jpg/1280px-Kimmel_Center_for_the_Performing_Arts_%2853587020645%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kimmel-center-for-the-performing-arts/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Philadelphia, PA",
+    "credit": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimmel_Center_for_the_Performing_Arts_(53587020645).jpg",
+    "file": "File:Kimmel Center for the Performing Arts (53587020645).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Kimmel-center.JPG/1280px-Kimmel-center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kimmel-center-for-the-performing-arts/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kimmel Center for the Performing Arts ]",
+    "credit": "User:Spikebrennan",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimmel-center.JPG",
+    "file": "File:Kimmel-center.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Kimmel_Center_Perleman.JPG/1280px-Kimmel_Center_Perleman.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kimmel-center-for-the-performing-arts/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Perleman Hall in the Kimmel Center 300 S",
+    "credit": "Smallbones",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimmel_Center_Perleman.JPG",
+    "file": "File:Kimmel Center Perleman.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Kimmel_Center_Verizon_Hall.JPG/1280px-Kimmel_Center_Verizon_Hall.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kimmel-center-for-the-performing-arts/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Verizon Hall in the Kimmel Center 300 S",
+    "credit": "Smallbones",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimmel_Center_Verizon_Hall.JPG",
+    "file": "File:Kimmel Center Verizon Hall.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Kimmel_Center_interior.jpg/1280px-Kimmel_Center_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kimmel-center-for-the-performing-arts/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Kimmel Center interior",
+    "credit": "Ii2nmd",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimmel_Center_interior.jpg",
+    "file": "File:Kimmel Center interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kimmel_center_interior.JPG/1280px-Kimmel_center_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kimmel-center-for-the-performing-arts/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Kimmel Center for the Performing Arts interior",
+    "credit": "User:Spikebrennan",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Kimmel_center_interior.JPG",
+    "file": "File:Kimmel center interior.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "guell-pavilions",
@@ -307328,7 +308036,97 @@ window.BUILDINGS = [
   "commons": "Category:Pavellons Güell",
   "lead": "File:Pavellons Finca Güel.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Pavellons_Finca_G%C3%BCel.jpg/1280px-Pavellons_Finca_G%C3%BCel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guell-pavilions/thumbs/0.webp",
+    "w": 1280,
+    "h": 778,
+    "kind": "Exterior",
+    "caption": "Exterior · Pavellons i porta nord de la Finca Güell",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavellons_Finca_G%C3%BCel.jpg",
+    "file": "File:Pavellons Finca Güel.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Barcelona_3695.JPG/1280px-Barcelona_3695.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guell-pavilions/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona",
+    "credit": "Freepenguin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_3695.JPG",
+    "file": "File:Barcelona 3695.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Pavellons_G%C3%BCell_01.jpg/1280px-Pavellons_G%C3%BCell_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guell-pavilions/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Pavellons Güell, Barcelona",
+    "credit": "Joe Mabel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavellons_G%C3%BCell_01.jpg",
+    "file": "File:Pavellons Güell 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Pavellons_G%C3%BCell_02.jpg/1280px-Pavellons_G%C3%BCell_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guell-pavilions/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Pavellons Güell, Barcelona",
+    "credit": "Joe Mabel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavellons_G%C3%BCell_02.jpg",
+    "file": "File:Pavellons Güell 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Reial_C%C3%A0tedra_Gaud%C3%AD.JPG/1280px-Reial_C%C3%A0tedra_Gaud%C3%AD.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guell-pavilions/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior de la seu Reial Càtedra Gaudí, als Pavellons Güell de Pedralbes (Barcelona), amb el Dr",
+    "credit": "Oliver-Bonjoch",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reial_C%C3%A0tedra_Gaud%C3%AD.JPG",
+    "file": "File:Reial Càtedra Gaudí.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/WLM14ES_-_Barcelona_Finca_G%C3%BCell_60_02_de_julio_de_2011_-_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/guell-pavilions/thumbs/5.webp",
+    "w": 900,
+    "h": 1200,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Turol Jones, un artista de cojones  from Villanueva del Cascajal, República Independiente de Mi Casa",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WLM14ES_-_Barcelona_Finca_G%C3%BCell_60_02_de_julio_de_2011_-_.jpg",
+    "file": "File:WLM14ES - Barcelona Finca Güell 60 02 de julio de 2011 - .jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Catalunya_en_Miniatura-Pavellons_G%C3%BCell.JPG/1280px-Catalunya_en_Miniatura-Pavellons_G%C3%BCell.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/guell-pavilions/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Catalunya en Miniatura-Pavellons Güell",
+    "credit": "Jordiferrer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Catalunya_en_Miniatura-Pavellons_G%C3%BCell.JPG",
+    "file": "File:Catalunya en Miniatura-Pavellons Güell.JPG"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "albany-city-hall",
@@ -307352,7 +308150,59 @@ window.BUILDINGS = [
   "commons": "Category:Albany City Hall",
   "lead": "File:AlbanyNYCityHall.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/AlbanyNYCityHall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/albany-city-hall/thumbs/0.webp",
+    "w": 945,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · City Hall of Albany , New York ",
+    "credit": "UpstateNYer",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AlbanyNYCityHall.jpg",
+    "file": "File:AlbanyNYCityHall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rear_of_Albany_City_Hall_and_Corning_Park.jpg/1280px-Rear_of_Albany_City_Hall_and_Corning_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/albany-city-hall/thumbs/1.webp",
+    "w": 909,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Corning Park, in the rear of Albany City Hall",
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rear_of_Albany_City_Hall_and_Corning_Park.jpg",
+    "file": "File:Rear of Albany City Hall and Corning Park.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/H._H._Richardson_-_Albany%2C_NY_-_Albany_City_Hall_%28A%29.jpg/1280px-H._H._Richardson_-_Albany%2C_NY_-_Albany_City_Hall_%28A%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/albany-city-hall/thumbs/2.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Opened in 1883",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H._H._Richardson_-_Albany,_NY_-_Albany_City_Hall_(A).jpg",
+    "file": "File:H. H. Richardson - Albany, NY - Albany City Hall (A).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/H._H._Richardson_-_Albany%2C_NY_-_Albany_City_Hall_%28B%29.jpg/1280px-H._H._Richardson_-_Albany%2C_NY_-_Albany_City_Hall_%28B%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/albany-city-hall/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Opened in 1883",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H._H._Richardson_-_Albany,_NY_-_Albany_City_Hall_(B).jpg",
+    "file": "File:H. H. Richardson - Albany, NY - Albany City Hall (B).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "pavilion-of-human-passions",
@@ -307376,7 +308226,83 @@ window.BUILDINGS = [
   "commons": "Category:Temple of Human Passions",
   "lead": "File:Belgique - Bruxelles - Pavillon des Passions humaines - 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Belgique_-_Bruxelles_-_Pavillon_des_Passions_humaines_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Pavillon_des_Passions_humaines_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pavilion-of-human-passions/thumbs/0.webp",
+    "w": 1280,
+    "h": 1207,
+    "kind": "Exterior",
+    "caption": "Exterior · Belgique - Bruxelles - Pavillon des Passions humaines (architecte Victor Horta - 1890-1897)",
+    "credit": "EmDee",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Pavillon_des_Passions_humaines_-_01.jpg",
+    "file": "File:Belgique - Bruxelles - Pavillon des Passions humaines - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Paviljoen_der_Menselijke_Driften_17.jpg/1280px-Paviljoen_der_Menselijke_Driften_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pavilion-of-human-passions/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Paviljoen der Menselijke Driften",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paviljoen_der_Menselijke_Driften_17.jpg",
+    "file": "File:Paviljoen der Menselijke Driften 17.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pavillon_des_Passions_Humaines_%2814032842272%29.jpg/1280px-Pavillon_des_Passions_Humaines_%2814032842272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pavilion-of-human-passions/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Stephane Mignon  from Bruxelles, Belgique (Europe)",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavillon_des_Passions_Humaines_(14032842272).jpg",
+    "file": "File:Pavillon des Passions Humaines (14032842272).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Temple_of_Human_Passions_-_Cinquantenaire_-_Brussels%2C_Belgium_-_DSC08425.jpg/1280px-Temple_of_Human_Passions_-_Cinquantenaire_-_Brussels%2C_Belgium_-_DSC08425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pavilion-of-human-passions/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Temple of Human Passions - Cinquantenaire - Brussels, Belgium",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_of_Human_Passions_-_Cinquantenaire_-_Brussels,_Belgium_-_DSC08425.jpg",
+    "file": "File:Temple of Human Passions - Cinquantenaire - Brussels, Belgium - DSC08425.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pavilion_of_the_Human_Passions_%28door%29_-_Jef_Lambeaux.jpg/1280px-Pavilion_of_the_Human_Passions_%28door%29_-_Jef_Lambeaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pavilion-of-human-passions/thumbs/4.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Detail",
+    "caption": "Detail · Jubilee Park Museum in Brussels",
+    "credit": "Sam.Donvil",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavilion_of_the_Human_Passions_(door)_-_Jef_Lambeaux.jpg",
+    "file": "File:Pavilion of the Human Passions (door) - Jef Lambeaux.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Pavilion_of_the_Human_Passions_%28in_context%29_-_Jef_Lambeaux.jpg/1280px-Pavilion_of_the_Human_Passions_%28in_context%29_-_Jef_Lambeaux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pavilion-of-human-passions/thumbs/5.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Detail",
+    "caption": "Detail · The Human Passions is a giant marble bas-relief, by Jef Lambeaux, sculpted between 1886 and 1898",
+    "credit": "Sam.Donvil",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pavilion_of_the_Human_Passions_(in_context)_-_Jef_Lambeaux.jpg",
+    "file": "File:Pavilion of the Human Passions (in context) - Jef Lambeaux.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "miyazaki-prefectural-museum-of-nature-and-history",
@@ -307400,7 +308326,71 @@ window.BUILDINGS = [
   "commons": "Category:Miyazaki Prefectural Museum of Nature and History",
   "lead": "File:Miyazaki Miyazaki Prefectural Museum 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Miyazaki_Miyazaki_Prefectural_Museum_1.jpg/1280px-Miyazaki_Miyazaki_Prefectural_Museum_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyazaki-prefectural-museum-of-nature-and-history/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Miyazaki Prefectural Museum of Nature and History, Miyazaki, Miyazaki, Japan",
+    "credit": "京浜にけ  at  Japanese Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyazaki_Miyazaki_Prefectural_Museum_1.jpg",
+    "file": "File:Miyazaki Miyazaki Prefectural Museum 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Miyazaki_Prefectural_Museum_of_Nature_and_History_20170319.jpg/1280px-Miyazaki_Prefectural_Museum_of_Nature_and_History_20170319.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyazaki-prefectural-museum-of-nature-and-history/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyazaki_Prefectural_Museum_of_Nature_and_History_20170319.jpg",
+    "file": "File:Miyazaki Prefectural Museum of Nature and History 20170319.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cherry_blossoms_in_Miyazaki_Prefectural_Museum_of_Nature_and_History_2.jpg/1280px-Cherry_blossoms_in_Miyazaki_Prefectural_Museum_of_Nature_and_History_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyazaki-prefectural-museum-of-nature-and-history/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cherry_blossoms_in_Miyazaki_Prefectural_Museum_of_Nature_and_History_2.jpg",
+    "file": "File:Cherry blossoms in Miyazaki Prefectural Museum of Nature and History 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Miyzaki_Prefectual_Museum_%2C_%E5%AE%AE%E5%B4%8E%E7%9C%8C%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8_-_panoramio.jpg/1280px-Miyzaki_Prefectual_Museum_%2C_%E5%AE%AE%E5%B4%8E%E7%9C%8C%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyazaki-prefectural-museum-of-nature-and-history/thumbs/3.webp",
+    "w": 1280,
+    "h": 460,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "z tanuki",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Miyzaki_Prefectual_Museum_,_%E5%AE%AE%E5%B4%8E%E7%9C%8C%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8_-_panoramio.jpg",
+    "file": "File:Miyzaki Prefectual Museum , 宮崎県総合博物館 - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Garden_of_Miyazaki_Prefectural_Museum_of_Nature_and_History.jpg/1280px-Garden_of_Miyazaki_Prefectural_Museum_of_Nature_and_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/miyazaki-prefectural-museum-of-nature-and-history/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Garden_of_Miyazaki_Prefectural_Museum_of_Nature_and_History.jpg",
+    "file": "File:Garden of Miyazaki Prefectural Museum of Nature and History.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "400-west-market",
@@ -307424,7 +308414,83 @@ window.BUILDINGS = [
   "commons": "Category:AEGON Center",
   "lead": "File:AegonCtr2030.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/AegonCtr2030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/400-west-market/thumbs/0.webp",
+    "w": 860,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Aegon Center, Downtown Louisville, KY",
+    "credit": "Bbadgett",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AegonCtr2030.JPG",
+    "file": "File:AegonCtr2030.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/AEGON_Center.JPG/1280px-AEGON_Center.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/400-west-market/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The AEGON Center in Louisville, Kentucky",
+    "credit": "Michael Baker",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AEGON_Center.JPG",
+    "file": "File:AEGON Center.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/AegonCtr2033.JPG/1280px-AegonCtr2033.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/400-west-market/thumbs/2.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Aegon Center, Downtown Louisville, Kentucky",
+    "credit": "Bbadgett",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:AegonCtr2033.JPG",
+    "file": "File:AegonCtr2033.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/400_West_Market_Building.jpg/1280px-400_West_Market_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/400-west-market/thumbs/3.webp",
+    "w": 790,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the Tallest building In the state of Kentucky, USA (background)",
+    "credit": "Gizmoguru",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:400_West_Market_Building.jpg",
+    "file": "File:400 West Market Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Louisville.Innenstadt.JPG/1280px-Louisville.Innenstadt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/400-west-market/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Louisville.Innenstadt, Sicht von 4.Straße",
+    "credit": "Symbiosus  16:34, 28. Mär. 2007 (CEST)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louisville.Innenstadt.JPG",
+    "file": "File:Louisville.Innenstadt.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jefferson_County_KY_Courthouse_1.jpg/1280px-Jefferson_County_KY_Courthouse_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/400-west-market/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Front of the Jefferson County Courthouse , located at 517 W",
+    "credit": "Bedford  at  en.wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jefferson_County_KY_Courthouse_1.jpg",
+    "file": "File:Jefferson County KY Courthouse 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "curve-theatre",
@@ -307448,7 +308514,83 @@ window.BUILDINGS = [
   "commons": "Category:Curve (theatre)",
   "lead": "File:Curve Leicester full panorama.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Curve_Leicester_full_panorama.jpg/1280px-Curve_Leicester_full_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/curve-theatre/thumbs/0.webp",
+    "w": 1280,
+    "h": 796,
+    "kind": "Context",
+    "caption": "Context · Curve is a theatre in Leicester , England ",
+    "credit": "NotFromUtrecht",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Curve_Leicester_full_panorama.jpg",
+    "file": "File:Curve Leicester full panorama.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Curve%2C_Leicester_-_5_September_2026.jpg/1280px-Curve%2C_Leicester_-_5_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/curve-theatre/thumbs/1.webp",
+    "w": 1280,
+    "h": 1246,
+    "kind": "Exterior",
+    "caption": "Exterior · The Curve theatre in Leicester",
+    "credit": "Aethonatic",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Curve,_Leicester_-_5_September_2026.jpg",
+    "file": "File:Curve, Leicester - 5 September 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/0212-Leicester-20100617-061.JPG/1280px-0212-Leicester-20100617-061.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/curve-theatre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Curve, Leicester",
+    "credit": "Delokipik",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:0212-Leicester-20100617-061.JPG",
+    "file": "File:0212-Leicester-20100617-061.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Curve_Leicester_exterior_2.jpg/1280px-Curve_Leicester_exterior_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/curve-theatre/thumbs/3.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Curve theatre, Leicester, UK",
+    "credit": "NotFromUtrecht",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Curve_Leicester_exterior_2.jpg",
+    "file": "File:Curve Leicester exterior 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Leicester_Pride_2026_-_Orton_Square_%283%29_-_5_September_2026.jpg/1280px-Leicester_Pride_2026_-_Orton_Square_%283%29_-_5_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/curve-theatre/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Leicester Pride 2026 at Orton Square, Leicester pre-parade",
+    "credit": "Aethonatic",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leicester_Pride_2026_-_Orton_Square_(3)_-_5_September_2026.jpg",
+    "file": "File:Leicester Pride 2026 - Orton Square (3) - 5 September 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Curve_Theatre_from_the_wing.JPG/1280px-Curve_Theatre_from_the_wing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/curve-theatre/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Curve theatre stage and auditorium from the corridor with the wall lifted",
+    "credit": "KlickingKarl",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Curve_Theatre_from_the_wing.JPG",
+    "file": "File:Curve Theatre from the wing.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hagia-sophia-hurrem-sultan-bathhouse",
@@ -307472,7 +308614,83 @@ window.BUILDINGS = [
   "commons": "Category:Haseki Hürrem Sultan Hamamı",
   "lead": "File:Bath of Roxelane Istanbul 2007.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Bath_of_Roxelane_Istanbul_2007.jpg/1280px-Bath_of_Roxelane_Istanbul_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia-hurrem-sultan-bathhouse/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gryffindor   This   panoramic image  was created with  Autostitch   (stitched images may differ from",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Bath_of_Roxelane_Istanbul_2007.jpg",
+    "file": "File:Bath of Roxelane Istanbul 2007.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/20180115_HagiaSophia_7955_%2825291143197%29.jpg/1280px-20180115_HagiaSophia_7955_%2825291143197%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia-hurrem-sultan-bathhouse/thumbs/1.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · 20180115_HagiaSophia_7955",
+    "credit": "Ray Swi-hymn  from Sijhih-Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20180115_HagiaSophia_7955_(25291143197).jpg",
+    "file": "File:20180115 HagiaSophia 7955 (25291143197).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Istanbul_hurrem_sultan_hamam_%2822955273810%29.jpg/1280px-Istanbul_hurrem_sultan_hamam_%2822955273810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia-hurrem-sultan-bathhouse/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · istanbul_hurrem_sultan_hamam",
+    "credit": "Damien",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_hurrem_sultan_hamam_(22955273810).jpg",
+    "file": "File:Istanbul hurrem sultan hamam (22955273810).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Baths_of_Roxelana_%285989180544%29.jpg/1280px-Baths_of_Roxelana_%285989180544%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia-hurrem-sultan-bathhouse/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Hagia Sophia, Istanbul",
+    "credit": "Aleem Yousaf",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baths_of_Roxelana_(5989180544).jpg",
+    "file": "File:Baths of Roxelana (5989180544).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Fountain_House%2C_Istanbul_6055919226.jpg/1280px-Fountain_House%2C_Istanbul_6055919226.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia-hurrem-sultan-bathhouse/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Haseki Hürrem Sultan Hamamı",
+    "credit": "Clara S.",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fountain_House,_Istanbul_6055919226.jpg",
+    "file": "File:Fountain House, Istanbul 6055919226.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Hurrem_Sultan_Hamam%2C_Roxelana_Bath_Interior.jpg/1280px-Hurrem_Sultan_Hamam%2C_Roxelana_Bath_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hagia-sophia-hurrem-sultan-bathhouse/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Satayman",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hurrem_Sultan_Hamam,_Roxelana_Bath_Interior.jpg",
+    "file": "File:Hurrem Sultan Hamam, Roxelana Bath Interior.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "trinity-church-boston",
@@ -307496,7 +308714,83 @@ window.BUILDINGS = [
   "commons": "Category:Trinity Church, Boston",
   "lead": "File:Trinity Church, Boston, Massachusetts - front oblique view.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Trinity_Church%2C_Boston%2C_Massachusetts_-_front_oblique_view.JPG/1280px-Trinity_Church%2C_Boston%2C_Massachusetts_-_front_oblique_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/trinity-church-boston/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Trinity Church, Boston, Massachusetts - front oblique view",
+    "credit": "The original uploader was  Daderot  at  English Wikipedia .",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trinity_Church,_Boston,_Massachusetts_-_front_oblique_view.JPG",
+    "file": "File:Trinity Church, Boston, Massachusetts - front oblique view.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/H._H._Richardson_-_Boston%2C_MA_-_Trinity_Church_%28J%29.jpg/1280px-H._H._Richardson_-_Boston%2C_MA_-_Trinity_Church_%28J%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/trinity-church-boston/thumbs/1.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Opened in 1877",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H._H._Richardson_-_Boston,_MA_-_Trinity_Church_(J).jpg",
+    "file": "File:H. H. Richardson - Boston, MA - Trinity Church (J).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Phillips_Brooks_Monument%2C_Trinity_Church%2C_Boston%2C_Massachusetts.jpg/1280px-Phillips_Brooks_Monument%2C_Trinity_Church%2C_Boston%2C_Massachusetts.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/trinity-church-boston/thumbs/2.webp",
+    "w": 700,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phillips_Brooks_Monument,_Trinity_Church,_Boston,_Massachusetts.jpg",
+    "file": "File:Phillips Brooks Monument, Trinity Church, Boston, Massachusetts.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/H._H._Richardson_-_Boston%2C_MA_-_Trinity_Church_%28K%29.jpg/1280px-H._H._Richardson_-_Boston%2C_MA_-_Trinity_Church_%28K%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/trinity-church-boston/thumbs/3.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Opened in 1877",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H._H._Richardson_-_Boston,_MA_-_Trinity_Church_(K).jpg",
+    "file": "File:H. H. Richardson - Boston, MA - Trinity Church (K).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trinity_Church_ceiling.jpg/1280px-Trinity_Church_ceiling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/trinity-church-boston/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Ceiling of Trinity Church in Boston",
+    "credit": "Bill  Damon",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trinity_Church_ceiling.jpg",
+    "file": "File:Trinity Church ceiling.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Trinity_Church_in_Boston_-_2014-04-20.jpg/1280px-Trinity_Church_in_Boston_-_2014-04-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/trinity-church-boston/thumbs/5.webp",
+    "w": 1280,
+    "h": 838,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Trinity Church in Boston",
+    "credit": "Bill  Damon",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trinity_Church_in_Boston_-_2014-04-20.jpg",
+    "file": "File:Trinity Church in Boston - 2014-04-20.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "juma-jami-mosque",
@@ -307520,7 +308814,83 @@ window.BUILDINGS = [
   "commons": "Category:Juma-Jami Mosque in Yevpatoria",
   "lead": "File:Eupatoria 04-14 img12 Juma Jami Mosque.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Eupatoria_04-14_img12_Juma_Jami_Mosque.jpg/1280px-Eupatoria_04-14_img12_Juma_Jami_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/juma-jami-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · The Juma Jami Mosque in Eupatoria, Crimean Peninsula",
+    "credit": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eupatoria_04-14_img12_Juma_Jami_Mosque.jpg",
+    "file": "File:Eupatoria 04-14 img12 Juma Jami Mosque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2021._%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F_PANO_20210722_185802.jpg/1280px-2021._%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F_PANO_20210722_185802.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/juma-jami-mosque/thumbs/1.webp",
+    "w": 1104,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Andrey Butko",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2021._%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F_PANO_20210722_185802.jpg",
+    "file": "File:2021. Евпатория PANO 20210722 185802.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Juma-Jami_Mosque_in_Yevpatoria_04.jpg/1280px-Juma-Jami_Mosque_in_Yevpatoria_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/juma-jami-mosque/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Juma-Jami Mosque in Yevpatoria",
+    "credit": "Dmytro Petishkin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juma-Jami_Mosque_in_Yevpatoria_04.jpg",
+    "file": "File:Juma-Jami Mosque in Yevpatoria 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Juma-Jami_Mosque_in_Eupatoria%2C_Crimea.jpg/1280px-Juma-Jami_Mosque_in_Eupatoria%2C_Crimea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/juma-jami-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 1120,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sergey Korovkin 84",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juma-Jami_Mosque_in_Eupatoria,_Crimea.jpg",
+    "file": "File:Juma-Jami Mosque in Eupatoria, Crimea.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Interiors_of_Juma-Jami_Mosque_in_Eupatoria_01.jpg/1280px-Interiors_of_Juma-Jami_Mosque_in_Eupatoria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/juma-jami-mosque/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interiors of Juma-Jami Mosque in Eupatoria",
+    "credit": "Dmytro Petishkin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interiors_of_Juma-Jami_Mosque_in_Eupatoria_01.jpg",
+    "file": "File:Interiors of Juma-Jami Mosque in Eupatoria 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Interiors_of_Juma-Jami_Mosque_in_Eupatoria_02.jpg/1280px-Interiors_of_Juma-Jami_Mosque_in_Eupatoria_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/juma-jami-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Interiors of Juma-Jami Mosque in Eupatoria",
+    "credit": "Dmytro Petishkin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interiors_of_Juma-Jami_Mosque_in_Eupatoria_02.jpg",
+    "file": "File:Interiors of Juma-Jami Mosque in Eupatoria 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sokollu-mehmed-pasha-mosque-kadirga",
@@ -307544,7 +308914,110 @@ window.BUILDINGS = [
   "commons": "Category:Sokollu Mehmet Pasha Mosque",
   "lead": "File:Sokollu Mehmet Pasha Camii exterior.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sokollu_Mehmet_Pasha_Camii_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/0.webp",
+    "w": 1061,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sokollu Mehmet Pasha Camii exterior view",
+    "credit": "MChew",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pasha_Camii_exterior.jpg",
+    "file": "File:Sokollu Mehmet Pasha Camii exterior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Istanbul_Sokollu_Mehmet_Pasha_mosque_december_2015_5249.jpg/1280px-Istanbul_Sokollu_Mehmet_Pasha_mosque_december_2015_5249.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/1.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · One of pictures taken during repeated visits over several years",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Sokollu_Mehmet_Pasha_mosque_december_2015_5249.jpg",
+    "file": "File:Istanbul Sokollu Mehmet Pasha mosque december 2015 5249.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sokullu_Mosque_-_Istanbul_-_Turkey_%2818837226744%29.jpg/1280px-Sokullu_Mosque_-_Istanbul_-_Turkey_%2818837226744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Sokullu Mosque - Istanbul - Turkey",
+    "credit": "Esin Üstün  from Istanbul, Turkey",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokullu_Mosque_-_Istanbul_-_Turkey_(18837226744).jpg",
+    "file": "File:Sokullu Mosque - Istanbul - Turkey (18837226744).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Istanbul_Sokollu_Mehmet_Pasha_Mosque_2002_378.jpg/1280px-Istanbul_Sokollu_Mehmet_Pasha_Mosque_2002_378.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/3.webp",
+    "w": 920,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · One of pictures scanned from slides, that themselves were taken in 2002",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Sokollu_Mehmet_Pasha_Mosque_2002_378.jpg",
+    "file": "File:Istanbul Sokollu Mehmet Pasha Mosque 2002 378.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Mehmet_Pasha_Mosque_17.jpg/1280px-Mehmet_Pasha_Mosque_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/4.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Sokollu Mehmet Pasha Mosque",
+    "credit": "Antoine Taveneaux",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mehmet_Pasha_Mosque_17.jpg",
+    "file": "File:Mehmet Pasha Mosque 17.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mehmet_Pasha_Mosque_18.jpg/1280px-Mehmet_Pasha_Mosque_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/5.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Sokollu Mehmet Pasha Mosque",
+    "credit": "Antoine Taveneaux",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mehmet_Pasha_Mosque_18.jpg",
+    "file": "File:Mehmet Pasha Mosque 18.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Sokollu_Mehmed_Pasha_Mosque_Kadirga_plan_Gurlitt_1912.jpg/1280px-Sokollu_Mehmed_Pasha_Mosque_Kadirga_plan_Gurlitt_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/6.webp",
+    "w": 1202,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Plan of the Sokollu Mehmed Pasha Mosque, Kadırga, Istanbul",
+    "credit": "Cornelius Gurlitt (1850-1938)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmed_Pasha_Mosque_Kadirga_plan_Gurlitt_1912.jpg",
+    "file": "File:Sokollu Mehmed Pasha Mosque Kadirga plan Gurlitt 1912.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sokollu_Mehmed_Pasha_Mosque_Kadirga_section_Gurlitt_1912.jpg/1280px-Sokollu_Mehmed_Pasha_Mosque_Kadirga_section_Gurlitt_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-kadirga/thumbs/7.webp",
+    "w": 1280,
+    "h": 831,
+    "kind": "Section",
+    "caption": "Section · Cross section of the Sokollu Mehmed Pasha Mosque, Kadırga, Istanbul",
+    "credit": "Cornelius Gurlitt (1850-1938)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmed_Pasha_Mosque_Kadirga_section_Gurlitt_1912.jpg",
+    "file": "File:Sokollu Mehmed Pasha Mosque Kadirga section Gurlitt 1912.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Section"
+  ],
+  "gv": 3
  },
  {
   "id": "zal-mahmud-pasha-mosque",
@@ -307568,7 +309041,83 @@ window.BUILDINGS = [
   "commons": "Category:Zal Mahmud Pasha Mosque",
   "lead": "File:Zal Mahmud Paşa Camii IMG 0221.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Zal_Mahmud_Pa%C5%9Fa_Camii_IMG_0221.jpg/1280px-Zal_Mahmud_Pa%C5%9Fa_Camii_IMG_0221.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zal-mahmud-pasha-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zal_Mahmud_Pa%C5%9Fa_Camii_IMG_0221.jpg",
+    "file": "File:Zal Mahmud Paşa Camii IMG 0221.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Zal_Mahmud_Pasha_Mosque.jpg/1280px-Zal_Mahmud_Pasha_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zal-mahmud-pasha-mosque/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Zalmahmut Paşa Camii in Eyüp",
+    "credit": "User:Darwinek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zal_Mahmud_Pasha_Mosque.jpg",
+    "file": "File:Zal Mahmud Pasha Mosque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Zal_Mahmud_Pa%C5%9Fa_Camii_IMG_1841.jpg/1280px-Zal_Mahmud_Pa%C5%9Fa_Camii_IMG_1841.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zal-mahmud-pasha-mosque/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zal_Mahmud_Pa%C5%9Fa_Camii_IMG_1841.jpg",
+    "file": "File:Zal Mahmud Paşa Camii IMG 1841.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Zal_Mahmud_Pasha_Mosque_DSCF8045.jpg/1280px-Zal_Mahmud_Pasha_Mosque_DSCF8045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zal-mahmud-pasha-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Zal Mahmud Pasha Mosque, Istanbul",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zal_Mahmud_Pasha_Mosque_DSCF8045.jpg",
+    "file": "File:Zal Mahmud Pasha Mosque DSCF8045.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Zal_Mahmut_Pasha_tomb_5111.jpg/1280px-Zal_Mahmut_Pasha_tomb_5111.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zal-mahmud-pasha-mosque/thumbs/4.webp",
+    "w": 932,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · In the lower grounds there is a mausoleum for the founder",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zal_Mahmut_Pasha_tomb_5111.jpg",
+    "file": "File:Zal Mahmut Pasha tomb 5111.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Zal_Mahmut_Pa%C5%9Fa_on_stairs_to_courtyard_in_2015_4701.jpg/1280px-Zal_Mahmut_Pa%C5%9Fa_on_stairs_to_courtyard_in_2015_4701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/zal-mahmud-pasha-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · A flight of stairs leads from the garden up to the courtyard",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zal_Mahmut_Pa%C5%9Fa_on_stairs_to_courtyard_in_2015_4701.jpg",
+    "file": "File:Zal Mahmut Paşa on stairs to courtyard in 2015 4701.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "atik-valide-mosque",
@@ -307592,7 +309141,83 @@ window.BUILDINGS = [
   "commons": "Category:Atik Valide Mosque",
   "lead": "File:Istanbul, üsküdar, moschea dell'atik valide, 1577-1583 circa, esterno, veduta della moschea e dei minareti.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_dell%27atik_valide%2C_1577-1583_circa%2C_esterno%2C_veduta_della_moschea_e_dei_minareti.jpg/1280px-Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_dell%27atik_valide%2C_1577-1583_circa%2C_esterno%2C_veduta_della_moschea_e_dei_minareti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atik-valide-mosque/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul,_%C3%BCsk%C3%BCdar,_moschea_dell%27atik_valide,_1577-1583_circa,_esterno,_veduta_della_moschea_e_dei_minareti.jpg",
+    "file": "File:Istanbul, üsküdar, moschea dell'atik valide, 1577-1583 circa, esterno, veduta della moschea e dei minareti.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Eski_Valide_Camii_IMG_4218.jpg/1280px-Eski_Valide_Camii_IMG_4218.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atik-valide-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eski_Valide_Camii_IMG_4218.jpg",
+    "file": "File:Eski Valide Camii IMG 4218.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Eski_Valide_Camii_IMG_4237.jpg/1280px-Eski_Valide_Camii_IMG_4237.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atik-valide-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eski_Valide_Camii_IMG_4237.jpg",
+    "file": "File:Eski Valide Camii IMG 4237.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_dell%27atik_valide%2C_1577-1583_circa%2C_interno_01.jpg/1280px-Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_dell%27atik_valide%2C_1577-1583_circa%2C_interno_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atik-valide-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul,_%C3%BCsk%C3%BCdar,_moschea_dell%27atik_valide,_1577-1583_circa,_interno_01.jpg",
+    "file": "File:Istanbul, üsküdar, moschea dell'atik valide, 1577-1583 circa, interno 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Atik_Valide_Mosque_exterior_5816.jpg/1280px-Atik_Valide_Mosque_exterior_5816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atik-valide-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · One of pictures taken from outside the wall around the mosque and its garden, or from inside that garden",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atik_Valide_Mosque_exterior_5816.jpg",
+    "file": "File:Atik Valide Mosque exterior 5816.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Atik_Valide_Mosque_DSCF4364.jpg/1280px-Atik_Valide_Mosque_DSCF4364.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/atik-valide-mosque/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Atik Valide Mosque, Istanbul",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Atik_Valide_Mosque_DSCF4364.jpg",
+    "file": "File:Atik Valide Mosque DSCF4364.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "osman-shah-mosque",
@@ -307616,7 +309241,83 @@ window.BUILDINGS = [
   "commons": "Category:Osman Shah Mosque",
   "lead": "File:Trikala Greece Kursum Mosque 3.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Trikala_Greece_Kursum_Mosque_3.jpg/1280px-Trikala_Greece_Kursum_Mosque_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osman-shah-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Kursum Mosque or Osman Shah Mosque in Trikala, Thessaly, Greece",
+    "credit": "Ava Babili",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trikala_Greece_Kursum_Mosque_3.jpg",
+    "file": "File:Trikala Greece Kursum Mosque 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/041_%CE%9A%CE%9F%CE%A5%CE%A1%CE%A3%CE%9F%CE%A5%CE%9C_%CE%A4%CE%96%CE%91%CE%9C%CE%99%2C%CE%A4%CE%A1%CE%99%CE%9A%CE%91%CE%9B%CE%91_7.2018.jpg/1280px-041_%CE%9A%CE%9F%CE%A5%CE%A1%CE%A3%CE%9F%CE%A5%CE%9C_%CE%A4%CE%96%CE%91%CE%9C%CE%99%2C%CE%A4%CE%A1%CE%99%CE%9A%CE%91%CE%9B%CE%91_7.2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osman-shah-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Draizis",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:041_%CE%9A%CE%9F%CE%A5%CE%A1%CE%A3%CE%9F%CE%A5%CE%9C_%CE%A4%CE%96%CE%91%CE%9C%CE%99,%CE%A4%CE%A1%CE%99%CE%9A%CE%91%CE%9B%CE%91_7.2018.jpg",
+    "file": "File:041 ΚΟΥΡΣΟΥΜ ΤΖΑΜΙ,ΤΡΙΚΑΛΑ 7.2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%CE%9A%CE%BF%CF%85%CF%81%CF%83%CE%BF%CF%8D%CE%BC_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF_3421.jpg/1280px-%CE%9A%CE%BF%CF%85%CF%81%CF%83%CE%BF%CF%8D%CE%BC_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF_3421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osman-shah-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The 16th century Osman Shah or Koursoum Mosque in Trikala",
+    "credit": "C messier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%9A%CE%BF%CF%85%CF%81%CF%83%CE%BF%CF%8D%CE%BC_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF_3421.jpg",
+    "file": "File:Κουρσούμ Τζαμί 3421.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%CE%9A%CE%BF%CF%85%CF%81%CF%83%CE%BF%CF%8D%CE%BC_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF_3424.jpg/1280px-%CE%9A%CE%BF%CF%85%CF%81%CF%83%CE%BF%CF%8D%CE%BC_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF_3424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osman-shah-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The 16th century Osman Shah or Koursoum Mosque in Trikala",
+    "credit": "C messier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%9A%CE%BF%CF%85%CF%81%CF%83%CE%BF%CF%8D%CE%BC_%CE%A4%CE%B6%CE%B1%CE%BC%CE%AF_3424.jpg",
+    "file": "File:Κουρσούμ Τζαμί 3424.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Int%C3%A9rieur_Mosqu%C3%A9e_Osman_Chah_-_Trikala_%28GR44%29_-_2022-03-22_-_1.jpg/1280px-Int%C3%A9rieur_Mosqu%C3%A9e_Osman_Chah_-_Trikala_%28GR44%29_-_2022-03-22_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osman-shah-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Intérieur de la mosquée Osman Chah, Trikala",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Mosqu%C3%A9e_Osman_Chah_-_Trikala_(GR44)_-_2022-03-22_-_1.jpg",
+    "file": "File:Intérieur Mosquée Osman Chah - Trikala (GR44) - 2022-03-22 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Int%C3%A9rieur_Mosqu%C3%A9e_Osman_Chah_-_Trikala_%28GR44%29_-_2022-03-22_-_2.jpg/1280px-Int%C3%A9rieur_Mosqu%C3%A9e_Osman_Chah_-_Trikala_%28GR44%29_-_2022-03-22_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osman-shah-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Intérieur de la mosquée Osman Chah, Trikala",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_Mosqu%C3%A9e_Osman_Chah_-_Trikala_(GR44)_-_2022-03-22_-_2.jpg",
+    "file": "File:Intérieur Mosquée Osman Chah - Trikala (GR44) - 2022-03-22 - 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mihrimah-sultan-mosque-uskudar",
@@ -307640,7 +309341,97 @@ window.BUILDINGS = [
   "commons": "Category:Mihrimah Sultan Mosque (Üsküdar)",
   "lead": "File:Üsküdar Mihrimah Sultan Camii.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%C3%9Csk%C3%BCdar_Mihrimah_Sultan_Camii.jpg/1280px-%C3%9Csk%C3%BCdar_Mihrimah_Sultan_Camii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Üsküdar Mihrimah Sultan Camii Uzaktan Çekim",
+    "credit": "Mrs.Akchays",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_Mihrimah_Sultan_Camii.jpg",
+    "file": "File:Üsküdar Mihrimah Sultan Camii.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mihrimah_Sultan_Mosque_%28%C3%9Csk%C3%BCdar%29_2.jpg/1280px-Mihrimah_Sultan_Mosque_%28%C3%9Csk%C3%BCdar%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bosphorus in 2026",
+    "credit": "Joseolgon",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mihrimah_Sultan_Mosque_(%C3%9Csk%C3%BCdar)_2.jpg",
+    "file": "File:Mihrimah Sultan Mosque (Üsküdar) 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Mihrimah_Sultan_Mosque_%28%C3%9Csk%C3%BCdar%29.jpg/1280px-Mihrimah_Sultan_Mosque_%28%C3%9Csk%C3%BCdar%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bosphorus in 2026",
+    "credit": "Joseolgon",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mihrimah_Sultan_Mosque_(%C3%9Csk%C3%BCdar).jpg",
+    "file": "File:Mihrimah Sultan Mosque (Üsküdar).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mihrimah_Sultan_Mosque_from_the_Bosphorus_-_20250825.jpg/1280px-Mihrimah_Sultan_Mosque_from_the_Bosphorus_-_20250825.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Mihrimah Sultan Mossque from the Bosphorus, Üsküdar, Istanbul, Turkey",
+    "credit": "mike",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mihrimah_Sultan_Mosque_from_the_Bosphorus_-_20250825.jpg",
+    "file": "File:Mihrimah Sultan Mosque from the Bosphorus - 20250825.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_della_sultana_Mihrimah_%28figlia_di_solimano%29%2C_di_sinan%2C_1543-48%2C_esterno%2C_portico%2C_ingresso%2C_porte_intarsiate_02.jpg/1280px-Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_della_sultana_Mihrimah_%28figlia_di_solimano%29%2C_di_sinan%2C_1543-48%2C_esterno%2C_portico%2C_ingresso%2C_porte_intarsiate_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/4.webp",
+    "w": 758,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Mihrimah Sultan Mosque (Üsküdar)",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul,_%C3%BCsk%C3%BCdar,_moschea_della_sultana_Mihrimah_(figlia_di_solimano),_di_sinan,_1543-48,_esterno,_portico,_ingresso,_porte_intarsiate_02.jpg",
+    "file": "File:Istanbul, üsküdar, moschea della sultana Mihrimah (figlia di solimano), di sinan, 1543-48, esterno, portico, ingresso, porte intarsiate 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_della_sultana_Mihrimah_%28figlia_di_solimano%29%2C_di_sinan%2C_1543-48%2C_esterno%2C_portico%2C_ingresso%2C_porte_intarsiate_03.jpg/1280px-Istanbul%2C_%C3%BCsk%C3%BCdar%2C_moschea_della_sultana_Mihrimah_%28figlia_di_solimano%29%2C_di_sinan%2C_1543-48%2C_esterno%2C_portico%2C_ingresso%2C_porte_intarsiate_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/5.webp",
+    "w": 814,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Mihrimah Sultan Mosque (Üsküdar)",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul,_%C3%BCsk%C3%BCdar,_moschea_della_sultana_Mihrimah_(figlia_di_solimano),_di_sinan,_1543-48,_esterno,_portico,_ingresso,_porte_intarsiate_03.jpg",
+    "file": "File:Istanbul, üsküdar, moschea della sultana Mihrimah (figlia di solimano), di sinan, 1543-48, esterno, portico, ingresso, porte intarsiate 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Endowment_Deed_of_Mihrimah_Sultan.jpg/1280px-Endowment_Deed_of_Mihrimah_Sultan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mihrimah-sultan-mosque-uskudar/thumbs/6.webp",
+    "w": 1280,
+    "h": 1064,
+    "kind": "Model",
+    "caption": "Model · Endowment Deed of Mihrimah Sultan for a mosque complex built by Sinan in Üsküdar",
+    "credit": "Mevlana Ali Çelebi b. İvaz",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Endowment_Deed_of_Mihrimah_Sultan.jpg",
+    "file": "File:Endowment Deed of Mihrimah Sultan.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "sinan-pasha-mosque-istanbul",
@@ -307664,7 +309455,83 @@ window.BUILDINGS = [
   "commons": "Category:Sinan Paşa Mosque",
   "lead": "File:İstanbul 5153.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%C4%B0stanbul_5153.jpg/1280px-%C4%B0stanbul_5153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sinan-pasha-mosque-istanbul/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Sinan Paşa Camii in Beşiktaş, İstanbul, Turkey",
+    "credit": "User:Darwinek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_5153.jpg",
+    "file": "File:İstanbul 5153.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sinan_Pasha_Mosque_0680.jpg/1280px-Sinan_Pasha_Mosque_0680.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sinan-pasha-mosque-istanbul/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · The mosque is situated at the busy Beşiktaş Caddesi",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_0680.jpg",
+    "file": "File:Sinan Pasha Mosque 0680.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Sinan_Pa%C5%9Fa_mosque_in_2015_5977.jpg/1280px-Sinan_Pa%C5%9Fa_mosque_in_2015_5977.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sinan-pasha-mosque-istanbul/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · One of pictures of the exterior",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinan_Pa%C5%9Fa_mosque_in_2015_5977.jpg",
+    "file": "File:Sinan Paşa mosque in 2015 5977.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sinan_Pasha_Mosque%2C_dome_and_minaret_2.jpg/1280px-Sinan_Pasha_Mosque%2C_dome_and_minaret_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sinan-pasha-mosque-istanbul/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Domes and minarets of the Sinan Pasha Mosque in Istanbul",
+    "credit": "Mustafa-trit20",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque,_dome_and_minaret_2.jpg",
+    "file": "File:Sinan Pasha Mosque, dome and minaret 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Sinan_Pasha_Mosque%2C_interior.jpg/1280px-Sinan_Pasha_Mosque%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sinan-pasha-mosque-istanbul/thumbs/4.webp",
+    "w": 1003,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Sinan Pasha Mosque in Istanbul",
+    "credit": "Mustafa-trit20",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque,_interior.jpg",
+    "file": "File:Sinan Pasha Mosque, interior.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Sinan_Pasha_Mosque_5985.jpg/1280px-Sinan_Pasha_Mosque_5985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sinan-pasha-mosque-istanbul/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · View of the decoration",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinan_Pasha_Mosque_5985.jpg",
+    "file": "File:Sinan Pasha Mosque 5985.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kilic-ali-pasha-complex",
@@ -307688,7 +309555,83 @@ window.BUILDINGS = [
   "commons": "Category:Kılıç Ali Pasha Mosque",
   "lead": "File:İstanbul 4939.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/%C4%B0stanbul_4939.jpg/1280px-%C4%B0stanbul_4939.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kilic-ali-pasha-complex/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kılıç Ali Paşa Camii in Tophane-Beyoğlu",
+    "credit": "User:Darwinek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_4939.jpg",
+    "file": "File:İstanbul 4939.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Istanbul%2C_moschea_di_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha%2C_di_sinan%2C_1580-87%2C_esterno_01.jpg/1280px-Istanbul%2C_moschea_di_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha%2C_di_sinan%2C_1580-87%2C_esterno_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kilic-ali-pasha-complex/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Kılıç Ali Pasha Mosque",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul,_moschea_di_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha,_di_sinan,_1580-87,_esterno_01.jpg",
+    "file": "File:Istanbul, moschea di Kılıç Ali Pasha, di sinan, 1580-87, esterno 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Istanbul_Kili%C3%A7_Ali_Pa%C5%9Fa_Mosque_in_2019_4105.jpg/1280px-Istanbul_Kili%C3%A7_Ali_Pa%C5%9Fa_Mosque_in_2019_4105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kilic-ali-pasha-complex/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Kili%C3%A7_Ali_Pa%C5%9Fa_Mosque_in_2019_4105.jpg",
+    "file": "File:Istanbul Kiliç Ali Paşa Mosque in 2019 4105.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Istanbul_photos_by_J.Lubbock_2015_582.jpg/1280px-Istanbul_photos_by_J.Lubbock_2015_582.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kilic-ali-pasha-complex/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Graves in Kilic Ali Pasa Mosque, Istanbul",
+    "credit": "Jwslubbock",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_photos_by_J.Lubbock_2015_582.jpg",
+    "file": "File:Istanbul photos by J.Lubbock 2015 582.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Istanbul_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Mosque_4408.jpg/1280px-Istanbul_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Mosque_4408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kilic-ali-pasha-complex/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Kiliç Ali Paşa mosque, by Sinan dates from 1580",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Mosque_4408.jpg",
+    "file": "File:Istanbul Kılıç Ali Pasha Mosque 4408.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Istanbul_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Mosque_4409.jpg/1280px-Istanbul_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Mosque_4409.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kilic-ali-pasha-complex/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Kiliç Ali Paşa mosque, by Sinan dates from 1580",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_K%C4%B1l%C4%B1%C3%A7_Ali_Pasha_Mosque_4409.jpg",
+    "file": "File:Istanbul Kılıç Ali Pasha Mosque 4409.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "semsi-pasha-mosque",
@@ -307712,7 +309655,83 @@ window.BUILDINGS = [
   "commons": "Category:Şemsi Pasha Mosque",
   "lead": "File:Semsi Ahmet Pasha mosque 0297.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Semsi_Ahmet_Pasha_mosque_0297.jpg/1280px-Semsi_Ahmet_Pasha_mosque_0297.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semsi-pasha-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Semsi_Ahmet_Pasha_mosque_0297.jpg",
+    "file": "File:Semsi Ahmet Pasha mosque 0297.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%C5%9Eemsi_Pasha_Mosque.JPG/1280px-%C5%9Eemsi_Pasha_Mosque.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semsi-pasha-mosque/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View of Şemsi Pasha Mosque in Üsküdar",
+    "credit": "İhsan Deniz Kılıçoğlu",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eemsi_Pasha_Mosque.JPG",
+    "file": "File:Şemsi Pasha Mosque.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Sunset_and_%C5%9Eemsi_Ahmed_Pa%C5%9Fa_Mosque.jpg/1280px-Sunset_and_%C5%9Eemsi_Ahmed_Pa%C5%9Fa_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semsi-pasha-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Sunset and Şemsi Ahmed Paşa Mosque, Üsküdar, Istanbul, Türkiye",
+    "credit": "Adem",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_and_%C5%9Eemsi_Ahmed_Pa%C5%9Fa_Mosque.jpg",
+    "file": "File:Sunset and Şemsi Ahmed Paşa Mosque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%C5%9Eemsi_Pasha_Mosque%2C_%C3%9Csk%C3%BCdar.JPG/1280px-%C5%9Eemsi_Pasha_Mosque%2C_%C3%9Csk%C3%BCdar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semsi-pasha-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · A view of the waterfront Şemsi Pasha Mosque in Üsküdar, Istanbul, Turkey",
+    "credit": "İhsan Deniz Kılıçoğlu",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eemsi_Pasha_Mosque,_%C3%9Csk%C3%BCdar.JPG",
+    "file": "File:Şemsi Pasha Mosque, Üsküdar.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/%C3%9Csk%C3%BCdar_%C5%9Eemsi_Ahmet_Pa%C5%9Fa_Camii_bah%C3%A7esinden_bir_%C3%A7ekim.jpg/1280px-%C3%9Csk%C3%BCdar_%C5%9Eemsi_Ahmet_Pa%C5%9Fa_Camii_bah%C3%A7esinden_bir_%C3%A7ekim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semsi-pasha-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · İnsanoğlunun yaşama dirayeti, var oluş gayesi ve ölüme karşı konulmaz mağlubiyeti bir arada",
+    "credit": "Ozerahmet42",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%9Csk%C3%BCdar_%C5%9Eemsi_Ahmet_Pa%C5%9Fa_Camii_bah%C3%A7esinden_bir_%C3%A7ekim.jpg",
+    "file": "File:Üsküdar Şemsi Ahmet Paşa Camii bahçesinden bir çekim.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Semsi_Ahmet_Pasha_mosque_6256.jpg/1280px-Semsi_Ahmet_Pasha_mosque_6256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/semsi-pasha-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Semsi_Ahmet_Pasha_mosque_6256.jpg",
+    "file": "File:Semsi Ahmet Pasha mosque 6256.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "molla-celebi-mosque",
@@ -307736,7 +309755,83 @@ window.BUILDINGS = [
   "commons": "Category:Molla Çelebi Mosque",
   "lead": "File:İstanbul 5430.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%C4%B0stanbul_5430.jpg/1280px-%C4%B0stanbul_5430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/molla-celebi-mosque/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Molla Çelebi Camii in Fındıklı",
+    "credit": "User:Darwinek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_5430.jpg",
+    "file": "File:İstanbul 5430.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Istanbul_Molla_%C3%87elebi_Mosque_exterior_in_2019_6667.jpg/1280px-Istanbul_Molla_%C3%87elebi_Mosque_exterior_in_2019_6667.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/molla-celebi-mosque/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Molla Çelebi Mosque is by Sinan, founded by the chief justice Mehmet Efendi in 1561-62",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Molla_%C3%87elebi_Mosque_exterior_in_2019_6667.jpg",
+    "file": "File:Istanbul Molla Çelebi Mosque exterior in 2019 6667.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/At_Istanbul_-_Wikimedia_hackathon_boat_tour_2025_384.jpg/1280px-At_Istanbul_-_Wikimedia_hackathon_boat_tour_2025_384.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/molla-celebi-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Istanbul_-_Wikimedia_hackathon_boat_tour_2025_384.jpg",
+    "file": "File:At Istanbul - Wikimedia hackathon boat tour 2025 384.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/%C4%B0stanbul_5428.jpg/1280px-%C4%B0stanbul_5428.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/molla-celebi-mosque/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Molla Çelebi Camii in Fındıklı",
+    "credit": "User:Darwinek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_5428.jpg",
+    "file": "File:İstanbul 5428.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Istanbul_Molla_%C3%87elebi_Mosque_interior_in_2019_4134.jpg/1280px-Istanbul_Molla_%C3%87elebi_Mosque_interior_in_2019_4134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/molla-celebi-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The Molla Çelebi Mosque is by Sinan, founded by the chief justice Mehmet Efendi in 1561-62",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Molla_%C3%87elebi_Mosque_interior_in_2019_4134.jpg",
+    "file": "File:Istanbul Molla Çelebi Mosque interior in 2019 4134.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Istanbul_Molla_%C3%87elebi_Mosque_interior_in_2019_4135.jpg/1280px-Istanbul_Molla_%C3%87elebi_Mosque_interior_in_2019_4135.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/molla-celebi-mosque/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The Molla Çelebi Mosque is by Sinan, founded by the chief justice Mehmet Efendi in 1561-62",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Molla_%C3%87elebi_Mosque_interior_in_2019_4135.jpg",
+    "file": "File:Istanbul Molla Çelebi Mosque interior in 2019 4135.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kara-ahmed-pasha-mosque",
@@ -307760,7 +309855,83 @@ window.BUILDINGS = [
   "commons": "Category:Kara Ahmed Pasha Mosque",
   "lead": "File:Kara Ahmet Pasha Camii DSCF7434.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Kara_Ahmet_Pasha_Camii_DSCF7434.jpg/1280px-Kara_Ahmet_Pasha_Camii_DSCF7434.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kara-ahmed-pasha-mosque/thumbs/0.webp",
+    "w": 1107,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Kara Ahmed Pasha Mosque, Istanbul",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kara_Ahmet_Pasha_Camii_DSCF7434.jpg",
+    "file": "File:Kara Ahmet Pasha Camii DSCF7434.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Istanbul_Gazi_Ahmet_Pa%C5%9Fa_Mosque_exterior_NE_side_3049.jpg/1280px-Istanbul_Gazi_Ahmet_Pa%C5%9Fa_Mosque_exterior_NE_side_3049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kara-ahmed-pasha-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · As the mosque was built along the side of a hill, one side is definitely lower than the other",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Gazi_Ahmet_Pa%C5%9Fa_Mosque_exterior_NE_side_3049.jpg",
+    "file": "File:Istanbul Gazi Ahmet Paşa Mosque exterior NE side 3049.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Istanbul_Gazi_Ahmet_Pa%C5%9Fa_Mosque_exterior_in_2015_0032.jpg/1280px-Istanbul_Gazi_Ahmet_Pa%C5%9Fa_Mosque_exterior_in_2015_0032.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kara-ahmed-pasha-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · One of pictures taken of the mosque from the outside",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Gazi_Ahmet_Pa%C5%9Fa_Mosque_exterior_in_2015_0032.jpg",
+    "file": "File:Istanbul Gazi Ahmet Paşa Mosque exterior in 2015 0032.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gazi_Ahmed_Pa%C5%9Fa_S%C4%B1byan_Mektebi_01.jpg/1280px-Gazi_Ahmed_Pa%C5%9Fa_S%C4%B1byan_Mektebi_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kara-ahmed-pasha-mosque/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Gazi Ahmed Paşa Sıbyan Mektebi",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gazi_Ahmed_Pa%C5%9Fa_S%C4%B1byan_Mektebi_01.jpg",
+    "file": "File:Gazi Ahmed Paşa Sıbyan Mektebi 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Gazi_Ahmed_Pa%C5%9Fa_S%C4%B1byan_Mektebi_02.jpg/1280px-Gazi_Ahmed_Pa%C5%9Fa_S%C4%B1byan_Mektebi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kara-ahmed-pasha-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Gazi Ahmed Paşa Sıbyan Mektebi",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gazi_Ahmed_Pa%C5%9Fa_S%C4%B1byan_Mektebi_02.jpg",
+    "file": "File:Gazi Ahmed Paşa Sıbyan Mektebi 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Tomb_of_Kara_Ahmed_Pasha_01.jpg/1280px-Tomb_of_Kara_Ahmed_Pasha_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kara-ahmed-pasha-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Gazi Ahmed Paşa Türbesi",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Kara_Ahmed_Pasha_01.jpg",
+    "file": "File:Tomb of Kara Ahmed Pasha 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "piyale-pasha-mosque",
@@ -307784,7 +309955,97 @@ window.BUILDINGS = [
   "commons": "Category:Piyale Pasha Mosque",
   "lead": "File:Istanbul Piyale Pasha Mosque exterior NW side in 2014 6766.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Istanbul_Piyale_Pasha_Mosque_exterior_back_side_with_tomb_in_2014_6755.jpg/1280px-Istanbul_Piyale_Pasha_Mosque_exterior_back_side_with_tomb_in_2014_6755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · The mausoleum of the founder is in the cemetery in the back of the mosque",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Piyale_Pasha_Mosque_exterior_back_side_with_tomb_in_2014_6755.jpg",
+    "file": "File:Istanbul Piyale Pasha Mosque exterior back side with tomb in 2014 6755.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Piyalepa%C5%9Fa_Camisi_Tavan-01.jpg/1280px-Piyalepa%C5%9Fa_Camisi_Tavan-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Piyalepaşa Camisi Tavan Süslemesi",
+    "credit": "Muhsin Kadıoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piyalepa%C5%9Fa_Camisi_Tavan-01.jpg",
+    "file": "File:Piyalepaşa Camisi Tavan-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Piyalepa%C5%9Fa_Camisi-03.jpg/1280px-Piyalepa%C5%9Fa_Camisi-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Piyalepaşa Camisi'den Hat Örnekleri",
+    "credit": "Muhsin Kadıoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piyalepa%C5%9Fa_Camisi-03.jpg",
+    "file": "File:Piyalepaşa Camisi-03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Piyale_Pasha_Mosque_6728.jpg/1280px-Piyale_Pasha_Mosque_6728.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 888,
+    "kind": "Interior",
+    "caption": "Interior · The mihrab has Iznik tiles of the best quality",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piyale_Pasha_Mosque_6728.jpg",
+    "file": "File:Piyale Pasha Mosque 6728.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Piyale_Pasha_Mosque_DSCF3459.jpg/1280px-Piyale_Pasha_Mosque_DSCF3459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Mihrab with iznik tiles and minbar in the Piyale Pasha Mosque, Istanbul",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piyale_Pasha_Mosque_DSCF3459.jpg",
+    "file": "File:Piyale Pasha Mosque DSCF3459.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Piyale_Pasha_Mosque_mihrab_DSCF3440.jpg/1280px-Piyale_Pasha_Mosque_mihrab_DSCF3440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Mihrab with iznik tiles in the Piyale Pasha Mosque, Istanbul",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piyale_Pasha_Mosque_mihrab_DSCF3440.jpg",
+    "file": "File:Piyale Pasha Mosque mihrab DSCF3440.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Cross_sections_and_plan_of_the_Piyale_Pasha_Mosque_in_Istanbul_by_Gurlitt_1912.jpg/1280px-Cross_sections_and_plan_of_the_Piyale_Pasha_Mosque_in_Istanbul_by_Gurlitt_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piyale-pasha-mosque/thumbs/6.webp",
+    "w": 978,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Cross sections and plan of the Piyale Pasha Mosque in Istanbul",
+    "credit": "Cornelius Gurlitt (1850-1938)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cross_sections_and_plan_of_the_Piyale_Pasha_Mosque_in_Istanbul_by_Gurlitt_1912.jpg",
+    "file": "File:Cross sections and plan of the Piyale Pasha Mosque in Istanbul by Gurlitt 1912.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "sokollu-mehmed-pasha-mosque-azapkapi",
@@ -307808,7 +310069,97 @@ window.BUILDINGS = [
   "commons": "Category:Sokollu Mehmet Pasha Mosque (Azapkapı)",
   "lead": "File:Sokollu Mehmet Pasha Mosque Azapkapi 7408.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg/1280px-Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · The Sokollu Mehmet Pasha Mosque Azapkapi has been restored and after years looks brand new",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg",
+    "file": "File:Sokollu Mehmet Pasha Mosque Azapkapi 7408.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Sokollu_Mehmet_Pa%C5%9Fa_Camii_IMG_5363.jpg/1280px-Sokollu_Mehmet_Pa%C5%9Fa_Camii_IMG_5363.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/1.webp",
+    "w": 1280,
+    "h": 843,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pa%C5%9Fa_Camii_IMG_5363.jpg",
+    "file": "File:Sokollu Mehmet Paşa Camii IMG 5363.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Sokollu_Mehmet_Pa%C5%9Fa_Camii_IMG_6267.jpg/1280px-Sokollu_Mehmet_Pa%C5%9Fa_Camii_IMG_6267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pa%C5%9Fa_Camii_IMG_6267.jpg",
+    "file": "File:Sokollu Mehmet Paşa Camii IMG 6267.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Sokollu_Azapkapi_Mosque_DSCF9242.jpg/1280px-Sokollu_Azapkapi_Mosque_DSCF9242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/3.webp",
+    "w": 1280,
+    "h": 1055,
+    "kind": "Exterior",
+    "caption": "Exterior · Sokollu Mehmet Pasha Mosque, Istanbul (in Azapkapı)",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Azapkapi_Mosque_DSCF9242.jpg",
+    "file": "File:Sokollu Azapkapi Mosque DSCF9242.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Sokollu_Mehmet_Pasha_Mosque_%28Azapkap%C4%B1%29_4195.jpg/1280px-Sokollu_Mehmet_Pasha_Mosque_%28Azapkap%C4%B1%29_4195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · One of some 2023 pictures",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pasha_Mosque_(Azapkap%C4%B1)_4195.jpg",
+    "file": "File:Sokollu Mehmet Pasha Mosque (Azapkapı) 4195.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Sokollu_Mehmet_Pasha_Mosque_%28Azapkap%C4%B1%29_4197.jpg/1280px-Sokollu_Mehmet_Pasha_Mosque_%28Azapkap%C4%B1%29_4197.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · One of some 2023 pictures",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pasha_Mosque_(Azapkap%C4%B1)_4197.jpg",
+    "file": "File:Sokollu Mehmet Pasha Mosque (Azapkapı) 4197.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Floor_plan_and_section_of_Sokollu_Mehmed_Pasa_Mosque_at_Azapkapi.jpg/1280px-Floor_plan_and_section_of_Sokollu_Mehmed_Pasa_Mosque_at_Azapkapi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-azapkapi/thumbs/6.webp",
+    "w": 699,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Floor plan and section of Sokollu Mehmed Pasa Mosque at Azapkapi",
+    "credit": "Gülru Necipoglu",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Floor_plan_and_section_of_Sokollu_Mehmed_Pasa_Mosque_at_Azapkapi.jpg",
+    "file": "File:Floor plan and section of Sokollu Mehmed Pasa Mosque at Azapkapi.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "hadim-ibrahim-pasha-mosque",
@@ -307832,7 +310183,83 @@ window.BUILDINGS = [
   "commons": "Category:Hadim Ibrahim Pasha Mosque",
   "lead": "File:Hadim Ibrahim Mosque 9219.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hadim_Ibrahim_Mosque_9219.jpg/1280px-Hadim_Ibrahim_Mosque_9219.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hadim-ibrahim-pasha-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Five domed bays with above the entrance a fine stalactited baldachino",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hadim_Ibrahim_Mosque_9219.jpg",
+    "file": "File:Hadim Ibrahim Mosque 9219.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Hadim_Ibrahim_Pasha_Mosque%2C_Fatih%2C_%C4%B0stanbul_2025.jpg/1280px-Hadim_Ibrahim_Pasha_Mosque%2C_Fatih%2C_%C4%B0stanbul_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hadim-ibrahim-pasha-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "vlyalcin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hadim_Ibrahim_Pasha_Mosque,_Fatih,_%C4%B0stanbul_2025.jpg",
+    "file": "File:Hadim Ibrahim Pasha Mosque, Fatih, İstanbul 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hadim_Ibrahim_Pasha_Mosque1%2C_Fatih%2C_%C4%B0stanbul_2025.jpg/1280px-Hadim_Ibrahim_Pasha_Mosque1%2C_Fatih%2C_%C4%B0stanbul_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hadim-ibrahim-pasha-mosque/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "vlyalcin",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hadim_Ibrahim_Pasha_Mosque1,_Fatih,_%C4%B0stanbul_2025.jpg",
+    "file": "File:Hadim Ibrahim Pasha Mosque1, Fatih, İstanbul 2025.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Had%C4%B1m_%C4%B0brahim_Pa%C5%9Fa_Camii_Haziresi.jpg/1280px-Had%C4%B1m_%C4%B0brahim_Pa%C5%9Fa_Camii_Haziresi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hadim-ibrahim-pasha-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 576,
+    "kind": "Exterior",
+    "caption": "Exterior · Hadım İbrahim Paşa Camii Haziresi",
+    "credit": "Özgür Arda BAYRAM",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Had%C4%B1m_%C4%B0brahim_Pa%C5%9Fa_Camii_Haziresi.jpg",
+    "file": "File:Hadım İbrahim Paşa Camii Haziresi.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Istanbul_Had%C4%B1m_Ibrahim_Pa%C5%9Fa_mosque_interior_above_mihrab_in_2024_5488.jpg/1280px-Istanbul_Had%C4%B1m_Ibrahim_Pa%C5%9Fa_mosque_interior_above_mihrab_in_2024_5488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hadim-ibrahim-pasha-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · One of some pictures taken in 2024 with higher resolution than before",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Had%C4%B1m_Ibrahim_Pa%C5%9Fa_mosque_interior_above_mihrab_in_2024_5488.jpg",
+    "file": "File:Istanbul Hadım Ibrahim Paşa mosque interior above mihrab in 2024 5488.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Hadim_Ibrahim_Pasha_Mosque_0750.jpg/1280px-Hadim_Ibrahim_Pasha_Mosque_0750.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hadim-ibrahim-pasha-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Detail",
+    "caption": "Detail · Detail of the construction",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hadim_Ibrahim_Pasha_Mosque_0750.jpg",
+    "file": "File:Hadim Ibrahim Pasha Mosque 0750.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "muradiye-mosque-manisa",
@@ -307856,7 +310283,23 @@ window.BUILDINGS = [
   "commons": "Category:Muradiye Mosque (Manisa)",
   "lead": "File:IzManisaM04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/IzManisaM04.jpg/1280px-IzManisaM04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradiye-mosque-manisa/thumbs/0.webp",
+    "w": 872,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Muradiye Camii, Manisa",
+    "credit": "Ziegler175",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IzManisaM04.jpg",
+    "file": "File:IzManisaM04.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "banya-bashi-mosque",
@@ -307880,7 +310323,83 @@ window.BUILDINGS = [
   "commons": "Category:Banyabaşı Mosque",
   "lead": "File:05158-Banyabaşı Mosque, Sofia (8269331286).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/05158-Banyaba%C5%9F%C4%B1_Mosque%2C_Sofia_%288269331286%29.jpg/1280px-05158-Banyaba%C5%9F%C4%B1_Mosque%2C_Sofia_%288269331286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/banya-bashi-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · 05158-Sofia",
+    "credit": "xiquinhosilva  from Cacau",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:05158-Banyaba%C5%9F%C4%B1_Mosque,_Sofia_(8269331286).jpg",
+    "file": "File:05158-Banyabaşı Mosque, Sofia (8269331286).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Banya_Bashi_Mosque_-_Sofia.jpg/1280px-Banya_Bashi_Mosque_-_Sofia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/banya-bashi-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 1105,
+    "kind": "Exterior",
+    "caption": "Exterior · Banya Bashi Mosque in Sofia, Bulgaria",
+    "credit": "MrPanyGoff",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Banya_Bashi_Mosque_-_Sofia.jpg",
+    "file": "File:Banya Bashi Mosque - Sofia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Banya_Bashi_Mosque_Sofia.jpg/1280px-Banya_Bashi_Mosque_Sofia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/banya-bashi-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 1081,
+    "kind": "Exterior",
+    "caption": "Exterior · Banya Bashi Mosque in Sofia, Bulgaria",
+    "credit": "MrPanyGoff",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Banya_Bashi_Mosque_Sofia.jpg",
+    "file": "File:Banya Bashi Mosque Sofia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Mosque%2C_Sofia_%28P1070777%29.jpg/1280px-Mosque%2C_Sofia_%28P1070777%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/banya-bashi-mosque/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Banyabaşı Mosque, Sofia, Bulgaria",
+    "credit": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosque,_Sofia_(P1070777).jpg",
+    "file": "File:Mosque, Sofia (P1070777).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Mosqu%C3%A9e_des_Bains_Sofia_03.JPG/1280px-Mosqu%C3%A9e_des_Bains_Sofia_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/banya-bashi-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Banya Bashi Mosque, Sofia (Bulgaria) - 16th century",
+    "credit": "Manastirile",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_des_Bains_Sofia_03.JPG",
+    "file": "File:Mosquée des Bains Sofia 03.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Mosqu%C3%A9e_des_Bains_Sofia_04.JPG/1280px-Mosqu%C3%A9e_des_Bains_Sofia_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/banya-bashi-mosque/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Banya Bashi Mosque, Sofia (Bulgaria) - 16th century",
+    "credit": "Manastirile",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_des_Bains_Sofia_04.JPG",
+    "file": "File:Mosquée des Bains Sofia 04.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "casa-vicens",
@@ -307904,7 +310423,110 @@ window.BUILDINGS = [
   "commons": "Category:Casa Vicens",
   "lead": "File:Gaudí - Casa Vicens.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gaud%C3%AD_-_Casa_Vicens.JPG/1280px-Gaud%C3%AD_-_Casa_Vicens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Vicens, de Antoni Gaudí",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gaud%C3%AD_-_Casa_Vicens.JPG",
+    "file": "File:Gaudí - Casa Vicens.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Barcelona_-_Carrer_de_les_Carolines_-_View_NNW_on_Casa_Vicens_1889_Antoni_Gaud%C3%AD_I.jpg/1280px-Barcelona_-_Carrer_de_les_Carolines_-_View_NNW_on_Casa_Vicens_1889_Antoni_Gaud%C3%AD_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona - Carrer de les Carolines - View NNW on Casa Vicens 1889 Antoni Gaudí",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Carrer_de_les_Carolines_-_View_NNW_on_Casa_Vicens_1889_Antoni_Gaud%C3%AD_I.jpg",
+    "file": "File:Barcelona - Carrer de les Carolines - View NNW on Casa Vicens 1889 Antoni Gaudí I.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Barcelona_-_Carrer_de_les_Carolines_-_View_North_on_Casa_Vicens_1883-89_Antoni_Gaud%C3%AD_II.jpg/1280px-Barcelona_-_Carrer_de_les_Carolines_-_View_North_on_Casa_Vicens_1883-89_Antoni_Gaud%C3%AD_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona - Carrer de les Carolines - View North on Casa Vicens 1883-89 Antoni Gaudí",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Carrer_de_les_Carolines_-_View_North_on_Casa_Vicens_1883-89_Antoni_Gaud%C3%AD_II.jpg",
+    "file": "File:Barcelona - Carrer de les Carolines - View North on Casa Vicens 1883-89 Antoni Gaudí II.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Barcelona_-_Carrer_de_les_Carolines_-_View_ENE_on_Casa_Vicens_1883-89_Antoni_Gaud%C3%AD.jpg/1280px-Barcelona_-_Carrer_de_les_Carolines_-_View_ENE_on_Casa_Vicens_1883-89_Antoni_Gaud%C3%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona - Carrer de les Carolines - View ENE on Casa Vicens 1883-89 Antoni Gaudí",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Carrer_de_les_Carolines_-_View_ENE_on_Casa_Vicens_1883-89_Antoni_Gaud%C3%AD.jpg",
+    "file": "File:Barcelona - Carrer de les Carolines - View ENE on Casa Vicens 1883-89 Antoni Gaudí.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Casa_Vicens_%283%29.jpg/1280px-Casa_Vicens_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Tribuna (interior)",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Vicens_(3).jpg",
+    "file": "File:Casa Vicens (3).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Casa_Vicens_%284%29.jpg/1280px-Casa_Vicens_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Comedor",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Vicens_(4).jpg",
+    "file": "File:Casa Vicens (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Casa_Vicens_-_Planta_baixa.jpg/1280px-Casa_Vicens_-_Planta_baixa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/6.webp",
+    "w": 987,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Casa Vicens - Planta baixa",
+    "credit": "Antoni Gaudí",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Vicens_-_Planta_baixa.jpg",
+    "file": "File:Casa Vicens - Planta baixa.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/55_Casa_Vicens_%28Barcelona%29%2C_maqueta_de_la_casa_abans_de_l%27ampliaci%C3%B3_de_1925.jpg/1280px-55_Casa_Vicens_%28Barcelona%29%2C_maqueta_de_la_casa_abans_de_l%27ampliaci%C3%B3_de_1925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-vicens/thumbs/7.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Casa Vicens (Barcelona), maqueta de la casa abans de l'ampliació de 1925",
+    "credit": "Enric",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:55_Casa_Vicens_(Barcelona),_maqueta_de_la_casa_abans_de_l%27ampliaci%C3%B3_de_1925.jpg",
+    "file": "File:55 Casa Vicens (Barcelona), maqueta de la casa abans de l'ampliació de 1925.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "city-gate",
@@ -307928,7 +310550,83 @@ window.BUILDINGS = [
   "commons": "Category:Valletta City Gate",
   "lead": "File:City Gate, Valletta 002.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/City_Gate%2C_Valletta_002.jpg/1280px-City_Gate%2C_Valletta_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-gate/thumbs/0.webp",
+    "w": 1280,
+    "h": 792,
+    "kind": "Exterior",
+    "caption": "Exterior · This media is about Maltese cultural property with inventory number 1576 ",
+    "credit": "Matthew Axiak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:City_Gate,_Valletta_002.jpg",
+    "file": "File:City Gate, Valletta 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Il-Belt._Valletta_City_Gate.jpg/1280px-Il-Belt._Valletta_City_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-gate/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · La Valletta",
+    "credit": "Enrique Íñiguez Rodríguez ( Qoan ) \n   Credit information   \n This work was created by  Enrique Íñig",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Il-Belt._Valletta_City_Gate.jpg",
+    "file": "File:Il-Belt. Valletta City Gate.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_City_Gate_01_ies.jpg/1280px-Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_City_Gate_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-gate/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Triq il-Papa Piju V and Valletta City Gate in Valletta , Malta",
+    "credit": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_City_Gate_01_ies.jpg",
+    "file": "File:Malta - Valletta - Triq il-Papa Piju V + City Gate 01 ies.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_City_Gate_03_ies.jpg/1280px-Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_City_Gate_03_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-gate/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Triq il-Papa Piju V and Valletta City Gate in Valletta , Malta",
+    "credit": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_il-Papa_Piju_V_%2B_City_Gate_03_ies.jpg",
+    "file": "File:Malta - Valletta - Triq il-Papa Piju V + City Gate 03 ies.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Detail_of_one_of_City_Gate%27s_Pole.jpg/1280px-Detail_of_one_of_City_Gate%27s_Pole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-gate/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Detail of one of City Gate's Pole, Valletta, Malta",
+    "credit": "Godwin Borg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_one_of_City_Gate%27s_Pole.jpg",
+    "file": "File:Detail of one of City Gate's Pole.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Malta_-_Valletta_-_Triq_Ir-Repubblika_-_Valletta_City_Gate_bridge_%2B_City_Gate_%28St._John%27s_Bastion%29_01_ies.jpg/1280px-Malta_-_Valletta_-_Triq_Ir-Repubblika_-_Valletta_City_Gate_bridge_%2B_City_Gate_%28St._John%27s_Bastion%29_01_ies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/city-gate/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · View from St",
+    "credit": "Frank Vincentz",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malta_-_Valletta_-_Triq_Ir-Repubblika_-_Valletta_City_Gate_bridge_%2B_City_Gate_(St._John%27s_Bastion)_01_ies.jpg",
+    "file": "File:Malta - Valletta - Triq Ir-Repubblika - Valletta City Gate bridge + City Gate (St. John's Bastion) 01 ies.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-nicholas-greek-orthodox-church",
@@ -307952,7 +310650,83 @@ window.BUILDINGS = [
   "commons": "Category:St. Nicholas Greek Orthodox Church",
   "lead": "File:St. Nicholas Greek Orthodox Church - 195245115.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/St._Nicholas_Greek_Orthodox_Church_-_195245115.jpg/1280px-St._Nicholas_Greek_Orthodox_Church_-_195245115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-nicholas-greek-orthodox-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 1081,
+    "kind": "Context",
+    "caption": "Context · St",
+    "credit": "DutchTreat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Nicholas_Greek_Orthodox_Church_-_195245115.jpg",
+    "file": "File:St. Nicholas Greek Orthodox Church - 195245115.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/St._Nicholas_Greek_Orthodox_Church_and_National_Shrine_%2855312935307%29.jpg/1280px-St._Nicholas_Greek_Orthodox_Church_and_National_Shrine_%2855312935307%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-nicholas-greek-orthodox-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · New York, NY",
+    "credit": "Ajay Suresh",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Nicholas_Greek_Orthodox_Church_and_National_Shrine_(55312935307).jpg",
+    "file": "File:St. Nicholas Greek Orthodox Church and National Shrine (55312935307).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Landing_gear_near_WTC2_and_Greek_Orthodox_Church.jpg/1280px-Landing_gear_near_WTC2_and_Greek_Orthodox_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-nicholas-greek-orthodox-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 798,
+    "kind": "Exterior",
+    "caption": "Exterior · Airplane landing gear near Saint Nicholas Greek Orthodox Church with WTC tower in background",
+    "credit": "NYPD",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Landing_gear_near_WTC2_and_Greek_Orthodox_Church.jpg",
+    "file": "File:Landing gear near WTC2 and Greek Orthodox Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/St_Nicholas_Greek_Orthodox_Church_during_the_February_2026_North_American_blizzard.jpg/1280px-St_Nicholas_Greek_Orthodox_Church_during_the_February_2026_North_American_blizzard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-nicholas-greek-orthodox-church/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · St Nicholas Greek Orthodox Church during the February 2026 North American blizzard",
+    "credit": "Aude",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Nicholas_Greek_Orthodox_Church_during_the_February_2026_North_American_blizzard.jpg",
+    "file": "File:St Nicholas Greek Orthodox Church during the February 2026 North American blizzard.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Liberty_Street_Park_east_entry_jeh.jpg/1280px-Liberty_Street_Park_east_entry_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-nicholas-greek-orthodox-church/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Jim.henderson",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Liberty_Street_Park_east_entry_jeh.jpg",
+    "file": "File:Liberty Street Park east entry jeh.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Liberty_Street_Park_northeast_stair_jeh.jpg/1280px-Liberty_Street_Park_northeast_stair_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-nicholas-greek-orthodox-church/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Looking west across Liberty Street at park opening day and St Nicholas Church",
+    "credit": "Jim.henderson",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Liberty_Street_Park_northeast_stair_jeh.jpg",
+    "file": "File:Liberty Street Park northeast stair jeh.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hotel-solvay",
@@ -307976,7 +310750,97 @@ window.BUILDINGS = [
   "commons": "Category:Hôtel Solvay",
   "lead": "File:Avenue Louise 224 Louizalaan Brussels 2012-08.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Avenue_Louise_224_Louizalaan_Brussels_2012-08.jpg/1280px-Avenue_Louise_224_Louizalaan_Brussels_2012-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Brussels, number:",
+    "credit": "Zinneke",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Avenue_Louise_224_Louizalaan_Brussels_2012-08.jpg",
+    "file": "File:Avenue Louise 224 Louizalaan Brussels 2012-08.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hotel_Solvay_01.jpg/1280px-Hotel_Solvay_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Hotel Solvay",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Solvay_01.jpg",
+    "file": "File:Hotel Solvay 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bruxelles_-_H%C3%B4tel_Solvay.jpg/1280px-Bruxelles_-_H%C3%B4tel_Solvay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Ixelles",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bruxelles_-_H%C3%B4tel_Solvay.jpg",
+    "file": "File:Bruxelles - Hôtel Solvay.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Hotel_Solvay_-_Skylight_on_Stairs_to_First_Floor.jpg/1280px-Hotel_Solvay_-_Skylight_on_Stairs_to_First_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Hotel Solvay - Skylight on Stairs to First Floor",
+    "credit": "Brigade Piron",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Solvay_-_Skylight_on_Stairs_to_First_Floor.jpg",
+    "file": "File:Hotel Solvay - Skylight on Stairs to First Floor.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/H%C3%B4tel_Solvay_-_Central_Salon_%281%29.jpg/1280px-H%C3%B4tel_Solvay_-_Central_Salon_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Hôtel Solvay - Central Salon (1)",
+    "credit": "Brigade Piron",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Solvay_-_Central_Salon_(1).jpg",
+    "file": "File:Hôtel Solvay - Central Salon (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Hotel_Solvay_10.jpg/1280px-Hotel_Solvay_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Hotel Solvay",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Solvay_10.jpg",
+    "file": "File:Hotel Solvay 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Dessin_Hotel_Solvay.jpg/1280px-Dessin_Hotel_Solvay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-solvay/thumbs/6.webp",
+    "w": 1018,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Dessin de l'hôtel Solvay",
+    "credit": "Tram Bruxelles",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dessin_Hotel_Solvay.jpg",
+    "file": "File:Dessin Hotel Solvay.jpg"
+   }
+  ],
+  "has": [
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "university-of-science-and-technology-houari-boumediene",
@@ -308000,7 +310864,59 @@ window.BUILDINGS = [
   "commons": "Category:Université des sciences et de la technologie Houari-Boumediene",
   "lead": "File:USTHB en été.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/USTHB_en_%C3%A9t%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/university-of-science-and-technology-houari-boumediene/thumbs/0.webp",
+    "w": 1228,
+    "h": 921,
+    "kind": "Exterior",
+    "caption": "Exterior · USTHB en été",
+    "credit": "K1saïd2005",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:USTHB_en_%C3%A9t%C3%A9.jpg",
+    "file": "File:USTHB en été.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/USTHB.JPG/1280px-USTHB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/university-of-science-and-technology-houari-boumediene/thumbs/1.webp",
+    "w": 1280,
+    "h": 962,
+    "kind": "Exterior",
+    "caption": "Exterior · vue usthb",
+    "credit": "Quantumsweeney",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:USTHB.JPG",
+    "file": "File:USTHB.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Auditoriome.jpg/1280px-Auditoriome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/university-of-science-and-technology-houari-boumediene/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Auditoriome",
+    "credit": "Quantumsweeney",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditoriome.jpg",
+    "file": "File:Auditoriome.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Library_of_the_USTHB%2C_Algiers.jpg/1280px-Library_of_the_USTHB%2C_Algiers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/university-of-science-and-technology-houari-boumediene/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the center of the USTHB in Algiers and its library on a cloudy day",
+    "credit": "Engineerdz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Library_of_the_USTHB,_Algiers.jpg",
+    "file": "File:Library of the USTHB, Algiers.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hajji-ahmed-the-ducat-minters-mosque",
@@ -308024,7 +310940,59 @@ window.BUILDINGS = [
   "commons": "Category:Hajji Ahmed the Ducat Minter's Mosque",
   "lead": "File:Džamija-Livno00523.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/D%C5%BEamija-Livno00523.JPG/1280px-D%C5%BEamija-Livno00523.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hajji-ahmed-the-ducat-minters-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Mosque in Livno",
+    "credit": "Anto  (  talk  ) 18:38, 8 July 2009 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C5%BEamija-Livno00523.JPG",
+    "file": "File:Džamija-Livno00523.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/D%C5%BEamija-Livno00520.JPG/1280px-D%C5%BEamija-Livno00520.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hajji-ahmed-the-ducat-minters-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Mosque in Livno",
+    "credit": "Anto  (  talk  ) 18:37, 8 July 2009 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C5%BEamija-Livno00520.JPG",
+    "file": "File:Džamija-Livno00520.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/D%C5%BEamija_i_sahat-kula%2C_Livno00529.JPG/1280px-D%C5%BEamija_i_sahat-kula%2C_Livno00529.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hajji-ahmed-the-ducat-minters-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · mosque (left) and clock tower (right) in Livno",
+    "credit": "Anto  (  talk  ) 18:38, 8 July 2009 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C5%BEamija_i_sahat-kula,_Livno00529.JPG",
+    "file": "File:Džamija i sahat-kula, Livno00529.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Muslimansko_groblje_u_Livnu00512.JPG/1280px-Muslimansko_groblje_u_Livnu00512.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hajji-ahmed-the-ducat-minters-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Muslim cemetery in Livno",
+    "credit": "Anto  (  talk  ) 18:41, 8 July 2009 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Muslimansko_groblje_u_Livnu00512.JPG",
+    "file": "File:Muslimansko groblje u Livnu00512.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ennis-house",
@@ -308048,7 +311016,59 @@ window.BUILDINGS = [
   "commons": "Category:Ennis House",
   "lead": "File:Ennis House front view 2005.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Ennis_House_front_view_2005.jpg/1280px-Ennis_House_front_view_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ennis-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Front side of the Ennis House in Los Feliz, Los Angeles, California",
+    "credit": "Mike Dillon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ennis_House_front_view_2005.jpg",
+    "file": "File:Ennis House front view 2005.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Ennis_House_3.jpg/1280px-Ennis_House_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ennis-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright's Ennis House in Los Angeles (1923)",
+    "credit": "Codera23",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ennis_House_3.jpg",
+    "file": "File:Ennis House 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ennis_House%2C_2607_Glendower_Avenue%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C58-_%28sheet_1_of_1%29.png/1280px-Ennis_House%2C_2607_Glendower_Avenue%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C58-_%28sheet_1_of_1%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ennis-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Related names:\n \n  Wright, Frank Lloyd",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ennis_House,_2607_Glendower_Avenue,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,58-_(sheet_1_of_1).png",
+    "file": "File:Ennis House, 2607 Glendower Avenue, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,58- (sheet 1 of 1).png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Ennis_House.JPG/1280px-Ennis_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ennis-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 1008,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jean Davis",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ennis_House.JPG",
+    "file": "File:Ennis House.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "muradie-mosque",
@@ -308072,7 +311092,83 @@ window.BUILDINGS = [
   "commons": "Category:Muradie Mosque",
   "lead": "File:Muradie Mosque Vlore - Exterior and Minaret.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Muradie_Mosque_Vlore_-_Exterior_and_Minaret.jpg/1280px-Muradie_Mosque_Vlore_-_Exterior_and_Minaret.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradie-mosque/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Senada Kusi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Muradie_Mosque_Vlore_-_Exterior_and_Minaret.jpg",
+    "file": "File:Muradie Mosque Vlore - Exterior and Minaret.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Murachi_Mosque%2C_Vlora%2C_Albania.jpg/1280px-Murachi_Mosque%2C_Vlora%2C_Albania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradie-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Murachi Mosque, Vlora, Albania",
+    "credit": "Timuspics",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Murachi_Mosque,_Vlora,_Albania.jpg",
+    "file": "File:Murachi Mosque, Vlora, Albania.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Xhamia_Muradie_Vlor%C3%AB_2.jpg/1280px-Xhamia_Muradie_Vlor%C3%AB_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradie-mosque/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Arianit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Xhamia_Muradie_Vlor%C3%AB_2.jpg",
+    "file": "File:Xhamia Muradie Vlorë 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Xhamia_Muradie_Vlor%C3%AB2.jpg/1280px-Xhamia_Muradie_Vlor%C3%AB2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradie-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Arianit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Xhamia_Muradie_Vlor%C3%AB2.jpg",
+    "file": "File:Xhamia Muradie Vlorë2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Xhamia_e_Muradies_%28Jul_2017%29_3.jpg/1280px-Xhamia_e_Muradies_%28Jul_2017%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradie-mosque/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Albania, number:",
+    "credit": "Visem",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Xhamia_e_Muradies_(Jul_2017)_3.jpg",
+    "file": "File:Xhamia e Muradies (Jul 2017) 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Xhamia_e_Muradies_%28Jul_2017%29_4.jpg/1280px-Xhamia_e_Muradies_%28Jul_2017%29_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/muradie-mosque/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Albania, number:",
+    "credit": "Visem",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Xhamia_e_Muradies_(Jul_2017)_4.jpg",
+    "file": "File:Xhamia e Muradies (Jul 2017) 4.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sokollu-mehmed-pasha-mosque-luleburgaz",
@@ -308096,7 +311192,83 @@ window.BUILDINGS = [
   "commons": "Category:Sokollu Mehmet Paşa complex in Lüleburgaz",
   "lead": "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0059.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/L%C3%BCleburgaz_Sokollu_Mehmet_Pa%C5%9Fa_exterior_0051.jpg/1280px-L%C3%BCleburgaz_Sokollu_Mehmet_Pa%C5%9Fa_exterior_0051.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-luleburgaz/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · A picture from the Istanbul Caddesi, at the northeast side of the complex",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCleburgaz_Sokollu_Mehmet_Pa%C5%9Fa_exterior_0051.jpg",
+    "file": "File:Lüleburgaz Sokollu Mehmet Paşa exterior 0051.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/L%C3%BCleburgaz_-_Sokollu_Mehmed_Pasha_Mosque%2C_L%C3%BCleburgaz_-_20250531160152.jpg/1280px-L%C3%BCleburgaz_-_Sokollu_Mehmed_Pasha_Mosque%2C_L%C3%BCleburgaz_-_20250531160152.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-luleburgaz/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Lüleburgaz, Sokollu Mehmed Pasha Mosque, Lüleburgaz",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCleburgaz_-_Sokollu_Mehmed_Pasha_Mosque,_L%C3%BCleburgaz_-_20250531160152.jpg",
+    "file": "File:Lüleburgaz - Sokollu Mehmed Pasha Mosque, Lüleburgaz - 20250531160152.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Sokollu_Mehmet_Pasha_Mosque_Luleburgaz.JPG/1280px-Sokollu_Mehmet_Pasha_Mosque_Luleburgaz.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-luleburgaz/thumbs/2.webp",
+    "w": 1280,
+    "h": 838,
+    "kind": "Exterior",
+    "caption": "Exterior · Sokollu Mehmet Pasha (Memorial) Mosque in Luleburgaz, Turkey",
+    "credit": "Turksen",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sokollu_Mehmet_Pasha_Mosque_Luleburgaz.JPG",
+    "file": "File:Sokollu Mehmet Pasha Mosque Luleburgaz.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/L%C3%BCleburgaz_-_Sokullu_Mehmet_Pa%C5%9Fa_Arasta_ve_Dua_Kubbesi%2C_L%C3%BCleburgaz_-_20250531151420.jpg/1280px-L%C3%BCleburgaz_-_Sokullu_Mehmet_Pa%C5%9Fa_Arasta_ve_Dua_Kubbesi%2C_L%C3%BCleburgaz_-_20250531151420.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-luleburgaz/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Lüleburgaz, Sokullu Mehmet Paşa Arasta ve Dua Kubbesi, Lüleburgaz",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCleburgaz_-_Sokullu_Mehmet_Pa%C5%9Fa_Arasta_ve_Dua_Kubbesi,_L%C3%BCleburgaz_-_20250531151420.jpg",
+    "file": "File:Lüleburgaz - Sokullu Mehmet Paşa Arasta ve Dua Kubbesi, Lüleburgaz - 20250531151420.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Luleburgaz_Sokollu_Mehmet_Mosque_Porch_in_1999_215.jpg/1280px-Luleburgaz_Sokollu_Mehmet_Mosque_Porch_in_1999_215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-luleburgaz/thumbs/4.webp",
+    "w": 910,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · One of scanned slides from 1999",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luleburgaz_Sokollu_Mehmet_Mosque_Porch_in_1999_215.jpg",
+    "file": "File:Luleburgaz Sokollu Mehmet Mosque Porch in 1999 215.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/L%C3%BCleburgaz_-_Sokollu_Mehmed_Pasha_Mosque%2C_L%C3%BCleburgaz_-_20250531160451.jpg/1280px-L%C3%BCleburgaz_-_Sokollu_Mehmed_Pasha_Mosque%2C_L%C3%BCleburgaz_-_20250531160451.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sokollu-mehmed-pasha-mosque-luleburgaz/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Lüleburgaz, Sokollu Mehmed Pasha Mosque, Lüleburgaz",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCleburgaz_-_Sokollu_Mehmed_Pasha_Mosque,_L%C3%BCleburgaz_-_20250531160451.jpg",
+    "file": "File:Lüleburgaz - Sokollu Mehmed Pasha Mosque, Lüleburgaz - 20250531160451.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wells-fargo-center",
@@ -308120,7 +311292,83 @@ window.BUILDINGS = [
   "commons": "Category:Wells Fargo Center (Minneapolis)",
   "lead": "File:Wells Fargo Center from Foshay.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Wells_Fargo_Center_from_Foshay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/wells-fargo-center/thumbs/0.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Wells Fargo Center as viewed from the en:Foshay Tower in en:Minneapolis, Minnesota ",
+    "credit": "No machine-readable author provided.  Mulad  assumed (based on copyright claims).",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_from_Foshay.jpg",
+    "file": "File:Wells Fargo Center from Foshay.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Minneapolis_April_2025_06_%28Wells_Fargo_Center%29.jpg/1280px-Minneapolis_April_2025_06_%28Wells_Fargo_Center%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wells-fargo-center/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Wells Fargo Center in Minneapolis , Minnesota ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_April_2025_06_(Wells_Fargo_Center).jpg",
+    "file": "File:Minneapolis April 2025 06 (Wells Fargo Center).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Kris_Lindahl_Real_Estate_-_Guaranteed_Offer_-_Real_Estate_Plane_Banner_over_Downtown_Minneapolis_%2848956168251%29.jpg/1280px-Kris_Lindahl_Real_Estate_-_Guaranteed_Offer_-_Real_Estate_Plane_Banner_over_Downtown_Minneapolis_%2848956168251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wells-fargo-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 842,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tony Webster  from Minneapolis, Minnesota, United States",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kris_Lindahl_Real_Estate_-_Guaranteed_Offer_-_Real_Estate_Plane_Banner_over_Downtown_Minneapolis_(48956168251).jpg",
+    "file": "File:Kris Lindahl Real Estate - Guaranteed Offer - Real Estate Plane Banner over Downtown Minneapolis (48956168251).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Minneapolis_April_2025_01_%28Wells_Fargo_Center%29.jpg/1280px-Minneapolis_April_2025_01_%28Wells_Fargo_Center%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wells-fargo-center/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Wells Fargo Center in Minneapolis , Minnesota ( United States )",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_April_2025_01_(Wells_Fargo_Center).jpg",
+    "file": "File:Minneapolis April 2025 01 (Wells Fargo Center).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Minneapolis_neighborhood_Marshall_Terrace_%2852230295024%29.jpg/1280px-Minneapolis_neighborhood_Marshall_Terrace_%2852230295024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wells-fargo-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Randolph Street in Northeast Minneapolis",
+    "credit": "Fibonacci Blue  from Minnesota, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minneapolis_neighborhood_Marshall_Terrace_(52230295024).jpg",
+    "file": "File:Minneapolis neighborhood Marshall Terrace (52230295024).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Windows_%28242275331%29.jpg/1280px-Windows_%28242275331%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wells-fargo-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 875,
+    "kind": "Detail",
+    "caption": "Detail · Reflection of the Northstar Center seen in the windows of the Wells Fargo Center across the street",
+    "credit": "Sharon Mollerus",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Windows_(242275331).jpg",
+    "file": "File:Windows (242275331).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "pertev-pasa-mosque",
@@ -308144,7 +311392,59 @@ window.BUILDINGS = [
   "commons": "Category:Pertev Pasha Mosque",
   "lead": "File:Yeni cuma camii (1) 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Yeni_cuma_camii_%281%29_01.jpg/1280px-Yeni_cuma_camii_%281%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pertev-pasa-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Yeni cuma camii (1)",
+    "credit": "Kocaeligönüllüsü",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yeni_cuma_camii_(1)_01.jpg",
+    "file": "File:Yeni cuma camii (1) 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Yeni_cuma_camii_%281%29_04.jpg/1280px-Yeni_cuma_camii_%281%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pertev-pasa-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Yeni cuma camii (1)",
+    "credit": "Kocaeligönüllüsü",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yeni_cuma_camii_(1)_04.jpg",
+    "file": "File:Yeni cuma camii (1) 04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Yeni_Cuma_Mosque_in_%C4%B0zmit%2C_Kocaeli_07.11.2025_01.jpg/1280px-Yeni_Cuma_Mosque_in_%C4%B0zmit%2C_Kocaeli_07.11.2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pertev-pasa-mosque/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Yeni Cuma Mosque",
+    "credit": "Wiki leylek",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yeni_Cuma_Mosque_in_%C4%B0zmit,_Kocaeli_07.11.2025_01.jpg",
+    "file": "File:Yeni Cuma Mosque in İzmit, Kocaeli 07.11.2025 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Yeni_Cuma_Mosque_in_%C4%B0zmit%2C_Kocaeli_07.11.2025_11.jpg/1280px-Yeni_Cuma_Mosque_in_%C4%B0zmit%2C_Kocaeli_07.11.2025_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/pertev-pasa-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Yeni Cuma Mosque",
+    "credit": "Wiki leylek",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yeni_Cuma_Mosque_in_%C4%B0zmit,_Kocaeli_07.11.2025_11.jpg",
+    "file": "File:Yeni Cuma Mosque in İzmit, Kocaeli 07.11.2025 11.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "lumbracle",
@@ -308168,7 +311468,83 @@ window.BUILDINGS = [
   "commons": "Category:L'Umbracle",
   "lead": "File:Umbráculo, Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 43.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Umbr%C3%A1culo%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_43.JPG/1280px-Umbr%C3%A1culo%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_43.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lumbracle/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Shade House, City of Arts and Sciences, Valencia, Spain",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Umbr%C3%A1culo,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_43.JPG",
+    "file": "File:Umbráculo, Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 43.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_39.JPG/1280px-Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_39.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lumbracle/thumbs/1.webp",
+    "w": 1280,
+    "h": 760,
+    "kind": "Exterior",
+    "caption": "Exterior · City of Arts and Sciences, Valencia, Spain",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_39.JPG",
+    "file": "File:Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 39.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Umbr%C3%A1culo%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_41.JPG/1280px-Umbr%C3%A1culo%2C_Ciudad_de_las_Artes_y_las_Ciencias%2C_Valencia%2C_Espa%C3%B1a%2C_2014-06-29%2C_DD_41.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lumbracle/thumbs/2.webp",
+    "w": 1280,
+    "h": 1032,
+    "kind": "Exterior",
+    "caption": "Exterior · The Shade House, City of Arts and Sciences, Valencia, Spain",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Umbr%C3%A1culo,_Ciudad_de_las_Artes_y_las_Ciencias,_Valencia,_Espa%C3%B1a,_2014-06-29,_DD_41.JPG",
+    "file": "File:Umbráculo, Ciudad de las Artes y las Ciencias, Valencia, España, 2014-06-29, DD 41.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/20151120_005_Valencia_-_Umbracle_%2822703412764%29.jpg/1280px-20151120_005_Valencia_-_Umbracle_%2822703412764%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lumbracle/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · open-air night club",
+    "credit": "Sjaak Kempe  from Groningen, The Netherlands",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20151120_005_Valencia_-_Umbracle_(22703412764).jpg",
+    "file": "File:20151120 005 Valencia - Umbracle (22703412764).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg/1280px-L%27Umbracle%2C_Valencia%2C_Spain_-_Jan_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lumbracle/thumbs/4.webp",
+    "w": 1280,
+    "h": 812,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:L%27Umbracle,_Valencia,_Spain_-_Jan_2007.jpg",
+    "file": "File:L'Umbracle, Valencia, Spain - Jan 2007.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Valencia-Quartre_Carreres%2C_binnenkant_van_l%27Umbracle_IMG_3090_2026-08-25_17.58.jpg/1280px-Valencia-Quartre_Carreres%2C_binnenkant_van_l%27Umbracle_IMG_3090_2026-08-25_17.58.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/lumbracle/thumbs/5.webp",
+    "w": 1021,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Valencia-Quatre Carreres, la Ciutat de les Arts i les Ciències: inside of l'Umbracle",
+    "credit": "Michielverbeek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Valencia-Quartre_Carreres,_binnenkant_van_l%27Umbracle_IMG_3090_2026-08-25_17.58.jpg",
+    "file": "File:Valencia-Quartre Carreres, binnenkant van l'Umbracle IMG 3090 2026-08-25 17.58.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "425-park-avenue",
@@ -308192,7 +311568,71 @@ window.BUILDINGS = [
   "commons": "Category:425 Park Avenue",
   "lead": "File:425 Park Avenue (55272623292).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/425_Park_Avenue_%2855272623292%29.jpg/1280px-425_Park_Avenue_%2855272623292%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/425-park-avenue/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · New York, NY",
+    "credit": "ajay_suresh",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:425_Park_Avenue_(55272623292).jpg",
+    "file": "File:425 Park Avenue (55272623292).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Park_Av_Nov_2021_24.jpg/1280px-Park_Av_Nov_2021_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/425-park-avenue/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 425 Park Avenue in Manhattan, New York, seen in November 2021",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Park_Av_Nov_2021_24.jpg",
+    "file": "File:Park Av Nov 2021 24.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/425_Park_Ave._LOC_gsc.5a24902.jpg/1280px-425_Park_Ave._LOC_gsc.5a24902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/425-park-avenue/thumbs/2.webp",
+    "w": 1114,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Title: 425 Park Ave",
+    "credit": "Gottscho-Schleisner Collection",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:425_Park_Ave._LOC_gsc.5a24902.jpg",
+    "file": "File:425 Park Ave. LOC gsc.5a24902.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Park_Av_Nov_2021_25.jpg/1280px-Park_Av_Nov_2021_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/425-park-avenue/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · 425 Park Avenue in Manhattan, New York, seen in November 2021",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Park_Av_Nov_2021_25.jpg",
+    "file": "File:Park Av Nov 2021 25.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/425_Park_Ave_construction_at_the_base.jpg/1280px-425_Park_Ave_construction_at_the_base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/425-park-avenue/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Z22",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:425_Park_Ave_construction_at_the_base.jpg",
+    "file": "File:425 Park Ave construction at the base.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "frank-lloyd-wright-home-and-studio",
@@ -308216,7 +311656,97 @@ window.BUILDINGS = [
   "commons": "Category:Frank Lloyd Wright Home and Studio",
   "lead": "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (6).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Frank_Lloyd_Wright_-_Oak_Park%2C_IL_-_Home_and_Studio_%286%29.jpg/1280px-Frank_Lloyd_Wright_-_Oak_Park%2C_IL_-_Home_and_Studio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Built 1889-1909",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Oak_Park,_IL_-_Home_and_Studio_(6).jpg",
+    "file": "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (6).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Frank_Lloyd_Wright_-_Oak_Park%2C_IL_-_Home_and_Studio_%285%29.jpg/1280px-Frank_Lloyd_Wright_-_Oak_Park%2C_IL_-_Home_and_Studio_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/1.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Built in 1889-1909",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Oak_Park,_IL_-_Home_and_Studio_(5).jpg",
+    "file": "File:Frank Lloyd Wright - Oak Park, IL - Home and Studio (5).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/FLW_home_and_studio.jpg/1280px-FLW_home_and_studio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright Home and Studio in 2026",
+    "credit": "Theemausoliam",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:FLW_home_and_studio.jpg",
+    "file": "File:FLW home and studio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Frank_Lloyd_Wright_bedroom_freeze_DSCN9785.jpg/1280px-Frank_Lloyd_Wright_bedroom_freeze_DSCN9785.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · A freeze on the bedroom wall in Frank Lloyd Wright's Home in Oak Park , near Chicago",
+    "credit": "AlasdairW",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_bedroom_freeze_DSCN9785.jpg",
+    "file": "File:Frank Lloyd Wright bedroom freeze DSCN9785.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Frank_Lloyd_Wright_Home_bathroom_DSCN9788.jpg/1280px-Frank_Lloyd_Wright_Home_bathroom_DSCN9788.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Bathroom of Frank Lloyd Wright's Home in Oak Park , near Chicago",
+    "credit": "AlasdairW",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_Home_bathroom_DSCN9788.jpg",
+    "file": "File:Frank Lloyd Wright Home bathroom DSCN9788.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Frank_Lloyd_Wright_Home_and_Studio_Marker.jpg/1280px-Frank_Lloyd_Wright_Home_and_Studio_Marker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/5.webp",
+    "w": 1033,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Photo of the marker and logo outside the Frank Lloyd Wright Home and Studio in Oak Park, Illinois",
+    "credit": "Golbez",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_Home_and_Studio_Marker.jpg",
+    "file": "File:Frank Lloyd Wright Home and Studio Marker.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/45_Casa_Vicens_%28Barcelona%29%2C_maqueta_de_la_casa_de_Frank_Lloyd_Wright_a_Oak_Park%2C_Illinois.jpg/1280px-45_Casa_Vicens_%28Barcelona%29%2C_maqueta_de_la_casa_de_Frank_Lloyd_Wright_a_Oak_Park%2C_Illinois.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/frank-lloyd-wright-home-and-studio/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Casa Vicens (Barcelona), maqueta de la casa de Frank Lloyd Wright a Oak Park, Illinois",
+    "credit": "Enric",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:45_Casa_Vicens_(Barcelona),_maqueta_de_la_casa_de_Frank_Lloyd_Wright_a_Oak_Park,_Illinois.jpg",
+    "file": "File:45 Casa Vicens (Barcelona), maqueta de la casa de Frank Lloyd Wright a Oak Park, Illinois.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "gazi-hajdar-kadi-mosque",
@@ -308240,7 +311770,71 @@ window.BUILDINGS = [
   "commons": "Category:Hajdar Kadi Mosque (Bitola)",
   "lead": "File:Haydar kadı mosque Bt.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Haydar_kad%C4%B1_mosque_Bt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/gazi-hajdar-kadi-mosque/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Haydar kadı mosque in Bitola",
+    "credit": "гитардемон",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haydar_kad%C4%B1_mosque_Bt.jpg",
+    "file": "File:Haydar kadı mosque Bt.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%D0%9C%D0%B8%D0%BD%D0%B0%D1%80%D0%B5%D1%82_%D0%90%D1%98%D0%B4%D0%B0%D1%80_%D0%BA%D0%B0%D0%B4%D0%B8_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0_%D0%91%D0%B8%D1%82%D0%BE%D1%99_%28Minaret_of_Hajdar_Kadi_Mosque%2C_Bitola%29.jpg/1280px-%D0%9C%D0%B8%D0%BD%D0%B0%D1%80%D0%B5%D1%82_%D0%90%D1%98%D0%B4%D0%B0%D1%80_%D0%BA%D0%B0%D0%B4%D0%B8_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0_%D0%91%D0%B8%D1%82%D0%BE%D1%99_%28Minaret_of_Hajdar_Kadi_Mosque%2C_Bitola%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gazi-hajdar-kadi-mosque/thumbs/1.webp",
+    "w": 1051,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Minaret of Gazi Hajdar Kadi Mosque , in Bitola, Macedonia",
+    "credit": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D0%BD%D0%B0%D1%80%D0%B5%D1%82_%D0%90%D1%98%D0%B4%D0%B0%D1%80_%D0%BA%D0%B0%D0%B4%D0%B8_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0_%D0%91%D0%B8%D1%82%D0%BE%D1%99_(Minaret_of_Hajdar_Kadi_Mosque,_Bitola).jpg",
+    "file": "File:Минарет Ајдар кади џамија Битољ (Minaret of Hajdar Kadi Mosque, Bitola).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Haydar_kad%C4%B1_mosque_BT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/gazi-hajdar-kadi-mosque/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Haydar kadı mosque in Bitola",
+    "credit": "гитардемон",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haydar_kad%C4%B1_mosque_BT.jpg",
+    "file": "File:Haydar kadı mosque BT.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%90%D1%98%D0%B4%D0%B0%D1%80_%D0%BA%D0%B0%D0%B4%D0%B8_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0_%28enterance_domes_of_Hajdar_Kadi_Mosque%2C_Bitola%29.jpg/1280px-%D0%90%D1%98%D0%B4%D0%B0%D1%80_%D0%BA%D0%B0%D0%B4%D0%B8_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0%2C_%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0_%28enterance_domes_of_Hajdar_Kadi_Mosque%2C_Bitola%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gazi-hajdar-kadi-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 798,
+    "kind": "Interior",
+    "caption": "Interior · Three small domes at enterance of Hajdar Kadi Mosque, Bitola, Macedonia",
+    "credit": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%90%D1%98%D0%B4%D0%B0%D1%80_%D0%BA%D0%B0%D0%B4%D0%B8_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0,_%D0%91%D0%B8%D1%82%D0%BE%D0%BB%D0%B0_(enterance_domes_of_Hajdar_Kadi_Mosque,_Bitola).jpg",
+    "file": "File:Ајдар кади џамија, Битола (enterance domes of Hajdar Kadi Mosque, Bitola).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Islamic_geometric_patterns_%28Aydar_kadi_mosque%2C_Bitola%2C_Macedonia%29.jpg/1280px-Islamic_geometric_patterns_%28Aydar_kadi_mosque%2C_Bitola%2C_Macedonia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gazi-hajdar-kadi-mosque/thumbs/4.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Interior",
+    "caption": "Interior · Islamic Arabesque, Aydar kadi mosque, Bitola, Macedonia",
+    "credit": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Islamic_geometric_patterns_(Aydar_kadi_mosque,_Bitola,_Macedonia).jpg",
+    "file": "File:Islamic geometric patterns (Aydar kadi mosque, Bitola, Macedonia).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "artigas-gardens",
@@ -308264,7 +311858,83 @@ window.BUILDINGS = [
   "commons": "Category:Jardins de Can Artigas",
   "lead": "File:Lillet21.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Lillet21.jpg/1280px-Lillet21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/artigas-gardens/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Jardines de Can Artigas , La Pobla de Lillet (Barcelona)",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lillet21.jpg",
+    "file": "File:Lillet21.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Jardins_d%27Artigas_%28la_Pobla_de_Lillet%29_-_1.jpg/1280px-Jardins_d%27Artigas_%28la_Pobla_de_Lillet%29_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/artigas-gardens/thumbs/1.webp",
+    "w": 1280,
+    "h": 722,
+    "kind": "Exterior",
+    "caption": "Exterior · Jardins d'Artigas (la Pobla de Lillet)",
+    "credit": "jqmj (Queralt)",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jardins_d%27Artigas_(la_Pobla_de_Lillet)_-_1.jpg",
+    "file": "File:Jardins d'Artigas (la Pobla de Lillet) - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%22Tren_del_Ciment%22_%28SCH%C3%96MA%29.jpg/1280px-%22Tren_del_Ciment%22_%28SCH%C3%96MA%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/artigas-gardens/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Locomotora dièsel SCHÖMA del \"Tren del Ciment\" fent entrada a l'estació de l'antiga fàbrica de ciment",
+    "credit": "Luis Zamora  from Cataluña, España",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Tren_del_Ciment%22_(SCH%C3%96MA).jpg",
+    "file": "File:\"Tren del Ciment\" (SCHÖMA).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Riu_Llobregat_al_costat_de_la_f%C3%A0brica_antiga.jpeg/1280px-Riu_Llobregat_al_costat_de_la_f%C3%A0brica_antiga.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/artigas-gardens/thumbs/3.webp",
+    "w": 1280,
+    "h": 592,
+    "kind": "Exterior",
+    "caption": "Exterior · Riu Llobregat al costat de la fàbrica antiga ",
+    "credit": "Josep Salvany i Blanch",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Riu_Llobregat_al_costat_de_la_f%C3%A0brica_antiga.jpeg",
+    "file": "File:Riu Llobregat al costat de la fàbrica antiga.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Lillet17.jpg/1280px-Lillet17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/artigas-gardens/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Jardines de Can Artigas, La Pobla de Lillet (Barcelona)",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lillet17.jpg",
+    "file": "File:Lillet17.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Eagle_-_Artigas_gardens.JPG/1280px-Eagle_-_Artigas_gardens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/artigas-gardens/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Eagle",
+    "credit": "Jordiferrer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eagle_-_Artigas_gardens.JPG",
+    "file": "File:Eagle - Artigas gardens.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "seyh-celebi-mosque",
@@ -308288,7 +311958,59 @@ window.BUILDINGS = [
   "commons": "Category:Şeyhi Çelebi Camii",
   "lead": "File:Şeyhi Çelebi Camii 2025 - 2c.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%C5%9Eeyhi_%C3%87elebi_Camii_2025_-_2c.jpg/1280px-%C5%9Eeyhi_%C3%87elebi_Camii_2025_-_2c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seyh-celebi-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 1144,
+    "kind": "Exterior",
+    "caption": "Exterior · Şeyhi Çelebi Camii",
+    "credit": "İmmortalance",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eeyhi_%C3%87elebi_Camii_2025_-_2c.jpg",
+    "file": "File:Şeyhi Çelebi Camii 2025 - 2c.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/%C5%9Eeyh_%C3%87elebi_Camii_22.JPG/1280px-%C5%9Eeyh_%C3%87elebi_Camii_22.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seyh-celebi-mosque/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Şeyh Çelebi Camii",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eeyh_%C3%87elebi_Camii_22.JPG",
+    "file": "File:Şeyh Çelebi Camii 22.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/%C5%9Eeyh_%C3%87elebi_Camii_23.JPG/1280px-%C5%9Eeyh_%C3%87elebi_Camii_23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seyh-celebi-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Şeyh Çelebi Camii",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eeyh_%C3%87elebi_Camii_23.JPG",
+    "file": "File:Şeyh Çelebi Camii 23.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%C5%9Eeyhi_%C3%87elebi_Mezar%C4%B1.jpg/1280px-%C5%9Eeyhi_%C3%87elebi_Mezar%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seyh-celebi-mosque/thumbs/3.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Şeyh Çelebi Mezarı, Edirne, Türkiye",
+    "credit": "İmmortalance",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9Eeyhi_%C3%87elebi_Mezar%C4%B1.jpg",
+    "file": "File:Şeyhi Çelebi Mezarı.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "yahya-bey-mosque",
@@ -308312,7 +312034,59 @@ window.BUILDINGS = [
   "commons": "Category:Yahya Bey mosque",
   "lead": "File:Yahya Bey Camii 22.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Yahya_Bey_Camii_22.JPG/1280px-Yahya_Bey_Camii_22.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yahya-bey-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Yahya Bey Camii",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yahya_Bey_Camii_22.JPG",
+    "file": "File:Yahya Bey Camii 22.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yahya_Bey_Camii_IMG_4620.jpg/1280px-Yahya_Bey_Camii_IMG_4620.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yahya-bey-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yahya_Bey_Camii_IMG_4620.jpg",
+    "file": "File:Yahya Bey Camii IMG 4620.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Yahya_Bey_Camii_IMG_4616.jpg/1280px-Yahya_Bey_Camii_IMG_4616.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yahya-bey-mosque/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This picture was uploaded via app \"Wiki Loves Monuments Turkey\" ",
+    "credit": "Ali Osman Dilekoğlu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yahya_Bey_Camii_IMG_4616.jpg",
+    "file": "File:Yahya Bey Camii IMG 4616.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Yahya_Bey_Camii_23.JPG/1280px-Yahya_Bey_Camii_23.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/yahya-bey-mosque/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Yahya Bey Camii",
+    "credit": "Sadrettin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yahya_Bey_Camii_23.JPG",
+    "file": "File:Yahya Bey Camii 23.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "palacio-do-jaburu",
@@ -308336,7 +312110,83 @@ window.BUILDINGS = [
   "commons": "Category:Palácio do Jaburu",
   "lead": "File:2014 - Palácio do Jaburu (11821778125).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Pal%C3%A1cio_do_Jaburu_%2814077422657%29.jpg/1280px-Pal%C3%A1cio_do_Jaburu_%2814077422657%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-do-jaburu/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Palácio do Jaburu Foto: Anderson Riedel",
+    "credit": "Michel Temer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Jaburu_(14077422657).jpg",
+    "file": "File:Palácio do Jaburu (14077422657).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2014_-_Pal%C3%A1cio_do_Jaburu_%2811821689765%29.jpg/1280px-2014_-_Pal%C3%A1cio_do_Jaburu_%2811821689765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-do-jaburu/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · 2014 - Palácio do Jaburu Fotos: Anderson Riedel",
+    "credit": "Michel Temer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2014_-_Pal%C3%A1cio_do_Jaburu_(11821689765).jpg",
+    "file": "File:2014 - Palácio do Jaburu (11821689765).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/30-07-2024_Vitral_da_Artista_Marianne_Peretti_na_Capelinha_do_Pal%C3%A1cio_do_Jaburu_%2853891130577%29.jpg/1280px-30-07-2024_Vitral_da_Artista_Marianne_Peretti_na_Capelinha_do_Pal%C3%A1cio_do_Jaburu_%2853891130577%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-do-jaburu/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · 30-07-2024 Vitral da Artista Marianne Peretti na Capelinha do Palácio do Jaburu em Brasília",
+    "credit": "Vice-Presidência da República",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:30-07-2024_Vitral_da_Artista_Marianne_Peretti_na_Capelinha_do_Pal%C3%A1cio_do_Jaburu_(53891130577).jpg",
+    "file": "File:30-07-2024 Vitral da Artista Marianne Peretti na Capelinha do Palácio do Jaburu (53891130577).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/30-07-2024_Vitral_da_Artista_Marianne_Peretti_na_Capelinha_do_Pal%C3%A1cio_do_Jaburu_%2853891149987%29.jpg/1280px-30-07-2024_Vitral_da_Artista_Marianne_Peretti_na_Capelinha_do_Pal%C3%A1cio_do_Jaburu_%2853891149987%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-do-jaburu/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · 30-07-2024 Vitral da Artista Marianne Peretti na Capelinha do Palácio do Jaburu em Brasília",
+    "credit": "Vice-Presidência da República",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:30-07-2024_Vitral_da_Artista_Marianne_Peretti_na_Capelinha_do_Pal%C3%A1cio_do_Jaburu_(53891149987).jpg",
+    "file": "File:30-07-2024 Vitral da Artista Marianne Peretti na Capelinha do Palácio do Jaburu (53891149987).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Pal%C3%A1cio_do_Jaburu_-_Capela_%2814264363475%29.jpg/1280px-Pal%C3%A1cio_do_Jaburu_-_Capela_%2814264363475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-do-jaburu/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Palácio do Jaburu - Capela Fotos: Anderson Riedel",
+    "credit": "Michel Temer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Jaburu_-_Capela_(14264363475).jpg",
+    "file": "File:Palácio do Jaburu - Capela (14264363475).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pal%C3%A1cio_do_Jaburu_-_Jardins_de_Burle_Marx.jpg/1280px-Pal%C3%A1cio_do_Jaburu_-_Jardins_de_Burle_Marx.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-do-jaburu/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Burle Marx Garden",
+    "credit": "Ascom Vpr",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1cio_do_Jaburu_-_Jardins_de_Burle_Marx.jpg",
+    "file": "File:Palácio do Jaburu - Jardins de Burle Marx.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "omniturm",
@@ -308360,7 +312210,83 @@ window.BUILDINGS = [
   "commons": "Category:Omniturm",
   "lead": "File:Omniturm Frankfurt 09-19.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Omniturm_Frankfurt_09-19.jpg/1280px-Omniturm_Frankfurt_09-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/omniturm/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Baufortschritt am Omniturm in Frankfurt im September 2019",
+    "credit": "Silesia711",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Omniturm_Frankfurt_09-19.jpg",
+    "file": "File:Omniturm Frankfurt 09-19.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Omniturm_Frankfurt_am_Main.jpg/1280px-Omniturm_Frankfurt_am_Main.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/omniturm/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Omniturm is skyscraper completed between 2014 and 2019 in Frankfurt am Main",
+    "credit": "Choinowski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Omniturm_Frankfurt_am_Main.jpg",
+    "file": "File:Omniturm Frankfurt am Main.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Omniturm_Frankfurt_02-19_B.jpg/1280px-Omniturm_Frankfurt_02-19_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/omniturm/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Baufortschritt am Omniturm in Frankfurt im Februar 2019",
+    "credit": "Silesia711",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Omniturm_Frankfurt_02-19_B.jpg",
+    "file": "File:Omniturm Frankfurt 02-19 B.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Marienturm_und_Omniturm.jpg/1280px-Marienturm_und_Omniturm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/omniturm/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sicht auf die Baustellen des Marienturm und des Omniturms aus dem Trianon, Ffm im Januar 2018",
+    "credit": "Jonathan Naumann ( https://de.wikipedia.org/wiki/Benutzer:Vandango )",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Marienturm_und_Omniturm.jpg",
+    "file": "File:Marienturm und Omniturm.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Metzler-Haus.jpg/1280px-Metzler-Haus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/omniturm/thumbs/4.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Interior",
+    "caption": "Interior · Headquarters of Metzler Bank in Frankfurt, Germany",
+    "credit": "Thomas Wolf",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metzler-Haus.jpg",
+    "file": "File:Metzler-Haus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Omniturm_Frankfurt_04-18.jpg/1280px-Omniturm_Frankfurt_04-18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/omniturm/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Baufortschritt am Omniturm in Frankfurt Mitte April 2018",
+    "credit": "Silesia711",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Omniturm_Frankfurt_04-18.jpg",
+    "file": "File:Omniturm Frankfurt 04-18.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "aalto-center",
@@ -308384,7 +312310,83 @@ window.BUILDINGS = [
   "commons": "Category:Aaltokeskus",
   "lead": "File:Aalto-keskus 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Aalto-keskus_2.jpg/1280px-Aalto-keskus_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 882,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aalto-keskus_2.jpg",
+    "file": "File:Aalto-keskus 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sein%C3%A4joki_library%2C_city_hall_and_theater_from_bell_tower_of_Lakeuden_risti_02.jpg/1280px-Sein%C3%A4joki_library%2C_city_hall_and_theater_from_bell_tower_of_Lakeuden_risti_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 704,
+    "kind": "Interior",
+    "caption": "Interior · Seinäjoki library, city hall and theater as seen from the bell tower of Lakeuden risti in Finland",
+    "credit": "Ninara",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_library,_city_hall_and_theater_from_bell_tower_of_Lakeuden_risti_02.jpg",
+    "file": "File:Seinäjoki library, city hall and theater from bell tower of Lakeuden risti 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Aalto-keskus_3.jpg/1280px-Aalto-keskus_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 867,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aalto-keskus_3.jpg",
+    "file": "File:Aalto-keskus 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sein%C3%A4joki_old_library_and_Lakeuden_risti_20180925.jpg/1280px-Sein%C3%A4joki_old_library_and_Lakeuden_risti_20180925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_old_library_and_Lakeuden_risti_20180925.jpg",
+    "file": "File:Seinäjoki old library and Lakeuden risti 20180925.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sein%C3%A4joki_City_Theater_entrance_20180925.jpg/1280px-Sein%C3%A4joki_City_Theater_entrance_20180925.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Center' (Q4250273) - RKY: 1667",
+    "credit": "Santeri Viinamäki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_City_Theater_entrance_20180925.jpg",
+    "file": "File:Seinäjoki City Theater entrance 20180925.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sein%C3%A4joki_City_Library_-_interior.jpg/1280px-Sein%C3%A4joki_City_Library_-_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/aalto-center/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Seinäjoki City Library, Finland - interior",
+    "credit": "Ninara",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sein%C3%A4joki_City_Library_-_interior.jpg",
+    "file": "File:Seinäjoki City Library - interior.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "suleymaniye-hamam",
@@ -308408,7 +312410,83 @@ window.BUILDINGS = [
   "commons": "Category:Süleymaniye Hammam",
   "lead": "File:Süleymaniye Hammam from outside, 2024.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/S%C3%BCleymaniye_Hammam_from_outside%2C_2024.jpg/1280px-S%C3%BCleymaniye_Hammam_from_outside%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suleymaniye-hamam/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Süleymaniye Hamamı, 2024",
+    "credit": "Karakalem",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%BCleymaniye_Hammam_from_outside,_2024.jpg",
+    "file": "File:Süleymaniye Hammam from outside, 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Suleymaniye_Hamam_DSCF5502.jpg/1280px-Suleymaniye_Hamam_DSCF5502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suleymaniye-hamam/thumbs/1.webp",
+    "w": 1238,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Süleymaniye Hammam, Istanbul",
+    "credit": "R Prazeres",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suleymaniye_Hamam_DSCF5502.jpg",
+    "file": "File:Suleymaniye Hamam DSCF5502.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Hamam_Suleymaniye_%286363366371%29.jpg/1280px-Hamam_Suleymaniye_%286363366371%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suleymaniye-hamam/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hamam Suleymaniye",
+    "credit": "Roser Goula  from Barcelona",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamam_Suleymaniye_(6363366371).jpg",
+    "file": "File:Hamam Suleymaniye (6363366371).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Hamam_Suleymaniye_%286363369953%29.jpg/1280px-Hamam_Suleymaniye_%286363369953%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suleymaniye-hamam/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hamam Suleymaniye",
+    "credit": "Roser Goula  from Barcelona",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hamam_Suleymaniye_(6363369953).jpg",
+    "file": "File:Hamam Suleymaniye (6363369953).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/S%C3%BCleyman_Mosque_garden_View_with_dome_of_hamam_in_2024_5551.jpg/1280px-S%C3%BCleyman_Mosque_garden_View_with_dome_of_hamam_in_2024_5551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suleymaniye-hamam/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · One of pictures taken in the NE garden",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%BCleyman_Mosque_garden_View_with_dome_of_hamam_in_2024_5551.jpg",
+    "file": "File:Süleyman Mosque garden View with dome of hamam in 2024 5551.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Istanbul_Suleymaniye_Complex_Hammam_2018_5428.jpg/1280px-Istanbul_Suleymaniye_Complex_Hammam_2018_5428.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suleymaniye-hamam/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Context",
+    "caption": "Context · At the end of a street with medreses, and near the entrance to the gardens, there is a hamam",
+    "credit": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Suleymaniye_Complex_Hammam_2018_5428.jpg",
+    "file": "File:Istanbul Suleymaniye Complex Hammam 2018 5428.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "toyota-city-museum",
@@ -308432,7 +312510,71 @@ window.BUILDINGS = [
   "commons": "Category:Toyota City Museum",
   "lead": "File:Toyohaku1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Toyohaku1.jpg/1280px-Toyohaku1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-city-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bariston",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyohaku1.jpg",
+    "file": "File:Toyohaku1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Toyota_City_Local_History_Museum_2025-01_ac_%281%29.jpg/1280px-Toyota_City_Local_History_Museum_2025-01_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-city-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_City_Local_History_Museum_2025-01_ac_(1).jpg",
+    "file": "File:Toyota City Local History Museum 2025-01 ac (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Toyota_City_Local_History_Museum_2025-01_ac_%282%29.jpg/1280px-Toyota_City_Local_History_Museum_2025-01_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-city-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_City_Local_History_Museum_2025-01_ac_(2).jpg",
+    "file": "File:Toyota City Local History Museum 2025-01 ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Toyota_City_Museum_%28Aichi%29_VLux5_hdsr_02.jpg/1280px-Toyota_City_Museum_%28Aichi%29_VLux5_hdsr_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-city-museum/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · au musée de la ville de Toyota (Aichi)",
+    "credit": "Hyppolyte de Saint-Rambert",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_City_Museum_(Aichi)_VLux5_hdsr_02.jpg",
+    "file": "File:Toyota City Museum (Aichi) VLux5 hdsr 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Toyohaku2.jpg/1280px-Toyohaku2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/toyota-city-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Bariston",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyohaku2.jpg",
+    "file": "File:Toyohaku2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "buen-kulturhus",
@@ -308456,7 +312598,83 @@ window.BUILDINGS = [
   "commons": "Category:Buen kulturhus",
   "lead": "File:Buen, Mandal.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Buen%2C_Mandal.JPG/1280px-Buen%2C_Mandal.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buen-kulturhus/thumbs/0.webp",
+    "w": 1280,
+    "h": 600,
+    "kind": "Exterior",
+    "caption": "Exterior · Kulturhuset Buen i Mandal i Vest-Agder",
+    "credit": "CarstenR",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buen,_Mandal.JPG",
+    "file": "File:Buen, Mandal.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Buen_Kulturhus%2C_Mandal.jpg/1280px-Buen_Kulturhus%2C_Mandal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buen-kulturhus/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Buen Kulturhus, Mandal",
+    "credit": "Ssu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buen_Kulturhus,_Mandal.jpg",
+    "file": "File:Buen Kulturhus, Mandal.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mandal_bibliotek_utenfra.jpg/1280px-Mandal_bibliotek_utenfra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buen-kulturhus/thumbs/2.webp",
+    "w": 1280,
+    "h": 697,
+    "kind": "Exterior",
+    "caption": "Exterior · Mandal bibliotek i Buen kulturhus sett fra utsiden",
+    "credit": "Hetleo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandal_bibliotek_utenfra.jpg",
+    "file": "File:Mandal bibliotek utenfra.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Buen_kulturhus.jpg/1280px-Buen_kulturhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buen-kulturhus/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "trolvag",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buen_kulturhus.jpg",
+    "file": "File:Buen kulturhus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mandal_buen_IMG_3115.JPG/1280px-Mandal_buen_IMG_3115.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buen-kulturhus/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Image from the Buen Culture Hall, in the city of Mandal, Vest-Agder county - in southern Norway",
+    "credit": "Bjoertvedt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandal_buen_IMG_3115.JPG",
+    "file": "File:Mandal buen IMG 3115.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Mandal_buen_kulturhus_IMG_3040.JPG/1280px-Mandal_buen_kulturhus_IMG_3040.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/buen-kulturhus/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Image from the Buen Culture Hall, in the city of Mandal, Vest-Agder county - in southern Norway",
+    "credit": "Bjoertvedt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandal_buen_kulturhus_IMG_3040.JPG",
+    "file": "File:Mandal buen kulturhus IMG 3040.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "otaniemi-water-tower",
@@ -308480,7 +312698,83 @@ window.BUILDINGS = [
   "commons": "Category:Otaniemi water tower",
   "lead": "File:Otaniemen vesitorni 2013.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Otaniemen_vesitorni_1.JPG/1280px-Otaniemen_vesitorni_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/otaniemi-water-tower/thumbs/0.webp",
+    "w": 1031,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "MKFI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Otaniemen_vesitorni_1.JPG",
+    "file": "File:Otaniemen vesitorni 1.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Otaniemen_vesitorni_2.JPG/1280px-Otaniemen_vesitorni_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/otaniemi-water-tower/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "MKFI",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Otaniemen_vesitorni_2.JPG",
+    "file": "File:Otaniemen vesitorni 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Otaniemi_water_tower_2013-10-15.JPG/1280px-Otaniemi_water_tower_2013-10-15.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/otaniemi-water-tower/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The water tower designed by Alvar Aalto in Otaniemi, Espoo , Finland ",
+    "credit": "Trogain",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Otaniemi_water_tower_2013-10-15.JPG",
+    "file": "File:Otaniemi water tower 2013-10-15.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Otaniemi_vesitorni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/otaniemi-water-tower/thumbs/3.webp",
+    "w": 1055,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Otaniemi water tower, Espoo, Finland",
+    "credit": "Htm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Otaniemi_vesitorni.jpg",
+    "file": "File:Otaniemi vesitorni.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Otaniemi_vesitorni_muotoja.jpg/1280px-Otaniemi_vesitorni_muotoja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/otaniemi-water-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 1028,
+    "kind": "Detail",
+    "caption": "Detail · Otaniemi water tower, Espoo, Finland",
+    "credit": "Htm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Otaniemi_vesitorni_muotoja.jpg",
+    "file": "File:Otaniemi vesitorni muotoja.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Kaakkoista_Espoota_23_kes%C3%A4_2009.jpg/1280px-Kaakkoista_Espoota_23_kes%C3%A4_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/otaniemi-water-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Context",
+    "caption": "Context · The south-eastern part of Espoo, Finland",
+    "credit": "DreferComm",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaakkoista_Espoota_23_kes%C3%A4_2009.jpg",
+    "file": "File:Kaakkoista Espoota 23 kesä 2009.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "annunciation-greek-orthodox-church",
@@ -308504,7 +312798,83 @@ window.BUILDINGS = [
   "commons": "Category:Annunciation Greek Orthodox Church",
   "lead": "File:Annunciation Church Apr09.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Annunciation_Church_Apr09.jpg/1280px-Annunciation_Church_Apr09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/annunciation-greek-orthodox-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "The original uploader was  Freekee  at  English Wikipedia .",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Annunciation_Church_Apr09.jpg",
+    "file": "File:Annunciation Church Apr09.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Annunciation_Greek_Orthodox_Church.jpg/1280px-Annunciation_Greek_Orthodox_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/annunciation-greek-orthodox-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · This photo was taken during the Doors Open Milwaukee event in 2016",
+    "credit": "Miyin2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Annunciation_Greek_Orthodox_Church.jpg",
+    "file": "File:Annunciation Greek Orthodox Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Doors_Open_Milwaukee_2023_65_%28Annunciation_Greek_Orthodox_Church%29.jpg/1280px-Doors_Open_Milwaukee_2023_65_%28Annunciation_Greek_Orthodox_Church%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/annunciation-greek-orthodox-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doors_Open_Milwaukee_2023_65_(Annunciation_Greek_Orthodox_Church).jpg",
+    "file": "File:Doors Open Milwaukee 2023 65 (Annunciation Greek Orthodox Church).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Frank_Lloyd_Wright_-_Wauwatosa%2C_WI_-_Annunciation_Greek_Orthodox_Church_%281%29.jpg/1280px-Frank_Lloyd_Wright_-_Wauwatosa%2C_WI_-_Annunciation_Greek_Orthodox_Church_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/annunciation-greek-orthodox-church/thumbs/3.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Frank Lloyd Wright in 1956",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Wauwatosa,_WI_-_Annunciation_Greek_Orthodox_Church_(1).jpg",
+    "file": "File:Frank Lloyd Wright - Wauwatosa, WI - Annunciation Greek Orthodox Church (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Frank_Lloyd_Wright_-_Wauwatosa%2C_WI_-_Annunciation_Greek_Orthodox_Church_%2810%29.jpg/1280px-Frank_Lloyd_Wright_-_Wauwatosa%2C_WI_-_Annunciation_Greek_Orthodox_Church_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/annunciation-greek-orthodox-church/thumbs/4.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Frank Lloyd Wright in 1956",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Wauwatosa,_WI_-_Annunciation_Greek_Orthodox_Church_(10).jpg",
+    "file": "File:Frank Lloyd Wright - Wauwatosa, WI - Annunciation Greek Orthodox Church (10).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Annunciation_Greek_Orthodox_Church_Frank_Lloyd_Wright.jpg/1280px-Annunciation_Greek_Orthodox_Church_Frank_Lloyd_Wright.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/annunciation-greek-orthodox-church/thumbs/5.webp",
+    "w": 1280,
+    "h": 1024,
+    "kind": "Exterior",
+    "caption": "Exterior · Frank Lloyd Wright's Annunciation Greek Orthodox Church, Wauwautosa, Wisconsin",
+    "credit": "Markadsit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Annunciation_Greek_Orthodox_Church_Frank_Lloyd_Wright.jpg",
+    "file": "File:Annunciation Greek Orthodox Church Frank Lloyd Wright.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cultural-complex-of-the-republic",
@@ -308528,7 +312898,97 @@ window.BUILDINGS = [
   "commons": "Category:Complexo Cultural da República",
   "lead": "File:Complexo Cultural da Republica 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Complexo_Cultural_da_Republica_01.jpg/1280px-Complexo_Cultural_da_Republica_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Library on the left, dome shaped museum on the right",
+    "credit": "Luis Dantas",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Complexo_Cultural_da_Republica_01.jpg",
+    "file": "File:Complexo Cultural da Republica 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/MuseuNatRep_rainy.jpg/1280px-MuseuNatRep_rainy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · bem tombado em Brasília, Distrito Federal, Brasil",
+    "credit": "Dasfour2022",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MuseuNatRep_rainy.jpg",
+    "file": "File:MuseuNatRep rainy.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Biblioteca_Nacional_de_Bras%C3%ADlia_%28Conjunto_Cultural%29.jpg/1280px-Biblioteca_Nacional_de_Bras%C3%ADlia_%28Conjunto_Cultural%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · bem tombado em Brasília, Distrito Federal, Brasil",
+    "credit": "Demetrio Jereissati",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_de_Bras%C3%ADlia_(Conjunto_Cultural).jpg",
+    "file": "File:Biblioteca Nacional de Brasília (Conjunto Cultural).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Bras%C3%ADlia_-_Cruzeiro_do_Complexo_Cultural_da_Rep%C3%BAblica.jpg/1280px-Bras%C3%ADlia_-_Cruzeiro_do_Complexo_Cultural_da_Rep%C3%BAblica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Brasília - Cruzeiro do Complexo Cultural da República",
+    "credit": "Sintegrity",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Cruzeiro_do_Complexo_Cultural_da_Rep%C3%BAblica.jpg",
+    "file": "File:Brasília - Cruzeiro do Complexo Cultural da República.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bras%C3%ADlia_-_Eixo_Monumental_-_rodovi%C3%A1ria%2C_touring%2C_biblioteca%2C_museu_e_catedral.jpg/1280px-Bras%C3%ADlia_-_Eixo_Monumental_-_rodovi%C3%A1ria%2C_touring%2C_biblioteca%2C_museu_e_catedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral",
+    "credit": "Sintegrity",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Eixo_Monumental_-_rodovi%C3%A1ria,_touring,_biblioteca,_museu_e_catedral.jpg",
+    "file": "File:Brasília - Eixo Monumental - rodoviária, touring, biblioteca, museu e catedral.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bras%C3%ADlia_-_Eixo_monumental_-_rodovi%C3%A1ria%2C_teatro%2C_biblioteca%2C_touring%2C_museu%2C_catedral%2C_ponte%2C_minist%C3%A9rios%2C_congresso.jpg/1280px-Bras%C3%ADlia_-_Eixo_monumental_-_rodovi%C3%A1ria%2C_teatro%2C_biblioteca%2C_touring%2C_museu%2C_catedral%2C_ponte%2C_minist%C3%A9rios%2C_congresso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Sintegrity",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia_-_Eixo_monumental_-_rodovi%C3%A1ria,_teatro,_biblioteca,_touring,_museu,_catedral,_ponte,_minist%C3%A9rios,_congresso.jpg",
+    "file": "File:Brasília - Eixo monumental - rodoviária, teatro, biblioteca, touring, museu, catedral, ponte, ministérios, congresso.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Complexo_Cultural_da_Rep%C3%BAblica_-_Plano_Piloto_-_20201130084450.jpg/1280px-Complexo_Cultural_da_Rep%C3%BAblica_-_Plano_Piloto_-_20201130084450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cultural-complex-of-the-republic/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Plan",
+    "caption": "Plan",
+    "credit": "Cuelhu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Complexo_Cultural_da_Rep%C3%BAblica_-_Plano_Piloto_-_20201130084450.jpg",
+    "file": "File:Complexo Cultural da República - Plano Piloto - 20201130084450.jpg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "martin-ryerson-tomb",
@@ -308552,7 +313012,59 @@ window.BUILDINGS = [
   "commons": "Category:Martin Ryerson Tomb",
   "lead": "File:Chicago, Illinois, Martin Ryerson Tomb 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chicago%2C_Illinois%2C_Martin_Ryerson_Tomb_2.jpg/1280px-Chicago%2C_Illinois%2C_Martin_Ryerson_Tomb_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/martin-ryerson-tomb/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Louis Sullivan designed Martin Ryerson Tomb (1889)",
+    "credit": "IvoShandor",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois,_Martin_Ryerson_Tomb_2.jpg",
+    "file": "File:Chicago, Illinois, Martin Ryerson Tomb 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Martin_Ryerson_Mausoleum_%281818-1897%29.jpg/1280px-Martin_Ryerson_Mausoleum_%281818-1897%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/martin-ryerson-tomb/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Martin Ryerson Mausoleum (1818-1897)",
+    "credit": "Richie Diesterheft",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Martin_Ryerson_Mausoleum_(1818-1897).jpg",
+    "file": "File:Martin Ryerson Mausoleum (1818-1897).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ryerson_tomb_%2834809884971%29.jpg/1280px-Ryerson_tomb_%2834809884971%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/martin-ryerson-tomb/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Designed by Louis Sullivan",
+    "credit": "Marlin Keesler  from Streamwood, IL",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ryerson_tomb_(34809884971).jpg",
+    "file": "File:Ryerson tomb (34809884971).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Chicago%2C_Illinois_Martin_Ryerson_Tomb_1.jpg/1280px-Chicago%2C_Illinois_Martin_Ryerson_Tomb_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/martin-ryerson-tomb/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Louis Sullivan designed mausoleum of Martin A",
+    "credit": "IvoShandor",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago,_Illinois_Martin_Ryerson_Tomb_1.jpg",
+    "file": "File:Chicago, Illinois Martin Ryerson Tomb 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "willits-house",
@@ -308576,7 +313088,59 @@ window.BUILDINGS = [
   "commons": "Category:Ward W. Willits House",
   "lead": "File:Ward Winfield Willits House (8702672773).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ward_Winfield_Willits_House_%288702672773%29.jpg/1280px-Ward_Winfield_Willits_House_%288702672773%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willits-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 831,
+    "kind": "Exterior",
+    "caption": "Exterior · The Ward W",
+    "credit": "Teemu008  from Palatine, Illinois",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ward_Winfield_Willits_House_(8702672773).jpg",
+    "file": "File:Ward Winfield Willits House (8702672773).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Frank_Lloyd_Wright_-_Highland_Park%2C_IL_-_Ward_W._Willits_House_%284%29.jpg/1280px-Frank_Lloyd_Wright_-_Highland_Park%2C_IL_-_Ward_W._Willits_House_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willits-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Built in 1901",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Highland_Park,_IL_-_Ward_W._Willits_House_(4).jpg",
+    "file": "File:Frank Lloyd Wright - Highland Park, IL - Ward W. Willits House (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Frank_Lloyd_Wright_-_Highland_Park%2C_IL_-_Ward_W._Willits_House_%281%29.jpg/1280px-Frank_Lloyd_Wright_-_Highland_Park%2C_IL_-_Ward_W._Willits_House_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willits-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Built in 1901",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Highland_Park,_IL_-_Ward_W._Willits_House_(1).jpg",
+    "file": "File:Frank Lloyd Wright - Highland Park, IL - Ward W. Willits House (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ward_Willits_House.JPG/1280px-Ward_Willits_House.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/willits-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Ward W",
+    "credit": "James Steakley",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ward_Willits_House.JPG",
+    "file": "File:Ward Willits House.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "stanislav-range-front-light",
@@ -308600,7 +313164,59 @@ window.BUILDINGS = [
   "commons": "Category:Stanislav Range Front Light",
   "lead": "File:Станіслав-Аджигольські маяки передній5.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2-%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B95.jpg/1280px-%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2-%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B95.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stanislav-range-front-light/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Stanislav Range Front Light, Rybalche, Kherson Oblast, Ukraine",
+    "credit": "Oleksandr Malyon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2-%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B95.jpg",
+    "file": "File:Станіслав-Аджигольські маяки передній5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2-%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B93.jpg/1280px-%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2-%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stanislav-range-front-light/thumbs/1.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "SNCH",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2-%D0%90%D0%B4%D0%B6%D0%B8%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D1%96_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D0%B93.jpg",
+    "file": "File:Станіслав-Аджигольські маяки передній3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Stanislav_lighthouse.jpg/1280px-Stanislav_lighthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stanislav-range-front-light/thumbs/2.webp",
+    "w": 1280,
+    "h": 863,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Lasunova.a",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stanislav_lighthouse.jpg",
+    "file": "File:Stanislav lighthouse.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Stanislav_Range_Front.jpg/1280px-Stanislav_Range_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stanislav-range-front-light/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Stanislav Range Front Light, 2008",
+    "credit": "_AL_",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stanislav_Range_Front.jpg",
+    "file": "File:Stanislav Range Front.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "waldspirale",
@@ -308624,7 +313240,83 @@ window.BUILDINGS = [
   "commons": "Category:Waldspirale Darmstadt",
   "lead": "File:Darmstadt Waldspirale 102 0011.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Darmstadt_Waldspirale_102_0011.jpg/1280px-Darmstadt_Waldspirale_102_0011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/waldspirale/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Waldspirale in Darmstadt, Germany",
+    "credit": "Ludvig14",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Darmstadt_Waldspirale_102_0011.jpg",
+    "file": "File:Darmstadt Waldspirale 102 0011.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_02.jpg/1280px-Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/waldspirale/thumbs/1.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_02.jpg",
+    "file": "File:Waldspirale - Darmstadt - Friedensreich Hundertwasser - Heinz Springmann - 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_10.jpg/1280px-Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/waldspirale/thumbs/2.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Norbert Nagel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waldspirale_-_Darmstadt_-_Friedensreich_Hundertwasser_-_Heinz_Springmann_-_10.jpg",
+    "file": "File:Waldspirale - Darmstadt - Friedensreich Hundertwasser - Heinz Springmann - 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Darmstadt_Waldspirale_017_1952.jpg/1280px-Darmstadt_Waldspirale_017_1952.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/waldspirale/thumbs/3.webp",
+    "w": 1280,
+    "h": 1084,
+    "kind": "Exterior",
+    "caption": "Exterior · Waldspirale in Darmstadt, Germany",
+    "credit": "Ludvig14",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Darmstadt_Waldspirale_017_1952.jpg",
+    "file": "File:Darmstadt Waldspirale 017 1952.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/WaldspiraleDarmstadt.jpg/1280px-WaldspiraleDarmstadt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/waldspirale/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Waldspirale, Darmstadt https://de.wikipedia.org/wiki/Waldspirale",
+    "credit": "Sako12",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WaldspiraleDarmstadt.jpg",
+    "file": "File:WaldspiraleDarmstadt.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Waldspirale_Darmstadt_%2849337047348%29.jpg/1280px-Waldspirale_Darmstadt_%2849337047348%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/waldspirale/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Thomas Woodtli  from Zürich, Switzerland",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waldspirale_Darmstadt_(49337047348).jpg",
+    "file": "File:Waldspirale Darmstadt (49337047348).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kuchlbauer-tower",
@@ -308648,7 +313340,83 @@ window.BUILDINGS = [
   "commons": "Category:Abensberg Kuchlbauerturm",
   "lead": "File:Abensberg, Brauerei Kuchlbauer, Kuchlbauerturm -- 2026 -- 4180.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Abensberg%2C_Brauerei_Kuchlbauer%2C_Kuchlbauerturm_--_2026_--_4180.jpg/1280px-Abensberg%2C_Brauerei_Kuchlbauer%2C_Kuchlbauerturm_--_2026_--_4180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuchlbauer-tower/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abensberg,_Brauerei_Kuchlbauer,_Kuchlbauerturm_--_2026_--_4180.jpg",
+    "file": "File:Abensberg, Brauerei Kuchlbauer, Kuchlbauerturm -- 2026 -- 4180.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Abensberg_Kuchlbauerturm_01.jpg/1280px-Abensberg_Kuchlbauerturm_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuchlbauer-tower/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Helmlechner",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abensberg_Kuchlbauerturm_01.jpg",
+    "file": "File:Abensberg Kuchlbauerturm 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%91%D0%B0%D1%88%D0%BD%D1%8F_%D0%A5%D1%83%D0%BD%D0%B4%D0%B5%D1%80%D1%82%D0%B2%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%B0.JPG/1280px-%D0%91%D0%B0%D1%88%D0%BD%D1%8F_%D0%A5%D1%83%D0%BD%D0%B4%D0%B5%D1%80%D1%82%D0%B2%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%B0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuchlbauer-tower/thumbs/2.webp",
+    "w": 1057,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Vitold Muratov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B0%D1%88%D0%BD%D1%8F_%D0%A5%D1%83%D0%BD%D0%B4%D0%B5%D1%80%D1%82%D0%B2%D0%B0%D1%81%D1%81%D0%B5%D1%80%D0%B0.JPG",
+    "file": "File:Башня Хундертвассера.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hundertwasserturm_Abensberg_001.JPG/1280px-Hundertwasserturm_Abensberg_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuchlbauer-tower/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Der von Friedrich Hundertwasser für die Brauerei Kuchlbauer geplante Turm in Abensberg",
+    "credit": "DALIBRI",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hundertwasserturm_Abensberg_001.JPG",
+    "file": "File:Hundertwasserturm Abensberg 001.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Kuchlbauerturm_%28Hundertwasserturm%29_in_Abensberg_%28inside%29_.._IMG_5759OB.JPG/1280px-Kuchlbauerturm_%28Hundertwasserturm%29_in_Abensberg_%28inside%29_.._IMG_5759OB.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuchlbauer-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Der von Friedrich Hundertwasser für die Brauerei Kuchlbauer geplante Turm in Abensberg (inside)",
+    "credit": "Kora27",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuchlbauerturm_(Hundertwasserturm)_in_Abensberg_(inside)_.._IMG_5759OB.JPG",
+    "file": "File:Kuchlbauerturm (Hundertwasserturm) in Abensberg (inside) .. IMG 5759OB.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Kuchlbauerturm_%28Hundertwasserturm%29_in_Abensberg_%28inside%29_.IMG_5726BE.jpg/1280px-Kuchlbauerturm_%28Hundertwasserturm%29_in_Abensberg_%28inside%29_.IMG_5726BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kuchlbauer-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Der von Friedrich Hundertwasser für die Brauerei Kuchlbauer geplante Turm in Abensberg (inside)",
+    "credit": "Kora27",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuchlbauerturm_(Hundertwasserturm)_in_Abensberg_(inside)_.IMG_5726BE.jpg",
+    "file": "File:Kuchlbauerturm (Hundertwasserturm) in Abensberg (inside) .IMG 5726BE.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "palacio-taranco",
@@ -308672,7 +313440,83 @@ window.BUILDINGS = [
   "commons": "Category:Palacio Taranco",
   "lead": "File:Palacio de don Félix Ortiz de Taranco..JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Palacio_de_don_F%C3%A9lix_Ortiz_de_Taranco..JPG/1280px-Palacio_de_don_F%C3%A9lix_Ortiz_de_Taranco..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-taranco/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Mverocai",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_de_don_F%C3%A9lix_Ortiz_de_Taranco..JPG",
+    "file": "File:Palacio de don Félix Ortiz de Taranco..JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Palacio_Taranco_by_MaxiCiccone.JPG/1280px-Palacio_Taranco_by_MaxiCiccone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-taranco/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Fachada trasera del Palacio Taranco en la ciudad de Montevideo , Uruguay ",
+    "credit": "MaxiCiccone",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_Taranco_by_MaxiCiccone.JPG",
+    "file": "File:Palacio Taranco by MaxiCiccone.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/2016_los_jardines_del_Palacio_Taranco_Montevideo.jpg/1280px-2016_los_jardines_del_Palacio_Taranco_Montevideo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-taranco/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Montevideo",
+    "credit": "Felipe Restrepo Acosta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2016_los_jardines_del_Palacio_Taranco_Montevideo.jpg",
+    "file": "File:2016 los jardines del Palacio Taranco Montevideo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Balc%C3%B3n_del_Palacio_Taranco.jpg/1280px-Balc%C3%B3n_del_Palacio_Taranco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-taranco/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Vista de la Ciudad Vieja desde el Palacio Taranco",
+    "credit": "JacobinoWunsh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Balc%C3%B3n_del_Palacio_Taranco.jpg",
+    "file": "File:Balcón del Palacio Taranco.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Palacio_Felix_Taranco.jpg/1280px-Palacio_Felix_Taranco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-taranco/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Mónica Brazeiro",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_Felix_Taranco.jpg",
+    "file": "File:Palacio Felix Taranco.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Habitaci%C3%B3n_en_el_Palacio_Taranco.jpg/1280px-Habitaci%C3%B3n_en_el_Palacio_Taranco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palacio-taranco/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "JacobinoWunsh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Habitaci%C3%B3n_en_el_Palacio_Taranco.jpg",
+    "file": "File:Habitación en el Palacio Taranco.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "carolina-rediviva",
@@ -308696,7 +313540,83 @@ window.BUILDINGS = [
   "commons": "Category:Carolina Rediviva",
   "lead": "File:Carolina Rediviva Uppsala.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Carolina_Rediviva_Uppsala.JPG/1280px-Carolina_Rediviva_Uppsala.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/carolina-rediviva/thumbs/0.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · Carolina Rediviva, Uppsala",
+    "credit": "Alexander Engström",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carolina_Rediviva_Uppsala.JPG",
+    "file": "File:Carolina Rediviva Uppsala.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Carolina_Rediviva_in_summer.jpg/1280px-Carolina_Rediviva_in_summer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/carolina-rediviva/thumbs/1.webp",
+    "w": 1280,
+    "h": 528,
+    "kind": "Exterior",
+    "caption": "Exterior · Carolina Rediviva , main building of the Uppsala University Library ",
+    "credit": "Dr. Mirko Junge",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carolina_Rediviva_in_summer.jpg",
+    "file": "File:Carolina Rediviva in summer.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Carolina_Rediviva_January_2025_01.jpg/1280px-Carolina_Rediviva_January_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/carolina-rediviva/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · South view of Carolina Rediviva , the maine building of Uppsala University Library",
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carolina_Rediviva_January_2025_01.jpg",
+    "file": "File:Carolina Rediviva January 2025 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Uppsala_Carolina_Revidiva.jpg/1280px-Uppsala_Carolina_Revidiva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/carolina-rediviva/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Uppsala - Carolina Rediviva",
+    "credit": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Uppsala_Carolina_Revidiva.jpg",
+    "file": "File:Uppsala Carolina Revidiva.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Carolina_Rediviva_%28Uppsala_universitetsbibliotek%29%2C_Boksalen.png/1280px-Carolina_Rediviva_%28Uppsala_universitetsbibliotek%29%2C_Boksalen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/carolina-rediviva/thumbs/4.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Boksalen i Carolina Rediviva, vy från galleriet mot norr",
+    "credit": "Magnus Hjalmarsson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carolina_Rediviva_(Uppsala_universitetsbibliotek),_Boksalen.png",
+    "file": "File:Carolina Rediviva (Uppsala universitetsbibliotek), Boksalen.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Carolina_Rediviva_%28Uppsala_universitetsbibliotek%29%2C_Boksalen_2.png/1280px-Carolina_Rediviva_%28Uppsala_universitetsbibliotek%29%2C_Boksalen_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/carolina-rediviva/thumbs/5.webp",
+    "w": 1280,
+    "h": 871,
+    "kind": "Interior",
+    "caption": "Interior · Boksalen i Carolina Rediviva, vy mot norr",
+    "credit": "Magnus Hjalmarsson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carolina_Rediviva_(Uppsala_universitetsbibliotek),_Boksalen_2.png",
+    "file": "File:Carolina Rediviva (Uppsala universitetsbibliotek), Boksalen 2.png"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "malmo-opera",
@@ -308720,7 +313640,83 @@ window.BUILDINGS = [
   "commons": "Category:Malmö Opera",
   "lead": "File:Malmö stadsteater 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Malm%C3%B6_stadsteater_2.jpg/1280px-Malm%C3%B6_stadsteater_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-opera/thumbs/0.webp",
+    "w": 1280,
+    "h": 811,
+    "kind": "Exterior",
+    "caption": "Exterior · Malmö theatre",
+    "credit": "Jorchr",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malm%C3%B6_stadsteater_2.jpg",
+    "file": "File:Malmö stadsteater 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/20210603_Michael_Bojesen_8296_%2851265951261%29.jpg/1280px-20210603_Michael_Bojesen_8296_%2851265951261%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-opera/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Michael Bojesen, vd och teaterchef för Malmö Opera, fotograferad i foajén",
+    "credit": "News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20210603_Michael_Bojesen_8296_(51265951261).jpg",
+    "file": "File:20210603 Michael Bojesen 8296 (51265951261).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/20210603_Michael_Bojesen_8303_%2851266986985%29.jpg/1280px-20210603_Michael_Bojesen_8303_%2851266986985%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-opera/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Michael Bojesen, vd och teaterchef för Malmö Opera, fotograferad i foajén",
+    "credit": "News Oresund",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20210603_Michael_Bojesen_8303_(51266986985).jpg",
+    "file": "File:20210603 Michael Bojesen 8303 (51266986985).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Tragos_fountain_by_nils_sjogren.jpg/1280px-Tragos_fountain_by_nils_sjogren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-opera/thumbs/3.webp",
+    "w": 1280,
+    "h": 763,
+    "kind": "Exterior",
+    "caption": "Exterior · Tragos fountain in front of Malmö opera made by Nils Sjögren",
+    "credit": "Francois Polito",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tragos_fountain_by_nils_sjogren.jpg",
+    "file": "File:Tragos fountain by nils sjogren.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sculpture_Tragos_Outside_Malm%C3%B6_Opera.jpg/1280px-Sculpture_Tragos_Outside_Malm%C3%B6_Opera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-opera/thumbs/4.webp",
+    "w": 1046,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Kronoborg, Malmö, Sweden",
+    "credit": "bynyalcin",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sculpture_Tragos_Outside_Malm%C3%B6_Opera.jpg",
+    "file": "File:Sculpture Tragos Outside Malmö Opera.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Malm%C3%B6_stadsteater_detail.jpg/1280px-Malm%C3%B6_stadsteater_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/malmo-opera/thumbs/5.webp",
+    "w": 1003,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · malmö stadsteater, malmö, sweden, 1935-1944",
+    "credit": "seier+seier",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malm%C3%B6_stadsteater_detail.jpg",
+    "file": "File:Malmö stadsteater detail.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "leo-burnett-building",
@@ -308744,7 +313740,83 @@ window.BUILDINGS = [
   "commons": "Category:Leo Burnett Building",
   "lead": "File:Leo Burnett Building.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leo_Burnett_Building.jpg/1280px-Leo_Burnett_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/leo-burnett-building/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Photo of the Leo Burnett Building, Chicago, Ill",
+    "credit": "Stuart Spivak",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leo_Burnett_Building.jpg",
+    "file": "File:Leo Burnett Building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_01.jpg/1280px-Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/leo-burnett-building/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View westward along the Chicago River in downtown Chicago, Illinois, during blue hour",
+    "credit": "NorbertNagel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leo_Burnett_Building,_55_and_77_West_Wacker_and_OneEleven,_Chicago_-_01.jpg",
+    "file": "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_02.jpg/1280px-Leo_Burnett_Building%2C_55_and_77_West_Wacker_and_OneEleven%2C_Chicago_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/leo-burnett-building/thumbs/2.webp",
+    "w": 872,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View westward along the Chicago River in downtown Chicago, Illinois, during blue hour",
+    "credit": "NorbertNagel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leo_Burnett_Building,_55_and_77_West_Wacker_and_OneEleven,_Chicago_-_02.jpg",
+    "file": "File:Leo Burnett Building, 55 and 77 West Wacker and OneEleven, Chicago - 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/View_from_InterContinental_Chicago_%28day%29_%284864749503%29.jpg/1280px-View_from_InterContinental_Chicago_%28day%29_%284864749503%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/leo-burnett-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 940,
+    "kind": "Interior",
+    "caption": "Interior · Again taken last year from somewhere inside the Intercontinental",
+    "credit": "Chad K  from Denver",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_InterContinental_Chicago_(day)_(4864749503).jpg",
+    "file": "File:View from InterContinental Chicago (day) (4864749503).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Block_37_March_2008.jpg/1280px-Block_37_March_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/leo-burnett-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · en:Block 37",
+    "credit": "flickr user chascarper",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Block_37_March_2008.jpg",
+    "file": "File:Block 37 March 2008.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chicago_River_from_Michigan_Avenue_%28closeup%29.jpg/1280px-Chicago_River_from_Michigan_Avenue_%28closeup%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/leo-burnett-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_River_from_Michigan_Avenue_(closeup).jpg",
+    "file": "File:Chicago River from Michigan Avenue (closeup).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "new-synagogue-zilina",
@@ -308768,7 +313840,71 @@ window.BUILDINGS = [
   "commons": "Category:Neologická synagóga (Žilina)",
   "lead": "File:Žilina - neologická synagóga - 2019.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%C5%BDilina_-_neologick%C3%A1_synag%C3%B3ga_-_2019.jpg/1280px-%C5%BDilina_-_neologick%C3%A1_synag%C3%B3ga_-_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-synagogue-zilina/thumbs/0.webp",
+    "w": 1280,
+    "h": 907,
+    "kind": "Exterior",
+    "caption": "Exterior · Žilina, Slovakia - former Neolog synagogue; May 2019",
+    "credit": "Patrik Kunec",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%BDilina_-_neologick%C3%A1_synag%C3%B3ga_-_2019.jpg",
+    "file": "File:Žilina - neologická synagóga - 2019.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/%C5%BDilina_-_Neolog_Synagogue_-_2018.JPG/1280px-%C5%BDilina_-_Neolog_Synagogue_-_2018.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-synagogue-zilina/thumbs/1.webp",
+    "w": 1280,
+    "h": 863,
+    "kind": "Exterior",
+    "caption": "Exterior · This media shows the protected monument with the number 511-1398/0 ( other ) in the Slovak Republic",
+    "credit": "Photograph :    Patrik Kunec  (  talk  )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%BDilina_-_Neolog_Synagogue_-_2018.JPG",
+    "file": "File:Žilina - Neolog Synagogue - 2018.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cinema_Centrum_in_an_old_synagogue_%288399398383%29.jpg/1280px-Cinema_Centrum_in_an_old_synagogue_%288399398383%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-synagogue-zilina/thumbs/2.webp",
+    "w": 1280,
+    "h": 830,
+    "kind": "Exterior",
+    "caption": "Exterior · Cinema Centrum in an old synagogue",
+    "credit": "Guillaume Speurt  from Vilnius, Lithuania",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cinema_Centrum_in_an_old_synagogue_(8399398383).jpg",
+    "file": "File:Cinema Centrum in an old synagogue (8399398383).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Zilina_%2814%29.jpg/1280px-Zilina_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-synagogue-zilina/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · former synagogue in Žilina/Slovakia by Peter Behrens , nowadays cinema and theatre",
+    "credit": "János Korom Dr.",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zilina_(14).jpg",
+    "file": "File:Zilina (14).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/%C5%BDilina_-_Neologick%C3%A1_synag%C3%B3ga.JPG/1280px-%C5%BDilina_-_Neologick%C3%A1_synag%C3%B3ga.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/new-synagogue-zilina/thumbs/4.webp",
+    "w": 1280,
+    "h": 859,
+    "kind": "Context",
+    "caption": "Context · Žilina - neologická synagóga - 2015",
+    "credit": "Patrik Kunec",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%BDilina_-_Neologick%C3%A1_synag%C3%B3ga.JPG",
+    "file": "File:Žilina - Neologická synagóga.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hotel-otlet",
@@ -308792,7 +313928,83 @@ window.BUILDINGS = [
   "commons": "Category:Hôtel Otlet",
   "lead": "File:Hôtel Otlet - 3.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/H%C3%B4tel_Otlet_-_3.JPG/1280px-H%C3%B4tel_Otlet_-_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-otlet/thumbs/0.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Brussels, number:",
+    "credit": "EmDee",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Otlet_-_3.JPG",
+    "file": "File:Hôtel Otlet - 3.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/H%C3%B4tel_Otlet%2C_vue_d%27ensemble.JPG/1280px-H%C3%B4tel_Otlet%2C_vue_d%27ensemble.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-otlet/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Bruxelles, angle - rue de Livourne et rue de Florence",
+    "credit": "Busoni",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Otlet,_vue_d%27ensemble.JPG",
+    "file": "File:Hôtel Otlet, vue d'ensemble.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/H%C3%B4tel_Otlet_-_Brussels%2C_Belgium_-_DSC07873.jpg/1280px-H%C3%B4tel_Otlet_-_Brussels%2C_Belgium_-_DSC07873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-otlet/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hôtel Otlet in Brussels, Belgium",
+    "credit": "Daderot",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Otlet_-_Brussels,_Belgium_-_DSC07873.jpg",
+    "file": "File:Hôtel Otlet - Brussels, Belgium - DSC07873.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/H%C3%B4tel_Otlet_-_Livourne_-_Balcon_2.JPG/1280px-H%C3%B4tel_Otlet_-_Livourne_-_Balcon_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-otlet/thumbs/3.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Belgique - Bruxelles - Hôtel Otlet",
+    "credit": "EmDee",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Otlet_-_Livourne_-_Balcon_2.JPG",
+    "file": "File:Hôtel Otlet - Livourne - Balcon 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/H%C3%B4tel_Otlet%2C_d%C3%A9tail_d%27une_des_baies_d%27angle.JPG/1280px-H%C3%B4tel_Otlet%2C_d%C3%A9tail_d%27une_des_baies_d%27angle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-otlet/thumbs/4.webp",
+    "w": 1128,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Hôtel Otlet, Bruxelles, rue de Livourne et rue de Florence",
+    "credit": "Busoni",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Otlet,_d%C3%A9tail_d%27une_des_baies_d%27angle.JPG",
+    "file": "File:Hôtel Otlet, détail d'une des baies d'angle.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/H%C3%B4tel_Otlet%2C_d%C3%A9tail_de_fa%C3%A7ade_rue_de_Florence.JPG/1280px-H%C3%B4tel_Otlet%2C_d%C3%A9tail_de_fa%C3%A7ade_rue_de_Florence.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hotel-otlet/thumbs/5.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Maison de style Art nouveau, par Octave VAN RYSSELBERGHE, Henry VAN DE VELDE, 1894",
+    "credit": "Busoni",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Otlet,_d%C3%A9tail_de_fa%C3%A7ade_rue_de_Florence.JPG",
+    "file": "File:Hôtel Otlet, détail de façade rue de Florence.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "castle-of-the-three-dragons",
@@ -308816,7 +314028,83 @@ window.BUILDINGS = [
   "commons": "Category:Castell dels Tres Dragons",
   "lead": "File:Tres Dragons 2022.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Tres_Dragons_2022.jpg/1280px-Tres_Dragons_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-of-the-three-dragons/thumbs/0.webp",
+    "w": 1280,
+    "h": 957,
+    "kind": "Exterior",
+    "caption": "Exterior · Castillo de los Tres Dragones",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tres_Dragons_2022.jpg",
+    "file": "File:Tres Dragons 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Barcelona_-_Castell_dels_Tres_Dragons_%283%29.jpg/1280px-Barcelona_-_Castell_dels_Tres_Dragons_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-of-the-three-dragons/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona - Castell dels Tres Dragons",
+    "credit": "Fred Romero",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Castell_dels_Tres_Dragons_(3).jpg",
+    "file": "File:Barcelona - Castell dels Tres Dragons (3).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Castell_dels_Tres_Dragons_%28Barcelona%29_0656.jpg/1280px-Castell_dels_Tres_Dragons_%28Barcelona%29_0656.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-of-the-three-dragons/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Galtzerdiak",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castell_dels_Tres_Dragons_(Barcelona)_0656.jpg",
+    "file": "File:Castell dels Tres Dragons (Barcelona) 0656.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Barcelona_-_Castell_dels_Tres_Dragons_%284%29.jpg/1280px-Barcelona_-_Castell_dels_Tres_Dragons_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-of-the-three-dragons/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona - Castell dels Tres Dragons",
+    "credit": "Fred Romero",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Castell_dels_Tres_Dragons_(4).jpg",
+    "file": "File:Barcelona - Castell dels Tres Dragons (4).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Antic_museu_de_zoologia.jpg/1280px-Antic_museu_de_zoologia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-of-the-three-dragons/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior de l'antic museu de zoologia, dins del castell dels tres dracs",
+    "credit": "Mireia Garcia Bermejo",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Antic_museu_de_zoologia.jpg",
+    "file": "File:Antic museu de zoologia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/151_Parc_de_la_Ciutadella_%28Barcelona%29%2C_Castell_dels_Tres_Dragons.jpg/1280px-151_Parc_de_la_Ciutadella_%28Barcelona%29%2C_Castell_dels_Tres_Dragons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-of-the-three-dragons/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Castell dels Tres Dragons (Barcelona)",
+    "credit": "Enric",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:151_Parc_de_la_Ciutadella_(Barcelona),_Castell_dels_Tres_Dragons.jpg",
+    "file": "File:151 Parc de la Ciutadella (Barcelona), Castell dels Tres Dragons.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "castle-drogo",
@@ -308840,7 +314128,83 @@ window.BUILDINGS = [
   "commons": "Category:Castle Drogo",
   "lead": "File:Castle Drogo - geograph.org.uk - 6946993.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Castle_Drogo_-_geograph.org.uk_-_6946993.jpg/1280px-Castle_Drogo_-_geograph.org.uk_-_6946993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-drogo/thumbs/0.webp",
+    "w": 1280,
+    "h": 862,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Colin Smith",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Drogo_-_geograph.org.uk_-_6946993.jpg",
+    "file": "File:Castle Drogo - geograph.org.uk - 6946993.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Drogorama_%288258424926%29.jpg/1280px-Drogorama_%288258424926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-drogo/thumbs/1.webp",
+    "w": 1280,
+    "h": 437,
+    "kind": "Exterior",
+    "caption": "Exterior · Drogorama",
+    "credit": "xlibber",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Drogorama_(8258424926).jpg",
+    "file": "File:Drogorama (8258424926).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Castle_Drogo_-_The_view_to_the_east_of_the_castle_-_geograph.org.uk_-_8123963.jpg/1280px-Castle_Drogo_-_The_view_to_the_east_of_the_castle_-_geograph.org.uk_-_8123963.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-drogo/thumbs/2.webp",
+    "w": 1188,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Castle Drogo - The view to the east of the castle",
+    "credit": "Chris Gorringe",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Drogo_-_The_view_to_the_east_of_the_castle_-_geograph.org.uk_-_8123963.jpg",
+    "file": "File:Castle Drogo - The view to the east of the castle - geograph.org.uk - 8123963.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Castle_Drogo_under_wraps_-_geograph.org.uk_-_3923328.jpg/1280px-Castle_Drogo_under_wraps_-_geograph.org.uk_-_3923328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-drogo/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Castle Drogo under wraps",
+    "credit": "Fernweh",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Drogo_under_wraps_-_geograph.org.uk_-_3923328.jpg",
+    "file": "File:Castle Drogo under wraps - geograph.org.uk - 3923328.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Castle_Drogo_-_Chapel_-_geograph.org.uk_-_6947860.jpg/1280px-Castle_Drogo_-_Chapel_-_geograph.org.uk_-_6947860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-drogo/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Castle Drogo - Chapel",
+    "credit": "Colin Smith",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Drogo_-_Chapel_-_geograph.org.uk_-_6947860.jpg",
+    "file": "File:Castle Drogo - Chapel - geograph.org.uk - 6947860.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Castle_Drogo_-_Font_-_geograph.org.uk_-_6947855.jpg/1280px-Castle_Drogo_-_Font_-_geograph.org.uk_-_6947855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/castle-drogo/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Castle Drogo - Font",
+    "credit": "Colin Smith",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Castle_Drogo_-_Font_-_geograph.org.uk_-_6947855.jpg",
+    "file": "File:Castle Drogo - Font - geograph.org.uk - 6947855.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cajasol-tower",
@@ -308864,7 +314228,83 @@ window.BUILDINGS = [
   "commons": "Category:Torre Sevilla",
   "lead": "File:Torre Sevilla abril 2015.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Torre_Sevilla_abril_2015.jpg/1280px-Torre_Sevilla_abril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cajasol-tower/thumbs/0.webp",
+    "w": 676,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Sevilla_abril_2015.jpg",
+    "file": "File:Torre Sevilla abril 2015.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Torre_Sevilla_abril_2015_edited.jpg/1280px-Torre_Sevilla_abril_2015_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cajasol-tower/thumbs/1.webp",
+    "w": 672,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Sevilla_abril_2015_edited.jpg",
+    "file": "File:Torre Sevilla abril 2015 edited.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/R%C3%ADo_Guadalquivir_y_Torre_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_66.JPG/1280px-R%C3%ADo_Guadalquivir_y_Torre_Sevilla%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_66.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cajasol-tower/thumbs/2.webp",
+    "w": 1280,
+    "h": 724,
+    "kind": "Exterior",
+    "caption": "Exterior · Guadalquivir river and Torre Sevilla, Seville, Spain",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Guadalquivir_y_Torre_Sevilla,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_66.JPG",
+    "file": "File:Río Guadalquivir y Torre Sevilla, Sevilla, España, 2015-12-06, DD 66.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Torre_Sevilla_desde_Puente_de_la_Barqueta.jpg/1280px-Torre_Sevilla_desde_Puente_de_la_Barqueta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cajasol-tower/thumbs/3.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Gzzz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Torre_Sevilla_desde_Puente_de_la_Barqueta.jpg",
+    "file": "File:Torre Sevilla desde Puente de la Barqueta.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Calle_betis_2017_001.jpg/1280px-Calle_betis_2017_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cajasol-tower/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Vista de la calle Betis y al fondo el puente de Triana y la torre Sevilla",
+    "credit": "Anual",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Calle_betis_2017_001.jpg",
+    "file": "File:Calle betis 2017 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Plaza_de_Toros_Sevilla_during_dusk.jpg/1280px-Plaza_de_Toros_Sevilla_during_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cajasol-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Plaza de Toros of Sevilla during dusk",
+    "credit": "Tesla Delacroix",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_Sevilla_during_dusk.jpg",
+    "file": "File:Plaza de Toros Sevilla during dusk.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "rottweil-elevator-test-tower",
@@ -308888,7 +314328,97 @@ window.BUILDINGS = [
   "commons": "Category:TK-Elevator-Testturm",
   "lead": "File:ThyssenKrupp Test Tower, Rottweil.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/ThyssenKrupp_Test_Tower%2C_Rottweil.jpg/1280px-ThyssenKrupp_Test_Tower%2C_Rottweil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/0.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · ThyssenKrupp Test Tower near Rottweil (2018)",
+    "credit": "Olga Ernst",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ThyssenKrupp_Test_Tower,_Rottweil.jpg",
+    "file": "File:ThyssenKrupp Test Tower, Rottweil.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/AIMG_0324_A_81_Aufzugsturm.jpg/1280px-AIMG_0324_A_81_Aufzugsturm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/1.webp",
+    "w": 1280,
+    "h": 872,
+    "kind": "Exterior",
+    "caption": "Exterior · Blick von der A 81 zum Aufzugstestturm Rottweil",
+    "credit": "Xocolatl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AIMG_0324_A_81_Aufzugsturm.jpg",
+    "file": "File:AIMG 0324 A 81 Aufzugsturm.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Org_e370525c4a8f8aab_1592164604000-1.jpg/1280px-Org_e370525c4a8f8aab_1592164604000-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/2.webp",
+    "w": 1280,
+    "h": 640,
+    "kind": "Exterior",
+    "caption": "Exterior · Rottweil Test Tower",
+    "credit": "rafal gnasiuk",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Org_e370525c4a8f8aab_1592164604000-1.jpg",
+    "file": "File:Org e370525c4a8f8aab 1592164604000-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Thyssenkrupp_Testturm_in_Rottweil_01.jpg/1280px-Thyssenkrupp_Testturm_in_Rottweil_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/3.webp",
+    "w": 861,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Thyssenkrupp Testturm in Rottweil, Baden-Württemberg, Germany",
+    "credit": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thyssenkrupp_Testturm_in_Rottweil_01.jpg",
+    "file": "File:Thyssenkrupp Testturm in Rottweil 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Aussichtsplattform_Testturm_Rottweil06122019.png/1280px-Aussichtsplattform_Testturm_Rottweil06122019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Zonk43",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aussichtsplattform_Testturm_Rottweil06122019.png",
+    "file": "File:Aussichtsplattform Testturm Rottweil06122019.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Thyssenkrupp_Testturm_Fassadenmembran.jpg/1280px-Thyssenkrupp_Testturm_Fassadenmembran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Sicht von der Aussichtsplattform des Thyssenkrupp-Testturms in Rottweil",
+    "credit": "Zollernalb",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thyssenkrupp_Testturm_Fassadenmembran.jpg",
+    "file": "File:Thyssenkrupp Testturm Fassadenmembran.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Grundriss_Thyssenkrupp_Testturm_mit_Membranstruktur.png/1280px-Grundriss_Thyssenkrupp_Testturm_mit_Membranstruktur.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rottweil-elevator-test-tower/thumbs/6.webp",
+    "w": 1280,
+    "h": 1279,
+    "kind": "Plan",
+    "caption": "Plan · Thyssenkrupp Testturm Rottweil: Grundriss durch den Turm mit Membranstruktur und Verankerungspunkten",
+    "credit": "Alabasterstein",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grundriss_Thyssenkrupp_Testturm_mit_Membranstruktur.png",
+    "file": "File:Grundriss Thyssenkrupp Testturm mit Membranstruktur.png"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "academy-of-fine-arts-vienna",
@@ -308912,7 +314442,97 @@ window.BUILDINGS = [
   "commons": "Category:Academy of Fine Arts Vienna",
   "lead": "File:Akademie der bildenden Kuenste DSC 2400w.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Akademie_der_bildenden_Kuenste_DSC_2400w.jpg/1280px-Akademie_der_bildenden_Kuenste_DSC_2400w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/0.webp",
+    "w": 1280,
+    "h": 787,
+    "kind": "Exterior",
+    "caption": "Exterior · Academy of Fine Arts Vienna , Schillerplatz 3, 1st district of Vienna",
+    "credit": "P e z i",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akademie_der_bildenden_Kuenste_DSC_2400w.jpg",
+    "file": "File:Akademie der bildenden Kuenste DSC 2400w.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Akademie_der_bildenden_K%C3%BCnste_Wien.jpg/1280px-Akademie_der_bildenden_K%C3%BCnste_Wien.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/1.webp",
+    "w": 1280,
+    "h": 622,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Armineaghayan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akademie_der_bildenden_K%C3%BCnste_Wien.jpg",
+    "file": "File:Akademie der bildenden Künste Wien.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Academy_of_Fine_Arts_-_Vienna.jpg/1280px-Academy_of_Fine_Arts_-_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/2.webp",
+    "w": 944,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Fragment of the main building of the Academy of Fine Arts in Vienna, Austria",
+    "credit": "MrPanyGoff",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Academy_of_Fine_Arts_-_Vienna.jpg",
+    "file": "File:Academy of Fine Arts - Vienna.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/20190626_Wien_3144.jpg/1280px-20190626_Wien_3144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Semperdepot Wien, Treppenhaus",
+    "credit": "Ailura",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:20190626_Wien_3144.jpg",
+    "file": "File:20190626 Wien 3144.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Semperdepot_innen.jpg/1280px-Semperdepot_innen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Semperdepot innen",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Semperdepot_innen.jpg",
+    "file": "File:Semperdepot innen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Akademie_der_bildenden_Kuenste_Fassadendetail_DSC_2379w.jpg/1280px-Akademie_der_bildenden_Kuenste_Fassadendetail_DSC_2379w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/5.webp",
+    "w": 913,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Academy of Fine Arts Vienna , fassade detail, Schillerplatz 3, 1st district of Vienna",
+    "credit": "P e z i",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akademie_der_bildenden_Kuenste_Fassadendetail_DSC_2379w.jpg",
+    "file": "File:Akademie der bildenden Kuenste Fassadendetail DSC 2379w.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Elisabethstra%C3%9Fe_11_Ansicht_1.jpg/1280px-Elisabethstra%C3%9Fe_11_Ansicht_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/academy-of-fine-arts-vienna/thumbs/6.webp",
+    "w": 1280,
+    "h": 680,
+    "kind": "Elevation",
+    "caption": "Elevation · Ehem",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Elisabethstra%C3%9Fe_11_Ansicht_1.jpg",
+    "file": "File:Elisabethstraße 11 Ansicht 1.jpg"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "accenture-tower",
@@ -308936,7 +314556,83 @@ window.BUILDINGS = [
   "commons": "Category:Citigroup Center (Chicago, Illinois)",
   "lead": "File:CitigroupCenterChicago.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/CitigroupCenterChicago.jpg/1280px-CitigroupCenterChicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/accenture-tower/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Citigroup Center building at 500 W",
+    "credit": "Jarred Trost",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:CitigroupCenterChicago.jpg",
+    "file": "File:CitigroupCenterChicago.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Chicago_in_2022_Part_of_the_Accenture_Tower_%28500_West_Madison%29_%2852047851892%29.jpg/1280px-Chicago_in_2022_Part_of_the_Accenture_Tower_%28500_West_Madison%29_%2852047851892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/accenture-tower/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Taken from Riverside Plaza by Chicago River, Chicago, IL Chicago in 2022",
+    "credit": "Chris Rycroft  from Madison, Wisconsin, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicago_in_2022_Part_of_the_Accenture_Tower_(500_West_Madison)_(52047851892).jpg",
+    "file": "File:Chicago in 2022 Part of the Accenture Tower (500 West Madison) (52047851892).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Citigroup_Center%2C_Chicago_%2814396644410%29.jpg/1280px-Citigroup_Center%2C_Chicago_%2814396644410%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/accenture-tower/thumbs/2.webp",
+    "w": 1280,
+    "h": 786,
+    "kind": "Exterior",
+    "caption": "Exterior · Citigroup Center, Chicago",
+    "credit": "Tony Webster  from Portland, Oregon, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Citigroup_Center,_Chicago_(14396644410).jpg",
+    "file": "File:Citigroup Center, Chicago (14396644410).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Citigroup_Center_%2814396680218%29.jpg/1280px-Citigroup_Center_%2814396680218%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/accenture-tower/thumbs/3.webp",
+    "w": 1280,
+    "h": 1025,
+    "kind": "Exterior",
+    "caption": "Exterior · Chicago",
+    "credit": "Tony Webster  from Portland, Oregon, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Citigroup_Center_(14396680218).jpg",
+    "file": "File:Citigroup Center (14396680218).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Glass_Balconies%2C_Looking_West_from_Willis_Tower_Skydeck%2C_Chicago%2C_Illinois_%289179377925%29.jpg/1280px-Glass_Balconies%2C_Looking_West_from_Willis_Tower_Skydeck%2C_Chicago%2C_Illinois_%289179377925%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/accenture-tower/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The Sears Tower observation deck, called the Skydeck, opened on June 22, 1974",
+    "credit": "Ken Lund  from Reno, Nevada, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glass_Balconies,_Looking_West_from_Willis_Tower_Skydeck,_Chicago,_Illinois_(9179377925).jpg",
+    "file": "File:Glass Balconies, Looking West from Willis Tower Skydeck, Chicago, Illinois (9179377925).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Accenture_Tower_escalators_to_Ogilvie_station.jpg/1280px-Accenture_Tower_escalators_to_Ogilvie_station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/accenture-tower/thumbs/5.webp",
+    "w": 1280,
+    "h": 954,
+    "kind": "Interior",
+    "caption": "Interior · Accenture Tower stairs/escalators to Metra's Ogilvie Transportation Center",
+    "credit": "AlphaBeta135",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Accenture_Tower_escalators_to_Ogilvie_station.jpg",
+    "file": "File:Accenture Tower escalators to Ogilvie station.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "winter-garden-atrium",
@@ -308960,7 +314656,59 @@ window.BUILDINGS = [
   "commons": "Category:Winter Garden Atrium",
   "lead": "File:Manhattan New York City 2009 PD 20091129 019.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Manhattan_New_York_City_2009_PD_20091129_019.JPG/1280px-Manhattan_New_York_City_2009_PD_20091129_019.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winter-garden-atrium/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Manhattan, New York City",
+    "credit": "Sterilgutassistentin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Manhattan_New_York_City_2009_PD_20091129_019.JPG",
+    "file": "File:Manhattan New York City 2009 PD 20091129 019.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Brookfield_Place_New_York_August_2017_002.jpg/1280px-Brookfield_Place_New_York_August_2017_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winter-garden-atrium/thumbs/1.webp",
+    "w": 935,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Brookfield Place , Manhattan , New York City ",
+    "credit": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brookfield_Place_New_York_August_2017_002.jpg",
+    "file": "File:Brookfield Place New York August 2017 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Brookfield_Place_New_York_August_2017_003.jpg/1280px-Brookfield_Place_New_York_August_2017_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winter-garden-atrium/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Brookfield Place , Manhattan , New York City ",
+    "credit": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brookfield_Place_New_York_August_2017_003.jpg",
+    "file": "File:Brookfield Place New York August 2017 003.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Paulus_Hook_Pier_Jersey_City_September_2020_HDR.jpg/1280px-Paulus_Hook_Pier_Jersey_City_September_2020_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/winter-garden-atrium/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "King of Hearts",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paulus_Hook_Pier_Jersey_City_September_2020_HDR.jpg",
+    "file": "File:Paulus Hook Pier Jersey City September 2020 HDR.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "osaka-maritime-museum",
@@ -308984,7 +314732,83 @@ window.BUILDINGS = [
   "commons": "Category:Osaka Maritime Museum",
   "lead": "File:Osaka maritime museum01s3200.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Osaka_maritime_museum01s3200.jpg/1280px-Osaka_maritime_museum01s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-maritime-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Osaka Maritime Museum in Osaka , Osaka prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_maritime_museum01s3200.jpg",
+    "file": "File:Osaka maritime museum01s3200.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Maritime_Museum_%40_Sakishima_Island_%40_Osaka_Bay_%2813382097593%29.jpg/1280px-Maritime_Museum_%40_Sakishima_Island_%40_Osaka_Bay_%2813382097593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-maritime-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Maritime Museum @ Sakishima Island @ Osaka Bay",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maritime_Museum_@_Sakishima_Island_@_Osaka_Bay_(13382097593).jpg",
+    "file": "File:Maritime Museum @ Sakishima Island @ Osaka Bay (13382097593).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Osaka_Maritime_Museum1.jpg/1280px-Osaka_Maritime_Museum1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-maritime-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "KENPEI",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Maritime_Museum1.jpg",
+    "file": "File:Osaka Maritime Museum1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Namihaya_in_Osaka_Maritime_Museum-2.jpg/1280px-Namihaya_in_Osaka_Maritime_Museum-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-maritime-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Saigen Jiro",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Namihaya_in_Osaka_Maritime_Museum-2.jpg",
+    "file": "File:Namihaya in Osaka Maritime Museum-2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Maritime_Museum_%40_Sakishima_Island_%40_Osaka_Bay_%2813381957095%29.jpg/1280px-Maritime_Museum_%40_Sakishima_Island_%40_Osaka_Bay_%2813381957095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-maritime-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Maritime Museum @ Sakishima Island @ Osaka Bay",
+    "credit": "Guilhem Vellut  from Annecy, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maritime_Museum_@_Sakishima_Island_@_Osaka_Bay_(13381957095).jpg",
+    "file": "File:Maritime Museum @ Sakishima Island @ Osaka Bay (13381957095).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Osaka_maritime_museum02s3200.jpg/1280px-Osaka_maritime_museum02s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-maritime-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Interior",
+    "caption": "Interior · Osaka Maritime Museum in Osaka , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_maritime_museum02s3200.jpg",
+    "file": "File:Osaka maritime museum02s3200.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "agoudas-hakehilos-synagogue",
@@ -309008,7 +314832,83 @@ window.BUILDINGS = [
   "commons": "Category:Synagogue de la rue Pavée",
   "lead": "File:Paris-Marais-Synagoge-102-2017-gje.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Paris-Marais-Synagoge-102-2017-gje.jpg/1280px-Paris-Marais-Synagoge-102-2017-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/agoudas-hakehilos-synagogue/thumbs/0.webp",
+    "w": 1030,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Synagoge in der rue Pavée",
+    "credit": "Gerd Eichmann",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris-Marais-Synagoge-102-2017-gje.jpg",
+    "file": "File:Paris-Marais-Synagoge-102-2017-gje.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Agoudas_Hakehilos_Synagogue_%28Hector_Guimard%29_in_1917.jpg/1280px-Agoudas_Hakehilos_Synagogue_%28Hector_Guimard%29_in_1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/agoudas-hakehilos-synagogue/thumbs/1.webp",
+    "w": 1032,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 1917 photograph of the Agoudas_Hakehilos_Synagogue (rue Pavée, 10) of Paris",
+    "credit": "Lansiaux, Charles Joseph Antoine (Aniche, 09–03–1855 - Paris, après 06–04–1939), photographe",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agoudas_Hakehilos_Synagogue_(Hector_Guimard)_in_1917.jpg",
+    "file": "File:Agoudas Hakehilos Synagogue (Hector Guimard) in 1917.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Synagogue_Rue_Pav%C3%A9e_-_Paris_IV_%28FR75%29_-_2023-05-30_-_1.jpg/1280px-Synagogue_Rue_Pav%C3%A9e_-_Paris_IV_%28FR75%29_-_2023-05-30_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/agoudas-hakehilos-synagogue/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Synagogue de la rue Pavée, Paris",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Synagogue_Rue_Pav%C3%A9e_-_Paris_IV_(FR75)_-_2023-05-30_-_1.jpg",
+    "file": "File:Synagogue Rue Pavée - Paris IV (FR75) - 2023-05-30 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Synagogue_Rue_Pav%C3%A9e_-_Paris_IV_%28FR75%29_-_2023-05-30_-_3.jpg/1280px-Synagogue_Rue_Pav%C3%A9e_-_Paris_IV_%28FR75%29_-_2023-05-30_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/agoudas-hakehilos-synagogue/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Synagogue de la rue Pavée, Paris",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Synagogue_Rue_Pav%C3%A9e_-_Paris_IV_(FR75)_-_2023-05-30_-_3.jpg",
+    "file": "File:Synagogue Rue Pavée - Paris IV (FR75) - 2023-05-30 - 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Paris_Synagogue_RuePav%C3%A9e_innen399.JPG/1280px-Paris_Synagogue_RuePav%C3%A9e_innen399.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/agoudas-hakehilos-synagogue/thumbs/4.webp",
+    "w": 940,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Synagoge in der Rue Pavée (Synagoge Agoudas Hakehilot) im 4",
+    "credit": "GFreihalter",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Synagogue_RuePav%C3%A9e_innen399.JPG",
+    "file": "File:Paris Synagogue RuePavée innen399.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Paris_Synagogue-rue_Pav%C3%A9e761.JPG/1280px-Paris_Synagogue-rue_Pav%C3%A9e761.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/agoudas-hakehilos-synagogue/thumbs/5.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Paris, Synagoge in der Rue Pavée , Detail der Fassade: Gesetzestafeln",
+    "credit": "GFreihalter",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Synagogue-rue_Pav%C3%A9e761.JPG",
+    "file": "File:Paris Synagogue-rue Pavée761.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "international-building",
@@ -309032,7 +314932,83 @@ window.BUILDINGS = [
   "commons": "Category:International Building (Rockefeller Center)",
   "lead": "File:Rockefeller-Center3.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Rockefeller-Center3.jpg/1280px-Rockefeller-Center3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/international-building/thumbs/0.webp",
+    "w": 892,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · International Building at Rockefeller Center in New York City",
+    "credit": "Martin Dürrschnabel",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller-Center3.jpg",
+    "file": "File:Rockefeller-Center3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Just_a_facade..._%2816243409731%29.jpg/1280px-Just_a_facade..._%2816243409731%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/international-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 797,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "John Hoey  from Framingham, MA, United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Just_a_facade..._(16243409731).jpg",
+    "file": "File:Just a facade... (16243409731).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Rockefeller_Center_International_Building_001.jpg/1280px-Rockefeller_Center_International_Building_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/international-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · International Building in Rockefeller Center",
+    "credit": "Kidfly182",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_International_Building_001.jpg",
+    "file": "File:Rockefeller Center International Building 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Rockefeller_Center_International_Building_002.jpg/1280px-Rockefeller_Center_International_Building_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/international-building/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · International Building in Rockefeller Center",
+    "credit": "Kidfly182",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_International_Building_002.jpg",
+    "file": "File:Rockefeller Center International Building 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Rockefeller_Center_Feb_2022_01.jpg/1280px-Rockefeller_Center_Feb_2022_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/international-building/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · The lobby of the International Building at Rockefeller Center in Manhattan, New York, seen in February 2022",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_Feb_2022_01.jpg",
+    "file": "File:Rockefeller Center Feb 2022 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Rockefeller_Center_Feb_2022_02.jpg/1280px-Rockefeller_Center_Feb_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/international-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · The lobby of the International Building at Rockefeller Center in Manhattan, New York, seen in February 2022",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rockefeller_Center_Feb_2022_02.jpg",
+    "file": "File:Rockefeller Center Feb 2022 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "auditorium-conciliazione",
@@ -309056,7 +315032,59 @@ window.BUILDINGS = [
   "commons": "Category:Auditorium Conciliazione",
   "lead": "File:Auditorium Conciliazione 25 10 2020.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Auditorium_Conciliazione_25_10_2020.jpg/1280px-Auditorium_Conciliazione_25_10_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-conciliazione/thumbs/0.webp",
+    "w": 1280,
+    "h": 966,
+    "kind": "Interior",
+    "caption": "Interior · Auditorium Conciliazione in Rome",
+    "credit": "Gustavo La Pizza",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorium_Conciliazione_25_10_2020.jpg",
+    "file": "File:Auditorium Conciliazione 25 10 2020.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Roma_-_Auditorium_della_Conciliazione_%2840984258940%29.jpg/1280px-Roma_-_Auditorium_della_Conciliazione_%2840984258940%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-conciliazione/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roma_-_Auditorium_della_Conciliazione_(40984258940).jpg",
+    "file": "File:Roma - Auditorium della Conciliazione (40984258940).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Roma_-_Auditorium_della_Conciliazione_%2842744803662%29.jpg/1280px-Roma_-_Auditorium_della_Conciliazione_%2842744803662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-conciliazione/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roma_-_Auditorium_della_Conciliazione_(42744803662).jpg",
+    "file": "File:Roma - Auditorium della Conciliazione (42744803662).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/V_d_Conciliazione_-_roma_cristiana_x_turisti_P1080591.JPG/1280px-V_d_Conciliazione_-_roma_cristiana_x_turisti_P1080591.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorium-conciliazione/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Roma, via della Conciliazione",
+    "credit": "Lalupa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:V_d_Conciliazione_-_roma_cristiana_x_turisti_P1080591.JPG",
+    "file": "File:V d Conciliazione - roma cristiana x turisti P1080591.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "landakotskirkja",
@@ -309080,7 +315108,83 @@ window.BUILDINGS = [
   "commons": "Category:Landakotskirkja",
   "lead": "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 093.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Bas%C3%ADlica_de_Cristo_el_Rey%2C_Reikiavik%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_093.JPG/1280px-Bas%C3%ADlica_de_Cristo_el_Rey%2C_Reikiavik%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_093.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/landakotskirkja/thumbs/0.webp",
+    "w": 1280,
+    "h": 1058,
+    "kind": "Exterior",
+    "caption": "Exterior · Christ the King Cathedral, Reykjavík, Capital Region, Iceland",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Cristo_el_Rey,_Reikiavik,_Distrito_de_la_Capital,_Islandia,_2014-08-13,_DD_093.JPG",
+    "file": "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 093.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Bas%C3%ADlica_de_Cristo_el_Rey%2C_Reikiavik%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_091.JPG/1280px-Bas%C3%ADlica_de_Cristo_el_Rey%2C_Reikiavik%2C_Distrito_de_la_Capital%2C_Islandia%2C_2014-08-13%2C_DD_091.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/landakotskirkja/thumbs/1.webp",
+    "w": 795,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Christ the King Cathedral, Reykjavík, Capital Region, Iceland",
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Cristo_el_Rey,_Reikiavik,_Distrito_de_la_Capital,_Islandia,_2014-08-13,_DD_091.JPG",
+    "file": "File:Basílica de Cristo el Rey, Reikiavik, Distrito de la Capital, Islandia, 2014-08-13, DD 091.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Landakotskirkja_%2810834478913%29.jpg/1280px-Landakotskirkja_%2810834478913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/landakotskirkja/thumbs/2.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Europe 2013 (143 of 146)",
+    "credit": "Ben Kucinski  from Beverly Hills, CA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Landakotskirkja_(10834478913).jpg",
+    "file": "File:Landakotskirkja (10834478913).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Landakotskirkja1.jpg/1280px-Landakotskirkja1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/landakotskirkja/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Landakotskirkja in Reykjavik in late October",
+    "credit": "Jbuatti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Landakotskirkja1.jpg",
+    "file": "File:Landakotskirkja1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Landakotskirkja_%28Reykjavik%29_03.jpg/1280px-Landakotskirkja_%28Reykjavik%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/landakotskirkja/thumbs/4.webp",
+    "w": 1202,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Cattedrale di Cristo Re (Reykjavik)",
+    "credit": "Manuelarosi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Landakotskirkja_(Reykjavik)_03.jpg",
+    "file": "File:Landakotskirkja (Reykjavik) 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Landakotskirkja_%28Reykjavik%29_04.jpg/1280px-Landakotskirkja_%28Reykjavik%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/landakotskirkja/thumbs/5.webp",
+    "w": 1280,
+    "h": 1055,
+    "kind": "Interior",
+    "caption": "Interior · Cattedrale di Cristo Re (Reykjavik)",
+    "credit": "Manuelarosi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Landakotskirkja_(Reykjavik)_04.jpg",
+    "file": "File:Landakotskirkja (Reykjavik) 04.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "the-cenotaph",
@@ -309104,7 +315208,123 @@ window.BUILDINGS = [
   "commons": "Category:Cenotaph, London",
   "lead": "File:The Cenotaph on Whitehall, London.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Cenotaph_on_Whitehall%2C_London.jpg/1280px-The_Cenotaph_on_Whitehall%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cenotaph_on_Whitehall,_London.jpg",
+    "file": "File:The Cenotaph on Whitehall, London.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/UK-2014-London-The_Cenotaph.jpg/1280px-UK-2014-London-The_Cenotaph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/1.webp",
+    "w": 1103,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · In a park in London, a large rectangular stone monument about 30 ft tall with three flags along one side",
+    "credit": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UK-2014-London-The_Cenotaph.jpg",
+    "file": "File:UK-2014-London-The Cenotaph.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/London_%2C_Westminster_-_The_Cenotaph_-_geograph.org.uk_-_7930385.jpg/1280px-London_%2C_Westminster_-_The_Cenotaph_-_geograph.org.uk_-_7930385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · London : Westminster - The Cenotaph",
+    "credit": "Lewis Clarke",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_,_Westminster_-_The_Cenotaph_-_geograph.org.uk_-_7930385.jpg",
+    "file": "File:London , Westminster - The Cenotaph - geograph.org.uk - 7930385.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/The_Cenotaph_London%2C_5th_May_2024.jpg/1280px-The_Cenotaph_London%2C_5th_May_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Our trips to Europe usually start or end in London",
+    "credit": "Frank Kovalchek",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cenotaph_London,_5th_May_2024.jpg",
+    "file": "File:The Cenotaph London, 5th May 2024.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Cenotaph_-_original_design_for_the_structure_in_Whitehall_Art.IWMART3991a.jpg/1280px-The_Cenotaph_-_original_design_for_the_structure_in_Whitehall_Art.IWMART3991a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/4.webp",
+    "w": 1280,
+    "h": 932,
+    "kind": "Interior",
+    "caption": "Interior · The Cenotaph - original design for the structure in Whitehall",
+    "credit": "Edwin Lutyens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cenotaph_-_original_design_for_the_structure_in_Whitehall_Art.IWMART3991a.jpg",
+    "file": "File:The Cenotaph - original design for the structure in Whitehall Art.IWMART3991a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/London_Whitehall_-_The_Cenotaph_-_geograph.org.uk_-_8323542.jpg/1280px-London_Whitehall_-_The_Cenotaph_-_geograph.org.uk_-_8323542.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · London Whitehall - The Cenotaph",
+    "credit": "Colin Smith",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Whitehall_-_The_Cenotaph_-_geograph.org.uk_-_8323542.jpg",
+    "file": "File:London Whitehall - The Cenotaph - geograph.org.uk - 8323542.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Cenotaph_sketch_by_Lutyens_-_Original.png/1280px-Cenotaph_sketch_by_Lutyens_-_Original.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/6.webp",
+    "w": 1280,
+    "h": 932,
+    "kind": "Sketch",
+    "caption": "Sketch · Sketch by Sir Edwin Lutyens (d",
+    "credit": "Edwin Lutyens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cenotaph_sketch_by_Lutyens_-_Original.png",
+    "file": "File:Cenotaph sketch by Lutyens - Original.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Cenotaph%2C_model_%28AM_1994.114-1%29.jpg/1280px-Cenotaph%2C_model_%28AM_1994.114-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/7.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Model",
+    "caption": "Model · Model of cenotaph, moulded",
+    "credit": "J W & Co",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cenotaph,_model_(AM_1994.114-1).jpg",
+    "file": "File:Cenotaph, model (AM 1994.114-1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Cenotaph-_Original_Design_for_the_Structure_in_Whitehall_Art.IWMART3991b.jpg/1280px-The_Cenotaph-_Original_Design_for_the_Structure_in_Whitehall_Art.IWMART3991b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/the-cenotaph/thumbs/8.webp",
+    "w": 1280,
+    "h": 1041,
+    "kind": "Drawing",
+    "caption": "Drawing",
+    "credit": "Edwin Lutyens",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Cenotaph-_Original_Design_for_the_Structure_in_Whitehall_Art.IWMART3991b.jpg",
+    "file": "File:The Cenotaph- Original Design for the Structure in Whitehall Art.IWMART3991b.jpg"
+   }
+  ],
+  "has": [
+   "Sketch",
+   "Model",
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "tel-aviv-performing-arts-center",
@@ -309128,7 +315348,83 @@ window.BUILDINGS = [
   "commons": "Category:Tel Aviv Performing Arts Center",
   "lead": "File:Tel Aviv, 2015 (24901961195).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tel_Aviv%2C_2015_%2824901961195%29.jpg/1280px-Tel_Aviv%2C_2015_%2824901961195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tel-aviv-performing-arts-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · OM-D E-M10 Mark II Tel Aviv-Yafo",
+    "credit": "TLV and more  from Tel Aviv, Israel",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tel_Aviv,_2015_(24901961195).jpg",
+    "file": "File:Tel Aviv, 2015 (24901961195).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Tel_Aviv_Performing_Arts_03.JPG/1280px-Tel_Aviv_Performing_Arts_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tel-aviv-performing-arts-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Performing Arts Center, Tel Aviv",
+    "credit": "User:Sambach",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tel_Aviv_Performing_Arts_03.JPG",
+    "file": "File:Tel Aviv Performing Arts 03.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/White_Night_in_Tel_Aviv_P1030263.JPG/1280px-White_Night_in_Tel_Aviv_P1030263.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tel-aviv-performing-arts-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · White Night in Tel Aviv - The Tel Aviv performing arts centre",
+    "credit": "Deror_avi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Night_in_Tel_Aviv_P1030263.JPG",
+    "file": "File:White Night in Tel Aviv P1030263.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/White_Night_in_Tel_Aviv_P1030264.JPG/1280px-White_Night_in_Tel_Aviv_P1030264.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tel-aviv-performing-arts-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · White Night in Tel Aviv - The Tel Aviv performing arts centre",
+    "credit": "Deror_avi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Night_in_Tel_Aviv_P1030264.JPG",
+    "file": "File:White Night in Tel Aviv P1030264.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/The_Tel_Aviv_performing_arts_centre.jpg/1280px-The_Tel_Aviv_performing_arts_centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tel-aviv-performing-arts-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · The Tel Aviv performing arts centre",
+    "credit": "Yair Haklai",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Tel_Aviv_performing_arts_centre.jpg",
+    "file": "File:The Tel Aviv performing arts centre.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hall_of_Stage_Arts_Golda_Center_-_Tel_Aviv_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/tel-aviv-performing-arts-center/thumbs/5.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Hall of Stage Arts Golda Center - Tel Aviv",
+    "credit": "Anatoli Axelrod",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hall_of_Stage_Arts_Golda_Center_-_Tel_Aviv_-_panoramio_(1).jpg",
+    "file": "File:Hall of Stage Arts Golda Center - Tel Aviv - panoramio (1).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "osaka-museum-of-history",
@@ -309152,7 +315448,97 @@ window.BUILDINGS = [
   "commons": "Category:Osaka Museum of History",
   "lead": "File:View near Tanimachi-yonchome Station and the Osaka Castle.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/View_near_Tanimachi-yonchome_Station_and_the_Osaka_Castle.jpg/1280px-View_near_Tanimachi-yonchome_Station_and_the_Osaka_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · A view of the buildings near Tanimachi-yonchome and Osaka Castle",
+    "credit": "Calvinkulit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_near_Tanimachi-yonchome_Station_and_the_Osaka_Castle.jpg",
+    "file": "File:View near Tanimachi-yonchome Station and the Osaka Castle.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/140923_Osaka_Museum_of_History_Osaka_Japan02s3.jpg/1280px-140923_Osaka_Museum_of_History_Osaka_Japan02s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/1.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Osaka Museum of History in Osaka , Osaka prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:140923_Osaka_Museum_of_History_Osaka_Japan02s3.jpg",
+    "file": "File:140923 Osaka Museum of History Osaka Japan02s3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/140923_Osaka_Museum_of_History_Osaka_Japan01s3.jpg/1280px-140923_Osaka_Museum_of_History_Osaka_Japan01s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Osaka Museum of History in Osaka , Osaka prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:140923_Osaka_Museum_of_History_Osaka_Japan01s3.jpg",
+    "file": "File:140923 Osaka Museum of History Osaka Japan01s3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Osaka_Museum_of_History_ao_01.jpg/1280px-Osaka_Museum_of_History_ao_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sakai Yayoi",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Museum_of_History_ao_01.jpg",
+    "file": "File:Osaka Museum of History ao 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Osaka_Museum_of_History_and_NHK_Osaka_Broadcasting_hall_20250901.jpg/1280px-Osaka_Museum_of_History_and_NHK_Osaka_Broadcasting_hall_20250901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/4.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Museum_of_History_and_NHK_Osaka_Broadcasting_hall_20250901.jpg",
+    "file": "File:Osaka Museum of History and NHK Osaka Broadcasting hall 20250901.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/NHK_Osaka_Hall_and_Osaka_Museum_of_History_from_Osaka_Castle_Park.JPG/1280px-NHK_Osaka_Hall_and_Osaka_Museum_of_History_from_Osaka_Castle_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NHK_Osaka_Hall_and_Osaka_Museum_of_History_from_Osaka_Castle_Park.JPG",
+    "file": "File:NHK Osaka Hall and Osaka Museum of History from Osaka Castle Park.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Osaka_Museum_of_History_and_NHK_Osaka_Broadcasting_Center_Building_%2854219285651%29.jpg/1280px-Osaka_Museum_of_History_and_NHK_Osaka_Broadcasting_Center_Building_%2854219285651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/osaka-museum-of-history/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · Osaka Museum of History and NHK Osaka Broadcasting Center Building in Osaka, Japan",
+    "credit": "Jeffrey Hayes",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Osaka_Museum_of_History_and_NHK_Osaka_Broadcasting_Center_Building_(54219285651).jpg",
+    "file": "File:Osaka Museum of History and NHK Osaka Broadcasting Center Building (54219285651).jpg"
+   }
+  ],
+  "has": [
+   "Drawing"
+  ],
+  "gv": 3
  },
  {
   "id": "haus-des-lehrers",
@@ -309176,7 +315562,97 @@ window.BUILDINGS = [
   "commons": "Category:Haus des Lehrers",
   "lead": "File:Haus des Lehrers, 2024 (01).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Haus_des_Lehrers%2C_2024_%2801%29.jpg/1280px-Haus_des_Lehrers%2C_2024_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/0.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the Haus des Lehrers , Berlin-Mitte",
+    "credit": "Bahnfrend",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haus_des_Lehrers,_2024_(01).jpg",
+    "file": "File:Haus des Lehrers, 2024 (01).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Andreasstra%C3%9Fe_%28Berlin-Friedrichshain%29-2026-03-msu-8305.jpg/1280px-Andreasstra%C3%9Fe_%28Berlin-Friedrichshain%29-2026-03-msu-8305.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Matthias Süßen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andreasstra%C3%9Fe_(Berlin-Friedrichshain)-2026-03-msu-8305.jpg",
+    "file": "File:Andreasstraße (Berlin-Friedrichshain)-2026-03-msu-8305.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Alexanderstra%C3%9Fe_November_2013.jpg/1280px-Alexanderstra%C3%9Fe_November_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Alexanderstraße, Berlin",
+    "credit": "Arild Vågen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexanderstra%C3%9Fe_November_2013.jpg",
+    "file": "File:Alexanderstraße November 2013.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Haus_des_Lehrers_%28Berlin-Mitte%29.Blick_vom_Fernsehturm.09011381.ajb.jpg/1280px-Haus_des_Lehrers_%28Berlin-Mitte%29.Blick_vom_Fernsehturm.09011381.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/3.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Blick vom Berliner Fernsehturm auf das Haus des Lehrers in Berlin-Mitte",
+    "credit": "Ajepbah",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Haus_des_Lehrers_(Berlin-Mitte).Blick_vom_Fernsehturm.09011381.ajb.jpg",
+    "file": "File:Haus des Lehrers (Berlin-Mitte).Blick vom Fernsehturm.09011381.ajb.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Orientierungsplan_-_Demokratisches_Berlin._DDR_Hauptstadt._1964_%283980898340%29.jpg/1280px-Orientierungsplan_-_Demokratisches_Berlin._DDR_Hauptstadt._1964_%283980898340%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/4.webp",
+    "w": 975,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Innenstadt - main centre of East berlin",
+    "credit": "Sludge G",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Orientierungsplan_-_Demokratisches_Berlin._DDR_Hauptstadt._1964_(3980898340).jpg",
+    "file": "File:Orientierungsplan - Demokratisches Berlin. DDR Hauptstadt. 1964 (3980898340).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/20220812_Haus_des_Lehrers.jpg/1280px-20220812_Haus_des_Lehrers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/5.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Context",
+    "caption": "Context · View from the Alexanderplatz to the Haus des Lehrers",
+    "credit": "Flocci Nivis",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20220812_Haus_des_Lehrers.jpg",
+    "file": "File:20220812 Haus des Lehrers.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Alexanderplatz_Stadtmodell_Haus_des_Lehrers.jpg/1280px-Alexanderplatz_Stadtmodell_Haus_des_Lehrers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-des-lehrers/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Berlinische Galerie, Berlin Berlin, Stadtmodell aus DDR-Zeiten Blick auf das Haus des Lehrers mit Kongreßhalle",
+    "credit": "Foto von  User:Alter jakob",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexanderplatz_Stadtmodell_Haus_des_Lehrers.jpg",
+    "file": "File:Alexanderplatz Stadtmodell Haus des Lehrers.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "louwman-museum",
@@ -309200,7 +315676,97 @@ window.BUILDINGS = [
   "commons": "Category:Louwman Collection",
   "lead": "File:Den Haag - Louwman Museum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Den_Haag_-_Louwman_Museum.jpg/1280px-Den_Haag_-_Louwman_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Louwman Museum (2010)",
+    "credit": "Michiel1972",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Den_Haag_-_Louwman_Museum.jpg",
+    "file": "File:Den Haag - Louwman Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Louwman_Museum_Den_Haag_2018_1.jpg/1280px-Louwman_Museum_Den_Haag_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · De buitenzijde van het Louwman Museum anno 2018",
+    "credit": "Steven Lek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louwman_Museum_Den_Haag_2018_1.jpg",
+    "file": "File:Louwman Museum Den Haag 2018 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Louwman_Museum_Den_Haag_2018_2.jpg/1280px-Louwman_Museum_Den_Haag_2018_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · De buitenzijde van het Louwman Museum anno 2018",
+    "credit": "Steven Lek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louwman_Museum_Den_Haag_2018_2.jpg",
+    "file": "File:Louwman Museum Den Haag 2018 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Louwman_museum%2C_den_Haag%2C_2019_2.jpg/1280px-Louwman_museum%2C_den_Haag%2C_2019_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Louwman museum located Den Haag, the Netherlands",
+    "credit": "Trogain",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louwman_museum,_den_Haag,_2019_2.jpg",
+    "file": "File:Louwman museum, den Haag, 2019 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Louwman_museum_%28243%29_%2816354550786%29.jpg/1280px-Louwman_museum_%28243%29_%2816354550786%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/4.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · louwman museum (243)",
+    "credit": "bertknot  from scarborough, australia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louwman_museum_(243)_(16354550786).jpg",
+    "file": "File:Louwman museum (243) (16354550786).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Louwman_museum_%28246%29_%2816354543366%29.jpg/1280px-Louwman_museum_%28246%29_%2816354543366%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · louwman museum (246)",
+    "credit": "bertknot  from scarborough, australia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louwman_museum_(246)_(16354543366).jpg",
+    "file": "File:Louwman museum (246) (16354543366).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Duesenberg_SJ_1935.JPG/1280px-Duesenberg_SJ_1935.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/louwman-museum/thumbs/6.webp",
+    "w": 1280,
+    "h": 502,
+    "kind": "Model",
+    "caption": "Model · Duesenberg SJ von 1935 im Louwman Museum",
+    "credit": "Buch-t",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Duesenberg_SJ_1935.JPG",
+    "file": "File:Duesenberg SJ 1935.JPG"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "steiner-house",
@@ -309224,7 +315790,110 @@ window.BUILDINGS = [
   "commons": "Category:Haus Steiner",
   "lead": "File:Steiner1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Steiner1.jpg/1280px-Steiner1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Steiner House from Adolf Loos in Vienna, Austria",
+    "credit": "Castellónenred",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Steiner1.jpg",
+    "file": "File:Steiner1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Steiner2.jpg/1280px-Steiner2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Steiner House from Adolf Loos in Vienna, Austria",
+    "credit": "Castellónenred",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Steiner2.jpg",
+    "file": "File:Steiner2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Adolf_Loos_Haus_Steiner_mit_Magnolie.jpg/1280px-Adolf_Loos_Haus_Steiner_mit_Magnolie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa / Landhaus, Haus Steiner",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Adolf_Loos_Haus_Steiner_mit_Magnolie.jpg",
+    "file": "File:Adolf Loos Haus Steiner mit Magnolie.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Prospetti_Casa_Steiner%2C_Vienna.jpg/1280px-Prospetti_Casa_Steiner%2C_Vienna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 905,
+    "kind": "Exterior",
+    "caption": "Exterior · Quattro prospetti della Casa Steiner a Vienna progettata dall'architetto Adolf Loos",
+    "credit": "Julian.Schindler",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prospetti_Casa_Steiner,_Vienna.jpg",
+    "file": "File:Prospetti Casa Steiner, Vienna.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Casa_Steiner_-_Interior.jpg/1280px-Casa_Steiner_-_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 817,
+    "kind": "Interior",
+    "caption": "Interior · Demuestra el Interior",
+    "credit": "Marcelahernandezmoreira",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Steiner_-_Interior.jpg",
+    "file": "File:Casa Steiner - Interior.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Adolf_Loos_Lampe_Haus_Steiner_Barcelona_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/steiner-house/thumbs/5.webp",
+    "w": 945,
+    "h": 1200,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "RRS4345",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Adolf_Loos_Lampe_Haus_Steiner_Barcelona_2017.jpg",
+    "file": "File:Adolf Loos Lampe Haus Steiner Barcelona 2017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/A.01_PT.jpg/1280px-A.01_PT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/6.webp",
+    "w": 1280,
+    "h": 905,
+    "kind": "Plan",
+    "caption": "Plan · Pianta del piano terra rialzato della casa Steiner a Vienna progettata dall'architetto Adolf Loos",
+    "credit": "Julian.Schindler",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A.01_PT.jpg",
+    "file": "File:A.01 PT.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/A.02_Sezione_AA.jpg/1280px-A.02_Sezione_AA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/steiner-house/thumbs/7.webp",
+    "w": 1280,
+    "h": 905,
+    "kind": "Section",
+    "caption": "Section · Sezione AA della casa Steiner a Vienna progettata dall'architetto Adolf Loos",
+    "credit": "Julian.Schindler",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:A.02_Sezione_AA.jpg",
+    "file": "File:A.02 Sezione AA.jpg"
+   }
+  ],
+  "has": [
+   "Plan",
+   "Section"
+  ],
+  "gv": 3
  },
  {
   "id": "palazzo-dello-strozzino",
@@ -309248,7 +315917,83 @@ window.BUILDINGS = [
   "commons": "Category:Palazzo dello Strozzino",
   "lead": "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,0.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Piazza_Strozzi_2%2C_angolo_via_degli_anselmi%2C_via_sassetti_e_p._davanzati%2C_palazzo_dello_strozzino%2C_01%2C0.jpg/1280px-Piazza_Strozzi_2%2C_angolo_via_degli_anselmi%2C_via_sassetti_e_p._davanzati%2C_palazzo_dello_strozzino%2C_01%2C0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palazzo-dello-strozzino/thumbs/0.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Strozzi_2,_angolo_via_degli_anselmi,_via_sassetti_e_p._davanzati,_palazzo_dello_strozzino,_01,0.jpg",
+    "file": "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, 01,0.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Firenze_-_Palazzo_dello_Strozzino_-_2026-09-16_19-17-02_001.jpg/1280px-Firenze_-_Palazzo_dello_Strozzino_-_2026-09-16_19-17-02_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palazzo-dello-strozzino/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "TeKappa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Firenze_-_Palazzo_dello_Strozzino_-_2026-09-16_19-17-02_001.jpg",
+    "file": "File:Firenze - Palazzo dello Strozzino - 2026-09-16 19-17-02 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Inferriata_da_finestra%2C_xvii_secolo%2C_dal_cortile_del_palazzo_dello_strozzino.jpg/1280px-Inferriata_da_finestra%2C_xvii_secolo%2C_dal_cortile_del_palazzo_dello_strozzino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palazzo-dello-strozzino/thumbs/2.webp",
+    "w": 1280,
+    "h": 981,
+    "kind": "Exterior",
+    "caption": "Exterior · Museo di San Marco This picture was uploaded via web-app \"Wiki Loves Monuments Italia\" ",
+    "credit": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inferriata_da_finestra,_xvii_secolo,_dal_cortile_del_palazzo_dello_strozzino.jpg",
+    "file": "File:Inferriata da finestra, xvii secolo, dal cortile del palazzo dello strozzino.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Bernardo_Marescalchi%2C_lanterna_del_teatro_cinema_odeon%2C_1922_circa_00.jpg/1280px-Bernardo_Marescalchi%2C_lanterna_del_teatro_cinema_odeon%2C_1922_circa_00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palazzo-dello-strozzino/thumbs/3.webp",
+    "w": 795,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernardo_Marescalchi,_lanterna_del_teatro_cinema_odeon,_1922_circa_00.jpg",
+    "file": "File:Bernardo Marescalchi, lanterna del teatro cinema odeon, 1922 circa 00.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Piazza_Strozzi_2%2C_angolo_via_degli_anselmi%2C_via_sassetti_e_p._davanzati%2C_palazzo_dello_strozzino%2C_ingresso_cinema_odeon.jpg/1280px-Piazza_Strozzi_2%2C_angolo_via_degli_anselmi%2C_via_sassetti_e_p._davanzati%2C_palazzo_dello_strozzino%2C_ingresso_cinema_odeon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palazzo-dello-strozzino/thumbs/4.webp",
+    "w": 1280,
+    "h": 909,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Strozzi_2,_angolo_via_degli_anselmi,_via_sassetti_e_p._davanzati,_palazzo_dello_strozzino,_ingresso_cinema_odeon.jpg",
+    "file": "File:Piazza Strozzi 2, angolo via degli anselmi, via sassetti e p. davanzati, palazzo dello strozzino, ingresso cinema odeon.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Palazzo_dello_strozzini%2C_edicola.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/palazzo-dello-strozzino/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Palazzo dello strozzini, edicola",
+    "credit": "sailko",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Palazzo_dello_strozzini,_edicola.JPG",
+    "file": "File:Palazzo dello strozzini, edicola.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kino-babylon",
@@ -309272,7 +316017,83 @@ window.BUILDINGS = [
   "commons": "Category:Babylon (cinema in Berlin)",
   "lead": "File:Berlin, Mitte, Rosa-Luxemburg-Strasse 30, Wohnanlage und Kino Babylon.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Berlin%2C_Mitte%2C_Rosa-Luxemburg-Strasse_30%2C_Wohnanlage_und_Kino_Babylon.jpg/1280px-Berlin%2C_Mitte%2C_Rosa-Luxemburg-Strasse_30%2C_Wohnanlage_und_Kino_Babylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kino-babylon/thumbs/0.webp",
+    "w": 1280,
+    "h": 1058,
+    "kind": "Exterior",
+    "caption": "Exterior · The Cinema Babylon at Rosa-Luxemburg-Straße No",
+    "credit": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Rosa-Luxemburg-Strasse_30,_Wohnanlage_und_Kino_Babylon.jpg",
+    "file": "File:Berlin, Mitte, Rosa-Luxemburg-Strasse 30, Wohnanlage und Kino Babylon.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kino_Babylon.jpg/1280px-Kino_Babylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kino-babylon/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · stilvolles Kino in Berlin",
+    "credit": "Triebkraft",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kino_Babylon.jpg",
+    "file": "File:Kino Babylon.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Berlin_kino_babylon.jpg/1280px-Berlin_kino_babylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kino-babylon/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Frontaufnahme Eingangsbereich des Kino Babylons, während der 60",
+    "credit": "Andreas Augstein",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_kino_babylon.jpg",
+    "file": "File:Berlin kino babylon.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Aussenansicht_Kino_Babylon.jpg/1280px-Aussenansicht_Kino_Babylon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kino-babylon/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Foto: www.stephan-roehl.de",
+    "credit": "boellstiftung",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aussenansicht_Kino_Babylon.jpg",
+    "file": "File:Aussenansicht Kino Babylon.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Aussenansicht_Kino_Babylon_-_12592495504.jpg/1280px-Aussenansicht_Kino_Babylon_-_12592495504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kino-babylon/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Foto: www.stephan-roehl.de",
+    "credit": "boellstiftung",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aussenansicht_Kino_Babylon_-_12592495504.jpg",
+    "file": "File:Aussenansicht Kino Babylon - 12592495504.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BabylonBerlinInterior.jpg/1280px-BabylonBerlinInterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kino-babylon/thumbs/5.webp",
+    "w": 1280,
+    "h": 668,
+    "kind": "Interior",
+    "caption": "Interior · This photo shows the interior architecture of the Babylon Kino",
+    "credit": "Thomas Laconis",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BabylonBerlinInterior.jpg",
+    "file": "File:BabylonBerlinInterior.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "taliesin",
@@ -309296,7 +316117,83 @@ window.BUILDINGS = [
   "commons": "Category:Taliesin (building)",
   "lead": "File:Taliesin, Spring Green (2).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Taliesin%2C_Spring_Green_%282%29.jpg/1280px-Taliesin%2C_Spring_Green_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taliesin/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taliesin, Spring Green, Wisconsin, photo taken 6/26/2023",
+    "credit": "Bahrsoap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taliesin,_Spring_Green_(2).jpg",
+    "file": "File:Taliesin, Spring Green (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Taliesin_02.jpg/1280px-Taliesin_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taliesin/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Taliesin, 2 mi",
+    "credit": "Raggedkompany",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taliesin_02.jpg",
+    "file": "File:Taliesin 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Taliesin_2023_-_002.jpg/1280px-Taliesin_2023_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taliesin/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dirk DBQ",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taliesin_2023_-_002.jpg",
+    "file": "File:Taliesin 2023 - 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Frank_Lloyd_Wright_-_Spring_Green%2C_WI_-_Taliesin_%28Taliesin_III_-_Wright%27s_Bedroom%29_%281%29.jpg/1280px-Frank_Lloyd_Wright_-_Spring_Green%2C_WI_-_Taliesin_%28Taliesin_III_-_Wright%27s_Bedroom%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taliesin/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Added c",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Spring_Green,_WI_-_Taliesin_(Taliesin_III_-_Wright%27s_Bedroom)_(1).jpg",
+    "file": "File:Frank Lloyd Wright - Spring Green, WI - Taliesin (Taliesin III - Wright's Bedroom) (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Frank_Lloyd_Wright_-_Spring_Green%2C_WI_-_Taliesin_%28Drafting_Studio%29_%282%29.jpg/1280px-Frank_Lloyd_Wright_-_Spring_Green%2C_WI_-_Taliesin_%28Drafting_Studio%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taliesin/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Built in 1911",
+    "credit": "Bmzuckerman",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Frank_Lloyd_Wright_-_Spring_Green,_WI_-_Taliesin_(Drafting_Studio)_(2).jpg",
+    "file": "File:Frank Lloyd Wright - Spring Green, WI - Taliesin (Drafting Studio) (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Ceiling%2C_Frank_Lloyd_Wright_Visitor_Center_%28Riverview_Terrace_Restaurant%29%2C_County_Road_C_and_Wisconsin_State_Highway_23%2C_Spring_Green%2C_WI_-_54224856874.jpg/1280px-Ceiling%2C_Frank_Lloyd_Wright_Visitor_Center_%28Riverview_Terrace_Restaurant%29%2C_County_Road_C_and_Wisconsin_State_Highway_23%2C_Spring_Green%2C_WI_-_54224856874.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/taliesin/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling,_Frank_Lloyd_Wright_Visitor_Center_(Riverview_Terrace_Restaurant),_County_Road_C_and_Wisconsin_State_Highway_23,_Spring_Green,_WI_-_54224856874.jpg",
+    "file": "File:Ceiling, Frank Lloyd Wright Visitor Center (Riverview Terrace Restaurant), County Road C and Wisconsin State Highway 23, Spring Green, WI - 54224856874.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "casa-lleo-morera",
@@ -309320,7 +316217,97 @@ window.BUILDINGS = [
   "commons": "Category:Casa Lleó Morera",
   "lead": "File:DiM Lleo Morera 9826 copia.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/DiM_Lleo_Morera_9826_copia.jpg/1280px-DiM_Lleo_Morera_9826_copia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-lleo-morera/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Lleó Morera (Barcelona)",
+    "credit": "Amadalvarez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DiM_Lleo_Morera_9826_copia.jpg",
+    "file": "File:DiM Lleo Morera 9826 copia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Barcelona-Eixample%2C_bovendeel_van_Casa_Lle%C3%B3_Morera_IPA-40399_ontworpen_door_Lluis_Dom%C3%A8nech_i_Montane_IMG_3562_2026-08-30_09.06.jpg/1280px-Barcelona-Eixample%2C_bovendeel_van_Casa_Lle%C3%B3_Morera_IPA-40399_ontworpen_door_Lluis_Dom%C3%A8nech_i_Montane_IMG_3562_2026-08-30_09.06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-lleo-morera/thumbs/1.webp",
+    "w": 1280,
+    "h": 941,
+    "kind": "Detail",
+    "caption": "Detail · Barcelona-Eixample, upper part of modernista building: Casa Lleó Morera",
+    "credit": "Michielverbeek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona-Eixample,_bovendeel_van_Casa_Lle%C3%B3_Morera_IPA-40399_ontworpen_door_Lluis_Dom%C3%A8nech_i_Montane_IMG_3562_2026-08-30_09.06.jpg",
+    "file": "File:Barcelona-Eixample, bovendeel van Casa Lleó Morera IPA-40399 ontworpen door Lluis Domènech i Montane IMG 3562 2026-08-30 09.06.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/CasaLleoMorera-Full.jpg/1280px-CasaLleoMorera-Full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-lleo-morera/thumbs/2.webp",
+    "w": 1077,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Lleó Morera, obra de Lluís Domènech i Montaner (1902)",
+    "credit": "Kwong Yee Cheng",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CasaLleoMorera-Full.jpg",
+    "file": "File:CasaLleoMorera-Full.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Casa_Lle%C3%B3_Morera%2C_General_View.jpg/1280px-Casa_Lle%C3%B3_Morera%2C_General_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-lleo-morera/thumbs/3.webp",
+    "w": 887,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Lleó Morera, General View",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Lle%C3%B3_Morera,_General_View.jpg",
+    "file": "File:Casa Lleó Morera, General View.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Barcelona_-_Casa_Lle%C3%B3_i_Morera_%281%29.jpg/1280px-Barcelona_-_Casa_Lle%C3%B3_i_Morera_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-lleo-morera/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Barcelona - Casa Lleó i Morera",
+    "credit": "Fred Romero",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Casa_Lle%C3%B3_i_Morera_(1).jpg",
+    "file": "File:Barcelona - Casa Lleó i Morera (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Casa_Lleo_i_morera_pati_interior.JPG/1280px-Casa_Lleo_i_morera_pati_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-lleo-morera/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Casa Lleó i Morera",
+    "credit": "OrbyceComunicacio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Lleo_i_morera_pati_interior.JPG",
+    "file": "File:Casa Lleo i morera pati interior.JPG"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Estudi_del_fot%C3%B2graf_Pau_Audouard_a_la_planta_baixa_de_la_Casa_Lle%C3%B3_Morera_de_Barcelona_%28AFCEC_XXX_AAAB_0094%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/casa-lleo-morera/thumbs/6.webp",
+    "w": 1024,
+    "h": 768,
+    "kind": "Plan",
+    "caption": "Plan · Imatge",
+    "credit": "Anonymous",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Estudi_del_fot%C3%B2graf_Pau_Audouard_a_la_planta_baixa_de_la_Casa_Lle%C3%B3_Morera_de_Barcelona_(AFCEC_XXX_AAAB_0094).jpeg",
+    "file": "File:Estudi del fotògraf Pau Audouard a la planta baixa de la Casa Lleó Morera de Barcelona (AFCEC XXX AAAB 0094).jpeg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "deutschmeister-palais",
@@ -309344,7 +316331,97 @@ window.BUILDINGS = [
   "commons": "Category:Palais Erzherzog Wilhelm",
   "lead": "File:Parkring 8 Ansicht 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Deutschmeisterpalais-IMG_4189.JPG/1280px-Deutschmeisterpalais-IMG_4189.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Deutschmeister-Palais, Palais Erzherzog Wilhelm",
+    "credit": "PictureObelix",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutschmeisterpalais-IMG_4189.JPG",
+    "file": "File:Deutschmeisterpalais-IMG 4189.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Palais_Erzherzog_Wilhelm_01.jpg/1280px-Palais_Erzherzog_Wilhelm_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Palais Erzherzog Wilhelm",
+    "credit": "Anton-kurt",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Erzherzog_Wilhelm_01.jpg",
+    "file": "File:Palais Erzherzog Wilhelm 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1010_Wien_-_Ringstra%C3%9Fe_-_Parkring_8_-_%27Deutschmeister-Palais%27_-_Beletage_-_Holzdecke.jpg/1280px-1010_Wien_-_Ringstra%C3%9Fe_-_Parkring_8_-_%27Deutschmeister-Palais%27_-_Beletage_-_Holzdecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/2.webp",
+    "w": 1280,
+    "h": 963,
+    "kind": "Exterior",
+    "caption": "Exterior · This media shows the protected monument with ObjektID 40814 in Austria",
+    "credit": "Dr.Nerfling",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:1010_Wien_-_Ringstra%C3%9Fe_-_Parkring_8_-_%27Deutschmeister-Palais%27_-_Beletage_-_Holzdecke.jpg",
+    "file": "File:1010 Wien - Ringstraße - Parkring 8 - 'Deutschmeister-Palais' - Beletage - Holzdecke.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Deutschmeisterpalais_-_ehemaliger_Festsaal_%28heute_Sitzungssaal_des_OFID%29.jpg/1280px-Deutschmeisterpalais_-_ehemaliger_Festsaal_%28heute_Sitzungssaal_des_OFID%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Deutschmeisterpalais/Palais Erzherzog Wilhelm, OFID",
+    "credit": "C. Cossa",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutschmeisterpalais_-_ehemaliger_Festsaal_(heute_Sitzungssaal_des_OFID).jpg",
+    "file": "File:Deutschmeisterpalais - ehemaliger Festsaal (heute Sitzungssaal des OFID).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Deutschmeisterpalais-IMG_4303.JPG/1280px-Deutschmeisterpalais-IMG_4303.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Deutschmeister-Palais, Palais Erzherzog Wilhelm",
+    "credit": "PictureObelix",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutschmeisterpalais-IMG_4303.JPG",
+    "file": "File:Deutschmeisterpalais-IMG 4303.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/1010_Wien_-_Ringstra%C3%9Fe_-_Parkring_8_-_%27Deutschmeister-Palais%27_-_Beletage_-_Innendekor.jpg/1280px-1010_Wien_-_Ringstra%C3%9Fe_-_Parkring_8_-_%27Deutschmeister-Palais%27_-_Beletage_-_Innendekor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · This media shows the protected monument with ObjektID 40814 in Austria",
+    "credit": "Dr.Nerfling",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:1010_Wien_-_Ringstra%C3%9Fe_-_Parkring_8_-_%27Deutschmeister-Palais%27_-_Beletage_-_Innendekor.jpg",
+    "file": "File:1010 Wien - Ringstraße - Parkring 8 - 'Deutschmeister-Palais' - Beletage - Innendekor.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Parkring_8_Ansicht_2.jpg/1280px-Parkring_8_Ansicht_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/deutschmeister-palais/thumbs/6.webp",
+    "w": 1280,
+    "h": 714,
+    "kind": "Elevation",
+    "caption": "Elevation · Deutschmeister-Palais, Palais Erzherzog Wilhelm",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 3.0 at",
+    "source": "https://commons.wikimedia.org/wiki/File:Parkring_8_Ansicht_2.jpg",
+    "file": "File:Parkring 8 Ansicht 2.jpg"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "india-house",
@@ -309368,7 +316445,83 @@ window.BUILDINGS = [
   "commons": "Category:India House (Westminster)",
   "lead": "File:London - India House High Commission of India (40412413273).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/London_-_India_House_High_Commission_of_India_%2840412413273%29.jpg/1280px-London_-_India_House_High_Commission_of_India_%2840412413273%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/india-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Westminster - Aldwych Embassy of India",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_-_India_House_High_Commission_of_India_(40412413273).jpg",
+    "file": "File:London - India House High Commission of India (40412413273).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/India_House%2C_Aldwych%2C_London_01.jpg/1280px-India_House%2C_Aldwych%2C_London_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/india-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Paul the Archivist",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_House,_Aldwych,_London_01.jpg",
+    "file": "File:India House, Aldwych, London 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/London_-_India_House_High_Commission_of_India_%2840412413033%29.jpg/1280px-London_-_India_House_High_Commission_of_India_%2840412413033%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/india-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Westminster - Aldwych Embassy of India",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_-_India_House_High_Commission_of_India_(40412413033).jpg",
+    "file": "File:London - India House High Commission of India (40412413033).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/India_House%2C_Aldwych%2C_London_02.jpg/1280px-India_House%2C_Aldwych%2C_London_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/india-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Paul the Archivist",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_House,_Aldwych,_London_02.jpg",
+    "file": "File:India House, Aldwych, London 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/High_Commission_of_India_in_London_1.jpg/1280px-High_Commission_of_India_in_London_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/india-house/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · High Commission of India in London 1",
+    "credit": "Sdrawkcab",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:High_Commission_of_India_in_London_1.jpg",
+    "file": "File:High Commission of India in London 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Architectural_sculpture_above_entrance%2C_India_House%2C_London.jpg/1280px-Architectural_sculpture_above_entrance%2C_India_House%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/india-house/thumbs/5.webp",
+    "w": 1049,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Westminster - Aldwych Embassy of India",
+    "credit": "Fred Romero  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Architectural_sculpture_above_entrance,_India_House,_London.jpg",
+    "file": "File:Architectural sculpture above entrance, India House, London.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-bartholomews-episcopal-church",
@@ -309392,6 +316545,82 @@ window.BUILDINGS = [
   "commons": "Category:St. Bartholomew's Episcopal Church (Manhattan)",
   "lead": "File:NYC St. Bartholomew's 07.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/NYC_St._Bartholomew%27s_07.jpg/1280px-NYC_St._Bartholomew%27s_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-bartholomews-episcopal-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 934,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "ErwinMeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NYC_St._Bartholomew%27s_07.jpg",
+    "file": "File:NYC St. Bartholomew's 07.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/St._Bartholomew%27s_Church_-_2026_%2855284018210%29.jpg/1280px-St._Bartholomew%27s_Church_-_2026_%2855284018210%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-bartholomews-episcopal-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · New York, NY",
+    "credit": "Ajay Suresh",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Bartholomew%27s_Church_-_2026_(55284018210).jpg",
+    "file": "File:St. Bartholomew's Church - 2026 (55284018210).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/NYC_St._Bartholomew%27s_06.jpg/1280px-NYC_St._Bartholomew%27s_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-bartholomews-episcopal-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 906,
+    "kind": "Exterior",
+    "caption": "Exterior · Portal von 1902, St",
+    "credit": "ErwinMeier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NYC_St._Bartholomew%27s_06.jpg",
+    "file": "File:NYC St. Bartholomew's 06.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/General_Electric_Building_and_St_Barts_Church_Feb_2023_01.jpg/1280px-General_Electric_Building_and_St_Barts_Church_Feb_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-bartholomews-episcopal-church/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The General Electric Building at 570 Lexington Avenue (left) and St",
+    "credit": "Epicgenius",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:General_Electric_Building_and_St_Barts_Church_Feb_2023_01.jpg",
+    "file": "File:General Electric Building and St Barts Church Feb 2023 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/St_Bartholomew%27s_Church.jpg/1280px-St_Bartholomew%27s_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-bartholomews-episcopal-church/thumbs/4.webp",
+    "w": 914,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · View from chancel looking toward narthex and organ loft",
+    "credit": "Charles Schreiber",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Bartholomew%27s_Church.jpg",
+    "file": "File:St Bartholomew's Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/St._Bartholomew%27s_Church.jpg/1280px-St._Bartholomew%27s_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-bartholomews-episcopal-church/thumbs/5.webp",
+    "w": 890,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · South Transept, rose window",
+    "credit": "Charles Schreiber",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Bartholomew%27s_Church.jpg",
+    "file": "File:St. Bartholomew's Church.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
