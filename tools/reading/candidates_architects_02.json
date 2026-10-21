@@ -3269,6 +3269,54 @@
     "kind": "video",
     "paid": false,
     "why": "Talk on his architecture"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Rogelio Salmona (CCA library)",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/72465682",
+    "kind": "museum",
+    "paid": false,
+    "why": "CCA library publication on his work"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Rogelio Salmona (CCA library)",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/693517049",
+    "kind": "museum",
+    "paid": false,
+    "why": "CCA holdings on his housing work"
+   },
+   {
+    "site": "Arquitectura Viva",
+    "title": "Rogelio Salmona",
+    "url": "https://arquitecturaviva.com/articulos/rogelio-salmona",
+    "kind": "essay",
+    "paid": false,
+    "why": "Spanish-language architecture magazine feature"
+   },
+   {
+    "site": "Radio Nacional de Colombia",
+    "title": "Rogelio Salmona: arquitectura del tiempo y la memoria",
+    "url": "https://radionacional.co/noticias-colombia/rogelio-salmona-arquitectura-del-tiempo-y-la-memoria-de-biblored",
+    "kind": "news",
+    "paid": false,
+    "why": "Spanish; his Bogotá libraries"
+   },
+   {
+    "site": "Biografías y Vidas",
+    "title": "Rogelio Salmona",
+    "url": "https://www.biografiasyvidas.com/biografia/s/salmona.htm",
+    "kind": "profile",
+    "paid": false,
+    "why": "Spanish-language biography"
+   },
+   {
+    "site": "USP Portal Latinoamericano",
+    "title": "Salmona, Rogerio",
+    "url": "https://sites.usp.br/portalatinoamericano/es/espanol-salmona-rogerio",
+    "kind": "profile",
+    "paid": false,
+    "why": "Spanish; university profile"
    }
   ]
  },
@@ -4314,14 +4362,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Projects gathered in one place"
-   },
-   {
-    "site": "Henning Larsen",
-    "title": "Projects",
-    "url": "https://henninglarsen.com/projects",
-    "kind": "museum",
-    "paid": false,
-    "why": "The practice's own project archive"
    }
   ]
  },
