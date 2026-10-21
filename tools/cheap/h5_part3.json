@@ -1,0 +1,817 @@
+[
+ {
+  "id": "zenith-de-dijon",
+  "qid": "Q3576481",
+  "status": "skip",
+  "why": "Concert venue; lead gives no architectural reason."
+ },
+ {
+  "id": "bing-concert-hall",
+  "qid": "Q4914117",
+  "status": "unsure",
+  "why": "Strong keep: lead names Richard Olcott of Ennead Architects and the vineyard-style seating. No city in prep.json (only Santa Clara County; lead says Stanford University). Main photo passes.",
+  "note": "no city",
+  "name": "Bing Concert Hall"
+ },
+ {
+  "id": "canadian-clay-and-glass-gallery",
+  "qid": "Q5029867",
+  "status": "skip",
+  "why": "Gallery; lead gives no design reason and the architect has no building on the wall."
+ },
+ {
+  "id": "san-riccardo-pampuri-church",
+  "qid": "Q55358441",
+  "status": "skip",
+  "why": "Parish church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "st-katharina-von-siena",
+  "qid": "Q62588192",
+  "status": "skip",
+  "why": "Parish church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "harding-charter-preparatory-high-school",
+  "qid": "Q5656081",
+  "status": "skip",
+  "why": "Ordinary high school."
+ },
+ {
+  "id": "church-of-st-basil-of-ostrog-belgrade",
+  "qid": "Q2497798",
+  "status": "photo",
+  "why": "Lead names the architect and his plan; first church in New Belgrade since WWII. Photos daylight, outside.",
+  "name": "Church of St. Basil of Ostrog, Belgrade",
+  "by": "Mihajlo Mitrović",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": 2001,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Community",
+   "Vault"
+  ],
+  "features": "New Belgrade's first church since World War II, with an 'old Christian' rotunda plan and tall bell-tower.",
+  "commons_category": "Category:Church of St. Basil of Ostrog (Novi Beograd)",
+  "coords": [
+   44.82028,
+   20.38806
+  ],
+  "photos": [
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pathe-schouwburgplein",
+  "qid": "Q38238761",
+  "status": "skip",
+  "why": "Lead is empty (architect Koen van Velsen has a building on the wall, but no lead to write features from)."
+ },
+ {
+  "id": "aue-pavilions",
+  "qid": "Q2585319",
+  "status": "skip",
+  "why": "Temporary documenta pavilions; lead gives no design reason and does not say they still stand."
+ },
+ {
+  "id": "piccolo-teatro-strehler",
+  "qid": "Q56477161",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "apple-champs-elysees",
+  "qid": "Q109810822",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "badaevsky",
+  "qid": "Q113868959",
+  "status": "skip",
+  "why": "Lead is empty; housing."
+ },
+ {
+  "id": "rijeka-mosque",
+  "qid": "Q26256577",
+  "status": "skip",
+  "why": "Lead gives build dates only, no design reason; architect not on the wall."
+ },
+ {
+  "id": "ishikawa-nanao-art-museum",
+  "qid": "Q11585933",
+  "status": "photo",
+  "why": "Short lead, but architect (Uchii) has a building on the wall, so kept. Single daylight exterior photo.",
+  "name": "Ishikawa Nanao Art Museum",
+  "by": "Shozo Uchii",
+  "city": "Nanao",
+  "cc": "JP",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Light & shadow"
+  ],
+  "features": "A 1995 art museum on the Noto Peninsula by Shozo Uchii, holding works by Hasegawa Tōhaku.",
+  "commons_category": "Category:Ishikawa Nanao Art Museum",
+  "coords": [
+   37.04481,
+   136.95373
+  ],
+  "photos": [
+   {
+    "file": "File:石川県七尾美術館 Nanao Art Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cc-amfi",
+  "qid": "Q477911",
+  "status": "skip",
+  "why": "Ordinary ice-hockey arena."
+ },
+ {
+  "id": "lex-building",
+  "qid": "Q1822210",
+  "status": "skip",
+  "why": "Ordinary government office tower; lead gives no design reason."
+ },
+ {
+  "id": "resurrection-cathedral-korce",
+  "qid": "Q7316527",
+  "status": "skip",
+  "why": "Lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "timewheel",
+  "qid": "Q186596",
+  "status": "skip",
+  "why": "Sculpture (hourglass), not a building."
+ },
+ {
+  "id": "mount-stewart",
+  "qid": "Q155885",
+  "status": "skip",
+  "why": "Historic house and garden; lead gives no design reason. Wikidata architect James Stuart (d. 1788) does not fit a 19th-century house."
+ },
+ {
+  "id": "bibliotheque-universitaire-des-langues-et-civilisations",
+  "qid": "Q2901548",
+  "status": "skip",
+  "why": "Library; lead gives no design reason; Yves Lion has no building on the wall."
+ },
+ {
+  "id": "armenian-cathedral-of-moscow",
+  "qid": "Q4069756",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "fuglsang-art-museum",
+  "qid": "Q5507293",
+  "status": "unsure",
+  "why": "Strong keep: Tony Fretton, 2009 RIBA European Award, landscape integration (lead). No city in prep.json (Guldborgsund Municipality on Lolland).",
+  "note": "no city",
+  "name": "Fuglsang Art Museum"
+ },
+ {
+  "id": "dia-beacon",
+  "qid": "Q1207917",
+  "status": "photo",
+  "why": "Adaptive reuse with a clear lead. Prep architect is artist Robert Irwin; the lead names the renovating architects, so those are used.",
+  "name": "Dia Beacon",
+  "by": "Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
+  "city": "Beacon",
+  "cc": "US",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A former Nabisco box-printing factory near the Hudson, renovated for Dia's art collection with Robert Irwin and OpenOffice architects.",
+  "commons_category": "Category:Dia:Beacon",
+  "coords": [
+   41.50008,
+   -73.98257
+  ],
+  "photos": [
+   {
+    "file": "File:Dia Beacon (55195273088).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dia Beacon 08.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dia Beacon 09.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "otsuka-museum-of-art",
+  "qid": "Q3329659",
+  "status": "photo",
+  "why": "Sakakura firm (Junzo Sakakura office, with buildings on the wall); lead is about the museum, founded 1998.",
+  "name": "Ōtsuka Museum of Art",
+  "by": "Sakakura Associates Architects and Engineers",
+  "city": "Naruto",
+  "cc": "JP",
+  "year": 1998,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Over a thousand full-size ceramic reproductions of famous artworks, including the Sistine Chapel, in Naruto.",
+  "commons_category": "Category:Otsuka Museum of Art",
+  "coords": [
+   34.2324,
+   134.638
+  ],
+  "photos": [
+   {
+    "file": "File:The Otsuka Museum of Art01s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:The Otsuka Museum of Art20s3203.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Otsuka Museum of Art10s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "wajima-museum-of-urushi-art",
+  "qid": "Q11586047",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "beelden-aan-zee",
+  "qid": "Q477275",
+  "status": "skip",
+  "why": "Sculpture museum; lead gives no design reason; photos are sculptures."
+ },
+ {
+  "id": "ucla-marion-anderson-hall",
+  "qid": "Q105653401",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "arenes-de-metz",
+  "qid": "Q3361211",
+  "status": "skip",
+  "why": "Ordinary indoor sports arena."
+ },
+ {
+  "id": "paul-g-allen-center-for-computer-science-engineering",
+  "qid": "Q38884562",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "paccar-hall",
+  "qid": "Q98447438",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "biblioteca-raul-rangel-frias",
+  "qid": "Q108938574",
+  "status": "unsure",
+  "why": "Legorreta (six buildings on the wall) and lead gives tradition and modernity; opened 1995 per lead. prep.json gives only Nuevo León (a state), so no city.",
+  "note": "no city",
+  "name": "Biblioteca Raúl Rangel Frías"
+ },
+ {
+  "id": "pearling-site",
+  "qid": "Q121602845",
+  "status": "unsure",
+  "why": "Olgiati and the lead (visitor centre at the entrance to the UNESCO pearling path) fit. Only photo is inside, with people; no exterior photo.",
+  "note": "no main photo",
+  "name": "Pearling Site"
+ },
+ {
+  "id": "church-of-st-cyril-of-turau-and-all-the-patron-saints-of-the-belarusian-people",
+  "qid": "Q23541304",
+  "status": "photo",
+  "why": "Lead gives firsts (wooden church since the Great Fire). Lead names no date; year 2017 from prep.json.",
+  "name": "Church of St Cyril of Turau and All the Patron Saints of the Belarusian People",
+  "by": "Tszwai So",
+  "city": "London",
+  "cc": "GB",
+  "year": 2017,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "The first wooden church built in London since the Great Fire, and the first purpose-built Eastern Catholic church in London.",
+  "commons_category": "Category:Belarusian Church, London N12",
+  "coords": [
+   51.6167,
+   -0.1847
+  ],
+  "photos": [
+   {
+    "file": "File:Church of St Cyril of Turau and All the Patron Saints of the Belarusian People (2016-11-24).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belarusian Church of London 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belarusian Church of London 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "memorial-mosque",
+  "qid": "Q3659006",
+  "status": "skip",
+  "why": "Lead gives no design reason; ordinary mosque."
+ },
+ {
+  "id": "san-corbiniano",
+  "qid": "Q1143103",
+  "status": "skip",
+  "why": "Church; lead gives no design reason; no photos."
+ },
+ {
+  "id": "epic-the-irish-emigration-museum",
+  "qid": "Q29831711",
+  "status": "skip",
+  "why": "Visitor attraction; interior exhibition photos only."
+ },
+ {
+  "id": "church-of-the-nativity-of-the-theotokos-skopje",
+  "qid": "Q610351",
+  "status": "skip",
+  "why": "Church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "cite-de-la-mode-et-du-design",
+  "qid": "Q2974772",
+  "status": "photo",
+  "why": "Lead names Jakob + MacFarlane and calls it a bold contemporary monument; opened 2010 per lead. Main photo (terrace) rejected; flood-view photos used.",
+  "name": "Cité de la mode et du design",
+  "by": "Dominique Jakob, Brendan Macfarlane",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2010,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Public space"
+  ],
+  "features": "Jakob and MacFarlane's bold fashion and design centre, built on the site of old general storehouses beside the Seine.",
+  "commons_category": "Category:Cité de la mode et du design",
+  "coords": [
+   48.84111,
+   2.36972
+  ],
+  "photos": [
+   {
+    "file": "File:Crue2018 - Quai d'Austerlitz (69) - pht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crue2018 - Quai d'Austerlitz (60) - pht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "550-south-tryon",
+  "qid": "Q3041087",
+  "status": "photo",
+  "why": "Lead gives a first (tallest building to use precast double tees). Office tower kept for that reason.",
+  "name": "550 South Tryon",
+  "by": "Tvsdesign",
+  "city": "Charlotte",
+  "cc": "US",
+  "year": 2010,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Monumentality",
+   "Modular"
+  ],
+  "features": "The tallest building in the world to use precast double tees, completed in 2010 in Charlotte.",
+  "commons_category": "Category:550 South Tryon",
+  "coords": [
+   35.224,
+   -80.8481
+  ],
+  "photos": [
+   {
+    "file": "File:Duke Energy Center Charlotte.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Charlotte, North Carolina.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Duke Energy Center and The Westin Charlotte, 2010.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "new-synagogue-mainz",
+  "qid": "Q870253",
+  "status": "photo",
+  "why": "Lead gives design and site (rebuilt on the 1938 synagogue site); Manuel Herz has a building on the wall. Night photo excluded.",
+  "name": "New Synagogue (Mainz)",
+  "by": "Manuel Herz",
+  "city": "Mainz",
+  "cc": "DE",
+  "year": 2010,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Community",
+   "Facade as skin"
+  ],
+  "features": "A Modernist-styled synagogue and community centre on the site of Mainz's synagogue destroyed in 1938.",
+  "commons_category": "Category:New Synagogue in Mainz",
+  "coords": [
+   50.0087,
+   8.25931
+  ],
+  "photos": [
+   {
+    "file": "File:New Synagogue Mainz exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagoge Mainz.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:New Synagogue, Mainz, front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "railway-museum-saitama",
+  "qid": "Q846106",
+  "status": "skip",
+  "why": "Railway museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "okuda-genso-sayume-art-museum",
+  "qid": "Q22118199",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "new-luxor-theater",
+  "qid": "Q38238747",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "eilat-sports-center",
+  "qid": "Q15056560",
+  "status": "skip",
+  "why": "Ordinary sports centre; lead gives no design reason."
+ },
+ {
+  "id": "stadshal-ghent",
+  "qid": "Q4359785",
+  "status": "skip",
+  "why": "Already on the wall as Stadshal (Market Hall), Ghent."
+ },
+ {
+  "id": "st-ursula-s-church-kouvola",
+  "qid": "Q14947515",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "saint-john-the-baptist-church-abovyan",
+  "qid": "Q16399820",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "caleido",
+  "qid": "Q22970105",
+  "status": "skip",
+  "why": "Ordinary office tower; lead gives only facts."
+ },
+ {
+  "id": "diehtosiida",
+  "qid": "Q3223562",
+  "status": "skip",
+  "why": "Lead says what it houses, not how it is designed; architect not on the wall."
+ },
+ {
+  "id": "world-s-tallest-thermometer",
+  "qid": "Q4901687",
+  "status": "skip",
+  "why": "Sign and structure, not a building."
+ },
+ {
+  "id": "st-michael-s-cathedral-cherkasy",
+  "qid": "Q7590647",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "gothenburg-mosque",
+  "qid": "Q7737392",
+  "status": "skip",
+  "why": "Mosque; lead gives funding and protests, no design reason."
+ },
+ {
+  "id": "new-theatre-plzen",
+  "qid": "Q18042399",
+  "status": "skip",
+  "why": "Theatre; lead gives cost and opening play only; architect not on the wall."
+ },
+ {
+  "id": "dutch-national-holocaust-museum",
+  "qid": "Q26822174",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "holmenkollen-chapel",
+  "qid": "Q5883474",
+  "status": "skip",
+  "why": "Chapel rebuilt after arson; lead gives no design reason."
+ },
+ {
+  "id": "chabot-museum",
+  "qid": "Q62088324",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason. Year 1993 is the museum, not the villa."
+ },
+ {
+  "id": "kirishima-open-air-museum",
+  "qid": "Q10855706",
+  "status": "skip",
+  "why": "Open-air museum; lead gives no design reason."
+ },
+ {
+  "id": "nagano-prefectural-art-museum",
+  "qid": "Q110245475",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "expo-2000-roof",
+  "qid": "Q111716253",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "messehalle-26",
+  "qid": "Q118289743",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "hannover-messe-hall-13",
+  "qid": "Q57979147",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "nouveau-palais-de-justice-de-lyon",
+  "qid": "Q62247380",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "ardmore-residence",
+  "qid": "Q20311743",
+  "status": "photo",
+  "why": "Lead gives design and an Emporis award; van Berkel has buildings on the wall. Newton is a district, so city is Singapore.",
+  "name": "Ardmore Residence",
+  "by": "Ben van Berkel",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": 2013,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Sculptural form"
+  ],
+  "features": "A Singapore tower whose skin of four-storey sections has carved openings and balconies, by Ben van Berkel.",
+  "commons_category": null,
+  "coords": [
+   1.30997,
+   103.82889
+  ],
+  "photos": [
+   {
+    "file": "File:Ardmore Residence.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mimar-sinan-mosque",
+  "qid": "Q108000657",
+  "status": "skip",
+  "why": "Mosque; lead gives political context, no design reason."
+ },
+ {
+  "id": "pontevedra-exhibition-centre",
+  "qid": "Q12398772",
+  "status": "skip",
+  "why": "Exhibition centre; lead gives no design reason."
+ },
+ {
+  "id": "miroir-d-eau",
+  "qid": "Q16664710",
+  "status": "skip",
+  "why": "Public pool; lead gives size and place only; architect not on the wall."
+ },
+ {
+  "id": "paulinum-university-of-leipzig",
+  "qid": "Q2063901",
+  "status": "photo",
+  "why": "Lead names the award-winning architect and the rebuilt-on-site story. Year 2017 from prep.json (lead gives no completion year).",
+  "name": "Paulinum (University of Leipzig)",
+  "by": "Erick van Egeraat",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": 2017,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "Erick van Egeraat's university hall on the old Paulinerkirche site; the church was destroyed in 1968.",
+  "commons_category": "Category:Paulinum",
+  "coords": [
+   51.33903,
+   12.37931
+  ],
+  "photos": [
+   {
+    "file": "File:Paulinum72012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Neues Augusteum & Paulinum.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Augusteum & Paulinum.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nye-jordal-amfi",
+  "qid": "Q28128237",
+  "status": "skip",
+  "why": "Ordinary ice-hockey arena."
+ },
+ {
+  "id": "grandstand-us-open",
+  "qid": "Q28451256",
+  "status": "photo",
+  "why": "Lead gives a first (first LEED tennis stadium). Main photo is at night, so daylight photos used.",
+  "name": "Grandstand (US Open)",
+  "by": "Rossetti Architects",
+  "city": "New York",
+  "cc": "US",
+  "year": 2016,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Rossetti Architects' stadium at the US Open, the world's first Leadership in Energy and Environmental Design (LEED) tennis stadium.",
+  "commons_category": "Category:Grandstand (US Open)",
+  "coords": [
+   40.74788,
+   -73.8476
+  ],
+  "photos": [
+   {
+    "file": "File:Flushing Meadows Fair Grounds td (2018-05-26) 003 - USTA Grandstand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Central Pkwy td (2022-01-14) 018 - USTA Grandstand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nordstrand-church",
+  "qid": "Q10359282",
+  "status": "skip",
+  "why": "Church; lead gives no design reason, and 2015 is not the church year (built 1866)."
+ },
+ {
+  "id": "aksdal-church",
+  "qid": "Q11957151",
+  "status": "skip",
+  "why": "Parish church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "museum-for-architectural-drawing",
+  "qid": "Q17353861",
+  "status": "skip",
+  "why": "Lead says what the museum shows, not how the building is designed; architects not on the wall."
+ },
+ {
+  "id": "disney-s-yacht-club-resort",
+  "qid": "Q3030352",
+  "status": "unsure",
+  "why": "Hotel. Lead names Robert A.M. Stern Architects but gives only the nautical theme, not why it is a key work. Decide whether it is a key work.",
+  "note": "judgement",
+  "name": "Disney's Yacht Club Resort"
+ },
+ {
+  "id": "museum-of-contemporary-art-jacksonville",
+  "qid": "Q3329582",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason."
+ },
+ {
+  "id": "koln-hauptbahnhof-roof",
+  "qid": "Q105714598",
+  "status": "skip",
+  "why": "Lead is empty."
+ }
+]
