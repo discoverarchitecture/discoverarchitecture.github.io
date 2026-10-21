@@ -30861,6 +30861,9 @@
   "add": [
    "File:Seinäjoki City Theatre.jpg",
    "File:Seinäjoki City Theatre 02.jpg"
+  ],
+  "skip": [
+   "File:Seinäjoki City Theater entrance 20180925.jpg"
   ]
  },
  "norman-lykes-house": {
@@ -30869,11 +30872,23 @@
    "File:Norman Lykes House, 2010.JPG",
    "File:FLW Norman Lykes House (2019).jpg",
    "File:Paradise Valley-Norman Lykes House-1959-1967.JPG"
+  ],
+  "skip": [
+   "File:Norman Lykes house fluides.jpg"
   ]
  },
  "dudley-spencer-house": {
   "add": [
    "File:Laurel FLW DE.JPG"
+  ],
+  "skip": [
+   "File:Spencer PercevalCE.jpg",
+   "File:Jug depicting the assassination of Spencer Perceval, Staffordshire, about 1812, creamware, transfer-printed - Victoria and Albert Museum - London, England - DSC04768.jpg",
+   "File:All Saints Church tower Elm Grove Road Ealing Common London W5 3JJ.jpg",
+   "File:Monument to Spencer Perceval, Westminster Abbey 02.jpg",
+   "File:Monument to Spencer Perceval, Westminster Abbey 03.jpg",
+   "File:Lindsey house plan Vit Brit edited.jpg",
+   "File:Bodleian Libraries, Sketch for a prime minister or- how to purchase a peace.jpg"
   ]
  },
  "bellevue-arts-museum": {
@@ -30881,6 +30896,9 @@
   "add": [
    "File:BellevueArtsMuseum01.jpg",
    "File:Bellevue, WA (2023) - 54.jpg"
+  ],
+  "skip": [
+   "File:SCHOOL by Joseph Rossano at Bellevue Arts Museum.jpg"
   ]
  },
  "haus-hohe-pappeln": {
@@ -30889,6 +30907,11 @@
    "File:Hohe pappeln 01 6.jpg",
    "File:Haus Hohe Pappeln - Ostansicht.jpg",
    "File:Weimar-Haus Hohe Pappeln-1-CTH.JPG"
+  ],
+  "skip": [
+   "File:Haus Hohe Pappeln, Belvederer Allee 58, Weimar, Ländlicher Garten.jpg",
+   "File:Haus Hohe Pappeln Weimar 06.JPG",
+   "File:Haus Hohe Pappeln Weimar 07.JPG"
   ]
  },
  "bryce-canyon-lodge": {
@@ -30912,6 +30935,9 @@
   "add": [
    "File:ACCADEMIASCHERMA21082021.jpg",
    "File:CASADELLEARMI121082021.jpg"
+  ],
+  "skip": [
+   "File:Casa delle armi .jpg"
   ]
  },
  "orchestra-hall": {
@@ -30920,6 +30946,9 @@
    "File:Max M Fisher Music Center.jpg",
    "File:Detroit August 2025 34 (Orchestra Hall).jpg",
    "File:Detroit December 2021 43 (Orchestra Hall).jpg"
+  ],
+  "skip": [
+   "File:Detroit December 2018 14 (Orchestra Hall).jpg"
   ]
  },
  "pfarrkirche-allerheiligen-innsbruck": {
@@ -30927,6 +30956,10 @@
   "add": [
    "File:Innsbruck-Allerheiligen-Kirche-Stgeorg.JPG",
    "File:Pfarrkirche Allerheiligen (Innsbruck), Innenhof mit Blick auf Turm.JPG"
+  ],
+  "skip": [
+   "File:Douglas DC-6 at Innsbruck.jpg",
+   "File:Pfarrkirche Allerheiligen (Innsbruck), Werktagskapelle - spätgotische Kreuzigungsgruppe.JPG"
   ]
  },
  "pfarrkirche-pertisau": {
@@ -30934,12 +30967,20 @@
   "add": [
    "File:Pertisau - Pfarrkirche hl Dreifaltigkeit - I.jpg",
    "File:Pertisau - Pfarrkirche hl Dreifaltigkeit - II.jpg"
+  ],
+  "skip": [
+   "File:Naturdenkmal ND 9 8-Ahornbäume neben der Kirche in Pertisau 07.JPG",
+   "File:Pertisau - Pfarrkirche hl Dreifaltigkeit - Fenster I.jpg"
   ]
  },
  "kabelwerk-dr-cassirer": {
   "category": "Category:Kabelwerk Dr. Cassirer",
   "add": [
    "File:Poelzig Halle 2012.jpg"
+  ],
+  "skip": [
+   "File:Ehem. Märkische Kabelwerke, Kabelwerk Dr. Cassirer und Co. AG Berlin-Hakenfelde 2024-08-25 04.jpg",
+   "File:Ehem. Märkische Kabelwerke, Kabelwerk Dr. Cassirer und Co. AG Berlin-Hakenfelde 2024-08-25 05.jpg"
   ]
  },
  "villa-of-viktor-bauer": {
@@ -30975,6 +31016,9 @@
   "add": [
    "File:Bernhardt Beyer Str. 12 Haus.jpg",
    "File:Bernhardt Beyer Str. 12 Garten.jpg"
+  ],
+  "skip": [
+   "File:Stolperstein Bernhard-Beyer-Str 12 (Wanns) Curt Bejach.jpg"
   ]
  },
  "villa-snellman": {
@@ -30989,6 +31033,9 @@
   "add": [
    "File:Gemeentehuis Usquert.jpg",
    "File:Raadhuis in Usquert.JPG",
+   "File:RaadhuisUsquert1.jpg"
+  ],
+  "skip": [
    "File:RaadhuisUsquert1.jpg"
   ]
  },
@@ -31022,6 +31069,9 @@
    "File:Larochegasse 3, Haus Scheu, Adolf Loos.jpg",
    "File:Haus Scheu, Adolf Loos.jpg",
    "File:Adolf Loos, 1912-1913, A1130 Wien, Larochegasse 3, Haus Scheu, p1.jpg"
+  ],
+  "skip": [
+   "File:Adolf Loos Lampe Haus Steiner Barcelona 2017.jpg"
   ]
  },
  "66-old-church-street-chelsea": {
@@ -31037,6 +31087,9 @@
    "File:Jena Villa Auerbach (01).jpg",
    "File:Haus Auerbach Ostseite.jpg",
    "File:Jena Villa Auerbach (02).jpg"
+  ],
+  "skip": [
+   "File:Haus Auerbach Südseite.jpg"
   ]
  },
  "haus-riehl": {
@@ -31052,12 +31105,19 @@
   "add": [
    "File:Edifício Eiffel, Oscar Niemeyer (5878746304).jpg",
    "File:Edifício Eiffel, Oscar Niemeyer (5878187263).jpg"
+  ],
+  "skip": [
+   "File:Werner Haberkorn - Vista aérea do centro da cidade. São Paulo-SP 11.jpg"
   ]
  },
  "buffalo-city-hall": {
   "category": "Category:Buffalo City Hall",
   "add": [
    "File:View of Buffalo City Hall (cropped).jpg"
+  ],
+  "skip": [
+   "File:View of Seneca One Tower from City Hall.jpg",
+   "File:East view from Buffalo NY City Hall 2025-09-08 15-48-11 1.jpg"
   ]
  },
  "jonson-gallery": {
@@ -31078,6 +31138,10 @@
   "add": [
    "File:Hannover Congress Centrum dome hall Theodor-Heuss-Platz Zoo Hannover Germany.jpg",
    "File:2026-01-11 Kuppelsaal im Schnee 0232.JPG"
+  ],
+  "skip": [
+   "File:BUSSTOPS Hannover Congress Centrum Theodor-Heuss-Platz Zoo Hannover Germany.jpg",
+   "File:ÜSTRA TW6000 TW6243.jpg"
   ]
  },
  "asilomar-conference-grounds": {
@@ -31085,12 +31149,20 @@
   "add": [
    "File:Scripps - Asilomar State Beach - DSC03009.JPG",
    "File:Oak Knoll - Asilomar State Beach - DSC03013.JPG"
+  ],
+  "skip": [
+   "File:LouisReichardt.JPG"
   ]
  },
  "villa-urbig": {
   "category": "Category:Villa Urbig",
   "add": [
    "File:2025-05-01-Villa-Urbig-Virchowstr-Potsdam-Babelsberg.jpg"
+  ],
+  "skip": [
+   "File:President Harry S. Truman shakes hands with Guardsman Campbell of the Second Battalian, Scot's Guard of Honor, while... - NARA - 198805.jpg",
+   "File:In a triple handshake, President Harry S. Truman (center) holds the hands of British Prime Minister Winston Churchill... - NARA - 198959.jpg",
+   "File:British Prime Minister Winston Churchill and his daughter, Mary, walk in the garden of their residence during the... - NARA - 198961.jpg"
   ]
  },
  "vakantiehuisjes-rietveld": {
@@ -31098,6 +31170,10 @@
   "add": [
    "File:2025-04-23 Arnhem Openluchtmuseum 220.jpg",
    "File:2025-04-23 Arnhem Openluchtmuseum 221.jpg"
+  ],
+  "skip": [
+   "File:Netherlands Open Air Museum - 2020-10-31 - Rietveld Holiday Cottage, Markelo 01 - Info.jpg",
+   "File:Netherlands Open Air Museum - 2020-10-31 - Rietveld Holiday Cottage, Markelo 04 - Interior.jpg"
   ]
  },
  "palazzo-degli-affari": {
@@ -31127,6 +31203,13 @@
   "category": "Category:Barclay–Vesey Building",
   "add": [
    "File:Barclay-Vesey Building 140 West Street.jpg"
+  ],
+  "skip": [
+   "File:New York - New York City - NARA - 68145644.jpg",
+   "File:New York - Docks-New York Harbor - NARA - 68146186 (cropped).jpg",
+   "File:Manhattan 1931.jpg",
+   "File:Légifotó Manhattan déli részéről, háttérben a Hudson folyó, jobbra kimagaslik a Woolworth Building. Fortepan 95075.jpg",
+   "File:Aerial photo of WTC groundzero.jpg"
   ]
  },
  "bahai-house-of-worship": {
@@ -31134,6 +31217,9 @@
   "add": [
    "File:Baha'i Temple - Wilmette, IL.jpg",
    "File:Bahá'í House of Worship Wilmette Illinois 2021-2702.jpg"
+  ],
+  "skip": [
+   "File:Architectural model of the Baha'i House of Worship.JPG"
   ]
  },
  "old-scripps-building": {
@@ -31141,6 +31227,10 @@
   "add": [
    "File:Old scripps 2024.jpg",
    "File:Old Scripps Building.jpg"
+  ],
+  "skip": [
+   "File:George H. Scripps Memorial Marine Biological Laboratory.jpg",
+   "File:City of San Diego historical site plaque, George H Scripps memorial marine biological laboratory.jpg"
   ]
  },
  "harold-c-bradley-house": {
@@ -31170,6 +31260,9 @@
   "add": [
    "File:Vinohrady DZO 1.jpg",
    "File:Dům zemědělské osvěty, ulice Slezská.jpg"
+  ],
+  "skip": [
+   "File:Dům zemědělské osvěty, ulice Slezská, Praha.jpg"
   ]
  },
  "church-of-peace-lobtau": {
@@ -31177,12 +31270,18 @@
   "add": [
    "File:Friedenskirche Dresden vollst.jpg",
    "File:20171022105DR Dresden-Löbtau Friedenskirche Wernerstraße 32.jpg"
+  ],
+  "skip": [
+   "File:Dresden-Spitzhaus-von-Friedenskirche.jpg"
   ]
  },
  "offenbarungskirche": {
   "category": "Category:Offenbarungskirche (Berlin)",
   "add": [
    "File:Simplonstraße 31-37, Offenbarungskirche.jpg"
+  ],
+  "skip": [
+   "File:Berlin-Friedrichshain, Offenbarungskirche, Orgel (2).jpg"
   ]
  },
  "bethanienkirche-frankfurt-am-main": {
@@ -31196,6 +31295,10 @@
   "add": [
    "File:Brno, Poštovská, palác Alfa (2022-06-15; 02).jpg",
    "File:Brno, Jánská, palác Alfa (2022-06-15; 01).jpg"
+  ],
+  "skip": [
+   "File:Brno-pasáž-Alfa-Sáčky-do-vysavačů2019.jpg",
+   "File:Czech Radio Brno editathon 101801.jpg"
   ]
  },
  "ruderzentrum-blasewitz": {
@@ -31224,6 +31327,12 @@
   "add": [
    "File:Hyogo Prefectural Museum of History01s3872.jpg",
    "File:Hyogo Prefectural Museum of History03s3872.jpg"
+  ],
+  "skip": [
+   "File:播磨国分尼寺 軒丸瓦・軒平瓦.JPG",
+   "File:播磨国分寺 軒丸瓦.JPG",
+   "File:Himeji Castle in mirror.jpg",
+   "File:Himeji-castletown-plan.jpg"
   ]
  },
  "carew-tower": {
@@ -31231,12 +31340,20 @@
   "add": [
    "File:Carew Tower, Cincinnati, Ohio.jpg",
    "File:Cincinnati, Ohio, The Carew Tower - panoramio (2).jpg"
+  ],
+  "skip": [
+   "File:Carew Tower elevator floor indicator.jpg",
+   "File:Carew Tower Observation Deck tower viewer, January 2019.jpg"
   ]
  },
  "pardubice-crematorium": {
   "category": "Category:Crematorium in Pardubice",
   "add": [
    "File:Crematorium, Pardubice, Czech Republic.jpg"
+  ],
+  "skip": [
+   "File:Socha vpravo před krematoriem v Pardubicích.jpg",
+   "File:Krematorium Pardubice 22.jpg"
   ]
  },
  "national-house-prostejov": {
@@ -31256,8 +31373,11 @@
  "eglise-sainte-therese-de-lenfant-jesus-de-metz": {
   "category": "Category:Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz",
   "add": [
-   "File:Ste therese de l enfant jesus767.JPG",
-   "File:Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz (chevet).jpg"
+   "File:Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz (chevet).jpg",
+   "File:Ste therese de l enfant jesus767.JPG"
+  ],
+  "skip": [
+   "File:Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz (clocher).jpg"
   ]
  },
  "dortmund-city-and-state-library": {
@@ -31279,6 +31399,9 @@
   "add": [
    "File:Brasilia DF Brasil - Cine Brasilia, vista lateral - panoramio.jpg",
    "File:Brasília DF Brasil - Cine Brasília - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Cine Brasília em outubro de 2024 3.jpg"
   ]
  },
  "smith-tower": {
@@ -31286,6 +31409,10 @@
   "add": [
    "File:SmithTower Seattle WA USA2.jpg",
    "File:L.C. Smith Building (Pioneer Building), Seattle, Washington LCCN2016649919.jpg"
+  ],
+  "skip": [
+   "File:Torre Smith, Seattle, Washington, Estados Unidos, 2017-09-02, DD 11.jpg",
+   "File:Seattle - view southwest from City Hall lobby.jpg"
   ]
  },
  "lauritsala-church": {
@@ -31293,6 +31420,9 @@
   "add": [
    "File:Lauritsalan kirkko 2017 03.jpg",
    "File:Lauritsalan kirkko 2017 01.jpg"
+  ],
+  "skip": [
+   "File:Lauritsala Church Inside.jpg"
   ]
  },
  "bakkehaugen-church": {
@@ -31300,6 +31430,9 @@
   "add": [
    "File:Bakkehaugens kirke-1.jpg",
    "File:Bakkehaugen kirke front.jpg"
+  ],
+  "skip": [
+   "File:Ustvedts vei x Carl Grøndahls vei II.JPG"
   ]
  },
  "ullsteinhaus": {
@@ -31307,12 +31440,22 @@
   "add": [
    "File:Ullsteinhaus march 2015.jpg",
    "File:B-Tempelhof 10-2012 - Ullsteinhaus2.jpg"
+  ],
+  "skip": [
+   "File:B-Tempelhof 10-2012 - Teltowkanal.jpg",
+   "File:Ullsteinhaus Berlin Tempelhof 2022CF 08.jpg",
+   "File:Ullsteinhaus Berlin Tempelhof 2022CF 09.jpg"
   ]
  },
  "naturtheater-grotzingen": {
   "category": "Category:Naturtheater Grötzingen",
   "add": [
+   "File:Grötzingen Naturtheater 2024 02 Bühne.jpg",
    "File:Luftbild Naturtheater Groetzingen.jpg"
+  ],
+  "skip": [
+   "File:Naturtheater Grötzingen 2022.jpg",
+   "File:Grötzingen Naturtheater 2024 02 Fotogallerie.jpg"
   ]
  },
  "majestic-theatre": {
@@ -31327,30 +31470,54 @@
    "File:Renaissance-Theater Berlin 06-2014.jpg",
    "File:Renaissance-Theater 0575.jpg",
    "File:Renaissancetheater (Berlin) 01.jpg"
+  ],
+  "skip": [
+   "File:Renaissance-Theater, Berlin.JPG",
+   "File:Renaissance-Theater-2.jpg"
   ]
  },
  "villa-allegonda": {
   "category": "Category:Boulevard 1, Katwijk",
   "add": [
    "File:Villa Allegonda 29 juni 2017.jpg"
+  ],
+  "skip": [
+   "File:Villa Allegonda + uitwatering sluis 537 3.jpg",
+   "File:Theo van Doesburg 141.jpg"
   ]
  },
  "aon-center": {
   "category": "Category:Aon Center (Los Angeles)",
   "add": [
    "File:Aon Center LA.jpg"
+  ],
+  "skip": [
+   "File:One Wilshire Building (Unsplash).jpg",
+   "File:Fire in 62-story First Interstate Bank building in Los Angeles, Calif., 1988.jpg"
   ]
  },
  "33-thomas-street": {
   "category": "Category:AT&T Long Lines Building (33 Thomas Street)",
   "add": [
    "File:33 thomas st.jpg"
+  ],
+  "skip": [
+   "File:Manhattan View - Flickr - Ken S Three.jpg",
+   "File:Declassified Satellite Imagery of New York City - 1980 (53748758542) Rotate 1.jpg",
+   "File:Aerial view of Lower Manhattan and Battery Park at dusk.jpg",
+   "File:Looking East on Duane Street, Manhattan, New York (7237339920).jpg",
+   "File:World Trade Center, New York City - aerial view (March 2001).jpg"
   ]
  },
  "norfolk-scope": {
   "category": "Category:Norfolk Scope",
   "add": [
    "File:Norfolk Scope2.JPG"
+  ],
+  "skip": [
+   "File:FAST Company amazes audience at 19th Virginia International Tattoo 150425-M-GX379-007.jpg",
+   "File:USS George H.W. Bush sailors honored 130312-N-EY632-425.jpg",
+   "File:Demolition men shutout IKE 150328-N-OD763-383.jpg"
   ]
  },
  "la-spezia-cathedral": {
@@ -31370,6 +31537,9 @@
   "add": [
    "File:532210 stadsschouwburg nijmegen.jpg",
    "File:Stadsschouwburg Nijmegen - Q2433308 (totaal).jpg"
+  ],
+  "skip": [
+   "File:Het Keizer Karelplein, met op de achtergrond de Stadsschouwburg Nijmegen.jpg"
   ]
  },
  "casa-rotalinti": {
@@ -31377,6 +31547,9 @@
   "add": [
    "File:Casa Rotalinti, Bellinzona.jpg",
    "File:Casa Rotalinti, Bellinzona - Ansicht von Westen.jpg"
+  ],
+  "skip": [
+   "File:Casa Rotalinti.jpg"
   ]
  },
  "stelling-house": {
@@ -31385,6 +31558,10 @@
    "File:Arne jacobsen, stellings hus, copenhagen 1934-1937 (2351174104).jpg",
    "File:Stellings Hus - Skindergade.jpg",
    "File:Arne Jacobsen - Stellings Hus.jpg"
+  ],
+  "skip": [
+   "File:Gammeltorv (c. 1865).jpg",
+   "File:Gammeltorv mod Nørregade.jpg"
   ]
  },
  "jingliao-holy-cross-church": {
@@ -31393,6 +31570,9 @@
    "File:菁寮天主堂.jpg",
    "File:Saint Cross Church, Jingliao, Tainan (Taiwan).jpg",
    "File:菁寮聖十字架堂 Saint Cross Church in Jingliao - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Saint Cross Church, Jingliao - detail.jpg"
   ]
  },
  "villa-primavesi": {
@@ -31406,12 +31586,21 @@
   "category": "Category:Coliseum Theater",
   "add": [
    "File:Seattle Coliseum Theater 01.jpg"
+  ],
+  "skip": [
+   "File:Display ad for Casino Royale (1967).jpg",
+   "File:Traffic on Fifth Avenue, 1950s - Flickr - Seattle Municipal Archives.jpg",
+   "File:Seattle - Banana Republic 01.jpg"
   ]
  },
  "neu-st-alban": {
   "category": "Category:Neu St. Alban (Köln)",
   "add": [
    "File:Neu St. Alban Südostseite, Köln - 9319.jpg"
+  ],
+  "skip": [
+   "File:Neu St. Alban (Köln) (01).jpg",
+   "File:Neu St. Alban (Köln) (02).jpg"
   ]
  },
  "adria-palace": {
@@ -31419,12 +31608,19 @@
   "add": [
    "File:Praha palác Adria čelo 2.jpg",
    "File:Jungmannovo náměstí 40 (Prague).jpg"
+  ],
+  "skip": [
+   "File:Praha Nove Mesto Jungmannova 31 Palac Adria socha 1.jpg"
   ]
  },
  "vila-franze-strosse": {
   "category": "Category:Strossova vila",
   "add": [
    "File:Celkový pohled na Strossovu vilu.JPG"
+  ],
+  "skip": [
+   "File:Liberec V-Kristiánov - Strossova vila čp. 186 v Husově ulici (dnes Krajská hygienická stanice), pohled zdola, z Chelčického ulice (stav březen 2025) (1).jpg",
+   "File:Liberec V-Kristiánov - Strossova vila čp. 186 v Husově ulici (dnes Krajská hygienická stanice), pohled zdola, z Chelčického ulice (stav březen 2025) (2).jpg"
   ]
  },
  "lescaze-house": {
@@ -31445,6 +31641,10 @@
   "category": "Category:International Conference Center Hiroshima",
   "add": [
    "File:International Conference Center Hiroshima 2008 01.JPG"
+  ],
+  "skip": [
+   "File:20230521g7summit ukraine14.jpg",
+   "File:20230521g7summit ukraine13.jpg"
   ]
  },
  "onyx-theater": {
@@ -31453,14 +31653,20 @@
    "File:ONYX theater.jpg",
    "File:La façade du théâtre ONYX.JPG",
    "File:Le théâtre ONYX et le lac.JPG"
+  ],
+  "skip": [
+   "File:La façade du théâtre ONYX.JPG"
   ]
  },
  "rundkino-dresden": {
   "category": "Category:Rundkino Dresden",
   "add": [
-   "File:Rundkino 1982.jpg",
    "File:20240616.Rundkino Dresden.-011.jpg",
+   "File:Rundkino 1982.jpg",
    "File:20240616.Rundkino Dresden.-012.jpg"
+  ],
+  "skip": [
+   "File:2020032501 Rundkino 2020.jpg"
   ]
  },
  "olympia-theater-miami": {
@@ -31469,6 +31675,9 @@
    "File:Olympia Theatre (Miami, Florida) 1.jpg",
    "File:Olympia Theatre Miami exterior 2016.jpg",
    "File:Olympia Theater Downtown Miami 1926 (21380533242).jpg"
+  ],
+  "skip": [
+   "File:Olympia Theatre (Miami, Florida) 2.jpg"
   ]
  },
  "apostel-johannes-gemeindezentrum": {
@@ -31484,6 +31693,10 @@
   "add": [
    "File:RadioKootwijk.A.Voor.JPG",
    "File:Radio Kootwijk (5093365698).jpg"
+  ],
+  "skip": [
+   "File:Gebouw A Building A (5698254229).jpg",
+   "File:Gebouw A Building A.jpg"
   ]
  },
  "john-sowden-house": {
@@ -31491,6 +31704,9 @@
   "add": [
    "File:Sowden House.jpg",
    "File:John Sowden House, Los Angeles.JPG"
+  ],
+  "skip": [
+   "File:John Sowden House, Los Angeles (cropped).JPG"
   ]
  },
  "lake-quinault-lodge": {
@@ -31505,6 +31721,9 @@
   "add": [
    "File:Mercado torroja.jpg",
    "File:Mercado Ingeniero Torroja Panorama 2.jpg"
+  ],
+  "skip": [
+   "File:Mercado Torroja Tosantos.jpg"
   ]
  },
  "bauerova-vila": {
@@ -31519,6 +31738,10 @@
   "add": [
    "File:DA-Gr Haus Glueckert1.jpg",
    "File:01 Grosses Haus Glückert.jpg"
+  ],
+  "skip": [
+   "File:Darmstadt-Mathildenhoehe-Grosses Glueckerthaus-04-2013-gje.jpg",
+   "File:Darmstadt 2014-07-19k.jpg"
   ]
  },
  "stichweh-wohnhaus": {
@@ -31562,6 +31785,10 @@
    "File:Ham Common, Langham House Close.jpg",
    "File:Ham Common, Langham House Close (1).jpg",
    "File:Ham Common, Langham House Close (2).jpg"
+  ],
+  "skip": [
+   "File:Langham House Close - east pavilion.jpeg",
+   "File:Langham House Close - main block and west pavilion.jpeg"
   ]
  },
  "wrva-building": {
@@ -31584,6 +31811,10 @@
   "add": [
    "File:Žižkov Dům Radost 2.jpg",
    "File:Dům Radost, Praha 01.jpg"
+  ],
+  "skip": [
+   "File:Dům odborových svazů z Žižkovské věže.jpg",
+   "File:Žižkov Dům Radost sochy 2.jpg"
   ]
  },
  "communal-house-of-the-textile-institute": {
@@ -31604,6 +31835,9 @@
   "category": "Category:Joseph H. Brown Elementary School",
   "add": [
    "File:Phila JosephHBrownSchool02.png",
+   "File:Phila JosephHBrownSchool01.png"
+  ],
+  "skip": [
    "File:Phila JosephHBrownSchool01.png"
   ]
  },
@@ -31633,6 +31867,10 @@
    "File:Brno, Crematorium.jpg",
    "File:Brněnské krematorium.jpg",
    "File:Brno Crematory.JPG"
+  ],
+  "skip": [
+   "File:Inside the Crematorium in Brno (Czech Republic) 06.jpg",
+   "File:Inside the Crematorium in Brno (Czech Republic) 01.jpg"
   ]
  },
  "villa-neumark": {
@@ -31664,6 +31902,12 @@
   "add": [
    "File:Schönbergturm-02.jpg",
    "File:Schönbergturm bei Pfullingen.jpg"
+  ],
+  "skip": [
+   "File:20210814 Schönbergturm, Pfullingen - 123.jpg",
+   "File:Aussichtsturm auf dem Pfullinger Schönberg.jpg",
+   "File:Schönbergturm-05-Treppe oben.jpg",
+   "File:Der Pfullinger Schönbergturm mit Aussichtsplattform (Spitzname \"Pfullinger Unterhose\").jpg"
   ]
  },
  "dominus-flevit-church": {
@@ -31672,6 +31916,11 @@
    "File:Holy Land 2019 (1) P121 Jerusalem Dominus Flevit Church.jpg",
    "File:121090-Jerusalem-Mount-of-Olives (27597190255).jpg",
    "File:Holy Land 2019 (1) P124 Jerusalem Dominus Flevit Church.jpg"
+  ],
+  "skip": [
+   "File:Al-Qibli Chapel 20140816-IMG 0159.jpg",
+   "File:Holy Land 2016 P0667 Dominus Flevit Church mosaic.jpg",
+   "File:Dominus Flevit P1020508.JPG"
   ]
  },
  "versohnungskirche-ulm": {
