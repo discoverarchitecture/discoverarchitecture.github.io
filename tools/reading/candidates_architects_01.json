@@ -855,6 +855,118 @@
     "kind": "overview",
     "paid": false,
     "why": "Detailed reference entry"
+   },
+   {
+    "site": "Britannica",
+    "title": "Frank Gehry",
+    "url": "https://www.britannica.com/biography/Frank-Gehry",
+    "kind": "overview",
+    "paid": false,
+    "why": "Concise biography and career summary"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "A guide to Frank Gehry's architecture",
+    "url": "https://www.wallpaper.com/architecture/frank-gehry-architecture",
+    "kind": "guide",
+    "paid": false,
+    "why": "Tour of his key buildings"
+   },
+   {
+    "site": "Domus",
+    "title": "Frank Gehry: Architecture, Design & Projects of Frank O. Gehry",
+    "url": "https://www.domusweb.it/en/biographies/frank-owen-gehry.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography with project overview"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Frank Gehry brought global attention to deconstructivism",
+    "url": "https://www.dezeen.com/2022/05/17/frank-gehry-brought-global-attention-to-deconstructivism/",
+    "kind": "essay",
+    "paid": false,
+    "why": "His place in deconstructivism"
+   },
+   {
+    "site": "Louisiana Channel (YouTube)",
+    "title": "Frank Gehry Interview: Jump Into the Unknown",
+    "url": "https://www.youtube.com/watch?v=iwmKKXSbI3U",
+    "kind": "video",
+    "paid": false,
+    "why": "Gehry on risk and starting out"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Interview with Frank Gehry",
+    "url": "https://www.archdaily.com/129680/interview-with-frank-gehry",
+    "kind": "interview",
+    "paid": false,
+    "why": "Advice to young architects"
+   },
+   {
+    "site": "Los Angeles Review of Books",
+    "title": "Making Better Mud Pies: A Conversation with Frank Gehry",
+    "url": "https://lareviewofbooks.org/article/making-better-mud-pies-a-conversation-with-frank-gehry",
+    "kind": "interview",
+    "paid": false,
+    "why": "Long conversation on his working method"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Remembering Frank Gehry, a titan of architecture",
+    "url": "https://www.wallpaper.com/architecture/frank-gehry-obituary",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Assessment of his life and legacy"
+   },
+   {
+    "site": "Designboom",
+    "title": "Frank Gehry dies at 96",
+    "url": "https://www.designboom.com/architecture/frank-gehry-dies-96-obituary-12-05-2025/",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Career timeline and major works"
+   },
+   {
+    "site": "MoMA",
+    "title": "Frank O. Gehry",
+    "url": "https://www.moma.org/collection/artists/2108",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's artist page and collection"
+   },
+   {
+    "site": "The Canadian Encyclopedia",
+    "title": "Frank Gehry",
+    "url": "https://thecanadianencyclopedia.ca/index.php/en/article/frank-gehry",
+    "kind": "overview",
+    "paid": false,
+    "why": "Toronto-born architect's life and honours"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Bowing out gracefully is a rare thing in the starchitect firmament",
+    "url": "https://www.dezeen.com/2024/03/05/architects-retiring-frank-gehry-95-catherine-slessor-opinion/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Opinion on his late career"
+   },
+   {
+    "site": "Designboom",
+    "title": "step into frank gehry's sweeping signature style in a new retrospective",
+    "url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
+    "kind": "news",
+    "paid": false,
+    "why": "Centenary retrospective at Serralves"
+   },
+   {
+    "site": "Fortune",
+    "title": "Frank Gehry architect interview",
+    "url": "https://fortune.com/2018/10/26/frank-gehry-architect-interview",
+    "kind": "interview",
+    "paid": false,
+    "why": "Gehry on childhood and his process"
    }
   ]
  },
@@ -884,6 +996,118 @@
     "kind": "overview",
     "paid": false,
     "why": "Detailed reference entry"
+   },
+   {
+    "site": "Britannica",
+    "title": "Jacques Herzog and Pierre de Meuron",
+    "url": "https://www.britannica.com/biography/Jacques-Herzog-and-Pierre-de-Meuron",
+    "kind": "overview",
+    "paid": false,
+    "why": "Founders, firm and key works"
+   },
+   {
+    "site": "Domus",
+    "title": "Herzog & de Meuron: architectural practice projects",
+    "url": "https://www.domusweb.it/en/speciali/best-architecture-firms/2019/herzog--de-meuron.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Practice profile and projects"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "From Facades to Floor Plates & Form: The Evolution of Herzog & de Meuron",
+    "url": "https://www.archdaily.com/523080/from-facades-to-floor-plates-and-form-the-evolution-of-herzog-and-de-meuron",
+    "kind": "essay",
+    "paid": false,
+    "why": "How their design approach shifted"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "The Berlage Archive: Jacques Herzog (1998)",
+    "url": "https://www.archdaily.com/545238/the-berlage-archive-jacques-herzog-1998",
+    "kind": "essay",
+    "paid": false,
+    "why": "Herzog's own lecture on meaning"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Design Processes Take Center Stage at a New Exhibition on Herzog & de Meuron",
+    "url": "https://www.architecturalrecord.com/articles/16389-design-processes-take-center-stage-at-a-new-exhibition-on-herzog-and-de-meuron",
+    "kind": "news",
+    "paid": false,
+    "why": "Their design process shown in exhibition"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Herzog & de Meuron: Natural History",
+    "url": "https://www.cca.qc.ca/en/events/34419/herzog-de-meuron-natural-history",
+    "kind": "museum",
+    "paid": false,
+    "why": "CCA exhibition on their collecting mind"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Royal Academy's Herzog & de Meuron show spotlights architecture for care",
+    "url": "https://www.wallpaper.com/architecture/herzog-and-de-meuron-exhibition-royal-academy-london-uk",
+    "kind": "news",
+    "paid": false,
+    "why": "Royal Academy exhibition review"
+   },
+   {
+    "site": "YouTube",
+    "title": "Herzog & de Meuron: how they work their architectural magic",
+    "url": "https://www.youtube.com/watch?v=Ce4HGIa6g88",
+    "kind": "video",
+    "paid": false,
+    "why": "Short film on their method"
+   },
+   {
+    "site": "YouTube",
+    "title": "14 Rooms: Interview with Jacques Herzog (Herzog & de Meuron)",
+    "url": "https://www.youtube.com/watch?v=aZVHmrVYP_Y",
+    "kind": "video",
+    "paid": false,
+    "why": "Herzog on architecture and art"
+   },
+   {
+    "site": "MoMA",
+    "title": "Artist's Choice: Herzog & de Meuron, Perception Restrained",
+    "url": "https://www.moma.org/calendar/exhibitions/78",
+    "kind": "museum",
+    "paid": false,
+    "why": "Their curated MoMA exhibition"
+   },
+   {
+    "site": "Serpentine Galleries",
+    "title": "Park Nights public talk: Herzog & de Meuron",
+    "url": "https://www.serpentinegalleries.org/exhibitions-events/park-nights-public-talk-herzog-de-meuron",
+    "kind": "video",
+    "paid": false,
+    "why": "Talk on art, architecture, society"
+   },
+   {
+    "site": "Uniqlo LifeWear Magazine",
+    "title": "Local Focus, Global Vision",
+    "url": "https://www.uniqlo.com/uk/en/contents/lifewear-magazine/herzog-de-meuron/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Long interview on their philosophy"
+   },
+   {
+    "site": "Professione Architetto",
+    "title": "An interview with Pierre de Meuron",
+    "url": "https://www.professionearchitetto.it/news/en/an-interview-with-pierre-de-meuron/?amp=1",
+    "kind": "interview",
+    "paid": false,
+    "why": "De Meuron on practice and design"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Herzog & de Meuron architecture and design",
+    "url": "https://www.dezeen.com/tag/herzog-de-meuron/",
+    "kind": "news",
+    "paid": false,
+    "why": "Dezeen's running coverage of the firm"
    }
   ]
  },
@@ -1485,6 +1709,54 @@
     "kind": "news",
     "paid": false,
     "why": "His latest station design"
+   },
+   {
+    "site": "The Metropolitan Museum of Art",
+    "title": "Santiago Calatrava",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2005/santiago-calatrava",
+    "kind": "museum",
+    "paid": false,
+    "why": "Sculpture-to-architecture exhibition: models, drawings, sculptures"
+   },
+   {
+    "site": "MoMA",
+    "title": "Thresholds/Santiago Calatrava: Structure and Expression",
+    "url": "https://www.moma.org/calendar/exhibitions/391",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's 1993 show on structure and movement"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Newsmaker: Santiago Calatrava",
+    "url": "https://www.architecturalrecord.com/articles/2619-newsmaker-santiago-calatrava",
+    "kind": "profile",
+    "paid": false,
+    "why": "Magazine profile of his career and approach"
+   },
+   {
+    "site": "YouTube",
+    "title": "CTBUH Video Interview - Santiago Calatrava",
+    "url": "https://www.youtube.com/watch?v=mwpV62l9il0",
+    "kind": "video",
+    "paid": false,
+    "why": "Calatrava on design and engineering, Chicago"
+   },
+   {
+    "site": "YouTube",
+    "title": "Nowness: Architect Santiago Calatrava",
+    "url": "https://www.youtube.com/watch?v=MHE98L90XEg",
+    "kind": "video",
+    "paid": false,
+    "why": "Short film portrait of the architect"
+   },
+   {
+    "site": "YouTube",
+    "title": "Santiago Calatrava: finding architecture's soul",
+    "url": "https://www.youtube.com/watch?v=j2sOMdilDWU",
+    "kind": "interview",
+    "paid": false,
+    "why": "Euronews interview on nature as inspiration"
    }
   ]
  },
@@ -3341,6 +3613,118 @@
     "kind": "profile",
     "paid": false,
     "why": "Projects by the practice"
+   },
+   {
+    "site": "Britannica",
+    "title": "Shigeru Ban",
+    "url": "https://www.britannica.com/biography/Shigeru-Ban",
+    "kind": "overview",
+    "paid": false,
+    "why": "Paper architecture and disaster relief"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "A guide to Shigeru Ban, the humanitarian architect",
+    "url": "https://www.wallpaper.com/architecture/shigeru-ban-ultimate-guide-japan",
+    "kind": "guide",
+    "paid": false,
+    "why": "Guide to his key buildings"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Shigeru Ban (1957- )",
+    "url": "https://www.architectural-review.com/essays/reputations/shigeru-ban-1957",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical reputation piece"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Shigeru Ban",
+    "url": "https://www.architectural-review.com/architects/shigeru-ban",
+    "kind": "profile",
+    "paid": false,
+    "why": "AR's collected coverage of Ban"
+   },
+   {
+    "site": "Wallpaper*",
+    "title": "Shigeru Ban gets candid about greenwashing",
+    "url": "https://www.wallpaper.com/architecture/shigeru-ban-interview",
+    "kind": "interview",
+    "paid": false,
+    "why": "Candid interview on experimentation"
+   },
+   {
+    "site": "Louisiana Channel",
+    "title": "Shigeru Ban: I am disappointed in architects",
+    "url": "https://channel.louisiana.dk/video/shigeru-ban-i-am-disappointed-in-architects",
+    "kind": "video",
+    "paid": false,
+    "why": "Ban on architects' social duty"
+   },
+   {
+    "site": "YouTube",
+    "title": "Emergency shelters made from paper: Shigeru Ban at TEDxTokyo",
+    "url": "https://www.youtube.com/watch?v=IjHlyKT_Uug",
+    "kind": "video",
+    "paid": false,
+    "why": "His paper shelters explained"
+   },
+   {
+    "site": "YouTube",
+    "title": "Shigeru Ban - Building Impossible: The Architecture of Shigeru Ban",
+    "url": "https://www.youtube.com/watch?v=V-xXE_5VJbI",
+    "kind": "video",
+    "paid": false,
+    "why": "Documentary on his career"
+   },
+   {
+    "site": "MoMA",
+    "title": "Shigeru Ban",
+    "url": "https://www.moma.org/artists/23272",
+    "kind": "museum",
+    "paid": false,
+    "why": "MoMA's artist page"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Shigeru Ban Awarded 2026 AIA Gold Medal",
+    "url": "https://www.architecturalrecord.com/articles/17898-shigeru-ban-awarded-2026-aia-gold-medal",
+    "kind": "news",
+    "paid": false,
+    "why": "Career summary on AIA honour"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Shigeru Ban wins AIA Gold Medal",
+    "url": "https://www.dezeen.com/2025/12/05/shigeru-ban-aia-gold-medal/",
+    "kind": "news",
+    "paid": false,
+    "why": "Why he won the AIA Gold Medal"
+   },
+   {
+    "site": "Architect Magazine",
+    "title": "High Relief",
+    "url": "https://www.architectmagazine.com/design/high-relief_o/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Feature on his relief work"
+   },
+   {
+    "site": "Designboom",
+    "title": "shigeru ban on building emergency shelters from paper",
+    "url": "https://www.designboom.com/architecture/shigeru-ban-on-emergency-shelters-made-from-paper/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Ban on paper emergency shelters"
+   },
+   {
+    "site": "YouTube",
+    "title": "Architect Shigeru Ban is disappointed by his own profession",
+    "url": "https://www.youtube.com/watch?v=204V3hKAqkc",
+    "kind": "video",
+    "paid": false,
+    "why": "Ban's critique of the profession"
    }
   ]
  },
@@ -3370,6 +3754,118 @@
     "kind": "profile",
     "paid": false,
     "why": "Projects by the practice"
+   },
+   {
+    "site": "Britannica",
+    "title": "David Chipperfield",
+    "url": "https://www.britannica.com/biography/David-Chipperfield",
+    "kind": "overview",
+    "paid": false,
+    "why": "Biography and principal works"
+   },
+   {
+    "site": "The Pritzker Architecture Prize",
+    "title": "Sir David Alan Chipperfield CH",
+    "url": "https://www.pritzkerprize.com/laureates/sir-david-alan-chipperfield-ch",
+    "kind": "profile",
+    "paid": false,
+    "why": "2023 laureate biography and citation"
+   },
+   {
+    "site": "Domus",
+    "title": "David Chipperfield: Architecture, Design & Projects",
+    "url": "https://www.domusweb.it/en/biographies/david-chipperfield.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography with project overview"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Fifteen landmark projects by Pritzker winner David Chipperfield",
+    "url": "https://www.dezeen.com/2023/03/07/david-chipperfield-architects-pritzker-architecture-prize-roundup/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Fifteen key projects at a glance"
+   },
+   {
+    "site": "Dezeen",
+    "title": "I don't believe I'm that talented says Pritzker winner David Chipperfield",
+    "url": "https://www.dezeen.com/2023/03/07/david-chipperfield-interview-pritzker-winner/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Pritzker interview on his approach"
+   },
+   {
+    "site": "Dezeen",
+    "title": "I feel like a bit of a fake says David Chipperfield",
+    "url": "https://www.dezeen.com/2020/03/31/david-chipperfield-face-to-face-podcast/amp/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Podcast on his upbringing and career"
+   },
+   {
+    "site": "Designboom",
+    "title": "david chipperfield interview port magazine",
+    "url": "https://www.designboom.com/architecture/david-chipperfield-interview-port-magazine-05-13-2019/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Interview on design and Museum Island"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Newsmaker: 2023 Pritzker Laureate David Chipperfield",
+    "url": "https://www.architecturalrecord.com/articles/16175-newsmaker-2023-pritzker-laureate-david-chipperfield",
+    "kind": "profile",
+    "paid": false,
+    "why": "In-depth Pritzker laureate profile"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "David Chipperfield Wins 2023 Pritzker Architecture Prize",
+    "url": "https://www.architecturalrecord.com/articles/16143-david-chipperfield-wins-2023-pritzker-architecture-prize",
+    "kind": "news",
+    "paid": false,
+    "why": "Pritzker win and career summary"
+   },
+   {
+    "site": "YouTube",
+    "title": "The 31st Pietro Belluschi Lecture: David Chipperfield",
+    "url": "https://www.youtube.com/watch?v=ZTvs_8vIJ5o",
+    "kind": "video",
+    "paid": false,
+    "why": "Full lecture by Chipperfield"
+   },
+   {
+    "site": "YouTube",
+    "title": "In conversation with David Chipperfield",
+    "url": "https://www.youtube.com/watch?v=imDK3Af6CcU",
+    "kind": "video",
+    "paid": false,
+    "why": "Long-form conversation with the architect"
+   },
+   {
+    "site": "Docomomo Journal",
+    "title": "David Chipperfield",
+    "url": "https://docomomojournal.com/index.php/journal/article/view/358",
+    "kind": "interview",
+    "paid": false,
+    "why": "Interview on heritage and modernism"
+   },
+   {
+    "site": "David Chipperfield Architects",
+    "title": "Face to face with David Chipperfield",
+    "url": "https://davidchipperfield.com/video-and-audio/face-to-face-with-david-chipperfield",
+    "kind": "interview",
+    "paid": false,
+    "why": "Audio conversation on the practice site"
+   },
+   {
+    "site": "Designboom",
+    "title": "david chipperfield: 10 landmark projects by the 2023 pritzker laureate",
+    "url": "https://www.designboom.com/architecture/david-chipperfield-10-landmark-projects-2023-pritzker-laureate-03-08-2023/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Ten landmark projects"
    }
   ]
  },
@@ -3399,6 +3895,118 @@
     "kind": "guide",
     "paid": false,
     "why": "Articles and projects tagged Saarinen"
+   },
+   {
+    "site": "Britannica",
+    "title": "Eero Saarinen",
+    "url": "https://www.britannica.com/biography/Eero-Saarinen",
+    "kind": "overview",
+    "paid": false,
+    "why": "Concise career summary, major works"
+   },
+   {
+    "site": "PBS American Masters",
+    "title": "Eero Saarinen: The Architect Who Saw the Future",
+    "url": "https://www.pbs.org/wnet/americanmasters/eero-saarinen-film/7507/",
+    "kind": "video",
+    "paid": false,
+    "why": "Feature documentary on his whole career"
+   },
+   {
+    "site": "PBS American Masters",
+    "title": "Eero Saarinen",
+    "url": "https://www.pbs.org/wnet/americanmasters/masters/eero-saarinen/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography and film clips"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Eero Saarinen's designs went \"beyond the measly ABC\" of modernism",
+    "url": "https://www.dezeen.com/2024/10/08/eero-saarinen-designs-beyond-measly-abc-mid-century-modern/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Why his work broke modernist rules"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Eero Saarinen",
+    "url": "https://www.dezeen.com/tag/eero-saarinen/",
+    "kind": "guide",
+    "paid": false,
+    "why": "News and features across his work"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Eero Saarinen",
+    "url": "https://www.architecturalrecord.com/articles/keyword/711-eero-saarinen",
+    "kind": "guide",
+    "paid": false,
+    "why": "Magazine articles on his buildings"
+   },
+   {
+    "site": "The New Criterion",
+    "title": "Eero's modern fossils",
+    "url": "https://newcriterion.com/article/eeros-modern-fossils/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical reassessment of his legacy"
+   },
+   {
+    "site": "Walker Art Center",
+    "title": "Eero Saarinen: Shaping the Future",
+    "url": "https://walkerart.org/calendar/2008/series/eero-saarinen-shaping-the-future",
+    "kind": "museum",
+    "paid": false,
+    "why": "Major retrospective exhibition page"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Predicting the Future",
+    "url": "https://metropolismag.com/programs/predicting-the-future/",
+    "kind": "news",
+    "paid": false,
+    "why": "Metropolis on the Saarinen retrospective"
+   },
+   {
+    "site": "Canadian Architect",
+    "title": "Eero Saarinen: Shaping the Future",
+    "url": "https://www.canadianarchitect.com/i-eero-saarinen-shaping-the-future-i/",
+    "kind": "news",
+    "paid": false,
+    "why": "Exhibition review, 50 projects covered"
+   },
+   {
+    "site": "Finland.fi",
+    "title": "Eero Saarinen: architect for a new world",
+    "url": "https://finland.fi/?p=2311",
+    "kind": "profile",
+    "paid": false,
+    "why": "His Finnish roots and career"
+   },
+   {
+    "site": "Smithsonian Archives of American Art",
+    "title": "Aline and Eero Saarinen papers",
+    "url": "https://www.si.edu/object/archives/sova-aaa-saaralin",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of his life and work"
+   },
+   {
+    "site": "Cranbrook Archives",
+    "title": "Saarinen Family Papers",
+    "url": "https://archives.cranbrook.edu/repositories/2/resources/58",
+    "kind": "museum",
+    "paid": false,
+    "why": "Family archive, photographs, correspondence"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Eero Saarinen collection",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/818664906",
+    "kind": "museum",
+    "paid": false,
+    "why": "Original Saarinen drawings and sketches"
    }
   ]
  },
@@ -3420,6 +4028,46 @@
     "kind": "profile",
     "paid": false,
     "why": "Belgian architecture archive entry on Maekawa"
+   },
+   {
+    "site": "Britannica",
+    "title": "Maekawa Kunio",
+    "url": "https://www.britannica.com/biography/Maekawa-Kunio",
+    "kind": "overview",
+    "paid": false,
+    "why": "Career summary, Le Corbusier training"
+   },
+   {
+    "site": "Artscape Japan",
+    "title": "On Kunio Mayekawa",
+    "url": "https://artscape.jp/artscape/eng/focus/0605_02.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Modernism as continuing invention in Japan"
+   },
+   {
+    "site": "Dearq",
+    "title": "Maekawa Kunio: Prefabrication and Wooden Modernism 1945-1951",
+    "url": "https://www.redalyc.org/journal/3416/341667466004/html/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Scholarly paper on his postwar timber work"
+   },
+   {
+    "site": "Robin Boyd & Japan",
+    "title": "Kunio Maekawa",
+    "url": "https://www.robinboydandjapan.org.au/kuniomaekawa",
+    "kind": "profile",
+    "paid": false,
+    "why": "Research profile of his career"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Kunio Maekawa",
+    "url": "https://architectuul.com/architect/kunio-maekawa",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography with his main works"
    }
   ]
  },
@@ -4021,6 +4669,54 @@
     "kind": "overview",
     "paid": false,
     "why": "Detailed history and works list"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "BIG",
+    "url": "https://www.architecturalrecord.com/articles/6360-big-bjarke-ingels-group",
+    "kind": "profile",
+    "paid": false,
+    "why": "Magazine profile of the firm's work"
+   },
+   {
+    "site": "Domus",
+    "title": "BIG",
+    "url": "https://www.domusweb.it/en/speciali/best-architecture-firms/2019/big.html",
+    "kind": "profile",
+    "paid": false,
+    "why": "Firm profile: approach, partners, key projects"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Bjarke Ingels: between unbounded optimism and identifiable anxiety",
+    "url": "https://www.architectural-review.com/awards/ar-emerging/bjarke-ingels-between-unbounded-optimism-and-identifiable-anxiety",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical read of Ingels's method"
+   },
+   {
+    "site": "TED",
+    "title": "Bjarke Ingels: 3 warp-speed architecture tales",
+    "url": "https://www.ted.com/talks/bjarke_ingels_3_warp_speed_architecture_tales",
+    "kind": "video",
+    "paid": false,
+    "why": "Ingels presents BIG's ideas as stories"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Nine of BIG's built architecture projects",
+    "url": "https://www.dezeen.com/2016/02/10/built-architecture-projects-by-big-bjarke-ingels/",
+    "kind": "guide",
+    "paid": false,
+    "why": "Quick tour of BIG's key buildings"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Design Vanguard 2009: BIG",
+    "url": "https://www.architecturalrecord.com/articles/14206-design-vanguard-2009-big-bjarke-ingels-group",
+    "kind": "profile",
+    "paid": false,
+    "why": "Early look at BIG's rise"
    }
   ]
  },
@@ -4114,6 +4810,54 @@
     "kind": "overview",
     "paid": false,
     "why": "Detailed life and works list"
+   },
+   {
+    "site": "The Architectural Review",
+    "title": "Charles Correa",
+    "url": "https://www.architectural-review.com/architects/charles-correa",
+    "kind": "profile",
+    "paid": false,
+    "why": "Collected AR writing on Correa"
+   },
+   {
+    "site": "RIBA Journal",
+    "title": "Charles Correa 1930 – 2015",
+    "url": "https://www.ribaj.com/culture/charles-correa-september-1930-june-2015/",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Life and career in one read"
+   },
+   {
+    "site": "RIBA Journal",
+    "title": "A natural great",
+    "url": "https://www.ribaj.com/culture/a-natural-great/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Appreciation of his Gold Medal career"
+   },
+   {
+    "site": "RIBA Journal",
+    "title": "Charles Correa: Dirty work but someone's got to do it",
+    "url": "https://www.ribaj.com/culture/charles-correa-dirty-work-but-someone-s-got-to-do-it",
+    "kind": "interview",
+    "paid": false,
+    "why": "Correa on his practice and housing"
+   },
+   {
+    "site": "Dezeen",
+    "title": "David Adjaye designs Charles Correa exhibition at RIBA",
+    "url": "https://www.dezeen.com/2013/03/23/david-adjaye-designs-charles-correa-exhibition-at-riba/amp/",
+    "kind": "museum",
+    "paid": false,
+    "why": "RIBA show of 6,000 Correa drawings"
+   },
+   {
+    "site": "Holcim Foundation",
+    "title": "Charles Correa",
+    "url": "https://www.holcimfoundation.org/experts/charles-correa",
+    "kind": "profile",
+    "paid": false,
+    "why": "Short biography and honours"
    }
   ]
  },
@@ -4143,6 +4887,118 @@
     "kind": "overview",
     "paid": false,
     "why": "Detailed life and works list"
+   },
+   {
+    "site": "Britannica",
+    "title": "Daniel Libeskind",
+    "url": "https://www.britannica.com/biography/Daniel-Libeskind",
+    "kind": "overview",
+    "paid": false,
+    "why": "Career summary and key works"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Daniel Libeskind is deconstructivism's \"late bloomer\"",
+    "url": "https://www.dezeen.com/2022/05/19/daniel-libeskind-profile-deconstructivism/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Profile of his path and ideas"
+   },
+   {
+    "site": "Dezeen",
+    "title": "\"I always felt slightly repulsed\" by deconstructivist label says Daniel Libeskind",
+    "url": "https://www.dezeen.com/2022/05/06/deconstructivism-interview-daniel-libeskind/",
+    "kind": "interview",
+    "paid": false,
+    "why": "In his words on deconstructivism"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Architecture is \"much the same\" as music says Daniel Libeskind",
+    "url": "https://www.dezeen.com/2026/10/11/daniel-libeskind-interview-key-projects/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Recent interview on key projects"
+   },
+   {
+    "site": "Smithsonian Magazine",
+    "title": "Daniel Libeskind: Architect at Ground Zero",
+    "url": "https://www.smithsonianmag.com/history/daniel-libeskind-architect-at-ground-zero-77003660/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Long profile of the man and method"
+   },
+   {
+    "site": "TED",
+    "title": "Daniel Libeskind",
+    "url": "https://www.ted.com/speakers/daniel_libeskind",
+    "kind": "video",
+    "paid": false,
+    "why": "His TED talk on 17 words"
+   },
+   {
+    "site": "Studio Libeskind",
+    "title": "Louisiana Channel: The Voices of a Site",
+    "url": "https://libeskind.com/publishing/louisana-channel-the-voices-of-a-site/",
+    "kind": "video",
+    "paid": false,
+    "why": "30-minute interview on life and career"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Daniel Libeskind Retraces his Life and Architectural Career in Engaging In-Depth Interview",
+    "url": "https://www.archdaily.com/895087/daniel-libeskind-retraces-his-life-and-architectural-career-in-engaging-in-depth-interview",
+    "kind": "interview",
+    "paid": false,
+    "why": "Career retold in video interview"
+   },
+   {
+    "site": "Praemium Imperiale",
+    "title": "Laureate Daniel Libeskind",
+    "url": "https://www.praemiumimperiale.org/en/laureate/libeskind/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Laureate biography and citation"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Daniel Libeskind on the Art of Architecture in Film",
+    "url": "https://www.architecturalrecord.com/articles/17322-daniel-libeskind-on-the-art-of-architecture-in-film",
+    "kind": "interview",
+    "paid": false,
+    "why": "On architecture and storytelling"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Daniel Libeskind First Architect Awarded the Dresden International Peace Prize",
+    "url": "https://www.architecturalrecord.com/articles/16077-daniel-libeskind-first-architect-awarded-the-dresden-international-peace-prize",
+    "kind": "news",
+    "paid": false,
+    "why": "Recognition of his memorial work"
+   },
+   {
+    "site": "Metropolis",
+    "title": "Q&A: Daniel Libeskind on His New Sculptural Work",
+    "url": "https://www.metropolismag.com/design/arts-culture/qa-daniel-libeskind/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Q&A on his sculptural practice"
+   },
+   {
+    "site": "SFMOMA",
+    "title": "Daniel Libeskind",
+    "url": "https://www.sfmoma.org/artist/Daniel_Libeskind/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum profile of his drawings"
+   },
+   {
+    "site": "University of New Mexico",
+    "title": "The Language of Architecture (lecture)",
+    "url": "https://digitalrepository.unm.edu/arch_lectures/22",
+    "kind": "video",
+    "paid": false,
+    "why": "Full university lecture, 2013"
    }
   ]
  },
@@ -4172,6 +5028,102 @@
     "kind": "overview",
     "paid": false,
     "why": "Detailed life and works list"
+   },
+   {
+    "site": "Britannica",
+    "title": "Gordon Bunshaft",
+    "url": "https://www.britannica.com/biography/Gordon-Bunshaft",
+    "kind": "overview",
+    "paid": false,
+    "why": "Career summary and key works"
+   },
+   {
+    "site": "Docomomo US",
+    "title": "Gordon Bunshaft",
+    "url": "https://docomomo-us.org/designer/gordon-bunshaft",
+    "kind": "profile",
+    "paid": false,
+    "why": "Preservation group's biography and works"
+   },
+   {
+    "site": "SOM",
+    "title": "Gordon Bunshaft: Arguably Buffalo's Most Famous Homegrown Architect",
+    "url": "https://www.som.com/news/gordon-bunshaft-arguably-buffalos-most-famous-homegrown-architect/",
+    "kind": "profile",
+    "paid": false,
+    "why": "His firm's account of his life"
+   },
+   {
+    "site": "Yale University Press",
+    "title": "Silence and Gordon Bunshaft",
+    "url": "https://yalebooks.yale.edu/2019/11/19/silence-and-gordon-bunshaft/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Credit, silence and his legacy"
+   },
+   {
+    "site": "Metropolis",
+    "title": "You Can't Spell SOM Without Gordon Bunshaft",
+    "url": "https://metropolismag.com/viewpoints/adams-gordon-bunshaft-som-review/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Review of Adams's Bunshaft book"
+   },
+   {
+    "site": "EAHN Journal",
+    "title": "Mandarin or Maverick? Reassessing the Architecture of Gordon Bunshaft",
+    "url": "https://journal.eahn.org/article/id/7622/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Scholarly reassessment of his work"
+   },
+   {
+    "site": "The Skyscraper Museum",
+    "title": "Gordon Bunshaft and SOM: Building Corporate Modernism",
+    "url": "https://skyscraper.org/programs/gordon-bunshaft-and-som-building-corporate-modernism/",
+    "kind": "museum",
+    "paid": false,
+    "why": "Museum talk on his corporate towers"
+   },
+   {
+    "site": "Smithsonian Libraries",
+    "title": "Gordon Bunshaft Interviewed by GPL",
+    "url": "https://library.si.edu/digital-library/collection/hirshhorn-audio-archive/gordon-bunshaft-interviewed-gpl",
+    "kind": "interview",
+    "paid": false,
+    "why": "Rare 1983 interview, in his words"
+   },
+   {
+    "site": "USModernist",
+    "title": "Gordon Bunshaft",
+    "url": "https://usmodernist.org/bunshaft.htm",
+    "kind": "profile",
+    "paid": false,
+    "why": "Works list with period magazine sources"
+   },
+   {
+    "site": "Key Reporter",
+    "title": "Gordon Bunshaft and SOM: Building Corporate Modernism",
+    "url": "https://www.keyreporter.org/book-reviews/2020/gordon-bunshaft-and-som-building-corporate-modernism/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Review of the biography"
+   },
+   {
+    "site": "US Commission of Fine Arts",
+    "title": "Gordon Bunshaft",
+    "url": "https://www.cfa.gov/about-cfa/who-we-are/gordon-bunshaft",
+    "kind": "profile",
+    "paid": false,
+    "why": "Official biography of his public work"
+   },
+   {
+    "site": "CultureNOW",
+    "title": "Gordon Bunshaft",
+    "url": "https://culturenow.org/people/gordon-bunshaft",
+    "kind": "guide",
+    "paid": false,
+    "why": "His New York buildings mapped"
    }
   ]
  },
@@ -4895,6 +5847,54 @@
     "kind": "overview",
     "paid": false,
     "why": "Full biography and works list"
+   },
+   {
+    "site": "YouTube",
+    "title": "Auguste Perret, Architect",
+    "url": "https://www.youtube.com/watch?v=VqGefw6N5x4",
+    "kind": "video",
+    "paid": false,
+    "why": "Video overview of Perret and concrete"
+   },
+   {
+    "site": "YouTube",
+    "title": "Le Havre - The Poetics of Concrete, France",
+    "url": "https://www.youtube.com/watch?v=n0Jy0QWGS8Q",
+    "kind": "video",
+    "paid": false,
+    "why": "Perret's rebuilt Le Havre on film"
+   },
+   {
+    "site": "Cité de l'architecture",
+    "title": "Auguste Perret, c'est béton",
+    "url": "https://www.citedelarchitecture.fr/fr/article/auguste-perret-cest-beton",
+    "kind": "museum",
+    "paid": false,
+    "why": "Cité's Perret feature (French)"
+   },
+   {
+    "site": "Cité de l'architecture",
+    "title": "Perret, Auguste et Perret frères (archive fonds)",
+    "url": "https://archiwebture.citedelarchitecture.fr/archive/fonds/FRAPN02_PERAU",
+    "kind": "museum",
+    "paid": false,
+    "why": "Perret archive: drawings and projects (French)"
+   },
+   {
+    "site": "OMA",
+    "title": "Auguste Perret: Huit Chefs d'oeuvre !/?",
+    "url": "https://www.oma.com/projects/auguste-perret-huit-chefs-d-oeuvre-",
+    "kind": "museum",
+    "paid": false,
+    "why": "Koolhaas-designed Perret exhibition"
+   },
+   {
+    "site": "Fondazione Prada",
+    "title": "Auguste Perret",
+    "url": "https://www.fondazioneprada.org/project/auguste-perret/?lang=en",
+    "kind": "museum",
+    "paid": false,
+    "why": "Exhibition page on Perret's concrete work"
    }
   ]
  },
@@ -4972,6 +5972,38 @@
     "kind": "overview",
     "paid": false,
     "why": "Full biography and works list"
+   },
+   {
+    "site": "Docomomo",
+    "title": "The Integration of the Arts",
+    "url": "https://www.docomomo.pt/?p=11089",
+    "kind": "essay",
+    "paid": false,
+    "why": "Villanueva's arts-integration idea, explained"
+   },
+   {
+    "site": "Docomomo",
+    "title": "The Dwellers: The Integration of Art and the Architecture in the Ciudad Universitaria de Caracas",
+    "url": "https://www.docomomo.pt/?p=11088",
+    "kind": "essay",
+    "paid": false,
+    "why": "Art and architecture on his Caracas campus"
+   },
+   {
+    "site": "Docomomo",
+    "title": "Docomomo Journal article on Villanueva",
+    "url": "https://docomomojournal.com/index.php/journal/article/download/59/414/419",
+    "kind": "essay",
+    "paid": false,
+    "why": "Scholarly paper on Villanueva's modernism"
+   },
+   {
+    "site": "ICAA",
+    "title": "Carlos Raúl Villanueva (ICAA archive)",
+    "url": "https://icaa.mfah.org/s/en/item/864335",
+    "kind": "museum",
+    "paid": false,
+    "why": "Primary-source document archive, Villanueva text"
    }
   ]
  }
