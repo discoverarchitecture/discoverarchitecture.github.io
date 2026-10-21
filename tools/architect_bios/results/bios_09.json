@@ -34,13 +34,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "KRIS YAO | ARTECH",
-    "title": "Official site",
-    "url": "https://www.kyarchitects.com/",
-    "why": "the office's own projects",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
     "site": "Wikipedia",
     "title": "Lanyang Museum",
     "url": "https://en.wikipedia.org/wiki/Lanyang_Museum",
@@ -48,11 +41,22 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "ArchDaily",
-    "title": "Kris Yao tag page",
-    "url": "https://www.archdaily.com/tag/kris-yao",
-    "why": "projects and articles with photos",
-    "check_failed": "status 404, name not found on page"
+    "site": "Wikipedia",
+    "title": "China Steel Corporation Headquarters",
+    "url": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters",
+    "why": "his tower in Kaohsiung"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Nung Chan Monastery",
+    "url": "https://en.wikipedia.org/wiki/Nung_Chan_Monastery",
+    "why": "the monastery he rebuilt"
+   },
+   {
+    "site": "Wikipedia (Chinese)",
+    "title": "姚仁喜",
+    "url": "https://zh.wikipedia.org/wiki/姚仁喜",
+    "why": "a fuller list of his works"
    }
   ],
   "skip": false
@@ -104,11 +108,16 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Architectuul",
-    "title": "Leslie Martin",
-    "url": "https://architectuul.com/architect/leslie-martin",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "site": "Wikipedia",
+    "title": "Kettle's Yard",
+    "url": "https://en.wikipedia.org/wiki/Kettle's_Yard",
+    "why": "the gallery he extended"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Harvey Court",
+    "url": "https://en.wikipedia.org/wiki/Harvey_Court",
+    "why": "his brick brutalist college building"
    }
   ],
   "skip": false
@@ -373,13 +382,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "MRA+A",
-    "title": "Official site",
-    "url": "https://www.mraa.com.ar/",
-    "why": "the office he founded",
-    "check_failed": "status 0, name not found on page"
-   },
-   {
     "site": "Wikipedia (Spanish)",
     "title": "Mario Roberto Álvarez",
     "url": "https://es.wikipedia.org/wiki/Mario_Roberto_Álvarez",
@@ -387,11 +389,16 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Architectuul",
-    "title": "Mario Roberto Álvarez",
-    "url": "https://architectuul.com/architect/mario-roberto-alvarez",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "site": "Wikipedia",
+    "title": "Centro Cultural General San Martín",
+    "url": "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Martín",
+    "why": "one of his best-known buildings"
+   },
+   {
+    "site": "Wikipedia (Spanish)",
+    "title": "Edificio SOMISA",
+    "url": "https://es.wikipedia.org/wiki/Edificio_SOMISA",
+    "why": "his steel company headquarters"
    }
   ],
   "skip": false
@@ -603,13 +610,6 @@
    },
    {
     "site": "Wikipedia",
-    "title": "Niavaran Palace Complex",
-    "url": "https://en.wikipedia.org/wiki/Niavaran_Palace_Complex",
-    "why": "his best-known building",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
-    "site": "Wikipedia",
     "title": "Heydar Ghiai",
     "url": "https://en.wikipedia.org/wiki/Heydar_Ghiai",
     "why": "his partner on the Senate House and in Paris",
@@ -699,18 +699,23 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Arup",
-    "title": "Ove Arup, our founder",
-    "url": "https://www.arup.com/about-us/our-founder/",
-    "why": "the firm's own account of his life and ideas",
-    "check_failed": "status 404, name not found on page"
-   },
-   {
     "site": "Wikipedia",
     "title": "Kingsgate Bridge",
     "url": "https://en.wikipedia.org/wiki/Kingsgate_Bridge",
     "why": "the last structure he designed",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Arup Group",
+    "url": "https://en.wikipedia.org/wiki/Arup_Group",
+    "why": "the firm he founded"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Dunelm House",
+    "url": "https://en.wikipedia.org/wiki/Dunelm_House",
+    "why": "the student union completed under his supervision"
    }
   ],
   "skip": false
@@ -935,13 +940,6 @@
     "url": "https://en.wikipedia.org/wiki/Hall_of_Nations",
     "why": "his best-known building",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Architectuul",
-    "title": "Raj Rewal",
-    "url": "https://architectuul.com/architect/raj-rewal",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1242,11 +1240,16 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Architectuul",
+    "site": "Wikipedia (German)",
     "title": "Shin Takamatsu",
-    "url": "https://architectuul.com/architect/shin-takamatsu",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
+    "url": "https://de.wikipedia.org/wiki/Shin_Takamatsu",
+    "why": "a second account of his work"
+   },
+   {
+    "site": "Wikipedia (French)",
+    "title": "Shin Takamatsu",
+    "url": "https://fr.wikipedia.org/wiki/Shin_Takamatsu",
+    "why": "a second account of his work"
    }
   ],
   "skip": false
@@ -1297,13 +1300,6 @@
     "url": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,_Mexico_City",
     "why": "one of his best-known buildings",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Architectuul",
-    "title": "Teodoro González de León",
-    "url": "https://architectuul.com/architect/teodoro-gonzalez-de-leon",
-    "why": "a list of buildings with photos",
-    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -1406,13 +1402,6 @@
     "url": "https://en.wikipedia.org/wiki/Ben_van_Berkel",
     "why": "the co-founder",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "ArchDaily",
-    "title": "UNStudio office page",
-    "url": "https://www.archdaily.com/office/unstudio",
-    "why": "projects with plans and photos",
-    "check_failed": "status 200, name not found on page"
    }
   ],
   "skip": false
