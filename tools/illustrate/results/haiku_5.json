@@ -1410,46 +1410,6 @@
   ]
  },
  {
-  "id": "beetham-tower-manchester",
-  "qid": "Q814128",
-  "status": "photo",
-  "why": "The lead gives a first (the Financial Times description) and the 2006 completion.",
-  "name": "Beetham Tower, Manchester",
-  "by": "SimpsonHaugh and Partners, Ian Simpson",
-  "city": "Manchester",
-  "cc": "GB",
-  "year": 2006,
-  "type": "Office & tower",
-  "movement": "Contemporary",
-  "concepts": [
-   "Steel & glass",
-   "Sculptural form",
-   "Facade as skin"
-  ],
-  "features": "Described by the Financial Times as the UK's first proper skyscraper outside London.",
-  "commons_category": "Category:Beetham Tower, Manchester",
-  "coords": [
-   53.47528,
-   -2.25028
-  ],
-  "photos": [
-   {
-    "file": "File:Beetham Tower Manchester (5871822967).jpg",
-    "license": "CC BY 2.0",
-    "seen": true
-   },
-   {
-    "file": "File:Beetham Tower Manchester (5871824135).jpg",
-    "license": "CC BY 2.0",
-    "seen": true
-   }
-  ],
-  "sources": [
-   "https://en.wikipedia.org/wiki/Beetham_Tower%2C_Manchester",
-   "https://www.wikidata.org/wiki/Q814128"
-  ]
- },
- {
   "id": "finnish-forest-museum-lusto",
   "qid": "Q11879901",
   "status": "photo",
