@@ -40,7 +40,7 @@
   source; 4 are building attributions confirmed on Wikidata. Unsourced facts: 0. Links: 113 kept, all checked
   21 Oct 2026 (two check runs).
 
-- `results/bios_10.json` (21 Oct 2026), the last 6 entries, ranks 251–256. Bios 179–189 words. 20 facts, every one
+- `results/bios_10.json` (21 Oct 2026), the last 6 entries, ranks 251–256. Bios 179–189 words. 18 facts, every one
   with a source. Unsourced facts: 0. Links: 22 kept, all checked 21 Oct 2026 (two check runs). With this file every
   entry in `todo.json` has a write-up, apart from the three listed under Skipped.
 
