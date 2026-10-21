@@ -63,9 +63,11 @@ Don't change any other file, and don't commit. End with one line: kept, skipped,
 ## Lessons from the third pool (21 Oct 2026): check these before keeping
 
 - **The architect.** Wikidata often names a later renovation, extension or interior architect, or credits a famous
-  name wrongly (Sinan for a 1347 mosque, Horta for an 1844 museum). Keep the building only if the lead (or the photos'
-  descriptions) show this architect designed the building as it stands. If the lead names a different original
-  architect, use that one; if it names nobody and the date is impossible for the architect, use "unsure".
+  name wrongly (Sinan for a 1347 mosque, Horta for an 1844 museum). Accept Wikidata's architect unless the lead names
+  someone else as the original designer, or the dates make it impossible (the architect was not active then, or did
+  only a later renovation). A lead that names nobody is not a reason to skip (fourth pool, 21 Oct: that reading
+  dropped good buildings such as the Hawaii State Capitol). If the lead names a different original architect, use
+  that one; if the dates are impossible, use "unsure".
 - **Built and standing.** Skip demolished, destroyed, rebuilt-as-copy, unbuilt and planned buildings, and interiors
   only.
 - **City, not district.** Use the city ("Istanbul", "London", "Brasília"), never a district or borough.
