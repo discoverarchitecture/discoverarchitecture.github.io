@@ -46,8 +46,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical history of where Brutalism came from",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Architectural Review",
@@ -56,8 +55,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Banham's original text that named the style",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "SOS Brutalism",
@@ -111,8 +109,7 @@
     "kind": "news",
     "paid": false,
     "why": "Meades on the style's poetry and politics",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Metropolis",
@@ -139,15 +136,6 @@
     "kind": "video",
     "paid": false,
     "why": "Video history from Unite to Robin Hood Gardens",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Brutalist architecture",
-    "url": "https://en.wikipedia.org/wiki/Brutalist_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples",
     "checked": "2026-10-21"
    }
   ]
@@ -348,8 +336,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Editor on adaptive reuse as practice",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Architects' Journal",
@@ -358,8 +345,7 @@
     "kind": "news",
     "paid": false,
     "why": "Sustainability shaping European practice",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Wallpaper*",
@@ -556,15 +542,6 @@
     "paid": false,
     "why": "Neutral summary of the exhibition",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Deconstructivism",
-    "url": "https://en.wikipedia.org/wiki/Deconstructivism",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -706,15 +683,6 @@
     "paid": false,
     "why": "Academic reading of the manifesto",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Parametric architecture",
-    "url": "https://en.wikipedia.org/wiki/Parametric_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -783,8 +751,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critic on high-tech's British roots",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Architects' Journal",
@@ -793,8 +760,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Review of the Superstructures exhibition",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Google Arts & Culture",
@@ -860,15 +826,6 @@
     "kind": "video",
     "paid": false,
     "why": "Both designers in conversation",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "High-tech architecture",
-    "url": "https://en.wikipedia.org/wiki/High-tech_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples",
     "checked": "2026-10-21"
    }
   ]
@@ -957,8 +914,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Why Po-Mo is back in view",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Architects' Journal",
@@ -967,8 +923,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Questions the story of modernism's end",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Metropolis",
@@ -989,15 +944,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Domus",
-    "title": "La Strada Novissima: The 1980 Venice Biennale",
-    "url": "https://www.domusweb.it/en/from-the-archive/2012/08/25/-em-la-strada-novissima-em--the-1980-venice-biennale.html",
-    "kind": "museum",
-    "paid": false,
-    "why": "The Biennale show that launched Po-Mo",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "ArchDaily",
     "title": "Playful and Ironic: The Legacy of Postmodernist Architecture in the United States",
     "url": "https://www.archdaily.com/1038681/playful-and-ironic-the-legacy-of-postmodernist-architecture-in-the-united-states",
@@ -1013,24 +959,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Book tour of postmodern buildings worldwide",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Docomomo US",
-    "title": "The '70s Turn 50: Divergences in American Architecture",
-    "url": "https://www.docomomo-us.org/news/the-70s-turn-50-divergences-in-american-architecture",
-    "kind": "essay",
-    "paid": false,
-    "why": "How 1970s US architecture split",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Postmodern architecture",
-    "url": "https://en.wikipedia.org/wiki/Postmodern_architecture",
-    "kind": "overview",
-    "paid": false,
-    "why": "Broad reference with world examples",
     "checked": "2026-10-21"
    }
   ]
@@ -1292,8 +1220,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Frampton's idea restated for today",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
@@ -1341,15 +1268,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Domus",
-    "title": "Kenneth Frampton's critical regionalism put in practice",
-    "url": "https://www.domusweb.it/en/architecture/gallery/2020/09/30/slanted-house-the-installation-emphasizing-the-relation-between-house-and-landscape.html",
-    "kind": "news",
-    "paid": false,
-    "why": "The theory shown in a built example",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "JSTOR / UCL Press",
     "title": "Resisting Postmodern Architecture: Critical Regionalism before Globalisation",
     "url": "https://www.jstor.org/stable/j.ctv1v090hv",
@@ -1365,8 +1283,7 @@
     "kind": "profile",
     "paid": false,
     "why": "A key regionalist from Egypt",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Pritzker Architecture Prize",
@@ -1444,8 +1361,7 @@
     "kind": "guide",
     "paid": false,
     "why": "AR's museum building studies and essays",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Architects' Journal",
@@ -1454,8 +1370,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Should the building outshine the art?",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
@@ -1482,6 +1397,15 @@
     "kind": "overview",
     "paid": false,
     "why": "Reference with notable museums",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "The Spectator",
+    "title": "The Bilbao effect",
+    "url": "https://spectator.com/article/the-bilbao-effect/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Jonathan Meades on the icon-museum idea",
     "checked": "2026-10-21"
    }
   ]
@@ -1627,8 +1551,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical history of the building type",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Architectural Review",
@@ -1637,8 +1560,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Aalto to Oodi",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Architectural Review",
@@ -1647,8 +1569,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Libraries seen as interiors",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Metropolis",
@@ -1817,8 +1738,7 @@
     "kind": "news",
     "paid": false,
     "why": "Critics' picks of the pavilions",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
@@ -1913,15 +1833,6 @@
     "kind": "video",
     "paid": false,
     "why": "Dezeen talk on housing worldwide",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "YouTube",
-    "title": "Rich concepts for the poor: Social housing in the Netherlands",
-    "url": "https://www.youtube.com/watch?v=p_1jM5-mJGk",
-    "kind": "video",
-    "paid": false,
-    "why": "Dutch housing and urban development",
     "checked": "2026-10-21"
    },
    {
@@ -2065,15 +1976,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Alberta Journal of Educational Research",
-    "title": "Building Paradigms: Major Transformations in School Architecture (1798-2009)",
-    "url": "https://journalhosting.ucalgary.ca/index.php/ajer/article/view/55322/42359",
-    "kind": "essay",
-    "paid": false,
-    "why": "Two centuries of school design, summarised",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Wallpaper*",
     "title": "School architecture: design scoring kudos in the classroom",
     "url": "https://www.wallpaper.com/gallery/architecture/school-architecture-and-design",
@@ -2135,8 +2037,7 @@
     "kind": "news",
     "paid": false,
     "why": "Current best UK school projects",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "ArchDaily",
@@ -2172,15 +2073,6 @@
     "kind": "essay",
     "paid": false,
     "why": "How Olmsted planned US campuses",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Canadian Architect",
-    "title": "University of Toronto: An Architectural Tour",
-    "url": "https://www.canadianarchitect.com/university-of-toronto-an-architectural-tour/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Walking tour of a historic campus",
     "checked": "2026-10-21"
    }
   ]
@@ -2400,8 +2292,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critic on London's tower boom",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Architectural Review",
@@ -2410,8 +2301,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Argument over London's facadism",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "V&A",
@@ -2456,8 +2346,7 @@
     "kind": "news",
     "paid": false,
     "why": "Debate over the City's towers",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    }
   ]
  },
@@ -2823,8 +2712,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critical look at Berlin Brutalism",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Wallpaper*",
@@ -2997,8 +2885,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Seven archive essays on the city",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Britannica",
@@ -3091,8 +2978,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critics' readings of the Pavilion",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Architectural Review",
@@ -3101,8 +2987,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Critique of recent change in the old town",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
@@ -3302,8 +3187,7 @@
     "kind": "essay",
     "paid": false,
     "why": "The argument against demolition",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Architects' Journal",
@@ -3312,8 +3196,7 @@
     "kind": "news",
     "paid": false,
     "why": "Retrofit wins architecture's top prize",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Pritzker Prize",
@@ -3547,15 +3430,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Domus",
-    "title": "Beijing. A brick courtyard house between modernity and tradition",
-    "url": "https://www.domusweb.it/en/architecture/2018/07/23/beijing-a-brick-courtyard-house-between-modernity-and-tradition.html",
-    "kind": "essay",
-    "paid": false,
-    "why": "A modern take on the siheyuan",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Britannica",
     "title": "Patio",
     "url": "https://www.britannica.com/technology/patio",
@@ -3653,15 +3527,6 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Fondation Le Corbusier",
-    "title": "City of Chandigarh, India, 1950-1965",
-    "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-city-of-chandigarh-india-1950-1965/",
-    "kind": "museum",
-    "paid": false,
-    "why": "Sun control in Le Corbusier's Indian city",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Google Arts & Culture",
     "title": "The Modernist Buildings of Oscar Niemeyer",
     "url": "https://artsandculture.google.com/story/IAWxjsdlsqt_Lg",
@@ -3754,8 +3619,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Vernacular timber building in Russia",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "The Architectural Review",
@@ -3764,8 +3628,7 @@
     "kind": "essay",
     "paid": false,
     "why": "Forestry and the future of building in wood",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Metropolis",
@@ -3844,8 +3707,7 @@
     "kind": "profile",
     "paid": false,
     "why": "Six Otto projects explained",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "Architects' Journal",
@@ -3854,8 +3716,7 @@
     "kind": "obituary",
     "paid": false,
     "why": "A life in lightweight structures",
-    "checked": "2026-10-21",
-    "blocked_check": true
+    "checked": "2026-10-21"
    },
    {
     "site": "MoMA",
