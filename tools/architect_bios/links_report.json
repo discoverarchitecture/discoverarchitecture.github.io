@@ -10,15 +10,6 @@
  },
  {
   "architect": "Kris Yao",
-  "url": "https://www.kyarchitects.com/",
-  "status": 200,
-  "final": "https://kyarchitects.com/",
-  "title": "Bali Professional Architects | KYARCHITECTS",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Kris Yao",
   "url": "https://en.wikipedia.org/wiki/Lanyang_Museum",
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Lanyang_Museum",
@@ -28,11 +19,29 @@
  },
  {
   "architect": "Kris Yao",
-  "url": "https://www.archdaily.com/tag/kris-yao",
-  "status": 404,
-  "final": "https://www.archdaily.com/tag/kris-yao",
-  "title": "",
-  "about": false,
+  "url": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters",
+  "title": "China Steel Corporation Headquarters - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Kris Yao",
+  "url": "https://en.wikipedia.org/wiki/Nung_Chan_Monastery",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Nung_Chan_Monastery",
+  "title": "Nung Chan Monastery - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Kris Yao",
+  "url": "https://zh.wikipedia.org/wiki/姚仁喜",
+  "status": 200,
+  "final": "https://zh.wikipedia.org/wiki/%E5%A7%9A%E4%BB%81%E5%96%9C",
+  "title": "姚仁喜 - 维基百科，自由的百科全书",
+  "about": true,
   "error": null
  },
  {
@@ -55,9 +64,18 @@
  },
  {
   "architect": "Leslie Martin",
-  "url": "https://architectuul.com/architect/leslie-martin",
+  "url": "https://en.wikipedia.org/wiki/Kettle's_Yard",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Kettle's_Yard",
+  "title": "Kettle's Yard - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Leslie Martin",
+  "url": "https://en.wikipedia.org/wiki/Harvey_Court",
   "status": 404,
-  "final": "https://architectuul.com/architect/leslie-martin",
+  "final": "https://en.wikipedia.org/wiki/Harvey_Court",
   "title": "",
   "about": false,
   "error": null
@@ -217,15 +235,6 @@
  },
  {
   "architect": "Mario Roberto Álvarez",
-  "url": "https://www.mraa.com.ar/",
-  "status": 0,
-  "final": "https://www.mraa.com.ar/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [Errno -2] Name or service not known>"
- },
- {
-  "architect": "Mario Roberto Álvarez",
   "url": "https://es.wikipedia.org/wiki/Mario_Roberto_Álvarez",
   "status": 200,
   "final": "https://es.wikipedia.org/wiki/Mario_Roberto_%C3%81lvarez",
@@ -235,11 +244,20 @@
  },
  {
   "architect": "Mario Roberto Álvarez",
-  "url": "https://architectuul.com/architect/mario-roberto-alvarez",
-  "status": 404,
-  "final": "https://architectuul.com/architect/mario-roberto-alvarez",
-  "title": "",
-  "about": false,
+  "url": "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Martín",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Mart%C3%ADn",
+  "title": "Centro Cultural General San Martín - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Mario Roberto Álvarez",
+  "url": "https://es.wikipedia.org/wiki/Edificio_SOMISA",
+  "status": 200,
+  "final": "https://es.wikipedia.org/wiki/Edificio_SOMISA",
+  "title": "Edificio Somisa - Wikipedia, la enciclopedia libre",
+  "about": true,
   "error": null
  },
  {
@@ -361,15 +379,6 @@
  },
  {
   "architect": "Mohsen Foroughi",
-  "url": "https://en.wikipedia.org/wiki/Niavaran_Palace_Complex",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Niavaran_Palace_Complex",
-  "title": "Niavaran Complex - Wikipedia",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Mohsen Foroughi",
   "url": "https://en.wikipedia.org/wiki/Heydar_Ghiai",
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Heydar_Ghiai",
@@ -424,19 +433,28 @@
  },
  {
   "architect": "Ove Arup",
-  "url": "https://www.arup.com/about-us/our-founder/",
-  "status": 404,
-  "final": "https://www.arup.com/about-us/our-founder/",
-  "title": "",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Ove Arup",
   "url": "https://en.wikipedia.org/wiki/Kingsgate_Bridge",
   "status": 200,
   "final": "https://en.wikipedia.org/wiki/Kingsgate_Bridge",
   "title": "Kingsgate Bridge - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Ove Arup",
+  "url": "https://en.wikipedia.org/wiki/Arup_Group",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Arup_Group",
+  "title": "Arup Group - Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Ove Arup",
+  "url": "https://en.wikipedia.org/wiki/Dunelm_House",
+  "status": 200,
+  "final": "https://en.wikipedia.org/wiki/Dunelm_House",
+  "title": "Dunelm House - Wikipedia",
   "about": true,
   "error": null
  },
@@ -573,15 +591,6 @@
   "final": "https://en.wikipedia.org/wiki/Hall_of_Nations",
   "title": "Hall of Nations - Wikipedia",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Raj Rewal",
-  "url": "https://architectuul.com/architect/raj-rewal",
-  "status": 404,
-  "final": "https://architectuul.com/architect/raj-rewal",
-  "title": "",
-  "about": false,
   "error": null
  },
  {
@@ -766,11 +775,20 @@
  },
  {
   "architect": "Shin Takamatsu",
-  "url": "https://architectuul.com/architect/shin-takamatsu",
-  "status": 404,
-  "final": "https://architectuul.com/architect/shin-takamatsu",
-  "title": "",
-  "about": false,
+  "url": "https://de.wikipedia.org/wiki/Shin_Takamatsu",
+  "status": 200,
+  "final": "https://de.wikipedia.org/wiki/Shin_Takamatsu",
+  "title": "Shin Takamatsu – Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Shin Takamatsu",
+  "url": "https://fr.wikipedia.org/wiki/Shin_Takamatsu",
+  "status": 200,
+  "final": "https://fr.wikipedia.org/wiki/Shin_Takamatsu",
+  "title": "Shin Takamatsu — Wikipédia",
+  "about": true,
   "error": null
  },
  {
@@ -798,15 +816,6 @@
   "final": "https://en.wikipedia.org/wiki/Museo_Rufino_Tamayo,_Mexico_City",
   "title": "Museo Rufino Tamayo, Mexico City - Wikipedia",
   "about": true,
-  "error": null
- },
- {
-  "architect": "Teodoro González de León",
-  "url": "https://architectuul.com/architect/teodoro-gonzalez-de-leon",
-  "status": 404,
-  "final": "https://architectuul.com/architect/teodoro-gonzalez-de-leon",
-  "title": "",
-  "about": false,
   "error": null
  },
  {
@@ -870,15 +879,6 @@
   "final": "https://en.wikipedia.org/wiki/Ben_van_Berkel",
   "title": "Ben van Berkel - Wikipedia",
   "about": true,
-  "error": null
- },
- {
-  "architect": "UNStudio",
-  "url": "https://www.archdaily.com/office/unstudio",
-  "status": 200,
-  "final": "https://www.archdaily.com/office/uns",
-  "title": "UNS | ArchDaily",
-  "about": false,
   "error": null
  },
  {

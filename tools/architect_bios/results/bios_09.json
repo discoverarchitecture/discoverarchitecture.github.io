@@ -44,19 +44,22 @@
     "site": "Wikipedia",
     "title": "China Steel Corporation Headquarters",
     "url": "https://en.wikipedia.org/wiki/China_Steel_Corporation_Headquarters",
-    "why": "his tower in Kaohsiung"
+    "why": "his tower in Kaohsiung",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Nung Chan Monastery",
     "url": "https://en.wikipedia.org/wiki/Nung_Chan_Monastery",
-    "why": "the monastery he rebuilt"
+    "why": "the monastery he rebuilt",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Chinese)",
     "title": "姚仁喜",
     "url": "https://zh.wikipedia.org/wiki/姚仁喜",
-    "why": "a fuller list of his works"
+    "why": "a fuller list of his works",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -111,13 +114,15 @@
     "site": "Wikipedia",
     "title": "Kettle's Yard",
     "url": "https://en.wikipedia.org/wiki/Kettle's_Yard",
-    "why": "the gallery he extended"
+    "why": "the gallery he extended",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Harvey Court",
     "url": "https://en.wikipedia.org/wiki/Harvey_Court",
-    "why": "his brick brutalist college building"
+    "why": "his brick brutalist college building",
+    "check_failed": "status 404, name not found on page"
    }
   ],
   "skip": false
@@ -392,13 +397,15 @@
     "site": "Wikipedia",
     "title": "Centro Cultural General San Martín",
     "url": "https://en.wikipedia.org/wiki/Centro_Cultural_General_San_Martín",
-    "why": "one of his best-known buildings"
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (Spanish)",
     "title": "Edificio SOMISA",
     "url": "https://es.wikipedia.org/wiki/Edificio_SOMISA",
-    "why": "his steel company headquarters"
+    "why": "his steel company headquarters",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -709,13 +716,15 @@
     "site": "Wikipedia",
     "title": "Arup Group",
     "url": "https://en.wikipedia.org/wiki/Arup_Group",
-    "why": "the firm he founded"
+    "why": "the firm he founded",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia",
     "title": "Dunelm House",
     "url": "https://en.wikipedia.org/wiki/Dunelm_House",
-    "why": "the student union completed under his supervision"
+    "why": "the student union completed under his supervision",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
@@ -1243,13 +1252,15 @@
     "site": "Wikipedia (German)",
     "title": "Shin Takamatsu",
     "url": "https://de.wikipedia.org/wiki/Shin_Takamatsu",
-    "why": "a second account of his work"
+    "why": "a second account of his work",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (French)",
     "title": "Shin Takamatsu",
     "url": "https://fr.wikipedia.org/wiki/Shin_Takamatsu",
-    "why": "a second account of his work"
+    "why": "a second account of his work",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false
