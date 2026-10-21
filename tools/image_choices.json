@@ -29317,30 +29317,52 @@
   "category": "Category:War Memorial Opera House",
   "add": [
    "File:War Memorial Opera House (San Francisco).JPG"
+  ],
+  "skip": [
+   "File:Christmas Tree at the War Memorial Opera House, San Francisco, 2019.jpg",
+   "File:Opera House Tricolour (23146921521).jpg"
   ]
  },
  "ainola": {
   "category": "Category:Ainola",
   "add": [
    "File:Ainola yard.jpg"
+  ],
+  "skip": [
+   "File:Ainola, yläkerran työhuone 2002 (RHO125172-27).jpg",
+   "File:Ainola, sali 2002 (RHO125172-71).jpg",
+   "File:Jean-Sibelius-1939a.jpg"
   ]
  },
  "museum-of-human-evolution": {
   "category": "Category:Museo de la Evolución Humana",
   "add": [
    "File:MEH Frontal.JPG"
+  ],
+  "skip": [
+   "File:Fuente museo evolución burgos.jpg",
+   "File:Museo de la Evolución Humana (34624735764).jpg",
+   "File:Apollo 11 Cave painting 1.jpg"
   ]
  },
  "museum-of-art-architecture-and-technology": {
   "category": "Category:Museu de Arte, Arquitetura e Tecnologia",
   "add": [
    "File:The MAAT (34943440096).jpg"
+  ],
+  "skip": [
+   "File:Over Flow (2018) - Tadashi Kawamata (1953).jpg",
+   "File:Deya at Museum of Art, Architecture and Technology - MAAT (27956681707).jpg"
   ]
  },
  "karaite-kenesa-kyiv": {
   "category": "Category:Karaite kenesa in Kyiv",
   "add": [
    "File:Караїмська Кенаса в Києві.jpg"
+  ],
+  "skip": [
+   "File:Ярославів Вал вул., 7 DSC 5403.JPG",
+   "File:Kenesa in Kiev interior 2.jpg"
   ]
  },
  "aschanska-villa": {
@@ -29356,6 +29378,10 @@
    "File:Didrichsenin taidemuseo.jpg",
    "File:Didrichsen Art Museum 04.JPG",
    "File:Didrichsen Art Museum 01.JPG"
+  ],
+  "skip": [
+   "File:2018 Didrichsen Art Museum, Helsinki (26906901181).jpg",
+   "File:Akseli Gallen-Kallela - Pilvi tornit (1904).jpg"
   ]
  },
  "air-force-command-building-belgrade": {
@@ -29385,6 +29411,9 @@
    "File:Aichi Prefectural Ceramic Museum-01.jpg",
    "File:Aichi Prefectural Ceramic Museum.JPG",
    "File:Aichi Prefectural Ceramic Museum01-r.jpg"
+  ],
+  "skip": [
+   "File:Kiseto style glaze.jpg"
   ]
  },
  "seville-public-library": {
@@ -29392,6 +29421,9 @@
   "add": [
    "File:Biblioteca publica sevilla 001.jpg",
    "File:Biblioteca Publica Sevilla.jpg"
+  ],
+  "skip": [
+   "File:Infanta Elena.jpg"
   ]
  },
  "altes-stadthaus-berlin": {
@@ -29399,12 +29431,18 @@
   "add": [
    "File:Altes Stadthaus, Westseite, Berlin-Mitte, 160213, ako.jpg",
    "File:Altes Stadthaus, Berlin, 160213, ako.jpg"
+  ],
+  "skip": [
+   "File:20240815 View cupola Berlin Cathedral 02.jpg"
   ]
  },
  "forum-groningen": {
   "category": "Category:Groninger Forum",
   "add": [
    "File:Forum-Groningen1-Kirschbluete-2026-04-msu7-3811.jpg",
+   "File:Groninger Forum-2026-04-msu2-3811.jpg"
+  ],
+  "skip": [
    "File:Groninger Forum-2026-04-msu2-3811.jpg"
   ]
  },
@@ -29413,6 +29451,10 @@
   "add": [
    "File:Pagode de Vincennes, January 2013.jpg",
    "File:Grande Pagode du Bois de Vincennes @ Lac Daumesnil @ Bois de Vincennes @ Paris (23620289130).jpg"
+  ],
+  "skip": [
+   "File:Pagode bouddhique Vincennes.jpg",
+   "File:Moine tibétain réalisant un mandala, Pagode du bois de Vincennes, 2013.jpg"
   ]
  },
  "d-coque": {
@@ -29433,6 +29475,9 @@
   "add": [
    "File:Saskatchewan Legislative Building - Regina.jpg",
    "File:Saskatchewan Legislative Assembly - Regina (30194708148).jpg"
+  ],
+  "skip": [
+   "File:King George VI and Queen Elizabeth arrive at the Saskatchewan Provincial Legislature... Le roi George VI et la reine Elizabeth arrivent à l’Assemblée législative de la Saskatchewan... (34022285310).jpg"
   ]
  },
  "prinkipo-greek-orthodox-orphanage": {
@@ -29447,13 +29492,21 @@
   "add": [
    "File:Neuer Marstall Berlin.jpg",
    "File:Berlin-Marstall-Musikhochschule Hanns Eisler-02-2017-gje.jpg"
+  ],
+  "skip": [
+   "File:Germany-00077 - GDR Bronze (30326438295).jpg"
   ]
  },
  "nuevos-ministerios": {
   "category": "Category:Nuevos Ministerios",
   "add": [
+   "File:Madrid 00 41 42 102000.jpeg",
    "File:Bill Aplin Madrid, Spain in June 1967 (29935780424).jpg",
    "File:Minisztérium épületrészlet - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Vaca - Nuevos Ministerios - Madrid 01.jpg",
+   "File:Plan de Cercanías Madrid.jpg"
   ]
  },
  "35-east-wacker": {
@@ -29468,6 +29521,9 @@
   "add": [
    "File:Diplomatische Gesandtschaft Berlin.jpg",
    "File:Legation of Yugoslavia, Berlin (P1031509).jpg"
+  ],
+  "skip": [
+   "File:Karte Botschaftsviertel Planung 1938-Botschaft YU.png"
   ]
  },
  "headquarters-of-the-bank-of-the-argentine-nation": {
@@ -29475,12 +29531,19 @@
   "add": [
    "File:Banco de la Nación.jpg",
    "File:2018-10-19 Plaza de Mayo, Buenos Aires, Argentina (Martin Rulsch) 05.jpg"
+  ],
+  "skip": [
+   "File:Banco Nacion.jpg"
   ]
  },
  "rosecliff": {
   "category": "Category:Rosecliff",
   "add": [
    "File:Rosecliff (1308020662).jpg"
+  ],
+  "skip": [
+   "File:Newport Flower Show 2011 IMG 1740.jpg",
+   "File:Newport Flower Show 2011 IMG 1741.jpg"
   ]
  },
  "fox-theatre-detroit": {
@@ -29488,6 +29551,9 @@
   "add": [
    "File:Detroit August 2025 30 (Fox Theatre).jpg",
    "File:Detroit December 2015 13 (Fox Theatre).jpg"
+  ],
+  "skip": [
+   "File:Dem Prez Debate 0104 (48428000316).jpg"
   ]
  },
  "hansahochhaus": {
@@ -29532,6 +29598,9 @@
    "File:Big House on Liteyny prospect in Saint Petersburg.jpg",
    "File:SPb Liteyny4 019 8223.jpg",
    "File:Tsentralny District, St Petersburg, Russia - panoramio (268).jpg"
+  ],
+  "skip": [
+   "File:Люк в плену у ФСБ 05.jpg"
   ]
  },
  "rosenbad": {
@@ -29539,6 +29608,10 @@
   "add": [
    "File:Rosenbad 2006.jpg",
    "File:Strömgatan January 2026 01.jpg"
+  ],
+  "skip": [
+   "File:20180626 GamlaStan 8088 (48413019747).jpg",
+   "File:20180626 GamlaStan 8090 (48412869211).jpg"
   ]
  },
  "leighton-house": {
@@ -29546,6 +29619,11 @@
   "add": [
    "File:Casa de Leighton, Londres, Inglaterra, 2022-11-26, DD 40.jpg",
    "File:Leighton House Museum.jpg"
+  ],
+  "skip": [
+   "File:A Moment of Peril, by Thomas Brock, 1880, bronze - Leighton House Museum - London - DSC01772.jpg",
+   "File:Back yard - Leighton House Museum - London - DSC01771.jpg",
+   "File:Frederic Leighton - Cimabue's Celebrated Madonna (color sketch).jpg"
   ]
  },
  "palau-nacional": {
@@ -29553,6 +29631,9 @@
   "add": [
    "File:Palau Nacional, Barcelona.jpg",
    "File:(Barcelona) Palau Nacional - National Museum of Art of Catalunya.jpg"
+  ],
+  "skip": [
+   "File:Barcelona - 179 (3466063273).jpg"
   ]
  },
  "gothenburg-city-theatre": {
@@ -29561,6 +29642,10 @@
    "File:At Göteborg 2026 0138.jpg",
    "File:Göteborgs stadsteater.jpg",
    "File:At Göteborg 2026 0139.jpg"
+  ],
+  "skip": [
+   "File:Gothenburg City Theatre at night.jpg",
+   "File:Poseidon statue in Gothenburg by night.jpg"
   ]
  },
  "ethnographic-museum-zagreb": {
@@ -29577,12 +29662,19 @@
    "File:Perelman-Performing-Arts-Center-Street-03.jpg",
    "File:Performing arts center October 1st 2022.jpg",
    "File:Perelman Performing Arts Center (55313844031).jpg"
+  ],
+  "skip": [
+   "File:Performing arts center at the WTC.jpg",
+   "File:World Trade Center photomontage, aerial view.jpg"
   ]
  },
  "russian-army-theatre": {
   "category": "Category:Russian Army Theatre",
   "add": [
    "File:Wiki Red Army Theater Moscow.jpg"
+  ],
+  "skip": [
+   "File:Alexandrov's Ensemble in 1957.jpg"
   ]
  },
  "musee-d-art-contemporain-du-val-de-marne": {
@@ -29590,12 +29682,21 @@
   "add": [
    "File:Vitry - Musee d'art contemporain 00.jpg",
    "File:Le MAC VAL de Vitry sur Seine (43776159612).jpg"
+  ],
+  "skip": [
+   "File:Le MAC VAL de Vitry sur Seine (43093938174).jpg",
+   "File:Le MAC-VAL (Vitry-sur-Seine) (14657345967).jpg"
   ]
  },
  "tsiolkovsky-state-museum-of-the-history-of-cosmonautics": {
   "category": "Category:Tsiolkovsky State Museum of the History of Cosmonautics",
   "add": [
    "File:Space museum (Kaluga).jpg"
+  ],
+  "skip": [
+   "File:Kaluga - Tsiolkovsky Park and Museum (03).jpg",
+   "File:Kaluga - Tsiolkovsky Park and Museum (11).jpg",
+   "File:Kaluga Wikiexpedition (2016-06-11) 0119.jpg"
   ]
  },
  "allen-memorial-art-museum": {
@@ -29609,6 +29710,11 @@
   "category": "Category:Kramářova vila",
   "add": [
    "File:Praha, Kramářova vila, severní pohled.jpg"
+  ],
+  "skip": [
+   "File:2018-08-13 CZ Praha 01, Vltava, Muzeum Franze Kafky, Mánesův most, Luznice 32101623, Kotva 32103926 (50051657802).jpg",
+   "File:2018-08-13 CZ Praha 01, Vltava, Muzeum Franze Kafky, Mánesův most, Luznice 32101623, Kotva 32103926 (50051658087).jpg",
+   "File:Kramarova vila v pohledu z Novomestske radnice.JPG"
   ]
  },
  "hospital-clinico-san-carlos": {
@@ -29617,6 +29723,9 @@
    "File:Hospital Clínico San Carlos (Madrid) 02.jpg",
    "File:Hospital Clínico San Carlos (Madrid) 03.jpg",
    "File:Hospital Clínico San Carlos (Madrid) 01.jpg"
+  ],
+  "skip": [
+   "File:(Chamberí) Madrid - Aerial photograph (cropped).jpg"
   ]
  },
  "sven-harry-s-art-museum": {
@@ -29625,6 +29734,9 @@
    "File:Sven Harrys konstmuseum 2011a.jpg",
    "File:Sven-Harrys (3).JPG",
    "File:Sven-Harrys (4).JPG"
+  ],
+  "skip": [
+   "File:Selfie in a branch mirror.jpg"
   ]
  },
  "new-city-hall-prague": {
@@ -29632,6 +29744,9 @@
   "add": [
    "File:Praha Nova radnice.jpg",
    "File:Prague Old Town 2021 42.jpg"
+  ],
+  "skip": [
+   "File:20.12.22 Prague 22 (52576577648).jpg"
   ]
  },
  "tournay-abbey": {
@@ -29670,6 +29785,10 @@
    "File:Opera nationala romana cluj - teatrul national lucian blaga - 2019iunie.jpg",
    "File:Cluj-Napoca National Theatre in 2014.jpg",
    "File:Teatrul Național Român.jpg"
+  ],
+  "skip": [
+   "File:Teatrul national Cluj Napoca.JPG",
+   "File:The Romanian Opera in Cluj-Napoca, Transylvania, Romania at night.jpg"
   ]
  },
  "adam-mickiewicz-theatre-cieszyn": {
@@ -29684,6 +29803,12 @@
   "add": [
    "File:Science centre Heureka in Tikkurila, Vantaa, Finland, 2022 June.jpg",
    "File:Heureka.jpg"
+  ],
+  "skip": [
+   "File:DavidJonesFakePerpetual.jpg",
+   "File:Science centre Heureka in Tikkurila, Vantaa, Finland, 2004.jpg",
+   "File:Heureka bridge in Tikkurila, Vantaa, Finland, 2004.jpg",
+   "File:Arctodus simus model.jpg"
   ]
  },
  "historical-museum-of-the-palatinate": {
@@ -29692,6 +29817,9 @@
    "File:Speyer BW 2.JPG",
    "File:Speyer, Museum der Pfalz.JPG",
    "File:Speyer 1987 (10) Historisches Museum (51240150699).jpg"
+  ],
+  "skip": [
+   "File:Speyer Historisches Museum der Pfalz Türgriff 029.jpg"
   ]
  },
  "new-mexico-museum-of-art": {
@@ -29700,6 +29828,9 @@
    "File:Santa Fe, New Mexico, USA 5-2024 25.jpg",
    "File:Santa Fe, New Mexico, USA - panoramio (84).jpg",
    "File:Newmexico museumofart.jpg"
+  ],
+  "skip": [
+   "File:20240907 1643 Sky Railway, Santa Fe, New Mexico.jpg"
   ]
  },
  "hawaii-state-capitol": {
@@ -29716,6 +29847,10 @@
    "File:Desert View Tower, GCNP, AZ 20110810 1.jpg",
    "File:Grand Canyon Desert View Watchtower 17x11.jpg",
    "File:Grand Canyon National Park-Arizona1456.JPG"
+  ],
+  "skip": [
+   "File:Atalaya de Desert View-2022 (2).jpg",
+   "File:08477 Grand Canyon Historic- Model of Desert View Watchtower c.1932 (5898100440).jpg"
   ]
  },
  "painted-desert-inn": {
@@ -29731,12 +29866,22 @@
   "add": [
    "File:Old Faithful Inn main facade.jpg",
    "File:First light on Old Faithful Inn (52213506762).jpg"
+  ],
+  "skip": [
+   "File:First light on Old Faithful and Old Faithful Inn (52214528298).jpg",
+   "File:White bus Yellowstone YNP1.jpg"
   ]
  },
  "013": {
   "category": "Category:013, Tilburg",
   "add": [
    "File:Tilburg poppodium 013.jpg"
+  ],
+  "skip": [
+   "File:Kelli Scarr - 2009.jpg",
+   "File:SonataArctica 25112007Tilburg.JPG",
+   "File:Opeth at 013 Tilburg 2016 (1).jpg",
+   "File:Dave Brock.jpg"
   ]
  },
  "museum-yamato-bunkakan": {
@@ -29745,6 +29890,10 @@
    "File:Yamato Bunkakan02nt3200.jpg",
    "File:Yamato Bunkakan01s4592.jpg",
    "File:Yamato Bunkakan05n4592.jpg"
+  ],
+  "skip": [
+   "File:Casket decorated with fan paintings Ogata Korin.jpg",
+   "File:Mao I 001.jpg"
   ]
  },
  "urasoe-art-museum": {
@@ -29754,6 +29903,10 @@
    "File:Urasoe Art Museum01n3104.jpg",
    "File:Urasoe Art Museum07n3104.jpg",
    "File:Urasoe Art Museum06n3104.jpg"
+  ],
+  "skip": [
+   "File:Eight Views of Ryukyu by Hokusai - proof of Bamboo Hedge at Kumemura (Urasoe Art Museum).jpg",
+   "File:Eight Views of Ryukyu by Hokusai - proof of Banana Groves at Nakashima (Urasoe Art Museum).jpg"
   ]
  },
  "vatroslav-lisinski-concert-hall": {
@@ -29762,6 +29915,11 @@
    "File:Koncertna dvorana Vatroslav Lisinski.jpg",
    "File:Koncertna dvorana-Zagreb.JPG",
    "File:Vatroslav Lisinski Concert Hall.jpg"
+  ],
+  "skip": [
+   "File:Angela Davis in Q&A.jpeg",
+   "File:Marko Perković Thompson Vatroslav Lisinski 7 rujna 2008 4.jpg",
+   "File:Ivanka Boljkovac koncert Križ nek ti sačuva ime Vatroslav Lisinski 7 rujna 2008.jpg"
   ]
  },
  "janacek-theatre": {
@@ -29770,6 +29928,11 @@
    "File:Brno, Janáčkovo divadlo, park před divadlem (6913).jpg",
    "File:Janackovo Divadlo Brno 2009.JPG",
    "File:Janáčkovo divadlo - park 03.jpg"
+  ],
+  "skip": [
+   "File:Janáčkovo divadlo - park 03.jpg",
+   "File:Brno, Janáčkovo divadlo, interiér (1).jpg",
+   "File:Brno, Janáčkovo divadlo, interiér (2).jpg"
   ]
  },
  "house-on-the-embankment": {
@@ -29778,6 +29941,10 @@
    "File:Estrade Theatre (2023-03-27) 03.jpg",
    "File:Комплекс «Дома правительства».jpg",
    "File:Moscow. Moskva river. House on the Embankment P5162717 2600.jpg"
+  ],
+  "skip": [
+   "File:2026-08-22 Construction of Bolotnaya Embankment footbridge 03.jpg",
+   "File:2026-08-22 Construction of Bolotnaya Embankment footbridge 04.jpg"
   ]
  },
  "de-doelen": {
@@ -29786,6 +29953,10 @@
    "File:Rotterdam de doelen.jpg",
    "File:De Doelen Rotterdam I73515 - kopie.jpg",
    "File:GraphyArchyPocket . Wikipedia 00068.jpg"
+  ],
+  "skip": [
+   "File:Volksdansers op het Schouwburgplein bij De Doelen tijdens de Manifestatie C70 1970 2.jpg",
+   "File:Maquette nieuw Concertgebouw te Rotterdam, Bestanddeelnr 910-9715.jpg"
   ]
  },
  "palacio-de-congresos-madrid": {
@@ -29800,6 +29971,12 @@
   "category": "Category:Siida",
   "add": [
    "File:SIIDA Inari, Suomi Finland 2013-03-10 001.jpg"
+  ],
+  "skip": [
+   "File:Sami reindeer fur shoes, Siida Museum, Inari, Finland (1) (36545928621).jpg",
+   "File:Bear trap, Siida Museum, Inari, Finland (1) (36289274380).jpg",
+   "File:Bear trap, Siida Museum, Inari, Finland (3) (36515528192).jpg",
+   "File:Sami Parliament speaker's club.jpg"
   ]
  },
  "jewish-museum-munich": {
@@ -29808,6 +29985,10 @@
    "File:München Jüdisches Zentrum und Jüdisches Museum.jpg",
    "File:Jüdisches Museum München 7437.jpg",
    "File:Chanukkia-st-jakobs-platz-2019.jpg"
+  ],
+  "skip": [
+   "File:RFERL-Ausstellung Jüdisches Museum München, 2.jpeg",
+   "File:REFRL-Ausstellung Stadtmuseum München, Modell Oettingenstr 67, 1.jpeg"
   ]
  },
  "bush-house": {
@@ -29839,6 +30020,10 @@
    "File:Kurashiki Ohara Art Museum02nt3200.jpg",
    "File:Kurashiki Ohara Art Museum03n4592.jpg",
    "File:211203 Ohara Museum of Art Kurashiki Okayama pref Japan01s3.jpg"
+  ],
+  "skip": [
+   "File:Edvard Munch - Madonna - Google Art Project (495100).jpg",
+   "File:KojimaTorajirō 1912 Sleeping Young Model.png"
   ]
  }
 }
