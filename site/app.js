@@ -1171,11 +1171,11 @@
   const phone = () => matchMedia('(max-width: 820px)').matches;
   function show(open) {
     pop.hidden = !open; veil.hidden = !open || !phone(); btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-    if (open) { pop.querySelector('.ai-go').focus({ preventScroll: true }); if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI jury presentation generator'); }
+    if (open) { pop.querySelector('.ai-go').focus({ preventScroll: true }); if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI Jury Presentation Generator'); }
   }
   btn.addEventListener('click', () => {
     if (phone()) return show(pop.hidden);
-    if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI jury presentation generator');
+    if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI Jury Presentation Generator');
     setTimeout(() => { location.href = pop.querySelector('.ai-go').href; }, 150); // a moment for the count to leave
   });
   pop.querySelector('.ai-go').addEventListener('click', () => { if (window.fgaEvent) fgaEvent('studio/ai-link', 'AI panel: See FGA Studio'); });
