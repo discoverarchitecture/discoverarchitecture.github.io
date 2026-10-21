@@ -1,0 +1,22 @@
+/* ---------- Salk drawings, round 2: a studio line system. Colours from variables so each board style recolours them ---------- */
+.pap { fill: var(--d-paper, #fff); }
+.ln0, .ln1, .ln2, .ln3 { stroke: var(--d-ink, #1a1a1a); fill: none; stroke-linecap: butt; stroke-linejoin: miter; }
+.ln0 { stroke-width: .35; } .ln1 { stroke-width: .7; } .ln2 { stroke-width: 1.2; } .ln3 { stroke-width: 2.1; }
+.jt { stroke: var(--d-joint, #C9C6BF); }
+.dash { stroke-dasharray: 3 3; }
+.po { fill: var(--d-ink, #1a1a1a); } .fig { fill: var(--d-ink, #1a1a1a); }
+.g1 { fill: var(--d-g1, #F1F0EC); } .g2 { fill: var(--d-g2, #E2E0DA); } .g3 { fill: var(--d-g3, #CFCCC4); }
+.sea { fill: var(--d-sea, #E4E9EB); } .wt { fill: var(--d-water, #D3DFE5); }
+.gnd { fill: url(#h45); } .hl { stroke: var(--d-hatch, #B9B6AF); stroke-width: .5; } .hl2 { stroke: var(--d-red, #D7262E); stroke-width: .5; }
+.lab { fill: var(--d-lab, #fff); } .plz { fill: var(--d-plaza, #FBFAF7); } .twr { fill: var(--d-g2, #E2E0DA); } .teak { fill: var(--d-g3, #CFCCC4); }
+.svcf { fill: var(--d-g1, #F1F0EC); }
+.bt { fill: var(--d-top, #fff); } .bs { fill: var(--d-south, #E2E0DA); } .be { fill: var(--d-east, #CFCCC4); }
+.svct { fill: var(--d-redsoft, #F8D9D9); } .svcs { fill: var(--d-redmid, #EFB9B9); } .svce { fill: var(--d-redmid2, #E69E9E); }
+.accl { stroke: var(--d-red, #D7262E); }
+.acc { stroke: var(--d-red, #D7262E); stroke-width: 1.6; fill: none; } .acc.ln0 { stroke-width: .6; } .acc.sun { stroke-width: 1.1; } .accf { fill: var(--d-red, #D7262E); }
+.acs { fill: var(--d-redsoft, rgba(215,38,46,.14)); }
+.tx { font: 500 9px 'Inter', 'Helvetica Neue', Arial, sans-serif; letter-spacing: .14em; fill: var(--d-ink, #1a1a1a); } .tx.s { font-size: 7.5px; } .ax .tx { font-size: 13px; letter-spacing: .12em; } .sp .tx { font-size: 11px; } .sp .tx.s { font-size: 9px; }
+/* the studio's diagram layers */
+.dg { stroke: var(--d-red, #D7262E); stroke-width: 2.4; fill: none; stroke-dasharray: 7 5; } .dg.sun { stroke-dasharray: none; }
+.dgf { fill: var(--d-redsoft, rgba(215,38,46,.12)); } .dgf2 { fill: var(--d-redmid, rgba(215,38,46,.38)); }
+.dpt { fill: var(--d-red, #D7262E); stroke: #fff; stroke-width: 2; }

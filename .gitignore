@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 tools/review.html
+tools/studio/web/
+tools/studio/salk2.json

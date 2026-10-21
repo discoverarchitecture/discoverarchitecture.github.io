@@ -1161,3 +1161,21 @@
   if (h0) openAny(h0.id, h0.surprise, true); else openFromHash();
   state.booting = false;
 })();
+
+// The AI jury presentation generator: the button in the name panel opens a small panel (a sheet on a phone) that leads to
+// FGA Studio (/studio/). Opening it is counted as the event studio/ai-button.
+(function () {
+  const btn = document.getElementById('aiBtn'), pop = document.getElementById('aiPop'), veil = document.getElementById('aiVeil');
+  if (!btn || !pop) return;
+  const phone = () => matchMedia('(max-width: 820px)').matches;
+  function show(open) {
+    pop.hidden = !open; veil.hidden = !open || !phone(); btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    if (open) { pop.querySelector('.ai-go').focus({ preventScroll: true }); if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI jury presentation generator'); }
+  }
+  btn.addEventListener('click', () => show(pop.hidden));
+  document.getElementById('aiClose').addEventListener('click', () => { show(false); btn.focus(); });
+  veil.addEventListener('click', () => show(false));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden) { show(false); btn.focus(); } });
+  document.addEventListener('click', e => { if (!pop.hidden && !pop.contains(e.target) && !btn.contains(e.target)) show(false); });
+  addEventListener('scroll', () => { if (!pop.hidden && !phone() && document.body.classList.contains('slim')) show(false); }, { passive: true });
+})();
