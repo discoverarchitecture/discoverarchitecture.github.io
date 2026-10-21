@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-20T21:32:42+00:00",
+ "fetched_at": "2026-10-21T04:33:00+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 382,
+ "visits_30d": 397,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 111,
+     "count": 112,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -68,6 +68,14 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113367278,
+     "path": "/buildings/petrobras-headquarters-edise",
+     "event": false,
+     "title": "Petrobras Headquarters (Edise) by Roberto Lu\u00eds Gandolfi",
      "max": 1
     },
     {
@@ -136,10 +144,34 @@
     },
     {
      "count": 2,
+     "path_id": 112487700,
+     "path": "/buildings/nira-house",
+     "event": false,
+     "title": "Nira House (Leek House) \u2014 Terunobu Fujimori, 1997: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112481251,
      "path": "/buildings/bouca-housing",
      "event": false,
      "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112478671,
+     "path": "/buildings/rock-and-roll-hall-of-fame",
+     "event": false,
+     "title": "Rock and Roll Hall of Fame \u2014 I. M. Pei, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112446310,
+     "path": "/buildings/philharmonie-de-paris",
+     "event": false,
+     "title": "Philharmonie de Paris \u2014 Ateliers Jean Nouvel, 2015",
      "max": 1
     },
     {
@@ -228,6 +260,78 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113367716,
+     "path": "/buildings/hong-kong-cultural-centre",
+     "event": false,
+     "title": "Hong Kong Cultural Centre by Jos\u00e9 Lei: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113367616,
+     "path": "/buildings/burj-al-arab",
+     "event": false,
+     "title": "Burj Al Arab by Tom Wright: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113366517,
+     "path": "/buildings/akino-fuku-art-museum",
+     "event": false,
+     "title": "Akino Fuku Art Museum by Terunobu Fujimori: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113366503,
+     "path": "/buildings/lamune-onsen",
+     "event": false,
+     "title": "Lamune Onsen by Terunobu Fujimori: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113365646,
+     "path": "/buildings/manila-cathedral",
+     "event": false,
+     "title": "Manila Cathedral by Fernando Ocampo: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113364299,
+     "path": "/buildings/anna-centenary-library",
+     "event": false,
+     "title": "Anna Centenary Library by C. N. Raghavendran: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113362426,
+     "path": "/buildings/castello-di-rivoli",
+     "event": false,
+     "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113349287,
+     "path": "/buildings/palacio-lapido",
+     "event": false,
+     "title": "Edificio Lapido (Palacio Lapido) by Juan Aubriot: photos",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113341409,
+     "path": "/buildings/sines-arts-centre",
+     "event": false,
+     "title": "Centro de Artes de Sines by Aires Mateus: photos",
      "max": 1
     },
     {
@@ -701,113 +805,9 @@
      "event": true,
      "title": "Centre Point",
      "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113069564,
-     "path": "/buildings/centre-point-london",
-     "event": false,
-     "title": "Centre Point \u2014 George Marsh (R. Seifert and Partners), 1966",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113066354,
-     "path": "/buildings/galleria-department-store-seoul",
-     "event": false,
-     "title": "Galleria Department Store (West) \u2014 UNStudio, 2004: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113061457,
-     "path": "/buildings/collegio-del-colle-urbino",
-     "event": false,
-     "title": "Collegio del Colle \u2014 Giancarlo De Carlo, 1962: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113057618,
-     "path": "/buildings/osaka-international-convention-center",
-     "event": false,
-     "title": "Osaka International Convention Center (Grand Cube Osaka)",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113057238,
-     "path": "/buildings/palacio-de-aguas-corrientes",
-     "event": false,
-     "title": "Palacio de Aguas Corrientes \u2014 Olaf Boye, 1894: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113042986,
-     "path": "/buildings/skovshoved-petrol-station",
-     "event": false,
-     "title": "Skovshoved Petrol Station \u2014 Arne Jacobsen, 1936: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113038041,
-     "path": "/buildings/nantes-school-of-architecture",
-     "event": false,
-     "title": "Nantes School of Architecture \u2014 Lacaton & Vassal, 2009",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113034815,
-     "path": "/buildings/baker-house",
-     "event": false,
-     "title": "Baker House \u2014 Alvar Aalto, 1949: photos, plans & sections",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113024588,
-     "path": "building/gobierno-civil-tarragona",
-     "event": true,
-     "title": "Gobierno Civil de Tarragona",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113023302,
-     "path": "/buildings/gobierno-civil-tarragona",
-     "event": false,
-     "title": "Gobierno Civil de Tarragona \u2014 Alejandro de la Sota, 1964",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113022922,
-     "path": "/buildings/acropolium-of-carthage",
-     "event": false,
-     "title": "Acropolium of Carthage (Cathedral of Saint Louis), 1890",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113019775,
-     "path": "/buildings/most-snp-bratislava",
-     "event": false,
-     "title": "Most SNP (UFO Bridge), 1972: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113012576,
-     "path": "/buildings/remai-modern",
-     "event": false,
-     "title": "Remai Modern, 2017: photos, plans & sections",
-     "max": 1
     }
    ],
-   "total": 255,
+   "total": 260,
    "more": true
   },
   "referrers": {
@@ -815,12 +815,12 @@
     {
      "id": "Google",
      "name": "Google",
-     "count": 161,
+     "count": 168,
      "ref_scheme": "g"
     },
     {
      "name": "",
-     "count": 111,
+     "count": 116,
      "ref_scheme": "o"
     },
     {
@@ -854,15 +854,15 @@
      "ref_scheme": "h"
     },
     {
-     "id": "youtube`",
-     "name": "youtube`",
+     "id": "chatgpt.com",
+     "name": "chatgpt.com",
      "count": 5,
      "ref_scheme": "c"
     },
     {
-     "id": "chatgpt.com",
-     "name": "chatgpt.com",
-     "count": 4,
+     "id": "youtube`",
+     "name": "youtube`",
+     "count": 5,
      "ref_scheme": "c"
     },
     {
@@ -885,12 +885,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 248
+     "count": 260
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 120
+     "count": 123
     },
     {
      "id": "Firefox",
@@ -905,12 +905,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 162
+     "count": 169
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 87
+     "count": 90
     },
     {
      "id": "macOS",
@@ -920,12 +920,12 @@
     {
      "id": "Android",
      "name": "Android",
-     "count": 42
+     "count": 43
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 39
+     "count": 43
     },
     {
      "id": "Chrome OS",
@@ -940,12 +940,12 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 95
+     "count": 100
     },
     {
      "id": "IN",
      "name": "India",
-     "count": 78
+     "count": 79
     },
     {
      "id": "DE",
@@ -955,12 +955,12 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 20
+     "count": 23
     },
     {
      "id": "CA",
      "name": "Canada",
-     "count": 14
+     "count": 15
     },
     {
      "id": "ES",
@@ -980,7 +980,7 @@
     {
      "id": "IT",
      "name": "Italy",
-     "count": 10
+     "count": 11
     },
     {
      "id": "TR",
@@ -1033,6 +1033,11 @@
      "count": 3
     },
     {
+     "id": "PH",
+     "name": "Philippines",
+     "count": 3
+    },
+    {
      "id": "PK",
      "name": "Pakistan",
      "count": 3
@@ -1048,6 +1053,11 @@
      "count": 3
     },
     {
+     "id": "VN",
+     "name": "Vietnam",
+     "count": 3
+    },
+    {
      "id": "AT",
      "name": "Austria",
      "count": 2
@@ -1058,13 +1068,13 @@
      "count": 2
     },
     {
-     "id": "KR",
-     "name": "South Korea",
+     "id": "HK",
+     "name": "Hong Kong",
      "count": 2
     },
     {
-     "id": "PH",
-     "name": "Philippines",
+     "id": "KR",
+     "name": "South Korea",
      "count": 2
     },
     {
@@ -1115,11 +1125,6 @@
     {
      "id": "GH",
      "name": "Ghana",
-     "count": 1
-    },
-    {
-     "id": "HK",
-     "name": "Hong Kong",
      "count": 1
     },
     {
@@ -1188,11 +1193,6 @@
      "count": 1
     },
     {
-     "id": "VN",
-     "name": "Vietnam",
-     "count": 1
-    },
-    {
      "id": "XK",
      "name": "Kosovo",
      "count": 1
@@ -1205,17 +1205,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 121
+     "count": 125
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 25
+     "count": 26
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 216
+     "count": 226
     },
     {
      "id": "desktophd",
@@ -1235,7 +1235,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 382
+     "count": 397
     }
    ],
    "more": false
