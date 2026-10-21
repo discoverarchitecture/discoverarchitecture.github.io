@@ -40,10 +40,14 @@
   source; 4 are building attributions confirmed on Wikidata. Unsourced facts: 0. Links: 113 kept, all checked
   21 Oct 2026 (two check runs).
 
+- `results/bios_10.json` (21 Oct 2026), the last 6 entries, ranks 251–256. Bios 179–189 words. 20 facts, every one
+  with a source. Unsourced facts: 0. Links: 22 kept, all checked 21 Oct 2026 (two check runs). With this file every
+  entry in `todo.json` has a write-up, apart from the three listed under Skipped.
+
 ## Skipped
 - **Joseon builders** (rank 218), marked `"skip": true`: not an architect or practice but the wall's label for the
-  anonymous builders of Jongmyo Shrine, Byeongsan Seowon and Janggyeong Panjeon. Every other architect in ranks
-  1–250 is a real person or practice with enough sources to write about.
+  anonymous builders of Jongmyo Shrine, Byeongsan Seowon and Janggyeong Panjeon. Every other entry in ranks
+  1–256 is a real person or practice with enough sources to write about.
 - Glenn Murcutt (rank 202) was written in bios_01 and is not repeated.
 - Jorn Utzon (rank 216) is Jørn Utzon (bios_03) under a second spelling on the wall; not repeated.
 - Snohetta (rank 172) is left out as a duplicate: it is Snøhetta (bios_04) under a second spelling on the wall. The data
@@ -78,6 +82,22 @@
   covers the wall buildings filed under "Jørn". The data side may want to merge them.
 - The building-text search that runs when a wall building has no Wikidata item can still pick the wrong article
   (Casa no Butantã got the Pinacoteca's). Every fact was read against the article's title before use.
+
+## Batch 10 notes
+- **Fewer than three wall buildings** because the wall has only these: **Liu Jiakun** (two), **Richard and Su
+  Rogers** and **Robert Venturi** (one each). Each text names all of them.
+- **Werner Düttmann** has no English article; he is written from the German articles on him and on the Brücke-Museum.
+  **Liu Jiakun**'s short English article is filled out from the Pritzker Prize page and articles in Architectural
+  Record and Azure.
+- **Richard and Su Rogers** (no qid; no Wikidata item for the partnership) is written from the articles on Su Rogers,
+  Richard Rogers and 22 Parkside, and covers only the couple's practice of 1967–1970, so it does not repeat the
+  Richard Rogers page.
+- Robert Venturi's Pritzker going to him alone despite a request to include Denise Scott Brown is stated in one
+  sentence.
+- Links left out after the checker: the English articles on the Brücke Museum and the Academy of Arts (Düttmann's name
+  is not on them) and the Rechter Architects site (no answer).
+- Disagreements, noted on the facts: the Mivtachim Sanitarium (1966 in the article, 1969 on the wall), 22 Parkside
+  (1967 for the design, 1969 for the house) and West Village (2014 or 2015). The wall's years are used in the text.
 
 ## Batch 9 notes
 - New in the fetcher: `--pages FILE` saves the text of other pages (any-language Wikipedia through its API, other
