@@ -1,26 +1,34 @@
 {
- "fetched_at": "2026-10-21T11:39:43+00:00",
+ "fetched_at": "2026-10-21T17:05:40+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 412,
+ "visits_30d": 687,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 112,
+     "count": 196,
      "path_id": 112020267,
      "path": "/",
      "event": false,
-     "title": "Find Great Architecture \u00b7 a wall of great buildings for architecture students",
-     "max": 6
+     "title": "Find Great Architecture: buildings for architects & students",
+     "max": 28
     },
     {
-     "count": 10,
+     "count": 31,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
      "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 4
+     "max": 9
+    },
+    {
+     "count": 29,
+     "path_id": 113298212,
+     "path": "map/open",
+     "event": true,
+     "title": "Map opened",
+     "max": 12
     },
     {
      "count": 6,
@@ -29,6 +37,30 @@
      "event": false,
      "title": "Architects A\u2013Z \u00b7 Find Great Architecture",
      "max": 6
+    },
+    {
+     "count": 4,
+     "path_id": 113703716,
+     "path": "/buildings/sagrada-familia",
+     "event": false,
+     "title": "Sagrada Familia by Antoni Gaudi: photos & plans",
+     "max": 2
+    },
+    {
+     "count": 4,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
+     "max": 2
+    },
+    {
+     "count": 4,
+     "path_id": 113672778,
+     "path": "play/daily/2-of-5",
+     "event": true,
+     "title": "Daily five finished: 2 of 5 right",
+     "max": 2
     },
     {
      "count": 4,
@@ -44,6 +76,22 @@
      "path": "/buildings",
      "event": false,
      "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113298244,
+     "path": "building/cept-university",
+     "event": true,
+     "title": "CEPT University",
+     "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113271516,
+     "path": "/buildings/aalto-house-riihitie",
+     "event": false,
+     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
      "max": 1
     },
     {
@@ -80,6 +128,102 @@
     },
     {
      "count": 2,
+     "path_id": 113839314,
+     "path": "building/menara-tabung-haji",
+     "event": true,
+     "title": "Menara Tabung Haji",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113764331,
+     "path": "/buildings/marin-county-civic-center",
+     "event": false,
+     "title": "Marin County Civic Center by Frank Lloyd Wright",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113753482,
+     "path": "play/daily/4-of-5",
+     "event": true,
+     "title": "Daily five finished: 4 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113702040,
+     "path": "book/body-memory-and-architecture",
+     "event": true,
+     "title": "Body, Memory, and Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113701806,
+     "path": "book/experiencing-architecture",
+     "event": true,
+     "title": "Experiencing Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113691164,
+     "path": "/studio",
+     "event": false,
+     "title": "FGA Studio: AI jury board & presentation generator",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113685151,
+     "path": "/buildings/inter-university-seminar-house",
+     "event": false,
+     "title": "Inter-University Seminar House by Takamasa Yoshizaka: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113684801,
+     "path": "building/mill-owners-association-building",
+     "event": true,
+     "title": "Mill Owners' Association Building",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113681186,
+     "path": "building/unknown-soldier-memorial-cairo",
+     "event": true,
+     "title": "Unknown Soldier Memorial, Cairo",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113672688,
+     "path": "building/kingdom-centre",
+     "event": true,
+     "title": "Kingdom Centre",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113671658,
+     "path": "play/daily/3-of-5",
+     "event": true,
+     "title": "Daily five finished: 3 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113494831,
+     "path": "/buildings/toyo-ito-museum-of-architecture",
+     "event": false,
+     "title": "Toyo Ito Museum of Architecture by Toyo Ito: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113367278,
      "path": "/buildings/petrobras-headquarters-edise",
      "event": false,
@@ -88,10 +232,10 @@
     },
     {
      "count": 2,
-     "path_id": 113271516,
-     "path": "/buildings/aalto-house-riihitie",
+     "path_id": 113304414,
+     "path": "/buildings/termas-geometricas",
      "event": false,
-     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
+     "title": "Termas Geom\u00e9tricas by Germ\u00e1n del Sol: photos & plans",
      "max": 1
     },
     {
@@ -116,6 +260,14 @@
      "path": "/buildings/zarya-vostoka-building",
      "event": false,
      "title": "Zarya Vostoka building \u2014 David Chisliev, 1931: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112766381,
+     "path": "/buildings/hooper-house-ii",
+     "event": false,
+     "title": "Hooper House II \u2014 Marcel Breuer, 1959: photos",
      "max": 1
     },
     {
@@ -148,6 +300,14 @@
      "path": "/buildings/nuovo-villaggio-matteotti",
      "event": false,
      "title": "Nuovo Villaggio Matteotti \u2014 Giancarlo De Carlo, 1974: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112542443,
+     "path": "/buildings/st-george-cathedral-addis-ababa",
+     "event": false,
+     "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
      "max": 1
     },
     {
@@ -196,6 +356,14 @@
      "path": "/buildings/st-johann-von-capistran",
      "event": false,
      "title": "St. Johann von Capistran \u2014 Sep Ruf, 1960: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112288700,
+     "path": "/buildings/gosstrakh-apartments",
+     "event": false,
+     "title": "Gosstrakh Apartments \u2014 Moisei Ginzburg, 1927: photos",
      "max": 1
     },
     {
@@ -280,548 +448,380 @@
     },
     {
      "count": 1,
-     "path_id": 113577012,
-     "path": "/buildings/tokyo-metropolitan-teien-art-museum",
+     "path_id": 113912651,
+     "path": "/buildings/kreeger-museum",
      "event": false,
-     "title": "Tokyo Metropolitan Teien Art Museum: photos & plans",
+     "title": "Kreeger Museum by Philip Johnson: photos & key features",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113515180,
-     "path": "/buildings/binoculars-building",
-     "event": false,
-     "title": "Binoculars Building by Frank Gehry with Claes Oldenburg",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113504265,
-     "path": "/buildings/nehru-centre-mumbai",
-     "event": false,
-     "title": "Nehru Centre by I. M. Kadri, 1985: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113494831,
-     "path": "/buildings/toyo-ito-museum-of-architecture",
-     "event": false,
-     "title": "Toyo Ito Museum of Architecture by Toyo Ito: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113472698,
-     "path": "/buildings/hedmark-museum",
-     "event": false,
-     "title": "Hedmark Museum by Sverre Fehn, 1979: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113429707,
-     "path": "/buildings/sciences-library-brown",
-     "event": false,
-     "title": "Sciences Library (SciLi) by Warner: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113414482,
-     "path": "/buildings/graduate-house-university-of-toronto",
-     "event": false,
-     "title": "Graduate House, University of Toronto: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113412013,
-     "path": "/buildings/hiroshi-senju-museum-karuizawa",
-     "event": false,
-     "title": "Hiroshi Senju Museum Karuizawa by Ryue Nishizawa: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113398578,
-     "path": "/buildings/national-capitol-of-colombia",
-     "event": false,
-     "title": "National Capitol of Colombia by Thomas Reed: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113397991,
-     "path": "/buildings/heydar-aliyev-palace",
-     "event": false,
-     "title": "Heydar Aliyev Palace by Alish Lemberanskiy: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113397370,
-     "path": "/buildings/karachi-chamber-of-commerce-building",
-     "event": false,
-     "title": "Karachi Chamber of Commerce and Industry Building: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113367716,
-     "path": "/buildings/hong-kong-cultural-centre",
-     "event": false,
-     "title": "Hong Kong Cultural Centre by Jos\u00e9 Lei: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113367616,
-     "path": "/buildings/burj-al-arab",
-     "event": false,
-     "title": "Burj Al Arab by Tom Wright: photos, plans & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113366517,
-     "path": "/buildings/akino-fuku-art-museum",
-     "event": false,
-     "title": "Akino Fuku Art Museum by Terunobu Fujimori: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113366503,
-     "path": "/buildings/lamune-onsen",
-     "event": false,
-     "title": "Lamune Onsen by Terunobu Fujimori: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113365646,
-     "path": "/buildings/manila-cathedral",
-     "event": false,
-     "title": "Manila Cathedral by Fernando Ocampo: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113364299,
-     "path": "/buildings/anna-centenary-library",
-     "event": false,
-     "title": "Anna Centenary Library by C. N. Raghavendran: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113362426,
-     "path": "/buildings/castello-di-rivoli",
-     "event": false,
-     "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113349287,
-     "path": "/buildings/palacio-lapido",
-     "event": false,
-     "title": "Edificio Lapido (Palacio Lapido) by Juan Aubriot: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113341409,
-     "path": "/buildings/sines-arts-centre",
-     "event": false,
-     "title": "Centro de Artes de Sines by Aires Mateus: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113334851,
-     "path": "building/adgb-trade-union-school",
+     "path_id": 113912140,
+     "path": "building/one57",
      "event": true,
-     "title": "ADGB Trade Union School",
+     "title": "One57",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113334786,
-     "path": "/buildings/madre-museum-naples",
-     "event": false,
-     "title": "MADRE Museum by \u00c1lvaro Siza, 2005: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113334783,
-     "path": "building/st-agnes-berlin",
+     "path_id": 113911781,
+     "path": "building/utzon-house-hellebk",
      "event": true,
-     "title": "St. Agnes (K\u00f6nig Galerie)",
+     "title": "Utzon House, Helleb\u00e6k",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113334682,
-     "path": "building/dz-bank-building",
+     "path_id": 113911541,
+     "path": "building/nanjing-massacre-memorial-hall",
      "event": true,
-     "title": "DZ Bank Building",
+     "title": "Nanjing Massacre Memorial Hall",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113334653,
-     "path": "building/academy-of-arts-hanseatenweg",
+     "path_id": 113910359,
+     "path": "building/art-gallery-of-ontario",
      "event": true,
-     "title": "Academy of Arts, Hanseatenweg",
+     "title": "Art Gallery of Ontario",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113334607,
-     "path": "building/timberline-lodge",
+     "path_id": 113910009,
+     "path": "building/sydney-opera-house",
      "event": true,
-     "title": "Timberline Lodge",
+     "title": "Sydney Opera House",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113334520,
-     "path": "building/nordic-embassies-berlin",
+     "path_id": 113909991,
+     "path": "building/fort-jesus",
      "event": true,
-     "title": "Nordic Embassies",
+     "title": "Fort Jesus",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113334509,
-     "path": "building/maria-regina-martyrum",
+     "path_id": 113909973,
+     "path": "building/erdene-zuu",
      "event": true,
-     "title": "Maria Regina Martyrum",
+     "title": "Erdene Zuu Monastery",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113331576,
-     "path": "/buildings/villa-busk",
+     "path_id": 113908849,
+     "path": "/buildings/cibona-tower-zagreb",
      "event": false,
-     "title": "Villa Busk by Sverre Fehn, 1990: photos & key features",
+     "title": "Cibona Tower by Marijan Hr\u017ei\u0107, 1987: photos & key features",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113328534,
-     "path": "/buildings/nagoya-city-art-museum",
-     "event": false,
-     "title": "Nagoya City Art Museum by Kisho Kurokawa: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113322419,
-     "path": "/buildings/church-of-saint-peter-durazno",
-     "event": false,
-     "title": "Church of Saint Peter, Durazno by Eladio Dieste: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113319783,
-     "path": "/buildings/estacao-da-luz",
-     "event": false,
-     "title": "Esta\u00e7\u00e3o da Luz by Charles Henry Driver: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113318127,
-     "path": "/buildings/stazione-di-venezia-santa-lucia",
-     "event": false,
-     "title": "Stazione di Venezia Santa Lucia by Angiolo Mazzoni: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113308921,
-     "path": "/buildings/roof-house",
-     "event": false,
-     "title": "Roof House by Tezuka Architects: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113307184,
-     "path": "/buildings/marl-town-hall",
-     "event": false,
-     "title": "Marl Town Hall by Van den Broek en Bakema: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113305005,
-     "path": "/buildings/la-borda",
-     "event": false,
-     "title": "La Borda by Lacol, 2018: photos, plans & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113304414,
-     "path": "/buildings/termas-geometricas",
-     "event": false,
-     "title": "Termas Geom\u00e9tricas by Germ\u00e1n del Sol: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113302863,
-     "path": "/buildings/royal-pavilion-brighton",
-     "event": false,
-     "title": "Royal Pavilion by John Nash, 1823: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113298347,
-     "path": "building/prime-tower",
+     "path_id": 113908690,
+     "path": "building/festspielhaus-baden-baden",
      "event": true,
-     "title": "Prime Tower",
+     "title": "Festspielhaus Baden-Baden",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113298244,
-     "path": "building/cept-university",
+     "path_id": 113908688,
+     "path": "building/grand-parc-bordeaux-transformation",
      "event": true,
-     "title": "CEPT University",
+     "title": "Grand Parc Bordeaux Transformation",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113298212,
-     "path": "map/open",
+     "path_id": 113908575,
+     "path": "building/museum-aan-de-stroom-antwerp",
      "event": true,
-     "title": "Map opened",
+     "title": "Museum aan de Stroom (MAS)",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113297412,
-     "path": "/buildings/national-museum-of-the-republic",
-     "event": false,
-     "title": "National Museum of the Republic by Oscar Niemeyer: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113295353,
-     "path": "/buildings/palacio-federal-legislativo",
-     "event": false,
-     "title": "Palacio Federal Legislativo by Luciano Urdaneta Vargas",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113295058,
-     "path": "/buildings/cauchie-house-brussels",
-     "event": false,
-     "title": "Cauchie House by Paul Cauchie: photos, plans & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113288267,
-     "path": "/buildings/grady-gammage-memorial-auditorium",
-     "event": false,
-     "title": "Grady Gammage Memorial Auditorium by Frank Lloyd Wright",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113272631,
-     "path": "/buildings/breuer-house-ii-new-canaan",
-     "event": false,
-     "title": "Breuer House II by Marcel Breuer: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113268668,
-     "path": "/buildings/house-of-wisdom-sharjah",
-     "event": false,
-     "title": "House of Wisdom by Foster + Partners: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113258960,
-     "path": "/buildings/universidad-laboral-gijon",
-     "event": false,
-     "title": "Universidad Laboral de Gij\u00f3n by Luis Moya Blanco: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113252554,
-     "path": "/buildings/independence-memorial-hall",
-     "event": false,
-     "title": "Independence Memorial Hall by Tom Neville Wynne-Jones",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113245715,
-     "path": "/buildings/maison-a-bordeaux",
-     "event": false,
-     "title": "Maison \u00e0 Bordeaux by OMA, 1998: photos, plans & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113233425,
-     "path": "/buildings/entebbe-children-s-surgical-hospital",
-     "event": false,
-     "title": "Entebbe Children's Surgical Hospital by Renzo Piano",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113212614,
-     "path": "/buildings/world-forum-congress-building",
-     "event": false,
-     "title": "World Forum (Congress Building) \u2014 J. J. P. Oud, 1969: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113208682,
-     "path": "/buildings/le-fresnoy",
-     "event": false,
-     "title": "Le Fresnoy \u2014 Bernard Tschumi, 1997: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113204698,
-     "path": "/buildings/deutsches-architekturmuseum",
-     "event": false,
-     "title": "Deutsches Architekturmuseum (DAM), 1984: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113190057,
-     "path": "/buildings/torres-blancas",
-     "event": false,
-     "title": "Torres Blancas \u2014 Francisco Javier S\u00e1enz de Oiza, 1969",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113183120,
-     "path": "/buildings/ocbc-centre",
-     "event": false,
-     "title": "OCBC Centre \u2014 I. M. Pei, 1976: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113177438,
-     "path": "/buildings/yamaguchi-center-for-arts-and-media",
-     "event": false,
-     "title": "Yamaguchi Center for Arts and Media (YCAM), 2003: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113163505,
-     "path": "/buildings/de-rotterdam",
-     "event": false,
-     "title": "De Rotterdam \u2014 OMA, 2013: photos, plans & sections",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113162917,
-     "path": "/buildings/singapore-flyer",
-     "event": false,
-     "title": "Singapore Flyer, 2008: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113148939,
-     "path": "building/state-trading-corporation-building",
+     "path_id": 113908505,
+     "path": "book/atmospheres",
      "event": true,
-     "title": "State Trading Corporation Building",
+     "title": "Atmospheres",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113148887,
-     "path": "/buildings/state-trading-corporation-building",
-     "event": false,
-     "title": "State Trading Corporation Building \u2014 Raj Rewal, 1989: photos",
+     "path_id": 113907904,
+     "path": "building/m",
+     "event": true,
+     "title": "M+",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113146147,
-     "path": "/buildings/bergpolderflat",
-     "event": false,
-     "title": "Bergpolderflat, 1934: photos",
+     "path_id": 113894714,
+     "path": "building/potato-head-beach-club",
+     "event": true,
+     "title": "Potato Head Beach Club",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113137604,
-     "path": "/buildings/perret-tower",
-     "event": false,
-     "title": "Perret Tower \u2014 Auguste Perret, 1925: photos for a case study",
+     "path_id": 113889102,
+     "path": "building/st-anna-duren",
+     "event": true,
+     "title": "St. Anna, D\u00fcren",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113136668,
-     "path": "/buildings/toho-gakuen-school-of-music",
-     "event": false,
-     "title": "Toho Gakuen School of Music \u2014 Nikken Sekkei, 2014: photos",
+     "path_id": 113888982,
+     "path": "building/palazzo-della-civilta-italiana",
+     "event": true,
+     "title": "Palazzo della Civilt\u00e0 Italiana",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113133146,
-     "path": "/buildings/peace-palace-the-hague",
-     "event": false,
-     "title": "Peace Palace \u2014 Louis M. Cordonnier, 1913: photos",
+     "path_id": 113888839,
+     "path": "building/frac-nord-pas-de-calais",
+     "event": true,
+     "title": "FRAC Nord-Pas de Calais",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113129209,
-     "path": "/buildings/ravindra-bharathi",
+     "path_id": 113887165,
+     "path": "building/borobudur",
+     "event": true,
+     "title": "Borobudur",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113887126,
+     "path": "building/banyuwangi-international-airport",
+     "event": true,
+     "title": "Banyuwangi International Airport",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113885699,
+     "path": "building/mit-chapel",
+     "event": true,
+     "title": "MIT Chapel",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113872304,
+     "path": "building/kempegowda-international-airport-terminal-2",
+     "event": true,
+     "title": "Kempegowda International Airport Terminal 2",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113872284,
+     "path": "building/indian-institute-of-management-bangalore",
+     "event": true,
+     "title": "Indian Institute of Management Bangalore",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113870393,
+     "path": "building/solomon-r-guggenheim-museum",
+     "event": true,
+     "title": "Solomon R. Guggenheim Museum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113868292,
+     "path": "building/bauhaus-dessau",
+     "event": true,
+     "title": "Bauhaus Dessau",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855492,
+     "path": "building/habitat-67",
+     "event": true,
+     "title": "Habitat 67",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855478,
+     "path": "book/for-everyone-a-garden",
+     "event": true,
+     "title": "For Everyone a Garden",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855455,
+     "path": "/architects/moshe-safdie",
      "event": false,
-     "title": "Ravindra Bharathi \u2014 Mohammed Fayazuddin, 1961: photos",
+     "title": "Moshe Safdie buildings: photos, plans & key works",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855444,
+     "path": "building/marina-bay-sands",
+     "event": true,
+     "title": "Marina Bay Sands",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855375,
+     "path": "/buildings/scheepvaarthuis-amsterdam",
+     "event": false,
+     "title": "Scheepvaarthuis by Johan van der Mey: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855345,
+     "path": "building/shine-dome",
+     "event": true,
+     "title": "Shine Dome",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855266,
+     "path": "building/telangana-secretariat",
+     "event": true,
+     "title": "Dr. B.R. Ambedkar Telangana State Secretariat",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113855233,
+     "path": "building/patan-museum",
+     "event": true,
+     "title": "Patan Museum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113852201,
+     "path": "/buildings/custom-house-dublin",
+     "event": false,
+     "title": "The Custom House by James Gandon: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113847367,
+     "path": "building/john-hancock-tower",
+     "event": true,
+     "title": "John Hancock Tower",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113846093,
+     "path": "building/museum-of-old-and-new-art",
+     "event": true,
+     "title": "Museum of Old and New Art",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113843731,
+     "path": "building/the-gateway",
+     "event": true,
+     "title": "The Gateway",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113841667,
+     "path": "building/56-leonard-street",
+     "event": true,
+     "title": "56 Leonard Street",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113839752,
+     "path": "building/centre-pompidou-metz",
+     "event": true,
+     "title": "Centre Pompidou-Metz",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113839288,
+     "path": "book/thinking-architecture",
+     "event": true,
+     "title": "Thinking Architecture",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113839124,
+     "path": "building/curtain-wall-house",
+     "event": true,
+     "title": "Curtain Wall House",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113838934,
+     "path": "building/sevan-writers-resort",
+     "event": true,
+     "title": "Sevan Writers' Resort",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113838041,
+     "path": "play/daily/1-of-5",
+     "event": true,
+     "title": "Daily five finished: 1 of 5 right",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113836785,
+     "path": "building/cn-tower",
+     "event": true,
+     "title": "CN Tower",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113836618,
+     "path": "building/nemo-science-museum",
+     "event": true,
+     "title": "NEMO Science Museum",
      "max": 1
     }
    ],
-   "total": 264,
+   "total": 425,
    "more": true
   },
   "referrers": {
    "stats": [
     {
-     "id": "Google",
-     "name": "Google",
-     "count": 176,
-     "ref_scheme": "g"
+     "name": "",
+     "count": 342,
+     "ref_scheme": "o"
     },
     {
-     "name": "",
-     "count": 121,
-     "ref_scheme": "o"
+     "id": "Google",
+     "name": "Google",
+     "count": 187,
+     "ref_scheme": "g"
     },
     {
      "id": "ig",
@@ -844,8 +844,14 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 6,
+     "count": 7,
      "ref_scheme": "c"
+    },
+    {
+     "id": "www.bing.com",
+     "name": "www.bing.com",
+     "count": 6,
+     "ref_scheme": "h"
     },
     {
      "id": "YouTube",
@@ -876,6 +882,12 @@
      "name": "com.reddit.frontpage",
      "count": 1,
      "ref_scheme": "o"
+    },
+    {
+     "id": "wall",
+     "name": "wall",
+     "count": 1,
+     "ref_scheme": "c"
     }
    ],
    "more": false
@@ -885,17 +897,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 270
+     "count": 436
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 128
+     "count": 233
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 14
+     "count": 18
     }
    ],
    "more": false
@@ -905,27 +917,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 173
+     "count": 236
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 93
-    },
-    {
-     "id": "macOS",
-     "name": "macOS",
-     "count": 53
-    },
-    {
-     "id": "Linux",
-     "name": "Linux",
-     "count": 49
+     "count": 193
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 43
+     "count": 133
+    },
+    {
+     "id": "macOS",
+     "name": "macOS",
+     "count": 71
+    },
+    {
+     "id": "Linux",
+     "name": "Linux",
+     "count": 53
     },
     {
      "id": "Chrome OS",
@@ -938,44 +950,44 @@
   "locations": {
    "stats": [
     {
-     "id": "US",
-     "name": "United States",
-     "count": 105
-    },
-    {
      "id": "IN",
      "name": "India",
-     "count": 79
+     "count": 292
+    },
+    {
+     "id": "US",
+     "name": "United States",
+     "count": 126
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 30
+     "count": 31
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 23
+     "count": 31
+    },
+    {
+     "id": "AU",
+     "name": "Australia",
+     "count": 21
     },
     {
      "id": "CA",
      "name": "Canada",
-     "count": 15
+     "count": 16
+    },
+    {
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 16
     },
     {
      "id": "ES",
      "name": "Spain",
      "count": 14
-    },
-    {
-     "id": "AU",
-     "name": "Australia",
-     "count": 12
-    },
-    {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 12
     },
     {
      "id": "IT",
@@ -998,8 +1010,23 @@
      "count": 9
     },
     {
+     "id": "NL",
+     "name": "Netherlands",
+     "count": 7
+    },
+    {
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 6
+    },
+    {
      "id": "MX",
      "name": "Mexico",
+     "count": 5
+    },
+    {
+     "id": "PK",
+     "name": "Pakistan",
      "count": 5
     },
     {
@@ -1008,13 +1035,18 @@
      "count": 4
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "GR",
+     "name": "Greece",
      "count": 4
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
+     "id": "LU",
+     "name": "Luxembourg",
+     "count": 4
+    },
+    {
+     "id": "PH",
+     "name": "Philippines",
      "count": 4
     },
     {
@@ -1028,8 +1060,8 @@
      "count": 3
     },
     {
-     "id": "GR",
-     "name": "Greece",
+     "id": "FI",
+     "name": "Finland",
      "count": 3
     },
     {
@@ -1038,18 +1070,8 @@
      "count": 3
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
-     "count": 3
-    },
-    {
      "id": "PE",
      "name": "Peru",
-     "count": 3
-    },
-    {
-     "id": "PH",
-     "name": "Philippines",
      "count": 3
     },
     {
@@ -1073,8 +1095,8 @@
      "count": 3
     },
     {
-     "id": "FI",
-     "name": "Finland",
+     "id": "BE",
+     "name": "Belgium",
      "count": 2
     },
     {
@@ -1085,6 +1107,11 @@
     {
      "id": "KR",
      "name": "South Korea",
+     "count": 2
+    },
+    {
+     "id": "MW",
+     "name": "Malawi",
      "count": 2
     },
     {
@@ -1105,11 +1132,6 @@
     {
      "id": "AR",
      "name": "Argentina",
-     "count": 1
-    },
-    {
-     "id": "BE",
-     "name": "Belgium",
      "count": 1
     },
     {
@@ -1143,18 +1165,23 @@
      "count": 1
     },
     {
+     "id": "HU",
+     "name": "Hungary",
+     "count": 1
+    },
+    {
      "id": "IE",
      "name": "Ireland",
      "count": 1
     },
     {
-     "id": "LB",
-     "name": "Lebanon",
+     "id": "IL",
+     "name": "Israel",
      "count": 1
     },
     {
-     "id": "LU",
-     "name": "Luxembourg",
+     "id": "LB",
+     "name": "Lebanon",
      "count": 1
     },
     {
@@ -1205,22 +1232,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 128
+     "count": 315
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 26
+     "count": 27
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 238
+     "count": 319
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 20
+     "count": 26
     },
     {
      "id": "unknown",
@@ -1235,7 +1262,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 412
+     "count": 687
     }
    ],
    "more": false
