@@ -626,6 +626,62 @@
     "kind": "overview",
     "paid": false,
     "why": "Norwegian encyclopaedia entry; nothing better found"
+   },
+   {
+    "site": "Britannica",
+    "title": "J. J. P. Oud",
+    "url": "https://www.britannica.com/print/article/435313",
+    "kind": "overview",
+    "paid": false,
+    "why": "Concise biography and key works"
+   },
+   {
+    "site": "Google Arts & Culture",
+    "title": "Jacobus Oud",
+    "url": "https://artsandculture.google.com/entity/m0775lc",
+    "kind": "museum",
+    "paid": false,
+    "why": "Short entry with related works"
+   },
+   {
+    "site": "Modernism in Architecture",
+    "title": "Jacobus Johannes Pieter Oud",
+    "url": "https://modernism-in-architecture.org/people/architects/jacobus-johannes-pieter-oud/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Life and works overview"
+   },
+   {
+    "site": "EBSCO Research Starters",
+    "title": "J. J. P. Oud",
+    "url": "https://ebsco.com/research-starters/history/j-j-p-oud",
+    "kind": "overview",
+    "paid": false,
+    "why": "De Stijl to functionalism explained"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Poetic functionalism: Kiefhoek housing",
+    "url": "https://www.metalocus.es/en/news/poetic-functionalism-or-aesthetics-social-housing-kiefhoek-housing-development-jacobus-johannes-pieter-oud",
+    "kind": "essay",
+    "paid": false,
+    "why": "Oud's poetic functionalism, via housing"
+   },
+   {
+    "site": "Canadian Centre for Architecture",
+    "title": "Collection JJP Oud",
+    "url": "https://www.cca.qc.ca/en/search/details/collection/object/469657",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of Oud's housing designs"
+   },
+   {
+    "site": "Lars Müller Publishers",
+    "title": "Jacobus Johannes Pieter Oud",
+    "url": "https://lars-mueller-publishers.com/jacobus-johannes-pieter-oud",
+    "kind": "profile",
+    "paid": false,
+    "why": "Publisher note on Oud's career"
    }
   ]
  },
@@ -1689,28 +1745,116 @@
   "key": "architect:MAD Architects",
   "links": [
    {
-    "site": "MAD",
-    "title": "MAD Architects",
-    "url": "https://www.i-mad.com/",
-    "kind": "overview",
-    "paid": false,
-    "why": "The practice's own site"
-   },
-   {
     "site": "Wikipedia",
     "title": "MAD Studio",
     "url": "https://en.wikipedia.org/wiki/MAD_Studio",
     "kind": "overview",
     "paid": false,
-    "why": "Encyclopaedia overview"
+    "why": "Firm history and key works"
+   },
+   {
+    "site": "MAD Architects",
+    "title": "MAD Architects",
+    "url": "https://www.i-mad.com/",
+    "kind": "museum",
+    "paid": false,
+    "why": "The practice's own projects"
    },
    {
     "site": "ArchDaily",
-    "title": "MAD Architects",
+    "title": "MAD Architects office page",
     "url": "https://www.archdaily.com/office/mad-architects",
     "kind": "profile",
     "paid": false,
-    "why": "Projects by MAD"
+    "why": "Projects and news feed"
+   },
+   {
+    "site": "Icon",
+    "title": "Profile: Ma Yansong",
+    "url": "https://www.iconeye.com/architecture/profile-ma-yansong",
+    "kind": "profile",
+    "paid": false,
+    "why": "Long profile of the founder"
+   },
+   {
+    "site": "Hyperallergic",
+    "title": "Inside the Studio of China's Rebel Architect",
+    "url": "https://hyperallergic.com/inside-the-studio-of-chinas-rebel-architect",
+    "kind": "video",
+    "paid": false,
+    "why": "Studio visit and design philosophy"
+   },
+   {
+    "site": "ArchDaily",
+    "title": "Studio Banana TV Interview with Ma Yansong",
+    "url": "https://www.archdaily.com/216277/studio-banana-tv-interview-with-ma-yansong-mad-architects",
+    "kind": "interview",
+    "paid": false,
+    "why": "Video interview on early museums"
+   },
+   {
+    "site": "Archilovers",
+    "title": "10 Q&A with Archilovers: MAD Architects",
+    "url": "https://archilovers.com/stories/28526/10-q-a-with-archilovers-mad-architects.html",
+    "kind": "interview",
+    "paid": false,
+    "why": "Personal Q&A and Shanshui City"
+   },
+   {
+    "site": "Cultured",
+    "title": "Lucas Museum and Ma Yansong feature",
+    "url": "https://www.culturedmag.com/article/2026/09/03/architecture-lucas-museum-ma-yansong/",
+    "kind": "news",
+    "paid": false,
+    "why": "Recent feature on the Lucas Museum"
+   },
+   {
+    "site": "Dezeen",
+    "title": "MAD's sinuous Harbin Opera House completes",
+    "url": "https://www.dezeen.com/2015/12/16/mad-sinuous-harbin-opera-house-completes-north-east-china/amp/",
+    "kind": "news",
+    "paid": false,
+    "why": "Curved forms across MAD's work"
+   },
+   {
+    "site": "Designboom",
+    "title": "Shanshui City exhibition",
+    "url": "https://designboom.com/?p=126391",
+    "kind": "essay",
+    "paid": false,
+    "why": "Explains Shanshui City idea"
+   },
+   {
+    "site": "Lars Müller Publishers",
+    "title": "Shanshui City",
+    "url": "https://www.lars-mueller-publishers.com/shanshui-city",
+    "kind": "essay",
+    "paid": false,
+    "why": "MAD's manifesto book"
+   },
+   {
+    "site": "Holcim Foundation",
+    "title": "Ma Yansong",
+    "url": "https://holcimfoundation.org/experts/ma-yansong",
+    "kind": "profile",
+    "paid": false,
+    "why": "Short expert biography"
+   },
+   {
+    "site": "World-Architects",
+    "title": "MAD team",
+    "url": "https://world-architects.com/en/mad/team",
+    "kind": "profile",
+    "paid": false,
+    "why": "Office bio and team"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Harbin Opera House",
+    "url": "https://www.architecturalrecord.com/articles/11368-harbin-opera-house",
+    "kind": "news",
+    "paid": true,
+    "why": "Major trade review of flagship"
    }
   ]
  },
@@ -1718,28 +1862,84 @@
   "key": "architect:Mansilla + Tuñón",
   "links": [
    {
-    "site": "Mansilla + Tuñón",
-    "title": "Mansilla + Tuñón",
-    "url": "http://www.mansilla-tunon.com/",
-    "kind": "overview",
-    "paid": false,
-    "why": "The practice's own site"
-   },
-   {
     "site": "Wikipedia",
     "title": "Mansilla + Tuñón Architects",
     "url": "https://en.wikipedia.org/wiki/Mansilla_+_Tuñón_Architects",
     "kind": "overview",
     "paid": false,
-    "why": "Encyclopaedia overview"
+    "why": "Firm history and works"
+   },
+   {
+    "site": "Mansilla + Tuñón",
+    "title": "Mansilla + Tuñón",
+    "url": "http://www.mansilla-tunon.com/",
+    "kind": "museum",
+    "paid": false,
+    "why": "The practice's own archive"
    },
    {
     "site": "ArchDaily",
-    "title": "Mansilla + Tuñón Arquitectos",
+    "title": "Mansilla + Tuñón office page",
     "url": "https://www.archdaily.com/office/mansilla-plus-tunon-arquitectos",
     "kind": "profile",
     "paid": false,
-    "why": "Projects by the practice"
+    "why": "Projects list"
+   },
+   {
+    "site": "Arquitectura Viva",
+    "title": "Interview: school of architecture was a stroke of luck",
+    "url": "https://arquitecturaviva.com/articles/tras-el-mies-al-musac",
+    "kind": "interview",
+    "paid": false,
+    "why": "Both partners on training and Moneo"
+   },
+   {
+    "site": "Arquitectura Viva",
+    "title": "El maestro mellizo",
+    "url": "https://arquitecturaviva.com/articulos/el-maestro-mellizo",
+    "kind": "essay",
+    "paid": false,
+    "why": "Portrait of their contrasting personalities"
+   },
+   {
+    "site": "Architect's Newspaper",
+    "title": "Luis Moreno Mansilla, 1959-2012",
+    "url": "https://www.archpaper.com/2012/04/luis-moreno-mansilla-1959-2012/",
+    "kind": "obituary",
+    "paid": false,
+    "why": "Tribute on Mansilla's career"
+   },
+   {
+    "site": "Professione Architetto",
+    "title": "An interview with Luis Mansilla and Emilio Tuñón",
+    "url": "https://www.professionearchitetto.it/news/en/an-interview-with-luis-mansilla-and-emilio-tunon/",
+    "kind": "interview",
+    "paid": false,
+    "why": "Video interview, both architects"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Mansilla + Tuñón: Active Geometries",
+    "url": "https://www.metalocus.es/en/news/mansilla-tunon-active-geometries",
+    "kind": "essay",
+    "paid": false,
+    "why": "El Croquis 161 overview of work"
+   },
+   {
+    "site": "Dezeen",
+    "title": "Mies van der Rohe Award 2007",
+    "url": "https://www.dezeen.com/2007/04/27/mies-van-der-rohe-award-2007/amp/",
+    "kind": "news",
+    "paid": false,
+    "why": "MUSAC wins the Mies Award"
+   },
+   {
+    "site": "Architecture Lab",
+    "title": "Luis Moreno Mansilla: Biography, Works, Awards",
+    "url": "https://www.architecturelab.net/architect/famous/luis-moreno-mansilla/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Works and awards summary"
    }
   ]
  },
@@ -1752,7 +1952,55 @@
     "url": "https://en.wikipedia.org/wiki/Nayyar_Ali_Dada",
     "kind": "overview",
     "paid": false,
-    "why": "Encyclopaedia overview"
+    "why": "Career, works and awards"
+   },
+   {
+    "site": "Nayyar Ali Dada & Associates",
+    "title": "Office History",
+    "url": "https://www.nayyaralidada.net/practice",
+    "kind": "museum",
+    "paid": false,
+    "why": "The practice's own history"
+   },
+   {
+    "site": "The Friday Times",
+    "title": "Lahore's master builders",
+    "url": "https://www.thefridaytimes.com/2017/11/24/lahores-master-builders/",
+    "kind": "essay",
+    "paid": false,
+    "why": "Places him among Lahore's builders"
+   },
+   {
+    "site": "Archnet",
+    "title": "Nayyar Ali Dada & Associates",
+    "url": "https://archnet.org/authorities/35",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of his documented works"
+   },
+   {
+    "site": "Lahore Biennale",
+    "title": "Nayyar Ali Dada",
+    "url": "https://lahorebiennale.org/?p=3845",
+    "kind": "profile",
+    "paid": false,
+    "why": "Teaching and conservation career"
+   },
+   {
+    "site": "Mosqpedia",
+    "title": "Nayyar Ali Dada",
+    "url": "https://mosqpedia.org/manaber/nayyar-ali-dada/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Biography and list of works"
+   },
+   {
+    "site": "Punjab Lahore Arts Council",
+    "title": "Nayyar Ali Dada",
+    "url": "https://lac.punjab.gov.pk/node/32",
+    "kind": "profile",
+    "paid": false,
+    "why": "Alhamra's institution on its architect"
    }
   ]
  },
@@ -1760,28 +2008,116 @@
   "key": "architect:Nieto Sobejano Arquitectos",
   "links": [
    {
-    "site": "Nieto Sobejano",
-    "title": "Nieto Sobejano Arquitectos",
-    "url": "https://www.nietosobejano.com/",
-    "kind": "overview",
-    "paid": false,
-    "why": "The practice's own site"
-   },
-   {
     "site": "Wikipedia",
     "title": "Nieto Sobejano Arquitectos",
     "url": "https://en.wikipedia.org/wiki/Nieto_Sobejano_Arquitectos",
     "kind": "overview",
     "paid": false,
-    "why": "Encyclopaedia overview"
+    "why": "Firm history and works"
+   },
+   {
+    "site": "Nieto Sobejano",
+    "title": "Nieto Sobejano Arquitectos",
+    "url": "https://www.nietosobejano.com/",
+    "kind": "museum",
+    "paid": false,
+    "why": "The practice's own projects"
    },
    {
     "site": "ArchDaily",
-    "title": "Nieto Sobejano Arquitectos",
+    "title": "Nieto Sobejano office page",
     "url": "https://www.archdaily.com/office/nieto-sobejano-arquitectos",
     "kind": "profile",
     "paid": false,
-    "why": "Projects by the practice"
+    "why": "Projects list"
+   },
+   {
+    "site": "World Architecture",
+    "title": "Interview with Fuensanta Nieto and Enrique Sobejano",
+    "url": "https://worldarchitecture.org/architecture-news/cpmcf/interview-with-fuensanta-nieto-and-enrique-sobejano-architects-and-the-secret-hidden-agenda.html",
+    "kind": "interview",
+    "paid": false,
+    "why": "Culture, identity, Iberian architecture"
+   },
+   {
+    "site": "World-Architects",
+    "title": "Past Present Future II: Nieto Sobejano",
+    "url": "https://www.world-architects.com/pt/architecture-news/film/past-present-future-ii-nieto-sobejano",
+    "kind": "video",
+    "paid": false,
+    "why": "Film on their path and offices"
+   },
+   {
+    "site": "World-Architects",
+    "title": "Aalto Medal to Nieto Sobejano",
+    "url": "https://www.world-architects.com/en/architecture-news/headlines/aalto-medal-to-nieto-sobejano",
+    "kind": "news",
+    "paid": false,
+    "why": "2015 Alvar Aalto Medal announcement"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Nieto Sobejano win Alvar Aalto Medal",
+    "url": "https://www.metalocus.es/en/news/nieto-sobejano-architects-office-win-alvar-aalto-medal",
+    "kind": "news",
+    "paid": false,
+    "why": "Jury praise of their work"
+   },
+   {
+    "site": "Arquitectura Viva",
+    "title": "Nieto Sobejano tag page",
+    "url": "https://arquitecturaviva.com/tag/nieto-sobejano",
+    "kind": "profile",
+    "paid": false,
+    "why": "Spanish magazine coverage archive"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Nieto Sobejano author page",
+    "url": "https://metalocus.es/en/author/nieto-sobejano",
+    "kind": "profile",
+    "paid": false,
+    "why": "Their projects as published"
+   },
+   {
+    "site": "Reading Office",
+    "title": "Nieto Sobejano",
+    "url": "https://readingoffice.com/nieto-sobejano/",
+    "kind": "profile",
+    "paid": false,
+    "why": "Office profile"
+   },
+   {
+    "site": "Columbia GSAPP",
+    "title": "Nieto Sobejano Arquitectos lecture",
+    "url": "https://www.arch.columbia.edu/events/273-nieto-sobejano-architectos",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture at their alma mater"
+   },
+   {
+    "site": "Bustler",
+    "title": "Nieto and Sobejano win 2015 Alvar Aalto Medal",
+    "url": "https://bustler.net/news/4174/fuensanta-nieto-enrique-sobejano-win-2015-alvar-aalto-medal",
+    "kind": "news",
+    "paid": false,
+    "why": "Award news item"
+   },
+   {
+    "site": "Aedes",
+    "title": "Nieto Sobejano, Madrid",
+    "url": "https://cms.baunetz.de/cms/aedes/en/videodetail?id=373762",
+    "kind": "museum",
+    "paid": false,
+    "why": "Berlin gallery exhibition video"
+   },
+   {
+    "site": "Cersaie",
+    "title": "Meeting with Nieto Sobejano",
+    "url": "https://www.cersaie.it/event/Meeting-with-Nieto-Sobejano/100833/2014",
+    "kind": "video",
+    "paid": false,
+    "why": "Talk by the partners"
    }
   ]
  },
@@ -3106,6 +3442,70 @@
     "kind": "video",
     "paid": false,
     "why": "Filmed portrait of the architect"
+   },
+   {
+    "site": "SCI-Arc",
+    "title": "Valerio Olgiati lecture",
+    "url": "https://sciarc.edu/events/lectures/valerio-olgiati-lecture",
+    "kind": "video",
+    "paid": false,
+    "why": "Lecture on non-contextual architecture"
+   },
+   {
+    "site": "Architectura & Natura",
+    "title": "A lecture by Valerio Olgiati",
+    "url": "https://www.architectura.nl/a-lecture-by-valerio-olgiati.html",
+    "kind": "essay",
+    "paid": false,
+    "why": "Lecture book on his design process"
+   },
+   {
+    "site": "032c",
+    "title": "Cornered: Olgiati's Non-referential Architecture",
+    "url": "https://032c.com/magazine/cornered-valerio-ogliati-s-non-referential-architecture",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical review of his claims"
+   },
+   {
+    "site": "Accademia di architettura (USI)",
+    "title": "Lives of the most excellent architects",
+    "url": "https://www.arc.usi.ch/en/node/13545",
+    "kind": "interview",
+    "paid": false,
+    "why": "Conversation with Thomas Weaver, Mendrisio"
+   },
+   {
+    "site": "Designboom",
+    "title": "Olgiati at Venice Architecture Biennale 2018",
+    "url": "https://www.designboom.com/architecture/valerio-olgiati-venice-architecture-biennale-06-03-2018/",
+    "kind": "news",
+    "paid": false,
+    "why": "Biennale installation with his film"
+   },
+   {
+    "site": "Divisare",
+    "title": "Valerio Olgiati",
+    "url": "https://divisare.com/authors/10083-valerio-olgiati",
+    "kind": "profile",
+    "paid": false,
+    "why": "Project photographs and works"
+   },
+   {
+    "site": "Architonic",
+    "title": "Valerio Olgiati",
+    "url": "https://www.architonic.com/es/c/valerio-olgiati/5205520",
+    "kind": "profile",
+    "paid": false,
+    "why": "Practice profile and projects"
+   },
+   {
+    "site": "Les presses du réel",
+    "title": "Valerio Olgiati",
+    "url": "https://lespressesdureel.com/EN/auteur.php?id=4599",
+    "kind": "profile",
+    "paid": false,
+    "why": "Publisher biography, career summary"
    }
   ]
  },
@@ -4071,6 +4471,38 @@
     "kind": "guide",
     "paid": false,
     "why": "Single project; shows collective method"
+   },
+   {
+    "site": "Architecture-Studio",
+    "title": "Architecture-Studio, the practice",
+    "url": "https://architecturestudio.fr/en/?p=10831",
+    "kind": "profile",
+    "paid": false,
+    "why": "The firm's own history and 50 years"
+   },
+   {
+    "site": "Metalocus",
+    "title": "Architecture-Studio",
+    "url": "https://www.metalocus.es/en/node/23292",
+    "kind": "profile",
+    "paid": false,
+    "why": "Firm profile and projects"
+   },
+   {
+    "site": "Aga Khan Trust for Culture",
+    "title": "Institut du Monde Arabe",
+    "url": "https://the.akdn/en/how-we-work/our-agencies/aga-khan-trust-culture/akaa/institut-du-monde-arabe",
+    "kind": "museum",
+    "paid": false,
+    "why": "Award page on their best-known work"
+   },
+   {
+    "site": "Pavillon de l'Arsenal",
+    "title": "Architecture-Studio press file",
+    "url": "https://www.pavillon-arsenal.com/data/videos_1aa6c/fiche/7502/pav_131_cp_d0695.pdf",
+    "kind": "museum",
+    "paid": false,
+    "why": "Paris museum's press material on the firm"
    }
   ]
  },
@@ -4241,6 +4673,70 @@
     "kind": "profile",
     "paid": false,
     "why": "Biography with works list"
+   },
+   {
+    "site": "Architect Magazine",
+    "title": "Ove Arup Retrospective at the V&A",
+    "url": "https://www.architectmagazine.com/design/exhibits-books-etc/ove-arup-retrospective-at-the-victoria-and-albert-museum-in-london_o",
+    "kind": "museum",
+    "paid": false,
+    "why": "Review of the V&A Arup retrospective"
+   },
+   {
+    "site": "Dansk Arkitektur Center",
+    "title": "Ove Arup and the Philosophy of Total Design",
+    "url": "https://dac.dk/en/exhibitions/ove-arup-and-the-philosophy-of-total-design",
+    "kind": "museum",
+    "paid": false,
+    "why": "Exhibition on total design philosophy"
+   },
+   {
+    "site": "Sequitur (Boston University)",
+    "title": "Engineering the World: Ove Arup",
+    "url": "https://www.bu.edu/sequitur/2016/12/02/mckellar-engineering",
+    "kind": "essay",
+    "paid": false,
+    "why": "Critical essay on the V&A show"
+   },
+   {
+    "site": "World-Architects",
+    "title": "About Ove Arup",
+    "url": "https://world-architects.com/en/architecture-news/film/about-ove-arup",
+    "kind": "video",
+    "paid": false,
+    "why": "Documentary on Ove Arup, philosopher engineer"
+   },
+   {
+    "site": "Churchill Archives Centre",
+    "title": "Arup papers, Cambridge",
+    "url": "https://archivesearch.lib.cam.ac.uk/repositories/9/resources/1404",
+    "kind": "museum",
+    "paid": false,
+    "why": "Archive of Ove Arup's papers"
+   },
+   {
+    "site": "Lives Retold",
+    "title": "Ove Arup",
+    "url": "https://livesretold.co.uk/ove-arup",
+    "kind": "profile",
+    "paid": false,
+    "why": "Short life story of the founder"
+   },
+   {
+    "site": "Aesthetica",
+    "title": "Engineering the World, V&A London",
+    "url": "https://aestheticamagazine.com/?p=457456",
+    "kind": "news",
+    "paid": false,
+    "why": "Exhibition review of Arup's legacy"
+   },
+   {
+    "site": "Designing Buildings",
+    "title": "Engineering the World - V&A Museum",
+    "url": "https://www.designingbuildings.co.uk/wiki/Engineering the World - VandA Museum",
+    "kind": "overview",
+    "paid": false,
+    "why": "Summary of the retrospective"
    }
   ]
  },
@@ -4358,6 +4854,46 @@
     "kind": "profile",
     "paid": false,
     "why": "Works database entry"
+   },
+   {
+    "site": "Dictionary of Scottish Architects",
+    "title": "Basil Urwin Spence",
+    "url": "https://www.scottisharchitects.org.uk/architect_full.php?id=203372",
+    "kind": "profile",
+    "paid": false,
+    "why": "Detailed career and works list"
+   },
+   {
+    "site": "National Records of Scotland",
+    "title": "Basil Spence, Hall of Fame",
+    "url": "https://nrscotland.gov.uk/research/learning/hall-of-fame/hall-of-fame-a-z/spence-basil",
+    "kind": "profile",
+    "paid": false,
+    "why": "Coventry design and career summary"
+   },
+   {
+    "site": "History Scotland",
+    "title": "Architect Sir Basil Spence died on this day",
+    "url": "https://www.historyscotland.com/History/architect-sir-basil-spence-died-on-this-day-in-scottish-history",
+    "kind": "news",
+    "paid": false,
+    "why": "Short biographical feature"
+   },
+   {
+    "site": "Structurae",
+    "title": "Basil Spence",
+    "url": "https://structurae.net/en/persons/basil-spence",
+    "kind": "profile",
+    "paid": false,
+    "why": "Works database for Spence"
+   },
+   {
+    "site": "Britannica Kids",
+    "title": "Basil Urwin Spence",
+    "url": "https://kids.britannica.com/students/article/Basil-Urwin-Spence/341752",
+    "kind": "overview",
+    "paid": false,
+    "why": "Plain-language summary of his career"
    }
   ]
  },
