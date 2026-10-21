@@ -179,13 +179,15 @@ def _same(url):
     return re.sub(r'^https?://(www\.)?|[#?].*$|/$', '', (url or '').strip().lower())
 
 
+MAX_LINKS = 15  # the owner asked for 10 to 15 links per page
 KIND_ORDER = ('overview', 'profile', 'essay', 'guide', 'interview', 'video', 'museum', 'obituary', 'news')
 
 
 def merge_links(reading, current):
     """The reading file's links plus any current link not already among them, ordered for a student (only the first six show
     before "See all"): one link of each kind in KIND_ORDER, then another round, keeping file order within a kind, until all are
-    placed. Links with no kind (the page's current ones, a kind not listed) go last in file order."""
+    placed. Links with no kind (the page's current ones, a kind not listed) go last in file order, so they are what falls off
+    when the list is cut to MAX_LINKS."""
     out, seen = [], set()
     for l in list(reading or []) + list(current or []):
         k = _same(l.get('url'))
@@ -198,7 +200,7 @@ def merge_links(reading, current):
         for k in KIND_ORDER:
             if by[k]:
                 ordered.append(by[k].pop(0))
-    return ordered + [l for l in out if l.get('kind') not in KIND_ORDER]
+    return (ordered + [l for l in out if l.get('kind') not in KIND_ORDER])[:MAX_LINKS]
 
 
 def links_block(bp, heading, links, name, up):
