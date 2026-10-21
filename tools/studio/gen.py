@@ -71,17 +71,17 @@ FORMATS = ''.join(f'<li class="fm {c}"><span class="fr"></span><b>{t}</b><small>
 FAQ = [('How do I lay out an architecture presentation board?', 'Decide the two to four ideas the board must explain, then let one strong image lead and give every other drawing a job: a plan, a section or a diagram that proves one idea. Keep a clear reading order, plans and sections at stated scales, short captions and plenty of white space. FGA Studio plans this story with you and lays it out on a grid you can still change.'),
        ('What size is an architecture presentation board?', 'Usually A1 (594 × 841 mm) in the UK, Europe, India and Australia, and 24 × 36 in (ARCH D) in the US; some schools ask for A0 (841 × 1189 mm) at final reviews. Check your studio brief. FGA Studio makes all three and a 16:9 slide deck.'),
        ('Which formats can I make?', 'An A1, A0 or 24 × 36 in board, or a slide deck. Square posts and a web deck come later. You can switch before you export.'),
-       ('How much does it cost?', 'You pay per use with credits; there is no subscription. A quick board takes a few credits; more diagrams and image touch-ups take more. Credit packs are priced by country. You see a free, watermarked preview before you pay anything.'),
+       ('How much does it cost?', 'You buy a one-time pack of prepaid credits and use them to export your boards and decks; there is no subscription and nothing renews. One credit exports one board or one deck. You see a free, watermarked preview before you pay anything. Packs and prices are on the <a href="/pricing/">pricing page</a>.'),
        ('Does it work with PowerPoint and Canva?', 'Yes. You get an editable PowerPoint file: a whole A1 board sits on one slide, and it opens in PowerPoint, Keynote, Google Slides and Canva. You also get a print-ready PDF.'),
        ('Is it allowed for my coursework?', 'It lays out your drawings and draws the ideas you point to; the design and the thinking are yours. Words are written only from your own brief. Check your school’s rules on AI tools, and say you used it if they ask.'),
-       ('Do my drawings stay private?', 'Yes. Your files are made into the board in your own browser, not on our servers.')]
+       ('Do my drawings stay private?', 'Yes. Your files are made into the board in your own browser, not on our servers: they never leave your device. See the <a href="/privacy/">Privacy Policy</a>.')]
 faq = ''.join(f'<details class="fq"><summary>{q}<i></i></summary><p>{a}</p></details>' for q, a in FAQ)
 ROLE = '<option value="" disabled selected>I am a…</option><option value="student">Student</option><option value="teacher">Teacher</option><option value="architect">Practising architect</option>'
 WHEN = '<div class="seg">' + ''.join(f'<label><input type="radio" name="when" value="{v}"><span>{t}</span></label>' for v, t in [('this-month', 'This month'), ('1-3-months', '1–3 months'), ('later', 'Later'), ('other', 'Other')]) + '</div>'
 QUICK = f'''<form class="qf" id="qf" action="#" method="post">
   <div class="qf-row"><input type="email" name="email" required placeholder="Your email" autocomplete="email" aria-label="Your email"><select name="role" required aria-label="I am a">{ROLE}</select><button class="cta" type="submit">Get early access</button></div>
   <input type="hidden" name="ref" value=""><input type="hidden" name="b" value="">
-  <p class="qf-fine">Launching early 2027 · early access and a launch discount · we’ll only email you about FGA Studio · <a href="/privacy/">Privacy</a></p>
+  <p class="qf-fine">Launching November 2026 · early access and a launch discount · we’ll only email you about FGA Studio · <a href="/privacy/">Privacy</a></p>
   <div class="qf-more"><b>You’re on the list ✓</b><span>Two optional questions, so we build for your next jury:</span>
     <label class="f"><span>What are you presenting next?</span><input type="text" name="next" placeholder="e.g. a library by a river, final review"></label>
     <fieldset class="f"><legend>When is your next jury?</legend>{WHEN}</fieldset><button class="cta" type="button" onclick="this.closest('.qf').classList.add('done')">Send</button></div>
@@ -113,7 +113,7 @@ def page(d):
     credits = ' · '.join(f'<a href="{H.escape(c["source"])}">{H.escape(c["credit"])}</a>, {c["license"]}' for c in [CR[i] for i in (0, 1, 5, 7)])
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>FGA Studio</title><meta name="description" content="You design, FGA Studio presents: professional-grade jury boards and decks from your own drawings. Launching early 2027.">
+<title>FGA Studio</title><meta name="description" content="You design, FGA Studio presents: professional-grade jury boards and decks from your own drawings. Launching November 2026.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?{fonts}&display=swap" rel="stylesheet">
 <style>{css}</style></head>
@@ -138,14 +138,14 @@ def page(d):
 <section class="sec feat"><div class="fhead"><p class="kick">Your look</p><h2>Pick a style.<br>Keep your work.</h2><p class="sub">The same drawings and ideas, laid out three ways. Change your mind any time before you export.</p></div>{STYLER}</section>
 <section class="sec"><p class="kick">Formats</p><h2>Board, deck,<br>and more later</h2><ul class="formats">{FORMATS}</ul><p class="sub fsub">Every board exports as an editable PowerPoint (a whole A1 board fits on one slide) and a print-ready PDF.</p></section>
 <section class="sec words"><p class="kick">Words</p><h2>Written from your brief. <span class="mute">Never made up.</span></h2><p class="sub">Your concept statement, story and captions come only from what you wrote. No invented facts, no made-up numbers: if it isn’t in your brief, it isn’t on your board.</p></section>
-<section class="sec price" id="price"><div><p class="kick">Price</p><h2>Pay per board.<br>No subscription.</h2><p class="sub">Credits, priced by country. A quick board is cheap; more diagrams and image touch-ups use more credits.</p></div>
-  <div class="pcards"><div class="pc"><b>Free</b><span>Watermarked preview of your whole board</span></div><div class="pc hot"><b>Credits</b><span>Pay only when you export: packs of roughly US$5–25, or ₹199–999 in India</span></div><div class="pc"><b>Your files</b><span>Editable PPTX and print-ready PDF, yours to keep</span></div></div></section>
+<section class="sec price" id="price"><div><p class="kick">Price</p><h2>Pay per board.<br>No subscription.</h2><p class="sub">Buy a one-time pack of prepaid credits and spend them when you export a board or deck. Nothing renews and there is nothing to cancel.</p></div>
+  <div class="pcards"><div class="pc"><b>Free</b><span>Watermarked preview of your whole board</span></div><div class="pc hot"><b>Credits</b><span>Pay only when you export. 1 credit = one exported board or deck. Packs from about US$5. <a href="/pricing/">See pricing</a></span></div><div class="pc"><b>Your files</b><span>Editable PPTX and print-ready PDF, yours to keep</span></div></div></section>
 <section class="sec honest"><p class="kick">Coursework</p><h2>It lays out and draws your ideas.<br><span class="mute">The thinking stays yours.</span></h2></section>
-<section class="sec join" id="waitlist"><div><p class="kick">Waitlist</p><h2>Launching early 2027.</h2><p class="sub">Join for early access and a launch discount.</p></div>{FORM}</section>
+<section class="sec join" id="waitlist"><div><p class="kick">Waitlist</p><h2>Launching November 2026.</h2><p class="sub">Join for early access and a launch discount.</p></div>{FORM}</section>
 <section class="sec" id="faq"><p class="kick">FAQ</p><h2>Questions</h2><div class="faq">{faq}</div></section>
 </main>
-<footer class="foot"><span>FGA Studio (working name) · by <a href="https://findgreatarchitecture.com/">Find Great Architecture</a></span>
-<span>Sample board: the Salk Institute (Louis Kahn). Drawings are our own diagrams, not to scale. Photos via Wikimedia Commons: {credits}</span><a href="/privacy/">Privacy</a></footer>
+<footer class="foot"><span>FGA Studio · by <a href="https://findgreatarchitecture.com/">Find Great Architecture</a></span>
+<span>Sample board: the Salk Institute (Louis Kahn). Drawings are our own diagrams, not to scale. Photos via Wikimedia Commons: {credits}</span><span class="legal-links"><a href="/pricing/">Pricing</a> · <a href="/terms/">Terms</a> · <a href="/privacy/">Privacy</a> · <a href="/refunds/">Refunds</a> · <a href="/contact/">Contact</a></span><span>Find Great Architecture · run by Akshat Pagaria · India</span></footer>
 <script>const DIA = {DIA}; const STYLE_KEYS = {json.dumps([k for k, n in STYLES])};
 {open(SP + 'common.js').read()}</script>
 </body></html>'''

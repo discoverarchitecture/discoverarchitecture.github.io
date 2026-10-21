@@ -12,7 +12,7 @@ Each directory gets its own tracking link, so GoatCounter shows where sign-ups c
 | There's An AI For That (theresanaiforthat.com) | The biggest AI tool directory | A free path is reported; some reports say a review fee. Free only | `https://findgreatarchitecture.com/studio/?ref=taaft` |
 | Future Tools (futuretools.io) | Curated AI directory, free form | Free | `https://findgreatarchitecture.com/studio/?ref=futuretools` |
 | AlternativeTo (alternativeto.net) | Students look for alternatives to InDesign and Canva | Free | `https://findgreatarchitecture.com/studio/?ref=alternativeto` |
-| Product Hunt | Best on launch day | Free. **Wait for the launch (early 2027)**; only create the maker account now | `https://findgreatarchitecture.com/studio/?ref=producthunt` |
+| Product Hunt | Best on launch day | Free. **Wait for the launch (November 2026)**; only create the maker account now | `https://findgreatarchitecture.com/studio/?ref=producthunt` |
 
 ## The copy
 
@@ -26,10 +26,10 @@ Each directory gets its own tracking link, so GoatCounter shows where sign-ups c
   out on a clean grid, draws editable diagrams where you point on your plan or section, and touches up photos for print.
   You get an editable PowerPoint (one A1 board per slide) and a print-ready PDF, in A1, A0 or 24 × 36 in, or a slide
   deck. Words are written only from your own brief: nothing invented. Pay per board with credits; no subscription.
-  Launching early 2027: join the waitlist for early access and a launch discount.
+  Launching November 2026: join the waitlist for early access and a launch discount.
 - **Categories / tags:** Design, Architecture, Education, Students, Presentations, Productivity
 - **Pricing:** Waitlist now; pay-per-use credits at launch (a free watermarked preview first)
-- **Launch:** Early 2027 (pre-launch, waitlist open)
+- **Launch:** November 2026 (pre-launch, waitlist open)
 - **Made by:** Find Great Architecture (https://findgreatarchitecture.com/)
 - **Images:** the share image `site/studio/og.jpg` (1200 × 630) and the sample board `site/studio/board.webp`.
   Both are on the live site: https://findgreatarchitecture.com/studio/og.jpg and

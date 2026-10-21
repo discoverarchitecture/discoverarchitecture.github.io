@@ -386,7 +386,7 @@ def page(bp, plans, key, ctx):
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div>'
         f'<footer class="foot" data-nosnippet><p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p>'
-        f'<p><a href="{up}">Find Great Architecture</a> · <a href="{up}architects/">Architects</a> · <a href="{up}buildings/">All buildings</a></p></footer></section>\n'
+        f'<p><a href="{up}">Find Great Architecture</a> · <a href="{up}architects/">Architects</a> · <a href="{up}buildings/">All buildings</a></p>{bp.legal_foot(up)}</footer></section>\n'
         f'</main>\n'
         f'{bp.DOCK.format(up=up)}\n'
         f'{SCRIPT}\n</body>\n</html>\n')

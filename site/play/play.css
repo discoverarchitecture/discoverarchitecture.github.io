@@ -221,3 +221,8 @@ h1 { margin: 0; font-family: var(--display); font-weight: 900; text-transform: u
 @media (max-width: 420px) {
   .back { display: none; } /* the logo already leads back to the wall */
 }
+/* the legal links and who runs the site, as on every page */
+.pfoot { max-width: 1240px; margin: 0 auto; padding: 20px 20px calc(32px + env(safe-area-inset-bottom, 0px)); border-top: 1px solid var(--hair); font: 400 12px/1.7 var(--mono); color: var(--graphite); }
+.pfoot p { margin: 0; }
+.pfoot a { color: inherit; }
+@media (hover: hover) { .pfoot a:hover { color: var(--red); } }
