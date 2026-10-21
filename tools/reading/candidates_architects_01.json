@@ -2338,7 +2338,7 @@
    {
     "site": "Wikipedia",
     "title": "Kenzō Tange",
-    "url": "https://en.wikipedia.org/wiki/Kenzō_Tange",
+    "url": "https://en.wikipedia.org/wiki/Kenz%C5%8D_Tange",
     "kind": "overview",
     "paid": false,
     "why": "Full works list and background"
@@ -2955,7 +2955,7 @@
    {
     "site": "Wikipedia",
     "title": "Álvaro Siza Vieira",
-    "url": "https://en.wikipedia.org/wiki/Álvaro_Siza_Vieira",
+    "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
     "kind": "overview",
     "paid": false,
     "why": "Full works list and background"
@@ -4588,7 +4588,7 @@
    {
     "site": "Wikipedia",
     "title": "Antoni Gaudí",
-    "url": "https://en.wikipedia.org/wiki/Antoni_Gaudí",
+    "url": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
     "kind": "overview",
     "paid": false,
     "why": "Detailed life and works list"
