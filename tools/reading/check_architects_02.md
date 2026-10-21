@@ -1,6 +1,6 @@
 # Link check for architects_02, 2026-10-21
 
-588 links kept, 76 failed.
+586 links kept, 77 failed.
 
 ## Failed (find replacements)
 
@@ -32,6 +32,7 @@
 - architect:Balkrishna Doshi: https://magnetfilm.de/documentary/films/the-promise-architect-bv-doshi/ — could not open (URLError)
 - architect:Carlo Scarpa: https://www-3.collection.cooperhewitt.org/people/18537489/bio — HTTP 500
 - architect:Carlo Scarpa: https://www.architecture.com/riba-books/books/architects-and-designers/product/carlo-scarpa-architecture-and-design.html — HTTP 404
+- architect:Christian de Portzamparc: https://www.britannica.com:443/print/article/929430 — HTTP 403
 - architect:Christian de Portzamparc: https://www.operadeparis.fr/en/magazine/350-years/case/christian-de-portzamparc-architect — HTTP 404
 - architect:Edward Durell Stone: https://www.architecture.com/riba-books/books/architects-and-designers/product/edward-durell-stone-modernisms-populist-architect.html — HTTP 404
 - architect:Félix Candela: https://wallach.columbia.edu/content/felix-candela-1910-2010 — HTTP 403

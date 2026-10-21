@@ -1792,15 +1792,6 @@
   "key": "architect:Christian de Portzamparc",
   "links": [
    {
-    "site": "Britannica",
-    "title": "Christian de Portzamparc",
-    "url": "https://www.britannica.com:443/print/article/929430",
-    "kind": "overview",
-    "paid": false,
-    "why": "Concise biography and key works",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Pritzker Prize",
     "title": "Christian de Portzamparc biography",
     "url": "https://pritzkerprize.com/biography-christian-de-portzamparc",
@@ -3022,15 +3013,6 @@
     "kind": "interview",
     "paid": false,
     "why": "Mayne interview at the studio",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Thom Mayne",
-    "url": "https://en.wikipedia.org/wiki/Thom_Mayne",
-    "kind": "profile",
-    "paid": false,
-    "why": "Founder's career summary",
     "checked": "2026-10-21"
    },
    {
