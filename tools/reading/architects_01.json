@@ -137,33 +137,6 @@
     "paid": false,
     "why": "Advice to young architects",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Norman Foster Foundation",
-    "title": "Norman Foster Foundation",
-    "url": "https://www.normanfosterfoundation.org/",
-    "kind": "museum",
-    "paid": false,
-    "why": "His foundation, research and archive",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Foster + Partners",
-    "title": "Projects",
-    "url": "https://www.fosterandpartners.com/projects",
-    "kind": "profile",
-    "paid": false,
-    "why": "The practice's own project archive",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Norman Foster",
-    "url": "https://en.wikipedia.org/wiki/Norman_Foster",
-    "kind": "overview",
-    "paid": false,
-    "why": "Detailed reference entry",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -304,15 +277,6 @@
     "kind": "museum",
     "paid": false,
     "why": "His foundation and archive",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Renzo Piano",
-    "url": "https://en.wikipedia.org/wiki/Renzo_Piano",
-    "kind": "overview",
-    "paid": false,
-    "why": "Detailed reference entry",
     "checked": "2026-10-21"
    }
   ]
@@ -455,15 +419,6 @@
     "paid": false,
     "why": "His foundation and archive",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Oscar Niemeyer",
-    "url": "https://en.wikipedia.org/wiki/Oscar_Niemeyer",
-    "kind": "overview",
-    "paid": false,
-    "why": "Detailed reference entry",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -604,24 +559,6 @@
     "kind": "video",
     "paid": false,
     "why": "Archive interview on her profession",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Zaha Hadid Architects",
-    "title": "Zaha Hadid Architects",
-    "url": "https://www.zaha-hadid.com/",
-    "kind": "profile",
-    "paid": false,
-    "why": "The practice's own site",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Zaha Hadid",
-    "url": "https://en.wikipedia.org/wiki/Zaha_Hadid",
-    "kind": "overview",
-    "paid": false,
-    "why": "Detailed reference entry",
     "checked": "2026-10-21"
    }
   ]
@@ -1011,24 +948,6 @@
     "paid": false,
     "why": "Opinion on his late career",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Designboom",
-    "title": "step into frank gehry's sweeping signature style in a new retrospective",
-    "url": "https://www.designboom.com/architecture/the-century-of-gehry-serralves-foundation-pritzker-architect-career/",
-    "kind": "news",
-    "paid": false,
-    "why": "Centenary retrospective at Serralves",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Fortune",
-    "title": "Frank Gehry architect interview",
-    "url": "https://fortune.com/2018/10/26/frank-gehry-architect-interview",
-    "kind": "interview",
-    "paid": false,
-    "why": "Gehry on childhood and his process",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -1170,16 +1089,6 @@
     "paid": false,
     "why": "De Meuron on practice and design",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Dezeen",
-    "title": "Herzog & de Meuron architecture and design",
-    "url": "https://www.dezeen.com/tag/herzog-de-meuron/",
-    "kind": "news",
-    "paid": false,
-    "why": "Dezeen's running coverage of the firm",
-    "checked": "2026-10-21",
-    "blocked_check": true
    }
   ]
  },
@@ -1584,15 +1493,6 @@
     "kind": "video",
     "paid": false,
     "why": "Pei interviewed on his career",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "YouTube",
-    "title": "RGM 2010 - Interview with I.M. Pei",
-    "url": "https://www.youtube.com/watch?v=RaqX1cAKAb0",
-    "kind": "video",
-    "paid": false,
-    "why": "RIBA Gold Medal interview",
     "checked": "2026-10-21"
    }
   ]
@@ -2894,15 +2794,6 @@
     "blocked_check": true
    },
    {
-    "site": "Domus",
-    "title": "SOM - Domus",
-    "url": "https://www.domusweb.it/it/speciali/best-architecture-firms/2019/som.html",
-    "kind": "profile",
-    "paid": false,
-    "why": "Profile of the firm (Italian-language page)",
-    "checked": "2026-10-21"
-   },
-   {
     "site": "Chicago Architecture Center",
     "title": "Skidmore, Owings & Merrill",
     "url": "https://architecture.org/online-resources/architecture-encyclopedia/skidmore-owings-merrill",
@@ -3123,15 +3014,6 @@
     "kind": "guide",
     "paid": false,
     "why": "Browse his projects on ArchDaily",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Álvaro Siza Vieira",
-    "url": "https://en.wikipedia.org/wiki/%C3%81lvaro_Siza_Vieira",
-    "kind": "overview",
-    "paid": false,
-    "why": "Full works list and background",
     "checked": "2026-10-21"
    }
   ]
@@ -3915,15 +3797,6 @@
     "paid": false,
     "why": "Ban on paper emergency shelters",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "YouTube",
-    "title": "Architect Shigeru Ban is disappointed by his own profession",
-    "url": "https://www.youtube.com/watch?v=204V3hKAqkc",
-    "kind": "video",
-    "paid": false,
-    "why": "Ban's critique of the profession",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -4065,24 +3938,6 @@
     "kind": "interview",
     "paid": false,
     "why": "Interview on heritage and modernism",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "David Chipperfield Architects",
-    "title": "Face to face with David Chipperfield",
-    "url": "https://davidchipperfield.com/video-and-audio/face-to-face-with-david-chipperfield",
-    "kind": "interview",
-    "paid": false,
-    "why": "Audio conversation on the practice site",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Designboom",
-    "title": "david chipperfield: 10 landmark projects by the 2023 pritzker laureate",
-    "url": "https://www.designboom.com/architecture/david-chipperfield-10-landmark-projects-2023-pritzker-laureate-03-08-2023/",
-    "kind": "guide",
-    "paid": false,
-    "why": "Ten landmark projects",
     "checked": "2026-10-21"
    }
   ]
@@ -4673,24 +4528,6 @@
     "paid": false,
     "why": "2007 laureate page and jury citation",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Dezeen",
-    "title": "\"We thought Lloyd's building was the ultimate in technology, but it's practically hand made\"",
-    "url": "https://www.dezeen.com/2013/08/04/movie-richard-rogers-lloyds-building-high-tech-architecture/",
-    "kind": "video",
-    "paid": false,
-    "why": "Rogers questions the high-tech label",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Rogers Stirk Harbour + Partners (ArchDaily)",
-    "title": "Rogers Stirk Harbour + Partners",
-    "url": "https://www.archdaily.com/office/rogers-stirk-harbour-plus-partners",
-    "kind": "profile",
-    "paid": false,
-    "why": "His practice's works",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -5104,25 +4941,6 @@
     "paid": false,
     "why": "Correa on his practice and housing",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Dezeen",
-    "title": "David Adjaye designs Charles Correa exhibition at RIBA",
-    "url": "https://www.dezeen.com/2013/03/23/david-adjaye-designs-charles-correa-exhibition-at-riba/amp/",
-    "kind": "museum",
-    "paid": false,
-    "why": "RIBA show of 6,000 Correa drawings",
-    "checked": "2026-10-21",
-    "blocked_check": true
-   },
-   {
-    "site": "Holcim Foundation",
-    "title": "Charles Correa",
-    "url": "https://www.holcimfoundation.org/experts/charles-correa",
-    "kind": "profile",
-    "paid": false,
-    "why": "Short biography and honours",
-    "checked": "2026-10-21"
    }
   ]
  },
@@ -5263,24 +5081,6 @@
     "kind": "interview",
     "paid": false,
     "why": "Q&A on his sculptural practice",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "SFMOMA",
-    "title": "Daniel Libeskind",
-    "url": "https://www.sfmoma.org/artist/Daniel_Libeskind/",
-    "kind": "museum",
-    "paid": false,
-    "why": "Museum profile of his drawings",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "University of New Mexico",
-    "title": "The Language of Architecture (lecture)",
-    "url": "https://digitalrepository.unm.edu/arch_lectures/22",
-    "kind": "video",
-    "paid": false,
-    "why": "Full university lecture, 2013",
     "checked": "2026-10-21"
    }
   ]
@@ -5859,15 +5659,6 @@
     "kind": "profile",
     "paid": false,
     "why": "Museum biography of the designer",
-    "checked": "2026-10-21"
-   },
-   {
-    "site": "Den Store Danske",
-    "title": "Arne Jacobsen",
-    "url": "https://lex.dk/Arne_Jacobsen",
-    "kind": "overview",
-    "paid": false,
-    "why": "Danish national encyclopaedia entry",
     "checked": "2026-10-21"
    },
    {
