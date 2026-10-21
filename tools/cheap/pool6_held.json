@@ -1,0 +1,442 @@
+[
+ {
+  "id": "seth-peterson-cottage",
+  "qid": "Q7456571",
+  "name": "Seth Peterson Cottage",
+  "why": "no sourced year",
+  "entry": {
+   "id": "seth-peterson-cottage",
+   "qid": "Q7456571",
+   "status": "photo",
+   "why": "Wright's last design, clear whole-house exterior. Year left empty: Wikidata's 1958 is the design year; the lead gives only the 1959 start and the 1961 sale.",
+   "name": "Seth Peterson Cottage",
+   "by": "Frank Lloyd Wright",
+   "city": "Reedsburg",
+   "cc": "US",
+   "year": null,
+   "type": "House",
+   "movement": "Modernism",
+   "concepts": [
+    "Stone",
+    "Landscape",
+    "Light & shadow"
+   ],
+   "features": "One of Wright's last designs, a one-story cottage in Mirror Lake State Park, with ashlar foundations and large glass.",
+   "commons_category": "Category:Seth Peterson Cottage",
+   "coords": [
+    43.56306,
+    -89.82528
+   ],
+   "photos": [
+    {
+     "file": "File:Seth Peterson Cottage Exterior.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Seth_Peterson_Cottage",
+    "https://www.wikidata.org/wiki/Q7456571"
+   ]
+  }
+ },
+ {
+  "id": "611-place",
+  "qid": "Q3499247",
+  "name": "611 Place",
+  "why": "no main photo",
+  "entry": {
+   "id": "611-place",
+   "qid": "Q3499247",
+   "status": "photo",
+   "why": "Lead gives its form and a record (tallest in the city on completion), so not an ordinary tower. Main photo is the whole tower; the other photos show neighbours.",
+   "name": "611 Place",
+   "by": "William Pereira",
+   "city": "Los Angeles",
+   "cc": "US",
+   "year": 1969,
+   "type": "Office & tower",
+   "movement": "Modernism",
+   "concepts": [
+    "Sculptural form",
+    "Steel & glass",
+    "Structure as expression"
+   ],
+   "features": "William Pereira's cross-shaped tower clad in vertical aluminum beams, the tallest building in Los Angeles when completed in 1969.",
+   "commons_category": "Category:611 West 6th Street (Los Angeles)",
+   "coords": [
+    34.049,
+    -118.256
+   ],
+   "photos": [
+    {
+     "file": "File:611Place LosAngeles.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/611_Place",
+    "https://www.wikidata.org/wiki/Q3499247"
+   ]
+  }
+ },
+ {
+  "id": "skandia-theater",
+  "qid": "Q693444",
+  "name": "Skandia-Theater",
+  "why": "no main photo",
+  "entry": {
+   "id": "skandia-theater",
+   "qid": "Q693444",
+   "status": "photo",
+   "why": "Well-known architect's built work with a short lead. Wikidata's main photo is a night shot with crowd and neon, so the daylight facade photo leads instead.",
+   "name": "Skandia-Theater",
+   "by": "Gunnar Asplund",
+   "city": "Stockholm",
+   "cc": "SE",
+   "year": 1923,
+   "type": "Culture & sport",
+   "movement": "Historic precedent",
+   "concepts": [
+    "Facade as skin",
+    "Public space",
+    "Light & shadow"
+   ],
+   "features": "Gunnar Asplund's cinema on Drottninggatan in Stockholm, opened in 1923 and protected since 2000.",
+   "commons_category": "Category:Biograf Skandia",
+   "coords": [
+    59.33535,
+    18.06005
+   ],
+   "photos": [
+    {
+     "file": "File:Skandiabiografen, fasad Apelbergsgatan.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Skandia-Theater",
+    "https://www.wikidata.org/wiki/Q693444"
+   ]
+  }
+ },
+ {
+  "id": "rietveld-pavilion",
+  "qid": "Q29642218",
+  "name": "Rietveld Pavilion",
+  "why": "no sourced year",
+  "entry": {
+   "id": "rietveld-pavilion",
+   "qid": "Q29642218",
+   "status": "photo",
+   "why": "Rietveld already has several buildings on the wall. Year left empty: 1954 is the design year and the lead gives no completion date. Two daylight photos of the whole pavilion; the black-and-white photos left out.",
+   "name": "Rietveld Pavilion",
+   "by": "Gerrit Rietveld",
+   "city": "Otterlo",
+   "cc": "NL",
+   "year": null,
+   "type": "Pavilion",
+   "movement": "Late modernism",
+   "concepts": [
+    "Landscape",
+    "Modular",
+    "Light & shadow"
+   ],
+   "features": "Rietveld's pavilion, first designed for the 1955 Sonsbeek show in Arnhem and moved to Otterlo in 1964.",
+   "commons_category": "Category:Rietveld Pavillion",
+   "coords": [
+    52.09663,
+    5.819
+   ],
+   "photos": [
+    {
+     "file": "File:Overzicht galerij aan de achter zijde en rechterzijde - Otterlo - 20357472 - RCE.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Rietveld Schroder Huis Kroller Muller Museum Otterlo, Holland - panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://nl.wikipedia.org/wiki/Rietveldpaviljoen_%28Otterlo%29",
+    "https://www.wikidata.org/wiki/Q29642218"
+   ]
+  }
+ },
+ {
+  "id": "aldo-van-eyck-pavilion",
+  "qid": "Q29642647",
+  "name": "Aldo van Eyck Pavilion",
+  "why": "no sourced year",
+  "entry": {
+   "id": "aldo-van-eyck-pavilion",
+   "qid": "Q29642647",
+   "status": "photo",
+   "why": "Van Eyck already has four buildings on the wall. The lead names van Eyck as the designer, so Wikidata's Rietveld and van Rooijen are left out. Wikidata's 1954 is wrong (the lead says 1965), and no completion date is given, so year is empty.",
+   "name": "Aldo van Eyck Pavilion",
+   "by": "Aldo van Eyck",
+   "city": "Otterlo",
+   "cc": "NL",
+   "year": null,
+   "type": "Pavilion",
+   "movement": "Late modernism",
+   "concepts": [
+    "Exposed concrete",
+    "Modular",
+    "Landscape"
+   ],
+   "features": "Aldo van Eyck's pavilion in the Kröller-Müller sculpture park, designed in 1965 and there since 2005–2006.",
+   "commons_category": "Category:Aldo van Eyckpavillion",
+   "coords": [
+    52.09598,
+    5.82648
+   ],
+   "photos": [
+    {
+     "file": "File:Aldo van Eyck Pavillion.JPG",
+     "license": "Public domain",
+     "seen": true
+    },
+    {
+     "file": "File:Aldo van Eyckpaviljoen 01.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://nl.wikipedia.org/wiki/Aldo_van_Eyck-paviljoen",
+    "https://www.wikidata.org/wiki/Q29642647"
+   ]
+  }
+ },
+ {
+  "id": "national-institute-for-technical-education-leuven",
+  "qid": "Q115679370",
+  "name": "National Institute for Technical Education Leuven",
+  "why": "no sourced year",
+  "entry": {
+   "id": "national-institute-for-technical-education-leuven",
+   "qid": "Q115679370",
+   "status": "photo",
+   "why": "Van de Velde already has several buildings on the wall. The lead names the convent site and the school (1937 to 1984) but no date for this building, and Wikidata's 1942 is unconfirmed, so year is empty. Whether this building is the library is taken from the lead's wording; Opus should check. Interior photos left out.",
+   "name": "National Institute for Technical Education Leuven",
+   "by": "Henry van de Velde",
+   "city": "Leuven",
+   "cc": "BE",
+   "year": null,
+   "type": "Education",
+   "movement": "Modernism",
+   "concepts": [
+    "Brick",
+    "Steel & glass",
+    "Modular"
+   ],
+   "features": "Henry van de Velde's technical school in Leuven, on a former convent site; now the Tweebronnen library.",
+   "commons_category": "Category:Diestsestraat 49, Rijschoolstraat 4, Leuven",
+   "coords": [
+    50.88079,
+    4.70377
+   ],
+   "photos": [
+    {
+     "file": "File:Rijschoolstraat 4 (Leuven).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:De technische school Van de Velde , ext., gevelzicht - 354894 - onroerenderfgoed.jpg",
+     "license": "CC BY 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://nl.wikipedia.org/wiki/Wittevrouwenklooster_%28Leuven%29",
+    "https://www.wikidata.org/wiki/Q115679370"
+   ]
+  }
+ },
+ {
+  "id": "palace-moravia",
+  "qid": "Q253564",
+  "name": "Palace Moravia",
+  "why": "no sourced year",
+  "entry": {
+   "id": "palace-moravia",
+   "qid": "Q253564",
+   "status": "photo",
+   "why": "Named competition (Behrens and Oud entered) and a difficult site; a functionalist complex; photo clear.",
+   "name": "Palace Moravia",
+   "by": "Ernst Wiesner",
+   "city": "Brno",
+   "cc": "CZ",
+   "year": null,
+   "type": "Workplace",
+   "movement": "Modernism",
+   "concepts": [
+    "Light from above",
+    "Facade as skin",
+    "Public space"
+   ],
+   "features": "A Brno complex by Arnošt Wiesner on a difficult plot, after a 1926 competition that drew Behrens and Oud.",
+   "commons_category": "Category:Morava Palace",
+   "coords": [
+    49.19521,
+    16.61398
+   ],
+   "photos": [
+    {
+     "file": "File:Palác Morava Brno 1.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Palace_Moravia",
+    "https://www.wikidata.org/wiki/Q253564"
+   ]
+  }
+ },
+ {
+  "id": "riverside-art-museum",
+  "qid": "Q7338423",
+  "name": "Riverside Art Museum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "riverside-art-museum",
+   "qid": "Q7338423",
+   "status": "photo",
+   "why": "Julia Morgan's YWCA building, a named architect's work; the year is a design date, so left blank; photo clear.",
+   "name": "Riverside Art Museum",
+   "by": "Julia Morgan",
+   "city": "Riverside",
+   "cc": "US",
+   "year": null,
+   "type": "Museum",
+   "movement": "Historic precedent",
+   "concepts": [
+    "Courtyard",
+    "Detail",
+    "Community"
+   ],
+   "features": "Julia Morgan's YWCA building, designed in 1929, now an art museum in Riverside's Mission Inn district.",
+   "commons_category": "Category:Riverside Art Museum",
+   "coords": [
+    33.98172,
+    -117.37047
+   ],
+   "photos": [
+    {
+     "file": "File:RiversideArtMuseum20090821g.JPG",
+     "license": "Public domain",
+     "seen": true
+    },
+    {
+     "file": "File:Old YWCA Building front faces south.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Riverside_Art_Museum",
+    "https://www.wikidata.org/wiki/Q7338423"
+   ]
+  }
+ },
+ {
+  "id": "georg-kolbe-museum",
+  "qid": "Q1503409",
+  "name": "Georg Kolbe Museum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "georg-kolbe-museum",
+   "qid": "Q1503409",
+   "status": "photo",
+   "why": "Lead calls it an important Bauhaus-influenced New Building example of the 1920s; the year is an opening date, so left blank.",
+   "name": "Georg Kolbe Museum",
+   "by": "Paul Linder, Ernst Rentsch",
+   "city": "Berlin",
+   "cc": "DE",
+   "year": null,
+   "type": "Museum",
+   "movement": "Modernism",
+   "concepts": [
+    "Landscape",
+    "Brick",
+    "Sculptural form"
+   ],
+   "features": "A former sculptor's studio house in Berlin, an important example of Bauhaus-influenced New Building of the 1920s.",
+   "commons_category": "Category:Georg-Kolbe-Museum",
+   "coords": [
+    52.51028,
+    13.25417
+   ],
+   "photos": [
+    {
+     "file": "File:Sensburger Allee 25-26 (09096432) 001.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Georg_Kolbe_Museum",
+    "https://www.wikidata.org/wiki/Q1503409"
+   ]
+  }
+ },
+ {
+  "id": "bijenkorf-rotterdam",
+  "qid": "Q2181857",
+  "name": "Bijenkorf Rotterdam",
+  "why": "no sourced year",
+  "entry": {
+   "id": "bijenkorf-rotterdam",
+   "qid": "Q2181857",
+   "status": "photo",
+   "why": "Haiku skipped it because the lead describes the store chain, but it is a built work by Breuer (a named well-known architect) with a clear whole-building daylight main photo. The lead gives no year, so year is null; the lead says nothing about the building itself, so features only repeats the chain description. Not the same as the wall's Lijnbaan (172 m away).",
+   "name": "Bijenkorf Rotterdam",
+   "by": "Marcel Breuer, Abraham Elzas",
+   "city": "Rotterdam",
+   "cc": "NL",
+   "year": null,
+   "type": "Workplace",
+   "movement": "Late modernism",
+   "concepts": [
+    "Facade as skin",
+    "Stone",
+    "Geometry"
+   ],
+   "features": "Marcel Breuer and Abraham Elzas's Rotterdam branch of De Bijenkorf, a Dutch chain of high-end department stores.",
+   "commons_category": "Category:Bijenkorf Rotterdam",
+   "coords": [
+    51.92039,
+    4.47889
+   ],
+   "photos": [
+    {
+     "file": "File:Rotterdam coolsingel bijenkorf.jpg",
+     "license": "CC BY 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Overzicht vanaf het zuidoosten - Rotterdam - 20533908 - RCE.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Overzicht ingangspartij aan de Coolsingel - Rotterdam - 20533912 - RCE.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/De_Bijenkorf_%28Rotterdam%29",
+    "https://www.wikidata.org/wiki/Q2181857"
+   ]
+  }
+ }
+]
