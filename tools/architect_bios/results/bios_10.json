@@ -35,13 +35,15 @@
     "site": "Wikipedia (German)",
     "title": "Brücke-Museum",
     "url": "https://de.wikipedia.org/wiki/Brücke-Museum",
-    "why": "his museum for the Brücke painters"
+    "why": "his museum for the Brücke painters",
+    "checked": "2026-10-21"
    },
    {
     "site": "Wikipedia (German)",
     "title": "St. Agnes (Berlin)",
     "url": "https://de.wikipedia.org/wiki/St._Agnes_(Berlin)",
-    "why": "his church in Kreuzberg"
+    "why": "his church in Kreuzberg",
+    "checked": "2026-10-21"
    }
   ],
   "skip": false

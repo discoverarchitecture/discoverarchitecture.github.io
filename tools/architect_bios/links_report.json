@@ -10,28 +10,28 @@
  },
  {
   "architect": "Werner Düttmann",
-  "url": "https://en.wikipedia.org/wiki/Brücke_Museum",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Br%C3%BCcke_Museum",
-  "title": "Brücke Museum - Wikipedia",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Werner Düttmann",
-  "url": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
-  "status": 200,
-  "final": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
-  "title": "Academy of Arts, Berlin - Wikipedia",
-  "about": false,
-  "error": null
- },
- {
-  "architect": "Werner Düttmann",
   "url": "https://architectuul.com/architect/werner-duttmann",
   "status": 200,
   "final": "https://architectuul.com/architect/werner-duttmann",
   "title": "Werner Duttmann | Architectuul",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Werner Düttmann",
+  "url": "https://de.wikipedia.org/wiki/Brücke-Museum",
+  "status": 200,
+  "final": "https://de.wikipedia.org/wiki/Br%C3%BCcke-Museum",
+  "title": "Brücke-Museum – Wikipedia",
+  "about": true,
+  "error": null
+ },
+ {
+  "architect": "Werner Düttmann",
+  "url": "https://de.wikipedia.org/wiki/St._Agnes_(Berlin)",
+  "status": 200,
+  "final": "https://de.wikipedia.org/wiki/St._Agnes_(Berlin)",
+  "title": "St. Agnes (Berlin) – Wikipedia",
   "about": true,
   "error": null
  },
@@ -97,15 +97,6 @@
   "title": "Atarim Square - Wikipedia",
   "about": true,
   "error": null
- },
- {
-  "architect": "Yaakov Rechter",
-  "url": "https://www.rechter-architects.com/",
-  "status": 0,
-  "final": "https://www.rechter-architects.com/",
-  "title": "",
-  "about": false,
-  "error": "ERROR <urlopen error [Errno -2] Name or service not known>"
  },
  {
   "architect": "Liu Jiakun",
