@@ -25,25 +25,23 @@
     "checked": "2026-10-21"
    },
    {
-    "site": "Wikipedia",
-    "title": "Brücke Museum",
-    "url": "https://en.wikipedia.org/wiki/Brücke_Museum",
-    "why": "his best-known museum",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
-    "site": "Wikipedia",
-    "title": "Academy of Arts, Berlin",
-    "url": "https://en.wikipedia.org/wiki/Academy_of_Arts,_Berlin",
-    "why": "the academy he designed for and presided over",
-    "check_failed": "status 200, name not found on page"
-   },
-   {
     "site": "Architectuul",
     "title": "Werner Düttmann",
     "url": "https://architectuul.com/architect/werner-duttmann",
     "why": "a list of buildings with photos",
     "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia (German)",
+    "title": "Brücke-Museum",
+    "url": "https://de.wikipedia.org/wiki/Brücke-Museum",
+    "why": "his museum for the Brücke painters"
+   },
+   {
+    "site": "Wikipedia (German)",
+    "title": "St. Agnes (Berlin)",
+    "url": "https://de.wikipedia.org/wiki/St._Agnes_(Berlin)",
+    "why": "his church in Kreuzberg"
    }
   ],
   "skip": false
@@ -148,13 +146,6 @@
     "url": "https://en.wikipedia.org/wiki/Atarim_Square",
     "why": "his brutalist square in Tel Aviv",
     "checked": "2026-10-21"
-   },
-   {
-    "site": "Rechter Architects",
-    "title": "Official site",
-    "url": "https://www.rechter-architects.com/",
-    "why": "the family practice he led with his son",
-    "check_failed": "status 0, name not found on page"
    }
   ],
   "skip": false
