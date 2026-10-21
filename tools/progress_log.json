@@ -28,5 +28,10 @@
   "date": "2026-10-20",
   "workstream": "FGA Studio (design)",
   "note": "Sample board remade (round 3): Salk drawings redrawn like a studio set, three layouts (Calm grid, Drawing first, Editorial) on canvas v32 with phone and computer views; waiting for the owner’s pick and case-study PDFs."
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "note": "Drawings for the most-studied buildings 201-1,000: Commons scanned in four runs, 82 drawings for 40 buildings accepted (Sonnet first pass, Opus check by eye) and fetched; 15 off-topic photos from the refetch removed."
  }
 ]
