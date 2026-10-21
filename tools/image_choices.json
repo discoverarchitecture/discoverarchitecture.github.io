@@ -3995,6 +3995,9 @@
    "File:A.L. van Gendt organ Concertgebouw.jpg",
    "File:Abbey Lincoln in 1966.jpg",
    "File:11e Nationale Vioolconcours Oscar Back winnares Cecile Huynen, Bestanddeelnr 933-9571.jpg"
+  ],
+  "drawings": [
+   "File:A.L. van Gendt Concertgebouw 0.jpg"
   ]
  },
  "bode-museum": {
@@ -8970,6 +8973,9 @@
    "File:Lovell House, Los Angeles, California.JPG",
    "File:Lovell Health House 3.jpg",
    "File:Lovell House 1.jpg"
+  ],
+  "drawings": [
+   "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 8 of 9).png"
   ]
  },
  "miller-house-columbus": {
@@ -11125,6 +11131,10 @@
   ],
   "skip": [
    "File:7 cm kanon modell 1863.jpg"
+  ],
+  "drawings": [
+   "File:Stockholms stadshus plan 1 tr Blå rummet.jpg",
+   "File:Stockholms stadshus, tornskisser, 1918, 1919.jpg"
   ]
  },
  "viikki-church": {
@@ -13612,6 +13622,10 @@
   "skip": [
    "File:A la bibliothèque Ste Geneviève. 1, G.19701(2).jpg",
    "File:Bibliothèque Sainte-Geneviève by Piyanist - Wikimania 2026 Tour Event (1).jpg"
+  ],
+  "drawings": [
+   "File:Bibliothek Sainte-Geneviève ground floor plan.jpg",
+   "File:Bibliothèque Sainte-Geneviève floor plan.jpg"
   ]
  },
  "notre-dame-de-toute-grace-assy": {
@@ -13626,6 +13640,12 @@
    "File:00 0510 Viaduc de Garabit - Département Cantal, Frankreich.jpg",
    "File:00 0523 Viaduc de Garabit - Département Cantal.jpg",
    "File:00 0526 Viaduc de Garabit - Département Cantal, Frankreich.jpg"
+  ],
+  "drawings": [
+   "File:Viaduc de Garabit Planche 12 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 3 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 4 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 5 - Mémoire de G. Eiffel.jpg"
   ]
  },
  "le-cent-quatre": {
@@ -17627,6 +17647,10 @@
    "File:Hanoi - Opera House.jpg",
    "File:Hanoi Opera House (9753397985).jpg",
    "File:Hanoi Opera House 14.JPG"
+  ],
+  "drawings": [
+   "File:Francois Lagisquet - Hanoi Opera House.jpg",
+   "File:Harley and Broyer - Hanoi Opera House 2.jpg"
   ]
  },
  "vietnam-museum-of-ethnology": {
@@ -17963,6 +17987,11 @@
  "reliance-building": {
   "add": [
    "File:Reliance Building in September 2015.jpg"
+  ],
+  "drawings": [
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 2 of 4).png",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 3 of 4).png",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 4 of 4).png"
   ]
  },
  "richard-j-daley-center": {
@@ -17990,6 +18019,10 @@
     239241,
     "Drawing"
    ]
+  ],
+  "drawings": [
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 2 of 8).png",
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 3 of 8).png"
   ]
  },
  "harold-washington-library-center": {
@@ -24198,6 +24231,9 @@
  "national-building-museum": {
   "skip": [
    "File:2017 Lone Sailor Awards Dinner.jpg"
+  ],
+  "drawings": [
+   "File:Pension Building, 440 G Street Northwest, Washington, District of Columbia, DC HABS DC,WASH,152- (sheet 1 of 1).png"
   ]
  },
  "tribunal-de-paris": {
@@ -25085,6 +25121,11 @@
  "palace-of-justice": {
   "add": [
    "File:Monumento a la Infantería Belga y Palacio de Justicia, Bruselas, Bélgica, 2021-12-15, DD 66.jpg"
+  ],
+  "drawings": [
+   "File:Plan miniemengevel.png",
+   "File:Plan jp 1880.png",
+   "File:Doorsnede jp.png"
   ]
  },
  "parque-guinle": {
@@ -25140,6 +25181,11 @@
  "schindler-house": {
   "add": [
    "File:Schindler-Chase house (Rudolf Schindler), 1922 b.jpg"
+  ],
+  "drawings": [
+   "File:SchindlerHouse00003a.gif",
+   "File:SchindlerHouse00004a.gif",
+   "File:SchindlerHouse00005a.gif"
   ]
  },
  "selimiye-mosque": {
@@ -28320,6 +28366,29 @@
    "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 1 of 7).tif",
    "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 2 of 7).png",
    "File:Unity Temple, 875 Lake Street, Oak Park, Cook County, IL HABS ILL,16-OAKPA,3- (sheet 3 of 7).png"
+  ]
+ },
+ "breuer-building": {
+  "drawings": [
+   "File:Breuer Building plan 02a.jpg"
+  ]
+ },
+ "fisher-building": {
+  "drawings": [
+   "File:Fisher Building 5th to 9th Floor Plan.png"
+  ]
+ },
+ "mausebunker": {
+  "drawings": [
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg"
+  ]
+ },
+ "mosque-madrasa-of-sultan-hassan": {
+  "drawings": [
+   "File:Plan of Medresa (c.1830) - TIMEA.jpg"
   ]
  }
 }

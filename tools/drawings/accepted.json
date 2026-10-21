@@ -345,5 +345,126 @@
    "File:Palladio Rotonda seccion Scamozzi 1778.jpg"
   ],
   "ranks": "401-600"
+ },
+ {
+  "id": "rookery-building",
+  "add": [
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 2 of 8).png",
+   "File:Rookery Building, 209 South LaSalle Street, Chicago, Cook County, IL HABS ILL,16-CHIG,31- (sheet 3 of 8).png"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "palace-of-justice",
+  "add": [
+   "File:Plan miniemengevel.png",
+   "File:Plan jp 1880.png",
+   "File:Doorsnede jp.png"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "concertgebouw",
+  "add": [
+   "File:A.L. van Gendt Concertgebouw 0.jpg"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "breuer-building",
+  "add": [
+   "File:Breuer Building plan 02a.jpg"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "stockholm-city-hall",
+  "add": [
+   "File:Stockholms stadshus plan 1 tr Blå rummet.jpg",
+   "File:Stockholms stadshus, tornskisser, 1918, 1919.jpg"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "fisher-building",
+  "add": [
+   "File:Fisher Building 5th to 9th Floor Plan.png"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "mausebunker",
+  "add": [
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Grundriss-2OG.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Laengsansichten.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Querschnitte.jpg",
+   "File:Zentrale-Tierlaboratorien-Maeusebunker-Gerd-Haenska-Zeichnung-Perspektive.jpg"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "national-building-museum",
+  "add": [
+   "File:Pension Building, 440 G Street Northwest, Washington, District of Columbia, DC HABS DC,WASH,152- (sheet 1 of 1).png"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "mosque-madrasa-of-sultan-hassan",
+  "add": [
+   "File:Plan of Medresa (c.1830) - TIMEA.jpg"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "viaduc-de-garabit",
+  "add": [
+   "File:Viaduc de Garabit Planche 12 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 3 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 4 - Mémoire de G. Eiffel.jpg",
+   "File:Viaduc de Garabit Planche 5 - Mémoire de G. Eiffel.jpg"
+  ],
+  "ranks": "601-800"
+ },
+ {
+  "id": "lovell-health-house",
+  "add": [
+   "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 8 of 9).png"
+  ],
+  "ranks": "801-1000"
+ },
+ {
+  "id": "bibliotheque-sainte-genevieve",
+  "add": [
+   "File:Bibliothek Sainte-Geneviève ground floor plan.jpg",
+   "File:Bibliothèque Sainte-Geneviève floor plan.jpg"
+  ],
+  "ranks": "801-1000"
+ },
+ {
+  "id": "reliance-building",
+  "add": [
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 2 of 4).png",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 3 of 4).png",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 4 of 4).png"
+  ],
+  "ranks": "801-1000"
+ },
+ {
+  "id": "hanoi-opera-house",
+  "add": [
+   "File:Francois Lagisquet - Hanoi Opera House.jpg",
+   "File:Harley and Broyer - Hanoi Opera House 2.jpg"
+  ],
+  "ranks": "801-1000"
+ },
+ {
+  "id": "schindler-house",
+  "add": [
+   "File:SchindlerHouse00003a.gif",
+   "File:SchindlerHouse00004a.gif",
+   "File:SchindlerHouse00005a.gif"
+  ],
+  "ranks": "801-1000"
  }
 ]
