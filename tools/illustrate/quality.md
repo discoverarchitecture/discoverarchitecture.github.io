@@ -141,3 +141,22 @@ museum, renovation architects for older buildings), takes demolished or rebuilt 
 district as the city, and does not check the wall for duplicates. 21 good buildings are held in
 `tools/cheap/held_no_year.json` because no source in the prepared data gives a year. 25 of the 98 are Ottoman
 mosques by Sinan: fine as historic precedents, but the next pool should lean modern.
+
+## Haiku pipeline, fourth pool (21 Oct 2026): 300 modern candidates (built 1900 or later)
+
+94 by architects already on the wall, 206 well-scored new ones. Haiku judged all 300 with the brief's new
+"lessons" section; Sonnet checked every keep, unsure and skip; Opus checked every gallery by eye. 79 reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 79 (1 better lead chosen: Nuevos Ministerios; 8 more swapped by Sonnet) | fine |
+| No free photo | not counted separately; the pool was built from candidates with Commons photos | fine |
+| Already on the wall | 0 of 300: the pool filter now checks the Wikipedia article and the Commons category | fine |
+| Facts failing the source check | Haiku's keeps: 9 of 62 needed a fact fixed, 3 were wrong keeps (19%). All fixed by Sonnet before anything was added | **stop level for Haiku alone**, as in pool 3 |
+| Ordinary types | 8 of 79 (10%): 3 housing, 3 office, 2 hotels | fine |
+
+Haiku was now too strict: it skipped buildings whose Wikipedia lead names no architect. The brief was loosened
+(accept Wikidata's architect unless the lead names someone else or the dates rule it out), and Sonnet rescued 37
+good skips. 7 buildings wait in `tools/cheap/held_no_year.json` for a sourced year. Opus took 90 weak photos out of
+47 galleries (people, interiors of other rooms, night shots, near-duplicates). Six credits that listed a firm and its
+partners were shortened to the firm (Heureka, 013, MAAT, Rosecliff, De Doelen, Pasadena City Hall).

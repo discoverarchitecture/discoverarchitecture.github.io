@@ -38,5 +38,10 @@
   "date": "2026-10-21",
   "workstream": "Data collection",
   "note": "Haiku pipeline, third pool: 287 candidates judged by Haiku, every judgement checked by Sonnet, every gallery by Opus; 98 buildings added, 77 off-topic photos removed, 21 held for want of a sourced year."
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "note": "Haiku pipeline, fourth pool (modern): 300 candidates judged by Haiku, every judgement checked by Sonnet (37 rescued), every gallery by Opus; 79 buildings added, 90 weak photos removed, 7 held for want of a sourced year. Page titles now keep firms like McKim, Mead & White whole."
  }
 ]
