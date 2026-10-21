@@ -808,7 +808,7 @@ if (qs.has('sent')) qf.classList.add('sent');
 <script>
 // Waitlist: each form is sent to the owner's Google Sheet (Apps Script web app) and counted as studio/signup.
 (function () {
-  var URL_ = "";
+  var URL_ = "https://script.google.com/macros/s/AKfycby8MglQq6PftVT7S_dKh1WR-P88CRgdxv2FvxJRvG83OdrLV9Zr5waXMpL8VV2o-qI/exec";
   function send(form, stage) {
     var d = new URLSearchParams(new FormData(form)); d.set('stage', stage); d.set('page', location.pathname);
     try { fetch(URL_, { method: 'POST', mode: 'no-cors', body: d, keepalive: true }); } catch (e) { /* offline */ }
