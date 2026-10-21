@@ -59,3 +59,16 @@ Write `tools/cheap/haiku_results.json`: a list in prep order. Each entry has:
 - `photos` as `[{"file", "license", "seen": true}]`.
 
 Don't change any other file, and don't commit. End with one line: kept, skipped, unsure.
+
+## Lessons from the third pool (21 Oct 2026): check these before keeping
+
+- **The architect.** Wikidata often names a later renovation, extension or interior architect, or credits a famous
+  name wrongly (Sinan for a 1347 mosque, Horta for an 1844 museum). Keep the building only if the lead (or the photos'
+  descriptions) show this architect designed the building as it stands. If the lead names a different original
+  architect, use that one; if it names nobody and the date is impossible for the architect, use "unsure".
+- **Built and standing.** Skip demolished, destroyed, rebuilt-as-copy, unbuilt and planned buildings, and interiors
+  only.
+- **City, not district.** Use the city ("Istanbul", "London", "Brasília"), never a district or borough.
+- **Year.** The year it was completed or opened, from the lead. Not a founding, design, competition or museum-opening
+  year of an older building. If no source gives one, write `"year": null`.
+- **Name.** The English Wikipedia title.
