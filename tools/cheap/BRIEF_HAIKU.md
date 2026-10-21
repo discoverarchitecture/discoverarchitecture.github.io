@@ -74,3 +74,11 @@ Don't change any other file, and don't commit. End with one line: kept, skipped,
 - **Year.** The year it was completed or opened, from the lead. Not a founding, design, competition or museum-opening
   year of an older building. If no source gives one, write `"year": null`.
 - **Name.** The English Wikipedia title.
+
+## Leads in other languages (fifth pool, 21 Oct 2026)
+
+Some buildings have no English Wikipedia article. For them `lead` comes from another language's article, named by
+`lead_lang` (de, fr, nl, es, ja…) and `lead_title`. Read it as you would an English lead and translate faithfully:
+`features` is still one English sentence using only what that lead says. For `name`, use the English `label` if it
+reads as a proper English name, otherwise the name the lead itself uses for the building (in its own language,
+without translating a proper name). A building with no lead in any language is still skipped.
