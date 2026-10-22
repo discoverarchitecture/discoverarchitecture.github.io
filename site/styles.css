@@ -287,7 +287,12 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 .stage .zoom { all: unset; box-sizing: border-box; position: absolute; right: 12px; bottom: 12px; z-index: 2; width: 40px; height: 40px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,0.55); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
 .stage .zoom svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 @media (hover: hover) { .stage .zoom:hover { background: var(--red); } }
-.zv { position: fixed; inset: 0; z-index: 90; background: var(--stage); display: grid; grid-template-rows: 1fr auto; color: #EDEDE9; }
+.zv { position: fixed; inset: 0; z-index: 90; background: var(--stage); display: grid; grid-template-rows: 1fr auto auto; color: #EDEDE9; }
+.zv-dots { display: flex; justify-content: center; padding-top: 10px; }
+.zv-dots .dots { display: flex; gap: 6px; align-items: center; }
+.zv-dots .dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--red-pale); }
+.zv-dots .dots i.on { background: var(--red); }
+.zv-dots .dots i.sm { transform: scale(.6); }
 .zv[hidden] { display: none; }
 .zv img { width: 100%; height: 100%; min-height: 0; object-fit: contain; touch-action: pinch-zoom; }
 .zv .nav { z-index: 2; }
@@ -299,7 +304,8 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 .zv-cap .l { font: 400 11px var(--mono); color: #BDBDB6; text-align: right; }
 .zv-cap a { color: inherit; }
 body.zoomed .dock { display: none; }
-@media (max-width: 760px) { .zv-cap { flex-direction: column; gap: 4px; } .zv-cap .l { text-align: left; } .zv .nav { display: none; } }
+@media (max-width: 760px) { .stage .zoom { right: auto; left: calc(50% - 20px); } /* clear of the arrows on a phone */
+  .zv-cap { flex-direction: column; gap: 4px; } .zv-cap .l { text-align: left; } .zv .nav { display: none; } }
 .stage .slot { color: var(--ground); }
 .stage .slot::before { border-color: rgba(237,237,233,0.25); }
 .stage .slot .k, .stage .slot .s { color: #BDBDB6; }

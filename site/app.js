@@ -809,6 +809,10 @@
     if (!im) return;
     $('zvImg').src = im.src || im.thumb; $('zvImg').alt = `${b.name}: ${im.caption || 'photo'}`;
     $('zvCap').innerHTML = $('gCap').innerHTML;
+    // red dots, as on the wall: which photo of how many (only those of the chosen kind), so a swipe is expected
+    const list = (b.images || []).map((x, j) => j).filter(j => state.kind === 'All' || inKind(b.images[j], state.kind));
+    const n = state.kind === 'All' ? photoCount(b) : list.length;
+    $('zvDots').innerHTML = n > 1 ? dotsHtml(n, Math.max(0, list.indexOf(state.shot))) : '';
     $('zvPrev').hidden = $('zvNext').hidden = $('gPrev').hidden;
   }
   function openZoom() { if (!state.open || state.open.kind === 'book' || !(state.open.images || []).length) return; zoomFill(); $('zv').hidden = false; document.body.classList.add('zoomed'); $('zvX').focus(); }
