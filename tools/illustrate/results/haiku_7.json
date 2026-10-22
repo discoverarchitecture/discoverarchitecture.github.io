@@ -130,51 +130,6 @@
   ]
  },
  {
-  "id": "first-unitarian-society-of-madison",
-  "qid": "Q5453960",
-  "status": "photo",
-  "why": "Wright church, National Historic Landmark; lead gives the reason. Year from the lead (built 1949-1951).",
-  "name": "First Unitarian Society of Madison",
-  "by": "Frank Lloyd Wright",
-  "city": "Shorewood Hills",
-  "cc": "US",
-  "year": 1951,
-  "type": "Religious",
-  "movement": "Modernism",
-  "concepts": [
-   "Sculptural form",
-   "Stone",
-   "Structure as expression"
-  ],
-  "features": "Frank Lloyd Wright's National Historic Landmark meeting house for one of the ten largest Unitarian Universalist congregations.",
-  "commons_category": "Category:First Unitarian Society Meetinghouse",
-  "coords": [
-   43.07589,
-   -89.43518
-  ],
-  "photos": [
-   {
-    "file": "File:Unitarian Meeting House Shorewood Hills Wisconsin 2021-3757.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Unitarian Meeting House Shorewood Hills Wisconsin 2021-3755.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:First Unitarian Society of Madison Wisconsin Exterior.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "sources": [
-   "https://en.wikipedia.org/wiki/First_Unitarian_Society_of_Madison",
-   "https://www.wikidata.org/wiki/Q5453960"
-  ]
- },
- {
   "id": "theodore-baird-residence",
   "qid": "Q7781692",
   "status": "photo",
@@ -1282,41 +1237,6 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Hood_Museum_of_Art",
    "https://www.wikidata.org/wiki/Q3140304"
-  ]
- },
- {
-  "id": "festspielhaus-hellerau",
-  "qid": "Q825047",
-  "status": "photo",
-  "why": "Tessenow is a well-known early modern architect; the lead gives its reason (early modern theatre centre). Main photo is a clear 1913 view.",
-  "name": "Festspielhaus Hellerau",
-  "by": "Heinrich Tessenow",
-  "city": "Dresden",
-  "cc": "DE",
-  "year": 1911,
-  "type": "Culture & sport",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Community",
-   "Public space",
-   "Monumentality"
-  ],
-  "features": "An important centre for early modern theatre, built 1911 in Dresden's garden-city district of Hellerau.",
-  "commons_category": "Category:Festspielhaus Hellerau",
-  "coords": [
-   51.1137,
-   13.7531
-  ],
-  "photos": [
-   {
-    "file": "File:Festspielhaus Hellerau 1913.png",
-    "license": "Public domain",
-    "seen": true
-   }
-  ],
-  "sources": [
-   "https://en.wikipedia.org/wiki/Festspielhaus_Hellerau",
-   "https://www.wikidata.org/wiki/Q825047"
   ]
  },
  {
