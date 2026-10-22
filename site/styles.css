@@ -282,7 +282,24 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 .gallery { position: relative; min-height: 0; display: grid; grid-template-rows: 1fr auto auto; background: var(--stage); color: #EDEDE9; }
 .stage { position: relative; margin: 0; min-height: 0; touch-action: pan-y; }
 .stage.drawing { background: var(--surface); }
-.stage img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.stage img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; cursor: zoom-in; }
+/* The zoom button on the opened building's photo, and the photo full screen */
+.stage .zoom { all: unset; box-sizing: border-box; position: absolute; right: 12px; bottom: 12px; z-index: 2; width: 40px; height: 40px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,0.55); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
+.stage .zoom svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+@media (hover: hover) { .stage .zoom:hover { background: var(--red); } }
+.zv { position: fixed; inset: 0; z-index: 90; background: var(--stage); display: grid; grid-template-rows: 1fr auto; color: #EDEDE9; }
+.zv[hidden] { display: none; }
+.zv img { width: 100%; height: 100%; min-height: 0; object-fit: contain; touch-action: pinch-zoom; }
+.zv .nav { z-index: 2; }
+.zv .nav.prev { left: 12px; } .zv .nav.next { right: 12px; }
+.zv-x { all: unset; box-sizing: border-box; position: absolute; top: calc(12px + env(safe-area-inset-top, 0px)); right: 12px; z-index: 3; width: 44px; height: 44px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,0.55); }
+.zv-x svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2.2; }
+@media (hover: hover) { .zv-x:hover { background: var(--red); } }
+.zv-cap { display: flex; justify-content: space-between; gap: 16px; padding: 10px 16px calc(12px + env(safe-area-inset-bottom, 0px)); font: 400 13px var(--sans); color: #EDEDE9; }
+.zv-cap .l { font: 400 11px var(--mono); color: #BDBDB6; text-align: right; }
+.zv-cap a { color: inherit; }
+body.zoomed .dock { display: none; }
+@media (max-width: 760px) { .zv-cap { flex-direction: column; gap: 4px; } .zv-cap .l { text-align: left; } .zv .nav { display: none; } }
 .stage .slot { color: var(--ground); }
 .stage .slot::before { border-color: rgba(237,237,233,0.25); }
 .stage .slot .k, .stage .slot .s { color: #BDBDB6; }
