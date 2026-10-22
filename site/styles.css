@@ -807,8 +807,8 @@ body.ideas-away .dock button { padding: 0 13px; gap: 0; }
 .cat-dots { display: flex; justify-content: center; gap: 0; padding-top: 2px; }
 .cat-dots:empty { display: none; }
 .cat-dots button { all: unset; cursor: pointer; display: flex; padding: 10px 4px; } /* a finger-sized target around a small dot */
-.cat-dots button::before { content: ''; width: 6px; height: 6px; border-radius: 3px; background: var(--mute-2); transition: width .2s ease, background .2s ease; }
-.cat-dots button.on::before { width: 18px; background: var(--graphite); }
+.cat-dots button::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--red-pale); transition: background .2s ease; } /* red, like every row's dots */
+.cat-dots button.on::before { background: var(--red); }
 .cat-arr.next { right: 0; background: linear-gradient(to right, transparent, var(--ground) 45%); }
 .cat-arr.prev { left: 0; background: linear-gradient(to left, transparent, var(--ground) 45%); }
 .cat-arr span { width: 44px; height: 44px; display: grid; place-items: center; border: 1px solid var(--ink); border-radius: var(--r); background: var(--surface); transition: border-color .15s ease; }
@@ -852,7 +852,7 @@ body.ideas-away .dock button { padding: 0 13px; gap: 0; }
   .cat-row b { font-size: 11px; }
   .stacks-h { font-size: 22px; }
 }
-@media (hover: none) { .cat-arr { display: none !important; } }
+@media (hover: none) { .cat-arr { width: 46px; } .cat-arr span { width: 34px; height: 34px; } } /* a phone gets them too, smaller */
 
 /* ---------- the globe map (map.js) ---------- */
 .dock button svg { width: 18px; height: 18px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
@@ -900,7 +900,7 @@ body.mapped { overflow: hidden; }
 .g-card .g-ph:hover .g-nav, .g-card .g-nav:focus-visible { opacity: 1; }
 @media (hover: hover) { .g-card .g-nav:hover { border-color: var(--red); } }
 @media (hover: hover) { .g-card .g-nav:hover svg { stroke: var(--red); } }
-@media (hover: none) { .g-card .g-nav { display: none; } } /* phones and tablets swipe instead */
+@media (hover: none) { .g-card .g-nav { opacity: 1; } } /* on a phone too, so it's clear the photos move */
 .g-card .tx { display: flex; flex-direction: column; gap: 4px; padding: 8px 14px 14px; }
 .g-card p { margin: 0; font: 400 14px/1.4 var(--sans); color: var(--graphite); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .g-card .open { all: unset; cursor: pointer; margin-top: 6px; align-self: flex-start; font: 600 15px var(--sans); text-decoration: underline; text-underline-offset: 3px; }
@@ -960,3 +960,14 @@ body.slim .ai-btn, body.mapped .ai-btn { display: none; }
 .gallery > .nav { top: calc(var(--ph-mid, 50%) - 22px); }
 .gallery > .nav.prev { left: calc(var(--ph-l, 0px) + 12px); }
 .gallery > .nav.next { right: calc(var(--ph-l, 0px) + 12px); }
+
+/* Rows that scroll sideways (rows.js): red dots under the row, arrows over its ends. */
+.rowdots { display: flex; justify-content: center; padding-top: 2px; }
+.rowdots:empty { display: none; }
+.rowdots button { all: unset; cursor: pointer; display: flex; padding: 8px 3px; }
+.rowdots button::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--red-pale); }
+.rowdots button.on::before { background: var(--red); }
+.rowarr { all: unset; box-sizing: border-box; position: absolute; z-index: 3; width: 36px; height: 36px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: var(--glass-strong); border: 1px solid var(--hair); box-shadow: var(--glass-shadow); }
+.rowarr[hidden] { display: none; }
+.rowarr svg { width: 18px; height: 18px; fill: none; stroke: var(--ink); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+@media (hover: hover) { .rowarr:hover { border-color: var(--red); } .rowarr:hover svg { stroke: var(--red); } }

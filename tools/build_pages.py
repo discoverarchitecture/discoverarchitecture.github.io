@@ -212,6 +212,7 @@ HEAD = """<!doctype html>
 <script src="{up}theme.js?v={css_v}"></script>
 <link rel="stylesheet" href="{up}pages.css?v={css_v}">
 <script src="{up}analytics.js"></script>
+<script src="{up}rows.js?v={css_v}" defer></script>
 {extra}
 </head>
 <body>
@@ -813,7 +814,7 @@ def stamp_wall():
     instead of waiting for their cached copy to expire."""
     page = SITE / 'index.html'
     html = page.read_text()
-    for name in ('theme.css', 'theme.js', 'styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'map.js'):
+    for name in ('theme.css', 'theme.js', 'styles.css', 'data/wall.js', 'data/names.js', 'data/architects.js', 'data/pritzker.js', 'data/filters.js', 'data/world.js', 'data/books.js', 'data/book_lines.js', 'data/swipe.js', 'data/arch_pages.js', 'app.js', 'filter.js', 'rows.js', 'map.js'):
         html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(SITE / name)}{m.group(1)}', html)
     page.write_text(html)
     play = SITE / 'play' / 'index.html'  # the game page: its own script and styles, and the buildings it asks about
@@ -829,6 +830,18 @@ def stamp_wall():
             for name, path in (('../theme.css', SITE / 'theme.css'), ('../theme.js', SITE / 'theme.js'), ('../pages.css', SITE / 'pages.css')):
                 html = re.sub(r'(["\'])' + re.escape(name) + r'(\?v=[0-9a-f]*)?\1', lambda m: f'{m.group(1)}{name}?v={fingerprint(path)}{m.group(1)}', html)
             page.write_text(html)
+
+
+def outward(html):
+    """Links to other websites open in a new tab, so our page stays where it was (owner, 22 Oct 2026)."""
+    def tag(m):
+        a = m.group(0)
+        h = re.search(r'href="(https?://[^"]+)"', a)
+        if not h or 'findgreatarchitecture.com' in h.group(1) or 'target=' in a:
+            return a
+        a = a[:-1] + ' target="_blank">'
+        return a if 'rel=' in a else a[:-1] + ' rel="noopener">'
+    return re.sub(r'<a\b[^>]*>', tag, html)
 
 
 def write_swipe():
@@ -909,7 +922,7 @@ def main():
     global TOTAL, CSS_V
     items = load()
     TOTAL = f'{len(items):,}'
-    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js')
+    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js', SITE / 'rows.js')
     page = SITE / 'index.html'
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
@@ -933,9 +946,9 @@ def main():
     for b in items:
         out = SITE / 'buildings' / b['id']
         out.mkdir(parents=True, exist_ok=True)
-        (out / 'index.html').write_text(building_page(b, items))
+        (out / 'index.html').write_text(outward(building_page(b, items)))
     rest_pages({b['id'] for b in items})
-    (SITE / 'buildings' / 'index.html').write_text(index_page(items))
+    (SITE / 'buildings' / 'index.html').write_text(outward(index_page(items)))
     if any(x.get('images') for x in items):
         og_image(items)
     urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items]
