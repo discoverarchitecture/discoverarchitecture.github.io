@@ -216,3 +216,23 @@ filled earlier pools). Sonnet tagged every ordinary type it kept. 102 buildings 
 
 Held: 6 without a sourced year, 1 without a main photo (`tools/cheap/pool7_held.json`); Festspielhaus Hellerau left
 off for want of an exterior photo. 80 of the 102 are in Europe.
+
+## Haiku pipeline, eighth pool (22 Oct 2026): 300 candidates, batch 7's rules
+
+Same pool rules as the seventh pool, plus local US halls, libraries and churches by architects not on the wall
+left out (468 local US entries in all). The candidate list is running thin: Haiku kept only 58 of 300, and Sonnet
+ended with 59. Two of the weakest ordinary keeps (the Morbegno library, kept only for its architect, and Aalto's
+Philologica dormitory) were dropped so ordinary types stay under the owner's 20%. 52 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 1 of 53 (2%): Villa Tonder (only historic photos; unclear whether it stands) | fine |
+| No free photo | 14 of 300 (5%) | fine |
+| Already on the wall | 2 of 300 (1%): the Bellinzona public bath and the Cottbus library | fine |
+| Facts failing the source check | Haiku's keeps: 7 of 58 were wrong keeps and about 12 needed a fact fixed (33%) | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 9 of 52 (17%) by Sonnet's tag; 5 (10%) by type | fine, under 20% after dropping two |
+
+Held for a year: Thiel Gallery, Mercado Central (Valencia), Hans Christian Andersen Museum, Lake Suwa Museum
+(`tools/cheap/pool8_held.json`). After this pool the harvest has few strong candidates left: the next round should
+come from a new search (contemporary work, the Pritzker winners' full lists, under-represented regions) rather than
+deeper into this list.
