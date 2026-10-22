@@ -2,9 +2,8 @@
   {
     "id": "pavilhao-da-bienal",
     "qid": "Q50823385",
-    "status": "unsure",
-    "why": "Niemeyer's Bienal pavilion, but every thumbnail is an interior or a close detail of the roof; none shows the whole building from outside.",
-    "note": "no main photo"
+    "status": "skip",
+    "why": "Already on the wall as pavilhao-da-bienal (Bienal Pavilion, Niemeyer), so not added again."
   },
   {
     "id": "cenotaph-for-the-a-bomb-victims",
@@ -659,38 +658,8 @@
   {
     "id": "nova-hall",
     "qid": "Q11325716",
-    "status": "photo",
-    "why": "Isozaki is on the wall; the lead names him and gives the opening date.",
-    "name": "Nova Hall",
-    "by": "Arata Isozaki",
-    "city": "Tsukuba",
-    "cc": "JP",
-    "year": 1983,
-    "type": "Culture & sport",
-    "movement": "Postmodernism",
-    "concepts": [
-      "Facade as skin",
-      "Geometry",
-      "Monumentality"
-    ],
-    "features": "Arata Isozaki's concert hall in the Tsukuba Center Building, opened in June 1983.",
-    "commons_category": "Category:Nova Hall",
-    "coords": [
-      36.08131,
-      140.11425
-    ],
-    "photos": [
-      {
-        "file": "File:Nova hall Tsukuba-city.JPG",
-        "license": "CC BY 3.0",
-        "seen": true
-      },
-      {
-        "file": "File:Nova hall.jpg",
-        "license": "CC BY-SA 3.0",
-        "seen": true
-      }
-    ]
+    "status": "skip",
+    "why": "A hall inside the Tsukuba Center Building, which is already on the wall as tsukuba-center-building."
   },
   {
     "id": "sackler-wing",
