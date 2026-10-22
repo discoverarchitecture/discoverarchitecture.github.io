@@ -32865,6 +32865,10 @@
    "File:Bernard Schwartz House Still Bend Two Rivers Wisconsin Jan 2013.jpg",
    "File:Bernard Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber (5).jpg",
    "File:Bernard Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber (6).jpg"
+  ],
+  "skip": [
+   "File:Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber.jpg",
+   "File:Bernard Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber (1).jpg"
   ]
  },
  "goetsch-winckler-house": {
@@ -32872,6 +32876,9 @@
   "add": [
    "File:Goetsch Winckler House, 2009 (retouched).jpg",
    "File:Goetsch-Winckler Residence, exterior - FLW, Architect built in 1939 (291331655) (filter etc).jpg",
+   "File:Goetsch Winckler House, 2009.jpg"
+  ],
+  "skip": [
    "File:Goetsch Winckler House, 2009.jpg"
   ]
  },
@@ -32881,6 +32888,10 @@
    "File:Robert M. Lamp House.jpg",
    "File:The Robert M. Lamp House - panoramio.jpg",
    "File:Robert M. Lamp House, Butler Street, Tenney-Lapham, Madison, WI.jpg"
+  ],
+  "skip": [
+   "File:Lamp House plaque.jpg",
+   "File:Robert Lamp House plaque.jpg"
   ]
  },
  "thomas-p-hardy-house": {
@@ -32896,6 +32907,9 @@
    "File:University of Jyväskylä - Ylioppilastalo.jpg",
    "File:Ilokivi - south face.jpg",
    "File:Jyväskylä - Ylioppilastalo3.jpg"
+  ],
+  "skip": [
+   "File:DUO K2160 833 Ilokivi.jpeg"
   ]
  },
  "sport-and-health-sciences-department-building": {
@@ -32904,6 +32918,9 @@
    "File:Jyväskylän yliopisto - Liikunta 2.jpg",
    "File:Jyväskylä juli 2019 10.jpg",
    "File:Jyväskylän yliopisto - Liikunta.jpg"
+  ],
+  "skip": [
+   "File:Jyväskylä juli 2019 09.jpg"
   ]
  },
  "proxima": {
@@ -32929,6 +32946,10 @@
    "File:Muzeum exteriér 017.jpg",
    "File:Muzeum exteriér 018.jpg",
    "File:HK MUZEUM VYCHODNICH CECH DSC 0661.jpg"
+  ],
+  "skip": [
+   "File:Hradec Králové (Königgrätz) - Muzeum východních Čech v noci.JPG",
+   "File:Hradec Králové - Eliščino nábřeží - Muzeum východních Čech - Museum of East Bohemia 1909-12 by Jan Kotěra - Auditorium on South Side I.jpg"
   ]
  },
  "granville-d-jones-house": {
@@ -32965,9 +32986,12 @@
  "parco-sempione-library": {
   "category": "Category:Biblioteca Parco Sempione",
   "add": [
-   "File:Paolo Monti - Servizio fotografico (Milano, 1954) - BEIC 6365747.jpg",
    "File:Biblioteca Parco Sempione 2024 01.jpg",
+   "File:Paolo Monti - Servizio fotografico (Milano, 1954) - BEIC 6365747.jpg",
    "File:Biblioteca Parco Sempione 2024 06.jpg"
+  ],
+  "skip": [
+   "File:Parco Sempione, biblioteca, l'albero di Lea Garofalo LU00604.jpg"
   ]
  },
  "st-wenceslas-church-vrsovice": {
@@ -32975,6 +32999,10 @@
   "add": [
    "File:Svaty Vaclav Vrsovice.jpg",
    "File:Praha, Vršovice, Moskevská s chrámem svatého Václava.jpg"
+  ],
+  "skip": [
+   "File:Church of Saint Wenceslaus (Vršovice) IMG 6437.png",
+   "File:Church of Saint Wenceslaus (Vršovice) IMG 6438.png"
   ]
  },
  "st-franziskus": {
@@ -32983,6 +33011,9 @@
    "File:Köln-Bilderstöckchen, St. Franziskus (02).jpg",
    "File:Köln-Bilderstöckchen, St. Franziskus (04).jpg",
    "File:St. Franziskus (Köln-Bilderstöckchen) (5).jpg"
+  ],
+  "skip": [
+   "File:Köln-Bilderstöckchen, St. Franziskus (17).jpg"
   ]
  },
  "rundling-leipzig": {
@@ -33000,6 +33031,9 @@
    "File:Blackwell02.jpg",
    "File:Blackwell01.jpg",
    "File:Blackwell03.jpg"
+  ],
+  "skip": [
+   "File:Black Dome Cumbria.jpg"
   ]
  },
  "kasson-municipal-building": {
@@ -33013,6 +33047,10 @@
    "File:Larry Koester, Facade of the Church of St Lazarus (2).jpg",
    "File:Bethany Lazarus church.jpg",
    "File:Larry Koester, Facade of the Church of St Lazarus.jpg"
+  ],
+  "skip": [
+   "File:Interior of St. Lazarus Roman Catholic Church (al-Eizariya), 2019 (04).jpg",
+   "File:Holy Land 2016 P0944 St. Lazarus Roman Catholic Church Resurrection of Lazarus fresco.jpg"
   ]
  },
  "st-michael-s-church-crna-vas": {
@@ -33033,6 +33071,11 @@
   "category": "Category:Maestranza César Girón",
   "add": [
    "File:Maestranza César Girón 6.jpg"
+  ],
+  "skip": [
+   "File:Maestranza Cesar Girón - Maracay 2025-9235.jpg",
+   "File:Girondina.jpg",
+   "File:Manolete. Maracay.jpg"
   ]
  },
  "tampere-theatre": {
@@ -33041,12 +33084,21 @@
    "File:Tampere Theatre 1.jpg",
    "File:Tampere Theatre 2.jpg",
    "File:Tampere Theatre 3.jpg"
+  ],
+  "skip": [
+   "File:Tampere Theatre 2.jpg",
+   "File:Kaatuneita punakaartilaisia Tampereen teatterissa (26696842880).jpg",
+   "File:Hämeenkatu in June.jpg"
   ]
  },
  "synagogue-don-isaac-abravanel": {
   "category": "Category:Synagogue Don Isaac Abravanel",
   "add": [
    "File:Synagogue Don Isaac Abravanel, Paris 21 January 2017.jpg"
+  ],
+  "skip": [
+   "File:Syna Abravanel -Hommage Déportes.JPG",
+   "File:Paris Synagogue Roquette Detail76.JPG"
   ]
  },
  "kalmar-konstmuseum": {
@@ -33055,6 +33107,9 @@
    "File:Kalmar Konstmuseum 2008 maj.jpg",
    "File:Kalmar Konstmuseum 01.JPG",
    "File:Kalmar. Kalmar konstmuseum 0.JPG"
+  ],
+  "skip": [
+   "File:Zorn - J.C. Janzon (Spada).jpg"
   ]
  },
  "gebaude-der-reichsschuldenverwaltung": {
@@ -33070,6 +33125,9 @@
    "File:Baba - Špíšek 02.jpg",
    "File:Špíškova vila.jpeg",
    "File:Baba - Špíšek 03.jpg"
+  ],
+  "skip": [
+   "File:Špíškova vila 4.jpeg"
   ]
  },
  "st-johns-cathedral-napier": {
@@ -33077,6 +33135,10 @@
   "add": [
    "File:Napier, Part I- Architecture - Napier9501.jpg",
    "File:Waiapu Cathedral of St John the Evangelist 01.jpg"
+  ],
+  "skip": [
+   "File:St John's Cathedral from Clyde Road Lookout, Napier, September 2026.jpg",
+   "File:Waiapu Cathedral from Sugar Loaf Hill, September 2026.jpg"
   ]
  },
  "villa-palicka": {
@@ -33084,12 +33146,19 @@
   "add": [
    "File:Baba - Palička 01.jpg",
    "File:Baba - Palička 06.jpg"
+  ],
+  "skip": [
+   "File:Baba - Palička 03.jpg"
   ]
  },
  "villa-rothmayer": {
   "category": "Category:Rothmayerova vila",
   "add": [
    "File:Praha, Břevnov, vila architekta Otto Rothmayera.jpg"
+  ],
+  "skip": [
+   "File:Zahrada Rothmayerovy vily.jpg",
+   "File:U vojenské nemocnice street, north part, Praha.jpg"
   ]
  },
  "villa-van-t-hoff": {
@@ -33124,6 +33193,9 @@
   "add": [
    "File:Nissei-fukuoka-branch.jpg",
    "File:Fukuoka City Akarenga Cultural Center the façade Tenjin 1-chōme Chūō-ku Fukuoka 20250429 165927.jpg"
+  ],
+  "skip": [
+   "File:Fukuoka City Akarenga Cultural Center the bracket supporting the mantelpiece in the reception room on the NW side Tenjin 1-chōme Chūō-ku Fukuoka 20250909 155034.jpg"
   ]
  },
  "kunstsilo": {
@@ -33139,6 +33211,10 @@
   "add": [
    "File:Kirche am Hohenzollernplatz (Berlin)msu-2023-0I9A9591-.jpg",
    "File:Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg"
+  ],
+  "skip": [
+   "File:Hohenzollernkirche bei Nacht 20140502 5.jpg",
+   "File:Berlin - Kirche am Hohenzollernplatz - Innenansicht 9299.jpg"
   ]
  },
  "finnish-nature-center-haltia": {
@@ -33146,6 +33222,11 @@
   "add": [
    "File:Haltia 001.jpg",
    "File:Suomen luontokeskus Haltia, Espoo, Finsko 5.jpg"
+  ],
+  "skip": [
+   "File:Haltia keskus nuuksio.jpg",
+   "File:Restaurace, Suomen luontokeskus Haltia, Espoo, Finsko.jpg",
+   "File:Suomen luontokeskus Haltia, Espoo, Finsko 3.jpg"
   ]
  },
  "alcide-de-gasperi-building": {
@@ -33153,6 +33234,11 @@
   "add": [
    "File:Luxembourg Kirchberg A De Gasperi 01.jpg",
    "File:European Convention Center Luxembourg (Tour Alcide de Gasperi) 03.jpg"
+  ],
+  "skip": [
+   "File:European Convention Center Luxembourg (Tour Alcide de Gasperi) 01.jpg",
+   "File:Luxembourg City - Kirchberg depuis Chemin du rempart - mars 2017.jpg",
+   "File:Luxembourg Kirchberg as from montée Pfaffenthal 01.jpg"
   ]
  },
  "cunard-building": {
@@ -33161,6 +33247,10 @@
    "File:Cunard Building landside 2018.jpg",
    "File:Cunard Building, Liverpool.png",
    "File:Cunard Building (9701150770).jpg"
+  ],
+  "skip": [
+   "File:Statue, front of Cunard Building 2.jpg",
+   "File:Statue, front of Cunard Building 1.jpg"
   ]
  },
  "laeiszhalle": {
@@ -33170,6 +33260,9 @@
    "File:Laeiszhalle.Hamburg.vom.Johannes-Brahms-Platz.jpg",
    "File:La Laieszhalle.jpg",
    "File:Laeisz-Halle (Hamburg-Neustadt).1.29179.ajb.jpg"
+  ],
+  "skip": [
+   "File:Laeiszhalle Hamburg, Großer Saal -- Innenansicht Bühne.JPG"
   ]
  },
  "suntory-hall": {
@@ -33178,6 +33271,11 @@
    "File:Suntory Hall 2018.jpg",
    "File:Suntory Hall 1.jpg",
    "File:Suntory Hall 2.jpg"
+  ],
+  "skip": [
+   "File:Ark Karajan Platz in Tokyo DSCN0110 20050804.JPG",
+   "File:Herbert Von Karajan Platz.jpg",
+   "File:Suntoryhall-outside-night-may24-2016.jpg"
   ]
  },
  "palais-de-la-porte-doree": {
@@ -33185,6 +33283,10 @@
   "add": [
    "File:Palasi Porte Doree Entree.jpg",
    "File:L'ancien pont de l'Exposition coloniale et le musée colonial - btv1b90517398.jpg"
+  ],
+  "skip": [
+   "File:Le Palais de la Porte Dorée 12.jpg",
+   "File:Aquarium Tropical Palais Porte Dorée - Paris XII (FR75) - 2021-06-26 - 1.jpg"
   ]
  },
  "anthonie-van-dijckstraat-4-amsterdam": {
@@ -33198,6 +33300,9 @@
  "vogelsang-house": {
   "add": [
    "File:Krefeld Denkmal 625 Haus Vogelsang.jpg"
+  ],
+  "skip": [
+   "File:Haus Muheim im Vogelsang.JPG"
   ]
  },
  "kallio-church": {
@@ -33207,6 +33312,11 @@
    "File:Kallion kirkko.jpg",
    "File:2018-07-11 Kallio 13.jpg",
    "File:2018-07-11 Kallio 12.jpg"
+  ],
+  "skip": [
+   "File:View of the Kallio neigbourhood..jpg",
+   "File:Candles in Kallio church.jpg",
+   "File:Christmas tree at Kallio Church.jpg"
   ]
  },
  "stadtbad-mitte": {
@@ -33215,6 +33325,9 @@
    "File:Mitte Gartenstraße Stadtbad Mitte-002.JPG",
    "File:Mitte Gartenstraße Stadtbad Mitte-003.jpg",
    "File:Stadtbad Mitte 08.02.2016 15-16-21.jpg"
+  ],
+  "skip": [
+   "File:Stadtbad Mitte.jpg"
   ]
  },
  "mercato-dei-fiori-vecchio": {
@@ -33230,14 +33343,19 @@
   "category": "Category:Planetarium in Prague",
   "add": [
    "File:Planetum, Praha (2025-08-07).jpg"
+  ],
+  "skip": [
+   "File:Planetarium Praha 20251025 144417.jpg",
+   "File:Interier Planetum Prague 2025 A.jpg",
+   "File:Interier Planetum Prague 2025 B.jpg"
   ]
  },
  "casa-serra": {
   "category": "Category:Casa Serra (Barcelona)",
   "add": [
+   "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE.jpg",
    "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE (1).jpg",
-   "File:423 Casa Serra, Rambla de Catalunya 126 (Barcelona).jpg",
-   "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE.jpg"
+   "File:423 Casa Serra, Rambla de Catalunya 126 (Barcelona).jpg"
   ]
  },
  "haus-wittmann": {
