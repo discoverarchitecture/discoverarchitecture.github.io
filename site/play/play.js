@@ -57,6 +57,14 @@
   // "Unknown builders", "Nasrid builders", "Hadrian (attrib.)": not fair as a name-the-architect answer.
   const namedArchitect = b => !/builders|unknown|attrib|anonymous/i.test(b.by);
   const NAMES = [...new Set(ALL.map(b => b.name))];
+  // Building names are hard to tell apart, so each option also names its country, on a small line under the name.
+  const byName = new Map(); ALL.forEach(b => { if (!byName.has(b.name)) byName.set(b.name, b); });
+  const REGION = (() => { try { return new Intl.DisplayNames(['en'], { type: 'region' }); } catch (e) { return null; } })();
+  const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
+  function countryOf(b) {
+    const c = String(b.place).split(',').pop().trim(), code = CODE_FIX[c] || c;
+    try { return REGION && /^[A-Z]{2}$/.test(code) ? REGION.of(code).replace(/\s*\(.*\)$/, '') : code; } catch (e) { return code; }
+  }
   // One name per architect (data/names.js), so "Zaha Hadid" and "Zaha Hadid Architects" are never both offered.
   const architectOf = b => (window.NAMES ? window.NAMES.first(b.by) : first(b.by));
   const ARCHS = [...new Set(ALL.filter(namedArchitect).map(architectOf))];
@@ -66,7 +74,10 @@
   function shuffled(a, r) { a = a.slice(); for (let k = a.length - 1; k > 0; k--) { const j = Math.floor(r() * (k + 1)); [a[k], a[j]] = [a[j], a[k]]; } return a; }
 
   /* ---------- questions ---------- */
+  // Mode 3 (a zoomed-in detail) is no longer asked: a close-up of a building can't fairly be named (owner, 22 Oct 2026).
+  // It keeps its place in the list so the numbers of the other modes stay the same.
   const MODES = ['Name the building', 'Name the architect', 'Guess the decade', 'Zoomed-in detail', 'Which city'];
+  const ASKED = [0, 1, 2, 4];
   const ASKS = ['Which building is this?', 'Who designed it?', 'When was it finished?', 'Which building is this a detail of?', 'Which city is it in?'];
   const RANKS = ['Tourist', 'First year', 'Student', 'Draughtsperson', 'Architect', 'Master builder'];
   // A mode that suits the building: no decade question before 1900, no architect question without a named architect.
@@ -77,7 +88,8 @@
     if (!fits(b, mode)) mode = 0;
     const three = (list, answer) => shuffled(list.filter(x => x !== answer), r).slice(0, 3);
     let answer, wrong;
-    if (mode === 0 || mode === 3) { answer = b.name; wrong = three(NAMES, answer); }
+    if (mode === 3) mode = 0;
+    if (mode === 0) { answer = b.name; wrong = three(NAMES, answer); }
     else if (mode === 1) { answer = architectOf(b); wrong = three(ARCHS, answer); }
     else if (mode === 2) {
       const dec = Math.floor(b.y / 10) * 10; answer = dec + 's';
@@ -89,8 +101,8 @@
     }
     const options = shuffled([answer, ...wrong], r);
     if (mode === 2) options.sort();
-    // The close-up zooms into the same clear outside photo, so it is still the building you'd know.
-    return { id: b.id, mode, answer, options, im: b.gamePhoto, zoom: mode === 3 ? 2.4 : 1 + Math.min(level || 0, 3) * 0.3 };
+    // The whole photo, never zoomed in: the building as you'd know it.
+    return { id: b.id, mode, answer, options, im: b.gamePhoto, zoom: 1 };
   }
 
   /* ---------- the day ---------- */
@@ -105,11 +117,12 @@
   function dailyFive(key) {
     const picked = DAILY.map(b => ({ b, s: hash(key + '|' + b.id) })).sort((x, y) => x.s - y.s);
     const out = [];
-    for (let mode = 0; mode < 5; mode++) {
+    // building, architect, decade, city, and a second building in place of the old close-up
+    [0, 1, 2, 4, 0].forEach((mode, i) => {
       const hit = picked.find(p => !p.used && fits(p.b, mode));
       hit.used = true;
-      out.push(makeQuestion(hit.b, mode, hash(key + '|q|' + mode), 0));
-    }
+      out.push(makeQuestion(hit.b, mode, hash(key + '|q|' + (i === 4 ? '0b' : mode)), 0));
+    });
     return out;
   }
 
@@ -142,7 +155,8 @@
       if (picked != null && o === q.answer) { cls += ' right'; mark = '✓'; }
       else if (picked != null && o === picked) { cls += ' wrong'; mark = '✕'; }
       else if (picked != null) cls += ' dim';
-      return `<button type="button" class="${cls}" data-k="${k}"${picked != null ? ' disabled' : ''}><span>${esc(o)}</span>${mark ? `<b aria-hidden="true">${mark}</b>` : ''}</button>`;
+      const where = q.mode === 0 && byName.has(o) ? `<small><span class="sr">, </span>${esc(countryOf(byName.get(o)))}</small>` : '';
+      return `<button type="button" class="${cls}" data-k="${k}"${picked != null ? ' disabled' : ''}><span>${esc(o)}${where}</span>${mark ? `<b aria-hidden="true">${mark}</b>` : ''}</button>`;
     }).join('');
   }
   function revealHtml(q, right, verdict, nextLabel) {
@@ -363,7 +377,7 @@
   }
   function endlessQ(i) {
     const g = game, b = ALL[g.order[i % g.order.length]], r = rng(hash(g.seed + '|m|' + i));
-    return makeQuestion(b, Math.floor(r() * 5), hash(g.seed + '|q|' + i), Math.floor(i / 10));
+    return makeQuestion(b, ASKED[Math.floor(r() * ASKED.length)], hash(g.seed + '|q|' + i), Math.floor(i / 10));
   }
   function drawEndless() {
     const g = game, st = endlessStats();

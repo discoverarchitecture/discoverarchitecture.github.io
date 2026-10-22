@@ -110,6 +110,8 @@ h1 { margin: 0; font-family: var(--display); font-weight: 900; text-transform: u
 .opt:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
 .opt[disabled] { cursor: default; }
 .opt b { font-size: 20px; }
+.opt small { display: block; margin-top: 3px; font-size: 13px; font-weight: 500; color: var(--graphite); } /* the country under a building's name */
+.opt .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .opt.right { background: var(--green); border: 1px solid var(--green); color: #fff; animation: pop .35s ease; }
 .opt.wrong { background: var(--red); border: 1px solid var(--red); color: #fff; animation: shake .45s ease; }
 .opt.dim { background: var(--surface); border: 1px solid var(--hair); color: var(--line); }
