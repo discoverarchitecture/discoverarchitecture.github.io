@@ -784,8 +784,8 @@
   const nextShot = d => { const b = state.open, ims = (b && b.images) || [], n = photoCount(b) || 1;
     for (let i = 1; i <= n; i++) { const k = ((state.shot + d * i) % n + n) % n; if (inKind(ims[k], state.kind)) return k; } return state.shot; };
   const shotBy = d => { const b = state.open; if (b && b.kind !== 'book' && !b.full) loadDetail(b).then(() => showShot(nextShot(d)), () => {}); else showShot(nextShot(d)); };
-  $('gPrev').addEventListener('click', () => shotBy(-1));
-  $('gNext').addEventListener('click', () => shotBy(1));
+  $('gPrev').addEventListener('click', () => stageSwipe.slide(-1));
+  $('gNext').addEventListener('click', () => stageSwipe.slide(1));
   $('strip').addEventListener('click', e => { const t = e.target.closest('button[data-k]'); if (t) showShot(+t.dataset.k); });
   $('gKinds').addEventListener('click', e => {
     const t = e.target.closest('button[data-kind]'); const b = state.open; if (!t || !b) return;
@@ -797,13 +797,73 @@
     e.currentTarget.setAttribute('aria-expanded', open);
     e.currentTarget.textContent = open ? 'Show fewer ↑' : `See all ${b ? linksFor(b).length : ''} links ↓`;
   });
-  // swipe between photos on touch screens
-  let swipeX = null;
-  $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
+  // One swipe for the opened building's photo and the full-screen view, as on the wall's tiles: the photo follows the finger
+  // and the next one comes in beside it; letting go past about a third of the frame (or a quick flick) slides it home, and a
+  // short drag springs back. The arrows and the arrow keys slide the same way.
+  function photoSwipe(frame, imgOf, srcAt, go) {
+    let x0 = null, y0 = 0, t0 = 0, dx = 0, sideways = false, busy = false;
+    const peekEl = () => frame.querySelector('img.peek');
+    const move = (el, x, ms) => { el.style.transition = ms ? `transform ${ms}ms ease-out` : 'none'; el.style.transform = x ? `translateX(${x}px)` : ''; };
+    function peekFor(dir) { // the neighbouring photo, waiting just outside the frame on that side
+      const src = srcAt(dir); if (!src) return null;
+      let p = peekEl();
+      if (!p) { p = document.createElement('img'); p.className = 'peek'; p.alt = ''; p.draggable = false; frame.appendChild(p); }
+      if (p.dataset.src !== src) { p.src = src; p.dataset.src = src; }
+      p.dataset.dir = dir;
+      return p;
+    }
+    function springBack() {
+      const img = imgOf(), p = peekEl();
+      if (img) move(img, 0, 200);
+      if (p) { move(p, +p.dataset.dir * frame.clientWidth, 200); setTimeout(() => p.remove(), 210); }
+    }
+    function slide(dir, from = 0) {
+      if (busy) return;
+      const img = imgOf(), p = peekFor(dir), w = frame.clientWidth;
+      if (!img || !p || stillMotion.matches) { if (p) p.remove(); if (img) move(img, 0, 0); go(dir); return; }
+      busy = true;
+      move(p, dir * w + from, 0); p.getBoundingClientRect(); // start from where the finger left it
+      move(img, -dir * w, 250); move(p, 0, 250);
+      setTimeout(() => {
+        go(dir); // the same picture, already loaded, takes the peek's place
+        const i = imgOf(); if (i) move(i, 0, 0);
+        requestAnimationFrame(() => { const q = peekEl(); if (q) q.remove(); });
+        busy = false;
+      }, 260);
+    }
+    frame.addEventListener('pointerdown', e => { sideways = false; if (e.pointerType === 'mouse' || busy) return; x0 = e.clientX; y0 = e.clientY; t0 = performance.now(); dx = 0; });
+    frame.addEventListener('pointermove', e => {
+      if (x0 == null) return;
+      dx = e.clientX - x0;
+      if (!sideways && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(e.clientY - y0)) sideways = true;
+      if (!sideways) return;
+      const img = imgOf(), dir = dx < 0 ? 1 : -1, p = peekFor(dir);
+      if (img) move(img, dx, 0);
+      if (p) move(p, dir * frame.clientWidth + dx, 0);
+    });
+    frame.addEventListener('pointerup', e => {
+      if (x0 == null) return;
+      if (sideways) dx = e.clientX - x0; // where the finger left the glass
+      x0 = null;
+      if (!sideways) return;
+      const dir = dx < 0 ? 1 : -1, flick = Math.abs(dx) > 25 && performance.now() - t0 < 250;
+      if (flick || Math.abs(dx) > Math.min(90, frame.clientWidth * 0.3)) slide(dir, dx); else springBack();
+    });
+    frame.addEventListener('pointercancel', () => { x0 = null; if (sideways) springBack(); });
+    return { slide, dragged: () => sideways };
+  }
+  const shotSrc = (dir, full) => { // the photo a step away, once the building's photos have arrived
+    const b = state.open; if (!b || b.kind === 'book' || !b.full) return null;
+    const k = nextShot(dir), im = b.images[k];
+    return k === state.shot || !im ? null : (full && im.src) || im.thumb;
+  };
+  const stageSwipe = photoSwipe($('stage'), () => $('stage').querySelector('img:not(.peek)'), d => shotSrc(d, false), d => shotBy(d));
+  // a tap on the photo, or the zoom button, shows it full screen
+  let tapX = null;
+  $('stage').addEventListener('pointerdown', e => { tapX = e.clientX; });
   $('stage').addEventListener('pointerup', e => {
-    if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) shotBy(e.clientX < swipeX ? 1 : -1);
-    else if (swipeX != null && Math.abs(e.clientX - swipeX) < 8 && e.target.closest('img, .zoom')) openZoom(); // a tap on the photo, or the zoom button
-    swipeX = null;
+    if (tapX != null && Math.abs(e.clientX - tapX) < 8 && !stageSwipe.dragged() && e.target.closest('img, .zoom')) openZoom();
+    tapX = null;
   });
   // The arrows sit halfway up the photo's own left and right edges, and the zoom button at its bottom right,
   // wherever the photo falls inside its dark frame (a wide photo leaves bands above and below).
@@ -821,7 +881,8 @@
   function zoomFill() {
     const b = state.open, im = b && (b.images || [])[state.shot];
     if (!im) return;
-    $('zvImg').src = im.src || im.thumb; $('zvImg').alt = `${b.name}: ${im.caption || 'photo'}`;
+    if ($('zvImg').getAttribute('src') !== (im.src || im.thumb)) $('zvImg').src = im.src || im.thumb;
+    $('zvImg').alt = `${b.name}: ${im.caption || 'photo'}`;
     $('zvCap').innerHTML = $('gCap').innerHTML;
     // red dots, as on the wall: which photo of how many (only those of the chosen kind), so a swipe is expected
     const list = (b.images || []).map((x, j) => j).filter(j => state.kind === 'All' || inKind(b.images[j], state.kind));
@@ -832,15 +893,13 @@
   function openZoom() { if (!state.open || state.open.kind === 'book' || !(state.open.images || []).length) return; zoomFill(); $('zv').hidden = false; document.body.classList.add('zoomed'); $('zvX').focus(); }
   function closeZoom() { $('zv').hidden = true; document.body.classList.remove('zoomed'); const z = $('gZoom'); if (z) z.focus(); }
   $('zvX').addEventListener('click', closeZoom);
-  $('zvPrev').addEventListener('click', () => { shotBy(-1); zoomFill(); });
-  $('zvNext').addEventListener('click', () => { shotBy(1); zoomFill(); });
-  let zvX0 = null;
-  $('zvImg').addEventListener('pointerdown', e => { zvX0 = e.clientX; });
-  $('zvImg').addEventListener('pointerup', e => { if (zvX0 != null && Math.abs(e.clientX - zvX0) > 40) { shotBy(e.clientX < zvX0 ? 1 : -1); zoomFill(); } zvX0 = null; });
+  const zvSwipe = photoSwipe($('zvFrame'), () => $('zvImg'), d => shotSrc(d, true), d => { shotBy(d); zoomFill(); });
+  $('zvPrev').addEventListener('click', () => zvSwipe.slide(-1));
+  $('zvNext').addEventListener('click', () => zvSwipe.slide(1));
   document.addEventListener('keydown', e => {
     if ($('zv').hidden) return;
     if (e.key === 'Escape') { e.stopPropagation(); closeZoom(); }
-    else if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') { e.stopPropagation(); shotBy(e.key === 'ArrowLeft' ? -1 : 1); zoomFill(); }
+    else if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') { e.stopPropagation(); zvSwipe.slide(e.key === 'ArrowLeft' ? -1 : 1); }
   }, true);
   const BOOK_STEP = 3 * 84; // three covers (72px wide + 12px gap) per press
   $('relBooksPrev').addEventListener('click', () => $('relBooksRow').scrollBy({ left: -BOOK_STEP, behavior: 'smooth' }));
