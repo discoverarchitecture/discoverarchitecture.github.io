@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-21T21:35:13+00:00",
+ "fetched_at": "2026-10-22T04:31:50+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 735,
+ "visits_30d": 907,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 203,
+     "count": 256,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 28
     },
     {
-     "count": 34,
+     "count": 43,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 9
     },
     {
-     "count": 31,
+     "count": 41,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -31,11 +31,19 @@
      "max": 12
     },
     {
-     "count": 6,
+     "count": 8,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
      "title": "AI jury presentation generator",
+     "max": 2
+    },
+    {
+     "count": 6,
+     "path_id": 113672778,
+     "path": "play/daily/2-of-5",
+     "event": true,
+     "title": "Daily five finished: 2 of 5 right",
      "max": 2
     },
     {
@@ -56,10 +64,10 @@
     },
     {
      "count": 5,
-     "path_id": 113672778,
-     "path": "play/daily/2-of-5",
+     "path_id": 113671658,
+     "path": "play/daily/3-of-5",
      "event": true,
-     "title": "Daily five finished: 2 of 5 right",
+     "title": "Daily five finished: 3 of 5 right",
      "max": 2
     },
     {
@@ -84,6 +92,14 @@
      "path": "/buildings",
      "event": false,
      "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113925666,
+     "path": "/buildings/palazzetto-dello-sport",
+     "event": false,
+     "title": "Palazzetto dello Sport by Pier Luigi Nervi: photos",
      "max": 1
     },
     {
@@ -152,6 +168,46 @@
     },
     {
      "count": 2,
+     "path_id": 113987976,
+     "path": "building/indian-coffee-house",
+     "event": true,
+     "title": "Indian Coffee House",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113986988,
+     "path": "building/toronto-dominion-centre",
+     "event": true,
+     "title": "Toronto-Dominion Centre",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113976891,
+     "path": "play/endless/over",
+     "event": true,
+     "title": "Endless run over",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113971187,
+     "path": "building/golconde",
+     "event": true,
+     "title": "Golconde",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113933403,
+     "path": "building/martin-luther-king-jr-memorial-library",
+     "event": true,
+     "title": "Martin Luther King Jr. Memorial Library",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113885699,
      "path": "building/mit-chapel",
      "event": true,
@@ -160,10 +216,34 @@
     },
     {
      "count": 2,
+     "path_id": 113855492,
+     "path": "building/habitat-67",
+     "event": true,
+     "title": "Habitat 67",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113855266,
+     "path": "building/telangana-secretariat",
+     "event": true,
+     "title": "Dr. B.R. Ambedkar Telangana State Secretariat",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113839314,
      "path": "building/menara-tabung-haji",
      "event": true,
      "title": "Menara Tabung Haji",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113838041,
+     "path": "play/daily/1-of-5",
+     "event": true,
+     "title": "Daily five finished: 1 of 5 right",
      "max": 1
     },
     {
@@ -208,6 +288,22 @@
     },
     {
      "count": 2,
+     "path_id": 113701535,
+     "path": "building/jawahar-kala-kendra",
+     "event": true,
+     "title": "Jawahar Kala Kendra",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113685200,
+     "path": "play/daily/0-of-5",
+     "event": true,
+     "title": "Daily five finished: 0 of 5 right",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113685151,
      "path": "/buildings/inter-university-seminar-house",
      "event": false,
@@ -240,18 +336,18 @@
     },
     {
      "count": 2,
-     "path_id": 113671658,
-     "path": "play/daily/3-of-5",
-     "event": true,
-     "title": "Daily five finished: 3 of 5 right",
-     "max": 2
-    },
-    {
-     "count": 2,
      "path_id": 113494831,
      "path": "/buildings/toyo-ito-museum-of-architecture",
      "event": false,
      "title": "Toyo Ito Museum of Architecture by Toyo Ito: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113366503,
+     "path": "/buildings/lamune-onsen",
+     "event": false,
+     "title": "Lamune Onsen by Terunobu Fujimori: photos & key features",
      "max": 1
     },
     {
@@ -352,6 +448,14 @@
     },
     {
      "count": 2,
+     "path_id": 112487066,
+     "path": "/buildings/mercado-municipal-de-sao-paulo",
+     "event": false,
+     "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112481251,
      "path": "/buildings/bouca-housing",
      "event": false,
@@ -364,6 +468,14 @@
      "path": "/buildings/rock-and-roll-hall-of-fame",
      "event": false,
      "title": "Rock and Roll Hall of Fame \u2014 I. M. Pei, 1995: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112449331,
+     "path": "/buildings/aiwan-e-sadr",
+     "event": false,
+     "title": "Aiwan-e-Sadr (Presidential Palace), 1981: photos",
      "max": 1
     },
     {
@@ -396,6 +508,14 @@
      "path": "/buildings/gosstrakh-apartments",
      "event": false,
      "title": "Gosstrakh Apartments \u2014 Moisei Ginzburg, 1927: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112288142,
+     "path": "building/national-assembly-of-bangladesh",
+     "event": true,
+     "title": "National Assembly of Bangladesh",
      "max": 1
     },
     {
@@ -472,355 +592,235 @@
     },
     {
      "count": 1,
-     "path_id": 113942418,
-     "path": "/buildings/mjostarnet",
+     "path_id": 113989013,
+     "path": "building/philippine-international-convention-center",
+     "event": true,
+     "title": "Philippine International Convention Center",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988997,
+     "path": "building/kala-academy",
+     "event": true,
+     "title": "Kala Academy",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988986,
+     "path": "building/church-of-saint-george-lalibela",
+     "event": true,
+     "title": "Church of Saint George, Lalibela",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988982,
+     "path": "building/valluvar-kottam",
+     "event": true,
+     "title": "Valluvar Kottam",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988961,
+     "path": "building/hospital-de-sant-pau",
+     "event": true,
+     "title": "Hospital de Sant Pau",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988955,
+     "path": "building/st-peter-and-st-pauls-church-parumala",
+     "event": true,
+     "title": "St. Peter and St. Paul's Church, Parumala",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988947,
+     "path": "building/napier-museum",
+     "event": true,
+     "title": "Napier Museum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988815,
+     "path": "building/castelvecchio-museum",
+     "event": true,
+     "title": "Castelvecchio Museum",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988704,
+     "path": "building/arqua-cartagena",
+     "event": true,
+     "title": "National Museum of Underwater Archaeology (ARQVA)",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988669,
+     "path": "building/muuratsalo-experimental-house",
+     "event": true,
+     "title": "Muuratsalo Experimental House",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988529,
+     "path": "building/metropol-parasol",
+     "event": true,
+     "title": "Metropol Parasol",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988393,
+     "path": "building/unity-temple",
+     "event": true,
+     "title": "Unity Temple",
+     "max": 1
+    },
+    {
+     "count": 1,
+     "path_id": 113988327,
+     "path": "/buildings/toronto-city-hall",
      "event": false,
-     "title": "Mjostarnet by Voll Arkitekter: photos, plans & key features",
+     "title": "Toronto City Hall by Viljo Revell: photos & key features",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113942033,
-     "path": "/pricing",
-     "event": false,
-     "title": "FGA Studio pricing \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113939366,
-     "path": "/buildings/palace-of-happiness-baku",
-     "event": false,
-     "title": "Palace of Happiness by Jozef Ploszko: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113937972,
-     "path": "/buildings/edmonton-city-hall",
-     "event": false,
-     "title": "Edmonton City Hall by Dub Architects: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113933403,
-     "path": "building/martin-luther-king-jr-memorial-library",
+     "path_id": 113988162,
+     "path": "building/canary-wharf-underground-station",
      "event": true,
-     "title": "Martin Luther King Jr. Memorial Library",
+     "title": "Canary Wharf Underground Station",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113925846,
-     "path": "/buildings/institute-of-foreign-languages",
-     "event": false,
-     "title": "Institute of Foreign Languages by Vann Molyvann: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113925721,
-     "path": "building/sheldon-museum-of-art",
+     "path_id": 113988145,
+     "path": "building/dior-omotesando",
      "event": true,
-     "title": "Sheldon Museum of Art",
+     "title": "Dior Omotesando",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113925666,
-     "path": "/buildings/palazzetto-dello-sport",
-     "event": false,
-     "title": "Palazzetto dello Sport by Pier Luigi Nervi: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113925368,
-     "path": "/buildings/el-colegio-de-mexico",
-     "event": false,
-     "title": "El Colegio de M\u00e9xico by Teodoro Gonz\u00e1lez de Le\u00f3n: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113925138,
-     "path": "studio/ai-link",
+     "path_id": 113988134,
+     "path": "building/capitagreen",
      "event": true,
-     "title": "AI panel: See FGA Studio",
+     "title": "CapitaGreen",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924841,
-     "path": "building/zenith-strasbourg",
+     "path_id": 113988102,
+     "path": "building/manufacturers-trust-company-building",
      "event": true,
-     "title": "Z\u00e9nith de Strasbourg",
+     "title": "Manufacturers Trust Company Building",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924827,
-     "path": "building/ithra",
+     "path_id": 113988095,
+     "path": "building/haus-gugalun",
      "event": true,
-     "title": "Ithra",
+     "title": "Haus Gugalun",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924800,
-     "path": "/buildings/bishops-palace-galveston",
-     "event": false,
-     "title": "Bishop's Palace by Nicholas J. Clayton: photos",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113924780,
-     "path": "building/bishops-palace-galveston",
+     "path_id": 113988077,
+     "path": "building/sanomatalo",
      "event": true,
-     "title": "Bishop's Palace",
+     "title": "Sanomatalo",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924748,
-     "path": "building/nagasaki-prefectural-art-museum",
+     "path_id": 113988070,
+     "path": "building/onikuru",
      "event": true,
-     "title": "Nagasaki Prefectural Art Museum",
+     "title": "ONIKURU",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924744,
-     "path": "book/a-pattern-language",
+     "path_id": 113988059,
+     "path": "building/shanghai-tower",
      "event": true,
-     "title": "A Pattern Language",
+     "title": "Shanghai Tower",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924722,
-     "path": "building/asakusa-culture-tourist-information-center",
+     "path_id": 113988009,
+     "path": "building/sdu-campus-kolding",
      "event": true,
-     "title": "Asakusa Culture Tourist Information Center",
+     "title": "SDU Campus Kolding",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924707,
-     "path": "building/nakagawa-machi-bato-hiroshige-museum",
+     "path_id": 113988002,
+     "path": "building/willow-tearooms",
      "event": true,
-     "title": "Nakagawa-machi Bato Hiroshige Museum",
+     "title": "Willow Tearooms",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113924513,
-     "path": "book/a-world-history-of-architecture",
+     "path_id": 113987998,
+     "path": "building/quay-quarter-tower",
      "event": true,
-     "title": "A World History of Architecture",
+     "title": "Quay Quarter Tower",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113919760,
-     "path": "building/beethovenhalle-bonn",
+     "path_id": 113987991,
+     "path": "building/hundertwasserhaus",
      "event": true,
-     "title": "Beethovenhalle",
+     "title": "Hundertwasserhaus",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113919348,
-     "path": "building/stadthaus-scharnhauser-park",
+     "path_id": 113987969,
+     "path": "building/santa-caterina-market",
      "event": true,
-     "title": "Stadthaus Scharnhauser Park",
+     "title": "Santa Caterina Market",
      "max": 1
     },
     {
      "count": 1,
-     "path_id": 113919093,
-     "path": "building/bauhaus-museum-dessau",
+     "path_id": 113987948,
+     "path": "building/sultan-salahuddin-abdul-aziz-shah-mosque",
      "event": true,
-     "title": "Bauhaus Museum Dessau",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113918722,
-     "path": "building/galeries-lafayette-berlin",
-     "event": true,
-     "title": "Galeries Lafayette Berlin",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113918604,
-     "path": "building/building-of-the-yugoslavian-legation-in-berlin",
-     "event": true,
-     "title": "Building of the Yugoslavian legation in Berlin",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113917934,
-     "path": "building/bosco-verticale",
-     "event": true,
-     "title": "Bosco Verticale",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113912651,
-     "path": "/buildings/kreeger-museum",
-     "event": false,
-     "title": "Kreeger Museum by Philip Johnson: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113912140,
-     "path": "building/one57",
-     "event": true,
-     "title": "One57",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113911781,
-     "path": "building/utzon-house-hellebk",
-     "event": true,
-     "title": "Utzon House, Helleb\u00e6k",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113911541,
-     "path": "building/nanjing-massacre-memorial-hall",
-     "event": true,
-     "title": "Nanjing Massacre Memorial Hall",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113910359,
-     "path": "building/art-gallery-of-ontario",
-     "event": true,
-     "title": "Art Gallery of Ontario",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113910009,
-     "path": "building/sydney-opera-house",
-     "event": true,
-     "title": "Sydney Opera House",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113909991,
-     "path": "building/fort-jesus",
-     "event": true,
-     "title": "Fort Jesus",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113909973,
-     "path": "building/erdene-zuu",
-     "event": true,
-     "title": "Erdene Zuu Monastery",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113908849,
-     "path": "/buildings/cibona-tower-zagreb",
-     "event": false,
-     "title": "Cibona Tower by Marijan Hr\u017ei\u0107, 1987: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113908690,
-     "path": "building/festspielhaus-baden-baden",
-     "event": true,
-     "title": "Festspielhaus Baden-Baden",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113908688,
-     "path": "building/grand-parc-bordeaux-transformation",
-     "event": true,
-     "title": "Grand Parc Bordeaux Transformation",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113908575,
-     "path": "building/museum-aan-de-stroom-antwerp",
-     "event": true,
-     "title": "Museum aan de Stroom (MAS)",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113908505,
-     "path": "book/atmospheres",
-     "event": true,
-     "title": "Atmospheres",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113907904,
-     "path": "building/m",
-     "event": true,
-     "title": "M+",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113894714,
-     "path": "building/potato-head-beach-club",
-     "event": true,
-     "title": "Potato Head Beach Club",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113889102,
-     "path": "building/st-anna-duren",
-     "event": true,
-     "title": "St. Anna, D\u00fcren",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 113888982,
-     "path": "building/palazzo-della-civilta-italiana",
-     "event": true,
-     "title": "Palazzo della Civilt\u00e0 Italiana",
+     "title": "Sultan Salahuddin Abdul Aziz Shah Mosque (Blue Mosque)",
      "max": 1
     }
    ],
-   "total": 448,
+   "total": 542,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 371,
+     "count": 510,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 193,
+     "count": 200,
      "ref_scheme": "g"
     },
     {
@@ -897,12 +897,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 458
+     "count": 555
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 258
+     "count": 333
     },
     {
      "id": "Firefox",
@@ -915,29 +915,29 @@
   "systems": {
    "stats": [
     {
-     "id": "Windows",
-     "name": "Windows",
-     "count": 248
-    },
-    {
      "id": "iOS",
      "name": "iOS",
-     "count": 218
+     "count": 290
+    },
+    {
+     "id": "Windows",
+     "name": "Windows",
+     "count": 268
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 136
+     "count": 204
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 78
+     "count": 81
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 54
+     "count": 63
     },
     {
      "id": "Chrome OS",
@@ -952,12 +952,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 322
+     "count": 443
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 129
+     "count": 152
     },
     {
      "id": "DE",
@@ -970,6 +970,11 @@
      "count": 32
     },
     {
+     "id": "JP",
+     "name": "Japan",
+     "count": 24
+    },
+    {
      "id": "AU",
      "name": "Australia",
      "count": 21
@@ -977,7 +982,7 @@
     {
      "id": "CA",
      "name": "Canada",
-     "count": 17
+     "count": 18
     },
     {
      "id": "CH",
@@ -1010,24 +1015,24 @@
      "count": 9
     },
     {
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 7
+    },
+    {
+     "id": "MX",
+     "name": "Mexico",
+     "count": 7
+    },
+    {
      "id": "NL",
      "name": "Netherlands",
      "count": 7
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
-     "count": 6
-    },
-    {
-     "id": "MX",
-     "name": "Mexico",
-     "count": 6
-    },
-    {
      "id": "PK",
      "name": "Pakistan",
-     "count": 5
+     "count": 7
     },
     {
      "id": "AT",
@@ -1060,6 +1065,11 @@
      "count": 4
     },
     {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 4
+    },
+    {
      "id": "BE",
      "name": "Belgium",
      "count": 3
@@ -1070,11 +1080,6 @@
      "count": 3
     },
     {
-     "id": "JP",
-     "name": "Japan",
-     "count": 3
-    },
-    {
      "id": "PE",
      "name": "Peru",
      "count": 3
@@ -1082,11 +1087,6 @@
     {
      "id": "SI",
      "name": "Slovenia",
-     "count": 3
-    },
-    {
-     "id": "TW",
-     "name": "Taiwan",
      "count": 3
     },
     {
@@ -1123,6 +1123,11 @@
      "id": "TH",
      "name": "Thailand",
      "count": 2
+    },
+    {
+     "id": "AE",
+     "name": "United Arab Emirates",
+     "count": 1
     },
     {
      "id": "AM",
@@ -1247,17 +1252,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 343
+     "count": 483
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 27
+     "count": 30
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 332
+     "count": 361
     },
     {
      "id": "desktophd",
@@ -1277,7 +1282,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 735
+     "count": 907
     }
    ],
    "more": false
