@@ -342524,7 +342524,83 @@ window.BUILDINGS = [
   "commons": "Category:Bernard Schwartz House",
   "lead": "File:Bernard Schwartz House Still Bend Two Rivers Wisconsin Jan 2013.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bernard_Schwartz_House_Still_Bend_Two_Rivers_Wisconsin_Jan_2013.jpg/1280px-Bernard_Schwartz_House_Still_Bend_Two_Rivers_Wisconsin_Jan_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bernard-schwartz-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Bernard Schwartz House, designed by Frank Lloyd Wright",
+    "credit": "I, the copyright holder of this work, hereby publish it under the following license:",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernard_Schwartz_House_Still_Bend_Two_Rivers_Wisconsin_Jan_2013.jpg",
+    "file": "File:Bernard Schwartz House Still Bend Two Rivers Wisconsin Jan 2013.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Bernard_Schwartz_House-_Two_Rivers%2C_WI_-_Flickr_-_MichaelSteeber_%285%29.jpg/1280px-Bernard_Schwartz_House-_Two_Rivers%2C_WI_-_Flickr_-_MichaelSteeber_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bernard-schwartz-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Michael Steeber  from USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernard_Schwartz_House-_Two_Rivers,_WI_-_Flickr_-_MichaelSteeber_(5).jpg",
+    "file": "File:Bernard Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber (5).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Schwartz_House-_Two_Rivers%2C_WI_-_Flickr_-_MichaelSteeber.jpg/1280px-Schwartz_House-_Two_Rivers%2C_WI_-_Flickr_-_MichaelSteeber.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bernard-schwartz-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · \"Still Bend\" as it is sometimes called, is Two Rivers, WI's very own Frank Lloyd Wright designed property",
+    "credit": "Michael Steeber  from USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schwartz_House-_Two_Rivers,_WI_-_Flickr_-_MichaelSteeber.jpg",
+    "file": "File:Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Bernard_Schwartz_House_Still_Bend_Two_Rivers_Wisconsin.jpg/1280px-Bernard_Schwartz_House_Still_Bend_Two_Rivers_Wisconsin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bernard-schwartz-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 730,
+    "kind": "Exterior",
+    "caption": "Exterior · The Bernard Schwartz House (also know as Still Bend) in Two Rivers, Wisconsin ",
+    "credit": "Royalbroil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernard_Schwartz_House_Still_Bend_Two_Rivers_Wisconsin.jpg",
+    "file": "File:Bernard Schwartz House Still Bend Two Rivers Wisconsin.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bernard_Schwartz_House-_Two_Rivers%2C_WI_-_Flickr_-_MichaelSteeber_%281%29.jpg/1280px-Bernard_Schwartz_House-_Two_Rivers%2C_WI_-_Flickr_-_MichaelSteeber_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bernard-schwartz-house/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Frank Lloyd Wright-designed Bernard Schwartz house in Two Rivers, WI",
+    "credit": "Michael Steeber  from USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernard_Schwartz_House-_Two_Rivers,_WI_-_Flickr_-_MichaelSteeber_(1).jpg",
+    "file": "File:Bernard Schwartz House- Two Rivers, WI - Flickr - MichaelSteeber (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Bernard_Schwartz_House_2.jpg/1280px-Bernard_Schwartz_House_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bernard-schwartz-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior · Bernard Schwartz House - Two Rivers WI",
+    "credit": "Nomadseifer",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernard_Schwartz_House_2.jpg",
+    "file": "File:Bernard Schwartz House 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "goetsch-winckler-house",
@@ -342548,7 +342624,71 @@ window.BUILDINGS = [
   "commons": "Category:Goetsch-Winckler House",
   "lead": "File:Goetsch Winckler House, 2009 (retouched).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Goetsch_Winckler_House%2C_2009_%28retouched%29.jpg/1280px-Goetsch_Winckler_House%2C_2009_%28retouched%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetsch-winckler-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "en:User:Jaydec",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goetsch_Winckler_House,_2009_(retouched).jpg",
+    "file": "File:Goetsch Winckler House, 2009 (retouched).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Goetsch-Winckler_Residence%2C_exterior_-_FLW%2C_Architect_built_in_1939_%28291331655%29_%28filter_etc%29.jpg/1280px-Goetsch-Winckler_Residence%2C_exterior_-_FLW%2C_Architect_built_in_1939_%28291331655%29_%28filter_etc%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetsch-winckler-house/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Goetsch-Winckler Residence, exterior - FLW, Architect built in 1939",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goetsch-Winckler_Residence,_exterior_-_FLW,_Architect_built_in_1939_(291331655)_(filter_etc).jpg",
+    "file": "File:Goetsch-Winckler Residence, exterior - FLW, Architect built in 1939 (291331655) (filter etc).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Goetsch_Winckler_House%2C_2009.jpg/1280px-Goetsch_Winckler_House%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetsch-winckler-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "en:User:Jaydec",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goetsch_Winckler_House,_2009.jpg",
+    "file": "File:Goetsch Winckler House, 2009.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Goetsch-Winckler_Residence%2C_exterior_-_FLW%2C_Architect_built_in_1939_%28291331655%29.jpg/1280px-Goetsch-Winckler_Residence%2C_exterior_-_FLW%2C_Architect_built_in_1939_%28291331655%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetsch-winckler-house/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Goetsch-Winckler Residence, exterior - FLW, Architect built in 1939",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Goetsch-Winckler_Residence,_exterior_-_FLW,_Architect_built_in_1939_(291331655).jpg",
+    "file": "File:Goetsch-Winckler Residence, exterior - FLW, Architect built in 1939 (291331655).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/View_from_Goetsch-Winckler_Residence_-_FLW%2C_Architect_built_in_1939_%28291332007%29_%28filter_etc%29.jpg/1280px-View_from_Goetsch-Winckler_Residence_-_FLW%2C_Architect_built_in_1939_%28291332007%29_%28filter_etc%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/goetsch-winckler-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · View from Goetsch-Winckler Residence - FLW, Architect built in 1939",
+    "credit": "David Brossard",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Goetsch-Winckler_Residence_-_FLW,_Architect_built_in_1939_(291332007)_(filter_etc).jpg",
+    "file": "File:View from Goetsch-Winckler Residence - FLW, Architect built in 1939 (291332007) (filter etc).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "robert-m-lamp-house",
@@ -342572,7 +342712,83 @@ window.BUILDINGS = [
   "commons": "Category:Robert M. Lamp House",
   "lead": "File:Robert M. Lamp House.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_M._Lamp_House.jpg/1280px-Robert_M._Lamp_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robert-m-lamp-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 1189,
+    "kind": "Context",
+    "caption": "Context · The Robert M",
+    "credit": "James Steakley",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Robert_M._Lamp_House.jpg",
+    "file": "File:Robert M. Lamp House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/The_Robert_M._Lamp_House_-_panoramio.jpg/1280px-The_Robert_M._Lamp_House_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robert-m-lamp-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Robert M",
+    "credit": "Corey Coyle",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Robert_M._Lamp_House_-_panoramio.jpg",
+    "file": "File:The Robert M. Lamp House - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Robert_M._Lamp_House%2C_Butler_Street%2C_Tenney-Lapham%2C_Madison%2C_WI.jpg/1280px-Robert_M._Lamp_House%2C_Butler_Street%2C_Tenney-Lapham%2C_Madison%2C_WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robert-m-lamp-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "w_lemay",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Robert_M._Lamp_House,_Butler_Street,_Tenney-Lapham,_Madison,_WI.jpg",
+    "file": "File:Robert M. Lamp House, Butler Street, Tenney-Lapham, Madison, WI.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Lamp_House_plaque.jpg/1280px-Lamp_House_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robert-m-lamp-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 622,
+    "kind": "Exterior",
+    "caption": "Exterior · Plaque at the Robert M",
+    "credit": "James Steakley",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamp_House_plaque.jpg",
+    "file": "File:Lamp House plaque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Robert_Lamp_House_plaque.jpg/1280px-Robert_Lamp_House_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robert-m-lamp-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 1276,
+    "kind": "Exterior",
+    "caption": "Exterior · Robert Lamp House plaque",
+    "credit": "Bigmacthealmanac",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Robert_Lamp_House_plaque.jpg",
+    "file": "File:Robert Lamp House plaque.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Lamp_House_with_original_roof_garden_pergola.jpg/1280px-Lamp_House_with_original_roof_garden_pergola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/robert-m-lamp-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 1097,
+    "kind": "Interior",
+    "caption": "Interior · Photo of the Lamp House ca",
+    "credit": "photo: unknown; file:  James Steakley",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamp_House_with_original_roof_garden_pergola.jpg",
+    "file": "File:Lamp House with original roof garden pergola.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "thomas-p-hardy-house",
@@ -342596,7 +342812,35 @@ window.BUILDINGS = [
   "commons": "Category:Thomas P. Hardy House",
   "lead": "File:Thomas P Hardy House Racine, WI.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Thomas_P_Hardy_House_Racine%2C_WI.jpg/1280px-Thomas_P_Hardy_House_Racine%2C_WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/thomas-p-hardy-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 692,
+    "kind": "Exterior",
+    "caption": "Exterior · Thomas P",
+    "credit": "Andrew J Peterman",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_P_Hardy_House_Racine,_WI.jpg",
+    "file": "File:Thomas P Hardy House Racine, WI.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Racine_October_2023_090_%28Thomas_P._Hardy_House%29.jpg/1280px-Racine_October_2023_090_%28Thomas_P._Hardy_House%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/thomas-p-hardy-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Thomas P",
+    "credit": "Michael Barera",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Racine_October_2023_090_(Thomas_P._Hardy_House).jpg",
+    "file": "File:Racine October 2023 090 (Thomas P. Hardy House).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "student-union-building-ilokivi",
@@ -342620,7 +342864,71 @@ window.BUILDINGS = [
   "commons": "Category:Ylioppilastalo Ilokivi",
   "lead": "File:University of Jyväskylä - Ylioppilastalo.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/University_of_Jyv%C3%A4skyl%C3%A4_-_Ylioppilastalo.jpg/1280px-University_of_Jyv%C3%A4skyl%C3%A4_-_Ylioppilastalo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/student-union-building-ilokivi/thumbs/0.webp",
+    "w": 1280,
+    "h": 753,
+    "kind": "Detail",
+    "caption": "Detail · Ylioppilastalo building, entrance to the Ilokivi student restaurant",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:University_of_Jyv%C3%A4skyl%C3%A4_-_Ylioppilastalo.jpg",
+    "file": "File:University of Jyväskylä - Ylioppilastalo.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Ilokivi_-_south_face.jpg/1280px-Ilokivi_-_south_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/student-union-building-ilokivi/thumbs/1.webp",
+    "w": 1280,
+    "h": 818,
+    "kind": "Context",
+    "caption": "Context · The building Ylioppilastalo Ilokivi in Seminaarinmäki campus, University of Jyväskylä",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ilokivi_-_south_face.jpg",
+    "file": "File:Ilokivi - south face.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Jyv%C3%A4skyl%C3%A4_-_Ylioppilastalo3.jpg/1280px-Jyv%C3%A4skyl%C3%A4_-_Ylioppilastalo3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/student-union-building-ilokivi/thumbs/2.webp",
+    "w": 1280,
+    "h": 873,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrance to Ilokivi restaurant in building Ylioppilastalo, Jyväskylä",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_-_Ylioppilastalo3.jpg",
+    "file": "File:Jyväskylä - Ylioppilastalo3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/DUO_K2160_833_Ilokivi.jpeg/1280px-DUO_K2160_833_Ilokivi.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/student-union-building-ilokivi/thumbs/3.webp",
+    "w": 1280,
+    "h": 879,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Jyväskylä University Museum",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:DUO_K2160_833_Ilokivi.jpeg",
+    "file": "File:DUO K2160 833 Ilokivi.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Student_union_building_Ilokivi_in_Jyv%C3%A4skyl%C3%A4.jpg/1280px-Student_union_building_Ilokivi_in_Jyv%C3%A4skyl%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/student-union-building-ilokivi/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Student union building Ilokivi in Jyväskylä, Finland",
+    "credit": "Antti Leppänen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Student_union_building_Ilokivi_in_Jyv%C3%A4skyl%C3%A4.jpg",
+    "file": "File:Student union building Ilokivi in Jyväskylä.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sport-and-health-sciences-department-building",
@@ -342644,7 +342952,59 @@ window.BUILDINGS = [
   "commons": "Category:Liikuntatieteen laitosrakennus",
   "lead": "File:Jyväskylän yliopisto - Liikunta 2.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Jyv%C3%A4skyl%C3%A4n_yliopisto_-_Liikunta_2.jpg/1280px-Jyv%C3%A4skyl%C3%A4n_yliopisto_-_Liikunta_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sport-and-health-sciences-department-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 616,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Q30510310' (Q30510310) - RKY: 182",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4n_yliopisto_-_Liikunta_2.jpg",
+    "file": "File:Jyväskylän yliopisto - Liikunta 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Jyv%C3%A4skyl%C3%A4_juli_2019_10.jpg/1280px-Jyv%C3%A4skyl%C3%A4_juli_2019_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sport-and-health-sciences-department-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Jyväskylä, juli 2019",
+    "credit": "Johan Jönsson ( Julle )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_juli_2019_10.jpg",
+    "file": "File:Jyväskylä juli 2019 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Jyv%C3%A4skyl%C3%A4n_yliopisto_-_Liikunta.jpg/1280px-Jyv%C3%A4skyl%C3%A4n_yliopisto_-_Liikunta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sport-and-health-sciences-department-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 823,
+    "kind": "Exterior",
+    "caption": "Exterior · Sport sciencies building in Seminaarinmäeki campus, University of Jyväskylä",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4n_yliopisto_-_Liikunta.jpg",
+    "file": "File:Jyväskylän yliopisto - Liikunta.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Jyv%C3%A4skyl%C3%A4_juli_2019_09.jpg/1280px-Jyv%C3%A4skyl%C3%A4_juli_2019_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sport-and-health-sciences-department-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Jyväskylä, juli 2019",
+    "credit": "Johan Jönsson ( Julle )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_juli_2019_09.jpg",
+    "file": "File:Jyväskylä juli 2019 09.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "proxima",
@@ -342668,7 +343028,47 @@ window.BUILDINGS = [
   "commons": "Category:Proxima (Jyväskylä)",
   "lead": "File:JYU - Proxima.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/JYU_-_Proxima.jpg/1280px-JYU_-_Proxima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/proxima/thumbs/0.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Q30510310' (Q30510310) - RKY: 182",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JYU_-_Proxima.jpg",
+    "file": "File:JYU - Proxima.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Proxima.jpg/1280px-Proxima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/proxima/thumbs/1.webp",
+    "w": 1280,
+    "h": 389,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Q30510310' (Q30510310) - RKY: 182",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Proxima.jpg",
+    "file": "File:Proxima.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Jyv%C3%A4skyl%C3%A4_-_Proxima.jpg/1280px-Jyv%C3%A4skyl%C3%A4_-_Proxima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/proxima/thumbs/2.webp",
+    "w": 1280,
+    "h": 664,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Aalto Works' (Q127518238)",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jyv%C3%A4skyl%C3%A4_-_Proxima.jpg",
+    "file": "File:Jyväskylä - Proxima.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hiram-c-stewart-house",
@@ -342692,7 +343092,47 @@ window.BUILDINGS = [
   "commons": "Category:Hiram C. Stewart House",
   "lead": "File:Hiram Stewart House.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hiram_Stewart_House.jpg/1280px-Hiram_Stewart_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiram-c-stewart-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Hiram C",
+    "credit": "Jeff the quiet",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiram_Stewart_House.jpg",
+    "file": "File:Hiram Stewart House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Hiram_C._Stewart_House_1.jpg/1280px-Hiram_C._Stewart_House_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiram-c-stewart-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hiram C",
+    "credit": "Ben Wendt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiram_C._Stewart_House_1.jpg",
+    "file": "File:Hiram C. Stewart House 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hiram_C._Stewart_House_2.jpg/1280px-Hiram_C._Stewart_House_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hiram-c-stewart-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hiram C",
+    "credit": "Ben Wendt",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hiram_C._Stewart_House_2.jpg",
+    "file": "File:Hiram C. Stewart House 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "building-of-east-bohemian-museum",
@@ -342716,7 +343156,83 @@ window.BUILDINGS = [
   "commons": "Category:Historical building of the Museum of Eastern Bohemia",
   "lead": "File:Muzeum exteriér 017.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Muzeum_exteri%C3%A9r_017.jpg/1280px-Muzeum_exteri%C3%A9r_017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/building-of-east-bohemian-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Muzeum východních Čech v Hradci Králové, exteriér historické budovy",
+    "credit": "Miroslav Beneš, Muzeum východních Čech v Hradci Králové",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Muzeum_exteri%C3%A9r_017.jpg",
+    "file": "File:Muzeum exteriér 017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Muzeum_exteri%C3%A9r_018.jpg/1280px-Muzeum_exteri%C3%A9r_018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/building-of-east-bohemian-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Muzeum východních Čech v Hradci Králové, exteriér historické budovy",
+    "credit": "Miroslav Beneš, Muzeum východních Čech v Hradci Králové",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Muzeum_exteri%C3%A9r_018.jpg",
+    "file": "File:Muzeum exteriér 018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/HK_MUZEUM_VYCHODNICH_CECH_DSC_0661.jpg/1280px-HK_MUZEUM_VYCHODNICH_CECH_DSC_0661.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/building-of-east-bohemian-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hradec Králové, Eliščino nábřeží s Muzeem východních Čech, pohled přes Labe, stav duben 2023",
+    "credit": "Lukáš Nekolný",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:HK_MUZEUM_VYCHODNICH_CECH_DSC_0661.jpg",
+    "file": "File:HK MUZEUM VYCHODNICH CECH DSC 0661.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Hradec_Kr%C3%A1lov%C3%A9_%28K%C3%B6niggr%C3%A4tz%29_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_v_noci.JPG/1280px-Hradec_Kr%C3%A1lov%C3%A9_%28K%C3%B6niggr%C3%A4tz%29_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_v_noci.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/building-of-east-bohemian-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 779,
+    "kind": "Exterior",
+    "caption": "Exterior · Museum of Eastern Bohemia in Hradec Králové (Königgrätz), Czech Republic",
+    "credit": "Pudelek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_(K%C3%B6niggr%C3%A4tz)_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_v_noci.JPG",
+    "file": "File:Hradec Králové (Königgrätz) - Muzeum východních Čech v noci.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hradec_Kr%C3%A1lov%C3%A9_-_Eli%C5%A1%C4%8Dino_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_-_Museum_of_East_Bohemia_1909-12_by_Jan_Kot%C4%9Bra_-_ICE_Photocompilation_of_Auditorium.jpg/1280px-Hradec_Kr%C3%A1lov%C3%A9_-_Eli%C5%A1%C4%8Dino_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_-_Museum_of_East_Bohemia_1909-12_by_Jan_Kot%C4%9Bra_-_ICE_Photocompilation_of_Auditorium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/building-of-east-bohemian-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 586,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_-_Eli%C5%A1%C4%8Dino_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_-_Museum_of_East_Bohemia_1909-12_by_Jan_Kot%C4%9Bra_-_ICE_Photocompilation_of_Auditorium.jpg",
+    "file": "File:Hradec Králové - Eliščino nábřeží - Muzeum východních Čech - Museum of East Bohemia 1909-12 by Jan Kotěra - ICE Photocompilation of Auditorium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Hradec_Kr%C3%A1lov%C3%A9_-_Eli%C5%A1%C4%8Dino_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_-_Museum_of_East_Bohemia_1909-12_by_Jan_Kot%C4%9Bra_-_Auditorium_on_South_Side_I.jpg/1280px-Hradec_Kr%C3%A1lov%C3%A9_-_Eli%C5%A1%C4%8Dino_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_-_Museum_of_East_Bohemia_1909-12_by_Jan_Kot%C4%9Bra_-_Auditorium_on_South_Side_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/building-of-east-bohemian-museum/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_-_Eli%C5%A1%C4%8Dino_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_Muzeum_v%C3%BDchodn%C3%ADch_%C4%8Cech_-_Museum_of_East_Bohemia_1909-12_by_Jan_Kot%C4%9Bra_-_Auditorium_on_South_Side_I.jpg",
+    "file": "File:Hradec Králové - Eliščino nábřeží - Muzeum východních Čech - Museum of East Bohemia 1909-12 by Jan Kotěra - Auditorium on South Side I.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "granville-d-jones-house",
@@ -342740,7 +343256,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Granville Jones House Wausau.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Granville_Jones_House_Wausau.jpg/1280px-Granville_Jones_House_Wausau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/granville-d-jones-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · The Granville Jones house in Wausau, Wisconsin is a Prairie School house initially designed by George W",
+    "credit": "Jeff the quiet",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Granville_Jones_House_Wausau.jpg",
+    "file": "File:Granville Jones House Wausau.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "king-nash-house",
@@ -342764,7 +343296,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:King-Nash (Patrick J. King) House.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/King-Nash_%28Patrick_J._King%29_House.jpg/1280px-King-Nash_%28Patrick_J._King%29_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/king-nash-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · 3234 W Washington Blvd Chicago, IL 60624",
+    "credit": "Zol87  from Chicago, IL, USA",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:King-Nash_(Patrick_J._King)_House.jpg",
+    "file": "File:King-Nash (Patrick J. King) House.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "villa-tonder",
@@ -342788,7 +343336,83 @@ window.BUILDINGS = [
   "commons": "Category:Villa Tonder (St. Gilgen)",
   "lead": "File:Villa Tonder Sankt Gilgen 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Villa_Tonder_Sankt_Gilgen_1.jpg/1280px-Villa_Tonder_Sankt_Gilgen_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tonder/thumbs/0.webp",
+    "w": 1280,
+    "h": 1111,
+    "kind": "Exterior",
+    "caption": "Exterior · Jan Kotěra: Letní vila JUDr",
+    "credit": "Anonymous",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tonder_Sankt_Gilgen_1.jpg",
+    "file": "File:Villa Tonder Sankt Gilgen 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Villa_Tonder_Sankt_Gilgen_2.jpg/1280px-Villa_Tonder_Sankt_Gilgen_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tonder/thumbs/1.webp",
+    "w": 1280,
+    "h": 1365,
+    "kind": "Exterior",
+    "caption": "Exterior · Jan Kotěra: Letní vila JUDr",
+    "credit": "Anonymous",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tonder_Sankt_Gilgen_2.jpg",
+    "file": "File:Villa Tonder Sankt Gilgen 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Villa_Tonder%2C_Lienbachweg_2%2C_Sankt_Gilgen.png/1280px-Villa_Tonder%2C_Lienbachweg_2%2C_Sankt_Gilgen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tonder/thumbs/2.webp",
+    "w": 1280,
+    "h": 1157,
+    "kind": "Context",
+    "caption": "Context · Villa Tonder in Sankt Gilgen on the shore of the Wolfgangsee by architect Jan Kotěra , view from the south",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tonder,_Lienbachweg_2,_Sankt_Gilgen.png",
+    "file": "File:Villa Tonder, Lienbachweg 2, Sankt Gilgen.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Sankt_gilgen_2018_1.jpg/1280px-Sankt_gilgen_2018_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tonder/thumbs/3.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior · Sankt Gilgen, Austria",
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Sankt_gilgen_2018_1.jpg",
+    "file": "File:Sankt gilgen 2018 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Villa_Tonder%2C_dining_room.png/1280px-Villa_Tonder%2C_dining_room.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tonder/thumbs/4.webp",
+    "w": 1280,
+    "h": 942,
+    "kind": "Interior",
+    "caption": "Interior · Dining room of the Villa Tonder in Sankt Gilgen",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tonder,_dining_room.png",
+    "file": "File:Villa Tonder, dining room.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Villa_Tonder%2C_girl%27s_room.png/1280px-Villa_Tonder%2C_girl%27s_room.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-tonder/thumbs/5.webp",
+    "w": 1280,
+    "h": 1239,
+    "kind": "Interior",
+    "caption": "Interior · Girl's room of the Villa Tonder in Sankt Gilgen",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Tonder,_girl%27s_room.png",
+    "file": "File:Villa Tonder, girl's room.png"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nature-spa-takarazuka",
@@ -342812,7 +343436,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:ナチュールスパ宝塚.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/%E3%83%8A%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%91%E5%AE%9D%E5%A1%9A.JPG/1280px-%E3%83%8A%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%91%E5%AE%9D%E5%A1%9A.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nature-spa-takarazuka/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "もんじゃ",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%83%8A%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%91%E5%AE%9D%E5%A1%9A.JPG",
+    "file": "File:ナチュールスパ宝塚.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "huize-lydia",
@@ -342836,7 +343476,71 @@ window.BUILDINGS = [
   "commons": "Category:Huize Lydia",
   "lead": "File:Amsterdam Huize Lydia 001.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Amsterdam_Huize_Lydia_001.JPG/1280px-Amsterdam_Huize_Lydia_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/huize-lydia/thumbs/0.webp",
+    "w": 1280,
+    "h": 1115,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Janericloebe",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_Huize_Lydia_001.JPG",
+    "file": "File:Amsterdam Huize Lydia 001.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Amsterdam_Huize_Lydia_002.JPG/1280px-Amsterdam_Huize_Lydia_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/huize-lydia/thumbs/1.webp",
+    "w": 1280,
+    "h": 1066,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Janericloebe",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amsterdam_Huize_Lydia_002.JPG",
+    "file": "File:Amsterdam Huize Lydia 002.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Huize_Lydia.JPG/1280px-Huize_Lydia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/huize-lydia/thumbs/2.webp",
+    "w": 1280,
+    "h": 980,
+    "kind": "Exterior",
+    "caption": "Exterior · Huize Lydia, Roelof Hartplein 2 a-y",
+    "credit": "Marcelmulder68",
+    "license": "CC BY-SA 3.0 nl",
+    "source": "https://commons.wikimedia.org/wiki/File:Huize_Lydia.JPG",
+    "file": "File:Huize Lydia.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Huize-Lydia.jpg/1280px-Huize-Lydia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/huize-lydia/thumbs/3.webp",
+    "w": 1280,
+    "h": 799,
+    "kind": "Exterior",
+    "caption": "Exterior · Huize Lydia, Roelof Hartplein Amsterdam",
+    "credit": "Marcel mulder",
+    "license": "CC BY-SA 3.0 nl",
+    "source": "https://commons.wikimedia.org/wiki/File:Huize-Lydia.jpg",
+    "file": "File:Huize-Lydia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Huize_Lydia%2C_detail_raampartij_binnenzijde_complex.jpg/1280px-Huize_Lydia%2C_detail_raampartij_binnenzijde_complex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/huize-lydia/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Huize Lydia, detail raampartij binnenzijde complex",
+    "credit": "Anne-Mariken Raukema",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Huize_Lydia,_detail_raampartij_binnenzijde_complex.jpg",
+    "file": "File:Huize Lydia, detail raampartij binnenzijde complex.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "parco-sempione-library",
@@ -342860,7 +343564,59 @@ window.BUILDINGS = [
   "commons": "Category:Biblioteca Parco Sempione",
   "lead": "File:Paolo Monti - Servizio fotografico (Milano, 1954) - BEIC 6365747.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1954%29_-_BEIC_6365747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/parco-sempione-library/thumbs/0.webp",
+    "w": 1258,
+    "h": 965,
+    "kind": "Exterior",
+    "caption": "Exterior · Servizio fotografico : Milano, 1954 / Paolo Monti",
+    "credit": "Paolo Monti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Milano,_1954)_-_BEIC_6365747.jpg",
+    "file": "File:Paolo Monti - Servizio fotografico (Milano, 1954) - BEIC 6365747.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Biblioteca_Parco_Sempione_2024_01.jpg/1280px-Biblioteca_Parco_Sempione_2024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/parco-sempione-library/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Exteriors of the public library of Parco Sempione in Milan in Italy",
+    "credit": "Iopensa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Parco_Sempione_2024_01.jpg",
+    "file": "File:Biblioteca Parco Sempione 2024 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Biblioteca_Parco_Sempione_2024_06.jpg/1280px-Biblioteca_Parco_Sempione_2024_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/parco-sempione-library/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Exteriors of the public library of Parco Sempione in Milan in Italy",
+    "credit": "Iopensa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Biblioteca_Parco_Sempione_2024_06.jpg",
+    "file": "File:Biblioteca Parco Sempione 2024 06.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Parco_Sempione%2C_biblioteca%2C_l%27albero_di_Lea_Garofalo_LU00604.jpg/1280px-Parco_Sempione%2C_biblioteca%2C_l%27albero_di_Lea_Garofalo_LU00604.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/parco-sempione-library/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Milano, Biblioteca del Parco Sempione, l'albero di Lea Garofalo",
+    "credit": "Lalupa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parco_Sempione,_biblioteca,_l%27albero_di_Lea_Garofalo_LU00604.jpg",
+    "file": "File:Parco Sempione, biblioteca, l'albero di Lea Garofalo LU00604.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-wenceslas-church-vrsovice",
@@ -342884,7 +343640,97 @@ window.BUILDINGS = [
   "commons": "Category:Church of Saint Wenceslaus (Vršovice)",
   "lead": "File:Svaty Vaclav Vrsovice.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Svaty_Vaclav_Vrsovice.jpg/1280px-Svaty_Vaclav_Vrsovice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/0.webp",
+    "w": 1053,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Saint Wenceslas church, Svatopluk Čech square at Vršovice, Prague (Czech Republic)",
+    "credit": "Petr Vilgus",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Svaty_Vaclav_Vrsovice.jpg",
+    "file": "File:Svaty Vaclav Vrsovice.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Praha%2C_Vr%C5%A1ovice%2C_Moskevsk%C3%A1_s_chr%C3%A1mem_svat%C3%A9ho_V%C3%A1clava.jpg/1280px-Praha%2C_Vr%C5%A1ovice%2C_Moskevsk%C3%A1_s_chr%C3%A1mem_svat%C3%A9ho_V%C3%A1clava.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Temple of st",
+    "credit": "I would appreciate  being notified  if you use my work outside Wikimedia.\nMore of my work can be fou",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha,_Vr%C5%A1ovice,_Moskevsk%C3%A1_s_chr%C3%A1mem_svat%C3%A9ho_V%C3%A1clava.jpg",
+    "file": "File:Praha, Vršovice, Moskevská s chrámem svatého Václava.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Praha%2C_Vr%C5%A1ovice_-_kostel_svat%C3%A9ho_V%C3%A1clava_089.jpg/1280px-Praha%2C_Vr%C5%A1ovice_-_kostel_svat%C3%A9ho_V%C3%A1clava_089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Praha, Vršovice - kostel svatého Václava",
+    "credit": "Matěj Baťha",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha,_Vr%C5%A1ovice_-_kostel_svat%C3%A9ho_V%C3%A1clava_089.jpg",
+    "file": "File:Praha, Vršovice - kostel svatého Václava 089.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Church_of_Saint_Wenceslaus_%28Vr%C5%A1ovice%29_IMG_6437.png/1280px-Church_of_Saint_Wenceslaus_%28Vr%C5%A1ovice%29_IMG_6437.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Church of Saint Wenceslaus (Vršovice)",
+    "credit": "VANOCE2022",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Wenceslaus_(Vr%C5%A1ovice)_IMG_6437.png",
+    "file": "File:Church of Saint Wenceslaus (Vršovice) IMG 6437.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Church_of_Saint_Wenceslaus_%28Vr%C5%A1ovice%29_IMG_6438.png/1280px-Church_of_Saint_Wenceslaus_%28Vr%C5%A1ovice%29_IMG_6438.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Church of Saint Wenceslaus (Vršovice)",
+    "credit": "VANOCE2022",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Wenceslaus_(Vr%C5%A1ovice)_IMG_6438.png",
+    "file": "File:Church of Saint Wenceslaus (Vršovice) IMG 6438.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Praha_10-Kostel_sv._V%C3%A1clava-4.JPG/1280px-Praha_10-Kostel_sv._V%C3%A1clava-4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Church of Saint Wenceslaus (Vršovice)",
+    "credit": "Ddjahh",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha_10-Kostel_sv._V%C3%A1clava-4.JPG",
+    "file": "File:Praha 10-Kostel sv. Václava-4.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/NTM_-_kostel_svat%C3%A9ho_V%C3%A1clava_model.JPG/1280px-NTM_-_kostel_svat%C3%A9ho_V%C3%A1clava_model.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-wenceslas-church-vrsovice/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Model",
+    "caption": "Model · Praha - kostel svatého Václava",
+    "credit": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NTM_-_kostel_svat%C3%A9ho_V%C3%A1clava_model.JPG",
+    "file": "File:NTM - kostel svatého Václava model.JPG"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "st-franziskus",
@@ -342908,7 +343754,71 @@ window.BUILDINGS = [
   "commons": "Category:St. Franziskus (Köln-Bilderstöckchen)",
   "lead": "File:Köln-Bilderstöckchen, St. Franziskus (02).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/K%C3%B6ln-Bilderst%C3%B6ckchen%2C_St._Franziskus_%2802%29.jpg/1280px-K%C3%B6ln-Bilderst%C3%B6ckchen%2C_St._Franziskus_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-franziskus/thumbs/0.webp",
+    "w": 1280,
+    "h": 1336,
+    "kind": "Exterior",
+    "caption": "Exterior · Katholische Pfarrkirche St",
+    "credit": "Subbass1",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6ln-Bilderst%C3%B6ckchen,_St._Franziskus_(02).jpg",
+    "file": "File:Köln-Bilderstöckchen, St. Franziskus (02).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/St._Franziskus_%28K%C3%B6ln-Bilderst%C3%B6ckchen%29_%285%29.jpg/1280px-St._Franziskus_%28K%C3%B6ln-Bilderst%C3%B6ckchen%29_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-franziskus/thumbs/1.webp",
+    "w": 1280,
+    "h": 1034,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "Chris06",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Franziskus_(K%C3%B6ln-Bilderst%C3%B6ckchen)_(5).jpg",
+    "file": "File:St. Franziskus (Köln-Bilderstöckchen) (5).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Gewerbebebauung_vor_St._Franziskus%2C_K%C3%B6ln-Bilderst%C3%B6ckchen-6533.jpg/1280px-Gewerbebebauung_vor_St._Franziskus%2C_K%C3%B6ln-Bilderst%C3%B6ckchen-6533.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-franziskus/thumbs/2.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Gewerbebebauung vor St",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gewerbebebauung_vor_St._Franziskus,_K%C3%B6ln-Bilderst%C3%B6ckchen-6533.jpg",
+    "file": "File:Gewerbebebauung vor St. Franziskus, Köln-Bilderstöckchen-6533.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/St._Franziskus%2C_K%C3%B6ln-Bilderst%C3%B6ckchen-6535.jpg/1280px-St._Franziskus%2C_K%C3%B6ln-Bilderst%C3%B6ckchen-6535.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-franziskus/thumbs/3.webp",
+    "w": 1235,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · St",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Franziskus,_K%C3%B6ln-Bilderst%C3%B6ckchen-6535.jpg",
+    "file": "File:St. Franziskus, Köln-Bilderstöckchen-6535.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/K%C3%B6ln-Bilderst%C3%B6ckchen%2C_St._Franziskus_%2817%29.jpg/1280px-K%C3%B6ln-Bilderst%C3%B6ckchen%2C_St._Franziskus_%2817%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-franziskus/thumbs/4.webp",
+    "w": 789,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Katholische Pfarrkirche St",
+    "credit": "Subbass1",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6ln-Bilderst%C3%B6ckchen,_St._Franziskus_(17).jpg",
+    "file": "File:Köln-Bilderstöckchen, St. Franziskus (17).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "rundling-leipzig",
@@ -342932,7 +343842,71 @@ window.BUILDINGS = [
   "commons": "Category:Rundling (Leipzig)",
   "lead": "File:Rundling (IMG 20220726 154841).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Rundling_%28IMG_20220726_154841%29.jpg/1280px-Rundling_%28IMG_20220726_154841%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rundling-leipzig/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Simon Legner ( User:simon04 )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rundling_(IMG_20220726_154841).jpg",
+    "file": "File:Rundling (IMG 20220726 154841).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rundling_%28IMG_20220726_154803%29.jpg/1280px-Rundling_%28IMG_20220726_154803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rundling-leipzig/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Simon Legner ( User:simon04 )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rundling_(IMG_20220726_154803).jpg",
+    "file": "File:Rundling (IMG 20220726 154803).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Rundling_%28Leipzig%29_1.jpg/1280px-Rundling_%28Leipzig%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rundling-leipzig/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Rundling (Leipzig), moderna ronda loĝejaro",
+    "credit": "Giorno2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rundling_(Leipzig)_1.jpg",
+    "file": "File:Rundling (Leipzig) 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Rundling_%28Leipzig%29_2.jpg/1280px-Rundling_%28Leipzig%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rundling-leipzig/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Rundling (Leipzig), moderna ronda loĝejaro",
+    "credit": "Giorno2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rundling_(Leipzig)_2.jpg",
+    "file": "File:Rundling (Leipzig) 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Rundling_Leipzig_1945_342-FH_001325.jpg/1280px-Rundling_Leipzig_1945_342-FH_001325.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rundling-leipzig/thumbs/4.webp",
+    "w": 1280,
+    "h": 1035,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Unknown author or not provided",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Rundling_Leipzig_1945_342-FH_001325.jpg",
+    "file": "File:Rundling Leipzig 1945 342-FH 001325.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "blackwell-arts-and-crafts-house",
@@ -342956,7 +343930,85 @@ window.BUILDINGS = [
   "commons": "Category:Blackwell, Bowness-on-Windermere",
   "lead": "File:Bowness-on-Windermere, Windermere LA23, UK - panoramio (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bowness-on-Windermere%2C_Windermere_LA23%2C_UK_-_panoramio_%281%29.jpg/1280px-Bowness-on-Windermere%2C_Windermere_LA23%2C_UK_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blackwell-arts-and-crafts-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Bowness-on-Windermere, Windermere LA23, UK",
+    "credit": "cowbridgeguide.co.uk",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bowness-on-Windermere,_Windermere_LA23,_UK_-_panoramio_(1).jpg",
+    "file": "File:Bowness-on-Windermere, Windermere LA23, UK - panoramio (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Blackwell02.jpg/1280px-Blackwell02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blackwell-arts-and-crafts-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Blackwell School",
+    "credit": "GavinJA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blackwell02.jpg",
+    "file": "File:Blackwell02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Blackwell01.jpg/1280px-Blackwell01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blackwell-arts-and-crafts-house/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Blackwell School",
+    "credit": "GavinJA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Blackwell01.jpg",
+    "file": "File:Blackwell01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/59_Creuer_pel_llac_Windermere%2C_Westward%2C_cobert%2C_al_fons_Blackwell%2C_Storrs_%28Bowness%29.jpg/1280px-59_Creuer_pel_llac_Windermere%2C_Westward%2C_cobert%2C_al_fons_Blackwell%2C_Storrs_%28Bowness%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blackwell-arts-and-crafts-house/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Windermere, Lake District National Park",
+    "credit": "Enric",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:59_Creuer_pel_llac_Windermere,_Westward,_cobert,_al_fons_Blackwell,_Storrs_(Bowness).jpg",
+    "file": "File:59 Creuer pel llac Windermere, Westward, cobert, al fons Blackwell, Storrs (Bowness).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Black_Dome_Cumbria.jpg/1280px-Black_Dome_Cumbria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blackwell-arts-and-crafts-house/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Detail",
+    "caption": "Detail · Black Dome in Cumbria/UK",
+    "credit": "Tim Regan  from Cambridge, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_Dome_Cumbria.jpg",
+    "file": "File:Black Dome Cumbria.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Blackwell%2C_Bowness-on-Windermere_-_Das_englische_Haus_Vol._1.jpeg/1280px-Blackwell%2C_Bowness-on-Windermere_-_Das_englische_Haus_Vol._1.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/blackwell-arts-and-crafts-house/thumbs/5.webp",
+    "w": 1280,
+    "h": 841,
+    "kind": "Plan",
+    "caption": "Plan · Hermann Muthesius, Das englische Haus, Bd",
+    "credit": "Hermann Muthesius",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Blackwell,_Bowness-on-Windermere_-_Das_englische_Haus_Vol._1.jpeg",
+    "file": "File:Blackwell, Bowness-on-Windermere - Das englische Haus Vol. 1.jpeg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "kasson-municipal-building",
@@ -342980,7 +344032,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:2010-1025-KassonMunicipalBuilding.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2010-1025-KassonMunicipalBuilding.jpg/1280px-2010-1025-KassonMunicipalBuilding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kasson-municipal-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Kasson Municipal Building , Kasson, Minnesota , USA",
+    "credit": "Bobak Ha'Eri",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2010-1025-KassonMunicipalBuilding.jpg",
+    "file": "File:2010-1025-KassonMunicipalBuilding.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-lazarus-roman-catholic-church-al-eizariya",
@@ -343004,7 +344072,83 @@ window.BUILDINGS = [
   "commons": "Category:St. Lazarus Roman Catholic Church (Bethany)",
   "lead": "File:Larry Koester, Facade of the Church of St Lazarus (2).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Larry_Koester%2C_Facade_of_the_Church_of_St_Lazarus_%282%29.jpg/1280px-Larry_Koester%2C_Facade_of_the_Church_of_St_Lazarus_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-lazarus-roman-catholic-church-al-eizariya/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Larry Koester, Facade of the Church of St Lazarus",
+    "credit": "Larry Koester",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Larry_Koester,_Facade_of_the_Church_of_St_Lazarus_(2).jpg",
+    "file": "File:Larry Koester, Facade of the Church of St Lazarus (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Bethany_Lazarus_church.jpg/1280px-Bethany_Lazarus_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-lazarus-roman-catholic-church-al-eizariya/thumbs/1.webp",
+    "w": 1280,
+    "h": 816,
+    "kind": "Exterior",
+    "caption": "Exterior · Bethany Lazarus church",
+    "credit": "Utilisateur:Djampa  -  User:Djampa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bethany_Lazarus_church.jpg",
+    "file": "File:Bethany Lazarus church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Larry_Koester%2C_Facade_of_the_Church_of_St_Lazarus.jpg/1280px-Larry_Koester%2C_Facade_of_the_Church_of_St_Lazarus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-lazarus-roman-catholic-church-al-eizariya/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Larry Koester, Facade of the Church of St Lazarus",
+    "credit": "Larry Koester",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Larry_Koester,_Facade_of_the_Church_of_St_Lazarus.jpg",
+    "file": "File:Larry Koester, Facade of the Church of St Lazarus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/St._Lazarus_Roman_Catholic_Church_%28al-Eizariya%29%2C_2019_%2801%29.jpg/1280px-St._Lazarus_Roman_Catholic_Church_%28al-Eizariya%29%2C_2019_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-lazarus-roman-catholic-church-al-eizariya/thumbs/3.webp",
+    "w": 928,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the facade of the Church of Saint Lazarus, Al-Eizariya , West Baknk",
+    "credit": "Bahnfrend",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St._Lazarus_Roman_Catholic_Church_(al-Eizariya),_2019_(01).jpg",
+    "file": "File:St. Lazarus Roman Catholic Church (al-Eizariya), 2019 (01).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Interior_of_St._Lazarus_Roman_Catholic_Church_%28al-Eizariya%29%2C_2019_%2804%29.jpg/1280px-Interior_of_St._Lazarus_Roman_Catholic_Church_%28al-Eizariya%29%2C_2019_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-lazarus-roman-catholic-church-al-eizariya/thumbs/4.webp",
+    "w": 1280,
+    "h": 1025,
+    "kind": "Interior",
+    "caption": "Interior · View of one of the frescos decorating the interior of the Church of Saint Lazarus, Al-Eizariya , West Bank",
+    "credit": "Bahnfrend",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_of_St._Lazarus_Roman_Catholic_Church_(al-Eizariya),_2019_(04).jpg",
+    "file": "File:Interior of St. Lazarus Roman Catholic Church (al-Eizariya), 2019 (04).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Holy_Land_2016_P0944_St._Lazarus_Roman_Catholic_Church_Resurrection_of_Lazarus_fresco.jpg/1280px-Holy_Land_2016_P0944_St._Lazarus_Roman_Catholic_Church_Resurrection_of_Lazarus_fresco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-lazarus-roman-catholic-church-al-eizariya/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · St",
+    "credit": "Fallaner",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Land_2016_P0944_St._Lazarus_Roman_Catholic_Church_Resurrection_of_Lazarus_fresco.jpg",
+    "file": "File:Holy Land 2016 P0944 St. Lazarus Roman Catholic Church Resurrection of Lazarus fresco.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-michael-s-church-crna-vas",
@@ -343028,7 +344172,23 @@ window.BUILDINGS = [
   "commons": null,
   "lead": "File:Pfarrkirche St. Michael im Laibacher Moor.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Pfarrkirche_St._Michael_im_Laibacher_Moor.jpg/1280px-Pfarrkirche_St._Michael_im_Laibacher_Moor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-michael-s-church-crna-vas/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Michael-Kitche sowie Presbyterium in Barje, Cerkev Sv",
+    "credit": "Thomas Ledl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pfarrkirche_St._Michael_im_Laibacher_Moor.jpg",
+    "file": "File:Pfarrkirche St. Michael im Laibacher Moor.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "villa-kampen",
@@ -343052,7 +344212,59 @@ window.BUILDINGS = [
   "commons": "Category:Villa Kampen",
   "lead": "File:Villa Kampen set fra Strandvejen.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Villa_Kampen_set_fra_Strandvejen.jpg/1280px-Villa_Kampen_set_fra_Strandvejen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-kampen/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Villa Kampen seen from Strandvejen, Aarhus",
+    "credit": "Villy Fink Isaksen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Kampen_set_fra_Strandvejen.jpg",
+    "file": "File:Villa Kampen set fra Strandvejen.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Villa_Kampen_i_sol.jpg/1280px-Villa_Kampen_i_sol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-kampen/thumbs/1.webp",
+    "w": 1280,
+    "h": 991,
+    "kind": "Exterior",
+    "caption": "Exterior · in the Heritage Agency of Denmark database for Listed Buildings",
+    "credit": "Villy Fink Isaksen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Kampen_i_sol.jpg",
+    "file": "File:Villa Kampen i sol.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Villa_Kampen_bagfra.jpg/1280px-Villa_Kampen_bagfra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-kampen/thumbs/2.webp",
+    "w": 1280,
+    "h": 1032,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Kampen bagfra",
+    "credit": "Villy Fink Isaksen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Villa_Kampen_bagfra.jpg",
+    "file": "File:Villa Kampen bagfra.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hovedd%C3%B8r%2C_Villa_Kampen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/villa-kampen/thumbs/3.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ib Nicolajsen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hovedd%C3%B8r,_Villa_Kampen.jpg",
+    "file": "File:Hoveddør, Villa Kampen.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "maestranza-cesar-giron",
@@ -343076,7 +344288,83 @@ window.BUILDINGS = [
   "commons": "Category:Maestranza César Girón",
   "lead": "File:Maestranza César Girón 6.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Maestranza_C%C3%A9sar_Gir%C3%B3n_6.jpg/1280px-Maestranza_C%C3%A9sar_Gir%C3%B3n_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maestranza-cesar-giron/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Maestranza César Girón en la avenida 19 de abril de la ciudad de Maracay, Venezuela",
+    "credit": "Muago",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maestranza_C%C3%A9sar_Gir%C3%B3n_6.jpg",
+    "file": "File:Maestranza César Girón 6.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Maestranza_Cesar_Gir%C3%B3n_-_Maracay_2025-9235.jpg/1280px-Maestranza_Cesar_Gir%C3%B3n_-_Maracay_2025-9235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maestranza-cesar-giron/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Fotografía liberada como parte del esfuerzo de Wikimedia Small Projects",
+    "credit": "Lacamaradefran",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maestranza_Cesar_Gir%C3%B3n_-_Maracay_2025-9235.jpg",
+    "file": "File:Maestranza Cesar Girón - Maracay 2025-9235.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Girondina.jpg/1280px-Girondina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maestranza-cesar-giron/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Girondina en la Maestranza César Girón de la ciudad de Maracay, Venezuela",
+    "credit": "Muago",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Girondina.jpg",
+    "file": "File:Girondina.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Destazadero_Maestranza.jpg/1280px-Destazadero_Maestranza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maestranza-cesar-giron/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Maestranza's slaughterhouse",
+    "credit": "Bobjgalindo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Destazadero_Maestranza.jpg",
+    "file": "File:Destazadero Maestranza.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Interior_Maestranza_Maracay.jpg/1280px-Interior_Maestranza_Maracay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maestranza-cesar-giron/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Inside of the bullring in Maracay , Venezuela",
+    "credit": "Bobjgalindo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_Maestranza_Maracay.jpg",
+    "file": "File:Interior Maestranza Maracay.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Manolete._Maracay.jpg/1280px-Manolete._Maracay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/maestranza-cesar-giron/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Manolete - sculpture in Maracay, Venezuela",
+    "credit": "A.Davey",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Manolete._Maracay.jpg",
+    "file": "File:Manolete. Maracay.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tampere-theatre",
@@ -343100,7 +344388,83 @@ window.BUILDINGS = [
   "commons": "Category:Tampere Theatre",
   "lead": "File:Tampere Theatre 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Tampere_Theatre_1.jpg/1280px-Tampere_Theatre_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tampere-theatre/thumbs/0.webp",
+    "w": 1280,
+    "h": 842,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tampere_Theatre_1.jpg",
+    "file": "File:Tampere Theatre 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Tampere_Theatre_2.jpg/1280px-Tampere_Theatre_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tampere-theatre/thumbs/1.webp",
+    "w": 1280,
+    "h": 836,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tampere_Theatre_2.jpg",
+    "file": "File:Tampere Theatre 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Tampereen_teatteri_2018.jpg/1280px-Tampereen_teatteri_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tampere-theatre/thumbs/2.webp",
+    "w": 1280,
+    "h": 902,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tampereen_teatteri_2018.jpg",
+    "file": "File:Tampereen teatteri 2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Free_Travel_Shirt_Tampereen_Teatteri.jpg/1280px-Free_Travel_Shirt_Tampereen_Teatteri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tampere-theatre/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Free Travel-Shirt at theatre, Tampere , Finland",
+    "credit": "Stefan Flöper",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Free_Travel_Shirt_Tampereen_Teatteri.jpg",
+    "file": "File:Free Travel Shirt Tampereen Teatteri.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Kaatuneita_punakaartilaisia_Tampereen_teatterissa_%2826696842880%29.jpg/1280px-Kaatuneita_punakaartilaisia_Tampereen_teatterissa_%2826696842880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tampere-theatre/thumbs/4.webp",
+    "w": 1280,
+    "h": 925,
+    "kind": "Interior",
+    "caption": "Interior · CC-BY Tampere 1918, kuvaaja Martta terävä, Vapriikin kuva-arkisto",
+    "credit": "Museokeskus Vapriikki",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaatuneita_punakaartilaisia_Tampereen_teatterissa_(26696842880).jpg",
+    "file": "File:Kaatuneita punakaartilaisia Tampereen teatterissa (26696842880).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/H%C3%A4meenkatu_in_June.jpg/1280px-H%C3%A4meenkatu_in_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tampere-theatre/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:H%C3%A4meenkatu_in_June.jpg",
+    "file": "File:Hämeenkatu in June.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "synagogue-don-isaac-abravanel",
@@ -343124,7 +344488,71 @@ window.BUILDINGS = [
   "commons": "Category:Synagogue Don Isaac Abravanel",
   "lead": "File:Synagogue Don Isaac Abravanel, Paris 21 January 2017.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Synagogue_Don_Isaac_Abravanel%2C_Paris_21_January_2017.jpg/1280px-Synagogue_Don_Isaac_Abravanel%2C_Paris_21_January_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/synagogue-don-isaac-abravanel/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Synagogue Don Isaac Abravanel @ Paris 11",
+    "credit": "Guilhem Vellut  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Synagogue_Don_Isaac_Abravanel,_Paris_21_January_2017.jpg",
+    "file": "File:Synagogue Don Isaac Abravanel, Paris 21 January 2017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Paris_Synagogue_Roquette_75.JPG/1280px-Paris_Synagogue_Roquette_75.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/synagogue-don-isaac-abravanel/thumbs/1.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Synagoge der Rue de la Roquette , Synagogue Don Isaac Abravanel, 84/86, rue de la Roquette im 11",
+    "credit": "GFreihalter",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Synagogue_Roquette_75.JPG",
+    "file": "File:Paris Synagogue Roquette 75.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Syna_Abravanel_Tables_de_la_Loi.JPG/1280px-Syna_Abravanel_Tables_de_la_Loi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/synagogue-don-isaac-abravanel/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Ten commandments tablets on the synagogue Don Isaac Abravanel",
+    "credit": "FLLL",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syna_Abravanel_Tables_de_la_Loi.JPG",
+    "file": "File:Syna Abravanel Tables de la Loi.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Syna_Abravanel_-Hommage_D%C3%A9portes.JPG/1280px-Syna_Abravanel_-Hommage_D%C3%A9portes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/synagogue-don-isaac-abravanel/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Commemorative plaque for the deportees by the Nazis, affixed in the synagogue Don Isaac Abravanel in Paris",
+    "credit": "FLLL",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Syna_Abravanel_-Hommage_D%C3%A9portes.JPG",
+    "file": "File:Syna Abravanel -Hommage Déportes.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Paris_Synagogue_Roquette_Detail76.JPG/1280px-Paris_Synagogue_Roquette_Detail76.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/synagogue-don-isaac-abravanel/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Detail",
+    "caption": "Detail · Synagoge der Rue de la Roquette , Synagogue Don Isaac Abravanel, 84/86, rue de la Roquette im 11",
+    "credit": "GFreihalter",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Synagogue_Roquette_Detail76.JPG",
+    "file": "File:Paris Synagogue Roquette Detail76.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kalmar-konstmuseum",
@@ -343148,7 +344576,59 @@ window.BUILDINGS = [
   "commons": "Category:Kalmar konstmuseum",
   "lead": "File:Kalmar Konstmuseum 2008 maj.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Kalmar_Konstmuseum_2008_maj.jpg/1280px-Kalmar_Konstmuseum_2008_maj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kalmar-konstmuseum/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Kalmar Konstmuseum maj 2008",
+    "credit": "User:Lars Mongs, Arxfoto",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalmar_Konstmuseum_2008_maj.jpg",
+    "file": "File:Kalmar Konstmuseum 2008 maj.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kalmar_Konstmuseum_01.JPG/1280px-Kalmar_Konstmuseum_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kalmar-konstmuseum/thumbs/1.webp",
+    "w": 1280,
+    "h": 899,
+    "kind": "Exterior",
+    "caption": "Exterior · Kalmar Konstmuseum (Art Museum of Kalmar), Sweden",
+    "credit": "Boberger . Photo: Bengt Oberger",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalmar_Konstmuseum_01.JPG",
+    "file": "File:Kalmar Konstmuseum 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kalmar._Kalmar_konstmuseum_0.JPG/1280px-Kalmar._Kalmar_konstmuseum_0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kalmar-konstmuseum/thumbs/2.webp",
+    "w": 1280,
+    "h": 861,
+    "kind": "Exterior",
+    "caption": "Exterior · Kalmar",
+    "credit": "Bernt Fransson,Lindås",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalmar._Kalmar_konstmuseum_0.JPG",
+    "file": "File:Kalmar. Kalmar konstmuseum 0.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Zorn_-_J.C._Janzon_%28Spada%29.jpg/1280px-Zorn_-_J.C._Janzon_%28Spada%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kalmar-konstmuseum/thumbs/3.webp",
+    "w": 1064,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Anders Zorn",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Zorn_-_J.C._Janzon_(Spada).jpg",
+    "file": "File:Zorn - J.C. Janzon (Spada).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "gebaude-der-reichsschuldenverwaltung",
@@ -343172,7 +344652,47 @@ window.BUILDINGS = [
   "commons": "Category:Building of the Reichsschuldenverwaltung",
   "lead": "File:BIM in der Oranienstraße in Berlin-Kreuzberg.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/BIM_in_der_Oranienstra%C3%9Fe_in_Berlin-Kreuzberg.jpg/1280px-BIM_in_der_Oranienstra%C3%9Fe_in_Berlin-Kreuzberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gebaude-der-reichsschuldenverwaltung/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Assenmacher",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BIM_in_der_Oranienstra%C3%9Fe_in_Berlin-Kreuzberg.jpg",
+    "file": "File:BIM in der Oranienstraße in Berlin-Kreuzberg.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Reichsschuldenverwaltung%2C_Ecke_Oranienburger-Alte_Jakobstra%C3%9Fe.jpg/1280px-Reichsschuldenverwaltung%2C_Ecke_Oranienburger-Alte_Jakobstra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gebaude-der-reichsschuldenverwaltung/thumbs/1.webp",
+    "w": 1280,
+    "h": 922,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Beek100",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Reichsschuldenverwaltung,_Ecke_Oranienburger-Alte_Jakobstra%C3%9Fe.jpg",
+    "file": "File:Reichsschuldenverwaltung, Ecke Oranienburger-Alte Jakobstraße.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Reichsschuldenverwaltung%2C_Bogenfassade_Ecke_Oranienburger-Alte_Jakobstra%C3%9Fe.jpg/1280px-Reichsschuldenverwaltung%2C_Bogenfassade_Ecke_Oranienburger-Alte_Jakobstra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gebaude-der-reichsschuldenverwaltung/thumbs/2.webp",
+    "w": 1080,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Beek100",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reichsschuldenverwaltung,_Bogenfassade_Ecke_Oranienburger-Alte_Jakobstra%C3%9Fe.jpg",
+    "file": "File:Reichsschuldenverwaltung, Bogenfassade Ecke Oranienburger-Alte Jakobstraße.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "spiskova-vila",
@@ -343196,7 +344716,59 @@ window.BUILDINGS = [
   "commons": "Category:Špíškova vila",
   "lead": "File:Baba - Špíšek 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Baba_-_%C5%A0p%C3%AD%C5%A1ek_02.jpg/1280px-Baba_-_%C5%A0p%C3%AD%C5%A1ek_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/spiskova-vila/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Osada Baba (Baba Functionalism colony in Prague) - House Špíšek",
+    "credit": "Jirka Dl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baba_-_%C5%A0p%C3%AD%C5%A1ek_02.jpg",
+    "file": "File:Baba - Špíšek 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/%C5%A0p%C3%AD%C5%A1kova_vila.jpeg/1280px-%C5%A0p%C3%AD%C5%A1kova_vila.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/spiskova-vila/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Pigiret",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0p%C3%AD%C5%A1kova_vila.jpeg",
+    "file": "File:Špíškova vila.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Baba_-_%C5%A0p%C3%AD%C5%A1ek_03.jpg/1280px-Baba_-_%C5%A0p%C3%AD%C5%A1ek_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/spiskova-vila/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Osada Baba (Baba Functionalism colony in Prague) - House Špíšek",
+    "credit": "Jirka Dl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baba_-_%C5%A0p%C3%AD%C5%A1ek_03.jpg",
+    "file": "File:Baba - Špíšek 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%C5%A0p%C3%AD%C5%A1kova_vila_4.jpeg/1280px-%C5%A0p%C3%AD%C5%A1kova_vila_4.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/spiskova-vila/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Pigiret",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%A0p%C3%AD%C5%A1kova_vila_4.jpeg",
+    "file": "File:Špíškova vila 4.jpeg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-johns-cathedral-napier",
@@ -343220,7 +344792,83 @@ window.BUILDINGS = [
   "commons": "Category:Waiapu Cathedral of St John the Evangelist",
   "lead": "File:Napier, Part I- Architecture - Napier9501.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Napier%2C_Part_I-_Architecture_-_Napier9501.jpg/1280px-Napier%2C_Part_I-_Architecture_-_Napier9501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-johns-cathedral-napier/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Waiapu Cathedral of St John the Evangelist, the Art Deco Anglican cathedral",
+    "credit": "lumoplank",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Napier,_Part_I-_Architecture_-_Napier9501.jpg",
+    "file": "File:Napier, Part I- Architecture - Napier9501.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Waiapu_Cathedral_of_St_John_the_Evangelist_01.jpg/1280px-Waiapu_Cathedral_of_St_John_the_Evangelist_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-johns-cathedral-napier/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Waiapu Cathedral of St John the Evangelist",
+    "credit": "einalem  from Leeds",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waiapu_Cathedral_of_St_John_the_Evangelist_01.jpg",
+    "file": "File:Waiapu Cathedral of St John the Evangelist 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/St_John%27s_Cathedral_from_Clyde_Road_Lookout%2C_Napier%2C_September_2026.jpg/1280px-St_John%27s_Cathedral_from_Clyde_Road_Lookout%2C_Napier%2C_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-johns-cathedral-napier/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · St John's Cathedral from Clyde Road Lookout, Napier, September 2026",
+    "credit": "Jakob (TheLoyalOrder)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_John%27s_Cathedral_from_Clyde_Road_Lookout,_Napier,_September_2026.jpg",
+    "file": "File:St John's Cathedral from Clyde Road Lookout, Napier, September 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Waiapu_Cathedral_from_Sugar_Loaf_Hill%2C_September_2026.jpg/1280px-Waiapu_Cathedral_from_Sugar_Loaf_Hill%2C_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-johns-cathedral-napier/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Waiapu Cathedral from Sugar Loaf Hill, September 2026",
+    "credit": "Jakob (TheLoyalOrder)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waiapu_Cathedral_from_Sugar_Loaf_Hill,_September_2026.jpg",
+    "file": "File:Waiapu Cathedral from Sugar Loaf Hill, September 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Waiapu_Cathedral_Interior_1_%2831803725836%29.jpg/1280px-Waiapu_Cathedral_Interior_1_%2831803725836%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-johns-cathedral-napier/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Waiapu Cathedral Interior 1",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waiapu_Cathedral_Interior_1_(31803725836).jpg",
+    "file": "File:Waiapu Cathedral Interior 1 (31803725836).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Waiapu_Cathedral_Interior_2_%2831694160082%29.jpg/1280px-Waiapu_Cathedral_Interior_2_%2831694160082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-johns-cathedral-napier/thumbs/5.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Interior",
+    "caption": "Interior · Waiapu Cathedral Interior 2",
+    "credit": "Tony Hisgett  from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Waiapu_Cathedral_Interior_2_(31694160082).jpg",
+    "file": "File:Waiapu Cathedral Interior 2 (31694160082).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "villa-palicka",
@@ -343244,7 +344892,35 @@ window.BUILDINGS = [
   "commons": "Category:Villa Palička (Baba)",
   "lead": "File:Baba - Palička 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Baba_-_Pali%C4%8Dka_01.jpg/1280px-Baba_-_Pali%C4%8Dka_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-palicka/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Osada Baba (Baba Functionalism colony in Prague) - House Palička",
+    "credit": "Jirka Dl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baba_-_Pali%C4%8Dka_01.jpg",
+    "file": "File:Baba - Palička 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Baba_-_Pali%C4%8Dka_03.jpg/1280px-Baba_-_Pali%C4%8Dka_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-palicka/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Jirka Dl",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baba_-_Pali%C4%8Dka_03.jpg",
+    "file": "File:Baba - Palička 03.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "villa-rothmayer",
@@ -343268,7 +344944,83 @@ window.BUILDINGS = [
   "commons": "Category:Rothmayerova vila",
   "lead": "File:Praha, Břevnov, vila architekta Otto Rothmayera.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Praha%2C_B%C5%99evnov%2C_vila_architekta_Otto_Rothmayera.jpg/1280px-Praha%2C_B%C5%99evnov%2C_vila_architekta_Otto_Rothmayera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-rothmayer/thumbs/0.webp",
+    "w": 1280,
+    "h": 927,
+    "kind": "Exterior",
+    "caption": "Exterior · Vila of the architect Otto Rothmayer, U Páté baterie 896/50, Prague, Czech Republic",
+    "credit": "Sefjo",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Praha,_B%C5%99evnov,_vila_architekta_Otto_Rothmayera.jpg",
+    "file": "File:Praha, Břevnov, vila architekta Otto Rothmayera.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rothmayer%C5%AFv_jasan_v_B%C5%99evnov%C4%9B_%2801%29.jpg/1280px-Rothmayer%C5%AFv_jasan_v_B%C5%99evnov%C4%9B_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-rothmayer/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Jasan ztepilý (Fraxinus excelsior)",
+    "credit": "Alena Pokorná",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rothmayer%C5%AFv_jasan_v_B%C5%99evnov%C4%9B_(01).jpg",
+    "file": "File:Rothmayerův jasan v Břevnově (01).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rothmayer%C5%AFv_jasan_v_B%C5%99evnov%C4%9B_%2802%29.jpg/1280px-Rothmayer%C5%AFv_jasan_v_B%C5%99evnov%C4%9B_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-rothmayer/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Jasan ztepilý (Fraxinus excelsior)",
+    "credit": "Alena Pokorná",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rothmayer%C5%AFv_jasan_v_B%C5%99evnov%C4%9B_(02).jpg",
+    "file": "File:Rothmayerův jasan v Břevnově (02).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Rothmayerova_vila%2C_kuchyn%C4%9B.jpg/1280px-Rothmayerova_vila%2C_kuchyn%C4%9B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-rothmayer/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Rothmayerova vila, kuchyně",
+    "credit": "J.Broukal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rothmayerova_vila,_kuchyn%C4%9B.jpg",
+    "file": "File:Rothmayerova vila, kuchyně.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Zahrada_Rothmayerovy_vily.jpg/1280px-Zahrada_Rothmayerovy_vily.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-rothmayer/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Pool in the garden of the Rothmayer Villa in Prague",
+    "credit": "Meloun1212",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zahrada_Rothmayerovy_vily.jpg",
+    "file": "File:Zahrada Rothmayerovy vily.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/U_vojensk%C3%A9_nemocnice_street%2C_north_part%2C_Praha.jpg/1280px-U_vojensk%C3%A9_nemocnice_street%2C_north_part%2C_Praha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-rothmayer/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · U vojenské nemocnice street, Prague ",
+    "credit": "Pavel Hrdlička (Czech Wikipedia user  Packa )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:U_vojensk%C3%A9_nemocnice_street,_north_part,_Praha.jpg",
+    "file": "File:U vojenské nemocnice street, north part, Praha.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "villa-van-t-hoff",
@@ -343292,7 +345044,59 @@ window.BUILDINGS = [
   "commons": "Category:Villa Henny, Huis ter Heide",
   "lead": "File:Overzicht gezien vanaf de weg - Huis ter Heide - 20534841 - RCE.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Overzicht_gezien_vanaf_de_weg_-_Huis_ter_Heide_-_20534841_-_RCE.jpg/1280px-Overzicht_gezien_vanaf_de_weg_-_Huis_ter_Heide_-_20534841_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-van-t-hoff/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Bert van As",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Overzicht_gezien_vanaf_de_weg_-_Huis_ter_Heide_-_20534841_-_RCE.jpg",
+    "file": "File:Overzicht gezien vanaf de weg - Huis ter Heide - 20534841 - RCE.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Voorgevel_-_Huis_ter_Heide_-_20118287_-_RCE.jpg/1280px-Voorgevel_-_Huis_ter_Heide_-_20118287_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-van-t-hoff/thumbs/1.webp",
+    "w": 1280,
+    "h": 1272,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Henny: voorgevel",
+    "credit": "Ton Schollen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Voorgevel_-_Huis_ter_Heide_-_20118287_-_RCE.jpg",
+    "file": "File:Voorgevel - Huis ter Heide - 20118287 - RCE.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rechter_zij-_en_achtergevel_-_Huis_ter_Heide_-_20118288_-_RCE.jpg/1280px-Rechter_zij-_en_achtergevel_-_Huis_ter_Heide_-_20118288_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-van-t-hoff/thumbs/2.webp",
+    "w": 1280,
+    "h": 1290,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Henny: rechter zij- en achtergevel",
+    "credit": "Ton Schollen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rechter_zij-_en_achtergevel_-_Huis_ter_Heide_-_20118288_-_RCE.jpg",
+    "file": "File:Rechter zij- en achtergevel - Huis ter Heide - 20118288 - RCE.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Linker_zijgevel_-_Huis_ter_Heide_-_20118289_-_RCE.jpg/1280px-Linker_zijgevel_-_Huis_ter_Heide_-_20118289_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/villa-van-t-hoff/thumbs/3.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Villa Henny: linker zijgevel",
+    "credit": "Ton Schollen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Linker_zijgevel_-_Huis_ter_Heide_-_20118289_-_RCE.jpg",
+    "file": "File:Linker zijgevel - Huis ter Heide - 20118289 - RCE.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "piscine-judaique-jean-boiteux",
@@ -343316,7 +345120,47 @@ window.BUILDINGS = [
   "commons": "Category:Ensemble sportif judaïque, Bordeaux",
   "lead": "File:Portique Judaique.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Portique_Judaique.jpg/1280px-Portique_Judaique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piscine-judaique-jean-boiteux/thumbs/0.webp",
+    "w": 1280,
+    "h": 975,
+    "kind": "Exterior",
+    "caption": "Exterior · Portique du complexe sportif Judaïque à Bordeaux",
+    "credit": "Joancharmant",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Portique_Judaique.jpg",
+    "file": "File:Portique Judaique.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bordeaux_Piscine_Jadaique_R01.jpg/1280px-Bordeaux_Piscine_Jadaique_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piscine-judaique-jean-boiteux/thumbs/1.webp",
+    "w": 1280,
+    "h": 915,
+    "kind": "Exterior",
+    "caption": "Exterior · Bordeaux (France): entrance to the Piscine Judaïque",
+    "credit": "Marc Ryckaert ( MJJR )",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bordeaux_Piscine_Jadaique_R01.jpg",
+    "file": "File:Bordeaux Piscine Jadaique R01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2020-09-22_Texte_grav%C3%A9_sur_le_portique_de_la_piscine_Juda%C3%AFque_%28Bordeaux%29.jpg/1280px-2020-09-22_Texte_grav%C3%A9_sur_le_portique_de_la_piscine_Juda%C3%AFque_%28Bordeaux%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/piscine-judaique-jean-boiteux/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Thibdrev",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2020-09-22_Texte_grav%C3%A9_sur_le_portique_de_la_piscine_Juda%C3%AFque_(Bordeaux).jpg",
+    "file": "File:2020-09-22 Texte gravé sur le portique de la piscine Judaïque (Bordeaux).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chappelle-administration-building",
@@ -343340,7 +345184,35 @@ window.BUILDINGS = [
   "commons": "Category:Chappelle Administration Building",
   "lead": "File:ChappelleAdministrationBuilding.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/ChappelleAdministrationBuilding.JPG/1280px-ChappelleAdministrationBuilding.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chappelle-administration-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Allen University's Chappelle Administration Building in Columbia, South Carolina",
+    "credit": "Abductive",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:ChappelleAdministrationBuilding.JPG",
+    "file": "File:ChappelleAdministrationBuilding.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Chappelle_Administration_Building%2C_Allen_University_%28Columbia%29.jpg/1280px-Chappelle_Administration_Building%2C_Allen_University_%28Columbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chappelle-administration-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 1010,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Van Jones Martin",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Chappelle_Administration_Building,_Allen_University_(Columbia).jpg",
+    "file": "File:Chappelle Administration Building, Allen University (Columbia).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "haus-rabe",
@@ -343364,7 +345236,23 @@ window.BUILDINGS = [
   "commons": "Category:Haus Rabe (Zwenkau)",
   "lead": "File:Zwenkau Haus Rabe von 1930.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Zwenkau_Haus_Rabe_von_1930.jpg/1280px-Zwenkau_Haus_Rabe_von_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-rabe/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Zwenkau, Haus Rabe im Bauhaus-Stil von 1930, Architekt Adolf Rading",
+    "credit": "Elsteraue  at  German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zwenkau_Haus_Rabe_von_1930.jpg",
+    "file": "File:Zwenkau Haus Rabe von 1930.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "fukuoka-city-akarenga-cultural-center",
@@ -343388,7 +345276,59 @@ window.BUILDINGS = [
   "commons": "Category:Fukuoka City Red Brick Culture Center",
   "lead": "File:Nissei-fukuoka-branch.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Nissei-fukuoka-branch.jpg/1280px-Nissei-fukuoka-branch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukuoka-city-akarenga-cultural-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "No machine-readable author provided.  Otraff~commonswiki  assumed (based on copyright claims).",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Nissei-fukuoka-branch.jpg",
+    "file": "File:Nissei-fukuoka-branch.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Fukuoka_City_Akarenga_Cultural_Center_the_fa%C3%A7ade_Tenjin_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250429_165927.jpg/1280px-Fukuoka_City_Akarenga_Cultural_Center_the_fa%C3%A7ade_Tenjin_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250429_165927.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukuoka-city-akarenga-cultural-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Hirho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Akarenga_Cultural_Center_the_fa%C3%A7ade_Tenjin_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250429_165927.jpg",
+    "file": "File:Fukuoka City Akarenga Cultural Center the façade Tenjin 1-chōme Chūō-ku Fukuoka 20250429 165927.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Fukuoka_City_Akarenga_Cultural_Center_the_bracket_supporting_the_mantelpiece_in_the_reception_room_on_the_NW_side_Tenjin_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_155034.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukuoka-city-akarenga-cultural-center/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Hirho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_Akarenga_Cultural_Center_the_bracket_supporting_the_mantelpiece_in_the_reception_room_on_the_NW_side_Tenjin_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_155034.jpg",
+    "file": "File:Fukuoka City Akarenga Cultural Center the bracket supporting the mantelpiece in the reception room on the NW side Tenjin 1-chōme Chūō-ku Fukuoka 20250909 155034.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Tax_Office_Entranceway_INT_the_view_from_the_caf%C3%A9_in_the_Fukuoka_City_Akarenga_Cultural_Center_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_160022.jpg/1280px-Tax_Office_Entranceway_INT_the_view_from_the_caf%C3%A9_in_the_Fukuoka_City_Akarenga_Cultural_Center_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_160022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukuoka-city-akarenga-cultural-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Hirho",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tax_Office_Entranceway_INT_the_view_from_the_caf%C3%A9_in_the_Fukuoka_City_Akarenga_Cultural_Center_Ch%C5%AB%C5%8D-ku_Fukuoka_20250909_160022.jpg",
+    "file": "File:Tax Office Entranceway INT the view from the café in the Fukuoka City Akarenga Cultural Center Chūō-ku Fukuoka 20250909 160022.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kunstsilo",
@@ -343412,7 +345352,71 @@ window.BUILDINGS = [
   "commons": "Category:Kunstsilo",
   "lead": "File:Kunstsilo mai 2024 (2).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Kunstsilo_mai_2024_%282%29.jpg/1280px-Kunstsilo_mai_2024_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunstsilo/thumbs/0.webp",
+    "w": 934,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kunstsilo slik den så ut ved åpningen i mai 2024",
+    "credit": "Knut Arne Gjertsen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kunstsilo_mai_2024_(2).jpg",
+    "file": "File:Kunstsilo mai 2024 (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Kunstsilo_%28Kristiansand%29.jpg/1280px-Kunstsilo_%28Kristiansand%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunstsilo/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kunstsilo (Kristiansand)",
+    "credit": "Orf3us",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kunstsilo_(Kristiansand).jpg",
+    "file": "File:Kunstsilo (Kristiansand).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Kunstsilo_in_2026.jpg/1280px-Kunstsilo_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunstsilo/thumbs/2.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Kunstsilo in 2026",
+    "credit": "Premeditated",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kunstsilo_in_2026.jpg",
+    "file": "File:Kunstsilo in 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Kunstsilo_Kristiansand_10.jpg/1280px-Kunstsilo_Kristiansand_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunstsilo/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · interiørbilde fra Kunstsilo i Kristiansand",
+    "credit": "EdoAug",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kunstsilo_Kristiansand_10.jpg",
+    "file": "File:Kunstsilo Kristiansand 10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Stairway_in_Kunstsilo_in_2026.jpg/1280px-Stairway_in_Kunstsilo_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kunstsilo/thumbs/4.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Interior",
+    "caption": "Interior · stairway in Kunstsilo in 2026",
+    "credit": "Premeditated",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stairway_in_Kunstsilo_in_2026.jpg",
+    "file": "File:Stairway in Kunstsilo in 2026.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kirche-am-hohenzollernplatz",
@@ -343436,7 +345440,83 @@ window.BUILDINGS = [
   "commons": "Category:Kirche am Hohenzollernplatz (Berlin)",
   "lead": "File:Kirche am Hohenzollernplatz (Berlin)msu-2023-0I9A9591-.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Kirche_am_Hohenzollernplatz_%28Berlin%29msu-2023-0I9A9591-.jpg/1280px-Kirche_am_Hohenzollernplatz_%28Berlin%29msu-2023-0I9A9591-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirche-am-hohenzollernplatz/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kirche am Hohenzollernplatz (Berlin)",
+    "credit": "Matthias Süßen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kirche_am_Hohenzollernplatz_(Berlin)msu-2023-0I9A9591-.jpg",
+    "file": "File:Kirche am Hohenzollernplatz (Berlin)msu-2023-0I9A9591-.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg/1280px-Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirche-am-hohenzollernplatz/thumbs/1.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Kirche am Hohenzollernplatz, Fritz Höger, Ossip Klarwein, Berlin-Wilmersdorf, April 2016",
+    "credit": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg",
+    "file": "File:Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Hohenzollernkirche_bei_Nacht_20140502_5.jpg/1280px-Hohenzollernkirche_bei_Nacht_20140502_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirche-am-hohenzollernplatz/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Kirche am Hohenzollernplatz in Berlin-Wilmersdorf",
+    "credit": "Srittau",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hohenzollernkirche_bei_Nacht_20140502_5.jpg",
+    "file": "File:Hohenzollernkirche bei Nacht 20140502 5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Berlin_9316.jpg/1280px-Berlin_9316.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirche-am-hohenzollernplatz/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "T meltzer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_9316.jpg",
+    "file": "File:Berlin 9316.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Berlin_9321.jpg/1280px-Berlin_9321.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirche-am-hohenzollernplatz/thumbs/4.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "T meltzer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_9321.jpg",
+    "file": "File:Berlin 9321.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Berlin_-_Kirche_am_Hohenzollernplatz_-_Innenansicht_9299.jpg/1280px-Berlin_-_Kirche_am_Hohenzollernplatz_-_Innenansicht_9299.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kirche-am-hohenzollernplatz/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Berlin, Kirche am Hohenzollernplatz; Innenansicht",
+    "credit": "T meltzer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Berlin_-_Kirche_am_Hohenzollernplatz_-_Innenansicht_9299.jpg",
+    "file": "File:Berlin - Kirche am Hohenzollernplatz - Innenansicht 9299.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "finnish-nature-center-haltia",
@@ -343460,7 +345540,83 @@ window.BUILDINGS = [
   "commons": "Category:Finnish Nature Centre Haltia",
   "lead": "File:Haltia 001.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Haltia_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/finnish-nature-center-haltia/thumbs/0.webp",
+    "w": 1250,
+    "h": 833,
+    "kind": "Exterior",
+    "caption": "Exterior · The Finnish Nature Centre Haltia -building, Nuuksio, Espoo, Finland",
+    "credit": "Htm",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haltia_001.jpg",
+    "file": "File:Haltia 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Suomen_luontokeskus_Haltia%2C_Espoo%2C_Finsko_5.jpg/1280px-Suomen_luontokeskus_Haltia%2C_Espoo%2C_Finsko_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/finnish-nature-center-haltia/thumbs/1.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Exterior",
+    "caption": "Exterior · Suomen luontokeskus Haltia, národní park Nuuksio, Espoo, Finsko",
+    "credit": "Fry72, Karel Frydrýšek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suomen_luontokeskus_Haltia,_Espoo,_Finsko_5.jpg",
+    "file": "File:Suomen luontokeskus Haltia, Espoo, Finsko 5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Haltia_keskus_nuuksio.jpg/1280px-Haltia_keskus_nuuksio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/finnish-nature-center-haltia/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Pohjannaula Observation Tower of the Finnish Nature Centre Haltia",
+    "credit": "Yalgin",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haltia_keskus_nuuksio.jpg",
+    "file": "File:Haltia keskus nuuksio.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Suomen_luontokeskus_Haltia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/finnish-nature-center-haltia/thumbs/3.webp",
+    "w": 1200,
+    "h": 759,
+    "kind": "Exterior",
+    "caption": "Exterior · Suomen luontokeskus Haltia, Nuuksio, Espoo",
+    "credit": "Harriah",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suomen_luontokeskus_Haltia.jpg",
+    "file": "File:Suomen luontokeskus Haltia.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Restaurace%2C_Suomen_luontokeskus_Haltia%2C_Espoo%2C_Finsko.jpg/1280px-Restaurace%2C_Suomen_luontokeskus_Haltia%2C_Espoo%2C_Finsko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/finnish-nature-center-haltia/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Interior",
+    "caption": "Interior · Restaurace, Finské přírodní centrum Haltia (Suomen luontokeskus Haltia), národní park Nuuksio, Espoo, Finsko",
+    "credit": "Fry72, Karel Frydrýšek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Restaurace,_Suomen_luontokeskus_Haltia,_Espoo,_Finsko.jpg",
+    "file": "File:Restaurace, Suomen luontokeskus Haltia, Espoo, Finsko.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Suomen_luontokeskus_Haltia%2C_Espoo%2C_Finsko_3.jpg/1280px-Suomen_luontokeskus_Haltia%2C_Espoo%2C_Finsko_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/finnish-nature-center-haltia/thumbs/5.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Interior",
+    "caption": "Interior · Suomen luontokeskus Haltia, národní park Nuuksio, Espoo, Finsko",
+    "credit": "Fry72, Karel Frydrýšek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suomen_luontokeskus_Haltia,_Espoo,_Finsko_3.jpg",
+    "file": "File:Suomen luontokeskus Haltia, Espoo, Finsko 3.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "alcide-de-gasperi-building",
@@ -343484,7 +345640,83 @@ window.BUILDINGS = [
   "commons": "Category:Alcide de Gasperi Building",
   "lead": "File:Luxembourg Kirchberg A De Gasperi 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Luxembourg_Kirchberg_A_De_Gasperi_01.jpg/1280px-Luxembourg_Kirchberg_A_De_Gasperi_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alcide-de-gasperi-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 505,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Cayambe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxembourg_Kirchberg_A_De_Gasperi_01.jpg",
+    "file": "File:Luxembourg Kirchberg A De Gasperi 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/European_Convention_Center_Luxembourg_%28Tour_Alcide_de_Gasperi%29_03.jpg/1280px-European_Convention_Center_Luxembourg_%28Tour_Alcide_de_Gasperi%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alcide-de-gasperi-building/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · European Convention Center Luxembourg (Tour Alcide de Gasperi)",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Convention_Center_Luxembourg_(Tour_Alcide_de_Gasperi)_03.jpg",
+    "file": "File:European Convention Center Luxembourg (Tour Alcide de Gasperi) 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/European_Convention_Center_Luxembourg_%28Tour_Alcide_de_Gasperi%29_01.jpg/1280px-European_Convention_Center_Luxembourg_%28Tour_Alcide_de_Gasperi%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alcide-de-gasperi-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · European Convention Center Luxembourg (Tour Alcide de Gasperi)",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Convention_Center_Luxembourg_(Tour_Alcide_de_Gasperi)_01.jpg",
+    "file": "File:European Convention Center Luxembourg (Tour Alcide de Gasperi) 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Luxembourg%2C_b%C3%A2timent_Alcide_De_Gasperi_%28102%29.jpg/1280px-Luxembourg%2C_b%C3%A2timent_Alcide_De_Gasperi_%28102%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alcide-de-gasperi-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxembourg,_b%C3%A2timent_Alcide_De_Gasperi_(102).jpg",
+    "file": "File:Luxembourg, bâtiment Alcide De Gasperi (102).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Luxembourg_City_-_Kirchberg_depuis_Chemin_du_rempart_-_mars_2017.jpg/1280px-Luxembourg_City_-_Kirchberg_depuis_Chemin_du_rempart_-_mars_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alcide-de-gasperi-building/thumbs/4.webp",
+    "w": 1280,
+    "h": 790,
+    "kind": "Context",
+    "caption": "Context · Luxembourg City: Kirchberg as seen from Chemin du rempart beyond the Alzette river",
+    "credit": "Cayambe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxembourg_City_-_Kirchberg_depuis_Chemin_du_rempart_-_mars_2017.jpg",
+    "file": "File:Luxembourg City - Kirchberg depuis Chemin du rempart - mars 2017.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Luxembourg_Kirchberg_as_from_mont%C3%A9e_Pfaffenthal_01.jpg/1280px-Luxembourg_Kirchberg_as_from_mont%C3%A9e_Pfaffenthal_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/alcide-de-gasperi-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 895,
+    "kind": "Context",
+    "caption": "Context · Luxembourg City: Plateau de Kirchberg as seen from montée du Pfaffenthal",
+    "credit": "Cayambe",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Luxembourg_Kirchberg_as_from_mont%C3%A9e_Pfaffenthal_01.jpg",
+    "file": "File:Luxembourg Kirchberg as from montée Pfaffenthal 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "cunard-building",
@@ -343508,7 +345740,83 @@ window.BUILDINGS = [
   "commons": "Category:Cunard Building",
   "lead": "File:Cunard Building landside 2018.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cunard_Building_landside_2018.jpg/1280px-Cunard_Building_landside_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cunard-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 840,
+    "kind": "Exterior",
+    "caption": "Exterior · The eastern elevation of the Cunard Building, Liverpool, viewed across The Strand and Goree",
+    "credit": "Rodhullandemu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cunard_Building_landside_2018.jpg",
+    "file": "File:Cunard Building landside 2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cunard_Building%2C_Liverpool.png/1280px-Cunard_Building%2C_Liverpool.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cunard-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 938,
+    "kind": "Exterior",
+    "caption": "Exterior · Photograph of the Cunard Building in Liverpool, designed by Willink & Thicknesse",
+    "credit": "Bedford Lemere",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cunard_Building,_Liverpool.png",
+    "file": "File:Cunard Building, Liverpool.png"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cunard_Building_%289701150770%29.jpg/1280px-Cunard_Building_%289701150770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cunard-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Was constructed between 1914 and 1917, the headquarters of the Cunard Line",
+    "credit": "Falcon® Photography  from France, France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cunard_Building_(9701150770).jpg",
+    "file": "File:Cunard Building (9701150770).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/CUNARD_AND_ROYAL_LIVER_BUILDINGS_LIVERPOOL_PIER_HEAD_SEP_2012_%287915164904%29.jpg/1280px-CUNARD_AND_ROYAL_LIVER_BUILDINGS_LIVERPOOL_PIER_HEAD_SEP_2012_%287915164904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cunard-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 856,
+    "kind": "Exterior",
+    "caption": "Exterior · CUNARD AND ROYAL LIVER BUILDINGS LIVERPOOL PIER HEAD SEP 2012",
+    "credit": "calflier001",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CUNARD_AND_ROYAL_LIVER_BUILDINGS_LIVERPOOL_PIER_HEAD_SEP_2012_(7915164904).jpg",
+    "file": "File:CUNARD AND ROYAL LIVER BUILDINGS LIVERPOOL PIER HEAD SEP 2012 (7915164904).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Statue%2C_front_of_Cunard_Building_2.jpg/1280px-Statue%2C_front_of_Cunard_Building_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cunard-building/thumbs/4.webp",
+    "w": 828,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Statue to the right of the front door of Cunard Building, Pier Head",
+    "credit": "Rodhullandemu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue,_front_of_Cunard_Building_2.jpg",
+    "file": "File:Statue, front of Cunard Building 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Statue%2C_front_of_Cunard_Building_1.jpg/1280px-Statue%2C_front_of_Cunard_Building_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/cunard-building/thumbs/5.webp",
+    "w": 772,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Statue to the left of the front door of Cunard Building, Pier Head",
+    "credit": "Rodhullandemu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue,_front_of_Cunard_Building_1.jpg",
+    "file": "File:Statue, front of Cunard Building 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "laeiszhalle",
@@ -343532,7 +345840,97 @@ window.BUILDINGS = [
   "commons": "Category:Laeiszhalle",
   "lead": "File:20230317 Laeiszhalle.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/20230317_Laeiszhalle.jpg/1280px-20230317_Laeiszhalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/0.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · View across the Johannes-Brahms-Square in front of it to the Laeiszhalle in Hamburg, Germany",
+    "credit": "Flocci Nivis",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20230317_Laeiszhalle.jpg",
+    "file": "File:20230317 Laeiszhalle.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Laeiszhalle.Hamburg.vom.Johannes-Brahms-Platz.jpg/1280px-Laeiszhalle.Hamburg.vom.Johannes-Brahms-Platz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Vorderfront der Laeiszhalle in Hamburg vom Johannes-Brahms-Platz aus Richtung Südwesten gesehen",
+    "credit": "Membeth",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Laeiszhalle.Hamburg.vom.Johannes-Brahms-Platz.jpg",
+    "file": "File:Laeiszhalle.Hamburg.vom.Johannes-Brahms-Platz.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/La_Laieszhalle.jpg/1280px-La_Laieszhalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Laeiszhalle, Hamburg",
+    "credit": "Gegeours",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Laieszhalle.jpg",
+    "file": "File:La Laieszhalle.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Laeisz-Halle_%28Hamburg-Neustadt%29.1.29179.ajb.jpg/1280px-Laeisz-Halle_%28Hamburg-Neustadt%29.1.29179.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Laeisz-Halle in Hamburg-Neustadt",
+    "credit": "Ajepbah",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Laeisz-Halle_(Hamburg-Neustadt).1.29179.ajb.jpg",
+    "file": "File:Laeisz-Halle (Hamburg-Neustadt).1.29179.ajb.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Laeiszhalle_Hamburg%2C_Gro%C3%9Fer_Saal_--_Innenansicht_B%C3%BChne.JPG/1280px-Laeiszhalle_Hamburg%2C_Gro%C3%9Fer_Saal_--_Innenansicht_B%C3%BChne.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Bühne des Großen Saals der Laeiszhalle (Musikhalle) in Hamburg",
+    "credit": "Misburg3014",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Laeiszhalle_Hamburg,_Gro%C3%9Fer_Saal_--_Innenansicht_B%C3%BChne.JPG",
+    "file": "File:Laeiszhalle Hamburg, Großer Saal -- Innenansicht Bühne.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Laeiszhalle_Hamburg%2C_Gro%C3%9Fer_Saal_--_Innenansicht_Caf%C3%A9.JPG/1280px-Laeiszhalle_Hamburg%2C_Gro%C3%9Fer_Saal_--_Innenansicht_Caf%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Café neben dem Großen Saal der Laeiszhalle (Musikhalle) in Hamburg",
+    "credit": "Misburg3014",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Laeiszhalle_Hamburg,_Gro%C3%9Fer_Saal_--_Innenansicht_Caf%C3%A9.JPG",
+    "file": "File:Laeiszhalle Hamburg, Großer Saal -- Innenansicht Café.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Laeiszhalle_Ansicht_Gorch-Fock-Wall.jpg/1280px-Laeiszhalle_Ansicht_Gorch-Fock-Wall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/laeiszhalle/thumbs/6.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Elevation",
+    "caption": "Elevation · Die Laeiszhalle mit Ansicht am Gorch-Fock-Wall",
+    "credit": "Pauli-Pirat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Laeiszhalle_Ansicht_Gorch-Fock-Wall.jpg",
+    "file": "File:Laeiszhalle Ansicht Gorch-Fock-Wall.jpg"
+   }
+  ],
+  "has": [
+   "Elevation"
+  ],
+  "gv": 3
  },
  {
   "id": "suntory-hall",
@@ -343556,7 +345954,83 @@ window.BUILDINGS = [
   "commons": "Category:Suntory Hall",
   "lead": "File:Suntory Hall 2018.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Suntory_Hall_2018.jpg/1280px-Suntory_Hall_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suntory-hall/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Wpcpey",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suntory_Hall_2018.jpg",
+    "file": "File:Suntory Hall 2018.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Suntory_Hall_1.jpg/1280px-Suntory_Hall_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suntory-hall/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "っ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suntory_Hall_1.jpg",
+    "file": "File:Suntory Hall 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Herbert_von_Karajan_Platz_of_Ark_Hills%2C_Tokyo%2C_Japan.jpg/1280px-Herbert_von_Karajan_Platz_of_Ark_Hills%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suntory-hall/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "っ",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Herbert_von_Karajan_Platz_of_Ark_Hills,_Tokyo,_Japan.jpg",
+    "file": "File:Herbert von Karajan Platz of Ark Hills, Tokyo, Japan.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ark_Karajan_Platz_in_Tokyo_DSCN0110_20050804.JPG/1280px-Ark_Karajan_Platz_in_Tokyo_DSCN0110_20050804.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suntory-hall/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Karajan Platz, Ark Hills , Minato, Tokyo ",
+    "credit": "Ogiyoshisan",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Ark_Karajan_Platz_in_Tokyo_DSCN0110_20050804.JPG",
+    "file": "File:Ark Karajan Platz in Tokyo DSCN0110 20050804.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Herbert_Von_Karajan_Platz.jpg/1280px-Herbert_Von_Karajan_Platz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suntory-hall/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · plaque",
+    "credit": "Syced",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Herbert_Von_Karajan_Platz.jpg",
+    "file": "File:Herbert Von Karajan Platz.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Suntoryhall-outside-night-may24-2016.jpg/1280px-Suntoryhall-outside-night-may24-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/suntory-hall/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Suntory Hall at night",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suntoryhall-outside-night-may24-2016.jpg",
+    "file": "File:Suntoryhall-outside-night-may24-2016.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "palais-de-la-porte-doree",
@@ -343580,7 +346054,83 @@ window.BUILDINGS = [
   "commons": "Category:Palais de la Porte Dorée",
   "lead": "File:Palasi Porte Doree Entree.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Palasi_Porte_Doree_Entree.jpg/1280px-Palasi_Porte_Doree_Entree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-de-la-porte-doree/thumbs/0.webp",
+    "w": 1280,
+    "h": 857,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrée et façade du palais de la Porte Dorée à Paris",
+    "credit": "AlSepPhoenix",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palasi_Porte_Doree_Entree.jpg",
+    "file": "File:Palasi Porte Doree Entree.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/L%27ancien_pont_de_l%27Exposition_coloniale_et_le_mus%C3%A9e_colonial_-_btv1b90517398.jpg/1280px-L%27ancien_pont_de_l%27Exposition_coloniale_et_le_mus%C3%A9e_colonial_-_btv1b90517398.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-de-la-porte-doree/thumbs/1.webp",
+    "w": 1280,
+    "h": 959,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Agence de presse Mondial Photo-Presse. Agence photographique (commanditaire)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:L%27ancien_pont_de_l%27Exposition_coloniale_et_le_mus%C3%A9e_colonial_-_btv1b90517398.jpg",
+    "file": "File:L'ancien pont de l'Exposition coloniale et le musée colonial - btv1b90517398.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Le_Palais_de_la_Porte_Dor%C3%A9e_12.jpg/1280px-Le_Palais_de_la_Porte_Dor%C3%A9e_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-de-la-porte-doree/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Le Palais de la Porte Dorée en 2019",
+    "credit": "NicolasPamart2610",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Palais_de_la_Porte_Dor%C3%A9e_12.jpg",
+    "file": "File:Le Palais de la Porte Dorée 12.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Aquarium_Tropical_Palais_Porte_Dor%C3%A9e_-_Paris_XII_%28FR75%29_-_2021-06-26_-_1.jpg/1280px-Aquarium_Tropical_Palais_Porte_Dor%C3%A9e_-_Paris_XII_%28FR75%29_-_2021-06-26_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-de-la-porte-doree/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Aquarium tropical du palais de la Porte Dorée, Paris",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_Tropical_Palais_Porte_Dor%C3%A9e_-_Paris_XII_(FR75)_-_2021-06-26_-_1.jpg",
+    "file": "File:Aquarium Tropical Palais Porte Dorée - Paris XII (FR75) - 2021-06-26 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Palais_Porte_Dor%C3%A9e_Salle_Afrique.jpg/1280px-Palais_Porte_Dor%C3%A9e_Salle_Afrique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-de-la-porte-doree/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Salle Afrique du Palais de la Porte Dorée",
+    "credit": "AlSepPhoenix",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Porte_Dor%C3%A9e_Salle_Afrique.jpg",
+    "file": "File:Palais Porte Dorée Salle Afrique.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Le_salon_de_Paul_Reynaud_%28CNHI%29_%283679648700%29.jpg/1280px-Le_salon_de_Paul_Reynaud_%28CNHI%29_%283679648700%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/palais-de-la-porte-doree/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Jean-Pierre Dalbéra  from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Le_salon_de_Paul_Reynaud_(CNHI)_(3679648700).jpg",
+    "file": "File:Le salon de Paul Reynaud (CNHI) (3679648700).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "anthonie-van-dijckstraat-4-amsterdam",
@@ -343604,7 +346154,59 @@ window.BUILDINGS = [
   "commons": "Category:Anthonie van Dijckstraat 4, Amsterdam",
   "lead": "File:Drive-in woningen.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Drive-in_woningen.JPG/1280px-Drive-in_woningen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/anthonie-van-dijckstraat-4-amsterdam/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Anthony van Dijkstraat 4, Amsterdam",
+    "credit": "Marcel mulder",
+    "license": "CC BY-SA 3.0 nl",
+    "source": "https://commons.wikimedia.org/wiki/File:Drive-in_woningen.JPG",
+    "file": "File:Drive-in woningen.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2026_Anthonie_van_Dijckstraat_4-12%2C_Asd%2C_%28A%29.jpg/1280px-2026_Anthonie_van_Dijckstraat_4-12%2C_Asd%2C_%28A%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/anthonie-van-dijckstraat-4-amsterdam/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Anthonie van Dijckstraat 4-12, Amsterdam (drive-inwoningen)",
+    "credit": "Ceescamel",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026_Anthonie_van_Dijckstraat_4-12,_Asd,_(A).jpg",
+    "file": "File:2026 Anthonie van Dijckstraat 4-12, Asd, (A).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/A.v.Dijkstr._4-12%2C_voorgevels_-_Amsterdam_-_20016442_-_RCE.jpg/1280px-A.v.Dijkstr._4-12%2C_voorgevels_-_Amsterdam_-_20016442_-_RCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/anthonie-van-dijckstraat-4-amsterdam/thumbs/2.webp",
+    "w": 1280,
+    "h": 1301,
+    "kind": "Exterior",
+    "caption": "Exterior · A.v.Dijkstr",
+    "credit": "Gerard Dukker",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A.v.Dijkstr._4-12,_voorgevels_-_Amsterdam_-_20016442_-_RCE.jpg",
+    "file": "File:A.v.Dijkstr. 4-12, voorgevels - Amsterdam - 20016442 - RCE.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2026_Anthonie_van_Dijckstraat_4-12%2C_Asd%2C_%28B%29.jpg/1280px-2026_Anthonie_van_Dijckstraat_4-12%2C_Asd%2C_%28B%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/anthonie-van-dijckstraat-4-amsterdam/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Anthonie van Dijckstraat 4-12, Amsterdam (drive-inwoningen)",
+    "credit": "Ceescamel",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:2026_Anthonie_van_Dijckstraat_4-12,_Asd,_(B).jpg",
+    "file": "File:2026 Anthonie van Dijckstraat 4-12, Asd, (B).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "vogelsang-house",
@@ -343625,10 +346227,38 @@ window.BUILDINGS = [
   ],
   "study": "A listed house in Krefeld, considered an architecturally significant example of modern architecture in early postwar Germany.",
   "qid": null,
-  "commons": null,
+  "commons": "Category:Haus oberer Vogelsang",
   "lead": "File:Krefeld Denkmal 625 Haus Vogelsang.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Krefeld_Denkmal_625_Haus_Vogelsang.jpg/1280px-Krefeld_Denkmal_625_Haus_Vogelsang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vogelsang-house/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Krefeld Denkmal 625: Haus Vogelsang",
+    "credit": "Rudolfo42",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Krefeld_Denkmal_625_Haus_Vogelsang.jpg",
+    "file": "File:Krefeld Denkmal 625 Haus Vogelsang.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Haus_Muheim_im_Vogelsang.JPG/1280px-Haus_Muheim_im_Vogelsang.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vogelsang-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · Haus oberer Vogelsang (mit Baumbestand)",
+    "credit": "Kaelingisler2",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Haus_Muheim_im_Vogelsang.JPG",
+    "file": "File:Haus Muheim im Vogelsang.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "kallio-church",
@@ -343652,7 +346282,97 @@ window.BUILDINGS = [
   "commons": "Category:Kallio Church",
   "lead": "File:2018-07-11 Kallio 17.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Kallion_kirkko.jpg/1280px-Kallion_kirkko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Finland identified by the ID 'Kallio Church' (Q2981697) - RKY: 1586",
+    "credit": "Mikkoau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kallion_kirkko.jpg",
+    "file": "File:Kallion kirkko.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2018-07-11_Kallio_13.jpg/1280px-2018-07-11_Kallio_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Kallio",
+    "credit": "Nemo bis",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018-07-11_Kallio_13.jpg",
+    "file": "File:2018-07-11 Kallio 13.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2018-07-11_Kallio_12.jpg/1280px-2018-07-11_Kallio_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Kallio",
+    "credit": "Nemo bis",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2018-07-11_Kallio_12.jpg",
+    "file": "File:2018-07-11 Kallio 12.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/View_of_the_Kallio_neigbourhood..jpg/1280px-View_of_the_Kallio_neigbourhood..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · View of the Kallio neigbourhood",
+    "credit": "Óðinn",
+    "license": "CC BY-SA 2.5 ca",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_Kallio_neigbourhood..jpg",
+    "file": "File:View of the Kallio neigbourhood..jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Candles_in_Kallio_church.jpg/1280px-Candles_in_Kallio_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · A row of candles in the Kallio church",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Candles_in_Kallio_church.jpg",
+    "file": "File:Candles in Kallio church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Christmas_tree_at_Kallio_Church.jpg/1280px-Christmas_tree_at_Kallio_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · A Christmas tree at the Kallio Church in Kallio, Helsinki, Finland",
+    "credit": "JIP",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Christmas_tree_at_Kallio_Church.jpg",
+    "file": "File:Christmas tree at Kallio Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/T%C3%B6%C3%B6l%C3%B6n_tavara-asema_n%C3%A4htyn%C3%A4_Mannerheimintielt%C3%A4_-_N134629_-_hkm.HKMS000005-km0024xf.jpg/1280px-T%C3%B6%C3%B6l%C3%B6n_tavara-asema_n%C3%A4htyn%C3%A4_Mannerheimintielt%C3%A4_-_N134629_-_hkm.HKMS000005-km0024xf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/kallio-church/thumbs/6.webp",
+    "w": 1280,
+    "h": 841,
+    "kind": "Model",
+    "caption": "Model · Töölön tavara-asema nähtynä Mannerheimintieltä; negatiivi, lasi, mv",
+    "credit": "Foto Roos",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:T%C3%B6%C3%B6l%C3%B6n_tavara-asema_n%C3%A4htyn%C3%A4_Mannerheimintielt%C3%A4_-_N134629_-_hkm.HKMS000005-km0024xf.jpg",
+    "file": "File:Töölön tavara-asema nähtynä Mannerheimintieltä - N134629 - hkm.HKMS000005-km0024xf.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "stadtbad-mitte",
@@ -343676,7 +346396,83 @@ window.BUILDINGS = [
   "commons": "Category:Stadtbad Mitte",
   "lead": "File:Mitte Gartenstraße Stadtbad Mitte-002.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Mitte_Gartenstra%C3%9Fe_Stadtbad_Mitte-002.JPG/1280px-Mitte_Gartenstra%C3%9Fe_Stadtbad_Mitte-002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stadtbad-mitte/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Berlin-Mitte Gartenstraße Stadtbad Mitte",
+    "credit": "Fridolin freudenfett",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mitte_Gartenstra%C3%9Fe_Stadtbad_Mitte-002.JPG",
+    "file": "File:Mitte Gartenstraße Stadtbad Mitte-002.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Stadtbad_Mitte_08.02.2016_15-16-21.jpg/1280px-Stadtbad_Mitte_08.02.2016_15-16-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stadtbad-mitte/thumbs/1.webp",
+    "w": 1280,
+    "h": 1088,
+    "kind": "Exterior",
+    "caption": "Exterior · Public Swimming Pool, Berlin-Mitte",
+    "credit": "Dirk Ingo Franke",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadtbad_Mitte_08.02.2016_15-16-21.jpg",
+    "file": "File:Stadtbad Mitte 08.02.2016 15-16-21.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Stadtbad_Mitte_08.02.2016_15-16-16.jpg/1280px-Stadtbad_Mitte_08.02.2016_15-16-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stadtbad-mitte/thumbs/2.webp",
+    "w": 861,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Public Swimming Pool, Berlin-Mitte",
+    "credit": "Dirk Ingo Franke",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadtbad_Mitte_08.02.2016_15-16-16.jpg",
+    "file": "File:Stadtbad Mitte 08.02.2016 15-16-16.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Stadtbad_Mitte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/stadtbad-mitte/thumbs/3.webp",
+    "w": 1242,
+    "h": 126,
+    "kind": "Exterior",
+    "caption": "Exterior · Schrift am Stadtbad Mitte, Berlin",
+    "credit": "de:Benutzer:southpark , bearbeitet von  de:Benutzer:Jossi2",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stadtbad_Mitte.jpg",
+    "file": "File:Stadtbad Mitte.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Mitte_Gartenstra%C3%9Fe_Stadtbad_Foyer-001.jpg/1280px-Mitte_Gartenstra%C3%9Fe_Stadtbad_Foyer-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stadtbad-mitte/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Mitte Gartenstraße Stadtbad Foyer",
+    "credit": "Fridolin freudenfett",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mitte_Gartenstra%C3%9Fe_Stadtbad_Foyer-001.jpg",
+    "file": "File:Mitte Gartenstraße Stadtbad Foyer-001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Mitte_Gartenstra%C3%9Fe_Stadtbad_Foyer.jpg/1280px-Mitte_Gartenstra%C3%9Fe_Stadtbad_Foyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/stadtbad-mitte/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Mitte Gartenstraße Stadtbad Foyer",
+    "credit": "Fridolin freudenfett",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mitte_Gartenstra%C3%9Fe_Stadtbad_Foyer.jpg",
+    "file": "File:Mitte Gartenstraße Stadtbad Foyer.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mercato-dei-fiori-vecchio",
@@ -343700,7 +346496,59 @@ window.BUILDINGS = [
   "commons": "Category:Old Flower Market (Pescia)",
   "lead": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-17 15-58-24 001.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Pescia_-_Mercato_dei_Fiori_Vecchio_-_2023-09-17_15-58-24_001.jpg/1280px-Pescia_-_Mercato_dei_Fiori_Vecchio_-_2023-09-17_15-58-24_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercato-dei-fiori-vecchio/thumbs/0.webp",
+    "w": 1280,
+    "h": 589,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Fraefe",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pescia_-_Mercato_dei_Fiori_Vecchio_-_2023-09-17_15-58-24_001.jpg",
+    "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-17 15-58-24 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Mercato_vecchio_di_pescia_01.JPG/1280px-Mercato_vecchio_di_pescia_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercato-dei-fiori-vecchio/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Mercato vecchio di pescia",
+    "credit": "sailko",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercato_vecchio_di_pescia_01.JPG",
+    "file": "File:Mercato vecchio di pescia 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Pescia_-_Mercato_dei_Fiori_Vecchio_-_2023-09-26_09-09-41_001.jpg/1280px-Pescia_-_Mercato_dei_Fiori_Vecchio_-_2023-09-26_09-09-41_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercato-dei-fiori-vecchio/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Filippobasetti",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pescia_-_Mercato_dei_Fiori_Vecchio_-_2023-09-26_09-09-41_001.jpg",
+    "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-26 09-09-41 001.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Mercato_vecchio_di_pescia_02.JPG/1280px-Mercato_vecchio_di_pescia_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mercato-dei-fiori-vecchio/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Mercato vecchio di pescia",
+    "credit": "sailko",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mercato_vecchio_di_pescia_02.JPG",
+    "file": "File:Mercato vecchio di pescia 02.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "prague-planetarium",
@@ -343724,7 +346572,83 @@ window.BUILDINGS = [
   "commons": "Category:Planetarium in Prague",
   "lead": "File:Planetum, Praha (2025-08-07).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Planetum%2C_Praha_%282025-08-07%29.jpg/1280px-Planetum%2C_Praha_%282025-08-07%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prague-planetarium/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Planetárium Planetum Praha",
+    "credit": "Martin Hlauka (Pescan)",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planetum,_Praha_(2025-08-07).jpg",
+    "file": "File:Planetum, Praha (2025-08-07).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Bubene%C4%8D%2C_planet%C3%A1rium.jpg/1280px-Bubene%C4%8D%2C_planet%C3%A1rium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prague-planetarium/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Prague - Bubeneč , Czech Republic ",
+    "credit": "ŠJů",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bubene%C4%8D,_planet%C3%A1rium.jpg",
+    "file": "File:Bubeneč, planetárium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Planetarium_Praha_20251025_144417.jpg/1280px-Planetarium_Praha_20251025_144417.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prague-planetarium/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "GdyniaPL2025@GdyniaPL2025",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planetarium_Praha_20251025_144417.jpg",
+    "file": "File:Planetarium Praha 20251025 144417.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Planetarium_Praha_20251025_150609.jpg/1280px-Planetarium_Praha_20251025_150609.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prague-planetarium/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "GdyniaPL2025@GdyniaPL2025",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Planetarium_Praha_20251025_150609.jpg",
+    "file": "File:Planetarium Praha 20251025 150609.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Interier_Planetum_Prague_2025_A.jpg/1280px-Interier_Planetum_Prague_2025_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prague-planetarium/thumbs/4.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Mojmir Churavy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interier_Planetum_Prague_2025_A.jpg",
+    "file": "File:Interier Planetum Prague 2025 A.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Interier_Planetum_Prague_2025_B.jpg/1280px-Interier_Planetum_Prague_2025_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/prague-planetarium/thumbs/5.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Mojmir Churavy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Interier_Planetum_Prague_2025_B.jpg",
+    "file": "File:Interier Planetum Prague 2025 B.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "casa-serra",
@@ -343748,7 +346672,83 @@ window.BUILDINGS = [
   "commons": "Category:Casa Serra (Barcelona)",
   "lead": "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/423_Casa_Serra%2C_Rambla_de_Catalunya_126_%28Barcelona%29.jpg/1280px-423_Casa_Serra%2C_Rambla_de_Catalunya_126_%28Barcelona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-serra/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Serra, Rambla de Catalunya 126 (Barcelona)",
+    "credit": "Enric",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:423_Casa_Serra,_Rambla_de_Catalunya_126_(Barcelona).jpg",
+    "file": "File:423 Casa Serra, Rambla de Catalunya 126 (Barcelona).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/WLM14ES_-_Casa_modernista_Can_Serra_i_actualment_seu_de_la_Diputaci%C3%B3_de_Barcelona%2C_Eixample_-_MARIA_ROSA_FERRE.jpg/1280px-WLM14ES_-_Casa_modernista_Can_Serra_i_actualment_seu_de_la_Diputaci%C3%B3_de_Barcelona%2C_Eixample_-_MARIA_ROSA_FERRE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-serra/thumbs/1.webp",
+    "w": 1280,
+    "h": 841,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "MARIA ROSA FERRE ✿  from Vilafranca del penedes, Catalunya",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:WLM14ES_-_Casa_modernista_Can_Serra_i_actualment_seu_de_la_Diputaci%C3%B3_de_Barcelona,_Eixample_-_MARIA_ROSA_FERRE.jpg",
+    "file": "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/PiC-Serra-rb.catalunya-1340-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/casa-serra/thumbs/2.webp",
+    "w": 1200,
+    "h": 799,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Serra(Barcelona-Catalunya), obra de Josep Puig i Cadafalch 1903",
+    "credit": "ca:user:amadalvarez",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:PiC-Serra-rb.catalunya-1340-01.jpg",
+    "file": "File:PiC-Serra-rb.catalunya-1340-01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Barcelona%2C_Casa_Serra%2C_de_Josep_Puig_i_Cadafalch_%286743384043%29.jpg/1280px-Barcelona%2C_Casa_Serra%2C_de_Josep_Puig_i_Cadafalch_%286743384043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-serra/thumbs/3.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Josep Puig i Cadafalch, arquitecte; Alfons Juyol, escultor",
+    "credit": "Catalan Art & Architecture Gallery (Josep Bracons)  from Barcelona, Catalonia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona,_Casa_Serra,_de_Josep_Puig_i_Cadafalch_(6743384043).jpg",
+    "file": "File:Barcelona, Casa Serra, de Josep Puig i Cadafalch (6743384043).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Barcelona%2C_Casa_Serra%2C_de_Josep_Puig_i_Cadafalch_%286743423859%29.jpg/1280px-Barcelona%2C_Casa_Serra%2C_de_Josep_Puig_i_Cadafalch_%286743423859%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-serra/thumbs/4.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Josep Puig i Cadafalch, arquitecte; Alfons Juyol, escultor",
+    "credit": "Catalan Art & Architecture Gallery (Josep Bracons)  from Barcelona, Catalonia",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona,_Casa_Serra,_de_Josep_Puig_i_Cadafalch_(6743423859).jpg",
+    "file": "File:Barcelona, Casa Serra, de Josep Puig i Cadafalch (6743423859).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Casa_Serra_%28Barcelona%29_-_8.jpg/1280px-Casa_Serra_%28Barcelona%29_-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-serra/thumbs/5.webp",
+    "w": 1280,
+    "h": 831,
+    "kind": "Detail",
+    "caption": "Detail · Casa Serra (Barcelona)",
+    "credit": "MARIA ROSA FERRE ✿",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Serra_(Barcelona)_-_8.jpg",
+    "file": "File:Casa Serra (Barcelona) - 8.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "haus-wittmann",
@@ -343772,6 +346772,46 @@ window.BUILDINGS = [
   "commons": "Category:Haus Wittmann, Etsdorf am Kamp",
   "lead": "File:Haus Wittmann Südwest.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Haus_Wittmann_S%C3%BCdwest.JPG/1280px-Haus_Wittmann_S%C3%BCdwest.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-wittmann/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Haus Wittmann Südwest-Ansicht",
+    "credit": "Werner Weißmann  ( Diskussion )",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Haus_Wittmann_S%C3%BCdwest.JPG",
+    "file": "File:Haus Wittmann Südwest.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Haus_Wittmann.JPG/1280px-Haus_Wittmann.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-wittmann/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Haus Wittmann Südost-Ansicht",
+    "credit": "Werner Weißmann  ( Diskussion )",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Haus_Wittmann.JPG",
+    "file": "File:Haus Wittmann.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Salettl_Wittmann.JPG/1280px-Salettl_Wittmann.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/haus-wittmann/thumbs/2.webp",
+    "w": 1280,
+    "h": 1280,
+    "kind": "Exterior",
+    "caption": "Exterior · Salettl Wittmann",
+    "credit": "Werner Weißmann  ( Diskussion )",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Salettl_Wittmann.JPG",
+    "file": "File:Salettl Wittmann.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
