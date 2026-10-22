@@ -73,5 +73,13 @@
   "metric": "buildings_added",
   "status": "done",
   "note": "114 added"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 7: 300 candidates from 1900 on, no towers, offices, housing, hotels or shops in the pool, no local US houses and theatres by architects not on the wall; ordinary types kept under 20% (owner's rule); Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
+  "target": 80,
+  "metric": "buildings_added",
+  "status": "in progress"
  }
 ]
