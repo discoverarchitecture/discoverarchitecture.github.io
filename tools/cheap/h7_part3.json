@@ -1,0 +1,1751 @@
+[
+  {
+    "id": "pavilhao-da-bienal",
+    "qid": "Q50823385",
+    "status": "unsure",
+    "why": "Niemeyer's Bienal pavilion, but every thumbnail is an interior or a close detail of the roof; none shows the whole building from outside.",
+    "note": "no main photo"
+  },
+  {
+    "id": "cenotaph-for-the-a-bomb-victims",
+    "qid": "Q11409718",
+    "status": "photo",
+    "why": "Tange is on the wall, so the memorial counts as one of his built works; clear frontal photos.",
+    "name": "Cenotaph for the A-Bomb Victims",
+    "by": "Kenzō Tange",
+    "city": "Hiroshima",
+    "cc": "JP",
+    "year": 1952,
+    "type": "Memorial",
+    "movement": "Modernism",
+    "concepts": [
+      "Sculptural form",
+      "Monumentality",
+      "Water"
+    ],
+    "features": "Kenzō Tange's 1952 cenotaph in Hiroshima's Peace Memorial Park, for the atomic bomb dead.",
+    "commons_category": "Category:Hiroshima Cenotaph",
+    "coords": [
+      34.39297,
+      132.45256
+    ],
+    "photos": [
+      {
+        "file": "File:20181111 Hiroshima Memorial Cenotaph-2.jpg",
+        "license": "CC0",
+        "seen": true
+      },
+      {
+        "file": "File:Cenotaph for A-Bomb Victims.JPG",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Cenotaph, Hiroshima, South view 20190417 1.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "fine-arts-center-massachusetts",
+    "qid": "Q5450046",
+    "status": "photo",
+    "why": "Roche is on the wall; the lead gives the building's form and its role as a campus gateway.",
+    "name": "Fine Arts Center (Massachusetts)",
+    "by": "Kevin Roche",
+    "city": "Amherst",
+    "cc": "US",
+    "year": 1975,
+    "type": "Culture & sport",
+    "movement": "Brutalism",
+    "concepts": [
+      "Monumentality",
+      "Void",
+      "Public space"
+    ],
+    "features": "Kevin Roche's 646-foot-long bridge of studio art space, raised 30 feet off the ground as a campus gateway.",
+    "commons_category": "Category:Fine Arts Center (Amherst, Massachusetts)",
+    "coords": [
+      42.3863,
+      -72.5254
+    ],
+    "photos": [
+      {
+        "file": "File:University of Massachusetts Amherst Fine Arts Center.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Fine Arts Center.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "stadio-delle-alpi",
+    "qid": "Q215493",
+    "status": "skip",
+    "why": "Demolished in 2009, so not standing; the lead says so."
+  },
+  {
+    "id": "guildford-cathedral",
+    "qid": "Q687799",
+    "status": "photo",
+    "why": "The lead gives a concrete reason: the last Church of England cathedral on a new site.",
+    "name": "Guildford Cathedral",
+    "by": "Edward Maufe",
+    "city": "Guildford",
+    "cc": "GB",
+    "year": 1961,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Brick",
+      "Landscape"
+    ],
+    "features": "The last Church of England cathedral consecrated on a new site, built 1936–1961 to Edward Maufe's design.",
+    "commons_category": "Category:Guildford Cathedral",
+    "coords": [
+      51.2411,
+      -0.59
+    ],
+    "photos": [
+      {
+        "file": "File:Guildford Cathedral, Surrey (48280133566).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Guildford Cathedral 2.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Guildford Cathedral, Stag Hill, Guildford (Seen from Onslow Village) (May 2014) (1).JPG",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "paradiso-amsterdam",
+    "qid": "Q1535378",
+    "status": "photo",
+    "why": "A church converted to a music venue, keeping its church-like interior; the year is the church's, from the lead.",
+    "name": "Paradiso (Amsterdam)",
+    "by": "Gerlof Salm",
+    "city": "Amsterdam",
+    "cc": "NL",
+    "year": 1880,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Adaptive reuse",
+      "Light & shadow",
+      "Community"
+    ],
+    "features": "An 1880 church in Amsterdam, turned into a music venue in 1968 and keeping its stained-glass hall.",
+    "commons_category": "Category:Paradiso (Amsterdam)",
+    "coords": [
+      52.36214,
+      4.88387
+    ],
+    "photos": [
+      {
+        "file": "File:Amsterdam Paradiso.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Gezicht op het kerkgebouw van de Vrije Gemeente.jpg",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "longmire-buildings",
+    "qid": "Q6674117",
+    "status": "photo",
+    "why": "The lead names Vint as director of the NPS staff who designed the buildings; one clear whole-building photo.",
+    "name": "Longmire Buildings",
+    "by": "Thomas Chalmers Vint",
+    "city": "Mount Rainier National Park",
+    "cc": "US",
+    "year": 1927,
+    "type": "Civic",
+    "movement": "Regionalism",
+    "concepts": [
+      "Timber",
+      "Stone",
+      "Landscape"
+    ],
+    "features": "Among the most prominent National Park Service Rustic buildings, a 1927–29 headquarters group in Mount Rainier National Park.",
+    "commons_category": "Category:Longmire Buildings",
+    "coords": [
+      46.75016,
+      -121.81168
+    ],
+    "photos": [
+      {
+        "file": "File:Longmire Headquarters MRNP1.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "philadelphia-history-museum",
+    "qid": "Q2870183",
+    "status": "photo",
+    "why": "A landmark Greek Revival building named in the lead; the year is the building's completion, not the museum's 1938 opening.",
+    "name": "Philadelphia History Museum",
+    "by": "John Haviland",
+    "city": "Philadelphia",
+    "cc": "US",
+    "year": 1826,
+    "type": "Museum",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Stone",
+      "Axis"
+    ],
+    "features": "John Haviland's landmark Greek Revival building of 1824–1826, built for the Franklin Institute.",
+    "commons_category": "Category:Philadelphia History Museum",
+    "coords": [
+      39.9503,
+      -75.15204
+    ],
+    "photos": [
+      {
+        "file": "File:Philadelphia History Museum at the Atwater Kent from south.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "elisabet-ney-museum",
+    "qid": "Q5361396",
+    "status": "skip",
+    "why": "House museum of a sculptor's studio; the lead gives no architectural reason and the photos show a sculptor's memorabilia."
+  },
+  {
+    "id": "kiel-opera-house",
+    "qid": "Q737243",
+    "status": "skip",
+    "why": "Opera house; the lead gives its use and its listing, not why the design matters."
+  },
+  {
+    "id": "kansas-city-museum",
+    "qid": "Q16998098",
+    "status": "skip",
+    "why": "Beaux-Arts mansion turned museum; the lead is mostly the museum's history and names no architect."
+  },
+  {
+    "id": "schiller-nationalmuseum",
+    "qid": "Q2235692",
+    "status": "skip",
+    "why": "Museum building; the lead gives its founding and site, not its design."
+  },
+  {
+    "id": "gary-bathing-beach-aquatorium",
+    "qid": "Q16891550",
+    "status": "photo",
+    "why": "The lead calls it one of the earliest pre-cast concrete modular buildings; only the main photo shows the whole building.",
+    "name": "Gary Bathing Beach Aquatorium",
+    "by": "George W. Maher",
+    "city": "Gary",
+    "cc": "US",
+    "year": 1921,
+    "type": "Public space",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Modular",
+      "Prefabrication",
+      "Public space"
+    ],
+    "features": "One of the earliest pre-cast concrete modular buildings, with 90% of it made from six basic cast blocks.",
+    "commons_category": "Category:Gary Bathing Beach Aquatorium",
+    "coords": [
+      41.6197,
+      -87.2567
+    ],
+    "photos": [
+      {
+        "file": "File:Aquatorium.jpg",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "siedlung-elsengrund",
+    "qid": "Q29015299",
+    "status": "skip",
+    "why": "Garden-suburb housing estate; the lead gives no architectural reason and the photos are street scenes."
+  },
+  {
+    "id": "express-cargo-center",
+    "qid": "Q127872526",
+    "status": "skip",
+    "why": "Railway freight terminal with an empty lead; nothing in prep.json says why students would study it."
+  },
+  {
+    "id": "suva-house",
+    "qid": "Q19362515",
+    "status": "skip",
+    "why": "Office block with an empty lead; nothing in prep.json says why it matters."
+  },
+  {
+    "id": "central-signal-box-building-zurich-hb",
+    "qid": "Q30322683",
+    "status": "skip",
+    "why": "Railway signal box with an empty lead; nothing in prep.json says why it matters."
+  },
+  {
+    "id": "st-helena",
+    "qid": "Q52294947",
+    "status": "skip",
+    "why": "Church with an empty lead; nothing in prep.json says why it matters."
+  },
+  {
+    "id": "vadso-church",
+    "qid": "Q1784084",
+    "status": "photo",
+    "why": "Modern concrete church (1958) named in the lead; Poulsson is also on the wall.",
+    "name": "Vadsø Church",
+    "by": "Magnus Poulsson",
+    "city": "Vadsø",
+    "cc": "NO",
+    "year": 1958,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Exposed concrete",
+      "Landscape",
+      "Monumentality"
+    ],
+    "features": "A gray concrete church in Vadsø, Finnmark, built in a long-church form to Magnus Poulsson's design in 1958.",
+    "commons_category": "Category:Vadsø kirke",
+    "coords": [
+      70.07586,
+      29.75017
+    ],
+    "photos": [
+      {
+        "file": "File:Vadsø Church.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "palm-springs-convention-center",
+    "qid": "Q115930",
+    "status": "photo",
+    "why": "Pereira is on the wall; the lead says the expansion takes its colours and forms from the desert.",
+    "name": "Palm Springs Convention Center",
+    "by": "William Pereira",
+    "city": "Palm Springs",
+    "cc": "US",
+    "year": 1974,
+    "type": "Civic",
+    "movement": "Regionalism",
+    "concepts": [
+      "Earth & local material",
+      "Monumentality",
+      "Colour"
+    ],
+    "features": "William Pereira's 1974 convention center, expanded in 2005 by Fentress with colours drawn from the desert.",
+    "commons_category": "Category:Palm Springs Convention Center",
+    "coords": [
+      33.8264,
+      -116.538
+    ],
+    "photos": [
+      {
+        "file": "File:Palm Springs Convention Center-13.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "scranton-cultural-center",
+    "qid": "Q7438742",
+    "status": "photo",
+    "why": "Hood is on the wall; the lead gives its National Register listing and its theatre use.",
+    "name": "Scranton Cultural Center",
+    "by": "Raymond Hood",
+    "city": "Scranton",
+    "cc": "US",
+    "year": 1928,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Detail",
+      "Axis"
+    ],
+    "features": "Raymond Hood's former Masonic Temple in Scranton, now a theatre and cultural centre listed on the National Register.",
+    "commons_category": "Category:Scranton Cultural Center",
+    "coords": [
+      41.41081,
+      -75.66015
+    ],
+    "photos": [
+      {
+        "file": "File:Scranton - Scranton Cultural Center (48472741161).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Masonic Hall in Scranton, PA IMG 1515.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "orthodox-church-of-the-annunciation-in-malczyce",
+    "qid": "Q11689728",
+    "status": "photo",
+    "why": "The lead names Poelzig as the designer; Poelzig is on the wall; the year is the completion year from the lead.",
+    "name": "Orthodox church of the Annunciation in Malczyce",
+    "by": "Hans Poelzig",
+    "city": "Malczyce",
+    "cc": "PL",
+    "year": 1903,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Brick",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "A neo-Gothic church built in 1902–03 to a design by Hans Poelzig, one of Germany's greatest architects.",
+    "commons_category": "Category:Orthodox church of the Annunciation in Malczyce",
+    "coords": [
+      51.2197,
+      16.5006
+    ],
+    "photos": [
+      {
+        "file": "File:SM Malczyce Cerkiew Zwiastowania Najświętszej Maryji Bogarodzicy (1) ID 597137.jpg",
+        "license": "CC BY-SA 3.0 pl",
+        "seen": true
+      },
+      {
+        "file": "File:Orthodoxe Kirche in Malczyce.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "chapelle-des-franciscains-d-arcueil",
+    "qid": "Q22968884",
+    "status": "photo",
+    "why": "A short lead, but Auguste Perret is on the wall; the Perret brothers are the architects in prep.json.",
+    "name": "Chapelle des Franciscains d'Arcueil",
+    "by": "Auguste Perret, Gustave Perret",
+    "city": "Arcueil",
+    "cc": "FR",
+    "year": 1925,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "A Catholic chapel in Arcueil, called the Chapelle Perret, by the architects Auguste and Gustave Perret.",
+    "commons_category": "Category:Chapelle des Franciscains d'Arcueil",
+    "coords": [
+      48.80914,
+      2.33111
+    ],
+    "photos": [
+      {
+        "file": "File:Chapelle des Franciscains d'Arcueil 03.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Chapelle des Franciscains d'Arcueil 01.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "neckarzimmern-barrage",
+    "qid": "Q2334808",
+    "status": "skip",
+    "why": "Weir and lock; infrastructure, and the lead gives no architectural reason."
+  },
+  {
+    "id": "madach-theatre",
+    "qid": "Q118398232",
+    "status": "unsure",
+    "why": "Oskar Kaufmann's theatre, but the lead is empty and the candidate photos show people, banners and sculpture rather than the whole building.",
+    "note": "no main photo"
+  },
+  {
+    "id": "louise-freer-hall",
+    "qid": "Q20711537",
+    "status": "photo",
+    "why": "Platt is on the wall; the lead names his Georgian Revival plan and calls it his last campus building.",
+    "name": "Louise Freer Hall",
+    "by": "Charles A. Platt",
+    "city": "Urbana",
+    "cc": "US",
+    "year": 1930,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Axis",
+      "Brick",
+      "Monumentality"
+    ],
+    "features": "Charles A. Platt's last university building in Urbana, a Georgian Revival gymnasium of 1930.",
+    "commons_category": null,
+    "coords": [
+      40.10479,
+      -88.22291
+    ],
+    "photos": [
+      {
+        "file": "File:LouiseFreerHall Urbana Illinois 4577.jpg",
+        "license": "CC BY-SA 3.0 us",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "kitchi-gammi-club",
+    "qid": "Q60767790",
+    "status": "photo",
+    "why": "The lead gives a listing for architectural significance and names Goodhue; completed 1913 per the lead.",
+    "name": "Kitchi Gammi Club",
+    "by": "Bertram Goodhue, Ralph Adams Cram",
+    "city": "Duluth",
+    "cc": "US",
+    "year": 1913,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Brick",
+      "Detail",
+      "Monumentality"
+    ],
+    "features": "Bertram Goodhue's Georgian and Gothic Revival clubhouse in Duluth, listed for its architecture and craftsmanship.",
+    "commons_category": null,
+    "coords": [
+      46.79542,
+      -92.08778
+    ],
+    "photos": [
+      {
+        "file": "File:Kitchi Gammi Club 4.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "volksbuhne",
+    "qid": "Q118144972",
+    "status": "photo",
+    "why": "Kaufmann is on the wall (Renaissance-Theater); the lead is empty, so the feature uses prep.json facts only.",
+    "name": "Volksbühne",
+    "by": "Oskar Kaufmann",
+    "city": "Berlin",
+    "cc": "DE",
+    "year": 1914,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Axis",
+      "Facade as skin"
+    ],
+    "features": "Oskar Kaufmann's 1914 theatre building in Berlin.",
+    "commons_category": "Category:Volksbühne Berlin",
+    "coords": [
+      52.52694,
+      13.41194
+    ],
+    "photos": [
+      {
+        "file": "File:VolksbühBerlJan08.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Berlin-Mitte Volksbühne 031.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "carpenter-theatre",
+    "qid": "Q139821994",
+    "status": "photo",
+    "why": "Eberson is on the wall (Olympia Theater, Miami); the lead is empty, so the feature uses prep.json facts only.",
+    "name": "Carpenter Theatre",
+    "by": "John Eberson",
+    "city": "Richmond",
+    "cc": "US",
+    "year": 1928,
+    "type": "Culture & sport",
+    "movement": "Art Deco",
+    "concepts": [
+      "Facade as skin",
+      "Detail",
+      "Monumentality"
+    ],
+    "features": "John Eberson's 1928 theatre building in Richmond.",
+    "commons_category": null,
+    "coords": [
+      37.54164,
+      -77.43691
+    ],
+    "photos": [
+      {
+        "file": "File:Carpenter Theatre Richmond Va.JPG",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "khovo-lar",
+    "qid": "Q24552664",
+    "status": "photo",
+    "why": "Guedes is on the wall; the lead gives the design year 1966 and the opening year 1973.",
+    "name": "Khovo Lar",
+    "by": "Pancho Guedes",
+    "city": "Maputo",
+    "cc": "MZ",
+    "year": 1973,
+    "type": "Housing",
+    "movement": "Brutalism",
+    "concepts": [
+      "Exposed concrete",
+      "Brise-soleil",
+      "Light & shadow"
+    ],
+    "features": "Pancho Guedes's student residence in Maputo, designed in 1966 and opened in 1973.",
+    "commons_category": "Category:Residência de Estudantes Khovo Lar",
+    "coords": [
+      -25.96581,
+      32.57747
+    ],
+    "photos": [
+      {
+        "file": "File:Khovo Lar Maputo 3.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "nova-hall",
+    "qid": "Q11325716",
+    "status": "photo",
+    "why": "Isozaki is on the wall; the lead names him and gives the opening date.",
+    "name": "Nova Hall",
+    "by": "Arata Isozaki",
+    "city": "Tsukuba",
+    "cc": "JP",
+    "year": 1983,
+    "type": "Culture & sport",
+    "movement": "Postmodernism",
+    "concepts": [
+      "Facade as skin",
+      "Geometry",
+      "Monumentality"
+    ],
+    "features": "Arata Isozaki's concert hall in the Tsukuba Center Building, opened in June 1983.",
+    "commons_category": "Category:Nova Hall",
+    "coords": [
+      36.08131,
+      140.11425
+    ],
+    "photos": [
+      {
+        "file": "File:Nova hall Tsukuba-city.JPG",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Nova hall.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "sackler-wing",
+    "qid": "Q116981455",
+    "status": "photo",
+    "why": "Roche is on the wall; the lead says the wing was built to house the Temple of Dendur.",
+    "name": "Sackler Wing",
+    "by": "Kevin Roche",
+    "city": "New York",
+    "cc": "US",
+    "year": 1978,
+    "type": "Museum",
+    "movement": "Late modernism",
+    "concepts": [
+      "Light from above",
+      "Courtyard",
+      "Monumentality"
+    ],
+    "features": "Kevin Roche's 1978 wing at the Met, built to house the Temple of Dendur.",
+    "commons_category": "Category:Gallery 131, Metropolitan Museum of Art",
+    "coords": [
+      40.78091,
+      -73.96336
+    ],
+    "photos": [
+      {
+        "file": "File:Central Park New York August 2013 002.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "edificio-urumea",
+    "qid": "Q136487807",
+    "status": "photo",
+    "why": "Moneo is on the wall; the lead is empty, so the feature uses prep.json facts only.",
+    "name": "Edificio Urumea",
+    "by": "Rafael Moneo",
+    "city": "San Sebastián",
+    "cc": "ES",
+    "year": 1973,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Facade as skin",
+      "Modular"
+    ],
+    "features": "Rafael Moneo's 1973 building in San Sebastián.",
+    "commons_category": "Category:Edificio Urumea",
+    "coords": [
+      43.32278,
+      -1.97849
+    ],
+    "photos": [
+      {
+        "file": "File:Edificio Urumea, San Sebastián.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-hildegardis",
+    "qid": "Q1404444",
+    "status": "photo",
+    "why": "Böhm is on the wall; the lead describes exposed concrete and a cantilevered form; completed 1970 per the lead.",
+    "name": "St. Hildegardis",
+    "by": "Gottfried Böhm",
+    "city": "Düsseldorf",
+    "cc": "DE",
+    "year": 1970,
+    "type": "Religious",
+    "movement": "Brutalism",
+    "concepts": [
+      "Exposed concrete",
+      "Sculptural form",
+      "Structure as expression"
+    ],
+    "features": "Gottfried Böhm's exposed-concrete chapel in a Düsseldorf care home, raised on a heavy column with a bell bay.",
+    "commons_category": null,
+    "coords": [
+      51.1386,
+      6.89863
+    ],
+    "photos": [
+      {
+        "file": "File:Altenwohnheim-St.-Hildegardis Kapelle Düsseldorf-Garath 2009.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "uris-hall",
+    "qid": "Q58434288",
+    "status": "photo",
+    "why": "Bunshaft is on the wall; the lead is empty, so the feature uses prep.json facts only.",
+    "name": "Uris Hall",
+    "by": "Gordon Bunshaft",
+    "city": "Ithaca",
+    "cc": "US",
+    "year": 1973,
+    "type": "Education",
+    "movement": "Late modernism",
+    "concepts": [
+      "Steel & glass",
+      "Facade as skin",
+      "Modular"
+    ],
+    "features": "Gordon Bunshaft's 1973 university building in Ithaca.",
+    "commons_category": "Category:Uris Hall (Cornell University)",
+    "coords": [
+      42.44719,
+      -76.48223
+    ],
+    "photos": [
+      {
+        "file": "File:Cornell University - Uris Hall 1.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Cornell University - Uris Hall 2.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "hoffman-hall",
+    "qid": "Q135669323",
+    "status": "photo",
+    "why": "Pei is on the wall; the lead is empty, so the feature uses prep.json facts only.",
+    "name": "Hoffman Hall",
+    "by": "I. M. Pei",
+    "city": "Los Angeles",
+    "cc": "US",
+    "year": 1965,
+    "type": "Education",
+    "movement": "Late modernism",
+    "concepts": [
+      "Facade as skin",
+      "Modular",
+      "Light & shadow"
+    ],
+    "features": "I. M. Pei's 1965 university building in Los Angeles.",
+    "commons_category": null,
+    "coords": [
+      34.01902,
+      -118.28526
+    ],
+    "photos": [
+      {
+        "file": "File:Usc hoffman 1.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "einsteinhaus-caputh",
+    "qid": "Q1309294",
+    "status": "unsure",
+    "why": "Konrad Wachsmann's 1929 timber house per prep.json, but the lead names only Einstein's use and does not describe the design; for the owner to decide."
+  },
+  {
+    "id": "francois-hennebique-s-house",
+    "qid": "Q13518780",
+    "status": "skip",
+    "why": "A contractor's own villa (Hennebique); the lead gives no architectural reason it matters."
+  },
+  {
+    "id": "regierungsgebaude-vienna",
+    "qid": "Q1687018",
+    "status": "skip",
+    "why": "Ministry building; the lead gives its dates and use, not why it matters, and the photos are dominated by sculpture."
+  },
+  {
+    "id": "villa-low-beer",
+    "qid": "Q18907493",
+    "status": "photo",
+    "why": "The lead names Neumann as the designer and an Art Nouveau (Jugendstil) villa; completion 1904 per the lead.",
+    "name": "Villa Löw-Beer",
+    "by": "Alexander Neumann",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1904,
+    "type": "House",
+    "movement": "Art Nouveau",
+    "concepts": [
+      "Colour",
+      "Detail",
+      "Landscape"
+    ],
+    "features": "A 1903–04 Art Nouveau villa in Brno by Alexander Neumann, with the later Villa Tugendhat on its grounds.",
+    "commons_category": "Category:Villa Löw-Beer (Černá Pole)",
+    "coords": [
+      49.20611,
+      16.61361
+    ],
+    "photos": [
+      {
+        "file": "File:Vila Löw-Beer Brno 2016 3.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Brno, Vila Löw-Beer ze zahrady (1).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "kauniainen-church",
+    "qid": "Q19950962",
+    "status": "skip",
+    "why": "Church; the lead gives only its name and place, not the design."
+  },
+  {
+    "id": "santa-barbara-vedanta-temple",
+    "qid": "Q22078232",
+    "status": "skip",
+    "why": "Temple; the lead gives its site and date, not the design, and the architect has no entry on the wall."
+  },
+  {
+    "id": "rozenburg-wind-wall",
+    "qid": "Q25100849",
+    "status": "skip",
+    "why": "Wind screen for a canal: engineering rather than a building; the lead describes only its wind-blocking purpose."
+  },
+  {
+    "id": "wheelwright-museum-of-the-american-indian",
+    "qid": "Q14706129",
+    "status": "skip",
+    "why": "Museum; the lead gives its founders and purpose, not its design."
+  },
+  {
+    "id": "opera-de-vichy",
+    "qid": "Q3354566",
+    "status": "photo",
+    "why": "The lead names the Art Nouveau style and the site; the second architect in prep.json has no name, so only Lecoeur is credited.",
+    "name": "Opéra de Vichy",
+    "by": "Charles Lecoeur",
+    "city": "Vichy",
+    "cc": "FR",
+    "year": 1903,
+    "type": "Culture & sport",
+    "movement": "Art Nouveau",
+    "concepts": [
+      "Detail",
+      "Axis",
+      "Stone"
+    ],
+    "features": "An Art Nouveau opera house in Vichy, set beside the Parc des Sources.",
+    "commons_category": "Category:Opéra de Vichy",
+    "coords": [
+      46.12323,
+      3.41946
+    ],
+    "photos": [
+      {
+        "file": "File:Entrée de l'opéra de Vichy depuis le parvis rénové 2025-06-21.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Vichy Opera façade.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "butte-aux-cailles-swimming-pool",
+    "qid": "Q3389226",
+    "status": "skip",
+    "why": "Swimming pool; the lead gives its age and place, not why the design matters."
+  },
+  {
+    "id": "bruder-klaus-kirche",
+    "qid": "Q107501897",
+    "status": "photo",
+    "why": "The lead names the Brutalist style and the architect; only one photo shows the church from outside.",
+    "name": "Bruder-Klaus-Kirche",
+    "by": "Karl Hans Neumann",
+    "city": "Stuttgart",
+    "cc": "DE",
+    "year": 1974,
+    "type": "Religious",
+    "movement": "Brutalism",
+    "concepts": [
+      "Exposed concrete",
+      "Sculptural form",
+      "Structure as expression"
+    ],
+    "features": "A Brutalist Catholic church in Stuttgart, designed by Karl Hans Neumann and built in 1974.",
+    "commons_category": "Category:Kirche zum Heiligen Bruder Klaus von Flüe (Stuttgart)",
+    "coords": [
+      48.771,
+      9.20303
+    ],
+    "photos": [
+      {
+        "file": "File:StgtGablenbergKathKirche.jpg",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "volmanova-vila",
+    "qid": "Q11933212",
+    "status": "photo",
+    "why": "The lead calls it among the best of Czech functionalism; both architects are named; completed 1939 per the lead.",
+    "name": "Volmanova vila",
+    "by": "Jiří Štursa, Karel Janů",
+    "city": "Čelákovice",
+    "cc": "CZ",
+    "year": 1939,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Free plan",
+      "Cantilever",
+      "Landscape"
+    ],
+    "features": "Czech functionalist villa in Čelákovice, among the best of its kind and inspired by Le Corbusier.",
+    "commons_category": "Category:Volmanova vila (Čelákovice)",
+    "coords": [
+      50.16518,
+      14.7355
+    ],
+    "photos": [
+      {
+        "file": "File:Volmanova vila v Čelákovicích - celek.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Volmanova vila.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "cafe-era",
+    "qid": "Q12029033",
+    "status": "photo",
+    "why": "The lead names the functionalist style; the year is from prep.json because the lead gives none.",
+    "name": "Café Era",
+    "by": "Josef Kranz",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1920,
+    "type": "Hospitality",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "A functionalist café building in Brno by Josef Kranz, with a working café on the ground floor.",
+    "commons_category": "Category:Café Era",
+    "coords": [
+      49.2106,
+      16.6192
+    ],
+    "photos": [
+      {
+        "file": "File:Brno - Zemědělská, kavárna ERA, 2026-03, obr01.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "villa-kroha",
+    "qid": "Q12031562",
+    "status": "photo",
+    "why": "The lead names the functionalist style and the architect; completed 1930 per the lead.",
+    "name": "Villa Kroha",
+    "by": "Jiří Kroha",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1930,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Free plan",
+      "Light & shadow"
+    ],
+    "features": "Architect Jiří Kroha's own functionalist family house in Brno, built 1928–1930.",
+    "commons_category": "Category:Villa of Jiří Kroha",
+    "coords": [
+      49.2019,
+      16.577
+    ],
+    "photos": [
+      {
+        "file": "File:Brno, Stránice, Krohův rodinný dům (2018-06-17; 01).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Brno, Sedlákova, vila Jiřího Krohy.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "villa-patocka",
+    "qid": "Q12043934",
+    "status": "photo",
+    "why": "The lead names the functionalist style and the architect; completed 1936 per the lead.",
+    "name": "Villa Patočka",
+    "by": "Jiří Kroha",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1936,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Free plan",
+      "Landscape"
+    ],
+    "features": "Jiří Kroha's 1935–36 functionalist villa in Brno's Pod vodojemem colony.",
+    "commons_category": "Category:Villa Patočka",
+    "coords": [
+      49.20166,
+      16.57342
+    ],
+    "photos": [
+      {
+        "file": "File:Patočkova vila, Brno Kaplanova 2.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Brno, Kaplanova, Patočkova vila (2).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "villa-psota",
+    "qid": "Q12047494",
+    "status": "photo",
+    "why": "The lead names the functionalist style and the architect; completed 1936 per the lead.",
+    "name": "Villa Psota",
+    "by": "František Kalivoda",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1936,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Free plan",
+      "Landscape"
+    ],
+    "features": "A functionalist villa in Brno's Pod vodojemem colony, designed by František Kalivoda in 1935–36.",
+    "commons_category": "Category:Villa Psota",
+    "coords": [
+      49.20085,
+      16.57465
+    ],
+    "photos": [
+      {
+        "file": "File:Brno, Kaplanova, Psotova vila (1).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-nikolaus",
+    "qid": "Q1243460",
+    "status": "skip",
+    "why": "Parish church; the lead gives its date and the church-building context, not the design."
+  },
+  {
+    "id": "dorfkirche-kunersdorf",
+    "qid": "Q14906566",
+    "status": "photo",
+    "why": "The lead names the late-Expressionist brick style and that it is listed; the year is from prep.json (the lead says 1950s).",
+    "name": "Dorfkirche Kunersdorf",
+    "by": "Curt Steinberg",
+    "city": "Bliesdorf",
+    "cc": "DE",
+    "year": 1955,
+    "type": "Religious",
+    "movement": "Expressionism",
+    "concepts": [
+      "Brick",
+      "Sculptural form",
+      "Landscape"
+    ],
+    "features": "A late-Expressionist brick village church in Brandenburg, listed as a monument, by Curt Steinberg.",
+    "commons_category": "Category:Dorfkirche Kunersdorf (Bliesdorf)",
+    "coords": [
+      52.67686,
+      14.15808
+    ],
+    "photos": [
+      {
+        "file": "File:Dorfkirche Kunersdorf Bliesdorf.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Dorfkirche Kunersdorf Bliesdorf 2016 02.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "maria-hilf",
+    "qid": "Q14912219",
+    "status": "skip",
+    "why": "Parish church; the lead says only what it is and where it stands."
+  },
+  {
+    "id": "van-zessen-house",
+    "qid": "Q15876504",
+    "status": "photo",
+    "why": "The lead gives the reason: the only house by Van Eesteren that was built and still stands.",
+    "name": "Van Zessen House",
+    "by": "Cornelis van Eesteren",
+    "city": "Alblasserdam",
+    "cc": "NL",
+    "year": 1923,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "The only surviving house by Cornelis van Eesteren, built in 1923 in his birthplace, Alblasserdam.",
+    "commons_category": "Category:West Kinderdijk 89, Alblasserdam",
+    "coords": [
+      51.87301,
+      4.6356
+    ],
+    "photos": [
+      {
+        "file": "File:Exterieur OVERZICHT RECHTERZIJGEVEL, ACHTERGEVEL - Alblasserdam - 20281673 - RCE.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Exterieur OVERZICHT RECHTER ZIJGEVEL - Alblasserdam - 20281674 - RCE.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "holiday-bowl",
+    "qid": "Q16984580",
+    "status": "skip",
+    "why": "Bowling alley with no photos; the lead is about its history and community, not its design."
+  },
+  {
+    "id": "st-martin",
+    "qid": "Q1739180",
+    "status": "skip",
+    "why": "Church nave by Oesterlen (1957); the lead names the architect but gives no reason the design matters."
+  },
+  {
+    "id": "freibad-letzigraben",
+    "qid": "Q1912022",
+    "status": "photo",
+    "why": "The lead names the Landi style and calls it Frisch's only major building; the lead also says it is a reference design.",
+    "name": "Freibad Letzigraben",
+    "by": "Max Frisch, Gustav Ammann",
+    "city": "Zürich",
+    "cc": "CH",
+    "year": 1949,
+    "type": "Culture & sport",
+    "movement": "Regionalism",
+    "concepts": [
+      "Landscape",
+      "Water",
+      "Light & shadow"
+    ],
+    "features": "Max Frisch's only major building, a 1949 Landi-style open-air bath in Zürich with a garden by Gustav Ammann.",
+    "commons_category": "Category:Freibad Letzigraben",
+    "coords": [
+      47.37945,
+      8.4997
+    ],
+    "photos": [
+      {
+        "file": "File:Freibad Letzigraben Pavillon 1947 Max Frisch.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "people-s-house",
+    "qid": "Q19362535",
+    "status": "photo",
+    "why": "The lead calls it the outstanding example of Biel modernism and a symbol of red Biel.",
+    "name": "People's House",
+    "by": "Eduard Lanz",
+    "city": "Biel",
+    "cc": "CH",
+    "year": 1932,
+    "type": "Civic",
+    "movement": "Modernism",
+    "concepts": [
+      "Community",
+      "Brick",
+      "Facade as skin"
+    ],
+    "features": "Eduard Lanz's 1932 People's House in Biel, called an outstanding example of Biel's modernism and a symbol of red Biel.",
+    "commons_category": "Category:Volkshaus, Biel/Bienne",
+    "coords": [
+      47.13442,
+      7.2437
+    ],
+    "photos": [
+      {
+        "file": "File:Volkshaus, Biel - Bienne.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Biel Volkshaus 03.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "strandbad-biel",
+    "qid": "Q19362669",
+    "status": "photo",
+    "why": "The lead calls it one of the most important modernist bathing complexes in Switzerland; the lead places it in Nidau.",
+    "name": "Strandbad Biel",
+    "by": "Maurus Schifferli",
+    "city": "Nidau",
+    "cc": "CH",
+    "year": 1932,
+    "type": "Culture & sport",
+    "movement": "Modernism",
+    "concepts": [
+      "Landscape",
+      "Water",
+      "Public space"
+    ],
+    "features": "One of Switzerland's most important modernist bathing complexes, the 1932 Strandbad on Lake Biel.",
+    "commons_category": "Category:Strandbad Biel",
+    "coords": [
+      47.12984,
+      7.23561
+    ],
+    "photos": [
+      {
+        "file": "File:Strandbad Biel Weg.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Biel Strandbad 01.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "wuwa-building-no-26-27",
+    "qid": "Q20032363",
+    "status": "photo",
+    "why": "The lead names the architect and says it is one of two identical houses on the WUWA estate.",
+    "name": "WUWA Building no. 26-27",
+    "by": "Theo Effenberger",
+    "city": "Wrocław",
+    "cc": "PL",
+    "year": 1929,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Free plan",
+      "Community"
+    ],
+    "features": "Theo Effenberger's modernist house on the WUWA exhibition estate in Wrocław, one of a pair.",
+    "commons_category": "Category:WUWA Building no. 26-27",
+    "coords": [
+      51.1067,
+      17.0861
+    ],
+    "photos": [
+      {
+        "file": "File:PL-Breslau-WUWA-11-13.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Wroclaw Effenberger WUWA.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "wuwa-building-no-35",
+    "qid": "Q20032367",
+    "status": "photo",
+    "why": "The lead names the architect and the modernist WUWA estate, and gives the brick construction.",
+    "name": "WUWA Building no. 35",
+    "by": "Heinrich Lauterbach",
+    "city": "Wrocław",
+    "cc": "PL",
+    "year": 1929,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Free plan",
+      "Landscape"
+    ],
+    "features": "A modernist house by Heinrich Lauterbach on the WUWA exhibition estate in Wrocław, with walls of 44 cm brick.",
+    "commons_category": "Category:WUWA Building no. 35",
+    "coords": [
+      51.107,
+      17.085
+    ],
+    "photos": [
+      {
+        "file": "File:WUWA Photo House 35 Heinrich Lauterbach South-West Façade Wrocław Poland 2006-04-15.JPG",
+        "license": "CC BY 2.5",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "wuwa-building-no-36",
+    "qid": "Q20032368",
+    "status": "unsure",
+    "why": "A WUWA estate house per prep.json, but the only main photo is hidden behind bare branches; no photo shows the house clearly.",
+    "note": "no main photo"
+  },
+  {
+    "id": "wuwa-building-no-37",
+    "qid": "Q20032369",
+    "status": "photo",
+    "why": "The lead names the architect and the modernist WUWA estate.",
+    "name": "WUWA Building no. 37",
+    "by": "Ludwig Moshamer",
+    "city": "Wrocław",
+    "cc": "PL",
+    "year": 1929,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Free plan",
+      "Facade as skin",
+      "Detail"
+    ],
+    "features": "A modernist house by Ludwig Moshamer on the WUWA exhibition estate in Wrocław.",
+    "commons_category": "Category:WUWA Building no. 37",
+    "coords": [
+      51.10665,
+      17.08553
+    ],
+    "photos": [
+      {
+        "file": "File:Zielonego Dębu 21 Fotopolska 394451.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:WUWA Photo House 37 Ludwig Moshamer South Façade Wrocław Poland 2006-04-15.JPG",
+        "license": "CC BY 2.5",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-marien",
+    "qid": "Q20754431",
+    "status": "skip",
+    "why": "Parish church; the lead gives the date and architect but no design reason."
+  },
+  {
+    "id": "sachsenbad",
+    "qid": "Q2210566",
+    "status": "photo",
+    "why": "The lead calls it a notable example of Neues Bauen (plain plaster facades with regular windows); completed 1929 per the lead.",
+    "name": "Sachsenbad",
+    "by": "Paul Wolf",
+    "city": "Dresden",
+    "cc": "DE",
+    "year": 1929,
+    "type": "Culture & sport",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Modular",
+      "Community"
+    ],
+    "features": "Paul Wolf's 1928–29 former swimming hall in Dresden, called a notable example of Neues Bauen.",
+    "commons_category": "Category:Sachsenbad Dresden",
+    "coords": [
+      51.0814,
+      13.7192
+    ],
+    "photos": [
+      {
+        "file": "File:Sachsenbad dresden3.JPG",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:20240517.Dresden.Sachsenbad.-012.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:20240517.Dresden.Sachsenbad.-016.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "hojen-13",
+    "qid": "Q23042124",
+    "status": "photo",
+    "why": "The lead describes the two wings and courtyard and says the house is listed; the architect is named in the lead.",
+    "name": "Højen 13",
+    "by": "Knud Friis",
+    "city": "Aarhus",
+    "cc": "DK",
+    "year": 1958,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Courtyard",
+      "Facade as skin",
+      "Landscape"
+    ],
+    "features": "Knud Friis's own 1958 house in Aarhus, two wings around a paved courtyard, listed as a protected building.",
+    "commons_category": "Category:Højen 13",
+    "coords": [
+      56.15719,
+      10.1115
+    ],
+    "photos": [
+      {
+        "file": "File:Højen 13, Brabrand, Knud Friis' hus skråt forfra.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Højen 13, Brabrand, Knud Friis' set fra haven.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-johannes-nepomuk-chemnitz",
+    "qid": "Q2319376",
+    "status": "skip",
+    "why": "Church; the lead gives its dates and architect, but no reason the design matters."
+  },
+  {
+    "id": "st-willibald",
+    "qid": "Q2323742",
+    "status": "photo",
+    "why": "The lead calls it a modern church building; the year is from prep.json because the lead gives none.",
+    "name": "St. Willibald",
+    "by": "Hansjakob Lill",
+    "city": "Munich",
+    "cc": "DE",
+    "year": 1958,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Sculptural form",
+      "Monumentality"
+    ],
+    "features": "A modern church of the Salvatorian order in Munich, by Hansjakob Lill.",
+    "commons_category": "Category:St. Willibald (München-Pasing)",
+    "coords": [
+      48.1411,
+      11.4847
+    ],
+    "photos": [
+      {
+        "file": "File:Agnes-Bernauer-Str181 Muenchen-01.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "saint-thomas-church",
+    "qid": "Q2428511",
+    "status": "photo",
+    "why": "The lead describes the brick construction with a detached tower and says the church is protected.",
+    "name": "Saint Thomas Church",
+    "by": "Benedikt Huber",
+    "city": "Basel",
+    "cc": "CH",
+    "year": 1958,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Sculptural form",
+      "Community"
+    ],
+    "features": "A 1958 brick church in Basel with a detached tower, listed as a protected building.",
+    "commons_category": "Category:Saint Thomas Church (Basel)",
+    "coords": [
+      47.5642,
+      7.56222
+    ],
+    "photos": [
+      {
+        "file": "File:Thomaskirche (Basel).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Thomaskirche Basel 03.jpg",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "casa-blanch",
+    "qid": "Q28055820",
+    "status": "photo",
+    "why": "The lead names the rationalist style and its place in the Catalan heritage inventory.",
+    "name": "Casa Blanch",
+    "by": "Emili Blanch i Roig",
+    "city": "Girona",
+    "cc": "ES",
+    "year": 1932,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Detail",
+      "Light & shadow"
+    ],
+    "features": "A rationalist house in Girona by Emili Blanch i Roig, listed in Catalonia's architectural heritage inventory.",
+    "commons_category": "Category:Casa Blanch (Girona)",
+    "coords": [
+      41.98304,
+      2.81781
+    ],
+    "photos": [
+      {
+        "file": "File:176 Casa Blanch, c. Bernat Boades 6 (Girona).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:177 Casa Blanch, c. Bernat Boades 6 (Girona).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "casa-cattaneo",
+    "qid": "Q29061908",
+    "status": "photo",
+    "why": "The lead calls it Cattaneo's best-known building and says he designed it in full freedom; completed 1939 per the lead.",
+    "name": "Casa Cattaneo",
+    "by": "Cesare Cattaneo",
+    "city": "Cernobbio",
+    "cc": "IT",
+    "year": 1939,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Cantilever",
+      "Free plan"
+    ],
+    "features": "Cesare Cattaneo's best-known rationalist building, a 1938–39 rental house in Cernobbio, designed without client constraints.",
+    "commons_category": "Category:Casa Cattaneo (Cernobbio)",
+    "coords": [
+      45.84107,
+      9.07612
+    ],
+    "photos": [
+      {
+        "file": "File:Cernobbio - casa Cattaneo 3.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Cernobbio - casa Cattaneo 4.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "piuskirche",
+    "qid": "Q29522436",
+    "status": "photo",
+    "why": "The lead gives the national heritage listing and the architect; completed 1966 per the lead.",
+    "name": "Piuskirche",
+    "by": "Franz Füeg",
+    "city": "Meggen",
+    "cc": "CH",
+    "year": 1966,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Sculptural form",
+      "Light & shadow",
+      "Structure as expression"
+    ],
+    "features": "Franz Füeg's 1966 Piuskirche in Meggen, listed as a cultural object of national importance in Switzerland.",
+    "commons_category": "Category:Piuskirche Meggen",
+    "coords": [
+      47.04635,
+      8.37241
+    ],
+    "photos": [
+      {
+        "file": "File:Luzern Meggen Katholische Piuskirche.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "family-house-balmelli",
+    "qid": "Q29884732",
+    "status": "unsure",
+    "why": "A key Ticino-school house by Tita Carloni and Luigi Camenisch per prep.json, but prep.json has no photos for it.",
+    "note": "no main photo"
+  }
+]

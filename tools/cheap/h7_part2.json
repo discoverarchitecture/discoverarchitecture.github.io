@@ -1,0 +1,1664 @@
+[
+  {
+    "id": "dunedin-town-hall",
+    "qid": "Q5314997",
+    "status": "unsure",
+    "why": "Year: Wikidata gives 1930, but the lead says the oldest part is Victorian, so 1930 may belong only to the later part. Owner to check.",
+    "name": "Dunedin Town Hall",
+    "by": "Robert Lawson, Harry Mandeno",
+    "city": "Dunedin",
+    "cc": "NZ",
+    "year": 1930,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Monumentality",
+      "Community"
+    ],
+    "features": "Called the only substantial Victorian town hall still standing in New Zealand.",
+    "commons_category": "Category:Dunedin Municipal Chambers and Town Hall",
+    "coords": [
+      -45.87334,
+      170.50305
+    ],
+    "photos": [
+      {
+        "file": "File:NZ dunedin SI.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Dunedin Municipal Chambers.jpg",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "festspielhaus-hellerau",
+    "qid": "Q825047",
+    "status": "photo",
+    "why": "Tessenow is a well-known early modern architect; the lead gives its reason (early modern theatre centre). Main photo is a clear 1913 view.",
+    "name": "Festspielhaus Hellerau",
+    "by": "Heinrich Tessenow",
+    "city": "Dresden",
+    "cc": "DE",
+    "year": 1911,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Community",
+      "Public space",
+      "Monumentality"
+    ],
+    "features": "An important centre for early modern theatre, built 1911 in Dresden's garden-city district of Hellerau.",
+    "commons_category": "Category:Festspielhaus Hellerau",
+    "coords": [
+      51.1137,
+      13.7531
+    ],
+    "photos": [
+      {
+        "file": "File:Festspielhaus Hellerau 1913.png",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "historisches-museum-hannover",
+    "qid": "Q1614375",
+    "status": "skip",
+    "why": "The lead describes the museum's founding (1903) and collections, not the building or its architecture; 1903 is not the building's date."
+  },
+  {
+    "id": "goethe-gymnasium",
+    "qid": "Q1534107",
+    "status": "skip",
+    "why": "A school whose lead covers its teaching tradition only; no architectural reason given and the architect is not on the wall."
+  },
+  {
+    "id": "administrative-building-of-nestle-sa",
+    "qid": "Q1619855",
+    "status": "unsure",
+    "why": "Lead is one German sentence (designed by Jean Tschumi, built 1959-1960) and gives no reason it matters. Jean Tschumi has no building on the wall (Bernard Tschumi does). Owner to decide.",
+    "name": "Administrative Building of Nestlé SA",
+    "by": "Jean Tschumi",
+    "city": "Vevey",
+    "cc": "CH",
+    "year": 1960,
+    "type": "Workplace",
+    "movement": "Modernism",
+    "concepts": [
+      "Double height",
+      "Cluster",
+      "Light & shadow"
+    ],
+    "features": "Nestlé's Vevey headquarters, designed by Jean Tschumi and built in 1959–1960.",
+    "commons_category": "Category:Nestlé HQ",
+    "coords": [
+      46.46694,
+      6.835
+    ],
+    "photos": [
+      {
+        "file": "File:TschumiNestle04.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Vevey, Bâtiment administratif et Archives Historiques de Nestlé SA 2.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "meistersingerhalle",
+    "qid": "Q1734355",
+    "status": "photo",
+    "why": "Lead gives a reason it matters (listed historic monument since 2007) and a 1963 completion. Architects are from Wikidata.",
+    "name": "Meistersingerhalle",
+    "by": "Harald Loebermann, Wunibald Puchner",
+    "city": "Nuremberg",
+    "cc": "DE",
+    "year": 1963,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "Nuremberg's 1963 culture and congress centre, named for the Meistersingers and listed since 2007.",
+    "commons_category": "Category:Meistersingerhalle Nürnberg",
+    "coords": [
+      49.43732,
+      11.10474
+    ],
+    "photos": [
+      {
+        "file": "File:D-5-64-000-2517 Meistersingerhalle Nürnberg 20241218 0005.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:D-5-64-000-2517 Meistersingerhalle Nürnberg 20241218 0006.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "reuchlinhaus",
+    "qid": "Q2146551",
+    "status": "photo",
+    "why": "Lead names Manfred Lehmbruck and a 1957-1959 build; year 1959 from the lead, not Wikidata's 1961. Clear MoMA 1968 recognition in the lead.",
+    "name": "Reuchlinhaus",
+    "by": "Manfred Lehmbruck",
+    "city": "Pforzheim",
+    "cc": "DE",
+    "year": 1959,
+    "type": "Museum",
+    "movement": "Modernism",
+    "concepts": [
+      "Cluster",
+      "Circulation",
+      "Void"
+    ],
+    "features": "Germany's first postwar museum building, with a free-hanging staircase in its central foyer.",
+    "commons_category": "Category:Reuchlinhaus",
+    "coords": [
+      48.88579,
+      8.69735
+    ],
+    "photos": [
+      {
+        "file": "File:Reuchlinhaus.JPG",
+        "license": "CC BY-SA 2.0 de",
+        "seen": true
+      },
+      {
+        "file": "File:Reuchlinhaus Hof.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "franz-von-sales-kirche",
+    "qid": "Q1445934",
+    "status": "skip",
+    "why": "A 1969-71 filial church; the lead gives no reason it matters and Hans Schwippert has no other building on the wall."
+  },
+  {
+    "id": "mestske-divadlo-jablonec-nad-nisou",
+    "qid": "Q37303177",
+    "status": "photo",
+    "why": "Fellner & Helmer already have four buildings on the wall. Year 1906 is the end of the lead's 1905-1906 build.",
+    "name": "Městské divadlo Jablonec nad Nisou",
+    "by": "Fellner & Helmer, Ferdinand Fellner, Hermann Helmer",
+    "city": "Jablonec nad Nisou",
+    "cc": "CZ",
+    "year": 1906,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "One of six Czech theatres by Fellner & Helmer, built 1905–1906 on a sloping corner site.",
+    "commons_category": "Category:Městské divadlo (Jablonec nad Nisou)",
+    "coords": [
+      50.72468,
+      15.16655
+    ],
+    "photos": [
+      {
+        "file": "File:Poštovní 2, Jablonec nad Nisou.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Městské divadlo v Jablonci 02.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "bartlett-building",
+    "qid": "Q4865391",
+    "status": "unsure",
+    "why": "No main photo: the only photo is a narrow street crop that cuts off the tower. Subject is strong (first early skyscraper in Cincinnati).",
+    "name": "Bartlett Building",
+    "by": "D. H. Burnham & Company",
+    "city": "Cincinnati",
+    "cc": "US",
+    "year": 1901,
+    "type": "Office & tower",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Structure as expression",
+      "Monumentality",
+      "Adaptive reuse"
+    ],
+    "features": "The first early skyscraper in Cincinnati, a 19-storey tower that opened as the Union Trust Building in 1901.",
+    "commons_category": null,
+    "coords": [
+      39.1003,
+      -84.5115
+    ],
+    "photos": [],
+    "note": "no main photo"
+  },
+  {
+    "id": "doheny-library",
+    "qid": "Q5288554",
+    "status": "skip",
+    "why": "The lead is one line; Ralph Adams Cram has no other building on the wall and the lead gives no reason it matters."
+  },
+  {
+    "id": "sverigehuset",
+    "qid": "Q9209565",
+    "status": "photo",
+    "why": "Markelius already has a building on the wall; the lead describes the complex. Year 1969 is the end of the lead's 1961-1969 build.",
+    "name": "Sverigehuset",
+    "by": "Sven Markelius",
+    "city": "Stockholm",
+    "cc": "SE",
+    "year": 1969,
+    "type": "Workplace",
+    "movement": "Late modernism",
+    "concepts": [
+      "Double height",
+      "Cluster",
+      "Light & shadow"
+    ],
+    "features": "Sven Markelius's 1961–69 complex: a seven-storey corner block and a four-storey street block.",
+    "commons_category": "Category:Sverigehuset",
+    "coords": [
+      59.3325,
+      18.07
+    ],
+    "photos": [
+      {
+        "file": "File:Sverigehuset 1.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "japanese-pavilion",
+    "qid": "Q63769470",
+    "status": "unsure",
+    "why": "No main photo: the photos are an artwork, a close-up with a sign and a plaque; no whole-building view. Takamasa Yoshizaka has two buildings on the wall; lead is one line.",
+    "name": "Japanese pavilion",
+    "by": "Takamasa Yoshizaka",
+    "city": "Venice",
+    "cc": "IT",
+    "year": 1956,
+    "type": "Pavilion",
+    "movement": "Modernism",
+    "concepts": [
+      "Public space",
+      "Landscape",
+      "Community"
+    ],
+    "features": "Japan's national pavilion at the Venice Biennale.",
+    "commons_category": "Category:Venice Biennale pavilions (Japan)",
+    "coords": null,
+    "photos": [],
+    "note": "no main photo"
+  },
+  {
+    "id": "turku-main-library",
+    "qid": "Q7855553",
+    "status": "photo",
+    "why": "JKMM already has two buildings on the wall. Wikidata's 1903 is not in the lead and looks like an older date, so year is null.",
+    "name": "Turku Main Library",
+    "by": "JKMM Architects",
+    "city": "Turku",
+    "cc": "FI",
+    "year": null,
+    "type": "Library",
+    "movement": "Contemporary",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Light & shadow"
+    ],
+    "features": "Turku's chief city library in the city centre, covering about 8,500 square metres.",
+    "commons_category": "Category:Turku Main Library",
+    "coords": [
+      60.4503,
+      22.2711
+    ],
+    "photos": [
+      {
+        "file": "File:Turun kaupunginkirjaston päärakennus.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "esglesia-del-sagrat-cor-de-vistabella",
+    "qid": "Q11920582",
+    "status": "photo",
+    "why": "Jujol already has four buildings on the wall; the lead (Spanish) names him, gives 1923 and the national listing.",
+    "name": "Església del Sagrat Cor de Vistabella",
+    "by": "Josep Maria Jujol",
+    "city": "Vistabella",
+    "cc": "ES",
+    "year": 1923,
+    "type": "Religious",
+    "movement": "Art Nouveau",
+    "concepts": [
+      "Detail",
+      "Sculptural form",
+      "Community"
+    ],
+    "features": "Jujol's 1923 modernista church in Vistabella, listed as a cultural asset of national interest.",
+    "commons_category": "Category:Església del Sagrat Cor de Vistabella",
+    "coords": [
+      41.20893,
+      1.26517
+    ],
+    "photos": [
+      {
+        "file": "File:Vistabella Jujol esglSagratCor IPA-12368 1084 resize.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "villa-kudela",
+    "qid": "Q12031841",
+    "status": "photo",
+    "why": "The lead (Czech) names Jan Víšek and a functionalist design built 1926-1927. City is Brno, not the Stránice district.",
+    "name": "Villa Kudela",
+    "by": "Jan Víšek",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1927,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Free plan",
+      "Planting"
+    ],
+    "features": "Brno functionalist villa by Jan Víšek, built 1926–1927 in the Masaryk quarter.",
+    "commons_category": "Category:Villa Kudela",
+    "coords": [
+      49.2,
+      16.5811
+    ],
+    "photos": [
+      {
+        "file": "File:Brno, Klácelova, dům č. 10.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Brno, Stránice, Kudelův rodinný dům (2018-06-05; 02).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "schouwburg-concertzaal-tilburg",
+    "qid": "Q18813531",
+    "status": "unsure",
+    "why": "Bijvoet has buildings on the wall, but the lead is one line and the photos show a newer hall with a wavy roof beside the older one. Check that 1953 is the original.",
+    "name": "Schouwburg & Concertzaal Tilburg",
+    "by": "Bernard Bijvoet, Gerard Holt",
+    "city": "Tilburg",
+    "cc": "NL",
+    "year": 1953,
+    "type": "Culture & sport",
+    "movement": "Modernism",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "Tilburg's theatre and concert hall, whose main hall seats up to 850.",
+    "commons_category": "Category:Schouwburg Tilburg",
+    "coords": [
+      51.55422,
+      5.08314
+    ],
+    "photos": [
+      {
+        "file": "File:532169 Schouwburg Tilburg.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "first-presbyterian-church-cottage-grove-oregon",
+    "qid": "Q5453555",
+    "status": "photo",
+    "why": "Belluschi already has four buildings on the wall and this is one of his built works; the lead is short, but gives the NRHP listing.",
+    "name": "First Presbyterian Church (Cottage Grove, Oregon)",
+    "by": "Pietro Belluschi",
+    "city": "Cottage Grove",
+    "cc": "US",
+    "year": 1951,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Community",
+      "Public space",
+      "Landscape"
+    ],
+    "features": "Pietro Belluschi's 1951 Presbyterian church in Cottage Grove, Oregon, listed on the National Register of Historic Places.",
+    "commons_category": null,
+    "coords": [
+      43.795,
+      -123.06333
+    ],
+    "photos": [
+      {
+        "file": "File:First Presbyterian Church (Cottage Grove, Oregon).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "cleveland-museum-of-art-building",
+    "qid": "Q130255573",
+    "status": "skip",
+    "why": "The lead is empty and the photos show only gallery interiors; no main photo of the building."
+  },
+  {
+    "id": "blue-pavilion",
+    "qid": "Q16585735",
+    "status": "photo",
+    "why": "Nouvel already has 23 buildings on the wall; the lead (Italian) names him and the 2009 opening.",
+    "name": "Blue Pavilion",
+    "by": "Jean Nouvel",
+    "city": "Genoa",
+    "cc": "IT",
+    "year": 2009,
+    "type": "Pavilion",
+    "movement": "Contemporary",
+    "concepts": [
+      "Public space",
+      "Steel & glass",
+      "Modular"
+    ],
+    "features": "Jean Nouvel's fair building in Genoa, enlarging and modernising a 1960s pavilion; opened 2009.",
+    "commons_category": "Category:Padiglione Blu",
+    "coords": [
+      44.39583,
+      8.93972
+    ],
+    "photos": [
+      {
+        "file": "File:Blue Pavilion, Fiera del Mare 1 - Genoa, Italy.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Fiera di Genova air.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "shikoku-mura-gallery",
+    "qid": "Q17211689",
+    "status": "photo",
+    "why": "Ando already has 46 buildings on the wall; the lead (Japanese) names him and describes the hillside water garden.",
+    "name": "Shikoku Mura Gallery",
+    "by": "Tadao Ando",
+    "city": "Takamatsu",
+    "cc": "JP",
+    "year": 2002,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Landscape",
+      "Water",
+      "Planting"
+    ],
+    "features": "Ando's gallery on a hillside in Shikoku Mura, with a water garden and a view over Takamatsu.",
+    "commons_category": "Category:Shikokumura Gallery",
+    "coords": [
+      34.34562,
+      134.10896
+    ],
+    "photos": [
+      {
+        "file": "File:Shikokumura gallery01s3200.jpg",
+        "license": "CC BY 2.5",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "palazzo-del-nuoto",
+    "qid": "Q3891379",
+    "status": "photo",
+    "why": "Isozaki already has 29 buildings on the wall; the lead (Italian) names both architects. Year 2004 is from Wikidata; the lead gives no year.",
+    "name": "Palazzo del Nuoto",
+    "by": "Arata Isozaki, Pier Paolo Maggiora",
+    "city": "Turin",
+    "cc": "IT",
+    "year": 2004,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Steel & glass"
+    ],
+    "features": "Federal aquatics centre in Turin by Arata Isozaki and Pier Paolo Maggiora, beside the Olympic stadium.",
+    "commons_category": "Category:Palazzo del Nuoto",
+    "coords": [
+      45.03964,
+      7.65027
+    ],
+    "photos": [
+      {
+        "file": "File:Palanuoto Torino.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "residencia-de-senoritas",
+    "qid": "Q6106401",
+    "status": "unsure",
+    "why": "The lead gives a reason (first official university institution for women in Madrid), but 1915 is the institution's date, not the building's, so year is null. Check which building the photo shows.",
+    "name": "Residencia de Señoritas",
+    "by": "Carlos Arniches Moltó",
+    "city": "Madrid",
+    "cc": "ES",
+    "year": null,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Community",
+      "Public space",
+      "Planting"
+    ],
+    "features": "Madrid's first official university institution for women, created in 1915 by Maria de Maeztu.",
+    "commons_category": "Category:Residencia de Señoritas, Madrid",
+    "coords": [
+      40.43487,
+      -3.69072
+    ],
+    "photos": [
+      {
+        "file": "File:1911-09-14 NUEVO MUNDO.jpg",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "centro-de-arte-contemporaneo-de-malaga",
+    "qid": "Q3664802",
+    "status": "skip",
+    "why": "Luis Gutiérrez Soto has no building on the wall, and the lead is one line with no architectural reason."
+  },
+  {
+    "id": "trapholt",
+    "qid": "Q1816263",
+    "status": "unsure",
+    "why": "No main photo: the only exterior is the entrance, dominated by signs; the other photos are interiors and details.",
+    "name": "Trapholt",
+    "by": "Boje Lundgaard, Bente Aude",
+    "city": "Kolding",
+    "cc": "DK",
+    "year": 1988,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Facade as skin"
+    ],
+    "features": "A museum of contemporary art and design in Kolding, Denmark, opened in 1988.",
+    "commons_category": "Category:Trapholt",
+    "coords": [
+      55.49942,
+      9.53184
+    ],
+    "photos": [],
+    "note": "no main photo"
+  },
+  {
+    "id": "staatstheater-kassel",
+    "qid": "Q579534",
+    "status": "skip",
+    "why": "Paul Bode has no other building on the wall; the lead gives no architectural reason, and the photos are mostly signage."
+  },
+  {
+    "id": "house-dellacher",
+    "qid": "Q15858570",
+    "status": "photo",
+    "why": "The lead names Raimund Abraham and gives design reasons (a white monolith, a teahouse-style skylight, echoes of Loos). Year 1969 is the end of the 1965-1969 build.",
+    "name": "House Dellacher",
+    "by": "Raimund Abraham",
+    "city": "Oberwart",
+    "cc": "AT",
+    "year": 1969,
+    "type": "House",
+    "movement": "Regionalism",
+    "concepts": [
+      "Light from above",
+      "Void",
+      "Sculptural form"
+    ],
+    "features": "Raimund Abraham's Oberwart house: a white monolith whose dining room is lit only by a skylight.",
+    "commons_category": "Category:Haus Dellacher, Oberwart",
+    "coords": [
+      47.27905,
+      16.1716
+    ],
+    "photos": [
+      {
+        "file": "File:Oberwart Haus Dellacher.jpg",
+        "license": "CC BY-SA 3.0 at",
+        "seen": true
+      },
+      {
+        "file": "File:Oberwart Haus Dellacher 2.jpg",
+        "license": "CC BY-SA 3.0 at",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "postgebouw-van-oostende",
+    "qid": "Q15880892",
+    "status": "photo",
+    "why": "The lead (German) names Gaston Eysselinck and dates the build 1947-1953, so year 1953 is from the lead, not Wikidata's 1947. Reuse as a cultural centre is the reason it matters.",
+    "name": "Postgebouw van Oostende",
+    "by": "Gaston Eysselinck",
+    "city": "Ostend",
+    "cc": "BE",
+    "year": 1953,
+    "type": "Civic",
+    "movement": "Modernism",
+    "concepts": [
+      "Adaptive reuse",
+      "Public space",
+      "Community"
+    ],
+    "features": "Ostend's former post office, built 1947–1953 by Gaston Eysselinck and now a cultural centre.",
+    "commons_category": "Category:Postgebouw van Oostende",
+    "coords": [
+      51.22987,
+      2.91578
+    ],
+    "photos": [
+      {
+        "file": "File:Gaston 1.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Het postgebouw, G. Eysselinck - 354392 - onroerenderfgoed.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "audimax-university-of-hamburg",
+    "qid": "Q16240789",
+    "status": "skip",
+    "why": "The lead gives only the hall's size and use; Bernhard Hermkes has no other building on the wall and no architectural reason is given."
+  },
+  {
+    "id": "wall-house-ii",
+    "qid": "Q17514866",
+    "status": "photo",
+    "why": "The lead names John Hejduk and says it is one of his few realised designs. Year null: Wikidata's 1973 is the design date and the lead gives only the 2000 start of building.",
+    "name": "Wall House II",
+    "by": "John Hejduk",
+    "city": "Groningen",
+    "cc": "NL",
+    "year": null,
+    "type": "House",
+    "movement": "Deconstructivism",
+    "concepts": [
+      "Sculptural form",
+      "Free plan",
+      "Circulation"
+    ],
+    "features": "Hejduk's Wall House II, one of his few built designs, started in Groningen in 2000.",
+    "commons_category": "Category:Wall House 2",
+    "coords": [
+      53.18317,
+      6.55349
+    ],
+    "photos": [
+      {
+        "file": "File:Wall House2.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Wall House 2, Groningen - Netherland.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "gorilla-house",
+    "qid": "Q17527468",
+    "status": "photo",
+    "why": "Tecton Group and Lubetkin already have buildings on the wall; the lead gives the 1932-33 build and the Grade I listing.",
+    "name": "Gorilla House",
+    "by": "Tecton Group",
+    "city": "London",
+    "cc": "GB",
+    "year": 1933,
+    "type": "Public space",
+    "movement": "Modernism",
+    "concepts": [
+      "Sculptural form",
+      "Structure as expression",
+      "Void"
+    ],
+    "features": "Lubetkin's 1932–33 concrete drum for gorillas, the first substantial Tecton building, Grade I listed.",
+    "commons_category": "Category:Gorilla House (London Zoo)",
+    "coords": [
+      51.53652,
+      -0.15447
+    ],
+    "photos": [
+      {
+        "file": "File:Old Gorilla House London Zoo.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "our-lady-of-good-counsel-church-glasgow",
+    "qid": "Q17569097",
+    "status": "photo",
+    "why": "Gillespie, Kidd & Coia already have buildings on the wall and this is their built work; the lead is short but gives the Category A listing. Year 1965 is from Wikidata.",
+    "name": "Our Lady of Good Counsel Church, Glasgow",
+    "by": "Gillespie, Kidd & Coia",
+    "city": "Glasgow",
+    "cc": "GB",
+    "year": 1965,
+    "type": "Religious",
+    "movement": "Late modernism",
+    "concepts": [
+      "Community",
+      "Sculptural form",
+      "Structure as expression"
+    ],
+    "features": "A Glasgow Roman Catholic parish church in Dennistoun, listed Category A.",
+    "commons_category": "Category:Our Lady of Good Counsel, Dennistoun, Glasgow",
+    "coords": [
+      55.8626,
+      -4.22239
+    ],
+    "photos": [
+      {
+        "file": "File:Church of Our Lady of Good Counsel, Dennistoun (geograph 2167883).jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "matzleinsdorfer-hochhaus",
+    "qid": "Q1910907",
+    "status": "photo",
+    "why": "The lead names both architects and says it was the first high-rise of post-war municipal housing in Vienna. Year 1957 is the end of the lead's 1954-1957 build.",
+    "name": "Matzleinsdorfer Hochhaus",
+    "by": "Ladislaus Hruska, Kurt Schlauss",
+    "city": "Vienna",
+    "cc": "AT",
+    "year": 1957,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+      "Community",
+      "Cluster",
+      "Modular"
+    ],
+    "features": "Vienna's first high-rise in post-war municipal housing: 20 storeys, built 1954–1957.",
+    "commons_category": "Category:Matzleinsdorfer Hochhaus",
+    "coords": [
+      48.1811,
+      16.3564
+    ],
+    "photos": [
+      {
+        "file": "File:Matzleinsdorfer Hochhaus von Norden 1.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Matzleinsdorfer Hochhaus von Süden.jpg",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "kirche-st-antonius",
+    "qid": "Q19362363",
+    "status": "photo",
+    "why": "The lead (German) names Justus Dahinden and calls the 1968-69 round tent architecture an important witness of Swiss modernism. Main photo is a whole-building view; the first file is a close-up.",
+    "name": "Kirche St. Antonius",
+    "by": "Justus Dahinden",
+    "city": "Möriken-Wildegg",
+    "cc": "CH",
+    "year": 1969,
+    "type": "Religious",
+    "movement": "Late modernism",
+    "concepts": [
+      "Tensile structure",
+      "Sculptural form",
+      "Community"
+    ],
+    "features": "A round, tent-like parish church in Möriken-Wildegg, built 1968–1969, an important Swiss modern building.",
+    "commons_category": "Category:St. Antonius (Wildegg)",
+    "coords": [
+      47.41582,
+      8.1711
+    ],
+    "photos": [
+      {
+        "file": "File:St Antonius Wildegg 1.JPG",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Möriken-Wildegg St.Antonius S.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "stadtarchiv-munchen",
+    "qid": "Q2326571",
+    "status": "skip",
+    "why": "The lead describes the archive's holdings and an older military-office part, with no architectural reason; the architects have no buildings on the wall."
+  },
+  {
+    "id": "st-wolfgang-landshut",
+    "qid": "Q26385858",
+    "status": "skip",
+    "why": "The lead calls it only a modern church by Friedrich Haindl; it gives no reason it matters and Haindl has no building on the wall."
+  },
+  {
+    "id": "erloserkirche",
+    "qid": "Q26822138",
+    "status": "skip",
+    "why": "The lead says only that it is a modern church in Landshut; no reason it matters, and Hans Döllgast has no building on the wall."
+  },
+  {
+    "id": "ex-linificio-e-canapificio-nazionale",
+    "qid": "Q3735796",
+    "status": "skip",
+    "why": "The lead covers only the factory's history and current city use, with no architectural reason; Carlo Savonuzzi has no building on the wall."
+  },
+  {
+    "id": "durant-hall",
+    "qid": "Q107294148",
+    "status": "photo",
+    "why": "John Galen Howard is not on the wall. The lead names the Beaux-Arts movement and the building's campus setting, and gives the 1911 dedication.",
+    "name": "Durant Hall",
+    "by": "John Galen Howard",
+    "city": "Berkeley",
+    "cc": "US",
+    "year": 1911,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Axis",
+      "Facade as skin"
+    ],
+    "features": "John Galen Howard's Beaux-Arts law building, first dedicated in 1911 as the Boalt Memorial Hall of Law.",
+    "commons_category": "Category:Durant Hall",
+    "coords": [
+      37.87126,
+      -122.2601
+    ],
+    "photos": [
+      {
+        "file": "File:Durant Hall - 2015-07-25.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "mother-s-building",
+    "qid": "Q115152191",
+    "status": "photo",
+    "why": "The lead gives the 1925 build and several landmark listings, which is the reason it matters; George W. Kelham has no building on the wall. Main photo is a 1979 print.",
+    "name": "Mother's Building",
+    "by": "George W. Kelham",
+    "city": "San Francisco",
+    "cc": "US",
+    "year": 1925,
+    "type": "Public space",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Detail"
+    ],
+    "features": "A 1925 arcaded building with WPA-era murals, listed on the National Register of Historic Places.",
+    "commons_category": "Category:Mother's Building",
+    "coords": [
+      37.73472,
+      -122.5025
+    ],
+    "photos": [
+      {
+        "file": "File:Mother's Building entrance, 1979.png",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "teatr-im-wilama-horzycy",
+    "qid": "Q118314065",
+    "status": "photo",
+    "why": "Fellner & Helmer already have four buildings on the wall, and this is their theatre; the Polish lead is one line. Year 1904 is from Wikidata.",
+    "name": "Teatr im. Wilama Horzycy",
+    "by": "Fellner & Helmer",
+    "city": "Toruń",
+    "cc": "PL",
+    "year": 1904,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "Toruń's drama theatre, housed in the building at Teatralny Square 1.",
+    "commons_category": "Category:Wilam Horzyca Theatre in Toruń",
+    "coords": [
+      53.0125,
+      18.6036
+    ],
+    "photos": [
+      {
+        "file": "File:Teatr im. Wilama Horzycy od strony Fosy Staromiejskiej sm3.jpg",
+        "license": "CC BY-SA 3.0 pl",
+        "seen": true
+      },
+      {
+        "file": "File:Fasada Teatru im. Wilama Horzycy w Toruniu.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "hilgard-hall",
+    "qid": "Q119361194",
+    "status": "photo",
+    "why": "John Galen Howard is not on the wall. The lead names him, the Neo-classical and Northern Italian Renaissance styles, and the NRHP listing; year 1917 is from the lead.",
+    "name": "Hilgard Hall",
+    "by": "John Galen Howard, Walter Ratcliff",
+    "city": "Berkeley",
+    "cc": "US",
+    "year": 1917,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Axis",
+      "Facade as skin"
+    ],
+    "features": "John Galen Howard's 1917 hall in Neo-classical and Northern Italian Renaissance style at Berkeley.",
+    "commons_category": "Category:Hilgard Hall (Berkeley, California)",
+    "coords": [
+      37.8733,
+      -122.2634
+    ],
+    "photos": [
+      {
+        "file": "File:Hilgard Hall (Berkeley, CA).JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Hilgard Hall-4.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "konigliche-anatomie",
+    "qid": "Q1305154",
+    "status": "photo",
+    "why": "The lead names Max Littmann and says the 1905-1907 building is among Germany's first large reinforced-concrete buildings.",
+    "name": "Königliche Anatomie",
+    "by": "Max Littmann",
+    "city": "Munich",
+    "cc": "DE",
+    "year": 1907,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Structure as expression",
+      "Facade as skin",
+      "Monumentality"
+    ],
+    "features": "Among the first large reinforced-concrete buildings in Germany, built 1905–1907 by Max Littmann.",
+    "commons_category": "Category:Königliche Anatomie (München)",
+    "coords": [
+      48.1339,
+      11.56
+    ],
+    "photos": [
+      {
+        "file": "File:AnatomischeAnstaltMuenchen.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Anatomie der LMU 9131.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "harvard-union",
+    "qid": "Q14715521",
+    "status": "photo",
+    "why": "McKim, Mead & White already have eight buildings on the wall. The second 'architect' in Wikidata is an unlabelled ID, so it is left out. Year 1900 is from Wikidata.",
+    "name": "Harvard Union",
+    "by": "McKim, Mead & White",
+    "city": "Cambridge",
+    "cc": "US",
+    "year": 1900,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Community",
+      "Public space",
+      "Monumentality"
+    ],
+    "features": "Once Harvard's Freshman Union, now the Barker Center, on Quincy and Harvard Streets in Cambridge.",
+    "commons_category": "Category:Harvard Union",
+    "coords": [
+      42.37253,
+      -71.11453
+    ],
+    "photos": [
+      {
+        "file": "File:Harvard Union - Quincy and Harvard Streets, Cambridge, MA - IMG 4068.JPG",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "pfarrkirche-unbeflecktes-herz-maria-rudolfsheim-funfhaus",
+    "qid": "Q1508777",
+    "status": "skip",
+    "why": "The lead describes a church built into a housing block and says nothing about why it matters; Josef Vytiska has no building on the wall."
+  },
+  {
+    "id": "deluca-biochemistry-building",
+    "qid": "Q18739425",
+    "status": "photo",
+    "why": "Paul Philippe Cret has a building on the wall and this is a built work of his firm; the lead's reason is the vitamin discoveries. Year 1912 is from Wikidata.",
+    "name": "DeLuca Biochemistry Building",
+    "by": "Warren Powers Laird, Paul Philippe Cret",
+    "city": "Madison",
+    "cc": "US",
+    "year": 1912,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Axis",
+      "Facade as skin"
+    ],
+    "features": "University of Wisconsin building where vitamins A and B were discovered, and vitamin D processing developed.",
+    "commons_category": "Category:DeLuca Biochemistry Building",
+    "coords": [
+      43.0739,
+      -89.4106
+    ],
+    "photos": [
+      {
+        "file": "File:Agricultural Chemistry Building, University of Wisconsin.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "amtshaus-brigittenau",
+    "qid": "Q1884202",
+    "status": "skip",
+    "why": "The lead says only that it is a protected administrative building; no architectural reason, and Karl Badstieber has no building on the wall."
+  },
+  {
+    "id": "stadttheater-baden",
+    "qid": "Q2328187",
+    "status": "photo",
+    "why": "Fellner & Helmer already have four buildings on the wall; the German lead is short but names the theatre. Year 1909 is from Wikidata.",
+    "name": "Stadttheater Baden",
+    "by": "Fellner & Helmer",
+    "city": "Baden",
+    "cc": "AT",
+    "year": 1909,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "Baden's city theatre in Lower Austria, staging operettas and musicals.",
+    "commons_category": "Category:Stadttheater Baden",
+    "coords": [
+      48.0096,
+      16.2353
+    ],
+    "photos": [
+      {
+        "file": "File:Stadttheater Baden 2010.jpg",
+        "license": "CC BY 3.0 at",
+        "seen": true
+      },
+      {
+        "file": "File:Baden Stadt-Theater.jpg",
+        "license": "CC BY-SA 3.0 at",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "thomas-a-hendricks-library",
+    "qid": "Q24062120",
+    "status": "skip",
+    "why": "A listed Colonial Revival college library; the lead gives style detail but no reason it matters, and Patton & Miller have no building on the wall."
+  },
+  {
+    "id": "villa-carl-feldafing",
+    "qid": "Q24324248",
+    "status": "photo",
+    "why": "The lead (German) names Richard Riemerschmid and gives the 1910-1912 build, the original interior and the listing. Jugendstil is the lead's own style term.",
+    "name": "Villa Carl (Feldafing)",
+    "by": "Richard Riemerschmid",
+    "city": "Feldafing",
+    "cc": "DE",
+    "year": 1912,
+    "type": "House",
+    "movement": "Art Nouveau",
+    "concepts": [
+      "Brick",
+      "Detail",
+      "Planting"
+    ],
+    "features": "Riemerschmid's 1910–12 Jugendstil villa in Feldafing, with its fully preserved original interior.",
+    "commons_category": "Category:Villa Carl (Feldafing)",
+    "coords": [
+      47.94361,
+      11.29214
+    ],
+    "photos": [
+      {
+        "file": "File:Feldafing, Villa Carl-01.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Feldafing Villa Carl 920.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "haus-freudenberg",
+    "qid": "Q26216210",
+    "status": "photo",
+    "why": "The lead names Hermann Muthesius. Year 1908 is the end of the lead's 1907-1908 build; the plaque gives 1906-1907, so check if it matters.",
+    "name": "Haus Freudenberg",
+    "by": "Hermann Muthesius",
+    "city": "Berlin",
+    "cc": "DE",
+    "year": 1908,
+    "type": "House",
+    "movement": "Regionalism",
+    "concepts": [
+      "Planting",
+      "Facade as skin",
+      "Detail"
+    ],
+    "features": "Hermann Muthesius's Berlin-Nikolassee house for Hermann Freudenberg, now under monument protection.",
+    "commons_category": "Category:Haus Freudenberg",
+    "coords": [
+      52.42451,
+      13.20259
+    ],
+    "photos": [
+      {
+        "file": "File:Potsdamer Chaussee 48 (Berlin-Nikolassee).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "sioux-city-public-library-smith-villa-branch",
+    "qid": "Q28125868",
+    "status": "photo",
+    "why": "The lead gives the 1927 completion and the reason it matters: Prairie School design lasting in the Midwest after Chicago. William L. Steele has no building on the wall.",
+    "name": "Sioux City Public Library (Smith Villa Branch)",
+    "by": "William L. Steele",
+    "city": "Sioux City",
+    "cc": "US",
+    "year": 1927,
+    "type": "Library",
+    "movement": "Regionalism",
+    "concepts": [
+      "Brick",
+      "Community",
+      "Public space"
+    ],
+    "features": "A Prairie School library in Sioux City, Iowa, completed in 1927 long after the style faded in Chicago.",
+    "commons_category": "Category:Sioux City Public Library - Smith Villa Branch",
+    "coords": [
+      42.50642,
+      -96.42742
+    ],
+    "photos": [
+      {
+        "file": "File:Sioux City Public Library Smith Villa from E 1.JPG",
+        "license": "CC0",
+        "seen": true
+      },
+      {
+        "file": "File:Sioux City Public Library Smith Villa from SE 1.JPG",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "fritz-schumacher-schule",
+    "qid": "Q28946766",
+    "status": "photo",
+    "why": "Fritz Schumacher is not on the wall (Patrik Schumacher is). The German lead gives the 1931 build, the Heimatschutz style (a named regional movement) and the monument listing.",
+    "name": "Fritz-Schumacher-Schule",
+    "by": "Fritz Schumacher",
+    "city": "Hamburg",
+    "cc": "DE",
+    "year": 1931,
+    "type": "Education",
+    "movement": "Regionalism",
+    "concepts": [
+      "Brick",
+      "Community",
+      "Facade as skin"
+    ],
+    "features": "Fritz Schumacher's 1931 school in Heimatschutz style, now a listed building in Hamburg-Langenhorn.",
+    "commons_category": "Category:Fritz-Schumacher-Schule",
+    "coords": [
+      53.65637,
+      10.02241
+    ],
+    "photos": [
+      {
+        "file": "File:Fritz-Schumacher-Schule (Hamburg-Langenhorn).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "albany-municipal-auditorium",
+    "qid": "Q4709350",
+    "status": "skip",
+    "why": "A 1915 municipal auditorium; the lead gives its seats and a register listing but no architectural reason. A. Ten Eyck Brown has no building on the wall."
+  },
+  {
+    "id": "alta-public-library",
+    "qid": "Q4735995",
+    "status": "skip",
+    "why": "An NRHP library kept mainly for its history beside a settlement house; the lead gives no architectural reason, and George B. Post has no building on the wall."
+  },
+  {
+    "id": "streator-public-library",
+    "qid": "Q48837718",
+    "status": "skip",
+    "why": "A Carnegie library in Classical Revival style, NRHP-listed; the lead gives no architectural reason, and Patton & Miller have no building on the wall."
+  },
+  {
+    "id": "council-bluffs-public-library",
+    "qid": "Q5176210",
+    "status": "skip",
+    "why": "The photos show the Union Pacific Railroad Museum, not the library, and the lead describes a 1998 library; which building the 1905 date refers to is unclear."
+  },
+  {
+    "id": "grecian-shelter",
+    "qid": "Q5601553",
+    "status": "photo",
+    "why": "McKim, Mead & White already have eight buildings on the wall. The lead gives the 1905 build and the Corinthian peristyle.",
+    "name": "Grecian Shelter",
+    "by": "McKim, Mead & White",
+    "city": "Brooklyn",
+    "cc": "US",
+    "year": 1905,
+    "type": "Pavilion",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Monumentality",
+      "Landscape"
+    ],
+    "features": "A Corinthian-columned peristyle of 1905 by McKim, Mead & White in Brooklyn's Prospect Park.",
+    "commons_category": "Category:Peristyle, Prospect Park",
+    "coords": [
+      40.65361,
+      -73.9675
+    ],
+    "photos": [
+      {
+        "file": "File:Grecian Shelter shade jeh.JPG",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "hearst-memorial-mining-building",
+    "qid": "Q5691716",
+    "status": "photo",
+    "why": "Howard is not on the wall. The lead names him, the Beaux-Arts style, Julia Morgan's help and the landmark listing; year 1907 is from Wikidata.",
+    "name": "Hearst Memorial Mining Building",
+    "by": "John Galen Howard",
+    "city": "Berkeley",
+    "cc": "US",
+    "year": 1907,
+    "type": "Education",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Axis",
+      "Facade as skin"
+    ],
+    "features": "John Galen Howard's Beaux-Arts Classical Revival building, the first Howard building on the Berkeley campus.",
+    "commons_category": "Category:Hearst Memorial Mining Building",
+    "coords": [
+      37.87444,
+      -122.25611
+    ],
+    "photos": [
+      {
+        "file": "File:Hearst Mining Building.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "gemeindehaus-der-matthausgemeinde",
+    "qid": "Q61769145",
+    "status": "photo",
+    "why": "The German lead names Otto Rudolf Salvisberg and Rudolf W. Reichel, gives the 1928-1930 build, the style and the listing. Year 1930 is the end of that build.",
+    "name": "Gemeindehaus der Matthäusgemeinde",
+    "by": "Otto Rudolf Salvisberg",
+    "city": "Berlin",
+    "cc": "DE",
+    "year": 1930,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Community",
+      "Facade as skin",
+      "Public space"
+    ],
+    "features": "Otto Rudolf Salvisberg's 1928–30 parish house in Neue Sachlichkeit style, his only free-standing one.",
+    "commons_category": "Category:Gemeindehaus der Matthäusgemeinde (Berlin-Steglitz)",
+    "coords": [
+      52.45597,
+      13.31847
+    ],
+    "photos": [
+      {
+        "file": "File:120410-Steglitz-Schloßstraße-44-Gemeindehaus.JPG",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Frontseite Richtung Schlossstrasse.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "odd-fellows-building-and-auditorium",
+    "qid": "Q7077339",
+    "status": "unsure",
+    "why": "No main photo: the images are plans and an elevation drawing, not photos. The lead gives a strong reason (Odd Fellows history, Booker T. Washington's dedication); William Augustus Edwards is not on the wall.",
+    "name": "Odd Fellows Building and Auditorium",
+    "by": "William Augustus Edwards",
+    "city": "Atlanta",
+    "cc": "US",
+    "year": 1912,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Community",
+      "Public space",
+      "Monumentality"
+    ],
+    "features": "Atlanta's Odd Fellows headquarters and auditorium, built 1912–1913, dedicated by Booker T. Washington.",
+    "commons_category": "Category:Odd Fellows Building and Auditorium",
+    "coords": [
+      33.75556,
+      -84.37944
+    ],
+    "photos": [],
+    "note": "no main photo"
+  },
+  {
+    "id": "royal-e-robbins-school",
+    "qid": "Q7374128",
+    "status": "skip",
+    "why": "A 1901 school with no photos at all; the lead gives only its use and a register listing, and Hartwell and Richardson have no building on the wall."
+  },
+  {
+    "id": "schenectady-city-hall",
+    "qid": "Q7431149",
+    "status": "photo",
+    "why": "McKim, Mead & White already have eight buildings on the wall. The lead gives the build as 1931-1933, so year 1933 is from the lead.",
+    "name": "Schenectady City Hall",
+    "by": "McKim, Mead & White",
+    "city": "Schenectady",
+    "cc": "US",
+    "year": 1933,
+    "type": "Civic",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Axis",
+      "Facade as skin"
+    ],
+    "features": "McKim, Mead & White's Federal-revival city hall of 1931–33, with a square clock tower and an Ionic portico.",
+    "commons_category": "Category:Schenectady City Hall",
+    "coords": [
+      42.81389,
+      -73.93917
+    ],
+    "photos": [
+      {
+        "file": "File:Schenectady, NY, city hall.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:SchenectadyCityHallFront.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "soldiers-and-sailors-memorial-auditorium",
+    "qid": "Q7557405",
+    "status": "skip",
+    "why": "A 1924 memorial auditorium; the lead calls the architect noted but gives no architectural reason, and R. H. Hunt has no building on the wall."
+  },
+  {
+    "id": "walhalla-graded-school",
+    "qid": "Q7961893",
+    "status": "skip",
+    "why": "A school with no photos at all; the lead gives no architectural reason, and William Augustus Edwards is not the architect on the wall."
+  },
+  {
+    "id": "woodend-chevy-chase-maryland",
+    "qid": "Q8032614",
+    "status": "skip",
+    "why": "A Georgian Revival house, NRHP-listed; the lead gives no architectural reason beyond its listing, and John Russell Pope has no building on the wall."
+  },
+  {
+    "id": "belgrade-city-hall-and-jail",
+    "qid": "Q85746428",
+    "status": "skip",
+    "why": "A small city hall and jail; the lead gives only a style note and a register listing, and Fred F. Willson has no building on the wall."
+  },
+  {
+    "id": "happy-four-shelter",
+    "qid": "Q96145872",
+    "status": "skip",
+    "why": "A forest-service emergency shelter; the lead gives its rustic style and a register listing, with no architectural reason. Its date is only 'mid-1930s'."
+  },
+  {
+    "id": "palace-of-europe",
+    "qid": "Q465591",
+    "status": "skip",
+    "why": "The lead gives only the building's role as the Council of Europe seat; no architectural reason, and Henry Bernard has no building on the wall."
+  },
+  {
+    "id": "kunstlerhaus-am-lenbachplatz",
+    "qid": "Q188101",
+    "status": "photo",
+    "why": "The lead (German) calls Gabriel von Seidl a well-known Munich architect, gives the Neo-Renaissance style and the listing. Year 1900 from Wikidata; the lead says 'around 1900'.",
+    "name": "Künstlerhaus am Lenbachplatz",
+    "by": "Gabriel von Seidl",
+    "city": "Munich",
+    "cc": "DE",
+    "year": 1900,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "Munich's listed artists' club house, a Neo-Renaissance building by Gabriel von Seidl from around 1900.",
+    "commons_category": "Category:Künstlerhaus am Lenbachplatz (München)",
+    "coords": [
+      48.14003,
+      11.56777
+    ],
+    "photos": [
+      {
+        "file": "File:20230410 Künstlerhaus Munich.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Künstlerhaus am Lenbachplatz (München) 01.jpg",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "mount-baker-theatre",
+    "qid": "Q6919594",
+    "status": "photo",
+    "why": "Robert Reamer already has two buildings on the wall; the lead gives the national historic landmark listing and the seat count. Year 1927 is from Wikidata.",
+    "name": "Mount Baker Theatre",
+    "by": "Robert Reamer",
+    "city": "Bellingham",
+    "cc": "US",
+    "year": 1927,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Monumentality"
+    ],
+    "features": "Bellingham's national historic landmark theatre, with 1,517 seats and the largest stage north of Seattle.",
+    "commons_category": "Category:Mount Baker Theatre",
+    "coords": [
+      48.7522,
+      -122.477
+    ],
+    "photos": [
+      {
+        "file": "File:Mount Baker Theatre.JPG",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Mount Baker Theatre 2.JPG",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "haus-scharoun",
+    "qid": "Q111488104",
+    "status": "skip",
+    "why": "The lead is empty, so skipped by rule. Hans Scharoun has nine buildings on the wall; once a lead exists it could be reconsidered."
+  },
+  {
+    "id": "ernst-ludwig-house",
+    "qid": "Q115181308",
+    "status": "skip",
+    "why": "The lead is empty, so skipped by rule. Joseph Maria Olbrich has two buildings on the wall; once a lead exists it could be reconsidered."
+  },
+  {
+    "id": "casa-modes-tapias",
+    "qid": "Q124316505",
+    "status": "skip",
+    "why": "The lead is empty, so skipped by rule. Josep Maria Jujol has four buildings on the wall; once a lead exists it could be reconsidered."
+  },
+  {
+    "id": "fahrenkamp-extension",
+    "qid": "Q76012362",
+    "status": "skip",
+    "why": "The lead is empty, so skipped by rule. Emil Fahrenkamp has one building on the wall; once a lead exists it could be reconsidered."
+  }
+]
