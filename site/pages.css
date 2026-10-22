@@ -244,3 +244,14 @@ img { max-width: 100%; display: block; }
   .foot { padding-bottom: calc(180px + env(safe-area-inset-bottom, 0px)); } /* room for Next above the dock */
 }
 @media (max-width: 380px) { .where { width: 116px; } }
+
+/* Rows that scroll sideways (rows.js): red dots under the row, arrows over its ends. */
+.rowdots { display: flex; justify-content: center; padding-top: 2px; }
+.rowdots:empty { display: none; }
+.rowdots button { all: unset; cursor: pointer; display: flex; padding: 8px 3px; }
+.rowdots button::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--red-pale); }
+.rowdots button.on::before { background: var(--red); }
+.rowarr { all: unset; box-sizing: border-box; position: absolute; z-index: 3; width: 36px; height: 36px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: var(--glass-strong); border: 1px solid var(--hair); box-shadow: var(--glass-shadow); }
+.rowarr[hidden] { display: none; }
+.rowarr svg { width: 18px; height: 18px; fill: none; stroke: var(--ink); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+@media (hover: hover) { .rowarr:hover { border-color: var(--red); } .rowarr:hover svg { stroke: var(--red); } }
