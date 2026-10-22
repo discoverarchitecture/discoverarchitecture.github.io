@@ -190,3 +190,8 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Perth Stadium (Optus Stadium) | Hassell, HKS and Cox | Perth, AU |
 | Kraus House | Frank Lloyd Wright | Kirkwood, US |
 | Biblioteca Raúl Rangel Frías | Ricardo Legorreta | Monterrey, MX |
+| Majestic Theatre (San Antonio) | John Eberson | San Antonio, US |
+| Crater Lake Superintendent's Residence | National Park Service | Crater Lake National Park, US |
+| Gamble House (Pasadena, California) | Greene and Greene | Pasadena, US |
+| Villa Primavesi | Franz von Krauss | Olomouc, CZ |
+| Ormen Långe | Ralph Erskine | Svappavaara, SE |

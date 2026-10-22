@@ -1,277 +1,302 @@
 {
  "keep_ok": [
-  "church-of-st-basil-of-ostrog-belgrade",
-  "ishikawa-nanao-art-museum",
-  "dia-beacon",
-  "otsuka-museum-of-art",
-  "550-south-tryon",
-  "new-synagogue-mainz",
-  "ardmore-residence",
-  "paulinum-university-of-leipzig",
-  "grandstand-us-open",
-  "atchugarry-museum-of-contemporary-art",
-  "spiral-house",
-  "beit-avi-chai",
-  "pantanal-aquarium",
-  "santiago-del-estero-forum"
+  "naturtheater-grotzingen",
+  "majestic-theatre",
+  "renaissance-theater",
+  "villa-allegonda",
+  "aon-center",
+  "33-thomas-street",
+  "norfolk-scope",
+  "la-spezia-cathedral",
+  "vestersohus",
+  "stadsschouwburg-nijmegen",
+  "casa-rotalinti",
+  "stelling-house",
+  "jingliao-holy-cross-church",
+  "villa-primavesi",
+  "coliseum-theater",
+  "neu-st-alban",
+  "adria-palace",
+  "vila-franze-strosse",
+  "lescaze-house",
+  "ormen-lange",
+  "international-conference-center-hiroshima",
+  "onyx-theater",
+  "rundkino-dresden",
+  "olympia-theater-miami",
+  "apostel-johannes-gemeindezentrum",
+  "gebouw-a-radio-kootwijk",
+  "john-sowden-house",
+  "lake-quinault-lodge",
+  "mercado-de-abastos",
+  "bauerova-vila",
+  "grosses-haus-gluckert",
+  "stichweh-wohnhaus",
+  "vila-tychonova-4",
+  "villa-kenwin",
+  "chiesa-dei-santi-pietro-e-girolamo",
+  "palazzo-delle-poste",
+  "langham-house-close",
+  "wrva-building",
+  "mullersches-volksbad",
+  "dum-radost",
+  "communal-house-of-the-textile-institute",
+  "scholes-hall",
+  "joseph-h-brown-elementary-school",
+  "hochhaus-wurttembergische-strasse-6",
+  "case-study-house-no-1",
+  "chiesa-dei-santi-giovanni-e-paolo"
  ],
  "keep_fix": [
   {
-   "id": "church-of-st-basil-of-ostrog-belgrade",
-   "field": "movement",
-   "haiku": "Historic precedent",
-   "should_be": "Regionalism",
-   "why": "The church was completed in 2001; 'Historic precedent' is for old key buildings. It revives an old-Christian rotunda plan, which fits Regionalism."
-  },
-  {
-   "id": "dia-beacon",
+   "id": "naturtheater-grotzingen",
    "field": "by",
-   "haiku": "Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
-   "should_be": "Robert Irwin, Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
-   "why": "Wikidata names Robert Irwin and the lead says the 1929 Nabisco factory was renovated by Dia with Irwin and the OpenOffice architects, so Irwin should not be dropped (the features line already names him)."
+   "haiku": "Michael Balz",
+   "should_be": "Michael Balz, Heinz Isler",
+   "why": "the lead says it was designed by architect Michael Balz and structural engineer Heinz Isler, and Wikidata's architect is Isler; the shell is Isler's, so dropping him loses the reason it is on the wall."
   },
   {
-   "id": "new-synagogue-mainz",
+   "id": "villa-allegonda",
+   "field": "by",
+   "haiku": "Hendrik Jesse, J. J. P. Oud, Albert Aalbers",
+   "should_be": "Hendrik Jesse, J. J. P. Oud",
+   "why": "Aalbers (born 1897) was 20 in 1917 and is only associated with the later 1957 conversion to Hotel Savoy named in the lead; the dates make him impossible as an original designer."
+  },
+  {
+   "id": "mercado-de-abastos",
+   "field": "by",
+   "haiku": "Manuel Sánchez Arcas",
+   "should_be": "Manuel Sánchez Arcas, Eduardo Torroja",
+   "why": "the lead says it was designed by Sánchez Arcas in collaboration with the engineer Eduardo Torroja, and the building is also called the Mercado Sánchez Arcas Torroja; Torroja is already on the wall."
+  },
+  {
+   "id": "case-study-house-no-1",
+   "field": "by",
+   "haiku": "JR (Julius Ralph) Davidson",
+   "should_be": "J. R. Davidson",
+   "why": "the lead writes 'JR Davidson'; the bracketed Wikidata form will not match the wall's name style. Cosmetic."
+  },
+  {
+   "id": "villa-primavesi",
+   "field": "year",
+   "haiku": 1906,
+   "should_be": 1900,
+   "why": "1906 comes only from a photo caption, which is not a source, and the lead has no date; prep's year is 1900 (plausible for Franz von Krauss). The caption's 1905-06 conflicts with it, so null is the safer alternative if the owner prefers no year."
+  },
+  {
+   "id": "jingliao-holy-cross-church",
+   "field": "features",
+   "haiku": "A church in Jingliao Village, Tainan, Taiwan, designed by Gottfried Böhm.",
+   "should_be": "A church in Jingliao Village, Houbi District, Tainan, Taiwan.",
+   "why": "the lead names no designer; 'designed by Gottfried Böhm' is not in the lead (it is Wikidata's architect only), so it breaks the features-from-the-lead rule. Movement 'Expressionism' is also only a judgement."
+  },
+  {
+   "id": "majestic-theatre",
+   "field": "name",
+   "haiku": "Majestic Theatre",
+   "should_be": "Majestic Theatre (San Antonio)",
+   "why": "the English Wikipedia title is 'Majestic Theatre (San Antonio)'; the bare name is ambiguous among many Majestic theatres."
+  },
+  {
+   "id": "aon-center",
+   "field": "name",
+   "haiku": "Aon Center",
+   "should_be": "Aon Center (Los Angeles)",
+   "why": "the English Wikipedia title is 'Aon Center (Los Angeles)'; a second Aon Center exists in Chicago."
+  },
+  {
+   "id": "coliseum-theater",
+   "field": "name",
+   "haiku": "Coliseum Theater",
+   "should_be": "Coliseum Theater (Seattle)",
+   "why": "the English Wikipedia title is 'Coliseum Theater (Seattle)'; the bare name is ambiguous."
+  },
+  {
+   "id": "neu-st-alban",
    "field": "movement",
-   "haiku": "Modernism",
-   "should_be": "Deconstructivism",
-   "why": "The photos show an angular, folded, dark-clad form; the lead's 'Modernist-styled' is generic. Optional: Modernism is also defensible from the lead."
+   "haiku": "Regionalism",
+   "should_be": "Modernism",
+   "why": "nothing in the lead ties the church to a region or a vernacular; it is a 1958-59 postwar church of reclaimed rubble brick, which fits Modernism, with Reclaimed material and Brick as concepts."
   },
   {
-   "id": "spiral-house",
+   "id": "vila-franze-strosse",
+   "field": "movement",
+   "haiku": "Art Deco",
+   "should_be": "Modernism",
+   "why": "the lead says only rounded, ship-like forms; Schoder's 1920s villa is a Neues-Bauen work, and 'Art Deco' is not supported by anything in the lead."
+  },
+  {
+   "id": "33-thomas-street",
    "field": "concepts",
-   "haiku": "Exposed concrete",
-   "should_be": "Stone (replace 'Exposed concrete')",
-   "why": "The lead says the facade is plaster, pink glass and stone fragments, not exposed concrete."
+   "haiku": [
+    "Monumentality",
+    "Facade as skin",
+    "Void"
+   ],
+   "should_be": [
+    "Monumentality",
+    "Facade as skin",
+    "Sculptural form"
+   ],
+   "why": "'Void' does not describe a windowless solid slab; Sculptural form fits the blank mass better. Minor."
   }
  ],
  "keep_wrong": [
   {
-   "id": "church-of-st-cyril-of-turau-and-all-the-patron-saints-of-the-belarusian-people",
-   "why": "Same building as an existing wall entry (position 182 is on the duplicate list); must stay skipped."
+   "id": "theater-giessen",
+   "why": "revival-style municipal theatre; the lead gives only its style (neo-classical with Jugendstil touches), date and seating; Fellner & Helmer on the wall is not a design reason. Movement 'Art Nouveau' also overstates the lead."
   },
   {
-   "id": "twin-towers-ramat-gan",
-   "why": "Ordinary pair of 14-floor office towers; the lead only says reflective glass in a postmodern style, no record, prize or famous key work, so it fails the office-tower rule."
+   "id": "1251-avenue-of-the-americas",
+   "why": "ordinary late office tower; the lead describes a plain cuboid with striped facade, no first, record or key-work claim (Wallace Harrison's late Rockefeller Center extension). Borderline: lead does say International style."
+  },
+  {
+   "id": "st-jerome-seminary-augsburg",
+   "why": "the lead is the seminary's institutional history back to the 16th century, not this building; nothing in it supports a design reason, and the features line is not about the 1970 building. Branca's name comes only from Wikidata."
+  },
+  {
+   "id": "albert-kahn-house",
+   "why": "Kahn's own modest 1906 house; the lead gives only listings and current use (Detroit Urban League); not a key work and not an architecturally notable type. Borderline under the famous-architect rule."
+  },
+  {
+   "id": "maccabees-building",
+   "why": "office building; the lead gives only NRHP listing and ownership, no design reason."
+  },
+  {
+   "id": "oradea-state-theatre",
+   "why": "revival-style theatre (neoclassical with neo-Renaissance, neo-Baroque, rococo ornament); the lead gives style and build time only; Fellner & Helmer's theatres are the kind the strict rule excludes."
+  },
+  {
+   "id": "the-egyptian-theatre",
+   "why": "themed revival cinema; lead gives local 'oldest theatre in the city' and Karnak-inspired ornament, no design reason beyond pastiche. Main photo is also dominated by marquee and signs."
+  },
+  {
+   "id": "115th-street-library",
+   "why": "Neo-Italian Renaissance Carnegie branch; lead gives history and listing only; kept by Haiku on the architect-on-wall test alone."
+  },
+  {
+   "id": "hamilton-grange-library",
+   "why": "Italian Renaissance Revival Carnegie branch; lead gives history, NYC landmark and NRHP listing only; same architect-on-wall reasoning as the 115th Street branch."
+  },
+  {
+   "id": "flora-lamson-hewlett-library",
+   "why": "lead is about the collection and borrowing rules, names no architect and says nothing of the building. Wikidata's Louis Kahn died in 1974, so a 1981 building credited to him is not credible. 'Brutalism' and the features line (Kahn) are unsupported."
+  },
+  {
+   "id": "stadttheater-furth",
+   "why": "Baroque Revival theatre; lead gives style, seating and the Czernowitz twin, no design reason. 'by' also repeats the firm three times."
+  },
+  {
+   "id": "perry-belmont-house",
+   "why": "French-style revival mansion (headquarters of a fraternal order); lead gives style and listings only; Trumbauer/Sanson are not a design reason."
+  },
+  {
+   "id": "warner-theatre-erie-pennsylvania",
+   "why": "revival-style movie palace; lead gives 'Art Deco and French Renaissance-styled', NRHP and use; no design reason. Main photo is dominated by the vertical WARNER sign."
+  },
+  {
+   "id": "william-h-moore-house",
+   "why": "Renaissance Revival townhouse, now a commercial building, with a recessed 1990s sixth storey; lead gives style and ownership history only."
+  },
+  {
+   "id": "saratoga-foothill-club",
+   "why": "lead gives only the NRHP listing and nothing on design; small clubhouse, and Julia Morgan's famous work (Hearst Castle) is not this kind of building. Borderline under the famous-architect rule."
+  },
+  {
+   "id": "gilbert-m-simmons-memorial-library",
+   "why": "lead gives only NRHP listing and 'first location of the Kenosha library'; Burnham's name is not a design reason for a small library. Year 1900 is also Wikidata's only."
+  },
+  {
+   "id": "sara-delano-roosevelt-memorial-house",
+   "why": "Neo-Georgian townhouse; lead is about the Roosevelt family and later ownership (Hunter College), not design."
+  },
+  {
+   "id": "bebelhof",
+   "why": "municipal housing block; lead gives only dates and architect, no design reason; a lesser Karl Ehn work than the Karl-Marx-Hof already on the wall."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "ishikawa-nanao-art-museum",
-   "better_file_or_null": null,
-   "why": "Marginal: the only photo shows the low building far away across a lawn behind trees. Whole building in daylight, so keepable, but weak as a wall tile; look for a better one when possible."
+   "id": "jingliao-holy-cross-church",
+   "better_file_or_null": "File:菁寮天主堂.jpg",
+   "why": "the first photo (Saint Cross Church, Jingliao, Tainan) is a tight crop with poles and cables across the cones; the 7360x4912 file shows the whole pyramid-roofed church under a clear sky."
   },
   {
-   "id": "cite-de-la-mode-et-du-design",
-   "better_file_or_null": null,
-   "why": "Haiku's main (the terrace with rainbow chairs) is not the building, and its replacements are the 2018 Seine flood (flooded quay, the building only distant or the older warehouse). No photo in prep shows the Jakob+MacFarlane building as the clear subject; keep it off the wall until one is found (a good building: Jakob + MacFarlane, opened 2010)."
+   "id": "villa-primavesi",
+   "better_file_or_null": "File:Vila Primavesi v Olomouci.jpg",
+   "why": "the first photo (ze zahrady) has cafe guests in the foreground and cuts the villa; this street view shows the whole villa with its towers and wall, no people."
   },
   {
-   "id": "pantanal-aquarium",
-   "better_file_or_null": "File:Bioparque Pantanal 37.jpg",
-   "why": "Haiku's first photo (02) is a cropped entrance with visitors in frame. The Wikidata main (37) shows the whole building, though grey and distant; decide between the two."
+   "id": "john-sowden-house",
+   "better_file_or_null": "File:Sowden House.jpg",
+   "why": "the first photo hides the textile-block facade behind palms and plants; this 4032x3024 street view shows the whole facade in daylight (cars at the kerb, acceptable)."
+  },
+  {
+   "id": "olympia-theater-miami",
+   "better_file_or_null": "File:Olympia Theatre (Miami, Florida) 1.jpg",
+   "why": "the first photo is the OLYMPIA marquee and sign, which is a sign as subject; this 4000x6000 file shows the whole building above the entrance."
+  },
+  {
+   "id": "rundkino-dresden",
+   "better_file_or_null": "File:Rundkino 1982.jpg",
+   "why": "the first photo is a high rooftop view of the drum's upper stripes with the base cut off; the 1982 view (already third in Haiku's list) shows the whole round building from outside, but it is black and white, so the owner may prefer to wait for a colour whole-building view."
+  },
+  {
+   "id": "majestic-theatre",
+   "better_file_or_null": null,
+   "why": "borderline: the only daylight outside photo (Majestic Theater (1 of 1)) is a street-level view dominated by the MAJESTIC marquee; the main file is a night shot of the sign; the rest are concerts and a door. No better exterior in the set."
+  },
+  {
+   "id": "naturtheater-grotzingen",
+   "better_file_or_null": null,
+   "why": "borderline: the aerial photo shows the thin shell but partly under tree canopy; every other photo is a stage performance. It is the only usable view of the structure."
+  },
+  {
+   "id": "ormen-lange",
+   "better_file_or_null": null,
+   "why": "borderline: the only photo is a 1965 black-and-white print cropped on the balconies, not the whole block; no other file is available. The owner may accept it for such an important housing scheme."
+  },
+  {
+   "id": "lescaze-house",
+   "better_file_or_null": "File:Lescaze House Jun 2021 01.jpg",
+   "why": "low priority: the first file (Renz-ny.jpg) is in Category:Lescaze House and shows the same white facade with glass-block panel, but its description says 'Rensaller House' and it is only 1500 px; the 2021 file shows the house clearly at 5184x3456."
   }
  ],
  "rescued": [
   {
-   "id": "bing-concert-hall",
-   "why": "Haiku marked it unsure only for lack of a city. The lead names Richard Olcott of Ennead and the 842-seat vineyard hall, opened 2013, and the main photo is a clear daylight exterior. City is Stanford (the lead places it at Stanford University; prep gives only Santa Clara County). Other photos are performances, so only the main is listed.",
+   "id": "schonberg-tower",
+   "why": "Lead (German) says the 26.4 m tower was built in 1905 to a design by 'the well-known architect Theodor Fischer' and is the landmark of Pfullingen; Fischer is a major figure of early German modernism and the first photo shows the whole tower in daylight. Haiku skipped it as a small tower. Moderate case.",
    "entry": {
-    "id": "bing-concert-hall",
-    "qid": "Q4914117",
+    "id": "schonberg-tower",
+    "qid": "Q1635504",
     "status": "photo",
-    "why": "Haiku marked it unsure only for lack of a city. The lead names Richard Olcott of Ennead and the 842-seat vineyard hall, opened 2013, and the main photo is a clear daylight exterior. City is Stanford (the lead places it at Stanford University; prep gives only Santa Clara County). Other photos are performances, so only the main is listed.",
-    "name": "Bing Concert Hall",
-    "by": "Ennead Architects",
-    "city": "Stanford",
-    "cc": "US",
-    "year": 2013,
-    "type": "Culture & sport",
-    "movement": "Contemporary",
-    "concepts": [
-     "Geometry",
-     "Section",
-     "Public space"
-    ],
-    "features": "A Stanford concert hall with 842 seats in vineyard-style terraces around the stage, by Richard Olcott of Ennead Architects.",
-    "commons_category": "Category:Bing Concert Hall",
-    "coords": [
-     37.4319,
-     -122.166
-    ],
-    "photos": [
-     {
-      "file": "File:Bing concert hall at Stanford University.JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "canadian-clay-and-glass-gallery",
-   "why": "Patkau (a well-known Canadian practice) and the lead gives a design reason: a Governor General's Medal of Excellence in 1997. Built 1993 and standing. Haiku skipped it only because the architect is not on the wall. Main photo has the flag pole in front, so the entrance-corner photo goes first.",
-   "entry": {
-    "id": "canadian-clay-and-glass-gallery",
-    "qid": "Q5029867",
-    "status": "photo",
-    "why": "Patkau (a well-known Canadian practice) and the lead gives a design reason: a Governor General's Medal of Excellence in 1997. Built 1993 and standing. Haiku skipped it only because the architect is not on the wall. Main photo has the flag pole in front, so the entrance-corner photo goes first.",
-    "name": "Canadian Clay and Glass Gallery",
-    "by": "Patricia Patkau",
-    "city": "Waterloo",
-    "cc": "CA",
-    "year": 1993,
-    "type": "Museum",
-    "movement": "Contemporary",
-    "concepts": [
-     "Brick",
-     "Steel & glass",
-     "Public space"
-    ],
-    "features": "Patkau Architects' gallery for Canadian ceramics and glass, opened in 1993 and awarded a 1997 Governor General's Medal of Excellence.",
-    "commons_category": "Category:Canadian Clay and Glass Gallery",
-    "coords": [
-     43.465,
-     -80.5263
-    ],
-    "photos": [
-     {
-      "file": "File:Waterloo IMG 2913 (23095556386).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     },
-     {
-      "file": "File:Canadian Clay and Glass Gallery - Waterloo, ON.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "san-riccardo-pampuri-church",
-   "why": "WEAK, owner may drop: Guido Canella is a notable Italian architect and the main photo is a clear daylight facade with a striking timber truss gable, but the Italian lead only says it is the parish church of Zeloforamagno, so the features line is plain. Year 1990 is prep's (no year in the lead).",
-   "entry": {
-    "id": "san-riccardo-pampuri-church",
-    "qid": "Q55358441",
-    "status": "photo",
-    "why": "WEAK, owner may drop: Guido Canella is a notable Italian architect and the main photo is a clear daylight facade with a striking timber truss gable, but the Italian lead only says it is the parish church of Zeloforamagno, so the features line is plain. Year 1990 is prep's (no year in the lead).",
-    "name": "San Riccardo Pampuri church",
-    "by": "Guido Canella",
-    "city": "Peschiera Borromeo",
-    "cc": "IT",
-    "year": 1990,
-    "type": "Religious",
-    "movement": "Contemporary",
-    "concepts": [
-     "Timber",
-     "Brick",
-     "Community"
-    ],
-    "features": "A parish church in Zeloforamagno, part of Peschiera Borromeo, in the Archdiocese of Milan.",
-    "commons_category": "Category:San Riccardo Pampuri (Zeloforamagno, Peschiera Borromeo)",
-    "coords": [
-     45.42754,
-     9.30348
-    ],
-    "photos": [
-     {
-      "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 003.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 002.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Peschiera Borromeo, Zeloforamagno - Chiesa di San Riccardo Pampuri - 2023-09-24 15-08-52 004.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "st-katharina-von-siena",
-   "why": "Heinz Bienefeld is a notable brick architect; the German lead says the church was built 2001-2003 from his plans by his son Nikolaus and is Cologne's youngest Catholic church. Haiku skipped it as a parish church with no design reason; a posthumous work from a known architect's plans is worth a place. Year 2003 (consecration), not prep's 2001 (construction start). The main photo is a narrow portrait of the tower with the church beside it; the other photos are brick details and a street.",
-   "entry": {
-    "id": "st-katharina-von-siena",
-    "qid": "Q62588192",
-    "status": "photo",
-    "why": "Heinz Bienefeld is a notable brick architect; the German lead says the church was built 2001-2003 from his plans by his son Nikolaus and is Cologne's youngest Catholic church. Haiku skipped it as a parish church with no design reason; a posthumous work from a known architect's plans is worth a place. Year 2003 (consecration), not prep's 2001 (construction start). The main photo is a narrow portrait of the tower with the church beside it; the other photos are brick details and a street.",
-    "name": "St. Katharina von Siena",
-    "by": "Heinz Bienefeld",
-    "city": "Cologne",
+    "why": "Lead names Theodor Fischer as designer and calls the tower the landmark of Pfullingen; built 1905; daylight view of the whole tower.",
+    "name": "Schönberg Tower",
+    "by": "Theodor Fischer",
+    "city": "Pfullingen",
     "cc": "DE",
-    "year": 2003,
-    "type": "Religious",
-    "movement": "Contemporary",
-    "concepts": [
-     "Brick",
-     "Community",
-     "Monumentality"
-    ],
-    "features": "Cologne's newest Catholic church, built 2001-2003 by Nikolaus Bienefeld from his father Heinz Bienefeld's plans.",
-    "commons_category": "Category:St. Katharina von Siena (Köln)",
-    "coords": [
-     51.03731,
-     6.88565
-    ],
-    "photos": [
-     {
-      "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0216.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0226.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:St. Katharina von Siena, Köln-Blumenberg - 0227.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "mosque-of-rijeka",
-   "why": "BORDERLINE, owner may drop: a distinctive sculptural shell-domed mosque with a clear daylight exterior as the main photo, built 2009-2013 and standing. The lead gives only the build dates, so the features line is plain. Dusan Dzamonja is a sculptor-architect, so the architect is accepted from Wikidata.",
-   "entry": {
-    "id": "mosque-of-rijeka",
-    "qid": "Q26256577",
-    "status": "photo",
-    "why": "BORDERLINE, owner may drop: a distinctive sculptural shell-domed mosque with a clear daylight exterior as the main photo, built 2009-2013 and standing. The lead gives only the build dates, so the features line is plain. Dusan Dzamonja is a sculptor-architect, so the architect is accepted from Wikidata.",
-    "name": "Mosque of Rijeka",
-    "by": "Dušan Džamonja",
-    "city": "Rijeka",
-    "cc": "HR",
-    "year": 2013,
-    "type": "Religious",
-    "movement": "Contemporary",
+    "year": 1905,
+    "type": "Infrastructure",
+    "movement": "Historic precedent",
     "concepts": [
      "Sculptural form",
-     "Vault",
+     "Landscape",
      "Geometry"
     ],
-    "features": "A mosque in Rijeka, Croatia, built between 2009 and 2013.",
-    "commons_category": "Category:Mosque of Rijeka",
+    "features": "A 26.4 m lookout tower from 1905 by the well-known architect Theodor Fischer, a landmark of Pfullingen.",
+    "commons_category": "Category:Schönbergturm",
     "coords": [
-     45.34588,
-     14.39743
+     48.44139,
+     9.22806
     ],
     "photos": [
      {
-      "file": "File:Rijeka Mosque 3.JPG",
+      "file": "File:Schönbergturm-02.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Rijeka Mosque 1.JPG",
+      "file": "File:Schönbergturm bei Pfullingen.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
@@ -279,305 +304,130 @@
    }
   },
   {
-   "id": "bibliotheque-universitaire-des-langues-et-civilisations",
-   "why": "Yves Lion (named in the instructions as one to rescue). Library in Paris Rive Gauche, open 2011, clear daylight exterior as the main photo. Other photos are a book page, shelves and talks, so only two exterior views are listed.",
+   "id": "dominus-flevit-church",
+   "why": "Antonio Barluzzi is on the wall (Church of All Nations, same convention 'Jerusalem, IL'); this is one of his best-known built works, a clear exterior in daylight is available, and the lead places it on the Mount of Olives opposite the Old City. Haiku skipped because the lead is about the archaeology. Year 1953 is prep's only; the lead gives no completion date.",
    "entry": {
-    "id": "bibliotheque-universitaire-des-langues-et-civilisations",
-    "qid": "Q2901548",
+    "id": "dominus-flevit-church",
+    "qid": "Q1238436",
     "status": "photo",
-    "why": "Yves Lion (named in the instructions as one to rescue). Library in Paris Rive Gauche, open 2011, clear daylight exterior as the main photo. Other photos are a book page, shelves and talks, so only two exterior views are listed.",
-    "name": "Bibliothèque universitaire des langues et civilisations",
-    "by": "Yves Lion",
-    "city": "Paris",
-    "cc": "FR",
-    "year": 2011,
-    "type": "Library",
-    "movement": "Contemporary",
-    "concepts": [
-     "Brick",
-     "Courtyard",
-     "Community"
-    ],
-    "features": "Paris Rive Gauche academic library, open since 2011, for all languages and civilisations beyond the Western world.",
-    "commons_category": "Category:Bibliothèque universitaire des langues et civilisations",
-    "coords": [
-     48.82917,
-     2.37972
-    ],
-    "photos": [
-     {
-      "file": "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410443482).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     },
-     {
-      "file": "File:Inalco Bulac @ Paris Rive Gauche @ Paris (28410469472).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "armenian-cathedral-of-moscow",
-   "why": "The lead gives a record (largest Armenian church and church complex outside Armenia), consecrated 2013. Main photo is a clear daylight view of the cathedral and chapel. Haiku skipped it for no design reason; a record counts under the rules. Movement Regionalism because it revives Armenian church forms.",
-   "entry": {
-    "id": "armenian-cathedral-of-moscow",
-    "qid": "Q4069756",
-    "status": "photo",
-    "why": "The lead gives a record (largest Armenian church and church complex outside Armenia), consecrated 2013. Main photo is a clear daylight view of the cathedral and chapel. Haiku skipped it for no design reason; a record counts under the rules. Movement Regionalism because it revives Armenian church forms.",
-    "name": "Armenian Cathedral of Moscow",
-    "by": "Artak Ghulyan",
-    "city": "Moscow",
-    "cc": "RU",
-    "year": 2013,
+    "why": "Barluzzi's church on the Mount of Olives; lead gives place and the finds made during construction; clear daylight exterior.",
+    "name": "Dominus Flevit Church",
+    "by": "Antonio Barluzzi",
+    "city": "Jerusalem",
+    "cc": "IL",
+    "year": 1953,
     "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Sculptural form",
+     "Light & shadow",
+     "Landscape"
+    ],
+    "features": "A church on the Mount of Olives opposite the Old City walls, where digging uncovered Canaanite artifacts and tombs.",
+    "commons_category": "Category:Dominus Flevit Church",
+    "coords": [
+     31.77798,
+     35.24189
+    ],
+    "photos": [
+     {
+      "file": "File:Holy Land 2019 (1) P121 Jerusalem Dominus Flevit Church.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:121090-Jerusalem-Mount-of-Olives (27597190255).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Holy Land 2019 (1) P124 Jerusalem Dominus Flevit Church.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "versohnungskirche-ulm",
+   "why": "Lead (German) calls it 'ein modernes Kirchengebäude'; Wikidata's architect Olaf Andreas Gulbransson is accepted (dates fit, lead names nobody else) and the photos show a striking white folded-roof church with a spire in clear daylight. Haiku skipped only because the lead names no architect and says little. Weak lead, strong photos: moderate case; year 1963 is prep's.",
+   "entry": {
+    "id": "versohnungskirche-ulm",
+    "qid": "Q15852728",
+    "status": "photo",
+    "why": "Lead calls it a modern church in Wiblingen; architect from Wikidata; clear daylight exterior of the whole church.",
+    "name": "Versöhnungskirche (Ulm)",
+    "by": "Olaf Andreas Gulbransson",
+    "city": "Ulm",
+    "cc": "DE",
+    "year": 1963,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+     "Sculptural form",
+     "Light & shadow",
+     "Geometry"
+    ],
+    "features": "A modern Protestant church in Wiblingen, a district of Ulm.",
+    "commons_category": "Category:Versöhnungskirche (Ulm)",
+    "coords": [
+     48.3603,
+     9.9842
+    ],
+    "photos": [
+     {
+      "file": "File:Ulm-Wiblingen, Versöhnungskirche (17).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Versöhnungskirche Ulm Wiblingen.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Ulm-Wiblingen, Versöhnungskirche (03).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "crater-lake-superintendent-s-residence",
+   "why": "LOW confidence. Lead: National Historic Landmark (1987) as 'an important example of 1930s National Park Service Rustic architecture', 'massive boulders and heavy-handed woodwork', which is a design reason; the wall already holds Old Faithful Inn in that family. Haiku skipped for want of a named architect. Only usable photo is a black-and-white print of the whole house. Owner call.",
+   "entry": {
+    "id": "crater-lake-superintendent-s-residence",
+    "qid": "Q5182625",
+    "status": "photo",
+    "why": "Lead gives NHL status as an important example of 1930s NPS Rustic architecture; the only exterior photo is a black-and-white print.",
+    "name": "Crater Lake Superintendent's Residence",
+    "by": "National Park Service",
+    "city": "Crater Lake National Park",
+    "cc": "US",
+    "year": 1932,
+    "type": "House",
     "movement": "Regionalism",
     "concepts": [
      "Stone",
-     "Monumentality",
-     "Community"
-    ],
-    "features": "Consecrated in 2013, the Moscow Armenian cathedral is the largest Armenian church and church complex outside Armenia.",
-    "commons_category": "Category:The Holy Transfiguration Cathedral of the Armenian monastery complex of Moscow",
-    "coords": [
-     55.78806,
-     37.62119
-    ],
-    "photos": [
-     {
-      "file": "File:Moscow ArmemianMonastery CathedralAndChapel 4106.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Кафедральный собор Преображения Господня (АХК) в 2024 году.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Армянский храмовый комплекс в Москве, Россия 1.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "fuglsang-art-museum",
-   "why": "Strong keep (Tony Fretton, 2009 RIBA European Award, Stirling shortlist, landscape integration, all from the lead); main photo is a clear daylight exterior. Haiku held it only for the city: prep gives Guldborgsund Municipality only, so city 'Toreby' (Fuglsang, Lolland) is from general knowledge and should be confirmed, or use 'Guldborgsund'. Year 2008 is prep's (the lead gives none).",
-   "entry": {
-    "id": "fuglsang-art-museum",
-    "qid": "Q5507293",
-    "status": "photo",
-    "why": "Strong keep (Tony Fretton, 2009 RIBA European Award, Stirling shortlist, landscape integration, all from the lead); main photo is a clear daylight exterior. Haiku held it only for the city: prep gives Guldborgsund Municipality only, so city 'Toreby' (Fuglsang, Lolland) is from general knowledge and should be confirmed, or use 'Guldborgsund'. Year 2008 is prep's (the lead gives none).",
-    "name": "Fuglsang Art Museum",
-    "by": "Tony Fretton",
-    "city": "Toreby",
-    "cc": "DK",
-    "year": 2008,
-    "type": "Museum",
-    "movement": "Contemporary",
-    "concepts": [
-     "Landscape",
-     "Geometry",
-     "Light & shadow"
-    ],
-    "features": "Tony Fretton's purpose-built museum on Lolland, integrated with its landscape; it won a 2009 RIBA European Award.",
-    "commons_category": "Category:Fuglsang Kunstmuseum",
-    "coords": [
-     54.72387,
-     11.79965
-    ],
-    "photos": [
-     {
-      "file": "File:Fuglsang-Kunstmuseum.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Fuglsang Kunstmuseum, 2023.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Fuglsang Kunstmuseum 2014 EV1.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "biblioteca-raul-rangel-frias",
-   "why": "Legorreta, six buildings on the wall; the Spanish lead says it was designed by him joining tradition and modernity and was inaugurated in 1995 (so year 1995, not prep's 1994). WEAK PHOTO: the only photo shows the library behind a fence with a sculpture in front; usable but not ideal, owner may hold it back. City 'Monterrey' is from general knowledge (prep gives only the state Nuevo Leon; the coordinates sit in the UANL university campus) and should be confirmed.",
-   "entry": {
-    "id": "biblioteca-raul-rangel-frias",
-    "qid": "Q108938574",
-    "status": "photo",
-    "why": "Legorreta, six buildings on the wall; the Spanish lead says it was designed by him joining tradition and modernity and was inaugurated in 1995 (so year 1995, not prep's 1994). WEAK PHOTO: the only photo shows the library behind a fence with a sculpture in front; usable but not ideal, owner may hold it back. City 'Monterrey' is from general knowledge (prep gives only the state Nuevo Leon; the coordinates sit in the UANL university campus) and should be confirmed.",
-    "name": "Biblioteca Raúl Rangel Frías",
-    "by": "Ricardo Legorreta",
-    "city": "Monterrey",
-    "cc": "MX",
-    "year": 1995,
-    "type": "Library",
-    "movement": "Regionalism",
-    "concepts": [
-     "Monumentality",
-     "Colour",
-     "Geometry"
-    ],
-    "features": "Ricardo Legorreta's university library for the UANL, opened in 1995, joining tradition and modernity in his style.",
-    "commons_category": "Category:Biblioteca Raúl Rangel Frías",
-    "coords": [
-     25.71608,
-     -100.31189
-    ],
-    "photos": [
-     {
-      "file": "File:Fachada BURRF.jpg",
-      "license": "CC BY-SA 2.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "diehtosiida",
-   "why": "Reiulf Ramstad (named in the instructions) and a built Sami campus opened 2009. Haiku skipped it because the lead says what it houses. The first photo is the front with the cantilevered upper volume and the name sign, in daylight; the Wikidata photo list has no 'main', so photo 0 is the exterior. Interior and lecture-hall photos are left out.",
-   "entry": {
-    "id": "diehtosiida",
-    "qid": "Q3223562",
-    "status": "photo",
-    "why": "Reiulf Ramstad (named in the instructions) and a built Sami campus opened 2009. Haiku skipped it because the lead says what it houses. The first photo is the front with the cantilevered upper volume and the name sign, in daylight; the Wikidata photo list has no 'main', so photo 0 is the exterior. Interior and lecture-hall photos are left out.",
-    "name": "Diehtosiida",
-    "by": "Reiulf Ramstad Arkitekter",
-    "city": "Kautokeino",
-    "cc": "NO",
-    "year": 2009,
-    "type": "Education",
-    "movement": "Contemporary",
-    "concepts": [
      "Timber",
-     "Cantilever",
-     "Community"
+     "Earth & local material"
     ],
-    "features": "A Sámi academic campus in Kautokeino housing the Sámi University College, Sámi Archives and other institutions; opened 2009.",
-    "commons_category": "Category:Diehtosiida",
+    "features": "A National Historic Landmark of boulders and heavy woodwork, an important example of 1930s National Park Service Rustic architecture.",
+    "commons_category": "Category:Crater Lake Superintendent's Residence",
     "coords": [
-     69.01444,
-     23.03717
+     42.90021,
+     -122.13739
     ],
     "photos": [
      {
-      "file": "File:Diehtosiida-exterior.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Den samiske høgskolen.jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     },
-     {
-      "file": "File:Den samiske høgskolen (14373593336).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "museum-for-architectural-drawing",
-   "why": "Named in the instructions (Tchoban). A built, standing Berlin museum (2013) for architectural drawings with a striking concrete-relief facade; rated Q main photo is a clear daylight exterior. The lead gives only what it shows and the 2013 opening, so the features line is plain. Architect names tidied to Sergei Tchoban, Sergey Kuznetsov (Wikidata also lists SPEECH architectural office).",
-   "entry": {
-    "id": "museum-for-architectural-drawing",
-    "qid": "Q17353861",
-    "status": "photo",
-    "why": "Named in the instructions (Tchoban). A built, standing Berlin museum (2013) for architectural drawings with a striking concrete-relief facade; rated Q main photo is a clear daylight exterior. The lead gives only what it shows and the 2013 opening, so the features line is plain. Architect names tidied to Sergei Tchoban, Sergey Kuznetsov (Wikidata also lists SPEECH architectural office).",
-    "name": "Museum for Architectural Drawing",
-    "by": "Sergei Tchoban, Sergey Kuznetsov",
-    "city": "Berlin",
-    "cc": "DE",
-    "year": 2013,
-    "type": "Museum",
-    "movement": "Contemporary",
-    "concepts": [
-     "Exposed concrete",
-     "Facade as skin",
-     "Sculptural form"
-    ],
-    "features": "A private Berlin museum for architectural drawings, run by the Tchoban Foundation and opened in June 2013.",
-    "commons_category": "Category:Museum für Architekturzeichnung",
-    "coords": [
-     52.53207,
-     13.41003
-    ],
-    "photos": [
-     {
-      "file": "File:Museum für Architekturzeichnung, Berlin, 150516, ako.jpg",
-      "license": "CC BY-SA 3.0 de",
-      "seen": true
-     },
-     {
-      "file": "File:140503 Museum für Architekturzeichnung.jpg",
-      "license": "CC BY-SA 3.0 de",
-      "seen": true
-     },
-     {
-      "file": "File:140301 Museum fuer Architekturzeichnung.jpg",
-      "license": "CC BY-SA 3.0 de",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "museu-de-arte-do-rio",
-   "why": "Haiku held it as 'no main photo', but the Wikidata main (Praca Maua) shows the whole museum, the historic palace and the new building under the floating canopy, in daylight. Jacobsen Arquitetura named in the lead, opened 1 March 2013. Features use only the lead.",
-   "entry": {
-    "id": "museu-de-arte-do-rio",
-    "qid": "Q10333798",
-    "status": "photo",
-    "why": "Haiku held it as 'no main photo', but the Wikidata main (Praca Maua) shows the whole museum, the historic palace and the new building under the floating canopy, in daylight. Jacobsen Arquitetura named in the lead, opened 1 March 2013. Features use only the lead.",
-    "name": "Rio Art Museum",
-    "by": "Jacobsen Arquitetura",
-    "city": "Rio de Janeiro",
-    "cc": "BR",
-    "year": 2013,
-    "type": "Museum",
-    "movement": "Contemporary",
-    "concepts": [
-     "Adaptive reuse",
-     "Public space",
-     "Circulation"
-    ],
-    "features": "Rio's art museum, opened in 2013, planned by Jacobsen Arquitetura around a flow system for the whole site.",
-    "commons_category": "Category:Museu de Arte do Rio",
-    "coords": [
-     -22.89657,
-     -43.18199
-    ],
-    "photos": [
-     {
-      "file": "File:Praça Mauá 11 2015 Rio 708.JPG",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:MauaSquare2.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Museu de Arte do Rio - MAR (8729729032).jpg",
-      "license": "CC BY 2.0",
+      "file": "File:Crater Lake Superintendent Residence - Oregon - NHL.jpg",
+      "license": "Public domain",
       "seen": true
      }
     ]
    }
   }
  ],
- "summary": "Positions 150-299 (150 candidates). Haiku: 17 photo, 7 unsure, 126 skip. Photo entries: 14 keep_ok (4 with a small fix: St Basil movement, Dia Beacon by, Mainz movement, Spiral House concept), 2 keep_wrong (182 duplicate; Twin Towers ordinary office towers), 1 held for want of a building photo (Cite de la mode, flood photos only). 3 main-photo flags (Nanao weak, Cite de la mode, Pantanal). Unsure: 3 rescued (Bing, Fuglsang, Raul Rangel Frias), 1 rescued with a new photo (Rio Art Museum), 3 stay skipped (Pearling Site no exterior photo, Disney Yacht Club themed hotel, HydraPier no photos). Other skips rescued: 8 (Canadian Clay and Glass Gallery, San Riccardo Pampuri church [weak], St Katharina von Siena, Mosque of Rijeka [borderline], BULAC, Armenian Cathedral of Moscow, Diehtosiida, Museum for Architectural Drawing). Total rescued 12; 2 flagged weak/borderline (153, 162) and 1 weak photo (180). Skips left as skipped: all empty leads, duplicates 182/194/228, towers, arenas, ordinary churches and mosques, museums with no design reason; borderline left skipped: Dragao do Mar (aerial main photo only), Eilat Sports Center, Disney Yacht Club, miroir d'eau (not a building)."
+ "summary": "Positions 150-299 (sheets 18-37): 150 entries = 64 photo, 76 skip, 10 unsure. PHOTO: 46 worth keeping, 18 wrong keeps (all revival-style theatres, libraries, houses and offices kept on the architect-on-wall test; plus Flora Lamson Hewlett Library, whose Kahn credit is impossible for 1981, and the Augsburg seminary whose lead is institutional history); 12 field fixes (3 names to the Wikipedia title, 4 by, 1 year, 1 features, 2 movements, 1 concept); 9 main-photo flags (5 with a better file: Jingliao, Primavesi, Sowden, Olympia Miami, Rundkino; Lescaze low priority; 3 borderline with none: Majestic, Naturtheater, Ormen Lange). Weakest keeps: Aon Center, Olympia Miami, Joseph H. Brown School, Hiroshima ICC, Nijmegen theatre, Majestic Theatre (kept for a first/record/named-style claim). Doubtful year, left as prep: Gebouw A Radio Kootwijk 1919 (lead gives no completion date and 1919 is probably a start). No duplicates of wall buildings: the dup flags in range (Exxon Bldg, 33 Thomas, Hiroshima ICC, Rundkino, Moore House) are neighbours only; qid, id and 250 m coordinate checks found none; the nine must-skip positions are all below 150. All types, movements and concepts are in vocab.json, all photo files and licences match prep.json. SKIP/UNSURE: 4 rescued (Schönberg Tower and Versöhnungskirche Ulm moderate, Dominus Flevit moderate, Crater Lake Superintendent's Residence low, b/w photo); every other skip stands. Unsure stay out for want of a usable main photo: Allen Frank House (no photos), Kansas City Power and Light (only night/skyline/detail), Buckingham Building, San Gabriele Milan (drawings, one exterior with trucks), Mercado de las Carnes (no photos), Cordoba Chamber of Commerce (plans only), Kulturzentrum Mattersburg (2021 glass rebuild), 250 Vesey (complex only); Droste-Hülshoff Freiburg and Klingenmuseum Solingen have impossible architect dates and no design reason. Empty-lead skips that would be strong with a lead (left skipped per the rule): AEG-Hochspannungsfabrik (Behrens), Poelzig Building, Casa Caccia (Botta), La Scala La Chaux-de-Fonds (Le Corbusier), Villa Jaquemet and Villa Stotzer (Le Corbusier), Haus Perls (Mies), Wagenaarweg 30 (van de Velde), Oud's Hoek van Holland housing, Mallet-Stevens villas (Augier-Prouvost, Trapenard, Collinet), Jacobsen's own house, Haus Duldeck (Steiner), Quartiere Mangiagalli II and INA Cesate (no photos). Other near-misses left skipped: deSingel (main photo shows a later timber block, the Stynen building only at distance), Xewkija Rotunda, Neuerdberg and Maria Königin des Friedens (lead gives nothing on design), Strusshamn Church, St. Augustinus Düsseldorf, St. Paulus Beuel (Dominikus Böhm died 1955, before the 1956-58 build)."
 }

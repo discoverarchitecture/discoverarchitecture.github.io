@@ -216,3 +216,8 @@ perth-stadium-optus  # Round 9 review: ordinary stadium with no clear daylight e
 koelnturm  # Round 9 review: no free photo could be fetched
 kraus-house  # Haiku pool 2 photo review: every photo shows the house behind trees and a wall
 biblioteca-raul-rangel-frias  # Haiku pool 5 photo review: no photo shows the building (only a fence and a sculpture)
+gamble-house  # Haiku pool 6 photo review: no colour photo of the outside in the fetched gallery (drawings and old prints only)
+majestic-theatre  # Haiku pool 6 photo review: no photo shows the building rather than its sign, a concert or a door
+villa-primavesi  # Haiku pool 6 photo review: year unsourced: Wikidata's 1900 does not fit, and the lead gives none
+ormen-lange  # Haiku pool 6 photo review: only photo of the building is a cropped 1965 print; the rest are views through a porthole
+crater-lake-superintendent-s-residence  # Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service

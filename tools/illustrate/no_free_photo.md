@@ -91,7 +91,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Kraus House | Frank Lloyd Wright | 1955 | Kirkwood, US | Haiku pool 2 photo review: every photo shows the house behind trees and a wall |
 | One International Place | Johnson/Burgee Architects | 1987 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Tanabe Art Museum | Kiyonori Kikutake | 1979 | Matsue, JP | no free photo found in the Commons category (it returned no files). |
-| Beetham Tower | SimpsonHaugh and Partners (Ian Simpson) | 2006 | Manchester, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Biblioteca Raúl Rangel Frías | Ricardo Legorreta | 1995 | Monterrey, MX | Haiku pool 5 photo review: no photo shows the building (only a fence and a sculpture) |
 | Palais Bulles | Antti Lovag | 1989 | Théoule-sur-Mer, FR | lead photo didn't show the building; see recheck.md |
 | CMA CGM Tower | Zaha Hadid Architects | 2011 | Marseille, FR | lead photo still didn't show the building (Oct 13 review) |
 | Sainte-Bernadette du Banlay | Claude Parent, Paul Virilio | 1966 | Nevers, FR | No files on Commons at all (a strong drawing candidate). Sources confirm two interlocking concrete shells cantilevered over a central pillar, a big overhang on the facade, opaque walls with small porthole-like openings and light from a central split, but none gives the profile of the shells or the roof; the detailed pages (WikiArquitectura, CAUE 58) couldn't be reached. A trial drawing came out as a guess, so I removed it. |
@@ -329,6 +329,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Heron Tower (110 Bishopsgate) | Kohn Pedersen Fox | 2011 | London, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Millbank Tower | Ronald Ward & Partners | 1963 | London, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Rotunda (Birmingham) | James A. Roberts | 1965 | Birmingham, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
+| Beetham Tower | SimpsonHaugh and Partners (Ian Simpson) | 2006 | Manchester, GB | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Kirkcaldy Town House | David Carr and William Howard | 1956 | Kirkcaldy, GB | no free photo: large files carry licence 'Attribution' (unclear, check by hand), geograph ones only 1024px |
 | Pier Arts Centre | Reiach & Hall Architects | 2007 | Stromness, GB | no free photo found: no Commons category under that name; 1979 conversion architect not named |
 | Castle Howard | John Vanbrugh (with Nicholas Hawksmoor) | 1811 | Henderskelfe, North Yorkshire, GB | no free photo confirmed: category files listed were lakes/gardens/parterres by filename (e.g. '1001059 Castle Howard, South Lake Henderskelfe 20240522 0407.jpg', CC BY-SA 4.0, may show the house); year 1811 is completion of Long Gallery decoration, construction began 1701 |

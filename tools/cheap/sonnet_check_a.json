@@ -1,405 +1,289 @@
 {
  "keep_ok": [
-  "monona-terrace",
-  "torre-de-cristal",
-  "minnaert-building",
-  "casa-rozes",
-  "valladolid-science-museum",
-  "fresno-city-hall",
-  "100-eleventh-avenue",
-  "zenith-de-lille",
-  "golden-angel",
-  "he-art-museum",
-  "le-consortium",
-  "frist-campus-center",
-  "el-palauet",
-  "the-museum-for-wood-culture",
-  "paraninfo-de-la-universidad-del-pais-vasco",
-  "himeji-city-museum-of-literature",
-  "kfw-westarkade",
-  "muritzeum",
-  "fukuoka-camera-museum",
-  "centro-cultural-de-viana-do-castelo",
-  "centre-ceramique",
-  "ken-iwata-mother-and-child-museum",
-  "residenze-hadid",
-  "campus-palmas-altas-sevilla",
-  "hagi-uragami-museum",
-  "ciudad-bbva",
-  "tateyama-museum-of-toyama",
-  "nakaya-ukichiro-museum-of-snow-and-ice",
-  "lafayette-anticipations-galeries-lafayette-corporate-foundation",
-  "maison-de-l-ordre-des-avocats",
-  "toyama-international-conference-center",
-  "campus-einaudi",
-  "nagano-city-arts-center",
-  "beetham-tower-manchester",
-  "finnish-forest-museum-lusto",
-  "caja-magica",
-  "onikuru",
-  "de-citadel",
-  "chihiro-art-museum-azumino",
-  "pabellon-de-la-navegacion",
-  "yaoko-kawagoe-museum",
-  "the-frances-young-tang-teaching-museum-and-art-gallery",
-  "musik-und-kongresshalle-lubeck",
-  "taisha-urara-kan-cultural-hall",
-  "kaustinen-folk-arts-centre"
+  "aaltoalvari",
+  "seth-peterson-cottage",
+  "seinajoki-city-theatre",
+  "norman-lykes-house",
+  "dudley-spencer-house",
+  "bellevue-arts-museum",
+  "americanization-school",
+  "casa-delle-armi",
+  "orchestra-hall",
+  "pfarrkirche-pertisau",
+  "kabelwerk-dr-cassirer",
+  "villa-of-viktor-bauer",
+  "huis-hillebrand",
+  "volksbadhuis-hilversum",
+  "landhaus-bejach",
+  "villa-snellman",
+  "raadhuis-van-usquert",
+  "villa-gans",
+  "aldo-van-eyck-pavilion",
+  "haus-scheu",
+  "66-old-church-street-chelsea",
+  "haus-auerbach",
+  "eiffel-building",
+  "buffalo-city-hall",
+  "jonson-gallery",
+  "rio-theatre",
+  "stadthalle-hannover",
+  "national-institute-for-technical-education-leuven",
+  "vakantiehuisjes-rietveld",
+  "palazzo-degli-affari",
+  "stillman-house-i",
+  "st-fronleichnam",
+  "barclayvesey-building",
+  "bahai-house-of-worship",
+  "old-scripps-building",
+  "harold-c-bradley-house",
+  "villa-sturegarden",
+  "dum-obuvi-bata-liberec",
+  "house-of-agricultural-education",
+  "church-of-peace-lobtau",
+  "offenbarungskirche",
+  "bethanienkirche-frankfurt-am-main",
+  "alfa-palace",
+  "villa-of-bohuslav-fuchs",
+  "villa-haas",
+  "riverside-art-museum",
+  "hyogo-prefectural-museum-of-history",
+  "pardubice-crematorium",
+  "national-house-prostejov",
+  "gamble-house",
+  "georg-kolbe-museum",
+  "dortmund-city-and-state-library",
+  "cine-brasilia",
+  "smith-tower",
+  "lauritsala-church",
+  "bakkehaugen-church",
+  "ullsteinhaus"
  ],
  "keep_fix": [
   {
-   "id": "kitakyushu-international-conference-center",
-   "field": "features",
-   "haiku": "Arata Isozaki's convention centre in Kitakyushu, Fukuoka, opened in 1990.",
-   "should_be": "Arata Isozaki's convention centre in Kitakyushu, Fukuoka Prefecture.",
-   "why": "The lead does not say it opened in 1990 (that year comes from Wikidata, not the lead)."
+   "id": "bryce-canyon-lodge",
+   "field": "city",
+   "haiku": "Bryce Canyon",
+   "should_be": "Bryce Canyon National Park",
+   "why": "The lead places the lodge in Bryce Canyon National Park; there is no town called Bryce Canyon in the lead and prep's located value is a county."
   },
   {
-   "id": "shizuoka-city-museum-of-history",
-   "field": "features",
-   "haiku": "SANAA's public history museum in Shizuoka city, opened in 2023.",
-   "should_be": "SANAA's public history museum in Shizuoka city.",
-   "why": "The lead does not give an opening year. Also check the SANAA credit by eye if a source turns up; the photos look more like a plain grey stone building."
+   "id": "pfarrkirche-allerheiligen-innsbruck",
+   "field": "concepts",
+   "haiku": [
+    "Timber",
+    "Light from above",
+    "Brick"
+   ],
+   "should_be": [
+    "Timber",
+    "Light from above",
+    "Geometry"
+   ],
+   "why": "The church walls are white render, not brick; the photos show a timber roof, clerestory light and an angular plan."
   },
   {
-   "id": "przedszkole-bundestagu",
+   "id": "olaf-gulbransson-museum-tegernsee",
+   "field": "features",
+   "haiku": "Sep Ruf's 1966 pavilion for a branch gallery of Bavaria's state painting collections, at Tegernsee.",
+   "should_be": "Sep Ruf's museum at Tegernsee, a branch gallery of Bavaria's state painting collections and a listed building.",
+   "why": "The lead never says pavilion or 1966."
+  },
+  {
+   "id": "olaf-gulbransson-museum-tegernsee",
+   "field": "type",
+   "haiku": "Pavilion",
+   "should_be": "Museum",
+   "why": "The lead calls it a museum (a branch gallery); Pavilion is only a Wikidata type."
+  },
+  {
+   "id": "casa-ximenis",
+   "field": "features",
+   "haiku": "Jujol's 1914 modernist house in Tarragona, a protected local heritage site.",
+   "should_be": "Jujol's modernist house in Tarragona, protected as a local cultural heritage site.",
+   "why": "The lead gives no year; 1914 comes only from Wikidata."
+  },
+  {
+   "id": "rietveld-pavilion",
+   "field": "concepts",
+   "haiku": [
+    "Exposed concrete",
+    "Brise-soleil",
+    "Landscape"
+   ],
+   "should_be": [
+    "Landscape",
+    "Modular",
+    "Light & shadow"
+   ],
+   "why": "The pavilion is a steel roof on perforated concrete-block piers in a wood; no brise-soleil and no exposed-concrete mass."
+  },
+  {
+   "id": "haus-riehl",
    "field": "name",
-   "haiku": "Przedszkole Bundestagu",
-   "should_be": "Kita des Deutschen Bundestages",
-   "why": "The lead is Polish, but the building is in Berlin and is called by its German name; the Polish article title is an odd name to show. (id would become kita-des-deutschen-bundestages)"
+   "haiku": "Haus Riehl",
+   "should_be": "Riehl House",
+   "why": "prep's label is a proper English name; the brief says to use it for non-English leads."
   },
   {
-   "id": "historisches-museum-saar",
-   "field": "year",
-   "haiku": 1999,
-   "should_be": null,
-   "why": "The lead gives no year and Wikidata's 1999 is doubtful for Gottfried Boehm's museum; leave null rather than guess."
-  },
-  {
-   "id": "1101-new-york-avenue",
-   "field": "city",
-   "haiku": "Washington",
-   "should_be": "Washington, D.C.",
-   "why": "The wall writes it this way (Washington, D.C., US)."
-  },
-  {
-   "id": "skylight",
-   "field": "city",
-   "haiku": "Frankfurt am Main",
-   "should_be": "Frankfurt",
-   "why": "The wall writes Frankfurt, DE."
-  },
-  {
-   "id": "burghof-lorrach",
-   "field": "movement",
-   "haiku": "Deconstructivism",
-   "should_be": "Contemporary",
-   "why": "The lead says only that the architecture suits the old town; nothing supports Deconstructivism."
-  },
-  {
-   "id": "prins-hendrikkade-600",
-   "field": "by",
-   "haiku": "Renzo Piano",
-   "should_be": "René van Zuuk",
-   "why": "Wikidata names van Zuuk. The lead says Piano's 1996 pavilion was reused and the new building built around it for ARCAM, so Piano is not the designer of this building."
-  },
-  {
-   "id": "prins-hendrikkade-600",
-   "field": "year",
-   "haiku": 1996,
-   "should_be": null,
-   "why": "1996 is Piano's earlier pavilion; the lead (cut off) gives no completion year for the ARCAM building and 1999 looks like a design year."
-  },
-  {
-   "id": "prins-hendrikkade-600",
+   "id": "villa-urbig",
    "field": "features",
-   "haiku": "Renzo Piano's 1996 pavilion on Amsterdam's Oosterdok, later reused as the ARCAM architecture centre.",
-   "should_be": "New ARCAM architecture centre built around Piano's 1996 Oosterdok pavilion, with a lower waterside facade and a higher street facade.",
-   "why": "Credits the right building and uses the lead's brief."
+   "haiku": "Mies van der Rohe's 1913–1915 villa on Griebnitzsee in Potsdam, once a villa colony.",
+   "should_be": "Mies van der Rohe's villa on the Griebnitzsee, in Potsdam's former Neubabelsberg villa colony.",
+   "why": "1913 appears only in a photo caption, which is not a source; the lead says only villa on Griebnitzsee in the former villa colony."
   },
   {
-   "id": "prins-hendrikkade-600",
-   "field": "movement",
-   "haiku": "High-tech",
-   "should_be": "Contemporary",
-   "why": "Piano's pavilion is the reused part; the building shown is van Zuuk's."
+   "id": "palace-moravia",
+   "field": "type",
+   "haiku": "Civic",
+   "should_be": "Workplace",
+   "why": "The lead describes a commercial zone, basement cinema, bar and cafe (built after a hotel competition), not a civic building."
+  },
+  {
+   "id": "eglise-sainte-therese-de-lenfant-jesus-de-metz",
+   "field": "by",
+   "haiku": "Roger-Henri Expert, André Remondet",
+   "should_be": "Roger-Henri Expert, Théophile Dedun",
+   "why": "The lead names Expert with the Metz architect Théophile Dedun and not Remondet."
+  },
+  {
+   "id": "sassnitz-bandshell",
+   "field": "by",
+   "haiku": "Dietmar Kuntzsch",
+   "should_be": "Dietmar Kuntzsch, Ulrich Müther",
+   "why": "The lead says Kuntzsch's design was completed in 1988 by Müther, the engineer Wikidata credits and the name students know the shell by; Haiku dropped him."
   }
  ],
  "keep_wrong": [
   {
-   "id": "selene-building",
-   "why": "Residential tower; the lead gives no design reason beyond the architect's name, and it is not a key work."
+   "id": "kirjatalo",
+   "why": "Same building as the wall's Academic Bookstore (Kirjatalo) (dup_flag, same Wikipedia article)."
   },
   {
-   "id": "cheung-kong-center",
-   "why": "Ordinary office tower; the lead gives only height and rank (fourth tallest when completed), no design reason."
+   "id": "jyvaskyla-city-theatre",
+   "why": "Already on the wall as jyvaskyla-city-theatre (Jyväskylä City Theatre, Alvar Aalto, 1982); no dup_flag was raised because the wall entry has no coordinates."
   },
   {
-   "id": "30-hudson-street",
-   "why": "Ordinary office tower; the lead gives height, state ranking and tenant facilities, no design reason."
+   "id": "new-york-public-library-for-the-performing-arts",
+   "why": "Ordinary library: the lead describes only the collections, no design reason; no photo shows the whole building (main is a night shot, the others are an entrance and a Calder sculpture); Polshek's credit is doubtful for a 1965 building."
   },
   {
-   "id": "50-west-street",
-   "why": "Residential condominium tower; the lead gives only height and unit count."
+   "id": "the-albert",
+   "why": "Ordinary office/apartment building: the lead gives only a heritage listing and a conversion to flats, no design reason; the lead does not name Kahn or any year, and the main photo is a thin crop."
   },
   {
-   "id": "fubon-life-tower",
-   "why": "Office tower; the lead gives height and rank only, not a key work of the architect."
+   "id": "franz-domes-hof",
+   "why": "Housing estate: the lead names no architect and gives no design reason (only a heritage listing); Haiku itself flagged the Behrens attribution as unchecked."
   },
   {
-   "id": "iberdrola-tower",
-   "why": "Office tower; its only claim is tallest in the Basque Country, a local record, not a design reason."
+   "id": "byzantium",
+   "why": "Housing and office complex: the lead gives only its size, no design reason; year unsourced; the one photo is a traffic-filled street shot showing part of the block."
   },
   {
-   "id": "jongno-tower",
-   "why": "Ordinary office tower; hollow floors and a view are minor, not a design reason, and the lead names no key work."
+   "id": "palais-erzherzog-ludwig-viktor",
+   "why": "An 1866 Ringstrasse palace in a revival style: outside the 1900-1989 pool and an ordinary revival building; the lead gives no design reason beyond being well known."
   },
   {
-   "id": "30-hudson-yards",
-   "why": "Commercial supertall; the observation deck is the only feature, so it fails the strict office-tower rule; the first photo is also a distant sliver of the tower."
+   "id": "osaka-city-central-public-hall",
+   "why": "The lead is one line and gives no design reason; a revival-style public hall, and Wikidata's three-architect credit mixes the competition winner (Okada) with supervisors. Borderline: a famous landmark, so the owner may override."
   },
   {
-   "id": "shin-marunouchi-building",
-   "why": "Ordinary office tower; the lead gives only height and completion date, no design reason."
+   "id": "ohio-theatre",
+   "why": "A movie palace: the lead gives only its restoration and National Historic Landmark status, not a design reason; theatres need one."
   },
   {
-   "id": "torre-puig",
-   "why": "Office tower; the lead gives only an address, so features have no design content and it is not a key work."
+   "id": "autobahnuberbauung-schlangenbader-strasse",
+   "why": "Same building as the wall's Schlangenbader Strasse Housing (Die Schlange) (dup_flag, same spot)."
   },
   {
-   "id": "apple-piazza-liberty",
-   "why": "Apple shop; the lead says only 'an underground building' and the photos are crowds in front of the glass cube."
+   "id": "library-of-the-university-of-deusto",
+   "why": "Same building as the wall's University of Deusto Library (dup_flag, same spot)."
   },
   {
-   "id": "kamakura-museum-of-history-and-culture",
-   "why": "Architect credit doubtful: Wikidata names Foster and Partners but the photos show a small Japanese concrete museum against a hillside, the lead names no architect and gives no reason it matters. Needs a source before it goes up."
+   "id": "ringturm",
+   "why": "Office tower whose lead gives no design reason (the yearly cloth wrapping is not design). Borderline: a well-known Vienna landmark, so the owner may override."
   },
   {
-   "id": "pierre-boulez-saal",
-   "why": "Gehry designed only the Boulez hall inside a reused scenery depot; the lead is about the academy and names no architect, and the first photo is the old depot facade, not Gehry's work."
-  },
-  {
-   "id": "parkview",
-   "why": "Office tower; the lead credits the Meier studio only with the masterplan and gives no design reason for this building."
+   "id": "hunter-museum-of-american-art",
+   "why": "Mixed: the main photo shows the 1904 classical-revival mansion, but Haiku tagged it Brutalism and gave only Garfield as architect; the notable architecture is the 1975 brutalist and 2005 Stout additions, which need their own entry and photos."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "the-museum-for-wood-culture",
-   "better_file_or_null": "File:201121 The Museum for wood culture Kami Hyogo pref Japan01s3.jpg",
-   "why": "Haiku's first photo is a view from inside the timber courtyard; this one shows the timber-clad volume and walkway from outside."
-  },
-  {
-   "id": "muritzeum",
+   "id": "611-place",
    "better_file_or_null": null,
-   "why": "First photo is a roof deck with railings; the entrance photo has a crowd and the sign dominating. No clean whole-building view in prep."
+   "why": "Main is a worm's-eye crop of the tower and the other photos show the skyline or neighbours; no clean whole-building photo, so it should be unsure (no main photo)."
   },
   {
-   "id": "beetham-tower-manchester",
-   "better_file_or_null": "File:Beetham Tower Manchester (5871822967).jpg",
-   "why": "First photo looks up a facade; this one shows the whole tower in its street."
+   "id": "haus-hohe-pappeln",
+   "better_file_or_null": "File:Hohe pappeln 01 6.jpg",
+   "why": "Main (Ostansicht) is a dark close crop of one corner; this view shows the whole house in daylight."
   },
   {
-   "id": "onikuru",
+   "id": "skandia-theater",
    "better_file_or_null": null,
-   "why": "Single photo (opening day) shows the building tiny at the far end of an empty plaza."
+   "why": "Main is a night shot with a crowd and neon; Haiku's chosen photo is a side street of facades and the daylight street view makes the neon sign the subject; no clear exterior, so unsure."
   },
   {
-   "id": "de-citadel",
-   "better_file_or_null": null,
-   "why": "Single photo looks down on a green roof and low houses; the block itself is not shown."
+   "id": "cal-passani",
+   "better_file_or_null": "File:129 Cal Passani, c. Francesc Macià 44 (Sant Joan Despí).jpg",
+   "why": "Main is a low-resolution crop with a play area and fence in front; this view shows the whole house clearly (Haiku has it second)."
   },
   {
-   "id": "burghof-lorrach",
-   "better_file_or_null": "File:Burghof Lörrach... - panoramio.jpg",
-   "why": "First photo is a close view of one black pavilion; this daylight view shows pavilions and the building behind (wide 1600x632)."
+   "id": "asilomar-conference-grounds",
+   "better_file_or_null": "File:Scripps - Asilomar State Beach - DSC03009.JPG",
+   "why": "Haiku's first (Oak Knoll) is a dusk close view of one lodge; Scripps shows a building in the wider grounds. Marginal."
   },
   {
-   "id": "musik-und-kongresshalle-lubeck",
-   "better_file_or_null": "File:MuK. - panoramio.jpg",
-   "why": "The first photo is a wide aerial of the old town with the hall small in it; this one shows the hall clearly in sunshine."
+   "id": "ruderzentrum-blasewitz",
+   "better_file_or_null": "File:Ruderzentrum Blasewitz 2024-04-01.jpg",
+   "why": "Main is cluttered with houses and boats; this view across the Elbe shows the whole roof and building cleanly (Haiku has it second)."
   },
   {
-   "id": "casa-rozes",
-   "better_file_or_null": null,
-   "why": "Borderline: the only photo shows the house small among vegetation. Keep the building, but the tile is weak until a closer photo is found."
-  },
-  {
-   "id": "lafayette-anticipations-galeries-lafayette-corporate-foundation",
-   "better_file_or_null": null,
-   "why": "Borderline: the only photo is the old Paris street facade; Koolhaas's work is inside the courtyard and is not shown."
+   "id": "carew-tower",
+   "better_file_or_null": "File:Carew Tower, Cincinnati, Ohio.jpg",
+   "why": "Haiku's first is a looking-up crop of the tower; the Wikidata main shows the whole tower (Haiku has it second)."
   }
  ],
  "rescued": [
   {
-   "id": "klosterneuburg-protestant-church",
-   "why": "Distinctive round church by Heinz Tesar; the first photo is an interior but the exterior view (second) is clear and bright. Lead is thin but supports a plain features line.",
+   "id": "brno-crematorium",
+   "why": "Haiku skipped it for a lead with no reason, but it is a built work by Wiesner (a named well-known modern architect) with excellent whole-building daylight photos; year 1929 from the lead's 1926–1929.",
    "entry": {
-    "id": "klosterneuburg-protestant-church",
-    "qid": "Q38085901",
+    "id": "brno-crematorium",
+    "qid": "Q11343523",
     "status": "photo",
-    "why": "Tesar's round Protestant church, clear exterior photo.",
-    "name": "Klosterneuburg Protestant Church",
-    "by": "Heinz Tesar",
-    "city": "Klosterneuburg",
-    "cc": "AT",
-    "year": 1995,
-    "type": "Religious",
-    "movement": "Contemporary",
-    "concepts": [
-     "Light from above",
-     "Sculptural form",
-     "Geometry"
-    ],
-    "features": "Evangelical parish church on Franz-Rumpler-Strasse in Klosterneuburg, Lower Austria.",
-    "commons_category": "Category:Klosterneuburg Protestant Church",
-    "coords": [
-     48.30179,
-     16.32402
-    ],
-    "photos": [
-     {
-      "file": "File:Klosterneuburg evangelische Kirche Außenansicht.jpg",
-      "license": "CC BY-SA 3.0 at",
-      "seen": true
-     },
-     {
-      "file": "File:Evangelische Pfarrkirche Klosterneuburg 01.JPG",
-      "license": "CC BY-SA 3.0 at",
-      "seen": true
-     },
-     {
-      "file": "File:Klosterneuburg evangelische Kirche Innenansicht.jpg",
-      "license": "CC BY-SA 3.0 at",
-      "seen": true
-     },
-     {
-      "file": "File:Evangelische Pfarrkirche Klosterneuburg 03.JPG",
-      "license": "CC BY-SA 3.0 at",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "house-of-history-baden-wurttemberg",
-   "why": "Stirling-Wilford museum on Stuttgart's Cultural Mile; Haiku held it only for the year. The lead (cut off) does not give an opening year, so year is null. Front view photo is usable.",
-   "entry": {
-    "id": "house-of-history-baden-wurttemberg",
-    "qid": "Q263491",
-    "status": "photo",
-    "why": "Wilford's history museum in Stuttgart; front view photo.",
-    "name": "House of History Baden-Württemberg",
-    "by": "Michael Wilford, Manuel Schupp",
-    "city": "Stuttgart",
-    "cc": "DE",
-    "year": null,
-    "type": "Museum",
-    "movement": "Postmodernism",
-    "concepts": [
-     "Public space",
-     "Stone",
-     "Facade as skin"
-    ],
-    "features": "State history museum on Stuttgart's Cultural Mile between the Staatsgalerie and the Musikhochschule, a Stirling-Wilford project.",
-    "commons_category": "Category:Haus der Geschichte Baden-Württemberg",
-    "coords": [
-     48.7789,
-     9.18583
-    ],
-    "photos": [
-     {
-      "file": "File:Haus der Geschichte BW - Frontansicht.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:HausderGeschichteBaden-Württemberg.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Stuttgart Haus der Geschichte-pjt1.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "memorial-luiz-carlos-prestes",
-   "why": "Niemeyer built work; the lead describes the curved walls. Main photo shows the black and red curved volumes clearly although towers stand behind.",
-   "entry": {
-    "id": "memorial-luiz-carlos-prestes",
-    "qid": "Q48878372",
-    "status": "photo",
-    "why": "Niemeyer memorial in Porto Alegre; main photo shows the building.",
-    "name": "Memorial Luiz Carlos Prestes",
-    "by": "Oscar Niemeyer",
-    "city": "Porto Alegre",
-    "cc": "BR",
-    "year": 1998,
+    "why": "Haiku skipped it for a lead with no reason, but it is a built work by Wiesner (a named well-known modern architect) with excellent whole-building daylight photos; year 1929 from the lead's 1926–1929.",
+    "name": "Brno Crematorium",
+    "by": "Ernst Wiesner",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1929,
     "type": "Memorial",
     "movement": "Modernism",
     "concepts": [
-     "Sculptural form",
-     "Geometry",
+     "Axis",
+     "Brick",
      "Monumentality"
     ],
-    "features": "Niemeyer's memorial and cultural centre in Porto Alegre, with curved walls recalling the Prestes Column and a photographic archive.",
-    "commons_category": "Category:Memorial Luiz Carlos Prestes",
+    "features": "Arnošt Wiesner's crematorium at Brno Central Cemetery, built to his plans in 1926–1929 on Jihlavská Street.",
+    "commons_category": "Category:Brno Crematorium",
     "coords": [
-     -30.04593,
-     -51.23212
+     49.17235,
+     16.58966
     ],
     "photos": [
      {
-      "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil).jpg",
+      "file": "File:Brno, Crematorium.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Brněnské krematorium.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 0.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil) 3.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "saxon-landtag",
-   "why": "Kulka's glass-and-steel parliament entrance is a well-known German work; Haiku skipped only because the lead is short and the architect has no other wall building. Main photo is clear. Year is null: Wikidata's 1990 looks like the Landtag's refounding, not the building.",
-   "entry": {
-    "id": "saxon-landtag",
-    "qid": "Q1618988",
-    "status": "photo",
-    "why": "Peter Kulka's Saxon parliament building in Dresden.",
-    "name": "Saxon Landtag",
-    "by": "Peter Kulka",
-    "city": "Dresden",
-    "cc": "DE",
-    "year": null,
-    "type": "Civic",
-    "movement": "Contemporary",
-    "concepts": [
-     "Steel & glass",
-     "Structure as expression",
-     "Public space"
-    ],
-    "features": "Seat of the Saxon state parliament, on Bernhard von Lindenau Platz in Dresden.",
-    "commons_category": "Category:Sächsischer Landtag (building)",
-    "coords": [
-     51.05678,
-     13.73316
-    ],
-    "photos": [
-     {
-      "file": "File:SLT-aussen.JPG",
+      "file": "File:Brno Crematory.JPG",
       "license": "CC BY-SA 3.0",
       "seen": true
      }
@@ -407,219 +291,44 @@
    }
   },
   {
-   "id": "crematorium-bratislava",
-   "why": "Lead (Czech) calls it a cult work of Nordic-style modernism in a forest; completion 1967-68 from the lead. Main photo shows the long horizontal building on its hillside, small in the frame but clear; the second is a closer view.",
+   "id": "villa-neumark",
+   "why": "Built work by Wiesner (same standing as Haiku's kept Villa Haas); the lead names him and the 1928–1929 build; clear daylight photos of the whole villa.",
    "entry": {
-    "id": "crematorium-bratislava",
-    "qid": "Q12769693",
+    "id": "villa-neumark",
+    "qid": "Q11899038",
     "status": "photo",
-    "why": "Milucky's crematorium in Bratislava, completed 1968.",
-    "name": "Crematorium Bratislava",
-    "by": "Ferdinand Milučký",
-    "city": "Bratislava",
-    "cc": "SK",
-    "year": 1968,
-    "type": "Memorial",
+    "why": "Built work by Wiesner (same standing as Haiku's kept Villa Haas); the lead names him and the 1928–1929 build; clear daylight photos of the whole villa.",
+    "name": "Villa Neumark",
+    "by": "Ernst Wiesner",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1929,
+    "type": "House",
     "movement": "Modernism",
     "concepts": [
-     "Landscape",
-     "Stone",
-     "Light & shadow"
-    ],
-    "features": "Slovakia's first crematorium, built 1967-68, its horizontal lines set in woodland on the Little Carpathians.",
-    "commons_category": "Category:Crematorium Bratislava",
-    "coords": [
-     48.2096,
-     17.04493
-    ],
-    "photos": [
-     {
-      "file": "File:WP 20151027 13 12 32 Pro.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:WP 20151027 13 11 43 Pro.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "lugano-arte-e-cultura",
-   "why": "Major Swiss cultural centre (LAC) by Ivano Gianola; Haiku skipped only because the architect has no other wall building. Clear sunny exterior photo is the second one.",
-   "entry": {
-    "id": "lugano-arte-e-cultura",
-    "qid": "Q26986943",
-    "status": "photo",
-    "why": "LAC Lugano, a major cultural centre; clear exterior photo.",
-    "name": "Lugano Arte e Cultura",
-    "by": "Ivano Gianola",
-    "city": "Lugano",
-    "cc": "CH",
-    "year": 2015,
-    "type": "Culture & sport",
-    "movement": "Contemporary",
-    "concepts": [
-     "Stone",
-     "Public space",
-     "Facade as skin"
-    ],
-    "features": "Polyfunctional cultural centre in Lugano for music, visual and performing arts, housing the MASI art museum.",
-    "commons_category": "Category:LAC Lugano",
-    "coords": [
-     45.99932,
-     8.94808
-    ],
-    "photos": [
-     {
-      "file": "File:Lugano art culture 1090083.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:LAC di Lugano 02.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:LAC Lugano 03.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "stc-group",
-   "why": "Neutelings Riedijk's checkerboard STC building (already well represented by Minnaert). The lead describes the college, but its last line gives the Rotterdam headquarters, enough for a plain features line. Clear daylight exterior photos.",
-   "entry": {
-    "id": "stc-group",
-    "qid": "Q2365720",
-    "status": "photo",
-    "why": "Neutelings Riedijk's STC building in Rotterdam.",
-    "name": "STC Group",
-    "by": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
-    "city": "Rotterdam",
-    "cc": "NL",
-    "year": 2000,
-    "type": "Education",
-    "movement": "Contemporary",
-    "concepts": [
      "Facade as skin",
-     "Sculptural form",
+     "Landscape",
      "Geometry"
     ],
-    "features": "Rotterdam headquarters of the Shipping and Transport College Group, a maritime transport and logistics education provider.",
-    "commons_category": "Category:Scheepvaart en Transport College",
+    "features": "Ernst Wiesner's villa for the Brno businessman Walter Neumark, built 1928–1929 as a simpler version of Villa Stiassni.",
+    "commons_category": "Category:Villa Neumark",
     "coords": [
-     51.90172,
-     4.46127
+     49.1935,
+     16.5799
     ],
     "photos": [
      {
-      "file": "File:Rotterdam, The Netherlands (7622612352).jpg",
-      "license": "CC BY 2.0",
+      "file": "File:Vila Neumark, Brno Vinařská 1.jpg",
+      "license": "CC BY-SA 3.0",
       "seen": true
      },
      {
-      "file": "File:Bevenrode (ship, 1970) in front of STC Building Rotterdam.jpg",
-      "license": "CC BY 4.0",
+      "file": "File:Vila Neumark, Brno Vinařská 2.jpg",
+      "license": "CC BY-SA 3.0",
       "seen": true
      },
      {
-      "file": "File:STC Rotterdam vanaf de Waterweg.jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     },
-     {
-      "file": "File:Rotterdam STC building seen from 3e Katendrechtsehoofd.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "museum-belvedere",
-   "why": "Low dark museum in the Frisian landscape by Inbo; Haiku skipped for lack of lead detail. Borderline rescue: lead says only that it is a modern art museum. Main photo is clear.",
-   "entry": {
-    "id": "museum-belvedere",
-    "qid": "Q12013196",
-    "status": "photo",
-    "why": "Inbo's art museum in Heerenveen; clear exterior photo.",
-    "name": "Museum Belvédère",
-    "by": "Inbo",
-    "city": "Heerenveen",
-    "cc": "NL",
-    "year": 2004,
-    "type": "Museum",
-    "movement": "Contemporary",
-    "concepts": [
-     "Landscape",
-     "Water",
-     "Facade as skin"
-    ],
-    "features": "A museum of modern and contemporary art in Heerenveen, Friesland.",
-    "commons_category": "Category:Museum Belvédère",
-    "coords": [
-     52.95722,
-     5.96361
-    ],
-    "photos": [
-     {
-      "file": "File:Museum Belvédère, Heerenveen-4807.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Museum Belvédère, Heerenveen-4806.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Museum Belvédère, Heerenveen-4804.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "festspielhaus-st-polten",
-   "why": "Klaus Kada's festival house, a known Austrian work; opening date 1 March 1997 is in the lead. Strong main photo.",
-   "entry": {
-    "id": "festspielhaus-st-polten",
-    "qid": "Q1408821",
-    "status": "photo",
-    "why": "Kada's festival house in St. Poelten, opened 1997.",
-    "name": "Festspielhaus St. Pölten",
-    "by": "Klaus Kada",
-    "city": "St. Pölten",
-    "cc": "AT",
-    "year": 1997,
-    "type": "Culture & sport",
-    "movement": "Contemporary",
-    "concepts": [
-     "Sculptural form",
-     "Steel & glass",
-     "Public space"
-    ],
-    "features": "Festival house in St. Pölten's cultural district, opened on 1 March 1997 beside the state museum and library.",
-    "commons_category": "Category:Festspielhaus (St. Pölten)",
-    "coords": [
-     48.2009,
-     15.631
-    ],
-    "photos": [
-     {
-      "file": "File:Sankt Pölten - Regierungsviertel - Festspielhaus.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:2019 11 20 St Poelten Festspielhaus 3.jpeg",
+      "file": "File:Vila Neumark, Brno Vinařská 3.jpg",
       "license": "CC BY-SA 3.0",
       "seen": true
      }
@@ -627,44 +336,134 @@
    }
   },
   {
-   "id": "konzerthaus-blaibach",
-   "why": "Well-known granite-clad concert hall by Peter Haimerl; the lead is short but supports a plain features line; opening year 2014 is Wikidata's. Clear main photo.",
+   "id": "villa-pavlicek",
+   "why": "Built work by Fuchs (a named well-known architect); the lead gives him and the 1923–1924 build. Skipped only for a short lead. Photos are corner views through hedge and trees, with no clean full front, so the first is the best of four.",
    "entry": {
-    "id": "konzerthaus-blaibach",
-    "qid": "Q97602086",
+    "id": "villa-pavlicek",
+    "qid": "Q12044397",
     "status": "photo",
-    "why": "Haimerl's concert hall in Blaibach; striking granite volume.",
-    "name": "Konzerthaus Blaibach",
-    "by": "Peter Haimerl",
-    "city": "Blaibach",
-    "cc": "DE",
-    "year": 2014,
-    "type": "Culture & sport",
-    "movement": "Contemporary",
+    "why": "Built work by Fuchs (a named well-known architect); the lead gives him and the 1923–1924 build. Skipped only for a short lead. Photos are corner views through hedge and trees, with no clean full front, so the first is the best of four.",
+    "name": "Villa Pavlíček",
+    "by": "Bohuslav Fuchs",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1924,
+    "type": "House",
+    "movement": "Modernism",
     "concepts": [
-     "Stone",
-     "Sculptural form",
-     "Cantilever"
+     "Facade as skin",
+     "Geometry",
+     "Light & shadow"
     ],
-    "features": "Concert house in the village of Blaibach in the Upper Palatinate, for concerts, cultural events and exhibitions.",
-    "commons_category": "Category:Konzerthaus Blaibach",
+    "features": "The Pavlíček family house in Brno's Masaryk Quarter, designed by Bohuslav Fuchs and built 1923–1924.",
+    "commons_category": "Category:Villa Pavlíček",
     "coords": [
-     49.1659,
-     12.80787
+     49.1963,
+     16.5853
     ],
     "photos": [
      {
-      "file": "File:Konzerthaus Blaibach.jpg",
+      "file": "File:Brno, Lerchova, Pavlíčkův dům (3).jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Brno, Stránice, Lerchova, Pavlíčkův rodinný dům (2018-07-21; 01).jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Brno, Lerchova, Pavlíčkův dům (2).jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "lukaskirche-worms",
+   "why": "Haiku kept three other Bartning churches on the same kind of lead; this is the same standing, with four large daylight exterior views. Year 1950 is prep's (the lead gives none). Name uses the lead's own title, since prep's label is a long Commons-style description.",
+   "entry": {
+    "id": "lukaskirche-worms",
+    "qid": "Q1877015",
+    "status": "photo",
+    "why": "Haiku kept three other Bartning churches on the same kind of lead; this is the same standing, with four large daylight exterior views. Year 1950 is prep's (the lead gives none). Name uses the lead's own title, since prep's label is a long Commons-style description.",
+    "name": "Lukaskirche (Worms)",
+    "by": "Otto Bartning",
+    "city": "Worms",
+    "cc": "DE",
+    "year": 1950,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+     "Brick",
+     "Sculptural form",
+     "Monumentality"
+    ],
+    "features": "A Protestant church in the north of Worms's inner city, by Otto Bartning.",
+    "commons_category": "Category:Lukaskirche (Worms)",
+    "coords": [
+     49.6422,
+     8.36429
+    ],
+    "photos": [
+     {
+      "file": "File:Worms Lukaskirche Südwest.JPG",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Blaibach, Konzerthaus (1).jpg",
+      "file": "File:Worms Lukaskirche West.JPG",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Konzerthaus Blaibach-1.JPG",
+      "file": "File:Worms Lukaskirche Süd.JPG",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "bijenkorf-rotterdam",
+   "why": "Haiku skipped it because the lead describes the store chain, but it is a built work by Breuer (a named well-known architect) with a clear whole-building daylight main photo. The lead gives no year, so year is null; the lead says nothing about the building itself, so features only repeats the chain description. Not the same as the wall's Lijnbaan (172 m away).",
+   "entry": {
+    "id": "bijenkorf-rotterdam",
+    "qid": "Q2181857",
+    "status": "photo",
+    "why": "Haiku skipped it because the lead describes the store chain, but it is a built work by Breuer (a named well-known architect) with a clear whole-building daylight main photo. The lead gives no year, so year is null; the lead says nothing about the building itself, so features only repeats the chain description. Not the same as the wall's Lijnbaan (172 m away).",
+    "name": "Bijenkorf Rotterdam",
+    "by": "Marcel Breuer, Abraham Elzas",
+    "city": "Rotterdam",
+    "cc": "NL",
+    "year": null,
+    "type": "Workplace",
+    "movement": "Late modernism",
+    "concepts": [
+     "Facade as skin",
+     "Stone",
+     "Geometry"
+    ],
+    "features": "Marcel Breuer and Abraham Elzas's Rotterdam branch of De Bijenkorf, a Dutch chain of high-end department stores.",
+    "commons_category": "Category:Bijenkorf Rotterdam",
+    "coords": [
+     51.92039,
+     4.47889
+    ],
+    "photos": [
+     {
+      "file": "File:Rotterdam coolsingel bijenkorf.jpg",
+      "license": "CC BY 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Overzicht vanaf het zuidoosten - Rotterdam - 20533908 - RCE.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Overzicht ingangspartij aan de Coolsingel - Rotterdam - 20533912 - RCE.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
@@ -672,5 +471,5 @@
    }
   }
  ],
- "summary": "Positions 0-149: Haiku kept 67 as photo; 45 fine as they are (keep_ok, includes 8 of the main_photo_wrong ids whose building is right but photo is not), 8 need a field fix (11 fixes over 8 buildings), 14 wrong (mostly towers and one doubtful architect credit), 9 with a weak main photo. Rescued 10 from skip/unsure. Skips left alone: duplicates 6, 22, 35, 57, 108, 120, 127, 141; empty leads; demolished; no photos; interior-only photos. Notes: no dup_flag field exists in prep.json, so I checked all kept and rescued entries against site/data/buildings.js by qid, id and 250 m distance; nothing new on the wall. Unverifiable offline: Shizuoka (SANAA credit), Centre Ceramique year 1995. Haiku's 'Selene (building)' id is kept as given."
+ "summary": "Positions 0-149: Haiku photo 87, skip 50 (5 listed duplicates and 10 empty-lead skips stay skipped), unsure 13 (none rescued: no usable main photo, no photos, or a wall duplicate such as 22 and 128). Of the 87 photo entries: 57 ok as they are, 10 need a field fix (11 fixes), 7 have a wrong main photo (5 with a better file, 2 with none, so unsure), 13 are wrong (3 are same-building duplicates: 0, 131, 142; one more duplicate, Jyväskylä City Theatre at 4, had no dup_flag). Rescued 5 skipped buildings (Brno Crematorium, Villa Neumark, Villa Pavlíček, Lukaskirche Worms, Bijenkorf Rotterdam). Strictness calls the owner may override: 112 Osaka Central Public Hall, 146 Ringturm, 9 611 Place."
 }

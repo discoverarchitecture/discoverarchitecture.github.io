@@ -180,3 +180,22 @@ German, Spanish, French…). Haiku judged all 300; Sonnet checked every judgemen
 Held: 5 without a sourced year and the Shizuoka City Museum of History, whose SANAA credit nothing in the lead
 supports (`tools/cheap/pool5_held.json`). 75 candidates had no Wikipedia lead in any language and were skipped.
 The pool filter now needs the distance check too: 11 duplicates had a different Wikidata item from the wall's entry.
+
+## Haiku pipeline, sixth pool (21–22 Oct 2026): 300 candidates from 1900–1989
+
+At most 4 per architect, at most 20 towers; no stadiums, stations, hotels, malls, offices, housing, post offices or
+courthouses by type (US federal buildings by the Supervising Architect's office left out). 275 rows filled from
+Wikidata; 115 leads from other-language Wikipedias (German 62). Haiku judged all 300; Sonnet checked every judgement;
+Opus checked every gallery. 114 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 5 of 119 (4%): Gamble House (drawings only), Majestic Theatre (sign only), Ormen Långe, Crater Lake residence; Villa Primavesi for an unsourced year | fine |
+| No free photo | 11 of 300 (4%) | fine |
+| Already on the wall | 10 of 300 (3%): 9 by article or distance, and Jyväskylä City Theatre, which the distance check missed because the wall's entry has no coordinates | fine |
+| Facts failing the source check | Haiku's keeps: about 21 of 151 needed a fact fixed and 31 were wrong keeps (34%), mostly revival theatres, libraries and houses kept only because the architect is on the wall, and one 1981 building credited to Louis Kahn (died 1974). All fixed by Sonnet | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 20 of 114 (18%): 9 offices and towers, 5 workplaces, 3 housing, 3 hotels | below the 20% warning, **but rising across the Haiku pools: 10%, 10%, 16%, 18%** |
+
+Held for a year: 8 (Seth Peterson Cottage, Rietveld and Aldo van Eyck pavilions, Palace Moravia, Riverside Art
+Museum, Georg Kolbe Museum, De Bijenkorf Rotterdam, the Leuven institute); 2 more for no main photo
+(`tools/cheap/pool6_held.json`). 35 of the 114 are houses.

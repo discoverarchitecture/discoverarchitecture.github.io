@@ -2,6 +2,30 @@
  {
   "date": "2026-10-21",
   "workstream": "Data collection",
+  "what": "82 contemporary buildings from the fifth Haiku pool (1990 onwards)",
+  "pr": "119"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Pricing, refunds, contact and FGA Studio terms and privacy, linked from every page (for the Dodo Payments review)",
+  "pr": "118"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "FGA Studio: directory listing kit",
+  "pr": "117"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "FGA Studio: \"architecture presentation board\" for Google, and a link from every page's footer",
+  "pr": "116"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
   "what": "177 new buildings from the third and fourth Haiku pools; page titles keep firm names whole",
   "pr": "114"
  },
@@ -117,6 +141,12 @@
   "date": "2026-10-21",
   "workstream": "Data collection",
   "what": "Haiku pipeline, fourth pool (modern): 300 candidates judged by Haiku, every judgement checked by Sonnet (37 rescued), every gallery by Opus; 79 buildings added, 90 weak photos removed, 7 held for want of a sourced year. Page titles now keep firms like McKim, Mead & White whole.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, fifth pool (1990 onwards): 300 candidates judged by Haiku, every judgement checked by Sonnet (22 rescued, 16 wrong keeps out), every gallery by Opus; 82 contemporary buildings added (Ando, Isozaki, Ito, Maki, Siza, Souto de Moura, Moneo, Nouvel, Koolhaas, Herzog & de Meuron, Patkau, Tchoban…), 119 weak photos removed, 7 held.",
   "pr": ""
  },
  {

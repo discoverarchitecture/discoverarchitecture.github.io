@@ -1,0 +1,1394 @@
+[
+ {
+  "id": "allen-memorial-medical-library",
+  "qid": "Q4731780",
+  "status": "skip",
+  "why": "Classical revival library; the lead gives a listing and history, not a design reason to study it."
+ },
+ {
+  "id": "naturtheater-grotzingen",
+  "qid": "Q1577335",
+  "status": "photo",
+  "why": "Thin shell; lead names Michael Balz as architect, Heinz Isler as engineer. Aerial photo shows the shell.",
+  "name": "Naturtheater Grötzingen",
+  "by": "Michael Balz",
+  "city": "Aichtal",
+  "cc": "DE",
+  "year": 1954,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "A 1954 thin concrete shell over an open-air sylvan theatre that seats 850.",
+  "commons_category": "Category:Naturtheater Grötzingen",
+  "coords": [
+   48.6223,
+   9.26615
+  ],
+  "photos": [
+   {
+    "file": "File:Luftbild Naturtheater Groetzingen.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "schonberg-tower",
+  "qid": "Q1635504",
+  "status": "skip",
+  "why": "Small observation tower and local landmark; the lead gives no design reason beyond that."
+ },
+ {
+  "id": "theater-giessen",
+  "qid": "Q2328206",
+  "status": "photo",
+  "why": "Lead describes the building's style and date; Fellner & Helmer are a known theatre firm with several on the wall.",
+  "name": "Theater Gießen",
+  "by": "Fellner & Helmer",
+  "city": "Gießen",
+  "cc": "DE",
+  "year": 1906,
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Neo-classical theatre with Jugendstil influences by Fellner & Helmer, completed in 1906, with two stages.",
+  "commons_category": "Category:Stadttheater Gießen",
+  "coords": [
+   50.5841,
+   8.6777
+  ],
+  "photos": [
+   {
+    "file": "File:Stadttheater Giessen 2011.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Giessen theater.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hearst-greek-theatre",
+  "qid": "Q671266",
+  "status": "skip",
+  "why": "The lead is about events and speakers, not the design of the Greek Theatre."
+ },
+ {
+  "id": "majestic-theatre",
+  "qid": "Q6737719",
+  "status": "photo",
+  "why": "Atmospheric theatre by John Eberson; National Historic Landmark. Night and crowd photos left out.",
+  "name": "Majestic Theatre",
+  "by": "John Eberson",
+  "city": "San Antonio",
+  "cc": "US",
+  "year": 1929,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Detail",
+   "Public space"
+  ],
+  "features": "San Antonio's oldest and largest atmospheric theatre, a 1929 National Historic Landmark seating 2,264.",
+  "commons_category": "Category:Majestic Theatre (San Antonio)",
+  "coords": [
+   29.42631,
+   -98.49042
+  ],
+  "photos": [
+   {
+    "file": "File:Majestic Theater (1 of 1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "desingel",
+  "qid": "Q775025",
+  "status": "skip",
+  "why": "The lead describes the programme and tenants, not the building; no design reason given."
+ },
+ {
+  "id": "renaissance-theater",
+  "qid": "Q876556",
+  "status": "photo",
+  "why": "Lead gives a named movement and a clear claim; facade photos in daylight.",
+  "name": "Renaissance-Theater",
+  "by": "Oskar Kaufmann",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1922,
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "The only fully preserved Art Deco theatre in Europe, and a listed monument.",
+  "commons_category": "Category:Renaissancetheater (Berlin)",
+  "coords": [
+   52.5104,
+   13.3234
+  ],
+  "photos": [
+   {
+    "file": "File:Renaissance-Theater Berlin 06-2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Renaissance-Theater 0575.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Renaissancetheater (Berlin) 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maria-konigin-des-friedens-munchen",
+  "qid": "Q1896063",
+  "status": "skip",
+  "why": "Post-war parish church; the lead gives only its location, no design reason."
+ },
+ {
+  "id": "colorado-springs-fine-arts-center",
+  "qid": "Q5148924",
+  "status": "skip",
+  "why": "The lead gives a listing and a logo, not the design of the building."
+ },
+ {
+  "id": "villa-allegonda",
+  "qid": "Q1988662",
+  "status": "photo",
+  "why": "Lead gives its place in modern architecture history; architects from Wikidata (lead names none). Daylight exterior.",
+  "name": "Villa Allegonda",
+  "by": "Hendrik Jesse, J. J. P. Oud, Albert Aalbers",
+  "city": "Katwijk",
+  "cc": "NL",
+  "year": 1917,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Detail",
+   "Free plan"
+  ],
+  "features": "A villa of major importance to modern architecture history, largely restored to its original state by 2018.",
+  "commons_category": "Category:Boulevard 1, Katwijk",
+  "coords": [
+   52.20972,
+   4.39888
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Allegonda 29 juni 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "droste-hulshoff-gymnasium-freiburg",
+  "qid": "Q26271989",
+  "status": "unsure",
+  "why": "Wikidata gives 1946 for a Behnisch school; that looks too early, and the lead gives no year or design reason. Check the year.",
+  "name": "Droste-Hülshoff-Gymnasium Freiburg",
+  "by": "Günter Behnisch"
+ },
+ {
+  "id": "boise-high-school",
+  "qid": "Q4938451",
+  "status": "skip",
+  "why": "Ordinary early-1900s high school; the lead gives no design reason to study it."
+ },
+ {
+  "id": "dominus-flevit-church",
+  "qid": "Q1238436",
+  "status": "skip",
+  "why": "The lead covers the archaeology and location, not the design of the church."
+ },
+ {
+  "id": "1251-avenue-of-the-americas",
+  "qid": "Q173498",
+  "status": "photo",
+  "why": "Lead describes the facade and sunken plaza. Main hot-dog-stand photo dropped; tower shots used.",
+  "name": "1251 Avenue of the Americas",
+  "by": "Wallace Harrison",
+  "city": "New York",
+  "cc": "US",
+  "year": 1972,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Public space"
+  ],
+  "features": "An international-style tower whose glass and limestone stripes form a plain facade, with a sunken plaza and pool.",
+  "commons_category": "Category:1251 Avenue of the Americas",
+  "coords": [
+   40.76,
+   -73.9814
+  ],
+  "photos": [
+   {
+    "file": "File:1251 Avenue of the Americas (55283617091).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:50th St 6th Av td 05 - Rockefeller Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aon-center",
+  "qid": "Q607743",
+  "status": "photo",
+  "why": "Lead explains the slim form for a seismic site; clear daylight view of the tower.",
+  "name": "Aon Center",
+  "by": "Charles Luckman",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1973,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "A slender bronze-clad modernist office tower, unusually slim for an earthquake-prone city.",
+  "commons_category": "Category:Aon Center (Los Angeles)",
+  "coords": [
+   34.04917,
+   -118.25694
+  ],
+  "photos": [
+   {
+    "file": "File:Aon Center LA.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "33-thomas-street",
+  "qid": "Q4635219",
+  "status": "photo",
+  "why": "Lead names Brutalism; only the first photo shows the building itself.",
+  "name": "33 Thomas Street",
+  "by": "John Carl Warnecke",
+  "city": "New York",
+  "cc": "US",
+  "year": 1974,
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Void"
+  ],
+  "features": "A windowless Brutalist telephone exchange tower, 170 m tall, in Lower Manhattan.",
+  "commons_category": "Category:AT&T Long Lines Building (33 Thomas Street)",
+  "coords": [
+   40.71654,
+   -74.00592
+  ],
+  "photos": [
+   {
+    "file": "File:33 thomas st.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "250-vesey-street",
+  "qid": "Q1192749",
+  "status": "unsure",
+  "why": "The only candidate photo shows the Brookfield Place complex, not this tower alone. Needs a photo of 250 Vesey.",
+  "name": "250 Vesey Street",
+  "by": "César Pelli",
+  "note": "no main photo"
+ },
+ {
+  "id": "norfolk-scope",
+  "qid": "Q1131230",
+  "status": "photo",
+  "why": "Lead names Nervi's concrete dome as the design. Only the exterior photo passes; the rest are events.",
+  "name": "Norfolk Scope",
+  "by": "Pier Luigi Nervi",
+  "city": "Norfolk",
+  "cc": "US",
+  "year": 1971,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Pier Luigi Nervi's reinforced concrete dome over an 11,000-seat arena, completed in 1971.",
+  "commons_category": "Category:Norfolk Scope",
+  "coords": [
+   36.8533,
+   -76.2867
+  ],
+  "photos": [
+   {
+    "file": "File:Norfolk Scope2.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "la-spezia-cathedral",
+  "qid": "Q2942687",
+  "status": "photo",
+  "why": "Lead names Libera and the build dates; Libera has several buildings on the wall. Only the exterior passes.",
+  "name": "La Spezia Cathedral",
+  "by": "Adalberto Libera",
+  "city": "La Spezia",
+  "cc": "IT",
+  "year": 1975,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "A Roman Catholic cathedral built 1956–1975 to designs by Adalberto Libera.",
+  "commons_category": "Category:Cattedrale Cristo Re (La Spezia)",
+  "coords": [
+   44.10832,
+   9.82757
+  ],
+  "photos": [
+   {
+    "file": "File:Cattedrale della Spezia.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jakopic-promenade",
+  "qid": "Q12791896",
+  "status": "skip",
+  "why": "The lead is about Tivoli Park, not the promenade or its design."
+ },
+ {
+  "id": "st-jerome-seminary-augsburg",
+  "qid": "Q1408967",
+  "status": "photo",
+  "why": "Lead gives little on the design; kept under the well-known architect rule (Branca has buildings on the wall). Check the design.",
+  "name": "St. Jerome Seminary, Augsburg",
+  "by": "Alexander von Branca",
+  "city": "Augsburg",
+  "cc": "DE",
+  "year": 1970,
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Courtyard",
+   "Facade as skin",
+   "Cluster"
+  ],
+  "features": "One of the largest seminaries in German-speaking Europe, with a history back to the 16th century.",
+  "commons_category": "Category:Priesterseminar St. Hieronymus (Augsburg)",
+  "coords": [
+   48.3453,
+   10.907
+  ],
+  "photos": [
+   {
+    "file": "File:Priesterseminar Augsburg.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Innenhof Priesterseminar Augsburg.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "albert-kahn-house",
+  "qid": "Q4710608",
+  "status": "photo",
+  "why": "Lead gives listings and current use only; kept under the well-known architect rule (Kahn's Fisher Building is on the wall).",
+  "name": "Albert Kahn House",
+  "by": "Albert Kahn",
+  "city": "Detroit",
+  "cc": "US",
+  "year": 1906,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Detail",
+   "Landscape"
+  ],
+  "features": "A Detroit house in Brush Park, a Michigan State Historic Site since 1971, now the Detroit Urban League's headquarters.",
+  "commons_category": "Category:Albert Kahn House",
+  "coords": [
+   42.34833,
+   -83.05583
+  ],
+  "photos": [
+   {
+    "file": "File:Albert Kahn House.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:UsaEast2016 604 Albert Kahn House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maccabees-building",
+  "qid": "Q6722822",
+  "status": "photo",
+  "why": "Lead gives listing and ownership only; kept under the well-known architect rule. Interior photos left out.",
+  "name": "Maccabees Building",
+  "by": "Albert Kahn",
+  "city": "Detroit",
+  "cc": "US",
+  "year": 1927,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Colour"
+  ],
+  "features": "A 1927 Detroit building by Albert Kahn, listed on the National Register and now owned by Wayne State University.",
+  "commons_category": "Category:Maccabees Building",
+  "coords": [
+   42.35778,
+   -83.06556
+  ],
+  "photos": [
+   {
+    "file": "File:MacabeesBuilding2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Detroit December 2021 39 (Maccabees Building).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wayne State U-Woodward Avenue.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "vestersohus",
+  "qid": "Q111599263",
+  "status": "photo",
+  "why": "Danish-language lead, translated: named architects, 1939, a key work of Danish functionalism.",
+  "name": "Vestersøhus",
+  "by": "Kay Fisker, C. F. Møller",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": 1939,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Modular",
+   "Facade as skin"
+  ],
+  "features": "A seven-storey red-brick block by Kay Fisker and C. F. Møller, a key work of Danish functionalism, completed 1939.",
+  "commons_category": "Category:Vestersøhus",
+  "coords": [
+   55.67916,
+   12.56028
+  ],
+  "photos": [
+   {
+    "file": "File:Vestersøhus across the lake.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stadsschouwburg-nijmegen",
+  "qid": "Q2433308",
+  "status": "photo",
+  "why": "Dutch lead, translated: only the dates; kept under the well-known architect rule (Bijvoet has buildings on the wall). Year taken as the end of the 1955–1961 range.",
+  "name": "Stadsschouwburg Nijmegen",
+  "by": "Bernard Bijvoet",
+  "city": "Nijmegen",
+  "cc": "NL",
+  "year": 1961,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Public space"
+  ],
+  "features": "A theatre on Keizer Karelplein in Nijmegen, dating from 1955–1961.",
+  "commons_category": "Category:Stadsschouwburg Nijmegen",
+  "coords": [
+   51.84276,
+   5.85804
+  ],
+  "photos": [
+   {
+    "file": "File:532210 stadsschouwburg nijmegen.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stadsschouwburg Nijmegen - Q2433308 (totaal).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-rotalinti",
+  "qid": "Q29883909",
+  "status": "photo",
+  "why": "Lead names Brutalism and Galfetti; daylight exteriors. Dark interior left out.",
+  "name": "Casa Rotalinti",
+  "by": "Aurelio Galfetti",
+  "city": "Bellinzona",
+  "cc": "CH",
+  "year": 1961,
+  "type": "House",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Structure as expression"
+  ],
+  "features": "A Brutalist house by Aurelio Galfetti in Bellinzona, built by 1961 and listed as regionally important.",
+  "commons_category": "Category:Casa Rotalinti (Via Sasso Corbaro 5, Bellinzona)",
+  "coords": [
+   46.18627,
+   9.02747
+  ],
+  "photos": [
+   {
+    "file": "File:Casa Rotalinti, Bellinzona.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casa Rotalinti, Bellinzona - Ansicht von Westen.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stelling-house",
+  "qid": "Q7607258",
+  "status": "photo",
+  "why": "Lead gives the design aim (blending into the old town) and names Jacobsen. Old black-and-white street views left out.",
+  "name": "Stelling House",
+  "by": "Arne Jacobsen",
+  "city": "Copenhagen",
+  "cc": "DK",
+  "year": 1937,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "Arne Jacobsen's 1937 office and shop block that blends in with the older buildings around Gammeltorv.",
+  "commons_category": "Category:Stellings Hus",
+  "coords": [
+   55.67843,
+   12.57257
+  ],
+  "photos": [
+   {
+    "file": "File:Arne jacobsen, stellings hus, copenhagen 1934-1937 (2351174104).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stellings Hus - Skindergade.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Arne Jacobsen - Stellings Hus.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "alan-i-w-frank-house",
+  "qid": "Q7712979",
+  "status": "unsure",
+  "why": "Gropius and Breuer's house in Pittsburgh is a strong case, but prep.json has no photos at all.",
+  "name": "Alan I W Frank House",
+  "by": "Walter Gropius, Marcel Breuer",
+  "note": "no main photo"
+ },
+ {
+  "id": "aeg-hochspannungsfabrik",
+  "qid": "Q111606215",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on. Behrens's name is from Wikidata only."
+ },
+ {
+  "id": "jingliao-holy-cross-church",
+  "qid": "Q15831646",
+  "status": "photo",
+  "why": "Lead gives only the location; kept under the well-known architect rule (Böhm has buildings on the wall). City is Tainan, not the district.",
+  "name": "Jingliao Holy Cross Church",
+  "by": "Gottfried Böhm",
+  "city": "Tainan",
+  "cc": "TW",
+  "year": 1955,
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Monumentality"
+  ],
+  "features": "A church in Jingliao Village, Tainan, Taiwan, designed by Gottfried Böhm.",
+  "commons_category": "Category:Saint Cross Church, Jingliao",
+  "coords": [
+   23.37819,
+   120.33992
+  ],
+  "photos": [
+   {
+    "file": "File:Saint Cross Church, Jingliao, Tainan (Taiwan).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:菁寮天主堂.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:菁寮聖十字架堂 Saint Cross Church in Jingliao - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kansas-city-power-and-light-building",
+  "qid": "Q4352432",
+  "status": "unsure",
+  "why": "No daylight photo of this tower: photo 1 is the Muehlebach Hotel and the tower shots are at night. Check for a daytime photo.",
+  "name": "Kansas City Power and Light Building",
+  "by": "Hoit, Price and Barnes",
+  "note": "no main photo"
+ },
+ {
+  "id": "100-north-main",
+  "qid": "Q4546167",
+  "status": "skip",
+  "why": "Vacant, condemned tower; the lead gives no design reason, and Wikidata's architect is the National Park Service."
+ },
+ {
+  "id": "kaiser-friedrich-gedachtniskirche",
+  "qid": "Q658985",
+  "status": "skip",
+  "why": "The lead names Lemmer and the date but not why the church matters."
+ },
+ {
+  "id": "villa-primavesi",
+  "qid": "Q9374720",
+  "status": "photo",
+  "why": "Lead names Art Nouveau. Wikidata gives 1900 but the photo caption says built 1905-06, so 1906 is used. Historic postcards left out.",
+  "name": "Villa Primavesi",
+  "by": "Franz von Krauss",
+  "city": "Olomouc",
+  "cc": "CZ",
+  "year": 1906,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "An Art Nouveau villa in Olomouc, designed for a banker and his actress wife.",
+  "commons_category": "Category:Villa Primavesi",
+  "coords": [
+   49.5941,
+   17.2552
+  ],
+  "photos": [
+   {
+    "file": "File:Olomouc, Vila Primavesi ze zahrady.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vila Primavesi v Olomouci.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "oradea-state-theatre",
+  "qid": "Q11951083",
+  "status": "photo",
+  "why": "Catalan lead, translated: names Fellner & Helmer and the build dates, and describes the facade style.",
+  "name": "Oradea State Theatre",
+  "by": "Fellner & Helmer",
+  "city": "Oradea",
+  "cc": "RO",
+  "year": 1900,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Neoclassical theatre by Fellner & Helmer, built in 15 months in 1899–1900, with rich rococo-style ornament.",
+  "commons_category": "Category:Oradea State Theatre",
+  "coords": [
+   47.05731,
+   21.93136
+  ],
+  "photos": [
+   {
+    "file": "File:2025-05-03 Oradea detail 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatrul de Stat Oradea (2023) - img 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatrul de Stat Oradea (2023) - img 03.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-egyptian-theatre",
+  "qid": "Q1659278",
+  "status": "photo",
+  "why": "Lead describes the pylons and lotus pillars, based on Karnak; daylight facade.",
+  "name": "The Egyptian Theatre",
+  "by": "Tourtellotte & Hummel",
+  "city": "Boise",
+  "cc": "US",
+  "year": 1927,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Colour"
+  ],
+  "features": "An Egyptian-revival theatre in Boise whose pylons and lotus pillars are based on Karnak.",
+  "commons_category": "Category:Ada Theatre",
+  "coords": [
+   43.615,
+   -116.201
+  ],
+  "photos": [
+   {
+    "file": "File:Boise - Egyptian Theater.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "buckingham-building",
+  "qid": "Q16985591",
+  "status": "unsure",
+  "why": "Holabird & Root's Art Deco tower is a good case, but the first photo may be a dusk view and the second has a banner over the facade. Check for a daylight photo.",
+  "name": "Buckingham Building",
+  "by": "Holabird & Root",
+  "note": "no main photo"
+ },
+ {
+  "id": "coliseum-theater",
+  "qid": "Q5145768",
+  "status": "photo",
+  "why": "Lead gives its firsts and the terra cotta exterior; the one daylight exterior passes. Interior photos left out.",
+  "name": "Coliseum Theater",
+  "by": "B. Marcus Priteca",
+  "city": "Seattle",
+  "cc": "US",
+  "year": 1916,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Light & shadow"
+  ],
+  "features": "Seattle's first cinema built for movies, with elaborate terra cotta on its exterior, opened in 1916.",
+  "commons_category": "Category:Coliseum Theater",
+  "coords": [
+   47.6114,
+   -122.334
+  ],
+  "photos": [
+   {
+    "file": "File:Seattle Coliseum Theater 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ljubljana-national-drama-theatre",
+  "qid": "Q557229",
+  "status": "skip",
+  "why": "The lead gives only the style (late historicism) and location; no reason it matters to a student."
+ },
+ {
+  "id": "powell-hall",
+  "qid": "Q7236070",
+  "status": "skip",
+  "why": "No photos, and the lead covers the hall's history and use, not its design."
+ },
+ {
+  "id": "providence-biltmore",
+  "qid": "Q7252390",
+  "status": "skip",
+  "why": "A hotel; the lead gives its history and listings, not a design reason."
+ },
+ {
+  "id": "san-gabriele-arcangelo-in-mater-dei-church",
+  "qid": "Q18224026",
+  "status": "unsure",
+  "why": "The photos are drawings, models and an interior; the one exterior has trucks in front. Needs a clear exterior photo of the church.",
+  "name": "San Gabriele Arcangelo in Mater Dei Church",
+  "by": "Pier Giacomo Castiglioni",
+  "note": "no main photo"
+ },
+ {
+  "id": "neu-st-alban",
+  "qid": "Q1979182",
+  "status": "photo",
+  "why": "German lead, translated: names Schilling and the reclaimed rubble bricks. Year taken as the end of the 1958/59 range.",
+  "name": "Neu St. Alban",
+  "by": "Hans Schilling",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1959,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Reclaimed material",
+   "Brick",
+   "Structure as expression"
+  ],
+  "features": "A church built from rubble bricks, with material from Cologne's old opera house, demolished in 1958.",
+  "commons_category": "Category:Neu St. Alban (Köln)",
+  "coords": [
+   50.9458,
+   6.9371
+  ],
+  "photos": [
+   {
+    "file": "File:Neu St. Alban Südostseite, Köln - 9319.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "adria-palace",
+  "qid": "Q38037088",
+  "status": "photo",
+  "why": "French lead, translated: calls it a cubist monument. Janák is a well-known Czech architect; the photos are daylight street views.",
+  "name": "Adria Palace",
+  "by": "Pavel Janák, Josef Zasche",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1924,
+  "type": "Workplace",
+  "movement": "Expressionism",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "A cubist monument in Prague's New Town, facing the ARA palace.",
+  "commons_category": "Category:Adria Palace (Prague)",
+  "coords": [
+   50.08279,
+   14.42191
+  ],
+  "photos": [
+   {
+    "file": "File:Praha palác Adria čelo 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jungmannovo náměstí 40 (Prague).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "115th-street-library",
+  "qid": "Q7013880",
+  "status": "photo",
+  "why": "Lead describes the limestone facade and arches. Evening exterior left out.",
+  "name": "115th Street Library",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": 1908,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A rusticated limestone Italian Renaissance library by McKim, Mead & White, one of 11 Carnegie branches they designed.",
+  "commons_category": "Category:NYPL 115th Street Branch",
+  "coords": [
+   40.80278,
+   -73.95389
+  ],
+  "photos": [
+   {
+    "file": "File:Harlem Jul 2026 89.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Harlem Jul 2026 90.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Harlem Jul 2026 93.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hamilton-grange-library",
+  "qid": "Q7013883",
+  "status": "photo",
+  "why": "Lead describes the limestone facade, arches and bronze details. Year from the lead (1905-06), not Wikidata's 1907.",
+  "name": "Hamilton Grange Library",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": 1906,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A rusticated limestone Italian Renaissance library by McKim, Mead & White, built 1905–1906 with bronze lamps and grilles.",
+  "commons_category": "Category:NYPL Hamilton Grange Branch",
+  "coords": [
+   40.82536,
+   -73.94781
+  ],
+  "photos": [
+   {
+    "file": "File:NYPL Hamilton Grange jeh.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:NYPL Hamilton Grange Branch, Manhattan.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "versohnungskirche",
+  "qid": "Q15852728",
+  "status": "skip",
+  "why": "The lead calls it a modern church in Wiblingen but names no architect and gives no reason to study it."
+ },
+ {
+  "id": "pfarrkirche-neu-erdberg",
+  "qid": "Q2082584",
+  "status": "skip",
+  "why": "The lead gives the build dates and listing, not the design; the architect is not a well-known name."
+ },
+ {
+  "id": "st-paulus-beuel",
+  "qid": "Q2322385",
+  "status": "skip",
+  "why": "The lead gives only the build dates and a listing; no design reason, and Dominikus Böhm has no building on the wall."
+ },
+ {
+  "id": "vila-franze-strosse",
+  "qid": "Q33310707",
+  "status": "photo",
+  "why": "Czech lead, translated: built 1923-25, rounded ship-like form. Wikidata's 1901 is not the build date; Kristiánov is a district, so Liberec is used.",
+  "name": "Vila Franze Strosse",
+  "by": "Thilo Schoder",
+  "city": "Liberec",
+  "cc": "CZ",
+  "year": 1925,
+  "type": "House",
+  "movement": "Art Deco",
+  "concepts": [
+   "Sculptural form",
+   "Detail",
+   "Colour"
+  ],
+  "features": "A 1923–25 villa in Liberec by Thilo Schoder, its rounded forms evoking a ship.",
+  "commons_category": "Category:Strossova vila",
+  "coords": [
+   50.7724,
+   15.077
+  ],
+  "photos": [
+   {
+    "file": "File:Celkový pohled na Strossovu vilu.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lescaze-house",
+  "qid": "Q6405789",
+  "status": "photo",
+  "why": "Lead names the International Style and the glass blocks. The main photo's caption names another house, so check that it shows this one.",
+  "name": "Lescaze House",
+  "by": "William Lescaze",
+  "city": "New York",
+  "cc": "US",
+  "year": 1934,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "A 1934 International Style townhouse in Manhattan with glass-block windows, the first of their kind in New York City.",
+  "commons_category": "Category:Lescaze House",
+  "coords": [
+   40.75442,
+   -73.97086
+  ],
+  "photos": [
+   {
+    "file": "File:Renz-ny.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lescaze House - 2026 (55273540736).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lescaze House Jun 2021 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stadthalle-gorlitz",
+  "qid": "Q2327239",
+  "status": "skip",
+  "why": "The lead covers its uses and closure, not the design, and the architect is not a well-known name."
+ },
+ {
+  "id": "ormen-lange",
+  "qid": "Q10611613",
+  "status": "photo",
+  "why": "Swedish lead, translated: Erskine's curved Arctic housing with covered streets. The only photo is black and white.",
+  "name": "Ormen Långe",
+  "by": "Ralph Erskine",
+  "city": "Svappavaara",
+  "cc": "SE",
+  "year": 1965,
+  "type": "Housing",
+  "movement": "Regionalism",
+  "concepts": [
+   "Climate response",
+   "Community",
+   "Circulation"
+  ],
+  "features": "A 1965 curved housing block in Svappavaara, an experiment in housing for the Arctic.",
+  "commons_category": null,
+  "coords": [
+   67.64972,
+   21.05639
+  ],
+  "photos": [
+   {
+    "file": "File:Svappavaara 1965b.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "poelzig-building",
+  "qid": "Q106670351",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on."
+ },
+ {
+  "id": "casa-caccia",
+  "qid": "Q111144402",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on, though Botta is well known."
+ },
+ {
+  "id": "la-scala-movie-theater",
+  "qid": "Q131449587",
+  "status": "skip",
+  "why": "No lead text, and the first photo shows a rear facade; the front is a reconstruction."
+ },
+ {
+  "id": "wagenaarweg-30-the-hague",
+  "qid": "Q17386967",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on."
+ },
+ {
+  "id": "2e-scheepvaartstraat-91-133-hoek-van-holland",
+  "qid": "Q17455384",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on, though Oud is well known."
+ },
+ {
+  "id": "villa-augier-prouvost-a-ville-d-avray-02",
+  "qid": "Q22924369",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on. Mallet-Stevens's name is from Wikidata only."
+ },
+ {
+  "id": "villa-trapenard",
+  "qid": "Q22980806",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on. Mallet-Stevens's name is from Wikidata only."
+ },
+ {
+  "id": "villa-jaquemet",
+  "qid": "Q29522938",
+  "status": "skip",
+  "why": "No lead text. Le Corbusier's name is from Wikidata only; worth a look if a lead is found."
+ },
+ {
+  "id": "villa-stotzer",
+  "qid": "Q29522950",
+  "status": "skip",
+  "why": "No lead text. Le Corbusier's name is from Wikidata only; worth a look if a lead is found."
+ },
+ {
+  "id": "house-duldeck",
+  "qid": "Q29525160",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on."
+ },
+ {
+  "id": "maison-collinet",
+  "qid": "Q2971875",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on. Mallet-Stevens's name is from Wikidata only."
+ },
+ {
+  "id": "flora-lamson-hewlett-library",
+  "qid": "Q5460315",
+  "status": "photo",
+  "why": "Lead gives the collection, not the design; kept under the well-known architect rule (Kahn has many buildings on the wall). Architect and year from Wikidata.",
+  "name": "Flora Lamson Hewlett Library",
+  "by": "Louis Kahn",
+  "city": "Berkeley",
+  "cc": "US",
+  "year": 1981,
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Louis Kahn's central library of the Graduate Theological Union in Berkeley, with over 500,000 volumes.",
+  "commons_category": null,
+  "coords": [
+   37.8755,
+   -122.262
+  ],
+  "photos": [
+   {
+    "file": "File:Flora Lamson Hewlett Library 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "quartiere-mangiagalli-ii",
+  "qid": "Q55100698",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on."
+ },
+ {
+  "id": "ina-village-in-cesate",
+  "qid": "Q55292493",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on."
+ },
+ {
+  "id": "haus-perls",
+  "qid": "Q61768262",
+  "status": "skip",
+  "why": "No lead text. Mies van der Rohe's name is from Wikidata only; worth a look if a lead is found."
+ },
+ {
+  "id": "arne-jacobsen-s-own-house-in-charlottenlund",
+  "qid": "Q55065450",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on. Jacobsen's name is from Wikidata only."
+ },
+ {
+  "id": "san-francesco-church",
+  "qid": "Q57590450",
+  "status": "skip",
+  "why": "No lead text, so nothing to base a description on."
+ },
+ {
+  "id": "international-conference-center-hiroshima",
+  "qid": "Q11484485",
+  "status": "photo",
+  "why": "Japanese lead gives only the use and place; kept under the well-known architect rule (Tange has 22 buildings on the wall). Only the main exterior passes.",
+  "name": "International Conference Center Hiroshima",
+  "by": "Kenzō Tange",
+  "city": "Hiroshima",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Exposed concrete"
+  ],
+  "features": "A convention centre with a multipurpose hall in central Hiroshima, designed by Kenzō Tange.",
+  "commons_category": "Category:International Conference Center Hiroshima",
+  "coords": [
+   34.39208,
+   132.45103
+  ],
+  "photos": [
+   {
+    "file": "File:International Conference Center Hiroshima 2008 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "onyx-theater",
+  "qid": "Q16511540",
+  "status": "photo",
+  "why": "French lead gives only the history; kept under the well-known architect rule (Nouvel has 22 buildings on the wall). Letter-sign close-ups left out.",
+  "name": "ONYX theater",
+  "by": "Jean Nouvel, Myrto Vitart",
+  "city": "Saint-Herblain",
+  "cc": "FR",
+  "year": 1988,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A performance venue in Saint-Herblain, created in 1988 and now run by the city.",
+  "commons_category": "Category:Théâtre Onyx",
+  "coords": [
+   47.22389,
+   -1.62917
+  ],
+  "photos": [
+   {
+    "file": "File:ONYX theater.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:La façade du théâtre ONYX.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Le théâtre ONYX et le lac.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "333-south-wabash",
+  "qid": "Q961346",
+  "status": "skip",
+  "why": "The lead gives only the name, height and location of an office tower; no design reason."
+ },
+ {
+  "id": "staatliche-kunsthalle-baden-baden",
+  "qid": "Q1792405",
+  "status": "skip",
+  "why": "The lead covers the institution, its directors and exhibitions, not the building; Billing has no building on the wall."
+ }
+]

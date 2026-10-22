@@ -1,0 +1,1488 @@
+[
+ {
+  "id": "mit-campus",
+  "qid": "Q4180921",
+  "status": "skip",
+  "why": "A campus of many buildings, not one building; the photo is an aerial of the campus."
+ },
+ {
+  "id": "200-vesey-street",
+  "qid": "Q2074091",
+  "status": "skip",
+  "why": "An office tower in a complex; the lead gives no design reason."
+ },
+ {
+  "id": "museum-of-contemporary-art-san-diego",
+  "qid": "Q3329587",
+  "status": "skip",
+  "why": "The lead describes the museum, not the building; the 1941 date is not in the lead."
+ },
+ {
+  "id": "karl-borromaus-brunnen",
+  "qid": "Q1729707",
+  "status": "skip",
+  "why": "A fountain with sculpture, not a building."
+ },
+ {
+  "id": "palace-moravia",
+  "qid": "Q253564",
+  "status": "photo",
+  "why": "Named competition (Behrens and Oud entered) and a difficult site; a functionalist complex; photo clear.",
+  "name": "Palace Moravia",
+  "by": "Ernst Wiesner",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": null,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A Brno complex by Arnošt Wiesner on a difficult plot, after a 1926 competition that drew Behrens and Oud.",
+  "commons_category": "Category:Morava Palace",
+  "coords": [
+   49.19521,
+   16.61398
+  ],
+  "photos": [
+   {
+    "file": "File:Palác Morava Brno 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "four-leaf-towers",
+  "qid": "Q3079982",
+  "status": "skip",
+  "why": "Residential towers; the lead gives no reason beyond the architect."
+ },
+ {
+  "id": "old-scripps-building",
+  "qid": "Q3881528",
+  "status": "photo",
+  "why": "Lead gives a National Historic Landmark, Irving Gill and early reinforced concrete; photos clear.",
+  "name": "Old Scripps Building",
+  "by": "Irving Gill",
+  "city": "San Diego",
+  "cc": "US",
+  "year": 1910,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Structure as expression",
+   "Detail"
+  ],
+  "features": "The oldest oceanographic research building in continuous US use, an early reinforced-concrete work by Irving Gill.",
+  "commons_category": "Category:Old Scripps Building",
+  "coords": [
+   32.865,
+   -117.25333
+  ],
+  "photos": [
+   {
+    "file": "File:Old scripps 2024.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Old Scripps Building.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "harold-c-bradley-house",
+  "qid": "Q5660241",
+  "status": "photo",
+  "why": "Lead gives Sullivan and Elmslie, a Prairie School house and National Historic Landmark.",
+  "name": "Harold C. Bradley House",
+  "by": "Louis Sullivan, George Grant Elmslie",
+  "city": "Madison",
+  "cc": "US",
+  "year": 1909,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "One of few residential designs by Louis Sullivan, a Prairie School house and a National Historic Landmark.",
+  "commons_category": "Category:Bradley House (Madison, Wisconsin)",
+  "coords": [
+   43.0698,
+   -89.42188
+  ],
+  "photos": [
+   {
+    "file": "File:Bradley House, University Heights Historic District.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Bradley House Madison.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-fillmore-detroit",
+  "qid": "Q7733852",
+  "status": "skip",
+  "why": "A theatre; the lead gives its history and listing but no design reason."
+ },
+ {
+  "id": "new-york-county-lawyers-association-building",
+  "qid": "Q8772027",
+  "status": "skip",
+  "why": "A Georgian revival building; the lead gives context but no reason to study it."
+ },
+ {
+  "id": "villa-sturegarden",
+  "qid": "Q10715518",
+  "status": "photo",
+  "why": "Lead calls it arguably Asplund's first completed project; photo and drawings clear.",
+  "name": "Villa Sturegården",
+  "by": "Gunnar Asplund",
+  "city": "Nyköping",
+  "cc": "SE",
+  "year": 1913,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Climate response",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "Arguably the first completed project of Gunnar Asplund, a house in Nyköping built for a local bank manager.",
+  "commons_category": "Category:Villa Sturegården",
+  "coords": [
+   58.7572,
+   17.0231
+  ],
+  "photos": [
+   {
+    "file": "File:Gunnar Asplunds Villa Sturegården i Nyköping.png",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Asplund Villa Sturegarden South View 1.png",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Asplund Villa Sturegarden North View.png",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-carnuntinum",
+  "qid": "Q1954415",
+  "status": "skip",
+  "why": "A museum of Roman finds; the lead says nothing about the building's design."
+ },
+ {
+  "id": "brno-crematorium",
+  "qid": "Q11343523",
+  "status": "skip",
+  "why": "The lead gives dates and plans only, with no design reason."
+ },
+ {
+  "id": "dum-obuvi-bata-liberec",
+  "qid": "Q11863355",
+  "status": "photo",
+  "why": "Lead gives it as a functionalist high-rise of 1932 with a cultural monument listing; photo clear.",
+  "name": "Dům obuvi Baťa (Liberec)",
+  "by": "Vladimír Karfík",
+  "city": "Liberec",
+  "cc": "CZ",
+  "year": 1932,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Exposed concrete",
+   "Detail"
+  ],
+  "features": "A functionalist high-rise shoe store in Liberec from 1932, a cultural monument since 1987.",
+  "commons_category": "Category:Obchodní dům Baťa (Liberec)",
+  "coords": [
+   50.76705,
+   15.05643
+  ],
+  "photos": [
+   {
+    "file": "File:Liberec, Dům obuvi Baťa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Baťa Liberec blíž.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "house-of-agricultural-education",
+  "qid": "Q11863374",
+  "status": "photo",
+  "why": "Lead gives Gočár, reinforced concrete with a brick facade and Gutfreund reliefs; photo clear.",
+  "name": "House of Agricultural Education",
+  "by": "Josef Gočár",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1926,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Exposed concrete",
+   "Sculptural form"
+  ],
+  "features": "A three-winged corner block of reinforced concrete with a brick facade, built 1924–1926 with sculptural reliefs by Otto Gutfreund.",
+  "commons_category": "Category:Dům zemědělské osvěty",
+  "coords": [
+   50.07627,
+   14.43862
+  ],
+  "photos": [
+   {
+    "file": "File:Vinohrady DZO 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dům zemědělské osvěty, ulice Slezská.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-neumark",
+  "qid": "Q11899038",
+  "status": "skip",
+  "why": "A modest villa; the lead says only that it simplifies another villa."
+ },
+ {
+  "id": "villa-pavlicek",
+  "qid": "Q12044397",
+  "status": "skip",
+  "why": "A family house; the lead gives only the date and the architect."
+ },
+ {
+  "id": "our-lady-of-lourdes-church-zagreb",
+  "qid": "Q130385031",
+  "status": "skip",
+  "why": "The lead is empty."
+ },
+ {
+  "id": "church-of-peace-lobtau",
+  "qid": "Q1456772",
+  "status": "photo",
+  "why": "Lead names one of 41 surviving Bartning emergency churches built on a predecessor's remains; photo clear.",
+  "name": "Church of Peace, Löbtau",
+  "by": "Otto Bartning",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": 1949,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Reclaimed material",
+   "Stone",
+   "Light & shadow"
+  ],
+  "features": "One of 41 surviving Notkirchen (emergency churches) by Otto Bartning, built on the remains of its wartime predecessor.",
+  "commons_category": "Category:Friedenskirche (Löbtau)",
+  "coords": [
+   51.0453,
+   13.7002
+  ],
+  "photos": [
+   {
+    "file": "File:Friedenskirche Dresden vollst.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20171022105DR Dresden-Löbtau Friedenskirche Wernerstraße 32.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "offenbarungskirche",
+  "qid": "Q1488703",
+  "status": "photo",
+  "why": "Lead names a Bauhaus-trained Bartning emergency church inside a community centre; photo clear.",
+  "name": "Offenbarungskirche",
+  "by": "Otto Bartning",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1949,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Modular",
+   "Low cost"
+  ],
+  "features": "One of the postwar emergency churches (Notkirchen) by Bauhaus-trained Otto Bartning, part of a community centre.",
+  "commons_category": "Category:Offenbarungskirche (Berlin)",
+  "coords": [
+   52.5073,
+   13.4614
+  ],
+  "photos": [
+   {
+    "file": "File:Simplonstraße 31-37, Offenbarungskirche.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bethanienkirche-frankfurt-am-main",
+  "qid": "Q15107542",
+  "status": "photo",
+  "why": "Lead gives the first postwar church in Frankfurt, a Bartning emergency church; photo clear.",
+  "name": "Bethanienkirche (Frankfurt am Main)",
+  "by": "Otto Bartning",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": 1949,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Low cost",
+   "Modular"
+  ],
+  "features": "The first new church built in Frankfurt after the war, an emergency church (Notkirche) by Otto Bartning.",
+  "commons_category": "Category:Bethanienkirche (Frankfurt am Main)",
+  "coords": [
+   50.16795,
+   8.67368
+  ],
+  "photos": [
+   {
+    "file": "File:Bethanienkirche von Süden.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "alfa-palace",
+  "qid": "Q15514712",
+  "status": "photo",
+  "why": "Lead gives a functionalist Fuchs building with an inner arcade and a cultural monument listing; photo clear.",
+  "name": "Alfa Palace",
+  "by": "Bohuslav Fuchs",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1930,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Promenade",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A functionalist building by Bohuslav Fuchs, with an inner arcade linking two streets and a square.",
+  "commons_category": "Category:Alfa Palace (Brno)",
+  "coords": [
+   49.19463,
+   16.61002
+  ],
+  "photos": [
+   {
+    "file": "File:Brno, Poštovská, palác Alfa (2022-06-15; 02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Jánská, palác Alfa (2022-06-15; 01).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "heilig-kreuz-kirche",
+  "qid": "Q1594977",
+  "status": "unsure",
+  "why": "Photos show a wall fragment, an architect portrait and organ details; no outside view of the church.",
+  "note": "no main photo"
+ },
+ {
+  "id": "protestant-st-lukas-church-worms",
+  "qid": "Q1877015",
+  "status": "skip",
+  "why": "The lead is one line with no design reason."
+ },
+ {
+  "id": "ruderzentrum-blasewitz",
+  "qid": "Q2171969",
+  "status": "photo",
+  "why": "Lead gives Müther's four hyperbolic paraboloid shells and a listing; photo clear.",
+  "name": "Ruderzentrum Blasewitz",
+  "by": "Ulrich Müther",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": 1972,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Vault",
+   "Structure as expression",
+   "Light from above"
+  ],
+  "features": "A rowing centre roofed by four hyperbolic paraboloid shells, tilted inwards to let in more daylight.",
+  "commons_category": "Category:Ruderzentrum Blasewitz",
+  "coords": [
+   51.0483,
+   13.8125
+  ],
+  "photos": [
+   {
+    "file": "File:Ruderzentrum Blasewitz2.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ruderzentrum Blasewitz 2024-04-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-josef-st-lukas",
+  "qid": "Q2319644",
+  "status": "unsure",
+  "why": "No free photos at all, so no main photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "villa-of-bohuslav-fuchs",
+  "qid": "Q33525783",
+  "status": "photo",
+  "why": "Lead gives Fuchs's own house, built 1928, drawing on Le Corbusier's Citrohan and Mies's free plan; photo clear.",
+  "name": "Villa of Bohuslav Fuchs",
+  "by": "Bohuslav Fuchs",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1928,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Modular",
+   "Facade as skin"
+  ],
+  "features": "Bohuslav Fuchs's own family house, built in 1928, drawing on Le Corbusier's Citrohan and Mies's free plan.",
+  "commons_category": "Category:Villa of Bohuslav Fuchs",
+  "coords": [
+   49.20687,
+   16.58387
+  ],
+  "photos": [
+   {
+    "file": "File:Fuchsův vlastní rodinný dům, Brno Žabovřesky 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Fuchsův dům.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-haas",
+  "qid": "Q55691983",
+  "status": "photo",
+  "why": "Lead gives a functionalist villa of 1928–1930 by Wiesner; photo clear.",
+  "name": "Villa Haas",
+  "by": "Ernst Wiesner",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1930,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Free plan",
+   "Landscape"
+  ],
+  "features": "A functionalist villa in Brno's Pisárky district, built 1928–1930 for the head of a bank branch.",
+  "commons_category": "Category:Villa Haas",
+  "coords": [
+   49.19303,
+   16.57669
+  ],
+  "photos": [
+   {
+    "file": "File:Haasova vila, Brno Lipová 3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Pisárky, Lipová, Haasova vila (2018-07-21; 02).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-joseph-cologne",
+  "qid": "Q62587813",
+  "status": "skip",
+  "why": "The lead gives dates and architects only, with no design reason."
+ },
+ {
+  "id": "riverside-art-museum",
+  "qid": "Q7338423",
+  "status": "photo",
+  "why": "Julia Morgan's YWCA building, a named architect's work; the year is a design date, so left blank; photo clear.",
+  "name": "Riverside Art Museum",
+  "by": "Julia Morgan",
+  "city": "Riverside",
+  "cc": "US",
+  "year": null,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Detail",
+   "Community"
+  ],
+  "features": "Julia Morgan's YWCA building, designed in 1929, now an art museum in Riverside's Mission Inn district.",
+  "commons_category": "Category:Riverside Art Museum",
+  "coords": [
+   33.98172,
+   -117.37047
+  ],
+  "photos": [
+   {
+    "file": "File:RiversideArtMuseum20090821g.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Old YWCA Building front faces south.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "walter-l-dodge-house",
+  "qid": "Q7965403",
+  "status": "skip",
+  "why": "Demolished in 1970; the prep marks it destroyed."
+ },
+ {
+  "id": "am-rheinberg-5",
+  "qid": "Q105714350",
+  "status": "skip",
+  "why": "The lead is empty."
+ },
+ {
+  "id": "st-theresia-buchheim",
+  "qid": "Q62588245",
+  "status": "skip",
+  "why": "The lead is empty."
+ },
+ {
+  "id": "hyogo-prefectural-museum-of-history",
+  "qid": "Q11393043",
+  "status": "photo",
+  "why": "Tange museum opened 1983 beside Himeji Castle; a well-known architect's built work, photo clear.",
+  "name": "Hyōgo Prefectural Museum of History",
+  "by": "Kenzō Tange",
+  "city": "Himeji",
+  "cc": "JP",
+  "year": 1983,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Facade as skin",
+   "Free plan"
+  ],
+  "features": "A prefectural history museum opened in 1983 beside Himeji Castle, with over 200,000 items in its collection.",
+  "commons_category": "Category:Hyogo Prefectural Museum of History",
+  "coords": [
+   34.84111,
+   134.69694
+  ],
+  "photos": [
+   {
+    "file": "File:Hyogo Prefectural Museum of History01s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Hyogo Prefectural Museum of History03s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "carew-tower",
+  "qid": "Q152129",
+  "status": "photo",
+  "why": "Lead gives an Art Deco skyscraper that was the city's tallest from 1930 to 2011; photo clear.",
+  "name": "Carew Tower",
+  "by": "Walter W. Ahlschlager",
+  "city": "Cincinnati",
+  "cc": "US",
+  "year": 1930,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Cluster"
+  ],
+  "features": "A 49-storey Art Deco skyscraper in Cincinnati, the city's tallest building from 1930 until 2011.",
+  "commons_category": "Category:Carew Tower",
+  "coords": [
+   39.10083,
+   -84.5132
+  ],
+  "photos": [
+   {
+    "file": "File:Cincinnati, Ohio, The Carew Tower - panoramio (2).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Carew Tower, Cincinnati, Ohio.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palais-erzherzog-ludwig-viktor",
+  "qid": "Q2046964",
+  "status": "photo",
+  "why": "Lead names it one of Vienna's best-known Ringstraße palaces; photo clear.",
+  "name": "Palais Erzherzog Ludwig Viktor",
+  "by": "Heinrich von Ferstel",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1866,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Public space"
+  ],
+  "features": "One of Vienna's best-known Ringstraße palaces, built 1863–1866 and now a subsidiary house of the Burgtheater.",
+  "commons_category": "Category:Palais Erzherzog Ludwig Viktor",
+  "coords": [
+   48.2012,
+   16.3748
+  ],
+  "photos": [
+   {
+    "file": "File:Wien Palais Erzherzog Ludwig Viktor.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Burgtheater-Kasino-DSC 0012w.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "marble-collegiate-church",
+  "qid": "Q6755177",
+  "status": "skip",
+  "why": "A revival church; the lead gives the style and marble only, no design reason."
+ },
+ {
+  "id": "osaka-city-central-public-hall",
+  "qid": "Q10938355",
+  "status": "photo",
+  "why": "Famous architect (Tatsuno Kingo) and an iconic public hall; the lead is short but the building is clear.",
+  "name": "Osaka City Central Public Hall",
+  "by": "Shin'ichirō Okada, Tatsuno Kingo, Yasushi Kataoka",
+  "city": "Osaka",
+  "cc": "JP",
+  "year": 1918,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Brick",
+   "Public space"
+  ],
+  "features": "A public hall on Osaka's Nakanoshima sandbank, designed by Tatsuno Kingo and two other architects.",
+  "commons_category": "Category:Osaka Central Public Hall",
+  "coords": [
+   34.69353,
+   135.504
+  ],
+  "photos": [
+   {
+    "file": "File:Osaka Nakanoshima Public Hall.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Osaka City Central Public Hall main facade 2026 dllu.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pardubice-crematorium",
+  "qid": "Q12043818",
+  "status": "photo",
+  "why": "Lead names it the first Czech crematorium and a national cultural monument; photo clear.",
+  "name": "Pardubice Crematorium",
+  "by": "Pavel Janák",
+  "city": "Pardubice",
+  "cc": "CZ",
+  "year": 1923,
+  "type": "Memorial",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Sculptural form"
+  ],
+  "features": "The first Czech crematorium, built 1921–1923 and listed as a national cultural monument.",
+  "commons_category": "Category:Crematorium in Pardubice",
+  "coords": [
+   50.01944,
+   15.77692
+  ],
+  "photos": [
+   {
+    "file": "File:Crematorium, Pardubice, Czech Republic.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-louisville-palace",
+  "qid": "Q1247561",
+  "status": "unsure",
+  "why": "The outside photo is of a neighbouring theatre building; the other photo is an interior concert shot.",
+  "note": "no main photo"
+ },
+ {
+  "id": "james-b-duke-house",
+  "qid": "Q14706613",
+  "status": "skip",
+  "why": "A Beaux-Arts mansion; the lead gives only its design source."
+ },
+ {
+  "id": "national-house-prostejov",
+  "qid": "Q4803944",
+  "status": "photo",
+  "why": "Kotěra, a notable Czech architect, and a significant cultural monument; photo clear.",
+  "name": "National House, Prostějov",
+  "by": "Jan Kotěra",
+  "city": "Prostějov",
+  "cc": "CZ",
+  "year": 1907,
+  "type": "Civic",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Community"
+  ],
+  "features": "A cultural and social building in Prostějov, a significant cultural monument of the city.",
+  "commons_category": "Category:Národní dům (Prostějov)",
+  "coords": [
+   49.47357,
+   17.11464
+  ],
+  "photos": [
+   {
+    "file": "File:Divadlo (Prostějov- czech republic).jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Prostějov - Hlavákovo náměstí - Národní dům 1907 Jan Kotěra.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gamble-house",
+  "qid": "Q5519656",
+  "status": "photo",
+  "why": "Lead gives a Craftsman house by Greene and Greene, a National Historic Landmark; photos clear.",
+  "name": "Gamble House (Pasadena, California)",
+  "by": "Greene and Greene",
+  "city": "Pasadena",
+  "cc": "US",
+  "year": 1909,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Detail",
+   "Landscape"
+  ],
+  "features": "A Craftsman house by Greene and Greene, built 1908–1909 for David Gamble; a National Historic Landmark.",
+  "commons_category": "Category:Gamble House",
+  "coords": [
+   34.15156,
+   -118.1608
+  ],
+  "photos": [
+   {
+    "file": "File:Gamble House 2016-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gamble House, 4 Westmoreland Place, Pasadena, Los Angeles County, CA HABS CAL,19-PASA,5- (sheet 10 of 11).png",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "majestic-theatre-dallas",
+  "qid": "Q6737714",
+  "status": "skip",
+  "why": "A theatre; the lead gives its status and listings, not a design reason."
+ },
+ {
+  "id": "ohio-theatre",
+  "qid": "Q7080981",
+  "status": "photo",
+  "why": "Lead gives a 1928 movie palace saved from demolition, restored and a National Historic Landmark; photo clear.",
+  "name": "Ohio Theatre (Columbus, Ohio)",
+  "by": "Thomas W. Lamb",
+  "city": "Columbus",
+  "cc": "US",
+  "year": 1928,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "A 1928 movie palace in Columbus, saved from demolition in 1969, restored and a National Historic Landmark.",
+  "commons_category": "Category:Ohio Theatre (Columbus, Ohio)",
+  "coords": [
+   39.95988,
+   -82.99894
+  ],
+  "photos": [
+   {
+    "file": "File:Ohio Theatre.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Ohio Theatre FE.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "orpheum-theatre-memphis",
+  "qid": "Q7103967",
+  "status": "skip",
+  "why": "A theatre; the lead gives its seats and nonprofit group, no design reason."
+ },
+ {
+  "id": "colony-club",
+  "qid": "Q964460",
+  "status": "skip",
+  "why": "The lead is about the club's finances, and the photo shows another building."
+ },
+ {
+  "id": "georg-kolbe-museum",
+  "qid": "Q1503409",
+  "status": "photo",
+  "why": "Lead calls it an important Bauhaus-influenced New Building example of the 1920s; the year is an opening date, so left blank.",
+  "name": "Georg Kolbe Museum",
+  "by": "Paul Linder, Ernst Rentsch",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": null,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Brick",
+   "Sculptural form"
+  ],
+  "features": "A former sculptor's studio house in Berlin, an important example of Bauhaus-influenced New Building of the 1920s.",
+  "commons_category": "Category:Georg-Kolbe-Museum",
+  "coords": [
+   52.51028,
+   13.25417
+  ],
+  "photos": [
+   {
+    "file": "File:Sensburger Allee 25-26 (09096432) 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-matthew-munich",
+  "qid": "Q2321445",
+  "status": "skip",
+  "why": "A bishop's church; the lead gives no design reason, and the photos show it mostly behind trees."
+ },
+ {
+  "id": "eglise-sainte-therese-de-lenfant-jesus-de-metz",
+  "qid": "Q3585278",
+  "status": "photo",
+  "why": "Lead names Expert's church and its stained glass made in a new personal technique; photos clear.",
+  "name": "Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz",
+  "by": "Roger-Henri Expert, André Remondet",
+  "city": "Metz",
+  "cc": "FR",
+  "year": 1954,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Sculptural form"
+  ],
+  "features": "Roger-Henri Expert's church in Metz, with stained glass by Nicolas Untersteller in a personal, new technique.",
+  "commons_category": "Category:Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz",
+  "coords": [
+   49.106,
+   6.167
+  ],
+  "photos": [
+   {
+    "file": "File:Ste therese de l enfant jesus767.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz (chevet).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "david-whitney-house",
+  "qid": "Q5241040",
+  "status": "skip",
+  "why": "A Romanesque Revival mansion; the lead gives the style and a later restaurant, no design reason."
+ },
+ {
+  "id": "church-of-our-lady-of-the-poors",
+  "qid": "Q55100730",
+  "status": "unsure",
+  "why": "The lead names a major Milan postwar church by Figini and Pollini, but there are no free photos.",
+  "note": "no main photo"
+ },
+ {
+  "id": "holy-rosary-church-idaho-falls",
+  "qid": "Q5886011",
+  "status": "skip",
+  "why": "The lead gives the style and a listing only."
+ },
+ {
+  "id": "gimnasio-del-colegio-maravillas",
+  "qid": "Q5879886",
+  "status": "unsure",
+  "why": "The lead is a good one by de la Sota, but the photos are interiors and a school exterior, not the gym.",
+  "note": "no main photo"
+ },
+ {
+  "id": "trinity-repertory-company",
+  "qid": "Q7842942",
+  "status": "skip",
+  "why": "The lead describes the theatre company, not the building."
+ },
+ {
+  "id": "225-liberty-street",
+  "qid": "Q264439",
+  "status": "skip",
+  "why": "An office tower; the lead gives no design reason."
+ },
+ {
+  "id": "autobahnuberbauung-schlangenbader-strasse",
+  "qid": "Q786063",
+  "status": "photo",
+  "why": "Lead says it is the only scheme of its kind, a housing block built over a motorway and listed in 2017; photo clear.",
+  "name": "Autobahnüberbauung Schlangenbader Straße",
+  "by": "Georg Heinrichs, Gerhard Krebs",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1980,
+  "type": "Housing",
+  "movement": "Late modernism",
+  "concepts": [
+   "Cluster",
+   "Climate response",
+   "Facade as skin"
+  ],
+  "features": "A housing complex built over a motorway in Berlin, the only scheme of its kind, listed in 2017.",
+  "commons_category": "Category:Autobahnüberbauung Schlangenbader Straße",
+  "coords": [
+   52.4725,
+   13.30639
+  ],
+  "photos": [
+   {
+    "file": "File:Autobahnüberbauung Schlangenbader Straße 2024-09-08 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Autobahnüberbauung Schlangenbader Straße 2024-09-08 03.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "de-bijenkorf",
+  "qid": "Q2181857",
+  "status": "skip",
+  "why": "The lead describes the store chain, not the building."
+ },
+ {
+  "id": "filenes-department-store",
+  "qid": "Q5448382",
+  "status": "skip",
+  "why": "A former department store; the lead gives its history but no design reason."
+ },
+ {
+  "id": "grand-canyon-lodge",
+  "qid": "Q5594354",
+  "status": "skip",
+  "why": "Marked destroyed in the prep; the lead is in the past tense."
+ },
+ {
+  "id": "majestic-theatre-detroit",
+  "qid": "Q6737711",
+  "status": "skip",
+  "why": "A theatre; the lead gives its listing and use, no design reason."
+ },
+ {
+  "id": "stadthalle-neubrandenburg",
+  "qid": "Q1554382",
+  "status": "skip",
+  "why": "A multi-purpose hall; the lead gives use, capacity and listing, no design reason."
+ },
+ {
+  "id": "dortmund-city-and-state-library",
+  "qid": "Q2326332",
+  "status": "photo",
+  "why": "Lead names Mario Botta as architect and gives the 1999 move-in; a well-known architect's built work; photos clear.",
+  "name": "Dortmund City and State Library",
+  "by": "Mario Botta",
+  "city": "Dortmund",
+  "cc": "DE",
+  "year": 1999,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Mario Botta's central library, opposite Dortmund's main station; moved in May 1999.",
+  "commons_category": "Category:Stadt- und Landesbibliothek Dortmund",
+  "coords": [
+   51.5165,
+   7.46093
+  ],
+  "photos": [
+   {
+    "file": "File:Dortmund - Stadt- und Landesbibliothek.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dortmund-Bibliothek-1-Asio.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sassnitz-bandshell",
+  "qid": "Q56878133",
+  "status": "photo",
+  "why": "Lead gives a shell-form bandshell, an icon of East German modernism, listed in 2014; photo clear.",
+  "name": "Sassnitz Bandshell",
+  "by": "Dietmar Kuntzsch",
+  "city": "Sassnitz",
+  "cc": "DE",
+  "year": 1988,
+  "type": "Public space",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Vault",
+   "Public space"
+  ],
+  "features": "A shell-shaped bandshell on Sassnitz's spa square, an icon of East German modernism, listed in 2014.",
+  "commons_category": "Category:Kurmuschel (Sassnitz)",
+  "coords": [
+   54.51757,
+   13.65934
+  ],
+  "photos": [
+   {
+    "file": "File:Sassnitz Kurmuschel 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sassnitz Kurmuschel 02.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "51-55-rue-raynouard",
+  "qid": "Q22980319",
+  "status": "skip",
+  "why": "The lead is empty."
+ },
+ {
+  "id": "palacio-das-mangabeiras",
+  "qid": "Q16888454",
+  "status": "unsure",
+  "why": "The lead is about Niemeyer's palace, but the photos show trees and a hill, with no building; the file name says the photo needs fixing.",
+  "note": "no main photo"
+ },
+ {
+  "id": "cine-brasilia",
+  "qid": "Q18243953",
+  "status": "photo",
+  "why": "Niemeyer's cinema, opened with the new capital in 1960; photos clear.",
+  "name": "Cine Brasília",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": 1960,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Brick",
+   "Public space"
+  ],
+  "features": "Oscar Niemeyer's cinema in Brasília, opened on 22 April 1960 during the new capital's inauguration.",
+  "commons_category": "Category:Cine Brasília",
+  "coords": [
+   -15.8141,
+   -47.89961
+  ],
+  "photos": [
+   {
+    "file": "File:Brasilia DF Brasil - Cine Brasilia, vista lateral - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brasília DF Brasil - Cine Brasília - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "library-of-the-university-of-deusto",
+  "qid": "Q3755932",
+  "status": "photo",
+  "why": "Lead names Moneo's building beside the Guggenheim, opened 2009; photos clear.",
+  "name": "Library of the University of Deusto",
+  "by": "Rafael Moneo",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Rafael Moneo's university library in Bilbao, beside the Guggenheim, opened in 2009.",
+  "commons_category": "Category:Biblioteca de la Universidad de Deusto",
+  "coords": [
+   43.26842,
+   -2.93716
+  ],
+  "photos": [
+   {
+    "file": "File:Deusto New Library, Bilbao, July 2010 (01).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca de la Universidad de Deusto - Centro de Documentación Europea.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "smith-tower",
+  "qid": "Q1196348",
+  "status": "photo",
+  "why": "Lead gives it as the tallest building west of the Mississippi until 1931; photos clear enough.",
+  "name": "Smith Tower",
+  "by": "Gaggin & Gaggin",
+  "city": "Seattle",
+  "cc": "US",
+  "year": 1914,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "The tallest building west of the Mississippi until 1931, a 38-storey Seattle skyscraper completed in 1914.",
+  "commons_category": "Category:Smith Tower (Seattle)",
+  "coords": [
+   47.60193,
+   -122.33173
+  ],
+  "photos": [
+   {
+    "file": "File:SmithTower Seattle WA USA2.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:L.C. Smith Building (Pioneer Building), Seattle, Washington LCCN2016649919.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lauritsala-church",
+  "qid": "Q11875156",
+  "status": "photo",
+  "why": "Lead gives a modernist concrete church with a triangle plan for the Trinity, listed as nationally significant; photos clear.",
+  "name": "Lauritsala Church",
+  "by": "Toivo Korhonen, Jaakko Laapotti",
+  "city": "Lappeenranta",
+  "cc": "FI",
+  "year": 1969,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "A modernist concrete church in Lappeenranta, its design based on an equilateral triangle for the Trinity.",
+  "commons_category": "Category:Lauritsala Church",
+  "coords": [
+   61.07031,
+   28.25668
+  ],
+  "photos": [
+   {
+    "file": "File:Lauritsalan kirkko 2017 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lauritsalan kirkko 2017 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bakkehaugen-church",
+  "qid": "Q4580047",
+  "status": "photo",
+  "why": "Lead gives a natural-concrete church shaped like a boathouse, with the Betongtavlen concrete prize; photo clear.",
+  "name": "Bakkehaugen Church",
+  "by": "Ove Bang, Erling Viksjø",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": 1959,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "A natural-concrete church in Oslo shaped like a boathouse, awarded the Betongtavlen prize for concrete.",
+  "commons_category": "Category:Bakkehaugen kirke",
+  "coords": [
+   59.94891,
+   10.75416
+  ],
+  "photos": [
+   {
+    "file": "File:Bakkehaugens kirke-1.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bakkehaugen kirke front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ringturm",
+  "qid": "Q1168344",
+  "status": "photo",
+  "why": "Lead gives a 1953–1955 tower by Boltenstern that is wrapped in art every year; photos clear.",
+  "name": "Ringturm",
+  "by": "Erich Boltenstern",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1955,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Monumentality"
+  ],
+  "features": "A 1950s tower in Vienna, turned into art each year by wrapping it in cloth designed by notable artists.",
+  "commons_category": "Category:Ringturm",
+  "coords": [
+   48.21706,
+   16.37031
+  ],
+  "photos": [
+   {
+    "file": "File:Wien - Ringturm (a).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wien, Ringturm, 2017-11 CN-01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ullsteinhaus",
+  "qid": "Q143984",
+  "status": "photo",
+  "why": "Lead names it a brick expressionist landmark, 77 m tall; photos clear.",
+  "name": "Ullsteinhaus",
+  "by": "Eugen Schmohl",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1927,
+  "type": "Workplace",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "A brick expressionist landmark in Berlin-Tempelhof, 77 m tall, and for 30 years Germany's tallest high-rise.",
+  "commons_category": "Category:Ullsteinhaus",
+  "coords": [
+   52.4533,
+   13.3853
+  ],
+  "photos": [
+   {
+    "file": "File:Ullsteinhaus march 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:B-Tempelhof 10-2012 - Ullsteinhaus2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jahrhunderthalle",
+  "qid": "Q1678687",
+  "status": "skip",
+  "why": "An event hall; the lead gives its history and performers, no design reason."
+ },
+ {
+  "id": "hunter-museum-of-american-art",
+  "qid": "Q2566506",
+  "status": "photo",
+  "why": "Lead gives three stages: an 1904 mansion, a 1975 brutalist wing and a 2005 addition; photos clear.",
+  "name": "Hunter Museum of American Art",
+  "by": "Abram Garfield",
+  "city": "Chattanooga",
+  "cc": "US",
+  "year": 1904,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Adaptive reuse",
+   "Exposed concrete",
+   "Facade as skin"
+  ],
+  "features": "An 1904 classical mansion with a 1975 brutalist wing and a 2005 entrance addition by Randall Stout.",
+  "commons_category": "Category:Hunter Museum of American Art",
+  "coords": [
+   35.05583,
+   -85.30583
+  ],
+  "photos": [
+   {
+    "file": "File:Faxon-ThomasMansionChattanooga.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hunter Museum extension 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ }
+]
