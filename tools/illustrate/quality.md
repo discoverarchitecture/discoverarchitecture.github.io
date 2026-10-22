@@ -199,3 +199,20 @@ Opus checked every gallery. 114 buildings reached the wall.
 Held for a year: 8 (Seth Peterson Cottage, Rietveld and Aldo van Eyck pavilions, Palace Moravia, Riverside Art
 Museum, Georg Kolbe Museum, De Bijenkorf Rotterdam, the Leuven institute); 2 more for no main photo
 (`tools/cheap/pool6_held.json`). 35 of the 114 are houses.
+
+## Haiku pipeline, seventh pool (22 Oct 2026): 300 candidates from 1900 on, no ordinary types in the pool
+
+Owner's rule for this pool: keep ordinary types under 20%. Towers, offices, housing, hotels, shops and cinemas were
+left out of the pool by type, and so were 280 local US houses and theatres by architects not on the wall (they had
+filled earlier pools). Sonnet tagged every ordinary type it kept. 102 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 102 (4 better leads chosen) | fine |
+| No free photo | 13 of 300 (4%) | fine |
+| Already on the wall | 7 of 300 (2%): 6 by article or distance, and Wright's Madison meeting house, caught by name when adding | fine |
+| Facts failing the source check | Haiku's keeps: 36 of 139 were wrong keeps and about 6 needed a fact fixed (30%), mostly campus halls, revival theatres and town halls kept on a style or listing, and 5 kept with an empty lead. All fixed by Sonnet | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 8 of 102 (8%) by type; 11% by Sonnet's stricter tag | fine; **the rise stopped** (10%, 10%, 16%, 18%, now 8%) |
+
+Held: 6 without a sourced year, 1 without a main photo (`tools/cheap/pool7_held.json`); Festspielhaus Hellerau left
+off for want of an exterior photo. 80 of the 102 are in Europe.

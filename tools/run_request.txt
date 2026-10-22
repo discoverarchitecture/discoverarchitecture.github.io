@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool6.json --n 300 --leads
-Haiku pipeline, sixth pool (300, 1900-1989).
+python -u tools/cheap_prep.py tools/cheap/pool7.json --n 300 --leads
+Haiku pipeline, seventh pool (300, no ordinary types).

@@ -92,6 +92,12 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | One International Place | Johnson/Burgee Architects | 1987 | Boston, US | round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students |
 | Tanabe Art Museum | Kiyonori Kikutake | 1979 | Matsue, JP | no free photo found in the Commons category (it returned no files). |
 | Biblioteca Raúl Rangel Frías | Ricardo Legorreta | 1995 | Monterrey, MX | Haiku pool 5 photo review: no photo shows the building (only a fence and a sculpture) |
+| Gamble House (Pasadena, California) | Greene and Greene | 1909 | Pasadena, US | Haiku pool 6 photo review: no colour photo of the outside in the fetched gallery (drawings and old prints only) |
+| Majestic Theatre (San Antonio) | John Eberson | 1929 | San Antonio, US | Haiku pool 6 photo review: no photo shows the building rather than its sign, a concert or a door |
+| Villa Primavesi | Franz von Krauss | 1900 | Olomouc, CZ | Haiku pool 6 photo review: year unsourced: Wikidata's 1900 does not fit, and the lead gives none |
+| Ormen Långe | Ralph Erskine | 1965 | Svappavaara, SE | Haiku pool 6 photo review: only photo of the building is a cropped 1965 print; the rest are views through a porthole |
+| Crater Lake Superintendent's Residence | National Park Service | 1932 | Crater Lake National Park, US | Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service |
+| Festspielhaus Hellerau | Heinrich Tessenow | 1911 | Dresden, DE | no main photo (no exterior view of the main building) |
 | Palais Bulles | Antti Lovag | 1989 | Théoule-sur-Mer, FR | lead photo didn't show the building; see recheck.md |
 | CMA CGM Tower | Zaha Hadid Architects | 2011 | Marseille, FR | lead photo still didn't show the building (Oct 13 review) |
 | Sainte-Bernadette du Banlay | Claude Parent, Paul Virilio | 1966 | Nevers, FR | No files on Commons at all (a strong drawing candidate). Sources confirm two interlocking concrete shells cantilevered over a central pillar, a big overhang on the facade, opaque walls with small porthole-like openings and light from a central split, but none gives the profile of the shells or the roof; the detailed pages (WikiArquitectura, CAUE 58) couldn't be reached. A trial drawing came out as a guess, so I removed it. |
@@ -451,7 +457,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Saxon State and University Library (SLUB) | Ortner & Ortner | 2002 | Dresden, DE | no main photo (category holds only interior) |
 | German Hygiene Museum | Wilhelm Kreis | 1930 | Dresden, DE | no main photo (sculpture in front in every candidate) |
 | Dortmunder U | Emil Moog | 1927 | Dortmund, DE | no main photo (only close views of the top or night) |
-| Festspielhaus Hellerau | Heinrich Tessenow | 1911 | Dresden, DE | no main photo (no exterior view of the main building) |
 | Sprengel Museum | Peter and Ursula Trint with Dieter Quast | 1979 | Hanover, DE | no main photo (only a dusk entrance view) |
 | Brucknerhaus | Heikki and Kaija Siren | 1973 | Linz, AT | no main photo (boat in front, or night or entrance close-ups) |
 | Museum der Moderne Mönchsberg | Friedrich, Hoff and Zwink | 2004 | Salzburg, AT | no main photo (building seen only far away on the cliff) |

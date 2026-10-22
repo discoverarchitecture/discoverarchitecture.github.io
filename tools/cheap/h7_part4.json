@@ -1,0 +1,1012 @@
+[
+ {
+  "id": "new-town-hall-in-jablonec-nad-nisou",
+  "qid": "Q30874374",
+  "status": "photo",
+  "why": "Lead: monumental functionalist town hall, national cultural monument. Lead gives only 'the 30s', prep year 1901 conflicts, so year null.",
+  "name": "New Town Hall in Jablonec nad Nisou",
+  "by": "Karl Winter",
+  "city": "Jablonec nad Nisou",
+  "cc": "CZ",
+  "year": null,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Geometry"
+  ],
+  "features": "A monumental functionalist town hall from the 1930s on Jablonec's Peace Square, protected as a national cultural monument.",
+  "commons_category": "Category:New Town Hall in Jablonec nad Nisou",
+  "coords": [
+   50.72452,
+   15.17129
+  ],
+  "photos": [
+   {
+    "file": "File:Jablonec-Gablonz-Rathaus-3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haskova-vila",
+  "qid": "Q33249065",
+  "status": "photo",
+  "why": "Lead: one of the finest aerodynamic functionalist villas of the Wrocław school, named designer. Prep year 1901 conflicts with that period, so year null.",
+  "name": "Háskova vila",
+  "by": "Heinrich Lauterbach",
+  "city": "Jablonec nad Nisou",
+  "cc": "CZ",
+  "year": null,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Considered one of the most beautiful examples of aerodynamic functionalism from the Wrocław school.",
+  "commons_category": "Category:Háskova vila",
+  "coords": [
+   50.73741,
+   15.18372
+  ],
+  "photos": [
+   {
+    "file": "File:Jablonecké Paseky - Háskova vila čp. 449 (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jablonecké Paseky - Háskova vila čp. 449 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Jablonecké Paseky - Háskova vila čp. 449 (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-kranz",
+  "qid": "Q33525765",
+  "status": "photo",
+  "why": "Lead: functionalist villa by Josef Kranz, built 1933–1935 (year 1935 from lead; prep 1930 replaced).",
+  "name": "Villa Kranz",
+  "by": "Josef Kranz",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1935,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "A functionalist Brno villa built 1933–1935; its two names come from Kranz's later marriage.",
+  "commons_category": "Category:Villa Kranz",
+  "coords": [
+   49.21792,
+   16.62409
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Kranz, Brno Alešova 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno-Alšova24-2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno-Alšova24-2014c.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-franziskus-hall-in-tirol",
+  "qid": "Q37816567",
+  "status": "skip",
+  "why": "Lead gives location and parish only; no design reason."
+ },
+ {
+  "id": "emmaus-church",
+  "qid": "Q38069391",
+  "status": "skip",
+  "why": "Lead gives location and listing only; no design reason."
+ },
+ {
+  "id": "casa-vilaro",
+  "qid": "Q47170453",
+  "status": "skip",
+  "why": "Lead gives location and local heritage listing only."
+ },
+ {
+  "id": "neues-rathaus",
+  "qid": "Q51189033",
+  "status": "photo",
+  "why": "Lead: modern, functional town hall by Harald Loebermann, built 1969–1971. The first photo is chosen over Wikidata's main, which has a sculpture in front.",
+  "name": "Neues Rathaus",
+  "by": "Harald Loebermann",
+  "city": "Erlangen",
+  "cc": "DE",
+  "year": 1971,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "A modern, functional town hall, built 1969–1971, part of the Neuer Markt administrative and business centre in Erlangen.",
+  "commons_category": "Category:Neues Rathaus (Erlangen)",
+  "coords": [
+   49.59113,
+   11.0077
+  ],
+  "photos": [
+   {
+    "file": "File:Neues Rathaus Erlangen 003.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Neues Rathaus Erlangen 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Neues Rathaus Erlangen 004.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-christophorus-roman-catholic-church",
+  "qid": "Q55383023",
+  "status": "skip",
+  "why": "Lead gives the date, the architect and a glass artist only; no design reason."
+ },
+ {
+  "id": "villa-bass",
+  "qid": "Q55692037",
+  "status": "photo",
+  "why": "Lead names Zikmund Kerekes as designer, not Wikidata's Asher Hiram; functionalist villa of 1932.",
+  "name": "Villa Bass",
+  "by": "Zikmund Kerekes",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1932,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "A 1932 functionalist family house in Brno, built for a family of textile merchants.",
+  "commons_category": "Category:Villa Bass",
+  "coords": [
+   49.19472,
+   16.57747
+  ],
+  "photos": [
+   {
+    "file": "File:Bassova vila, Brno Lipová 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Pisárky, Lipová, Bassova vila (2018-07-21; 02).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Pisárky, Lipová, Bassova vila (2018-07-21; 01).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "wharton-esherick-studio",
+  "qid": "Q7990711",
+  "status": "unsure",
+  "why": "Lead describes Esherick's own studio and workshop as the most complete expression of his work, but prep has no photos. Lead gives no year (prep 1966 looks like the museum date), so year null if kept.",
+  "note": "no main photo"
+ },
+ {
+  "id": "magnolia-public-library",
+  "qid": "Q119777156",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "kurhaus-badenweiler",
+  "qid": "Q81827545",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "edward-p-evans-hall",
+  "qid": "Q43371254",
+  "status": "photo",
+  "why": "Lead: known for its architectural design and artwork; completed 2013 per lead (prep 2014).",
+  "name": "Edward P. Evans Hall",
+  "by": "Foster and Partners",
+  "city": "New Haven",
+  "cc": "US",
+  "year": 2013,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Foster and Partners' Yale School of Management hall, known for its architecture and high-quality artwork.",
+  "commons_category": "Category:Edward P. Evans Hall",
+  "coords": [
+   41.3152,
+   -72.9202
+  ],
+  "photos": [
+   {
+    "file": "File:Yale School of Management Evans Hall back.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edward P. Evans Hall .jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yale School of Management - Evans Hall (54106005396).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "indiana-michigan-power-center",
+  "qid": "Q7637875",
+  "status": "skip",
+  "why": "Office tower; lead gives height and a design illusion, not a key work."
+ },
+ {
+  "id": "900-north-michigan",
+  "qid": "Q275936",
+  "status": "skip",
+  "why": "Shopping tower; ordinary type with no design reason."
+ },
+ {
+  "id": "sommerfeld-house",
+  "qid": "Q1590550",
+  "status": "unsure",
+  "why": "First major joint Bauhaus project (lead: built 1920–1921, so year 1921). Prep has no photos.",
+  "note": "no main photo"
+ },
+ {
+  "id": "haugesund-city-hall",
+  "qid": "Q21623956",
+  "status": "skip",
+  "why": "Lead says only that it is the city hall."
+ },
+ {
+  "id": "gaislachalmkapelle",
+  "qid": "Q100627140",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "gartenbad",
+  "qid": "Q111027867",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "kleines-gluckerthaus",
+  "qid": "Q115690852",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "calvary-church",
+  "qid": "Q117708251",
+  "status": "skip",
+  "why": "No lead in any language; the photos show a Georgian Orthodox church."
+ },
+ {
+  "id": "mothers-and-daughters-club-house",
+  "qid": "Q18154691",
+  "status": "skip",
+  "why": "Local clubhouse; lead's only claim is 'believed one of the oldest' women's clubhouses."
+ },
+ {
+  "id": "rotonda-house",
+  "qid": "Q29889965",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "haus-ungers-cologne",
+  "qid": "Q55065650",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "graham-gymnasium",
+  "qid": "Q65118445",
+  "status": "skip",
+  "why": "Ordinary gymnasium; lead gives style and listing only."
+ },
+ {
+  "id": "porto-city-hall",
+  "qid": "Q10262921",
+  "status": "skip",
+  "why": "Civic building; lead gives construction history and size, no design reason."
+ },
+ {
+  "id": "palais-des-sports",
+  "qid": "Q2234305",
+  "status": "skip",
+  "why": "Indoor arena, an ordinary type."
+ },
+ {
+  "id": "raio-palace",
+  "qid": "Q7285026",
+  "status": "unsure",
+  "why": "Baroque palace by André Soares (lead), but prep year 2015 conflicts with the Baroque period and the lead gives no year. Check the year and whether it is a key precedent.",
+  "note": "year conflict"
+ },
+ {
+  "id": "royce-hall",
+  "qid": "Q2171194",
+  "status": "photo",
+  "why": "Lead names Allison & Allison as designers (prep also lists CO Architects, which the lead does not name); the lead calls it UCLA's defining image.",
+  "name": "Royce Hall",
+  "by": "Allison & Allison",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1929,
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "A brick Lombard Romanesque hall, one of UCLA's four original buildings and its defining landmark.",
+  "commons_category": "Category:Royce Hall",
+  "coords": [
+   34.0728,
+   -118.442
+  ],
+  "photos": [
+   {
+    "file": "File:2019 UCLA Royce Hall 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2019 UCLA Royce Hall 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2019 UCLA Royce Hall 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "neues-kurhaus",
+  "qid": "Q1980329",
+  "status": "skip",
+  "why": "Neoclassical spa hall; lead gives no reason; no photos."
+ },
+ {
+  "id": "rainier-club",
+  "qid": "Q2128527",
+  "status": "skip",
+  "why": "Private club building; lead gives history and listing, no design reason."
+ },
+ {
+  "id": "akron-public-library",
+  "qid": "Q4701690",
+  "status": "skip",
+  "why": "Carnegie library; lead gives a local Beaux Arts example only."
+ },
+ {
+  "id": "coral-gables-city-hall",
+  "qid": "Q5169459",
+  "status": "skip",
+  "why": "Mediterranean Revival civic building; lead gives style and plan role only."
+ },
+ {
+  "id": "madison-museum",
+  "qid": "Q6728058",
+  "status": "photo",
+  "why": "Lead: National Park Service Rustic trailside museum, part of a National Historic Landmark. Lead gives no city, so the park.",
+  "name": "Madison Museum",
+  "by": "Herbert Maier",
+  "city": "Yellowstone National Park",
+  "cc": "US",
+  "year": 1929,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "One of Herbert Maier's rustic trailside museums in Yellowstone, part of a National Historic Landmark.",
+  "commons_category": "Category:Madison Museum",
+  "coords": [
+   44.64224,
+   -110.86212
+  ],
+  "photos": [
+   {
+    "file": "File:Madison Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Madison Museum Yellowstone NP2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "morris-arboretum",
+  "qid": "Q6913592",
+  "status": "skip",
+  "why": "A garden, not a building."
+ },
+ {
+  "id": "olveston-historic-home",
+  "qid": "Q7088887",
+  "status": "photo",
+  "why": "Lead quotes Heritage New Zealand and Pevsner on its Jacobean design. Lead gives no year, so prep 1907 used.",
+  "name": "Olveston Historic Home",
+  "by": "Ernest George",
+  "city": "Dunedin",
+  "cc": "NZ",
+  "year": 1907,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Ernest George's Jacobean house in Dunedin, which Heritage New Zealand calls an outstanding illustration of Jacobean design.",
+  "commons_category": "Category:Olveston (house)",
+  "coords": [
+   -45.86613,
+   170.50243
+  ],
+  "photos": [
+   {
+    "file": "File:Olveston House, Dunedin.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Olveston Historic Home, Dunedin - Olveston8895.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "oregon-public-library",
+  "qid": "Q7101300",
+  "status": "skip",
+  "why": "Carnegie library; design story is local, no key-work reason."
+ },
+ {
+  "id": "pacific-asia-museum",
+  "qid": "Q7122298",
+  "status": "skip",
+  "why": "Museum in a historic house; lead gives no design reason."
+ },
+ {
+  "id": "taunton-public-library",
+  "qid": "Q7688800",
+  "status": "skip",
+  "why": "Carnegie library; lead gives a local Beaux Arts example only."
+ },
+ {
+  "id": "wall-street-mill",
+  "qid": "Q7962621",
+  "status": "skip",
+  "why": "Industrial mill; lead gives heritage, not architecture; main photo is a site plan."
+ },
+ {
+  "id": "ratshof",
+  "qid": "Q112602140",
+  "status": "skip",
+  "why": "Civic building; lead gives only listing and its replacement role."
+ },
+ {
+  "id": "palazzo-dei-lavori-pubblici",
+  "qid": "Q138048544",
+  "status": "skip",
+  "why": "Lead gives location and architects only, no design reason."
+ },
+ {
+  "id": "catholic-church-of-the-holy-cross-mainz",
+  "qid": "Q1594960",
+  "status": "photo",
+  "why": "Lead: characteristic 1950s modern church and the first 20th-century Catholic central-plan church in Germany; consecrated 1954.",
+  "name": "Catholic Church of the Holy Cross, Mainz",
+  "by": "Richard Jörg",
+  "city": "Mainz",
+  "cc": "DE",
+  "year": 1954,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "A circular 1954 Mainz church, a characteristic 1950s modern design and Germany's first 20th-century Catholic central-plan church.",
+  "commons_category": "Category:Heilig-Kreuz-Kirche (Mainz)",
+  "coords": [
+   49.989,
+   8.25839
+  ],
+  "photos": [
+   {
+    "file": "File:HeiligKreuz1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:HeiligKreuz 8.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-martin",
+  "qid": "Q18413167",
+  "status": "skip",
+  "why": "Lead says only that it is a parish church."
+ },
+ {
+  "id": "auferstehungskirche",
+  "qid": "Q26186384",
+  "status": "photo",
+  "why": "Lead: architecturally demanding landmark, listed 1999. Only one usable outside photo (the other is interior). Year 1957 from prep, lead says 1950s.",
+  "name": "Auferstehungskirche",
+  "by": "Denis Boniver",
+  "city": "Bonn",
+  "cc": "DE",
+  "year": 1957,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Community",
+   "Geometry"
+  ],
+  "features": "A 1950s evangelical church on Bonn's Venusberg, a landmark of demanding architecture, listed since 1999.",
+  "commons_category": "Category:Auferstehungskirche (Bonn)",
+  "coords": [
+   50.69883,
+   7.09395
+  ],
+  "photos": [
+   {
+    "file": "File:Auferstehungskirche (Bonn).JPG",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-karl-borromaus",
+  "qid": "Q41184354",
+  "status": "skip",
+  "why": "Lead gives a listed church complex, no design reason."
+ },
+ {
+  "id": "johanneskirche",
+  "qid": "Q114566215",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "laboratoris-uriach",
+  "qid": "Q120786039",
+  "status": "skip",
+  "why": "Former industrial building; lead gives heritage category only; no photo."
+ },
+ {
+  "id": "felder-single-family-house",
+  "qid": "Q123083025",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "architects-house-of-albert-bontridder",
+  "qid": "Q125158001",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "roman-catholic-church-brother-klaus",
+  "qid": "Q19362764",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "braem-pavilion",
+  "qid": "Q27681118",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "reformed-church",
+  "qid": "Q29679865",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "belvedere-on-the-pfingstberg",
+  "qid": "Q454078",
+  "status": "unsure",
+  "why": "Lead gives construction 1847–1863 and no architects. Wikidata's Friedrich Ludwig Persius is recorded as dying in 1845, before that start (outside knowledge, not prep). Check the architects; year 1863 if kept.",
+  "note": "architects and dates"
+ },
+ {
+  "id": "gamvik-church",
+  "qid": "Q3742808",
+  "status": "skip",
+  "why": "Traditional long-church form in concrete by eye; lead gives no reason it matters."
+ },
+ {
+  "id": "skogskapellet",
+  "qid": "Q10670361",
+  "status": "photo",
+  "why": "Lead: Asplund's first chapel at Skogskyrkogården, built 1919–1920, part of a World Heritage cemetery.",
+  "name": "Skogskapellet",
+  "by": "Gunnar Asplund",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1920,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Community"
+  ],
+  "features": "Gunnar Asplund's first chapel at Skogskyrkogården, now part of a Swedish World Heritage site.",
+  "commons_category": "Category:Skogskapellet",
+  "coords": [
+   59.27411,
+   18.10357
+  ],
+  "photos": [
+   {
+    "file": "File:Skogskyrkogården Skogskapellet 2011b.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Skogskyrkogården Skogskapellet Baksidan.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nymble",
+  "qid": "Q10604793",
+  "status": "photo",
+  "why": "Lead: KTH student union house by Markelius and Åhrén, built 1928–1930, K-marked (protected) 2012.",
+  "name": "Nymble",
+  "by": "Sven Markelius, Uno Åhrén",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1930,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Community",
+   "Landscape"
+  ],
+  "features": "The KTH student union house in Stockholm, built 1928–1930 by Markelius and Åhrén and marked as culturally valuable in 2012.",
+  "commons_category": "Category:Kungliga tekniska högskolans kårhus (Nymble)",
+  "coords": [
+   59.34711,
+   18.07127
+  ],
+  "photos": [
+   {
+    "file": "File:Nymble 22072006.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Stockholm studentkår 20160916 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stockholm studentkår 20160916 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-bonnier",
+  "qid": "Q10715448",
+  "status": "skip",
+  "why": "Lead gives heritage value and ownership, no design or movement reason."
+ },
+ {
+  "id": "ohkurayama-memorial-hall",
+  "qid": "Q11543014",
+  "status": "skip",
+  "why": "Lead describes a cultural facility for concerts, no design reason."
+ },
+ {
+  "id": "gb-cooley-house",
+  "qid": "Q123964937",
+  "status": "photo",
+  "why": "Lead: distinguished Prairie School house by Griffin, completed 1926. Only the main photo used (a sign is prominent in the second).",
+  "name": "G.B. Cooley House",
+  "by": "Walter Burley Griffin",
+  "city": "Monroe",
+  "cc": "US",
+  "year": 1926,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A distinguished Prairie School house by Walter Burley Griffin, a contemporary of Frank Lloyd Wright.",
+  "commons_category": "Category:G.B. Cooley House",
+  "coords": [
+   32.4925,
+   -92.11389
+  ],
+  "photos": [
+   {
+    "file": "File:G. B. Cooley House 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "marshcourt",
+  "qid": "Q17528546",
+  "status": "unsure",
+  "why": "Lutyens's Arts and Crafts house, Grade I, built 1901–1905 (lead, so year 1905). Prep photos are old engravings and a photo of the stables, not the house.",
+  "note": "no main photo"
+ },
+ {
+  "id": "san-giovanni-battista-alla-creta-church",
+  "qid": "Q17992692",
+  "status": "skip",
+  "why": "Lead gives the architect and consecration only; no photo."
+ },
+ {
+  "id": "las-palmas",
+  "qid": "Q1834208",
+  "status": "photo",
+  "why": "Lead names Van den Broek en Bakema as original designers (prep also lists Benthem names, which the lead does not give). Lead: former workshop, 1951–1953.",
+  "name": "Las Palmas",
+  "by": "Van den Broek en Bakema",
+  "city": "Rotterdam",
+  "cc": "NL",
+  "year": 1953,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A former Holland America Line workshop in Rotterdam, built 1951–1953 by Van den Broek en Bakema.",
+  "commons_category": "Category:Las Palmas (Rotterdam)",
+  "coords": [
+   51.90528,
+   4.48694
+  ],
+  "photos": [
+   {
+    "file": "File:Las Palmas-rdam.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam - Las Palmas.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rotterdam - Las Palmas (1).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "helsinki-stock-exchange-building",
+  "qid": "Q18661703",
+  "status": "photo",
+  "why": "Lead: Art Nouveau exchange by Lars Sonck, built 1911 (prep 1910 replaced). Only one daylight outside photo; the rest are interiors, a dusk street and a portal detail.",
+  "name": "Helsinki Stock Exchange Building",
+  "by": "Lars Sonck",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 1911,
+  "type": "Workplace",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Lars Sonck's 1911 Art Nouveau stock exchange building in central Helsinki.",
+  "commons_category": "Category:Helsinki Stock Exchange",
+  "coords": [
+   60.16839,
+   24.94872
+  ],
+  "photos": [
+   {
+    "file": "File:Stock exchange building (42888050811).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-franziskus-mainz",
+  "qid": "Q2318243",
+  "status": "skip",
+  "why": "Lead gives architects and its role as the last new church, no design reason."
+ },
+ {
+  "id": "bj-ricker-house",
+  "qid": "Q24041489",
+  "status": "photo",
+  "why": "Lead: early example of Griffin's work, completed 1912, with a roof that appears to hover and a Greek cross veranda.",
+  "name": "B.J. Ricker House",
+  "by": "Walter Burley Griffin",
+  "city": "Grinnell",
+  "cc": "US",
+  "year": 1912,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Cantilever",
+   "Detail"
+  ],
+  "features": "An early Walter Burley Griffin house in Grinnell, with a roof that seems to hover over its brick block.",
+  "commons_category": "Category:Ricker House (Grinnell, Iowa)",
+  "coords": [
+   41.75222,
+   -92.72361
+  ],
+  "photos": [
+   {
+    "file": "File:Ricker House 2 Grinnell IA.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Ricker House 1 Grinnell IA.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "beach-chalet",
+  "qid": "Q29641753",
+  "status": "skip",
+  "why": "Spanish Colonial Revival restaurant building; lead gives style and listing only."
+ },
+ {
+  "id": "palazzo-della-borsa-valori-di-torino",
+  "qid": "Q3642740",
+  "status": "photo",
+  "why": "Lead: postwar Italian architectural renewal after rationalism; no year in lead, prep 1956 used. Only one usable photo.",
+  "name": "Palazzo della Borsa Valori di Torino",
+  "by": "Roberto Gabetti, Aimaro Isola, Giorgio Raineri",
+  "city": "Turin",
+  "cc": "IT",
+  "year": 1956,
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A postwar stock exchange in Turin that shows Italy's renewal of architecture after rationalism.",
+  "commons_category": "Category:Borsa Valori (Turin)",
+  "coords": [
+   45.06449,
+   7.68583
+  ],
+  "photos": [
+   {
+    "file": "File:Borsa valori torino progetto gabetti isola 01.png",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "old-washington-county-library",
+  "qid": "Q4543180",
+  "status": "skip",
+  "why": "Neo-Georgian library; lead gives style and listing only, no key-work reason."
+ },
+ {
+  "id": "james-l-autry-house",
+  "qid": "Q48976828",
+  "status": "skip",
+  "why": "House of a company lawyer; lead gives credit and listing only."
+ },
+ {
+  "id": "mikaeli",
+  "qid": "Q56400253",
+  "status": "skip",
+  "why": "Congress and concert hall; lead gives no design reason."
+ },
+ {
+  "id": "simon-and-mamie-minchen-house",
+  "qid": "Q60767739",
+  "status": "skip",
+  "why": "Historic revival house; lead gives style and listing only."
+ },
+ {
+  "id": "capitol-theatre",
+  "qid": "Q85750555",
+  "status": "skip",
+  "why": "Historic theatre in revival styles; lead gives no key-work reason."
+ },
+ {
+  "id": "new-york-school-of-applied-design",
+  "qid": "Q953252",
+  "status": "skip",
+  "why": "Lead gives landmark status and later history, no design reason."
+ },
+ {
+  "id": "greek-national-opera-house",
+  "qid": "Q107631790",
+  "status": "skip",
+  "why": "No lead in any language."
+ }
+]
