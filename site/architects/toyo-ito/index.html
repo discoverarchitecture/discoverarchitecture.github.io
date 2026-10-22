@@ -22,7 +22,7 @@
 <script src="../../theme.js?v=0073473b"></script>
 <link rel="stylesheet" href="../../pages.css?v=0073473b">
 <script src="../../analytics.js"></script>
-<link rel="stylesheet" href="../../architect.css?v=98dec898">
+<link rel="stylesheet" href="../../architect.css?v=e7dc92eb">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Person", "name": "Toyo Ito", "url": "https://findgreatarchitecture.com/architects/toyo-ito/", "description": "Toyo Ito (born 1941) is a Japanese architect known for light, open, conceptual buildings that try to express both the physical world and the virtual, information-filled city.", "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Toyo_Ito_2009.jpg/250px-Toyo_Ito_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "sameAs": ["https://en.wikipedia.org/wiki/Toyo_Ito", "https://www.pritzkerprize.com/laureates/2013", "https://www.archdaily.com/office/toyo-ito-and-associates"], "knowsAbout": ["Facade as skin", "Sculptural form", "Structure as expression", "Steel & glass", "Light & shadow"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Toyo Ito buildings", "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://findgreatarchitecture.com/buildings/silver-hut/", "name": "Silver Hut"}, {"@type": "ListItem", "position": 2, "url": "https://findgreatarchitecture.com/buildings/tower-of-winds/", "name": "Tower of Winds"}, {"@type": "ListItem", "position": 3, "url": "https://findgreatarchitecture.com/buildings/yatsushiro-municipal-museum/", "name": "Yatsushiro Municipal Museum"}, {"@type": "ListItem", "position": 4, "url": "https://findgreatarchitecture.com/buildings/odate-jukai-dome/", "name": "Odate Jukai Dome"}, {"@type": "ListItem", "position": 5, "url": "https://findgreatarchitecture.com/buildings/taisha-urara-kan-cultural-hall/", "name": "Taisha Urara-kan Cultural Hall"}, {"@type": "ListItem", "position": 6, "url": "https://findgreatarchitecture.com/buildings/sendai-mediatheque/", "name": "Sendai Mediatheque"}, {"@type": "ListItem", "position": 7, "url": "https://findgreatarchitecture.com/buildings/matsumoto-performing-arts-centre/", "name": "Matsumoto Performing Arts Centre"}, {"@type": "ListItem", "position": 8, "url": "https://findgreatarchitecture.com/buildings/tod-s-omotesando-building/", "name": "Tod's Omotesando Building"}, {"@type": "ListItem", "position": 9, "url": "https://findgreatarchitecture.com/buildings/ito-toren/", "name": "Ito-toren"}, {"@type": "ListItem", "position": 10, "url": "https://findgreatarchitecture.com/buildings/mikimoto-ginza-2/", "name": "Mikimoto Ginza 2"}, {"@type": "ListItem", "position": 11, "url": "https://findgreatarchitecture.com/buildings/meiso-no-mori/", "name": "Meiso no Mori Municipal Funeral Hall"}, {"@type": "ListItem", "position": 12, "url": "https://findgreatarchitecture.com/buildings/vivocity/", "name": "VivoCity"}, {"@type": "ListItem", "position": 13, "url": "https://findgreatarchitecture.com/buildings/tama-art-university-library/", "name": "Tama Art University Library"}, {"@type": "ListItem", "position": 14, "url": "https://findgreatarchitecture.com/buildings/kaohsiung-national-stadium/", "name": "National Stadium, Kaohsiung (World Games Stadium)"}, {"@type": "ListItem", "position": 15, "url": "https://findgreatarchitecture.com/buildings/torre-realia-bcn/", "name": "Torre Realia BCN"}, {"@type": "ListItem", "position": 16, "url": "https://findgreatarchitecture.com/buildings/za-koenji/", "name": "Za-Koenji Public Theatre"}, {"@type": "ListItem", "position": 17, "url": "https://findgreatarchitecture.com/buildings/ken-iwata-mother-and-child-museum/", "name": "Ken Iwata Mother and Child Museum"}, {"@type": "ListItem", "position": 18, "url": "https://findgreatarchitecture.com/buildings/toyo-ito-museum-of-architecture/", "name": "Toyo Ito Museum of Architecture"}, {"@type": "ListItem", "position": 19, "url": "https://findgreatarchitecture.com/buildings/yaoko-kawagoe-museum/", "name": "Yaoko Kawagoe Museum"}, {"@type": "ListItem", "position": 20, "url": "https://findgreatarchitecture.com/buildings/ntu-college-of-social-sciences/", "name": "College of Social Sciences, National Taiwan University (Koo Chen-Fu Memorial Library)"}, {"@type": "ListItem", "position": 21, "url": "https://findgreatarchitecture.com/buildings/capitagreen/", "name": "CapitaGreen"}, {"@type": "ListItem", "position": 22, "url": "https://findgreatarchitecture.com/buildings/minna-no-mori-gifu-media-cosmos/", "name": "Minna no Mori Gifu Media Cosmos"}, {"@type": "ListItem", "position": 23, "url": "https://findgreatarchitecture.com/buildings/international-museum-of-the-baroque/", "name": "International Museum of the Baroque"}, {"@type": "ListItem", "position": 24, "url": "https://findgreatarchitecture.com/buildings/national-taichung-theater/", "name": "National Taichung Theater"}, {"@type": "ListItem", "position": 25, "url": "https://findgreatarchitecture.com/buildings/onikuru/", "name": "ONIKURU"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Architects", "item": "https://findgreatarchitecture.com/architects/"}, {"@type": "ListItem", "position": 2, "name": "Toyo Ito", "item": "https://findgreatarchitecture.com/architects/toyo-ito/"}]}</script>
@@ -89,8 +89,59 @@
     t.querySelector('.open img').src = /^https?:/.test(s) ? s : '../../' + s;
     if (d) d.outerHTML = dots(n, k);
   }
+  // A sideways swipe moves the photo with the finger and brings the next one in beside it, as on the wall; letting go past
+  // about a third of the tile (or a quick flick) slides it home, a short drag springs back. The arrows slide the same way.
+  var still = !!(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches);
+  function mv(el, x, ms) { el.style.transition = ms ? 'transform ' + ms + 'ms ease-out' : 'none'; el.style.transform = x ? 'translateX(' + x + 'px)' : ''; }
+  function peekIn(t, url, dir) {
+    var o = t.querySelector('.open'), p = o.querySelector('img.peek');
+    if (!p) { p = document.createElement('img'); p.className = 'peek'; p.alt = ''; p.draggable = false; o.appendChild(p); }
+    if (p.getAttribute('src') !== url) p.src = url;
+    p.setAttribute('data-dir', dir);
+    return p;
+  }
+  function drop(p) { if (p && p.parentNode) p.parentNode.removeChild(p); }
+  function glide(t, dir, from, url, commit) {
+    var img = t.querySelector('.open img:not(.peek)'), w = t.clientWidth, p;
+    if (still || !img || t.gliding) { drop(t.querySelector('.open img.peek')); if (img) mv(img, 0, 0); if (!t.gliding) commit(); return; }
+    t.gliding = true; p = peekIn(t, url, dir);
+    mv(p, dir * w + from, 0); p.getBoundingClientRect();
+    mv(img, -dir * w, 250); mv(p, 0, 250);
+    setTimeout(function () { commit(); mv(img, 0, 0); requestAnimationFrame(function () { drop(p); }); t.gliding = false; }, 260);
+  }
+  function springBack(t) {
+    var img = t.querySelector('.open img:not(.peek)'), p = t.querySelector('.open img.peek');
+    if (img) mv(img, 0, 200);
+    if (p) { mv(p, +p.getAttribute('data-dir') * t.clientWidth, 200); setTimeout(function () { drop(p); }, 210); }
+  }
+  // drag: follow the finger on tile t; next(t, dir) gives the neighbouring photo's address, flip(t, dir) shows it
+  var drag = null;
+  function dragStart(t, e) { if (e.pointerType === 'mouse' || !t || t.gliding) return; drag = { t: t, x0: e.clientX, y0: e.clientY, t0: Date.now(), dx: 0, side: false }; }
+  function dragMove(e, next) {
+    if (!drag) return;
+    var d = drag, t = d.t, img = t.querySelector('.open img:not(.peek)'), dir;
+    d.dx = e.clientX - d.x0;
+    if (!d.side && Math.abs(d.dx) > 8 && Math.abs(d.dx) > Math.abs(e.clientY - d.y0)) d.side = true;
+    if (!d.side || !img) return;
+    dir = d.dx < 0 ? 1 : -1;
+    mv(img, d.dx, 0); mv(peekIn(t, next(t, dir), dir), dir * t.clientWidth + d.dx, 0);
+  }
+  function dragEnd(e, next, flip) {
+    if (!drag) return;
+    var d = drag, dir; drag = null;
+    if (d.side) d.dx = e.clientX - d.x0; // where the finger left the glass
+    dir = d.dx < 0 ? 1 : -1;
+    if (!d.side) return;
+    swiped = true; setTimeout(function () { swiped = false; }, 400);
+    if ((Math.abs(d.dx) > 25 && Date.now() - d.t0 < 250) || Math.abs(d.dx) > Math.min(90, d.t.clientWidth * 0.3)) glide(d.t, dir, d.dx, next(d.t, dir), function () { flip(d.t, dir); });
+    else springBack(d.t);
+  }
+  function nextSrc(t, dir) {
+    var th = t.dataset.th.split('|'), n = th.length, s = th[((+t.dataset.k || 0) + dir + n) % n];
+    return /^https?:/.test(s) ? s : '../../' + s;
+  }
   tiles.forEach(function (t) {
-    var open = t.querySelector('.open'), x0 = null, y0 = 0;
+    var open = t.querySelector('.open');
     // A tap opens the building as a popup over the wall, like everywhere else; closing it returns here.
     open.addEventListener('click', function (e) {
       if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;
@@ -101,15 +152,12 @@
     });
     if (!t.dataset.th) return;
     [].forEach.call(t.querySelectorAll('.flip'), function (b) {
-      b.addEventListener('click', function (e) { e.stopPropagation(); flip(t, b.classList.contains('next') ? 1 : -1); });
+      b.addEventListener('click', function (e) { e.stopPropagation(); var dir = b.classList.contains('next') ? 1 : -1; glide(t, dir, 0, nextSrc(t, dir), function () { flip(t, dir); }); });
     });
-    t.addEventListener('pointerdown', function (e) { x0 = e.clientX; y0 = e.clientY; });
-    t.addEventListener('pointerup', function (e) {
-      var dx = e.clientX - x0;
-      if (x0 != null && Math.abs(dx) > 30 && Math.abs(dx) > Math.abs(e.clientY - y0)) { swiped = true; flip(t, dx < 0 ? 1 : -1); setTimeout(function () { swiped = false; }, 400); }
-      x0 = null;
-    });
-    t.addEventListener('pointercancel', function () { x0 = null; });
+    t.addEventListener('pointerdown', function (e) { dragStart(t, e); });
+    t.addEventListener('pointermove', function (e) { dragMove(e, nextSrc); });
+    t.addEventListener('pointerup', function (e) { dragEnd(e, nextSrc, flip); });
+    t.addEventListener('pointercancel', function () { if (drag && drag.side) springBack(drag.t); drag = null; });
   });
 })();
 </script>

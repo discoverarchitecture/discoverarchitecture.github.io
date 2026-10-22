@@ -280,7 +280,7 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 }
 
 .gallery { position: relative; min-height: 0; display: grid; grid-template-rows: 1fr auto auto; background: var(--stage); color: #EDEDE9; }
-.stage { position: relative; margin: 0; min-height: 0; touch-action: pan-y; }
+.stage { position: relative; margin: 0; min-height: 0; touch-action: pan-y; overflow: hidden; } /* a swiped photo slides inside its frame */
 .stage.drawing { background: var(--surface); }
 .stage img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; cursor: zoom-in; }
 /* The zoom button on the opened building's photo, and the photo full screen */
@@ -294,7 +294,8 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 .zv-dots .dots i.on { background: var(--red); }
 .zv-dots .dots i.sm { transform: scale(.6); }
 .zv[hidden] { display: none; }
-.zv img { width: 100%; height: 100%; min-height: 0; object-fit: contain; touch-action: pinch-zoom; }
+.zv-frame { position: relative; min-height: 0; overflow: hidden; touch-action: pinch-zoom; } /* sideways swipes are the page's own; pinch still zooms */
+.zv-frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 .zv .nav { z-index: 2; }
 .zv .nav.prev { left: 12px; } .zv .nav.next { right: 12px; }
 .zv-x { all: unset; box-sizing: border-box; position: absolute; top: calc(12px + env(safe-area-inset-top, 0px)); right: 12px; z-index: 3; width: 44px; height: 44px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,0.55); }
