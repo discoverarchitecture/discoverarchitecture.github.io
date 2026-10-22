@@ -1,0 +1,309 @@
+[
+ {
+  "id": "luiz-de-bessa-state-public-library",
+  "qid": "Q9656693",
+  "name": "Luiz de Bessa State Public Library",
+  "why": "no sourced year",
+  "entry": {
+   "id": "luiz-de-bessa-state-public-library",
+   "qid": "Q9656693",
+   "status": "photo",
+   "why": "Niemeyer built work; Portuguese lead, translated. Year null: the only year in the lead is the 1954 founding law, not the building's date.",
+   "name": "Luiz de Bessa State Public Library",
+   "by": "Oscar Niemeyer",
+   "city": "Belo Horizonte",
+   "cc": "BR",
+   "year": null,
+   "type": "Library",
+   "movement": "Modernism",
+   "concepts": [
+    "Public space",
+    "Facade as skin",
+    "Community"
+   ],
+   "features": "Belo Horizonte's main public library and the state's model library, whose renovation follows Oscar Niemeyer's original design.",
+   "commons_category": "Category:Biblioteca Pública Estadual Luiz de Bessa",
+   "coords": [
+    -19.933,
+    -43.93928
+   ],
+   "photos": [
+    {
+     "file": "File:Biblioteca Pública Estadual Luiz de Bessa, 2022.jpg",
+     "license": "CC0",
+     "seen": true
+    },
+    {
+     "file": "File:Biblioteca Pública Estadual Luiz de Bessa, Belo Horizonte, Brasil .JPG",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://pt.wikipedia.org/wiki/Biblioteca_P%C3%BAblica_Estadual_Luiz_de_Bessa",
+    "https://www.wikidata.org/wiki/Q9656693"
+   ]
+  }
+ },
+ {
+  "id": "turku-main-library",
+  "qid": "Q7855553",
+  "name": "Turku Main Library",
+  "why": "no sourced year",
+  "entry": {
+   "id": "turku-main-library",
+   "qid": "Q7855553",
+   "status": "photo",
+   "why": "JKMM already has two buildings on the wall. Wikidata's 1903 is not in the lead and looks like an older date, so year is null.",
+   "name": "Turku Main Library",
+   "by": "JKMM Architects",
+   "city": "Turku",
+   "cc": "FI",
+   "year": null,
+   "type": "Library",
+   "movement": "Contemporary",
+   "concepts": [
+    "Public space",
+    "Community",
+    "Light & shadow"
+   ],
+   "features": "Turku's chief city library in the city centre, covering about 8,500 square metres.",
+   "commons_category": "Category:Turku Main Library",
+   "coords": [
+    60.4503,
+    22.2711
+   ],
+   "photos": [
+    {
+     "file": "File:Turun kaupunginkirjaston päärakennus.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Turku_Main_Library",
+    "https://www.wikidata.org/wiki/Q7855553"
+   ]
+  }
+ },
+ {
+  "id": "first-presbyterian-church-cottage-grove-oregon",
+  "qid": "Q5453555",
+  "name": "First Presbyterian Church (Cottage Grove, Oregon)",
+  "why": "no main photo",
+  "entry": {
+   "id": "first-presbyterian-church-cottage-grove-oregon",
+   "qid": "Q5453555",
+   "status": "photo",
+   "why": "Belluschi already has four buildings on the wall and this is one of his built works; the lead is short, but gives the NRHP listing.",
+   "name": "First Presbyterian Church (Cottage Grove, Oregon)",
+   "by": "Pietro Belluschi",
+   "city": "Cottage Grove",
+   "cc": "US",
+   "year": 1951,
+   "type": "Religious",
+   "movement": "Modernism",
+   "concepts": [
+    "Community",
+    "Public space",
+    "Landscape"
+   ],
+   "features": "A Presbyterian church in Cottage Grove, Oregon, listed on the National Register of Historic Places.",
+   "commons_category": null,
+   "coords": [
+    43.795,
+    -123.06333
+   ],
+   "photos": [
+    {
+     "file": "File:First Presbyterian Church (Cottage Grove, Oregon).jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/First_Presbyterian_Church_%28Cottage_Grove%2C_Oregon%29",
+    "https://www.wikidata.org/wiki/Q5453555"
+   ]
+  }
+ },
+ {
+  "id": "wall-house-ii",
+  "qid": "Q17514866",
+  "name": "Wall House II",
+  "why": "no sourced year",
+  "entry": {
+   "id": "wall-house-ii",
+   "qid": "Q17514866",
+   "status": "photo",
+   "why": "The lead names John Hejduk and says it is one of his few realised designs. Year null: Wikidata's 1973 is the design date and the lead gives only the 2000 start of building.",
+   "name": "Wall House II",
+   "by": "John Hejduk",
+   "city": "Groningen",
+   "cc": "NL",
+   "year": null,
+   "type": "House",
+   "movement": "Late modernism",
+   "concepts": [
+    "Sculptural form",
+    "Free plan",
+    "Circulation"
+   ],
+   "features": "Hejduk's Wall House II, one of his few built designs, started in Groningen in 2000.",
+   "commons_category": "Category:Wall House 2",
+   "coords": [
+    53.18317,
+    6.55349
+   ],
+   "photos": [
+    {
+     "file": "File:Wall House2.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Wall House 2, Groningen - Netherland.jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wall_House_II",
+    "https://www.wikidata.org/wiki/Q17514866"
+   ]
+  }
+ },
+ {
+  "id": "cafe-era",
+  "qid": "Q12029033",
+  "name": "Café Era",
+  "why": "no sourced year",
+  "entry": {
+   "id": "cafe-era",
+   "qid": "Q12029033",
+   "status": "photo",
+   "why": "The lead names the functionalist style; the year is from prep.json because the lead gives none.",
+   "name": "Café Era",
+   "by": "Josef Kranz",
+   "city": "Brno",
+   "cc": "CZ",
+   "year": null,
+   "type": "Hospitality",
+   "movement": "Modernism",
+   "concepts": [
+    "Facade as skin",
+    "Detail",
+    "Light & shadow"
+   ],
+   "features": "A functionalist building in Brno's Černá Pole quarter that still houses a working café, by Josef Kranz.",
+   "commons_category": "Category:Café Era",
+   "coords": [
+    49.2106,
+    16.6192
+   ],
+   "photos": [
+    {
+     "file": "File:Brno - Zemědělská, kavárna ERA, 2026-03, obr01.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://cs.wikipedia.org/wiki/Kav%C3%A1rna_Era",
+    "https://www.wikidata.org/wiki/Q12029033"
+   ]
+  }
+ },
+ {
+  "id": "new-town-hall-in-jablonec-nad-nisou",
+  "qid": "Q30874374",
+  "name": "New Town Hall in Jablonec nad Nisou",
+  "why": "no sourced year",
+  "entry": {
+   "id": "new-town-hall-in-jablonec-nad-nisou",
+   "qid": "Q30874374",
+   "status": "photo",
+   "why": "Lead: monumental functionalist town hall, national cultural monument. Lead gives only 'the 30s', prep year 1901 conflicts, so year null.",
+   "name": "New Town Hall in Jablonec nad Nisou",
+   "by": "Karl Winter",
+   "city": "Jablonec nad Nisou",
+   "cc": "CZ",
+   "year": null,
+   "type": "Civic",
+   "movement": "Modernism",
+   "concepts": [
+    "Monumentality",
+    "Public space",
+    "Geometry"
+   ],
+   "features": "A monumental functionalist town hall from the 1930s on Jablonec's Peace Square, protected as a national cultural monument.",
+   "commons_category": "Category:New Town Hall in Jablonec nad Nisou",
+   "coords": [
+    50.72452,
+    15.17129
+   ],
+   "photos": [
+    {
+     "file": "File:Jablonec-Gablonz-Rathaus-3.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://cs.wikipedia.org/wiki/Nov%C3%A1_radnice_%28Jablonec_nad_Nisou%29",
+    "https://www.wikidata.org/wiki/Q30874374"
+   ]
+  }
+ },
+ {
+  "id": "haskova-vila",
+  "qid": "Q33249065",
+  "name": "Háskova vila",
+  "why": "no sourced year",
+  "entry": {
+   "id": "haskova-vila",
+   "qid": "Q33249065",
+   "status": "photo",
+   "why": "Lead: one of the finest aerodynamic functionalist villas of the Wrocław school, named designer. Prep year 1901 conflicts with that period, so year null.",
+   "name": "Háskova vila",
+   "by": "Heinrich Lauterbach",
+   "city": "Jablonec nad Nisou",
+   "cc": "CZ",
+   "year": null,
+   "type": "House",
+   "movement": "Modernism",
+   "concepts": [
+    "Sculptural form",
+    "Landscape",
+    "Facade as skin"
+   ],
+   "features": "Considered one of the most beautiful examples of aerodynamic functionalism from the Wrocław school.",
+   "commons_category": "Category:Háskova vila",
+   "coords": [
+    50.73741,
+    15.18372
+   ],
+   "photos": [
+    {
+     "file": "File:Jablonecké Paseky - Háskova vila čp. 449 (1).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Jablonecké Paseky - Háskova vila čp. 449 (2).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Jablonecké Paseky - Háskova vila čp. 449 (4).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://cs.wikipedia.org/wiki/H%C3%A1skova_vila",
+    "https://www.wikidata.org/wiki/Q33249065"
+   ]
+  }
+ }
+]

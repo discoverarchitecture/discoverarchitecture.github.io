@@ -1,5 +1,29 @@
 [
  {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "114 buildings from 1900–1989 from the sixth Haiku pool",
+  "pr": "120"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Game: no zoomed-in close-ups; countries under building names",
+  "pr": "122"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Opened building: full-screen photo, zoom button, arrows on the photo",
+  "pr": "121"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, sixth pool (1900–1989): 300 candidates judged by Haiku, every judgement checked by Sonnet (9 rescued, 31 wrong keeps out), every gallery by Opus; 114 buildings added (Aalto, Asplund, Loos, Mies, Gropius, Rietveld, Dudok, Berlage, Mendelsohn, Wiesner, Fuchs, Gočár, Kotěra, Bartning, Böhm, Nervi, Moretti, Libera, Michelucci, Niemeyer, Tange, Stirling…), 120 weak photos removed, 15 held.",
+  "pr": ""
+ },
+ {
   "date": "2026-10-21",
   "workstream": "Data collection",
   "what": "82 contemporary buildings from the fifth Haiku pool (1990 onwards)",
