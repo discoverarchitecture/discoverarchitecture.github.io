@@ -850,12 +850,25 @@
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
     if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
   }));
+  // Our own pages (an architect's page, a building's full page, a topic) open in a new tab on a computer, so the wall stays
+  // just as it was; on a phone they open in place and Back returns to the same spot (owner, 22 Oct 2026).
+  const BIG = matchMedia('(hover: hover) and (pointer: fine)');
+  const goPage = url => { if (BIG.matches) window.open(url, '_blank', 'noopener'); else location.href = url; };
+  document.addEventListener('click', e => {
+    const a = e.target.closest && e.target.closest('a[href]');
+    if (!a || !BIG.matches || a.target || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || /^(mailto|tel|javascript):/i.test(href)) return;
+    const u = new URL(a.href, location.href);
+    if (u.origin !== location.origin || (u.pathname === location.pathname && u.search === location.search)) return; // the wall itself
+    e.preventDefault(); window.open(u.href, '_blank', 'noopener');
+  });
   // "See all" for an architect chooses them in the Architect filter, so the filter panel can still swap or add architects
   // (a name no building credits falls back to a search); "All" for a typology filters by it.
   function showOnWall(arch, type) {
     // An architect with a page of their own (data/arch_pages.js, tools/architect_pages.py) is shown there, not as a filter.
     const page = arch && !type && window.ARCH_PAGES ? window.ARCH_PAGES[NAMES.canon(arch)] : '';
-    if (page) { location.href = 'architects/' + page + '/'; return; }
+    if (page) { goPage('architects/' + page + '/'); return; }
     setMode('buildings', true);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null;
     if (type) state.filters.type.add(type);

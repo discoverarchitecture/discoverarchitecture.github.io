@@ -394,9 +394,9 @@ def build(bp, hubs):
                 continue
             d = out / h['slug']
             d.mkdir(exist_ok=True)
-            (d / 'index.html').write_text(page(bp, hubs, h, ctx))
+            (d / 'index.html').write_text(bp.outward(page(bp, hubs, h, ctx)))
             keep.add(h['slug'])
-        (out / 'index.html').write_text(index_page(bp, hubs, kind))
+        (out / 'index.html').write_text(bp.outward(index_page(bp, hubs, kind)))
         for d in out.iterdir():
             if d.is_dir() and d.name not in keep:
                 for f in d.iterdir():

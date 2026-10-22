@@ -418,9 +418,9 @@ def build(bp, items):
     for key, p in plans.items():
         d = out / p['slug']
         d.mkdir(exist_ok=True)
-        (d / 'index.html').write_text(page(bp, plans, key, ctx))
+        (d / 'index.html').write_text(bp.outward(page(bp, plans, key, ctx)))
         keep.add(p['slug'])
-    (out / 'index.html').write_text(index_page(bp, plans))
+    (out / 'index.html').write_text(bp.outward(index_page(bp, plans)))
     for d in out.iterdir():
         if d.is_dir() and d.name not in keep:
             for f in d.iterdir():
