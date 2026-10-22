@@ -284,7 +284,7 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 .stage.drawing { background: var(--surface); }
 .stage img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; cursor: zoom-in; }
 /* The zoom button on the opened building's photo, and the photo full screen */
-.stage .zoom { all: unset; box-sizing: border-box; position: absolute; left: calc(var(--ph-l, 0px) + 12px); bottom: calc(var(--ph-b, 0px) + 12px); z-index: 2; width: 40px; height: 40px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,0.55); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
+.stage .zoom { all: unset; box-sizing: border-box; position: absolute; right: calc(var(--ph-l, 0px) + 12px); bottom: calc(var(--ph-b, 0px) + 12px); z-index: 2; width: 40px; height: 40px; display: grid; place-items: center; cursor: pointer; border-radius: var(--r); background: rgba(17,17,16,0.55); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); }
 .stage .zoom svg { width: 20px; height: 20px; fill: none; stroke: #fff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 @media (hover: hover) { .stage .zoom:hover { background: var(--red); } }
 .zv { position: fixed; inset: 0; z-index: 90; background: var(--stage); display: grid; grid-template-rows: 1fr auto auto; color: #EDEDE9; }

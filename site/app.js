@@ -805,7 +805,7 @@
     else if (swipeX != null && Math.abs(e.clientX - swipeX) < 8 && e.target.closest('img, .zoom')) openZoom(); // a tap on the photo, or the zoom button
     swipeX = null;
   });
-  // The arrows sit halfway up the photo's own left and right edges, and the zoom button at its bottom left,
+  // The arrows sit halfway up the photo's own left and right edges, and the zoom button at its bottom right,
   // wherever the photo falls inside its dark frame (a wide photo leaves bands above and below).
   function placeOnPhoto() {
     const stage = $('stage'), img = stage.querySelector('img'), g = $('gallery');
