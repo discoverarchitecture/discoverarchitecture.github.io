@@ -1,0 +1,381 @@
+{
+ "keep_ok": [
+  "gebaude-der-reichsschuldenverwaltung",
+  "spiskova-vila",
+  "st-johns-cathedral-napier",
+  "villa-palicka",
+  "villa-rothmayer",
+  "villa-van-t-hoff",
+  "piscine-judaique-jean-boiteux",
+  "chappelle-administration-building",
+  "haus-rabe",
+  "fukuoka-city-akarenga-cultural-center",
+  "kunstsilo",
+  "kirche-am-hohenzollernplatz",
+  "finnish-nature-center-haltia",
+  "mercado-central-valencia",
+  "alcide-de-gasperi-building",
+  "hans-christian-andersen-museum",
+  "cunard-building",
+  "laeiszhalle",
+  "suntory-hall",
+  "palais-de-la-porte-doree",
+  "anthonie-van-dijckstraat-4-amsterdam",
+  "vogelsang-house",
+  "kallio-church"
+ ],
+ "ordinary": [
+  "gebaude-der-reichsschuldenverwaltung",
+  "alcide-de-gasperi-building",
+  "cunard-building",
+  "laeiszhalle",
+  "anthonie-van-dijckstraat-4-amsterdam",
+  "biblioteca-comunale-ezio-vanoni"
+ ],
+ "keep_fix": [
+  {
+   "id": "chappelle-administration-building",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1925,
+   "why": "The lead gives no year; prep's 1925 is plausible for Lankford (the building went up in the early 1920s) and is the fallback the brief allows."
+  },
+  {
+   "id": "kunstsilo",
+   "field": "by",
+   "haiku": "Sverre Aasland, Arne Korsmo",
+   "should_be": "Mestres Wåge Arquitectes, BAX, Mendoza Partida",
+   "why": "Year 2024 is the museum conversion, which the lead credits to Mestres Wåge Arquitectes, BAX and Mendoza Partida; Korsmo and Aarsland (spelled Aasland by Wikidata) drew only the 1935 grain silo. Either credit the converters with 2024, or credit Korsmo and Aarsland as original architects and say so in features."
+  },
+  {
+   "id": "kunstsilo",
+   "field": "concepts",
+   "haiku": [
+    "Adaptive reuse",
+    "Reclaimed material",
+    "Circulation"
+   ],
+   "should_be": [
+    "Adaptive reuse",
+    "Exposed concrete",
+    "Void"
+   ],
+   "why": "The lead says a silo was converted, not that materials were reclaimed; the interior photos show raw concrete silo cells around a tall void."
+  },
+  {
+   "id": "kirche-am-hohenzollernplatz",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1933,
+   "why": "The lead gives no date; prep's 1933 is plausible for Fritz Hoger's church (built 1930-33)."
+  },
+  {
+   "id": "finnish-nature-center-haltia",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2013,
+   "why": "The lead gives no date; prep's 2013 is plausible for Rainer Mahlamaki, so null was too cautious."
+  },
+  {
+   "id": "finnish-nature-center-haltia",
+   "field": "concepts",
+   "haiku": [
+    "Landscape",
+    "Public space",
+    "Circulation"
+   ],
+   "should_be": [
+    "Landscape",
+    "Timber",
+    "Sculptural form"
+   ],
+   "why": "Public space and Circulation are not supported by the lead or the photos; the sheet shows dark timber-clad volumes in a forest setting."
+  },
+  {
+   "id": "mercado-central-valencia",
+   "field": "year",
+   "haiku": null,
+   "should_be": null,
+   "why": "Keep null: prep's 1914 is only when construction began (my own knowledge, not in the lead: opened 1928), so it must not be used as the completion year. If the caller wants a number, 1928 needs a source."
+  },
+  {
+   "id": "hans-christian-andersen-museum",
+   "field": "year",
+   "haiku": null,
+   "should_be": null,
+   "why": "Keep null: prep's 1908 belongs to the old museum, not to the Kengo Kuma building, and the lead gives no year (the Kuma museum opened in 2021 by my own knowledge, not in the lead). The lead describes a set of museums, so features stay general."
+  },
+  {
+   "id": "anthonie-van-dijckstraat-4-amsterdam",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1937,
+   "why": "The lead gives no date; prep's 1937 is plausible for Mart Stam, so use it."
+  },
+  {
+   "id": "vogelsang-house",
+   "field": "concepts",
+   "haiku": [
+    "Facade as skin",
+    "Free plan",
+    "Detail"
+   ],
+   "should_be": [
+    "Geometry",
+    "Facade as skin",
+    "Detail"
+   ],
+   "why": "Nothing in the lead or the photo supports Free plan; the house is a white cube with ribbon windows."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "herndon-home",
+   "why": "The National Historic Landmark status rests on the Herndon family story, not on the design; the lead calls it a Classical Revival house with Beaux-Arts touches. The 'architect', Adrienne Herndon, was not an architect (she designed it for her husband), and the year is uncertain (prep 1908, Haiku null). Ordinary house, no design reason."
+  },
+  {
+   "id": "edificio-condominiale-di-viale-roma",
+   "why": "Ordinary housing block; the lead only says 'modern architecture' at Viale Roma 380. The photos show a white 1930s-style villa, so prep's year 1985 and the Wikidata name Ettore Sottsass fit badly (a 1985 date cannot be Sottsass senior, who died in 1953, and Sottsass junior is not known for this house). Architect and year unreliable; skip."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "spiskova-vila",
+   "better_file_or_null": "File:Baba - Špíšek 02.jpg",
+   "why": "Mild: the first photo shows only the brick base and roof behind a pergola; the second shows the whole white house from the front."
+  },
+  {
+   "id": "st-johns-cathedral-napier",
+   "better_file_or_null": "File:Napier, Part I- Architecture - Napier9501.jpg",
+   "why": "The first photo is a narrow shot with the cathedral small beside a car; the CC0 photo (Haiku's second) shows the whole facade, rose window and tower clearly."
+  },
+  {
+   "id": "kunstsilo",
+   "better_file_or_null": "File:Kunstsilo mai 2024 (2).jpg",
+   "why": "Haiku's first (Kunstsilo (Kristiansand).jpg) is a close view of the white silo wall; the 2024 photo shows the glass tower, silos and sign together, which reads as the building."
+  },
+  {
+   "id": "alcide-de-gasperi-building",
+   "better_file_or_null": "File:Luxembourg Kirchberg A De Gasperi 01.jpg",
+   "why": "Haiku's first (European Convention Center, Tour Alcide de Gasperi 03) is a tight upward crop of glass; the Q-rated 'A De Gasperi 01' shows the tower whole (a neighbouring block is beside it)."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "biblioteca-comunale-ezio-vanoni",
+   "why": "Striking stone rotunda by Luigi Caccia Dominioni (Wikidata), a well-known Milan modernist not yet on the wall; clear outside main photo. The lead (it) gives only size and opening year 1968, so a library whose lead gives no design reason: kept only for the architect. Flag as ordinary (library).",
+   "entry": {
+    "id": "biblioteca-comunale-ezio-vanoni",
+    "qid": "Q17622722",
+    "status": "photo",
+    "why": "Striking stone rotunda by Luigi Caccia Dominioni (Wikidata), a well-known Milan modernist not yet on the wall; clear outside main photo. The lead (it) gives only size and opening year 1968, so a library whose lead gives no design reason: kept only for the architect. Flag as ordinary (library).",
+    "name": "Biblioteca comunale Ezio Vanoni",
+    "by": "Luigi Caccia Dominioni",
+    "city": "Morbegno",
+    "cc": "IT",
+    "year": 1968,
+    "type": "Library",
+    "movement": "Modernism",
+    "concepts": [
+     "Stone",
+     "Sculptural form",
+     "Geometry"
+    ],
+    "features": "Morbegno's civic library, opened in 1968 and among the most significant in the Valtellina system by size and holdings.",
+    "commons_category": "Category:Biblioteca civica Ezio Vanoni",
+    "coords": [
+     46.13176,
+     9.5676
+    ],
+    "photos": [
+     {
+      "file": "File:Morbegno - biblioteca civica Ezio Vanoni.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:BIBLIOTECA CIVICA EZIO VANONI.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "mercato-dei-fiori-vecchio",
+   "why": "Haiku marked unsure only because the lead gives an address. It is the well-known 1951 concrete-shell flower market by Leonardo Savioli and Leonardo Ricci with the Gori brothers (Wikidata), clearly a modern structure on the sheet; neither Savioli nor Ricci is on the wall. Features use the name and prep's architects, as the lead says nothing more. Year 1951 is prep's, plausible for these architects. Main photo p1 (outside, sky) chosen over the cars under the vault.",
+   "entry": {
+    "id": "mercato-dei-fiori-vecchio",
+    "qid": "Q3854849",
+    "status": "photo",
+    "why": "Haiku marked unsure only because the lead gives an address. It is the well-known 1951 concrete-shell flower market by Leonardo Savioli and Leonardo Ricci with the Gori brothers (Wikidata), clearly a modern structure on the sheet; neither Savioli nor Ricci is on the wall. Features use the name and prep's architects, as the lead says nothing more. Year 1951 is prep's, plausible for these architects. Main photo p1 (outside, sky) chosen over the cars under the vault.",
+    "name": "Mercato dei Fiori Vecchio",
+    "by": "Leonardo Savioli, Leonardo Ricci, Giuseppe Giorgio Gori, Enzo Gori",
+    "city": "Pescia",
+    "cc": "IT",
+    "year": 1951,
+    "type": "Civic",
+    "movement": "Modernism",
+    "concepts": [
+     "Vault",
+     "Structure as expression",
+     "Exposed concrete"
+    ],
+    "features": "A flower-market complex in Pescia, designed by Leonardo Savioli, Leonardo Ricci and Giuseppe and Enzo Gori.",
+    "commons_category": "Category:Old Flower Market (Pescia)",
+    "coords": [
+     43.89691,
+     10.68712
+    ],
+    "photos": [
+     {
+      "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-17 15-58-24 001.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Mercato vecchio di pescia 01.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-26 09-09-41 001.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-26 09-09-41 002.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "prague-planetarium",
+   "why": "Skipped because the lead names no architect; Wikidata gives Jaroslav Fragner (well-known Czech modernist, nothing by him on the wall), and the lead dates the opening to 20 Nov 1960 (prep's 1950 is wrong). Clear outside daylight main photo of the domed rotunda. Moderate confidence: for Opus to confirm the architect.",
+   "entry": {
+    "id": "prague-planetarium",
+    "qid": "Q18198103",
+    "status": "photo",
+    "why": "Skipped because the lead names no architect; Wikidata gives Jaroslav Fragner (well-known Czech modernist, nothing by him on the wall), and the lead dates the opening to 20 Nov 1960 (prep's 1950 is wrong). Clear outside daylight main photo of the domed rotunda. Moderate confidence: for Opus to confirm the architect.",
+    "name": "Prague Planetarium",
+    "by": "Jaroslav Fragner",
+    "city": "Prague",
+    "cc": "CZ",
+    "year": 1960,
+    "type": "Culture & sport",
+    "movement": "Modernism",
+    "concepts": [
+     "Geometry",
+     "Sculptural form",
+     "Landscape"
+    ],
+    "features": "A planetarium opened in 1960 whose 23.5 m dome is one of the largest in the world.",
+    "commons_category": "Category:Planetarium in Prague",
+    "coords": [
+     50.10559,
+     14.42753
+    ],
+    "photos": [
+     {
+      "file": "File:Planetum, Praha (2025-08-07).jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "casa-serra",
+   "why": "Haiku left it unsure only for the 1987 office block behind the facade. The lead names Josep Puig i Cadafalch, Modernisme, built 1903-1908; the main Rambla de Catalunya view shows the whole Casa Serra, and the glass block is physically attached (the Diagonal wing was demolished), so no clean view exists. Puig is on the wall (CaixaForum). Accept the first photo as honest; for Opus if the block behind is too strong.",
+   "entry": {
+    "id": "casa-serra",
+    "qid": "Q3661167",
+    "status": "photo",
+    "why": "Haiku left it unsure only for the 1987 office block behind the facade. The lead names Josep Puig i Cadafalch, Modernisme, built 1903-1908; the main Rambla de Catalunya view shows the whole Casa Serra, and the glass block is physically attached (the Diagonal wing was demolished), so no clean view exists. Puig is on the wall (CaixaForum). Accept the first photo as honest; for Opus if the block behind is too strong.",
+    "name": "Casa Serra",
+    "by": "Josep Puig i Cadafalch",
+    "city": "Barcelona",
+    "cc": "ES",
+    "year": 1908,
+    "type": "House",
+    "movement": "Art Nouveau",
+    "concepts": [
+     "Detail",
+     "Facade as skin",
+     "Sculptural form"
+    ],
+    "features": "A Modernisme house by Josep Puig i Cadafalch, built 1903-1908 for Pere Serra, now the Provincial Deputation's seat.",
+    "commons_category": "Category:Casa Serra (Barcelona)",
+    "coords": [
+     41.39551,
+     2.15767
+    ],
+    "photos": [
+     {
+      "file": "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE (1).jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:423 Casa Serra, Rambla de Catalunya 126 (Barcelona).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE.jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "haus-wittmann",
+   "why": "Haiku was unsure only for lack of a reason in the lead. A built house by Johannes Spalt (a respected Austrian modern architect, nothing by him on the wall), 1970-1975 per the lead; first photo is a clear daylight view of the whole house.",
+   "entry": {
+    "id": "haus-wittmann",
+    "qid": "Q55077482",
+    "status": "photo",
+    "why": "Haiku was unsure only for lack of a reason in the lead. A built house by Johannes Spalt (a respected Austrian modern architect, nothing by him on the wall), 1970-1975 per the lead; first photo is a clear daylight view of the whole house.",
+    "name": "Haus Wittmann",
+    "by": "Johannes Spalt",
+    "city": "Grafenegg",
+    "cc": "AT",
+    "year": 1975,
+    "type": "House",
+    "movement": "Late modernism",
+    "concepts": [
+     "Landscape",
+     "Geometry",
+     "Detail"
+    ],
+    "features": "A single-family house in Grafenegg, built 1970-1975 by Johannes Spalt for the Wittmann furniture makers.",
+    "commons_category": "Category:Haus Wittmann, Etsdorf am Kamp",
+    "coords": [
+     48.44973,
+     15.74697
+    ],
+    "photos": [
+     {
+      "file": "File:Haus Wittmann Südwest.JPG",
+      "license": "CC BY-SA 3.0 de",
+      "seen": true
+     },
+     {
+      "file": "File:Haus Wittmann.JPG",
+      "license": "CC BY-SA 3.0 de",
+      "seen": true
+     },
+     {
+      "file": "File:Salettl Wittmann.JPG",
+      "license": "CC BY-SA 3.0 de",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 150-299: Haiku had 25 photo, 14 unsure, 111 skip. Photo entries: 23 keep_ok (10 fields fixed across 8 of them: 4 years, 1 architect credit, 3 concepts), 2 keep_wrong (herndon-home, edificio-condominiale-di-viale-roma), 4 main photos to swap. Unsure/skip: 5 rescued (biblioteca-comunale-ezio-vanoni, mercato-dei-fiori-vecchio, prague-planetarium, casa-serra, haus-wittmann); all others stay out (about 55 empty leads, many Wikipedia-sweep churches, schools, theatres, Vienna housing; unsure ones such as Freemasons' Hall, Postpalast, Foujita Chapel, Lycabettus Theatre, Noguchi Museum, Tampere Art Museum stay out). Total kept = 28; ordinary = 6 (21%), so drop the weakest (Laeiszhalle or Cunard) to get under 20%. No duplicates with the wall (no dup_flag; coordinate check only found different neighbouring buildings, except the Cottbus library already on the wall as ikmz-library-btu-cottbus)."
+}
