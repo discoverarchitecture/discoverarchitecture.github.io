@@ -446,6 +446,8 @@
     stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(drawing ? 'drawing' : im.caption)}">` +
       (drawing ? '<span class="nophoto">Photos unavailable</span>' : '');
     stage.classList.toggle('drawing', drawing);
+    stage.querySelector('img').addEventListener('load', placeOnPhoto); // also when the full photo replaces the thumbnail
+    requestAnimationFrame(placeOnPhoto); // a photo already in the browser's cache never fires load
     stage.insertAdjacentHTML('beforeend', `<button type="button" class="zoom" id="gZoom" aria-label="See the photo full screen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M10 20H4v-6M20 4l-6.5 6.5M4 20l6.5-6.5"/></svg></button>`);
     if (im.src) { // the wall's own copy has only the thumbnail; the full photo is known once the details have arrived
       const full = new Image();
@@ -803,6 +805,18 @@
     else if (swipeX != null && Math.abs(e.clientX - swipeX) < 8 && e.target.closest('img, .zoom')) openZoom(); // a tap on the photo, or the zoom button
     swipeX = null;
   });
+  // The arrows sit halfway up the photo's own left and right edges, and the zoom button at its bottom left,
+  // wherever the photo falls inside its dark frame (a wide photo leaves bands above and below).
+  function placeOnPhoto() {
+    const stage = $('stage'), img = stage.querySelector('img'), g = $('gallery');
+    if (!img || !img.naturalWidth || !stage.clientHeight) return;
+    const sw = stage.clientWidth, sh = stage.clientHeight, ar = img.naturalWidth / img.naturalHeight;
+    const w = Math.min(sw, sh * ar), h = w / ar, l = (sw - w) / 2, t = (sh - h) / 2;
+    g.style.setProperty('--ph-mid', `${stage.offsetTop + t + h / 2}px`);
+    g.style.setProperty('--ph-l', `${l}px`);
+    stage.style.setProperty('--ph-l', `${l}px`); stage.style.setProperty('--ph-b', `${t}px`);
+  }
+  window.addEventListener('resize', placeOnPhoto);
   // The photo full screen: tap the photo or the zoom button; arrows, a swipe or the keyboard move through the photos.
   function zoomFill() {
     const b = state.open, im = b && (b.images || [])[state.shot];
