@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-22T17:04:33+00:00",
+ "fetched_at": "2026-10-22T21:29:15+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1349,
+ "visits_30d": 1377,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 381,
+     "count": 386,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 65,
+     "count": 66,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -56,6 +56,14 @@
     },
     {
      "count": 7,
+     "path_id": 113976891,
+     "path": "play/endless/over",
+     "event": true,
+     "title": "Endless run over",
+     "max": 2
+    },
+    {
+     "count": 7,
      "path_id": 113671658,
      "path": "play/daily/3-of-5",
      "event": true,
@@ -69,14 +77,6 @@
      "event": true,
      "title": "Indian Coffee House",
      "max": 3
-    },
-    {
-     "count": 6,
-     "path_id": 113976891,
-     "path": "play/endless/over",
-     "event": true,
-     "title": "Endless run over",
-     "max": 2
     },
     {
      "count": 6,
@@ -272,11 +272,43 @@
     },
     {
      "count": 2,
+     "path_id": 114068372,
+     "path": "building/gewandhaus",
+     "event": true,
+     "title": "Gewandhaus",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114041610,
+     "path": "book/the-eyes-of-the-skin",
+     "event": true,
+     "title": "The Eyes of the Skin",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114027454,
+     "path": "/buildings/casa-de-ferro-maputo",
+     "event": false,
+     "title": "Casa de Ferro (Iron House) by Joseph Danly: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113996558,
      "path": "/buildings/wall-less-house",
      "event": false,
      "title": "Wall-less House by Shigeru Ban, 1997: photos & key features",
      "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113995400,
+     "path": "building/kanchanjunga-apartments",
+     "event": true,
+     "title": "Kanchanjunga Apartments",
+     "max": 1
     },
     {
      "count": 2,
@@ -568,6 +600,14 @@
     },
     {
      "count": 2,
+     "path_id": 113212614,
+     "path": "/buildings/world-forum-congress-building",
+     "event": false,
+     "title": "World Forum (Congress Building) \u2014 J. J. P. Oud, 1969: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112947619,
      "path": "/buildings/bank-of-georgia-headquarters",
      "event": false,
@@ -636,6 +676,14 @@
      "path": "/buildings/st-george-cathedral-addis-ababa",
      "event": false,
      "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 112528000,
+     "path": "/buildings/stadthaus-ulm",
+     "event": false,
+     "title": "Stadthaus Ulm \u2014 Richard Meier, 1993: photos for a case study",
      "max": 1
     },
     {
@@ -757,70 +805,22 @@
      "event": false,
      "title": "Meiso no Mori Municipal Funeral Hall \u2014 Toyo Ito, 2006: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112195539,
-     "path": "/buildings/sky-house",
-     "event": false,
-     "title": "Sky House \u2014 Kiyonori Kikutake, 1958: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112175031,
-     "path": "/buildings/netherlands-embassy-berlin",
-     "event": false,
-     "title": "Netherlands Embassy, Berlin \u2014 OMA, Rem Koolhaas, 2003: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112173076,
-     "path": "/buildings/university-of-ruhuna",
-     "event": false,
-     "title": "University of Ruhuna \u2014 Geoffrey Bawa, 1988: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112095271,
-     "path": "/buildings/sakaide-artificial-ground",
-     "event": false,
-     "title": "Sakaide Artificial Ground \u2014 Masato Otaka, 1968: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112066067,
-     "path": "/buildings/villa-tugendhat",
-     "event": false,
-     "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 114073684,
-     "path": "/buildings/aviva-stadium",
-     "event": false,
-     "title": "Aviva Stadium by Populous with Scott Tallon Walker: photos",
-     "max": 1
     }
    ],
-   "total": 799,
+   "total": 807,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 826,
+     "count": 838,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 233,
+     "count": 243,
      "ref_scheme": "g"
     },
     {
@@ -832,13 +832,13 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 13,
+     "count": 14,
      "ref_scheme": "c"
     },
     {
      "id": "reddit",
      "name": "reddit",
-     "count": 12,
+     "count": 13,
      "ref_scheme": "c"
     },
     {
@@ -915,12 +915,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 868
+     "count": 889
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 462
+     "count": 469
     },
     {
      "id": "Firefox",
@@ -935,27 +935,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 433
+     "count": 448
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 413
+     "count": 419
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 327
+     "count": 332
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 107
+     "count": 108
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 68
+     "count": 69
     },
     {
      "id": "Chrome OS",
@@ -970,17 +970,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 795
+     "count": 802
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 171
+     "count": 179
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 49
+     "count": 50
     },
     {
      "id": "GB",
@@ -1015,7 +1015,12 @@
     {
      "id": "ES",
      "name": "Spain",
-     "count": 15
+     "count": 16
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 12
     },
     {
      "id": "IT",
@@ -1026,11 +1031,6 @@
      "id": "TR",
      "name": "Turkey",
      "count": 11
-    },
-    {
-     "id": "FR",
-     "name": "France",
-     "count": 10
     },
     {
      "id": "PT",
@@ -1068,6 +1068,11 @@
      "count": 6
     },
     {
+     "id": "RO",
+     "name": "Romania",
+     "count": 6
+    },
+    {
      "id": "AT",
      "name": "Austria",
      "count": 5
@@ -1098,11 +1103,6 @@
      "count": 4
     },
     {
-     "id": "RO",
-     "name": "Romania",
-     "count": 4
-    },
-    {
      "id": "TW",
      "name": "Taiwan",
      "count": 4
@@ -1115,6 +1115,11 @@
     {
      "id": "KR",
      "name": "South Korea",
+     "count": 3
+    },
+    {
+     "id": "KZ",
+     "name": "Kazakhstan",
      "count": 3
     },
     {
@@ -1143,8 +1148,23 @@
      "count": 3
     },
     {
+     "id": "CL",
+     "name": "Chile",
+     "count": 2
+    },
+    {
+     "id": "HR",
+     "name": "Croatia",
+     "count": 2
+    },
+    {
      "id": "IE",
      "name": "Ireland",
+     "count": 2
+    },
+    {
+     "id": "IL",
+     "name": "Israel",
      "count": 2
     },
     {
@@ -1155,6 +1175,11 @@
     {
      "id": "MW",
      "name": "Malawi",
+     "count": 2
+    },
+    {
+     "id": "NO",
+     "name": "Norway",
      "count": 2
     },
     {
@@ -1175,11 +1200,6 @@
     {
      "id": "BN",
      "name": "Brunei",
-     "count": 1
-    },
-    {
-     "id": "CL",
-     "name": "Chile",
      "count": 1
     },
     {
@@ -1213,18 +1233,8 @@
      "count": 1
     },
     {
-     "id": "HR",
-     "name": "Croatia",
-     "count": 1
-    },
-    {
      "id": "HU",
      "name": "Hungary",
-     "count": 1
-    },
-    {
-     "id": "IL",
-     "name": "Israel",
      "count": 1
     },
     {
@@ -1255,11 +1265,6 @@
     {
      "id": "MY",
      "name": "Malaysia",
-     "count": 1
-    },
-    {
-     "id": "NO",
-     "name": "Norway",
      "count": 1
     },
     {
@@ -1305,7 +1310,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 729
+     "count": 740
     },
     {
      "id": "tablet",
@@ -1315,12 +1320,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 542
+     "count": 558
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 44
+     "count": 45
     },
     {
      "id": "unknown",
@@ -1335,7 +1340,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1349
+     "count": 1377
     }
    ],
    "more": false
