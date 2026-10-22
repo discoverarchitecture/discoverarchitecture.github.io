@@ -3,7 +3,10 @@
 (function () {
   var CODE = 'akshatpagaria';
   if (!CODE) return;
-  window.goatcounter = { endpoint: 'https://' + CODE + '.goatcounter.com/count' };
+  // The wall inside another page's popup (popup.js) is not a visit of its own; only the buildings opened there count.
+  var inside = false;
+  try { inside = window.parent !== window && /[?&]embed\b/.test(location.search); } catch (e) { /* a frame we can't see into */ }
+  window.goatcounter = { endpoint: 'https://' + CODE + '.goatcounter.com/count', no_onload: inside };
   var s = document.createElement('script');
   s.async = true;
   s.src = 'https://gc.zgo.at/count.js';

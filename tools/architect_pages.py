@@ -258,8 +258,10 @@ SCRIPT = """<script>
              n: function (a, b) { return a.dataset.n.localeCompare(b.dataset.n); },
              c: function (a, b) { return a.dataset.c.localeCompare(b.dataset.c) || a.dataset.y - b.dataset.y; } };
   function tall(t) { return parseFloat(t.dataset.r) + 0.06 + (t.classList.contains('sw') ? 0.08 : 0); }
+  function order() { return tiles.filter(function (t) { return !st.idea || t.dataset.i.split('|').indexOf(st.idea) > -1; }).sort(by[st.sort]); }
+  fgaPopup.list = function () { return order().map(function (t) { return t.dataset.id; }); };
   function deal() {
-    var list = tiles.filter(function (t) { return !st.idea || t.dataset.i.split('|').indexOf(st.idea) > -1; }).sort(by[st.sort]);
+    var list = order();
     var h = cols.map(function () { return 0; });
     cols.forEach(function (c) { while (c.firstChild) c.removeChild(c.firstChild); });
     list.forEach(function (t) { var k = h.indexOf(Math.min.apply(null, h)); cols[k].appendChild(t); h[k] += tall(t); });
@@ -346,13 +348,12 @@ SCRIPT = """<script>
   }
   tiles.forEach(function (t) {
     var open = t.querySelector('.open');
-    // A tap opens the building as a popup over the wall, like everywhere else; closing it returns here.
+    // A tap opens the building in the wall's popup over this page (popup.js); Previous and Next follow this page's list.
     open.addEventListener('click', function (e) {
       if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;
       e.preventDefault();
       if (swiped) return;
-      try { sessionStorage.setItem('da-from-arch', location.pathname); } catch (x) { /* fine without it */ }
-      location.href = '../../#' + t.dataset.id;
+      fgaPopup.open(t.dataset.id);
     });
     if (!t.dataset.th) return;
     [].forEach.call(t.querySelectorAll('.flip'), function (b) {
@@ -437,7 +438,7 @@ def page(bp, plans, key, ctx):
         f'<p><a href="{up}">Find Great Architecture</a> · <a href="{up}architects/">Architects</a> · <a href="{up}buildings/">All buildings</a></p>{bp.legal_foot(up)}</footer></section>\n'
         f'</main>\n'
         f'{bp.DOCK.format(up=up)}\n'
-        f'{SCRIPT}\n</body>\n</html>\n')
+        f'<script src="{up}popup.js?v={bp.CSS_V}"></script>\n{SCRIPT}\n</body>\n</html>\n')
     return head + body
 
 

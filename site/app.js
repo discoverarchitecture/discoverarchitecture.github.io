@@ -61,6 +61,15 @@
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 
+  /* Inside another page: an architect's page or a topic page opens its buildings in this popup, the wall itself in a
+     see-through frame (/?embed, made by popup.js), so only the opened building shows, over that page. Previous and
+     next follow that page's list; links lead the whole window on, and the wall's own state is left alone. */
+  const HOST = (() => { try { return window.parent !== window && /[?&]embed\b/.test(location.search) ? window.parent.fgaPopup || null : null; } catch (e) { return null; } })();
+  if (HOST) {
+    document.documentElement.classList.add('embed');
+    const base = document.createElement('base'); base.target = '_top'; document.head.appendChild(base);
+  }
+
   const state = {
     q: '', seed: 11, ncols: 0, mode: 'buildings', shelf: null,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
@@ -76,7 +85,7 @@
   const NAV = ((performance.getEntriesByType && performance.getEntriesByType('navigation')[0]) || {}).type;
   const RETURNING = NAV === 'back_forward';
   const kept = (where, key) => { try { return window[where].getItem(key); } catch (e) { return null; } };
-  const keep = (where, key, v) => { try { window[where].setItem(key, v); } catch (e) { /* ignore */ } };
+  const keep = (where, key, v) => { if (HOST) return; try { window[where].setItem(key, v); } catch (e) { /* ignore */ } };
   const newSeed = () => { state.seed = Math.floor(Math.random() * 1e6) + 1; keep('sessionStorage', 'da-seed', state.seed); };
   if (RETURNING && +kept('sessionStorage', 'da-seed')) state.seed = +kept('sessionStorage', 'da-seed'); else newSeed();
   let lastTop = new Set();
@@ -486,6 +495,12 @@
      building, whether it was a surprise, how many steps came before it in this run (step) and the one before (prev). */
   const here = () => (history.state && history.state.da ? history.state : null);
   function remember(key, surprise, wasOpen) {
+    if (HOST) { // the page behind keeps the address; the visit is counted here, as the wall's own opened buildings are
+      const b = ALL.find(x => x.id === key);
+      HOST.at(key);
+      if (b && window.fgaEvent) fgaEvent('building/' + key, b.name);
+      return;
+    }
     const cur = wasOpen ? here() : null;
     const made = !here() && location.hash === '#' + key; // the browser already made this entry (the address was typed or linked)
     const entry = cur ? { da: true, id: key, surprise: !!surprise, step: cur.step + 1, prev: cur.id, pushed: cur.pushed }
@@ -759,16 +774,15 @@
   }
   // Closing (×, Escape, Home…) also rewinds the steps this run added, so the phone's back gesture afterwards leaves the wall
   // rather than reopening buildings.
-  // Opened from an architect's page (it sets this before sending the reader here): closing the popup goes back to that page.
-  let fromArch = false;
-  try { fromArch = !!sessionStorage.getItem('da-from-arch') && !!location.hash; sessionStorage.removeItem('da-from-arch'); } catch (e) { /* no storage */ }
   function closeBuilding() {
+    const was = state.open;
     hideSheet();
+    if (HOST) { HOST.closed(was && was.id); return; }
     const h = here(), n = h ? h.step + (h.pushed ? 1 : 0) : 0;
-    if (fromArch && h) { fromArch = false; history.go(-(n + 1)); return; }
     if (n) { state.unwinding = true; history.go(-n); } else dropHash();
   }
   window.addEventListener('popstate', e => {
+    if (HOST) return;
     if (state.unwinding) { state.unwinding = false; if (location.hash) dropHash(); return; }
     const h = e.state && e.state.da ? e.state : null;
     if (h) openAny(h.id, h.surprise, true);
@@ -907,12 +921,18 @@
   $('relBooksRow').addEventListener('scroll', updateBookArrows, { passive: true });
   ['byArchRel', 'sameTypeRel', 'relBooksRow'].forEach(id => $(id).addEventListener('click', e => {
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
-    if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
+    if (t.dataset.book) { if (HOST) goPage('./#book:' + t.dataset.book); else openBook(t.dataset.book); } else openBuilding(t.dataset.id);
   }));
   // Our own pages (an architect's page, a building's full page, a topic) open in a new tab on a computer, so the wall stays
   // just as it was; on a phone they open in place and Back returns to the same spot (owner, 22 Oct 2026).
   const BIG = matchMedia('(hover: hover) and (pointer: fine)');
-  const goPage = url => { if (BIG.matches) window.open(url, '_blank', 'noopener'); else location.href = url; };
+  const goPage = url => {
+    url = new URL(url, location.href).href;
+    if (HOST && new URL(url).pathname === top.location.pathname && !new URL(url).hash) return closeBuilding(); // the page already behind
+    if (BIG.matches) window.open(url, '_blank', 'noopener'); else (HOST ? top : window).location.href = url;
+  };
+  // In a popup over another page, a choice that changes the wall (a filter, a shelf) opens the wall with it: #f=type:Museum.
+  const wallWith = (g, v) => goPage('./#f=' + encodeURIComponent(g + ':' + v));
   document.addEventListener('click', e => {
     const a = e.target.closest && e.target.closest('a[href]');
     if (!a || !BIG.matches || a.target || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
@@ -928,6 +948,7 @@
     // An architect with a page of their own (data/arch_pages.js, tools/architect_pages.py) is shown there, not as a filter.
     const page = arch && !type && window.ARCH_PAGES ? window.ARCH_PAGES[NAMES.canon(arch)] : '';
     if (page) { goPage('architects/' + page + '/'); return; }
+    if (HOST) return wallWith(type ? 'type' : 'arch', type || arch);
     setMode('buildings', true);
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null;
     if (type) state.filters.type.add(type);
@@ -940,6 +961,7 @@
   }
   // The books wall, searched for a word or narrowed to one shelf.
   function showBooks(text, shelf) {
+    if (HOST) return goPage('./' + (shelf ? '#f=' + encodeURIComponent('shelf:' + shelf) : '?q=' + encodeURIComponent(text || '') + '#books'));
     setMode('books', true);
     state.shelf = shelf || null;
     $('q').value = text || ''; state.q = fold(text || '');
@@ -988,11 +1010,20 @@
     const t = e.target.closest('.chip'); if (!t) return;
     if (t.dataset.shelf) return showBooks('', t.dataset.shelf);
     if (t.dataset.tag) return showBooks(t.dataset.tag);
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null;
-    state.filters[t.dataset.g].add(t.dataset.v);
+    if (HOST) return wallWith(t.dataset.g, t.dataset.v);
+    filterBy(t.dataset.g, t.dataset.v);
+  });
+  // The wall narrowed to one choice in one filter (a chip in the opened building, or #f=group:value from a popup elsewhere).
+  function filterBy(g, v) {
+    if (g === 'shelf') return showBooks('', v);
+    if (g === 'arch') return showOnWall(v);
+    if (!state.filters[g]) return;
+    setMode('buildings', true);
+    GROUPS.forEach(x => state.filters[x.key].clear()); state.decades = null; state.where = null;
+    state.filters[g].add(v);
     state.q = ''; $('q').value = '';
     closeBuilding(); refreshFilters(); render(true);
-  });
+  }
 
   /* ---------- Books: the front table (design v18 · 05 and 06) ---------- */
   // The Books home: five featured books a day, each with a line in its own words (data/book_lines.js), then six
@@ -1234,6 +1265,19 @@
     sent.delete('q');
     try { history.replaceState(history.state, '', location.pathname + (sent.toString() ? '?' + sent : '') + location.hash); } catch (e) { /* ignore */ }
   }
+  if (HOST) { // over another page: no wall to deal, only the popup, opened when that page asks
+    const byId = new Map(ALL.map(b => [b.id, b]));
+    HOST.ready({
+      open(id, ids) {
+        document.documentElement.toggleAttribute('data-night', !!(parent.DA_THEME && parent.DA_THEME.night())); // as the page behind
+        state.stepList = (ids || []).map(x => byId.get(x)).filter(Boolean);
+        openBuilding(id);
+      },
+      hide() { if (!sheet.hidden) hideSheet(); }
+    });
+    state.booting = false;
+    return;
+  }
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position
     const y = +kept('sessionStorage', 'da-y') || 0;
@@ -1270,6 +1314,7 @@
     else if (id === 'map') { dropHash(); whenReady(() => { const m = $('mapBtn'); if (m) m.click(); }); } // Map in another page's dock
     else if (id.startsWith('map=') && id.includes(':')) { dropHash(); whenReady(() => mapHub(id.slice(4))); } // "On the globe" on a hub page: #map=style:brutalism
     else if (id.startsWith('map=')) { dropHash(); whenReady(() => { DA.mapTo = id.slice(4); const m = $('mapBtn'); if (m) m.click(); }); } // "On the globe" on a building page
+    else if (id.startsWith('f=') && id.includes(':')) { dropHash(); whenReady(() => filterBy(id.slice(2, id.indexOf(':')), id.slice(id.indexOf(':') + 1))); } // a choice made in a popup over another page
     else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
     else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
   };

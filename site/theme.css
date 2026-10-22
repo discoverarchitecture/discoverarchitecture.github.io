@@ -39,6 +39,7 @@
   /* the AI jury presentation generator button: a slowly turning rainbow rim and a sweep of light (v29 · 01 A) */
   --ai-1: #DA3A26; --ai-2: #F59E0B; --ai-3: #EC4899; --ai-4: #8B5CF6; --ai-5: #3B82F6; --ai-6: #14B8A6;
   --ai-sheen: rgba(255,255,255,.85); --ai-glow: rgba(139,92,246,.22); --ai-veil: rgba(17,17,16,.32);
+  --veil: rgba(14,14,13,.5); /* behind an opened building */
   color-scheme: light;
 }
 :root[data-night] {
@@ -75,6 +76,7 @@
   --feat: #1E1E1C;
   --ai-1: #F0563F; --ai-2: #FBBF24; --ai-3: #F472B6; --ai-4: #A78BFA; --ai-5: #60A5FA; --ai-6: #2DD4BF;
   --ai-sheen: rgba(255,255,255,.18); --ai-glow: rgba(167,139,250,.28); --ai-veil: rgba(0,0,0,.5);
+  --veil: rgba(0,0,0,.55);
   color-scheme: dark;
 }
 

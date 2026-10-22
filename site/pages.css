@@ -255,3 +255,14 @@ img { max-width: 100%; display: block; }
 .rowarr[hidden] { display: none; }
 .rowarr svg { width: 18px; height: 18px; fill: none; stroke: var(--ink); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
 @media (hover: hover) { .rowarr:hover { border-color: var(--red); } .rowarr:hover svg { stroke: var(--red); } }
+
+/* A building opened on an architect's or topic page: the wall's own popup in a see-through frame over the page (popup.js).
+   Until the frame is ready the page dims with a small turning ring. */
+.fga-pop { position: fixed; inset: 0; width: 100%; height: 100%; border: 0; z-index: 300; background: transparent; visibility: hidden; pointer-events: none; }
+html.fga-pop-on, html.fga-pop-on body { overflow: hidden; }
+html.fga-pop-live .fga-pop { visibility: visible; pointer-events: auto; }
+html.fga-pop-on:not(.fga-pop-live) body::after { content: ''; position: fixed; inset: 0; z-index: 300; cursor: progress;
+  background: var(--veil); }
+html.fga-pop-on:not(.fga-pop-live) body::before { content: ''; position: fixed; left: 50%; top: 50%; width: 28px; height: 28px; margin: -16px 0 0 -16px; z-index: 301;
+  border: 2px solid var(--red-pale); border-top-color: var(--red); border-radius: 50%; animation: fga-pop-turn .8s linear infinite; }
+@keyframes fga-pop-turn { to { transform: rotate(360deg); } }

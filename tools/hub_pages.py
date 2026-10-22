@@ -208,6 +208,7 @@ SCRIPT = """<script>
     if (count) count.textContent = list.length;
   }
   var INIT = STEP;
+  fgaPopup.list = function () { return list.map(function (d) { return d.id; }); };
   function draw(upto) { while (placed < list.length && placed < upto) put(list[placed++]); st.shown = placed; more.hidden = placed >= list.length; }
   // The page arrives with the best tiles already written in four columns; on a phone they are dealt again into two.
   if (n === 4) {
@@ -288,7 +289,8 @@ SCRIPT = """<script>
     else springBack(d.t);
   }
   function nextSrc(t, dir) { var th = t.hubd.th, m = th.length; return src(th[((+t.dataset.k || 0) + dir + m) % m]); }
-  // Delegated, so tiles drawn later work too. A tap opens the building as a popup over the wall; closing it returns here.
+  // Delegated, so tiles drawn later work too. A tap opens the building in the wall's popup over this page (popup.js);
+  // Previous and Next follow this page's list, in its order, the tiles not drawn yet included.
   wrap.addEventListener('click', function (e) {
     var f = e.target.closest('.flip'), t = e.target.closest('.t');
     if (f && t) { e.stopPropagation(); var dir = f.classList.contains('next') ? 1 : -1; glide(t, dir, 0, nextSrc(t, dir), function () { flip(t, dir); }); return; }
@@ -296,8 +298,7 @@ SCRIPT = """<script>
     if (!o || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;
     e.preventDefault();
     if (swiped) return;
-    try { sessionStorage.setItem('da-from-arch', location.pathname); } catch (x) { /* fine without it */ }
-    location.href = '../../#' + t.dataset.id;
+    fgaPopup.open(t.dataset.id);
   });
   wrap.addEventListener('pointerdown', function (e) { var t = e.target.closest('.t'); if (t && t.hubd && t.hubd.th.length > 1) dragStart(t, e); });
   wrap.addEventListener('pointermove', function (e) { dragMove(e, nextSrc); });
@@ -402,7 +403,7 @@ def page(bp, hubs, h, ctx):
         f'</main>\n'
         f'<script type="application/json" id="hubdata">{data_json}</script>\n'
         f'{bp.DOCK.format(up=up)}\n'
-        f'{SCRIPT}\n</body>\n</html>\n')
+        f'<script src="{up}popup.js?v={bp.CSS_V}"></script>\n{SCRIPT}\n</body>\n</html>\n')
     return head + body
 
 
