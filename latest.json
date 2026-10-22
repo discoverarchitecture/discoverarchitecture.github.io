@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-22T11:42:24+00:00",
+ "fetched_at": "2026-10-22T17:04:33+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1288,
+ "visits_30d": 1349,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 368,
+     "count": 381,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 67,
+     "count": 71,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 62,
+     "count": 65,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -55,12 +55,28 @@
      "max": 2
     },
     {
+     "count": 7,
+     "path_id": 113671658,
+     "path": "play/daily/3-of-5",
+     "event": true,
+     "title": "Daily five finished: 3 of 5 right",
+     "max": 2
+    },
+    {
      "count": 6,
      "path_id": 113987976,
      "path": "building/indian-coffee-house",
      "event": true,
      "title": "Indian Coffee House",
      "max": 3
+    },
+    {
+     "count": 6,
+     "path_id": 113976891,
+     "path": "play/endless/over",
+     "event": true,
+     "title": "Endless run over",
+     "max": 2
     },
     {
      "count": 6,
@@ -72,27 +88,11 @@
     },
     {
      "count": 6,
-     "path_id": 113671658,
-     "path": "play/daily/3-of-5",
-     "event": true,
-     "title": "Daily five finished: 3 of 5 right",
-     "max": 2
-    },
-    {
-     "count": 6,
      "path_id": 112522110,
      "path": "/architects",
      "event": false,
      "title": "Architects A\u2013Z \u00b7 Find Great Architecture",
      "max": 6
-    },
-    {
-     "count": 5,
-     "path_id": 113976891,
-     "path": "play/endless/over",
-     "event": true,
-     "title": "Endless run over",
-     "max": 2
     },
     {
      "count": 5,
@@ -117,6 +117,14 @@
      "event": true,
      "title": "Mill Owners' Association Building",
      "max": 2
+    },
+    {
+     "count": 4,
+     "path_id": 113925666,
+     "path": "/buildings/palazzetto-dello-sport",
+     "event": false,
+     "title": "Palazzetto dello Sport by Pier Luigi Nervi: photos",
+     "max": 1
     },
     {
      "count": 4,
@@ -168,6 +176,14 @@
     },
     {
      "count": 3,
+     "path_id": 113975805,
+     "path": "building/perth-arena",
+     "event": true,
+     "title": "Perth Arena",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113971187,
      "path": "building/golconde",
      "event": true,
@@ -176,11 +192,11 @@
     },
     {
      "count": 3,
-     "path_id": 113925666,
-     "path": "/buildings/palazzetto-dello-sport",
+     "path_id": 113852201,
+     "path": "/buildings/custom-house-dublin",
      "event": false,
-     "title": "Palazzetto dello Sport by Pier Luigi Nervi: photos",
-     "max": 1
+     "title": "The Custom House by James Gandon: photos & key features",
+     "max": 2
     },
     {
      "count": 3,
@@ -189,6 +205,14 @@
      "event": true,
      "title": "Daily five finished: 4 of 5 right",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113685200,
+     "path": "play/daily/0-of-5",
+     "event": true,
+     "title": "Daily five finished: 0 of 5 right",
+     "max": 1
     },
     {
      "count": 3,
@@ -205,6 +229,14 @@
      "event": true,
      "title": "CEPT University",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113009392,
+     "path": "/buildings/mediopadana-station",
+     "event": false,
+     "title": "Reggio Emilia AV Mediopadana station, 2013: photos",
+     "max": 1
     },
     {
      "count": 3,
@@ -264,10 +296,34 @@
     },
     {
      "count": 2,
+     "path_id": 113992898,
+     "path": "building/seville-public-library",
+     "event": true,
+     "title": "Seville Public Library",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113989971,
      "path": "building/james-simon-gallery",
      "event": true,
      "title": "James Simon Gallery",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113989681,
+     "path": "building/parliament-of-sri-lanka",
+     "event": true,
+     "title": "Parliament of Sri Lanka",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113989013,
+     "path": "building/philippine-international-convention-center",
+     "event": true,
+     "title": "Philippine International Convention Center",
      "max": 1
     },
     {
@@ -285,14 +341,6 @@
      "event": true,
      "title": "Toronto-Dominion Centre",
      "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 113975805,
-     "path": "building/perth-arena",
-     "event": true,
-     "title": "Perth Arena",
-     "max": 1
     },
     {
      "count": 2,
@@ -448,14 +496,6 @@
     },
     {
      "count": 2,
-     "path_id": 113685200,
-     "path": "play/daily/0-of-5",
-     "event": true,
-     "title": "Daily five finished: 0 of 5 right",
-     "max": 1
-    },
-    {
-     "count": 2,
      "path_id": 113685151,
      "path": "/buildings/inter-university-seminar-house",
      "event": false,
@@ -524,14 +564,6 @@
      "path": "/buildings/national-museum-of-the-republic",
      "event": false,
      "title": "National Museum of the Republic by Oscar Niemeyer: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113009392,
-     "path": "/buildings/mediopadana-station",
-     "event": false,
-     "title": "Reggio Emilia AV Mediopadana station, 2013: photos",
      "max": 1
     },
     {
@@ -768,59 +800,27 @@
     },
     {
      "count": 1,
-     "path_id": 114033070,
-     "path": "building/robie-house",
-     "event": true,
-     "title": "Robie House",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 114031302,
-     "path": "building/zwinger-dresden",
-     "event": true,
-     "title": "Zwinger",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 114031073,
-     "path": "book/building-construction-illustrated",
-     "event": true,
-     "title": "Building Construction Illustrated",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 114030825,
-     "path": "building/sea-ranch-condominium-one",
-     "event": true,
-     "title": "Sea Ranch Condominium One",
-     "max": 1
-    },
-    {
-     "count": 1,
-     "path_id": 114030810,
-     "path": "building/dialogue-centre-przelomy",
-     "event": true,
-     "title": "Dialogue Centre Prze\u0142omy",
+     "path_id": 114073684,
+     "path": "/buildings/aviva-stadium",
+     "event": false,
+     "title": "Aviva Stadium by Populous with Scott Tallon Walker: photos",
      "max": 1
     }
    ],
-   "total": 768,
+   "total": 799,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 790,
+     "count": 826,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 225,
+     "count": 233,
      "ref_scheme": "g"
     },
     {
@@ -830,15 +830,15 @@
      "ref_scheme": "c"
     },
     {
-     "id": "reddit",
-     "name": "reddit",
-     "count": 12,
+     "id": "chatgpt.com",
+     "name": "chatgpt.com",
+     "count": 13,
      "ref_scheme": "c"
     },
     {
-     "id": "chatgpt.com",
-     "name": "chatgpt.com",
-     "count": 10,
+     "id": "reddit",
+     "name": "reddit",
+     "count": 12,
      "ref_scheme": "c"
     },
     {
@@ -915,12 +915,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 834
+     "count": 868
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 435
+     "count": 462
     },
     {
      "id": "Firefox",
@@ -935,27 +935,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 421
+     "count": 433
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 389
+     "count": 413
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 318
+     "count": 327
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 93
+     "count": 107
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 66
+     "count": 68
     },
     {
      "id": "Chrome OS",
@@ -970,17 +970,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 772
+     "count": 795
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 157
+     "count": 171
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 41
+     "count": 49
     },
     {
      "id": "GB",
@@ -1000,6 +1000,11 @@
     {
      "id": "CA",
      "name": "Canada",
+     "count": 18
+    },
+    {
+     "id": "NL",
+     "name": "Netherlands",
      "count": 18
     },
     {
@@ -1053,11 +1058,6 @@
      "count": 7
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
-     "count": 7
-    },
-    {
      "id": "PK",
      "name": "Pakistan",
      "count": 7
@@ -1070,7 +1070,7 @@
     {
      "id": "AT",
      "name": "Austria",
-     "count": 4
+     "count": 5
     },
     {
      "id": "BR",
@@ -1113,6 +1113,11 @@
      "count": 3
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 3
+    },
+    {
      "id": "PE",
      "name": "Peru",
      "count": 3
@@ -1138,13 +1143,13 @@
      "count": 3
     },
     {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
+     "id": "IE",
+     "name": "Ireland",
      "count": 2
     },
     {
-     "id": "KR",
-     "name": "South Korea",
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
      "count": 2
     },
     {
@@ -1188,6 +1193,16 @@
      "count": 1
     },
     {
+     "id": "DZ",
+     "name": "Algeria",
+     "count": 1
+    },
+    {
+     "id": "EC",
+     "name": "Ecuador",
+     "count": 1
+    },
+    {
      "id": "ET",
      "name": "Ethiopia",
      "count": 1
@@ -1205,11 +1220,6 @@
     {
      "id": "HU",
      "name": "Hungary",
-     "count": 1
-    },
-    {
-     "id": "IE",
-     "name": "Ireland",
      "count": 1
     },
     {
@@ -1295,22 +1305,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 696
+     "count": 729
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 32
+     "count": 34
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 518
+     "count": 542
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 42
+     "count": 44
     },
     {
      "id": "unknown",
@@ -1325,7 +1335,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1288
+     "count": 1349
     }
    ],
    "more": false
