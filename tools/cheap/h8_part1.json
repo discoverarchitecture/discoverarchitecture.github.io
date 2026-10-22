@@ -509,10 +509,35 @@
   ]
  },
  {
-  "id": "gewerbehaus",
+  "id": "hamburger-gewerbehaus",
   "qid": "Q79776587",
-  "status": "skip",
-  "why": "Chamber of trades office building; the lead gives no design reason, and the lead dates the seat from 1915 while prep gives 1910."
+  "status": "unsure",
+  "why": "Schumacher is on the wall (two buildings) and the lead is short; it gives no design reason and dates the seat from 1915, so the year is unclear (prep says 1910).",
+  "name": "Hamburger Gewerbehaus",
+  "by": "Fritz Schumacher",
+  "city": "Hamburg",
+  "cc": "DE",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Brick",
+   "Detail"
+  ],
+  "features": "Hamburg's trades chamber building on Holstenwall, the seat of the Gewerbekammer since 1915.",
+  "commons_category": "Category:Handwerkskammer Hamburg (building)",
+  "coords": [
+   53.55314,
+   9.97694
+  ],
+  "photos": [
+   {
+    "file": "File:Hh-handwerkskammer.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  },
  {
   "id": "landhaus-gugenheim",
