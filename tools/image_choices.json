@@ -31943,20 +31943,32 @@
    "File:Tammisaari, Finland (54275776988).jpg",
    "File:Villa Skeppets västra fasad.jpg",
    "File:Tammisaari, Finland (54274647477).jpg"
+  ],
+  "skip": [
+   "File:Villa Skeppets västra fasad.jpg",
+   "File:Christine Schildt på gården intill dammen 1972 SLSA 1150 foto 488.jpg",
+   "File:Göran Schildt på gården till Villa SLSA 1150 foto 481.jpg"
   ]
  },
  "duey-and-julia-wright-house": {
   "category": "Category:Duey and Julia Wright House",
   "add": [
-   "File:Duey Wright House - 51333407052.jpg",
-   "File:Duey and Julia Wright House.jpg"
+   "File:Duey and Julia Wright House.jpg",
+   "File:Duey Wright House - 51333407052.jpg"
+  ],
+  "skip": [
+   "File:Duey Wright House - 51335140070.jpg"
   ]
  },
  "e-clarke-and-julia-arnold-house": {
   "category": "Category:E. Clarke and Julia Arnold House",
   "add": [
+   "File:E. Clarke ^ Julia Arnold House - panoramio.jpg",
    "File:EClarkeJuliaArnoldHouseColumbusWisconsin.jpg",
    "File:Clarke Arnold House - 51334861394.jpg",
+   "File:Clarke Arnold House - 51335137465.jpg"
+  ],
+  "skip": [
    "File:Clarke Arnold House - 51335137465.jpg"
   ]
  },
@@ -31977,6 +31989,11 @@
   "add": [
    "File:Ev.-Luth. Kirche, Wittgensdorfer Straße 82. Bild 2.JPG",
    "File:Chemnitz-Borna-Gnadenkirche.jpg"
+  ],
+  "skip": [
+   "File:Spieltisch-Orgel-Chemnitz-Borna-240421.jpg",
+   "File:Orgel-Chemnitz-Borna-240421.jpg",
+   "File:Ev.-Luth. Kirche, Wittgensdorfer Straße 82. Bild 3.JPG"
   ]
  },
  "luthernotkirche": {
@@ -31997,6 +32014,10 @@
   "add": [
    "File:Gregorius de Grote Brunssum 2009 8835.jpg",
    "File:Brunssum-Gregorius de Grotekerk (3).JPG"
+  ],
+  "skip": [
+   "File:Gregorius de Grote Brunssum 2009 8847.jpg",
+   "File:Gregorius de Grote Brunssum 2009 8847 (cropped).jpg"
   ]
  },
  "kunstgebaude-stuttgart": {
@@ -32004,6 +32025,10 @@
   "add": [
    "File:Stuttgart - Mitte - Kunstgebäude von ONO über den Eckensee.jpg",
    "File:Kunstgebäude Stuttgart 01.jpg"
+  ],
+  "skip": [
+   "File:20240519 Diana of Gabii Ludwig von Hofer.jpg",
+   "File:Hauptbahnhof, Stuttgart, Germany - panoramio.jpg"
   ]
  },
  "suchardova-vila": {
@@ -32024,6 +32049,9 @@
   "add": [
    "File:Palace Theater, Marion.jpg",
    "File:Princess Theatre 2.jpg"
+  ],
+  "skip": [
+   "File:Princess Theatre 2.jpg"
   ]
  },
  "kratochvilova-vila": {
@@ -32031,6 +32059,9 @@
   "add": [
    "File:Villa Kratochvil 3.jpg",
    "File:Černošice - areál Kratochvílovy vily (Karlštejnská 282 a 283) (3).JPG"
+  ],
+  "skip": [
+   "File:Černošice - areál Kratochvílovy vily (Karlštejnská 282 a 283) (1).JPG"
   ]
  },
  "mozarteum": {
@@ -32038,6 +32069,12 @@
   "add": [
    "File:Mozarteum2022.jpg",
    "File:Měšťanský dům Mozarteum, Praha - Nové Město 5296.JPG"
+  ],
+  "skip": [
+   "File:Veřejné hodiny Clock Gallery na Mozarteu v Praze.jpg",
+   "File:Akademie Mozarteum Patrik Pařízek a Hana Kasalová.jpg",
+   "File:Prim watches at Clock Gallery.jpg",
+   "File:Praha Nove Mesto Jungmannova 30 socha 1.jpg"
   ]
  },
  "alte-heide": {
@@ -32054,6 +32091,9 @@
    "File:Baba Janák 01.jpg",
    "File:Baba Janák 02.jpg",
    "File:Baba Janák 03.jpg"
+  ],
+  "skip": [
+   "File:Stadium Juliska z Baby.jpg"
   ]
  },
  "st-maria-konigin": {
@@ -32062,6 +32102,9 @@
    "File:Düsseldorf-Lichtenbroich, 2019-06-18 (28).jpg",
    "File:Sankt Maria Königin (Düsseldorf).jpg",
    "File:Düsseldorf-Lichtenbroich, 2019-06-18 (24).jpg"
+  ],
+  "skip": [
+   "File:St. Maria Königin an Christi Himmelfahrt 2016 in Düsseldorf 2.jpg"
   ]
  },
  "st-johannes-der-taufer": {
@@ -32069,6 +32112,10 @@
   "add": [
    "File:Köln-Lindenthal Joseph-Stelzmann Straße 20.jpg",
    "File:2021-08-07-St.-Johannes-Täufer-(Cölögne-Lindenthal)-photo-11.jpg"
+  ],
+  "skip": [
+   "File:Köln-Lindenthal, Klinikkirche St. Johannes der Täufer (Außenansicht) (5).jpg",
+   "File:2021-08-07-St.-Johannes-Täufer-(Cölögne-Lindenthal)-photo-02.jpg"
   ]
  },
  "collegiate-church-of-st-martin": {
@@ -32089,6 +32136,10 @@
   "add": [
    "File:St Ansgar Hansaplatz.jpg",
    "File:St.-Ansgar-Kirche Fensterseite.jpg"
+  ],
+  "skip": [
+   "File:St.-Ansgar-Kirche Pietà.JPG",
+   "File:Kirche St. Ansgar, Berlin, Hansaviertel.jpg"
   ]
  },
  "teatro-fleta": {
@@ -32111,6 +32162,9 @@
   "add": [
    "File:WLM14ES - Santuari de la Mare de Déu Montserrat, Montferri, Alt Camp - MARIA ROSA FERRE.jpg",
    "File:Massís de Bonastre - 5.jpg"
+  ],
+  "skip": [
+   "File:019 Santuari de la Mare de Déu de Montserrat (Montferri), interior.jpg"
   ]
  },
  "la-jolla-recreational-center": {
@@ -32125,18 +32179,27 @@
   "add": [
    "File:Pfullinger Hallen-4.jpg",
    "File:Pfullinger Hallen-1.jpg"
+  ],
+  "skip": [
+   "File:Pfullinger hallen stiftungsplakette.jpg"
   ]
  },
  "akiyoshidai-international-art-village": {
   "category": "Category:Akiyoshidai International Art Village",
   "add": [
    "File:Akiyoshidai International Art Village.jpg"
+  ],
+  "skip": [
+   "File:秋吉台国際芸術村.jpg"
   ]
  },
  "shanghai-symphony-hall": {
   "category": "Category:Shanghai Symphony Hall",
   "add": [
    "File:Shanghai Symphony Hall (20191021080658).jpg"
+  ],
+  "skip": [
+   "File:TVMs at Shanghai Symphony Hall (20170908184452).jpg"
   ]
  },
  "yorkville-library": {
@@ -32144,6 +32207,9 @@
   "add": [
    "File:NYPL Yorkville branch.jpg",
    "File:NYPL Yorkville Branch, Manhattan.jpg"
+  ],
+  "skip": [
+   "File:New York Public Library, Yorkville Branch 2012-09-12 16-30-52.jpg"
   ]
  },
  "hood-museum-of-art": {
@@ -32151,6 +32217,12 @@
   "add": [
    "File:Hood Museum of Art - Dartmouth College - DSC04673.JPG",
    "File:FINAL Hood Museum Facade April 2019 Photo by Alison Palizzolo 300ppi.jpg"
+  ],
+  "skip": [
+   "File:Campana relief with Nilotic scene (Dartmouth, Hood Mus S.977.201) 03.jpg",
+   "File:Campana relief with Nilotic scene (Dartmouth, Hood Mus S.977.201) 02.jpg",
+   "File:Mourning Picture for Bezaleel Woodward, by Annette Woodward (Dartmouth, Hood Mus T.933.13) detail.jpg",
+   "File:Carved door, probably by Sakiwa, Nupe peoples, Nigeria, c. 1920-1940, wood, iron staples - Hood Museum of Art - DSC09183.JPG"
   ]
  },
  "meistersingerhalle": {
@@ -32158,6 +32230,10 @@
   "add": [
    "File:D-5-64-000-2517 Meistersingerhalle Nürnberg 20241218 0005.jpg",
    "File:D-5-64-000-2517 Meistersingerhalle Nürnberg 20241218 0006.jpg"
+  ],
+  "skip": [
+   "File:Konzert Brahms-Schanderl, Meistersingerhalle.jpg",
+   "File:Oldienacht-Chris Andrews-9355.jpg"
   ]
  },
  "reuchlinhaus": {
@@ -32165,6 +32241,11 @@
   "add": [
    "File:Reuchlinhaus.JPG",
    "File:Reuchlinhaus Hof.jpg"
+  ],
+  "skip": [
+   "File:Schmuckmuseum Pforzheim Gebäude 02.jpg",
+   "File:„Torso der Sinnenden“ von Wilhelm Lehmbruck.jpg",
+   "File:Lehmbruck Torso der Sinnenden.jpg"
   ]
  },
  "esglesia-del-sagrat-cor-de-vistabella": {
@@ -32183,14 +32264,21 @@
  "blue-pavilion": {
   "category": "Category:Padiglione Blu",
   "add": [
+   "File:Padiglione B, Genoa, view.jpg",
    "File:Blue Pavilion, Fiera del Mare 1 - Genoa, Italy.jpg",
    "File:Fiera di Genova air.jpg"
+  ],
+  "skip": [
+   "File:Padiglione B, Genoa, aerial photo.jpg"
   ]
  },
  "shikoku-mura-gallery": {
   "category": "Category:Shikokumura Gallery",
   "add": [
    "File:Shikokumura gallery01s3200.jpg"
+  ],
+  "skip": [
+   "File:Shikokumura02s3200.jpg"
   ]
  },
  "palazzo-del-nuoto": {
@@ -32211,6 +32299,9 @@
   "add": [
    "File:Gaston 1.jpg",
    "File:Het postgebouw, G. Eysselinck - 354392 - onroerenderfgoed.jpg"
+  ],
+  "skip": [
+   "File:Jozef Cantré De Communicatiemedia, of Eenheid van de wereld door de Telefonie, Telegrafie en Postverkeer Oostende 2-06-2023.jpg"
   ]
  },
  "our-lady-of-good-counsel-church-glasgow": {
@@ -32224,6 +32315,9 @@
   "add": [
    "File:Matzleinsdorfer Hochhaus von Norden 1.JPG",
    "File:Matzleinsdorfer Hochhaus von Süden.jpg"
+  ],
+  "skip": [
+   "File:Gedenktafel Erwin Lanc, Matzleinsdorfer Hochhaus, Vienna, 2026-05-20.jpg"
   ]
  },
  "kirche-st-antonius": {
@@ -32238,6 +32332,9 @@
   "add": [
    "File:AnatomischeAnstaltMuenchen.jpg",
    "File:Anatomie der LMU 9131.jpg"
+  ],
+  "skip": [
+   "File:Anatomische Anstalt (13089231254).jpg"
   ]
  },
  "villa-carl-feldafing": {
@@ -32264,6 +32361,10 @@
   "category": "Category:Fritz-Schumacher-Schule",
   "add": [
    "File:Fritz-Schumacher-Schule (Hamburg-Langenhorn).jpg"
+  ],
+  "skip": [
+   "File:Fritz-Schumacher-Schule in Hamburg-Langenhorn.jpg",
+   "File:FritzSchumacherSchule Sportplatz HH-Langenhorn.JPG"
   ]
  },
  "gemeindehaus-der-matthausgemeinde": {
@@ -32271,6 +32372,11 @@
   "add": [
    "File:120410-Steglitz-Schloßstraße-44-Gemeindehaus.JPG",
    "File:Frontseite Richtung Schlossstrasse.jpg"
+  ],
+  "skip": [
+   "File:Berlin-Steglitz Friedhof vor Matthäuskirche 1.jpg",
+   "File:Berlin-Steglitz Matthäuskirche und Gemeindehaus.jpg",
+   "File:120409-Steglitz-Schloßstraße-44c-Detail.JPG"
   ]
  },
  "cenotaph-for-the-a-bomb-victims": {
@@ -32279,6 +32385,10 @@
    "File:20181111 Hiroshima Memorial Cenotaph-2.jpg",
    "File:Cenotaph for A-Bomb Victims.JPG",
    "File:Cenotaph, Hiroshima, South view 20190417 1.jpg"
+  ],
+  "skip": [
+   "File:Memorial Cenotaph (6155599493).jpg",
+   "File:The Memorial Cenotaph in Hiroshima.jpg"
   ]
  },
  "fine-arts-center-massachusetts": {
@@ -32286,6 +32396,10 @@
   "add": [
    "File:University of Massachusetts Amherst Fine Arts Center.jpg",
    "File:Fine Arts Center.jpg"
+  ],
+  "skip": [
+   "File:University of Massachusetts Amherst, viewed from the southeast.jpg",
+   "File:New Academic Classroom Building construction.JPG"
   ]
  },
  "guildford-cathedral": {
@@ -32294,24 +32408,40 @@
    "File:Guildford Cathedral, Surrey (48280133566).jpg",
    "File:Guildford Cathedral 2.jpg",
    "File:Guildford Cathedral, Stag Hill, Guildford (Seen from Onslow Village) (May 2014) (1).JPG"
+  ],
+  "skip": [
+   "File:Guildford MMB 08 Cathedral.jpg",
+   "File:Guildford Cathedral - geograph.org.uk - 5147855.jpg"
   ]
  },
  "longmire-buildings": {
   "category": "Category:Longmire Buildings",
   "add": [
    "File:Longmire Headquarters MRNP1.jpg"
+  ],
+  "skip": [
+   "File:The back of the Longmire Administration Building with employee entrance and picnic tables. (8f9d09a1-342e-4e7f-845b-845cbf76c86d).JPG",
+   "File:Longmire - Administration Building interior 03.jpg",
+   "File:Longmire - Administration Building interior 01.jpg"
   ]
  },
  "gary-bathing-beach-aquatorium": {
   "category": "Category:Gary Bathing Beach Aquatorium",
   "add": [
    "File:Aquatorium.jpg"
+  ],
+  "skip": [
+   "File:Gary Aquatorium.jpg"
   ]
  },
  "vadso-church": {
   "category": "Category:Vadsø kirke",
   "add": [
    "File:Vadsø Church.jpg"
+  ],
+  "skip": [
+   "File:Vadsø - no-nb digifoto 20141210 00188 NB MIT FNR 18417.jpg",
+   "File:Vadsø kirke i snø.jpg"
   ]
  },
  "orthodox-church-of-the-annunciation-in-malczyce": {
@@ -32319,6 +32449,9 @@
   "add": [
    "File:SM Malczyce Cerkiew Zwiastowania Najświętszej Maryji Bogarodzicy (1) ID 597137.jpg",
    "File:Orthodoxe Kirche in Malczyce.jpg"
+  ],
+  "skip": [
+   "File:Malczyce WV banner.jpg"
   ]
  },
  "chapelle-des-franciscains-d-arcueil": {
@@ -32338,11 +32471,19 @@
   "category": "Category:Gallery 131, Metropolitan Museum of Art",
   "add": [
    "File:Central Park New York August 2013 002.jpg"
+  ],
+  "skip": [
+   "File:Crocodile statue, Egyptian collection, Metropolitan Museum of Art.jpg",
+   "File:Metropolitan Museum of Art 15 (New York) (30303517327).jpg",
+   "File:Sphinx of Hatshepsut, Egyptian collection, Metropolitan Museum of Art.jpg"
   ]
  },
  "st-hildegardis": {
   "add": [
    "File:Altenwohnheim-St.-Hildegardis Kapelle Düsseldorf-Garath 2009.jpg"
+  ],
+  "skip": [
+   "File:St-Hildegardis-Krankenhaus-Köln.JPG"
   ]
  },
  "villa-low-beer": {
@@ -32350,6 +32491,9 @@
   "add": [
    "File:Vila Löw-Beer Brno 2016 3.jpg",
    "File:Brno, Vila Löw-Beer ze zahrady (1).jpg"
+  ],
+  "skip": [
+   "File:Brno, Vila Löw-Beer, interiér, dlažba.jpg"
   ]
  },
  "opera-de-vichy": {
@@ -32357,6 +32501,9 @@
   "add": [
    "File:Entrée de l'opéra de Vichy depuis le parvis rénové 2025-06-21.JPG",
    "File:Vichy Opera façade.jpg"
+  ],
+  "skip": [
+   "File:Opéra de Vichy, façade rue du Casino.jpg"
   ]
  },
  "bruder-klaus-kirche": {
@@ -32364,6 +32511,10 @@
   "add": [
    "File:Stuttgart Hajek-13-06-he 025.jpg",
    "File:StgtGablenbergKathKirche.jpg"
+  ],
+  "skip": [
+   "File:Stuttgart, Bruder Klaus Spielanlage MJ.jpg",
+   "File:Stuttgart, Bruder Klaus Spieltisch MJ.jpg"
   ]
  },
  "volmanova-vila": {
@@ -32411,6 +32562,10 @@
   "category": "Category:Freibad Letzigraben",
   "add": [
    "File:Freibad Letzigraben Pavillon 1947 Max Frisch.JPG"
+  ],
+  "skip": [
+   "File:Luwa Areal LBS IN-051423-04.jpg",
+   "File:Letzigraben Kinderplanschbecken 1949 WOL 002246.jpg"
   ]
  },
  "volkshaus-biel": {
@@ -32418,6 +32573,11 @@
   "add": [
    "File:Volkshaus, Biel - Bienne.jpg",
    "File:Biel Volkshaus 03.jpg"
+  ],
+  "skip": [
+   "File:Lage Volkshaus und Hotel Elite.png",
+   "File:Biel Volkshaus 07-place Général Guisan.jpg",
+   "File:Biel Volkshaus 08-rue de la Gare.jpg"
   ]
  },
  "strandbad-biel": {
@@ -32432,12 +32592,18 @@
   "add": [
    "File:PL-Breslau-WUWA-11-13.jpg",
    "File:Wroclaw Effenberger WUWA.jpg"
+  ],
+  "skip": [
+   "File:PL-Breslau-WUWA-1.jpg"
   ]
  },
  "wuwa-building-no-35": {
   "category": "Category:WUWA Building no. 35",
   "add": [
    "File:WUWA Photo House 35 Heinrich Lauterbach South-West Façade Wrocław Poland 2006-04-15.JPG"
+  ],
+  "skip": [
+   "File:PL-Breslau-WUWA-1.jpg"
   ]
  },
  "wuwa-building-no-37": {
@@ -32445,6 +32611,9 @@
   "add": [
    "File:Zielonego Dębu 21 Fotopolska 394451.jpg",
    "File:WUWA Photo House 37 Ludwig Moshamer South Façade Wrocław Poland 2006-04-15.JPG"
+  ],
+  "skip": [
+   "File:PL-Breslau-WUWA-1.jpg"
   ]
  },
  "sachsenbad": {
@@ -32467,6 +32636,10 @@
   "add": [
    "File:Thomaskirche (Basel).jpg",
    "File:Thomaskirche Basel 03.jpg"
+  ],
+  "skip": [
+   "File:Charles Hindenlang,Glasmalerei 1958,Thomaskirche Basel.jpg",
+   "File:Thomaskirche, Basel (1).jpg"
   ]
  },
  "casa-blanch": {
@@ -32481,12 +32654,19 @@
   "add": [
    "File:Cernobbio - casa Cattaneo 3.jpg",
    "File:Cernobbio - casa Cattaneo 4.jpg"
+  ],
+  "skip": [
+   "File:Cernobbio - casa Cattaneo 4.jpg"
   ]
  },
  "piuskirche": {
   "category": "Category:Piuskirche Meggen",
   "add": [
    "File:Luzern Meggen Katholische Piuskirche.jpg"
+  ],
+  "skip": [
+   "File:Luzern Meggen Katholische Piuskirche Gallus.jpg",
+   "File:Interno della Piuskirche a Meggen (DOI 24847).jpg"
   ]
  },
  "villa-kranz": {
@@ -32525,6 +32705,10 @@
   "add": [
    "File:Olveston Historic Home, Dunedin - Olveston8895.jpg",
    "File:Olveston House, Dunedin.jpg"
+  ],
+  "skip": [
+   "File:Olveston, Dunedin, Nueva Zelanda - panoramio (1).jpg",
+   "File:Olveston 2024 (1).jpg"
   ]
  },
  "catholic-church-of-the-holy-cross-mainz": {
@@ -32532,6 +32716,9 @@
   "add": [
    "File:HeiligKreuz1.JPG",
    "File:HeiligKreuz 8.JPG"
+  ],
+  "skip": [
+   "File:HeiligKreuz Krypta 2.JPG"
   ]
  },
  "auferstehungskirche-bonn": {
@@ -32545,20 +32732,27 @@
   "add": [
    "File:Skogskyrkogården Skogskapellet 2011b.jpg",
    "File:Skogskyrkogården Skogskapellet Baksidan.jpg"
+  ],
+  "skip": [
+   "File:Skogskyrkogården April 2012i.jpg",
+   "File:Woodland Chapel 2012.jpg"
   ]
  },
  "nymble": {
   "category": "Category:Kungliga tekniska högskolans kårhus (Nymble)",
   "add": [
+   "File:Stockholm studentkår 20160916 02.jpg",
    "File:Nymble 22072006.jpg",
-   "File:Stockholm studentkår 20160916 01.jpg",
-   "File:Stockholm studentkår 20160916 02.jpg"
+   "File:Stockholm studentkår 20160916 01.jpg"
   ]
  },
  "gb-cooley-house": {
   "category": "Category:G.B. Cooley House",
   "add": [
    "File:G. B. Cooley House 02.jpg"
+  ],
+  "skip": [
+   "File:G. B. Cooley House 01.jpg"
   ]
  },
  "las-palmas": {
@@ -32567,6 +32761,9 @@
    "File:Las Palmas-rdam.JPG",
    "File:Rotterdam - Las Palmas.jpg",
    "File:Rotterdam - Las Palmas (1).jpg"
+  ],
+  "skip": [
+   "File:GraphyArchy - Wikipedia 00972.jpg"
   ]
  },
  "bj-ricker-house": {
@@ -32580,6 +32777,9 @@
   "category": "Category:Borsa Valori (Turin)",
   "add": [
    "File:Borsa valori torino progetto gabetti isola 01.png"
+  ],
+  "skip": [
+   "File:Borsa valori torino progetto gabetti isola 02.png"
   ]
  },
  "finnish-pavilion-venice-biennale": {
@@ -32587,6 +32787,10 @@
   "add": [
    "File:The Finnish Pavilion, Biennale di Venezia.jpg",
    "File:Le pavillon de la Finlande (Biennale d'architecture 2014, Venise) (15545331895).jpg"
+  ],
+  "skip": [
+   "File:60th Venice Biennale, Finnish pavilion.jpg",
+   "File:Padiglione Finlandese Triennale XIV.jpg"
   ]
  },
  "renaat-braem-house": {
@@ -32602,6 +32806,10 @@
    "File:TschumiNestle04.jpg",
    "File:Vevey, Bâtiment administratif et Archives Historiques de Nestlé SA 2.jpg",
    "File:Vevey, Bâtiment administratif et Archives Historiques de Nestlé SA 3.jpg"
+  ],
+  "skip": [
+   "File:Vevey - Bâtiment administratif de Nestlé SA.jpg",
+   "File:Europäische Tage des Denkmals 2014 - Nestlé, Vevey.JPG"
   ]
  },
  "einsteinhaus-caputh": {
@@ -32633,6 +32841,9 @@
    "File:Piscine de la Butte-aux-Cailles, 5 place Paul-Verlaine, Paris 13e.jpg",
    "File:1-3-24, piscine de la Butte aux Cailles (façade) - btv1b531271662.jpg",
    "File:Nouvelle piscine de la Butte aux Cailles (extérieur) - btv1b9024200s.jpg"
+  ],
+  "skip": [
+   "File:Nouvelle piscine de la Butte aux Cailles (extérieur) - btv1b9024200s.jpg"
   ]
  },
  "villa-bonnier": {
@@ -32641,6 +32852,11 @@
    "File:Diplomatstaden 2008 Amb 3.jpg",
    "File:Villa Bonnier, 2018.jpg",
    "File:Diplomatstaden 2008 Amb 3a.jpg"
+  ],
+  "skip": [
+   "File:Diplomatstaden 2008 Amb 3a.jpg",
+   "File:Park bench overlooking Stockholm (30351072917).jpg",
+   "File:Husnummer Nobelgatan 13.jpg"
   ]
  }
 }
