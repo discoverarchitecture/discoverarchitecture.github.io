@@ -446,6 +446,9 @@
     stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(drawing ? 'drawing' : im.caption)}">` +
       (drawing ? '<span class="nophoto">Photos unavailable</span>' : '');
     stage.classList.toggle('drawing', drawing);
+    stage.querySelector('img').addEventListener('load', placeOnPhoto); // also when the full photo replaces the thumbnail
+    requestAnimationFrame(placeOnPhoto); // a photo already in the browser's cache never fires load
+    stage.insertAdjacentHTML('beforeend', `<button type="button" class="zoom" id="gZoom" aria-label="See the photo full screen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M10 20H4v-6M20 4l-6.5 6.5M4 20l6.5-6.5"/></svg></button>`);
     if (im.src) { // the wall's own copy has only the thumbnail; the full photo is known once the details have arrived
       const full = new Image();
       full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
@@ -456,6 +459,7 @@
       `<span class="l">${credit ? (im.kind === 'Drawing' ? '' : 'Photo: ') + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
     $('strip').querySelectorAll('button').forEach((t, j) => t.setAttribute('aria-current', j === k));
     $('gPrev').hidden = $('gNext').hidden = (shown ? shown.length : total) < 2;
+    if (!$('zv').hidden) zoomFill();
   }
 
   // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
@@ -796,7 +800,48 @@
   // swipe between photos on touch screens
   let swipeX = null;
   $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
-  $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) shotBy(e.clientX < swipeX ? 1 : -1); swipeX = null; });
+  $('stage').addEventListener('pointerup', e => {
+    if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) shotBy(e.clientX < swipeX ? 1 : -1);
+    else if (swipeX != null && Math.abs(e.clientX - swipeX) < 8 && e.target.closest('img, .zoom')) openZoom(); // a tap on the photo, or the zoom button
+    swipeX = null;
+  });
+  // The arrows sit halfway up the photo's own left and right edges, and the zoom button at its bottom right,
+  // wherever the photo falls inside its dark frame (a wide photo leaves bands above and below).
+  function placeOnPhoto() {
+    const stage = $('stage'), img = stage.querySelector('img'), g = $('gallery');
+    if (!img || !img.naturalWidth || !stage.clientHeight) return;
+    const sw = stage.clientWidth, sh = stage.clientHeight, ar = img.naturalWidth / img.naturalHeight;
+    const w = Math.min(sw, sh * ar), h = w / ar, l = (sw - w) / 2, t = (sh - h) / 2;
+    g.style.setProperty('--ph-mid', `${stage.offsetTop + t + h / 2}px`);
+    g.style.setProperty('--ph-l', `${l}px`);
+    stage.style.setProperty('--ph-l', `${l}px`); stage.style.setProperty('--ph-b', `${t}px`);
+  }
+  window.addEventListener('resize', placeOnPhoto);
+  // The photo full screen: tap the photo or the zoom button; arrows, a swipe or the keyboard move through the photos.
+  function zoomFill() {
+    const b = state.open, im = b && (b.images || [])[state.shot];
+    if (!im) return;
+    $('zvImg').src = im.src || im.thumb; $('zvImg').alt = `${b.name}: ${im.caption || 'photo'}`;
+    $('zvCap').innerHTML = $('gCap').innerHTML;
+    // red dots, as on the wall: which photo of how many (only those of the chosen kind), so a swipe is expected
+    const list = (b.images || []).map((x, j) => j).filter(j => state.kind === 'All' || inKind(b.images[j], state.kind));
+    const n = state.kind === 'All' ? photoCount(b) : list.length;
+    $('zvDots').innerHTML = n > 1 ? dotsHtml(n, Math.max(0, list.indexOf(state.shot))) : '';
+    $('zvPrev').hidden = $('zvNext').hidden = $('gPrev').hidden;
+  }
+  function openZoom() { if (!state.open || state.open.kind === 'book' || !(state.open.images || []).length) return; zoomFill(); $('zv').hidden = false; document.body.classList.add('zoomed'); $('zvX').focus(); }
+  function closeZoom() { $('zv').hidden = true; document.body.classList.remove('zoomed'); const z = $('gZoom'); if (z) z.focus(); }
+  $('zvX').addEventListener('click', closeZoom);
+  $('zvPrev').addEventListener('click', () => { shotBy(-1); zoomFill(); });
+  $('zvNext').addEventListener('click', () => { shotBy(1); zoomFill(); });
+  let zvX0 = null;
+  $('zvImg').addEventListener('pointerdown', e => { zvX0 = e.clientX; });
+  $('zvImg').addEventListener('pointerup', e => { if (zvX0 != null && Math.abs(e.clientX - zvX0) > 40) { shotBy(e.clientX < zvX0 ? 1 : -1); zoomFill(); } zvX0 = null; });
+  document.addEventListener('keydown', e => {
+    if ($('zv').hidden) return;
+    if (e.key === 'Escape') { e.stopPropagation(); closeZoom(); }
+    else if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') { e.stopPropagation(); shotBy(e.key === 'ArrowLeft' ? -1 : 1); zoomFill(); }
+  }, true);
   const BOOK_STEP = 3 * 84; // three covers (72px wide + 12px gap) per press
   $('relBooksPrev').addEventListener('click', () => $('relBooksRow').scrollBy({ left: -BOOK_STEP, behavior: 'smooth' }));
   $('relBooksNext').addEventListener('click', () => $('relBooksRow').scrollBy({ left: BOOK_STEP, behavior: 'smooth' }));
