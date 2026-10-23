@@ -128,8 +128,9 @@ def deal(tiles, heights_of, ncols=2):
     return ''.join(f'<div class="col">{"".join(c)}</div>' for c in cols)
 
 
-def portrait_for(rec, people, nm):
-    """The best free portrait for this name from architects.js, or None."""
+def portrait_for(rec, people, nm, founders=None):
+    """The best free portrait for this name from architects.js, or None. A firm with no portrait of its own shows
+    its first founder who has one (tools/portraits_founders.json, the owner's choice), marked with `founder`."""
     want = nm.canon(rec['name'])
     best = people.get(rec.get('qid') or '')
     if best and best.get('thumb'):
@@ -137,6 +138,12 @@ def portrait_for(rec, people, nm):
     for p in people.values():
         if p.get('thumb') and nm.canon(p.get('name', '')) == want:
             return p
+    for firm, names in (founders or {}).items():
+        if nm.canon(firm) == want:
+            for f in names:
+                p = portrait_for({'name': f}, people, nm)
+                if p:
+                    return dict(p, founder=f, role='co-founder' if len(names) > 1 else 'founder')
     return None
 
 
@@ -374,7 +381,7 @@ def page(bp, plans, key, ctx):
     n = len(bs)
     drawings = any(bp.has_drawings(b) for b in bs)
     title, desc = title_for(bp, name, drawings), desc_for(bp, rec, n)
-    port = portrait_for(rec, ctx['people'], ctx['nm'])
+    port = portrait_for(rec, ctx['people'], ctx['nm'], ctx['founders'])
     paras = [p.strip() for p in re.split(r'\n\s*\n', rec['bio'].strip()) if p.strip()]
     facts = ' · '.join(x for x in (rec.get('born_died') and rec['born_died'][:1].upper() + rec['born_died'][1:],
                                     rec.get('country') and rec['country'][:1].upper() + rec['country'][1:],
@@ -385,9 +392,10 @@ def page(bp, plans, key, ctx):
         big = port['thumb'].replace('/250px-', '/500px-')
         cred = ' · '.join(x for x in (port.get('credit'), port.get('license')) if x)
         src = f' · <a href="{bp.e(port["source"])}" rel="noopener">source</a>' if port.get('source') else ''
-        fig = (f'<figure class="portrait"><img src="{bp.e(big)}" alt="{bp.e(name)}" width="500" height="640" '
+        who = f'{port["founder"]}, {port["role"]} of {name}' if port.get('founder') else name
+        fig = (f'<figure class="portrait"><img src="{bp.e(big)}" alt="{bp.e(who)}" width="500" height="640" '
                f'onerror="this.onerror=null;this.src=this.dataset.fallback" data-fallback="{bp.e(port["thumb"])}">'
-               f'<figcaption>{bp.e(cred)}{src}</figcaption></figure>')
+               f'<figcaption>{bp.e(port["founder"] + " · ") if port.get("founder") else ""}{bp.e(cred)}{src}</figcaption></figure>')
     more = (f'<details class="more"><summary><span class="m">Read more</span><span class="l">Show less</span></summary>{"".join(f"<p>{bp.e(p)}</p>" for p in paras[1:])}</details>' if len(paras) > 1 else '')
     links = links_block(bp, 'Read about the work', merge_links(ctx['reading'].get(f'architect:{key}'), usable_links(rec)), name, up)
     bks = books_for(bp, key, ctx['nm'], ctx['books'])
@@ -461,7 +469,8 @@ def build(bp, items):
         return nm, plans
     import worth_swipe
     ctx = {'swipe': set(worth_swipe.chosen()), 'nm': nm, 'books': bp.read_js('books.js', 'BOOKS') or [],
-           'people': (bp.read_js('architects.js', 'ARCHITECTS') or {}).get('people', {}), 'reading': load_reading()}
+           'people': (bp.read_js('architects.js', 'ARCHITECTS') or {}).get('people', {}), 'reading': load_reading(),
+           'founders': {k: v for k, v in json.loads((ROOT / 'tools' / 'portraits_founders.json').read_text(encoding='utf-8')).items() if not k.startswith('_')}}
     keep = set()
     for key, p in plans.items():
         d = out / p['slug']

@@ -1,0 +1,931 @@
+[
+  {
+    "id": "podoli-waterworks",
+    "qid": "Q12045937",
+    "status": "skip",
+    "why": "Built 1925-1929 in neoclassical style and reconstructed in the 1990s; an old works, not a post-2000 design."
+  },
+  {
+    "id": "musiktheater-fussen",
+    "qid": "Q1270566",
+    "status": "skip",
+    "why": "Lead gives no reason to study it and the architect is not on the wall; short lead."
+  },
+  {
+    "id": "european-museum-schengen",
+    "qid": "Q13102046",
+    "status": "skip",
+    "why": "A history museum of the Schengen Agreement; the lead names no architect or design, and the photos show displays."
+  },
+  {
+    "id": "stage-42",
+    "qid": "Q14706813",
+    "status": "skip",
+    "why": "Ordinary off-Broadway theatre; the lead gives no reason to study it."
+  },
+  {
+    "id": "olympia-66",
+    "qid": "Q16924953",
+    "status": "skip",
+    "why": "Shopping complex; the lead gives no reason beyond the mall itself."
+  },
+  {
+    "id": "maison-folie-de-wazemmes",
+    "qid": "Q2310474",
+    "status": "photo",
+    "why": "Old mill converted after 2000, kept because the lead names Spuybroek and NOX for the rehabilitation design; the rated photo shows the whole building outside. Year from the lead.",
+    "name": "Maison folie de Wazemmes",
+    "by": "Lars Spuybroek",
+    "city": "Lille",
+    "cc": "FR",
+    "year": 2004,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Adaptive reuse",
+      "Sculptural form",
+      "Community"
+    ],
+    "features": "Former textile mill rehabilitated by Dutch agency NOX and Lars Spuybroek for Lille's 2004 European Capital of Culture.",
+    "commons_category": "Category:Maison folie de Wazemmes",
+    "coords": [
+      50.62464,
+      3.04825
+    ],
+    "photos": [
+      {
+        "file": "File:Lille maison folie de wazemmes.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Wazemmes maisonfolie.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "museum-more",
+    "qid": "Q23930568",
+    "status": "skip",
+    "why": "Regional museum in an old town hall; the extension is named but the lead gives no architectural reason."
+  },
+  {
+    "id": "urbis",
+    "qid": "Q2500370",
+    "status": "photo",
+    "why": "Named architect and a 2002 new building; the lead gives a thin reason, so Opus should check this one. Year from the lead.",
+    "name": "Urbis",
+    "by": "Ian Simpson",
+    "city": "Manchester",
+    "cc": "GB",
+    "year": 2002,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Public space",
+      "Community",
+      "Facade as skin"
+    ],
+    "features": "Designed by Ian Simpson and opened in 2002 as part of the Exchange Square redevelopment in Manchester.",
+    "commons_category": "Category:Urbis",
+    "coords": [
+      53.48556,
+      -2.24194
+    ],
+    "photos": [
+      {
+        "file": "File:URBIS, Manchester (geograph 5445301).jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Urbis, Manchester (1).jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Manchester Urbis 1301.JPG",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "historial-charles-de-gaulle",
+    "qid": "Q26700130",
+    "status": "skip",
+    "why": "A museum about de Gaulle inside the Invalides; the photos are interiors and the lead gives no architectural reason."
+  },
+  {
+    "id": "quadrio",
+    "qid": "Q27077339",
+    "status": "skip",
+    "why": "Shopping and office complex; the lead gives no reason beyond the kinetic sculpture next to it."
+  },
+  {
+    "id": "belgian-national-archives-2-joseph-cuvelier-repository",
+    "qid": "Q2860536",
+    "status": "skip",
+    "why": "A 1912 building converted in 2011; the lead names no new design by Bodson."
+  },
+  {
+    "id": "notre-dame-de-la-sagesse-chapel",
+    "qid": "Q2956625",
+    "status": "skip",
+    "why": "The lead gives no reason to study it; the main photo is a nativity scene."
+  },
+  {
+    "id": "fourth-and-madison-building",
+    "qid": "Q3080144",
+    "status": "photo",
+    "why": "Office tower kept because the lead gives architectural reasons (late-modernist, cantilever, public garden). Year from the lead.",
+    "name": "Fourth and Madison Building",
+    "by": "ZGF Architects LLP",
+    "city": "Seattle",
+    "cc": "US",
+    "year": 2002,
+    "type": "Office & tower",
+    "movement": "Late modernism",
+    "concepts": [
+      "Cantilever",
+      "Planting",
+      "Public space"
+    ],
+    "features": "Late-modernist 40-storey tower that cantilevers 12 feet over the YMCA; its rooftop garden is a privately owned public space.",
+    "commons_category": "Category:Fourth and Madison Building",
+    "coords": [
+      47.6055,
+      -122.333
+    ],
+    "photos": [
+      {
+        "file": "File:Fourth and Madison building.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Fourth and Madison Building, 4th Ave.jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "palais-des-sports-andre-brouat",
+    "qid": "Q3361117",
+    "status": "skip",
+    "why": "Ordinary multi-sports hall; the lead gives no reason to study it and there is no usable photo."
+  },
+  {
+    "id": "salaspils-memorial",
+    "qid": "Q4405712",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "synagogue-edmond-safra",
+    "qid": "Q48756324",
+    "status": "skip",
+    "why": "Synagogue named after the banker Edmond Safra; the lead gives no design reason and the architect is not on the wall."
+  },
+  {
+    "id": "palacio-de-congresos-y-auditorio-de-navarra",
+    "qid": "Q543328",
+    "status": "photo",
+    "why": "Named architect and a stated scale; the main photo shows the building in daylight. Year from the lead. Name is the lead's own title (known as the Baluarte).",
+    "name": "Palacio de Congresos y Auditorio de Navarra",
+    "by": "Francisco Mangado",
+    "city": "Pamplona",
+    "cc": "ES",
+    "year": 2003,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Monumentality",
+      "Geometry",
+      "Public space"
+    ],
+    "features": "Congress and concert hall by Navarran architect Francisco Mangado, one of the largest of its kind in Spain.",
+    "commons_category": "Category:Palacio de Congresos y Auditorio de Navarra (Baluarte)",
+    "coords": [
+      42.81361,
+      -1.64722
+    ],
+    "photos": [
+      {
+        "file": "File:IruñekoBaluarte.JPG",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Baluarte de Pamplona desde la Vuelta del Castillo.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "hobby-center-for-the-performing-arts",
+    "qid": "Q5874936",
+    "status": "photo",
+    "why": "Named firm and design reasons in the lead; the main photo shows the building outside in daylight. Year from the lead.",
+    "name": "Hobby Center for the Performing Arts",
+    "by": "Robert A.M. Stern Architects",
+    "city": "Houston",
+    "cc": "US",
+    "year": 2002,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Monumentality",
+      "Structure as expression"
+    ],
+    "features": "60-foot glass walls with views of Houston's skyscrapers, and a design inspired by early 20th-century theatre designers Herts & Tallant.",
+    "commons_category": "Category:Hobby Center for the Performing Arts",
+    "coords": [
+      29.7615,
+      -95.3695
+    ],
+    "photos": [
+      {
+        "file": "File:Houston May 2022 17 (Hobby Center for the Performing Arts).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Hobby Center, Houston.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Hobbycenter.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "la-casa-encendida",
+    "qid": "Q5962732",
+    "status": "skip",
+    "why": "Lead gives no design reason; the photos show events and people rather than the building."
+  },
+  {
+    "id": "museo-de-la-masacre-de-ponce",
+    "qid": "Q6940550",
+    "status": "skip",
+    "why": "Old historic building where the 1937 massacre took place; the lead gives no design reason and the photos are historic and people."
+  },
+  {
+    "id": "ostre-porsgrunn-church",
+    "qid": "Q71438361",
+    "status": "photo",
+    "why": "Modern church named in the lead (architect from Wikidata; the lead names nobody). Lead says the modern design was the church's choice. Year from the lead.",
+    "name": "Østre Porsgrunn Church",
+    "by": "Espen Surnevik",
+    "city": "Porsgrunn",
+    "cc": "NO",
+    "year": 2019,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+      "Stone",
+      "Sculptural form",
+      "Community"
+    ],
+    "features": "Stone church replacing a 1760 church burnt by arson in 2011; readers later voted it Norway's ugliest.",
+    "commons_category": "Category:Østre Porsgrunn kirke",
+    "coords": [
+      59.13611,
+      9.64778
+    ],
+    "photos": [
+      {
+        "file": "File:Østre Porsgrunn kirke 01.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Østre Porsgrunn kirke 02.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Østre Porsgrunn Kirke.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "rose-theatre-brampton",
+    "qid": "Q7367952",
+    "status": "skip",
+    "why": "Municipal theatre; the lead gives no design reason and the architects are not on the wall."
+  },
+  {
+    "id": "solaris-center",
+    "qid": "Q7557045",
+    "status": "skip",
+    "why": "Commercial and entertainment complex; the lead gives no reason beyond the centre itself."
+  },
+  {
+    "id": "vardasen-church",
+    "qid": "Q7594009",
+    "status": "skip",
+    "why": "The lead gives no reason to study it and the architect is not on the wall."
+  },
+  {
+    "id": "westpac-place",
+    "qid": "Q7989541",
+    "status": "skip",
+    "why": "Office tower; the lead gives ownership history but no architectural reason."
+  },
+  {
+    "id": "museo-collezione-gianfranco-luzzetti",
+    "qid": "Q86236485",
+    "status": "skip",
+    "why": "A 17th-century former convent; the museum opened in 2019, and the lead names no new design by the architect."
+  },
+  {
+    "id": "church-of-saint-elizabeth-mula",
+    "qid": "Q964008",
+    "status": "skip",
+    "why": "The lead gives no year, so a post-2000 build is not shown; the prep year 2000 looks like a placeholder."
+  },
+  {
+    "id": "great-east-japan-earthquake-and-nuclear-disaster-memorial-museum",
+    "qid": "Q98929263",
+    "status": "skip",
+    "why": "Memorial museum; the lead gives its purpose but names no architect or design reason."
+  },
+  {
+    "id": "laajasalo-church",
+    "qid": "Q10467711",
+    "status": "photo",
+    "why": "Named architects and a competition in the lead; the main photo shows the church outside. Year from the lead.",
+    "name": "Laajasalo Church",
+    "by": "Kari Järvinen, Merja Nieminen",
+    "city": "Helsinki",
+    "cc": "FI",
+    "year": 2003,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+      "Timber",
+      "Community",
+      "Geometry"
+    ],
+    "features": "Modern timber church by Kari Järvinen and Merja Nieminen, planned after an architecture competition and opened in 2003.",
+    "commons_category": "Category:Laajasalo Church",
+    "coords": [
+      60.17842,
+      25.05306
+    ],
+    "photos": [
+      {
+        "file": "File:Church in Laajasalo Helsinki.jpg",
+        "license": "CC BY 2.5",
+        "seen": true
+      },
+      {
+        "file": "File:Laajasalon Kirkko - panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "sjusjoen-fjellkirke",
+    "qid": "Q10730162",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "fondazione-bertarelli-concert-hall",
+    "qid": "Q107567168",
+    "status": "unsure",
+    "why": "Milesi's bio-architecture concert hall, worth a look, but its only photo is flagged junk and taken at dusk; needs a daylight exterior.",
+    "note": "no main photo"
+  },
+  {
+    "id": "monastery-of-siloe",
+    "qid": "Q107610913",
+    "status": "photo",
+    "why": "Named architect and reasons in the lead (21st-century monastery, green design); daylight exterior. Year not in the lead, so null.",
+    "name": "Monastery of Siloe",
+    "by": "Edoardo Milesi",
+    "city": "Cinigiano",
+    "cc": "IT",
+    "year": null,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+      "Planting",
+      "Landscape",
+      "Community"
+    ],
+    "features": "Italy's only 21st-century monastery, inspired by Cistercian architecture and a valuable example of green religious design.",
+    "commons_category": "Category:Monastery of Siloe",
+    "coords": [
+      42.91874,
+      11.32034
+    ],
+    "photos": [
+      {
+        "file": "File:Monastero di Siloe.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Foresteria del Pellegrino.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "collectiecentrum-nederland",
+    "qid": "Q108419589",
+    "status": "skip",
+    "why": "Storage depot for national collections; the lead gives no design reason."
+  },
+  {
+    "id": "shanghai-songhu-memorial-hall-for-the-war-of-resistance-against-japanese-aggression",
+    "qid": "Q10867963",
+    "status": "skip",
+    "why": "Memorial hall in a war memorial park; the lead gives no design reason and no year."
+  },
+  {
+    "id": "japanese-industry-pavilion-of-expo-2010",
+    "qid": "Q10872736",
+    "status": "skip",
+    "why": "A temporary Expo 2010 pavilion, described in the past tense; no source says it still stands."
+  },
+  {
+    "id": "itami-juzo-museum",
+    "qid": "Q10884817",
+    "status": "skip",
+    "why": "Biographical museum for a film director; the lead gives no design reason."
+  },
+  {
+    "id": "espacio-memorial-penal-de-libertad",
+    "qid": "Q109120730",
+    "status": "skip",
+    "why": "Memorial monument to political prisoners, not a building to study."
+  },
+  {
+    "id": "shibuya-sakura-stage",
+    "qid": "Q110144078",
+    "status": "skip",
+    "why": "Commercial complex; the lead gives no reason to study its design."
+  },
+  {
+    "id": "imoca-60-prb-5",
+    "qid": "Q110427074",
+    "status": "skip",
+    "why": "A yacht, not a building."
+  },
+  {
+    "id": "world-freshwater-aquarium-aquatotto-gifu",
+    "qid": "Q11282869",
+    "status": "skip",
+    "why": "Public aquarium; the lead gives no design reason."
+  },
+  {
+    "id": "kawagoe-city-art-museum",
+    "qid": "Q11479242",
+    "status": "photo",
+    "why": "Short lead; kept on the architect because Sakakura Associates is the office linked to Junzo Sakakura, whose Kamakura museum is on the wall. Year not in the lead, so null.",
+    "name": "Kawagoe City Art Museum",
+    "by": "Sakakura Associates Architects and Engineers",
+    "city": "Kawagoe",
+    "cc": "JP",
+    "year": null,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Landscape",
+      "Public space",
+      "Facade as skin"
+    ],
+    "features": "City art museum on the former Ninomaru site of Kawagoe Castle, Saitama.",
+    "commons_category": "Category:Kawagoe City Art Museum",
+    "coords": [
+      35.92583,
+      139.49081
+    ],
+    "photos": [
+      {
+        "file": "File:Kawagoe City Art Museum.JPG",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:KawagoeCityArtMuseum20131014.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "kankaku-museum",
+    "qid": "Q11494971",
+    "status": "skip",
+    "why": "Lead names no architect and gives no design reason."
+  },
+  {
+    "id": "minato-city-local-history-museum",
+    "qid": "Q115212362",
+    "status": "skip",
+    "why": "A 1938 building converted in 2018; the lead names no new design by the architect."
+  },
+  {
+    "id": "matsumoto-city-museum-of-art",
+    "qid": "Q11531052",
+    "status": "skip",
+    "why": "One-line lead with no design reason; the architect is not on the wall."
+  },
+  {
+    "id": "chapel-of-saint-john-sarkander-olomouc",
+    "qid": "Q11735268",
+    "status": "skip",
+    "why": "Neo-baroque chapel adapted in the early 20th century; not a post-2000 building."
+  },
+  {
+    "id": "divadlo-tramtarie",
+    "qid": "Q11812433",
+    "status": "skip",
+    "why": "Theatre that has used the Slovanský dům building since 2006; the lead names no new design by the architect."
+  },
+  {
+    "id": "kierikki-stone-age-centre",
+    "qid": "Q11871304",
+    "status": "skip",
+    "why": "Prehistoric museum; the lead gives no design reason and names no architect."
+  },
+  {
+    "id": "blindern-studenterhjem",
+    "qid": "Q11961576",
+    "status": "skip",
+    "why": "Student hostel founded in 1925; an old building, not a post-2000 design."
+  },
+  {
+    "id": "divadlo-na-orli",
+    "qid": "Q12016576",
+    "status": "skip",
+    "why": "The lead gives no design reason and names no architect."
+  },
+  {
+    "id": "maitre-coq-v",
+    "qid": "Q120195815",
+    "status": "skip",
+    "why": "A yacht, not a building."
+  },
+  {
+    "id": "church-of-the-assumption-of-the-virgin-mary-brno",
+    "qid": "Q12030319",
+    "status": "skip",
+    "why": "Jesuit parish church and protected cultural monument; the lead gives no post-2000 date."
+  },
+  {
+    "id": "church-of-holy-trinity-andelska-hora",
+    "qid": "Q12030429",
+    "status": "skip",
+    "why": "The lead dates the chapel to 1698-1712."
+  },
+  {
+    "id": "church-of-saint-wenceslaus-in-pecky",
+    "qid": "Q12031076",
+    "status": "skip",
+    "why": "The lead gives a 10th-century origin; the prep year 2000 looks like a placeholder."
+  },
+  {
+    "id": "john-e-jaqua-center-for-student-athletes",
+    "qid": "Q12060885",
+    "status": "photo",
+    "why": "Short lead; kept on the architect because ZGF (Oregon Convention Center) is on the wall. Daylight photos only. Year not in the lead, so null.",
+    "name": "John E. Jaqua Center for Student Athletes",
+    "by": "ZGF Architects LLP",
+    "city": "Eugene",
+    "cc": "US",
+    "year": null,
+    "type": "Education",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Community",
+      "Steel & glass"
+    ],
+    "features": "Learning centre for University of Oregon NCAA student-athletes, designed by ZGF Architects.",
+    "commons_category": "Category:John E. Jaqua Center",
+    "coords": [
+      44.0458,
+      -123.069
+    ],
+    "photos": [
+      {
+        "file": "File:Jaqua Center (University of Oregon).jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Jaquacenterwet.jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "monash-university-museum-of-art",
+    "qid": "Q12061966",
+    "status": "unsure",
+    "why": "Kerstin Thompson's museum (her Napier Street housing is on the wall), but the main photo shows an art installation and p1 is a diagram.",
+    "note": "no main photo"
+  },
+  {
+    "id": "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya",
+    "qid": "Q12265317",
+    "status": "photo",
+    "why": "Named architect and a distinctive facade named in the lead; the name is the lead's own (the Wikipedia title is Sede de Osakidetza). Year from the lead.",
+    "name": "Edificio de la Delegación Territorial de Salud y Consumo de Vizcaya",
+    "by": "Juan Coll Barreu",
+    "city": "Bilbao",
+    "cc": "ES",
+    "year": 2008,
+    "type": "Civic",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Geometry",
+      "Sculptural form"
+    ],
+    "features": "Unmistakable polyhedral facade by Juan Coll-Barreu on a Bilbao building housing the Basque health department.",
+    "commons_category": "Category:Sede de Osakidetza, Bilbao",
+    "coords": [
+      43.26074,
+      -2.93565
+    ],
+    "photos": [
+      {
+        "file": "File:Bilbao - Sede de Osakidetza (Servicio Vasco de Salud) 02.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Bilbao - Sede Osakidetza (28716420554).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Basque Health Department Headquarters, Bilbao by Coll-Barreu Arquitectos (32114805065).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "centro-social-afundacion-vigo",
+    "qid": "Q12385937",
+    "status": "skip",
+    "why": "Multifunctional centre of a savings bank; the lead gives no design reason."
+  },
+  {
+    "id": "imoca-60-armor-lux",
+    "qid": "Q124296212",
+    "status": "skip",
+    "why": "A yacht, not a building."
+  },
+  {
+    "id": "church-of-the-sacred-heart-hradec-kralove",
+    "qid": "Q1303486",
+    "status": "skip",
+    "why": "The lead ties it to the memorial for the WWI dead, not a post-2000 build; the prep year 2000 looks like a placeholder."
+  },
+  {
+    "id": "envihab",
+    "qid": "Q1345879",
+    "status": "skip",
+    "why": "Medical research facility; the lead gives its purpose, not a design reason, and names no architect."
+  },
+  {
+    "id": "building-of-the-thuringian-state-parliament",
+    "qid": "Q1474638",
+    "status": "photo",
+    "why": "Named architect and design detail in the lead (courtyard, glass plenary hall); built 2001-2003, so year 2003. Name from the label.",
+    "name": "Building of the Thuringian State Parliament",
+    "by": "Michael Weindel",
+    "city": "Erfurt",
+    "cc": "DE",
+    "year": 2003,
+    "type": "Civic",
+    "movement": "Contemporary",
+    "concepts": [
+      "Courtyard",
+      "Steel & glass",
+      "Circulation"
+    ],
+    "features": "Parliament building with a four-wing foyer around a courtyard and a glass-fronted plenary hall.",
+    "commons_category": "Category:Funktionsgebäude (Thüringer Landtag)",
+    "coords": [
+      50.964,
+      11.0347
+    ],
+    "photos": [
+      {
+        "file": "File:Thüringer Landtag from Jürgen-Fuchs-Straße.jpg",
+        "license": "CC0",
+        "seen": true
+      },
+      {
+        "file": "File:Thüringer Landtag from Johann-Sebastian-Bach-Straße.jpg",
+        "license": "CC0",
+        "seen": true
+      },
+      {
+        "file": "File:2011 05 18 Landtagsprojekt Thueringen (0472-3-4 enh).jpg",
+        "license": "CC BY-SA 3.0 de",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "state-theatre-centre-of-western-australia",
+    "qid": "Q14935912",
+    "status": "photo",
+    "why": "Short lead; kept on the architect because Kerry Hill (The Datai on the wall) is named. Year not in the lead, so null.",
+    "name": "State Theatre Centre of Western Australia",
+    "by": "Kerry Hill",
+    "city": "Perth",
+    "cc": "AU",
+    "year": null,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Community",
+      "Public space"
+    ],
+    "features": "Three dedicated performance areas in the Perth Cultural Centre, the largest named after Heath Ledger; designed by Kerry Hill.",
+    "commons_category": "Category:State Theatre Centre of Western Australia",
+    "coords": [
+      -31.94991,
+      115.85941
+    ],
+    "photos": [
+      {
+        "file": "File:State Theatre - Iwelam 01.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:State Theatre Centre of Western Australia - exterior.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "national-library-of-belarus",
+    "qid": "Q14954309",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "national-graphene-institute",
+    "qid": "Q15261120",
+    "status": "skip",
+    "why": "Research institute; the lead gives no design reason."
+  },
+  {
+    "id": "church-of-saint-florian-in-krasne-brezno",
+    "qid": "Q15640040",
+    "status": "skip",
+    "why": "Late-sixteenth-century church according to the lead; not a post-2000 building."
+  },
+  {
+    "id": "church-of-our-lady-of-the-great-croatian-baptismal-covenant-in-knin",
+    "qid": "Q16109901",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "centre-for-interactive-research-on-sustainability",
+    "qid": "Q16247338",
+    "status": "photo",
+    "why": "Named firm (Perkins & Will has several buildings on the wall) and specific sustainability reasons in the lead; one daylight exterior photo. Year from the lead.",
+    "name": "Centre for Interactive Research on Sustainability",
+    "by": "Perkins & Will",
+    "city": "Vancouver",
+    "cc": "CA",
+    "year": 2011,
+    "type": "Education",
+    "movement": "Contemporary",
+    "concepts": [
+      "Climate response",
+      "Water",
+      "Community"
+    ],
+    "features": "Sustainable UBC research building: 100% rainwater supply, LEED Platinum, and 600 tons of CO2 sequestered in its structure.",
+    "commons_category": null,
+    "coords": [
+      49.262,
+      -123.253
+    ],
+    "photos": [
+      {
+        "file": "File:CIRS Building UBC.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "marina-mokotow",
+    "qid": "Q1627443",
+    "status": "skip",
+    "why": "Gated housing estate; the lead gives no architectural reason."
+  },
+  {
+    "id": "edificio-artklass",
+    "qid": "Q17496491",
+    "status": "skip",
+    "why": "Housing; the lead gives no architectural reason, and Rob Krier is not the Léon Krier on the wall."
+  },
+  {
+    "id": "casa-milan",
+    "qid": "Q17623939",
+    "status": "skip",
+    "why": "The lead gives only ownership and use; no architectural reason."
+  },
+  {
+    "id": "uffo",
+    "qid": "Q18284466",
+    "status": "skip",
+    "why": "Multifunctional cultural centre; the lead gives no design reason."
+  },
+  {
+    "id": "masala-church",
+    "qid": "Q18600544",
+    "status": "photo",
+    "why": "Named architect and a specific interior in the lead; daylight exterior. Year from the lead (inaugurated February 2000).",
+    "name": "Masala Church",
+    "by": "Erkki Pitkäranta",
+    "city": "Kirkkonummi",
+    "cc": "FI",
+    "year": 2000,
+    "type": "Religious",
+    "movement": "Contemporary",
+    "concepts": [
+      "Colour",
+      "Detail",
+      "Community"
+    ],
+    "features": "Richly decorated interior with symbolic images, inaugurated in February 2000; the tiled floor carries the four evangelists' symbols.",
+    "commons_category": "Category:Masala Church",
+    "coords": [
+      60.15857,
+      24.5329
+    ],
+    "photos": [
+      {
+        "file": "File:Masala church 2011.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Masaby kyrka 02.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "arts-maebashi",
+    "qid": "Q18700337",
+    "status": "unsure",
+    "why": "Sakakura Associates, as Kawagoe, but the main photo shows a building with a billboard and the other two photos are night and detail.",
+    "note": "no main photo"
+  },
+  {
+    "id": "marstall-ludwigsburg",
+    "qid": "Q1902835",
+    "status": "skip",
+    "why": "Shopping centre that the lead calls an architectural problem case."
+  },
+  {
+    "id": "discovery-museum-netherlands",
+    "qid": "Q19461133",
+    "status": "skip",
+    "why": "Science and industry museum; the lead gives no design reason."
+  },
+  {
+    "id": "la-piscine-museum",
+    "qid": "Q1955748",
+    "status": "skip",
+    "why": "A converted art deco swimming pool; the lead names no new design, and the photo is an interior."
+  }
+]

@@ -29704,6 +29704,9 @@
   "add": [
    "File:Oberlin College - Allen Memorial Art Museum.jpg",
    "File:Ohio - Oberlin College - 20170715131652.jpg"
+  ],
+  "skip": [
+   "File:Wright-Weltzheimer Johnson 1948.png"
   ]
  },
  "kramars-villa": {
@@ -33364,6 +33367,941 @@
    "File:Haus Wittmann Südwest.JPG",
    "File:Haus Wittmann.JPG",
    "File:Salettl Wittmann.JPG"
+  ]
+ },
+ "kumamoto-prefectural-ancient-burial-mound-museum": {
+  "category": "Category:Kumamoto Prefectural Decorated Tumulus Museum",
+  "add": [
+   "File:Kumamoto Prefectural Ancient Burial Mound Museum 02.jpg"
+  ]
+ },
+ "triangle-building": {
+  "category": "Category:Edifício Triângulo",
+  "add": [
+   "File:At São Paulo, Brazil 2019 195.jpg",
+   "File:Edifício Triângulo.jpg",
+   "File:At São Paulo, Brazil 2019 191.jpg"
+  ]
+ },
+ "estacao-cabo-branco-ciencia-cultura-e-artes": {
+  "category": "Category:Estação Cabo Branco",
+  "add": [
+   "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888023101).jpg",
+   "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888015271).jpg"
+  ],
+  "skip": [
+   "File:Esculturas da estação Cabo Branco - 2.jpg",
+   "File:Esculturas da estação Cabo Branco - 4.jpg"
+  ]
+ },
+ "garden-of-fine-art-kyoto": {
+  "category": "Category:Garden of Fine Art, Kyoto",
+  "add": [
+   "File:Garden of Fine Art, Kyoto 2025.jpg",
+   "File:Garden of Fine Art, Kyoto 2025-1.jpg"
+  ]
+ },
+ "koumi-machi-kogen-museum-of-art": {
+  "category": "Category:Koumi-machi Kōgen Museum of Art",
+  "add": [
+   "File:小海町高原美術館.JPG"
+  ]
+ },
+ "ishikawa-nishida-kitaro-museum-of-philosophy": {
+  "category": "Category:Ishikawa Nishida Kitaro Museum of Philosophy",
+  "add": [
+   "File:Nishida Museum.jpg"
+  ]
+ },
+ "ogasawara-museum": {
+  "category": "Category:Ogasawara Museum",
+  "add": [
+   "File:Ogasawara klan museum.jpg"
+  ]
+ },
+ "memorial-dos-povos-indigenas": {
+  "category": "Category:Memorial dos Povos Indígenas",
+  "add": [
+   "File:Memorial dos Povos Indígenas, Brasília, Brazil, Ricardo Moraleida 2008.jpg",
+   "File:MemorialPovos7.JPG"
+  ],
+  "skip": [
+   "File:Memorial Povos Indíginas.jpg"
+  ]
+ },
+ "wayne-l-morse-united-states-courthouse": {
+  "category": "Category:Wayne L. Morse United States Courthouse",
+  "add": [
+   "File:Wayne L. Morse United States Courthouse, Eugene, Oregon (2012) - 01.JPG",
+   "File:Wayne L Morse Federal Courthouse (Eugene, Oregon).jpg",
+   "File:Wayne L. Morse United States Courthouse corner crop.JPG"
+  ]
+ },
+ "pavilhao-padre-manoel-da-nobrega": {
+  "category": "Category:Pavilhão Padre Manual da Nóbrega",
+  "add": [
+   "File:Museu Afro Brasil São Paulo 2019-5939.jpg",
+   "File:Museu Afro Brasil São Paulo 2019-5941.jpg"
+  ],
+  "skip": [
+   "File:Werner Haberkorn - Vista parcial do Parque do Ibirapuera. São Paulo-SP 1.jpg"
+  ]
+ },
+ "villa-norrkoping": {
+  "category": "Category:Villa Norrköping",
+  "add": [
+   "File:Villa Norrköping1.JPG",
+   "File:WTNkpng1 Boberger Nordengatan 15 Villa Norrköping 03.JPG",
+   "File:WTNkpng1 Ainali villa norrköping.JPG"
+  ]
+ },
+ "kirche-schonow-buschgraben": {
+  "category": "Category:Kirche Schönow (Berlin-Zehlendorf)",
+  "add": [
+   "File:Kirche Schönow (Berlin-Zehlendorf).JPG",
+   "File:Kirche Schönow (Berlin-Zehlendorf) Betonstützen.JPG",
+   "File:Kirche Schönow (Berlin-Zehlendorf) Garten.JPG"
+  ]
+ },
+ "bethanien-kinderdorf-bergisch-gladbach": {
+  "category": "Category:Kinderdorf Bethanien (Refrath)",
+  "add": [
+   "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-7.jpg",
+   "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-8.jpg",
+   "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-9.jpg"
+  ]
+ },
+ "st-lukas-kirche": {
+  "category": "Category:St.-Lukas-Kirche (Bremen-Grolland)",
+  "add": [
+   "File:Bremen-Grolland St-Lukas 01.jpg"
+  ]
+ },
+ "st-gertrud": {
+  "category": "Category:St. Gertrud (Köln)",
+  "add": [
+   "File:St. Gertrud, Köln - Ansicht von der Bahn-7276.jpg",
+   "File:St gertrud koeln ostseite mit turm 20090911.jpg",
+   "File:St. Gertrud, Köln - 8592.jpg",
+   "File:St. Gertrud, Köln - 8590.jpg"
+  ],
+  "skip": [
+   "File:Hansahochhaus Köln, DB-Werk Köln Betriebsbahnhof, Haltepunkt Köln Hansaring-7747.jpg"
+  ]
+ },
+ "st-matthaus": {
+  "category": "Category:St. Matthäus (Düsseldorf-Garath)",
+  "add": [
+   "File:St. Matthaeus in Duesseldorf-Garath, von Sueden.jpg",
+   "File:St. Matthäus in Düsseldorf-Garath 6.jpg",
+   "File:St. Matthäus in Düsseldorf-Garath 4.jpg",
+   "File:St. Matthäus in Düsseldorf-Garath 2.jpg"
+  ]
+ },
+ "tour-horizons": {
+  "category": "Category:Tour Horizons",
+  "add": [
+   "File:Tours Horizons, Boulogne-Boulogne-Billancourt.jpg",
+   "File:Billancourt–Rives de Seine, 92100 Boulogne-Billancourt, France - panoramio (1).jpg",
+   "File:Tours Horizons.jpg"
+  ]
+ },
+ "palais-des-congres-de-tours": {
+  "category": "Category:Centre international de congrès de Tours - Vinci",
+  "add": [
+   "File:Concert hall in Tours - panoramio.jpg",
+   "File:Ctrevinci2.jpg",
+   "File:Сквер у концертного зала La Vinci - panoramio.jpg"
+  ]
+ },
+ "cohen-house": {
+  "category": "Category:Cohen House, London",
+  "add": [
+   "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979427.jpg",
+   "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979423.jpg"
+  ]
+ },
+ "centre-civic-de-riudaura": {
+  "category": "Category:Centre Cívic de Riudaura",
+  "add": [
+   "File:Centre cívic de Riudaura.jpg",
+   "File:Centre cívic de Riudaura (2).jpg",
+   "File:Centre cívic de Riudaura (3).jpg"
+  ],
+  "skip": [
+   "File:Presentació de llibre al Centre Cívic de Riudaura Abril 2026.jpg"
+  ]
+ },
+ "paul-mellon-arts-center": {
+  "add": [
+   "File:Paul Mellon Arts Center - Choate Rosemary Hall, Wallingford, Connecticut.JPG"
+  ]
+ },
+ "st-josef": {
+  "category": "Category:St. Josef (Grevenbroich)",
+  "add": [
+   "File:Grevenbroich St. Joseph 1 2009.jpg",
+   "File:Grevenbroich, Südstadt, St. Josef, 2008.JPG",
+   "File:Grevenbroich St. Joseph 2 2009.jpg"
+  ]
+ },
+ "vivian-beaumont-theater": {
+  "category": "Category:Vivian Beaumont Theater",
+  "add": [
+   "File:Lincoln Center Nov 2023 02.jpg",
+   "File:New York Vivian Beaumont Theater-20120520-RM-192313.jpg"
+  ],
+  "skip": [
+   "File:Ghost Light by Third Rail Projects.png"
+  ]
+ },
+ "collegio-teresiano": {
+  "category": "Category:Col·legi de les Teresianes, Barcelona",
+  "add": [
+   "File:009 Col·legi de les Teresianes.JPG"
+  ]
+ },
+ "nagaragawa-convention-center": {
+  "category": "Category:Nagaragawa Convention Center",
+  "add": [
+   "File:Nagaragawa Convention Center 1.JPG",
+   "File:NCC & GMH 01.JPG"
+  ],
+  "skip": [
+   "File:長良川国際会議場 (3310492372).jpg"
+  ]
+ },
+ "mercury-tower": {
+  "category": "Category:Mercury Towers",
+  "add": [
+   "File:St Julian's (Malta).jpg",
+   "File:St Julian's (Malta) - 53043023665.jpg"
+  ]
+ },
+ "rosenbaum-house": {
+  "category": "Category:Rosenbaum House",
+  "add": [
+   "File:Frank Lloyd Wright designed house in Florence, Alabama LCCN2011631298.jpg",
+   "File:Rosenbaum House, one of the residences created by Frank Lloyd Wright, Florence, Alabama LCCN2011633963.jpg",
+   "File:Rosenbaum House Front Pano.jpg"
+  ]
+ },
+ "marsk-tower": {
+  "category": "Category:Marsk Tårnet",
+  "add": [
+   "File:Marsk Tårnet.jpg",
+   "File:Marsk Tårnet 01.jpg",
+   "File:Marsk Tower.jpg"
+  ],
+  "skip": [
+   "File:Building data information board for Marsk Tower, 2026-07-23.jpg"
+  ]
+ },
+ "memorial-jk": {
+  "category": "Category:Memorial JK",
+  "add": [
+   "File:Memorial J Kubitschek Brasilia 2009.jpg"
+  ]
+ },
+ "tower-25": {
+  "category": "Category:Tower 25",
+  "add": [
+   "File:NICOSIA, 11 AUGUST, 2011 056.jpg",
+   "File:Stasinou Avenue View.jpg"
+  ]
+ },
+ "national-museum-of-art-osaka": {
+  "category": "Category:The National Museum of Art, Osaka",
+  "add": [
+   "File:NMAO 2026.jpg",
+   "File:The National Museum of Art, Osaka 2026.jpg"
+  ],
+  "skip": [
+   "File:The National Museum of Art (Osaka Kita-ku) hdsr S5 03.jpg",
+   "File:EagleWarriorOsakaFront.jpg"
+  ]
+ },
+ "tapies-museum": {
+  "category": "Category:Fundació Antoni Tàpies",
+  "add": [
+   "File:Museu Tàpies.jpg"
+  ]
+ },
+ "taipei-grand-mosque": {
+  "category": "Category:Taipei Grand Mosque",
+  "add": [
+   "File:Taipei Grand Mosque 20060112.jpg",
+   "File:台北清真寺 11.jpg",
+   "File:台北清真寺 13.jpg"
+  ],
+  "skip": [
+   "File:Muslims in Taipei Grand Mosque 20160912.jpg",
+   "File:Taipei Grand Mosque board about Acts of worship & Articles of faith.jpg"
+  ]
+ },
+ "thiepval-memorial": {
+  "category": "Category:Thiepval Memorial to the Missing of the Somme",
+  "add": [
+   "File:Thiepval cimetière derrière mémorial 1.jpg",
+   "File:Thiepval Memorial Cloudy.jpg"
+  ],
+  "skip": [
+   "File:Thiepval (80) Mémorial - Coquelicots.jpg",
+   "File:Thiepval Memorial, View fom Beaumont-Hamel.jpg"
+  ]
+ },
+ "arco-della-vittoria": {
+  "category": "Category:Arco dei Caduti (Genoa)",
+  "add": [
+   "File:Genova - Piazza della Vittoria.jpg",
+   "File:Arco della Vittoria, Panoramica.jpg"
+  ]
+ },
+ "hyderabad-house": {
+  "category": "Category:Hyderabad House",
+  "add": [
+   "File:Hyderabad House, India Gate, New Delhi.jpg",
+   "File:Hyderabad house in delhi india.jpg"
+  ],
+  "skip": [
+   "File:25 01 2020 Assinatura do Livro de Visitas (49439064321).jpg",
+   "File:25 01 2020 Assinatura do Livro de Visitas (49439087226).jpg",
+   "File:25 01 2020 Reunião Ampliada com o Primeiro-Ministro da Índia (49439189626).jpg",
+   "File:Secretary of Defense Lloyd J. Austin III in India (2021) -1061 (51052749861).jpg"
+  ]
+ },
+ "national-museum-of-prehistory": {
+  "category": "Category:National Museum of Prehistory (Taiwan)",
+  "add": [
+   "File:National Museum of Prehistory, Taitung 02.jpg",
+   "File:The building exterior of National Museum of Prehistory, Taiwan (2023).jpg",
+   "File:National Museum of Prehistory, Taitung 01.jpg"
+  ]
+ },
+ "church-house": {
+  "category": "Category:Church House, Westminster",
+  "add": [
+   "File:Church House Westminster London 2016 (02).jpg"
+  ],
+  "skip": [
+   "File:Breaking-news-5Y0A1851-CNN-1- (52518925396).jpg",
+   "File:Breaking-news-5Y0A1864-CNN-3- (52518448667).jpg",
+   "File:Breaking-news-6B0A5612-CNN-9- (52519400710).jpg",
+   "File:Westminster Sanctuary sign.jpg"
+  ]
+ },
+ "stockholm-university-library": {
+  "category": "Category:Stockholms universitetsbibliotek",
+  "add": [
+   "File:Stockholm University Library 2019.jpg",
+   "File:Uni biblioteket 2010a.jpg",
+   "File:Uni biblioteket 2010c.jpg"
+  ]
+ },
+ "arras-memorial": {
+  "category": "Category:Arras Memorial",
+  "add": [
+   "File:Arras Memorial 100.jpg",
+   "File:Arras Memorial 109.jpg",
+   "File:Arras Memorial 103.jpg"
+  ]
+ },
+ "stopera": {
+  "category": "Category:Stopera",
+  "add": [
+   "File:Stopera 2063.jpg",
+   "File:Amsterdam, de Stopera vanaf de Blauwbrug IMG 1096 2026-04-06 14.38.jpg",
+   "File:Amsterdam, de Blauwbrug RM518352 met de Stopera op de achtergrond IMG 1091 2026-04-06 14.29.jpg"
+  ],
+  "skip": [
+   "File:Amsterdam snack wagon.jpg",
+   "File:WilhelmHolzbauer.jpg"
+  ]
+ },
+ "kucuksu-pavilion": {
+  "category": "Category:Küçüksu Palace",
+  "add": [
+   "File:Exterior view of Küçüksu Palace (1).jpg",
+   "File:İstanbul - Küçüksu Kasrı 0983.JPG",
+   "File:İstanbul - Küçüksu Kasrı 0987.jpg"
+  ],
+  "skip": [
+   "File:Model of Küçüksu Palace.jpg"
+  ]
+ },
+ "szeged-synagogue": {
+  "category": "Category:New Synagogue (Szeged)",
+  "add": [
+   "File:Szeged synagogue SF.jpg",
+   "File:Szeged - Új Zsinagóga (44021910514).jpg",
+   "File:Szeged - Új Zsinagóga (44740331311).jpg"
+  ],
+  "skip": [
+   "File:Mini Magyarország Makettpark (Kisbér, tópart) - panoramio (2).jpg"
+  ]
+ },
+ "aland-maritime-museum": {
+  "category": "Category:Åland Maritime Museum",
+  "add": [
+   "File:Åland Maritime Museum, 2019 (01).jpg",
+   "File:Ålands sjöfartsmuseum May 2016 06.jpg",
+   "File:Ålands sjöfartsmuseum May 2016 04.jpg",
+   "File:Ålands sjöfartsmuseum May 2016 08.jpg"
+  ],
+  "skip": [
+   "File:Sjöpromenaden Mariehamn 2011-10-11 image08.jpg",
+   "File:Sjöpromenaden Mariehamn 2011-10-11 image09.jpg"
+  ]
+ },
+ "museum-of-contemporary-art-zagreb": {
+  "category": "Category:Museum of Contemporary Art in Zagreb",
+  "add": [
+   "File:Msu-museum-contemporary-art-zagreb-2.jpg",
+   "File:Msu-zagreb-entrance-hall.jpg",
+   "File:Msu-zagreb-newtendencies.jpg"
+  ],
+  "skip": [
+   "File:Device art msu hr.jpeg",
+   "File:Device art msuhr 13 37 22 599000.jpeg"
+  ]
+ },
+ "santiago-del-estero-forum": {
+  "category": "Category:Forum Santiago del Estero",
+  "add": [
+   "File:Forum Santiago del Estero.JPG"
+  ]
+ },
+ "house-of-history-baden-wurttemberg": {
+  "category": "Category:Haus der Geschichte Baden-Württemberg",
+  "add": [
+   "File:Haus der Geschichte BW - Frontansicht.jpg",
+   "File:HausderGeschichteBaden-Württemberg.jpg",
+   "File:Stuttgart Haus der Geschichte-pjt1.jpg"
+  ],
+  "skip": [
+   "File:Haus der Geschichte Baden-Württemberg Plakat.jpg",
+   "File:Ansicht von Oppenau mit blühendem Baum, 1931 HdGBW 1991 0140 100014.jpg"
+  ]
+ },
+ "saxon-landtag": {
+  "category": "Category:Sächsischer Landtag (building)",
+  "add": [
+   "File:SLT-aussen.JPG"
+  ],
+  "skip": [
+   "File:2016 Dresden, Landtag, -001.jpg",
+   "File:Jessica Steiner 2025.jpg",
+   "File:Sächsischer Landtag (Innenansicht) Dresden 02082019 06.jpg"
+  ]
+ },
+ "seth-peterson-cottage": {
+  "category": "Category:Seth Peterson Cottage",
+  "add": [
+   "File:Seth Peterson Cottage Exterior.jpg"
+  ]
+ },
+ "palace-moravia": {
+  "category": "Category:Morava Palace",
+  "add": [
+   "File:Palác Morava Brno 1.jpg"
+  ],
+  "skip": [
+   "File:Brno Morava Palace BHO-133454.jpg"
+  ]
+ },
+ "georg-kolbe-museum": {
+  "category": "Category:Georg-Kolbe-Museum",
+  "add": [
+   "File:Sensburger Allee 25-26 (09096432) 001.jpg"
+  ],
+  "skip": [
+   "File:Passion Leidenschaft-Kolbe-Amazone DSC7326.jpg",
+   "File:Passion Leidenschaft-Kolbe-Amazone DSC7327.jpg",
+   "File:Dr. Julia Wallner Foto.jpg",
+   "File:GeorgKolbeM. Garten 2.JPG",
+   "File:GeorgKolbeM. Garten 3.JPG"
+  ]
+ },
+ "bijenkorf-rotterdam": {
+  "category": "Category:Bijenkorf Rotterdam",
+  "add": [
+   "File:Rotterdam coolsingel bijenkorf.jpg",
+   "File:Overzicht vanaf het zuidoosten - Rotterdam - 20533908 - RCE.jpg",
+   "File:Overzicht ingangspartij aan de Coolsingel - Rotterdam - 20533912 - RCE.jpg"
+  ]
+ },
+ "luiz-de-bessa-state-public-library": {
+  "category": "Category:Biblioteca Pública Estadual Luiz de Bessa",
+  "add": [
+   "File:Biblioteca Pública Estadual Luiz de Bessa, 2022.jpg",
+   "File:Biblioteca Pública Estadual Luiz de Bessa, Belo Horizonte, Brasil .JPG"
+  ],
+  "skip": [
+   "File:O Encontro Marcado, Biblioteca Pública Estadual Luiz de Bessa, Belo Horizonte, Brasil 0.JPG",
+   "File:Biblioteca Luís de Bessa - Belo Horizonte - 20250930173219.jpg"
+  ]
+ },
+ "turku-main-library": {
+  "category": "Category:Turku Main Library",
+  "add": [
+   "File:Turun kaupunginkirjaston päärakennus.jpg"
+  ]
+ },
+ "wall-house-ii": {
+  "category": "Category:Wall House 2",
+  "add": [
+   "File:Wall House2.JPG",
+   "File:Wall House 2, Groningen - Netherland.jpg"
+  ],
+  "skip": [
+   "File:Wall House 2 - interieur.jpg"
+  ]
+ },
+ "cafe-era": {
+  "category": "Category:Café Era",
+  "add": [
+   "File:Brno - Zemědělská, kavárna ERA, 2026-03, obr01.jpg"
+  ],
+  "skip": [
+   "File:Kavárna Era, Brno Zemědělská - rekonstrukce 1.jpg"
+  ]
+ },
+ "new-town-hall-in-jablonec-nad-nisou": {
+  "category": "Category:New Town Hall in Jablonec nad Nisou",
+  "add": [
+   "File:Jablonec-Gablonz-Rathaus-3.jpg"
+  ]
+ },
+ "haskova-vila": {
+  "category": "Category:Háskova vila",
+  "add": [
+   "File:Jablonecké Paseky - Háskova vila čp. 449 (1).jpg",
+   "File:Jablonecké Paseky - Háskova vila čp. 449 (2).jpg",
+   "File:Jablonecké Paseky - Háskova vila čp. 449 (4).jpg"
+  ]
+ },
+ "thiel-gallery": {
+  "category": "Category:Thielska galleriet",
+  "add": [
+   "File:Thielska galleriet April 2015.jpg"
+  ],
+  "skip": [
+   "File:Bruno Liljefors - Swans 1906 TG 267.jpg"
+  ]
+ },
+ "mercado-central-valencia": {
+  "category": "Category:Mercat Central de València",
+  "add": [
+   "File:Mercado Central, Valencia, España, 2014-06-30, DD 108.JPG",
+   "File:20211115.Valencia.-076.1.jpg"
+  ],
+  "skip": [
+   "File:Aceites de oliva en puesto del Mercado Central de Valencia 01.jpg",
+   "File:Aceites de oliva en puesto del Mercado Central de Valencia 02.jpg"
+  ]
+ },
+ "hans-christian-andersen-museum": {
+  "category": "Category:Hans Christian Andersen Museum",
+  "add": [
+   "File:Odense stad 2022 1.jpg",
+   "File:Odense stad 2022 2.jpg",
+   "File:Odense 103.jpg",
+   "File:Odense stad 2022 3.jpg"
+  ],
+  "skip": [
+   "File:Odense 103.jpg",
+   "File:Hans Christian Andersen Birthplace, Odense, Denmark.jpg",
+   "File:Hans Jensens Stræde, Odense 01.jpg",
+   "File:H.C. Andersens Barndomshjemmet.JPG"
+  ]
+ },
+ "vessel-structure": {
+  "category": "Category:Vessel (structure)",
+  "add": [
+   "File:Hudson Yards Plaza March 2019 18.jpg",
+   "File:At New York City 2023 021.jpg",
+   "File:At New York City 2023 020.jpg"
+  ],
+  "skip": [
+   "File:Hudson Yards The Vessel Snowstorm 2020 (50732620808).jpg"
+  ]
+ },
+ "naturbornholm": {
+  "category": "Category:NaturBornholm",
+  "add": [
+   "File:Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG",
+   "File:NaturBornholm Aakirkeby 001.jpg"
+  ],
+  "skip": [
+   "File:Paleosuchus palpebrosus Trachemys scripta elegans.jpg",
+   "File:NaturBornholm Huayangosaurus.jpg",
+   "File:Skamieniałe dno morskie - panorama - panoramio.jpg"
+  ]
+ },
+ "beaty-biodiversity-museum": {
+  "category": "Category:Beaty Biodiversity Museum",
+  "add": [
+   "File:Beaty Biodiversity Museum.jpg",
+   "File:Beaty Biodiversity Museum 1.jpg",
+   "File:Beaty Biodiversity Museum exterior 2.JPG"
+  ],
+  "skip": [
+   "File:Cone snail shells (48308112027).jpg",
+   "File:GardenPea.JPG"
+  ]
+ },
+ "kiruna-city-hall": {
+  "category": "Category:Kiruna stadshus",
+  "add": [
+   "File:Kiruna nya stadshus 01.jpg"
+  ]
+ },
+ "knarvik-church": {
+  "category": "Category:Knarvik kirke",
+  "add": [
+   "File:RRA Knarvik-17©Hundven-Clements Photography.jpg"
+  ],
+  "skip": [
+   "File:Knarvik kyrkje beingrind.JPG"
+  ]
+ },
+ "museum-of-glass": {
+  "category": "Category:Museum of Glass",
+  "add": [
+   "File:Museum of Glass, Washington.jpg",
+   "File:Museum of Glass 1 (Tacoma, Washington).jpg",
+   "File:Museum of Glass (Tacoma, Washington).jpg"
+  ],
+  "skip": [
+   "File:Color block living (24155743389).jpg",
+   "File:Tacoma Museum of Glass Bridge Ceiling Art - panoramio.jpg"
+  ]
+ },
+ "seacity-museum": {
+  "category": "Category:SeaCity Museum",
+  "add": [
+   "File:SeaCity Museum.jpg",
+   "File:SeaCity Museum - Pavilion.jpg",
+   "File:SeaCity Museum 20180619.jpg"
+  ]
+ },
+ "kagawa-prefectural-higashiyama-kaii-setouchi-art-museum": {
+  "category": "Category:Kagawa Prefectural Higashiyama Kaii Setouchi Art Museum",
+  "add": [
+   "File:Kphsam01s3872.jpg",
+   "File:せとうち美術館-1.jpg"
+  ]
+ },
+ "phoenix-center": {
+  "category": "Category:Phoenix Center, Beijing",
+  "add": [
+   "File:Phoenix Center, Beijing 1.jpg"
+  ],
+  "skip": [
+   "File:Phoenix Center 20250107 134440.jpg"
+  ]
+ },
+ "fukui-prefectural-varve-museum": {
+  "category": "Category:Fukui Prefectural Varve Museum",
+  "add": [
+   "File:Fukui Prefectural Varve Museum Exterior View.jpg",
+   "File:Fukui Prefectural Varve Museum Exterior View 2.jpg",
+   "File:Fukui Prefectural Varve Museum Interior View.jpg"
+  ]
+ },
+ "nottingham-contemporary": {
+  "category": "Category:Nottingham Contemporary",
+  "add": [
+   "File:Nottingham Contemporary - 31 July 2026.jpg",
+   "File:Nottingham Contemporary (1) - 31 July 2026.jpg"
+  ],
+  "skip": [
+   "File:Wuh? (8222494464).jpg",
+   "File:Contemporary Tram - panoramio.jpg",
+   "File:Under the tramway, Nottingham (geograph 8028918).jpg"
+  ]
+ },
+ "zaryadye-concert-hall": {
+  "category": "Category:Zaryadye Concert Hall",
+  "add": [
+   "File:Moscow - 2026 - Zaryadye Concert Hall.jpg",
+   "File:Moscow - View from Raushskaya embankment to Moskvoretskaya embankment.jpg",
+   "File:Зал Зарядье. Вид со стороны парка \"Зарядье\".jpg"
+  ]
+ },
+ "casals-forum": {
+  "category": "Category:Casals Forum",
+  "add": [
+   "File:Das Casals Forum (Konzertsaal mit angegliedertem Studien- und Verwaltungszentrum), der Sitz der Kronberg Academy. ©Sára Timár.jpg",
+   "File:Casals Forum, Kronberg, with sculpture.jpg"
+  ],
+  "skip": [
+   "File:Kronberg, Casals Forum im Bau.jpg"
+  ]
+ },
+ "british-antique-museum-kamakura": {
+  "category": "Category:British Antique Museum Kamakura",
+  "add": [
+   "File:BAM外観.jpg",
+   "File:BAM Kamakura.jpg"
+  ],
+  "skip": [
+   "File:4th Floor 蓄音機.jpg"
+  ]
+ },
+ "fjordenhus": {
+  "category": "Category:Fjordenhus",
+  "add": [
+   "File:Fjordenhus 02.jpg",
+   "File:Fjordenhus 01.jpg",
+   "File:Fjordenhus 03.jpg"
+  ]
+ },
+ "paneum": {
+  "category": "Category:Paneum",
+  "add": [
+   "File:Paneum-4797 (02).jpg",
+   "File:Backaldrin Paneum DJI 0202a.jpg",
+   "File:Paneum - muzeum chleba.jpg"
+  ]
+ },
+ "boekenberg": {
+  "category": "Category:Boekenberg",
+  "add": [
+   "File:De boekenberg grote bibliotheek in Spijkenisse.jpg",
+   "File:De Boekenberg - Spijkenisse -april 2012- (6970184928).jpg",
+   "File:De Boekenberg - Spijkenisse -april 2012- (6970187590).jpg"
+  ],
+  "skip": [
+   "File:Heleen van Royen tijdens een presentatie in Spijkenisse.jpg",
+   "File:De Boekenberg - Spijkenisse -april 2012- (6970205780).jpg"
+  ]
+ },
+ "valer-church": {
+  "category": "Category:Våler kirke (2015)",
+  "add": [
+   "File:Våler kirke.jpg"
+  ]
+ },
+ "polish-national-radio-symphony-orchestra-building": {
+  "category": "Category:Building of Polish National Radio Symphony Orchestra in Katowice",
+  "add": [
+   "File:Katowice NOSPR fasada 2026 (2).jpg",
+   "File:Katowice NOSPR fasada 2026.jpg",
+   "File:At Katowice 2024 437.jpg"
+  ],
+  "skip": [
+   "File:NOSPR - panoramio (1).jpg"
+  ]
+ },
+ "chiesa-di-san-giacomo-apostolo": {
+  "category": "Category:Chiesa di San Giacomo Apostolo (Ferrara, via Arginone)",
+  "add": [
+   "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 01.jpg",
+   "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 02.jpg",
+   "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 03.jpg"
+  ]
+ },
+ "cube": {
+  "category": "Category:Carbonbetonhaus Dresden",
+  "add": [
+   "File:Carbon Concete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 11.jpg",
+   "File:CUBE - Carbonhaus der TU Dresden.jpg",
+   "File:Carbon Concrete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 9.jpg"
+  ],
+  "skip": [
+   "File:20220928..Carbonbetonhaus.Dresden.-011.jpg",
+   "File:20220928..Carbonbetonhaus.Dresden.-012.jpg",
+   "File:20221012.Carbonbetonhaus.Dresden.-011.jpg"
+  ]
+ },
+ "byodo-in-museum-hoshokan": {
+  "category": "Category:Byodo-in Museum Hoshokan",
+  "add": [
+   "File:Byodoin Uji Kyoto19s3s4410.jpg",
+   "File:Byōdō-in (UJI, Kyoto) hdsr Hoshokan S5 5.jpg"
+  ]
+ },
+ "church-of-santa-maria-della-pace": {
+  "category": "Category:Santa Maria della Pace (Terni)",
+  "add": [
+   "File:TerniIppocrateSantaMariaDellaPace2.jpg",
+   "File:TerniIppocrateSantaMariaDellaPace1.jpg"
+  ]
+ },
+ "borgo-citta-nuova": {
+  "add": [
+   "File:Borgo Città Nuova di Alessandria.jpg"
+  ]
+ },
+ "rozet": {
+  "category": "Category:Rozet (Arnhem)",
+  "add": [
+   "File:Rozet-building-arnhem.JPG"
+  ],
+  "skip": [
+   "File:Rozet, Neutelings Riedijk Architecten- Beste Gebouw van het Jaar 2014 (14240613111) (2).jpg",
+   "File:WMNWEU 2026 showcase.jpg"
+  ]
+ },
+ "toyama-kirari": {
+  "category": "Category:Toyama KIRARI",
+  "add": [
+   "File:TOYAMA KIRARI exterior in the morning ac (3).jpg",
+   "File:TOYAMA KIRARI exterior in the morning ac (4).jpg"
+  ],
+  "skip": [
+   "File:TOYAMA Kirari 2019-12-09 (2) sa.jpg"
+  ]
+ },
+ "matsudai-nohbutai": {
+  "category": "Category:Matsudai Nohbutai Field Museum",
+  "add": [
+   "File:Matsudai Nohbutai.jpg"
+  ],
+  "skip": [
+   "File:Matsudai Castel 2008.jpg",
+   "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field - 44430435421.jpg",
+   "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field (29491907377).jpg",
+   "File:西洋料理店 山猫軒 - 大地の芸術祭の里 白井美穂 (283698513).jpg"
+  ]
+ },
+ "cite-des-arts": {
+  "category": "Category:Cité des arts et de la Culture de Besançon",
+  "add": [
+   "File:Cité des arts et de la Culture de Besançon.jpg",
+   "File:Cité des Arts et de la Culture de Besançon.JPG"
+  ]
+ },
+ "viborg-town-hall": {
+  "category": "Category:Viborg Rådhus",
+  "add": [
+   "File:Viborgs nye rådhus set fra vandtårnet.JPG"
+  ]
+ },
+ "zenith-de-rouen": {
+  "category": "Category:Zénith de Rouen",
+  "add": [
+   "File:Zenith de Grand Quevilly.jpg"
+  ],
+  "skip": [
+   "File:Blackrain (groupe) en première partie de Scorpions au Zénith de Rouen en Novembre 2011.jpg",
+   "File:Blackrain au Zénith de Rouen en 2011.jpg",
+   "File:Blackrain en première partie de Scorpions au Zénith de Rouen en 2011.jpg"
+  ]
+ },
+ "lourdeskapelle-salgenreute": {
+  "category": "Category:Lourdes Kapelle, Krumbach",
+  "add": [
+   "File:Lourdes Kapelle-87933.jpg",
+   "File:Lourdes Kapelle-87924.jpg",
+   "File:Lourdes Kapelle-87929.jpg"
+  ]
+ },
+ "herman-teirlinck-building": {
+  "category": "Category:Herman Teirlinckgebouw",
+  "add": [
+   "File:Brussel-Herman Teirlinckgebouw (3).jpg",
+   "File:2018brussel 25.jpg",
+   "File:2018brussel 30.jpg"
+  ]
+ },
+ "sandels-culture-house": {
+  "category": "Category:Sandels Culture House",
+  "add": [
+   "File:Kulttuuritalo Sandels 1.JPG",
+   "File:Musik- och kulturskolan Sandels och Tölö gymnasium ”Lönkan” 04.png",
+   "File:Kulttuuritalo Sandels 3.JPG"
+  ]
+ },
+ "gerald-ratner-athletics-center": {
+  "category": "Category:Gerald Ratner Athletics Center",
+  "add": [
+   "File:20071123 Ratner Center.jpg",
+   "File:University of Chicago July 2013 43 (Ratner Athletics Center).jpg",
+   "File:University of Chicago July 2013 47 (Ratner Athletics Center).jpg"
+  ]
+ },
+ "mcnamara-alumni-center": {
+  "category": "Category:McNamara Alumni Center",
+  "add": [
+   "File:McNamara Alumni Center 20.jpg"
+  ]
+ },
+ "zentralgebaeude-leuphana": {
+  "category": "Category:Zentralgebäude (Leuphana)",
+  "add": [
+   "File:Zentralgebäude (Leuphana).jpg",
+   "File:Leuphana Building.jpg",
+   "File:Leuphana1.jpg"
+  ]
+ },
+ "trinity-river-audubon-center": {
+  "category": "Category:Trinity River Audubon Center",
+  "add": [
+   "File:Trinity Audubon Center.jpg"
+  ]
+ },
+ "mosaic-tile-museum-tajimi": {
+  "category": "Category:MOSAIC TILE MUSEUM Tajimi",
+  "add": [
+   "File:Mosaic Tile Museum Tajimi exterior ac.jpg"
+  ],
+  "skip": [
+   "File:Kasahara mosaic tile art 2019-12 ac (4).jpg",
+   "File:Kasahara mosaic tile art 2019-12 ac (5).jpg"
+  ]
+ },
+ "maison-folie-de-wazemmes": {
+  "category": "Category:Maison folie de Wazemmes",
+  "add": [
+   "File:Lille maison folie de wazemmes.jpg",
+   "File:Wazemmes maisonfolie.jpg"
+  ]
+ },
+ "monastery-of-siloe": {
+  "category": "Category:Monastery of Siloe",
+  "add": [
+   "File:Monastero di Siloe.jpg",
+   "File:Foresteria del Pellegrino.jpg"
+  ]
+ },
+ "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya": {
+  "category": "Category:Sede de Osakidetza, Bilbao",
+  "add": [
+   "File:Bilbao - Sede de Osakidetza (Servicio Vasco de Salud) 02.jpg",
+   "File:Bilbao - Sede Osakidetza (28716420554).jpg",
+   "File:Basque Health Department Headquarters, Bilbao by Coll-Barreu Arquitectos (32114805065).jpg"
+  ]
+ },
+ "centre-for-interactive-research-on-sustainability": {
+  "add": [
+   "File:CIRS Building UBC.jpg"
+  ]
+ },
+ "maritime-centre-vellamo": {
+  "category": "Category:Maritime Centre Vellamo",
+  "add": [
+   "File:Sea museum Vellamo.JPG",
+   "File:Maritime Centre Vellamo, Kotka (52614726611).jpg"
+  ],
+  "skip": [
+   "File:Maritime Centre Vellamo, Kotka (52614098507).jpg",
+   "File:Old bell in Vellamo.jpg",
+   "File:Fresnel lens Vellamo 1.JPG",
+   "File:SS Arcturus model.jpg"
+  ]
+ },
+ "iki-city-ikikoku-museum": {
+  "category": "Category:Iki City Ikikoku Museum",
+  "add": [
+   "File:Ikicityikikokumuseum.jpg"
+  ]
+ },
+ "fondazione-bertarelli-concert-hall": {
+  "category": "Category:Forum Fondazione Bertarelli",
+  "add": [
+   "File:Bertarelli Concert Hall Cinigiano.jpg"
   ]
  }
 }

@@ -1,0 +1,1132 @@
+[
+ {
+  "id": "forum-building",
+  "qid": "Q2842986",
+  "name": "Forum Building",
+  "why": "no sourced year",
+  "entry": {
+   "id": "forum-building",
+   "qid": "Q2842986",
+   "status": "photo",
+   "why": "Herzog & de Meuron landmark named in the lead; the photos show the building in daylight. Year not in lead.",
+   "name": "Forum Building",
+   "by": "Herzog & de Meuron",
+   "city": "Barcelona",
+   "cc": "ES",
+   "year": null,
+   "type": "Culture & sport",
+   "movement": "Contemporary",
+   "concepts": [
+    "Geometry",
+    "Monumentality",
+    "Sculptural form"
+   ],
+   "features": "Herzog & de Meuron's triangular landmark, 180 metres a side, symbol of Barcelona's 2004 Universal Forum.",
+   "commons_category": "Category:Forum Building",
+   "coords": [
+    41.41101,
+    2.22092
+   ],
+   "photos": [
+    {
+     "file": "File:Barcelona 2006 (2845523246).jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    },
+    {
+     "file": "File:Edifici Fòrum Barcelona Catalonia.jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    },
+    {
+     "file": "File:Barcelona 2006 (2845523526).jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Forum_Building",
+    "https://www.wikidata.org/wiki/Q2842986"
+   ]
+  }
+ },
+ {
+  "id": "praca-da-apoteose",
+  "qid": "Q7239115",
+  "name": "Praça da Apoteose",
+  "why": "no main photo",
+  "entry": {
+   "id": "praca-da-apoteose",
+   "qid": "Q7239115",
+   "status": "photo",
+   "why": "Niemeyer square; an event venue, so check it. The lead gives the design date; the year is not given.",
+   "name": "Praça da Apoteose",
+   "by": "Oscar Niemeyer",
+   "city": "Rio de Janeiro",
+   "cc": "BR",
+   "year": null,
+   "type": "Public space",
+   "movement": "Modernism",
+   "concepts": [
+    "Sculptural form",
+    "Monumentality",
+    "Public space"
+   ],
+   "features": "A Niemeyer square in Rio's Sambadrome, designed in 1983, that holds concerts and events for tens of thousands.",
+   "commons_category": null,
+   "coords": [
+    -22.91337,
+    -43.19615
+   ],
+   "photos": [
+    {
+     "file": "File:Apoteose do Tiro com Arco.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pra%C3%A7a_da_Apoteose",
+    "https://www.wikidata.org/wiki/Q7239115"
+   ]
+  }
+ },
+ {
+  "id": "salerno-courthouse",
+  "qid": "Q16541977",
+  "name": "Salerno Courthouse",
+  "why": "no sourced year",
+  "entry": {
+   "id": "salerno-courthouse",
+   "qid": "Q16541977",
+   "status": "photo",
+   "why": "Chipperfield courthouse; the lead describes the six buildings. Daylight photos of the whole complex. No year in lead.",
+   "name": "Salerno Courthouse",
+   "by": "David Chipperfield",
+   "city": "Salerno",
+   "cc": "IT",
+   "year": null,
+   "type": "Civic",
+   "movement": "Contemporary",
+   "concepts": [
+    "Courtyard",
+    "Public space",
+    "Facade as skin"
+   ],
+   "features": "Six buildings linked by porticoes and courtyards, set on a black stone public square.",
+   "commons_category": "Category:Cittadella giudiziaria (Salerno)",
+   "coords": [
+    40.6784,
+    14.7743
+   ],
+   "photos": [
+    {
+     "file": "File:Cittadellagiudiziaria1.JPG",
+     "license": "Public domain",
+     "seen": true
+    },
+    {
+     "file": "File:CittadellagiudiziariaedificioAeB.JPG",
+     "license": "Public domain",
+     "seen": true
+    },
+    {
+     "file": "File:Cittadella giudiziaria salerno.jpg",
+     "license": "CC BY 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Salerno_Courthouse",
+    "https://www.wikidata.org/wiki/Q16541977"
+   ]
+  }
+ },
+ {
+  "id": "chapel-of-st-basil",
+  "qid": "Q5073081",
+  "name": "Chapel of St. Basil",
+  "why": "no sourced year",
+  "entry": {
+   "id": "chapel-of-st-basil",
+   "qid": "Q5073081",
+   "status": "photo",
+   "why": "Johnson, a well-known architect; the lead is short. Lead gives only a design year, so the year is left null.",
+   "name": "Chapel of St. Basil",
+   "by": "Philip Johnson",
+   "city": "Houston",
+   "cc": "US",
+   "year": null,
+   "type": "Religious",
+   "movement": "Postmodernism",
+   "concepts": [
+    "Sculptural form",
+    "Light & shadow",
+    "Landscape"
+   ],
+   "features": "Philip Johnson's chapel on the University of St. Thomas campus in Houston, Texas.",
+   "commons_category": "Category:Chapel of St. Basil, Houston",
+   "coords": [
+    29.7384,
+    -95.3932
+   ],
+   "photos": [
+    {
+     "file": "File:2024-0105-Chapel of St. Basil west elevation.jpg",
+     "license": "CC BY 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:2024-0105-Chapel of St. Basil north elevation.jpg",
+     "license": "CC BY 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chapel_of_St._Basil",
+    "https://www.wikidata.org/wiki/Q5073081"
+   ]
+  }
+ },
+ {
+  "id": "procuradoria-geral-da-republica",
+  "qid": "Q10369343",
+  "name": "Procuradoria Geral da República",
+  "why": "no sourced year",
+  "entry": {
+   "id": "procuradoria-geral-da-republica",
+   "qid": "Q10369343",
+   "status": "photo",
+   "why": "Niemeyer complex; the lead describes it and its postmodern character. No year in lead or prep.",
+   "name": "Procuradoria Geral da República",
+   "by": "Oscar Niemeyer",
+   "city": "Brasília",
+   "cc": "BR",
+   "year": null,
+   "type": "Civic",
+   "movement": "Postmodernism",
+   "concepts": [
+    "Facade as skin",
+    "Sculptural form",
+    "Steel & glass"
+   ],
+   "features": "Niemeyer's Brasília headquarters for Brazil's public prosecutors, among his most controversial works.",
+   "commons_category": "Category:Procuradoria Geral da República (building)",
+   "coords": [
+    -15.80772,
+    -47.85955
+   ],
+   "photos": [
+    {
+     "file": "File:Webysther 20180212174501 - PGR - Procuradoria Geral da República.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Sede da Procuradoria Geral da República Brasileira (Attorney General's Office), 2002.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:110423 brasilia - 10.jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/Sede_de_la_Procuradur%C3%ADa_General_de_la_Rep%C3%BAblica_de_Brasil",
+    "https://www.wikidata.org/wiki/Q10369343"
+   ]
+  }
+ },
+ {
+  "id": "biblioteca-nacional-de-brasilia",
+  "qid": "Q16498203",
+  "name": "Biblioteca Nacional de Brasília",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "biblioteca-nacional-de-brasilia",
+   "qid": "Q16498203",
+   "status": "photo",
+   "why": "Niemeyer built work; the lead describes the open space and water mirrors. No year in lead or prep.",
+   "name": "Biblioteca Nacional de Brasília",
+   "by": "Oscar Niemeyer",
+   "city": "Brasília",
+   "cc": "BR",
+   "year": null,
+   "type": "Library",
+   "movement": "Modernism",
+   "concepts": [
+    "Sculptural form",
+    "Public space",
+    "Water"
+   ],
+   "features": "National library on Brasília's Esplanade of Ministries, with an open outdoor area of seats and water mirrors.",
+   "commons_category": "Category:Biblioteca Nacional de Brasília",
+   "coords": [
+    -15.79674,
+    -47.88017
+   ],
+   "photos": [
+    {
+     "file": "File:Brasília - Biblioteca Nacional (1).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Brasília - Biblioteca Nacional (12).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Brasilia",
+    "https://www.wikidata.org/wiki/Q16498203"
+   ]
+  }
+ },
+ {
+  "id": "sankt-ursula-kalscheuren",
+  "qid": "Q59618",
+  "name": "Sankt Ursula (Kalscheuren)",
+  "why": "no sourced year",
+  "entry": {
+   "id": "sankt-ursula-kalscheuren",
+   "qid": "Q59618",
+   "status": "photo",
+   "why": "Böhm, a well-known architect; the lead gives the listing and the 2006 sale. No year in lead or prep.",
+   "name": "Sankt Ursula (Kalscheuren)",
+   "by": "Gottfried Böhm",
+   "city": "Hürth",
+   "cc": "DE",
+   "year": null,
+   "type": "Religious",
+   "movement": "Late modernism",
+   "concepts": [
+    "Sculptural form",
+    "Exposed concrete",
+    "Light & shadow"
+   ],
+   "features": "A listed former parish church by Gottfried Böhm, deconsecrated in 2006 and now a gallery space.",
+   "commons_category": "Category:St. Ursula (Kalscheuren)",
+   "coords": [
+    50.8773,
+    6.90657
+   ],
+   "photos": [
+    {
+     "file": "File:St. Ursula Kalscheuren.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:St. Ursula, Hürth-Kalscheuren 2009-1.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/St._Ursula_%28Kalscheuren%29",
+    "https://www.wikidata.org/wiki/Q59618"
+   ]
+  }
+ },
+ {
+  "id": "burgerhaus-bergischer-lowe",
+  "qid": "Q1021107",
+  "name": "Bürgerhaus Bergischer Löwe",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "burgerhaus-bergischer-lowe",
+   "qid": "Q1021107",
+   "status": "photo",
+   "why": "Gottfried Böhm's building (well-known architect; lead short, no date, so year null); main photo shows the whole building.",
+   "name": "Bürgerhaus Bergischer Löwe",
+   "by": "Gottfried Böhm, Ludwig Bopp",
+   "city": "Bergisch Gladbach",
+   "cc": "DE",
+   "year": null,
+   "type": "Civic",
+   "movement": "Postmodernism",
+   "concepts": [
+    "Brick",
+    "Public space",
+    "Sculptural form"
+   ],
+   "features": "A dining and events centre in Bergisch Gladbach, named after the heraldic lion of the old Duchy of Berg.",
+   "commons_category": "Category:Bürgerhaus Bergischer Löwe",
+   "coords": [
+    50.9911,
+    7.13099
+   ],
+   "photos": [
+    {
+     "file": "File:Bergisch Gladbach - Bürgerhaus Bergischer Löwe (Gottfried Böhm) - 2.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Bergisch Gladbach - Bürgerhaus Bergischer Löwe 01 ies.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Bergisch Gladbach - Bürgerhaus Bergischer Löwe 02 ies.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/B%C3%BCrgerhaus_Bergischer_L%C3%B6we",
+    "https://www.wikidata.org/wiki/Q1021107"
+   ]
+  }
+ },
+ {
+  "id": "obra-do-berco",
+  "qid": "Q10340046",
+  "name": "Obra do Berço",
+  "why": "no sourced year",
+  "entry": {
+   "id": "obra-do-berco",
+   "qid": "Q10340046",
+   "status": "photo",
+   "why": "Niemeyer's first project after graduating, per the lead; year not in the lead, so null; main photo shows the building.",
+   "name": "Obra do Berço",
+   "by": "Oscar Niemeyer",
+   "city": "Rio de Janeiro",
+   "cc": "BR",
+   "year": null,
+   "type": "Civic",
+   "movement": "Modernism",
+   "concepts": [
+    "Community",
+    "Light & shadow",
+    "Facade as skin"
+   ],
+   "features": "Niemeyer's first project after graduating: the Rio headquarters of a charity caring for babies, children and mothers at social risk.",
+   "commons_category": "Category:Obra do Berço",
+   "coords": [
+    -22.96364,
+    -43.20358
+   ],
+   "photos": [
+    {
+     "file": "File:Obra do Berço - Rio de Janeiro - 20230910163032.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Obra do Berço - Rio de Janeiro - 20230910163201.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://pt.wikipedia.org/wiki/Obra_do_Ber%C3%A7o",
+    "https://www.wikidata.org/wiki/Q10340046"
+   ]
+  }
+ },
+ {
+  "id": "centro-direzionale-di-fontivegge",
+  "qid": "Q104902186",
+  "name": "Centro Direzionale di Fontivegge",
+  "why": "no main photo",
+  "entry": {
+   "id": "centro-direzionale-di-fontivegge",
+   "qid": "Q104902186",
+   "status": "photo",
+   "why": "Aldo Rossi's built complex (well-known architect; lead short, no date, so year null); main photo shows the building.",
+   "name": "Centro Direzionale di Fontivegge",
+   "by": "Aldo Rossi, Gianni Braghieri",
+   "city": "Perugia",
+   "cc": "IT",
+   "year": null,
+   "type": "Civic",
+   "movement": "Postmodernism",
+   "concepts": [
+    "Monumentality",
+    "Public space",
+    "Facade as skin"
+   ],
+   "features": "A modern complex of public, commercial and residential buildings near Perugia's Fontivegge railway station.",
+   "commons_category": "Category:Centro Direzionale di Fontivegge",
+   "coords": [
+    43.1057,
+    12.3762
+   ],
+   "photos": [
+    {
+     "file": "File:Perugia, Italy - panoramio - Umbria ws (1).jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Perugia, Italy - panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Centro_Direzionale_di_Fontivegge",
+    "https://www.wikidata.org/wiki/Q104902186"
+   ]
+  }
+ },
+ {
+  "id": "the-marnix",
+  "qid": "Q109947786",
+  "name": "The Marnix",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "the-marnix",
+   "qid": "Q109947786",
+   "status": "photo",
+   "why": "Lead names Gordon Bunshaft as designer and 1960 as completion; main photo shows the whole office block.",
+   "name": "The Marnix",
+   "by": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
+   "city": "Brussels",
+   "cc": "BE",
+   "year": 1960,
+   "type": "Office & tower",
+   "movement": "Modernism",
+   "concepts": [
+    "Facade as skin",
+    "Modular",
+    "Light & shadow"
+   ],
+   "features": "Modernist office block in Brussels, completed in 1960, now the headquarters of ING Belgium.",
+   "commons_category": "Category:The Marnix",
+   "coords": [
+    50.83944,
+    4.36589
+   ],
+   "photos": [
+    {
+     "file": "File:Foto gebouw Banque Brussel Lambert genomen op 17.06.2002 door Illa De Preter.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Belgique - Bruxelles - Siège de la Banque Lambert - 01.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Belgique - Bruxelles - Siège de la Banque Lambert - 02.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://nl.wikipedia.org/wiki/Marnixgebouw",
+    "https://www.wikidata.org/wiki/Q109947786"
+   ]
+  }
+ },
+ {
+  "id": "toyonokuni-libraries-for-cultural-resources",
+  "qid": "Q11633180",
+  "name": "Toyonokuni Libraries for Cultural Resources",
+  "why": "no sourced year",
+  "entry": {
+   "id": "toyonokuni-libraries-for-cultural-resources",
+   "qid": "Q11633180",
+   "status": "photo",
+   "why": "Isozaki's complex, designed by the Oita-born architect named in the lead; year not in the lead, so null; main photo shows the building.",
+   "name": "Toyonokuni Libraries for Cultural Resources",
+   "by": "Arata Isozaki",
+   "city": "Oita",
+   "cc": "JP",
+   "year": null,
+   "type": "Library",
+   "movement": "Postmodernism",
+   "concepts": [
+    "Monumentality",
+    "Public space",
+    "Facade as skin"
+   ],
+   "features": "A prefectural library, archives and historical-materials museum in one complex, designed by Oita-born Arata Isozaki.",
+   "commons_category": "Category:Toyonokuni Libraries for Culture Resources",
+   "coords": [
+    33.2395,
+    131.59
+   ],
+   "photos": [
+    {
+     "file": "File:Oita Prefectural Library ac (2).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Oita Prefectural Library ac (3).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Oita Prefectural Library ac (1).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E8%B1%8A%E3%81%AE%E5%9B%BD%E6%83%85%E5%A0%B1%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC",
+    "https://www.wikidata.org/wiki/Q11633180"
+   ]
+  }
+ },
+ {
+  "id": "shangyin-opera-house",
+  "qid": "Q136206167",
+  "name": "Shangyin Opera House",
+  "why": "no sourced year",
+  "entry": {
+   "id": "shangyin-opera-house",
+   "qid": "Q136206167",
+   "status": "photo",
+   "why": "Designed by Portzamparc's office with Tongji University (lead); year not in the lead, so null; main photo shows the whole opera house.",
+   "name": "Shangyin Opera House",
+   "by": "Christian de Portzamparc",
+   "city": "Shanghai",
+   "cc": "CN",
+   "year": null,
+   "type": "Culture & sport",
+   "movement": "Contemporary",
+   "concepts": [
+    "Facade as skin",
+    "Public space",
+    "Sculptural form"
+   ],
+   "features": "Designed jointly by Portzamparc's office and Tongji University's design institute, with a 1,200-seat opera hall.",
+   "commons_category": "Category:Shangyin Opera House",
+   "coords": [
+    31.21643,
+    121.45073
+   ],
+   "photos": [
+    {
+     "file": "File:Shangyin Opera House (20191021081912).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://zh.wikipedia.org/wiki/%E4%B8%8A%E9%9F%B3%E6%AD%8C%E5%89%A7%E9%99%A2",
+    "https://www.wikidata.org/wiki/Q136206167"
+   ]
+  }
+ },
+ {
+  "id": "biblioteca-municipal-de-viana-do-castelo",
+  "qid": "Q17318051",
+  "name": "Biblioteca Municipal de Viana do Castelo",
+  "why": "no sourced year",
+  "entry": {
+   "id": "biblioteca-municipal-de-viana-do-castelo",
+   "qid": "Q17318051",
+   "status": "photo",
+   "why": "Siza's public library (lead names him); no year in the lead, so null; main photo shows the whole building.",
+   "name": "Biblioteca Municipal de Viana do Castelo",
+   "by": "Álvaro Siza Vieira",
+   "city": "Viana do Castelo",
+   "cc": "PT",
+   "year": null,
+   "type": "Library",
+   "movement": "Contemporary",
+   "concepts": [
+    "Cantilever",
+    "Light & shadow",
+    "Public space"
+   ],
+   "features": "Álvaro Siza's public library on the riverside edge of Viana do Castelo's Praça da Liberdade.",
+   "commons_category": "Category:Biblioteca Municipal de Viana do Castelo",
+   "coords": [
+    41.69146,
+    -8.82679
+   ],
+   "photos": [
+    {
+     "file": "File:Biblioteca Municipal de Viana do Castelo.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Viana do Castelo Portugal.jpg",
+     "license": "CC0",
+     "seen": true
+    },
+    {
+     "file": "File:Biblioteca Municipal de Viana do Castelo in 2018.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://pt.wikipedia.org/wiki/Biblioteca_Municipal_de_Viana_do_Castelo",
+    "https://www.wikidata.org/wiki/Q17318051"
+   ]
+  }
+ },
+ {
+  "id": "casa-do-cantador",
+  "qid": "Q18242623",
+  "name": "Casa do Cantador",
+  "why": "no sourced year",
+  "entry": {
+   "id": "casa-do-cantador",
+   "qid": "Q18242623",
+   "status": "photo",
+   "why": "Niemeyer's building (lead names him); no year in the lead, so null; main photo shows the whole building.",
+   "name": "Casa do Cantador",
+   "by": "Oscar Niemeyer",
+   "city": "Ceilândia",
+   "cc": "BR",
+   "year": null,
+   "type": "Culture & sport",
+   "movement": "Modernism",
+   "concepts": [
+    "Sculptural form",
+    "Structure as expression",
+    "Community"
+   ],
+   "features": "Niemeyer's Palace of Poetry, inspired by the song Asa Branca and honouring Northeastern migrants.",
+   "commons_category": "Category:Casa do Cantador",
+   "coords": null,
+   "photos": [
+    {
+     "file": "File:Casa do Cantador.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Ceilândia DF Brasil - Casa do Cantador - panoramio.jpg",
+     "license": "CC BY 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://pt.wikipedia.org/wiki/Casa_do_Cantador",
+    "https://www.wikidata.org/wiki/Q18242623"
+   ]
+  }
+ },
+ {
+  "id": "st-albert",
+  "qid": "Q2316901",
+  "name": "St. Albert",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "st-albert",
+   "qid": "Q2316901",
+   "status": "photo",
+   "why": "Short lead, but a well-known architect (Gottfried Böhm) credited; daylight photos show the arched church; no year source.",
+   "name": "St. Albert",
+   "by": "Dominikus Böhm, Gottfried Böhm",
+   "city": "Saarbrücken",
+   "cc": "DE",
+   "year": null,
+   "type": "Religious",
+   "movement": "Expressionism",
+   "concepts": [
+    "Brick",
+    "Structure as expression",
+    "Sculptural form"
+   ],
+   "features": "A Catholic parish church in Saarbrücken by Dominikus and Gottfried Böhm.",
+   "commons_category": "Category:St. Albert (Saarbrücken-Rodenhof)",
+   "coords": [
+    49.2482,
+    6.992
+   ],
+   "photos": [
+    {
+     "file": "File:Pfarrkirche St. Albert.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:20190217 St. Albert Rodenhof.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:St Albert Rodenhof.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/St._Albert_%28Saarbr%C3%BCcken%29",
+    "https://www.wikidata.org/wiki/Q2316901"
+   ]
+  }
+ },
+ {
+  "id": "logrono-town-hall",
+  "qid": "Q26257755",
+  "name": "Logroño town hall",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "logrono-town-hall",
+   "qid": "Q26257755",
+   "status": "photo",
+   "why": "Short lead, but Moneo is a well-known architect and this is his built town hall; daylight photos with the plaza; no year source.",
+   "name": "Logroño town hall",
+   "by": "Rafael Moneo",
+   "city": "Logroño",
+   "cc": "ES",
+   "year": null,
+   "type": "Civic",
+   "movement": "Regionalism",
+   "concepts": [
+    "Brick",
+    "Stone",
+    "Public space"
+   ],
+   "features": "Logroño's town hall, the seat of the city council, by Rafael Moneo.",
+   "commons_category": "Category:Town hall of Logroño",
+   "coords": [
+    42.46643,
+    -2.43926
+   ],
+   "photos": [
+    {
+     "file": "File:Ayuntamiento de Logroño.jpg",
+     "license": "CC BY-SA 2.0",
+     "seen": true
+    },
+    {
+     "file": "File:Plaza del ayuntamiento, Logroño - panoramio.jpg",
+     "license": "CC BY 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Ayuntamiento de Logroño 2025.jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/Casa_consistorial_de_Logro%C3%B1o",
+    "https://www.wikidata.org/wiki/Q26257755"
+   ]
+  }
+ },
+ {
+  "id": "51-astor-place",
+  "qid": "Q29469890",
+  "name": "51 Astor Place",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "51-astor-place",
+   "qid": "Q29469890",
+   "status": "photo",
+   "why": "Lead names Maki and gives a reason (controversial black glass, nicknamed The Death Star); daylight street photos; no year source.",
+   "name": "51 Astor Place",
+   "by": "Fumihiko Maki",
+   "city": "New York",
+   "cc": "US",
+   "year": null,
+   "type": "Office & tower",
+   "movement": "Contemporary",
+   "concepts": [
+    "Facade as skin",
+    "Steel & glass",
+    "Sculptural form"
+   ],
+   "features": "A black-glass office building in Manhattan by Fumihiko Maki, controversial for its style and nicknamed 'The Death Star'.",
+   "commons_category": "Category:51 Astor Place",
+   "coords": [
+    40.73028,
+    -73.99028
+   ],
+   "photos": [
+    {
+     "file": "File:Astor Place 2013.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:51 Astor Place (55381215980).jpg",
+     "license": "CC BY 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:51 Astor Place (51548151306).jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/51_Astor_Place",
+    "https://www.wikidata.org/wiki/Q29469890"
+   ]
+  }
+ },
+ {
+  "id": "auditorium-del-parco",
+  "qid": "Q3629510",
+  "name": "Auditorium del Parco",
+  "why": "no sourced year",
+  "entry": {
+   "id": "auditorium-del-parco",
+   "qid": "Q3629510",
+   "status": "photo",
+   "why": "Lead names Piano and gives a reason (built after the 2009 earthquake in solidarity); exterior daylight photos; no year source.",
+   "name": "Auditorium del Parco",
+   "by": "Renzo Piano",
+   "city": "L'Aquila",
+   "cc": "IT",
+   "year": null,
+   "type": "Culture & sport",
+   "movement": "Contemporary",
+   "concepts": [
+    "Community",
+    "Landscape",
+    "Timber"
+   ],
+   "features": "Renzo Piano's music and theatre complex in L'Aquila's Spanish fort park, funded by Trento after the 2009 earthquake.",
+   "commons_category": "Category:Auditorium del Parco (L'Aquila)",
+   "coords": [
+    42.35352,
+    13.4026
+   ],
+   "photos": [
+    {
+     "file": "File:Auditorium del Parco, L'Aquila, Abruzzo, Italy - panoramio.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:L'Aquila-Auditorium del Parco 02.JPG",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:L'Aquila-Auditorium del Parco 03.JPG",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:L'Aquila-Auditorium del Parco 04.JPG",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://it.wikipedia.org/wiki/Auditorium_del_Parco",
+    "https://www.wikidata.org/wiki/Q3629510"
+   ]
+  }
+ },
+ {
+  "id": "weill-institute-for-cell-and-molecular-biology",
+  "qid": "Q7980202",
+  "name": "Weill Institute for Cell and Molecular Biology",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "weill-institute-for-cell-and-molecular-biology",
+   "qid": "Q7980202",
+   "status": "photo",
+   "why": "Lead gives the initiative and twelve faculty-led teams; Meier is a well-known architect in prep; whole-building daylight photo.",
+   "name": "Weill Institute for Cell and Molecular Biology",
+   "by": "Richard Meier",
+   "city": "Ithaca",
+   "cc": "US",
+   "year": 2008,
+   "type": "Education",
+   "movement": "Modernism",
+   "concepts": [
+    "Light from above",
+    "Community",
+    "Facade as skin"
+   ],
+   "features": "The cornerstone of Cornell's $650 million life-sciences initiative, home to twelve faculty-led research teams.",
+   "commons_category": "Category:Weill Institute for Cell and Molecular Biology",
+   "coords": [
+    42.44687,
+    -76.47728
+   ],
+   "photos": [
+    {
+     "file": "File:Cornell University - Weill Institute for Cell and Molecular Biology.jpg",
+     "license": "CC BY 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Weill Hall at Cornell University.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Weill Hall atrium, Cornell University.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Weill_Institute_for_Cell_and_Molecular_Biology",
+    "https://www.wikidata.org/wiki/Q7980202"
+   ]
+  }
+ },
+ {
+  "id": "william-l-slayton-house",
+  "qid": "Q8014211",
+  "name": "William L. Slayton House",
+  "why": "no main photo",
+  "entry": {
+   "id": "william-l-slayton-house",
+   "qid": "Q8014211",
+   "status": "photo",
+   "why": "Lead names Pei and the International Style and gives a 2008 listing; one clear courtyard photo; no year source.",
+   "name": "William L. Slayton House",
+   "by": "I. M. Pei",
+   "city": "Washington, D.C.",
+   "cc": "US",
+   "year": null,
+   "type": "House",
+   "movement": "Modernism",
+   "concepts": [
+    "Courtyard",
+    "Brick",
+    "Water"
+   ],
+   "features": "A house by I.M. Pei in the International Style, listed on the National Register of Historic Places in 2008.",
+   "commons_category": null,
+   "coords": [
+    38.93655,
+    -77.06721
+   ],
+   "photos": [
+    {
+     "file": "File:Wm Slayton House DC.jpg",
+     "license": "CC0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/William_L._Slayton_House",
+    "https://www.wikidata.org/wiki/Q8014211"
+   ]
+  }
+ },
+ {
+  "id": "nariwa-museum",
+  "qid": "Q11670668",
+  "name": "Nariwa Museum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "nariwa-museum",
+   "qid": "Q11670668",
+   "status": "photo",
+   "why": "Ando museum per Wikidata (lead names no other architect); prep year 1953 is the older museum's founding, not Ando's building, so year is null. Photos show the concrete building by its pond.",
+   "name": "Nariwa Museum",
+   "by": "Tadao Ando",
+   "city": "Takahashi",
+   "cc": "JP",
+   "year": null,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Exposed concrete",
+    "Water",
+    "Landscape"
+   ],
+   "features": "A complex combining an art museum and an archaeological museum, in Takahashi, Okayama Prefecture.",
+   "commons_category": "Category:Nariwa-cho Art Museum",
+   "coords": [
+    34.78072,
+    133.53667
+   ],
+   "photos": [
+    {
+     "file": "File:Nariwa-cho museum01s4000m.jpg",
+     "license": "CC BY 2.5",
+     "seen": true
+    },
+    {
+     "file": "File:Nariwa-cho museum03s3200.jpg",
+     "license": "CC BY 2.5",
+     "seen": true
+    },
+    {
+     "file": "File:Nariwa-cho museum05s3200.jpg",
+     "license": "CC BY 2.5",
+     "seen": true
+    },
+    {
+     "file": "File:Nariwa-cho museum04s3200.jpg",
+     "license": "CC BY 2.5",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27art_Nariwa",
+    "https://www.wikidata.org/wiki/Q11670668"
+   ]
+  }
+ },
+ {
+  "id": "cubo-negro",
+  "qid": "Q56101931",
+  "name": "Cubo Negro",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "cubo-negro",
+   "qid": "Q56101931",
+   "status": "photo",
+   "why": "Johnson's black-glass cube; urban landmark per the lead; whole cube visible in daylight.",
+   "name": "Cubo Negro",
+   "by": "Philip Johnson",
+   "city": "Caracas",
+   "cc": "VE",
+   "year": null,
+   "type": "Office & tower",
+   "movement": "Late modernism",
+   "concepts": [
+    "Geometry",
+    "Facade as skin",
+    "Steel & glass"
+   ],
+   "features": "A geometric modern office building in Caracas, clad in black glass panels and a notable urban landmark.",
+   "commons_category": "Category:Cubo Negro",
+   "coords": [
+    10.48433,
+    -66.85333
+   ],
+   "photos": [
+    {
+     "file": "File:Cubo Negro 2013 001.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Cubo Negro 2013 000.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Cubo Negro 2013 003.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Centro Banaven (Cubo Negro).JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/Centro_Banaven",
+    "https://www.wikidata.org/wiki/Q56101931"
+   ]
+  }
+ }
+]

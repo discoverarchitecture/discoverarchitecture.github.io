@@ -1,0 +1,710 @@
+[
+  {
+    "id": "president-tancredo-neves-administrative-city",
+    "qid": "Q18243890",
+    "status": "unsure",
+    "why": "Niemeyer's Minas Gerais government complex, but the free photos are a night shot or close details, not a whole-building daylight view.",
+    "note": "no main photo"
+  },
+  {
+    "id": "st-albert",
+    "qid": "Q2316901",
+    "status": "photo",
+    "why": "Short lead, but a well-known architect (Gottfried Böhm) credited; daylight photos show the arched church; no year source.",
+    "name": "St. Albert",
+    "by": "Dominikus Böhm, Gottfried Böhm",
+    "city": "Saarbrücken",
+    "cc": "DE",
+    "year": null,
+    "type": "Religious",
+    "movement": "Expressionism",
+    "concepts": [
+      "Brick",
+      "Structure as expression",
+      "Sculptural form"
+    ],
+    "features": "A Catholic parish church in Saarbrücken by Dominikus and Gottfried Böhm.",
+    "commons_category": "Category:St. Albert (Saarbrücken-Rodenhof)",
+    "coords": [
+      49.2482,
+      6.992
+    ],
+    "photos": [
+      {
+        "file": "File:Pfarrkirche St. Albert.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:20190217 St. Albert Rodenhof.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:St Albert Rodenhof.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-gertrud",
+    "qid": "Q2318650",
+    "status": "photo",
+    "why": "Lead names Böhm, dates the build 1962-65 and gives a 1967 prize; daylight photos of the tower and concrete.",
+    "name": "St. Gertrud",
+    "by": "Gottfried Böhm",
+    "city": "Cologne",
+    "cc": "DE",
+    "year": 1965,
+    "type": "Religious",
+    "movement": "Brutalism",
+    "concepts": [
+      "Exposed concrete",
+      "Sculptural form",
+      "Structure as expression"
+    ],
+    "features": "A Brutalist concrete church in Cologne by Gottfried Böhm, built 1962 to 1965, given Cologne's architecture prize in 1967.",
+    "commons_category": "Category:St. Gertrud (Köln)",
+    "coords": [
+      50.9519,
+      6.95181
+    ],
+    "photos": [
+      {
+        "file": "File:St gertrud koeln ostseite mit turm 20090911.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:St. Gertrud, Köln - 8592.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:St. Gertrud, Köln - 8590.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-johannes-baptist",
+    "qid": "Q2319309",
+    "status": "unsure",
+    "why": "Gottfried Böhm parish church in Rheda-Wiedenbrück; the lead does not describe the building, and prep has no photos at all.",
+    "note": "no main photo"
+  },
+  {
+    "id": "st-josef",
+    "qid": "Q2319597",
+    "status": "photo",
+    "why": "Lead names Böhm and says built 1957-1959 (year taken as the end of the build); listed; photos clear.",
+    "name": "St. Josef",
+    "by": "Gottfried Böhm",
+    "city": "Grevenbroich",
+    "cc": "DE",
+    "year": 1959,
+    "type": "Religious",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Sculptural form",
+      "Structure as expression"
+    ],
+    "features": "A parish church in Grevenbroich, listed as a monument in 2007, planned by Gottfried Böhm.",
+    "commons_category": "Category:St. Josef (Grevenbroich)",
+    "coords": [
+      51.0805,
+      6.605
+    ],
+    "photos": [
+      {
+        "file": "File:Grevenbroich St. Joseph 1 2009.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Grevenbroich, Südstadt, St. Josef, 2008.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Grevenbroich St. Joseph 2 2009.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "st-maria-himmelfahrt",
+    "qid": "Q2320983",
+    "status": "skip",
+    "why": "Neo-Gothic church by Caspar Clemens Pickel, 1890-92; the lead gives no reason it matters, and Gottfried Böhm is only a later name."
+  },
+  {
+    "id": "st-matthaus",
+    "qid": "Q2321428",
+    "status": "photo",
+    "why": "Lead names Böhm, built 1968-1970, and calls it a major example of modern church architecture; whole-church daylight photos.",
+    "name": "St. Matthäus",
+    "by": "Gottfried Böhm",
+    "city": "Düsseldorf",
+    "cc": "DE",
+    "year": 1970,
+    "type": "Religious",
+    "movement": "Expressionism",
+    "concepts": [
+      "Brick",
+      "Colour",
+      "Sculptural form"
+    ],
+    "features": "A Catholic parish church in Garath, Düsseldorf, by Gottfried Böhm, counted among major examples of modern church architecture.",
+    "commons_category": "Category:St. Matthäus (Düsseldorf-Garath)",
+    "coords": [
+      51.1387,
+      6.89926
+    ],
+    "photos": [
+      {
+        "file": "File:St. Matthaeus in Duesseldorf-Garath, von Sueden.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:St. Matthäus in Düsseldorf-Garath 6.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:St. Matthäus in Düsseldorf-Garath 4.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:St. Matthäus in Düsseldorf-Garath 2.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "stiftsruine-bad-hersfeld",
+    "qid": "Q2348846",
+    "status": "skip",
+    "why": "A ruin of an abbey church; ruins are not on the wall."
+  },
+  {
+    "id": "tour-horizons",
+    "qid": "Q2371224",
+    "status": "photo",
+    "why": "Lead gives a reason (three very different buildings stacked, won in competition by Nouvel), delivered June 2011; daylight photos.",
+    "name": "Tour Horizons",
+    "by": "Jean Nouvel",
+    "city": "Boulogne-Billancourt",
+    "cc": "FR",
+    "year": 2011,
+    "type": "Office & tower",
+    "movement": "Contemporary",
+    "concepts": [
+      "Cluster",
+      "Sculptural form",
+      "Facade as skin"
+    ],
+    "features": "Three stacked buildings of very different styles make one tower in Boulogne-Billancourt, won by Jean Nouvel in competition.",
+    "commons_category": "Category:Tour Horizons",
+    "coords": [
+      48.8279,
+      2.23384
+    ],
+    "photos": [
+      {
+        "file": "File:Billancourt–Rives de Seine, 92100 Boulogne-Billancourt, France - panoramio (1).jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Tours Horizons.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Tours Horizons, Boulogne-Boulogne-Billancourt.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "olympic-roof-munich",
+    "qid": "Q23786907",
+    "status": "photo",
+    "why": "Lead names the team, built for 1972 and listed; a famous tensile roof; panorama and close-ups are clear.",
+    "name": "Olympic Roof Munich",
+    "by": "Behnisch & Partner, Frei Otto, Fritz Leonhardt, Wolfhardt Andrä, Jörg Schlaich",
+    "city": "Munich",
+    "cc": "DE",
+    "year": 1972,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+      "Tensile structure",
+      "Structure as expression",
+      "Light from above"
+    ],
+    "features": "A tent-like cable-net roof over Munich's Olympic halls and stadium, built for the 1972 Games, now listed.",
+    "commons_category": "Category:Olympic Roof Munich",
+    "coords": [
+      48.17219,
+      11.54675
+    ],
+    "photos": [
+      {
+        "file": "File:Olympiastadion, Mùnich, Alemania, 2012-07-15, DD 01, Panorama.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Olympic Roof Munich, July 2018 -03.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Olympic Roof Munich, April 2019.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "central-business-district-praha",
+    "qid": "Q24081342",
+    "status": "skip",
+    "why": "The lead describes a planned complex due after 2025, not a built building."
+  },
+  {
+    "id": "facultad-de-ciencias-de-la-comunicacion-de-santiago-de-compostela",
+    "qid": "Q25509569",
+    "status": "skip",
+    "why": "The lead is empty."
+  },
+  {
+    "id": "logrono-town-hall",
+    "qid": "Q26257755",
+    "status": "photo",
+    "why": "Short lead, but Moneo is a well-known architect and this is his built town hall; daylight photos with the plaza; no year source.",
+    "name": "Logroño town hall",
+    "by": "Rafael Moneo",
+    "city": "Logroño",
+    "cc": "ES",
+    "year": null,
+    "type": "Civic",
+    "movement": "Regionalism",
+    "concepts": [
+      "Brick",
+      "Stone",
+      "Public space"
+    ],
+    "features": "Logroño's town hall, the seat of the city council, by Rafael Moneo.",
+    "commons_category": "Category:Town hall of Logroño",
+    "coords": [
+      42.46643,
+      -2.43926
+    ],
+    "photos": [
+      {
+        "file": "File:Ayuntamiento de Logroño.jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Plaza del ayuntamiento, Logroño - panoramio.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Ayuntamiento de Logroño 2025.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "palais-des-congres-de-tours",
+    "qid": "Q2945812",
+    "status": "photo",
+    "why": "Lead names Nouvel, opened 1993, and sits in a public park; clear exterior photos.",
+    "name": "Palais des Congrès de Tours",
+    "by": "Jean Nouvel",
+    "city": "Tours",
+    "cc": "FR",
+    "year": 1993,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+      "Landscape",
+      "Public space",
+      "Steel & glass"
+    ],
+    "features": "Jean Nouvel's congress and concert centre in Tours, opened in 1993 beside a public park.",
+    "commons_category": "Category:Centre international de congrès de Tours - Vinci",
+    "coords": [
+      47.3918,
+      0.69336
+    ],
+    "photos": [
+      {
+        "file": "File:Concert hall in Tours - panoramio.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Ctrevinci2.jpg",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Сквер у концертного зала La Vinci - panoramio.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "51-astor-place",
+    "qid": "Q29469890",
+    "status": "photo",
+    "why": "Lead names Maki and gives a reason (controversial black glass, nicknamed The Death Star); daylight street photos; no year source.",
+    "name": "51 Astor Place",
+    "by": "Fumihiko Maki",
+    "city": "New York",
+    "cc": "US",
+    "year": null,
+    "type": "Office & tower",
+    "movement": "Late modernism",
+    "concepts": [
+      "Facade as skin",
+      "Steel & glass",
+      "Sculptural form"
+    ],
+    "features": "A black-glass office tower in Manhattan by Fumihiko Maki, nicknamed 'The Death Star' and controversial.",
+    "commons_category": "Category:51 Astor Place",
+    "coords": [
+      40.73028,
+      -73.99028
+    ],
+    "photos": [
+      {
+        "file": "File:Astor Place 2013.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:51 Astor Place (55381215980).jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:51 Astor Place (51548151306).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "the-ware-center-of-millersville-university",
+    "qid": "Q30634451",
+    "status": "skip",
+    "why": "A campus performing-arts venue; the lead gives no reason it matters."
+  },
+  {
+    "id": "zenith-de-saint-etienne-metropole",
+    "qid": "Q3576488",
+    "status": "skip",
+    "why": "A concert arena; the lead gives its size and concerts, not a reason it matters."
+  },
+  {
+    "id": "auditorium-del-parco",
+    "qid": "Q3629510",
+    "status": "photo",
+    "why": "Lead names Piano and gives a reason (built after the 2009 earthquake in solidarity); exterior daylight photos; no year source.",
+    "name": "Auditorium del Parco",
+    "by": "Renzo Piano",
+    "city": "L'Aquila",
+    "cc": "IT",
+    "year": null,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Community",
+      "Landscape",
+      "Timber"
+    ],
+    "features": "Renzo Piano's music and theatre complex in L'Aquila's Spanish fort park, funded by Trento after the 2009 earthquake.",
+    "commons_category": "Category:Auditorium del Parco (L'Aquila)",
+    "coords": [
+      42.35352,
+      13.4026
+    ],
+    "photos": [
+      {
+        "file": "File:Auditorium del Parco, L'Aquila, Abruzzo, Italy - panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:L'Aquila-Auditorium del Parco 02.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:L'Aquila-Auditorium del Parco 03.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:L'Aquila-Auditorium del Parco 04.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "centro-direzionale-della-banca-popolare-di-lodi",
+    "qid": "Q3664845",
+    "status": "unsure",
+    "why": "Renzo Piano office complex with a good lead (urban regeneration, most interesting modern building in Lodi), but prep has no photos at all.",
+    "note": "no main photo"
+  },
+  {
+    "id": "academiesingel-lighthouse",
+    "qid": "Q42303960",
+    "status": "skip",
+    "why": "The lead calls it a work of art (a folly in a park); the wall does not take artworks."
+  },
+  {
+    "id": "1000-connecticut-avenue",
+    "qid": "Q4546008",
+    "status": "skip",
+    "why": "An ordinary office tower; the lead gives no reason it matters."
+  },
+  {
+    "id": "anaheim-ice",
+    "qid": "Q4750883",
+    "status": "unsure",
+    "why": "The lead calls it one of Frank Gehry's major works (a rink), but prep has no photos at all.",
+    "note": "no main photo"
+  },
+  {
+    "id": "cohen-house",
+    "qid": "Q5141321",
+    "status": "photo",
+    "why": "Lead names Mendelsohn and Chermayeff (Foster only added the 1970s conservatory, so left out), built 1935-36, Grade II*; clear photos.",
+    "name": "Cohen House",
+    "by": "Erich Mendelsohn, Serge Chermayeff",
+    "city": "London",
+    "cc": "GB",
+    "year": 1936,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Steel & glass",
+      "Detail"
+    ],
+    "features": "A private modernist house in Chelsea, London, built 1935-36, when the city had little modern architecture.",
+    "commons_category": "Category:Cohen House, London",
+    "coords": [
+      51.4876,
+      -0.17401
+    ],
+    "photos": [
+      {
+        "file": "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979427.jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979423.jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "robert-f-kennedy-gravesite",
+    "qid": "Q5597802",
+    "status": "skip",
+    "why": "A grave site and memorial, not a building."
+  },
+  {
+    "id": "cubo-negro",
+    "qid": "Q56101931",
+    "status": "unsure",
+    "why": "Philip Johnson black-glass office block in Caracas; the free photos show the cube cut off at the top or from too close, not a whole-building view.",
+    "note": "no main photo"
+  },
+  {
+    "id": "cais-das-artes",
+    "qid": "Q56598401",
+    "status": "unsure",
+    "why": "Mendes da Rocha's brutalist concrete arts centre, still under construction per the lead; the free photos are walls, close-ups or an exhibition model, not the whole building.",
+    "note": "no main photo"
+  },
+  {
+    "id": "kirklin-clinic",
+    "qid": "Q6415769",
+    "status": "skip",
+    "why": "The lead describes the clinic and its staff, not the building; prep has no photos."
+  },
+  {
+    "id": "centre-civic-de-riudaura",
+    "qid": "Q65204290",
+    "status": "photo",
+    "why": "Lead names RCR, a Mies van der Rohe Award finalist, opened 1999; whole-building daylight photos.",
+    "name": "Centre Cívic de Riudaura",
+    "by": "RCR Arquitectes",
+    "city": "Riudaura",
+    "cc": "ES",
+    "year": 1999,
+    "type": "Civic",
+    "movement": "Regionalism",
+    "concepts": [
+      "Landscape",
+      "Public space",
+      "Earth & local material"
+    ],
+    "features": "A civic centre by RCR Arquitectes, a Mies van der Rohe Award finalist, opened 1999 in Riudaura.",
+    "commons_category": "Category:Centre Cívic de Riudaura",
+    "coords": [
+      42.1883,
+      2.40883
+    ],
+    "photos": [
+      {
+        "file": "File:Centre cívic de Riudaura (2).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Centre cívic de Riudaura (3).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Centre cívic de Riudaura.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "paul-mellon-arts-center",
+    "qid": "Q7152453",
+    "status": "photo",
+    "why": "Lead names Pei, begun 1968 and completed 1972; clear daylight photo of the whole building.",
+    "name": "Paul Mellon Arts Center",
+    "by": "I. M. Pei",
+    "city": "Wallingford",
+    "cc": "US",
+    "year": 1972,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+      "Exposed concrete",
+      "Geometry",
+      "Pilotis"
+    ],
+    "features": "I. M. Pei's arts building on the Choate Rosemary Hall campus, begun in 1968 and completed in 1972.",
+    "commons_category": null,
+    "coords": [
+      41.4574,
+      -72.8097
+    ],
+    "photos": [
+      {
+        "file": "File:Paul Mellon Arts Center - Choate Rosemary Hall, Wallingford, Connecticut.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "weill-institute-for-cell-and-molecular-biology",
+    "qid": "Q7980202",
+    "status": "photo",
+    "why": "Lead gives the initiative and twelve faculty-led teams; Meier is a well-known architect in prep; whole-building daylight photo.",
+    "name": "Weill Institute for Cell and Molecular Biology",
+    "by": "Richard Meier",
+    "city": "Ithaca",
+    "cc": "US",
+    "year": 2008,
+    "type": "Education",
+    "movement": "Modernism",
+    "concepts": [
+      "Light from above",
+      "Community",
+      "Facade as skin"
+    ],
+    "features": "The cornerstone of Cornell's $650 million life-sciences initiative, home to twelve faculty-led research teams.",
+    "commons_category": "Category:Weill Institute for Cell and Molecular Biology",
+    "coords": [
+      42.44687,
+      -76.47728
+    ],
+    "photos": [
+      {
+        "file": "File:Cornell University - Weill Institute for Cell and Molecular Biology.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Weill Hall at Cornell University.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Weill Hall atrium, Cornell University.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "william-l-slayton-house",
+    "qid": "Q8014211",
+    "status": "photo",
+    "why": "Lead names Pei and the International Style and gives a 2008 listing; one clear courtyard photo; no year source.",
+    "name": "William L. Slayton House",
+    "by": "I. M. Pei",
+    "city": "Washington, D.C.",
+    "cc": "US",
+    "year": null,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Courtyard",
+      "Brick",
+      "Water"
+    ],
+    "features": "A house by I.M. Pei in the International Style, listed on the National Register of Historic Places in 2008.",
+    "commons_category": null,
+    "coords": [
+      38.93655,
+      -77.06721
+    ],
+    "photos": [
+      {
+        "file": "File:Wm Slayton House DC.jpg",
+        "license": "CC0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "video-bus-stop",
+    "qid": "Q85306857",
+    "status": "skip",
+    "why": "The lead calls it a work of art (kunstwerk) for an art event; the wall does not take artworks."
+  }
+]

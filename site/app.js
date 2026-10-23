@@ -279,11 +279,27 @@
     }
     $('more').hidden = f.next >= f.list.length;
   }
+  // Owner's rule (23 Oct 2026): on the plain wall, at least 3 to 5 "worth the swipe" tiles in the first screen and at
+  // least 3 in each of the next 10. A screen holds about as many rows as a square tile fits in the window's height;
+  // four per screen leaves room for the columns' uneven heights.
+  function spreadSwipe(list, C, r) {
+    const colW = (window.innerWidth - GAP * (C + 1)) / C;
+    const P = Math.max(C * 2, Math.round(0.85 * C * window.innerHeight / (colW + GAP))), S = [], O = [], out = [];
+    list.forEach(b => (SWIPE.has(b.id) ? S : O).push(b));
+    for (let s = 0; s < 16 && S.length + O.length; s++) {
+      const n = s ? P : Math.max(5, Math.round(0.6 * P)), k = Math.min(4, S.length); // the top panel fills part of the first screen
+      out.push(...shuffled(S.splice(0, k).concat(O.splice(0, n - k)), r));
+    }
+    const used = new Set(out);
+    return out.concat(list.filter(b => !used.has(b)));
+  }
   function render(toTop) {
     document.dispatchEvent(new CustomEvent('da:render')); // the map (map.js) follows the same search and filters
     let list = shuffled(visible(), rng(state.seed));
     if (lastTop.size) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
     const C = columnCount();
+    const plainWall = state.mode === 'buildings' && !state.q && !state.shelf && !state.decades && !state.where && GROUPS.every(g => !state.filters[g.key].size);
+    if (plainWall) list = spreadSwipe(list, C, rng(state.seed + 1));
     state.ncols = C;
     feedState.list = list; feedState.next = 0;
     feedState.heights = new Array(C).fill(0);

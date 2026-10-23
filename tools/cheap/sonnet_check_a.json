@@ -1,215 +1,307 @@
 {
  "keep_ok": [
-  "bernard-schwartz-house",
-  "goetsch-winckler-house",
-  "robert-m-lamp-house",
-  "thomas-p-hardy-house",
-  "student-union-building-ilokivi",
-  "sport-and-health-sciences-department-building",
-  "hiram-c-stewart-house",
-  "building-of-east-bohemian-museum",
-  "granville-d-jones-house",
-  "king-nash-house",
-  "villa-tonder",
-  "nature-spa-takarazuka",
-  "huize-lydia",
-  "parco-sempione-library",
-  "st-wenceslas-church-vrsovice",
-  "st-franziskus",
-  "blackwell-arts-and-crafts-house",
-  "kasson-municipal-building",
-  "st-lazarus-roman-catholic-church-al-eizariya",
-  "villa-kampen",
-  "tampere-theatre",
-  "synagogue-don-isaac-abravanel",
-  "kalmar-konstmuseum"
+  "vessel-structure",
+  "naturbornholm",
+  "beaty-biodiversity-museum",
+  "museum-of-west-african-art",
+  "kiruna-city-hall",
+  "knarvik-church",
+  "museum-of-glass",
+  "san-paolo-apostolo-foligno",
+  "seacity-museum",
+  "kagawa-prefectural-higashiyama-kaii-setouchi-art-museum",
+  "phoenix-center",
+  "fukui-prefectural-varve-museum",
+  "nottingham-contemporary",
+  "zaryadye-concert-hall",
+  "casals-forum",
+  "british-antique-museum-kamakura",
+  "fjordenhus",
+  "paneum",
+  "boekenberg",
+  "valer-church",
+  "polish-national-radio-symphony-orchestra-building"
  ],
  "ordinary": [
-  "huize-lydia",
-  "rundling",
-  "tampere-theatre",
-  "arenes-de-maracay",
-  "philologica"
+  "kiruna-city-hall",
+  "phoenix-center",
+  "fjordenhus",
+  "boekenberg"
  ],
  "keep_fix": [
   {
-   "id": "thiel-gallery",
+   "id": "naturbornholm",
+   "field": "concepts",
+   "haiku": [
+    "Landscape",
+    "Public space",
+    "Light & shadow"
+   ],
+   "should_be": [
+    "Stone",
+    "Landscape",
+    "Steel & glass"
+   ],
+   "why": "The photo shows a low stone-clad and glazed pavilion in an open field, not a public space; stone and glass describe what is seen."
+  },
+  {
+   "id": "museum-of-west-african-art",
+   "field": "features",
+   "haiku": "David Adjaye's Benin City museum, built for over 300 loaned West African objects, still closed after its planned 2025 opening.",
+   "should_be": "David Adjaye's Benin City museum for over 300 items on loan from European museums, closed after opening-day protests.",
+   "why": "The lead says the items come from European museums, not that they are West African objects, and says the museum closed after protests at the opening ceremony."
+  },
+  {
+   "id": "museum-of-glass",
    "field": "year",
-   "haiku": 1924,
-   "should_be": null,
-   "why": "The lead gives no year; 1924 is Wikidata's and no completion date in the lead supports it. Use null rather than 1924."
+   "haiku": null,
+   "should_be": 2002,
+   "why": "The lead gives 2002 (the museum's founding) and prep's year is 2002; the museum opened that year, so 2002 is supported and plausible."
   },
   {
-   "id": "arenes-de-maracay",
-   "field": "name",
-   "haiku": "Arènes de Maracay",
-   "should_be": "Maestranza César Girón",
-   "why": "Haiku took the French lead title; the English label is a proper name (and the Commons category). The id should follow: maestranza-cesar-giron."
-  },
-  {
-   "id": "rundling",
-   "field": "name",
-   "haiku": "Rundling",
-   "should_be": "Rundling (Leipzig)",
-   "why": "English Wikipedia title is 'Rundling (Leipzig)'; bare 'Rundling' is too generic as a wall name."
-  },
-  {
-   "id": "st-michael-s-church",
-   "field": "name",
-   "haiku": "St. Michael's Church",
-   "should_be": "St. Michael's Church (Črna Vas)",
-   "why": "English Wikipedia title adds '(Črna Vas)'; the bare name is generic and could clash with other St. Michael's churches."
+   "id": "phoenix-center",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2014,
+   "why": "The lead gives no year; prep's year 2014 is plausible for the centre, so use it rather than null."
   }
  ],
  "keep_wrong": [
   {
-   "id": "adelheid-popp-hof",
-   "why": "Municipal housing block; the lead gives only architect and dates (built 1932-33, extended 1949-50), no design reason, so it is ordinary housing."
+   "id": "asnom-memorial-center",
+   "why": "A low brick memorial hall whose lead gives only its history and the mosaic artist; the architect Georgi Konstantinovski is obscure and the building is not a study precedent."
   },
   {
-   "id": "brittingham-boathouse",
-   "why": "Small park boathouse; the only reason is a local record (city's oldest park building) and a general City Beautiful remark, no named designer or design point; main photo shows it small and far away."
+   "id": "dance-house-helsinki",
+   "why": "Ordinary theatre; the lead gives no design reason and no year, JKMM is not a top-tier name, and the main photo is a distant street view with trucks."
   },
   {
-   "id": "casa-de-colon",
-   "why": "A 1950s reconstruction in historic style of a governor's house now a Columbus museum; the lead never names the architect and gives no design reason a student would study."
+   "id": "amiens-synagogue",
+   "why": "The main photo is a plain white wall with parked cars; the lead says only 'rededicated in 2017' and 'replaced two previous buildings' (a rebuild, nothing about a design)."
   },
   {
-   "id": "cluj-napoca-banffy-palace",
-   "why": "Built 1774-75, a regional Baroque palace; the lead calls it the most representative Baroque building of Transylvania only, not a precedent for students worldwide; Wikidata year 1951 is wrong."
+   "id": "amsterdam-university-college",
+   "why": "University building whose lead gives only the programme history; Mecanoo is well known but this is not a key work. Photos are good, so borderline: first to come back if the ordinary share allows."
   },
   {
-   "id": "villa-polasek",
-   "why": "Local Brno architect's own villa; the lead gives only the word functionalist and dates, the architect has no other work on the wall, so no clear reason to study it."
+   "id": "frederiksbjerg-school",
+   "why": "Ordinary school; the lead gives only the opening date and 965 pupils. Henning Larsen is well known, but the lead says nothing about the design. Borderline: first to come back if the ordinary share allows."
+  },
+  {
+   "id": "hangzhou-grand-theatre",
+   "why": "Ordinary theatre; the Chinese lead gives only site area and 'designed by Canadian theatre designer Carlos Ott', and it is not a key work. Photos are striking, so borderline."
+  },
+  {
+   "id": "palacio-de-exposicions-e-congresos",
+   "why": "Convention centre (ordinary type); the lead only names the designers and an opening month, and it is not a key work of Bofill or Portela. 'Pavilion' is also the wrong type."
+  },
+  {
+   "id": "ishikawa-ongakudo",
+   "why": "Ordinary concert hall; the lead gives acoustics and a shoebox plan only, and the single photo is a close view of the entrance canopy and signs, not the whole building."
+  },
+  {
+   "id": "achmeatoren",
+   "why": "Regional office tower (ordinary type); the 'two volumes pushed into each other' remark is not enough to make it a precedent for students."
+  },
+  {
+   "id": "finnish-parliament-annex",
+   "why": "Ordinary offices for MPs; the lead gives the competition and the materials, Pekka Helin is not an international name, and the first photo is a wide street view with the rotunda partly hidden."
+  },
+  {
+   "id": "judiciary-city",
+   "why": "Law courts built in a Moselle Baroque pastiche; ordinary civic type and not a building students would study as a precedent."
+  },
+  {
+   "id": "mimers-hus",
+   "why": "Ordinary upper-secondary school; the Swedish lead gives pupil numbers and a sports hall only."
+  },
+  {
+   "id": "lohja-main-library",
+   "why": "Ordinary library; the lead only says it took part in Finland's Architecture Week and the 2018 Venice Biennale. Good photo, borderline."
+  },
+  {
+   "id": "experimental-media-and-performing-arts-center",
+   "why": "Grimshaw's EMPAC is a fair keep on the architect, but it is an ordinary theatre type whose lead gives only the opening date and the donor, and the main photo is wrong (see main_photo_wrong). Dropped to hold the ordinary share under 20%; first to come back with p4 as main."
+  },
+  {
+   "id": "montreal-symphony-house",
+   "why": "Concert hall (ordinary type); the lead gives only the construction dates and the naming story, and the main photo is a distant strip. Borderline."
+  },
+  {
+   "id": "teatros-del-canal",
+   "why": "Ordinary theatre; the lead gives a cost overrun and directors, not a design reason."
+  },
+  {
+   "id": "alsion",
+   "why": "University and culture centre (ordinary type); the German lead is one sentence about its purpose. 3XN is well known and the photos are fine, so borderline."
+  },
+  {
+   "id": "schuster-performing-arts-center",
+   "why": "Ordinary theatre; the lead gives donors and the former department store site only. Pelli is well known and the exterior photos are good, so borderline."
+  },
+  {
+   "id": "vuotalo",
+   "why": "Ordinary cultural centre; the lead names the designers and the 2001 completion, nothing else."
+  },
+  {
+   "id": "teatro-das-figuras",
+   "why": "Ordinary theatre; the lead gives only its opening date and name. Gonçalo Byrne has one building on the wall, but nothing here says why this theatre matters."
+  },
+  {
+   "id": "zenith-limoges-metropole",
+   "why": "Arena (ordinary type) kept only on Tschumi's name; the silver-ribbed shell is attractive, so this is the first to come back if the ordinary share allows."
+  },
+  {
+   "id": "chips-manchester",
+   "why": "Housing (ordinary type); the only design reason is the developer's wish to avoid 'mundanity'. Striking, so borderline: first to come back if the ordinary share allows."
+  },
+  {
+   "id": "toratau-congress-hall",
+   "why": "Government house; the Bashkir-ornament glazed facade is a real reason, but with four other ordinary keeps already the share would pass 20%. Borderline: comes back before the others if the owner wants regionalist work from Russia."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "proxima",
-   "better_file_or_null": "File:JYU - Proxima.jpg",
-   "why": "Haiku's first photo is an 11,222 x 3,408 panorama (3.3:1) in which the buildings are a thin strip and it crops badly in a wall tile. JYU - Proxima.jpg (CC BY-SA 4.0, p2 on the sheet) shows the brick building and its glazed canopy from outside in daylight."
+   "id": "lucas-museum-of-narrative-art",
+   "better_file_or_null": null,
+   "why": "The 2026 main photo shows only the green roof line far across a lawn, half hidden by a tree; the other photos are a construction aerial and a person with a sign. Keep is otherwise right (Ma Yansong's museum, opened 22 Sept 2026): hold it until a clear exterior photo exists."
+  },
+  {
+   "id": "zaryadye-concert-hall",
+   "better_file_or_null": "File:Moscow - 2026 - Zaryadye Concert Hall.jpg",
+   "why": "Haiku's first photo is a far view across the river where the hall is a thin strip on the horizon. The 2026 photo (Q) shows the glass-roofed hall much larger, from the embankment, in daylight."
+  },
+  {
+   "id": "suzhou-culture-and-arts-centre",
+   "better_file_or_null": null,
+   "why": "The main photo is a wide plaza panorama with the centre small in the middle; the other exteriors are far views across the lake. The lead gives only floor areas and an awards base, so the keep also fails (no design reason, Paul Andreu named only by Wikidata). Not kept."
+  },
+  {
+   "id": "experimental-media-and-performing-arts-center",
+   "better_file_or_null": "File:RPI EMPAC 3-22-2023 01.png",
+   "why": "The main photo is a close shot of the glass wall looking over the town, not the building. Only relevant if the keep is reversed (see keep_wrong)."
+  },
+  {
+   "id": "montreal-symphony-house",
+   "better_file_or_null": "File:Maison symphonique 104.JPG",
+   "why": "The main photo is a wide strip across a park with the hall small and other towers beside it. Only relevant if the keep is reversed (see keep_wrong)."
   }
  ],
  "rescued": [
   {
-   "id": "stadtbad-mitte",
-   "why": "Tessenow (well-known) built work, a Berlin public bath opened 1930 and listed; Haiku skipped only because the architect is not on the wall and the lead is short. Clean daylight exterior photos exist (the main photo has scaffolding, so p4/p5 go first).",
+   "id": "maritime-centre-vellamo",
+   "why": "Maritime museum in Kotka by Ilmari Lahdelma (whose practice has two Finnish museums on the wall); the layered steel-panel facade is a clear daylight exterior. The French lead gives no design reason or year, so this is a keep on architect and photo only.",
    "entry": {
-    "id": "stadtbad-mitte",
-    "qid": "Q1292740",
+    "id": "maritime-centre-vellamo",
+    "qid": "Q2945864",
     "status": "photo",
-    "why": "Tessenow and Jelkmann's Volksbad opened 1930, listed; lead is short but the architect is well known.",
-    "name": "Stadtbad Mitte",
-    "by": "Heinrich Tessenow, Carlo Jelkmann",
-    "city": "Berlin",
-    "cc": "DE",
-    "year": 1930,
-    "type": "Culture & sport",
-    "movement": "Modernism",
-    "concepts": [
-     "Water",
-     "Public space",
-     "Brick"
-    ],
-    "features": "A public bath opened in 1930, listed, its entrance set into the street line of the neighbouring apartment buildings.",
-    "commons_category": "Category:Stadtbad Mitte",
-    "coords": [
-     52.52954,
-     13.39315
-    ],
-    "photos": [
-     {
-      "file": "File:Mitte Gartenstraße Stadtbad Mitte-002.JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Mitte Gartenstraße Stadtbad Mitte-003.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Stadtbad Mitte 08.02.2016 15-16-21.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "lake-suwa-museum",
-   "why": "Toyo Ito (25 buildings on the wall) built work; Haiku marked unsure only because Wikidata's year 1952 is impossible for Ito and the lead names no architect. Accept Wikidata's architect, year null (no source); the photo shows the curved-roof museum from outside in daylight.",
-   "entry": {
-    "id": "lake-suwa-museum",
-    "qid": "Q11631898",
-    "status": "photo",
-    "why": "Toyo Ito museum on the shore of Lake Suwa; year unsupported so null.",
-    "name": "Lake Suwa Museum",
-    "by": "Toyo Ito",
-    "city": "Shimosuwa",
-    "cc": "JP",
-    "year": null,
+    "why": "Maritime museum in Kotka by Ilmari Lahdelma (whose practice has two Finnish museums on the wall); the layered steel-panel facade is a clear daylight exterior. The French lead gives no design reason or year, so this is a keep on architect and photo only.",
+    "name": "Maritime Centre Vellamo",
+    "by": "Ilmari Lahdelma",
+    "city": "Kotka",
+    "cc": "FI",
+    "year": 2008,
     "type": "Museum",
     "movement": "Contemporary",
     "concepts": [
+     "Facade as skin",
      "Water",
-     "Landscape",
-     "Sculptural form"
+     "Landscape"
     ],
-    "features": "A municipal museum on the shore of Lake Suwa in Shimosuwa, with the Akahiko Memorial Hall literature museum attached.",
-    "commons_category": null,
+    "features": "A maritime centre built in the harbour of Kotka, Finland.",
+    "commons_category": "Category:Maritime Centre Vellamo",
     "coords": [
-     36.06722,
-     138.10083
+     60.4728,
+     26.945
     ],
     "photos": [
      {
-      "file": "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:Sea museum Vellamo.JPG",
+      "license": "Public domain",
+      "seen": true
+     },
+     {
+      "file": "File:Maritime Centre Vellamo, Kotka (52614726611).jpg",
+      "license": "CC BY 2.0",
       "seen": true
      }
     ]
    }
   },
   {
-   "id": "philologica",
-   "why": "Aalto (50 buildings on the wall) built work on the Jyväskylä campus, the same set as Ilokivi, the sports building and Proxima that Haiku kept; skipping it only for being a dormitory is inconsistent with the well-known-architect rule. Clear brick exterior, daylight. Counts as housing (ordinary).",
+   "id": "iki-city-ikikoku-museum",
+   "why": "Municipal museum on Iki island credited to Kisho Kurokawa (16 buildings on the wall). He died in 2007 and the museum opened in 2010, so it is a posthumous completion of his design, not an impossible date; the lead names no architect, so verify before adding. Main photo is a clear daylight exterior of the white curved building with its tower.",
    "entry": {
-    "id": "philologica",
-    "qid": "Q28464267",
+    "id": "iki-city-ikikoku-museum",
+    "qid": "Q11429588",
     "status": "photo",
-    "why": "Aalto student residence of the College of Education on the Seminaarinmäki campus.",
-    "name": "Philologica",
-    "by": "Alvar Aalto",
-    "city": "Jyväskylä",
-    "cc": "FI",
-    "year": 1954,
-    "type": "Housing",
-    "movement": "Modernism",
+    "why": "Municipal museum on Iki island credited to Kisho Kurokawa (16 buildings on the wall). He died in 2007 and the museum opened in 2010, so it is a posthumous completion of his design, not an impossible date; the lead names no architect, so verify before adding. Main photo is a clear daylight exterior of the white curved building with its tower.",
+    "name": "Iki City Ikikoku Museum",
+    "by": "Kisho Kurokawa",
+    "city": "Iki",
+    "cc": "JP",
+    "year": 2010,
+    "type": "Museum",
+    "movement": "Contemporary",
     "concepts": [
-     "Brick",
-     "Landscape",
-     "Community"
+     "Sculptural form",
+     "Geometry",
+     "Landscape"
     ],
-    "features": "Aalto's student residence of the College of Education, a university building on the Seminaarinmäki campus in Jyväskylä.",
-    "commons_category": "Category:Philologica",
+    "features": "A museum in Iki City, Nagasaki, displaying finds from Harunotsuji, thought to be the royal capital of the Ikoku kingdom.",
+    "commons_category": "Category:Iki City Ikikoku Museum",
     "coords": [
-     62.23509,
-     25.73023
+     33.76761,
+     129.75536
     ],
     "photos": [
      {
-      "file": "File:Philologica.jpg",
+      "file": "File:Ikicityikikokumuseum.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "bunker-599",
+   "why": "An architects' intervention (RAAAF and Atelier de Lyon): a wartime bunker sawn in two with a walkway to a lake, widely studied as adaptive reuse. The lead calls it an installation, so the owner may treat it as a work of art rather than a building; the photos are clear daylight exteriors.",
+   "entry": {
+    "id": "bunker-599",
+    "qid": "Q18814207",
+    "status": "photo",
+    "why": "An architects' intervention (RAAAF and Atelier de Lyon): a wartime bunker sawn in two with a walkway to a lake, widely studied as adaptive reuse. The lead calls it an installation, so the owner may treat it as a work of art rather than a building; the photos are clear daylight exteriors.",
+    "name": "Bunker 599",
+    "by": "Erick de Lyon, Ronald Rietveld",
+    "city": "Culemborg",
+    "cc": "NL",
+    "year": 2010,
+    "type": "Public space",
+    "movement": "Contemporary",
+    "concepts": [
+     "Adaptive reuse",
+     "Void",
+     "Exposed concrete"
+    ],
+    "features": "A wartime bunker sawn in two, with access to a small artificial lake.",
+    "commons_category": "Category:Bunker 599",
+    "coords": [
+     51.93594,
+     5.1535
+    ],
+    "photos": [
+     {
+      "file": "File:Diefdijk bij A2 Doorgezaagde bunker.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Bunker 599.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:University of Jyväskylä - Philologica 2.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Jyväskylä Philologica.jpg",
+      "file": "File:Groepsschuilplaats Diefdijk.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
@@ -217,5 +309,5 @@
    }
   }
  ],
- "summary": "Positions 0-149: Haiku had 33 photo, 10 unsure, 107 skip. Of the 33 photo entries: 23 keep_ok as written, 5 kept but need a fix (name fixes on arenes-de-maracay, rundling, st-michael-s-church; year null on thiel-gallery; a different main photo for proxima), 5 keep_wrong. keep_ok excludes the ids in keep_fix and main_photo_wrong, which are still kept after the fix. Rescued 3: stadtbad-mitte, lake-suwa-museum (year null), philologica. Final kept = 31; ordinary types among them = 5 (16 percent). Of the 117 unsure/skip entries, 29 have an empty lead (skip by rule, including bagno-pubblico-bellinzona, already on the wall), 6 have no usable photo (sun-terrace has none at all, hearst-gymnasium, branigan, slovenia assembly, experimental-theater, north-casper-clubhouse), the rest are ordinary or give no design reason. Borderline left out: ullensaker-church (Arneberg, only a local nickname), gewerbehaus (Schumacher, year unclear), kyoto-municipal-museum-of-art (lead says 1928, no design reason). Notes: villa-tonder has only historic photos (confirm it still stands). No dup_flag entries and no duplicates on the wall found by id, name, QID or 250 m."
+ "summary": "Positions 0-151 (152 entries; sheets 00,01,04-18 opened, 02-03 not needed: all skips with no photo or design case). Haiku: 46 photo, 18 unsure, 88 skip. Of the 46 photo entries: 21 accepted as keep_ok (4 with fixes: naturbornholm concepts, museum-of-west-african-art features, museum-of-glass year 2002, phoenix-center year 2014), 2 are held for want of a good main photo (lucas-museum-of-narrative-art, suzhou-culture-and-arts-centre); zaryadye-concert-hall is kept but needs the 2026 photo first, and 23 are keep_wrong (mostly ordinary theatres, schools, civic and convention types with a lead that gives no design reason; the borderline ones are marked so they can come back). Rescued 3 of 106 unsure/skip: maritime-centre-vellamo, iki-city-ikikoku-museum (architect check: Kurokawa died 2007, built 2010, accepted as posthumous completion), bunker-599. Architect checks: Dubai Opera and Georgian Parliament stay out (no usable exterior photo); Jorge Oteiza Museum stays out (no clear exterior, Saenz de Oiza died 2000 but the design predates that); Ashdod stays skipped (lead names Haim Dotan, not Takamatsu; ordinary theatre, no design reason; if kept use Haim Dotan). Total accepted 24 (21 + 3 rescued); ordinary kept 4 (kiruna-city-hall, phoenix-center, fjordenhus, boekenberg) = 17%. Borderline skips an owner may want to see: residenze-libeskind (Libeskind housing, striking), nakanoshima-museum-of-art-osaka (black cube museum, architect not known abroad), kaohsiung-exhibition-center (Philip Cox convention centre), toyama-prefectural-museum-of-art-and-design (Naito; main photo not clearly the whole building). No wall duplicates found (no dup_flag in range, no matching qid, id or nearby building of the same name; zaryadye-concert-hall is separate from the wall's Zaryadye Park entry)."
 }

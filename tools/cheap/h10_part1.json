@@ -1,0 +1,987 @@
+[
+ {
+  "id": "spectrum-center",
+  "qid": "Q983870",
+  "status": "skip",
+  "why": "Multi-purpose arena; the lead gives no architectural reason, and the architect is not a known name."
+ },
+ {
+  "id": "deekshabhoomi",
+  "qid": "Q1182325",
+  "status": "skip",
+  "why": "Sacred monument; the lead names no architect and gives no design reason. Monuments are skipped."
+ },
+ {
+  "id": "abba-the-museum",
+  "qid": "Q2743819",
+  "status": "skip",
+  "why": "Interactive exhibition about a pop band; the lead gives no architectural reason."
+ },
+ {
+  "id": "last-address",
+  "qid": "Q18408321",
+  "status": "skip",
+  "why": "Memorial plaque project, not a building; the photos are plaques and a map."
+ },
+ {
+  "id": "international-exhibition-centre",
+  "qid": "Q12131081",
+  "status": "skip",
+  "why": "Exhibition and convention centre; the lead gives size and events only, and names no architect."
+ },
+ {
+  "id": "church-of-saints-clement-and-panteleimon",
+  "qid": "Q1283696",
+  "status": "skip",
+  "why": "Byzantine church attributed to Clement of Ohrid; an old building, and the lead gives no 2002 date."
+ },
+ {
+  "id": "dubai-frame",
+  "qid": "Q20386392",
+  "status": "unsure",
+  "why": "Lead names Fernando Donis as the original competition designer and Hyder Consulting as the completing firm; the photos are night, skyline or construction views.",
+  "note": "no main photo"
+ },
+ {
+  "id": "cathedral-of-the-resurrection-of-christ-kyiv",
+  "qid": "Q2342322",
+  "status": "skip",
+  "why": "Cathedral of the Ukrainian Greek Catholic Church; the lead gives no design reason, and the photos are distant skyline views."
+ },
+ {
+  "id": "basra-international-stadium",
+  "qid": "Q3500331",
+  "status": "skip",
+  "why": "Stadium complex; the lead gives no reason beyond being a sports complex."
+ },
+ {
+  "id": "cathedral-of-the-resurrection-of-christ-podgorica",
+  "qid": "Q658743",
+  "status": "skip",
+  "why": "Orthodox cathedral; the lead gives no design reason and does not name the architect."
+ },
+ {
+  "id": "vessel-structure",
+  "qid": "Q27988215",
+  "status": "photo",
+  "why": "Thomas Heatherwick's Vessel, opened 2019 per the lead; the lead gives the design and public use, and the photos are daylight views of the whole structure.",
+  "name": "Vessel (structure)",
+  "by": "Thomas Heatherwick",
+  "city": "New York City",
+  "cc": "US",
+  "year": 2019,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A honeycomb of 154 flights of stairs in Hudson Yards, designed by Thomas Heatherwick and open to climb.",
+  "commons_category": "Category:Vessel (structure)",
+  "coords": [
+   40.75381,
+   -74.00217
+  ],
+  "photos": [
+   {
+    "file": "File:Hudson Yards Plaza March 2019 18.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At New York City 2023 021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At New York City 2023 020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "olympic-tennis-centre-rio-de-janeiro",
+  "qid": "Q7089145",
+  "status": "skip",
+  "why": "Olympic tennis venue; an ordinary venue, and the lead gives no design reason."
+ },
+ {
+  "id": "dubai-opera",
+  "qid": "Q2913336",
+  "status": "unsure",
+  "why": "Atkins and Janus Rostock are named in the lead, with a three-mode design; the photos show a person, an orchestra and seats, but no exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "guangzhou-circle",
+  "qid": "Q15456024",
+  "status": "skip",
+  "why": "Headquarters and trading centre for plastics; the lead gives no architectural reason and names no architect."
+ },
+ {
+  "id": "sehitlik-mosque",
+  "qid": "Q388677",
+  "status": "skip",
+  "why": "Ottoman Revival mosque; the lead gives the style and a cemetery but no design reason, and the main photo shows a field."
+ },
+ {
+  "id": "afas-live",
+  "qid": "Q619832",
+  "status": "skip",
+  "why": "Concert hall; the lead gives capacity and visitor numbers only, and the photos show concerts."
+ },
+ {
+  "id": "kresimir-cosic-hall",
+  "qid": "Q967234",
+  "status": "skip",
+  "why": "Multi-purpose arena for basketball and concerts; the lead gives no reason."
+ },
+ {
+  "id": "mevlana-mosque-rotterdam",
+  "qid": "Q1586277",
+  "status": "skip",
+  "why": "Mosque; the lead's only claim is a popular vote in 2006, not a prize, and it names no architect."
+ },
+ {
+  "id": "eurotower-zagreb",
+  "qid": "Q2251720",
+  "status": "skip",
+  "why": "Office tower; the lead gives height and tenants, not a design reason."
+ },
+ {
+  "id": "museum-barberini",
+  "qid": "Q23785329",
+  "status": "skip",
+  "why": "Reconstructed Baroque palace; the lead calls it a reconstruction, so it is a rebuilt copy."
+ },
+ {
+  "id": "belz-great-synagogue",
+  "qid": "Q2744462",
+  "status": "skip",
+  "why": "Synagogue; the lead gives size only, and most photos are interiors."
+ },
+ {
+  "id": "istana-negara-jalan-tuanku-abdul-halim",
+  "qid": "Q6088543",
+  "status": "skip",
+  "why": "Royal residence; the lead gives size and layout, not a design reason, and names no architect."
+ },
+ {
+  "id": "grand-mosque-of-west-sumatra",
+  "qid": "Q12497335",
+  "status": "skip",
+  "why": "Mosque; the lead gives size only and names no architect, and most photos show the site during construction."
+ },
+ {
+  "id": "hungarian-university-of-agriculture-and-life-sciences",
+  "qid": "Q1296434",
+  "status": "skip",
+  "why": "A university, not a building; the lead gives its history."
+ },
+ {
+  "id": "hamad-bin-khalifa-civilisation-center",
+  "qid": "Q16957737",
+  "status": "skip",
+  "why": "Mosque; the lead gives size only ('one of the largest mosques in Europe') and names no architect."
+ },
+ {
+  "id": "lds-conference-center",
+  "qid": "Q1797977",
+  "status": "skip",
+  "why": "Conference hall; the lead gives size and use, not a design reason, and names no architect."
+ },
+ {
+  "id": "the-float-marina-bay",
+  "qid": "Q82994",
+  "status": "skip",
+  "why": "The lead's past tense ('was a multi-purpose outdoor venue') shows it is no longer standing."
+ },
+ {
+  "id": "ceremonial-palace-of-georgia",
+  "qid": "Q3653173",
+  "status": "skip",
+  "why": "Refurbished former gendarmerie building; the lead names no new design, so this is an old building converted."
+ },
+ {
+  "id": "uppatasanti-pagoda",
+  "qid": "Q608474",
+  "status": "skip",
+  "why": "Pagoda replica; the lead gives no design reason and names no architect."
+ },
+ {
+  "id": "al-akbar-mosque",
+  "qid": "Q13094984",
+  "status": "skip",
+  "why": "National mosque; the lead gives a dome and minaret but names no architect, and it is not a known precedent."
+ },
+ {
+  "id": "church-of-all-saints-minsk",
+  "qid": "Q1353010",
+  "status": "skip",
+  "why": "Memorial church; the lead gives its memorial purpose, not a design reason."
+ },
+ {
+  "id": "ruhyyet-palace",
+  "qid": "Q1586914",
+  "status": "skip",
+  "why": "Government palace; the lead gives its use, not a design reason, and the photo is a banknote."
+ },
+ {
+  "id": "arts-and-industries-building",
+  "qid": "Q713932",
+  "status": "skip",
+  "why": "Smithsonian building opened in 1881 and reopened in 2021; an old building with no new design named."
+ },
+ {
+  "id": "kaohsiung-exhibition-center",
+  "qid": "Q15933386",
+  "status": "skip",
+  "why": "Convention centre; the lead gives no architect or design reason."
+ },
+ {
+  "id": "nascar-hall-of-fame",
+  "qid": "Q1443089",
+  "status": "skip",
+  "why": "Hall of fame; the lead gives its purpose and members only."
+ },
+ {
+  "id": "lucas-museum-of-narrative-art",
+  "qid": "Q20711578",
+  "status": "photo",
+  "why": "Ma Yansong (well-known; in prep) designed this museum, opened 22 September 2026 per the lead; the lead gives no design reason, but it is a major new build with a clean daylight exterior.",
+  "name": "Lucas Museum of Narrative Art",
+  "by": "Ma Yansong",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 2026,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Ma Yansong's museum of visual storytelling in Exposition Park, founded by George Lucas and Mellody Hobson.",
+  "commons_category": "Category:Lucas Museum of Narrative Art",
+  "coords": [
+   34.01528,
+   -118.29083
+  ],
+  "photos": [
+   {
+    "file": "File:Lucas Museum of Narrative Art (2026).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mosque-of-kota-iskandar",
+  "qid": "Q21190741",
+  "status": "skip",
+  "why": "State mosque; 'modern futuristic' is the only design claim, the architect is a company, and it is not a known precedent."
+ },
+ {
+  "id": "steinhardt-museum-of-natural-history",
+  "qid": "Q29044424",
+  "status": "skip",
+  "why": "Natural history museum; the lead gives collections and purpose but no architectural reason, and names no architect."
+ },
+ {
+  "id": "agatha-christie-memorial",
+  "qid": "Q18159623",
+  "status": "skip",
+  "why": "Memorial sculpture; a monument, skipped."
+ },
+ {
+  "id": "domus-galilaeae",
+  "qid": "Q2620812",
+  "status": "skip",
+  "why": "Christian meeting centre; the lead names no architect and gives no design reason."
+ },
+ {
+  "id": "beth-hamedrash-hagodol",
+  "qid": "Q533365",
+  "status": "skip",
+  "why": "Old synagogue building; the lead is in the past tense and dates the congregation to 1852, not a 2000 design."
+ },
+ {
+  "id": "georgian-parliament-building-kutaisi",
+  "qid": "Q5548041",
+  "status": "unsure",
+  "why": "Lead says built by CMD Ingenieros, while Wikidata gives Alberto Domingo; the one photo is a crowd at a parade.",
+  "note": "no main photo"
+ },
+ {
+  "id": "holy-trinity-church-yerevan",
+  "qid": "Q5886657",
+  "status": "skip",
+  "why": "Church modelled on the 7th-century Zvartnots Cathedral; the lead gives no design reason beyond the copy."
+ },
+ {
+  "id": "naturbornholm",
+  "qid": "Q12063591",
+  "status": "photo",
+  "why": "Henning Larsen (well-known; in prep) built this centre, inaugurated 16 May 2000 per the lead; the lead gives no design reason, and the main photo is a clean daylight exterior.",
+  "name": "NaturBornholm",
+  "by": "Henning Larsen",
+  "city": "Aakirkeby",
+  "cc": "DK",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Henning Larsen's interpretive centre and museum on Bornholm, dedicated to the island's geology and natural history.",
+  "commons_category": "Category:NaturBornholm",
+  "coords": [
+   55.0641,
+   14.9174
+  ],
+  "photos": [
+   {
+    "file": "File:NaturBornholm Aakirkeby 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "beaty-biodiversity-museum",
+  "qid": "Q4120770",
+  "status": "photo",
+  "why": "Patricia Patkau (well-known; in prep) designed this museum, opened 16 October 2010 per the lead; clean daylight exterior photos. The lead names no design reason.",
+  "name": "Beaty Biodiversity Museum",
+  "by": "Patricia Patkau",
+  "city": "Vancouver",
+  "cc": "CA",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Patricia Patkau's natural history museum on the UBC campus, with a 25-metre blue whale suspended over its ramp.",
+  "commons_category": "Category:Beaty Biodiversity Museum",
+  "coords": [
+   49.26342,
+   -123.251
+  ],
+  "photos": [
+   {
+    "file": "File:Beaty Biodiversity Museum.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Beaty Biodiversity Museum 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beaty Biodiversity Museum exterior 2.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "1-william-street-brisbane",
+  "qid": "Q4596031",
+  "status": "skip",
+  "why": "Office tower; the lead gives height and government occupancy, not a design reason."
+ },
+ {
+  "id": "mccord-stewart-museum",
+  "qid": "Q1128578",
+  "status": "skip",
+  "why": "Old museum building (the McCord house); the lead names no new design, so it is an old building converted."
+ },
+ {
+  "id": "essalam-mosque",
+  "qid": "Q1368513",
+  "status": "skip",
+  "why": "Mosque; the lead gives size only, and the main photo shows a road."
+ },
+ {
+  "id": "agustin-ross-cultural-centre",
+  "qid": "Q2668183",
+  "status": "skip",
+  "why": "Building from 1906-1909 later converted into a cultural centre; the lead names no new design."
+ },
+ {
+  "id": "museum-of-west-african-art",
+  "qid": "Q104157193",
+  "status": "photo",
+  "why": "The lead says it has been built but stays closed; no opening year, so year is null. David Adjaye is named in prep; the main photo is a clean daylight exterior.",
+  "name": "Museum of West African Art",
+  "by": "David Adjaye",
+  "city": "Benin City",
+  "cc": "NG",
+  "year": null,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Light & shadow"
+  ],
+  "features": "David Adjaye's Benin City museum, built for over 300 loaned West African objects, still closed after its planned 2025 opening.",
+  "commons_category": null,
+  "coords": [
+   6.32909,
+   5.62266
+  ],
+  "photos": [
+   {
+    "file": "File:MOWAA June Site Visit Press Images B 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kiruna-city-hall",
+  "qid": "Q106474297",
+  "status": "photo",
+  "why": "Henning Larsen Architects (well-known; in prep); the lead gives inauguration on 22 November 2018 and that it replaced the Igloo. Clean daylight exterior of the finished building.",
+  "name": "Kiruna City Hall",
+  "by": "Henning Larsen Architects",
+  "city": "Kiruna",
+  "cc": "SE",
+  "year": 2018,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Courtyard"
+  ],
+  "features": "Henning Larsen's new Kiruna city hall, nicknamed Kristallen, which replaced the old Igloo building in 2018.",
+  "commons_category": "Category:Kiruna stadshus",
+  "coords": [
+   67.84891,
+   20.30253
+  ],
+  "photos": [
+   {
+    "file": "File:Kiruna nya stadshus 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "knarvik-church",
+  "qid": "Q15972932",
+  "status": "photo",
+  "why": "The lead names Reiulf Ramstad Arkitekter and a modern long-church design in wood, built 2014; the photo is a daylight view of the finished timber facade.",
+  "name": "Knarvik Church",
+  "by": "Reiulf Ramstad Arkitekter",
+  "city": "Knarvik",
+  "cc": "NO",
+  "year": 2014,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "A wooden parish church in a modern long-church design by Reiulf Ramstad Arkitekter, built in 2014.",
+  "commons_category": "Category:Knarvik kirke",
+  "coords": [
+   60.5498,
+   5.2889
+  ],
+  "photos": [
+   {
+    "file": "File:RRA Knarvik-17©Hundven-Clements Photography.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kunsthalle-wurth",
+  "qid": "Q1792424",
+  "status": "unsure",
+  "why": "Henning Larsen (well-known) art museum, founded 2001 per the lead; photos show interiors, sculptures and details, with no clear whole exterior.",
+  "note": "no main photo"
+ },
+ {
+  "id": "new-taipei-city-art-museum",
+  "qid": "Q24831830",
+  "status": "skip",
+  "why": "Art museum; the lead gives no architect or design reason, and the photos are mostly details."
+ },
+ {
+  "id": "toyama-prefectural-museum-of-art-and-design",
+  "qid": "Q28689689",
+  "status": "unsure",
+  "why": "Opened 2017 per the lead, with a collection but no design reason; Wikidata gives Hiroshi Naito, whose standing needs a check. The one daylight exterior is clean.",
+  "note": "architect and reason not in the lead"
+ },
+ {
+  "id": "museum-of-glass",
+  "qid": "Q2894440",
+  "status": "photo",
+  "why": "Arthur Erickson (well-known; in prep) designed this museum; the lead gives founding in 2002, not an opening date, so year is null. Clean daylight exterior photos.",
+  "name": "Museum of Glass",
+  "by": "Arthur Erickson",
+  "city": "Tacoma",
+  "cc": "US",
+  "year": null,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Arthur Erickson's 75,000-square-foot Tacoma museum, dedicated to the studio glass movement.",
+  "commons_category": "Category:Museum of Glass",
+  "coords": [
+   47.2456,
+   -122.434
+  ],
+  "photos": [
+   {
+    "file": "File:Museum of Glass, Washington.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of Glass 1 (Tacoma, Washington).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of Glass (Tacoma, Washington).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-campus-for-the-archaeology-of-israel",
+  "qid": "Q2910572",
+  "status": "skip",
+  "why": "Future building; the lead says it is not yet complete and opens in 2027."
+ },
+ {
+  "id": "maritime-centre-vellamo",
+  "qid": "Q2945864",
+  "status": "unsure",
+  "why": "Lead gives no year and no design reason; Wikidata architect Ilmari Lahdelma may be well-known. The main photo is a clean daylight exterior.",
+  "note": "no year in the lead"
+ },
+ {
+  "id": "asnom-memorial-center",
+  "qid": "Q3395340",
+  "status": "photo",
+  "why": "The lead names Georgi Konstantinovski, gives the 2004 build date and the historic reason, and names the mosaic artist. A memorial building rather than a monument; daylight photos.",
+  "name": "ASNOM Memorial Center",
+  "by": "Georgi Konstantinovski",
+  "city": "Pelince",
+  "cc": "MK",
+  "year": 2004,
+  "type": "Memorial",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Memorial centre in Pelince with a replica of the room of ASNOM's first session, and a mosaic by Rubens Korubin.",
+  "commons_category": "Category:Memorial Center Pelince",
+  "coords": [
+   42.28169,
+   21.85798
+  ],
+  "photos": [
+   {
+    "file": "File:Викиекспедиција Козјачија 036.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Викиекспедиција Козјачија 152.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Викиекспедиција Козјачија 037.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "san-paolo-apostolo-foligno",
+  "qid": "Q3671552",
+  "status": "photo",
+  "why": "The lead names Fuksas, competition-won, and the 1997 earthquake reason; it gives a 2009 design date but no completion date, so year is null. Daylight exteriors.",
+  "name": "San Paolo Apostolo, Foligno",
+  "by": "Massimiliano Fuksas",
+  "city": "Foligno",
+  "cc": "IT",
+  "year": null,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Sculptural form"
+  ],
+  "features": "Massimiliano Fuksas's parish church in Foligno, a symbol of rebirth after the 1997 Umbria-Marche earthquakes.",
+  "commons_category": "Category:San Paolo Apostolo (Foligno)",
+  "coords": [
+   42.9562,
+   12.6885
+  ],
+  "photos": [
+   {
+    "file": "File:Foligno, San Paolo Apostolo 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Foligno - Chiesa di San Paolo Apostolo - 001.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Foligno - Chiesa di San Paolo Apostolo - 003.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "experimental-media-and-performing-arts-center",
+  "qid": "Q5421122",
+  "status": "photo",
+  "why": "Grimshaw Architects (well-known firm; in prep) designed this arts centre, opened 3 October 2008 per the lead; the lead gives no design reason. Daylight exteriors; night shots left out.",
+  "name": "Experimental Media and Performing Arts Center",
+  "by": "Grimshaw Architects",
+  "city": "Troy",
+  "cc": "US",
+  "year": 2008,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "A multi-venue arts centre at Rensselaer Polytechnic Institute, opened in 2008 and named after donor Curtis Priem.",
+  "commons_category": "Category:Experimental Media and Performing Arts Center",
+  "coords": [
+   42.7288,
+   -73.684
+  ],
+  "photos": [
+   {
+    "file": "File:EMPAC N Face.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:RPI EMPAC 3-22-2023 01.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:RPI EMPAC 3-22-2023 03.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kyoto-art-center",
+  "qid": "Q6452114",
+  "status": "skip",
+  "why": "Converted school building, registered as a cultural property; the lead names no new design."
+ },
+ {
+  "id": "tirpitz-museum-denmark",
+  "qid": "Q66310617",
+  "status": "skip",
+  "why": "Museum in an old bunker; the lead names no new design."
+ },
+ {
+  "id": "perth-convention-and-exhibition-centre",
+  "qid": "Q7170842",
+  "status": "skip",
+  "why": "Convention centre; the lead gives no architect or design reason."
+ },
+ {
+  "id": "seacity-museum",
+  "qid": "Q7439809",
+  "status": "photo",
+  "why": "The lead names Wilkinson Eyre and a new pavilion extension, which meets the rule for an old building; opened 10 April 2012 per the lead. Daylight exteriors.",
+  "name": "SeaCity Museum",
+  "by": "WilkinsonEyre",
+  "city": "Southampton",
+  "cc": "GB",
+  "year": 2012,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A purpose-built pavilion extension to Southampton's Grade II* listed civic centre, designed by Wilkinson Eyre.",
+  "commons_category": "Category:SeaCity Museum",
+  "coords": [
+   50.90802,
+   -1.40766
+  ],
+  "photos": [
+   {
+    "file": "File:SeaCity Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SeaCity Museum - Pavilion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SeaCity Museum 20180619.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-patrick-s-cathedral-parramatta",
+  "qid": "Q14935006",
+  "status": "unsure",
+  "why": "Lead says the contemporary cathedral was completed in 2003 (Giurgola in Wikidata); every exterior photo also puts the old Gothic church in the frame.",
+  "note": "no main photo"
+ },
+ {
+  "id": "smolensk-ring",
+  "qid": "Q2409271",
+  "status": "skip",
+  "why": "Racing circuit; not a building."
+ },
+ {
+  "id": "independence-memorial-museum-namibia",
+  "qid": "Q28196088",
+  "status": "skip",
+  "why": "History museum built as a state project; the lead gives only comparisons, no design reason, and the main photo is an aerial."
+ },
+ {
+  "id": "raf-bomber-command-memorial",
+  "qid": "Q7275188",
+  "status": "skip",
+  "why": "War memorial with sculptures; a monument, skipped."
+ },
+ {
+  "id": "saitama-prefectural-museum-of-history-and-folklore",
+  "qid": "Q11248611",
+  "status": "skip",
+  "why": "The lead gives the opening as 1971, before this pool's 2000 start."
+ },
+ {
+  "id": "kagawa-prefectural-higashiyama-kaii-setouchi-art-museum",
+  "qid": "Q11667379",
+  "status": "photo",
+  "why": "The lead calls Yoshio Taniguchi a famed architect and gives the 2005 opening; the lead's reason is the museum for Higashiyama's works. Daylight exteriors.",
+  "name": "Kagawa Prefectural Higashiyama Kaii Setouchi Art Museum",
+  "by": "Yoshio Taniguchi",
+  "city": "Sakaide",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Yoshio Taniguchi's museum for 350 works by painter Kaii Higashiyama, near the Great Seto Bridge.",
+  "commons_category": "Category:Kagawa Prefectural Higashiyama Kaii Setouchi Art Museum",
+  "coords": [
+   34.34938,
+   133.82419
+  ],
+  "photos": [
+   {
+    "file": "File:Kphsam01s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:せとうち美術館-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "reforma-222",
+  "qid": "Q11702494",
+  "status": "unsure",
+  "why": "Lead names Teodoro González de León and gives his other works, but this is a mixed-use tower complex; the photos are dusk, crowds or close-ups.",
+  "note": "no main photo"
+ },
+ {
+  "id": "jorge-oteiza-museum",
+  "qid": "Q12265359",
+  "status": "unsure",
+  "why": "Lead gives the 2003 opening; Wikidata architect Sáenz de Oíza died in 2000, so the design date needs a check. Photos mix sculpture with the building.",
+  "note": "check the architect's dates"
+ },
+ {
+  "id": "hampstead-theatre",
+  "qid": "Q15222684",
+  "status": "skip",
+  "why": "Theatre; the lead gives its programme, not a design reason, and names no architect."
+ },
+ {
+  "id": "kastelli-community-centre",
+  "qid": "Q18659895",
+  "status": "unsure",
+  "why": "Lead names no architect or design reason; Wikidata architect Rainer Mahlamäki may be well-known. The main photo is a clean daylight exterior.",
+  "note": "no design reason in the lead"
+ },
+ {
+  "id": "state-textile-and-industry-museum",
+  "qid": "Q2324620",
+  "status": "skip",
+  "why": "Former spinning mill converted into a museum; the lead names no new design."
+ },
+ {
+  "id": "phoenix-center",
+  "qid": "Q27583574",
+  "status": "photo",
+  "why": "The lead gives the Möbius-strip design and the Chaoyang Park site, and no year, so year is null. The PHOENIX lettering is in the foreground; the lattice dome is the subject.",
+  "name": "Phoenix Center",
+  "by": "Beijing Institute of Architectural Design",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "A Beijing media centre in Chaoyang Park whose sculptural shape comes from a Möbius strip.",
+  "commons_category": "Category:Phoenix Center, Beijing",
+  "coords": [
+   39.93333,
+   116.46762
+  ],
+  "photos": [
+   {
+    "file": "File:Phoenix Center, Beijing 1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dance-house-helsinki",
+  "qid": "Q29001046",
+  "status": "photo",
+  "why": "JKMM Architects (well-known firm; in prep); the lead gives no year, so year is null. Daylight exterior of the perforated facade beside the Kaapelitehdas.",
+  "name": "Dance House Helsinki",
+  "by": "JKMM Architects",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "A theatre called Tanssin talo, 'the house of dance', in Ruoholahti beside the Kaapelitehdas building.",
+  "commons_category": "Category:Dance House, Helsinki",
+  "coords": [
+   60.16244,
+   24.90581
+  ],
+  "photos": [
+   {
+    "file": "File:Cable Factory - Dance House - Kaukokiito in Helsinki 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cable Factory and Dance House in Helsinki 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cent-quatre",
+  "qid": "Q2944288",
+  "status": "skip",
+  "why": "Former funeral home converted in 2008; the lead names no new design."
+ },
+ {
+  "id": "montreal-symphony-house",
+  "qid": "Q3280275",
+  "status": "photo",
+  "why": "Jack Diamond and Diamond Schmitt Architects (in prep); the lead gives the 2,100-seat hall and its 2011 inauguration. Daylight exteriors.",
+  "name": "Montreal Symphony House",
+  "by": "Jack Diamond, Diamond Schmitt Architects",
+  "city": "Montreal",
+  "cc": "CA",
+  "year": 2011,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "A 2,100-seat concert hall on Montreal's Place des Arts esplanade, inaugurated in 2011 as the Maison symphonique.",
+  "commons_category": "Category:Maison symphonique de Montréal",
+  "coords": [
+   45.50928,
+   -73.56673
+  ],
+  "photos": [
+   {
+    "file": "File:Maison symphonique 75.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Maison symphonique 104.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Maison symphonique 118.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ }
+]

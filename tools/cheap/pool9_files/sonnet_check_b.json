@@ -1,0 +1,150 @@
+{
+ "keep_ok": [
+  "st-albert",
+  "st-gertrud",
+  "st-josef",
+  "st-matthaus",
+  "logrono-town-hall",
+  "auditorium-del-parco",
+  "cohen-house"
+ ],
+ "ordinary": [
+  "st-albert",
+  "st-josef",
+  "logrono-town-hall",
+  "palais-des-congres-de-tours",
+  "51-astor-place",
+  "paul-mellon-arts-center",
+  "weill-institute-for-cell-and-molecular-biology",
+  "cubo-negro"
+ ],
+ "keep_fix": [
+  {
+   "id": "palais-des-congres-de-tours",
+   "field": "features",
+   "haiku": "Jean Nouvel's congress and concert centre in Tours, opened in 1993 beside a public park.",
+   "should_be": "Jean Nouvel's congress centre in Tours, with landscape architect Yves Brunier, opened in 1993 beside a public park.",
+   "why": "The lead never says concert; it names Yves Brunier as landscape designer."
+  },
+  {
+   "id": "51-astor-place",
+   "field": "features",
+   "haiku": "A black-glass office tower in Manhattan by Fumihiko Maki, nicknamed 'The Death Star' and controversial.",
+   "should_be": "A black-glass office building in Manhattan by Fumihiko Maki, controversial for its style and nicknamed 'The Death Star'.",
+   "why": "The lead says office building, not tower."
+  },
+  {
+   "id": "51-astor-place",
+   "field": "movement",
+   "haiku": "Late modernism",
+   "should_be": "Contemporary",
+   "why": "A glass block of the 2010s (the lead gives no year), not late modernism."
+  },
+  {
+   "id": "centre-civic-de-riudaura",
+   "field": "concepts",
+   "haiku": [
+    "Landscape",
+    "Public space",
+    "Earth & local material"
+   ],
+   "should_be": [
+    "Landscape",
+    "Steel & glass",
+    "Public space"
+   ],
+   "why": "The photos show a dark weathering-steel and glass box in the landscape; nothing shows earth or local material."
+  },
+  {
+   "id": "paul-mellon-arts-center",
+   "field": "concepts",
+   "haiku": [
+    "Exposed concrete",
+    "Geometry",
+    "Pilotis"
+   ],
+   "should_be": [
+    "Exposed concrete",
+    "Geometry",
+    "Cantilever"
+   ],
+   "why": "The photo shows a concrete block with a deep cantilevered entrance; no pilotis are visible."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "olympic-roof-munich",
+   "why": "Same work as munich-olympic-stadium already on the wall (Behnisch & Partner, Frei Otto, 1972): the tent roof is the stadium's famous feature and also covers the halls. The main photo is a tiny panorama and the others are roof details."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "tour-horizons",
+   "better_file_or_null": "File:Tours Horizons, Boulogne-Boulogne-Billancourt.jpg",
+   "why": "Haiku's first photo is a street view of the Pont Renault bridge with the tower small at left. The Tours Horizons photo shows the tower as the subject."
+  },
+  {
+   "id": "centre-civic-de-riudaura",
+   "better_file_or_null": "File:Centre cívic de Riudaura.jpg",
+   "why": "Main has the building small behind a dirt road; this photo shows the whole building clearly in daylight."
+  },
+  {
+   "id": "william-l-slayton-house",
+   "better_file_or_null": null,
+   "why": "The only photo shows a courtyard pavilion and pool, not the whole house from outside. Hold until a better photo is found."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "cubo-negro",
+   "why": "Philip Johnson's Banaven Centre, the black glass cube; the lead calls its geometric glass architecture an outstanding urban landmark. Main photos show the whole cube in daylight (small behind trees, so a weak first photo); Haiku wrongly called it cut off. Ordinary type (office), kept only on the lead's landmark reason; owner may prefer to drop it.",
+   "entry": {
+    "id": "cubo-negro",
+    "qid": "Q56101931",
+    "status": "photo",
+    "why": "Johnson's black-glass cube; urban landmark per the lead; whole cube visible in daylight.",
+    "name": "Cubo Negro",
+    "by": "Philip Johnson",
+    "city": "Caracas",
+    "cc": "VE",
+    "year": null,
+    "type": "Office & tower",
+    "movement": "Late modernism",
+    "concepts": [
+     "Geometry",
+     "Facade as skin",
+     "Steel & glass"
+    ],
+    "features": "A geometric modern office building in Caracas, clad in black glass panels and a notable urban landmark.",
+    "commons_category": "Category:Cubo Negro",
+    "coords": [
+     10.48433,
+     -66.85333
+    ],
+    "photos": [
+     {
+      "file": "File:Cubo Negro 2013 001.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Cubo Negro 2013 000.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Cubo Negro 2013 003.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Centro Banaven (Cubo Negro).JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 72-138 (67). Haiku: 15 photo, 9 unsure/skip with a lead, rest empty-lead skips. Checked 15 photo: 7 fine (keep_ok), 5 field fixes on 4 entries (palais-des-congres-de-tours, 51-astor-place, centre-civic-de-riudaura, paul-mellon-arts-center), 1 wrong (olympic-roof-munich, duplicate of munich-olympic-stadium), 3 with main photo problems (tour-horizons and centre-civic-de-riudaura have a better photo, william-l-slayton-house has none). So 14 kept entries remain, of which 3 need a photo change (slayton-house held for photo). Ordinary (lead gives no design reason, or ordinary type): 7 of 14 plus the rescue = 8 of 15 (53%), far above the 20% limit; drop the weakest (51-astor-place, weill-institute, cubo-negro, logrono-town-hall) if the ordinary share matters. Unsure/skip reviewed: 1 rescued (cubo-negro); all other skips and unsures confirmed (no usable photo: 72 tancredo-neves city, 75, 90, 93, 97, 128, 136; correct skips: 77, 79, 82, 87, 88, 91, 92, 95, 98, 103, 110, 137; empty leads 83, 104-135, 138 not rescued)."
+}

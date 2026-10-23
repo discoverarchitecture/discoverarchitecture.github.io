@@ -1,0 +1,365 @@
+[
+ {
+  "id": "lucas-museum-of-narrative-art",
+  "qid": "Q20711578",
+  "name": "Lucas Museum of Narrative Art",
+  "why": "no main photo",
+  "entry": {
+   "id": "lucas-museum-of-narrative-art",
+   "qid": "Q20711578",
+   "status": "photo",
+   "why": "Ma Yansong (well-known; in prep) designed this museum, opened 22 September 2026 per the lead; the lead gives no design reason, but it is a major new build with a clean daylight exterior.",
+   "name": "Lucas Museum of Narrative Art",
+   "by": "Ma Yansong",
+   "city": "Los Angeles",
+   "cc": "US",
+   "year": 2026,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Sculptural form",
+    "Landscape",
+    "Public space"
+   ],
+   "features": "Ma Yansong's museum of visual storytelling in Exposition Park, founded by George Lucas and Mellody Hobson.",
+   "commons_category": "Category:Lucas Museum of Narrative Art",
+   "coords": [
+    34.01528,
+    -118.29083
+   ],
+   "photos": [
+    {
+     "file": "File:Lucas Museum of Narrative Art (2026).jpg",
+     "license": "CC0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lucas_Museum_of_Narrative_Art",
+    "https://www.wikidata.org/wiki/Q20711578"
+   ]
+  }
+ },
+ {
+  "id": "museum-of-west-african-art",
+  "qid": "Q104157193",
+  "name": "Museum of West African Art",
+  "why": "no sourced year",
+  "entry": {
+   "id": "museum-of-west-african-art",
+   "qid": "Q104157193",
+   "status": "photo",
+   "why": "The lead says it has been built but stays closed; no opening year, so year is null. David Adjaye is named in prep; the main photo is a clean daylight exterior.",
+   "name": "Museum of West African Art",
+   "by": "David Adjaye",
+   "city": "Benin City",
+   "cc": "NG",
+   "year": null,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Sculptural form",
+    "Monumentality",
+    "Light & shadow"
+   ],
+   "features": "David Adjaye's Benin City museum for over 300 items on loan from European museums, closed after opening-day protests.",
+   "commons_category": null,
+   "coords": [
+    6.32909,
+    5.62266
+   ],
+   "photos": [
+    {
+     "file": "File:MOWAA June Site Visit Press Images B 03.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Museum_of_West_African_Art",
+    "https://www.wikidata.org/wiki/Q104157193"
+   ]
+  }
+ },
+ {
+  "id": "san-paolo-apostolo-foligno",
+  "qid": "Q3671552",
+  "name": "San Paolo Apostolo, Foligno",
+  "why": "no sourced year",
+  "entry": {
+   "id": "san-paolo-apostolo-foligno",
+   "qid": "Q3671552",
+   "status": "photo",
+   "why": "The lead names Fuksas, competition-won, and the 1997 earthquake reason; it gives a 2009 design date but no completion date, so year is null. Daylight exteriors.",
+   "name": "San Paolo Apostolo, Foligno",
+   "by": "Massimiliano Fuksas",
+   "city": "Foligno",
+   "cc": "IT",
+   "year": null,
+   "type": "Religious",
+   "movement": "Contemporary",
+   "concepts": [
+    "Exposed concrete",
+    "Light from above",
+    "Sculptural form"
+   ],
+   "features": "Massimiliano Fuksas's parish church in Foligno, a symbol of rebirth after the 1997 Umbria-Marche earthquakes.",
+   "commons_category": "Category:San Paolo Apostolo (Foligno)",
+   "coords": [
+    42.9562,
+    12.6885
+   ],
+   "photos": [
+    {
+     "file": "File:Foligno, San Paolo Apostolo 01.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Foligno - Chiesa di San Paolo Apostolo - 001.JPG",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Foligno - Chiesa di San Paolo Apostolo - 003.JPG",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/San_Paolo_Apostolo%2C_Foligno",
+    "https://www.wikidata.org/wiki/Q3671552"
+   ]
+  }
+ },
+ {
+  "id": "suzhou-culture-and-arts-centre",
+  "qid": "Q1592372",
+  "name": "Suzhou Culture and Arts Centre",
+  "why": "no main photo",
+  "entry": {
+   "id": "suzhou-culture-and-arts-centre",
+   "qid": "Q1592372",
+   "status": "photo",
+   "why": "Built work of Paul Andreu (on the wall) per Wikidata; the lead names no architect, so kept by the architect route",
+   "name": "Suzhou Culture and Arts Centre",
+   "by": "Paul Andreu",
+   "city": "Suzhou",
+   "cc": "CN",
+   "year": 2007,
+   "type": "Culture & sport",
+   "movement": "Contemporary",
+   "concepts": [
+    "Sculptural form",
+    "Monumentality",
+    "Water"
+   ],
+   "features": "A 150,000 square metre culture complex east of Jinji Lake in the China–Singapore Suzhou Industrial Park.",
+   "commons_category": "Category:Suzhou Culture and Art Center",
+   "coords": [
+    31.3235,
+    120.69857
+   ],
+   "photos": [
+    {
+     "file": "File:(SIP) Science & Technical Center.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Suzhou Culture and Arts Centre.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Suzhou_Culture_and_Arts_Centre",
+    "https://www.wikidata.org/wiki/Q1592372"
+   ]
+  }
+ },
+ {
+  "id": "ibm-studios",
+  "qid": "Q48806168",
+  "name": "IBM Studios",
+  "why": "no sourced year",
+  "entry": {
+   "id": "ibm-studios",
+   "qid": "Q48806168",
+   "status": "photo",
+   "why": "De Lucchi is a well-known designer; the pavilion is a built wooden form. Lead gives no year.",
+   "name": "IBM Studios",
+   "by": "Michele De Lucchi",
+   "city": "Milan",
+   "cc": "IT",
+   "year": null,
+   "type": "Pavilion",
+   "movement": "Contemporary",
+   "concepts": [
+    "Timber",
+    "Sculptural form",
+    "Public space"
+   ],
+   "features": "Multi-purpose pavilion in Piazza Gae Aulenti, formerly named the UniCredit Pavilion.",
+   "commons_category": "Category:IBM Studios",
+   "coords": [
+    45.48336,
+    9.1914
+   ],
+   "photos": [
+    {
+     "file": "File:Unicredit Pavilon.JPG",
+     "license": "Public domain",
+     "seen": true
+    },
+    {
+     "file": "File:Milano - IBM Studios.jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://it.wikipedia.org/wiki/IBM_Studios",
+    "https://www.wikidata.org/wiki/Q48806168"
+   ]
+  }
+ },
+ {
+  "id": "bunker-599",
+  "qid": "Q18814207",
+  "name": "Bunker 599",
+  "why": "described as an installation; owner to decide whether it counts as a building",
+  "entry": {
+   "id": "bunker-599",
+   "qid": "Q18814207",
+   "status": "photo",
+   "why": "An architects' intervention (RAAAF and Atelier de Lyon): a wartime bunker sawn in two with a walkway to a lake, widely studied as adaptive reuse. The lead calls it an installation, so the owner may treat it as a work of art rather than a building; the photos are clear daylight exteriors.",
+   "name": "Bunker 599",
+   "by": "Erick de Lyon, Ronald Rietveld",
+   "city": "Culemborg",
+   "cc": "NL",
+   "year": 2010,
+   "type": "Public space",
+   "movement": "Contemporary",
+   "concepts": [
+    "Adaptive reuse",
+    "Void",
+    "Exposed concrete"
+   ],
+   "features": "A wartime bunker sawn in two, with access to a small artificial lake.",
+   "commons_category": "Category:Bunker 599",
+   "coords": [
+    51.93594,
+    5.1535
+   ],
+   "photos": [
+    {
+     "file": "File:Diefdijk bij A2 Doorgezaagde bunker.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Bunker 599.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Groepsschuilplaats Diefdijk.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Bunker_599",
+    "https://www.wikidata.org/wiki/Q18814207"
+   ]
+  }
+ },
+ {
+  "id": "house-okamura",
+  "qid": "Q110219729",
+  "name": "House Okamura",
+  "why": "private home of a named politician; not published",
+  "entry": {
+   "id": "house-okamura",
+   "qid": "Q110219729",
+   "status": "photo",
+   "why": "Atypical house by Christian Kerez, built 2018-2021 (Czech lead).",
+   "name": "House Okamura",
+   "by": "Christian Kerez",
+   "city": "Prague",
+   "cc": "CZ",
+   "year": 2021,
+   "type": "House",
+   "movement": "Contemporary",
+   "concepts": [
+    "Brick",
+    "Sculptural form",
+    "Geometry"
+   ],
+   "features": "Christian Kerez's atypical house in Prague's Břevnov, built 2018–2021 on 371 square metres, with the architect given complete freedom.",
+   "commons_category": "Category:House Okamura",
+   "coords": [
+    50.08194,
+    14.37326
+   ],
+   "photos": [
+    {
+     "file": "File:House Okamura 8227.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:House Okamura - celkový pohled.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://cs.wikipedia.org/wiki/D%C5%AFm_Okamura",
+    "https://www.wikidata.org/wiki/Q110219729"
+   ]
+  }
+ },
+ {
+  "id": "deloitte-building-christchurch",
+  "qid": "Q66132732",
+  "name": "Deloitte Building, Christchurch",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "deloitte-building-christchurch",
+   "qid": "Q66132732",
+   "status": "photo",
+   "why": "Lead gives the 2014 completion and a design reason (base isolation, curved glass fins). Only the river view is daylight; the main photo is a dusk shot.",
+   "name": "Deloitte Building, Christchurch",
+   "by": "Jasmax",
+   "city": "Christchurch",
+   "cc": "NZ",
+   "year": 2014,
+   "type": "Workplace",
+   "movement": "Contemporary",
+   "concepts": [
+    "Facade as skin",
+    "Structure as expression",
+    "Geometry"
+   ],
+   "features": "Jasmax's 2014 Christchurch office, the first New Zealand building with triple pendulum base isolation, in curved blue glass.",
+   "commons_category": "Category:Deloitte Building, Christchurch",
+   "coords": [
+    -43.53008,
+    172.63292
+   ],
+   "photos": [
+    {
+     "file": "File:Deloitte Building and River Avon and sculpture Stay, Christchurch, New Zealand.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/151_Cambridge_Terrace%2C_Christchurch",
+    "https://www.wikidata.org/wiki/Q66132732"
+   ]
+  }
+ }
+]

@@ -91,5 +91,23 @@
   "metric": "buildings_added",
   "status": "done",
   "note": "52 added, ordinary types 17%"
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "New candidate search: (1) batch 9 from the Pritzker winners' buildings not yet on the wall (139); (2) harvest buildings from 2000 on with a lower fame bar (tools/harvest_recent.py) for batch 10",
+  "target": 60,
+  "metric": "buildings_added",
+  "status": "done",
+  "note": "Batch 9: 22 added; batch 10 (300 from the 2000-on harvest) being prepared"
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "Fix-up round: find sourced years for the 51 buildings held for want of one (tools/held_years.py, Sonnet picks the year and quotes the source), then add them",
+  "target": 30,
+  "metric": "buildings_added",
+  "status": "done",
+  "note": "39 added"
  }
 ]

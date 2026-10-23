@@ -1,0 +1,1401 @@
+[
+ {
+  "id": "blessed-augustin-kazotic-church-zagreb",
+  "qid": "Q108905893",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "kuwana-media-live",
+  "qid": "Q109360352",
+  "status": "photo",
+  "why": "Lead names a first (Japan's first PFI library). Architect from Wikidata. Year not in lead. Main photo: whole exterior, daylight.",
+  "name": "Kuwana Media Live",
+  "by": "AXS Satow",
+  "city": "Kuwana",
+  "cc": "JP",
+  "year": null,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Community",
+   "Public space"
+  ],
+  "features": "Japan's first library built and run under the PFI scheme, combined with a health centre and hall.",
+  "commons_category": "Category:Kuwana Media Live",
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:Kuwana KLC ac (6).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kuwana KLC ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kuwana KLC ac (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chiesa-di-san-giacomo-apostolo",
+  "qid": "Q110087199",
+  "status": "photo",
+  "why": "Lead gives a design reason (new architecture and contemporary art) and names the studio. Year 2021 is the consecration date in the lead.",
+  "name": "Chiesa di San Giacomo Apostolo",
+  "by": "Benedetta Tagliabue",
+  "city": "Ferrara",
+  "cc": "IT",
+  "year": 2021,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Community"
+  ],
+  "features": "Benedetta Tagliabue's church in Ferrara, consecrated in 2021, with black ceramic works by the artist Enzo Cucchi inside.",
+  "commons_category": "Category:Chiesa di San Giacomo Apostolo (Ferrara, via Arginone)",
+  "coords": [
+   44.83699,
+   11.59533
+  ],
+  "photos": [
+   {
+    "file": "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "house-okamura",
+  "qid": "Q110219729",
+  "status": "skip",
+  "why": "A private family house; not published on the wall."
+ },
+ {
+  "id": "cube",
+  "qid": "Q111026370",
+  "status": "photo",
+  "why": "Lead gives a first (first all carbon-concrete building) and the opening date 28 Sept 2022. Lead's own name is CUBE.",
+  "name": "CUBE",
+  "by": "Gunter Henn",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": 2022,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "The world's first building made entirely of non-metal reinforced carbon concrete, a research building opened in 2022.",
+  "commons_category": "Category:Carbonbetonhaus Dresden",
+  "coords": [
+   51.02998,
+   13.7321
+  ],
+  "photos": [
+   {
+    "file": "File:CUBE - Carbonhaus der TU Dresden.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Carbon Concrete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 9.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Carbon Concete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 11.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "byodo-in-museum-hoshokan",
+  "qid": "Q11483478",
+  "status": "photo",
+  "why": "Lead gives a claimed first and the 1 March 2001 opening. Architect from Wikidata (not named in lead).",
+  "name": "Byodo-in Museum Hoshokan",
+  "by": "Akira Kuryu",
+  "city": "Uji",
+  "cc": "JP",
+  "year": 2001,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Structure as expression"
+  ],
+  "features": "A history museum inside the Byodo-in temple grounds, claimed as the first comprehensive registered museum of a religious corporation.",
+  "commons_category": "Category:Byodo-in Museum Hoshokan",
+  "coords": [
+   34.8887,
+   135.80739
+  ],
+  "photos": [
+   {
+    "file": "File:Byodoin Uji Kyoto19s3s4410.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Byōdō-in (UJI, Kyoto) hdsr Hoshokan S5 5.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tetsuro-hoshino-museum",
+  "qid": "Q11513103",
+  "status": "skip",
+  "why": "Biographical museum of a songwriter; lead gives no design reason."
+ },
+ {
+  "id": "yokoo-tadanori-museum-of-contemporary-art",
+  "qid": "Q11542451",
+  "status": "unsure",
+  "why": "Wikidata names Togo Murano, who died in 1984, for a museum of 2012; the lead names no architect or year. Architect cannot be confirmed."
+ },
+ {
+  "id": "danube-house",
+  "qid": "Q11774269",
+  "status": "photo",
+  "why": "Lead gives a design reason (unique low-energy building) and the 2003 completion. Main photo chosen to avoid the other tower in view.",
+  "name": "Danube House",
+  "by": "Kohn Pedersen Fox, ADNS architekti",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 2003,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Circulation",
+   "Cluster"
+  ],
+  "features": "A low-energy office building by KPF and ADNS, linked underground to its Karlín neighbours by a service tunnel.",
+  "commons_category": "Category:Danube House",
+  "coords": [
+   50.0942,
+   14.4436
+  ],
+  "photos": [
+   {
+    "file": "File:Rohanské nábřeží, Danube House.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "church-of-santa-maria-della-pace",
+  "qid": "Q118984207",
+  "status": "photo",
+  "why": "Lead gives a design reason (star-plan, geometry of roof) and a 1997-2003 build. Portoghesi is a well-known architect.",
+  "name": "Church of Santa Maria della Pace",
+  "by": "Paolo Portoghesi",
+  "city": "Terni",
+  "cc": "IT",
+  "year": 2003,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "Portoghesi's star-plan church in Terni, its timber roof following the same geometry, with contemporary art inside.",
+  "commons_category": "Category:Santa Maria della Pace (Terni)",
+  "coords": [
+   42.53267,
+   12.66311
+  ],
+  "photos": [
+   {
+    "file": "File:TerniIppocrateSantaMariaDellaPace2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TerniIppocrateSantaMariaDellaPace1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "plassen-cultural-centre",
+  "qid": "Q11995811",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "vitaparc",
+  "qid": "Q120670476",
+  "status": "skip",
+  "why": "Ordinary housing estate; lead gives no design reason."
+ },
+ {
+  "id": "tsinghua-international-school-daoxiang-lake",
+  "qid": "Q128370934",
+  "status": "skip",
+  "why": "Ordinary private school; lead gives no design reason."
+ },
+ {
+  "id": "bell-of-chichi-earthquake",
+  "qid": "Q131604377",
+  "status": "skip",
+  "why": "Earthquake memorial bell; a monument, skipped."
+ },
+ {
+  "id": "cherry-groce-memorial-pavilion",
+  "qid": "Q136411030",
+  "status": "photo",
+  "why": "Adjaye is a well-known architect and this is a built pavilion, not a statue. Memorial, so kept with care.",
+  "name": "Cherry Groce Memorial Pavilion",
+  "by": "David Adjaye",
+  "city": "London",
+  "cc": "GB",
+  "year": 2021,
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "David Adjaye's memorial pavilion in Windrush Square, Brixton, unveiled in 2021 for Dorothy 'Cherry' Groce.",
+  "commons_category": "Category:Cherry Groce Memorial Pavilion",
+  "coords": [
+   51.46059,
+   -0.11534
+  ],
+  "photos": [
+   {
+    "file": "File:At Brixton 2026 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Brixton 2026 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Brixton 2026 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-sunken-house",
+  "qid": "Q137645918",
+  "status": "unsure",
+  "why": "No photos on the list. Lead is a 2007 David Adjaye house in Hackney, but there is no photo to judge.",
+  "note": "no main photo"
+ },
+ {
+  "id": "nieuwe-metterswane",
+  "qid": "Q138960177",
+  "status": "skip",
+  "why": "Still under construction, due 2027; not built."
+ },
+ {
+  "id": "borgo-citta-nuova",
+  "qid": "Q140254485",
+  "status": "photo",
+  "why": "Lead names Krier and gives a reason (New Urbanism manifesto). Year not in lead. Main photo is a street facade of the complex.",
+  "name": "Borgo Città Nuova",
+  "by": "Léon Krier",
+  "city": "Alessandria",
+  "cc": "IT",
+  "year": null,
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Promenade"
+  ],
+  "features": "Léon Krier's New Classical town quarter in Alessandria, meant as a manifesto for New Urbanism.",
+  "commons_category": null,
+  "coords": [
+   44.9038,
+   8.61897
+  ],
+  "photos": [
+   {
+    "file": "File:Borgo Città Nuova di Alessandria.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dnb-midt-bygget",
+  "qid": "Q140387386",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "informatics-forum",
+  "qid": "Q15228671",
+  "status": "skip",
+  "why": "Lead gives only that it is a campus building housing research institutes; no design reason."
+ },
+ {
+  "id": "bibliotheque-georges-pompidou",
+  "qid": "Q15945164",
+  "status": "skip",
+  "why": "Lead gives no design reason; the only photo is an older hotel building."
+ },
+ {
+  "id": "teatro-politeama",
+  "qid": "Q16612518",
+  "status": "photo",
+  "why": "Lead gives the 29 Nov 2002 opening and a reason (newest of Italy's great theatres). Portoghesi is well known.",
+  "name": "Teatro Politeama",
+  "by": "Paolo Portoghesi",
+  "city": "Catanzaro",
+  "cc": "IT",
+  "year": 2002,
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Portoghesi's theatre in Catanzaro's historic centre, opened in 2002 as the newest of Italy's great theatres.",
+  "commons_category": "Category:Teatro Politeama (Catanzaro)",
+  "coords": [
+   38.90583,
+   16.59417
+  ],
+  "photos": [
+   {
+    "file": "File:Catanzaro - Teatro Politeama05.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatro Politeama (Catanzaro).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Catanzaro - Teatro Politeama03.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "prismen",
+  "qid": "Q16967758",
+  "status": "unsure",
+  "why": "The only photo is the interior of the hall; no daylight outside view of the whole building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "kulturoeen",
+  "qid": "Q1791923",
+  "status": "photo",
+  "why": "Lead names the architects and the 7 Aug 2005 opening; the harbour site is the design reason. Well-known Danish practice.",
+  "name": "Kulturøen",
+  "by": "Schmidt Hammer Lassen",
+  "city": "Middelfart",
+  "cc": "DK",
+  "year": 2005,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Public space",
+   "Community"
+  ],
+  "features": "Schmidt Hammer Lassen's cultural centre on an artificial peninsula in a Middelfart marina, opened in August 2005.",
+  "commons_category": null,
+  "coords": [
+   55.5058,
+   9.73667
+  ],
+  "photos": [
+   {
+    "file": "File:Middelfart Kulturøen.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "havneholmen",
+  "qid": "Q19562270",
+  "status": "skip",
+  "why": "Lead says still under construction; ordinary housing blocks."
+ },
+ {
+  "id": "rozet",
+  "qid": "Q19973961",
+  "status": "photo",
+  "why": "Lead gives the design idea (rosette pattern) and the 10 Dec 2013 opening. Architects named in lead.",
+  "name": "Rozet",
+  "by": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
+  "city": "Arnhem",
+  "cc": "NL",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Community",
+   "Public space"
+  ],
+  "features": "Named after the rosette pattern used throughout, housing a public library and a roof terrace over Arnhem.",
+  "commons_category": "Category:Rozet (Arnhem)",
+  "coords": [
+   51.98078,
+   5.90429
+  ],
+  "photos": [
+   {
+    "file": "File:Rozet-building-arnhem.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "campus-maastricht",
+  "qid": "Q2025492",
+  "status": "skip",
+  "why": "Calatrava project abandoned in 2009; never finished."
+ },
+ {
+  "id": "toyama-kirari",
+  "qid": "Q21060996",
+  "status": "photo",
+  "why": "Lead gives a first and two design features (panel facade, diagonal atrium); opened 22 Aug 2015. Kuma is on the wall.",
+  "name": "Toyama Kirari",
+  "by": "Research Institute of Architecture, Kengo Kuma",
+  "city": "Toyama",
+  "cc": "JP",
+  "year": 2015,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Cluster"
+  ],
+  "features": "Japan's first building to combine a library with a bank head office, its facade made of about 1,000 panels.",
+  "commons_category": "Category:Toyama KIRARI",
+  "coords": [
+   36.68858,
+   137.21475
+  ],
+  "photos": [
+   {
+    "file": "File:TOYAMA KIRARI exterior in the morning ac (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TOYAMA KIRARI exterior in the morning ac (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "expo-70-pavilion",
+  "qid": "Q24866421",
+  "status": "skip",
+  "why": "1970 Expo pavilion reopened as a museum in 2010; lead names no new design."
+ },
+ {
+  "id": "pacific-gate-by-bosa-dev",
+  "qid": "Q28226191",
+  "status": "skip",
+  "why": "Luxury residential tower; lead gives no design reason."
+ },
+ {
+  "id": "museum-on-echigo-tsumari-monet",
+  "qid": "Q28686072",
+  "status": "photo",
+  "why": "Hara is a well-known architect; lead gives no year, so null. Main photo is the grassed mound exterior.",
+  "name": "Museum on Echigo-Tsumari (MonET)",
+  "by": "Hiroshi Hara",
+  "city": "Tōkamachi",
+  "cc": "JP",
+  "year": null,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Courtyard"
+  ],
+  "features": "A contemporary art museum that is one of the hubs of the Echigo-Tsumari Art Triennale in rural Niigata.",
+  "commons_category": "Category:Museum on Echigo-Tsumari (MonET)",
+  "coords": [
+   37.13889,
+   138.76028
+  ],
+  "photos": [
+   {
+    "file": "File:Echigo-Tsumari Satoyama Museum of Contemporary Art KINARE.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "matsudai-nohbutai",
+  "qid": "Q28686074",
+  "status": "photo",
+  "why": "Lead says it was built for the 2003 triennial (year taken from that). MVRDV is a well-known practice.",
+  "name": "Matsudai Nohbutai",
+  "by": "MVRDV",
+  "city": "Tōkamachi",
+  "cc": "JP",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Earth & local material",
+   "Public space"
+  ],
+  "features": "Contemporary art museum and local archive built for the 2003 Echigo-Tsumari Art Triennale, with a field museum around it.",
+  "commons_category": "Category:Matsudai Nohbutai Field Museum",
+  "coords": [
+   37.13167,
+   138.615
+  ],
+  "photos": [
+   {
+    "file": "File:Matsudai Nohbutai.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cite-des-arts",
+  "qid": "Q2974769",
+  "status": "photo",
+  "why": "Lead names Kuma and gives the 5 April 2013 inauguration.",
+  "name": "Cité des Arts",
+  "by": "Kengo Kuma",
+  "city": "Besançon",
+  "cc": "FR",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Public space"
+  ],
+  "features": "Built by Archidev with Kengo Kuma, opened April 2013 to house a regional conservatory and contemporary art fund.",
+  "commons_category": "Category:Cité des arts et de la Culture de Besançon",
+  "coords": [
+   47.2365,
+   6.03344
+  ],
+  "photos": [
+   {
+    "file": "File:Cité des arts et de la Culture de Besançon.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cité des Arts et de la Culture de Besançon.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "polygon-house",
+  "qid": "Q30278283",
+  "status": "skip",
+  "why": "Office building; lead gives no design reason."
+ },
+ {
+  "id": "main-library-north-area-national-library-of-china",
+  "qid": "Q30944603",
+  "status": "skip",
+  "why": "Lead gives no design reason and the architect is not a well-known name."
+ },
+ {
+  "id": "le-quai",
+  "qid": "Q3226175",
+  "status": "skip",
+  "why": "Lead gives no design reason and the architect is not a well-known name."
+ },
+ {
+  "id": "viborg-town-hall",
+  "qid": "Q34994879",
+  "status": "photo",
+  "why": "Lead gives size, September 2011 opening and the former barracks site; Henning Larsen is a well-known practice.",
+  "name": "Viborg town hall",
+  "by": "Henning Larsen Architects",
+  "city": "Viborg",
+  "cc": "DK",
+  "year": 2011,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Henning Larsen's town hall for Viborg, 20,000 square metres, opened in September 2011 on a former barracks site.",
+  "commons_category": "Category:Viborg Rådhus",
+  "coords": [
+   56.4586,
+   9.39841
+  ],
+  "photos": [
+   {
+    "file": "File:Viborgs nye rådhus set fra vandtårnet.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "zenith-de-rouen",
+  "qid": "Q3576487",
+  "status": "photo",
+  "why": "Tschumi is a well-known architect; lead gives no year. Arena kept on the second test (well-known architect). Main photo replaced by a clear daylight view.",
+  "name": "Zénith de Rouen",
+  "by": "Bernard Tschumi",
+  "city": "Le Grand-Quevilly",
+  "cc": "FR",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Tschumi's concert hall in Le Grand-Quevilly, with capacity from 850 to 8,000 depending on the show.",
+  "commons_category": "Category:Zénith de Rouen",
+  "coords": [
+   49.39474,
+   1.05788
+  ],
+  "photos": [
+   {
+    "file": "File:Zenith de Grand Quevilly.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "amare",
+  "qid": "Q3945746",
+  "status": "photo",
+  "why": "Lead names three architects, including Jo Coenen and NL Architects; gives the site history. Year not in lead.",
+  "name": "Amare",
+  "by": "Jo Coenen, Patrick Fransen",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": null,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Community",
+   "Public space"
+  ],
+  "features": "An education and culture complex in The Hague, built where the Dr. Anton Philipszaal once stood.",
+  "commons_category": "Category:Amare",
+  "coords": [
+   52.07714,
+   4.31778
+  ],
+  "photos": [
+   {
+    "file": "File:Amare, The Hague, 09-2021, img 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "2-marsham-street",
+  "qid": "Q4633348",
+  "status": "photo",
+  "why": "Terry Farrell is a well-known architect; lead gives March 2005 as the occupancy date.",
+  "name": "2 Marsham Street",
+  "by": "Terry Farrell",
+  "city": "London",
+  "cc": "GB",
+  "year": 2005,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Colour"
+  ],
+  "features": "Office building on Marsham Street, London, headquarters of the Home Office since March 2005.",
+  "commons_category": "Category:2 Marsham Street",
+  "coords": [
+   51.4957,
+   -0.1299
+  ],
+  "photos": [
+   {
+    "file": "File:Marsham Street.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lourdeskapelle-salgenreute",
+  "qid": "Q47012227",
+  "status": "photo",
+  "why": "Lead gives a design reason (historic forms and materials, modern minimalist style). Year not in lead.",
+  "name": "Lourdeskapelle Salgenreute",
+  "by": "Bernardo Bader",
+  "city": "Krumbach",
+  "cc": "AT",
+  "year": null,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "A minimalist modern chapel that picks up the historic building forms and local materials of its Salgenreute setting.",
+  "commons_category": "Category:Lourdes Kapelle, Krumbach",
+  "coords": [
+   47.49199,
+   9.9179
+  ],
+  "photos": [
+   {
+    "file": "File:Lourdes Kapelle-87933.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lourdes Kapelle-87924.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lourdes Kapelle-87929.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "herman-teirlinck-building",
+  "qid": "Q47457146",
+  "status": "photo",
+  "why": "Neutelings Riedijk is a well-known practice; lead gives the site and client. Year not in lead.",
+  "name": "Herman Teirlinck Building",
+  "by": "Neutelings Riedijk Architects, Conix Architects",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Pilotis",
+   "Structure as expression"
+  ],
+  "features": "Neutelings Riedijk's Flemish government office on the Thurn & Taxis site, beside the Port of Brussels.",
+  "commons_category": "Category:Herman Teirlinckgebouw",
+  "coords": [
+   50.86623,
+   4.35011
+  ],
+  "photos": [
+   {
+    "file": "File:Brussel-Herman Teirlinckgebouw (3).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018brussel 25.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018brussel 30.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ibm-studios",
+  "qid": "Q48806168",
+  "status": "photo",
+  "why": "De Lucchi is a well-known designer; the pavilion is a built wooden form. Lead gives no year.",
+  "name": "IBM Studios",
+  "by": "Michele De Lucchi",
+  "city": "Milan",
+  "cc": "IT",
+  "year": null,
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Multi-purpose pavilion in Piazza Gae Aulenti, formerly named the UniCredit Pavilion.",
+  "commons_category": "Category:IBM Studios",
+  "coords": [
+   45.48336,
+   9.1914
+  ],
+  "photos": [
+   {
+    "file": "File:Milano - IBM Studios.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "san-massimiliano-kolbe-church",
+  "qid": "Q48812881",
+  "status": "photo",
+  "why": "Gregotti is a well-known architect; lead gives location and complex. Year not in lead.",
+  "name": "San Massimiliano Kolbe Church",
+  "by": "Vittorio Gregotti",
+  "city": "Bergamo",
+  "cc": "IT",
+  "year": null,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Community"
+  ],
+  "features": "Vittorio Gregotti's church in Bergamo's Loreto quarter, part of the Madonna di Loreto complex.",
+  "commons_category": "Category:San Massimiliano Kolbe (Bergamo)",
+  "coords": [
+   45.69223,
+   9.64742
+  ],
+  "photos": [
+   {
+    "file": "File:Bergamo - Chiesa di San Massimiliano Kolbe - 2023-09-30 15-43-46 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bergamo - Chiesa di San Massimiliano Kolbe - 2023-09-30 15-38-54 001.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "campus-universidad-del-salvador",
+  "qid": "Q5028689",
+  "status": "unsure",
+  "why": "The only photo shows a terrace railing, not the whole mound-shaped building the lead describes.",
+  "note": "no main photo"
+ },
+ {
+  "id": "conrad-prebys-music-center",
+  "qid": "Q5162588",
+  "status": "skip",
+  "why": "Lead gives no design reason and the architect is not a well-known name."
+ },
+ {
+  "id": "corus-quay",
+  "qid": "Q5173418",
+  "status": "skip",
+  "why": "Office tower; lead gives no design reason."
+ },
+ {
+  "id": "diamond-point-prague",
+  "qid": "Q52118882",
+  "status": "skip",
+  "why": "Office building; lead gives no design reason."
+ },
+ {
+  "id": "sandels-culture-house",
+  "qid": "Q5479399",
+  "status": "photo",
+  "why": "Lead names Leiviskä and gives completion 2007 and the square edge (design reason).",
+  "name": "Sandels culture house",
+  "by": "Juha Leiviskä",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Public space",
+   "Community"
+  ],
+  "features": "Juha Leiviskä's Helsinki culture house, completed 2007, giving the Töölö square a new western edge.",
+  "commons_category": "Category:Sandels Culture House",
+  "coords": [
+   60.17915,
+   24.92225
+  ],
+  "photos": [
+   {
+    "file": "File:Kulttuuritalo Sandels 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Musik- och kulturskolan Sandels och Tölö gymnasium ”Lönkan” 04.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kulttuuritalo Sandels 3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "popes-urn",
+  "qid": "Q55099156",
+  "status": "skip",
+  "why": "Public art sculpture with benches, not a building."
+ },
+ {
+  "id": "one-hudson-yards",
+  "qid": "Q55315889",
+  "status": "photo",
+  "why": "Lead gives a design reason (brick cladding recalling the site's industrial past). Year not in lead.",
+  "name": "One Hudson Yards",
+  "by": "Davis Brody Bond",
+  "city": "New York City",
+  "cc": "US",
+  "year": null,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "A 178-apartment Manhattan tower whose brick cladding recalls the industrial buildings that once stood on its site.",
+  "commons_category": "Category:One Hudson Yards",
+  "coords": [
+   40.75196,
+   -74.00067
+  ],
+  "photos": [
+   {
+    "file": "File:High Line td 43 - One Hudson Yards.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gerald-ratner-athletics-center",
+  "qid": "Q5549510",
+  "status": "photo",
+  "why": "Lead gives the suspended masts-and-cables design and approval in Sept 2003. Pelli is well known.",
+  "name": "Gerald Ratner Athletics Center",
+  "by": "César Pelli",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 2003,
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Tensile structure"
+  ],
+  "features": "César Pelli's athletics centre on the University of Chicago campus, suspended by masts, cables and counterweights.",
+  "commons_category": "Category:Gerald Ratner Athletics Center",
+  "coords": [
+   41.7941,
+   -87.6018
+  ],
+  "photos": [
+   {
+    "file": "File:20071123 Ratner Center.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Chicago July 2013 43 (Ratner Athletics Center).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Chicago July 2013 47 (Ratner Athletics Center).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "teplotechna",
+  "qid": "Q56811058",
+  "status": "skip",
+  "why": "Office building; lead gives no design reason and the photos show street scenes."
+ },
+ {
+  "id": "forum-evolucion",
+  "qid": "Q5711454",
+  "status": "photo",
+  "why": "Lead names Navarro Baldeweg and gives the June 2012 opening.",
+  "name": "Fórum Evolución",
+  "by": "Juan Navarro Baldeweg",
+  "city": "Burgos",
+  "cc": "ES",
+  "year": 2012,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Public space"
+  ],
+  "features": "Juan Navarro Baldeweg's congress palace and auditorium on the Arlanzón riverbank, near Burgos' historic centre.",
+  "commons_category": "Category:Fórum Evolución (Burgos)",
+  "coords": [
+   42.339,
+   -3.69807
+  ],
+  "photos": [
+   {
+    "file": "File:Burgosko Biltzar Jauregia eta Auditorioa.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Burgos - Palacio de Congresos y Auditorio Fórum Evolución 1.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Auditorio y Palacio de Congresos de Burgos.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "col-legi-els-convents",
+  "qid": "Q61982448",
+  "status": "unsure",
+  "why": "Wikidata names Josep Lluís Sert (died 1983) and year 2000; the lead gives no year. A Sert design cannot date from 2000, so the year and architect need checking."
+ },
+ {
+  "id": "deloitte-building-christchurch",
+  "qid": "Q66132732",
+  "status": "photo",
+  "why": "Lead gives the 2014 completion and a design reason (base isolation, curved glass fins). Only the river view is daylight; the main photo is a dusk shot.",
+  "name": "Deloitte Building, Christchurch",
+  "by": "Jasmax",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": 2014,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Structure as expression",
+   "Geometry"
+  ],
+  "features": "Jasmax's 2014 Christchurch office, the first New Zealand building with triple pendulum base isolation, in curved blue glass.",
+  "commons_category": "Category:Deloitte Building, Christchurch",
+  "coords": [
+   -43.53008,
+   172.63292
+  ],
+  "photos": [
+   {
+    "file": "File:Deloitte Building and River Avon and sculpture Stay, Christchurch, New Zealand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mcnamara-alumni-center",
+  "qid": "Q6802471",
+  "status": "photo",
+  "why": "Lead calls it one of the more striking buildings in the Twin Cities and gives the 2000 opening. Predock is well known.",
+  "name": "McNamara Alumni Center",
+  "by": "Antoine Predock",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": 2000,
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Antoine Predock's architecturally striking alumni centre on the University of Minnesota's Twin Cities campus, opened in 2000.",
+  "commons_category": "Category:McNamara Alumni Center",
+  "coords": [
+   44.9751,
+   -93.2277
+  ],
+  "photos": [
+   {
+    "file": "File:McNamara Alumni Center 20.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "technion-obelisk",
+  "qid": "Q6914809",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "koningin-maximakazerne",
+  "qid": "Q72797854",
+  "status": "skip",
+  "why": "Barracks; lead gives no design reason and the photos show police training."
+ },
+ {
+  "id": "rivington-place",
+  "qid": "Q7338890",
+  "status": "unsure",
+  "why": "No photos on the list. Lead is one line on a purpose-built arts centre in Shoreditch by Adjaye.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sandworm",
+  "qid": "Q7417106",
+  "status": "skip",
+  "why": "Willow art installation, not a building; no photos."
+ },
+ {
+  "id": "zentralgebaeude-leuphana",
+  "qid": "Q758831",
+  "status": "photo",
+  "why": "Lead names Libeskind and gives the 2017 completion. Well-known architect.",
+  "name": "Zentralgebäude (Leuphana)",
+  "by": "Daniel Libeskind",
+  "city": "Lüneburg",
+  "cc": "DE",
+  "year": 2017,
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Daniel Libeskind's 2017 central building for Leuphana University in Lüneburg, with an auditorium and research centre.",
+  "commons_category": "Category:Zentralgebäude (Leuphana)",
+  "coords": [
+   53.22844,
+   10.40467
+  ],
+  "photos": [
+   {
+    "file": "File:Zentralgebäude (Leuphana).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leuphana Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leuphana1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-investment-building",
+  "qid": "Q7742422",
+  "status": "skip",
+  "why": "Interior renovation of an older office building; interiors only."
+ },
+ {
+  "id": "trinity-river-audubon-center",
+  "qid": "Q7842946",
+  "status": "photo",
+  "why": "Predock is a well-known architect; lead gives the park setting. Year not in lead.",
+  "name": "Trinity River Audubon Center",
+  "by": "Antoine Predock",
+  "city": "Dallas",
+  "cc": "US",
+  "year": null,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Sculptural form"
+  ],
+  "features": "Antoine Predock's nature centre in the Great Trinity Forest, a large urban park in Southeast Dallas.",
+  "commons_category": "Category:Trinity River Audubon Center",
+  "coords": [
+   32.7036,
+   -96.7053
+  ],
+  "photos": [
+   {
+    "file": "File:Trinity Audubon Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mosaic-tile-museum-tajimi",
+  "qid": "Q78909892",
+  "status": "photo",
+  "why": "Lead gives the 4 June 2016 opening. Fujimori is a well-known architect; main photo shows the grassed-roof form.",
+  "name": "Mosaic Tile Museum Tajimi",
+  "by": "Terunobu Fujimori",
+  "city": "Tajimi",
+  "cc": "JP",
+  "year": 2016,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Colour"
+  ],
+  "features": "Terunobu Fujimori's mosaic tile museum in Tajimi, opened in June 2016 beside the former community hall.",
+  "commons_category": "Category:MOSAIC TILE MUSEUM Tajimi",
+  "coords": [
+   35.29911,
+   137.15953
+  ],
+  "photos": [
+   {
+    "file": "File:Mosaic Tile Museum Tajimi exterior ac.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "holy-trinity-church",
+  "qid": "Q87764590",
+  "status": "photo",
+  "why": "Lead gives the 2021 completion and the arson story; design competition named. Architect from Wikidata.",
+  "name": "Holy Trinity Church",
+  "by": "K2S Architects",
+  "city": "Ylivieska",
+  "cc": "FI",
+  "year": 2021,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Rebuilt in 2021 on the site of a church destroyed by arson five years earlier, after a design competition.",
+  "commons_category": "Category:Holy Trinity Church, Ylivieska",
+  "coords": [
+   64.07436,
+   24.53242
+  ],
+  "photos": [
+   {
+    "file": "File:Ylivieska Church 20210712.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Holy Trinity Church in Ylivieska 20230706.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tilane",
+  "qid": "Q96942972",
+  "status": "unsure",
+  "why": "The only photo is a dusk view with lights on; no daylight photo of the whole building. Lead gives no design reason.",
+  "note": "no main photo"
+ },
+ {
+  "id": "tikkurila-church",
+  "qid": "Q104313867",
+  "status": "skip",
+  "why": "Lead is one line; no design reason and the architect is not a well-known name."
+ },
+ {
+  "id": "tung-chung-swimming-pool",
+  "qid": "Q11103721",
+  "status": "skip",
+  "why": "Public swimming pool; lead gives no design reason."
+ },
+ {
+  "id": "vennesla-church",
+  "qid": "Q113883602",
+  "status": "skip",
+  "why": "Lead gives no design reason and the architect is not a well-known name."
+ },
+ {
+  "id": "st-stanislaus-kostka-church",
+  "qid": "Q11747457",
+  "status": "skip",
+  "why": "Completed 1963 (lead), before this pool's 2000 start."
+ },
+ {
+  "id": "15-sarnie-uroczysko-street-in-krakow",
+  "qid": "Q11787195",
+  "status": "skip",
+  "why": "Old villa turned museum; lead names no new design."
+ }
+]
