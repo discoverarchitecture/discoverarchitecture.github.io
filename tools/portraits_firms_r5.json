@@ -1,0 +1,476 @@
+[
+ {
+  "firm": "3XN",
+  "founders": [
+   "Kim Herforth Nielsen",
+   "Hans Peter Svendler Nielsen",
+   "Lars Frank Nielsen"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Kim_Herforth_Nielsen",
+  "portrait": null,
+  "note": "Founders as on file (Wikipedia calls Kim Herforth Nielsen 'co-founder and principal of 3XN'; the other two names come from the founders list). Commons has no category for any of the three; Category:3XN holds 29 files, all buildings; title searches for the names find only buildings. No free portrait."
+ },
+ {
+  "firm": "Architecture-Studio",
+  "founders": [
+   "Martin Robain"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Architecture-Studio",
+  "portrait": null,
+  "note": "Wikipedia: 'Martin Robain, the founder' (created Paris, 1973), joined later by Rodo Tisnado (1976), Jean-François Bonne (1979), René-Henri Arnaud and Alain Bretagnolle (1989) and others. Robain has no Wikipedia article and no Commons category or file. Category:Architecture-Studio (13 files) has buildings and plans only. No free portrait."
+ },
+ {
+  "firm": "Architectus",
+  "founders": [],
+  "founders_source": "https://en.wikipedia.org/wiki/Architectus",
+  "portrait": null,
+  "note": "Wikipedia's Architectus article names no founder or founding year, and I found no other source I could read. Nothing to search for, so no portrait."
+ },
+ {
+  "firm": "Arup",
+  "founders": [
+   "Ove Arup"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Arup_Group",
+  "portrait": null,
+  "note": "Wikipedia: 'Arup was established in 1946 by Sir Ove Arup'. Category:Ove Arup on Commons has only buildings, plaques and one photo, File:Ove Arup 1906.jpg (public domain, 540x712, 'Ove Arup in 1906'), which shows him as a child of about 11, so not used. His English Wikipedia infobox photo is not on Commons. If the reviewer wants it, that file is the only candidate."
+ },
+ {
+  "firm": "Behnisch & Partner",
+  "founders": [
+   "Günter Behnisch"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/G%C3%BCnter_Behnisch",
+  "portrait": null,
+  "note": "Founder as on file; Commons has the subcategory 'Behnisch & Partner' under Category:Günter Behnisch. His Wikipedia infobox photo (File:Gunther Behnisch.jpg) is a local English Wikipedia file, not on Commons. Category:Günter Behnisch (4 files) is buildings plus File:Bonn, Bundesbauten, Günter Behnisch erzählt, 1991.jpg (CC BY-SA 4.0, AUTOR.4200, 1604x1068): the title says he is telling something at the Bonn federal buildings but the description only repeats the title, so I cannot confirm he is the person pictured. Needs a look by eye; recorded as none."
+ },
+ {
+  "firm": "Berthold Lubetkin and Tecton",
+  "founders": [
+   "Berthold Lubetkin",
+   "Francis Skinner",
+   "Denys Lasdun",
+   "Michael Dugdale",
+   "Anthony Chitty",
+   "Val Harding",
+   "Godfrey Samuel",
+   "Lindsay Drake"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Tecton_Group",
+  "portrait": null,
+  "note": "Source order is the Tecton Group article's list of co-founders (1932). Lubetkin: his Wikipedia photo is fair use, Commons has only buildings and a plaque (Category:Berthold Lubetkin, 5 files). Skinner: only a two-person Wittgenstein photo. Denys Lasdun has a free portrait (File:Sir Denys Lasdun.jpg, CC BY-SA 4.0, Tom Evans, 1312x1661, description 'Sir Denys Lasdun', category Denys Lasdun, https://commons.wikimedia.org/wiki/File:Sir_Denys_Lasdun.jpg), but the page is Lubetkin's and Lasdun is only a later member as far as I know, so I did not use it. Reviewer's call."
+ },
+ {
+  "firm": "BIG",
+  "founders": [
+   "Bjarke Ingels"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Bjarke_Ingels",
+  "portrait": {
+   "name": "Bjarke Ingels",
+   "wikidata": "Q429817",
+   "file": "File:Bjarke Ingels in Frankfurt.20150617.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Epizentrum",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Bjarke_Ingels_in_Frankfurt.20150617.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'In 2006 he founded Bjarke Ingels Group.' Description: 'Danish architect Bjarke Ingels at a June 2015 press conference in Frankfurt', 3190x4000, category Bjarke Ingels; also his English Wikipedia lead image. A press-conference photo in front of a tower design; check by eye that he is alone and the face is clear."
+ },
+ {
+  "firm": "Chamberlin, Powell and Bon",
+  "founders": [
+   "Geoffry Powell",
+   "Peter Chamberlin",
+   "Christoph Bon"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Chamberlin,_Powell_and_Bon",
+  "portrait": null,
+  "note": "Wikipedia: founded 1952 by Geoffry Powell, Peter 'Joe' Chamberlin and Christoph Bon. None has a Commons category or portrait file; searches by name return only their buildings. No free portrait."
+ },
+ {
+  "firm": "Coop Himmelb(l)au",
+  "founders": [
+   "Wolf D. Prix",
+   "Helmut Swiczinsky",
+   "Michael Holzer"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Coop_Himmelb(l)au",
+  "portrait": {
+   "name": "Helmut Swiczinsky",
+   "wikidata": "Q1604245",
+   "file": "File:2010 Helmut Swiczinsky.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Adam wehsely-swiczinsky",
+   "evidence": "https://commons.wikimedia.org/wiki/File:2010_Helmut_Swiczinsky.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'founded in 1968 by Wolf D. Prix, Helmut Swiczinsky and Michael Holzer in Vienna'. Prix (Q114444) has only a video on Commons (File:Coop Himmelb(l)au, Wolf Prix - What is architecture .webm), no still photo, so the next founder is used. Swiczinsky: description 'Helmut Swiczinsky 2010.', category Helmut Swiczinsky, 5184x3456; he is already in tools/portraits_manual.json (same file). No free photo of the founders together found. Holzer: no page, no category."
+ },
+ {
+  "firm": "DP Architects",
+  "founders": [
+   "William Lim Siew Wai",
+   "Tay Kheng Soon",
+   "Koh Seow Chuan"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/DP_Architects",
+  "portrait": {
+   "name": "William Lim Siew Wai",
+   "wikidata": "Q8017900",
+   "file": "File:William S. W. Lim at Select Books, Singapore - 20120124.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Smuconlaw",
+   "evidence": "https://commons.wikimedia.org/wiki/File:William_S._W._Lim_at_Select_Books,_Singapore_-_20120124.JPG",
+   "together": false
+  },
+  "note": "Wikipedia: 'The firm was started in 1967 with William Lim Siew Wai, Tay Kheng Soon, and Koh Seow Chuan' (as Design Partnership). Photo is the lead image of his Wikipedia article (William S. W. Lim), 544x720, description names him at a Singapore workshop dinner, category William S. W. Lim. Check by eye that he is alone."
+ },
+ {
+  "firm": "Future Systems",
+  "founders": [
+   "Jan Kaplický",
+   "David Nixon"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Future_Systems",
+  "portrait": null,
+  "note": "Wikipedia: founded 1979 by Jan Kaplický and David Nixon. Kaplický: Category:Jan Kaplický (3 files) has two buildings and File:Farewell for Jan Kaplický.jpg (public domain, a funeral scene, not a portrait); his Wikipedia photo (File:JanKaplicky.jpg) is not on Commons. David Nixon: no Wikipedia article, no Commons category. No free portrait."
+ },
+ {
+  "firm": "Gigon/Guyer",
+  "founders": [
+   "Annette Gigon",
+   "Mike Guyer"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Gigon/Guyer",
+  "portrait": {
+   "name": "Annette Gigon",
+   "wikidata": "Q2851498",
+   "file": "File:ETH-BIB-Gigon, Annette (1959-)-Portr 19539.tif",
+   "license": "CC BY-SA 4.0",
+   "author": "Inge Zimmermann (Berlin)",
+   "evidence": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Gigon,_Annette_(1959-)-Portr_19539.tif",
+   "together": false
+  },
+  "note": "Wikipedia: 'Gigon and Guyer established Annette Gigon / Mike Guyer Architects in 1989.' ETH-Bibliothek portrait: the file name 'ETH-BIB-Gigon, Annette (1959-)-Portr' and category Annette Gigon name her; description reads 'Gigon/Guyer Architekten; ETHZ Prof. Architektur Konstruktion'. 1352x2008. It is her English Wikipedia lead image. Mike Guyer: no Wikipedia article, no category."
+ },
+ {
+  "firm": "gmp Architekten",
+  "founders": [
+   "Meinhard von Gerkan",
+   "Volkwin Marg"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners",
+  "portrait": null,
+  "note": "Wikipedia (Gerkan, Marg and Partners): 'founded in 1965 by Meinhard von Gerkan and Volkwin Marg'. Commons categories for both exist but hold no files of their own (only building subcategories); name searches find only buildings. No free portrait."
+ },
+ {
+  "firm": "Grafton Architects",
+  "founders": [
+   "Yvonne Farrell",
+   "Shelley McNamara"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Yvonne_Farrell",
+  "portrait": {
+   "name": "Yvonne Farrell",
+   "wikidata": "Q16151248",
+   "file": "File:Yvonne Farrell at arcVision 2015 (3x4 cropped).jpg",
+   "license": "CC BY 3.0",
+   "author": "Amor Vacui",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Yvonne_Farrell_at_arcVision_2015_(3x4_cropped).jpg",
+   "together": false
+  },
+  "note": "Wikipedia: Farrell is 'the co-founder, together with Shelley McNamara, of Grafton Architects'. Description: 'Portrait of Yvonne Farrell, co-founder of Grafton Architects', arcVision Prize 2015, 690x908, category Yvonne Farrell; the uncropped file (837x908) is her Wikipedia lead image. Shelley McNamara also has a free portrait (File:Shelly mcnamara 2013.jpg, already in portraits_manual.json); no photo of the two together found."
+ },
+ {
+  "firm": "J. Mayer H.",
+  "founders": [
+   "Jürgen Mayer"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Mayer",
+  "portrait": {
+   "name": "Jürgen Mayer",
+   "wikidata": "Q85218",
+   "file": "File:Juergen Mayer H. Lecture at Columbia GSAPP.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "GSAPPstudent",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Juergen_Mayer_H._Lecture_at_Columbia_GSAPP.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: Jürgen Mayer is 'leader of the firm J. MAYER H.' (founder as on file; the article gives no founding statement). Description: 'Juergen Mayer H. at the lecture at Columbia GSAPP', 4639x3093 (wide lecture shot; would need cropping). Only free photo found; it is not under a person category, so check by eye that he is the only person in frame before accepting."
+ },
+ {
+  "firm": "Kevin Roche John Dinkeloo and Associates",
+  "founders": [
+   "Kevin Roche",
+   "John Dinkeloo"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Kevin_Roche",
+  "portrait": {
+   "name": "Kevin Roche and John Dinkeloo",
+   "wikidata": "Q332610, Q55218512",
+   "file": "File:Kevin Roche and John Dinkeloo 1967.tif",
+   "license": "CC BY-SA 4.0",
+   "author": "Unknown author (VRTS permission confirmed)",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Kevin_Roche_and_John_Dinkeloo_1967.tif",
+   "together": true
+  },
+  "note": "The firm succeeded Eero Saarinen & Associates in 1966 under Roche and Dinkeloo. Description 'Image of the architects Kevin Roche and John Dinkeloo', categories Kevin Roche and John Dinkeloo, 4813x6020. Already in tools/portraits_manual.json under 'Kevin Roche John Dinkeloo'. Singles also free: File:Kevin Roche Pritzker portrait 1982.jpg and File:John Dinkeloo by Richard Knight.jpg (both CC BY-SA 4.0)."
+ },
+ {
+  "firm": "Lacaton & Vassal",
+  "founders": [
+   "Anne Lacaton",
+   "Jean-Philippe Vassal"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Lacaton_%26_Vassal",
+  "portrait": {
+   "name": "Anne Lacaton and Jean-Philippe Vassal",
+   "wikidata": "Q18285074, Q18285075",
+   "file": "File:Anne Lacaton.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "GSAPPstudent",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Anne_Lacaton.jpg",
+   "together": true
+  },
+  "note": "Wikipedia: 'founded by Anne Lacaton and Jean-Philippe Vassal in 1987'. Description: 'Anne Lacaton and Jean-Philippe Vassal at the Lacaton & Vassal Lecture at Columbia GSAPP', 999x1016, categories Anne Lacaton. Wide version: File:Lacaton Vassal Lecture at Columbia GSAPP cropped.png (2730x1608). Singles: File:Anne Lacaton 2022.jpg (CC BY-SA 4.0, Alain Herzog, 1024x683, VRTS confirmed) and File:Jean-Philippe Vassal.png (the same lecture photo)."
+ },
+ {
+  "firm": "MAD Architects",
+  "founders": [
+   "Ma Yansong"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Ma_Yansong",
+  "portrait": {
+   "name": "Ma Yansong",
+   "wikidata": "Q8048959",
+   "file": "File:Ma-yan-song.jpg",
+   "license": "CC0",
+   "author": "MAD GaMarry",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Ma-yan-song.jpg",
+   "together": false
+  },
+  "note": "Wikipedia calls Ma Yansong the 'principal partner and founder' of MAD Architects. Description 'Image of Ma Yansong Founder of MAD architects', 462x614, category Architects from China; it is his Wikipedia lead image. Uploaded by the firm's own account under CC0."
+ },
+ {
+  "firm": "Mansilla + Tuñón",
+  "founders": [
+   "Luis Moreno Mansilla",
+   "Emilio Tuñón"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Luis_Moreno_Mansilla",
+  "portrait": {
+   "name": "Luis Moreno Mansilla",
+   "wikidata": "Q2944350",
+   "file": "File:Luis Moreno Mansilla.JPG",
+   "license": "CC BY-SA 3.0",
+   "author": "Outisnn",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Luis_Moreno_Mansilla.JPG",
+   "together": false
+  },
+  "note": "Wikipedia: 'Mansilla and Emilio Tuñón established the architecture firm Mansilla + Tuñón Architects' (1992). Description 'Luis Moreno Mansilla, spanish architect, 1959 - 2012.', category Luis Moreno Mansilla, 1923x2468. The metadata only names him through the caption, so check by eye. Emilio Tuñón's file (File:Emilio Tuñón 2015.jpg) has a description naming Rafael Moneo instead of Tuñón, so I did not use it."
+ },
+ {
+  "firm": "Mecanoo",
+  "founders": [
+   "Francine Houben",
+   "Henk Döll",
+   "Roelf Steenhuis",
+   "Erick van Egeraat",
+   "Chris de Weijer"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Mecanoo",
+  "portrait": {
+   "name": "Francine Houben",
+   "wikidata": "Q2009000",
+   "file": "File:Mecanoo Francine Houben FC IMG 5753 CV.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "M8scho",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Mecanoo_Francine_Houben_FC_IMG_5753_CV.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'Mecanoo was founded in 1984 by Francine Houben, Henk Döll, Roelf Steenhuis, Erick van Egeraat and Chris de Weijer.' Description 'Francine Houben, 2015.', category Francine Houben, 1000x1500. No photo of the founders together found."
+ },
+ {
+  "firm": "Morphosis",
+  "founders": [
+   "Thom Mayne"
+  ],
+  "founders_source": "https://commons.wikimedia.org/wiki/File:Thom_Mayne,_USC,_2023.jpg",
+  "portrait": {
+   "name": "Thom Mayne",
+   "wikidata": "Q312847",
+   "file": "File:Thom Mayne, USC, 2023.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "EEJCC",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Thom_Mayne,_USC,_2023.jpg",
+   "together": false
+  },
+  "note": "Founder as on file; the Commons description calls him 'co-founder of Morphosis Architects' (his English Wikipedia article says he is principal but does not say he founded it). Description names him at the USC School of Architecture in 2023, 3387x2540, category Thom Mayne; it is his Wikipedia lead image."
+ },
+ {
+  "firm": "MVRDV",
+  "founders": [
+   "Winy Maas",
+   "Jacob van Rijs",
+   "Nathalie de Vries"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/MVRDV",
+  "portrait": {
+   "name": "Winy Maas",
+   "wikidata": "Q1356269",
+   "file": "File:Winy Maas 2012.jpg",
+   "license": "CC BY 2.0",
+   "author": "Charles William Pelletier / C2-MTL",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Winy_Maas_2012.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'founded in 1993 by Winy Maas, Jacob van Rijs and Nathalie de Vries'. Description 'Winy Maas at C2-MTL.', category Winy Maas, 4256x2832; it is his Wikipedia lead image. Jacob van Rijs also has a free portrait (File:Jacob van Rijs.jpg, CC BY-SA 4.0, already in portraits_manual.json). Commons has no photo of the three together; Nathalie de Vries has none."
+ },
+ {
+  "firm": "Nikken Sekkei",
+  "founders": [],
+  "founders_source": "https://en.wikipedia.org/wiki/Nikken_Sekkei",
+  "portrait": null,
+  "note": "Wikipedia: the firm dates from 1900 as an offshoot of Sumitomo (its Temporary Architecture Department), independent in the 1950s. It names no individual founder, so there is nobody to look for."
+ },
+ {
+  "firm": "O'Donnell + Tuomey",
+  "founders": [
+   "Sheila O'Donnell",
+   "John Tuomey"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Sheila_O'Donnell",
+  "portrait": null,
+  "note": "Wikipedia (Sheila O'Donnell, John Tuomey): founded in 1988 by Sheila O'Donnell and John Tuomey. Commons has a category for her (empty) and none for him; searches on both names find no portrait. No free portrait."
+ },
+ {
+  "firm": "Populous",
+  "founders": [],
+  "founders_source": "https://en.wikipedia.org/wiki/Populous_(company)",
+  "portrait": null,
+  "note": "Wikipedia gives no founder: HOK's sports group (created 1983 under Jerry Sincoff) became Populous in a management buyout in January 2009. Rod Sheard's article has no photo. No founder to look for."
+ },
+ {
+  "firm": "RCR Arquitectes",
+  "founders": [
+   "Rafael Aranda",
+   "Carme Pigem",
+   "Ramon Vilalta"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/RCR_Arquitectes",
+  "portrait": {
+   "name": "Carme Pigem",
+   "wikidata": "Q5752340",
+   "file": "File:(Carmen Pigem) Entretien avec Carme Pigem - RCR arquitecte.jpg",
+   "license": "CC BY 3.0",
+   "author": "Station Ausone (YouTube)",
+   "evidence": "https://commons.wikimedia.org/wiki/File:(Carmen_Pigem)_Entretien_avec_Carme_Pigem_-_RCR_arquitecte.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'principals and co-founders Rafael Aranda, Carme Pigem and Ramon Vilalta'. Aranda (first) has only File:Rafael Aranda.jpg (CC BY 2.0, Maritza Ríos / Secretaría de Cultura CDMX, 3300x2200) from an exhibition opening in Mexico City; its description does not say who is in the frame, so not used. Pigem: description 'Rencontre avec Carme Pigem ... Entrepôt Lainé', categories Carme Pigem and Pritzker Prize winners, 894x716; it is her Wikipedia lead image. Vilalta: nothing. No free photo of the three together."
+ },
+ {
+  "firm": "Richard and Su Rogers",
+  "founders": [
+   "Richard Rogers",
+   "Su Rogers"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Su_Rogers",
+  "portrait": {
+   "name": "Richard Rogers",
+   "wikidata": "Q237412",
+   "file": "File:Richard Rogers - Portrait 2008 (3x4 cropped).jpg",
+   "license": "CC BY 2.0",
+   "author": "Andrew Zuckerman",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Richard_Rogers_-_Portrait_2008_(3x4_cropped).jpg",
+   "together": false
+  },
+  "note": "Wikipedia (Su Rogers): she co-founded Team 4 and Richard + Su Rogers. Description 'Richard Rogers - Portrait 2008.', category Richard Rogers, 812x1077; it is his Wikipedia lead image and is already in portraits_manual.json. Su Rogers (Q39171828): no Commons portrait. No photo of the two together found."
+ },
+ {
+  "firm": "SANAA",
+  "founders": [
+   "Kazuyo Sejima",
+   "Ryue Nishizawa"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/SANAA",
+  "portrait": {
+   "name": "Kazuyo Sejima",
+   "wikidata": "Q253350",
+   "file": "File:Kazuyo Sejima mg 5000.jpg",
+   "license": "CC BY-SA 2.0 fr",
+   "author": "Rama",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Kazuyo_Sejima_mg_5000.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'founded in 1995 by architects Kazuyo Sejima and Ryue Nishizawa'. Description: photo of Kazuyo Sejima, linked to her Wikipedia article; category Kazuyo Sejima, 2912x2912 (also CeCILL). Alternative: File:Canopy Gathering Space (Kazuyo Sejima) (15137242547) cropped.jpg (CC BY 2.0, Columbia GSAPP, 2252x2711; it is her Wikipedia lead image). Nishizawa: only Teshima museum files; no photo of the two together."
+ },
+ {
+  "firm": "Snøhetta",
+  "founders": [
+   "Kjetil Trædal Thorsen",
+   "Craig Dykers"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Kjetil_Thorsen",
+  "portrait": {
+   "name": "Kjetil Trædal Thorsen",
+   "wikidata": "Q1813434",
+   "file": "File:KjetilTrædalThorsen.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Birgit Fostervold (User:Birdesigns)",
+   "evidence": "https://commons.wikimedia.org/wiki/File:KjetilTrædalThorsen.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'In 1987, he co-founded the architecture firm Snøhetta' (the founders list gives Thorsen and Craig Dykers). Description 'Kjetil Trædal Thorsen of Snøhetta at TEDxArendal, Norway, 2014', category Snøhetta (company), 864x1080; it is his Wikipedia lead image. Craig Dykers also has a free portrait (File:Craig Dykers (cropped).jpg, CC BY-SA 3.0, already in portraits_manual.json). No photo of the two together found."
+ },
+ {
+  "firm": "SOM",
+  "founders": [
+   "Louis Skidmore",
+   "Nathaniel A. Owings",
+   "John O. Merrill"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Skidmore,_Owings_%26_Merrill",
+  "portrait": null,
+  "note": "Wikipedia: 'founded in 1936 by Louis Skidmore and Nathaniel Owings'; Merrill joined in 1939. Skidmore's Wikipedia photo (File:Louis Skidmore.jpg) is not on Commons and there is no Commons category for him or Merrill. Category:Nathaniel A. Owings has four US National Park Service public-domain photos (File:HFCA 1607 Special Events And VIPS Volume 1 424.jpg and three group shots); the sitter is named only by a surname in the caption, and they show him boarding a bus or in groups, so not used. No free portrait."
+ },
+ {
+  "firm": "Tezuka Architects",
+  "founders": [
+   "Takaharu Tezuka",
+   "Yui Tezuka"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/Takaharu_Tezuka",
+  "portrait": null,
+  "note": "Wikipedia: 'he and his wife Yui Tezuka founded the Tokyo-based firm Tezuka Architects' (1994). Neither has a Commons category; searching Commons for the names finds nothing; Takaharu's Wikipedia article has no photo and Yui Tezuka has no article. No free portrait."
+ },
+ {
+  "firm": "UNStudio",
+  "founders": [
+   "Ben van Berkel",
+   "Caroline Bos"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/UNStudio",
+  "portrait": {
+   "name": "Ben van Berkel",
+   "wikidata": "Q565390",
+   "file": "File:Ben van Berkel portret, 2017.jpg",
+   "license": "CC BY 3.0",
+   "author": "WIA - What is architecture?",
+   "evidence": "https://commons.wikimedia.org/wiki/File:Ben_van_Berkel_portret,_2017.jpg",
+   "together": false
+  },
+  "note": "Wikipedia: 'The practice was founded in 1988 by Ben van Berkel and Caroline Bos.' Description 'Ben van Berkel, 2017.', category Ben van Berkel, 898x670; it is his Wikipedia lead image. Caroline Bos: no photo on Commons."
+ },
+ {
+  "firm": "WilkinsonEyre",
+  "founders": [
+   "Chris Wilkinson",
+   "Jim Eyre"
+  ],
+  "founders_source": "https://en.wikipedia.org/wiki/WilkinsonEyre",
+  "portrait": null,
+  "note": "Wikipedia: Chris Wilkinson founded Chris Wilkinson Architects in 1983; Jim Eyre partnered in 1987. Chris Wilkinson's only Commons portrait is File:Chris Wilkinson (49745017236).jpg (CC BY-SA 2.0, Peter Menzel, a Wimbledon 2019 snapshot), just 205x255, below the 300 px limit. Jim Eyre has none. No usable portrait."
+ }
+]
