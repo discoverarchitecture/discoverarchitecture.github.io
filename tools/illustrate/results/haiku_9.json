@@ -1,0 +1,912 @@
+[
+ {
+  "id": "kumamoto-prefectural-ancient-burial-mound-museum",
+  "qid": "Q4557656",
+  "status": "photo",
+  "why": "Ando museum; the lead gives the reason and the completion date (April 1992). Clear daylight exterior.",
+  "name": "Kumamoto Prefectural Ancient Burial Mound Museum",
+  "by": "Tadao Ando",
+  "city": "Yamaga",
+  "cc": "JP",
+  "year": 1992,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Full-size replicas of the inner chambers of twelve decorated tumuli, in a Tadao Ando museum.",
+  "commons_category": "Category:Kumamoto Prefectural Decorated Tumulus Museum",
+  "coords": [
+   32.99367,
+   130.66969
+  ],
+  "photos": [
+   {
+    "file": "File:Kumamoto Prefectural Ancient Burial Mound Museum 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kumamoto_Prefectural_Ancient_Burial_Mound_Museum",
+   "https://www.wikidata.org/wiki/Q4557656"
+  ]
+ },
+ {
+  "id": "triangle-building",
+  "qid": "Q4462747",
+  "status": "photo",
+  "why": "Niemeyer built work; the lead describes the building and gives the 1955 opening. Daylight tower photos.",
+  "name": "Edifício Triângulo",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1955,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Niemeyer's 1955 commercial building in São Paulo: a prism ringed by three kinds of glass and brise-soleil.",
+  "commons_category": "Category:Edifício Triângulo",
+  "coords": [
+   -23.54886,
+   -46.63467
+  ],
+  "photos": [
+   {
+    "file": "File:At São Paulo, Brazil 2019 195.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Triângulo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At São Paulo, Brazil 2019 191.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Edificio_Tri%C3%A1ngulo",
+   "https://www.wikidata.org/wiki/Q4462747"
+  ]
+ },
+ {
+  "id": "estacao-cabo-branco-ciencia-cultura-e-artes",
+  "qid": "Q615457",
+  "status": "photo",
+  "why": "Niemeyer built work; the lead gives the 3 July 2008 opening. Daylight views of the whole building.",
+  "name": "Estação Cabo Branco – Ciência, Cultura e Artes",
+  "by": "Oscar Niemeyer",
+  "city": "João Pessoa",
+  "cc": "BR",
+  "year": 2008,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Promenade",
+   "Public space"
+  ],
+  "features": "Niemeyer's science, culture and arts centre in the Cabo Branco district of João Pessoa, opened in 2008.",
+  "commons_category": "Category:Estação Cabo Branco",
+  "coords": [
+   -7.14765,
+   -34.79895
+  ],
+  "photos": [
+   {
+    "file": "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888023101).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888015271).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Esta%C3%A7%C3%A3o_Cabo_Branco",
+   "https://www.wikidata.org/wiki/Q615457"
+  ]
+ },
+ {
+  "id": "garden-of-fine-art-kyoto",
+  "qid": "Q11375286",
+  "status": "photo",
+  "why": "Ando garden; the lead gives the 1994 opening and the design. Photos show the walls and walks, not the artworks.",
+  "name": "Garden of Fine Art Kyoto",
+  "by": "Tadao Ando",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "An open-air museum of ceramic copies of famous paintings, set in a walking garden designed by Tadao Ando.",
+  "commons_category": "Category:Garden of Fine Art, Kyoto",
+  "coords": [
+   35.05111,
+   135.76531
+  ],
+  "photos": [
+   {
+    "file": "File:Garden of Fine Art, Kyoto 2025.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Garden of Fine Art, Kyoto 2025-1.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Garden_of_Fine_Art",
+   "https://www.wikidata.org/wiki/Q11375286"
+  ]
+ },
+ {
+  "id": "koumi-machi-kogen-museum-of-art",
+  "qid": "Q11462647",
+  "status": "photo",
+  "why": "Ando museum; the lead is one line, kept on the second test. Daylight exterior; the banner photo is not used.",
+  "name": "Koumi-machi Kōgen Museum of Art",
+  "by": "Tadao Ando",
+  "city": "Koumi",
+  "cc": "JP",
+  "year": 1997,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "A town-run art museum in Koumi.",
+  "commons_category": "Category:Koumi-machi Kōgen Museum of Art",
+  "coords": [
+   36.05927,
+   138.44008
+  ],
+  "photos": [
+   {
+    "file": "File:小海町高原美術館.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%B5%B7%E7%94%BA%E9%AB%98%E5%8E%9F%E7%BE%8E%E8%A1%93%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11462647"
+  ]
+ },
+ {
+  "id": "ishikawa-nishida-kitaro-museum-of-philosophy",
+  "qid": "Q11586041",
+  "status": "photo",
+  "why": "Ando, a well-known architect; the lead is short. Daylight glass and concrete exterior.",
+  "name": "Ishikawa Nishida Kitarō Museum of Philosophy",
+  "by": "Tadao Ando",
+  "city": "Kahoku",
+  "cc": "JP",
+  "year": 2002,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "A cultural facility in Kahoku, Ishikawa, devoted to the philosopher Nishida Kitarō.",
+  "commons_category": "Category:Ishikawa Nishida Kitaro Museum of Philosophy",
+  "coords": [
+   36.71417,
+   136.69389
+  ],
+  "photos": [
+   {
+    "file": "File:Nishida Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%9C%8C%E8%A5%BF%E7%94%B0%E5%B9%BE%E5%A4%9A%E9%83%8E%E8%A8%98%E5%BF%B5%E5%93%B2%E5%AD%A6%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11586041"
+  ]
+ },
+ {
+  "id": "ogasawara-museum",
+  "qid": "Q123418594",
+  "status": "photo",
+  "why": "SANAA museum; the lead gives the reasons. Lead says built 1995 to 1999, so 1999 is used as the year.",
+  "name": "Ogasawara Museum",
+  "by": "SANAA (Kazuyo Sejima, Ryue Nishizawa)",
+  "city": "Iida",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Pilotis",
+   "Landscape",
+   "Free plan"
+  ],
+  "features": "SANAA's one-storey museum curves with the terrain, raised on six square pilotis.",
+  "commons_category": "Category:Ogasawara Museum",
+  "coords": [
+   35.4464,
+   137.7949
+  ],
+  "photos": [
+   {
+    "file": "File:Ogasawara klan museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ogasawara_Museum",
+   "https://www.wikidata.org/wiki/Q123418594"
+  ]
+ },
+ {
+  "id": "memorial-dos-povos-indigenas",
+  "qid": "Q6522452",
+  "status": "photo",
+  "why": "Niemeyer's museum and cultural centre, finished 1987 (lead); main photo shows the whole building in daylight.",
+  "name": "Memorial dos Povos Indígenas",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": 1987,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Niemeyer's indigenous culture museum on Brasília's Monumental Axis, converted into a modern art museum before opening.",
+  "commons_category": "Category:Memorial dos Povos Indígenas",
+  "coords": [
+   -15.7848,
+   -47.9116
+  ],
+  "photos": [
+   {
+    "file": "File:Memorial dos Povos Indígenas, Brasília, Brazil, Ricardo Moraleida 2008.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:MemorialPovos7.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Memorial_dos_Povos_Ind%C3%ADgenas",
+   "https://www.wikidata.org/wiki/Q6522452"
+  ]
+ },
+ {
+  "id": "wayne-l-morse-united-states-courthouse",
+  "qid": "Q7976402",
+  "status": "photo",
+  "why": "Thom Mayne's courthouse, completed 2006 (lead); main photo shows the whole building in daylight.",
+  "name": "Wayne L. Morse United States Courthouse",
+  "by": "Thom Mayne",
+  "city": "Eugene",
+  "cc": "US",
+  "year": 2006,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "A federal courthouse in Eugene, Oregon, completed in 2006 and overlooking the Willamette River.",
+  "commons_category": "Category:Wayne L. Morse United States Courthouse",
+  "coords": [
+   44.0511,
+   -123.087
+  ],
+  "photos": [
+   {
+    "file": "File:Wayne L. Morse United States Courthouse, Eugene, Oregon (2012) - 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wayne L Morse Federal Courthouse (Eugene, Oregon).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wayne L. Morse United States Courthouse corner crop.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wayne_Lyman_Morse_United_States_Courthouse",
+   "https://www.wikidata.org/wiki/Q7976402"
+  ]
+ },
+ {
+  "id": "pavilhao-padre-manoel-da-nobrega",
+  "qid": "Q10346948",
+  "status": "photo",
+  "why": "Niemeyer pavilion in Ibirapuera Park, inaugurated December 1953 (lead); main photo shows the whole building; carving photos left out.",
+  "name": "Pavilhão Padre Manoel da Nóbrega",
+  "by": "Oscar Niemeyer, Hélio Lage Uchôa Cavalcanti",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1953,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Pilotis",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "Niemeyer's Palácio das Nações in Ibirapuera Park, commissioned for São Paulo's fourth-centenary celebrations.",
+  "commons_category": "Category:Pavilhão Padre Manual da Nóbrega",
+  "coords": [
+   -23.58932,
+   -46.65327
+  ],
+  "photos": [
+   {
+    "file": "File:Museu Afro Brasil São Paulo 2019-5939.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museu Afro Brasil São Paulo 2019-5941.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Pavilh%C3%A3o_Manuel_da_N%C3%B3brega",
+   "https://www.wikidata.org/wiki/Q10346948"
+  ]
+ },
+ {
+  "id": "villa-norrkoping",
+  "qid": "Q10715507",
+  "status": "photo",
+  "why": "Sverre Fehn's house (well-known architect; year 1964 from Wikidata, as the lead gives none); main photo shows the whole house.",
+  "name": "Villa Norrköping",
+  "by": "Sverre Fehn",
+  "city": "Norrköping",
+  "cc": "SE",
+  "year": 1964,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Landscape",
+   "Planting"
+  ],
+  "features": "A single-family house at Nordengatan 15, Norrköping, declared a protected heritage building.",
+  "commons_category": "Category:Villa Norrköping",
+  "coords": [
+   58.58138,
+   16.15201
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Norrköping1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:WTNkpng1 Boberger Nordengatan 15 Villa Norrköping 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:WTNkpng1 Ainali villa norrköping.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Villa_Norrk%C3%B6ping",
+   "https://www.wikidata.org/wiki/Q10715507"
+  ]
+ },
+ {
+  "id": "kirche-schonow-buschgraben",
+  "qid": "Q11722066",
+  "status": "photo",
+  "why": "Frei Otto's post-war church, opened 1961 and listed since 1995 (lead); main photo shows the whole church.",
+  "name": "Kirche Schönow-Buschgraben",
+  "by": "Frei Otto, Ewald Bubner",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1961,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Light from above"
+  ],
+  "features": "A post-war church in Berlin with a tent-like hall, opened in 1961 and listed since 1995.",
+  "commons_category": "Category:Kirche Schönow (Berlin-Zehlendorf)",
+  "coords": [
+   52.4133,
+   13.2596
+  ],
+  "photos": [
+   {
+    "file": "File:Kirche Schönow (Berlin-Zehlendorf).JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirche Schönow (Berlin-Zehlendorf) Betonstützen.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirche Schönow (Berlin-Zehlendorf) Garten.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Kirche_Sch%C3%B6now",
+   "https://www.wikidata.org/wiki/Q11722066"
+  ]
+ },
+ {
+  "id": "bethanien-kinderdorf-bergisch-gladbach",
+  "qid": "Q118367575",
+  "status": "photo",
+  "why": "Lead says Böhm's architecture is internationally known among experts; year 1968 from Wikidata, as the lead gives none; main photos show the buildings.",
+  "name": "Bethanien Kinderdorf Bergisch Gladbach",
+  "by": "Gottfried Böhm",
+  "city": "Bergisch Gladbach",
+  "cc": "DE",
+  "year": 1968,
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "A children's village in Bergisch Gladbach, known among experts internationally for Gottfried Böhm's architecture.",
+  "commons_category": "Category:Kinderdorf Bethanien (Refrath)",
+  "coords": [
+   50.9435,
+   7.1145
+  ],
+  "photos": [
+   {
+    "file": "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-7.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-8.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-9.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Bethanien_Kinderdorf_Bergisch_Gladbach",
+   "https://www.wikidata.org/wiki/Q118367575"
+  ]
+ },
+ {
+  "id": "st-lukas-kirche",
+  "qid": "Q1688428",
+  "status": "photo",
+  "why": "Frei Otto's church, dated 1963 and listed since 1994 (lead); main photo shows the whole church.",
+  "name": "St.-Lukas-Kirche",
+  "by": "Carsten Schröck, Frei Otto",
+  "city": "Bremen",
+  "cc": "DE",
+  "year": 1963,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "A Protestant church in Bremen from 1963, under heritage protection since 1994.",
+  "commons_category": "Category:St.-Lukas-Kirche (Bremen-Grolland)",
+  "coords": [
+   53.0624,
+   8.76461
+  ],
+  "photos": [
+   {
+    "file": "File:Bremen-Grolland St-Lukas 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/St.-Lukas-Kirche_%28Bremen-Grolland%29",
+   "https://www.wikidata.org/wiki/Q1688428"
+  ]
+ },
+ {
+  "id": "st-gertrud",
+  "qid": "Q2318650",
+  "status": "photo",
+  "why": "Lead names Böhm, dates the build 1962-65 and gives a 1967 prize; daylight photos of the tower and concrete.",
+  "name": "St. Gertrud",
+  "by": "Gottfried Böhm",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1965,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "A Brutalist concrete church in Cologne by Gottfried Böhm, built 1962 to 1965, given Cologne's architecture prize in 1967.",
+  "commons_category": "Category:St. Gertrud (Köln)",
+  "coords": [
+   50.9519,
+   6.95181
+  ],
+  "photos": [
+   {
+    "file": "File:St gertrud koeln ostseite mit turm 20090911.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Gertrud, Köln - 8592.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Gertrud, Köln - 8590.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/St._Gertrud_%28K%C3%B6ln%29",
+   "https://www.wikidata.org/wiki/Q2318650"
+  ]
+ },
+ {
+  "id": "st-matthaus",
+  "qid": "Q2321428",
+  "status": "photo",
+  "why": "Lead names Böhm, built 1968-1970, and calls it a major example of modern church architecture; whole-church daylight photos.",
+  "name": "St. Matthäus",
+  "by": "Gottfried Böhm",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": 1970,
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "A Catholic parish church in Garath, Düsseldorf, by Gottfried Böhm, counted among major examples of modern church architecture.",
+  "commons_category": "Category:St. Matthäus (Düsseldorf-Garath)",
+  "coords": [
+   51.1387,
+   6.89926
+  ],
+  "photos": [
+   {
+    "file": "File:St. Matthaeus in Duesseldorf-Garath, von Sueden.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Matthäus in Düsseldorf-Garath 6.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Matthäus in Düsseldorf-Garath 4.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Matthäus in Düsseldorf-Garath 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/St._Matth%C3%A4us_%28D%C3%BCsseldorf%29",
+   "https://www.wikidata.org/wiki/Q2321428"
+  ]
+ },
+ {
+  "id": "tour-horizons",
+  "qid": "Q2371224",
+  "status": "photo",
+  "why": "Lead gives a reason (three very different buildings stacked, won in competition by Nouvel), delivered June 2011; daylight photos.",
+  "name": "Tour Horizons",
+  "by": "Jean Nouvel",
+  "city": "Boulogne-Billancourt",
+  "cc": "FR",
+  "year": 2011,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Three stacked buildings of very different styles make one tower in Boulogne-Billancourt, won by Jean Nouvel in competition.",
+  "commons_category": "Category:Tour Horizons",
+  "coords": [
+   48.8279,
+   2.23384
+  ],
+  "photos": [
+   {
+    "file": "File:Tours Horizons, Boulogne-Boulogne-Billancourt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Billancourt–Rives de Seine, 92100 Boulogne-Billancourt, France - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tours Horizons.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Tour_Horizons",
+   "https://www.wikidata.org/wiki/Q2371224"
+  ]
+ },
+ {
+  "id": "palais-des-congres-de-tours",
+  "qid": "Q2945812",
+  "status": "photo",
+  "why": "Lead names Nouvel, opened 1993, and sits in a public park; clear exterior photos.",
+  "name": "Palais des Congrès de Tours",
+  "by": "Jean Nouvel",
+  "city": "Tours",
+  "cc": "FR",
+  "year": 1993,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Steel & glass"
+  ],
+  "features": "Jean Nouvel's congress centre in Tours, with landscape architect Yves Brunier, opened in 1993 beside a public park.",
+  "commons_category": "Category:Centre international de congrès de Tours - Vinci",
+  "coords": [
+   47.3918,
+   0.69336
+  ],
+  "photos": [
+   {
+    "file": "File:Concert hall in Tours - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ctrevinci2.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Сквер у концертного зала La Vinci - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Centre_international_de_congr%C3%A8s_Vinci_de_Tours",
+   "https://www.wikidata.org/wiki/Q2945812"
+  ]
+ },
+ {
+  "id": "cohen-house",
+  "qid": "Q5141321",
+  "status": "photo",
+  "why": "Lead names Mendelsohn and Chermayeff (Foster only added the 1970s conservatory, so left out), built 1935-36, Grade II*; clear photos.",
+  "name": "Cohen House",
+  "by": "Erich Mendelsohn, Serge Chermayeff",
+  "city": "London",
+  "cc": "GB",
+  "year": 1936,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "A private modernist house in Chelsea, London, built 1935-36, when the city had little modern architecture.",
+  "commons_category": "Category:Cohen House, London",
+  "coords": [
+   51.4876,
+   -0.17401
+  ],
+  "photos": [
+   {
+    "file": "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979427.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979423.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cohen_House%2C_London",
+   "https://www.wikidata.org/wiki/Q5141321"
+  ]
+ },
+ {
+  "id": "centre-civic-de-riudaura",
+  "qid": "Q65204290",
+  "status": "photo",
+  "why": "Lead names RCR, a Mies van der Rohe Award finalist, opened 1999; whole-building daylight photos.",
+  "name": "Centre Cívic de Riudaura",
+  "by": "RCR Arquitectes",
+  "city": "Riudaura",
+  "cc": "ES",
+  "year": 1999,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "A civic centre by RCR Arquitectes, a Mies van der Rohe Award finalist, opened 1999 in Riudaura.",
+  "commons_category": "Category:Centre Cívic de Riudaura",
+  "coords": [
+   42.1883,
+   2.40883
+  ],
+  "photos": [
+   {
+    "file": "File:Centre cívic de Riudaura.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centre cívic de Riudaura (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centre cívic de Riudaura (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ca.wikipedia.org/wiki/Centre_C%C3%ADvic_de_Riudaura",
+   "https://www.wikidata.org/wiki/Q65204290"
+  ]
+ },
+ {
+  "id": "paul-mellon-arts-center",
+  "qid": "Q7152453",
+  "status": "photo",
+  "why": "Lead names Pei, begun 1968 and completed 1972; clear daylight photo of the whole building.",
+  "name": "Paul Mellon Arts Center",
+  "by": "I. M. Pei",
+  "city": "Wallingford",
+  "cc": "US",
+  "year": 1972,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Cantilever"
+  ],
+  "features": "I. M. Pei's arts building on the Choate Rosemary Hall campus, begun in 1968 and completed in 1972.",
+  "commons_category": null,
+  "coords": [
+   41.4574,
+   -72.8097
+  ],
+  "photos": [
+   {
+    "file": "File:Paul Mellon Arts Center - Choate Rosemary Hall, Wallingford, Connecticut.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Mellon_Arts_Center",
+   "https://www.wikidata.org/wiki/Q7152453"
+  ]
+ },
+ {
+  "id": "st-josef",
+  "qid": "Q2319597",
+  "status": "photo",
+  "why": "Lead names Böhm and says built 1957-1959 (year taken as the end of the build); listed; photos clear.",
+  "name": "St. Josef",
+  "by": "Gottfried Böhm",
+  "city": "Grevenbroich",
+  "cc": "DE",
+  "year": 1959,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "A parish church in Grevenbroich, listed as a monument in 2007, planned by Gottfried Böhm.",
+  "commons_category": "Category:St. Josef (Grevenbroich)",
+  "coords": [
+   51.0805,
+   6.605
+  ],
+  "photos": [
+   {
+    "file": "File:Grevenbroich St. Joseph 1 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grevenbroich, Südstadt, St. Josef, 2008.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grevenbroich St. Joseph 2 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/St._Josef_%28Grevenbroich%29",
+   "https://www.wikidata.org/wiki/Q2319597"
+  ]
+ }
+]

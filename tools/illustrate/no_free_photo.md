@@ -97,6 +97,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Villa Primavesi | Franz von Krauss | 1900 | Olomouc, CZ | Haiku pool 6 photo review: year unsourced: Wikidata's 1900 does not fit, and the lead gives none |
 | Ormen Långe | Ralph Erskine | 1965 | Svappavaara, SE | Haiku pool 6 photo review: only photo of the building is a cropped 1965 print; the rest are views through a porthole |
 | Crater Lake Superintendent's Residence | National Park Service | 1932 | Crater Lake National Park, US | Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service |
+| Villa Tonder | Jan Kotěra | 1906 | St. Gilgen, AT | Haiku pool 8 photo review: only historic photos; unclear whether the villa still stands |
 | Palais Bulles | Antti Lovag | 1989 | Théoule-sur-Mer, FR | lead photo didn't show the building; see recheck.md |
 | CMA CGM Tower | Zaha Hadid Architects | 2011 | Marseille, FR | lead photo still didn't show the building (Oct 13 review) |
 | Sainte-Bernadette du Banlay | Claude Parent, Paul Virilio | 1966 | Nevers, FR | No files on Commons at all (a strong drawing candidate). Sources confirm two interlocking concrete shells cantilevered over a central pillar, a big overhang on the facade, opaque walls with small porthole-like openings and light from a central split, but none gives the profile of the shells or the roof; the detailed pages (WikiArquitectura, CAUE 58) couldn't be reached. A trial drawing came out as a guess, so I removed it. |

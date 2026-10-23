@@ -1,0 +1,223 @@
+{
+ "keep_ok": [
+  "forum-building",
+  "kumamoto-prefectural-ancient-burial-mound-museum",
+  "triangle-building",
+  "salerno-courthouse",
+  "chapel-of-st-basil",
+  "estacao-cabo-branco-ciencia-cultura-e-artes",
+  "procuradoria-geral-da-republica",
+  "garden-of-fine-art-kyoto",
+  "koumi-machi-kogen-museum-of-art",
+  "ishikawa-nishida-kitaro-museum-of-philosophy",
+  "ogasawara-museum",
+  "biblioteca-nacional-de-brasilia",
+  "sankt-ursula-kalscheuren",
+  "memorial-dos-povos-indigenas",
+  "wayne-l-morse-united-states-courthouse",
+  "burgerhaus-bergischer-lowe",
+  "obra-do-berco",
+  "pavilhao-padre-manoel-da-nobrega",
+  "villa-norrkoping",
+  "the-marnix",
+  "toyonokuni-libraries-for-cultural-resources",
+  "kirche-schonow-buschgraben",
+  "bethanien-kinderdorf-bergisch-gladbach",
+  "shangyin-opera-house",
+  "st-lukas-kirche",
+  "biblioteca-municipal-de-viana-do-castelo",
+  "casa-do-cantador"
+ ],
+ "ordinary": [
+  "biblioteca-nacional-de-brasilia",
+  "wayne-l-morse-united-states-courthouse",
+  "burgerhaus-bergischer-lowe",
+  "the-marnix",
+  "toyonokuni-libraries-for-cultural-resources",
+  "shangyin-opera-house",
+  "biblioteca-municipal-de-viana-do-castelo"
+ ],
+ "keep_fix": [
+  {
+   "id": "koumi-machi-kogen-museum-of-art",
+   "field": "features",
+   "haiku": "A museum of art run by the town of Koumi, designed by Tadao Ando.",
+   "should_be": "A town-run art museum in Koumi.",
+   "why": "The lead (ja) says only that it is an art museum run by the town of Koumi; Ando is not named in it."
+  },
+  {
+   "id": "ishikawa-nishida-kitaro-museum-of-philosophy",
+   "field": "features",
+   "haiku": "Ando's museum in Kahoku, Ishikawa, dedicated to the philosopher Nishida Kitarō.",
+   "should_be": "A cultural facility in Kahoku, Ishikawa, devoted to the philosopher Nishida Kitarō.",
+   "why": "The lead (ja) does not name Ando; it says a cultural facility in Kahoku, Ishikawa, about Nishida Kitarō."
+  },
+  {
+   "id": "biblioteca-nacional-de-brasilia",
+   "field": "features",
+   "haiku": "Niemeyer's national library on the Esplanade of Ministries, with an open outdoor space of seats and water mirrors.",
+   "should_be": "National library on Brasília's Esplanade of Ministries, with an open outdoor area of seats and water mirrors.",
+   "why": "The lead (es) does not name Niemeyer; it gives the site, the Cultural Complex of the Republic and the open outdoor space."
+  },
+  {
+   "id": "ogasawara-museum",
+   "field": "by",
+   "haiku": "Kazuyo Sejima, Ryue Nishizawa, SANAA",
+   "should_be": "SANAA (Kazuyo Sejima, Ryue Nishizawa)",
+   "why": "Haiku listed the firm and its two founders as three separate architects; the wall writes SANAA this way (zollverein-school)."
+  },
+  {
+   "id": "kirche-schonow-buschgraben",
+   "field": "by",
+   "haiku": "Frei Otto",
+   "should_be": "Frei Otto, Ewald Bubner",
+   "why": "The lead (de) names both Frei Otto and Ewald Bubner as the designers."
+  },
+  {
+   "id": "triangle-building",
+   "field": "name",
+   "haiku": "Triangle Building",
+   "should_be": "Edifício Triângulo",
+   "why": "The lead calls it Edificio Triángulo (es) and the photos use Edifício Triângulo; 'Triangle Building' is a loose translation, not an established English name."
+  },
+  {
+   "id": "the-marnix",
+   "field": "by",
+   "haiku": "Gordon Bunshaft",
+   "should_be": "Gordon Bunshaft (Skidmore, Owings & Merrill)",
+   "why": "Wikidata also lists an unresolved Q-number; the lead (nl) names Bunshaft of SOM as the designer."
+  },
+  {
+   "id": "pavilhao-padre-manoel-da-nobrega",
+   "field": "concepts",
+   "haiku": [
+    "Cantilever",
+    "Sculptural form",
+    "Landscape"
+   ],
+   "should_be": [
+    "Pilotis",
+    "Structure as expression",
+    "Landscape"
+   ],
+   "why": "The photos show a long white box raised on pilotis with a diagonal strut; there is no cantilever."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "el-peix-dor",
+   "why": "A sculpture (the lead calls it a Kunstwerk) with a sculpture as main-photo subject; owner's rule excludes artworks and objects. Skip."
+  },
+  {
+   "id": "shenzhen-library",
+   "why": "Duplicate: the Shenzhen Library main building is part of the Shenzhen Cultural Center (Isozaki), already on the wall as shenzhen-cultural-center (Library and Concert Hall)."
+  },
+  {
+   "id": "meier-on-rothschild",
+   "why": "Residential tower; the lead gives only height and a ranking (second-highest residential building in Israel), no design reason. Ordinary type. First good photo is also a street view of a tower among others."
+  },
+  {
+   "id": "the-troika",
+   "why": "Luxury condo towers; the lead gives only the developer, architect and a metro stop. Ordinary type, and the only photo shows distant towers among trees."
+  },
+  {
+   "id": "renmin-building",
+   "why": "City government offices; the lead gives only the location beside Shanghai's museums, no design reason. Ordinary civic."
+  },
+  {
+   "id": "tianjin-library",
+   "why": "The lead describes the library institution (founded 1908), not the building, so there is no design reason and the features line is about the institution; ordinary library; main photo is a distant view across a lake."
+  },
+  {
+   "id": "elmer-holmes-bobst-library",
+   "why": "Library whose lead gives only location, opening date and benefactor: no design reason. Ordinary."
+  },
+  {
+   "id": "hiroshima-national-peace-memorial-hall-for-the-atomic-bomb-victims",
+   "why": "One-line lead gives no design reason and the building is mostly underground (photos show a glass cylinder and a low wall); Tange is named only by Wikidata. Skip."
+  },
+  {
+   "id": "sandra-day-oconnor-united-states-courthouse",
+   "why": "Courthouse; the lead says only that it is named after Justice O'Connor, no design reason. Ordinary civic."
+  },
+  {
+   "id": "palacio-de-congresos-de-valencia",
+   "why": "Convention centre; the lead gives only use, capacity and opening, no design reason. Ordinary."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "salerno-courthouse",
+   "better_file_or_null": "File:Cittadellagiudiziaria1.JPG",
+   "why": "Haiku's first photo (CittadellagiudiziariaedificioAeB.JPG) is a cropped top of one tower with branches; Cittadellagiudiziaria1.JPG (CC0/public domain) shows the brick tower and its portico clearly in daylight."
+  },
+  {
+   "id": "sankt-ursula-kalscheuren",
+   "better_file_or_null": "File:St. Ursula Kalscheuren.jpg",
+   "why": "Haiku's first photo shows the church small at the edge of a car park; St. Ursula Kalscheuren.jpg (CC BY-SA 4.0, 6000 px) shows the whole rotunda and tower clearly under blue sky."
+  },
+  {
+   "id": "praca-da-apoteose",
+   "better_file_or_null": null,
+   "why": "The only photo (Apoteose do Tiro com Arco) is an Olympic archery event set up in front of the arches; the owner's rule bars events as the main photo. Keep off the wall until a clean photo is found; lead gives only concerts and attendances."
+  },
+  {
+   "id": "centro-direzionale-di-fontivegge",
+   "better_file_or_null": null,
+   "why": "All photos are grey, partial views from the square (a tower base, side walls); none shows the complex clearly, and the lead gives only location. Off the wall until a better photo is found."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "nariwa-museum",
+   "why": "Haiku's only doubt was prep year 1953, which is the older museum's founding; year null is allowed. Ando is accepted from Wikidata (lead names no one else); the first photo shows the whole building, outside, in daylight, and it is not on the wall.",
+   "entry": {
+    "id": "nariwa-museum",
+    "qid": "Q11670668",
+    "status": "photo",
+    "why": "Ando museum per Wikidata (lead names no other architect); prep year 1953 is the older museum's founding, not Ando's building, so year is null. Photos show the concrete building by its pond.",
+    "name": "Nariwa Museum",
+    "by": "Tadao Ando",
+    "city": "Takahashi",
+    "cc": "JP",
+    "year": null,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Exposed concrete",
+     "Water",
+     "Landscape"
+    ],
+    "features": "A complex combining an art museum and an archaeological museum, in Takahashi, Okayama Prefecture.",
+    "commons_category": "Category:Nariwa-cho Art Museum",
+    "coords": [
+     34.78072,
+     133.53667
+    ],
+    "photos": [
+     {
+      "file": "File:Nariwa-cho museum01s4000m.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Nariwa-cho museum03s3200.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Nariwa-cho museum05s3200.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Nariwa-cho museum04s3200.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 0-71: Haiku had 39 photo, 16 skip, 17 unsure. Check result: 27 kept OK (keep_ok includes the entries that need a keep_fix or a better main photo; apply the fixes), 7 of them ordinary types (ordinary list), 8 field fixes (features x3, by x3, name x1, concepts x1), 10 keep_wrong (1 duplicate, 1 sculpture, 8 ordinary or weak), 4 main-photo problems (2 swap to a better file, 2 off the wall with no photo: praca-da-apoteose, centro-direzionale-di-fontivegge), 1 rescued (nariwa-museum). All unsure/skip entries otherwise stay out: empty leads, demolished, interiors only, construction photos, no photos, or building is a duplicate (moma-tainan = tainan-art-museum on the wall). Not rescued by choice: queen-elizabeth-ii-great-court (all photos are interior views; owner's rule wants the building outside), city-hall-of-montpellier (lead calls it historic and gives no design), colosseum-kino (original architects Hansen and Iversen per photo caption; Fehn only rebuilt after 1964 fire; lead names nobody), nariwa year 1953 resolved. Ordinary share if all keep_ok + rescued are added: 7 of 28 = 25%, above the 20% limit; drop the weakest of ordinary (biblioteca-nacional-de-brasilia, wayne-l-morse-united-states-courthouse) if the pool total needs it."
+}

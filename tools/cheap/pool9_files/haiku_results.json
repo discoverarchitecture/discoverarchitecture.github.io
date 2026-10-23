@@ -1,0 +1,2690 @@
+[
+ {
+  "id": "forum-building",
+  "qid": "Q2842986",
+  "status": "photo",
+  "why": "Herzog & de Meuron landmark named in the lead; the photos show the building in daylight. Year not in lead.",
+  "name": "Forum Building",
+  "by": "Herzog & de Meuron",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Herzog & de Meuron's triangular landmark, 180 metres a side, symbol of Barcelona's 2004 Universal Forum.",
+  "commons_category": "Category:Forum Building",
+  "coords": [
+   41.41101,
+   2.22092
+  ],
+  "photos": [
+   {
+    "file": "File:Barcelona 2006 (2845523246).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifici Fòrum Barcelona Catalonia.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona 2006 (2845523526).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kumamoto-prefectural-ancient-burial-mound-museum",
+  "qid": "Q4557656",
+  "status": "photo",
+  "why": "Ando museum; the lead gives the reason and the completion date (April 1992). Clear daylight exterior.",
+  "name": "Kumamoto Prefectural Ancient Burial Mound Museum",
+  "by": "Tadao Ando",
+  "city": "Yamaga",
+  "cc": "JP",
+  "year": 1992,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Full-size replicas of the inner chambers of twelve decorated tumuli, in a Tadao Ando museum.",
+  "commons_category": "Category:Kumamoto Prefectural Decorated Tumulus Museum",
+  "coords": [
+   32.99367,
+   130.66969
+  ],
+  "photos": [
+   {
+    "file": "File:Kumamoto Prefectural Ancient Burial Mound Museum 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "funf-hofe",
+  "qid": "Q1481649",
+  "status": "skip",
+  "why": "Shopping mall; the lead gives no architectural reason."
+ },
+ {
+  "id": "san-francisco-public-library",
+  "qid": "Q2901530",
+  "status": "skip",
+  "why": "Lead describes the library system, not the building; the 1878 year does not fit the named architects.",
+  "dup_flag": "near=(130, 'asian-art-museum-of-san-francisco', 'Asian Art Museum of San Francisco')"
+ },
+ {
+  "id": "queen-elizabeth-ii-great-court",
+  "qid": "Q7270359",
+  "status": "unsure",
+  "why": "Foster's covered court in the British Museum; every photo is inside, so no outside view of the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "hiroshima-national-peace-memorial-hall-for-the-atomic-bomb-victims",
+  "qid": "Q114067",
+  "status": "photo",
+  "why": "Tange, a well-known architect, and this is his built work; the lead is very short. Year from prep.",
+  "name": "Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims",
+  "by": "Kenzō Tange",
+  "city": "Hiroshima",
+  "cc": "JP",
+  "year": 2002,
+  "type": "Memorial",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Monumentality"
+  ],
+  "features": "A national memorial hall in Hiroshima for the victims of the atomic bomb, designed by Kenzō Tange.",
+  "commons_category": "Category:Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims",
+  "coords": [
+   34.39333,
+   132.45349
+  ],
+  "photos": [
+   {
+    "file": "File:Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims 2008 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims 20170310.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "paris-opera-ballet-school",
+  "qid": "Q19945031",
+  "status": "skip",
+  "why": "Lead describes the ballet school, and its year (1713) is the school's founding."
+ },
+ {
+  "id": "el-peix-dor",
+  "qid": "Q28027474",
+  "status": "photo",
+  "why": "Gehry; the lead gives the reason (first structure designed with CATIA). It is also an artwork, so check it.",
+  "name": "El Peix d'Or",
+  "by": "Frank Gehry",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1992,
+  "type": "Public space",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Parametric"
+  ],
+  "features": "Said to be the first structure designed with CATIA, an aircraft CAD program, to handle its non-Euclidean geometry.",
+  "commons_category": "Category:El Peix (sculpture by Frank Gehry)",
+  "coords": [
+   41.38608,
+   2.19693
+  ],
+  "photos": [
+   {
+    "file": "File:Barcelona Frank Gehrys Peix.jpg",
+    "license": "CC BY-SA 3.0 at",
+    "seen": true
+   },
+   {
+    "file": "File:Escultura de Frank O. Gehry con forma de peixe. Porto olímpico de Barcelona B18.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aerospace-technology-and-science-department",
+  "qid": "Q3683932",
+  "status": "skip",
+  "why": "Lead describes a military research institute, not a building."
+ },
+ {
+  "id": "shenzhen-library",
+  "qid": "Q38773376",
+  "status": "photo",
+  "why": "Isozaki, a well-known architect, and a built work; the lead is short. No year in prep or lead.",
+  "name": "Shenzhen Library",
+  "by": "Arata Isozaki",
+  "city": "Shenzhen",
+  "cc": "CN",
+  "year": null,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Shenzhen's municipal main library, a 49,589 m² building inside the Shenzhen Cultural Center.",
+  "commons_category": "Category:Shenzhen Library",
+  "coords": [
+   22.54857,
+   114.05202
+  ],
+  "photos": [
+   {
+    "file": "File:Shenzhen Library Overview.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "triangle-building",
+  "qid": "Q4462747",
+  "status": "photo",
+  "why": "Niemeyer built work; the lead describes the building and gives the 1955 opening. Daylight tower photos.",
+  "name": "Triangle Building",
+  "by": "Oscar Niemeyer",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1955,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Brise-soleil",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Niemeyer's 1955 commercial building in São Paulo: a prism ringed by three kinds of glass and brise-soleil.",
+  "commons_category": "Category:Edifício Triângulo",
+  "coords": [
+   -23.54886,
+   -46.63467
+  ],
+  "photos": [
+   {
+    "file": "File:At São Paulo, Brazil 2019 195.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Triângulo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At São Paulo, Brazil 2019 191.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-police-memorial",
+  "qid": "Q6974970",
+  "status": "skip",
+  "why": "Memorial sculpture and garden, a monument rather than a building."
+ },
+ {
+  "id": "praca-da-apoteose",
+  "qid": "Q7239115",
+  "status": "photo",
+  "why": "Niemeyer square; an event venue, so check it. The lead gives the design date; the year is not given.",
+  "name": "Praça da Apoteose",
+  "by": "Oscar Niemeyer",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": null,
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "A Niemeyer square in Rio's Sambadrome, designed in 1983, that holds concerts and events for tens of thousands.",
+  "commons_category": null,
+  "coords": [
+   -22.91337,
+   -43.19615
+  ],
+  "photos": [
+   {
+    "file": "File:Apoteose do Tiro com Arco.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "colosseum-kino",
+  "qid": "Q774976",
+  "status": "unsure",
+  "why": "The photo caption credits other architects for the original building and Fehn only with a later rebuild; the lead names no architect. Check the architect."
+ },
+ {
+  "id": "beisheim-center",
+  "qid": "Q814873",
+  "status": "skip",
+  "why": "Mixed hotel and office ensemble; the lead gives no architectural reason.",
+  "dup_flag": "near=(140, 'sony-center', 'Sony Center')"
+ },
+ {
+  "id": "tianjin-library",
+  "qid": "Q10939994",
+  "status": "photo",
+  "why": "Yamamoto, a well-known architect (architect from prep only; the lead names none). Lead gives the reason.",
+  "name": "Tianjin Library",
+  "by": "Riken Yamamoto",
+  "city": "Tianjin",
+  "cc": "CN",
+  "year": null,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "One of China's largest public libraries, a national first-level library founded in 1908.",
+  "commons_category": "Category:Tianjin Library",
+  "coords": [
+   39.08431,
+   117.20918
+  ],
+  "photos": [
+   {
+    "file": "File:天津图书馆1.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "salerno-courthouse",
+  "qid": "Q16541977",
+  "status": "photo",
+  "why": "Chipperfield courthouse; the lead describes the six buildings. Daylight photos of the whole complex. No year in lead.",
+  "name": "Salerno Courthouse",
+  "by": "David Chipperfield",
+  "city": "Salerno",
+  "cc": "IT",
+  "year": null,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Six buildings linked by porticoes and courtyards, set on a black stone public square.",
+  "commons_category": "Category:Cittadella giudiziaria (Salerno)",
+  "coords": [
+   40.6784,
+   14.7743
+  ],
+  "photos": [
+   {
+    "file": "File:CittadellagiudiziariaedificioAeB.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Cittadellagiudiziaria1.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Cittadella giudiziaria salerno.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "elmer-holmes-bobst-library",
+  "qid": "Q3051566",
+  "status": "photo",
+  "why": "Johnson, a well-known architect; the lead gives the 1973 opening. Daylight facade photos.",
+  "name": "Elmer Holmes Bobst Library",
+  "by": "Philip Johnson",
+  "city": "New York",
+  "cc": "US",
+  "year": 1973,
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "NYU's main library in Lower Manhattan, opened in 1973 and named for its benefactor, Elmer Holmes Bobst.",
+  "commons_category": "Category:Bobst Library",
+  "coords": [
+   40.72944,
+   -73.99722
+  ],
+  "photos": [
+   {
+    "file": "File:Bobst Library (48072704803).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bobst Library - 36884313524.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bobst Library - 48705212442.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "les-champs-libres",
+  "qid": "Q3231356",
+  "status": "unsure",
+  "why": "Portzamparc's Rennes centre (lead gives 2006); the photos are a kiosk, indoor scenes or partial views, so no whole-building photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "palazzo-donnaregina",
+  "qid": "Q3361294",
+  "status": "unsure",
+  "why": "Siza Vieira led only the 2005 restoration of a 19th-century palace (lead); the original architect is not known. The only photo is a courtyard inside.",
+  "note": "no main photo"
+ },
+ {
+  "id": "chapel-of-st-basil",
+  "qid": "Q5073081",
+  "status": "photo",
+  "why": "Johnson, a well-known architect; the lead is short. Lead gives only a design year, so the year is left null.",
+  "name": "Chapel of St. Basil",
+  "by": "Philip Johnson",
+  "city": "Houston",
+  "cc": "US",
+  "year": null,
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Philip Johnson's chapel on the University of St. Thomas campus in Houston, Texas.",
+  "commons_category": "Category:Chapel of St. Basil, Houston",
+  "coords": [
+   29.7384,
+   -95.3932
+  ],
+  "photos": [
+   {
+    "file": "File:2024-0105-Chapel of St. Basil west elevation.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024-0105-Chapel of St. Basil north elevation.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "estacao-cabo-branco-ciencia-cultura-e-artes",
+  "qid": "Q615457",
+  "status": "photo",
+  "why": "Niemeyer built work; the lead gives the 3 July 2008 opening. Daylight views of the whole building.",
+  "name": "Estação Cabo Branco – Ciência, Cultura e Artes",
+  "by": "Oscar Niemeyer",
+  "city": "João Pessoa",
+  "cc": "BR",
+  "year": 2008,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Promenade",
+   "Public space"
+  ],
+  "features": "Niemeyer's science, culture and arts centre in the Cabo Branco district of João Pessoa, opened in 2008.",
+  "commons_category": "Category:Estação Cabo Branco",
+  "coords": [
+   -7.14765,
+   -34.79895
+  ],
+  "photos": [
+   {
+    "file": "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888023101).jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888015271).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "meier-on-rothschild",
+  "qid": "Q6945083",
+  "status": "photo",
+  "why": "Meier, a well-known architect, and his built tower; the lead names no architect, so prep is used. Daylight photos.",
+  "name": "Meier on Rothschild",
+  "by": "Richard Meier",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": 2014,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Modular"
+  ],
+  "features": "Richard Meier's 158-metre tower on Allenby Street in Tel Aviv, Israel's second-highest residential building.",
+  "commons_category": "Category:Meier on Rothschild Tower",
+  "coords": [
+   32.06333,
+   34.77333
+  ],
+  "photos": [
+   {
+    "file": "File:111543 tel aviv-old and new in allenby PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:111548 tel aviv-old and new in allenby PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(162, 'great-synagogue-tel-aviv', 'Great Synagogue')"
+ },
+ {
+  "id": "procuradoria-geral-da-republica",
+  "qid": "Q10369343",
+  "status": "photo",
+  "why": "Niemeyer complex; the lead describes it and its postmodern character. No year in lead or prep.",
+  "name": "Procuradoria Geral da República",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": null,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Niemeyer's Brasília headquarters for Brazil's public prosecutors, among his most controversial works.",
+  "commons_category": "Category:Procuradoria Geral da República (building)",
+  "coords": [
+   -15.80772,
+   -47.85955
+  ],
+  "photos": [
+   {
+    "file": "File:Webysther 20180212174501 - PGR - Procuradoria Geral da República.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sede da Procuradoria Geral da República Brasileira (Attorney General's Office), 2002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:110423 brasilia - 10.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-troika",
+  "qid": "Q1097149",
+  "status": "photo",
+  "why": "Foster, a well-known architect, and a built work; housing kept on that basis. Check, as it is ordinary housing.",
+  "name": "The Troika",
+  "by": "Foster and Partners",
+  "city": "Kuala Lumpur",
+  "cc": "MY",
+  "year": 2010,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Three luxury condominium towers in Kuala Lumpur, designed by the British firm Foster and Partners.",
+  "commons_category": null,
+  "coords": [
+   3.15466,
+   101.718
+  ],
+  "photos": [
+   {
+    "file": "File:KL - The Troika2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "garden-of-fine-art-kyoto",
+  "qid": "Q11375286",
+  "status": "photo",
+  "why": "Ando garden; the lead gives the 1994 opening and the design. Photos show the walls and walks, not the artworks.",
+  "name": "Garden of Fine Art Kyoto",
+  "by": "Tadao Ando",
+  "city": "Kyoto",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Promenade"
+  ],
+  "features": "An open-air museum of ceramic copies of famous paintings, set in a walking garden designed by Tadao Ando.",
+  "commons_category": "Category:Garden of Fine Art, Kyoto",
+  "coords": [
+   35.05111,
+   135.76531
+  ],
+  "photos": [
+   {
+    "file": "File:Garden of Fine Art, Kyoto 2025.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Garden of Fine Art, Kyoto 2025-1.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(175, 'kyoto-concert-hall', 'Kyoto Concert Hall')"
+ },
+ {
+  "id": "koumi-machi-kogen-museum-of-art",
+  "qid": "Q11462647",
+  "status": "photo",
+  "why": "Ando museum; the lead is one line, kept on the second test. Daylight exterior; the banner photo is not used.",
+  "name": "Koumi-machi Kōgen Museum of Art",
+  "by": "Tadao Ando",
+  "city": "Koumi",
+  "cc": "JP",
+  "year": 1997,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "A museum of art run by the town of Koumi, designed by Tadao Ando.",
+  "commons_category": "Category:Koumi-machi Kōgen Museum of Art",
+  "coords": [
+   36.05927,
+   138.44008
+  ],
+  "photos": [
+   {
+    "file": "File:小海町高原美術館.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ishikawa-nishida-kitaro-museum-of-philosophy",
+  "qid": "Q11586041",
+  "status": "photo",
+  "why": "Ando, a well-known architect; the lead is short. Daylight glass and concrete exterior.",
+  "name": "Ishikawa Nishida Kitarō Museum of Philosophy",
+  "by": "Tadao Ando",
+  "city": "Kahoku",
+  "cc": "JP",
+  "year": 2002,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "Ando's museum in Kahoku, Ishikawa, dedicated to the philosopher Nishida Kitarō.",
+  "commons_category": "Category:Ishikawa Nishida Kitaro Museum of Philosophy",
+  "coords": [
+   36.71417,
+   136.69389
+  ],
+  "photos": [
+   {
+    "file": "File:Nishida Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nariwa-museum",
+  "qid": "Q11670668",
+  "status": "unsure",
+  "why": "Prep year 1953 cannot be Ando's building, and the lead gives no year. The photos are fine, so check the year."
+ },
+ {
+  "id": "okernhjemmet",
+  "qid": "Q12011794",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "ogasawara-museum",
+  "qid": "Q123418594",
+  "status": "photo",
+  "why": "SANAA museum; the lead gives the reasons. Lead says built 1995 to 1999, so 1999 is used as the year.",
+  "name": "Ogasawara Museum",
+  "by": "Kazuyo Sejima, Ryue Nishizawa, SANAA",
+  "city": "Iida",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Pilotis",
+   "Landscape",
+   "Free plan"
+  ],
+  "features": "SANAA's one-storey museum curves with the terrain, raised on six square pilotis.",
+  "commons_category": "Category:Ogasawara Museum",
+  "coords": [
+   35.4464,
+   137.7949
+  ],
+  "photos": [
+   {
+    "file": "File:Ogasawara klan museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maria-konigin-des-friedens",
+  "qid": "Q12362561",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "renmin-building",
+  "qid": "Q15928305",
+  "status": "photo",
+  "why": "Tange from prep; the lead names no architect and gives no year. Civic building with daylight photos.",
+  "name": "Renmin Building",
+  "by": "Kenzō Tange",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": null,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Axis"
+  ],
+  "features": "Shanghai's municipal government building on People's Square, beside the city's museums and opera house.",
+  "commons_category": "Category:Shanghai City Hall",
+  "coords": [
+   31.2323,
+   121.469
+  ],
+  "photos": [
+   {
+    "file": "File:Shanghai, China, December 2015 - 139.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shanghai Government Building.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(193, 'shanghai-grand-theatre', 'Shanghai Grand Theatre')"
+ },
+ {
+  "id": "biblioteca-nacional-de-brasilia",
+  "qid": "Q16498203",
+  "status": "photo",
+  "why": "Niemeyer built work; the lead describes the open space and water mirrors. No year in lead or prep.",
+  "name": "Biblioteca Nacional de Brasília",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": null,
+  "type": "Library",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Water"
+  ],
+  "features": "Niemeyer's national library on the Esplanade of Ministries, with an open outdoor space of seats and water mirrors.",
+  "commons_category": "Category:Biblioteca Nacional de Brasília",
+  "coords": [
+   -15.79674,
+   -47.88017
+  ],
+  "photos": [
+   {
+    "file": "File:Brasília - Biblioteca Nacional (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brasília - Biblioteca Nacional (12).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(166, 'national-museum-of-the-republic', 'National Museum of the Republic')"
+ },
+ {
+  "id": "paard-van-troje",
+  "qid": "Q1704368",
+  "status": "skip",
+  "why": "Music venue; the lead gives no architecture, and the architect does not fit the 1972 founding."
+ },
+ {
+  "id": "dentsu-tsukiji-building",
+  "qid": "Q22119511",
+  "status": "skip",
+  "why": "Demolished in 2021 (lead)."
+ },
+ {
+  "id": "ijplein",
+  "qid": "Q2783489",
+  "status": "skip",
+  "why": "A name for areas of Amsterdam-Noord, not a building."
+ },
+ {
+  "id": "city-hall-of-montpellier",
+  "qid": "Q3146162",
+  "status": "unsure",
+  "why": "Lead calls it a historic building, but the photos and Nouvel's name point to a modern glass building; no year in prep or lead."
+ },
+ {
+  "id": "sankt-ursula-kalscheuren",
+  "qid": "Q59618",
+  "status": "photo",
+  "why": "Böhm, a well-known architect; the lead gives the listing and the 2006 sale. No year in lead or prep.",
+  "name": "Sankt Ursula (Kalscheuren)",
+  "by": "Gottfried Böhm",
+  "city": "Hürth",
+  "cc": "DE",
+  "year": null,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "A listed former parish church by Gottfried Böhm, deconsecrated in 2006 and now a gallery space.",
+  "commons_category": "Category:St. Ursula (Kalscheuren)",
+  "coords": [
+   50.8773,
+   6.90657
+  ],
+  "photos": [
+   {
+    "file": "File:St. Ursula, Hürth-Kalscheuren 2009-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chantier-royal-hamilius",
+  "qid": "Q62602938",
+  "status": "unsure",
+  "why": "Foster's Luxembourg centre (lead gives 2019); every photo shows the site under construction, not the finished building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "memorial-dos-povos-indigenas",
+  "qid": "Q6522452",
+  "status": "photo",
+  "why": "Niemeyer's museum and cultural centre, finished 1987 (lead); main photo shows the whole building in daylight.",
+  "name": "Memorial dos Povos Indígenas",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": 1987,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Niemeyer's indigenous culture museum on Brasília's Monumental Axis, converted into a modern art museum before opening.",
+  "commons_category": "Category:Memorial dos Povos Indígenas",
+  "coords": [
+   -15.7848,
+   -47.9116
+  ],
+  "photos": [
+   {
+    "file": "File:Memorial dos Povos Indígenas, Brasília, Brazil, Ricardo Moraleida 2008.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:MemorialPovos7.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bank-melli-iran-university-of-tehran-branch",
+  "qid": "Q6813091",
+  "status": "unsure",
+  "why": "Utzon's bank, completed 1962 (lead). The photos are a ceiling-light close-up and a model, so no main photo.",
+  "note": "no main photo",
+  "name": "Melli Bank, University of Tehran Branch",
+  "by": "Jørn Utzon, Hans Munk Hansen",
+  "city": "Tehran",
+  "cc": "IR",
+  "year": 1962,
+  "commons_category": "Category:Bank Melli Iran (University of Tehran Branch)",
+  "coords": [
+   35.70069,
+   51.39964
+  ]
+ },
+ {
+  "id": "palladium",
+  "qid": "Q7127710",
+  "status": "skip",
+  "why": "Lead names Thomas W. Lamb as designer of this 1927 cinema and nightclub, not Isozaki; photos show artworks and people, not the building."
+ },
+ {
+  "id": "sandra-day-oconnor-united-states-courthouse",
+  "qid": "Q7416587",
+  "status": "photo",
+  "why": "Richard Meier's built courthouse (well-known architect, lead short); year 2000 from Wikidata, as the lead gives none; main photo shows the whole building.",
+  "name": "Sandra Day O'Connor United States Courthouse",
+  "by": "Richard Meier",
+  "city": "Phoenix",
+  "cc": "US",
+  "year": 2000,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Steel & glass"
+  ],
+  "features": "A Phoenix federal courthouse named for Justice Sandra Day O'Connor, who served 1981 to 2006.",
+  "commons_category": "Category:Sandra Day O'Connor United States Courthouse",
+  "coords": [
+   33.44778,
+   -112.08056
+  ],
+  "photos": [
+   {
+    "file": "File:Sandra Day O'Connor United States Courthouse - Phoenix, Arizona (49343843277).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "wayne-l-morse-united-states-courthouse",
+  "qid": "Q7976402",
+  "status": "photo",
+  "why": "Thom Mayne's courthouse, completed 2006 (lead); main photo shows the whole building in daylight.",
+  "name": "Wayne L. Morse United States Courthouse",
+  "by": "Thom Mayne",
+  "city": "Eugene",
+  "cc": "US",
+  "year": 2006,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "A federal courthouse in Eugene, Oregon, completed in 2006 and overlooking the Willamette River.",
+  "commons_category": "Category:Wayne L. Morse United States Courthouse",
+  "coords": [
+   44.0511,
+   -123.087
+  ],
+  "photos": [
+   {
+    "file": "File:Wayne L. Morse United States Courthouse, Eugene, Oregon (2012) - 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wayne L Morse Federal Courthouse (Eugene, Oregon).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wayne L. Morse United States Courthouse corner crop.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(166, 'eugene-city-hall', 'Eugene City Hall')"
+ },
+ {
+  "id": "palacio-de-congresos-de-valencia",
+  "qid": "Q9054458",
+  "status": "photo",
+  "why": "Norman Foster's congress building, opened 1998 (lead); main photo shows the whole building.",
+  "name": "Palacio de Congresos de Valencia",
+  "by": "Norman Foster",
+  "city": "Valencia",
+  "cc": "ES",
+  "year": 1998,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Norman Foster's congress centre in Valencia, with three auditoriums and an exhibition hall, opened in 1998.",
+  "commons_category": "Category:Palau de Congressos de València",
+  "coords": [
+   39.49624,
+   -0.40209
+  ],
+  "photos": [
+   {
+    "file": "File:Palau del congres.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Façana lateral del palau de congressos de València.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lateral del palau de congressos, València.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "burgerhaus-bergischer-lowe",
+  "qid": "Q1021107",
+  "status": "photo",
+  "why": "Gottfried Böhm's building (well-known architect; lead short, no date, so year null); main photo shows the whole building.",
+  "name": "Bürgerhaus Bergischer Löwe",
+  "by": "Gottfried Böhm, Ludwig Bopp",
+  "city": "Bergisch Gladbach",
+  "cc": "DE",
+  "year": null,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Brick",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "A dining and events centre in Bergisch Gladbach, named after the heraldic lion of the old Duchy of Berg.",
+  "commons_category": "Category:Bürgerhaus Bergischer Löwe",
+  "coords": [
+   50.9911,
+   7.13099
+  ],
+  "photos": [
+   {
+    "file": "File:Bergisch Gladbach - Bürgerhaus Bergischer Löwe (Gottfried Böhm) - 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bergisch Gladbach - Bürgerhaus Bergischer Löwe 01 ies.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bergisch Gladbach - Bürgerhaus Bergischer Löwe 02 ies.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "edificio-manchete",
+  "qid": "Q10270240",
+  "status": "unsure",
+  "why": "Niemeyer's modernist building finished 1965 (lead), but there are no photos at all.",
+  "note": "no main photo",
+  "name": "Edifício Manchete",
+  "by": "Oscar Niemeyer",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": 1965,
+  "commons_category": null,
+  "coords": [
+   -22.92417,
+   -43.17316
+  ]
+ },
+ {
+  "id": "obra-do-berco",
+  "qid": "Q10340046",
+  "status": "photo",
+  "why": "Niemeyer's first project after graduating, per the lead; year not in the lead, so null; main photo shows the building.",
+  "name": "Obra do Berço",
+  "by": "Oscar Niemeyer",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": null,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Niemeyer's first project after graduating: the Rio headquarters of a charity caring for babies, children and mothers at social risk.",
+  "commons_category": "Category:Obra do Berço",
+  "coords": [
+   -22.96364,
+   -43.20358
+  ],
+  "photos": [
+   {
+    "file": "File:Obra do Berço - Rio de Janeiro - 20230910163032.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Obra do Berço - Rio de Janeiro - 20230910163201.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pavilhao-padre-manoel-da-nobrega",
+  "qid": "Q10346948",
+  "status": "photo",
+  "why": "Niemeyer pavilion in Ibirapuera Park, inaugurated December 1953 (lead); main photo shows the whole building; carving photos left out.",
+  "name": "Pavilhão Padre Manoel da Nóbrega",
+  "by": "Oscar Niemeyer, Hélio Lage Uchôa Cavalcanti",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1953,
+  "type": "Pavilion",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Niemeyer's Palácio das Nações in Ibirapuera Park, commissioned for São Paulo's fourth-centenary celebrations.",
+  "commons_category": "Category:Pavilhão Padre Manual da Nóbrega",
+  "coords": [
+   -23.58932,
+   -46.65327
+  ],
+  "photos": [
+   {
+    "file": "File:Museu Afro Brasil São Paulo 2019-5939.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museu Afro Brasil São Paulo 2019-5941.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(165, 'pavilhao-da-bienal', 'Bienal Pavilion (Pavilhão Ciccillo Matarazzo)')"
+ },
+ {
+  "id": "centro-direzionale-di-fontivegge",
+  "qid": "Q104902186",
+  "status": "photo",
+  "why": "Aldo Rossi's built complex (well-known architect; lead short, no date, so year null); main photo shows the building.",
+  "name": "Centro Direzionale di Fontivegge",
+  "by": "Aldo Rossi, Gianni Braghieri",
+  "city": "Perugia",
+  "cc": "IT",
+  "year": null,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A modern complex of public, commercial and residential buildings near Perugia's Fontivegge railway station.",
+  "commons_category": "Category:Centro Direzionale di Fontivegge",
+  "coords": [
+   43.1057,
+   12.3762
+  ],
+  "photos": [
+   {
+    "file": "File:Perugia, Italy - panoramio - Umbria ws (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Perugia, Italy - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-norrkoping",
+  "qid": "Q10715507",
+  "status": "photo",
+  "why": "Sverre Fehn's house (well-known architect; year 1964 from Wikidata, as the lead gives none); main photo shows the whole house.",
+  "name": "Villa Norrköping",
+  "by": "Sverre Fehn",
+  "city": "Norrköping",
+  "cc": "SE",
+  "year": 1964,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Landscape",
+   "Planting"
+  ],
+  "features": "A single-family house at Nordengatan 15, Norrköping, declared a protected heritage building.",
+  "commons_category": "Category:Villa Norrköping",
+  "coords": [
+   58.58138,
+   16.15201
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Norrköping1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:WTNkpng1 Boberger Nordengatan 15 Villa Norrköping 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:WTNkpng1 Ainali villa norrköping.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "igreja-sao-paulo-apostolo",
+  "qid": "Q107191233",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "cour-khorsabad-room-229",
+  "qid": "Q109567505",
+  "status": "skip",
+  "why": "No lead in prep.json, and it is a room inside the Louvre, not a building.",
+  "dup_flag": "near=(139, 'louvre-pyramid', 'Louvre Pyramid')"
+ },
+ {
+  "id": "the-marnix",
+  "qid": "Q109947786",
+  "status": "photo",
+  "why": "Lead names Gordon Bunshaft as designer and 1960 as completion; main photo shows the whole office block.",
+  "name": "The Marnix",
+  "by": "Gordon Bunshaft",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": 1960,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Light & shadow"
+  ],
+  "features": "Modernist office block in Brussels, completed in 1960, now the headquarters of ING Belgium.",
+  "commons_category": "Category:The Marnix",
+  "coords": [
+   50.83944,
+   4.36589
+  ],
+  "photos": [
+   {
+    "file": "File:Foto gebouw Banque Brussel Lambert genomen op 17.06.2002 door Illa De Preter.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belgique - Bruxelles - Siège de la Banque Lambert - 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belgique - Bruxelles - Siège de la Banque Lambert - 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "foundation-casa-wabi",
+  "qid": "Q110884779",
+  "status": "unsure",
+  "why": "Ando designed it (lead), but the only photo is a concrete corridor, not the building from outside.",
+  "note": "no main photo",
+  "name": "Foundation Casa Wabi",
+  "by": "Tadao Ando",
+  "city": "Puerto Escondido",
+  "cc": "MX",
+  "year": 2014,
+  "commons_category": null,
+  "coords": [
+   16.09197,
+   -97.29216
+  ]
+ },
+ {
+  "id": "nishinomiya-shell-museum",
+  "qid": "Q11627655",
+  "status": "unsure",
+  "why": "Ando is well known and the lead is one line, but the only photo is an interior corridor.",
+  "note": "no main photo",
+  "name": "Nishinomiya Shell Museum",
+  "by": "Tadao Ando",
+  "city": "Nishinomiya",
+  "cc": "JP",
+  "year": 1999,
+  "commons_category": "Category:Nishinomiya Shell Museum",
+  "coords": [
+   34.71228,
+   135.32789
+  ]
+ },
+ {
+  "id": "toyonokuni-libraries-for-cultural-resources",
+  "qid": "Q11633180",
+  "status": "photo",
+  "why": "Isozaki's complex, designed by the Oita-born architect named in the lead; year not in the lead, so null; main photo shows the building.",
+  "name": "Toyonokuni Libraries for Cultural Resources",
+  "by": "Arata Isozaki",
+  "city": "Oita",
+  "cc": "JP",
+  "year": null,
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A prefectural library, archives and historical-materials museum in one complex, designed by Oita-born Arata Isozaki.",
+  "commons_category": "Category:Toyonokuni Libraries for Culture Resources",
+  "coords": [
+   33.2395,
+   131.59
+  ],
+  "photos": [
+   {
+    "file": "File:Oita Prefectural Library ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Oita Prefectural Library ac (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Oita Prefectural Library ac (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kirche-schonow-buschgraben",
+  "qid": "Q11722066",
+  "status": "photo",
+  "why": "Frei Otto's post-war church, opened 1961 and listed since 1995 (lead); main photo shows the whole church.",
+  "name": "Kirche Schönow-Buschgraben",
+  "by": "Frei Otto",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1961,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Light from above"
+  ],
+  "features": "A post-war church in Berlin with a tent-like hall, opened in 1961 and listed since 1995.",
+  "commons_category": "Category:Kirche Schönow (Berlin-Zehlendorf)",
+  "coords": [
+   52.4133,
+   13.2596
+  ],
+  "photos": [
+   {
+    "file": "File:Kirche Schönow (Berlin-Zehlendorf).JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirche Schönow (Berlin-Zehlendorf) Betonstützen.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirche Schönow (Berlin-Zehlendorf) Garten.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bethanien-kinderdorf-bergisch-gladbach",
+  "qid": "Q118367575",
+  "status": "photo",
+  "why": "Lead says Böhm's architecture is internationally known among experts; year 1968 from Wikidata, as the lead gives none; main photos show the buildings.",
+  "name": "Bethanien Kinderdorf Bergisch Gladbach",
+  "by": "Gottfried Böhm",
+  "city": "Bergisch Gladbach",
+  "cc": "DE",
+  "year": 1968,
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "A children's village in Bergisch Gladbach, known among experts internationally for Gottfried Böhm's architecture.",
+  "commons_category": "Category:Kinderdorf Bethanien (Refrath)",
+  "coords": [
+   50.9435,
+   7.1145
+  ],
+  "photos": [
+   {
+    "file": "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-7.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-8.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kinderdorf Bethanien Refrath, Gottfried Böhm - 2-9.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-skagestad",
+  "qid": "Q12009823",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "apollolaan-171-amsterdam",
+  "qid": "Q135244917",
+  "status": "unsure",
+  "why": "Dates conflict: the architect list has a 1925 public works office but also OMA, founded later; the lead names no designer or year.",
+  "name": "Apollolaan 171, Amsterdam",
+  "by": "Dienst der Publieke Werken, Wim Quist, Office for Metropolitan Architecture",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": null,
+  "commons_category": "Category:Apollolaan 171, Amsterdam",
+  "coords": [
+   52.35018,
+   4.87047
+  ]
+ },
+ {
+  "id": "shangyin-opera-house",
+  "qid": "Q136206167",
+  "status": "photo",
+  "why": "Designed by Portzamparc's office with Tongji University (lead); year not in the lead, so null; main photo shows the whole opera house.",
+  "name": "Shangyin Opera House",
+  "by": "Christian de Portzamparc",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Designed jointly by Portzamparc's office and Tongji University's design institute, with a 1,200-seat opera hall.",
+  "commons_category": "Category:Shangyin Opera House",
+  "coords": [
+   31.21643,
+   121.45073
+  ],
+  "photos": [
+   {
+    "file": "File:Shangyin Opera House (20191021081912).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "moma-tainan",
+  "qid": "Q139569102",
+  "status": "unsure",
+  "why": "Lead describes a national museum whose preparatory office began in 2025; it does not show the building is finished.",
+  "name": "MOMA Tainan",
+  "by": "Shigeru Ban",
+  "city": "Tainan",
+  "cc": "TW",
+  "year": null,
+  "commons_category": "Category:MOMA Tainan",
+  "coords": [
+   22.9904,
+   120.2015
+  ],
+  "photos": [
+   {
+    "file": "File:原臺南市美術館2館.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-ludwig",
+  "qid": "Q1559426",
+  "status": "unsure",
+  "why": "Lead covers the parish and an earlier Baroque church, not this building's design or date; Böhm's role is unclear.",
+  "name": "St. Ludwig",
+  "by": "Carl Friedrich Müller, Gottfried Böhm, Vincenz Statz",
+  "city": "Saarlouis",
+  "cc": "DE",
+  "year": null,
+  "commons_category": "Category:St. Ludwig (Saarlouis)",
+  "coords": [
+   49.3161,
+   6.7515
+  ],
+  "photos": [
+   {
+    "file": "File:D-SLS-Saarlouis4.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ludwigskirche saarolouis 2018-08-21.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Ludwig Großermarkt saarlouis 2018-08-21 (21).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "five-scattered-houses-ningbo",
+  "qid": "Q15704247",
+  "status": "unsure",
+  "why": "Lead names Wang Shu's five experimental buildings in Ningbo, but there are no photos.",
+  "note": "no main photo",
+  "name": "Five Scattered Houses, Ningbo",
+  "by": "Wang Shu",
+  "city": "Ningbo",
+  "cc": "CN",
+  "year": null,
+  "commons_category": "Category:Five Scattered Houses, Ningbo",
+  "coords": [
+   29.81106,
+   121.5468
+  ]
+ },
+ {
+  "id": "auditorium-du-louvre",
+  "qid": "Q15940441",
+  "status": "skip",
+  "why": "An auditorium inside the Louvre (interior only); no photo of the building and the lead gives no design."
+ },
+ {
+  "id": "ilot-des-hautes-formes",
+  "qid": "Q16641400",
+  "status": "unsure",
+  "why": "Portzamparc's social housing (lead: 209 units), but there are no photos.",
+  "note": "no main photo",
+  "name": "Îlot des Hautes-Formes",
+  "by": "Christian de Portzamparc",
+  "city": "Paris",
+  "cc": "FR",
+  "year": null,
+  "commons_category": "Category:Îlot des Hautes-Formes",
+  "coords": [
+   48.82778,
+   2.36528
+  ]
+ },
+ {
+  "id": "st-lukas-kirche",
+  "qid": "Q1688428",
+  "status": "photo",
+  "why": "Frei Otto's church, dated 1963 and listed since 1994 (lead); main photo shows the whole church.",
+  "name": "St.-Lukas-Kirche",
+  "by": "Carsten Schröck, Frei Otto",
+  "city": "Bremen",
+  "cc": "DE",
+  "year": 1963,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "A Protestant church in Bremen from 1963, under heritage protection since 1994.",
+  "commons_category": "Category:St.-Lukas-Kirche (Bremen-Grolland)",
+  "coords": [
+   53.0624,
+   8.76461
+  ],
+  "photos": [
+   {
+    "file": "File:Bremen-Grolland St-Lukas 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "biblioteca-municipal-de-viana-do-castelo",
+  "qid": "Q17318051",
+  "status": "photo",
+  "why": "Siza's public library (lead names him); no year in the lead, so null; main photo shows the whole building.",
+  "name": "Biblioteca Municipal de Viana do Castelo",
+  "by": "Álvaro Siza Vieira",
+  "city": "Viana do Castelo",
+  "cc": "PT",
+  "year": null,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Álvaro Siza's public library on the riverside edge of Viana do Castelo's Praça da Liberdade.",
+  "commons_category": "Category:Biblioteca Municipal de Viana do Castelo",
+  "coords": [
+   41.69146,
+   -8.82679
+  ],
+  "photos": [
+   {
+    "file": "File:Biblioteca Municipal de Viana do Castelo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Viana do Castelo Portugal.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca Municipal de Viana do Castelo in 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "le-albere",
+  "qid": "Q17635277",
+  "status": "unsure",
+  "why": "A Trento neighbourhood by Piano, not one building; the photos show the MUSE museum or crowds, not the district.",
+  "name": "Le Albere",
+  "by": "Renzo Piano",
+  "city": "Trento",
+  "cc": "IT",
+  "year": 2013,
+  "commons_category": "Category:Le Albere",
+  "coords": [
+   46.06058,
+   11.11466
+  ]
+ },
+ {
+  "id": "casa-do-cantador",
+  "qid": "Q18242623",
+  "status": "photo",
+  "why": "Niemeyer's building (lead names him); no year in the lead, so null; main photo shows the whole building.",
+  "name": "Casa do Cantador",
+  "by": "Oscar Niemeyer",
+  "city": "Ceilândia",
+  "cc": "BR",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "Niemeyer's Palace of Poetry, inspired by the song Asa Branca and honouring Northeastern migrants.",
+  "commons_category": "Category:Casa do Cantador",
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:Casa do Cantador.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ceilândia DF Brasil - Casa do Cantador - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "president-tancredo-neves-administrative-city",
+  "qid": "Q18243890",
+  "status": "unsure",
+  "why": "Niemeyer's Minas Gerais government complex, but the free photos are a night shot or close details, not a whole-building daylight view.",
+  "note": "no main photo"
+ },
+ {
+  "id": "st-albert",
+  "qid": "Q2316901",
+  "status": "photo",
+  "why": "Short lead, but a well-known architect (Gottfried Böhm) credited; daylight photos show the arched church; no year source.",
+  "name": "St. Albert",
+  "by": "Dominikus Böhm, Gottfried Böhm",
+  "city": "Saarbrücken",
+  "cc": "DE",
+  "year": null,
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "A Catholic parish church in Saarbrücken by Dominikus and Gottfried Böhm.",
+  "commons_category": "Category:St. Albert (Saarbrücken-Rodenhof)",
+  "coords": [
+   49.2482,
+   6.992
+  ],
+  "photos": [
+   {
+    "file": "File:Pfarrkirche St. Albert.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20190217 St. Albert Rodenhof.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St Albert Rodenhof.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-gertrud",
+  "qid": "Q2318650",
+  "status": "photo",
+  "why": "Lead names Böhm, dates the build 1962-65 and gives a 1967 prize; daylight photos of the tower and concrete.",
+  "name": "St. Gertrud",
+  "by": "Gottfried Böhm",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1965,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "A Brutalist concrete church in Cologne by Gottfried Böhm, built 1962 to 1965, given Cologne's architecture prize in 1967.",
+  "commons_category": "Category:St. Gertrud (Köln)",
+  "coords": [
+   50.9519,
+   6.95181
+  ],
+  "photos": [
+   {
+    "file": "File:St gertrud koeln ostseite mit turm 20090911.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Gertrud, Köln - 8592.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Gertrud, Köln - 8590.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-johannes-baptist",
+  "qid": "Q2319309",
+  "status": "unsure",
+  "why": "Gottfried Böhm parish church in Rheda-Wiedenbrück; the lead does not describe the building, and prep has no photos at all.",
+  "note": "no main photo"
+ },
+ {
+  "id": "st-josef",
+  "qid": "Q2319597",
+  "status": "photo",
+  "why": "Lead names Böhm and says built 1957-1959 (year taken as the end of the build); listed; photos clear.",
+  "name": "St. Josef",
+  "by": "Gottfried Böhm",
+  "city": "Grevenbroich",
+  "cc": "DE",
+  "year": 1959,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "A parish church in Grevenbroich, listed as a monument in 2007, planned by Gottfried Böhm.",
+  "commons_category": "Category:St. Josef (Grevenbroich)",
+  "coords": [
+   51.0805,
+   6.605
+  ],
+  "photos": [
+   {
+    "file": "File:Grevenbroich St. Joseph 1 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grevenbroich, Südstadt, St. Josef, 2008.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grevenbroich St. Joseph 2 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-maria-himmelfahrt",
+  "qid": "Q2320983",
+  "status": "skip",
+  "why": "Neo-Gothic church by Caspar Clemens Pickel, 1890-92; the lead gives no reason it matters, and Gottfried Böhm is only a later name."
+ },
+ {
+  "id": "st-matthaus",
+  "qid": "Q2321428",
+  "status": "photo",
+  "why": "Lead names Böhm, built 1968-1970, and calls it a major example of modern church architecture; whole-church daylight photos.",
+  "name": "St. Matthäus",
+  "by": "Gottfried Böhm",
+  "city": "Düsseldorf",
+  "cc": "DE",
+  "year": 1970,
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "A Catholic parish church in Garath, Düsseldorf, by Gottfried Böhm, counted among major examples of modern church architecture.",
+  "commons_category": "Category:St. Matthäus (Düsseldorf-Garath)",
+  "coords": [
+   51.1387,
+   6.89926
+  ],
+  "photos": [
+   {
+    "file": "File:St. Matthaeus in Duesseldorf-Garath, von Sueden.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Matthäus in Düsseldorf-Garath 6.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Matthäus in Düsseldorf-Garath 4.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Matthäus in Düsseldorf-Garath 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stiftsruine-bad-hersfeld",
+  "qid": "Q2348846",
+  "status": "skip",
+  "why": "A ruin of an abbey church; ruins are not on the wall."
+ },
+ {
+  "id": "tour-horizons",
+  "qid": "Q2371224",
+  "status": "photo",
+  "why": "Lead gives a reason (three very different buildings stacked, won in competition by Nouvel), delivered June 2011; daylight photos.",
+  "name": "Tour Horizons",
+  "by": "Jean Nouvel",
+  "city": "Boulogne-Billancourt",
+  "cc": "FR",
+  "year": 2011,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Three stacked buildings of very different styles make one tower in Boulogne-Billancourt, won by Jean Nouvel in competition.",
+  "commons_category": "Category:Tour Horizons",
+  "coords": [
+   48.8279,
+   2.23384
+  ],
+  "photos": [
+   {
+    "file": "File:Billancourt–Rives de Seine, 92100 Boulogne-Billancourt, France - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tours Horizons.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tours Horizons, Boulogne-Boulogne-Billancourt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "olympic-roof-munich",
+  "qid": "Q23786907",
+  "status": "photo",
+  "why": "Lead names the team, built for 1972 and listed; a famous tensile roof; panorama and close-ups are clear.",
+  "name": "Olympic Roof Munich",
+  "by": "Behnisch & Partner, Frei Otto, Fritz Leonhardt, Wolfhardt Andrä, Jörg Schlaich",
+  "city": "Munich",
+  "cc": "DE",
+  "year": 1972,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Tensile structure",
+   "Structure as expression",
+   "Light from above"
+  ],
+  "features": "A tent-like cable-net roof over Munich's Olympic halls and stadium, built for the 1972 Games, now listed.",
+  "commons_category": "Category:Olympic Roof Munich",
+  "coords": [
+   48.17219,
+   11.54675
+  ],
+  "photos": [
+   {
+    "file": "File:Olympiastadion, Mùnich, Alemania, 2012-07-15, DD 01, Panorama.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Olympic Roof Munich, July 2018 -03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Olympic Roof Munich, April 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(97, 'munich-olympic-stadium', 'Munich Olympic Stadium')"
+ },
+ {
+  "id": "central-business-district-praha",
+  "qid": "Q24081342",
+  "status": "skip",
+  "why": "The lead describes a planned complex due after 2025, not a built building."
+ },
+ {
+  "id": "facultad-de-ciencias-de-la-comunicacion-de-santiago-de-compostela",
+  "qid": "Q25509569",
+  "status": "skip",
+  "why": "The lead is empty."
+ },
+ {
+  "id": "logrono-town-hall",
+  "qid": "Q26257755",
+  "status": "photo",
+  "why": "Short lead, but Moneo is a well-known architect and this is his built town hall; daylight photos with the plaza; no year source.",
+  "name": "Logroño town hall",
+  "by": "Rafael Moneo",
+  "city": "Logroño",
+  "cc": "ES",
+  "year": null,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Logroño's town hall, the seat of the city council, by Rafael Moneo.",
+  "commons_category": "Category:Town hall of Logroño",
+  "coords": [
+   42.46643,
+   -2.43926
+  ],
+  "photos": [
+   {
+    "file": "File:Ayuntamiento de Logroño.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Plaza del ayuntamiento, Logroño - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ayuntamiento de Logroño 2025.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palais-des-congres-de-tours",
+  "qid": "Q2945812",
+  "status": "photo",
+  "why": "Lead names Nouvel, opened 1993, and sits in a public park; clear exterior photos.",
+  "name": "Palais des Congrès de Tours",
+  "by": "Jean Nouvel",
+  "city": "Tours",
+  "cc": "FR",
+  "year": 1993,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Steel & glass"
+  ],
+  "features": "Jean Nouvel's congress and concert centre in Tours, opened in 1993 beside a public park.",
+  "commons_category": "Category:Centre international de congrès de Tours - Vinci",
+  "coords": [
+   47.3918,
+   0.69336
+  ],
+  "photos": [
+   {
+    "file": "File:Concert hall in Tours - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ctrevinci2.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Сквер у концертного зала La Vinci - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "51-astor-place",
+  "qid": "Q29469890",
+  "status": "photo",
+  "why": "Lead names Maki and gives a reason (controversial black glass, nicknamed The Death Star); daylight street photos; no year source.",
+  "name": "51 Astor Place",
+  "by": "Fumihiko Maki",
+  "city": "New York",
+  "cc": "US",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "A black-glass office tower in Manhattan by Fumihiko Maki, nicknamed 'The Death Star' and controversial.",
+  "commons_category": "Category:51 Astor Place",
+  "coords": [
+   40.73028,
+   -73.99028
+  ],
+  "photos": [
+   {
+    "file": "File:Astor Place 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:51 Astor Place (55381215980).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:51 Astor Place (51548151306).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(198, '41-cooper-square', '41 Cooper Square')"
+ },
+ {
+  "id": "the-ware-center-of-millersville-university",
+  "qid": "Q30634451",
+  "status": "skip",
+  "why": "A campus performing-arts venue; the lead gives no reason it matters."
+ },
+ {
+  "id": "zenith-de-saint-etienne-metropole",
+  "qid": "Q3576488",
+  "status": "skip",
+  "why": "A concert arena; the lead gives its size and concerts, not a reason it matters."
+ },
+ {
+  "id": "auditorium-del-parco",
+  "qid": "Q3629510",
+  "status": "photo",
+  "why": "Lead names Piano and gives a reason (built after the 2009 earthquake in solidarity); exterior daylight photos; no year source.",
+  "name": "Auditorium del Parco",
+  "by": "Renzo Piano",
+  "city": "L'Aquila",
+  "cc": "IT",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Timber"
+  ],
+  "features": "Renzo Piano's music and theatre complex in L'Aquila's Spanish fort park, funded by Trento after the 2009 earthquake.",
+  "commons_category": "Category:Auditorium del Parco (L'Aquila)",
+  "coords": [
+   42.35352,
+   13.4026
+  ],
+  "photos": [
+   {
+    "file": "File:Auditorium del Parco, L'Aquila, Abruzzo, Italy - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Aquila-Auditorium del Parco 02.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Aquila-Auditorium del Parco 03.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Aquila-Auditorium del Parco 04.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "centro-direzionale-della-banca-popolare-di-lodi",
+  "qid": "Q3664845",
+  "status": "unsure",
+  "why": "Renzo Piano office complex with a good lead (urban regeneration, most interesting modern building in Lodi), but prep has no photos at all.",
+  "note": "no main photo"
+ },
+ {
+  "id": "academiesingel-lighthouse",
+  "qid": "Q42303960",
+  "status": "skip",
+  "why": "The lead calls it a work of art (a folly in a park); the wall does not take artworks."
+ },
+ {
+  "id": "1000-connecticut-avenue",
+  "qid": "Q4546008",
+  "status": "skip",
+  "why": "An ordinary office tower; the lead gives no reason it matters."
+ },
+ {
+  "id": "anaheim-ice",
+  "qid": "Q4750883",
+  "status": "unsure",
+  "why": "The lead calls it one of Frank Gehry's major works (a rink), but prep has no photos at all.",
+  "note": "no main photo"
+ },
+ {
+  "id": "cohen-house",
+  "qid": "Q5141321",
+  "status": "photo",
+  "why": "Lead names Mendelsohn and Chermayeff (Foster only added the 1970s conservatory, so left out), built 1935-36, Grade II*; clear photos.",
+  "name": "Cohen House",
+  "by": "Erich Mendelsohn, Serge Chermayeff",
+  "city": "London",
+  "cc": "GB",
+  "year": 1936,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "A private modernist house in Chelsea, London, built 1935-36, when the city had little modern architecture.",
+  "commons_category": "Category:Cohen House, London",
+  "coords": [
+   51.4876,
+   -0.17401
+  ],
+  "photos": [
+   {
+    "file": "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979427.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chelsea , 64 Old Church Street - geograph.org.uk - 7979423.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "robert-f-kennedy-gravesite",
+  "qid": "Q5597802",
+  "status": "skip",
+  "why": "A grave site and memorial, not a building."
+ },
+ {
+  "id": "cubo-negro",
+  "qid": "Q56101931",
+  "status": "unsure",
+  "why": "Philip Johnson black-glass office block in Caracas; the free photos show the cube cut off at the top or from too close, not a whole-building view.",
+  "note": "no main photo"
+ },
+ {
+  "id": "cais-das-artes",
+  "qid": "Q56598401",
+  "status": "unsure",
+  "why": "Mendes da Rocha's brutalist concrete arts centre, still under construction per the lead; the free photos are walls, close-ups or an exhibition model, not the whole building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "kirklin-clinic",
+  "qid": "Q6415769",
+  "status": "skip",
+  "why": "The lead describes the clinic and its staff, not the building; prep has no photos."
+ },
+ {
+  "id": "centre-civic-de-riudaura",
+  "qid": "Q65204290",
+  "status": "photo",
+  "why": "Lead names RCR, a Mies van der Rohe Award finalist, opened 1999; whole-building daylight photos.",
+  "name": "Centre Cívic de Riudaura",
+  "by": "RCR Arquitectes",
+  "city": "Riudaura",
+  "cc": "ES",
+  "year": 1999,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Earth & local material"
+  ],
+  "features": "A civic centre by RCR Arquitectes, a Mies van der Rohe Award finalist, opened 1999 in Riudaura.",
+  "commons_category": "Category:Centre Cívic de Riudaura",
+  "coords": [
+   42.1883,
+   2.40883
+  ],
+  "photos": [
+   {
+    "file": "File:Centre cívic de Riudaura (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centre cívic de Riudaura (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centre cívic de Riudaura.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "paul-mellon-arts-center",
+  "qid": "Q7152453",
+  "status": "photo",
+  "why": "Lead names Pei, begun 1968 and completed 1972; clear daylight photo of the whole building.",
+  "name": "Paul Mellon Arts Center",
+  "by": "I. M. Pei",
+  "city": "Wallingford",
+  "cc": "US",
+  "year": 1972,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Geometry",
+   "Pilotis"
+  ],
+  "features": "I. M. Pei's arts building on the Choate Rosemary Hall campus, begun in 1968 and completed in 1972.",
+  "commons_category": null,
+  "coords": [
+   41.4574,
+   -72.8097
+  ],
+  "photos": [
+   {
+    "file": "File:Paul Mellon Arts Center - Choate Rosemary Hall, Wallingford, Connecticut.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "weill-institute-for-cell-and-molecular-biology",
+  "qid": "Q7980202",
+  "status": "photo",
+  "why": "Lead gives the initiative and twelve faculty-led teams; Meier is a well-known architect in prep; whole-building daylight photo.",
+  "name": "Weill Institute for Cell and Molecular Biology",
+  "by": "Richard Meier",
+  "city": "Ithaca",
+  "cc": "US",
+  "year": 2008,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Light from above",
+   "Community",
+   "Facade as skin"
+  ],
+  "features": "The cornerstone of Cornell's $650 million life-sciences initiative, home to twelve faculty-led research teams.",
+  "commons_category": "Category:Weill Institute for Cell and Molecular Biology",
+  "coords": [
+   42.44687,
+   -76.47728
+  ],
+  "photos": [
+   {
+    "file": "File:Cornell University - Weill Institute for Cell and Molecular Biology.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weill Hall at Cornell University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Weill Hall atrium, Cornell University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "william-l-slayton-house",
+  "qid": "Q8014211",
+  "status": "photo",
+  "why": "Lead names Pei and the International Style and gives a 2008 listing; one clear courtyard photo; no year source.",
+  "name": "William L. Slayton House",
+  "by": "I. M. Pei",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": null,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Brick",
+   "Water"
+  ],
+  "features": "A house by I.M. Pei in the International Style, listed on the National Register of Historic Places in 2008.",
+  "commons_category": null,
+  "coords": [
+   38.93655,
+   -77.06721
+  ],
+  "photos": [
+   {
+    "file": "File:Wm Slayton House DC.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "video-bus-stop",
+  "qid": "Q85306857",
+  "status": "skip",
+  "why": "The lead calls it a work of art (kunstwerk) for an art event; the wall does not take artworks."
+ },
+ {
+  "id": "la-maison-lvmh",
+  "qid": "Q103436867",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "mercado-municipal-do-caranda",
+  "qid": "Q104244430",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "audrey-jones-beck-building",
+  "qid": "Q107317766",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "cour-puget",
+  "qid": "Q109567735",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is.",
+  "dup_flag": "near=(114, 'louvre-pyramid', 'Louvre Pyramid')"
+ },
+ {
+  "id": "forum-rotterdam",
+  "qid": "Q112207896",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "transparent-public-toilets-in-shibuya",
+  "qid": "Q112223806",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "sakai-city-semboku-suemura-archaeological-museum",
+  "qid": "Q11428215",
+  "status": "skip",
+  "why": "Japanese lead says the museum closed in 2016 for ageing; no source here says the building still stands."
+ },
+ {
+  "id": "fraunhofer-isc-technikum-iii",
+  "qid": "Q115135436",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "alexandrastiftung-estate",
+  "qid": "Q116138821",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "serpentine-gallery-pavilion-2011",
+  "qid": "Q117048872",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "vontz-center-for-molecular-studies",
+  "qid": "Q118636344",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "cranfield-university-library",
+  "qid": "Q118904356",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "465-beverly-drive",
+  "qid": "Q123118037",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "carlos-ramos-pavilion",
+  "qid": "Q123135369",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is.",
+  "dup_flag": "near=(114, 'faculty-of-architecture-university-of-porto', 'Faculty of Architecture, University of Porto')"
+ },
+ {
+  "id": "masaryk-centre-1",
+  "qid": "Q123335379",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is.",
+  "dup_flag": "near=(171, 'legiobanka-prague', 'Legiobanka (Bank of the Czechoslovak Legions)')"
+ },
+ {
+  "id": "campus-of-the-ecole-polytechnique-federale-de-lausanne",
+  "qid": "Q124113927",
+  "status": "skip",
+  "why": "No lead; a campus of many buildings, not one building.",
+  "dup_flag": "near=(113, 'rolex-learning-center', 'Rolex Learning Center')"
+ },
+ {
+  "id": "yoyogi-hachiman-public-toilet",
+  "qid": "Q125395154",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "museum-of-contemporary-art-san-diego-la-jolla-branch",
+  "qid": "Q125503629",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "institut-fur-leichte-flachentragwerke",
+  "qid": "Q131419990",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "second-stage-theater-building",
+  "qid": "Q131755590",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is.",
+  "dup_flag": "near=(164, 'mcgraw-hill-building', 'McGraw-Hill Building')"
+ },
+ {
+  "id": "pezet-515",
+  "qid": "Q134314583",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "french-embassy-building",
+  "qid": "Q134893215",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is.",
+  "dup_flag": "near=(153, 'dz-bank-building', 'DZ Bank Building')"
+ },
+ {
+  "id": "cour-marly",
+  "qid": "Q19009948",
+  "status": "skip",
+  "why": "No lead; a Louvre courtyard, mostly sculpture.",
+  "dup_flag": "near=(112, 'louvre-pyramid', 'Louvre Pyramid')"
+ },
+ {
+  "id": "la-felicite",
+  "qid": "Q22133325",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "kammertheater-stuttgart",
+  "qid": "Q28498697",
+  "status": "unsure",
+  "why": "German lead: a playhouse opened in 1983 inside James Stirling's Neue Staatsgalerie. Its only photo is a night shot.",
+  "note": "no main photo",
+  "dup_flag": "near=(89, 'stuttgart-music-school', 'Stuttgart Music School (Musikhochschule)')"
+ },
+ {
+  "id": "hospital-materno-infantil-gregorio-maranon",
+  "qid": "Q28538767",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "nouvel-building",
+  "qid": "Q42307425",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is.",
+  "dup_flag": "near=(168, 'reina-sofia-museum-extension', 'Reina Sofía Museum Extension')"
+ },
+ {
+  "id": "palacio-de-congresos-de-toledo",
+  "qid": "Q54046944",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "ando-conference-pavilion",
+  "qid": "Q54989344",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "utzon-huset",
+  "qid": "Q61048853",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "boler-samfunnshus",
+  "qid": "Q63965175",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ },
+ {
+  "id": "bus-stop-hannover-braunschweiger-platz",
+  "qid": "Q64992838",
+  "status": "skip",
+  "why": "No lead; a bus shelter."
+ },
+ {
+  "id": "richard-and-geraldine-hodgson-house",
+  "qid": "Q7330163",
+  "status": "unsure",
+  "why": "English lead: 1951 International Style house by Philip Johnson with Landis Gores. No free photo exists.",
+  "note": "no main photo"
+ },
+ {
+  "id": "roman-l-hruska-federal-courthouse",
+  "qid": "Q7362060",
+  "status": "skip",
+  "why": "The lead is about the senator, not the courthouse; no free photo."
+ },
+ {
+  "id": "casa-roberto-ivens-casa-da-arquitetura",
+  "qid": "Q96758175",
+  "status": "skip",
+  "why": "No lead in prep.json, so skipped whoever the architect is."
+ }
+]
