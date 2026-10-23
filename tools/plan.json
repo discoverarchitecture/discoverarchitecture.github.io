@@ -109,5 +109,13 @@
   "metric": "buildings_added",
   "status": "done",
   "note": "39 added"
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 11: 300 candidates from under-represented regions (Africa, Latin America, Asia beyond Japan, China and Korea), 1900 on; Haiku, Sonnet full check, photo review, add",
+  "target": 40,
+  "metric": "buildings_added",
+  "status": "in progress"
  }
 ]
