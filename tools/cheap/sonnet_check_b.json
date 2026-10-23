@@ -1,150 +1,370 @@
 {
  "keep_ok": [
-  "st-albert",
-  "st-gertrud",
-  "st-josef",
-  "st-matthaus",
-  "logrono-town-hall",
-  "auditorium-del-parco",
-  "cohen-house"
+  "chiesa-di-san-giacomo-apostolo",
+  "cube",
+  "byodo-in-museum-hoshokan",
+  "church-of-santa-maria-della-pace",
+  "borgo-citta-nuova",
+  "rozet",
+  "toyama-kirari",
+  "matsudai-nohbutai",
+  "cite-des-arts",
+  "viborg-town-hall",
+  "zenith-de-rouen",
+  "lourdeskapelle-salgenreute",
+  "herman-teirlinck-building",
+  "ibm-studios",
+  "sandels-culture-house",
+  "gerald-ratner-athletics-center",
+  "deloitte-building-christchurch",
+  "mcnamara-alumni-center",
+  "zentralgebaeude-leuphana",
+  "trinity-river-audubon-center",
+  "mosaic-tile-museum-tajimi",
+  "maison-folie-de-wazemmes",
+  "monastery-of-siloe",
+  "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya",
+  "centre-for-interactive-research-on-sustainability"
  ],
  "ordinary": [
-  "st-albert",
-  "st-josef",
-  "logrono-town-hall",
-  "palais-des-congres-de-tours",
-  "51-astor-place",
-  "paul-mellon-arts-center",
-  "weill-institute-for-cell-and-molecular-biology",
-  "cubo-negro"
+  "viborg-town-hall",
+  "zenith-de-rouen",
+  "herman-teirlinck-building",
+  "deloitte-building-christchurch",
+  "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya"
  ],
  "keep_fix": [
   {
-   "id": "palais-des-congres-de-tours",
-   "field": "features",
-   "haiku": "Jean Nouvel's congress and concert centre in Tours, opened in 1993 beside a public park.",
-   "should_be": "Jean Nouvel's congress centre in Tours, with landscape architect Yves Brunier, opened in 1993 beside a public park.",
-   "why": "The lead never says concert; it names Yves Brunier as landscape designer."
+   "id": "borgo-citta-nuova",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2002,
+   "why": "Lead gives no year; prep's year 2002 fits the Poundbury-era build the lead mentions."
   },
   {
-   "id": "51-astor-place",
-   "field": "features",
-   "haiku": "A black-glass office tower in Manhattan by Fumihiko Maki, nicknamed 'The Death Star' and controversial.",
-   "should_be": "A black-glass office building in Manhattan by Fumihiko Maki, controversial for its style and nicknamed 'The Death Star'.",
-   "why": "The lead says office building, not tower."
+   "id": "borgo-citta-nuova",
+   "field": "by",
+   "haiku": "Léon Krier",
+   "should_be": "Léon Krier, Gabriele Tagliaventi",
+   "why": "The lead names both as designers."
   },
   {
-   "id": "51-astor-place",
+   "id": "rozet",
+   "field": "by",
+   "haiku": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
+   "should_be": "Neutelings Riedijk Architects",
+   "why": "Haiku listed the firm and its two partners; the wall credits the firm only."
+  },
+  {
+   "id": "viborg-town-hall",
+   "field": "name",
+   "haiku": "Viborg town hall",
+   "should_be": "Viborg Town Hall",
+   "why": "Proper-name capitalisation."
+  },
+  {
+   "id": "zenith-de-rouen",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2001,
+   "why": "No year in the lead; prep's year 2001 is plausible."
+  },
+  {
+   "id": "lourdeskapelle-salgenreute",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2016,
+   "why": "No year in the lead; prep's year 2016 is plausible."
+  },
+  {
+   "id": "lourdeskapelle-salgenreute",
+   "field": "concepts",
+   "haiku": [
+    "Brick",
+    "Landscape",
+    "Geometry"
+   ],
+   "should_be": [
+    "Timber",
+    "Landscape",
+    "Geometry"
+   ],
+   "why": "The chapel is a timber-and-shingle volume; 'Brick' is not supported by the lead or the photos."
+  },
+  {
+   "id": "herman-teirlinck-building",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2017,
+   "why": "No year in the lead; prep's year 2017 is plausible."
+  },
+  {
+   "id": "sandels-culture-house",
+   "field": "name",
+   "haiku": "Sandels culture house",
+   "should_be": "Sandels Culture House",
+   "why": "Proper-name capitalisation (prep label)."
+  },
+  {
+   "id": "sandels-culture-house",
    "field": "movement",
-   "haiku": "Late modernism",
-   "should_be": "Contemporary",
-   "why": "A glass block of the 2010s (the lead gives no year), not late modernism."
+   "haiku": "Regionalism",
+   "should_be": "Late modernism",
+   "why": "Lead places it in Leiviskä's 'abstract modernist line'; Regionalism is not supported."
   },
   {
-   "id": "centre-civic-de-riudaura",
+   "id": "sandels-culture-house",
    "field": "concepts",
    "haiku": [
-    "Landscape",
+    "Brick",
     "Public space",
-    "Earth & local material"
+    "Community"
    ],
    "should_be": [
-    "Landscape",
-    "Steel & glass",
-    "Public space"
+    "Public space",
+    "Community",
+    "Light & shadow"
    ],
-   "why": "The photos show a dark weathering-steel and glass box in the landscape; nothing shows earth or local material."
+   "why": "Lead stresses the open shared lobby and large street windows; 'Brick' is not supported."
   },
   {
-   "id": "paul-mellon-arts-center",
+   "id": "mcnamara-alumni-center",
+   "field": "movement",
+   "haiku": "Deconstructivism",
+   "should_be": "Contemporary",
+   "why": "Lead gives no deconstructivist link; Predock's work is not usually filed there."
+  },
+  {
+   "id": "trinity-river-audubon-center",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2008,
+   "why": "No year in the lead; prep's year 2008 is plausible."
+  },
+  {
+   "id": "maison-folie-de-wazemmes",
+   "field": "name",
+   "haiku": "Maison folie de Wazemmes",
+   "should_be": "Maison Folie de Wazemmes",
+   "why": "Proper-name capitalisation (prep label)."
+  },
+  {
+   "id": "monastery-of-siloe",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2012,
+   "why": "No year in the lead (only '21st century'); prep's year 2012 is plausible."
+  },
+  {
+   "id": "monastery-of-siloe",
    "field": "concepts",
    "haiku": [
-    "Exposed concrete",
-    "Geometry",
-    "Pilotis"
+    "Planting",
+    "Landscape",
+    "Community"
    ],
    "should_be": [
-    "Exposed concrete",
-    "Geometry",
-    "Cantilever"
+    "Climate response",
+    "Timber",
+    "Landscape"
    ],
-   "why": "The photo shows a concrete block with a deep cantilevered entrance; no pilotis are visible."
+   "why": "Lead stresses green architecture; photos show timber and stone, not planting."
+  },
+  {
+   "id": "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya",
+   "field": "name",
+   "haiku": "Edificio de la Delegación Territorial de Salud y Consumo de Vizcaya",
+   "should_be": "Sede de Osakidetza, Bilbao",
+   "why": "Shorter proper name (prep label) instead of the long Spanish article title."
   }
  ],
  "keep_wrong": [
   {
-   "id": "olympic-roof-munich",
-   "why": "Same work as munich-olympic-stadium already on the wall (Behnisch & Partner, Frei Otto, 1972): the tent roof is the stadium's famous feature and also covers the halls. The main photo is a tiny panorama and the others are roof details."
+   "id": "kuwana-media-live",
+   "why": "Ordinary library; the only 'first' in the lead is the PFI funding scheme, not a design reason; AXS Satow is not a known name abroad; the main photo is dominated by signage."
+  },
+  {
+   "id": "danube-house",
+   "why": "Ordinary office; the lead's low-energy note is not a design reason; the first photo Haiku chose is a side view of a corner."
+  },
+  {
+   "id": "cherry-groce-memorial-pavilion",
+   "why": "A memorial structure rather than a building, lead says nothing about its design."
+  },
+  {
+   "id": "teatro-politeama",
+   "why": "Ordinary theatre; lead gives only history; one of Portoghesi's minor works. Dropped to keep ordinary types under 20%."
+  },
+  {
+   "id": "kulturoeen",
+   "why": "Cultural centre whose lead lists only the programme; photo is a plain overcast view. Dropped to keep ordinary types under 20%."
+  },
+  {
+   "id": "museum-on-echigo-tsumari-monet",
+   "why": "No usable main photo: the main shows a sign and mound, the rest are courtyard interiors or details; lead gives no design reason."
+  },
+  {
+   "id": "amare",
+   "why": "Concert hall and conservatory complex; lead is history and tenants only; Coenen is not an internationally known name. Wall has City Hall and Central Library, The Hague 92 m away (a different building)."
+  },
+  {
+   "id": "2-marsham-street",
+   "why": "Ordinary government office; lead gives only history of the departments."
+  },
+  {
+   "id": "san-massimiliano-kolbe-church",
+   "why": "The photos show a neoclassical facade with statues, not a Gregotti design, so the photos appear to be of the wrong church; lead gives no design reason."
+  },
+  {
+   "id": "one-hudson-yards",
+   "why": "Ordinary luxury housing tower; brick cladding is the only note; Davis Brody Bond are not a known name abroad."
+  },
+  {
+   "id": "forum-evolucion",
+   "why": "Congress palace; lead is history and purpose only. Navarro Baldeweg already has three buildings on the wall. Dropped to keep ordinary types under 20%."
+  },
+  {
+   "id": "holy-trinity-church",
+   "why": "Lead gives only the arson, rebuild and a design competition; K2S is not an internationally known name. Photo is strong, so worth a second look if the owner wants more churches."
+  },
+  {
+   "id": "urbis",
+   "why": "Lead gives only the opening and redevelopment; Ian Simpson is not internationally known and has no building on the wall; building is now a football museum."
+  },
+  {
+   "id": "fourth-and-madison-building",
+   "why": "Ordinary office tower; BOMA award and rooftop garden are not design reasons; Haiku's cantilever claim is not in the first part of the lead."
+  },
+  {
+   "id": "palacio-de-congresos-y-auditorio-de-navarra",
+   "why": "Congress hall; lead is size, cost and use; Mangado has no other building on the wall. Dropped to keep ordinary types under 20%."
+  },
+  {
+   "id": "hobby-center-for-the-performing-arts",
+   "why": "Theatre; the glass wall note is thin and the Herts & Tallant link is not enough; ordinary type budget."
+  },
+  {
+   "id": "ostre-porsgrunn-church",
+   "why": "Lead gives only the rebuild after arson and the 'ugliest church' vote; Surnevik is not an internationally known name."
+  },
+  {
+   "id": "laajasalo-church",
+   "why": "Lead gives only a competition and timber construction; architects not known abroad; the main photo is a tower fragment and the better photo is a hazy street view."
+  },
+  {
+   "id": "kawagoe-city-art-museum",
+   "why": "Lead is one line (a municipal museum); Sakakura Associates is the firm, not Junzo Sakakura, who died in 1969."
+  },
+  {
+   "id": "john-e-jaqua-center-for-student-athletes",
+   "why": "Lead says only that it is a learning centre for athletes; ZGF is a large firm but the lead gives no design reason. Photos are good if the owner wants it as an exception."
+  },
+  {
+   "id": "building-of-the-thuringian-state-parliament",
+   "why": "Ordinary parliament annexe; architect not known abroad; lead describes layout without a design reason."
+  },
+  {
+   "id": "state-theatre-centre-of-western-australia",
+   "why": "Ordinary theatre; lead gives only the venue and the actor it is named after; no other Kerry Hill building on the wall; first photo is at night."
+  },
+  {
+   "id": "masala-church",
+   "why": "Lead describes the interior decoration, not the building's design; architect not known abroad."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "tour-horizons",
-   "better_file_or_null": "File:Tours Horizons, Boulogne-Boulogne-Billancourt.jpg",
-   "why": "Haiku's first photo is a street view of the Pont Renault bridge with the tower small at left. The Tours Horizons photo shows the tower as the subject."
+   "id": "cube",
+   "better_file_or_null": "File:Carbon Concete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 11.jpg",
+   "why": "Wikidata's main photo is an 8300x2500 strip with the building small at the left; Bild 11 (public domain) shows the whole curved-roof building in daylight. Put it first, then Bild 9 and the main photo."
   },
   {
-   "id": "centre-civic-de-riudaura",
-   "better_file_or_null": "File:Centre cívic de Riudaura.jpg",
-   "why": "Main has the building small behind a dirt road; this photo shows the whole building clearly in daylight."
+   "id": "zenith-de-rouen",
+   "better_file_or_null": "File:Zenith de Grand Quevilly.jpg",
+   "why": "The main photo is a dark silhouette through trees; this one shows the whole silver oval in daylight."
   },
   {
-   "id": "william-l-slayton-house",
-   "better_file_or_null": null,
-   "why": "The only photo shows a courtyard pavilion and pool, not the whole house from outside. Hold until a better photo is found."
+   "id": "ibm-studios",
+   "better_file_or_null": "File:Unicredit Pavilon.JPG",
+   "why": "The main photo has a large IBM sign and cranes; this public-domain shot shows the whole timber pavilion without signage. Use it first."
   }
  ],
  "rescued": [
   {
-   "id": "cubo-negro",
-   "why": "Philip Johnson's Banaven Centre, the black glass cube; the lead calls its geometric glass architecture an outstanding urban landmark. Main photos show the whole cube in daylight (small behind trees, so a weak first photo); Haiku wrongly called it cut off. Ordinary type (office), kept only on the lead's landmark reason; owner may prefer to drop it.",
+   "id": "house-okamura",
+   "why": "Skipped as a private house, but the wall already carries private houses; the lead names Christian Kerez (two buildings on the wall) as designer and calls it an atypical building; main photo is a clear daylight view of the whole house. Note: it is a named politician's residence and p1/p2 carry political graffiti, so only the clean photos are used; the owner may want to decide whether to publish.",
    "entry": {
-    "id": "cubo-negro",
-    "qid": "Q56101931",
+    "id": "house-okamura",
+    "qid": "Q110219729",
     "status": "photo",
-    "why": "Johnson's black-glass cube; urban landmark per the lead; whole cube visible in daylight.",
-    "name": "Cubo Negro",
-    "by": "Philip Johnson",
-    "city": "Caracas",
-    "cc": "VE",
-    "year": null,
-    "type": "Office & tower",
-    "movement": "Late modernism",
+    "why": "Atypical house by Christian Kerez, built 2018-2021 (Czech lead).",
+    "name": "House Okamura",
+    "by": "Christian Kerez",
+    "city": "Prague",
+    "cc": "CZ",
+    "year": 2021,
+    "type": "House",
+    "movement": "Contemporary",
     "concepts": [
-     "Geometry",
-     "Facade as skin",
-     "Steel & glass"
+     "Brick",
+     "Sculptural form",
+     "Geometry"
     ],
-    "features": "A geometric modern office building in Caracas, clad in black glass panels and a notable urban landmark.",
-    "commons_category": "Category:Cubo Negro",
+    "features": "Christian Kerez's atypical house in Prague's Břevnov, built 2018–2021 on 371 square metres, with the architect given complete freedom.",
+    "commons_category": "Category:House Okamura",
     "coords": [
-     10.48433,
-     -66.85333
+     50.08194,
+     14.37326
     ],
     "photos": [
      {
-      "file": "File:Cubo Negro 2013 001.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:House Okamura 8227.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Cubo Negro 2013 000.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:House Okamura - celkový pohled.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
-     },
+     }
+    ]
+   }
+  },
+  {
+   "id": "fondazione-bertarelli-concert-hall",
+   "why": "Lead calls it an exemplary bio-architecture and energy-efficiency achievement by Milesi (same designer as the Monastery of Siloe kept above). Haiku held it only for a dusk photo; the photo is a whole-building exterior in soft evening light with no lamps or people, so it is usable, though prep flags it as junk and the owner may prefer a brighter one. Year 2015 is prep's; the lead only says the hall has been the festival venue since 2015.",
+   "entry": {
+    "id": "fondazione-bertarelli-concert-hall",
+    "qid": "Q107567168",
+    "status": "photo",
+    "why": "Concert hall named exemplary for bio-architecture and energy efficiency.",
+    "name": "Fondazione Bertarelli Concert Hall",
+    "by": "Edoardo Milesi",
+    "city": "Cinigiano",
+    "cc": "IT",
+    "year": 2015,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+     "Climate response",
+     "Sculptural form",
+     "Landscape"
+    ],
+    "features": "A contemporary-style auditorium near Cinigiano, considered an exemplary achievement in bio-architecture and energy efficiency.",
+    "commons_category": "Category:Forum Fondazione Bertarelli",
+    "coords": [
+     42.87401,
+     11.32714
+    ],
+    "photos": [
      {
-      "file": "File:Cubo Negro 2013 003.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Centro Banaven (Cubo Negro).JPG",
-      "license": "CC BY-SA 3.0",
+      "file": "File:Bertarelli Concert Hall Cinigiano.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      }
     ]
    }
   }
  ],
- "summary": "Positions 72-138 (67). Haiku: 15 photo, 9 unsure/skip with a lead, rest empty-lead skips. Checked 15 photo: 7 fine (keep_ok), 5 field fixes on 4 entries (palais-des-congres-de-tours, 51-astor-place, centre-civic-de-riudaura, paul-mellon-arts-center), 1 wrong (olympic-roof-munich, duplicate of munich-olympic-stadium), 3 with main photo problems (tour-horizons and centre-civic-de-riudaura have a better photo, william-l-slayton-house has none). So 14 kept entries remain, of which 3 need a photo change (slayton-house held for photo). Ordinary (lead gives no design reason, or ordinary type): 7 of 14 plus the rescue = 8 of 15 (53%), far above the 20% limit; drop the weakest (51-astor-place, weill-institute, cubo-negro, logrono-town-hall) if the ordinary share matters. Unsure/skip reviewed: 1 rescued (cubo-negro); all other skips and unsures confirmed (no usable photo: 72 tancredo-neves city, 75, 90, 93, 97, 128, 136; correct skips: 77, 79, 82, 87, 88, 91, 92, 95, 98, 103, 110, 137; empty leads 83, 104-135, 138 not rescued)."
+ "summary": "Positions 152-299 (148 entries; Haiku: 48 photo, 10 unsure, 90 skip). Keep accepted: 25 of 48 (23 rejected). Fixes on 12 of the kept (17 field fixes). Ordinary types among the kept: 5 (Viborg town hall, Zenith de Rouen, Herman Teirlinck Building, Deloitte Building Christchurch, Osakidetza HQ Bilbao). Rescued: 2 (House Okamura, Fondazione Bertarelli Concert Hall). Total proposed to add: 27, of which 5 ordinary (18.5%, under 20%). Main photo changes: 3 (CUBE, Zenith de Rouen, IBM Studios). All 10 unsure stay out (no usable main photo or no photo; Yokoo and Col-legi Els Convents have unconfirmed architects). All 90 skips confirmed except the two rescued. Skips with strong photos but an empty or non-describing lead, left out under the empty-lead rule: Blessed Augustin Kazotic Church (Boris Magas, 152), Plassen Cultural Centre (3XN, 162), Church of Our Lady in Knin (289), Vennesla Church (221), Tikkurila Church (219). Year gaps filled from prep: 169, 189, 192, 193, 215, 255; IBM Studios stays null because prep's 2015 conflicts with the UniCredit Pavilion name and no source gives the year. Fame/quality notes: Hoshokan (157), Borgo Citta Nuova (169), Trinity River Audubon Center (215) and IBM Studios (194) are the thinnest keeps (lead says little; kept for an internationally known architect or a named idea); drop them first if the owner wants a stricter list. No duplicates on the wall (qid, name and 200 m check): Amare is 92 m from the Hague City Hall (different building) and Fourth and Madison 66 m from Seattle Central Library (different building)."
 }
