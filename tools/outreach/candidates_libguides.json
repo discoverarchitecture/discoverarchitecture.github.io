@@ -1,29 +1,5 @@
 [
  {
-  "school": "University of Southern California",
-  "country": "US",
-  "guide": "Architecture",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.usc.edu/arch"
- },
- {
-  "school": "Georgia Tech",
-  "country": "US",
-  "guide": "Architecture research guide",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.library.gatech.edu/architecture/gettingstarted1"
- },
- {
   "school": "Drexel University",
   "country": "US",
   "guide": "Architecture: Images",
@@ -36,18 +12,6 @@
   "url": "https://libguides.library.drexel.edu/ARCHITECTURE/LIBRARIES"
  },
  {
-  "school": "Clemson University",
-  "country": "US",
-  "guide": "Architecture research guide",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://clemson.libguides.com/c.php?g=230399"
- },
- {
   "school": "Northwestern University",
   "country": "US",
   "guide": "Architectural history: images",
@@ -58,30 +22,6 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://libguides.northwestern.edu/architecture/images"
- },
- {
-  "school": "Washington University in St. Louis",
-  "country": "US",
-  "guide": "Architecture: Images",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.wustl.edu/architecture/images"
- },
- {
-  "school": "University of Colorado Boulder",
-  "country": "US",
-  "guide": "ARCH 2100 images",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.colorado.edu/arch2100/images"
  },
  {
   "school": "Carnegie Mellon University",
@@ -132,18 +72,6 @@
   "url": "https://libguides.auburn.edu/environmentaldesign/resouceslinks"
  },
  {
-  "school": "Ball State University",
-  "country": "US",
-  "guide": "Architecture subject guide",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://bsu.libguides.com/archlib"
- },
- {
   "school": "Brown University",
   "country": "US",
   "guide": "Resources in art and architecture on the web",
@@ -154,18 +82,6 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://libguides.brown.edu/WebResources/CanadianArchitecture"
- },
- {
-  "school": "University of Notre Dame",
-  "country": "US",
-  "guide": "Sacred architecture: images",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.library.nd.edu/sacred-architecture/images"
  },
  {
   "school": "SCAD",
@@ -228,18 +144,6 @@
   "url": "https://libguides.cca.edu/architecture"
  },
  {
-  "school": "University of Utah",
-  "country": "US",
-  "guide": "Architecture",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://campusguides.lib.utah.edu/architecture?p=1053692"
- },
- {
   "school": "University of Huddersfield",
   "country": "UK",
   "guide": "Architecture: images",
@@ -264,18 +168,6 @@
   "url": "https://libguides.bcu.ac.uk/architecture/images-video-media"
  },
  {
-  "school": "University of Lincoln",
-  "country": "UK",
-  "guide": "Architecture and built environment",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://guides.library.lincoln.ac.uk/ArchitectureAndBuiltEnv"
- },
- {
   "school": "University of Sheffield",
   "country": "UK",
   "guide": "Architecture guide",
@@ -286,30 +178,6 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://libraryguides.sheffield.ac.uk/guidearchitecture"
- },
- {
-  "school": "De Montfort University",
-  "country": "UK",
-  "guide": "Architecture subject guide",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.library.dmu.ac.uk/arch"
- },
- {
-  "school": "University of Dundee",
-  "country": "UK",
-  "guide": "Architecture subject guide",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.dundee.ac.uk/IGarchitecture"
  },
  {
   "school": "University of Edinburgh",
@@ -336,30 +204,6 @@
   "url": "https://libguides.leedsbeckett.ac.uk/subject_support/architecture"
  },
  {
-  "school": "University of Northampton",
-  "country": "UK",
-  "guide": "Interior architecture",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.northampton.ac.uk/architecture"
- },
- {
-  "school": "Newcastle University",
-  "country": "UK",
-  "guide": "Architecture subject support",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://blogs.ncl.ac.uk/subject-support/?p=3713"
- },
- {
   "school": "Arts University Bournemouth",
   "country": "UK",
   "guide": "Architecture",
@@ -382,30 +226,6 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://libguides.ucalgary.ca/c.php?g=255108"
- },
- {
-  "school": "McGill University",
-  "country": "CA",
-  "guide": "Canadian architecture",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libraryguides.mcgill.ca/canadian-architecture"
- },
- {
-  "school": "University of Toronto",
-  "country": "CA",
-  "guide": "Architecture, landscape architecture, urban design",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://guides.library.utoronto.ca/c.php?g=250699"
  },
  {
   "school": "University of Manitoba",
@@ -480,18 +300,6 @@
   "url": "https://libguides.melbournepolytechnic.edu.au/applied_architecture"
  },
  {
-  "school": "Griffith University",
-  "country": "AU",
-  "guide": "Architecture images",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libraryguides.griffith.edu.au/images/architecture-images"
- },
- {
   "school": "University of Auckland",
   "country": "NZ",
   "guide": "Architecture, urban design and planning",
@@ -540,18 +348,6 @@
   "url": "https://libguides.victoria.ac.nz/architecture/research-writing"
  },
  {
-  "school": "University College Cork",
-  "country": "IE",
-  "guide": "Web resources for architecture",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.ucc.ie/architecture/webresourcesforarchitecture"
- },
- {
   "school": "University College Dublin",
   "country": "IE",
   "guide": "Architecture and landscape architecture",
@@ -562,18 +358,6 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://libguides.ucd.ie/architecture/offpubs"
- },
- {
-  "school": "Berlin International University",
-  "country": "DE",
-  "guide": "Architecture and design",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.berlin-international.de/books/by-faculty/page/faculty-of-architecture-and-design-foad/export/pdf"
  },
  {
   "school": "Hong Kong University",
@@ -622,5 +406,173 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://dcc.libguides.com/architecture"
+ },
+ {
+  "school": "Clemson University",
+  "country": "US",
+  "guide": "Find Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://clemson.libguides.com/c.php?g=230399&p=1529204"
+ },
+ {
+  "school": "Kean University",
+  "country": "US",
+  "guide": "Find Images, Videos, and Interviews",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.kean.edu/c.php?g=1414061&p=10474703"
+ },
+ {
+  "school": "University of Illinois Urbana-Champaign",
+  "country": "US",
+  "guide": "Architecture: Finding Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.library.illinois.edu/c.php?g=348115&p=2346330"
+ },
+ {
+  "school": "Fordham University",
+  "country": "US",
+  "guide": "Internet Resources",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://fordham.libguides.com/c.php?g=688915&p=4901202"
+ },
+ {
+  "school": "University of Oregon",
+  "country": "US",
+  "guide": "Architecture & Building: Finding Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://researchguides.uoregon.edu/images/architecture"
+ },
+ {
+  "school": "University of Michigan",
+  "country": "US",
+  "guide": "Architecture Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.lib.umich.edu/c.php?g=282888&p=1885038"
+ },
+ {
+  "school": "University of Texas at Austin",
+  "country": "US",
+  "guide": "Materials + Visual Resources",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.lib.utexas.edu/c.php?g=491213&p=3577336"
+ },
+ {
+  "school": "Barnard College",
+  "country": "US",
+  "guide": "Architecture: Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.library.barnard.edu/ARCH/images"
+ },
+ {
+  "school": "University of Notre Dame",
+  "country": "US",
+  "guide": "Image Collections",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.library.nd.edu/c.php?g=967828&p=6992955"
+ },
+ {
+  "school": "University of Idaho",
+  "country": "US",
+  "guide": "Architecture",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.uidaho.edu/arch"
+ },
+ {
+  "school": "Pratt Institute",
+  "country": "US",
+  "guide": "Images and Image Collections",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.pratt.edu/c.php?g=763369&p=5475161"
+ },
+ {
+  "school": "Texas Tech University",
+  "country": "US",
+  "guide": "Architecture: Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.library.ttu.edu/archlib/images"
+ },
+ {
+  "school": "University of Michigan",
+  "country": "US",
+  "guide": "Architecture: Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.lib.umich.edu/c.php?g=282771&p=1884153"
+ },
+ {
+  "school": "Brown University",
+  "country": "US",
+  "guide": "Art and architecture on the web",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.brown.edu/WebResources/Writing"
  }
 ]
