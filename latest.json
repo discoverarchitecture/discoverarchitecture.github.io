@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-23T04:37:10+00:00",
+ "fetched_at": "2026-10-23T11:30:16+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1400,
+ "visits_30d": 1481,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 393,
+     "count": 410,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 71,
+     "count": 74,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 66,
+     "count": 72,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -31,20 +31,20 @@
      "max": 9
     },
     {
-     "count": 15,
-     "path_id": 113702981,
-     "path": "studio/ai-button",
-     "event": true,
-     "title": "AI jury presentation generator",
-     "max": 3
-    },
-    {
-     "count": 15,
+     "count": 17,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
      "title": "FGA Studio: AI jury board & presentation generator",
      "max": 6
+    },
+    {
+     "count": 16,
+     "path_id": 113702981,
+     "path": "studio/ai-button",
+     "event": true,
+     "title": "AI jury presentation generator",
+     "max": 3
     },
     {
      "count": 10,
@@ -55,7 +55,7 @@
      "max": 2
     },
     {
-     "count": 7,
+     "count": 8,
      "path_id": 113976891,
      "path": "play/endless/over",
      "event": true,
@@ -63,7 +63,7 @@
      "max": 2
     },
     {
-     "count": 7,
+     "count": 8,
      "path_id": 113671658,
      "path": "play/daily/3-of-5",
      "event": true,
@@ -104,6 +104,14 @@
     },
     {
      "count": 5,
+     "path_id": 113753482,
+     "path": "play/daily/4-of-5",
+     "event": true,
+     "title": "Daily five finished: 4 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 5,
      "path_id": 113701806,
      "path": "book/experiencing-architecture",
      "event": true,
@@ -117,6 +125,14 @@
      "event": true,
      "title": "Mill Owners' Association Building",
      "max": 2
+    },
+    {
+     "count": 5,
+     "path_id": 113271516,
+     "path": "/buildings/aalto-house-riihitie",
+     "event": false,
+     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
+     "max": 1
     },
     {
      "count": 5,
@@ -149,14 +165,6 @@
      "event": true,
      "title": "Jawahar Kala Kendra",
      "max": 2
-    },
-    {
-     "count": 4,
-     "path_id": 113271516,
-     "path": "/buildings/aalto-house-riihitie",
-     "event": false,
-     "title": "Aalto House (Riihitie) by Alvar Aalto: photos & key features",
-     "max": 1
     },
     {
      "count": 4,
@@ -200,14 +208,6 @@
     },
     {
      "count": 3,
-     "path_id": 113753482,
-     "path": "play/daily/4-of-5",
-     "event": true,
-     "title": "Daily five finished: 4 of 5 right",
-     "max": 2
-    },
-    {
-     "count": 3,
      "path_id": 113685200,
      "path": "play/daily/0-of-5",
      "event": true,
@@ -237,6 +237,22 @@
      "event": true,
      "title": "CEPT University",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113148939,
+     "path": "building/state-trading-corporation-building",
+     "event": true,
+     "title": "State Trading Corporation Building",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113146147,
+     "path": "/buildings/bergpolderflat",
+     "event": false,
+     "title": "Bergpolderflat, 1934: photos",
+     "max": 1
     },
     {
      "count": 3,
@@ -296,6 +312,14 @@
     },
     {
      "count": 2,
+     "path_id": 114132840,
+     "path": "/buildings/beinecke-rare-book-manuscript-library",
+     "event": false,
+     "title": "Beinecke Rare Book & Manuscript Library by Gordon Bunshaft",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 114083299,
      "path": "/types/museums",
      "event": false,
@@ -320,10 +344,26 @@
     },
     {
      "count": 2,
+     "path_id": 114041400,
+     "path": "building/sardar-vallabhbhai-patel-stadium",
+     "event": true,
+     "title": "Sardar Vallabhbhai Patel Stadium",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 114027454,
      "path": "/buildings/casa-de-ferro-maputo",
      "event": false,
      "title": "Casa de Ferro (Iron House) by Joseph Danly: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114018506,
+     "path": "building/hsbc-main-building",
+     "event": true,
+     "title": "HSBC Main Building",
      "max": 1
     },
     {
@@ -333,6 +373,14 @@
      "event": false,
      "title": "Wall-less House by Shigeru Ban, 1997: photos & key features",
      "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
+     "max": 1
     },
     {
      "count": 2,
@@ -405,6 +453,14 @@
      "event": true,
      "title": "Toronto-Dominion Centre",
      "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 113976184,
+     "path": "/buildings/atira-ahmedabad",
+     "event": false,
+     "title": "ATIRA by Achyut Kanvinde, 1954: photos & key features",
+     "max": 1
     },
     {
      "count": 2,
@@ -640,6 +696,14 @@
     },
     {
      "count": 2,
+     "path_id": 113272631,
+     "path": "/buildings/breuer-house-ii-new-canaan",
+     "event": false,
+     "title": "Breuer House II by Marcel Breuer: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113212614,
      "path": "/buildings/world-forum-congress-building",
      "event": false,
@@ -741,97 +805,33 @@
      "event": false,
      "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112481251,
-     "path": "/buildings/bouca-housing",
-     "event": false,
-     "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112478671,
-     "path": "/buildings/rock-and-roll-hall-of-fame",
-     "event": false,
-     "title": "Rock and Roll Hall of Fame \u2014 I. M. Pei, 1995: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112446310,
-     "path": "/buildings/philharmonie-de-paris",
-     "event": false,
-     "title": "Philharmonie de Paris \u2014 Ateliers Jean Nouvel, 2015",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112373862,
-     "path": "/buildings/kala-academy",
-     "event": false,
-     "title": "Kala Academy \u2014 Charles Correa, 1983: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112365124,
-     "path": "/buildings/taipei-fine-arts-museum",
-     "event": false,
-     "title": "Taipei Fine Arts Museum \u2014 Kao Er-pan, 1983",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112296586,
-     "path": "/buildings/st-johann-von-capistran",
-     "event": false,
-     "title": "St. Johann von Capistran \u2014 Sep Ruf, 1960: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112288700,
-     "path": "/buildings/gosstrakh-apartments",
-     "event": false,
-     "title": "Gosstrakh Apartments \u2014 Moisei Ginzburg, 1927: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112288142,
-     "path": "building/national-assembly-of-bangladesh",
-     "event": true,
-     "title": "National Assembly of Bangladesh",
-     "max": 1
     }
    ],
-   "total": 819,
+   "total": 855,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 850,
+     "count": 884,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 249,
+     "count": 280,
      "ref_scheme": "g"
-    },
-    {
-     "id": "ig",
-     "name": "ig",
-     "count": 15,
-     "ref_scheme": "c"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
+     "count": 18,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "ig",
+     "name": "ig",
      "count": 15,
      "ref_scheme": "c"
     },
@@ -848,16 +848,16 @@
      "ref_scheme": "c"
     },
     {
-     "id": "wall",
-     "name": "wall",
-     "count": 8,
-     "ref_scheme": "c"
-    },
-    {
      "id": "gemini.google.com",
      "name": "gemini.google.com",
-     "count": 7,
+     "count": 9,
      "ref_scheme": "h"
+    },
+    {
+     "id": "wall",
+     "name": "wall",
+     "count": 9,
+     "ref_scheme": "c"
     },
     {
      "id": "www.bing.com",
@@ -915,17 +915,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 907
+     "count": 957
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 474
+     "count": 504
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 19
+     "count": 20
     }
    ],
    "more": false
@@ -935,27 +935,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 456
+     "count": 495
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 423
+     "count": 441
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 338
+     "count": 342
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 109
+     "count": 124
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 73
+     "count": 78
     },
     {
      "id": "Chrome OS",
@@ -970,17 +970,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 807
+     "count": 853
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 185
+     "count": 187
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 50
+     "count": 51
     },
     {
      "id": "GB",
@@ -995,7 +995,12 @@
     {
      "id": "JP",
      "name": "Japan",
-     "count": 26
+     "count": 27
+    },
+    {
+     "id": "CH",
+     "name": "Switzerland",
+     "count": 22
     },
     {
      "id": "CA",
@@ -1005,32 +1010,27 @@
     {
      "id": "NL",
      "name": "Netherlands",
-     "count": 18
-    },
-    {
-     "id": "CH",
-     "name": "Switzerland",
-     "count": 16
+     "count": 19
     },
     {
      "id": "ES",
      "name": "Spain",
-     "count": 16
+     "count": 17
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 13
+    },
+    {
+     "id": "TR",
+     "name": "Turkey",
+     "count": 13
     },
     {
      "id": "FR",
      "name": "France",
      "count": 12
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 12
-    },
-    {
-     "id": "TR",
-     "name": "Turkey",
-     "count": 11
     },
     {
      "id": "PT",
@@ -1048,6 +1048,11 @@
      "count": 8
     },
     {
+     "id": "BE",
+     "name": "Belgium",
+     "count": 7
+    },
+    {
      "id": "ID",
      "name": "Indonesia",
      "count": 7
@@ -1063,11 +1068,6 @@
      "count": 7
     },
     {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 6
-    },
-    {
      "id": "KR",
      "name": "South Korea",
      "count": 6
@@ -1078,8 +1078,23 @@
      "count": 6
     },
     {
+     "id": "RU",
+     "name": "Russia",
+     "count": 6
+    },
+    {
      "id": "AT",
      "name": "Austria",
+     "count": 5
+    },
+    {
+     "id": "FI",
+     "name": "Finland",
+     "count": 5
+    },
+    {
+     "id": "GR",
+     "name": "Greece",
      "count": 5
     },
     {
@@ -1093,13 +1108,8 @@
      "count": 4
     },
     {
-     "id": "FI",
-     "name": "Finland",
-     "count": 4
-    },
-    {
-     "id": "GR",
-     "name": "Greece",
+     "id": "KZ",
+     "name": "Kazakhstan",
      "count": 4
     },
     {
@@ -1113,9 +1123,24 @@
      "count": 4
     },
     {
+     "id": "SG",
+     "name": "Singapore",
+     "count": 4
+    },
+    {
      "id": "TW",
      "name": "Taiwan",
      "count": 4
+    },
+    {
+     "id": "VN",
+     "name": "Vietnam",
+     "count": 4
+    },
+    {
+     "id": "DK",
+     "name": "Denmark",
+     "count": 3
     },
     {
      "id": "HK",
@@ -1123,18 +1148,18 @@
      "count": 3
     },
     {
-     "id": "KZ",
-     "name": "Kazakhstan",
+     "id": "IE",
+     "name": "Ireland",
+     "count": 3
+    },
+    {
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
      "count": 3
     },
     {
      "id": "PE",
      "name": "Peru",
-     "count": 3
-    },
-    {
-     "id": "SG",
-     "name": "Singapore",
      "count": 3
     },
     {
@@ -1148,13 +1173,13 @@
      "count": 3
     },
     {
-     "id": "VN",
-     "name": "Vietnam",
-     "count": 3
-    },
-    {
      "id": "CL",
      "name": "Chile",
+     "count": 2
+    },
+    {
+     "id": "DZ",
+     "name": "Algeria",
      "count": 2
     },
     {
@@ -1163,18 +1188,8 @@
      "count": 2
     },
     {
-     "id": "IE",
-     "name": "Ireland",
-     "count": 2
-    },
-    {
      "id": "IL",
      "name": "Israel",
-     "count": 2
-    },
-    {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
      "count": 2
     },
     {
@@ -1185,6 +1200,11 @@
     {
      "id": "NO",
      "name": "Norway",
+     "count": 2
+    },
+    {
+     "id": "SE",
+     "name": "Sweden",
      "count": 2
     },
     {
@@ -1203,6 +1223,11 @@
      "count": 1
     },
     {
+     "id": "BG",
+     "name": "Bulgaria",
+     "count": 1
+    },
+    {
      "id": "BN",
      "name": "Brunei",
      "count": 1
@@ -1218,11 +1243,6 @@
      "count": 1
     },
     {
-     "id": "DZ",
-     "name": "Algeria",
-     "count": 1
-    },
-    {
      "id": "ET",
      "name": "Ethiopia",
      "count": 1
@@ -1235,6 +1255,11 @@
     {
      "id": "HU",
      "name": "Hungary",
+     "count": 1
+    },
+    {
+     "id": "IR",
+     "name": "Iran",
      "count": 1
     },
     {
@@ -1283,16 +1308,6 @@
      "count": 1
     },
     {
-     "id": "RU",
-     "name": "Russia",
-     "count": 1
-    },
-    {
-     "id": "SE",
-     "name": "Sweden",
-     "count": 1
-    },
-    {
      "id": "TN",
      "name": "Tunisia",
      "count": 1
@@ -1310,22 +1325,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 749
+     "count": 773
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 35
+     "count": 36
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 570
+     "count": 619
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 46
+     "count": 53
     },
     {
      "id": "unknown",
@@ -1340,7 +1355,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1400
+     "count": 1481
     }
    ],
    "more": false
