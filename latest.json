@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-23T11:30:16+00:00",
+ "fetched_at": "2026-10-23T16:59:19+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1481,
+ "visits_30d": 1545,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 410,
+     "count": 425,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 72,
+     "count": 74,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 17,
+     "count": 18,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -48,14 +48,6 @@
     },
     {
      "count": 10,
-     "path_id": 113672778,
-     "path": "play/daily/2-of-5",
-     "event": true,
-     "title": "Daily five finished: 2 of 5 right",
-     "max": 2
-    },
-    {
-     "count": 8,
      "path_id": 113976891,
      "path": "play/endless/over",
      "event": true,
@@ -63,11 +55,27 @@
      "max": 2
     },
     {
-     "count": 8,
+     "count": 10,
+     "path_id": 113672778,
+     "path": "play/daily/2-of-5",
+     "event": true,
+     "title": "Daily five finished: 2 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 9,
      "path_id": 113671658,
      "path": "play/daily/3-of-5",
      "event": true,
      "title": "Daily five finished: 3 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 7,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
      "max": 2
     },
     {
@@ -135,14 +143,6 @@
      "max": 1
     },
     {
-     "count": 5,
-     "path_id": 112160373,
-     "path": "/buildings",
-     "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
      "count": 4,
      "path_id": 113925666,
      "path": "/buildings/palazzetto-dello-sport",
@@ -184,6 +184,22 @@
     },
     {
      "count": 3,
+     "path_id": 114250181,
+     "path": "building/kaleva-church",
+     "event": true,
+     "title": "Kaleva Church",
+     "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113975805,
      "path": "building/perth-arena",
      "event": true,
@@ -205,6 +221,14 @@
      "event": false,
      "title": "The Custom House by James Gandon: photos & key features",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113701512,
+     "path": "/buildings/eastgate-centre",
+     "event": false,
+     "title": "Eastgate Centre by Mick Pearce, 1996: photos & key features",
+     "max": 1
     },
     {
      "count": 3,
@@ -376,10 +400,10 @@
     },
     {
      "count": 2,
-     "path_id": 113996447,
-     "path": "studio/signup",
+     "path_id": 113996457,
+     "path": "studio/details",
      "event": true,
-     "title": "FGA Studio waitlist sign-up",
+     "title": "FGA Studio waitlist: optional answers",
      "max": 1
     },
     {
@@ -608,14 +632,6 @@
     },
     {
      "count": 2,
-     "path_id": 113701512,
-     "path": "/buildings/eastgate-centre",
-     "event": false,
-     "title": "Eastgate Centre by Mick Pearce, 1996: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
      "path_id": 113700568,
      "path": "building/notre-dame-du-haut",
      "event": true,
@@ -789,44 +805,28 @@
      "event": false,
      "title": "Stadthaus Ulm \u2014 Richard Meier, 1993: photos for a case study",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112487700,
-     "path": "/buildings/nira-house",
-     "event": false,
-     "title": "Nira House (Leek House) \u2014 Terunobu Fujimori, 1997: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112487066,
-     "path": "/buildings/mercado-municipal-de-sao-paulo",
-     "event": false,
-     "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
-     "max": 1
     }
    ],
-   "total": 855,
+   "total": 881,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 884,
+     "count": 916,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 280,
+     "count": 286,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 18,
+     "count": 20,
      "ref_scheme": "c"
     },
     {
@@ -915,17 +915,21 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 957
+     "count": 993
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 504
+     "count": 531
     },
     {
      "id": "Firefox",
      "name": "Firefox",
      "count": 20
+    },
+    {
+     "name": "",
+     "count": 1
     }
    ],
    "more": false
@@ -935,27 +939,31 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 495
+     "count": 526
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 441
+     "count": 467
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 342
+     "count": 343
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 124
+     "count": 125
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 78
+     "count": 82
+    },
+    {
+     "name": "",
+     "count": 1
     },
     {
      "id": "Chrome OS",
@@ -970,22 +978,27 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 853
+     "count": 874
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 187
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 51
+     "count": 191
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 39
+     "count": 53
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 52
+    },
+    {
+     "id": "JP",
+     "name": "Japan",
+     "count": 32
     },
     {
      "id": "AU",
@@ -993,13 +1006,13 @@
      "count": 31
     },
     {
-     "id": "JP",
-     "name": "Japan",
-     "count": 27
-    },
-    {
      "id": "CH",
      "name": "Switzerland",
+     "count": 26
+    },
+    {
+     "id": "NL",
+     "name": "Netherlands",
      "count": 22
     },
     {
@@ -1008,19 +1021,14 @@
      "count": 19
     },
     {
-     "id": "NL",
-     "name": "Netherlands",
+     "id": "IT",
+     "name": "Italy",
      "count": 19
     },
     {
      "id": "ES",
      "name": "Spain",
      "count": 17
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 13
     },
     {
      "id": "TR",
@@ -1043,6 +1051,11 @@
      "count": 9
     },
     {
+     "id": "ID",
+     "name": "Indonesia",
+     "count": 8
+    },
+    {
      "id": "NZ",
      "name": "New Zealand",
      "count": 8
@@ -1053,8 +1066,8 @@
      "count": 7
     },
     {
-     "id": "ID",
-     "name": "Indonesia",
+     "id": "KR",
+     "name": "South Korea",
      "count": 7
     },
     {
@@ -1068,8 +1081,8 @@
      "count": 7
     },
     {
-     "id": "KR",
-     "name": "South Korea",
+     "id": "GR",
+     "name": "Greece",
      "count": 6
     },
     {
@@ -1093,11 +1106,6 @@
      "count": 5
     },
     {
-     "id": "GR",
-     "name": "Greece",
-     "count": 5
-    },
-    {
      "id": "BR",
      "name": "Brazil",
      "count": 4
@@ -1105,6 +1113,11 @@
     {
      "id": "EC",
      "name": "Ecuador",
+     "count": 4
+    },
+    {
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
      "count": 4
     },
     {
@@ -1150,11 +1163,6 @@
     {
      "id": "IE",
      "name": "Ireland",
-     "count": 3
-    },
-    {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
      "count": 3
     },
     {
@@ -1233,6 +1241,11 @@
      "count": 1
     },
     {
+     "id": "BY",
+     "name": "Belarus",
+     "count": 1
+    },
+    {
      "id": "CO",
      "name": "Colombia",
      "count": 1
@@ -1240,6 +1253,11 @@
     {
      "id": "CR",
      "name": "Costa Rica",
+     "count": 1
+    },
+    {
+     "id": "EG",
+     "name": "Egypt",
      "count": 1
     },
     {
@@ -1325,7 +1343,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 773
+     "count": 800
     },
     {
      "id": "tablet",
@@ -1335,12 +1353,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 619
+     "count": 643
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 53
+     "count": 66
     },
     {
      "id": "unknown",
@@ -1355,7 +1373,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1481
+     "count": 1545
     }
    ],
    "more": false
