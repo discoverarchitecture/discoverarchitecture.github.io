@@ -1,0 +1,31 @@
+# Checks the library guides found for outreach (tools/outreach/BRIEF.md) on GitHub's servers, because the cloud chats
+# can only reach Wikipedia. A chat pushes tools/outreach/candidates_<group>.json to claude/outreach-<group>; this opens
+# every guide and commits tools/outreach/<group>.json and tools/outreach/check_<group>.md.
+name: Check outreach guides
+on:
+  push:
+    branches: ['claude/outreach-*']
+    paths: ['tools/outreach/candidates_*.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: outreach-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check this branch's candidate file
+        run: |
+          g="${GITHUB_REF_NAME#claude/outreach-}"
+          if [ ! -e "tools/outreach/candidates_$g.json" ]; then echo "No tools/outreach/candidates_$g.json on this branch."; exit 0; fi
+          python3 tools/check_outreach.py --group "$g"
+      - name: Commit results
+        run: |
+          git add tools/outreach
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Library guides checked on GitHub's servers"
+          git push -q
