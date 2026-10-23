@@ -266,3 +266,23 @@ source, 4 low-confidence (CityLife, Historisches Museum Saar, Aldo van Eyck pavi
 600 (Piano's pavilion was rebuilt) and Glenstone (its main buildings are Phifer's); UOB Plaza was already on the
 wall. Photo review: 2 better leads, 53 gallery photos removed across both rounds (events, signs, artworks, models,
 and Andersen's birthplace in the Kuma museum's gallery). Ordinary types: 4 of 39 (10%).
+
+## Haiku pipeline, tenth pool (23 Oct 2026): 300 candidates from a new harvest of buildings from 2000 on
+
+`tools/harvest_recent.py` (Wikidata, works with an architect and at least two sitelinks, 2000–2026) gave 3,964;
+`tools/cheap/make_pool10.py` kept 300: no ordinary types by name or instance, no earliest date before 1998 (old
+buildings reopened later), none by architects whose wall work ends before 1975, at most 4 per architect. The fame
+bar is low: Haiku kept 94, and Sonnet threw out 46 of them, mostly kept only because the architect is on the wall
+with nothing in the lead about the design, and rescued 5. Left out by hand: House Okamura (the private home of a
+named politician) and Bunker 599 (an installation; owner to decide); the Deloitte office building was set aside for
+the 20% rule. 45 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 45 (1 better lead chosen; 37 gallery photos removed) | fine |
+| No free photo | 14 of 300 (5%) | fine |
+| Already on the wall | 0 of 300 | fine |
+| Facts failing the source check | Haiku's keeps: 46 of 94 were wrong keeps and 21 needed a fact fixed (71%) | **stop level for Haiku alone**: Haiku is not reliable on a low-fame list; Sonnet's full check is essential |
+| Ordinary types | 8 of 45 (18%) by Sonnet's tag | fine, after setting one aside |
+
+Held: 3 without a sourced year, 2 without a main photo, and the three above (`tools/cheap/pool10_held.json`).

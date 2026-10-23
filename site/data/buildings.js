@@ -350856,18 +350856,6 @@ window.BUILDINGS = [
     "file": "File:Hudson Yards - Vessel - 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Hudson_Yards_The_Vessel_Snowstorm_2020_%2850732620808%29.jpg/1280px-Hudson_Yards_The_Vessel_Snowstorm_2020_%2850732620808%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/vessel-structure/thumbs/4.webp",
-    "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · Hudson Yards The Vessel Snowstorm 2020",
-    "credit": "Anthony Quintano  from Mount Laurel, United States",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Hudson_Yards_The_Vessel_Snowstorm_2020_(50732620808).jpg",
-    "file": "File:Hudson Yards The Vessel Snowstorm 2020 (50732620808).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Interior_Vessel.jpg/1280px-Interior_Vessel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/vessel-structure/thumbs/5.webp",
     "w": 1280,
@@ -350903,22 +350891,10 @@ window.BUILDINGS = [
   "study": "Henning Larsen's interpretive centre and museum on Bornholm, dedicated to the island's geology and natural history.",
   "qid": null,
   "commons": "Category:NaturBornholm",
-  "lead": "File:NaturBornholm Aakirkeby 001.jpg",
+  "lead": "Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG",
   "coords": null,
   "hotlink": true,
   "images": [
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/NaturBornholm_Aakirkeby_001.jpg/1280px-NaturBornholm_Aakirkeby_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/naturbornholm/thumbs/0.webp",
-    "w": 1280,
-    "h": 461,
-    "kind": "Exterior",
-    "caption": "Exterior · NaturBornholm in Aakirkeby",
-    "credit": "Lilly M",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NaturBornholm_Aakirkeby_001.jpg",
-    "file": "File:NaturBornholm Aakirkeby 001.jpg"
-   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Natur_Bonholm_%282012-07-02%29%2C_by_Klugschnacker_in_Wikipedia_%281%29.JPG/1280px-Natur_Bonholm_%282012-07-02%29%2C_by_Klugschnacker_in_Wikipedia_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/naturbornholm/thumbs/1.webp",
@@ -350932,40 +350908,16 @@ window.BUILDINGS = [
     "file": "File:Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Paleosuchus_palpebrosus_Trachemys_scripta_elegans.jpg/1280px-Paleosuchus_palpebrosus_Trachemys_scripta_elegans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/naturbornholm/thumbs/2.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/NaturBornholm_Aakirkeby_001.jpg/1280px-NaturBornholm_Aakirkeby_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/naturbornholm/thumbs/0.webp",
     "w": 1280,
-    "h": 676,
+    "h": 461,
     "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "AdInfinitum",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paleosuchus_palpebrosus_Trachemys_scripta_elegans.jpg",
-    "file": "File:Paleosuchus palpebrosus Trachemys scripta elegans.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/NaturBornholm_Huayangosaurus.jpg/1280px-NaturBornholm_Huayangosaurus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/naturbornholm/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Reconstruction of Huayangosaurus in NaturBornholm",
-    "credit": "AdInfinitum",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NaturBornholm_Huayangosaurus.jpg",
-    "file": "File:NaturBornholm Huayangosaurus.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Skamienia%C5%82e_dno_morskie_-_panorama_-_panoramio.jpg/1280px-Skamienia%C5%82e_dno_morskie_-_panorama_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/naturbornholm/thumbs/4.webp",
-    "w": 1280,
-    "h": 339,
-    "kind": "Context",
-    "caption": "Context · skamieniałe dno morskie - panorama",
-    "credit": "7alaskan",
+    "caption": "Exterior · NaturBornholm in Aakirkeby",
+    "credit": "Lilly M",
     "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Skamienia%C5%82e_dno_morskie_-_panorama_-_panoramio.jpg",
-    "file": "File:Skamieniałe dno morskie - panorama - panoramio.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:NaturBornholm_Aakirkeby_001.jpg",
+    "file": "File:NaturBornholm Aakirkeby 001.jpg"
    }
   ],
   "has": [],
@@ -351020,18 +350972,6 @@ window.BUILDINGS = [
     "file": "File:Beaty Biodiversity Museum 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Beaty_Biodiversity_Museum_exterior_2.JPG/1280px-Beaty_Biodiversity_Museum_exterior_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/beaty-biodiversity-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Interior",
-    "caption": "Interior · The exterior of the Beaty Biodiversity Museum, with the blue whale skeleton visible inside",
-    "credit": "Eviatar Bach",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Beaty_Biodiversity_Museum_exterior_2.JPG",
-    "file": "File:Beaty Biodiversity Museum exterior 2.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Skeleton_of_a_blue_whale_%2848012148062%29.jpg/1280px-Skeleton_of_a_blue_whale_%2848012148062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/beaty-biodiversity-museum/thumbs/3.webp",
     "w": 1280,
@@ -351044,28 +350984,16 @@ window.BUILDINGS = [
     "file": "File:Skeleton of a blue whale (48012148062).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Cone_snail_shells_%2848308112027%29.jpg/1280px-Cone_snail_shells_%2848308112027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/beaty-biodiversity-museum/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Beaty Biodiversity Museum, Vancouver, British Columbia, Canada",
-    "credit": "Thomas Quine",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Cone_snail_shells_(48308112027).jpg",
-    "file": "File:Cone snail shells (48308112027).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/GardenPea.JPG/1280px-GardenPea.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/beaty-biodiversity-museum/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Beaty_Biodiversity_Museum_exterior_2.JPG/1280px-Beaty_Biodiversity_Museum_exterior_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/beaty-biodiversity-museum/thumbs/2.webp",
     "w": 1280,
-    "h": 1378,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "User:Kelsey0",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:GardenPea.JPG",
-    "file": "File:GardenPea.JPG"
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior · The exterior of the Beaty Biodiversity Museum, with the blue whale skeleton visible inside",
+    "credit": "Eviatar Bach",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beaty_Biodiversity_Museum_exterior_2.JPG",
+    "file": "File:Beaty Biodiversity Museum exterior 2.JPG"
    }
   ],
   "has": [],
@@ -351208,18 +351136,6 @@ window.BUILDINGS = [
     "file": "File:RRA Knarvik-17©Hundven-Clements Photography.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Knarvik_kyrkje_beingrind.JPG/1280px-Knarvik_kyrkje_beingrind.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/knarvik-church/thumbs/1.webp",
-    "w": 1280,
-    "h": 857,
-    "kind": "Exterior",
-    "caption": "Exterior · The \"skeleton\" of Knarvik church",
-    "credit": "3s",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Knarvik_kyrkje_beingrind.JPG",
-    "file": "File:Knarvik kyrkje beingrind.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Altar_Knarvik_II.jpeg/1280px-Altar_Knarvik_II.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/knarvik-church/thumbs/2.webp",
     "w": 1280,
@@ -351330,30 +351246,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Glass_6736.jpg",
     "file": "File:Museum of Glass 6736.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Color_block_living_%2824155743389%29.jpg/1280px-Color_block_living_%2824155743389%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-glass/thumbs/4.webp",
-    "w": 1280,
-    "h": 866,
-    "kind": "Interior",
-    "caption": "Interior · Colorful architecture next to the Museum of Glass in Tacoma, Washington",
-    "credit": "Sheila Sund  from Salem, United States",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Color_block_living_(24155743389).jpg",
-    "file": "File:Color block living (24155743389).jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tacoma_Museum_of_Glass_Bridge_Ceiling_Art_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/museum-of-glass/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Tacoma Museum of Glass Bridge Ceiling Art",
-    "credit": "zak11527",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Tacoma_Museum_of_Glass_Bridge_Ceiling_Art_-_panoramio.jpg",
-    "file": "File:Tacoma Museum of Glass Bridge Ceiling Art - panoramio.jpg"
    }
   ],
   "has": [],
@@ -351560,18 +351452,6 @@ window.BUILDINGS = [
     "file": "File:Phoenix Center, Beijing 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Phoenix_Center_20250107_134440.jpg/1280px-Phoenix_Center_20250107_134440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/phoenix-center/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "HoweyYuan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Phoenix_Center_20250107_134440.jpg",
-    "file": "File:Phoenix Center 20250107 134440.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Phoenix_Center%2C_Beijing_2.jpg/1280px-Phoenix_Center%2C_Beijing_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/phoenix-center/thumbs/2.webp",
     "w": 1280,
@@ -351672,18 +351552,6 @@ window.BUILDINGS = [
     "file": "File:Fukui Prefectural Varve Museum Exterior View 2.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Fukui_Prefectural_Varve_Museum_Interior_View.jpg/1280px-Fukui_Prefectural_Varve_Museum_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/fukui-prefectural-varve-museum/thumbs/2.webp",
-    "w": 1046,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Interior view of Fukui Prefectural Varve Museum",
-    "credit": "Yasunorihayashi",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Varve_Museum_Interior_View.jpg",
-    "file": "File:Fukui Prefectural Varve Museum Interior View.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Varve_of_Lake_Suigetsu_in_Varve_Museum.jpg/1280px-Varve_of_Lake_Suigetsu_in_Varve_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/fukui-prefectural-varve-museum/thumbs/3.webp",
     "w": 1280,
@@ -351694,6 +351562,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Varve_of_Lake_Suigetsu_in_Varve_Museum.jpg",
     "file": "File:Varve of Lake Suigetsu in Varve Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Fukui_Prefectural_Varve_Museum_Interior_View.jpg/1280px-Fukui_Prefectural_Varve_Museum_Interior_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/fukui-prefectural-varve-museum/thumbs/2.webp",
+    "w": 1046,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior view of Fukui Prefectural Varve Museum",
+    "credit": "Yasunorihayashi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukui_Prefectural_Varve_Museum_Interior_View.jpg",
+    "file": "File:Fukui Prefectural Varve Museum Interior View.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Interior_view_of_Fukui_Prefectural_Varve_Museum.jpg/1280px-Interior_view_of_Fukui_Prefectural_Varve_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -351760,18 +351640,6 @@ window.BUILDINGS = [
     "file": "File:Nottingham Contemporary (1) - 31 July 2026.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Wuh%3F_%288222494464%29.jpg/1280px-Wuh%3F_%288222494464%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nottingham-contemporary/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Taken at the Nottingham Contemporary art gallery",
-    "credit": "Lee Haywood  from Wollaton, Nottingham, England",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wuh%3F_(8222494464).jpg",
-    "file": "File:Wuh? (8222494464).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Nottingham-Contemporary-entrance.jpg/1280px-Nottingham-Contemporary-entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nottingham-contemporary/thumbs/3.webp",
     "w": 1050,
@@ -351782,30 +351650,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Nottingham-Contemporary-entrance.jpg",
     "file": "File:Nottingham-Contemporary-entrance.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Contemporary_Tram_-_panoramio.jpg/1280px-Contemporary_Tram_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nottingham-contemporary/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Rembert Satow",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Contemporary_Tram_-_panoramio.jpg",
-    "file": "File:Contemporary Tram - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Under_the_tramway%2C_Nottingham_%28geograph_8028918%29.jpg/1280px-Under_the_tramway%2C_Nottingham_%28geograph_8028918%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nottingham-contemporary/thumbs/5.webp",
-    "w": 1280,
-    "h": 591,
-    "kind": "Context",
-    "caption": "Context · Looking from the end of Trent Street across Canal Street in the English city of Nottingham",
-    "credit": "Chris j wood",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Under_the_tramway,_Nottingham_(geograph_8028918).jpg",
-    "file": "File:Under the tramway, Nottingham (geograph 8028918).jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/a/a8/South_elevation_of_Nottingham_Contemporary_-_geograph.org.uk_-_2923659.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -351950,18 +351794,6 @@ window.BUILDINGS = [
     "file": "File:Das Casals Forum (Konzertsaal mit angegliedertem Studien- und Verwaltungszentrum), der Sitz der Kronberg Academy. ©Sára Timár.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Casals_Forum%2C_Kronberg%2C_with_sculpture.jpg/1280px-Casals_Forum%2C_Kronberg%2C_with_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casals-forum/thumbs/1.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Detail",
-    "caption": "Detail · Casals Forum, Kronberg, with sculpture",
-    "credit": "Gerda Arendt",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Casals_Forum,_Kronberg,_with_sculpture.jpg",
-    "file": "File:Casals Forum, Kronberg, with sculpture.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/LichtInstallationCasalsForumKronberg1.jpg/1280px-LichtInstallationCasalsForumKronberg1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/casals-forum/thumbs/2.webp",
     "w": 1280,
@@ -351986,18 +351818,6 @@ window.BUILDINGS = [
     "file": "File:LichtInstallationCasalsForumKronberg2.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Kronberg%2C_Casals_Forum_im_Bau.jpg/1280px-Kronberg%2C_Casals_Forum_im_Bau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casals-forum/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Kronberg, Casals Forum im Bau",
-    "credit": "Karsten Ratzke",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kronberg,_Casals_Forum_im_Bau.jpg",
-    "file": "File:Kronberg, Casals Forum im Bau.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Casals_Forum%2C_view_from_hall_to_foyer.jpg/1280px-Casals_Forum%2C_view_from_hall_to_foyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/casals-forum/thumbs/5.webp",
     "w": 1280,
@@ -352008,6 +351828,18 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Casals_Forum,_view_from_hall_to_foyer.jpg",
     "file": "File:Casals Forum, view from hall to foyer.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Casals_Forum%2C_Kronberg%2C_with_sculpture.jpg/1280px-Casals_Forum%2C_Kronberg%2C_with_sculpture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casals-forum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Detail",
+    "caption": "Detail · Casals Forum, Kronberg, with sculpture",
+    "credit": "Gerda Arendt",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casals_Forum,_Kronberg,_with_sculpture.jpg",
+    "file": "File:Casals Forum, Kronberg, with sculpture.jpg"
    }
   ],
   "has": [],
@@ -352060,18 +351892,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:BAM_Kamakura.jpg",
     "file": "File:BAM Kamakura.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/4th_Floor_%E8%93%84%E9%9F%B3%E6%A9%9F.jpg/1280px-4th_Floor_%E8%93%84%E9%9F%B3%E6%A9%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/british-antique-museum-kamakura/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Santa365",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:4th_Floor_%E8%93%84%E9%9F%B3%E6%A9%9F.jpg",
-    "file": "File:4th Floor 蓄音機.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/BAM%E5%A4%96%E8%A6%B3%E5%A4%9C.jpg/1280px-BAM%E5%A4%96%E8%A6%B3%E5%A4%9C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -352226,18 +352046,6 @@ window.BUILDINGS = [
     "file": "File:Paneum-4797 (02).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Backaldrin_Paneum_DJI_0202a.jpg/1280px-Backaldrin_Paneum_DJI_0202a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/paneum/thumbs/1.webp",
-    "w": 1280,
-    "h": 797,
-    "kind": "Context",
-    "caption": "Context · Bread Museum Paneum in Asten (Upper Austria)",
-    "credit": "Hans Koberger",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Backaldrin_Paneum_DJI_0202a.jpg",
-    "file": "File:Backaldrin Paneum DJI 0202a.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Paneum_-_muzeum_chleba.jpg/1280px-Paneum_-_muzeum_chleba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/paneum/thumbs/2.webp",
     "w": 1280,
@@ -352284,6 +352092,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Asten_-_Paneum,_Treppe.JPG",
     "file": "File:Asten - Paneum, Treppe.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Backaldrin_Paneum_DJI_0202a.jpg/1280px-Backaldrin_Paneum_DJI_0202a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/paneum/thumbs/1.webp",
+    "w": 1280,
+    "h": 797,
+    "kind": "Context",
+    "caption": "Context · Bread Museum Paneum in Asten (Upper Austria)",
+    "credit": "Hans Koberger",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Backaldrin_Paneum_DJI_0202a.jpg",
+    "file": "File:Backaldrin Paneum DJI 0202a.jpg"
    }
   ],
   "has": [],
@@ -352338,18 +352158,6 @@ window.BUILDINGS = [
     "file": "File:De Boekenberg - Spijkenisse -april 2012- (6970184928).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Heleen_van_Royen_tijdens_een_presentatie_in_Spijkenisse.jpg/1280px-Heleen_van_Royen_tijdens_een_presentatie_in_Spijkenisse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/boekenberg/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Heleen van Royen during a presentation in the Boekenberg in Spijkenisse over dementie",
-    "credit": "Peter van der Sluijs",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Heleen_van_Royen_tijdens_een_presentatie_in_Spijkenisse.jpg",
-    "file": "File:Heleen van Royen tijdens een presentatie in Spijkenisse.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Boekenberg_DSCF1908.JPG/1280px-Boekenberg_DSCF1908.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/boekenberg/thumbs/3.webp",
     "w": 1280,
@@ -352372,18 +352180,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Interieur_van_de_Boekenberg_met_veel_hout_Spijkenisse.jpg",
     "file": "File:Interieur van de Boekenberg met veel hout Spijkenisse.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/De_Boekenberg_-_Spijkenisse_-april_2012-_%286970205780%29.jpg/1280px-De_Boekenberg_-_Spijkenisse_-april_2012-_%286970205780%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/boekenberg/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · De Boekenberg - Spijkenisse {april 2012}",
-    "credit": "Esther Westerveld  from Haarlemmermeer, Nederland",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:De_Boekenberg_-_Spijkenisse_-april_2012-_(6970205780).jpg",
-    "file": "File:De Boekenberg - Spijkenisse -april 2012- (6970205780).jpg"
    }
   ],
   "has": [],
@@ -352478,18 +352274,6 @@ window.BUILDINGS = [
     "file": "File:Katowice NOSPR fasada 2026.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/At_Katowice_2024_437.jpg/1280px-At_Katowice_2024_437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/polish-national-radio-symphony-orchestra-building/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:At_Katowice_2024_437.jpg",
-    "file": "File:At Katowice 2024 437.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/NOSPR_%2860129p%29.jpg/1280px-NOSPR_%2860129p%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/polish-national-radio-symphony-orchestra-building/thumbs/3.webp",
     "w": 1116,
@@ -352502,18 +352286,6 @@ window.BUILDINGS = [
     "file": "File:NOSPR (60129p).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/NOSPR_-_panoramio_%281%29.jpg/1280px-NOSPR_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/polish-national-radio-symphony-orchestra-building/thumbs/4.webp",
-    "w": 927,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · NOSPR",
-    "credit": "*fiedler*",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:NOSPR_-_panoramio_(1).jpg",
-    "file": "File:NOSPR - panoramio (1).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/NOSPR_red_bricks_%2860137%29.jpg/1280px-NOSPR_red_bricks_%2860137%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/polish-national-radio-symphony-orchestra-building/thumbs/5.webp",
     "w": 865,
@@ -352524,6 +352296,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:NOSPR_red_bricks_(60137).jpg",
     "file": "File:NOSPR red bricks (60137).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/At_Katowice_2024_437.jpg/1280px-At_Katowice_2024_437.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/polish-national-radio-symphony-orchestra-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Photograph by  Mike Peel  ( www.mikepeel.net ).",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:At_Katowice_2024_437.jpg",
+    "file": "File:At Katowice 2024 437.jpg"
    }
   ],
   "has": [],
@@ -352616,42 +352400,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:CUBE_-_Carbonhaus_der_TU_Dresden.jpg",
     "file": "File:CUBE - Carbonhaus der TU Dresden.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/20220928..Carbonbetonhaus.Dresden.-011.jpg/1280px-20220928..Carbonbetonhaus.Dresden.-011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cube/thumbs/1.webp",
-    "w": 821,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Dresden.Carbonbetonhaus: In Dresden wird das weltweit erste funktionsfähige Carbonbeton-Haus entstehen",
-    "credit": "Bybbisch94, Christian Gebhardt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20220928..Carbonbetonhaus.Dresden.-011.jpg",
-    "file": "File:20220928..Carbonbetonhaus.Dresden.-011.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/20220928..Carbonbetonhaus.Dresden.-012.jpg/1280px-20220928..Carbonbetonhaus.Dresden.-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cube/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Dresden.Carbonbetonhaus: In Dresden wird das weltweit erste funktionsfähige Carbonbeton-Haus entstehen",
-    "credit": "Bybbisch94, Christian Gebhardt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20220928..Carbonbetonhaus.Dresden.-012.jpg",
-    "file": "File:20220928..Carbonbetonhaus.Dresden.-012.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/20221012.Carbonbetonhaus.Dresden.-011.jpg/1280px-20221012.Carbonbetonhaus.Dresden.-011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/cube/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Dresden.Carbonbetonhaus: In Dresden ist das weltweit erste funktionsfähige Carbonbeton-Haus entstandenn",
-    "credit": "Bybbisch94, Christian Gebhardt",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:20221012.Carbonbetonhaus.Dresden.-011.jpg",
-    "file": "File:20221012.Carbonbetonhaus.Dresden.-011.jpg"
    }
   ],
   "has": [],
@@ -352886,30 +352634,6 @@ window.BUILDINGS = [
     "file": "File:ArnhemRozet23042016.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Rozet%2C_Neutelings_Riedijk_Architecten-_Beste_Gebouw_van_het_Jaar_2014_%2814240613111%29_%282%29.jpg/1280px-Rozet%2C_Neutelings_Riedijk_Architecten-_Beste_Gebouw_van_het_Jaar_2014_%2814240613111%29_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rozet/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Rozet, Neutelings Riedijk Architecten: Beste Gebouw van het Jaar 2014",
-    "credit": "Bond van Nederlandse Architecten",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Rozet,_Neutelings_Riedijk_Architecten-_Beste_Gebouw_van_het_Jaar_2014_(14240613111)_(2).jpg",
-    "file": "File:Rozet, Neutelings Riedijk Architecten- Beste Gebouw van het Jaar 2014 (14240613111) (2).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/WMNWEU_2026_showcase.jpg/1280px-WMNWEU_2026_showcase.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/rozet/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Showcase at the end of the WMNWEU hackathon 2026 at the auditorium on the fifth floor of the Rozet in Arnhem",
-    "credit": "Ciell",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:WMNWEU_2026_showcase.jpg",
-    "file": "File:WMNWEU 2026 showcase.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Binnenkant_Rozet.JPG/1280px-Binnenkant_Rozet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/rozet/thumbs/5.webp",
     "w": 930,
@@ -353008,18 +352732,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Toyama_City_Library_2019-12-09_(1)_sa.jpg",
     "file": "File:Toyama City Library 2019-12-09 (1) sa.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/TOYAMA_Kirari_2019-12-09_%282%29_sa.jpg/1280px-TOYAMA_Kirari_2019-12-09_%282%29_sa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/toyama-kirari/thumbs/5.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Araisyohei",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:TOYAMA_Kirari_2019-12-09_(2)_sa.jpg",
-    "file": "File:TOYAMA Kirari 2019-12-09 (2) sa.jpg"
    }
   ],
   "has": [],
@@ -353072,54 +352784,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Echigo_Tsumari_Art_Field_Matsudai_-_28805626832.jpg",
     "file": "File:Echigo Tsumari Art Field Matsudai - 28805626832.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Matsudai_Castel_2008.jpg/1280px-Matsudai_Castel_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/matsudai-nohbutai/thumbs/2.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior · Matsudai Castel in Tookamachi, Niigata Japan",
-    "credit": "Soica2001  (  talk  )",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Matsudai_Castel_2008.jpg",
-    "file": "File:Matsudai Castel 2008.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%E6%96%B0%E6%BD%9F_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89_%E5%A4%A7%E5%9C%B0%E8%97%9D%E8%A1%93%E7%A5%AD_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_Echigo-Tsumari_Art_Field_-_44430435421.jpg/1280px-%E6%96%B0%E6%BD%9F_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89_%E5%A4%A7%E5%9C%B0%E8%97%9D%E8%A1%93%E7%A5%AD_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_Echigo-Tsumari_Art_Field_-_44430435421.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/matsudai-nohbutai/thumbs/3.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ann Lee",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E6%BD%9F_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89_%E5%A4%A7%E5%9C%B0%E8%97%9D%E8%A1%93%E7%A5%AD_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_Echigo-Tsumari_Art_Field_-_44430435421.jpg",
-    "file": "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field - 44430435421.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E6%96%B0%E6%BD%9F_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89_%E5%A4%A7%E5%9C%B0%E8%97%9D%E8%A1%93%E7%A5%AD_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_Echigo-Tsumari_Art_Field_%2829491907377%29.jpg/1280px-%E6%96%B0%E6%BD%9F_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89_%E5%A4%A7%E5%9C%B0%E8%97%9D%E8%A1%93%E7%A5%AD_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_Echigo-Tsumari_Art_Field_%2829491907377%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/matsudai-nohbutai/thumbs/4.webp",
-    "w": 1280,
-    "h": 720,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Ann Lee",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E6%BD%9F_%E8%B6%8A%E5%BE%8C%E5%A6%BB%E6%9C%89_%E5%A4%A7%E5%9C%B0%E8%97%9D%E8%A1%93%E7%A5%AD_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD_Echigo-Tsumari_Art_Field_(29491907377).jpg",
-    "file": "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field (29491907377).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%E8%A5%BF%E6%B4%8B%E6%96%99%E7%90%86%E5%BA%97_%E5%B1%B1%E7%8C%AB%E8%BB%92_-_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD%E3%81%AE%E9%87%8C_%E7%99%BD%E4%BA%95%E7%BE%8E%E7%A9%82_%28283698513%29.jpg/1280px-%E8%A5%BF%E6%B4%8B%E6%96%99%E7%90%86%E5%BA%97_%E5%B1%B1%E7%8C%AB%E8%BB%92_-_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD%E3%81%AE%E9%87%8C_%E7%99%BD%E4%BA%95%E7%BE%8E%E7%A9%82_%28283698513%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/matsudai-nohbutai/thumbs/5.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Kennosuke Yamaguchi",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E6%B4%8B%E6%96%99%E7%90%86%E5%BA%97_%E5%B1%B1%E7%8C%AB%E8%BB%92_-_%E5%A4%A7%E5%9C%B0%E3%81%AE%E8%8A%B8%E8%A1%93%E7%A5%AD%E3%81%AE%E9%87%8C_%E7%99%BD%E4%BA%95%E7%BE%8E%E7%A9%82_(283698513).jpg",
-    "file": "File:西洋料理店 山猫軒 - 大地の芸術祭の里 白井美穂 (283698513).jpg"
    }
   ],
   "has": [],
@@ -353276,42 +352940,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Zenith_de_Grand_Quevilly.jpg",
     "file": "File:Zenith de Grand Quevilly.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Blackrain_%28groupe%29_en_premi%C3%A8re_partie_de_Scorpions_au_Z%C3%A9nith_de_Rouen_en_Novembre_2011.jpg/1280px-Blackrain_%28groupe%29_en_premi%C3%A8re_partie_de_Scorpions_au_Z%C3%A9nith_de_Rouen_en_Novembre_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zenith-de-rouen/thumbs/1.webp",
-    "w": 1280,
-    "h": 973,
-    "kind": "Exterior",
-    "caption": "Exterior · Blackrain (groupe) en première partie de Scorpions au Zénith de Rouen en Novembre 2011",
-    "credit": "Tilly antoine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blackrain_(groupe)_en_premi%C3%A8re_partie_de_Scorpions_au_Z%C3%A9nith_de_Rouen_en_Novembre_2011.jpg",
-    "file": "File:Blackrain (groupe) en première partie de Scorpions au Zénith de Rouen en Novembre 2011.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Blackrain_au_Z%C3%A9nith_de_Rouen_en_2011.jpg/1280px-Blackrain_au_Z%C3%A9nith_de_Rouen_en_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zenith-de-rouen/thumbs/2.webp",
-    "w": 1280,
-    "h": 732,
-    "kind": "Exterior",
-    "caption": "Exterior · Blackrain au Zénith de Rouen en 2011",
-    "credit": "Tilly antoine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blackrain_au_Z%C3%A9nith_de_Rouen_en_2011.jpg",
-    "file": "File:Blackrain au Zénith de Rouen en 2011.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Blackrain_en_premi%C3%A8re_partie_de_Scorpions_au_Z%C3%A9nith_de_Rouen_en_2011.jpg/1280px-Blackrain_en_premi%C3%A8re_partie_de_Scorpions_au_Z%C3%A9nith_de_Rouen_en_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/zenith-de-rouen/thumbs/3.webp",
-    "w": 1280,
-    "h": 699,
-    "kind": "Exterior",
-    "caption": "Exterior · Blackrain en première partie de Scorpions au Zénith de Rouen en 2011",
-    "credit": "Tilly antoine",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Blackrain_en_premi%C3%A8re_partie_de_Scorpions_au_Z%C3%A9nith_de_Rouen_en_2011.jpg",
-    "file": "File:Blackrain en première partie de Scorpions au Zénith de Rouen en 2011.jpg"
    }
   ],
   "has": [],
@@ -353922,30 +353550,6 @@ window.BUILDINGS = [
     "file": "File:Mosaic Tile Museum Tajimi exterior ac.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kasahara_mosaic_tile_art_2019-12_ac_%284%29.jpg/1280px-Kasahara_mosaic_tile_art_2019-12_ac_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosaic-tile-museum-tajimi/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Asturio Cantabrio",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kasahara_mosaic_tile_art_2019-12_ac_(4).jpg",
-    "file": "File:Kasahara mosaic tile art 2019-12 ac (4).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kasahara_mosaic_tile_art_2019-12_ac_%285%29.jpg/1280px-Kasahara_mosaic_tile_art_2019-12_ac_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/mosaic-tile-museum-tajimi/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Asturio Cantabrio",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kasahara_mosaic_tile_art_2019-12_ac_(5).jpg",
-    "file": "File:Kasahara mosaic tile art 2019-12 ac (5).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tajimi_mosaic_tile_museum_%2826953343843%29.jpg/1280px-Tajimi_mosaic_tile_museum_%2826953343843%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/mosaic-tile-museum-tajimi/thumbs/3.webp",
     "w": 1280,
@@ -354254,42 +353858,6 @@ window.BUILDINGS = [
     "file": "File:Maritime Centre Vellamo, Kotka (52614726611).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Maritime_Centre_Vellamo%2C_Kotka_%2852614098507%29.jpg/1280px-Maritime_Centre_Vellamo%2C_Kotka_%2852614098507%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maritime-centre-vellamo/thumbs/2.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ninara",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Maritime_Centre_Vellamo,_Kotka_(52614098507).jpg",
-    "file": "File:Maritime Centre Vellamo, Kotka (52614098507).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Old_bell_in_Vellamo.jpg/1280px-Old_bell_in_Vellamo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maritime-centre-vellamo/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Museum Maritime Centre Vellamo, Exhibition of subjects from sinked ships",
-    "credit": "Olga1969",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Old_bell_in_Vellamo.jpg",
-    "file": "File:Old bell in Vellamo.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Fresnel_lens_Vellamo_1.JPG/1280px-Fresnel_lens_Vellamo_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maritime-centre-vellamo/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Fresnel lens in the entrance hall of maritime centre Vellamo",
-    "credit": "MKFI",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Fresnel_lens_Vellamo_1.JPG",
-    "file": "File:Fresnel lens Vellamo 1.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Boat_Hall_in_Vellamo_Kotka_Finland.JPG/1280px-Boat_Hall_in_Vellamo_Kotka_Finland.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/maritime-centre-vellamo/thumbs/5.webp",
     "w": 1280,
@@ -354300,23 +353868,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Boat_Hall_in_Vellamo_Kotka_Finland.JPG",
     "file": "File:Boat Hall in Vellamo Kotka Finland.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/SS_Arcturus_model.jpg/1280px-SS_Arcturus_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/maritime-centre-vellamo/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · A model by Tomi Isopahkala of S/S Arcturus in Maritime Museum of Finland",
-    "credit": "photo:  MattiPaavola , model: Tomi Isopahkala",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:SS_Arcturus_model.jpg",
-    "file": "File:SS Arcturus model.jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {

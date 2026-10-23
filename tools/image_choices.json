@@ -33921,13 +33921,21 @@
    "File:Hudson Yards Plaza March 2019 18.jpg",
    "File:At New York City 2023 021.jpg",
    "File:At New York City 2023 020.jpg"
+  ],
+  "skip": [
+   "File:Hudson Yards The Vessel Snowstorm 2020 (50732620808).jpg"
   ]
  },
  "naturbornholm": {
   "category": "Category:NaturBornholm",
   "add": [
-   "File:NaturBornholm Aakirkeby 001.jpg",
-   "File:Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG"
+   "File:Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG",
+   "File:NaturBornholm Aakirkeby 001.jpg"
+  ],
+  "skip": [
+   "File:Paleosuchus palpebrosus Trachemys scripta elegans.jpg",
+   "File:NaturBornholm Huayangosaurus.jpg",
+   "File:Skamieniałe dno morskie - panorama - panoramio.jpg"
   ]
  },
  "beaty-biodiversity-museum": {
@@ -33936,6 +33944,10 @@
    "File:Beaty Biodiversity Museum.jpg",
    "File:Beaty Biodiversity Museum 1.jpg",
    "File:Beaty Biodiversity Museum exterior 2.JPG"
+  ],
+  "skip": [
+   "File:Cone snail shells (48308112027).jpg",
+   "File:GardenPea.JPG"
   ]
  },
  "kiruna-city-hall": {
@@ -33948,6 +33960,9 @@
   "category": "Category:Knarvik kirke",
   "add": [
    "File:RRA Knarvik-17©Hundven-Clements Photography.jpg"
+  ],
+  "skip": [
+   "File:Knarvik kyrkje beingrind.JPG"
   ]
  },
  "museum-of-glass": {
@@ -33956,6 +33971,10 @@
    "File:Museum of Glass, Washington.jpg",
    "File:Museum of Glass 1 (Tacoma, Washington).jpg",
    "File:Museum of Glass (Tacoma, Washington).jpg"
+  ],
+  "skip": [
+   "File:Color block living (24155743389).jpg",
+   "File:Tacoma Museum of Glass Bridge Ceiling Art - panoramio.jpg"
   ]
  },
  "seacity-museum": {
@@ -33977,6 +33996,9 @@
   "category": "Category:Phoenix Center, Beijing",
   "add": [
    "File:Phoenix Center, Beijing 1.jpg"
+  ],
+  "skip": [
+   "File:Phoenix Center 20250107 134440.jpg"
   ]
  },
  "fukui-prefectural-varve-museum": {
@@ -33992,6 +34014,11 @@
   "add": [
    "File:Nottingham Contemporary - 31 July 2026.jpg",
    "File:Nottingham Contemporary (1) - 31 July 2026.jpg"
+  ],
+  "skip": [
+   "File:Wuh? (8222494464).jpg",
+   "File:Contemporary Tram - panoramio.jpg",
+   "File:Under the tramway, Nottingham (geograph 8028918).jpg"
   ]
  },
  "zaryadye-concert-hall": {
@@ -34007,6 +34034,9 @@
   "add": [
    "File:Das Casals Forum (Konzertsaal mit angegliedertem Studien- und Verwaltungszentrum), der Sitz der Kronberg Academy. ©Sára Timár.jpg",
    "File:Casals Forum, Kronberg, with sculpture.jpg"
+  ],
+  "skip": [
+   "File:Kronberg, Casals Forum im Bau.jpg"
   ]
  },
  "british-antique-museum-kamakura": {
@@ -34014,6 +34044,9 @@
   "add": [
    "File:BAM外観.jpg",
    "File:BAM Kamakura.jpg"
+  ],
+  "skip": [
+   "File:4th Floor 蓄音機.jpg"
   ]
  },
  "fjordenhus": {
@@ -34038,6 +34071,10 @@
    "File:De boekenberg grote bibliotheek in Spijkenisse.jpg",
    "File:De Boekenberg - Spijkenisse -april 2012- (6970184928).jpg",
    "File:De Boekenberg - Spijkenisse -april 2012- (6970187590).jpg"
+  ],
+  "skip": [
+   "File:Heleen van Royen tijdens een presentatie in Spijkenisse.jpg",
+   "File:De Boekenberg - Spijkenisse -april 2012- (6970205780).jpg"
   ]
  },
  "valer-church": {
@@ -34052,6 +34089,9 @@
    "File:Katowice NOSPR fasada 2026 (2).jpg",
    "File:Katowice NOSPR fasada 2026.jpg",
    "File:At Katowice 2024 437.jpg"
+  ],
+  "skip": [
+   "File:NOSPR - panoramio (1).jpg"
   ]
  },
  "chiesa-di-san-giacomo-apostolo": {
@@ -34068,6 +34108,11 @@
    "File:Carbon Concete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 11.jpg",
    "File:CUBE - Carbonhaus der TU Dresden.jpg",
    "File:Carbon Concrete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 9.jpg"
+  ],
+  "skip": [
+   "File:20220928..Carbonbetonhaus.Dresden.-011.jpg",
+   "File:20220928..Carbonbetonhaus.Dresden.-012.jpg",
+   "File:20221012.Carbonbetonhaus.Dresden.-011.jpg"
   ]
  },
  "byodo-in-museum-hoshokan": {
@@ -34093,6 +34138,10 @@
   "category": "Category:Rozet (Arnhem)",
   "add": [
    "File:Rozet-building-arnhem.JPG"
+  ],
+  "skip": [
+   "File:Rozet, Neutelings Riedijk Architecten- Beste Gebouw van het Jaar 2014 (14240613111) (2).jpg",
+   "File:WMNWEU 2026 showcase.jpg"
   ]
  },
  "toyama-kirari": {
@@ -34100,12 +34149,21 @@
   "add": [
    "File:TOYAMA KIRARI exterior in the morning ac (3).jpg",
    "File:TOYAMA KIRARI exterior in the morning ac (4).jpg"
+  ],
+  "skip": [
+   "File:TOYAMA Kirari 2019-12-09 (2) sa.jpg"
   ]
  },
  "matsudai-nohbutai": {
   "category": "Category:Matsudai Nohbutai Field Museum",
   "add": [
    "File:Matsudai Nohbutai.jpg"
+  ],
+  "skip": [
+   "File:Matsudai Castel 2008.jpg",
+   "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field - 44430435421.jpg",
+   "File:新潟 越後妻有 大地藝術祭 大地の芸術祭 Echigo-Tsumari Art Field (29491907377).jpg",
+   "File:西洋料理店 山猫軒 - 大地の芸術祭の里 白井美穂 (283698513).jpg"
   ]
  },
  "cite-des-arts": {
@@ -34125,6 +34183,11 @@
   "category": "Category:Zénith de Rouen",
   "add": [
    "File:Zenith de Grand Quevilly.jpg"
+  ],
+  "skip": [
+   "File:Blackrain (groupe) en première partie de Scorpions au Zénith de Rouen en Novembre 2011.jpg",
+   "File:Blackrain au Zénith de Rouen en 2011.jpg",
+   "File:Blackrain en première partie de Scorpions au Zénith de Rouen en 2011.jpg"
   ]
  },
  "lourdeskapelle-salgenreute": {
@@ -34183,6 +34246,10 @@
   "category": "Category:MOSAIC TILE MUSEUM Tajimi",
   "add": [
    "File:Mosaic Tile Museum Tajimi exterior ac.jpg"
+  ],
+  "skip": [
+   "File:Kasahara mosaic tile art 2019-12 ac (4).jpg",
+   "File:Kasahara mosaic tile art 2019-12 ac (5).jpg"
   ]
  },
  "maison-folie-de-wazemmes": {
@@ -34217,6 +34284,12 @@
   "add": [
    "File:Sea museum Vellamo.JPG",
    "File:Maritime Centre Vellamo, Kotka (52614726611).jpg"
+  ],
+  "skip": [
+   "File:Maritime Centre Vellamo, Kotka (52614098507).jpg",
+   "File:Old bell in Vellamo.jpg",
+   "File:Fresnel lens Vellamo 1.JPG",
+   "File:SS Arcturus model.jpg"
   ]
  },
  "iki-city-ikikoku-museum": {
