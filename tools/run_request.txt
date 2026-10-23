@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool11.json --n 300 --leads
-Haiku batch 11: under-represented regions.
+python -u tools/fetch_portraits.py
+Portraits: refresh after round 5 and the new firms' founders.
