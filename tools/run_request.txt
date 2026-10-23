@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool10.json --n 300 --leads
-Haiku batch 10: 300 buildings from 2000 on.
+python -u tools/portrait_sheet.py tools/portraits_found_r5a.json tools/portraits_found_r5c.json
+Portrait sheet: founders and architects found in round 5.
