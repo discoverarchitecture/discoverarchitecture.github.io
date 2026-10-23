@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool9.json --n 139 --leads
-Haiku pipeline, ninth pool: the Pritzker winners buildings not yet on the wall.
+python -u tools/held_years.py
+Fix-up round: sourced years for the held buildings.
