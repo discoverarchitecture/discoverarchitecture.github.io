@@ -1,329 +1,174 @@
 {
  "keep_ok": [
-  "chiesa-di-san-giacomo-apostolo",
-  "cube",
-  "byodo-in-museum-hoshokan",
-  "church-of-santa-maria-della-pace",
-  "borgo-citta-nuova",
-  "rozet",
-  "toyama-kirari",
-  "matsudai-nohbutai",
-  "cite-des-arts",
-  "viborg-town-hall",
-  "zenith-de-rouen",
-  "lourdeskapelle-salgenreute",
-  "herman-teirlinck-building",
-  "ibm-studios",
-  "sandels-culture-house",
-  "gerald-ratner-athletics-center",
-  "deloitte-building-christchurch",
-  "mcnamara-alumni-center",
-  "zentralgebaeude-leuphana",
-  "trinity-river-audubon-center",
-  "mosaic-tile-museum-tajimi",
-  "maison-folie-de-wazemmes",
-  "monastery-of-siloe",
-  "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya",
-  "centre-for-interactive-research-on-sustainability"
+  "palacio-diaz",
+  "temple-of-saint-anthony-of-padua",
+  "edificio-ariztia",
+  "edificio-do-banco-paulista-do-comercio",
+  "tanghalang-pambansa",
+  "edificio-guardiola",
+  "galeria-guemes",
+  "ricardo-rojas-house-museum-research-institute",
+  "coliseo-la-tortuga"
  ],
  "ordinary": [
-  "viborg-town-hall",
-  "zenith-de-rouen",
-  "herman-teirlinck-building",
-  "deloitte-building-christchurch",
-  "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya"
+  "palacio-diaz",
+  "edificio-ariztia",
+  "edificio-do-banco-paulista-do-comercio",
+  "edificio-guardiola",
+  "coliseo-la-tortuga"
  ],
  "keep_fix": [
   {
-   "id": "borgo-citta-nuova",
-   "field": "year",
-   "haiku": null,
-   "should_be": 2002,
-   "why": "Lead gives no year; prep's year 2002 fits the Poundbury-era build the lead mentions."
-  },
-  {
-   "id": "borgo-citta-nuova",
+   "id": "palacio-diaz",
    "field": "by",
-   "haiku": "Léon Krier",
-   "should_be": "Léon Krier, Gabriele Tagliaventi",
-   "why": "The lead names both as designers."
+   "haiku": "Gonzalo Vázquez Barrière",
+   "should_be": "Gonzalo Vázquez Barrière, Rafael Ruano",
+   "why": "The (German) lead names both architects of the 1929 building; Wikidata lists only one."
   },
   {
-   "id": "rozet",
-   "field": "by",
-   "haiku": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
-   "should_be": "Neutelings Riedijk Architects",
-   "why": "Haiku listed the firm and its two partners; the wall credits the firm only."
-  },
-  {
-   "id": "viborg-town-hall",
-   "field": "name",
-   "haiku": "Viborg town hall",
-   "should_be": "Viborg Town Hall",
-   "why": "Proper-name capitalisation."
-  },
-  {
-   "id": "zenith-de-rouen",
-   "field": "year",
-   "haiku": null,
-   "should_be": 2001,
-   "why": "No year in the lead; prep's year 2001 is plausible."
-  },
-  {
-   "id": "lourdeskapelle-salgenreute",
-   "field": "year",
-   "haiku": null,
-   "should_be": 2016,
-   "why": "No year in the lead; prep's year 2016 is plausible."
-  },
-  {
-   "id": "lourdeskapelle-salgenreute",
+   "id": "palacio-diaz",
    "field": "concepts",
    "haiku": [
-    "Brick",
-    "Landscape",
+    "Facade as skin",
+    "Public space",
+    "Cluster"
+   ],
+   "should_be": [
+    "Facade as skin",
+    "Geometry",
+    "Public space"
+   ],
+   "why": "'Cluster' does not fit a single stepped Art Deco block with a shopping passage; 'Geometry' fits the stepped massing in the photos."
+  },
+  {
+   "id": "edificio-ariztia",
+   "field": "concepts",
+   "haiku": [
+    "Structure as expression",
+    "Exposed concrete",
     "Geometry"
    ],
    "should_be": [
-    "Timber",
-    "Landscape",
-    "Geometry"
+    "Structure as expression",
+    "Geometry",
+    "Facade as skin"
    ],
-   "why": "The chapel is a timber-and-shingle volume; 'Brick' is not supported by the lead or the photos."
+   "why": "The lead says reinforced concrete structure, but the facades are plastered, so 'Exposed concrete' is wrong; the photos show a wedge-shaped block with a rendered facade."
   },
   {
-   "id": "herman-teirlinck-building",
+   "id": "galeria-guemes",
    "field": "year",
    "haiku": null,
-   "should_be": 2017,
-   "why": "No year in the lead; prep's year 2017 is plausible."
+   "should_be": 1915,
+   "why": "Lead gives only the 1913 design date; prep's year 1915 is the plausible completion year, and the brief says to use prep's year then."
   },
   {
-   "id": "sandels-culture-house",
-   "field": "name",
-   "haiku": "Sandels culture house",
-   "should_be": "Sandels Culture House",
-   "why": "Proper-name capitalisation (prep label)."
+   "id": "ricardo-rojas-house-museum-research-institute",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1929,
+   "why": "Commissioned 1927; the lead says Rojas lived in the house from 1929, and prep's year is 1929, which is plausible for completion."
   },
   {
-   "id": "sandels-culture-house",
-   "field": "movement",
-   "haiku": "Regionalism",
-   "should_be": "Late modernism",
-   "why": "Lead places it in Leiviskä's 'abstract modernist line'; Regionalism is not supported."
-  },
-  {
-   "id": "sandels-culture-house",
+   "id": "ricardo-rojas-house-museum-research-institute",
    "field": "concepts",
    "haiku": [
-    "Brick",
-    "Public space",
-    "Community"
+    "Facade as skin",
+    "Detail",
+    "Sculptural form"
    ],
    "should_be": [
-    "Public space",
-    "Community",
-    "Light & shadow"
+    "Courtyard",
+    "Detail",
+    "Facade as skin"
    ],
-   "why": "Lead stresses the open shared lobby and large street windows; 'Brick' is not supported."
+   "why": "The photos (and the house's fame) are about the patio and its carved facade, not a sculptural form."
   },
   {
-   "id": "mcnamara-alumni-center",
-   "field": "movement",
-   "haiku": "Deconstructivism",
-   "should_be": "Contemporary",
-   "why": "Lead gives no deconstructivist link; Predock's work is not usually filed there."
-  },
-  {
-   "id": "trinity-river-audubon-center",
+   "id": "tanghalang-pambansa",
    "field": "year",
    "haiku": null,
-   "should_be": 2008,
-   "why": "No year in the lead; prep's year 2008 is plausible."
+   "should_be": 1969,
+   "why": "Lead gives no year; prep's year 1969 is plausible (Cultural Center of the Philippines theatre opened 1969)."
   },
   {
-   "id": "maison-folie-de-wazemmes",
-   "field": "name",
-   "haiku": "Maison folie de Wazemmes",
-   "should_be": "Maison Folie de Wazemmes",
-   "why": "Proper-name capitalisation (prep label)."
-  },
-  {
-   "id": "monastery-of-siloe",
+   "id": "coliseo-la-tortuga",
    "field": "year",
    "haiku": null,
-   "should_be": 2012,
-   "why": "No year in the lead (only '21st century'); prep's year 2012 is plausible."
+   "should_be": 1980,
+   "why": "Lead gives no year; prep's year 1980 is plausible, so it is used instead of null."
   },
   {
-   "id": "monastery-of-siloe",
-   "field": "concepts",
-   "haiku": [
-    "Planting",
-    "Landscape",
-    "Community"
-   ],
-   "should_be": [
-    "Climate response",
-    "Timber",
-    "Landscape"
-   ],
-   "why": "Lead stresses green architecture; photos show timber and stone, not planting."
-  },
-  {
-   "id": "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya",
-   "field": "name",
-   "haiku": "Edificio de la Delegación Territorial de Salud y Consumo de Vizcaya",
-   "should_be": "Sede de Osakidetza, Bilbao",
-   "why": "Shorter proper name (prep label) instead of the long Spanish article title."
+   "id": "edificio-guardiola",
+   "field": "features",
+   "haiku": "Functionalist office building for Banco de México, built 1947 on a site with several historical stages.",
+   "should_be": "Functionalist office building by Carlos Obregón Santacilia for Banco de México, built in 1947.",
+   "why": "Clearer; the 'site with several historical stages' clause is a filler from the lead."
   }
  ],
- "keep_wrong": [
-  {
-   "id": "kuwana-media-live",
-   "why": "Ordinary library; the only 'first' in the lead is the PFI funding scheme, not a design reason; AXS Satow is not a known name abroad; the main photo is dominated by signage."
-  },
-  {
-   "id": "danube-house",
-   "why": "Ordinary office; the lead's low-energy note is not a design reason; the first photo Haiku chose is a side view of a corner."
-  },
-  {
-   "id": "cherry-groce-memorial-pavilion",
-   "why": "A memorial structure rather than a building, lead says nothing about its design."
-  },
-  {
-   "id": "teatro-politeama",
-   "why": "Ordinary theatre; lead gives only history; one of Portoghesi's minor works. Dropped to keep ordinary types under 20%."
-  },
-  {
-   "id": "kulturoeen",
-   "why": "Cultural centre whose lead lists only the programme; photo is a plain overcast view. Dropped to keep ordinary types under 20%."
-  },
-  {
-   "id": "museum-on-echigo-tsumari-monet",
-   "why": "No usable main photo: the main shows a sign and mound, the rest are courtyard interiors or details; lead gives no design reason."
-  },
-  {
-   "id": "amare",
-   "why": "Concert hall and conservatory complex; lead is history and tenants only; Coenen is not an internationally known name. Wall has City Hall and Central Library, The Hague 92 m away (a different building)."
-  },
-  {
-   "id": "2-marsham-street",
-   "why": "Ordinary government office; lead gives only history of the departments."
-  },
-  {
-   "id": "san-massimiliano-kolbe-church",
-   "why": "The photos show a neoclassical facade with statues, not a Gregotti design, so the photos appear to be of the wrong church; lead gives no design reason."
-  },
-  {
-   "id": "one-hudson-yards",
-   "why": "Ordinary luxury housing tower; brick cladding is the only note; Davis Brody Bond are not a known name abroad."
-  },
-  {
-   "id": "forum-evolucion",
-   "why": "Congress palace; lead is history and purpose only. Navarro Baldeweg already has three buildings on the wall. Dropped to keep ordinary types under 20%."
-  },
-  {
-   "id": "holy-trinity-church",
-   "why": "Lead gives only the arson, rebuild and a design competition; K2S is not an internationally known name. Photo is strong, so worth a second look if the owner wants more churches."
-  },
-  {
-   "id": "urbis",
-   "why": "Lead gives only the opening and redevelopment; Ian Simpson is not internationally known and has no building on the wall; building is now a football museum."
-  },
-  {
-   "id": "fourth-and-madison-building",
-   "why": "Ordinary office tower; BOMA award and rooftop garden are not design reasons; Haiku's cantilever claim is not in the first part of the lead."
-  },
-  {
-   "id": "palacio-de-congresos-y-auditorio-de-navarra",
-   "why": "Congress hall; lead is size, cost and use; Mangado has no other building on the wall. Dropped to keep ordinary types under 20%."
-  },
-  {
-   "id": "hobby-center-for-the-performing-arts",
-   "why": "Theatre; the glass wall note is thin and the Herts & Tallant link is not enough; ordinary type budget."
-  },
-  {
-   "id": "ostre-porsgrunn-church",
-   "why": "Lead gives only the rebuild after arson and the 'ugliest church' vote; Surnevik is not an internationally known name."
-  },
-  {
-   "id": "laajasalo-church",
-   "why": "Lead gives only a competition and timber construction; architects not known abroad; the main photo is a tower fragment and the better photo is a hazy street view."
-  },
-  {
-   "id": "kawagoe-city-art-museum",
-   "why": "Lead is one line (a municipal museum); Sakakura Associates is the firm, not Junzo Sakakura, who died in 1969."
-  },
-  {
-   "id": "john-e-jaqua-center-for-student-athletes",
-   "why": "Lead says only that it is a learning centre for athletes; ZGF is a large firm but the lead gives no design reason. Photos are good if the owner wants it as an exception."
-  },
-  {
-   "id": "building-of-the-thuringian-state-parliament",
-   "why": "Ordinary parliament annexe; architect not known abroad; lead describes layout without a design reason."
-  },
-  {
-   "id": "state-theatre-centre-of-western-australia",
-   "why": "Ordinary theatre; lead gives only the venue and the actor it is named after; no other Kerry Hill building on the wall; first photo is at night."
-  },
-  {
-   "id": "masala-church",
-   "why": "Lead describes the interior decoration, not the building's design; architect not known abroad."
-  }
- ],
+ "keep_wrong": [],
  "main_photo_wrong": [
   {
-   "id": "cube",
-   "better_file_or_null": "File:Carbon Concete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 11.jpg",
-   "why": "Wikidata's main photo is an 8300x2500 strip with the building small at the left; Bild 11 (public domain) shows the whole curved-roof building in daylight. Put it first, then Bild 9 and the main photo."
+   "id": "botter-appartement",
+   "better_file_or_null": null,
+   "why": "The only whole-street shot (File:Botter Apartment.jpg) is a narrow vertical street scene with pedestrians and the building cut off; every other photo is a facade or ironwork detail. Without a clear exterior it cannot be kept (Haiku listed only that one photo). Also name: use 'Botter Apartment' (Commons name) rather than the Dutch title; prep's year 1901 is the plausible year since the lead says only 'the 1900s'."
   },
   {
-   "id": "zenith-de-rouen",
-   "better_file_or_null": "File:Zenith de Grand Quevilly.jpg",
-   "why": "The main photo is a dark silhouette through trees; this one shows the whole silver oval in daylight."
+   "id": "galeria-guemes",
+   "better_file_or_null": "File:Galería Güemes Cúpula torreta 01.jpg",
+   "why": "Haiku's first photo (Galeria Güemes desde Bencich.jpg) is a close crop of the tower and top floors; prep's main photo (CC BY-SA 4.0) shows the whole building with its tower in daylight."
   },
   {
-   "id": "ibm-studios",
-   "better_file_or_null": "File:Unicredit Pavilon.JPG",
-   "why": "The main photo has a large IBM sign and cranes; this public-domain shot shows the whole timber pavilion without signage. Use it first."
+   "id": "coliseo-la-tortuga",
+   "better_file_or_null": "File:Coliseo La Tortuga (7118487397).jpg",
+   "why": "Haiku's photo (6972409366) shows the arena small and far behind a palm and pavement; prep's main photo (CC BY-SA 2.0) shows the whole turtle-shell roof close up. A large totem sculpture stands at its left edge but the arena is the subject."
   }
  ],
  "rescued": [
   {
-   "id": "house-okamura",
-   "why": "Skipped as a private house, but the wall already carries private houses; the lead names Christian Kerez (two buildings on the wall) as designer and calls it an atypical building; main photo is a clear daylight view of the whole house. Note: it is a named politician's residence and p1/p2 carry political graffiti, so only the clean photos are used; the owner may want to decide whether to publish.",
+   "id": "selim-al-deen-muktamanch",
+   "why": "Lead gives a clear design reason (first open-air theatre in South Asia in the style of an ancient Greek theatre, on a mound slope). Architect conflict resolved: the lead calls Selim Al Deen (a playwright) the 'master planner' after whom it was named, and names no designer, so Wikidata's Alamgir Kabir stands. Main photo is a clear daylight view of the whole tiered amphitheatre with no people. Movement is my choice; the lead names none.",
    "entry": {
-    "id": "house-okamura",
-    "qid": "Q110219729",
+    "id": "selim-al-deen-muktamanch",
+    "qid": "Q130607297",
     "status": "photo",
-    "why": "Atypical house by Christian Kerez, built 2018-2021 (Czech lead).",
-    "name": "House Okamura",
-    "by": "Christian Kerez",
-    "city": "Prague",
-    "cc": "CZ",
-    "year": 2021,
-    "type": "House",
-    "movement": "Contemporary",
+    "why": "First open-air theatre in South Asia built in the style of an ancient Greek theatre; clear daylight exterior photos.",
+    "name": "Selim Al Deen Muktamanch",
+    "by": "Alamgir Kabir",
+    "city": "Savar",
+    "cc": "BD",
+    "year": 1980,
+    "type": "Culture & sport",
+    "movement": "Regionalism",
     "concepts": [
-     "Brick",
-     "Sculptural form",
-     "Geometry"
+     "Landscape",
+     "Public space",
+     "Brick"
     ],
-    "features": "Christian Kerez's atypical house in Prague's Břevnov, built 2018–2021 on 371 square metres, with the architect given complete freedom.",
-    "commons_category": "Category:House Okamura",
+    "features": "First open-air theatre in South Asia built in the style of an ancient Greek theatre, on a mound slope.",
+    "commons_category": "Category:Selim Al Deen Muktomoncho",
     "coords": [
-     50.08194,
-     14.37326
+     23.87877,
+     90.2708
     ],
     "photos": [
      {
-      "file": "File:House Okamura 8227.jpg",
+      "file": "File:Open Satge Of JahangirNagar University.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:House Okamura - celkový pohled.jpg",
+      "file": "File:Selim Al Deen Muktomoncho.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:সেলিম আল দীন মুক্তমঞ্চ.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Selim Al-Din Muktomoncho.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
@@ -331,40 +176,45 @@
    }
   },
   {
-   "id": "fondazione-bertarelli-concert-hall",
-   "why": "Lead calls it an exemplary bio-architecture and energy-efficiency achievement by Milesi (same designer as the Monastery of Siloe kept above). Haiku held it only for a dusk photo; the photo is a whole-building exterior in soft evening light with no lamps or people, so it is usable, though prep flags it as junk and the owner may prefer a brighter one. Year 2015 is prep's; the lead only says the hall has been the festival venue since 2015.",
+   "id": "faculty-of-fine-arts-university-of-dhaka",
+   "why": "Muzharul Islam's Faculty (Institute) of Fine Arts, named by the owner as a regional modernist work Haiku skipped because the lead speaks of the school. The lead names Muzharul Islam as designer and says it was the region's first art school, in Shahbag since 1956 (year taken from that; the building's completion year is not stated, so please confirm). Main photo is a daylight outside view of the entrance block, not perfect (partly framed by foliage and a railing) but with no people; the veranda photo is a good second. Photos with students and the gate are left out.",
    "entry": {
-    "id": "fondazione-bertarelli-concert-hall",
-    "qid": "Q107567168",
+    "id": "faculty-of-fine-arts-university-of-dhaka",
+    "qid": "Q4796888",
     "status": "photo",
-    "why": "Concert hall named exemplary for bio-architecture and energy efficiency.",
-    "name": "Fondazione Bertarelli Concert Hall",
-    "by": "Edoardo Milesi",
-    "city": "Cinigiano",
-    "cc": "IT",
-    "year": 2015,
-    "type": "Culture & sport",
-    "movement": "Contemporary",
+    "why": "Muzharul Islam designed the building; it houses the first art school in the region.",
+    "name": "Faculty of Fine Arts, University of Dhaka",
+    "by": "Muzharul Islam",
+    "city": "Dhaka",
+    "cc": "BD",
+    "year": 1956,
+    "type": "Education",
+    "movement": "Modernism",
     "concepts": [
-     "Climate response",
-     "Sculptural form",
-     "Landscape"
+     "Brick",
+     "Structure as expression",
+     "Climate response"
     ],
-    "features": "A contemporary-style auditorium near Cinigiano, considered an exemplary achievement in bio-architecture and energy efficiency.",
-    "commons_category": "Category:Forum Fondazione Bertarelli",
+    "features": "Designed by Muzharul Islam for the region's first art school, in Shahbag since 1956.",
+    "commons_category": "Category:Faculty of Fine Arts, University of Dhaka",
     "coords": [
-     42.87401,
-     11.32714
+     23.7357,
+     90.3948
     ],
     "photos": [
      {
-      "file": "File:Bertarelli Concert Hall Cinigiano.jpg",
-      "license": "CC BY-SA 4.0",
+      "file": "File:Institute of Fine Art 1 .A.M.R.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG",
+      "license": "CC BY 3.0",
       "seen": true
      }
     ]
    }
   }
  ],
- "summary": "Positions 152-299 (148 entries; Haiku: 48 photo, 10 unsure, 90 skip). Keep accepted: 25 of 48 (23 rejected). Fixes on 12 of the kept (17 field fixes). Ordinary types among the kept: 5 (Viborg town hall, Zenith de Rouen, Herman Teirlinck Building, Deloitte Building Christchurch, Osakidetza HQ Bilbao). Rescued: 2 (House Okamura, Fondazione Bertarelli Concert Hall). Total proposed to add: 27, of which 5 ordinary (18.5%, under 20%). Main photo changes: 3 (CUBE, Zenith de Rouen, IBM Studios). All 10 unsure stay out (no usable main photo or no photo; Yokoo and Col-legi Els Convents have unconfirmed architects). All 90 skips confirmed except the two rescued. Skips with strong photos but an empty or non-describing lead, left out under the empty-lead rule: Blessed Augustin Kazotic Church (Boris Magas, 152), Plassen Cultural Centre (3XN, 162), Church of Our Lady in Knin (289), Vennesla Church (221), Tikkurila Church (219). Year gaps filled from prep: 169, 189, 192, 193, 215, 255; IBM Studios stays null because prep's 2015 conflicts with the UniCredit Pavilion name and no source gives the year. Fame/quality notes: Hoshokan (157), Borgo Citta Nuova (169), Trinity River Audubon Center (215) and IBM Studios (194) are the thinnest keeps (lead says little; kept for an internationally known architect or a named idea); drop them first if the owner wants a stricter list. No duplicates on the wall (qid, name and 200 m check): Amare is 92 m from the Hague City Hall (different building) and Fourth and Madison 66 m from Seattle Central Library (different building)."
+ "summary": "Checked positions 152-298 (147 buildings): Haiku had 10 keep, 6 unsure, 131 skip. Result: 9 keeps accepted (keep_ok), 5 of them ordinary types (palacio-diaz, edificio-ariztia, edificio-do-banco-paulista-do-comercio, edificio-guardiola, coliseo-la-tortuga; weakest are guardiola and coliseo); 1 keep dropped for no usable main photo (botter-appartement); 2 keeps need a better main photo (galeria-guemes, coliseo-la-tortuga); 9 field fixes (by, concepts, year x4, features); 0 keep_wrong; 2 rescued (selim-al-deen-muktamanch, faculty-of-fine-arts-university-of-dhaka). Still unsure, no usable exterior main photo: Africa Hall (only interiors and people), Restaurante Zambi (chimney only), Manik Bagh (portraits only), Centro SCOP (street view of a complex, and the lead says it was a complex), Luis David Cruz Ocampo library (entrance doors only). Chandigarh College of Architecture has only a logo. Skips confirmed as right in all other cases; borderline skips for the owner: Ohel Yizkor (Yad Vashem, Sharon et al.; good exterior photo but lead gives only the ceremony use), and several strong buildings with empty leads (House of Victoria Ocampo, Senate Palace Tehran, The Glass Building Tehran, Ab-o-Atash Amphitheatre, Igreja Matriz Presidente Getulio) which stay skipped under the empty-lead rule."
 }
