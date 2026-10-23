@@ -33388,6 +33388,10 @@
   "add": [
    "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888023101).jpg",
    "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888015271).jpg"
+  ],
+  "skip": [
+   "File:Esculturas da estação Cabo Branco - 2.jpg",
+   "File:Esculturas da estação Cabo Branco - 4.jpg"
   ]
  },
  "garden-of-fine-art-kyoto": {
@@ -33420,6 +33424,9 @@
   "add": [
    "File:Memorial dos Povos Indígenas, Brasília, Brazil, Ricardo Moraleida 2008.jpg",
    "File:MemorialPovos7.JPG"
+  ],
+  "skip": [
+   "File:Memorial Povos Indíginas.jpg"
   ]
  },
  "wayne-l-morse-united-states-courthouse": {
@@ -33435,6 +33442,9 @@
   "add": [
    "File:Museu Afro Brasil São Paulo 2019-5939.jpg",
    "File:Museu Afro Brasil São Paulo 2019-5941.jpg"
+  ],
+  "skip": [
+   "File:Werner Haberkorn - Vista parcial do Parque do Ibirapuera. São Paulo-SP 1.jpg"
   ]
  },
  "villa-norrkoping": {
@@ -33470,9 +33480,13 @@
  "st-gertrud": {
   "category": "Category:St. Gertrud (Köln)",
   "add": [
+   "File:St. Gertrud, Köln - Ansicht von der Bahn-7276.jpg",
    "File:St gertrud koeln ostseite mit turm 20090911.jpg",
    "File:St. Gertrud, Köln - 8592.jpg",
    "File:St. Gertrud, Köln - 8590.jpg"
+  ],
+  "skip": [
+   "File:Hansahochhaus Köln, DB-Werk Köln Betriebsbahnhof, Haltepunkt Köln Hansaring-7747.jpg"
   ]
  },
  "st-matthaus": {
@@ -33513,6 +33527,9 @@
    "File:Centre cívic de Riudaura.jpg",
    "File:Centre cívic de Riudaura (2).jpg",
    "File:Centre cívic de Riudaura (3).jpg"
+  ],
+  "skip": [
+   "File:Presentació de llibre al Centre Cívic de Riudaura Abril 2026.jpg"
   ]
  },
  "paul-mellon-arts-center": {
@@ -33533,6 +33550,9 @@
   "add": [
    "File:Lincoln Center Nov 2023 02.jpg",
    "File:New York Vivian Beaumont Theater-20120520-RM-192313.jpg"
+  ],
+  "skip": [
+   "File:Ghost Light by Third Rail Projects.png"
   ]
  },
  "collegio-teresiano": {
@@ -33546,6 +33566,9 @@
   "add": [
    "File:Nagaragawa Convention Center 1.JPG",
    "File:NCC & GMH 01.JPG"
+  ],
+  "skip": [
+   "File:長良川国際会議場 (3310492372).jpg"
   ]
  },
  "mercury-tower": {
@@ -33569,6 +33592,9 @@
    "File:Marsk Tårnet.jpg",
    "File:Marsk Tårnet 01.jpg",
    "File:Marsk Tower.jpg"
+  ],
+  "skip": [
+   "File:Building data information board for Marsk Tower, 2026-07-23.jpg"
   ]
  },
  "memorial-jk": {
@@ -33580,6 +33606,7 @@
  "tower-25": {
   "category": "Category:Tower 25",
   "add": [
+   "File:NICOSIA, 11 AUGUST, 2011 056.jpg",
    "File:Stasinou Avenue View.jpg"
   ]
  },
@@ -33588,6 +33615,10 @@
   "add": [
    "File:NMAO 2026.jpg",
    "File:The National Museum of Art, Osaka 2026.jpg"
+  ],
+  "skip": [
+   "File:The National Museum of Art (Osaka Kita-ku) hdsr S5 03.jpg",
+   "File:EagleWarriorOsakaFront.jpg"
   ]
  },
  "tapies-museum": {
@@ -33602,6 +33633,10 @@
    "File:Taipei Grand Mosque 20060112.jpg",
    "File:台北清真寺 11.jpg",
    "File:台北清真寺 13.jpg"
+  ],
+  "skip": [
+   "File:Muslims in Taipei Grand Mosque 20160912.jpg",
+   "File:Taipei Grand Mosque board about Acts of worship & Articles of faith.jpg"
   ]
  },
  "thiepval-memorial": {
@@ -33609,6 +33644,10 @@
   "add": [
    "File:Thiepval cimetière derrière mémorial 1.jpg",
    "File:Thiepval Memorial Cloudy.jpg"
+  ],
+  "skip": [
+   "File:Thiepval (80) Mémorial - Coquelicots.jpg",
+   "File:Thiepval Memorial, View fom Beaumont-Hamel.jpg"
   ]
  },
  "arco-della-vittoria": {
@@ -33623,6 +33662,12 @@
   "add": [
    "File:Hyderabad House, India Gate, New Delhi.jpg",
    "File:Hyderabad house in delhi india.jpg"
+  ],
+  "skip": [
+   "File:25 01 2020 Assinatura do Livro de Visitas (49439064321).jpg",
+   "File:25 01 2020 Assinatura do Livro de Visitas (49439087226).jpg",
+   "File:25 01 2020 Reunião Ampliada com o Primeiro-Ministro da Índia (49439189626).jpg",
+   "File:Secretary of Defense Lloyd J. Austin III in India (2021) -1061 (51052749861).jpg"
   ]
  },
  "national-museum-of-prehistory": {
@@ -33637,6 +33682,12 @@
   "category": "Category:Church House, Westminster",
   "add": [
    "File:Church House Westminster London 2016 (02).jpg"
+  ],
+  "skip": [
+   "File:Breaking-news-5Y0A1851-CNN-1- (52518925396).jpg",
+   "File:Breaking-news-5Y0A1864-CNN-3- (52518448667).jpg",
+   "File:Breaking-news-6B0A5612-CNN-9- (52519400710).jpg",
+   "File:Westminster Sanctuary sign.jpg"
   ]
  },
  "stockholm-university-library": {
@@ -33661,14 +33712,21 @@
    "File:Stopera 2063.jpg",
    "File:Amsterdam, de Stopera vanaf de Blauwbrug IMG 1096 2026-04-06 14.38.jpg",
    "File:Amsterdam, de Blauwbrug RM518352 met de Stopera op de achtergrond IMG 1091 2026-04-06 14.29.jpg"
+  ],
+  "skip": [
+   "File:Amsterdam snack wagon.jpg",
+   "File:WilhelmHolzbauer.jpg"
   ]
  },
  "kucuksu-pavilion": {
   "category": "Category:Küçüksu Palace",
   "add": [
+   "File:Exterior view of Küçüksu Palace (1).jpg",
    "File:İstanbul - Küçüksu Kasrı 0983.JPG",
-   "File:İstanbul - Küçüksu Kasrı 0987.jpg",
-   "File:Exterior view of Küçüksu Palace (1).jpg"
+   "File:İstanbul - Küçüksu Kasrı 0987.jpg"
+  ],
+  "skip": [
+   "File:Model of Küçüksu Palace.jpg"
   ]
  },
  "szeged-synagogue": {
@@ -33677,6 +33735,9 @@
    "File:Szeged synagogue SF.jpg",
    "File:Szeged - Új Zsinagóga (44021910514).jpg",
    "File:Szeged - Új Zsinagóga (44740331311).jpg"
+  ],
+  "skip": [
+   "File:Mini Magyarország Makettpark (Kisbér, tópart) - panoramio (2).jpg"
   ]
  },
  "aland-maritime-museum": {
@@ -33686,6 +33747,10 @@
    "File:Ålands sjöfartsmuseum May 2016 06.jpg",
    "File:Ålands sjöfartsmuseum May 2016 04.jpg",
    "File:Ålands sjöfartsmuseum May 2016 08.jpg"
+  ],
+  "skip": [
+   "File:Sjöpromenaden Mariehamn 2011-10-11 image08.jpg",
+   "File:Sjöpromenaden Mariehamn 2011-10-11 image09.jpg"
   ]
  },
  "museum-of-contemporary-art-zagreb": {
@@ -33694,6 +33759,10 @@
    "File:Msu-museum-contemporary-art-zagreb-2.jpg",
    "File:Msu-zagreb-entrance-hall.jpg",
    "File:Msu-zagreb-newtendencies.jpg"
+  ],
+  "skip": [
+   "File:Device art msu hr.jpeg",
+   "File:Device art msuhr 13 37 22 599000.jpeg"
   ]
  },
  "santiago-del-estero-forum": {
@@ -33708,12 +33777,21 @@
    "File:Haus der Geschichte BW - Frontansicht.jpg",
    "File:HausderGeschichteBaden-Württemberg.jpg",
    "File:Stuttgart Haus der Geschichte-pjt1.jpg"
+  ],
+  "skip": [
+   "File:Haus der Geschichte Baden-Württemberg Plakat.jpg",
+   "File:Ansicht von Oppenau mit blühendem Baum, 1931 HdGBW 1991 0140 100014.jpg"
   ]
  },
  "saxon-landtag": {
   "category": "Category:Sächsischer Landtag (building)",
   "add": [
    "File:SLT-aussen.JPG"
+  ],
+  "skip": [
+   "File:2016 Dresden, Landtag, -001.jpg",
+   "File:Jessica Steiner 2025.jpg",
+   "File:Sächsischer Landtag (Innenansicht) Dresden 02082019 06.jpg"
   ]
  },
  "seth-peterson-cottage": {
@@ -33726,12 +33804,22 @@
   "category": "Category:Morava Palace",
   "add": [
    "File:Palác Morava Brno 1.jpg"
+  ],
+  "skip": [
+   "File:Brno Morava Palace BHO-133454.jpg"
   ]
  },
  "georg-kolbe-museum": {
   "category": "Category:Georg-Kolbe-Museum",
   "add": [
    "File:Sensburger Allee 25-26 (09096432) 001.jpg"
+  ],
+  "skip": [
+   "File:Passion Leidenschaft-Kolbe-Amazone DSC7326.jpg",
+   "File:Passion Leidenschaft-Kolbe-Amazone DSC7327.jpg",
+   "File:Dr. Julia Wallner Foto.jpg",
+   "File:GeorgKolbeM. Garten 2.JPG",
+   "File:GeorgKolbeM. Garten 3.JPG"
   ]
  },
  "bijenkorf-rotterdam": {
@@ -33747,6 +33835,10 @@
   "add": [
    "File:Biblioteca Pública Estadual Luiz de Bessa, 2022.jpg",
    "File:Biblioteca Pública Estadual Luiz de Bessa, Belo Horizonte, Brasil .JPG"
+  ],
+  "skip": [
+   "File:O Encontro Marcado, Biblioteca Pública Estadual Luiz de Bessa, Belo Horizonte, Brasil 0.JPG",
+   "File:Biblioteca Luís de Bessa - Belo Horizonte - 20250930173219.jpg"
   ]
  },
  "turku-main-library": {
@@ -33760,12 +33852,18 @@
   "add": [
    "File:Wall House2.JPG",
    "File:Wall House 2, Groningen - Netherland.jpg"
+  ],
+  "skip": [
+   "File:Wall House 2 - interieur.jpg"
   ]
  },
  "cafe-era": {
   "category": "Category:Café Era",
   "add": [
    "File:Brno - Zemědělská, kavárna ERA, 2026-03, obr01.jpg"
+  ],
+  "skip": [
+   "File:Kavárna Era, Brno Zemědělská - rekonstrukce 1.jpg"
   ]
  },
  "new-town-hall-in-jablonec-nad-nisou": {
@@ -33786,6 +33884,9 @@
   "category": "Category:Thielska galleriet",
   "add": [
    "File:Thielska galleriet April 2015.jpg"
+  ],
+  "skip": [
+   "File:Bruno Liljefors - Swans 1906 TG 267.jpg"
   ]
  },
  "mercado-central-valencia": {
@@ -33793,6 +33894,10 @@
   "add": [
    "File:Mercado Central, Valencia, España, 2014-06-30, DD 108.JPG",
    "File:20211115.Valencia.-076.1.jpg"
+  ],
+  "skip": [
+   "File:Aceites de oliva en puesto del Mercado Central de Valencia 01.jpg",
+   "File:Aceites de oliva en puesto del Mercado Central de Valencia 02.jpg"
   ]
  },
  "hans-christian-andersen-museum": {
@@ -33802,6 +33907,12 @@
    "File:Odense stad 2022 2.jpg",
    "File:Odense 103.jpg",
    "File:Odense stad 2022 3.jpg"
+  ],
+  "skip": [
+   "File:Odense 103.jpg",
+   "File:Hans Christian Andersen Birthplace, Odense, Denmark.jpg",
+   "File:Hans Jensens Stræde, Odense 01.jpg",
+   "File:H.C. Andersens Barndomshjemmet.JPG"
   ]
  }
 }

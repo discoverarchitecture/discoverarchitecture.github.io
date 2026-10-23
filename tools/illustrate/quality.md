@@ -236,3 +236,33 @@ Held for a year: Thiel Gallery, Mercado Central (Valencia), Hans Christian Ander
 (`tools/cheap/pool8_held.json`). After this pool the harvest has few strong candidates left: the next round should
 come from a new search (contemporary work, the Pritzker winners' full lists, under-represented regions) rather than
 deeper into this list.
+
+## Haiku pipeline, ninth pool (23 Oct 2026): 139 buildings by Pritzker Prize winners, not yet on the wall
+
+A new search (see the eighth pool's note): every building in `tools/pritzker/buildings.json` not on the wall or
+judged before, no ordinary types in the pool, at most 12 per laureate. 37 had no Wikipedia article in any language
+(skipped: nothing to source the key features from). Haiku kept 54; Sonnet found 11 wrong keeps (a sculpture, two
+duplicates of wall buildings, eight with no design reason in the lead) and rescued 2. Six ordinary keeps were set
+aside to keep under the owner's 20% (`tools/cheap/pool9_held.json`, "ordinary type, over the 20% cap"). 22
+buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 22 (1 better lead chosen) | fine |
+| No free photo | 18 of 139 (13%) | fine |
+| Already on the wall | 3 of 139 (2%): Olympic Roof Munich, Shenzhen Library, MOMA Tainan | fine |
+| Facts failing the source check | Haiku's keeps: 11 of 54 were wrong keeps and 12 needed a fact fixed (43%), mostly features naming the architect when the lead doesn't | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 4 of 22 (18%) by Sonnet's tag | fine, after setting six aside |
+
+Held for a year: 12 (`tools/cheap/pool9_held.json`).
+
+## Fix-up round (23 Oct 2026): sourced years for the 51 held buildings
+
+`tools/held_years.py` (on Actions) gathered Wikidata dates and the build/open/complete sentences from up to three
+Wikipedia articles per building; a Sonnet chat picked the completion year and quoted its source
+(`tools/cheap/held_years_picked.json`, quotes kept in each entry's `year_source`). 39 were added: 29 with a high, 9
+with a medium confidence year, and Wall House II (2001, built after Hejduk's death). Left held: 5 with no year in any
+source, 4 low-confidence (CityLife, Historisches Museum Saar, Aldo van Eyck pavilion, Lake Suwa), Prins Hendrikkade
+600 (Piano's pavilion was rebuilt) and Glenstone (its main buildings are Phifer's); UOB Plaza was already on the
+wall. Photo review: 2 better leads, 53 gallery photos removed across both rounds (events, signs, artworks, models,
+and Andersen's birthplace in the Kuma museum's gallery). Ordinary types: 4 of 39 (10%).
