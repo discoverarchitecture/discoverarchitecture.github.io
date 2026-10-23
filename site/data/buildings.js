@@ -354014,18 +354014,6 @@ window.BUILDINGS = [
     "file": "File:Istana-nurul-iman.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg/1280px-Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/istana-nurul-iman/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context · Aerial photograph of Brunei on 15 January 2026",
-    "credit": "Yu Chu Chin",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg",
-    "file": "File:Aerial photograph of Brunei on 15 January 2026 - 29.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Istana_Nurul_Iman_%282023%29_01.jpg/1280px-Istana_Nurul_Iman_%282023%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/istana-nurul-iman/thumbs/2.webp",
     "w": 1280,
@@ -354050,16 +354038,16 @@ window.BUILDINGS = [
     "file": "File:Jalan Tutong Park to Istana Nurul Iman 2011.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1000200673.mp4-400000%281%29.jpg/1280px-1000200673.mp4-400000%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/istana-nurul-iman/thumbs/4.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg/1280px-Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/1.webp",
     "w": 1280,
-    "h": 720,
-    "kind": "Exterior",
-    "caption": "Exterior · Entrée de l'Istana Nurul Iman",
-    "credit": "Pachenko10",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1000200673.mp4-400000(1).jpg",
-    "file": "File:1000200673.mp4-400000(1).jpg"
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Aerial photograph of Brunei on 15 January 2026",
+    "credit": "Yu Chu Chin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg",
+    "file": "File:Aerial photograph of Brunei on 15 January 2026 - 29.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Aerial_of_Brunei_%282_August_2023%29_16.jpg/1280px-Aerial_of_Brunei_%282_August_2023%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -354340,18 +354328,6 @@ window.BUILDINGS = [
     "file": "File:Mumbai - Chhatrapati Shivaji Maharaj Vastu Sangrahalaya 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Photos_from_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_JEG1232.JPG/1280px-Photos_from_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_JEG1232.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/2.webp",
-    "w": 1280,
-    "h": 848,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "P. Jeganathan",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Photos_from_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_JEG1232.JPG",
-    "file": "File:Photos from Chhatrapati Shivaji Maharaj Vastu Sangrahalaya JEG1232.JPG"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Chhatrapati_shivaji_maharaj_vastu_sangrahalaya_museum%2C_atrio_centrale_01.jpg/1280px-Chhatrapati_shivaji_maharaj_vastu_sangrahalaya_museum%2C_atrio_centrale_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/3.webp",
     "w": 895,
@@ -354398,23 +354374,10 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_central_section_of_CSMVS_building.jpg",
     "file": "File:Closeup of central section of CSMVS building.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Llustration_of_the_Four_Raginis%2C_late_17th_century_CE%2C_Mughal_School_of_Art%2C_Chatrapati_Shivaji_Maharaj_Vastu_Sanghralaya%2C_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/7.webp",
-    "w": 936,
-    "h": 1310,
-    "kind": "Model",
-    "caption": "Model",
-    "credit": "SpeakingArch",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Llustration_of_the_Four_Raginis,_late_17th_century_CE,_Mughal_School_of_Art,_Chatrapati_Shivaji_Maharaj_Vastu_Sanghralaya,_Mumbai.jpg",
-    "file": "File:Llustration of the Four Raginis, late 17th century CE, Mughal School of Art, Chatrapati Shivaji Maharaj Vastu Sanghralaya, Mumbai.jpg"
    }
   ],
   "has": [
-   "Section",
-   "Model"
+   "Section"
   ],
   "gv": 3
  },
@@ -354771,42 +354734,6 @@ window.BUILDINGS = [
     "file": "File:Museum Sonobudoyo Yogyakarta Unit 1.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_08.jpg/1280px-Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sonobudoyo-museum/thumbs/1.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05",
-    "credit": "Crisco 1492",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Javanese_tembang_and_dance_fusion_performance,_Sonobudoyo_Museum,_Yogyakarta,_2017-12-05_08.jpg",
-    "file": "File:Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05 08.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_11.jpg/1280px-Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sonobudoyo-museum/thumbs/2.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05",
-    "credit": "Crisco 1492",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Javanese_tembang_and_dance_fusion_performance,_Sonobudoyo_Museum,_Yogyakarta,_2017-12-05_11.jpg",
-    "file": "File:Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05 11.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Historical_relics_from_the_time_of_the_Ancient_Javanese_Kingdom.jpg/1280px-Historical_relics_from_the_time_of_the_Ancient_Javanese_Kingdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sonobudoyo-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 964,
-    "kind": "Exterior",
-    "caption": "Exterior · Fully written in Kawi script",
-    "credit": "Alnrhh",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Historical_relics_from_the_time_of_the_Ancient_Javanese_Kingdom.jpg",
-    "file": "File:Historical relics from the time of the Ancient Javanese Kingdom.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Storage_room_for_ancient_manuscripts_at_the_Sonobudoyo_Museum_Unit_II.jpg/1280px-Storage_room_for_ancient_manuscripts_at_the_Sonobudoyo_Museum_Unit_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/sonobudoyo-museum/thumbs/4.webp",
     "w": 1280,
@@ -354817,18 +354744,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Storage_room_for_ancient_manuscripts_at_the_Sonobudoyo_Museum_Unit_II.jpg",
     "file": "File:Storage room for ancient manuscripts at the Sonobudoyo Museum Unit II.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Arca_Hayagriwa_di_Museum_Sonobudoyo.jpg/1280px-Arca_Hayagriwa_di_Museum_Sonobudoyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sonobudoyo-museum/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Arca Hayagriwa abad ke-8 hingga 9 M di Museum Sonobudoyo, Yogyakarta",
-    "credit": "Risanprasetyo /Febri Ady Prasetyo",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Arca_Hayagriwa_di_Museum_Sonobudoyo.jpg",
-    "file": "File:Arca Hayagriwa di Museum Sonobudoyo.jpg"
    }
   ],
   "has": [],
@@ -354917,18 +354832,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Inside_Saint_Sarkis_Church,_Nor_Nork.JPG",
     "file": "File:Inside Saint Sarkis Church, Nor Nork.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Patarag_Nor-Norqi_Surb_Sargisum.JPG/1280px-Patarag_Nor-Norqi_Surb_Sargisum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Interior of Saint Sarkis Church, Nor Nork",
-    "credit": "Վահան Ամրության",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Patarag_Nor-Norqi_Surb_Sargisum.JPG",
-    "file": "File:Patarag Nor-Norqi Surb Sargisum.JPG"
    }
   ],
   "has": [],
@@ -355321,18 +355224,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Burroughs_Wellcome_%26_Co.,_Cairo._Wellcome_M0013215.jpg",
     "file": "File:Burroughs Wellcome & Co., Cairo. Wellcome M0013215.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%D9%85%D9%82%D8%A7%D9%84%D9%87_%22%D9%83%D8%A7%D9%85%D9%8A%D9%84%D9%8A%D8%A7..%D9%83%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%AF_%D8%A7%D9%86_%D8%AA%D8%B9%D9%8A%D8%B4%22_%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D9%87_%D8%A8%D9%85%D8%AC%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_1950.jpg/1280px-%D9%85%D9%82%D8%A7%D9%84%D9%87_%22%D9%83%D8%A7%D9%85%D9%8A%D9%84%D9%8A%D8%A7..%D9%83%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%AF_%D8%A7%D9%86_%D8%AA%D8%B9%D9%8A%D8%B4%22_%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D9%87_%D8%A8%D9%85%D8%AC%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/immobilia-building/thumbs/1.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Diana Abadeer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D8%A7%D9%84%D9%87_%22%D9%83%D8%A7%D9%85%D9%8A%D9%84%D9%8A%D8%A7..%D9%83%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%AF_%D8%A7%D9%86_%D8%AA%D8%B9%D9%8A%D8%B4%22_%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D9%87_%D8%A8%D9%85%D8%AC%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_1950.jpg",
-    "file": "File:مقاله \"كاميليا..كانت تريد ان تعيش\" الصادره بمجله الكواكب عدد سبتمبر 1950.jpg"
    }
   ],
   "has": [],
@@ -355497,23 +355388,9 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Antonio,_Interior_(10).jpg",
     "file": "File:Iglesia de San Antonio, Interior (10).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Escultura_de_Refugio_Reyes_mirando_la_fachada_del_Templo_de_San_Antonio_en_un_plano.JPG/1280px-Escultura_de_Refugio_Reyes_mirando_la_fachada_del_Templo_de_San_Antonio_en_un_plano.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Plan",
-    "caption": "Plan · Escultura de Refugio Reyes mirando la fachada del Templo de San Antonio en un plano",
-    "credit": "Luisalvaz",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Escultura_de_Refugio_Reyes_mirando_la_fachada_del_Templo_de_San_Antonio_en_un_plano.JPG",
-    "file": "File:Escultura de Refugio Reyes mirando la fachada del Templo de San Antonio en un plano.JPG"
    }
   ],
-  "has": [
-   "Plan"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -355677,18 +355554,6 @@ window.BUILDINGS = [
     "file": "File:Columna de casa museo.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ofrenda_de_tierra_de_Plaza_Lavalle_por_hermano_del_Tercer_Mal%C3%B3n_de_la_Paz_proyecto_Eurindia%2C_sonidos_del_territorio_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Eurindia sonidos del territorio",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ofrenda_de_tierra_de_Plaza_Lavalle_por_hermano_del_Tercer_Mal%C3%B3n_de_la_Paz_proyecto_Eurindia,_sonidos_del_territorio_2023.jpg",
-    "file": "File:Ofrenda de tierra de Plaza Lavalle por hermano del Tercer Malón de la Paz proyecto Eurindia, sonidos del territorio 2023.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Plano_casa_de_Ricardo_rojas.jpeg/1280px-Plano_casa_de_Ricardo_rojas.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/6.webp",
     "w": 1280,
@@ -355778,10 +355643,22 @@ window.BUILDINGS = [
   "study": "Brutalist national theatre in the Cultural Center complex, a primary example of Locsin's floating-volume style.",
   "qid": null,
   "commons": "Category:Tanghalang Pambansa",
-  "lead": "File:CCPjf0126 01.JPG",
+  "lead": "Metro-Manila opera house.JPG",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Metro-Manila_opera_house.JPG/1280px-Metro-Manila_opera_house.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/5.webp",
+    "w": 1280,
+    "h": 521,
+    "kind": "Detail",
+    "caption": "Detail · Metro-Manila opera house-detail",
+    "credit": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metro-Manila_opera_house.JPG",
+    "file": "File:Metro-Manila opera house.JPG"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CCPjf0111_07.JPG/1280px-CCPjf0111_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tanghalang-pambansa/thumbs/0.webp",
@@ -355841,18 +355718,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:CCP.jpg",
     "file": "File:CCP.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Metro-Manila_opera_house.JPG/1280px-Metro-Manila_opera_house.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tanghalang-pambansa/thumbs/5.webp",
-    "w": 1280,
-    "h": 521,
-    "kind": "Detail",
-    "caption": "Detail · Metro-Manila opera house-detail",
-    "credit": "Ramon FVelasquez",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Metro-Manila_opera_house.JPG",
-    "file": "File:Metro-Manila opera house.JPG"
    }
   ],
   "has": [],
@@ -355917,18 +355782,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_03.jpg",
     "file": "File:Galería Güemes Cúpula torreta 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Reflejo_de_f%C3%A9.jpg/1280px-Reflejo_de_f%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/galeria-guemes/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Sitio : galeria guemes",
-    "credit": "Ráfaga Dan",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Reflejo_de_f%C3%A9.jpg",
-    "file": "File:Reflejo de fé.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Galer%C3%ADa_G%C3%BCemes.jpg/1280px-Galer%C3%ADa_G%C3%BCemes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -356029,30 +355882,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Selim_Al-Din_Muktomoncho.jpg",
     "file": "File:Selim Al-Din Muktomoncho.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_01.jpg/1280px-Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/selim-al-deen-muktamanch/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Two young boys sitting on a low brick wall bordering a grassy field or playground",
-    "credit": "A S M Jobaer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_01.jpg",
-    "file": "File:Boys sitting on a brick wall overlooking a field in Bangladesh 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_02.jpg/1280px-Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/selim-al-deen-muktamanch/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Two young boys sitting on a low brick wall bordering a grassy field or playground",
-    "credit": "A S M Jobaer",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_02.jpg",
-    "file": "File:Boys sitting on a brick wall overlooking a field in Bangladesh 02.jpg"
    }
   ],
   "has": [],
@@ -356105,54 +355934,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Veranda_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Dhaka_2015-05-31_2239.JPG",
     "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2231.JPG/1280px-Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2231.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/2.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · Photographed at the Dhaka university, Dhaka, Bangladesh",
-    "credit": "Biswarup Ganguly",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2231.JPG",
-    "file": "File:Entrance - Faculty of Fine Arts - University of Dhaka - Kazi Nazrul Islam Avenue - Dhaka 2015-05-31 2231.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2232.JPG/1280px-Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2232.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/3.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Exterior",
-    "caption": "Exterior · Photographed at the Dhaka university, Dhaka, Bangladesh",
-    "credit": "Biswarup Ganguly",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2232.JPG",
-    "file": "File:Entrance - Faculty of Fine Arts - University of Dhaka - Kazi Nazrul Islam Avenue - Dhaka 2015-05-31 2232.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jumping_into_life.jpg/1280px-Jumping_into_life.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior · This photo was taken inside the premises of The Faculty of Fine Arts of Dhaka University",
-    "credit": "Safwan Mahmud",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jumping_into_life.jpg",
-    "file": "File:Jumping into life.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Meet_your_maker.jpg/1280px-Meet_your_maker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · This photo was taken inside the premises of The Faculty of Fine Arts of Dhaka University",
-    "credit": "Safwan Mahmud",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Meet_your_maker.jpg",
-    "file": "File:Meet your maker.jpg"
    }
   ],
   "has": [],
