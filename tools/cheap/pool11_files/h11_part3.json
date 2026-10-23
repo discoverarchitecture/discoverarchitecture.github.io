@@ -1,0 +1,793 @@
+[
+ {
+  "id": "beit-haamudim",
+  "qid": "Q112073616",
+  "status": "skip",
+  "why": "Address and jazz-club use only; the lead gives no design reason."
+ },
+ {
+  "id": "kucuk-theatre",
+  "qid": "Q112641261",
+  "status": "skip",
+  "why": "Oldest theatre in Ankara and its renaming; no design reason in the lead."
+ },
+ {
+  "id": "yesilkoy-mecidiye-mosque",
+  "qid": "Q123247735",
+  "status": "skip",
+  "why": "Late-Ottoman mosque; the lead names the architect's standing but gives no design reason."
+ },
+ {
+  "id": "armon-hanatziv",
+  "qid": "Q12404277",
+  "status": "skip",
+  "why": "Former British High Commissioner's residence, now UN headquarters; history only."
+ },
+ {
+  "id": "fondation-felix-houphouet-boigny",
+  "qid": "Q2680941",
+  "status": "skip",
+  "why": "Peace research institute; the lead gives no design reason."
+ },
+ {
+  "id": "cathedral-of-st-mary-and-all-saints-harare",
+  "qid": "Q28147101",
+  "status": "skip",
+  "why": "Cathedral begun 1913 to Baker's plans; the lead gives no completion year and no design reason."
+ },
+ {
+  "id": "our-lady-of-france-church-notre-dame-bizerte",
+  "qid": "Q30401365",
+  "status": "skip",
+  "why": "Former French-era church, now a culture house; history only."
+ },
+ {
+  "id": "general-staff-building-ankara",
+  "qid": "Q30667995",
+  "status": "skip",
+  "why": "Armed forces headquarters; the lead gives the architect and opening date but no design reason."
+ },
+ {
+  "id": "coliseo-gran-chimu",
+  "qid": "Q5145750",
+  "status": "skip",
+  "why": "Indoor sports arena; ordinary type with no design reason."
+ },
+ {
+  "id": "institute-for-research-in-fundamental-sciences",
+  "qid": "Q6039681",
+  "status": "skip",
+  "why": "Research institute; the lead gives its Internet role, not a design reason."
+ },
+ {
+  "id": "music-teachers-school",
+  "qid": "Q6090279",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "gerard-behar-center",
+  "qid": "Q6729702",
+  "status": "skip",
+  "why": "Arts centre; the lead gives events and the 1961 trial, not a design reason."
+ },
+ {
+  "id": "ohel-yizkor",
+  "qid": "Q6826871",
+  "status": "skip",
+  "why": "Memorial ceremony hall; memorials are skipped."
+ },
+ {
+  "id": "church-of-our-lady-of-victory",
+  "qid": "Q107695881",
+  "status": "skip",
+  "why": "Catholic church; the lead gives no design reason."
+ },
+ {
+  "id": "palacio-diaz",
+  "qid": "Q1749496",
+  "status": "photo",
+  "why": "Lead names the Art Deco style; the photos show the tower from the street in daylight.",
+  "name": "Palacio Díaz",
+  "by": "Gonzalo Vázquez Barrière",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": 1929,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Cluster"
+  ],
+  "features": "Art Deco building on Montevideo's 18 de Julio with flats, offices and a shopping passage, opened in 1929.",
+  "commons_category": "Category:Palacio Díaz, Montevideo",
+  "coords": [
+   [
+    -34.90622,
+    -56.19281
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:2016 Uruguay Palacio Díaz Av. 18 de Julio 1333, entre Yaguarón y Ejido. En Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2016 vista del Palacio Díaz Av. 18 de Julio 1333, entre Yaguarón y Ejido de Montevideo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "javed-manzil",
+  "qid": "Q18126242",
+  "status": "skip",
+  "why": "Poet's house turned museum; history and listing only."
+ },
+ {
+  "id": "teatro-coliseo",
+  "qid": "Q185504",
+  "status": "skip",
+  "why": "Theatre opened 1905; the lead gives no design reason."
+ },
+ {
+  "id": "fernandez-anchorena-palace",
+  "qid": "Q2046771",
+  "status": "skip",
+  "why": "Former residence, now the nunciature; \"architecturally significant\" with no reason given."
+ },
+ {
+  "id": "africa-hall",
+  "qid": "Q2826149",
+  "status": "unsure",
+  "why": "Lead gives a design reason (continuous internal spaces) and a 1961 completion; every photo is an interior, a meeting or a person.",
+  "note": "no main photo",
+  "name": "Africa Hall",
+  "by": "Arturo Mezzedimi",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "year": 1961,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Its \"continuous spaces\" internal layout is the main feature; built in only 18 months, completed February 1961.",
+  "commons_category": "Category:Africa Hall (Addis Ababa)",
+  "coords": [
+   [
+    9.01453,
+    38.76627
+   ]
+  ],
+  "photos": []
+ },
+ {
+  "id": "edsa-shrine",
+  "qid": "Q2914138",
+  "status": "skip",
+  "why": "Small church and People Power memorial; the lead gives no design reason."
+ },
+ {
+  "id": "temple-of-saint-anthony-of-padua",
+  "qid": "Q2919923",
+  "status": "photo",
+  "why": "Lead calls it a deliberately eclectic masterpiece built 1895-1908 (year taken as 1908).",
+  "name": "Temple of Saint Anthony of Padua",
+  "by": "Refugio Reyes Rivas",
+  "city": "Aguascalientes",
+  "cc": "MX",
+  "year": 1908,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Eclectic church mixing neoclassical, baroque, Russian, Gothic and Islamic influences; Refugio Reyes Rivas's masterpiece.",
+  "commons_category": "Category:Templo de San Antonio, Aguascalientes",
+  "coords": [
+   [
+    21.88562,
+    -102.29177
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:967 TEMPLO DE SAN ANTONIO.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:00967 Templo de San Antonio - Aguascalientes - Aguascalientes (2).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Templo de San Antonio (desde la esquina).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "victoria-college-alexandria",
+  "qid": "Q4119533",
+  "status": "skip",
+  "why": "School founded 1902; history and founders only."
+ },
+ {
+  "id": "san-fernando-cathedral-pampanga",
+  "qid": "Q4348950",
+  "status": "skip",
+  "why": "Neoclassical church; the style alone is not a design reason here."
+ },
+ {
+  "id": "edificio-ariztia",
+  "qid": "Q5338042",
+  "status": "photo",
+  "why": "Lead gives two firsts: first skyscraper and first office building with an elevator in Santiago; completed 1921.",
+  "name": "Edificio Ariztía",
+  "by": "Alberto Cruz Montt, Ricardo Larraín Bravo",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": 1921,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Exposed concrete",
+   "Geometry"
+  ],
+  "features": "Considered Santiago's first skyscraper and its first office building with an elevator, built in reinforced concrete.",
+  "commons_category": "Category:Edificio Ariztía",
+  "coords": [
+   [
+    -33.44256,
+    -70.65121
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Edificio Ariztía, Santiago 20230816.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barrio La Bolsa 2013-05-26 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fakhr-ol-dowleh-mosque",
+  "qid": "Q5946147",
+  "status": "skip",
+  "why": "Mosque; the lead names the designer and date but gives no design reason."
+ },
+ {
+  "id": "parque-cristal",
+  "qid": "Q6062105",
+  "status": "skip",
+  "why": "Office building the lead calls a landmark and a symbol of development; no design reason."
+ },
+ {
+  "id": "kunstkring-art-gallery",
+  "qid": "Q6445043",
+  "status": "skip",
+  "why": "Heritage building; the lead gives history, restoration and use only."
+ },
+ {
+  "id": "helles-memorial",
+  "qid": "Q6766045",
+  "status": "skip",
+  "why": "War memorial."
+ },
+ {
+  "id": "palace-of-the-inquisition",
+  "qid": "Q7126272",
+  "status": "skip",
+  "why": "Former Inquisition headquarters, now a museum; history only."
+ },
+ {
+  "id": "kerbalai-israfil-hajiyev-s-mansion",
+  "qid": "Q85997101",
+  "status": "skip",
+  "why": "Protected mansion; the lead gives the listing and history, not a design reason."
+ },
+ {
+  "id": "bosch-palace",
+  "qid": "Q9054334",
+  "status": "skip",
+  "why": "Residence called \"architecturally significant\" with no reason given."
+ },
+ {
+  "id": "monolith-building",
+  "qid": "Q97170891",
+  "status": "skip",
+  "why": "Protected 1940 building; the lead gives no design reason."
+ },
+ {
+  "id": "central-library-of-university-of-tehran",
+  "qid": "Q97800995",
+  "status": "skip",
+  "why": "Biggest academic library; the lead gives size and date only."
+ },
+ {
+  "id": "botter-appartement",
+  "qid": "Q99852364",
+  "status": "photo",
+  "why": "Lead gives a first (office, shop and home in one building) by a famous architect; lead gives only \"1900s\", so no year.",
+  "name": "Botter-appartement",
+  "by": "Raimondo Tommaso D'Aronco",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": null,
+  "type": "Housing",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Adaptive reuse"
+  ],
+  "features": "The first Istanbul building designed to combine office, shop and home, by a famous architect of its time.",
+  "commons_category": "Category:Botter Apartment",
+  "coords": [
+   [
+    41.02922,
+    28.9754
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Botter Apartment.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "municipal-market-of-campinas",
+  "qid": "Q10328770",
+  "status": "skip",
+  "why": "Municipal market; the lead gives only its location."
+ },
+ {
+  "id": "house-of-figarov-brothers",
+  "qid": "Q137612190",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "national-mast-of-brasilia",
+  "qid": "Q20060257",
+  "status": "skip",
+  "why": "Monument (flag mast) in Brasília's Praça dos Três Poderes; monuments are skipped."
+ },
+ {
+  "id": "senate-palace-tehran",
+  "qid": "Q20110871",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "ricardo-rojas-house-museum-research-institute",
+  "qid": "Q21114973",
+  "status": "photo",
+  "why": "Lead gives a design idea (built to the book Eurindia, facade like La Casa de Tucumán); lead gives no completion year.",
+  "name": "Ricardo Rojas' House Museum - Research Institute",
+  "by": "Ángel Guido",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": null,
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "Commissioned by writer Ricardo Rojas, its design follows his book Eurindia, with a facade like La Casa de Tucumán.",
+  "commons_category": "Category:Casa Museo Ricardo Rojas",
+  "coords": [
+   [
+    -34.5939,
+    -58.4065
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Museo Casa Ricardo Rojas 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo Casa Ricardo Rojas 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "restaurante-zambi",
+  "qid": "Q21478174",
+  "status": "unsure",
+  "why": "Lead names Pancho Guedes (on the wall with three buildings) and a well-known restaurant; the only photo is of chimneys.",
+  "note": "no main photo",
+  "name": "Restaurante Zambi",
+  "by": "Pancho Guedes",
+  "city": "Maputo",
+  "cc": "MZ",
+  "year": 1956,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "Luxury restaurant on Maputo's waterfront, built 1954-56 to plans by Pancho Guedes.",
+  "commons_category": "Category:Restaurante Zambi",
+  "coords": [
+   [
+    -25.97989,
+    32.57935
+   ]
+  ],
+  "photos": []
+ },
+ {
+  "id": "ghevond-alishan-school-95",
+  "qid": "Q21698049",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "gota-de-leche-building",
+  "qid": "Q24041484",
+  "status": "skip",
+  "why": "Heritage listing and a UNESCO honour; the lead gives no design reason."
+ },
+ {
+  "id": "mercado-central-de-san-pedro",
+  "qid": "Q26213804",
+  "status": "skip",
+  "why": "Market; the lead names no architect, and Wikidata's Eiffel is impossible for a 1950 building."
+ },
+ {
+  "id": "edificio-do-banco-paulista-do-comercio",
+  "qid": "Q28677873",
+  "status": "photo",
+  "why": "Lead: an early modernist building in central São Paulo whose curve answers the street; built 1947-1950 (year taken as 1950).",
+  "name": "Edifício do Banco Paulista do Comércio",
+  "by": "Rino Levi",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1950,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A pioneering modernist building in central São Paulo, its curve answers the sloping street that meets its corner.",
+  "commons_category": "Category:Edifício Banco Paulista do Comércio",
+  "coords": [
+   [
+    -23.54505,
+    -46.63371
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Edifício Banco Paulista do Comércio 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Banco Paulista do Comércio 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Banco Paulista do Comércio 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aghasi-khanjyan-mansion",
+  "qid": "Q29148166",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "faculty-of-veterinary-medicine-of-the-university-of-tehran",
+  "qid": "Q2945417",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "tanghalang-pambansa",
+  "qid": "Q30590055",
+  "status": "photo",
+  "why": "Lead: a National Artist's brutalist design, a primary example of his floating-volume style; lead gives no year.",
+  "name": "Tanghalang Pambansa",
+  "by": "Leandro Locsin",
+  "city": "Pasay",
+  "cc": "PH",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "features": "Brutalist national theatre in the Cultural Center complex, a primary example of Locsin's floating-volume style.",
+  "commons_category": "Category:Tanghalang Pambansa",
+  "coords": [
+   [
+    14.55827,
+    120.98571
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:CCPjf0126 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CCPjf0111 07.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CCPjf0111 08.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chandigarh-college-of-architecture",
+  "qid": "Q5071058",
+  "status": "skip",
+  "why": "College; the lead gives no design reason, and the only photo is its logo."
+ },
+ {
+  "id": "dst-group-building",
+  "qid": "Q5206199",
+  "status": "skip",
+  "why": "Office tower; the sky lobby is a feature, not a design reason."
+ },
+ {
+  "id": "edificio-volta",
+  "qid": "Q5818339",
+  "status": "skip",
+  "why": "Office building for CHADE; the lead gives no design reason."
+ },
+ {
+  "id": "yatahi-building",
+  "qid": "Q5818347",
+  "status": "skip",
+  "why": "Building that now houses a government office; no design reason."
+ },
+ {
+  "id": "university-of-tehran-mosque",
+  "qid": "Q5937096",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "palacio-de-san-francisco-bogota",
+  "qid": "Q6058188",
+  "status": "skip",
+  "why": "Neoclassical palace; the style alone is not a design reason here."
+ },
+ {
+  "id": "edificio-guardiola",
+  "qid": "Q65037626",
+  "status": "photo",
+  "why": "Lead: a functionalist (modernist) office building, built 1947.",
+  "name": "Edificio Guardiola",
+  "by": "Carlos Obregón Santacilia",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": 1947,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Geometry"
+  ],
+  "features": "Functionalist office building for Banco de México, built 1947 on a site with several historical stages.",
+  "commons_category": "Category:Edificio Guardiola",
+  "coords": [
+   [
+    19.43443,
+    -99.14045
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Edificio Guardiola 11 (rectified).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-boniface-church-germiston",
+  "qid": "Q7592678",
+  "status": "skip",
+  "why": "Parish church; the lead gives no design reason, and the only photo is an interior."
+ },
+ {
+  "id": "st-la-salle-hall",
+  "qid": "Q7593924",
+  "status": "skip",
+  "why": "Academic building; the institution and neoclassical style are not a design reason here."
+ },
+ {
+  "id": "edificio-de-la-bolsa-de-comercio-de-santiago",
+  "qid": "Q76475721",
+  "status": "skip",
+  "why": "Stock exchange with a national-monument listing; no design reason."
+ },
+ {
+  "id": "palacio-6-de-julio",
+  "qid": "Q9054378",
+  "status": "skip",
+  "why": "Municipal seat; the lead gives no design reason."
+ },
+ {
+  "id": "church-of-saint-joseph",
+  "qid": "Q112913263",
+  "status": "skip",
+  "why": "Franciscan church; no design reason."
+ },
+ {
+  "id": "galeria-guemes",
+  "qid": "Q11682033",
+  "status": "photo",
+  "why": "Lead names the Art Nouveau style; lead gives only a design date (1913), so no year.",
+  "name": "Galería Güemes",
+  "by": "Francesco Gianotti",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": null,
+  "type": "Public space",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Commercial gallery on Florida Street designed in the Art Nouveau style by Italian architect Francesco Gianotti.",
+  "commons_category": "Category:Galería Güemes",
+  "coords": [
+   [
+    -34.60613,
+    -58.37495
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Galeria Güemes desde Bencich.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Galería Güemes Cúpula torreta 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "edificio-ciudadela",
+  "qid": "Q1284533",
+  "status": "skip",
+  "why": "Office and housing block of a building boom; no design reason."
+ },
+ {
+  "id": "phra-ram-ratchaniwet",
+  "qid": "Q13017714",
+  "status": "skip",
+  "why": "Former royal palace, now a museum; history only."
+ },
+ {
+  "id": "universidad-de-la-republica-building",
+  "qid": "Q1485477",
+  "status": "skip",
+  "why": "University building after a competition; institution, no design reason."
+ },
+ {
+  "id": "centro-cultural-justica-federal-brazil",
+  "qid": "Q18483689",
+  "status": "skip",
+  "why": "Former Supreme Court building; history and cultural use only."
+ },
+ {
+  "id": "la-tertulia-museum",
+  "qid": "Q18624380",
+  "status": "skip",
+  "why": "Museum; the lead describes its collections and buildings, not a design reason."
+ },
+ {
+  "id": "manik-bagh",
+  "qid": "Q1890381",
+  "status": "unsure",
+  "why": "Lead gives a design reason (Bauhaus and Art Deco, a Gesamtkunstwerk); every photo is a portrait of a person.",
+  "note": "no main photo",
+  "name": "Manik Bagh",
+  "by": "Eckart Muthesius",
+  "city": "Indore",
+  "cc": "IN",
+  "year": 1930,
+  "type": "Palace",
+  "movement": "Art Deco",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Palace built in 1930 in Bauhaus and Art Deco style inside and out, a total work of art.",
+  "commons_category": "Category:Manik Bagh",
+  "coords": [
+   [
+    22.6925,
+    75.85639
+   ]
+  ],
+  "photos": []
+ },
+ {
+  "id": "karakoy-palas",
+  "qid": "Q21278766",
+  "status": "skip",
+  "why": "Built 1920 for a bank; the lead names the architect but gives no design reason."
+ },
+ {
+  "id": "st-helena-church",
+  "qid": "Q24898428",
+  "status": "skip",
+  "why": "Catholic church; no design reason."
+ },
+ {
+  "id": "national-museum-of-ethnography-nampula",
+  "qid": "Q2944162",
+  "status": "skip",
+  "why": "Museum; the lead gives its opening and history, not a design reason."
+ },
+ {
+  "id": "lonja-del-comercio-building",
+  "qid": "Q3889431",
+  "status": "skip",
+  "why": "Former stock exchange, now offices; history only."
+ },
+ {
+  "id": "cilindro-municipal",
+  "qid": "Q5119968",
+  "status": "skip",
+  "why": "Indoor arena; ordinary type, with a 1967 event but no design reason."
+ },
+ {
+  "id": "dubara-palace",
+  "qid": "Q5310643",
+  "status": "skip",
+  "why": "Villa used as a school; no design reason."
+ }
+]

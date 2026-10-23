@@ -1,0 +1,285 @@
+{
+ "keep_ok": [
+  "istana-nurul-iman",
+  "mysore-palace",
+  "wat-benchamabophit",
+  "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+  "bebek-mosque",
+  "independence-hall-israel",
+  "all-saints-cathedral-cairo",
+  "our-lady-of-heliopolis-co-cathedral",
+  "theatre-municipal-de-tunis",
+  "sonobudoyo-museum",
+  "st-sarkis-church-yerevan-armenia",
+  "niyamasabha-mandiram",
+  "confiteria-del-molino",
+  "vilamajo-house-museum",
+  "nuestra-senora-del-libano-montevideo",
+  "immobilia-building",
+  "vedat-tek-house"
+ ],
+ "ordinary": [
+  "niyamasabha-mandiram",
+  "immobilia-building"
+ ],
+ "keep_fix": [
+  {
+   "id": "istana-nurul-iman",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1984,
+   "why": "Lead gives no year; prep's year 1984 is plausible for the palace."
+  },
+  {
+   "id": "istana-nurul-iman",
+   "field": "concepts",
+   "haiku": [
+    "Landscape",
+    "Monumentality",
+    "Community"
+   ],
+   "should_be": [
+    "Landscape",
+    "Monumentality",
+    "Sculptural form"
+   ],
+   "why": "Community is not supported by the lead; the lead stresses the hilltop riverside site."
+  },
+  {
+   "id": "wat-benchamabophit",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1911,
+   "why": "Lead gives no year; prep's year 1911 is plausible for completion."
+  },
+  {
+   "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1922,
+   "why": "Lead gives no year; prep's 1922 (opening) is plausible."
+  },
+  {
+   "id": "sonobudoyo-museum",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1935,
+   "why": "Lead gives no year; prep's 1935 is plausible."
+  },
+  {
+   "id": "st-sarkis-church-yerevan-armenia",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1999,
+   "why": "Lead says building began 1998 and gives no completion; prep's 1999 is plausible."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "mar-del-plata-cathedral",
+   "why": "Neogothic cathedral; the lead gives style and basilica status only, no notable design."
+  },
+  {
+   "id": "cathedral-of-our-lady-of-nahuel-huapi",
+   "why": "Gothic Revival cathedral; the lead gives style and construction dates only, no notable design reason."
+  },
+  {
+   "id": "st-peters-cathedral-bandung",
+   "why": "Neogothic cathedral; lead gives style, area and dates, nothing that makes the design notable."
+  },
+  {
+   "id": "basilica-of-our-lady-of-the-angels-cartago",
+   "why": "Revival basilica; the lead gives history and a mix of styles, no notable design reason."
+  },
+  {
+   "id": "toluca-cathedral",
+   "why": "Neoclassical cathedral; the lead describes statues on the facade only, no notable design."
+  },
+  {
+   "id": "pearl-palace",
+   "why": "Already on the wall (wiki=pearl-palace)."
+  },
+  {
+   "id": "palacio-chiarino",
+   "why": "Neoclassical palace, no notable design in the lead; also shares its article link with Palacio Legislativo, which is on the wall (Moretti)."
+  },
+  {
+   "id": "cathedral-basilica-of-our-lady-of-the-rosary-manizales",
+   "why": "Neo-Gothic cathedral kept by Haiku for being tall; big, not a notable design."
+  },
+  {
+   "id": "st-joseph-s-cathedral-fortaleza",
+   "why": "Neo-Gothic cathedral; the lead gives size and references to Cologne and Chartres, no notable design of its own."
+  },
+  {
+   "id": "cebu-provincial-capitol",
+   "why": "Provincial government building; the lead gives a concave facade and an inscription, Art Deco is not in the lead, and it is an ordinary civic type."
+  },
+  {
+   "id": "church-of-the-holy-sacrifice-up-diliman",
+   "why": "Already on the wall (wiki=church-of-the-holy-sacrifice)."
+  },
+  {
+   "id": "levin-house-tel-aviv",
+   "why": "Eclectic house with neoclassical touches; eclectic revival gives no design idea a student would study."
+  },
+  {
+   "id": "new-cathedral-of-cuenca",
+   "why": "Romanesque Revival cathedral; the domes are striking but the lead makes it a big revival cathedral, not a notable design."
+  },
+  {
+   "id": "building-of-the-baku-city-executive-power",
+   "why": "Baroque civic building; ordinary government office with a revival style, no notable design."
+  },
+  {
+   "id": "weizmann-house",
+   "why": "Already on the wall (wiki=weizmann-house)."
+  },
+  {
+   "id": "rizal-memorial-library-and-museum",
+   "why": "Neoclassical library and museum; the lead gives only history and offices, ordinary type."
+  },
+  {
+   "id": "civil-police-museum-rio-de-janeiro",
+   "why": "French eclectic museum building; eclectic gives no design reason."
+  },
+  {
+   "id": "our-lady-of-the-rosary-cathedral-girardota",
+   "why": "Neo-Romanesque town cathedral; the lead gives style and build time only, no notable design."
+  }
+ ],
+ "main_photo_wrong": [],
+ "rescued": [
+  {
+   "id": "church-of-the-transfiguration",
+   "why": "Barluzzi's Mount Tabor church; Barluzzi has several Holy Land churches on the wall. Low lead: kept on the architect (second test), drop if the owner wants a design reason in the lead.",
+   "entry": {
+    "id": "church-of-the-transfiguration",
+    "qid": "Q1028121",
+    "status": "photo",
+    "why": "Barluzzi's Mount Tabor church, kept on the architect (second test); lead has no design reason.",
+    "name": "Church of the Transfiguration",
+    "by": "Antonio Barluzzi",
+    "city": "Mount Tabor",
+    "cc": "IL",
+    "year": null,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Stone",
+     "Monumentality",
+     "Detail"
+    ],
+    "features": "Franciscan church on Mount Tabor, traditionally the site of the Transfiguration of Jesus.",
+    "commons_category": "Category:Church of the Transfiguration (Mount Tabor)",
+    "coords": [
+     32.68624,
+     35.39285
+    ],
+    "photos": [
+     {
+      "file": "File:Church of Transfiguration Mount Tabor200704.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Church of the Transfiguration (Mount Tabor), 2019 (01).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Church of the Transfiguration (Mount Tabor), 2019 (03).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "church-of-the-beatitudes",
+   "why": "Barluzzi's church on the Mount of Beatitudes, kept on the architect (second test); low lead.",
+   "entry": {
+    "id": "church-of-the-beatitudes",
+    "qid": "Q2918487",
+    "status": "photo",
+    "why": "Barluzzi's church by the Sea of Galilee, kept on the architect (second test); lead has no design reason.",
+    "name": "Church of the Beatitudes",
+    "by": "Antonio Barluzzi",
+    "city": "Tabgha",
+    "cc": "IL",
+    "year": 1938,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Landscape",
+     "Courtyard",
+     "Stone"
+    ],
+    "features": "Roman Catholic church on the Mount of Beatitudes by the Sea of Galilee, near Tabgha and Capernaum.",
+    "commons_category": "Category:Church of the Beatitudes (Tabgha)",
+    "coords": [
+     32.88086,
+     35.55579
+    ],
+    "photos": [
+     {
+      "file": "File:Berg der Seligpreisungen BW 4.JPG",
+      "license": "Public domain",
+      "seen": true
+     },
+     {
+      "file": "File:Berg der Seligpreisungen BW 1.JPG",
+      "license": "Public domain",
+      "seen": true
+     },
+     {
+      "file": "File:Church of beatitudes israel.jpg",
+      "license": "Public domain",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "church-of-the-visitation",
+   "why": "Barluzzi's Ein Karem church, kept on the architect (second test); low lead.",
+   "entry": {
+    "id": "church-of-the-visitation",
+    "qid": "Q830746",
+    "status": "photo",
+    "why": "Barluzzi's Ein Karem church, kept on the architect (second test); lead has no design reason.",
+    "name": "Church of the Visitation",
+    "by": "Antonio Barluzzi",
+    "city": "Jerusalem",
+    "cc": "IL",
+    "year": 1955,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Stone",
+     "Detail",
+     "Landscape"
+    ],
+    "features": "Catholic church in Ein Karem, Jerusalem, honoring Mary's visit to Elizabeth.",
+    "commons_category": "Category:Church of the Visitation",
+    "coords": [
+     31.76458,
+     35.15786
+    ],
+    "photos": [
+     {
+      "file": "File:Facade, Church of the Visitation, 2019 (01).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Church of the Visitation, 2019 (01).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 0-151: Haiku had 35 photo, 32 unsure, 85 skip. Accepted 17 keeps (6 with a year fix, 1 with a concepts fix), rejected 18 (4 on the wall already, 14 revival or ordinary with no notable design). Rescued 3 Barluzzi churches from unsure (low lead, kept on the architect). No skips rescued. Ordinary keeps: 2 of 20 (10%). No main photo needed replacing."
+}
