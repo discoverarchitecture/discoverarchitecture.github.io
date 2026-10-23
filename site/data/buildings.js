@@ -319823,18 +319823,6 @@ window.BUILDINGS = [
     "file": "File:Allen Memorial Art Museum - Oberlin College - interior 2.jpg"
    },
    {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wright-Weltzheimer_Johnson_1948.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/allen-memorial-art-museum/thumbs/6.webp",
-    "w": 989,
-    "h": 667,
-    "kind": "Plan",
-    "caption": "Plan · The Weltzheimer-Johnson house, showing the revised plan of 1948 and certain later additions",
-    "credit": "Freiluft",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Wright-Weltzheimer_Johnson_1948.png",
-    "file": "File:Wright-Weltzheimer Johnson 1948.png"
-   },
-   {
     "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Cass_Gilbert_1917-Drawing-of-Allen-Memorial-Art-Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "thumb": "images/allen-memorial-art-museum/thumbs/7.webp",
     "w": 907,
@@ -319848,7 +319836,6 @@ window.BUILDINGS = [
    }
   ],
   "has": [
-   "Plan",
    "Drawing"
   ],
   "gv": 3

@@ -29704,6 +29704,9 @@
   "add": [
    "File:Oberlin College - Allen Memorial Art Museum.jpg",
    "File:Ohio - Oberlin College - 20170715131652.jpg"
+  ],
+  "skip": [
+   "File:Wright-Weltzheimer Johnson 1948.png"
   ]
  },
  "kramars-villa": {
