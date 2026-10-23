@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-23T16:59:19+00:00",
+ "fetched_at": "2026-10-23T21:19:59+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1545,
+ "visits_30d": 1563,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 425,
+     "count": 428,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -184,6 +184,14 @@
     },
     {
      "count": 3,
+     "path_id": 114378456,
+     "path": "/buildings/spa-green-estate",
+     "event": false,
+     "title": "Spa Green Estate by Berthold Lubetkin: photos & key features",
+     "max": 2
+    },
+    {
+     "count": 3,
      "path_id": 114250181,
      "path": "building/kaleva-church",
      "event": true,
@@ -332,6 +340,14 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114198395,
+     "path": "/buildings/foguang-temple-east-hall",
+     "event": false,
+     "title": "East Hall of Foguang Temple by Tang dynasty builders: photos",
      "max": 1
     },
     {
@@ -744,6 +760,14 @@
     },
     {
      "count": 2,
+     "path_id": 112923199,
+     "path": "/buildings/casa-rotonda-stabio",
+     "event": false,
+     "title": "Casa Rotonda \u2014 Mario Botta, 1982: photos for a case study",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112793901,
      "path": "/buildings/zarya-vostoka-building",
      "event": false,
@@ -781,52 +805,28 @@
      "event": false,
      "title": "National Library Building \u2014 T. R. Hamzah & Yeang, 2005",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112547527,
-     "path": "/buildings/nuovo-villaggio-matteotti",
-     "event": false,
-     "title": "Nuovo Villaggio Matteotti \u2014 Giancarlo De Carlo, 1974: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112542443,
-     "path": "/buildings/st-george-cathedral-addis-ababa",
-     "event": false,
-     "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112528000,
-     "path": "/buildings/stadthaus-ulm",
-     "event": false,
-     "title": "Stadthaus Ulm \u2014 Richard Meier, 1993: photos for a case study",
-     "max": 1
     }
    ],
-   "total": 881,
+   "total": 885,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 916,
+     "count": 920,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 286,
+     "count": 295,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 20,
+     "count": 23,
      "ref_scheme": "c"
     },
     {
@@ -915,12 +915,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 993
+     "count": 1007
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 531
+     "count": 535
     },
     {
      "id": "Firefox",
@@ -939,27 +939,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 526
+     "count": 534
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 467
+     "count": 470
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 343
+     "count": 347
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 125
+     "count": 127
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 82
+     "count": 83
     },
     {
      "name": "",
@@ -978,22 +978,22 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 874
+     "count": 876
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 191
+     "count": 193
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 53
     },
     {
      "id": "GB",
      "name": "United Kingdom",
      "count": 53
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 52
     },
     {
      "id": "JP",
@@ -1013,7 +1013,7 @@
     {
      "id": "NL",
      "name": "Netherlands",
-     "count": 22
+     "count": 23
     },
     {
      "id": "CA",
@@ -1033,7 +1033,7 @@
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 13
+     "count": 14
     },
     {
      "id": "FR",
@@ -1043,7 +1043,7 @@
     {
      "id": "PT",
      "name": "Portugal",
-     "count": 10
+     "count": 11
     },
     {
      "id": "AE",
@@ -1051,8 +1051,18 @@
      "count": 9
     },
     {
+     "id": "BR",
+     "name": "Brazil",
+     "count": 9
+    },
+    {
      "id": "ID",
      "name": "Indonesia",
+     "count": 8
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
      "count": 8
     },
     {
@@ -1063,11 +1073,6 @@
     {
      "id": "BE",
      "name": "Belgium",
-     "count": 7
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
      "count": 7
     },
     {
@@ -1101,19 +1106,14 @@
      "count": 5
     },
     {
-     "id": "FI",
-     "name": "Finland",
+     "id": "EC",
+     "name": "Ecuador",
      "count": 5
     },
     {
-     "id": "BR",
-     "name": "Brazil",
-     "count": 4
-    },
-    {
-     "id": "EC",
-     "name": "Ecuador",
-     "count": 4
+     "id": "FI",
+     "name": "Finland",
+     "count": 5
     },
     {
      "id": "JO",
@@ -1143,6 +1143,11 @@
     {
      "id": "TW",
      "name": "Taiwan",
+     "count": 4
+    },
+    {
+     "id": "UA",
+     "name": "Ukraine",
      "count": 4
     },
     {
@@ -1176,9 +1181,9 @@
      "count": 3
     },
     {
-     "id": "UA",
-     "name": "Ukraine",
-     "count": 3
+     "id": "AM",
+     "name": "Armenia",
+     "count": 2
     },
     {
      "id": "CL",
@@ -1201,6 +1206,11 @@
      "count": 2
     },
     {
+     "id": "LB",
+     "name": "Lebanon",
+     "count": 2
+    },
+    {
      "id": "MW",
      "name": "Malawi",
      "count": 2
@@ -1219,11 +1229,6 @@
      "id": "TH",
      "name": "Thailand",
      "count": 2
-    },
-    {
-     "id": "AM",
-     "name": "Armenia",
-     "count": 1
     },
     {
      "id": "AR",
@@ -1278,11 +1283,6 @@
     {
      "id": "IR",
      "name": "Iran",
-     "count": 1
-    },
-    {
-     "id": "LB",
-     "name": "Lebanon",
      "count": 1
     },
     {
@@ -1343,17 +1343,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 800
+     "count": 806
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 36
+     "count": 38
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 643
+     "count": 653
     },
     {
      "id": "desktophd",
@@ -1373,7 +1373,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1545
+     "count": 1563
     }
    ],
    "more": false
