@@ -353999,7 +353999,97 @@ window.BUILDINGS = [
   "commons": "Category:Istana Nurul Iman",
   "lead": "File:Istana-nurul-iman.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Istana-nurul-iman.jpg/1280px-Istana-nurul-iman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Istana Nurul Iman during Open House 2008",
+    "credit": "de:Benutzer:Chtrede",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Istana-nurul-iman.jpg",
+    "file": "File:Istana-nurul-iman.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg/1280px-Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Aerial photograph of Brunei on 15 January 2026",
+    "credit": "Yu Chu Chin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_Brunei_on_15_January_2026_-_29.jpg",
+    "file": "File:Aerial photograph of Brunei on 15 January 2026 - 29.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Istana_Nurul_Iman_%282023%29_01.jpg/1280px-Istana_Nurul_Iman_%282023%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Istana Nurul Iman in 2023",
+    "credit": "Pangalau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Istana_Nurul_Iman_(2023)_01.jpg",
+    "file": "File:Istana Nurul Iman (2023) 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Jalan_Tutong_Park_to_Istana_Nurul_Iman_2011.jpg/1280px-Jalan_Tutong_Park_to_Istana_Nurul_Iman_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · From Jalan Tutong Park to Istana Nurul Iman",
+    "credit": "Peter in s",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jalan_Tutong_Park_to_Istana_Nurul_Iman_2011.jpg",
+    "file": "File:Jalan Tutong Park to Istana Nurul Iman 2011.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1000200673.mp4-400000%281%29.jpg/1280px-1000200673.mp4-400000%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Entrée de l'Istana Nurul Iman",
+    "credit": "Pachenko10",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:1000200673.mp4-400000(1).jpg",
+    "file": "File:1000200673.mp4-400000(1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Aerial_of_Brunei_%282_August_2023%29_16.jpg/1280px-Aerial_of_Brunei_%282_August_2023%29_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context · Aerial of Brunei on 2 August 2023",
+    "credit": "Pangalau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_of_Brunei_(2_August_2023)_16.jpg",
+    "file": "File:Aerial of Brunei (2 August 2023) 16.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Model_of_Balai_Singgahsana_Indera_Buana%2C_Istana_Nurul_Iman_at_the_Royal_Regalia_Museum.jpg/1280px-Model_of_Balai_Singgahsana_Indera_Buana%2C_Istana_Nurul_Iman_at_the_Royal_Regalia_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/istana-nurul-iman/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Model",
+    "caption": "Model · Taken inside the Royal Regalia Museum, Brunei on 10 December 2024",
+    "credit": "Pangalau",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Model_of_Balai_Singgahsana_Indera_Buana,_Istana_Nurul_Iman_at_the_Royal_Regalia_Museum.jpg",
+    "file": "File:Model of Balai Singgahsana Indera Buana, Istana Nurul Iman at the Royal Regalia Museum.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "mysore-palace",
@@ -354023,7 +354113,83 @@ window.BUILDINGS = [
   "commons": "Category:Mysore Palace",
   "lead": "File:Mysore Palace full front view.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mysore_Palace_full_front_view.jpg/1280px-Mysore_Palace_full_front_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mysore-palace/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Raiabhinav24",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_full_front_view.jpg",
+    "file": "File:Mysore Palace full front view.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ruthvik2.jpg/1280px-Ruthvik2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mysore-palace/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · outer look of the place",
+    "credit": "Vmite 03",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruthvik2.jpg",
+    "file": "File:Ruthvik2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mysore_Palace_Windows.jpg/1280px-Mysore_Palace_Windows.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mysore-palace/thumbs/2.webp",
+    "w": 1280,
+    "h": 884,
+    "kind": "Interior",
+    "caption": "Interior · The windows inside Mysore Palace, Karnataka",
+    "credit": "Sumit Surai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Windows.jpg",
+    "file": "File:Mysore Palace Windows.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Carvings_Door_Frame_Mysore_Palace_Dec23_A7C_08265.jpg/1280px-Carvings_Door_Frame_Mysore_Palace_Dec23_A7C_08265.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mysore-palace/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Carvings on door frame, inner courtyard, Mysore Palace, Mysore, Karnataka, India",
+    "credit": "This Photo  was taken by    Timothy A. Gonsalves   .  Feel free to use my photos, but please mention",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carvings_Door_Frame_Mysore_Palace_Dec23_A7C_08265.jpg",
+    "file": "File:Carvings Door Frame Mysore Palace Dec23 A7C 08265.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Chandelier_Hall_Mysore_Palace_Dec23_A7C_08289.jpg/1280px-Chandelier_Hall_Mysore_Palace_Dec23_A7C_08289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mysore-palace/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Czechoslovakian chandelier in a hall in the Mysore Palace, Mysore, Karnataka, India",
+    "credit": "This Photo  was taken by    Timothy A. Gonsalves   .  Feel free to use my photos, but please mention",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chandelier_Hall_Mysore_Palace_Dec23_A7C_08289.jpg",
+    "file": "File:Chandelier Hall Mysore Palace Dec23 A7C 08289.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Chandelier_Hall_Mysore_Palace_Dec23_A7C_08290.jpg/1280px-Chandelier_Hall_Mysore_Palace_Dec23_A7C_08290.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mysore-palace/thumbs/5.webp",
+    "w": 909,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Czechoslovakian chandelier in a hall in the Mysore Palace, Mysore, Karnataka, India",
+    "credit": "This Photo  was taken by    Timothy A. Gonsalves   .  Feel free to use my photos, but please mention",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chandelier_Hall_Mysore_Palace_Dec23_A7C_08290.jpg",
+    "file": "File:Chandelier Hall Mysore Palace Dec23 A7C 08290.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "wat-benchamabophit",
@@ -354047,7 +354213,83 @@ window.BUILDINGS = [
   "commons": "Category:Wat Benchamabophit",
   "lead": "File:Entrance of Wat Ben.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Entrance_of_Wat_Ben.jpg/1280px-Entrance_of_Wat_Ben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-benchamabophit/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Thailand identified by the ID",
+    "credit": "This Photo was taken by    Supanut Arunoprayote   .\n \n Feel free to use any of my images, but please",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_of_Wat_Ben.jpg",
+    "file": "File:Entrance of Wat Ben.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Wat_Benchamabophit_2.jpg/1280px-Wat_Benchamabophit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-benchamabophit/thumbs/1.webp",
+    "w": 1280,
+    "h": 518,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Rangan Datta Wiki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wat_Benchamabophit_2.jpg",
+    "file": "File:Wat Benchamabophit 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Roof_tiles_on_the_Wat_Benchamabophit_Dusitwanaram%2C_Bangkok_%2854202197593%29.jpg/1280px-Roof_tiles_on_the_Wat_Benchamabophit_Dusitwanaram%2C_Bangkok_%2854202197593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-benchamabophit/thumbs/2.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Roof tiles on the Wat Benchamabophit Dusitwanaram, Bangkok",
+    "credit": "Mustang Joe",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roof_tiles_on_the_Wat_Benchamabophit_Dusitwanaram,_Bangkok_(54202197593).jpg",
+    "file": "File:Roof tiles on the Wat Benchamabophit Dusitwanaram, Bangkok (54202197593).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Wat_Benchamabophit_%28I%29.jpg/1280px-Wat_Benchamabophit_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-benchamabophit/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "This Photo was taken by    Supanut Arunoprayote   .\n \n Feel free to use any of my images, but please",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wat_Benchamabophit_(I).jpg",
+    "file": "File:Wat Benchamabophit (I).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%282022%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Wat_Benjamabopit_%285%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-benchamabophit/thumbs/4.webp",
+    "w": 1280,
+    "h": 961,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a monument in Thailand identified by the ID",
+    "credit": "กสิณธร ราชโอรส",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:(2022)_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A1%E0%B8%9A%E0%B8%9E%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Wat_Benjamabopit_(5).jpg",
+    "file": "File:(2022) วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร เขตดุสิต กรุงเทพมหานคร Wat Benjamabopit (5).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wat_Benchamabophit_15.jpg/1280px-Wat_Benchamabophit_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/wat-benchamabophit/thumbs/5.webp",
+    "w": 969,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail",
+    "credit": "Rangan Datta Wiki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wat_Benchamabophit_15.jpg",
+    "file": "File:Wat Benchamabophit 15.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
@@ -354071,7 +354313,110 @@ window.BUILDINGS = [
   "commons": "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
   "lead": "File:Prince of Wales Museum, Mumbai 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Prince_of_Wales_Museum%2C_Mumbai_01.jpg/1280px-Prince_of_Wales_Museum%2C_Mumbai_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/0.webp",
+    "w": 1280,
+    "h": 840,
+    "kind": "Exterior",
+    "caption": "Exterior · Prince of Wales Museum (Chhatrapati Shivaji Maharaj Vastu Sangrahalaya), Mumbai, India",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prince_of_Wales_Museum,_Mumbai_01.jpg",
+    "file": "File:Prince of Wales Museum, Mumbai 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_1.jpg/1280px-Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/1.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, Mumbai, India",
+    "credit": "P. Hughes",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai_-_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_1.jpg",
+    "file": "File:Mumbai - Chhatrapati Shivaji Maharaj Vastu Sangrahalaya 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Photos_from_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_JEG1232.JPG/1280px-Photos_from_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_JEG1232.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/2.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "P. Jeganathan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Photos_from_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya_JEG1232.JPG",
+    "file": "File:Photos from Chhatrapati Shivaji Maharaj Vastu Sangrahalaya JEG1232.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Chhatrapati_shivaji_maharaj_vastu_sangrahalaya_museum%2C_atrio_centrale_01.jpg/1280px-Chhatrapati_shivaji_maharaj_vastu_sangrahalaya_museum%2C_atrio_centrale_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/3.webp",
+    "w": 895,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chhatrapati_shivaji_maharaj_vastu_sangrahalaya_museum,_atrio_centrale_01.jpg",
+    "file": "File:Chhatrapati shivaji maharaj vastu sangrahalaya museum, atrio centrale 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Inside_View_Chhatrapati_Shivaji_Mahajraj_Museum_Mumbai.jpg/1280px-Inside_View_Chhatrapati_Shivaji_Mahajraj_Museum_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · A view from inside the museum, showing off its ornate pillars",
+    "credit": "Sudhir Narayana",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_View_Chhatrapati_Shivaji_Mahajraj_Museum_Mumbai.jpg",
+    "file": "File:Inside View Chhatrapati Shivaji Mahajraj Museum Mumbai.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Architecture_style_of_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya%2CMumbai%2C.jpg/1280px-Architecture_style_of_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya%2CMumbai%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Architecture of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Mumbai, India",
+    "credit": "Harvinder Chandigarh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Architecture_style_of_Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya,Mumbai,.jpg",
+    "file": "File:Architecture style of Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Mumbai,.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Closeup_of_central_section_of_CSMVS_building.jpg/1280px-Closeup_of_central_section_of_CSMVS_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/6.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Section",
+    "caption": "Section · Closeup of central section of CSMVS building from the front garden",
+    "credit": "DesiBoy101",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_central_section_of_CSMVS_building.jpg",
+    "file": "File:Closeup of central section of CSMVS building.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Llustration_of_the_Four_Raginis%2C_late_17th_century_CE%2C_Mughal_School_of_Art%2C_Chatrapati_Shivaji_Maharaj_Vastu_Sanghralaya%2C_Mumbai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/chhatrapati-shivaji-maharaj-vastu-sangrahalaya/thumbs/7.webp",
+    "w": 936,
+    "h": 1310,
+    "kind": "Model",
+    "caption": "Model",
+    "credit": "SpeakingArch",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Llustration_of_the_Four_Raginis,_late_17th_century_CE,_Mughal_School_of_Art,_Chatrapati_Shivaji_Maharaj_Vastu_Sanghralaya,_Mumbai.jpg",
+    "file": "File:Llustration of the Four Raginis, late 17th century CE, Mughal School of Art, Chatrapati Shivaji Maharaj Vastu Sanghralaya, Mumbai.jpg"
+   }
+  ],
+  "has": [
+   "Section",
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "bebek-mosque",
@@ -354095,7 +354440,59 @@ window.BUILDINGS = [
   "commons": "Category:Bebek Mosque",
   "lead": "File:İstanbul - Bebek, Beşiktaş r7 - Şub 2013.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%C4%B0stanbul_-_Bebek%2C_Be%C5%9Fikta%C5%9F_r7_-_%C5%9Eub_2013.JPG/1280px-%C4%B0stanbul_-_Bebek%2C_Be%C5%9Fikta%C5%9F_r7_-_%C5%9Eub_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bebek-mosque/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · İstanbul - Bebek, Beşiktaş r7 - feb 2013",
+    "credit": "VikiPicture",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_-_Bebek,_Be%C5%9Fikta%C5%9F_r7_-_%C5%9Eub_2013.JPG",
+    "file": "File:İstanbul - Bebek, Beşiktaş r7 - Şub 2013.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Bebek_Camii_01.jpg/1280px-Bebek_Camii_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bebek-mosque/thumbs/1.webp",
+    "w": 1280,
+    "h": 1016,
+    "kind": "Exterior",
+    "caption": "Exterior · Bebek Camii",
+    "credit": "Güldem Üstün",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bebek_Camii_01.jpg",
+    "file": "File:Bebek Camii 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Bebek_Camii_02.jpg/1280px-Bebek_Camii_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bebek-mosque/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Bebek Camii",
+    "credit": "Omer",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bebek_Camii_02.jpg",
+    "file": "File:Bebek Camii 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%C4%B0stanbul_-_Bebek%2C_Be%C5%9Fikta%C5%9F_r4_-_%C5%9Eub_2013.JPG/1280px-%C4%B0stanbul_-_Bebek%2C_Be%C5%9Fikta%C5%9F_r4_-_%C5%9Eub_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bebek-mosque/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · İstanbul - Bebek, Beşiktaş r4 - feb 2013",
+    "credit": "VikiPicture",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_-_Bebek,_Be%C5%9Fikta%C5%9F_r4_-_%C5%9Eub_2013.JPG",
+    "file": "File:İstanbul - Bebek, Beşiktaş r4 - Şub 2013.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "all-saints-cathedral-cairo",
@@ -354119,7 +354516,23 @@ window.BUILDINGS = [
   "commons": "Category:All Saints' Cathedral, Cairo",
   "lead": "File:All Saints' Cathedral, Cairo, Episcopal Diocese of Egypt.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/All_Saints%27_Cathedral%2C_Cairo%2C_Episcopal_Diocese_of_Egypt.jpg/1280px-All_Saints%27_Cathedral%2C_Cairo%2C_Episcopal_Diocese_of_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/all-saints-cathedral-cairo/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is the Cathedral of the Anglican/Episcopal Church in Cairo during the annual Charity Bazaar",
+    "credit": "Chrischorlton",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:All_Saints%27_Cathedral,_Cairo,_Episcopal_Diocese_of_Egypt.jpg",
+    "file": "File:All Saints' Cathedral, Cairo, Episcopal Diocese of Egypt.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "our-lady-of-heliopolis-co-cathedral",
@@ -354143,7 +354556,83 @@ window.BUILDINGS = [
   "commons": "Category:Cathedral of Our Lady of Heliopolis, Cairo",
   "lead": "File:Baselik church.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Baselik_church.jpg/1280px-Baselik_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/our-lady-of-heliopolis-co-cathedral/thumbs/0.webp",
+    "w": 1280,
+    "h": 1015,
+    "kind": "Exterior",
+    "caption": "Exterior · bazilik church",
+    "credit": "mina medhat lami",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baselik_church.jpg",
+    "file": "File:Baselik church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Eliopoli%2C_basilica_del_barone_empain%2C_01.JPG/1280px-Eliopoli%2C_basilica_del_barone_empain%2C_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/our-lady-of-heliopolis-co-cathedral/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Heliopolis (Cairo suburb)",
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eliopoli,_basilica_del_barone_empain,_01.JPG",
+    "file": "File:Eliopoli, basilica del barone empain, 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%83_%D8%A8%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.jpg/1280px-%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%83_%D8%A8%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/our-lady-of-heliopolis-co-cathedral/thumbs/2.webp",
+    "w": 930,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Basilique church, Heliopolis",
+    "credit": "Ahmedwaleedsamy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%83_%D8%A8%D9%85%D8%B5%D8%B1_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.jpg",
+    "file": "File:كنيسة البازيليك بمصر الجديدة.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Cokathedraal_van_Onze-Lieve-Vrouw_van_Heliopolis.jpg/1280px-Cokathedraal_van_Onze-Lieve-Vrouw_van_Heliopolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/our-lady-of-heliopolis-co-cathedral/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Co-cathedral of Our Lady of Helipolis, Cairo",
+    "credit": "Ziqo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cokathedraal_van_Onze-Lieve-Vrouw_van_Heliopolis.jpg",
+    "file": "File:Cokathedraal van Onze-Lieve-Vrouw van Heliopolis.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Our_Lady_of_Heliopolis_Co-Cathedral_in_2005.jpg/1280px-Our_Lady_of_Heliopolis_Co-Cathedral_in_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/our-lady-of-heliopolis-co-cathedral/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · w:Our Lady of Heliopolis Co-Cathedral as seen from \"Al-Ahram Street\" in Heliopolis",
+    "credit": "XPAW  ( talk ) ( Uploads )",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Heliopolis_Co-Cathedral_in_2005.jpg",
+    "file": "File:Our Lady of Heliopolis Co-Cathedral in 2005.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%D9%83%D9%86%D9%8A%D8%B3%D9%87_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%83%D8%A7.jpg/1280px-%D9%83%D9%86%D9%8A%D8%B3%D9%87_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%83%D8%A7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/our-lady-of-heliopolis-co-cathedral/thumbs/5.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Sherif capo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%83%D9%86%D9%8A%D8%B3%D9%87_%D8%A7%D9%84%D8%A8%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%83%D8%A7.jpg",
+    "file": "File:كنيسه البازيليكا.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "theatre-municipal-de-tunis",
@@ -354167,7 +354656,83 @@ window.BUILDINGS = [
   "commons": "Category:Municipal Theater of Tunis",
   "lead": "File:Theater tunis 20260716 3.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Theater_tunis_20260716_3.jpg/1280px-Theater_tunis_20260716_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-municipal-de-tunis/thumbs/0.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Exterior",
+    "caption": "Exterior · Théâtre municipal de la Médina de Tunis",
+    "credit": "Z thomas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Theater_tunis_20260716_3.jpg",
+    "file": "File:Theater tunis 20260716 3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Theater_tunis_20260716_4.jpg/1280px-Theater_tunis_20260716_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-municipal-de-tunis/thumbs/1.webp",
+    "w": 1280,
+    "h": 687,
+    "kind": "Exterior",
+    "caption": "Exterior · Théâtre municipal de la Médina de Tunis",
+    "credit": "Z thomas",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Theater_tunis_20260716_4.jpg",
+    "file": "File:Theater tunis 20260716 4.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Th%C3%A9%C3%A2tre_Municipal_de_Tunis.JPG/1280px-Th%C3%A9%C3%A2tre_Municipal_de_Tunis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-municipal-de-tunis/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Théâtre municipal de la Médina de Tunis",
+    "credit": "Soulaymabenammar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_Municipal_de_Tunis.JPG",
+    "file": "File:Théâtre Municipal de Tunis.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Th%C3%A9%C3%A2tre_municipal_de_Tunis_21.JPG/1280px-Th%C3%A9%C3%A2tre_municipal_de_Tunis_21.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-municipal-de-tunis/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Théâtre municipal de la Médina de Tunis",
+    "credit": "IssamBarhoumi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_municipal_de_Tunis_21.JPG",
+    "file": "File:Théâtre municipal de Tunis 21.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Theatre_Tunis.jpg/1280px-Theatre_Tunis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-municipal-de-tunis/thumbs/4.webp",
+    "w": 1280,
+    "h": 848,
+    "kind": "Interior",
+    "caption": "Interior · Théâtre municipal de la Médina de Tunis",
+    "credit": "Iheb Ezzaier",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Theatre_Tunis.jpg",
+    "file": "File:Theatre Tunis.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Vari%C3%A9t%C3%A9_tunis_17.JPG/1280px-Vari%C3%A9t%C3%A9_tunis_17.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-municipal-de-tunis/thumbs/5.webp",
+    "w": 927,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Théâtre municipal de la Médina de Tunis, Tunis",
+    "credit": "Kalechnizar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vari%C3%A9t%C3%A9_tunis_17.JPG",
+    "file": "File:Variété tunis 17.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sonobudoyo-museum",
@@ -354191,7 +354756,83 @@ window.BUILDINGS = [
   "commons": "Category:Sonobudoyo Museum",
   "lead": "File:Museum Sonobudoyo Yogyakarta Unit 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Museum_Sonobudoyo_Yogyakarta_Unit_1.jpg/1280px-Museum_Sonobudoyo_Yogyakarta_Unit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sonobudoyo-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 840,
+    "kind": "Exterior",
+    "caption": "Exterior · Museum Sonobudoyo Yogyakarta Unit 1",
+    "credit": "Sabjan Badio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_Sonobudoyo_Yogyakarta_Unit_1.jpg",
+    "file": "File:Museum Sonobudoyo Yogyakarta Unit 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_08.jpg/1280px-Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sonobudoyo-museum/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05",
+    "credit": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Javanese_tembang_and_dance_fusion_performance,_Sonobudoyo_Museum,_Yogyakarta,_2017-12-05_08.jpg",
+    "file": "File:Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05 08.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_11.jpg/1280px-Javanese_tembang_and_dance_fusion_performance%2C_Sonobudoyo_Museum%2C_Yogyakarta%2C_2017-12-05_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sonobudoyo-museum/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05",
+    "credit": "Crisco 1492",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Javanese_tembang_and_dance_fusion_performance,_Sonobudoyo_Museum,_Yogyakarta,_2017-12-05_11.jpg",
+    "file": "File:Javanese tembang and dance fusion performance, Sonobudoyo Museum, Yogyakarta, 2017-12-05 11.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Historical_relics_from_the_time_of_the_Ancient_Javanese_Kingdom.jpg/1280px-Historical_relics_from_the_time_of_the_Ancient_Javanese_Kingdom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sonobudoyo-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 964,
+    "kind": "Exterior",
+    "caption": "Exterior · Fully written in Kawi script",
+    "credit": "Alnrhh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Historical_relics_from_the_time_of_the_Ancient_Javanese_Kingdom.jpg",
+    "file": "File:Historical relics from the time of the Ancient Javanese Kingdom.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Storage_room_for_ancient_manuscripts_at_the_Sonobudoyo_Museum_Unit_II.jpg/1280px-Storage_room_for_ancient_manuscripts_at_the_Sonobudoyo_Museum_Unit_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sonobudoyo-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Storage room for ancient manuscripts at the Sonobudoyo Museum Unit II",
+    "credit": "Sam Hidayat",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Storage_room_for_ancient_manuscripts_at_the_Sonobudoyo_Museum_Unit_II.jpg",
+    "file": "File:Storage room for ancient manuscripts at the Sonobudoyo Museum Unit II.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Arca_Hayagriwa_di_Museum_Sonobudoyo.jpg/1280px-Arca_Hayagriwa_di_Museum_Sonobudoyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sonobudoyo-museum/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Arca Hayagriwa abad ke-8 hingga 9 M di Museum Sonobudoyo, Yogyakarta",
+    "credit": "Risanprasetyo /Febri Ady Prasetyo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arca_Hayagriwa_di_Museum_Sonobudoyo.jpg",
+    "file": "File:Arca Hayagriwa di Museum Sonobudoyo.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "st-sarkis-church-yerevan-armenia",
@@ -354215,7 +354856,83 @@ window.BUILDINGS = [
   "commons": "Category:Saint Sarkis Church, Nor Nork",
   "lead": "File:Սուրբ Սարգիս եկեղեցի, Նոր Նորք, Երեւան.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%D5%8D%D5%B8%D6%82%D6%80%D5%A2_%D5%8D%D5%A1%D6%80%D5%A3%D5%AB%D5%BD_%D5%A5%D5%AF%D5%A5%D5%B2%D5%A5%D6%81%D5%AB%2C_%D5%86%D5%B8%D6%80_%D5%86%D5%B8%D6%80%D6%84%2C_%D4%B5%D6%80%D5%A5%D6%82%D5%A1%D5%B6.JPG/1280px-%D5%8D%D5%B8%D6%82%D6%80%D5%A2_%D5%8D%D5%A1%D6%80%D5%A3%D5%AB%D5%BD_%D5%A5%D5%AF%D5%A5%D5%B2%D5%A5%D6%81%D5%AB%2C_%D5%86%D5%B8%D6%80_%D5%86%D5%B8%D6%80%D6%84%2C_%D4%B5%D6%80%D5%A5%D6%82%D5%A1%D5%B6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The circular Armenian church Saint Sarkis in the Nor Nork district of Yerevan",
+    "credit": "Serouj",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D5%8D%D5%B8%D6%82%D6%80%D5%A2_%D5%8D%D5%A1%D6%80%D5%A3%D5%AB%D5%BD_%D5%A5%D5%AF%D5%A5%D5%B2%D5%A5%D6%81%D5%AB,_%D5%86%D5%B8%D6%80_%D5%86%D5%B8%D6%80%D6%84,_%D4%B5%D6%80%D5%A5%D6%82%D5%A1%D5%B6.JPG",
+    "file": "File:Սուրբ Սարգիս եկեղեցի, Նոր Նորք, Երեւան.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Surb_Sargis_Church_Nor_Nork_06.JPG/1280px-Surb_Sargis_Church_Nor_Nork_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/1.webp",
+    "w": 1280,
+    "h": 1049,
+    "kind": "Exterior",
+    "caption": "Exterior · Surb Sargis (Saint Sarkis) Church in the 5-th district of Nor Nork of Yerevan",
+    "credit": "Armen Manukov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Surb_Sargis_Church_Nor_Nork_06.JPG",
+    "file": "File:Surb Sargis Church Nor Nork 06.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Cross_near_Surb_Sargis_Church_Nor_Nork.JPG/1280px-Cross_near_Surb_Sargis_Church_Nor_Nork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Cross near Surb Sargis (Saint Sarkis) Church in the 5-th district of Nor Nork of Yerevan",
+    "credit": "Armen Manukov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cross_near_Surb_Sargis_Church_Nor_Nork.JPG",
+    "file": "File:Cross near Surb Sargis Church Nor Nork.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Memorial_Arch_Surb_Sargis_Church_Nor_Nork.JPG/1280px-Memorial_Arch_Surb_Sargis_Church_Nor_Nork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Surb Sargis (Saint Sarkis) Church in the 5-th district of Nor Nork of Yerevan",
+    "credit": "Armen Manukov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Memorial_Arch_Surb_Sargis_Church_Nor_Nork.JPG",
+    "file": "File:Memorial Arch Surb Sargis Church Nor Nork.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Inside_Saint_Sarkis_Church%2C_Nor_Nork.JPG/1280px-Inside_Saint_Sarkis_Church%2C_Nor_Nork.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Inside view of the circular Armenian church Saint Sarkis in the Nor Nork district of Yerevan",
+    "credit": "Serouj",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Saint_Sarkis_Church,_Nor_Nork.JPG",
+    "file": "File:Inside Saint Sarkis Church, Nor Nork.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Patarag_Nor-Norqi_Surb_Sargisum.JPG/1280px-Patarag_Nor-Norqi_Surb_Sargisum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-sarkis-church-yerevan-armenia/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of Saint Sarkis Church, Nor Nork",
+    "credit": "Վահան Ամրության",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Patarag_Nor-Norqi_Surb_Sargisum.JPG",
+    "file": "File:Patarag Nor-Norqi Surb Sargisum.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "niyamasabha-mandiram",
@@ -354239,7 +354956,83 @@ window.BUILDINGS = [
   "commons": "Category:Niyamasabha Mandiram",
   "lead": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (1).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Kerala_State_Legislative_Assembly_building%2C_Trivandrum_-_sautvmcc2k26_%281%29.jpg/1280px-Kerala_State_Legislative_Assembly_building%2C_Trivandrum_-_sautvmcc2k26_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/niyamasabha-mandiram/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Photos from Trivandrum and Kanyakumari September 2026",
+    "credit": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kerala_State_Legislative_Assembly_building,_Trivandrum_-_sautvmcc2k26_(1).jpg",
+    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Kerala_State_Legislative_Assembly_building%2C_Trivandrum_-_sautvmcc2k26_%2810%29.jpg/1280px-Kerala_State_Legislative_Assembly_building%2C_Trivandrum_-_sautvmcc2k26_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/niyamasabha-mandiram/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Photos from Trivandrum and Kanyakumari September 2026",
+    "credit": "Vinayaraj",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kerala_State_Legislative_Assembly_building,_Trivandrum_-_sautvmcc2k26_(10).jpg",
+    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (10).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Niyamasabha_Mandiram.JPG/1280px-Niyamasabha_Mandiram.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/niyamasabha-mandiram/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Kerala State Legislative Assembly or the Niyamasabha in night",
+    "credit": "Arkarjun",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Niyamasabha_Mandiram.JPG",
+    "file": "File:Niyamasabha Mandiram.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Kerala_Niyamasabha.jpg/1280px-Kerala_Niyamasabha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/niyamasabha-mandiram/thumbs/3.webp",
+    "w": 1280,
+    "h": 721,
+    "kind": "Exterior",
+    "caption": "Exterior · Kerala legislative assembly building in the capital city, Thiruvananthapuram",
+    "credit": "sabu-mampallil-kottayam",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kerala_Niyamasabha.jpg",
+    "file": "File:Kerala Niyamasabha.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Inside_View_of_Kerala_Legislative_Assembly.jpg/1280px-Inside_View_of_Kerala_Legislative_Assembly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/niyamasabha-mandiram/thumbs/4.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Interior",
+    "caption": "Interior · Inside View of Kerala Legislative Assembly",
+    "credit": "rmb",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_View_of_Kerala_Legislative_Assembly.jpg",
+    "file": "File:Inside View of Kerala Legislative Assembly.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Tvmcityview.jpg/1280px-Tvmcityview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/niyamasabha-mandiram/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Copyrighted to Mr.Rajith Mohan",
+    "credit": "Rajith Mohan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tvmcityview.jpg",
+    "file": "File:Tvmcityview.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "confiteria-del-molino",
@@ -354263,7 +355056,83 @@ window.BUILDINGS = [
   "commons": "Category:Confitería del Molino",
   "lead": "File:Confitería del Molino in 2022.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Confiter%C3%ADa_del_Molino_in_2022.jpg/1280px-Confiter%C3%ADa_del_Molino_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confiteria-del-molino/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Afternoon view of Confitería del Molino in Buenos Aires",
+    "credit": "Tadeo GV",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confiter%C3%ADa_del_Molino_in_2022.jpg",
+    "file": "File:Confitería del Molino in 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Edificio_del_molino.jpg/1280px-Edificio_del_molino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confiteria-del-molino/thumbs/1.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Esta foto la saque desde el Palacio Barolo con mi camara",
+    "credit": "Marianobuenosaires",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificio_del_molino.jpg",
+    "file": "File:Edificio del molino.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Visita_a_la_Confiter%C3%ADa_del_Molino_-_53485913632.jpg/1280px-Visita_a_la_Confiter%C3%ADa_del_Molino_-_53485913632.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confiteria-del-molino/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Secretaría de Cultura",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Visita_a_la_Confiter%C3%ADa_del_Molino_-_53485913632.jpg",
+    "file": "File:Visita a la Confitería del Molino - 53485913632.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Visita_a_la_Confiter%C3%ADa_del_Molino_-_53485913757.jpg/1280px-Visita_a_la_Confiter%C3%ADa_del_Molino_-_53485913757.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confiteria-del-molino/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Secretaría de Cultura",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Visita_a_la_Confiter%C3%ADa_del_Molino_-_53485913757.jpg",
+    "file": "File:Visita a la Confitería del Molino - 53485913757.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Confiter%C3%ADa_del_Molino%2C_interior_05.jpg/1280px-Confiter%C3%ADa_del_Molino%2C_interior_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confiteria-del-molino/thumbs/4.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Interior",
+    "caption": "Interior · Confitería del Molino, detalle de la cúpula, en Callao y Rivadavia, Buenos Aires, Argentina",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confiter%C3%ADa_del_Molino,_interior_05.jpg",
+    "file": "File:Confitería del Molino, interior 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Confiter%C3%ADa_del_Molino%2C_interior_08.jpg/1280px-Confiter%C3%ADa_del_Molino%2C_interior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/confiteria-del-molino/thumbs/5.webp",
+    "w": 1047,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Confitería del Molino, en Callao y Rivadavia, Buenos Aires, Argentina",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Confiter%C3%ADa_del_Molino,_interior_08.jpg",
+    "file": "File:Confitería del Molino, interior 08.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "vilamajo-house-museum",
@@ -354287,7 +355156,83 @@ window.BUILDINGS = [
   "commons": "Category:Casa Vilamajó",
   "lead": "File:Casa Arq. Julio Vilamajó.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Casa_Arq._Julio_Vilamaj%C3%B3.jpg/1280px-Casa_Arq._Julio_Vilamaj%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vilamajo-house-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Monte San Savino",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Arq._Julio_Vilamaj%C3%B3.jpg",
+    "file": "File:Casa Arq. Julio Vilamajó.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Museo_Casa_Vilamajo_2026.jpg/1280px-Museo_Casa_Vilamajo_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vilamajo-house-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 1297,
+    "kind": "Exterior",
+    "caption": "Exterior · Museo Casa Vilamajo, 2026",
+    "credit": "AnaCampanella",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Casa_Vilamajo_2026.jpg",
+    "file": "File:Museo Casa Vilamajo 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Casa_de_Vilamaj%C3%B3.jpg/1280px-Casa_de_Vilamaj%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vilamajo-house-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Monte San Savino",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Vilamaj%C3%B3.jpg",
+    "file": "File:Casa de Vilamajó.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Casa_del_Arquitecto_Vilamaj%C3%B3.jpg/1280px-Casa_del_Arquitecto_Vilamaj%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vilamajo-house-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Monte San Savino",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_del_Arquitecto_Vilamaj%C3%B3.jpg",
+    "file": "File:Casa del Arquitecto Vilamajó.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/VILAMAJO_detalle_escalera_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/vilamajo-house-museum/thumbs/4.webp",
+    "w": 940,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Wood.mauricio",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:VILAMAJO_detalle_escalera_interior.jpg",
+    "file": "File:VILAMAJO detalle escalera interior.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Casa_Julio_Vilamaj%C3%B3%2C_interior_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/vilamajo-house-museum/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a Uruguayan monument identified by the ID",
+    "credit": "Nicolas Barriola",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_Julio_Vilamaj%C3%B3,_interior_12.jpg",
+    "file": "File:Casa Julio Vilamajó, interior 12.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "nuestra-senora-del-libano-montevideo",
@@ -354311,7 +355256,35 @@ window.BUILDINGS = [
   "commons": "Category:Parroquia Maronita de Nuestra Señora del Líbano",
   "lead": "File:Nuestra Señora del Libano, Sayago.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Nuestra_Se%C3%B1ora_del_Libano%2C_Sayago.jpg/1280px-Nuestra_Se%C3%B1ora_del_Libano%2C_Sayago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nuestra-senora-del-libano-montevideo/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Nuestra Señora del Libano",
+    "credit": "JacobinoWunsh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nuestra_Se%C3%B1ora_del_Libano,_Sayago.jpg",
+    "file": "File:Nuestra Señora del Libano, Sayago.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuestra_Se%C3%B1ora_del_L%C3%ADbano2.jpg/1280px-Nuestra_Se%C3%B1ora_del_L%C3%ADbano2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nuestra-senora-del-libano-montevideo/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Iglesia de Nuestra Señora del Líbano",
+    "credit": "JacobinoWunsh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nuestra_Se%C3%B1ora_del_L%C3%ADbano2.jpg",
+    "file": "File:Nuestra Señora del Líbano2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "immobilia-building",
@@ -354335,7 +355308,35 @@ window.BUILDINGS = [
   "commons": "Category:Immobilia Building",
   "lead": "File:Burroughs Wellcome & Co., Cairo. Wellcome M0013215.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Burroughs_Wellcome_%26_Co.%2C_Cairo._Wellcome_M0013215.jpg/1280px-Burroughs_Wellcome_%26_Co.%2C_Cairo._Wellcome_M0013215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/immobilia-building/thumbs/0.webp",
+    "w": 1280,
+    "h": 910,
+    "kind": "Exterior",
+    "caption": "Exterior · Burroughs Wellcome & Co",
+    "credit": "https://wellcomeimages.org/indexplus/obf_images/6c/8d/08e81b3c26ecf7dd91d102eb6507.jpg \n \n  Gallery:",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burroughs_Wellcome_%26_Co.,_Cairo._Wellcome_M0013215.jpg",
+    "file": "File:Burroughs Wellcome & Co., Cairo. Wellcome M0013215.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/%D9%85%D9%82%D8%A7%D9%84%D9%87_%22%D9%83%D8%A7%D9%85%D9%8A%D9%84%D9%8A%D8%A7..%D9%83%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%AF_%D8%A7%D9%86_%D8%AA%D8%B9%D9%8A%D8%B4%22_%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D9%87_%D8%A8%D9%85%D8%AC%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_1950.jpg/1280px-%D9%85%D9%82%D8%A7%D9%84%D9%87_%22%D9%83%D8%A7%D9%85%D9%8A%D9%84%D9%8A%D8%A7..%D9%83%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%AF_%D8%A7%D9%86_%D8%AA%D8%B9%D9%8A%D8%B4%22_%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D9%87_%D8%A8%D9%85%D8%AC%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/immobilia-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Diana Abadeer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%82%D8%A7%D9%84%D9%87_%22%D9%83%D8%A7%D9%85%D9%8A%D9%84%D9%8A%D8%A7..%D9%83%D8%A7%D9%86%D8%AA_%D8%AA%D8%B1%D9%8A%D8%AF_%D8%A7%D9%86_%D8%AA%D8%B9%D9%8A%D8%B4%22_%D8%A7%D9%84%D8%B5%D8%A7%D8%AF%D8%B1%D9%87_%D8%A8%D9%85%D8%AC%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%A7%D9%83%D8%A8_%D8%B9%D8%AF%D8%AF_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_1950.jpg",
+    "file": "File:مقاله \"كاميليا..كانت تريد ان تعيش\" الصادره بمجله الكواكب عدد سبتمبر 1950.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "vedat-tek-house",
@@ -354359,7 +355360,47 @@ window.BUILDINGS = [
   "commons": "Category:Vedat Tek House",
   "lead": "File:Vedat Tek Evi, Nişantası.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Vedat_Tek_Evi%2C_Ni%C5%9Fantas%C4%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/vedat-tek-house/thumbs/0.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · The house of architect Vedat Tek on Valikonağı Caddesi, Nişantaşı, İstanbul",
+    "credit": "Lambiam",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vedat_Tek_Evi,_Ni%C5%9Fantas%C4%B1.jpg",
+    "file": "File:Vedat Tek Evi, Nişantası.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Vedat_Tek_House.jpg/1280px-Vedat_Tek_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vedat-tek-house/thumbs/1.webp",
+    "w": 1280,
+    "h": 903,
+    "kind": "Exterior",
+    "caption": "Exterior · The house of architect Vedat Tek on Valikonağı Caddesi, Nişantaşı, İstanbul",
+    "credit": "Metuboy",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vedat_Tek_House.jpg",
+    "file": "File:Vedat Tek House.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%B0stanbul_Vedat_Tek_Evi_2025.jpg/1280px-%C4%B0stanbul_Vedat_Tek_Evi_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vedat-tek-house/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Antoloji",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0stanbul_Vedat_Tek_Evi_2025.jpg",
+    "file": "File:İstanbul Vedat Tek Evi 2025.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "temple-of-saint-anthony-of-padua",
@@ -354383,7 +355424,97 @@ window.BUILDINGS = [
   "commons": "Category:Templo de San Antonio, Aguascalientes",
   "lead": "File:967 TEMPLO DE SAN ANTONIO.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/967_TEMPLO_DE_SAN_ANTONIO.jpg/1280px-967_TEMPLO_DE_SAN_ANTONIO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/0.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "José Luis Tristán Espino",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:967_TEMPLO_DE_SAN_ANTONIO.jpg",
+    "file": "File:967 TEMPLO DE SAN ANTONIO.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/00967_Templo_de_San_Antonio_-_Aguascalientes_-_Aguascalientes_%282%29.jpg/1280px-00967_Templo_de_San_Antonio_-_Aguascalientes_-_Aguascalientes_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Luis Mariano Martín",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:00967_Templo_de_San_Antonio_-_Aguascalientes_-_Aguascalientes_(2).jpg",
+    "file": "File:00967 Templo de San Antonio - Aguascalientes - Aguascalientes (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Templo_de_San_Antonio_%28desde_la_esquina%29.jpg/1280px-Templo_de_San_Antonio_%28desde_la_esquina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/2.webp",
+    "w": 793,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Mexico, identified by ID",
+    "credit": "Oscar Durán",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Templo_de_San_Antonio_(desde_la_esquina).jpg",
+    "file": "File:Templo de San Antonio (desde la esquina).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Templo_de_San_Antonio_de_Padua.jpg/1280px-Templo_de_San_Antonio_de_Padua.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/3.webp",
+    "w": 1280,
+    "h": 810,
+    "kind": "Exterior",
+    "caption": "Exterior · Templo de San Antonio de Padua in the end of Calle General Ignacio Zaragoza in Aguascalientes, Mexico",
+    "credit": "Haakon S. Krohn",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Templo_de_San_Antonio_de_Padua.jpg",
+    "file": "File:Templo de San Antonio de Padua.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Iglesia_de_San_Antonio%2C_Interior_%281%29.jpg/1280px-Iglesia_de_San_Antonio%2C_Interior_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/4.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ferfive",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Antonio,_Interior_(1).jpg",
+    "file": "File:Iglesia de San Antonio, Interior (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Iglesia_de_San_Antonio%2C_Interior_%2810%29.jpg/1280px-Iglesia_de_San_Antonio%2C_Interior_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/5.webp",
+    "w": 1054,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Ferfive",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Antonio,_Interior_(10).jpg",
+    "file": "File:Iglesia de San Antonio, Interior (10).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Escultura_de_Refugio_Reyes_mirando_la_fachada_del_Templo_de_San_Antonio_en_un_plano.JPG/1280px-Escultura_de_Refugio_Reyes_mirando_la_fachada_del_Templo_de_San_Antonio_en_un_plano.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/temple-of-saint-anthony-of-padua/thumbs/6.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Plan",
+    "caption": "Plan · Escultura de Refugio Reyes mirando la fachada del Templo de San Antonio en un plano",
+    "credit": "Luisalvaz",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Escultura_de_Refugio_Reyes_mirando_la_fachada_del_Templo_de_San_Antonio_en_un_plano.JPG",
+    "file": "File:Escultura de Refugio Reyes mirando la fachada del Templo de San Antonio en un plano.JPG"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "edificio-ariztia",
@@ -354407,7 +355538,59 @@ window.BUILDINGS = [
   "commons": "Category:Edificio Ariztía",
   "lead": "File:Edificio Ariztía, Santiago 20230816.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Edificio_Arizt%C3%ADa%2C_Santiago_20230816.jpg/1280px-Edificio_Arizt%C3%ADa%2C_Santiago_20230816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edificio-ariztia/thumbs/0.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Edificio Ariztía, Santiago, Región Metropolitana, Chile",
+    "credit": "Carlos yo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificio_Arizt%C3%ADa,_Santiago_20230816.jpg",
+    "file": "File:Edificio Ariztía, Santiago 20230816.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Barrio_La_Bolsa_2013-05-26_2.JPG/1280px-Barrio_La_Bolsa_2013-05-26_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edificio-ariztia/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a national monument in Chile:",
+    "credit": "Warko",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrio_La_Bolsa_2013-05-26_2.JPG",
+    "file": "File:Barrio La Bolsa 2013-05-26 2.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Barrio_La_Bolsa_1.jpg/1280px-Barrio_La_Bolsa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edificio-ariztia/thumbs/2.webp",
+    "w": 1280,
+    "h": 974,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Valeria Flores E",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Barrio_La_Bolsa_1.jpg",
+    "file": "File:Barrio La Bolsa 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Ls_bolsa.jpg/1280px-Ls_bolsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edificio-ariztia/thumbs/3.webp",
+    "w": 788,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Shemuelnuñez",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ls_bolsa.jpg",
+    "file": "File:Ls bolsa.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "ricardo-rojas-house-museum-research-institute",
@@ -354431,7 +355614,97 @@ window.BUILDINGS = [
   "commons": "Category:Casa Museo Ricardo Rojas",
   "lead": "File:Museo Casa Ricardo Rojas 03.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Museo_Casa_Ricardo_Rojas_03.jpg/1280px-Museo_Casa_Ricardo_Rojas_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/0.webp",
+    "w": 1280,
+    "h": 925,
+    "kind": "Exterior",
+    "caption": "Exterior · Museo Casa Ricardo Rojas, en Charcas al 2837, Barrio Recoleta, Buenos Aires, Argentina",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Casa_Ricardo_Rojas_03.jpg",
+    "file": "File:Museo Casa Ricardo Rojas 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Museo_Casa_Ricardo_Rojas_05.jpg/1280px-Museo_Casa_Ricardo_Rojas_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/1.webp",
+    "w": 1280,
+    "h": 923,
+    "kind": "Exterior",
+    "caption": "Exterior · Museo Casa Ricardo Rojas, en Charcas al 2837, Barrio Recoleta, Buenos Aires, Argentina",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museo_Casa_Ricardo_Rojas_05.jpg",
+    "file": "File:Museo Casa Ricardo Rojas 05.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Puerta_de_la_Casa_de_Ricardo_Rojas%2C_en_Buenos_Aires.JPG/1280px-Puerta_de_la_Casa_de_Ricardo_Rojas%2C_en_Buenos_Aires.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/2.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of an Argentine monument identified by the ID",
+    "credit": "Galvanemanuel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Puerta_de_la_Casa_de_Ricardo_Rojas,_en_Buenos_Aires.JPG",
+    "file": "File:Puerta de la Casa de Ricardo Rojas, en Buenos Aires.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Puerta_de_la_casa_de_Ricardo_Rojas.JPG/1280px-Puerta_de_la_casa_de_Ricardo_Rojas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of an Argentine monument identified by the ID",
+    "credit": "Galvanemanuel",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Puerta_de_la_casa_de_Ricardo_Rojas.JPG",
+    "file": "File:Puerta de la casa de Ricardo Rojas.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Columna_de_casa_museo.jpg/1280px-Columna_de_casa_museo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/4.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · museo casa ricardo rojas",
+    "credit": "Danny Bak99",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Columna_de_casa_museo.jpg",
+    "file": "File:Columna de casa museo.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ofrenda_de_tierra_de_Plaza_Lavalle_por_hermano_del_Tercer_Mal%C3%B3n_de_la_Paz_proyecto_Eurindia%2C_sonidos_del_territorio_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Eurindia sonidos del territorio",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ofrenda_de_tierra_de_Plaza_Lavalle_por_hermano_del_Tercer_Mal%C3%B3n_de_la_Paz_proyecto_Eurindia,_sonidos_del_territorio_2023.jpg",
+    "file": "File:Ofrenda de tierra de Plaza Lavalle por hermano del Tercer Malón de la Paz proyecto Eurindia, sonidos del territorio 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Plano_casa_de_Ricardo_rojas.jpeg/1280px-Plano_casa_de_Ricardo_rojas.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/ricardo-rojas-house-museum-research-institute/thumbs/6.webp",
+    "w": 1280,
+    "h": 472,
+    "kind": "Plan",
+    "caption": "Plan · Plano de la casa",
+    "credit": "Lenkap16",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plano_casa_de_Ricardo_rojas.jpeg",
+    "file": "File:Plano casa de Ricardo rojas.jpeg"
+   }
+  ],
+  "has": [
+   "Plan"
+  ],
+  "gv": 3
  },
  {
   "id": "edificio-do-banco-paulista-do-comercio",
@@ -354455,7 +355728,35 @@ window.BUILDINGS = [
   "commons": "Category:Edifício Banco Paulista do Comércio",
   "lead": "File:Edifício Banco Paulista do Comércio 03.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Edif%C3%ADcio_Banco_Paulista_do_Com%C3%A9rcio_03.jpg/1280px-Edif%C3%ADcio_Banco_Paulista_do_Com%C3%A9rcio_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edificio-do-banco-paulista-do-comercio/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Face do Edifício Banco Paulista do Comércio, em São Paulo (SP), Brasil",
+    "credit": "Bellacascione",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Banco_Paulista_do_Com%C3%A9rcio_03.jpg",
+    "file": "File:Edifício Banco Paulista do Comércio 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Edif%C3%ADcio_Banco_Paulista_do_Com%C3%A9rcio_07.jpg/1280px-Edif%C3%ADcio_Banco_Paulista_do_Com%C3%A9rcio_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/edificio-do-banco-paulista-do-comercio/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Vista do interior do Edifício Banco Paulista do Comércio, em São Paulo (SP), Brasil",
+    "credit": "Bellacascione",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_Banco_Paulista_do_Com%C3%A9rcio_07.jpg",
+    "file": "File:Edifício Banco Paulista do Comércio 07.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tanghalang-pambansa",
@@ -354479,7 +355780,83 @@ window.BUILDINGS = [
   "commons": "Category:Tanghalang Pambansa",
   "lead": "File:CCPjf0126 01.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/CCPjf0111_07.JPG/1280px-CCPjf0111_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CCPjf0111_07.JPG",
+    "file": "File:CCPjf0111 07.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/CCPjf0111_08.JPG/1280px-CCPjf0111_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CCPjf0111_08.JPG",
+    "file": "File:CCPjf0111 08.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/CCP-Tanghalang_Aurelio_Tolentino.jpg/1280px-CCP-Tanghalang_Aurelio_Tolentino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/2.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · Little Theater of the Cultural Center of the Philippines",
+    "credit": "Nixenzo",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CCP-Tanghalang_Aurelio_Tolentino.jpg",
+    "file": "File:CCP-Tanghalang Aurelio Tolentino.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Allan_Jay_Quesada_-_CCP_Stairs_DSC_8221.jpg/1280px-Allan_Jay_Quesada_-_CCP_Stairs_DSC_8221.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/3.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This is a photo of a cultural heritage property in the Philippines with ID",
+    "credit": "Allan Jay Quesada",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_CCP_Stairs_DSC_8221.jpg",
+    "file": "File:Allan Jay Quesada - CCP Stairs DSC 8221.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/CCP.jpg/1280px-CCP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Interior of the Cultural Center or the Philippines",
+    "credit": "Salmonpepperrice",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:CCP.jpg",
+    "file": "File:CCP.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Metro-Manila_opera_house.JPG/1280px-Metro-Manila_opera_house.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tanghalang-pambansa/thumbs/5.webp",
+    "w": 1280,
+    "h": 521,
+    "kind": "Detail",
+    "caption": "Detail · Metro-Manila opera house-detail",
+    "credit": "Ramon FVelasquez",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Metro-Manila_opera_house.JPG",
+    "file": "File:Metro-Manila opera house.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "galeria-guemes",
@@ -354503,7 +355880,83 @@ window.BUILDINGS = [
   "commons": "Category:Galería Güemes",
   "lead": "File:Galería Güemes Cúpula torreta 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_01.jpg/1280px-Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/galeria-guemes/thumbs/0.webp",
+    "w": 1011,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torreta, cuya cúpula está hecha en acero y revestida en cobre, de la Galería Güemes, Buenos Aires, Argentina",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_01.jpg",
+    "file": "File:Galería Güemes Cúpula torreta 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Galeria_G%C3%BCemes_desde_Bencich.jpg/1280px-Galeria_G%C3%BCemes_desde_Bencich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/galeria-guemes/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Galeria Güemes",
+    "credit": "Graciela.bosco",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galeria_G%C3%BCemes_desde_Bencich.jpg",
+    "file": "File:Galeria Güemes desde Bencich.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_03.jpg/1280px-Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/galeria-guemes/thumbs/2.webp",
+    "w": 1011,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Torreta, cuya cúpula está hecha en acero y revestida en cobre, de la Galería Güemes, Buenos Aires, Argentina",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_G%C3%BCemes_C%C3%BApula_torreta_03.jpg",
+    "file": "File:Galería Güemes Cúpula torreta 03.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Reflejo_de_f%C3%A9.jpg/1280px-Reflejo_de_f%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/galeria-guemes/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Sitio : galeria guemes",
+    "credit": "Ráfaga Dan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflejo_de_f%C3%A9.jpg",
+    "file": "File:Reflejo de fé.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Galer%C3%ADa_G%C3%BCemes.jpg/1280px-Galer%C3%ADa_G%C3%BCemes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/galeria-guemes/thumbs/4.webp",
+    "w": 1121,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Sitio : Galería Güemes",
+    "credit": "Meliblos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_G%C3%BCemes.jpg",
+    "file": "File:Galería Güemes.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Rusty_G%C3%BCemes.jpg/1280px-Rusty_G%C3%BCemes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/galeria-guemes/thumbs/5.webp",
+    "w": 1280,
+    "h": 879,
+    "kind": "Interior",
+    "caption": "Interior · KODAK Digital Still Camera",
+    "credit": "Conejarq",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rusty_G%C3%BCemes.jpg",
+    "file": "File:Rusty Güemes.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "selim-al-deen-muktamanch",
@@ -354527,7 +355980,83 @@ window.BUILDINGS = [
   "commons": "Category:Selim Al Deen Muktomoncho",
   "lead": "File:Open Satge Of JahangirNagar University.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Open_Satge_Of_JahangirNagar_University.jpg/1280px-Open_Satge_Of_JahangirNagar_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selim-al-deen-muktamanch/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Jahangir Nagar University",
+    "credit": "Frameofashik",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Open_Satge_Of_JahangirNagar_University.jpg",
+    "file": "File:Open Satge Of JahangirNagar University.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Selim_Al_Deen_Muktomoncho.jpg/1280px-Selim_Al_Deen_Muktomoncho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selim-al-deen-muktamanch/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · This stage or muktomoncho was named after renowned Bangladeshi playwright and theatre artist Selim Al-Deen ",
+    "credit": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Selim_Al_Deen_Muktomoncho.jpg",
+    "file": "File:Selim Al Deen Muktomoncho.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE_%E0%A6%86%E0%A6%B2_%E0%A6%A6%E0%A7%80%E0%A6%A8_%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9A.jpg/1280px-%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE_%E0%A6%86%E0%A6%B2_%E0%A6%A6%E0%A7%80%E0%A6%A8_%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selim-al-deen-muktamanch/thumbs/2.webp",
+    "w": 1280,
+    "h": 846,
+    "kind": "Exterior",
+    "caption": "Exterior · Selim Al Din Mukto-mancho which is situated at Jahangirnagar University",
+    "credit": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%A6%B8%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AE_%E0%A6%86%E0%A6%B2_%E0%A6%A6%E0%A7%80%E0%A6%A8_%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A6%9E%E0%A7%8D%E0%A6%9A.jpg",
+    "file": "File:সেলিম আল দীন মুক্তমঞ্চ.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Selim_Al-Din_Muktomoncho.jpg/1280px-Selim_Al-Din_Muktomoncho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selim-al-deen-muktamanch/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Selim_Al-Din_Muktomoncho.jpg",
+    "file": "File:Selim Al-Din Muktomoncho.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_01.jpg/1280px-Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selim-al-deen-muktamanch/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Two young boys sitting on a low brick wall bordering a grassy field or playground",
+    "credit": "A S M Jobaer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_01.jpg",
+    "file": "File:Boys sitting on a brick wall overlooking a field in Bangladesh 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_02.jpg/1280px-Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/selim-al-deen-muktamanch/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Two young boys sitting on a low brick wall bordering a grassy field or playground",
+    "credit": "A S M Jobaer",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boys_sitting_on_a_brick_wall_overlooking_a_field_in_Bangladesh_02.jpg",
+    "file": "File:Boys sitting on a brick wall overlooking a field in Bangladesh 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "faculty-of-fine-arts-university-of-dhaka",
@@ -354551,6 +356080,82 @@ window.BUILDINGS = [
   "commons": "Category:Faculty of Fine Arts, University of Dhaka",
   "lead": "File:Institute of Fine Art 1 .A.M.R.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Institute_of_Fine_Art_1_.A.M.R.jpg/1280px-Institute_of_Fine_Art_1_.A.M.R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Institute of Fine Art, Dhaka University, Dhaka",
+    "credit": "A.M.R.",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Institute_of_Fine_Art_1_.A.M.R.jpg",
+    "file": "File:Institute of Fine Art 1 .A.M.R.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Veranda_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Dhaka_2015-05-31_2239.JPG/1280px-Veranda_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Dhaka_2015-05-31_2239.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Photographed at the Dhaka university, Dhaka, Bangladesh",
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Veranda_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Dhaka_2015-05-31_2239.JPG",
+    "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2231.JPG/1280px-Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2231.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Photographed at the Dhaka university, Dhaka, Bangladesh",
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2231.JPG",
+    "file": "File:Entrance - Faculty of Fine Arts - University of Dhaka - Kazi Nazrul Islam Avenue - Dhaka 2015-05-31 2231.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2232.JPG/1280px-Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2232.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/3.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior · Photographed at the Dhaka university, Dhaka, Bangladesh",
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Entrance_-_Faculty_of_Fine_Arts_-_University_of_Dhaka_-_Kazi_Nazrul_Islam_Avenue_-_Dhaka_2015-05-31_2232.JPG",
+    "file": "File:Entrance - Faculty of Fine Arts - University of Dhaka - Kazi Nazrul Islam Avenue - Dhaka 2015-05-31 2232.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jumping_into_life.jpg/1280px-Jumping_into_life.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · This photo was taken inside the premises of The Faculty of Fine Arts of Dhaka University",
+    "credit": "Safwan Mahmud",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jumping_into_life.jpg",
+    "file": "File:Jumping into life.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Meet_your_maker.jpg/1280px-Meet_your_maker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/faculty-of-fine-arts-university-of-dhaka/thumbs/5.webp",
+    "w": 933,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · This photo was taken inside the premises of The Faculty of Fine Arts of Dhaka University",
+    "credit": "Safwan Mahmud",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meet_your_maker.jpg",
+    "file": "File:Meet your maker.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
