@@ -82,5 +82,14 @@
   "metric": "buildings_added",
   "status": "done",
   "note": "102 added, ordinary types 8%"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 8: 300 candidates from 1900 on with batch 7's rules (no ordinary types in the pool; local US houses, halls, theatres, libraries and churches by architects not on the wall left out); ordinary types under 20%",
+  "target": 70,
+  "metric": "buildings_added",
+  "status": "done",
+  "note": "52 added, ordinary types 17%"
  }
 ]

@@ -1,0 +1,923 @@
+[
+ {
+  "id": "gebaude-der-reichsschuldenverwaltung",
+  "qid": "Q1497338",
+  "status": "photo",
+  "why": "Lead: first large Weimar government office building, by Bestelmeyer. Main photo shows the whole curved block. Name is the lead's own, the English label mixes languages.",
+  "name": "Gebäude der Reichsschuldenverwaltung",
+  "by": "German Bestelmeyer",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1924,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Facade as skin"
+  ],
+  "features": "The first large government office building of the Weimar Republic, designed by German Bestelmeyer and built 1919–1924 in Berlin.",
+  "commons_category": "Category:Building of the Reichsschuldenverwaltung",
+  "coords": [
+   52.5059,
+   13.4003
+  ],
+  "photos": [
+   {
+    "file": "File:BIM in der Oranienstraße in Berlin-Kreuzberg.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Reichsschuldenverwaltung, Ecke Oranienburger-Alte Jakobstraße.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "spiskova-vila",
+  "qid": "Q15916621",
+  "status": "photo",
+  "why": "Lead names functionalism and the architect. Main photo shows the whole villa from the street.",
+  "name": "Špíškova vila",
+  "by": "Ladislav Machoň",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1933,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "A functionalist villa built in 1933 for a Ministry of Education section chief, in Prague's Baba colony.",
+  "commons_category": "Category:Špíškova vila",
+  "coords": [
+   50.11453,
+   14.38574
+  ],
+  "photos": [
+   {
+    "file": "File:Špíškova vila.jpeg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Baba - Špíšek 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Baba - Špíšek 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "indianerhof",
+  "qid": "Q1613704",
+  "status": "skip",
+  "why": "Vienna municipal housing; the lead gives no design reason."
+ },
+ {
+  "id": "villa-hohe-warte",
+  "qid": "Q1623291",
+  "status": "skip",
+  "why": "Municipal orphanage; the lead gives no design reason."
+ },
+ {
+  "id": "spinnerei-teesdorf",
+  "qid": "Q1750962",
+  "status": "skip",
+  "why": "Former cotton mill; the lead gives no architectural reason."
+ },
+ {
+  "id": "biblioteca-comunale-ezio-vanoni",
+  "qid": "Q17622722",
+  "status": "skip",
+  "why": "Town library; the lead gives size and collection, not design."
+ },
+ {
+  "id": "st-johns-cathedral-napier",
+  "qid": "Q18167153",
+  "status": "photo",
+  "why": "Lead: Art Deco, mother church of the diocese, completed 1965. Main photo shows the whole front with tower.",
+  "name": "St John's Cathedral, Napier",
+  "by": "Armson, Collins and Harman",
+  "city": "Napier",
+  "cc": "NZ",
+  "year": 1965,
+  "type": "Religious",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "An Art Deco Anglican cathedral in Napier, the seat of two bishops, including the Bishop of Aotearoa.",
+  "commons_category": "Category:Waiapu Cathedral of St John the Evangelist",
+  "coords": [
+   -39.4889,
+   176.917
+  ],
+  "photos": [
+   {
+    "file": "File:Waiapu Cathedral of St John the Evangelist 01.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Napier, Part I- Architecture - Napier9501.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jewish-ceremonial-hall-in-brno",
+  "qid": "Q18947273",
+  "status": "skip",
+  "why": "Funeral hall in a Jewish cemetery; the lead gives no design reason."
+ },
+ {
+  "id": "villa-palicka",
+  "qid": "Q20428163",
+  "status": "photo",
+  "why": "Lead: functionalist house by Mart Stam and Jiří Palička, made 1931–32. Main photo shows the whole house.",
+  "name": "Villa Palička",
+  "by": "Mart Stam",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1932,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "A functionalist house of 1931–32 in Prague's Baba colony, designed with the Dutch architect Mart Stam.",
+  "commons_category": "Category:Villa Palička (Baba)",
+  "coords": [
+   50.11485,
+   14.38635
+  ],
+  "photos": [
+   {
+    "file": "File:Baba - Palička 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Baba - Palička 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-rothmayer",
+  "qid": "Q21296267",
+  "status": "photo",
+  "why": "Lead: the architect's own interwar villa, a Czech cultural monument, in the Iconic Houses catalogue. Main photo shows the whole house.",
+  "name": "Villa Rothmayer",
+  "by": "Otto Rothmayer",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1929,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Facade as skin",
+   "Planting"
+  ],
+  "features": "The architect's own villa of 1928–29 in Prague, a cultural monument in the Iconic Houses catalogue of modern architecture.",
+  "commons_category": "Category:Rothmayerova vila",
+  "coords": [
+   50.09167,
+   14.36396
+  ],
+  "photos": [
+   {
+    "file": "File:Praha, Břevnov, vila architekta Otto Rothmayera.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gondelbahn-hochbrixen",
+  "qid": "Q2182675",
+  "status": "skip",
+  "why": "Cable car; an engineering installation, not a building to study."
+ },
+ {
+  "id": "schubertbrunnen",
+  "qid": "Q2250587",
+  "status": "skip",
+  "why": "Fountain with a statue; a monument, not architecture."
+ },
+ {
+  "id": "st-johannes-kirche",
+  "qid": "Q2319195",
+  "status": "skip",
+  "why": "Parish church; the lead gives only dates and the architect's name."
+ },
+ {
+  "id": "stadt-des-kindes",
+  "qid": "Q2326509",
+  "status": "skip",
+  "why": "Children's home, partly demolished in 2008; the lead gives no design reason."
+ },
+ {
+  "id": "villa-van-t-hoff",
+  "qid": "Q2448341",
+  "status": "photo",
+  "why": "Lead: early concrete-skeleton house by Robert van 't Hoff, built 1915–1916. Main photo shows the whole house. Name is the lead's own.",
+  "name": "Villa Van 't Hoff",
+  "by": "Robert van 't Hoff",
+  "city": "Zeist",
+  "cc": "NL",
+  "year": 1916,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Cantilever",
+   "Light & shadow"
+  ],
+  "features": "One of the first homes built with a concrete skeleton, in a Wright-related style with strong horizontal lines.",
+  "commons_category": "Category:Villa Henny, Huis ter Heide",
+  "coords": [
+   52.10946,
+   5.24091
+  ],
+  "photos": [
+   {
+    "file": "File:Overzicht gezien vanaf de weg - Huis ter Heide - 20534841 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Voorgevel - Huis ter Heide - 20118287 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "vorwarts-gebaude",
+  "qid": "Q2534713",
+  "status": "skip",
+  "why": "Party headquarters; the lead gives political history, not design."
+ },
+ {
+  "id": "postpalast-munchen",
+  "qid": "Q26845685",
+  "status": "unsure",
+  "why": "Lead names the Postbauschule and two architects, but all seven photos show events (award night, boxing) and none shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "jacinto-lopez-martinez-grammar-school",
+  "qid": "Q30623375",
+  "status": "skip",
+  "why": "School; the lead gives only its listing and a regional role."
+ },
+ {
+  "id": "piscine-judaique-jean-boiteux",
+  "qid": "Q3389216",
+  "status": "photo",
+  "why": "Lead: Art Deco pool by Louis Madeline, built 1931–1935. Main photo shows the street facade. Name is the lead's own.",
+  "name": "Piscine judaïque Jean-Boiteux",
+  "by": "Louis Madeline",
+  "city": "Bordeaux",
+  "cc": "FR",
+  "year": 1935,
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "An Art Deco Jewish swimming pool in Bordeaux by Louis Madeline, built 1931–1935.",
+  "commons_category": "Category:Ensemble sportif judaïque, Bordeaux",
+  "coords": [
+   44.84074,
+   -0.5914
+  ],
+  "photos": [
+   {
+    "file": "File:Portique Judaique.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bordeaux Piscine Jadaique R01.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mercato-dei-fiori-vecchio",
+  "qid": "Q3854849",
+  "status": "unsure",
+  "why": "Modern 1951 market shell by Savioli and Ricci (sheet shows a striking concrete vault), but the lead gives no design reason. For Opus."
+ },
+ {
+  "id": "royal-tropical-institute-building",
+  "qid": "Q39530035",
+  "status": "unsure",
+  "why": "Richly decorated 1915–26 institute building by van Nieukerken; the lead gives sculpture and funding, no design reason. For Opus."
+ },
+ {
+  "id": "hugh-roy-and-lillie-cullen-building",
+  "qid": "Q42310311",
+  "status": "skip",
+  "why": "University administration building; the lead gives listing and history only."
+ },
+ {
+  "id": "am-tivoli",
+  "qid": "Q451505",
+  "status": "skip",
+  "why": "Vienna municipal housing; the lead gives listing only."
+ },
+ {
+  "id": "albert-spencer-wilcox-building",
+  "qid": "Q4711260",
+  "status": "skip",
+  "why": "Former library now a museum; the lead gives history, not design."
+ },
+ {
+  "id": "albert-and-liberal-arts-halls",
+  "qid": "Q4711530",
+  "status": "skip",
+  "why": "College buildings; the lead gives a style name and listing, no design reason."
+ },
+ {
+  "id": "bark-street-school",
+  "qid": "Q4860871",
+  "status": "skip",
+  "why": "Wood-frame school; the lead gives only its age and listing."
+ },
+ {
+  "id": "bear-down-gym",
+  "qid": "Q4876431",
+  "status": "skip",
+  "why": "Gymnasium; the lead gives film fame and listing, no design reason."
+ },
+ {
+  "id": "capitol-diner",
+  "qid": "Q5035868",
+  "status": "skip",
+  "why": "Diner; the lead gives its listing and rarity, no design reason."
+ },
+ {
+  "id": "chappelle-administration-building",
+  "qid": "Q5073387",
+  "status": "photo",
+  "why": "Lead: National Historic Landmark, one of Lankford's most important works. Main photo shows the whole building. Year not in the lead.",
+  "name": "Chappelle Administration Building",
+  "by": "John A. Lankford",
+  "city": "Columbia",
+  "cc": "US",
+  "year": null,
+  "type": "Education",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "A National Historic Landmark, cited as one of John Anderson Lankford's most important works.",
+  "commons_category": "Category:Chappelle Administration Building",
+  "coords": [
+   34.01072,
+   -81.02101
+  ],
+  "photos": [
+   {
+    "file": "File:ChappelleAdministrationBuilding.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Chappelle Administration Building, Allen University (Columbia).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "true-cross-catholic-parish-church",
+  "qid": "Q55382583",
+  "status": "skip",
+  "why": "Parish church; the lead gives only dates and the architect's name."
+ },
+ {
+  "id": "georgetown-central-school",
+  "qid": "Q5546977",
+  "status": "skip",
+  "why": "School turned town hall; the lead gives one style note only."
+ },
+ {
+  "id": "herndon-home",
+  "qid": "Q5742312",
+  "status": "photo",
+  "why": "Lead: National Historic Landmark, designed by Adrienne Herndon. Main photo shows the whole house. Year not in the lead. Judgement call: historic, not modern.",
+  "name": "Herndon Home",
+  "by": "Adrienne McNeil Herndon",
+  "city": "Atlanta",
+  "cc": "US",
+  "year": null,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Detail"
+  ],
+  "features": "A Classical Revival house with Beaux-Arts touches, designed by Adrienne Herndon and almost entirely built with African-American labor.",
+  "commons_category": "Category:Herndon Home",
+  "coords": [
+   33.75581,
+   -84.40681
+  ],
+  "photos": [
+   {
+    "file": "File:Herndon Home July 2021 HDR.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "zwietusch-co",
+  "qid": "Q61767705",
+  "status": "skip",
+  "why": "Telephone factory; the lead describes a company, not the building."
+ },
+ {
+  "id": "north-la-junta-school",
+  "qid": "Q65552632",
+  "status": "skip",
+  "why": "School; the lead gives only its year and listing."
+ },
+ {
+  "id": "haus-rabe",
+  "qid": "Q72207231",
+  "status": "photo",
+  "why": "Lead: Classical Modernism house by Rading, interiors by Bauhaus artist Schlemmer, largely original. Main photo shows the whole house. Name is the lead's own.",
+  "name": "Haus Rabe",
+  "by": "Adolf Rading, Oskar Schlemmer",
+  "city": "Zwenkau",
+  "cc": "DE",
+  "year": 1931,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "A 1929–1931 house in Classical Modernism, with interiors by Bauhaus artist Oskar Schlemmer, largely original.",
+  "commons_category": "Category:Haus Rabe (Zwenkau)",
+  "coords": [
+   51.21806,
+   12.33431
+  ],
+  "photos": [
+   {
+    "file": "File:Zwenkau Haus Rabe von 1930.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "saint-joseph-school-wakefield-massachusetts",
+  "qid": "Q7401566",
+  "status": "skip",
+  "why": "School; the lead gives a style and listing; no photo of the building."
+ },
+ {
+  "id": "the-rave-eagles-club",
+  "qid": "Q7759493",
+  "status": "skip",
+  "why": "Concert venue; the lead gives its names and the photos show concerts."
+ },
+ {
+  "id": "william-hooper-school",
+  "qid": "Q8012487",
+  "status": "skip",
+  "why": "School; the lead gives its history only."
+ },
+ {
+  "id": "fukuoka-city-akarenga-cultural-center",
+  "qid": "Q85882853",
+  "status": "photo",
+  "why": "Lead: serious late-Meiji brick building by the Tokyo Station office, a national Important Cultural Property. Main photo shows the whole building.",
+  "name": "Fukuoka City Akarenga Cultural Center",
+  "by": "Tatsuno Kingo, Yasushi Kataoka",
+  "city": "Fukuoka",
+  "cc": "JP",
+  "year": 1909,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A serious late-Meiji brick building by the office known for Tokyo Station, now a national Important Cultural Property.",
+  "commons_category": "Category:Fukuoka City Red Brick Culture Center",
+  "coords": [
+   33.59311,
+   130.40189
+  ],
+  "photos": [
+   {
+    "file": "File:Nissei-fukuoka-branch.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Fukuoka City Akarenga Cultural Center the façade Tenjin 1-chōme Chūō-ku Fukuoka 20250429 165927.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ka-we-de",
+  "qid": "Q8984935",
+  "status": "skip",
+  "why": "Ice rink and open-air pool; the lead gives history, not design."
+ },
+ {
+  "id": "mather-mansion",
+  "qid": "Q96392259",
+  "status": "skip",
+  "why": "Tudor Revival mansion; the lead gives ownership history and the architect's fame, not a design reason."
+ },
+ {
+  "id": "peter-norbeck-outdoor-education-center",
+  "qid": "Q99557921",
+  "status": "unsure",
+  "why": "Rustic National Park Service style (named in the lead), but prep gives only Custer County and no city. For Opus."
+ },
+ {
+  "id": "national-theatre-mannheim",
+  "qid": "Q113044305",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "sporthalle-charlottenburg",
+  "qid": "Q29455145",
+  "status": "skip",
+  "why": "Multi-purpose hall; the lead is one line with no design reason."
+ },
+ {
+  "id": "parktheater-grenchen",
+  "qid": "Q29880803",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "irene-harand-hof",
+  "qid": "Q38027166",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "siebenbrunnenfeldgasse-20",
+  "qid": "Q38069336",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "villa-haselmann",
+  "qid": "Q38139475",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "honeywell-center",
+  "qid": "Q5893988",
+  "status": "skip",
+  "why": "Arts complex; the lead gives history and additions, no design reason."
+ },
+ {
+  "id": "ucla-doris-and-louis-factor-health-sciences-building",
+  "qid": "Q105031822",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "leslie-l-dan-pharmacy-building",
+  "qid": "Q111594867",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "robert-and-arlene-kogod-courtyard",
+  "qid": "Q115598078",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "marselisborg-palace",
+  "qid": "Q492981",
+  "status": "skip",
+  "why": "Royal residence; the lead describes the park, not the building."
+ },
+ {
+  "id": "tampere-art-museum",
+  "qid": "Q10690515",
+  "status": "unsure",
+  "why": "Carl Ludvig Engel and Anton Wilhelm Arppe credited (Wikidata); the lead gives no design reason and the 1931 date does not fit Engel. For Opus."
+ },
+ {
+  "id": "kunstsilo",
+  "qid": "Q124728154",
+  "status": "photo",
+  "why": "Lead: 1935 silo converted into a museum, opened 2024. Main photo shows the silos. The lead names a conversion team not in Wikidata's architect list, so check the credit.",
+  "name": "Kunstsilo",
+  "by": "Sverre Aasland, Arne Korsmo",
+  "city": "Kristiansand",
+  "cc": "NO",
+  "year": 2024,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Circulation"
+  ],
+  "features": "A 1935 grain silo converted into an art museum opened in 2024, holding the largest private Nordic modernist collection.",
+  "commons_category": "Category:Kunstsilo",
+  "coords": [
+   58.13825,
+   7.99712
+  ],
+  "photos": [
+   {
+    "file": "File:Kunstsilo (Kristiansand).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kunstsilo in 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fukiage-palace",
+  "qid": "Q97159491",
+  "status": "skip",
+  "why": "Imperial residence; the lead gives its location only, and there is no photo."
+ },
+ {
+  "id": "kirche-am-hohenzollernplatz",
+  "qid": "Q1742773",
+  "status": "photo",
+  "why": "Lead: a leading Brick Expressionist church in Berlin. Main photo shows the brick front. Year not in the lead.",
+  "name": "Kirche am Hohenzollernplatz",
+  "by": "Joseph Klarwein, Johann Friedrich Höger",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": null,
+  "type": "Religious",
+  "movement": "Expressionism",
+  "concepts": [
+   "Brick",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "A leading example of Brick Expressionism and a testimonial to expressionist church architecture in Berlin.",
+  "commons_category": "Category:Kirche am Hohenzollernplatz (Berlin)",
+  "coords": [
+   52.49414,
+   13.32699
+  ],
+  "photos": [
+   {
+    "file": "File:Kirche am Hohenzollernplatz (Berlin)msu-2023-0I9A9591-.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kirche-am-Hohenzollernplatz-Fritz-Hoeger-Ossip-Klarwein-Berlin-Wilmersdorf-April-2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "finnish-nature-center-haltia",
+  "qid": "Q5476978",
+  "status": "photo",
+  "why": "Short lead (location only). Mahlamäki has three other buildings on the wall, so the short-lead rule applies. Main photo shows the whole building. Year not in the lead.",
+  "name": "Finnish Nature Center Haltia",
+  "by": "Rainer Mahlamäki",
+  "city": "Espoo",
+  "cc": "FI",
+  "year": null,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Circulation"
+  ],
+  "features": "A Finnish nature centre in the Nuuksio landscape of Espoo, designed by Rainer Mahlamäki.",
+  "commons_category": "Category:Finnish Nature Centre Haltia",
+  "coords": [
+   60.2938,
+   24.5572
+  ],
+  "photos": [
+   {
+    "file": "File:Haltia 001.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Suomen luontokeskus Haltia, Espoo, Finsko 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "family-asylum-saint-elisabeth",
+  "qid": "Q115633950",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "wildacre",
+  "qid": "Q125081240",
+  "status": "skip",
+  "why": "Empty lead; no photo."
+ },
+ {
+  "id": "clay-street-center",
+  "qid": "Q26811672",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "parliament-building-of-oldenburg",
+  "qid": "Q57555964",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "staatsministerium-oldenburg",
+  "qid": "Q57556011",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "siglo-21-university",
+  "qid": "Q18286571",
+  "status": "unsure",
+  "why": "Lead describes the university, not a building; the Pelli credit comes only from Wikidata. For Opus."
+ },
+ {
+  "id": "palais-de-la-decouverte",
+  "qid": "Q614450",
+  "status": "skip",
+  "why": "Museum in an older exhibition building; the lead gives history, no design reason."
+ },
+ {
+  "id": "san-diego-museum-of-art",
+  "qid": "Q1368166",
+  "status": "skip",
+  "why": "Museum; the lead gives history and collection, no design reason. The architect is William Templeton Johnson, not Philip Johnson."
+ },
+ {
+  "id": "mercado-central-valencia",
+  "qid": "Q2197068",
+  "status": "photo",
+  "why": "Lead: one of the main works of Valencian Art Nouveau. Main photo shows the whole market hall. Year not in the lead.",
+  "name": "Mercado Central, Valencia",
+  "by": "Francesc Guàrdia i Vial, Alexandre Soler i March, Enric Viedma i Vidal, Ángel Romaní Verdeguer",
+  "city": "Valencia",
+  "cc": "ES",
+  "year": null,
+  "type": "Civic",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Steel & glass",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "One of the main works of Valencian Art Nouveau, a public market across from the Llotja de la Seda.",
+  "commons_category": "Category:Mercat Central de València",
+  "coords": [
+   39.4735,
+   -0.37894
+  ],
+  "photos": [
+   {
+    "file": "File:Mercado Central, Valencia, España, 2014-06-30, DD 108.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20211115.Valencia.-076.1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "leningrad-hero-city-obelisk",
+  "qid": "Q4329128",
+  "status": "skip",
+  "why": "Monument."
+ },
+ {
+  "id": "oscarsteatern",
+  "qid": "Q3439887",
+  "status": "skip",
+  "why": "Theatre; the lead gives its reputation, not design."
+ },
+ {
+  "id": "freemasons-hall-london",
+  "qid": "Q1453586",
+  "status": "unsure",
+  "why": "Art Deco building per the lead, but Wikidata's architect (Thomas Sandby) looks wrong for a 1933 building and the lead names no architect. For Opus."
+ },
+ {
+  "id": "svalbard-church",
+  "qid": "Q2597768",
+  "status": "skip",
+  "why": "Wooden parish church; the lead gives a record (northernmost church), not a design reason."
+ },
+ {
+  "id": "loggia-del-bigallo",
+  "qid": "Q2705376",
+  "status": "unsure",
+  "why": "Late Gothic loggia per the lead; Wikidata's architect (Alberto Arnoldi, 1904) fits only a later restoration, and the lead names no architect. For Opus."
+ },
+ {
+  "id": "theatre-du-vieux-colombier",
+  "qid": "Q2711343",
+  "status": "skip",
+  "why": "Theatre; the lead gives its history, not design."
+ },
+ {
+  "id": "israel-national-museum-of-science-technology-and-space",
+  "qid": "Q2904377",
+  "status": "skip",
+  "why": "Science museum; the lead gives visitor numbers, no design reason."
+ },
+ {
+  "id": "alcide-de-gasperi-building",
+  "qid": "Q4713085",
+  "status": "photo",
+  "why": "Lead: Luxembourg's first and tallest skyscraper, built 1966. Main photo shows the tower. A first is the keep reason.",
+  "name": "Alcide De Gasperi building",
+  "by": "Michel Mousel, Gaston Witry",
+  "city": "Luxembourg",
+  "cc": "LU",
+  "year": 1966,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Luxembourg's first skyscraper and tallest building, a 23-floor tower built in 1966 for the European Parliament's secretariat.",
+  "commons_category": "Category:Alcide de Gasperi Building",
+  "coords": [
+   49.61833,
+   6.14361
+  ],
+  "photos": [
+   {
+    "file": "File:European Convention Center Luxembourg (Tour Alcide de Gasperi) 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Luxembourg Kirchberg A De Gasperi 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ }
+]

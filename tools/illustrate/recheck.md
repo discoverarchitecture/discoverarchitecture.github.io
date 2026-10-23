@@ -195,3 +195,4 @@ From the illustration rounds (Oct 2026): Commons has free photos, but the one th
 | Gamble House (Pasadena, California) | Greene and Greene | Pasadena, US |
 | Villa Primavesi | Franz von Krauss | Olomouc, CZ |
 | Ormen Långe | Ralph Erskine | Svappavaara, SE |
+| Villa Tonder | Jan Kotěra | St. Gilgen, AT |

@@ -1,393 +1,381 @@
 {
  "keep_ok": [
-  "cenotaph-for-the-a-bomb-victims",
-  "fine-arts-center-massachusetts",
-  "guildford-cathedral",
-  "longmire-buildings",
-  "gary-bathing-beach-aquatorium",
-  "vadso-church",
-  "orthodox-church-of-the-annunciation-in-malczyce",
-  "chapelle-des-franciscains-d-arcueil",
-  "khovo-lar",
-  "sackler-wing",
-  "st-hildegardis",
-  "villa-low-beer",
-  "opera-de-vichy",
-  "bruder-klaus-kirche",
-  "volmanova-vila",
-  "cafe-era",
-  "villa-kroha",
-  "villa-patocka",
-  "villa-psota",
-  "dorfkirche-kunersdorf",
-  "van-zessen-house",
-  "freibad-letzigraben",
-  "people-s-house",
-  "strandbad-biel",
-  "wuwa-building-no-26-27",
-  "wuwa-building-no-35",
-  "wuwa-building-no-37",
-  "sachsenbad",
-  "hojen-13",
-  "saint-thomas-church",
-  "casa-blanch",
-  "casa-cattaneo",
-  "piuskirche",
-  "new-town-hall-in-jablonec-nad-nisou",
-  "haskova-vila",
-  "villa-kranz",
-  "villa-bass",
-  "edward-p-evans-hall",
-  "madison-museum",
-  "olveston-historic-home",
-  "catholic-church-of-the-holy-cross-mainz",
-  "auferstehungskirche",
-  "skogskapellet",
-  "nymble",
-  "gb-cooley-house",
-  "las-palmas",
-  "bj-ricker-house",
-  "palazzo-della-borsa-valori-di-torino"
+  "gebaude-der-reichsschuldenverwaltung",
+  "spiskova-vila",
+  "st-johns-cathedral-napier",
+  "villa-palicka",
+  "villa-rothmayer",
+  "villa-van-t-hoff",
+  "piscine-judaique-jean-boiteux",
+  "chappelle-administration-building",
+  "haus-rabe",
+  "fukuoka-city-akarenga-cultural-center",
+  "kunstsilo",
+  "kirche-am-hohenzollernplatz",
+  "finnish-nature-center-haltia",
+  "mercado-central-valencia",
+  "alcide-de-gasperi-building",
+  "hans-christian-andersen-museum",
+  "cunard-building",
+  "laeiszhalle",
+  "suntory-hall",
+  "palais-de-la-porte-doree",
+  "anthonie-van-dijckstraat-4-amsterdam",
+  "vogelsang-house",
+  "kallio-church"
  ],
  "ordinary": [
-  "khovo-lar",
-  "las-palmas"
+  "gebaude-der-reichsschuldenverwaltung",
+  "alcide-de-gasperi-building",
+  "cunard-building",
+  "laeiszhalle",
+  "anthonie-van-dijckstraat-4-amsterdam",
+  "biblioteca-comunale-ezio-vanoni"
  ],
  "keep_fix": [
   {
-   "id": "longmire-buildings",
-   "field": "by",
-   "haiku": "Thomas Chalmers Vint",
-   "should_be": "Ernest A. Davidson",
-   "why": "Wikidata names Davidson; the lead says only that NPS staff designed them under Vint's direction, not that Vint was the designer. (Judgement call: Vint is the director.)"
-  },
-  {
-   "id": "cafe-era",
+   "id": "chappelle-administration-building",
    "field": "year",
-   "haiku": 1920,
+   "haiku": null,
+   "should_be": 1925,
+   "why": "The lead gives no year; prep's 1925 is plausible for Lankford (the building went up in the early 1920s) and is the fallback the brief allows."
+  },
+  {
+   "id": "kunstsilo",
+   "field": "by",
+   "haiku": "Sverre Aasland, Arne Korsmo",
+   "should_be": "Mestres Wåge Arquitectes, BAX, Mendoza Partida",
+   "why": "Year 2024 is the museum conversion, which the lead credits to Mestres Wåge Arquitectes, BAX and Mendoza Partida; Korsmo and Aarsland (spelled Aasland by Wikidata) drew only the 1935 grain silo. Either credit the converters with 2024, or credit Korsmo and Aarsland as original architects and say so in features."
+  },
+  {
+   "id": "kunstsilo",
+   "field": "concepts",
+   "haiku": [
+    "Adaptive reuse",
+    "Reclaimed material",
+    "Circulation"
+   ],
+   "should_be": [
+    "Adaptive reuse",
+    "Exposed concrete",
+    "Void"
+   ],
+   "why": "The lead says a silo was converted, not that materials were reclaimed; the interior photos show raw concrete silo cells around a tall void."
+  },
+  {
+   "id": "kirche-am-hohenzollernplatz",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1933,
+   "why": "The lead gives no date; prep's 1933 is plausible for Fritz Hoger's church (built 1930-33)."
+  },
+  {
+   "id": "finnish-nature-center-haltia",
+   "field": "year",
+   "haiku": null,
+   "should_be": 2013,
+   "why": "The lead gives no date; prep's 2013 is plausible for Rainer Mahlamaki, so null was too cautious."
+  },
+  {
+   "id": "finnish-nature-center-haltia",
+   "field": "concepts",
+   "haiku": [
+    "Landscape",
+    "Public space",
+    "Circulation"
+   ],
+   "should_be": [
+    "Landscape",
+    "Timber",
+    "Sculptural form"
+   ],
+   "why": "Public space and Circulation are not supported by the lead or the photos; the sheet shows dark timber-clad volumes in a forest setting."
+  },
+  {
+   "id": "mercado-central-valencia",
+   "field": "year",
+   "haiku": null,
    "should_be": null,
-   "why": "The lead gives no year and calls it functionalist; 1920 (Wikidata) is too early for that style, so no supported year."
+   "why": "Keep null: prep's 1914 is only when construction began (my own knowledge, not in the lead: opened 1928), so it must not be used as the completion year. If the caller wants a number, 1928 needs a source."
   },
   {
-   "id": "cafe-era",
-   "field": "features",
-   "haiku": "A functionalist café building in Brno by Josef Kranz, with a working café on the ground floor.",
-   "should_be": "A functionalist building in Brno's Černá Pole quarter that still houses a working café, by Josef Kranz.",
-   "why": "'On the ground floor' is not in the lead."
+   "id": "hans-christian-andersen-museum",
+   "field": "year",
+   "haiku": null,
+   "should_be": null,
+   "why": "Keep null: prep's 1908 belongs to the old museum, not to the Kengo Kuma building, and the lead gives no year (the Kuma museum opened in 2021 by my own knowledge, not in the lead). The lead describes a set of museums, so features stay general."
   },
   {
-   "id": "gary-bathing-beach-aquatorium",
-   "field": "type",
-   "haiku": "Public space",
-   "should_be": "Culture & sport",
-   "why": "A bathhouse and beach facility; 'Public space' is too vague for the filter."
+   "id": "anthonie-van-dijckstraat-4-amsterdam",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1937,
+   "why": "The lead gives no date; prep's 1937 is plausible for Mart Stam, so use it."
+  },
+  {
+   "id": "vogelsang-house",
+   "field": "concepts",
+   "haiku": [
+    "Facade as skin",
+    "Free plan",
+    "Detail"
+   ],
+   "should_be": [
+    "Geometry",
+    "Facade as skin",
+    "Detail"
+   ],
+   "why": "Nothing in the lead or the photo supports Free plan; the house is a white cube with ribbon windows."
   }
  ],
  "keep_wrong": [
   {
-   "id": "paradiso-amsterdam",
-   "why": "Church of 1880 converted to a music venue in 1968; completed before 1900 and the lead gives no case for it as a key precedent."
+   "id": "herndon-home",
+   "why": "The National Historic Landmark status rests on the Herndon family story, not on the design; the lead calls it a Classical Revival house with Beaux-Arts touches. The 'architect', Adrienne Herndon, was not an architect (she designed it for her husband), and the year is uncertain (prep 1908, Haiku null). Ordinary house, no design reason."
   },
   {
-   "id": "philadelphia-history-museum",
-   "why": "Built 1824-26 (before 1900) and the lead gives only 'landmark Greek Revival' and a listing, so no precedent case; the museum closed in 2018 and the main photo has people in it."
-  },
-  {
-   "id": "palm-springs-convention-center",
-   "why": "Convention centre, an ordinary type; the only design reason in the lead is the 2005 Fentress expansion, not Pereira's 1974 building."
-  },
-  {
-   "id": "scranton-cultural-center",
-   "why": "Theatre and cultural centre; the lead gives only its use and National Register listing, no design reason (Hood's key works are already on the wall)."
-  },
-  {
-   "id": "louise-freer-hall",
-   "why": "University gymnasium kept on a Georgian Revival style and 'last Platt building on campus' alone; strict rule for campus halls."
-  },
-  {
-   "id": "kitchi-gammi-club",
-   "why": "Private club building kept on a listing and Georgian/Gothic Revival style alone; ordinary revival building."
-  },
-  {
-   "id": "volksbuhne",
-   "why": "Empty lead in every language, so no source for the key features."
-  },
-  {
-   "id": "carpenter-theatre",
-   "why": "Empty lead in every language, so no source for the key features; revival-style theatre."
-  },
-  {
-   "id": "edificio-urumea",
-   "why": "Empty lead in every language; also an apartment block."
-  },
-  {
-   "id": "uris-hall",
-   "why": "Empty lead in every language; also a plain campus building (the Bunshaft rule does not override an empty lead)."
-  },
-  {
-   "id": "hoffman-hall",
-   "why": "Empty lead in every language; plain campus tower and the photo is a tight crop."
-  },
-  {
-   "id": "st-willibald",
-   "why": "Lead only calls it a modern church and describes the parish boundaries; no design reason. Borderline: same architect's St. Nikolaus was skipped for the same reason."
-  },
-  {
-   "id": "neues-rathaus",
-   "why": "Town hall tower block; the lead says only 'modern, functional' and names a regional architect, so ordinary type with no design reason."
-  },
-  {
-   "id": "royce-hall",
-   "why": "Campus hall kept on a named revival style (Lombard Romanesque) and being UCLA's best-known image; strict rule for campus halls."
-  },
-  {
-   "id": "helsinki-stock-exchange-building",
-   "why": "Stock exchange kept on a named style alone, and the first photo (Haiku's p2) is a street-level crop of the facade with passers-by, not a clear whole-building view; the Wikidata main is a doorway detail."
+   "id": "edificio-condominiale-di-viale-roma",
+   "why": "Ordinary housing block; the lead only says 'modern architecture' at Viale Roma 380. The photos show a white 1930s-style villa, so prep's year 1985 and the Wikidata name Ettore Sottsass fit badly (a 1985 date cannot be Sottsass senior, who died in 1953, and Sottsass junior is not known for this house). Architect and year unreliable; skip."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "bruder-klaus-kirche",
-   "better_file_or_null": "File:Stuttgart Hajek-13-06-he 025.jpg",
-   "why": "Haiku's first photo is a small, hazy tower among trees under grey sky; this one shows the tower, curved roof and entrance clearly in daylight."
+   "id": "spiskova-vila",
+   "better_file_or_null": "File:Baba - Špíšek 02.jpg",
+   "why": "Mild: the first photo shows only the brick base and roof behind a pergola; the second shows the whole white house from the front."
   },
   {
-   "id": "villa-patocka",
-   "better_file_or_null": "File:Brno, Kaplanova, Patočkova vila (2).jpg",
-   "why": "The Wikidata main is a close-up half hidden by bushes; this view shows the whole house against a blue sky."
+   "id": "st-johns-cathedral-napier",
+   "better_file_or_null": "File:Napier, Part I- Architecture - Napier9501.jpg",
+   "why": "The first photo is a narrow shot with the cathedral small beside a car; the CC0 photo (Haiku's second) shows the whole facade, rose window and tower clearly."
   },
   {
-   "id": "olveston-historic-home",
-   "better_file_or_null": "File:Olveston Historic Home, Dunedin - Olveston8895.jpg",
-   "why": "The main photo shows the house small and partly behind an autumn tree; this one fills the frame with the whole house."
+   "id": "kunstsilo",
+   "better_file_or_null": "File:Kunstsilo mai 2024 (2).jpg",
+   "why": "Haiku's first (Kunstsilo (Kristiansand).jpg) is a close view of the white silo wall; the 2024 photo shows the glass tower, silos and sign together, which reads as the building."
   },
   {
-   "id": "edward-p-evans-hall",
-   "better_file_or_null": "File:Edward P. Evans Hall .jpg",
-   "why": "The Wikidata main ('Evans Hall back') shows the rear across a snowy lot; this shows the glazed front in daylight."
+   "id": "alcide-de-gasperi-building",
+   "better_file_or_null": "File:Luxembourg Kirchberg A De Gasperi 01.jpg",
+   "why": "Haiku's first (European Convention Center, Tour Alcide de Gasperi 03) is a tight upward crop of glass; the Q-rated 'A De Gasperi 01' shows the tower whole (a neighbouring block is beside it)."
   }
  ],
  "rescued": [
   {
-   "id": "einsteinhaus-caputh",
-   "why": "Wachsmann's timber house for Einstein, named by the brief; the lead (de) says built 1929 in Caputh, a timber house, lived in 1929-32, reopened 2005. Photos are clear exterior views.",
+   "id": "biblioteca-comunale-ezio-vanoni",
+   "why": "Striking stone rotunda by Luigi Caccia Dominioni (Wikidata), a well-known Milan modernist not yet on the wall; clear outside main photo. The lead (it) gives only size and opening year 1968, so a library whose lead gives no design reason: kept only for the architect. Flag as ordinary (library).",
    "entry": {
-    "id": "einsteinhaus-caputh",
-    "qid": "Q1309294",
+    "id": "biblioteca-comunale-ezio-vanoni",
+    "qid": "Q17622722",
     "status": "photo",
-    "why": "Wachsmann's Einstein house; first photo is the whole house from the garden (Wikidata's main is a side view with the same house).",
-    "name": "Einsteinhaus Caputh",
-    "by": "Konrad Wachsmann",
-    "city": "Caputh",
-    "cc": "DE",
-    "year": 1929,
-    "type": "House",
+    "why": "Striking stone rotunda by Luigi Caccia Dominioni (Wikidata), a well-known Milan modernist not yet on the wall; clear outside main photo. The lead (it) gives only size and opening year 1968, so a library whose lead gives no design reason: kept only for the architect. Flag as ordinary (library).",
+    "name": "Biblioteca comunale Ezio Vanoni",
+    "by": "Luigi Caccia Dominioni",
+    "city": "Morbegno",
+    "cc": "IT",
+    "year": 1968,
+    "type": "Library",
     "movement": "Modernism",
     "concepts": [
-     "Timber",
-     "Prefabrication",
-     "Landscape"
+     "Stone",
+     "Sculptural form",
+     "Geometry"
     ],
-    "features": "A 1929 timber summer house at Caputh near Potsdam, home of Albert Einstein until 1932.",
-    "commons_category": "Category:Einsteinhaus Caputh",
+    "features": "Morbegno's civic library, opened in 1968 and among the most significant in the Valtellina system by size and holdings.",
+    "commons_category": "Category:Biblioteca civica Ezio Vanoni",
     "coords": [
-     52.35,
-     13.0141
+     46.13176,
+     9.5676
     ],
     "photos": [
      {
-      "file": "File:Einsteinhaus Caputh rear 2015.JPG",
-      "license": "Public domain",
-      "seen": true
-     },
-     {
-      "file": "File:Albert Einstein home Berlin 100.JPG",
+      "file": "File:Morbegno - biblioteca civica Ezio Vanoni.jpg",
       "license": "CC BY-SA 3.0",
       "seen": true
      },
      {
-      "file": "File:Einsteinhaus north.jpg",
-      "license": "Public domain",
+      "file": "File:BIBLIOTECA CIVICA EZIO VANONI.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      }
     ]
    }
   },
   {
-   "id": "emmaus-church-vols",
-   "why": "Josef Lackner's folded white church in Völs is a key modern Tyrolean work; lead (de) gives the parish, dedication and monument listing; one excellent exterior photo (whole building, daylight). Haiku skipped for 'location and listing only'.",
+   "id": "mercato-dei-fiori-vecchio",
+   "why": "Haiku marked unsure only because the lead gives an address. It is the well-known 1951 concrete-shell flower market by Leonardo Savioli and Leonardo Ricci with the Gori brothers (Wikidata), clearly a modern structure on the sheet; neither Savioli nor Ricci is on the wall. Features use the name and prep's architects, as the lead says nothing more. Year 1951 is prep's, plausible for these architects. Main photo p1 (outside, sky) chosen over the cars under the vault.",
    "entry": {
-    "id": "emmaus-church-vols",
-    "qid": "Q38069391",
+    "id": "mercato-dei-fiori-vecchio",
+    "qid": "Q3854849",
     "status": "photo",
-    "why": "Lackner on the list of modern architects worth keeping; year 1967 from Wikidata (lead gives none).",
-    "name": "Emmaus Church, Völs",
-    "by": "Josef Lackner",
-    "city": "Völs",
-    "cc": "AT",
-    "year": 1967,
-    "type": "Religious",
+    "why": "Haiku marked unsure only because the lead gives an address. It is the well-known 1951 concrete-shell flower market by Leonardo Savioli and Leonardo Ricci with the Gori brothers (Wikidata), clearly a modern structure on the sheet; neither Savioli nor Ricci is on the wall. Features use the name and prep's architects, as the lead says nothing more. Year 1951 is prep's, plausible for these architects. Main photo p1 (outside, sky) chosen over the cars under the vault.",
+    "name": "Mercato dei Fiori Vecchio",
+    "by": "Leonardo Savioli, Leonardo Ricci, Giuseppe Giorgio Gori, Enzo Gori",
+    "city": "Pescia",
+    "cc": "IT",
+    "year": 1951,
+    "type": "Civic",
     "movement": "Modernism",
     "concepts": [
-     "Sculptural form",
-     "Geometry",
-     "Landscape"
+     "Vault",
+     "Structure as expression",
+     "Exposed concrete"
     ],
-    "features": "A listed Catholic parish church in Völs, Tyrol, dedicated to Jesus at Emmaus, by Josef Lackner, 1967.",
-    "commons_category": "Category:Emmaus Church (Völs, Tirol)",
+    "features": "A flower-market complex in Pescia, designed by Leonardo Savioli, Leonardo Ricci and Giuseppe and Enzo Gori.",
+    "commons_category": "Category:Old Flower Market (Pescia)",
     "coords": [
-     47.25285,
-     11.32978
+     43.89691,
+     10.68712
     ],
     "photos": [
      {
-      "file": "File:Völs, Emmauskirche.JPG",
-      "license": "CC BY-SA 3.0 at",
+      "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-17 15-58-24 001.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Völs Pfarrkirche Emmaus.jpg",
-      "license": "CC BY-SA 3.0 at",
+      "file": "File:Mercato vecchio di pescia 01.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-26 09-09-41 001.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Pescia - Mercato dei Fiori Vecchio - 2023-09-26 09-09-41 002.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      }
     ]
    }
   },
   {
-   "id": "kauniainen-church",
-   "why": "Kristian Gullichsen's 1983 church (Wikidata); the lead (fr) is only one sentence, so the features line is thin. Lower confidence: kept only because Gullichsen is a well-known modern Finnish architect and the first photo is a clear daylight exterior.",
+   "id": "prague-planetarium",
+   "why": "Skipped because the lead names no architect; Wikidata gives Jaroslav Fragner (well-known Czech modernist, nothing by him on the wall), and the lead dates the opening to 20 Nov 1960 (prep's 1950 is wrong). Clear outside daylight main photo of the domed rotunda. Moderate confidence: for Opus to confirm the architect.",
    "entry": {
-    "id": "kauniainen-church",
-    "qid": "Q19950962",
+    "id": "prague-planetarium",
+    "qid": "Q18198103",
     "status": "photo",
-    "why": "Lower confidence; coords are the second of two in prep (the church itself, the first is the town).",
-    "name": "Kauniainen Church",
-    "by": "Kristian Gullichsen",
-    "city": "Kauniainen",
-    "cc": "FI",
-    "year": 1983,
-    "type": "Religious",
+    "why": "Skipped because the lead names no architect; Wikidata gives Jaroslav Fragner (well-known Czech modernist, nothing by him on the wall), and the lead dates the opening to 20 Nov 1960 (prep's 1950 is wrong). Clear outside daylight main photo of the domed rotunda. Moderate confidence: for Opus to confirm the architect.",
+    "name": "Prague Planetarium",
+    "by": "Jaroslav Fragner",
+    "city": "Prague",
+    "cc": "CZ",
+    "year": 1960,
+    "type": "Culture & sport",
+    "movement": "Modernism",
+    "concepts": [
+     "Geometry",
+     "Sculptural form",
+     "Landscape"
+    ],
+    "features": "A planetarium opened in 1960 whose 23.5 m dome is one of the largest in the world.",
+    "commons_category": "Category:Planetarium in Prague",
+    "coords": [
+     50.10559,
+     14.42753
+    ],
+    "photos": [
+     {
+      "file": "File:Planetum, Praha (2025-08-07).jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "casa-serra",
+   "why": "Haiku left it unsure only for the 1987 office block behind the facade. The lead names Josep Puig i Cadafalch, Modernisme, built 1903-1908; the main Rambla de Catalunya view shows the whole Casa Serra, and the glass block is physically attached (the Diagonal wing was demolished), so no clean view exists. Puig is on the wall (CaixaForum). Accept the first photo as honest; for Opus if the block behind is too strong.",
+   "entry": {
+    "id": "casa-serra",
+    "qid": "Q3661167",
+    "status": "photo",
+    "why": "Haiku left it unsure only for the 1987 office block behind the facade. The lead names Josep Puig i Cadafalch, Modernisme, built 1903-1908; the main Rambla de Catalunya view shows the whole Casa Serra, and the glass block is physically attached (the Diagonal wing was demolished), so no clean view exists. Puig is on the wall (CaixaForum). Accept the first photo as honest; for Opus if the block behind is too strong.",
+    "name": "Casa Serra",
+    "by": "Josep Puig i Cadafalch",
+    "city": "Barcelona",
+    "cc": "ES",
+    "year": 1908,
+    "type": "House",
+    "movement": "Art Nouveau",
+    "concepts": [
+     "Detail",
+     "Facade as skin",
+     "Sculptural form"
+    ],
+    "features": "A Modernisme house by Josep Puig i Cadafalch, built 1903-1908 for Pere Serra, now the Provincial Deputation's seat.",
+    "commons_category": "Category:Casa Serra (Barcelona)",
+    "coords": [
+     41.39551,
+     2.15767
+    ],
+    "photos": [
+     {
+      "file": "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE (1).jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:423 Casa Serra, Rambla de Catalunya 126 (Barcelona).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:WLM14ES - Casa modernista Can Serra i actualment seu de la Diputació de Barcelona, Eixample - MARIA ROSA FERRE.jpg",
+      "license": "CC BY-SA 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "haus-wittmann",
+   "why": "Haiku was unsure only for lack of a reason in the lead. A built house by Johannes Spalt (a respected Austrian modern architect, nothing by him on the wall), 1970-1975 per the lead; first photo is a clear daylight view of the whole house.",
+   "entry": {
+    "id": "haus-wittmann",
+    "qid": "Q55077482",
+    "status": "photo",
+    "why": "Haiku was unsure only for lack of a reason in the lead. A built house by Johannes Spalt (a respected Austrian modern architect, nothing by him on the wall), 1970-1975 per the lead; first photo is a clear daylight view of the whole house.",
+    "name": "Haus Wittmann",
+    "by": "Johannes Spalt",
+    "city": "Grafenegg",
+    "cc": "AT",
+    "year": 1975,
+    "type": "House",
     "movement": "Late modernism",
     "concepts": [
-     "Brick",
+     "Landscape",
      "Geometry",
-     "Light & shadow"
+     "Detail"
     ],
-    "features": "A church in Kauniainen, Finland (Kauniaisten kirkko), designed by Kristian Gullichsen, 1983.",
-    "commons_category": "Category:Kauniainen Church",
+    "features": "A single-family house in Grafenegg, built 1970-1975 by Johannes Spalt for the Wittmann furniture makers.",
+    "commons_category": "Category:Haus Wittmann, Etsdorf am Kamp",
     "coords": [
-     60.21336,
-     24.72797
+     48.44973,
+     15.74697
     ],
     "photos": [
      {
-      "file": "File:Kauniaisten kirkko 1.JPG",
-      "license": "Public domain",
+      "file": "File:Haus Wittmann Südwest.JPG",
+      "license": "CC BY-SA 3.0 de",
       "seen": true
      },
      {
-      "file": "File:Kauniainen Church - Kauniaisten kirkko C IMG 8248.JPG",
-      "license": "CC BY-SA 4.0",
+      "file": "File:Haus Wittmann.JPG",
+      "license": "CC BY-SA 3.0 de",
       "seen": true
      },
      {
-      "file": "File:Kauniaisten kirkko 3.JPG",
-      "license": "Public domain",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "butte-aux-cailles-swimming-pool",
-   "why": "Louis Bonnier's 1924 Paris pool; lead (fr) says it is one of the oldest pools in Paris. Lower confidence: no design reason in the lead, kept because Bonnier is a well-known architect and the first photo is a clear daylight exterior.",
-   "entry": {
-    "id": "butte-aux-cailles-swimming-pool",
-    "qid": "Q3389226",
-    "status": "photo",
-    "why": "Lower confidence; the other two photos are public-domain archive views of the pool's facade.",
-    "name": "Butte-aux-Cailles swimming pool",
-    "by": "Louis Bonnier",
-    "city": "Paris",
-    "cc": "FR",
-    "year": 1924,
-    "type": "Culture & sport",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Brick",
-     "Water",
-     "Public space"
-    ],
-    "features": "One of the oldest swimming pools in Paris, on place Paul-Verlaine in the 13th arrondissement, designed by Louis Bonnier.",
-    "commons_category": "Category:Piscine de la Butte-aux-Cailles",
-    "coords": [
-     48.8272,
-     2.3525
-    ],
-    "photos": [
-     {
-      "file": "File:Piscine de la Butte-aux-Cailles, 5 place Paul-Verlaine, Paris 13e.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:1-3-24, piscine de la Butte aux Cailles (façade) - btv1b531271662.jpg",
-      "license": "Public domain",
-      "seen": true
-     },
-     {
-      "file": "File:Nouvelle piscine de la Butte aux Cailles (extérieur) - btv1b9024200s.jpg",
-      "license": "Public domain",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "villa-bonnier",
-   "why": "Ragnar Östberg's 1927 villa in Stockholm (Östberg has three entries on the wall); lead (sv) gives the designer, year, and state building-monument status since 2018. Villa is not an ordinary type. Lower confidence: heritage value is the only reason in the lead.",
-   "entry": {
-    "id": "villa-bonnier",
-    "qid": "Q10715448",
-    "status": "photo",
-    "why": "Lower confidence; clear exterior photos in daylight.",
-    "name": "Villa Bonnier",
-    "by": "Ragnar Östberg",
-    "city": "Stockholm",
-    "cc": "SE",
-    "year": 1927,
-    "type": "House",
-    "movement": "Historic precedent",
-    "concepts": [
-     "Brick",
-     "Detail",
-     "Landscape"
-    ],
-    "features": "Ragnar Östberg's 1927 villa in Stockholm's Diplomatstaden, a state building monument since 2018.",
-    "commons_category": "Category:Villa Bonnier",
-    "coords": [
-     59.3325,
-     18.10439
-    ],
-    "photos": [
-     {
-      "file": "File:Diplomatstaden 2008 Amb 3.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Villa Bonnier, 2018.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Diplomatstaden 2008 Amb 3a.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:Salettl Wittmann.JPG",
+      "license": "CC BY-SA 3.0 de",
       "seen": true
      }
     ]
    }
   }
  ],
- "summary": "Positions 150-299: Haiku 63 photo, 78 skip (incl. dup 150, 180, 299), 9 unsure. Of 63 photo: 48 keep_ok (4 of them with a field fix: longmire-buildings by, cafe-era year and features, gary-bathing-beach-aquatorium type; 4 with a better first photo: bruder-klaus-kirche, villa-patocka, olveston-historic-home, edward-p-evans-hall), 15 keep_wrong (5 empty leads: volksbuhne, carpenter-theatre, edificio-urumea, uris-hall, hoffman-hall; 2 pre-1900: paradiso-amsterdam, philadelphia-history-museum; 8 ordinary or revival: palm-springs-convention-center, scranton-cultural-center, louise-freer-hall, kitchi-gammi-club, st-willibald, neues-rathaus, royce-hall, helsinki-stock-exchange-building). 2 flagged ordinary among the kept (khovo-lar housing, las-palmas former workshop) = about 4%. 5 rescued: einsteinhaus-caputh (high confidence), emmaus-church-vols (good), kauniainen-church, butte-aux-cailles-swimming-pool, villa-bonnier (lower confidence). Not rescued: all empty leads (Suva House, Central Signal Box, St. Helena Bonn, Magnolia Library, Gartenbad, Rotonda House, Haus Ungers, Felder house, Braem Pavilion, Reformed Church Reinach and others), buildings with no usable photo (Balmelli, Esherick, Sommerfeld House (also destroyed), Marshcourt, Casa Vilaro, WUWA 36), pre-1900 Raio Palace and Pfingstberg Belvedere (Persius died 1845; built 1847-63), and church skips with lead giving only parish/listing (St. Nikolaus and St. Karl Borromaus Munich, Maria Hilf, St. Christophorus, St. Martin Meilen, Mikaeli). Generic names kept as Wikidata labels (People's House, Saint Thomas Church, Auferstehungskirche); the caller may want 'Volkshaus Biel', 'Thomaskirche, Basel', 'Auferstehungskirche, Bonn'."
+ "summary": "Positions 150-299: Haiku had 25 photo, 14 unsure, 111 skip. Photo entries: 23 keep_ok (10 fields fixed across 8 of them: 4 years, 1 architect credit, 3 concepts), 2 keep_wrong (herndon-home, edificio-condominiale-di-viale-roma), 4 main photos to swap. Unsure/skip: 5 rescued (biblioteca-comunale-ezio-vanoni, mercato-dei-fiori-vecchio, prague-planetarium, casa-serra, haus-wittmann); all others stay out (about 55 empty leads, many Wikipedia-sweep churches, schools, theatres, Vienna housing; unsure ones such as Freemasons' Hall, Postpalast, Foujita Chapel, Lycabettus Theatre, Noguchi Museum, Tampere Art Museum stay out). Total kept = 28; ordinary = 6 (21%), so drop the weakest (Laeiszhalle or Cunard) to get under 20%. No duplicates with the wall (no dup_flag; coordinate check only found different neighbouring buildings, except the Cottbus library already on the wall as ikmz-library-btu-cottbus)."
 }

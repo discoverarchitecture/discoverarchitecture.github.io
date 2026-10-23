@@ -1,316 +1,221 @@
 {
  "keep_ok": [
-  "villa-skeppet",
-  "duey-and-julia-wright-house",
-  "e-clarke-and-julia-arnold-house",
-  "first-unitarian-society-of-madison",
-  "theodore-baird-residence",
-  "jyvaskyla-defence-corps-building",
-  "gnadenkirche",
-  "luthernotkirche",
-  "palacio-de-exposiciones-y-congresos-ciudad-de-oviedo",
-  "luiz-de-bessa-state-public-library",
-  "gregoriuskerk",
-  "kunstgebaude-stuttgart",
-  "suchardova-vila",
-  "koterova-vila",
-  "palace-theatre-marion-ohio",
-  "kratochvilova-vila",
-  "mozarteum",
-  "alte-heide",
-  "villa-janak",
-  "st-maria-konigin",
-  "st-johannes-der-taufer",
-  "collegiate-church-of-st-martin",
-  "st-mauritius",
-  "st-ansgar-kirche",
-  "teatro-fleta",
-  "can-guardiola",
-  "santuari-de-la-mare-de-deu-de-montserrat",
-  "la-jolla-recreational-center",
-  "pfullinger-hallen",
-  "akiyoshidai-international-art-village",
-  "shanghai-symphony-hall",
-  "yorkville-library",
-  "hood-museum-of-art",
-  "festspielhaus-hellerau",
-  "meistersingerhalle",
-  "reuchlinhaus",
-  "turku-main-library",
-  "esglesia-del-sagrat-cor-de-vistabella",
-  "villa-kudela",
-  "blue-pavilion",
-  "shikoku-mura-gallery",
-  "palazzo-del-nuoto",
-  "house-dellacher",
-  "postgebouw-van-oostende",
-  "wall-house-ii",
-  "our-lady-of-good-counsel-church-glasgow",
-  "matzleinsdorfer-hochhaus",
-  "kirche-st-antonius",
-  "konigliche-anatomie",
-  "villa-carl-feldafing",
-  "haus-freudenberg",
-  "sioux-city-public-library-smith-villa-branch",
-  "fritz-schumacher-schule",
-  "gemeindehaus-der-matthausgemeinde"
+  "bernard-schwartz-house",
+  "goetsch-winckler-house",
+  "robert-m-lamp-house",
+  "thomas-p-hardy-house",
+  "student-union-building-ilokivi",
+  "sport-and-health-sciences-department-building",
+  "hiram-c-stewart-house",
+  "building-of-east-bohemian-museum",
+  "granville-d-jones-house",
+  "king-nash-house",
+  "villa-tonder",
+  "nature-spa-takarazuka",
+  "huize-lydia",
+  "parco-sempione-library",
+  "st-wenceslas-church-vrsovice",
+  "st-franziskus",
+  "blackwell-arts-and-crafts-house",
+  "kasson-municipal-building",
+  "st-lazarus-roman-catholic-church-al-eizariya",
+  "villa-kampen",
+  "tampere-theatre",
+  "synagogue-don-isaac-abravanel",
+  "kalmar-konstmuseum"
  ],
  "ordinary": [
-  "luiz-de-bessa-state-public-library",
-  "kunstgebaude-stuttgart",
-  "palace-theatre-marion-ohio",
-  "mozarteum",
-  "alte-heide",
-  "yorkville-library",
-  "meistersingerhalle",
-  "turku-main-library",
-  "matzleinsdorfer-hochhaus",
-  "fritz-schumacher-schule",
-  "administrative-building-of-nestle-sa"
+  "huize-lydia",
+  "rundling",
+  "tampere-theatre",
+  "arenes-de-maracay",
+  "philologica"
  ],
  "keep_fix": [
   {
-   "id": "wall-house-ii",
-   "field": "movement",
-   "haiku": "Deconstructivism",
-   "should_be": "Late modernism",
-   "why": "The lead calls it a mix of Cubist painting, Surrealist sculpture and architecture; Hejduk is not a deconstructivist and 'Late modernism' fits his neo-modern wall houses better."
+   "id": "thiel-gallery",
+   "field": "year",
+   "haiku": 1924,
+   "should_be": null,
+   "why": "The lead gives no year; 1924 is Wikidata's and no completion date in the lead supports it. Use null rather than 1924."
   },
   {
-   "id": "villa-kudela",
-   "field": "concepts",
-   "haiku": [
-    "Facade as skin",
-    "Free plan",
-    "Planting"
-   ],
-   "should_be": [
-    "Geometry",
-    "Facade as skin",
-    "Colour"
-   ],
-   "why": "The lead says only that it is a functionalist villa (1926-27); 'Free plan' and 'Planting' are not supported, and the photos show a plain yellow cube."
+   "id": "arenes-de-maracay",
+   "field": "name",
+   "haiku": "Arènes de Maracay",
+   "should_be": "Maestranza César Girón",
+   "why": "Haiku took the French lead title; the English label is a proper name (and the Commons category). The id should follow: maestranza-cesar-giron."
+  },
+  {
+   "id": "rundling",
+   "field": "name",
+   "haiku": "Rundling",
+   "should_be": "Rundling (Leipzig)",
+   "why": "English Wikipedia title is 'Rundling (Leipzig)'; bare 'Rundling' is too generic as a wall name."
+  },
+  {
+   "id": "st-michael-s-church",
+   "field": "name",
+   "haiku": "St. Michael's Church",
+   "should_be": "St. Michael's Church (Črna Vas)",
+   "why": "English Wikipedia title adds '(Črna Vas)'; the bare name is generic and could clash with other St. Michael's churches."
   }
  ],
  "keep_wrong": [
   {
-   "id": "aalto-university-undergraduate-center",
-   "why": "Same building as a wall entry (Aalto University Undergraduate Centre, Otaniemi main building)."
+   "id": "adelheid-popp-hof",
+   "why": "Municipal housing block; the lead gives only architect and dates (built 1932-33, extended 1949-50), no design reason, so it is ordinary housing."
   },
   {
-   "id": "marschnerstrasse-3-3a",
-   "why": "Lead gives only a listing and who lived there; a minor 1900 double house now a parish office, and 'Art Nouveau' is not in the lead. Name is a street address."
+   "id": "brittingham-boathouse",
+   "why": "Small park boathouse; the only reason is a local record (city's oldest park building) and a general City Beautiful remark, no named designer or design point; main photo shows it small and far away."
   },
   {
-   "id": "many-glacier-campground-camptender-s-cabin",
-   "why": "Small utility cabin in a campground; the lead gives only the NPS Rustic label and park-visitation history. Too minor for the wall."
+   "id": "casa-de-colon",
+   "why": "A 1950s reconstruction in historic style of a governor's house now a Columbus museum; the lead never names the architect and gives no design reason a student would study."
   },
   {
-   "id": "helsingborgs-konserthus",
-   "why": "Same building as a wall entry (Helsingborg Concert Hall)."
+   "id": "cluj-napoca-banffy-palace",
+   "why": "Built 1774-75, a regional Baroque palace; the lead calls it the most representative Baroque building of Transylvania only, not a precedent for students worldwide; Wikidata year 1951 is wrong."
   },
   {
-   "id": "queens-theatre-new-york-city",
-   "why": "Lead describes the theatre company only, nothing about the building; it is part of the New York State Pavilion complex already on the wall."
-  },
-  {
-   "id": "buffalo-history-museum",
-   "why": "Neoclassical museum kept on a landmark listing and its Exposition origin; the lead gives no design reason (ordinary revival civic)."
-  },
-  {
-   "id": "mestske-divadlo-jablonec-nad-nisou",
-   "why": "Fellner & Helmer revival theatre; the lead gives only a listing, the theatre society's history and 'one of six'. Ordinary revival theatre, no design reason."
-  },
-  {
-   "id": "sverigehuset",
-   "why": "Office complex; the lead gives only floor counts and a big entrance hall, not a design reason. Main photo is a cropped street corner."
-  },
-  {
-   "id": "gorilla-house",
-   "why": "Same building as a wall entry (Gorilla House, London Zoo)."
-  },
-  {
-   "id": "durant-hall",
-   "why": "Beaux-Arts campus hall; the lead gives donors and history only. Ordinary revival-style building."
-  },
-  {
-   "id": "mothers-building",
-   "why": "Lead gives listings and WPA murals only; the main photo is a 1979 record photograph (b/w) of an entrance arcade. Not a design reason."
-  },
-  {
-   "id": "teatr-im-wilama-horzycy",
-   "why": "Revival theatre; the lead says only that it is a drama theatre in the building at Teatralny Square 1. No design reason."
-  },
-  {
-   "id": "hilgard-hall",
-   "why": "Neo-classical campus hall; the lead gives only the style, the listing and who it is named for."
-  },
-  {
-   "id": "harvard-union",
-   "why": "Lead is one line (a historic building, now Barker Center); Georgian revival club house, second architect id unresolved (Q140191272). No design reason."
-  },
-  {
-   "id": "deluca-biochemistry-building",
-   "why": "Campus laboratory kept for vitamin discoveries, not for its design; Beaux-Arts style. Co-architect Paul Cret is not what the lead is about."
-  },
-  {
-   "id": "stadttheater-baden",
-   "why": "Revival theatre; the lead covers only current artistic directors and programme."
-  },
-  {
-   "id": "grecian-shelter",
-   "why": "Park peristyle in Renaissance revival style; the lead gives only style and column count. Minor revival structure, no design reason."
-  },
-  {
-   "id": "hearst-memorial-mining-building",
-   "why": "Beaux-Arts campus building kept on style and listing; the lead describes the department that uses it. Ordinary revival."
-  },
-  {
-   "id": "schenectady-city-hall",
-   "why": "Federal-revival city hall; the lead gives the style and listing only. Ordinary revival civic building."
-  },
-  {
-   "id": "kunstlerhaus-am-lenbachplatz",
-   "why": "Neo-Renaissance clubhouse (historicism) kept on a listing; the lead gives no design reason."
-  },
-  {
-   "id": "mount-baker-theatre",
-   "why": "Theatre; the lead gives seats, stage size and a ghost story only. No design reason."
+   "id": "villa-polasek",
+   "why": "Local Brno architect's own villa; the lead gives only the word functionalist and dates, the architect has no other work on the wall, so no clear reason to study it."
   }
  ],
  "main_photo_wrong": [
   {
-   "id": "first-presbyterian-church-cottage-grove-oregon",
-   "better_file_or_null": null,
-   "why": "The only photo has a tall fence hiding the lower half of the church and trees across the roof; no clear whole-building view. Hold off the wall until another photo is found (lead is only an NRHP listing, so low priority)."
+   "id": "proxima",
+   "better_file_or_null": "File:JYU - Proxima.jpg",
+   "why": "Haiku's first photo is an 11,222 x 3,408 panorama (3.3:1) in which the buildings are a thin strip and it crops badly in a wall tile. JYU - Proxima.jpg (CC BY-SA 4.0, p2 on the sheet) shows the brick building and its glazed canopy from outside in daylight."
   }
  ],
  "rescued": [
   {
-   "id": "finnish-pavilion-venice-biennale",
-   "why": "Aalto built work in the Giardini, skipped only because the lead is one sentence. Photo 'The Finnish Pavilion, Biennale di Venezia' (index p1 on the sheet) is a clear daylight view of the whole pavilion; the 'main' slot is an installation interior. Name follows the wall's 'Dutch Pavilion, Venice Biennale' pattern.",
+   "id": "stadtbad-mitte",
+   "why": "Tessenow (well-known) built work, a Berlin public bath opened 1930 and listed; Haiku skipped only because the architect is not on the wall and the lead is short. Clean daylight exterior photos exist (the main photo has scaffolding, so p4/p5 go first).",
    "entry": {
-    "id": "finnish-pavilion-venice-biennale",
-    "qid": "Q9294763",
+    "id": "stadtbad-mitte",
+    "qid": "Q1292740",
     "status": "photo",
-    "why": "Aalto built work in the Giardini, skipped only because the lead is one sentence. Photo 'The Finnish Pavilion, Biennale di Venezia' (index p1 on the sheet) is a clear daylight view of the whole pavilion; the 'main' slot is an installation interior. Name follows the wall's 'Dutch Pavilion, Venice Biennale' pattern.",
-    "name": "Finnish Pavilion, Venice Biennale",
-    "by": "Alvar Aalto",
-    "city": "Venice",
-    "cc": "IT",
-    "year": 1956,
-    "type": "Pavilion",
+    "why": "Tessenow and Jelkmann's Volksbad opened 1930, listed; lead is short but the architect is well known.",
+    "name": "Stadtbad Mitte",
+    "by": "Heinrich Tessenow, Carlo Jelkmann",
+    "city": "Berlin",
+    "cc": "DE",
+    "year": 1930,
+    "type": "Culture & sport",
     "movement": "Modernism",
     "concepts": [
-     "Sculptural form",
-     "Geometry",
-     "Detail"
+     "Water",
+     "Public space",
+     "Brick"
     ],
-    "features": "Alvar Aalto's pavilion housing Finland's national representation at the Venice Biennale, beside the shared Nordic pavilion.",
-    "commons_category": "Category:Venice Biennale pavilions (Finland)",
+    "features": "A public bath opened in 1930, listed, its entrance set into the street line of the neighbouring apartment buildings.",
+    "commons_category": "Category:Stadtbad Mitte",
     "coords": [
-     45.4293,
-     12.3585
+     52.52954,
+     13.39315
     ],
     "photos": [
      {
-      "file": "File:The Finnish Pavilion, Biennale di Venezia.jpg",
+      "file": "File:Mitte Gartenstraße Stadtbad Mitte-002.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Mitte Gartenstraße Stadtbad Mitte-003.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Stadtbad Mitte 08.02.2016 15-16-21.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "lake-suwa-museum",
+   "why": "Toyo Ito (25 buildings on the wall) built work; Haiku marked unsure only because Wikidata's year 1952 is impossible for Ito and the lead names no architect. Accept Wikidata's architect, year null (no source); the photo shows the curved-roof museum from outside in daylight.",
+   "entry": {
+    "id": "lake-suwa-museum",
+    "qid": "Q11631898",
+    "status": "photo",
+    "why": "Toyo Ito museum on the shore of Lake Suwa; year unsupported so null.",
+    "name": "Lake Suwa Museum",
+    "by": "Toyo Ito",
+    "city": "Shimosuwa",
+    "cc": "JP",
+    "year": null,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Water",
+     "Landscape",
+     "Sculptural form"
+    ],
+    "features": "A municipal museum on the shore of Lake Suwa in Shimosuwa, with the Akahiko Memorial Hall literature museum attached.",
+    "commons_category": null,
+    "coords": [
+     36.06722,
+     138.10083
+    ],
+    "photos": [
+     {
+      "file": "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "philologica",
+   "why": "Aalto (50 buildings on the wall) built work on the Jyväskylä campus, the same set as Ilokivi, the sports building and Proxima that Haiku kept; skipping it only for being a dormitory is inconsistent with the well-known-architect rule. Clear brick exterior, daylight. Counts as housing (ordinary).",
+   "entry": {
+    "id": "philologica",
+    "qid": "Q28464267",
+    "status": "photo",
+    "why": "Aalto student residence of the College of Education on the Seminaarinmäki campus.",
+    "name": "Philologica",
+    "by": "Alvar Aalto",
+    "city": "Jyväskylä",
+    "cc": "FI",
+    "year": 1954,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+     "Brick",
+     "Landscape",
+     "Community"
+    ],
+    "features": "Aalto's student residence of the College of Education, a university building on the Seminaarinmäki campus in Jyväskylä.",
+    "commons_category": "Category:Philologica",
+    "coords": [
+     62.23509,
+     25.73023
+    ],
+    "photos": [
+     {
+      "file": "File:Philologica.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Le pavillon de la Finlande (Biennale d'architecture 2014, Venise) (15545331895).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "renaat-braem-house",
-   "why": "Architect's own house (Braem is a leading Belgian modernist/brutalist), skipped only for a one-line lead. The CC0 main photo shows the whole brick facade in daylight; Haiku judged it cut off but the house is complete in frame.",
-   "entry": {
-    "id": "renaat-braem-house",
-    "qid": "Q2571900",
-    "status": "photo",
-    "why": "Architect's own house (Braem is a leading Belgian modernist/brutalist), skipped only for a one-line lead. The CC0 main photo shows the whole brick facade in daylight; Haiku judged it cut off but the house is complete in frame.",
-    "name": "Renaat Braem House",
-    "by": "Renaat Braem",
-    "city": "Antwerp",
-    "cc": "BE",
-    "year": 1950,
-    "type": "House",
-    "movement": "Modernism",
-    "concepts": [
-     "Brick",
-     "Facade as skin",
-     "Human comfort"
-    ],
-    "features": "Renaat Braem's own studio house in Antwerp, designed by himself and later turned into a museum.",
-    "commons_category": "Category:Architectenwoning Renaat Braem",
-    "coords": [
-     51.20024,
-     4.46298
-    ],
-    "photos": [
-     {
-      "file": "File:Deurne Braem-huis Menegemlei 1.JPG",
-      "license": "CC0",
+      "file": "File:University of Jyväskylä - Philologica 2.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Antwerpen Menegemlei 23 - 277655 - onroerenderfgoed.jpg",
-      "license": "CC BY 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "administrative-building-of-nestle-sa",
-   "why": "Tschumi's best-known work, Swiss modernist landmark; Haiku left it unsure only because the lead is one sentence and Jean Tschumi has none on the wall. Main photo is a clear daylight view of the whole Y-shaped block. An office HQ, so counted as ordinary (rescued, not in keep_ok).",
-   "entry": {
-    "id": "administrative-building-of-nestle-sa",
-    "qid": "Q1619855",
-    "status": "photo",
-    "why": "Tschumi's best-known work, Swiss modernist landmark; Haiku left it unsure only because the lead is one sentence and Jean Tschumi has none on the wall. Main photo is a clear daylight view of the whole Y-shaped block. An office HQ, so counted as ordinary (rescued, not in keep_ok).",
-    "name": "Administrative Building of Nestlé SA",
-    "by": "Jean Tschumi",
-    "city": "Vevey",
-    "cc": "CH",
-    "year": 1960,
-    "type": "Office & tower",
-    "movement": "Modernism",
-    "concepts": [
-     "Facade as skin",
-     "Steel & glass",
-     "Landscape"
-    ],
-    "features": "Nestlé's headquarters in Vevey, designed by Jean Tschumi and built in 1959-1960.",
-    "commons_category": "Category:Nestlé HQ",
-    "coords": [
-     46.46694,
-     6.835
-    ],
-    "photos": [
-     {
-      "file": "File:TschumiNestle04.jpg",
-      "license": "CC BY 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Vevey, Bâtiment administratif et Archives Historiques de Nestlé SA 2.jpg",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Vevey, Bâtiment administratif et Archives Historiques de Nestlé SA 3.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:Jyväskylä Philologica.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      }
     ]
    }
   }
  ],
- "summary": "Positions 0-149: 76 photo, 17 unsure, 57 skip checked (sheets 00-16 opened; 17-18 not needed). photo: 54 keep_ok, 21 keep_wrong (3 are wall duplicates 1, 48, 105; 18 ordinary or lead-less revival/campus/theatre/listing-only buildings), 1 main_photo_wrong (Cottage Grove church, hidden by a fence). 2 field fixes (Wall House II movement, Villa Kudela concepts). 11 entries tagged ordinary (10 in keep_ok + the rescued Nestle HQ) = about 19% of 57 kept. unsure/skip: 3 rescued (Finnish Pavilion by Aalto, Renaat Braem House, Nestle HQ by Tschumi); the rest stay out (no photo of the building: 11, 13, 21, 39, 52, 68, 84, 87, 99, 135; rebuilt copy: Villa Munz 24; ordinary or no design reason: the rest). Empty-lead skips that are strong buildings and should be revisited once a lead exists: AEG Kleinmotorenfabrik and Haus Behrens (Behrens), Rietveld houses 16-19, Pavilhao Armando Arruda Pereira (Niemeyer), Peglezen (Plecnik), Isler halls, Masna burza (Fuchs), Holzmeister chapels, Haus Scharoun, Ernst Ludwig House (Olbrich), Casa Modes Tapies (Jujol). Niche-architect church skips not rescued: Franz-von-Sales-Kirche (Schwippert), Erloserkirche Landshut (Dollgast), St Albertus Magnus Berlin (Leitl). Notes: first photos of Kratochvilova vila and Festspielhaus Hellerau are vintage b/w views (best available); Blue Pavilion main is a dusk shot; Turku Main Library year stays null (prep 1903 is the old library; photo shows JKMM's new building); Montferri year 1999 is the completion year (begun 1925)."
+ "summary": "Positions 0-149: Haiku had 33 photo, 10 unsure, 107 skip. Of the 33 photo entries: 23 keep_ok as written, 5 kept but need a fix (name fixes on arenes-de-maracay, rundling, st-michael-s-church; year null on thiel-gallery; a different main photo for proxima), 5 keep_wrong. keep_ok excludes the ids in keep_fix and main_photo_wrong, which are still kept after the fix. Rescued 3: stadtbad-mitte, lake-suwa-museum (year null), philologica. Final kept = 31; ordinary types among them = 5 (16 percent). Of the 117 unsure/skip entries, 29 have an empty lead (skip by rule, including bagno-pubblico-bellinzona, already on the wall), 6 have no usable photo (sun-terrace has none at all, hearst-gymnasium, branigan, slovenia assembly, experimental-theater, north-casper-clubhouse), the rest are ordinary or give no design reason. Borderline left out: ullensaker-church (Arneberg, only a local nickname), gewerbehaus (Schumacher, year unclear), kyoto-municipal-museum-of-art (lead says 1928, no design reason). Notes: villa-tonder has only historic photos (confirm it still stands). No dup_flag entries and no duplicates on the wall found by id, name, QID or 250 m."
 }
