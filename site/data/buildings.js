@@ -49408,9 +49408,60 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Wikipediasessie_Henry_Van_de_Veldezaal_Boekentoren_Gent_25-11-2019_14-11-10.jpg",
     "file": "File:Wikipediasessie Henry Van de Veldezaal Boekentoren Gent 25-11-2019 14-11-10.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Gent._Boekentoren._Biblioth%C3%A8que_universitaire_de_Gand._Plan_du_parquet_1937_barcode_800000094491.jpg/1280px-Gent._Boekentoren._Biblioth%C3%A8que_universitaire_de_Gand._Plan_du_parquet_1937_barcode_800000094491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boekentoren/thumbs/6.webp",
+    "w": 1280,
+    "h": 1199,
+    "kind": "Plan",
+    "caption": "Plan · Title [plan] Gent",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gent._Boekentoren._Biblioth%C3%A8que_universitaire_de_Gand._Plan_du_parquet_1937_barcode_800000094491.jpg",
+    "file": "File:Gent. Boekentoren. Bibliothèque universitaire de Gand. Plan du parquet 1937 barcode 800000094491.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Gent._Boekentoren._Universitaire_bibliotheek._Plan_van_een_verdieping_%28Voorontwerp%29_%28Reproductie%29_1933_barcode_000010839148.jpg/1280px-Gent._Boekentoren._Universitaire_bibliotheek._Plan_van_een_verdieping_%28Voorontwerp%29_%28Reproductie%29_1933_barcode_000010839148.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boekentoren/thumbs/7.webp",
+    "w": 1280,
+    "h": 1393,
+    "kind": "Plan",
+    "caption": "Plan · Title [plan] Gent",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gent._Boekentoren._Universitaire_bibliotheek._Plan_van_een_verdieping_(Voorontwerp)_(Reproductie)_1933_barcode_000010839148.jpg",
+    "file": "File:Gent. Boekentoren. Universitaire bibliotheek. Plan van een verdieping (Voorontwerp) (Reproductie) 1933 barcode 000010839148.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gent._Boekentoren._Universit%C3%A9_de_Gand._Biblioth%C3%A8que._Plan_granito._1e_%C3%A9tage_1938_barcode_800000094563.jpg/1280px-Gent._Boekentoren._Universit%C3%A9_de_Gand._Biblioth%C3%A8que._Plan_granito._1e_%C3%A9tage_1938_barcode_800000094563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boekentoren/thumbs/8.webp",
+    "w": 1280,
+    "h": 1268,
+    "kind": "Plan",
+    "caption": "Plan · Title [plan] Gent",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gent._Boekentoren._Universit%C3%A9_de_Gand._Biblioth%C3%A8que._Plan_granito._1e_%C3%A9tage_1938_barcode_800000094563.jpg",
+    "file": "File:Gent. Boekentoren. Université de Gand. Bibliothèque. Plan granito. 1e étage 1938 barcode 800000094563.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Gent._Boekentoren._Universitaire_bibliotheek._Doorsnede_C.D._Doorsnede_A.B._Plan_v.d._toren_1933_barcode_800000094314.jpg/1280px-Gent._Boekentoren._Universitaire_bibliotheek._Doorsnede_C.D._Doorsnede_A.B._Plan_v.d._toren_1933_barcode_800000094314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/boekentoren/thumbs/9.webp",
+    "w": 1280,
+    "h": 1000,
+    "kind": "Section",
+    "caption": "Section · Title [plan] Gent",
+    "credit": "Unknown",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Gent._Boekentoren._Universitaire_bibliotheek._Doorsnede_C.D._Doorsnede_A.B._Plan_v.d._toren_1933_barcode_800000094314.jpg",
+    "file": "File:Gent. Boekentoren. Universitaire bibliotheek. Doorsnede C.D. Doorsnede A.B. Plan v.d. toren 1933 barcode 800000094314.jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Plan",
+   "Section"
+  ],
   "gv": 3
  },
  {
@@ -73497,9 +73548,23 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Tartu_Pauluse_kiriku_saal.jpg",
     "file": "File:Tartu Pauluse kiriku saal.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Paavalin_kirkko%2C_Tartto%2C_Viro%2C_perspektiivipiirustus%2C_1911_%28mfa.4a6a9a68-d7f6-4dd8-bf22-fef35ae157ec%29.tif/lossy-page1-1280px-Paavalin_kirkko%2C_Tartto%2C_Viro%2C_perspektiivipiirustus%2C_1911_%28mfa.4a6a9a68-d7f6-4dd8-bf22-fef35ae157ec%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/st-paul-s-church/thumbs/6.webp",
+    "w": 1218,
+    "h": 1400,
+    "kind": "Drawing",
+    "caption": "Drawing · aihe: PIirustuskuva, ulkoperspektiivi, signeeraus Paulus kirche Dorpat Eliel Saarinen 1911",
+    "credit": "Eliel Saarinen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paavalin_kirkko,_Tartto,_Viro,_perspektiivipiirustus,_1911_(mfa.4a6a9a68-d7f6-4dd8-bf22-fef35ae157ec).tif",
+    "file": "File:Paavalin kirkko, Tartto, Viro, perspektiivipiirustus, 1911 (mfa.4a6a9a68-d7f6-4dd8-bf22-fef35ae157ec).tif"
    }
   ],
-  "has": [],
+  "has": [
+   "Drawing"
+  ],
   "gv": 3
  },
  {
@@ -77471,18 +77536,6 @@ window.BUILDINGS = [
     "file": "File:Bialystok swRoch fc02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha%2C_plan_og%C3%B3lny.jpg/1280px-Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha%2C_plan_og%C3%B3lny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/st-roch-s-church/thumbs/6.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Białystok, Kościół św",
-    "credit": "Marcin Idźkowski",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Rocha,_plan_og%C3%B3lny.jpg",
-    "file": "File:Kościół św. Rocha, plan ogólny.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Saint_Roch_church_Bialystok_%282%29.jpg/1280px-Saint_Roch_church_Bialystok_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/st-roch-s-church/thumbs/4.webp",
     "w": 1050,
@@ -77505,9 +77558,49 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Bazylika_%C5%9Bw._Rocha_w_Bia%C5%82ymstoku_1.jpg",
     "file": "File:Bazylika św. Rocha w Białymstoku 1.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sosnowski_Christ_King_St_Roch_1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/st-roch-s-church/thumbs/6.webp",
+    "w": 938,
+    "h": 922,
+    "kind": "Plan",
+    "caption": "Plan · Plan for Białystok Kościół Crystusa Króla i św",
+    "credit": "Oskar Sosnowski",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sosnowski_Christ_King_St_Roch_1a.jpg",
+    "file": "File:Sosnowski Christ King St Roch 1a.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sosnowski_Christ_King_St_Roch_3a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/st-roch-s-church/thumbs/7.webp",
+    "w": 1035,
+    "h": 1400,
+    "kind": "Section",
+    "caption": "Section · Section",
+    "credit": "Oskar Sosnowski",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sosnowski_Christ_King_St_Roch_3a.jpg",
+    "file": "File:Sosnowski Christ King St Roch 3a.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sosnowski_Christ_King_St_Roch_2a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/st-roch-s-church/thumbs/8.webp",
+    "w": 876,
+    "h": 1181,
+    "kind": "Elevation",
+    "caption": "Elevation · Elevation - Białystok Kościół Crystusa Króla i św",
+    "credit": "Oskar Sosnowski",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Sosnowski_Christ_King_St_Roch_2a.jpg",
+    "file": "File:Sosnowski Christ King St Roch 2a.jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Plan",
+   "Section",
+   "Elevation"
+  ],
   "gv": 3
  },
  {
@@ -80104,7 +80197,7 @@ window.BUILDINGS = [
     "h": 1400,
     "kind": "Exterior",
     "caption": "Exterior · Notera Av dokumentationsskäl har originalbeskrivningen från Riksantikvarieämbetet behållits",
-    "credit": "Unknown Unknown",
+    "credit": "Unknown",
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Uppsala_-_KMB_-_16001000231704.jpg",
     "file": "File:Uppsala - KMB - 16001000231704.jpg"
@@ -80144,9 +80237,35 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Schweden_12.jpg",
     "file": "File:Schweden 12.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Carl_H%C3%A5rleman_-_Uppsala_University_Library_at_Gustavianum._Wall_elevations_of_the_southern_library_room_-_NMH_THC_1372_-_Nationalmuseum.jpg/1280px-Carl_H%C3%A5rleman_-_Uppsala_University_Library_at_Gustavianum._Wall_elevations_of_the_southern_library_room_-_NMH_THC_1372_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gustavianum/thumbs/6.webp",
+    "w": 1280,
+    "h": 817,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Carl Hårleman",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Carl_H%C3%A5rleman_-_Uppsala_University_Library_at_Gustavianum._Wall_elevations_of_the_southern_library_room_-_NMH_THC_1372_-_Nationalmuseum.jpg",
+    "file": "File:Carl Hårleman - Uppsala University Library at Gustavianum. Wall elevations of the southern library room - NMH THC 1372 - Nationalmuseum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Carl_H%C3%A5rleman_-_Uppsala_University_Library_at_Gustavianum._Wall_elevation_and_moulding_profiles_-_NMH_THC_1373_-_Nationalmuseum.jpg/1280px-Carl_H%C3%A5rleman_-_Uppsala_University_Library_at_Gustavianum._Wall_elevation_and_moulding_profiles_-_NMH_THC_1373_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gustavianum/thumbs/7.webp",
+    "w": 1280,
+    "h": 826,
+    "kind": "Elevation",
+    "caption": "Elevation",
+    "credit": "Carl Hårleman",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Carl_H%C3%A5rleman_-_Uppsala_University_Library_at_Gustavianum._Wall_elevation_and_moulding_profiles_-_NMH_THC_1373_-_Nationalmuseum.jpg",
+    "file": "File:Carl Hårleman - Uppsala University Library at Gustavianum. Wall elevation and moulding profiles - NMH THC 1373 - Nationalmuseum.jpg"
    }
   ],
-  "has": [],
+  "has": [
+   "Elevation"
+  ],
   "gv": 3
  },
  {
