@@ -516,18 +516,6 @@
   "url": "https://libguides.library.nd.edu/c.php?g=967828&p=6992955"
  },
  {
-  "school": "University of Idaho",
-  "country": "US",
-  "guide": "Architecture",
-  "section": "",
-  "lists_sites": [],
-  "librarian": "",
-  "profile": "",
-  "updated": "",
-  "why": "architecture guide with image or web resources",
-  "url": "https://libguides.uidaho.edu/arch"
- },
- {
   "school": "Pratt Institute",
   "country": "US",
   "guide": "Images and Image Collections",
@@ -574,5 +562,53 @@
   "updated": "",
   "why": "architecture guide with image or web resources",
   "url": "https://libguides.brown.edu/WebResources/Writing"
+ },
+ {
+  "school": "University of Strathclyde",
+  "country": "UK",
+  "guide": "Architecture",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://guides.lib.strath.ac.uk/architecture"
+ },
+ {
+  "school": "Dalhousie University",
+  "country": "CA",
+  "guide": "Find Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://dal.ca.libguides.com/c.php?g=257030&p=1716208"
+ },
+ {
+  "school": "University of Calgary",
+  "country": "CA",
+  "guide": "Find Images",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.ucalgary.ca/c.php?g=255108&p=1702300"
+ },
+ {
+  "school": "University of Manitoba",
+  "country": "CA",
+  "guide": "Images: Environmental Design",
+  "section": "",
+  "lists_sites": [],
+  "librarian": "",
+  "profile": "",
+  "updated": "",
+  "why": "architecture guide with image or web resources",
+  "url": "https://libguides.lib.umanitoba.ca/c.php?g=297701&p=5163386"
  }
 ]
