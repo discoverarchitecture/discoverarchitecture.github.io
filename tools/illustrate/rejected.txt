@@ -222,4 +222,4 @@ villa-primavesi  # Haiku pool 6 photo review: year unsourced: Wikidata's 1900 do
 ormen-lange  # Haiku pool 6 photo review: only photo of the building is a cropped 1965 print; the rest are views through a porthole
 crater-lake-superintendent-s-residence  # Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service
 villa-tonder  # Haiku pool 8 photo review: only historic photos; unclear whether the villa still stands
-bunker-599  an installation, not a building (owner, 23 Oct 2026)
+bunker-599  # an installation, not a building (owner, 23 Oct 2026)
