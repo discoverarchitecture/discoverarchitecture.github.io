@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-22T21:29:15+00:00",
+ "fetched_at": "2026-10-23T04:37:10+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1377,
+ "visits_30d": 1400,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 386,
+     "count": 393,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -39,7 +39,7 @@
      "max": 3
     },
     {
-     "count": 14,
+     "count": 15,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -119,6 +119,14 @@
      "max": 2
     },
     {
+     "count": 5,
+     "path_id": 112160373,
+     "path": "/buildings",
+     "event": false,
+     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
      "count": 4,
      "path_id": 113925666,
      "path": "/buildings/palazzetto-dello-sport",
@@ -167,14 +175,6 @@
      "max": 1
     },
     {
-     "count": 4,
-     "path_id": 112160373,
-     "path": "/buildings",
-     "event": false,
-     "title": "All buildings A\u2013Z \u00b7 Find Great Architecture",
-     "max": 1
-    },
-    {
      "count": 3,
      "path_id": 113975805,
      "path": "building/perth-arena",
@@ -216,6 +216,14 @@
     },
     {
      "count": 3,
+     "path_id": 113681186,
+     "path": "building/unknown-soldier-memorial-cairo",
+     "event": true,
+     "title": "Unknown Soldier Memorial, Cairo",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113367278,
      "path": "/buildings/petrobras-headquarters-edise",
      "event": false,
@@ -248,10 +256,26 @@
     },
     {
      "count": 3,
+     "path_id": 112764601,
+     "path": "/buildings/teatro-oficina",
+     "event": false,
+     "title": "Teatro Oficina \u2014 Lina Bo Bardi and Edson Elito, 1993",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 112610074,
      "path": "/buildings/garden-and-house",
      "event": false,
      "title": "Garden & House \u2014 Ryue Nishizawa, 2011: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 112449331,
+     "path": "/buildings/aiwan-e-sadr",
+     "event": false,
+     "title": "Aiwan-e-Sadr (Presidential Palace), 1981: photos",
      "max": 1
     },
     {
@@ -268,6 +292,14 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114083299,
+     "path": "/types/museums",
+     "event": false,
+     "title": "Museum architecture: 685 buildings with photos & plans",
      "max": 1
     },
     {
@@ -440,6 +472,14 @@
     },
     {
      "count": 2,
+     "path_id": 113870393,
+     "path": "building/solomon-r-guggenheim-museum",
+     "event": true,
+     "title": "Solomon R. Guggenheim Museum",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113855492,
      "path": "building/habitat-67",
      "event": true,
@@ -460,6 +500,14 @@
      "path": "building/menara-tabung-haji",
      "event": true,
      "title": "Menara Tabung Haji",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113836785,
+     "path": "building/cn-tower",
+     "event": true,
+     "title": "CN Tower",
      "max": 1
     },
     {
@@ -536,14 +584,6 @@
     },
     {
      "count": 2,
-     "path_id": 113681186,
-     "path": "building/unknown-soldier-memorial-cairo",
-     "event": true,
-     "title": "Unknown Soldier Memorial, Cairo",
-     "max": 1
-    },
-    {
-     "count": 2,
      "path_id": 113672703,
      "path": "building/amdavad-ni-gufa",
      "event": true,
@@ -608,6 +648,14 @@
     },
     {
      "count": 2,
+     "path_id": 113066354,
+     "path": "/buildings/galleria-department-store-seoul",
+     "event": false,
+     "title": "Galleria Department Store (West) \u2014 UNStudio, 2004: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 112947619,
      "path": "/buildings/bank-of-georgia-headquarters",
      "event": false,
@@ -628,14 +676,6 @@
      "path": "/buildings/hooper-house-ii",
      "event": false,
      "title": "Hooper House II \u2014 Marcel Breuer, 1959: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112764601,
-     "path": "/buildings/teatro-oficina",
-     "event": false,
-     "title": "Teatro Oficina \u2014 Lina Bo Bardi and Edson Elito, 1993",
      "max": 1
     },
     {
@@ -720,14 +760,6 @@
     },
     {
      "count": 2,
-     "path_id": 112449331,
-     "path": "/buildings/aiwan-e-sadr",
-     "event": false,
-     "title": "Aiwan-e-Sadr (Presidential Palace), 1981: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
      "path_id": 112446310,
      "path": "/buildings/philharmonie-de-paris",
      "event": false,
@@ -773,54 +805,22 @@
      "event": true,
      "title": "National Assembly of Bangladesh",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112277521,
-     "path": "/buildings/chand-baori",
-     "event": false,
-     "title": "Chand Baori \u2014 Abhaneri, c. 800: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112249459,
-     "path": "/buildings/engel-house-tel-aviv",
-     "event": false,
-     "title": "Engel House \u2014 Ze'ev Rechter, 1933: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112226396,
-     "path": "/buildings/tour-de-lille",
-     "event": false,
-     "title": "Tour de Lille \u2014 Christian de Portzamparc, 1995: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112201440,
-     "path": "/buildings/meiso-no-mori",
-     "event": false,
-     "title": "Meiso no Mori Municipal Funeral Hall \u2014 Toyo Ito, 2006: photos for a case study \u00b7 Find Great Architecture",
-     "max": 1
     }
    ],
-   "total": 807,
+   "total": 819,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 838,
+     "count": 850,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 243,
+     "count": 249,
      "ref_scheme": "g"
     },
     {
@@ -832,7 +832,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 14,
+     "count": 15,
      "ref_scheme": "c"
     },
     {
@@ -854,14 +854,14 @@
      "ref_scheme": "c"
     },
     {
-     "id": "www.bing.com",
-     "name": "www.bing.com",
-     "count": 6,
+     "id": "gemini.google.com",
+     "name": "gemini.google.com",
+     "count": 7,
      "ref_scheme": "h"
     },
     {
-     "id": "gemini.google.com",
-     "name": "gemini.google.com",
+     "id": "www.bing.com",
+     "name": "www.bing.com",
      "count": 6,
      "ref_scheme": "h"
     },
@@ -915,12 +915,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 889
+     "count": 907
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 469
+     "count": 474
     },
     {
      "id": "Firefox",
@@ -935,27 +935,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 448
+     "count": 456
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 419
+     "count": 423
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 332
+     "count": 338
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 108
+     "count": 109
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 69
+     "count": 73
     },
     {
      "id": "Chrome OS",
@@ -970,12 +970,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 802
+     "count": 807
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 179
+     "count": 185
     },
     {
      "id": "DE",
@@ -985,22 +985,22 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 38
+     "count": 39
     },
     {
      "id": "AU",
      "name": "Australia",
-     "count": 29
+     "count": 31
     },
     {
      "id": "JP",
      "name": "Japan",
-     "count": 25
+     "count": 26
     },
     {
      "id": "CA",
      "name": "Canada",
-     "count": 18
+     "count": 19
     },
     {
      "id": "NL",
@@ -1040,7 +1040,7 @@
     {
      "id": "AE",
      "name": "United Arab Emirates",
-     "count": 8
+     "count": 9
     },
     {
      "id": "NZ",
@@ -1068,6 +1068,11 @@
      "count": 6
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 6
+    },
+    {
      "id": "RO",
      "name": "Romania",
      "count": 6
@@ -1080,6 +1085,11 @@
     {
      "id": "BR",
      "name": "Brazil",
+     "count": 4
+    },
+    {
+     "id": "EC",
+     "name": "Ecuador",
      "count": 4
     },
     {
@@ -1110,11 +1120,6 @@
     {
      "id": "HK",
      "name": "Hong Kong",
-     "count": 3
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
      "count": 3
     },
     {
@@ -1218,11 +1223,6 @@
      "count": 1
     },
     {
-     "id": "EC",
-     "name": "Ecuador",
-     "count": 1
-    },
-    {
      "id": "ET",
      "name": "Ethiopia",
      "count": 1
@@ -1310,22 +1310,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 740
+     "count": 749
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 34
+     "count": 35
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 558
+     "count": 570
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 45
+     "count": 46
     },
     {
      "id": "unknown",
@@ -1340,7 +1340,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1377
+     "count": 1400
     }
    ],
    "more": false
