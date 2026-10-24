@@ -1,2 +1,2 @@
-python -u tools/fetch_portraits.py
-Portraits: refresh after round 5 and the new firms' founders.
+python -u tools/harvest_awards.py
+New candidate search: prize-winning buildings.

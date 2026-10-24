@@ -117,5 +117,13 @@
   "target": 40,
   "metric": "buildings_added",
   "status": "in progress"
+ },
+ {
+  "date": "2026-10-24",
+  "workstream": "Data collection",
+  "goal": "New candidate search: buildings that won an architecture prize (Aga Khan, Mies van der Rohe, Stirling, RIBA, AIA Twenty-five Year and others), tools/harvest_awards.py; then Haiku batch 12 with Sonnet's full check and photo review",
+  "target": 50,
+  "metric": "buildings_added",
+  "status": "in progress"
  }
 ]
