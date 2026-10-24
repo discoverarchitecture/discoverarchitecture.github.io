@@ -1,2 +1,2 @@
---only fagus-factory,boekentoren,st-paul-s-church,st-roch-s-church,gustavianum
-Drawings for 5 of the best-known buildings one drawing short of photo dots.
+--only gavle-krematorium,studio-1,allhuset-stockholms-universitet,chalmers-karhus,hyogo-performing-arts-center,koga-history-museum,seto-inland-sea-folk-history-museum,sano-city-museum,shinjuku-mitsui-building,bibracte-museum,auditorio-alfredo-kraus,okayama-orient-museum,central-termica-de-la-ciudad-universitaria-de-madrid,escuela-de-artes-y-oficios-de-algeciras,estacion-de-autobuses-de-cordoba,15-clerkenwell-close,passerelle-leopold-sedar-senghor,art-museum-library-ota,mori-butai,theatre-royal-plymouth,twenty-six-martyrs-museum-and-monument,rudolf-steinerseminariet
+Haiku pipeline, twelfth pool (prize winners): 22 buildings.

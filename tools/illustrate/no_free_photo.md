@@ -250,7 +250,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Unité d'Habitation, Rezé (Maison Radieuse) | Le Corbusier | 1955 | Rezé, FR | lead photo didn't show the building (Oct 13 review) |
 | Kanagawa Prefectural Music Hall and Library | Kunio Maekawa | 1954 | Yokohama, JP | lead photo didn't show the building (Oct 13 review) |
 | Park Hotel Shanghai | László Hudec | 1934 | Shanghai, CN | lead photo didn't show the building (Oct 13 review) |
-| Cultural Center of the Philippines (Tanghalang Pambansa) | Leandro Locsin | 1969 | Pasay, PH | wall photo check, 14 Oct: no exterior: seats, a sculpture, a choir, a hall |
 | Carrières Centrales (Nid d'Abeille and Sémiramis) | ATBAT-Afrique: Georges Candilis, Shadrach Woods, Alexis Josic, under Michel Écochard | 1952 | Casablanca, MA | No Commons category and no free photo found (only a 438px CC BY-SA photo of Hay Mohammadi). The 1954 L'Architecture d'Aujourd'hui cover showing Nid d'Abeille is tagged public domain on Commons (check the tag). Wikipedia gives no storeys or facade pattern, and residents have walled in most balconies, so I did not draw it. |
 | National Conservatory of Music, Mexico | Mario Pani | 1949 | Mexico City, MX | lead photo didn't show the building (Oct 13 review) |
 | Girardot Market Hall (Plaza de Mercado de Girardot) | Leopoldo Rother | 1948 | Girardot, CO | lead photo didn't show the building (Oct 13 review) |

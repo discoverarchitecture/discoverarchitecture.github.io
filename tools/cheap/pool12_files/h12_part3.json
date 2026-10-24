@@ -1,0 +1,923 @@
+[
+ {
+  "id": "feru-des-sciences",
+  "qid": "Q3329826",
+  "status": "photo",
+  "why": "Équerre d'argent prize (named design reason); exterior daylight photo is p6, the only outside view.",
+  "name": "Féru des Sciences",
+  "by": "Jacques and Michel André, Claude Prouvé",
+  "city": "Jarville-la-Malgrange",
+  "cc": "FR",
+  "year": 1966,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Iron-history museum in Parc de Montaigu, covering iron from the Middle Ages to the 20th century; an Équerre d'argent winner.",
+  "commons_category": "Category:Musée de l'histoire du fer",
+  "coords": [
+   48.6667,
+   6.20889
+  ],
+  "photos": [
+   {
+    "file": "File:Musée de l'histoire du fer 2018a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tour-bois-le-pretre",
+  "qid": "Q3533028",
+  "status": "unsure",
+  "why": "Main photo fails: the street and a bus fill the frame and the tower is cut off at the top; the other photo is a street sign. Lead names no original designer; the 2009 to 2011 renovation is not credited by name.",
+  "note": "no main photo"
+ },
+ {
+  "id": "eglise-sainte-agnes-de-fontaine-les-gres",
+  "qid": "Q3584891",
+  "status": "unsure",
+  "why": "No photos at all. Lead is one line with no date. Équerre d'argent prize listed, but nothing shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museum-van-bibracte",
+  "qid": "Q36078579",
+  "status": "photo",
+  "why": "Lead (nl) says it is a modern building opened 1995 by Mitterrand, designed by Faloci; Prix de l'Équerre d'Argent listed; exterior photo p2 passes.",
+  "name": "Museum van Bibracte",
+  "by": "Pierre-Louis Faloci",
+  "city": "Saint-Léger-sous-Beuvray",
+  "cc": "FR",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "features": "Modern museum beside the Bibracte dig, built of concrete, wood, glass and stone; won an Équerre d'argent prize.",
+  "commons_category": "Category:Musée de la civilisation celtique de Bibracte",
+  "coords": [
+   46.93249,
+   4.04751
+  ],
+  "photos": [
+   {
+    "file": "File:Musée de Bibracte 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "auditorio-alfredo-kraus",
+  "qid": "Q3629501",
+  "status": "photo",
+  "why": "Lead gives the lighthouse idea and the Atlantic window; opened 5 Dec 1997; National Architecture Award of Spain listed. Daylight exterior p1 and p2.",
+  "name": "Auditorio Alfredo Kraus",
+  "by": "Òscar Tusquets",
+  "city": "Las Palmas de Gran Canaria",
+  "cc": "ES",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Concert hall conceived as a lighthouse to protect Las Canteras beach, with a 100 m² window onto the Atlantic.",
+  "commons_category": "Category:Auditorio Alfredo Kraus y Palacio de Congresos de Canarias",
+  "coords": [
+   28.13012,
+   -15.44912
+  ],
+  "photos": [
+   {
+    "file": "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "88-wood-street",
+  "qid": "Q4645063",
+  "status": "photo",
+  "why": "Rogers office tower; lead says built 1993 to 2001 (year = completion 2001, not the Wikidata 1998); Stirling Prize listed; street view p1 passes.",
+  "name": "88 Wood Street",
+  "by": "Rogers Stirk Harbour + Partners, Richard Rogers, Graham Stirk",
+  "city": "London",
+  "cc": "GB",
+  "year": 2001,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Colour"
+  ],
+  "features": "Richard Rogers's 18-storey City of London office tower, a Stirling Prize winner, with 33,000 m² of office space.",
+  "commons_category": "Category:88 Wood Street",
+  "coords": [
+   51.5153,
+   -0.095
+  ],
+  "photos": [
+   {
+    "file": "File:88 Wood Street (14971416428).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:88 Wood St, London.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "okayama-orient-museum",
+  "qid": "Q4707582",
+  "status": "photo",
+  "why": "Lead says built 1979 from a prize-winning design by Okada Architect & Associates; BCS Prize listed; daylight exteriors p0 and p1.",
+  "name": "Okayama Orient Museum",
+  "by": "Shin'ichi Okada",
+  "city": "Okayama",
+  "cc": "JP",
+  "year": 1979,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Light from above"
+  ],
+  "features": "Museum of ancient Near Eastern art, built in 1979 from a prize-winning design by Okada Architect & Associates.",
+  "commons_category": "Category:Okayama Orient Museum",
+  "coords": [
+   34.66639,
+   133.93
+  ],
+  "photos": [
+   {
+    "file": "File:160319 Okayama Orient Museum Okayama Japan02n.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:160319 Okayama Orient Museum Okayama Japan01n.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museo-del-traje-building",
+  "qid": "Q48005642",
+  "status": "skip",
+  "why": "Lead is empty. Only the photo and Wikidata facts are available; a building with no lead is skipped."
+ },
+ {
+  "id": "amsterdam-bijlmer-arena-station",
+  "qid": "Q50723",
+  "status": "unsure",
+  "why": "Year unclear: the lead's 1971 is the period of the earlier name Amsterdam Bijlmer, and the lead does not date the Grimshaw building. The main photo shows only a street-level view with the station cut off.",
+  "note": "year and main photo unclear"
+ },
+ {
+  "id": "victoria-leeds",
+  "qid": "Q5330673",
+  "status": "skip",
+  "why": "A shopping district of several buildings, not one building; the photos show the riverside, not the arcades."
+ },
+ {
+  "id": "european-film-college",
+  "qid": "Q5412596",
+  "status": "unsure",
+  "why": "No photos at all. Lead is short and names no architect; Mies van der Rohe Award listed, but nothing shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "general-motors-technical-center",
+  "qid": "Q5532055",
+  "status": "photo",
+  "why": "Lead says Eero Saarinen designed it (the lead also names Eliel Saarinen for 1944 first plans, not a conflict); AIA Twenty-five Year Award listed; year null because the lead gives only stages. Daylight exterior p0.",
+  "name": "General Motors Technical Center",
+  "by": "Eero Saarinen",
+  "city": "Warren",
+  "cc": "US",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Cluster"
+  ],
+  "features": "Warren campus by Eero Saarinen, opened in stages from the 1950s to the 1970s; won an AIA Twenty-five Year Award.",
+  "commons_category": "Category:General Motors Technical Center",
+  "coords": [
+   42.51333,
+   -83.03778
+  ],
+  "photos": [
+   {
+    "file": "File:Warren - General Motors Technical Center (50826111923).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grand-prince-hotel-akasaka",
+  "qid": "Q555225",
+  "status": "skip",
+  "why": "Demolished: the lead says the hotel closed and was deconstructed, and the site is now a new development."
+ },
+ {
+  "id": "ariake-gymnastics-centre",
+  "qid": "Q55532859",
+  "status": "photo",
+  "why": "Lead gives the Olympic use and the 2019 opening; BCS Prize listed (named prize counts as the design reason); daylight exteriors p0 and p2.",
+  "name": "Ariake Gymnastics Centre",
+  "by": "Nikken Sekkei, Shimizu Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2019,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Built for the 2020 Olympic gymnastics, later an exhibition hall; won a BCS Prize.",
+  "commons_category": "Category:Ariake Gymnastics Centre",
+  "coords": [
+   35.6414,
+   139.7917
+  ],
+  "photos": [
+   {
+    "file": "File:Olympic Gymnastic Centre 191128a1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ariake Gymnastics Centre 20231022.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "central-termica-de-la-ciudad-universitaria-de-madrid",
+  "qid": "Q5760755",
+  "status": "photo",
+  "why": "Lead (es) says built 1932 for the urban heating of the university buildings; Premio Nacional de Arquitectura listed; brick exteriors p0 and p1.",
+  "name": "Central Térmica de la Ciudad Universitaria de Madrid",
+  "by": "Manuel Sánchez Arcas, Eduardo Torroja",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1932,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "1932 heating plant for Madrid's University City, an important part of its urban plan; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Heating plant of Ciudad Universitaria de Madrid",
+  "coords": [
+   40.44694,
+   -3.72389
+  ],
+  "photos": [
+   {
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 1.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   },
+   {
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "colegio-mayor-universitario-santo-tomas-de-aquino",
+  "qid": "Q5777004",
+  "status": "photo",
+  "why": "Lead (es) names the Dominican residence in the University City; Premio Nacional de Arquitectura listed; year 1951 from Wikidata (lead gives none); daylight exteriors p1 and p6, sign photo p0 rejected.",
+  "name": "Colegio Mayor Universitario Santo Tomás de Aquino",
+  "by": "José María García de Paredes, Rafael de La-Hoz Arderius",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1951,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "Mixed student residence of the Dominican order in Madrid's University City; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Colegio Mayor Universitario Santo Tomás de Aquino",
+  "coords": [
+   40.45194,
+   -3.72139
+  ],
+  "photos": [
+   {
+    "file": "File:Madrid - Ciudad Universitaria, Colegio Mayor Aquinas 5.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Madrid - Ciudad Universitaria, Colegio Mayor Aquinas 8.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "escuela-de-artes-y-oficios-de-algeciras",
+  "qid": "Q5839060",
+  "status": "photo",
+  "why": "Lead (es) says built 1971 from Garrido's design, which won a first architecture prize in 1968; daylight exteriors p0 and p1; night photo p5 rejected.",
+  "name": "Escuela de Artes y Oficios de Algeciras",
+  "by": "Fernando Garrido Rodríguez",
+  "city": "Algeciras",
+  "cc": "ES",
+  "year": 1971,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Organic-form art school by Fernando Garrido, built 1971 after a first architecture prize in 1968.",
+  "commons_category": "Category:Escuela de Artes y Oficios de Algeciras",
+  "coords": [
+   36.13683,
+   -5.44794
+  ],
+  "photos": [
+   {
+    "file": "File:Artes y oficios, Algeciras.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Escuela de Artes Algeciras 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "estacion-de-autobuses-de-cordoba",
+  "qid": "Q5847582",
+  "status": "photo",
+  "why": "Lead (es) says opened 16 Oct 1998 and gives the Premio Nacional de Arquitectura of 1999 to Portela and Cuenca Montilla; by = Wikidata architect only; grey facade with station sign p4.",
+  "name": "Estación de autobuses de Córdoba",
+  "by": "César Portela",
+  "city": "Córdoba",
+  "cc": "ES",
+  "year": 1998,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Circulation",
+   "Facade as skin"
+  ],
+  "features": "Córdoba's bus station beside the Córdoba Central railway station, opened 1998; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Bus station of Córdoba, Spain",
+  "coords": [
+   37.88946,
+   -4.79028
+  ],
+  "photos": [
+   {
+    "file": "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokohama-landmark-tower",
+  "qid": "Q587108",
+  "status": "photo",
+  "why": "Lead gives the height and the third-tallest rank; BCS Prize listed; year 1993 from Wikidata; whole-tower photos p0 and p2.",
+  "name": "Yokohama Landmark Tower",
+  "by": "Hugh Stubbins, Mitsubishi Estate",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": 1993,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Japan's third-tallest building at 296.3 m, with a Sky Garden observatory; won a BCS Prize.",
+  "commons_category": "Category:Yokohama Landmark Tower",
+  "coords": [
+   35.45472,
+   139.63167
+  ],
+  "photos": [
+   {
+    "file": "File:Yokohama Landmark Tower 02 cropped.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yokohama Landmark Tower 201409.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torre-melina-gran-melia",
+  "qid": "Q5903451",
+  "status": "photo",
+  "why": "Lead (es) gives opening 1992, Ferrater, and the 1992 Premio Nacional de Arquitectura; whole-building daylight photos p5 and p6 (CC0).",
+  "name": "Torre Melina Gran Meliá",
+  "by": "Carlos Ferrater",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1992,
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Carlos Ferrater's 391-room hotel on Barcelona's Diagonal, opened 1992; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Hotel Fairmont Rey Juan Carlos I",
+  "coords": [
+   41.38133,
+   2.10875
+  ],
+  "photos": [
+   {
+    "file": "File:Barcelona - Hotel Fairmont Rey Juan Carlos I (3).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - Hotel Fairmont Rey Juan Carlos I (1).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "15-clerkenwell-close",
+  "qid": "Q60521880",
+  "status": "photo",
+  "why": "Lead says completed 2017, RIBA National Award 2018 and Stirling Prize shortlist 2021 (shortlist, not a win); daylight exteriors p0 and p1.",
+  "name": "15 Clerkenwell Close",
+  "by": "Amin Taha",
+  "city": "London",
+  "cc": "GB",
+  "year": 2017,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Stone-clad housing and office block in Clerkenwell with a RIBA National Award (2018) and a 2021 Stirling Prize shortlist.",
+  "commons_category": "Category:15 Clerkenwell Close",
+  "coords": [
+   51.5232,
+   -0.1064
+  ],
+  "photos": [
+   {
+    "file": "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6029656 cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:15 Clerkenwell Close 2025-02-04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "passerelle-leopold-sedar-senghor",
+  "qid": "Q605912",
+  "status": "photo",
+  "why": "Lead says the bridge won the Prix de l'Équerre d'Argent in its opening year (1999); whole-bridge daylight photos p0 and p5.",
+  "name": "Passerelle Léopold-Sédar-Senghor",
+  "by": "Marc Mimram",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 1999,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Promenade",
+   "Water"
+  ],
+  "features": "Seine footbridge by Marc Mimram, opened 1999, that won the Équerre d'Argent prize in its year of opening.",
+  "commons_category": "Category:Passerelle Léopold-Sédar-Senghor",
+  "coords": [
+   48.86194,
+   2.32472
+  ],
+  "photos": [
+   {
+    "file": "File:Passerelle Solferino Paris FRA 002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "skanderbeg-square",
+  "qid": "Q609528",
+  "status": "skip",
+  "why": "A public square, not a building."
+ },
+ {
+  "id": "art-museum-library-ota",
+  "qid": "Q60986994",
+  "status": "photo",
+  "why": "Lead (ja) describes a complex with a public library and art museum in Ōta; AIJ Prize listed; year 2017 from Wikidata; whole-building daylight photos p0 and p5.",
+  "name": "Art Museum & Library, Ota",
+  "by": "Akihisa Hirata",
+  "city": "Ōta",
+  "cc": "JP",
+  "year": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "A cultural complex with a public library and an art museum; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Art Museum & Library, Ota",
+  "coords": [
+   36.29461,
+   139.37847
+  ],
+  "photos": [
+   {
+    "file": "File:Art Museum & Library, Ota ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Art-Museum&Library,Ota-2017092402.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mori-butai",
+  "qid": "Q61058067",
+  "status": "photo",
+  "why": "Lead (ja) gives the museum and noh stage in Tome; AIJ Prize listed; wooden exteriors p0 and p1.",
+  "name": "Mori Butai",
+  "by": "Kengo Kuma",
+  "city": "Tome",
+  "cc": "JP",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Kengo Kuma's noh stage and museum of traditional performing arts in Tome; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Mori Butai",
+  "coords": [
+   38.65944,
+   141.28028
+  ],
+  "photos": [
+   {
+    "file": "File:Moributai,Tome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mori stage front,Tome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jr-central-towers",
+  "qid": "Q6108856",
+  "status": "photo",
+  "why": "Lead gives opening December 1999 and the station complex; BCS Prize listed; daylight tower photos p0 and p5.",
+  "name": "JR Central Towers",
+  "by": "Kohn Pedersen Fox, Central Japan Railway Company",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Sculptural form"
+  ],
+  "features": "Twin towers above Nagoya Station, one of the world's largest station complexes by floor area; won a BCS Prize.",
+  "commons_category": "Category:JR Central Towers",
+  "coords": [
+   35.17139,
+   136.88278
+  ],
+  "photos": [
+   {
+    "file": "File:JR Central Towers.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagoya JR Central Towers dk4008.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rias-ark-museum-of-art",
+  "qid": "Q61398113",
+  "status": "unsure",
+  "why": "No photos at all. Lead is one line in Japanese; AIJ award listed, but nothing shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "saga-prefectural-museum",
+  "qid": "Q6371422",
+  "status": "photo",
+  "why": "Lead says opened 1970 on the castle site; AIJ Prize listed; daylight whole-building photo p0 (public domain); other photos show other buildings or detail.",
+  "name": "Saga Prefectural Museum",
+  "by": "Teiichi Takahashi, Yoshichika Uchida",
+  "city": "Saga",
+  "cc": "JP",
+  "year": 1970,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Monumentality"
+  ],
+  "features": "1970 prefectural museum on Saga Castle's sannomaru site; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Saga Prefectural Museum",
+  "coords": [
+   33.245,
+   130.30056
+  ],
+  "photos": [
+   {
+    "file": "File:Saga Prefectural Museum 2008.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kawamura-memorial-dic-museum-of-art",
+  "qid": "Q6379617",
+  "status": "unsure",
+  "why": "Lead says the museum \"was\" an art museum and is cut off at a DIC management decision; the lead does not say whether the building still stands. Photos are good, so this is for the owner to check.",
+  "note": "standing unclear"
+ },
+ {
+  "id": "heathrow-terminal-4",
+  "qid": "Q6670470",
+  "status": "unsure",
+  "why": "No clear exterior photo: the aerial is too far, the other shots show aircraft, a sign, a hotel or a car park, and the closest view shows only part of the terminal. Stirling Prize listed.",
+  "note": "no main photo"
+ },
+ {
+  "id": "richmond-olympic-oval",
+  "qid": "Q744568",
+  "status": "unsure",
+  "why": "Only the main photo shows the outside, and it is taken at night; the rest are interiors, people or art. World Architecture Festival award listed.",
+  "note": "no main photo"
+ },
+ {
+  "id": "the-ark-london",
+  "qid": "Q7714246",
+  "status": "photo",
+  "why": "Lead names the office building in Hammersmith only; Mies van der Rohe Award listed; year 1992 from Wikidata; daylight exteriors p0 and p2.",
+  "name": "The Ark, London",
+  "by": "Ralph Erskine",
+  "city": "London",
+  "cc": "GB",
+  "year": 1992,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Office building in Hammersmith by Ralph Erskine, a Mies van der Rohe Award winner.",
+  "commons_category": "Category:The Ark, London",
+  "coords": [
+   51.4909,
+   -0.2206
+  ],
+  "photos": [
+   {
+    "file": "File:London-Ark-DMS-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Ark by Hammersmith flyover - geograph.org.uk - 4705299.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "theatre-royal-plymouth",
+  "qid": "Q7777439",
+  "status": "photo",
+  "why": "Lead gives the 1,300-seat main hall and the Arts Council funding; Stirling Prize listed; daylight photo p4 (p0 looks like dusk).",
+  "name": "Theatre Royal, Plymouth",
+  "by": "Peter Moro",
+  "city": "Plymouth",
+  "cc": "GB",
+  "year": 1982,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Steel & glass"
+  ],
+  "features": "Plymouth theatre with a 1,300-seat main hall, The Lyric, and a Stirling Prize to its name.",
+  "commons_category": "Category:Theatre Royal, Plymouth",
+  "coords": [
+   50.36989,
+   -4.14511
+  ],
+  "photos": [
+   {
+    "file": "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tokyo-budo-kan",
+  "qid": "Q8193312",
+  "status": "photo",
+  "why": "Lead (ja) says a martial-arts hall in Adachi also used for other sports; AIJ Prize listed; year 1989 from Wikidata; daylight exteriors p6 and p2 (p5 shows people indoors).",
+  "name": "Tokyo Budo-kan",
+  "by": "Kijo Rokkaku",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "Martial-arts hall in Adachi also used for other sports; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Tokyo Budokan",
+  "coords": [
+   35.76548,
+   139.82568
+  ],
+  "photos": [
+   {
+    "file": "File:Tokyo Budokan 202003.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tokyo budokan March 9 2020 various 15 45 30 199000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "twenty-six-martyrs-museum-and-monument",
+  "qid": "Q84029",
+  "status": "photo",
+  "why": "Lead says built June 1962 on the 1597 execution site; AIJ Prize listed; daylight building photos p2 and p3 (p1 has a church, p5 a monument).",
+  "name": "Twenty-Six Martyrs Museum and Monument",
+  "by": "Kenji Imai",
+  "city": "Nagasaki",
+  "cc": "JP",
+  "year": 1962,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Museum on the Nishizaka Hill execution site of 1597 in Nagasaki; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Twenty-six Martyrs of Japan Memorial and Museum (Nagasaki)",
+  "coords": [
+   32.75472,
+   129.87167
+  ],
+  "photos": [
+   {
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 00 200000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 09 133000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kyusendo-forest-museum",
+  "qid": "Q98170289",
+  "status": "unsure",
+  "why": "Lead (ja) says the museum has been closed since 2012 after floods; the lead does not say whether the building still stands. AIJ Prize listed.",
+  "note": "standing unclear"
+ },
+ {
+  "id": "lake-biwa-otsu-prince-hotel",
+  "qid": "Q9927120",
+  "status": "photo",
+  "why": "Lead (ja) says a high-rise city hotel on Lake Biwa designed by Tange; BCS Prize listed; daylight whole-tower photos p0 and p1.",
+  "name": "Lake Biwa Otsu Prince Hotel",
+  "by": "Kenzō Tange, Kajima Corporation",
+  "city": "Ōtsu",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Kenzō Tange's high-rise hotel on the shore of Lake Biwa; it won a BCS Prize.",
+  "commons_category": "Category:Lake Biwa Otsu Prince Hotel",
+  "coords": [
+   35.00511,
+   135.88917
+  ],
+  "photos": [
+   {
+    "file": "File:Otsu Prince Hotel 20090509-002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Otsu Prince Hotel 20090509-001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ }
+]
