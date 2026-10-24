@@ -1,5 +1,35 @@
 [
  {
+  "date": "2026-10-24",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Open a building over its architect or topic page",
+  "pr": "126"
+ },
+ {
+  "date": "2026-10-24",
+  "workstream": "under-represented regions, links for 568 more, 10 drawings, founders on 26 firm pages",
+  "what": "24 buildings from under-represented regions, Go deeper links for 568 more, 10 drawings, founders' portraits on 26 firm pages",
+  "pr": "130:"
+ },
+ {
+  "date": "2026-10-24",
+  "workstream": "Data collection",
+  "what": "Prize winners (new search from 29 prizes' Wikipedia winner lists): 22 added after a strict Sonnet check (Erskine's Allhuset, Wingårdh's Chalmers kårhus, Gävle crematorium, Asmussen's Steiner seminary, Kuma's Mori Butai, Hirata's Ōta museum, Faloci's Bibracte, Tusquets's Auditorio Alfredo Kraus, Portela's Córdoba bus station, Mimram's Senghor footbridge, Amin Taha's 15 Clerkenwell Close, Moro's Theatre Royal Plymouth). Go deeper links now on every building (4,294).",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-24",
+  "workstream": "Data collection",
+  "what": "25 buildings held for want of a year go on the wall with \"Year unavailable\" (owner's decision). Five hand-written buildings with no Wikipedia article, every fact quoted from saved source pages: the Senate Palace in Tehran, Victoria Ocampo's house, Plassen, Tikkurila Church, Vennesla Church.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Merge pull request #128: 106 more buildings, links for 570 more, photo dots on every screen, founders' portraits on firm pages",
+  "what": "106 more buildings, Go deeper links for 570 more, photo dots on every screen, founders' portraits on firm pages",
+  "pr": "128:"
+ },
+ {
   "date": "2026-10-23",
   "workstream": "Data collection",
   "what": "52 buildings from the eighth Haiku pool",
@@ -27,6 +57,12 @@
   "date": "2026-10-23",
   "workstream": "Data collection",
   "what": "Haiku pipeline, tenth pool (new harvest of buildings from 2000 on): 300 candidates, 45 added (Heatherwick's Vessel, Henning Larsen's Kiruna and Viborg town halls, DS+R's Zaryadye Concert Hall, Patkau's Beaty museum, Kuma's Cité des Arts, MVRDV's Boekenberg, Coop Himmelb(l)au's Paneum, Tschumi's Zénith de Rouen, Fujimori's Mosaic Tile Museum, NOX's Maison Folie); ordinary types 18%. Go deeper links for 570 buildings that had none (first half).",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, eleventh pool (under-represented regions: Africa, Latin America, Asia beyond Japan, China, Korea): 24 added (Locsin's Tanghalang Pambansa and Istana Nurul Iman, Dieste's Nuestra Señora del Líbano, Rino Levi's Banco Paulista, Vilamajó's house, Muzharul Islam's Fine Arts building, Karsten's Sonobudoyo, Mysore Palace, the Immobilia, Galería Güemes); ordinary types 17%. Drawings scan of the 400 best-known near misses: 11 drawings for 5 buildings.",
   "pr": ""
  },
  {

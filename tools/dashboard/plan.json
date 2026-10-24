@@ -1,11 +1,21 @@
 [
  {
+  "id": "2026-10-24-15",
+  "date": "2026-10-24",
+  "workstream": "Data collection",
+  "goal": "New candidate search: buildings that won an architecture prize (Aga Khan, Mies van der Rohe, Stirling, RIBA, AIA Twenty-five Year and others), tools/harvest_awards.py; then Haiku batch 12 with Sonnet's full check and photo review",
+  "target": 50,
+  "actual": 52,
+  "note": "22 added; the prize lists link many non-winners, so most were thrown out",
+  "status": "done"
+ },
+ {
   "id": "2026-10-23-12",
   "date": "2026-10-23",
   "workstream": "Data collection",
   "goal": "New candidate search: (1) batch 9 from the Pritzker winners' buildings not yet on the wall (139); (2) harvest buildings from 2000 on with a lower fame bar (tools/harvest_recent.py) for batch 10",
   "target": 60,
-  "actual": 106,
+  "actual": 130,
   "note": "Batch 9: 22 added; batch 10 (300 from the 2000-on harvest) being prepared",
   "status": "done"
  },
@@ -15,9 +25,19 @@
   "workstream": "Data collection",
   "goal": "Fix-up round: find sourced years for the 51 buildings held for want of one (tools/held_years.py, Sonnet picks the year and quotes the source), then add them",
   "target": 30,
-  "actual": 106,
+  "actual": 130,
   "note": "39 added",
   "status": "done"
+ },
+ {
+  "id": "2026-10-23-14",
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 11: 300 candidates from under-represented regions (Africa, Latin America, Asia beyond Japan, China and Korea), 1900 on; Haiku, Sonnet full check, photo review, add",
+  "target": 40,
+  "actual": 130,
+  "note": "",
+  "status": "in progress"
  },
  {
   "id": "2026-10-22-10",
