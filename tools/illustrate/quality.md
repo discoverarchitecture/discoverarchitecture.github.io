@@ -310,3 +310,26 @@ Held: Independence Hall (no year), Botter Apartment (no main photo), and the thr
 revival churches and offices. Five strong buildings were skipped only for want of any Wikipedia text (House of
 Victoria Ocampo, the Senate Palace and the Glass Building in Tehran, the Ab-o-Atash amphitheatre, Igreja Matriz in
 Presidente Getúlio): worth a hand-written entry from a source later.
+
+## Haiku pipeline, twelfth pool (24 Oct 2026): 117 prize-winning buildings
+
+A new search: Wikidata records few prize winners for buildings (`tools/harvest_awards.py`, 48), so
+`tools/harvest_award_lists.py` read the winner lists in 29 prizes' Wikipedia articles (Stirling, RIBA International,
+Mies van der Rohe, Aga Khan, AIA Twenty-five Year, Kasper Salin, Houens, Équerre d'argent, the Spanish and German
+national prizes, Japan's AIJ and BCS prizes and others) and kept the linked pages that have an architect: 376, of
+which 117 were new to the wall (`tools/cheap/make_pool12.py`). Lesson: a link from a prize's article does not mean the
+building won it (shortlists and mentions are linked too), and Japan's BCS Prize is a builders' prize given to many
+ordinary offices and hotels. Haiku was told to treat the prize as a design reason and kept 79; Sonnet then counted a
+prize only when the building's own lead confirms it, and threw out 51. Four ordinary keeps were set aside for the 20%
+rule. 22 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 22 (13 gallery photos removed) | fine |
+| No free photo | 6 of 117 (5%) | fine |
+| Already on the wall | 4 of 117 (3%): Sea Ranch Condominium One, Sony City Osaki, Grande Arche, the Badalona arena | fine |
+| Facts failing the source check | Haiku's keeps: 51 of 79 were wrong keeps (65%), most for an unconfirmed prize | **stop level for Haiku alone**; next time, tell Haiku a linked prize is not a reason |
+| Ordinary types | 3 of 22 (14%) by Sonnet's tag | fine, after setting four aside |
+
+Held: the General Motors Technical Center (Saarinen) and Domkyrkoforum for a sourced year (`tools/cheap/pool12_held.json`).
+Also in this round: Go deeper links for the last 151 buildings without, so every building on the wall has them.

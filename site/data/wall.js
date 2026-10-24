@@ -1,6 +1,6 @@
 // The wall's buildings, one per line, first photo only; the rest of each is in data/detail/<id>.json.
 // Made by tools/build_pages.py from data/buildings.js and data/links.js; edit those, not this file.
-window.WALL_V = "8ccd0b1e";
+window.WALL_V = "895af172";
 window.BUILDINGS = [
 {"id":"villa-savoye","n":1,"name":"Villa Savoye","by":"Le Corbusier","place":"Poissy, FR","year":"1931","y":1931,"type":"House","movement":"Modernism","region":"Europe","era":"1900–1945","concepts":["Pilotis","Free plan","Promenade"],"study":"Le Corbusier's Five Points of Architecture in a single house.","coords":[48.92444,2.02833],"images":[{"thumb":"images/villa-savoye/drawing.svg","w":400,"h":260}],"ni":3},
 {"id":"unite-dhabitation","n":2,"name":"Unité d'Habitation","by":"Le Corbusier","place":"Marseille, FR","year":"1952","y":1952,"type":"Housing","movement":"Brutalism","region":"Europe","era":"1945–1970","concepts":["Exposed concrete","Modular","Brise-soleil"],"study":"A vertical neighbourhood: interlocking duplex flats served by internal streets.","coords":[43.2614,5.39639],"images":[{"thumb":"images/unite-dhabitation/drawing.svg","w":400,"h":260}],"ni":4},
