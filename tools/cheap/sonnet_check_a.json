@@ -1,307 +1,279 @@
 {
  "keep_ok": [
-  "vessel-structure",
-  "naturbornholm",
-  "beaty-biodiversity-museum",
-  "museum-of-west-african-art",
-  "kiruna-city-hall",
-  "knarvik-church",
-  "museum-of-glass",
-  "san-paolo-apostolo-foligno",
-  "seacity-museum",
-  "kagawa-prefectural-higashiyama-kaii-setouchi-art-museum",
-  "phoenix-center",
-  "fukui-prefectural-varve-museum",
-  "nottingham-contemporary",
-  "zaryadye-concert-hall",
-  "casals-forum",
-  "british-antique-museum-kamakura",
-  "fjordenhus",
-  "paneum",
-  "boekenberg",
-  "valer-church",
-  "polish-national-radio-symphony-orchestra-building"
+  "istana-nurul-iman",
+  "mysore-palace",
+  "wat-benchamabophit",
+  "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+  "bebek-mosque",
+  "independence-hall-israel",
+  "all-saints-cathedral-cairo",
+  "our-lady-of-heliopolis-co-cathedral",
+  "theatre-municipal-de-tunis",
+  "sonobudoyo-museum",
+  "st-sarkis-church-yerevan-armenia",
+  "niyamasabha-mandiram",
+  "confiteria-del-molino",
+  "vilamajo-house-museum",
+  "nuestra-senora-del-libano-montevideo",
+  "immobilia-building",
+  "vedat-tek-house"
  ],
  "ordinary": [
-  "kiruna-city-hall",
-  "phoenix-center",
-  "fjordenhus",
-  "boekenberg"
+  "niyamasabha-mandiram",
+  "immobilia-building"
  ],
  "keep_fix": [
   {
-   "id": "naturbornholm",
+   "id": "istana-nurul-iman",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1984,
+   "why": "Lead gives no year; prep's year 1984 is plausible for the palace."
+  },
+  {
+   "id": "istana-nurul-iman",
    "field": "concepts",
    "haiku": [
     "Landscape",
-    "Public space",
-    "Light & shadow"
+    "Monumentality",
+    "Community"
    ],
    "should_be": [
-    "Stone",
     "Landscape",
-    "Steel & glass"
+    "Monumentality",
+    "Sculptural form"
    ],
-   "why": "The photo shows a low stone-clad and glazed pavilion in an open field, not a public space; stone and glass describe what is seen."
+   "why": "Community is not supported by the lead; the lead stresses the hilltop riverside site."
   },
   {
-   "id": "museum-of-west-african-art",
-   "field": "features",
-   "haiku": "David Adjaye's Benin City museum, built for over 300 loaned West African objects, still closed after its planned 2025 opening.",
-   "should_be": "David Adjaye's Benin City museum for over 300 items on loan from European museums, closed after opening-day protests.",
-   "why": "The lead says the items come from European museums, not that they are West African objects, and says the museum closed after protests at the opening ceremony."
-  },
-  {
-   "id": "museum-of-glass",
+   "id": "wat-benchamabophit",
    "field": "year",
    "haiku": null,
-   "should_be": 2002,
-   "why": "The lead gives 2002 (the museum's founding) and prep's year is 2002; the museum opened that year, so 2002 is supported and plausible."
+   "should_be": 1911,
+   "why": "Lead gives no year; prep's year 1911 is plausible for completion."
   },
   {
-   "id": "phoenix-center",
+   "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
    "field": "year",
    "haiku": null,
-   "should_be": 2014,
-   "why": "The lead gives no year; prep's year 2014 is plausible for the centre, so use it rather than null."
+   "should_be": 1922,
+   "why": "Lead gives no year; prep's 1922 (opening) is plausible."
+  },
+  {
+   "id": "sonobudoyo-museum",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1935,
+   "why": "Lead gives no year; prep's 1935 is plausible."
+  },
+  {
+   "id": "st-sarkis-church-yerevan-armenia",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1999,
+   "why": "Lead says building began 1998 and gives no completion; prep's 1999 is plausible."
   }
  ],
  "keep_wrong": [
   {
-   "id": "asnom-memorial-center",
-   "why": "A low brick memorial hall whose lead gives only its history and the mosaic artist; the architect Georgi Konstantinovski is obscure and the building is not a study precedent."
+   "id": "mar-del-plata-cathedral",
+   "why": "Neogothic cathedral; the lead gives style and basilica status only, no notable design."
   },
   {
-   "id": "dance-house-helsinki",
-   "why": "Ordinary theatre; the lead gives no design reason and no year, JKMM is not a top-tier name, and the main photo is a distant street view with trucks."
+   "id": "cathedral-of-our-lady-of-nahuel-huapi",
+   "why": "Gothic Revival cathedral; the lead gives style and construction dates only, no notable design reason."
   },
   {
-   "id": "amiens-synagogue",
-   "why": "The main photo is a plain white wall with parked cars; the lead says only 'rededicated in 2017' and 'replaced two previous buildings' (a rebuild, nothing about a design)."
+   "id": "st-peters-cathedral-bandung",
+   "why": "Neogothic cathedral; lead gives style, area and dates, nothing that makes the design notable."
   },
   {
-   "id": "amsterdam-university-college",
-   "why": "University building whose lead gives only the programme history; Mecanoo is well known but this is not a key work. Photos are good, so borderline: first to come back if the ordinary share allows."
+   "id": "basilica-of-our-lady-of-the-angels-cartago",
+   "why": "Revival basilica; the lead gives history and a mix of styles, no notable design reason."
   },
   {
-   "id": "frederiksbjerg-school",
-   "why": "Ordinary school; the lead gives only the opening date and 965 pupils. Henning Larsen is well known, but the lead says nothing about the design. Borderline: first to come back if the ordinary share allows."
+   "id": "toluca-cathedral",
+   "why": "Neoclassical cathedral; the lead describes statues on the facade only, no notable design."
   },
   {
-   "id": "hangzhou-grand-theatre",
-   "why": "Ordinary theatre; the Chinese lead gives only site area and 'designed by Canadian theatre designer Carlos Ott', and it is not a key work. Photos are striking, so borderline."
+   "id": "pearl-palace",
+   "why": "Already on the wall (wiki=pearl-palace)."
   },
   {
-   "id": "palacio-de-exposicions-e-congresos",
-   "why": "Convention centre (ordinary type); the lead only names the designers and an opening month, and it is not a key work of Bofill or Portela. 'Pavilion' is also the wrong type."
+   "id": "palacio-chiarino",
+   "why": "Neoclassical palace, no notable design in the lead; also shares its article link with Palacio Legislativo, which is on the wall (Moretti)."
   },
   {
-   "id": "ishikawa-ongakudo",
-   "why": "Ordinary concert hall; the lead gives acoustics and a shoebox plan only, and the single photo is a close view of the entrance canopy and signs, not the whole building."
+   "id": "cathedral-basilica-of-our-lady-of-the-rosary-manizales",
+   "why": "Neo-Gothic cathedral kept by Haiku for being tall; big, not a notable design."
   },
   {
-   "id": "achmeatoren",
-   "why": "Regional office tower (ordinary type); the 'two volumes pushed into each other' remark is not enough to make it a precedent for students."
+   "id": "st-joseph-s-cathedral-fortaleza",
+   "why": "Neo-Gothic cathedral; the lead gives size and references to Cologne and Chartres, no notable design of its own."
   },
   {
-   "id": "finnish-parliament-annex",
-   "why": "Ordinary offices for MPs; the lead gives the competition and the materials, Pekka Helin is not an international name, and the first photo is a wide street view with the rotunda partly hidden."
+   "id": "cebu-provincial-capitol",
+   "why": "Provincial government building; the lead gives a concave facade and an inscription, Art Deco is not in the lead, and it is an ordinary civic type."
   },
   {
-   "id": "judiciary-city",
-   "why": "Law courts built in a Moselle Baroque pastiche; ordinary civic type and not a building students would study as a precedent."
+   "id": "church-of-the-holy-sacrifice-up-diliman",
+   "why": "Already on the wall (wiki=church-of-the-holy-sacrifice)."
   },
   {
-   "id": "mimers-hus",
-   "why": "Ordinary upper-secondary school; the Swedish lead gives pupil numbers and a sports hall only."
+   "id": "levin-house-tel-aviv",
+   "why": "Eclectic house with neoclassical touches; eclectic revival gives no design idea a student would study."
   },
   {
-   "id": "lohja-main-library",
-   "why": "Ordinary library; the lead only says it took part in Finland's Architecture Week and the 2018 Venice Biennale. Good photo, borderline."
+   "id": "new-cathedral-of-cuenca",
+   "why": "Romanesque Revival cathedral; the domes are striking but the lead makes it a big revival cathedral, not a notable design."
   },
   {
-   "id": "experimental-media-and-performing-arts-center",
-   "why": "Grimshaw's EMPAC is a fair keep on the architect, but it is an ordinary theatre type whose lead gives only the opening date and the donor, and the main photo is wrong (see main_photo_wrong). Dropped to hold the ordinary share under 20%; first to come back with p4 as main."
+   "id": "building-of-the-baku-city-executive-power",
+   "why": "Baroque civic building; ordinary government office with a revival style, no notable design."
   },
   {
-   "id": "montreal-symphony-house",
-   "why": "Concert hall (ordinary type); the lead gives only the construction dates and the naming story, and the main photo is a distant strip. Borderline."
+   "id": "weizmann-house",
+   "why": "Already on the wall (wiki=weizmann-house)."
   },
   {
-   "id": "teatros-del-canal",
-   "why": "Ordinary theatre; the lead gives a cost overrun and directors, not a design reason."
+   "id": "rizal-memorial-library-and-museum",
+   "why": "Neoclassical library and museum; the lead gives only history and offices, ordinary type."
   },
   {
-   "id": "alsion",
-   "why": "University and culture centre (ordinary type); the German lead is one sentence about its purpose. 3XN is well known and the photos are fine, so borderline."
+   "id": "civil-police-museum-rio-de-janeiro",
+   "why": "French eclectic museum building; eclectic gives no design reason."
   },
   {
-   "id": "schuster-performing-arts-center",
-   "why": "Ordinary theatre; the lead gives donors and the former department store site only. Pelli is well known and the exterior photos are good, so borderline."
-  },
-  {
-   "id": "vuotalo",
-   "why": "Ordinary cultural centre; the lead names the designers and the 2001 completion, nothing else."
-  },
-  {
-   "id": "teatro-das-figuras",
-   "why": "Ordinary theatre; the lead gives only its opening date and name. Gonçalo Byrne has one building on the wall, but nothing here says why this theatre matters."
-  },
-  {
-   "id": "zenith-limoges-metropole",
-   "why": "Arena (ordinary type) kept only on Tschumi's name; the silver-ribbed shell is attractive, so this is the first to come back if the ordinary share allows."
-  },
-  {
-   "id": "chips-manchester",
-   "why": "Housing (ordinary type); the only design reason is the developer's wish to avoid 'mundanity'. Striking, so borderline: first to come back if the ordinary share allows."
-  },
-  {
-   "id": "toratau-congress-hall",
-   "why": "Government house; the Bashkir-ornament glazed facade is a real reason, but with four other ordinary keeps already the share would pass 20%. Borderline: comes back before the others if the owner wants regionalist work from Russia."
+   "id": "our-lady-of-the-rosary-cathedral-girardota",
+   "why": "Neo-Romanesque town cathedral; the lead gives style and build time only, no notable design."
   }
  ],
- "main_photo_wrong": [
-  {
-   "id": "lucas-museum-of-narrative-art",
-   "better_file_or_null": null,
-   "why": "The 2026 main photo shows only the green roof line far across a lawn, half hidden by a tree; the other photos are a construction aerial and a person with a sign. Keep is otherwise right (Ma Yansong's museum, opened 22 Sept 2026): hold it until a clear exterior photo exists."
-  },
-  {
-   "id": "zaryadye-concert-hall",
-   "better_file_or_null": "File:Moscow - 2026 - Zaryadye Concert Hall.jpg",
-   "why": "Haiku's first photo is a far view across the river where the hall is a thin strip on the horizon. The 2026 photo (Q) shows the glass-roofed hall much larger, from the embankment, in daylight."
-  },
-  {
-   "id": "suzhou-culture-and-arts-centre",
-   "better_file_or_null": null,
-   "why": "The main photo is a wide plaza panorama with the centre small in the middle; the other exteriors are far views across the lake. The lead gives only floor areas and an awards base, so the keep also fails (no design reason, Paul Andreu named only by Wikidata). Not kept."
-  },
-  {
-   "id": "experimental-media-and-performing-arts-center",
-   "better_file_or_null": "File:RPI EMPAC 3-22-2023 01.png",
-   "why": "The main photo is a close shot of the glass wall looking over the town, not the building. Only relevant if the keep is reversed (see keep_wrong)."
-  },
-  {
-   "id": "montreal-symphony-house",
-   "better_file_or_null": "File:Maison symphonique 104.JPG",
-   "why": "The main photo is a wide strip across a park with the hall small and other towers beside it. Only relevant if the keep is reversed (see keep_wrong)."
-  }
- ],
+ "main_photo_wrong": [],
  "rescued": [
   {
-   "id": "maritime-centre-vellamo",
-   "why": "Maritime museum in Kotka by Ilmari Lahdelma (whose practice has two Finnish museums on the wall); the layered steel-panel facade is a clear daylight exterior. The French lead gives no design reason or year, so this is a keep on architect and photo only.",
+   "id": "church-of-the-transfiguration",
+   "why": "Barluzzi's Mount Tabor church; Barluzzi has several Holy Land churches on the wall. Low lead: kept on the architect (second test), drop if the owner wants a design reason in the lead.",
    "entry": {
-    "id": "maritime-centre-vellamo",
-    "qid": "Q2945864",
+    "id": "church-of-the-transfiguration",
+    "qid": "Q1028121",
     "status": "photo",
-    "why": "Maritime museum in Kotka by Ilmari Lahdelma (whose practice has two Finnish museums on the wall); the layered steel-panel facade is a clear daylight exterior. The French lead gives no design reason or year, so this is a keep on architect and photo only.",
-    "name": "Maritime Centre Vellamo",
-    "by": "Ilmari Lahdelma",
-    "city": "Kotka",
-    "cc": "FI",
-    "year": 2008,
-    "type": "Museum",
-    "movement": "Contemporary",
+    "why": "Barluzzi's Mount Tabor church, kept on the architect (second test); lead has no design reason.",
+    "name": "Church of the Transfiguration",
+    "by": "Antonio Barluzzi",
+    "city": "Mount Tabor",
+    "cc": "IL",
+    "year": null,
+    "type": "Religious",
+    "movement": "Historic precedent",
     "concepts": [
-     "Facade as skin",
-     "Water",
-     "Landscape"
+     "Stone",
+     "Monumentality",
+     "Detail"
     ],
-    "features": "A maritime centre built in the harbour of Kotka, Finland.",
-    "commons_category": "Category:Maritime Centre Vellamo",
+    "features": "Franciscan church on Mount Tabor, traditionally the site of the Transfiguration of Jesus.",
+    "commons_category": "Category:Church of the Transfiguration (Mount Tabor)",
     "coords": [
-     60.4728,
-     26.945
+     32.68624,
+     35.39285
     ],
     "photos": [
      {
-      "file": "File:Sea museum Vellamo.JPG",
-      "license": "Public domain",
-      "seen": true
-     },
-     {
-      "file": "File:Maritime Centre Vellamo, Kotka (52614726611).jpg",
-      "license": "CC BY 2.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "iki-city-ikikoku-museum",
-   "why": "Municipal museum on Iki island credited to Kisho Kurokawa (16 buildings on the wall). He died in 2007 and the museum opened in 2010, so it is a posthumous completion of his design, not an impossible date; the lead names no architect, so verify before adding. Main photo is a clear daylight exterior of the white curved building with its tower.",
-   "entry": {
-    "id": "iki-city-ikikoku-museum",
-    "qid": "Q11429588",
-    "status": "photo",
-    "why": "Municipal museum on Iki island credited to Kisho Kurokawa (16 buildings on the wall). He died in 2007 and the museum opened in 2010, so it is a posthumous completion of his design, not an impossible date; the lead names no architect, so verify before adding. Main photo is a clear daylight exterior of the white curved building with its tower.",
-    "name": "Iki City Ikikoku Museum",
-    "by": "Kisho Kurokawa",
-    "city": "Iki",
-    "cc": "JP",
-    "year": 2010,
-    "type": "Museum",
-    "movement": "Contemporary",
-    "concepts": [
-     "Sculptural form",
-     "Geometry",
-     "Landscape"
-    ],
-    "features": "A museum in Iki City, Nagasaki, displaying finds from Harunotsuji, thought to be the royal capital of the Ikoku kingdom.",
-    "commons_category": "Category:Iki City Ikikoku Museum",
-    "coords": [
-     33.76761,
-     129.75536
-    ],
-    "photos": [
-     {
-      "file": "File:Ikicityikikokumuseum.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "bunker-599",
-   "why": "An architects' intervention (RAAAF and Atelier de Lyon): a wartime bunker sawn in two with a walkway to a lake, widely studied as adaptive reuse. The lead calls it an installation, so the owner may treat it as a work of art rather than a building; the photos are clear daylight exteriors.",
-   "entry": {
-    "id": "bunker-599",
-    "qid": "Q18814207",
-    "status": "photo",
-    "why": "An architects' intervention (RAAAF and Atelier de Lyon): a wartime bunker sawn in two with a walkway to a lake, widely studied as adaptive reuse. The lead calls it an installation, so the owner may treat it as a work of art rather than a building; the photos are clear daylight exteriors.",
-    "name": "Bunker 599",
-    "by": "Erick de Lyon, Ronald Rietveld",
-    "city": "Culemborg",
-    "cc": "NL",
-    "year": 2010,
-    "type": "Public space",
-    "movement": "Contemporary",
-    "concepts": [
-     "Adaptive reuse",
-     "Void",
-     "Exposed concrete"
-    ],
-    "features": "A wartime bunker sawn in two, with access to a small artificial lake.",
-    "commons_category": "Category:Bunker 599",
-    "coords": [
-     51.93594,
-     5.1535
-    ],
-    "photos": [
-     {
-      "file": "File:Diefdijk bij A2 Doorgezaagde bunker.jpg",
+      "file": "File:Church of Transfiguration Mount Tabor200704.JPG",
       "license": "CC BY-SA 3.0",
       "seen": true
      },
      {
-      "file": "File:Bunker 599.jpg",
+      "file": "File:Church of the Transfiguration (Mount Tabor), 2019 (01).jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Groepsschuilplaats Diefdijk.jpg",
+      "file": "File:Church of the Transfiguration (Mount Tabor), 2019 (03).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "church-of-the-beatitudes",
+   "why": "Barluzzi's church on the Mount of Beatitudes, kept on the architect (second test); low lead.",
+   "entry": {
+    "id": "church-of-the-beatitudes",
+    "qid": "Q2918487",
+    "status": "photo",
+    "why": "Barluzzi's church by the Sea of Galilee, kept on the architect (second test); lead has no design reason.",
+    "name": "Church of the Beatitudes",
+    "by": "Antonio Barluzzi",
+    "city": "Tabgha",
+    "cc": "IL",
+    "year": 1938,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Landscape",
+     "Courtyard",
+     "Stone"
+    ],
+    "features": "Roman Catholic church on the Mount of Beatitudes by the Sea of Galilee, near Tabgha and Capernaum.",
+    "commons_category": "Category:Church of the Beatitudes (Tabgha)",
+    "coords": [
+     32.88086,
+     35.55579
+    ],
+    "photos": [
+     {
+      "file": "File:Berg der Seligpreisungen BW 4.JPG",
+      "license": "Public domain",
+      "seen": true
+     },
+     {
+      "file": "File:Berg der Seligpreisungen BW 1.JPG",
+      "license": "Public domain",
+      "seen": true
+     },
+     {
+      "file": "File:Church of beatitudes israel.jpg",
+      "license": "Public domain",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "church-of-the-visitation",
+   "why": "Barluzzi's Ein Karem church, kept on the architect (second test); low lead.",
+   "entry": {
+    "id": "church-of-the-visitation",
+    "qid": "Q830746",
+    "status": "photo",
+    "why": "Barluzzi's Ein Karem church, kept on the architect (second test); lead has no design reason.",
+    "name": "Church of the Visitation",
+    "by": "Antonio Barluzzi",
+    "city": "Jerusalem",
+    "cc": "IL",
+    "year": 1955,
+    "type": "Religious",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Stone",
+     "Detail",
+     "Landscape"
+    ],
+    "features": "Catholic church in Ein Karem, Jerusalem, honoring Mary's visit to Elizabeth.",
+    "commons_category": "Category:Church of the Visitation",
+    "coords": [
+     31.76458,
+     35.15786
+    ],
+    "photos": [
+     {
+      "file": "File:Facade, Church of the Visitation, 2019 (01).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Church of the Visitation, 2019 (01).jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      }
@@ -309,5 +281,5 @@
    }
   }
  ],
- "summary": "Positions 0-151 (152 entries; sheets 00,01,04-18 opened, 02-03 not needed: all skips with no photo or design case). Haiku: 46 photo, 18 unsure, 88 skip. Of the 46 photo entries: 21 accepted as keep_ok (4 with fixes: naturbornholm concepts, museum-of-west-african-art features, museum-of-glass year 2002, phoenix-center year 2014), 2 are held for want of a good main photo (lucas-museum-of-narrative-art, suzhou-culture-and-arts-centre); zaryadye-concert-hall is kept but needs the 2026 photo first, and 23 are keep_wrong (mostly ordinary theatres, schools, civic and convention types with a lead that gives no design reason; the borderline ones are marked so they can come back). Rescued 3 of 106 unsure/skip: maritime-centre-vellamo, iki-city-ikikoku-museum (architect check: Kurokawa died 2007, built 2010, accepted as posthumous completion), bunker-599. Architect checks: Dubai Opera and Georgian Parliament stay out (no usable exterior photo); Jorge Oteiza Museum stays out (no clear exterior, Saenz de Oiza died 2000 but the design predates that); Ashdod stays skipped (lead names Haim Dotan, not Takamatsu; ordinary theatre, no design reason; if kept use Haim Dotan). Total accepted 24 (21 + 3 rescued); ordinary kept 4 (kiruna-city-hall, phoenix-center, fjordenhus, boekenberg) = 17%. Borderline skips an owner may want to see: residenze-libeskind (Libeskind housing, striking), nakanoshima-museum-of-art-osaka (black cube museum, architect not known abroad), kaohsiung-exhibition-center (Philip Cox convention centre), toyama-prefectural-museum-of-art-and-design (Naito; main photo not clearly the whole building). No wall duplicates found (no dup_flag in range, no matching qid, id or nearby building of the same name; zaryadye-concert-hall is separate from the wall's Zaryadye Park entry)."
+ "summary": "Positions 0-151: Haiku had 35 photo, 32 unsure, 85 skip. Accepted 17 keeps (6 with a year fix, 1 with a concepts fix), rejected 18 (4 on the wall already, 14 revival or ordinary with no notable design). Rescued 3 Barluzzi churches from unsure (low lead, kept on the architect). No skips rescued. Ordinary keeps: 2 of 20 (10%). No main photo needed replacing."
 }

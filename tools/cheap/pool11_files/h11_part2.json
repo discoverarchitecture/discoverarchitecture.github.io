@@ -1,0 +1,928 @@
+[
+ {
+  "id": "hovhannes-tumanyan-museum",
+  "qid": "Q16388672",
+  "status": "skip",
+  "why": "Literary museum founded in 1953 for a poet's anniversary; the lead gives its history and no design reason."
+ },
+ {
+  "id": "holy-mother-of-god-church-tehran",
+  "qid": "Q25432591",
+  "status": "skip",
+  "why": "Armenian church in Tehran; the lead gives its completion and later use, and no design reason."
+ },
+ {
+  "id": "lalgarh-palace",
+  "qid": "Q2771350",
+  "status": "skip",
+  "why": "Palace and heritage hotel built for a maharaja; the lead gives its patron and dates and no design reason. The architect is not on the wall."
+ },
+ {
+  "id": "cathedral-basilica-of-our-lady-of-the-rosary-manizales",
+  "qid": "Q2942271",
+  "status": "photo",
+  "why": "Tallest neo-Gothic church in the Americas, per the lead; the facade and a side view are daylight shots of the whole building.",
+  "name": "Cathedral Basilica of Our Lady of the Rosary, Manizales",
+  "by": "Julien Polti",
+  "city": "Manizales",
+  "cc": "CO",
+  "year": 1939,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Tallest neo-Gothic church in the Americas, and tallest building in Colombia for 33 years.",
+  "commons_category": "Category:Catedral Basílica Metropolitana Nuestra Señora del Rosario de Manizales",
+  "coords": [
+   5.06751,
+   -75.5174
+  ],
+  "photos": [
+   {
+    "file": "File:Catedral de Manizales outside.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:A Tres Agujas.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "abdou-moumouni-university",
+  "qid": "Q308329",
+  "status": "skip",
+  "why": "University; the lead gives its history and student protests, and no design reason."
+ },
+ {
+  "id": "manhyia-palace",
+  "qid": "Q6749385",
+  "status": "skip",
+  "why": "Seat of the Asantehene; the lead gives history and no design reason, and the architect field names a government, not a designer."
+ },
+ {
+  "id": "mahlamba-ndlopfu",
+  "qid": "Q3277765",
+  "status": "unsure",
+  "why": "Official residence designed by Gerard Moerdijk, whose other work is on the wall; the lead gives its history and no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "azadi-basketball-hall",
+  "qid": "Q4832084",
+  "status": "skip",
+  "why": "Ordinary indoor sports arena; the lead gives its seating and no design reason."
+ },
+ {
+  "id": "kranji-war-memorial",
+  "qid": "Q2945352",
+  "status": "skip",
+  "why": "War memorial and war cemetery; the lead gives its purpose and no design reason. Memorials are skipped."
+ },
+ {
+  "id": "coconut-palace",
+  "qid": "Q3384923",
+  "status": "unsure",
+  "why": "Official building by Francisco Manosa, whose firm is on the wall; the lead gives no design reason, and no photo shows the whole building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "palacio-monroe",
+  "qid": "Q3890513",
+  "status": "skip",
+  "why": "A hall moved from St. Louis and rebuilt in Rio, written in the past tense; the lead gives its history and no design reason."
+ },
+ {
+  "id": "civilian-war-memorial",
+  "qid": "Q5124736",
+  "status": "skip",
+  "why": "Civilian war memorial; the lead gives its purpose and no design reason. Memorials are skipped."
+ },
+ {
+  "id": "our-lady-of-mercy-church-buenos-aires",
+  "qid": "Q5722074",
+  "status": "skip",
+  "why": "Church; the lead gives its location and no design reason."
+ },
+ {
+  "id": "niyamasabha-mandiram",
+  "qid": "Q7042028",
+  "status": "photo",
+  "why": "The lead names a style, the classical style of Kerala architecture with contemporary influences, and describes the stair, gardens, water and assembly hall.",
+  "name": "Niyamasabha Mandiram",
+  "by": "Kerala Public Works Department",
+  "city": "Thiruvananthapuram",
+  "cc": "IN",
+  "year": 1998,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Legislative assembly built in the classical Kerala style, with a grand staircase, water bodies and gardens.",
+  "commons_category": "Category:Niyamasabha Mandiram",
+  "coords": [
+   8.5067,
+   76.9487
+  ],
+  "photos": [
+   {
+    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bandung-geological-museum",
+  "qid": "Q7475825",
+  "status": "skip",
+  "why": "Museum in a 1928 building; the lead gives its renovation and reopening and no design reason."
+ },
+ {
+  "id": "cathedral-basilica-of-the-good-lord-jesus-cuiaba",
+  "qid": "Q8342818",
+  "status": "skip",
+  "why": "Cathedral basilica; the lead gives its location and status and no design reason."
+ },
+ {
+  "id": "st-joseph-s-cathedral-fortaleza",
+  "qid": "Q9297635",
+  "status": "photo",
+  "why": "Neo-Gothic cathedral; the lead names the style and its references to Cologne and Chartres, and the front is a clear daylight view.",
+  "name": "St. Joseph's Cathedral, Fortaleza",
+  "by": "Georges Henry Munier",
+  "city": "Fortaleza",
+  "cc": "BR",
+  "year": 1978,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Neo-Gothic cathedral with towers 75 meters high, drawn with references to Cologne and Chartres cathedrals.",
+  "commons_category": "Category:Catedral Metropolitana de Fortaleza",
+  "coords": [
+   -3.72477,
+   -38.52449
+  ],
+  "photos": [
+   {
+    "file": "File:Catedral de Fortaleza 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Catedral Metropolitana de Fortaleza - Ceará.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ragip-pasha-mansion",
+  "qid": "Q111327320",
+  "status": "unsure",
+  "why": "Mansion by August Jasmund, whose other work is on the wall; the lead gives no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "phitsanulok-mansion",
+  "qid": "Q13016474",
+  "status": "unsure",
+  "why": "Official residence by Mario Tamagno, whose other work is on the wall; the lead gives history and no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "villa-baizeau",
+  "qid": "Q16128265",
+  "status": "unsure",
+  "why": "Le Corbusier's only Tunisian villa, per the lead; but no photo shows the villa itself, only coastline views.",
+  "note": "no main photo"
+ },
+ {
+  "id": "kologdam-building",
+  "qid": "Q2106080",
+  "status": "skip",
+  "why": "Historic building for a trade fair, now a military complex; the lead gives no design reason, and there are no photos."
+ },
+ {
+  "id": "villa-shodhan",
+  "qid": "Q2275530",
+  "status": "unsure",
+  "why": "Le Corbusier villa, which the lead calls a symbol of his domestic architecture; every photo is a model, not the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "cebu-provincial-capitol",
+  "qid": "Q5055817",
+  "status": "photo",
+  "why": "Arellano's capitol, per the lead; the lead gives its concave facade and its 1937 inscription, and the photos show the whole front in daylight.",
+  "name": "Cebu Provincial Capitol",
+  "by": "Juan M. Arellano",
+  "city": "Cebu City",
+  "cc": "PH",
+  "year": 1937,
+  "type": "Civic",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Sculptural form"
+  ],
+  "features": "Provincial capitol with a concave central facade, designed by Juan M. Arellano and erected in 1937.",
+  "commons_category": "Category:Cebu Provincial Capitol Building",
+  "coords": [
+   10.3167,
+   123.89076
+  ],
+  "photos": [
+   {
+    "file": "File:Cebu Capitol Compund.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cebu Provincial Capitol, Cebu City.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chaktomuk-conference-hall",
+  "qid": "Q5068437",
+  "status": "unsure",
+  "why": "Vann Molyvann's fan-shaped hall, per the lead; the photos show only the interior and a screen, so no outside view passes.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ministry-of-finance-building-brunei",
+  "qid": "Q5818431",
+  "status": "unsure",
+  "why": "Tallest building in Brunei, by Kohn Pedersen Fox, which is on the wall; the lead gives height and use only, and says 1990 where prep says 2001.",
+  "note": "no design reason in lead; year conflict"
+ },
+ {
+  "id": "palacio-alcorta",
+  "qid": "Q6057551",
+  "status": "skip",
+  "why": "Former test track turned housing complex; the lead gives its history and no design reason, and housing is skipped."
+ },
+ {
+  "id": "church-of-the-holy-sacrifice-up-diliman",
+  "qid": "Q7137447",
+  "status": "photo",
+  "why": "Campus church by National Artist Leandro Locsin, recognised for its architectural design; the main photo shows the whole building in daylight.",
+  "name": "Church of the Holy Sacrifice (UP Diliman)",
+  "by": "Leandro Locsin",
+  "city": "Quezon City",
+  "cc": "PH",
+  "year": 1977,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Community"
+  ],
+  "features": "Campus church by National Artist Leandro Locsin, known for its architectural design and recognized as a National Historical Landmark.",
+  "commons_category": "Category:Parish of the Holy Sacrifice (Quezon City)",
+  "coords": [
+   14.65889,
+   121.07111
+  ],
+  "photos": [
+   {
+    "file": "File:UPChapeljf9392 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "levin-house-tel-aviv",
+  "qid": "Q7777121",
+  "status": "photo",
+  "why": "Eclectic house with neoclassical influences, unique in central Tel Aviv, per the lead; the tower mechanism is a design feature the lead describes, and the street views are daylight.",
+  "name": "Levin House (Tel Aviv)",
+  "by": "Yehuda Magidovitch",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": 1924,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Void",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Eclectic Tel Aviv house with neoclassical touches and a tower whose three parts open over the staircase.",
+  "commons_category": "Category:Russian Embassy House",
+  "coords": [
+   32.0632,
+   34.7748
+  ],
+  "photos": [
+   {
+    "file": "File:בית. השגרירות הרוסית בשדרות רוטשילד.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:תל אביב הקטנה - בית השגרירות הרוסית - רוטשילד 46 (11).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-das-rosas",
+  "qid": "Q8341735",
+  "status": "unsure",
+  "why": "Museum and cultural centre by Felisberto Ranzini, whose other work is on the wall; the lead gives no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "palacio-das-industrias",
+  "qid": "Q9054621",
+  "status": "unsure",
+  "why": "Eclectic exhibition palace, per the lead, with a later restoration by Lina Bo Bardi; the lead's first exhibition (1917) disagrees with prep's year (1924).",
+  "note": "year conflict"
+ },
+ {
+  "id": "confiteria-del-molino",
+  "qid": "Q1125324",
+  "status": "photo",
+  "why": "Art Nouveau coffeehouse, per the lead; it opened in 1916 and the main photo shows the whole facade in daylight.",
+  "name": "Confitería del Molino",
+  "by": "Francesco Gianotti",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": 1916,
+  "type": "Hospitality",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Light from above"
+  ],
+  "features": "Art Nouveau coffeehouse opened in 1916 in front of Argentina's Congress, closed in 1997 and restored from 2016.",
+  "commons_category": "Category:Confitería del Molino",
+  "coords": [
+   -34.60889,
+   -58.39222
+  ],
+  "photos": [
+   {
+    "file": "File:Confitería del Molino in 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "new-cathedral-of-cuenca",
+  "qid": "Q15072543",
+  "status": "photo",
+  "why": "Romanesque Revival cathedral with three glazed domes, per the lead; the photo shows the domes from the street in daylight.",
+  "name": "New Cathedral of Cuenca",
+  "by": "Johannes Bautista Stiehle",
+  "city": "Cuenca",
+  "cc": "EC",
+  "year": 1975,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Colour",
+   "Sculptural form"
+  ],
+  "features": "Romanesque Revival cathedral with three giant domes covered in blue and white glazed tile.",
+  "commons_category": "Category:Catedral de la Inmaculada Concepción",
+  "coords": [
+   -2.8975,
+   -79.005
+  ],
+  "photos": [
+   {
+    "file": "File:Domes of the Catedral de la Immaculada Concepción.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "komitas-chamber-music-house",
+  "qid": "Q15239238",
+  "status": "skip",
+  "why": "Concert hall designed by an artist, opened 1977; the lead names no style or idea and gives only its opening and listing."
+ },
+ {
+  "id": "santo-domingo-church-quezon-city",
+  "qid": "Q17198574",
+  "status": "skip",
+  "why": "Parish church and national shrine; the lead gives its founding, transfer and no design reason."
+ },
+ {
+  "id": "cathedral-of-christ-the-king-johannesburg",
+  "qid": "Q18210338",
+  "status": "skip",
+  "why": "The lead says only that it is a Catholic cathedral in Johannesburg, with no design reason."
+ },
+ {
+  "id": "bareilly-dargah",
+  "qid": "Q22712275",
+  "status": "skip",
+  "why": "Sufi shrine and grave; the lead gives its purpose and a matchstick dome, and shrines are skipped. The architect field names a religion, not a designer."
+ },
+ {
+  "id": "desert-museum-mexico",
+  "qid": "Q24502406",
+  "status": "skip",
+  "why": "Ecological museum; the lead gives its purpose and collections, and no design reason."
+ },
+ {
+  "id": "building-of-the-baku-city-executive-power",
+  "qid": "Q25540504",
+  "status": "photo",
+  "why": "The lead names a style, Baroque, and the building is the last work of Polish architect Józef Gosławski; the main photo shows the whole facade in daylight.",
+  "name": "Building of the Baku City Executive Power",
+  "by": "Józef Gosławski",
+  "city": "Baku",
+  "cc": "AZ",
+  "year": 1904,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Detail"
+  ],
+  "features": "Baroque administrative building in Baku, the last work of Polish architect Józef Gosławski.",
+  "commons_category": "Category:Building of Baku City Executive Power",
+  "coords": [
+   40.36685,
+   49.83146
+  ],
+  "photos": [
+   {
+    "file": "File:Mayoralty of Baku main façade, 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "monastery-of-our-lady-of-mount-carmel",
+  "qid": "Q3320188",
+  "status": "skip",
+  "why": "Carmelite monastery; the lead gives its community and location and no design reason."
+ },
+ {
+  "id": "aguascalientes-museum",
+  "qid": "Q4694507",
+  "status": "skip",
+  "why": "Art museum; the lead gives only its status as the city's premier art museum, with no design reason."
+ },
+ {
+  "id": "cemil-topuzlu-open-air-theatre",
+  "qid": "Q5058732",
+  "status": "skip",
+  "why": "Open-air concert venue; the lead gives its use and location, and no design reason."
+ },
+ {
+  "id": "piratini-palace",
+  "qid": "Q732922",
+  "status": "skip",
+  "why": "Seat of the state executive; the lead gives its use and officials, and no design reason."
+ },
+ {
+  "id": "vilamajo-house-museum",
+  "qid": "Q1046452",
+  "status": "photo",
+  "why": "The lead names the architect, Julio Vilamajó, who built it for his family in 1930; the lead calls it the first modern dwelling opened as a museum in Uruguay.",
+  "name": "Vilamajó House Museum",
+  "by": "Julio Vilamajó",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": 1930,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Sculptural form"
+  ],
+  "features": "Julio Vilamajó's 1930 family house, the first modern dwelling opened as a museum in Uruguay.",
+  "commons_category": "Category:Casa Vilamajó",
+  "coords": [
+   -34.915,
+   -56.16333
+  ],
+  "photos": [
+   {
+    "file": "File:Casa Arq. Julio Vilamajó.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo Casa Vilamajo 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pista-de-atletismo-darwin-pineyrua",
+  "qid": "Q11098050",
+  "status": "skip",
+  "why": "Running track in a city park; the lead gives its use and naming, and no design reason. Ordinary sports venues are skipped."
+ },
+ {
+  "id": "eglise-du-sacre-coeur-de-jesus-de-medellin",
+  "qid": "Q11682930",
+  "status": "unsure",
+  "why": "Church by Agustín Goovaerts, per prep, whose other work is on the wall; the lead names no architect or style and gives only its listing, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "nuestra-senora-del-libano-montevideo",
+  "qid": "Q127598364",
+  "status": "photo",
+  "why": "The lead names engineer Eladio Dieste as designer of the 1984–1986 church, a known work of his; the main photo shows the curved front in daylight.",
+  "name": "Nuestra Señora del Líbano, Montevideo",
+  "by": "Eladio Dieste",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": 1986,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Structure as expression"
+  ],
+  "features": "Maronite church in Montevideo, built 1984–1986 to a design by engineer Eladio Dieste.",
+  "commons_category": "Category:Parroquia Maronita de Nuestra Señora del Líbano",
+  "coords": [
+   -34.83992,
+   -56.20842
+  ],
+  "photos": [
+   {
+    "file": "File:Nuestra Señora del Libano, Sayago.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "immobilia-building",
+  "qid": "Q13141943",
+  "status": "photo",
+  "why": "The lead calls it Cairo's first skyscraper, a named first; the main photo is a daylight view of the curved building.",
+  "name": "Immobilia Building",
+  "by": "Max Edrei, Gaston Rossi",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": 1940,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Considered Cairo's first skyscraper, a downtown building with a surface area of 5,444 square meters.",
+  "commons_category": "Category:Immobilia Building",
+  "coords": [
+   30.04896,
+   31.24216
+  ],
+  "photos": [
+   {
+    "file": "File:Burroughs Wellcome & Co., Cairo. Wellcome M0013215.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museo-de-ciencias-de-caracas",
+  "qid": "Q1876154",
+  "status": "unsure",
+  "why": "Science museum by Carlos Raúl Villanueva, whose other work is on the wall; the lead gives only its place in a park, with no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "beit-sokolov",
+  "qid": "Q2897639",
+  "status": "unsure",
+  "why": "Journalists' headquarters by Shulamit Nadler, whose other work is on the wall; the lead gives its dedication and sale, and no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "weizmann-house",
+  "qid": "Q2903120",
+  "status": "photo",
+  "why": "The lead names Erich Mendelsohn as architect of the house on a Rehovot hilltop, built for Chaim Weizmann; the photos show the house in daylight.",
+  "name": "Weizmann House",
+  "by": "Erich Mendelsohn",
+  "city": "Rehovot",
+  "cc": "IL",
+  "year": 1937,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Circulation"
+  ],
+  "features": "Home of Israel's first president, Chaim Weizmann, on a hilltop in Rehovot, designed by Erich Mendelsohn.",
+  "commons_category": "Category:Beit Weizmann",
+  "coords": [
+   31.90645,
+   34.81856
+  ],
+  "photos": [
+   {
+    "file": "File:120193 rechovot beit haim weizman PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:120197 rechovot beit haim weizman PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chapel-of-the-most-blessed-sacrament",
+  "qid": "Q5073116",
+  "status": "unsure",
+  "why": "Art Deco chapel by Tomás Mapúa, per the lead; every photo is an interior, so no outside view passes.",
+  "note": "no main photo"
+ },
+ {
+  "id": "estancia-villa-maria",
+  "qid": "Q60978522",
+  "status": "skip",
+  "why": "Historic country estate; the lead gives its place and no design reason, and no photo shows it."
+ },
+ {
+  "id": "palestine-technical-university-kadoorie",
+  "qid": "Q6401986",
+  "status": "unsure",
+  "why": "Agricultural college by Austen Harrison, whose other work is on the wall; the lead gives its bequest and opening and no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "vedat-tek-house",
+  "qid": "Q65053468",
+  "status": "photo",
+  "why": "The lead calls it a notable example of Turkish neoclassical architecture, by the architect Vedat Tek for his own family; the photos show the facade in daylight.",
+  "name": "Vedat Tek House",
+  "by": "Vedat Tek",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1914,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Museum and former home of architect Vedat Tek, a notable example of Turkish neoclassical architecture.",
+  "commons_category": "Category:Vedat Tek House",
+  "coords": [
+   41.05035,
+   28.98932
+  ],
+  "photos": [
+   {
+    "file": "File:Vedat Tek Evi, Nişantası.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vedat Tek House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rizal-memorial-library-and-museum",
+  "qid": "Q65068930",
+  "status": "photo",
+  "why": "The lead names the neoclassical style and Juan M. Arellano as architect, and the photos show the three-storey facade in daylight.",
+  "name": "Rizal Memorial Library and Museum",
+  "by": "Juan M. Arellano",
+  "city": "Cebu City",
+  "cc": "PH",
+  "year": 1939,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Three-story pre-war neoclassical library and museum in Cebu City, designed by Juan M. Arellano.",
+  "commons_category": "Category:Rizal Memorial Library and Museum",
+  "coords": [
+   10.31229,
+   123.89202
+  ],
+  "photos": [
+   {
+    "file": "File:Cebu City Public Library (Osmeña Boulevard, Cebu City; 01-12-2024).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rizal Memorial Library and Museum - Facade.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "herzliya-museum-of-contemporary-art",
+  "qid": "Q6604799",
+  "status": "unsure",
+  "why": "Contemporary art museum by Yaakov Rechter, whose other work is on the wall; the lead gives its collection and exhibitions and no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "manila-jai-alai-building",
+  "qid": "Q6749689",
+  "status": "skip",
+  "why": "Jai alai building that the lead says was demolished in 2000, so it is not standing."
+ },
+ {
+  "id": "saint-andrew-the-apostle-church",
+  "qid": "Q7400942",
+  "status": "unsure",
+  "why": "Church by Leandro Locsin, whose other work is on the wall, and the lead calls it one of his known modern edifices; no photo shows the church itself, only signs and statues.",
+  "note": "no main photo"
+ },
+ {
+  "id": "town-hall-of-porto-alegre",
+  "qid": "Q10347008",
+  "status": "skip",
+  "why": "Historic town hall; the lead gives its history, listing and renovation, and no named style or design reason."
+ },
+ {
+  "id": "bulgur-palas",
+  "qid": "Q111988445",
+  "status": "skip",
+  "why": "Restored Istanbul mansion turned library; the lead gives its history and use and no design reason."
+ },
+ {
+  "id": "shamkir-lutheran-church",
+  "qid": "Q12835673",
+  "status": "skip",
+  "why": "Former German Lutheran church, now a monument; the lead gives its listing and no design reason."
+ },
+ {
+  "id": "clal-center",
+  "qid": "Q17001787",
+  "status": "unsure",
+  "why": "Office tower and indoor mall; the lead calls it Jerusalem's first upscale indoor mall and an architectural failure, which is not a design reason to keep. The owner decides.",
+  "note": "mall type; no design reason in lead"
+ },
+ {
+  "id": "baku-city-executive-power",
+  "qid": "Q3867209",
+  "status": "skip",
+  "why": "Same building as position 117 (Building of the Executive Authority of the Baku City); kept once there."
+ },
+ {
+  "id": "santuario-nacional-del-corazon-de-jesus-montevideo",
+  "qid": "Q4504967",
+  "status": "skip",
+  "why": "National shrine and parish church; the lead gives its location and status and no design reason."
+ },
+ {
+  "id": "civil-police-museum-rio-de-janeiro",
+  "qid": "Q5124529",
+  "status": "photo",
+  "why": "The lead names a French eclectic style and says the building was constructed in 1910; the main photo shows the whole facade in daylight. The year is the 1910 construction, not the museum's 1912 founding.",
+  "name": "Civil Police Museum (Rio de Janeiro)",
+  "by": "Heitor de Melo",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": 1910,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Museum in a French eclectic building constructed in 1910 by Heitor de Mello in Rio de Janeiro.",
+  "commons_category": "Category:Museu da Polícia Civil (Rio de Janeiro)",
+  "coords": [
+   -22.91056,
+   -43.185
+  ],
+  "photos": [
+   {
+    "file": "File:Museu da Polícia Civil do Estado do Rio de Janeiro 2007.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palacio-municipal-de-lima",
+  "qid": "Q5200998",
+  "status": "skip",
+  "why": "Seat of the city government; the lead gives its location and use and no design reason."
+ },
+ {
+  "id": "edificio-wilton-paes-de-almeida",
+  "qid": "Q52426295",
+  "status": "skip",
+  "why": "High-rise that the lead says caught fire and collapsed in 2018, so it is not standing."
+ },
+ {
+  "id": "our-lady-of-the-rosary-cathedral-girardota",
+  "qid": "Q5758532",
+  "status": "photo",
+  "why": "The lead names a neo-Romanesque style and says the solid brick was built in sight, by the French architect Charles Émile Carré; the main photo shows the whole front in daylight.",
+  "name": "Our Lady of the Rosary Cathedral, Girardota",
+  "by": "Charles Émile Carré",
+  "city": "Girardota",
+  "cc": "CO",
+  "year": 1922,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Monumentality",
+   "Brick"
+  ],
+  "features": "Neo-Romanesque cathedral built in solid brick left in sight, which took 32 years to build.",
+  "commons_category": "Category:Catedral de Nuestra Señora del Rosario, Girardota",
+  "coords": [
+   6.37677,
+   -75.44584
+  ],
+  "photos": [
+   {
+    "file": "File:Girardota-frontis.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Catedral de girardota.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "memorial-of-glory-almaty",
+  "qid": "Q60290910",
+  "status": "skip",
+  "why": "War memorial with a sculpted group and an eternal flame; the lead gives its purpose and no design reason. Memorials are skipped."
+ },
+ {
+  "id": "jerusalem-international-ymca",
+  "qid": "Q6185163",
+  "status": "unsure",
+  "why": "YMCA by Arthur Loomis Harmon, whose other work is on the wall; the lead gives only the branch's founding and no design reason, so the owner decides.",
+  "note": "no design reason in lead"
+ },
+ {
+  "id": "pomnik-zydowskich-zolnierzy-polskiej-armii-w-ii-wojnie-swiatowej",
+  "qid": "Q6696679",
+  "status": "skip",
+  "why": "War memorial to Jewish soldiers; the lead gives its purpose and no design reason beyond its relief. Memorials are skipped."
+ },
+ {
+  "id": "jerusalem-old-town-hall",
+  "qid": "Q714812",
+  "status": "skip",
+  "why": "Mandate-era public building; the lead gives only that it was one of four British-built public buildings, with no design reason."
+ }
+]

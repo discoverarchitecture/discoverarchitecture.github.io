@@ -1,4 +1,4 @@
-# usage: python3 make_pool.py N  -> writes tools/cheap/poolN.json from scored.json, excluding pools 1..N-1
+# usage: python3 tools/cheap/make_pool10.py 10 -> tools/cheap/pool10.json from tools/harvest/recent.json (buildings from 2000 on)
 import json,sys,re,unicodedata,collections,math
 N=int(sys.argv[1])
 sys.path.insert(0,'tools')

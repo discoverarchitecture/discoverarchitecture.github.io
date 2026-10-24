@@ -1,0 +1,974 @@
+[
+ {
+  "id": "istana-nurul-iman",
+  "qid": "Q1323932",
+  "status": "photo",
+  "why": "Well-known architect's built palace; the lead is short, kept on the architect as the second test allows.",
+  "name": "Istana Nurul Iman",
+  "by": "Leandro Locsin",
+  "city": "Bandar Seri Begawan",
+  "cc": "BN",
+  "year": 1984,
+  "type": "Palace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "The Sultan of Brunei's official residence, spread over leafy hills on the Brunei River.",
+  "commons_category": "Category:Istana Nurul Iman",
+  "coords": [
+   4.87203,
+   114.92076
+  ],
+  "photos": [
+   {
+    "file": "File:Istana-nurul-iman.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Aerial photograph of Brunei on 15 January 2026 - 29.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Istana_Nurul_Iman",
+   "https://www.wikidata.org/wiki/Q1323932"
+  ]
+ },
+ {
+  "id": "mysore-palace",
+  "qid": "Q456575",
+  "status": "photo",
+  "why": "Named Indo-Saracenic style and a 1912 completion, both in the lead.",
+  "name": "Mysore Palace",
+  "by": "Henry Irwin",
+  "city": "Mysore",
+  "cc": "IN",
+  "year": 1912,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Sculptural form"
+  ],
+  "features": "One of India's largest palaces, a prominent Indo-Saracenic design mixing Indo-Islamic, Rajput, Hoysala and Gothic styles.",
+  "commons_category": "Category:Mysore Palace",
+  "coords": [
+   12.30389,
+   76.65444
+  ],
+  "photos": [
+   {
+    "file": "File:Mysore Palace full front view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ruthvik2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mysore_Palace",
+   "https://www.wikidata.org/wiki/Q456575"
+  ]
+ },
+ {
+  "id": "wat-benchamabophit",
+  "qid": "Q2165719",
+  "status": "photo",
+  "why": "The lead names a Bangkok ornate style that mixes Thai and European design; no completion year in the lead.",
+  "name": "Wat Benchamabophit",
+  "by": "Narisara Nuwattiwong",
+  "city": "Bangkok",
+  "cc": "TH",
+  "year": 1911,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Bangkok's Marble Temple, a refined ornate temple blending traditional Thai forms with subtle European influences.",
+  "commons_category": "Category:Wat Benchamabophit",
+  "coords": [
+   13.76611,
+   100.51417
+  ],
+  "photos": [
+   {
+    "file": "File:Entrance of Wat Ben.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wat Benchamabophit 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wat_Benchamabophit",
+   "https://www.wikidata.org/wiki/Q2165719"
+  ]
+ },
+ {
+  "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
+  "qid": "Q1071500",
+  "status": "photo",
+  "why": "Indo-Saracenic style named in the lead; only the exterior photo passes.",
+  "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+  "by": "George Wittet",
+  "city": "Mumbai",
+  "cc": "IN",
+  "year": 1922,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Mumbai's history museum in Indo-Saracenic style, blending Mughal, Maratha and Jain elements, set among palm gardens.",
+  "commons_category": "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+  "coords": [
+   18.92667,
+   72.83222
+  ],
+  "photos": [
+   {
+    "file": "File:Prince of Wales Museum, Mumbai 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya",
+   "https://www.wikidata.org/wiki/Q1071500"
+  ]
+ },
+ {
+  "id": "bebek-mosque",
+  "qid": "Q6049880",
+  "status": "photo",
+  "why": "Named national architectural movement and a 1913 build, both in the lead.",
+  "name": "Bebek Mosque",
+  "by": "Mimar Kemaleddin",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1913,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Vault"
+  ],
+  "features": "Built in the First National Architectural Movement style, a limestone mosque with a main dome over four half domes.",
+  "commons_category": "Category:Bebek Mosque",
+  "coords": [
+   41.07667,
+   29.04389
+  ],
+  "photos": [
+   {
+    "file": "File:İstanbul - Bebek, Beşiktaş r7 - Şub 2013.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bebek Camii 01.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bebek_Mosque",
+   "https://www.wikidata.org/wiki/Q6049880"
+  ]
+ },
+ {
+  "id": "all-saints-cathedral-cairo",
+  "qid": "Q15179391",
+  "status": "photo",
+  "why": "Concrete cross-and-crown design named in the lead; consecrated 1988.",
+  "name": "All Saints' Cathedral, Cairo",
+  "by": "Awad Kamil Fahmy, Selim Kamil Fahmy",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": 1988,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "A concrete cathedral shaped like a cross at ground level and a crown at the top.",
+  "commons_category": "Category:All Saints' Cathedral, Cairo",
+  "coords": [
+   30.058,
+   31.2237
+  ],
+  "photos": [
+   {
+    "file": "File:All Saints' Cathedral, Cairo, Episcopal Diocese of Egypt.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/All_Saints%27_Cathedral%2C_Cairo",
+   "https://www.wikidata.org/wiki/Q15179391"
+  ]
+ },
+ {
+  "id": "our-lady-of-heliopolis-co-cathedral",
+  "qid": "Q23760916",
+  "status": "photo",
+  "why": "Byzantine Revival named in the lead; the lead names Alexandre Marcel as designer, not the Wikidata name.",
+  "name": "Our Lady of Heliopolis Co-Cathedral",
+  "by": "Alexandre Marcel",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": 1913,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A Byzantine Revival cathedral modelled on Hagia Sophia, completed in 1913, with a crypt for its financier.",
+  "commons_category": "Category:Cathedral of Our Lady of Heliopolis, Cairo",
+  "coords": [
+   30.09362,
+   31.32521
+  ],
+  "photos": [
+   {
+    "file": "File:Baselik church.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Eliopoli, basilica del barone empain, 01.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Our_Lady_of_Heliopolis_Co-Cathedral",
+   "https://www.wikidata.org/wiki/Q23760916"
+  ]
+ },
+ {
+  "id": "theatre-municipal-de-tunis",
+  "qid": "Q3527872",
+  "status": "photo",
+  "why": "Art Nouveau style named in the lead; first opened 20 November 1902.",
+  "name": "Théâtre municipal de Tunis",
+  "by": "Jean-Émile Resplandy",
+  "city": "Tunis",
+  "cc": "TN",
+  "year": 1902,
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "An Art Nouveau theatre first opened in 1902, once called the Municipal Casino of Tunis.",
+  "commons_category": "Category:Municipal Theater of Tunis",
+  "coords": [
+   36.7992,
+   10.1808
+  ],
+  "photos": [
+   {
+    "file": "File:Theater tunis 20260716 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Theater tunis 20260716 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_municipal_de_Tunis",
+   "https://www.wikidata.org/wiki/Q3527872"
+  ]
+ },
+ {
+  "id": "sonobudoyo-museum",
+  "qid": "Q4271636",
+  "status": "photo",
+  "why": "Well-known architect's museum; the lead gives no design reason, so kept on the architect (second test).",
+  "name": "Sonobudoyo Museum",
+  "by": "Thomas Karsten",
+  "city": "Yogyakarta",
+  "cc": "ID",
+  "year": 1935,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Yogyakarta's Javanese history museum, with the most complete Javanese collection after Jakarta's National Museum.",
+  "commons_category": "Category:Sonobudoyo Museum",
+  "coords": [
+   -7.8023,
+   110.36394
+  ],
+  "photos": [
+   {
+    "file": "File:Museum Sonobudoyo Yogyakarta Unit 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sonobudoyo_Museum",
+   "https://www.wikidata.org/wiki/Q4271636"
+  ]
+ },
+ {
+  "id": "st-sarkis-church-yerevan-armenia",
+  "qid": "Q3851623",
+  "status": "photo",
+  "why": "Traditional Armenian style named in the lead; construction began 1998, no completion year given.",
+  "name": "St. Sarkis Church (Yerevan, Armenia)",
+  "by": "Baghdasar Arzoumanian",
+  "city": "Yerevan",
+  "cc": "AM",
+  "year": 1999,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Sculptural form",
+   "Vault",
+   "Detail"
+  ],
+  "features": "A three-storey church in traditional Armenian style with a circular, polygonal form and a 23-metre main dome.",
+  "commons_category": "Category:Saint Sarkis Church, Nor Nork",
+  "coords": [
+   40.1814,
+   44.56519
+  ],
+  "photos": [
+   {
+    "file": "File:Սուրբ Սարգիս եկեղեցի, Նոր Նորք, Երեւան.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Surb Sargis Church Nor Nork 06.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/St._Sarkis_Church_%28Yerevan%2C_Armenia%29",
+   "https://www.wikidata.org/wiki/Q3851623"
+  ]
+ },
+ {
+  "id": "niyamasabha-mandiram",
+  "qid": "Q7042028",
+  "status": "photo",
+  "why": "The lead names a style, the classical style of Kerala architecture with contemporary influences, and describes the stair, gardens, water and assembly hall.",
+  "name": "Niyamasabha Mandiram",
+  "by": "Kerala Public Works Department",
+  "city": "Thiruvananthapuram",
+  "cc": "IN",
+  "year": 1998,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Legislative assembly built in the classical Kerala style, with a grand staircase, water bodies and gardens.",
+  "commons_category": "Category:Niyamasabha Mandiram",
+  "coords": [
+   8.5067,
+   76.9487
+  ],
+  "photos": [
+   {
+    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (10).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Niyamasabha_Mandiram",
+   "https://www.wikidata.org/wiki/Q7042028"
+  ]
+ },
+ {
+  "id": "confiteria-del-molino",
+  "qid": "Q1125324",
+  "status": "photo",
+  "why": "Art Nouveau coffeehouse, per the lead; it opened in 1916 and the main photo shows the whole facade in daylight.",
+  "name": "Confitería del Molino",
+  "by": "Francesco Gianotti",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": 1916,
+  "type": "Hospitality",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Colour",
+   "Light from above"
+  ],
+  "features": "Art Nouveau coffeehouse opened in 1916 in front of Argentina's Congress, closed in 1997 and restored from 2016.",
+  "commons_category": "Category:Confitería del Molino",
+  "coords": [
+   -34.60889,
+   -58.39222
+  ],
+  "photos": [
+   {
+    "file": "File:Confitería del Molino in 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Confiter%C3%ADa_del_Molino",
+   "https://www.wikidata.org/wiki/Q1125324"
+  ]
+ },
+ {
+  "id": "vilamajo-house-museum",
+  "qid": "Q1046452",
+  "status": "photo",
+  "why": "The lead names the architect, Julio Vilamajó, who built it for his family in 1930; the lead calls it the first modern dwelling opened as a museum in Uruguay.",
+  "name": "Vilamajó House Museum",
+  "by": "Julio Vilamajó",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": 1930,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Sculptural form"
+  ],
+  "features": "Julio Vilamajó's 1930 family house, the first modern dwelling opened as a museum in Uruguay.",
+  "commons_category": "Category:Casa Vilamajó",
+  "coords": [
+   -34.915,
+   -56.16333
+  ],
+  "photos": [
+   {
+    "file": "File:Casa Arq. Julio Vilamajó.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo Casa Vilamajo 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vilamaj%C3%B3_House_Museum",
+   "https://www.wikidata.org/wiki/Q1046452"
+  ]
+ },
+ {
+  "id": "nuestra-senora-del-libano-montevideo",
+  "qid": "Q127598364",
+  "status": "photo",
+  "why": "The lead names engineer Eladio Dieste as designer of the 1984–1986 church, a known work of his; the main photo shows the curved front in daylight.",
+  "name": "Nuestra Señora del Líbano, Montevideo",
+  "by": "Eladio Dieste",
+  "city": "Montevideo",
+  "cc": "UY",
+  "year": 1986,
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Brick",
+   "Vault",
+   "Structure as expression"
+  ],
+  "features": "Maronite church in Montevideo, built 1984–1986 to a design by engineer Eladio Dieste.",
+  "commons_category": "Category:Parroquia Maronita de Nuestra Señora del Líbano",
+  "coords": [
+   -34.83992,
+   -56.20842
+  ],
+  "photos": [
+   {
+    "file": "File:Nuestra Señora del Libano, Sayago.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_del_L%C3%ADbano%2C_Montevideo",
+   "https://www.wikidata.org/wiki/Q127598364"
+  ]
+ },
+ {
+  "id": "immobilia-building",
+  "qid": "Q13141943",
+  "status": "photo",
+  "why": "The lead calls it Cairo's first skyscraper, a named first; the main photo is a daylight view of the curved building.",
+  "name": "Immobilia Building",
+  "by": "Max Edrei, Gaston Rossi",
+  "city": "Cairo",
+  "cc": "EG",
+  "year": 1940,
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Considered Cairo's first skyscraper, a downtown building with a surface area of 5,444 square meters.",
+  "commons_category": "Category:Immobilia Building",
+  "coords": [
+   30.04896,
+   31.24216
+  ],
+  "photos": [
+   {
+    "file": "File:Burroughs Wellcome & Co., Cairo. Wellcome M0013215.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Immobilia_Building",
+   "https://www.wikidata.org/wiki/Q13141943"
+  ]
+ },
+ {
+  "id": "vedat-tek-house",
+  "qid": "Q65053468",
+  "status": "photo",
+  "why": "The lead calls it a notable example of Turkish neoclassical architecture, by the architect Vedat Tek for his own family; the photos show the facade in daylight.",
+  "name": "Vedat Tek House",
+  "by": "Vedat Tek",
+  "city": "Istanbul",
+  "cc": "TR",
+  "year": 1914,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Museum and former home of architect Vedat Tek, a notable example of Turkish neoclassical architecture.",
+  "commons_category": "Category:Vedat Tek House",
+  "coords": [
+   41.05035,
+   28.98932
+  ],
+  "photos": [
+   {
+    "file": "File:Vedat Tek Evi, Nişantası.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vedat Tek House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vedat_Tek_House",
+   "https://www.wikidata.org/wiki/Q65053468"
+  ]
+ },
+ {
+  "id": "temple-of-saint-anthony-of-padua",
+  "qid": "Q2919923",
+  "status": "photo",
+  "why": "Lead calls it a deliberately eclectic masterpiece built 1895-1908 (year taken as 1908).",
+  "name": "Temple of Saint Anthony of Padua",
+  "by": "Refugio Reyes Rivas",
+  "city": "Aguascalientes",
+  "cc": "MX",
+  "year": 1908,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Eclectic church mixing neoclassical, baroque, Russian, Gothic and Islamic influences; Refugio Reyes Rivas's masterpiece.",
+  "commons_category": "Category:Templo de San Antonio, Aguascalientes",
+  "coords": [
+   [
+    21.88562,
+    -102.29177
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:967 TEMPLO DE SAN ANTONIO.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:00967 Templo de San Antonio - Aguascalientes - Aguascalientes (2).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Templo de San Antonio (desde la esquina).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Temple_of_Saint_Anthony_of_Padua",
+   "https://www.wikidata.org/wiki/Q2919923"
+  ]
+ },
+ {
+  "id": "edificio-ariztia",
+  "qid": "Q5338042",
+  "status": "photo",
+  "why": "Lead gives two firsts: first skyscraper and first office building with an elevator in Santiago; completed 1921.",
+  "name": "Edificio Ariztía",
+  "by": "Alberto Cruz Montt, Ricardo Larraín Bravo",
+  "city": "Santiago",
+  "cc": "CL",
+  "year": 1921,
+  "type": "Office & tower",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Considered Santiago's first skyscraper and its first office building with an elevator, built in reinforced concrete.",
+  "commons_category": "Category:Edificio Ariztía",
+  "coords": [
+   [
+    -33.44256,
+    -70.65121
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Edificio Ariztía, Santiago 20230816.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barrio La Bolsa 2013-05-26 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edificio_Arizt%C3%ADa",
+   "https://www.wikidata.org/wiki/Q5338042"
+  ]
+ },
+ {
+  "id": "ricardo-rojas-house-museum-research-institute",
+  "qid": "Q21114973",
+  "status": "photo",
+  "why": "Lead gives a design idea (built to the book Eurindia, facade like La Casa de Tucumán); lead gives no completion year.",
+  "name": "Ricardo Rojas' House Museum - Research Institute",
+  "by": "Ángel Guido",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": 1929,
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "Commissioned by writer Ricardo Rojas, its design follows his book Eurindia, with a facade like La Casa de Tucumán.",
+  "commons_category": "Category:Casa Museo Ricardo Rojas",
+  "coords": [
+   [
+    -34.5939,
+    -58.4065
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Museo Casa Ricardo Rojas 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museo Casa Ricardo Rojas 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Casa_de_Ricardo_Rojas",
+   "https://www.wikidata.org/wiki/Q21114973"
+  ]
+ },
+ {
+  "id": "edificio-do-banco-paulista-do-comercio",
+  "qid": "Q28677873",
+  "status": "photo",
+  "why": "Lead: an early modernist building in central São Paulo whose curve answers the street; built 1947-1950 (year taken as 1950).",
+  "name": "Edifício do Banco Paulista do Comércio",
+  "by": "Rino Levi",
+  "city": "São Paulo",
+  "cc": "BR",
+  "year": 1950,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A pioneering modernist building in central São Paulo, its curve answers the sloping street that meets its corner.",
+  "commons_category": "Category:Edifício Banco Paulista do Comércio",
+  "coords": [
+   [
+    -23.54505,
+    -46.63371
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Edifício Banco Paulista do Comércio 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Banco Paulista do Comércio 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifício Banco Paulista do Comércio 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Edif%C3%ADcio_do_Banco_Paulista_do_Com%C3%A9rcio",
+   "https://www.wikidata.org/wiki/Q28677873"
+  ]
+ },
+ {
+  "id": "tanghalang-pambansa",
+  "qid": "Q30590055",
+  "status": "photo",
+  "why": "Lead: a National Artist's brutalist design, a primary example of his floating-volume style; lead gives no year.",
+  "name": "Tanghalang Pambansa",
+  "by": "Leandro Locsin",
+  "city": "Pasay",
+  "cc": "PH",
+  "year": 1969,
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Cantilever",
+   "Exposed concrete",
+   "Structure as expression"
+  ],
+  "features": "Brutalist national theatre in the Cultural Center complex, a primary example of Locsin's floating-volume style.",
+  "commons_category": "Category:Tanghalang Pambansa",
+  "coords": [
+   [
+    14.55827,
+    120.98571
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:CCPjf0126 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CCPjf0111 07.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:CCPjf0111 08.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tanghalang_Pambansa",
+   "https://www.wikidata.org/wiki/Q30590055"
+  ]
+ },
+ {
+  "id": "galeria-guemes",
+  "qid": "Q11682033",
+  "status": "photo",
+  "why": "Lead names the Art Nouveau style; lead gives only a design date (1913), so no year.",
+  "name": "Galería Güemes",
+  "by": "Francesco Gianotti",
+  "city": "Buenos Aires",
+  "cc": "AR",
+  "year": 1915,
+  "type": "Public space",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Light & shadow"
+  ],
+  "features": "Commercial gallery on Florida Street designed in the Art Nouveau style by Italian architect Francesco Gianotti.",
+  "commons_category": "Category:Galería Güemes",
+  "coords": [
+   [
+    -34.60613,
+    -58.37495
+   ]
+  ],
+  "photos": [
+   {
+    "file": "File:Galería Güemes Cúpula torreta 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Galeria Güemes desde Bencich.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Galería Güemes Cúpula torreta 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Galer%C3%ADa_G%C3%BCemes",
+   "https://www.wikidata.org/wiki/Q11682033"
+  ]
+ },
+ {
+  "id": "selim-al-deen-muktamanch",
+  "qid": "Q130607297",
+  "status": "photo",
+  "why": "First open-air theatre in South Asia built in the style of an ancient Greek theatre; clear daylight exterior photos.",
+  "name": "Selim Al Deen Muktamanch",
+  "by": "Alamgir Kabir",
+  "city": "Savar",
+  "cc": "BD",
+  "year": 1980,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Brick"
+  ],
+  "features": "First open-air theatre in South Asia built in the style of an ancient Greek theatre, on a mound slope.",
+  "commons_category": "Category:Selim Al Deen Muktomoncho",
+  "coords": [
+   23.87877,
+   90.2708
+  ],
+  "photos": [
+   {
+    "file": "File:Open Satge Of JahangirNagar University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Selim Al Deen Muktomoncho.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:সেলিম আল দীন মুক্তমঞ্চ.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Selim Al-Din Muktomoncho.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Selim_Al_Deen_Muktamanch",
+   "https://www.wikidata.org/wiki/Q130607297"
+  ]
+ },
+ {
+  "id": "faculty-of-fine-arts-university-of-dhaka",
+  "qid": "Q4796888",
+  "status": "photo",
+  "why": "Muzharul Islam designed the building; it houses the first art school in the region.",
+  "name": "Faculty of Fine Arts, University of Dhaka",
+  "by": "Muzharul Islam",
+  "city": "Dhaka",
+  "cc": "BD",
+  "year": 1956,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Structure as expression",
+   "Climate response"
+  ],
+  "features": "Designed by Muzharul Islam for the region's first art school, in Shahbag since 1956.",
+  "commons_category": "Category:Faculty of Fine Arts, University of Dhaka",
+  "coords": [
+   23.7357,
+   90.3948
+  ],
+  "photos": [
+   {
+    "file": "File:Institute of Fine Art 1 .A.M.R.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Faculty_of_Fine_Arts%2C_University_of_Dhaka",
+   "https://www.wikidata.org/wiki/Q4796888"
+  ]
+ }
+]

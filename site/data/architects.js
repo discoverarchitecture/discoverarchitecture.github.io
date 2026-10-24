@@ -143,6 +143,15 @@ window.ARCHITECTS = {
   "Q655293": {
    "name": "Ernő Goldfinger"
   },
+  "Q18810728": {
+   "name": "Geoffry Powell"
+  },
+  "Q16008345": {
+   "name": "Peter \"Joe\" Chamberlin"
+  },
+  "Q18832970": {
+   "name": "Christoph Bon"
+  },
   "Q180398": {
    "name": "Jørn Utzon"
   },
@@ -737,6 +746,12 @@ window.ARCHITECTS = {
    "license": "CC BY-SA 3.0",
    "credit": "Gorup de Besanez"
   },
+  "Q6522397": {
+   "name": "Lene Tranberg"
+  },
+  "Q17165537": {
+   "name": "Boje Lundgaard"
+  },
   "Q930": {
    "name": "Konstantin Melnikov",
    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/af/Melnikov.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -764,6 +779,16 @@ window.ARCHITECTS = {
    "source": "https://commons.wikimedia.org/wiki/File:Gunnar_Asplund_1940.jpg",
    "license": "Public domain",
    "credit": "Unknown author"
+  },
+  "Q565390": {
+   "name": "Ben van Berkel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Ben_van_Berkel_portret%2C_2017.jpg/250px-Ben_van_Berkel_portret%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ben_van_Berkel_portret,_2017.jpg",
+   "license": "CC BY 3.0",
+   "credit": "WIA - What is architecture?"
+  },
+  "Q547004": {
+   "name": "Caroline Bos"
   },
   "Q380449": {
    "name": "Balkrishna Doshi",
@@ -1332,6 +1357,13 @@ window.ARCHITECTS = {
    "license": "Public domain",
    "credit": "Anonymous (photographer)"
   },
+  "Q962993": {
+   "name": "Johannes Brinkman",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ir._Johannes_Andreas_Brinkman.jpg/250px-Ir._Johannes_Andreas_Brinkman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ir._Johannes_Andreas_Brinkman.jpg",
+   "license": "Public domain",
+   "credit": "Unknown photographer"
+  },
   "manual:Van der Vlugt": {
    "name": "Van der Vlugt",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Leendert_van_der_Vlugt.jpg/250px-Leendert_van_der_Vlugt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1549,6 +1581,29 @@ window.ARCHITECTS = {
   },
   "Q771145": {
    "name": "Kamran Diba"
+  },
+  "manual:Francine Houben": {
+   "name": "Francine Houben",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Mecanoo_Francine_Houben_FC_IMG_5753_CV.jpg/250px-Mecanoo_Francine_Houben_FC_IMG_5753_CV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Mecanoo_Francine_Houben_FC_IMG_5753_CV.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "M8scho"
+  },
+  "Q119819797": {
+   "name": "Henk Döll"
+  },
+  "Q124869258": {
+   "name": "Roelf Steenhuis"
+  },
+  "Q586951": {
+   "name": "Erick van Egeraat",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Erick_van_egeraat.jpg/250px-Erick_van_egeraat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Erick_van_egeraat.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Caisare"
+  },
+  "Q114779542": {
+   "name": "Chris de Weijer"
   },
   "Q5726216": {
    "name": "Henry N. Cobb"
@@ -1913,6 +1968,19 @@ window.ARCHITECTS = {
   "Q4792693": {
    "name": "Armand Phillip Bartos"
   },
+  "manual:William Lim Siew Wai": {
+   "name": "William Lim Siew Wai",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/William_S._W._Lim_at_Select_Books%2C_Singapore_-_20120124.JPG/250px-William_S._W._Lim_at_Select_Books%2C_Singapore_-_20120124.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:William_S._W._Lim_at_Select_Books,_Singapore_-_20120124.JPG",
+   "license": "CC BY-SA 3.0",
+   "credit": "Smuconlaw ."
+  },
+  "Q65685745": {
+   "name": "Tay Kheng Soon"
+  },
+  "Q6425867": {
+   "name": "Koh Seow Chuan"
+  },
   "Q326737": {
    "name": "Michael Wilford"
   },
@@ -2165,6 +2233,12 @@ window.ARCHITECTS = {
    "source": "https://commons.wikimedia.org/wiki/File:Kris_Yao_20070828.jpg",
    "license": "CC BY 2.0",
    "credit": "準建築人手札網站"
+  },
+  "Q23680660": {
+   "name": "Christopher Wilkinson"
+  },
+  "Q19957748": {
+   "name": "Jim Eyre"
   },
   "Q4923203": {
    "name": "Sumet Jumsai",
@@ -3713,6 +3787,9 @@ window.ARCHITECTS = {
    "license": "Attribution",
    "credit": "Heinz von Heydenaber (please note that the EXIF information that is contained in"
   },
+  "Q125245477": {
+   "name": "Martin Robain"
+  },
   "Q312847": {
    "name": "Thom Mayne",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Thom_Mayne%2C_USC%2C_2023.jpg/250px-Thom_Mayne%2C_USC%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4154,9 +4231,6 @@ window.ARCHITECTS = {
   "Q11496979": {
    "name": "Yui Tezuka"
   },
-  "Q20643094": {
-   "name": "James Gowan"
-  },
   "Q6084345": {
    "name": "Altuğ Çinici"
   },
@@ -4175,6 +4249,20 @@ window.ARCHITECTS = {
   },
   "Q1041680": {
    "name": "Carlfried Mutschler"
+  },
+  "manual:Anne Lacaton": {
+   "name": "Anne Lacaton",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Anne_Lacaton.jpg/250px-Anne_Lacaton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Anne_Lacaton.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "GSAPPstudent"
+  },
+  "Q18285075": {
+   "name": "Jean-Philippe Vassal",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Jean-Philippe_Vassal.png/250px-Jean-Philippe_Vassal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Jean-Philippe_Vassal.png",
+   "license": "CC BY-SA 4.0",
+   "credit": "User:GSAPPstudent"
   },
   "Q7294755": {
    "name": "Rasem Badran",
@@ -4676,7 +4764,7 @@ window.ARCHITECTS = {
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Benjamin_Thompson.jpg/250px-Benjamin_Thompson.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "source": "https://commons.wikimedia.org/wiki/File:Benjamin_Thompson.jpg",
    "license": "Public domain",
-   "credit": "Not specified"
+   "credit": "Not specified [1] [2]"
   },
   "Q4719804": {
    "name": "Alexander Parris",
@@ -4690,6 +4778,20 @@ window.ARCHITECTS = {
   },
   "Q10346542": {
    "name": "Paulo David"
+  },
+  "manual:Luis Moreno Mansilla": {
+   "name": "Luis Moreno Mansilla",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Luis_Moreno_Mansilla.JPG/250px-Luis_Moreno_Mansilla.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Luis_Moreno_Mansilla.JPG",
+   "license": "CC BY-SA 3.0",
+   "credit": "Outisnn"
+  },
+  "Q2944065": {
+   "name": "Emilio Tuñón",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Emilio_Tu%C3%B1%C3%B3n_2015.jpg/250px-Emilio_Tu%C3%B1%C3%B3n_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Emilio_Tu%C3%B1%C3%B3n_2015.jpg",
+   "license": "CC BY 3.0",
+   "credit": "UFVedu (youtube)"
   },
   "Q135477726": {
    "name": "Gustav Düsing",
@@ -5288,9 +5390,6 @@ window.ARCHITECTS = {
   "Q55696695": {
    "name": "José Lei"
   },
-  "Q9085791": {
-   "name": "Zhang Jinqiu"
-  },
   "Q11100939": {
    "name": "Yang Tingbao"
   },
@@ -5323,6 +5422,20 @@ window.ARCHITECTS = {
   },
   "Q10513613": {
    "name": "Kuai Xiang"
+  },
+  "manual:Annette Gigon": {
+   "name": "Annette Gigon",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/ETH-BIB-Gigon%2C_Annette_%281959-%29-Portr_19539.tif/lossy-page1-250px-ETH-BIB-Gigon%2C_Annette_%281959-%29-Portr_19539.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Gigon,_Annette_(1959-)-Portr_19539.tif",
+   "license": "CC BY-SA 4.0",
+   "credit": "Inge Zimmermann (Berlin)"
+  },
+  "Q95287182": {
+   "name": "Mike Guyer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/ETH-BIB-Guyer%2C_Mike_%281958-%29-Portr_19739.jpg/250px-ETH-BIB-Guyer%2C_Mike_%281958-%29-Portr_19739.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Guyer,_Mike_(1958-)-Portr_19739.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Christian Scholz"
   },
   "Q122502": {
    "name": "Edgar Wisniewski"
@@ -6316,13 +6429,6 @@ window.ARCHITECTS = {
    "source": "https://commons.wikimedia.org/wiki/File:Phillippe_Starck_2011.jpg",
    "license": "CC BY-SA 2.0",
    "credit": "jikatu"
-  },
-  "Q565390": {
-   "name": "Ben van Berkel",
-   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Ben_van_Berkel_portret%2C_2017.jpg/250px-Ben_van_Berkel_portret%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "source": "https://commons.wikimedia.org/wiki/File:Ben_van_Berkel_portret,_2017.jpg",
-   "license": "CC BY 3.0",
-   "credit": "WIA - What is architecture?"
   },
   "Q829991": {
    "name": "Jo Coenen",
@@ -7645,9 +7751,6 @@ window.ARCHITECTS = {
   "Q6100577": {
    "name": "Iwan Iwanoff"
   },
-  "Q6129804": {
-   "name": "James Birrell"
-  },
   "Q970544": {
    "name": "Francis Greenway",
    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Francis_Greenway.jpg/250px-Francis_Greenway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -8053,6 +8156,1308 @@ window.ARCHITECTS = {
    "source": "https://commons.wikimedia.org/wiki/File:Henkil%C3%B6kuva_Arto_Sipinen.png",
    "license": "CC BY-SA 3.0",
    "credit": "Arto Sipinen"
+  },
+  "Q3809275": {
+   "name": "John Francis Bentley",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/John_Francis_Bentley_by_William_Christian_Symons.jpg/250px-John_Francis_Bentley_by_William_Christian_Symons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:John_Francis_Bentley_by_William_Christian_Symons.jpg",
+   "license": "Public domain",
+   "credit": "William Christian Symons"
+  },
+  "Q316639": {
+   "name": "Daniel Burnham",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Daniel_Burnham.jpg/250px-Daniel_Burnham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Daniel_Burnham.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q5498500": {
+   "name": "Frederick P. Dinkelberg"
+  },
+  "Q3084443": {
+   "name": "François Deslaugiers"
+  },
+  "Q2859562": {
+   "name": "Arata Endo",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/24/Arata_Endo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Arata_Endo.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q10856322": {
+   "name": "Yoshirō Taniguchi"
+  },
+  "Q88916": {
+   "name": "Peter Pelikan"
+  },
+  "Q6196720": {
+   "name": "Carl Fredrik Sundvall",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Carl_Fredric_Sundwall_x_Adolf_Ulri_Wertm%C3%BCller_1786.jpg/250px-Carl_Fredric_Sundwall_x_Adolf_Ulri_Wertm%C3%BCller_1786.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Carl_Fredric_Sundwall_x_Adolf_Ulri_Wertm%C3%BCller_1786.jpg",
+   "license": "Public domain",
+   "credit": "Adolf Ulrik Wertmüller"
+  },
+  "Q1174709": {
+   "name": "David Helldén",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e4/David_Hellden_1965_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:David_Hellden_1965_(cropped).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q355908": {
+   "name": "Erik Lallerstedt",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Erik_Lallerstedt_1920.jpg/250px-Erik_Lallerstedt_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Erik_Lallerstedt_1920.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q2464916": {
+   "name": "Octave Van Rysselberghe"
+  },
+  "Q70696": {
+   "name": "Werner Sobek",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Werner_Sobek.jpg/250px-Werner_Sobek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Werner_Sobek.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "René Müller"
+  },
+  "Q3765328": {
+   "name": "Giorgio Calza Bini"
+  },
+  "Q309736": {
+   "name": "Michelozzo"
+  },
+  "Q716519": {
+   "name": "Giuliano da Maiano",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/045_le_vite%2C_giuliano_da_maiano.jpg/250px-045_le_vite%2C_giuliano_da_maiano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:045_le_vite,_giuliano_da_maiano.jpg",
+   "license": "Public domain",
+   "credit": "Giorgio Vasari"
+  },
+  "Q4298777": {
+   "name": "Ashot Mndoyants",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Mndoyants_A.A.jpg/250px-Mndoyants_A.A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Mndoyants_A.A.jpg",
+   "license": "Public domain",
+   "credit": "Unknown"
+  },
+  "Q5512120": {
+   "name": "G. Albert Lansburgh",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G._Albert_Lansburgh_portrait_circa_1915.jpg/250px-G._Albert_Lansburgh_portrait_circa_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:G._Albert_Lansburgh_portrait_circa_1915.jpg",
+   "license": "Public domain",
+   "credit": "Hartsook Photo."
+  },
+  "Q117472636": {
+   "name": "Walter van Dijk"
+  },
+  "Q31033707": {
+   "name": "Gualtiero Galmanini",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Gualtieri_Galmanini%2C_italian_designer.jpg/250px-Gualtieri_Galmanini%2C_italian_designer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Gualtieri_Galmanini,_italian_designer.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q3048602": {
+   "name": "Edward Maxwell",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Edward_Maxwell.jpg/250px-Edward_Maxwell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Edward_Maxwell.jpg",
+   "license": "Public domain",
+   "credit": "Wm. Notman & Son"
+  },
+  "Q11978655": {
+   "name": "Joachim Gotsche Giæver"
+  },
+  "Q5006523": {
+   "name": "C. Howard Crane"
+  },
+  "Q1677555": {
+   "name": "Jacob Koerfer"
+  },
+  "Q5723245": {
+   "name": "Henry Hornbostel",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Henry_Hornbostel%2C_architect.jpg/250px-Henry_Hornbostel%2C_architect.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Henry_Hornbostel,_architect.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q1443739": {
+   "name": "Frank Matcham",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Frank_Matcham_Vanity_Fair.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Frank_Matcham_Vanity_Fair.jpg",
+   "license": "Public domain",
+   "credit": "Frederick Drummond Niblett"
+  },
+  "Q4572758": {
+   "name": "Martin Nyrop",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Martin_Nyrop.jpg/250px-Martin_Nyrop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Martin_Nyrop.jpg",
+   "license": "Public domain",
+   "credit": "Marius Christensen"
+  },
+  "Q959104": {
+   "name": "Ferdinand Boberg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Boberg_1903.jpg/250px-Boberg_1903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Boberg_1903.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q528703": {
+   "name": "Noi Trotsky",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Trotsky_N.A.jpg/250px-Trotsky_N.A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Trotsky_N.A.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q4134687": {
+   "name": "Alexander Gegello",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Gegello_A.I.jpg/250px-Gegello_A.I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Gegello_A.I.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q5536105": {
+   "name": "George Aitchison",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Professor_George_Aitchison_%281825-1910%29%2C_by_Lawrence_Alma-Tadema.jpg/250px-Professor_George_Aitchison_%281825-1910%29%2C_by_Lawrence_Alma-Tadema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Professor_George_Aitchison_(1825-1910),_by_Lawrence_Alma-Tadema.jpg",
+   "license": "Public domain",
+   "credit": "Lawrence Alma-Tadema"
+  },
+  "Q8776025": {
+   "name": "Enric Catà",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Enric_Cat%C3%A0_2013-08-14_07-37.jpg/250px-Enric_Cat%C3%A0_2013-08-14_07-37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Enric_Cat%C3%A0_2013-08-14_07-37.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "User:Kippelboy"
+  },
+  "Q8960483": {
+   "name": "Eugeni Pere Cendoya"
+  },
+  "Q2070359": {
+   "name": "Pere Domènech i Roura"
+  },
+  "Q737050": {
+   "name": "Carl Bergsten",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Carl_Bergsten%2C_arkitekt.jpg/250px-Carl_Bergsten%2C_arkitekt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Carl_Bergsten,_arkitekt.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q7938107": {
+   "name": "Vjekoslav Bastl",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Alois_%28Vjekoslav%29_Bastl_%28c._1915%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Alois_(Vjekoslav)_Bastl_(c._1915).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q2470897": {
+   "name": "Karo Halabyan",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Alabyan_K.S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Alabyan_K.S.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q4419543": {
+   "name": "Vasiliy Simbirtsev",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Vasiliy_Simbirtsev_1950.jpg/250px-Vasiliy_Simbirtsev_1950.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Vasiliy_Simbirtsev_1950.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Автор съёмки Маклецов"
+  },
+  "Q4078766": {
+   "name": "Boris Barkhin"
+  },
+  "Q125268335": {
+   "name": "Denise Duhart"
+  },
+  "Q3159879": {
+   "name": "Jacques Ripault",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Jacques_Ripault.jpg/250px-Jacques_Ripault.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Jacques_Ripault.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Pierre Ripault"
+  },
+  "Q18131023": {
+   "name": "Yevgeny Kireyev"
+  },
+  "Q3391825": {
+   "name": "Manuel Sánchez Arcas"
+  },
+  "Q3154765": {
+   "name": "Isaac Rapp"
+  },
+  "Q6225150": {
+   "name": "John Carl Warnecke",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/John_Carl_Warnecke_1962.jpg/250px-John_Carl_Warnecke_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:John_Carl_Warnecke_1962.jpg",
+   "license": "Public domain",
+   "credit": "Robert LeRoy Knudsen"
+  },
+  "Q523888": {
+   "name": "Mary Colter",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mary_Elizabeth_Jane_Colter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Mary_Elizabeth_Jane_Colter.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q6707889": {
+   "name": "Lyle E. Bennett"
+  },
+  "Q7349191": {
+   "name": "Robert Reamer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/RobertReamer.jpg/250px-RobertReamer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:RobertReamer.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q3155639": {
+   "name": "Isoya Yoshida",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Isoya_Yoshida.jpg/250px-Isoya_Yoshida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Isoya_Yoshida.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q11393855": {
+   "name": "Shozo Uchii"
+  },
+  "Q4494378": {
+   "name": "Marijan Haberle",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B5%D1%80%D0%BB%D0%B5.jpg/250px-%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B5%D1%80%D0%BB%D0%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B5%D1%80%D0%BB%D0%B5.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Unknown author"
+  },
+  "Q1682336": {
+   "name": "Jan Víšek"
+  },
+  "Q84497433": {
+   "name": "Vilém Zavřel"
+  },
+  "Q84554948": {
+   "name": "Libuše Žáčková-Pokorová"
+  },
+  "Q59914364": {
+   "name": "Otakar Oplatek"
+  },
+  "Q167816": {
+   "name": "Boris Iofan",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Iofan_B.M._2.jpg/250px-Iofan_B.M._2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Iofan_B.M._2.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q29654762": {
+   "name": "Rein Fledderus",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Reinder_h_fledderus-1592706253.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Reinder_h_fledderus-1592706253.png",
+   "license": "CC BY-SA 4.0",
+   "credit": "Margreet D Fledderus"
+  },
+  "Q29022117": {
+   "name": "Pablo Pintado"
+  },
+  "Q1711547": {
+   "name": "Juhani Pallasmaa",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Juhani_Pallasmaa.jpg/250px-Juhani_Pallasmaa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Juhani_Pallasmaa.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Soppakanuuna"
+  },
+  "Q5677699": {
+   "name": "Harvey Wiley Corbett"
+  },
+  "Q11881532": {
+   "name": "Matti Aaltonen",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tuleva_arkkitehti_ja_kuvanveist%C3%A4j%C3%A4_Matti_Aaltonen_1937_%28HK19670603-30949%29.tif/lossy-page1-250px-Tuleva_arkkitehti_ja_kuvanveist%C3%A4j%C3%A4_Matti_Aaltonen_1937_%28HK19670603-30949%29.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Tuleva_arkkitehti_ja_kuvanveist%C3%A4j%C3%A4_Matti_Aaltonen_1937_(HK19670603-30949).tif",
+   "license": "CC BY 4.0",
+   "credit": "Aarne Pietinen Oy"
+  },
+  "Q35271040": {
+   "name": "Irma Aaltonen"
+  },
+  "Q5262427": {
+   "name": "Derek Walker"
+  },
+  "Q11622447": {
+   "name": "Kazue Yakushiji",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%E8%96%AC%E5%B8%AB%E5%AF%BA%E4%B8%BB%E8%A8%88.png/250px-%E8%96%AC%E5%B8%AB%E5%AF%BA%E4%B8%BB%E8%A8%88.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:%E8%96%AC%E5%B8%AB%E5%AF%BA%E4%B8%BB%E8%A8%88.png",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q2019359": {
+   "name": "Willem Jan Neutelings"
+  },
+  "Q16195770": {
+   "name": "Michiel Riedijk",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Michiel_Riedijk.jpg/250px-Michiel_Riedijk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Michiel_Riedijk.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Marloes.koster"
+  },
+  "Q5483055": {
+   "name": "Ellen van Loon"
+  },
+  "Q7284827": {
+   "name": "Rainer Mahlamäki",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Rainer_Mahlamaki.JPG/250px-Rainer_Mahlamaki.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Rainer_Mahlamaki.JPG",
+   "license": "CC BY-SA 3.0",
+   "credit": "Ppntori"
+  },
+  "Q11864630": {
+   "name": "Ilmari Lahdelma"
+  },
+  "Q7345814": {
+   "name": "Robert Irwin",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Robert_Irwin_Scrim_Veil_Black_Rectangle_Natural_Light_Whitney_2013.jpg/250px-Robert_Irwin_Scrim_Veil_Black_Rectangle_Natural_Light_Whitney_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Robert_Irwin_Scrim_Veil_Black_Rectangle_Natural_Light_Whitney_2013.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Mduvekot"
+  },
+  "Q5518546": {
+   "name": "Galia Solomonoff",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Galia_Solomonoff_%28cropped%29.jpg/250px-Galia_Solomonoff_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Galia_Solomonoff_(cropped).jpg",
+   "license": "CC BY 2.0",
+   "credit": "Tina Gao, Columbia University GSAPP"
+  },
+  "Q33102903": {
+   "name": "Dominique Jakob"
+  },
+  "Q33104729": {
+   "name": "Brendan Macfarlane"
+  },
+  "Q1707389": {
+   "name": "Manuel Herz",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Synagogue_Mainz_Exterior1.jpg/250px-Synagogue_Mainz_Exterior1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Synagogue_Mainz_Exterior1.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Mdhz"
+  },
+  "Q12765770": {
+   "name": "Ferdinand Milučký",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ferdinand_Milucky2.jpg/250px-Ferdinand_Milucky2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferdinand_Milucky2.jpg",
+   "license": "CC BY-SA 2.5",
+   "credit": "Ľubo Stacho"
+  },
+  "Q52063282": {
+   "name": "Ivano Gianola"
+  },
+  "Q1745306": {
+   "name": "Klaus Kada"
+  },
+  "Q2075421": {
+   "name": "Peter Haimerl",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Peter_Haimerl_2024.jpg/250px-Peter_Haimerl_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Peter_Haimerl_2024.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Amrei-Marie"
+  },
+  "Q42701739": {
+   "name": "Patricia Patkau"
+  },
+  "Q3779210": {
+   "name": "Guido Canella"
+  },
+  "Q1600051": {
+   "name": "Heinz Bienefeld",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/01Bienefeld.jpg/250px-01Bienefeld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:01Bienefeld.jpg",
+   "license": "CC BY-SA 3.0 de",
+   "credit": "© Thilo Mechau."
+  },
+  "Q516236": {
+   "name": "Dušan Džamonja"
+  },
+  "Q3573800": {
+   "name": "Yves Lion",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Lion-181207.JPG/250px-Lion-181207.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Lion-181207.JPG",
+   "license": "CC BY 3.0",
+   "credit": "Benjamin Lemaire"
+  },
+  "Q16371606": {
+   "name": "Artak Ghulyan",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Artak_Ghulyan-03.jpg/250px-Artak_Ghulyan-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Artak_Ghulyan-03.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Ghulyan"
+  },
+  "Q3531772": {
+   "name": "Tony Fretton"
+  },
+  "Q113219": {
+   "name": "Sergei Enwerowitsch Tchoban",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Tchoban%2C_Sergei_-NF_20181201_fRF01.jpg/250px-Tchoban%2C_Sergei_-NF_20181201_fRF01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Tchoban,_Sergei_-NF_20181201_fRF01.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Rodrigo Fernández"
+  },
+  "Q4245068": {
+   "name": "Sergey Kuznetsov",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2.jpg/250px-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Рустам Шагиморданов"
+  },
+  "Q68249": {
+   "name": "Camillo Karl Schneider"
+  },
+  "Q134373688": {
+   "name": "John J. Wade"
+  },
+  "Q15461245": {
+   "name": "John Gaw Meem"
+  },
+  "Q3418307": {
+   "name": "Ralph Thomas Walker"
+  },
+  "Q3163898": {
+   "name": "Louis Bourgeois",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Louis_Bourgeois_portrait.png/250px-Louis_Bourgeois_portrait.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Louis_Bourgeois_portrait.png",
+   "license": "Public domain",
+   "credit": "Anonymous"
+  },
+  "Q5539862": {
+   "name": "George Grant Elmslie"
+  },
+  "Q15461116": {
+   "name": "Walter W. Ahlschlager"
+  },
+  "Q923236": {
+   "name": "Pavel Janák",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Album_representant%C5%AF_v%C5%A1ech_obor%C5%AF_ve%C5%99ejn%C3%A9ho_%C5%BEivota_%C4%8Deskoslovensk%C3%A9ho_-_1927_-_Pavel_Jan%C3%A1k.jpeg/250px-Album_representant%C5%AF_v%C5%A1ech_obor%C5%AF_ve%C5%99ejn%C3%A9ho_%C5%BEivota_%C4%8Deskoslovensk%C3%A9ho_-_1927_-_Pavel_Jan%C3%A1k.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Album_representant%C5%AF_v%C5%A1ech_obor%C5%AF_ve%C5%99ejn%C3%A9ho_%C5%BEivota_%C4%8Deskoslovensk%C3%A9ho_-_1927_-_Pavel_Jan%C3%A1k.jpeg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Unknown author"
+  },
+  "Q506594": {
+   "name": "Jan Kotěra",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Jan_Kotera_1914_Bufka.png/250px-Jan_Kotera_1914_Bufka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Jan_Kotera_1914_Bufka.png",
+   "license": "Public domain",
+   "credit": "Vladimír Jindřich Bufka"
+  },
+  "Q3438604": {
+   "name": "Roger-Henri Expert"
+  },
+  "Q1223468": {
+   "name": "Dietmar Kuntzsch",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Dietmar_Kuntzsch_2016.jpg/250px-Dietmar_Kuntzsch_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Dietmar_Kuntzsch_2016.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "SpreeTom"
+  },
+  "Q11897921": {
+   "name": "Toivo Korhonen",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Toivo_Korhonen_1957.jpg/250px-Toivo_Korhonen_1957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Toivo_Korhonen_1957.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q11865499": {
+   "name": "Jaakko Laapotti"
+  },
+  "Q7113295": {
+   "name": "Ove Bang",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ove_Bang_fra_Stud_1913.jpg/250px-Ove_Bang_fra_Stud_1913.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ove_Bang_fra_Stud_1913.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q1781537": {
+   "name": "Erling Viksjø",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Erling_Viksj%C3%B8_URN_NBN_no-nb_digifoto_20190624_00650_NB_HS_59_01007_B.jpg/250px-Erling_Viksj%C3%B8_URN_NBN_no-nb_digifoto_20190624_00650_NB_HS_59_01007_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Erling_Viksj%C3%B8_URN_NBN_no-nb_digifoto_20190624_00650_NB_HS_59_01007_B.jpg",
+   "license": "Public domain",
+   "credit": "Henriksen & Steen / Nasjonalbiblioteket"
+  },
+  "Q1372873": {
+   "name": "Eugen Schmohl"
+  },
+  "Q1600413": {
+   "name": "Heinz Isler",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Deitingen_Sued_Raststaette%2C_Schalendach_01_09.jpg/250px-Deitingen_Sued_Raststaette%2C_Schalendach_01_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Deitingen_Sued_Raststaette,_Schalendach_01_09.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Хрюша"
+  },
+  "Q215596": {
+   "name": "Oskar Kaufmann"
+  },
+  "Q3246696": {
+   "name": "Hendrik Jesse"
+  },
+  "Q2118823": {
+   "name": "C. F. Møller"
+  },
+  "Q4834112": {
+   "name": "B. Marcus Priteca",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Portrait_of_B_Marcus_Priteca%2C_circa_1916_%28MOHAI_11006%29.jpg/250px-Portrait_of_B_Marcus_Priteca%2C_circa_1916_%28MOHAI_11006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_B_Marcus_Priteca,_circa_1916_(MOHAI_11006).jpg",
+   "license": "Public domain",
+   "credit": "Williams"
+  },
+  "Q1582296": {
+   "name": "Hans Schilling"
+  },
+  "Q12026778": {
+   "name": "Josef Zasche",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/37/Josef_Zasche_%281871-1957%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Josef_Zasche_(1871-1957).jpg",
+   "license": "Public domain",
+   "credit": "Anonymous"
+  },
+  "Q107075": {
+   "name": "Thilo Schoder",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tilo_Schoder_Portrait_copy.jpg/250px-Tilo_Schoder_Portrait_copy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Tilo_Schoder_Portrait_copy.jpg",
+   "license": "Public domain",
+   "credit": "Aenne Biermann"
+  },
+  "Q61927014": {
+   "name": "Myrto Vitart"
+  },
+  "Q20769422": {
+   "name": "Winfried Sziegoleit"
+  },
+  "Q1512026": {
+   "name": "Gerhard Landgraf"
+  },
+  "Q1699918": {
+   "name": "John Eberson",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Eberson_Head_1912.jpg/250px-Eberson_Head_1912.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Eberson_Head_1912.jpg",
+   "license": "Public domain",
+   "credit": "Chicago Daily Journal"
+  },
+  "Q55936802": {
+   "name": "Dietmar Grötzebach"
+  },
+  "Q94514148": {
+   "name": "Günter Plessow"
+  },
+  "Q2030244": {
+   "name": "Julius Luthmann",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Julius_Maria_Luthmann_door_Franz_Ziegler%2C_1938.jpg/250px-Julius_Maria_Luthmann_door_Franz_Ziegler%2C_1938.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Julius_Maria_Luthmann_door_Franz_Ziegler,_1938.jpg",
+   "license": "Public domain",
+   "credit": "Franz Ziegler"
+  },
+  "Q2642077": {
+   "name": "Alexander Ferenczy"
+  },
+  "Q20643094": {
+   "name": "James Gowan"
+  },
+  "Q106449": {
+   "name": "Carl Hocheder",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Professor_Karl_Hocheder%2C_1906.png/250px-Professor_Karl_Hocheder%2C_1906.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Professor_Karl_Hocheder,_1906.png",
+   "license": "Public domain",
+   "credit": "Aura Hertwig"
+  },
+  "Q12028252": {
+   "name": "Karel Honzík"
+  },
+  "Q3810136": {
+   "name": "Josef Havlíček",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Josef_Havl%C3%AD%C4%8Dek_%281899-1961%29.jpg/250px-Josef_Havl%C3%AD%C4%8Dek_%281899-1961%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Josef_Havl%C3%AD%C4%8Dek_(1899-1961).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q3156163": {
+   "name": "Ivan Nikolaev",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Nikolaev_I.S.jpg/250px-Nikolaev_I.S.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Nikolaev_I.S.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q6075134": {
+   "name": "Irwin T. Catharine"
+  },
+  "Q116922514": {
+   "name": "Werry Roth"
+  },
+  "Q18168553": {
+   "name": "Luigi Figini"
+  },
+  "Q2529326": {
+   "name": "Gino Pollini"
+  },
+  "Q61259": {
+   "name": "Theodor Fischer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Theodor-fischer-1933.jpg/250px-Theodor-fischer-1933.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Theodor-fischer-1933.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q2017903": {
+   "name": "Olaf Andreas Gulbransson"
+  },
+  "Q96364266": {
+   "name": "John H. Howe"
+  },
+  "Q6616173": {
+   "name": "William Wesley Peters",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/William_Wesley_Peters_%28cropped%29.jpg/250px-William_Wesley_Peters_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:William_Wesley_Peters_(cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Lily4116"
+  },
+  "Q55132733": {
+   "name": "Ernst Studer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/ETH-BIB-Studer%2C_Ernst_%281931-2001%29-Portr_11848.tif/lossy-page1-250px-ETH-BIB-Studer%2C_Ernst_%281931-2001%29-Portr_11848.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Studer,_Ernst_(1931-2001)-Portr_11848.tif",
+   "license": "CC BY-SA 4.0",
+   "credit": "Unbekannt"
+  },
+  "Q94486169": {
+   "name": "Detlef Schreiber"
+  },
+  "Q1608353": {
+   "name": "Herbert Groethuysen"
+  },
+  "Q1576084": {
+   "name": "Willy Kreuer"
+  },
+  "Q27667287": {
+   "name": "José Yarza García"
+  },
+  "Q2531349": {
+   "name": "Oriol Bohigas",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Oriol_Bohigas%2C_guardonat_amb_la_Medalla_d%27Or_de_la_Generalitat_de_Catalunya.jpg/250px-Oriol_Bohigas%2C_guardonat_amb_la_Medalla_d%27Or_de_la_Generalitat_de_Catalunya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Oriol_Bohigas,_guardonat_amb_la_Medalla_d%27Or_de_la_Generalitat_de_Catalunya.jpg",
+   "license": "Attribution",
+   "credit": "Generalitat de Catalunya"
+  },
+  "Q8049999": {
+   "name": "Yasuhisa Toyota"
+  },
+  "Q15452276": {
+   "name": "James Brown Lord"
+  },
+  "Q1066442": {
+   "name": "Charles Moore"
+  },
+  "Q18345509": {
+   "name": "Chad Floyd"
+  },
+  "Q1584616": {
+   "name": "Harald Loebermann"
+  },
+  "Q2595071": {
+   "name": "Wunibald Puchner",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Wunibald_Puchner.jpg/250px-Wunibald_Puchner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Wunibald_Puchner.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Manfred E. Fritsche"
+  },
+  "Q1889641": {
+   "name": "Manfred Lehmbruck"
+  },
+  "Q3382689": {
+   "name": "Pier Paolo Maggiora",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/11_maggiora.jpg/250px-11_maggiora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:11_maggiora.jpg",
+   "license": "Public domain",
+   "credit": "Fcotroneo"
+  },
+  "Q78819": {
+   "name": "Raimund Abraham"
+  },
+  "Q1821494": {
+   "name": "Gaston Eysselinck",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gaston_Eysselinck_Profiel.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Gaston_Eysselinck_Profiel.png",
+   "license": "CC BY-SA 3.0",
+   "credit": "Durieuxtje"
+  },
+  "Q1799987": {
+   "name": "Ladislaus Hruska"
+  },
+  "Q22957340": {
+   "name": "Kurt Schlauss"
+  },
+  "Q123654": {
+   "name": "Justus Dahinden",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Migros_Ostermundigen.jpg/250px-Migros_Ostermundigen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Migros_Ostermundigen.jpg",
+   "license": "Public domain",
+   "credit": "Docmo at German Wikipedia"
+  },
+  "Q67407": {
+   "name": "Max Littmann",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a2/1891_Hochzeit_Max_und_Ida_Littmann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:1891_Hochzeit_Max_und_Ida_Littmann.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q64104": {
+   "name": "Richard Riemerschmid"
+  },
+  "Q62260": {
+   "name": "Hermann Muthesius",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Hermann_Muthesius.jpg/250px-Hermann_Muthesius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Hermann_Muthesius.jpg",
+   "license": "Public domain",
+   "credit": "Nicola Perscheid"
+  },
+  "Q8014216": {
+   "name": "William L. Steele"
+  },
+  "Q77353": {
+   "name": "Fritz Schumacher",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Schumacher_Fritz_Radierung_Kalckreuth_1916.jpg/250px-Schumacher_Fritz_Radierung_Kalckreuth_1916.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Schumacher_Fritz_Radierung_Kalckreuth_1916.jpg",
+   "license": "Public domain",
+   "credit": "Leopold von Kalckreuth (1855-1928)"
+  },
+  "Q117646": {
+   "name": "Otto Rudolf Salvisberg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/ETH-BIB-Salvisberg%2C_Otto_Rudolf_%281882-1940%29-Portrait-Portr_00351.tif/lossy-page1-250px-ETH-BIB-Salvisberg%2C_Otto_Rudolf_%281882-1940%29-Portrait-Portr_00351.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Salvisberg,_Otto_Rudolf_(1882-1940)-Portrait-Portr_00351.tif",
+   "license": "Public domain",
+   "credit": "Unbekannt"
+  },
+  "Q5344370": {
+   "name": "Edward Maufe",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bust_of_Sir_Edward_Maufe_within_Guildford_Cathedral_-_geograph.org.uk_-_1152395.jpg/250px-Bust_of_Sir_Edward_Maufe_within_Guildford_Cathedral_-_geograph.org.uk_-_1152395.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Bust_of_Sir_Edward_Maufe_within_Guildford_Cathedral_-_geograph.org.uk_-_1152395.jpg",
+   "license": "CC BY-SA 2.0",
+   "credit": "Basher Eyre"
+  },
+  "Q5392643": {
+   "name": "Ernest A. Davidson"
+  },
+  "Q4285694": {
+   "name": "George W. Maher",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/GWMaher.jpg/250px-GWMaher.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:GWMaher.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q3121290": {
+   "name": "Gustave Perret"
+  },
+  "Q10770983": {
+   "name": "Alexander Neumann"
+  },
+  "Q15407034": {
+   "name": "Charles Lecoeur",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Charles_Le_Coeur.jpg/250px-Charles_Le_Coeur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Charles_Le_Coeur.jpg",
+   "license": "Public domain",
+   "credit": "Joseph-Auguste Rousselin"
+  },
+  "Q21596844": {
+   "name": "Karl Hans Neumann"
+  },
+  "Q12025677": {
+   "name": "Jiří Štursa"
+  },
+  "Q12028286": {
+   "name": "Karel Janů"
+  },
+  "Q512633": {
+   "name": "Jiří Kroha",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ji%C5%99%C3%AD_Kroha_%281893-1974%29.jpg/250px-Ji%C5%99%C3%AD_Kroha_%281893-1974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ji%C5%99%C3%AD_Kroha_(1893-1974).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q65651033": {
+   "name": "František Kalivoda"
+  },
+  "Q1145334": {
+   "name": "Curt Steinberg"
+  },
+  "Q940647": {
+   "name": "Cornelis van Eesteren",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Prof._C._van_Eesteren%2C_1949.jpg/250px-Prof._C._van_Eesteren%2C_1949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Prof._C._van_Eesteren,_1949.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q115483": {
+   "name": "Max Frisch",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/ETH-BIB-Max_Frisch-Com_C20-015-023-001.tif/lossy-page1-250px-ETH-BIB-Max_Frisch-Com_C20-015-023-001.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Max_Frisch-Com_C20-015-023-001.tif",
+   "license": "CC BY-SA 4.0",
+   "credit": "Comet Photo AG (Zürich)"
+  },
+  "Q125016": {
+   "name": "Gustav Ammann",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Gustav_Ammann.jpg/250px-Gustav_Ammann.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Gustav_Ammann.jpg",
+   "license": "Public domain",
+   "credit": "Werner Ammann"
+  },
+  "Q1289126": {
+   "name": "Eduard Lanz"
+  },
+  "Q111685865": {
+   "name": "Maurus Schifferli"
+  },
+  "Q109887": {
+   "name": "Theo Effenberger"
+  },
+  "Q102153": {
+   "name": "Heinrich Lauterbach"
+  },
+  "Q110801": {
+   "name": "Ludwig Moshamer"
+  },
+  "Q1556810": {
+   "name": "Paul Wolf"
+  },
+  "Q12322294": {
+   "name": "Knud Friis"
+  },
+  "Q816961": {
+   "name": "Benedikt Huber",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/ETH-BIB-Huber%2C_Benedikt_%281928-2019%29-Portr_09092.tif/lossy-page1-250px-ETH-BIB-Huber%2C_Benedikt_%281928-2019%29-Portr_09092.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Huber,_Benedikt_(1928-2019)-Portr_09092.tif",
+   "license": "CC BY-SA 4.0",
+   "credit": "Foto Beyeler (Zürich)"
+  },
+  "Q19290392": {
+   "name": "Emili Blanch i Roig",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/EmiliBlanchRoig_%28cropped%29.jpg/250px-EmiliBlanchRoig_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:EmiliBlanchRoig_(cropped).jpg",
+   "license": "CC BY 4.0",
+   "credit": "Fotografia Unal"
+  },
+  "Q3665378": {
+   "name": "Cesare Cattaneo",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cesare_Cattaneo.jpg/250px-Cesare_Cattaneo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Cesare_Cattaneo.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q1446854": {
+   "name": "Franz Füeg"
+  },
+  "Q1705041": {
+   "name": "Josef Kranz",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Josef_Kranz_%281901-1968%29.jpg/250px-Josef_Kranz_%281901-1968%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Josef_Kranz_(1901-1968).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q497017": {
+   "name": "Herbert Maier"
+  },
+  "Q5393109": {
+   "name": "Ernest George",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ernest_George_in_1919.jpg/250px-Ernest_George_in_1919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ernest_George_in_1919.jpg",
+   "license": "Public domain",
+   "credit": "Bassano Ltd"
+  },
+  "Q1527597": {
+   "name": "Richard Jörg"
+  },
+  "Q1187290": {
+   "name": "Denis Boniver"
+  },
+  "Q919838": {
+   "name": "Uno Åhrén",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Uno_Ahren_1930.jpg/250px-Uno_Ahren_1930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Uno_Ahren_1930.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q113221807": {
+   "name": "Giorgio Raineri",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Giorgio_Raineri.jpg/250px-Giorgio_Raineri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Giorgio_Raineri.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q1965216": {
+   "name": "Renaat Braem",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Belgi%C3%AB_-_Brussel_-_VUB_-_Rectoraat_-_01.jpg/250px-Belgi%C3%AB_-_Brussel_-_VUB_-_Rectoraat_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Belgi%C3%AB_-_Brussel_-_VUB_-_Rectoraat_-_01.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "EmDee"
+  },
+  "Q117124": {
+   "name": "Jean Tschumi",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Jean_Tschumi.jpg/250px-Jean_Tschumi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Jean_Tschumi.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Pierre Izard"
+  },
+  "Q95246": {
+   "name": "Konrad Wachsmann"
+  },
+  "Q1705096": {
+   "name": "Josef Lackner"
+  },
+  "Q3751310": {
+   "name": "Kristian Gullichsen"
+  },
+  "Q3261311": {
+   "name": "Louis Bonnier",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bonnier%2C_Louis_%28phot._Braun%2C_Cl%C3%A9ment_%26_Cie%29.jpg/250px-Bonnier%2C_Louis_%28phot._Braun%2C_Cl%C3%A9ment_%26_Cie%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Bonnier,_Louis_(phot._Braun,_Cl%C3%A9ment_%26_Cie).jpg",
+   "license": "Public domain",
+   "credit": "Braun, Clément & Cie"
+  },
+  "Q65617331": {
+   "name": "Otakar Pokorný"
+  },
+  "Q1960200": {
+   "name": "Jan Boterenbrood",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Portret_van_Jan_Boterenbrood.jpg/250px-Portret_van_Jan_Boterenbrood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Jan_Boterenbrood.jpg",
+   "license": "Public domain",
+   "credit": "Anoniem"
+  },
+  "Q1237220": {
+   "name": "Ico Parisi"
+  },
+  "Q56009807": {
+   "name": "Silvio Longhi",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1954%29_-_BEIC_6365747.jpg/250px-Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1954%29_-_BEIC_6365747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Milano,_1954)_-_BEIC_6365747.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Paolo Monti"
+  },
+  "Q97698": {
+   "name": "Hubert Ritter",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/StadtAL_0563_BA_2018_45399.jpg/250px-StadtAL_0563_BA_2018_45399.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:StadtAL_0563_BA_2018_45399.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Hofatelier Hoenisch, Leipzig"
+  },
+  "Q561531": {
+   "name": "Baillie Scott",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Photo_-_Mackay_Hugh_Baillie_Scott.jpg/250px-Photo_-_Mackay_Hugh_Baillie_Scott.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Photo_-_Mackay_Hugh_Baillie_Scott.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q11870577": {
+   "name": "Kauno Kallio"
+  },
+  "Q3349981": {
+   "name": "Oiva Kallio"
+  },
+  "Q22826541": {
+   "name": "Alexandre Persitz"
+  },
+  "Q22211462": {
+   "name": "Arthur-Georges Héaume"
+  },
+  "Q91823": {
+   "name": "German Bestelmeyer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/German_Bestelmeyer_%281874-1942%29.jpg/250px-German_Bestelmeyer_%281874-1942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:German_Bestelmeyer_(1874-1942).jpg",
+   "license": "Public domain",
+   "credit": "James Aurig (1857-1935)"
+  },
+  "Q12032553": {
+   "name": "Ladislav Machoň",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ladislav_Macho%C5%88_%281888-1973%29.jpg/250px-Ladislav_Macho%C5%88_%281888-1973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Ladislav_Macho%C5%88_(1888-1973).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q708333": {
+   "name": "Mart Stam",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Mart_Stam_1920.jpg/250px-Mart_Stam_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Mart_Stam_1920.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q17335123": {
+   "name": "Otto Rothmayer"
+  },
+  "Q1394309": {
+   "name": "Robert van 't Hoff",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Robert_van_%27t_Hoff.jpg/250px-Robert_van_%27t_Hoff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Robert_van_%27t_Hoff.jpg",
+   "license": "Public domain",
+   "credit": "Anonymous"
+  },
+  "Q3262581": {
+   "name": "Louis Madeline",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Carte_manuscrite_de_Louis_Madeline.jpg/250px-Carte_manuscrite_de_Louis_Madeline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Carte_manuscrite_de_Louis_Madeline.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Trois-Chênes-Coupés"
+  },
+  "Q6217777": {
+   "name": "John A. Lankford",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/John_A_Lankford.png/250px-John_A_Lankford.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:John_A_Lankford.png",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q72148": {
+   "name": "Adolf Rading"
+  },
+  "Q458816": {
+   "name": "Oskar Schlemmer",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Oskar_Schlemmer_by_Hugo_Erfurth%2C_1920.jpg/250px-Oskar_Schlemmer_by_Hugo_Erfurth%2C_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Oskar_Schlemmer_by_Hugo_Erfurth,_1920.jpg",
+   "license": "Public domain",
+   "credit": "Hugo Erfurth"
+  },
+  "Q1186865": {
+   "name": "Tatsuno Kingo",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Tatsuno_Kingo.jpg/250px-Tatsuno_Kingo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Tatsuno_Kingo.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q8050094": {
+   "name": "Yasushi Kataoka",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Kataoka_Yasushi.jpg/250px-Kataoka_Yasushi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Kataoka_Yasushi.jpg",
+   "license": "Public domain",
+   "credit": "Unknown photographer"
+  },
+  "Q77380": {
+   "name": "Johann Friedrich Höger",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Fritz-hoeger-in-menschen-der-zeit-s103.jpg/250px-Fritz-hoeger-in-menschen-der-zeit-s103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Fritz-hoeger-in-menschen-der-zeit-s103.jpg",
+   "license": "Public domain",
+   "credit": "Max Halberstadt (1882-1940)"
+  },
+  "Q13104151": {
+   "name": "Michel Mousel"
+  },
+  "Q16440346": {
+   "name": "Gaston Witry"
+  },
+  "Q41064267": {
+   "name": "William Edward Willink"
+  },
+  "Q41064763": {
+   "name": "Philip Coldwell Thicknesse"
+  },
+  "Q4799294": {
+   "name": "Arthur Joseph Davis",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Arthur_Joseph_Davis.jpg/250px-Arthur_Joseph_Davis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Arthur_Joseph_Davis.jpg",
+   "license": "Public domain",
+   "credit": "Henry Walter Barnett"
+  },
+  "Q77382": {
+   "name": "Martin Haller",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Allers%2C_Christian_Wilhelm_-_Rathausbaumeister_Detail_Martin_Haller_-_Hamburger_Kunsthalle.jpg/250px-Allers%2C_Christian_Wilhelm_-_Rathausbaumeister_Detail_Martin_Haller_-_Hamburger_Kunsthalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Allers,_Christian_Wilhelm_-_Rathausbaumeister_Detail_Martin_Haller_-_Hamburger_Kunsthalle.jpg",
+   "license": "Public domain",
+   "credit": "Christian Wilhelm Allers"
+  },
+  "Q11385051": {
+   "name": "Shōichi Sano"
+  },
+  "Q2831314": {
+   "name": "Albert Laprade"
+  },
+  "Q125699": {
+   "name": "Bernhard Pfau"
+  },
+  "Q63191": {
+   "name": "Heinrich Tessenow",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Heinrich_Tessenow.jpg/250px-Heinrich_Tessenow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Heinrich_Tessenow.jpg",
+   "license": "CC BY 4.0",
+   "credit": "Derbrauni"
+  },
+  "Q105170777": {
+   "name": "Carlo Jelkmann"
+  },
+  "Q3830437": {
+   "name": "Leonardo Savioli",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Leonardo_Savioli_1940.jpg/250px-Leonardo_Savioli_1940.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Leonardo_Savioli_1940.jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q1819108": {
+   "name": "Leonardo Ricci"
+  },
+  "Q21651762": {
+   "name": "Giuseppe Giorgio Gori"
+  },
+  "Q128064265": {
+   "name": "Enzo Gori"
+  },
+  "Q206087": {
+   "name": "Jaroslav Fragner",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Fragner_1960s.jpg/250px-Fragner_1960s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Fragner_1960s.jpg",
+   "license": "CC BY-SA 3.0 cz",
+   "credit": "Anonymous"
+  },
+  "Q1305843": {
+   "name": "Johannes Spalt"
+  },
+  "Q105417674": {
+   "name": "Hélio Lage Uchôa Cavalcanti"
+  },
+  "Q125220376": {
+   "name": "Ewald Bubner"
+  },
+  "Q1045671": {
+   "name": "Carsten Schröck"
+  },
+  "Q4920452": {
+   "name": "Cees Dam",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Cees_Dam.jpg/250px-Cees_Dam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Cees_Dam.jpg",
+   "license": "CC BY-SA 3.0 nl",
+   "credit": "Gerrits, Roland / Anefo"
+  },
+  "Q11866862": {
+   "name": "Jonas Cedercreutz"
+  },
+  "Q100502858": {
+   "name": "Igor Franić"
+  },
+  "Q1891703": {
+   "name": "Manuel Schupp"
+  },
+  "Q1228499": {
+   "name": "Peter Kulka"
+  },
+  "Q42716654": {
+   "name": "Paul Linder"
+  },
+  "Q120914491": {
+   "name": "Ernst Rentsch"
+  },
+  "Q18575538": {
+   "name": "Abraham Elzas",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Abraham_Elzas.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Abraham_Elzas.png",
+   "license": "CC BY-SA 3.0",
+   "credit": "Polygoon Hollands Nieuws"
+  },
+  "Q1270804": {
+   "name": "John Hejduk",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/HejdukPrague1991.jpg/250px-HejdukPrague1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:HejdukPrague1991.jpg",
+   "license": "CC0",
+   "credit": "Gampe"
+  },
+  "Q95172018": {
+   "name": "Karl Winter"
+  },
+  "Q8962183": {
+   "name": "Francesc Guàrdia i Vial"
+  },
+  "Q8194962": {
+   "name": "Alexandre Soler i March"
+  },
+  "Q8776280": {
+   "name": "Enric Viedma i Vidal"
+  },
+  "Q109016402": {
+   "name": "Ángel Romaní Verdeguer"
+  },
+  "Q71438740": {
+   "name": "Espen Surnevik"
+  },
+  "Q9359419": {
+   "name": "Tomasz Konior",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Tomasz_Konior.jpg/250px-Tomasz_Konior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Tomasz_Konior.jpg",
+   "license": "CC BY 2.5",
+   "credit": "fot. Bohdan Lisowski"
+  },
+  "Q3094088": {
+   "name": "Gabriele Tagliaventi"
+  },
+  "Q2655644": {
+   "name": "Lars Spuybroek",
+   "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Lars_Spuybroek.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "source": "https://commons.wikimedia.org/wiki/File:Lars_Spuybroek.png",
+   "license": "CC BY-SA 4.0",
+   "credit": "Larry Knox"
+  },
+  "Q16551324": {
+   "name": "Edoardo Milesi",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Edoardo_Milesi_portrait.jpg/250px-Edoardo_Milesi_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Edoardo_Milesi_portrait.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Ikanlive"
+  },
+  "Q103283068": {
+   "name": "Juan Coll Barreu"
+  },
+  "Q16031767": {
+   "name": "Henry Irwin"
+  },
+  "Q304412": {
+   "name": "Narisara Nuwattiwong",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Naritsaranuwattiwong_-_001.jpg/250px-Naritsaranuwattiwong_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Naritsaranuwattiwong_-_001.jpg",
+   "license": "Public domain",
+   "credit": "ไม่ทราบ. Unknown."
+  },
+  "Q99410760": {
+   "name": "Awad Kamil Fahmy"
+  },
+  "Q99410882": {
+   "name": "Selim Kamil Fahmy"
+  },
+  "Q3170239": {
+   "name": "Jean-Émile Resplandy"
+  },
+  "Q2526242": {
+   "name": "Thomas Karsten",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Herman_Thomas_Karsten_-_Onze_Hoogleeraren_%281898%29.jpg/250px-Herman_Thomas_Karsten_-_Onze_Hoogleeraren_%281898%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Herman_Thomas_Karsten_-_Onze_Hoogleeraren_(1898).jpg",
+   "license": "Public domain",
+   "credit": "Unknown author"
+  },
+  "Q4841840": {
+   "name": "Baghdasar Arzoumanian",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/BaghdasarArzoumanian.jpg/250px-BaghdasarArzoumanian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:BaghdasarArzoumanian.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Ashot Arzumanyan"
+  },
+  "Q5483405": {
+   "name": "Francesco Gianotti"
+  },
+  "Q13141553": {
+   "name": "Gaston Rossi"
+  },
+  "Q16004863": {
+   "name": "Refugio Reyes Rivas",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Retrato_de_Refugio_Reyes_en_su_tumba_en_el_Pante%C3%B3n_de_la_Cruz.jpg/250px-Retrato_de_Refugio_Reyes_en_su_tumba_en_el_Pante%C3%B3n_de_la_Cruz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Refugio_Reyes_en_su_tumba_en_el_Pante%C3%B3n_de_la_Cruz.jpg",
+   "license": "CC BY-SA 3.0",
+   "credit": "Luisalvaz"
+  },
+  "Q24287659": {
+   "name": "Alberto Cruz Montt",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Restauraci%C3%B3n_Palacio_Arizt%C3%ADa_%2811710062014%29.jpg/250px-Restauraci%C3%B3n_Palacio_Arizt%C3%ADa_%2811710062014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Restauraci%C3%B3n_Palacio_Arizt%C3%ADa_(11710062014).jpg",
+   "license": "CC BY 2.0",
+   "credit": "Gobierno de Chile"
+  },
+  "Q11177246": {
+   "name": "Ricardo Larraín Bravo"
+  },
+  "Q6944447": {
+   "name": "Muzharul Islam",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Muzharul_Islam.jpg/250px-Muzharul_Islam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "source": "https://commons.wikimedia.org/wiki/File:Muzharul_Islam.jpg",
+   "license": "CC BY-SA 4.0",
+   "credit": "Sarbjit Bahga"
   }
  },
  "buildings": {
@@ -8176,6 +9581,11 @@ window.ARCHITECTS = {
   ],
   "trellick-tower": [
    "Q655293"
+  ],
+  "barbican-estate": [
+   "Q18810728",
+   "Q16008345",
+   "Q18832970"
   ],
   "sydney-opera-house": [
    "Q180398"
@@ -8635,6 +10045,10 @@ window.ARCHITECTS = {
   "kuwait-national-assembly": [
    "Q180398"
   ],
+  "tietgenkollegiet": [
+   "Q6522397",
+   "Q17165537"
+  ],
   "reichstag": [
    "Q104898"
   ],
@@ -8653,6 +10067,10 @@ window.ARCHITECTS = {
   ],
   "stockholm-public-library": [
    "Q312070"
+  ],
+  "mercedes-benz-museum": [
+   "Q565390",
+   "Q547004"
   ],
   "mountain-dwellings": [
    "Q429817"
@@ -8712,6 +10130,11 @@ window.ARCHITECTS = {
   "maison-de-verre": [
    "Q1888111",
    "Q822308"
+  ],
+  "barbican-centre": [
+   "Q18810728",
+   "Q16008345",
+   "Q18832970"
   ],
   "hilversum-town-hall": [
    "Q560756"
@@ -9094,6 +10517,7 @@ window.ARCHITECTS = {
   ],
   "van-nelle-factory": [
    "Q1812135",
+   "Q962993",
    "manual:Van der Vlugt"
   ],
   "zonnestraal-sanatorium": [
@@ -9302,6 +10726,13 @@ window.ARCHITECTS = {
    "manual:Pierre de Meuron",
    "manual:de Meuron"
   ],
+  "library-of-birmingham": [
+   "manual:Francine Houben",
+   "Q119819797",
+   "Q124869258",
+   "Q586951",
+   "Q114779542"
+  ],
   "doha-tower": [
    "Q214317"
   ],
@@ -9488,6 +10919,10 @@ window.ARCHITECTS = {
   ],
   "imperial-war-museum-north": [
    "Q154538"
+  ],
+  "royal-danish-playhouse": [
+   "Q6522397",
+   "Q17165537"
   ],
   "v-a-dundee": [
    "Q725462"
@@ -9823,6 +11258,9 @@ window.ARCHITECTS = {
    "Q4792693"
   ],
   "esplanade-theatres-on-the-bay": [
+   "manual:William Lim Siew Wai",
+   "Q65685745",
+   "Q6425867",
    "Q326737"
   ],
   "aceh-tsunami-museum": [
@@ -9936,6 +11374,13 @@ window.ARCHITECTS = {
    "manual:Jacob van Rijs",
    "Q469961"
   ],
+  "national-kaohsiung-center-for-the-arts": [
+   "manual:Francine Houben",
+   "Q119819797",
+   "Q124869258",
+   "Q586951",
+   "Q114779542"
+  ],
   "gulshan-society-mosque": [
    "Q6374223"
   ],
@@ -10033,6 +11478,10 @@ window.ARCHITECTS = {
   ],
   "parkroyal-collection-pickering": [
    "manual:WOHA"
+  ],
+  "gardens-by-the-bay-cooled-conservatories": [
+   "Q23680660",
+   "Q19957748"
   ],
   "kuala-lumpur-international-airport": [
    "Q358502"
@@ -10197,6 +11646,13 @@ window.ARCHITECTS = {
   "nanjing-international-youth-cultural-centre": [
    "Q47780",
    "manual:Zaha Hadid"
+  ],
+  "montevideo": [
+   "manual:Francine Houben",
+   "Q119819797",
+   "Q124869258",
+   "Q586951",
+   "Q114779542"
   ],
   "convention-centre-dublin": [
    "Q332610",
@@ -11613,6 +13069,10 @@ window.ARCHITECTS = {
   "asilo-sant-elia": [
    "Q458653"
   ],
+  "agora-theatre": [
+   "Q565390",
+   "Q547004"
+  ],
   "nantes-courthouse": [
    "Q214317"
   ],
@@ -11969,6 +13429,9 @@ window.ARCHITECTS = {
   "transparent-factory": [
    "Q91407"
   ],
+  "louise-weiss-building-european-parliament": [
+   "Q125245477"
+  ],
   "gehry-tower": [
    "Q180374"
   ],
@@ -12119,6 +13582,9 @@ window.ARCHITECTS = {
   ],
   "hypo-haus": [
    "Q94763652"
+  ],
+  "notre-dame-de-l-arche-d-alliance": [
+   "Q125245477"
   ],
   "gosplan-garage": [
    "Q930"
@@ -12450,7 +13916,10 @@ window.ARCHITECTS = {
    "Q2196637"
   ],
   "national-stadium-singapore": [
-   "Q717683"
+   "Q717683",
+   "manual:William Lim Siew Wai",
+   "Q65685745",
+   "Q6425867"
   ],
   "vietnam-national-convention-center": [
    "Q76846",
@@ -12648,8 +14117,7 @@ window.ARCHITECTS = {
    "Q312827"
   ],
   "leicester-university-engineering-building": [
-   "Q159619",
-   "Q20643094"
+   "Q159619"
   ],
   "los-manantiales-restaurant": [
    "Q704609"
@@ -12675,6 +14143,10 @@ window.ARCHITECTS = {
    "Q64412",
    "manual:Frei Otto",
    "Q1041680"
+  ],
+  "nantes-school-of-architecture": [
+   "manual:Anne Lacaton",
+   "Q18285075"
   ],
   "neviges-pilgrimage-church": [
    "Q76841"
@@ -12790,6 +14262,8 @@ window.ARCHITECTS = {
    "Q6374223"
   ],
   "grand-parc-bordeaux-transformation": [
+   "manual:Anne Lacaton",
+   "Q18285075",
    "Q15407458"
   ],
   "hotakubo-housing": [
@@ -13022,6 +14496,10 @@ window.ARCHITECTS = {
   "flower-tower": [
    "Q3579849"
   ],
+  "cap-ferret-house": [
+   "manual:Anne Lacaton",
+   "Q18285075"
+  ],
   "opera-de-lyon": [
    "Q214317"
   ],
@@ -13084,6 +14562,7 @@ window.ARCHITECTS = {
    "Q122363"
   ],
   "22-parkside": [
+   "manual:Richard Rogers",
    "Q39171828"
   ],
   "casa-kalmann": [
@@ -13180,14 +14659,14 @@ window.ARCHITECTS = {
   "konstantinidis-weekend-house-anavyssos": [
    "Q663351"
   ],
+  "onassis-stegi": [
+   "Q125245477"
+  ],
   "agios-dimitrios-circular-school": [
    "Q455547"
   ],
   "4x4-house": [
    "Q208220"
-  ],
-  "sky-house": [
-   "Q1352623"
   ],
   "tower-of-winds": [
    "Q333585"
@@ -13252,6 +14731,10 @@ window.ARCHITECTS = {
   ],
   "glass-house-jeju": [
    "Q208220"
+  ],
+  "galleria-department-store-seoul": [
+   "Q565390",
+   "Q547004"
   ],
   "snu-museum-of-art": [
    "Q232364"
@@ -13446,6 +14929,10 @@ window.ARCHITECTS = {
    "Q704609",
    "Q1703838"
   ],
+  "frac-nord-pas-de-calais": [
+   "manual:Anne Lacaton",
+   "Q18285075"
+  ],
   "cdg-terminal-1": [
    "Q381827"
   ],
@@ -13610,6 +15097,10 @@ window.ARCHITECTS = {
   "netherlands-embassy-berlin": [
    "Q232364"
   ],
+  "musac": [
+   "manual:Luis Moreno Mansilla",
+   "Q2944065"
+  ],
   "banco-borges-e-irmao": [
    "manual:Álvaro Siza"
   ],
@@ -13630,6 +15121,10 @@ window.ARCHITECTS = {
   ],
   "rivesaltes-memorial": [
    "Q2811177"
+  ],
+  "kannikegarden-ribe": [
+   "Q6522397",
+   "Q17165537"
   ],
   "saw-swee-hock-student-centre": [
    "Q7493124",
@@ -13700,8 +15195,16 @@ window.ARCHITECTS = {
   "san-antonio-central-library": [
    "Q732502"
   ],
+  "gateshead-millennium-bridge": [
+   "Q23680660",
+   "Q19957748"
+  ],
   "arquipelago-contemporary-arts-centre": [
    "Q10311883"
+  ],
+  "lille-langebro": [
+   "Q23680660",
+   "Q19957748"
   ],
   "ring-of-remembrance": [
    "Q18528550"
@@ -13834,10 +15337,13 @@ window.ARCHITECTS = {
   ],
   "sonneveld-house": [
    "Q1812135",
+   "Q962993",
    "manual:Van der Vlugt"
   ],
   "bergpolderflat": [
    "Q4771266",
+   "Q1812135",
+   "Q962993",
    "manual:Van der Vlugt"
   ],
   "kiefhoek": [
@@ -14493,9 +15999,6 @@ window.ARCHITECTS = {
   "prince-kyoto-takaragaike": [
    "Q7813199"
   ],
-  "hotel-tokoen": [
-   "Q1352623"
-  ],
   "shiroiya-hotel": [
    "Q3133614"
   ],
@@ -14687,9 +16190,6 @@ window.ARCHITECTS = {
   "water-moon-monastery": [
    "Q6437314"
   ],
-  "shaanxi-history-museum": [
-   "Q9085791"
-  ],
   "1000-trees-shanghai": [
    "Q3051023"
   ],
@@ -14731,6 +16231,14 @@ window.ARCHITECTS = {
   ],
   "forbidden-city": [
    "Q10513613"
+  ],
+  "prime-tower": [
+   "manual:Annette Gigon",
+   "Q95287182"
+  ],
+  "kirchner-museum-davos": [
+   "manual:Annette Gigon",
+   "Q95287182"
   ],
   "german-maritime-museum": [
    "Q57481"
@@ -14874,6 +16382,10 @@ window.ARCHITECTS = {
    "Q12220731",
    "Q433192"
   ],
+  "museum-liner-appenzell": [
+   "manual:Annette Gigon",
+   "Q95287182"
+  ],
   "torre-bbva-madrid": [
    "Q2450186"
   ],
@@ -14894,6 +16406,18 @@ window.ARCHITECTS = {
   ],
   "museo-memoria-andalucia": [
    "Q2247482"
+  ],
+  "gallery-royal-collections": [
+   "manual:Luis Moreno Mansilla",
+   "Q2944065"
+  ],
+  "museu-belles-arts-castello": [
+   "manual:Luis Moreno Mansilla",
+   "Q2944065"
+  ],
+  "auditorio-ciudad-de-leon": [
+   "manual:Luis Moreno Mansilla",
+   "Q2944065"
   ],
   "torre-woermann": [
    "Q23901166"
@@ -15350,6 +16874,11 @@ window.ARCHITECTS = {
   "central-hall-university-of-york": [
    "Q3658496"
   ],
+  "golden-lane-estate": [
+   "Q18810728",
+   "Q16008345",
+   "Q18832970"
+  ],
   "bevin-court": [
    "Q827997",
    "Q5482465"
@@ -15458,7 +16987,9 @@ window.ARCHITECTS = {
    "Q19958267"
   ],
   "weston-library-oxford": [
-   "Q1524274"
+   "Q1524274",
+   "Q23680660",
+   "Q19957748"
   ],
   "manchester-civil-justice-centre": [
    "Q124872233",
@@ -15910,7 +17441,8 @@ window.ARCHITECTS = {
    "manual:Helmut Swiczinsky"
   ],
   "erasmus-bridge-rotterdam": [
-   "Q565390"
+   "Q565390",
+   "Q547004"
   ],
   "kunstmuseum-den-haag": [
    "Q318816"
@@ -16128,7 +17660,10 @@ window.ARCHITECTS = {
    "Q220944"
   ],
   "singapore-flyer": [
-   "Q358502"
+   "Q358502",
+   "manual:William Lim Siew Wai",
+   "Q65685745",
+   "Q6425867"
   ],
   "stadium-merdeka": [
    "Q18086534"
@@ -17022,6 +18557,13 @@ window.ARCHITECTS = {
   "shanghai-library-east": [
    "Q93433882"
   ],
+  "tainan-main-public-library": [
+   "manual:Francine Houben",
+   "Q119819797",
+   "Q124869258",
+   "Q586951",
+   "Q114779542"
+  ],
   "national-theater-and-concert-hall-taipei": [
    "Q8048378"
   ],
@@ -17256,9 +18798,6 @@ window.ARCHITECTS = {
   "edmund-barton-building-canberra": [
    "Q85669"
   ],
-  "centenary-pool-complex-brisbane": [
-   "Q6129804"
-  ],
   "capita-centre-sydney": [
    "Q85669"
   ],
@@ -17288,7 +18827,8 @@ window.ARCHITECTS = {
    "Q707020"
   ],
   "valkhof-museum-nijmegen": [
-   "Q565390"
+   "Q565390",
+   "Q547004"
   ],
   "royal-shakespeare-theatre-stratford": [
    "Q5361548"
@@ -17338,9 +18878,6 @@ window.ARCHITECTS = {
   ],
   "wieskirche": [
    "Q77383"
-  ],
-  "koelnturm": [
-   "Q214317"
   ],
   "solarsiedlung-freiburg": [
    "Q97135"
@@ -17593,6 +19130,2127 @@ window.ARCHITECTS = {
   ],
   "church-of-the-holy-spirit": [
    "Q82840"
+  ],
+  "brooklyn-museum": [
+   "manual:McKim, Mead",
+   "Q657848",
+   "manual:William Rutherford Mead",
+   "manual:Stanford White"
+  ],
+  "westminster-cathedral": [
+   "Q3809275"
+  ],
+  "flatiron-building": [
+   "Q316639",
+   "Q5498500"
+  ],
+  "akita-museum-of-art": [
+   "Q208220"
+  ],
+  "military-cathedral-of-st-mary-queen-of-peace-brasilia": [
+   "Q134165"
+  ],
+  "stephanuskirche-wolfsburg": [
+   "Q82840"
+  ],
+  "asian-art-museum-nice": [
+   "Q3084443",
+   "Q151794"
+  ],
+  "shimane-museum-of-ancient-izumo": [
+   "Q312827"
+  ],
+  "jiyu-gakuen-girls-school": [
+   "Q5604",
+   "Q2859562"
+  ],
+  "yodoko-guest-house": [
+   "Q5604",
+   "Q2859562"
+  ],
+  "museum-of-popular-arts-of-paraiba": [
+   "Q134165"
+  ],
+  "pettit-memorial-chapel": [
+   "Q5604"
+  ],
+  "itatiaia-building": [
+   "Q134165"
+  ],
+  "samuel-freeman-house": [
+   "Q5604"
+  ],
+  "a-d-german-warehouse": [
+   "Q5604"
+  ],
+  "one-charles-center": [
+   "Q41508"
+  ],
+  "david-and-gladys-wright-house": [
+   "Q5604"
+  ],
+  "frederick-c-bogk-house": [
+   "Q5604"
+  ],
+  "zlota-44": [
+   "Q154538"
+  ],
+  "2-columbus-circle": [
+   "Q3048508"
+  ],
+  "holy-trinity-orthodox-cathedral-chicago": [
+   "Q243240"
+  ],
+  "national-museum-of-modern-art-tokyo": [
+   "Q10856322",
+   "Q129938"
+  ],
+  "saint-denis-pleyel-station": [
+   "Q725462"
+  ],
+  "fukui-prefectural-dinosaur-museum": [
+   "Q358502"
+  ],
+  "torre-realia-bcn": [
+   "Q333585"
+  ],
+  "nagasaki-museum-of-history-and-culture": [
+   "Q358502"
+  ],
+  "kreeger-museum": [
+   "Q183528"
+  ],
+  "saka-no-ue-no-kumo-museum": [
+   "Q208220"
+  ],
+  "onomichi-city-museum-of-art": [
+   "Q208220"
+  ],
+  "hochhaus-neue-donau": [
+   "Q85669"
+  ],
+  "ito-toren": [
+   "Q333585"
+  ],
+  "toki-messe": [
+   "Q312827"
+  ],
+  "mrs-clinton-walker-house": [
+   "Q5604"
+  ],
+  "museum-reinhard-ernst": [
+   "Q312827"
+  ],
+  "richard-king-mellon-hall": [
+   "Q41508"
+  ],
+  "torre-picasso": [
+   "Q347215"
+  ],
+  "exelon-pavilions": [
+   "Q190148"
+  ],
+  "winslow-house-river-forest-illinois": [
+   "Q5604"
+  ],
+  "villa-tammekann": [
+   "Q82840"
+  ],
+  "bigo-genoa": [
+   "Q190148"
+  ],
+  "brasilia-digital-tv-tower": [
+   "Q134165"
+  ],
+  "central-saint-giles": [
+   "Q190148"
+  ],
+  "cleveland-clinic-lou-ruvo-center-for-brain-health": [
+   "Q180374"
+  ],
+  "thomas-h-gale-house": [
+   "Q5604"
+  ],
+  "gunma-insect-world": [
+   "Q208220"
+  ],
+  "centro-internacional-de-ferias-y-congresos-de-tenerife": [
+   "Q168482"
+  ],
+  "kimmel-center-for-the-performing-arts": [
+   "Q952826"
+  ],
+  "guell-pavilions": [
+   "Q25328"
+  ],
+  "albany-city-hall": [
+   "Q723234"
+  ],
+  "pavilion-of-human-passions": [
+   "Q49744"
+  ],
+  "miyazaki-prefectural-museum-of-nature-and-history": [
+   "Q388272"
+  ],
+  "400-west-market": [
+   "Q183528",
+   "Q5590225"
+  ],
+  "curve-theatre": [
+   "Q952826"
+  ],
+  "hagia-sophia-hurrem-sultan-bathhouse": [
+   "Q5600"
+  ],
+  "trinity-church-boston": [
+   "Q723234"
+  ],
+  "juma-jami-mosque": [
+   "Q5600"
+  ],
+  "sokollu-mehmed-pasha-mosque-kadirga": [
+   "Q5600"
+  ],
+  "zal-mahmud-pasha-mosque": [
+   "Q5600"
+  ],
+  "atik-valide-mosque": [
+   "Q5600"
+  ],
+  "osman-shah-mosque": [
+   "Q5600"
+  ],
+  "mihrimah-sultan-mosque-uskudar": [
+   "Q5600"
+  ],
+  "sinan-pasha-mosque-istanbul": [
+   "Q5600"
+  ],
+  "kilic-ali-pasha-complex": [
+   "Q5600"
+  ],
+  "semsi-pasha-mosque": [
+   "Q5600"
+  ],
+  "molla-celebi-mosque": [
+   "Q5600"
+  ],
+  "kara-ahmed-pasha-mosque": [
+   "Q5600"
+  ],
+  "piyale-pasha-mosque": [
+   "Q5600"
+  ],
+  "sokollu-mehmed-pasha-mosque-azapkapi": [
+   "Q5600"
+  ],
+  "hadim-ibrahim-pasha-mosque": [
+   "Q5600"
+  ],
+  "muradiye-mosque-manisa": [
+   "Q5600"
+  ],
+  "banya-bashi-mosque": [
+   "Q5600"
+  ],
+  "casa-vicens": [
+   "Q25328"
+  ],
+  "city-gate": [
+   "Q190148"
+  ],
+  "st-nicholas-greek-orthodox-church": [
+   "Q168482"
+  ],
+  "hotel-solvay": [
+   "Q49744"
+  ],
+  "university-of-science-and-technology-houari-boumediene": [
+   "Q134165"
+  ],
+  "hajji-ahmed-the-ducat-minters-mosque": [
+   "Q5600"
+  ],
+  "ennis-house": [
+   "Q5604"
+  ],
+  "muradie-mosque": [
+   "Q5600"
+  ],
+  "sokollu-mehmed-pasha-mosque-luleburgaz": [
+   "Q5600"
+  ],
+  "wells-fargo-center": [
+   "Q309483"
+  ],
+  "pertev-pasa-mosque": [
+   "Q5600"
+  ],
+  "lumbracle": [
+   "Q168482"
+  ],
+  "425-park-avenue": [
+   "Q104898"
+  ],
+  "frank-lloyd-wright-home-and-studio": [
+   "Q5604"
+  ],
+  "gazi-hajdar-kadi-mosque": [
+   "Q5600"
+  ],
+  "artigas-gardens": [
+   "Q25328"
+  ],
+  "seyh-celebi-mosque": [
+   "Q5600"
+  ],
+  "yahya-bey-mosque": [
+   "Q5600"
+  ],
+  "palacio-do-jaburu": [
+   "Q134165"
+  ],
+  "omniturm": [
+   "Q429817"
+  ],
+  "aalto-center": [
+   "Q82840"
+  ],
+  "suleymaniye-hamam": [
+   "Q5600"
+  ],
+  "toyota-city-museum": [
+   "Q526725"
+  ],
+  "buen-kulturhus": [
+   "Q6408718",
+   "Q12315512",
+   "Q124361485"
+  ],
+  "otaniemi-water-tower": [
+   "Q82840"
+  ],
+  "annunciation-greek-orthodox-church": [
+   "Q5604"
+  ],
+  "cultural-complex-of-the-republic": [
+   "Q134165"
+  ],
+  "martin-ryerson-tomb": [
+   "Q243240"
+  ],
+  "willits-house": [
+   "Q5604"
+  ],
+  "stanislav-range-front-light": [
+   "Q313210"
+  ],
+  "waldspirale": [
+   "Q151836"
+  ],
+  "kuchlbauer-tower": [
+   "Q88916",
+   "Q151836"
+  ],
+  "palacio-taranco": [
+   "Q1064558"
+  ],
+  "carolina-rediviva": [
+   "Q6196720"
+  ],
+  "malmo-opera": [
+   "Q550245",
+   "Q1174709",
+   "Q355908"
+  ],
+  "leo-burnett-building": [
+   "Q332610",
+   "manual:Kevin Roche"
+  ],
+  "new-synagogue-zilina": [
+   "Q76726"
+  ],
+  "hotel-otlet": [
+   "Q2464916"
+  ],
+  "castle-of-the-three-dragons": [
+   "Q317876"
+  ],
+  "castle-drogo": [
+   "Q378157"
+  ],
+  "cajasol-tower": [
+   "Q309483"
+  ],
+  "rottweil-elevator-test-tower": [
+   "Q77311",
+   "Q70696"
+  ],
+  "academy-of-fine-arts-vienna": [
+   "Q78638"
+  ],
+  "accenture-tower": [
+   "Q77311"
+  ],
+  "winter-garden-atrium": [
+   "Q309483"
+  ],
+  "osaka-maritime-museum": [
+   "Q381827"
+  ],
+  "agoudas-hakehilos-synagogue": [
+   "Q316422"
+  ],
+  "international-building": [
+   "Q745903"
+  ],
+  "auditorium-conciliazione": [
+   "Q1382978",
+   "Q3765328"
+  ],
+  "landakotskirkja": [
+   "Q1238310"
+  ],
+  "the-cenotaph": [
+   "Q378157"
+  ],
+  "tel-aviv-performing-arts-center": [
+   "Q4393880"
+  ],
+  "osaka-museum-of-history": [
+   "Q309483"
+  ],
+  "haus-des-lehrers": [
+   "Q66490"
+  ],
+  "louwman-museum": [
+   "Q314636"
+  ],
+  "steiner-house": [
+   "Q44323"
+  ],
+  "palazzo-dello-strozzino": [
+   "Q309736",
+   "Q716519"
+  ],
+  "kino-babylon": [
+   "Q76734",
+   "manual:Hans Poelzig"
+  ],
+  "taliesin": [
+   "Q5604"
+  ],
+  "casa-lleo-morera": [
+   "Q317876"
+  ],
+  "deutschmeister-palais": [
+   "Q78638"
+  ],
+  "india-house": [
+   "Q382771"
+  ],
+  "st-bartholomews-episcopal-church": [
+   "Q325325",
+   "manual:McKim, Mead",
+   "Q657848",
+   "manual:William Rutherford Mead",
+   "manual:Stanford White"
+  ],
+  "cecil-h-green-library": [
+   "Q4798105"
+  ],
+  "heliotrope-building": [
+   "Q97135"
+  ],
+  "kotelnicheskaya-embankment-building": [
+   "Q1232630"
+  ],
+  "kudrinskaya-square-building": [
+   "Q4374109",
+   "Q4298777"
+  ],
+  "scharinska-villan": [
+   "Q944344"
+  ],
+  "war-memorial-opera-house": [
+   "Q4798105",
+   "Q5512120"
+  ],
+  "ainola": [
+   "Q937984"
+  ],
+  "museum-of-human-evolution": [
+   "Q601339"
+  ],
+  "museum-of-art-architecture-and-technology": [
+   "Q440786"
+  ],
+  "karaite-kenesa-kyiv": [
+   "Q1364361"
+  ],
+  "aschanska-villa": [
+   "Q944344"
+  ],
+  "didrichsen-art-museum": [
+   "Q937566"
+  ],
+  "air-force-command-building-belgrade": [
+   "Q1273105"
+  ],
+  "jinpukaku": [
+   "Q898689"
+  ],
+  "banovina-palace-novi-sad": [
+   "Q1273105"
+  ],
+  "aichi-prefectural-ceramic-museum": [
+   "Q10856322"
+  ],
+  "altes-stadthaus-berlin": [
+   "Q71886",
+   "manual:Ludwig Hoffmann"
+  ],
+  "forum-groningen": [
+   "Q117472636"
+  ],
+  "pagode-de-vincennes": [
+   "Q3260590"
+  ],
+  "d-coque": [
+   "Q1372175"
+  ],
+  "planetario-di-milano": [
+   "Q3903340",
+   "Q31033707"
+  ],
+  "saskatchewan-legislative-building": [
+   "Q446349",
+   "Q3048602"
+  ],
+  "prinkipo-greek-orthodox-orphanage": [
+   "Q2834105"
+  ],
+  "neuer-marstall": [
+   "Q315281"
+  ],
+  "nuevos-ministerios": [
+   "Q3321038"
+  ],
+  "35-east-wacker": [
+   "Q11978655",
+   "Q5498500"
+  ],
+  "building-of-the-yugoslavian-legation-in-berlin": [
+   "Q66359"
+  ],
+  "headquarters-of-the-bank-of-the-argentine-nation": [
+   "Q4714498"
+  ],
+  "rosecliff": [
+   "manual:McKim, Mead",
+   "Q657848",
+   "manual:William Rutherford Mead",
+   "manual:Stanford White"
+  ],
+  "fox-theatre-detroit": [
+   "Q5006523"
+  ],
+  "hansahochhaus": [
+   "Q1677555"
+  ],
+  "oakland-city-hall": [
+   "Q5723245"
+  ],
+  "london-coliseum": [
+   "Q1443739"
+  ],
+  "copenhagen-city-hall": [
+   "Q4572758"
+  ],
+  "waldemarsudde": [
+   "Q959104"
+  ],
+  "bolshoy-dom": [
+   "Q528703",
+   "Q4134687"
+  ],
+  "rosenbad": [
+   "Q959104"
+  ],
+  "leighton-house": [
+   "Q5536105"
+  ],
+  "palau-nacional": [
+   "Q8776025",
+   "Q8960483",
+   "Q2070359"
+  ],
+  "gothenburg-city-theatre": [
+   "Q737050"
+  ],
+  "ethnographic-museum-zagreb": [
+   "Q7938107"
+  ],
+  "russian-army-theatre": [
+   "Q2470897",
+   "Q4419543",
+   "Q4078766"
+  ],
+  "musee-d-art-contemporain-du-val-de-marne": [
+   "Q125268335",
+   "Q3159879"
+  ],
+  "tsiolkovsky-state-museum-of-the-history-of-cosmonautics": [
+   "Q4078766",
+   "Q18131023"
+  ],
+  "allen-memorial-art-museum": [
+   "Q464603"
+  ],
+  "kramars-villa": [
+   "Q79113"
+  ],
+  "hospital-clinico-san-carlos": [
+   "Q3391825",
+   "Q517006"
+  ],
+  "new-city-hall-prague": [
+   "Q7108033"
+  ],
+  "tournay-abbey": [
+   "Q3119860"
+  ],
+  "filoli": [
+   "Q8022098"
+  ],
+  "novi-sad-synagogue": [
+   "Q791512"
+  ],
+  "lucenec-synagogue": [
+   "Q791512"
+  ],
+  "historical-museum-of-the-palatinate": [
+   "Q86955"
+  ],
+  "new-mexico-museum-of-art": [
+   "Q3154765"
+  ],
+  "hawaii-state-capitol": [
+   "Q6225150"
+  ],
+  "desert-view-watchtower": [
+   "Q523888"
+  ],
+  "painted-desert-inn": [
+   "Q6707889"
+  ],
+  "old-faithful-inn": [
+   "Q7349191"
+  ],
+  "museum-yamato-bunkakan": [
+   "Q3155639"
+  ],
+  "urasoe-art-museum": [
+   "Q11393855"
+  ],
+  "vatroslav-lisinski-concert-hall": [
+   "Q4494378"
+  ],
+  "janacek-theatre": [
+   "Q1682336",
+   "Q84497433",
+   "Q84554948",
+   "Q59914364"
+  ],
+  "house-on-the-embankment": [
+   "Q167816"
+  ],
+  "de-doelen": [
+   "Q29654762"
+  ],
+  "palacio-de-congresos-madrid": [
+   "Q29022117"
+  ],
+  "siida-museum": [
+   "Q1711547"
+  ],
+  "bush-house": [
+   "Q5677699"
+  ],
+  "waino-aaltonen-museum-of-art": [
+   "Q11881532",
+   "Q35271040"
+  ],
+  "royal-armouries-museum": [
+   "Q5262427"
+  ],
+  "ohara-museum-of-art": [
+   "Q11622447"
+  ],
+  "monona-terrace": [
+   "Q5604"
+  ],
+  "torre-de-cristal": [
+   "Q309483"
+  ],
+  "minnaert-building": [
+   "Q2019359",
+   "Q16195770"
+  ],
+  "casa-rozes": [
+   "Q953734"
+  ],
+  "kitakyushu-international-conference-center": [
+   "Q317135"
+  ],
+  "valladolid-science-museum": [
+   "Q311692"
+  ],
+  "fresno-city-hall": [
+   "Q268732"
+  ],
+  "100-eleventh-avenue": [
+   "Q214317"
+  ],
+  "zenith-de-lille": [
+   "Q232364"
+  ],
+  "golden-angel": [
+   "Q214317"
+  ],
+  "he-art-museum": [
+   "Q208220"
+  ],
+  "le-consortium": [
+   "Q526725"
+  ],
+  "frist-campus-center": [
+   "Q212312"
+  ],
+  "el-palauet": [
+   "Q317135"
+  ],
+  "the-museum-for-wood-culture": [
+   "Q208220"
+  ],
+  "paraninfo-de-la-universidad-del-pais-vasco": [
+   "Q251365"
+  ],
+  "himeji-city-museum-of-literature": [
+   "Q208220"
+  ],
+  "kfw-westarkade": [
+   "Q15456533",
+   "Q4955176"
+  ],
+  "muritzeum": [
+   "Q597639"
+  ],
+  "przedszkole-bundestagu": [
+   "Q79166"
+  ],
+  "fukuoka-camera-museum": [
+   "Q208220"
+  ],
+  "centro-cultural-de-viana-do-castelo": [
+   "Q312831"
+  ],
+  "centre-ceramique": [
+   "Q829991"
+  ],
+  "ken-iwata-mother-and-child-museum": [
+   "Q333585"
+  ],
+  "residenze-hadid": [
+   "Q47780",
+   "manual:Zaha Hadid"
+  ],
+  "campus-palmas-altas-sevilla": [
+   "Q237412",
+   "manual:Richard Rogers"
+  ],
+  "hagi-uragami-museum": [
+   "Q151794"
+  ],
+  "ciudad-bbva": [
+   "Q2745982",
+   "manual:Pierre de Meuron",
+   "manual:de Meuron"
+  ],
+  "tateyama-museum-of-toyama": [
+   "Q317135"
+  ],
+  "nakaya-ukichiro-museum-of-snow-and-ice": [
+   "Q317135"
+  ],
+  "lafayette-anticipations-galeries-lafayette-corporate-foundation": [
+   "Q232364",
+   "Q5483055"
+  ],
+  "maison-de-l-ordre-des-avocats": [
+   "Q190148"
+  ],
+  "toyama-international-conference-center": [
+   "Q312827"
+  ],
+  "campus-einaudi": [
+   "Q104898"
+  ],
+  "1101-new-york-avenue": [
+   "Q332610",
+   "manual:Kevin Roche"
+  ],
+  "nagano-city-arts-center": [
+   "Q312827"
+  ],
+  "finnish-forest-museum-lusto": [
+   "Q7284827",
+   "Q11864630"
+  ],
+  "caja-magica": [
+   "Q504358"
+  ],
+  "onikuru": [
+   "Q333585"
+  ],
+  "skylight": [
+   "Q237412",
+   "manual:Richard Rogers"
+  ],
+  "de-citadel": [
+   "Q312838"
+  ],
+  "chihiro-art-museum-azumino": [
+   "Q11394499"
+  ],
+  "pabellon-de-la-navegacion": [
+   "Q3779648"
+  ],
+  "yaoko-kawagoe-museum": [
+   "Q333585"
+  ],
+  "the-frances-young-tang-teaching-museum-and-art-gallery": [
+   "Q360394"
+  ],
+  "musik-und-kongresshalle-lubeck": [
+   "Q76846"
+  ],
+  "taisha-urara-kan-cultural-hall": [
+   "Q333585"
+  ],
+  "kaustinen-folk-arts-centre": [
+   "Q7284827"
+  ],
+  "church-of-st-basil-of-ostrog-belgrade": [
+   "Q2945453"
+  ],
+  "ishikawa-nanao-art-museum": [
+   "Q11393855"
+  ],
+  "dia-beacon": [
+   "Q7345814",
+   "Q5518546"
+  ],
+  "cite-de-la-mode-et-du-design": [
+   "Q33102903",
+   "Q33104729"
+  ],
+  "new-synagogue-mainz": [
+   "Q1707389"
+  ],
+  "ardmore-residence": [
+   "Q565390"
+  ],
+  "paulinum-university-of-leipzig": [
+   "Q586951"
+  ],
+  "atchugarry-museum-of-contemporary-art": [
+   "Q1043127"
+  ],
+  "spiral-house": [
+   "Q231371"
+  ],
+  "beit-avi-chai": [
+   "Q4678270"
+  ],
+  "pantanal-aquarium": [
+   "Q1797462"
+  ],
+  "klosterneuburg-protestant-church": [
+   "Q90504"
+  ],
+  "memorial-luiz-carlos-prestes": [
+   "Q134165"
+  ],
+  "crematorium-bratislava": [
+   "Q12765770"
+  ],
+  "lugano-arte-e-cultura": [
+   "Q52063282"
+  ],
+  "stc-group": [
+   "Q2019359",
+   "Q16195770"
+  ],
+  "festspielhaus-st-polten": [
+   "Q1745306"
+  ],
+  "konzerthaus-blaibach": [
+   "Q2075421"
+  ],
+  "canadian-clay-and-glass-gallery": [
+   "Q42701739"
+  ],
+  "san-riccardo-pampuri-church": [
+   "Q3779210"
+  ],
+  "st-katharina-von-siena": [
+   "Q1600051"
+  ],
+  "mosque-of-rijeka": [
+   "Q516236"
+  ],
+  "bibliotheque-universitaire-des-langues-et-civilisations": [
+   "Q3573800"
+  ],
+  "armenian-cathedral-of-moscow": [
+   "Q16371606"
+  ],
+  "fuglsang-art-museum": [
+   "Q3531772"
+  ],
+  "museum-for-architectural-drawing": [
+   "Q113219",
+   "Q4245068"
+  ],
+  "aaltoalvari": [
+   "Q82840"
+  ],
+  "seinajoki-city-theatre": [
+   "Q82840",
+   "Q2628666"
+  ],
+  "norman-lykes-house": [
+   "Q5604"
+  ],
+  "dudley-spencer-house": [
+   "Q5604"
+  ],
+  "bellevue-arts-museum": [
+   "Q451141"
+  ],
+  "haus-hohe-pappeln": [
+   "Q154083"
+  ],
+  "bryce-canyon-lodge": [
+   "Q2687160"
+  ],
+  "americanization-school": [
+   "Q3154610"
+  ],
+  "casa-delle-armi": [
+   "Q1876230"
+  ],
+  "orchestra-hall": [
+   "Q5006523"
+  ],
+  "pfarrkirche-allerheiligen-innsbruck": [
+   "Q84902"
+  ],
+  "pfarrkirche-pertisau": [
+   "Q84902"
+  ],
+  "kabelwerk-dr-cassirer": [
+   "Q76734",
+   "manual:Hans Poelzig"
+  ],
+  "villa-of-viktor-bauer": [
+   "Q44323"
+  ],
+  "olaf-gulbransson-museum-tegernsee": [
+   "Q101791"
+  ],
+  "huis-hillebrand": [
+   "Q160435"
+  ],
+  "volksbadhuis-hilversum": [
+   "Q560756"
+  ],
+  "landhaus-bejach": [
+   "Q76730"
+  ],
+  "villa-snellman": [
+   "Q312070"
+  ],
+  "raadhuis-van-usquert": [
+   "Q318816"
+  ],
+  "cal-passani": [
+   "Q925005"
+  ],
+  "casa-ximenis": [
+   "Q925005"
+  ],
+  "villa-gans": [
+   "Q76726",
+   "Q68249"
+  ],
+  "haus-scheu": [
+   "Q44323"
+  ],
+  "66-old-church-street-chelsea": [
+   "Q61071",
+   "Q3199944"
+  ],
+  "haus-auerbach": [
+   "Q61071",
+   "Q62629"
+  ],
+  "haus-riehl": [
+   "Q41508"
+  ],
+  "eiffel-building": [
+   "Q134165"
+  ],
+  "buffalo-city-hall": [
+   "Q134373688"
+  ],
+  "jonson-gallery": [
+   "Q15461245"
+  ],
+  "stadthalle-hannover": [
+   "Q67612",
+   "Q1459031"
+  ],
+  "asilomar-conference-grounds": [
+   "Q601820"
+  ],
+  "villa-urbig": [
+   "Q41508"
+  ],
+  "vakantiehuisjes-rietveld": [
+   "Q160435"
+  ],
+  "palazzo-degli-affari": [
+   "Q378757"
+  ],
+  "stillman-house-i": [
+   "Q57588"
+  ],
+  "st-fronleichnam": [
+   "Q76841"
+  ],
+  "barclayvesey-building": [
+   "Q3418307"
+  ],
+  "bahai-house-of-worship": [
+   "Q3163898"
+  ],
+  "old-scripps-building": [
+   "Q3154610"
+  ],
+  "harold-c-bradley-house": [
+   "Q243240",
+   "Q5539862"
+  ],
+  "villa-sturegarden": [
+   "Q312070"
+  ],
+  "dum-obuvi-bata-liberec": [
+   "Q3504112"
+  ],
+  "house-of-agricultural-education": [
+   "Q764794"
+  ],
+  "church-of-peace-lobtau": [
+   "Q62322"
+  ],
+  "offenbarungskirche": [
+   "Q62322"
+  ],
+  "bethanienkirche-frankfurt-am-main": [
+   "Q62322"
+  ],
+  "alfa-palace": [
+   "Q253145"
+  ],
+  "ruderzentrum-blasewitz": [
+   "Q1571656"
+  ],
+  "villa-of-bohuslav-fuchs": [
+   "Q253145"
+  ],
+  "villa-haas": [
+   "Q382789"
+  ],
+  "hyogo-prefectural-museum-of-history": [
+   "Q151794"
+  ],
+  "carew-tower": [
+   "Q15461116"
+  ],
+  "pardubice-crematorium": [
+   "Q923236"
+  ],
+  "national-house-prostejov": [
+   "Q506594"
+  ],
+  "eglise-sainte-therese-de-lenfant-jesus-de-metz": [
+   "Q3438604"
+  ],
+  "dortmund-city-and-state-library": [
+   "Q122363"
+  ],
+  "sassnitz-bandshell": [
+   "Q1223468",
+   "Q1571656"
+  ],
+  "cine-brasilia": [
+   "Q134165"
+  ],
+  "lauritsala-church": [
+   "Q11897921",
+   "Q11865499"
+  ],
+  "bakkehaugen-church": [
+   "Q7113295",
+   "Q1781537"
+  ],
+  "ullsteinhaus": [
+   "Q1372873"
+  ],
+  "naturtheater-grotzingen": [
+   "Q1600413"
+  ],
+  "renaissance-theater": [
+   "Q215596"
+  ],
+  "villa-allegonda": [
+   "Q3246696",
+   "Q470588"
+  ],
+  "aon-center": [
+   "Q2903394"
+  ],
+  "33-thomas-street": [
+   "Q6225150"
+  ],
+  "norfolk-scope": [
+   "Q313528"
+  ],
+  "la-spezia-cathedral": [
+   "Q348036"
+  ],
+  "vestersohus": [
+   "Q984344",
+   "Q2118823"
+  ],
+  "stadsschouwburg-nijmegen": [
+   "Q822308"
+  ],
+  "casa-rotalinti": [
+   "Q117481"
+  ],
+  "stelling-house": [
+   "Q273572"
+  ],
+  "jingliao-holy-cross-church": [
+   "Q76841"
+  ],
+  "coliseum-theater": [
+   "Q4834112"
+  ],
+  "neu-st-alban": [
+   "Q1582296"
+  ],
+  "adria-palace": [
+   "Q923236",
+   "Q12026778"
+  ],
+  "vila-franze-strosse": [
+   "Q107075"
+  ],
+  "lescaze-house": [
+   "Q550725"
+  ],
+  "international-conference-center-hiroshima": [
+   "Q151794"
+  ],
+  "onyx-theater": [
+   "Q214317",
+   "Q61927014"
+  ],
+  "rundkino-dresden": [
+   "Q20769422",
+   "Q1512026"
+  ],
+  "olympia-theater-miami": [
+   "Q1699918"
+  ],
+  "apostel-johannes-gemeindezentrum": [
+   "Q55936802",
+   "Q94514148"
+  ],
+  "gebouw-a-radio-kootwijk": [
+   "Q2030244"
+  ],
+  "john-sowden-house": [
+   "Q1866958"
+  ],
+  "lake-quinault-lodge": [
+   "Q7349191"
+  ],
+  "mercado-de-abastos": [
+   "Q3391825",
+   "Q517006"
+  ],
+  "bauerova-vila": [
+   "Q764794"
+  ],
+  "grosses-haus-gluckert": [
+   "Q44911"
+  ],
+  "stichweh-wohnhaus": [
+   "Q61071"
+  ],
+  "vila-tychonova-4": [
+   "Q764794"
+  ],
+  "villa-kenwin": [
+   "Q66490",
+   "Q2642077"
+  ],
+  "chiesa-dei-santi-pietro-e-girolamo": [
+   "Q984203"
+  ],
+  "palazzo-delle-poste": [
+   "Q535532"
+  ],
+  "langham-house-close": [
+   "Q159619",
+   "Q20643094"
+  ],
+  "wrva-building": [
+   "Q183528"
+  ],
+  "mullersches-volksbad": [
+   "Q106449"
+  ],
+  "dum-radost": [
+   "Q12028252",
+   "Q3810136"
+  ],
+  "communal-house-of-the-textile-institute": [
+   "Q3156163"
+  ],
+  "scholes-hall": [
+   "Q15461245"
+  ],
+  "joseph-h-brown-elementary-school": [
+   "Q6075134"
+  ],
+  "hochhaus-wurttembergische-strasse-6": [
+   "Q116922514"
+  ],
+  "chiesa-dei-santi-giovanni-e-paolo": [
+   "Q18168553",
+   "Q2529326"
+  ],
+  "brno-crematorium": [
+   "Q382789"
+  ],
+  "villa-neumark": [
+   "Q382789"
+  ],
+  "villa-pavlicek": [
+   "Q253145"
+  ],
+  "lukaskirche-worms": [
+   "Q62322"
+  ],
+  "schonberg-tower": [
+   "Q61259"
+  ],
+  "dominus-flevit-church": [
+   "Q2566960"
+  ],
+  "versohnungskirche-ulm": [
+   "Q2017903"
+  ],
+  "villa-skeppet": [
+   "Q82840"
+  ],
+  "duey-and-julia-wright-house": [
+   "Q5604",
+   "Q96364266"
+  ],
+  "e-clarke-and-julia-arnold-house": [
+   "Q5604",
+   "Q96364266"
+  ],
+  "theodore-baird-residence": [
+   "Q5604",
+   "Q6616173"
+  ],
+  "jyvaskyla-defence-corps-building": [
+   "Q82840"
+  ],
+  "gnadenkirche": [
+   "Q62322"
+  ],
+  "luthernotkirche": [
+   "Q62322"
+  ],
+  "palacio-de-exposiciones-y-congresos-ciudad-de-oviedo": [
+   "Q168482"
+  ],
+  "gregoriuskerk": [
+   "Q76841"
+  ],
+  "kunstgebaude-stuttgart": [
+   "Q61259"
+  ],
+  "suchardova-vila": [
+   "Q506594"
+  ],
+  "koterova-vila": [
+   "Q506594"
+  ],
+  "palace-theatre-marion-ohio": [
+   "Q1699918"
+  ],
+  "kratochvilova-vila": [
+   "Q506594"
+  ],
+  "mozarteum": [
+   "Q506594"
+  ],
+  "alte-heide": [
+   "Q61259"
+  ],
+  "villa-janak": [
+   "Q923236"
+  ],
+  "st-maria-konigin": [
+   "Q76841"
+  ],
+  "st-johannes-der-taufer": [
+   "Q76841"
+  ],
+  "collegiate-church-of-st-martin": [
+   "Q55132733"
+  ],
+  "st-mauritius": [
+   "Q94486169",
+   "Q1608353"
+  ],
+  "st-ansgar-kirche": [
+   "Q1576084"
+  ],
+  "teatro-fleta": [
+   "Q27667287"
+  ],
+  "can-guardiola": [
+   "Q2531349"
+  ],
+  "santuari-de-la-mare-de-deu-de-montserrat": [
+   "Q925005"
+  ],
+  "la-jolla-recreational-center": [
+   "Q3154610"
+  ],
+  "pfullinger-hallen": [
+   "Q61259"
+  ],
+  "akiyoshidai-international-art-village": [
+   "Q317135"
+  ],
+  "shanghai-symphony-hall": [
+   "Q317135",
+   "Q8049999"
+  ],
+  "yorkville-library": [
+   "Q15452276"
+  ],
+  "hood-museum-of-art": [
+   "Q1066442",
+   "Q18345509"
+  ],
+  "meistersingerhalle": [
+   "Q1584616",
+   "Q2595071"
+  ],
+  "reuchlinhaus": [
+   "Q1889641"
+  ],
+  "esglesia-del-sagrat-cor-de-vistabella": [
+   "Q925005"
+  ],
+  "villa-kudela": [
+   "Q1682336"
+  ],
+  "blue-pavilion": [
+   "Q214317"
+  ],
+  "shikoku-mura-gallery": [
+   "Q208220"
+  ],
+  "palazzo-del-nuoto": [
+   "Q317135",
+   "Q3382689"
+  ],
+  "house-dellacher": [
+   "Q78819"
+  ],
+  "postgebouw-van-oostende": [
+   "Q1821494"
+  ],
+  "matzleinsdorfer-hochhaus": [
+   "Q1799987",
+   "Q22957340"
+  ],
+  "kirche-st-antonius": [
+   "Q123654"
+  ],
+  "konigliche-anatomie": [
+   "Q67407"
+  ],
+  "villa-carl-feldafing": [
+   "Q64104"
+  ],
+  "haus-freudenberg": [
+   "Q62260"
+  ],
+  "sioux-city-public-library-smith-villa-branch": [
+   "Q8014216"
+  ],
+  "fritz-schumacher-schule": [
+   "Q77353"
+  ],
+  "gemeindehaus-der-matthausgemeinde": [
+   "Q117646"
+  ],
+  "cenotaph-for-the-a-bomb-victims": [
+   "Q151794"
+  ],
+  "fine-arts-center-massachusetts": [
+   "Q332610",
+   "manual:Kevin Roche"
+  ],
+  "guildford-cathedral": [
+   "Q5344370"
+  ],
+  "longmire-buildings": [
+   "Q5392643"
+  ],
+  "gary-bathing-beach-aquatorium": [
+   "Q4285694"
+  ],
+  "vadso-church": [
+   "Q4584894"
+  ],
+  "orthodox-church-of-the-annunciation-in-malczyce": [
+   "Q76734",
+   "manual:Hans Poelzig"
+  ],
+  "chapelle-des-franciscains-d-arcueil": [
+   "Q381978",
+   "Q3121290"
+  ],
+  "khovo-lar": [
+   "Q7130356"
+  ],
+  "sackler-wing": [
+   "Q332610",
+   "manual:Kevin Roche"
+  ],
+  "st-hildegardis": [
+   "Q76841"
+  ],
+  "villa-low-beer": [
+   "Q10770983"
+  ],
+  "opera-de-vichy": [
+   "Q15407034"
+  ],
+  "bruder-klaus-kirche": [
+   "Q21596844"
+  ],
+  "volmanova-vila": [
+   "Q12025677",
+   "Q12028286"
+  ],
+  "villa-kroha": [
+   "Q512633"
+  ],
+  "villa-patocka": [
+   "Q512633"
+  ],
+  "villa-psota": [
+   "Q65651033"
+  ],
+  "dorfkirche-kunersdorf": [
+   "Q1145334"
+  ],
+  "van-zessen-house": [
+   "Q940647"
+  ],
+  "freibad-letzigraben": [
+   "Q115483",
+   "Q125016"
+  ],
+  "volkshaus-biel": [
+   "Q1289126"
+  ],
+  "strandbad-biel": [
+   "Q111685865"
+  ],
+  "wuwa-building-no-26-27": [
+   "Q109887"
+  ],
+  "wuwa-building-no-35": [
+   "Q102153"
+  ],
+  "wuwa-building-no-37": [
+   "Q110801"
+  ],
+  "sachsenbad": [
+   "Q1556810"
+  ],
+  "hojen-13": [
+   "Q12322294"
+  ],
+  "thomaskirche-basel": [
+   "Q816961"
+  ],
+  "casa-blanch": [
+   "Q19290392"
+  ],
+  "casa-cattaneo": [
+   "Q3665378"
+  ],
+  "piuskirche": [
+   "Q1446854"
+  ],
+  "villa-kranz": [
+   "Q1705041"
+  ],
+  "edward-p-evans-hall": [
+   "Q104898"
+  ],
+  "madison-museum": [
+   "Q497017"
+  ],
+  "olveston-historic-home": [
+   "Q5393109"
+  ],
+  "catholic-church-of-the-holy-cross-mainz": [
+   "Q1527597"
+  ],
+  "auferstehungskirche-bonn": [
+   "Q1187290"
+  ],
+  "skogskapellet": [
+   "Q312070"
+  ],
+  "nymble": [
+   "Q526888",
+   "Q919838"
+  ],
+  "gb-cooley-house": [
+   "Q559852"
+  ],
+  "las-palmas": [
+   "manual:Jo van den Broek",
+   "manual:Jaap Bakema"
+  ],
+  "bj-ricker-house": [
+   "Q559852"
+  ],
+  "palazzo-della-borsa-valori-di-torino": [
+   "Q3938821",
+   "Q3607116",
+   "Q113221807"
+  ],
+  "finnish-pavilion-venice-biennale": [
+   "Q82840"
+  ],
+  "renaat-braem-house": [
+   "Q1965216"
+  ],
+  "administrative-building-of-nestle-sa": [
+   "Q117124"
+  ],
+  "einsteinhaus-caputh": [
+   "Q95246"
+  ],
+  "emmaus-church-vols": [
+   "Q1705096"
+  ],
+  "kauniainen-church": [
+   "Q3751310"
+  ],
+  "butte-aux-cailles-swimming-pool": [
+   "Q3261311"
+  ],
+  "villa-bonnier": [
+   "Q944344"
+  ],
+  "bernard-schwartz-house": [
+   "Q5604"
+  ],
+  "goetsch-winckler-house": [
+   "Q5604"
+  ],
+  "robert-m-lamp-house": [
+   "Q5604"
+  ],
+  "thomas-p-hardy-house": [
+   "Q5604"
+  ],
+  "student-union-building-ilokivi": [
+   "Q82840"
+  ],
+  "sport-and-health-sciences-department-building": [
+   "Q82840"
+  ],
+  "proxima": [
+   "Q82840"
+  ],
+  "hiram-c-stewart-house": [
+   "Q4285694"
+  ],
+  "building-of-east-bohemian-museum": [
+   "Q506594",
+   "Q65617331"
+  ],
+  "granville-d-jones-house": [
+   "Q4285694"
+  ],
+  "king-nash-house": [
+   "Q4285694"
+  ],
+  "nature-spa-takarazuka": [
+   "Q208220"
+  ],
+  "huize-lydia": [
+   "Q1960200"
+  ],
+  "parco-sempione-library": [
+   "Q1237220",
+   "Q56009807"
+  ],
+  "st-wenceslas-church-vrsovice": [
+   "Q764794"
+  ],
+  "st-franziskus": [
+   "Q1582296"
+  ],
+  "rundling-leipzig": [
+   "Q97698"
+  ],
+  "blackwell-arts-and-crafts-house": [
+   "Q561531"
+  ],
+  "st-lazarus-roman-catholic-church-al-eizariya": [
+   "Q2566960"
+  ],
+  "st-michael-s-church-crna-vas": [
+   "Q314886"
+  ],
+  "villa-kampen": [
+   "Q3316607"
+  ],
+  "maestranza-cesar-giron": [
+   "Q1043186"
+  ],
+  "tampere-theatre": [
+   "Q11870577",
+   "Q3349981"
+  ],
+  "synagogue-don-isaac-abravanel": [
+   "Q22826541",
+   "Q22211462"
+  ],
+  "kalmar-konstmuseum": [
+   "manual:Tham & Videgård",
+   "Q6206771",
+   "Q6224737"
+  ],
+  "gebaude-der-reichsschuldenverwaltung": [
+   "Q91823"
+  ],
+  "spiskova-vila": [
+   "Q12032553"
+  ],
+  "villa-palicka": [
+   "Q708333"
+  ],
+  "villa-rothmayer": [
+   "Q17335123"
+  ],
+  "villa-van-t-hoff": [
+   "Q1394309"
+  ],
+  "piscine-judaique-jean-boiteux": [
+   "Q3262581"
+  ],
+  "chappelle-administration-building": [
+   "Q6217777"
+  ],
+  "haus-rabe": [
+   "Q72148",
+   "Q458816"
+  ],
+  "fukuoka-city-akarenga-cultural-center": [
+   "Q1186865",
+   "Q8050094"
+  ],
+  "kirche-am-hohenzollernplatz": [
+   "Q216516",
+   "Q77380"
+  ],
+  "finnish-nature-center-haltia": [
+   "Q7284827"
+  ],
+  "alcide-de-gasperi-building": [
+   "Q13104151",
+   "Q16440346"
+  ],
+  "cunard-building": [
+   "Q41064267",
+   "Q41064763",
+   "Q4799294"
+  ],
+  "laeiszhalle": [
+   "Q77382"
+  ],
+  "suntory-hall": [
+   "Q11385051"
+  ],
+  "palais-de-la-porte-doree": [
+   "Q2831314"
+  ],
+  "anthonie-van-dijckstraat-4-amsterdam": [
+   "Q708333"
+  ],
+  "vogelsang-house": [
+   "Q125699"
+  ],
+  "kallio-church": [
+   "Q937984"
+  ],
+  "stadtbad-mitte": [
+   "Q63191",
+   "Q105170777"
+  ],
+  "mercato-dei-fiori-vecchio": [
+   "Q3830437",
+   "Q1819108",
+   "Q21651762",
+   "Q128064265"
+  ],
+  "prague-planetarium": [
+   "Q206087"
+  ],
+  "casa-serra": [
+   "Q12750"
+  ],
+  "haus-wittmann": [
+   "Q1305843"
+  ],
+  "kumamoto-prefectural-ancient-burial-mound-museum": [
+   "Q208220"
+  ],
+  "triangle-building": [
+   "Q134165"
+  ],
+  "estacao-cabo-branco-ciencia-cultura-e-artes": [
+   "Q134165"
+  ],
+  "garden-of-fine-art-kyoto": [
+   "Q208220"
+  ],
+  "koumi-machi-kogen-museum-of-art": [
+   "Q208220"
+  ],
+  "ishikawa-nishida-kitaro-museum-of-philosophy": [
+   "Q208220"
+  ],
+  "ogasawara-museum": [
+   "Q253350",
+   "Q369645"
+  ],
+  "memorial-dos-povos-indigenas": [
+   "Q134165"
+  ],
+  "wayne-l-morse-united-states-courthouse": [
+   "Q312847"
+  ],
+  "pavilhao-padre-manoel-da-nobrega": [
+   "Q134165",
+   "Q105417674"
+  ],
+  "villa-norrkoping": [
+   "Q242002"
+  ],
+  "kirche-schonow-buschgraben": [
+   "Q64412",
+   "manual:Frei Otto",
+   "Q125220376"
+  ],
+  "bethanien-kinderdorf-bergisch-gladbach": [
+   "Q76841"
+  ],
+  "st-lukas-kirche": [
+   "Q1045671",
+   "Q64412",
+   "manual:Frei Otto"
+  ],
+  "st-gertrud": [
+   "Q76841"
+  ],
+  "st-matthaus": [
+   "Q76841"
+  ],
+  "tour-horizons": [
+   "Q214317"
+  ],
+  "palais-des-congres-de-tours": [
+   "Q214317"
+  ],
+  "cohen-house": [
+   "Q76730",
+   "Q2118101"
+  ],
+  "centre-civic-de-riudaura": [
+   "Q6096991",
+   "Q5752340",
+   "Q5653784"
+  ],
+  "paul-mellon-arts-center": [
+   "Q46868"
+  ],
+  "st-josef": [
+   "Q76841"
+  ],
+  "vivian-beaumont-theater": [
+   "Q167073"
+  ],
+  "collegio-teresiano": [
+   "Q25328"
+  ],
+  "nagaragawa-convention-center": [
+   "Q208220"
+  ],
+  "mercury-tower": [
+   "manual:Zaha Hadid"
+  ],
+  "rosenbaum-house": [
+   "Q5604"
+  ],
+  "marsk-tower": [
+   "Q429817"
+  ],
+  "memorial-jk": [
+   "Q134165"
+  ],
+  "tower-25": [
+   "Q214317"
+  ],
+  "national-museum-of-art-osaka": [
+   "Q309483"
+  ],
+  "tapies-museum": [
+   "Q317876"
+  ],
+  "taipei-grand-mosque": [
+   "Q8048378"
+  ],
+  "thiepval-memorial": [
+   "Q378157"
+  ],
+  "arco-della-vittoria": [
+   "Q1382978"
+  ],
+  "hyderabad-house": [
+   "Q378157"
+  ],
+  "national-museum-of-prehistory": [
+   "Q314636"
+  ],
+  "church-house": [
+   "Q382771"
+  ],
+  "stockholm-university-library": [
+   "Q959698"
+  ],
+  "arras-memorial": [
+   "Q378157"
+  ],
+  "stopera": [
+   "Q113257",
+   "Q4920452"
+  ],
+  "kucuksu-pavilion": [
+   "Q6007289"
+  ],
+  "szeged-synagogue": [
+   "Q791512"
+  ],
+  "aland-maritime-museum": [
+   "Q11866862"
+  ],
+  "museum-of-contemporary-art-zagreb": [
+   "Q100502858"
+  ],
+  "house-of-history-baden-wurttemberg": [
+   "Q326737",
+   "Q1891703"
+  ],
+  "saxon-landtag": [
+   "Q1228499"
+  ],
+  "seth-peterson-cottage": [
+   "Q5604"
+  ],
+  "palace-moravia": [
+   "Q382789"
+  ],
+  "georg-kolbe-museum": [
+   "Q42716654",
+   "Q120914491"
+  ],
+  "bijenkorf-rotterdam": [
+   "Q57588",
+   "Q18575538"
+  ],
+  "luiz-de-bessa-state-public-library": [
+   "Q134165"
+  ],
+  "wall-house-ii": [
+   "Q1270804"
+  ],
+  "cafe-era": [
+   "Q1705041"
+  ],
+  "new-town-hall-in-jablonec-nad-nisou": [
+   "Q95172018"
+  ],
+  "haskova-vila": [
+   "Q102153"
+  ],
+  "thiel-gallery": [
+   "Q959104"
+  ],
+  "mercado-central-valencia": [
+   "Q8962183",
+   "Q8194962",
+   "Q8776280",
+   "Q109016402"
+  ],
+  "hans-christian-andersen-museum": [
+   "Q725462"
+  ],
+  "vessel-structure": [
+   "Q3051023"
+  ],
+  "naturbornholm": [
+   "Q1377332"
+  ],
+  "beaty-biodiversity-museum": [
+   "Q42701739"
+  ],
+  "kiruna-city-hall": [
+   "Q1377332"
+  ],
+  "museum-of-glass": [
+   "Q268732"
+  ],
+  "seacity-museum": [
+   "Q23680660",
+   "Q19957748"
+  ],
+  "kagawa-prefectural-higashiyama-kaii-setouchi-art-museum": [
+   "Q1396719"
+  ],
+  "fukui-prefectural-varve-museum": [
+   "Q11394499"
+  ],
+  "nottingham-contemporary": [
+   "manual:Adam Caruso",
+   "Q94356783"
+  ],
+  "zaryadye-concert-hall": [
+   "Q1225543",
+   "Q15713956"
+  ],
+  "casals-forum": [
+   "Q1122493"
+  ],
+  "british-antique-museum-kamakura": [
+   "Q725462"
+  ],
+  "fjordenhus": [
+   "Q6522397",
+   "Q17165537",
+   "Q365691"
+  ],
+  "paneum": [
+   "Q114444",
+   "manual:Helmut Swiczinsky"
+  ],
+  "boekenberg": [
+   "Q1356269",
+   "manual:Jacob van Rijs",
+   "Q469961"
+  ],
+  "valer-church": [
+   "Q71438740"
+  ],
+  "polish-national-radio-symphony-orchestra-building": [
+   "Q9359419"
+  ],
+  "chiesa-di-san-giacomo-apostolo": [
+   "Q727525"
+  ],
+  "cube": [
+   "Q91407"
+  ],
+  "byodo-in-museum-hoshokan": [
+   "Q4701152"
+  ],
+  "church-of-santa-maria-della-pace": [
+   "Q176938"
+  ],
+  "borgo-citta-nuova": [
+   "Q970000",
+   "Q3094088"
+  ],
+  "toyama-kirari": [
+   "Q725462"
+  ],
+  "matsudai-nohbutai": [
+   "Q1356269",
+   "manual:Jacob van Rijs",
+   "Q469961"
+  ],
+  "cite-des-arts": [
+   "Q725462"
+  ],
+  "viborg-town-hall": [
+   "Q1377332"
+  ],
+  "zenith-de-rouen": [
+   "Q123966"
+  ],
+  "lourdeskapelle-salgenreute": [
+   "Q15431931"
+  ],
+  "sandels-culture-house": [
+   "Q377633"
+  ],
+  "gerald-ratner-athletics-center": [
+   "Q309483"
+  ],
+  "mcnamara-alumni-center": [
+   "Q360394"
+  ],
+  "zentralgebaeude-leuphana": [
+   "Q154538"
+  ],
+  "trinity-river-audubon-center": [
+   "Q360394"
+  ],
+  "mosaic-tile-museum-tajimi": [
+   "Q3134309"
+  ],
+  "maison-folie-de-wazemmes": [
+   "Q2655644"
+  ],
+  "monastery-of-siloe": [
+   "Q16551324"
+  ],
+  "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya": [
+   "Q103283068"
+  ],
+  "maritime-centre-vellamo": [
+   "Q11864630"
+  ],
+  "iki-city-ikikoku-museum": [
+   "Q358502"
+  ],
+  "fondazione-bertarelli-concert-hall": [
+   "Q16551324"
+  ],
+  "istana-nurul-iman": [
+   "Q2196637"
+  ],
+  "mysore-palace": [
+   "Q16031767"
+  ],
+  "wat-benchamabophit": [
+   "Q304412"
+  ],
+  "chhatrapati-shivaji-maharaj-vastu-sangrahalaya": [
+   "Q1508644"
+  ],
+  "bebek-mosque": [
+   "Q587928"
+  ],
+  "all-saints-cathedral-cairo": [
+   "Q99410760",
+   "Q99410882"
+  ],
+  "our-lady-of-heliopolis-co-cathedral": [
+   "Q723010"
+  ],
+  "theatre-municipal-de-tunis": [
+   "Q3170239"
+  ],
+  "sonobudoyo-museum": [
+   "Q2526242"
+  ],
+  "st-sarkis-church-yerevan-armenia": [
+   "Q4841840"
+  ],
+  "confiteria-del-molino": [
+   "Q5483405"
+  ],
+  "vilamajo-house-museum": [
+   "Q3821953"
+  ],
+  "nuestra-senora-del-libano-montevideo": [
+   "Q1324787"
+  ],
+  "immobilia-building": [
+   "Q1912444",
+   "Q13141553"
+  ],
+  "vedat-tek-house": [
+   "Q7917938"
+  ],
+  "temple-of-saint-anthony-of-padua": [
+   "Q16004863"
+  ],
+  "edificio-ariztia": [
+   "Q24287659",
+   "Q11177246"
+  ],
+  "ricardo-rojas-house-museum-research-institute": [
+   "Q8076841"
+  ],
+  "edificio-do-banco-paulista-do-comercio": [
+   "Q10361392"
+  ],
+  "tanghalang-pambansa": [
+   "Q2196637"
+  ],
+  "galeria-guemes": [
+   "Q5483405"
+  ],
+  "faculty-of-fine-arts-university-of-dhaka": [
+   "Q6944447"
   ]
  }
 };

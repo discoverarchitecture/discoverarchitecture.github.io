@@ -1,4 +1,4 @@
-2901 of 3580 buildings matched; 1604 architects, 810 with a free portrait.
+3584 of 4272 buildings matched; 1895 architects, 943 with a free portrait.
 
 search  villa-savoye: Q940746
 search  unite-dhabitation: Q1412364
@@ -872,7 +872,7 @@ search  powerhouse-brattorkaia: no match
 search  reykjavik-city-hall: no match
 search  sdu-campus-kolding: no match
 search  st-hallvard-church-oslo: no match
-search  stockholm-concert-hall: Q653773
+search  stockholm-concert-hall: no match
 search  tautra-mariakloster: no match
 search  the-twist-kistefos: no match
 search  under-restaurant: no match
@@ -1987,7 +1987,6 @@ search  capitol-theatre-melbourne: Q333906
 search  sydney-harbour-bridge: no match
 search  wellington-cathedral-of-st-paul: Q1278240
 search  brisbane-city-hall: Q4968552
-search  brisbane-powerhouse: no match
 search  council-house-2-melbourne: no match
 search  public-transport-centre-perth: no match
 search  telstra-tower-canberra: no match
@@ -1999,11 +1998,9 @@ search  old-parliament-house-canberra: Q13360293
 search  perth-concert-hall: no match
 search  paganin-house: Q24189385
 search  edmund-barton-building-canberra: no match
-search  centenary-pool-complex-brisbane: no match
 search  capita-centre-sydney: no match
 search  hyde-park-barracks-sydney: no match
 search  flinders-street-station: no match
-search  perth-stadium-optus: no match
 search  auckland-town-hall: Q1391825
 search  wellington-town-hall: no match
 search  auckland-civic-theatre: Q4391509
@@ -2024,7 +2021,7 @@ search  windermere-jetty-museum: no match
 search  savill-building-windsor: Q7428230
 search  bracken-house-london: Q17549117
 search  altes-museum-berlin: Q156722
-search  melk-abbey: Q660082
+search  melk-abbey: no match
 search  zwinger-dresden: Q155107
 search  wuerzburg-residence: Q156316
 search  vierzehnheiligen-basilica: no match
@@ -2034,7 +2031,6 @@ search  siemensstadt-estate-berlin: no match
 search  tonhalle-duesseldorf: Q139206
 search  karlskirche-vienna: Q408847
 search  wieskirche: Q156675
-search  koelnturm: Q555142
 search  solarsiedlung-freiburg: no match
 search  bauhaus-museum-dessau: no match
 search  bauhaus-museum-weimar: no match
@@ -2119,6 +2115,702 @@ search  vyborg-library: Q2377891
 search  national-theatre-of-iceland: Q565455
 search  arktikum: no match
 search  church-of-the-holy-spirit: no match
+search  empire-state-building: Q9188
+search  brooklyn-museum: Q632682
+search  westminster-cathedral: Q739364
+search  flatiron-building: Q220728
+search  akita-museum-of-art: Q11483668
+search  military-cathedral-of-st-mary-queen-of-peace-brasilia: Q9709756
+search  stephanuskirche-wolfsburg: Q11722211
+search  asian-art-museum-nice: no match
+search  shimane-museum-of-ancient-izumo: Q4802099
+search  jiyu-gakuen-girls-school: Q55533542
+search  yodoko-guest-house: Q11511042
+search  museum-of-popular-arts-of-paraiba: Q10333773
+search  pettit-memorial-chapel: Q2081276
+search  itatiaia-building: Q10270232
+search  samuel-freeman-house: Q7411421
+search  a-d-german-warehouse: Q4647666
+search  one-charles-center: Q7092521
+search  david-and-gladys-wright-house: Q5230416
+search  frederick-c-bogk-house: Q5497461
+search  zlota-44: Q249053
+search  2-columbus-circle: Q4633310
+search  hoki-museum: Q5878014
+search  holy-trinity-orthodox-cathedral-chicago: no match
+search  national-museum-of-modern-art-tokyo: Q1359908
+search  saint-denis-pleyel-station: no match
+search  fukui-prefectural-dinosaur-museum: Q3247157
+search  torre-realia-bcn: Q1189521
+search  nagasaki-museum-of-history-and-culture: Q73613
+search  kreeger-museum: Q1787100
+search  saka-no-ue-no-kumo-museum: Q7402728
+search  onomichi-city-museum-of-art: Q11465485
+search  hochhaus-neue-donau: Q1621858
+search  ito-toren: Q2269636
+search  toki-messe: Q705614
+search  mrs-clinton-walker-house: Q106030942
+search  museum-reinhard-ernst: Q117834995
+search  richard-king-mellon-hall: Q16899281
+search  torre-picasso: Q1364394
+search  mode-gakuen-spiral-towers: Q2878337
+search  exelon-pavilions: Q5419995
+search  winslow-house-river-forest-illinois: no match
+search  villa-tammekann: Q45022
+search  bigo-genoa: no match
+search  brasilia-digital-tv-tower: Q627859
+search  central-saint-giles: Q5061785
+search  cleveland-clinic-lou-ruvo-center-for-brain-health: Q1988897
+search  thomas-h-gale-house: Q1239192
+search  gunma-insect-world: Q4555542
+search  centro-internacional-de-ferias-y-congresos-de-tenerife: Q664681
+search  kimmel-center-for-the-performing-arts: Q3196907
+search  guell-pavilions: Q595553
+search  albany-city-hall: Q3146112
+search  pavilion-of-human-passions: Q7698728
+search  miyazaki-prefectural-museum-of-nature-and-history: Q4677133
+search  400-west-market: Q2748066
+search  curve-theatre: no match
+search  hagia-sophia-hurrem-sultan-bathhouse: no match
+search  trinity-church-boston: no match
+search  juma-jami-mosque: Q2390721
+search  sokollu-mehmed-pasha-mosque-kadirga: no match
+search  zal-mahmud-pasha-mosque: Q1572457
+search  atik-valide-mosque: Q2483550
+search  osman-shah-mosque: Q15911667
+search  mihrimah-sultan-mosque-uskudar: Q2537376
+search  sinan-pasha-mosque-istanbul: no match
+search  kilic-ali-pasha-complex: Q862848
+search  semsi-pasha-mosque: Q1572431
+search  molla-celebi-mosque: Q2719788
+search  kara-ahmed-pasha-mosque: Q1572049
+search  piyale-pasha-mosque: Q7199786
+search  sokollu-mehmed-pasha-mosque-azapkapi: no match
+search  hadim-ibrahim-pasha-mosque: Q5637873
+search  muradiye-mosque-manisa: no match
+search  banya-bashi-mosque: Q790052
+search  casa-vicens: Q746333
+search  city-gate: Q2044535
+search  st-nicholas-greek-orthodox-church: Q18157
+search  hotel-solvay: Q2671145
+search  university-of-science-and-technology-houari-boumediene: Q3181219
+search  hajji-ahmed-the-ducat-minters-mosque: Q3503439
+search  ennis-house: Q578184
+search  muradie-mosque: Q1953480
+search  sokollu-mehmed-pasha-mosque-luleburgaz: Q38174028
+search  wells-fargo-center: Q818735
+search  pertev-pasa-mosque: Q18209673
+search  lumbracle: Q2437999
+search  425-park-avenue: Q2631826
+search  frank-lloyd-wright-home-and-studio: Q3069681
+search  gazi-hajdar-kadi-mosque: Q3324863
+search  artigas-gardens: Q2814599
+search  seyh-celebi-mosque: no match
+search  yahya-bey-mosque: Q127788305
+search  palacio-do-jaburu: Q3917430
+search  omniturm: Q15107362
+search  aalto-center: Q4250273
+search  suleymaniye-hamam: Q749094
+search  toyota-city-museum: Q125906525
+search  buen-kulturhus: Q14388827
+search  otaniemi-water-tower: Q15073511
+search  annunciation-greek-orthodox-church: Q3586059
+search  cultural-complex-of-the-republic: Q4818298
+search  martin-ryerson-tomb: Q6776503
+search  willits-house: Q8022162
+search  stanislav-range-front-light: Q7599046
+search  waldspirale: Q133635
+search  kuchlbauer-tower: Q824739
+search  palacio-taranco: Q1139321
+search  carolina-rediviva: Q1044419
+search  malmo-opera: Q1507772
+search  leo-burnett-building: Q2556762
+search  new-synagogue-zilina: Q12772437
+search  hotel-otlet: Q3145619
+search  castle-of-the-three-dragons: Q1048705
+search  castle-drogo: Q746819
+search  cajasol-tower: no match
+search  rottweil-elevator-test-tower: no match
+search  academy-of-fine-arts-vienna: Q414219
+search  accenture-tower: Q2425550
+search  winter-garden-atrium: Q8026225
+search  osaka-maritime-museum: Q867148
+search  agoudas-hakehilos-synagogue: Q1567790
+search  international-building: Q3153239
+search  auditorium-conciliazione: Q5650373
+search  landakotskirkja: Q794242
+search  the-cenotaph: Q2896743
+search  tel-aviv-performing-arts-center: Q555356
+search  osaka-museum-of-history: Q11261312
+search  haus-des-lehrers: Q586235
+search  louwman-museum: Q1456512
+search  steiner-house: Q4012578
+search  palazzo-dello-strozzino: Q514448
+search  kino-babylon: Q1742238
+search  taliesin: Q734970
+search  casa-lleo-morera: Q2330791
+search  deutschmeister-palais: Q2046973
+search  india-house: Q14996965
+search  st-bartholomews-episcopal-church: Q3937267
+search  pasadena-city-hall: Q2055241
+search  cecil-h-green-library: Q4405931
+search  heliotrope-building: no match
+search  kotelnicheskaya-embankment-building: Q2022067
+search  kudrinskaya-square-building: Q2388422
+search  scharinska-villan: Q10663150
+search  war-memorial-opera-house: Q2915772
+search  ainola: Q151782
+search  museum-of-human-evolution: Q3816087
+search  museum-of-art-architecture-and-technology: Q27522479
+search  karaite-kenesa-kyiv: no match
+search  aschanska-villa: Q10419250
+search  didrichsen-art-museum: Q5274238
+search  air-force-command-building-belgrade: Q2929295
+search  jinpukaku: Q6202742
+search  banovina-palace-novi-sad: no match
+search  aichi-prefectural-ceramic-museum: Q4696582
+search  seville-public-library: Q7458071
+search  altes-stadthaus-berlin: Q95417
+search  forum-groningen: Q3076424
+search  pagode-de-vincennes: Q2985016
+search  d-coque: Q1272946
+search  planetario-di-milano: Q3906237
+search  saskatchewan-legislative-building: Q3579114
+search  prinkipo-greek-orthodox-orphanage: Q5005317
+search  neuer-marstall: Q1980221
+search  nuevos-ministerios: Q2919276
+search  35-east-wacker: Q2816312
+search  building-of-the-yugoslavian-legation-in-berlin: Q1497336
+search  headquarters-of-the-bank-of-the-argentine-nation: no match
+search  rosecliff: Q2166814
+search  fox-theatre-detroit: Q3080199
+search  hansahochhaus: Q281051
+search  oakland-city-hall: Q932794
+search  london-coliseum: Q1868965
+search  copenhagen-city-hall: Q2010247
+search  waldemarsudde: Q15700318
+search  bolshoy-dom: Q4092985
+search  rosenbad: Q744615
+search  leighton-house: Q6519762
+search  palau-nacional: Q2341107
+search  gothenburg-city-theatre: Q3118440
+search  ethnographic-museum-zagreb: Q502157
+search  perelman-performing-arts-center: Q18152059
+search  russian-army-theatre: no match
+search  musee-d-art-contemporain-du-val-de-marne: Q3329594
+search  tsiolkovsky-state-museum-of-the-history-of-cosmonautics: Q4146892
+search  allen-memorial-art-museum: Q3816734
+search  kramars-villa: Q3558615
+search  hospital-clinico-san-carlos: Q6673106
+search  sven-harry-s-art-museum: Q10684670
+search  new-city-hall-prague: no match
+search  tournay-abbey: Q2820324
+search  filoli: Q478408
+search  novi-sad-synagogue: Q1243512
+search  lucenec-synagogue: no match
+search  cluj-napoca-national-theatre: Q1414007
+search  adam-mickiewicz-theatre-cieszyn: no match
+search  heureka: Q1634495
+search  historical-museum-of-the-palatinate: Q1325163
+search  new-mexico-museum-of-art: Q559229
+search  hawaii-state-capitol: Q1290002
+search  desert-view-watchtower: Q2062022
+search  painted-desert-inn: Q2194613
+search  old-faithful-inn: Q3027805
+search  013: Q2319846
+search  museum-yamato-bunkakan: Q3329639
+search  urasoe-art-museum: Q11558303
+search  vatroslav-lisinski-concert-hall: Q1267773
+search  janacek-theatre: Q3511873
+search  house-on-the-embankment: Q1504212
+search  de-doelen: Q2237396
+search  palacio-de-congresos-madrid: Q6057914
+search  siida-museum: Q946264
+search  jewish-museum-munich: Q320903
+search  bush-house: Q852282
+search  waino-aaltonen-museum-of-art: Q3019261
+search  royal-armouries-museum: Q7373689
+search  ohara-museum-of-art: Q2977589
+search  monona-terrace: Q6901787
+search  torre-de-cristal: Q953610
+search  minnaert-building: Q30914563
+search  casa-rozes: Q8341669
+search  kitakyushu-international-conference-center: Q11400928
+search  valladolid-science-museum: Q1189057
+search  fresno-city-hall: Q2817266
+search  100-eleventh-avenue: Q16823802
+search  zenith-de-lille: Q20055541
+search  golden-angel: Q5579128
+search  he-art-museum: Q85877621
+search  le-consortium: Q3221735
+search  frist-campus-center: Q3506959
+search  el-palauet: Q42884238
+search  the-museum-for-wood-culture: Q11393028
+search  paraninfo-de-la-universidad-del-pais-vasco: Q3755956
+search  himeji-city-museum-of-literature: Q11447552
+search  kfw-westarkade: Q2564456
+search  muritzeum: Q872955
+search  przedszkole-bundestagu: Q104820679
+search  fukuoka-camera-museum: Q116972269
+search  centro-cultural-de-viana-do-castelo: Q18483738
+search  centre-ceramique: Q3180768
+search  ken-iwata-mother-and-child-museum: Q11377194
+search  residenze-hadid: Q48807681
+search  campus-palmas-altas-sevilla: Q5746034
+search  hagi-uragami-museum: Q11467091
+search  ciudad-bbva: Q19788709
+search  tateyama-museum-of-toyama: Q11456516
+search  nakaya-ukichiro-museum-of-snow-and-ice: Q17226278
+search  lafayette-anticipations-galeries-lafayette-corporate-foundation: Q17353174
+search  maison-de-l-ordre-des-avocats: Q50532135
+search  toyama-international-conference-center: Q11456337
+search  campus-einaudi: Q41670794
+search  1101-new-york-avenue: Q4547248
+search  nagano-city-arts-center: Q85884244
+search  finnish-forest-museum-lusto: Q11879901
+search  caja-magica: Q371585
+search  onikuru: Q124710195
+search  skylight: no match
+search  de-citadel: Q1816575
+search  chihiro-art-museum-azumino: Q11450770
+search  pabellon-de-la-navegacion: Q12198135
+search  burghof-lorrach: Q1015062
+search  yaoko-kawagoe-museum: Q11344966
+search  the-frances-young-tang-teaching-museum-and-art-gallery: Q16201701
+search  musik-und-kongresshalle-lubeck: Q1954986
+search  taisha-urara-kan-cultural-hall: Q11438315
+search  kaustinen-folk-arts-centre: Q18681944
+search  church-of-st-basil-of-ostrog-belgrade: Q2497798
+search  ishikawa-nanao-art-museum: Q11585933
+search  dia-beacon: Q1207917
+search  otsuka-museum-of-art: Q3329659
+search  cite-de-la-mode-et-du-design: Q2974772
+search  550-south-tryon: no match
+search  new-synagogue-mainz: no match
+search  ardmore-residence: Q20311743
+search  paulinum-university-of-leipzig: no match
+search  grandstand-us-open: no match
+search  atchugarry-museum-of-contemporary-art: Q110486593
+search  spiral-house: Q19471959
+search  beit-avi-chai: Q6953970
+search  pantanal-aquarium: Q111905375
+search  klosterneuburg-protestant-church: Q38085901
+search  memorial-luiz-carlos-prestes: Q48878372
+search  crematorium-bratislava: Q12769693
+search  lugano-arte-e-cultura: Q26986943
+search  stc-group: Q2365720
+search  museum-belvedere: Q12013196
+search  festspielhaus-st-polten: Q1408821
+search  konzerthaus-blaibach: Q97602086
+search  bing-concert-hall: Q4914117
+search  canadian-clay-and-glass-gallery: Q5029867
+search  san-riccardo-pampuri-church: Q55358441
+search  st-katharina-von-siena: Q62588192
+search  mosque-of-rijeka: Q26256577
+search  bibliotheque-universitaire-des-langues-et-civilisations: Q2901548
+search  armenian-cathedral-of-moscow: Q4069756
+search  fuglsang-art-museum: Q5507293
+search  diehtosiida: Q3223562
+search  museum-for-architectural-drawing: Q17353861
+search  museu-de-arte-do-rio: Q10333798
+search  aaltoalvari: no match
+search  seinajoki-city-theatre: Q17383823
+search  norman-lykes-house: Q71324027
+search  dudley-spencer-house: Q5311982
+search  bellevue-arts-museum: Q4883914
+search  haus-hohe-pappeln: Q1236266
+search  bryce-canyon-lodge: Q2927193
+search  americanization-school: Q4745595
+search  casa-delle-armi: Q3604043
+search  orchestra-hall: Q7100235
+search  pfarrkirche-allerheiligen-innsbruck: Q11722111
+search  pfarrkirche-pertisau: Q24289600
+search  kabelwerk-dr-cassirer: Q1120381
+search  villa-of-viktor-bauer: Q11899040
+search  olaf-gulbransson-museum-tegernsee: Q15123451
+search  huis-hillebrand: Q17440478
+search  volksbadhuis-hilversum: Q17449964
+search  landhaus-bejach: Q1802967
+search  villa-snellman: Q18246868
+search  raadhuis-van-usquert: Q2300426
+search  cal-passani: Q23811243
+search  casa-ximenis: Q24035491
+search  villa-gans: Q2525136
+search  haus-scheu: Q37998364
+search  66-old-church-street-chelsea: Q4642194
+search  haus-auerbach: Q55065519
+search  haus-riehl: Q99839577
+search  eiffel-building: Q10270223
+search  buffalo-city-hall: Q1001988
+search  jonson-gallery: Q106828547
+search  rio-theatre: Q42617268
+search  stadthalle-hannover: Q1576239
+search  asilomar-conference-grounds: Q2976485
+search  villa-urbig: Q101647264
+search  vakantiehuisjes-rietveld: Q1847482
+search  palazzo-degli-affari: Q3891171
+search  stillman-house-i: no match
+search  st-fronleichnam: Q1641817
+search  barclayvesey-building: no match
+search  bahai-house-of-worship: Q42908448
+search  old-scripps-building: Q3881528
+search  harold-c-bradley-house: Q5660241
+search  villa-sturegarden: Q10715518
+search  dum-obuvi-bata-liberec: no match
+search  house-of-agricultural-education: Q11863374
+search  church-of-peace-lobtau: Q1456772
+search  offenbarungskirche: Q1488703
+search  bethanienkirche-frankfurt-am-main: Q15107542
+search  alfa-palace: Q15514712
+search  ruderzentrum-blasewitz: Q2171969
+search  villa-of-bohuslav-fuchs: Q33525783
+search  villa-haas: Q55691983
+search  hyogo-prefectural-museum-of-history: Q11393043
+search  carew-tower: Q152129
+search  pardubice-crematorium: Q12043818
+search  national-house-prostejov: no match
+search  eglise-sainte-therese-de-lenfant-jesus-de-metz: Q3585278
+search  dortmund-city-and-state-library: Q2326332
+search  sassnitz-bandshell: Q56878133
+search  cine-brasilia: Q18243953
+search  smith-tower: Q1196348
+search  lauritsala-church: Q11875156
+search  bakkehaugen-church: Q4580047
+search  ullsteinhaus: Q143984
+search  naturtheater-grotzingen: Q1577335
+search  renaissance-theater: Q876556
+search  villa-allegonda: Q1988662
+search  aon-center: no match
+search  33-thomas-street: Q4635219
+search  norfolk-scope: Q1131230
+search  la-spezia-cathedral: Q2942687
+search  vestersohus: Q111599263
+search  stadsschouwburg-nijmegen: Q2433308
+search  casa-rotalinti: Q29883909
+search  stelling-house: Q7607258
+search  jingliao-holy-cross-church: Q15831646
+search  coliseum-theater: no match
+search  neu-st-alban: Q1979182
+search  adria-palace: Q38037088
+search  vila-franze-strosse: no match
+search  lescaze-house: Q6405789
+search  international-conference-center-hiroshima: Q11484485
+search  onyx-theater: Q16511540
+search  rundkino-dresden: Q2176263
+search  olympia-theater-miami: no match
+search  apostel-johannes-gemeindezentrum: Q15856671
+search  gebouw-a-radio-kootwijk: no match
+search  john-sowden-house: Q6258545
+search  lake-quinault-lodge: Q1458501
+search  mercado-de-abastos: Q9031630
+search  bauerova-vila: Q11061354
+search  grosses-haus-gluckert: Q115690847
+search  stichweh-wohnhaus: Q2348222
+search  vila-tychonova-4: Q31825089
+search  villa-kenwin: Q3558584
+search  chiesa-dei-santi-pietro-e-girolamo: Q3668329
+search  palazzo-delle-poste: Q138802881
+search  langham-house-close: Q20712084
+search  wrva-building: Q7955376
+search  mullersches-volksbad: Q1958790
+search  dum-radost: Q11863357
+search  communal-house-of-the-textile-institute: Q3279128
+search  scholes-hall: Q48796197
+search  joseph-h-brown-elementary-school: Q6283641
+search  hochhaus-wurttembergische-strasse-6: Q105046867
+search  case-study-house-no-1: Q118710310
+search  chiesa-dei-santi-giovanni-e-paolo: no match
+search  brno-crematorium: Q11343523
+search  villa-neumark: Q11899038
+search  villa-pavlicek: Q12044397
+search  lukaskirche-worms: no match
+search  schonberg-tower: Q1635504
+search  dominus-flevit-church: Q1238436
+search  versohnungskirche-ulm: no match
+search  villa-skeppet: Q46009900
+search  duey-and-julia-wright-house: Q5312288
+search  e-clarke-and-julia-arnold-house: Q5321804
+search  theodore-baird-residence: Q7781692
+search  jyvaskyla-defence-corps-building: no match
+search  gnadenkirche: Q9187671
+search  luthernotkirche: Q104536171
+search  palacio-de-exposiciones-y-congresos-ciudad-de-oviedo: Q6057918
+search  gregoriuskerk: Q3265490
+search  kunstgebaude-stuttgart: Q1792380
+search  suchardova-vila: Q31465972
+search  koterova-vila: Q17166581
+search  palace-theatre-marion-ohio: no match
+search  kratochvilova-vila: Q31489495
+search  mozarteum: Q31829056
+search  alte-heide: Q435614
+search  villa-janak: Q62030578
+search  st-maria-konigin: Q18413160
+search  st-johannes-der-taufer: Q41257778
+search  collegiate-church-of-st-martin: Q1779335
+search  st-mauritius: Q20127656
+search  st-ansgar-kirche: Q2317195
+search  teatro-fleta: Q51881557
+search  can-guardiola: Q82818589
+search  santuari-de-la-mare-de-deu-de-montserrat: no match
+search  la-jolla-recreational-center: Q20714421
+search  pfullinger-hallen: Q61743247
+search  akiyoshidai-international-art-village: Q11594895
+search  shanghai-symphony-hall: Q63396848
+search  yorkville-library: Q105104424
+search  hood-museum-of-art: Q3140304
+search  meistersingerhalle: Q1734355
+search  reuchlinhaus: Q2146551
+search  esglesia-del-sagrat-cor-de-vistabella: Q11920582
+search  villa-kudela: Q12031841
+search  blue-pavilion: Q16585735
+search  shikoku-mura-gallery: Q17211689
+search  palazzo-del-nuoto: Q3891379
+search  house-dellacher: Q15858570
+search  postgebouw-van-oostende: Q15880892
+search  our-lady-of-good-counsel-church-glasgow: no match
+search  matzleinsdorfer-hochhaus: Q1910907
+search  kirche-st-antonius: Q52060927
+search  konigliche-anatomie: Q1305154
+search  villa-carl-feldafing: Q24324248
+search  haus-freudenberg: Q26216210
+search  sioux-city-public-library-smith-villa-branch: no match
+search  fritz-schumacher-schule: Q28946766
+search  gemeindehaus-der-matthausgemeinde: Q61769145
+search  cenotaph-for-the-a-bomb-victims: Q11409718
+search  fine-arts-center-massachusetts: no match
+search  guildford-cathedral: Q687799
+search  longmire-buildings: Q6674117
+search  gary-bathing-beach-aquatorium: Q16891550
+search  vadso-church: Q1784084
+search  orthodox-church-of-the-annunciation-in-malczyce: Q11689728
+search  chapelle-des-franciscains-d-arcueil: Q22968884
+search  khovo-lar: Q24552664
+search  sackler-wing: no match
+search  st-hildegardis: Q1404444
+search  villa-low-beer: Q18907493
+search  opera-de-vichy: Q3354566
+search  bruder-klaus-kirche: Q1636239
+search  volmanova-vila: Q11933212
+search  villa-kroha: Q12031562
+search  villa-patocka: Q12043934
+search  villa-psota: Q12047494
+search  dorfkirche-kunersdorf: Q14906566
+search  van-zessen-house: Q15876504
+search  freibad-letzigraben: Q1912022
+search  volkshaus-biel: Q19362535
+search  strandbad-biel: Q19362669
+search  wuwa-building-no-26-27: Q20032363
+search  wuwa-building-no-35: Q20032367
+search  wuwa-building-no-37: Q20032369
+search  sachsenbad: Q2210566
+search  hojen-13: Q23042124
+search  thomaskirche-basel: no match
+search  casa-blanch: Q28055820
+search  casa-cattaneo: Q29061908
+search  piuskirche: no match
+search  villa-kranz: Q33525765
+search  villa-bass: Q55692037
+search  edward-p-evans-hall: Q43371254
+search  madison-museum: Q6728058
+search  olveston-historic-home: Q7088887
+search  catholic-church-of-the-holy-cross-mainz: Q1594960
+search  auferstehungskirche-bonn: no match
+search  skogskapellet: Q10670361
+search  nymble: Q10604793
+search  gb-cooley-house: Q123964937
+search  las-palmas: no match
+search  bj-ricker-house: Q24041489
+search  palazzo-della-borsa-valori-di-torino: Q3642740
+search  finnish-pavilion-venice-biennale: no match
+search  renaat-braem-house: Q2571900
+search  administrative-building-of-nestle-sa: Q1619855
+search  einsteinhaus-caputh: Q1309294
+search  emmaus-church-vols: no match
+search  kauniainen-church: Q19950962
+search  butte-aux-cailles-swimming-pool: Q3389226
+search  villa-bonnier: Q10715448
+search  bernard-schwartz-house: Q4893631
+search  goetsch-winckler-house: Q5577195
+search  robert-m-lamp-house: Q6531634
+search  thomas-p-hardy-house: Q7792932
+search  student-union-building-ilokivi: Q11864698
+search  sport-and-health-sciences-department-building: Q28464264
+search  proxima: no match
+search  hiram-c-stewart-house: Q5769087
+search  building-of-east-bohemian-museum: Q65617369
+search  granville-d-jones-house: Q5596885
+search  king-nash-house: no match
+search  nature-spa-takarazuka: Q11323852
+search  huize-lydia: Q1636190
+search  parco-sempione-library: Q61215294
+search  st-wenceslas-church-vrsovice: no match
+search  st-franziskus: no match
+search  rundling-leipzig: no match
+search  blackwell-arts-and-crafts-house: Q4923584
+search  kasson-municipal-building: Q6374765
+search  st-lazarus-roman-catholic-church-al-eizariya: Q30621771
+search  st-michael-s-church-crna-vas: no match
+search  villa-kampen: Q20987227
+search  maestranza-cesar-giron: Q2866148
+search  tampere-theatre: Q3561003
+search  synagogue-don-isaac-abravanel: Q1663837
+search  kalmar-konstmuseum: Q10542825
+search  gebaude-der-reichsschuldenverwaltung: Q1497338
+search  spiskova-vila: Q15916621
+search  st-johns-cathedral-napier: no match
+search  villa-palicka: Q20428163
+search  villa-rothmayer: Q21296267
+search  villa-van-t-hoff: no match
+search  piscine-judaique-jean-boiteux: no match
+search  chappelle-administration-building: Q5073387
+search  haus-rabe: Q72207231
+search  fukuoka-city-akarenga-cultural-center: Q85882853
+search  kunstsilo: Q124728154
+search  kirche-am-hohenzollernplatz: Q1742773
+search  finnish-nature-center-haltia: Q5476978
+search  alcide-de-gasperi-building: Q4713085
+search  cunard-building: Q1143904
+search  laeiszhalle: Q881121
+search  suntory-hall: Q948552
+search  palais-de-la-porte-doree: Q1141316
+search  anthonie-van-dijckstraat-4-amsterdam: Q17292372
+search  vogelsang-house: Q55816204
+search  kallio-church: Q2981697
+search  stadtbad-mitte: Q1292740
+search  mercato-dei-fiori-vecchio: Q3854849
+search  prague-planetarium: no match
+search  casa-serra: Q3661167
+search  haus-wittmann: Q55077482
+search  kumamoto-prefectural-ancient-burial-mound-museum: Q4557656
+search  triangle-building: Q4462747
+search  estacao-cabo-branco-ciencia-cultura-e-artes: no match
+search  garden-of-fine-art-kyoto: Q11375286
+search  koumi-machi-kogen-museum-of-art: Q11462647
+search  ishikawa-nishida-kitaro-museum-of-philosophy: Q11586041
+search  ogasawara-museum: Q123418594
+search  memorial-dos-povos-indigenas: Q6522452
+search  wayne-l-morse-united-states-courthouse: Q7976402
+search  pavilhao-padre-manoel-da-nobrega: no match
+search  villa-norrkoping: Q10715507
+search  kirche-schonow-buschgraben: no match
+search  bethanien-kinderdorf-bergisch-gladbach: Q118367575
+search  st-lukas-kirche: Q1688428
+search  st-gertrud: Q2318647
+search  st-matthaus: Q28122934
+search  tour-horizons: Q2371224
+search  palais-des-congres-de-tours: Q2945812
+search  cohen-house: Q5141321
+search  centre-civic-de-riudaura: Q65204290
+search  paul-mellon-arts-center: Q7152453
+search  st-josef: Q1659037
+search  vivian-beaumont-theater: Q176205
+search  collegio-teresiano: Q567753
+search  nagaragawa-convention-center: Q1086088
+search  mercury-tower: Q111663933
+search  rosenbaum-house: Q7368526
+search  marsk-tower: Q108303626
+search  memorial-jk: Q1756676
+search  tower-25: Q7829624
+search  national-museum-of-art-osaka: Q1055037
+search  tapies-museum: Q2447148
+search  taipei-grand-mosque: Q717882
+search  thiepval-memorial: Q1861419
+search  arco-della-vittoria: Q3621768
+search  hyderabad-house: Q5953898
+search  national-museum-of-prehistory: Q1540258
+search  church-house: Q2967665
+search  stockholm-university-library: Q10680674
+search  arras-memorial: Q2782982
+search  stopera: Q1138851
+search  kucuksu-pavilion: no match
+search  szeged-synagogue: Q834288
+search  aland-maritime-museum: Q4357413
+search  museum-of-contemporary-art-zagreb: Q3503103
+search  santiago-del-estero-forum: Q16570318
+search  house-of-history-baden-wurttemberg: Q263491
+search  saxon-landtag: Q1618988
+search  seth-peterson-cottage: Q7456571
+search  palace-moravia: Q253564
+search  georg-kolbe-museum: Q1503409
+search  bijenkorf-rotterdam: Q2181857
+search  luiz-de-bessa-state-public-library: Q9656693
+search  turku-main-library: Q7855553
+search  wall-house-ii: Q17514866
+search  cafe-era: Q12029033
+search  new-town-hall-in-jablonec-nad-nisou: Q30874374
+search  haskova-vila: Q33249065
+search  thiel-gallery: Q252259
+search  mercado-central-valencia: no match
+search  hans-christian-andersen-museum: Q490485
+search  vessel-structure: no match
+search  naturbornholm: Q12063591
+search  beaty-biodiversity-museum: Q4120770
+search  kiruna-city-hall: Q106474297
+search  knarvik-church: Q15972932
+search  museum-of-glass: Q2894440
+search  seacity-museum: Q7439809
+search  kagawa-prefectural-higashiyama-kaii-setouchi-art-museum: Q11667379
+search  phoenix-center: Q27583574
+search  fukui-prefectural-varve-museum: Q56465338
+search  nottingham-contemporary: Q7063622
+search  zaryadye-concert-hall: Q56581148
+search  casals-forum: Q114157557
+search  british-antique-museum-kamakura: Q115570775
+search  fjordenhus: Q22071379
+search  paneum: Q41662136
+search  boekenberg: Q4490308
+search  valer-church: Q25438431
+search  polish-national-radio-symphony-orchestra-building: Q29885823
+search  chiesa-di-san-giacomo-apostolo: Q19461960
+search  cube: no match
+search  byodo-in-museum-hoshokan: Q11483478
+search  church-of-santa-maria-della-pace: Q118984207
+search  borgo-citta-nuova: Q140254485
+search  rozet: no match
+search  toyama-kirari: Q21060996
+search  matsudai-nohbutai: Q28686074
+search  cite-des-arts: Q2974769
+search  viborg-town-hall: Q34994879
+search  zenith-de-rouen: Q3576487
+search  lourdeskapelle-salgenreute: Q47012227
+search  herman-teirlinck-building: Q47457146
+search  sandels-culture-house: Q5479399
+search  gerald-ratner-athletics-center: Q5549510
+search  mcnamara-alumni-center: Q6802471
+search  zentralgebaeude-leuphana: Q758831
+search  trinity-river-audubon-center: Q7842946
+search  mosaic-tile-museum-tajimi: no match
+search  maison-folie-de-wazemmes: Q2310474
+search  monastery-of-siloe: Q107610913
+search  edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya: Q12265317
+search  centre-for-interactive-research-on-sustainability: Q16247338
+search  maritime-centre-vellamo: Q2945864
+search  iki-city-ikikoku-museum: Q11429588
+search  fondazione-bertarelli-concert-hall: Q107567168
+search  istana-nurul-iman: Q1323932
+search  mysore-palace: Q456575
+search  wat-benchamabophit: Q2165719
+search  chhatrapati-shivaji-maharaj-vastu-sangrahalaya: Q1071500
+search  bebek-mosque: Q6049880
+search  all-saints-cathedral-cairo: Q15179391
+search  our-lady-of-heliopolis-co-cathedral: Q23760916
+search  theatre-municipal-de-tunis: Q3527872
+search  sonobudoyo-museum: Q4271636
+search  st-sarkis-church-yerevan-armenia: no match
+search  niyamasabha-mandiram: Q7042028
+search  confiteria-del-molino: Q1125324
+search  vilamajo-house-museum: Q1046452
+search  nuestra-senora-del-libano-montevideo: Q16959565
+search  immobilia-building: Q13141943
+search  vedat-tek-house: Q65053468
+search  temple-of-saint-anthony-of-padua: Q2919923
+search  edificio-ariztia: Q5338042
+search  ricardo-rojas-house-museum-research-institute: Q21114973
+search  edificio-do-banco-paulista-do-comercio: Q28677873
+search  tanghalang-pambansa: Q30590055
+search  galeria-guemes: Q11682033
+search  selim-al-deen-muktamanch: no match
+search  faculty-of-fine-arts-university-of-dhaka: Q4796888
 name    Ray Eames: Q380404
 name    Antonin Raymond: Q105079711
 name    George Nakashima: Q52431
@@ -2129,6 +2821,9 @@ founder Edward Knowles (Kallmann McKinnell): no architect of that name
 name    Kallmann McKinnell: no architect of that name
 name    Vilanova Artigas: Q1791191
 name    Lina Bo Bardi: Q272400
+founder Geoffry Powell (Chamberlin, Powell and Bon): Q18810728
+founder Peter Chamberlin (Chamberlin, Powell and Bon): Q16008345
+founder Christoph Bon (Chamberlin, Powell and Bon): Q18832970
 name    B. V. Doshi: Q380449
 name    Charles Correa: Q699145
 name    Laurie Baker: Q1380014
@@ -2172,6 +2867,10 @@ founder John O. Merrill (SOM): Q6248544
 name    Peter Walker: no architect of that name
 founder Günter Behnisch (Behnisch & Partner): Q60694
 name    ALA Architects: no architect of that name
+founder Lene Tranberg (Lundgaard & Tranberg): Q6522397
+founder Boje Lundgaard (Lundgaard & Tranberg): Q17165537
+founder Ben van Berkel (UNStudio): Q565390
+founder Caroline Bos (UNStudio): Q547004
 founder Wong Mun Summ (WOHA): no architect of that name
 founder Richard Hassell (WOHA): no architect of that name
 name    Ignaty Milinis: Q4293407
@@ -2232,6 +2931,8 @@ name    Mies van der Rohe: Q41508
 name    Fritz Schupp: Q111145
 name    Martin Kremmer: Q1904319
 name    Fritz Höger: Q77380
+founder Leendert van der Vlugt (Brinkman & Van der Vlugt): Q1812135
+founder Johannes Brinkman (Brinkman & Van der Vlugt): Q962993
 founder Winy Maas (MVRDV): Q1356269
 founder Nathalie de Vries (MVRDV): Q469961
 name    Dorell Ghotmeh Tane: no architect of that name
@@ -2265,6 +2966,10 @@ founder Wolf D. Prix (Coop Himmelb): Q114444
 founder Michael Holzer (Coop Himmelb): no architect of that name
 name    Coop Himmelbau: no architect of that name
 name    Paul Bohm: Q98909
+founder Henk Döll (Mecanoo): Q119819797
+founder Roelf Steenhuis (Mecanoo): Q124869258
+founder Erick van Egeraat (Mecanoo): Q586951
+founder Chris de Weijer (Mecanoo): Q114779542
 name    Rogers Stirk Harbour: no architect of that name
 name    Alex Cvijanovic: Q25804017
 name    Howard Barnstone: Q17194320
@@ -2292,6 +2997,8 @@ name    Sashur Kalashyan: no architect of that name
 name    Eugene Freyssinet: Q697514
 name    Maciej Krasinski: Q55388119
 name    Jim Torosyan: no architect of that name
+founder Tay Kheng Soon (DP Architects): Q65685745
+founder Koh Seow Chuan (DP Architects): Q6425867
 name    DP Architects: no architect of that name
 name    Michael Wilford: Q326737
 name    Voll Arkitekter: no architect of that name
@@ -2328,6 +3035,8 @@ name    Ron Phillips: Q106713582
 name    Alan Fitch: Q106691674
 name    Zaha Hadid Architects: no architect of that name
 name    Bio-architecture Formosana: no architect of that name
+founder Chris Wilkinson (WilkinsonEyre): Q23680660
+founder Jim Eyre (WilkinsonEyre): Q19957748
 name    ARC Studio Architecture: no architect of that name
 name    Kisho Kurokawa: Q358502
 name    Tao Gofers: no architect of that name
@@ -2454,6 +3163,7 @@ name    Ramón Bescós: Q125242739
 founder Meinhard von Gerkan (gmp): Q76846
 founder Volkwin Marg (gmp): Q109445
 name    W. I. Turner: no architect of that name
+founder Martin Robain (Architecture-Studio): Q125245477
 name    Architecture-Studio: no architect of that name
 founder Thom Mayne (Morphosis): Q312847
 name    Teeple Architects: no architect of that name
@@ -2552,7 +3262,7 @@ founder Yui Tezuka (Tezuka Architects): Q11496979
 name    Tezuka Architects: no architect of that name
 name    Victor Horta: Q49744
 name    James Stirling: Q159619
-name    James Gowan: Q20643094
+name    James Gowan: no architect of that name
 name    Félix Candela: Q704609
 name    Altuğ Çinici: Q6084345
 name    Behruz Çinici: Q6065893
@@ -2562,6 +3272,7 @@ name    Bruno Morassutti: Q50375810
 name    Toyo Ito: Q333585
 name    Carlfried Mutschler: Q1041680
 name    Studio KO: no architect of that name
+founder Jean-Philippe Vassal (Lacaton & Vassal): Q18285075
 name    Gottfried Böhm: Q76841
 name    Valerio Olgiati: Q116136
 name    Rasem Badran: Q7294755
@@ -2637,7 +3348,7 @@ name    Peter Eisenman: Q317164
 name    Paul Rudolph: Q1277977
 name    Ralph Twitchell: Q16499856
 name    Tom Kundig: Q7816511
-name    Su Rogers: Q39171828
+founder Su Rogers (Richard and Su Rogers): Q39171828
 name    Luigi Snozzi: Q117448
 name    Sean Godsell: Q7441037
 name    Giuseppe Terragni: Q458653
@@ -2662,7 +3373,7 @@ name    Kyriakos Panagiotakos: Q12879578
 name    Vittorio Gigliotti: Q2528902
 name    Nicos Valsamakis: Q1772321
 name    Takis Zenetos: Q455547
-name    Kiyonori Kikutake: Q1352623
+name    Kiyonori Kikutake: no architect of that name
 name    Shigeru Ban: Q526725
 name    Kunio Maekawa: Q129938
 name    Mass Studies: no architect of that name
@@ -2783,6 +3494,7 @@ name    Studio Daniel Libeskind: no architect of that name
 name    Davis Partnership: no architect of that name
 name    Tod Williams Billie Tsien Architects: no architect of that name
 name    Nicholas Grimshaw: Q1348044
+founder Emilio Tuñón (Mansilla + Tuñón): Q2944065
 name    NL Architects: no architect of that name
 name    XVW architectuur: no architect of that name
 name    Gustav Düsing: Q135477726
@@ -2858,12 +3570,11 @@ name    Habib Rahman: Q25202937
 name    Kuldip Singh: Q102046151
 name    Nasreddin Murat-Khan: Q15627843
 name    Eric Vo Toan: no architect of that name
-name    Berthold Lubetkin: Q827997
+founder Berthold Lubetkin (Berthold Lubetkin and Tecton): Q827997
 name    Owen Williams: Q7114695
 name    London County Council Architects Department: no architect of that name
 name    Basil Spence: Q1172126
 name    Johnson-Marshall: no architect of that name
-name    Van der Vlugt: no architect of that name
 name    Erich Mendelsohn: Q76730
 name    Ludwig Mies van der Rohe: Q41508
 name    Vladimír Karfík: Q3504112
@@ -3016,6 +3727,7 @@ name    Kristine Jensen: Q21129522
 name    Ola Steen: Q125242629
 name    Kolbrún Ragnarsdóttir: no architect of that name
 name    Studio Granda: no architect of that name
+name    Ivar Tengbom: Q355090
 name    Wang Da-hong: Q30110196
 name    Zhang Bo: Q11067739
 name    Huang Pao-yu: no architect of that name
@@ -3025,7 +3737,7 @@ name    José Lei: Q55696695
 name    East China Architectural Design Institute: no architect of that name
 name    Manuel Monteserín: no architect of that name
 name    Kris Yao: Q6437314
-name    Zhang Jinqiu: Q9085791
+name    Zhang Jinqiu: no architect of that name
 name    Xing Tonghe: no architect of that name
 name    Tianjin Urban Planning: no architect of that name
 name    Design Institute: no architect of that name
@@ -3044,6 +3756,7 @@ name    Kao Er-pan: Q117810885
 name    Studio Fuksas: no architect of that name
 name    Tang dynasty builders: no architect of that name
 name    5th Dalai Lama: no architect of that name
+founder Mike Guyer (Gigon/Guyer): Q95287182
 name    Hans Scharoun: Q57481
 name    after designs by Hans Scharoun: no architect of that name
 name    Andrea Deplazes: Q493748
@@ -3783,12 +4496,10 @@ name    Michael Dysart: Q140033174
 name    Walter Burley Griffin: Q559852
 name    Marion Mahony Griffin: Q542546
 name    Dorman Long: no architect of that name
-name    Roy Rusden Ogg: no architect of that name
 name    Richard Ure: no architect of that name
 name    the Commonwealth Department of Works: no architect of that name
 name    Ministry of Works: no architect of that name
 name    John Smith Murdoch: Q6258400
-name    James Birrell: Q6129804
 name    Francis Greenway: Q970544
 name    James W. Fawcett: no architect of that name
 name    J. Clark: no architect of that name
@@ -3798,11 +4509,11 @@ name    Benjamin Mountfort: Q202497
 name    Samuel Hurst Seager: Q7411759
 name    G. Maunsell: no architect of that name
 name    Bennetts Associates: no architect of that name
-name    Ben van Berkel: Q565390
 name    Wingårdh arkitektkontor: no architect of that name
 name    refurbishment by Bennetts Associates: no architect of that name
 name    Charles Harrison Townsend: Q5078812
 name    Carmody Groarke: no architect of that name
+name    Jakob Prandtauer: Q78710
 name    Balthasar Neumann: Q61349
 name    Martin Weber: Q108629
 name    Fred Forbát: Q319788
@@ -3848,6 +4559,94 @@ name    Aleksey Gornostayev: Q4144635
 name    Aino Aalto: Q273511
 name    Birch-Bonderup: no architect of that name
 name    Thorup-Waade: no architect of that name
+name    Frederick P. Dinkelberg: Q5498500
+name    François Deslaugiers: Q3084443
+name    Mimar Sinan: Q5600
+name    César Pelli: Q309483
+name    Heinz M. Springmann: Q1600607
+name    Werner Sobek: Q70696
+name    Diana Balmori: no architect of that name
+name    NTT Facilities: no architect of that name
+name    Władysław Horodecki: Q1364361
+name    Dragiša Brašovan: Q1273105
+name    Joachim Giæver: Q11978655
+name    Andrey Ol: no architect of that name
+name    Davis Brody Bond: no architect of that name
+name    Karo Halabyan: Q2470897
+name    Vasiliy Simbirtsev: Q4419543
+name    Boris Barkhin: Q4078766
+name    Osvald Polívka: Q7108033
+name    Lipót Baumhorn: Q791512
+name    Heikkinen – Komonen Architects: no architect of that name
+name    Benthem Crouwel Architects: no architect of that name
+name    Wandel Lorch Götze Wach: no architect of that name
+name    Beyer Blinder Belle: no architect of that name
+name    Richard Rogers: Q237412
+name    Alan Koch: no architect of that name
+name    Lyn Rice: no architect of that name
+name    Galia Solomonoff: Q5518546
+name    Linda Taalman: Q139857637
+name    Sakakura Associates Architects: no architect of that name
+name    Manuel Herz: Q1707389
+name    Rossetti Architects: no architect of that name
+name    Reiulf Ramstad Arkitekter: no architect of that name
+name    Jacobsen Arquitetura: no architect of that name
+name    George J. Dietel: no architect of that name
+name    Boller Brothers: no architect of that name
+name    Ralph Thomas Walker: Q3418307
+name    Louis Bourgeois: Q3163898
+name    Jan Kotěra: Q506594
+name    Théophile Dedun: no architect of that name
+name    Dietmar Kuntzsch: Q1223468
+name    Michael Balz: no architect of that name
+name    B. Marcus Priteca: Q4834112
+name    Thilo Schoder: Q107075
+name    John Eberson: Q1699918
+name    Julius Luthmann: Q2030244
+name    Richard Schubert: no architect of that name
+name    J. R. Davidson: Q17488950
+name    Luigi Figini: Q18168553
+name    Gino Pollini: Q2529326
+name    Olaf Andreas Gulbransson: Q2017903
+name    Josep Maria Jujol: Q925005
+name    James Brown Lord: Q15452276
+name    Justus Dahinden: Q123654
+name    William L. Steele: Q8014216
+name    Kevin Roche: Q332610
+name    Karl Hans Neumann: Q21596844
+name    Benedikt Huber: Q816961
+name    Franz Füeg: Q1446854
+name    Zikmund Kerekes: Q12404315
+name    Denis Boniver: Q1187290
+name    Josef Lackner: Q1705096
+name    George W. Maher: Q4285694
+name    Hans Schilling: Q1582296
+name    Hubert Ritter: Q97698
+name    Jože Plečnik: Q314886
+name    Robert van 't Hoff: Q1394309
+name    Louis Madeline: Q3262581
+name    Mestres Wåge Arquitectes: no architect of that name
+name    Mendoza Partida: no architect of that name
+name    William Edward Willink: Q41064267
+name    Philip Coldwell Thicknesse: Q41064763
+name    Arthur Joseph Davis: Q4799294
+name    Jaroslav Fragner: Q206087
+name    Hélio Lage Uchôa Cavalcanti: Q105417674
+name    Ewald Bubner: Q125220376
+name    Nigoğayos Balyan: Q6007289
+name    B4FS Studio: no architect of that name
+name    Francesc Guàrdia i Vial: Q8962183
+name    Alexandre Soler i March: Q8194962
+name    Enric Viedma i Vidal: Q8776280
+name    Ángel Romaní Verdeguer: Q109016402
+name    Gunter Henn: Q91407
+name    Gabriele Tagliaventi: Q3094088
+name    Research Institute of Architecture: no architect of that name
+name    Conix Architects: no architect of that name
+name    Alexandre Marcel: Q723010
+name    Baghdasar Arzoumanian: Q4841840
+name    Kerala Public Works Department: no architect of that name
+name    Alamgir Kabir: no architect of that name
 skip    sainte-marie-de-la-tourette: Q2848816 'André Wogenscky' is not in 'Le Corbusier'
 skip    sainte-marie-de-la-tourette: Q152880 'Iannis Xenakis' is not in 'Le Corbusier'
 skip    villa-tugendhat: Q64648 'Lilly Reich' is not in 'Mies van der Rohe'
@@ -3921,13 +4720,10 @@ skip    theatre-des-champs-elysees: Q154083 'Henry van de Velde' is not in 'Augu
 skip    vm-houses: Q3359732 'PLOT' is a firm, not a person
 skip    vm-houses: Q2481701 'BIG' is not in 'PLOT'
 skip    tietgenkollegiet: Q6704138 'Lundgaard & Tranberg' is a firm, not a person
-skip    tietgenkollegiet: Q6522397 'Lene Tranberg' is not in 'Lundgaard & Tranberg'
 skip    reichstag: Q77357 'Paul Wallot' is not in 'Norman Foster'
 skip    reichstag: Q99324 'Paul Baumgarten' is not in 'Norman Foster'
 skip    walden-7: Q4766864 'Anna Bofill Leví' is not in 'Ricardo Bofill'
 skip    mercedes-benz-museum: Q2062078 '' is not in 'UNStudio'
-skip    mercedes-benz-museum: Q565390 'Ben van Berkel' is not in 'UNStudio'
-skip    mercedes-benz-museum: Q547004 'Caroline Bos' is not in 'UNStudio'
 skip    mountain-dwellings: Q2481701 'BIG' is a firm, not a person
 skip    the-met: Q944660 'WOHA' is a firm, not a person
 skip    narkomfin-building: Q4293407 '' is not in 'Moisei Ginzburg, Ignaty Milinis'
@@ -4231,7 +5027,7 @@ skip    nemo-science-museum: Q100604548 'Renzo Piano Building Workshop' is a fir
 skip    philharmonie-de-paris: Q312838 'Christian de Portzamparc' is not in 'Ateliers Jean Nouvel'
 skip    immeuble-clarte: Q115575 'Pierre Jeanneret' is not in 'Le Corbusier'
 skip    martin-luther-king-jr-memorial-library: Q6804385 'Mecanoo' is not in 'Ludwig Mies van der Rohe'
-skip    fountain-place: Q6623279 'Pei Cobb Freed & Partners' is a firm, not a person
+skip    fountain-place: Q6623279 'PCF Architects' is not in 'Henry N. Cobb (Pei Cobb Freed & Partners)'
 skip    soreq-nuclear-research-center: Q6962528 'Moshe Zarhy' is not in 'Philip Johnson'
 skip    kunsten-museum-of-modern-art-aalborg: Q82840 'Alvar Aalto' is not in 'Alvar and Elissa Aalto with Jean-Jacques Baruël'
 skip    villa-le-lac: Q115575 'Pierre Jeanneret' is not in 'Le Corbusier'
@@ -4251,8 +5047,8 @@ skip    wembley-stadium: Q1208016 'Foster and Partners' is not in 'Foster + Part
 skip    wembley-stadium: Q1082849 'Populous' is not in 'Foster + Partners'
 skip    mode-gakuen-cocoon-tower: Q11368479 'Tange Associates' is a firm, not a person
 skip    space-needle: Q6235938 'John Graham & Company' is a firm, not a person
-skip    palazzo-lombardia: Q6623279 'Pei Cobb Freed & Partners' is a firm, not a person
-skip    torre-emperador-castellana-torre-espacio: Q6623279 'Pei Cobb Freed & Partners' is a firm, not a person
+skip    palazzo-lombardia: Q6623279 'PCF Architects' is not in 'Pei Cobb Freed & Partners'
+skip    torre-emperador-castellana-torre-espacio: Q6623279 'PCF Architects' is not in 'Pei Cobb Freed & Partners'
 skip    metlife-building: Q984149 'The Architects Collaborative' is not in 'Emery Roth & Sons, Walter Gropius and Pietro Belluschi'
 skip    asahi-group-oyamazaki-villa-museum-of-art: Q11399696 'Shōtarō Kaga' is not in 'Tadao Ando'
 skip    carnegie-hall: Q8019589 'William Tuthill' is not in 'William Burnet Tuthill'
@@ -4325,7 +5121,6 @@ skip    city-hall-and-central-library-the-hague: Q125280846 'Gunter R. Standke' 
 skip    muuratsalo-experimental-house: Q2628666 'Elissa Aalto' is not in 'Alvar Aalto'
 skip    lake-point-tower: Q107267327 'Schipporeit-Heinrich, Inc.' is a firm, not a person
 skip    herz-jesu-kirche: Q646162 'Allmann Sattler Wappner' is a firm, not a person
-skip    agora-theatre: Q565390 'Ben van Berkel' is not in 'UNStudio'
 skip    agora-theatre: Q2062078 '' is not in 'UNStudio'
 skip    abbey-of-st-benedictusberg: Q75843 'Dominikus Böhm' is not in 'Dom Hans van der Laan'
 skip    abbey-of-st-benedictusberg: Q108629 'Martin Weber' is not in 'Dom Hans van der Laan'
@@ -4497,7 +5292,6 @@ skip    finsbury-health-centre: Q7692833 'Tecton Group' is not in 'Berthold Lube
 skip    economist-building: Q547644 'Alison and Peter Smithson' is a firm, not a person
 skip    st-peters-seminary-cardross: Q5562111 'Gillespie, Kidd & Coia' is a firm, not a person
 skip    sonneveld-house: Q108395615 'Brinkman & Van der Vlugt' is a firm, not a person
-skip    sonneveld-house: Q962993 'Johannes Brinkman' is not in 'Brinkman & Van der Vlugt'
 skip    bergpolderflat: Q108395615 'Brinkman & Van der Vlugt' is a firm, not a person
 skip    prudential-house-warsaw: Q8864337 'Venčeslav Poniž' is not in 'Marcin Weinfeld; steel frame by Stefan Bryła and Wenczesław Poniż'
 skip    palazzo-della-civilta-italiana: Q3057271 'Ernesto Lapadula' is not in 'Giovanni Guerrini, Ernesto Bruno La Padula, Mario Romano'
@@ -4784,3 +5578,126 @@ skip    rovaniemi-city-hall: Q2628666 'Elissa Aalto' is not in 'Alvar Aalto'
 skip    finnish-state-guesthouse: Q4777425 'Antti Nurmesniemi' is not in 'Einari Teräsvirta'
 skip    ympyratalo: Q3129431 'Heikki Siren' is not in 'Heikki and Kaija Siren'
 skip    uspenski-cathedral: Q4144635 'Aleksey Gornostaev' is not in 'Aleksey Gornostayev'
+skip    empire-state-building: Q617190 'Shreve, Lamb & Harmon' is a firm, not a person
+skip    brooklyn-museum: Q1915267 'McKim, Mead & White' is a firm, not a person
+skip    hoki-museum: Q2804130 'Nikken Sekkei' is a firm, not a person
+skip    mode-gakuen-spiral-towers: Q2804130 'Nikken Sekkei' is a firm, not a person
+skip    city-gate: Q983151 'Francesco Laparelli' is not in 'Renzo Piano'
+skip    city-gate: Q657945 'Tumas Dingli' is not in 'Renzo Piano'
+skip    wells-fargo-center: Q1409553 'Ellerbe Becket' is not in 'César Pelli'
+skip    omniturm: Q2481701 'BIG' is a firm, not a person
+skip    buen-kulturhus: Q2844719 '3XN' is a firm, not a person
+skip    waldspirale: Q1600607 'Heinz Springmann' is not in 'Friedensreich Hundertwasser, Heinz M. Springmann'
+skip    carolina-rediviva: Q352843 'Peter Celsing' is not in 'Carl Fredrik Sundvall'
+skip    carolina-rediviva: Q721287 'Axel Anderberg' is not in 'Carl Fredrik Sundvall'
+skip    carolina-rediviva: Q5614289 'Jöran Curman' is not in 'Carl Fredrik Sundvall'
+skip    hotel-otlet: Q154083 'Henry van de Velde' is not in 'Octave Van Rysselberghe'
+skip    osaka-museum-of-history: Q11509101 'Nihon Sekkei' is a firm, not a person
+skip    osaka-museum-of-history: Q11236098 'NTT Facilities' is a firm, not a person
+skip    palazzo-dello-strozzino: Q1382978 'Marcello Piacentini' is not in 'Michelozzo, Giuliano da Maiano'
+skip    palazzo-dello-strozzino: Q3761765 'Ghino Venturi' is not in 'Michelozzo, Giuliano da Maiano'
+skip    st-bartholomews-episcopal-church: Q1915267 'McKim, Mead & White' is a firm, not a person
+skip    pasadena-city-hall: Q98277862 'Bakewell & Brown' is a firm, not a person
+skip    pasadena-city-hall: Q98277867 'John Bakewell Jr.' is not in 'Bakewell & Brown'
+skip    pasadena-city-hall: Q4798105 'Arthur Brown, Jr.' is not in 'Bakewell & Brown'
+skip    museum-of-art-architecture-and-technology: Q4739677 'AL_A' is a firm, not a person
+skip    seville-public-library: Q5190332 'Cruz y Ortiz' is a firm, not a person
+skip    forum-groningen: Q1238892 'NL Architects' is a firm, not a person
+skip    nuevos-ministerios: Q28971920 'José Gómez Mesa' is not in 'Secundino Zuazo'
+skip    nuevos-ministerios: Q5861690 'Miguel Ángel García-Lomas' is not in 'Secundino Zuazo'
+licence Joachim Gotsche Giæver: No restrictions, not used
+skip    rosecliff: Q572735 'Stanford White' is not in 'McKim, Mead & White'
+skip    rosecliff: Q1915267 'McKim, Mead & White' is a firm, not a person
+skip    bolshoy-dom: Q4334064 'Andrei Ol' is not in 'Noi Trotsky, Alexander Gegello, Andrey Ol'
+skip    perelman-performing-arts-center: Q6290134 'Joshua Ramus' is not in 'Joshua Prince-Ramus, Davis Brody Bond'
+skip    allen-memorial-art-museum: Q457718 'Denise Scott Brown' is not in 'Cass Gilbert'
+skip    allen-memorial-art-museum: Q212312 'Robert Venturi' is not in 'Cass Gilbert'
+skip    sven-harry-s-art-museum: Q8025344 'Wingårdh arkitektkontor' is a firm, not a person
+skip    cluj-napoca-national-theatre: Q694854 'Fellner & Helmer' is a firm, not a person
+skip    heureka: Q5699361 'Heikkinen – Komonen Architects' is a firm, not a person
+skip    heureka: Q6849966 'Mikko Heikkinen' is not in 'Heikkinen – Komonen Architects'
+skip    heureka: Q15439510 'Markku Komonen' is not in 'Heikkinen – Komonen Architects'
+skip    013: Q1918940 'Jan Benthem' is not in 'Benthem Crouwel Architects'
+skip    013: Q1919721 'Mels Crouwel' is not in 'Benthem Crouwel Architects'
+skip    013: Q818259 'Benthem Crouwel Architects' is a firm, not a person
+skip    de-doelen: Q2526104 'Kraaijvanger' is a firm, not a person
+skip    de-doelen: Q20857319 'Evert Kraaijvanger' is not in 'Kraaijvanger, Rein Fledderus'
+skip    de-doelen: Q21329034 'Herman Kraaijvanger' is not in 'Kraaijvanger, Rein Fledderus'
+skip    jewish-museum-munich: Q1351265 'Wandel Lorch Götze Wach' is a firm, not a person
+skip    minnaert-building: Q7002930 'Neutelings Riedijk Architects' is a firm, not a person
+skip    100-eleventh-avenue: Q16951458 'Beyer Blinder Belle' is a firm, not a person
+skip    el-palauet: Q3791159 'José María Manuel Cortina Pérez' is not in 'Arata Isozaki'
+skip    kfw-westarkade: Q205787 'Sauerbruch Hutton' is a firm, not a person
+skip    ciudad-bbva: Q308776 'Herzog & de Meuron' is a firm, not a person
+skip    burghof-lorrach: Q2571082 'Steib + Steib' is a firm, not a person
+skip    dia-beacon: Q139857637 '' is not in 'Robert Irwin, Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman'
+skip    otsuka-museum-of-art: Q11424955 'Sakakura Associates Architects and Engineers' is a firm, not a person
+skip    stc-group: Q7002930 'Neutelings Riedijk Architects' is a firm, not a person
+skip    museum-belvedere: Q2691552 'Inbo' is a firm, not a person
+skip    bing-concert-hall: Q5379142 'Ennead, a CannonDesign Company' is not in 'Ennead Architects'
+skip    diehtosiida: Q17103024 'Reiulf Ramstad Arkitekter' is a firm, not a person
+skip    museum-for-architectural-drawing: Q19741818 'SPEECH architectural office' is not in 'Sergei Tchoban, Sergey Kuznetsov'
+skip    museu-de-arte-do-rio: Q125509341 'Jacobsen Arquitetura' is a firm, not a person
+skip    raadhuis-van-usquert: Q2598394 'Berend Jager' is not in 'Hendrik Petrus Berlage'
+skip    raadhuis-van-usquert: Q96791282 'Emil Emanuel Strasser' is not in 'Hendrik Petrus Berlage'
+skip    haus-riehl: Q1594656 'Heiko Folkerts' is not in 'Ludwig Mies van der Rohe'
+skip    rio-theatre: Q4939758 'Boller Brothers' is a firm, not a person
+skip    st-fronleichnam: Q97133 'Rudolf Schwarz' is not in 'Gottfried Böhm'
+skip    bahai-house-of-worship: Q16192736 'Siamak Hariri' is not in 'Louis Bourgeois'
+skip    eglise-sainte-therese-de-lenfant-jesus-de-metz: Q2848512 'André Remondet' is not in 'Roger-Henri Expert, Théophile Dedun'
+skip    smith-tower: Q99439479 'Gaggin & Gaggin' is a firm, not a person
+skip    villa-allegonda: Q3417665 'Albert Aalbers' is not in 'Hendrik Jesse, J. J. P. Oud'
+skip    palazzo-delle-poste: Q2600272 'Cesare Bazzani' is not in 'Angiolo Mazzoni'
+skip    hochhaus-wurttembergische-strasse-6: Q1525519 'Hermann Kirchberger' is not in 'Werry Roth, Richard Schubert'
+skip    case-study-house-no-1: Q17488950 'JR (Julius Ralph) Davidson' is not in 'J. R. Davidson'
+skip    duey-and-julia-wright-house: Q6265463 '' is not in 'Frank Lloyd Wright, John H. Howe'
+skip    gnadenkirche: Q1406726 'Fernando Lorenzen' is not in 'Otto Bartning'
+skip    suchardova-vila: Q63645303 'František Schlaffer' is not in 'Jan Kotěra'
+skip    st-maria-konigin: Q97133 'Rudolf Schwarz' is not in 'Gottfried Böhm'
+skip    st-johannes-der-taufer: Q1047877 'Caspar Feuchtmayer' is not in 'Gottfried Böhm'
+skip    yorkville-library: Q105104830 'Robert McCallum' is not in 'James Brown Lord'
+skip    yorkville-library: Q105724402 'Barton Myers Associates' is not in 'James Brown Lord'
+skip    kirche-st-antonius: Q16937614 'Hanns Anton Brütsch' is not in 'Justus Dahinden'
+skip    villa-low-beer: Q60177401 'Rudolf Baumfeld' is not in 'Alexander Neumann'
+skip    villa-low-beer: Q1997173 'Norbert Schlesinger' is not in 'Alexander Neumann'
+skip    opera-de-vichy: Q133537841 '' is not in 'Charles Lecoeur'
+skip    bruder-klaus-kirche: Q47511959 'Wilhelm Schulte II.' is not in 'Karl Hans Neumann'
+skip    villa-bass: Q12404315 'Asher Hiram' is not in 'Zikmund Kerekes'
+skip    edward-p-evans-hall: Q1208016 'Foster and Partners' is a firm, not a person
+skip    kasson-municipal-building: Q7260907 'Purcell & Elmslie' is a firm, not a person
+skip    kalmar-konstmuseum: Q10694949 'Tham & Videgård Arkitekter' is a firm, not a person
+skip    kunstsilo: Q12004378 'Sverre Aasland' is not in 'Mestres Wåge Arquitectes, BAX, Mendoza Partida'
+skip    kunstsilo: Q1777577 'Arne Korsmo' is not in 'Mestres Wåge Arquitectes, BAX, Mendoza Partida'
+skip    cunard-building: Q4889403 'Benjamin Wistar Morris' is not in 'William Edward Willink, Philip Coldwell Thicknesse, Arthur Joseph Davis'
+skip    ogasawara-museum: Q737536 'SANAA' is a firm, not a person
+skip    st-gertrud: Q2575331 'Wilhelm Sültenfuß' is not in 'Gottfried Böhm'
+skip    st-matthaus: Q111377 'Christian Friedrich Arnold' is not in 'Gottfried Böhm'
+skip    cohen-house: Q104898 'Norman Foster' is not in 'Erich Mendelsohn, Serge Chermayeff'
+skip    centre-civic-de-riudaura: Q11701698 'RCR Arquitectes' is a firm, not a person
+skip    st-josef: Q1511583 'Gerhard Franz Langenberg' is not in 'Gottfried Böhm'
+skip    mercury-tower: Q8064602 'Zaha Hadid Architects' is a firm, not a person
+skip    marsk-tower: Q2481701 'BIG' is a firm, not a person
+skip    stopera: Q822308 'Bernard Bijvoet' is not in 'Wilhelm Holzbauer, Cees Dam'
+skip    stopera: Q1977144 'Gerard Holt' is not in 'Wilhelm Holzbauer, Cees Dam'
+skip    santiago-del-estero-forum: Q5715546 'B4FS Studio' is a firm, not a person
+skip    turku-main-library: Q11852611 'JKMM Architects' is a firm, not a person
+skip    hans-christian-andersen-museum: Q117114556 'Kengo Kuma & Associates' is a firm, not a person
+skip    kiruna-city-hall: Q1339465 'Henning Larsen Architects' is a firm, not a person
+skip    knarvik-church: Q17103024 'Reiulf Ramstad Arkitekter' is a firm, not a person
+skip    seacity-museum: Q3405448 'WilkinsonEyre' is a firm, not a person
+skip    phoenix-center: Q30947660 'Beijing Institute of Architectural Design' is a firm, not a person
+skip    nottingham-contemporary: Q2940701 'Caruso St John' is a firm, not a person
+skip    zaryadye-concert-hall: Q4365345 'Vladimir Plotkin' is not in 'Diller Scofidio + Renfro'
+skip    fjordenhus: Q6704138 'Lundgaard & Tranberg' is a firm, not a person
+skip    paneum: Q867205 'Coop Himmelb(l)au' is a firm, not a person
+skip    boekenberg: Q932801 'MVRDV' is a firm, not a person
+skip    boekenberg: Q225927 'Jacob van Rijs' is not in 'Winy Maas, MVRDV'
+skip    chiesa-di-san-giacomo-apostolo: Q54833635 'Ottavio Bettoli' is not in 'Benedetta Tagliabue'
+skip    toyama-kirari: Q11285799 'Research Institute of Architecture' is a firm, not a person
+skip    matsudai-nohbutai: Q932801 'MVRDV' is a firm, not a person
+skip    viborg-town-hall: Q1339465 'Henning Larsen Architects' is a firm, not a person
+skip    herman-teirlinck-building: Q7002930 'Neutelings Riedijk Architects' is a firm, not a person
+skip    herman-teirlinck-building: Q99761590 'Conix Architects' is a firm, not a person
+skip    centre-for-interactive-research-on-sustainability: Q5818919 'Perkins & Will' is a firm, not a person
+skip    our-lady-of-heliopolis-co-cathedral: Q3057014 'Ernest Jaspar' is not in 'Alexandre Marcel'
+skip    niyamasabha-mandiram: Q17064597 'Kerala Public Works Department' is a firm, not a person

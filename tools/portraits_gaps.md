@@ -4,68 +4,69 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 
 | Name | Buildings | For example |
 |---|---|---|
-| Associates | 40 | Knights of Columbus Building |
+| Associates | 37 | Bangkok Art and Culture Centre |
 | Partners | 34 | 122 Leadenhall Street |
+| Kunio Maekawa | 13 | Tokyo Bunka Kaikan |
 | Jørn Utzon | 12 | Sydney Opera House |
-| Kunio Maekawa | 12 | Tokyo Bunka Kaikan |
 | Gordon Bunshaft | 11 | Beinecke Rare Book & Manuscript Library |
 | Merrill | 10 | Al Hamra Tower |
+| Nikken Sekkei | 10 | Tokyo Skytree |
 | SOM | 10 | Beinecke Rare Book & Manuscript Library |
+| Coop Himmelbau | 9 | BMW Welt |
 | Owings | 9 | Al Hamra Tower |
 | Skidmore | 9 | Al Hamra Tower |
-| Berthold Lubetkin | 8 | Highpoint I |
-| Coop Himmelbau | 8 | BMW Welt |
+| Arthur Erickson | 8 | Museum of Anthropology at UBC |
 | Geoffrey Bawa | 8 | Heritance Kandalama |
-| Nikken Sekkei | 8 | Tokyo Skytree |
 | Welton Becket | 8 | Capitol Records Building |
+| 3XN | 7 | Muziekgebouw aan 't IJ |
+| Berthold Lubetkin | 7 | Highpoint I |
+| Michael Wilford | 7 | Esplanade - Theatres on the Bay |
 | Palmer | 7 | Peace Hotel (Sassoon House) |
 | Rogelio Salmona | 7 | Torres del Parque |
 | Ryue Nishizawa | 7 | Moriyama House |
 | Turner | 7 | Peace Hotel (Sassoon House) |
-| 3XN | 6 | Muziekgebouw aan 't IJ |
-| Arthur Erickson | 6 | Museum of Anthropology at UBC |
+| Helmut Jahn | 6 | Messeturm |
 | Kiyonori Kikutake | 6 | Edo-Tokyo Museum |
 | Mahendra Raj | 6 | Sardar Vallabhbhai Patel Stadium |
-| Michael Wilford | 6 | Esplanade - Theatres on the Bay |
 | Partner | 6 | Munich Olympic Stadium |
 | Populous | 6 | Lusail Stadium |
 | Ricardo Legorreta | 6 | Museo de Arte Contemporáneo de Monterrey |
-| White | 6 | The Morgan Library & Museum |
 | team | 6 | Civic Center of Lima |
 | Behnisch | 5 | Munich Olympic Stadium |
 | Denton Corker Marshall | 5 | Melbourne Museum |
 | Hiroshi Hara | 5 | Kyoto Station Building |
 | Marg | 5 | National Stadium (PGE Narodowy) |
+| Neutelings Riedijk Architects | 5 | Museum aan de Stroom (MAS) |
 | Powell | 5 | Barbican Estate |
 | Roy Grounds | 5 | Shine Dome |
+| Sauerbruch Hutton | 5 | Museum Brandhorst |
 | Vilanova Artigas | 5 | FAU-USP Building |
+| WilkinsonEyre | 5 | Gardens by the Bay Cooled Conservatories |
 | Architectus | 4 | Queen Elizabeth II Courts of Law |
 | Ashton Raggatt McDougall | 4 | RMIT Storey Hall |
 | Behnisch Architekten | 4 | Ozeaneum |
+| Bertram Goodhue | 4 | Nebraska State Capitol |
 | E. Stewart Williams | 4 | Palm Springs Art Museum |
 | Enric Miralles | 4 | Scottish Parliament Building |
+| Fellner | 4 | Croatian National Theatre |
 | Gerkan | 4 | Arena da Amazônia |
+| Guðjón Samúelsson | 4 | Hallgrímskirkja |
 | Harry Weese | 4 | Washington Metro stations |
-| Hassell | 4 | Adelaide Festival Centre |
-| Helmut Jahn | 4 | Messeturm |
+| Helmer | 4 | Croatian National Theatre |
 | Henry N. Cobb | 4 | John Hancock Tower |
+| Hiroshi Naito | 4 | Toba Sea-Folk Museum |
+| Juha Leiviskä | 4 | Männistö Church |
 | Kazuo Shinohara | 4 | Centennial Hall, Tokyo Institute of Technology |
-| Lacaton | 4 | Nantes School of Architecture |
-| Mansilla | 4 | MUSAC, Museum of Contemporary Art of Castilla y León |
-| Mecanoo | 4 | Library of Birmingham |
+| Lundgaard | 4 | Tietgenkollegiet |
 | Nayyar Ali Dada | 4 | Alhamra Arts Council |
-| Nieto Sobejano Arquitectos | 4 | Arvo Pärt Centre |
 | O'Donnell | 4 | Saw Swee Hock Student Centre, LSE |
 | Ortner | 4 | Leopold Museum |
 | Pietro Belluschi | 4 | Cathedral of Saint Mary of the Assumption |
 | Root | 4 | Palmolive Building |
-| Sauerbruch Hutton | 4 | Museum Brandhorst |
 | Schmidt Hammer Lassen | 4 | Black Diamond |
-| Tecton | 4 | Highpoint I |
+| Tranberg | 4 | Tietgenkollegiet |
 | Tuomey | 4 | Saw Swee Hock Student Centre, LSE |
-| Tuñón | 4 | MUSAC, Museum of Contemporary Art of Castilla y León |
-| Vassal | 4 | Nantes School of Architecture |
-| WilkinsonEyre | 4 | Gardens by the Bay Cooled Conservatories |
+| Yang Cho-cheng | 4 | Chiang Kai-shek Memorial Hall |
 | Yoshinobu Ashihara | 4 | National Museum of Japanese History |
 | Alison | 3 | Upper Lawn Pavilion |
 | Architecture-Studio | 3 | Louise Weiss Building, European Parliament |
@@ -73,55 +74,63 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Artur Tarkhanyan | 3 | Rossiya Cinema |
 | Bailey | 3 | Council House |
 | Basil Spence | 3 | Coventry Cathedral |
-| Bertram Goodhue | 3 | Nebraska State Capitol |
+| Beijing Institute of Architectural Design | 3 | Beijing National Indoor Stadium |
 | Bon | 3 | Barbican Estate |
-| Brinkman | 3 | Van Nelle Factory |
 | Bruce Goff | 3 | Pavilion for Japanese Art, LACMA |
 | Bruce Graham | 3 | John Hancock Center |
 | Burnham | 3 | Rookery Building |
 | Chamberlin | 3 | Barbican Estate |
-| DP Architects | 3 | Esplanade - Theatres on the Bay |
+| Cruz y Ortiz | 3 | Seville–Santa Justa Station |
 | Elemental | 3 | Quinta Monroy |
 | Future Systems | 3 | Museo Enzo Ferrari |
-| Gigon | 3 | Prime Tower |
-| Guyer | 3 | Prime Tower |
-| Guðjón Samúelsson | 3 | Hallgrímskirkja |
+| George Wittet | 3 | Gateway of India |
+| Gilbert Stanley Underwood | 3 | Timberline Lodge |
 | Günther Domenig | 3 | Documentation Center Nazi Party Rally Grounds |
-| HKS | 3 | U.S. Bank Stadium |
+| Hassell | 3 | Adelaide Festival Centre |
 | Holabird | 3 | Palmolive Building |
 | Howlett | 3 | Council House |
+| JKMM Architects | 3 | Amos Rex |
 | John Andrews | 3 | CN Tower |
 | John Lautner | 3 | Sheats-Goldstein Residence |
 | Josef Paul Kleihues | 3 | Hamburger Bahnhof |
 | Joseon builders | 3 | Jongmyo Shrine |
 | Joseph Allen Stein | 3 | India Habitat Centre |
-| Juha Leiviskä | 3 | Männistö Church |
 | Kashef Mahboob Chowdhury | 3 | Friendship Centre |
+| Leandro Locsin | 3 | Philippine International Convention Center |
 | Legorreta | 3 | Torre BBVA Mexico |
-| Lundgaard | 3 | Tietgenkollegiet |
 | Mario Roberto Álvarez | 3 | Teatro General San Martín |
 | Masato Otaka | 3 | Sakaide Artificial Ground |
+| NL Architects | 3 | DeFlat Kleiburg |
 | Nicholas Grimshaw | 3 | Eden Project |
-| Renfro | 3 | High Line |
+| Pancho Guedes | 3 | Saipal Bakery |
+| Perkins | 3 | Crow Island School |
+| Rino Levi | 3 | Santo André Civic Centre |
 | Robert Matthew | 3 | Royal Festival Hall |
 | Sedad Hakkı Eldem | 3 | Hilton Istanbul |
+| Sep Ruf | 3 | St. Johann von Capistran |
 | Shin Takamatsu | 3 | Shoji Ueda Museum of Photography |
+| Tecton | 3 | Highpoint I |
 | Tezuka Architects | 3 | Fuji Kindergarten |
-| Tranberg | 3 | Tietgenkollegiet |
-| UNStudio | 3 | Mercedes-Benz Museum |
+| Ulrich Müther | 3 | Café Seerose |
 | Venturi | 3 | Guild House |
+| Videgård Arkitekter | 3 | Moderna Museet Malmö |
 | Walter Netsch | 3 | Cadet Chapel, US Air Force Academy |
 | Werner Düttmann | 3 | Brücke Museum |
 | Wilkinson Eyre | 3 | Magna Science Adventure Centre |
-| Yang Cho-cheng | 3 | Chiang Kai-shek Memorial Hall |
+| Will | 3 | Crow Island School |
 | gmp Architekten | 3 | Hanoi Museum |
 | ALA Architects | 2 | Helsinki Central Library Oodi |
 | AREP | 2 | Aspire Tower (The Torch Doha) |
 | Abdol Aziz Farmanfarmaian | 2 | Carpet Museum of Iran |
 | Abramovitz | 2 | United Nations Headquarters |
+| Adolf Meyer | 2 | Fagus Factory |
 | Ahmed Hussain Agha | 2 | Karachi Chamber of Commerce and Industry Building |
+| Aimaro Isola | 2 | Talponia (Unità residenziale Ovest) |
+| Akira Kuryu | 2 | Nagasaki National Peace Memorial Hall |
 | Albert Frey | 2 | Tramway Gas Station |
 | Alejandro de la Sota | 2 | Gimnasio Maravillas |
+| Alexandre Marcel | 2 | Baron Empain Palace |
+| Alexandre Vallaury | 2 | Istanbul Archaeology Museums |
 | Amateur Architecture Studio | 2 | Vertical Courtyard Apartments |
 | Anderson | 2 | Wrigley Building |
 | Andra Matin | 2 | Potato Head Beach Club |
@@ -131,69 +140,93 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Avraham Miletsky | 2 | Salyut Hotel |
 | Baharuddin Abu Kassim | 2 | Masjid Negara |
 | Bates Smart | 2 | Federation Square |
-| Beijing Institute of Architectural Design | 2 | Beijing National Indoor Stadium |
 | Bernard Zehrfuss | 2 | CNIT |
+| Bernardo Bader | 2 | Islamic Cemetery Altach |
 | Bertrand Goldberg | 2 | Marina City |
+| Boris Barkhin | 2 | Russian Army Theatre |
 | Bresciani | 2 | Unidad Vecinal Portales |
 | Building Design Partnership | 2 | Preston Bus Station |
+| C. Howard Crane | 2 | Fox Theatre (Detroit) |
+| Carlo Mollino | 2 | Teatro Regio |
 | Castillo | 2 | Unidad Vecinal Portales |
+| Charles Luckman | 2 | Television City |
+| Charles Moore | 2 | Piazza d'Italia |
 | Christ | 2 | Kunstmuseum Basel, New Building |
+| Coia | 2 | St Peter's Seminary |
 | Cox Architecture | 2 | Helix Bridge |
 | Cristián Undurraga | 2 | Capilla del Retiro |
-| Cruz y Ortiz | 2 | Seville–Santa Justa Station |
 | Cui Kai | 2 | Capital Museum |
 | Dale Owen | 2 | Broadcasting House, Cardiff |
 | Design Partnership | 2 | People's Park Complex |
 | Diener | 2 | Swiss Embassy, Berlin (extension) |
 | Domingo de Petrés | 2 | Primatial Cathedral of Bogotá |
+| Dušan Džamonja | 2 | Monument to the Revolution of the People of Moslavina |
 | E. Fay Jones | 2 | Thorncrown Chapel |
 | Edward Larrabee Barnes | 2 | Dallas Museum of Art |
+| Engineers | 2 | LASALLE College of the Arts |
+| Ennead Architects | 2 | Shanghai Astronomy Museum |
 | Enrico Del Debbio | 2 | Stadio dei Marmi |
 | Erno Goldfinger | 2 | Balfron Tower |
 | Ernő Goldfinger | 2 | Trellick Tower |
 | Esguerra | 2 | Avianca Building |
-| Fellner | 2 | Croatian National Theatre |
 | Fender Katsalidis | 2 | Museum of Old and New Art |
 | Fernando Távora | 2 | Pousada de Santa Marinha |
+| Francesco Gianotti | 2 | Confitería del Molino |
 | Francisco Becerra | 2 | Cusco Cathedral |
+| Frederick P. Dinkelberg | 2 | Flatiron Building |
+| Friedrich Eugen Scholer | 2 | Stuttgart Hauptbahnhof |
+| Gaggin | 2 | Smith Tower |
 | Gantenbein | 2 | Kunstmuseum Basel, New Building |
-| George Wittet | 2 | Gateway of India |
 | Gesellius | 2 | Hvitträsk |
 | Giancarlo Mazzanti | 2 | Parque Biblioteca España |
-| Gilbert Stanley Underwood | 2 | Timberline Lodge |
+| Gillespie | 2 | St Peter's Seminary |
 | Goris | 2 | De Krook |
 | Gottlieb Redecker | 2 | Tintenpalast (Parliament Building) |
 | Grachya Poghosyan | 2 | Rossiya Cinema |
 | Grimshaw Architects | 2 | Southern Cross Station |
+| Guillaume Gillet | 2 | Notre-Dame de Royan |
+| HKS | 2 | U.S. Bank Stadium |
 | Haldenby | 2 | Robarts Library |
 | Han Tümertekin | 2 | SALT Galata |
+| Hans Schilling | 2 | Neu St. Alban |
 | Harrison | 2 | United Nations Headquarters |
-| Helmer | 2 | Croatian National Theatre |
+| Heinrich Lauterbach | 2 | WUWA Building no. 35 |
+| Heinz Tesar | 2 | Donau City Church |
 | Heneghan Peng | 2 | Palestinian Museum |
 | Hentrich | 2 | Ruhr University Bochum |
 | Herreros | 2 | Woermann Tower |
-| Hiroshi Naito | 2 | Toba Sea-Folk Museum |
 | Huidobro | 2 | Unidad Vecinal Portales |
+| Ilmari Lahdelma | 2 | Finnish Forest Museum Lusto |
 | Ingenhoven Architects | 2 | European Investment Bank |
 | J. Mayer H. | 2 | Metropol Parasol |
 | J. Mayer H. Architects | 2 | Sarpi Border Checkpoint |
-| JKMM Architects | 2 | Amos Rex |
+| James Gowan | 2 | Leicester University Engineering Building |
+| Jan Víšek | 2 | Janáček Theatre |
 | Jasmax | 2 | Te Papa Tongarewa |
 | Jensen | 2 | Mortensrud Church |
+| John Gaw Meem | 2 | Jonson Gallery |
+| John H. Howe | 2 | Duey and Julia Wright House |
 | John Portman | 2 | Hyatt Regency San Francisco |
 | John Wardle Architects | 2 | Melbourne School of Design (Glyn Davis Building) |
 | Johnson-Marshall | 2 | Royal Commonwealth Pool |
+| Joseph Klarwein | 2 | Knesset |
+| Joshua Prince-Ramus | 2 | Dee and Charles Wyly Theatre |
 | José Fernandes Pinto Alpoim | 2 | Paço Imperial |
 | Jozef Ploszko | 2 | Palace of Happiness |
+| Jr. | 2 | Cecil H. Green Library |
+| Julio Vilamajó | 2 | Faculty of Engineering, University of the Republic |
 | Kallmann McKinnell | 2 | Boston City Hall |
 | Kamran Diba | 2 | Tehran Museum of Contemporary Art |
 | Karl Schwanzer | 2 | Belvedere 21 |
+| Kidd | 2 | St Peter's Seminary |
 | Knud Munk | 2 | Grieg Hall |
-| Kohl | 2 | KölnTurm |
 | Kārlis Zāle | 2 | Freedom Monument |
+| Lamb | 2 | Reynolds Building |
 | Leonid Ukhobotov | 2 | Hotel Kazakhstan |
 | Lindgren | 2 | Hvitträsk |
+| Lloyd Wright | 2 | Wayfarers Chapel |
 | Lord | 2 | Boston Government Service Center |
+| Louis-Hippolyte Boileau | 2 | Palais de Chaillot |
 | Lyons | 2 | Paula Fox Melanoma and Cancer Centre |
 | Léon Azéma | 2 | Douaumont Ossuary |
 | MJ Long | 2 | British Library |
@@ -201,23 +234,27 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Malcolm Fraser Architects | 2 | Scottish Poetry Library |
 | Mamoru Yamada | 2 | Nippon Budokan |
 | Mangera Yvars Architects | 2 | Education City Mosque |
+| Manuel Sánchez Arcas | 2 | Hospital Clínico San Carlos |
 | Manuel Valls | 2 | Trade Buildings |
 | Marcel Lods | 2 | École de plein air de Suresnes |
 | Mario Fiorentino | 2 | Mausoleo delle Fosse Ardeatine |
 | Mathers | 2 | Robarts Library |
 | Maurice Novarina | 2 | Notre-Dame-de-Toute-Grâce du Plateau d'Assy |
+| Max Edrei | 2 | Douaumont Ossuary |
 | Maxime Brunfaut | 2 | Brussels-Central Station |
+| Meinhard von Gerkan | 2 | Berlin Hauptbahnhof |
 | Michael Hopkins | 2 | Dynamic Earth |
 | Mick Pearce | 2 | Eastgate Centre |
+| Mihajlo Mitrović | 2 | Genex Tower |
 | Mitchell | 2 | Parliament House |
 | Moya | 2 | Churchill Gardens Estate |
 | Myron Goldsmith | 2 | The Republic Newspaper Office |
-| NL Architects | 2 | DeFlat Kleiburg |
 | Niall McLaughlin Architects | 2 | New Library, Magdalene College |
+| Nihon Sekkei | 2 | ACROS Fukuoka |
 | Oswald Mathias Ungers | 2 | Messe Torhaus |
-| Pancho Guedes | 2 | Saipal Bakery |
+| Patricia Patkau | 2 | Canadian Clay and Glass Gallery |
+| Paul Bonatz | 2 | Stuttgart Hauptbahnhof |
 | Peddle Thorp | 2 | State Library of Queensland |
-| Perkins | 2 | Crow Island School |
 | Petschnigg | 2 | Ruhr University Bochum |
 | Philip Cox | 2 | Australian National Maritime Museum |
 | Pierre Koenig | 2 | Case Study House #21 (Bailey House) |
@@ -226,7 +263,8 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Rafael Mijares | 2 | Museo de Arte Moderno |
 | Ralf Schüler | 2 | ICC Berlin |
 | Rauch | 2 | Guild House |
-| Rino Levi | 2 | Santo André Civic Centre |
+| Reiulf Ramstad Arkitekter | 2 | Diehtosiida |
+| Roberto Gabetti | 2 | Talponia (Unità residenziale Ovest) |
 | Robin Gibson | 2 | Queensland Art Gallery |
 | Román Fresnedo Siri | 2 | Faculty of Architecture, University of the Republic |
 | Rudder | 2 | Qantas House (No. 1 Chifley Square) |
@@ -237,14 +275,17 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Schultze | 2 | Freedom Tower (Miami) |
 | Sean Godsell | 2 | Carter/Tucker House |
 | SelgasCano | 2 | Badajoz Congress Centre (Manuel Rojas) |
-| Sep Ruf | 2 | St. Johann von Capistran |
+| Serge Chermayeff | 2 | De La Warr Pavilion |
 | Shiv Nath Prasad | 2 | Shri Ram Centre for Performing Arts |
+| Shozo Uchii | 2 | Urasoe Art Museum |
+| Shreve | 2 | Reynolds Building |
 | Skodvin | 2 | Mortensrud Church |
 | Smith | 2 | Adelaide Festival Centre |
 | Solano Benítez | 2 | Teletón Children's Rehabilitation Centre |
 | Sons | 2 | MetLife Building |
 | Spartak Khachikyan | 2 | Karen Demirchyan Sports and Concert Complex |
 | Stanton Williams | 2 | Sainsbury Laboratory |
+| Steib | 2 | Burghof Lörrach |
 | Stephan Braunfels | 2 | Pinakothek der Moderne |
 | Studio Daniel Libeskind | 2 | Michael Lee-Chin Crystal, Royal Ontario Museum |
 | Sáenz | 2 | Avianca Building |
@@ -260,17 +301,19 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Valdés | 2 | Unidad Vecinal Portales |
 | Vedat Dalokay | 2 | Faisal Mosque |
 | Vernon DeMars | 2 | Wurster Hall |
-| Videgård Arkitekter | 2 | Moderna Museet Malmö |
 | Vladimír Machonin | 2 | Hotel Thermal |
 | Věra | 2 | Hotel Thermal |
 | Walter Weberhofer | 2 | Petroperú Building |
 | Warren | 2 | Christchurch Town Hall |
 | Weaver | 2 | Freedom Tower (Miami) |
+| White | 2 | Wrigley Building |
 | White Arkitekter | 2 | Vaven |
-| Will | 2 | Crow Island School |
+| Willem Jan Neutelings | 2 | Minnaert building |
 | Wilson | 2 | Baldwin Hills Village (Village Green) |
+| Wingårdh arkitektkontor | 2 | Kuggen |
 | Witherford Watson Mann | 2 | Astley Castle |
 | Yeang | 2 | National Library Building |
+| Yoshirō Taniguchi | 2 | National Museum of Modern Art, Tokyo |
 | Ze'ev Rechter | 2 | Engel House |
 | Zhang Bo | 2 | Great Hall of the People |
 | gmp Architects | 2 | Moses Mabhida Stadium |
@@ -290,6 +333,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | AECOM | 1 | Peace Bridge (Foyle) |
 | AFT Arquitectos | 1 | MALBA, Museo de Arte Latinoamericano de Buenos Aires |
 | AHS Architects | 1 | Crystal Mosque (Masjid Kristal) |
+| AL_A | 1 | Museum of Art, Architecture and Technology |
 | AR Ahmad Rozi A Wahab | 1 | Palace of Justice, Putrajaya |
 | ARC Studio Architecture | 1 | Pinnacle@Duxton |
 | ARCOP | 1 | Place Bonaventure |
@@ -308,23 +352,24 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Adhemar Marinho | 1 | Edifício Esther |
 | Adler | 1 | Auditorium Building |
 | Adolf Abel | 1 | Liederhalle |
-| Adolf Meyer | 1 | Fagus Factory |
+| Adolf Rading | 1 | Haus Rabe |
 | Adrien Fainsilber | 1 | Cité des Sciences et de l'Industrie |
 | Aedas | 1 | Bharat Mandapam |
 | AgwA | 1 | Palais des Expositions (Grand Palais), Charleroi |
 | Ahmadreza Schricker Architecture North | 1 | Argo Contemporary Art Museum |
-| Aimaro Isola | 1 | Talponia (Unità residenziale Ovest) |
 | Aimer | 1 | Auckland War Memorial Museum |
-| Akira Kuryu | 1 | Nagasaki National Peace Memorial Hall |
 | Akitek Jururancang | 1 | The Datai Langkawi |
 | Akmurza Rustembekov | 1 | Bayterek Tower |
 | Alain Bourbonnais | 1 | Grand Théâtre de Luxembourg |
+| Alamgir Kabir | 1 | Selim Al Deen Muktamanch |
 | Alan Fitch | 1 | Hong Kong City Hall |
 | Alan Groves | 1 | Lys Kernow (New County Hall) |
+| Alan Koch | 1 | Dia Beacon |
 | Alan McDonald | 1 | Joslyn Art Museum (Memorial building) |
 | Alar Kotli | 1 | Tallinn Song Festival Stage |
 | Albert Aalbers | 1 | Savoy Homann Hotel |
 | Albert Chase McArthur | 1 | Arizona Biltmore Hotel |
+| Albert Laprade | 1 | Palais de la Porte Dorée |
 | Albert Richardson | 1 | Bracken House |
 | Albert Van Huffel | 1 | National Basilica of the Sacred Heart |
 | Alberto Cruz | 1 | Ciudad Abierta |
@@ -341,11 +386,13 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Aleksey Gornostayev | 1 | Uspenski Cathedral |
 | Alex Gordon | 1 | Cyncoed Methodist Church |
 | Alexander | 1 | Baldwin Hills Village (Village Green) |
+| Alexander Ferenczy | 1 | Villa Kenwin |
+| Alexander Neumann | 1 | Villa Löw-Beer |
 | Alexander Popp | 1 | Tabakfabrik Linz |
 | Alexander Wittek | 1 | Vijećnica (Sarajevo City Hall) |
 | Alexandre Chan | 1 | Juscelino Kubitschek Bridge |
-| Alexandre Marcel | 1 | Baron Empain Palace |
-| Alexandre Vallaury | 1 | Istanbul Archaeology Museums |
+| Alexandre Persitz | 1 | Synagogue Don Isaac Abravanel |
+| Alexandre Soler i March | 1 | Mercado Central, Valencia |
 | Alexandros Tombazis | 1 | Basilica of the Holy Trinity |
 | Alfons Linster | 1 | Kranhäuser (Crane Houses) |
 | Alfred Berger | 1 | Nordic Embassies |
@@ -375,6 +422,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Andrea Maffei | 1 | Allianz Tower (Il Dritto) |
 | Andrea Morgante | 1 | Museo Enzo Ferrari |
 | Andreas Heller Architects | 1 | European Hansemuseum |
+| Andrey Ol | 1 | Bolshoy Dom |
 | Andrzej Fajans | 1 | Divine Mercy Church |
 | Andrzej Milewski | 1 | Cepelia Pavilion |
 | André | 1 | Berlaymont |
@@ -409,6 +457,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Arditti | 1 | Museum of Memory and Tolerance |
 | Arif Masoud | 1 | Pakistan Monument |
 | Armand Bartos | 1 | Shrine of the Book |
+| Armson | 1 | St John's Cathedral, Napier |
 | Arnaldo Villares | 1 | Palace of Justice of São Paulo |
 | Arpád Tesár | 1 | Most SNP (UFO Bridge) |
 | Arroyo y Menéndez | 1 | Hotel Habana Libre (former Habana Hilton) |
@@ -416,6 +465,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Artaria | 1 | Werkbundsiedlung Neubühl |
 | Arthur Stansfield Dixon | 1 | Seoul Anglican Cathedral |
 | Arthur Tarkhanyan | 1 | Armenian Genocide Memorial |
+| Arthur-Georges Héaume | 1 | Synagogue Don Isaac Abravanel |
 | Arturo Bickford | 1 | Torre del Reformador |
 | Arup Associates | 1 | National Stadium, Singapore |
 | Associés | 1 | Hong Kong Design Institute |
@@ -430,12 +480,15 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Augusto Pérez Palacios | 1 | Estadio Olímpico Universitario |
 | Austen Harrison | 1 | Rockefeller Museum |
 | Avanto Architects | 1 | Löyly |
+| Awad Kamil Fahmy | 1 | All Saints' Cathedral, Cairo |
 | Aydin Guvan | 1 | Accor Arena (Palais omnisports de Paris-Bercy) |
 | Aymeric Zublena | 1 | Stade de France |
 | Azmi Fakhoury | 1 | Mohammad Al-Amin Mosque |
 | B. Flazer | 1 | Broadway Mansions |
 | B. R. Manickam | 1 | Vidhana Soudha |
+| B4FS Studio | 1 | Santiago del Estero Forum |
 | BAPS Swaminarayan Sanstha | 1 | Swaminarayan Akshardham |
+| BAX | 1 | Kunstsilo |
 | BBGK Architekci | 1 | Katyń Museum |
 | BBPR | 1 | Torre Velasca |
 | BDP | 1 | Glasgow Tower |
@@ -446,6 +499,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Bagan builders | 1 | Ananda Temple |
 | Bahar Mızrak | 1 | Çamlıca Mosque |
 | Bakema | 1 | Lijnbaan |
+| Bakewell | 1 | Pasadena City Hall |
 | Barclay | 1 | Place of Memory, Tolerance and Social Inclusion |
 | Barcode Architects | 1 | Sluishuis |
 | Barkow Leibinger | 1 | Tour Total (Jean-Monnet-Tower) |
@@ -468,12 +522,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Benjamin Polk | 1 | Narayanhiti Palace Museum |
 | Bennetts Associates | 1 | Jubilee Library |
 | Benson | 1 | National Museum of Scotland |
+| Benthem Crouwel Architects | 1 | 013 |
 | Berg Arkitektkontor | 1 | Avicii Arena (Globen) |
 | Bernard Reichen | 1 | Grande halle de la Villette |
 | Bernardi | 1 | 555 California Street |
-| Bernardo Bader | 1 | Islamic Cemetery Altach |
+| Bernhard Pfau | 1 | Vogelsang House |
 | Bernhard Sehring | 1 | Staatstheater Cottbus |
 | Bertel Saarnio | 1 | Kouvola Town Hall |
+| Beyer Blinder Belle | 1 | 100 Eleventh Avenue |
 | Bierman Henket architecten | 1 | Museum de Fundatie |
 | Biggie | 1 | Buffalo City Court Building |
 | Bikash Naskar | 1 | Nandan |
@@ -486,6 +542,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Blackford | 1 | SMUD Headquarters Building |
 | Blanca Lleó | 1 | Mirador |
 | Bogdan Bogdanović | 1 | Partisan Memorial Cemetery |
+| Boller Brothers | 1 | Rio Theatre |
 | Boogertman | 1 | FNB Stadium (Soccer City) |
 | Booty Edwards | 1 | Omar Ali Saifuddien Mosque |
 | Borie | 1 | Philadelphia Museum of Art |
@@ -497,8 +554,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Branimir Ganović | 1 | Findeco House |
 | Branko Zezelj | 1 | Belgrade Fair Hall 1 |
 | Brasil Arquitetura | 1 | Praça das Artes |
+| Brendan Macfarlane | 1 | Cité de la mode et du design |
 | Brian Lewis | 1 | University House, Australian National University |
 | Brit Andresen | 1 | Burrell Collection |
+| Brown | 1 | Pasadena City Hall |
 | Broyer | 1 | Hanoi Opera House |
 | Bruce Kuwabara | 1 | Remai Modern |
 | Bruno Morassutti | 1 | Mater Misericordiae Church |
@@ -510,6 +569,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Buro Happold | 1 | Weald and Downland Gridshell |
 | C P Kukreja Architects | 1 | Yashobhoomi (India International Convention and Expo Centre) |
 | C. F. Murphy | 1 | J. Edgar Hoover Building |
+| C. F. Møller | 1 | Vestersøhus |
 | C. N. Raghavendran | 1 | Anna Centenary Library |
 | C. W. Quick | 1 | Swansea Civic Centre |
 | C.F. Møller Architects | 1 | Maersk Tower |
@@ -519,11 +579,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Cai Xianyu | 1 | Shanghai Exhibition Centre |
 | Cambridge Seven Associates | 1 | Tennessee Aquarium |
 | Cameron Chisholm Nicol | 1 | National Carillon |
+| Camillo Karl Schneider | 1 | Villa Gans |
 | Campbell | 1 | George H. Fallon Federal Office Building |
 | CannonDesign | 1 | Jacobs Medical Center |
 | Carlfried Mutschler | 1 | Multihalle Mannheim |
 | Carlo Aymonino | 1 | Monte Amiata Housing (Gallaratese) |
-| Carlo Mollino | 1 | Teatro Regio |
+| Carlo Jelkmann | 1 | Stadtbad Mitte |
 | Carlo Ratti Associati | 1 | CapitaSpring |
 | Carlo Tami | 1 | Biblioteca cantonale, Lugano |
 | Carlo Valle | 1 | Stadio Olimpico |
@@ -533,12 +594,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Carlos Pibernat | 1 | Edificio Libertador |
 | Carlos Zapata | 1 | Bitexco Financial Tower |
 | Carmody Groarke | 1 | Windermere Jetty Museum |
+| Carsten Schröck | 1 | St.-Lukas-Kirche |
 | Caspar Garreto | 1 | Mineirão |
 | Cassiano Branco | 1 | Coliseu do Porto |
 | Cathy Hawley | 1 | Goldsmith Street |
 | Cecil Balmond | 1 | ArcelorMittal Orbit |
 | Celestial Sacardim | 1 | Teatro Amazonas |
 | Cesare Pascoletti | 1 | Museo della Civiltà Romana |
+| Chad Floyd | 1 | Hood Museum of Art |
 | Chalermchai Kositpipat | 1 | Wat Rong Khun (White Temple) |
 | Chandrakant Sompura | 1 | Swaminarayan Akshardham, Gandhinagar |
 | Charles | 1 | Eames House |
@@ -548,10 +611,8 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Charles Evans Hughes III | 1 | Manufacturers Trust Company Building |
 | Charles Harrison Townsend | 1 | Whitechapel Gallery |
 | Charles Henry Driver | 1 | Estação da Luz |
-| Charles Luckman | 1 | Television City |
 | Charles M. Goodman | 1 | Unitarian Universalist Church of Arlington |
 | Charles Mason Remey | 1 | Bahá'í House of Worship, Kampala |
-| Charles Moore | 1 | Piazza d'Italia |
 | Charles Stade | 1 | Chapel of the Resurrection, Valparaiso University |
 | Charles-Henri Besnard | 1 | Saint-Christophe de Javel |
 | Charlotte Frank | 1 | Federal Chancellery |
@@ -580,11 +641,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Cláudio Cianciarullo | 1 | Nilson Nelson Gymnasium |
 | Cláudio Rossi | 1 | Theatro Municipal de São Paulo |
 | Co-Prime | 1 | First Americans Museum |
-| Coia | 1 | St Peter's Seminary |
 | Coldefy | 1 | Hong Kong Design Institute |
 | Colin Fournier | 1 | Kunsthaus Graz |
 | Colin Madigan | 1 | National Gallery of Australia |
+| Collins | 1 | St John's Cathedral, Napier |
 | Company | 1 | Space Needle |
+| Conix Architects | 1 | Herman Teirlinck Building |
 | Conrad Gargett Lyons | 1 | Queensland Children's Hospital (former Lady Cilento Children's Hospital) |
 | Constantinos Doxiadis | 1 | Teacher-Student Centre, University of Dhaka |
 | Cookfox | 1 | Bank of America Tower |
@@ -594,7 +656,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Coussee | 1 | De Krook |
 | Coussée | 1 | Crematorium Hofheide |
 | Covell | 1 | Livingstone Tower |
-| Cox | 1 | Perth Stadium (Optus Stadium) |
 | Cox Rayner Architects | 1 | Kurilpa Bridge |
 | Craig Craig Moller | 1 | Sky Tower |
 | Craig W. Hartman | 1 | Cathedral of Christ the Light |
@@ -604,6 +665,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Crousse | 1 | Place of Memory, Tolerance and Social Inclusion |
 | Cukrowicz Nachbaur | 1 | Frauenmuseum Hittisau |
 | Cukrowicz Nachbaur Architekten | 1 | Vorarlberg Museum |
+| Curt Steinberg | 1 | Dorfkirche Kunersdorf |
 | Curt von François | 1 | Alte Feste |
 | D. Erdenebileg | 1 | Chinggis Khaan Statue Complex |
 | DIALOG | 1 | Calgary Central Library |
@@ -624,6 +686,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | David Libeskind | 1 | Conjunto Nacional |
 | David M. Schwarz Architects | 1 | Schermerhorn Symphony Center |
 | David Shalev | 1 | Tate St Ives |
+| Davis Brody Bond | 1 | Perelman Performing Arts Center |
 | Davis Partnership | 1 | Frederic C. Hamilton Building, Denver Art Museum |
 | De Vylder Vinck Taillieu | 1 | BUS:STOP Krumbach |
 | Degelo | 1 | Kunstmuseum Liechtenstein |
@@ -631,18 +694,24 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Delugan Meissl Associated Architects | 1 | Eye Filmmuseum |
 | Demas Nwoko | 1 | Dominican Chapel, Ibadan |
 | Demeter | 1 | Müpa Budapest (Palace of Arts) |
+| Denis Boniver | 1 | Auferstehungskirche Bonn |
 | Denis Laming | 1 | Shekou Cruise Center |
 | Denis Santry | 1 | Sultan Mosque |
+| Denise Duhart | 1 | Musée d'Art Contemporain du Val-de-Marne |
+| Derek Walker | 1 | Royal Armouries Museum |
 | Design Institute | 1 | Tianjin Binhai Library |
 | Design Institute of China | 1 | Wuhan Railway Station |
 | DesignInc | 1 | Council House 2 (CH2) |
 | Designers | 1 | European Hansemuseum |
 | Desmond | 1 | Boston Government Service Center |
 | Desmond Rea O'Kelly | 1 | Liberty Hall |
+| Detlef Schreiber | 1 | St. Mauritius |
 | Diamond Schmitt Architects | 1 | Four Seasons Centre for the Performing Arts |
+| Diana Balmori | 1 | Winter Garden Atrium |
 | Diego Suarez | 1 | Vizcaya Museum and Gardens |
 | Dieter Mathoi | 1 | Kaufhaus Tyrol |
 | Dietmar Feichtinger Architectes | 1 | Passerelle Simone-de-Beauvoir |
+| Dietmar Grötzebach | 1 | Apostel-Johannes-Gemeindezentrum |
 | Dietrich Kunckel | 1 | Teresa Carreño Cultural Complex |
 | Dimitri Dimakopoulos | 1 | Confederation Centre of the Arts |
 | Dimitrie Maimarolu | 1 | National Military Circle (Cercul Militar Național) |
@@ -654,6 +723,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Dominic Bonnesse Architects | 1 | Nelson Mandela Bay Stadium |
 | Dominic Williams | 1 | Baltic Centre for Contemporary Art |
 | Dominikus Zimmermann | 1 | Wieskirche |
+| Dominique Jakob | 1 | Cité de la mode et du design |
 | Domiziano Rossi | 1 | Theatro Municipal de São Paulo |
 | Don Arthur | 1 | Kwame Nkrumah Mausoleum |
 | Donald Barthelme | 1 | Hall of State, Fair Park |
@@ -671,7 +741,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Dub Architects | 1 | Edmonton City Hall |
 | Duncan Lewis | 1 | Lascaux IV |
 | Durga Bajpai | 1 | Jehangir Art Gallery |
-| Dušan Džamonja | 1 | Monument to the Revolution of the People of Moslavina |
 | Dušan Milenković | 1 | Findeco House |
 | Dušan Đapa | 1 | Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall) |
 | Dworsky Associates | 1 | Sinai Temple (Los Angeles) |
@@ -688,6 +757,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Edgar de Oliveira da Fonseca | 1 | Metropolitan Cathedral of Rio de Janeiro |
 | Edmond Van Saanen Algi | 1 | Telephone Palace (SART building) |
 | Edson Elito | 1 | Teatro Oficina |
+| Eduard Lanz | 1 | Volkshaus Biel |
 | Eduard Louis de Coninck | 1 | Museum de Fundatie |
 | Eduardas Chlomauskas | 1 | Vilnius Palace of Concerts and Sports |
 | Eduardo Mendes Guimarães Júnior | 1 | Mineirão |
@@ -702,8 +772,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | El-Ghazali Kosseiba | 1 | National Museum of Egyptian Civilization |
 | Eldred Evans | 1 | Tate St Ives |
 | Eliel | 1 | Crow Island School |
+| Ellen van Loon | 1 | Lafayette Anticipations – Galeries Lafayette Corporate Foundation |
 | Ellerbe Becket | 1 | Kingdom Centre |
 | Ellis | 1 | Daily Express Building |
+| Elmslie | 1 | Kasson Municipal Building |
 | Elsa Guerra | 1 | Woermann Tower |
 | Emde | 1 | Terrassenhaus Berlin / Lobe Block |
 | Emil Belluš | 1 | Colonnade Bridge (Kolonádový most) |
@@ -716,34 +788,40 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Emley | 1 | Rand Club |
 | Emmons | 1 | 555 California Street |
 | Emre Arolat Architecture | 1 | The Museum Hotel Antakya |
-| Engineers | 1 | LASALLE College of the Arts |
 | Engineers Associates | 1 | National Theater and Concert Hall |
-| Ennead Architects | 1 | Shanghai Astronomy Museum |
 | Enric Ruiz-Geli | 1 | Media-TIC |
+| Enric Viedma i Vidal | 1 | Mercado Central, Valencia |
 | Enrique Douillet | 1 | Edificio Comega |
 | Enrique Gómez | 1 | Torre de David (Centro Financiero Confinanzas) |
 | Enrique Jan | 1 | Galileo Galilei Planetarium |
 | Enrique Lopardo | 1 | Edificio Libertador |
 | Enrique Luis Varela | 1 | José Martí Memorial |
 | Ensamble Studio | 1 | BUS:STOP Krumbach |
+| Enzo Gori | 1 | Mercato dei Fiori Vecchio |
 | Eric Owen Moss Architects | 1 | The Box (Conjunctive Points) |
 | Eric Vo Toan | 1 | Mausoleum of Mohammed V |
 | Erik Korshagen | 1 | Korshagehus |
 | Erik Moller | 1 | Aarhus City Hall |
+| Ernest A. Davidson | 1 | Longmire Buildings |
 | Ernest Grunsfeld Jr. | 1 | Adler Planetarium |
 | Ernesto Gómez Sampera | 1 | FOCSA Building |
 | Ernesto Meyer | 1 | La Plata Cathedral |
 | Ernests Štālbergs | 1 | Freedom Monument |
+| Ernst Rentsch | 1 | Georg Kolbe Museum |
 | Ertuğrul Barla | 1 | Çanakkale Martyrs' Memorial |
 | Escritório Técnico Ramos de Azevedo - Severo e Villares | 1 | Pacaembu Stadium |
+| Espen Surnevik | 1 | Våler Church |
 | Esteban Rodríguez-Castells | 1 | Bacardi Building |
 | Estudio América | 1 | Museo de la Memoria y los Derechos Humanos |
 | Estudio Lamela | 1 | Madrid-Barajas Airport Terminal 4 |
 | Etienne Gaboury | 1 | Saint Boniface Cathedral |
+| Eugen Schmohl | 1 | Ullsteinhaus |
 | Eugene Aubry | 1 | Wortham Theater Center |
+| Eugeni Pere Cendoya | 1 | Palau Nacional |
 | Eun Young Yi | 1 | Stuttgart City Library (Stadtbibliothek am Mailänder Platz) |
 | Eurico Prado Lopes | 1 | Centro Cultural São Paulo |
 | Evanis Kalfa | 1 | Dolmabahçe Palace |
+| Ewald Bubner | 1 | Kirche Schönow-Buschgraben |
 | Ewen Wainscott | 1 | Aotea Centre |
 | F. Burrall Hoffman | 1 | Vizcaya Museum and Gardens |
 | FJMT | 1 | Auckland Art Gallery |
@@ -770,6 +848,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Fort Architekci | 1 | European Solidarity Centre |
 | Fouad Kozah | 1 | Beit Beirut (Barakat Building) |
 | Fourth Survey | 1 | Wuhan Railway Station |
+| Francesc Guàrdia i Vial | 1 | Mercado Central, Valencia |
 | Francesca Torzo | 1 | Z33 House for Contemporary Art, Design and Architecture |
 | Francis Kenneth Hicklin | 1 | Lys Kernow (New County Hall) |
 | Francis Pym | 1 | Ulster Museum |
@@ -786,14 +865,16 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Frank W. Brewer | 1 | Cathay Building |
 | Frans Johan Louwrens Ghijsels | 1 | Jakarta Kota Station |
 | František Jeřábek | 1 | Grand Hotel International Prague |
+| František Kalivoda | 1 | Villa Psota |
+| Franz Füeg | 1 | Piuskirche |
 | Franz Hillinger | 1 | Wohnstadt Carl Legien |
 | Franz Janz | 1 | Azerbaijan Carpet Museum |
+| François Deslaugiers | 1 | Asian Art Museum (Nice) |
 | François Lagisquet | 1 | Hanoi Opera House |
 | François de Cuvilliés | 1 | Cuvilliés Theatre |
 | Fred Lebensold | 1 | National Arts Centre |
 | Frederick Earl Emmons | 1 | Charles E. Young Research Library |
 | Frederick George Green | 1 | Cape Town City Hall |
-| Friedrich Eugen Scholer | 1 | Stuttgart Hauptbahnhof |
 | Friedrich Grünanger | 1 | Sofia Synagogue |
 | Fritz Bornemann | 1 | Deutsche Oper Berlin |
 | Fritz Dieter | 1 | Fernsehturm Berlin |
@@ -806,9 +887,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | G. Maunsell | 1 | Gladesville Bridge |
 | GLC Architects | 1 | Queen Elizabeth Hall |
 | Gabriel Guarda | 1 | Benedictine Monastery Chapel |
+| Gabriele Tagliaventi | 1 | Borgo Città Nuova |
 | Ganesh Bhikaji Deolalikar | 1 | Supreme Court of India |
 | Gardner Dailey | 1 | Evans Hall |
 | Garol Isakovich | 1 | Ho Chi Minh Mausoleum |
+| Gaston Rossi | 1 | Immobilia Building |
+| Gaston Witry | 1 | Alcide De Gasperi building |
 | Gastón Lelarge | 1 | Casa de Nariño |
 | Gastón Mallet | 1 | Hotel Carrasco |
 | Gehrdt Bornebusch | 1 | Herlev Hospital |
@@ -816,8 +900,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Gensler | 1 | Shanghai Tower |
 | Georg Heinrichs | 1 | Schlangenbader Straße Housing (Die Schlange) |
 | George Chakhava | 1 | Bank of Georgia headquarters |
+| George Grant Elmslie | 1 | Harold C. Bradley House |
 | George Gray Prentice | 1 | Brisbane City Hall |
 | George Howe | 1 | PSFS Building |
+| George J. Dietel | 1 | Buffalo City Hall |
 | George Kenyon | 1 | Newcastle Civic Centre |
 | George Marsh | 1 | Centre Point |
 | George Pearl | 1 | Albuquerque Main Library |
@@ -832,6 +918,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Gerber Architekten | 1 | King Fahd National Library |
 | Gerd | 1 | Mäusebunker |
 | Gerhard | 1 | Schlangenbader Straße Housing (Die Schlange) |
+| Gerhard Landgraf | 1 | Rundkino Dresden |
 | Germán Samper | 1 | Coltejer Building |
 | Germán del Sol | 1 | Termas Geométricas |
 | Gevorg Tamanian | 1 | Government House, Yerevan |
@@ -839,11 +926,13 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Ghiyath al-Din Tughluq | 1 | Tomb of Shah Rukn-e-Alam |
 | Gianni Braghieri | 1 | San Cataldo Cemetery |
 | Gifford | 1 | Gateshead Millennium Bridge |
-| Gillespie | 1 | St Peter's Seminary |
+| Gino Pollini | 1 | Chiesa dei Santi Giovanni e Paolo |
 | Giorgi Lezhava | 1 | Parliament of Georgia (Rustaveli Avenue) |
+| Giorgio Calza Bini | 1 | Auditorium Conciliazione |
 | Giovanni Battista Cairati | 1 | Fort Jesus |
 | Giovanni Chiogna | 1 | Usina del Arte |
 | Giurgola | 1 | Parliament House |
+| Giuseppe Giorgio Gori | 1 | Mercato dei Fiori Vecchio |
 | Giuseppe Perugini | 1 | Mausoleo delle Fosse Ardeatine |
 | Giuseppe Pettazzi | 1 | Fiat Tagliero Building |
 | Giò Forma | 1 | Maraya |
@@ -862,9 +951,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Grierson | 1 | Auckland War Memorial Museum |
 | Grigory Barkhin | 1 | Izvestia Building |
 | Grimshaw | 1 | London Bridge Station |
-| Guillaume Gillet | 1 | Notre-Dame de Royan |
+| Guido Canella | 1 | San Riccardo Pampuri church |
 | Guillermo Rosell | 1 | Open Chapel of Lomas de Cuernavaca (Palmira Chapel) |
 | Gurgen Musheghyan | 1 | Karen Demirchyan Sports and Concert Complex |
+| Gustave Perret | 1 | Chapelle des Franciscains d'Arcueil |
 | Gustavo Greene | 1 | Teatro del Lago |
 | Gustavo Saavedra | 1 | Central Library (UNAM) |
 | Guy Lagneau | 1 | MuMa (Musée d'art moderne André Malraux) |
@@ -873,6 +963,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Götz Hagmüller | 1 | Patan Museum |
 | Günter Behnisch | 1 | Academy of Arts, Pariser Platz |
 | Günter Franke | 1 | Fernsehturm Berlin |
+| Günter Plessow | 1 | Apostel-Johannes-Gemeindezentrum |
 | H.A.J. Baanders | 1 | Blauwe Theehuis |
 | HKS Architects | 1 | Dr. Phillips Center for the Performing Arts |
 | HS99 | 1 | Scientific Information Centre and Academic Library (CINiBA) |
@@ -897,10 +988,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Hans Schädel | 1 | Maria Regina Martyrum |
 | Hans-Erich Bogatzky | 1 | State Council Building |
 | Haptic Architects | 1 | Istanbul Airport |
+| Harald Loebermann | 1 | Meistersingerhalle |
 | Hariri Pontarini Architects | 1 | Baha'i Temple of South America |
+| Harman | 1 | St John's Cathedral, Napier |
+| Harmon | 1 | Empire State Building |
 | Harry | 1 | Harry and Penelope Seidler House |
 | Harry Glück | 1 | Wohnpark Alt-Erlaa |
 | Hartvig Rasmussen | 1 | Bahrain National Museum |
+| Harvey Wiley Corbett | 1 | Bush House |
 | Hascher Jehle Architektur | 1 | Kunstmuseum Stuttgart |
 | Hawkey | 1 | Johannesburg City Hall |
 | Haworth Tompkins | 1 | Everyman Theatre |
@@ -909,20 +1004,25 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Hazen Sise | 1 | Confederation Centre of the Arts |
 | Heike Hanada | 1 | Bauhaus Museum Weimar |
 | Heikki | 1 | Ympyrätalo |
+| Heikkinen – Komonen Architects | 1 | Heureka |
 | Heimo Riihimäki | 1 | Lasipalatsi |
 | Heinrich Straumer | 1 | Funkturm Berlin |
-| Heinz Tesar | 1 | Donau City Church |
+| Heinz M. Springmann | 1 | Waldspirale |
 | Hellmuth | 1 | St. Louis Lambert International Airport Terminal 1 |
 | Helmut Conu | 1 | Haydarpaşa Terminal |
 | Henderson | 1 | Hoffmantown Baptist Church |
+| Hendrik Jesse | 1 | Villa Allegonda |
 | Henno Sepmann | 1 | Tallinn Song Festival Stage |
 | Henri Maclaine Pont | 1 | Bandung Institute of Technology (Aula Barat and Aula Timur) |
 | Henri Ploquin | 1 | Stade Vélodrome |
 | Henri Rapin | 1 | Tokyo Metropolitan Teien Art Museum |
 | Henry Austin Reid | 1 | Cape Town City Hall |
 | Henry Bernard | 1 | Maison de la Radio |
+| Henry Irwin | 1 | Mysore Palace |
 | Henry Saint Clair Wilkins | 1 | Frere Hall |
 | Henry Y. D. Scott | 1 | Royal Albert Hall |
+| Herbert Groethuysen | 1 | St. Mauritius |
+| Herbert Maier | 1 | Madison Museum |
 | Hermann Dernburg | 1 | Renoma (Wertheim department store) |
 | Hermann Fehling | 1 | Institute of Hygiene and Microbiology |
 | Hermon Lloyd | 1 | Houston Astrodome |
@@ -955,6 +1055,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Hutchison | 1 | Cables Wynd House |
 | Héctor Campini | 1 | Edificio Libertador |
 | Héctor Ezcurra | 1 | Estadio Monumental |
+| Hélio Lage Uchôa Cavalcanti | 1 | Pavilhão Padre Manoel da Nóbrega |
 | Hélio Ribas Marinho | 1 | Monument to the Dead of World War II |
 | Hüsrev Tayla | 1 | Kocatepe Mosque |
 | I. D. Berindei | 1 | Palace of Culture, Iași |
@@ -962,9 +1063,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Ian Fraser | 1 | King Fahd International Stadium |
 | Ian Ritchie Architects | 1 | Spire of Dublin |
 | Ichiro Nomura | 1 | Taipei Guest House |
+| Ico Parisi | 1 | Parco Sempione Library |
 | Ide Kaoru | 1 | Zhongshan Hall (Taipei Public Hall) |
 | Ignaty Milinis | 1 | Narkomfin building |
+| Igor Franić | 1 | Museum of Contemporary Art, Zagreb |
 | Ilkhanid builders | 1 | Dome of Soltaniyeh |
+| Inbo | 1 | Museum Belvédère |
 | Inc. | 1 | AT&T Stadium |
 | Information Based Architecture | 1 | Canton Tower |
 | Inge Stoltz | 1 | Landskrona City Hall |
@@ -973,6 +1077,9 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Ioannis Despotopoulos | 1 | Athens Conservatoire |
 | Ion Socolescu | 1 | CEC Palace |
 | Iqbal Habib | 1 | Hatirjheel |
+| Irma Aaltonen | 1 | Wäinö Aaltonen Museum of Art |
+| Irwin T. Catharine | 1 | Joseph H. Brown Elementary School |
+| Isaac Rapp | 1 | New Mexico Museum of Art |
 | Isi Metzstein | 1 | Robinson College |
 | Ismail Fatah Al Turk | 1 | Al-Shaheed Monument |
 | Ismaïla Traoré | 1 | Great Mosque of Djenné |
@@ -982,6 +1089,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Ivan Merport | 1 | Hotel Uzbekistan |
 | Ivan Slameň | 1 | Most SNP (UFO Bridge) |
 | Ivan Vitic | 1 | Kockica |
+| Ivano Gianola | 1 | Lugano Arte e Cultura |
 | Ivo Trümpy | 1 | Bagno Pubblico, Bellinzona |
 | Ivor Smith | 1 | Park Hill |
 | Iwan Iwanoff | 1 | Paganin House |
@@ -992,6 +1100,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | J. L. Gleave | 1 | Columbus Lighthouse |
 | J. M. Wilson | 1 | Baghdad Central Station |
 | J. Max Bond Jr. | 1 | Bolgatanga Library |
+| J. R. Davidson | 1 | Case Study House No. 1 |
 | J. Theo Halliday | 1 | Battersea Power Station |
 | J. W. Beaumont | 1 | The Whitworth |
 | J.E. Stanton | 1 | Parker Center |
@@ -1000,8 +1109,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | JEMS Architekci | 1 | International Congress Centre |
 | JPRCR | 1 | Orquideorama, Medellín Botanical Garden |
 | JSK Architects | 1 | National Stadium (PGE Narodowy) |
+| Jaakko Laapotti | 1 | Lauritsala Church |
 | Jack Lynn | 1 | Park Hill |
 | Jackson Architecture | 1 | Southern Cross Station |
+| Jacob Koerfer | 1 | Hansahochhaus |
+| Jacobsen Arquitetura | 1 | Rio Art Museum |
 | Jacques Abou Khaled | 1 | Sursock Museum |
 | Jacques Brownson | 1 | Richard J. Daley Center |
 | Jacques Carlu | 1 | Palais de Chaillot |
@@ -1011,10 +1123,9 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Jakob | 1 | Orange Cube |
 | Jakub Tomašák | 1 | Kamzík TV Tower |
 | James Beard | 1 | Hannah Playhouse |
-| James Birrell | 1 | Centenary Pool Complex |
+| James Brown Lord | 1 | Yorkville Library |
 | James Corner | 1 | High Line |
 | James Cumming Wynne | 1 | Ulster Museum |
-| James Gowan | 1 | Leicester University Engineering Building |
 | James Ingo Freed | 1 | United States Holocaust Memorial Museum |
 | James Ransome | 1 | Yangon High Court Building |
 | James Robb Scott | 1 | Surbiton railway station |
@@ -1043,12 +1154,15 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Jean-Jacques Baruël | 1 | Kunsten Museum of Modern Art Aalborg |
 | Jean-Marie Charpentier | 1 | Shanghai Grand Theatre |
 | Jean-Marie Duthilleul | 1 | Capital Museum |
+| Jean-Émile Resplandy | 1 | Théâtre municipal de Tunis |
 | Jerde Partnership | 1 | Kanyon |
 | Jerzy Kuźmienko | 1 | Divine Mercy Church |
 | Jesús Sandoval | 1 | Teresa Carreño Cultural Complex |
 | Jim McGranahan | 1 | Tacoma Dome |
 | Jim Thompson | 1 | Jim Thompson House |
 | Jim Torosyan | 1 | Yerevan Cascade |
+| Jiří Štursa | 1 | Volmanova vila |
+| Joachim Giæver | 1 | 35 East Wacker |
 | Joan Baptista Subirana | 1 | Dispensario Antituberculoso |
 | Joaquín Casariego | 1 | Woermann Tower |
 | Joaquín Toesca | 1 | Palacio de La Moneda |
@@ -1056,9 +1170,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Johan van der Mey | 1 | Scheepvaarthuis |
 | Johann Baptist | 1 | Wieskirche |
 | Johannes Schultz | 1 | Peleș Castle |
+| Johannes Spalt | 1 | Haus Wittmann |
 | John | 1 | Joslyn Art Museum (Memorial building) |
 | John Crust | 1 | Australian War Memorial |
 | John J. Robinson | 1 | Galway Cathedral |
+| John J. Wade | 1 | Buffalo City Hall |
 | John Kelsey | 1 | Norton Simon Museum |
 | John Meunier | 1 | Burrell Collection |
 | John Pawson | 1 | Design Museum |
@@ -1073,6 +1189,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Johnson Pilton Walker | 1 | National Portrait Gallery |
 | Johnson-Dempsey | 1 | San Antonio Central Library |
 | Jon Eikvar | 1 | Henie Onstad Kunstsenter |
+| Jonas Cedercreutz | 1 | Åland Maritime Museum |
 | Jonathan Adams | 1 | Wales Millennium Centre |
 | Jones | 1 | Mississauga Civic Centre |
 | Jorge Bravo Moro | 1 | Estadio Olímpico Universitario |
@@ -1082,13 +1199,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Jorgen Bo | 1 | Louisiana Museum of Modern Art |
 | Jos Smolderen | 1 | Boerentoren (KBC Tower) |
 | Josef Krawina | 1 | Hundertwasserhaus |
+| Josef Lackner | 1 | Emmaus Church, Völs |
 | Josep Llinàs | 1 | Jaume Fuster Library |
 | Joseph Danly | 1 | Casa de Ferro (Iron House) |
 | Joseph Esherick | 1 | Wurster Hall |
 | Joseph Finger | 1 | Houston City Hall |
-| Joseph Klarwein | 1 | Knesset |
 | Joseph Philippe Karam | 1 | The Egg (Beirut City Center) |
-| Joshua Prince-Ramus | 1 | Dee and Charles Wyly Theatre |
 | José Antonio Coderch | 1 | Casa Ugalde |
 | José Aslan | 1 | Estadio Monumental |
 | José Augusto Bellucci | 1 | Cathedral of Maringá |
@@ -1098,12 +1214,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | José María Villa | 1 | Puente de Occidente |
 | José Oubrerie | 1 | Saint-Pierre, Firminy |
 | José Tibúrcio Pereira Magalhães | 1 | Theatro da Paz |
+| José Yarza García | 1 | Teatro Fleta |
 | José Álvarez Calderón | 1 | Edificio Atlas |
 | Jozef Lacko | 1 | Most SNP (UFO Bridge) |
 | João Luís Carrilho da Graça | 1 | Pavilion of Knowledge (Pavilhão do Conhecimento) |
 | João Mendes Ribeiro | 1 | Arquipélago Contemporary Arts Centre |
 | Juan Antonio Scasso | 1 | Estadio Centenario |
 | Juan Aubriot | 1 | Edificio Lapido (Palacio Lapido) |
+| Juan Coll Barreu | 1 | Sede de Osakidetza, Bilbao |
 | Juan Correa | 1 | Cusco Cathedral |
 | Juan Hurtado Manrique | 1 | Palacio Federal Legislativo |
 | Juan Martínez Gutiérrez | 1 | Votive Temple of Maipú |
@@ -1114,7 +1232,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Juan Rher | 1 | Cathedral Basilica of Lima |
 | Jules Voinot | 1 | Grande Poste d'Alger |
 | Jules de Mérindol | 1 | Grande halle de la Villette |
-| Julio Vilamajó | 1 | Faculty of Engineering, University of the Republic |
 | Jun Aoki | 1 | Aomori Museum of Art |
 | Junzo Yoshimura | 1 | International House of Japan |
 | Juraj Kozák | 1 | Kamzík TV Tower |
@@ -1133,17 +1250,23 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Kamen Goranov | 1 | Park-Monument of the Bulgarian-Soviet Friendship |
 | Kao Er-pan | 1 | Taipei Fine Arts Museum |
 | Karel Filsak | 1 | Hotel Intercontinental Prague (Fairmont Golden Prague) |
+| Karel Honzík | 1 | Dům Radost |
 | Karel Hubáček | 1 | Ještěd Tower |
+| Karel Janů | 1 | Volmanova vila |
 | Karim Taherzadeh | 1 | Tomb of Ferdowsi |
 | Karl Ehn | 1 | Karl-Marx-Hof |
+| Karl Hans Neumann | 1 | Bruder-Klaus-Kirche |
 | Karl Henrik Nostvik | 1 | Kenyatta International Convention Centre |
+| Karl Winter | 1 | New Town Hall in Jablonec nad Nisou |
 | Karl Zaar | 1 | Writers' House of Georgia |
 | Karolis Reisonas | 1 | Church of Christ's Resurrection |
 | Kashef Chowdhury | 1 | Swadhinata Stambha |
 | Kate Macintosh | 1 | Dawson's Heights |
+| Kauno Kallio | 1 | Tampere Theatre |
 | Kazumi Kudo | 1 | Kanazawa Umimirai Library |
 | Kemper Goodwin | 1 | Tempe Municipal Building |
 | Ken Yeang | 1 | Menara Mesiniaga |
+| Kerala Public Works Department | 1 | Niyamasabha Mandiram |
 | Kerry Clare | 1 | Gallery of Modern Art |
 | Kerry Hill | 1 | The Datai Langkawi |
 | Kerstin Thompson Architects | 1 | Napier Street Housing |
@@ -1151,7 +1274,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Khan Jahan Ali | 1 | Sixty Dome Mosque |
 | Khmer builders | 1 | Angkor Wat |
 | Khurramshāh ibn Mughīth al-Khilātī | 1 | Divriği Great Mosque and Hospital |
-| Kidd | 1 | St Peter's Seminary |
 | KieranTimberlake | 1 | Embassy of the United States, London (Nine Elms) |
 | Killa Design | 1 | Museum of the Future |
 | Kim Seok-chul | 1 | Seoul Arts Center Opera House |
@@ -1164,13 +1286,18 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Kishor Narsingh Rana | 1 | Singha Durbar |
 | Kjell Lund | 1 | Chateau Neuf |
 | Klaus Detlev Krebs | 1 | Schlangenbader Straße Housing (Die Schlange) |
+| Klaus Kada | 1 | Festspielhaus St. Pölten |
 | Klein Dytham Architecture | 1 | Daikanyama T-Site |
 | Knowles | 1 | Boston City Hall |
+| Knud Friis | 1 | Højen 13 |
 | Koen van Velsen | 1 | Groot Klimmendaal Rehabilitation Centre |
 | Kohn Pedersen Fox | 1 | Shanghai World Financial Center |
 | Kokaistudios | 1 | Shanghai Suhe MixC World |
 | Kolbrún Ragnarsdóttir | 1 | Nordic House in the Faroe Islands |
 | Kondo Juro | 1 | Red House Theater |
+| Konrad Wachsmann | 1 | Einsteinhaus Caputh |
+| Kraaijvanger | 1 | De Doelen |
+| Kristian Gullichsen | 1 | Kauniainen Church |
 | Kristine Jensen | 1 | Dokk1 |
 | Krohn | 1 | Bahrain National Museum |
 | Kruger | 1 | Hoffmantown Baptist Church |
@@ -1178,6 +1305,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Kuai Xiang | 1 | Forbidden City |
 | Kuldip Singh | 1 | Palika Kendra (NDMC Building) |
 | Kumar Narsingh Rana | 1 | Singha Durbar |
+| Kurt Schlauss | 1 | Matzleinsdorfer Hochhaus |
 | Kwadrat | 1 | Museum of the Second World War |
 | Kyriakos Krokos | 1 | Museum of Byzantine Culture |
 | Kyriakos Panagiotakos | 1 | Blue Building (Blue Condominium) |
@@ -1188,11 +1316,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | LPR Architects | 1 | Helsinki Music Centre |
 | Lab Architecture Studio | 1 | Federation Square |
 | Lacol | 1 | La Borda |
+| Ladislaus Hruska | 1 | Matzleinsdorfer Hochhaus |
 | Lagos | 1 | Kavanagh building |
 | Lahdelma | 1 | POLIN Museum of the History of Polish Jews |
 | Lake | 1 | Hoffmantown Baptist Church |
 | Lal Chand Ustad | 1 | Hawa Mahal |
-| Lamb | 1 | Reynolds Building |
 | Landprocess | 1 | Chulalongkorn University Centenary Park |
 | Lao builders | 1 | Wat Xieng Thong |
 | Lassila Hirvilammi | 1 | Kuokkala Church |
@@ -1200,7 +1328,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Laurent Séchaud | 1 | Central Market, Koudougou |
 | Law Dunbar Naismith | 1 | Eden Court Theatre |
 | Lawrence Halprin | 1 | Freeway Park |
-| Leandro Locsin | 1 | Philippine International Convention Center |
 | Leandro Y. Locsin Jr. | 1 | Ayala Museum |
 | Leck | 1 | Rand Club |
 | Lederer Ragnarsdóttir Oei | 1 | Kunstmuseum Ravensburg |
@@ -1209,18 +1336,20 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Leinweber | 1 | St. Louis Lambert International Airport Terminal 1 |
 | Leo A. Daly | 1 | Habib Bank Plaza |
 | Leo Calini | 1 | Roma Termini |
+| Leonardo Ricci | 1 | Mercato dei Fiori Vecchio |
 | Lev Novikov | 1 | Flying Saucer (UkrINTEI) |
 | Levon Cherkezyan | 1 | Zvartnots Airport Old Terminal |
 | Li Cundong | 1 | Olympic Park Observation Tower |
 | Li Xiaodong | 1 | Bridge School |
 | Liam McCormick | 1 | Church of St Aengus, Burt |
 | Liao dynasty builders | 1 | Pagoda of Fogong Temple (Yingxian Wooden Pagoda) |
+| Libuše Žáčková-Pokorová | 1 | Janáček Theatre |
 | Lidumil Alikalfić | 1 | Zetra Olympic Hall (Juan Antonio Samaranch Olympic Hall) |
 | Lim Chong Keat | 1 | KOMTAR |
+| Linda Taalman | 1 | Dia Beacon |
 | Lindsay Clare | 1 | Gallery of Modern Art |
 | Lindsay Drake | 1 | National Museum of Ghana |
 | Littlemore | 1 | Qantas House (No. 1 Chifley Square) |
-| Lloyd Wright | 1 | Wayfarers Chapel |
 | Lods | 1 | Maison du Peuple, Clichy |
 | London County Council Architects Department | 1 | Alton West Estate |
 | Longwood | 1 | Eugene City Hall |
@@ -1232,13 +1361,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Louis Miquel | 1 | Aéro-Habitat |
 | Louis de Hoÿm de Marien | 1 | Tour Montparnasse |
 | Louis-Adolphe Janvier | 1 | Grande halle de la Villette |
-| Louis-Hippolyte Boileau | 1 | Palais de Chaillot |
 | Lu Qianshou | 1 | Bank of China Building, Shanghai |
 | Luciano Urdaneta Vargas | 1 | Palacio Federal Legislativo |
 | Lucien Parent | 1 | Saint Joseph's Oratory |
 | Lucindo Espinosa | 1 | Las Lajas Sanctuary |
 | Luckman | 1 | Theme Building |
 | Ludovico Quaroni | 1 | Chiesa Madre di Gibellina |
+| Ludwig Moshamer | 1 | WUWA Building no. 37 |
+| Luigi Figini | 1 | Chiesa dei Santi Giovanni e Paolo |
 | Luigi Quagliata | 1 | Palazzo del Cinema, Venice Lido |
 | Luis Martínez-Feduchi | 1 | Edificio Carrión (Edificio Capitol) |
 | Luis Moya Blanco | 1 | Universidad Laboral de Gijón |
@@ -1247,7 +1377,9 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Lund | 1 | St. Hallvard Church and Monastery |
 | Lunde | 1 | Sciences Library (SciLi) |
 | Lundhagem | 1 | Deichman Bjørvika (Oslo Public Library) |
+| Lyle E. Bennett | 1 | Painted Desert Inn |
 | Lyn Messenger | 1 | Tacoma Dome |
+| Lyn Rice | 1 | Dia Beacon |
 | Lyons Israel Ellis | 1 | Wyndham Court |
 | Léon Rousseau | 1 | Abdeen Palace |
 | M. Fatin Uluengin | 1 | Kocatepe Mosque |
@@ -1278,10 +1410,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Man Singh I | 1 | Amer Fort |
 | Manal Rachdi | 1 | L'Arbre Blanc |
 | Manfred Hermer | 1 | Ponte City |
+| Manfred Lehmbruck | 1 | Reuchlinhaus |
 | Manfredi | 1 | Olympic Sculpture Park |
 | Manuel Herz Architects | 1 | Babyn Yar Symbolic Synagogue |
 | Manuel Larrosa | 1 | Open Chapel of Lomas de Cuernavaca (Palmira Chapel) |
 | Manuel Monteserín | 1 | Kaohsiung Music Center |
+| Manuel Schupp | 1 | House of History Baden-Württemberg |
 | Marc Duwe | 1 | Arena Fonte Nova |
 | Marcel Dastugue | 1 | Palais de Tokyo |
 | Marcel Dourgnon | 1 | Egyptian Museum |
@@ -1319,7 +1453,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Maurice Jennings | 1 | Mildred B. Cooper Memorial Chapel |
 | Maurice Larocque | 1 | Our Lady of Victory Church (Igloo Church) |
 | Mauricio Cravotto | 1 | Palacio Municipal de Montevideo (Intendencia) |
-| Max Edrei | 1 | Douaumont Ossuary |
+| Maurus Schifferli | 1 | Strandbad Biel |
 | Max Hacke | 1 | Study Pavilion, TU Braunschweig |
 | Mañosa | 1 | San Miguel Corporation Building |
 | McConnell | 1 | Adelaide Festival Centre |
@@ -1328,15 +1462,17 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Md Jami-al-Shafi | 1 | Martyred Intellectuals Memorial |
 | Medary | 1 | Philadelphia Museum of Art |
 | Mehrdad Yazdani | 1 | Sinai Temple (Los Angeles) |
-| Meinhard von Gerkan | 1 | Berlin Hauptbahnhof |
 | Meixner Schlüter Wendt | 1 | Dornbusch Church |
 | Melchiorre Bega | 1 | Torre Galfa |
 | Melike Altınışık Architects | 1 | Çamlıca Tower |
 | Melvin | 1 | Arts Tower |
+| Mendoza Partida | 1 | Kunstsilo |
 | Menos é Mais Arquitectos | 1 | Arquipélago Contemporary Arts Centre |
 | Merrett | 1 | Burnside Hall |
+| Mestres Wåge Arquitectes | 1 | Kunstsilo |
 | Michael | 1 | Hopkins House |
 | Michael Arad | 1 | National September 11 Memorial |
+| Michael Balz | 1 | Naturtheater Grötzingen |
 | Michael Dysart | 1 | UTS Tower (UTS Building 1) |
 | Michael Goodwin | 1 | Tempe Municipal Building |
 | Michael Nadler | 1 | Jerusalem Theatre |
@@ -1344,15 +1480,16 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Michel Andrault | 1 | Sanctuary of the Madonna of Tears |
 | Michel Macary | 1 | Stade de France |
 | Michel Marot | 1 | Villa Arson |
+| Michel Mousel | 1 | Alcide De Gasperi building |
 | Michel Pinseau | 1 | Hassan II Mosque |
 | Michel Regembal | 1 | Stade de France |
 | Michel Weill | 1 | MuMa (Musée d'art moderne André Malraux) |
+| Michelozzo | 1 | Palazzo dello Strozzino |
 | Mieczysław Król | 1 | Superjednostka |
 | Miguel Feldman | 1 | Maracanã Stadium |
 | Miguel Gutiérrez Sencio | 1 | Cusco Cathedral |
 | Miguel Rosich | 1 | Edificio López Serrano |
 | Mihailo Jankovic | 1 | Palace of Serbia |
-| Mihajlo Mitrović | 1 | Genex Tower |
 | Mikael Mazmanyan | 1 | Sevan Writers' Resort |
 | Mikhail Barkhin | 1 | Izvestia Building |
 | Mikhail Riches | 1 | Goldsmith Street |
@@ -1389,10 +1526,12 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Muhammad al-Mahdi Hegazy | 1 | Jumeirah Mosque |
 | Muhammad ibn Baylik al-Muhsini | 1 | Mosque-Madrasa of Sultan Hassan |
 | Murphy | 1 | Climatron |
+| Myrto Vitart | 1 | ONYX theater |
 | NACO | 1 | Beijing Capital International Airport Terminal 3 |
 | NADAAA | 1 | Melbourne School of Design (Glyn Davis Building) |
 | NBBJ | 1 | Hangzhou Olympic Sports Expo Center |
 | NESPAK | 1 | Lahore Expo Centre |
+| NTT Facilities | 1 | Osaka Museum of History |
 | Naeem Pasha | 1 | Pakistan National Art Gallery |
 | Naheed Farzana | 1 | Liberation War Museum |
 | Naramore | 1 | Kingdome |
@@ -1403,7 +1542,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Nes | 1 | George H. Fallon Federal Office Building |
 | Neutelings Riedijk | 1 | Naturalis Biodiversity Center |
 | Neutelings Riedijk Architecten | 1 | Netherlands Institute for Sound and Vision |
-| Neutelings Riedijk Architects | 1 | Museum aan de Stroom (MAS) |
 | Neutra | 1 | Vienna Werkbund Estate |
 | Nevzat Sayın | 1 | SantralIstanbul |
 | Newar builders | 1 | Nyatapola |
@@ -1414,7 +1552,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Nicolas Esquillan | 1 | CNIT |
 | Nicolás Bares | 1 | Centro Cultural Kirchner |
 | Nicos Valsamakis | 1 | Lanaras Weekend House |
-| Nihon Sekkei | 1 | ACROS Fukuoka |
 | Niilo Kokko | 1 | Lasipalatsi |
 | Nik Arshad Nik Mohammed | 1 | Tuanku Mizan Zainal Abidin Mosque (Iron Mosque) |
 | Nikolai Bayev | 1 | Azerbaijan State Academic Opera and Ballet Theatre |
@@ -1427,8 +1564,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Néstor Pastrana | 1 | Edificio Libertador |
 | O'Neil Ford | 1 | Tower of the Americas |
 | OMM Design Workshop | 1 | Constitutional Court of South Africa |
+| Octave Van Rysselberghe | 1 | Hôtel Otlet |
 | Odell Associates | 1 | BOK Center |
+| Oiva Kallio | 1 | Tampere Theatre |
 | Ola Steen | 1 | Nordic House in the Faroe Islands |
+| Olaf Andreas Gulbransson | 1 | Versöhnungskirche (Ulm) |
 | Olivier-Clément Cacoub | 1 | Bourguiba Mausoleum |
 | Omrania | 1 | Kingdom Centre |
 | Orange | 1 | Run Run Shaw Creative Media Centre |
@@ -1439,10 +1579,14 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Oscar Concessao | 1 | Dr. B.R. Ambedkar Telangana State Secretariat |
 | Oscar Valdetaro | 1 | Maracanã Stadium |
 | Oskar Gerson | 1 | Sprinkenhof |
+| Oskar Kaufmann | 1 | Renaissance-Theater |
 | Oskar Sosnowski | 1 | St. Roch's Church |
 | Osvalds Tīlmanis | 1 | Latvian Academy of Sciences |
+| Otakar Oplatek | 1 | Janáček Theatre |
+| Otakar Pokorný | 1 | Building of East Bohemian Museum |
 | Otto Bullard | 1 | Deira Clocktower |
 | Otto Ritter | 1 | Haydarpaşa Terminal |
+| Otto Rothmayer | 1 | Villa Rothmayer |
 | Otto Winkler | 1 | Arthur and Mona Hofmann House |
 | Owen Williams | 1 | Boots D10 Building |
 | P. Kundziņš | 1 | Brothers' Cemetery |
@@ -1450,6 +1594,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | PKSB Architects | 1 | TKTS Booth, Father Duffy Square |
 | PLOT | 1 | VM Houses |
 | PTW Architects | 1 | Beijing National Aquatics Center |
+| Pablo Pintado | 1 | Palacio de Congresos de Madrid |
 | Page\Park Architects | 1 | Eden Court Theatre |
 | Paget | 1 | Eltham Palace (Courtauld house) |
 | Pansolution | 1 | Chengdu Museum |
@@ -1464,10 +1609,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Patty Hopkins | 1 | Hopkins House |
 | Paul Baumgarten | 1 | Baumgarten-Bau (Federal Constitutional Court) |
 | Paul Belau | 1 | Gran Teatro de La Habana |
-| Paul Bonatz | 1 | Stuttgart Hauptbahnhof |
 | Paul Chemetov | 1 | Ministère de l'Économie et des Finances (Bercy) |
 | Paul Gottereau | 1 | CEC Palace |
 | Paul Herbe | 1 | Sacred Heart Cathedral, Algiers |
+| Paul Linder | 1 | Georg Kolbe Museum |
 | Paul Perilli | 1 | Stazione di Venezia Santa Lucia |
 | Paul Rudolf Henning | 1 | Siemensstadt Estate (Ringsiedlung) |
 | Paul Schneider-Esleben | 1 | Mannesmann-Hochhaus |
@@ -1475,6 +1620,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Paul Viard | 1 | Palais de Tokyo |
 | Paul Weidner | 1 | Dresden Central Station |
 | Paul Williams | 1 | Theme Building |
+| Paul Wolf | 1 | Sachsenbad |
 | Paulo David | 1 | Casa das Mudas Art Centre |
 | Paulo de Melo Sampaio | 1 | Beira railway station |
 | Payette Associates | 1 | Aga Khan University Hospital |
@@ -1486,12 +1632,15 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Pelz | 1 | Thomas Jefferson Building, Library of Congress |
 | Penelope Seidler | 1 | Harry and Penelope Seidler House |
 | Percy Thomas Partnership | 1 | Clifton Cathedral |
+| Pere Domènech i Roura | 1 | Palau Nacional |
 | Pereira | 1 | Theme Building |
 | Perez Architects | 1 | Piazza d'Italia |
 | Perkins Eastman | 1 | TKTS Booth, Father Duffy Square |
 | Perrott Lyon Mathieson | 1 | Rialto Towers |
 | Peter Chermayeff | 1 | Lisbon Oceanarium |
+| Peter Kulka | 1 | Saxon Landtag |
 | Peter Märkli | 1 | La Congiunta |
+| Peter Pelikan | 1 | Kuchlbauer Tower |
 | Peter Rich Architects | 1 | Mapungubwe Interpretation Centre |
 | Peter Schweger | 1 | Kunstmuseum Wolfsburg |
 | Peter Totter | 1 | Torre Espacial |
@@ -1500,6 +1649,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Pezo von Ellrichshausen | 1 | Casa Cien |
 | Pfohl | 1 | Buffalo City Court Building |
 | Phil Freelon | 1 | National Museum of African American History and Culture |
+| Philip Coldwell Thicknesse | 1 | Cunard Building |
 | Philip Dowson | 1 | Denys Wilkinson Building |
 | Philip Powell | 1 | Chichester Festival Theatre |
 | Philippe Prost | 1 | Ring of Remembrance (L'Anneau de la Mémoire) |
@@ -1528,6 +1678,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Prince Toshihito | 1 | Katsura Imperial Villa |
 | Probst | 1 | Wrigley Building |
 | Provencher_Roy | 1 | Pierre Lassonde Pavilion |
+| Purcell | 1 | Kasson Municipal Building |
 | Pāvils Dreijmanis | 1 | Riga Central Market |
 | Pēteris Feders | 1 | Brothers' Cemetery |
 | Qi Kang | 1 | Nanjing Massacre Memorial Hall |
@@ -1547,9 +1698,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Rafik Yeghoyan | 1 | Gyumri railway station |
 | Raglan Squire | 1 | Singapore Indoor Stadium |
 | Ragıp Buluç | 1 | Atakule |
+| Raimund Abraham | 1 | House Dellacher |
 | Rais Ghazi Mohammad | 1 | Bhong Mosque |
 | Ralph Doane | 1 | Manila Central Post Office |
 | Ralph Maynard Smith | 1 | Shell Centre |
+| Ralph Thomas Walker | 1 | Barclay–Vesey Building |
 | Ramses Wissa Wassef | 1 | Ramses Wissa Wassef Art Centre |
 | Ramón Bescós | 1 | Bankinter Building |
 | Ramón Venegas | 1 | Catedral de San Agustín de Talca |
@@ -1569,17 +1722,21 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Renato Rizzi | 1 | Gdańsk Shakespeare Theatre |
 | René Chapallaz | 1 | Villa Fallet |
 | Research Institute | 1 | Tianjin Grand Theatre |
+| Research Institute of Architecture | 1 | Toyama Kirari |
 | Revery Architecture | 1 | Xiqu Centre |
 | Reynolds | 1 | Florida State Capitol |
+| Ricardo Larraín Bravo | 1 | Edificio Ariztía |
 | Ricardo Mira | 1 | Edificio López Serrano |
 | Ricardo Porro | 1 | National Art Schools (Escuelas Nacionales de Arte) |
 | Ricaurte Prieto Carrizosa | 1 | Avianca Building |
-| Richard | 1 | 22 Parkside (Rogers House) |
 | Richard Foster | 1 | New York State Pavilion |
 | Richard Hein | 1 | Chapel of the Holy Cross |
 | Richard Horden | 1 | Glasgow Tower |
+| Richard Jörg | 1 | Catholic Church of the Holy Cross, Mainz |
 | Richard Kirk Architect | 1 | Advanced Engineering Building, University of Queensland |
 | Richard MacCormac | 1 | Southwark tube station |
+| Richard Riemerschmid | 1 | Villa Carl (Feldafing) |
+| Richard Schubert | 1 | Hochhaus Württembergische Straße 6 |
 | Richard Sheppard | 1 | Churchill College |
 | Richard Turner | 1 | Palm House, Kew Gardens |
 | Richard Ure | 1 | Telstra Tower (Black Mountain Tower) |
@@ -1595,7 +1752,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Robert Howden | 1 | Johannesburg Art Gallery |
 | Robert Peck von Hartel Trethowan | 1 | National Museum of Australia |
 | Robert Sseremba | 1 | Munyonyo Martyrs' Shrine |
-| Roberto Gabetti | 1 | Talponia (Unità residenziale Ovest) |
 | Roberto Gottardi | 1 | National Art Schools (Escuelas Nacionales de Arte) |
 | Roberto Luís Gandolfi | 1 | Petrobras Headquarters (Edise) |
 | Roberts | 1 | Buffalo City Court Building |
@@ -1606,6 +1762,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Roche | 1 | Monadnock Building |
 | Roger Anger | 1 | Matrimandir |
 | Roger Erell | 1 | Basilica of Sainte-Anne du Congo |
+| Roger-Henri Expert | 1 | Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz |
 | Roland Dieterle | 1 | Kigali Convention Centre |
 | Roland Korn | 1 | State Council Building |
 | Roland Simounet | 1 | Musée Picasso (Hôtel Salé) |
@@ -1620,9 +1777,9 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Roque Ruaño | 1 | University of Santo Tomas Main Building |
 | Ross | 1 | Union Station |
 | Rosser Fabrap International | 1 | Memphis Pyramid |
+| Rossetti Architects | 1 | Grandstand (US Open) |
 | Roswell Garavito Pearl | 1 | Salt Cathedral of Zipaquirá |
 | Roth | 1 | Werkbundsiedlung Neubühl |
-| Roy Rusden Ogg | 1 | Brisbane Powerhouse |
 | Rubén Martínez | 1 | Iglesia El Rosario |
 | Rudolf Fontana | 1 | Oberrealta Chapel |
 | Rudolf Skoda | 1 | Gewandhaus |
@@ -1641,6 +1798,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | SUMA Arquitectura | 1 | Biblioteca Gabriel García Márquez |
 | Sachio Otani | 1 | Kyoto International Conference Center |
 | Sailendra builders | 1 | Borobudur |
+| Sakakura Associates Architects | 1 | Ōtsuka Museum of Art |
 | Sakari Aartelo | 1 | Tampere Hall |
 | Salvador Ortega Flores | 1 | Rectorate Tower, UNAM |
 | Sam Stephenson | 1 | Central Bank of Ireland, Dame Street |
@@ -1664,8 +1822,8 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Sean Godsell Architects | 1 | RMIT Design Hub |
 | Sedefkar Mehmed Agha | 1 | Sultan Ahmed Mosque (Blue Mosque) |
 | Seely | 1 | Eltham Palace (Courtauld house) |
+| Selim Kamil Fahmy | 1 | All Saints' Cathedral, Cairo |
 | Seoahn Total Landscape | 1 | Seonyudo Park |
-| Serge Chermayeff | 1 | De La Warr Pavilion |
 | Sergey Andreyev | 1 | Shanghai Exhibition Centre |
 | Sergio Musmeci | 1 | Ponte Musmeci (Viadotto dell'Industria) |
 | Seyfi Arkan | 1 | Florya Atatürk Marine Mansion |
@@ -1682,7 +1840,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Shinto shrine carpenters | 1 | Ise Grand Shrine |
 | Shizutaro Urabe | 1 | Kurashiki Ivy Square |
 | Shmuel Bixson | 1 | Jerusalem Theatre |
-| Shreve | 1 | Reynolds Building |
+| Shōichi Sano | 1 | Suntory Hall |
 | Sidney Eisenshtat | 1 | Sinai Temple (Los Angeles) |
 | Siegfried Wolske | 1 | Beethovenhalle |
 | Silvio Robatto | 1 | Teatro Vila Velha |
@@ -1724,7 +1882,6 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Studio Mumbai | 1 | Palmyra House |
 | Studio Valle | 1 | Europa building |
 | Störmer | 1 | Peckham Library |
-| Su Rogers | 1 | 22 Parkside (Rogers House) |
 | Suhail Abbasi | 1 | Pakistan National Art Gallery |
 | Sullivan | 1 | Auditorium Building |
 | Sulpitius van Vorst | 1 | Leuven Town Hall |
@@ -1757,6 +1914,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | The Plan Group | 1 | Cocoa House |
 | Theerapol Niyom | 1 | Sappaya-Sapasathan (Thai Parliament) |
 | Theo Crosby | 1 | Shakespeare's Globe |
+| Theo Effenberger | 1 | WUWA Building no. 26-27 |
 | Theo Lawson | 1 | Black Star Square |
 | Thomas C. Howard | 1 | Poliedro de Caracas |
 | Thomas Cooley | 1 | Four Courts |
@@ -1765,6 +1923,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Thornton Ladd | 1 | Norton Simon Museum |
 | Thorp | 1 | Parliament House |
 | Thorup-Waade | 1 | Arktikum |
+| Théophile Dedun | 1 | Église Sainte-Thérèse-de-l'Enfant-Jésus de Metz |
 | Tianjin Urban Planning | 1 | Tianjin Binhai Library |
 | Tiina Parkkinen | 1 | Nordic Embassies |
 | Timo Suomalainen | 1 | Temppeliaukio Church |
@@ -1779,6 +1938,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Tomás Lugo Marcano | 1 | Teresa Carreño Cultural Complex |
 | Tomás Mapúa | 1 | Manila Central Post Office |
 | Tomás Taveira | 1 | Amoreiras Towers |
+| Tony Fretton | 1 | Fuglsang Art Museum |
 | Tony Kettle | 1 | Falkirk Wheel |
 | Topotek 1 | 1 | Superkilen |
 | Tore Björnstad | 1 | Maison de Radio-Canada |
@@ -1788,11 +1948,11 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Tuck-Hinton Architects | 1 | Country Music Hall of Fame and Museum |
 | Tullio Rossi | 1 | Santa Maria Consolatrice al Tiburtino |
 | Tuomo Suomalainen | 1 | Temppeliaukio Church |
+| Tvsdesign | 1 | 550 South Tryon |
 | U Tin | 1 | Yangon City Hall |
 | UPI-2M | 1 | Arena Zagreb |
 | Uglješa Bogunović | 1 | Avala Tower |
 | Ulrich Franzen | 1 | Bradfield Hall |
-| Ulrich Müther | 1 | Café Seerose |
 | Umemoto | 1 | Taipei Music Center |
 | University of Stuttgart | 1 | ICD/ITKE Research Pavilion 2012 |
 | Unknown builders | 1 | Chand Baori |
@@ -1823,6 +1983,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Viktor Yegerev | 1 | TASS Building |
 | Vilhelm Wohlert | 1 | Louisiana Museum of Modern Art |
 | Vilmos  Fillinger | 1 | Martinelli Building |
+| Vilém Zavřel | 1 | Janáček Theatre |
 | Virendra Trivedi | 1 | Swaminarayan Akshardham |
 | Virgilio Vallot | 1 | Stazione di Venezia Santa Lucia |
 | Vittoriano Viganò | 1 | Istituto Marchiondi Spagliardi |
@@ -1852,7 +2013,10 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Wallace K. Harrison | 1 | United Nations Secretariat Building |
 | Walter Aubrey Thomas | 1 | Royal Liver Building |
 | Walter Maria Förderer | 1 | Church of Saint-Nicolas, Hérémence |
+| Walter W. Ahlschlager | 1 | Carew Tower |
+| Walter van Dijk | 1 | Forum Groningen |
 | Walther | 1 | Hypo-Haus |
+| Wandel Lorch Götze Wach | 1 | Jewish Museum Munich |
 | Wang Dingzheng | 1 | Shanghai Exhibition Centre |
 | Wang Xianchen | 1 | Humble Administrator's Garden |
 | Ward | 1 | Arts Tower |
@@ -1866,6 +2030,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Wenczesław Poniż | 1 | Prudential House |
 | Wendy Becker | 1 | Hotel Indonesia |
 | Wendy Lewin | 1 | Arthur and Yvonne Boyd Education Centre |
+| Werry Roth | 1 | Hochhaus Württembergische Straße 6 |
 | Wheeler | 1 | Crow Island School |
 | Wiel Arets | 1 | Hedge House |
 | Wiktor Tołkin | 1 | Majdanek Mausoleum |
@@ -1875,15 +2040,18 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Willard T. Sears | 1 | Isabella Stewart Gardner Museum |
 | William Burnet Tuthill | 1 | Carnegie Hall |
 | William E. Parsons | 1 | Manila Hotel |
+| William Edward Willink | 1 | Cunard Building |
 | William Henley Deitrick | 1 | J. S. Dorton Arena |
 | William Ivor Shipley | 1 | Malaysian Houses of Parliament |
 | William L. Pereira | 1 | Chet Holifield Federal Building |
+| William L. Steele | 1 | Sioux City Public Library (Smith Villa Branch) |
 | William M. Dodd | 1 | Calgary City Hall |
 | William T. Leighton | 1 | Civic Theatre |
 | William Whitfield | 1 | Glasgow University Library |
+| Willy Kreuer | 1 | St.-Ansgar-Kirche |
 | Wils Ebert | 1 | Walter-Gropius-Haus (Interbau) |
+| Winfried Sziegoleit | 1 | Rundkino Dresden |
 | Wingårdh Arkitektkontor | 1 | Victoria Tower |
-| Wingårdh arkitektkontor | 1 | Kuggen |
 | Wirt C. Rowland | 1 | Guardian Building |
 | Wojciech Pietrzyk | 1 | Church of Our Lady Queen of Poland (Lord's Ark) |
 | Woldemar Baeckman | 1 | Sibelius Museum |
@@ -1900,7 +2068,9 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Yamashita Sekkei | 1 | Kasumigaseki Building |
 | Yang Tingbao | 1 | Beijing Railway Station |
 | Yann Weymouth | 1 | Salvador Dalí Museum |
+| Yasuhisa Toyota | 1 | Shanghai Symphony Hall |
 | Ye Xianghan | 1 | National Theatre of Ghana |
+| Yevgeny Kireyev | 1 | Tsiolkovsky State Museum of the History of Cosmonautics |
 | Yitzhak Toledano | 1 | Hechal Yehuda Synagogue |
 | Yoo Kerl | 1 | Seoul City Hall |
 | Yori Antar | 1 | Mbaru Niang, Wae Rebo |
@@ -1920,6 +2090,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | Zhao Wenbin | 1 | Olympic Park Observation Tower |
 | Zhorzh Shekhlyan | 1 | Zvartnots Airport Old Terminal |
 | Ziki Homsi | 1 | Deira Clocktower |
+| Zikmund Kerekes | 1 | Villa Bass |
 | Zimmer Gunsul Frasca Architects | 1 | Oregon Convention Center |
 | Zlatko Ugljen | 1 | Šerefudin's White Mosque |
 | Zoboki | 1 | Müpa Budapest (Palace of Arts) |
@@ -1957,6 +2128,7 @@ Made by `tools/fetch_portraits.py`. Names from the by lines, most buildings firs
 | the Wae Rebo community | 1 | Mbaru Niang, Wae Rebo |
 | von Gerkan | 1 | Tegel Airport, Terminal A |
 | west front by Pierre-Louis Carlier | 1 | Lille Cathedral |
+| Ángel Romaní Verdeguer | 1 | Mercado Central, Valencia |
 | Édouard Delebarre de Bay | 1 | Le CentQuatre |
 | Édouard François | 1 | Flower Tower |
 | Émile Van Averbeke | 1 | Boerentoren (KBC Tower) |

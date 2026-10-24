@@ -1,0 +1,220 @@
+{
+ "keep_ok": [
+  "palacio-diaz",
+  "temple-of-saint-anthony-of-padua",
+  "edificio-ariztia",
+  "edificio-do-banco-paulista-do-comercio",
+  "tanghalang-pambansa",
+  "edificio-guardiola",
+  "galeria-guemes",
+  "ricardo-rojas-house-museum-research-institute",
+  "coliseo-la-tortuga"
+ ],
+ "ordinary": [
+  "palacio-diaz",
+  "edificio-ariztia",
+  "edificio-do-banco-paulista-do-comercio",
+  "edificio-guardiola",
+  "coliseo-la-tortuga"
+ ],
+ "keep_fix": [
+  {
+   "id": "palacio-diaz",
+   "field": "by",
+   "haiku": "Gonzalo Vázquez Barrière",
+   "should_be": "Gonzalo Vázquez Barrière, Rafael Ruano",
+   "why": "The (German) lead names both architects of the 1929 building; Wikidata lists only one."
+  },
+  {
+   "id": "palacio-diaz",
+   "field": "concepts",
+   "haiku": [
+    "Facade as skin",
+    "Public space",
+    "Cluster"
+   ],
+   "should_be": [
+    "Facade as skin",
+    "Geometry",
+    "Public space"
+   ],
+   "why": "'Cluster' does not fit a single stepped Art Deco block with a shopping passage; 'Geometry' fits the stepped massing in the photos."
+  },
+  {
+   "id": "edificio-ariztia",
+   "field": "concepts",
+   "haiku": [
+    "Structure as expression",
+    "Exposed concrete",
+    "Geometry"
+   ],
+   "should_be": [
+    "Structure as expression",
+    "Geometry",
+    "Facade as skin"
+   ],
+   "why": "The lead says reinforced concrete structure, but the facades are plastered, so 'Exposed concrete' is wrong; the photos show a wedge-shaped block with a rendered facade."
+  },
+  {
+   "id": "galeria-guemes",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1915,
+   "why": "Lead gives only the 1913 design date; prep's year 1915 is the plausible completion year, and the brief says to use prep's year then."
+  },
+  {
+   "id": "ricardo-rojas-house-museum-research-institute",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1929,
+   "why": "Commissioned 1927; the lead says Rojas lived in the house from 1929, and prep's year is 1929, which is plausible for completion."
+  },
+  {
+   "id": "ricardo-rojas-house-museum-research-institute",
+   "field": "concepts",
+   "haiku": [
+    "Facade as skin",
+    "Detail",
+    "Sculptural form"
+   ],
+   "should_be": [
+    "Courtyard",
+    "Detail",
+    "Facade as skin"
+   ],
+   "why": "The photos (and the house's fame) are about the patio and its carved facade, not a sculptural form."
+  },
+  {
+   "id": "tanghalang-pambansa",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1969,
+   "why": "Lead gives no year; prep's year 1969 is plausible (Cultural Center of the Philippines theatre opened 1969)."
+  },
+  {
+   "id": "coliseo-la-tortuga",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1980,
+   "why": "Lead gives no year; prep's year 1980 is plausible, so it is used instead of null."
+  },
+  {
+   "id": "edificio-guardiola",
+   "field": "features",
+   "haiku": "Functionalist office building for Banco de México, built 1947 on a site with several historical stages.",
+   "should_be": "Functionalist office building by Carlos Obregón Santacilia for Banco de México, built in 1947.",
+   "why": "Clearer; the 'site with several historical stages' clause is a filler from the lead."
+  }
+ ],
+ "keep_wrong": [],
+ "main_photo_wrong": [
+  {
+   "id": "botter-appartement",
+   "better_file_or_null": null,
+   "why": "The only whole-street shot (File:Botter Apartment.jpg) is a narrow vertical street scene with pedestrians and the building cut off; every other photo is a facade or ironwork detail. Without a clear exterior it cannot be kept (Haiku listed only that one photo). Also name: use 'Botter Apartment' (Commons name) rather than the Dutch title; prep's year 1901 is the plausible year since the lead says only 'the 1900s'."
+  },
+  {
+   "id": "galeria-guemes",
+   "better_file_or_null": "File:Galería Güemes Cúpula torreta 01.jpg",
+   "why": "Haiku's first photo (Galeria Güemes desde Bencich.jpg) is a close crop of the tower and top floors; prep's main photo (CC BY-SA 4.0) shows the whole building with its tower in daylight."
+  },
+  {
+   "id": "coliseo-la-tortuga",
+   "better_file_or_null": "File:Coliseo La Tortuga (7118487397).jpg",
+   "why": "Haiku's photo (6972409366) shows the arena small and far behind a palm and pavement; prep's main photo (CC BY-SA 2.0) shows the whole turtle-shell roof close up. A large totem sculpture stands at its left edge but the arena is the subject."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "selim-al-deen-muktamanch",
+   "why": "Lead gives a clear design reason (first open-air theatre in South Asia in the style of an ancient Greek theatre, on a mound slope). Architect conflict resolved: the lead calls Selim Al Deen (a playwright) the 'master planner' after whom it was named, and names no designer, so Wikidata's Alamgir Kabir stands. Main photo is a clear daylight view of the whole tiered amphitheatre with no people. Movement is my choice; the lead names none.",
+   "entry": {
+    "id": "selim-al-deen-muktamanch",
+    "qid": "Q130607297",
+    "status": "photo",
+    "why": "First open-air theatre in South Asia built in the style of an ancient Greek theatre; clear daylight exterior photos.",
+    "name": "Selim Al Deen Muktamanch",
+    "by": "Alamgir Kabir",
+    "city": "Savar",
+    "cc": "BD",
+    "year": 1980,
+    "type": "Culture & sport",
+    "movement": "Regionalism",
+    "concepts": [
+     "Landscape",
+     "Public space",
+     "Brick"
+    ],
+    "features": "First open-air theatre in South Asia built in the style of an ancient Greek theatre, on a mound slope.",
+    "commons_category": "Category:Selim Al Deen Muktomoncho",
+    "coords": [
+     23.87877,
+     90.2708
+    ],
+    "photos": [
+     {
+      "file": "File:Open Satge Of JahangirNagar University.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Selim Al Deen Muktomoncho.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:সেলিম আল দীন মুক্তমঞ্চ.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Selim Al-Din Muktomoncho.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "faculty-of-fine-arts-university-of-dhaka",
+   "why": "Muzharul Islam's Faculty (Institute) of Fine Arts, named by the owner as a regional modernist work Haiku skipped because the lead speaks of the school. The lead names Muzharul Islam as designer and says it was the region's first art school, in Shahbag since 1956 (year taken from that; the building's completion year is not stated, so please confirm). Main photo is a daylight outside view of the entrance block, not perfect (partly framed by foliage and a railing) but with no people; the veranda photo is a good second. Photos with students and the gate are left out.",
+   "entry": {
+    "id": "faculty-of-fine-arts-university-of-dhaka",
+    "qid": "Q4796888",
+    "status": "photo",
+    "why": "Muzharul Islam designed the building; it houses the first art school in the region.",
+    "name": "Faculty of Fine Arts, University of Dhaka",
+    "by": "Muzharul Islam",
+    "city": "Dhaka",
+    "cc": "BD",
+    "year": 1956,
+    "type": "Education",
+    "movement": "Modernism",
+    "concepts": [
+     "Brick",
+     "Structure as expression",
+     "Climate response"
+    ],
+    "features": "Designed by Muzharul Islam for the region's first art school, in Shahbag since 1956.",
+    "commons_category": "Category:Faculty of Fine Arts, University of Dhaka",
+    "coords": [
+     23.7357,
+     90.3948
+    ],
+    "photos": [
+     {
+      "file": "File:Institute of Fine Art 1 .A.M.R.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG",
+      "license": "CC BY 3.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Checked positions 152-298 (147 buildings): Haiku had 10 keep, 6 unsure, 131 skip. Result: 9 keeps accepted (keep_ok), 5 of them ordinary types (palacio-diaz, edificio-ariztia, edificio-do-banco-paulista-do-comercio, edificio-guardiola, coliseo-la-tortuga; weakest are guardiola and coliseo); 1 keep dropped for no usable main photo (botter-appartement); 2 keeps need a better main photo (galeria-guemes, coliseo-la-tortuga); 9 field fixes (by, concepts, year x4, features); 0 keep_wrong; 2 rescued (selim-al-deen-muktamanch, faculty-of-fine-arts-university-of-dhaka). Still unsure, no usable exterior main photo: Africa Hall (only interiors and people), Restaurante Zambi (chimney only), Manik Bagh (portraits only), Centro SCOP (street view of a complex, and the lead says it was a complex), Luis David Cruz Ocampo library (entrance doors only). Chandigarh College of Architecture has only a logo. Skips confirmed as right in all other cases; borderline skips for the owner: Ohel Yizkor (Yad Vashem, Sharon et al.; good exterior photo but lead gives only the ceremony use), and several strong buildings with empty leads (House of Victoria Ocampo, Senate Palace Tehran, The Glass Building Tehran, Ab-o-Atash Amphitheatre, Igreja Matriz Presidente Getulio) which stay skipped under the empty-lead rule."
+}

@@ -1,12 +1,42 @@
 [
  {
+  "id": "2026-10-23-12",
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "New candidate search: (1) batch 9 from the Pritzker winners' buildings not yet on the wall (139); (2) harvest buildings from 2000 on with a lower fame bar (tools/harvest_recent.py) for batch 10",
+  "target": 60,
+  "actual": 106,
+  "note": "Batch 9: 22 added; batch 10 (300 from the 2000-on harvest) being prepared",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-23-13",
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "Fix-up round: find sourced years for the 51 buildings held for want of one (tools/held_years.py, Sonnet picks the year and quotes the source), then add them",
+  "target": 30,
+  "actual": 106,
+  "note": "39 added",
+  "status": "done"
+ },
+ {
   "id": "2026-10-22-10",
   "date": "2026-10-22",
   "workstream": "Data collection",
   "goal": "Haiku batch 7: 300 candidates from 1900 on, no towers, offices, housing, hotels or shops in the pool, no local US houses and theatres by architects not on the wall; ordinary types kept under 20% (owner's rule); Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
   "target": 80,
-  "actual": 102,
+  "actual": 154,
   "note": "102 added, ordinary types 8%",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-22-11",
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 8: 300 candidates from 1900 on with batch 7's rules (no ordinary types in the pool; local US houses, halls, theatres, libraries and churches by architects not on the wall left out); ordinary types under 20%",
+  "target": 70,
+  "actual": 154,
+  "note": "52 added, ordinary types 17%",
   "status": "done"
  },
  {

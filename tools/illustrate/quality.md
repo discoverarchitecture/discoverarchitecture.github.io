@@ -286,3 +286,27 @@ the 20% rule. 45 buildings reached the wall.
 | Ordinary types | 8 of 45 (18%) by Sonnet's tag | fine, after setting one aside |
 
 Held: 3 without a sourced year, 2 without a main photo, and the three above (`tools/cheap/pool10_held.json`).
+
+## Haiku pipeline, eleventh pool (23 Oct 2026): 299 candidates from under-represented regions
+
+From `tools/harvest/regions.json` (the 11 Oct regional harvest: Africa, Latin America and Asia beyond Japan, China,
+Korea, Taiwan and Russia), not used before, dated 1900 on, no ordinary types by name, at most 4 per architect and 20
+per country (`tools/cheap/make_pool11.py`). Haiku kept 45; Sonnet threw out 18 (12 revival-style cathedrals and
+palaces with nothing in the lead about their design, 3 already on the wall, 3 ordinary civic buildings) and rescued
+5, of which three Barluzzi churches were left out by hand for the same want of a design reason. Muzharul Islam's
+Fine Arts building in Dhaka came off `rejected.txt`: a daylight photo of the building itself was found and checked
+by eye. Three ordinary keeps were set aside for the 20% rule. 24 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 24 (1 better lead chosen; 18 gallery photos removed) | fine |
+| No free photo | 9 of 299 (3%), among them Africa Hall, Manik Bagh, Duhart's Concepción library and Guedes's Zambi | fine |
+| Already on the wall | 8 of 299 (3%): Israel Museum, Pearl Palace, Weizmann House, Villa Shodhan, Villa Baizeau, Coconut Palace, Chaktomuk Hall, Holy Sacrifice | fine |
+| Facts failing the source check | Haiku's keeps: 18 of 45 were wrong keeps and 13 needed a fact fixed (69%) | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 4 of 24 (17%) by Sonnet's tag | fine, after setting three aside |
+
+Held: Independence Hall (no year), Botter Apartment (no main photo), and the three ordinary keeps
+(`tools/cheap/pool11_held.json`). The regional harvest is thin past this pool: 300 more candidates would mostly be
+revival churches and offices. Five strong buildings were skipped only for want of any Wikipedia text (House of
+Victoria Ocampo, the Senate Palace and the Glass Building in Tehran, the Ab-o-Atash amphitheatre, Igreja Matriz in
+Presidente Getúlio): worth a hand-written entry from a source later.

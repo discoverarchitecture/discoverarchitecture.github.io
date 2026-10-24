@@ -1,0 +1,526 @@
+[
+ {
+  "id": "shell-building",
+  "qid": "Q54871184",
+  "status": "skip",
+  "why": "Lead calls it an emblematic monument and names its first client; it gives no design reason."
+ },
+ {
+  "id": "cathedrale-marie-reine-du-monde-de-port-said",
+  "qid": "Q61466905",
+  "status": "skip",
+  "why": "Co-cathedral; the lead names Ange-Marie Hiral as its builder and gives no design reason."
+ },
+ {
+  "id": "maspero-television-building",
+  "qid": "Q6783908",
+  "status": "skip",
+  "why": "Lead gives the height and the broadcaster it houses; no design reason."
+ },
+ {
+  "id": "basra-memorial",
+  "qid": "Q6967066",
+  "status": "skip",
+  "why": "War memorial (Commonwealth War Graves Commission); monuments are skipped."
+ },
+ {
+  "id": "saint-patrick-s-school",
+  "qid": "Q7401990",
+  "status": "skip",
+  "why": "School; the lead gives its history only."
+ },
+ {
+  "id": "edificio-limatambo",
+  "qid": "Q94528738",
+  "status": "skip",
+  "why": "Demolished in 2013 according to the lead."
+ },
+ {
+  "id": "ahmedabad-town-hall",
+  "qid": "Q95347976",
+  "status": "skip",
+  "why": "Lead gives a hall, its renovations and its abandonment; no design reason."
+ },
+ {
+  "id": "igreja-matriz",
+  "qid": "Q107191191",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "house-of-victoria-ocampo",
+  "qid": "Q113000863",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "van-heutsz-memorial",
+  "qid": "Q114838868",
+  "status": "skip",
+  "why": "Empty lead; also a monument."
+ },
+ {
+  "id": "tabaco-city-hall",
+  "qid": "Q117744620",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "ab-o-atash-amphitheatre",
+  "qid": "Q118015018",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "centro-scop",
+  "qid": "Q124458704",
+  "status": "unsure",
+  "why": "Lead gives a complex for the federal communications and public works ministry, with homes, shops and sports areas. Augusto Perez Palacios is on the wall, so the short lead is no reason to skip; but the only photo is a facade with a mural, not the whole building. Year null: the lead gives none.",
+  "note": "no main photo",
+  "name": "Centro SCOP",
+  "by": "Augusto Pérez Palacios",
+  "city": "Mexico City",
+  "cc": "MX",
+  "year": null,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Cluster",
+   "Community",
+   "Public space"
+  ],
+  "features": "A complex built for the federal communications and public works ministry, with homes, shops and sports areas.",
+  "commons_category": null,
+  "coords": [
+   19.39392,
+   -99.14764
+  ],
+  "photos": []
+ },
+ {
+  "id": "egyptian-diplomatic-club",
+  "qid": "Q126951377",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "tribune-of-honor",
+  "qid": "Q131411608",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "ptpn-x-building",
+  "qid": "Q133313850",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "istanbul-university-rare-works-library",
+  "qid": "Q134777246",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "the-glass-building",
+  "qid": "Q135103580",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "luis-david-cruz-ocampo-central-library",
+  "qid": "Q136676306",
+  "status": "unsure",
+  "why": "Lead gives a symmetrical concrete design by Emilio Duhart, on the post-1960-earthquake campus plan, and Duhart is on the wall. But the only photo is the entrance doors, not the building. Year 1972 is the lead's opening date.",
+  "note": "no main photo",
+  "name": "\"Luis David Cruz Ocampo\" Central Library",
+  "by": "Emilio Duhart, Roberto Goycoolea",
+  "city": "Concepción",
+  "cc": "CL",
+  "year": 1972,
+  "type": "Library",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Axis",
+   "Landscape"
+  ],
+  "features": "Symmetrical concrete library on a raised campus site, one of the last works of the post-1960-earthquake Duhart plan.",
+  "commons_category": null,
+  "coords": [
+   -36.83187,
+   -73.0351
+  ],
+  "photos": []
+ },
+ {
+  "id": "concepcion-municipal-building",
+  "qid": "Q137452647",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "edificio-de-la-comision-honoraria-para-la-lucha-antituberculosa",
+  "qid": "Q141554133",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "sao-jose-de-lhanguene",
+  "qid": "Q21484964",
+  "status": "skip",
+  "why": "Empty lead and no photos."
+ },
+ {
+  "id": "prime-minister-s-residence-yerevan",
+  "qid": "Q42801268",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "abovian-31-yerevan",
+  "qid": "Q42802052",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "nalbandyan-37-yerevan",
+  "qid": "Q42804984",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "pushkin-25-yerevan",
+  "qid": "Q42805205",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "sayat-nova-25-yerevan",
+  "qid": "Q42805258",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "vardanants-7",
+  "qid": "Q42805282",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "edificio-cicero-prado",
+  "qid": "Q51922616",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "casa-walther-moreira-salles",
+  "qid": "Q55065496",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "santiago-stock-exchange",
+  "qid": "Q55241402",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "faculty-of-management-of-the-university-of-tehran",
+  "qid": "Q61063975",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "new-zealand-memorial-at-chunuk-bair",
+  "qid": "Q62061354",
+  "status": "skip",
+  "why": "Empty lead; war memorial."
+ },
+ {
+  "id": "edificio-del-ministerio-de-hacienda-y-comercio",
+  "qid": "Q100314037",
+  "status": "skip",
+  "why": "Lead gives the size and the ministry it houses; no design reason."
+ },
+ {
+  "id": "jockey-club-de-sao-paulo",
+  "qid": "Q10307554",
+  "status": "skip",
+  "why": "Lead gives the club's founding and the racecourse's history; no design reason."
+ },
+ {
+  "id": "palacio-das-esmeraldas",
+  "qid": "Q10344009",
+  "status": "skip",
+  "why": "Lead gives the seat of state government and the green colour behind its name; no design reason."
+ },
+ {
+  "id": "edificio-barth",
+  "qid": "Q1046312",
+  "status": "skip",
+  "why": "Lead gives the 1927 date, the architect and the later offices; no design reason."
+ },
+ {
+  "id": "sfax-town-hall",
+  "qid": "Q109313413",
+  "status": "skip",
+  "why": "Lead gives only the municipal seat and the date; no design reason."
+ },
+ {
+  "id": "abulfazlil-abbas-mosque",
+  "qid": "Q110104543",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "people-s-national-assembly-building",
+  "qid": "Q111181342",
+  "status": "skip",
+  "why": "Lead gives its history as city hall and parliament; no design reason."
+ },
+ {
+  "id": "palacio-de-los-tribunales",
+  "qid": "Q111527095",
+  "status": "skip",
+  "why": "Courthouse; the lead gives no design reason."
+ },
+ {
+  "id": "palace-of-prince-yusuf-kamal",
+  "qid": "Q118640137",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "al-mouwasat-mosque",
+  "qid": "Q12242784",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "old-padang-city-hall",
+  "qid": "Q12473682",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "pablo-ferrando-building",
+  "qid": "Q1284555",
+  "status": "skip",
+  "why": "Lead gives its origin as a shop and its later offices; no design reason."
+ },
+ {
+  "id": "selim-al-deen-muktamanch",
+  "qid": "Q130607297",
+  "status": "unsure",
+  "why": "Lead gives a design reason: the first open-air theatre in South Asia built in the style of an ancient Greek theatre. The architect is unclear, and the dates do not rule either name out, so the owner decides.",
+  "note": "architect conflict: lead names Selim Al Deen as master planner; Wikidata says Alamgir Kabir",
+  "name": "Selim Al Deen Muktamanch",
+  "photos": [
+   {
+    "file": "File:Open Satge Of JahangirNagar University.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "komitas-grave",
+  "qid": "Q16386349",
+  "status": "skip",
+  "why": "Grave and sculpture monument."
+ },
+ {
+  "id": "iglesia-de-maria-auxiliadora",
+  "qid": "Q16950642",
+  "status": "skip",
+  "why": "Lead gives the parish history and the school beside it; no design reason."
+ },
+ {
+  "id": "white-cross-orphanage",
+  "qid": "Q17047941",
+  "status": "skip",
+  "why": "Childcare agency; the lead gives no design reason."
+ },
+ {
+  "id": "saint-thomas-church-tehran",
+  "qid": "Q17993311",
+  "status": "skip",
+  "why": "Lead gives the consecration year and the church's affiliation only; no photos."
+ },
+ {
+  "id": "fronton-mexico",
+  "qid": "Q19949971",
+  "status": "skip",
+  "why": "Lead gives a first (covered venue for big sports events) and its later use, not a design reason; sports venue."
+ },
+ {
+  "id": "palacio-brasil",
+  "qid": "Q2046758",
+  "status": "skip",
+  "why": "Lead gives historic eclecticism and a municipal listing; not a modern work or key precedent."
+ },
+ {
+  "id": "palacio-pietracaprina",
+  "qid": "Q2046776",
+  "status": "skip",
+  "why": "Lead gives historic eclecticism; not a modern work or key precedent."
+ },
+ {
+  "id": "america-cultural-center",
+  "qid": "Q21572961",
+  "status": "skip",
+  "why": "Lead says only 'significant building'."
+ },
+ {
+  "id": "palace-of-said-halim-pasha",
+  "qid": "Q25454722",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "mercado-central-de-lima",
+  "qid": "Q26213817",
+  "status": "skip",
+  "why": "Lead describes the basement and ramps but gives no reason it matters."
+ },
+ {
+  "id": "june-19-building",
+  "qid": "Q392521",
+  "status": "skip",
+  "why": "Lead gives a competition, dates and the bank's use; no design reason."
+ },
+ {
+  "id": "teatro-victoria-hall",
+  "qid": "Q42974576",
+  "status": "skip",
+  "why": "Lead says only 'historic building'."
+ },
+ {
+  "id": "faculty-of-fine-arts-university-of-dhaka",
+  "qid": "Q4796888",
+  "status": "skip",
+  "why": "Lead gives the school's history as the first art school in the region; the architect is named but no design reason is given."
+ },
+ {
+  "id": "coliseo-la-tortuga",
+  "qid": "Q5145752",
+  "status": "photo",
+  "why": "Lead gives the distinctive turtle-shell roof and the arena's size as the reason it stands out. The photo is a daylight view of the whole building with palms in front and no people. Year null: the lead gives no completion year (Wikidata says 1980). Movement is my choice; the lead names none.",
+  "name": "Coliseo La Tortuga",
+  "by": "José Llambías",
+  "city": "Talcahuano",
+  "cc": "CL",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Renowned for its distinctive roof, shaped like a turtle's shell, and until recently Chile's largest building of its kind.",
+  "commons_category": "Category:Coliseo Monumental La Tortuga",
+  "coords": [
+   -36.72,
+   -73.10861
+  ],
+  "photos": [
+   {
+    "file": "File:Coliseo La Tortuga (6972409366).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-del-arte",
+  "qid": "Q5390424",
+  "status": "skip",
+  "why": "Lead gives the museum's collection and a mural by another artist; no design reason."
+ },
+ {
+  "id": "campanil",
+  "qid": "Q5742578",
+  "status": "skip",
+  "why": "Lead gives a bell tower and the campus's listing; no design reason."
+ },
+ {
+  "id": "edificio-javier-alzamora-valdez",
+  "qid": "Q5817991",
+  "status": "skip",
+  "why": "Lead gives the former ministry and current court use; no design reason."
+ },
+ {
+  "id": "edificio-rimac",
+  "qid": "Q5818277",
+  "status": "skip",
+  "why": "Lead gives the location and the insurer that owns it; no design reason."
+ },
+ {
+  "id": "benjamin-carrion-palace",
+  "qid": "Q6057593",
+  "status": "skip",
+  "why": "Lead gives a palace and museum named after a writer; no design reason."
+ },
+ {
+  "id": "oxford-mission-epiphany-cathedral",
+  "qid": "Q60770408",
+  "status": "skip",
+  "why": "Lead gives the church's size and history; no design reason."
+ },
+ {
+  "id": "church-of-our-lady-of-carmen-bogota",
+  "qid": "Q6121481",
+  "status": "skip",
+  "why": "Lead gives a historicist Florentine Gothic style; not a modern work or key precedent."
+ },
+ {
+  "id": "miguel-young-theatre-fray-bentos",
+  "qid": "Q6139801",
+  "status": "skip",
+  "why": "Lead gives the plans and the refurbishment; no design reason."
+ },
+ {
+  "id": "aisha-fahmy-palace",
+  "qid": "Q68167665",
+  "status": "skip",
+  "why": "Empty lead."
+ },
+ {
+  "id": "ermita-church",
+  "qid": "Q7110828",
+  "status": "skip",
+  "why": "Lead gives the shrine and its Marian image; no design reason."
+ },
+ {
+  "id": "port-tewfik-memorial",
+  "qid": "Q7230979",
+  "status": "skip",
+  "why": "Lead says the memorial was destroyed; war memorial."
+ },
+ {
+  "id": "university-of-tehran-main-entrance",
+  "qid": "Q7896409",
+  "status": "skip",
+  "why": "Lead describes the university, not the gate."
+ },
+ {
+  "id": "cripta-de-los-heroes",
+  "qid": "Q94287573",
+  "status": "skip",
+  "why": "Cemetery and monument; the lead gives no design reason for the building."
+ },
+ {
+  "id": "huaura-museum",
+  "qid": "Q94954807",
+  "status": "skip",
+  "why": "Lead gives a historic house and a war museum; listed monument."
+ },
+ {
+  "id": "palacio-municipal-de-miraflores",
+  "qid": "Q98949092",
+  "status": "skip",
+  "why": "City hall; the lead gives its use and a monument listing only."
+ }
+]
