@@ -1,0 +1,943 @@
+[
+ {
+  "id": "uemura-naomi-memorial-museum",
+  "qid": "Q11540592",
+  "status": "photo",
+  "why": "Prize in awards; the lead gives the 1994 opening; photos show the whole museum outside.",
+  "name": "Uemura Naomi Memorial Museum",
+  "by": "Akira Kuryu",
+  "city": "Toyooka",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Light from above"
+  ],
+  "features": "Museum honouring the adventurer Naomi Uemura, opened in 1994 in a sports park; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Uemura Naomi Memorial Museum",
+  "coords": [
+   35.46139,
+   134.73217
+  ],
+  "photos": [
+   {
+    "file": "File:130914 Uemura Naomi Memorial Museum Toyooka Hyogo pref Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:130914 Uemura Naomi Memorial Museum Toyooka Hyogo pref Japan02bs5.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "seto-inland-sea-folk-history-museum",
+  "qid": "Q11566553",
+  "status": "photo",
+  "why": "Lead names the architect and an AIJ Prize; year from the lead (established 1973).",
+  "name": "Seto Inland Sea Folk History Museum",
+  "by": "Tadashi Yamamoto",
+  "city": "Takamatsu",
+  "cc": "JP",
+  "year": 1973,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Museum on the Goshikidai Plateau in Setonaikai National Park, designed by athlete-architect Tadashi Yamamoto.",
+  "commons_category": "Category:Seto Inland Sea Folk History Museum",
+  "coords": [
+   34.37822,
+   133.93098
+  ],
+  "photos": [
+   {
+    "file": "File:Gosikidai31.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Japan Goshikidai 瀬戸内海歴史民俗資料館（１）.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fuji-harness",
+  "qid": "Q11581695",
+  "status": "photo",
+  "why": "Prize in awards; the lead gives no year, so the Wikidata year 2006 is used. One usable photo.",
+  "name": "Fuji Harness",
+  "by": "Manabu Chiba",
+  "city": "Fujinomiya",
+  "cc": "JP",
+  "year": 2006,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Guide-dog centre in Fujinomiya, Shizuoka, run by the Japan Guide Dog Association; won an Architectural Institute of Japan Prize.",
+  "commons_category": null,
+  "coords": [
+   35.34469,
+   138.59564
+  ],
+  "photos": [
+   {
+    "file": "File:Fuji-harness.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kushiro-city-museum",
+  "qid": "Q11648285",
+  "status": "unsure",
+  "why": "Architect Kikō Mozuna and year 1936 come from Wikidata; the lead dates the new museum building to 1983 and names no architect, so the architect may not fit. Check before keeping. AIJ Prize in awards."
+ },
+ {
+  "id": "nagano-city-museum",
+  "qid": "Q11654184",
+  "status": "photo",
+  "why": "Prize in awards; the lead gives no year, so the Wikidata year 1981 is used.",
+  "name": "Nagano City Museum",
+  "by": "Tadanaga Miyamoto",
+  "city": "Nagano",
+  "cc": "JP",
+  "year": 1981,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Cluster",
+   "Earth & local material"
+  ],
+  "features": "Museum studying the relationship between people and nature in the Nagano basin; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Nagano City Museum",
+  "coords": [
+   36.59156,
+   138.18792
+  ],
+  "photos": [
+   {
+    "file": "File:Nagano City Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagano City Museum No,1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "koshinokuni-museum-of-literature",
+  "qid": "Q11669915",
+  "status": "unsure",
+  "why": "BCS Prize (Japan) in awards, but there is no photo in prep at all; the lead is short and describes no design.",
+  "note": "no main photo"
+ },
+ {
+  "id": "malmo-city-library",
+  "qid": "Q119684",
+  "status": "photo",
+  "why": "Kasper Salin Prize in awards; the lead gives the 1905 opening.",
+  "name": "Malmö City Library",
+  "by": "John Smedberg",
+  "city": "Malmö",
+  "cc": "SE",
+  "year": 1905,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Municipal library opened in 1905 that became Sweden's first to lend video games in 2006; won the Kasper Salin Prize.",
+  "commons_category": "Category:Malmö City Library",
+  "coords": [
+   55.60056,
+   12.99444
+  ],
+  "photos": [
+   {
+    "file": "File:Malmö City Library.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Malmö stadsbibliotek (53475971249).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokohama-arena",
+  "qid": "Q1196914",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives the 1989 opening. Arena, kept on the prize.",
+  "name": "Yokohama Arena",
+  "by": "Takenaka Corporation",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Yokohama indoor arena opened in 1989, modelled on Madison Square Garden; won the BCS Prize (Japan).",
+  "commons_category": "Category:Yokohama Arena",
+  "coords": [
+   35.51239,
+   139.62006
+  ],
+  "photos": [
+   {
+    "file": "File:Yokohama Arena 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:View of Yokohama Arena from the south - Aug 10, 2024.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yokohama Arena, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ibsenkvartalet",
+  "qid": "Q11976766",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "solvberget-bibliotek-og-kulturhus",
+  "qid": "Q12002798",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "storetveit-church",
+  "qid": "Q12003436",
+  "status": "photo",
+  "why": "Houen Foundation diploma in awards; the lead names the architect and gives 1930.",
+  "name": "Storetveit Church",
+  "by": "Ole Landmark",
+  "city": "Bergen",
+  "cc": "NO",
+  "year": 1930,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Light & shadow"
+  ],
+  "features": "Stone parish church in Bergen, built in 1930 to plans by Ole Landmark, seating about 600 people.",
+  "commons_category": "Category:Storetveit kirke",
+  "coords": [
+   60.35161,
+   5.34468
+  ],
+  "photos": [
+   {
+    "file": "File:Storetveit kirke.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Storetveit kirke 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "avoriaz",
+  "qid": "Q127037",
+  "status": "skip",
+  "why": "A ski resort, a place rather than a building."
+ },
+ {
+  "id": "mizuho-paypay-dome-fukuoka",
+  "qid": "Q1365961",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead says it is Japan's first retractable-roof stadium, built 1993. Exteriors only.",
+  "name": "Mizuho PayPay Dome Fukuoka",
+  "by": "Takenaka Corporation, Maeda Corporation",
+  "city": "Fukuoka",
+  "cc": "JP",
+  "year": 1993,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Japan's first stadium with a retractable roof, built in 1993; won the BCS Prize (Japan).",
+  "commons_category": "Category:Fukuoka Dome",
+  "coords": [
+   33.59528,
+   130.36222
+  ],
+  "photos": [
+   {
+    "file": "File:Fukuoka dome - alt - 2024 Sep 25 various.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukuoka Dome - 2024 September 25 various 16 37 18 744000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-theatre-of-japan",
+  "qid": "Q1369225",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives no year, so the Wikidata year 1966 is used. One clean exterior photo.",
+  "name": "National Theatre of Japan",
+  "by": "Takenaka Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1966,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Japan's national theatre for traditional performing arts, in Hayabusachō, Tokyo; won the BCS Prize (Japan).",
+  "commons_category": "Category:National Theatre of Japan",
+  "coords": [
+   35.68139,
+   139.74306
+  ],
+  "photos": [
+   {
+    "file": "File:2018 National Theatre of Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-of-ethnography-sweden",
+  "qid": "Q1371375",
+  "status": "photo",
+  "why": "Kasper Salin Prize in awards; the lead gives no year, so the Wikidata year 1900 is used; it may be a founding year, check.",
+  "name": "Museum of Ethnography, Sweden",
+  "by": "Jan Gezelius, Gunnar Mattsson",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1900,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Stockholm ethnography museum with about 220,000 items, in Museiparken; won the Kasper Salin Prize.",
+  "commons_category": "Category:Etnografiska museet",
+  "coords": [
+   59.33258,
+   18.12072
+  ],
+  "photos": [
+   {
+    "file": "File:Etnografiska museet 2007.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografiska museet - Stockholm, Sweden - DSC00769.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografiska museet, dec 2019b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "piperviken-smakirke",
+  "qid": "Q14366694",
+  "status": "skip",
+  "why": "Demolished in 1959, per the lead."
+ },
+ {
+  "id": "stade-de-la-licorne",
+  "qid": "Q1568249",
+  "status": "unsure",
+  "why": "Mies van der Rohe Award and a roof the lead calls striking; the main shot is a match inside the stadium, and only p4 is outside, partial, across a canal.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museum-of-contemporary-art-tokyo",
+  "qid": "Q1649688",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives the March 1995 opening. Wikidata's located city (Miyoshi) is wrong; the lead says Koto, Tokyo.",
+  "name": "Museum of Contemporary Art Tokyo",
+  "by": "Takahiko Yanagisawa",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "One of Japan's largest contemporary art museums, opened in 1995 in Kiba Park; won the BCS Prize (Japan).",
+  "commons_category": "Category:Museum of Contemporary Art Tokyo",
+  "coords": [
+   35.68,
+   139.80806
+  ],
+  "photos": [
+   {
+    "file": "File:Museum of Contemporary Art Tokyo 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "toranomon-hills",
+  "qid": "Q16724433",
+  "status": "photo",
+  "why": "BCS Prize in awards; year 2014 is the Mori Tower's (lead); other towers are later. City from the lead (Toranomon is a district).",
+  "name": "Toranomon Hills",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2014,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Mixed-use Tokyo complex whose Mori Tower (2014) was designed by Nihon Sekkei; won the BCS Prize (Japan).",
+  "commons_category": "Category:Toranomon Hills",
+  "coords": [
+   35.6669,
+   139.749
+  ],
+  "photos": [
+   {
+    "file": "File:Toranomon Hills.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toranomon Hills 3 towers.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:虎ノ門ヒルズ全景2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "asker-krematorium",
+  "qid": "Q17194516",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "convento-del-rollo",
+  "qid": "Q17374348",
+  "status": "unsure",
+  "why": "Lead names Antonio Fernández Alba and gives only a design year (1962), not a completion year; photos are plans, a section and a close detail.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ryogoku-kokugikan",
+  "qid": "Q176821",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives 1985 for the second hall (Wikidata says 1984). Architect is Wikidata's contractor; the lead names no architect.",
+  "name": "Ryōgoku Kokugikan",
+  "by": "Kajima Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1985,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Tokyo's sumo arena, opened in 1985 next to the Edo-Tokyo Museum; won the BCS Prize (Japan).",
+  "commons_category": "Category:Ryogoku Kokugikan",
+  "coords": [
+   35.69694,
+   139.79333
+  ],
+  "photos": [
+   {
+    "file": "File:Ryogoku Great Sumo Hall.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ryogoku Kokugikan - 9633800303.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grand-hotel-terminus",
+  "qid": "Q17778289",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "holmlia-railway-halt",
+  "qid": "Q1778962",
+  "status": "unsure",
+  "why": "Lead credits Arne Henriksen's award-winning superstructure at the all-new station (1982); no photo clearly shows the station from outside.",
+  "note": "no main photo"
+ },
+ {
+  "id": "politihuset-oslo",
+  "qid": "Q18011222",
+  "status": "photo",
+  "why": "Houen prize (lead and awards); the lead gives 1978.",
+  "name": "Politihuset, Oslo",
+  "by": "Telje-Torp-Aasen Arkitektkontor",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": 1978,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Oslo police headquarters, completed in 1978; won the Houen architecture prize in 1982.",
+  "commons_category": "Category:Politihuset, Oslo",
+  "coords": [
+   59.91081,
+   10.77026
+  ],
+  "photos": [
+   {
+    "file": "File:Grønlandsleiret 44 – Grønland politistasjon (21. oktober 2018).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grønland politistasjon, Grønlandsleiret 44, Oslo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Norway, police department.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haneda-chronogate",
+  "qid": "Q18338867",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives the 20 September 2013 completion. Logistics building kept on the prize. Wikidata's city (Ota) is a ward; the lead says Tokyo.",
+  "name": "Haneda chronogate",
+  "by": "Nikken Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2013,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Modular",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Yamato Group logistics hub, one of Japan's largest, completed in September 2013; won the BCS Prize (Japan).",
+  "commons_category": "Category:Haneda Chronogate",
+  "coords": [
+   35.55328,
+   139.75083
+  ],
+  "photos": [
+   {
+    "file": "File:Haneda chronogate,20140618.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haneda Chronogate.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sundt-varemagasin",
+  "qid": "Q19391123",
+  "status": "photo",
+  "why": "Houen Foundation diploma in awards; the German lead is one line; no year in lead or Wikidata. Photos are historic daylight street views.",
+  "name": "Sundt varemagasin",
+  "by": "Per Grieg",
+  "city": "Bergen",
+  "cc": "NO",
+  "year": null,
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "A listed department store in Bergen; won a Houen Foundation diploma.",
+  "commons_category": "Category:Sundt varemagasin",
+  "coords": [
+   60.39213,
+   5.32378
+  ],
+  "photos": [
+   {
+    "file": "File:Bergen - no-nb digifoto 20150206 00131 NB MIT FNR 18952.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bergen - no-nb digifoto 20151021 00232 NB MIT FNR 10108.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bergen - no-nb digifoto 20151021 00241 NB MIT FNR 10107.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tonsberg-and-faerder-public-library",
+  "qid": "Q19393712",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "holmsbu-billedgalleri",
+  "qid": "Q2051767",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "chateau-de-blerancourt",
+  "qid": "Q2056655",
+  "status": "photo",
+  "why": "Équerre d'argent in awards; Salomon de Brosse is a well-known architect; no year in lead or Wikidata.",
+  "name": "Château de Blérancourt",
+  "by": "Salomon de Brosse",
+  "city": "Blérancourt",
+  "cc": "FR",
+  "year": null,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Former château of the dukes of Gesvres, now home to a Franco-American museum; won the Équerre d'argent.",
+  "commons_category": "Category:Château de Blérancourt",
+  "coords": [
+   49.5179,
+   3.1547
+  ],
+  "photos": [
+   {
+    "file": "File:Château de Blérancourt 2022 - 07.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Château de Blérancourt 2022 - 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hong-kong-west-kowloon-station",
+  "qid": "Q2130136",
+  "status": "photo",
+  "why": "World Architecture Festival in awards; year 2018 from Wikidata (lead gives none). Aedas from Wikidata. Country from the lead (Hong Kong, HK).",
+  "name": "Hong Kong West Kowloon station",
+  "by": "Aedas",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": 2018,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Cross-border high-speed rail terminus with 430,000 square metres of floor area; won a World Architecture Festival award.",
+  "commons_category": "Category:Hong Kong West Kowloon Station",
+  "coords": [
+   22.3036,
+   114.165
+  ],
+  "photos": [
+   {
+    "file": "File:Hong Kong West Kowloon Station view 201810.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grande-arche",
+  "qid": "Q216357",
+  "status": "unsure",
+  "why": "Mies van der Rohe Award and named architects; the lead calls it a monument and a building; the wide shot shows the arch small at the end of an avenue, others show people or a canopy.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sano-city-museum",
+  "qid": "Q21653203",
+  "status": "photo",
+  "why": "AIJ Prize in awards and the lead (1984); the lead gives the November 1983 opening.",
+  "name": "Sano City Museum",
+  "by": "Tadahiro Tō",
+  "city": "Sano",
+  "cc": "JP",
+  "year": 1983,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Stone"
+  ],
+  "features": "Local history museum in Sano, opened in 1983; won the Architectural Institute of Japan Prize in 1984.",
+  "commons_category": "Category:Sano City Museum",
+  "coords": [
+   36.31278,
+   139.565
+  ],
+  "photos": [
+   {
+    "file": "File:Sano City Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "shinjuku-mitsui-building",
+  "qid": "Q2413330",
+  "status": "photo",
+  "why": "AIJ Prize in awards; the lead says tallest from September 1974, so 1974 fits. City from the lead (Nishi-Shinjuku is a district).",
+  "name": "Shinjuku Mitsui Building",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1974,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Black-braced Tokyo tower that was Japan's tallest from 1974 to 1978; won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Shinjuku Mitsui Building",
+  "coords": [
+   35.6919,
+   139.6939
+  ],
+  "photos": [
+   {
+    "file": "File:Shinjuku Mitsui Building 2009 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shinjuku Mitsui Building, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "zenith-paris",
+  "qid": "Q247566",
+  "status": "unsure",
+  "why": "Équerre d'argent in awards; the main shows a crowd and a political banner; the outside shots are distant with the city behind.",
+  "note": "no main photo"
+ },
+ {
+  "id": "hibiya-park-building",
+  "qid": "Q24874145",
+  "status": "skip",
+  "why": "Demolished in 2003, per the lead."
+ },
+ {
+  "id": "jardi-botanic-de-barcelona",
+  "qid": "Q2605209",
+  "status": "skip",
+  "why": "A botanical garden, a park rather than a building."
+ },
+ {
+  "id": "nittele-tower",
+  "qid": "Q2913644",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead names Richard Rogers and gives completion in 2003.",
+  "name": "Nittele Tower",
+  "by": "Richard Rogers, Mitsubishi Jisho Design",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2003,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Structural expressionist TV headquarters, 192 m tall, with dampers designed by Richard Rogers Partnership.",
+  "commons_category": "Category:Shiodome NTV Tower",
+  "coords": [
+   35.66442,
+   139.75991
+  ],
+  "photos": [
+   {
+    "file": "File:Nippon TV Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NTV Tower 20200801-2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NTV Tower 20201112-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "clarion-hotel-the-hub-oslo",
+  "qid": "Q3145659",
+  "status": "photo",
+  "why": "Houen Foundation diploma in awards; the lead is one line; year 1951 from Wikidata only. Kept on the prize; one usable photo.",
+  "name": "Clarion Hotel The Hub (Oslo)",
+  "by": "Knut Knutsen",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": 1951,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Brick",
+   "Monumentality"
+  ],
+  "features": "A hotel on Biskop Gunnerus' gate in Oslo; won a Houen Foundation diploma.",
+  "commons_category": "Category:Hotel Royal Christiania",
+  "coords": [
+   59.915,
+   10.73972
+  ],
+  "photos": [
+   {
+    "file": "File:Jernbanetorget Oslo 4.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "suntec-city",
+  "qid": "Q3268183",
+  "status": "photo",
+  "why": "World Architecture Festival in awards; the lead gives completion on 22 July 1997; architect from Wikidata.",
+  "name": "Suntec City",
+  "by": "Tsao & McKown Architects",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": 1997,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Mixed-use Singapore development of a mall, offices and a convention centre; won a World Architecture Festival award.",
+  "commons_category": "Category:Suntec City",
+  "coords": [
+   1.29472,
+   103.85889
+  ],
+  "photos": [
+   {
+    "file": "File:Suntec City.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Singapore Suntec City 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Singapore Suntec City 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ }
+]

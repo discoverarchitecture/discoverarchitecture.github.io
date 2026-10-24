@@ -1,0 +1,1056 @@
+[
+ {
+  "id": "kenwood-house",
+  "qid": "Q764804",
+  "status": "photo",
+  "why": "Lead: Robert Adam remodelled it in the 18th century. Year null: the lead gives no single date (built late 17th century, remodelled 18th).",
+  "name": "Kenwood House",
+  "by": "Robert Adam, William Atkinson",
+  "city": "London",
+  "cc": "GB",
+  "year": "Year unavailable",
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Remodelled in the 18th century by Scottish architect Robert Adam, on the edge of Hampstead Heath.",
+  "commons_category": "Category:Kenwood House",
+  "coords": [
+   51.57139,
+   -0.1675
+  ],
+  "photos": [
+   {
+    "file": "File:Hampstead Heath , Kenwood House - geograph.org.uk - 7691885.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kenwood House North Facade.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:1379242 I KENWOOD HOUSE, from N Camden London 20250612 0001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-of-the-republic-of-north-macedonia",
+  "qid": "Q3133557",
+  "status": "photo",
+  "why": "Borderline rescue. Mimoza Nestorova-Tomic per Wikidata; the lead does not date the building (1924 is the founding of the archaeological museum) so year is null. Photos show a white sawtooth-roofed modernist block. Check the architect and date before adding.",
+  "name": "Museum of the Republic of North Macedonia",
+  "by": "Mimoza Nestorova-Tomić",
+  "city": "Skopje",
+  "cc": "MK",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Geometry",
+   "Stone",
+   "Facade as skin"
+  ],
+  "features": "The national museum, in the Old Bazaar near Skopje Fortress, formed by joining three museums.",
+  "commons_category": "Category:Museum of Macedonia, Skopje",
+  "coords": [
+   42.0025,
+   21.43583
+  ],
+  "photos": [
+   {
+    "file": "File:Museum of the Republic of Macedonia 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of the Republic of Macedonia 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of Macedonia (28458705467).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "historisches-museum-saar",
+  "qid": "Q1620996",
+  "status": "photo",
+  "why": "Böhm is well-known with other buildings on the wall; only one clean exterior photo.",
+  "name": "Historisches Museum Saar",
+  "by": "Gottfried Böhm",
+  "city": "Saarbrücken",
+  "cc": "DE",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A Saarland history museum on Saarbrücken's Schlossplatz, with excavated castle casemates that trace the castle's development.",
+  "commons_category": "Category:Historisches Museum Saar",
+  "coords": [
+   49.23,
+   6.99156
+  ],
+  "photos": [
+   {
+    "file": "File:Historisches Museum Saar Saarbruecken 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rietveld-pavilion",
+  "qid": "Q29642218",
+  "status": "photo",
+  "why": "Rietveld already has several buildings on the wall. Year left empty: 1954 is the design year and the lead gives no completion date. Two daylight photos of the whole pavilion; the black-and-white photos left out.",
+  "name": "Rietveld Pavilion",
+  "by": "Gerrit Rietveld",
+  "city": "Otterlo",
+  "cc": "NL",
+  "year": "Year unavailable",
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Brise-soleil",
+   "Landscape"
+  ],
+  "features": "Rietveld's pavilion, first designed for the 1955 Sonsbeek show in Arnhem and moved to Otterlo in 1964.",
+  "commons_category": "Category:Rietveld Pavillion",
+  "coords": [
+   52.09663,
+   5.819
+  ],
+  "photos": [
+   {
+    "file": "File:Overzicht galerij aan de achter zijde en rechterzijde - Otterlo - 20357472 - RCE.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rietveld Schroder Huis Kroller Muller Museum Otterlo, Holland - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aldo-van-eyck-pavilion",
+  "qid": "Q29642647",
+  "status": "photo",
+  "why": "Van Eyck already has four buildings on the wall. The lead names van Eyck as the designer, so Wikidata's Rietveld and van Rooijen are left out. Wikidata's 1954 is wrong (the lead says 1965), and no completion date is given, so year is empty.",
+  "name": "Aldo van Eyck Pavilion",
+  "by": "Aldo van Eyck",
+  "city": "Otterlo",
+  "cc": "NL",
+  "year": "Year unavailable",
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Modular",
+   "Landscape"
+  ],
+  "features": "Aldo van Eyck's pavilion in the Kröller-Müller sculpture park, designed in 1965 and there since 2005–2006.",
+  "commons_category": "Category:Aldo van Eyckpavillion",
+  "coords": [
+   52.09598,
+   5.82648
+  ],
+  "photos": [
+   {
+    "file": "File:Aldo van Eyck Pavillion.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Aldo van Eyckpaviljoen 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-institute-for-technical-education-leuven",
+  "qid": "Q115679370",
+  "status": "photo",
+  "why": "Van de Velde already has several buildings on the wall. The lead names the convent site and the school (1937 to 1984) but no date for this building, and Wikidata's 1942 is unconfirmed, so year is empty. Whether this building is the library is taken from the lead's wording; Opus should check. Interior photos left out.",
+  "name": "National Institute for Technical Education Leuven",
+  "by": "Henry van de Velde",
+  "city": "Leuven",
+  "cc": "BE",
+  "year": "Year unavailable",
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Steel & glass",
+   "Modular"
+  ],
+  "features": "Henry van de Velde's technical school in Leuven, on a former convent site; now the Tweebronnen library.",
+  "commons_category": "Category:Diestsestraat 49, Rijschoolstraat 4, Leuven",
+  "coords": [
+   50.88079,
+   4.70377
+  ],
+  "photos": [
+   {
+    "file": "File:Rijschoolstraat 4 (Leuven).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:De technische school Van de Velde , ext., gevelzicht - 354894 - onroerenderfgoed.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "riverside-art-museum",
+  "qid": "Q7338423",
+  "status": "photo",
+  "why": "Julia Morgan's YWCA building, a named architect's work; the year is a design date, so left blank; photo clear.",
+  "name": "Riverside Art Museum",
+  "by": "Julia Morgan",
+  "city": "Riverside",
+  "cc": "US",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Detail",
+   "Community"
+  ],
+  "features": "Julia Morgan's YWCA building, designed in 1929, now an art museum in Riverside's Mission Inn district.",
+  "commons_category": "Category:Riverside Art Museum",
+  "coords": [
+   33.98172,
+   -117.37047
+  ],
+  "photos": [
+   {
+    "file": "File:RiversideArtMuseum20090821g.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Old YWCA Building front faces south.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lake-suwa-museum",
+  "qid": "Q11631898",
+  "status": "photo",
+  "why": "Toyo Ito museum on the shore of Lake Suwa; year unsupported so null.",
+  "name": "Lake Suwa Museum",
+  "by": "Toyo Ito",
+  "city": "Shimosuwa",
+  "cc": "JP",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "A municipal museum on the shore of Lake Suwa in Shimosuwa, with the Akahiko Memorial Hall literature museum attached.",
+  "commons_category": null,
+  "coords": [
+   36.06722,
+   138.10083
+  ],
+  "photos": [
+   {
+    "file": "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11631898"
+  ]
+ },
+ {
+  "id": "forum-building",
+  "qid": "Q2842986",
+  "status": "photo",
+  "why": "Herzog & de Meuron landmark named in the lead; the photos show the building in daylight. Year not in lead.",
+  "name": "Forum Building",
+  "by": "Herzog & de Meuron",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": "Year unavailable",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Monumentality",
+   "Sculptural form"
+  ],
+  "features": "Herzog & de Meuron's triangular landmark, 180 metres a side, symbol of Barcelona's 2004 Universal Forum.",
+  "commons_category": "Category:Forum Building",
+  "coords": [
+   41.41101,
+   2.22092
+  ],
+  "photos": [
+   {
+    "file": "File:Barcelona 2006 (2845523246).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Edifici Fòrum Barcelona Catalonia.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona 2006 (2845523526).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Forum_Building",
+   "https://www.wikidata.org/wiki/Q2842986"
+  ]
+ },
+ {
+  "id": "salerno-courthouse",
+  "qid": "Q16541977",
+  "status": "photo",
+  "why": "Chipperfield courthouse; the lead describes the six buildings. Daylight photos of the whole complex. No year in lead.",
+  "name": "Salerno Courthouse",
+  "by": "David Chipperfield",
+  "city": "Salerno",
+  "cc": "IT",
+  "year": "Year unavailable",
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Courtyard",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Six buildings linked by porticoes and courtyards, set on a black stone public square.",
+  "commons_category": "Category:Cittadella giudiziaria (Salerno)",
+  "coords": [
+   40.6784,
+   14.7743
+  ],
+  "photos": [
+   {
+    "file": "File:Cittadellagiudiziaria1.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:CittadellagiudiziariaedificioAeB.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Cittadella giudiziaria salerno.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salerno_Courthouse",
+   "https://www.wikidata.org/wiki/Q16541977"
+  ]
+ },
+ {
+  "id": "chapel-of-st-basil",
+  "qid": "Q5073081",
+  "status": "photo",
+  "why": "Johnson, a well-known architect; the lead is short. Lead gives only a design year, so the year is left null.",
+  "name": "Chapel of St. Basil",
+  "by": "Philip Johnson",
+  "city": "Houston",
+  "cc": "US",
+  "year": "Year unavailable",
+  "type": "Religious",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Philip Johnson's chapel on the University of St. Thomas campus in Houston, Texas.",
+  "commons_category": "Category:Chapel of St. Basil, Houston",
+  "coords": [
+   29.7384,
+   -95.3932
+  ],
+  "photos": [
+   {
+    "file": "File:2024-0105-Chapel of St. Basil west elevation.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024-0105-Chapel of St. Basil north elevation.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chapel_of_St._Basil",
+   "https://www.wikidata.org/wiki/Q5073081"
+  ]
+ },
+ {
+  "id": "procuradoria-geral-da-republica",
+  "qid": "Q10369343",
+  "status": "photo",
+  "why": "Niemeyer complex; the lead describes it and its postmodern character. No year in lead or prep.",
+  "name": "Procuradoria Geral da República",
+  "by": "Oscar Niemeyer",
+  "city": "Brasília",
+  "cc": "BR",
+  "year": "Year unavailable",
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Niemeyer's Brasília headquarters for Brazil's public prosecutors, among his most controversial works.",
+  "commons_category": "Category:Procuradoria Geral da República (building)",
+  "coords": [
+   -15.80772,
+   -47.85955
+  ],
+  "photos": [
+   {
+    "file": "File:Webysther 20180212174501 - PGR - Procuradoria Geral da República.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sede da Procuradoria Geral da República Brasileira (Attorney General's Office), 2002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:110423 brasilia - 10.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Sede_de_la_Procuradur%C3%ADa_General_de_la_Rep%C3%BAblica_de_Brasil",
+   "https://www.wikidata.org/wiki/Q10369343"
+  ]
+ },
+ {
+  "id": "sankt-ursula-kalscheuren",
+  "qid": "Q59618",
+  "status": "photo",
+  "why": "Böhm, a well-known architect; the lead gives the listing and the 2006 sale. No year in lead or prep.",
+  "name": "Sankt Ursula (Kalscheuren)",
+  "by": "Gottfried Böhm",
+  "city": "Hürth",
+  "cc": "DE",
+  "year": "Year unavailable",
+  "type": "Religious",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Light & shadow"
+  ],
+  "features": "A listed former parish church by Gottfried Böhm, deconsecrated in 2006 and now a gallery space.",
+  "commons_category": "Category:St. Ursula (Kalscheuren)",
+  "coords": [
+   50.8773,
+   6.90657
+  ],
+  "photos": [
+   {
+    "file": "File:St. Ursula Kalscheuren.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Ursula, Hürth-Kalscheuren 2009-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/St._Ursula_%28Kalscheuren%29",
+   "https://www.wikidata.org/wiki/Q59618"
+  ]
+ },
+ {
+  "id": "obra-do-berco",
+  "qid": "Q10340046",
+  "status": "photo",
+  "why": "Niemeyer's first project after graduating, per the lead; year not in the lead, so null; main photo shows the building.",
+  "name": "Obra do Berço",
+  "by": "Oscar Niemeyer",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "year": "Year unavailable",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Niemeyer's first project after graduating: the Rio headquarters of a charity caring for babies, children and mothers at social risk.",
+  "commons_category": "Category:Obra do Berço",
+  "coords": [
+   -22.96364,
+   -43.20358
+  ],
+  "photos": [
+   {
+    "file": "File:Obra do Berço - Rio de Janeiro - 20230910163032.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Obra do Berço - Rio de Janeiro - 20230910163201.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Obra_do_Ber%C3%A7o",
+   "https://www.wikidata.org/wiki/Q10340046"
+  ]
+ },
+ {
+  "id": "toyonokuni-libraries-for-cultural-resources",
+  "qid": "Q11633180",
+  "status": "photo",
+  "why": "Isozaki's complex, designed by the Oita-born architect named in the lead; year not in the lead, so null; main photo shows the building.",
+  "name": "Toyonokuni Libraries for Cultural Resources",
+  "by": "Arata Isozaki",
+  "city": "Oita",
+  "cc": "JP",
+  "year": "Year unavailable",
+  "type": "Library",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A prefectural library, archives and historical-materials museum in one complex, designed by Oita-born Arata Isozaki.",
+  "commons_category": "Category:Toyonokuni Libraries for Culture Resources",
+  "coords": [
+   33.2395,
+   131.59
+  ],
+  "photos": [
+   {
+    "file": "File:Oita Prefectural Library ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Oita Prefectural Library ac (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Oita Prefectural Library ac (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E8%B1%8A%E3%81%AE%E5%9B%BD%E6%83%85%E5%A0%B1%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC",
+   "https://www.wikidata.org/wiki/Q11633180"
+  ]
+ },
+ {
+  "id": "shangyin-opera-house",
+  "qid": "Q136206167",
+  "status": "photo",
+  "why": "Designed by Portzamparc's office with Tongji University (lead); year not in the lead, so null; main photo shows the whole opera house.",
+  "name": "Shangyin Opera House",
+  "by": "Christian de Portzamparc",
+  "city": "Shanghai",
+  "cc": "CN",
+  "year": "Year unavailable",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "Designed jointly by Portzamparc's office and Tongji University's design institute, with a 1,200-seat opera hall.",
+  "commons_category": "Category:Shangyin Opera House",
+  "coords": [
+   31.21643,
+   121.45073
+  ],
+  "photos": [
+   {
+    "file": "File:Shangyin Opera House (20191021081912).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://zh.wikipedia.org/wiki/%E4%B8%8A%E9%9F%B3%E6%AD%8C%E5%89%A7%E9%99%A2",
+   "https://www.wikidata.org/wiki/Q136206167"
+  ]
+ },
+ {
+  "id": "biblioteca-municipal-de-viana-do-castelo",
+  "qid": "Q17318051",
+  "status": "photo",
+  "why": "Siza's public library (lead names him); no year in the lead, so null; main photo shows the whole building.",
+  "name": "Biblioteca Municipal de Viana do Castelo",
+  "by": "Álvaro Siza Vieira",
+  "city": "Viana do Castelo",
+  "cc": "PT",
+  "year": "Year unavailable",
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Álvaro Siza's public library on the riverside edge of Viana do Castelo's Praça da Liberdade.",
+  "commons_category": "Category:Biblioteca Municipal de Viana do Castelo",
+  "coords": [
+   41.69146,
+   -8.82679
+  ],
+  "photos": [
+   {
+    "file": "File:Biblioteca Municipal de Viana do Castelo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Viana do Castelo Portugal.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Biblioteca Municipal de Viana do Castelo in 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Biblioteca_Municipal_de_Viana_do_Castelo",
+   "https://www.wikidata.org/wiki/Q17318051"
+  ]
+ },
+ {
+  "id": "casa-do-cantador",
+  "qid": "Q18242623",
+  "status": "photo",
+  "why": "Niemeyer's building (lead names him); no year in the lead, so null; main photo shows the whole building.",
+  "name": "Casa do Cantador",
+  "by": "Oscar Niemeyer",
+  "city": "Ceilândia",
+  "cc": "BR",
+  "year": "Year unavailable",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "Niemeyer's Palace of Poetry, inspired by the song Asa Branca and honouring Northeastern migrants.",
+  "commons_category": "Category:Casa do Cantador",
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:Casa do Cantador.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ceilândia DF Brasil - Casa do Cantador - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://pt.wikipedia.org/wiki/Casa_do_Cantador",
+   "https://www.wikidata.org/wiki/Q18242623"
+  ]
+ },
+ {
+  "id": "auditorium-del-parco",
+  "qid": "Q3629510",
+  "status": "photo",
+  "why": "Lead names Piano and gives a reason (built after the 2009 earthquake in solidarity); exterior daylight photos; no year source.",
+  "name": "Auditorium del Parco",
+  "by": "Renzo Piano",
+  "city": "L'Aquila",
+  "cc": "IT",
+  "year": "Year unavailable",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Landscape",
+   "Timber"
+  ],
+  "features": "Renzo Piano's music and theatre complex in L'Aquila's Spanish fort park, funded by Trento after the 2009 earthquake.",
+  "commons_category": "Category:Auditorium del Parco (L'Aquila)",
+  "coords": [
+   42.35352,
+   13.4026
+  ],
+  "photos": [
+   {
+    "file": "File:Auditorium del Parco, L'Aquila, Abruzzo, Italy - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Aquila-Auditorium del Parco 02.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Aquila-Auditorium del Parco 03.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:L'Aquila-Auditorium del Parco 04.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Auditorium_del_Parco",
+   "https://www.wikidata.org/wiki/Q3629510"
+  ]
+ },
+ {
+  "id": "nariwa-museum",
+  "qid": "Q11670668",
+  "status": "photo",
+  "why": "Ando museum per Wikidata (lead names no other architect); prep year 1953 is the older museum's founding, not Ando's building, so year is null. Photos show the concrete building by its pond.",
+  "name": "Nariwa Museum",
+  "by": "Tadao Ando",
+  "city": "Takahashi",
+  "cc": "JP",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Water",
+   "Landscape"
+  ],
+  "features": "A complex combining an art museum and an archaeological museum, in Takahashi, Okayama Prefecture.",
+  "commons_category": "Category:Nariwa-cho Art Museum",
+  "coords": [
+   34.78072,
+   133.53667
+  ],
+  "photos": [
+   {
+    "file": "File:Nariwa-cho museum01s4000m.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Nariwa-cho museum03s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Nariwa-cho museum05s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Nariwa-cho museum04s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27art_Nariwa",
+   "https://www.wikidata.org/wiki/Q11670668"
+  ]
+ },
+ {
+  "id": "museum-of-west-african-art",
+  "qid": "Q104157193",
+  "status": "photo",
+  "why": "The lead says it has been built but stays closed; no opening year, so year is null. David Adjaye is named in prep; the main photo is a clean daylight exterior.",
+  "name": "Museum of West African Art",
+  "by": "David Adjaye",
+  "city": "Benin City",
+  "cc": "NG",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Light & shadow"
+  ],
+  "features": "David Adjaye's Benin City museum for over 300 items on loan from European museums, closed after opening-day protests.",
+  "commons_category": null,
+  "coords": [
+   6.32909,
+   5.62266
+  ],
+  "photos": [
+   {
+    "file": "File:MOWAA June Site Visit Press Images B 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_West_African_Art",
+   "https://www.wikidata.org/wiki/Q104157193"
+  ]
+ },
+ {
+  "id": "san-paolo-apostolo-foligno",
+  "qid": "Q3671552",
+  "status": "photo",
+  "why": "The lead names Fuksas, competition-won, and the 1997 earthquake reason; it gives a 2009 design date but no completion date, so year is null. Daylight exteriors.",
+  "name": "San Paolo Apostolo, Foligno",
+  "by": "Massimiliano Fuksas",
+  "city": "Foligno",
+  "cc": "IT",
+  "year": "Year unavailable",
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Light from above",
+   "Sculptural form"
+  ],
+  "features": "Massimiliano Fuksas's parish church in Foligno, a symbol of rebirth after the 1997 Umbria-Marche earthquakes.",
+  "commons_category": "Category:San Paolo Apostolo (Foligno)",
+  "coords": [
+   42.9562,
+   12.6885
+  ],
+  "photos": [
+   {
+    "file": "File:Foligno, San Paolo Apostolo 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Foligno - Chiesa di San Paolo Apostolo - 001.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Foligno - Chiesa di San Paolo Apostolo - 003.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Paolo_Apostolo%2C_Foligno",
+   "https://www.wikidata.org/wiki/Q3671552"
+  ]
+ },
+ {
+  "id": "ibm-studios",
+  "qid": "Q48806168",
+  "status": "photo",
+  "why": "De Lucchi is a well-known designer; the pavilion is a built wooden form. Lead gives no year.",
+  "name": "IBM Studios",
+  "by": "Michele De Lucchi",
+  "city": "Milan",
+  "cc": "IT",
+  "year": "Year unavailable",
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "Multi-purpose pavilion in Piazza Gae Aulenti, formerly named the UniCredit Pavilion.",
+  "commons_category": "Category:IBM Studios",
+  "coords": [
+   45.48336,
+   9.1914
+  ],
+  "photos": [
+   {
+    "file": "File:Unicredit Pavilon.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Milano - IBM Studios.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/IBM_Studios",
+   "https://www.wikidata.org/wiki/Q48806168"
+  ]
+ },
+ {
+  "id": "independence-hall-israel",
+  "qid": "Q2620299",
+  "status": "photo",
+  "why": "Adaptive reuse of a house redesigned in the International Style; the lead gives no redesign year.",
+  "name": "Independence Hall (Israel)",
+  "by": "Carl Rubin",
+  "city": "Tel Aviv",
+  "cc": "IL",
+  "year": "Year unavailable",
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "Dizengoff's house, redesigned by Carl Rubin in the International Style, where Israel's Declaration of Independence was signed.",
+  "commons_category": "Category:Independence Hall, Tel Aviv-Yafo",
+  "coords": [
+   32.06278,
+   34.77083
+  ],
+  "photos": [
+   {
+    "file": "File:Israel ind mus.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Independence Hall - Israel.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Independence_Hall_%28Israel%29",
+   "https://www.wikidata.org/wiki/Q2620299"
+  ]
+ },
+ {
+  "id": "domkyrkoforum",
+  "qid": "Q10475814",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2012 (Swedish lead) names the architect; the lead gives no completion year, so year is null.",
+  "name": "Domkyrkoforum",
+  "by": "Carmen Izquierdo",
+  "city": "Lund",
+  "cc": "SE",
+  "year": "Year unavailable",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Landscape"
+  ],
+  "features": "Visitors' centre for Lund Cathedral, designed by Carmen Izquierdo; won the Kasper Salin Prize in 2012.",
+  "commons_category": "Category:Domkyrkoforum",
+  "coords": [
+   55.70347,
+   13.19314
+  ],
+  "photos": [
+   {
+    "file": "File:Domkyrkoforum Konsertsalen 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20201101 Lunds domkyrka och Domkyrkoforum 1043 (50558788551).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20210916 Domkyrkoforum Lund 02 (51486064990).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Domkyrkoforum",
+   "https://www.wikidata.org/wiki/Q10475814"
+  ]
+ },
+ {
+  "id": "general-motors-technical-center",
+  "qid": "Q5532055",
+  "status": "photo",
+  "why": "Lead says Eero Saarinen designed it (the lead also names Eliel Saarinen for 1944 first plans, not a conflict); AIA Twenty-five Year Award listed; year null because the lead gives only stages. Daylight exterior p0.",
+  "name": "General Motors Technical Center",
+  "by": "Eero Saarinen",
+  "city": "Warren",
+  "cc": "US",
+  "year": "Year unavailable",
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Cluster"
+  ],
+  "features": "Eero Saarinen's campus of low buildings around rectangular lakes, opened in stages from the 1950s to the 1970s.",
+  "commons_category": "Category:General Motors Technical Center",
+  "coords": [
+   42.51333,
+   -83.03778
+  ],
+  "photos": [
+   {
+    "file": "File:Warren - General Motors Technical Center (50826111923).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/General_Motors_Technical_Center",
+   "https://www.wikidata.org/wiki/Q5532055"
+  ]
+ }
+]

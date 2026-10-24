@@ -1,0 +1,591 @@
+[
+ {
+  "qid": "Q20110871",
+  "status": "skip",
+  "why": "Architects (Ghiai with Foroughi) agree across sources, but the year does not (1954-59, 1955, 1958) and no page could be opened to quote; unverified.",
+  "draft_entry": {
+   "id": "senate-palace-tehran",
+   "qid": "Q20110871",
+   "status": "photo",
+   "name": "Senate Palace (Tehran)",
+   "by": "Heydar Ghiai, Mohsen Foroughi",
+   "city": "Tehran",
+   "cc": "IR",
+   "year": null,
+   "type": "Civic",
+   "movement": "Modernism",
+   "concepts": [
+    "Facade as skin",
+    "Monumentality",
+    "Sculptural form"
+   ],
+   "features": "Freestanding marble-grid facade between two bronze columns about 25 metres high, sculpted by Andre Bloc.",
+   "commons_category": "Category:Senate Palace (Tehran)",
+   "coords": [
+    35.68806,
+    51.39972
+   ],
+   "photos": [
+    {
+     "file": "File:Majlese sena 1.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": false
+    },
+    {
+     "file": "File:Iranian senate building.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": false
+    },
+    {
+     "file": "File:Senate Palace of Iran in Tehran.jpg",
+     "license": "Public domain",
+     "seen": false
+    }
+   ]
+  },
+  "draft_note": "Draft only. Year kept null because sources disagree. Photo choice by file name; the first (Wikidata main) has Motorcycles in Iran among its categories, so check by eye.",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://iranicaonline.org/articles/giai-haydar",
+    "publisher": "Encyclopaedia Iranica",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: first government commission was the Senate building in Tehran (1954-59), a joint project with Mohsen Foroughi; freestanding marble-grid facade embraced by two 25 m bronze columns sculpted by Andre Bloc.",
+    "supports": [
+     "architect",
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.caoi.ir/en/projects/item/267-senate-house-of-iran.html",
+    "publisher": "Contemporary Architecture of Iran",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: gives 1955 as the date.",
+    "supports": [
+     "architect",
+     "year"
+    ]
+   },
+   {
+    "url": "https://shadkar.wordpress.com/2012/02/24/pioneers-of-modern-architecture-in-iran/",
+    "publisher": "Shadkar blog (weak; not acceptable alone)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: says column credit is disputed between Ghiai and Foroughi.",
+    "supports": [
+     "architect"
+    ]
+   }
+  ]
+ },
+ {
+  "qid": "Q107191191",
+  "status": "skip",
+  "why": "No source found at all linking the Bohms (or any architect) to the church in Presidente Getulio; search only found their Blumenau church. Cannot confirm architect.",
+  "entry": null,
+  "sources": []
+ },
+ {
+  "qid": "Q113000863",
+  "status": "skip",
+  "why": "Architect (Alejandro Bustillo) is consistent, but the year is 1928 (commission) or 1929 (built) and no page could be opened to quote; unverified.",
+  "draft_entry": {
+   "id": "casa-de-victoria-ocampo",
+   "qid": "Q113000863",
+   "status": "photo",
+   "name": "Casa de Victoria Ocampo",
+   "by": "Alejandro Bustillo",
+   "city": "Buenos Aires",
+   "cc": "AR",
+   "year": null,
+   "type": "House",
+   "movement": "Modernism",
+   "concepts": [
+    "Geometry",
+    "Facade as skin",
+    "Light & shadow"
+   ],
+   "features": "Rationalist house influenced by Le Corbusier; a National Historic Monument since 2022.",
+   "commons_category": "Category:Casa de Victoria Ocampo (Buenos Aires)",
+   "coords": [
+    -34.581,
+    -58.4018
+   ],
+   "photos": [
+    {
+     "file": "File:La casa de Victoria Ocampo en Palermo Chico.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": false
+    },
+    {
+     "file": "File:Casa de Victoria Ocampo, Palermo 01.jpg",
+     "license": "CC BY 4.0",
+     "seen": false
+    },
+    {
+     "file": "File:Casa de Victoria Ocampo, Palermo 02.jpg",
+     "license": "CC BY 4.0",
+     "seen": false
+    }
+   ]
+  },
+  "draft_note": "Draft only. Year null because 1928 vs 1929. Concepts are my picks from the vocabulary, not from sources. Photo choice by file name.",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://www.archdaily.com/1043104/ad-classics-victoria-ocampo-house-alejandro-bustillo",
+    "publisher": "ArchDaily",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: designed in 1928 by Alejandro Bustillo; called the first house to represent the Modern Movement in Argentina.",
+    "supports": [
+     "architect",
+     "year",
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.argentina.gob.ar/node/359173",
+    "publisher": "Presidencia de la Nacion (Argentine government)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: strong Le Corbusier influence; Le Corbusier's earlier design was never built; the final project was by Bustillo.",
+    "supports": [
+     "architect",
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/266057/20220708",
+    "publisher": "Boletin Oficial (Decreto 380/2022)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: declared Monumento Historico Nacional in 2022.",
+    "supports": [
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/como-es-y-a-quien-pertenecio-la-casa-racionalista-de-barrio-parque-que-bustillo-no-quiso-firmar-nid04022025/",
+    "publisher": "La Nacion",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: rationalist house in Barrio Parque that Bustillo did not want to sign.",
+    "supports": [
+     "architect",
+     "design"
+    ]
+   },
+   {
+    "url": "https://universes.art/en/art-destinations/argentina/buenos-aires/art-spaces/casa-ocampo-fnartes",
+    "publisher": "universes.art (weaker)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: says built 1929.",
+    "supports": [
+     "year"
+    ]
+   }
+  ]
+ },
+ {
+  "qid": "Q118015018",
+  "status": "skip",
+  "why": "Searches found no source naming Leila Araghian (or anyone) as architect of the amphitheatre; she is only documented for the nearby Tabiat Bridge.",
+  "entry": null,
+  "sources": []
+ },
+ {
+  "qid": "Q135103580",
+  "status": "skip",
+  "why": "Architect and 1967 date rest on a single news source (Namnak, via Airwars); a second architect source lists a 1972 television centre instead. Unconfirmed.",
+  "entry": null,
+  "sources": []
+ },
+ {
+  "qid": "Q108905893",
+  "status": "skip",
+  "why": "Architect Boris Magas is consistent, but construction dates conflict (1995-2004 / 1998-2008) and the church was consecrated in 2011; no page could be opened to quote.",
+  "draft_entry": {
+   "id": "blessed-augustin-kazotic-church-zagreb",
+   "qid": "Q108905893",
+   "status": "photo",
+   "name": "Church of Blessed Augustin Kazotic",
+   "by": "Boris Magas",
+   "city": "Zagreb",
+   "cc": "HR",
+   "year": null,
+   "type": "Religious",
+   "movement": "Late modernism",
+   "concepts": [
+    "Light & shadow",
+    "Exposed concrete",
+    "Monumentality"
+   ],
+   "features": "Dominican church and monastery by Boris Magas; a 2011 essay praises its light-modelled interior and uncompromising modernism.",
+   "commons_category": "Category:Blessed Augustin Kažotić Church, Zagreb",
+   "coords": [
+    45.80447,
+    16.02108
+   ],
+   "photos": [
+    {
+     "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 01.jpg",
+     "license": "CC BY 4.0",
+     "seen": false
+    },
+    {
+     "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 03.jpg",
+     "license": "CC BY 4.0",
+     "seen": false
+    },
+    {
+     "file": "File:Katholische Kirche Blazeni Augustin Kazotic Zagreb.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": false
+    }
+   ]
+  },
+  "draft_note": "Draft only. Year null. Movement and concepts are my picks. Check 'Late modernism' and the exposed-concrete concept against a photo; the name is the Commons/Wikidata one with diacritics removed here (Kazotic -> Kažotić in final).",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://d-a-r.hr/in-memoriam-akademik-boris-magas/",
+    "publisher": "Drustvo arhitekata Rijeke (obituary)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: lists the church with 1995-2004 in one place and 2000 in another.",
+    "supports": [
+     "architect",
+     "year"
+    ]
+   },
+   {
+    "url": "https://gpz.hr/o-nama/boris-magas/",
+    "publisher": "GPZ (Gradski projektni zavod, Zagreb)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: Magas page; church not confirmed from it.",
+    "supports": [
+     "architect"
+    ]
+   },
+   {
+    "url": "https://www.bib.irb.hr/560136",
+    "publisher": "Croatian Scientific Bibliography (Rudjer Boskovic Institute)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: record of the 2011 essay by Zeljka Corak praising the light-modelled interior and uncompromising modernism.",
+    "supports": [
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.arhitektura-zagreba.com/arhitekti/bozidar-magas",
+    "publisher": "Arhitektura Zagreba",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: architect page.",
+    "supports": [
+     "architect"
+    ]
+   }
+  ]
+ },
+ {
+  "qid": "Q11995811",
+  "status": "skip",
+  "why": "Four trade publications agree on 3XN and a July 2012 opening, but none could be opened to copy an exact quote, so entry is unverified.",
+  "draft_entry": {
+   "id": "plassen-cultural-centre",
+   "qid": "Q11995811",
+   "status": "photo",
+   "name": "Plassen Cultural Centre",
+   "by": "3XN",
+   "city": "Molde",
+   "cc": "NO",
+   "year": 2012,
+   "type": "Culture & sport",
+   "movement": "Contemporary",
+   "concepts": [
+    "Public space",
+    "Promenade",
+    "Sculptural form"
+   ],
+   "features": "The roof and an outdoor staircase form three amphitheatres; a triple-height atrium leads to the concert hall.",
+   "commons_category": "Category:Plassen kulturhus",
+   "coords": [
+    62.73624,
+    7.15572
+   ],
+   "photos": [
+    {
+     "file": "File:Molde bibliotek 15.08.2013 12-37-03.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": false
+    }
+   ]
+  },
+  "draft_note": "Strongest draft after Tikkurila. Only one exterior-ish photo exists and its description is about the library, so check it by eye; the other three candidate photos are interiors.",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://www.dezeen.com/2012/10/03/plassen-cultural-centre-by-3xn/",
+    "publisher": "Dezeen",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: 3XN, opened 2012.",
+    "supports": [
+     "architect",
+     "year",
+     "design"
+    ]
+   },
+   {
+    "url": "https://domusweb.it/en/news/2012/10/01/3xn-plassen-cultural-centre.html",
+    "publisher": "Domus",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: project data, official opening 14 July 2012, 5,800 m2.",
+    "supports": [
+     "architect",
+     "year",
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.detail.de/de_en/flexible-and-full-of-jazz-cultural-center-plassen-16463",
+    "publisher": "Detail",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: article on the building.",
+    "supports": [
+     "architect",
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.dexigner.com/news/25723",
+    "publisher": "Dexigner",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: roof and staircase form three outdoor amphitheatres (publications repeat 3XN's own text).",
+    "supports": [
+     "architect",
+     "year",
+     "design"
+    ]
+   }
+  ]
+ },
+ {
+  "qid": "Q104313867",
+  "status": "skip",
+  "why": "Architect (Anssi Lassila, OOPEAA) and 2021 opening agree across four sources, but no page could be opened to copy an exact quote, so entry is unverified.",
+  "draft_entry": {
+   "id": "tikkurila-church",
+   "qid": "Q104313867",
+   "status": "photo",
+   "name": "Tikkurila Church",
+   "by": "Anssi Lassila (OOPEAA)",
+   "city": "Vantaa",
+   "cc": "FI",
+   "year": 2021,
+   "type": "Religious",
+   "movement": "Contemporary",
+   "concepts": [
+    "Timber",
+    "Light from above",
+    "Community"
+   ],
+   "features": "Won the Durable Stone Building 2021 award and was nominated for the 2022 Mies van der Rohe Award.",
+   "commons_category": "Category:Tikkurila Church (2021)",
+   "coords": [
+    60.29302,
+    25.04024
+   ],
+   "photos": [
+    {
+     "file": "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg",
+     "license": "CC BY 4.0",
+     "seen": false
+    },
+    {
+     "file": "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg",
+     "license": "CC BY 4.0",
+     "seen": false
+    }
+   ]
+  },
+  "draft_note": "Concepts are my picks (not from sources); replace with ones the OOPEAA page supports once it is read. Wikipedia fr has a lead, so the premise 'no article' does not hold for this one.",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://betoni.com/lehti/wp-content/uploads/sites/4/2021/12/BET2104_36-39.pdf",
+    "publisher": "Betoni (Finnish concrete industry magazine)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: church inaugurated (vihitty kayttoon) in January 2021.",
+    "supports": [
+     "architect",
+     "year"
+    ]
+   },
+   {
+    "url": "https://oopeaa.com/?p=10839",
+    "publisher": "OOPEAA (architects' own site)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: Anssi Lassila lead architect, Iida Hedberg project architect; inauguration January 2021 (its page also says completed December 2021, so possibly a typo).",
+    "supports": [
+     "architect",
+     "year"
+    ]
+   },
+   {
+    "url": "https://world-architects.com/it/projects/view/tikkurila-church-and-housing",
+    "publisher": "World-Architects",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: project page.",
+    "supports": [
+     "architect"
+    ]
+   },
+   {
+    "url": "https://www.floornature.com/oopeaa-church-parish-centre-and-social-housing-tikkurila-17039/",
+    "publisher": "Floornature",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: Durable Stone Building 2021 award; Mies van der Rohe 2022 nominee.",
+    "supports": [
+     "design"
+    ]
+   }
+  ]
+ },
+ {
+  "qid": "Q113883602",
+  "status": "skip",
+  "why": "Architect (LINK arkitektur) and April 2022 consecration agree, but Wikipedia says built 2021 and no page could be opened to quote; unverified.",
+  "draft_entry": {
+   "id": "vennesla-church",
+   "qid": "Q113883602",
+   "status": "photo",
+   "name": "Vennesla Church",
+   "by": "LINK arkitektur",
+   "city": "Vennesla",
+   "cc": "NO",
+   "year": 2022,
+   "type": "Religious",
+   "movement": "Contemporary",
+   "concepts": [
+    "Brick",
+    "Sculptural form",
+    "Monumentality"
+   ],
+   "features": "Long church of custom-made brick with a bell tower that is also the main entrance.",
+   "commons_category": "Category:Vennesla kirke",
+   "coords": [
+    58.27626,
+    7.97037
+   ],
+   "photos": [
+    {
+     "file": "File:Vennesla Kirke.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": false
+    }
+   ]
+  },
+  "draft_note": "English Wikipedia has an article (it is the candidate lead), so the 'no article' premise does not hold.",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://www.archdaily.com/1003235/vennesla-church-link-arkitektur",
+    "publisher": "ArchDaily",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: LINK arkitektur, 2022; bell tower also serves as entrance.",
+    "supports": [
+     "architect",
+     "year",
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.zi-online.info/en/artikel/brick-cladding-for-sacred-building-4254066.html",
+    "publisher": "Ziegelindustrie International",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: custom brick (URBAN Frederiksberg LINK) developed for the building.",
+    "supports": [
+     "design"
+    ]
+   },
+   {
+    "url": "https://www.kristiansand.kommune.no/contentassets/420afdf49deb40aa880efb0e91b05eb3/14.30-arets-byggepris-2022-.pdf",
+    "publisher": "Kristiansand kommune",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: nominee for the 2022 building prize.",
+    "supports": [
+     "architect",
+     "year"
+    ]
+   },
+   {
+    "url": "https://byggeri-arkitektur.dk/link-vinder-konkurrencen-om-vennesla-kirke",
+    "publisher": "Byggeri-Arkitektur.dk",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: LINK won the competition.",
+    "supports": [
+     "architect"
+    ]
+   }
+  ]
+ },
+ {
+  "qid": "Q16109901",
+  "status": "skip",
+  "why": "Architect Jerko Rosin and the 4 August 2015 consecration are well reported, but I found no source on the design itself and could not open any page to quote; study value is weak.",
+  "entry": null,
+  "sources": [
+   {
+    "url": "https://hkm.hr/vijesti/domovina/prisjecamo-se-prije-pet-godina-posvecena-crkva-gospe-velikoga-hrvatskog-krsnog-zavjeta-u-kninu/",
+    "publisher": "Hrvatska katolicka mreza / HKM",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: consecrated 4 Aug 2015 by Bishop Ante Ivas; architect Jerko Rosin.",
+    "supports": [
+     "year",
+     "architect"
+    ]
+   },
+   {
+    "url": "https://knin.hr/ostalo/posvecena-crkva-gospe-velikog-hrvatskog-krsnog-zavjeta/",
+    "publisher": "Grad Knin (city)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: consecration report.",
+    "supports": [
+     "year",
+     "city"
+    ]
+   },
+   {
+    "url": "https://ika.hkm.hr/novosti/posveta-crkve-gospe-velikoga-hrvatskog-krsnog-zavjeta/",
+    "publisher": "IKA (Catholic news agency)",
+    "quote": null,
+    "quote_verified": false,
+    "summary_from_search": "Search summary: consecration report.",
+    "supports": [
+     "year"
+    ]
+   }
+  ]
+ }
+]

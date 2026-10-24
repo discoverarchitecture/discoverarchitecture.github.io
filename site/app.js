@@ -38,7 +38,7 @@
     const c = b.place.split(', ').pop();
     b.country = CODE_FIX[c] || c;
     b.arch = NAMES.list(b.by);
-    b.decade = b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1);
+    b.decade = !b.y ? -1 : b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1); // -1: year unavailable, in no decade
   });
 
   const $ = id => document.getElementById(id);

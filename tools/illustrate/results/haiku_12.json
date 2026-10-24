@@ -1,0 +1,892 @@
+[
+ {
+  "id": "gavle-krematorium",
+  "qid": "Q10512452",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1965; the Swedish lead says it opened in 1960 and that ELLT drew it; a prize-winning woodland chapel.",
+  "name": "Gävle krematorium",
+  "by": "ELLT arkitektkontor, Gunnar Landberg, Bengt Larsson, Alvar Törneman, Alf Engström",
+  "city": "Gävle",
+  "cc": "SE",
+  "year": 1960,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Exposed concrete"
+  ],
+  "features": "Chapel and crematorium in a pine forest, with concrete walls and pine ceilings; shared the 1965 Kasper Salin Prize.",
+  "commons_category": "Category:Gävle krematorium",
+  "coords": [
+   60.6733,
+   17.0954
+  ],
+  "photos": [
+   {
+    "file": "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gävle kapellkrematorium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/G%C3%A4vle_krematorium",
+   "https://www.wikidata.org/wiki/Q10512452"
+  ]
+ },
+ {
+  "id": "studio-1",
+  "qid": "Q45308851",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2016 with a jury quote (Swedish lead); finished June 2016 per the lead.",
+  "name": "Studio 1",
+  "by": "Johannes Norlander",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 2016,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Two four-storey blocks in black-burnt Danish brick, finished June 2016 and winning the Kasper Salin Prize that year.",
+  "commons_category": "Category:Studio 1",
+  "coords": [
+   57.69931,
+   12.01722
+  ],
+  "photos": [
+   {
+    "file": "File:Studio 1 Orgryte Torp 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Studio_1_%28bost%C3%A4der%29",
+   "https://www.wikidata.org/wiki/Q45308851"
+  ]
+ },
+ {
+  "id": "allhuset-stockholms-universitet",
+  "qid": "Q10405629",
+  "status": "photo",
+  "why": "Kasper Salin Prize (1980 per the Swedish lead); the lead says it was built 1979–1981 and opened in 1981.",
+  "name": "Allhuset, Stockholms universitet",
+  "by": "Ralph Erskine",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1981,
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Community",
+   "Structure as expression",
+   "Timber"
+  ],
+  "features": "Student services building by Ralph Erskine, designed with its student users; a Kasper Salin Prize winner.",
+  "commons_category": "Category:Allhuset, Stockholms universitet",
+  "coords": [
+   59.36367,
+   18.05799
+  ],
+  "photos": [
+   {
+    "file": "File:Allhuset Freskati 2010f.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Allhuset Freskati 2010c.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Allhuset Freskati 2010a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Allhuset%2C_Stockholms_universitet",
+   "https://www.wikidata.org/wiki/Q10405629"
+  ]
+ },
+ {
+  "id": "chalmers-karhus",
+  "qid": "Q10448217",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2001; the Swedish lead gives the 2001 completion and the building's facilities.",
+  "name": "Chalmers kårhus",
+  "by": "Gert Wingårdh",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 2001,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Public space"
+  ],
+  "features": "Student union building for Chalmers, with a pool, bookshop and large hall; won the Kasper Salin Prize in 2001.",
+  "commons_category": "Category:Chalmers kårhus",
+  "coords": [
+   57.68917,
+   11.97389
+  ],
+  "photos": [
+   {
+    "file": "File:Chalmers kårhus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:090627 Chalmers kårhus balkong.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Samhällsbyggnad Chalmers, S4024355.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Chalmers_k%C3%A5rhus",
+   "https://www.wikidata.org/wiki/Q10448217"
+  ]
+ },
+ {
+  "id": "hyogo-performing-arts-center",
+  "qid": "Q11393100",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives the 2005 opening and Nikken Sekkei. Main photo is a daylight exterior (the night shot was not used).",
+  "name": "Hyogo Performing Arts Center",
+  "by": "Nikken Sekkei",
+  "city": "Nishinomiya",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Performing arts centre opened in 2005, ten years after the Great Hanshin earthquake; design commended by the AIJ in 2007.",
+  "commons_category": "Category:Hyogo Performing Arts Center",
+  "coords": [
+   34.7436,
+   135.356
+  ],
+  "photos": [
+   {
+    "file": "File:Hyogo Performing Arts Center01n3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Hyogo Performing Arts Center02s3s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyogo_Performing_Arts_Center",
+   "https://www.wikidata.org/wiki/Q11393100"
+  ]
+ },
+ {
+  "id": "koga-history-museum",
+  "qid": "Q11411385",
+  "status": "photo",
+  "why": "AIJ Prize 1992 (Japanese lead); the lead gives the 1990 opening and the castle site.",
+  "name": "Koga History Museum",
+  "by": "Keiji Yoshida",
+  "city": "Koga",
+  "cc": "JP",
+  "year": 1990,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Landscape",
+   "Stone",
+   "Water"
+  ],
+  "features": "Museum on the former Suwa enclosure of Koga Castle, designed by Keiji Yoshida; won a 1992 architecture prize.",
+  "commons_category": "Category:Koga History Museum",
+  "coords": [
+   36.19142,
+   139.70126
+  ],
+  "photos": [
+   {
+    "file": "File:Koga History Museum 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Koga History Museum 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%8F%A4%E6%B2%B3%E6%AD%B4%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11411385"
+  ]
+ },
+ {
+  "id": "seto-inland-sea-folk-history-museum",
+  "qid": "Q11566553",
+  "status": "photo",
+  "why": "Lead names the architect and an AIJ Prize; year from the lead (established 1973).",
+  "name": "Seto Inland Sea Folk History Museum",
+  "by": "Tadashi Yamamoto",
+  "city": "Takamatsu",
+  "cc": "JP",
+  "year": 1973,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Museum on the Goshikidai Plateau in Setonaikai National Park, designed by athlete-architect Tadashi Yamamoto.",
+  "commons_category": "Category:Seto Inland Sea Folk History Museum",
+  "coords": [
+   34.37822,
+   133.93098
+  ],
+  "photos": [
+   {
+    "file": "File:Gosikidai31.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Japan Goshikidai 瀬戸内海歴史民俗資料館（１）.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seto_Inland_Sea_Folk_History_Museum",
+   "https://www.wikidata.org/wiki/Q11566553"
+  ]
+ },
+ {
+  "id": "sano-city-museum",
+  "qid": "Q21653203",
+  "status": "photo",
+  "why": "AIJ Prize in awards and the lead (1984); the lead gives the November 1983 opening.",
+  "name": "Sano City Museum",
+  "by": "Tadahiro Tō",
+  "city": "Sano",
+  "cc": "JP",
+  "year": 1983,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Local history museum in Sano, opened in 1983; won the Architectural Institute of Japan Prize in 1984.",
+  "commons_category": "Category:Sano City Museum",
+  "coords": [
+   36.31278,
+   139.565
+  ],
+  "photos": [
+   {
+    "file": "File:Sano City Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E4%BD%90%E9%87%8E%E5%B8%82%E9%83%B7%E5%9C%9F%E5%8D%9A%E7%89%A9%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q21653203"
+  ]
+ },
+ {
+  "id": "shinjuku-mitsui-building",
+  "qid": "Q2413330",
+  "status": "photo",
+  "why": "AIJ Prize in awards; the lead says tallest from September 1974, so 1974 fits. City from the lead (Nishi-Shinjuku is a district).",
+  "name": "Shinjuku Mitsui Building",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1974,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Black-braced skyscraper with a sunken garden and plaza; Japan's tallest building from 1974 to 1978.",
+  "commons_category": "Category:Shinjuku Mitsui Building",
+  "coords": [
+   35.6919,
+   139.6939
+  ],
+  "photos": [
+   {
+    "file": "File:Shinjuku Mitsui Building 2009 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shinjuku Mitsui Building, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shinjuku_Mitsui_Building",
+   "https://www.wikidata.org/wiki/Q2413330"
+  ]
+ },
+ {
+  "id": "bibracte-museum",
+  "qid": "Q36078579",
+  "status": "photo",
+  "why": "Lead (nl) says it is a modern building opened 1995 by Mitterrand, designed by Faloci; Prix de l'Équerre d'Argent listed; exterior photo p2 passes.",
+  "name": "Bibracte museum",
+  "by": "Pierre-Louis Faloci",
+  "city": "Saint-Léger-sous-Beuvray",
+  "cc": "FR",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "features": "Modern museum by the Bibracte dig, opened 1995 as a Grands Travaux project, built of concrete, wood, glass and stone.",
+  "commons_category": "Category:Musée de la civilisation celtique de Bibracte",
+  "coords": [
+   46.93249,
+   4.04751
+  ],
+  "photos": [
+   {
+    "file": "File:Musée de Bibracte 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Museum_van_Bibracte",
+   "https://www.wikidata.org/wiki/Q36078579"
+  ]
+ },
+ {
+  "id": "auditorio-alfredo-kraus",
+  "qid": "Q3629501",
+  "status": "photo",
+  "why": "Lead gives the lighthouse idea and the Atlantic window; opened 5 Dec 1997; National Architecture Award of Spain listed. Daylight exterior p1 and p2.",
+  "name": "Auditorio Alfredo Kraus",
+  "by": "Òscar Tusquets",
+  "city": "Las Palmas de Gran Canaria",
+  "cc": "ES",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Concert hall conceived as a lighthouse to protect Las Canteras beach, with a 100 m² window onto the Atlantic.",
+  "commons_category": "Category:Auditorio Alfredo Kraus y Palacio de Congresos de Canarias",
+  "coords": [
+   28.13012,
+   -15.44912
+  ],
+  "photos": [
+   {
+    "file": "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Auditorio_Alfredo_Kraus",
+   "https://www.wikidata.org/wiki/Q3629501"
+  ]
+ },
+ {
+  "id": "okayama-orient-museum",
+  "qid": "Q4707582",
+  "status": "photo",
+  "why": "Lead says built 1979 from a prize-winning design by Okada Architect & Associates; BCS Prize listed; daylight exteriors p0 and p1.",
+  "name": "Okayama Orient Museum",
+  "by": "Shin'ichi Okada",
+  "city": "Okayama",
+  "cc": "JP",
+  "year": 1979,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Light from above"
+  ],
+  "features": "Museum of ancient Near Eastern art, built in 1979 from a prize-winning design by Okada Architect & Associates.",
+  "commons_category": "Category:Okayama Orient Museum",
+  "coords": [
+   34.66639,
+   133.93
+  ],
+  "photos": [
+   {
+    "file": "File:160319 Okayama Orient Museum Okayama Japan02n.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:160319 Okayama Orient Museum Okayama Japan01n.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Okayama_Orient_Museum",
+   "https://www.wikidata.org/wiki/Q4707582"
+  ]
+ },
+ {
+  "id": "central-termica-de-la-ciudad-universitaria-de-madrid",
+  "qid": "Q5760755",
+  "status": "photo",
+  "why": "Lead (es) says built 1932 for the urban heating of the university buildings; Premio Nacional de Arquitectura listed; brick exteriors p0 and p1.",
+  "name": "Central Térmica de la Ciudad Universitaria de Madrid",
+  "by": "Manuel Sánchez Arcas, Eduardo Torroja",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1932,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "1932 heating plant generating heat for the buildings of Madrid's University City, part of its urban plan.",
+  "commons_category": "Category:Heating plant of Ciudad Universitaria de Madrid",
+  "coords": [
+   40.44694,
+   -3.72389
+  ],
+  "photos": [
+   {
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 1.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   },
+   {
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Central_T%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid",
+   "https://www.wikidata.org/wiki/Q5760755"
+  ]
+ },
+ {
+  "id": "escuela-de-artes-y-oficios-de-algeciras",
+  "qid": "Q5839060",
+  "status": "photo",
+  "why": "Lead (es) says built 1971 from Garrido's design, which won a first architecture prize in 1968; daylight exteriors p0 and p1; night photo p5 rejected.",
+  "name": "Escuela de Artes y Oficios de Algeciras",
+  "by": "Fernando Garrido Rodríguez",
+  "city": "Algeciras",
+  "cc": "ES",
+  "year": 1971,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Organic-form art school by Fernando Garrido, built 1971 after a first architecture prize in 1968.",
+  "commons_category": "Category:Escuela de Artes y Oficios de Algeciras",
+  "coords": [
+   36.13683,
+   -5.44794
+  ],
+  "photos": [
+   {
+    "file": "File:Artes y oficios, Algeciras.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Escuela de Artes Algeciras 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Escuela_de_Arte_Algeciras",
+   "https://www.wikidata.org/wiki/Q5839060"
+  ]
+ },
+ {
+  "id": "estacion-de-autobuses-de-cordoba",
+  "qid": "Q5847582",
+  "status": "photo",
+  "why": "Lead (es) says opened 16 Oct 1998 and gives the Premio Nacional de Arquitectura of 1999 to Portela and Cuenca Montilla; by = Wikidata architect only; grey facade with station sign p4.",
+  "name": "Estación de autobuses de Córdoba",
+  "by": "César Portela, Juan Cuenca Montilla",
+  "city": "Córdoba",
+  "cc": "ES",
+  "year": 1998,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Circulation",
+   "Facade as skin"
+  ],
+  "features": "Córdoba's bus station beside the Córdoba Central railway station, opened 1998; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Bus station of Córdoba, Spain",
+  "coords": [
+   37.88946,
+   -4.79028
+  ],
+  "photos": [
+   {
+    "file": "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_autobuses_de_C%C3%B3rdoba",
+   "https://www.wikidata.org/wiki/Q5847582"
+  ]
+ },
+ {
+  "id": "15-clerkenwell-close",
+  "qid": "Q60521880",
+  "status": "photo",
+  "why": "Lead says completed 2017, RIBA National Award 2018 and Stirling Prize shortlist 2021 (shortlist, not a win); daylight exteriors p0 and p1.",
+  "name": "15 Clerkenwell Close",
+  "by": "Amin Taha",
+  "city": "London",
+  "cc": "GB",
+  "year": 2017,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Stone-clad housing and office block in Clerkenwell with a RIBA National Award (2018) and a 2021 Stirling Prize shortlist.",
+  "commons_category": "Category:15 Clerkenwell Close",
+  "coords": [
+   51.5232,
+   -0.1064
+  ],
+  "photos": [
+   {
+    "file": "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6029656 cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:15 Clerkenwell Close 2025-02-04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/15_Clerkenwell_Close",
+   "https://www.wikidata.org/wiki/Q60521880"
+  ]
+ },
+ {
+  "id": "passerelle-leopold-sedar-senghor",
+  "qid": "Q605912",
+  "status": "photo",
+  "why": "Lead says the bridge won the Prix de l'Équerre d'Argent in its opening year (1999); whole-bridge daylight photos p0 and p5.",
+  "name": "Passerelle Léopold-Sédar-Senghor",
+  "by": "Marc Mimram",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 1999,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Promenade",
+   "Water"
+  ],
+  "features": "Seine footbridge by Marc Mimram, opened 1999, that won the Équerre d'Argent prize in its year of opening.",
+  "commons_category": "Category:Passerelle Léopold-Sédar-Senghor",
+  "coords": [
+   48.86194,
+   2.32472
+  ],
+  "photos": [
+   {
+    "file": "File:Passerelle Solferino Paris FRA 002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor",
+   "https://www.wikidata.org/wiki/Q605912"
+  ]
+ },
+ {
+  "id": "art-museum-library-ota",
+  "qid": "Q60986994",
+  "status": "photo",
+  "why": "Lead (ja) describes a complex with a public library and art museum in Ōta; AIJ Prize listed; year 2017 from Wikidata; whole-building daylight photos p0 and p5.",
+  "name": "Art Museum & Library, Ota",
+  "by": "Akihisa Hirata",
+  "city": "Ōta",
+  "cc": "JP",
+  "year": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Cultural complex with a public library and an art museum in Ota, Gunma, designed by Akihisa Hirata.",
+  "commons_category": "Category:Art Museum & Library, Ota",
+  "coords": [
+   36.29461,
+   139.37847
+  ],
+  "photos": [
+   {
+    "file": "File:Art Museum & Library, Ota ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Art-Museum&Library,Ota-2017092402.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q60986994"
+  ]
+ },
+ {
+  "id": "mori-butai",
+  "qid": "Q61058067",
+  "status": "photo",
+  "why": "Lead (ja) gives the museum and noh stage in Tome; AIJ Prize listed; wooden exteriors p0 and p1.",
+  "name": "Mori Butai",
+  "by": "Kengo Kuma",
+  "city": "Tome",
+  "cc": "JP",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Kengo Kuma's noh stage and museum of traditional performing arts in Tome; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Mori Butai",
+  "coords": [
+   38.65944,
+   141.28028
+  ],
+  "photos": [
+   {
+    "file": "File:Moributai,Tome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mori stage front,Tome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD%E4%BC%9D%E6%89%BF%E9%A4%A8%E6%A3%AE%E8%88%9E%E5%8F%B0",
+   "https://www.wikidata.org/wiki/Q61058067"
+  ]
+ },
+ {
+  "id": "theatre-royal-plymouth",
+  "qid": "Q7777439",
+  "status": "photo",
+  "why": "Lead gives the 1,300-seat main hall and the Arts Council funding; Stirling Prize listed; daylight photo p4 (p0 looks like dusk).",
+  "name": "Theatre Royal, Plymouth",
+  "by": "Peter Moro",
+  "city": "Plymouth",
+  "cc": "GB",
+  "year": 1982,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Steel & glass"
+  ],
+  "features": "Plymouth theatre by Peter Moro with a 1,300-seat main auditorium, The Lyric, and two studio spaces.",
+  "commons_category": "Category:Theatre Royal, Plymouth",
+  "coords": [
+   50.36989,
+   -4.14511
+  ],
+  "photos": [
+   {
+    "file": "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Theatre_Royal%2C_Plymouth",
+   "https://www.wikidata.org/wiki/Q7777439"
+  ]
+ },
+ {
+  "id": "twenty-six-martyrs-museum-and-monument",
+  "qid": "Q84029",
+  "status": "photo",
+  "why": "Lead says built June 1962 on the 1597 execution site; AIJ Prize listed; daylight building photos p2 and p3 (p1 has a church, p5 a monument).",
+  "name": "Twenty-Six Martyrs Museum and Monument",
+  "by": "Kenji Imai",
+  "city": "Nagasaki",
+  "cc": "JP",
+  "year": 1962,
+  "type": "Memorial",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Memorial museum on the Nishizaka Hill execution site of 1597 in Nagasaki, built in June 1962.",
+  "commons_category": "Category:Twenty-six Martyrs of Japan Memorial and Museum (Nagasaki)",
+  "coords": [
+   32.75472,
+   129.87167
+  ],
+  "photos": [
+   {
+    "file": "File:26 Martyrs Shrine and Museum and St. Phillip Church.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 00 200000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 09 133000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Twenty-Six_Martyrs_Museum_and_Monument",
+   "https://www.wikidata.org/wiki/Q84029"
+  ]
+ },
+ {
+  "id": "rudolf-steinerseminariet",
+  "qid": "Q10657621",
+  "status": "photo",
+  "why": "Kasper Salin Prize (in prep); the Swedish lead describes a very distinctive organic architecture by Erik Asmussen; the lead gives 1968–1992 as a span, so year is null.",
+  "name": "Rudolf Steinerseminariet",
+  "by": "Erik Asmussen",
+  "city": "Järna",
+  "cc": "SE",
+  "year": 1992,
+  "type": "Education",
+  "movement": "Expressionism",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Anthroposophic centre of many buildings from 1968 to 1992, with organic forms shaped by ideas on light, colour and nature.",
+  "commons_category": "Category:Rudolf Steinerseminariet",
+  "coords": [
+   59.06667,
+   17.61667
+  ],
+  "photos": [
+   {
+    "file": "File:Kulturhuset i Ytterjärna Södertälje.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rudolf Steinerseminariet, Järna, 2019a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kulturcentrum, Järna, 2019a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Rudolf_Steinerseminariet",
+   "https://www.wikidata.org/wiki/Q10657621"
+  ]
+ }
+]

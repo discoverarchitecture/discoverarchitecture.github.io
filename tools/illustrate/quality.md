@@ -310,3 +310,53 @@ Held: Independence Hall (no year), Botter Apartment (no main photo), and the thr
 revival churches and offices. Five strong buildings were skipped only for want of any Wikipedia text (House of
 Victoria Ocampo, the Senate Palace and the Glass Building in Tehran, the Ab-o-Atash amphitheatre, Igreja Matriz in
 Presidente Getúlio): worth a hand-written entry from a source later.
+
+## Haiku pipeline, twelfth pool (24 Oct 2026): 117 prize-winning buildings
+
+A new search: Wikidata records few prize winners for buildings (`tools/harvest_awards.py`, 48), so
+`tools/harvest_award_lists.py` read the winner lists in 29 prizes' Wikipedia articles (Stirling, RIBA International,
+Mies van der Rohe, Aga Khan, AIA Twenty-five Year, Kasper Salin, Houens, Équerre d'argent, the Spanish and German
+national prizes, Japan's AIJ and BCS prizes and others) and kept the linked pages that have an architect: 376, of
+which 117 were new to the wall (`tools/cheap/make_pool12.py`). Lesson: a link from a prize's article does not mean the
+building won it (shortlists and mentions are linked too), and Japan's BCS Prize is a builders' prize given to many
+ordinary offices and hotels. Haiku was told to treat the prize as a design reason and kept 79; Sonnet then counted a
+prize only when the building's own lead confirms it, and threw out 51. Four ordinary keeps were set aside for the 20%
+rule. 22 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 22 (13 gallery photos removed) | fine |
+| No free photo | 6 of 117 (5%) | fine |
+| Already on the wall | 4 of 117 (3%): Sea Ranch Condominium One, Sony City Osaki, Grande Arche, the Badalona arena | fine |
+| Facts failing the source check | Haiku's keeps: 51 of 79 were wrong keeps (65%), most for an unconfirmed prize | **stop level for Haiku alone**; next time, tell Haiku a linked prize is not a reason |
+| Ordinary types | 3 of 22 (14%) by Sonnet's tag | fine, after setting four aside |
+
+Held: the General Motors Technical Center (Saarinen) and Domkyrkoforum for a sourced year (`tools/cheap/pool12_held.json`).
+Also in this round: Go deeper links for the last 151 buildings without, so every building on the wall has them.
+
+## "Year unavailable" and hand-written entries (24 Oct 2026)
+
+**25 buildings with no sourced year** go on the wall with "Year unavailable" (owner, 24 Oct 2026): no year in their
+titles or descriptions, no decade in the date filter, sorted last (`tools/illustrate/results/zz_noyear.json`). Their
+photos were checked by eye: no lead held back; 24 gallery photos removed (a museum's bells, stained glass filed under
+the wrong Commons category, dancers, shrines near Lake Suwa, a defibrillator); the Chapel of St. Basil now leads with
+its cross wall. The General Motors Technical Center stays off: its only free photo shows a newer office.
+
+**Hand-written entries**, for buildings with no Wikipedia article. `tools/fetch_pages.py` saved 20 of 27 source pages
+on Actions (`tools/cheap/handwritten_pages/`); a Sonnet check quoted every fact from them, each quote checked word for
+word (`tools/cheap/handwritten_quotes.json`); Opus decided:
+
+| Building | Decision |
+|---|---|
+| Senate Palace, Tehran (Ghiai, Foroughi) | added; year shown as 1954–59, the span Encyclopaedia Iranica gives (sources differ on one year) |
+| House of Victoria Ocampo (Bustillo) | added, 1928 (all three pages) |
+| Plassen Cultural Centre (3XN) | added, 2012 (opened 14 July 2012) |
+| Tikkurila Church (OOPEAA) | added, 2021 (inaugurated January 2021) |
+| Vennesla Church (LINK arkitektur) | added, 2022 (completed and consecrated) |
+| Blessed Augustin Kažotić Church, Zagreb (Magaš) | held: no page describes the design; 1998 or 2004 |
+| Knin church (Rošin) | held: no page describes the design |
+| Igreja Matriz (Böhm), Ab-o-Atash, the Glass Building | held: no source page could be saved |
+
+The draft facts were often wrong (a stone-building award, "long church", a Le Corbusier influence the house in fact
+rejects, the Knin architect's name): 6 of 7 drafts had at least one unsupported fact, which is why only quoted facts
+reached the wall. Each entry keeps its sources and quotes in `tools/illustrate/results/zz_handwritten.json`.

@@ -120,7 +120,7 @@ def main():
     rows = []
     for k, r in enumerate(pool):
         try:
-            r = {key: r.get(key) for key in ('qid', 'label', 'enwiki', 'architect', 'year', 'country', 'located', 'coords', 'commons', 'instance', 'sitelinks')}
+            r = {key: r.get(key) for key in ('qid', 'label', 'enwiki', 'architect', 'year', 'country', 'located', 'coords', 'commons', 'instance', 'sitelinks', 'awards')}
             r['lead'] = lead_text(r.get('enwiki'))
             r['photos'] = photos(pool[k])
             rows.append(r)

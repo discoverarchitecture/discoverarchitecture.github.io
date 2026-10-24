@@ -1,2 +1,2 @@
-python -u tools/fetch_portraits.py
-Portraits: refresh after round 5 and the new firms' founders.
+python -u tools/fetch_pages.py tools/cheap/handwritten_urls.json tools/cheap/handwritten_pages
+Save the source pages for the hand-written entries.

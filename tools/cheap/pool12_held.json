@@ -1,0 +1,293 @@
+[
+ {
+  "id": "domkyrkoforum",
+  "qid": "Q10475814",
+  "name": "Domkyrkoforum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "domkyrkoforum",
+   "qid": "Q10475814",
+   "status": "photo",
+   "why": "Kasper Salin Prize 2012 (Swedish lead) names the architect; the lead gives no completion year, so year is null.",
+   "name": "Domkyrkoforum",
+   "by": "Carmen Izquierdo",
+   "city": "Lund",
+   "cc": "SE",
+   "year": null,
+   "type": "Culture & sport",
+   "movement": "Contemporary",
+   "concepts": [
+    "Public space",
+    "Community",
+    "Landscape"
+   ],
+   "features": "Visitors' centre for Lund Cathedral, designed by Carmen Izquierdo; won the Kasper Salin Prize in 2012.",
+   "commons_category": "Category:Domkyrkoforum",
+   "coords": [
+    55.70347,
+    13.19314
+   ],
+   "photos": [
+    {
+     "file": "File:Domkyrkoforum Konsertsalen 02.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:20201101 Lunds domkyrka och Domkyrkoforum 1043 (50558788551).jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    },
+    {
+     "file": "File:20210916 Domkyrkoforum Lund 02 (51486064990).jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://sv.wikipedia.org/wiki/Domkyrkoforum",
+    "https://www.wikidata.org/wiki/Q10475814"
+   ]
+  }
+ },
+ {
+  "id": "ahlens-city",
+  "qid": "Q10726246",
+  "name": "Åhléns City",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "ahlens-city",
+   "qid": "Q10726246",
+   "status": "photo",
+   "why": "Kasper Salin Prize 1966; the lead says the building opened 9 September 1964 and has high cultural-historical value. Store, kept for the prize and that value.",
+   "name": "Åhléns City",
+   "by": "Backström & Reinius, Sven Backström, Leif Reinius",
+   "city": "Stockholm",
+   "cc": "SE",
+   "year": 1964,
+   "type": "Workplace",
+   "movement": "Modernism",
+   "concepts": [
+    "Public space",
+    "Facade as skin",
+    "Cluster"
+   ],
+   "features": "Stockholm department store that fills a whole city block; opened in 1964 and won the Kasper Salin Prize in 1966.",
+   "commons_category": "Category:Åhléns City",
+   "coords": [
+    59.33222,
+    18.06139
+   ],
+   "photos": [
+    {
+     "file": "File:Åhléns city 2017.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Åhléns City mot Mäster Samuelsgatan, dec 2020.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:At Stockholm 2019 362.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/%C3%85hl%C3%A9ns_City",
+    "https://www.wikidata.org/wiki/Q10726246"
+   ]
+  }
+ },
+ {
+  "id": "politihuset-oslo",
+  "qid": "Q18011222",
+  "name": "Politihuset, Oslo",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "politihuset-oslo",
+   "qid": "Q18011222",
+   "status": "photo",
+   "why": "Houen prize (lead and awards); the lead gives 1978.",
+   "name": "Politihuset, Oslo",
+   "by": "Telje-Torp-Aasen Arkitektkontor",
+   "city": "Oslo",
+   "cc": "NO",
+   "year": 1978,
+   "type": "Civic",
+   "movement": "Late modernism",
+   "concepts": [
+    "Facade as skin",
+    "Steel & glass",
+    "Monumentality"
+   ],
+   "features": "Oslo police headquarters, completed in 1978; won the Houen architecture prize in 1982.",
+   "commons_category": "Category:Politihuset, Oslo",
+   "coords": [
+    59.91081,
+    10.77026
+   ],
+   "photos": [
+    {
+     "file": "File:Grønlandsleiret 44 – Grønland politistasjon (21. oktober 2018).jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Grønland politistasjon, Grønlandsleiret 44, Oslo.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Norway, police department.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://fi.wikipedia.org/wiki/Oslon_poliisitalo",
+    "https://www.wikidata.org/wiki/Q18011222"
+   ]
+  }
+ },
+ {
+  "id": "nittele-tower",
+  "qid": "Q2913644",
+  "name": "Nittele Tower",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "nittele-tower",
+   "qid": "Q2913644",
+   "status": "photo",
+   "why": "BCS Prize in awards; the lead names Richard Rogers and gives completion in 2003.",
+   "name": "Nittele Tower",
+   "by": "Richard Rogers, Mitsubishi Jisho Design",
+   "city": "Tokyo",
+   "cc": "JP",
+   "year": 2003,
+   "type": "Office & tower",
+   "movement": "Contemporary",
+   "concepts": [
+    "Structure as expression",
+    "Steel & glass",
+    "Facade as skin"
+   ],
+   "features": "Structural expressionist TV headquarters, 192 m tall, with two exterior structures built to resist wind and earthquakes.",
+   "commons_category": "Category:Shiodome NTV Tower",
+   "coords": [
+    35.66442,
+    139.75991
+   ],
+   "photos": [
+    {
+     "file": "File:Nippon TV Tower.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:NTV Tower 20200801-2.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:NTV Tower 20201112-1.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nittele_Tower",
+    "https://www.wikidata.org/wiki/Q2913644"
+   ]
+  }
+ },
+ {
+  "id": "general-motors-technical-center",
+  "qid": "Q5532055",
+  "name": "General Motors Technical Center",
+  "why": "no sourced year",
+  "entry": {
+   "id": "general-motors-technical-center",
+   "qid": "Q5532055",
+   "status": "photo",
+   "why": "Lead says Eero Saarinen designed it (the lead also names Eliel Saarinen for 1944 first plans, not a conflict); AIA Twenty-five Year Award listed; year null because the lead gives only stages. Daylight exterior p0.",
+   "name": "General Motors Technical Center",
+   "by": "Eero Saarinen",
+   "city": "Warren",
+   "cc": "US",
+   "year": null,
+   "type": "Workplace",
+   "movement": "Modernism",
+   "concepts": [
+    "Landscape",
+    "Water",
+    "Cluster"
+   ],
+   "features": "Eero Saarinen's campus of low buildings around rectangular lakes, opened in stages from the 1950s to the 1970s.",
+   "commons_category": "Category:General Motors Technical Center",
+   "coords": [
+    42.51333,
+    -83.03778
+   ],
+   "photos": [
+    {
+     "file": "File:Warren - General Motors Technical Center (50826111923).jpg",
+     "license": "CC BY 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/General_Motors_Technical_Center",
+    "https://www.wikidata.org/wiki/Q5532055"
+   ]
+  }
+ },
+ {
+  "id": "torre-melina-gran-melia",
+  "qid": "Q5903451",
+  "name": "Torre Melina Gran Meliá",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "torre-melina-gran-melia",
+   "qid": "Q5903451",
+   "status": "photo",
+   "why": "Lead (es) gives opening 1992, Ferrater, and the 1992 Premio Nacional de Arquitectura; whole-building daylight photos p5 and p6 (CC0).",
+   "name": "Torre Melina Gran Meliá",
+   "by": "Carlos Ferrater",
+   "city": "Barcelona",
+   "cc": "ES",
+   "year": 1992,
+   "type": "Hospitality",
+   "movement": "Contemporary",
+   "concepts": [
+    "Exposed concrete",
+    "Facade as skin",
+    "Sculptural form"
+   ],
+   "features": "Carlos Ferrater's 391-room hotel on Barcelona's Diagonal, opened 1992; a Spanish national architecture prize winner.",
+   "commons_category": "Category:Hotel Fairmont Rey Juan Carlos I",
+   "coords": [
+    41.38133,
+    2.10875
+   ],
+   "photos": [
+    {
+     "file": "File:Barcelona - Hotel Fairmont Rey Juan Carlos I (3).jpg",
+     "license": "CC0",
+     "seen": true
+    },
+    {
+     "file": "File:Barcelona - Hotel Fairmont Rey Juan Carlos I (1).jpg",
+     "license": "CC0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/Torre_Melina_Gran_Meli%C3%A1",
+    "https://www.wikidata.org/wiki/Q5903451"
+   ]
+  }
+ }
+]

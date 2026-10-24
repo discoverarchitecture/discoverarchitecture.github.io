@@ -1,220 +1,239 @@
 {
  "keep_ok": [
-  "palacio-diaz",
-  "temple-of-saint-anthony-of-padua",
-  "edificio-ariztia",
-  "edificio-do-banco-paulista-do-comercio",
-  "tanghalang-pambansa",
-  "edificio-guardiola",
-  "galeria-guemes",
-  "ricardo-rojas-house-museum-research-institute",
-  "coliseo-la-tortuga"
+  "politihuset-oslo",
+  "sano-city-museum",
+  "shinjuku-mitsui-building",
+  "nittele-tower",
+  "museum-van-bibracte",
+  "auditorio-alfredo-kraus",
+  "okayama-orient-museum",
+  "general-motors-technical-center",
+  "central-termica-de-la-ciudad-universitaria-de-madrid",
+  "escuela-de-artes-y-oficios-de-algeciras",
+  "estacion-de-autobuses-de-cordoba",
+  "torre-melina-gran-melia",
+  "15-clerkenwell-close",
+  "passerelle-leopold-sedar-senghor",
+  "art-museum-library-ota",
+  "mori-butai",
+  "theatre-royal-plymouth",
+  "twenty-six-martyrs-museum-and-monument"
  ],
  "ordinary": [
-  "palacio-diaz",
-  "edificio-ariztia",
-  "edificio-do-banco-paulista-do-comercio",
-  "edificio-guardiola",
-  "coliseo-la-tortuga"
+  "politihuset-oslo",
+  "shinjuku-mitsui-building",
+  "nittele-tower",
+  "torre-melina-gran-melia",
+  "15-clerkenwell-close"
  ],
  "keep_fix": [
   {
-   "id": "palacio-diaz",
-   "field": "by",
-   "haiku": "Gonzalo Vázquez Barrière",
-   "should_be": "Gonzalo Vázquez Barrière, Rafael Ruano",
-   "why": "The (German) lead names both architects of the 1929 building; Wikidata lists only one."
-  },
-  {
-   "id": "palacio-diaz",
+   "id": "sano-city-museum",
    "field": "concepts",
    "haiku": [
     "Facade as skin",
-    "Public space",
-    "Cluster"
+    "Light & shadow",
+    "Stone"
    ],
    "should_be": [
     "Facade as skin",
-    "Geometry",
-    "Public space"
-   ],
-   "why": "'Cluster' does not fit a single stepped Art Deco block with a shopping passage; 'Geometry' fits the stepped massing in the photos."
-  },
-  {
-   "id": "edificio-ariztia",
-   "field": "concepts",
-   "haiku": [
-    "Structure as expression",
-    "Exposed concrete",
+    "Light & shadow",
     "Geometry"
    ],
-   "should_be": [
-    "Structure as expression",
-    "Geometry",
-    "Facade as skin"
-   ],
-   "why": "The lead says reinforced concrete structure, but the facades are plastered, so 'Exposed concrete' is wrong; the photos show a wedge-shaped block with a rendered facade."
+   "why": "The lead does not mention stone; the photo shows a glass-block facade."
   },
   {
-   "id": "galeria-guemes",
-   "field": "year",
-   "haiku": null,
-   "should_be": 1915,
-   "why": "Lead gives only the 1913 design date; prep's year 1915 is the plausible completion year, and the brief says to use prep's year then."
+   "id": "shinjuku-mitsui-building",
+   "field": "features",
+   "haiku": "Black-braced Tokyo tower that was Japan's tallest from 1974 to 1978; won the Architectural Institute of Japan Prize.",
+   "should_be": "Black-braced skyscraper with a sunken garden and plaza; Japan's tallest building from 1974 to 1978.",
+   "why": "The visible lead does not say it won the AIJ Prize; it does give the braces, garden and tallest-building record."
   },
   {
-   "id": "ricardo-rojas-house-museum-research-institute",
-   "field": "year",
-   "haiku": null,
-   "should_be": 1929,
-   "why": "Commissioned 1927; the lead says Rojas lived in the house from 1929, and prep's year is 1929, which is plausible for completion."
+   "id": "nittele-tower",
+   "field": "features",
+   "haiku": "Structural expressionist TV headquarters, 192 m tall, with dampers designed by Richard Rogers Partnership.",
+   "should_be": "Structural expressionist TV headquarters, 192 m tall, with two exterior structures built to resist wind and earthquakes.",
+   "why": "The lead says the two large pieces were designed by Richard Rogers Partnership against wind and earthquake loads; it never says 'dampers designed by'."
   },
   {
-   "id": "ricardo-rojas-house-museum-research-institute",
+   "id": "museum-van-bibracte",
+   "field": "name",
+   "haiku": "Museum van Bibracte",
+   "should_be": "Bibracte museum",
+   "why": "The English label reads as a proper English name; the Dutch article title should not be used (brief: use the English label)."
+  },
+  {
+   "id": "museum-van-bibracte",
+   "field": "features",
+   "haiku": "Modern museum beside the Bibracte dig, built of concrete, wood, glass and stone; won an Équerre d'argent prize.",
+   "should_be": "Modern museum by the Bibracte dig, opened 1995 as a Grands Travaux project, built of concrete, wood, glass and stone.",
+   "why": "The Dutch lead does not say it won an Équerre d'argent; features must not claim a prize the lead does not confirm."
+  },
+  {
+   "id": "museum-van-bibracte",
    "field": "concepts",
    "haiku": [
-    "Facade as skin",
-    "Detail",
-    "Sculptural form"
+    "Exposed concrete",
+    "Landscape",
+    "Earth & local material"
    ],
    "should_be": [
-    "Courtyard",
-    "Detail",
-    "Facade as skin"
+    "Stone",
+    "Landscape",
+    "Earth & local material"
    ],
-   "why": "The photos (and the house's fame) are about the patio and its carved facade, not a sculptural form."
+   "why": "The photo and lead show stone and wood cladding, not exposed concrete."
   },
   {
-   "id": "tanghalang-pambansa",
-   "field": "year",
-   "haiku": null,
-   "should_be": 1969,
-   "why": "Lead gives no year; prep's year 1969 is plausible (Cultural Center of the Philippines theatre opened 1969)."
-  },
-  {
-   "id": "coliseo-la-tortuga",
-   "field": "year",
-   "haiku": null,
-   "should_be": 1980,
-   "why": "Lead gives no year; prep's year 1980 is plausible, so it is used instead of null."
-  },
-  {
-   "id": "edificio-guardiola",
+   "id": "general-motors-technical-center",
    "field": "features",
-   "haiku": "Functionalist office building for Banco de México, built 1947 on a site with several historical stages.",
-   "should_be": "Functionalist office building by Carlos Obregón Santacilia for Banco de México, built in 1947.",
-   "why": "Clearer; the 'site with several historical stages' clause is a filler from the lead."
+   "haiku": "Warren campus by Eero Saarinen, opened in stages from the 1950s to the 1970s; won an AIA Twenty-five Year Award.",
+   "should_be": "Eero Saarinen's campus of low buildings around rectangular lakes, opened in stages from the 1950s to the 1970s.",
+   "why": "The visible lead does not mention an AIA Twenty-five Year Award; it does give Saarinen, the lakes and Thomas Church's landscape."
+  },
+  {
+   "id": "central-termica-de-la-ciudad-universitaria-de-madrid",
+   "field": "features",
+   "haiku": "1932 heating plant for Madrid's University City, an important part of its urban plan; a Spanish national architecture prize winner.",
+   "should_be": "1932 heating plant generating heat for the buildings of Madrid's University City, part of its urban plan.",
+   "why": "The lead does not say it won a national architecture prize."
+  },
+  {
+   "id": "escuela-de-artes-y-oficios-de-algeciras",
+   "field": "concepts",
+   "haiku": [
+    "Sculptural form",
+    "Structure as expression",
+    "Water"
+   ],
+   "should_be": [
+    "Sculptural form",
+    "Facade as skin",
+    "Geometry"
+   ],
+   "why": "'Water' only describes a fountain in front of the school, not the building."
+  },
+  {
+   "id": "estacion-de-autobuses-de-cordoba",
+   "field": "by",
+   "haiku": "César Portela",
+   "should_be": "César Portela, Juan Cuenca Montilla",
+   "why": "The lead credits both architects with the 1999 Premio Nacional de Arquitectura; Haiku kept only Wikidata's first name."
+  },
+  {
+   "id": "art-museum-library-ota",
+   "field": "features",
+   "haiku": "A cultural complex with a public library and an art museum; won an Architectural Institute of Japan Prize.",
+   "should_be": "Cultural complex with a public library and an art museum in Ota, Gunma, designed by Akihisa Hirata.",
+   "why": "The Japanese lead says nothing about an AIJ Prize; the prize cannot be claimed."
+  },
+  {
+   "id": "theatre-royal-plymouth",
+   "field": "features",
+   "haiku": "Plymouth theatre with a 1,300-seat main hall, The Lyric, and a Stirling Prize to its name.",
+   "should_be": "Plymouth theatre by Peter Moro with a 1,300-seat main auditorium, The Lyric, and two studio spaces.",
+   "why": "The lead gives no Stirling Prize; the claim 'a Stirling Prize to its name' must go."
+  },
+  {
+   "id": "twenty-six-martyrs-museum-and-monument",
+   "field": "features",
+   "haiku": "Museum on the Nishizaka Hill execution site of 1597 in Nagasaki; won an Architectural Institute of Japan Prize.",
+   "should_be": "Memorial museum on the Nishizaka Hill execution site of 1597 in Nagasaki, built in June 1962.",
+   "why": "The lead does not mention an AIJ Prize."
+  },
+  {
+   "id": "twenty-six-martyrs-museum-and-monument",
+   "field": "type",
+   "haiku": "Museum",
+   "should_be": "Memorial",
+   "why": "The building is a memorial museum and monument on an execution site; 'Memorial' is in the vocabulary and fits better than 'Museum'."
+  },
+  {
+   "id": "museum-van-bibracte",
+   "field": "id",
+   "haiku": "museum-van-bibracte",
+   "should_be": "bibracte-museum",
+   "why": "Follows the name fix."
   }
  ],
- "keep_wrong": [],
+ "keep_wrong": [
+  {
+   "id": "ryogoku-kokugikan",
+   "why": "Indoor sumo arena (ordinary type). The lead names no architect; Kajima Corporation is the contractor, and the BCS Prize is a builders' prize the lead never mentions. No design reason. Main photo is also a view over offices with the arena small."
+  },
+  {
+   "id": "haneda-chronogate",
+   "why": "Logistics hub, ordinary type; the lead (ja) only gives size, completion and the client's story, no design reason. Features claims a BCS Prize the lead never states. Main photo has the company sign as a foreground subject."
+  },
+  {
+   "id": "sundt-varemagasin",
+   "why": "Department store with a one-line German lead and no year; nothing in the lead is a design reason, and 'won a Houen diploma' is not in the lead. Photos are old black-and-white street scenes with traffic."
+  },
+  {
+   "id": "chateau-de-blerancourt",
+   "why": "The lead gives no design reason and no year, features wrongly claims an Équerre d'argent that the lead does not mention, and de Brosse is not otherwise on the wall. The photos show the surviving pavilions and garden. Historic precedent is arguable but not supported by prep."
+  },
+  {
+   "id": "hong-kong-west-kowloon-station",
+   "why": "Large railway station (infrastructure, ordinary): the lead gives only cost, size and site, no design reason; the World Architecture Festival award is not in the lead. Main photo is an aerial taken from a tower, not a clear exterior of the building."
+  },
+  {
+   "id": "clarion-hotel-the-hub-oslo",
+   "why": "Hotel (ordinary type) with a one-line lead and no design reason; the Houen diploma and 1951 year are not in the lead. The one photo shows an apartment-hotel block among other buildings and people."
+  },
+  {
+   "id": "suntec-city",
+   "why": "Mall, offices and convention centre (ordinary types); the lead gives only construction dates. 'Won a World Architecture Festival award' is not in the lead."
+  },
+  {
+   "id": "feru-des-sciences",
+   "why": "The lead gives no design reason and names no architect; the Équerre d'argent is not in the lead. The only exterior (p6) is a partly cut view with a pole and parked cars; the rest are interiors."
+  },
+  {
+   "id": "88-wood-street",
+   "why": "Office skyscraper (ordinary): the lead names only the architect and size, no design reason. Features says 'a Stirling Prize winner', which the lead never states (the Stirling Prize was not won). Rogers' other work on the wall is a reason to review it later with a real source."
+  },
+  {
+   "id": "ariake-gymnastics-centre",
+   "why": "Olympic arena (ordinary type); the lead gives only the Olympic use, opening and later conversion, no design reason. 'Won a BCS Prize' is not in the lead (builders' prize)."
+  },
+  {
+   "id": "colegio-mayor-universitario-santo-tomas-de-aquino",
+   "why": "Student residence (housing, ordinary) with a lead that gives no design reason; the Premio Nacional claim is not in the lead. The photos are a sign, a partial apartment block and fences."
+  },
+  {
+   "id": "yokohama-landmark-tower",
+   "why": "Office and hotel tower (ordinary). The only reason is height (a record, not a design reason); the BCS Prize is not in the lead. 'by' also includes Mitsubishi Estate, the developer."
+  },
+  {
+   "id": "jr-central-towers",
+   "why": "Office and hotel twin towers (ordinary): the lead gives size and an opening date, no design reason, and the BCS Prize is not in it. 'by' also names Central Japan Railway Company (owner) and Taisei (contractor)."
+  },
+  {
+   "id": "saga-prefectural-museum",
+   "why": "The lead gives only an opening date and the Godzilla anecdote, no design reason or architect; 'Brutalism' and 'won an AIJ Prize' are not supported by prep. Other photos show other buildings and detail."
+  },
+  {
+   "id": "the-ark-london",
+   "why": "Office building; the lead is one line with no design reason, and 'a Mies van der Rohe Award winner' is not in the lead. Erskine is on the wall, so this could return as a rescue: the main photo (a fisheye shot cut off at the sides) fails, but File:The Ark by Hammersmith flyover - geograph.org.uk - 4705299.jpg shows the whole building in daylight."
+  },
+  {
+   "id": "tokyo-budo-kan",
+   "why": "Martial-arts hall, a sports arena (ordinary); the Japanese lead gives only the address and operator, no design reason; the AIJ Prize is not in the lead and Rokkaku is not otherwise on the wall."
+  },
+  {
+   "id": "lake-biwa-otsu-prince-hotel",
+   "why": "Hotel tower (ordinary): the lead says only that Tange designed it, no design reason beyond the name; BCS Prize not in the lead. 'by' includes Kajima Corporation, a contractor."
+  }
+ ],
  "main_photo_wrong": [
   {
-   "id": "botter-appartement",
-   "better_file_or_null": null,
-   "why": "The only whole-street shot (File:Botter Apartment.jpg) is a narrow vertical street scene with pedestrians and the building cut off; every other photo is a facade or ironwork detail. Without a clear exterior it cannot be kept (Haiku listed only that one photo). Also name: use 'Botter Apartment' (Commons name) rather than the Dutch title; prep's year 1901 is the plausible year since the lead says only 'the 1900s'."
-  },
-  {
-   "id": "galeria-guemes",
-   "better_file_or_null": "File:Galería Güemes Cúpula torreta 01.jpg",
-   "why": "Haiku's first photo (Galeria Güemes desde Bencich.jpg) is a close crop of the tower and top floors; prep's main photo (CC BY-SA 4.0) shows the whole building with its tower in daylight."
-  },
-  {
-   "id": "coliseo-la-tortuga",
-   "better_file_or_null": "File:Coliseo La Tortuga (7118487397).jpg",
-   "why": "Haiku's photo (6972409366) shows the arena small and far behind a palm and pavement; prep's main photo (CC BY-SA 2.0) shows the whole turtle-shell roof close up. A large totem sculpture stands at its left edge but the arena is the subject."
+   "id": "twenty-six-martyrs-museum-and-monument",
+   "better_file_or_null": "File:26 Martyrs Shrine and Museum and St. Phillip Church.jpg",
+   "why": "Haiku's p2 has a person walking in front of a flat block and p3 (steps, bare tree) hides the museum; p1 shows the museum facade with its cross relief clearly, no people. Use p1 first."
   }
  ],
- "rescued": [
-  {
-   "id": "selim-al-deen-muktamanch",
-   "why": "Lead gives a clear design reason (first open-air theatre in South Asia in the style of an ancient Greek theatre, on a mound slope). Architect conflict resolved: the lead calls Selim Al Deen (a playwright) the 'master planner' after whom it was named, and names no designer, so Wikidata's Alamgir Kabir stands. Main photo is a clear daylight view of the whole tiered amphitheatre with no people. Movement is my choice; the lead names none.",
-   "entry": {
-    "id": "selim-al-deen-muktamanch",
-    "qid": "Q130607297",
-    "status": "photo",
-    "why": "First open-air theatre in South Asia built in the style of an ancient Greek theatre; clear daylight exterior photos.",
-    "name": "Selim Al Deen Muktamanch",
-    "by": "Alamgir Kabir",
-    "city": "Savar",
-    "cc": "BD",
-    "year": 1980,
-    "type": "Culture & sport",
-    "movement": "Regionalism",
-    "concepts": [
-     "Landscape",
-     "Public space",
-     "Brick"
-    ],
-    "features": "First open-air theatre in South Asia built in the style of an ancient Greek theatre, on a mound slope.",
-    "commons_category": "Category:Selim Al Deen Muktomoncho",
-    "coords": [
-     23.87877,
-     90.2708
-    ],
-    "photos": [
-     {
-      "file": "File:Open Satge Of JahangirNagar University.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Selim Al Deen Muktomoncho.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:সেলিম আল দীন মুক্তমঞ্চ.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Selim Al-Din Muktomoncho.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "faculty-of-fine-arts-university-of-dhaka",
-   "why": "Muzharul Islam's Faculty (Institute) of Fine Arts, named by the owner as a regional modernist work Haiku skipped because the lead speaks of the school. The lead names Muzharul Islam as designer and says it was the region's first art school, in Shahbag since 1956 (year taken from that; the building's completion year is not stated, so please confirm). Main photo is a daylight outside view of the entrance block, not perfect (partly framed by foliage and a railing) but with no people; the veranda photo is a good second. Photos with students and the gate are left out.",
-   "entry": {
-    "id": "faculty-of-fine-arts-university-of-dhaka",
-    "qid": "Q4796888",
-    "status": "photo",
-    "why": "Muzharul Islam designed the building; it houses the first art school in the region.",
-    "name": "Faculty of Fine Arts, University of Dhaka",
-    "by": "Muzharul Islam",
-    "city": "Dhaka",
-    "cc": "BD",
-    "year": 1956,
-    "type": "Education",
-    "movement": "Modernism",
-    "concepts": [
-     "Brick",
-     "Structure as expression",
-     "Climate response"
-    ],
-    "features": "Designed by Muzharul Islam for the region's first art school, in Shahbag since 1956.",
-    "commons_category": "Category:Faculty of Fine Arts, University of Dhaka",
-    "coords": [
-     23.7357,
-     90.3948
-    ],
-    "photos": [
-     {
-      "file": "File:Institute of Fine Art 1 .A.M.R.jpg",
-      "license": "CC BY 2.5",
-      "seen": true
-     },
-     {
-      "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG",
-      "license": "CC BY 3.0",
-      "seen": true
-     }
-    ]
-   }
-  }
- ],
- "summary": "Checked positions 152-298 (147 buildings): Haiku had 10 keep, 6 unsure, 131 skip. Result: 9 keeps accepted (keep_ok), 5 of them ordinary types (palacio-diaz, edificio-ariztia, edificio-do-banco-paulista-do-comercio, edificio-guardiola, coliseo-la-tortuga; weakest are guardiola and coliseo); 1 keep dropped for no usable main photo (botter-appartement); 2 keeps need a better main photo (galeria-guemes, coliseo-la-tortuga); 9 field fixes (by, concepts, year x4, features); 0 keep_wrong; 2 rescued (selim-al-deen-muktamanch, faculty-of-fine-arts-university-of-dhaka). Still unsure, no usable exterior main photo: Africa Hall (only interiors and people), Restaurante Zambi (chimney only), Manik Bagh (portraits only), Centro SCOP (street view of a complex, and the lead says it was a complex), Luis David Cruz Ocampo library (entrance doors only). Chandigarh College of Architecture has only a logo. Skips confirmed as right in all other cases; borderline skips for the owner: Ohel Yizkor (Yad Vashem, Sharon et al.; good exterior photo but lead gives only the ceremony use), and several strong buildings with empty leads (House of Victoria Ocampo, Senate Palace Tehran, The Glass Building Tehran, Ab-o-Atash Amphitheatre, Igreja Matriz Presidente Getulio) which stay skipped under the empty-lead rule."
+ "rescued": [],
+ "summary": "Positions 59-116 (58 entries): Haiku had 35 photo, 13 unsure, 10 skip. Accepted 18 of the 35 keeps (11 of them with field fixes, 1 with a better first photo: Twenty-Six Martyrs); rejected 17 (ordinary types with no design reason in the lead, prizes only in the awards field, builders named as architects, unsupported claims). Ordinary among the accepted: 5 (73, 77, 99, 100 and the civic 64), 28% of these 18; each has a design reason in its lead, but the pool is over the 20% line, so drop 64 and 99 first if the whole batch needs trimming. Rescued 0: all 23 unsure and skip entries confirmed (no usable main photo, empty lead, demolished, or not a building)."
 }

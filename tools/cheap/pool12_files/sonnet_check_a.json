@@ -1,0 +1,196 @@
+{
+ "keep_ok": [
+  "domkyrkoforum",
+  "gavle-krematorium",
+  "ahlens-city",
+  "studio-1",
+  "allhuset-stockholms-universitet",
+  "chalmers-karhus",
+  "rudolf-steinerseminariet",
+  "hyogo-performing-arts-center",
+  "koga-history-museum",
+  "seto-inland-sea-folk-history-museum"
+ ],
+ "ordinary": [
+  "ahlens-city",
+  "studio-1"
+ ],
+ "keep_fix": [
+  {
+   "id": "ahlens-city",
+   "field": "type",
+   "haiku": "Public space",
+   "should_be": "Workplace",
+   "why": "A department store; the wall files department stores under Workplace (Galleria Department Store, Kotva)."
+  },
+  {
+   "id": "hyogo-performing-arts-center",
+   "field": "features",
+   "haiku": "Performing arts centre opened in 2005, ten years after the Great Hanshin earthquake; won the BCS Prize.",
+   "should_be": "Performing arts centre opened in 2005, ten years after the Great Hanshin earthquake; design commended by the AIJ in 2007.",
+   "why": "The lead names an Architectural Institute of Japan design commendation in 2007, not the BCS Prize."
+  },
+  {
+   "id": "koga-history-museum",
+   "field": "concepts",
+   "haiku": [
+    "Courtyard",
+    "Landscape",
+    "Public space"
+   ],
+   "should_be": [
+    "Landscape",
+    "Stone",
+    "Water"
+   ],
+   "why": "Courtyard is not shown or stated; the main photo shows a stone-edged water feature beside the building."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "medborgarhuset-orebro",
+   "why": "No design reason visible in the lead (it was cut at 900 characters, so the Kasper Salin Prize in features is unconfirmed); civic hall. Borderline: re-add only if the full lead confirms the prize."
+  },
+  {
+   "id": "televerkets-forvaltningsbyggnader-farsta",
+   "why": "Office complex (ordinary type); dropped to keep ordinary types under 20%, although the lead confirms a Kasper Salin win for the 1969 blocks; also main photo has trees across the building."
+  },
+  {
+   "id": "vildanden",
+   "why": "Student housing; the lead names only the architect and 1966, no prize and no design reason, so the Kasper Salin claim in features is unconfirmed."
+  },
+  {
+   "id": "suita-city-football-stadium",
+   "why": "Ordinary stadium; the lead mentions no prize (BCS is a builders' prize) and gives no design reason; main photo has cars and a car park."
+  },
+  {
+   "id": "ruhrfestspielhaus",
+   "why": "The lead only says it is an event venue built 1960-65; the 2001 German Architecture Prize is for the Auer+Weber rebuild, not in the lead; no design reason."
+  },
+  {
+   "id": "merkurhuset",
+   "why": "Features say the 2019-22 extension (Bornstein Lyckefors) won the prize, but by/year/movement describe the 1899 Krüger office building; mixed, ordinary office; drop."
+  },
+  {
+   "id": "condominium-1",
+   "why": "Duplicate: already on the wall as sea-ranch-condominium-one."
+  },
+  {
+   "id": "stade-sebastien-charlety",
+   "why": "Ordinary stadium; the lead mentions no prize; Wikidata's architect/year (Zehrfuss, 1939) belong to the old stadium, not the current one; main photo is an aerial."
+  },
+  {
+   "id": "new-national-theatre-tokyo",
+   "why": "The lead only says it is praised for its architecture; no prize in the lead (AIJ is in awards only), so features' prize claim is unconfirmed and no real design reason is given."
+  },
+  {
+   "id": "toshima-eco-musee-town",
+   "why": "Weak case: city hall plus condo tower (ordinary type) whose only reason is 'first of its kind'; BCS Prize not confirmed by lead; dropped to keep ordinary types under 20%."
+  },
+  {
+   "id": "nbf-osaki-bldg",
+   "why": "Duplicate: already on the wall as sony-city-osaki (same building, formerly Sony City Osaki). Also an office tower."
+  },
+  {
+   "id": "tv-tokyo-tennozu-studio",
+   "why": "TV studio; Shimizu Corporation is a builder; lead only says BCS Prize (a builders' prize), no design reason."
+  },
+  {
+   "id": "nadya-park",
+   "why": "Commercial complex; lead gives no design reason; BCS Prize is a builders' prize; main photo is a tight black-and-white crop."
+  },
+  {
+   "id": "shinjuku-center-building",
+   "why": "Ordinary office tower; Taisei is a contractor; lead's reason (seismic dampers) is engineering; BCS Prize unconfirmed; main photo shows the tower only as a small part of a skyline."
+  },
+  {
+   "id": "marunouchi-park-building",
+   "why": "Ordinary office tower; by is the owner's design arm (Mitsubishi Jisho Design); BCS Prize unconfirmed."
+  },
+  {
+   "id": "kurashiki-kokusai-hotel",
+   "why": "Hotel (ordinary type); the lead is one line with no design reason; AIJ Prize unconfirmed."
+  },
+  {
+   "id": "hokkaido-government-main-building",
+   "why": "Ordinary civic office building; one-line lead; BCS Prize unconfirmed."
+  },
+  {
+   "id": "kirara-genki-dome",
+   "why": "Indoor sports dome (ordinary type); lead gives only the name and sponsor; BCS Prize unconfirmed."
+  },
+  {
+   "id": "yokohama-stadium",
+   "why": "Ordinary baseball stadium; no design reason or prize in the lead; main photo is an interior of the stands."
+  },
+  {
+   "id": "sai-no-kuni-saitama-arts-theater",
+   "why": "One-line lead, no design reason; AIJ Prize unconfirmed; main photo is a distant street view."
+  },
+  {
+   "id": "niigata-city-art-museum",
+   "why": "Maekawa is a well-known architect on the wall, but the only photo hides the museum behind trees, and the BCS Prize in features is unconfirmed; no usable main photo."
+  },
+  {
+   "id": "otemachi-tower",
+   "why": "Ordinary office tower (KPF); lead gives no design reason; BCS Prize unconfirmed; main photo is a worm's-eye view."
+  },
+  {
+   "id": "kurita-museum",
+   "why": "Kajima Corporation is a contractor; lead describes the collection only; BCS Prize unconfirmed; main photo shows a gatehouse, not the museum."
+  },
+  {
+   "id": "uemura-naomi-memorial-museum",
+   "why": "Lead names no prize or design reason (AIJ is in awards only); a minor work by Kuryu."
+  },
+  {
+   "id": "fuji-harness",
+   "why": "Guide-dog centre; lead is one line with no design reason; AIJ Prize unconfirmed."
+  },
+  {
+   "id": "nagano-city-museum",
+   "why": "One-line lead, no design reason; AIJ Prize unconfirmed."
+  },
+  {
+   "id": "malmo-city-library",
+   "why": "The Kasper Salin Prize is for the 1999 glass extension, not in the lead; the lead (opened 1905, lends video games) gives no design reason; features' prize claim is unconfirmed."
+  },
+  {
+   "id": "yokohama-arena",
+   "why": "Ordinary arena; lead gives no design reason (it was modelled on Madison Square Garden); BCS Prize unconfirmed."
+  },
+  {
+   "id": "storetveit-church",
+   "why": "Ordinary parish church; the lead gives only the architect and 1930, no design reason; Houens fond diploma unconfirmed."
+  },
+  {
+   "id": "mizuho-paypay-dome-fukuoka",
+   "why": "Ordinary stadium; the builders (Takenaka, Maeda) are contractors; the only reason is a retractable roof (engineering); BCS Prize unconfirmed."
+  },
+  {
+   "id": "national-theatre-of-japan",
+   "why": "No design reason in the lead; Takenaka is the builder; currently closed for reconstruction; BCS Prize unconfirmed."
+  },
+  {
+   "id": "museum-of-ethnography-sweden",
+   "why": "Year 1900 is unsupported (the building is 1970s; the lead gives no building date) and the lead (cut at 900 characters) shows no design reason or prize."
+  },
+  {
+   "id": "museum-of-contemporary-art-tokyo",
+   "why": "Lead gives only size and opening year; BCS Prize unconfirmed; the main photo shows just the entrance canopy, and no other photo shows the whole building from outside."
+  },
+  {
+   "id": "toranomon-hills",
+   "why": "Ordinary skyscraper complex; by is the developer's tower (Mori Building); lead gives no design reason; every photo is a worm's-eye view."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "chalmers-karhus",
+   "better_file_or_null": "File:Chalmers kårhus.jpg",
+   "why": "The balkong photo shows only a corner and canopy; 'Chalmers kårhus.jpg' shows the whole glass-and-brick front in daylight. Also drop 'Samhällsbyggnad Chalmers' from the gallery: it shows a different building (a brick department block with a chimney)."
+  }
+ ],
+ "rescued": [],
+ "summary": "Positions 0-58: Haiku had 44 photo, 7 skip, 8 unsure. Accepted 10 keeps (2 ordinary: Åhléns City, Studio 1 = 20%; Åhléns is the one to drop if the pool's overall ordinary share runs over), rejected 34 (2 duplicates: Condominium 1 and NBF Osaki are already on the wall; most others have no design reason in the lead, a prize only in awards, builders as 'by', or are ordinary stadiums, towers and hotels), 3 fixes (Åhléns type, Hyogo features, Koga concepts), 1 better main photo (Chalmers). All Haiku skips and unsures were right to stay out (demolished, empty lead, aerial or interior photos only); no rescues. Borderline if the full lead confirms a prize: Medborgarhuset Örebro, Televerket Farsta."
+}

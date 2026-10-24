@@ -34541,5 +34541,487 @@
    "File:Carl Hårleman - Uppsala University Library at Gustavianum. Wall elevations of the southern library room - NMH THC 1372 - Nationalmuseum.jpg",
    "File:Carl Hårleman - Uppsala University Library at Gustavianum. Wall elevation and moulding profiles - NMH THC 1373 - Nationalmuseum.jpg"
   ]
+ },
+ "gavle-krematorium": {
+  "category": "Category:Gävle krematorium",
+  "add": [
+   "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 5.jpg",
+   "File:Gävle kapellkrematorium.jpg"
+  ]
+ },
+ "studio-1": {
+  "category": "Category:Studio 1",
+  "add": [
+   "File:Studio 1 Orgryte Torp 04.jpg",
+   "File:Studio 1 Orgryte Torp 01.jpg",
+   "File:Studio 1 Orgryte Torp 02.jpg",
+   "File:Studio 1 Orgryte Torp 03.jpg"
+  ]
+ },
+ "allhuset-stockholms-universitet": {
+  "category": "Category:Allhuset, Stockholms universitet",
+  "add": [
+   "File:Allhuset Freskati 2010f.jpg",
+   "File:Allhuset Freskati 2010c.jpg",
+   "File:Allhuset Freskati 2010a.jpg"
+  ]
+ },
+ "chalmers-karhus": {
+  "category": "Category:Chalmers kårhus",
+  "add": [
+   "File:Chalmers kårhus.jpg",
+   "File:090627 Chalmers kårhus balkong.jpg",
+   "File:Samhällsbyggnad Chalmers, S4024355.jpg"
+  ],
+  "skip": [
+   "File:Samhällsbyggnad Chalmers, S4024355.jpg"
+  ]
+ },
+ "hyogo-performing-arts-center": {
+  "category": "Category:Hyogo Performing Arts Center",
+  "add": [
+   "File:Hyogo Performing Arts Center01n3200.jpg",
+   "File:Hyogo Performing Arts Center02s3s3200.jpg"
+  ],
+  "skip": [
+   "File:「蝶々夫人」.jpg",
+   "File:Hyogo Performing Arts Center night.jpg"
+  ]
+ },
+ "koga-history-museum": {
+  "category": "Category:Koga History Museum",
+  "add": [
+   "File:Koga History Museum 01.JPG",
+   "File:Koga History Museum 02.JPG"
+  ],
+  "skip": [
+   "File:Koga History Museum N01.JPG"
+  ]
+ },
+ "seto-inland-sea-folk-history-museum": {
+  "category": "Category:Seto Inland Sea Folk History Museum",
+  "add": [
+   "File:Gosikidai31.jpg",
+   "File:Japan Goshikidai 瀬戸内海歴史民俗資料館（１）.jpg"
+  ]
+ },
+ "sano-city-museum": {
+  "category": "Category:Sano City Museum",
+  "add": [
+   "File:Sano City Museum.jpg"
+  ]
+ },
+ "shinjuku-mitsui-building": {
+  "category": "Category:Shinjuku Mitsui Building",
+  "add": [
+   "File:Shinjuku Mitsui Building 2009 02.jpg",
+   "File:Shinjuku Mitsui Building, 2026.jpg"
+  ]
+ },
+ "bibracte-museum": {
+  "category": "Category:Musée de la civilisation celtique de Bibracte",
+  "add": [
+   "File:Musée de Bibracte 02.jpg"
+  ],
+  "skip": [
+   "File:Musée de Bibracte 01.jpg"
+  ]
+ },
+ "auditorio-alfredo-kraus": {
+  "category": "Category:Auditorio Alfredo Kraus y Palacio de Congresos de Canarias",
+  "add": [
+   "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg",
+   "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg"
+  ]
+ },
+ "okayama-orient-museum": {
+  "category": "Category:Okayama Orient Museum",
+  "add": [
+   "File:160319 Okayama Orient Museum Okayama Japan02n.jpg",
+   "File:160319 Okayama Orient Museum Okayama Japan01n.jpg"
+  ],
+  "skip": [
+   "File:Assyrian relief - Okayama Orient Museum - DSC01754.JPG"
+  ]
+ },
+ "central-termica-de-la-ciudad-universitaria-de-madrid": {
+  "category": "Category:Heating plant of Ciudad Universitaria de Madrid",
+  "add": [
+   "File:Central térmica de la Ciudad Universitaria de Madrid 1.jpg",
+   "File:Central térmica de la Ciudad Universitaria de Madrid 2.jpg"
+  ]
+ },
+ "escuela-de-artes-y-oficios-de-algeciras": {
+  "category": "Category:Escuela de Artes y Oficios de Algeciras",
+  "add": [
+   "File:Artes y oficios, Algeciras.jpg",
+   "File:Escuela de Artes Algeciras 01.jpg"
+  ]
+ },
+ "estacion-de-autobuses-de-cordoba": {
+  "category": "Category:Bus station of Córdoba, Spain",
+  "add": [
+   "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg"
+  ],
+  "skip": [
+   "File:Estación de Autobuses de Córdoba 005.jpg"
+  ]
+ },
+ "15-clerkenwell-close": {
+  "category": "Category:15 Clerkenwell Close",
+  "add": [
+   "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6029656 cropped).jpg",
+   "File:15 Clerkenwell Close 2025-02-04.jpg"
+  ]
+ },
+ "passerelle-leopold-sedar-senghor": {
+  "category": "Category:Passerelle Léopold-Sédar-Senghor",
+  "add": [
+   "File:Passerelle Solferino Paris FRA 002.jpg",
+   "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg"
+  ],
+  "skip": [
+   "File:The Seine River on a cloudy day. Paris.jpg",
+   "File:5 janvier gilets jaunes 5.jpg",
+   "File:Paris Solferino (100438343).jpeg"
+  ]
+ },
+ "art-museum-library-ota": {
+  "category": "Category:Art Museum & Library, Ota",
+  "add": [
+   "File:Art Museum & Library, Ota ac (2).jpg",
+   "File:Art-Museum&Library,Ota-2017092402.jpg"
+  ]
+ },
+ "mori-butai": {
+  "category": "Category:Mori Butai",
+  "add": [
+   "File:Moributai,Tome.jpg",
+   "File:Mori stage front,Tome.jpg"
+  ]
+ },
+ "theatre-royal-plymouth": {
+  "category": "Category:Theatre Royal, Plymouth",
+  "add": [
+   "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg"
+  ],
+  "skip": [
+   "File:Théâtre royal, Plymouth. (La Cigale, from the Lyric Théâtre London) - affiche - non identifié - btv1b90033008.jpg"
+  ]
+ },
+ "twenty-six-martyrs-museum-and-monument": {
+  "category": "Category:Twenty-six Martyrs of Japan Memorial and Museum (Nagasaki)",
+  "add": [
+   "File:26 Martyrs Shrine and Museum and St. Phillip Church.jpg",
+   "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 00 200000.jpeg",
+   "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 09 133000.jpeg"
+  ],
+  "skip": [
+   "File:InteriorStPhillipNagasaki.jpg",
+   "File:St.PhillipChurchInterior.jpg"
+  ]
+ },
+ "rudolf-steinerseminariet": {
+  "category": "Category:Rudolf Steinerseminariet",
+  "add": [
+   "File:Kulturhuset i Ytterjärna Södertälje.jpg",
+   "File:Rudolf Steinerseminariet, Järna, 2019a.jpg",
+   "File:Kulturcentrum, Järna, 2019a.jpg"
+  ]
+ },
+ "kenwood-house": {
+  "category": "Category:Kenwood House",
+  "add": [
+   "File:Hampstead Heath , Kenwood House - geograph.org.uk - 7691885.jpg",
+   "File:Kenwood House North Facade.jpg",
+   "File:1379242 I KENWOOD HOUSE, from N Camden London 20250612 0001.jpg"
+  ],
+  "skip": [
+   "File:1860 French jet hair combs (25064609927).jpg",
+   "File:Antique armchair (40401778062).jpg",
+   "File:Miniature paintings of children (39848864352).jpg"
+  ]
+ },
+ "museum-of-the-republic-of-north-macedonia": {
+  "category": "Category:Museum of Macedonia, Skopje",
+  "add": [
+   "File:Museum of the Republic of Macedonia 3.jpg",
+   "File:Museum of the Republic of Macedonia 2.jpg",
+   "File:Museum of Macedonia (28458705467).jpg"
+  ],
+  "skip": [
+   "File:Kurshumli-An-Skopje-MK.JPG",
+   "File:The Paeonian Priestess before Columns of the Archaeological Museum of North Macedonia, Skopje.jpg"
+  ]
+ },
+ "historisches-museum-saar": {
+  "category": "Category:Historisches Museum Saar",
+  "add": [
+   "File:Historisches Museum Saar Saarbruecken 01.jpg"
+  ],
+  "skip": [
+   "File:20200212Hanweiler Glocke1.jpg",
+   "File:20200212Hanweiler Glocke2.jpg"
+  ]
+ },
+ "rietveld-pavilion": {
+  "category": "Category:Rietveld Pavillion",
+  "add": [
+   "File:Overzicht galerij aan de achter zijde en rechterzijde - Otterlo - 20357472 - RCE.jpg",
+   "File:Rietveld Schroder Huis Kroller Muller Museum Otterlo, Holland - panoramio.jpg"
+  ]
+ },
+ "aldo-van-eyck-pavilion": {
+  "category": "Category:Aldo van Eyckpavillion",
+  "add": [
+   "File:Aldo van Eyck Pavillion.JPG",
+   "File:Aldo van Eyckpaviljoen 01.jpg"
+  ]
+ },
+ "national-institute-for-technical-education-leuven": {
+  "category": "Category:Diestsestraat 49, Rijschoolstraat 4, Leuven",
+  "add": [
+   "File:Rijschoolstraat 4 (Leuven).jpg",
+   "File:De technische school Van de Velde , ext., gevelzicht - 354894 - onroerenderfgoed.jpg"
+  ],
+  "skip": [
+   "File:Indoor AED at library Leuven.jpg"
+  ]
+ },
+ "riverside-art-museum": {
+  "category": "Category:Riverside Art Museum",
+  "add": [
+   "File:RiversideArtMuseum20090821g.JPG",
+   "File:Old YWCA Building front faces south.JPG"
+  ]
+ },
+ "lake-suwa-museum": {
+  "add": [
+   "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg"
+  ],
+  "skip": [
+   "File:Ohouri-yashiki-ato, mon.jpg",
+   "File:Jinchoukan-Moriya-shiryoukan Oohouri-bosho-2.jpg",
+   "File:Jinchoukan-Moriya-shiryoukan Oohouri-bosho.JPG"
+  ]
+ },
+ "forum-building": {
+  "category": "Category:Forum Building",
+  "add": [
+   "File:Barcelona 2006 (2845523246).jpg",
+   "File:Edifici Fòrum Barcelona Catalonia.jpg",
+   "File:Barcelona 2006 (2845523526).jpg"
+  ]
+ },
+ "salerno-courthouse": {
+  "category": "Category:Cittadella giudiziaria (Salerno)",
+  "add": [
+   "File:Cittadellagiudiziaria1.JPG",
+   "File:CittadellagiudiziariaedificioAeB.JPG",
+   "File:Cittadella giudiziaria salerno.jpg"
+  ]
+ },
+ "chapel-of-st-basil": {
+  "category": "Category:Chapel of St. Basil, Houston",
+  "add": [
+   "File:2024-0105-Chapel of St. Basil west elevation.jpg",
+   "File:2024-0105-Chapel of St. Basil north elevation.jpg"
+  ],
+  "skip": [
+   "File:Houston Neartown banner.jpg"
+  ]
+ },
+ "procuradoria-geral-da-republica": {
+  "category": "Category:Procuradoria Geral da República (building)",
+  "add": [
+   "File:Webysther 20180212174501 - PGR - Procuradoria Geral da República.jpg",
+   "File:Sede da Procuradoria Geral da República Brasileira (Attorney General's Office), 2002.jpg",
+   "File:110423 brasilia - 10.jpg"
+  ]
+ },
+ "sankt-ursula-kalscheuren": {
+  "category": "Category:St. Ursula (Kalscheuren)",
+  "add": [
+   "File:St. Ursula Kalscheuren.jpg",
+   "File:St. Ursula, Hürth-Kalscheuren 2009-1.jpg",
+   "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg"
+  ],
+  "skip": [
+   "File:Huerth-Kalscheuren-Kirche-036.JPG"
+  ]
+ },
+ "obra-do-berco": {
+  "category": "Category:Obra do Berço",
+  "add": [
+   "File:Obra do Berço - Rio de Janeiro - 20230910163032.jpg",
+   "File:Obra do Berço - Rio de Janeiro - 20230910163201.jpg"
+  ]
+ },
+ "toyonokuni-libraries-for-cultural-resources": {
+  "category": "Category:Toyonokuni Libraries for Culture Resources",
+  "add": [
+   "File:Oita Prefectural Library ac (2).jpg",
+   "File:Oita Prefectural Library ac (3).jpg",
+   "File:Oita Prefectural Library ac (1).jpg"
+  ]
+ },
+ "shangyin-opera-house": {
+  "category": "Category:Shangyin Opera House",
+  "add": [
+   "File:Shangyin Opera House (20191021081912).jpg"
+  ]
+ },
+ "biblioteca-municipal-de-viana-do-castelo": {
+  "category": "Category:Biblioteca Municipal de Viana do Castelo",
+  "add": [
+   "File:Biblioteca Municipal de Viana do Castelo.jpg",
+   "File:Viana do Castelo Portugal.jpg",
+   "File:Biblioteca Municipal de Viana do Castelo in 2018.jpg"
+  ]
+ },
+ "casa-do-cantador": {
+  "category": "Category:Casa do Cantador",
+  "add": [
+   "File:Casa do Cantador.jpg",
+   "File:Ceilândia DF Brasil - Casa do Cantador - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Quadrilhas juninas movimentam a Casa do Cantador de Ceilândia (27295638074).jpg",
+   "File:Quadrilhas juninas movimentam a Casa do Cantador de Ceilândia (27295640014).jpg"
+  ]
+ },
+ "auditorium-del-parco": {
+  "category": "Category:Auditorium del Parco (L'Aquila)",
+  "add": [
+   "File:Auditorium del Parco, L'Aquila, Abruzzo, Italy - panoramio.jpg",
+   "File:L'Aquila-Auditorium del Parco 02.JPG",
+   "File:L'Aquila-Auditorium del Parco 03.JPG",
+   "File:L'Aquila-Auditorium del Parco 04.JPG"
+  ]
+ },
+ "nariwa-museum": {
+  "category": "Category:Nariwa-cho Art Museum",
+  "add": [
+   "File:Nariwa-cho museum01s4000m.jpg",
+   "File:Nariwa-cho museum03s3200.jpg",
+   "File:Nariwa-cho museum05s3200.jpg",
+   "File:Nariwa-cho museum04s3200.jpg"
+  ]
+ },
+ "museum-of-west-african-art": {
+  "add": [
+   "File:MOWAA June Site Visit Press Images B 03.jpg"
+  ],
+  "skip": [
+   "File:Roundel with Descent of the Damned (11162).jpg",
+   "File:Roundel with Martyrdom of Saint Jacobus Intercisus (11156).jpg",
+   "File:Roundel with Playing at Quintain (11166).jpg",
+   "File:The Cloisters - Gallery 1 - Romanesque Hall 01.jpg",
+   "File:Doorway and Staircase Enclosure MET DP102830.jpg",
+   "File:Section of a Border MET tr189-2009d1.jpg"
+  ]
+ },
+ "san-paolo-apostolo-foligno": {
+  "category": "Category:San Paolo Apostolo (Foligno)",
+  "add": [
+   "File:Foligno, San Paolo Apostolo 01.JPG",
+   "File:Foligno - Chiesa di San Paolo Apostolo - 001.JPG",
+   "File:Foligno - Chiesa di San Paolo Apostolo - 003.JPG"
+  ],
+  "skip": [
+   "File:San Paolo Apostolo in Foligno - Panorama.jpg",
+   "File:San Paolo Apostolo in Foligno - Panorama (edited).jpg"
+  ]
+ },
+ "ibm-studios": {
+  "category": "Category:IBM Studios",
+  "add": [
+   "File:Unicredit Pavilon.JPG",
+   "File:Milano - IBM Studios.jpg"
+  ]
+ },
+ "independence-hall-israel": {
+  "category": "Category:Independence Hall, Tel Aviv-Yafo",
+  "add": [
+   "File:Israel ind mus.JPG",
+   "File:Independence Hall - Israel.jpg"
+  ],
+  "skip": [
+   "File:Independence hall tel aviv under the portret of Theodor Hertzel.jpg"
+  ]
+ },
+ "domkyrkoforum": {
+  "category": "Category:Domkyrkoforum",
+  "add": [
+   "File:Domkyrkoforum Konsertsalen 02.JPG",
+   "File:20201101 Lunds domkyrka och Domkyrkoforum 1043 (50558788551).jpg",
+   "File:20210916 Domkyrkoforum Lund 02 (51486064990).jpg"
+  ]
+ },
+ "senate-palace-tehran": {
+  "category": "Category:Senate Palace (Tehran)",
+  "add": [
+   "File:Majlese sena 1.jpg",
+   "File:Iranian senate building.jpg",
+   "File:Senate Palace of Iran in Tehran.jpg"
+  ],
+  "skip": [
+   "File:CENTO in Senate Tehran.jpg",
+   "File:اص‍ول دوازده‌گ‍ان‍ه ان‍ق‍لاب ش‍اه و م‍ل‍ت - وزارت اطلاعات و جهانگردی (پشت جلد).jpg"
+  ]
+ },
+ "casa-de-victoria-ocampo": {
+  "category": "Category:Casa de Victoria Ocampo (Buenos Aires)",
+  "pick": [
+   [
+    "File:Casa de Victoria Ocampo, Palermo 03.jpg",
+    "Exterior"
+   ],
+   [
+    "File:La casa de Victoria Ocampo en Palermo Chico.jpg",
+    "Interior"
+   ],
+   [
+    "File:Casa de Victoria Ocampo, Palermo 01.jpg",
+    "Interior"
+   ],
+   [
+    "File:La escalera de Victoria.jpg",
+    "Interior"
+   ],
+   [
+    "File:AR-UTDT-AA-BA-PA-247 25.TIF",
+    "Plan"
+   ],
+   [
+    "File:AR-UTDT-AA-BA-PA-247 04.TIF",
+    "Elevation"
+   ]
+  ]
+ },
+ "plassen-cultural-centre": {
+  "category": "Category:Plassen kulturhus",
+  "add": [
+   "File:Molde bibliotek 15.08.2013 12-37-03.JPG"
+  ],
+  "skip": [
+   "File:Molde bibliotek Årets bok til alle-bibliotek 2015.jpg"
+  ]
+ },
+ "tikkurila-church": {
+  "category": "Category:Tikkurila Church (2021)",
+  "add": [
+   "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg",
+   "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg"
+  ],
+  "skip": [
+   "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 03.jpg"
+  ]
+ },
+ "vennesla-church": {
+  "category": "Category:Vennesla kirke",
+  "add": [
+   "File:Vennesla Kirke.jpg"
+  ]
  }
 }
