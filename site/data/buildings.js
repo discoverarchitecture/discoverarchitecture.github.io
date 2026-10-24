@@ -356080,7 +356080,59 @@ window.BUILDINGS = [
   "commons": "Category:Gävle krematorium",
   "lead": "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 5.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Kapell_och_krematorium%2C_Skogskyrkog%C3%A5rden%2C_G%C3%A4vle_vy_5.jpg/1280px-Kapell_och_krematorium%2C_Skogskyrkog%C3%A5rden%2C_G%C3%A4vle_vy_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gavle-krematorium/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapel and crematorium at Skogskyrkogården (official name in English: The Woodland Cemetery)",
+    "credit": "Tony Nordin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kapell_och_krematorium,_Skogskyrkog%C3%A5rden,_G%C3%A4vle_vy_5.jpg",
+    "file": "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/G%C3%A4vle_kapellkrematorium.jpg/1280px-G%C3%A4vle_kapellkrematorium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gavle-krematorium/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Gävle kapellkrematorium (Vall 11:1)",
+    "credit": "Sjatte",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%A4vle_kapellkrematorium.jpg",
+    "file": "File:Gävle kapellkrematorium.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Kapell_och_krematorium_Skogskyrkog%C3%A5rden_G%C3%A4vle_vy_2.jpg/1280px-Kapell_och_krematorium_Skogskyrkog%C3%A5rden_G%C3%A4vle_vy_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gavle-krematorium/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapel and crematorium at Skogskyrkogården (official name in English: The Woodland Cemetery)",
+    "credit": "Tony Nordin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kapell_och_krematorium_Skogskyrkog%C3%A5rden_G%C3%A4vle_vy_2.jpg",
+    "file": "File:Kapell och krematorium Skogskyrkogården Gävle vy 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kapell_och_krematorium%2C_Skogskyrkog%C3%A5rden%2C_G%C3%A4vle_vy_1.jpg/1280px-Kapell_och_krematorium%2C_Skogskyrkog%C3%A5rden%2C_G%C3%A4vle_vy_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/gavle-krematorium/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Chapel and crematorium at Skogskyrkogården (official name in English: The Woodland Cemetery)",
+    "credit": "Tony Nordin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kapell_och_krematorium,_Skogskyrkog%C3%A5rden,_G%C3%A4vle_vy_1.jpg",
+    "file": "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 1.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "studio-1",
@@ -356104,7 +356156,35 @@ window.BUILDINGS = [
   "commons": "Category:Studio 1",
   "lead": "File:Studio 1 Orgryte Torp 04.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Studio_1_Orgryte_Torp_01.jpg/1280px-Studio_1_Orgryte_Torp_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/studio-1/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Residential house Studio 1 in Örgryte Torp in Göteborg, Sweden",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Studio_1_Orgryte_Torp_01.jpg",
+    "file": "File:Studio 1 Orgryte Torp 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Studio_1_Orgryte_Torp_02.jpg/1280px-Studio_1_Orgryte_Torp_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/studio-1/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Residential house Studio 1 in Örgryte Torp in Göteborg, Sweden",
+    "credit": "Bengt Oberger",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Studio_1_Orgryte_Torp_02.jpg",
+    "file": "File:Studio 1 Orgryte Torp 02.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "allhuset-stockholms-universitet",
@@ -356128,7 +356208,83 @@ window.BUILDINGS = [
   "commons": "Category:Allhuset, Stockholms universitet",
   "lead": "File:Allhuset Freskati 2010f.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Allhuset_Freskati_2010a.jpg/1280px-Allhuset_Freskati_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allhuset-stockholms-universitet/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allhuset_Freskati_2010a.jpg",
+    "file": "File:Allhuset Freskati 2010a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Allhuset_Stockholms_universitet_2022-09-20_01.jpg/1280px-Allhuset_Stockholms_universitet_2022-09-20_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allhuset-stockholms-universitet/thumbs/1.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Exterior",
+    "caption": "Exterior · Allhuset building of the Stockholm University",
+    "credit": "Leonhard Lenz",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allhuset_Stockholms_universitet_2022-09-20_01.jpg",
+    "file": "File:Allhuset Stockholms universitet 2022-09-20 01.jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Stockholm_University-Allhuset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/allhuset-stockholms-universitet/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stockholm_University-Allhuset.jpg",
+    "file": "File:Stockholm University-Allhuset.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Table_behind_Rotunda_building%2C_Stockholm_University.jpg/1280px-Table_behind_Rotunda_building%2C_Stockholm_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allhuset-stockholms-universitet/thumbs/3.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · A table behind Rotunda building, Stockholm University",
+    "credit": "Cornelius Kibelka (WMDE)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Table_behind_Rotunda_building,_Stockholm_University.jpg",
+    "file": "File:Table behind Rotunda building, Stockholm University.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Allhuset_inne_2010a.jpg/1280px-Allhuset_inne_2010a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allhuset-stockholms-universitet/thumbs/4.webp",
+    "w": 1280,
+    "h": 943,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allhuset_inne_2010a.jpg",
+    "file": "File:Allhuset inne 2010a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Allhuset_inne_2010b.jpg/1280px-Allhuset_inne_2010b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/allhuset-stockholms-universitet/thumbs/5.webp",
+    "w": 1280,
+    "h": 941,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Allhuset_inne_2010b.jpg",
+    "file": "File:Allhuset inne 2010b.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "chalmers-karhus",
@@ -356152,7 +356308,59 @@ window.BUILDINGS = [
   "commons": "Category:Chalmers kårhus",
   "lead": "File:Chalmers kårhus.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Chalmers_k%C3%A5rhus.jpg/1280px-Chalmers_k%C3%A5rhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chalmers-karhus/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Chalmers kårhus, byggnadsår 2001",
+    "credit": "I99pema",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chalmers_k%C3%A5rhus.jpg",
+    "file": "File:Chalmers kårhus.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/090627_Chalmers_k%C3%A5rhus_balkong.jpg/1280px-090627_Chalmers_k%C3%A5rhus_balkong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chalmers-karhus/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Side of Chalmers kårhus with entrance and balcony",
+    "credit": "Fluff",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:090627_Chalmers_k%C3%A5rhus_balkong.jpg",
+    "file": "File:090627 Chalmers kårhus balkong.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Samh%C3%A4llsbyggnad_Chalmers%2C_S4024355.jpg/1280px-Samh%C3%A4llsbyggnad_Chalmers%2C_S4024355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chalmers-karhus/thumbs/2.webp",
+    "w": 1280,
+    "h": 821,
+    "kind": "Exterior",
+    "caption": "Exterior · Samhällsbyggnad Chalmers, S4024355",
+    "credit": "Andersreilund",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Samh%C3%A4llsbyggnad_Chalmers,_S4024355.jpg",
+    "file": "File:Samhällsbyggnad Chalmers, S4024355.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/090627_Chalmers_k%C3%A5rhus.jpg/1280px-090627_Chalmers_k%C3%A5rhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chalmers-karhus/thumbs/3.webp",
+    "w": 1280,
+    "h": 855,
+    "kind": "Exterior",
+    "caption": "Exterior · The front of Chalmers Kårhus, Gothenburg",
+    "credit": "Fluff",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:090627_Chalmers_k%C3%A5rhus.jpg",
+    "file": "File:090627 Chalmers kårhus.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "hyogo-performing-arts-center",
@@ -356176,7 +356384,71 @@ window.BUILDINGS = [
   "commons": "Category:Hyogo Performing Arts Center",
   "lead": "File:Hyogo Performing Arts Center01n3200.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Hyogo_Performing_Arts_Center01n3200.jpg/1280px-Hyogo_Performing_Arts_Center01n3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hyogo-performing-arts-center/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hyogo Performing Arts Center on Takamatsu Park in Nishinomiya , Hyogo prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyogo_Performing_Arts_Center01n3200.jpg",
+    "file": "File:Hyogo Performing Arts Center01n3200.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Hyogo_Performing_Arts_Center02s3s3200.jpg/1280px-Hyogo_Performing_Arts_Center02s3s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hyogo-performing-arts-center/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Hyogo Performing Arts Center on Takamatsu Park in Nishinomiya , Hyogo prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyogo_Performing_Arts_Center02s3s3200.jpg",
+    "file": "File:Hyogo Performing Arts Center02s3s3200.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%E3%80%8C%E8%9D%B6%E3%80%85%E5%A4%AB%E4%BA%BA%E3%80%8D.jpg/1280px-%E3%80%8C%E8%9D%B6%E3%80%85%E5%A4%AB%E4%BA%BA%E3%80%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hyogo-performing-arts-center/thumbs/2.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dolce-kojie",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E8%9D%B6%E3%80%85%E5%A4%AB%E4%BA%BA%E3%80%8D.jpg",
+    "file": "File:「蝶々夫人」.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyogo_Performing_Arts_Center_Grand_Hall.jpg/1280px-Hyogo_Performing_Arts_Center_Grand_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hyogo-performing-arts-center/thumbs/3.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyogo_Performing_Arts_Center_Grand_Hall.jpg",
+    "file": "File:Hyogo Performing Arts Center Grand Hall.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyogo_Performing_Arts_Center_night.jpg/1280px-Hyogo_Performing_Arts_Center_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/hyogo-performing-arts-center/thumbs/4.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Context",
+    "caption": "Context · Hyogo Performing Arts Center, at night",
+    "credit": "User:Poprishchin",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyogo_Performing_Arts_Center_night.jpg",
+    "file": "File:Hyogo Performing Arts Center night.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "koga-history-museum",
@@ -356200,7 +356472,59 @@ window.BUILDINGS = [
   "commons": "Category:Koga History Museum",
   "lead": "File:Koga History Museum 01.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Koga_History_Museum_01.JPG/1280px-Koga_History_Museum_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/koga-history-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Koga History Museum, Koga , Ibaraki , Japan",
+    "credit": "Hide-sp",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koga_History_Museum_01.JPG",
+    "file": "File:Koga History Museum 01.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Koga_History_Museum_02.JPG/1280px-Koga_History_Museum_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/koga-history-museum/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Koga History Museum, Koga , Ibaraki , Japan",
+    "credit": "Hide-sp",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koga_History_Museum_02.JPG",
+    "file": "File:Koga History Museum 02.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Memorial_museum_of_Takami_Senseki.jpg/1280px-Memorial_museum_of_Takami_Senseki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/koga-history-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Twilight2640",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Memorial_museum_of_Takami_Senseki.jpg",
+    "file": "File:Memorial museum of Takami Senseki.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Koga_History_Museum_N01.JPG/1280px-Koga_History_Museum_N01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/koga-history-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context · Street Organ (Koga History Museum), Koga , Ibaraki , Japan",
+    "credit": "Hide-sp",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koga_History_Museum_N01.JPG",
+    "file": "File:Koga History Museum N01.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "seto-inland-sea-folk-history-museum",
@@ -356224,7 +356548,47 @@ window.BUILDINGS = [
   "commons": "Category:Seto Inland Sea Folk History Museum",
   "lead": "File:Gosikidai31.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Gosikidai31.jpg/1280px-Gosikidai31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seto-inland-sea-folk-history-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 859,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dokudami",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gosikidai31.jpg",
+    "file": "File:Gosikidai31.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Japan_Goshikidai_%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%88%EF%BC%91%EF%BC%89.jpg/1280px-Japan_Goshikidai_%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%88%EF%BC%91%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seto-inland-sea-folk-history-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "やしまのお城",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Japan_Goshikidai_%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E6%AD%B4%E5%8F%B2%E6%B0%91%E4%BF%97%E8%B3%87%E6%96%99%E9%A4%A8%EF%BC%88%EF%BC%91%EF%BC%89.jpg",
+    "file": "File:Japan Goshikidai 瀬戸内海歴史民俗資料館（１）.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Gosikidai32.jpg/1280px-Gosikidai32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/seto-inland-sea-folk-history-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 240,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Dokudami",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gosikidai32.jpg",
+    "file": "File:Gosikidai32.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "sano-city-museum",
@@ -356248,7 +356612,23 @@ window.BUILDINGS = [
   "commons": "Category:Sano City Museum",
   "lead": "File:Sano City Museum.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Sano_City_Museum.jpg/1280px-Sano_City_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/sano-city-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "photo:  Qurren  (  talk  )       Taken with Canon IXY 10S (Digital IXUS 210)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sano_City_Museum.jpg",
+    "file": "File:Sano City Museum.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "shinjuku-mitsui-building",
@@ -356272,7 +356652,83 @@ window.BUILDINGS = [
   "commons": "Category:Shinjuku Mitsui Building",
   "lead": "File:Shinjuku Mitsui Building 2009 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Shinjuku_Mitsui_Building_2009_02.jpg/1280px-Shinjuku_Mitsui_Building_2009_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-mitsui-building/thumbs/0.webp",
+    "w": 1120,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Shinjuku Mitsui Building, Shinjyuku-ku Tokyo Japan, deshin by Mitsui Fudosan+Nihonsekkei in 1974",
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Mitsui_Building_2009_02.jpg",
+    "file": "File:Shinjuku Mitsui Building 2009 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Shinjuku_Mitsui_Building%2C_2026.jpg/1280px-Shinjuku_Mitsui_Building%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-mitsui-building/thumbs/1.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Shinjuku Mitsui Building from NS Building, 2026",
+    "credit": "Akonnchiroll",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Mitsui_Building,_2026.jpg",
+    "file": "File:Shinjuku Mitsui Building, 2026.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E4%B8%89%E4%BA%95%E5%A4%A7%E5%BB%88_%2815583555243%29.jpg/1280px-%E4%B8%89%E4%BA%95%E5%A4%A7%E5%BB%88_%2815583555243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-mitsui-building/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wei-Te Wong  from Taipei City, Taiwan, Republic of China",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E4%BA%95%E5%A4%A7%E5%BB%88_(15583555243).jpg",
+    "file": "File:三井大廈 (15583555243).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/%E4%B8%89%E4%BA%95%E5%A4%A7%E5%BB%88_%2816017279249%29.jpg/1280px-%E4%B8%89%E4%BA%95%E5%A4%A7%E5%BB%88_%2816017279249%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-mitsui-building/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Wei-Te Wong  from Taipei City, Taiwan, Republic of China",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E4%BA%95%E5%A4%A7%E5%BB%88_(16017279249).jpg",
+    "file": "File:三井大廈 (16017279249).jpg"
+   },
+   {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Ns_bldg_29f_north_%28cropped%29_-_Shinjuku_Sumitomo_Building_with_new_glass_atrium_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "thumb": "images/shinjuku-mitsui-building/thumbs/4.webp",
+    "w": 891,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "鋸香具師",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ns_bldg_29f_north_(cropped)_-_Shinjuku_Sumitomo_Building_with_new_glass_atrium_roof.jpg",
+    "file": "File:Ns bldg 29f north (cropped) - Shinjuku Sumitomo Building with new glass atrium roof.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Skyscrapers_in_Nishi-Shinjuku_-_Shinjuku_i-land_Tower%2C_Shinjuku_Mitsui_Building%2C_Shinjuku_Sumitomo_Building_-_view_from_Hyatt_Regency_Tokyo_Building_%282016-05-16_by_panayota_%40Pixabay_2190027%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/shinjuku-mitsui-building/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "panayota",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyscrapers_in_Nishi-Shinjuku_-_Shinjuku_i-land_Tower,_Shinjuku_Mitsui_Building,_Shinjuku_Sumitomo_Building_-_view_from_Hyatt_Regency_Tokyo_Building_(2016-05-16_by_panayota_@Pixabay_2190027).jpg",
+    "file": "File:Skyscrapers in Nishi-Shinjuku - Shinjuku i-land Tower, Shinjuku Mitsui Building, Shinjuku Sumitomo Building - view from Hyatt Regency Tokyo Building (2016-05-16 by panayota @Pixabay 2190027).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "bibracte-museum",
@@ -356296,7 +356752,73 @@ window.BUILDINGS = [
   "commons": "Category:Musée de la civilisation celtique de Bibracte",
   "lead": "File:Musée de Bibracte 02.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Mus%C3%A9e_de_Bibracte_02.jpg/1280px-Mus%C3%A9e_de_Bibracte_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibracte-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Musée de Bibracte",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_Bibracte_02.jpg",
+    "file": "File:Musée de Bibracte 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mus%C3%A9e_de_Bibracte_01.jpg/1280px-Mus%C3%A9e_de_Bibracte_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibracte-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Musée de Bibracte",
+    "credit": "FrDr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_Bibracte_01.jpg",
+    "file": "File:Musée de Bibracte 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Musee_de_Bibracte_-_01.jpg/1280px-Musee_de_Bibracte_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibracte-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Bibracte, Burgundy, FRANCE",
+    "credit": "Christophe.Finot",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Musee_de_Bibracte_-_01.jpg",
+    "file": "File:Musee de Bibracte - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Musee_de_Bibracte_-_Batiment.jpg/1280px-Musee_de_Bibracte_-_Batiment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibracte-museum/thumbs/3.webp",
+    "w": 1280,
+    "h": 667,
+    "kind": "Exterior",
+    "caption": "Exterior · Bibracte, Burgundy, FRANCE",
+    "credit": "Christophe.Finot",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Musee_de_Bibracte_-_Batiment.jpg",
+    "file": "File:Musee de Bibracte - Batiment.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Bibracte_Musee_Salle_des_maquettes.jpg/1280px-Bibracte_Musee_Salle_des_maquettes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/bibracte-museum/thumbs/4.webp",
+    "w": 1280,
+    "h": 770,
+    "kind": "Model",
+    "caption": "Model · La salle des maquettes met en comparaison plusieurs oppida (villes fortifiées) d'Europe",
+    "credit": "Bibracte5871",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bibracte_Musee_Salle_des_maquettes.jpg",
+    "file": "File:Bibracte Musee Salle des maquettes.jpg"
+   }
+  ],
+  "has": [
+   "Model"
+  ],
+  "gv": 3
  },
  {
   "id": "auditorio-alfredo-kraus",
@@ -356320,7 +356842,83 @@ window.BUILDINGS = [
   "commons": "Category:Auditorio Alfredo Kraus y Palacio de Congresos de Canarias",
   "lead": "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Alfredo_Kraus_auditorium_D81_5105_%2839597837581%29.jpg/1280px-Alfredo_Kraus_auditorium_D81_5105_%2839597837581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/0.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Auditorio Alfredo Kraus, Las Palmas, Gran Canaria, January 2018",
+    "credit": "Bengt Nyman  from Vaxholm, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfredo_Kraus_auditorium_D81_5105_(39597837581).jpg",
+    "file": "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Alfredo_Kraus_auditorium_D81_5108_%2838889644124%29.jpg/1280px-Alfredo_Kraus_auditorium_D81_5108_%2838889644124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/1.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Interior",
+    "caption": "Interior · Auditorio Alfredo Kraus, Las Palmas, Gran Canaria, January 2018",
+    "credit": "Bengt Nyman  from Vaxholm, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfredo_Kraus_auditorium_D81_5108_(38889644124).jpg",
+    "file": "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Auditorio_Alfredo_Kraus_01.jpg/1280px-Auditorio_Alfredo_Kraus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/2.webp",
+    "w": 1280,
+    "h": 1089,
+    "kind": "Exterior",
+    "caption": "Exterior · Haupteingangsfassade (Südseite) des Auditorio Alfredo Kraus in Las Palmas de Gran Canaria",
+    "credit": "Koppchen",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorio_Alfredo_Kraus_01.jpg",
+    "file": "File:Auditorio Alfredo Kraus 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Gran_Canaria_Alfredo_Kraus_Auditorio_2020-1.jpg/1280px-Gran_Canaria_Alfredo_Kraus_Auditorio_2020-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/3.webp",
+    "w": 1280,
+    "h": 719,
+    "kind": "Exterior",
+    "caption": "Exterior · Gran Canaria Alfredo Kraus Auditorio",
+    "credit": "Joergsam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gran_Canaria_Alfredo_Kraus_Auditorio_2020-1.jpg",
+    "file": "File:Gran Canaria Alfredo Kraus Auditorio 2020-1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Auditorio_Alfredo_Kraus_-_Detalle_-_panoramio.jpg/1280px-Auditorio_Alfredo_Kraus_-_Detalle_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/4.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Auditorio Alfredo Kraus - Detalle",
+    "credit": "Canarina",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Auditorio_Alfredo_Kraus_-_Detalle_-_panoramio.jpg",
+    "file": "File:Auditorio Alfredo Kraus - Detalle - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Alfredo_Kraus_auditorium_EM1B8988_%2825727372108%29.jpg/1280px-Alfredo_Kraus_auditorium_EM1B8988_%2825727372108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/5.webp",
+    "w": 1280,
+    "h": 828,
+    "kind": "Interior",
+    "caption": "Interior · Alfredo Kraus auditorium, Las Palmas, Gran Canaria, January 2018",
+    "credit": "Bengt Nyman  from Vaxholm, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfredo_Kraus_auditorium_EM1B8988_(25727372108).jpg",
+    "file": "File:Alfredo Kraus auditorium EM1B8988 (25727372108).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "okayama-orient-museum",
@@ -356344,7 +356942,83 @@ window.BUILDINGS = [
   "commons": "Category:Okayama Orient Museum",
   "lead": "File:160319 Okayama Orient Museum Okayama Japan02n.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg/1280px-160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/okayama-orient-museum/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Okayama_Orient_Museum in Okayama , Okayama prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:160319_Okayama_Orient_Museum_Okayama_Japan02n.jpg",
+    "file": "File:160319 Okayama Orient Museum Okayama Japan02n.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/160319_Okayama_Orient_Museum_Okayama_Japan01n.jpg/1280px-160319_Okayama_Orient_Museum_Okayama_Japan01n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/okayama-orient-museum/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Okayama_Orient_Museum in Okayama , Okayama prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:160319_Okayama_Orient_Museum_Okayama_Japan01n.jpg",
+    "file": "File:160319 Okayama Orient Museum Okayama Japan01n.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/160319_Okayama_Orient_Museum_Okayama_Japan04s3.jpg/1280px-160319_Okayama_Orient_Museum_Okayama_Japan04s3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/okayama-orient-museum/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Okayama_Orient_Museum in Okayama , Okayama prefecture , Japan",
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:160319_Okayama_Orient_Museum_Okayama_Japan04s3.jpg",
+    "file": "File:160319 Okayama Orient Museum Okayama Japan04s3.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Assyrian_relief_-_Okayama_Orient_Museum_-_DSC01754.JPG/1280px-Assyrian_relief_-_Okayama_Orient_Museum_-_DSC01754.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/okayama-orient-museum/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Assyrian_relief_-_Okayama_Orient_Museum_-_DSC01754.JPG",
+    "file": "File:Assyrian relief - Okayama Orient Museum - DSC01754.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Interior_view_-_Okayama_Orient_Museum_-_DSC01747.JPG/1280px-Interior_view_-_Okayama_Orient_Museum_-_DSC01747.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/okayama-orient-museum/thumbs/4.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "Daderot",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Interior_view_-_Okayama_Orient_Museum_-_DSC01747.JPG",
+    "file": "File:Interior view - Okayama Orient Museum - DSC01747.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E7%BE%8E%E8%A1%93%E9%A4%A8_by_takeokahp_-_panoramio.jpg/1280px-%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E7%BE%8E%E8%A1%93%E9%A4%A8_by_takeokahp_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/okayama-orient-museum/thumbs/5.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior",
+    "credit": "takeokahp",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%83%88%E7%BE%8E%E8%A1%93%E9%A4%A8_by_takeokahp_-_panoramio.jpg",
+    "file": "File:オリエント美術館 by takeokahp - panoramio.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "central-termica-de-la-ciudad-universitaria-de-madrid",
@@ -356368,7 +357042,35 @@ window.BUILDINGS = [
   "commons": "Category:Heating plant of Ciudad Universitaria de Madrid",
   "lead": "File:Central térmica de la Ciudad Universitaria de Madrid 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Central_t%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid_1.jpg/1280px-Central_t%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-termica-de-la-ciudad-universitaria-de-madrid/thumbs/0.webp",
+    "w": 1280,
+    "h": 725,
+    "kind": "Exterior",
+    "caption": "Exterior · Façade of the Heating Plant of Ciudad Universitaria in Madrid ( Spain )",
+    "credit": "Luis García ( Zaqarbal )",
+    "license": "CC BY-SA 3.0 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_t%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid_1.jpg",
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Central_t%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid_2.jpg/1280px-Central_t%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/central-termica-de-la-ciudad-universitaria-de-madrid/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Central térmica de Ciudad Universitaria de Madrid, España",
+    "credit": "Totemkin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Central_t%C3%A9rmica_de_la_Ciudad_Universitaria_de_Madrid_2.jpg",
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 2.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "escuela-de-artes-y-oficios-de-algeciras",
@@ -356392,7 +357094,59 @@ window.BUILDINGS = [
   "commons": "Category:Escuela de Artes y Oficios de Algeciras",
   "lead": "File:Artes y oficios, Algeciras.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Artes_y_oficios%2C_Algeciras.jpg/1280px-Artes_y_oficios%2C_Algeciras.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/escuela-de-artes-y-oficios-de-algeciras/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Escuela de Artes y Oficios de Algeciras, Andalucía, España",
+    "credit": "Falconaumanni",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Artes_y_oficios,_Algeciras.jpg",
+    "file": "File:Artes y oficios, Algeciras.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Escuela_de_Artes_Algeciras_01.jpg/1280px-Escuela_de_Artes_Algeciras_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/escuela-de-artes-y-oficios-de-algeciras/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Escuela de Artes y Oficios de Algeciras, España, tras su rehabilitación integral en 2019",
+    "credit": "Falconaumanni",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Escuela_de_Artes_Algeciras_01.jpg",
+    "file": "File:Escuela de Artes Algeciras 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Escuela_de_Artes_Algeciras_02.jpg/1280px-Escuela_de_Artes_Algeciras_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/escuela-de-artes-y-oficios-de-algeciras/thumbs/2.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Escuela de Artes y Oficios de Algeciras, España, tras su rehabilitación integral en 2019",
+    "credit": "Falconaumanni",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Escuela_de_Artes_Algeciras_02.jpg",
+    "file": "File:Escuela de Artes Algeciras 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Escuela_artes_y_oficios2.JPG/1280px-Escuela_artes_y_oficios2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/escuela-de-artes-y-oficios-de-algeciras/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Escuela de Artes y Oficios de Algeciras, Andalucía, España",
+    "credit": "user:falconaumanni \n CreativeCommons By-Sa 2.5  Esta obra está bajo una  licencia de Creative Common",
+    "license": "CC BY-SA 2.5 es",
+    "source": "https://commons.wikimedia.org/wiki/File:Escuela_artes_y_oficios2.JPG",
+    "file": "File:Escuela artes y oficios2.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "estacion-de-autobuses-de-cordoba",
@@ -356416,7 +357170,71 @@ window.BUILDINGS = [
   "commons": "Category:Bus station of Córdoba, Spain",
   "lead": "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Gare_Routi%C3%A8re_-_Cordoue_%28ES61%29_-_2023-04-30_-_1.jpg/1280px-Gare_Routi%C3%A8re_-_Cordoue_%28ES61%29_-_2023-04-30_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/estacion-de-autobuses-de-cordoba/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Gare routière de Cordoue",
+    "credit": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gare_Routi%C3%A8re_-_Cordoue_(ES61)_-_2023-04-30_-_1.jpg",
+    "file": "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_001.JPG/1280px-Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/estacion-de-autobuses-de-cordoba/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Estación de Autobuses de Córdoba (España)",
+    "credit": "Américo Toledano",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_001.JPG",
+    "file": "File:Estación de Autobuses de Córdoba 001.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_%28Espa%C3%B1a%29.JPG/1280px-Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_%28Espa%C3%B1a%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/estacion-de-autobuses-de-cordoba/thumbs/2.webp",
+    "w": 1280,
+    "h": 932,
+    "kind": "Exterior",
+    "caption": "Exterior · Estación de Autobuses de Córdoba (España)",
+    "credit": "Américo Toledano",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_(Espa%C3%B1a).JPG",
+    "file": "File:Estación de Autobuses de Córdoba (España).JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/C%C3%B3rdoba%2C_Estaci%C3%B3n_de_Autobuses.jpg/1280px-C%C3%B3rdoba%2C_Estaci%C3%B3n_de_Autobuses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/estacion-de-autobuses-de-cordoba/thumbs/3.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Felipillogr",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba,_Estaci%C3%B3n_de_Autobuses.jpg",
+    "file": "File:Córdoba, Estación de Autobuses.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_005.jpg/1280px-Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/estacion-de-autobuses-de-cordoba/thumbs/4.webp",
+    "w": 787,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Escultura en la estación de autobuses de Córdoba (Andalucía, España)",
+    "credit": "Américo Toledano",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_005.jpg",
+    "file": "File:Estación de Autobuses de Córdoba 005.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "15-clerkenwell-close",
@@ -356440,7 +357258,59 @@ window.BUILDINGS = [
   "commons": "Category:15 Clerkenwell Close",
   "lead": "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6029656 cropped).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/15_Clerkenwell_Close%2C_Clerkenwell%2C_London_%28geograph_6029656_cropped%29.jpg/1280px-15_Clerkenwell_Close%2C_Clerkenwell%2C_London_%28geograph_6029656_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/15-clerkenwell-close/thumbs/0.webp",
+    "w": 1267,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 15 Clerkenwell Close, Clerkenwell, London",
+    "credit": "Chris Wood ( User:chris_j_wood )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:15_Clerkenwell_Close,_Clerkenwell,_London_(geograph_6029656_cropped).jpg",
+    "file": "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6029656 cropped).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/15_Clerkenwell_Close_2025-02-04.jpg/1280px-15_Clerkenwell_Close_2025-02-04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/15-clerkenwell-close/thumbs/1.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Matt Brown",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:15_Clerkenwell_Close_2025-02-04.jpg",
+    "file": "File:15 Clerkenwell Close 2025-02-04.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/15_Clerkenwell_Close%2C_Clerkenwell%2C_London_%28geograph_6018839%29.jpg/1280px-15_Clerkenwell_Close%2C_Clerkenwell%2C_London_%28geograph_6018839%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/15-clerkenwell-close/thumbs/2.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 15 Clerkenwell Close, Clerkenwell, London",
+    "credit": "Chris Wood ( User:chris_j_wood )",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:15_Clerkenwell_Close,_Clerkenwell,_London_(geograph_6018839).jpg",
+    "file": "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6018839).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/15_Clerkenwell_Close%2C_Clerkenwell%2C_March_2022.jpg/1280px-15_Clerkenwell_Close%2C_Clerkenwell%2C_March_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/15-clerkenwell-close/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 15 Clerkenwell Close, Clerkenwell",
+    "credit": "No Swan So Fine",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:15_Clerkenwell_Close,_Clerkenwell,_March_2022.jpg",
+    "file": "File:15 Clerkenwell Close, Clerkenwell, March 2022.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "passerelle-leopold-sedar-senghor",
@@ -356464,7 +357334,83 @@ window.BUILDINGS = [
   "commons": "Category:Passerelle Léopold-Sédar-Senghor",
   "lead": "File:Passerelle Solferino Paris FRA 002.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Passerelle_Solferino_Paris_FRA_002.jpg/1280px-Passerelle_Solferino_Paris_FRA_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Passerelle Solférino(Paris, France)",
+    "credit": "ignis",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Passerelle_Solferino_Paris_FRA_002.jpg",
+    "file": "File:Passerelle Solferino Paris FRA 002.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor%2C_Paris_17_May_2022.jpg/1280px-Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor%2C_Paris_17_May_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Passerelle Léopold-Sédar-Senghor, Paris",
+    "credit": "Michael Gaylard  from Horsham, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Passerelle_L%C3%A9opold-S%C3%A9dar-Senghor,_Paris_17_May_2022.jpg",
+    "file": "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Seine_River_on_a_cloudy_day._Paris.jpg/1280px-The_Seine_River_on_a_cloudy_day._Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/2.webp",
+    "w": 1280,
+    "h": 386,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ввласенко",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Seine_River_on_a_cloudy_day._Paris.jpg",
+    "file": "File:The Seine River on a cloudy day. Paris.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/5_janvier_gilets_jaunes_5.jpg/1280px-5_janvier_gilets_jaunes_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · La passerelle Senghor gardée par les CRS pour empêcher les gilets jaunes de traverser la Seine",
+    "credit": "Thomon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:5_janvier_gilets_jaunes_5.jpg",
+    "file": "File:5 janvier gilets jaunes 5.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Passerelle_%282372013465%29.jpg/1280px-Passerelle_%282372013465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/4.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Context",
+    "caption": "Context · Passerelle",
+    "credit": "h2v  from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Passerelle_(2372013465).jpg",
+    "file": "File:Passerelle (2372013465).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Paris_Solferino_%28100438343%29.jpeg/1280px-Paris_Solferino_%28100438343%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/5.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Vincent Anderlucci",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_Solferino_(100438343).jpeg",
+    "file": "File:Paris Solferino (100438343).jpeg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "art-museum-library-ota",
@@ -356488,7 +357434,71 @@ window.BUILDINGS = [
   "commons": "Category:Art Museum & Library, Ota",
   "lead": "File:Art Museum & Library, Ota ac (2).jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Art_Museum_%26_Library%2C_Ota_ac_%282%29.jpg/1280px-Art_Museum_%26_Library%2C_Ota_ac_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/art-museum-library-ota/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art_Museum_%26_Library,_Ota_ac_(2).jpg",
+    "file": "File:Art Museum & Library, Ota ac (2).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Art-Museum%26Library%2COta-2017092402.jpg/1280px-Art-Museum%26Library%2COta-2017092402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/art-museum-library-ota/thumbs/1.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · ART MUSEUM & LIBRARY, OTA located in Ota, Gunma, Japan",
+    "credit": "Hasec",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art-Museum%26Library,Ota-2017092402.jpg",
+    "file": "File:Art-Museum&Library,Ota-2017092402.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Art_Museum_%26_Library%2C_Ota_ac_%281%29.jpg/1280px-Art_Museum_%26_Library%2C_Ota_ac_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/art-museum-library-ota/thumbs/2.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art_Museum_%26_Library,_Ota_ac_(1).jpg",
+    "file": "File:Art Museum & Library, Ota ac (1).jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Art-Museum%26Library%2COta-2017092401.jpg/1280px-Art-Museum%26Library%2COta-2017092401.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/art-museum-library-ota/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · East entrance of the ART MUSEUM & LIBRARY, OTA located in Ota, Gunma, Japan",
+    "credit": "Hasec",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Art-Museum%26Library,Ota-2017092401.jpg",
+    "file": "File:Art-Museum&Library,Ota-2017092401.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8_%E7%BE%A4%E9%A6%AC%E7%9C%8C_Nov_23%2C_2025.jpg/1280px-%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8_%E7%BE%A4%E9%A6%AC%E7%9C%8C_Nov_23%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/art-museum-library-ota/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Art Museum & Library, Ota, Gunma prefecture, Japan",
+    "credit": "Ryo FUKAsawa",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E7%94%B0%E5%B8%82%E7%BE%8E%E8%A1%93%E9%A4%A8%E3%83%BB%E5%9B%B3%E6%9B%B8%E9%A4%A8_%E7%BE%A4%E9%A6%AC%E7%9C%8C_Nov_23,_2025.jpg",
+    "file": "File:太田市美術館・図書館 群馬県 Nov 23, 2025.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "mori-butai",
@@ -356512,7 +357522,35 @@ window.BUILDINGS = [
   "commons": "Category:Mori Butai",
   "lead": "File:Moributai,Tome.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Moributai%2CTome.jpg/1280px-Moributai%2CTome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mori-butai/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ty19080914",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Moributai,Tome.jpg",
+    "file": "File:Moributai,Tome.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mori_stage_front%2CTome.jpg/1280px-Mori_stage_front%2CTome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/mori-butai/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Ty19080914",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mori_stage_front,Tome.jpg",
+    "file": "File:Mori stage front,Tome.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "theatre-royal-plymouth",
@@ -356536,7 +357574,59 @@ window.BUILDINGS = [
   "commons": "Category:Theatre Royal, Plymouth",
   "lead": "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Theatre_Royal_-_Plymouth_-_geograph.org.uk_-_1839564.jpg/1280px-The_Theatre_Royal_-_Plymouth_-_geograph.org.uk_-_1839564.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-royal-plymouth/thumbs/0.webp",
+    "w": 1280,
+    "h": 850,
+    "kind": "Exterior",
+    "caption": "Exterior · The Theatre Royal - Plymouth",
+    "credit": "Mick Lobb",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Theatre_Royal_-_Plymouth_-_geograph.org.uk_-_1839564.jpg",
+    "file": "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Th%C3%A9%C3%A2tre_royal%2C_Plymouth._%28La_Cigale%2C_from_the_Lyric_Th%C3%A9%C3%A2tre_London%29_-_affiche_-_non_identifi%C3%A9_-_btv1b90033008.jpg/1280px-Th%C3%A9%C3%A2tre_royal%2C_Plymouth._%28La_Cigale%2C_from_the_Lyric_Th%C3%A9%C3%A2tre_London%29_-_affiche_-_non_identifi%C3%A9_-_btv1b90033008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-royal-plymouth/thumbs/1.webp",
+    "w": 964,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · Sujet : Théâtre Affiche Langue : anglais Éditeur : [s.n.] [David Allen et Sons] ([Londres])",
+    "credit": "Bibliothèque nationale de France",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_royal,_Plymouth._(La_Cigale,_from_the_Lyric_Th%C3%A9%C3%A2tre_London)_-_affiche_-_non_identifi%C3%A9_-_btv1b90033008.jpg",
+    "file": "File:Théâtre royal, Plymouth. (La Cigale, from the Lyric Théâtre London) - affiche - non identifié - btv1b90033008.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Royal_Parade_from_Derry%27s_Cross%2C_Plymouth%2C_Devon_-_November_2023.jpg/1280px-Royal_Parade_from_Derry%27s_Cross%2C_Plymouth%2C_Devon_-_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-royal-plymouth/thumbs/2.webp",
+    "w": 1280,
+    "h": 882,
+    "kind": "Exterior",
+    "caption": "Exterior · Royal Parade from Derry's Cross, Plymouth, Devon - November 2023",
+    "credit": "Mutney",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Parade_from_Derry%27s_Cross,_Plymouth,_Devon_-_November_2023.jpg",
+    "file": "File:Royal Parade from Derry's Cross, Plymouth, Devon - November 2023.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Theatre_Royal%2C_Plymouth.jpg/1280px-Theatre_Royal%2C_Plymouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/theatre-royal-plymouth/thumbs/3.webp",
+    "w": 1280,
+    "h": 841,
+    "kind": "Exterior",
+    "caption": "Exterior · Theatre Royal Plymouth main entrance",
+    "credit": "painma",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Theatre_Royal,_Plymouth.jpg",
+    "file": "File:Theatre Royal, Plymouth.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "twenty-six-martyrs-museum-and-monument",
@@ -356560,7 +357650,83 @@ window.BUILDINGS = [
   "commons": "Category:Twenty-six Martyrs of Japan Memorial and Museum (Nagasaki)",
   "lead": "File:26 Martyrs Shrine and Museum and St. Phillip Church.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/26_Martyrs_Shrine_and_Museum_and_St._Phillip_Church.jpg/1280px-26_Martyrs_Shrine_and_Museum_and_St._Phillip_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/0.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Exterior",
+    "caption": "Exterior · Wide angle shot of the 26 Martyrs Shrine and St",
+    "credit": "BigCheddah",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:26_Martyrs_Shrine_and_Museum_and_St._Phillip_Church.jpg",
+    "file": "File:26 Martyrs Shrine and Museum and St. Phillip Church.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Twenty-Six_Martyrs_Museum_and_Monument_March_27_2022_various_17_37_00_200000.jpeg/1280px-Twenty-Six_Martyrs_Museum_and_Monument_March_27_2022_various_17_37_00_200000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Twenty-Six_Martyrs_Museum_and_Monument_March_27_2022_various_17_37_00_200000.jpeg",
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 00 200000.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Twenty-Six_Martyrs_Museum_and_Monument_March_27_2022_various_17_37_09_133000.jpeg/1280px-Twenty-Six_Martyrs_Museum_and_Monument_March_27_2022_various_17_37_09_133000.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Nesnad",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Twenty-Six_Martyrs_Museum_and_Monument_March_27_2022_various_17_37_09_133000.jpeg",
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 09 133000.jpeg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/20190202_Twenty-Six_Martyrs_Museum.jpg/1280px-20190202_Twenty-Six_Martyrs_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · The Twenty-Six Martyrs Museum in Nagasaki",
+    "credit": "Balon Greyjoy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:20190202_Twenty-Six_Martyrs_Museum.jpg",
+    "file": "File:20190202 Twenty-Six Martyrs Museum.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/InteriorStPhillipNagasaki.jpg/1280px-InteriorStPhillipNagasaki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/4.webp",
+    "w": 931,
+    "h": 1400,
+    "kind": "Interior",
+    "caption": "Interior · Interior of St",
+    "credit": "BigCheddah",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:InteriorStPhillipNagasaki.jpg",
+    "file": "File:InteriorStPhillipNagasaki.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/St.PhillipChurchInterior.jpg/1280px-St.PhillipChurchInterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/5.webp",
+    "w": 1280,
+    "h": 852,
+    "kind": "Interior",
+    "caption": "Interior · The interior of St",
+    "credit": "BigCheddah",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St.PhillipChurchInterior.jpg",
+    "file": "File:St.PhillipChurchInterior.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "rudolf-steinerseminariet",
@@ -356584,6 +357750,70 @@ window.BUILDINGS = [
   "commons": "Category:Rudolf Steinerseminariet",
   "lead": "File:Kulturhuset i Ytterjärna Södertälje.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kulturhuset_i_Ytterj%C3%A4rna_S%C3%B6dert%C3%A4lje.jpg/1280px-Kulturhuset_i_Ytterj%C3%A4rna_S%C3%B6dert%C3%A4lje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudolf-steinerseminariet/thumbs/0.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kulturhuset_i_Ytterj%C3%A4rna_S%C3%B6dert%C3%A4lje.jpg",
+    "file": "File:Kulturhuset i Ytterjärna Södertälje.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Rudolf_Steinerseminariet%2C_J%C3%A4rna%2C_2019a.jpg/1280px-Rudolf_Steinerseminariet%2C_J%C3%A4rna%2C_2019a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudolf-steinerseminariet/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Rudolf Steinerseminariet, Järna och Kulturcentrum, Järna, Ytterjärna, Södertälje, Södermanland",
+    "credit": "Bysmon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rudolf_Steinerseminariet,_J%C3%A4rna,_2019a.jpg",
+    "file": "File:Rudolf Steinerseminariet, Järna, 2019a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kulturcentrum%2C_J%C3%A4rna%2C_2019a.jpg/1280px-Kulturcentrum%2C_J%C3%A4rna%2C_2019a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudolf-steinerseminariet/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Rudolf Steinerseminariet, Järna och Kulturcentrum, Järna, Ytterjärna, Södertälje, Södermanland",
+    "credit": "Bysmon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kulturcentrum,_J%C3%A4rna,_2019a.jpg",
+    "file": "File:Kulturcentrum, Järna, 2019a.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Kulturcentrum%2C_J%C3%A4rna%2C_2019b.jpg/1280px-Kulturcentrum%2C_J%C3%A4rna%2C_2019b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudolf-steinerseminariet/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Rudolf Steinerseminariet, Järna och Kulturcentrum, Järna, Ytterjärna, Södertälje, Södermanland",
+    "credit": "Bysmon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kulturcentrum,_J%C3%A4rna,_2019b.jpg",
+    "file": "File:Kulturcentrum, Järna, 2019b.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2012.11.12_Ytterj%C3%A4rna_Kulturhuset.JPG/1280px-2012.11.12_Ytterj%C3%A4rna_Kulturhuset.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/rudolf-steinerseminariet/thumbs/4.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Interior",
+    "caption": "Interior · Culture house hall in Ytterjärna",
+    "credit": "Sigurdas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012.11.12_Ytterj%C3%A4rna_Kulturhuset.JPG",
+    "file": "File:2012.11.12 Ytterjärna Kulturhuset.JPG"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
