@@ -1,0 +1,930 @@
+[
+ {
+  "name": "3XN",
+  "page": "https://findgreatarchitecture.com/architects/3xn/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Kim Herforth Nielsen",
+   "Hans Peter Svendler Nielsen",
+   "Lars Frank Nielsen"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Architecture-Studio",
+  "page": "https://findgreatarchitecture.com/architects/architecture-studio/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Architectus",
+  "page": "https://findgreatarchitecture.com/architects/architectus/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Aris Konstantinidis",
+  "page": "https://findgreatarchitecture.com/architects/aris-konstantinidis/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only his signature; the Wikipedia lead image is a museum entrance."
+  ]
+ },
+ {
+  "name": "Arthur Erickson",
+  "page": "https://findgreatarchitecture.com/architects/arthur-erickson/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings; no portrait."
+  ]
+ },
+ {
+  "name": "Artur Tarkhanyan",
+  "page": "https://findgreatarchitecture.com/architects/artur-tarkhanyan/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Arup",
+  "page": "https://findgreatarchitecture.com/architects/arup/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Ove Arup"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Ashton Raggatt McDougall",
+  "page": "https://findgreatarchitecture.com/architects/ashton-raggatt-mcdougall/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Stephen Ashton",
+   "Howard Raggatt",
+   "Ian McDougall"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Basil Spence",
+  "page": "https://findgreatarchitecture.com/architects/basil-spence/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only bronze busts by Epstein (CC0, File:Basil Spence by Jacob Epstein 01.jpg); a sculpture, not used."
+  ]
+ },
+ {
+  "name": "Behnisch & Partner",
+  "page": "https://findgreatarchitecture.com/architects/behnisch-and-partner/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Günter Behnisch"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Behnisch Architekten",
+  "page": "https://findgreatarchitecture.com/architects/behnisch-architekten/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Stefan Behnisch"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Berthold Lubetkin and Tecton",
+  "page": "https://findgreatarchitecture.com/architects/berthold-lubetkin-and-tecton/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Berthold Lubetkin",
+  "page": "https://findgreatarchitecture.com/architects/berthold-lubetkin/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "BIG",
+  "page": "https://findgreatarchitecture.com/architects/big/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Bjarke Ingels"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Brinkman & Van der Vlugt",
+  "page": "https://findgreatarchitecture.com/architects/brinkman-and-van-der-vlugt/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Chamberlin, Powell and Bon",
+  "page": "https://findgreatarchitecture.com/architects/chamberlin-powell-and-bon/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Christoph Ingenhoven",
+  "page": "https://findgreatarchitecture.com/architects/christoph-ingenhoven/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Coop Himmelb(l)au",
+  "page": "https://findgreatarchitecture.com/architects/coop-himmelblau/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Denton Corker Marshall",
+  "page": "https://findgreatarchitecture.com/architects/denton-corker-marshall/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "John Denton",
+   "Bill Corker",
+   "Barrie Marshall"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Diller Scofidio + Renfro",
+  "page": "https://findgreatarchitecture.com/architects/diller-scofidio-renfro/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "DP Architects",
+  "page": "https://findgreatarchitecture.com/architects/dp-architects/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "E. Stewart Williams",
+  "page": "https://findgreatarchitecture.com/architects/e-stewart-williams/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No Commons category, no Commons file of him, no infobox image on en.wikipedia."
+  ]
+ },
+ {
+  "name": "Enric Miralles",
+  "page": "https://findgreatarchitecture.com/architects/enric-miralles/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only group photos or a two-person photo with Benedetta Tagliabue (e.g. File:Enric Miralles i Benedetta Tagliabue (arquitectes).jpg, CC BY-SA 2.0)."
+  ]
+ },
+ {
+  "name": "Ernő Goldfinger",
+  "page": "https://findgreatarchitecture.com/architects/erno-goldfinger/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "Future Systems",
+  "page": "https://findgreatarchitecture.com/architects/future-systems/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Jan Kaplický",
+   "David Nixon"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Geoffrey Bawa",
+  "page": "https://findgreatarchitecture.com/architects/geoffrey-bawa/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Commons category has buildings and a model only."
+  ]
+ },
+ {
+  "name": "Gigon/Guyer",
+  "page": "https://findgreatarchitecture.com/architects/gigon-guyer/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "gmp Architekten",
+  "page": "https://findgreatarchitecture.com/architects/gmp-architekten/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Gordon Bunshaft",
+  "page": "https://findgreatarchitecture.com/architects/gordon-bunshaft/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings and his house; no portrait."
+  ]
+ },
+ {
+  "name": "Grafton Architects",
+  "page": "https://findgreatarchitecture.com/architects/grafton-architects/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Yvonne Farrell",
+   "Shelley McNamara"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Günther Domenig",
+  "page": "https://findgreatarchitecture.com/architects/gunther-domenig/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings and furniture."
+  ]
+ },
+ {
+  "name": "Helmut Jahn",
+  "page": "https://findgreatarchitecture.com/architects/helmut-jahn/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Warning: Commons 'Helmut Jahn' portrait files show a footballer of the same name (1942-43), not the architect. Only his desk otherwise."
+  ]
+ },
+ {
+  "name": "Henry N. Cobb",
+  "page": "https://findgreatarchitecture.com/architects/henry-n-cobb/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Candidate File:Henry Cobb (1).jpg (CC BY-SA 4.0, GSAPPstudent) is a lecture photo 'Anamnesis, by Henry N. Cobb with a response by Laurie Hawkinson'; can't tell it shows him alone. Reviewer to look."
+  ]
+ },
+ {
+  "name": "Herzog & de Meuron",
+  "page": "https://findgreatarchitecture.com/architects/herzog-and-de-meuron/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Jacques Herzog",
+   "Pierre de Meuron"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Hiroshi Hara",
+  "page": "https://findgreatarchitecture.com/architects/hiroshi-hara/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "J. Mayer H.",
+  "page": "https://findgreatarchitecture.com/architects/j-mayer-h/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Jürgen Mayer"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "John Andrews",
+  "page": "https://findgreatarchitecture.com/architects/john-andrews/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "John Lautner",
+  "page": "https://findgreatarchitecture.com/architects/john-lautner/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Jørn Utzon",
+  "page": "https://findgreatarchitecture.com/architects/jorn-utzon/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Commons category has no portrait; 'Jorn Utzon 2000 by Ole Haupt.jpg' (enwiki-linked) does not exist on Commons."
+  ]
+ },
+ {
+  "name": "Josef Paul Kleihues",
+  "page": "https://findgreatarchitecture.com/architects/josef-paul-kleihues/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings and his grave."
+  ]
+ },
+ {
+  "name": "Joseph Allen Stein",
+  "page": "https://findgreatarchitecture.com/architects/joseph-allen-stein/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait."
+  ]
+ },
+ {
+  "name": "Kashef Mahboob Chowdhury",
+  "page": "https://findgreatarchitecture.com/architects/kashef-mahboob-chowdhury/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "Kazuo Shinohara",
+  "page": "https://findgreatarchitecture.com/architects/kazuo-shinohara/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait."
+  ]
+ },
+ {
+  "name": "Kevin Roche John Dinkeloo and Associates",
+  "page": "https://findgreatarchitecture.com/architects/kevin-roche-john-dinkeloo-and-associates/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Kiyonori Kikutake",
+  "page": "https://findgreatarchitecture.com/architects/kiyonori-kikutake/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "Kunio Maekawa",
+  "page": "https://findgreatarchitecture.com/architects/kunio-maekawa/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only photos of his relocated house; no portrait on Commons."
+  ]
+ },
+ {
+  "name": "Lacaton & Vassal",
+  "page": "https://findgreatarchitecture.com/architects/lacaton-and-vassal/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Lundgaard & Tranberg",
+  "page": "https://findgreatarchitecture.com/architects/lundgaard-and-tranberg/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "MAD Architects",
+  "page": "https://findgreatarchitecture.com/architects/mad-architects/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Ma Yansong"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Mahendra Raj",
+  "page": "https://findgreatarchitecture.com/architects/mahendra-raj/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only a building photo; no portrait."
+  ]
+ },
+ {
+  "name": "Mansilla + Tuñón",
+  "page": "https://findgreatarchitecture.com/architects/mansilla-tunon/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Mario Roberto Álvarez",
+  "page": "https://findgreatarchitecture.com/architects/mario-roberto-alvarez/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Masato Otaka",
+  "page": "https://findgreatarchitecture.com/architects/masato-otaka/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "only File:Masato Otaka.jpg, which is an ambassador (namesake)"
+  ]
+ },
+ {
+  "name": "McKim, Mead & White",
+  "page": "https://findgreatarchitecture.com/architects/mckim-mead-and-white/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Mecanoo",
+  "page": "https://findgreatarchitecture.com/architects/mecanoo/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Michael Wilford",
+  "page": "https://findgreatarchitecture.com/architects/michael-wilford/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait; results show James Stirling and buildings."
+  ]
+ },
+ {
+  "name": "Morphosis",
+  "page": "https://findgreatarchitecture.com/architects/morphosis/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Thom Mayne"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "MVRDV",
+  "page": "https://findgreatarchitecture.com/architects/mvrdv/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Winy Maas",
+   "Jacob van Rijs",
+   "Nathalie de Vries"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Nayyar Ali Dada",
+  "page": "https://findgreatarchitecture.com/architects/nayyar-ali-dada/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Nicholas Grimshaw",
+  "page": "https://findgreatarchitecture.com/architects/nicholas-grimshaw/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only a painting of a different Nicholas Grimshaw (1757-1838)."
+  ]
+ },
+ {
+  "name": "Nieto Sobejano Arquitectos",
+  "page": "https://findgreatarchitecture.com/architects/nieto-sobejano-arquitectos/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Nikken Sekkei",
+  "page": "https://findgreatarchitecture.com/architects/nikken-sekkei/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "O'Donnell + Tuomey",
+  "page": "https://findgreatarchitecture.com/architects/o-donnell-tuomey/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Pietro Belluschi",
+  "page": "https://findgreatarchitecture.com/architects/pietro-belluschi/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "Populous",
+  "page": "https://findgreatarchitecture.com/architects/populous/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "RCR Arquitectes",
+  "page": "https://findgreatarchitecture.com/architects/rcr-arquitectes/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Rafael Aranda",
+   "Carme Pigem",
+   "Ramon Vilalta"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Ricardo Legorreta",
+  "page": "https://findgreatarchitecture.com/architects/ricardo-legorreta/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "Richard and Su Rogers",
+  "page": "https://findgreatarchitecture.com/architects/richard-and-su-rogers/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Robert Matthew",
+  "page": "https://findgreatarchitecture.com/architects/robert-matthew/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Rogelio Salmona",
+  "page": "https://findgreatarchitecture.com/architects/rogelio-salmona/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings; no portrait."
+  ]
+ },
+ {
+  "name": "Román Fresnedo Siri",
+  "page": "https://findgreatarchitecture.com/architects/roman-fresnedo-siri/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Roy Grounds",
+  "page": "https://findgreatarchitecture.com/architects/roy-grounds/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only File:SLNSW FL18959555.jpg (public domain, State Library NSW, 1953): him with his wife at home; two people, so not used. Reviewer could crop."
+  ]
+ },
+ {
+  "name": "Ryue Nishizawa",
+  "page": "https://findgreatarchitecture.com/architects/ryue-nishizawa/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only buildings."
+  ]
+ },
+ {
+  "name": "SANAA",
+  "page": "https://findgreatarchitecture.com/architects/sanaa/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Kazuyo Sejima",
+   "Ryue Nishizawa"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Sauerbruch Hutton",
+  "page": "https://findgreatarchitecture.com/architects/sauerbruch-hutton/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Matthias Sauerbruch",
+   "Louisa Hutton"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Schmidt Hammer Lassen",
+  "page": "https://findgreatarchitecture.com/architects/schmidt-hammer-lassen/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Morten Schmidt",
+   "Bjarne Hammer",
+   "John F. Lassen"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Sedad Hakkı Eldem",
+  "page": "https://findgreatarchitecture.com/architects/sedad-hakk-eldem/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only drawings of his buildings."
+  ]
+ },
+ {
+  "name": "Shin Takamatsu",
+  "page": "https://findgreatarchitecture.com/architects/shin-takamatsu/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Snøhetta",
+  "page": "https://findgreatarchitecture.com/architects/snohetta/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Kjetil Trædal Thorsen",
+   "Craig Dykers"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "SOM",
+  "page": "https://findgreatarchitecture.com/architects/som/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Louis Skidmore",
+   "Nathaniel A. Owings",
+   "John O. Merrill"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "Tezuka Architects",
+  "page": "https://findgreatarchitecture.com/architects/tezuka-architects/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Takaharu Tezuka",
+   "Yui Tezuka"
+  ],
+  "earlier_search": null
+ },
+ {
+  "name": "UNStudio",
+  "page": "https://findgreatarchitecture.com/architects/unstudio/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Van den Broek en Bakema",
+  "page": "https://findgreatarchitecture.com/architects/van-den-broek-en-bakema/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": [
+   "Jo van den Broek",
+   "Jaap Bakema"
+  ],
+  "earlier_search": [
+   "firm",
+   "Firm or partnership, not a single person"
+  ]
+ },
+ {
+  "name": "Vilanova Artigas",
+  "page": "https://findgreatarchitecture.com/architects/vilanova-artigas/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only a 1973 group photo (File:Visita ao Parque Cecap Guarulhos (1973).jpg, public domain) where he stands in profile; not suitable."
+  ]
+ },
+ {
+  "name": "Walter Netsch",
+  "page": "https://findgreatarchitecture.com/architects/walter-netsch/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "Only a photo of his grave (File:Netsch (34098997414).jpg)."
+  ]
+ },
+ {
+  "name": "Welton Becket",
+  "page": "https://findgreatarchitecture.com/architects/welton-becket/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "Werner Düttmann",
+  "page": "https://findgreatarchitecture.com/architects/werner-duttmann/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ },
+ {
+  "name": "WilkinsonEyre",
+  "page": "https://findgreatarchitecture.com/architects/wilkinsoneyre/",
+  "kind": "firm",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": null
+ },
+ {
+  "name": "Yoshinobu Ashihara",
+  "page": "https://findgreatarchitecture.com/architects/yoshinobu-ashihara/",
+  "kind": "person",
+  "example_buildings": [],
+  "founders_on_file": null,
+  "earlier_search": [
+   "none",
+   "No portrait found on Commons (only buildings, graves or other people)."
+  ]
+ }
+]

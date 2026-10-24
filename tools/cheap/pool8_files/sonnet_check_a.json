@@ -1,0 +1,221 @@
+{
+ "keep_ok": [
+  "bernard-schwartz-house",
+  "goetsch-winckler-house",
+  "robert-m-lamp-house",
+  "thomas-p-hardy-house",
+  "student-union-building-ilokivi",
+  "sport-and-health-sciences-department-building",
+  "hiram-c-stewart-house",
+  "building-of-east-bohemian-museum",
+  "granville-d-jones-house",
+  "king-nash-house",
+  "villa-tonder",
+  "nature-spa-takarazuka",
+  "huize-lydia",
+  "parco-sempione-library",
+  "st-wenceslas-church-vrsovice",
+  "st-franziskus",
+  "blackwell-arts-and-crafts-house",
+  "kasson-municipal-building",
+  "st-lazarus-roman-catholic-church-al-eizariya",
+  "villa-kampen",
+  "tampere-theatre",
+  "synagogue-don-isaac-abravanel",
+  "kalmar-konstmuseum"
+ ],
+ "ordinary": [
+  "huize-lydia",
+  "rundling",
+  "tampere-theatre",
+  "arenes-de-maracay",
+  "philologica"
+ ],
+ "keep_fix": [
+  {
+   "id": "thiel-gallery",
+   "field": "year",
+   "haiku": 1924,
+   "should_be": null,
+   "why": "The lead gives no year; 1924 is Wikidata's and no completion date in the lead supports it. Use null rather than 1924."
+  },
+  {
+   "id": "arenes-de-maracay",
+   "field": "name",
+   "haiku": "Arènes de Maracay",
+   "should_be": "Maestranza César Girón",
+   "why": "Haiku took the French lead title; the English label is a proper name (and the Commons category). The id should follow: maestranza-cesar-giron."
+  },
+  {
+   "id": "rundling",
+   "field": "name",
+   "haiku": "Rundling",
+   "should_be": "Rundling (Leipzig)",
+   "why": "English Wikipedia title is 'Rundling (Leipzig)'; bare 'Rundling' is too generic as a wall name."
+  },
+  {
+   "id": "st-michael-s-church",
+   "field": "name",
+   "haiku": "St. Michael's Church",
+   "should_be": "St. Michael's Church (Črna Vas)",
+   "why": "English Wikipedia title adds '(Črna Vas)'; the bare name is generic and could clash with other St. Michael's churches."
+  }
+ ],
+ "keep_wrong": [
+  {
+   "id": "adelheid-popp-hof",
+   "why": "Municipal housing block; the lead gives only architect and dates (built 1932-33, extended 1949-50), no design reason, so it is ordinary housing."
+  },
+  {
+   "id": "brittingham-boathouse",
+   "why": "Small park boathouse; the only reason is a local record (city's oldest park building) and a general City Beautiful remark, no named designer or design point; main photo shows it small and far away."
+  },
+  {
+   "id": "casa-de-colon",
+   "why": "A 1950s reconstruction in historic style of a governor's house now a Columbus museum; the lead never names the architect and gives no design reason a student would study."
+  },
+  {
+   "id": "cluj-napoca-banffy-palace",
+   "why": "Built 1774-75, a regional Baroque palace; the lead calls it the most representative Baroque building of Transylvania only, not a precedent for students worldwide; Wikidata year 1951 is wrong."
+  },
+  {
+   "id": "villa-polasek",
+   "why": "Local Brno architect's own villa; the lead gives only the word functionalist and dates, the architect has no other work on the wall, so no clear reason to study it."
+  }
+ ],
+ "main_photo_wrong": [
+  {
+   "id": "proxima",
+   "better_file_or_null": "File:JYU - Proxima.jpg",
+   "why": "Haiku's first photo is an 11,222 x 3,408 panorama (3.3:1) in which the buildings are a thin strip and it crops badly in a wall tile. JYU - Proxima.jpg (CC BY-SA 4.0, p2 on the sheet) shows the brick building and its glazed canopy from outside in daylight."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "stadtbad-mitte",
+   "why": "Tessenow (well-known) built work, a Berlin public bath opened 1930 and listed; Haiku skipped only because the architect is not on the wall and the lead is short. Clean daylight exterior photos exist (the main photo has scaffolding, so p4/p5 go first).",
+   "entry": {
+    "id": "stadtbad-mitte",
+    "qid": "Q1292740",
+    "status": "photo",
+    "why": "Tessenow and Jelkmann's Volksbad opened 1930, listed; lead is short but the architect is well known.",
+    "name": "Stadtbad Mitte",
+    "by": "Heinrich Tessenow, Carlo Jelkmann",
+    "city": "Berlin",
+    "cc": "DE",
+    "year": 1930,
+    "type": "Culture & sport",
+    "movement": "Modernism",
+    "concepts": [
+     "Water",
+     "Public space",
+     "Brick"
+    ],
+    "features": "A public bath opened in 1930, listed, its entrance set into the street line of the neighbouring apartment buildings.",
+    "commons_category": "Category:Stadtbad Mitte",
+    "coords": [
+     52.52954,
+     13.39315
+    ],
+    "photos": [
+     {
+      "file": "File:Mitte Gartenstraße Stadtbad Mitte-002.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Mitte Gartenstraße Stadtbad Mitte-003.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Stadtbad Mitte 08.02.2016 15-16-21.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "lake-suwa-museum",
+   "why": "Toyo Ito (25 buildings on the wall) built work; Haiku marked unsure only because Wikidata's year 1952 is impossible for Ito and the lead names no architect. Accept Wikidata's architect, year null (no source); the photo shows the curved-roof museum from outside in daylight.",
+   "entry": {
+    "id": "lake-suwa-museum",
+    "qid": "Q11631898",
+    "status": "photo",
+    "why": "Toyo Ito museum on the shore of Lake Suwa; year unsupported so null.",
+    "name": "Lake Suwa Museum",
+    "by": "Toyo Ito",
+    "city": "Shimosuwa",
+    "cc": "JP",
+    "year": null,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Water",
+     "Landscape",
+     "Sculptural form"
+    ],
+    "features": "A municipal museum on the shore of Lake Suwa in Shimosuwa, with the Akahiko Memorial Hall literature museum attached.",
+    "commons_category": null,
+    "coords": [
+     36.06722,
+     138.10083
+    ],
+    "photos": [
+     {
+      "file": "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "philologica",
+   "why": "Aalto (50 buildings on the wall) built work on the Jyväskylä campus, the same set as Ilokivi, the sports building and Proxima that Haiku kept; skipping it only for being a dormitory is inconsistent with the well-known-architect rule. Clear brick exterior, daylight. Counts as housing (ordinary).",
+   "entry": {
+    "id": "philologica",
+    "qid": "Q28464267",
+    "status": "photo",
+    "why": "Aalto student residence of the College of Education on the Seminaarinmäki campus.",
+    "name": "Philologica",
+    "by": "Alvar Aalto",
+    "city": "Jyväskylä",
+    "cc": "FI",
+    "year": 1954,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+     "Brick",
+     "Landscape",
+     "Community"
+    ],
+    "features": "Aalto's student residence of the College of Education, a university building on the Seminaarinmäki campus in Jyväskylä.",
+    "commons_category": "Category:Philologica",
+    "coords": [
+     62.23509,
+     25.73023
+    ],
+    "photos": [
+     {
+      "file": "File:Philologica.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:University of Jyväskylä - Philologica 2.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Jyväskylä Philologica.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 0-149: Haiku had 33 photo, 10 unsure, 107 skip. Of the 33 photo entries: 23 keep_ok as written, 5 kept but need a fix (name fixes on arenes-de-maracay, rundling, st-michael-s-church; year null on thiel-gallery; a different main photo for proxima), 5 keep_wrong. keep_ok excludes the ids in keep_fix and main_photo_wrong, which are still kept after the fix. Rescued 3: stadtbad-mitte, lake-suwa-museum (year null), philologica. Final kept = 31; ordinary types among them = 5 (16 percent). Of the 117 unsure/skip entries, 29 have an empty lead (skip by rule, including bagno-pubblico-bellinzona, already on the wall), 6 have no usable photo (sun-terrace has none at all, hearst-gymnasium, branigan, slovenia assembly, experimental-theater, north-casper-clubhouse), the rest are ordinary or give no design reason. Borderline left out: ullensaker-church (Arneberg, only a local nickname), gewerbehaus (Schumacher, year unclear), kyoto-municipal-museum-of-art (lead says 1928, no design reason). Notes: villa-tonder has only historic photos (confirm it still stands). No dup_flag entries and no duplicates on the wall found by id, name, QID or 250 m."
+}

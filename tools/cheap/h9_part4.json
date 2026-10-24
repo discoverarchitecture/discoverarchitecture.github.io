@@ -1,0 +1,214 @@
+[
+  {
+    "id": "la-maison-lvmh",
+    "qid": "Q103436867",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "mercado-municipal-do-caranda",
+    "qid": "Q104244430",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "audrey-jones-beck-building",
+    "qid": "Q107317766",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "cour-puget",
+    "qid": "Q109567735",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "forum-rotterdam",
+    "qid": "Q112207896",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "transparent-public-toilets-in-shibuya",
+    "qid": "Q112223806",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "sakai-city-semboku-suemura-archaeological-museum",
+    "qid": "Q11428215",
+    "status": "skip",
+    "why": "Japanese lead says the museum closed in 2016 for ageing; no source here says the building still stands."
+  },
+  {
+    "id": "fraunhofer-isc-technikum-iii",
+    "qid": "Q115135436",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "alexandrastiftung-estate",
+    "qid": "Q116138821",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "serpentine-gallery-pavilion-2011",
+    "qid": "Q117048872",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "vontz-center-for-molecular-studies",
+    "qid": "Q118636344",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "cranfield-university-library",
+    "qid": "Q118904356",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "465-beverly-drive",
+    "qid": "Q123118037",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "carlos-ramos-pavilion",
+    "qid": "Q123135369",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "masaryk-centre-1",
+    "qid": "Q123335379",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "campus-of-the-ecole-polytechnique-federale-de-lausanne",
+    "qid": "Q124113927",
+    "status": "skip",
+    "why": "No lead; a campus of many buildings, not one building."
+  },
+  {
+    "id": "yoyogi-hachiman-public-toilet",
+    "qid": "Q125395154",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "museum-of-contemporary-art-san-diego-la-jolla-branch",
+    "qid": "Q125503629",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "institut-fur-leichte-flachentragwerke",
+    "qid": "Q131419990",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "second-stage-theater-building",
+    "qid": "Q131755590",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "pezet-515",
+    "qid": "Q134314583",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "french-embassy-building",
+    "qid": "Q134893215",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "cour-marly",
+    "qid": "Q19009948",
+    "status": "skip",
+    "why": "No lead; a Louvre courtyard, mostly sculpture."
+  },
+  {
+    "id": "la-felicite",
+    "qid": "Q22133325",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "kammertheater-stuttgart",
+    "qid": "Q28498697",
+    "status": "unsure",
+    "why": "German lead: a playhouse opened in 1983 inside James Stirling's Neue Staatsgalerie. Its only photo is a night shot.",
+    "note": "no main photo"
+  },
+  {
+    "id": "hospital-materno-infantil-gregorio-maranon",
+    "qid": "Q28538767",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "nouvel-building",
+    "qid": "Q42307425",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "palacio-de-congresos-de-toledo",
+    "qid": "Q54046944",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "ando-conference-pavilion",
+    "qid": "Q54989344",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "utzon-huset",
+    "qid": "Q61048853",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "boler-samfunnshus",
+    "qid": "Q63965175",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  },
+  {
+    "id": "bus-stop-hannover-braunschweiger-platz",
+    "qid": "Q64992838",
+    "status": "skip",
+    "why": "No lead; a bus shelter."
+  },
+  {
+    "id": "richard-and-geraldine-hodgson-house",
+    "qid": "Q7330163",
+    "status": "unsure",
+    "why": "English lead: 1951 International Style house by Philip Johnson with Landis Gores. No free photo exists.",
+    "note": "no main photo"
+  },
+  {
+    "id": "roman-l-hruska-federal-courthouse",
+    "qid": "Q7362060",
+    "status": "skip",
+    "why": "The lead is about the senator, not the courthouse; no free photo."
+  },
+  {
+    "id": "casa-roberto-ivens-casa-da-arquitetura",
+    "qid": "Q96758175",
+    "status": "skip",
+    "why": "No lead in prep.json, so skipped whoever the architect is."
+  }
+]

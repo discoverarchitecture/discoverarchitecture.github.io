@@ -1,0 +1,765 @@
+[
+  {
+    "id": "hans-christian-andersen-museum",
+    "qid": "Q490485",
+    "status": "photo",
+    "why": "Kuma's built work per Wikidata; the lead names no architect and no date, so year is null.",
+    "name": "Hans Christian Andersen Museum",
+    "by": "Kengo Kuma & Associates",
+    "city": "Odense",
+    "cc": "DK",
+    "year": null,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Landscape",
+      "Planting",
+      "Timber"
+    ],
+    "features": "Museums in Odense for Hans Christian Andersen, incorporating his birthplace, a children's play space and a garden.",
+    "commons_category": "Category:Hans Christian Andersen Museum",
+    "coords": [
+      55.3987,
+      10.39077
+    ],
+    "photos": [
+      {
+        "file": "File:Odense stad 2022 1.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Odense stad 2022 2.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Odense 103.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Odense stad 2022 3.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "bern-theatre",
+    "qid": "Q869926",
+    "status": "skip",
+    "why": "Lead gives no architect and no reason it matters; the architect is not well known."
+  },
+  {
+    "id": "missouri-state-capitol",
+    "qid": "Q2749733",
+    "status": "skip",
+    "why": "Neoclassical state capitol; the lead gives history and listing, not an architectural reason."
+  },
+  {
+    "id": "charlottenburg-town-hall",
+    "qid": "Q289771",
+    "status": "skip",
+    "why": "Town hall; the lead gives only the building dates and purpose."
+  },
+  {
+    "id": "grace-cathedral-san-francisco",
+    "qid": "Q3082361",
+    "status": "skip",
+    "why": "Lead is mostly parish history and membership figures; no architectural reason given."
+  },
+  {
+    "id": "teatro-victoria-eugenia",
+    "qid": "Q3114044",
+    "status": "skip",
+    "why": "Short lead with no architectural reason; the architect is not well known."
+  },
+  {
+    "id": "meadows-museum",
+    "qid": "Q3303786",
+    "status": "skip",
+    "why": "Art museum; the lead gives size and collection only, no architectural reason."
+  },
+  {
+    "id": "cunard-building",
+    "qid": "Q503506",
+    "status": "photo",
+    "why": "Grade II* and one of Liverpool's Three Graces; the lead names Willink and Thicknesse, Wikidata adds Davis.",
+    "name": "Cunard Building",
+    "by": "William Edward Willink, Philip Coldwell Thicknesse, Arthur Joseph Davis",
+    "city": "Liverpool",
+    "cc": "GB",
+    "year": 1917,
+    "type": "Workplace",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Facade as skin",
+      "Monumentality",
+      "Sculptural form"
+    ],
+    "features": "A Grade II* listed Italian-palace-style building at the Pier Head, one of Liverpool's Three Graces.",
+    "commons_category": "Category:Cunard Building",
+    "coords": [
+      53.4051,
+      -2.9954
+    ],
+    "photos": [
+      {
+        "file": "File:Cunard Building landside 2018.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Cunard Building, Liverpool.png",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Cunard Building (9701150770).jpg",
+        "license": "CC BY-SA 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "vigeland-museum",
+    "qid": "Q7928869",
+    "status": "skip",
+    "why": "Lead is about the sculptor and his studio, not the building design."
+  },
+  {
+    "id": "laeiszhalle",
+    "qid": "Q881121",
+    "status": "photo",
+    "why": "Lead: Germany's largest and most modern concert hall in 1908, planned by Martin Haller.",
+    "name": "Laeiszhalle",
+    "by": "Martin Haller",
+    "city": "Hamburg",
+    "cc": "DE",
+    "year": 1908,
+    "type": "Culture & sport",
+    "movement": "Historic precedent",
+    "concepts": [
+      "Monumentality",
+      "Detail",
+      "Facade as skin"
+    ],
+    "features": "Germany's largest and most modern concert hall when it opened in 1908, in a Baroque Revival style.",
+    "commons_category": "Category:Laeiszhalle",
+    "coords": [
+      53.55577,
+      9.98058
+    ],
+    "photos": [
+      {
+        "file": "File:20230317 Laeiszhalle.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Laeiszhalle.Hamburg.vom.Johannes-Brahms-Platz.jpg",
+        "license": "CC0",
+        "seen": true
+      },
+      {
+        "file": "File:La Laieszhalle.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Laeisz-Halle (Hamburg-Neustadt).1.29179.ajb.jpg",
+        "license": "CC BY-SA 3.0 de",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "suntory-hall",
+    "qid": "Q948552",
+    "status": "photo",
+    "why": "Lead: acoustics among the finest in the world and a tiered landscape roof; opened October 1986.",
+    "name": "Suntory Hall",
+    "by": "Shōichi Sano",
+    "city": "Tokyo",
+    "cc": "JP",
+    "year": 1986,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+      "Landscape",
+      "Planting",
+      "Light & shadow"
+    ],
+    "features": "A concert hall in Tokyo, widely considered among the finest for acoustics, with a tiered landscape garden as its roof.",
+    "commons_category": "Category:Suntory Hall",
+    "coords": [
+      35.66662,
+      139.7414
+    ],
+    "photos": [
+      {
+        "file": "File:Suntory Hall 2018.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Suntory Hall 1.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Suntory Hall 2.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "palais-de-la-porte-doree",
+    "qid": "Q1141316",
+    "status": "photo",
+    "why": "Lead calls it a landmark of Art Deco built for the 1931 exhibition; Laprade is the Wikidata architect the lead also names.",
+    "name": "Palais de la Porte Dorée",
+    "by": "Albert Laprade",
+    "city": "Paris",
+    "cc": "FR",
+    "year": 1931,
+    "type": "Pavilion",
+    "movement": "Art Deco",
+    "concepts": [
+      "Monumentality",
+      "Facade as skin",
+      "Sculptural form"
+    ],
+    "features": "Art Deco landmark built for the 1931 Paris Colonial Exposition; its reliefs present an idealized colonialism.",
+    "commons_category": "Category:Palais de la Porte Dorée",
+    "coords": [
+      48.83528,
+      2.40944
+    ],
+    "photos": [
+      {
+        "file": "File:Palasi Porte Doree Entree.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:L'ancien pont de l'Exposition coloniale et le musée colonial - btv1b90517398.jpg",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "creteil-cathedral",
+    "qid": "Q2942281",
+    "status": "skip",
+    "why": "Lead gives no architectural reason; Wikidata names the 1966 architect, but the lead dates the present cathedral to 2015."
+  },
+  {
+    "id": "kyushu-ceramic-museum",
+    "qid": "Q6452794",
+    "status": "skip",
+    "why": "Prefectural museum; the lead gives collections and no architectural reason."
+  },
+  {
+    "id": "noguchi-museum",
+    "qid": "Q836080",
+    "status": "unsure",
+    "why": "Lead says Noguchi designed and made the museum (opened 1985), but calls him a sculptor and gives no architectural reason. Check whether the wall has his other buildings."
+  },
+  {
+    "id": "vitebsk-state-technological-university",
+    "qid": "Q1985003",
+    "status": "skip",
+    "why": "University; the lead gives no architectural reason."
+  },
+  {
+    "id": "ishikawa-prefectural-museum-of-art",
+    "qid": "Q3297759",
+    "status": "skip",
+    "why": "Prefectural art museum; the lead gives collection and dates, no architectural reason."
+  },
+  {
+    "id": "okayama-prefectural-museum-of-art",
+    "qid": "Q4677150",
+    "status": "skip",
+    "why": "Prefectural museum; the lead gives the opening date and collection size only."
+  },
+  {
+    "id": "kunsthalle-tubingen",
+    "qid": "Q509617",
+    "status": "skip",
+    "why": "Art hall; the lead gives founding history, no architectural reason."
+  },
+  {
+    "id": "europahaus-leipzig",
+    "qid": "Q1375330",
+    "status": "skip",
+    "why": "Listed office block; the lead gives only height and status, not a reason to study it."
+  },
+  {
+    "id": "cathedral-of-the-blessed-sacrament-altoona-pennsylvania",
+    "qid": "Q2942924",
+    "status": "skip",
+    "why": "Cathedral; the lead gives parish facts, no architectural reason."
+  },
+  {
+    "id": "bygdoy-church",
+    "qid": "Q10297107",
+    "status": "skip",
+    "why": "Church; the lead describes fittings and the plan, not why the design matters."
+  },
+  {
+    "id": "manglerud-church",
+    "qid": "Q10357180",
+    "status": "skip",
+    "why": "Church; the lead describes fittings and seats, not a reason to study the design."
+  },
+  {
+    "id": "batsfjord-church",
+    "qid": "Q10744009",
+    "status": "skip",
+    "why": "Parish church; the lead gives seats and plan type only."
+  },
+  {
+    "id": "sengskroken-church",
+    "qid": "Q1107038",
+    "status": "skip",
+    "why": "Chapel; the lead gives plan type and seats only."
+  },
+  {
+    "id": "sola-chapel",
+    "qid": "Q12001786",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "volsdalen-church",
+    "qid": "Q12010077",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "ingdalen-chapel",
+    "qid": "Q13638056",
+    "status": "skip",
+    "why": "Church; the lead gives volunteer build and seats, no architectural reason."
+  },
+  {
+    "id": "rovaniemi-church",
+    "qid": "Q16658217",
+    "status": "skip",
+    "why": "Church; the lead gives a fresco and a debated cross colour, not an architectural reason."
+  },
+  {
+    "id": "prague-planetarium",
+    "qid": "Q18198103",
+    "status": "skip",
+    "why": "Planetarium; the lead is about its projectors, and it names no architect."
+  },
+  {
+    "id": "museum-of-photography-in-charleroi",
+    "qid": "Q1955717",
+    "status": "unsure",
+    "why": "Lead: the 1987 museum in a former Carmelite convent, with a 2008 extension by ESCAUT Architectes. No architectural reason is given, and the 1987 architect is Wikidata's only."
+  },
+  {
+    "id": "foujita-chapel",
+    "qid": "Q2956542",
+    "status": "unsure",
+    "why": "Lead says the artist Foujita conceived and designed the chapel, not Clauzier as Wikidata says. Only photo shows a festive event.",
+    "note": "no main photo"
+  },
+  {
+    "id": "new-st-eleftherios-church",
+    "qid": "Q3400403",
+    "status": "skip",
+    "why": "Church; the lead gives the architect and name only."
+  },
+  {
+    "id": "casa-serra",
+    "qid": "Q3661167",
+    "status": "unsure",
+    "why": "Modernisme house by Puig i Cadafalch, built 1903-1908 per the lead; every whole view also shows the 1987 office block beside it.",
+    "note": "no main photo"
+  },
+  {
+    "id": "aldersund-church",
+    "qid": "Q4576450",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "steinkjer-church",
+    "qid": "Q4577311",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "berg-church-senja",
+    "qid": "Q4891395",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "bialik-house",
+    "qid": "Q4902448",
+    "status": "skip",
+    "why": "House museum; the lead gives the poet and his home, no architectural reason or date."
+  },
+  {
+    "id": "lycabettus-theatre",
+    "qid": "Q5015578",
+    "status": "unsure",
+    "why": "Open-air theatre in a former quarry on Lycabettus, Athens (lead). Each photo is a city view with the theatre small in it. Zenetos is the Wikidata architect.",
+    "note": "no main photo"
+  },
+  {
+    "id": "charlottenlund-church",
+    "qid": "Q5086231",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "kafjord-church",
+    "qid": "Q6453546",
+    "status": "skip",
+    "why": "Church; the lead gives seats and dates only."
+  },
+  {
+    "id": "wiener-kammerspiele",
+    "qid": "Q1525977",
+    "status": "skip",
+    "why": "Theatre; the lead is about its programme and actors, not the building."
+  },
+  {
+    "id": "dreifaltigkeitskirche",
+    "qid": "Q107543527",
+    "status": "skip",
+    "why": "Church; the lead gives the architect and date only."
+  },
+  {
+    "id": "vijzelstraat-81",
+    "qid": "Q113976309",
+    "status": "skip",
+    "why": "Corner building; the lead gives the address only."
+  },
+  {
+    "id": "dominion-museum-building",
+    "qid": "Q12063948",
+    "status": "skip",
+    "why": "Heritage-listed museum; the lead gives status and use, no architectural reason."
+  },
+  {
+    "id": "edificio-condominiale-di-viale-roma",
+    "qid": "Q3719156",
+    "status": "photo",
+    "why": "Sottsass's built work per Wikidata, and the lead calls it modern architecture; the lead gives no date, so year is null.",
+    "name": "Edificio condominiale di viale Roma",
+    "by": "Ettore Sottsass",
+    "city": "Massa",
+    "cc": "IT",
+    "year": null,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+      "Colour",
+      "Facade as skin",
+      "Detail"
+    ],
+    "features": "A modern condominium block at Viale Roma 380 in Marina di Massa, an example of modern architecture.",
+    "commons_category": "Category:Condominio in viale Roma (Marina di Massa)",
+    "coords": [
+      44.0074,
+      10.1117
+    ],
+    "photos": [
+      {
+        "file": "File:Condominio di viale roma 380 (Marina di Massa) 01.JPG",
+        "license": "CC BY 2.5",
+        "seen": true
+      },
+      {
+        "file": "File:Condominio di viale roma 380 (Marina di Massa) 02.JPG",
+        "license": "CC BY 2.5",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "kesselgarten-3-chemnitz-schlosschemnitz",
+    "qid": "Q49332989",
+    "status": "skip",
+    "why": "The lead is the architect's life dates, not the building."
+  },
+  {
+    "id": "haus-wittmann",
+    "qid": "Q55077482",
+    "status": "unsure",
+    "why": "Lead: a single-family house by Johannes Spalt, built 1970-1975, with no reason given. Check whether Spalt has other buildings on the wall."
+  },
+  {
+    "id": "st-georgskirche",
+    "qid": "Q62587786",
+    "status": "skip",
+    "why": "Church; the lead gives architect, consecration and listing only."
+  },
+  {
+    "id": "berenplaat-water-treatment-plant",
+    "qid": "Q100873537",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "cafe-seeterrassen",
+    "qid": "Q104860490",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "haus-koller-gluck",
+    "qid": "Q107467753",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "villa-dirickz",
+    "qid": "Q107612753",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "aleje-ujazdowskie-29-31",
+    "qid": "Q111671660",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "anthonie-van-dijckstraat-4-amsterdam",
+    "qid": "Q17292372",
+    "status": "photo",
+    "why": "Mart Stam's built work per Wikidata; the lead names the five linked houses as a national monument and gives no date, so year is null.",
+    "name": "Anthonie van Dijckstraat 4, Amsterdam",
+    "by": "Mart Stam",
+    "city": "Amsterdam",
+    "cc": "NL",
+    "year": null,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+      "Brick",
+      "Cluster",
+      "Modular"
+    ],
+    "features": "Five linked houses by Mart Stam, squeezed between two schools and listed as a national monument.",
+    "commons_category": "Category:Anthonie van Dijckstraat 4, Amsterdam",
+    "coords": [
+      52.34846,
+      4.87504
+    ],
+    "photos": [
+      {
+        "file": "File:Drive-in woningen.JPG",
+        "license": "CC BY-SA 3.0 nl",
+        "seen": true
+      },
+      {
+        "file": "File:2026 Anthonie van Dijckstraat 4-12, Asd, (A).jpg",
+        "license": "CC0",
+        "seen": true
+      },
+      {
+        "file": "File:A.v.Dijkstr. 4-12, voorgevels - Amsterdam - 20016442 - RCE.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "production-and-administration-plant-usm",
+    "qid": "Q19362667",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "biblioteca-civica-luigi-einaudi",
+    "qid": "Q28003678",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "haus-schmidt",
+    "qid": "Q29677270",
+    "status": "skip",
+    "why": "Empty lead and no photos."
+  },
+  {
+    "id": "lilla-aska-kapellkrematorium",
+    "qid": "Q30307513",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "spoleczny-dom-kultury-w-warszawie",
+    "qid": "Q33620126",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "casa-broner",
+    "qid": "Q43157019",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "schwarzwaldhalle",
+    "qid": "Q45844800",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "vienna-museum-at-karlsplatz",
+    "qid": "Q50379321",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "jan-de-jonghuis",
+    "qid": "Q55065543",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "vogelsang-house",
+    "qid": "Q55816204",
+    "status": "photo",
+    "why": "Lead: a listed house by Bernhard Pfau, a significant example of modern architecture in early postwar Germany, built 1950.",
+    "name": "Vogelsang House",
+    "by": "Bernhard Pfau",
+    "city": "Krefeld",
+    "cc": "DE",
+    "year": 1950,
+    "type": "House",
+    "movement": "Modernism",
+    "concepts": [
+      "Facade as skin",
+      "Free plan",
+      "Detail"
+    ],
+    "features": "A listed house in Krefeld, considered an architecturally significant example of modern architecture in early postwar Germany.",
+    "commons_category": null,
+    "coords": [
+      51.32246,
+      6.54181
+    ],
+    "photos": [
+      {
+        "file": "File:Krefeld Denkmal 625 Haus Vogelsang.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "maison-la-ruine",
+    "qid": "Q58463494",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "haus-soll",
+    "qid": "Q61770045",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "veitingergasse-95-97-vienna",
+    "qid": "Q62023980",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "st-johns-lutheran-college-girls-dormitory",
+    "qid": "Q7588784",
+    "status": "skip",
+    "why": "Late Gothic Revival dormitory; the lead gives listing and size only."
+  },
+  {
+    "id": "university-library-brandenburg-technical-university-cottbus-senftenberg",
+    "qid": "Q28738242",
+    "status": "skip",
+    "why": "Empty lead."
+  },
+  {
+    "id": "kallio-church",
+    "qid": "Q2981697",
+    "status": "photo",
+    "why": "Lead: a granite National Romantic church by Lars Sonck, one of Helsinki's landmarks, completed 1912.",
+    "name": "Kallio Church",
+    "by": "Lars Sonck",
+    "city": "Helsinki",
+    "cc": "FI",
+    "year": 1912,
+    "type": "Religious",
+    "movement": "Art Nouveau",
+    "concepts": [
+      "Earth & local material",
+      "Stone",
+      "Detail"
+    ],
+    "features": "A granite National Romantic church, one of Helsinki's most prominent landmarks, with acoustics popular for organ concerts.",
+    "commons_category": "Category:Kallio Church",
+    "coords": [
+      60.18423,
+      24.94933
+    ],
+    "photos": [
+      {
+        "file": "File:2018-07-11 Kallio 17.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Kallion kirkko.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:2018-07-11 Kallio 13.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:2018-07-11 Kallio 12.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "natural-history-museum-rotterdam",
+    "qid": "Q3311591",
+    "status": "skip",
+    "why": "Lead gives only the opening date and visitor numbers; Wikidata names a later architect, so the dates conflict."
+  },
+  {
+    "id": "santa-maria-goretti-rome",
+    "qid": "Q2191493",
+    "status": "skip",
+    "why": "Church; the lead gives no reason it matters."
+  },
+  {
+    "id": "victoria-dockside",
+    "qid": "Q18118478",
+    "status": "skip",
+    "why": "Mixed-use development; the lead gives height only, and the main photo shows it under construction."
+  },
+  {
+    "id": "irina-viner-usmanova-gymnastics-palace",
+    "qid": "Q48948640",
+    "status": "skip",
+    "why": "Sports venue; the lead gives use and funding, and the photos show events."
+  }
+]

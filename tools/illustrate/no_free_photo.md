@@ -97,7 +97,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Villa Primavesi | Franz von Krauss | 1900 | Olomouc, CZ | Haiku pool 6 photo review: year unsourced: Wikidata's 1900 does not fit, and the lead gives none |
 | Ormen Långe | Ralph Erskine | 1965 | Svappavaara, SE | Haiku pool 6 photo review: only photo of the building is a cropped 1965 print; the rest are views through a porthole |
 | Crater Lake Superintendent's Residence | National Park Service | 1932 | Crater Lake National Park, US | Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service |
-| Festspielhaus Hellerau | Heinrich Tessenow | 1911 | Dresden, DE | no main photo (no exterior view of the main building) |
+| Villa Tonder | Jan Kotěra | 1906 | St. Gilgen, AT | Haiku pool 8 photo review: only historic photos; unclear whether the villa still stands |
 | Palais Bulles | Antti Lovag | 1989 | Théoule-sur-Mer, FR | lead photo didn't show the building; see recheck.md |
 | CMA CGM Tower | Zaha Hadid Architects | 2011 | Marseille, FR | lead photo still didn't show the building (Oct 13 review) |
 | Sainte-Bernadette du Banlay | Claude Parent, Paul Virilio | 1966 | Nevers, FR | No files on Commons at all (a strong drawing candidate). Sources confirm two interlocking concrete shells cantilevered over a central pillar, a big overhang on the facade, opaque walls with small porthole-like openings and light from a central split, but none gives the profile of the shells or the roof; the detailed pages (WikiArquitectura, CAUE 58) couldn't be reached. A trial drawing came out as a guess, so I removed it. |
@@ -436,7 +436,6 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Brisbane Powerhouse | Roy Rusden Ogg | 1928 | Brisbane, AU | Round 9 review: no daylight exterior of the building (a market crowd, a mural, interiors) |
 | Centenary Pool Complex | James Birrell | 1959 | Brisbane, AU | Round 9 review: only photo is at dusk with a car as the subject |
 | Perth Stadium (Optus Stadium) | Hassell, HKS and Cox | 2017 | Perth, AU | Round 9 review: ordinary stadium with no clear daylight exterior (signage, crowds, dusk) |
-| Phoenix Center | Shao Weiping (BIAD) | 2014 | Beijing, CN | no main photo. Candidates seen: 'Phoenix Center, Beijing 2.jpg' (CC0, clean dome end but only part of the building), 'Phoenix Center, Beijing 1.jpg' (CC0, PHOENIX sign in front), 'Phoenix Center (20241010161748).jpg' (sign and a person). Wikipedia names Shao Weiping as executive chief architect for BIAD. |
 | National Speed Skating Oval | Populous, Beijing Institute of Architectural Design | 2019 | Beijing, CN | no main photo. The only file in the category I could see is a rink interior; Wikipedia's lead image is not yet looked at. Needs a ground-level daylight exterior. |
 | UCCA Center for Contemporary Art | Jean-Michel Wilmotte, Qingyun Ma (renovation); OMA (2019) | 2007 | Beijing, CN | no main photo. The two category photos are a close view with banners and the red UCCA letters at the entrance. Original factory designed by Dessau Design Institute architects (Wikipedia). |
 | Fulfillment Amphitheater | Makoto Sei Watanabe | 2006 | Taichung, TW | no main photo. Seen: 'Taichung Fulfillment Amphitheatre.JPG' (a large steel sculpture stands in front) and 'Wen-Hsin Forest Park ...' (far away). Opened 5 August 2006 (Wikipedia). |
@@ -457,6 +456,7 @@ Not on the wall yet: no free photo on Wikimedia Commons, and no drawing of ours 
 | Saxon State and University Library (SLUB) | Ortner & Ortner | 2002 | Dresden, DE | no main photo (category holds only interior) |
 | German Hygiene Museum | Wilhelm Kreis | 1930 | Dresden, DE | no main photo (sculpture in front in every candidate) |
 | Dortmunder U | Emil Moog | 1927 | Dortmund, DE | no main photo (only close views of the top or night) |
+| Festspielhaus Hellerau | Heinrich Tessenow | 1911 | Dresden, DE | no main photo (no exterior view of the main building) |
 | Sprengel Museum | Peter and Ursula Trint with Dieter Quast | 1979 | Hanover, DE | no main photo (only a dusk entrance view) |
 | Brucknerhaus | Heikki and Kaija Siren | 1973 | Linz, AT | no main photo (boat in front, or night or entrance close-ups) |
 | Museum der Moderne Mönchsberg | Friedrich, Hoff and Zwink | 2004 | Salzburg, AT | no main photo (building seen only far away on the cliff) |

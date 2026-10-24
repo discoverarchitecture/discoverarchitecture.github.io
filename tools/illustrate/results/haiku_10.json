@@ -1,0 +1,1817 @@
+[
+ {
+  "id": "vessel-structure",
+  "qid": "Q27988215",
+  "status": "photo",
+  "why": "Thomas Heatherwick's Vessel, opened 2019 per the lead; the lead gives the design and public use, and the photos are daylight views of the whole structure.",
+  "name": "Vessel (structure)",
+  "by": "Thomas Heatherwick",
+  "city": "New York City",
+  "cc": "US",
+  "year": 2019,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Circulation",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A honeycomb of 154 flights of stairs in Hudson Yards, designed by Thomas Heatherwick and open to climb.",
+  "commons_category": "Category:Vessel (structure)",
+  "coords": [
+   40.75381,
+   -74.00217
+  ],
+  "photos": [
+   {
+    "file": "File:Hudson Yards Plaza March 2019 18.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At New York City 2023 021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At New York City 2023 020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vessel_%28structure%29",
+   "https://www.wikidata.org/wiki/Q27988215"
+  ]
+ },
+ {
+  "id": "naturbornholm",
+  "qid": "Q12063591",
+  "status": "photo",
+  "why": "Henning Larsen (well-known; in prep) built this centre, inaugurated 16 May 2000 per the lead; the lead gives no design reason, and the main photo is a clean daylight exterior.",
+  "name": "NaturBornholm",
+  "by": "Henning Larsen",
+  "city": "Aakirkeby",
+  "cc": "DK",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "Henning Larsen's interpretive centre and museum on Bornholm, dedicated to the island's geology and natural history.",
+  "commons_category": "Category:NaturBornholm",
+  "coords": [
+   55.0641,
+   14.9174
+  ],
+  "photos": [
+   {
+    "file": "File:NaturBornholm Aakirkeby 001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Natur Bonholm (2012-07-02), by Klugschnacker in Wikipedia (1).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/NaturBornholm",
+   "https://www.wikidata.org/wiki/Q12063591"
+  ]
+ },
+ {
+  "id": "beaty-biodiversity-museum",
+  "qid": "Q4120770",
+  "status": "photo",
+  "why": "Patricia Patkau (well-known; in prep) designed this museum, opened 16 October 2010 per the lead; clean daylight exterior photos. The lead names no design reason.",
+  "name": "Beaty Biodiversity Museum",
+  "by": "Patricia Patkau",
+  "city": "Vancouver",
+  "cc": "CA",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Patricia Patkau's natural history museum on the UBC campus, with a 25-metre blue whale suspended over its ramp.",
+  "commons_category": "Category:Beaty Biodiversity Museum",
+  "coords": [
+   49.26342,
+   -123.251
+  ],
+  "photos": [
+   {
+    "file": "File:Beaty Biodiversity Museum.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Beaty Biodiversity Museum 1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beaty Biodiversity Museum exterior 2.JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Beaty_Biodiversity_Museum",
+   "https://www.wikidata.org/wiki/Q4120770"
+  ]
+ },
+ {
+  "id": "kiruna-city-hall",
+  "qid": "Q106474297",
+  "status": "photo",
+  "why": "Henning Larsen Architects (well-known; in prep); the lead gives inauguration on 22 November 2018 and that it replaced the Igloo. Clean daylight exterior of the finished building.",
+  "name": "Kiruna City Hall",
+  "by": "Henning Larsen Architects",
+  "city": "Kiruna",
+  "cc": "SE",
+  "year": 2018,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Courtyard"
+  ],
+  "features": "Henning Larsen's new Kiruna city hall, nicknamed Kristallen, which replaced the old Igloo building in 2018.",
+  "commons_category": "Category:Kiruna stadshus",
+  "coords": [
+   67.84891,
+   20.30253
+  ],
+  "photos": [
+   {
+    "file": "File:Kiruna nya stadshus 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Kiruna_stadshus",
+   "https://www.wikidata.org/wiki/Q106474297"
+  ]
+ },
+ {
+  "id": "knarvik-church",
+  "qid": "Q15972932",
+  "status": "photo",
+  "why": "The lead names Reiulf Ramstad Arkitekter and a modern long-church design in wood, built 2014; the photo is a daylight view of the finished timber facade.",
+  "name": "Knarvik Church",
+  "by": "Reiulf Ramstad Arkitekter",
+  "city": "Knarvik",
+  "cc": "NO",
+  "year": 2014,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "A wooden parish church in a modern long-church design by Reiulf Ramstad Arkitekter, built in 2014.",
+  "commons_category": "Category:Knarvik kirke",
+  "coords": [
+   60.5498,
+   5.2889
+  ],
+  "photos": [
+   {
+    "file": "File:RRA Knarvik-17©Hundven-Clements Photography.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Knarvik_Church",
+   "https://www.wikidata.org/wiki/Q15972932"
+  ]
+ },
+ {
+  "id": "museum-of-glass",
+  "qid": "Q2894440",
+  "status": "photo",
+  "why": "Arthur Erickson (well-known; in prep) designed this museum; the lead gives founding in 2002, not an opening date, so year is null. Clean daylight exterior photos.",
+  "name": "Museum of Glass",
+  "by": "Arthur Erickson",
+  "city": "Tacoma",
+  "cc": "US",
+  "year": 2002,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Arthur Erickson's 75,000-square-foot Tacoma museum, dedicated to the studio glass movement.",
+  "commons_category": "Category:Museum of Glass",
+  "coords": [
+   47.2456,
+   -122.434
+  ],
+  "photos": [
+   {
+    "file": "File:Museum of Glass, Washington.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of Glass 1 (Tacoma, Washington).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Museum of Glass (Tacoma, Washington).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Museum_of_Glass",
+   "https://www.wikidata.org/wiki/Q2894440"
+  ]
+ },
+ {
+  "id": "seacity-museum",
+  "qid": "Q7439809",
+  "status": "photo",
+  "why": "The lead names Wilkinson Eyre and a new pavilion extension, which meets the rule for an old building; opened 10 April 2012 per the lead. Daylight exteriors.",
+  "name": "SeaCity Museum",
+  "by": "WilkinsonEyre",
+  "city": "Southampton",
+  "cc": "GB",
+  "year": 2012,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A purpose-built pavilion extension to Southampton's Grade II* listed civic centre, designed by Wilkinson Eyre.",
+  "commons_category": "Category:SeaCity Museum",
+  "coords": [
+   50.90802,
+   -1.40766
+  ],
+  "photos": [
+   {
+    "file": "File:SeaCity Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SeaCity Museum - Pavilion.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:SeaCity Museum 20180619.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/SeaCity_Museum",
+   "https://www.wikidata.org/wiki/Q7439809"
+  ]
+ },
+ {
+  "id": "kagawa-prefectural-higashiyama-kaii-setouchi-art-museum",
+  "qid": "Q11667379",
+  "status": "photo",
+  "why": "The lead calls Yoshio Taniguchi a famed architect and gives the 2005 opening; the lead's reason is the museum for Higashiyama's works. Daylight exteriors.",
+  "name": "Kagawa Prefectural Higashiyama Kaii Setouchi Art Museum",
+  "by": "Yoshio Taniguchi",
+  "city": "Sakaide",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Yoshio Taniguchi's museum for 350 works by painter Kaii Higashiyama, near the Great Seto Bridge.",
+  "commons_category": "Category:Kagawa Prefectural Higashiyama Kaii Setouchi Art Museum",
+  "coords": [
+   34.34938,
+   133.82419
+  ],
+  "photos": [
+   {
+    "file": "File:Kphsam01s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:せとうち美術館-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kagawa_Prefectural_Higashiyama_Kaii_Setouchi_Art_Museum",
+   "https://www.wikidata.org/wiki/Q11667379"
+  ]
+ },
+ {
+  "id": "phoenix-center",
+  "qid": "Q27583574",
+  "status": "photo",
+  "why": "The lead gives the Möbius-strip design and the Chaoyang Park site, and no year, so year is null. The PHOENIX lettering is in the foreground; the lattice dome is the subject.",
+  "name": "Phoenix Center",
+  "by": "Beijing Institute of Architectural Design",
+  "city": "Beijing",
+  "cc": "CN",
+  "year": 2014,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "A Beijing media centre in Chaoyang Park whose sculptural shape comes from a Möbius strip.",
+  "commons_category": "Category:Phoenix Center, Beijing",
+  "coords": [
+   39.93333,
+   116.46762
+  ],
+  "photos": [
+   {
+    "file": "File:Phoenix Center, Beijing 1.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Phoenix_Center",
+   "https://www.wikidata.org/wiki/Q27583574"
+  ]
+ },
+ {
+  "id": "fukui-prefectural-varve-museum",
+  "qid": "Q56465338",
+  "status": "photo",
+  "why": "Built work of Hiroshi Naito (on the wall); lead describes the collection, not the design; kept by the architect route",
+  "name": "Fukui Prefectural Varve Museum",
+  "by": "Hiroshi Naito",
+  "city": "Wakasa",
+  "cc": "JP",
+  "year": 2018,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "features": "A geological and archaeological museum showing 70,000 years of varve from the bottom of Lake Suigetsu.",
+  "commons_category": "Category:Fukui Prefectural Varve Museum",
+  "coords": [
+   35.55906,
+   135.89728
+  ],
+  "photos": [
+   {
+    "file": "File:Fukui Prefectural Varve Museum Exterior View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukui Prefectural Varve Museum Exterior View 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukui Prefectural Varve Museum Interior View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fukui_Prefectural_Varve_Museum",
+   "https://www.wikidata.org/wiki/Q56465338"
+  ]
+ },
+ {
+  "id": "nottingham-contemporary",
+  "qid": "Q7063622",
+  "status": "photo",
+  "why": "Caruso St John (on the wall); the lead gives a design reason, the lace-pattern cladding; 2009 opening in lead",
+  "name": "Nottingham Contemporary",
+  "by": "Caruso St John",
+  "city": "Nottingham",
+  "cc": "GB",
+  "year": 2009,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Its cladding is embossed with a traditional Nottingham lace pattern, celebrating the area's history of lace manufacture.",
+  "commons_category": "Category:Nottingham Contemporary",
+  "coords": [
+   52.9511,
+   -1.1458
+  ],
+  "photos": [
+   {
+    "file": "File:Nottingham Contemporary - 31 July 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Nottingham Contemporary (1) - 31 July 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Nottingham_Contemporary",
+   "https://www.wikidata.org/wiki/Q7063622"
+  ]
+ },
+ {
+  "id": "zaryadye-concert-hall",
+  "qid": "Q56581148",
+  "status": "photo",
+  "why": "Lead names Diller Scofidio + Renfro for the site and outer form (Wikidata names Plotkin); opened 2018 per lead",
+  "name": "Zaryadye Concert Hall",
+  "by": "Diller Scofidio + Renfro",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 2018,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Diller Scofidio + Renfro designed its site and outer form; it opened in September 2018.",
+  "commons_category": "Category:Zaryadye Concert Hall",
+  "coords": [
+   55.75139,
+   37.63139
+  ],
+  "photos": [
+   {
+    "file": "File:Moscow - 2026 - Zaryadye Concert Hall.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow - View from Raushskaya embankment to Moskvoretskaya embankment.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Зал Зарядье. Вид со стороны парка \"Зарядье\".jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Moskauer_Konzertsaal_Sarjadje",
+   "https://www.wikidata.org/wiki/Q56581148"
+  ]
+ },
+ {
+  "id": "casals-forum",
+  "qid": "Q114157557",
+  "status": "photo",
+  "why": "Lead names Volker Staab and gives the design reason: a free-form hall with curved walls for sound, opened 2022",
+  "name": "Casals Forum",
+  "by": "Volker Staab",
+  "city": "Kronberg im Taunus",
+  "cc": "DE",
+  "year": 2022,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "A chamber music hall with curved convex and concave walls, shaped to spread sound, opened in 2022.",
+  "commons_category": "Category:Casals Forum",
+  "coords": [
+   50.18083,
+   8.51444
+  ],
+  "photos": [
+   {
+    "file": "File:Das Casals Forum (Konzertsaal mit angegliedertem Studien- und Verwaltungszentrum), der Sitz der Kronberg Academy. ©Sára Timár.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casals Forum, Kronberg, with sculpture.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Casals_Forum",
+   "https://www.wikidata.org/wiki/Q114157557"
+  ]
+ },
+ {
+  "id": "british-antique-museum-kamakura",
+  "qid": "Q115570775",
+  "status": "photo",
+  "why": "Designed by Kengo Kuma (on the wall); the lead gives the design reason: a windowless cypress facade cut with a CNC router, after Kamakura-bori carving",
+  "name": "British Antique Museum Kamakura",
+  "by": "Kengo Kuma",
+  "city": "Kamakura",
+  "cc": "JP",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Timber",
+   "Detail"
+  ],
+  "features": "A windowless facade of CNC-cut Japanese cypress, inspired by Kamakura-bori woodcarving, designed by Kengo Kuma.",
+  "commons_category": "Category:British Antique Museum Kamakura",
+  "coords": [
+   35.32264,
+   139.55456
+  ],
+  "photos": [
+   {
+    "file": "File:BAM外観.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BAM Kamakura.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/British_Antique_Museum_Kamakura",
+   "https://www.wikidata.org/wiki/Q115570775"
+  ]
+ },
+ {
+  "id": "fjordenhus",
+  "qid": "Q22071379",
+  "status": "photo",
+  "why": "Lead names Olafur Eliasson as the designer under contract, with Lundgaard & Tranberg as architects (both on the wall); 2018 per Wikidata",
+  "name": "Fjordenhus",
+  "by": "Lundgaard & Tranberg, Olafur Eliasson",
+  "city": "Vejle",
+  "cc": "DK",
+  "year": 2018,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Olafur Eliasson was contracted to design this headquarters, built in Vejle's harbour basin.",
+  "commons_category": "Category:Fjordenhus",
+  "coords": [
+   55.70581,
+   9.55501
+  ],
+  "photos": [
+   {
+    "file": "File:Fjordenhus 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fjordenhus 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fjordenhus 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Kirk_Kapitals_huvudkontor",
+   "https://www.wikidata.org/wiki/Q22071379"
+  ]
+ },
+ {
+  "id": "paneum",
+  "qid": "Q41662136",
+  "status": "photo",
+  "why": "Built work of Coop Himmelb(l)au (on the wall) per Wikidata; the lead names no architect, so kept by the architect route",
+  "name": "Paneum",
+  "by": "Coop Himmelb(l)au",
+  "city": "Asten",
+  "cc": "AT",
+  "year": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "A museum of thousands of years of bread-making culture, sited at the Backaldrin food company's headquarters in Asten.",
+  "commons_category": "Category:Paneum",
+  "coords": [
+   48.2158,
+   14.40915
+  ],
+  "photos": [
+   {
+    "file": "File:Paneum-4797 (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Backaldrin Paneum DJI 0202a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Paneum - muzeum chleba.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Paneum",
+   "https://www.wikidata.org/wiki/Q41662136"
+  ]
+ },
+ {
+  "id": "boekenberg",
+  "qid": "Q4490308",
+  "status": "photo",
+  "why": "Lead names Winy Maas of MVRDV as architect and gives the pyramid form and 2012 opening; second-best library in the Netherlands",
+  "name": "Boekenberg",
+  "by": "Winy Maas, MVRDV",
+  "city": "Spijkenisse",
+  "cc": "NL",
+  "year": 2012,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "A pyramid-shaped library by Winy Maas, named the Netherlands' second-best library in 2012.",
+  "commons_category": "Category:Boekenberg",
+  "coords": [
+   51.8496,
+   4.32475
+  ],
+  "photos": [
+   {
+    "file": "File:De boekenberg grote bibliotheek in Spijkenisse.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:De Boekenberg - Spijkenisse -april 2012- (6970184928).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:De Boekenberg - Spijkenisse -april 2012- (6970187590).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Boekenberg",
+   "https://www.wikidata.org/wiki/Q4490308"
+  ]
+ },
+ {
+  "id": "valer-church",
+  "qid": "Q25438431",
+  "status": "photo",
+  "why": "Lead names Espen Surnevik and gives the design reason: a fan-shaped wooden church built in 2015; architect is not on the wall",
+  "name": "Våler Church",
+  "by": "Espen Surnevik",
+  "city": "Våler",
+  "cc": "NO",
+  "year": 2015,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "A beige wooden church built in 2015 to a fan-shaped design by Espen Surnevik.",
+  "commons_category": "Category:Våler kirke (2015)",
+  "coords": [
+   60.6725,
+   11.83472
+  ],
+  "photos": [
+   {
+    "file": "File:Våler kirke.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/V%C3%A5ler_Church",
+   "https://www.wikidata.org/wiki/Q25438431"
+  ]
+ },
+ {
+  "id": "polish-national-radio-symphony-orchestra-building",
+  "qid": "Q29885823",
+  "status": "photo",
+  "why": "Lead names Tomasz Konior and gives design reasons (Upper Silesian heritage, the Nikiszowiec estate, architectural awards); opened 2014",
+  "name": "Polish National Radio Symphony Orchestra building",
+  "by": "Tomasz Konior",
+  "city": "Katowice",
+  "cc": "PL",
+  "year": 2014,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Tomasz Konior's concert hall draws on Upper Silesian heritage, especially the Nikiszowiec workers' estate.",
+  "commons_category": "Category:Building of Polish National Radio Symphony Orchestra in Katowice",
+  "coords": [
+   50.26412,
+   19.02805
+  ],
+  "photos": [
+   {
+    "file": "File:Katowice NOSPR fasada 2026 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Katowice NOSPR fasada 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Katowice 2024 437.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Headquarters_of_the_Polish_National_Radio_Symphony_Orchestra_in_Katowice",
+   "https://www.wikidata.org/wiki/Q29885823"
+  ]
+ },
+ {
+  "id": "chiesa-di-san-giacomo-apostolo",
+  "qid": "Q110087199",
+  "status": "photo",
+  "why": "Lead gives a design reason (new architecture and contemporary art) and names the studio. Year 2021 is the consecration date in the lead.",
+  "name": "Chiesa di San Giacomo Apostolo",
+  "by": "Benedetta Tagliabue",
+  "city": "Ferrara",
+  "cc": "IT",
+  "year": 2021,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Community"
+  ],
+  "features": "Benedetta Tagliabue's church in Ferrara, consecrated in 2021, with black ceramic works by the artist Enzo Cucchi inside.",
+  "commons_category": "Category:Chiesa di San Giacomo Apostolo (Ferrara, via Arginone)",
+  "coords": [
+   44.83699,
+   11.59533
+  ],
+  "photos": [
+   {
+    "file": "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chiesa di San Giacomo Apostolo - Ferrara - via Arginone 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Chiesa_di_San_Giacomo_Apostolo_%28Ferrara%2C_via_Arginone%29",
+   "https://www.wikidata.org/wiki/Q110087199"
+  ]
+ },
+ {
+  "id": "cube",
+  "qid": "Q111026370",
+  "status": "photo",
+  "why": "Lead gives a first (first all carbon-concrete building) and the opening date 28 Sept 2022. Lead's own name is CUBE.",
+  "name": "CUBE",
+  "by": "Gunter Henn",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": 2022,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "The world's first building made entirely of non-metal reinforced carbon concrete, a research building opened in 2022.",
+  "commons_category": "Category:Carbonbetonhaus Dresden",
+  "coords": [
+   51.02998,
+   13.7321
+  ],
+  "photos": [
+   {
+    "file": "File:Carbon Concete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 11.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:CUBE - Carbonhaus der TU Dresden.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Carbon Concrete Cube - Technische Universität Dresden (TUD) - Einsteinstraße 12 - Bild 9.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Cube_%28Geb%C3%A4ude%29",
+   "https://www.wikidata.org/wiki/Q111026370"
+  ]
+ },
+ {
+  "id": "byodo-in-museum-hoshokan",
+  "qid": "Q11483478",
+  "status": "photo",
+  "why": "Lead gives a claimed first and the 1 March 2001 opening. Architect from Wikidata (not named in lead).",
+  "name": "Byodo-in Museum Hoshokan",
+  "by": "Akira Kuryu",
+  "city": "Uji",
+  "cc": "JP",
+  "year": 2001,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Light & shadow",
+   "Structure as expression"
+  ],
+  "features": "A history museum inside the Byodo-in temple grounds, claimed as the first comprehensive registered museum of a religious corporation.",
+  "commons_category": "Category:Byodo-in Museum Hoshokan",
+  "coords": [
+   34.8887,
+   135.80739
+  ],
+  "photos": [
+   {
+    "file": "File:Byodoin Uji Kyoto19s3s4410.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Byōdō-in (UJI, Kyoto) hdsr Hoshokan S5 5.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%AD%89%E9%99%A2%E9%B3%B3%E7%BF%94%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11483478"
+  ]
+ },
+ {
+  "id": "church-of-santa-maria-della-pace",
+  "qid": "Q118984207",
+  "status": "photo",
+  "why": "Lead gives a design reason (star-plan, geometry of roof) and a 1997-2003 build. Portoghesi is a well-known architect.",
+  "name": "Church of Santa Maria della Pace",
+  "by": "Paolo Portoghesi",
+  "city": "Terni",
+  "cc": "IT",
+  "year": 2003,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Structure as expression",
+   "Community"
+  ],
+  "features": "Portoghesi's star-plan church in Terni, its timber roof following the same geometry, with contemporary art inside.",
+  "commons_category": "Category:Santa Maria della Pace (Terni)",
+  "coords": [
+   42.53267,
+   12.66311
+  ],
+  "photos": [
+   {
+    "file": "File:TerniIppocrateSantaMariaDellaPace2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TerniIppocrateSantaMariaDellaPace1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://it.wikipedia.org/wiki/Chiesa_di_Santa_Maria_della_Pace_%28Terni%29",
+   "https://www.wikidata.org/wiki/Q118984207"
+  ]
+ },
+ {
+  "id": "borgo-citta-nuova",
+  "qid": "Q140254485",
+  "status": "photo",
+  "why": "Lead names Krier and gives a reason (New Urbanism manifesto). Year not in lead. Main photo is a street facade of the complex.",
+  "name": "Borgo Città Nuova",
+  "by": "Léon Krier, Gabriele Tagliaventi",
+  "city": "Alessandria",
+  "cc": "IT",
+  "year": 2002,
+  "type": "Housing",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Promenade"
+  ],
+  "features": "Léon Krier's New Classical town quarter in Alessandria, meant as a manifesto for New Urbanism.",
+  "commons_category": null,
+  "coords": [
+   44.9038,
+   8.61897
+  ],
+  "photos": [
+   {
+    "file": "File:Borgo Città Nuova di Alessandria.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Borgo_Citt%C3%A0_Nuova",
+   "https://www.wikidata.org/wiki/Q140254485"
+  ]
+ },
+ {
+  "id": "rozet",
+  "qid": "Q19973961",
+  "status": "photo",
+  "why": "Lead gives the design idea (rosette pattern) and the 10 Dec 2013 opening. Architects named in lead.",
+  "name": "Rozet",
+  "by": "Neutelings Riedijk Architects",
+  "city": "Arnhem",
+  "cc": "NL",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Community",
+   "Public space"
+  ],
+  "features": "Named after the rosette pattern used throughout, housing a public library and a roof terrace over Arnhem.",
+  "commons_category": "Category:Rozet (Arnhem)",
+  "coords": [
+   51.98078,
+   5.90429
+  ],
+  "photos": [
+   {
+    "file": "File:Rozet-building-arnhem.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Rozet_%28Arnhem%29",
+   "https://www.wikidata.org/wiki/Q19973961"
+  ]
+ },
+ {
+  "id": "toyama-kirari",
+  "qid": "Q21060996",
+  "status": "photo",
+  "why": "Lead gives a first and two design features (panel facade, diagonal atrium); opened 22 Aug 2015. Kuma is on the wall.",
+  "name": "Toyama Kirari",
+  "by": "Research Institute of Architecture, Kengo Kuma",
+  "city": "Toyama",
+  "cc": "JP",
+  "year": 2015,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Void",
+   "Cluster"
+  ],
+  "features": "Japan's first building to combine a library with a bank head office, its facade made of about 1,000 panels.",
+  "commons_category": "Category:Toyama KIRARI",
+  "coords": [
+   36.68858,
+   137.21475
+  ],
+  "photos": [
+   {
+    "file": "File:TOYAMA KIRARI exterior in the morning ac (3).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:TOYAMA KIRARI exterior in the morning ac (4).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/TOYAMA%E3%82%AD%E3%83%A9%E3%83%AA",
+   "https://www.wikidata.org/wiki/Q21060996"
+  ]
+ },
+ {
+  "id": "matsudai-nohbutai",
+  "qid": "Q28686074",
+  "status": "photo",
+  "why": "Lead says it was built for the 2003 triennial (year taken from that). MVRDV is a well-known practice.",
+  "name": "Matsudai Nohbutai",
+  "by": "MVRDV",
+  "city": "Tōkamachi",
+  "cc": "JP",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Earth & local material",
+   "Public space"
+  ],
+  "features": "Contemporary art museum and local archive built for the 2003 Echigo-Tsumari Art Triennale, with a field museum around it.",
+  "commons_category": "Category:Matsudai Nohbutai Field Museum",
+  "coords": [
+   37.13167,
+   138.615
+  ],
+  "photos": [
+   {
+    "file": "File:Matsudai Nohbutai.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E3%81%BE%E3%81%A4%E3%81%A0%E3%81%84%E3%80%8C%E8%BE%B2%E8%88%9E%E5%8F%B0%E3%80%8D",
+   "https://www.wikidata.org/wiki/Q28686074"
+  ]
+ },
+ {
+  "id": "cite-des-arts",
+  "qid": "Q2974769",
+  "status": "photo",
+  "why": "Lead names Kuma and gives the 5 April 2013 inauguration.",
+  "name": "Cité des Arts",
+  "by": "Kengo Kuma",
+  "city": "Besançon",
+  "cc": "FR",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Public space"
+  ],
+  "features": "Built by Archidev with Kengo Kuma, opened April 2013 to house a regional conservatory and contemporary art fund.",
+  "commons_category": "Category:Cité des arts et de la Culture de Besançon",
+  "coords": [
+   47.2365,
+   6.03344
+  ],
+  "photos": [
+   {
+    "file": "File:Cité des arts et de la Culture de Besançon.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Cité des Arts et de la Culture de Besançon.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Cit%C3%A9_des_Arts_%28Besan%C3%A7on%29",
+   "https://www.wikidata.org/wiki/Q2974769"
+  ]
+ },
+ {
+  "id": "viborg-town-hall",
+  "qid": "Q34994879",
+  "status": "photo",
+  "why": "Lead gives size, September 2011 opening and the former barracks site; Henning Larsen is a well-known practice.",
+  "name": "Viborg Town Hall",
+  "by": "Henning Larsen Architects",
+  "city": "Viborg",
+  "cc": "DK",
+  "year": 2011,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Community"
+  ],
+  "features": "Henning Larsen's town hall for Viborg, 20,000 square metres, opened in September 2011 on a former barracks site.",
+  "commons_category": "Category:Viborg Rådhus",
+  "coords": [
+   56.4586,
+   9.39841
+  ],
+  "photos": [
+   {
+    "file": "File:Viborgs nye rådhus set fra vandtårnet.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://da.wikipedia.org/wiki/Viborg_R%C3%A5dhus",
+   "https://www.wikidata.org/wiki/Q34994879"
+  ]
+ },
+ {
+  "id": "zenith-de-rouen",
+  "qid": "Q3576487",
+  "status": "photo",
+  "why": "Tschumi is a well-known architect; lead gives no year. Arena kept on the second test (well-known architect). Main photo replaced by a clear daylight view.",
+  "name": "Zénith de Rouen",
+  "by": "Bernard Tschumi",
+  "city": "Le Grand-Quevilly",
+  "cc": "FR",
+  "year": 2001,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Tschumi's concert hall in Le Grand-Quevilly, with capacity from 850 to 8,000 depending on the show.",
+  "commons_category": "Category:Zénith de Rouen",
+  "coords": [
+   49.39474,
+   1.05788
+  ],
+  "photos": [
+   {
+    "file": "File:Zenith de Grand Quevilly.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Z%C3%A9nith_de_Rouen",
+   "https://www.wikidata.org/wiki/Q3576487"
+  ]
+ },
+ {
+  "id": "lourdeskapelle-salgenreute",
+  "qid": "Q47012227",
+  "status": "photo",
+  "why": "Lead gives a design reason (historic forms and materials, modern minimalist style). Year not in lead.",
+  "name": "Lourdeskapelle Salgenreute",
+  "by": "Bernardo Bader",
+  "city": "Krumbach",
+  "cc": "AT",
+  "year": 2016,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "A minimalist modern chapel that picks up the historic building forms and local materials of its Salgenreute setting.",
+  "commons_category": "Category:Lourdes Kapelle, Krumbach",
+  "coords": [
+   47.49199,
+   9.9179
+  ],
+  "photos": [
+   {
+    "file": "File:Lourdes Kapelle-87933.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lourdes Kapelle-87924.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lourdes Kapelle-87929.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Lourdeskapelle_Salgenreute",
+   "https://www.wikidata.org/wiki/Q47012227"
+  ]
+ },
+ {
+  "id": "herman-teirlinck-building",
+  "qid": "Q47457146",
+  "status": "photo",
+  "why": "Neutelings Riedijk is a well-known practice; lead gives the site and client. Year not in lead.",
+  "name": "Herman Teirlinck Building",
+  "by": "Neutelings Riedijk Architects, Conix Architects",
+  "city": "Brussels",
+  "cc": "BE",
+  "year": 2017,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Pilotis",
+   "Structure as expression"
+  ],
+  "features": "Neutelings Riedijk's Flemish government office on the Thurn & Taxis site, beside the Port of Brussels.",
+  "commons_category": "Category:Herman Teirlinckgebouw",
+  "coords": [
+   50.86623,
+   4.35011
+  ],
+  "photos": [
+   {
+    "file": "File:Brussel-Herman Teirlinckgebouw (3).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018brussel 25.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:2018brussel 30.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Herman_Teirlinckgebouw",
+   "https://www.wikidata.org/wiki/Q47457146"
+  ]
+ },
+ {
+  "id": "sandels-culture-house",
+  "qid": "Q5479399",
+  "status": "photo",
+  "why": "Lead names Leiviskä and gives completion 2007 and the square edge (design reason).",
+  "name": "Sandels Culture House",
+  "by": "Juha Leiviskä",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "Juha Leiviskä's Helsinki culture house, completed 2007, giving the Töölö square a new western edge.",
+  "commons_category": "Category:Sandels Culture House",
+  "coords": [
+   60.17915,
+   24.92225
+  ],
+  "photos": [
+   {
+    "file": "File:Kulttuuritalo Sandels 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Musik- och kulturskolan Sandels och Tölö gymnasium ”Lönkan” 04.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kulttuuritalo Sandels 3.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fi.wikipedia.org/wiki/Kulttuuritalo_Sandels",
+   "https://www.wikidata.org/wiki/Q5479399"
+  ]
+ },
+ {
+  "id": "gerald-ratner-athletics-center",
+  "qid": "Q5549510",
+  "status": "photo",
+  "why": "Lead gives the suspended masts-and-cables design and approval in Sept 2003. Pelli is well known.",
+  "name": "Gerald Ratner Athletics Center",
+  "by": "César Pelli",
+  "city": "Chicago",
+  "cc": "US",
+  "year": 2003,
+  "type": "Culture & sport",
+  "movement": "High-tech",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Tensile structure"
+  ],
+  "features": "César Pelli's athletics centre on the University of Chicago campus, suspended by masts, cables and counterweights.",
+  "commons_category": "Category:Gerald Ratner Athletics Center",
+  "coords": [
+   41.7941,
+   -87.6018
+  ],
+  "photos": [
+   {
+    "file": "File:20071123 Ratner Center.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Chicago July 2013 43 (Ratner Athletics Center).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:University of Chicago July 2013 47 (Ratner Athletics Center).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gerald_Ratner_Athletics_Center",
+   "https://www.wikidata.org/wiki/Q5549510"
+  ]
+ },
+ {
+  "id": "mcnamara-alumni-center",
+  "qid": "Q6802471",
+  "status": "photo",
+  "why": "Lead calls it one of the more striking buildings in the Twin Cities and gives the 2000 opening. Predock is well known.",
+  "name": "McNamara Alumni Center",
+  "by": "Antoine Predock",
+  "city": "Minneapolis",
+  "cc": "US",
+  "year": 2000,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Antoine Predock's architecturally striking alumni centre on the University of Minnesota's Twin Cities campus, opened in 2000.",
+  "commons_category": "Category:McNamara Alumni Center",
+  "coords": [
+   44.9751,
+   -93.2277
+  ],
+  "photos": [
+   {
+    "file": "File:McNamara Alumni Center 20.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/McNamara_Alumni_Center",
+   "https://www.wikidata.org/wiki/Q6802471"
+  ]
+ },
+ {
+  "id": "zentralgebaeude-leuphana",
+  "qid": "Q758831",
+  "status": "photo",
+  "why": "Lead names Libeskind and gives the 2017 completion. Well-known architect.",
+  "name": "Zentralgebäude (Leuphana)",
+  "by": "Daniel Libeskind",
+  "city": "Lüneburg",
+  "cc": "DE",
+  "year": 2017,
+  "type": "Education",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Facade as skin"
+  ],
+  "features": "Daniel Libeskind's 2017 central building for Leuphana University in Lüneburg, with an auditorium and research centre.",
+  "commons_category": "Category:Zentralgebäude (Leuphana)",
+  "coords": [
+   53.22844,
+   10.40467
+  ],
+  "photos": [
+   {
+    "file": "File:Zentralgebäude (Leuphana).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leuphana Building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leuphana1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://de.wikipedia.org/wiki/Zentralgeb%C3%A4ude_%28Leuphana%29",
+   "https://www.wikidata.org/wiki/Q758831"
+  ]
+ },
+ {
+  "id": "trinity-river-audubon-center",
+  "qid": "Q7842946",
+  "status": "photo",
+  "why": "Predock is a well-known architect; lead gives the park setting. Year not in lead.",
+  "name": "Trinity River Audubon Center",
+  "by": "Antoine Predock",
+  "city": "Dallas",
+  "cc": "US",
+  "year": 2008,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Promenade",
+   "Sculptural form"
+  ],
+  "features": "Antoine Predock's nature centre in the Great Trinity Forest, a large urban park in Southeast Dallas.",
+  "commons_category": "Category:Trinity River Audubon Center",
+  "coords": [
+   32.7036,
+   -96.7053
+  ],
+  "photos": [
+   {
+    "file": "File:Trinity Audubon Center.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trinity_River_Audubon_Center",
+   "https://www.wikidata.org/wiki/Q7842946"
+  ]
+ },
+ {
+  "id": "mosaic-tile-museum-tajimi",
+  "qid": "Q78909892",
+  "status": "photo",
+  "why": "Lead gives the 4 June 2016 opening. Fujimori is a well-known architect; main photo shows the grassed-roof form.",
+  "name": "Mosaic Tile Museum Tajimi",
+  "by": "Terunobu Fujimori",
+  "city": "Tajimi",
+  "cc": "JP",
+  "year": 2016,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Landscape",
+   "Colour"
+  ],
+  "features": "Terunobu Fujimori's mosaic tile museum in Tajimi, opened in June 2016 beside the former community hall.",
+  "commons_category": "Category:MOSAIC TILE MUSEUM Tajimi",
+  "coords": [
+   35.29911,
+   137.15953
+  ],
+  "photos": [
+   {
+    "file": "File:Mosaic Tile Museum Tajimi exterior ac.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%B2%BB%E8%A6%8B%E5%B8%82%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0",
+   "https://www.wikidata.org/wiki/Q78909892"
+  ]
+ },
+ {
+  "id": "maison-folie-de-wazemmes",
+  "qid": "Q2310474",
+  "status": "photo",
+  "why": "Old mill converted after 2000, kept because the lead names Spuybroek and NOX for the rehabilitation design; the rated photo shows the whole building outside. Year from the lead.",
+  "name": "Maison Folie de Wazemmes",
+  "by": "Lars Spuybroek",
+  "city": "Lille",
+  "cc": "FR",
+  "year": 2004,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Sculptural form",
+   "Community"
+  ],
+  "features": "Former textile mill rehabilitated by Dutch agency NOX and Lars Spuybroek for Lille's 2004 European Capital of Culture.",
+  "commons_category": "Category:Maison folie de Wazemmes",
+  "coords": [
+   50.62464,
+   3.04825
+  ],
+  "photos": [
+   {
+    "file": "File:Lille maison folie de wazemmes.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wazemmes maisonfolie.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maison_folie_de_Wazemmes",
+   "https://www.wikidata.org/wiki/Q2310474"
+  ]
+ },
+ {
+  "id": "monastery-of-siloe",
+  "qid": "Q107610913",
+  "status": "photo",
+  "why": "Named architect and reasons in the lead (21st-century monastery, green design); daylight exterior. Year not in the lead, so null.",
+  "name": "Monastery of Siloe",
+  "by": "Edoardo Milesi",
+  "city": "Cinigiano",
+  "cc": "IT",
+  "year": 2012,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Timber",
+   "Landscape"
+  ],
+  "features": "Italy's only 21st-century monastery, inspired by Cistercian architecture and a valuable example of green religious design.",
+  "commons_category": "Category:Monastery of Siloe",
+  "coords": [
+   42.91874,
+   11.32034
+  ],
+  "photos": [
+   {
+    "file": "File:Monastero di Siloe.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Foresteria del Pellegrino.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monastery_of_Siloe",
+   "https://www.wikidata.org/wiki/Q107610913"
+  ]
+ },
+ {
+  "id": "edificio-de-la-delegacion-territorial-de-salud-y-consumo-de-vizcaya",
+  "qid": "Q12265317",
+  "status": "photo",
+  "why": "Named architect and a distinctive facade named in the lead; the name is the lead's own (the Wikipedia title is Sede de Osakidetza). Year from the lead.",
+  "name": "Sede de Osakidetza, Bilbao",
+  "by": "Juan Coll Barreu",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": 2008,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Sculptural form"
+  ],
+  "features": "Unmistakable polyhedral facade by Juan Coll-Barreu on a Bilbao building housing the Basque health department.",
+  "commons_category": "Category:Sede de Osakidetza, Bilbao",
+  "coords": [
+   43.26074,
+   -2.93565
+  ],
+  "photos": [
+   {
+    "file": "File:Bilbao - Sede de Osakidetza (Servicio Vasco de Salud) 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bilbao - Sede Osakidetza (28716420554).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Basque Health Department Headquarters, Bilbao by Coll-Barreu Arquitectos (32114805065).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://es.wikipedia.org/wiki/Sede_de_Osakidetza",
+   "https://www.wikidata.org/wiki/Q12265317"
+  ]
+ },
+ {
+  "id": "centre-for-interactive-research-on-sustainability",
+  "qid": "Q16247338",
+  "status": "photo",
+  "why": "Named firm (Perkins & Will has several buildings on the wall) and specific sustainability reasons in the lead; one daylight exterior photo. Year from the lead.",
+  "name": "Centre for Interactive Research on Sustainability",
+  "by": "Perkins & Will",
+  "city": "Vancouver",
+  "cc": "CA",
+  "year": 2011,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Water",
+   "Community"
+  ],
+  "features": "Sustainable UBC research building: 100% rainwater supply, LEED Platinum, and 600 tons of CO2 sequestered in its structure.",
+  "commons_category": null,
+  "coords": [
+   49.262,
+   -123.253
+  ],
+  "photos": [
+   {
+    "file": "File:CIRS Building UBC.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centre_for_Interactive_Research_on_Sustainability",
+   "https://www.wikidata.org/wiki/Q16247338"
+  ]
+ },
+ {
+  "id": "maritime-centre-vellamo",
+  "qid": "Q2945864",
+  "status": "photo",
+  "why": "Maritime museum in Kotka by Ilmari Lahdelma (whose practice has two Finnish museums on the wall); the layered steel-panel facade is a clear daylight exterior. The French lead gives no design reason or year, so this is a keep on architect and photo only.",
+  "name": "Maritime Centre Vellamo",
+  "by": "Ilmari Lahdelma",
+  "city": "Kotka",
+  "cc": "FI",
+  "year": 2008,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Landscape"
+  ],
+  "features": "A maritime centre built in the harbour of Kotka, Finland.",
+  "commons_category": "Category:Maritime Centre Vellamo",
+  "coords": [
+   60.4728,
+   26.945
+  ],
+  "photos": [
+   {
+    "file": "File:Sea museum Vellamo.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Maritime Centre Vellamo, Kotka (52614726611).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Centre_maritime_de_Vellamo",
+   "https://www.wikidata.org/wiki/Q2945864"
+  ]
+ },
+ {
+  "id": "iki-city-ikikoku-museum",
+  "qid": "Q11429588",
+  "status": "photo",
+  "why": "Municipal museum on Iki island credited to Kisho Kurokawa (16 buildings on the wall). He died in 2007 and the museum opened in 2010, so it is a posthumous completion of his design, not an impossible date; the lead names no architect, so verify before adding. Main photo is a clear daylight exterior of the white curved building with its tower.",
+  "name": "Iki City Ikikoku Museum",
+  "by": "Kisho Kurokawa",
+  "city": "Iki",
+  "cc": "JP",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "A museum in Iki City, Nagasaki, displaying finds from Harunotsuji, thought to be the royal capital of the Ikoku kingdom.",
+  "commons_category": "Category:Iki City Ikikoku Museum",
+  "coords": [
+   33.76761,
+   129.75536
+  ],
+  "photos": [
+   {
+    "file": "File:Ikicityikikokumuseum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://ja.wikipedia.org/wiki/%E5%A3%B1%E5%B2%90%E5%B8%82%E7%AB%8B%E4%B8%80%E6%94%AF%E5%9B%BD%E5%8D%9A%E7%89%A9%E9%A4%A8",
+   "https://www.wikidata.org/wiki/Q11429588"
+  ]
+ },
+ {
+  "id": "fondazione-bertarelli-concert-hall",
+  "qid": "Q107567168",
+  "status": "photo",
+  "why": "Concert hall named exemplary for bio-architecture and energy efficiency.",
+  "name": "Fondazione Bertarelli Concert Hall",
+  "by": "Edoardo Milesi",
+  "city": "Cinigiano",
+  "cc": "IT",
+  "year": 2015,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "A contemporary-style auditorium near Cinigiano, considered an exemplary achievement in bio-architecture and energy efficiency.",
+  "commons_category": "Category:Forum Fondazione Bertarelli",
+  "coords": [
+   42.87401,
+   11.32714
+  ],
+  "photos": [
+   {
+    "file": "File:Bertarelli Concert Hall Cinigiano.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fondazione_Bertarelli_Concert_Hall",
+   "https://www.wikidata.org/wiki/Q107567168"
+  ]
+ }
+]

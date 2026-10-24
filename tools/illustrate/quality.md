@@ -216,3 +216,97 @@ filled earlier pools). Sonnet tagged every ordinary type it kept. 102 buildings 
 
 Held: 6 without a sourced year, 1 without a main photo (`tools/cheap/pool7_held.json`); Festspielhaus Hellerau left
 off for want of an exterior photo. 80 of the 102 are in Europe.
+
+## Haiku pipeline, eighth pool (22 Oct 2026): 300 candidates, batch 7's rules
+
+Same pool rules as the seventh pool, plus local US halls, libraries and churches by architects not on the wall
+left out (468 local US entries in all). The candidate list is running thin: Haiku kept only 58 of 300, and Sonnet
+ended with 59. Two of the weakest ordinary keeps (the Morbegno library, kept only for its architect, and Aalto's
+Philologica dormitory) were dropped so ordinary types stay under the owner's 20%. 52 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 1 of 53 (2%): Villa Tonder (only historic photos; unclear whether it stands) | fine |
+| No free photo | 14 of 300 (5%) | fine |
+| Already on the wall | 2 of 300 (1%): the Bellinzona public bath and the Cottbus library | fine |
+| Facts failing the source check | Haiku's keeps: 7 of 58 were wrong keeps and about 12 needed a fact fixed (33%) | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 9 of 52 (17%) by Sonnet's tag; 5 (10%) by type | fine, under 20% after dropping two |
+
+Held for a year: Thiel Gallery, Mercado Central (Valencia), Hans Christian Andersen Museum, Lake Suwa Museum
+(`tools/cheap/pool8_held.json`). After this pool the harvest has few strong candidates left: the next round should
+come from a new search (contemporary work, the Pritzker winners' full lists, under-represented regions) rather than
+deeper into this list.
+
+## Haiku pipeline, ninth pool (23 Oct 2026): 139 buildings by Pritzker Prize winners, not yet on the wall
+
+A new search (see the eighth pool's note): every building in `tools/pritzker/buildings.json` not on the wall or
+judged before, no ordinary types in the pool, at most 12 per laureate. 37 had no Wikipedia article in any language
+(skipped: nothing to source the key features from). Haiku kept 54; Sonnet found 11 wrong keeps (a sculpture, two
+duplicates of wall buildings, eight with no design reason in the lead) and rescued 2. Six ordinary keeps were set
+aside to keep under the owner's 20% (`tools/cheap/pool9_held.json`, "ordinary type, over the 20% cap"). 22
+buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 22 (1 better lead chosen) | fine |
+| No free photo | 18 of 139 (13%) | fine |
+| Already on the wall | 3 of 139 (2%): Olympic Roof Munich, Shenzhen Library, MOMA Tainan | fine |
+| Facts failing the source check | Haiku's keeps: 11 of 54 were wrong keeps and 12 needed a fact fixed (43%), mostly features naming the architect when the lead doesn't | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 4 of 22 (18%) by Sonnet's tag | fine, after setting six aside |
+
+Held for a year: 12 (`tools/cheap/pool9_held.json`).
+
+## Fix-up round (23 Oct 2026): sourced years for the 51 held buildings
+
+`tools/held_years.py` (on Actions) gathered Wikidata dates and the build/open/complete sentences from up to three
+Wikipedia articles per building; a Sonnet chat picked the completion year and quoted its source
+(`tools/cheap/held_years_picked.json`, quotes kept in each entry's `year_source`). 39 were added: 29 with a high, 9
+with a medium confidence year, and Wall House II (2001, built after Hejduk's death). Left held: 5 with no year in any
+source, 4 low-confidence (CityLife, Historisches Museum Saar, Aldo van Eyck pavilion, Lake Suwa), Prins Hendrikkade
+600 (Piano's pavilion was rebuilt) and Glenstone (its main buildings are Phifer's); UOB Plaza was already on the
+wall. Photo review: 2 better leads, 53 gallery photos removed across both rounds (events, signs, artworks, models,
+and Andersen's birthplace in the Kuma museum's gallery). Ordinary types: 4 of 39 (10%).
+
+## Haiku pipeline, tenth pool (23 Oct 2026): 300 candidates from a new harvest of buildings from 2000 on
+
+`tools/harvest_recent.py` (Wikidata, works with an architect and at least two sitelinks, 2000–2026) gave 3,964;
+`tools/cheap/make_pool10.py` kept 300: no ordinary types by name or instance, no earliest date before 1998 (old
+buildings reopened later), none by architects whose wall work ends before 1975, at most 4 per architect. The fame
+bar is low: Haiku kept 94, and Sonnet threw out 46 of them, mostly kept only because the architect is on the wall
+with nothing in the lead about the design, and rescued 5. Left out by hand: House Okamura (the private home of a
+named politician) and Bunker 599 (an installation; owner to decide); the Deloitte office building was set aside for
+the 20% rule. 45 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 45 (1 better lead chosen; 37 gallery photos removed) | fine |
+| No free photo | 14 of 300 (5%) | fine |
+| Already on the wall | 0 of 300 | fine |
+| Facts failing the source check | Haiku's keeps: 46 of 94 were wrong keeps and 21 needed a fact fixed (71%) | **stop level for Haiku alone**: Haiku is not reliable on a low-fame list; Sonnet's full check is essential |
+| Ordinary types | 8 of 45 (18%) by Sonnet's tag | fine, after setting one aside |
+
+Held: 3 without a sourced year, 2 without a main photo, and the three above (`tools/cheap/pool10_held.json`).
+
+## Haiku pipeline, eleventh pool (23 Oct 2026): 299 candidates from under-represented regions
+
+From `tools/harvest/regions.json` (the 11 Oct regional harvest: Africa, Latin America and Asia beyond Japan, China,
+Korea, Taiwan and Russia), not used before, dated 1900 on, no ordinary types by name, at most 4 per architect and 20
+per country (`tools/cheap/make_pool11.py`). Haiku kept 45; Sonnet threw out 18 (12 revival-style cathedrals and
+palaces with nothing in the lead about their design, 3 already on the wall, 3 ordinary civic buildings) and rescued
+5, of which three Barluzzi churches were left out by hand for the same want of a design reason. Muzharul Islam's
+Fine Arts building in Dhaka came off `rejected.txt`: a daylight photo of the building itself was found and checked
+by eye. Three ordinary keeps were set aside for the 20% rule. 24 buildings reached the wall.
+
+| Number | This pool | Level |
+|---|---|---|
+| Leads held back in photo review | 0 of 24 (1 better lead chosen; 18 gallery photos removed) | fine |
+| No free photo | 9 of 299 (3%), among them Africa Hall, Manik Bagh, Duhart's Concepción library and Guedes's Zambi | fine |
+| Already on the wall | 8 of 299 (3%): Israel Museum, Pearl Palace, Weizmann House, Villa Shodhan, Villa Baizeau, Coconut Palace, Chaktomuk Hall, Holy Sacrifice | fine |
+| Facts failing the source check | Haiku's keeps: 18 of 45 were wrong keeps and 13 needed a fact fixed (69%) | **stop level for Haiku alone**, as in every Haiku pool |
+| Ordinary types | 4 of 24 (17%) by Sonnet's tag | fine, after setting three aside |
+
+Held: Independence Hall (no year), Botter Apartment (no main photo), and the three ordinary keeps
+(`tools/cheap/pool11_held.json`). The regional harvest is thin past this pool: 300 more candidates would mostly be
+revival churches and offices. Five strong buildings were skipped only for want of any Wikipedia text (House of
+Victoria Ocampo, the Senate Palace and the Glass Building in Tehran, the Ab-o-Atash amphitheatre, Igreja Matriz in
+Presidente Getúlio): worth a hand-written entry from a source later.

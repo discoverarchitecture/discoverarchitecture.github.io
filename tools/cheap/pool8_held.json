@@ -1,0 +1,186 @@
+[
+ {
+  "id": "thiel-gallery",
+  "qid": "Q252259",
+  "name": "Thiel Gallery",
+  "why": "no sourced year",
+  "entry": {
+   "id": "thiel-gallery",
+   "qid": "Q252259",
+   "status": "photo",
+   "why": "Ferdinand Boberg is on the wall. The lead gives no year or design, so 1924 is the Wikidata year and is unchecked.",
+   "name": "Thiel Gallery",
+   "by": "Ferdinand Boberg",
+   "city": "Stockholm",
+   "cc": "SE",
+   "year": null,
+   "type": "Museum",
+   "movement": "Historic precedent",
+   "concepts": [
+    "Landscape",
+    "Public space",
+    "Detail"
+   ],
+   "features": "Art museum in Stockholm's Djurgården park, with one of the world's largest Edvard Munch collections.",
+   "commons_category": "Category:Thielska galleriet",
+   "coords": [
+    59.32222,
+    18.14861
+   ],
+   "photos": [
+    {
+     "file": "File:Thielska galleriet April 2015.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Thiel_Gallery",
+    "https://www.wikidata.org/wiki/Q252259"
+   ]
+  }
+ },
+ {
+  "id": "mercado-central-valencia",
+  "qid": "Q2197068",
+  "name": "Mercado Central, Valencia",
+  "why": "no sourced year",
+  "entry": {
+   "id": "mercado-central-valencia",
+   "qid": "Q2197068",
+   "status": "photo",
+   "why": "Lead: one of the main works of Valencian Art Nouveau. Main photo shows the whole market hall. Year not in the lead.",
+   "name": "Mercado Central, Valencia",
+   "by": "Francesc Guàrdia i Vial, Alexandre Soler i March, Enric Viedma i Vidal, Ángel Romaní Verdeguer",
+   "city": "Valencia",
+   "cc": "ES",
+   "year": null,
+   "type": "Civic",
+   "movement": "Art Nouveau",
+   "concepts": [
+    "Steel & glass",
+    "Detail",
+    "Monumentality"
+   ],
+   "features": "One of the main works of Valencian Art Nouveau, a public market across from the Llotja de la Seda.",
+   "commons_category": "Category:Mercat Central de València",
+   "coords": [
+    39.4735,
+    -0.37894
+   ],
+   "photos": [
+    {
+     "file": "File:Mercado Central, Valencia, España, 2014-06-30, DD 108.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:20211115.Valencia.-076.1.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mercado_Central%2C_Valencia",
+    "https://www.wikidata.org/wiki/Q2197068"
+   ]
+  }
+ },
+ {
+  "id": "hans-christian-andersen-museum",
+  "qid": "Q490485",
+  "name": "Hans Christian Andersen Museum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "hans-christian-andersen-museum",
+   "qid": "Q490485",
+   "status": "photo",
+   "why": "Kuma's built work per Wikidata; the lead names no architect and no date, so year is null.",
+   "name": "Hans Christian Andersen Museum",
+   "by": "Kengo Kuma & Associates",
+   "city": "Odense",
+   "cc": "DK",
+   "year": null,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Landscape",
+    "Planting",
+    "Timber"
+   ],
+   "features": "Museums in Odense for Hans Christian Andersen, incorporating his birthplace, a children's play space and a garden.",
+   "commons_category": "Category:Hans Christian Andersen Museum",
+   "coords": [
+    55.3987,
+    10.39077
+   ],
+   "photos": [
+    {
+     "file": "File:Odense stad 2022 1.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Odense stad 2022 2.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Odense 103.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:Odense stad 2022 3.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hans_Christian_Andersen_Museum",
+    "https://www.wikidata.org/wiki/Q490485"
+   ]
+  }
+ },
+ {
+  "id": "lake-suwa-museum",
+  "qid": "Q11631898",
+  "name": "Lake Suwa Museum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "lake-suwa-museum",
+   "qid": "Q11631898",
+   "status": "photo",
+   "why": "Toyo Ito museum on the shore of Lake Suwa; year unsupported so null.",
+   "name": "Lake Suwa Museum",
+   "by": "Toyo Ito",
+   "city": "Shimosuwa",
+   "cc": "JP",
+   "year": null,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Water",
+    "Landscape",
+    "Sculptural form"
+   ],
+   "features": "A municipal museum on the shore of Lake Suwa in Shimosuwa, with the Akahiko Memorial Hall literature museum attached.",
+   "commons_category": null,
+   "coords": [
+    36.06722,
+    138.10083
+   ],
+   "photos": [
+    {
+     "file": "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E8%AB%8F%E8%A8%AA%E6%B9%96%E5%8D%9A%E7%89%A9%E9%A4%A8",
+    "https://www.wikidata.org/wiki/Q11631898"
+   ]
+  }
+ }
+]

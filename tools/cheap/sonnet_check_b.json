@@ -1,393 +1,220 @@
 {
  "keep_ok": [
-  "cenotaph-for-the-a-bomb-victims",
-  "fine-arts-center-massachusetts",
-  "guildford-cathedral",
-  "longmire-buildings",
-  "gary-bathing-beach-aquatorium",
-  "vadso-church",
-  "orthodox-church-of-the-annunciation-in-malczyce",
-  "chapelle-des-franciscains-d-arcueil",
-  "khovo-lar",
-  "sackler-wing",
-  "st-hildegardis",
-  "villa-low-beer",
-  "opera-de-vichy",
-  "bruder-klaus-kirche",
-  "volmanova-vila",
-  "cafe-era",
-  "villa-kroha",
-  "villa-patocka",
-  "villa-psota",
-  "dorfkirche-kunersdorf",
-  "van-zessen-house",
-  "freibad-letzigraben",
-  "people-s-house",
-  "strandbad-biel",
-  "wuwa-building-no-26-27",
-  "wuwa-building-no-35",
-  "wuwa-building-no-37",
-  "sachsenbad",
-  "hojen-13",
-  "saint-thomas-church",
-  "casa-blanch",
-  "casa-cattaneo",
-  "piuskirche",
-  "new-town-hall-in-jablonec-nad-nisou",
-  "haskova-vila",
-  "villa-kranz",
-  "villa-bass",
-  "edward-p-evans-hall",
-  "madison-museum",
-  "olveston-historic-home",
-  "catholic-church-of-the-holy-cross-mainz",
-  "auferstehungskirche",
-  "skogskapellet",
-  "nymble",
-  "gb-cooley-house",
-  "las-palmas",
-  "bj-ricker-house",
-  "palazzo-della-borsa-valori-di-torino"
+  "palacio-diaz",
+  "temple-of-saint-anthony-of-padua",
+  "edificio-ariztia",
+  "edificio-do-banco-paulista-do-comercio",
+  "tanghalang-pambansa",
+  "edificio-guardiola",
+  "galeria-guemes",
+  "ricardo-rojas-house-museum-research-institute",
+  "coliseo-la-tortuga"
  ],
  "ordinary": [
-  "khovo-lar",
-  "las-palmas"
+  "palacio-diaz",
+  "edificio-ariztia",
+  "edificio-do-banco-paulista-do-comercio",
+  "edificio-guardiola",
+  "coliseo-la-tortuga"
  ],
  "keep_fix": [
   {
-   "id": "longmire-buildings",
+   "id": "palacio-diaz",
    "field": "by",
-   "haiku": "Thomas Chalmers Vint",
-   "should_be": "Ernest A. Davidson",
-   "why": "Wikidata names Davidson; the lead says only that NPS staff designed them under Vint's direction, not that Vint was the designer. (Judgement call: Vint is the director.)"
+   "haiku": "Gonzalo Vázquez Barrière",
+   "should_be": "Gonzalo Vázquez Barrière, Rafael Ruano",
+   "why": "The (German) lead names both architects of the 1929 building; Wikidata lists only one."
   },
   {
-   "id": "cafe-era",
+   "id": "palacio-diaz",
+   "field": "concepts",
+   "haiku": [
+    "Facade as skin",
+    "Public space",
+    "Cluster"
+   ],
+   "should_be": [
+    "Facade as skin",
+    "Geometry",
+    "Public space"
+   ],
+   "why": "'Cluster' does not fit a single stepped Art Deco block with a shopping passage; 'Geometry' fits the stepped massing in the photos."
+  },
+  {
+   "id": "edificio-ariztia",
+   "field": "concepts",
+   "haiku": [
+    "Structure as expression",
+    "Exposed concrete",
+    "Geometry"
+   ],
+   "should_be": [
+    "Structure as expression",
+    "Geometry",
+    "Facade as skin"
+   ],
+   "why": "The lead says reinforced concrete structure, but the facades are plastered, so 'Exposed concrete' is wrong; the photos show a wedge-shaped block with a rendered facade."
+  },
+  {
+   "id": "galeria-guemes",
    "field": "year",
-   "haiku": 1920,
-   "should_be": null,
-   "why": "The lead gives no year and calls it functionalist; 1920 (Wikidata) is too early for that style, so no supported year."
+   "haiku": null,
+   "should_be": 1915,
+   "why": "Lead gives only the 1913 design date; prep's year 1915 is the plausible completion year, and the brief says to use prep's year then."
   },
   {
-   "id": "cafe-era",
+   "id": "ricardo-rojas-house-museum-research-institute",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1929,
+   "why": "Commissioned 1927; the lead says Rojas lived in the house from 1929, and prep's year is 1929, which is plausible for completion."
+  },
+  {
+   "id": "ricardo-rojas-house-museum-research-institute",
+   "field": "concepts",
+   "haiku": [
+    "Facade as skin",
+    "Detail",
+    "Sculptural form"
+   ],
+   "should_be": [
+    "Courtyard",
+    "Detail",
+    "Facade as skin"
+   ],
+   "why": "The photos (and the house's fame) are about the patio and its carved facade, not a sculptural form."
+  },
+  {
+   "id": "tanghalang-pambansa",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1969,
+   "why": "Lead gives no year; prep's year 1969 is plausible (Cultural Center of the Philippines theatre opened 1969)."
+  },
+  {
+   "id": "coliseo-la-tortuga",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1980,
+   "why": "Lead gives no year; prep's year 1980 is plausible, so it is used instead of null."
+  },
+  {
+   "id": "edificio-guardiola",
    "field": "features",
-   "haiku": "A functionalist café building in Brno by Josef Kranz, with a working café on the ground floor.",
-   "should_be": "A functionalist building in Brno's Černá Pole quarter that still houses a working café, by Josef Kranz.",
-   "why": "'On the ground floor' is not in the lead."
-  },
-  {
-   "id": "gary-bathing-beach-aquatorium",
-   "field": "type",
-   "haiku": "Public space",
-   "should_be": "Culture & sport",
-   "why": "A bathhouse and beach facility; 'Public space' is too vague for the filter."
+   "haiku": "Functionalist office building for Banco de México, built 1947 on a site with several historical stages.",
+   "should_be": "Functionalist office building by Carlos Obregón Santacilia for Banco de México, built in 1947.",
+   "why": "Clearer; the 'site with several historical stages' clause is a filler from the lead."
   }
  ],
- "keep_wrong": [
-  {
-   "id": "paradiso-amsterdam",
-   "why": "Church of 1880 converted to a music venue in 1968; completed before 1900 and the lead gives no case for it as a key precedent."
-  },
-  {
-   "id": "philadelphia-history-museum",
-   "why": "Built 1824-26 (before 1900) and the lead gives only 'landmark Greek Revival' and a listing, so no precedent case; the museum closed in 2018 and the main photo has people in it."
-  },
-  {
-   "id": "palm-springs-convention-center",
-   "why": "Convention centre, an ordinary type; the only design reason in the lead is the 2005 Fentress expansion, not Pereira's 1974 building."
-  },
-  {
-   "id": "scranton-cultural-center",
-   "why": "Theatre and cultural centre; the lead gives only its use and National Register listing, no design reason (Hood's key works are already on the wall)."
-  },
-  {
-   "id": "louise-freer-hall",
-   "why": "University gymnasium kept on a Georgian Revival style and 'last Platt building on campus' alone; strict rule for campus halls."
-  },
-  {
-   "id": "kitchi-gammi-club",
-   "why": "Private club building kept on a listing and Georgian/Gothic Revival style alone; ordinary revival building."
-  },
-  {
-   "id": "volksbuhne",
-   "why": "Empty lead in every language, so no source for the key features."
-  },
-  {
-   "id": "carpenter-theatre",
-   "why": "Empty lead in every language, so no source for the key features; revival-style theatre."
-  },
-  {
-   "id": "edificio-urumea",
-   "why": "Empty lead in every language; also an apartment block."
-  },
-  {
-   "id": "uris-hall",
-   "why": "Empty lead in every language; also a plain campus building (the Bunshaft rule does not override an empty lead)."
-  },
-  {
-   "id": "hoffman-hall",
-   "why": "Empty lead in every language; plain campus tower and the photo is a tight crop."
-  },
-  {
-   "id": "st-willibald",
-   "why": "Lead only calls it a modern church and describes the parish boundaries; no design reason. Borderline: same architect's St. Nikolaus was skipped for the same reason."
-  },
-  {
-   "id": "neues-rathaus",
-   "why": "Town hall tower block; the lead says only 'modern, functional' and names a regional architect, so ordinary type with no design reason."
-  },
-  {
-   "id": "royce-hall",
-   "why": "Campus hall kept on a named revival style (Lombard Romanesque) and being UCLA's best-known image; strict rule for campus halls."
-  },
-  {
-   "id": "helsinki-stock-exchange-building",
-   "why": "Stock exchange kept on a named style alone, and the first photo (Haiku's p2) is a street-level crop of the facade with passers-by, not a clear whole-building view; the Wikidata main is a doorway detail."
-  }
- ],
+ "keep_wrong": [],
  "main_photo_wrong": [
   {
-   "id": "bruder-klaus-kirche",
-   "better_file_or_null": "File:Stuttgart Hajek-13-06-he 025.jpg",
-   "why": "Haiku's first photo is a small, hazy tower among trees under grey sky; this one shows the tower, curved roof and entrance clearly in daylight."
+   "id": "botter-appartement",
+   "better_file_or_null": null,
+   "why": "The only whole-street shot (File:Botter Apartment.jpg) is a narrow vertical street scene with pedestrians and the building cut off; every other photo is a facade or ironwork detail. Without a clear exterior it cannot be kept (Haiku listed only that one photo). Also name: use 'Botter Apartment' (Commons name) rather than the Dutch title; prep's year 1901 is the plausible year since the lead says only 'the 1900s'."
   },
   {
-   "id": "villa-patocka",
-   "better_file_or_null": "File:Brno, Kaplanova, Patočkova vila (2).jpg",
-   "why": "The Wikidata main is a close-up half hidden by bushes; this view shows the whole house against a blue sky."
+   "id": "galeria-guemes",
+   "better_file_or_null": "File:Galería Güemes Cúpula torreta 01.jpg",
+   "why": "Haiku's first photo (Galeria Güemes desde Bencich.jpg) is a close crop of the tower and top floors; prep's main photo (CC BY-SA 4.0) shows the whole building with its tower in daylight."
   },
   {
-   "id": "olveston-historic-home",
-   "better_file_or_null": "File:Olveston Historic Home, Dunedin - Olveston8895.jpg",
-   "why": "The main photo shows the house small and partly behind an autumn tree; this one fills the frame with the whole house."
-  },
-  {
-   "id": "edward-p-evans-hall",
-   "better_file_or_null": "File:Edward P. Evans Hall .jpg",
-   "why": "The Wikidata main ('Evans Hall back') shows the rear across a snowy lot; this shows the glazed front in daylight."
+   "id": "coliseo-la-tortuga",
+   "better_file_or_null": "File:Coliseo La Tortuga (7118487397).jpg",
+   "why": "Haiku's photo (6972409366) shows the arena small and far behind a palm and pavement; prep's main photo (CC BY-SA 2.0) shows the whole turtle-shell roof close up. A large totem sculpture stands at its left edge but the arena is the subject."
   }
  ],
  "rescued": [
   {
-   "id": "einsteinhaus-caputh",
-   "why": "Wachsmann's timber house for Einstein, named by the brief; the lead (de) says built 1929 in Caputh, a timber house, lived in 1929-32, reopened 2005. Photos are clear exterior views.",
+   "id": "selim-al-deen-muktamanch",
+   "why": "Lead gives a clear design reason (first open-air theatre in South Asia in the style of an ancient Greek theatre, on a mound slope). Architect conflict resolved: the lead calls Selim Al Deen (a playwright) the 'master planner' after whom it was named, and names no designer, so Wikidata's Alamgir Kabir stands. Main photo is a clear daylight view of the whole tiered amphitheatre with no people. Movement is my choice; the lead names none.",
    "entry": {
-    "id": "einsteinhaus-caputh",
-    "qid": "Q1309294",
+    "id": "selim-al-deen-muktamanch",
+    "qid": "Q130607297",
     "status": "photo",
-    "why": "Wachsmann's Einstein house; first photo is the whole house from the garden (Wikidata's main is a side view with the same house).",
-    "name": "Einsteinhaus Caputh",
-    "by": "Konrad Wachsmann",
-    "city": "Caputh",
-    "cc": "DE",
-    "year": 1929,
-    "type": "House",
-    "movement": "Modernism",
-    "concepts": [
-     "Timber",
-     "Prefabrication",
-     "Landscape"
-    ],
-    "features": "A 1929 timber summer house at Caputh near Potsdam, home of Albert Einstein until 1932.",
-    "commons_category": "Category:Einsteinhaus Caputh",
-    "coords": [
-     52.35,
-     13.0141
-    ],
-    "photos": [
-     {
-      "file": "File:Einsteinhaus Caputh rear 2015.JPG",
-      "license": "Public domain",
-      "seen": true
-     },
-     {
-      "file": "File:Albert Einstein home Berlin 100.JPG",
-      "license": "CC BY-SA 3.0",
-      "seen": true
-     },
-     {
-      "file": "File:Einsteinhaus north.jpg",
-      "license": "Public domain",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "emmaus-church-vols",
-   "why": "Josef Lackner's folded white church in Völs is a key modern Tyrolean work; lead (de) gives the parish, dedication and monument listing; one excellent exterior photo (whole building, daylight). Haiku skipped for 'location and listing only'.",
-   "entry": {
-    "id": "emmaus-church-vols",
-    "qid": "Q38069391",
-    "status": "photo",
-    "why": "Lackner on the list of modern architects worth keeping; year 1967 from Wikidata (lead gives none).",
-    "name": "Emmaus Church, Völs",
-    "by": "Josef Lackner",
-    "city": "Völs",
-    "cc": "AT",
-    "year": 1967,
-    "type": "Religious",
-    "movement": "Modernism",
-    "concepts": [
-     "Sculptural form",
-     "Geometry",
-     "Landscape"
-    ],
-    "features": "A listed Catholic parish church in Völs, Tyrol, dedicated to Jesus at Emmaus, by Josef Lackner, 1967.",
-    "commons_category": "Category:Emmaus Church (Völs, Tirol)",
-    "coords": [
-     47.25285,
-     11.32978
-    ],
-    "photos": [
-     {
-      "file": "File:Völs, Emmauskirche.JPG",
-      "license": "CC BY-SA 3.0 at",
-      "seen": true
-     },
-     {
-      "file": "File:Völs Pfarrkirche Emmaus.jpg",
-      "license": "CC BY-SA 3.0 at",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "kauniainen-church",
-   "why": "Kristian Gullichsen's 1983 church (Wikidata); the lead (fr) is only one sentence, so the features line is thin. Lower confidence: kept only because Gullichsen is a well-known modern Finnish architect and the first photo is a clear daylight exterior.",
-   "entry": {
-    "id": "kauniainen-church",
-    "qid": "Q19950962",
-    "status": "photo",
-    "why": "Lower confidence; coords are the second of two in prep (the church itself, the first is the town).",
-    "name": "Kauniainen Church",
-    "by": "Kristian Gullichsen",
-    "city": "Kauniainen",
-    "cc": "FI",
-    "year": 1983,
-    "type": "Religious",
-    "movement": "Late modernism",
-    "concepts": [
-     "Brick",
-     "Geometry",
-     "Light & shadow"
-    ],
-    "features": "A church in Kauniainen, Finland (Kauniaisten kirkko), designed by Kristian Gullichsen, 1983.",
-    "commons_category": "Category:Kauniainen Church",
-    "coords": [
-     60.21336,
-     24.72797
-    ],
-    "photos": [
-     {
-      "file": "File:Kauniaisten kirkko 1.JPG",
-      "license": "Public domain",
-      "seen": true
-     },
-     {
-      "file": "File:Kauniainen Church - Kauniaisten kirkko C IMG 8248.JPG",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Kauniaisten kirkko 3.JPG",
-      "license": "Public domain",
-      "seen": true
-     }
-    ]
-   }
-  },
-  {
-   "id": "butte-aux-cailles-swimming-pool",
-   "why": "Louis Bonnier's 1924 Paris pool; lead (fr) says it is one of the oldest pools in Paris. Lower confidence: no design reason in the lead, kept because Bonnier is a well-known architect and the first photo is a clear daylight exterior.",
-   "entry": {
-    "id": "butte-aux-cailles-swimming-pool",
-    "qid": "Q3389226",
-    "status": "photo",
-    "why": "Lower confidence; the other two photos are public-domain archive views of the pool's facade.",
-    "name": "Butte-aux-Cailles swimming pool",
-    "by": "Louis Bonnier",
-    "city": "Paris",
-    "cc": "FR",
-    "year": 1924,
+    "why": "First open-air theatre in South Asia built in the style of an ancient Greek theatre; clear daylight exterior photos.",
+    "name": "Selim Al Deen Muktamanch",
+    "by": "Alamgir Kabir",
+    "city": "Savar",
+    "cc": "BD",
+    "year": 1980,
     "type": "Culture & sport",
-    "movement": "Historic precedent",
+    "movement": "Regionalism",
     "concepts": [
-     "Brick",
-     "Water",
-     "Public space"
+     "Landscape",
+     "Public space",
+     "Brick"
     ],
-    "features": "One of the oldest swimming pools in Paris, on place Paul-Verlaine in the 13th arrondissement, designed by Louis Bonnier.",
-    "commons_category": "Category:Piscine de la Butte-aux-Cailles",
+    "features": "First open-air theatre in South Asia built in the style of an ancient Greek theatre, on a mound slope.",
+    "commons_category": "Category:Selim Al Deen Muktomoncho",
     "coords": [
-     48.8272,
-     2.3525
+     23.87877,
+     90.2708
     ],
     "photos": [
      {
-      "file": "File:Piscine de la Butte-aux-Cailles, 5 place Paul-Verlaine, Paris 13e.jpg",
+      "file": "File:Open Satge Of JahangirNagar University.jpg",
       "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:1-3-24, piscine de la Butte aux Cailles (façade) - btv1b531271662.jpg",
-      "license": "Public domain",
+      "file": "File:Selim Al Deen Muktomoncho.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      },
      {
-      "file": "File:Nouvelle piscine de la Butte aux Cailles (extérieur) - btv1b9024200s.jpg",
-      "license": "Public domain",
+      "file": "File:সেলিম আল দীন মুক্তমঞ্চ.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Selim Al-Din Muktomoncho.jpg",
+      "license": "CC BY-SA 4.0",
       "seen": true
      }
     ]
    }
   },
   {
-   "id": "villa-bonnier",
-   "why": "Ragnar Östberg's 1927 villa in Stockholm (Östberg has three entries on the wall); lead (sv) gives the designer, year, and state building-monument status since 2018. Villa is not an ordinary type. Lower confidence: heritage value is the only reason in the lead.",
+   "id": "faculty-of-fine-arts-university-of-dhaka",
+   "why": "Muzharul Islam's Faculty (Institute) of Fine Arts, named by the owner as a regional modernist work Haiku skipped because the lead speaks of the school. The lead names Muzharul Islam as designer and says it was the region's first art school, in Shahbag since 1956 (year taken from that; the building's completion year is not stated, so please confirm). Main photo is a daylight outside view of the entrance block, not perfect (partly framed by foliage and a railing) but with no people; the veranda photo is a good second. Photos with students and the gate are left out.",
    "entry": {
-    "id": "villa-bonnier",
-    "qid": "Q10715448",
+    "id": "faculty-of-fine-arts-university-of-dhaka",
+    "qid": "Q4796888",
     "status": "photo",
-    "why": "Lower confidence; clear exterior photos in daylight.",
-    "name": "Villa Bonnier",
-    "by": "Ragnar Östberg",
-    "city": "Stockholm",
-    "cc": "SE",
-    "year": 1927,
-    "type": "House",
-    "movement": "Historic precedent",
+    "why": "Muzharul Islam designed the building; it houses the first art school in the region.",
+    "name": "Faculty of Fine Arts, University of Dhaka",
+    "by": "Muzharul Islam",
+    "city": "Dhaka",
+    "cc": "BD",
+    "year": 1956,
+    "type": "Education",
+    "movement": "Modernism",
     "concepts": [
      "Brick",
-     "Detail",
-     "Landscape"
+     "Structure as expression",
+     "Climate response"
     ],
-    "features": "Ragnar Östberg's 1927 villa in Stockholm's Diplomatstaden, a state building monument since 2018.",
-    "commons_category": "Category:Villa Bonnier",
+    "features": "Designed by Muzharul Islam for the region's first art school, in Shahbag since 1956.",
+    "commons_category": "Category:Faculty of Fine Arts, University of Dhaka",
     "coords": [
-     59.3325,
-     18.10439
+     23.7357,
+     90.3948
     ],
     "photos": [
      {
-      "file": "File:Diplomatstaden 2008 Amb 3.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:Institute of Fine Art 1 .A.M.R.jpg",
+      "license": "CC BY 2.5",
       "seen": true
      },
      {
-      "file": "File:Villa Bonnier, 2018.jpg",
-      "license": "CC BY-SA 4.0",
-      "seen": true
-     },
-     {
-      "file": "File:Diplomatstaden 2008 Amb 3a.jpg",
-      "license": "CC BY-SA 3.0",
+      "file": "File:Veranda - Faculty of Fine Arts - University of Dhaka - Dhaka 2015-05-31 2239.JPG",
+      "license": "CC BY 3.0",
       "seen": true
      }
     ]
    }
   }
  ],
- "summary": "Positions 150-299: Haiku 63 photo, 78 skip (incl. dup 150, 180, 299), 9 unsure. Of 63 photo: 48 keep_ok (4 of them with a field fix: longmire-buildings by, cafe-era year and features, gary-bathing-beach-aquatorium type; 4 with a better first photo: bruder-klaus-kirche, villa-patocka, olveston-historic-home, edward-p-evans-hall), 15 keep_wrong (5 empty leads: volksbuhne, carpenter-theatre, edificio-urumea, uris-hall, hoffman-hall; 2 pre-1900: paradiso-amsterdam, philadelphia-history-museum; 8 ordinary or revival: palm-springs-convention-center, scranton-cultural-center, louise-freer-hall, kitchi-gammi-club, st-willibald, neues-rathaus, royce-hall, helsinki-stock-exchange-building). 2 flagged ordinary among the kept (khovo-lar housing, las-palmas former workshop) = about 4%. 5 rescued: einsteinhaus-caputh (high confidence), emmaus-church-vols (good), kauniainen-church, butte-aux-cailles-swimming-pool, villa-bonnier (lower confidence). Not rescued: all empty leads (Suva House, Central Signal Box, St. Helena Bonn, Magnolia Library, Gartenbad, Rotonda House, Haus Ungers, Felder house, Braem Pavilion, Reformed Church Reinach and others), buildings with no usable photo (Balmelli, Esherick, Sommerfeld House (also destroyed), Marshcourt, Casa Vilaro, WUWA 36), pre-1900 Raio Palace and Pfingstberg Belvedere (Persius died 1845; built 1847-63), and church skips with lead giving only parish/listing (St. Nikolaus and St. Karl Borromaus Munich, Maria Hilf, St. Christophorus, St. Martin Meilen, Mikaeli). Generic names kept as Wikidata labels (People's House, Saint Thomas Church, Auferstehungskirche); the caller may want 'Volkshaus Biel', 'Thomaskirche, Basel', 'Auferstehungskirche, Bonn'."
+ "summary": "Checked positions 152-298 (147 buildings): Haiku had 10 keep, 6 unsure, 131 skip. Result: 9 keeps accepted (keep_ok), 5 of them ordinary types (palacio-diaz, edificio-ariztia, edificio-do-banco-paulista-do-comercio, edificio-guardiola, coliseo-la-tortuga; weakest are guardiola and coliseo); 1 keep dropped for no usable main photo (botter-appartement); 2 keeps need a better main photo (galeria-guemes, coliseo-la-tortuga); 9 field fixes (by, concepts, year x4, features); 0 keep_wrong; 2 rescued (selim-al-deen-muktamanch, faculty-of-fine-arts-university-of-dhaka). Still unsure, no usable exterior main photo: Africa Hall (only interiors and people), Restaurante Zambi (chimney only), Manik Bagh (portraits only), Centro SCOP (street view of a complex, and the lead says it was a complex), Luis David Cruz Ocampo library (entrance doors only). Chandigarh College of Architecture has only a logo. Skips confirmed as right in all other cases; borderline skips for the owner: Ohel Yizkor (Yad Vashem, Sharon et al.; good exterior photo but lead gives only the ceremony use), and several strong buildings with empty leads (House of Victoria Ocampo, Senate Palace Tehran, The Glass Building Tehran, Ab-o-Atash Amphitheatre, Igreja Matriz Presidente Getulio) which stay skipped under the empty-lead rule."
 }

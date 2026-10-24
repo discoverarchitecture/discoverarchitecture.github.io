@@ -1,0 +1,1586 @@
+[
+ {
+  "id": "amiens-synagogue",
+  "qid": "Q43389357",
+  "status": "photo",
+  "why": "Built work of Paul Chemetov (on the wall via Bercy); perforated screen facade; lead gives the 2017 rededication",
+  "name": "Amiens Synagogue",
+  "by": "Paul Chemetov",
+  "city": "Amiens",
+  "cc": "FR",
+  "year": 2017,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "An Orthodox congregation's synagogue in Amiens, rededicated in 2017 to replace two earlier buildings.",
+  "commons_category": "Category:Synagogue d'Amiens",
+  "coords": [
+   49.89486,
+   2.30807
+  ],
+  "photos": [
+   {
+    "file": "File:Synagogue d'Amiens 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue d'Amiens 8.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagogue d'Amiens 7.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "amsterdam-university-college",
+  "qid": "Q4748849",
+  "status": "photo",
+  "why": "Built work of Mecanoo (on the wall); lead describes the campus, not the design; kept by the architect route",
+  "name": "Amsterdam University College",
+  "by": "Mecanoo, Francine Houben",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": 2012,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "A small, selective college with its own teaching building on an international campus in Amsterdam Science Park.",
+  "commons_category": "Category:Amsterdam University College",
+  "coords": [
+   52.355,
+   4.95111
+  ],
+  "photos": [
+   {
+    "file": "File:Amsterdam University College.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam university college.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Amsterdam University College, brug (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fukui-prefectural-varve-museum",
+  "qid": "Q56465338",
+  "status": "photo",
+  "why": "Built work of Hiroshi Naito (on the wall); lead describes the collection, not the design; kept by the architect route",
+  "name": "Fukui Prefectural Varve Museum",
+  "by": "Hiroshi Naito",
+  "city": "Wakasa",
+  "cc": "JP",
+  "year": 2018,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Light & shadow"
+  ],
+  "features": "A geological and archaeological museum showing 70,000 years of varve from the bottom of Lake Suigetsu.",
+  "commons_category": "Category:Fukui Prefectural Varve Museum",
+  "coords": [
+   35.55906,
+   135.89728
+  ],
+  "photos": [
+   {
+    "file": "File:Fukui Prefectural Varve Museum Exterior View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukui Prefectural Varve Museum Exterior View 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukui Prefectural Varve Museum Interior View.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "teatros-del-canal",
+  "qid": "Q6140051",
+  "status": "photo",
+  "why": "Designed by Juan Navarro Baldeweg (on the wall); lead names him and the 2009 opening",
+  "name": "Teatros del Canal",
+  "by": "Juan Navarro Baldeweg",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Built on a former Canal de Isabel II site, designed by Juan Navarro Baldeweg and opened in 2009.",
+  "commons_category": "Category:Teatros del Canal, Madrid",
+  "coords": [
+   40.43844,
+   -3.70506
+  ],
+  "photos": [
+   {
+    "file": "File:Teatros del Canal (Madrid) 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Teatros del Canal (Madrid) 03.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "court-simonne-mathieu",
+  "qid": "Q64028588",
+  "status": "skip",
+  "why": "Tennis court in the Roland-Garros stadium; the lead gives no design reason, so an ordinary stadium"
+ },
+ {
+  "id": "nottingham-contemporary",
+  "qid": "Q7063622",
+  "status": "photo",
+  "why": "Caruso St John (on the wall); the lead gives a design reason, the lace-pattern cladding; 2009 opening in lead",
+  "name": "Nottingham Contemporary",
+  "by": "Caruso St John",
+  "city": "Nottingham",
+  "cc": "GB",
+  "year": 2009,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "Its cladding is embossed with a traditional Nottingham lace pattern, celebrating the area's history of lace manufacture.",
+  "commons_category": "Category:Nottingham Contemporary",
+  "coords": [
+   52.9511,
+   -1.1458
+  ],
+  "photos": [
+   {
+    "file": "File:Nottingham Contemporary - 31 July 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Nottingham Contemporary (1) - 31 July 2026.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "alsion",
+  "qid": "Q834586",
+  "status": "photo",
+  "why": "Built work of 3XN (on the wall); the lead is one line, so kept by the architect route; year from Wikidata",
+  "name": "Alsion",
+  "by": "3XN",
+  "city": "Sønderborg",
+  "cc": "DK",
+  "year": 2007,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "A regional centre for research, education and culture in the southern Danish city of Sønderborg.",
+  "commons_category": "Category:Alsion",
+  "coords": [
+   54.91311,
+   9.77913
+  ],
+  "photos": [
+   {
+    "file": "File:Alsion 2023 Ø.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alsion, Sønderborg 2022a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alsion 2020 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "eglise-orthodoxe-de-tous-les-saints-de-strasbourg",
+  "qid": "Q17500421",
+  "status": "skip",
+  "why": "Russian Orthodox church; the lead gives no design reason and the architect is not on the wall"
+ },
+ {
+  "id": "saint-nicholas-church-on-water",
+  "qid": "Q3398473",
+  "status": "skip",
+  "why": "Neo-Baroque chapel on the Dnieper; the lead's point is its position, not its design; architect not on the wall"
+ },
+ {
+  "id": "cerdanyola-art-museum-can-domenech",
+  "qid": "Q3824294",
+  "status": "skip",
+  "why": "Old Modernista house made into a museum in 2009; the lead names no new design"
+ },
+ {
+  "id": "cape-town-international-convention-centre",
+  "qid": "Q4817535",
+  "status": "skip",
+  "why": "Convention centre with interior photos only; the lead gives no design reason"
+ },
+ {
+  "id": "center-for-human-dignity",
+  "qid": "Q5059675",
+  "status": "skip",
+  "why": "Photos show it under construction and the lead gives no opening date, so not clearly built"
+ },
+ {
+  "id": "frist-art-museum",
+  "qid": "Q5504731",
+  "status": "skip",
+  "why": "1934 post office converted into a museum in 2001; the lead names no new design"
+ },
+ {
+  "id": "zaryadye-concert-hall",
+  "qid": "Q56581148",
+  "status": "photo",
+  "why": "Lead names Diller Scofidio + Renfro for the site and outer form (Wikidata names Plotkin); opened 2018 per lead",
+  "name": "Zaryadye Concert Hall",
+  "by": "Diller Scofidio + Renfro",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 2018,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Diller Scofidio + Renfro designed its site and outer form; it opened in September 2018.",
+  "commons_category": "Category:Zaryadye Concert Hall",
+  "coords": [
+   55.75139,
+   37.63139
+  ],
+  "photos": [
+   {
+    "file": "File:Moscow - View from Raushskaya embankment to Moskvoretskaya embankment.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Зал Зарядье. Вид со стороны парка \"Зарядье\".jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "frederiksbjerg-school",
+  "qid": "Q108554418",
+  "status": "photo",
+  "why": "Designed by Henning Larsen Architects (on the wall); the lead names the architect and the 2016 opening",
+  "name": "Frederiksbjerg School",
+  "by": "Henning Larsen Architects",
+  "city": "Aarhus",
+  "cc": "DK",
+  "year": 2016,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Landscape"
+  ],
+  "features": "Designed by Henning Larsen Architects, this Aarhus school opened in August 2016 and has 965 students.",
+  "commons_category": "Category:Frederiksbjerg Skole",
+  "coords": [
+   56.1453,
+   10.1977
+  ],
+  "photos": [
+   {
+    "file": "File:Ingerslevs Boulevard, Frederiksbjerg. Frederiksbjerg Skole.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Frederiksbjerg Børnehus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hangzhou-grand-theatre",
+  "qid": "Q11102458",
+  "status": "photo",
+  "why": "Designed by Carlos Ott (on the wall); the lead names him; year from Wikidata, not in the lead",
+  "name": "Hangzhou Grand Theatre",
+  "by": "Carlos Ott",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "year": 2004,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Water",
+   "Public space"
+  ],
+  "features": "Designed by the Canadian theatre designer Carlos Ott on the Qiantang River in Hangzhou's Qianjiang New City.",
+  "commons_category": "Category:Hangzhou Grand Theatre",
+  "coords": [
+   30.24668,
+   120.21078
+  ],
+  "photos": [
+   {
+    "file": "File:Hangzhou Grand Theatre 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:杭州大剧院 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hangzhou Grand Theatre 18.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casals-forum",
+  "qid": "Q114157557",
+  "status": "photo",
+  "why": "Lead names Volker Staab and gives the design reason: a free-form hall with curved walls for sound, opened 2022",
+  "name": "Casals Forum",
+  "by": "Volker Staab",
+  "city": "Kronberg im Taunus",
+  "cc": "DE",
+  "year": 2022,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Geometry",
+   "Light & shadow"
+  ],
+  "features": "A chamber music hall with curved convex and concave walls, shaped to spread sound, opened in 2022.",
+  "commons_category": "Category:Casals Forum",
+  "coords": [
+   50.18083,
+   8.51444
+  ],
+  "photos": [
+   {
+    "file": "File:Das Casals Forum (Konzertsaal mit angegliedertem Studien- und Verwaltungszentrum), der Sitz der Kronberg Academy. ©Sára Timár.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Casals Forum, Kronberg, with sculpture.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "iki-city-ikikoku-museum",
+  "qid": "Q11429588",
+  "status": "unsure",
+  "why": "Wikidata credits Kisho Kurokawa, who died in 2007, for a 2010 opening; the lead names no architect. Exterior photo is the only one that passes as main; check the designer",
+  "name": "Iki City Ikikoku Museum",
+  "by": "Kisho Kurokawa",
+  "city": "Iki",
+  "cc": "JP",
+  "year": 2010,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Holds finds from Harunotsuji, believed to be the royal capital of the ancient Ikikoku kingdom.",
+  "commons_category": "Category:Iki City Ikikoku Museum",
+  "coords": [
+   33.76761,
+   129.75536
+  ],
+  "photos": [
+   {
+    "file": "File:Ikicityikikokumuseum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ikikokumuseum storage.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "british-antique-museum-kamakura",
+  "qid": "Q115570775",
+  "status": "photo",
+  "why": "Designed by Kengo Kuma (on the wall); the lead gives the design reason: a windowless cypress facade cut with a CNC router, after Kamakura-bori carving",
+  "name": "British Antique Museum Kamakura",
+  "by": "Kengo Kuma",
+  "city": "Kamakura",
+  "cc": "JP",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Timber",
+   "Detail"
+  ],
+  "features": "A windowless facade of CNC-cut Japanese cypress, inspired by Kamakura-bori woodcarving, designed by Kengo Kuma.",
+  "commons_category": "Category:British Antique Museum Kamakura",
+  "coords": [
+   35.32264,
+   139.55456
+  ],
+  "photos": [
+   {
+    "file": "File:BAM外観.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:BAM Kamakura.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "deloitte-house",
+  "qid": "Q11965050",
+  "status": "skip",
+  "why": "Empty lead"
+ },
+ {
+  "id": "bispebjerg-kollegiet",
+  "qid": "Q12303605",
+  "status": "skip",
+  "why": "Student housing; the lead gives only the layout of two point blocks and no reason to study it, and housing is an ordinary type"
+ },
+ {
+  "id": "palacio-de-exposicions-e-congresos",
+  "qid": "Q12396918",
+  "status": "photo",
+  "why": "Built work of Ricardo Bofill (on the wall); the lead names both architects; kept by the architect route",
+  "name": "Palacio de Exposicións e Congresos",
+  "by": "César Portela, Ricardo Bofill",
+  "city": "A Coruña",
+  "cc": "ES",
+  "year": 2005,
+  "type": "Pavilion",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "A convention centre on A Coruña's cruise pier, designed by César Portela and Ricardo Bofill and opened in March 2005.",
+  "commons_category": "Category:Palacio de Exposicións e Congresos (PALEXCO)",
+  "coords": [
+   43.368,
+   -8.39908
+  ],
+  "photos": [
+   {
+    "file": "File:Palexco -Fachada.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:A Coruña - Puerto y Palacio de Exposicións e Congresos (PALEXCO).JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "centre-des-arts-juliette-lassonde",
+  "qid": "Q133980860",
+  "status": "unsure",
+  "why": "No main photo: the only photo is taken at dusk, not in daylight. The lead is one sentence; architect Dan Hanganu is on the wall",
+  "note": "no main photo",
+  "name": "Centre des arts Juliette-Lassonde",
+  "by": "Dan Hanganu",
+  "city": "Saint-Hyacinthe",
+  "cc": "CA",
+  "year": 2006,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "A cultural complex in Saint-Hyacinthe, Quebec.",
+  "commons_category": null,
+  "coords": [
+   45.62293,
+   -72.94554
+  ],
+  "photos": []
+ },
+ {
+  "id": "suzhou-culture-and-arts-centre",
+  "qid": "Q1592372",
+  "status": "photo",
+  "why": "Built work of Paul Andreu (on the wall) per Wikidata; the lead names no architect, so kept by the architect route",
+  "name": "Suzhou Culture and Arts Centre",
+  "by": "Paul Andreu",
+  "city": "Suzhou",
+  "cc": "CN",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Water"
+  ],
+  "features": "A 150,000 square metre culture complex east of Jinji Lake in the China–Singapore Suzhou Industrial Park.",
+  "commons_category": "Category:Suzhou Culture and Art Center",
+  "coords": [
+   31.3235,
+   120.69857
+  ],
+  "photos": [
+   {
+    "file": "File:(SIP) Science & Technical Center.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Suzhou Culture and Arts Centre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "alviks-torn",
+  "qid": "Q16496505",
+  "status": "skip",
+  "why": "Residential and office tower in Stockholm; the lead gives no design reason, and the office and tower type is ordinary"
+ },
+ {
+  "id": "tsunagi-art-museum",
+  "qid": "Q17216016",
+  "status": "skip",
+  "why": "Public art museum; the lead gives no design reason and the architect (a company, NTT Facilities) is not on the wall"
+ },
+ {
+  "id": "ashdod-performing-arts-center",
+  "qid": "Q18191696",
+  "status": "unsure",
+  "why": "Conflict: the lead names Haim Dotan as the designer, Wikidata names Shin Takamatsu (on the wall); the lead gives no design reason. Photos are good, so the owner should check the designer",
+  "name": "Ashdod Performing Arts Center",
+  "by": "Haim Dotan",
+  "city": "Ashdod",
+  "cc": "IL",
+  "year": 2012,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A performing arts centre in Ashdod, designed by the Israeli architect Haim Dotan.",
+  "commons_category": "Category:Ashdod Performing Arts Center",
+  "coords": [
+   31.79192,
+   34.63723
+  ],
+  "photos": [
+   {
+    "file": "File:המשכן לאמנויות הבמה באשדוד, דצמבר 2023 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Performing arts center - Ashdod.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:102953 ashdod performing arts hall PikiWiki Israel.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cirkusangen-6",
+  "qid": "Q18287526",
+  "status": "skip",
+  "why": "Bank office headquarters; ordinary office type and the lead gives no design reason"
+ },
+ {
+  "id": "think-corner",
+  "qid": "Q18662353",
+  "status": "skip",
+  "why": "University event and work space; the lead describes no building, and the photos show an ordinary block"
+ },
+ {
+  "id": "effenaar",
+  "qid": "Q2016645",
+  "status": "skip",
+  "why": "Music venue renovated 2002-2005 in an old building; the lead names no architect or new design"
+ },
+ {
+  "id": "cnooc-building",
+  "qid": "Q20537029",
+  "status": "skip",
+  "why": "Office headquarters tower; the lead names KPF but gives no reason it matters"
+ },
+ {
+  "id": "les-quatre-barres-de-la-senyera-catalana",
+  "qid": "Q20679343",
+  "status": "skip",
+  "why": "Sculptural monument on a promenade; monuments are skipped"
+ },
+ {
+  "id": "shaw-library",
+  "qid": "Q21161123",
+  "status": "unsure",
+  "why": "Old 1975 building renovated and reopened in 2010; the lead describes a new translucent facade but names no architect (Davis Brody Bond per Wikidata). Owner to check the renovation exception",
+  "name": "Shaw Library",
+  "by": "Davis Brody Bond",
+  "city": "Washington",
+  "cc": "US",
+  "year": 2010,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Adaptive reuse"
+  ],
+  "features": "Reopened in 2010 after renovation, with a distinctive translucent facade and a light-flooded interior.",
+  "commons_category": "Category:Watha T. Daniel-Shaw library",
+  "coords": [
+   38.91236,
+   -77.02251
+  ],
+  "photos": [
+   {
+    "file": "File:Shaw Library Front.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Shaw Library Front 2.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Shaw library green roof (6211355021).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fjordenhus",
+  "qid": "Q22071379",
+  "status": "photo",
+  "why": "Lead names Olafur Eliasson as the designer under contract, with Lundgaard & Tranberg as architects (both on the wall); 2018 per Wikidata",
+  "name": "Fjordenhus",
+  "by": "Lundgaard & Tranberg, Olafur Eliasson",
+  "city": "Vejle",
+  "cc": "DK",
+  "year": 2018,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Water"
+  ],
+  "features": "Olafur Eliasson was contracted to design this headquarters, built in Vejle's harbour basin.",
+  "commons_category": "Category:Fjordenhus",
+  "coords": [
+   55.70581,
+   9.55501
+  ],
+  "photos": [
+   {
+    "file": "File:Fjordenhus 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fjordenhus 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fjordenhus 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "segerstedthuset",
+  "qid": "Q23978271",
+  "status": "skip",
+  "why": "University administration office; ordinary office type and the lead gives no design reason"
+ },
+ {
+  "id": "zenith-limoges-metropole",
+  "qid": "Q3576485",
+  "status": "photo",
+  "why": "Lead names Bernard Tschumi as a famous architect (on the wall); the arena type is kept because of the named architect",
+  "name": "Zénith Limoges Métropole",
+  "by": "Bernard Tschumi",
+  "city": "Limoges",
+  "cc": "FR",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Landscape"
+  ],
+  "features": "Bernard Tschumi designed this indoor amphitheatre for up to 6,000 spectators in a wooded area near Limoges.",
+  "commons_category": "Category:Zénith de Limoges",
+  "coords": [
+   45.8623,
+   1.27933
+  ],
+  "photos": [
+   {
+    "file": "File:Limoges zenith (3864886466).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "paneum",
+  "qid": "Q41662136",
+  "status": "photo",
+  "why": "Built work of Coop Himmelb(l)au (on the wall) per Wikidata; the lead names no architect, so kept by the architect route",
+  "name": "Paneum",
+  "by": "Coop Himmelb(l)au",
+  "city": "Asten",
+  "cc": "AT",
+  "year": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Circulation"
+  ],
+  "features": "A museum of thousands of years of bread-making culture, sited at the Backaldrin food company's headquarters in Asten.",
+  "commons_category": "Category:Paneum",
+  "coords": [
+   48.2158,
+   14.40915
+  ],
+  "photos": [
+   {
+    "file": "File:Paneum-4797 (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Backaldrin Paneum DJI 0202a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Paneum - muzeum chleba.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "boekenberg",
+  "qid": "Q4490308",
+  "status": "photo",
+  "why": "Lead names Winy Maas of MVRDV as architect and gives the pyramid form and 2012 opening; second-best library in the Netherlands",
+  "name": "Boekenberg",
+  "by": "Winy Maas, MVRDV",
+  "city": "Spijkenisse",
+  "cc": "NL",
+  "year": 2012,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "A pyramid-shaped library by Winy Maas, named the Netherlands' second-best library in 2012.",
+  "commons_category": "Category:Boekenberg",
+  "coords": [
+   51.8496,
+   4.32475
+  ],
+  "photos": [
+   {
+    "file": "File:De boekenberg grote bibliotheek in Spijkenisse.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:De Boekenberg - Spijkenisse -april 2012- (6970184928).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:De Boekenberg - Spijkenisse -april 2012- (6970187590).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "aspira",
+  "qid": "Q4808080",
+  "status": "skip",
+  "why": "Residential tower in Seattle; the lead gives no design reason and there are no photos"
+ },
+ {
+  "id": "bahen-centre-for-information-technology",
+  "qid": "Q4842527",
+  "status": "skip",
+  "why": "University building; the lead lists its rooms but gives no design reason, and the photos show an ordinary block"
+ },
+ {
+  "id": "residenze-libeskind",
+  "qid": "Q48807772",
+  "status": "skip",
+  "why": "Housing blocks in CityLife; the lead gives no design reason, and housing is an ordinary type (architect from Wikidata only; the photos are striking, so the owner may want to see it)"
+ },
+ {
+  "id": "schuster-performing-arts-center",
+  "qid": "Q4889447",
+  "status": "photo",
+  "why": "Built work of César Pelli (on the wall) per Wikidata; the lead names no architect and gives the 2003 opening, so kept by the architect route",
+  "name": "Schuster Performing Arts Center",
+  "by": "César Pelli",
+  "city": "Dayton",
+  "cc": "US",
+  "year": 2003,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Built in 2003 as Dayton's main performing arts venue, on the site of the former Rike's department store.",
+  "commons_category": "Category:Schuster Performing Arts Center",
+  "coords": [
+   39.7611,
+   -84.1933
+  ],
+  "photos": [
+   {
+    "file": "File:Schuster Center 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Main Street Dayton 2023b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chips-manchester",
+  "qid": "Q5101728",
+  "status": "photo",
+  "why": "Lead names Will Alsop (on the wall) and gives the design reason: the developer asked for a building away from \"mundanity\". Lead also notes a 2018 cladding fire-risk failure, which the owner may want to know",
+  "name": "Chips, Manchester",
+  "by": "Will Alsop",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": 2009,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "Designed by Will Alsop to be away from \"mundanity\", a nine-storey apartment block by the Ashton Canal.",
+  "commons_category": "Category:Chips, Manchester",
+  "coords": [
+   53.4815,
+   -2.2206
+  ],
+  "photos": [
+   {
+    "file": "File:Chips2.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chips apartment building, Manchester.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chips apartment building, Manchester (2).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ferguson-center-for-the-arts",
+  "qid": "Q5444228",
+  "status": "unsure",
+  "why": "No main photo: prep lists no photos for this building. Architect Henry N. Cobb is on the wall; the lead gives no design reason",
+  "note": "no main photo",
+  "name": "Ferguson Center for the Arts",
+  "by": "Henry N. Cobb",
+  "city": "Newport News",
+  "cc": "US",
+  "year": 2005,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "A theater and concert hall on the Christopher Newport University campus, fully opened in September 2005.",
+  "commons_category": null,
+  "coords": [
+   37.061,
+   -76.49
+  ],
+  "photos": []
+ },
+ {
+  "id": "ishikawa-ongakudo",
+  "qid": "Q6080285",
+  "status": "photo",
+  "why": "Lead names Yoshinobu Ashihara (on the wall) and gives design reasons: urushi-finished walls and a shoebox hall; opened 2001. Prep marks its one photo as junk, but by eye it shows the hall from outside, so the owner may want to check the flag",
+  "name": "Ishikawa Ongakudō",
+  "by": "Yoshinobu Ashihara",
+  "city": "Kanazawa",
+  "cc": "JP",
+  "year": 2001,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Detail",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Yoshinobu Ashihara designed this Kanazawa hall, with a shoebox-style concert hall and urushi-lacquered walls.",
+  "commons_category": null,
+  "coords": [
+   36.57667,
+   136.64778
+  ],
+  "photos": [
+   {
+    "file": "File:Ishikawa Kenritsu Ongakudo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sthlm-01",
+  "qid": "Q65197981",
+  "status": "skip",
+  "why": "Office building in Hammarby Sjöstad; ordinary office type and the lead gives no design reason"
+ },
+ {
+  "id": "suzanne-roberts-theatre",
+  "qid": "Q7650950",
+  "status": "unsure",
+  "why": "No main photo: the only photo is mainly the theater's signage, which is the subject. KieranTimberlake is on the wall and the lead gives a design reason (universal design)",
+  "note": "no main photo",
+  "name": "Suzanne Roberts Theatre",
+  "by": "KieranTimberlake",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Public space"
+  ],
+  "features": "Designed by KieranTimberlake on universal-design principles, the Philadelphia theater opened in October 2007.",
+  "commons_category": null,
+  "coords": [
+   39.945,
+   -75.1656
+  ],
+  "photos": []
+ },
+ {
+  "id": "edificio-tlatelolco",
+  "qid": "Q8772052",
+  "status": "skip",
+  "why": "Government office block in Mexico City; ordinary office type and the lead gives no design reason"
+ },
+ {
+  "id": "memorial-do-rio-grande-do-sul",
+  "qid": "Q10328566",
+  "status": "skip",
+  "why": "Historic listed building in Porto Alegre turned into a cultural centre; the lead names no new design"
+ },
+ {
+  "id": "eglise-notre-dame-de-chine",
+  "qid": "Q1076198",
+  "status": "skip",
+  "why": "Plain parish church; the lead gives no design reason and the architect is not on the wall"
+ },
+ {
+  "id": "ota-city-general-gymnasium",
+  "qid": "Q11437869",
+  "status": "skip",
+  "why": "Sports arena; the lead gives no design reason, so an ordinary arena"
+ },
+ {
+  "id": "klaukkala-church",
+  "qid": "Q11871959",
+  "status": "unsure",
+  "why": "No main photo: prep lists no photos. Lead gives a reason (a copper-plated modern church, Concrete of the Year honourable mention, 2004) and Anssi Lassila is on the wall",
+  "note": "no main photo",
+  "name": "Klaukkala Church",
+  "by": "Anssi Lassila",
+  "city": "Klaukkala",
+  "cc": "FI",
+  "year": 2004,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Light & shadow"
+  ],
+  "features": "A copper-plated modern church by Anssi Lassila that received a Concrete of the Year honourable mention in 2004.",
+  "commons_category": "Category:Klaukkala Church",
+  "coords": [
+   60.38278,
+   24.75083
+  ],
+  "photos": []
+ },
+ {
+  "id": "huntington-center",
+  "qid": "Q1638213",
+  "status": "skip",
+  "why": "Sports and concert arena; the lead gives no design reason, so an ordinary arena"
+ },
+ {
+  "id": "vuotalo",
+  "qid": "Q18662981",
+  "status": "photo",
+  "why": "Designed by Mikko Heikkinen and Markku Komonen (Heikkinen-Komonen is on the wall, for Heureka); the lead names both and the 2001 completion",
+  "name": "Vuotalo",
+  "by": "Mikko Heikkinen, Markku Komonen",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 2001,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A cultural centre in Vuosaari, designed by Mikko Heikkinen and Markku Komonen and completed in 2001.",
+  "commons_category": "Category:Vuotalo",
+  "coords": [
+   60.20841,
+   25.14352
+  ],
+  "photos": [
+   {
+    "file": "File:Vuotalo.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vuotalo 2014 07.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vuotalo 2014 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bunker-599",
+  "qid": "Q18814207",
+  "status": "skip",
+  "why": "A sawn-in-two bunker installation (a work of art), not an architecture building"
+ },
+ {
+  "id": "valer-church",
+  "qid": "Q25438431",
+  "status": "photo",
+  "why": "Lead names Espen Surnevik and gives the design reason: a fan-shaped wooden church built in 2015; architect is not on the wall",
+  "name": "Våler Church",
+  "by": "Espen Surnevik",
+  "city": "Våler",
+  "cc": "NO",
+  "year": 2015,
+  "type": "Religious",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "A beige wooden church built in 2015 to a fan-shaped design by Espen Surnevik.",
+  "commons_category": "Category:Våler kirke (2015)",
+  "coords": [
+   60.6725,
+   11.83472
+  ],
+  "photos": [
+   {
+    "file": "File:Våler kirke.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "achmeatoren",
+  "qid": "Q2557928",
+  "status": "photo",
+  "why": "Lead names Abe Bonnema and Jan van der Leij and gives design reasons (two volumes pushed into each other; a landmark tower); opened 2002",
+  "name": "Achmeatoren",
+  "by": "Abe Bonnema, Jan van der Leij",
+  "city": "Leeuwarden",
+  "cc": "NL",
+  "year": 2002,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "A 26-floor tower of two volumes pushed into each other, the tallest building in northern Netherlands, opened 2002.",
+  "commons_category": "Category:Achmeatoren",
+  "coords": [
+   53.19806,
+   5.79194
+  ],
+  "photos": [
+   {
+    "file": "File:Achmeatoren Leeuwarden 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leeuwarden, de Achmeatoren foto3 2016-06-05 15.57.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20180720 257 leeuwarden.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "polish-national-radio-symphony-orchestra-building",
+  "qid": "Q29885823",
+  "status": "photo",
+  "why": "Lead names Tomasz Konior and gives design reasons (Upper Silesian heritage, the Nikiszowiec estate, architectural awards); opened 2014",
+  "name": "Polish National Radio Symphony Orchestra building",
+  "by": "Tomasz Konior",
+  "city": "Katowice",
+  "cc": "PL",
+  "year": 2014,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Tomasz Konior's concert hall draws on Upper Silesian heritage, especially the Nikiszowiec workers' estate.",
+  "commons_category": "Category:Building of Polish National Radio Symphony Orchestra in Katowice",
+  "coords": [
+   50.26412,
+   19.02805
+  ],
+  "photos": [
+   {
+    "file": "File:Katowice NOSPR fasada 2026 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Katowice NOSPR fasada 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Katowice 2024 437.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hala-podpromie",
+  "qid": "Q3125911",
+  "status": "skip",
+  "why": "Indoor sports arena; the lead gives no design reason, so an ordinary arena"
+ },
+ {
+  "id": "mediatheque-jose-cabanis",
+  "qid": "Q3332603",
+  "status": "skip",
+  "why": "Library; the lead names Buffi and the 2002 build but gives no reason it matters, and the architect is not on the wall. Its only daylight photo is a close-up"
+ },
+ {
+  "id": "villa-regina-margherita",
+  "qid": "Q4012266",
+  "status": "skip",
+  "why": "Historic villa of Queen Margherita; the lead names no new design and the building is old"
+ },
+ {
+  "id": "toratau-congress-hall",
+  "qid": "Q4230442",
+  "status": "photo",
+  "why": "Lead names Rishat Mullagildin and Kiyokazu Arai and gives design reasons (Bashkir ornament on the glazed facade; Salawat Yulayev Award); built 2007",
+  "name": "Toratau Congress Hall",
+  "by": "Rishat Mullagildin, Kiyokazu Arai",
+  "city": "Ufa",
+  "cc": "RU",
+  "year": 2007,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Public space"
+  ],
+  "features": "A glazed facade with Bashkir ornament, facing the Belaya River, built in 2007 for the 450th anniversary of Bashkortostan's accession.",
+  "commons_category": "Category:Congress Hall, Ufa",
+  "coords": [
+   54.72094,
+   55.92867
+  ],
+  "photos": [
+   {
+    "file": "File:Toratau Congress Hall in Ufa (March 2025) -0 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toratau Congress Hall in Ufa (March 2025) -0 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toratau Congress Hall in Ufa (March 2025) -0 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nakanoshima-museum-of-art-osaka",
+  "qid": "Q50375431",
+  "status": "skip",
+  "why": "Art museum; the lead gives only the collection, no design reason, and the architect is not on the wall"
+ },
+ {
+  "id": "finnish-parliament-annex",
+  "qid": "Q5450802",
+  "status": "photo",
+  "why": "Lead gives design reasons: the winning entry of a 1998-2000 competition, built by Pekka Helin and his team with many Finnish woods and stones; built 2004",
+  "name": "Finnish Parliament Annex",
+  "by": "Pekka Helin",
+  "city": "Helsinki",
+  "cc": "FI",
+  "year": 2004,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Stone",
+   "Public space"
+  ],
+  "features": "Built in 2004 to the winning design of a 1998–2000 competition, using birch, maple, pine and Finnish granite.",
+  "commons_category": "Category:Finnish Parliament Annex",
+  "coords": [
+   60.17139,
+   24.93389
+  ],
+  "photos": [
+   {
+    "file": "File:Pikkuparlamentti Helsinki 2022-09-16 01.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Pikkuparlamentti Helsinki 2022-09-16 02.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:FinlandParliamentOffice.jpg",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "judiciary-city",
+  "qid": "Q6303063",
+  "status": "photo",
+  "why": "Lead names Robert Krier (Rob Krier per Wikidata) and gives the design reason: modern Moselle Baroque matched to its surroundings; inaugurated 2008",
+  "name": "Judiciary City",
+  "by": "Rob Krier",
+  "city": "Luxembourg",
+  "cc": "LU",
+  "year": 2008,
+  "type": "Civic",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Monumentality"
+  ],
+  "features": "Built in a modern Moselle Baroque style to match its surroundings, the Judiciary City consolidates Luxembourg's courts.",
+  "commons_category": "Category:Cité judiciaire, Luxembourg",
+  "coords": [
+   49.608,
+   6.1335
+  ],
+  "photos": [
+   {
+    "file": "File:Cité judiciaire, Luxembourg - Plateau St. Esprit.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tribunale d'Arrondissement in Luxembourg City.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tribunale de la Jeunesse in Luxembourg City 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kansai-kan-of-the-national-diet-library",
+  "qid": "Q6364434",
+  "status": "skip",
+  "why": "National library branch; the lead gives no design reason and the architect (Fumio Tōki) is not on the wall"
+ },
+ {
+  "id": "",
+  "qid": "Q7210468",
+  "status": "skip",
+  "why": "Old factory converted into an arts centre in 2008; the lead names no new design"
+ },
+ {
+  "id": "museu-do-neo-realismo",
+  "qid": "Q10333912",
+  "status": "unsure",
+  "why": "The lead gives only the museum's founding (1990), not the building. Architect Alcino Soutinho is on the wall (Matosinhos Town Hall) and the photo is good; owner to decide",
+  "name": "Museu do Neo-Realismo",
+  "by": "Alcino Soutinho",
+  "city": "Vila Franca de Xira",
+  "cc": "PT",
+  "year": 2001,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Public space"
+  ],
+  "features": "A Portuguese museum founded in 1990 from its documentation centre, in Vila Franca de Xira.",
+  "commons_category": "Category:Museu do Neo-Realismo",
+  "coords": [
+   38.9553,
+   -8.9888
+  ],
+  "photos": [
+   {
+    "file": "File:Museu do Neo-Realismo, Vila Franca de Xira 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "teatro-das-figuras",
+  "qid": "Q10378956",
+  "status": "photo",
+  "why": "Lead names Gonçalo Byrne (on the wall) and the 2005 opening for Faro's cultural year",
+  "name": "Teatro das Figuras",
+  "by": "Gonçalo Byrne",
+  "city": "Faro",
+  "cc": "PT",
+  "year": 2005,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "A theatre for Faro designed by Gonçalo Byrne for the 2005 national capital of culture, opened 1 July 2005.",
+  "commons_category": "Category:Teatro das Figuras",
+  "coords": [
+   37.02499,
+   -7.94455
+  ],
+  "photos": [
+   {
+    "file": "File:TeatroFiguras.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mimers-hus",
+  "qid": "Q10585505",
+  "status": "photo",
+  "why": "Architect Gert Wingårdh (on the wall) per Wikidata; the lead names no architect, so kept by the architect route; opened August 2004",
+  "name": "Mimers Hus",
+  "by": "Gert Wingårdh",
+  "city": "Kungälv",
+  "cc": "SE",
+  "year": 2004,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Community",
+   "Public space"
+  ],
+  "features": "A combined upper-secondary school and culture house in central Kungälv, opened in August 2004 with about 1,600 pupils.",
+  "commons_category": "Category:Mimers Hus",
+  "coords": [
+   57.87496,
+   11.97766
+  ],
+  "photos": [
+   {
+    "file": "File:Mimers Hus, Kungälv okt 2010.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mimers hus.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lohja-main-library",
+  "qid": "Q107171696",
+  "status": "photo",
+  "why": "Architect Ilmari Lahdelma (on the wall, POLIN Museum) per Wikidata; the lead gives a reason: Finland's Architecture Week and the 2018 Venice Biennale",
+  "name": "Lohja Main Library",
+  "by": "Ilmari Lahdelma",
+  "city": "Lohja",
+  "cc": "FI",
+  "year": 2005,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A public library completed in 2005 that has taken part in Finland's Architecture Week and the 2018 Venice Biennale.",
+  "commons_category": null,
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:Lohjan pääkirjasto, Karstuntie 3, 08100 Lohja - 3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "isarphilharmonie",
+  "qid": "Q108855248",
+  "status": "skip",
+  "why": "Temporary concert hall made in an old hall during the Gasteig renovation; the lead names no architect or new design"
+ }
+]

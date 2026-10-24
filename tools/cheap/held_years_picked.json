@@ -1,0 +1,461 @@
+[
+ {
+  "id": "uob-plaza",
+  "year": 1992,
+  "source": "article:es",
+  "quote": "== UOB Plaza One == UOB Plaza One es un edificio de 280 metros de altura y 67 plantas que fue terminado en 1992.",
+  "quote_en": "UOB Plaza One is a building 280 metres tall with 67 floors that was completed in 1992.",
+  "confidence": "medium",
+  "problem": "Spanish and English articles say the tower was completed in 1992; the official opening (by Lee Kuan Yew) was 6 August 1995, and Wikidata inception is 1995. Article preferred for completion; use 1995 if opening year is wanted."
+ },
+ {
+  "id": "vivian-beaumont-theater",
+  "year": 1965,
+  "source": "article:en",
+  "quote": "The Beaumont opened on October 21, 1965, and was originally operated by Jules Irving and Herbert Blau of the Repertory Theater of Lincoln Center, generally presenting four shows a season.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "Saarinen died in 1961, before the opening; the building was completed after his death (the quoted sources only call it 'one of the last structures designed by' him). Wikidata inception/opened 1965 agrees."
+ },
+ {
+  "id": "collegio-teresiano",
+  "year": 1889,
+  "source": "article:en",
+  "quote": "Construction lasted from 1888 to 1889.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "nagaragawa-convention-center",
+  "year": 1995,
+  "source": "article:en",
+  "quote": "It opened on September 1, 1995, and is managed by the city's Public Hall Management Group.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "citylife",
+  "year": 2015,
+  "source": "wikidata:P1619",
+  "quote": "opened: 2015",
+  "quote_en": "opened: 2015",
+  "confidence": "low",
+  "problem": "CityLife is a multi-phase district, not one building: the English timeline lists Isozaki's tower 2012-15, Libeskind residences 2009-13, Hadid's 'Lo Storto' 2014-17 and the shopping district 2013-18. 2015 is only the Wikidata opening for the district and the year the Isozaki tower finished; no article sentence gives a single completion year. Consider showing as 2015 (first tower) or keeping off the wall as a district."
+ },
+ {
+  "id": "mercury-tower",
+  "year": 2023,
+  "source": "article:de",
+  "quote": "Das Hochhaus wurde am 10. November 2023 eröffnet.",
+  "quote_en": "The high-rise was opened on 10 November 2023.",
+  "confidence": "high",
+  "problem": "Wikidata inception says 2022; articles (en: first phase opened to the public 10 Nov 2023; de: opened 10 Nov 2023) preferred. en says it topped out in 2020, so structure was finished earlier. Design signed off by Zaha Hadid before her 2016 death; built by the ZHA firm."
+ },
+ {
+  "id": "rosenbaum-house",
+  "year": 1939,
+  "source": "article:fr",
+  "quote": "Rosenbaum House ou Frank Lloyd Wright Rosenbaum House est une villa de style moderne-usonia-organique-Prairie School, construite en 1939 par l'architecte américain Frank Lloyd Wright (1867-1959), à Florence en Alabama aux États-Unis.",
+  "quote_en": "Rosenbaum House is a villa in the modern-Usonian-organic-Prairie School style, built in 1939 by the American architect Frank Lloyd Wright (1867-1959), in Florence, Alabama, USA.",
+  "confidence": "medium",
+  "problem": "French article says built 1939 and that the Rosenbaums moved in in 1940; English/Spanish say Wright's later additions were completed in 1948. Many references give 1940, so 1939 vs 1940 is uncertain."
+ },
+ {
+  "id": "marsk-tower",
+  "year": 2021,
+  "source": "article:de",
+  "quote": "August 2021 wurde er eröffnet.",
+  "quote_en": "In August 2021 it was opened.",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "memorial-jk",
+  "year": 1981,
+  "source": "article:es",
+  "quote": "El 12 de septiembre de 1981 fue finalmente inaugurado el Memorial JK que al principio fue objeto de críticas y generó polémica sobre la intención de Oscar Niemeyer",
+  "quote_en": "On 12 September 1981 the JK Memorial was finally inaugurated; at first it drew criticism and controversy over Oscar Niemeyer's intention",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "tower-25",
+  "year": 2013,
+  "source": "article:en",
+  "quote": "The total cost of the building was approximately €25 million, and its construction was completed in early 2013.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "national-museum-of-art-osaka",
+  "year": 2004,
+  "source": "article:en",
+  "quote": "The old museum was demolished and turned into a car park, while the exhibits were transferred to its more central, current location in Nakanoshima, which opened in November 2004.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "Wikidata says 1977 (inception and opening), but that is the earlier museum in the Expo '70 building (the French article credits that one to Arata Isozaki). The current underground building on Nakanoshima, which is Pelli's, opened in November 2004. Article preferred over Wikidata."
+ },
+ {
+  "id": "tapies-museum",
+  "year": 1885,
+  "source": "article:en",
+  "quote": "Constructed between 1880 and 1885, at an early stage of the evolution of Catalan Modernisme style, the building was the first in the Eixample district to integrate industrial typology, combining exposed brick and iron.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "Building by Domènech i Montaner (1880-85); the Tàpies foundation was founded 1984 and the museum opened in the building in June 1990 after restoration by other architects. Wikidata inception 1984 (the foundation) and opened 1990 refer to the museum, not the original building."
+ },
+ {
+  "id": "taipei-grand-mosque",
+  "year": 1960,
+  "source": "article:de",
+  "quote": "April 1960 fertiggestellt.",
+  "quote_en": "Completed in April 1960.",
+  "confidence": "high",
+  "problem": "Wikidata inception 1947 refers to the earlier mosque on the site; the English article says the current building (the 1960 structure, designed by Yang Cho-cheng per the brief) was inaugurated 13 April 1960. Article preferred over Wikidata."
+ },
+ {
+  "id": "thiepval-memorial",
+  "year": 1932,
+  "source": "article:en",
+  "quote": "Designed by Sir Edwin Lutyens, the memorial was built between 1928 and 1932 and is the largest Commonwealth Memorial to the Missing in the world.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "arco-della-vittoria",
+  "year": 1931,
+  "source": "article:en",
+  "quote": "The work was completed in 1931, and was inaugurated on 31 May of the same year, in the presence of civil and military authorities.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "hyderabad-house",
+  "year": 1928,
+  "source": "article:es",
+  "quote": "Su construcción se inició en 1926 y fue inaugurada en 1928.",
+  "quote_en": "Its construction began in 1926 and it was inaugurated in 1928.",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "national-museum-of-prehistory",
+  "year": 2002,
+  "source": "article:en",
+  "quote": "Trial operations began on July 10, 2001, and the museum officially opened on August 17, 2002.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "church-house",
+  "year": 1940,
+  "source": "article:en",
+  "quote": "Though delayed at first by the depression of the early 1930s, the foundation stone was laid by Queen Mary on 26 June 1937, and the building was officially opened by King George VI on 10 June 1940.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "The current building by Herbert Baker (1937-40) replaced earlier Church House buildings of 1888-1902 on the site (and was reopened as a conference centre in 1988). Baker died in 1946, so 1940 is plausible."
+ },
+ {
+  "id": "stockholm-university-library",
+  "year": 1983,
+  "source": "article:sv",
+  "quote": "Den nya biblioteksbyggnaden öppnade 19 januari 1983 med officiell invigning under sommaren 1983.",
+  "quote_en": "The new library building opened on 19 January 1983, with the official inauguration in the summer of 1983.",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "arras-memorial",
+  "year": 1932,
+  "source": "article:en",
+  "quote": "Both memorials were unveiled by Lord Trenchard on 31 July 1932.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "stopera",
+  "year": 1986,
+  "source": "article:nl",
+  "quote": "Het complex werd in 1986 voltooid.",
+  "quote_en": "The complex was completed in 1986.",
+  "confidence": "high",
+  "problem": "English article: the opera officially opened 23 September 1986 and the new city hall two years later (1988), so the city-hall wing came slightly later. Wikidata inception 1967 refers to the earlier plan/competition, 1986 matches opening. Holzbauer and Dam were alive and working."
+ },
+ {
+  "id": "glenstone",
+  "year": 2006,
+  "source": "article:en",
+  "quote": "The original Glenstone building opened in 2006 and was designed by American architect Charles Gwathmey of Gwathmey Siegel & Associates Architects.",
+  "quote_en": null,
+  "confidence": "medium",
+  "problem": "Glenstone is a multi-phase campus: Gwathmey's gallery opened 2006, Thomas Phifer's large expansion opened 2018 and a Serra pavilion in 2022 (the Phifer and Walker work is not covered by 2006). 2006 is the first building and also when the museum was founded."
+ },
+ {
+  "id": "kenwood-house",
+  "year": null,
+  "source": null,
+  "quote": null,
+  "quote_en": null,
+  "confidence": "low",
+  "problem": "Sources give no completion year for the building: the house was built in the late 17th century and remodelled by Robert Adam in the 18th (no year in the supplied text). Wikidata 1929 is when it opened to the public as a museum, not a completion date. Also the credited architect Robert Adam only remodelled an existing house."
+ },
+ {
+  "id": "kucuksu-pavilion",
+  "year": 1857,
+  "source": "article:en",
+  "quote": "Completed in 1857, the structure took the place of a two-storey timber palace built during the reign of Mahmud I (1696–1754) by his Grand Vizier Divittar Mehmed Pasha, then successively used by Selim III (1761–1808) and Mahmud II (1785–1839).",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "German (built 1856-57) and French (achevé en 1857) agree. Wikidata inception 1944 is the museum restoration, not the building. Designed by Garabet Amira Balyan and his son Nigoğayos Balyan (both named in the sources)."
+ },
+ {
+  "id": "szeged-synagogue",
+  "year": 1902,
+  "source": "article:en",
+  "quote": "Designed by Lipót Baumhorn, after winning an 1897 design competition, the synagogue was completed in 1902 and is considered to contain the finest examples of the unique fin de siècle Hungarian blending of Art Nouveau| and Historicist styles, sometimes known as Magyar style, or Sezession style.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "French article says built 1900-1902 and inaugurated 1902; German says built 1900-1903; Wikidata inception 1900 is the start of construction. Article (1902) preferred. Baumhorn (1860-1932) was active."
+ },
+ {
+  "id": "aland-maritime-museum",
+  "year": 1954,
+  "source": "article:nl",
+  "quote": "Op 29 augustus 1954 werd het museum opengesteld voor het publiek.",
+  "quote_en": "On 29 August 1954 the museum was opened to the public.",
+  "confidence": "medium",
+  "problem": "Dutch article says the building itself was only built in 1949 after Second World War delays (wording is vague between built and begun); the museum opened to the public in 1954 (also the French article and Wikidata opened). The museum was reopened in 2012 after an extension. Cedercreutz and Helge Railo are named as architects."
+ },
+ {
+  "id": "museum-of-contemporary-art-zagreb",
+  "year": 2009,
+  "source": "article:en",
+  "quote": "The cornerstone for the new building was laid in November 2003, and the new museum finally opened on 11 December 2009, after six years of construction which was beset with several delays.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "museum-of-the-republic-of-north-macedonia",
+  "year": null,
+  "source": null,
+  "quote": null,
+  "quote_en": null,
+  "confidence": "low",
+  "problem": "No source dates the building. 1924 (articles and Wikidata inception) is when the archaeological museum, the oldest of the three merged museums, was opened or founded, i.e. the institution. The article also mentions the Kuršumli An (16th century) within the museum. Architect link to Mimoza Nestorova-Tomić is not confirmed by the supplied articles."
+ },
+ {
+  "id": "historisches-museum-saar",
+  "year": 1999,
+  "source": "wikidata:P1619",
+  "quote": "opened: 1999",
+  "quote_en": "opened: 1999",
+  "confidence": "low",
+  "problem": "Only Wikidata (P1619 opened 1999) gives a year; the single German article says nothing about when the building opened (it only mentions a May 2026 reopening of the underground castle). Wikidata may describe the museum rather than Gottfried Boehm's building, so the building date should be checked."
+ },
+ {
+  "id": "prins-hendrikkade-600",
+  "year": 1996,
+  "source": "article:nl",
+  "quote": "Hier werd in 1996 een paviljoen naar ontwerp van Renzo Piano gebouwd om uitzicht te verschaffen op diens creatie NEMO Science Museum.",
+  "quote_en": "In 1996 a pavilion designed by Renzo Piano was built here to give a view of his NEMO Science Museum creation.",
+  "confidence": "medium",
+  "problem": "The same article says the pavilion was later converted into the ARCAM architecture centre: a partly new building handed over in 2003 and officially opened 24 October 2003. Wikidata inception values are 1999 and 2003. What stands now is the 2003 rebuild around Piano's 1996 pavilion, so 1996 is Piano's building and 2003 the current building."
+ },
+ {
+  "id": "santiago-del-estero-forum",
+  "year": 2012,
+  "source": "wikidata:P1619",
+  "quote": "opened: 2012",
+  "quote_en": "opened: 2012",
+  "confidence": "medium",
+  "problem": "Only Wikidata (opened 2012) gives a year; the Spanish article has no dates. It describes the convention centre inside the old Mitre railway station, so the opening date refers to the Forum itself, but it is a single unconfirmed source."
+ },
+ {
+  "id": "house-of-history-baden-wurttemberg",
+  "year": 2002,
+  "source": "article:en",
+  "quote": "On 13 December 2002 the House of History Baden-Württemberg opened its permanent exhibition in the space of 2,000 m2 (22,000 sq ft) in its new quarters.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "German article agrees (Dezember 2002 eröffnet); English says final planning was completed in 2002 by Wilford and Schupp. Wikidata inception 1992 and start 1991 refer to the project/working group, not the building. The museum itself was founded in 1987."
+ },
+ {
+  "id": "saxon-landtag",
+  "year": 1994,
+  "source": "article:de",
+  "quote": "Es besteht aus einem Altbau (1928–1931), der als Bürogebäude saniert wurde, und einem Neubau von Peter Kulka (1991–1994) mit dem Plenarsaal.",
+  "quote_en": "It consists of an old building (1928-1931), refurbished as offices, and a new building by Peter Kulka (1991-1994) with the plenary chamber.",
+  "confidence": "medium",
+  "problem": "English article says built between 1991 and 1993; German and French articles say 1991-1994 and Wikidata end date is 1994, so 1994 is used. The conversion of the 1928-31 old building (not by Kulka's new plenary block) was handed over on 15 September 1997."
+ },
+ {
+  "id": "seth-peterson-cottage",
+  "year": 1962,
+  "source": "article:en",
+  "quote": "The Pritchard family completed the project and invited guests to the house in September 1962.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "Wright signed the drawings in October 1958 (Wikidata inception 1958) and died in April 1959; construction began in 1959 and stalled; the house was completed after his death by the Pritchard family. Restored and opened for rentals in 1992."
+ },
+ {
+  "id": "rietveld-pavilion",
+  "year": null,
+  "source": null,
+  "quote": null,
+  "quote_en": null,
+  "confidence": "low",
+  "problem": "Dutch article only says it was designed by Rietveld in 1954 for the 1955 Sonsbeek exhibition in Arnhem and has stood in Otterlo since 1964; no sentence says when it was completed. Wikidata inception 1954 is the design year. Likely built 1955 (and rebuilt in Otterlo 1964), but not stated."
+ },
+ {
+  "id": "aldo-van-eyck-pavilion",
+  "year": 2006,
+  "source": "article:nl",
+  "quote": "De opening vond plaats op 21 maart 2006.",
+  "quote_en": "The opening took place on 21 March 2006.",
+  "confidence": "low",
+  "problem": "This is a reconstruction: the article says the pavilion (originally the Sonsbeek pavilion) was designed by Aldo van Eyck in 1965 and has stood in the Kroller-Muller sculpture park since 2005/2006; Van Eyck died in 1999. Wikidata lists many inception values (1954, 1955, 1964, 1965, 1966, 2005, 2006, 2010) with unclear qualifiers; an original 1966 build is possible but unquoted. Choose 2006 only if the reconstruction in Otterlo is what the wall shows."
+ },
+ {
+  "id": "national-institute-for-technical-education-leuven",
+  "year": null,
+  "source": null,
+  "quote": null,
+  "quote_en": null,
+  "confidence": "low",
+  "problem": "The only article (Dutch, on the Wittevrouwenklooster site in Leuven) says a technical school was housed there from 1937 to 1984 and that the Tweebronnen library has been there since 2000; it does not say Henry van de Velde's building was completed in any year and does not name him. Wikidata inception is 1942 (unqualified), which disagrees with the 1937 school start. Needs a better source for the completion year and for the architect."
+ },
+ {
+  "id": "palace-moravia",
+  "year": 1936,
+  "source": "article:en",
+  "quote": "The project was finally completed in 1936.",
+  "quote_en": null,
+  "confidence": "medium",
+  "problem": "Czech article only says the building dates from the end of the 1920s (design by Ernst/Arnost Wiesner), and Wikidata gives construction 1926-1929 (inception 1920 with start 1926 and end 1929), which disagrees with the English 1936. Article preferred; 1926 is the competition. Check against a Czech source whether 1929 is the main block and 1936 the whole complex."
+ },
+ {
+  "id": "riverside-art-museum",
+  "year": null,
+  "source": null,
+  "quote": null,
+  "quote_en": null,
+  "confidence": "low",
+  "problem": "The English article only says the building was 'originally design[ed] by Julia Morgan to serve the YWCA in 1929' (a design date, not a completion date) and that the Riverside Art Association bought it in 1967 (the Wikidata inception 1967 is the museum). No sentence gives completion. 1929 is likely close but is not stated as completion."
+ },
+ {
+  "id": "georg-kolbe-museum",
+  "year": 1929,
+  "source": "article:nl",
+  "quote": "Het woon- en atelierhuis werd door de Duitse beeldhouwer Georg Kolbe (1877–1947) samen met de Zwitserse architect Ernst Rentsch ontworpen en in de jaren 1928/1929 gebouwd.",
+  "quote_en": "The residence and studio house was designed by the German sculptor Georg Kolbe (1877-1947) together with the Swiss architect Ernst Rentsch and built in 1928/1929.",
+  "confidence": "medium",
+  "problem": "Built 1928/29 as Kolbe's house and studio; it opened as a museum in 1950 (German and Dutch articles, Wikidata inception 1950), and the AGP extension was finished in 1996. Paul Linder (named in 'by') is not mentioned in the supplied articles; Rentsch is."
+ },
+ {
+  "id": "bijenkorf-rotterdam",
+  "year": 1957,
+  "source": "article:nl",
+  "quote": "Het gebouw dateert uit 1957 en is een symbool van de wederopbouw van de stad Rotterdam.",
+  "quote_en": "The building dates from 1957 and is a symbol of the reconstruction of the city of Rotterdam.",
+  "confidence": "medium",
+  "problem": "Wikidata has opened 1956 and inception 1957 (and 1953, probably the design); the Dutch article says 1957, which is preferred. The English article is about the chain and mentions the earlier Dudok store (1930), which was destroyed; that is a different building."
+ },
+ {
+  "id": "luiz-de-bessa-state-public-library",
+  "year": 1961,
+  "source": "article:pt",
+  "quote": "O edifício teve o projeto inicial feito pelo arquiteto Oscar Niemeyer, foi inaugurado somente em 1961, contudo nunca foi totalmente concluído.",
+  "quote_en": "The building had its initial design by the architect Oscar Niemeyer and was inaugurated only in 1961, but it was never fully completed.",
+  "confidence": "medium",
+  "problem": "The article says the building was never fully completed and is now being renovated; Wikidata inception 1954 is the date the library (institution) was created by law, not the building. Niemeyer was alive and working."
+ },
+ {
+  "id": "turku-main-library",
+  "year": 2007,
+  "source": "article:fi",
+  "quote": "Vanhan kirjastorakennuksen viereen valmistui vuonna 2007 arkkitehtitoimisto JKMM:n suunnittelema uusi kirjastorakennus.",
+  "quote_en": "Next to the old library building, the new library building designed by the architecture firm JKMM was completed in 2007.",
+  "confidence": "high",
+  "problem": "The architect given (JKMM) designed the new building, completed 2007 (English and French agree). Wikidata inception 1903 is the old library building by Karl August Wrede, a different building and architect."
+ },
+ {
+  "id": "wall-house-ii",
+  "year": 2001,
+  "source": "wikidata:P571",
+  "quote": "inception: 2001 (qualifier P518: Q59913255); also inception: 1973 (qualifier P13044: Q82604)",
+  "quote_en": "inception: 2001 (qualifier P518: Q59913255); also inception: 1973 (qualifier P13044: Q82604)",
+  "confidence": "low",
+  "problem": "No article sentence gives a completion year: English says a Dutch developer started building it in Groningen in 2000, Dutch says it was designed in 1976 for Ed Bye and not built then. Hejduk died in 2000, so it was built posthumously from his design. The 2001 Wikidata value fits a build that began in 2000, but its qualifier is not explained in the file."
+ },
+ {
+  "id": "cafe-era",
+  "year": 1929,
+  "source": "article:cs",
+  "quote": "Budovu kavárny Era, postavenou v letech 1928–1929, navrhl architekt Josef Kranz ve funkcionalistickém stylu v roce 1927.",
+  "quote_en": "The Era café building, built in 1928-1929, was designed by the architect Josef Kranz in the functionalist style in 1927.",
+  "confidence": "high",
+  "problem": "Wikidata inception is 1920 with start 1927 and end 1929 (end 1929 agrees); the entry's existing year 1920 is wrong."
+ },
+ {
+  "id": "new-town-hall-in-jablonec-nad-nisou",
+  "year": 1933,
+  "source": "wikidata:P571",
+  "quote": "inception: 1933 (a second value 1901 carries start 1930, end 1933)",
+  "quote_en": "inception: 1933 (a second value 1901 carries start 1930, end 1933)",
+  "confidence": "medium",
+  "problem": "The Czech article only says it is a functionalist building 'from the 1930s' and quotes a December 1930 petition against it; no sentence gives the completion year. Wikidata inception 1933 and the construction span 1930-1933 are consistent with that. The odd 1901 value is probably a bad date."
+ },
+ {
+  "id": "haskova-vila",
+  "year": 1931,
+  "source": "article:cs",
+  "quote": "Vilu Zdeňky a Jaroslava Háskových podle Lauterbachova projektu postavil v letech 1930–1931 Max Daut.",
+  "quote_en": "The villa of Zdenka and Jaroslav Hasek was built in 1930-1931 by Max Daut to Lauterbach's design.",
+  "confidence": "high",
+  "problem": null
+ },
+ {
+  "id": "thiel-gallery",
+  "year": 1907,
+  "source": "article:en",
+  "quote": "The house was built between 1904 and 1907, and it was designed in the Art Nouveau style with white façades by the architect Ferdinand Boberg (1860–1946).",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "English says inaugurated March 1907 and French says built 1907; the German article says 1905 (einweihen). Wikidata inception 1924 is when the state acquired it and the entry's year 1924 is wrong; it opened to the public as a gallery in 1926."
+ },
+ {
+  "id": "mercado-central-valencia",
+  "year": 1928,
+  "source": "article:en",
+  "quote": "Construction began in 1914 and was not fully completed until 1928 by the Valencian architect Enrique Viedma Vidal.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "French article: works finished January 1928 under Enric Viedma i Vidal; Wikidata opened 1928 agrees. French article says it was designed in 1914 by Soler i March and Guardia i Vial. Wikidata construction span is 1914-1924."
+ },
+ {
+  "id": "hans-christian-andersen-museum",
+  "year": 2021,
+  "source": "article:en",
+  "quote": "Andersens Hus opened on 30 June 2021 in the presence of Queen Margrethe II, with full opening on 1 December 2021.",
+  "quote_en": null,
+  "confidence": "high",
+  "problem": "This is the new building by Kengo Kuma & Associates (German: 'Juni 2021 ... Neubau eröffnet'). Wikidata opened 2021; Wikidata inception 1908 is the original birthplace house museum (reopened 1908, opened as museum 1930), not Kuma's work."
+ },
+ {
+  "id": "lake-suwa-museum",
+  "year": 1993,
+  "source": "wikidata:P571",
+  "quote": "inception: 1993",
+  "quote_en": "inception: 1993",
+  "confidence": "low",
+  "problem": "The Japanese article has no dates. Wikidata gives inception 1993 and opened 1952, which conflict; 1952 probably refers to an earlier municipal museum or memorial hall. 1993 is taken as the Toyo Ito building but is a single unconfirmed source."
+ }
+]

@@ -1,0 +1,891 @@
+[
+  {
+    "id": "forum-building",
+    "qid": "Q2842986",
+    "status": "photo",
+    "why": "Herzog & de Meuron landmark named in the lead; the photos show the building in daylight. Year not in lead.",
+    "name": "Forum Building",
+    "by": "Herzog & de Meuron",
+    "city": "Barcelona",
+    "cc": "ES",
+    "year": null,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Geometry",
+      "Monumentality",
+      "Sculptural form"
+    ],
+    "features": "Herzog & de Meuron's triangular landmark, 180 metres a side, symbol of Barcelona's 2004 Universal Forum.",
+    "commons_category": "Category:Forum Building",
+    "coords": [
+      41.41101,
+      2.22092
+    ],
+    "photos": [
+      {
+        "file": "File:Barcelona 2006 (2845523246).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Edifici Fòrum Barcelona Catalonia.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Barcelona 2006 (2845523526).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "kumamoto-prefectural-ancient-burial-mound-museum",
+    "qid": "Q4557656",
+    "status": "photo",
+    "why": "Ando museum; the lead gives the reason and the completion date (April 1992). Clear daylight exterior.",
+    "name": "Kumamoto Prefectural Ancient Burial Mound Museum",
+    "by": "Tadao Ando",
+    "city": "Yamaga",
+    "cc": "JP",
+    "year": 1992,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Exposed concrete",
+      "Landscape",
+      "Sculptural form"
+    ],
+    "features": "Full-size replicas of the inner chambers of twelve decorated tumuli, in a Tadao Ando museum.",
+    "commons_category": "Category:Kumamoto Prefectural Decorated Tumulus Museum",
+    "coords": [
+      32.99367,
+      130.66969
+    ],
+    "photos": [
+      {
+        "file": "File:Kumamoto Prefectural Ancient Burial Mound Museum 02.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "funf-hofe",
+    "qid": "Q1481649",
+    "status": "skip",
+    "why": "Shopping mall; the lead gives no architectural reason."
+  },
+  {
+    "id": "san-francisco-public-library",
+    "qid": "Q2901530",
+    "status": "skip",
+    "why": "Lead describes the library system, not the building; the 1878 year does not fit the named architects."
+  },
+  {
+    "id": "queen-elizabeth-ii-great-court",
+    "qid": "Q7270359",
+    "status": "unsure",
+    "why": "Foster's covered court in the British Museum; every photo is inside, so no outside view of the building.",
+    "note": "no main photo"
+  },
+  {
+    "id": "hiroshima-national-peace-memorial-hall-for-the-atomic-bomb-victims",
+    "qid": "Q114067",
+    "status": "photo",
+    "why": "Tange, a well-known architect, and this is his built work; the lead is very short. Year from prep.",
+    "name": "Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims",
+    "by": "Kenzō Tange",
+    "city": "Hiroshima",
+    "cc": "JP",
+    "year": 2002,
+    "type": "Memorial",
+    "movement": "Contemporary",
+    "concepts": [
+      "Landscape",
+      "Exposed concrete",
+      "Monumentality"
+    ],
+    "features": "A national memorial hall in Hiroshima for the victims of the atomic bomb, designed by Kenzō Tange.",
+    "commons_category": "Category:Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims",
+    "coords": [
+      34.39333,
+      132.45349
+    ],
+    "photos": [
+      {
+        "file": "File:Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims 2008 01.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:Hiroshima National Peace Memorial Hall for the Atomic Bomb Victims 20170310.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "paris-opera-ballet-school",
+    "qid": "Q19945031",
+    "status": "skip",
+    "why": "Lead describes the ballet school, and its year (1713) is the school's founding."
+  },
+  {
+    "id": "el-peix-dor",
+    "qid": "Q28027474",
+    "status": "photo",
+    "why": "Gehry; the lead gives the reason (first structure designed with CATIA). It is also an artwork, so check it.",
+    "name": "El Peix d'Or",
+    "by": "Frank Gehry",
+    "city": "Barcelona",
+    "cc": "ES",
+    "year": 1992,
+    "type": "Public space",
+    "movement": "Deconstructivism",
+    "concepts": [
+      "Sculptural form",
+      "Geometry",
+      "Parametric"
+    ],
+    "features": "Said to be the first structure designed with CATIA, an aircraft CAD program, to handle its non-Euclidean geometry.",
+    "commons_category": "Category:El Peix (sculpture by Frank Gehry)",
+    "coords": [
+      41.38608,
+      2.19693
+    ],
+    "photos": [
+      {
+        "file": "File:Barcelona Frank Gehrys Peix.jpg",
+        "license": "CC BY-SA 3.0 at",
+        "seen": true
+      },
+      {
+        "file": "File:Escultura de Frank O. Gehry con forma de peixe. Porto olímpico de Barcelona B18.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "aerospace-technology-and-science-department",
+    "qid": "Q3683932",
+    "status": "skip",
+    "why": "Lead describes a military research institute, not a building."
+  },
+  {
+    "id": "shenzhen-library",
+    "qid": "Q38773376",
+    "status": "photo",
+    "why": "Isozaki, a well-known architect, and a built work; the lead is short. No year in prep or lead.",
+    "name": "Shenzhen Library",
+    "by": "Arata Isozaki",
+    "city": "Shenzhen",
+    "cc": "CN",
+    "year": null,
+    "type": "Library",
+    "movement": "Contemporary",
+    "concepts": [
+      "Steel & glass",
+      "Geometry",
+      "Facade as skin"
+    ],
+    "features": "Shenzhen's municipal main library, a 49,589 m² building inside the Shenzhen Cultural Center.",
+    "commons_category": "Category:Shenzhen Library",
+    "coords": [
+      22.54857,
+      114.05202
+    ],
+    "photos": [
+      {
+        "file": "File:Shenzhen Library Overview.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "triangle-building",
+    "qid": "Q4462747",
+    "status": "photo",
+    "why": "Niemeyer built work; the lead describes the building and gives the 1955 opening. Daylight tower photos.",
+    "name": "Triangle Building",
+    "by": "Oscar Niemeyer",
+    "city": "São Paulo",
+    "cc": "BR",
+    "year": 1955,
+    "type": "Office & tower",
+    "movement": "Modernism",
+    "concepts": [
+      "Brise-soleil",
+      "Steel & glass",
+      "Geometry"
+    ],
+    "features": "Niemeyer's 1955 commercial building in São Paulo: a prism ringed by three kinds of glass and brise-soleil.",
+    "commons_category": "Category:Edifício Triângulo",
+    "coords": [
+      -23.54886,
+      -46.63467
+    ],
+    "photos": [
+      {
+        "file": "File:At São Paulo, Brazil 2019 195.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Edifício Triângulo.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:At São Paulo, Brazil 2019 191.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "national-police-memorial",
+    "qid": "Q6974970",
+    "status": "skip",
+    "why": "Memorial sculpture and garden, a monument rather than a building."
+  },
+  {
+    "id": "praca-da-apoteose",
+    "qid": "Q7239115",
+    "status": "photo",
+    "why": "Niemeyer square; an event venue, so check it. The lead gives the design date; the year is not given.",
+    "name": "Praça da Apoteose",
+    "by": "Oscar Niemeyer",
+    "city": "Rio de Janeiro",
+    "cc": "BR",
+    "year": null,
+    "type": "Public space",
+    "movement": "Modernism",
+    "concepts": [
+      "Sculptural form",
+      "Monumentality",
+      "Public space"
+    ],
+    "features": "A Niemeyer square in Rio's Sambadrome, designed in 1983, that holds concerts and events for tens of thousands.",
+    "commons_category": null,
+    "coords": [
+      -22.91337,
+      -43.19615
+    ],
+    "photos": [
+      {
+        "file": "File:Apoteose do Tiro com Arco.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "colosseum-kino",
+    "qid": "Q774976",
+    "status": "unsure",
+    "why": "The photo caption credits other architects for the original building and Fehn only with a later rebuild; the lead names no architect. Check the architect."
+  },
+  {
+    "id": "beisheim-center",
+    "qid": "Q814873",
+    "status": "skip",
+    "why": "Mixed hotel and office ensemble; the lead gives no architectural reason."
+  },
+  {
+    "id": "tianjin-library",
+    "qid": "Q10939994",
+    "status": "photo",
+    "why": "Yamamoto, a well-known architect (architect from prep only; the lead names none). Lead gives the reason.",
+    "name": "Tianjin Library",
+    "by": "Riken Yamamoto",
+    "city": "Tianjin",
+    "cc": "CN",
+    "year": null,
+    "type": "Library",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Steel & glass",
+      "Public space"
+    ],
+    "features": "One of China's largest public libraries, a national first-level library founded in 1908.",
+    "commons_category": "Category:Tianjin Library",
+    "coords": [
+      39.08431,
+      117.20918
+    ],
+    "photos": [
+      {
+        "file": "File:天津图书馆1.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "salerno-courthouse",
+    "qid": "Q16541977",
+    "status": "photo",
+    "why": "Chipperfield courthouse; the lead describes the six buildings. Daylight photos of the whole complex. No year in lead.",
+    "name": "Salerno Courthouse",
+    "by": "David Chipperfield",
+    "city": "Salerno",
+    "cc": "IT",
+    "year": null,
+    "type": "Civic",
+    "movement": "Contemporary",
+    "concepts": [
+      "Courtyard",
+      "Public space",
+      "Facade as skin"
+    ],
+    "features": "Six buildings linked by porticoes and courtyards, set on a black stone public square.",
+    "commons_category": "Category:Cittadella giudiziaria (Salerno)",
+    "coords": [
+      40.6784,
+      14.7743
+    ],
+    "photos": [
+      {
+        "file": "File:CittadellagiudiziariaedificioAeB.JPG",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Cittadellagiudiziaria1.JPG",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:Cittadella giudiziaria salerno.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "elmer-holmes-bobst-library",
+    "qid": "Q3051566",
+    "status": "photo",
+    "why": "Johnson, a well-known architect; the lead gives the 1973 opening. Daylight facade photos.",
+    "name": "Elmer Holmes Bobst Library",
+    "by": "Philip Johnson",
+    "city": "New York",
+    "cc": "US",
+    "year": 1973,
+    "type": "Library",
+    "movement": "Late modernism",
+    "concepts": [
+      "Brick",
+      "Facade as skin",
+      "Public space"
+    ],
+    "features": "NYU's main library in Lower Manhattan, opened in 1973 and named for its benefactor, Elmer Holmes Bobst.",
+    "commons_category": "Category:Bobst Library",
+    "coords": [
+      40.72944,
+      -73.99722
+    ],
+    "photos": [
+      {
+        "file": "File:Bobst Library (48072704803).jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Bobst Library - 36884313524.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      },
+      {
+        "file": "File:Bobst Library - 48705212442.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "les-champs-libres",
+    "qid": "Q3231356",
+    "status": "unsure",
+    "why": "Portzamparc's Rennes centre (lead gives 2006); the photos are a kiosk, indoor scenes or partial views, so no whole-building photo.",
+    "note": "no main photo"
+  },
+  {
+    "id": "palazzo-donnaregina",
+    "qid": "Q3361294",
+    "status": "unsure",
+    "why": "Siza Vieira led only the 2005 restoration of a 19th-century palace (lead); the original architect is not known. The only photo is a courtyard inside.",
+    "note": "no main photo"
+  },
+  {
+    "id": "chapel-of-st-basil",
+    "qid": "Q5073081",
+    "status": "photo",
+    "why": "Johnson, a well-known architect; the lead is short. Lead gives only a design year, so the year is left null.",
+    "name": "Chapel of St. Basil",
+    "by": "Philip Johnson",
+    "city": "Houston",
+    "cc": "US",
+    "year": null,
+    "type": "Religious",
+    "movement": "Postmodernism",
+    "concepts": [
+      "Sculptural form",
+      "Light & shadow",
+      "Landscape"
+    ],
+    "features": "Philip Johnson's chapel on the University of St. Thomas campus in Houston, Texas.",
+    "commons_category": "Category:Chapel of St. Basil, Houston",
+    "coords": [
+      29.7384,
+      -95.3932
+    ],
+    "photos": [
+      {
+        "file": "File:2024-0105-Chapel of St. Basil west elevation.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:2024-0105-Chapel of St. Basil north elevation.jpg",
+        "license": "CC BY 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "estacao-cabo-branco-ciencia-cultura-e-artes",
+    "qid": "Q615457",
+    "status": "photo",
+    "why": "Niemeyer built work; the lead gives the 3 July 2008 opening. Daylight views of the whole building.",
+    "name": "Estação Cabo Branco – Ciência, Cultura e Artes",
+    "by": "Oscar Niemeyer",
+    "city": "João Pessoa",
+    "cc": "BR",
+    "year": 2008,
+    "type": "Culture & sport",
+    "movement": "Contemporary",
+    "concepts": [
+      "Sculptural form",
+      "Promenade",
+      "Public space"
+    ],
+    "features": "Niemeyer's science, culture and arts centre in the Cabo Branco district of João Pessoa, opened in 2008.",
+    "commons_category": "Category:Estação Cabo Branco",
+    "coords": [
+      -7.14765,
+      -34.79895
+    ],
+    "photos": [
+      {
+        "file": "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888023101).jpg",
+        "license": "Public domain",
+        "seen": true
+      },
+      {
+        "file": "File:CacioMurilo EstaçãoCiências JoãoPessoa PB (40888015271).jpg",
+        "license": "Public domain",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "meier-on-rothschild",
+    "qid": "Q6945083",
+    "status": "photo",
+    "why": "Meier, a well-known architect, and his built tower; the lead names no architect, so prep is used. Daylight photos.",
+    "name": "Meier on Rothschild",
+    "by": "Richard Meier",
+    "city": "Tel Aviv",
+    "cc": "IL",
+    "year": 2014,
+    "type": "Housing",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Steel & glass",
+      "Modular"
+    ],
+    "features": "Richard Meier's 158-metre tower on Allenby Street in Tel Aviv, Israel's second-highest residential building.",
+    "commons_category": "Category:Meier on Rothschild Tower",
+    "coords": [
+      32.06333,
+      34.77333
+    ],
+    "photos": [
+      {
+        "file": "File:111543 tel aviv-old and new in allenby PikiWiki Israel.jpg",
+        "license": "CC BY 2.5",
+        "seen": true
+      },
+      {
+        "file": "File:111548 tel aviv-old and new in allenby PikiWiki Israel.jpg",
+        "license": "CC BY 2.5",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "procuradoria-geral-da-republica",
+    "qid": "Q10369343",
+    "status": "photo",
+    "why": "Niemeyer complex; the lead describes it and its postmodern character. No year in lead or prep.",
+    "name": "Procuradoria Geral da República",
+    "by": "Oscar Niemeyer",
+    "city": "Brasília",
+    "cc": "BR",
+    "year": null,
+    "type": "Civic",
+    "movement": "Postmodernism",
+    "concepts": [
+      "Facade as skin",
+      "Sculptural form",
+      "Steel & glass"
+    ],
+    "features": "Niemeyer's Brasília headquarters for Brazil's public prosecutors, among his most controversial works.",
+    "commons_category": "Category:Procuradoria Geral da República (building)",
+    "coords": [
+      -15.80772,
+      -47.85955
+    ],
+    "photos": [
+      {
+        "file": "File:Webysther 20180212174501 - PGR - Procuradoria Geral da República.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Sede da Procuradoria Geral da República Brasileira (Attorney General's Office), 2002.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:110423 brasilia - 10.jpg",
+        "license": "CC BY 2.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "the-troika",
+    "qid": "Q1097149",
+    "status": "photo",
+    "why": "Foster, a well-known architect, and a built work; housing kept on that basis. Check, as it is ordinary housing.",
+    "name": "The Troika",
+    "by": "Foster and Partners",
+    "city": "Kuala Lumpur",
+    "cc": "MY",
+    "year": 2010,
+    "type": "Housing",
+    "movement": "Contemporary",
+    "concepts": [
+      "Facade as skin",
+      "Steel & glass",
+      "Monumentality"
+    ],
+    "features": "Three luxury condominium towers in Kuala Lumpur, designed by the British firm Foster and Partners.",
+    "commons_category": null,
+    "coords": [
+      3.15466,
+      101.718
+    ],
+    "photos": [
+      {
+        "file": "File:KL - The Troika2.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "garden-of-fine-art-kyoto",
+    "qid": "Q11375286",
+    "status": "photo",
+    "why": "Ando garden; the lead gives the 1994 opening and the design. Photos show the walls and walks, not the artworks.",
+    "name": "Garden of Fine Art Kyoto",
+    "by": "Tadao Ando",
+    "city": "Kyoto",
+    "cc": "JP",
+    "year": 1994,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Exposed concrete",
+      "Landscape",
+      "Promenade"
+    ],
+    "features": "An open-air museum of ceramic copies of famous paintings, set in a walking garden designed by Tadao Ando.",
+    "commons_category": "Category:Garden of Fine Art, Kyoto",
+    "coords": [
+      35.05111,
+      135.76531
+    ],
+    "photos": [
+      {
+        "file": "File:Garden of Fine Art, Kyoto 2025.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Garden of Fine Art, Kyoto 2025-1.jpg",
+        "license": "CC BY 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "koumi-machi-kogen-museum-of-art",
+    "qid": "Q11462647",
+    "status": "photo",
+    "why": "Ando museum; the lead is one line, kept on the second test. Daylight exterior; the banner photo is not used.",
+    "name": "Koumi-machi Kōgen Museum of Art",
+    "by": "Tadao Ando",
+    "city": "Koumi",
+    "cc": "JP",
+    "year": 1997,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Exposed concrete",
+      "Landscape",
+      "Light & shadow"
+    ],
+    "features": "A museum of art run by the town of Koumi, designed by Tadao Ando.",
+    "commons_category": "Category:Koumi-machi Kōgen Museum of Art",
+    "coords": [
+      36.05927,
+      138.44008
+    ],
+    "photos": [
+      {
+        "file": "File:小海町高原美術館.JPG",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "ishikawa-nishida-kitaro-museum-of-philosophy",
+    "qid": "Q11586041",
+    "status": "photo",
+    "why": "Ando, a well-known architect; the lead is short. Daylight glass and concrete exterior.",
+    "name": "Ishikawa Nishida Kitarō Museum of Philosophy",
+    "by": "Tadao Ando",
+    "city": "Kahoku",
+    "cc": "JP",
+    "year": 2002,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Exposed concrete",
+      "Steel & glass",
+      "Landscape"
+    ],
+    "features": "Ando's museum in Kahoku, Ishikawa, dedicated to the philosopher Nishida Kitarō.",
+    "commons_category": "Category:Ishikawa Nishida Kitaro Museum of Philosophy",
+    "coords": [
+      36.71417,
+      136.69389
+    ],
+    "photos": [
+      {
+        "file": "File:Nishida Museum.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "nariwa-museum",
+    "qid": "Q11670668",
+    "status": "unsure",
+    "why": "Prep year 1953 cannot be Ando's building, and the lead gives no year. The photos are fine, so check the year."
+  },
+  {
+    "id": "okernhjemmet",
+    "qid": "Q12011794",
+    "status": "skip",
+    "why": "Lead is empty."
+  },
+  {
+    "id": "ogasawara-museum",
+    "qid": "Q123418594",
+    "status": "photo",
+    "why": "SANAA museum; the lead gives the reasons. Lead says built 1995 to 1999, so 1999 is used as the year.",
+    "name": "Ogasawara Museum",
+    "by": "Kazuyo Sejima, Ryue Nishizawa, SANAA",
+    "city": "Iida",
+    "cc": "JP",
+    "year": 1999,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+      "Pilotis",
+      "Landscape",
+      "Free plan"
+    ],
+    "features": "SANAA's one-storey museum curves with the terrain, raised on six square pilotis.",
+    "commons_category": "Category:Ogasawara Museum",
+    "coords": [
+      35.4464,
+      137.7949
+    ],
+    "photos": [
+      {
+        "file": "File:Ogasawara klan museum.jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "maria-konigin-des-friedens",
+    "qid": "Q12362561",
+    "status": "skip",
+    "why": "Lead is empty."
+  },
+  {
+    "id": "renmin-building",
+    "qid": "Q15928305",
+    "status": "photo",
+    "why": "Tange from prep; the lead names no architect and gives no year. Civic building with daylight photos.",
+    "name": "Renmin Building",
+    "by": "Kenzō Tange",
+    "city": "Shanghai",
+    "cc": "CN",
+    "year": null,
+    "type": "Civic",
+    "movement": "Postmodernism",
+    "concepts": [
+      "Monumentality",
+      "Public space",
+      "Axis"
+    ],
+    "features": "Shanghai's municipal government building on People's Square, beside the city's museums and opera house.",
+    "commons_category": "Category:Shanghai City Hall",
+    "coords": [
+      31.2323,
+      121.469
+    ],
+    "photos": [
+      {
+        "file": "File:Shanghai, China, December 2015 - 139.JPG",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Shanghai Government Building.jpg",
+        "license": "CC BY-SA 2.5",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "biblioteca-nacional-de-brasilia",
+    "qid": "Q16498203",
+    "status": "photo",
+    "why": "Niemeyer built work; the lead describes the open space and water mirrors. No year in lead or prep.",
+    "name": "Biblioteca Nacional de Brasília",
+    "by": "Oscar Niemeyer",
+    "city": "Brasília",
+    "cc": "BR",
+    "year": null,
+    "type": "Library",
+    "movement": "Modernism",
+    "concepts": [
+      "Sculptural form",
+      "Public space",
+      "Water"
+    ],
+    "features": "Niemeyer's national library on the Esplanade of Ministries, with an open outdoor space of seats and water mirrors.",
+    "commons_category": "Category:Biblioteca Nacional de Brasília",
+    "coords": [
+      -15.79674,
+      -47.88017
+    ],
+    "photos": [
+      {
+        "file": "File:Brasília - Biblioteca Nacional (1).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      },
+      {
+        "file": "File:Brasília - Biblioteca Nacional (12).jpg",
+        "license": "CC BY-SA 4.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "paard-van-troje",
+    "qid": "Q1704368",
+    "status": "skip",
+    "why": "Music venue; the lead gives no architecture, and the architect does not fit the 1972 founding."
+  },
+  {
+    "id": "dentsu-tsukiji-building",
+    "qid": "Q22119511",
+    "status": "skip",
+    "why": "Demolished in 2021 (lead)."
+  },
+  {
+    "id": "ijplein",
+    "qid": "Q2783489",
+    "status": "skip",
+    "why": "A name for areas of Amsterdam-Noord, not a building."
+  },
+  {
+    "id": "city-hall-of-montpellier",
+    "qid": "Q3146162",
+    "status": "unsure",
+    "why": "Lead calls it a historic building, but the photos and Nouvel's name point to a modern glass building; no year in prep or lead."
+  },
+  {
+    "id": "sankt-ursula-kalscheuren",
+    "qid": "Q59618",
+    "status": "photo",
+    "why": "Böhm, a well-known architect; the lead gives the listing and the 2006 sale. No year in lead or prep.",
+    "name": "Sankt Ursula (Kalscheuren)",
+    "by": "Gottfried Böhm",
+    "city": "Hürth",
+    "cc": "DE",
+    "year": null,
+    "type": "Religious",
+    "movement": "Late modernism",
+    "concepts": [
+      "Sculptural form",
+      "Exposed concrete",
+      "Light & shadow"
+    ],
+    "features": "A listed former parish church by Gottfried Böhm, deconsecrated in 2006 and now a gallery space.",
+    "commons_category": "Category:St. Ursula (Kalscheuren)",
+    "coords": [
+      50.8773,
+      6.90657
+    ],
+    "photos": [
+      {
+        "file": "File:St. Ursula, Hürth-Kalscheuren 2009-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      },
+      {
+        "file": "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg",
+        "license": "CC BY-SA 3.0",
+        "seen": true
+      }
+    ]
+  },
+  {
+    "id": "chantier-royal-hamilius",
+    "qid": "Q62602938",
+    "status": "unsure",
+    "why": "Foster's Luxembourg centre (lead gives 2019); every photo shows the site under construction, not the finished building.",
+    "note": "no main photo"
+  }
+]
