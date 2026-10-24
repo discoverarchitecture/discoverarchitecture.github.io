@@ -1,0 +1,819 @@
+[
+ {
+  "qid": "Q20110871",
+  "label": "Senate Palace (Tehran)",
+  "architect": [
+   "Heydar Ghiai",
+   "Mohsen Foroughi"
+  ],
+  "year": 1958,
+  "country": [
+   "Iran"
+  ],
+  "located": [
+   "Tehran Province"
+  ],
+  "coords": [
+   [
+    35.68806,
+    51.39972
+   ]
+  ],
+  "commons": [
+   "Senate Palace (Tehran)"
+  ],
+  "instance": [
+   "government building",
+   "cultural property"
+  ],
+  "photos": [
+   {
+    "file": "File:Majlese sena 1.jpg",
+    "rating": "",
+    "w": 5328,
+    "h": 2997,
+    "license": "CC BY-SA 4.0",
+    "author": "Azadi68",
+    "desc": "This is a photo of a monument in Iran identified by the ID",
+    "cats": "Category:Motorcycles in Iran Category:Senate Palace (Tehran) Category:September 2015 in Tehran",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Majlese_sena_1.jpg/1280px-Majlese_sena_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Iranian senate building.jpg",
+    "rating": "",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY-SA 3.0",
+    "author": "Telluride",
+    "desc": "Iranian senate building in 2019",
+    "cats": "Category:Senate Palace (Tehran)",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Iranian_senate_building.jpg/1280px-Iranian_senate_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Senate Palace of Iran in Tehran.jpg",
+    "rating": "",
+    "w": 2444,
+    "h": 1426,
+    "license": "Public domain",
+    "author": "Unknown author",
+    "desc": "The Senate Palace of Iran (in Persian: Kakh-e Majles-e Sena) or The Senate House of Iran was the upper house legislative chamber in Iran from 1949 to 1979. The ",
+    "cats": "Category:Automobiles in Tehran Category:Cycling in Tehran Category:Imam Khomeini Street (Tehran) Category:Pedestrians in Tehran Category:Senate Palace (Tehran) Category:Tehran in the 1960s Category:Tr",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Senate_Palace_of_Iran_in_Tehran.jpg/1280px-Senate_Palace_of_Iran_in_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:اص‍ول دوازده‌گ‍ان‍ه ان‍ق‍لاب ش‍اه و م‍ل‍ت - وزارت اطلاعات و جهانگردی (پشت جلد).jpg",
+    "rating": "",
+    "w": 1329,
+    "h": 1958,
+    "license": "Public domain",
+    "author": "وزارت اطلاعات و جهانگردی",
+    "desc": "",
+    "cats": "Category:Book covers from Iran Category:Literacy Corps Category:Senate Palace (Tehran) Category:White Revolution",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF%29.jpg/1280px-%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:اص‍ول دوازده‌گ‍ان‍ه ان‍ق‍لاب ش‍اه و م‍ل‍ت - وزارت اطلاعات و جهانگردی (روی جلد).jpg",
+    "rating": "",
+    "w": 1324,
+    "h": 1948,
+    "license": "Public domain",
+    "author": "وزارت اطلاعات و جهانگردی",
+    "desc": "",
+    "cats": "Category:Book covers from Iran Category:Literacy Corps Category:Senate Palace (Tehran) Category:White Revolution",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D8%B1%D9%88%DB%8C_%D8%AC%D9%84%D8%AF%29.jpg/1280px-%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D8%B1%D9%88%DB%8C_%D8%AC%D9%84%D8%AF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:CENTO in Senate Tehran.jpg",
+    "rating": "",
+    "w": 1464,
+    "h": 930,
+    "license": "Public domain",
+    "author": "Unknown author",
+    "desc": "نشست سنتو در تهران، کاخ سنا",
+    "cats": "Category:Senate Palace (Tehran)",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/CENTO_in_Senate_Tehran.jpg/1280px-CENTO_in_Senate_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:100 Rials Iranian Bank Note back.jpg",
+    "rating": "",
+    "w": 1443,
+    "h": 747,
+    "license": "Public domain",
+    "author": "Bank Markazi Jomhouri Eslami Iran",
+    "desc": "100 Rials Iranian Bank Note",
+    "cats": "Category:10 Toman, 100 Rial, banknotes Category:Banknotes of Iran, Ruhollah Khomeini era Category:Senate Palace (Tehran)",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/100_Rials_Iranian_Bank_Note_back.jpg/1280px-100_Rials_Iranian_Bank_Note_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q107191191",
+  "label": "Igreja Matriz",
+  "architect": [
+   "Gottfried Böhm",
+   "Dominikus Böhm"
+  ],
+  "year": 1954,
+  "country": [
+   "Brazil"
+  ],
+  "located": [
+   "Presidente Getúlio"
+  ],
+  "coords": [
+   [
+    -27.05141,
+    -49.6234
+   ]
+  ],
+  "commons": [
+   "Igreja Matriz de Presidente Getúlio"
+  ],
+  "instance": [
+   "church building"
+  ],
+  "photos": [
+   {
+    "file": "File:Igreja em Presidente Getúlio - SC.jpg",
+    "rating": "",
+    "w": 900,
+    "h": 1200,
+    "license": "CC BY-SA 2.0",
+    "author": "José Maciel",
+    "desc": "Church in Presidente Getúlio, a small town in country side of Santa Catarina, Brasil.",
+    "cats": "Category:Igreja Matriz de Presidente Getúlio Category:Presidente Getúlio",
+    "junk": false,
+    "main": true,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/de/Igreja_em_Presidente_Get%C3%BAlio_-_SC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   },
+   {
+    "file": "File:Presidente Getulio SC Igreja Wood columns.jpg",
+    "rating": "",
+    "w": 1500,
+    "h": 2000,
+    "license": "CC BY-SA 2.0",
+    "author": "José Maciel",
+    "desc": "Church in Presidente Getúlio, a small town in country side of Santa Catarina, Brasil.",
+    "cats": "Category:Igreja Matriz de Presidente Getúlio Category:Presidente Getúlio",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Presidente_Getulio_SC_Igreja_Wood_columns.jpg/1280px-Presidente_Getulio_SC_Igreja_Wood_columns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q113000863",
+  "label": "House of Victoria Ocampo",
+  "architect": [
+   "Alejandro Bustillo"
+  ],
+  "year": 1928,
+  "country": [
+   "Argentina"
+  ],
+  "located": [
+   "Buenos Aires"
+  ],
+  "coords": [
+   [
+    -34.581,
+    -58.4018
+   ]
+  ],
+  "commons": [
+   "Casa de Victoria Ocampo (Buenos Aires)"
+  ],
+  "instance": [
+   "single-family detached home",
+   "cultural heritage",
+   "historic house"
+  ],
+  "photos": [
+   {
+    "file": "File:La casa de Victoria Ocampo en Palermo Chico.jpg",
+    "rating": "",
+    "w": 6016,
+    "h": 4000,
+    "license": "CC BY-SA 4.0",
+    "author": "Matías Profeta",
+    "desc": "Victoria Ocampo le encarga al Arquitecto Alejandro Bustillo su casa Racionalista de palermo Chico a mediados de la década del 1930, siendo un escándalo para los",
+    "cats": "Category:Casa de Victoria Ocampo (Buenos Aires) Category:Concurso Nuestros monumentos-nuestras miradas",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/La_casa_de_Victoria_Ocampo_en_Palermo_Chico.jpg/1280px-La_casa_de_Victoria_Ocampo_en_Palermo_Chico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Casa de Victoria Ocampo, Palermo 01.jpg",
+    "rating": "",
+    "w": 4640,
+    "h": 3472,
+    "license": "CC BY 4.0",
+    "author": "Roberto Fiadone",
+    "desc": "Casa Victoria Ocampo (sede cultural del Fondo Nacional de las Artes). Rufino de Elizalde 2831, Ciudad de Buenos Aires, Argentina",
+    "cats": "Category:Casa de Victoria Ocampo (Buenos Aires)",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Casa_de_Victoria_Ocampo%2C_Palermo_01.jpg/1280px-Casa_de_Victoria_Ocampo%2C_Palermo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Casa de Victoria Ocampo, Palermo 02.jpg",
+    "rating": "",
+    "w": 4640,
+    "h": 3472,
+    "license": "CC BY 4.0",
+    "author": "Roberto Fiadone",
+    "desc": "Casa Victoria Ocampo (sede cultural del Fondo Nacional de las Artes). Rufino de Elizalde 2831, Ciudad de Buenos Aires, Argentina",
+    "cats": "Category:Casa de Victoria Ocampo (Buenos Aires)",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Casa_de_Victoria_Ocampo%2C_Palermo_02.jpg/1280px-Casa_de_Victoria_Ocampo%2C_Palermo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Casa de Victoria Ocampo, Palermo 03.jpg",
+    "rating": "",
+    "w": 4350,
+    "h": 3472,
+    "license": "CC BY 4.0",
+    "author": "Roberto Fiadone",
+    "desc": "Casa Victoria Ocampo (sede cultural del Fondo Nacional de las Artes). Rufino de Elizalde 2831, Ciudad de Buenos Aires, Argentina",
+    "cats": "Category:Casa de Victoria Ocampo (Buenos Aires)",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Casa_de_Victoria_Ocampo%2C_Palermo_03.jpg/1280px-Casa_de_Victoria_Ocampo%2C_Palermo_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:La escalera de Victoria.jpg",
+    "rating": "",
+    "w": 3024,
+    "h": 4032,
+    "license": "CC BY-SA 4.0",
+    "author": "@Micatino",
+    "desc": "La casa de Victoria Ocampo en Palermo",
+    "cats": "Category:Buildings in Buenos Aires Category:Casa de Victoria Ocampo (Buenos Aires) Category:Victoria Ocampo",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/La_escalera_de_Victoria.jpg/1280px-La_escalera_de_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q118015018",
+  "label": "Ab-o-Atash Amphitheatre",
+  "architect": [
+   "Leila Araghian"
+  ],
+  "year": 2009,
+  "country": [
+   "Iran"
+  ],
+  "located": [
+   "District 3"
+  ],
+  "coords": [
+   [
+    35.75653,
+    51.41758
+   ]
+  ],
+  "commons": [
+   "Ab-o-Atash Amphitheatre"
+  ],
+  "instance": [
+   "amphitheatre",
+   "tensile structure"
+  ],
+  "photos": [
+   {
+    "file": "File:(86-113-1)AbOAtash (1).jpg",
+    "rating": "",
+    "w": 4752,
+    "h": 3168,
+    "license": "CC BY-SA 4.0",
+    "author": "Diba Tensile Architecture",
+    "desc": "آمفی تئاتر آب و آتش تهران",
+    "cats": "Category:Ab-o-Atash Amphitheatre Category:Ab-o-Atash Park Category:Clouds in Tehran Category:Fountains in Tehran Category:November 2009 in Tehran Category:Office buildings in Tehran Category:People in",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/%2886-113-1%29AbOAtash_%281%29.jpg/1280px-%2886-113-1%29AbOAtash_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:پارک آب و آتش، تهران Water and Fire Park, Tehran - panoramio.jpg",
+    "rating": "",
+    "w": 2203,
+    "h": 1652,
+    "license": "CC BY 3.0",
+    "author": "Mahdi Kalhor",
+    "desc": "پارک آب و آتش، تهران Water and Fire Park, Tehran",
+    "cats": "Category:Ab-o-Atash Amphitheatre Category:Ab-o-Atash Park Category:February 2010 in Tehran Category:Fountains in Tehran Category:Night in Tehran Category:People in Tehran",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%D9%BE%D8%A7%D8%B1%DA%A9_%D8%A2%D8%A8_%D9%88_%D8%A2%D8%AA%D8%B4%D8%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86_Water_and_Fire_Park%2C_Tehran_-_panoramio.jpg/1280px-%D9%BE%D8%A7%D8%B1%DA%A9_%D8%A2%D8%A8_%D9%88_%D8%A2%D8%AA%D8%B4%D8%8C_%D8%AA%D9%87%D8%B1%D8%A7%D9%86_Water_and_Fire_Park%2C_Tehran_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:IMG 1506-aboatash-diba.jpg",
+    "rating": "",
+    "w": 1500,
+    "h": 1000,
+    "license": "CC BY-SA 4.0",
+    "author": "Diba Tensile Architecture",
+    "desc": "سازه غشایی (سازه چادری) بوستان آب و آتش تهران",
+    "cats": "Category:Ab-o-Atash Amphitheatre Category:Clouds in Tehran Category:March 2018 in Tehran",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/IMG_1506-aboatash-diba.jpg/1280px-IMG_1506-aboatash-diba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:نمای پشتی آمفی تئاتر آب و آتش تهران.jpg",
+    "rating": "",
+    "w": 1500,
+    "h": 1000,
+    "license": "CC BY-SA 4.0",
+    "author": "Diba Tensile Architecture",
+    "desc": "آمفی تئاتر پارک آب و آتش تهران- منبع: سازه های پارچه ای دیبا",
+    "cats": "Category:Ab-o-Atash Amphitheatre Category:Ab-o-Atash Park Category:March 2018 in Tehran Category:Modarres Expressway Category:Taleghani Forest Park",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/%D9%86%D9%85%D8%A7%DB%8C_%D9%BE%D8%B4%D8%AA%DB%8C_%D8%A2%D9%85%D9%81%DB%8C_%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1_%D8%A2%D8%A8_%D9%88_%D8%A2%D8%AA%D8%B4_%D8%AA%D9%87%D8%B1%D8%A7%D9%86.jpg/1280px-%D9%86%D9%85%D8%A7%DB%8C_%D9%BE%D8%B4%D8%AA%DB%8C_%D8%A2%D9%85%D9%81%DB%8C_%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1_%D8%A2%D8%A8_%D9%88_%D8%A2%D8%AA%D8%B4_%D8%AA%D9%87%D8%B1%D8%A7%D9%86.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Abo-Atash-Amphitheatre-Tehran-(12).jpg",
+    "rating": "",
+    "w": 1500,
+    "h": 952,
+    "license": "CC BY-SA 4.0",
+    "author": "Diba Tensile Architecture",
+    "desc": "آمفی تئاتر بوستان آب و آتش تهران - منبع:",
+    "cats": "Category:Ab-o-Atash Amphitheatre Category:Ab-o-Atash Park Category:Fountains in Tehran Category:March 2018 in Tehran Category:Night in Tehran Category:People in Tehran",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Abo-Atash-Amphitheatre-Tehran-%2812%29.jpg/1280px-Abo-Atash-Amphitheatre-Tehran-%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q135103580",
+  "label": "The Glass Building",
+  "architect": [
+   "Abdol Aziz Farmanfarmaian"
+  ],
+  "year": 1967,
+  "country": [
+   "Iran"
+  ],
+  "located": [
+   "Tehran",
+   "District 3"
+  ],
+  "coords": [
+   [
+    35.78645,
+    51.40907
+   ]
+  ],
+  "commons": [
+   "The Glass Building (IRIB)"
+  ],
+  "instance": [
+   "building"
+  ],
+  "photos": [
+   {
+    "file": "File:IRIB Building.jpg",
+    "rating": "",
+    "w": 4000,
+    "h": 1851,
+    "license": "CC BY 4.0",
+    "author": "khamenei.ir",
+    "desc": "ساختمان ضبط صدا و سیما",
+    "cats": "Category:The Glass Building (IRIB)",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/IRIB_Building.jpg/1280px-IRIB_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q108905893",
+  "label": "Blessed Augustin Kažotić Church, Zagreb",
+  "architect": [
+   "Boris Magaš"
+  ],
+  "year": 2004,
+  "country": [
+   "Croatia"
+  ],
+  "located": [
+   "Zagreb"
+  ],
+  "coords": [
+   [
+    45.80447,
+    16.02108
+   ]
+  ],
+  "commons": [
+   "Blessed Augustin Kažotić Church, Zagreb"
+  ],
+  "instance": [
+   "church building"
+  ],
+  "photos": [
+   {
+    "file": "File:Katholische Kirche Blazeni Augustin Kazotic Zagreb.jpg",
+    "rating": "",
+    "w": 1781,
+    "h": 2377,
+    "license": "CC BY-SA 4.0",
+    "author": "Spock1801",
+    "desc": "catholic Church Augustin Kazotic Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Katholische_Kirche_Blazeni_Augustin_Kazotic_Zagreb.jpg/1280px-Katholische_Kirche_Blazeni_Augustin_Kazotic_Zagreb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 01.jpg",
+    "rating": "",
+    "w": 4284,
+    "h": 5712,
+    "license": "CC BY 4.0",
+    "author": "Baltabar",
+    "desc": "Blessed Augustin Kažotić Church, Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_01.jpg/1280px-%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 04.jpg",
+    "rating": "",
+    "w": 4284,
+    "h": 5712,
+    "license": "CC BY 4.0",
+    "author": "Baltabar",
+    "desc": "Blessed Augustin Kažotić Church, Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_04.jpg/1280px-%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 02.jpg",
+    "rating": "",
+    "w": 3024,
+    "h": 4032,
+    "license": "CC BY 4.0",
+    "author": "Baltabar",
+    "desc": "Blessed Augustin Kažotić Church, Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_02.jpg/1280px-%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 03.jpg",
+    "rating": "",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY 4.0",
+    "author": "Baltabar",
+    "desc": "Blessed Augustin Kažotić Church, Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_03.jpg/1280px-%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 05.jpg",
+    "rating": "",
+    "w": 3024,
+    "h": 4032,
+    "license": "CC BY 4.0",
+    "author": "Baltabar",
+    "desc": "Blessed Augustin Kažotić Church, Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_05.jpg/1280px-%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Župna crkva bl. Augustina Kažotića u Zagrebu 06.jpg",
+    "rating": "",
+    "w": 4032,
+    "h": 3024,
+    "license": "CC BY 4.0",
+    "author": "Baltabar",
+    "desc": "Blessed Augustin Kažotić Church, Zagreb",
+    "cats": "Category:Blessed Augustin Kažotić Church, Zagreb",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_06.jpg/1280px-%C5%BDupna_crkva_bl._Augustina_Ka%C5%BEoti%C4%87a_u_Zagrebu_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q11995811",
+  "label": "Plassen Cultural Centre",
+  "architect": [
+   "3XN"
+  ],
+  "year": 2012,
+  "country": [
+   "Norway"
+  ],
+  "located": [
+   "Molde Municipality"
+  ],
+  "coords": [
+   [
+    62.73624,
+    7.15572
+   ]
+  ],
+  "commons": [
+   "Plassen kulturhus"
+  ],
+  "instance": [
+   "cultural center"
+  ],
+  "photos": [
+   {
+    "file": "File:Molde bibliotek 15.08.2013 12-37-03.JPG",
+    "rating": "",
+    "w": 5184,
+    "h": 3456,
+    "license": "CC BY-SA 3.0",
+    "author": "Vidar Iversen",
+    "desc": "Molde bibliotek holder til i kulturbygget Plassen midt i Molde sentrum.",
+    "cats": "Category:Plassen kulturhus",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Molde_bibliotek_15.08.2013_12-37-03.JPG/1280px-Molde_bibliotek_15.08.2013_12-37-03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Molde bibliotek.jpg",
+    "rating": "",
+    "w": 3072,
+    "h": 2304,
+    "license": "CC BY-SA 3.0",
+    "author": "Alisiamyr",
+    "desc": "Molde bibliotek, 1.etasje - hovedskranken",
+    "cats": "Category:Interiors of libraries in Norway Category:Plassen kulturhus",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Molde_bibliotek.jpg/1280px-Molde_bibliotek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Molde bibliotek Årets bok til alle-bibliotek 2015.jpg",
+    "rating": "",
+    "w": 2029,
+    "h": 2570,
+    "license": "CC BY-SA 4.0",
+    "author": "Hilde Merete Gjessing",
+    "desc": "30. november 2015 ble Molde bibliotek kåret til årets «Bok til alle» - bibliotek 2015 av «Leser søker bok».",
+    "cats": "Category:Plassen kulturhus",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg/1280px-Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Aviskrok.jpg",
+    "rating": "",
+    "w": 1800,
+    "h": 1350,
+    "license": "CC BY-SA 3.0",
+    "author": "Alisiamyr",
+    "desc": "Molde bibliotek, 1.etasje - aviskrok",
+    "cats": "Category:Interiors of libraries in Norway Category:Plassen kulturhus",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Aviskrok.jpg/1280px-Aviskrok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": ""
+ },
+ {
+  "qid": "Q104313867",
+  "label": "Tikkurila Church",
+  "architect": [
+   "Anssi Lassila"
+  ],
+  "year": 2021,
+  "country": [
+   "Finland"
+  ],
+  "located": [
+   "Vantaa"
+  ],
+  "coords": [
+   [
+    60.29302,
+    25.04024
+   ]
+  ],
+  "commons": [
+   "Tikkurila Church (2021)"
+  ],
+  "instance": [
+   "church building"
+  ],
+  "photos": [
+   {
+    "file": "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 3333,
+    "license": "CC BY 4.0",
+    "author": "Stella Karlsson",
+    "desc": "Tikkurilan uusi kirkko. Asematie , Tikkurila , Vantaa",
+    "cats": "Category:Churches in Vantaa photographed in 2021 Category:February 2021 in Vantaa Category:Photographs by Stella Karlsson Category:Tikkurila Church (2021)",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021_-_01.jpg/1280px-Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 03.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 3335,
+    "license": "CC BY 4.0",
+    "author": "Sanni Penttinen",
+    "desc": "Näkymä Asematieltä koillisen suuntaan. Asematie muuttui vuoden 2023 lopussa kävelykaduksi kaupungintalon ja Tikkurilan kirkon välillä. Se jatkaa Tikkuraitilta a",
+    "cats": "Category:Asematie 3 (Vantaa) Category:E26 (road sign, Finland) Category:March 2024 in Vantaa Category:Pedestrian zones in Finland Category:Photographs by Sanni Penttinen Category:Road signs in Vantaa ",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_03.jpg/1280px-Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 02.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 3334,
+    "license": "CC BY 4.0",
+    "author": "Sanni Penttinen",
+    "desc": "Näkymä Asematielle kaakon suuntaan. Asematie muuttui vuoden 2023 lopussa kävelykaduksi kaupungintalon ja Tikkurilan kirkon välillä. Se jatkaa Tikkuraitilta alka",
+    "cats": "Category:Asematie 3 (Vantaa) Category:Dixi Category:March 2024 in Vantaa Category:Outdoor benches in Finland Category:Pedestrian zones in Finland Category:Photographs by Sanni Penttinen Category:Redev",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_02.jpg/1280px-Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 3333,
+    "license": "CC BY 4.0",
+    "author": "Stella Karlsson",
+    "desc": "Tikkurilan uusi kirkko. Asematie , Tikkurila , Vantaa",
+    "cats": "Category:Church doors in Finland Category:Churches in Vantaa photographed in 2021 Category:Doors in Vantaa Category:February 2021 in Vantaa Category:Photographs by Stella Karlsson Category:Tikkurila C",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg/1280px-Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Tikkurila Church in Vantaa, Finland, 2021 - 02.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 3333,
+    "license": "CC BY 4.0",
+    "author": "Stella Karlsson",
+    "desc": "Tikkurilan uusi kirkko, kirkkosali",
+    "cats": "Category:Churches in Vantaa photographed in 2021 Category:February 2021 in Vantaa Category:Green antependia in Finland Category:Interiors of Lutheran churches in Vantaa Category:Lutheran altars in Van",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021_-_02.jpg/1280px-Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Reflected view at Tikkurilantori in Tikkurila, Vantaa, Finland, 2021 May.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 3260,
+    "license": "CC BY 3.0",
+    "author": "Ximonic (Simo Räsänen)",
+    "desc": "Reflected view at Tikkurilantori in Tikkurila, Vantaa, Finland in 2021 May.",
+    "cats": "Category:Architecture of Vantaa Category:Asematie (Vantaa) Category:Churches in Vantaa photographed in 2021 Category:May 2021 in Vantaa Category:Ornamental pools in Finland Category:Reflecting pools C",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Reflected_view_at_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg/1280px-Reflected_view_at_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   },
+   {
+    "file": "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 01.jpg",
+    "rating": "",
+    "w": 5000,
+    "h": 2979,
+    "license": "CC BY 4.0",
+    "author": "Sanni Penttinen",
+    "desc": "Oikealla puolella risteyksen kulmassa näkyy Tikkurilan terveysaseman kiinteistö. Taustalla kohoaa Tikkurilan kirkko ja sen takaa liikekeskus Dixi. Vasemmalla pu",
+    "cats": "Category:Asematie 3 (Vantaa) Category:Dixi Category:March 2024 in Vantaa Category:Photographs by Sanni Penttinen Category:Roundabouts in Vantaa Category:Tikkurila Church (2021) Category:Vantaa City Ha",
+    "junk": false,
+    "main": false,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_01.jpg/1280px-Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": "L'église de Tikkurila (en finnois : Tikkurilan kirkko) est située dans le quartier Tikkurila de Vantaa en Finlande."
+ },
+ {
+  "qid": "Q113883602",
+  "label": "Vennesla Church",
+  "architect": [
+   "LINK Arkitektur"
+  ],
+  "year": 2022,
+  "country": [
+   "Norway"
+  ],
+  "located": [
+   "Vennesla"
+  ],
+  "coords": [
+   [
+    58.27626,
+    7.97037
+   ]
+  ],
+  "commons": [
+   "Vennesla kirke"
+  ],
+  "instance": [
+   "church building"
+  ],
+  "photos": [
+   {
+    "file": "File:Vennesla Kirke.jpg",
+    "rating": "",
+    "w": 5161,
+    "h": 3441,
+    "license": "CC BY-SA 4.0",
+    "author": "Jon Oestby",
+    "desc": "Vennesla Kirke. Foto Jon Østby",
+    "cats": "Category:Vennesla kirke",
+    "junk": false,
+    "main": true,
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vennesla_Kirke.jpg/1280px-Vennesla_Kirke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+   }
+  ],
+  "lead": "Vennesla Church (Norwegian: Vennesla kirke) is a parish church of the Church of Norway in Vennesla Municipality in Agder county, Norway. It is located in the village of Vennesla. It is the church for the Vennesla parish which is part of the Otredal prosti (deanery) in the Diocese of Agder og Telemark. The church is also the seat of the provost of the Otredal prosti. The brown brick and concrete church was built in a long church design in 2022 using plans drawn up by the architectural firm: LINK Architecture. The church seats about 600 people (nearly three times the capacity of the Old Vennesla Church)."
+ },
+ {
+  "qid": "Q16109901",
+  "label": "Church of Our Lady of the Great Croatian Baptismal Covenant in Knin",
+  "architect": [
+   "Jerko Rosin"
+  ],
+  "year": 2015,
+  "country": [
+   "Croatia"
+  ],
+  "located": [
+   "Knin"
+  ],
+  "coords": [
+   [
+    44.04157,
+    16.20068
+   ]
+  ],
+  "commons": [
+   "Our Lady of the Great Croatian Baptismal Vow Church (Knin)"
+  ],
+  "instance": [
+   "church building"
+  ],
+  "photos": [
+   {
+    "file": "File:Crkva Knin proslava Oluje 2022.jpg",
+    "rating": "",
+    "w": 1280,
+    "h": 960,
+    "license": "CC BY-SA 4.0",
+    "author": "Mudroslov",
+    "desc": "Lateral view on the Church of Our Lady of the Great Croatian Baptismal Covenant in Knin, Croatia, filmed on August 5th, 2022.",
+    "cats": "Category:Our Lady of the Great Croatian Baptismal Vow Church (Knin)",
+    "junk": false,
+    "main": true,
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Crkva_Knin_proslava_Oluje_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+   }
+  ],
+  "lead": ""
+ }
+]
