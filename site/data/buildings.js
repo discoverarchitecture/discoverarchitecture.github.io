@@ -356335,18 +356335,6 @@ window.BUILDINGS = [
     "file": "File:090627 Chalmers kårhus balkong.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Samh%C3%A4llsbyggnad_Chalmers%2C_S4024355.jpg/1280px-Samh%C3%A4llsbyggnad_Chalmers%2C_S4024355.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chalmers-karhus/thumbs/2.webp",
-    "w": 1280,
-    "h": 821,
-    "kind": "Exterior",
-    "caption": "Exterior · Samhällsbyggnad Chalmers, S4024355",
-    "credit": "Andersreilund",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Samh%C3%A4llsbyggnad_Chalmers,_S4024355.jpg",
-    "file": "File:Samhällsbyggnad Chalmers, S4024355.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/090627_Chalmers_k%C3%A5rhus.jpg/1280px-090627_Chalmers_k%C3%A5rhus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/chalmers-karhus/thumbs/3.webp",
     "w": 1280,
@@ -356411,18 +356399,6 @@ window.BUILDINGS = [
     "file": "File:Hyogo Performing Arts Center02s3s3200.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%E3%80%8C%E8%9D%B6%E3%80%85%E5%A4%AB%E4%BA%BA%E3%80%8D.jpg/1280px-%E3%80%8C%E8%9D%B6%E3%80%85%E5%A4%AB%E4%BA%BA%E3%80%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hyogo-performing-arts-center/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Dolce-kojie",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:%E3%80%8C%E8%9D%B6%E3%80%85%E5%A4%AB%E4%BA%BA%E3%80%8D.jpg",
-    "file": "File:「蝶々夫人」.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Hyogo_Performing_Arts_Center_Grand_Hall.jpg/1280px-Hyogo_Performing_Arts_Center_Grand_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/hyogo-performing-arts-center/thumbs/3.webp",
     "w": 1280,
@@ -356433,18 +356409,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Hyogo_Performing_Arts_Center_Grand_Hall.jpg",
     "file": "File:Hyogo Performing Arts Center Grand Hall.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hyogo_Performing_Arts_Center_night.jpg/1280px-Hyogo_Performing_Arts_Center_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/hyogo-performing-arts-center/thumbs/4.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Context",
-    "caption": "Context · Hyogo Performing Arts Center, at night",
-    "credit": "User:Poprishchin",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Hyogo_Performing_Arts_Center_night.jpg",
-    "file": "File:Hyogo Performing Arts Center night.jpg"
    }
   ],
   "has": [],
@@ -356509,18 +356473,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Memorial_museum_of_Takami_Senseki.jpg",
     "file": "File:Memorial museum of Takami Senseki.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Koga_History_Museum_N01.JPG/1280px-Koga_History_Museum_N01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/koga-history-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context · Street Organ (Koga History Museum), Koga , Ibaraki , Japan",
-    "credit": "Hide-sp",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Koga_History_Museum_N01.JPG",
-    "file": "File:Koga History Museum N01.JPG"
    }
   ],
   "has": [],
@@ -356767,18 +356719,6 @@ window.BUILDINGS = [
     "file": "File:Musée de Bibracte 02.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Mus%C3%A9e_de_Bibracte_01.jpg/1280px-Mus%C3%A9e_de_Bibracte_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/bibracte-museum/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Musée de Bibracte",
-    "credit": "FrDr",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_Bibracte_01.jpg",
-    "file": "File:Musée de Bibracte 01.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Musee_de_Bibracte_-_01.jpg/1280px-Musee_de_Bibracte_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/bibracte-museum/thumbs/2.webp",
     "w": 1280,
@@ -356857,18 +356797,6 @@ window.BUILDINGS = [
     "file": "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Alfredo_Kraus_auditorium_D81_5108_%2838889644124%29.jpg/1280px-Alfredo_Kraus_auditorium_D81_5108_%2838889644124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/auditorio-alfredo-kraus/thumbs/1.webp",
-    "w": 1280,
-    "h": 869,
-    "kind": "Interior",
-    "caption": "Interior · Auditorio Alfredo Kraus, Las Palmas, Gran Canaria, January 2018",
-    "credit": "Bengt Nyman  from Vaxholm, Sweden",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Alfredo_Kraus_auditorium_D81_5108_(38889644124).jpg",
-    "file": "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Auditorio_Alfredo_Kraus_01.jpg/1280px-Auditorio_Alfredo_Kraus_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/auditorio-alfredo-kraus/thumbs/2.webp",
     "w": 1280,
@@ -356903,6 +356831,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Auditorio_Alfredo_Kraus_-_Detalle_-_panoramio.jpg",
     "file": "File:Auditorio Alfredo Kraus - Detalle - panoramio.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Alfredo_Kraus_auditorium_D81_5108_%2838889644124%29.jpg/1280px-Alfredo_Kraus_auditorium_D81_5108_%2838889644124%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/auditorio-alfredo-kraus/thumbs/1.webp",
+    "w": 1280,
+    "h": 869,
+    "kind": "Interior",
+    "caption": "Interior · Auditorio Alfredo Kraus, Las Palmas, Gran Canaria, January 2018",
+    "credit": "Bengt Nyman  from Vaxholm, Sweden",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfredo_Kraus_auditorium_D81_5108_(38889644124).jpg",
+    "file": "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Alfredo_Kraus_auditorium_EM1B8988_%2825727372108%29.jpg/1280px-Alfredo_Kraus_auditorium_EM1B8988_%2825727372108%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -356979,18 +356919,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:160319_Okayama_Orient_Museum_Okayama_Japan04s3.jpg",
     "file": "File:160319 Okayama Orient Museum Okayama Japan04s3.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Assyrian_relief_-_Okayama_Orient_Museum_-_DSC01754.JPG/1280px-Assyrian_relief_-_Okayama_Orient_Museum_-_DSC01754.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/okayama-orient-museum/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Daderot",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Assyrian_relief_-_Okayama_Orient_Museum_-_DSC01754.JPG",
-    "file": "File:Assyrian relief - Okayama Orient Museum - DSC01754.JPG"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Interior_view_-_Okayama_Orient_Museum_-_DSC01747.JPG/1280px-Interior_view_-_Okayama_Orient_Museum_-_DSC01747.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -357219,18 +357147,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:C%C3%B3rdoba,_Estaci%C3%B3n_de_Autobuses.jpg",
     "file": "File:Córdoba, Estación de Autobuses.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_005.jpg/1280px-Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/estacion-de-autobuses-de-cordoba/thumbs/4.webp",
-    "w": 787,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Escultura en la estación de autobuses de Córdoba (Andalucía, España)",
-    "credit": "Américo Toledano",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3n_de_Autobuses_de_C%C3%B3rdoba_005.jpg",
-    "file": "File:Estación de Autobuses de Córdoba 005.jpg"
    }
   ],
   "has": [],
@@ -357361,30 +357277,6 @@ window.BUILDINGS = [
     "file": "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/The_Seine_River_on_a_cloudy_day._Paris.jpg/1280px-The_Seine_River_on_a_cloudy_day._Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/2.webp",
-    "w": 1280,
-    "h": 386,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Ввласенко",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Seine_River_on_a_cloudy_day._Paris.jpg",
-    "file": "File:The Seine River on a cloudy day. Paris.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/5_janvier_gilets_jaunes_5.jpg/1280px-5_janvier_gilets_jaunes_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · La passerelle Senghor gardée par les CRS pour empêcher les gilets jaunes de traverser la Seine",
-    "credit": "Thomon",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:5_janvier_gilets_jaunes_5.jpg",
-    "file": "File:5 janvier gilets jaunes 5.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Passerelle_%282372013465%29.jpg/1280px-Passerelle_%282372013465%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/4.webp",
     "w": 931,
@@ -357395,18 +357287,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Passerelle_(2372013465).jpg",
     "file": "File:Passerelle (2372013465).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Paris_Solferino_%28100438343%29.jpeg/1280px-Paris_Solferino_%28100438343%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/passerelle-leopold-sedar-senghor/thumbs/5.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Vincent Anderlucci",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Paris_Solferino_(100438343).jpeg",
-    "file": "File:Paris Solferino (100438343).jpeg"
    }
   ],
   "has": [],
@@ -357589,18 +357469,6 @@ window.BUILDINGS = [
     "file": "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Th%C3%A9%C3%A2tre_royal%2C_Plymouth._%28La_Cigale%2C_from_the_Lyric_Th%C3%A9%C3%A2tre_London%29_-_affiche_-_non_identifi%C3%A9_-_btv1b90033008.jpg/1280px-Th%C3%A9%C3%A2tre_royal%2C_Plymouth._%28La_Cigale%2C_from_the_Lyric_Th%C3%A9%C3%A2tre_London%29_-_affiche_-_non_identifi%C3%A9_-_btv1b90033008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/theatre-royal-plymouth/thumbs/1.webp",
-    "w": 964,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Sujet : Théâtre Affiche Langue : anglais Éditeur : [s.n.] [David Allen et Sons] ([Londres])",
-    "credit": "Bibliothèque nationale de France",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:Th%C3%A9%C3%A2tre_royal,_Plymouth._(La_Cigale,_from_the_Lyric_Th%C3%A9%C3%A2tre_London)_-_affiche_-_non_identifi%C3%A9_-_btv1b90033008.jpg",
-    "file": "File:Théâtre royal, Plymouth. (La Cigale, from the Lyric Théâtre London) - affiche - non identifié - btv1b90033008.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Royal_Parade_from_Derry%27s_Cross%2C_Plymouth%2C_Devon_-_November_2023.jpg/1280px-Royal_Parade_from_Derry%27s_Cross%2C_Plymouth%2C_Devon_-_November_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/theatre-royal-plymouth/thumbs/2.webp",
     "w": 1280,
@@ -357699,30 +357567,6 @@ window.BUILDINGS = [
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:20190202_Twenty-Six_Martyrs_Museum.jpg",
     "file": "File:20190202 Twenty-Six Martyrs Museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/InteriorStPhillipNagasaki.jpg/1280px-InteriorStPhillipNagasaki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/4.webp",
-    "w": 931,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Interior of St",
-    "credit": "BigCheddah",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:InteriorStPhillipNagasaki.jpg",
-    "file": "File:InteriorStPhillipNagasaki.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/St.PhillipChurchInterior.jpg/1280px-St.PhillipChurchInterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/twenty-six-martyrs-museum-and-monument/thumbs/5.webp",
-    "w": 1280,
-    "h": 852,
-    "kind": "Interior",
-    "caption": "Interior · The interior of St",
-    "credit": "BigCheddah",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:St.PhillipChurchInterior.jpg",
-    "file": "File:St.PhillipChurchInterior.jpg"
    }
   ],
   "has": [],

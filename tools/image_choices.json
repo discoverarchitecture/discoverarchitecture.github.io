@@ -34572,6 +34572,9 @@
    "File:Chalmers kårhus.jpg",
    "File:090627 Chalmers kårhus balkong.jpg",
    "File:Samhällsbyggnad Chalmers, S4024355.jpg"
+  ],
+  "skip": [
+   "File:Samhällsbyggnad Chalmers, S4024355.jpg"
   ]
  },
  "hyogo-performing-arts-center": {
@@ -34579,6 +34582,10 @@
   "add": [
    "File:Hyogo Performing Arts Center01n3200.jpg",
    "File:Hyogo Performing Arts Center02s3s3200.jpg"
+  ],
+  "skip": [
+   "File:「蝶々夫人」.jpg",
+   "File:Hyogo Performing Arts Center night.jpg"
   ]
  },
  "koga-history-museum": {
@@ -34586,6 +34593,9 @@
   "add": [
    "File:Koga History Museum 01.JPG",
    "File:Koga History Museum 02.JPG"
+  ],
+  "skip": [
+   "File:Koga History Museum N01.JPG"
   ]
  },
  "seto-inland-sea-folk-history-museum": {
@@ -34612,6 +34622,9 @@
   "category": "Category:Musée de la civilisation celtique de Bibracte",
   "add": [
    "File:Musée de Bibracte 02.jpg"
+  ],
+  "skip": [
+   "File:Musée de Bibracte 01.jpg"
   ]
  },
  "auditorio-alfredo-kraus": {
@@ -34626,6 +34639,9 @@
   "add": [
    "File:160319 Okayama Orient Museum Okayama Japan02n.jpg",
    "File:160319 Okayama Orient Museum Okayama Japan01n.jpg"
+  ],
+  "skip": [
+   "File:Assyrian relief - Okayama Orient Museum - DSC01754.JPG"
   ]
  },
  "central-termica-de-la-ciudad-universitaria-de-madrid": {
@@ -34646,6 +34662,9 @@
   "category": "Category:Bus station of Córdoba, Spain",
   "add": [
    "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg"
+  ],
+  "skip": [
+   "File:Estación de Autobuses de Córdoba 005.jpg"
   ]
  },
  "15-clerkenwell-close": {
@@ -34660,6 +34679,11 @@
   "add": [
    "File:Passerelle Solferino Paris FRA 002.jpg",
    "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg"
+  ],
+  "skip": [
+   "File:The Seine River on a cloudy day. Paris.jpg",
+   "File:5 janvier gilets jaunes 5.jpg",
+   "File:Paris Solferino (100438343).jpeg"
   ]
  },
  "art-museum-library-ota": {
@@ -34680,6 +34704,9 @@
   "category": "Category:Theatre Royal, Plymouth",
   "add": [
    "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg"
+  ],
+  "skip": [
+   "File:Théâtre royal, Plymouth. (La Cigale, from the Lyric Théâtre London) - affiche - non identifié - btv1b90033008.jpg"
   ]
  },
  "twenty-six-martyrs-museum-and-monument": {
@@ -34688,6 +34715,10 @@
    "File:26 Martyrs Shrine and Museum and St. Phillip Church.jpg",
    "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 00 200000.jpeg",
    "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 09 133000.jpeg"
+  ],
+  "skip": [
+   "File:InteriorStPhillipNagasaki.jpg",
+   "File:St.PhillipChurchInterior.jpg"
   ]
  },
  "rudolf-steinerseminariet": {
