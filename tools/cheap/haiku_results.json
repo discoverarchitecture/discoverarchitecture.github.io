@@ -1,3275 +1,3136 @@
 [
  {
-  "id": "israel-museum",
-  "qid": "Q46815",
-  "status": "unsure",
-  "why": "Mansfeld's Israel Museum; the lead covers the collection and institution, names no design reason. Owner to decide if Mansfeld counts as well known.",
-  "dup_flag": "wiki=israel-museum"
- },
- {
-  "id": "auroville",
-  "qid": "Q590361",
-  "status": "skip",
-  "why": "A township, not a single building; the lead names no building design."
- },
- {
-  "id": "frida-kahlo-museum",
-  "qid": "Q2663377",
-  "status": "skip",
-  "why": "A historic house museum; the lead covers the house's history and the artist, and does not support the architect credit."
- },
- {
-  "id": "anu-museum-of-the-jewish-people",
-  "qid": "Q796764",
-  "status": "unsure",
-  "why": "Wikidata credits Yashar (1978); the lead gives a 2021 reopening and expansion of Beit Hatfutsot and names no designer. Year and architect conflict; owner to check.",
-  "dup_flag": "near=(146, 'cymbalista-synagogue', 'Cymbalista Synagogue')"
- },
- {
-  "id": "history-museum-of-armenia",
-  "qid": "Q1138228",
-  "status": "skip",
-  "why": "The lead covers the collection and the museum's founding, not its design.",
-  "dup_flag": "near=(180, 'government-house-yerevan', 'Government House, Yerevan')"
- },
- {
-  "id": "istana-nurul-iman",
-  "qid": "Q1323932",
+  "id": "domkyrkoforum",
+  "qid": "Q10475814",
   "status": "photo",
-  "why": "Well-known architect's built palace; the lead is short, kept on the architect as the second test allows.",
-  "name": "Istana Nurul Iman",
-  "by": "Leandro Locsin",
-  "city": "Bandar Seri Begawan",
-  "cc": "BN",
+  "why": "Kasper Salin Prize 2012 (Swedish lead) names the architect; the lead gives no completion year, so year is null.",
+  "name": "Domkyrkoforum",
+  "by": "Carmen Izquierdo",
+  "city": "Lund",
+  "cc": "SE",
   "year": null,
-  "type": "Palace",
+  "type": "Culture & sport",
   "movement": "Contemporary",
   "concepts": [
-   "Landscape",
-   "Monumentality",
-   "Community"
+   "Public space",
+   "Community",
+   "Landscape"
   ],
-  "features": "The Sultan of Brunei's official residence, spread over leafy hills on the Brunei River.",
-  "commons_category": "Category:Istana Nurul Iman",
+  "features": "Visitors' centre for Lund Cathedral, designed by Carmen Izquierdo; won the Kasper Salin Prize in 2012.",
+  "commons_category": "Category:Domkyrkoforum",
   "coords": [
-   4.87203,
-   114.92076
+   55.70347,
+   13.19314
   ],
   "photos": [
    {
-    "file": "File:Istana-nurul-iman.jpg",
-    "license": "CC BY-SA 3.0 de",
-    "seen": true
-   },
-   {
-    "file": "File:Aerial photograph of Brunei on 15 January 2026 - 29.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "mysore-palace",
-  "qid": "Q456575",
-  "status": "photo",
-  "why": "Named Indo-Saracenic style and a 1912 completion, both in the lead.",
-  "name": "Mysore Palace",
-  "by": "Henry Irwin",
-  "city": "Mysore",
-  "cc": "IN",
-  "year": 1912,
-  "type": "Palace",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Detail",
-   "Sculptural form"
-  ],
-  "features": "One of India's largest palaces, a prominent Indo-Saracenic design mixing Indo-Islamic, Rajput, Hoysala and Gothic styles.",
-  "commons_category": "Category:Mysore Palace",
-  "coords": [
-   12.30389,
-   76.65444
-  ],
-  "photos": [
-   {
-    "file": "File:Mysore Palace full front view.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Ruthvik2.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "umaid-bhawan-palace",
-  "qid": "Q2307382",
-  "status": "skip",
-  "why": "The lead gives size and history (347 rooms, 1929 to 1943) but no design reason; Wikidata's 1972 year conflicts with the lead."
- },
- {
-  "id": "palace-of-the-argentine-national-congress",
-  "qid": "Q646142",
-  "status": "skip",
-  "why": "Seat of Congress; the lead gives history and a landmark listing, no design reason."
- },
- {
-  "id": "wat-benchamabophit",
-  "qid": "Q2165719",
-  "status": "photo",
-  "why": "The lead names a Bangkok ornate style that mixes Thai and European design; no completion year in the lead.",
-  "name": "Wat Benchamabophit",
-  "by": "Narisara Nuwattiwong",
-  "city": "Bangkok",
-  "cc": "TH",
-  "year": null,
-  "type": "Religious",
-  "movement": "Regionalism",
-  "concepts": [
-   "Detail",
-   "Sculptural form",
-   "Monumentality"
-  ],
-  "features": "Bangkok's Marble Temple, a refined ornate temple blending traditional Thai forms with subtle European influences.",
-  "commons_category": "Category:Wat Benchamabophit",
-  "coords": [
-   13.76611,
-   100.51417
-  ],
-  "photos": [
-   {
-    "file": "File:Entrance of Wat Ben.jpg",
-    "license": "CC BY 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Wat Benchamabophit 2.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "obelisco-de-buenos-aires",
-  "qid": "Q831389",
-  "status": "skip",
-  "why": "An obelisk, a monument."
- },
- {
-  "id": "saint-marks-coptic-orthodox-cathedral",
-  "qid": "Q1477289",
-  "status": "skip",
-  "why": "The lead gives consecration, size and history, no design reason."
- },
- {
-  "id": "church-of-the-transfiguration",
-  "qid": "Q1028121",
-  "status": "unsure",
-  "why": "Barluzzi Holy Land church; the lead gives no design reason. Owner to decide whether Barluzzi counts as a well-known architect here."
- },
- {
-  "id": "levant-fair",
-  "qid": "Q213203",
-  "status": "skip",
-  "why": "A trade fair held in the 1920s and 1930s, not a standing building."
- },
- {
-  "id": "national-capitol-of-cuba",
-  "qid": "Q1352908",
-  "status": "skip",
-  "why": "The lead gives commission and dates only; no design reason, and the architect is not a known name.",
-  "dup_flag": "near=(173, 'gran-teatro-de-la-habana', 'Gran Teatro de La Habana')"
- },
- {
-  "id": "baku-puppet-theatre",
-  "qid": "Q597749",
-  "status": "skip",
-  "why": "Eclectic style and a cinema-to-theatre history; eclectic gives no design idea a student would study."
- },
- {
-  "id": "chhatrapati-shivaji-maharaj-vastu-sangrahalaya",
-  "qid": "Q1071500",
-  "status": "photo",
-  "why": "Indo-Saracenic style named in the lead; only the exterior photo passes.",
-  "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-  "by": "George Wittet",
-  "city": "Mumbai",
-  "cc": "IN",
-  "year": null,
-  "type": "Museum",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Detail",
-   "Landscape",
-   "Monumentality"
-  ],
-  "features": "Mumbai's history museum in Indo-Saracenic style, blending Mughal, Maratha and Jain elements, set among palm gardens.",
-  "commons_category": "Category:Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-  "coords": [
-   18.92667,
-   72.83222
-  ],
-  "photos": [
-   {
-    "file": "File:Prince of Wales Museum, Mumbai 01.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "dup_flag": "near=(103, 'jehangir-art-gallery', 'Jehangir Art Gallery')"
- },
- {
-  "id": "national-library-of-cambodia",
-  "qid": "Q2556297",
-  "status": "skip",
-  "why": "The lead covers the library's founding and wartime losses; no design reason."
- },
- {
-  "id": "great-mosque-of-asmara",
-  "qid": "Q11957212",
-  "status": "skip",
-  "why": "The lead gives the commission and its political purpose; it names no design reason for the mosque."
- },
- {
-  "id": "marble-palace-tehran",
-  "qid": "Q15075626",
-  "status": "skip",
-  "why": "The lead covers the building's political history and later uses; no design reason."
- },
- {
-  "id": "ertugrul-gazi-mosque",
-  "qid": "Q993863",
-  "status": "skip",
-  "why": "The lead gives four minarets and a dome but no style or idea; the only photo is a doorway."
- },
- {
-  "id": "church-of-the-flagellation",
-  "qid": "Q1499131",
-  "status": "unsure",
-  "why": "Barluzzi Holy Land church; the lead gives no design reason. Owner to decide whether Barluzzi counts as a well-known architect here."
- },
- {
-  "id": "wisma-46",
-  "qid": "Q2361543",
-  "status": "skip",
-  "why": "An ordinary office tower; the lead gives height and floor records, not a design reason."
- },
- {
-  "id": "church-of-the-beatitudes",
-  "qid": "Q2918487",
-  "status": "unsure",
-  "why": "Barluzzi Holy Land church; the lead gives no design reason. Owner to decide whether Barluzzi counts as a well-known architect here."
- },
- {
-  "id": "church-of-the-visitation",
-  "qid": "Q830746",
-  "status": "unsure",
-  "why": "Barluzzi Holy Land church; the lead gives no design reason. Owner to decide whether Barluzzi counts as a well-known architect here."
- },
- {
-  "id": "university-of-hyderabad",
-  "qid": "Q1191166",
-  "status": "skip",
-  "why": "A university campus; the lead gives rankings and institutional facts, no design reason."
- },
- {
-  "id": "baku-academy-of-music",
-  "qid": "Q61563",
-  "status": "skip",
-  "why": "A music school; the lead gives only its founding."
- },
- {
-  "id": "basilica-of-our-lady-of-aparecida",
-  "qid": "Q2886950",
-  "status": "skip",
-  "why": "The lead gives size records and status, no design reason."
- },
- {
-  "id": "government-palace-peru",
-  "qid": "Q385938",
-  "status": "skip",
-  "why": "The lead covers the seat of government and its earlier palaces; no design reason.",
-  "dup_flag": "near=(149, 'catedral-de-lima', 'Cathedral Basilica of Lima')"
- },
- {
-  "id": "azerbaijan-state-academic-philharmonic-hall",
-  "qid": "Q58823",
-  "status": "skip",
-  "why": "The lead gives architect and dates only, no design reason; Wikidata's 2004 conflicts with the lead's 1910 to 1912."
- },
- {
-  "id": "bebek-mosque",
-  "qid": "Q6049880",
-  "status": "photo",
-  "why": "Named national architectural movement and a 1913 build, both in the lead.",
-  "name": "Bebek Mosque",
-  "by": "Mimar Kemaleddin",
-  "city": "Istanbul",
-  "cc": "TR",
-  "year": 1913,
-  "type": "Religious",
-  "movement": "Regionalism",
-  "concepts": [
-   "Stone",
-   "Courtyard",
-   "Vault"
-  ],
-  "features": "Built in the First National Architectural Movement style, a limestone mosque with a main dome over four half domes.",
-  "commons_category": "Category:Bebek Mosque",
-  "coords": [
-   41.07667,
-   29.04389
-  ],
-  "photos": [
-   {
-    "file": "File:İstanbul - Bebek, Beşiktaş r7 - Şub 2013.JPG",
+    "file": "File:Domkyrkoforum Konsertsalen 02.JPG",
     "license": "CC BY-SA 3.0",
     "seen": true
    },
    {
-    "file": "File:Bebek Camii 01.jpg",
+    "file": "File:20201101 Lunds domkyrka och Domkyrkoforum 1043 (50558788551).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20210916 Domkyrkoforum Lund 02 (51486064990).jpg",
     "license": "CC BY 2.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "cankaya-mansion",
-  "qid": "Q8077521",
-  "status": "skip",
-  "why": "The lead covers the residence's history and campus; no design reason."
- },
- {
-  "id": "sardarapat-memorial",
-  "qid": "Q1519076",
-  "status": "skip",
-  "why": "A memorial complex, a monument."
- },
- {
-  "id": "ajdarbey-mosque",
-  "qid": "Q16415387",
-  "status": "skip",
-  "why": "The lead gives build dates and location only."
- },
- {
-  "id": "saint-sarkis-cathedral-tehran",
-  "qid": "Q2082848",
-  "status": "skip",
-  "why": "The lead gives completion and diocese only, no design reason."
- },
- {
-  "id": "national-library-of-bangladesh",
-  "qid": "Q6974137",
-  "status": "unsure",
-  "why": "Muzharul Islam credited; the lead names no architect or design. Photos show only parts of the building.",
-  "note": "no main photo"
- },
- {
-  "id": "national-assembly-building-of-armenia",
-  "qid": "Q33108763",
-  "status": "skip",
-  "why": "The lead gives the legislature's home and date; no design reason."
- },
- {
-  "id": "sacred-heart-cathedral-new-delhi",
-  "qid": "Q1089554",
-  "status": "skip",
-  "why": "The lead gives history and funding; no design reason."
- },
- {
-  "id": "metropolitan-cathedral-of-medellin",
-  "qid": "Q1050597",
-  "status": "skip",
-  "why": "The lead gives location and names; no design reason."
- },
- {
-  "id": "church-of-the-condemnation-and-imposition-of-the-cross",
-  "qid": "Q1761639",
-  "status": "skip",
-  "why": "The lead gives location within a monastery; no design reason, and the architect is not a known name."
- },
- {
-  "id": "holy-myrrhbearers-cathedral",
-  "qid": "Q2511638",
-  "status": "skip",
-  "why": "The lead gives the church's status and clergy; no design reason."
- },
- {
-  "id": "jami-ul-alfar-mosque",
-  "qid": "Q2667449",
-  "status": "skip",
-  "why": "The lead gives history and tourist status; no design reason, though the photos show striking stripes."
- },
- {
-  "id": "benghazi-cathedral",
-  "qid": "Q773980",
-  "status": "skip",
-  "why": "A disused cathedral; the lead names no design reason."
- },
- {
-  "id": "cathedrale-du-sacre-cur-doran",
-  "qid": "Q2440344",
-  "status": "skip",
-  "why": "A former church, now a library; the lead gives no design reason."
- },
- {
-  "id": "independence-hall-israel",
-  "qid": "Q2620299",
+  "id": "gavle-krematorium",
+  "qid": "Q10512452",
   "status": "photo",
-  "why": "Adaptive reuse of a house redesigned in the International Style; the lead gives no redesign year.",
-  "name": "Independence Hall (Israel)",
-  "by": "Carl Rubin",
-  "city": "Tel Aviv",
-  "cc": "IL",
-  "year": null,
-  "type": "Museum",
+  "why": "Kasper Salin Prize 1965; the Swedish lead says it opened in 1960 and that ELLT drew it; a prize-winning woodland chapel.",
+  "name": "Gävle krematorium",
+  "by": "ELLT arkitektkontor, Gunnar Landberg, Bengt Larsson, Alvar Törneman, Alf Engström",
+  "city": "Gävle",
+  "cc": "SE",
+  "year": 1960,
+  "type": "Religious",
   "movement": "Modernism",
   "concepts": [
-   "Adaptive reuse",
-   "Public space",
-   "Facade as skin"
+   "Landscape",
+   "Timber",
+   "Exposed concrete"
   ],
-  "features": "Dizengoff's house, redesigned by Carl Rubin in the International Style, where Israel's Declaration of Independence was signed.",
-  "commons_category": "Category:Independence Hall, Tel Aviv-Yafo",
+  "features": "Chapel and crematorium in a pine forest, with concrete walls and pine ceilings; shared the 1965 Kasper Salin Prize.",
+  "commons_category": "Category:Gävle krematorium",
   "coords": [
-   32.06278,
-   34.77083
+   60.6733,
+   17.0954
   ],
   "photos": [
    {
-    "file": "File:Israel ind mus.JPG",
+    "file": "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gävle kapellkrematorium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kiruna-former-city-hall",
+  "qid": "Q10545812",
+  "status": "skip",
+  "why": "The Swedish lead says the building was demolished in spring 2019, so it is not standing."
+ },
+ {
+  "id": "medborgarhuset-orebro",
+  "qid": "Q10579082",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1967; Swedish lead gives the 1957–1965 build and the 1965 jubilee opening. Civic work with a prize.",
+  "name": "Medborgarhuset, Örebro",
+  "by": "Erik and Tore Ahlsén",
+  "city": "Örebro",
+  "cc": "SE",
+  "year": 1965,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Free plan"
+  ],
+  "features": "Community centre built 1957–1965 for Örebro's 700th anniversary, with a theatre and congress hall; Kasper Salin Prize 1967.",
+  "commons_category": "Category:Medborgarhuset, Örebro",
+  "coords": [
+   59.26814,
+   15.20744
+  ],
+  "photos": [
+   {
+    "file": "File:Medborgarhuset May 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Medborgarhuset orebro.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Örebro på cykel (59).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "televerkets-forvaltningsbyggnader-farsta",
+  "qid": "Q10692444",
+  "status": "photo",
+  "why": "Kasper Salin Prize for the Mårbackagatan blocks finished 1969 (Swedish lead); the year is that completion date, the complex ran 1962–1972.",
+  "name": "Televerkets förvaltningsbyggnader Farsta",
+  "by": "Bengt Hidemark, Gösta Danielson",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1969,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Incremental",
+   "Cluster",
+   "Modular"
+  ],
+  "features": "Former telecom headquarters built in stages, 1962–1972; its 1969 Mårbackagatan blocks won the Kasper Salin Prize.",
+  "commons_category": "Category:Televerkets förvaltningsbyggnader Farsta",
+  "coords": [
+   59.24528,
+   18.10222
+  ],
+  "photos": [
+   {
+    "file": "File:Telia Farsta 2012a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Telia Farsta 2012b.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "vildanden",
+  "qid": "Q10715358",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1968; the lead gives the 1966 build year and names Bengt Edman.",
+  "name": "Vildanden",
+  "by": "Bengt Edman",
+  "city": "Lund",
+  "cc": "SE",
+  "year": 1966,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Student housing in west Lund, designed by Bengt Edman in 1966; won the Kasper Salin Prize in 1968.",
+  "commons_category": "Category:Vildanden, Lund",
+  "coords": [
+   55.71027,
+   13.16871
+  ],
+  "photos": [
+   {
+    "file": "File:Vildanden 2018-09-02 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lund 2018-04-17 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lund 2018-04-17 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ahlens-city",
+  "qid": "Q10726246",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1966; the lead says the building opened 9 September 1964 and has high cultural-historical value. Store, kept for the prize and that value.",
+  "name": "Åhléns City",
+  "by": "Backström & Reinius, Sven Backström, Leif Reinius",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1964,
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Cluster"
+  ],
+  "features": "Stockholm department store that fills a whole city block; opened in 1964 and won the Kasper Salin Prize in 1966.",
+  "commons_category": "Category:Åhléns City",
+  "coords": [
+   59.33222,
+   18.06139
+  ],
+  "photos": [
+   {
+    "file": "File:Åhléns city 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Åhléns City mot Mäster Samuelsgatan, dec 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Stockholm 2019 362.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(191, 'kulturhuset', 'Kulturhuset')"
+ },
+ {
+  "id": "palau-municipal-desports-de-badalona",
+  "qid": "Q1412278",
+  "status": "unsure",
+  "why": "Prize-winning arena (EU Prize for Contemporary Architecture 1992; Mies van der Rohe Award). The photos show the interior, fans, banners, a sign or a distant aerial, not the building as the subject.",
+  "note": "no main photo",
+  "dup_flag": "wiki=palau-municipal-d-esports-de-badalona"
+ },
+ {
+  "id": "suita-city-football-stadium",
+  "qid": "Q16714657",
+  "status": "photo",
+  "why": "Two Japanese prizes (AIJ and BCS) count as the design reason for an ordinary stadium; the lead gives no completion year.",
+  "name": "Suita City Football Stadium",
+  "by": "Takenaka Corporation",
+  "city": "Suita",
+  "cc": "JP",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Gamba Osaka stadium that won the Architectural Institute of Japan Prize and the BCS Prize.",
+  "commons_category": "Category:Suita City Football Stadium",
+  "coords": [
+   34.80253,
+   135.53828
+  ],
+  "photos": [
+   {
+    "file": "File:Suita City Football Stadium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ruhrfestspielhaus",
+  "qid": "Q1768674",
+  "status": "photo",
+  "why": "German Architecture Prize 2001 (German lead); the lead gives the 1960–1965 build, so 1965 is the end of construction. Architects from Wikidata.",
+  "name": "Ruhrfestspielhaus",
+  "by": "Felix Ganteführer, Auer+Weber+Assoziierte",
+  "city": "Recklinghausen",
+  "cc": "DE",
+  "year": 1965,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Community"
+  ],
+  "features": "Event building built 1960–1965 in Recklinghausen, main venue of the annual Ruhrfestspiele; won the German Architecture Prize in 2001.",
+  "commons_category": "Category:Ruhrfestspielhaus Recklinghausen",
+  "coords": [
+   51.6209,
+   7.18532
+  ],
+  "photos": [
+   {
+    "file": "File:Ruhrfestspielhaus Recklinghausen.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ruhrfestspielhaus.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "studio-1",
+  "qid": "Q45308851",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2016 with a jury quote (Swedish lead); finished June 2016 per the lead.",
+  "name": "Studio 1",
+  "by": "Johannes Norlander",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 2016,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Two four-storey blocks in black-burnt Danish brick, finished June 2016 and winning the Kasper Salin Prize that year.",
+  "commons_category": "Category:Studio 1",
+  "coords": [
+   57.69931,
+   12.01722
+  ],
+  "photos": [
+   {
+    "file": "File:Studio 1 Orgryte Torp 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "merkurhuset",
+  "qid": "Q49098538",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2022 is for the 2019–2022 extension by Bornstein Lyckefors (named in the Swedish lead, not in prep); by keeps the original architect Ernst Krüger.",
+  "name": "Merkurhuset",
+  "by": "Ernst Krüger",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 1899,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Incremental"
+  ],
+  "features": "The oldest surviving house on Gothenburg's Skeppsbron, built 1898–99; its 2019–2022 extension won the 2022 Kasper Salin Prize.",
+  "commons_category": "Category:Merkurhuset",
+  "coords": [
+   57.70361,
+   11.95472
+  ],
+  "photos": [
+   {
+    "file": "File:Merkurhuset September 2019 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Merkurhuset July 2025 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Merkurhuset - tillbyggnad 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "condominium-1",
+  "qid": "Q5159315",
+  "status": "photo",
+  "why": "AIA Twenty-five Year Award; the lead names the MLTW partners, the first Sea Ranch unit, and says it is among the most significant 1960s designs in California.",
+  "name": "Condominium 1",
+  "by": "Charles Moore, Donlyn Lyndon, William Turnbull, Richard Whitaker, Lawrence Halprin",
+  "city": "Sea Ranch",
+  "cc": "US",
+  "year": 1965,
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Community"
+  ],
+  "features": "Timber-framed first unit of the Sea Ranch coast development, designed by MLTW in 1963–64 and built in 1965.",
+  "commons_category": null,
+  "coords": [
+   38.67917,
+   -123.42778
+  ],
+  "photos": [
+   {
+    "file": "File:Condominium 1, 110-128 Sea Walk Dr., Sea Ranch, CA 7-5-2010 7-07-18 PM.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "wiki=sea-ranch-condominium-one"
+ },
+ {
+  "id": "stade-sebastien-charlety",
+  "qid": "Q541391",
+  "status": "photo",
+  "why": "Mies van der Rohe Award and Équerre d'argent; the lead names no architect or year, so Wikidata's architect and a null year are used. Owner may check the renovation.",
+  "name": "Stade Sébastien Charléty",
+  "by": "Bernard Zehrfuss",
+  "city": "Paris",
+  "cc": "FR",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "Paris multi-purpose stadium with a 20,000-seat capacity; won the Mies van der Rohe Award and the Équerre d'argent.",
+  "commons_category": "Category:Stade Charléty",
+  "coords": [
+   48.81716,
+   2.34511
+  ],
+  "photos": [
+   {
+    "file": "File:Paris Stade Sébastien Charléty.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Stade Charléty - Paris XIII (FR75) - 2026-06-13 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nils-ericson-terminal",
+  "qid": "Q7037260",
+  "status": "unsure",
+  "why": "Prize-winning bus terminal (Kasper Salin Prize 1996), architect Niels Torp per Wikidata. Every photo is an aerial or distant view with the city around it, so no main photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "allhuset-stockholms-universitet",
+  "qid": "Q10405629",
+  "status": "photo",
+  "why": "Kasper Salin Prize (1980 per the Swedish lead); the lead says it was built 1979–1981 and opened in 1981.",
+  "name": "Allhuset, Stockholms universitet",
+  "by": "Ralph Erskine",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1981,
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Community",
+   "Structure as expression",
+   "Timber"
+  ],
+  "features": "Student services building by Ralph Erskine, designed with its student users; a Kasper Salin Prize winner.",
+  "commons_category": "Category:Allhuset, Stockholms universitet",
+  "coords": [
+   59.36367,
+   18.05799
+  ],
+  "photos": [
+   {
+    "file": "File:Allhuset Freskati 2010f.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Allhuset Freskati 2010c.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Allhuset Freskati 2010a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(79, 'aula-magna', 'Aula Magna')"
+ },
+ {
+  "id": "chalmers-karhus",
+  "qid": "Q10448217",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2001; the Swedish lead gives the 2001 completion and the building's facilities.",
+  "name": "Chalmers kårhus",
+  "by": "Gert Wingårdh",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 2001,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Public space"
+  ],
+  "features": "Student union building for Chalmers, with a pool, bookshop and large hall; won the Kasper Salin Prize in 2001.",
+  "commons_category": "Category:Chalmers kårhus",
+  "coords": [
+   57.68917,
+   11.97389
+  ],
+  "photos": [
+   {
+    "file": "File:090627 Chalmers kårhus balkong.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Samhällsbyggnad Chalmers, S4024355.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chalmers kårhus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "new-national-theatre-tokyo",
+  "qid": "Q1056064",
+  "status": "photo",
+  "why": "AIJ Prize; the lead says the theatre has staged productions since 1997 and is praised for its architecture (year read as its opening).",
+  "name": "New National Theatre Tokyo",
+  "by": "Takahiko Yanagisawa",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Japan's national performing arts centre, praised for its architecture; won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:New National Theatre, Tokyo",
+  "coords": [
+   35.6825,
+   139.68556
+  ],
+  "photos": [
+   {
+    "file": "File:New National Theatre, Tokyo 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:New National Theatre 201904a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rudolf-steinerseminariet",
+  "qid": "Q10657621",
+  "status": "photo",
+  "why": "Kasper Salin Prize (in prep); the Swedish lead describes a very distinctive organic architecture by Erik Asmussen; the lead gives 1968–1992 as a span, so year is null.",
+  "name": "Rudolf Steinerseminariet",
+  "by": "Erik Asmussen",
+  "city": "Järna",
+  "cc": "SE",
+  "year": null,
+  "type": "Education",
+  "movement": "Expressionism",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Anthroposophic centre of many buildings from 1968 to 1992, with organic forms shaped by ideas on light, colour and nature.",
+  "commons_category": "Category:Rudolf Steinerseminariet",
+  "coords": [
+   59.06667,
+   17.61667
+  ],
+  "photos": [
+   {
+    "file": "File:Kulturhuset i Ytterjärna Södertälje.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rudolf Steinerseminariet, Järna, 2019a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kulturcentrum, Järna, 2019a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sainsburys-canterbury",
+  "qid": "Q106653436",
+  "status": "skip",
+  "why": "Lead is empty and there are no photos."
+ },
+ {
+  "id": "citadelle-of-quebec",
+  "qid": "Q1093313",
+  "status": "unsure",
+  "why": "Governor General's Medal in Architecture. The lead covers a fortress and its history; the photos show guards, cannons and walls, not the building as the subject.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ntt-hibiya-building",
+  "qid": "Q11236139",
+  "status": "skip",
+  "why": "The Japanese lead is in the past tense: the building was closed for redevelopment, so it is not standing.",
+  "dup_flag": "near=(159, 'hibiya-public-hall', 'Hibiya Public Hall')"
+ },
+ {
+  "id": "toshima-eco-musee-town",
+  "qid": "Q11273170",
+  "status": "photo",
+  "why": "The Japanese lead says it is the first such composite building in Japan, a design reason; the lead gives no year, so year is null.",
+  "name": "Toshima Eco-Musee Town",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Cluster"
+  ],
+  "features": "Japan's first building to combine a city hall with a high-rise condominium, in Minami-Ikebukuro; won the BCS Prize.",
+  "commons_category": "Category:Toshima Ecomusee Town",
+  "coords": [
+   35.72625,
+   139.71667
+  ],
+  "photos": [
+   {
+    "file": "File:Toshima Ecomusee Town 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024 Toshima Ecomusee Town.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toshima Ecomusee Town east side 2026-04-19.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nbf-osaki-bldg",
+  "qid": "Q11315184",
+  "status": "photo",
+  "why": "AIJ Prize 2014 (Japanese lead); the lead gives no completion year, so year is null. Only one photo.",
+  "name": "NBF Osaki Bldg",
+  "by": "Nikken Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Cluster"
+  ],
+  "features": "High-rise office building in Osaki, formerly Sony City Osaki; won the Architectural Institute of Japan Prize in 2014.",
+  "commons_category": null,
+  "coords": [
+   35.61727,
+   139.7284
+  ],
+  "photos": [
+   {
+    "file": "File:Nbf osaki building 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tv-tokyo-tennozu-studio",
+  "qid": "Q11319698",
+  "status": "photo",
+  "why": "BCS Prize (42nd, per the Japanese lead); a TV studio, kept for the prize. Year null (not in the lead).",
+  "name": "TV Tokyo Tennozu Studio",
+  "by": "Shimizu Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "High-definition television studio in Higashi-Shinagawa, known as Tennozu Studio; won the BCS Prize.",
+  "commons_category": "Category:TV Tokyo Tennozu Studio",
+  "coords": [
+   35.62103,
+   139.74642
+  ],
+  "photos": [
+   {
+    "file": "File:TV Tokyo Tennozu Studio 2009-06.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:TV Tokyo Tennozu Studio 191018a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nadya-park",
+  "qid": "Q11323905",
+  "status": "photo",
+  "why": "BCS Prize (Japan) with a Japanese lead naming a composite commercial complex in Naka ward; a shopping centre kept for the prize.",
+  "name": "NADYA PARK",
+  "by": "Daiken Sekkei",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": null,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Mixed-use shopping complex in Nagoya's Naka ward, which won the BCS Prize.",
+  "commons_category": "Category:Nadya Park",
+  "coords": [
+   35.16556,
+   136.90575
+  ],
+  "photos": [
+   {
+    "file": "File:Nadya park02.JPG",
     "license": "Public domain",
     "seen": true
    },
    {
-    "file": "File:Independence Hall - Israel.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "german-fountain",
-  "qid": "Q322920",
-  "status": "skip",
-  "why": "A commemorative fountain, which is a monument; the lead names a neo-Byzantine style but the building commemorates a visit.",
-  "dup_flag": "near=(192, 'blue-mosque', 'Sultan Ahmed Mosque (Blue Mosque)')"
- },
- {
-  "id": "teen-murti-bhavan",
-  "qid": "Q3595320",
-  "status": "skip",
-  "why": "The lead covers its history as a residence and Nehru's home; no design reason."
- },
- {
-  "id": "khedives-palace",
-  "qid": "Q6401196",
-  "status": "unsure",
-  "why": "Art Nouveau palace (1907 in the lead), but the only photo shows the tower among trees, not the building.",
-  "note": "no main photo"
- },
- {
-  "id": "carthage-palace",
-  "qid": "Q2742927",
-  "status": "skip",
-  "why": "The lead names the presidential palace and a Le Corbusier house on the site, but gives no design for the palace."
- },
- {
-  "id": "buenos-aires-city-legislature-palace",
-  "qid": "Q4833194",
-  "status": "unsure",
-  "why": "Neoclassical legislature (named in the lead), but no photo shows the whole building; the clock tower is cut off.",
-  "note": "no main photo",
-  "dup_flag": "near=(161, 'palacio-municipal-buenos-aires', 'Palacio Municipal de Buenos Aires')"
- },
- {
-  "id": "cua-bac-church",
-  "qid": "Q1088224",
-  "status": "unsure",
-  "why": "Hebrard credited; the lead ties the church to his Hanoi plan and gives no design reason. Owner to decide."
- },
- {
-  "id": "mar-del-plata-cathedral",
-  "qid": "Q2942428",
-  "status": "photo",
-  "why": "Neogothic style named in the lead; no completion year in the lead.",
-  "name": "Mar del Plata Cathedral",
-  "by": "Pedro Benoit",
-  "city": "Mar del Plata",
-  "cc": "AR",
-  "year": null,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Detail",
-   "Vault"
-  ],
-  "features": "A Neogothic cathedral, declared a minor basilica in 1924 and dedicated to Saints Peter and Cecilia.",
-  "commons_category": "Category:Catedral de los Santos Pedro y Cecilia",
-  "coords": [
-   -37.9992,
-   -57.5492
-  ],
-  "photos": [
-   {
-    "file": "File:Catedral de los Santos Pedro y Cecilia.jpg",
-    "license": "CC0",
+    "file": "File:Nadya Park (2017-09-30) 1.jpg",
+    "license": "CC BY-SA 4.0",
     "seen": true
    },
    {
-    "file": "File:CatedralMDP-dec2014.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "cathedral-of-our-lady-of-nahuel-huapi",
-  "qid": "Q2942784",
-  "status": "photo",
-  "why": "Gothic Revival style named in the lead, built 1942 to 1944.",
-  "name": "Cathedral of Our Lady of Nahuel Huapi",
-  "by": "Alejandro Bustillo",
-  "city": "Bariloche",
-  "cc": "AR",
-  "year": 1944,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Vault",
-   "Detail",
-   "Landscape"
-  ],
-  "features": "A Gothic Revival cathedral by Alejandro Bustillo, who offered his design for free, near Nahuel Huapi lake.",
-  "commons_category": "Category:San Carlos de Bariloche Cathedral",
-  "coords": [
-   -41.1328,
-   -71.3028
-  ],
-  "photos": [
-   {
-    "file": "File:Catedral desde el Lago Nahuel Huapi - panoramio.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Catedral Nuestra Señora del Nahuel Huapi.jpg",
+    "file": "File:Nadya Park (2017-09-30) 3.jpg",
     "license": "CC BY-SA 4.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "st-peters-cathedral-bandung",
-  "qid": "Q4425998",
-  "status": "photo",
-  "why": "Neogothic design and a 1922 finish, both in the lead.",
-  "name": "St. Peter's Cathedral, Bandung",
-  "by": "Wolff Schoemaker",
-  "city": "Bandung",
-  "cc": "ID",
-  "year": 1922,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Vault",
-   "Detail",
-   "Monumentality"
-  ],
-  "features": "A Neogothic cathedral designed by Wolff Schoemaker and finished in 1922, seat of Bandung's Catholic diocese.",
-  "commons_category": "Category:Bandung Cathedral",
-  "coords": [
-   -6.91484,
-   107.611
-  ],
-  "photos": [
-   {
-    "file": "File:Bandung - Bandung Cathedral exterior (2025) - img 01.jpg",
-    "license": "CC BY 4.0",
-    "seen": true
-   }
-  ]
+  "id": "hotel-pacific-tokyo",
+  "qid": "Q11337895",
+  "status": "unsure",
+  "why": "BCS Prize, Sakakura (1971). The Japanese lead says the hotel closed on 31 March 2021 for redevelopment, so it may no longer stand; check first.",
+  "note": "may be demolished; check it still stands"
  },
  {
-  "id": "all-saints-cathedral-cairo",
-  "qid": "Q15179391",
+  "id": "shinjuku-center-building",
+  "qid": "Q1134395",
   "status": "photo",
-  "why": "Concrete cross-and-crown design named in the lead; consecrated 1988.",
-  "name": "All Saints' Cathedral, Cairo",
-  "by": "Awad Kamil Fahmy, Selim Kamil Fahmy",
-  "city": "Cairo",
-  "cc": "EG",
-  "year": 1988,
-  "type": "Religious",
+  "why": "BCS Prize; the lead gives 223 m, 54 floors and the 31 October 1979 opening. Only one photo, a clear exterior.",
+  "name": "Shinjuku Center Building",
+  "by": "Taisei Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1979,
+  "type": "Office & tower",
   "movement": "Late modernism",
   "concepts": [
-   "Exposed concrete",
-   "Sculptural form",
-   "Structure as expression"
-  ],
-  "features": "A concrete cathedral shaped like a cross at ground level and a crown at the top.",
-  "commons_category": "Category:All Saints' Cathedral, Cairo",
-  "coords": [
-   30.058,
-   31.2237
-  ],
-  "photos": [
-   {
-    "file": "File:All Saints' Cathedral, Cairo, Episcopal Diocese of Egypt.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "san-martin-palace",
-  "qid": "Q1570430",
-  "status": "skip",
-  "why": "A foreign ministry's ceremonial headquarters; the lead gives no design reason."
- },
- {
-  "id": "our-lady-of-heliopolis-co-cathedral",
-  "qid": "Q23760916",
-  "status": "photo",
-  "why": "Byzantine Revival named in the lead; the lead names Alexandre Marcel as designer, not the Wikidata name.",
-  "name": "Our Lady of Heliopolis Co-Cathedral",
-  "by": "Alexandre Marcel",
-  "city": "Cairo",
-  "cc": "EG",
-  "year": 1913,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Vault",
-   "Detail",
-   "Monumentality"
-  ],
-  "features": "A Byzantine Revival cathedral modelled on Hagia Sophia, completed in 1913, with a crypt for its financier.",
-  "commons_category": "Category:Cathedral of Our Lady of Heliopolis, Cairo",
-  "coords": [
-   30.09362,
-   31.32521
-  ],
-  "photos": [
-   {
-    "file": "File:Baselik church.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Eliopoli, basilica del barone empain, 01.JPG",
-    "license": "CC BY 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "basilica-of-our-lady-of-the-angels-cartago",
-  "qid": "Q3445644",
-  "status": "photo",
-  "why": "Mixed colonial and Byzantine styles named in the lead; current building dated 1939.",
-  "name": "Basilica of Our Lady of the Angels, Cartago",
-  "by": "Luis Llach",
-  "city": "Cartago",
-  "cc": "CR",
-  "year": 1939,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Detail",
-   "Monumentality",
-   "Vault"
-  ],
-  "features": "A basilica mixing colonial architecture with 19th-century Byzantine style, its current building dating from 1939.",
-  "commons_category": "Category:Our Lady of the Angels Basilica, Cartago, Costa Rica",
-  "coords": [
-   9.86389,
-   -83.91278
-  ],
-  "photos": [
-   {
-    "file": "File:Basilica of Our Lady of the Angels, Cartago 01.jpg",
-    "license": "CC0",
-    "seen": true
-   },
-   {
-    "file": "File:Basilica of Our Lady of the Angels, Cartago 02.jpg",
-    "license": "CC0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "theatre-municipal-de-tunis",
-  "qid": "Q3527872",
-  "status": "photo",
-  "why": "Art Nouveau style named in the lead; first opened 20 November 1902.",
-  "name": "Théâtre municipal de Tunis",
-  "by": "Jean-Émile Resplandy",
-  "city": "Tunis",
-  "cc": "TN",
-  "year": 1902,
-  "type": "Culture & sport",
-  "movement": "Art Nouveau",
-  "concepts": [
-   "Detail",
+   "Steel & glass",
    "Facade as skin",
    "Public space"
   ],
-  "features": "An Art Nouveau theatre first opened in 1902, once called the Municipal Casino of Tunis.",
-  "commons_category": "Category:Municipal Theater of Tunis",
+  "features": "54-storey office tower in Shinjuku, 223 metres high, opened in 1979; won the BCS Prize.",
+  "commons_category": "Category:Shinjuku Center Building",
   "coords": [
-   36.7992,
-   10.1808
+   35.69167,
+   139.69556
   ],
   "photos": [
    {
-    "file": "File:Theater tunis 20260716 3.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Theater tunis 20260716 4.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "sonobudoyo-museum",
-  "qid": "Q4271636",
-  "status": "photo",
-  "why": "Well-known architect's museum; the lead gives no design reason, so kept on the architect (second test).",
-  "name": "Sonobudoyo Museum",
-  "by": "Thomas Karsten",
-  "city": "Yogyakarta",
-  "cc": "ID",
-  "year": null,
-  "type": "Museum",
-  "movement": "Regionalism",
-  "concepts": [
-   "Community",
-   "Public space",
-   "Detail"
-  ],
-  "features": "Yogyakarta's Javanese history museum, with the most complete Javanese collection after Jakarta's National Museum.",
-  "commons_category": "Category:Sonobudoyo Museum",
-  "coords": [
-   -7.8023,
-   110.36394
-  ],
-  "photos": [
-   {
-    "file": "File:Museum Sonobudoyo Yogyakarta Unit 1.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "istanbul-university-observatory",
-  "qid": "Q4329995",
-  "status": "skip",
-  "why": "An observatory; the lead gives founding and location only."
- },
- {
-  "id": "st-andrews-church-jerusalem",
-  "qid": "Q501531",
-  "status": "skip",
-  "why": "A memorial church to Scottish soldiers; the lead gives purpose and congregation, no design reason."
- },
- {
-  "id": "toluca-cathedral",
-  "qid": "Q5758613",
-  "status": "photo",
-  "why": "Neoclassical facade named in the lead; building ran from 1867 to the late 20th century, so no single year.",
-  "name": "Toluca Cathedral",
-  "by": "Vicente Mendiola Quezada",
-  "city": "Toluca",
-  "cc": "MX",
-  "year": null,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Detail",
-   "Monumentality",
-   "Sculptural form"
-  ],
-  "features": "A Neoclassical cathedral whose façade has statues of four apostles and a relief of the Ascension.",
-  "commons_category": "Category:Cathedral of Saint Joseph in Toluca",
-  "coords": [
-   19.29139,
-   -99.65722
-  ],
-  "photos": [
-   {
-    "file": "File:CatTolucaMexSt.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:TolucaCathedral.JPG",
+    "file": "File:Shinjuku-Center-Building-01.jpg",
     "license": "CC BY-SA 3.0",
     "seen": true
    }
-  ]
+  ],
+  "dup_flag": "near=(125, 'mode-gakuen-cocoon-tower', 'Mode Gakuen Cocoon Tower')"
  },
  {
-  "id": "cathedral-of-salto",
-  "qid": "Q5908977",
-  "status": "skip",
-  "why": "The lead gives the see and status, no design reason."
- },
- {
-  "id": "uganda-museum",
-  "qid": "Q7877613",
-  "status": "unsure",
-  "why": "Ernst May credited, but he was not active in 1908; the lead gives 1908 as the museum's founding and names no designer. Dates impossible; owner to check."
- },
- {
-  "id": "pearl-palace",
-  "qid": "Q6564766",
+  "id": "marunouchi-park-building",
+  "qid": "Q11367941",
   "status": "photo",
-  "why": "Designed by the Taliesin architects of the Wright Foundation, named in the lead; short lead kept on that link.",
-  "name": "Pearl Palace",
-  "by": "William Wesley Peters, Taliesin Associated Architects",
-  "city": "Karaj",
-  "cc": "IR",
-  "year": null,
-  "type": "Palace",
-  "movement": "Modernism",
+  "why": "BCS Prize; the lead gives completion on 30 April 2009 and 170 m height. Office tower kept for the prize.",
+  "name": "Marunouchi Park Building",
+  "by": "Mitsubishi Jisho Design",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2009,
+  "type": "Office & tower",
+  "movement": "Contemporary",
   "concepts": [
-   "Landscape",
-   "Sculptural form",
-   "Detail"
-  ],
-  "features": "Frank Lloyd Wright Foundation's Taliesin Associated Architects designed this early-1970s estate for Princess Shams Pahlavi.",
-  "commons_category": "Category:Pearl Palace",
-  "coords": [
-   35.78778,
-   50.88641
-  ],
-  "photos": [
-   {
-    "file": "File:Pearl Palace (2022).jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "dup_flag": "wiki=pearl-palace"
- },
- {
-  "id": "dechencholing-palace",
-  "qid": "Q1181803",
-  "status": "skip",
-  "why": "A royal residence built in 1953; the lead gives no design reason and the photo shows people."
- },
- {
-  "id": "murtuza-mukhtarov-mosque",
-  "qid": "Q12842315",
-  "status": "skip",
-  "why": "The lead gives location only."
- },
- {
-  "id": "st-sarkis-church-yerevan-armenia",
-  "qid": "Q3851623",
-  "status": "photo",
-  "why": "Traditional Armenian style named in the lead; construction began 1998, no completion year given.",
-  "name": "St. Sarkis Church (Yerevan, Armenia)",
-  "by": "Baghdasar Arzoumanian",
-  "city": "Yerevan",
-  "cc": "AM",
-  "year": null,
-  "type": "Religious",
-  "movement": "Regionalism",
-  "concepts": [
-   "Sculptural form",
-   "Vault",
-   "Detail"
-  ],
-  "features": "A three-storey church in traditional Armenian style with a circular, polygonal form and a 23-metre main dome.",
-  "commons_category": "Category:Saint Sarkis Church, Nor Nork",
-  "coords": [
-   40.1814,
-   44.56519
-  ],
-  "photos": [
-   {
-    "file": "File:Սուրբ Սարգիս եկեղեցի, Նոր Նորք, Երեւան.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Surb Sargis Church Nor Nork 06.JPG",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "cut-meutia-mosque",
-  "qid": "Q4022393",
-  "status": "skip",
-  "why": "The lead gives the namesake and the building's Dutch past; no design reason, and no photos."
- },
- {
-  "id": "legislative-palace-peru",
-  "qid": "Q5201385",
-  "status": "skip",
-  "why": "The lead gives the congress's rooms and square; no design reason."
- },
- {
-  "id": "gulustan-palace",
-  "qid": "Q5617928",
-  "status": "skip",
-  "why": "A convention centre; the lead gives events and location, no design reason."
- },
- {
-  "id": "al-qaed-ibrahim-mosque",
-  "qid": "Q10997672",
-  "status": "skip",
-  "why": "The lead gives the name and the 2011 protests; no design reason."
- },
- {
-  "id": "martiros-saryan-museum",
-  "qid": "Q13054028",
-  "status": "unsure",
-  "why": "Wikidata credits Tamanian, who died in 1936; the lead (Swedish) says the three-storey house was Saryan's home and studio and the museum opened in 1967. Owner to check the house's date and designer."
- },
- {
-  "id": "national-textile-museum",
-  "qid": "Q19117247",
-  "status": "skip",
-  "why": "The lead gives opening hours and location only."
- },
- {
-  "id": "palacio-chiarino",
-  "qid": "Q2046762",
-  "status": "photo",
-  "why": "French Neoclassical style named in the lead; built 1922 to 1928.",
-  "name": "Palacio Chiarino",
-  "by": "Gaetano Moretti",
-  "city": "Montevideo",
-  "cc": "UY",
-  "year": 1928,
-  "type": "Palace",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Detail",
+   "Facade as skin",
+   "Steel & glass",
    "Public space"
   ],
-  "features": "A French Neoclassical palace on Plaza de Cagancha, built 1922 to 1928; Moretti died before it was finished.",
-  "commons_category": "Category:Palacio Chiarino, Montevideo",
+  "features": "170-metre office tower completed in April 2009 that houses Mitsubishi Corporation's head office; won the BCS Prize.",
+  "commons_category": "Category:Marunouchi Park Building",
   "coords": [
-   -34.90578,
-   -56.19219
+   35.67898,
+   139.76306
   ],
   "photos": [
    {
-    "file": "File:Palacio Chiarino Facede.jpg",
-    "license": "CC BY-SA 2.0",
-    "seen": true
-   }
-  ],
-  "dup_flag": "wiki=palacio-legislativo-montevideo"
- },
- {
-  "id": "quinta-vergara-amphitheater",
-  "qid": "Q7272367",
-  "status": "unsure",
-  "why": "Chilean concrete amphitheatre credited to Borja Huidobro; the lead gives no design reason, though the photos are strong. Owner to decide."
- },
- {
-  "id": "chesed-el-synagogue",
-  "qid": "Q1110186",
-  "status": "skip",
-  "why": "The lead gives the congregation and a national monument listing; no design reason."
- },
- {
-  "id": "king-kothi-palace",
-  "qid": "Q12061007",
-  "status": "skip",
-  "why": "The lead gives ownership history only."
- },
- {
-  "id": "museum-center-baku",
-  "qid": "Q14942756",
-  "status": "skip",
-  "why": "The lead lists the exhibition uses only; no design reason."
- },
- {
-  "id": "hovhannes-tumanyan-museum",
-  "qid": "Q16388672",
-  "status": "skip",
-  "why": "Literary museum founded in 1953 for a poet's anniversary; the lead gives its history and no design reason."
- },
- {
-  "id": "holy-mother-of-god-church-tehran",
-  "qid": "Q25432591",
-  "status": "skip",
-  "why": "Armenian church in Tehran; the lead gives its completion and later use, and no design reason."
- },
- {
-  "id": "lalgarh-palace",
-  "qid": "Q2771350",
-  "status": "skip",
-  "why": "Palace and heritage hotel built for a maharaja; the lead gives its patron and dates and no design reason. The architect is not on the wall."
- },
- {
-  "id": "cathedral-basilica-of-our-lady-of-the-rosary-manizales",
-  "qid": "Q2942271",
-  "status": "photo",
-  "why": "Tallest neo-Gothic church in the Americas, per the lead; the facade and a side view are daylight shots of the whole building.",
-  "name": "Cathedral Basilica of Our Lady of the Rosary, Manizales",
-  "by": "Julien Polti",
-  "city": "Manizales",
-  "cc": "CO",
-  "year": 1939,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Sculptural form",
-   "Structure as expression"
-  ],
-  "features": "Tallest neo-Gothic church in the Americas, and tallest building in Colombia for 33 years.",
-  "commons_category": "Category:Catedral Basílica Metropolitana Nuestra Señora del Rosario de Manizales",
-  "coords": [
-   5.06751,
-   -75.5174
-  ],
-  "photos": [
-   {
-    "file": "File:Catedral de Manizales outside.JPG",
-    "license": "CC0",
-    "seen": true
-   },
-   {
-    "file": "File:A Tres Agujas.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "abdou-moumouni-university",
-  "qid": "Q308329",
-  "status": "skip",
-  "why": "University; the lead gives its history and student protests, and no design reason."
- },
- {
-  "id": "manhyia-palace",
-  "qid": "Q6749385",
-  "status": "skip",
-  "why": "Seat of the Asantehene; the lead gives history and no design reason, and the architect field names a government, not a designer."
- },
- {
-  "id": "mahlamba-ndlopfu",
-  "qid": "Q3277765",
-  "status": "unsure",
-  "why": "Official residence designed by Gerard Moerdijk, whose other work is on the wall; the lead gives its history and no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "azadi-basketball-hall",
-  "qid": "Q4832084",
-  "status": "skip",
-  "why": "Ordinary indoor sports arena; the lead gives its seating and no design reason."
- },
- {
-  "id": "kranji-war-memorial",
-  "qid": "Q2945352",
-  "status": "skip",
-  "why": "War memorial and war cemetery; the lead gives its purpose and no design reason. Memorials are skipped."
- },
- {
-  "id": "coconut-palace",
-  "qid": "Q3384923",
-  "status": "unsure",
-  "why": "Official building by Francisco Manosa, whose firm is on the wall; the lead gives no design reason, and no photo shows the whole building.",
-  "note": "no main photo",
-  "dup_flag": "wiki=coconut-palace"
- },
- {
-  "id": "palacio-monroe",
-  "qid": "Q3890513",
-  "status": "skip",
-  "why": "A hall moved from St. Louis and rebuilt in Rio, written in the past tense; the lead gives its history and no design reason."
- },
- {
-  "id": "civilian-war-memorial",
-  "qid": "Q5124736",
-  "status": "skip",
-  "why": "Civilian war memorial; the lead gives its purpose and no design reason. Memorials are skipped."
- },
- {
-  "id": "our-lady-of-mercy-church-buenos-aires",
-  "qid": "Q5722074",
-  "status": "skip",
-  "why": "Church; the lead gives its location and no design reason.",
-  "dup_flag": "near=(120, 'bank-of-london-and-south-america', 'Bank of London and South America')"
- },
- {
-  "id": "niyamasabha-mandiram",
-  "qid": "Q7042028",
-  "status": "photo",
-  "why": "The lead names a style, the classical style of Kerala architecture with contemporary influences, and describes the stair, gardens, water and assembly hall.",
-  "name": "Niyamasabha Mandiram",
-  "by": "Kerala Public Works Department",
-  "city": "Thiruvananthapuram",
-  "cc": "IN",
-  "year": 1998,
-  "type": "Civic",
-  "movement": "Regionalism",
-  "concepts": [
-   "Water",
-   "Landscape",
-   "Monumentality"
-  ],
-  "features": "Legislative assembly built in the classical Kerala style, with a grand staircase, water bodies and gardens.",
-  "commons_category": "Category:Niyamasabha Mandiram",
-  "coords": [
-   8.5067,
-   76.9487
-  ],
-  "photos": [
-   {
-    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (1).jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Kerala State Legislative Assembly building, Trivandrum - sautvmcc2k26 (10).jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "bandung-geological-museum",
-  "qid": "Q7475825",
-  "status": "skip",
-  "why": "Museum in a 1928 building; the lead gives its renovation and reopening and no design reason."
- },
- {
-  "id": "cathedral-basilica-of-the-good-lord-jesus-cuiaba",
-  "qid": "Q8342818",
-  "status": "skip",
-  "why": "Cathedral basilica; the lead gives its location and status and no design reason."
- },
- {
-  "id": "st-joseph-s-cathedral-fortaleza",
-  "qid": "Q9297635",
-  "status": "photo",
-  "why": "Neo-Gothic cathedral; the lead names the style and its references to Cologne and Chartres, and the front is a clear daylight view.",
-  "name": "St. Joseph's Cathedral, Fortaleza",
-  "by": "Georges Henry Munier",
-  "city": "Fortaleza",
-  "cc": "BR",
-  "year": 1978,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Sculptural form",
-   "Structure as expression"
-  ],
-  "features": "Neo-Gothic cathedral with towers 75 meters high, drawn with references to Cologne and Chartres cathedrals.",
-  "commons_category": "Category:Catedral Metropolitana de Fortaleza",
-  "coords": [
-   -3.72477,
-   -38.52449
-  ],
-  "photos": [
-   {
-    "file": "File:Catedral de Fortaleza 05.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Catedral Metropolitana de Fortaleza - Ceará.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "ragip-pasha-mansion",
-  "qid": "Q111327320",
-  "status": "unsure",
-  "why": "Mansion by August Jasmund, whose other work is on the wall; the lead gives no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "phitsanulok-mansion",
-  "qid": "Q13016474",
-  "status": "unsure",
-  "why": "Official residence by Mario Tamagno, whose other work is on the wall; the lead gives history and no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "villa-baizeau",
-  "qid": "Q16128265",
-  "status": "unsure",
-  "why": "Le Corbusier's only Tunisian villa, per the lead; but no photo shows the villa itself, only coastline views.",
-  "note": "no main photo",
-  "dup_flag": "wiki=villa-baizeau"
- },
- {
-  "id": "kologdam-building",
-  "qid": "Q2106080",
-  "status": "skip",
-  "why": "Historic building for a trade fair, now a military complex; the lead gives no design reason, and there are no photos."
- },
- {
-  "id": "villa-shodhan",
-  "qid": "Q2275530",
-  "status": "unsure",
-  "why": "Le Corbusier villa, which the lead calls a symbol of his domestic architecture; every photo is a model, not the building.",
-  "note": "no main photo",
-  "dup_flag": "wiki=villa-shodhan"
- },
- {
-  "id": "cebu-provincial-capitol",
-  "qid": "Q5055817",
-  "status": "photo",
-  "why": "Arellano's capitol, per the lead; the lead gives its concave facade and its 1937 inscription, and the photos show the whole front in daylight.",
-  "name": "Cebu Provincial Capitol",
-  "by": "Juan M. Arellano",
-  "city": "Cebu City",
-  "cc": "PH",
-  "year": 1937,
-  "type": "Civic",
-  "movement": "Art Deco",
-  "concepts": [
-   "Monumentality",
-   "Axis",
-   "Sculptural form"
-  ],
-  "features": "Provincial capitol with a concave central facade, designed by Juan M. Arellano and erected in 1937.",
-  "commons_category": "Category:Cebu Provincial Capitol Building",
-  "coords": [
-   10.3167,
-   123.89076
-  ],
-  "photos": [
-   {
-    "file": "File:Cebu Capitol Compund.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Cebu Provincial Capitol, Cebu City.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "chaktomuk-conference-hall",
-  "qid": "Q5068437",
-  "status": "unsure",
-  "why": "Vann Molyvann's fan-shaped hall, per the lead; the photos show only the interior and a screen, so no outside view passes.",
-  "note": "no main photo",
-  "dup_flag": "wiki=chaktomuk-conference-hall"
- },
- {
-  "id": "ministry-of-finance-building-brunei",
-  "qid": "Q5818431",
-  "status": "unsure",
-  "why": "Tallest building in Brunei, by Kohn Pedersen Fox, which is on the wall; the lead gives height and use only, and says 1990 where prep says 2001.",
-  "note": "no design reason in lead; year conflict"
- },
- {
-  "id": "palacio-alcorta",
-  "qid": "Q6057551",
-  "status": "skip",
-  "why": "Former test track turned housing complex; the lead gives its history and no design reason, and housing is skipped.",
-  "dup_flag": "near=(71, 'malba', 'MALBA, Museo de Arte Latinoamericano de Buenos Aires')"
- },
- {
-  "id": "church-of-the-holy-sacrifice-up-diliman",
-  "qid": "Q7137447",
-  "status": "photo",
-  "why": "Campus church by National Artist Leandro Locsin, recognised for its architectural design; the main photo shows the whole building in daylight.",
-  "name": "Church of the Holy Sacrifice (UP Diliman)",
-  "by": "Leandro Locsin",
-  "city": "Quezon City",
-  "cc": "PH",
-  "year": 1977,
-  "type": "Religious",
-  "movement": "Modernism",
-  "concepts": [
-   "Sculptural form",
-   "Monumentality",
-   "Community"
-  ],
-  "features": "Campus church by National Artist Leandro Locsin, known for its architectural design and recognized as a National Historical Landmark.",
-  "commons_category": "Category:Parish of the Holy Sacrifice (Quezon City)",
-  "coords": [
-   14.65889,
-   121.07111
-  ],
-  "photos": [
-   {
-    "file": "File:UPChapeljf9392 03.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ],
-  "dup_flag": "wiki=church-of-the-holy-sacrifice"
- },
- {
-  "id": "levin-house-tel-aviv",
-  "qid": "Q7777121",
-  "status": "photo",
-  "why": "Eclectic house with neoclassical influences, unique in central Tel Aviv, per the lead; the tower mechanism is a design feature the lead describes, and the street views are daylight.",
-  "name": "Levin House (Tel Aviv)",
-  "by": "Yehuda Magidovitch",
-  "city": "Tel Aviv",
-  "cc": "IL",
-  "year": 1924,
-  "type": "House",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Void",
-   "Sculptural form",
-   "Monumentality"
-  ],
-  "features": "Eclectic Tel Aviv house with neoclassical touches and a tower whose three parts open over the staircase.",
-  "commons_category": "Category:Russian Embassy House",
-  "coords": [
-   32.0632,
-   34.7748
-  ],
-  "photos": [
-   {
-    "file": "File:בית. השגרירות הרוסית בשדרות רוטשילד.jpg",
+    "file": "File:Marunouchi Park Building 2012.JPG",
     "license": "CC BY-SA 3.0",
     "seen": true
    },
    {
-    "file": "File:תל אביב הקטנה - בית השגרירות הרוסית - רוטשילד 46 (11).JPG",
+    "file": "File:Marunouchi Park Building.jpg",
     "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marunouchi Park Building 2016.jpg",
+    "license": "CC BY-SA 4.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "casa-das-rosas",
-  "qid": "Q8341735",
-  "status": "unsure",
-  "why": "Museum and cultural centre by Felisberto Ranzini, whose other work is on the wall; the lead gives no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "palacio-das-industrias",
-  "qid": "Q9054621",
-  "status": "unsure",
-  "why": "Eclectic exhibition palace, per the lead, with a later restoration by Lina Bo Bardi; the lead's first exhibition (1917) disagrees with prep's year (1924).",
-  "note": "year conflict"
- },
- {
-  "id": "confiteria-del-molino",
-  "qid": "Q1125324",
+  "id": "kurashiki-kokusai-hotel",
+  "qid": "Q11386688",
   "status": "photo",
-  "why": "Art Nouveau coffeehouse, per the lead; it opened in 1916 and the main photo shows the whole facade in daylight.",
-  "name": "Confitería del Molino",
-  "by": "Francesco Gianotti",
-  "city": "Buenos Aires",
-  "cc": "AR",
-  "year": 1916,
+  "why": "AIJ Prize; the Japanese lead is one line with no design detail, so the feature is kept to the place and prize. Short lead kept for the prize.",
+  "name": "Kurashiki Kokusai Hotel",
+  "by": "Shizutarō Urabe",
+  "city": "Kurashiki",
+  "cc": "JP",
+  "year": null,
   "type": "Hospitality",
-  "movement": "Art Nouveau",
-  "concepts": [
-   "Detail",
-   "Colour",
-   "Light from above"
-  ],
-  "features": "Art Nouveau coffeehouse opened in 1916 in front of Argentina's Congress, closed in 1997 and restored from 2016.",
-  "commons_category": "Category:Confitería del Molino",
-  "coords": [
-   -34.60889,
-   -58.39222
-  ],
-  "photos": [
-   {
-    "file": "File:Confitería del Molino in 2022.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "new-cathedral-of-cuenca",
-  "qid": "Q15072543",
-  "status": "photo",
-  "why": "Romanesque Revival cathedral with three glazed domes, per the lead; the photo shows the domes from the street in daylight.",
-  "name": "New Cathedral of Cuenca",
-  "by": "Johannes Bautista Stiehle",
-  "city": "Cuenca",
-  "cc": "EC",
-  "year": 1975,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Colour",
-   "Sculptural form"
-  ],
-  "features": "Romanesque Revival cathedral with three giant domes covered in blue and white glazed tile.",
-  "commons_category": "Category:Catedral de la Inmaculada Concepción",
-  "coords": [
-   -2.8975,
-   -79.005
-  ],
-  "photos": [
-   {
-    "file": "File:Domes of the Catedral de la Immaculada Concepción.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "komitas-chamber-music-house",
-  "qid": "Q15239238",
-  "status": "skip",
-  "why": "Concert hall designed by an artist, opened 1977; the lead names no style or idea and gives only its opening and listing."
- },
- {
-  "id": "santo-domingo-church-quezon-city",
-  "qid": "Q17198574",
-  "status": "skip",
-  "why": "Parish church and national shrine; the lead gives its founding, transfer and no design reason."
- },
- {
-  "id": "cathedral-of-christ-the-king-johannesburg",
-  "qid": "Q18210338",
-  "status": "skip",
-  "why": "The lead says only that it is a Catholic cathedral in Johannesburg, with no design reason."
- },
- {
-  "id": "bareilly-dargah",
-  "qid": "Q22712275",
-  "status": "skip",
-  "why": "Sufi shrine and grave; the lead gives its purpose and a matchstick dome, and shrines are skipped. The architect field names a religion, not a designer."
- },
- {
-  "id": "desert-museum-mexico",
-  "qid": "Q24502406",
-  "status": "skip",
-  "why": "Ecological museum; the lead gives its purpose and collections, and no design reason."
- },
- {
-  "id": "building-of-the-baku-city-executive-power",
-  "qid": "Q25540504",
-  "status": "photo",
-  "why": "The lead names a style, Baroque, and the building is the last work of Polish architect Józef Gosławski; the main photo shows the whole facade in daylight.",
-  "name": "Building of the Baku City Executive Power",
-  "by": "Józef Gosławski",
-  "city": "Baku",
-  "cc": "AZ",
-  "year": 1904,
-  "type": "Civic",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Sculptural form",
-   "Detail"
-  ],
-  "features": "Baroque administrative building in Baku, the last work of Polish architect Józef Gosławski.",
-  "commons_category": "Category:Building of Baku City Executive Power",
-  "coords": [
-   40.36685,
-   49.83146
-  ],
-  "photos": [
-   {
-    "file": "File:Mayoralty of Baku main façade, 2015.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "dup_flag": "near=(190, 'palace-of-happiness-baku', 'Palace of Happiness')"
- },
- {
-  "id": "monastery-of-our-lady-of-mount-carmel",
-  "qid": "Q3320188",
-  "status": "skip",
-  "why": "Carmelite monastery; the lead gives its community and location and no design reason."
- },
- {
-  "id": "aguascalientes-museum",
-  "qid": "Q4694507",
-  "status": "skip",
-  "why": "Art museum; the lead gives only its status as the city's premier art museum, with no design reason."
- },
- {
-  "id": "cemil-topuzlu-open-air-theatre",
-  "qid": "Q5058732",
-  "status": "skip",
-  "why": "Open-air concert venue; the lead gives its use and location, and no design reason.",
-  "dup_flag": "near=(140, 'hilton-istanbul', 'Hilton Istanbul')"
- },
- {
-  "id": "piratini-palace",
-  "qid": "Q732922",
-  "status": "skip",
-  "why": "Seat of the state executive; the lead gives its use and officials, and no design reason."
- },
- {
-  "id": "vilamajo-house-museum",
-  "qid": "Q1046452",
-  "status": "photo",
-  "why": "The lead names the architect, Julio Vilamajó, who built it for his family in 1930; the lead calls it the first modern dwelling opened as a museum in Uruguay.",
-  "name": "Vilamajó House Museum",
-  "by": "Julio Vilamajó",
-  "city": "Montevideo",
-  "cc": "UY",
-  "year": 1930,
-  "type": "House",
-  "movement": "Modernism",
-  "concepts": [
-   "Facade as skin",
-   "Void",
-   "Sculptural form"
-  ],
-  "features": "Julio Vilamajó's 1930 family house, the first modern dwelling opened as a museum in Uruguay.",
-  "commons_category": "Category:Casa Vilamajó",
-  "coords": [
-   -34.915,
-   -56.16333
-  ],
-  "photos": [
-   {
-    "file": "File:Casa Arq. Julio Vilamajó.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Museo Casa Vilamajo 2026.jpg",
-    "license": "CC0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "pista-de-atletismo-darwin-pineyrua",
-  "qid": "Q11098050",
-  "status": "skip",
-  "why": "Running track in a city park; the lead gives its use and naming, and no design reason. Ordinary sports venues are skipped."
- },
- {
-  "id": "eglise-du-sacre-coeur-de-jesus-de-medellin",
-  "qid": "Q11682930",
-  "status": "unsure",
-  "why": "Church by Agustín Goovaerts, per prep, whose other work is on the wall; the lead names no architect or style and gives only its listing, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "nuestra-senora-del-libano-montevideo",
-  "qid": "Q127598364",
-  "status": "photo",
-  "why": "The lead names engineer Eladio Dieste as designer of the 1984–1986 church, a known work of his; the main photo shows the curved front in daylight.",
-  "name": "Nuestra Señora del Líbano, Montevideo",
-  "by": "Eladio Dieste",
-  "city": "Montevideo",
-  "cc": "UY",
-  "year": 1986,
-  "type": "Religious",
-  "movement": "Late modernism",
-  "concepts": [
-   "Brick",
-   "Vault",
-   "Structure as expression"
-  ],
-  "features": "Maronite church in Montevideo, built 1984–1986 to a design by engineer Eladio Dieste.",
-  "commons_category": "Category:Parroquia Maronita de Nuestra Señora del Líbano",
-  "coords": [
-   -34.83992,
-   -56.20842
-  ],
-  "photos": [
-   {
-    "file": "File:Nuestra Señora del Libano, Sayago.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "immobilia-building",
-  "qid": "Q13141943",
-  "status": "photo",
-  "why": "The lead calls it Cairo's first skyscraper, a named first; the main photo is a daylight view of the curved building.",
-  "name": "Immobilia Building",
-  "by": "Max Edrei, Gaston Rossi",
-  "city": "Cairo",
-  "cc": "EG",
-  "year": 1940,
-  "type": "Office & tower",
-  "movement": "Art Deco",
-  "concepts": [
-   "Sculptural form",
-   "Facade as skin",
-   "Monumentality"
-  ],
-  "features": "Considered Cairo's first skyscraper, a downtown building with a surface area of 5,444 square meters.",
-  "commons_category": "Category:Immobilia Building",
-  "coords": [
-   30.04896,
-   31.24216
-  ],
-  "photos": [
-   {
-    "file": "File:Burroughs Wellcome & Co., Cairo. Wellcome M0013215.jpg",
-    "license": "CC BY 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "museo-de-ciencias-de-caracas",
-  "qid": "Q1876154",
-  "status": "unsure",
-  "why": "Science museum by Carlos Raúl Villanueva, whose other work is on the wall; the lead gives only its place in a park, with no design reason, so the owner decides.",
-  "note": "no design reason in lead",
-  "dup_flag": "near=(87, 'museo-de-bellas-artes-caracas', 'Museo de Bellas Artes de Caracas (1976 building)')"
- },
- {
-  "id": "beit-sokolov",
-  "qid": "Q2897639",
-  "status": "unsure",
-  "why": "Journalists' headquarters by Shulamit Nadler, whose other work is on the wall; the lead gives its dedication and sale, and no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "weizmann-house",
-  "qid": "Q2903120",
-  "status": "photo",
-  "why": "The lead names Erich Mendelsohn as architect of the house on a Rehovot hilltop, built for Chaim Weizmann; the photos show the house in daylight.",
-  "name": "Weizmann House",
-  "by": "Erich Mendelsohn",
-  "city": "Rehovot",
-  "cc": "IL",
-  "year": 1937,
-  "type": "House",
-  "movement": "Modernism",
-  "concepts": [
-   "Landscape",
-   "Planting",
-   "Circulation"
-  ],
-  "features": "Home of Israel's first president, Chaim Weizmann, on a hilltop in Rehovot, designed by Erich Mendelsohn.",
-  "commons_category": "Category:Beit Weizmann",
-  "coords": [
-   31.90645,
-   34.81856
-  ],
-  "photos": [
-   {
-    "file": "File:120193 rechovot beit haim weizman PikiWiki Israel.jpg",
-    "license": "CC BY 2.5",
-    "seen": true
-   },
-   {
-    "file": "File:120197 rechovot beit haim weizman PikiWiki Israel.jpg",
-    "license": "CC BY 2.5",
-    "seen": true
-   }
-  ],
-  "dup_flag": "wiki=weizmann-house"
- },
- {
-  "id": "chapel-of-the-most-blessed-sacrament",
-  "qid": "Q5073116",
-  "status": "unsure",
-  "why": "Art Deco chapel by Tomás Mapúa, per the lead; every photo is an interior, so no outside view passes.",
-  "note": "no main photo"
- },
- {
-  "id": "estancia-villa-maria",
-  "qid": "Q60978522",
-  "status": "skip",
-  "why": "Historic country estate; the lead gives its place and no design reason, and no photo shows it."
- },
- {
-  "id": "palestine-technical-university-kadoorie",
-  "qid": "Q6401986",
-  "status": "unsure",
-  "why": "Agricultural college by Austen Harrison, whose other work is on the wall; the lead gives its bequest and opening and no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "vedat-tek-house",
-  "qid": "Q65053468",
-  "status": "photo",
-  "why": "The lead calls it a notable example of Turkish neoclassical architecture, by the architect Vedat Tek for his own family; the photos show the facade in daylight.",
-  "name": "Vedat Tek House",
-  "by": "Vedat Tek",
-  "city": "Istanbul",
-  "cc": "TR",
-  "year": 1914,
-  "type": "House",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Detail",
-   "Facade as skin",
-   "Monumentality"
-  ],
-  "features": "Museum and former home of architect Vedat Tek, a notable example of Turkish neoclassical architecture.",
-  "commons_category": "Category:Vedat Tek House",
-  "coords": [
-   41.05035,
-   28.98932
-  ],
-  "photos": [
-   {
-    "file": "File:Vedat Tek Evi, Nişantası.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Vedat Tek House.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "rizal-memorial-library-and-museum",
-  "qid": "Q65068930",
-  "status": "photo",
-  "why": "The lead names the neoclassical style and Juan M. Arellano as architect, and the photos show the three-storey facade in daylight.",
-  "name": "Rizal Memorial Library and Museum",
-  "by": "Juan M. Arellano",
-  "city": "Cebu City",
-  "cc": "PH",
-  "year": 1939,
-  "type": "Library",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Monumentality",
-   "Detail",
-   "Facade as skin"
-  ],
-  "features": "Three-story pre-war neoclassical library and museum in Cebu City, designed by Juan M. Arellano.",
-  "commons_category": "Category:Rizal Memorial Library and Museum",
-  "coords": [
-   10.31229,
-   123.89202
-  ],
-  "photos": [
-   {
-    "file": "File:Cebu City Public Library (Osmeña Boulevard, Cebu City; 01-12-2024).jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Rizal Memorial Library and Museum - Facade.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "herzliya-museum-of-contemporary-art",
-  "qid": "Q6604799",
-  "status": "unsure",
-  "why": "Contemporary art museum by Yaakov Rechter, whose other work is on the wall; the lead gives its collection and exhibitions and no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "manila-jai-alai-building",
-  "qid": "Q6749689",
-  "status": "skip",
-  "why": "Jai alai building that the lead says was demolished in 2000, so it is not standing."
- },
- {
-  "id": "saint-andrew-the-apostle-church",
-  "qid": "Q7400942",
-  "status": "unsure",
-  "why": "Church by Leandro Locsin, whose other work is on the wall, and the lead calls it one of his known modern edifices; no photo shows the church itself, only signs and statues.",
-  "note": "no main photo"
- },
- {
-  "id": "town-hall-of-porto-alegre",
-  "qid": "Q10347008",
-  "status": "skip",
-  "why": "Historic town hall; the lead gives its history, listing and renovation, and no named style or design reason."
- },
- {
-  "id": "bulgur-palas",
-  "qid": "Q111988445",
-  "status": "skip",
-  "why": "Restored Istanbul mansion turned library; the lead gives its history and use and no design reason."
- },
- {
-  "id": "shamkir-lutheran-church",
-  "qid": "Q12835673",
-  "status": "skip",
-  "why": "Former German Lutheran church, now a monument; the lead gives its listing and no design reason."
- },
- {
-  "id": "clal-center",
-  "qid": "Q17001787",
-  "status": "unsure",
-  "why": "Office tower and indoor mall; the lead calls it Jerusalem's first upscale indoor mall and an architectural failure, which is not a design reason to keep. The owner decides.",
-  "note": "mall type; no design reason in lead"
- },
- {
-  "id": "baku-city-executive-power",
-  "qid": "Q3867209",
-  "status": "skip",
-  "why": "Same building as position 117 (Building of the Executive Authority of the Baku City); kept once there.",
-  "dup_flag": "near=(190, 'palace-of-happiness-baku', 'Palace of Happiness')"
- },
- {
-  "id": "santuario-nacional-del-corazon-de-jesus-montevideo",
-  "qid": "Q4504967",
-  "status": "skip",
-  "why": "National shrine and parish church; the lead gives its location and status and no design reason."
- },
- {
-  "id": "civil-police-museum-rio-de-janeiro",
-  "qid": "Q5124529",
-  "status": "photo",
-  "why": "The lead names a French eclectic style and says the building was constructed in 1910; the main photo shows the whole facade in daylight. The year is the 1910 construction, not the museum's 1912 founding.",
-  "name": "Civil Police Museum (Rio de Janeiro)",
-  "by": "Heitor de Melo",
-  "city": "Rio de Janeiro",
-  "cc": "BR",
-  "year": 1910,
-  "type": "Museum",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Detail",
-   "Monumentality",
-   "Sculptural form"
-  ],
-  "features": "Museum in a French eclectic building constructed in 1910 by Heitor de Mello in Rio de Janeiro.",
-  "commons_category": "Category:Museu da Polícia Civil (Rio de Janeiro)",
-  "coords": [
-   -22.91056,
-   -43.185
-  ],
-  "photos": [
-   {
-    "file": "File:Museu da Polícia Civil do Estado do Rio de Janeiro 2007.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "palacio-municipal-de-lima",
-  "qid": "Q5200998",
-  "status": "skip",
-  "why": "Seat of the city government; the lead gives its location and use and no design reason.",
-  "dup_flag": "near=(174, 'catedral-de-lima', 'Cathedral Basilica of Lima')"
- },
- {
-  "id": "edificio-wilton-paes-de-almeida",
-  "qid": "Q52426295",
-  "status": "skip",
-  "why": "High-rise that the lead says caught fire and collapsed in 2018, so it is not standing."
- },
- {
-  "id": "our-lady-of-the-rosary-cathedral-girardota",
-  "qid": "Q5758532",
-  "status": "photo",
-  "why": "The lead names a neo-Romanesque style and says the solid brick was built in sight, by the French architect Charles Émile Carré; the main photo shows the whole front in daylight.",
-  "name": "Our Lady of the Rosary Cathedral, Girardota",
-  "by": "Charles Émile Carré",
-  "city": "Girardota",
-  "cc": "CO",
-  "year": 1922,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Structure as expression",
-   "Monumentality",
-   "Brick"
-  ],
-  "features": "Neo-Romanesque cathedral built in solid brick left in sight, which took 32 years to build.",
-  "commons_category": "Category:Catedral de Nuestra Señora del Rosario, Girardota",
-  "coords": [
-   6.37677,
-   -75.44584
-  ],
-  "photos": [
-   {
-    "file": "File:Girardota-frontis.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Catedral de girardota.jpg",
-    "license": "CC BY 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "memorial-of-glory-almaty",
-  "qid": "Q60290910",
-  "status": "skip",
-  "why": "War memorial with a sculpted group and an eternal flame; the lead gives its purpose and no design reason. Memorials are skipped."
- },
- {
-  "id": "jerusalem-international-ymca",
-  "qid": "Q6185163",
-  "status": "unsure",
-  "why": "YMCA by Arthur Loomis Harmon, whose other work is on the wall; the lead gives only the branch's founding and no design reason, so the owner decides.",
-  "note": "no design reason in lead"
- },
- {
-  "id": "pomnik-zydowskich-zolnierzy-polskiej-armii-w-ii-wojnie-swiatowej",
-  "qid": "Q6696679",
-  "status": "skip",
-  "why": "War memorial to Jewish soldiers; the lead gives its purpose and no design reason beyond its relief. Memorials are skipped."
- },
- {
-  "id": "jerusalem-old-town-hall",
-  "qid": "Q714812",
-  "status": "skip",
-  "why": "Mandate-era public building; the lead gives only that it was one of four British-built public buildings, with no design reason."
- },
- {
-  "id": "beit-haamudim",
-  "qid": "Q112073616",
-  "status": "skip",
-  "why": "Address and jazz-club use only; the lead gives no design reason."
- },
- {
-  "id": "kucuk-theatre",
-  "qid": "Q112641261",
-  "status": "skip",
-  "why": "Oldest theatre in Ankara and its renaming; no design reason in the lead."
- },
- {
-  "id": "yesilkoy-mecidiye-mosque",
-  "qid": "Q123247735",
-  "status": "skip",
-  "why": "Late-Ottoman mosque; the lead names the architect's standing but gives no design reason."
- },
- {
-  "id": "armon-hanatziv",
-  "qid": "Q12404277",
-  "status": "skip",
-  "why": "Former British High Commissioner's residence, now UN headquarters; history only."
- },
- {
-  "id": "fondation-felix-houphouet-boigny",
-  "qid": "Q2680941",
-  "status": "skip",
-  "why": "Peace research institute; the lead gives no design reason."
- },
- {
-  "id": "cathedral-of-st-mary-and-all-saints-harare",
-  "qid": "Q28147101",
-  "status": "skip",
-  "why": "Cathedral begun 1913 to Baker's plans; the lead gives no completion year and no design reason."
- },
- {
-  "id": "our-lady-of-france-church-notre-dame-bizerte",
-  "qid": "Q30401365",
-  "status": "skip",
-  "why": "Former French-era church, now a culture house; history only."
- },
- {
-  "id": "general-staff-building-ankara",
-  "qid": "Q30667995",
-  "status": "skip",
-  "why": "Armed forces headquarters; the lead gives the architect and opening date but no design reason."
- },
- {
-  "id": "coliseo-gran-chimu",
-  "qid": "Q5145750",
-  "status": "skip",
-  "why": "Indoor sports arena; ordinary type with no design reason."
- },
- {
-  "id": "institute-for-research-in-fundamental-sciences",
-  "qid": "Q6039681",
-  "status": "skip",
-  "why": "Research institute; the lead gives its Internet role, not a design reason."
- },
- {
-  "id": "music-teachers-school",
-  "qid": "Q6090279",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "gerard-behar-center",
-  "qid": "Q6729702",
-  "status": "skip",
-  "why": "Arts centre; the lead gives events and the 1961 trial, not a design reason."
- },
- {
-  "id": "ohel-yizkor",
-  "qid": "Q6826871",
-  "status": "skip",
-  "why": "Memorial ceremony hall; memorials are skipped.",
-  "dup_flag": "near=(86, 'children-s-memorial-yad-vashem', \"Children's Memorial, Yad Vashem\")"
- },
- {
-  "id": "church-of-our-lady-of-victory",
-  "qid": "Q107695881",
-  "status": "skip",
-  "why": "Catholic church; the lead gives no design reason."
- },
- {
-  "id": "palacio-diaz",
-  "qid": "Q1749496",
-  "status": "photo",
-  "why": "Lead names the Art Deco style; the photos show the tower from the street in daylight.",
-  "name": "Palacio Díaz",
-  "by": "Gonzalo Vázquez Barrière",
-  "city": "Montevideo",
-  "cc": "UY",
-  "year": 1929,
-  "type": "Office & tower",
-  "movement": "Art Deco",
-  "concepts": [
-   "Facade as skin",
-   "Public space",
-   "Cluster"
-  ],
-  "features": "Art Deco building on Montevideo's 18 de Julio with flats, offices and a shopping passage, opened in 1929.",
-  "commons_category": "Category:Palacio Díaz, Montevideo",
-  "coords": [
-   [
-    -34.90622,
-    -56.19281
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:2016 Uruguay Palacio Díaz Av. 18 de Julio 1333, entre Yaguarón y Ejido. En Montevideo.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:2016 vista del Palacio Díaz Av. 18 de Julio 1333, entre Yaguarón y Ejido de Montevideo.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "javed-manzil",
-  "qid": "Q18126242",
-  "status": "skip",
-  "why": "Poet's house turned museum; history and listing only."
- },
- {
-  "id": "teatro-coliseo",
-  "qid": "Q185504",
-  "status": "skip",
-  "why": "Theatre opened 1905; the lead gives no design reason."
- },
- {
-  "id": "fernandez-anchorena-palace",
-  "qid": "Q2046771",
-  "status": "skip",
-  "why": "Former residence, now the nunciature; \"architecturally significant\" with no reason given."
- },
- {
-  "id": "africa-hall",
-  "qid": "Q2826149",
-  "status": "unsure",
-  "why": "Lead gives a design reason (continuous internal spaces) and a 1961 completion; every photo is an interior, a meeting or a person.",
-  "note": "no main photo",
-  "name": "Africa Hall",
-  "by": "Arturo Mezzedimi",
-  "city": "Addis Ababa",
-  "cc": "ET",
-  "year": 1961,
-  "type": "Civic",
-  "movement": "Modernism",
-  "concepts": [
-   "Free plan",
-   "Public space",
-   "Monumentality"
-  ],
-  "features": "Its \"continuous spaces\" internal layout is the main feature; built in only 18 months, completed February 1961.",
-  "commons_category": "Category:Africa Hall (Addis Ababa)",
-  "coords": [
-   [
-    9.01453,
-    38.76627
-   ]
-  ],
-  "photos": []
- },
- {
-  "id": "edsa-shrine",
-  "qid": "Q2914138",
-  "status": "skip",
-  "why": "Small church and People Power memorial; the lead gives no design reason.",
-  "dup_flag": "wiki=edsa-shrine"
- },
- {
-  "id": "temple-of-saint-anthony-of-padua",
-  "qid": "Q2919923",
-  "status": "photo",
-  "why": "Lead calls it a deliberately eclectic masterpiece built 1895-1908 (year taken as 1908).",
-  "name": "Temple of Saint Anthony of Padua",
-  "by": "Refugio Reyes Rivas",
-  "city": "Aguascalientes",
-  "cc": "MX",
-  "year": 1908,
-  "type": "Religious",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Detail",
-   "Monumentality",
-   "Sculptural form"
-  ],
-  "features": "Eclectic church mixing neoclassical, baroque, Russian, Gothic and Islamic influences; Refugio Reyes Rivas's masterpiece.",
-  "commons_category": "Category:Templo de San Antonio, Aguascalientes",
-  "coords": [
-   [
-    21.88562,
-    -102.29177
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:967 TEMPLO DE SAN ANTONIO.jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:00967 Templo de San Antonio - Aguascalientes - Aguascalientes (2).jpg",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:Templo de San Antonio (desde la esquina).jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "victoria-college-alexandria",
-  "qid": "Q4119533",
-  "status": "skip",
-  "why": "School founded 1902; history and founders only."
- },
- {
-  "id": "san-fernando-cathedral-pampanga",
-  "qid": "Q4348950",
-  "status": "skip",
-  "why": "Neoclassical church; the style alone is not a design reason here."
- },
- {
-  "id": "edificio-ariztia",
-  "qid": "Q5338042",
-  "status": "photo",
-  "why": "Lead gives two firsts: first skyscraper and first office building with an elevator in Santiago; completed 1921.",
-  "name": "Edificio Ariztía",
-  "by": "Alberto Cruz Montt, Ricardo Larraín Bravo",
-  "city": "Santiago",
-  "cc": "CL",
-  "year": 1921,
-  "type": "Office & tower",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Structure as expression",
-   "Exposed concrete",
-   "Geometry"
-  ],
-  "features": "Considered Santiago's first skyscraper and its first office building with an elevator, built in reinforced concrete.",
-  "commons_category": "Category:Edificio Ariztía",
-  "coords": [
-   [
-    -33.44256,
-    -70.65121
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:Edificio Ariztía, Santiago 20230816.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Barrio La Bolsa 2013-05-26 2.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "fakhr-ol-dowleh-mosque",
-  "qid": "Q5946147",
-  "status": "skip",
-  "why": "Mosque; the lead names the designer and date but gives no design reason."
- },
- {
-  "id": "parque-cristal",
-  "qid": "Q6062105",
-  "status": "skip",
-  "why": "Office building the lead calls a landmark and a symbol of development; no design reason."
- },
- {
-  "id": "kunstkring-art-gallery",
-  "qid": "Q6445043",
-  "status": "skip",
-  "why": "Heritage building; the lead gives history, restoration and use only."
- },
- {
-  "id": "helles-memorial",
-  "qid": "Q6766045",
-  "status": "skip",
-  "why": "War memorial."
- },
- {
-  "id": "palace-of-the-inquisition",
-  "qid": "Q7126272",
-  "status": "skip",
-  "why": "Former Inquisition headquarters, now a museum; history only."
- },
- {
-  "id": "kerbalai-israfil-hajiyev-s-mansion",
-  "qid": "Q85997101",
-  "status": "skip",
-  "why": "Protected mansion; the lead gives the listing and history, not a design reason."
- },
- {
-  "id": "bosch-palace",
-  "qid": "Q9054334",
-  "status": "skip",
-  "why": "Residence called \"architecturally significant\" with no reason given."
- },
- {
-  "id": "monolith-building",
-  "qid": "Q97170891",
-  "status": "skip",
-  "why": "Protected 1940 building; the lead gives no design reason.",
-  "dup_flag": "near=(81, 'ismailiyya-palace', 'Ismailiyya Palace')"
- },
- {
-  "id": "central-library-of-university-of-tehran",
-  "qid": "Q97800995",
-  "status": "skip",
-  "why": "Biggest academic library; the lead gives size and date only."
- },
- {
-  "id": "botter-appartement",
-  "qid": "Q99852364",
-  "status": "photo",
-  "why": "Lead gives a first (office, shop and home in one building) by a famous architect; lead gives only \"1900s\", so no year.",
-  "name": "Botter-appartement",
-  "by": "Raimondo Tommaso D'Aronco",
-  "city": "Istanbul",
-  "cc": "TR",
-  "year": null,
-  "type": "Housing",
-  "movement": "Historic precedent",
-  "concepts": [
-   "Facade as skin",
-   "Detail",
-   "Adaptive reuse"
-  ],
-  "features": "The first Istanbul building designed to combine office, shop and home, by a famous architect of its time.",
-  "commons_category": "Category:Botter Apartment",
-  "coords": [
-   [
-    41.02922,
-    28.9754
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:Botter Apartment.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "municipal-market-of-campinas",
-  "qid": "Q10328770",
-  "status": "skip",
-  "why": "Municipal market; the lead gives only its location."
- },
- {
-  "id": "house-of-figarov-brothers",
-  "qid": "Q137612190",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "national-mast-of-brasilia",
-  "qid": "Q20060257",
-  "status": "skip",
-  "why": "Monument (flag mast) in Brasília's Praça dos Três Poderes; monuments are skipped.",
-  "dup_flag": "near=(90, 'tancredo-neves-pantheon-of-the-fatherland', 'Tancredo Neves Pantheon of the Fatherland')"
- },
- {
-  "id": "senate-palace-tehran",
-  "qid": "Q20110871",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "ricardo-rojas-house-museum-research-institute",
-  "qid": "Q21114973",
-  "status": "photo",
-  "why": "Lead gives a design idea (built to the book Eurindia, facade like La Casa de Tucumán); lead gives no completion year.",
-  "name": "Ricardo Rojas' House Museum - Research Institute",
-  "by": "Ángel Guido",
-  "city": "Buenos Aires",
-  "cc": "AR",
-  "year": null,
-  "type": "House",
-  "movement": "Regionalism",
-  "concepts": [
-   "Facade as skin",
-   "Detail",
-   "Sculptural form"
-  ],
-  "features": "Commissioned by writer Ricardo Rojas, its design follows his book Eurindia, with a facade like La Casa de Tucumán.",
-  "commons_category": "Category:Casa Museo Ricardo Rojas",
-  "coords": [
-   [
-    -34.5939,
-    -58.4065
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:Museo Casa Ricardo Rojas 03.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Museo Casa Ricardo Rojas 05.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "restaurante-zambi",
-  "qid": "Q21478174",
-  "status": "unsure",
-  "why": "Lead names Pancho Guedes (on the wall with three buildings) and a well-known restaurant; the only photo is of chimneys.",
-  "note": "no main photo",
-  "name": "Restaurante Zambi",
-  "by": "Pancho Guedes",
-  "city": "Maputo",
-  "cc": "MZ",
-  "year": 1956,
-  "type": "Hospitality",
-  "movement": "Modernism",
-  "concepts": [
-   "Public space",
-   "Facade as skin",
-   "Detail"
-  ],
-  "features": "Luxury restaurant on Maputo's waterfront, built 1954-56 to plans by Pancho Guedes.",
-  "commons_category": "Category:Restaurante Zambi",
-  "coords": [
-   [
-    -25.97989,
-    32.57935
-   ]
-  ],
-  "photos": []
- },
- {
-  "id": "ghevond-alishan-school-95",
-  "qid": "Q21698049",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "gota-de-leche-building",
-  "qid": "Q24041484",
-  "status": "skip",
-  "why": "Heritage listing and a UNESCO honour; the lead gives no design reason."
- },
- {
-  "id": "mercado-central-de-san-pedro",
-  "qid": "Q26213804",
-  "status": "skip",
-  "why": "Market; the lead names no architect, and Wikidata's Eiffel is impossible for a 1950 building."
- },
- {
-  "id": "edificio-do-banco-paulista-do-comercio",
-  "qid": "Q28677873",
-  "status": "photo",
-  "why": "Lead: an early modernist building in central São Paulo whose curve answers the street; built 1947-1950 (year taken as 1950).",
-  "name": "Edifício do Banco Paulista do Comércio",
-  "by": "Rino Levi",
-  "city": "São Paulo",
-  "cc": "BR",
-  "year": 1950,
-  "type": "Office & tower",
-  "movement": "Modernism",
-  "concepts": [
-   "Geometry",
-   "Facade as skin",
-   "Public space"
-  ],
-  "features": "A pioneering modernist building in central São Paulo, its curve answers the sloping street that meets its corner.",
-  "commons_category": "Category:Edifício Banco Paulista do Comércio",
-  "coords": [
-   [
-    -23.54505,
-    -46.63371
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:Edifício Banco Paulista do Comércio 03.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Edifício Banco Paulista do Comércio 06.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   },
-   {
-    "file": "File:Edifício Banco Paulista do Comércio 05.jpg",
-    "license": "CC BY-SA 4.0",
-    "seen": true
-   }
-  ],
-  "dup_flag": "near=(164, 'martinelli-building', 'Martinelli Building')"
- },
- {
-  "id": "aghasi-khanjyan-mansion",
-  "qid": "Q29148166",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "faculty-of-veterinary-medicine-of-the-university-of-tehran",
-  "qid": "Q2945417",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "tanghalang-pambansa",
-  "qid": "Q30590055",
-  "status": "photo",
-  "why": "Lead: a National Artist's brutalist design, a primary example of his floating-volume style; lead gives no year.",
-  "name": "Tanghalang Pambansa",
-  "by": "Leandro Locsin",
-  "city": "Pasay",
-  "cc": "PH",
-  "year": null,
-  "type": "Culture & sport",
-  "movement": "Brutalism",
-  "concepts": [
-   "Cantilever",
-   "Exposed concrete",
-   "Structure as expression"
-  ],
-  "features": "Brutalist national theatre in the Cultural Center complex, a primary example of Locsin's floating-volume style.",
-  "commons_category": "Category:Tanghalang Pambansa",
-  "coords": [
-   [
-    14.55827,
-    120.98571
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:CCPjf0126 01.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:CCPjf0111 07.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   },
-   {
-    "file": "File:CCPjf0111 08.JPG",
-    "license": "CC BY-SA 3.0",
-    "seen": true
-   }
-  ]
- },
- {
-  "id": "chandigarh-college-of-architecture",
-  "qid": "Q5071058",
-  "status": "skip",
-  "why": "College; the lead gives no design reason, and the only photo is its logo."
- },
- {
-  "id": "dst-group-building",
-  "qid": "Q5206199",
-  "status": "skip",
-  "why": "Office tower; the sky lobby is a feature, not a design reason."
- },
- {
-  "id": "edificio-volta",
-  "qid": "Q5818339",
-  "status": "skip",
-  "why": "Office building for CHADE; the lead gives no design reason."
- },
- {
-  "id": "yatahi-building",
-  "qid": "Q5818347",
-  "status": "skip",
-  "why": "Building that now houses a government office; no design reason.",
-  "dup_flag": "near=(160, 'edificio-comega', 'Edificio Comega')"
- },
- {
-  "id": "university-of-tehran-mosque",
-  "qid": "Q5937096",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "palacio-de-san-francisco-bogota",
-  "qid": "Q6058188",
-  "status": "skip",
-  "why": "Neoclassical palace; the style alone is not a design reason here.",
-  "dup_flag": "near=(165, 'edificio-avianca', 'Avianca Building')"
- },
- {
-  "id": "edificio-guardiola",
-  "qid": "Q65037626",
-  "status": "photo",
-  "why": "Lead: a functionalist (modernist) office building, built 1947.",
-  "name": "Edificio Guardiola",
-  "by": "Carlos Obregón Santacilia",
-  "city": "Mexico City",
-  "cc": "MX",
-  "year": 1947,
-  "type": "Office & tower",
   "movement": "Modernism",
   "concepts": [
    "Facade as skin",
    "Modular",
-   "Geometry"
+   "Landscape"
   ],
-  "features": "Functionalist office building for Banco de México, built 1947 on a site with several historical stages.",
-  "commons_category": "Category:Edificio Guardiola",
+  "features": "Hotel in Kurashiki, Okayama Prefecture, that won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Kurashiki Kokusai Hotel",
   "coords": [
-   [
-    19.43443,
-    -99.14045
-   ]
+   34.59621,
+   133.76976
   ],
   "photos": [
    {
-    "file": "File:Edificio Guardiola 11 (rectified).jpg",
-    "license": "Public domain",
-    "seen": true
-   }
-  ],
-  "dup_flag": "near=(61, 'torre-latinoamericana', 'Torre Latinoamericana')"
- },
- {
-  "id": "st-boniface-church-germiston",
-  "qid": "Q7592678",
-  "status": "skip",
-  "why": "Parish church; the lead gives no design reason, and the only photo is an interior."
- },
- {
-  "id": "st-la-salle-hall",
-  "qid": "Q7593924",
-  "status": "skip",
-  "why": "Academic building; the institution and neoclassical style are not a design reason here."
- },
- {
-  "id": "edificio-de-la-bolsa-de-comercio-de-santiago",
-  "qid": "Q76475721",
-  "status": "skip",
-  "why": "Stock exchange with a national-monument listing; no design reason."
- },
- {
-  "id": "palacio-6-de-julio",
-  "qid": "Q9054378",
-  "status": "skip",
-  "why": "Municipal seat; the lead gives no design reason."
- },
- {
-  "id": "church-of-saint-joseph",
-  "qid": "Q112913263",
-  "status": "skip",
-  "why": "Franciscan church; no design reason."
- },
- {
-  "id": "galeria-guemes",
-  "qid": "Q11682033",
-  "status": "photo",
-  "why": "Lead names the Art Nouveau style; lead gives only a design date (1913), so no year.",
-  "name": "Galería Güemes",
-  "by": "Francesco Gianotti",
-  "city": "Buenos Aires",
-  "cc": "AR",
-  "year": null,
-  "type": "Public space",
-  "movement": "Art Nouveau",
-  "concepts": [
-   "Detail",
-   "Facade as skin",
-   "Light & shadow"
-  ],
-  "features": "Commercial gallery on Florida Street designed in the Art Nouveau style by Italian architect Francesco Gianotti.",
-  "commons_category": "Category:Galería Güemes",
-  "coords": [
-   [
-    -34.60613,
-    -58.37495
-   ]
-  ],
-  "photos": [
-   {
-    "file": "File:Galeria Güemes desde Bencich.jpg",
-    "license": "CC BY-SA 4.0",
+    "file": "File:Kurashiki Kokusai Hotel.jpg",
+    "license": "CC BY-SA 3.0",
     "seen": true
    },
    {
-    "file": "File:Galería Güemes Cúpula torreta 03.jpg",
-    "license": "CC BY-SA 4.0",
+    "file": "File:Kurashiki Kokusai Hotel, Chuo - panoramio (2).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kurashiki Kokusai Hotel, Chuo - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(185, 'kurashiki-city-art-museum-former-city-hall', 'Kurashiki City Art Museum (former City Hall)')"
+ },
+ {
+  "id": "hyogo-performing-arts-center",
+  "qid": "Q11393100",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives the 2005 opening and Nikken Sekkei. Main photo is a daylight exterior (the night shot was not used).",
+  "name": "Hyogo Performing Arts Center",
+  "by": "Nikken Sekkei",
+  "city": "Nishinomiya",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Performing arts centre opened in 2005, ten years after the Great Hanshin earthquake; won the BCS Prize.",
+  "commons_category": "Category:Hyogo Performing Arts Center",
+  "coords": [
+   34.7436,
+   135.356
+  ],
+  "photos": [
+   {
+    "file": "File:Hyogo Performing Arts Center01n3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Hyogo Performing Arts Center02s3s3200.jpg",
+    "license": "CC BY 2.5",
     "seen": true
    }
   ]
  },
  {
-  "id": "edificio-ciudadela",
-  "qid": "Q1284533",
-  "status": "skip",
-  "why": "Office and housing block of a building boom; no design reason.",
-  "dup_flag": "near=(107, 'teatro-solis', 'Teatro Solís')"
- },
- {
-  "id": "phra-ram-ratchaniwet",
-  "qid": "Q13017714",
-  "status": "skip",
-  "why": "Former royal palace, now a museum; history only."
- },
- {
-  "id": "universidad-de-la-republica-building",
-  "qid": "Q1485477",
-  "status": "skip",
-  "why": "University building after a competition; institution, no design reason."
- },
- {
-  "id": "centro-cultural-justica-federal-brazil",
-  "qid": "Q18483689",
-  "status": "skip",
-  "why": "Former Supreme Court building; history and cultural use only.",
-  "dup_flag": "near=(97, 'national-library-of-brazil', 'National Library of Brazil')"
- },
- {
-  "id": "la-tertulia-museum",
-  "qid": "Q18624380",
-  "status": "skip",
-  "why": "Museum; the lead describes its collections and buildings, not a design reason."
- },
- {
-  "id": "manik-bagh",
-  "qid": "Q1890381",
-  "status": "unsure",
-  "why": "Lead gives a design reason (Bauhaus and Art Deco, a Gesamtkunstwerk); every photo is a portrait of a person.",
-  "note": "no main photo",
-  "name": "Manik Bagh",
-  "by": "Eckart Muthesius",
-  "city": "Indore",
-  "cc": "IN",
-  "year": 1930,
-  "type": "Palace",
-  "movement": "Art Deco",
-  "concepts": [
-   "Detail",
-   "Facade as skin",
-   "Sculptural form"
-  ],
-  "features": "Palace built in 1930 in Bauhaus and Art Deco style inside and out, a total work of art.",
-  "commons_category": "Category:Manik Bagh",
-  "coords": [
-   [
-    22.6925,
-    75.85639
-   ]
-  ],
-  "photos": []
- },
- {
-  "id": "karakoy-palas",
-  "qid": "Q21278766",
-  "status": "skip",
-  "why": "Built 1920 for a bank; the lead names the architect but gives no design reason."
- },
- {
-  "id": "st-helena-church",
-  "qid": "Q24898428",
-  "status": "skip",
-  "why": "Catholic church; no design reason."
- },
- {
-  "id": "national-museum-of-ethnography-nampula",
-  "qid": "Q2944162",
-  "status": "skip",
-  "why": "Museum; the lead gives its opening and history, not a design reason."
- },
- {
-  "id": "lonja-del-comercio-building",
-  "qid": "Q3889431",
-  "status": "skip",
-  "why": "Former stock exchange, now offices; history only."
- },
- {
-  "id": "cilindro-municipal",
-  "qid": "Q5119968",
-  "status": "skip",
-  "why": "Indoor arena; ordinary type, with a 1967 event but no design reason."
- },
- {
-  "id": "dubara-palace",
-  "qid": "Q5310643",
-  "status": "skip",
-  "why": "Villa used as a school; no design reason.",
-  "dup_flag": "near=(179, 'mogamma-cairo', 'Mogamma')"
- },
- {
-  "id": "shell-building",
-  "qid": "Q54871184",
-  "status": "skip",
-  "why": "Lead calls it an emblematic monument and names its first client; it gives no design reason."
- },
- {
-  "id": "cathedrale-marie-reine-du-monde-de-port-said",
-  "qid": "Q61466905",
-  "status": "skip",
-  "why": "Co-cathedral; the lead names Ange-Marie Hiral as its builder and gives no design reason."
- },
- {
-  "id": "maspero-television-building",
-  "qid": "Q6783908",
-  "status": "skip",
-  "why": "Lead gives the height and the broadcaster it houses; no design reason."
- },
- {
-  "id": "basra-memorial",
-  "qid": "Q6967066",
-  "status": "skip",
-  "why": "War memorial (Commonwealth War Graves Commission); monuments are skipped."
- },
- {
-  "id": "saint-patrick-s-school",
-  "qid": "Q7401990",
-  "status": "skip",
-  "why": "School; the lead gives its history only."
- },
- {
-  "id": "edificio-limatambo",
-  "qid": "Q94528738",
-  "status": "skip",
-  "why": "Demolished in 2013 according to the lead."
- },
- {
-  "id": "ahmedabad-town-hall",
-  "qid": "Q95347976",
-  "status": "skip",
-  "why": "Lead gives a hall, its renovations and its abandonment; no design reason."
- },
- {
-  "id": "igreja-matriz",
-  "qid": "Q107191191",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "house-of-victoria-ocampo",
-  "qid": "Q113000863",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "van-heutsz-memorial",
-  "qid": "Q114838868",
-  "status": "skip",
-  "why": "Empty lead; also a monument."
- },
- {
-  "id": "tabaco-city-hall",
-  "qid": "Q117744620",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "ab-o-atash-amphitheatre",
-  "qid": "Q118015018",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "centro-scop",
-  "qid": "Q124458704",
-  "status": "unsure",
-  "why": "Lead gives a complex for the federal communications and public works ministry, with homes, shops and sports areas. Augusto Perez Palacios is on the wall, so the short lead is no reason to skip; but the only photo is a facade with a mural, not the whole building. Year null: the lead gives none.",
-  "note": "no main photo",
-  "name": "Centro SCOP",
-  "by": "Augusto Pérez Palacios",
-  "city": "Mexico City",
-  "cc": "MX",
+  "id": "hokkaido-government-main-building",
+  "qid": "Q11402733",
+  "status": "photo",
+  "why": "BCS Prize; the Japanese lead is one line and names no design reason, kept for the prize. Only the main building photo is used.",
+  "name": "Hokkaido Government Main Building",
+  "by": "Kume Sekkei",
+  "city": "Sapporo",
+  "cc": "JP",
   "year": null,
   "type": "Civic",
   "movement": "Modernism",
   "concepts": [
-   "Cluster",
-   "Community",
+   "Facade as skin",
+   "Modular",
    "Public space"
   ],
-  "features": "A complex built for the federal communications and public works ministry, with homes, shops and sports areas.",
-  "commons_category": null,
+  "features": "Main office of the Hokkaido government in Sapporo; won the BCS Prize.",
+  "commons_category": "Category:Hokkaido Government Office",
   "coords": [
-   19.39392,
-   -99.14764
+   43.06417,
+   141.34694
   ],
-  "photos": []
- },
- {
-  "id": "egyptian-diplomatic-club",
-  "qid": "Q126951377",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "tribune-of-honor",
-  "qid": "Q131411608",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "ptpn-x-building",
-  "qid": "Q133313850",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "istanbul-university-rare-works-library",
-  "qid": "Q134777246",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "the-glass-building",
-  "qid": "Q135103580",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "luis-david-cruz-ocampo-central-library",
-  "qid": "Q136676306",
-  "status": "unsure",
-  "why": "Lead gives a symmetrical concrete design by Emilio Duhart, on the post-1960-earthquake campus plan, and Duhart is on the wall. But the only photo is the entrance doors, not the building. Year 1972 is the lead's opening date.",
-  "note": "no main photo",
-  "name": "\"Luis David Cruz Ocampo\" Central Library",
-  "by": "Emilio Duhart, Roberto Goycoolea",
-  "city": "Concepción",
-  "cc": "CL",
-  "year": 1972,
-  "type": "Library",
-  "movement": "Late modernism",
-  "concepts": [
-   "Exposed concrete",
-   "Axis",
-   "Landscape"
-  ],
-  "features": "Symmetrical concrete library on a raised campus site, one of the last works of the post-1960-earthquake Duhart plan.",
-  "commons_category": null,
-  "coords": [
-   -36.83187,
-   -73.0351
-  ],
-  "photos": []
- },
- {
-  "id": "concepcion-municipal-building",
-  "qid": "Q137452647",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "edificio-de-la-comision-honoraria-para-la-lucha-antituberculosa",
-  "qid": "Q141554133",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "sao-jose-de-lhanguene",
-  "qid": "Q21484964",
-  "status": "skip",
-  "why": "Empty lead and no photos."
- },
- {
-  "id": "prime-minister-s-residence-yerevan",
-  "qid": "Q42801268",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "abovian-31-yerevan",
-  "qid": "Q42802052",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "nalbandyan-37-yerevan",
-  "qid": "Q42804984",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "pushkin-25-yerevan",
-  "qid": "Q42805205",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "sayat-nova-25-yerevan",
-  "qid": "Q42805258",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "vardanants-7",
-  "qid": "Q42805282",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "edificio-cicero-prado",
-  "qid": "Q51922616",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "casa-walther-moreira-salles",
-  "qid": "Q55065496",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "santiago-stock-exchange",
-  "qid": "Q55241402",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "faculty-of-management-of-the-university-of-tehran",
-  "qid": "Q61063975",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "new-zealand-memorial-at-chunuk-bair",
-  "qid": "Q62061354",
-  "status": "skip",
-  "why": "Empty lead; war memorial."
- },
- {
-  "id": "edificio-del-ministerio-de-hacienda-y-comercio",
-  "qid": "Q100314037",
-  "status": "skip",
-  "why": "Lead gives the size and the ministry it houses; no design reason."
- },
- {
-  "id": "jockey-club-de-sao-paulo",
-  "qid": "Q10307554",
-  "status": "skip",
-  "why": "Lead gives the club's founding and the racecourse's history; no design reason."
- },
- {
-  "id": "palacio-das-esmeraldas",
-  "qid": "Q10344009",
-  "status": "skip",
-  "why": "Lead gives the seat of state government and the green colour behind its name; no design reason."
- },
- {
-  "id": "edificio-barth",
-  "qid": "Q1046312",
-  "status": "skip",
-  "why": "Lead gives the 1927 date, the architect and the later offices; no design reason."
- },
- {
-  "id": "sfax-town-hall",
-  "qid": "Q109313413",
-  "status": "skip",
-  "why": "Lead gives only the municipal seat and the date; no design reason."
- },
- {
-  "id": "abulfazlil-abbas-mosque",
-  "qid": "Q110104543",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "people-s-national-assembly-building",
-  "qid": "Q111181342",
-  "status": "skip",
-  "why": "Lead gives its history as city hall and parliament; no design reason."
- },
- {
-  "id": "palacio-de-los-tribunales",
-  "qid": "Q111527095",
-  "status": "skip",
-  "why": "Courthouse; the lead gives no design reason."
- },
- {
-  "id": "palace-of-prince-yusuf-kamal",
-  "qid": "Q118640137",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "al-mouwasat-mosque",
-  "qid": "Q12242784",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "old-padang-city-hall",
-  "qid": "Q12473682",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "pablo-ferrando-building",
-  "qid": "Q1284555",
-  "status": "skip",
-  "why": "Lead gives its origin as a shop and its later offices; no design reason.",
-  "dup_flag": "near=(164, 'teatro-solis', 'Teatro Solís')"
- },
- {
-  "id": "selim-al-deen-muktamanch",
-  "qid": "Q130607297",
-  "status": "unsure",
-  "why": "Lead gives a design reason: the first open-air theatre in South Asia built in the style of an ancient Greek theatre. The architect is unclear, and the dates do not rule either name out, so the owner decides.",
-  "note": "architect conflict: lead names Selim Al Deen as master planner; Wikidata says Alamgir Kabir",
-  "name": "Selim Al Deen Muktamanch",
   "photos": [
    {
-    "file": "File:Open Satge Of JahangirNagar University.jpg",
-    "license": "CC BY-SA 4.0",
+    "file": "File:Hokkaido-Govt-Main-Bldg-01.jpg",
+    "license": "CC BY-SA 3.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "komitas-grave",
-  "qid": "Q16386349",
-  "status": "skip",
-  "why": "Grave and sculpture monument."
+  "id": "chiba-prefectural-cultural-hall",
+  "qid": "Q11406178",
+  "status": "unsure",
+  "why": "Architectural Institute of Japan Prize, Masato Otaka (1967). The Japanese lead is one line naming only a cultural facility, and there is no photo.",
+  "note": "no main photo"
  },
  {
-  "id": "iglesia-de-maria-auxiliadora",
-  "qid": "Q16950642",
-  "status": "skip",
-  "why": "Lead gives the parish history and the school beside it; no design reason."
- },
- {
-  "id": "white-cross-orphanage",
-  "qid": "Q17047941",
-  "status": "skip",
-  "why": "Childcare agency; the lead gives no design reason."
- },
- {
-  "id": "saint-thomas-church-tehran",
-  "qid": "Q17993311",
-  "status": "skip",
-  "why": "Lead gives the consecration year and the church's affiliation only; no photos."
- },
- {
-  "id": "fronton-mexico",
-  "qid": "Q19949971",
-  "status": "skip",
-  "why": "Lead gives a first (covered venue for big sports events) and its later use, not a design reason; sports venue.",
-  "dup_flag": "near=(132, 'monumento-a-la-revolucion', 'Monumento a la Revolución')"
- },
- {
-  "id": "palacio-brasil",
-  "qid": "Q2046758",
-  "status": "skip",
-  "why": "Lead gives historic eclecticism and a municipal listing; not a modern work or key precedent.",
-  "dup_flag": "near=(96, 'palacio-lapido', 'Edificio Lapido (Palacio Lapido)')"
- },
- {
-  "id": "palacio-pietracaprina",
-  "qid": "Q2046776",
-  "status": "skip",
-  "why": "Lead gives historic eclecticism; not a modern work or key precedent."
- },
- {
-  "id": "america-cultural-center",
-  "qid": "Q21572961",
-  "status": "skip",
-  "why": "Lead says only 'significant building'."
- },
- {
-  "id": "palace-of-said-halim-pasha",
-  "qid": "Q25454722",
-  "status": "skip",
-  "why": "Empty lead."
- },
- {
-  "id": "mercado-central-de-lima",
-  "qid": "Q26213817",
-  "status": "skip",
-  "why": "Lead describes the basement and ramps but gives no reason it matters."
- },
- {
-  "id": "june-19-building",
-  "qid": "Q392521",
-  "status": "skip",
-  "why": "Lead gives a competition, dates and the bank's use; no design reason."
- },
- {
-  "id": "teatro-victoria-hall",
-  "qid": "Q42974576",
-  "status": "skip",
-  "why": "Lead says only 'historic building'."
- },
- {
-  "id": "faculty-of-fine-arts-university-of-dhaka",
-  "qid": "Q4796888",
-  "status": "skip",
-  "why": "Lead gives the school's history as the first art school in the region; the architect is named but no design reason is given.",
-  "dup_flag": "wiki=faculty-of-fine-arts-university-of-dhaka"
- },
- {
-  "id": "coliseo-la-tortuga",
-  "qid": "Q5145752",
+  "id": "koga-history-museum",
+  "qid": "Q11411385",
   "status": "photo",
-  "why": "Lead gives the distinctive turtle-shell roof and the arena's size as the reason it stands out. The photo is a daylight view of the whole building with palms in front and no people. Year null: the lead gives no completion year (Wikidata says 1980). Movement is my choice; the lead names none.",
-  "name": "Coliseo La Tortuga",
-  "by": "José Llambías",
-  "city": "Talcahuano",
-  "cc": "CL",
-  "year": null,
-  "type": "Culture & sport",
-  "movement": "Late modernism",
+  "why": "AIJ Prize 1992 (Japanese lead); the lead gives the 1990 opening and the castle site.",
+  "name": "Koga History Museum",
+  "by": "Keiji Yoshida",
+  "city": "Koga",
+  "cc": "JP",
+  "year": 1990,
+  "type": "Museum",
+  "movement": "Regionalism",
   "concepts": [
-   "Sculptural form",
-   "Monumentality",
+   "Courtyard",
+   "Landscape",
    "Public space"
   ],
-  "features": "Renowned for its distinctive roof, shaped like a turtle's shell, and until recently Chile's largest building of its kind.",
-  "commons_category": "Category:Coliseo Monumental La Tortuga",
+  "features": "Museum on the former Suwa enclosure of Koga Castle, designed by Keiji Yoshida; won a 1992 architecture prize.",
+  "commons_category": "Category:Koga History Museum",
   "coords": [
-   -36.72,
-   -73.10861
+   36.19142,
+   139.70126
   ],
   "photos": [
    {
-    "file": "File:Coliseo La Tortuga (6972409366).jpg",
+    "file": "File:Koga History Museum 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Koga History Museum 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kirara-genki-dome",
+  "qid": "Q11466574",
+  "status": "photo",
+  "why": "BCS Prize; the Japanese lead describes a dome-shaped indoor sports ground in the memorial park. Year null (not in the lead).",
+  "name": "Kirara Genki Dome",
+  "by": "Nihon Sekkei",
+  "city": "Yamaguchi",
+  "cc": "JP",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Community"
+  ],
+  "features": "Dome-shaped indoor sports ground in Kirara Expo Memorial Park, Yamaguchi; won the BCS Prize.",
+  "commons_category": "Category:Kirara Genki Dome",
+  "coords": [
+   34.00467,
+   131.37081
+  ],
+  "photos": [
+   {
+    "file": "File:Kirara Genki Dome from Moon Sea 20181014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:きららドーム - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yamaguchi Kirara EXPO Memorial Park.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokohama-stadium",
+  "qid": "Q1148681",
+  "status": "photo",
+  "why": "BCS Prize; the lead says it opened in 1978 and is the BayStars home ground.",
+  "name": "Yokohama Stadium",
+  "by": "Shimizu Corporation, Taisei Corporation",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": 1978,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Yokohama baseball stadium, home of the BayStars and nicknamed Hamastar, that won the BCS Prize.",
+  "commons_category": "Category:Yokohama Stadium",
+  "coords": [
+   35.44343,
+   139.6401
+  ],
+  "photos": [
+   {
+    "file": "File:Yokohama Stadium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yokohama Stadium, Baseball Stadium.jpg",
     "license": "CC BY-SA 2.0",
     "seen": true
    }
   ]
  },
  {
-  "id": "casa-del-arte",
-  "qid": "Q5390424",
-  "status": "skip",
-  "why": "Lead gives the museum's collection and a mural by another artist; no design reason."
+  "id": "sai-no-kuni-saitama-arts-theater",
+  "qid": "Q11487971",
+  "status": "photo",
+  "why": "AIJ Prize; the Japanese lead names the prefectural performing arts complex; the lead gives no year (finished before Saitama city was formed).",
+  "name": "Sai-no-Kuni Saitama Arts Theater",
+  "by": "Hisao Kōyama",
+  "city": "Saitama",
+  "cc": "JP",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Community"
+  ],
+  "features": "Saitama prefectural performing arts complex that won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Sai-no-Kuni Saitama Arts Theater",
+  "coords": [
+   35.87722,
+   139.62189
+  ],
+  "photos": [
+   {
+    "file": "File:Sai-no-Kuni Saitama Arts Theater 01.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Japanese Sai-no-Kuni Saitama Arts Theater.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sai-no-Kuni Saitama Arts Theater 02.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "campanil",
-  "qid": "Q5742578",
-  "status": "skip",
-  "why": "Lead gives a bell tower and the campus's listing; no design reason."
+  "id": "niigata-city-art-museum",
+  "qid": "Q11502938",
+  "status": "photo",
+  "why": "BCS Prize; the Japanese lead gives the former prison site; no year in the lead. Only one photo.",
+  "name": "Niigata City Art Museum",
+  "by": "Kunio Maekawa",
+  "city": "Niigata",
+  "cc": "JP",
+  "year": null,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "Niigata city art museum built on the former site of Niigata prison; won the BCS Prize.",
+  "commons_category": null,
+  "coords": [
+   37.92842,
+   139.04172
+  ],
+  "photos": [
+   {
+    "file": "File:Niigata City Art Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "edificio-javier-alzamora-valdez",
-  "qid": "Q5817991",
-  "status": "skip",
-  "why": "Lead gives the former ministry and current court use; no design reason."
+  "id": "otemachi-tower",
+  "qid": "Q11524377",
+  "status": "photo",
+  "why": "BCS Prize; the lead covers the tower, shops and hotel; no completion year in the lead, so year is null.",
+  "name": "Otemachi Tower",
+  "by": "Kohn Pedersen Fox",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "38-storey office tower, headquarters of Mizuho Bank, with shops, restaurants and a luxury hotel; won the BCS Prize.",
+  "commons_category": "Category:Ōtemachi Tower",
+  "coords": [
+   35.68561,
+   139.76528
+  ],
+  "photos": [
+   {
+    "file": "File:The Otemachi Tower.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chiyoda Tokyo August 2014 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "edificio-rimac",
-  "qid": "Q5818277",
-  "status": "skip",
-  "why": "Lead gives the location and the insurer that owns it; no design reason.",
-  "dup_flag": "near=(140, 'civic-center-of-lima', 'Civic Center of Lima')"
+  "id": "kurita-museum",
+  "qid": "Q11536081",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives the 1975 opening and the porcelain collection; the Japanese lead names no architect, so Wikidata's is used.",
+  "name": "Kurita Museum",
+  "by": "Kajima Corporation",
+  "city": "Ashikaga",
+  "cc": "JP",
+  "year": 1975,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Museum of Imari and Nabeshima porcelain, opened in Ashikaga in 1975; won the BCS Prize.",
+  "commons_category": "Category:Kurita Museum",
+  "coords": [
+   36.31668,
+   139.52163
+  ],
+  "photos": [
+   {
+    "file": "File:Ashikaga Kurita Museum Main Building 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ashikaga Kurita Museum Ceramic House 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ashikaga Kurita Museum Archives 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "benjamin-carrion-palace",
-  "qid": "Q6057593",
-  "status": "skip",
-  "why": "Lead gives a palace and museum named after a writer; no design reason."
+  "id": "uemura-naomi-memorial-museum",
+  "qid": "Q11540592",
+  "status": "photo",
+  "why": "Prize in awards; the lead gives the 1994 opening; photos show the whole museum outside.",
+  "name": "Uemura Naomi Memorial Museum",
+  "by": "Akira Kuryu",
+  "city": "Toyooka",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Exposed concrete",
+   "Light from above"
+  ],
+  "features": "Museum honouring the adventurer Naomi Uemura, opened in 1994 in a sports park; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Uemura Naomi Memorial Museum",
+  "coords": [
+   35.46139,
+   134.73217
+  ],
+  "photos": [
+   {
+    "file": "File:130914 Uemura Naomi Memorial Museum Toyooka Hyogo pref Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:130914 Uemura Naomi Memorial Museum Toyooka Hyogo pref Japan02bs5.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "oxford-mission-epiphany-cathedral",
-  "qid": "Q60770408",
-  "status": "skip",
-  "why": "Lead gives the church's size and history; no design reason."
+  "id": "seto-inland-sea-folk-history-museum",
+  "qid": "Q11566553",
+  "status": "photo",
+  "why": "Lead names the architect and an AIJ Prize; year from the lead (established 1973).",
+  "name": "Seto Inland Sea Folk History Museum",
+  "by": "Tadashi Yamamoto",
+  "city": "Takamatsu",
+  "cc": "JP",
+  "year": 1973,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Stone",
+   "Landscape"
+  ],
+  "features": "Museum on the Goshikidai Plateau in Setonaikai National Park, designed by athlete-architect Tadashi Yamamoto.",
+  "commons_category": "Category:Seto Inland Sea Folk History Museum",
+  "coords": [
+   34.37822,
+   133.93098
+  ],
+  "photos": [
+   {
+    "file": "File:Gosikidai31.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Japan Goshikidai 瀬戸内海歴史民俗資料館（１）.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "church-of-our-lady-of-carmen-bogota",
-  "qid": "Q6121481",
-  "status": "skip",
-  "why": "Lead gives a historicist Florentine Gothic style; not a modern work or key precedent."
+  "id": "fuji-harness",
+  "qid": "Q11581695",
+  "status": "photo",
+  "why": "Prize in awards; the lead gives no year, so the Wikidata year 2006 is used. One usable photo.",
+  "name": "Fuji Harness",
+  "by": "Manabu Chiba",
+  "city": "Fujinomiya",
+  "cc": "JP",
+  "year": 2006,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Guide-dog centre in Fujinomiya, Shizuoka, run by the Japan Guide Dog Association; won an Architectural Institute of Japan Prize.",
+  "commons_category": null,
+  "coords": [
+   35.34469,
+   138.59564
+  ],
+  "photos": [
+   {
+    "file": "File:Fuji-harness.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "miguel-young-theatre-fray-bentos",
-  "qid": "Q6139801",
-  "status": "skip",
-  "why": "Lead gives the plans and the refurbishment; no design reason."
+  "id": "kushiro-city-museum",
+  "qid": "Q11648285",
+  "status": "unsure",
+  "why": "Architect Kikō Mozuna and year 1936 come from Wikidata; the lead dates the new museum building to 1983 and names no architect, so the architect may not fit. Check before keeping. AIJ Prize in awards."
  },
  {
-  "id": "aisha-fahmy-palace",
-  "qid": "Q68167665",
-  "status": "skip",
-  "why": "Empty lead."
+  "id": "nagano-city-museum",
+  "qid": "Q11654184",
+  "status": "photo",
+  "why": "Prize in awards; the lead gives no year, so the Wikidata year 1981 is used.",
+  "name": "Nagano City Museum",
+  "by": "Tadanaga Miyamoto",
+  "city": "Nagano",
+  "cc": "JP",
+  "year": 1981,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Landscape",
+   "Cluster",
+   "Earth & local material"
+  ],
+  "features": "Museum studying the relationship between people and nature in the Nagano basin; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Nagano City Museum",
+  "coords": [
+   36.59156,
+   138.18792
+  ],
+  "photos": [
+   {
+    "file": "File:Nagano City Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagano City Museum No,1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "ermita-church",
-  "qid": "Q7110828",
-  "status": "skip",
-  "why": "Lead gives the shrine and its Marian image; no design reason."
+  "id": "koshinokuni-museum-of-literature",
+  "qid": "Q11669915",
+  "status": "unsure",
+  "why": "BCS Prize (Japan) in awards, but there is no photo in prep at all; the lead is short and describes no design.",
+  "note": "no main photo"
  },
  {
-  "id": "port-tewfik-memorial",
-  "qid": "Q7230979",
-  "status": "skip",
-  "why": "Lead says the memorial was destroyed; war memorial."
+  "id": "malmo-city-library",
+  "qid": "Q119684",
+  "status": "photo",
+  "why": "Kasper Salin Prize in awards; the lead gives the 1905 opening.",
+  "name": "Malmö City Library",
+  "by": "John Smedberg",
+  "city": "Malmö",
+  "cc": "SE",
+  "year": 1905,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Public space",
+   "Light & shadow"
+  ],
+  "features": "Municipal library opened in 1905 that became Sweden's first to lend video games in 2006; won the Kasper Salin Prize.",
+  "commons_category": "Category:Malmö City Library",
+  "coords": [
+   55.60056,
+   12.99444
+  ],
+  "photos": [
+   {
+    "file": "File:Malmö City Library.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Malmö stadsbibliotek (53475971249).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "university-of-tehran-main-entrance",
-  "qid": "Q7896409",
-  "status": "skip",
-  "why": "Lead describes the university, not the gate."
+  "id": "yokohama-arena",
+  "qid": "Q1196914",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives the 1989 opening. Arena, kept on the prize.",
+  "name": "Yokohama Arena",
+  "by": "Takenaka Corporation",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Yokohama indoor arena opened in 1989, modelled on Madison Square Garden; won the BCS Prize (Japan).",
+  "commons_category": "Category:Yokohama Arena",
+  "coords": [
+   35.51239,
+   139.62006
+  ],
+  "photos": [
+   {
+    "file": "File:Yokohama Arena 2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:View of Yokohama Arena from the south - Aug 10, 2024.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yokohama Arena, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
  },
  {
-  "id": "cripta-de-los-heroes",
-  "qid": "Q94287573",
+  "id": "ibsenkvartalet",
+  "qid": "Q11976766",
   "status": "skip",
-  "why": "Cemetery and monument; the lead gives no design reason for the building."
+  "why": "Lead is empty; skip."
  },
  {
-  "id": "huaura-museum",
-  "qid": "Q94954807",
+  "id": "solvberget-bibliotek-og-kulturhus",
+  "qid": "Q12002798",
   "status": "skip",
-  "why": "Lead gives a historic house and a war museum; listed monument."
+  "why": "Lead is empty; skip."
  },
  {
-  "id": "palacio-municipal-de-miraflores",
-  "qid": "Q98949092",
+  "id": "storetveit-church",
+  "qid": "Q12003436",
+  "status": "photo",
+  "why": "Houen Foundation diploma in awards; the lead names the architect and gives 1930.",
+  "name": "Storetveit Church",
+  "by": "Ole Landmark",
+  "city": "Bergen",
+  "cc": "NO",
+  "year": 1930,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Axis",
+   "Light & shadow"
+  ],
+  "features": "Stone parish church in Bergen, built in 1930 to plans by Ole Landmark, seating about 600 people.",
+  "commons_category": "Category:Storetveit kirke",
+  "coords": [
+   60.35161,
+   5.34468
+  ],
+  "photos": [
+   {
+    "file": "File:Storetveit kirke.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Storetveit kirke 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "avoriaz",
+  "qid": "Q127037",
   "status": "skip",
-  "why": "City hall; the lead gives its use and a monument listing only."
+  "why": "A ski resort, a place rather than a building."
+ },
+ {
+  "id": "mizuho-paypay-dome-fukuoka",
+  "qid": "Q1365961",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead says it is Japan's first retractable-roof stadium, built 1993. Exteriors only.",
+  "name": "Mizuho PayPay Dome Fukuoka",
+  "by": "Takenaka Corporation, Maeda Corporation",
+  "city": "Fukuoka",
+  "cc": "JP",
+  "year": 1993,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Sculptural form",
+   "Structure as expression"
+  ],
+  "features": "Japan's first stadium with a retractable roof, built in 1993; won the BCS Prize (Japan).",
+  "commons_category": "Category:Fukuoka Dome",
+  "coords": [
+   33.59528,
+   130.36222
+  ],
+  "photos": [
+   {
+    "file": "File:Fukuoka dome - alt - 2024 Sep 25 various.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fukuoka Dome - 2024 September 25 various 16 37 18 744000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "national-theatre-of-japan",
+  "qid": "Q1369225",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives no year, so the Wikidata year 1966 is used. One clean exterior photo.",
+  "name": "National Theatre of Japan",
+  "by": "Takenaka Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1966,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Japan's national theatre for traditional performing arts, in Hayabusachō, Tokyo; won the BCS Prize (Japan).",
+  "commons_category": "Category:National Theatre of Japan",
+  "coords": [
+   35.68139,
+   139.74306
+  ],
+  "photos": [
+   {
+    "file": "File:2018 National Theatre of Japan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-of-ethnography-sweden",
+  "qid": "Q1371375",
+  "status": "photo",
+  "why": "Kasper Salin Prize in awards; the lead gives no year, so the Wikidata year 1900 is used; it may be a founding year, check.",
+  "name": "Museum of Ethnography, Sweden",
+  "by": "Jan Gezelius, Gunnar Mattsson",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1900,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Stockholm ethnography museum with about 220,000 items, in Museiparken; won the Kasper Salin Prize.",
+  "commons_category": "Category:Etnografiska museet",
+  "coords": [
+   59.33258,
+   18.12072
+  ],
+  "photos": [
+   {
+    "file": "File:Etnografiska museet 2007.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografiska museet - Stockholm, Sweden - DSC00769.JPG",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Etnografiska museet, dec 2019b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "piperviken-smakirke",
+  "qid": "Q14366694",
+  "status": "skip",
+  "why": "Demolished in 1959, per the lead.",
+  "dup_flag": "near=(133, 'national-museum-architecture', 'National Museum – Architecture')"
+ },
+ {
+  "id": "stade-de-la-licorne",
+  "qid": "Q1568249",
+  "status": "unsure",
+  "why": "Mies van der Rohe Award and a roof the lead calls striking; the main shot is a match inside the stadium, and only p4 is outside, partial, across a canal.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museum-of-contemporary-art-tokyo",
+  "qid": "Q1649688",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives the March 1995 opening. Wikidata's located city (Miyoshi) is wrong; the lead says Koto, Tokyo.",
+  "name": "Museum of Contemporary Art Tokyo",
+  "by": "Takahiko Yanagisawa",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "One of Japan's largest contemporary art museums, opened in 1995 in Kiba Park; won the BCS Prize (Japan).",
+  "commons_category": "Category:Museum of Contemporary Art Tokyo",
+  "coords": [
+   35.68,
+   139.80806
+  ],
+  "photos": [
+   {
+    "file": "File:Museum of Contemporary Art Tokyo 2009.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "toranomon-hills",
+  "qid": "Q16724433",
+  "status": "photo",
+  "why": "BCS Prize in awards; year 2014 is the Mori Tower's (lead); other towers are later. City from the lead (Toranomon is a district).",
+  "name": "Toranomon Hills",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2014,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Mixed-use Tokyo complex whose Mori Tower (2014) was designed by Nihon Sekkei; won the BCS Prize (Japan).",
+  "commons_category": "Category:Toranomon Hills",
+  "coords": [
+   35.6669,
+   139.749
+  ],
+  "photos": [
+   {
+    "file": "File:Toranomon Hills.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toranomon Hills 3 towers.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:虎ノ門ヒルズ全景2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "asker-krematorium",
+  "qid": "Q17194516",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "convento-del-rollo",
+  "qid": "Q17374348",
+  "status": "unsure",
+  "why": "Lead names Antonio Fernández Alba and gives only a design year (1962), not a completion year; photos are plans, a section and a close detail.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ryogoku-kokugikan",
+  "qid": "Q176821",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives 1985 for the second hall (Wikidata says 1984). Architect is Wikidata's contractor; the lead names no architect.",
+  "name": "Ryōgoku Kokugikan",
+  "by": "Kajima Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1985,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Structure as expression",
+   "Public space"
+  ],
+  "features": "Tokyo's sumo arena, opened in 1985 next to the Edo-Tokyo Museum; won the BCS Prize (Japan).",
+  "commons_category": "Category:Ryogoku Kokugikan",
+  "coords": [
+   35.69694,
+   139.79333
+  ],
+  "photos": [
+   {
+    "file": "File:Ryogoku Great Sumo Hall.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ryogoku Kokugikan - 9633800303.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grand-hotel-terminus",
+  "qid": "Q17778289",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "holmlia-railway-halt",
+  "qid": "Q1778962",
+  "status": "unsure",
+  "why": "Lead credits Arne Henriksen's award-winning superstructure at the all-new station (1982); no photo clearly shows the station from outside.",
+  "note": "no main photo"
+ },
+ {
+  "id": "politihuset-oslo",
+  "qid": "Q18011222",
+  "status": "photo",
+  "why": "Houen prize (lead and awards); the lead gives 1978.",
+  "name": "Politihuset, Oslo",
+  "by": "Telje-Torp-Aasen Arkitektkontor",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": 1978,
+  "type": "Civic",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Oslo police headquarters, completed in 1978; won the Houen architecture prize in 1982.",
+  "commons_category": "Category:Politihuset, Oslo",
+  "coords": [
+   59.91081,
+   10.77026
+  ],
+  "photos": [
+   {
+    "file": "File:Grønlandsleiret 44 – Grønland politistasjon (21. oktober 2018).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grønland politistasjon, Grønlandsleiret 44, Oslo.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Norway, police department.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haneda-chronogate",
+  "qid": "Q18338867",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead gives the 20 September 2013 completion. Logistics building kept on the prize. Wikidata's city (Ota) is a ward; the lead says Tokyo.",
+  "name": "Haneda chronogate",
+  "by": "Nikken Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2013,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Modular",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Yamato Group logistics hub, one of Japan's largest, completed in September 2013; won the BCS Prize (Japan).",
+  "commons_category": "Category:Haneda Chronogate",
+  "coords": [
+   35.55328,
+   139.75083
+  ],
+  "photos": [
+   {
+    "file": "File:Haneda chronogate,20140618.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Haneda Chronogate.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sundt-varemagasin",
+  "qid": "Q19391123",
+  "status": "photo",
+  "why": "Houen Foundation diploma in awards; the German lead is one line; no year in lead or Wikidata. Photos are historic daylight street views.",
+  "name": "Sundt varemagasin",
+  "by": "Per Grieg",
+  "city": "Bergen",
+  "cc": "NO",
+  "year": null,
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "A listed department store in Bergen; won a Houen Foundation diploma.",
+  "commons_category": "Category:Sundt varemagasin",
+  "coords": [
+   60.39213,
+   5.32378
+  ],
+  "photos": [
+   {
+    "file": "File:Bergen - no-nb digifoto 20150206 00131 NB MIT FNR 18952.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bergen - no-nb digifoto 20151021 00232 NB MIT FNR 10108.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Bergen - no-nb digifoto 20151021 00241 NB MIT FNR 10107.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tonsberg-and-faerder-public-library",
+  "qid": "Q19393712",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "holmsbu-billedgalleri",
+  "qid": "Q2051767",
+  "status": "skip",
+  "why": "Lead is empty; skip."
+ },
+ {
+  "id": "chateau-de-blerancourt",
+  "qid": "Q2056655",
+  "status": "photo",
+  "why": "Équerre d'argent in awards; Salomon de Brosse is a well-known architect; no year in lead or Wikidata.",
+  "name": "Château de Blérancourt",
+  "by": "Salomon de Brosse",
+  "city": "Blérancourt",
+  "cc": "FR",
+  "year": null,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Landscape",
+   "Monumentality"
+  ],
+  "features": "Former château of the dukes of Gesvres, now home to a Franco-American museum; won the Équerre d'argent.",
+  "commons_category": "Category:Château de Blérancourt",
+  "coords": [
+   49.5179,
+   3.1547
+  ],
+  "photos": [
+   {
+    "file": "File:Château de Blérancourt 2022 - 07.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Château de Blérancourt 2022 - 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hong-kong-west-kowloon-station",
+  "qid": "Q2130136",
+  "status": "photo",
+  "why": "World Architecture Festival in awards; year 2018 from Wikidata (lead gives none). Aedas from Wikidata. Country from the lead (Hong Kong, HK).",
+  "name": "Hong Kong West Kowloon station",
+  "by": "Aedas",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": 2018,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Cross-border high-speed rail terminus with 430,000 square metres of floor area; won a World Architecture Festival award.",
+  "commons_category": "Category:Hong Kong West Kowloon Station",
+  "coords": [
+   22.3036,
+   114.165
+  ],
+  "photos": [
+   {
+    "file": "File:Hong Kong West Kowloon Station view 201810.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grande-arche",
+  "qid": "Q216357",
+  "status": "unsure",
+  "why": "Mies van der Rohe Award and named architects; the lead calls it a monument and a building; the wide shot shows the arch small at the end of an avenue, others show people or a canopy.",
+  "note": "no main photo",
+  "dup_flag": "wiki=grande-arche"
+ },
+ {
+  "id": "sano-city-museum",
+  "qid": "Q21653203",
+  "status": "photo",
+  "why": "AIJ Prize in awards and the lead (1984); the lead gives the November 1983 opening.",
+  "name": "Sano City Museum",
+  "by": "Tadahiro Tō",
+  "city": "Sano",
+  "cc": "JP",
+  "year": 1983,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Stone"
+  ],
+  "features": "Local history museum in Sano, opened in 1983; won the Architectural Institute of Japan Prize in 1984.",
+  "commons_category": "Category:Sano City Museum",
+  "coords": [
+   36.31278,
+   139.565
+  ],
+  "photos": [
+   {
+    "file": "File:Sano City Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "shinjuku-mitsui-building",
+  "qid": "Q2413330",
+  "status": "photo",
+  "why": "AIJ Prize in awards; the lead says tallest from September 1974, so 1974 fits. City from the lead (Nishi-Shinjuku is a district).",
+  "name": "Shinjuku Mitsui Building",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1974,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Black-braced Tokyo tower that was Japan's tallest from 1974 to 1978; won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Shinjuku Mitsui Building",
+  "coords": [
+   35.6919,
+   139.6939
+  ],
+  "photos": [
+   {
+    "file": "File:Shinjuku Mitsui Building 2009 02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shinjuku Mitsui Building, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(171, 'shinjuku-ns-building', 'Shinjuku NS Building')"
+ },
+ {
+  "id": "zenith-paris",
+  "qid": "Q247566",
+  "status": "unsure",
+  "why": "Équerre d'argent in awards; the main shows a crowd and a political banner; the outside shots are distant with the city behind.",
+  "note": "no main photo"
+ },
+ {
+  "id": "hibiya-park-building",
+  "qid": "Q24874145",
+  "status": "skip",
+  "why": "Demolished in 2003, per the lead."
+ },
+ {
+  "id": "jardi-botanic-de-barcelona",
+  "qid": "Q2605209",
+  "status": "skip",
+  "why": "A botanical garden, a park rather than a building."
+ },
+ {
+  "id": "nittele-tower",
+  "qid": "Q2913644",
+  "status": "photo",
+  "why": "BCS Prize in awards; the lead names Richard Rogers and gives completion in 2003.",
+  "name": "Nittele Tower",
+  "by": "Richard Rogers, Mitsubishi Jisho Design",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2003,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "Structural expressionist TV headquarters, 192 m tall, with dampers designed by Richard Rogers Partnership.",
+  "commons_category": "Category:Shiodome NTV Tower",
+  "coords": [
+   35.66442,
+   139.75991
+  ],
+  "photos": [
+   {
+    "file": "File:Nippon TV Tower.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NTV Tower 20200801-2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:NTV Tower 20201112-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "clarion-hotel-the-hub-oslo",
+  "qid": "Q3145659",
+  "status": "photo",
+  "why": "Houen Foundation diploma in awards; the lead is one line; year 1951 from Wikidata only. Kept on the prize; one usable photo.",
+  "name": "Clarion Hotel The Hub (Oslo)",
+  "by": "Knut Knutsen",
+  "city": "Oslo",
+  "cc": "NO",
+  "year": 1951,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Brick",
+   "Monumentality"
+  ],
+  "features": "A hotel on Biskop Gunnerus' gate in Oslo; won a Houen Foundation diploma.",
+  "commons_category": "Category:Hotel Royal Christiania",
+  "coords": [
+   59.915,
+   10.73972
+  ],
+  "photos": [
+   {
+    "file": "File:Jernbanetorget Oslo 4.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "suntec-city",
+  "qid": "Q3268183",
+  "status": "photo",
+  "why": "World Architecture Festival in awards; the lead gives completion on 22 July 1997; architect from Wikidata.",
+  "name": "Suntec City",
+  "by": "Tsao & McKown Architects",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": 1997,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Mixed-use Singapore development of a mall, offices and a convention centre; won a World Architecture Festival award.",
+  "commons_category": "Category:Suntec City",
+  "coords": [
+   1.29472,
+   103.85889
+  ],
+  "photos": [
+   {
+    "file": "File:Suntec City.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Singapore Suntec City 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Singapore Suntec City 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "feru-des-sciences",
+  "qid": "Q3329826",
+  "status": "photo",
+  "why": "Équerre d'argent prize (named design reason); exterior daylight photo is p6, the only outside view.",
+  "name": "Féru des Sciences",
+  "by": "Jacques and Michel André, Claude Prouvé",
+  "city": "Jarville-la-Malgrange",
+  "cc": "FR",
+  "year": 1966,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Iron-history museum in Parc de Montaigu, covering iron from the Middle Ages to the 20th century; an Équerre d'argent winner.",
+  "commons_category": "Category:Musée de l'histoire du fer",
+  "coords": [
+   48.6667,
+   6.20889
+  ],
+  "photos": [
+   {
+    "file": "File:Musée de l'histoire du fer 2018a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tour-bois-le-pretre",
+  "qid": "Q3533028",
+  "status": "unsure",
+  "why": "Main photo fails: the street and a bus fill the frame and the tower is cut off at the top; the other photo is a street sign. Lead names no original designer; the 2009 to 2011 renovation is not credited by name.",
+  "note": "no main photo"
+ },
+ {
+  "id": "eglise-sainte-agnes-de-fontaine-les-gres",
+  "qid": "Q3584891",
+  "status": "unsure",
+  "why": "No photos at all. Lead is one line with no date. Équerre d'argent prize listed, but nothing shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museum-van-bibracte",
+  "qid": "Q36078579",
+  "status": "photo",
+  "why": "Lead (nl) says it is a modern building opened 1995 by Mitterrand, designed by Faloci; Prix de l'Équerre d'Argent listed; exterior photo p2 passes.",
+  "name": "Museum van Bibracte",
+  "by": "Pierre-Louis Faloci",
+  "city": "Saint-Léger-sous-Beuvray",
+  "cc": "FR",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Earth & local material"
+  ],
+  "features": "Modern museum beside the Bibracte dig, built of concrete, wood, glass and stone; won an Équerre d'argent prize.",
+  "commons_category": "Category:Musée de la civilisation celtique de Bibracte",
+  "coords": [
+   46.93249,
+   4.04751
+  ],
+  "photos": [
+   {
+    "file": "File:Musée de Bibracte 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "auditorio-alfredo-kraus",
+  "qid": "Q3629501",
+  "status": "photo",
+  "why": "Lead gives the lighthouse idea and the Atlantic window; opened 5 Dec 1997; National Architecture Award of Spain listed. Daylight exterior p1 and p2.",
+  "name": "Auditorio Alfredo Kraus",
+  "by": "Òscar Tusquets",
+  "city": "Las Palmas de Gran Canaria",
+  "cc": "ES",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Concert hall conceived as a lighthouse to protect Las Canteras beach, with a 100 m² window onto the Atlantic.",
+  "commons_category": "Category:Auditorio Alfredo Kraus y Palacio de Congresos de Canarias",
+  "coords": [
+   28.13012,
+   -15.44912
+  ],
+  "photos": [
+   {
+    "file": "File:Alfredo Kraus auditorium D81 5105 (39597837581).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Alfredo Kraus auditorium D81 5108 (38889644124).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "88-wood-street",
+  "qid": "Q4645063",
+  "status": "photo",
+  "why": "Rogers office tower; lead says built 1993 to 2001 (year = completion 2001, not the Wikidata 1998); Stirling Prize listed; street view p1 passes.",
+  "name": "88 Wood Street",
+  "by": "Rogers Stirk Harbour + Partners, Richard Rogers, Graham Stirk",
+  "city": "London",
+  "cc": "GB",
+  "year": 2001,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Colour"
+  ],
+  "features": "Richard Rogers's 18-storey City of London office tower, a Stirling Prize winner, with 33,000 m² of office space.",
+  "commons_category": "Category:88 Wood Street",
+  "coords": [
+   51.5153,
+   -0.095
+  ],
+  "photos": [
+   {
+    "file": "File:88 Wood Street (14971416428).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:88 Wood St, London.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "okayama-orient-museum",
+  "qid": "Q4707582",
+  "status": "photo",
+  "why": "Lead says built 1979 from a prize-winning design by Okada Architect & Associates; BCS Prize listed; daylight exteriors p0 and p1.",
+  "name": "Okayama Orient Museum",
+  "by": "Shin'ichi Okada",
+  "city": "Okayama",
+  "cc": "JP",
+  "year": 1979,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Light from above"
+  ],
+  "features": "Museum of ancient Near Eastern art, built in 1979 from a prize-winning design by Okada Architect & Associates.",
+  "commons_category": "Category:Okayama Orient Museum",
+  "coords": [
+   34.66639,
+   133.93
+  ],
+  "photos": [
+   {
+    "file": "File:160319 Okayama Orient Museum Okayama Japan02n.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:160319 Okayama Orient Museum Okayama Japan01n.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(126, 'okayama-symphony-hall', 'Okayama Symphony Hall')"
+ },
+ {
+  "id": "museo-del-traje-building",
+  "qid": "Q48005642",
+  "status": "skip",
+  "why": "Lead is empty. Only the photo and Wikidata facts are available; a building with no lead is skipped."
+ },
+ {
+  "id": "amsterdam-bijlmer-arena-station",
+  "qid": "Q50723",
+  "status": "unsure",
+  "why": "Year unclear: the lead's 1971 is the period of the earlier name Amsterdam Bijlmer, and the lead does not date the Grimshaw building. The main photo shows only a street-level view with the station cut off.",
+  "note": "year and main photo unclear"
+ },
+ {
+  "id": "victoria-leeds",
+  "qid": "Q5330673",
+  "status": "skip",
+  "why": "A shopping district of several buildings, not one building; the photos show the riverside, not the arcades.",
+  "dup_flag": "wiki=victoria-gate-leeds"
+ },
+ {
+  "id": "european-film-college",
+  "qid": "Q5412596",
+  "status": "unsure",
+  "why": "No photos at all. Lead is short and names no architect; Mies van der Rohe Award listed, but nothing shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "general-motors-technical-center",
+  "qid": "Q5532055",
+  "status": "photo",
+  "why": "Lead says Eero Saarinen designed it (the lead also names Eliel Saarinen for 1944 first plans, not a conflict); AIA Twenty-five Year Award listed; year null because the lead gives only stages. Daylight exterior p0.",
+  "name": "General Motors Technical Center",
+  "by": "Eero Saarinen",
+  "city": "Warren",
+  "cc": "US",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Cluster"
+  ],
+  "features": "Warren campus by Eero Saarinen, opened in stages from the 1950s to the 1970s; won an AIA Twenty-five Year Award.",
+  "commons_category": "Category:General Motors Technical Center",
+  "coords": [
+   42.51333,
+   -83.03778
+  ],
+  "photos": [
+   {
+    "file": "File:Warren - General Motors Technical Center (50826111923).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grand-prince-hotel-akasaka",
+  "qid": "Q555225",
+  "status": "skip",
+  "why": "Demolished: the lead says the hotel closed and was deconstructed, and the site is now a new development."
+ },
+ {
+  "id": "ariake-gymnastics-centre",
+  "qid": "Q55532859",
+  "status": "photo",
+  "why": "Lead gives the Olympic use and the 2019 opening; BCS Prize listed (named prize counts as the design reason); daylight exteriors p0 and p2.",
+  "name": "Ariake Gymnastics Centre",
+  "by": "Nikken Sekkei, Shimizu Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2019,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Structure as expression",
+   "Sculptural form"
+  ],
+  "features": "Built for the 2020 Olympic gymnastics, later an exhibition hall; won a BCS Prize.",
+  "commons_category": "Category:Ariake Gymnastics Centre",
+  "coords": [
+   35.6414,
+   139.7917
+  ],
+  "photos": [
+   {
+    "file": "File:Olympic Gymnastic Centre 191128a1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ariake Gymnastics Centre 20231022.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "central-termica-de-la-ciudad-universitaria-de-madrid",
+  "qid": "Q5760755",
+  "status": "photo",
+  "why": "Lead (es) says built 1932 for the urban heating of the university buildings; Premio Nacional de Arquitectura listed; brick exteriors p0 and p1.",
+  "name": "Central Térmica de la Ciudad Universitaria de Madrid",
+  "by": "Manuel Sánchez Arcas, Eduardo Torroja",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1932,
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Monumentality",
+   "Structure as expression"
+  ],
+  "features": "1932 heating plant for Madrid's University City, an important part of its urban plan; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Heating plant of Ciudad Universitaria de Madrid",
+  "coords": [
+   40.44694,
+   -3.72389
+  ],
+  "photos": [
+   {
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 1.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   },
+   {
+    "file": "File:Central térmica de la Ciudad Universitaria de Madrid 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "colegio-mayor-universitario-santo-tomas-de-aquino",
+  "qid": "Q5777004",
+  "status": "photo",
+  "why": "Lead (es) names the Dominican residence in the University City; Premio Nacional de Arquitectura listed; year 1951 from Wikidata (lead gives none); daylight exteriors p1 and p6, sign photo p0 rejected.",
+  "name": "Colegio Mayor Universitario Santo Tomás de Aquino",
+  "by": "José María García de Paredes, Rafael de La-Hoz Arderius",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 1951,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Planting",
+   "Landscape"
+  ],
+  "features": "Mixed student residence of the Dominican order in Madrid's University City; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Colegio Mayor Universitario Santo Tomás de Aquino",
+  "coords": [
+   40.45194,
+   -3.72139
+  ],
+  "photos": [
+   {
+    "file": "File:Madrid - Ciudad Universitaria, Colegio Mayor Aquinas 5.jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Madrid - Ciudad Universitaria, Colegio Mayor Aquinas 8.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "escuela-de-artes-y-oficios-de-algeciras",
+  "qid": "Q5839060",
+  "status": "photo",
+  "why": "Lead (es) says built 1971 from Garrido's design, which won a first architecture prize in 1968; daylight exteriors p0 and p1; night photo p5 rejected.",
+  "name": "Escuela de Artes y Oficios de Algeciras",
+  "by": "Fernando Garrido Rodríguez",
+  "city": "Algeciras",
+  "cc": "ES",
+  "year": 1971,
+  "type": "Education",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "Organic-form art school by Fernando Garrido, built 1971 after a first architecture prize in 1968.",
+  "commons_category": "Category:Escuela de Artes y Oficios de Algeciras",
+  "coords": [
+   36.13683,
+   -5.44794
+  ],
+  "photos": [
+   {
+    "file": "File:Artes y oficios, Algeciras.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Escuela de Artes Algeciras 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "estacion-de-autobuses-de-cordoba",
+  "qid": "Q5847582",
+  "status": "photo",
+  "why": "Lead (es) says opened 16 Oct 1998 and gives the Premio Nacional de Arquitectura of 1999 to Portela and Cuenca Montilla; by = Wikidata architect only; grey facade with station sign p4.",
+  "name": "Estación de autobuses de Córdoba",
+  "by": "César Portela",
+  "city": "Córdoba",
+  "cc": "ES",
+  "year": 1998,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Circulation",
+   "Facade as skin"
+  ],
+  "features": "Córdoba's bus station beside the Córdoba Central railway station, opened 1998; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Bus station of Córdoba, Spain",
+  "coords": [
+   37.88946,
+   -4.79028
+  ],
+  "photos": [
+   {
+    "file": "File:Gare Routière - Cordoue (ES61) - 2023-04-30 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokohama-landmark-tower",
+  "qid": "Q587108",
+  "status": "photo",
+  "why": "Lead gives the height and the third-tallest rank; BCS Prize listed; year 1993 from Wikidata; whole-tower photos p0 and p2.",
+  "name": "Yokohama Landmark Tower",
+  "by": "Hugh Stubbins, Mitsubishi Estate",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": 1993,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Japan's third-tallest building at 296.3 m, with a Sky Garden observatory; won a BCS Prize.",
+  "commons_category": "Category:Yokohama Landmark Tower",
+  "coords": [
+   35.45472,
+   139.63167
+  ],
+  "photos": [
+   {
+    "file": "File:Yokohama Landmark Tower 02 cropped.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yokohama Landmark Tower 201409.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torre-melina-gran-melia",
+  "qid": "Q5903451",
+  "status": "photo",
+  "why": "Lead (es) gives opening 1992, Ferrater, and the 1992 Premio Nacional de Arquitectura; whole-building daylight photos p5 and p6 (CC0).",
+  "name": "Torre Melina Gran Meliá",
+  "by": "Carlos Ferrater",
+  "city": "Barcelona",
+  "cc": "ES",
+  "year": 1992,
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Carlos Ferrater's 391-room hotel on Barcelona's Diagonal, opened 1992; a Spanish national architecture prize winner.",
+  "commons_category": "Category:Hotel Fairmont Rey Juan Carlos I",
+  "coords": [
+   41.38133,
+   2.10875
+  ],
+  "photos": [
+   {
+    "file": "File:Barcelona - Hotel Fairmont Rey Juan Carlos I (3).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Barcelona - Hotel Fairmont Rey Juan Carlos I (1).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "15-clerkenwell-close",
+  "qid": "Q60521880",
+  "status": "photo",
+  "why": "Lead says completed 2017, RIBA National Award 2018 and Stirling Prize shortlist 2021 (shortlist, not a win); daylight exteriors p0 and p1.",
+  "name": "15 Clerkenwell Close",
+  "by": "Amin Taha",
+  "city": "London",
+  "cc": "GB",
+  "year": 2017,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Stone",
+   "Structure as expression",
+   "Facade as skin"
+  ],
+  "features": "Stone-clad housing and office block in Clerkenwell with a RIBA National Award (2018) and a 2021 Stirling Prize shortlist.",
+  "commons_category": "Category:15 Clerkenwell Close",
+  "coords": [
+   51.5232,
+   -0.1064
+  ],
+  "photos": [
+   {
+    "file": "File:15 Clerkenwell Close, Clerkenwell, London (geograph 6029656 cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:15 Clerkenwell Close 2025-02-04.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "passerelle-leopold-sedar-senghor",
+  "qid": "Q605912",
+  "status": "photo",
+  "why": "Lead says the bridge won the Prix de l'Équerre d'Argent in its opening year (1999); whole-bridge daylight photos p0 and p5.",
+  "name": "Passerelle Léopold-Sédar-Senghor",
+  "by": "Marc Mimram",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 1999,
+  "type": "Infrastructure",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Promenade",
+   "Water"
+  ],
+  "features": "Seine footbridge by Marc Mimram, opened 1999, that won the Équerre d'Argent prize in its year of opening.",
+  "commons_category": "Category:Passerelle Léopold-Sédar-Senghor",
+  "coords": [
+   48.86194,
+   2.32472
+  ],
+  "photos": [
+   {
+    "file": "File:Passerelle Solferino Paris FRA 002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Passerelle Léopold-Sédar-Senghor, Paris 17 May 2022.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "skanderbeg-square",
+  "qid": "Q609528",
+  "status": "skip",
+  "why": "A public square, not a building."
+ },
+ {
+  "id": "art-museum-library-ota",
+  "qid": "Q60986994",
+  "status": "photo",
+  "why": "Lead (ja) describes a complex with a public library and art museum in Ōta; AIJ Prize listed; year 2017 from Wikidata; whole-building daylight photos p0 and p5.",
+  "name": "Art Museum & Library, Ota",
+  "by": "Akihisa Hirata",
+  "city": "Ōta",
+  "cc": "JP",
+  "year": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Steel & glass"
+  ],
+  "features": "A cultural complex with a public library and an art museum; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Art Museum & Library, Ota",
+  "coords": [
+   36.29461,
+   139.37847
+  ],
+  "photos": [
+   {
+    "file": "File:Art Museum & Library, Ota ac (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Art-Museum&Library,Ota-2017092402.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mori-butai",
+  "qid": "Q61058067",
+  "status": "photo",
+  "why": "Lead (ja) gives the museum and noh stage in Tome; AIJ Prize listed; wooden exteriors p0 and p1.",
+  "name": "Mori Butai",
+  "by": "Kengo Kuma",
+  "city": "Tome",
+  "cc": "JP",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Kengo Kuma's noh stage and museum of traditional performing arts in Tome; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Mori Butai",
+  "coords": [
+   38.65944,
+   141.28028
+  ],
+  "photos": [
+   {
+    "file": "File:Moributai,Tome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mori stage front,Tome.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "jr-central-towers",
+  "qid": "Q6108856",
+  "status": "photo",
+  "why": "Lead gives opening December 1999 and the station complex; BCS Prize listed; daylight tower photos p0 and p5.",
+  "name": "JR Central Towers",
+  "by": "Kohn Pedersen Fox, Central Japan Railway Company",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Circulation",
+   "Sculptural form"
+  ],
+  "features": "Twin towers above Nagoya Station, one of the world's largest station complexes by floor area; won a BCS Prize.",
+  "commons_category": "Category:JR Central Towers",
+  "coords": [
+   35.17139,
+   136.88278
+  ],
+  "photos": [
+   {
+    "file": "File:JR Central Towers.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagoya JR Central Towers dk4008.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rias-ark-museum-of-art",
+  "qid": "Q61398113",
+  "status": "unsure",
+  "why": "No photos at all. Lead is one line in Japanese; AIJ award listed, but nothing shows the building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "saga-prefectural-museum",
+  "qid": "Q6371422",
+  "status": "photo",
+  "why": "Lead says opened 1970 on the castle site; AIJ Prize listed; daylight whole-building photo p0 (public domain); other photos show other buildings or detail.",
+  "name": "Saga Prefectural Museum",
+  "by": "Teiichi Takahashi, Yoshichika Uchida",
+  "city": "Saga",
+  "cc": "JP",
+  "year": 1970,
+  "type": "Museum",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Cantilever",
+   "Monumentality"
+  ],
+  "features": "1970 prefectural museum on Saga Castle's sannomaru site; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Saga Prefectural Museum",
+  "coords": [
+   33.245,
+   130.30056
+  ],
+  "photos": [
+   {
+    "file": "File:Saga Prefectural Museum 2008.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kawamura-memorial-dic-museum-of-art",
+  "qid": "Q6379617",
+  "status": "unsure",
+  "why": "Lead says the museum \"was\" an art museum and is cut off at a DIC management decision; the lead does not say whether the building still stands. Photos are good, so this is for the owner to check.",
+  "note": "standing unclear"
+ },
+ {
+  "id": "heathrow-terminal-4",
+  "qid": "Q6670470",
+  "status": "unsure",
+  "why": "No clear exterior photo: the aerial is too far, the other shots show aircraft, a sign, a hotel or a car park, and the closest view shows only part of the terminal. Stirling Prize listed.",
+  "note": "no main photo"
+ },
+ {
+  "id": "richmond-olympic-oval",
+  "qid": "Q744568",
+  "status": "unsure",
+  "why": "Only the main photo shows the outside, and it is taken at night; the rest are interiors, people or art. World Architecture Festival award listed.",
+  "note": "no main photo"
+ },
+ {
+  "id": "the-ark-london",
+  "qid": "Q7714246",
+  "status": "photo",
+  "why": "Lead names the office building in Hammersmith only; Mies van der Rohe Award listed; year 1992 from Wikidata; daylight exteriors p0 and p2.",
+  "name": "The Ark, London",
+  "by": "Ralph Erskine",
+  "city": "London",
+  "cc": "GB",
+  "year": 1992,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Planting",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Office building in Hammersmith by Ralph Erskine, a Mies van der Rohe Award winner.",
+  "commons_category": "Category:The Ark, London",
+  "coords": [
+   51.4909,
+   -0.2206
+  ],
+  "photos": [
+   {
+    "file": "File:London-Ark-DMS-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Ark by Hammersmith flyover - geograph.org.uk - 4705299.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "theatre-royal-plymouth",
+  "qid": "Q7777439",
+  "status": "photo",
+  "why": "Lead gives the 1,300-seat main hall and the Arts Council funding; Stirling Prize listed; daylight photo p4 (p0 looks like dusk).",
+  "name": "Theatre Royal, Plymouth",
+  "by": "Peter Moro",
+  "city": "Plymouth",
+  "cc": "GB",
+  "year": 1982,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Steel & glass"
+  ],
+  "features": "Plymouth theatre with a 1,300-seat main hall, The Lyric, and a Stirling Prize to its name.",
+  "commons_category": "Category:Theatre Royal, Plymouth",
+  "coords": [
+   50.36989,
+   -4.14511
+  ],
+  "photos": [
+   {
+    "file": "File:The Theatre Royal - Plymouth - geograph.org.uk - 1839564.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tokyo-budo-kan",
+  "qid": "Q8193312",
+  "status": "photo",
+  "why": "Lead (ja) says a martial-arts hall in Adachi also used for other sports; AIJ Prize listed; year 1989 from Wikidata; daylight exteriors p6 and p2 (p5 shows people indoors).",
+  "name": "Tokyo Budo-kan",
+  "by": "Kijo Rokkaku",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Monumentality"
+  ],
+  "features": "Martial-arts hall in Adachi also used for other sports; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Tokyo Budokan",
+  "coords": [
+   35.76548,
+   139.82568
+  ],
+  "photos": [
+   {
+    "file": "File:Tokyo Budokan 202003.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tokyo budokan March 9 2020 various 15 45 30 199000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "twenty-six-martyrs-museum-and-monument",
+  "qid": "Q84029",
+  "status": "photo",
+  "why": "Lead says built June 1962 on the 1597 execution site; AIJ Prize listed; daylight building photos p2 and p3 (p1 has a church, p5 a monument).",
+  "name": "Twenty-Six Martyrs Museum and Monument",
+  "by": "Kenji Imai",
+  "city": "Nagasaki",
+  "cc": "JP",
+  "year": 1962,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Monumentality",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Museum on the Nishizaka Hill execution site of 1597 in Nagasaki; won an Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Twenty-six Martyrs of Japan Memorial and Museum (Nagasaki)",
+  "coords": [
+   32.75472,
+   129.87167
+  ],
+  "photos": [
+   {
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 00 200000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twenty-Six Martyrs Museum and Monument March 27 2022 various 17 37 09 133000.jpeg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kyusendo-forest-museum",
+  "qid": "Q98170289",
+  "status": "unsure",
+  "why": "Lead (ja) says the museum has been closed since 2012 after floods; the lead does not say whether the building still stands. AIJ Prize listed.",
+  "note": "standing unclear"
+ },
+ {
+  "id": "lake-biwa-otsu-prince-hotel",
+  "qid": "Q9927120",
+  "status": "photo",
+  "why": "Lead (ja) says a high-rise city hotel on Lake Biwa designed by Tange; BCS Prize listed; daylight whole-tower photos p0 and p1.",
+  "name": "Lake Biwa Otsu Prince Hotel",
+  "by": "Kenzō Tange, Kajima Corporation",
+  "city": "Ōtsu",
+  "cc": "JP",
+  "year": 1989,
+  "type": "Hospitality",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Water"
+  ],
+  "features": "Kenzō Tange's high-rise hotel on the shore of Lake Biwa; it won a BCS Prize.",
+  "commons_category": "Category:Lake Biwa Otsu Prince Hotel",
+  "coords": [
+   35.00511,
+   135.88917
+  ],
+  "photos": [
+   {
+    "file": "File:Otsu Prince Hotel 20090509-002.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Otsu Prince Hotel 20090509-001.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
  }
 ]
