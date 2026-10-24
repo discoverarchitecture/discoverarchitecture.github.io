@@ -1,2 +1,2 @@
-python -u tools/cheap_prep.py tools/cheap/pool12.json --n 117 --leads
-Haiku batch 12: prize-winning buildings.
+python -u tools/fetch_pages.py tools/cheap/handwritten_urls.json tools/cheap/handwritten_pages
+Save the source pages for the hand-written entries.
