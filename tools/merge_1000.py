@@ -76,12 +76,13 @@ def candidates():
 
 
 def entry(c, n, ids):
-    y = int(re.search(r'\d{3,4}', str(c['year'])).group())
+    m = re.search(r'\d{3,4}', str(c['year']))
+    y = int(m.group()) if m else None  # "Year unavailable": no source gives one (owner, 24 Oct 2026)
     base = slug(c['name'])
     i = base if base not in ids else f"{base}-{slug(c['city'])}"
     return {
         'id': i, 'n': n, 'name': c['name'], 'by': c['by'], 'place': f"{c['city']}, {c['cc']}", 'year': str(c['year']), 'y': y,
-        'type': c['type'], 'movement': c['movement'], 'region': region(c['cc']), 'era': era(y),
+        'type': c['type'], 'movement': c['movement'], 'region': region(c['cc']), 'era': era(y) if y else None,
         'concepts': c['concepts'], 'study': c['features'], 'qid': c['qid'],
         'commons': 'Category:' + c['commons'] if c.get('commons') else None,
         'lead': 'File:' + c['lead'] if c.get('lead') else None,

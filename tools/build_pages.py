@@ -115,7 +115,7 @@ def title(b):
     for n in names:
         for w in whos:
             by = '' if anonymous(b) else f' by {w}'
-            options += [f'{n}{by}, {year}: {full}', f'{n}{by}: {full}', f'{n}{by}: {short}', f'{n}{by}']
+            options += ([f'{n}{by}, {year}: {full}'] if b.get('y') else []) + [f'{n}{by}: {full}', f'{n}{by}: {short}', f'{n}{by}']
         options.append(f'{n}: {short}')
     return next((o for o in options if len(o) <= TITLE_MAX), names[-1])
 
@@ -140,7 +140,10 @@ def summary(b):
     """The page description, at most DESC_MAX characters so Google shows all of it: the key features as a whole
     sentence, then where and when, then what the page offers. Parts are left out, never cut, until it fits."""
     study = ' '.join(b['study'].split()).rstrip('.')
-    where = f"{KIND[b['type']]} in {place_full(b)}, {b['year']}" if b['type'] in KIND else f"Built {b['year']} in {place_full(b)}"
+    if not b.get('y'):  # no source gives a year: say where only
+        where = f"{KIND[b['type']]} in {place_full(b)}" if b['type'] in KIND else f"In {place_full(b)}"
+    else:
+        where = f"{KIND[b['type']]} in {place_full(b)}, {b['year']}" if b['type'] in KIND else f"Built {b['year']} in {place_full(b)}"
     if b['id'] in GONE:
         where += f"; {GONE[b['id']]}"
     if b.get('images'):
@@ -651,7 +654,7 @@ def building_page(b, items):
     C = counts(items)
     who = first_architect(b)
     mine = [x for x in C['arch'].get(who, []) if x['id'] != b['id']]
-    mine.sort(key=lambda x: -x['y'])
+    mine.sort(key=lambda x: -(x.get('y') or 0))
     idea = b['concepts'][0] if b.get('concepts') else ''
     near = related(b, items, n=60)
     pool = [x for x in near if idea in x['concepts'] and x not in mine]

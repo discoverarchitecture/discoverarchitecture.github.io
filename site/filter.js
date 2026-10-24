@@ -67,7 +67,7 @@
     const c = countBy('movement', 'movement'), X0 = 1800, X1 = 2025;
     const pos = y => Math.max(0, Math.min(100, (y - X0) / (X1 - X0) * 100));
     const rows = [...values('movement')].map(m => {
-      const ys = ALL.filter(b => b.movement === m).map(b => b.y).sort((a, b) => a - b);
+      const ys = ALL.filter(b => b.movement === m && b.y).map(b => b.y).sort((a, b) => a - b);
       const at = q => ys[Math.min(ys.length - 1, Math.floor(q * (ys.length - 1)))];
       return { m, lo: at(0.1), hi: at(0.9), mid: at(0.5), first: ys[0], n: c.get(m) || 0, on: F.movement.has(m) };
     }).sort((a, b) => a.mid - b.mid);
