@@ -1,18 +1,26 @@
 {
- "fetched_at": "2026-10-23T21:19:59+00:00",
+ "fetched_at": "2026-10-24T04:26:51+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1563,
+ "visits_30d": 1584,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 428,
+     "count": 431,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture: buildings for architects & students",
      "max": 36
+    },
+    {
+     "count": 75,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 9
     },
     {
      "count": 74,
@@ -23,15 +31,7 @@
      "max": 12
     },
     {
-     "count": 74,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 9
-    },
-    {
-     "count": 18,
+     "count": 19,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -320,6 +320,14 @@
     },
     {
      "count": 3,
+     "path_id": 112542443,
+     "path": "/buildings/st-george-cathedral-addis-ababa",
+     "event": false,
+     "title": "St. George's Cathedral \u2014 Sebastiano Castagna, 1911: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 112449331,
      "path": "/buildings/aiwan-e-sadr",
      "event": false,
@@ -340,6 +348,14 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114227113,
+     "path": "/buildings/aaltoalvari",
+     "event": false,
+     "title": "AaltoAlvari swimming hall by Alvar Aalto: photos",
      "max": 1
     },
     {
@@ -484,6 +500,14 @@
      "path": "building/kala-academy",
      "event": true,
      "title": "Kala Academy",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113987998,
+     "path": "building/quay-quarter-tower",
+     "event": true,
+     "title": "Quay Quarter Tower",
      "max": 1
     },
     {
@@ -781,46 +805,22 @@
      "event": false,
      "title": "Hooper House II \u2014 Marcel Breuer, 1959: photos",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112746558,
-     "path": "building/house-in-white",
-     "event": true,
-     "title": "House in White",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112746486,
-     "path": "/buildings/house-in-white",
-     "event": false,
-     "title": "House in White \u2014 Kazuo Shinohara, 1966: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112704780,
-     "path": "/buildings/national-library-building",
-     "event": false,
-     "title": "National Library Building \u2014 T. R. Hamzah & Yeang, 2005",
-     "max": 1
     }
    ],
-   "total": 885,
+   "total": 891,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 920,
+     "count": 937,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 295,
+     "count": 298,
      "ref_scheme": "g"
     },
     {
@@ -842,6 +842,12 @@
      "ref_scheme": "c"
     },
     {
+     "id": "wall",
+     "name": "wall",
+     "count": 10,
+     "ref_scheme": "c"
+    },
+    {
      "id": "gads",
      "name": "gads",
      "count": 9,
@@ -852,12 +858,6 @@
      "name": "gemini.google.com",
      "count": 9,
      "ref_scheme": "h"
-    },
-    {
-     "id": "wall",
-     "name": "wall",
-     "count": 9,
-     "ref_scheme": "c"
     },
     {
      "id": "www.bing.com",
@@ -915,17 +915,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1007
+     "count": 1023
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 535
+     "count": 539
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 20
+     "count": 21
     },
     {
      "name": "",
@@ -939,27 +939,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 534
+     "count": 535
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 470
+     "count": 473
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 347
+     "count": 360
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 127
+     "count": 129
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 83
+     "count": 85
     },
     {
      "name": "",
@@ -978,21 +978,21 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 876
+     "count": 890
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 193
-    },
-    {
-     "id": "DE",
-     "name": "Germany",
-     "count": 53
+     "count": 198
     },
     {
      "id": "GB",
      "name": "United Kingdom",
+     "count": 54
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
      "count": 53
     },
     {
@@ -1043,7 +1043,7 @@
     {
      "id": "PT",
      "name": "Portugal",
-     "count": 11
+     "count": 12
     },
     {
      "id": "AE",
@@ -1343,7 +1343,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 806
+     "count": 822
     },
     {
      "id": "tablet",
@@ -1353,7 +1353,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 653
+     "count": 658
     },
     {
      "id": "desktophd",
@@ -1373,7 +1373,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1563
+     "count": 1584
     }
    ],
    "more": false
