@@ -333,3 +333,30 @@ rule. 22 buildings reached the wall.
 
 Held: the General Motors Technical Center (Saarinen) and Domkyrkoforum for a sourced year (`tools/cheap/pool12_held.json`).
 Also in this round: Go deeper links for the last 151 buildings without, so every building on the wall has them.
+
+## "Year unavailable" and hand-written entries (24 Oct 2026)
+
+**25 buildings with no sourced year** go on the wall with "Year unavailable" (owner, 24 Oct 2026): no year in their
+titles or descriptions, no decade in the date filter, sorted last (`tools/illustrate/results/zz_noyear.json`). Their
+photos were checked by eye: no lead held back; 24 gallery photos removed (a museum's bells, stained glass filed under
+the wrong Commons category, dancers, shrines near Lake Suwa, a defibrillator); the Chapel of St. Basil now leads with
+its cross wall. The General Motors Technical Center stays off: its only free photo shows a newer office.
+
+**Hand-written entries**, for buildings with no Wikipedia article. `tools/fetch_pages.py` saved 20 of 27 source pages
+on Actions (`tools/cheap/handwritten_pages/`); a Sonnet check quoted every fact from them, each quote checked word for
+word (`tools/cheap/handwritten_quotes.json`); Opus decided:
+
+| Building | Decision |
+|---|---|
+| Senate Palace, Tehran (Ghiai, Foroughi) | added; year shown as 1954–59, the span Encyclopaedia Iranica gives (sources differ on one year) |
+| House of Victoria Ocampo (Bustillo) | added, 1928 (all three pages) |
+| Plassen Cultural Centre (3XN) | added, 2012 (opened 14 July 2012) |
+| Tikkurila Church (OOPEAA) | added, 2021 (inaugurated January 2021) |
+| Vennesla Church (LINK arkitektur) | added, 2022 (completed and consecrated) |
+| Blessed Augustin Kažotić Church, Zagreb (Magaš) | held: no page describes the design; 1998 or 2004 |
+| Knin church (Rošin) | held: no page describes the design |
+| Igreja Matriz (Böhm), Ab-o-Atash, the Glass Building | held: no source page could be saved |
+
+The draft facts were often wrong (a stone-building award, "long church", a Le Corbusier influence the house in fact
+rejects, the Knin architect's name): 6 of 7 drafts had at least one unsupported fact, which is why only quoted facts
+reached the wall. Each entry keeps its sources and quotes in `tools/illustrate/results/zz_handwritten.json`.

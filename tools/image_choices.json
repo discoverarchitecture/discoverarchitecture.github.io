@@ -34964,6 +34964,10 @@
    "File:Majlese sena 1.jpg",
    "File:Iranian senate building.jpg",
    "File:Senate Palace of Iran in Tehran.jpg"
+  ],
+  "skip": [
+   "File:CENTO in Senate Tehran.jpg",
+   "File:اص‍ول دوازده‌گ‍ان‍ه ان‍ق‍لاب ش‍اه و م‍ل‍ت - وزارت اطلاعات و جهانگردی (پشت جلد).jpg"
   ]
  },
  "casa-de-victoria-ocampo": {
@@ -34972,12 +34976,18 @@
    "File:La casa de Victoria Ocampo en Palermo Chico.jpg",
    "File:Casa de Victoria Ocampo, Palermo 01.jpg",
    "File:Casa de Victoria Ocampo, Palermo 02.jpg"
+  ],
+  "skip": [
+   "File:EditatonMujeresCultura-jun2019 01.jpg"
   ]
  },
  "plassen-cultural-centre": {
   "category": "Category:Plassen kulturhus",
   "add": [
    "File:Molde bibliotek 15.08.2013 12-37-03.JPG"
+  ],
+  "skip": [
+   "File:Molde bibliotek Årets bok til alle-bibliotek 2015.jpg"
   ]
  },
  "tikkurila-church": {
@@ -34985,6 +34995,9 @@
   "add": [
    "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg",
    "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg"
+  ],
+  "skip": [
+   "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 03.jpg"
   ]
  },
  "vennesla-church": {

@@ -359553,30 +359553,6 @@ window.BUILDINGS = [
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File:Senate_Palace_of_Iran_in_Tehran.jpg",
     "file": "File:Senate Palace of Iran in Tehran.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/CENTO_in_Senate_Tehran.jpg/1280px-CENTO_in_Senate_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-palace-tehran/thumbs/3.webp",
-    "w": 1280,
-    "h": 813,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Unknown author",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:CENTO_in_Senate_Tehran.jpg",
-    "file": "File:CENTO in Senate Tehran.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF%29.jpg/1280px-%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/senate-palace-tehran/thumbs/4.webp",
-    "w": 950,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "وزارت اطلاعات و جهانگردی",
-    "license": "Public domain",
-    "source": "https://commons.wikimedia.org/wiki/File:%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_(%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF).jpg",
-    "file": "File:اص‍ول دوازده‌گ‍ان‍ه ان‍ق‍لاب ش‍اه و م‍ل‍ت - وزارت اطلاعات و جهانگردی (پشت جلد).jpg"
    }
   ],
   "has": [],
@@ -359641,18 +359617,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Victoria_Ocampo,_Palermo_02.jpg",
     "file": "File:Casa de Victoria Ocampo, Palermo 02.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/EditatonMujeresCultura-jun2019_01.jpg/1280px-EditatonMujeresCultura-jun2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-de-victoria-ocampo/thumbs/3.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Exterior",
-    "caption": "Exterior · Editatón Mujeres en la Cultura, Casa de Victoria Ocampo, Buenos Aires, Argentina",
-    "credit": "Ezarate",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:EditatonMujeresCultura-jun2019_01.jpg",
-    "file": "File:EditatonMujeresCultura-jun2019 01.jpg"
    }
   ],
   "has": [],
@@ -359693,18 +359657,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Molde_bibliotek_15.08.2013_12-37-03.JPG",
     "file": "File:Molde bibliotek 15.08.2013 12-37-03.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg/1280px-Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/plassen-cultural-centre/thumbs/1.webp",
-    "w": 1105,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · 30",
-    "credit": "Hilde Merete Gjessing",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg",
-    "file": "File:Molde bibliotek Årets bok til alle-bibliotek 2015.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Molde_bibliotek.jpg/1280px-Molde_bibliotek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -359771,18 +359723,6 @@ window.BUILDINGS = [
     "file": "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg/1280px-Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tikkurila-church/thumbs/1.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Detail",
-    "caption": "Detail · Tikkurilan uusi kirkko",
-    "credit": "Stella Karlsson",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_Tikkurila_Church_in_Vantaa,_Finland,_2021.jpg",
-    "file": "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Reflected_view_at_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg/1280px-Reflected_view_at_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/tikkurila-church/thumbs/2.webp",
     "w": 1280,
@@ -359819,16 +359759,16 @@ window.BUILDINGS = [
     "file": "File:From Tikkurilantori in Tikkurila, Vantaa, Finland, 2021 May - 2.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_03.jpg/1280px-Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/tikkurila-church/thumbs/5.webp",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg/1280px-Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/1.webp",
     "w": 1280,
-    "h": 854,
-    "kind": "Interior",
-    "caption": "Interior · Näkymä Asematieltä koillisen suuntaan",
-    "credit": "Sanni Penttinen",
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Tikkurilan uusi kirkko",
+    "credit": "Stella Karlsson",
     "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Asematie_in_Tikkurila,_Vantaa,_Finland,_2024_March_%E2%80%93_03.jpg",
-    "file": "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 03.jpg"
+    "source": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_Tikkurila_Church_in_Vantaa,_Finland,_2021.jpg",
+    "file": "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg"
    }
   ],
   "has": [],
