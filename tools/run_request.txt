@@ -1,2 +1,2 @@
-python -u tools/harvest_award_lists.py
-New candidate search: prize winners from the prizes Wikipedia winner lists.
+python -u tools/cheap_prep.py tools/cheap/pool12.json --n 117 --leads
+Haiku batch 12: prize-winning buildings.
