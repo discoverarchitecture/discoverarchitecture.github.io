@@ -1,2 +1,2 @@
-python -u tools/harvest_awards.py
-New candidate search: prize-winning buildings.
+python -u tools/harvest_award_lists.py
+New candidate search: prize winners from the prizes Wikipedia winner lists.
