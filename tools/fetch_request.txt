@@ -1,2 +1,2 @@
---only kenwood-house,museum-of-the-republic-of-north-macedonia,historisches-museum-saar,rietveld-pavilion,aldo-van-eyck-pavilion,national-institute-for-technical-education-leuven,riverside-art-museum,lake-suwa-museum,forum-building,salerno-courthouse,chapel-of-st-basil,procuradoria-geral-da-republica,sankt-ursula-kalscheuren,obra-do-berco,toyonokuni-libraries-for-cultural-resources,shangyin-opera-house,biblioteca-municipal-de-viana-do-castelo,casa-do-cantador,auditorium-del-parco,nariwa-museum,museum-of-west-african-art,san-paolo-apostolo-foligno,ibm-studios,independence-hall-israel,domkyrkoforum
-Buildings held for want of a year, now on the wall with "Year unavailable": 25.
+--only senate-palace-tehran,casa-de-victoria-ocampo,plassen-cultural-centre,tikkurila-church,vennesla-church
+Hand-written entries (no Wikipedia article; facts quoted from saved source pages): 5.
