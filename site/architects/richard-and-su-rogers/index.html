@@ -18,11 +18,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../../theme.css?v=f2e09f65">
-<script src="../../theme.js?v=f2e09f65"></script>
-<link rel="stylesheet" href="../../pages.css?v=f2e09f65">
+<link rel="stylesheet" href="../../theme.css?v=547bf27a">
+<script src="../../theme.js?v=547bf27a"></script>
+<link rel="stylesheet" href="../../pages.css?v=547bf27a">
 <script src="../../analytics.js"></script>
-<script src="../../rows.js?v=f2e09f65" defer></script>
+<script src="../../rows.js?v=547bf27a" defer></script>
 <link rel="stylesheet" href="../../architect.css?v=e7dc92eb">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Richard and Su Rogers", "url": "https://findgreatarchitecture.com/architects/richard-and-su-rogers/", "description": "Richard and Su Rogers was the architecture practice of Richard Rogers (1933–2021) and Su Rogers (born 1939), active from about 1967 to 1970, between their years in Team 4 with Norman Foster and Wendy Cheesman and their partnership with Renzo Piano.", "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Richard_Rogers_%282013%29_%28cropped%29.jpg/250px-Richard_Rogers_%282013%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "sameAs": ["https://en.wikipedia.org/wiki/Su_Rogers", "https://en.wikipedia.org/wiki/Richard_Rogers", "https://en.wikipedia.org/wiki/22_Parkside", "https://en.wikipedia.org/wiki/Zip-Up_House"], "knowsAbout": ["Prefabrication", "Steel & glass", "Modular"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "ItemList", "name": "Richard and Su Rogers buildings", "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://findgreatarchitecture.com/buildings/22-parkside/", "name": "22 Parkside (Rogers House)"}]}</script>
@@ -47,6 +47,7 @@
 <section class="wallpane" id="buildings"><div class="whead"><h2>Richard and Su Rogers buildings <span><span id="shown">1</span></span></h2><div class="sorts"><span>Sort</span><button type="button" class="chip" data-sort="y" aria-pressed="true">Year</button><button type="button" class="chip" data-sort="n" aria-pressed="false">A to Z</button><button type="button" class="chip" data-sort="c" aria-pressed="false">Place</button></div></div><div class="cols"><div class="col"><div class="t" data-id="22-parkside" data-y="1969" data-n="22 Parkside (Rogers House)" data-c="London" data-i="Prefabrication|Steel &amp; glass|Modular" data-r="0.691" data-th="" style="aspect-ratio:1/0.691"><a class="open" href="../../buildings/22-parkside/" aria-label="22 Parkside (Rogers House), Richard and Su Rogers, 1969, London"><img src="../../images/22-parkside/thumbs/0.webp" width="1280" height="884" loading="lazy" decoding="async" alt=""></a><span class="cap" aria-hidden="true"><b>22 Parkside (Rogers House)</b><span class="r2">1969 · London</span></span></div></div><div class="col"></div></div><footer class="foot" data-nosnippet><p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons.</p><p><a href="../../">Find Great Architecture</a> · <a href="../../architects/">Architects</a> · <a href="../../buildings/">All buildings</a></p><p class="legal-links"><a href="../../pricing/">Pricing</a> · <a href="../../terms/">Terms</a> · <a href="../../privacy/">Privacy</a> · <a href="../../refunds/">Refunds</a> · <a href="../../contact/">Contact</a></p><p>Find Great Architecture · run by Akshat Pagaria · India</p></footer></section>
 </main>
 <nav class="dock" data-nosnippet aria-label="Browse"><a href="../../">Home</a><a class="map" href="../../#map"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></svg>Map</a><a class="go" href="../../#surprise">Surprise me</a></nav>
+<script src="../../popup.js?v=547bf27a"></script>
 <script>
 (function () {
   var cols = [].slice.call(document.querySelectorAll('.wallpane .col')), tiles = [].slice.call(document.querySelectorAll('.wallpane .t'));
@@ -55,8 +56,10 @@
              n: function (a, b) { return a.dataset.n.localeCompare(b.dataset.n); },
              c: function (a, b) { return a.dataset.c.localeCompare(b.dataset.c) || a.dataset.y - b.dataset.y; } };
   function tall(t) { return parseFloat(t.dataset.r) + 0.06 + (t.classList.contains('sw') ? 0.08 : 0); }
+  function order() { return tiles.filter(function (t) { return !st.idea || t.dataset.i.split('|').indexOf(st.idea) > -1; }).sort(by[st.sort]); }
+  fgaPopup.list = function () { return order().map(function (t) { return t.dataset.id; }); };
   function deal() {
-    var list = tiles.filter(function (t) { return !st.idea || t.dataset.i.split('|').indexOf(st.idea) > -1; }).sort(by[st.sort]);
+    var list = order();
     var h = cols.map(function () { return 0; });
     cols.forEach(function (c) { while (c.firstChild) c.removeChild(c.firstChild); });
     list.forEach(function (t) { var k = h.indexOf(Math.min.apply(null, h)); cols[k].appendChild(t); h[k] += tall(t); });
@@ -143,13 +146,12 @@
   }
   tiles.forEach(function (t) {
     var open = t.querySelector('.open');
-    // A tap opens the building as a popup over the wall, like everywhere else; closing it returns here.
+    // A tap opens the building in the wall's popup over this page (popup.js); Previous and Next follow this page's list.
     open.addEventListener('click', function (e) {
       if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey || e.button) return;
       e.preventDefault();
       if (swiped) return;
-      try { sessionStorage.setItem('da-from-arch', location.pathname); } catch (x) { /* fine without it */ }
-      location.href = '../../#' + t.dataset.id;
+      fgaPopup.open(t.dataset.id);
     });
     if (!t.dataset.th) return;
     [].forEach.call(t.querySelectorAll('.flip'), function (b) {

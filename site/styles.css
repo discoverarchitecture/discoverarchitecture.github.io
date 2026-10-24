@@ -244,7 +244,11 @@ body.filtering .dock { display: none; } /* the filter panel has its own buttons 
 /* The opened building leaves a strip at the bottom so the dock sits below it, not over it. */
 .sheet { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; --cw: min(1280px, calc(100% - 48px)); --dockroom: calc(66px + env(safe-area-inset-bottom, 0px)); padding-bottom: var(--dockroom); }
 .sheet[hidden] { display: none; }
-.veil { all: unset; position: absolute; inset: 0; background: rgba(14,14,13,0.5); cursor: zoom-out; }
+.veil { all: unset; position: absolute; inset: 0; background: var(--veil); cursor: zoom-out; }
+/* Inside another page's popup frame (popup.js): only the opened building, over that page. */
+html.embed, html.embed body { background: transparent !important; }
+html.embed body > :not(.sheet):not(.zv) { display: none !important; }
+html.embed .sheet { --dockroom: 0px; padding-bottom: 0; }
 .card { position: relative; width: var(--cw); height: min(800px, calc(100% - 48px)); background: var(--surface); display: grid;
   grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); border-radius: var(--r-panel); overflow: hidden; box-shadow: 0 30px 90px rgba(0,0,0,0.45); outline: none; animation: rise .22s ease; }
 @keyframes rise { from { opacity: 0; transform: translateY(14px); } }

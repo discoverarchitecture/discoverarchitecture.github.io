@@ -925,7 +925,7 @@ def main():
     global TOTAL, CSS_V
     items = load()
     TOTAL = f'{len(items):,}'
-    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js', SITE / 'rows.js')
+    CSS_V = fingerprint_all(SITE / 'pages.css', SITE / 'theme.css', SITE / 'theme.js', SITE / 'rows.js', SITE / 'popup.js')
     page = SITE / 'index.html'
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
