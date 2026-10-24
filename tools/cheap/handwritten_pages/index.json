@@ -1,0 +1,218 @@
+[
+ {
+  "n": 0,
+  "qid": "Q20110871",
+  "url": "https://iranicaonline.org/articles/giai-haydar",
+  "file": "000.txt",
+  "ok": true,
+  "chars": 5249
+ },
+ {
+  "n": 1,
+  "qid": "Q20110871",
+  "url": "https://www.caoi.ir/en/projects/item/267-senate-house-of-iran.html",
+  "file": "001.txt",
+  "ok": false,
+  "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+ },
+ {
+  "n": 2,
+  "qid": "Q20110871",
+  "url": "https://shadkar.wordpress.com/2012/02/24/pioneers-of-modern-architecture-in-iran/",
+  "file": "002.txt",
+  "ok": true,
+  "chars": 8556
+ },
+ {
+  "n": 3,
+  "qid": "Q113000863",
+  "url": "https://www.archdaily.com/1043104/ad-classics-victoria-ocampo-house-alejandro-bustillo",
+  "file": "003.txt",
+  "ok": true,
+  "chars": 10351
+ },
+ {
+  "n": 4,
+  "qid": "Q113000863",
+  "url": "https://www.argentina.gob.ar/node/359173",
+  "file": "004.txt",
+  "ok": true,
+  "chars": 1797
+ },
+ {
+  "n": 5,
+  "qid": "Q113000863",
+  "url": "https://www.boletinoficial.gob.ar/detalleAviso/primera/266057/20220708",
+  "file": "005.txt",
+  "ok": false,
+  "error": "<urlopen error timed out>"
+ },
+ {
+  "n": 6,
+  "qid": "Q113000863",
+  "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/como-es-y-a-quien-pertenecio-la-casa-racionalista-de-barrio-parque-que-bustillo-no-quiso-firmar-nid04022025/",
+  "file": "006.txt",
+  "ok": true,
+  "chars": 7253
+ },
+ {
+  "n": 7,
+  "qid": "Q113000863",
+  "url": "https://universes.art/en/art-destinations/argentina/buenos-aires/art-spaces/casa-ocampo-fnartes",
+  "file": "007.txt",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 8,
+  "qid": "Q108905893",
+  "url": "https://d-a-r.hr/in-memoriam-akademik-boris-magas/",
+  "file": "008.txt",
+  "ok": true,
+  "chars": 13355
+ },
+ {
+  "n": 9,
+  "qid": "Q108905893",
+  "url": "https://gpz.hr/o-nama/boris-magas/",
+  "file": "009.txt",
+  "ok": true,
+  "chars": 2360
+ },
+ {
+  "n": 10,
+  "qid": "Q108905893",
+  "url": "https://www.bib.irb.hr/560136",
+  "file": "010.txt",
+  "ok": true,
+  "chars": 118
+ },
+ {
+  "n": 11,
+  "qid": "Q108905893",
+  "url": "https://www.arhitektura-zagreba.com/arhitekti/bozidar-magas",
+  "file": "011.txt",
+  "ok": true,
+  "chars": 1209
+ },
+ {
+  "n": 12,
+  "qid": "Q11995811",
+  "url": "https://www.dezeen.com/2012/10/03/plassen-cultural-centre-by-3xn/",
+  "file": "012.txt",
+  "ok": true,
+  "chars": 6893
+ },
+ {
+  "n": 13,
+  "qid": "Q11995811",
+  "url": "https://domusweb.it/en/news/2012/10/01/3xn-plassen-cultural-centre.html",
+  "file": "013.txt",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 14,
+  "qid": "Q11995811",
+  "url": "https://www.detail.de/de_en/flexible-and-full-of-jazz-cultural-center-plassen-16463",
+  "file": "014.txt",
+  "ok": false,
+  "error": "HTTP Error 410: Gone"
+ },
+ {
+  "n": 15,
+  "qid": "Q11995811",
+  "url": "https://www.dexigner.com/news/25723",
+  "file": "015.txt",
+  "ok": true,
+  "chars": 2348
+ },
+ {
+  "n": 16,
+  "qid": "Q104313867",
+  "url": "https://betoni.com/lehti/wp-content/uploads/sites/4/2021/12/BET2104_36-39.pdf",
+  "file": "016.txt",
+  "ok": true,
+  "chars": 26
+ },
+ {
+  "n": 17,
+  "qid": "Q104313867",
+  "url": "https://oopeaa.com/?p=10839",
+  "file": "017.txt",
+  "ok": true,
+  "chars": 7782
+ },
+ {
+  "n": 18,
+  "qid": "Q104313867",
+  "url": "https://world-architects.com/it/projects/view/tikkurila-church-and-housing",
+  "file": "018.txt",
+  "ok": true,
+  "chars": 6462
+ },
+ {
+  "n": 19,
+  "qid": "Q104313867",
+  "url": "https://www.floornature.com/oopeaa-church-parish-centre-and-social-housing-tikkurila-17039/",
+  "file": "019.txt",
+  "ok": false,
+  "error": "HTTP Error 403: Forbidden"
+ },
+ {
+  "n": 20,
+  "qid": "Q113883602",
+  "url": "https://www.archdaily.com/1003235/vennesla-church-link-arkitektur",
+  "file": "020.txt",
+  "ok": true,
+  "chars": 3438
+ },
+ {
+  "n": 21,
+  "qid": "Q113883602",
+  "url": "https://www.zi-online.info/en/artikel/brick-cladding-for-sacred-building-4254066.html",
+  "file": "021.txt",
+  "ok": true,
+  "chars": 6497
+ },
+ {
+  "n": 22,
+  "qid": "Q113883602",
+  "url": "https://www.kristiansand.kommune.no/contentassets/420afdf49deb40aa880efb0e91b05eb3/14.30-arets-byggepris-2022-.pdf",
+  "file": "022.txt",
+  "ok": false,
+  "error": "<urlopen error timed out>"
+ },
+ {
+  "n": 23,
+  "qid": "Q113883602",
+  "url": "https://byggeri-arkitektur.dk/link-vinder-konkurrencen-om-vennesla-kirke",
+  "file": "023.txt",
+  "ok": true,
+  "chars": 5821
+ },
+ {
+  "n": 24,
+  "qid": "Q16109901",
+  "url": "https://hkm.hr/vijesti/domovina/prisjecamo-se-prije-pet-godina-posvecena-crkva-gospe-velikoga-hrvatskog-krsnog-zavjeta-u-kninu/",
+  "file": "024.txt",
+  "ok": true,
+  "chars": 6258
+ },
+ {
+  "n": 25,
+  "qid": "Q16109901",
+  "url": "https://knin.hr/ostalo/posvecena-crkva-gospe-velikog-hrvatskog-krsnog-zavjeta/",
+  "file": "025.txt",
+  "ok": true,
+  "chars": 3241
+ },
+ {
+  "n": 26,
+  "qid": "Q16109901",
+  "url": "https://ika.hkm.hr/novosti/posveta-crkve-gospe-velikoga-hrvatskog-krsnog-zavjeta/",
+  "file": "026.txt",
+  "ok": true,
+  "chars": 5941
+ }
+]
