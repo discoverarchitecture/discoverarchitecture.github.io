@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-24T04:26:51+00:00",
+ "fetched_at": "2026-10-24T10:49:48+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1584,
+ "visits_30d": 1610,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 431,
+     "count": 436,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 12
     },
     {
-     "count": 19,
+     "count": 20,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -272,6 +272,14 @@
     },
     {
      "count": 3,
+     "path_id": 113297412,
+     "path": "/buildings/national-museum-of-the-republic",
+     "event": false,
+     "title": "National Museum of the Republic by Oscar Niemeyer: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113148939,
      "path": "building/state-trading-corporation-building",
      "event": true,
@@ -300,6 +308,14 @@
      "path": "/buildings/jacobs-ii-house-solar-hemicycle",
      "event": false,
      "title": "Jacobs II House (Solar Hemicycle) \u2014 Frank Lloyd Wright, 1948",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 112923199,
+     "path": "/buildings/casa-rotonda-stabio",
+     "event": false,
+     "title": "Casa Rotonda \u2014 Mario Botta, 1982: photos for a case study",
      "max": 1
     },
     {
@@ -348,6 +364,14 @@
      "path": "/buildings/supreme-court-of-pakistan",
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114289437,
+     "path": "/buildings/piazza-d-italia",
+     "event": false,
+     "title": "Piazza d'Italia by Charles Moore with Perez Architects",
      "max": 1
     },
     {
@@ -420,6 +444,14 @@
      "path": "building/hsbc-main-building",
      "event": true,
      "title": "HSBC Main Building",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114003976,
+     "path": "building/palacio-salvo",
+     "event": true,
+     "title": "Palacio Salvo",
      "max": 1
     },
     {
@@ -728,6 +760,14 @@
     },
     {
      "count": 2,
+     "path_id": 113349287,
+     "path": "/buildings/palacio-lapido",
+     "event": false,
+     "title": "Edificio Lapido (Palacio Lapido) by Juan Aubriot: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113334851,
      "path": "building/adgb-trade-union-school",
      "event": true,
@@ -740,14 +780,6 @@
      "path": "/buildings/termas-geometricas",
      "event": false,
      "title": "Termas Geom\u00e9tricas by Germ\u00e1n del Sol: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113297412,
-     "path": "/buildings/national-museum-of-the-republic",
-     "event": false,
-     "title": "National Museum of the Republic by Oscar Niemeyer: photos",
      "max": 1
     },
     {
@@ -773,60 +805,28 @@
      "event": false,
      "title": "Galleria Department Store (West) \u2014 UNStudio, 2004: photos",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112947619,
-     "path": "/buildings/bank-of-georgia-headquarters",
-     "event": false,
-     "title": "Bank of Georgia headquarters \u2014 George Chakhava, 1975: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112923199,
-     "path": "/buildings/casa-rotonda-stabio",
-     "event": false,
-     "title": "Casa Rotonda \u2014 Mario Botta, 1982: photos for a case study",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112793901,
-     "path": "/buildings/zarya-vostoka-building",
-     "event": false,
-     "title": "Zarya Vostoka building \u2014 David Chisliev, 1931: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 112766381,
-     "path": "/buildings/hooper-house-ii",
-     "event": false,
-     "title": "Hooper House II \u2014 Marcel Breuer, 1959: photos",
-     "max": 1
     }
    ],
-   "total": 891,
+   "total": 899,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 937,
+     "count": 950,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 298,
+     "count": 307,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 23,
+     "count": 24,
      "ref_scheme": "c"
     },
     {
@@ -896,6 +896,12 @@
      "ref_scheme": "c"
     },
     {
+     "id": "claude.ai",
+     "name": "claude.ai",
+     "count": 1,
+     "ref_scheme": "h"
+    },
+    {
      "id": "com.reddit.frontpage",
      "name": "com.reddit.frontpage",
      "count": 1,
@@ -915,12 +921,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1023
+     "count": 1036
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 539
+     "count": 552
     },
     {
      "id": "Firefox",
@@ -939,12 +945,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 535
+     "count": 542
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 473
+     "count": 485
     },
     {
      "id": "Android",
@@ -954,12 +960,12 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 129
+     "count": 132
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 85
+     "count": 89
     },
     {
      "name": "",
@@ -978,12 +984,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 890
+     "count": 902
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 198
+     "count": 203
+    },
+    {
+     "id": "DE",
+     "name": "Germany",
+     "count": 54
     },
     {
      "id": "GB",
@@ -991,19 +1002,14 @@
      "count": 54
     },
     {
-     "id": "DE",
-     "name": "Germany",
-     "count": 53
+     "id": "AU",
+     "name": "Australia",
+     "count": 32
     },
     {
      "id": "JP",
      "name": "Japan",
      "count": 32
-    },
-    {
-     "id": "AU",
-     "name": "Australia",
-     "count": 31
     },
     {
      "id": "CH",
@@ -1046,6 +1052,11 @@
      "count": 12
     },
     {
+     "id": "KR",
+     "name": "South Korea",
+     "count": 10
+    },
+    {
      "id": "AE",
      "name": "United Arab Emirates",
      "count": 9
@@ -1058,11 +1069,6 @@
     {
      "id": "ID",
      "name": "Indonesia",
-     "count": 8
-    },
-    {
-     "id": "KR",
-     "name": "South Korea",
      "count": 8
     },
     {
@@ -1084,6 +1090,11 @@
      "id": "PK",
      "name": "Pakistan",
      "count": 7
+    },
+    {
+     "id": "FI",
+     "name": "Finland",
+     "count": 6
     },
     {
      "id": "GR",
@@ -1111,8 +1122,8 @@
      "count": 5
     },
     {
-     "id": "FI",
-     "name": "Finland",
+     "id": "UA",
+     "name": "Ukraine",
      "count": 5
     },
     {
@@ -1123,6 +1134,11 @@
     {
      "id": "KZ",
      "name": "Kazakhstan",
+     "count": 4
+    },
+    {
+     "id": "LB",
+     "name": "Lebanon",
      "count": 4
     },
     {
@@ -1143,11 +1159,6 @@
     {
      "id": "TW",
      "name": "Taiwan",
-     "count": 4
-    },
-    {
-     "id": "UA",
-     "name": "Ukraine",
      "count": 4
     },
     {
@@ -1206,11 +1217,6 @@
      "count": 2
     },
     {
-     "id": "LB",
-     "name": "Lebanon",
-     "count": 2
-    },
-    {
      "id": "MW",
      "name": "Malawi",
      "count": 2
@@ -1218,6 +1224,11 @@
     {
      "id": "NO",
      "name": "Norway",
+     "count": 2
+    },
+    {
+     "id": "PL",
+     "name": "Poland",
      "count": 2
     },
     {
@@ -1311,11 +1322,6 @@
      "count": 1
     },
     {
-     "id": "PL",
-     "name": "Poland",
-     "count": 1
-    },
-    {
      "id": "PR",
      "name": "Puerto Rico",
      "count": 1
@@ -1343,7 +1349,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 822
+     "count": 834
     },
     {
      "id": "tablet",
@@ -1353,12 +1359,12 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 658
+     "count": 671
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 66
+     "count": 67
     },
     {
      "id": "unknown",
@@ -1373,7 +1379,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1584
+     "count": 1610
     }
    ],
    "more": false
