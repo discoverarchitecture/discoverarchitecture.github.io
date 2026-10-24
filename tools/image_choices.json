@@ -34735,6 +34735,11 @@
    "File:Hampstead Heath , Kenwood House - geograph.org.uk - 7691885.jpg",
    "File:Kenwood House North Facade.jpg",
    "File:1379242 I KENWOOD HOUSE, from N Camden London 20250612 0001.jpg"
+  ],
+  "skip": [
+   "File:1860 French jet hair combs (25064609927).jpg",
+   "File:Antique armchair (40401778062).jpg",
+   "File:Miniature paintings of children (39848864352).jpg"
   ]
  },
  "museum-of-the-republic-of-north-macedonia": {
@@ -34743,12 +34748,20 @@
    "File:Museum of the Republic of Macedonia 3.jpg",
    "File:Museum of the Republic of Macedonia 2.jpg",
    "File:Museum of Macedonia (28458705467).jpg"
+  ],
+  "skip": [
+   "File:Kurshumli-An-Skopje-MK.JPG",
+   "File:The Paeonian Priestess before Columns of the Archaeological Museum of North Macedonia, Skopje.jpg"
   ]
  },
  "historisches-museum-saar": {
   "category": "Category:Historisches Museum Saar",
   "add": [
    "File:Historisches Museum Saar Saarbruecken 01.jpg"
+  ],
+  "skip": [
+   "File:20200212Hanweiler Glocke1.jpg",
+   "File:20200212Hanweiler Glocke2.jpg"
   ]
  },
  "rietveld-pavilion": {
@@ -34770,6 +34783,9 @@
   "add": [
    "File:Rijschoolstraat 4 (Leuven).jpg",
    "File:De technische school Van de Velde , ext., gevelzicht - 354894 - onroerenderfgoed.jpg"
+  ],
+  "skip": [
+   "File:Indoor AED at library Leuven.jpg"
   ]
  },
  "riverside-art-museum": {
@@ -34782,6 +34798,11 @@
  "lake-suwa-museum": {
   "add": [
    "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg"
+  ],
+  "skip": [
+   "File:Ohouri-yashiki-ato, mon.jpg",
+   "File:Jinchoukan-Moriya-shiryoukan Oohouri-bosho-2.jpg",
+   "File:Jinchoukan-Moriya-shiryoukan Oohouri-bosho.JPG"
   ]
  },
  "forum-building": {
@@ -34805,6 +34826,9 @@
   "add": [
    "File:2024-0105-Chapel of St. Basil west elevation.jpg",
    "File:2024-0105-Chapel of St. Basil north elevation.jpg"
+  ],
+  "skip": [
+   "File:Houston Neartown banner.jpg"
   ]
  },
  "procuradoria-geral-da-republica": {
@@ -34821,6 +34845,9 @@
    "File:St. Ursula Kalscheuren.jpg",
    "File:St. Ursula, Hürth-Kalscheuren 2009-1.jpg",
    "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg"
+  ],
+  "skip": [
+   "File:Huerth-Kalscheuren-Kirche-036.JPG"
   ]
  },
  "obra-do-berco": {
@@ -34857,6 +34884,10 @@
   "add": [
    "File:Casa do Cantador.jpg",
    "File:Ceilândia DF Brasil - Casa do Cantador - panoramio.jpg"
+  ],
+  "skip": [
+   "File:Quadrilhas juninas movimentam a Casa do Cantador de Ceilândia (27295638074).jpg",
+   "File:Quadrilhas juninas movimentam a Casa do Cantador de Ceilândia (27295640014).jpg"
   ]
  },
  "auditorium-del-parco": {
@@ -34880,6 +34911,14 @@
  "museum-of-west-african-art": {
   "add": [
    "File:MOWAA June Site Visit Press Images B 03.jpg"
+  ],
+  "skip": [
+   "File:Roundel with Descent of the Damned (11162).jpg",
+   "File:Roundel with Martyrdom of Saint Jacobus Intercisus (11156).jpg",
+   "File:Roundel with Playing at Quintain (11166).jpg",
+   "File:The Cloisters - Gallery 1 - Romanesque Hall 01.jpg",
+   "File:Doorway and Staircase Enclosure MET DP102830.jpg",
+   "File:Section of a Border MET tr189-2009d1.jpg"
   ]
  },
  "san-paolo-apostolo-foligno": {
@@ -34888,6 +34927,10 @@
    "File:Foligno, San Paolo Apostolo 01.JPG",
    "File:Foligno - Chiesa di San Paolo Apostolo - 001.JPG",
    "File:Foligno - Chiesa di San Paolo Apostolo - 003.JPG"
+  ],
+  "skip": [
+   "File:San Paolo Apostolo in Foligno - Panorama.jpg",
+   "File:San Paolo Apostolo in Foligno - Panorama (edited).jpg"
   ]
  },
  "ibm-studios": {
@@ -34902,6 +34945,9 @@
   "add": [
    "File:Israel ind mus.JPG",
    "File:Independence Hall - Israel.jpg"
+  ],
+  "skip": [
+   "File:Independence hall tel aviv under the portret of Theodor Hertzel.jpg"
   ]
  },
  "domkyrkoforum": {

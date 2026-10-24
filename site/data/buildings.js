@@ -357731,47 +357731,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:1379242_I_KENWOOD_HOUSE,_from_N_Camden_London_20250612_0002.jpg",
     "file": "File:1379242 I KENWOOD HOUSE, from N Camden London 20250612 0002.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/1860_French_jet_hair_combs_%2825064609927%29.jpg/1280px-1860_French_jet_hair_combs_%2825064609927%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kenwood-house/thumbs/4.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Kenwood House, London, 2017",
-    "credit": "Thomas Quine",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:1860_French_jet_hair_combs_(25064609927).jpg",
-    "file": "File:1860 French jet hair combs (25064609927).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Antique_armchair_%2840401778062%29.jpg/1280px-Antique_armchair_%2840401778062%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kenwood-house/thumbs/5.webp",
-    "w": 933,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior · Kenwood House, London, 2017",
-    "credit": "Thomas Quine",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Antique_armchair_(40401778062).jpg",
-    "file": "File:Antique armchair (40401778062).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Miniature_paintings_of_children_%2839848864352%29.jpg/1280px-Miniature_paintings_of_children_%2839848864352%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/kenwood-house/thumbs/6.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Model",
-    "caption": "Model · Unknown girl and Master Baines - Kenwood House, London, 2017",
-    "credit": "Thomas Quine",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Miniature_paintings_of_children_(39848864352).jpg",
-    "file": "File:Miniature paintings of children (39848864352).jpg"
    }
   ],
-  "has": [
-   "Model"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -357845,30 +357807,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Skopje,_Muzeum_Makedonie.jpg",
     "file": "File:Skopje, Muzeum Makedonie.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Kurshumli-An-Skopje-MK.JPG/1280px-Kurshumli-An-Skopje-MK.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-the-republic-of-north-macedonia/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Interior",
-    "caption": "Interior · Interior of the Kurshumli An in Skopje, Macedonia",
-    "credit": "Македонец",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Kurshumli-An-Skopje-MK.JPG",
-    "file": "File:Kurshumli-An-Skopje-MK.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/The_Paeonian_Priestess_before_Columns_of_the_Archaeological_Museum_of_North_Macedonia%2C_Skopje.jpg/1280px-The_Paeonian_Priestess_before_Columns_of_the_Archaeological_Museum_of_North_Macedonia%2C_Skopje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-the-republic-of-north-macedonia/thumbs/5.webp",
-    "w": 1280,
-    "h": 883,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Julian Lupyan",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Paeonian_Priestess_before_Columns_of_the_Archaeological_Museum_of_North_Macedonia,_Skopje.jpg",
-    "file": "File:The Paeonian Priestess before Columns of the Archaeological Museum of North Macedonia, Skopje.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Museum_of_Macedonia_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -357959,30 +357897,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Kaiserzeit_an_der_Saar.jpg",
     "file": "File:Kaiserzeit an der Saar.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/20200212Hanweiler_Glocke1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/historisches-museum-saar/thumbs/4.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "AnRo0002",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:20200212Hanweiler_Glocke1.jpg",
-    "file": "File:20200212Hanweiler Glocke1.jpg"
-   },
-   {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/20200212Hanweiler_Glocke2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "thumb": "images/historisches-museum-saar/thumbs/5.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "AnRo0002",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:20200212Hanweiler_Glocke2.jpg",
-    "file": "File:20200212Hanweiler Glocke2.jpg"
    }
   ],
   "has": [],
@@ -358247,18 +358161,6 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:De_technische_school,_interieur_-_354776_-_onroerenderfgoed.jpg",
     "file": "File:De technische school, interieur - 354776 - onroerenderfgoed.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Indoor_AED_at_library_Leuven.jpg/1280px-Indoor_AED_at_library_Leuven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/national-institute-for-technical-education-leuven/thumbs/4.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Detail",
-    "caption": "Detail",
-    "credit": "Landolso",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Indoor_AED_at_library_Leuven.jpg",
-    "file": "File:Indoor AED at library Leuven.jpg"
    }
   ],
   "has": [],
@@ -358387,42 +358289,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Municipal_Suwako_museum_and_Shimaki_Akahiko_memorial_museum.jpg",
     "file": "File:Municipal Suwako museum and Shimaki Akahiko memorial museum.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Ohouri-yashiki-ato%2C_mon.jpg/1280px-Ohouri-yashiki-ato%2C_mon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lake-suwa-museum/thumbs/1.webp",
-    "w": 1280,
-    "h": 849,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Saigen Jiro",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Ohouri-yashiki-ato,_mon.jpg",
-    "file": "File:Ohouri-yashiki-ato, mon.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Jinchoukan-Moriya-shiryoukan_Oohouri-bosho-2.jpg/1280px-Jinchoukan-Moriya-shiryoukan_Oohouri-bosho-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lake-suwa-museum/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Saigen Jiro",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jinchoukan-Moriya-shiryoukan_Oohouri-bosho-2.jpg",
-    "file": "File:Jinchoukan-Moriya-shiryoukan Oohouri-bosho-2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Jinchoukan-Moriya-shiryoukan_Oohouri-bosho.JPG/1280px-Jinchoukan-Moriya-shiryoukan_Oohouri-bosho.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/lake-suwa-museum/thumbs/3.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Exterior",
-    "caption": "Exterior",
-    "credit": "Saigen Jiro",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Jinchoukan-Moriya-shiryoukan_Oohouri-bosho.JPG",
-    "file": "File:Jinchoukan-Moriya-shiryoukan Oohouri-bosho.JPG"
    }
   ],
   "has": [],
@@ -358463,18 +358329,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.0",
     "source": "https://commons.wikimedia.org/wiki/File:Barcelona_2006_(2845523246).jpg",
     "file": "File:Barcelona 2006 (2845523246).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Edifici_F%C3%B2rum_Barcelona_Catalonia.jpg/1280px-Edifici_F%C3%B2rum_Barcelona_Catalonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/forum-building/thumbs/1.webp",
-    "w": 1280,
-    "h": 851,
-    "kind": "Detail",
-    "caption": "Detail · Edifici Fòrum a Barcelona , vist des de l'Hotel AC Forum",
-    "credit": "ILESH",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Edifici_F%C3%B2rum_Barcelona_Catalonia.jpg",
-    "file": "File:Edifici Fòrum Barcelona Catalonia.jpg"
    },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Barcelona_2006_%282845523526%29.jpg/1280px-Barcelona_2006_%282845523526%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -358523,6 +358377,18 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Museu_Blau_space.JPG",
     "file": "File:Inside the Museu Blau space.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Edifici_F%C3%B2rum_Barcelona_Catalonia.jpg/1280px-Edifici_F%C3%B2rum_Barcelona_Catalonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/forum-building/thumbs/1.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Detail",
+    "caption": "Detail · Edifici Fòrum a Barcelona , vist des de l'Hotel AC Forum",
+    "credit": "ILESH",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edifici_F%C3%B2rum_Barcelona_Catalonia.jpg",
+    "file": "File:Edifici Fòrum Barcelona Catalonia.jpg"
    }
   ],
   "has": [],
@@ -358624,10 +358490,22 @@ window.BUILDINGS = [
   "study": "Philip Johnson's chapel on the University of St. Thomas campus in Houston, Texas.",
   "qid": null,
   "commons": "Category:Chapel of St. Basil, Houston",
-  "lead": "File:2024-0105-Chapel of St. Basil west elevation.jpg",
+  "lead": "2024-0105-Chapel of St. Basil west elevation.jpg",
   "coords": null,
   "hotlink": true,
   "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2024-0105-Chapel_of_St._Basil_west_elevation.jpg/1280px-2024-0105-Chapel_of_St._Basil_west_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/chapel-of-st-basil/thumbs/5.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Elevation",
+    "caption": "Elevation · Western façade of the Chapel of St",
+    "credit": "Bobak Ha'Eri",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024-0105-Chapel_of_St._Basil_west_elevation.jpg",
+    "file": "File:2024-0105-Chapel of St. Basil west elevation.jpg"
+   },
    {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/2024-0105-Chapel_of_St._Basil_entrance.jpg/1280px-2024-0105-Chapel_of_St._Basil_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/chapel-of-st-basil/thumbs/0.webp",
@@ -358653,18 +358531,6 @@ window.BUILDINGS = [
     "file": "File:StThomaseYlikooliKirik.JPG"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Houston_Neartown_banner.jpg/1280px-Houston_Neartown_banner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chapel-of-st-basil/thumbs/2.webp",
-    "w": 1280,
-    "h": 183,
-    "kind": "Exterior",
-    "caption": "Exterior · Wikivoyage banner of Houston Neartown, depicting Chapel of St",
-    "credit": "Ymblanter",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Houston_Neartown_banner.jpg",
-    "file": "File:Houston Neartown banner.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/2024-0105-Chapel_of_St._Basil_interior.jpg/1280px-2024-0105-Chapel_of_St._Basil_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/chapel-of-st-basil/thumbs/3.webp",
     "w": 1280,
@@ -358687,18 +358553,6 @@ window.BUILDINGS = [
     "license": "CC BY 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Chapel.st.basil.night.jpg",
     "file": "File:Chapel.st.basil.night.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2024-0105-Chapel_of_St._Basil_west_elevation.jpg/1280px-2024-0105-Chapel_of_St._Basil_west_elevation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/chapel-of-st-basil/thumbs/5.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Elevation",
-    "caption": "Elevation · Western façade of the Chapel of St",
-    "credit": "Bobak Ha'Eri",
-    "license": "CC BY 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:2024-0105-Chapel_of_St._Basil_west_elevation.jpg",
-    "file": "File:2024-0105-Chapel of St. Basil west elevation.jpg"
    }
   ],
   "has": [
@@ -358853,18 +358707,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:St._Ursula,_H%C3%BCrth-Kalscheuren_2009-2.jpg",
     "file": "File:St. Ursula, Hürth-Kalscheuren 2009-2.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Huerth-Kalscheuren-Kirche-036.JPG/1280px-Huerth-Kalscheuren-Kirche-036.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/sankt-ursula-kalscheuren/thumbs/3.webp",
-    "w": 1050,
-    "h": 1400,
-    "kind": "Exterior",
-    "caption": "Exterior · Hürth-Kalscheuren, St",
-    "credit": "Willy Horsch",
-    "license": "CC BY 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Huerth-Kalscheuren-Kirche-036.JPG",
-    "file": "File:Huerth-Kalscheuren-Kirche-036.JPG"
    }
   ],
   "has": [],
@@ -359161,30 +359003,6 @@ window.BUILDINGS = [
     "license": "CC BY 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Ceil%C3%A2ndia_DF_Brasil_-_Casa_do_Cantador_-_panoramio.jpg",
     "file": "File:Ceilândia DF Brasil - Casa do Cantador - panoramio.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Quadrilhas_juninas_movimentam_a_Casa_do_Cantador_de_Ceil%C3%A2ndia_%2827295638074%29.jpg/1280px-Quadrilhas_juninas_movimentam_a_Casa_do_Cantador_de_Ceil%C3%A2ndia_%2827295638074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-do-cantador/thumbs/2.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Ceilândia, Brasília, DF, Brasil 25/6/2016 Foto: Tony Winston/Agência Brasília",
-    "credit": "Agência Brasília",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Quadrilhas_juninas_movimentam_a_Casa_do_Cantador_de_Ceil%C3%A2ndia_(27295638074).jpg",
-    "file": "File:Quadrilhas juninas movimentam a Casa do Cantador de Ceilândia (27295638074).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Quadrilhas_juninas_movimentam_a_Casa_do_Cantador_de_Ceil%C3%A2ndia_%2827295640014%29.jpg/1280px-Quadrilhas_juninas_movimentam_a_Casa_do_Cantador_de_Ceil%C3%A2ndia_%2827295640014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/casa-do-cantador/thumbs/3.webp",
-    "w": 1280,
-    "h": 850,
-    "kind": "Exterior",
-    "caption": "Exterior · Ceilândia, Brasília, DF, Brasil 25/6/2016 Foto: Tony Winston/Agência Brasília",
-    "credit": "Agência Brasília",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Quadrilhas_juninas_movimentam_a_Casa_do_Cantador_de_Ceil%C3%A2ndia_(27295640014).jpg",
-    "file": "File:Quadrilhas juninas movimentam a Casa do Cantador de Ceilândia (27295640014).jpg"
    }
   ],
   "has": [],
@@ -359303,18 +359121,6 @@ window.BUILDINGS = [
     "file": "File:Nariwa-cho museum01s4000m.jpg"
    },
    {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nariwa-cho_museum03s3200.jpg/1280px-Nariwa-cho_museum03s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/nariwa-museum/thumbs/1.webp",
-    "w": 937,
-    "h": 1400,
-    "kind": "Detail",
-    "caption": "Detail · Nariwa-cho Art Museum, Takahashi , Okayama, Japan",
-    "credit": "663highland",
-    "license": "CC BY 2.5",
-    "source": "https://commons.wikimedia.org/wiki/File:Nariwa-cho_museum03s3200.jpg",
-    "file": "File:Nariwa-cho museum03s3200.jpg"
-   },
-   {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nariwa-cho_museum04s3200.jpg/1280px-Nariwa-cho_museum04s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "thumb": "images/nariwa-museum/thumbs/2.webp",
     "w": 937,
@@ -359325,6 +359131,18 @@ window.BUILDINGS = [
     "license": "CC BY 2.5",
     "source": "https://commons.wikimedia.org/wiki/File:Nariwa-cho_museum04s3200.jpg",
     "file": "File:Nariwa-cho museum04s3200.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Nariwa-cho_museum03s3200.jpg/1280px-Nariwa-cho_museum03s3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/nariwa-museum/thumbs/1.webp",
+    "w": 937,
+    "h": 1400,
+    "kind": "Detail",
+    "caption": "Detail · Nariwa-cho Art Museum, Takahashi , Okayama, Japan",
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Nariwa-cho_museum03s3200.jpg",
+    "file": "File:Nariwa-cho museum03s3200.jpg"
    }
   ],
   "has": [],
@@ -359365,83 +359183,9 @@ window.BUILDINGS = [
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:MOWAA_June_Site_Visit_Press_Images_B_03.jpg",
     "file": "File:MOWAA June Site Visit Press Images B 03.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Roundel_with_Descent_of_the_Damned_%2811162%29.jpg/1280px-Roundel_with_Descent_of_the_Damned_%2811162%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-west-african-art/thumbs/1.webp",
-    "w": 1280,
-    "h": 1278,
-    "kind": "Exterior",
-    "caption": "Exterior · Roundel with Descent of the Damned, ca",
-    "credit": "Rhododendrites",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roundel_with_Descent_of_the_Damned_(11162).jpg",
-    "file": "File:Roundel with Descent of the Damned (11162).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Roundel_with_Martyrdom_of_Saint_Jacobus_Intercisus_%2811156%29.jpg/1280px-Roundel_with_Martyrdom_of_Saint_Jacobus_Intercisus_%2811156%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-west-african-art/thumbs/2.webp",
-    "w": 1280,
-    "h": 1290,
-    "kind": "Exterior",
-    "caption": "Exterior · Roundel with Martyrdom of Saint Jacobus Intercisus, ca",
-    "credit": "Rhododendrites",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roundel_with_Martyrdom_of_Saint_Jacobus_Intercisus_(11156).jpg",
-    "file": "File:Roundel with Martyrdom of Saint Jacobus Intercisus (11156).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Roundel_with_Playing_at_Quintain_%2811166%29.jpg/1280px-Roundel_with_Playing_at_Quintain_%2811166%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-west-african-art/thumbs/3.webp",
-    "w": 1280,
-    "h": 1230,
-    "kind": "Exterior",
-    "caption": "Exterior · Roundel with Playing at Quintain, ca",
-    "credit": "Rhododendrites",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Roundel_with_Playing_at_Quintain_(11166).jpg",
-    "file": "File:Roundel with Playing at Quintain (11166).jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/The_Cloisters_-_Gallery_1_-_Romanesque_Hall_01.jpg/1280px-The_Cloisters_-_Gallery_1_-_Romanesque_Hall_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-west-african-art/thumbs/4.webp",
-    "w": 1280,
-    "h": 853,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Joe Mabel",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:The_Cloisters_-_Gallery_1_-_Romanesque_Hall_01.jpg",
-    "file": "File:The Cloisters - Gallery 1 - Romanesque Hall 01.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Doorway_and_Staircase_Enclosure_MET_DP102830.jpg/1280px-Doorway_and_Staircase_Enclosure_MET_DP102830.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-west-african-art/thumbs/5.webp",
-    "w": 1280,
-    "h": 1280,
-    "kind": "Interior",
-    "caption": "Interior · French; Staircase; Woodwork-Architectural",
-    "credit": "This file was donated to Wikimedia Commons as part of a project by the  Metropolitan Museum of Art .",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Doorway_and_Staircase_Enclosure_MET_DP102830.jpg",
-    "file": "File:Doorway and Staircase Enclosure MET DP102830.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Section_of_a_Border_MET_tr189-2009d1.jpg/1280px-Section_of_a_Border_MET_tr189-2009d1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/museum-of-west-african-art/thumbs/6.webp",
-    "w": 1280,
-    "h": 878,
-    "kind": "Section",
-    "caption": "Section · French; Border fragment; Glass-Stained",
-    "credit": "Creator:Rémois Atelier",
-    "license": "CC0",
-    "source": "https://commons.wikimedia.org/wiki/File:Section_of_a_Border_MET_tr189-2009d1.jpg",
-    "file": "File:Section of a Border MET tr189-2009d1.jpg"
    }
   ],
-  "has": [
-   "Section"
-  ],
+  "has": [],
   "gv": 3
  },
  {
@@ -359515,30 +359259,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Foligno,_San_Paolo_Apostolo_02.JPG",
     "file": "File:Foligno, San Paolo Apostolo 02.JPG"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/San_Paolo_Apostolo_in_Foligno_-_Panorama.jpg/1280px-San_Paolo_Apostolo_in_Foligno_-_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-paolo-apostolo-foligno/thumbs/4.webp",
-    "w": 1280,
-    "h": 960,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Daniele Costantini",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:San_Paolo_Apostolo_in_Foligno_-_Panorama.jpg",
-    "file": "File:San Paolo Apostolo in Foligno - Panorama.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/San_Paolo_Apostolo_in_Foligno_-_Panorama_%28edited%29.jpg/1280px-San_Paolo_Apostolo_in_Foligno_-_Panorama_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/san-paolo-apostolo-foligno/thumbs/5.webp",
-    "w": 1280,
-    "h": 910,
-    "kind": "Context",
-    "caption": "Context",
-    "credit": "Daniele Costantini",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/wiki/File:San_Paolo_Apostolo_in_Foligno_-_Panorama_(edited).jpg",
-    "file": "File:San Paolo Apostolo in Foligno - Panorama (edited).jpg"
    }
   ],
   "has": [],
@@ -359679,18 +359399,6 @@ window.BUILDINGS = [
     "license": "CC BY-SA 3.0",
     "source": "https://commons.wikimedia.org/wiki/File:Independence_hall_tel_aviv_a_special_visitor!.jpg",
     "file": "File:Independence hall tel aviv a special visitor!.jpg"
-   },
-   {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Independence_hall_tel_aviv_under_the_portret_of_Theodor_Hertzel.jpg/1280px-Independence_hall_tel_aviv_under_the_portret_of_Theodor_Hertzel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "thumb": "images/independence-hall-israel/thumbs/3.webp",
-    "w": 928,
-    "h": 1400,
-    "kind": "Interior",
-    "caption": "Interior",
-    "credit": "Felicitajakoel",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/wiki/File:Independence_hall_tel_aviv_under_the_portret_of_Theodor_Hertzel.jpg",
-    "file": "File:Independence hall tel aviv under the portret of Theodor Hertzel.jpg"
    },
    {
     "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/PikiWiki_Israel_5509_Landscapes_of_Israel_-_Mini_Israel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
