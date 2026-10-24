@@ -359516,7 +359516,71 @@ window.BUILDINGS = [
   "commons": "Category:Senate Palace (Tehran)",
   "lead": "File:Majlese sena 1.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Majlese_sena_1.jpg/1280px-Majlese_sena_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senate-palace-tehran/thumbs/0.webp",
+    "w": 1280,
+    "h": 720,
+    "kind": "Exterior",
+    "caption": "Exterior · This is a photo of a monument in Iran identified by the ID",
+    "credit": "Azadi68",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Majlese_sena_1.jpg",
+    "file": "File:Majlese sena 1.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Iranian_senate_building.jpg/1280px-Iranian_senate_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senate-palace-tehran/thumbs/1.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Exterior",
+    "caption": "Exterior · Iranian senate building in 2019",
+    "credit": "Telluride",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Iranian_senate_building.jpg",
+    "file": "File:Iranian senate building.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Senate_Palace_of_Iran_in_Tehran.jpg/1280px-Senate_Palace_of_Iran_in_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senate-palace-tehran/thumbs/2.webp",
+    "w": 1280,
+    "h": 747,
+    "kind": "Context",
+    "caption": "Context",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Senate_Palace_of_Iran_in_Tehran.jpg",
+    "file": "File:Senate Palace of Iran in Tehran.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/CENTO_in_Senate_Tehran.jpg/1280px-CENTO_in_Senate_Tehran.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senate-palace-tehran/thumbs/3.webp",
+    "w": 1280,
+    "h": 813,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Unknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:CENTO_in_Senate_Tehran.jpg",
+    "file": "File:CENTO in Senate Tehran.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF%29.jpg/1280px-%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_%28%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/senate-palace-tehran/thumbs/4.webp",
+    "w": 950,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "وزارت اطلاعات و جهانگردی",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:%D8%A7%D8%B5%E2%80%8D%D9%88%D9%84_%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%E2%80%8C%DA%AF%E2%80%8D%D8%A7%D9%86%E2%80%8D%D9%87_%D8%A7%D9%86%E2%80%8D%D9%82%E2%80%8D%D9%84%D8%A7%D8%A8_%D8%B4%E2%80%8D%D8%A7%D9%87_%D9%88_%D9%85%E2%80%8D%D9%84%E2%80%8D%D8%AA_-_%D9%88%D8%B2%D8%A7%D8%B1%D8%AA_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA_%D9%88_%D8%AC%D9%87%D8%A7%D9%86%DA%AF%D8%B1%D8%AF%DB%8C_(%D9%BE%D8%B4%D8%AA_%D8%AC%D9%84%D8%AF).jpg",
+    "file": "File:اص‍ول دوازده‌گ‍ان‍ه ان‍ق‍لاب ش‍اه و م‍ل‍ت - وزارت اطلاعات و جهانگردی (پشت جلد).jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "casa-de-victoria-ocampo",
@@ -359540,7 +359604,59 @@ window.BUILDINGS = [
   "commons": "Category:Casa de Victoria Ocampo (Buenos Aires)",
   "lead": "File:La casa de Victoria Ocampo en Palermo Chico.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/La_casa_de_Victoria_Ocampo_en_Palermo_Chico.jpg/1280px-La_casa_de_Victoria_Ocampo_en_Palermo_Chico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-de-victoria-ocampo/thumbs/0.webp",
+    "w": 1280,
+    "h": 851,
+    "kind": "Exterior",
+    "caption": "Exterior",
+    "credit": "Matías Profeta",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_casa_de_Victoria_Ocampo_en_Palermo_Chico.jpg",
+    "file": "File:La casa de Victoria Ocampo en Palermo Chico.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Casa_de_Victoria_Ocampo%2C_Palermo_01.jpg/1280px-Casa_de_Victoria_Ocampo%2C_Palermo_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-de-victoria-ocampo/thumbs/1.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Victoria Ocampo (sede cultural del Fondo Nacional de las Artes)",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Victoria_Ocampo,_Palermo_01.jpg",
+    "file": "File:Casa de Victoria Ocampo, Palermo 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Casa_de_Victoria_Ocampo%2C_Palermo_02.jpg/1280px-Casa_de_Victoria_Ocampo%2C_Palermo_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-de-victoria-ocampo/thumbs/2.webp",
+    "w": 1280,
+    "h": 958,
+    "kind": "Exterior",
+    "caption": "Exterior · Casa Victoria Ocampo (sede cultural del Fondo Nacional de las Artes)",
+    "credit": "Roberto Fiadone",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Victoria_Ocampo,_Palermo_02.jpg",
+    "file": "File:Casa de Victoria Ocampo, Palermo 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/EditatonMujeresCultura-jun2019_01.jpg/1280px-EditatonMujeresCultura-jun2019_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-de-victoria-ocampo/thumbs/3.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Editatón Mujeres en la Cultura, Casa de Victoria Ocampo, Buenos Aires, Argentina",
+    "credit": "Ezarate",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EditatonMujeresCultura-jun2019_01.jpg",
+    "file": "File:EditatonMujeresCultura-jun2019 01.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "plassen-cultural-centre",
@@ -359564,7 +359680,59 @@ window.BUILDINGS = [
   "commons": "Category:Plassen kulturhus",
   "lead": "File:Molde bibliotek 15.08.2013 12-37-03.JPG",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Molde_bibliotek_15.08.2013_12-37-03.JPG/1280px-Molde_bibliotek_15.08.2013_12-37-03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plassen-cultural-centre/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Molde bibliotek holder til i kulturbygget Plassen midt i Molde sentrum",
+    "credit": "Vidar Iversen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Molde_bibliotek_15.08.2013_12-37-03.JPG",
+    "file": "File:Molde bibliotek 15.08.2013 12-37-03.JPG"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg/1280px-Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plassen-cultural-centre/thumbs/1.webp",
+    "w": 1105,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · 30",
+    "credit": "Hilde Merete Gjessing",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Molde_bibliotek_%C3%85rets_bok_til_alle-bibliotek_2015.jpg",
+    "file": "File:Molde bibliotek Årets bok til alle-bibliotek 2015.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Molde_bibliotek.jpg/1280px-Molde_bibliotek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plassen-cultural-centre/thumbs/2.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Molde bibliotek, 1.etasje - hovedskranken",
+    "credit": "Alisiamyr",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Molde_bibliotek.jpg",
+    "file": "File:Molde bibliotek.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Aviskrok.jpg/1280px-Aviskrok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/plassen-cultural-centre/thumbs/3.webp",
+    "w": 1280,
+    "h": 960,
+    "kind": "Interior",
+    "caption": "Interior · Molde bibliotek, 1.etasje - aviskrok",
+    "credit": "Alisiamyr",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aviskrok.jpg",
+    "file": "File:Aviskrok.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "tikkurila-church",
@@ -359588,7 +359756,83 @@ window.BUILDINGS = [
   "commons": "Category:Tikkurila Church (2021)",
   "lead": "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021_-_01.jpg/1280px-Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Tikkurilan uusi kirkko",
+    "credit": "Stella Karlsson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tikkurila_Church_in_Vantaa,_Finland,_2021_-_01.jpg",
+    "file": "File:Tikkurila Church in Vantaa, Finland, 2021 - 01.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg/1280px-Main_entrance_of_Tikkurila_Church_in_Vantaa%2C_Finland%2C_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/1.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Detail",
+    "caption": "Detail · Tikkurilan uusi kirkko",
+    "credit": "Stella Karlsson",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_entrance_of_Tikkurila_Church_in_Vantaa,_Finland,_2021.jpg",
+    "file": "File:Main entrance of Tikkurila Church in Vantaa, Finland, 2021.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Reflected_view_at_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg/1280px-Reflected_view_at_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/2.webp",
+    "w": 1280,
+    "h": 835,
+    "kind": "Exterior",
+    "caption": "Exterior · Reflected view at Tikkurilantori in Tikkurila, Vantaa, Finland in 2021 May",
+    "credit": "Ximonic (Simo Räsänen)",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflected_view_at_Tikkurilantori_in_Tikkurila,_Vantaa,_Finland,_2021_May.jpg",
+    "file": "File:Reflected view at Tikkurilantori in Tikkurila, Vantaa, Finland, 2021 May.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/From_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg/1280px-From_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/3.webp",
+    "w": 1280,
+    "h": 865,
+    "kind": "Exterior",
+    "caption": "Exterior · A cityscape from Tikkurilantori in Tikkurila, Vantaa, Finland in 2021 May",
+    "credit": "Ximonic (Simo Räsänen)",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:From_Tikkurilantori_in_Tikkurila,_Vantaa,_Finland,_2021_May.jpg",
+    "file": "File:From Tikkurilantori in Tikkurila, Vantaa, Finland, 2021 May.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/From_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May_-_2.jpg/1280px-From_Tikkurilantori_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2021_May_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/4.webp",
+    "w": 1280,
+    "h": 784,
+    "kind": "Exterior",
+    "caption": "Exterior · A cityscape from Tikkurilantori in Tikkurila, Vantaa, Finland in 2021 May",
+    "credit": "Ximonic (Simo Räsänen)",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:From_Tikkurilantori_in_Tikkurila,_Vantaa,_Finland,_2021_May_-_2.jpg",
+    "file": "File:From Tikkurilantori in Tikkurila, Vantaa, Finland, 2021 May - 2.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_03.jpg/1280px-Asematie_in_Tikkurila%2C_Vantaa%2C_Finland%2C_2024_March_%E2%80%93_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/tikkurila-church/thumbs/5.webp",
+    "w": 1280,
+    "h": 854,
+    "kind": "Interior",
+    "caption": "Interior · Näkymä Asematieltä koillisen suuntaan",
+    "credit": "Sanni Penttinen",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asematie_in_Tikkurila,_Vantaa,_Finland,_2024_March_%E2%80%93_03.jpg",
+    "file": "File:Asematie in Tikkurila, Vantaa, Finland, 2024 March – 03.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  },
  {
   "id": "vennesla-church",
@@ -359612,6 +359856,22 @@ window.BUILDINGS = [
   "commons": "Category:Vennesla kirke",
   "lead": "File:Vennesla Kirke.jpg",
   "coords": null,
-  "hotlink": true
+  "hotlink": true,
+  "images": [
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Vennesla_Kirke.jpg/1280px-Vennesla_Kirke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/vennesla-church/thumbs/0.webp",
+    "w": 1280,
+    "h": 853,
+    "kind": "Exterior",
+    "caption": "Exterior · Vennesla Kirke",
+    "credit": "Jon Oestby",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vennesla_Kirke.jpg",
+    "file": "File:Vennesla Kirke.jpg"
+   }
+  ],
+  "has": [],
+  "gv": 3
  }
 ];
