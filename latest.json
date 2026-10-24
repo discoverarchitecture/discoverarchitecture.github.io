@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-24T10:49:48+00:00",
+ "fetched_at": "2026-10-24T15:50:51+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1610,
+ "visits_30d": 1635,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 436,
+     "count": 441,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 12
     },
     {
-     "count": 20,
+     "count": 21,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -143,6 +143,14 @@
      "max": 1
     },
     {
+     "count": 5,
+     "path_id": 112168513,
+     "path": "/buildings/villa-schreiner",
+     "event": false,
+     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
      "count": 4,
      "path_id": 113925666,
      "path": "/buildings/palazzetto-dello-sport",
@@ -172,14 +180,6 @@
      "path": "/buildings/fredensborg-houses",
      "event": false,
      "title": "Fredensborg Houses \u2014 J\u00f8rn Utzon, 1963: photos",
-     "max": 1
-    },
-    {
-     "count": 4,
-     "path_id": 112168513,
-     "path": "/buildings/villa-schreiner",
-     "event": false,
-     "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
     },
     {
@@ -368,6 +368,22 @@
     },
     {
      "count": 2,
+     "path_id": 114551490,
+     "path": "building/museo-de-arte-moderno",
+     "event": true,
+     "title": "Museo de Arte Moderno",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114544782,
+     "path": "/buildings/siida-museum",
+     "event": false,
+     "title": "Siida by Juhani Pallasmaa, 1998: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 114289437,
      "path": "/buildings/piazza-d-italia",
      "event": false,
@@ -380,6 +396,14 @@
      "path": "/buildings/aaltoalvari",
      "event": false,
      "title": "AaltoAlvari swimming hall by Alvar Aalto: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114198931,
+     "path": "/buildings/minna-no-mori-gifu-media-cosmos",
+     "event": false,
+     "title": "Minna no Mori Gifu Media Cosmos by Toyo Ito: photos",
      "max": 1
     },
     {
@@ -752,6 +776,14 @@
     },
     {
      "count": 2,
+     "path_id": 113367616,
+     "path": "/buildings/burj-al-arab",
+     "event": false,
+     "title": "Burj Al Arab by Tom Wright: photos, plans & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113366503,
      "path": "/buildings/lamune-onsen",
      "event": false,
@@ -773,60 +805,28 @@
      "event": true,
      "title": "ADGB Trade Union School",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113304414,
-     "path": "/buildings/termas-geometricas",
-     "event": false,
-     "title": "Termas Geom\u00e9tricas by Germ\u00e1n del Sol: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113272631,
-     "path": "/buildings/breuer-house-ii-new-canaan",
-     "event": false,
-     "title": "Breuer House II by Marcel Breuer: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113212614,
-     "path": "/buildings/world-forum-congress-building",
-     "event": false,
-     "title": "World Forum (Congress Building) \u2014 J. J. P. Oud, 1969: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113066354,
-     "path": "/buildings/galleria-department-store-seoul",
-     "event": false,
-     "title": "Galleria Department Store (West) \u2014 UNStudio, 2004: photos",
-     "max": 1
     }
    ],
-   "total": 899,
+   "total": 906,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 950,
+     "count": 958,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 307,
+     "count": 315,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 24,
+     "count": 28,
      "ref_scheme": "c"
     },
     {
@@ -838,8 +838,14 @@
     {
      "id": "reddit",
      "name": "reddit",
-     "count": 13,
+     "count": 14,
      "ref_scheme": "c"
+    },
+    {
+     "id": "gemini.google.com",
+     "name": "gemini.google.com",
+     "count": 11,
+     "ref_scheme": "h"
     },
     {
      "id": "wall",
@@ -852,12 +858,6 @@
      "name": "gads",
      "count": 9,
      "ref_scheme": "c"
-    },
-    {
-     "id": "gemini.google.com",
-     "name": "gemini.google.com",
-     "count": 9,
-     "ref_scheme": "h"
     },
     {
      "id": "www.bing.com",
@@ -921,12 +921,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1036
+     "count": 1049
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 552
+     "count": 564
     },
     {
      "id": "Firefox",
@@ -945,12 +945,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 542
+     "count": 550
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 485
+     "count": 494
     },
     {
      "id": "Android",
@@ -960,12 +960,12 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 132
+     "count": 137
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 89
+     "count": 92
     },
     {
      "name": "",
@@ -984,22 +984,22 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 902
+     "count": 907
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 203
+     "count": 206
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 54
+     "count": 56
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 54
+     "count": 55
     },
     {
      "id": "AU",
@@ -1019,16 +1019,16 @@
     {
      "id": "NL",
      "name": "Netherlands",
-     "count": 23
-    },
-    {
-     "id": "CA",
-     "name": "Canada",
-     "count": 19
+     "count": 24
     },
     {
      "id": "IT",
      "name": "Italy",
+     "count": 20
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
      "count": 19
     },
     {
@@ -1039,11 +1039,16 @@
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 14
+     "count": 17
     },
     {
      "id": "FR",
      "name": "France",
+     "count": 12
+    },
+    {
+     "id": "KR",
+     "name": "South Korea",
      "count": 12
     },
     {
@@ -1052,13 +1057,13 @@
      "count": 12
     },
     {
-     "id": "KR",
-     "name": "South Korea",
-     "count": 10
-    },
-    {
      "id": "AE",
      "name": "United Arab Emirates",
+     "count": 9
+    },
+    {
+     "id": "BE",
+     "name": "Belgium",
      "count": 9
     },
     {
@@ -1075,11 +1080,6 @@
      "id": "NZ",
      "name": "New Zealand",
      "count": 8
-    },
-    {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 7
     },
     {
      "id": "MX",
@@ -1152,6 +1152,11 @@
      "count": 4
     },
     {
+     "id": "PL",
+     "name": "Poland",
+     "count": 4
+    },
+    {
      "id": "SG",
      "name": "Singapore",
      "count": 4
@@ -1182,8 +1187,18 @@
      "count": 3
     },
     {
+     "id": "IL",
+     "name": "Israel",
+     "count": 3
+    },
+    {
      "id": "PE",
      "name": "Peru",
+     "count": 3
+    },
+    {
+     "id": "SE",
+     "name": "Sweden",
      "count": 3
     },
     {
@@ -1212,11 +1227,6 @@
      "count": 2
     },
     {
-     "id": "IL",
-     "name": "Israel",
-     "count": 2
-    },
-    {
      "id": "MW",
      "name": "Malawi",
      "count": 2
@@ -1224,16 +1234,6 @@
     {
      "id": "NO",
      "name": "Norway",
-     "count": 2
-    },
-    {
-     "id": "PL",
-     "name": "Poland",
-     "count": 2
-    },
-    {
-     "id": "SE",
-     "name": "Sweden",
      "count": 2
     },
     {
@@ -1284,6 +1284,11 @@
     {
      "id": "GH",
      "name": "Ghana",
+     "count": 1
+    },
+    {
+     "id": "GU",
+     "name": "Guam",
      "count": 1
     },
     {
@@ -1349,22 +1354,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 834
+     "count": 843
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 38
+     "count": 39
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 671
+     "count": 685
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 67
+     "count": 68
     },
     {
      "id": "unknown",
@@ -1379,7 +1384,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1610
+     "count": 1635
     }
    ],
    "more": false
