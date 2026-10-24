@@ -359617,6 +359617,18 @@ window.BUILDINGS = [
     "license": "CC BY 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Victoria_Ocampo,_Palermo_02.jpg",
     "file": "File:Casa de Victoria Ocampo, Palermo 02.jpg"
+   },
+   {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/La_escalera_de_Victoria.jpg/1280px-La_escalera_de_Victoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumb": "images/casa-de-victoria-ocampo/thumbs/3.webp",
+    "w": 1050,
+    "h": 1400,
+    "kind": "Exterior",
+    "caption": "Exterior · La casa de Victoria Ocampo en Palermo",
+    "credit": "@Micatino",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_escalera_de_Victoria.jpg",
+    "file": "File:La escalera de Victoria.jpg"
    }
   ],
   "has": [],
