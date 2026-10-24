@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-24T15:50:51+00:00",
+ "fetched_at": "2026-10-24T20:41:01+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1635,
+ "visits_30d": 1660,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 441,
+     "count": 447,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -367,6 +367,14 @@
      "max": 1
     },
     {
+     "count": 3,
+     "path_id": 112066067,
+     "path": "/buildings/villa-tugendhat",
+     "event": false,
+     "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
      "count": 2,
      "path_id": 114551490,
      "path": "building/museo-de-arte-moderno",
@@ -420,6 +428,14 @@
      "path": "/buildings/beinecke-rare-book-manuscript-library",
      "event": false,
      "title": "Beinecke Rare Book & Manuscript Library by Gordon Bunshaft",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114089631,
+     "path": "/buildings/bolgatanga-library",
+     "event": false,
+     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
      "max": 1
     },
     {
@@ -789,44 +805,28 @@
      "event": false,
      "title": "Lamune Onsen by Terunobu Fujimori: photos & key features",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113349287,
-     "path": "/buildings/palacio-lapido",
-     "event": false,
-     "title": "Edificio Lapido (Palacio Lapido) by Juan Aubriot: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113334851,
-     "path": "building/adgb-trade-union-school",
-     "event": true,
-     "title": "ADGB Trade Union School",
-     "max": 1
     }
    ],
-   "total": 906,
+   "total": 913,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 958,
+     "count": 961,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 315,
+     "count": 328,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 28,
+     "count": 31,
      "ref_scheme": "c"
     },
     {
@@ -912,6 +912,12 @@
      "name": "footer",
      "count": 1,
      "ref_scheme": "c"
+    },
+    {
+     "id": "t.co",
+     "name": "t.co",
+     "count": 1,
+     "ref_scheme": "h"
     }
    ],
    "more": false
@@ -921,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1049
+     "count": 1067
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 564
+     "count": 571
     },
     {
      "id": "Firefox",
@@ -945,27 +951,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 550
+     "count": 560
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 494
+     "count": 497
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 360
+     "count": 365
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 137
+     "count": 142
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 92
+     "count": 94
     },
     {
      "name": "",
@@ -984,17 +990,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 907
+     "count": 908
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 206
+     "count": 209
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 56
+     "count": 57
     },
     {
      "id": "GB",
@@ -1002,13 +1008,13 @@
      "count": 55
     },
     {
-     "id": "AU",
-     "name": "Australia",
-     "count": 32
-    },
-    {
      "id": "JP",
      "name": "Japan",
+     "count": 33
+    },
+    {
+     "id": "AU",
+     "name": "Australia",
      "count": 32
     },
     {
@@ -1044,12 +1050,12 @@
     {
      "id": "FR",
      "name": "France",
-     "count": 12
+     "count": 13
     },
     {
      "id": "KR",
      "name": "South Korea",
-     "count": 12
+     "count": 13
     },
     {
      "id": "PT",
@@ -1057,13 +1063,13 @@
      "count": 12
     },
     {
-     "id": "AE",
-     "name": "United Arab Emirates",
-     "count": 9
-    },
-    {
      "id": "BE",
      "name": "Belgium",
+     "count": 10
+    },
+    {
+     "id": "AE",
+     "name": "United Arab Emirates",
      "count": 9
     },
     {
@@ -1082,6 +1088,11 @@
      "count": 8
     },
     {
+     "id": "GR",
+     "name": "Greece",
+     "count": 7
+    },
+    {
      "id": "MX",
      "name": "Mexico",
      "count": 7
@@ -1092,13 +1103,13 @@
      "count": 7
     },
     {
-     "id": "FI",
-     "name": "Finland",
+     "id": "AT",
+     "name": "Austria",
      "count": 6
     },
     {
-     "id": "GR",
-     "name": "Greece",
+     "id": "FI",
+     "name": "Finland",
      "count": 6
     },
     {
@@ -1112,13 +1123,28 @@
      "count": 6
     },
     {
-     "id": "AT",
-     "name": "Austria",
-     "count": 5
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 6
     },
     {
      "id": "EC",
      "name": "Ecuador",
+     "count": 5
+    },
+    {
+     "id": "KZ",
+     "name": "Kazakhstan",
+     "count": 5
+    },
+    {
+     "id": "MY",
+     "name": "Malaysia",
+     "count": 5
+    },
+    {
+     "id": "PE",
+     "name": "Peru",
      "count": 5
     },
     {
@@ -1127,13 +1153,13 @@
      "count": 5
     },
     {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
+     "id": "DZ",
+     "name": "Algeria",
      "count": 4
     },
     {
-     "id": "KZ",
-     "name": "Kazakhstan",
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
      "count": 4
     },
     {
@@ -1157,13 +1183,13 @@
      "count": 4
     },
     {
-     "id": "SG",
-     "name": "Singapore",
+     "id": "SE",
+     "name": "Sweden",
      "count": 4
     },
     {
-     "id": "TW",
-     "name": "Taiwan",
+     "id": "SG",
+     "name": "Singapore",
      "count": 4
     },
     {
@@ -1192,16 +1218,6 @@
      "count": 3
     },
     {
-     "id": "PE",
-     "name": "Peru",
-     "count": 3
-    },
-    {
-     "id": "SE",
-     "name": "Sweden",
-     "count": 3
-    },
-    {
      "id": "SI",
      "name": "Slovenia",
      "count": 3
@@ -1212,13 +1228,13 @@
      "count": 2
     },
     {
-     "id": "CL",
-     "name": "Chile",
+     "id": "AO",
+     "name": "Angola",
      "count": 2
     },
     {
-     "id": "DZ",
-     "name": "Algeria",
+     "id": "CL",
+     "name": "Chile",
      "count": 2
     },
     {
@@ -1322,11 +1338,6 @@
      "count": 1
     },
     {
-     "id": "MY",
-     "name": "Malaysia",
-     "count": 1
-    },
-    {
      "id": "PR",
      "name": "Puerto Rico",
      "count": 1
@@ -1354,17 +1365,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 843
+     "count": 850
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 39
+     "count": 41
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 685
+     "count": 701
     },
     {
      "id": "desktophd",
@@ -1384,7 +1395,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1635
+     "count": 1660
     }
    ],
    "more": false
