@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-25T11:15:36+00:00",
+ "fetched_at": "2026-10-25T16:03:25+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1695,
+ "visits_30d": 1701,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 453,
+     "count": 455,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 75,
+     "count": 76,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -244,6 +244,14 @@
      "path": "/buildings/custom-house-dublin",
      "event": false,
      "title": "The Custom House by James Gandon: photos & key features",
+     "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
      "max": 2
     },
     {
@@ -760,6 +768,14 @@
     },
     {
      "count": 2,
+     "path_id": 113751835,
+     "path": "book/complexity-and-contradiction",
+     "event": true,
+     "title": "Complexity and Contradiction in Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113734937,
      "path": "building/bharat-bhavan",
      "event": true,
@@ -789,32 +805,16 @@
      "event": true,
      "title": "IIT Kanpur Academic Area",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113685151,
-     "path": "/buildings/inter-university-seminar-house",
-     "event": false,
-     "title": "Inter-University Seminar House by Takamasa Yoshizaka: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113672703,
-     "path": "building/amdavad-ni-gufa",
-     "event": true,
-     "title": "Amdavad ni Gufa",
-     "max": 1
     }
    ],
-   "total": 926,
+   "total": 930,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 976,
+     "count": 977,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 35,
+     "count": 37,
      "ref_scheme": "c"
     },
     {
@@ -932,7 +932,7 @@
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 586
+     "count": 592
     },
     {
      "id": "Firefox",
@@ -956,7 +956,7 @@
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 510
+     "count": 512
     },
     {
      "id": "Android",
@@ -966,7 +966,7 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 147
+     "count": 151
     },
     {
      "id": "Linux",
@@ -995,7 +995,7 @@
     {
      "id": "US",
      "name": "United States",
-     "count": 216
+     "count": 217
     },
     {
      "id": "DE",
@@ -1068,6 +1068,11 @@
      "count": 12
     },
     {
+     "id": "KZ",
+     "name": "Kazakhstan",
+     "count": 10
+    },
+    {
      "id": "AE",
      "name": "United Arab Emirates",
      "count": 9
@@ -1135,11 +1140,6 @@
     {
      "id": "EC",
      "name": "Ecuador",
-     "count": 5
-    },
-    {
-     "id": "KZ",
-     "name": "Kazakhstan",
      "count": 5
     },
     {
@@ -1365,12 +1365,12 @@
     {
      "id": "phone",
      "name": "",
-     "count": 868
+     "count": 870
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 42
+     "count": 46
     },
     {
      "id": "desktop",
@@ -1395,7 +1395,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1695
+     "count": 1701
     }
    ],
    "more": false
