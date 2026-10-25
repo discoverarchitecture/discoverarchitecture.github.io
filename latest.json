@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-25T04:30:48+00:00",
+ "fetched_at": "2026-10-25T11:15:36+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1679,
+ "visits_30d": 1695,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 448,
+     "count": 453,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -16,19 +16,19 @@
     },
     {
      "count": 75,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 9
-    },
-    {
-     "count": 74,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
      "title": "Map opened",
      "max": 12
+    },
+    {
+     "count": 75,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 9
     },
     {
      "count": 23,
@@ -432,6 +432,14 @@
     },
     {
      "count": 2,
+     "path_id": 114250989,
+     "path": "building/otaniemi-water-tower",
+     "event": true,
+     "title": "Otaniemi water tower",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 114227113,
      "path": "/buildings/aaltoalvari",
      "event": false,
@@ -500,6 +508,14 @@
      "path": "/buildings/casa-de-ferro-maputo",
      "event": false,
      "title": "Casa de Ferro (Iron House) by Joseph Danly: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 114025180,
+     "path": "/buildings/new-gourna-village",
+     "event": false,
+     "title": "New Gourna Village by Hassan Fathy: photos & key features",
      "max": 1
     },
     {
@@ -789,44 +805,28 @@
      "event": true,
      "title": "Amdavad ni Gufa",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113672688,
-     "path": "building/kingdom-centre",
-     "event": true,
-     "title": "Kingdom Centre",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 113494831,
-     "path": "/buildings/toyo-ito-museum-of-architecture",
-     "event": false,
-     "title": "Toyo Ito Museum of Architecture by Toyo Ito: photos",
-     "max": 1
     }
    ],
-   "total": 920,
+   "total": 926,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 970,
+     "count": 976,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 336,
+     "count": 344,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 33,
+     "count": 35,
      "ref_scheme": "c"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1081
+     "count": 1086
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 575
+     "count": 586
     },
     {
      "id": "Firefox",
@@ -951,12 +951,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 564
+     "count": 566
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 499
+     "count": 510
     },
     {
      "id": "Android",
@@ -966,12 +966,12 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 146
+     "count": 147
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 100
+     "count": 102
     },
     {
      "name": "",
@@ -990,12 +990,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 909
+     "count": 915
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 215
+     "count": 216
     },
     {
      "id": "DE",
@@ -1038,6 +1038,11 @@
      "count": 20
     },
     {
+     "id": "BE",
+     "name": "Belgium",
+     "count": 18
+    },
+    {
      "id": "ES",
      "name": "Spain",
      "count": 17
@@ -1061,11 +1066,6 @@
      "id": "PT",
      "name": "Portugal",
      "count": 12
-    },
-    {
-     "id": "BE",
-     "name": "Belgium",
-     "count": 10
     },
     {
      "id": "AE",
@@ -1238,6 +1238,11 @@
      "count": 2
     },
     {
+     "id": "EG",
+     "name": "Egypt",
+     "count": 2
+    },
+    {
      "id": "HR",
      "name": "Croatia",
      "count": 2
@@ -1285,11 +1290,6 @@
     {
      "id": "CR",
      "name": "Costa Rica",
-     "count": 1
-    },
-    {
-     "id": "EG",
-     "name": "Egypt",
      "count": 1
     },
     {
@@ -1365,17 +1365,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 855
+     "count": 868
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 41
+     "count": 42
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 715
+     "count": 717
     },
     {
      "id": "desktophd",
@@ -1395,7 +1395,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1679
+     "count": 1695
     }
    ],
    "more": false
