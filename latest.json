@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-24T20:41:01+00:00",
+ "fetched_at": "2026-10-25T04:30:48+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1660,
+ "visits_30d": 1679,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 447,
+     "count": 448,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 12
     },
     {
-     "count": 21,
+     "count": 23,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -152,6 +152,14 @@
     },
     {
      "count": 4,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 113925666,
      "path": "/buildings/palazzetto-dello-sport",
      "event": false,
@@ -200,10 +208,18 @@
     },
     {
      "count": 3,
-     "path_id": 113996447,
-     "path": "studio/signup",
+     "path_id": 114198395,
+     "path": "/buildings/foguang-temple-east-hall",
+     "event": false,
+     "title": "East Hall of Foguang Temple by Tang dynasty builders: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113996457,
+     "path": "studio/details",
      "event": true,
-     "title": "FGA Studio waitlist sign-up",
+     "title": "FGA Studio waitlist: optional answers",
      "max": 1
     },
     {
@@ -344,6 +360,14 @@
     },
     {
      "count": 3,
+     "path_id": 112487066,
+     "path": "/buildings/mercado-municipal-de-sao-paulo",
+     "event": false,
+     "title": "Municipal Market of S\u00e3o Paulo, 1933: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 112449331,
      "path": "/buildings/aiwan-e-sadr",
      "event": false,
@@ -392,6 +416,14 @@
     },
     {
      "count": 2,
+     "path_id": 114334495,
+     "path": "/buildings/stockholm-court-house",
+     "event": false,
+     "title": "Stockholm Court House by Carl Westman: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 114289437,
      "path": "/buildings/piazza-d-italia",
      "event": false,
@@ -412,14 +444,6 @@
      "path": "/buildings/minna-no-mori-gifu-media-cosmos",
      "event": false,
      "title": "Minna no Mori Gifu Media Cosmos by Toyo Ito: photos",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114198395,
-     "path": "/buildings/foguang-temple-east-hall",
-     "event": false,
-     "title": "East Hall of Foguang Temple by Tang dynasty builders: photos",
      "max": 1
     },
     {
@@ -501,14 +525,6 @@
      "event": false,
      "title": "Wall-less House by Shigeru Ban, 1997: photos & key features",
      "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 113996457,
-     "path": "studio/details",
-     "event": true,
-     "title": "FGA Studio waitlist: optional answers",
-     "max": 1
     },
     {
      "count": 2,
@@ -789,44 +805,28 @@
      "event": false,
      "title": "Toyo Ito Museum of Architecture by Toyo Ito: photos",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113367616,
-     "path": "/buildings/burj-al-arab",
-     "event": false,
-     "title": "Burj Al Arab by Tom Wright: photos, plans & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113366503,
-     "path": "/buildings/lamune-onsen",
-     "event": false,
-     "title": "Lamune Onsen by Terunobu Fujimori: photos & key features",
-     "max": 1
     }
    ],
-   "total": 913,
+   "total": 920,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 961,
+     "count": 970,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 328,
+     "count": 336,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 31,
+     "count": 33,
      "ref_scheme": "c"
     },
     {
@@ -927,17 +927,17 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1067
+     "count": 1081
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 571
+     "count": 575
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 21
+     "count": 22
     },
     {
      "name": "",
@@ -951,27 +951,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 560
+     "count": 564
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 497
+     "count": 499
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 365
+     "count": 368
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 142
+     "count": 146
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 94
+     "count": 100
     },
     {
      "name": "",
@@ -990,12 +990,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 908
+     "count": 909
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 209
+     "count": 215
     },
     {
      "id": "DE",
@@ -1005,7 +1005,7 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 55
+     "count": 56
     },
     {
      "id": "JP",
@@ -1020,7 +1020,7 @@
     {
      "id": "CH",
      "name": "Switzerland",
-     "count": 26
+     "count": 27
     },
     {
      "id": "NL",
@@ -1028,14 +1028,14 @@
      "count": 24
     },
     {
-     "id": "IT",
-     "name": "Italy",
+     "id": "CA",
+     "name": "Canada",
      "count": 20
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 19
+     "id": "IT",
+     "name": "Italy",
+     "count": 20
     },
     {
      "id": "ES",
@@ -1048,14 +1048,14 @@
      "count": 17
     },
     {
-     "id": "FR",
-     "name": "France",
-     "count": 13
-    },
-    {
      "id": "KR",
      "name": "South Korea",
-     "count": 13
+     "count": 15
+    },
+    {
+     "id": "FR",
+     "name": "France",
+     "count": 14
     },
     {
      "id": "PT",
@@ -1083,6 +1083,11 @@
      "count": 8
     },
     {
+     "id": "MX",
+     "name": "Mexico",
+     "count": 8
+    },
+    {
      "id": "NZ",
      "name": "New Zealand",
      "count": 8
@@ -1093,13 +1098,18 @@
      "count": 7
     },
     {
-     "id": "MX",
-     "name": "Mexico",
+     "id": "PK",
+     "name": "Pakistan",
      "count": 7
     },
     {
-     "id": "PK",
-     "name": "Pakistan",
+     "id": "RU",
+     "name": "Russia",
+     "count": 7
+    },
+    {
+     "id": "SG",
+     "name": "Singapore",
      "count": 7
     },
     {
@@ -1115,11 +1125,6 @@
     {
      "id": "RO",
      "name": "Romania",
-     "count": 6
-    },
-    {
-     "id": "RU",
-     "name": "Russia",
      "count": 6
     },
     {
@@ -1188,14 +1193,14 @@
      "count": 4
     },
     {
-     "id": "SG",
-     "name": "Singapore",
-     "count": 4
-    },
-    {
      "id": "VN",
      "name": "Vietnam",
      "count": 4
+    },
+    {
+     "id": "CL",
+     "name": "Chile",
+     "count": 3
     },
     {
      "id": "DK",
@@ -1230,11 +1235,6 @@
     {
      "id": "AO",
      "name": "Angola",
-     "count": 2
-    },
-    {
-     "id": "CL",
-     "name": "Chile",
      "count": 2
     },
     {
@@ -1365,7 +1365,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 850
+     "count": 855
     },
     {
      "id": "tablet",
@@ -1375,7 +1375,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 701
+     "count": 715
     },
     {
      "id": "desktophd",
@@ -1395,7 +1395,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1660
+     "count": 1679
     }
    ],
    "more": false
