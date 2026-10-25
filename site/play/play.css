@@ -18,6 +18,9 @@ svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width:
 .pbar { position: sticky; top: 0; z-index: 5; display: flex; align-items: center; gap: 10px; padding: calc(10px + env(safe-area-inset-top, 0px)) 20px 10px; background: var(--ground); border-bottom: 1px solid var(--hair); }
 .mark { font-family: var(--display); font-weight: 900; font-size: 20px; line-height: .9; letter-spacing: .01em; text-transform: uppercase; color: var(--ink); text-decoration: none; }
 .mark .accent, .accent { color: var(--red); }
+.mark .mini { display: none; }
+/* a phone: just "A.", as in every other page's slim bar, so the AI button, night switch and ✕ all fit */
+@media (max-width: 480px) { .mark .big { display: none; } .mark .mini { display: inline; font-size: 30px; line-height: 1; } }
 .mode { display: inline-flex; align-items: center; gap: 2px; height: 44px; padding: 3px; border: 1px solid var(--hair); border-radius: var(--r); background: var(--surface); margin: 0 auto; }
 .mode button { all: unset; box-sizing: border-box; cursor: pointer; height: 36px; padding: 0 14px; border-radius: 7px; display: inline-flex; align-items: center; font-size: 14px; font-weight: 700; color: var(--graphite); transition: color .15s ease, background .15s ease; }
 @media (hover: hover) { .mode button:hover { color: var(--red); } }
