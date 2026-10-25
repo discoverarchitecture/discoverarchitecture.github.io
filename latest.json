@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-25T16:03:25+00:00",
+ "fetched_at": "2026-10-25T20:45:18+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1701,
+ "visits_30d": 1710,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 455,
+     "count": 456,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 75,
+     "count": 76,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 23,
+     "count": 25,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -216,6 +216,14 @@
     },
     {
      "count": 3,
+     "path_id": 114089631,
+     "path": "/buildings/bolgatanga-library",
+     "event": false,
+     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 113996457,
      "path": "studio/details",
      "event": true,
@@ -376,6 +384,14 @@
     },
     {
      "count": 3,
+     "path_id": 112481251,
+     "path": "/buildings/bouca-housing",
+     "event": false,
+     "title": "Bou\u00e7a Social Housing \u2014 \u00c1lvaro Siza, 2006: photos",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 112449331,
      "path": "/buildings/aiwan-e-sadr",
      "event": false,
@@ -397,6 +413,14 @@
      "event": false,
      "title": "Supreme Court of Pakistan Building \u2014 Kenzo Tange, 1993",
      "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 112197919,
+     "path": "/buildings/reichstag",
+     "event": false,
+     "title": "Reichstag \u2014 Norman Foster, 1999: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 2
     },
     {
      "count": 3,
@@ -468,14 +492,6 @@
      "path": "/buildings/beinecke-rare-book-manuscript-library",
      "event": false,
      "title": "Beinecke Rare Book & Manuscript Library by Gordon Bunshaft",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114089631,
-     "path": "/buildings/bolgatanga-library",
-     "event": false,
-     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
      "max": 1
     },
     {
@@ -789,50 +805,34 @@
      "event": true,
      "title": "Body, Memory, and Architecture",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113700568,
-     "path": "building/notre-dame-du-haut",
-     "event": true,
-     "title": "Notre-Dame du Haut",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113686284,
-     "path": "building/iit-kanpur-academic-area",
-     "event": true,
-     "title": "IIT Kanpur Academic Area",
-     "max": 1
     }
    ],
-   "total": 930,
+   "total": 937,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 977,
+     "count": 979,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 344,
+     "count": 346,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 37,
+     "count": 39,
      "ref_scheme": "c"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 15,
+     "count": 16,
      "ref_scheme": "c"
     },
     {
@@ -844,7 +844,7 @@
     {
      "id": "gemini.google.com",
      "name": "gemini.google.com",
-     "count": 11,
+     "count": 12,
      "ref_scheme": "h"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1086
+     "count": 1089
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 592
+     "count": 598
     },
     {
      "id": "Firefox",
@@ -951,12 +951,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 566
+     "count": 568
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 512
+     "count": 518
     },
     {
      "id": "Android",
@@ -966,7 +966,7 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 151
+     "count": 152
     },
     {
      "id": "Linux",
@@ -990,17 +990,17 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 915
+     "count": 916
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 217
+     "count": 219
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 57
+     "count": 58
     },
     {
      "id": "GB",
@@ -1028,13 +1028,13 @@
      "count": 24
     },
     {
-     "id": "CA",
-     "name": "Canada",
-     "count": 20
-    },
-    {
      "id": "IT",
      "name": "Italy",
+     "count": 22
+    },
+    {
+     "id": "CA",
+     "name": "Canada",
      "count": 20
     },
     {
@@ -1065,7 +1065,7 @@
     {
      "id": "PT",
      "name": "Portugal",
-     "count": 12
+     "count": 13
     },
     {
      "id": "KZ",
@@ -1138,6 +1138,11 @@
      "count": 6
     },
     {
+     "id": "UA",
+     "name": "Ukraine",
+     "count": 6
+    },
+    {
      "id": "EC",
      "name": "Ecuador",
      "count": 5
@@ -1150,11 +1155,6 @@
     {
      "id": "PE",
      "name": "Peru",
-     "count": 5
-    },
-    {
-     "id": "UA",
-     "name": "Ukraine",
      "count": 5
     },
     {
@@ -1248,6 +1248,11 @@
      "count": 2
     },
     {
+     "id": "IR",
+     "name": "Iran",
+     "count": 2
+    },
+    {
      "id": "MW",
      "name": "Malawi",
      "count": 2
@@ -1313,11 +1318,6 @@
      "count": 1
     },
     {
-     "id": "IR",
-     "name": "Iran",
-     "count": 1
-    },
-    {
      "id": "LT",
      "name": "Republic of Lithuania",
      "count": 1
@@ -1365,17 +1365,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 870
+     "count": 875
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 46
+     "count": 47
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 717
+     "count": 720
     },
     {
      "id": "desktophd",
@@ -1395,7 +1395,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1701
+     "count": 1710
     }
    ],
    "more": false
