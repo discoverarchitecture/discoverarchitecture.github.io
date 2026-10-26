@@ -1,0 +1,1394 @@
+[
+ {
+  "id": "baker-house-bacchus-marsh",
+  "name": "Baker House",
+  "by": "Robin Boyd",
+  "city": "Bacchus Marsh",
+  "cc": "AU",
+  "year": "1966",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Courtyard",
+   "Human comfort"
+  ],
+  "features": "Modernist International house in remnant bushland, heritage-listed for staying almost untouched since 1966.",
+  "status": "photo",
+  "commons_category": "Category:Baker House, Bacchus Marsh",
+  "photos": [
+   {
+    "file": "File:Baker House - Exterior.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baker House - Courtyard.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Baker House - Driveway.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Baker_House_(Bacchus_Marsh)"
+  ],
+  "note": "Wikipedia: designed by Robin Boyd, built 1966, Victorian Heritage Register 2007. Photos chosen from file names and category; not yet seen.",
+  "coords": [
+   -37.65361111,
+   144.50083333
+  ]
+ },
+ {
+  "id": "manning-clark-house",
+  "name": "Manning Clark House",
+  "by": "Robin Boyd",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1952",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Human comfort",
+   "Detail",
+   "Community"
+  ],
+  "features": "Robin Boyd's 1952 house for the historian Manning Clark, now a community centre for history, arts and debate.",
+  "status": "photo",
+  "commons_category": "Category:Manning Clark House",
+  "photos": [
+   {
+    "file": "File:Manning Clark house, Forrest, Australian Capital Territory.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manning Clark home.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manning_Clark_House"
+  ],
+  "note": "Wikipedia: designed by Robin Boyd in 1952 (completion 1952 per infobox). Not yet seen."
+ },
+ {
+  "id": "newburn-flats",
+  "name": "Newburn Flats",
+  "by": "Romberg & Shaw (Frederick Romberg and Mary Turner Shaw)",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1941",
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Designed 1939 and finished 1941; among the first European Modernist multi-unit homes in Australia.",
+  "status": "photo",
+  "commons_category": "Category:Newburn Flats",
+  "photos": [
+   {
+    "file": "File:South elevation Newburn.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Newburn Flats rear.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Newburn Flats Melbourne.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Newburn_Flats"
+  ],
+  "note": "Wikipedia: designed 1939, completed 1941 (infobox 1941). Not yet seen.",
+  "coords": [
+   -37.842861,
+   144.975866
+  ]
+ },
+ {
+  "id": "kew-house-melbourne",
+  "name": "Kew House",
+  "by": "Sean Godsell",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1997",
+  "type": "House",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cantilever",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "18 m by 9 m glass box inside rusted metal screens, cantilevered 5.5 m over a steep slope.",
+  "status": "photo",
+  "commons_category": "Category:Kew House",
+  "photos": [
+   {
+    "file": "File:Front Kew House.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:North view of kew house.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Kew cantilever.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kew_House"
+  ],
+  "note": "Wikipedia: Godsell's own home, built 1996-97. Not yet seen.",
+  "coords": [
+   -37.80916,
+   145.01453
+  ]
+ },
+ {
+  "id": "hamer-hall-melbourne",
+  "name": "Hamer Hall",
+  "by": "Roy Grounds",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1982",
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Monumentality",
+   "Public space",
+   "Promenade"
+  ],
+  "features": "2,466-seat concert hall Roy Grounds designed as part of the Arts Centre Melbourne, opened 1982.",
+  "status": "photo",
+  "commons_category": "Category:Hamer Hall",
+  "photos": [
+   {
+    "file": "File:Hamer Hall from Princes Bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Southbank Arts Centre 2010-11-22.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hamer_Hall,_Melbourne"
+  ],
+  "note": "Wikipedia: designed by Roy Grounds, opened 1982 as the Melbourne Concert Hall. Not yet seen; hall was refurbished later, so check the photo shows it clearly.",
+  "coords": [
+   -37.82027778,
+   144.96833333
+  ]
+ },
+ {
+  "id": "uts-tower-sydney",
+  "name": "UTS Tower (UTS Building 1)",
+  "by": "Michael Dysart (NSW Government Architect's Office)",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1979",
+  "type": "Education",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "Landmark 27-floor brutalist tower on Broadway, finished 1979 from a 1968 plan.",
+  "status": "photo",
+  "commons_category": "Category:UTS Tower",
+  "photos": [
+   {
+    "file": "File:UTS Tower-Front view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:UTS Tower Entry-Left side view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:The UTS Tower on Broadway.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UTS_Tower"
+  ],
+  "note": "Wikipedia: completed 1979 from a 1968 plan by Michael Dysart. Not yet seen.",
+  "coords": [
+   -33.8837,
+   151.2007
+  ]
+ },
+ {
+  "id": "council-house-perth",
+  "name": "Council House",
+  "by": "Howlett & Bailey (Jeffrey Howlett and Don Bailey)",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1963",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "13-storey modernist council headquarters whose heritage value has been publicly debated.",
+  "status": "photo",
+  "commons_category": "Category:Council House, Perth",
+  "photos": [
+   {
+    "file": "File:PerthCouncilHouse.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:AUS Perth, Central Business District, Council House 001.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Council_House,_Perth"
+  ],
+  "note": "Wikipedia: designed by Howlett and Bailey, opened 1963. An office-type building; kept because of its modernist heritage debate. Not yet seen.",
+  "coords": [
+   -31.956672,
+   115.860753
+  ]
+ },
+ {
+  "id": "capitol-theatre-melbourne",
+  "name": "The Capitol",
+  "by": "Walter Burley Griffin and Marion Mahony Griffin",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1924",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Geometry",
+   "Detail"
+  ],
+  "features": "Picture palace with a geometric ceiling of thousands of coloured lights evoking a crystalline cave.",
+  "status": "photo",
+  "commons_category": "Category:Capitol Theatre, Melbourne",
+  "photos": [
+   {
+    "file": "File:Front Elevation.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:RMIT Capitol Melbourne.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Capitol,_Melbourne"
+  ],
+  "note": "Wikipedia: opened 1924, designed by the Griffins. Facade photos chosen from file names; not yet seen, check the first shows the exterior.",
+  "coords": [
+   -37.81536,
+   144.96636
+  ]
+ },
+ {
+  "id": "sydney-harbour-bridge",
+  "name": "Sydney Harbour Bridge",
+  "by": "Dorman Long (design direction John Bradfield)",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1932",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Structure as expression",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "Steel through-arch bridge for rail, road, bicycles and walkers, designed and built by Dorman Long.",
+  "status": "photo",
+  "commons_category": "Category:Sydney Harbour Bridge",
+  "photos": [
+   {
+    "file": "File:Sídney-Australia25.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sídney-Australia07.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sídney-Australia08.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge"
+  ],
+  "note": "Wikipedia: designed and built by Dorman Long under John Bradfield, opened 1932. Not yet seen.",
+  "coords": [
+   -33.85222222,
+   151.21055556
+  ]
+ },
+ {
+  "id": "wellington-cathedral-of-st-paul",
+  "name": "Wellington Cathedral of St Paul",
+  "by": "Cecil Wood",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1998",
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Vault",
+   "Light & shadow",
+   "Structure as expression"
+  ],
+  "features": "Designed in the 1930s, built 1954 to 1998 in reinforced concrete after the 1931 Napier earthquake.",
+  "status": "photo",
+  "commons_category": "Category:Wellington Cathedral of St Paul",
+  "photos": [
+   {
+    "file": "File:DSCN5375 Wellington Cathedral of St Paul.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wellington, Cathedral of Saint Paul, 2016-01-25.jpg",
+    "license": "Public domain",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wellington_Cathedral_of_St_Paul"
+  ],
+  "note": "Wikipedia: designed by Cecil Wood in the 1930s; construction began 1954, completed 1998. Not yet seen.",
+  "coords": [
+   -41.2763,
+   174.7774
+  ]
+ },
+ {
+  "id": "brisbane-city-hall",
+  "name": "Brisbane City Hall",
+  "by": "Thomas Ramsay Hall and George Gray Prentice",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1930",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Design combines the Roman Pantheon and St Mark's Campanile in Venice; its clock chimes every quarter-hour.",
+  "status": "photo",
+  "commons_category": "Category:Brisbane City Hall",
+  "photos": [
+   {
+    "file": "File:Brisbane City Hall 20190624.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brisbane City Hall 1 (30298960383).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brisbane_City_Hall"
+  ],
+  "note": "Wikipedia: opened 8 April 1930, architects Hall and Prentice. Not yet seen.",
+  "coords": [
+   -27.46885,
+   153.023602
+  ]
+ },
+ {
+  "id": "brisbane-powerhouse",
+  "name": "Brisbane Powerhouse",
+  "by": "Roy Rusden Ogg",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1928",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Brick",
+   "Community"
+  ],
+  "features": "Former tram power station (built 1927-28, closed 1971) reopened in 2000 as a performing arts centre.",
+  "status": "photo",
+  "commons_category": "Category:Brisbane Powerhouse",
+  "photos": [
+   {
+    "file": "File:Brisbane Powerhouse on a Sunday 01.JPG",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brisbane Powerhouse on a Sunday 02.JPG",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Brisbane Powerhouse on a Sunday 03.JPG",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brisbane_Powerhouse"
+  ],
+  "note": "Wikipedia: first stage built 1927-28 (infobox completion 1940), architect Roy Rusden Ogg, reopened 2000. Not yet seen; check photos show the exterior.",
+  "coords": [
+   -27.469069,
+   153.054362
+  ]
+ },
+ {
+  "id": "council-house-2-melbourne",
+  "name": "Council House 2 (CH2)",
+  "by": "Mick Pearce with DesignInc (for City of Melbourne)",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "2006",
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Planting"
+  ],
+  "features": "In 2005 the first purpose-built Australian office to earn a six-star Green Star rating; opened 2006.",
+  "status": "photo",
+  "commons_category": "Category:Council House 2",
+  "photos": [
+   {
+    "file": "File:CouncilHouse2.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Council_House_2"
+  ],
+  "note": "Wikipedia: opened August 2006. An office building, kept for its green-design first. Only one photo over 1200px; not yet seen."
+ },
+ {
+  "id": "public-transport-centre-perth",
+  "name": "Public Transport Centre (former Westrail Centre)",
+  "by": "Forbes & Fitzhardinge",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1976",
+  "type": "Infrastructure",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Circulation",
+   "Geometry"
+  ],
+  "features": "Brutalist terminal and administration building of East Perth Terminal, opened 12 November 1976.",
+  "status": "photo",
+  "commons_category": "Category:Public Transport Centre",
+  "photos": [
+   {
+    "file": "File:Public Transport Centre seen from the west, April 2026 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:East Perth Public Transport Centre, September 2026 01.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Public_Transport_Centre"
+  ],
+  "note": "Wikipedia infobox: Forbes & Fitzhardinge, opened 1976, Brutalist. Not yet seen."
+ },
+ {
+  "id": "telstra-tower-canberra",
+  "name": "Telstra Tower (Black Mountain Tower)",
+  "by": "Richard Ure and the Commonwealth Department of Works",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1977",
+  "type": "Infrastructure",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Geometry"
+  ],
+  "features": "195.2 m tower above Black Mountain, the tallest structure in Canberra, with indoor and outdoor viewing platforms.",
+  "status": "photo",
+  "commons_category": "Category:Black Mountain Tower",
+  "photos": [
+   {
+    "file": "File:Torre Telstra, Canberra - panoramio (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Black Mountain Transmission Tower (6768338127).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Telstra_Tower"
+  ],
+  "note": "Wikipedia infobox gives completion 1977 (opened later). Closed to the public since 2021. Not yet seen.",
+  "coords": [
+   -35.2756,
+   149.0978
+  ]
+ },
+ {
+  "id": "reserve-bank-of-australia-canberra",
+  "name": "Reserve Bank of Australia Building",
+  "by": "Howlett and Bailey",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1965",
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "Commonwealth Heritage-listed bank on London Circuit, designed 1962 and built 1963 to 1965.",
+  "status": "photo",
+  "commons_category": "Category:Reserve Bank of Australia building, Canberra",
+  "photos": [
+   {
+    "file": "File:Reserve Bank of Australia - panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Reserve Bank of Australia - Canberra.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Reserve_Bank_of_Australia_Building,_Canberra"
+  ],
+  "note": "Wikipedia: designed 1962, built 1963-65 (infobox says 1967 completion). Not yet seen."
+ },
+ {
+  "id": "hannah-playhouse-wellington",
+  "name": "Hannah Playhouse",
+  "by": "James Beard",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Community"
+  ],
+  "features": "Theatre designed and built to house Downstage Theatre on Courtenay Place.",
+  "status": "photo",
+  "commons_category": "Category:Hannah Playhouse",
+  "photos": [
+   {
+    "file": "File:Hannah Playhouse.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Downstage Theatre Wellington.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hannah_Playhouse"
+  ],
+  "note": "Wikipedia infobox: James Beard, 1973. Not yet seen."
+ },
+ {
+  "id": "puaka-james-hight-building",
+  "name": "Puaka-James Hight Building",
+  "by": "Ministry of Works (New Zealand)",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "1974",
+  "type": "Library",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "53 m brutalist library tower of exposed concrete, the University of Canterbury's best-known building.",
+  "status": "photo",
+  "commons_category": "Category:Puaka–James Hight Building",
+  "photos": [
+   {
+    "file": "File:Puaka–James Hight Building in June 2024.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:James Hight Building 002.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Puaka–James_Hight_Building"
+  ],
+  "note": "Wikipedia: constructed in the 1970s, infobox 1974, Ministry of Works. Not yet seen."
+ },
+ {
+  "id": "manchester-unity-building",
+  "name": "Manchester Unity Building",
+  "by": "Marcus Barlow",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1932",
+  "type": "Office & tower",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Axis"
+  ],
+  "features": "Art Deco Gothic-inspired office tower built 1931-32 opposite Melbourne Town Hall.",
+  "status": "photo",
+  "commons_category": "Category:Manchester Unity Building",
+  "photos": [
+   {
+    "file": "File:Manchester Unity Building against grey skies, Melbourne.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Manchester Unity building facade, 220 Collins St, Melbourne, Australia.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Manchester_Unity_Building"
+  ],
+  "note": "Wikipedia: constructed 1931-32, architect Marcus Barlow. Not yet seen."
+ },
+ {
+  "id": "old-parliament-house-canberra",
+  "name": "Old Parliament House",
+  "by": "John Smith Murdoch",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1927",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Provisional Parliament House (1927-1988), a Stripped Classical building now a museum of Australian democracy.",
+  "status": "photo",
+  "commons_category": "Category:Old Parliament House, Canberra",
+  "photos": [
+   {
+    "file": "File:Canberra (AU), Old Parliament House -- 2019 -- 1744.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Canberra (AU), Old Parliament House -- 2019 -- 1791.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Old_Parliament_House,_Canberra"
+  ],
+  "note": "Wikipedia: opened 9 May 1927, architect John Smith Murdoch. Not yet seen.",
+  "coords": [
+   -35.30222222,
+   149.12972222
+  ]
+ },
+ {
+  "id": "perth-concert-hall",
+  "name": "Perth Concert Hall",
+  "by": "Howlett & Bailey",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1973",
+  "type": "Culture & sport",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "Brutalist concert hall, main venue of the West Australian Symphony Orchestra.",
+  "status": "photo",
+  "commons_category": "Category:Perth Concert Hall, Western Australia",
+  "photos": [
+   {
+    "file": "File:Perth Concert Hall September 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Perth Concert Hall, March 2022.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perth_Concert_Hall_(Western_Australia)"
+  ],
+  "note": "Wikipedia infobox: Howlett & Bailey, Brutalist; Commons category says built 1973. Not yet seen.",
+  "coords": [
+   -31.958,
+   115.86385
+  ]
+ },
+ {
+  "id": "paganin-house",
+  "name": "Paganin House",
+  "by": "Iwan Iwanoff",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "1965",
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Human comfort",
+   "Light & shadow",
+   "Geometry"
+  ],
+  "features": "Floreat house of 1965, an icon of mid-century modern architecture in Australia.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Paganin-House-2014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paganin_House"
+  ],
+  "note": "Wikipedia: built 1965, damaged in a December 2015 fire. One photo, 2000 px wide; not yet seen."
+ },
+ {
+  "id": "edmund-barton-building-canberra",
+  "name": "Edmund Barton Building",
+  "by": "Harry Seidler & Associates",
+  "city": "Canberra",
+  "cc": "AU",
+  "year": "1974",
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Large office building on the National Triangle in Barton, designed by Harry Seidler.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Edmund Barton Building facade.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   },
+   {
+    "file": "File:Edmund barton building canberra.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Edmund_Barton_Building"
+  ],
+  "note": "Wikipedia: designed by Harry Seidler; infobox completion 1974. Government office block: ordinary type, counted. Not yet seen.",
+  "coords": [
+   -35.305,
+   149.136
+  ]
+ },
+ {
+  "id": "centenary-pool-complex-brisbane",
+  "name": "Centenary Pool Complex",
+  "by": "James Birrell",
+  "city": "Brisbane",
+  "cc": "AU",
+  "year": "1959",
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Geometry",
+   "Landscape"
+  ],
+  "features": "Heritage-listed Spring Hill swimming pool designed by James Birrell, built 1959.",
+  "status": "photo",
+  "commons_category": "Category:Centenary Pool Complex",
+  "photos": [
+   {
+    "file": "File:Centenery Pool Gregory Tce Spring Hill IMG 2146.jpg",
+    "license": "CC0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Centenary_Pool_Complex"
+  ],
+  "note": "Wikipedia: designed by James Birrell, built 1959, Queensland Heritage Register 1996. One usable photo; not yet seen."
+ },
+ {
+  "id": "capita-centre-sydney",
+  "name": "Capita Centre (9 Castlereagh Street)",
+  "by": "Harry Seidler & Associates",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1989",
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Monumentality"
+  ],
+  "features": "183 m skyscraper designed 1984 and finished 1989; won a RAIA (NSW) merit award in 1991.",
+  "status": "photo",
+  "commons_category": "Category:Capita Centre",
+  "photos": [
+   {
+    "file": "File:Capita Centre crop.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Capita_Centre"
+  ],
+  "note": "Wikipedia: designed by Harry Seidler & Associates 1984, completed 1989. Office tower kept as a Seidler key work. One usable photo; not yet seen.",
+  "coords": [
+   -33.8666,
+   151.2096
+  ]
+ },
+ {
+  "id": "hyde-park-barracks-sydney",
+  "name": "Hyde Park Barracks",
+  "by": "Francis Greenway",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1819",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Axis"
+  ],
+  "features": "Convict-built barracks of 1811 to 1819, now a museum and part of the Australian Convict Sites.",
+  "status": "photo",
+  "commons_category": "Category:Hyde Park Barracks, Sydney",
+  "photos": [
+   {
+    "file": "File:Hyde Park Barracks main building.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Sydney Hyde Park Barracks Front view.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hyde_Park_Barracks,_Sydney"
+  ],
+  "note": "Wikipedia infobox: Francis Greenway, built 1811-1819. Not yet seen."
+ },
+ {
+  "id": "flinders-street-station",
+  "name": "Flinders Street Station",
+  "by": "James W. Fawcett",
+  "city": "Melbourne",
+  "cc": "AU",
+  "year": "1909",
+  "type": "Infrastructure",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Circulation",
+   "Detail"
+  ],
+  "features": "Melbourne's busiest station, on Flinders and Swanston streets, with 13 platforms.",
+  "status": "photo",
+  "commons_category": "Category:Flinders Street Station",
+  "photos": [
+   {
+    "file": "File:Flinders Street Station on 19 July 2025 - 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Flinders Street Station on 19 July 2025 - 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Flinders_Street_railway_station"
+  ],
+  "note": "Wikipedia infobox: James W. Fawcett, completed 1909 (station opened 1854, current building later). Not yet seen.",
+  "coords": [
+   -37.818078,
+   144.96681
+  ]
+ },
+ {
+  "id": "perth-stadium-optus",
+  "name": "Perth Stadium (Optus Stadium)",
+  "by": "Hassell, HKS and Cox",
+  "city": "Perth",
+  "cc": "AU",
+  "year": "2017",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "61,266-capacity stadium completed in late 2017 and opened in January 2018.",
+  "status": "photo",
+  "commons_category": "Category:Perth Stadium",
+  "photos": [
+   {
+    "file": "File:Perth Stadium from Matagarup Bridge.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Perth Stadium OIC 1.jpg",
+    "license": "CC BY 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Perth_Stadium"
+  ],
+  "note": "Wikipedia: completed late 2017, officially opened 21 January 2018; architects Hassell, HKS, Cox. Not yet seen.",
+  "coords": [
+   -31.95111111,
+   115.88916667
+  ]
+ },
+ {
+  "id": "auckland-town-hall",
+  "name": "Auckland Town Hall",
+  "by": "J. Clark and Sons",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1911",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Monumentality",
+   "Stone"
+  ],
+  "features": "Edwardian Italian Renaissance Revival town hall with a famed Great Hall; Category I heritage.",
+  "status": "photo",
+  "commons_category": "Category:Auckland Town Hall",
+  "photos": [
+   {
+    "file": "File:Aotea Square and Auckland Town Hall 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Auckland Town Hall 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Auckland_Town_Hall"
+  ],
+  "note": "Wikipedia infobox: J Clark and Sons, inaugurated 14 Dec 1911. Not yet seen.",
+  "coords": [
+   -36.8526856,
+   174.7634912
+  ]
+ },
+ {
+  "id": "wellington-town-hall",
+  "name": "Wellington Town Hall",
+  "by": "Joshua Charlesworth",
+  "city": "Wellington",
+  "cc": "NZ",
+  "year": "1904",
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Brick"
+  ],
+  "features": "Concert hall and civic complex that opened in December 1904; closed since the 2013 earthquake for strengthening.",
+  "status": "photo",
+  "commons_category": "Category:Wellington Town Hall",
+  "photos": [
+   {
+    "file": "File:Wellington Town Hall.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Wellington Town Hall, Wellington, New Zealand (11).JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wellington_Town_Hall"
+  ],
+  "note": "Wikipedia: opened Dec 1904, architect Joshua Charlesworth. Not yet seen.",
+  "coords": [
+   -41.2893,
+   174.7773
+  ]
+ },
+ {
+  "id": "auckland-civic-theatre",
+  "name": "Civic Theatre",
+  "by": "Charles Bohringer and William T. Leighton",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1929",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light from above",
+   "Detail",
+   "Colour"
+  ],
+  "features": "Atmospheric theatre where lighting and decor suggest an open sky with twinkling stars; opened 1929.",
+  "status": "photo",
+  "commons_category": "Category:Auckland Civic Theatre",
+  "photos": [
+   {
+    "file": "File:Auckland Civic Theatre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Auckland, civic theatre 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Civic_Theatre_(Auckland)"
+  ],
+  "note": "Wikipedia: opened 20 Dec 1929. Photo content unknown (may be interior); check the first shows the facade.",
+  "coords": [
+   -36.851072,
+   174.76392
+  ]
+ },
+ {
+  "id": "christchurch-arts-centre",
+  "name": "The Arts Centre of Christchurch",
+  "by": "Benjamin Mountfort and Samuel Hurst Seager",
+  "city": "Christchurch",
+  "cc": "NZ",
+  "year": "1878",
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Courtyard",
+   "Adaptive reuse"
+  ],
+  "features": "Gothic Revival former Canterbury College buildings, New Zealand's largest group of Category 1 heritage buildings.",
+  "status": "photo",
+  "commons_category": "Category:Christchurch Arts Centre",
+  "photos": [
+   {
+    "file": "File:Christchurch Arts Centre, Christchurch, New Zealand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Christchurch_Arts_Centre"
+  ],
+  "note": "Wikipedia: many buildings by Mountfort, first building 1878. Featured picture; not yet seen.",
+  "coords": [
+   -43.53148056,
+   172.62823333
+  ]
+ },
+ {
+  "id": "national-wine-centre-adelaide",
+  "name": "National Wine Centre of Australia",
+  "by": "Philip Cox",
+  "city": "Adelaide",
+  "cc": "AU",
+  "year": "2001",
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Opened 6 October 2001 beside the Adelaide Botanic Garden, designed by Philip Cox.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:National wine centre walkway - Adelaide.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:National Wine Centre.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Wine_Centre_of_Australia"
+  ],
+  "note": "Wikipedia infobox: Philip Cox, opened 2001. No own Commons category checked; photos from a file search. Not yet seen."
+ },
+ {
+  "id": "auckland-war-memorial-museum",
+  "name": "Auckland War Memorial Museum",
+  "by": "Grierson & Aimer",
+  "city": "Auckland",
+  "cc": "NZ",
+  "year": "1929",
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Stone"
+  ],
+  "features": "Neoclassical museum and war memorial on Observatory Hill, built in the 1920s and extended in the 1950s.",
+  "status": "photo",
+  "commons_category": "Category:Auckland War Memorial Museum",
+  "photos": [
+   {
+    "file": "File:Auckland War Memorial Museum in 2021.jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   },
+   {
+    "file": "File:Front view, Auckland War Memorial Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum"
+  ],
+  "note": "Wikipedia infobox: Grierson & Aimer; 1920s construction (Commons category 'Built in New Zealand in 1929'). Not yet seen.",
+  "coords": [
+   -36.86027778,
+   174.77777778
+  ]
+ },
+ {
+  "id": "gladesville-bridge-sydney",
+  "name": "Gladesville Bridge",
+  "by": "G. Maunsell & Partners with Eugène Freyssinet",
+  "city": "Sydney",
+  "cc": "AU",
+  "year": "1964",
+  "type": "Infrastructure",
+  "movement": "Modernism",
+  "concepts": [
+   "Structure as expression",
+   "Geometry",
+   "Exposed concrete"
+  ],
+  "features": "Concrete arch bridge built 1959 to 1964, with Maunsell & Partners, Anthony Gee and Eugène Freyssinet credited as designers.",
+  "status": "photo",
+  "commons_category": null,
+  "photos": [
+   {
+    "file": "File:Gladesville Bridge Sydney 001.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": false
+   },
+   {
+    "file": "File:Gladesville Bridge (8495164034).jpg",
+    "license": "CC BY 2.0",
+    "seen": false
+   }
+  ],
+  "extras": [],
+  "view": null,
+  "after": null,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gladesville_Bridge"
+  ],
+  "note": "Wikipedia infobox: Anthony Gee, G. Maunsell & Partners, Eugene Freyssinet; built 1959-1964. Check the claim 'Freyssinet's influence' is wording only; not yet seen."
+ }
+]

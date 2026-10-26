@@ -1,0 +1,61 @@
+/* ---------- the jury board, round 3: three layouts on a 12-column A1 sheet (1cqw = 1% of the sheet's width) ---------- */
+.bd { --b-paper: #FFFFFF; --b-ink: #161616; --b-mute: #6A6A6A; --b-rule: #161616; --b-red: #D7262E;
+  --b-head: 600 5.6cqw/.92 'Inter Tight', 'Helvetica Neue', Arial, sans-serif; --b-tt: uppercase; --b-ls: -.02em; --b-body: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --b-phf: grayscale(1) contrast(1.04); --b-herof: grayscale(1) contrast(1.04); --m: 2.6cqw; --gut: 1.7cqw;
+  --d-paper: var(--b-paper); --d-ink: var(--b-ink); --d-red: var(--b-red);
+  container-type: inline-size; aspect-ratio: 594 / 841; background: var(--b-paper); color: var(--b-ink); position: relative; overflow: hidden; box-shadow: 0 24px 60px rgba(0,0,0,.22); }
+.bd.l-drawing { --b-paper: #FBFBFA; --b-head: 500 5.2cqw/.95 'Inter Tight', 'Helvetica Neue', Arial, sans-serif; --b-ls: -.01em; --b-phf: grayscale(1) contrast(1.02); --b-herof: grayscale(1) contrast(1.02); }
+.bd.l-editorial { --b-paper: #F3F0EA; --b-ink: #1C1A17; --b-mute: #6B655B; --b-rule: #1C1A17; --b-red: #C8381F;
+  --b-head: 400 8.2cqw/.9 'Instrument Serif', Georgia, serif; --b-tt: none; --b-ls: -.01em; --b-body: 'DM Sans', 'Inter', sans-serif; --b-phf: none; --b-herof: none;
+  --d-g1: #ECE8E0; --d-g2: #DED9CF; --d-g3: #C9C2B5; --d-sea: #DEE2E0; --d-water: #CFD9DA; --d-joint: #D3CDC2; --d-lab: #F3F0EA; --d-plaza: #F7F4EE; --d-top: #F3F0EA; --d-south: #DED9CF; --d-east: #C9C2B5; --d-hatch: #B9B2A5;
+  --d-redsoft: #F0D3CC; --d-redmid: #E3B3A6; --d-redmid2: #D79A8A; }
+.bdi { height: 100%; padding: var(--m); display: flex; flex-direction: column; gap: 1.9cqw; font-family: var(--b-body); }
+/* title band */
+.bh { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: var(--gut); align-items: end; padding-bottom: 1.4cqw; border-bottom: .22cqw solid var(--b-rule); }
+.bh small { display: block; font: 500 1.1cqw var(--b-body); letter-spacing: .18em; text-transform: uppercase; color: var(--b-mute); }
+.bh h4 { margin: .7cqw 0 .5cqw; font: var(--b-head); text-transform: var(--b-tt); letter-spacing: var(--b-ls); } .bh h4 em { font-style: italic; color: var(--b-red); }
+.bh p { margin: 0; font: 400 1.4cqw/1.35 var(--b-body); }
+.bh-r { display: flex; flex-direction: column; gap: 1cqw; } .bh-r p { color: var(--b-mute); max-width: 36ch; }
+.bh-ideas { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: .35cqw; font: 500 1.25cqw var(--b-body); letter-spacing: .1em; text-transform: uppercase; }
+.bh-ideas b { color: var(--b-red); font-weight: 600; margin-right: .9cqw; }
+.bd.l-drawing .bh-ideas { align-self: end; } .bd.l-editorial .bh { align-items: baseline; padding-bottom: 1.2cqw; }
+/* rows on the 12-column grid */
+.row { display: grid; gap: var(--gut); min-height: 0; }
+.row.c5-7 { grid-template-columns: 5fr 7fr; } .row.c4-5-3 { grid-template-columns: 4fr 5fr 3fr; } .row.c4-4-4 { grid-template-columns: 1fr 1fr 1fr; }
+.col { display: flex; flex-direction: column; gap: var(--gut); min-height: 0; } .col .fg { flex: 1; }
+/* figures: the image box (where files land) and a numbered caption under it */
+.fg { margin: 0; display: flex; flex-direction: column; gap: .6cqw; min-width: 0; min-height: 0; }
+.fg .bslot { flex: 1; position: relative; overflow: hidden; background: var(--d-g1, #F1F0EC); min-height: 0; }
+.fg figcaption { font: 400 1.05cqw/1.3 var(--b-body); letter-spacing: .04em; color: var(--b-mute); display: flex; gap: .7cqw; }
+.fg figcaption b { font-weight: 600; color: var(--b-ink); }
+.bslot > svg { width: 100%; height: 100%; display: block; }
+.ph { width: 100%; height: 100%; object-fit: cover; display: block; } .bd .ph { filter: var(--b-phf); } .bd .r-hero .ph, .bd .r-bleed .ph { filter: var(--b-herof); }
+.r-hero, .r-bleed { flex: 1; min-height: 0; } .r-hero .bslot, .r-bleed .bslot { aspect-ratio: auto; }
+.r-long .bslot { flex: none; height: 17cqw; } .bd.l-drawing .r-long .bslot { height: 15cqw; } .bd.l-editorial .r-long .bslot { height: 13cqw; }
+.row.c4-5-3 { height: 23cqw; } .bd.l-editorial .row.c4-5-3 { height: 22cqw; } .bd.l-calm .row.c5-7 { height: 30cqw; } .bd.l-editorial .row.c5-7 { height: 31cqw; }
+.bd.l-drawing .row.c5-7.tall { height: 42cqw; } .bd.l-drawing .row.c5-7:not(.tall) { height: 22cqw; } .bd.l-drawing .r-axon .bslot { background: var(--b-paper); }
+.row.strip { flex: 1; min-height: 0; } .row.strip .fg .bslot { aspect-ratio: auto; }
+.r-bleed { margin: calc(-1 * var(--m)) calc(-1 * var(--m)) 0; } .r-bleed figcaption { padding: 0 var(--m); }
+/* the concept column */
+.btext { display: flex; flex-direction: column; min-width: 0; }
+.btext h5 { margin: 0 0 .9cqw; font: 600 1.1cqw var(--b-body); letter-spacing: .18em; text-transform: uppercase; color: var(--b-red); }
+.btext .lead { margin: 0 0 1.6cqw; font: 500 1.9cqw/1.3 var(--b-body); letter-spacing: -.01em; }
+.bd.l-editorial .btext .lead { font: italic 400 2.5cqw/1.15 'Instrument Serif', Georgia, serif; }
+.bideas { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: .9cqw; }
+.bideas li { display: grid; grid-template-columns: 6.4cqw 1fr; gap: 1cqw; align-items: start; padding-top: .9cqw; border-top: .1cqw solid color-mix(in srgb, var(--b-ink) 25%, transparent); }
+.bideas .ico { display: block; aspect-ratio: 200 / 140; background: var(--d-g1, #F1F0EC); } .bideas .ico svg { width: 100%; height: 100%; display: block; }
+.bideas li > span { display: block; font: 400 1.2cqw/1.35 var(--b-body); color: var(--b-mute); }
+.bideas b { font: 600 1.1cqw var(--b-body); color: var(--b-red); margin-right: .6cqw; }
+.bideas em { display: inline; font: 600 1.35cqw var(--b-body); font-style: normal; color: var(--b-ink); }
+.bideas em::after { content: ''; display: block; height: .25cqw; }
+/* footer */
+.bf { margin-top: auto; display: flex; justify-content: space-between; gap: 2cqw; padding-top: .8cqw; border-top: .1cqw solid color-mix(in srgb, var(--b-ink) 35%, transparent); font: 400 .95cqw var(--b-body); color: var(--b-mute); }
+/* in the hero, raw files fly in; the text appears once the board is built, and the photos take the board's treatment */
+.stage.built .fly .ph { filter: var(--stage-phf, none); transition: filter .6s; }
+.stage .bd .bh, .stage .bd .btext, .stage .bd .bf, .stage .bd figcaption { opacity: 0; transition: opacity .5s; }
+.stage.built .bd .bh { opacity: 1; transition-delay: .9s; } .stage.drawn .bd .btext, .stage.drawn .bd .bf, .stage.drawn .bd figcaption { opacity: 1; }
+.fly .dlayer { opacity: 0; transition: opacity .4s; } .stage.drawn .fly .dlayer { opacity: 1; } .stage.drawn .fly .dlayer .dg { animation: drawl 1.2s ease both; }
+.fly .ph { pointer-events: none; }
+.stage.built .fly[data-fly] { border-width: 0 !important; box-shadow: none !important; border-radius: 0 !important; }
+.deck .sl.white { background: #fff; } .deck .sl > svg, .deck .sl > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.deck .s1 b { z-index: 2; } .deck .dk { bottom: auto; top: -26px; }

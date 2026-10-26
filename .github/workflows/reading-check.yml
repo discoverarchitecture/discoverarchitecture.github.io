@@ -1,0 +1,33 @@
+# Checks the "Further reading" candidate links on GitHub's servers (open internet), because the cloud chats can only
+# reach Wikipedia. A chat pushes tools/reading/candidates_<group>.json to its branch claude/reading-<group>; this opens
+# every link and commits tools/reading/<group>.json (links that loaded) and tools/reading/check_<group>.md (failures).
+name: Check reading links
+on:
+  push:
+    branches: ['claude/reading-*']
+    paths: ['tools/reading/candidates_*.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: reading-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      # Only this branch's own group (claude/reading-<group>): branches merge main, which carries the other groups'
+      # candidate files, and re-checking those would rewrite lists that were already reviewed and merged.
+      - name: Check this branch's candidate file
+        run: |
+          g="${GITHUB_REF_NAME#claude/reading-}"
+          if [ ! -e "tools/reading/candidates_$g.json" ]; then echo "No tools/reading/candidates_$g.json on this branch."; exit 0; fi
+          python3 tools/check_reading_links.py --group "$g"
+      - name: Commit results
+        run: |
+          git add tools/reading
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Reading links checked on GitHub's servers"
+          git push -q

@@ -1,0 +1,857 @@
+[
+ {
+  "qid": "Q20110871",
+  "name": "Senate Palace, Tehran",
+  "sources_used": [
+   "000.txt",
+   "002.txt"
+  ],
+  "architect": {
+   "value": "Heydar Ghiai (Ghiaï), jointly with Mohsen Foroughi (credit for Foroughi is disputed on 002.txt)",
+   "quotes": [
+    {
+     "file": "000.txt",
+     "quote": "Ḡīāʾī’s first government commission was the Senate building (Majles-e Senā) in Tehran (1954-59), a joint project with Moḥsen Forūḡī",
+     "en": "Ghiai's first government commission was the Senate building in Tehran (1954-59), a joint project with Mohsen Foroughi.",
+     "verified": true
+    },
+    {
+     "file": "002.txt",
+     "quote": "Although the Senate’s architect was Ghiaï, but André Bloc in his book, named also Mohsen foroughi as co-architect of the project.",
+     "en": "Although the Senate's architect was Ghiai, André Bloc in his book also named Mohsen Foroughi as co-architect.",
+     "verified": true
+    },
+    {
+     "file": "002.txt",
+     "quote": "Foroughi had just executed the sculptural columns, which were designed and drew by Heydar Ghiaï.",
+     "en": "Foroughi had only executed the sculptural columns, which were designed and drawn by Heydar Ghiai (claim of Ghiai's son Yves).",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": "No page gives a completion year. 1954-59 (span) on 000.txt; designed in 1955 on 002.txt. Wikidata says 1958 (not on any saved page).",
+   "meaning": "span of work 1954-59 (000); design year 1955 (002); no explicit completion/opening year",
+   "disagreement": true,
+   "quotes": [
+    {
+     "file": "000.txt",
+     "quote": "the Senate building (Majles-e Senā) in Tehran (1954-59)",
+     "en": "the Senate building in Tehran (1954-59)",
+     "verified": true
+    },
+    {
+     "file": "002.txt",
+     "quote": "Heydar Ghiaï designed the Senate House of Iran (The Parliament bulding of Islamic Republic of Iran from 1979 to 2005) in 1955.",
+     "en": "Heydar Ghiai designed the Senate House of Iran (parliament building of the Islamic Republic 1979-2005) in 1955.",
+     "verified": true
+    },
+    {
+     "file": "000.txt",
+     "quote": "H. Giai (Ḡīāʾī), “Palais du Sénat, Téhéran,” Architecture d’Aujourd’hui , no. 78, 1958, pp. 96-101.",
+     "en": "Bibliography: Giai, 'Senate Palace, Tehran', Architecture d'Aujourd'hui no. 78, 1958 (a 1958 publication, not a stated completion date).",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Tehran",
+   "quotes": [
+    {
+     "file": "000.txt",
+     "quote": "the Senate building (Majles-e Senā) in Tehran",
+     "en": "the Senate building in Tehran",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "Senate building (upper house of Iran's parliament; later seat of the Islamic Assembly)",
+   "quotes": [
+    {
+     "file": "000.txt",
+     "quote": "In the Islamic Republic of Iran, as the seat of the Islamic Assembly (Majles-e Šowrā-ye Eslāmi), the building has been depicted since 1985 on the reverse side of the 100-rial banknote",
+     "en": "Later seat of the Islamic Assembly; shown on the 100-rial note since 1985.",
+     "verified": true
+    },
+    {
+     "file": "002.txt",
+     "quote": "Heydar Ghiaï designed the Senate House of Iran (The Parliament bulding of Islamic Republic of Iran from 1979 to 2005)",
+     "en": "Senate House of Iran, parliament building of the Islamic Republic 1979-2005.",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Freestanding marble-grid facade between two 25 m bronze columns shaped as linked chains, sculpted by André Bloc.",
+   "quotes": [
+    {
+     "file": "000.txt",
+     "quote": "It has an imposing, freestanding marble-grid facade, embraced by two twenty-five-meter high bronze columns sculpted by André Bloc (1896-1966) in the shape of enlarged linked chains.",
+     "en": "It has an imposing freestanding marble-grid facade, embraced by two 25 m high bronze columns sculpted by André Bloc in the shape of enlarged linked chains.",
+     "verified": true
+    },
+    {
+     "file": "002.txt",
+     "quote": "The dome of The Senate House was one of the most technically challenging projects in Ghiaï’s entire career.",
+     "en": "Optional extra fact: the dome was technically very challenging.",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by 'Heydar Ghiai, Mohsen Foroughi': supported as a joint project by Encyclopaedia Iranica (000), but the weaker 002 (blog) says Ghiai was the architect and Foroughi only executed the columns. Credit is mixed.",
+   "year null in draft: fine. No saved page states a completion or opening year; Wikidata's 1958 is not on any page (only a 1958 magazine article in the bibliography).",
+   "features: supported by 000 (marble grid, two 25 m bronze columns, linked chains, Bloc). 'Between two columns' is the draft's wording; the page says 'embraced by'.",
+   "caoi.ir page (file 001) was not saved, so the draft's '1955' from that page is only covered by the blog (002)."
+  ],
+  "verdict": "enough"
+ },
+ {
+  "qid": "Q113000863",
+  "name": "House of Victoria Ocampo, Buenos Aires",
+  "sources_used": [
+   "003.txt",
+   "004.txt",
+   "006.txt"
+  ],
+  "architect": {
+   "value": "Alejandro Bustillo",
+   "quotes": [
+    {
+     "file": "003.txt",
+     "quote": "Designed in 1928 by architect Alejandro Bustillo",
+     "en": "Designed in 1928 by architect Alejandro Bustillo.",
+     "verified": true
+    },
+    {
+     "file": "004.txt",
+     "quote": "Su construcción data de 1928 y estuvo a cargo del arquitecto Alejandro Bustillo, bajo una fuerte influencia de Le Corbusier.",
+     "en": "Its construction dates from 1928 and was in the hands of architect Alejandro Bustillo, under strong influence from Le Corbusier.",
+     "verified": true
+    },
+    {
+     "file": "006.txt",
+     "quote": "La construcción de la vivienda fue encargada al reconocido arquitecto argentino Alejandro Bustillo, aunque fue originalmente proyectada para otro terreno, por el célebre Le Corbusier.",
+     "en": "The house was commissioned from Alejandro Bustillo, though it was originally designed for another plot by Le Corbusier.",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": 1928,
+   "meaning": "designed / construction dated 1928 (no page gives a completion year; ArchDaily says the Wall Street crash of 1929 occurred during construction, and the house was published in Nuestra Arquitectura, October 1929)",
+   "disagreement": false,
+   "quotes": [
+    {
+     "file": "003.txt",
+     "quote": "Designed in 1928 by architect Alejandro Bustillo",
+     "en": "Designed in 1928.",
+     "verified": true
+    },
+    {
+     "file": "004.txt",
+     "quote": "Su construcción data de 1928",
+     "en": "Its construction dates from 1928.",
+     "verified": true
+    },
+    {
+     "file": "006.txt",
+     "quote": "la “casa racionalista” que hizo construir Victoria Ocampo en 1928",
+     "en": "the 'rationalist house' that Victoria Ocampo had built in 1928.",
+     "verified": true
+    },
+    {
+     "file": "003.txt",
+     "quote": "During the construction of this house, Argentina was governed by Hipólito Yrigoyen. Globally, major events unfolded at the time, including the Wall Street crash of 1929.",
+     "en": "Construction overlapped with 1929, so 1928 is the start/design year, not necessarily completion.",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Buenos Aires",
+   "quotes": [
+    {
+     "file": "003.txt",
+     "quote": "located in the Palermo Chico neighborhood of Buenos Aires",
+     "en": "located in the Palermo Chico neighbourhood of Buenos Aires",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "house (Rationalist private residence; now the cultural house of the Fondo Nacional de las Artes)",
+   "quotes": [
+    {
+     "file": "003.txt",
+     "quote": "One of the first Rationalist houses in Latin America is Victoria Ocampo's residence",
+     "en": "One of the first Rationalist houses in Latin America is Victoria Ocampo's residence.",
+     "verified": true
+    },
+    {
+     "file": "004.txt",
+     "quote": "La casa fue el hogar de la escritora Victoria Ocampo",
+     "en": "The house was the home of the writer Victoria Ocampo.",
+     "verified": true
+    },
+    {
+     "file": "006.txt",
+     "quote": "Desde el 2005, funciona como sede del Fondo Nacional de las Artes.",
+     "en": "Since 2005 it has served as headquarters of the Fondo Nacional de las Artes.",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Rationalist house of bare white cubes on three levels and two terraces; National Historic Monument since 2022.",
+   "quotes": [
+    {
+     "file": "003.txt",
+     "quote": "it presents a play of bare, white cubes and prisms",
+     "en": "a play of bare white cubes and prisms",
+     "verified": true
+    },
+    {
+     "file": "003.txt",
+     "quote": "The house is composed of unornamented, pure volumes.",
+     "en": "The house is composed of unornamented, pure volumes.",
+     "verified": true
+    },
+    {
+     "file": "006.txt",
+     "quote": "El edificio cuenta con tres niveles y dos terrazas",
+     "en": "The building has three levels and two terraces.",
+     "verified": true
+    },
+    {
+     "file": "004.txt",
+     "quote": "En el año 2022 fue declarada Monumento Histórico Nacional.",
+     "en": "In 2022 it was declared a National Historic Monument.",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by 'Alejandro Bustillo': supported. (006 notes Bustillo refused to put his name on the facade and the idea came from Le Corbusier's earlier unbuilt project for another plot.)",
+   "year null in draft: pages consistently say 1928 (design / construction dates from 1928); no page gives 1929 (the universes.art page that said 1929 was not saved). Completion year not stated anywhere.",
+   "features 'Rationalist house influenced by Le Corbusier; National Historic Monument since 2022': supported by 004. 003 adds that Bustillo discarded Le Corbusier's free plan, double-height ceilings and ribbon windows, so 'influenced by Le Corbusier' is only partly true of the built house.",
+   "Concepts in draft (Geometry, Facade as skin, Light & shadow) are the researcher's picks, not from sources."
+  ],
+  "verdict": "enough"
+ },
+ {
+  "qid": "Q108905893",
+  "name": "Blessed Augustin Kažotić Church, Zagreb",
+  "sources_used": [
+   "008.txt",
+   "009.txt",
+   "011.txt"
+  ],
+  "architect": {
+   "value": "Boris Magaš",
+   "quotes": [
+    {
+     "file": "008.txt",
+     "quote": "Crkvu Blaženog Augustina Kažotića u Zagrebu (1995. – 2004.)",
+     "en": "The Church of Blessed Augustin Kažotić in Zagreb (1995-2004) [listed among Boris Magaš's realised works].",
+     "verified": true
+    },
+    {
+     "file": "009.txt",
+     "quote": "Dominikanska crkva blaženog Augustina Kažotića, Volovčica, Zagreb, 1998.",
+     "en": "Dominican church of Blessed Augustin Kažotić, Volovčica, Zagreb, 1998 [in Magaš's list of works].",
+     "verified": true
+    },
+    {
+     "file": "011.txt",
+     "quote": "Dominikanska crkva blaženog Augustina Kažotića, Volovčica, Zagreb, 1998.",
+     "en": "Same entry on Arhitektura Zagreba (copied from Wikipedia).",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": "2004 (end of the 1995-2004 build span on 008); 1998 on 009 and 011",
+   "meaning": "008: built 1995-2004 (end = completion); 009/011: 1998 (not said what the year means; 008's project list also has 1998 'Crkva sa samostanom Bl. Augustina Kazotica' under 'Projekti')",
+   "disagreement": true,
+   "quotes": [
+    {
+     "file": "008.txt",
+     "quote": "Crkvu Blaženog Augustina Kažotića u Zagrebu (1995. – 2004.)",
+     "en": "Church of Blessed Augustin Kažotić in Zagreb (1995-2004).",
+     "verified": true
+    },
+    {
+     "file": "008.txt",
+     "quote": "1998. Crkva sa samostanom Bl. Augustina Kazotica, Zagreb",
+     "en": "1998: Church with monastery of Bl. Augustin Kazotic, Zagreb [in 'Projekti (odabir)' = selected projects].",
+     "verified": true
+    },
+    {
+     "file": "009.txt",
+     "quote": "Dominikanska crkva blaženog Augustina Kažotića, Volovčica, Zagreb, 1998.",
+     "en": "Dominican church ... Zagreb, 1998.",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Zagreb (Volovčica; also called Peščenica - Žitnjak district)",
+   "quotes": [
+    {
+     "file": "009.txt",
+     "quote": "Dominikanska crkva blaženog Augustina Kažotića, Volovčica, Zagreb, 1998.",
+     "en": "Dominican church ..., Volovčica, Zagreb.",
+     "verified": true
+    },
+    {
+     "file": "009.txt",
+     "quote": "Župna crkva Blaženog Augustina Kažotića u zagrebačkoj gradskoj četvrti Peščenica – Žitnjak",
+     "en": "Parish church of Blessed Augustin Kažotić in the Zagreb district of Peščenica - Žitnjak.",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "church (Dominican parish church with a monastery)",
+   "quotes": [
+    {
+     "file": "009.txt",
+     "quote": "Župna crkva Blaženog Augustina Kažotića u zagrebačkoj gradskoj četvrti Peščenica – Žitnjak",
+     "en": "Parish church of Blessed Augustin Kažotić in Zagreb.",
+     "verified": true
+    },
+    {
+     "file": "009.txt",
+     "quote": "Dominikanska crkva blaženog Augustina Kažotića",
+     "en": "Dominican church of Blessed Augustin Kažotić.",
+     "verified": true
+    },
+    {
+     "file": "008.txt",
+     "quote": "1998. Crkva sa samostanom Bl. Augustina Kazotica, Zagreb",
+     "en": "Church with monastery.",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Dominican parish church with a monastery in Zagreb, designed by Boris Magaš (1995-2004).",
+   "quotes": [
+    {
+     "file": "008.txt",
+     "quote": "1998. Crkva sa samostanom Bl. Augustina Kazotica, Zagreb",
+     "en": "Church with monastery.",
+     "verified": true
+    },
+    {
+     "file": "008.txt",
+     "quote": "Crkvu Blaženog Augustina Kažotića u Zagrebu (1995. – 2004.)",
+     "en": "Built 1995-2004.",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by 'Boris Magaš': supported (008, 009, 011 list the church among his works; none says the word 'designed by' about this church specifically, but it is in his list of 'realizacije'/'Djela').",
+   "year null in draft: correct to leave unresolved, but pages give 1995-2004 (008) and 1998 (009, 011). The consecration in 2011 is on no saved page (the draft's 'consecrated 2011' is unsupported). File 010 (bib.irb.hr) is only a 'Waiting Page' bot-check, so the draft's 2011 essay by Željka Čorak is NOT supported by any saved page.",
+   "features: the draft's 'a 2011 essay praises its light-modelled interior and uncompromising modernism' is NOT in any saved page. No saved page says anything about materials, form or structure, so no real design fact exists.",
+   "movement 'Late modernism' and concept 'Exposed concrete' are unsupported (no page describes the building)."
+  ],
+  "verdict": "enough"
+ },
+ {
+  "qid": "Q11995811",
+  "name": "Plassen Cultural Centre, Molde",
+  "sources_used": [
+   "012.txt",
+   "015.txt"
+  ],
+  "architect": {
+   "value": "3XN (Danish architects; Jan Ammundsen quoted as Head of Competition and Partner)",
+   "quotes": [
+    {
+     "file": "012.txt",
+     "quote": "by Danish architects 3XN",
+     "en": "by Danish architects 3XN",
+     "verified": true
+    },
+    {
+     "file": "012.txt",
+     "quote": "Architect: 3XN",
+     "en": "Architect: 3XN",
+     "verified": true
+    },
+    {
+     "file": "015.txt",
+     "quote": "3XN has designed a new new cultural center for the Norwegian city of Molde.",
+     "en": "3XN has designed a new cultural centre for the Norwegian city of Molde.",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": 2012,
+   "meaning": "opened (official opening 14 July 2012; construction 2009-2012)",
+   "disagreement": false,
+   "quotes": [
+    {
+     "file": "012.txt",
+     "quote": "Official Opening: 14th of July, 2012",
+     "en": "Official Opening: 14 July 2012",
+     "verified": true
+    },
+    {
+     "file": "012.txt",
+     "quote": "Construction: 2009 – 2012",
+     "en": "Construction: 2009-2012",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Molde",
+   "quotes": [
+    {
+     "file": "012.txt",
+     "quote": "Molde, Norway",
+     "en": "Molde, Norway",
+     "verified": true
+    },
+    {
+     "file": "012.txt",
+     "quote": "this cultural centre in Molde, Norway",
+     "en": "this cultural centre in Molde, Norway",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "cultural centre (theatre, concert hall, cafe, gallery, library, jazz museum)",
+   "quotes": [
+    {
+     "file": "012.txt",
+     "quote": "Project type: Cultural Center",
+     "en": "Project type: Cultural Centre",
+     "verified": true
+    },
+    {
+     "file": "012.txt",
+     "quote": "Functions: Theatre, concert hall, café, gallery, library",
+     "en": "Functions: theatre, concert hall, cafe, gallery, library",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Granite on all outer surfaces; a roof and stair form three open-air amphitheatres; a triple-height atrium leads to the concert hall.",
+   "quotes": [
+    {
+     "file": "012.txt",
+     "quote": "The architects used granite for all the exterior surfaces",
+     "en": "The architects used granite for all exterior surfaces.",
+     "verified": true
+    },
+    {
+     "file": "015.txt",
+     "quote": "Together with the building's roof, an existing staircase next to the building constitute a total of three outdoor amphitheatres that collectively accommodate several thousand spectators.",
+     "en": "Together with the roof, a staircase next to the building makes three outdoor amphitheatres seating several thousand.",
+     "verified": true
+    },
+    {
+     "file": "012.txt",
+     "quote": "leads into a concert hall through a triple-height atrium",
+     "en": "[the entrance] leads into a concert hall through a triple-height atrium.",
+     "verified": true
+    },
+    {
+     "file": "012.txt",
+     "quote": "The heart of the building is the main concert hall, solved in “box in box” room, to ensure optimal acoustics.",
+     "en": "The concert hall is a 'box in box' room for acoustics.",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by 3XN, year 2012: both supported (opened 14 July 2012). Domus and Detail pages were not saved, so they add nothing.",
+   "features: 'roof and an outdoor staircase form three amphitheatres' is supported by 015, but 015 calls the staircase 'existing' (Dezeen says an external staircase adjoins the north wall); 'triple-height atrium leads to the concert hall' supported by 012.",
+   "Concepts (Public space, Promenade, Sculptural form) are the researcher's picks; the 3XN text does say it is 'formed like a giant paper cutting', which could back 'Sculptural form'."
+  ],
+  "verdict": "enough"
+ },
+ {
+  "qid": "Q104313867",
+  "name": "Tikkurila Church, Vantaa",
+  "sources_used": [
+   "017.txt",
+   "018.txt"
+  ],
+  "architect": {
+   "value": "Anssi Lassila, OOPEAA (Office for Peripheral Architecture); project architect Iida Hedberg",
+   "quotes": [
+    {
+     "file": "018.txt",
+     "quote": "Authors\nAnssi Lassila (1973 Finland)",
+     "en": "Authors: Anssi Lassila (b. 1973, Finland)",
+     "verified": true
+    },
+    {
+     "file": "018.txt",
+     "quote": "OOPEAA: Iida Hedberg Project Architect for the Church",
+     "en": "OOPEAA: Iida Hedberg, project architect for the church.",
+     "verified": true
+    },
+    {
+     "file": "017.txt",
+     "quote": "Anssi Lassila, the founder and director of OOPEAA",
+     "en": "Anssi Lassila, founder and director of OOPEAA (17: this page does not say he designed the church).",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": "2020 end (construction finished) / January 2021 (inaugurated) / 2021 (World-Architects 'Year completed')",
+   "meaning": "completed vs inaugurated; sources differ",
+   "disagreement": true,
+   "quotes": [
+    {
+     "file": "017.txt",
+     "quote": "The construction of the new Tikkurila Church was completed just at the end of the year and the church will be inaugurated in January 2021.",
+     "en": "Construction was completed at the very end of the year [post is a 2020 review] and the church will be inaugurated in January 2021.",
+     "verified": true
+    },
+    {
+     "file": "017.txt",
+     "quote": "The new Tikkurila Church will be inaugurated in January 2021.",
+     "en": "The new Tikkurila Church will be inaugurated in January 2021.",
+     "verified": true
+    },
+    {
+     "file": "018.txt",
+     "quote": "Year completed\n2021 (Year began 2019)",
+     "en": "Year completed 2021 (year began 2019).",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Vantaa (Tikkurila district)",
+   "quotes": [
+    {
+     "file": "018.txt",
+     "quote": "Tikkurila, Vantaa, Finland",
+     "en": "Tikkurila, Vantaa, Finland",
+     "verified": true
+    },
+    {
+     "file": "018.txt",
+     "quote": "Location\nVantaa, Finland",
+     "en": "Location: Vantaa, Finland",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "church (with parish spaces, cafe, and a housing block in the same complex)",
+   "quotes": [
+    {
+     "file": "018.txt",
+     "quote": "The Tikkurila Church, the Bethania apartments and the student housing form one unity with a diversity of functions.",
+     "en": "The church, the Bethania apartments and the student housing form one unity.",
+     "verified": true
+    },
+    {
+     "file": "017.txt",
+     "quote": "The main church hall will seat an audience of 500 in its maximum capacity",
+     "en": "The main church hall seats up to 500.",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Multicoloured brick church with steep pitched roofs of glazed burnt brick; concrete and wood inside; hall seats about 450.",
+   "quotes": [
+    {
+     "file": "018.txt",
+     "quote": "With its multicolored brick façade and sculptural shape, the church forms an identifying landmark for the neighborhood.",
+     "en": "With its multicoloured brick facade and sculptural shape, the church forms a landmark.",
+     "verified": true
+    },
+    {
+     "file": "018.txt",
+     "quote": "The steeply angled pitched roofs with glazed burnt brick form an important part of the character of the block",
+     "en": "The steeply angled pitched roofs with glazed burnt brick are an important part of the block's character.",
+     "verified": true
+    },
+    {
+     "file": "018.txt",
+     "quote": "In the interiors of the church, concrete and wood create a strong dynamic.",
+     "en": "In the church interiors, concrete and wood create a strong dynamic.",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by 'Anssi Lassila (OOPEAA)': supported by 018 (Authors: Anssi Lassila). 017 only calls him OOPEAA's founder.",
+   "year 2021: partly supported. 017 (OOPEAA, written Jan 2021) says construction finished at the end of 2020 and inauguration was in January 2021; 018 says 'Year completed 2021'. The draft_note says OOPEAA's page says 'completed December 2021': NOT true, the page is a New-Year 2021 post, so December 2020. File 016 (Betoni PDF) is empty, so nothing from it.",
+   "features: 'Won the Durable Stone Building 2021 award' is NOT on any saved page. 'Nominated for the 2022 Mies van der Rohe Award' is only partly there: 018 says 'Placement Shortlisted, Prize year 2022', without naming the prize.",
+   "Seating differs: 500 (017) vs 450 (018). Concepts (Timber, Light from above, Community) are not backed: the pages say brick, concrete and wood, with light entering the tall church hall.",
+   "Tikkurila church has brick walls and roof, so the draft concept 'Timber' is weak."
+  ],
+  "verdict": "enough"
+ },
+ {
+  "qid": "Q113883602",
+  "name": "Vennesla Church, Vennesla",
+  "sources_used": [
+   "020.txt",
+   "021.txt",
+   "023.txt"
+  ],
+  "architect": {
+   "value": "LINK arkitektur (lead architect Tone Osen)",
+   "quotes": [
+    {
+     "file": "020.txt",
+     "quote": "Architects:\nLINK arkitektur",
+     "en": "Architects: LINK arkitektur",
+     "verified": true
+    },
+    {
+     "file": "020.txt",
+     "quote": "Lead Architect:\nTone Osen",
+     "en": "Lead Architect: Tone Osen",
+     "verified": true
+    },
+    {
+     "file": "021.txt",
+     "quote": "LINK arkitektur won the architectural competition",
+     "en": "LINK arkitektur won the architectural competition.",
+     "verified": true
+    },
+    {
+     "file": "023.txt",
+     "quote": "LINK arkitektur er udpeget som vinder af opgaven med at tegne nye Vennesla kirke.",
+     "en": "LINK arkitektur was named the winner of the task of designing the new Vennesla church.",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": 2022,
+   "meaning": "completed March, consecrated April 2022 (Zi; the sentence's '2022' follows 'April'); ArchDaily lists Year 2022; competition won 1 May 2019",
+   "disagreement": false,
+   "quotes": [
+    {
+     "file": "021.txt",
+     "quote": "The new church was completed in March and consecrated in April 2022.",
+     "en": "The new church was completed in March and consecrated in April 2022.",
+     "verified": true
+    },
+    {
+     "file": "020.txt",
+     "quote": "Year:\n2022",
+     "en": "Year: 2022",
+     "verified": true
+    },
+    {
+     "file": "023.txt",
+     "quote": "2019-05-01",
+     "en": "Competition-win article dated 1 May 2019 (not a completion date).",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Vennesla",
+   "quotes": [
+    {
+     "file": "020.txt",
+     "quote": "City: Vennesla",
+     "en": "City: Vennesla",
+     "verified": true
+    },
+    {
+     "file": "020.txt",
+     "quote": "• Vennesla, Norway",
+     "en": "Vennesla, Norway",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "church (new main church of the Vennesla parish)",
+   "quotes": [
+    {
+     "file": "021.txt",
+     "quote": "Vennesla Church will serve as the town‘s new main church.",
+     "en": "Vennesla Church will serve as the town's new main church.",
+     "verified": true
+    },
+    {
+     "file": "020.txt",
+     "quote": "Category: Religious Architecture , Churches",
+     "en": "Category: Religious architecture, churches",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Roof and walls clad in the same light, specially developed brick; the bell tower marks the main entrance.",
+   "quotes": [
+    {
+     "file": "021.txt",
+     "quote": "The solution was to clad the roof and walls in the same cladding brick to create a holistic expression.",
+     "en": "The roof and walls are clad in the same brick.",
+     "verified": true
+    },
+    {
+     "file": "021.txt",
+     "quote": "The facades are finished with a cladding tile that has been specially developed for this particular building.",
+     "en": "The facades use a cladding tile specially developed for this building.",
+     "verified": true
+    },
+    {
+     "file": "021.txt",
+     "quote": "The specially developed cladding tile URBAN Kronborg (formerly called Frederiksberg LINK) is produced in a U-profile",
+     "en": "The tile is produced in a U-profile.",
+     "verified": true
+    },
+    {
+     "file": "020.txt",
+     "quote": "framed by the bell tower which also marks the church's main entrance",
+     "en": "[the open space] is framed by the bell tower, which also marks the main entrance.",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by LINK arkitektur: supported. Year 2022: supported (completed March, consecrated April 2022; ArchDaily 2022).",
+   "features: 'Long church' is NOT supported by any saved page (no page gives its proportions). 'Custom-made brick' is supported (specially developed cladding tile, U-profile, supplied by Wienerberger). 'Bell tower that is also the main entrance' is slightly off: the page says the bell tower 'marks' the main entrance.",
+   "Floor area differs between pages: 2200 m² (ArchDaily, 020) vs 1,530 m² (Zi, 021); do not show area.",
+   "Draft concepts 'Sculptural form, Monumentality': 'sacred and sculptural expression' is on the pages; 'Monumentality' is not."
+  ],
+  "verdict": "enough"
+ },
+ {
+  "qid": "Q16109901",
+  "name": "Church of Our Lady of the Great Croatian Baptismal Covenant, Knin",
+  "sources_used": [
+   "024.txt",
+   "025.txt",
+   "026.txt"
+  ],
+  "architect": {
+   "value": "Jerko Rošin (interior by Ante Vrban)",
+   "quotes": [
+    {
+     "file": "024.txt",
+     "quote": "Crkvu je projektirao arhitekt Jerko Rošin, a interijer je uređen po zamisli arhitekta Ante Vrbana.",
+     "en": "The church was designed by architect Jerko Rošin, and the interior was arranged to the idea of architect Ante Vrban.",
+     "verified": true
+    },
+    {
+     "file": "025.txt",
+     "quote": "Arhitektonsko rješenje crkve osmislio je Jerko Rošin, a interijer Ante Vrban.",
+     "en": "The architectural solution of the church was devised by Jerko Rošin, the interior by Ante Vrban.",
+     "verified": true
+    },
+    {
+     "file": "026.txt",
+     "quote": "Crkvu je projektirao arhitekt Jerko Rošin, interijer je uređen po zamisli arhitekta Ante Vrbana.",
+     "en": "The church was designed by architect Jerko Rošin; the interior was arranged to the idea of architect Ante Vrban.",
+     "verified": true
+    }
+   ]
+  },
+  "year": {
+   "value": 2015,
+   "meaning": "consecrated 4 August 2015 (foundation stone 25 September 2011)",
+   "disagreement": false,
+   "quotes": [
+    {
+     "file": "026.txt",
+     "quote": "Novoizgrađenu kninsku crkvu Gospe Velikoga hrvatskog krsnog zavjeta posvetio je u utorak 4. kolovoza šibenski biskup Ante Ivas.",
+     "en": "The newly built church in Knin was consecrated on Tuesday 4 August [2015, article dated 05.08.2015] by Bishop Ante Ivas.",
+     "verified": true
+    },
+    {
+     "file": "025.txt",
+     "quote": "4. kolovoza 2015.",
+     "en": "Page dated 4 August 2015 (consecration report).",
+     "verified": true
+    },
+    {
+     "file": "026.txt",
+     "quote": "Kamen temeljac položen je 25. rujna 2011. godine.",
+     "en": "The foundation stone was laid on 25 September 2011.",
+     "verified": true
+    }
+   ]
+  },
+  "city": {
+   "value": "Knin",
+   "quotes": [
+    {
+     "file": "026.txt",
+     "quote": "Posveta crkve u Kninu",
+     "en": "Consecration of the church in Knin",
+     "verified": true
+    },
+    {
+     "file": "026.txt",
+     "quote": "Knin (IKA )",
+     "en": "Knin (IKA) [dateline]",
+     "verified": true
+    }
+   ]
+  },
+  "kind": {
+   "value": "church (Roman Catholic, Franciscan parish)",
+   "quotes": [
+    {
+     "file": "026.txt",
+     "quote": "Zanimljivo, ovo je prva katolička crkva izgrađena na kninskom području nakon 1777. godine.",
+     "en": "Interesting: this is the first Catholic church built in the Knin area since 1777.",
+     "verified": true
+    },
+    {
+     "file": "026.txt",
+     "quote": "samostan i župa Sv. Ante Padovanskog u Kninu",
+     "en": "the monastery and parish of St Anthony of Padua in Knin",
+     "verified": true
+    }
+   ]
+  },
+  "features": {
+   "draft": "Catholic church with about 1,100 seats, the first built in the Knin area since 1777; interior by Ante Vrban.",
+   "quotes": [
+    {
+     "file": "026.txt",
+     "quote": "U crkvi ima oko 1100 sjedećih mjesta.",
+     "en": "The church has about 1,100 seats.",
+     "verified": true
+    },
+    {
+     "file": "026.txt",
+     "quote": "Zanimljivo, ovo je prva katolička crkva izgrađena na kninskom području nakon 1777. godine.",
+     "en": "The first Catholic church built in the Knin area since 1777.",
+     "verified": true
+    },
+    {
+     "file": "026.txt",
+     "quote": "interijer je uređen po zamisli arhitekta Ante Vrbana",
+     "en": "the interior was arranged to the idea of architect Ante Vrban",
+     "verified": true
+    }
+   ]
+  },
+  "draft_problems": [
+   "by Jerko Rosin: supported (spelled Rošin on all pages). Year: draft had none; 2015 consecration is supported (4 Aug 2015). No page gives a completion year other than consecration.",
+   "The draft says no source on the design itself: confirmed. Pages give no materials, form or structure, only seating (about 1,100) and history; features line is thin and not really architectural.",
+   "Pages disagree on the previous church date: 025 says 'Nakon 1775', 024 and 026 say 'nakon 1777'. Avoid this fact or note the conflict."
+  ],
+  "verdict": "enough"
+ }
+]

@@ -1,0 +1,224 @@
+china-academy-of-art-xiangshan-campus  # lead photo didn't show the building; see recheck.md
+corniche-mosque  # lead photo didn't show the building; see recheck.md
+heritance-ahungalla  # lead photo didn't show the building; see recheck.md
+disney-ice-anaheim-ice  # lead photo didn't show the building; see recheck.md
+palais-bulles  # lead photo didn't show the building; see recheck.md
+douglas-house-harbor-springs  # lead photo didn't show the building; see recheck.md
+elrod-house  # lead photo didn't show the building; see recheck.md
+walsh-street-house  # lead photo didn't show the building; see recheck.md
+noyes-house-new-canaan  # lead photo didn't show the building; see recheck.md
+villa-girasole  # lead photo didn't show the building; see recheck.md
+teatro-del-mondo  # lead photo didn't show the building; see recheck.md
+vele-di-scampia  # lead photo didn't show the building; see recheck.md
+villa-la-saracena  # lead photo didn't show the building; see recheck.md
+banca-popolare-di-verona  # lead photo didn't show the building; see recheck.md
+ceramica-solimene  # lead photo didn't show the building; see recheck.md
+olivetti-pozzuoli  # lead photo didn't show the building; see recheck.md
+punta-nave-rpbw  # lead photo didn't show the building; see recheck.md
+house-before-house  # lead photo didn't show the building; see recheck.md
+world-peace-gate  # lead photo didn't show the building; see recheck.md
+uae-pavilion-expo-2020  # lead photo didn't show the building; see recheck.md
+dubai-frame  # lead photo didn't show the building; see recheck.md
+al-bahr-towers  # lead photo didn't show the building; see recheck.md
+sheikh-jaber-al-ahmad-cultural-centre  # lead photo didn't show the building; see recheck.md
+tbilisi-wedding-palace  # lead photo didn't show the building; see recheck.md
+druzhba-sanatorium-kurpaty  # lead photo didn't show the building; see recheck.md
+royal-netherlands-embassy-addis-ababa  # drawing too sparse to read as the building (Oct 13 review)
+fisterra-cemetery  # drawing shows 6 boxes, sources say 14 (Oct 13 review)
+leutschenbach-school  # lead photo still didn't show the building (Oct 13 review)
+tour-cma-cgm  # lead photo still didn't show the building (Oct 13 review)
+lycabettus-theatre  # lead photo still didn't show the building (Oct 13 review)
+general-motors-technical-center  # lead photo still didn't show the building (Oct 13 review)
+philip-merrill-environmental-center  # lead photo still didn't show the building (Oct 13 review)
+evelyn-grace-academy  # lead photo still didn't show the building (Oct 13 review)
+children-village-canuana  # drawing too generic to read as the building (Oct 13 review)
+corbusierhaus-berlin  # duplicate: already on the wall as unite-d-habitation-berlin
+edificio-esther-sao-paulo  # duplicate of edificio-esther (round 4 Latin America)
+palazzo-mondadori  # duplicate of mondadori-palace (round 4 Pritzker)
+hotel-ivoire  # lead photo didn't show the building (Oct 13 review)
+iifm-bhopal  # lead photo didn't show the building (Oct 13 review)
+parliament-house-islamabad  # lead photo didn't show the building (Oct 13 review)
+openluchtschool-amsterdam  # lead photo didn't show the building (Oct 13 review)
+unite-dhabitation-reze  # lead photo didn't show the building (Oct 13 review)
+kanagawa-prefectural-music-hall  # lead photo didn't show the building (Oct 13 review)
+park-hotel-shanghai  # lead photo didn't show the building (Oct 13 review)
+conservatorio-nacional-de-musica  # lead photo didn't show the building (Oct 13 review)
+plaza-de-mercado-girardot  # lead photo didn't show the building (Oct 13 review)
+ivar-aasen-centre  # lead photo didn't show the building (Oct 13 review)
+miyakonojo-civic-hall  # demolished 2019-20; waiting on the owner's call on lost buildings
+anji-bridge  # a bridge, not a building (round 6 review)
+monument-to-the-peoples-heroes  # a monument, not a building (round 6 review)
+bolte-bridge  # a bridge, not a building (round 6 review)
+job-600-accra  # fact check: architect or year not found in any source
+museum-university-navarra  # held back in round 6 review: no clear free photo of the building
+escola-do-cedro  # held back in round 6 review: no clear free photo of the building
+xanadu-calp  # held back in round 6 review: no clear free photo of the building
+tour-first  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-majunga  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-bretagne-nantes  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+tour-areva  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+gioia-22-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+unicredit-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+matitone-genoa  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+heron-tower-london  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+millbank-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+rotunda-birmingham  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+beetham-tower-manchester  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+177-huntington  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+500-boylston-street  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+olympic-tower  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+one-international-place  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+general-petroleum-building  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+kaiser-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+yeon-building  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+hotel-valley-ho  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+chase-tower-phoenix  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+wilshire-grand-center  # round 7 quality watch: ordinary commercial tower or hotel, no source says why it matters to students
+first-canadian-place  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
+torre-mayor  # round 7 quality watch: ordinary commercial tower, no source says why it matters to students
+cite-fruges-pessac  # round 7 review: only photo is a street sign
+unite-d-habitation-firminy-vert  # round 7 review: lead shows only the roof terrace, others are landscape
+pont-de-normandie  # round 7 review: no photo shows the bridge clearly
+bourse-de-commerce-pinault-collection  # round 7 review: duplicate of bourse-de-commerce-pinault
+tour-hekla  # round 7 review: photos show it under construction
+neutra-vdl-studio-and-residences  # round 7 review: duplicate of vdl-research-house
+san-antonio-public-library  # round 7 review: duplicate of san-antonio-central-library
+palavela  # round 7 review: no exterior photo, lead is a crowd inside
+temple-emanuel-creve-coeur  # round 7 review: only photo is into the sun; the others show a different building
+natural-history-museum-of-utah  # round 7 review: no clear photo of the building: a lab, fossils, a far terrace
+st-peter-s-church  # round 7 review: duplicate of st-peter-s-church-klippan
+brazilian-museum-of-sculpture-mube  # round 7 review: duplicate of mube-brazilian-museum-of-sculpture
+uc-innovation-center-anacleto-angelini  # round 7 review: duplicate of anacleto-angelini-innovation-center
+yamanashi-press-and-broadcasting-center  # round 7 review: duplicate of yamanashi-press-and-broadcasting-centre
+leao-que-ri-smiling-lion  # round 7 review: duplicate of the-smiling-lion
+one-m-t-plaza  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+warsaw-spire  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+varso-tower-warsaw  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+reflections-at-keppel-bay  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+uob-plaza  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+oue-downtown  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+guoco-tower  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+baiyoke-tower-ii  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+state-tower  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+landmark-81  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+wisma-46  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+ramon-magsaysay-center  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+commercial-bank-and-trust-company-building  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+merdeka-118  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+parkview-square  # round 7b quality watch: ordinary commercial tower, no source says why it matters to students
+kozara-monument-mrakovica  # round 7b review: no clear photo: far through trees, a silhouette, people in front
+manila-film-center  # round 7b review: no clear photo: column close-up, trees and a sign
+pasig-revolving-tower  # round 7b review: no photo of the building: a ceremony, a doormat, a lobby door, a roof deck
+capitan-luis-gonzaga-building  # round 7b review: no clear photo: a street crowd, a dark facade, a sign
+iglesia-filipina-independiente-national-cathedral  # round 7b review: no exterior: a flag, busts, a sign and two interiors
+blue-cross-blue-shield-building-chicago  # round 7b review: lead photo is not clearly this building; others are skyline views
+highfield-house-baltimore  # round 7b review: the photos show other buildings (a cottage and churches), not Mies's tower
+torre-colpatria  # round 8 quality watch: ordinary commercial tower
+troy-museum  # round 8 review: no exterior photo, only galleries inside
+abboud-building  # round 8 review: no photo was fetched
+mohammed-bin-rashid-library  # round 8 review: only photo is a dark night shot
+mathaf-arab-museum-of-modern-art  # round 8 review: no photo of the building: a sculpture outside and a gallery inside
+education-city-stadium  # round 8 review: only a small photo of the crowd inside
+hamad-international-airport  # round 8 review: no clear photo: a road with the terminal far off, and a bus
+wedding-palace-tbilisi  # round 8 review: only far-off photos at dusk
+vigyan-bhawan  # round 8 review: no clear photo: an entrance crowd, an award ceremony, a lectern
+visvesvaraya-centre-bengaluru  # round 8 review: ordinary office towers; one photo shows another building
+kroller-muller-museum  # wall photo check, 14 Oct: no photo of the museum building: sculptures, paintings and a group of people
+lille-grand-palais  # wall photo check, 14 Oct: every photo is of an event: crowds, a congress, a dancer
+opera-bastille  # wall photo check, 14 Oct: photos show a protest crowd and the July Column, not the opera
+edsa-shrine  # wall photo check, 14 Oct: no exterior: a crowd, a plaque, a speaker, an organ and an altar
+abrahamic-family-house  # wall photo check, 14 Oct: every photo is of people inside or in front of it, or a model
+w-abu-dhabi-yas-island  # wall photo check, 14 Oct: every photo is of food
+town-house-kingston-university  # wall photo check, 14 Oct: no photo of the building: a march, offices, a road, rooms
+porsche-museum  # wall photo check, 14 Oct: every photo is of a car or a sign, none of the building
+museum-tinguely  # wall photo check, 14 Oct: no photo of the building: a button, talks, portraits, a sculpture
+lehmbruck-museum  # wall photo check, 14 Oct: no photo of the building: artworks only
+garden-of-fine-arts-kyoto  # wall photo check, 14 Oct: only photos of the painting copies, not the garden
+suvarnabhumi-airport  # wall photo check, 14 Oct: no exterior: a statue, maps, shops and a walkway
+l-d-institute-of-indology  # wall photo check, 14 Oct: only paintings and a sculpture, no building
+cultural-center-of-the-philippines  # wall photo check, 14 Oct: no exterior: seats, a sculpture, a choir, a hall
+carlton-centre-johannesburg  # round 8 quality watch: office tower chosen for height
+heroes-acre-windhoek  # round 8b review: no clear photo: a far hillside, dusk, and two gravestones
+asia-culture-center  # rescue round 1: only a dark night facade and lecture photos
+burntwood-school  # rescue round 1: photos show it under construction
+belgian-comic-strip-center-brussels  # rescue round 1: only an interior with a big rocket model
+alley-theatre  # rescue round 1: only the sign on a door
+al-irsyad-mosque  # rescue round 1: still only a silhouette of a child
+al-janoub-stadium  # rescue round 1: still only a man in front of a sign
+mausoleum-of-omar-khayyam  # duplicate of omar-khayyam-mausoleum (tester, 15 Oct)
+paul-rudolph-hall  # duplicate of yale-art-and-architecture-building (tester, 15 Oct)
+children-s-surgical-hospital-entebbe  # duplicate of entebbe-children-s-surgical-hospital (tester, 15 Oct)
+baku-olympic-stadium  # tester report 15 Oct: only night shots from inside the stands during a match
+la-pyramide  # tester report 15 Oct: no clear photo of the pyramid: a pavement, a night silhouette, a sign
+turkish-historical-society  # tester report 15 Oct: only meeting and crowd photos and an Istanbul street corner; one interior
+al-bayt-stadium  # gallery scan 15 Oct: only match photos from inside the stands
+al-thumama-stadium  # gallery scan 15 Oct: only match photos from inside the stands
+arcadia-education-project  # gallery scan 15 Oct: only a far-off field, the building barely visible
+bahrain-national-theatre  # gallery scan 15 Oct: only a far skyline photo
+bibliotheque-nationale-de-france  # gallery scan 15 Oct: photos show the old Richelieu site and a sign, not the Perrault library
+bihar-museum  # gallery scan 15 Oct: only a close-up of an artwork
+casa-das-canoas  # gallery scan 15 Oct: only one small dark photo
+chaktomuk-conference-hall  # gallery scan 15 Oct: only an auditorium interior and a desk with a flag
+church-of-the-holy-sacrifice  # gallery scan 15 Oct: only paths under trees, the church not visible
+coconut-palace  # gallery scan 15 Oct: only a stone sign
+dongdaemun-design-plaza  # gallery scan 15 Oct: only one small night photo
+folk-arts-theater  # gallery scan 15 Oct: only a tree with a fence and a seating interior
+frey-house-ii  # gallery scan 15 Oct: only rocks and a pool, the house not shown
+hilton-athens  # gallery scan 15 Oct: only far city views
+institut-du-monde-arabe  # gallery scan 15 Oct: the photos show a park and a river, not the building
+israel-museum  # gallery scan 15 Oct: only exhibits, a tree and wires
+jinchokan-moriya-historical-museum  # gallery scan 15 Oct: the photos show a town and a shrine, not the museum
+linnahall  # gallery scan 15 Oct: photos show a chimney, the sea and lamp posts, not the hall
+lyon-saint-exupery-station  # gallery scan 15 Oct: only a departures board, trams and a detail
+maison-du-bresil  # gallery scan 15 Oct: only a sign and a model
+maison-jean-prouve  # gallery scan 15 Oct: only trees
+maison-la-roche  # gallery scan 15 Oct: only a terrace view and a diagram
+maison-planeix  # gallery scan 15 Oct: only a sign
+matmut-atlantique  # gallery scan 15 Oct: a stadium interior, a tram and a far aerial view
+national-commercial-bank  # gallery scan 15 Oct: only a dark night photo
+national-library-of-belarus  # gallery scan 15 Oct: only a far city view
+national-library-of-latvia  # gallery scan 15 Oct: only interiors and a far view across the river
+national-museum-of-anthropology  # gallery scan 15 Oct: only exhibits and a floor plan, no building view
+neues-museum  # gallery scan 15 Oct: only a far city view, an interior and an old print
+palau-municipal-d-esports-de-badalona  # gallery scan 15 Oct: only far city views
+pearl-palace  # gallery scan 15 Oct: dark photos with the building barely visible
+qatar-national-library  # gallery scan 15 Oct: only interiors and a model, no outside view
+quezon-memorial-shrine  # gallery scan 15 Oct: only a fountain at night and buses
+san-francisco-museum-of-modern-art  # gallery scan 15 Oct: only close-ups and an interior, no full view
+sheikh-zayed-grand-mosque  # gallery scan 15 Oct: only a far sunset silhouette and interiors
+smithdon-high-school  # gallery scan 15 Oct: only one small far photo
+stadium-974  # gallery scan 15 Oct: only a far skyline view
+tuwaiq-palace  # gallery scan 15 Oct: only one dark night photo
+villa-baizeau  # gallery scan 15 Oct: only far coastal views
+villa-shodhan  # gallery scan 15 Oct: only models, no photo of the house
+weizmann-house  # gallery scan 15 Oct: only trees, a path, interiors and a model
+juventus-stadium  # round 7-8 recheck 15 Oct: only one photo from inside the stands
+palm-springs-aerial-tramway  # round 7-8 recheck 15 Oct: only a cable car and a station interior
+national-museum-of-iran  # round 7-8 recheck 15 Oct: only dark close-ups of the entrance arch
+university-of-baghdad  # round 7-8 recheck 15 Oct: only an arch gate, not the campus buildings
+tbilisi-circus  # round 7-8 recheck 15 Oct: only a road with the building hidden behind trees
+rhodes-memorial  # round 7-8 recheck 15 Oct: only the view down its steps, not the memorial
+oita-stadium-big-eye  # round 7-8 recheck 15 Oct: only one small far photo
+san-francesco-al-fopponino  # gallery scan 15 Oct: no photo at all
+athens-olympic-stadium-roof  # Design chat flags 15 Oct: photos show a satellite view and other venues (velodrome, pool, arena); Commons has only event photos of the stadium
+grande-arche  # Design chat flags 15 Oct: no free photo shows the whole arch (France has no freedom of panorama; Commons keeps only details, steps and crowds)
+notre-dame-de-lourdes-casablanca  # Design chat flags 15 Oct: no free daylight exterior photo; the only one is dark with a crowd in front
+scuola-fagnano-olona  # Design chat flags 15 Oct: no free photo of the outside of the school (only the chimney seen through glass, and interiors)
+cinema-opera-beirut  # Coordinates check 15 Oct: every photo shows the Cinéma Opéra in Reims (wrong Commons category)
+halifax-central-library  # Coordinates check 15 Oct: every photo shows the Central Library in Halifax, England (wrong Commons category)
+merck-headquarters-building  # Coordinates check 15 Oct: every photo shows the SAS headquarters at Frösundavik, Stockholm (wrong Commons category)
+national-institute-of-immunology  # Coordinates check 15 Oct: every photo shows a Moscow children's hospital (wrong Commons category)
+niagara-falls-public-library  # Coordinates check 15 Oct: photos come from the Niagara Falls Public Library in Ontario, not Paul Rudolph's library in New York
+brisbane-powerhouse  # Round 9 review: no daylight exterior of the building (a market crowd, a mural, interiors)
+centenary-pool-complex-brisbane  # Round 9 review: only photo is at dusk with a car as the subject
+perth-stadium-optus  # Round 9 review: ordinary stadium with no clear daylight exterior (signage, crowds, dusk)
+koelnturm  # Round 9 review: no free photo could be fetched
+kraus-house  # Haiku pool 2 photo review: every photo shows the house behind trees and a wall
+biblioteca-raul-rangel-frias  # Haiku pool 5 photo review: no photo shows the building (only a fence and a sculpture)
+gamble-house  # Haiku pool 6 photo review: no colour photo of the outside in the fetched gallery (drawings and old prints only)
+majestic-theatre  # Haiku pool 6 photo review: no photo shows the building rather than its sign, a concert or a door
+villa-primavesi  # Haiku pool 6 photo review: year unsourced: Wikidata's 1900 does not fit, and the lead gives none
+ormen-lange  # Haiku pool 6 photo review: only photo of the building is a cropped 1965 print; the rest are views through a porthole
+crater-lake-superintendent-s-residence  # Haiku pool 6 photo review: only a black-and-white main photo; a minor building by the Park Service
+villa-tonder  # Haiku pool 8 photo review: only historic photos; unclear whether the villa still stands
+bunker-599  # an installation, not a building (owner, 23 Oct 2026)

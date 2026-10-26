@@ -1,0 +1,4550 @@
+[
+ {
+  "id": "monona-terrace",
+  "qid": "Q6901787",
+  "status": "photo",
+  "why": "Wright design named in the lead; the lead gives the 1997 opening.",
+  "name": "Monona Terrace",
+  "by": "Frank Lloyd Wright",
+  "city": "Madison",
+  "cc": "US",
+  "year": 1997,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Public space"
+  ],
+  "features": "Frank Lloyd Wright's 1938 design for a lakeshore convention centre, opened in 1997 on Lake Monona.",
+  "commons_category": "Category:Monona Terrace",
+  "coords": [
+   43.07158,
+   -89.38007
+  ],
+  "photos": [
+   {
+    "file": "File:Monona Terrace from Lake Monona.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Stairwell in Monona Terrace (53970426805).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torre-de-cristal",
+  "qid": "Q953610",
+  "status": "photo",
+  "why": "Pelli built work; the lead gives the height and says it is the tallest in Spain. Year from the lead (built 2004 to 2008).",
+  "name": "Torre de Cristal",
+  "by": "César Pelli",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2008,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "César Pelli's 249-metre glass tower in Madrid's Cuatro Torres business area, the tallest building in Spain.",
+  "commons_category": "Category:Torre de Cristal, Madrid",
+  "coords": [
+   40.47806,
+   -3.68722
+  ],
+  "photos": [
+   {
+    "file": "File:Torre de Cristal (Madrid) 05a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre de Cristal - CTBA - Madrid 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Torre de Cristal - CTBA - Madrid 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(103, 'torre-emperador-castellana-torre-espacio', 'Torre Emperador Castellana (Torre Espacio)')"
+ },
+ {
+  "id": "minnaert-building",
+  "qid": "Q30914563",
+  "status": "photo",
+  "why": "Neutelings Riedijk building; the lead gives the 1997 opening and the faculties.",
+  "name": "Minnaert building",
+  "by": "Neutelings Riedijk Architects, Willem Jan Neutelings, Michiel Riedijk",
+  "city": "Utrecht",
+  "cc": "NL",
+  "year": 1997,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Brick",
+   "Sculptural form"
+  ],
+  "features": "Campus building named after astronomer Marcel Minnaert, opened in 1997 for Utrecht University's science faculties.",
+  "commons_category": "Category:Minnaertgebouw",
+  "coords": [
+   52.08694,
+   5.16667
+  ],
+  "photos": [
+   {
+    "file": "File:Het Minnaertgebouw van de Universiteit Utrecht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Het Minnaertgebouw.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Minnaertgebouw3.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-rozes",
+  "qid": "Q8341669",
+  "status": "photo",
+  "why": "Coderch house; the lead calls it one of the most relevant works of Coderch.",
+  "name": "Casa Rozes",
+  "by": "Josep Antoni Coderch",
+  "city": "Roses",
+  "cc": "ES",
+  "year": 1962,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Cantilever",
+   "Section",
+   "Landscape"
+  ],
+  "features": "Coderch's 1961–62 clifftop house, stepped down in cube-like levels beneath a cantilevered terrace.",
+  "commons_category": "Category:Casa Rozes",
+  "coords": [
+   42.23783,
+   3.2081
+  ],
+  "photos": [
+   {
+    "file": "File:Roses - Casa Rozes.jpg",
+    "license": "CC BY-SA 3.0 es",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "klosterneuburg-protestant-church",
+  "qid": "Q38085901",
+  "status": "skip",
+  "why": "lead gives only the address and parish; architect has one building on the wall, not enough to judge"
+ },
+ {
+  "id": "kitakyushu-international-conference-center",
+  "qid": "Q11400928",
+  "status": "photo",
+  "why": "Isozaki built work on the architect test; the lead is short.",
+  "name": "Kitakyushu International Conference Center",
+  "by": "Arata Isozaki",
+  "city": "Kitakyushu",
+  "cc": "JP",
+  "year": 1990,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Monumentality",
+   "Public space"
+  ],
+  "features": "Arata Isozaki's convention centre in Kitakyushu, Fukuoka, opened in 1990.",
+  "commons_category": null,
+  "coords": [
+   33.89011,
+   130.88819
+  ],
+  "photos": [
+   {
+    "file": "File:Kitakyushu International Conference Hall Panoramic.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(185, 'west-japan-general-exhibition-center', 'West Japan General Exhibition Center')"
+ },
+ {
+  "id": "toledo-museum-of-art-glass-pavilion",
+  "qid": "Q117348202",
+  "status": "skip",
+  "why": "already on the wall (Glass Pavilion, Toledo Museum of Art)",
+  "dup_flag": "near=(194, 'glass-pavilion-toledo-museum-of-art', 'Glass Pavilion, Toledo Museum of Art')"
+ },
+ {
+  "id": "mestske-lazne-zabrdovice",
+  "qid": "Q31987251",
+  "status": "unsure",
+  "why": "empty lead; Wikidata year 2000 looks wrong for this building, check the year (Fuchs is on the wall)",
+  "note": "empty lead; Wikidata year 2000 looks wrong for this building, check the year (Fuchs is on the wall)",
+  "name": "Městské lázně Zábrdovice",
+  "by": "Bohuslav Fuchs",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 2000,
+  "photos": [
+   {
+    "file": "File:Městské lázně Zábrdovice hlavní průčelí.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "masarykuv-studentsky-domov",
+  "qid": "Q38189259",
+  "status": "unsure",
+  "why": "empty lead; Wikidata year 2000 conflicts with the photo title (1928-1930), check the year",
+  "note": "empty lead; Wikidata year 2000 conflicts with the photo title (1928-1930), check the year",
+  "name": "Masarykův studentský domov",
+  "by": "Bohuslav Fuchs",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 2000,
+  "photos": [
+   {
+    "file": "File:Masarykův studentský domov Brno hlavní budova 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Masarykův studentský domov Brno obytná budova 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "selene-building",
+  "qid": "Q1710367",
+  "status": "photo",
+  "why": "Foster built work on the architect test; the lead gives height and completion year.",
+  "name": "Selene (building)",
+  "by": "Foster and Partners",
+  "city": "New York",
+  "cc": "US",
+  "year": 2019,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Norman Foster's 64-storey residential tower in Midtown Manhattan, completed in 2019.",
+  "commons_category": "Category:100 East 53rd Street",
+  "coords": [
+   40.75833,
+   -73.97139
+  ],
+  "photos": [
+   {
+    "file": "File:53rd St Lex Av td 03 - 100 East 53rd Street.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:610 Lexington.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(64, 'seagram-building', 'Seagram Building')"
+ },
+ {
+  "id": "the-harmon",
+  "qid": "Q2912992",
+  "status": "skip",
+  "why": "unfinished high-rise (lead); it never opened"
+ },
+ {
+  "id": "cheung-kong-center",
+  "qid": "Q700058",
+  "status": "photo",
+  "why": "Pelli built work; the lead gives the completion year and the setting.",
+  "name": "Cheung Kong Center",
+  "by": "César Pelli",
+  "city": "Hong Kong",
+  "cc": "HK",
+  "year": 1999,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "César Pelli's 70-storey tower in Central, Hong Kong, completed in 1999, between the HSBC and Bank of China buildings.",
+  "commons_category": "Category:Cheung Kong Center",
+  "coords": [
+   22.27944,
+   114.16028
+  ],
+  "photos": [
+   {
+    "file": "File:Cheung Kong center.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(118, 'bank-of-china-tower', 'Bank of China Tower')"
+ },
+ {
+  "id": "30-hudson-street",
+  "qid": "Q2275601",
+  "status": "photo",
+  "why": "Pelli built work; the lead gives the completion year and height rank.",
+  "name": "30 Hudson Street",
+  "by": "César Pelli",
+  "city": "Jersey City",
+  "cc": "US",
+  "year": 2004,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Sculptural form"
+  ],
+  "features": "Pelli's 42-storey waterfront tower in Jersey City, completed in 2004 and New Jersey's second tallest building.",
+  "commons_category": "Category:Goldman Sachs Tower (Jersey City)",
+  "coords": [
+   40.713,
+   -74.0338
+  ],
+  "photos": [
+   {
+    "file": "File:Goldman Sachs Tower (2011-04-09).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:30 Hudson Street Tower as viewed from Battery Park City, New York, NY.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "valladolid-science-museum",
+  "qid": "Q1189057",
+  "status": "photo",
+  "why": "Moneo museum in a reused mill; the lead gives the reuse and the 2003 opening.",
+  "name": "Valladolid Science Museum",
+  "by": "Rafael Moneo",
+  "city": "Valladolid",
+  "cc": "ES",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Reclaimed material",
+   "Brick"
+  ],
+  "features": "Rafael Moneo's science museum, opened in 2003 inside a reused old flour mill.",
+  "commons_category": "Category:Science Museum (Valladolid)",
+  "coords": [
+   41.63723,
+   -4.74522
+  ],
+  "photos": [
+   {
+    "file": "File:Valladolid - Museo de la Ciencia 10b.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "theatre-de-l-archipel",
+  "qid": "Q11951043",
+  "status": "unsure",
+  "why": "no main photo (no photos in prep)",
+  "note": "no main photo",
+  "name": "Théâtre de l'Archipel",
+  "by": "Jean Nouvel, Brigitte Métra",
+  "city": "Perpignan",
+  "cc": "FR",
+  "year": 2011,
+  "photos": []
+ },
+ {
+  "id": "jameson-house",
+  "qid": "Q1531538",
+  "status": "unsure",
+  "why": "no main photo (no photos in prep)",
+  "note": "no main photo",
+  "name": "Jameson House",
+  "by": "Norman Foster",
+  "city": "Vancouver",
+  "cc": "CA",
+  "year": 2011,
+  "photos": []
+ },
+ {
+  "id": "cosmopolitan-twarda-2-4",
+  "qid": "Q1136181",
+  "status": "unsure",
+  "why": "lead names Stefan Kuryłowicz for the 2006 design; Wikidata says Helmut Jahn; check who designed the built tower",
+  "note": "lead names Stefan Kuryłowicz for the 2006 design; Wikidata says Helmut Jahn; check who designed the built tower",
+  "name": "Cosmopolitan Twarda 2/4",
+  "by": "Helmut Jahn",
+  "city": "Warsaw",
+  "cc": "PL",
+  "year": 2014,
+  "photos": [
+   {
+    "file": "File:POL Warszawa Cosmopolitan 01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "50-west-street",
+  "qid": "Q1710345",
+  "status": "photo",
+  "why": "Jahn built work on the architect test; the lead gives height and units.",
+  "name": "50 West Street",
+  "by": "Helmut Jahn",
+  "city": "New York",
+  "cc": "US",
+  "year": 2016,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "A 64-storey Lower Manhattan tower mixing retail with 191 residential condominium units.",
+  "commons_category": "Category:50 West Street",
+  "coords": [
+   40.70781,
+   -74.01501
+  ],
+  "photos": [
+   {
+    "file": "File:50 West Street 23 Oct 2015.png",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fresno-city-hall",
+  "qid": "Q2817266",
+  "status": "photo",
+  "why": "Erickson building; the lead calls it a post-modern futurist structure.",
+  "name": "Fresno City Hall",
+  "by": "Arthur Erickson",
+  "city": "Fresno",
+  "cc": "US",
+  "year": 1991,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Public space",
+   "Landscape",
+   "Facade as skin"
+  ],
+  "features": "Arthur Erickson's post-modern, futurist city hall in Fresno, housing the mayor's office and council chambers.",
+  "commons_category": "Category:Fresno City Hall",
+  "coords": [
+   36.7395,
+   -119.785
+  ],
+  "photos": [
+   {
+    "file": "File:Fresno City Hall Nima1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fresno City Hall Fountain.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tu-delft-library-building",
+  "qid": "Q139255858",
+  "status": "unsure",
+  "why": "empty lead; the four-name architect list may be wrong; 1992 may be a design year; the photo has walkers in front",
+  "note": "empty lead; the four-name architect list may be wrong; 1992 may be a design year; the photo has walkers in front",
+  "name": "TU Delft Library building",
+  "by": "Mecanoo, Erick van Egeraat, Francine Houben, Chris de Weijer",
+  "city": "Delft",
+  "cc": "NL",
+  "year": 1992,
+  "photos": [],
+  "dup_flag": "near=(158, 'aula-tu-delft', 'Aula TU Delft')"
+ },
+ {
+  "id": "100-eleventh-avenue",
+  "qid": "Q16823802",
+  "status": "photo",
+  "why": "Nouvel building; the lead names his \"vision machine\" and the curtain wall.",
+  "name": "100 Eleventh Avenue",
+  "by": "Jean Nouvel, Beyer Blinder Belle",
+  "city": "New York",
+  "cc": "US",
+  "year": 2010,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Jean Nouvel's 23-storey West Side tower, called 'a vision machine', with one of New York's most advanced curtain walls.",
+  "commons_category": "Category:100 Eleventh Avenue",
+  "coords": [
+   40.7461,
+   -74.0078
+  ],
+  "photos": [
+   {
+    "file": "File:100 Eleventh Avenue (24234).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:JuneInNYC-27 (55380998769).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(60, 'iac-building', 'IAC Building')"
+ },
+ {
+  "id": "zenith-de-lille",
+  "qid": "Q20055541",
+  "status": "photo",
+  "why": "Koolhaas built work; the lead names him and the cultural complex.",
+  "name": "Zénith de Lille",
+  "by": "Rem Koolhaas",
+  "city": "Lille",
+  "cc": "FR",
+  "year": 1994,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "Rem Koolhaas's arena in Lille, seating up to 7,000 and opened in 1994 within the Lille Grand Palais complex.",
+  "commons_category": "Category:Zénith de Lille",
+  "coords": [
+   50.6336,
+   3.07763
+  ],
+  "photos": [
+   {
+    "file": "File:Zénith de Lille 2014.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lille vue zenith pont.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "intesa-sanpaolo-building",
+  "qid": "Q3775871",
+  "status": "skip",
+  "why": "already on the wall (Intesa Sanpaolo Skyscraper)",
+  "dup_flag": "wiki=intesa-sanpaolo-skyscraper"
+ },
+ {
+  "id": "fubon-life-tower",
+  "qid": "Q47539081",
+  "status": "photo",
+  "why": "Piano built work; the lead gives height, rank and the 2022 completion.",
+  "name": "Fubon Life Tower",
+  "by": "Renzo Piano",
+  "city": "Taipei",
+  "cc": "TW",
+  "year": 2022,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Geometry"
+  ],
+  "features": "Renzo Piano's 266-metre Taipei tower, the city's third tallest, completed in 2022.",
+  "commons_category": "Category:Fubon Xinyi A25",
+  "coords": [
+   25.0393,
+   121.57013
+  ],
+  "photos": [
+   {
+    "file": "File:富邦人壽大樓2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:富邦人壽大樓3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(89, 'tao-zhu-yin-yuan', 'Tao Zhu Yin Yuan')"
+ },
+ {
+  "id": "golden-angel",
+  "qid": "Q5579128",
+  "status": "photo",
+  "why": "Nouvel built work; the lead names him and the crossroads.",
+  "name": "Golden Angel",
+  "by": "Jean Nouvel",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 2000,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Steel & glass"
+  ],
+  "features": "Jean Nouvel's administrative complex in Prague, beside the Angel crossroads named after an old pharmacy.",
+  "commons_category": "Category:Zlatý Anděl (Prague)",
+  "coords": [
+   50.07177,
+   14.40364
+  ],
+  "photos": [
+   {
+    "file": "File:Zlaty andel.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "he-art-museum",
+  "qid": "Q85877621",
+  "status": "photo",
+  "why": "Ando museum; the lead names the Pritzker Prize.",
+  "name": "He Art Museum",
+  "by": "Tadao Ando",
+  "city": "Foshan",
+  "cc": "CN",
+  "year": 2020,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Water",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Tadao Ando's privately funded non-profit museum in Foshan, designed by a Pritzker Prize winner.",
+  "commons_category": "Category:He Art Museum",
+  "coords": [
+   22.9357,
+   113.2147
+  ],
+  "photos": [
+   {
+    "file": "File:He Art Museum Entry.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:He Art Museum Garden.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "le-consortium",
+  "qid": "Q3221735",
+  "status": "photo",
+  "why": "Ban building; the lead names him and the 2011 opening.",
+  "name": "Le Consortium",
+  "by": "Shigeru Ban",
+  "city": "Dijon",
+  "cc": "FR",
+  "year": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "Shigeru Ban's 2011 building for a Dijon contemporary art centre that earlier used an appliance store and a factory.",
+  "commons_category": "Category:Le Consortium",
+  "coords": [
+   47.31341,
+   5.04615
+  ],
+  "photos": [
+   {
+    "file": "File:Dijon, Le Consortium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "frist-campus-center",
+  "qid": "Q3506959",
+  "status": "photo",
+  "why": "Venturi building; the lead names him and the 2001 completion.",
+  "name": "Frist Campus Center",
+  "by": "Robert Venturi",
+  "city": "Princeton",
+  "cc": "US",
+  "year": 2001,
+  "type": "Education",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Courtyard",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Venturi's 2001 addition fills the courtyard of a Collegiate Gothic hall, now a focal point of Princeton's social life.",
+  "commons_category": "Category:Frist Campus Center",
+  "coords": [
+   40.34683,
+   -74.65537
+  ],
+  "photos": [
+   {
+    "file": "File:Princeton Frist Campus Center back.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokosuka-arts-theatre",
+  "qid": "Q892352",
+  "status": "unsure",
+  "why": "no main photo: one exterior, with a tall tower beside the theatre; no clean whole-building view",
+  "note": "no main photo",
+  "name": "Yokosuka Arts Theatre",
+  "by": "Kenzō Tange",
+  "city": "Yokosuka",
+  "cc": "JP",
+  "year": 1994,
+  "photos": [
+   {
+    "file": "File:Yokosuka Arts Theatre.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "el-palauet",
+  "qid": "Q72049198",
+  "status": "photo",
+  "why": "Isozaki built work on the architect test; the lead is short (heritage listing).",
+  "name": "El Palauet",
+  "by": "Arata Isozaki",
+  "city": "Palafolls",
+  "cc": "ES",
+  "year": 1990,
+  "type": "Civic",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Structure as expression",
+   "Landscape"
+  ],
+  "features": "An Isozaki building in Palafolls, Maresme, listed in Catalonia's architectural heritage inventory.",
+  "commons_category": "Category:El Palauet (Palafolls)",
+  "coords": [
+   41.66955,
+   2.75088
+  ],
+  "photos": [
+   {
+    "file": "File:El Palauet.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:El Palauet-Palafolls.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "centenary-building",
+  "qid": "Q5059071",
+  "status": "skip",
+  "why": "demolished (lead: demolition completed in 2025)"
+ },
+ {
+  "id": "heron-tower",
+  "qid": "Q1613853",
+  "status": "unsure",
+  "why": "no main photo: the tower is cut off or among other towers in every photo",
+  "note": "no main photo",
+  "name": "Heron Tower",
+  "by": "Kohn Pedersen Fox",
+  "city": "London",
+  "cc": "GB",
+  "year": 2011,
+  "photos": [],
+  "dup_flag": "near=(188, '30-st-mary-axe', '30 St Mary Axe')"
+ },
+ {
+  "id": "iberdrola-tower",
+  "qid": "Q3121267",
+  "status": "photo",
+  "why": "Pelli tower; the lead gives height, rank and the 2012 inauguration.",
+  "name": "Iberdrola Tower",
+  "by": "César Pelli",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": 2012,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Pelli's 165-metre Iberdrola headquarters, the tallest building in Bilbao, in the renewed Abandoibarra district.",
+  "commons_category": "Category:Iberdrola Tower",
+  "coords": [
+   43.2675,
+   -2.93861
+  ],
+  "photos": [
+   {
+    "file": "File:Iberdrola Tower 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bilbao - Torre Iberdrola 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(156, 'deusto-library', 'University of Deusto Library')"
+ },
+ {
+  "id": "jongno-tower",
+  "qid": "Q6275510",
+  "status": "photo",
+  "why": "Viñoly tower; the lead names the hollow floors.",
+  "name": "Jongno Tower",
+  "by": "Rafael Viñoly",
+  "city": "Seoul",
+  "cc": "KR",
+  "year": 1999,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Void",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "Rafael Viñoly's 1999 Seoul office tower, with hollow floors 23 to 30 and a famous view over Jongno.",
+  "commons_category": "Category:Jongno Tower",
+  "coords": [
+   37.57079,
+   126.98356
+  ],
+  "photos": [
+   {
+    "file": "File:Jongno Tower Seoul - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "house-of-history-baden-wurttemberg",
+  "qid": "Q263491",
+  "status": "unsure",
+  "why": "year: the lead gives 1992 only for the exhibition group; check the building opening year (lead cut off)",
+  "note": "year: the lead gives 1992 only for the exhibition group; check the building opening year (lead cut off)",
+  "name": "House of History Baden-Württemberg",
+  "by": "Michael Wilford, Manuel Schupp",
+  "city": "Stuttgart",
+  "cc": "DE",
+  "year": 1992,
+  "photos": [
+   {
+    "file": "File:Haus der Geschichte BW - Frontansicht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(32, 'stuttgart-music-school', 'Stuttgart Music School (Musikhochschule)')"
+ },
+ {
+  "id": "davos-dorf-kirchner-museum",
+  "qid": "Q29784671",
+  "status": "skip",
+  "why": "already on the wall (Kirchner Museum Davos)",
+  "dup_flag": "near=(0, 'kirchner-museum-davos', 'Kirchner Museum Davos')"
+ },
+ {
+  "id": "living-room-from-the-francis-w-little-house-windows-and-paneling",
+  "qid": "Q83560088",
+  "status": "skip",
+  "why": "an interior fragment (windows and panelling), not a building"
+ },
+ {
+  "id": "economy-faculty-building",
+  "qid": "Q122920966",
+  "status": "skip",
+  "why": "lead empty; the architect list repeats the TU Delft library list, so it is unreliable"
+ },
+ {
+  "id": "extension-of-algemene-rekenkamer",
+  "qid": "Q125679391",
+  "status": "unsure",
+  "why": "empty lead; no main photo: trees and the street hide the building",
+  "note": "empty lead; no main photo: trees and the street hide the building",
+  "name": "extension of Algemene Rekenkamer",
+  "by": "Aldo van Eyck, Hannie van Rooijen",
+  "city": "The Hague",
+  "cc": "NL",
+  "year": 1992,
+  "photos": []
+ },
+ {
+  "id": "breda-city-center-public-library",
+  "qid": "Q60233737",
+  "status": "unsure",
+  "why": "empty lead; no main photo: only a close-up of the entrance",
+  "note": "empty lead; no main photo: only a close-up of the entrance",
+  "name": "Breda City Center public library",
+  "by": "Herman Hertzberger, Architectuurstudio Herman Hertzberger",
+  "city": "Breda",
+  "cc": "NL",
+  "year": 1990,
+  "photos": []
+ },
+ {
+  "id": "memorial-luiz-carlos-prestes",
+  "qid": "Q48878372",
+  "status": "unsure",
+  "why": "no clean main photo: the outdoor view shows a black wall and towers behind",
+  "note": "no clean main photo: the outdoor view shows a black wall and towers behind",
+  "name": "Memorial Luiz Carlos Prestes",
+  "by": "Oscar Niemeyer",
+  "city": "Porto Alegre",
+  "cc": "BR",
+  "year": 1998,
+  "photos": [
+   {
+    "file": "File:Memorial Luiz Carlos Prestes (Porto Alegre, Brasil).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-museum-for-wood-culture",
+  "qid": "Q11393028",
+  "status": "photo",
+  "why": "Ando museum; the lead gives its theme and 1994 opening.",
+  "name": "The Museum for Wood Culture",
+  "by": "Tadao Ando",
+  "city": "Kami",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Tadao Ando's museum on the theme 'forest, sea and sun', opened in 1994 beside an outdoor education centre.",
+  "commons_category": "Category:The Museum for wood culture",
+  "coords": [
+   35.42806,
+   134.57972
+  ],
+  "photos": [
+   {
+    "file": "File:Inside of The Museum for wood culture.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:201121 The Museum for wood culture Kami Hyogo pref Japan01s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "atelier-museu-julio-pomar",
+  "qid": "Q16495045",
+  "status": "unsure",
+  "why": "no main photo: street edge and interiors only",
+  "note": "no main photo",
+  "name": "Atelier-Museu Júlio Pomar",
+  "by": "Álvaro Siza Vieira",
+  "city": "Lisbon",
+  "cc": "PT",
+  "year": 2013,
+  "photos": []
+ },
+ {
+  "id": "palais-des-congres-de-lyon",
+  "qid": "Q3361106",
+  "status": "unsure",
+  "why": "no main photo: one interior photo only",
+  "note": "no main photo",
+  "name": "Palais des congrès de Lyon",
+  "by": "Renzo Piano",
+  "city": "Lyon",
+  "cc": "FR",
+  "year": 1996,
+  "photos": [
+   {
+    "file": "File:Centre de Congrès - Lyon.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "paraninfo-de-la-universidad-del-pais-vasco",
+  "qid": "Q3755956",
+  "status": "photo",
+  "why": "Siza building; the lead describes the tiled facade and the 2010 opening.",
+  "name": "Paraninfo de la Universidad del País Vasco",
+  "by": "Álvaro Siza Vieira",
+  "city": "Bilbao",
+  "cc": "ES",
+  "year": 2010,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Álvaro Siza's 2010 hall for the Basque Country university, faced in grey handmade tiles and white marble.",
+  "commons_category": "Category:Paranymph of Euskal Herriko Unibertsitatea (Bizkaia Aretoa)",
+  "coords": [
+   43.26867,
+   -2.93781
+  ],
+  "photos": [
+   {
+    "file": "File:Bilbao - Torre Iberdrola y Paraninfo de la UPV-EHU 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(60, 'deusto-library', 'University of Deusto Library')"
+ },
+ {
+  "id": "changsha-meixihu-international-culture-and-arts-centre",
+  "qid": "Q41509140",
+  "status": "unsure",
+  "why": "all photos show it under construction (cranes); needs a finished-building photo",
+  "note": "all photos show it under construction (cranes); needs a finished-building photo",
+  "name": "Changsha Meixihu International Culture and Arts Centre",
+  "by": "Zaha Hadid Architects",
+  "city": "Changsha",
+  "cc": "CN",
+  "year": 2019,
+  "photos": []
+ },
+ {
+  "id": "ark-evelyn-grace-academy",
+  "qid": "Q5416333",
+  "status": "unsure",
+  "why": "no photos in prep; year 2010 is when the purpose-built building opened (lead)",
+  "note": "no main photo",
+  "name": "Ark Evelyn Grace Academy",
+  "by": "Zaha Hadid",
+  "city": "London",
+  "cc": "GB",
+  "year": 2010,
+  "photos": []
+ },
+ {
+  "id": "himeji-city-museum-of-literature",
+  "qid": "Q11447552",
+  "status": "photo",
+  "why": "Ando built work on the architect test; the lead is short.",
+  "name": "Himeji City Museum of Literature",
+  "by": "Tadao Ando",
+  "city": "Himeji",
+  "cc": "JP",
+  "year": 1991,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Water",
+   "Landscape"
+  ],
+  "features": "Tadao Ando's municipal literature museum in Himeji, Hyogo.",
+  "commons_category": "Category:Himeji City Museum of Literature",
+  "coords": [
+   34.84177,
+   134.68766
+  ],
+  "photos": [
+   {
+    "file": "File:Himeji City Museum of Literature01-r.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Himeji City Museum of Literature04s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "saxon-landtag",
+  "qid": "Q1618988",
+  "status": "skip",
+  "why": "lead gives only the function; architect is not on the wall"
+ },
+ {
+  "id": "30-hudson-yards",
+  "qid": "Q15264266",
+  "status": "photo",
+  "why": "KPF tower; the lead gives The Edge, its observation deck.",
+  "name": "30 Hudson Yards",
+  "by": "Kohn Pedersen Fox",
+  "city": "New York",
+  "cc": "US",
+  "year": 2019,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A supertall New York tower whose triangular observation deck, The Edge, juts out from the 100th floor.",
+  "commons_category": "Category:30 Hudson Yards",
+  "coords": [
+   40.75397,
+   -74.00075
+  ],
+  "photos": [
+   {
+    "file": "File:30 Hudson Yards from Pier 57 Rooftop Park.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kfw-westarkade",
+  "qid": "Q2564456",
+  "status": "photo",
+  "why": "Sauerbruch Hutton tower; the lead gives its sustainable design and the 2011 award.",
+  "name": "KfW Westarkade",
+  "by": "Sauerbruch Hutton",
+  "city": "Frankfurt",
+  "cc": "DE",
+  "year": 2010,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Facade as skin",
+   "Colour"
+  ],
+  "features": "A 14-storey Frankfurt office tower run on natural ventilation and geothermal energy, named best tall building in 2011.",
+  "commons_category": "Category:Westarkade",
+  "coords": [
+   50.1206,
+   8.65452
+  ],
+  "photos": [
+   {
+    "file": "File:Westarkade, Frankfurt, West view 20170226 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Westarkade highrise, Frankfurt, Northwest view 20170226 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Westarkade Frankfurt.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "muritzeum",
+  "qid": "Q872955",
+  "status": "photo",
+  "why": "Wingårdh building; the lead names the aquarium.",
+  "name": "Müritzeum",
+  "by": "Gert Wingårdh",
+  "city": "Waren",
+  "cc": "DE",
+  "year": 2007,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Water"
+  ],
+  "features": "Gert Wingårdh's visitor centre on Lake Müritz, with the largest freshwater aquarium for native fish in Germany.",
+  "commons_category": "Category:Müritzeum",
+  "coords": [
+   53.515,
+   12.6844
+  ],
+  "photos": [
+   {
+    "file": "File:20250717.Waren.Müritzeum.-015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "przedszkole-bundestagu",
+  "qid": "Q104820679",
+  "status": "photo",
+  "why": "Peichl building; the lead gives the ship form and the colour.",
+  "name": "Przedszkole Bundestagu",
+  "by": "Gustav Peichl",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1999,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Colour",
+   "Sculptural form",
+   "Geometry"
+  ],
+  "features": "Peichl's Berlin nursery for Bundestag families, shaped like a ship moored on the Spree, with lively colour.",
+  "commons_category": "Category:Bundestagskindergarten",
+  "coords": [
+   52.5213,
+   13.3753
+  ],
+  "photos": [
+   {
+    "file": "File:Bundestagskindergarten.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Berlin, Bundestagskindergarten 2014-07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Deutscher Bundestag - Kindertagesstätte.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(120, 'paul-loebe-house', 'Paul Löbe House')"
+ },
+ {
+  "id": "paul-gruninger-schule",
+  "qid": "Q15124495",
+  "status": "skip",
+  "why": "ordinary school; lead gives only the year; architect has one building on the wall"
+ },
+ {
+  "id": "shizuoka-city-museum-of-history",
+  "qid": "Q112226928",
+  "status": "photo",
+  "why": "SANAA building on the architect test; the lead is short.",
+  "name": "Shizuoka City Museum of History",
+  "by": "SANAA",
+  "city": "Shizuoka",
+  "cc": "JP",
+  "year": 2023,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Public space"
+  ],
+  "features": "SANAA's public history museum in Shizuoka city, opened in 2023.",
+  "commons_category": "Category:Shizuoka City Museum of History",
+  "coords": [
+   34.97667,
+   138.38472
+  ],
+  "photos": [
+   {
+    "file": "File:DSC9803Shizuoka City Museum 20220724b.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "fukuoka-camera-museum",
+  "qid": "Q116972269",
+  "status": "photo",
+  "why": "Ando built work on the architect test; the lead names the museum theme.",
+  "name": "Fukuoka Camera Museum",
+  "by": "Tadao Ando",
+  "city": "Takaoka",
+  "cc": "JP",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Tadao Ando's camera and photography museum in Takaoka, Toyama.",
+  "commons_category": "Category:Fukuoka Camera Museum",
+  "coords": [
+   36.71147,
+   136.92981
+  ],
+  "photos": [
+   {
+    "file": "File:Fukuoka Camera Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "capital-city-academy",
+  "qid": "Q5035508",
+  "status": "unsure",
+  "why": "no main photo: the exterior photos are at dusk or of the interior",
+  "note": "no main photo",
+  "name": "Capital City Academy",
+  "by": "Norman Foster",
+  "city": "London",
+  "cc": "GB",
+  "year": 2003,
+  "photos": []
+ },
+ {
+  "id": "janet-gray-hayes-rotunda",
+  "qid": "Q133834591",
+  "status": "skip",
+  "why": "already on the wall (San José City Hall, same building 15 m away)",
+  "dup_flag": "near=(15, 'san-jose-city-hall', 'San José City Hall')"
+ },
+ {
+  "id": "centro-cultural-de-viana-do-castelo",
+  "qid": "Q18483738",
+  "status": "photo",
+  "why": "Souto de Moura building; the lead names him and the 2013 opening.",
+  "name": "Centro Cultural de Viana do Castelo",
+  "by": "Eduardo Souto de Moura",
+  "city": "Viana do Castelo",
+  "cc": "PT",
+  "year": 2013,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Souto de Moura's multi-purpose cultural centre on the Lima estuary, opened in 2013 after long delays.",
+  "commons_category": "Category:Coliseu de Viana do Castelo",
+  "coords": [
+   41.69022,
+   -8.82885
+  ],
+  "photos": [
+   {
+    "file": "File:Centro Cultural de Viana do Castelo - Portugal (53466324161).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centro Cultural de Viana do Castelo - Portugal (53425263052).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "crematorium-bratislava",
+  "qid": "Q12769693",
+  "status": "unsure",
+  "why": "no clean main photo: the main shows mostly a grass slope; the close view shows only part of the building",
+  "note": "no clean main photo: the main shows mostly a grass slope; the close view shows only part of the building",
+  "name": "Crematorium Bratislava",
+  "by": "Ferdinand Milučký",
+  "city": "Bratislava",
+  "cc": "SK",
+  "year": 1968,
+  "photos": [
+   {
+    "file": "File:WP 20151027 13 11 43 Pro.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gethsemane-episcopal-cathedral",
+  "qid": "Q16839071",
+  "status": "skip",
+  "why": "lead covers membership and income, not the building"
+ },
+ {
+  "id": "casa-serra",
+  "qid": "Q28712146",
+  "status": "skip",
+  "why": "lead says only that it is locally protected; architect is not on the wall"
+ },
+ {
+  "id": "apple-fifth-avenue",
+  "qid": "Q105695664",
+  "status": "unsure",
+  "why": "no main photo: the glass cube is in front of a crowd; the lead names only Bohlin Cywinski Jackson as designer",
+  "note": "no main photo",
+  "name": "Apple Fifth Avenue",
+  "by": "Bohlin Cywinski Jackson",
+  "city": "New York",
+  "cc": "US",
+  "year": 2006,
+  "photos": [
+   {
+    "file": "File:Apple Store - Fifth Avenue (7181848534).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(128, 'lvmh-tower', 'LVMH Tower')"
+ },
+ {
+  "id": "margot-and-bill-winspear-opera-house",
+  "qid": "Q5493322",
+  "status": "unsure",
+  "why": "no main photo: the exterior shot shows a crowd at the opening night",
+  "note": "no main photo",
+  "name": "Margot and Bill Winspear Opera House",
+  "by": "Foster and Partners",
+  "city": "Dallas",
+  "cc": "US",
+  "year": 2009,
+  "photos": [
+   {
+    "file": "File:Winspear Exterior.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(142, 'morton-h-meyerson-symphony-center', 'Morton H. Meyerson Symphony Center')"
+ },
+ {
+  "id": "10-hudson-yards",
+  "qid": "Q15264124",
+  "status": "skip",
+  "why": "ordinary office tower; lead gives no reason beyond size and tenant"
+ },
+ {
+  "id": "10-upper-bank-street",
+  "qid": "Q138760",
+  "status": "skip",
+  "why": "ordinary office tower; lead gives no reason beyond size and tenant",
+  "dup_flag": "near=(179, 'canary-wharf-underground-station', 'Canary Wharf Underground Station')"
+ },
+ {
+  "id": "zunda-towers",
+  "qid": "Q6541959",
+  "status": "unsure",
+  "why": "no finished-building photo: the only photo is of construction; the lead says the façade is by Jahn",
+  "note": "no finished-building photo: the only photo is of construction; the lead says the façade is by Jahn",
+  "name": "Zunda Towers",
+  "by": "F.L.Tadao & Lukševics, Helmut Jahn",
+  "city": "Riga",
+  "cc": "LV",
+  "year": 2017,
+  "photos": []
+ },
+ {
+  "id": "shin-marunouchi-building",
+  "qid": "Q1134387",
+  "status": "photo",
+  "why": "Hopkins tower (Wikidata); the lead gives height and completion date.",
+  "name": "Shin-Marunouchi Building",
+  "by": "Michael Hopkins",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2007,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Geometry"
+  ],
+  "features": "A 198-metre Tokyo tower across from Tokyo Station, completed in April 2007.",
+  "commons_category": "Category:Shin-Marunouchi Building",
+  "coords": [
+   35.68255,
+   139.76437
+  ],
+  "photos": [
+   {
+    "file": "File:Shin Marunouchi Bldg.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Shin-Marunouchi Building （2026）.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "centre-ceramique",
+  "qid": "Q3180768",
+  "status": "photo",
+  "why": "Coenen building; the lead describes its programme.",
+  "name": "Centre Céramique",
+  "by": "Jo Coenen",
+  "city": "Maastricht",
+  "cc": "NL",
+  "year": 1995,
+  "type": "Library",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Jo Coenen's cultural centre in Maastricht's Céramique district, with the city library, concert podium and café.",
+  "commons_category": "Category:Centre Céramique (Maastricht)",
+  "coords": [
+   50.84583,
+   5.70111
+  ],
+  "photos": [
+   {
+    "file": "File:20130505 Maastricht Céramique 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Centre Céramique, Maastricht, Netherlands - panoramio (26).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-of-transport-and-communication",
+  "qid": "Q10333960",
+  "status": "unsure",
+  "why": "no main photo: the photos are of vehicles and a tram; year unclear (lead: 1860 customs house; Wikidata 2000)",
+  "note": "no main photo",
+  "name": "Museum of Transport and Communication",
+  "by": "Eduardo Souto de Moura",
+  "city": "Porto",
+  "cc": "PT",
+  "year": 2000,
+  "photos": []
+ },
+ {
+  "id": "ken-iwata-mother-and-child-museum",
+  "qid": "Q11377194",
+  "status": "photo",
+  "why": "Ito building; the lead describes the half-open exhibition space.",
+  "name": "Ken Iwata Mother and Child Museum",
+  "by": "Toyo Ito",
+  "city": "Imabari",
+  "cc": "JP",
+  "year": 2011,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "Toyo Ito's reinforced-concrete museum on Ōmishima island, half open to the air, with benches among sculptures.",
+  "commons_category": "Category:Ken Iwata Mother and Child Museum",
+  "coords": [
+   34.19479,
+   132.95418
+  ],
+  "photos": [
+   {
+    "file": "File:Mother and child museum - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Mother and child museum - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "torre-puig",
+  "qid": "Q16641572",
+  "status": "photo",
+  "why": "Moneo building on the architect test; the lead is very short.",
+  "name": "Torre Puig",
+  "by": "Rafael Moneo",
+  "city": "L'Hospitalet de Llobregat",
+  "cc": "ES",
+  "year": 2014,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Geometry",
+   "Steel & glass"
+  ],
+  "features": "Rafael Moneo's tower on Plaza de Europa in L'Hospitalet de Llobregat, near Barcelona.",
+  "commons_category": "Category:Torre Puig",
+  "coords": [
+   41.35729,
+   2.12228
+  ],
+  "photos": [
+   {
+    "file": "File:Hospitalet de Llobregat - Plaza de Europa, Torre Puig 2.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Hospitalet de Llobregat - Plaza de Europa, Torre Puig 1.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "les-bains-des-docks",
+  "qid": "Q3230929",
+  "status": "unsure",
+  "why": "no photos in prep",
+  "note": "no main photo",
+  "name": "Les Bains Des Docks",
+  "by": "Jean Nouvel",
+  "city": "Le Havre",
+  "cc": "FR",
+  "year": 2008,
+  "photos": []
+ },
+ {
+  "id": "bibliotheque-oscar-niemeyer",
+  "qid": "Q34754973",
+  "status": "unsure",
+  "why": "architect unclear: Niemeyer built the 1978–82 complex; the 2015 library is a 2011 renovation by Deshoulières and Jeanneau; all photos are interiors",
+  "note": "architect unclear: Niemeyer built the 1978–82 complex; the 2015 library is a 2011 renovation by Deshoulières and Jeanneau; all photos are interiors",
+  "name": "Bibliothèque Oscar Niemeyer",
+  "by": "Oscar Niemeyer",
+  "city": "Le Havre",
+  "cc": "FR",
+  "year": 2015,
+  "photos": [],
+  "dup_flag": "near=(63, 'le-volcan-le-havre', 'Le Volcan')"
+ },
+ {
+  "id": "residenze-hadid",
+  "qid": "Q48807681",
+  "status": "photo",
+  "why": "Hadid complex; the lead gives the seven buildings and the ten-year build.",
+  "name": "Residenze Hadid",
+  "by": "Zaha Hadid",
+  "city": "Milan",
+  "cc": "IT",
+  "year": 2014,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Sculptural form",
+   "Landscape"
+  ],
+  "features": "Zaha Hadid's CityLife complex of seven residential buildings in Milan, built over ten years from 2004.",
+  "commons_category": "Category:Residenze Hadid",
+  "coords": [
+   45.47592,
+   9.15757
+  ],
+  "photos": [
+   {
+    "file": "File:Residenze Hadid, CityLife district, Milan, Italy 03 00 33 307000.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Residenze Hadid, CityLife district, Milan, Italy 03 00 44 213000.jpeg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(189, 'allianz-tower-milan', 'Allianz Tower (Il Dritto)')"
+ },
+ {
+  "id": "apple-piazza-liberty",
+  "qid": "Q56328172",
+  "status": "photo",
+  "why": "Foster is well-known with other buildings on the wall; the lead is short. Glass structure in daylight.",
+  "name": "Apple Piazza Liberty",
+  "by": "Norman Foster",
+  "city": "Milan",
+  "cc": "IT",
+  "year": 2018,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Steel & glass",
+   "Void"
+  ],
+  "features": "An underground building in Milan's Piazza Liberty, also known as the Apple Store there.",
+  "commons_category": "Category:Apple Piazza Liberty",
+  "coords": [
+   45.46543,
+   9.19409
+  ],
+  "photos": [
+   {
+    "file": "File:Apple Piazza Liberty.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Apple Piazza Liberty 201807.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Piazza del liberty Milano 2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "campus-palmas-altas-sevilla",
+  "qid": "Q5746034",
+  "status": "photo",
+  "why": "Rogers is well-known; lead gives the 2009 inauguration. Main photo at dusk rejected; daylight photos used.",
+  "name": "Campus Palmas Altas (Sevilla)",
+  "by": "Richard Rogers",
+  "city": "Seville",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Cluster",
+   "Facade as skin",
+   "Landscape"
+  ],
+  "features": "A group of seven buildings by Richard Rogers and Luis Vidal Arquitectos, once Abengoa's headquarters.",
+  "commons_category": "Category:Campus Palmas Altas (Sevilla)",
+  "coords": [
+   37.33861,
+   -5.97639
+  ],
+  "photos": [
+   {
+    "file": "File:Campus Palmas Altas.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palmas Altas (Abengoa).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Palmas Altas 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hagi-uragami-museum",
+  "qid": "Q11467091",
+  "status": "photo",
+  "why": "Tange is well-known with other buildings on the wall; the lead names no architect. Year from prep.",
+  "name": "Hagi Uragami Museum",
+  "by": "Kenzō Tange",
+  "city": "Hagi",
+  "cc": "JP",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Community",
+   "Public space"
+  ],
+  "features": "A prefectural art museum in Hagi, one of several cultural facilities planned to be spread evenly across Yamaguchi Prefecture.",
+  "commons_category": "Category:Hagi Uragami Museum",
+  "coords": [
+   34.40944,
+   131.39436
+  ],
+  "photos": [
+   {
+    "file": "File:Hagi Uragami Mus.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:山口県立萩美術館・浦上記念館 2023-11-25.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "historisches-museum-saar",
+  "qid": "Q1620996",
+  "status": "photo",
+  "why": "Böhm is well-known with other buildings on the wall; only one clean exterior photo.",
+  "name": "Historisches Museum Saar",
+  "by": "Gottfried Böhm",
+  "city": "Saarbrücken",
+  "cc": "DE",
+  "year": 1999,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A Saarland history museum on Saarbrücken's Schlossplatz, with excavated castle casemates that trace the castle's development.",
+  "commons_category": "Category:Historisches Museum Saar",
+  "coords": [
+   49.23,
+   6.99156
+  ],
+  "photos": [
+   {
+    "file": "File:Historisches Museum Saar Saarbruecken 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-mary-of-the-angels-chapel",
+  "qid": "Q104427018",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "buchheim-museum",
+  "qid": "Q131784159",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "ciudad-bbva",
+  "qid": "Q19788709",
+  "status": "photo",
+  "why": "Herzog & de Meuron are well-known; the lead names the complex and La Vela.",
+  "name": "Ciudad BBVA",
+  "by": "Herzog & de Meuron",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2015,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Cluster",
+   "Sculptural form"
+  ],
+  "features": "Seven buildings forming BBVA's operating centre in Madrid, with the 93-metre tower La Vela.",
+  "commons_category": "Category:Ciudad BBVA",
+  "coords": [
+   40.50117,
+   -3.66417
+  ],
+  "photos": [
+   {
+    "file": "File:Ciudad BBVA.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:La vela bbva.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tateyama-museum-of-toyama",
+  "qid": "Q11456516",
+  "status": "photo",
+  "why": "Isozaki is well-known; the lead is short but the main photo is clear and in daylight.",
+  "name": "Tateyama Museum of Toyama",
+  "by": "Arata Isozaki",
+  "city": "Tateyama",
+  "cc": "JP",
+  "year": 1991,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Sculptural form"
+  ],
+  "features": "A prefectural museum in Tateyama, built as a wide-area, dispersed museum.",
+  "commons_category": "Category:Tateyama Museum of Toyama",
+  "coords": [
+   36.58271,
+   137.39349
+  ],
+  "photos": [
+   {
+    "file": "File:Tateyama-museum toyama-pref.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nakaya-ukichiro-museum-of-snow-and-ice",
+  "qid": "Q17226278",
+  "status": "photo",
+  "why": "The lead names Isozaki as designer and gives the 1994 completion.",
+  "name": "Nakaya Ukichiro Museum of Snow and Ice",
+  "by": "Arata Isozaki",
+  "city": "Kaga",
+  "cc": "JP",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Light from above",
+   "Public space"
+  ],
+  "features": "Arata Isozaki's museum for physicist Nakaya Ukichiro, with a hands-on lab for making snow and ice.",
+  "commons_category": "Category:Nakaya Ukichoro Museum of Snow and Ice",
+  "coords": [
+   36.35244,
+   136.3625
+  ],
+  "photos": [
+   {
+    "file": "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan01s4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:260718 Nakaya Ukichiro Museum of Snow and Ice Kaga Ishikawa pref Japan02s3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lafayette-anticipations-galeries-lafayette-corporate-foundation",
+  "qid": "Q17353174",
+  "status": "photo",
+  "why": "OMA rehabilitated the building; the lead gives the March 2018 opening. Facade photo only.",
+  "name": "Lafayette Anticipations – Galeries Lafayette Corporate Foundation",
+  "by": "Rem Koolhaas, Ellen van Loon",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2018,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "A Paris foundation for artists, opened in 2018 in a building rehabilitated by Rem Koolhaas and OMA.",
+  "commons_category": "Category:Lafayette Anticipations",
+  "coords": [
+   48.85922,
+   2.3548
+  ],
+  "photos": [
+   {
+    "file": "File:Façade du 9 rue du Plâtre, bâtiment rénové par Rem Koolhaas et OMA.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maison-de-l-ordre-des-avocats",
+  "qid": "Q50532135",
+  "status": "photo",
+  "why": "Piano is well-known; the lead names his agency and the Cité judiciaire site.",
+  "name": "Maison de l'ordre des avocats",
+  "by": "Renzo Piano",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2019,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "Renzo Piano's agency designed this building, home to the Paris bar's lawyers' order, in the Cité judiciaire.",
+  "commons_category": "Category:Maison de l'ordre des avocats",
+  "coords": [
+   48.8949,
+   2.31131
+  ],
+  "photos": [
+   {
+    "file": "File:Maison des Avocats (DSC09467).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Maison des Avocats (DSC09463).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(55, 'tribunal-de-paris', 'Tribunal de Paris')"
+ },
+ {
+  "id": "lugano-arte-e-cultura",
+  "qid": "Q26986943",
+  "status": "skip",
+  "why": "A cultural centre; the lead gives no reason it matters and the architect has no other building on the wall."
+ },
+ {
+  "id": "santo-volto-di-gesu",
+  "qid": "Q3668693",
+  "status": "unsure",
+  "why": "The lead gives a reason (one of the best modern church designs in Rome), but every photo is interior only.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sofitel-chicago-water-tower",
+  "qid": "Q7553765",
+  "status": "unsure",
+  "why": "A hotel, with an AIA favourite-architecture honour in the lead; none of the photos clearly shows the hotel.",
+  "note": "no main photo"
+ },
+ {
+  "id": "kamakura-museum-of-history-and-culture",
+  "qid": "Q30932992",
+  "status": "photo",
+  "why": "Foster is well-known with other buildings on the wall; lead gives the 2017 opening.",
+  "name": "Kamakura Museum of History and Culture",
+  "by": "Foster and Partners",
+  "city": "Kamakura",
+  "cc": "JP",
+  "year": 2017,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Landscape",
+   "Community"
+  ],
+  "features": "A Kamakura city history and culture exchange facility that opened on 15 May 2017.",
+  "commons_category": "Category:Kamakura Museum of History and Culture",
+  "coords": [
+   35.32238,
+   139.54765
+  ],
+  "photos": [
+   {
+    "file": "File:Kamakura Museum of History & Culture 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kamakura Museum of History & Culture 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kamakura Museum of History & Culture 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stc-group",
+  "qid": "Q2365720",
+  "status": "skip",
+  "why": "The lead describes the college group, not the building, so no features can come from it."
+ },
+ {
+  "id": "toyama-international-conference-center",
+  "qid": "Q11456337",
+  "status": "photo",
+  "why": "Maki is well-known. Prep flags both photos as junk; checked by eye, the building is clear and in daylight.",
+  "name": "Toyama International Conference Center",
+  "by": "Fumihiko Maki",
+  "city": "Toyama",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Toyama's convention centre, nicknamed the Ōtemachi Forum.",
+  "commons_category": "Category:Toyama International Conference Center",
+  "coords": [
+   36.69153,
+   137.21108
+  ],
+  "photos": [
+   {
+    "file": "File:080506 Toyama International Conference Center Toyama Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Toyama International Conference Center 20180503.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pierre-boulez-saal",
+  "qid": "Q28870831",
+  "status": "photo",
+  "why": "Gehry is well-known; the lead gives the former scenery depot. Only one exterior photo; the rest show the hall.",
+  "name": "Pierre Boulez Saal",
+  "by": "Frank Gehry",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 2015,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Community",
+   "Facade as skin"
+  ],
+  "features": "A Berlin music academy in Berlin-Mitte, housed in the former scenery depot of the State Opera.",
+  "commons_category": "Category:Barenboim-Said Akademie",
+  "coords": [
+   52.51543,
+   13.39651
+  ],
+  "photos": [
+   {
+    "file": "File:2018-08-12 DE Berlin-Mitte, Französische Straße, Oberwallstraße, Barenboim-Said-Akademie (50022818967).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "campus-einaudi",
+  "qid": "Q41670794",
+  "status": "photo",
+  "why": "Foster is well-known; the lead is short but the campus is clear in daylight.",
+  "name": "Campus Einaudi",
+  "by": "Norman Foster",
+  "city": "Turin",
+  "cc": "IT",
+  "year": 2012,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Structure as expression",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A Turin university campus on Lungo Dora Siena, named after Italy's second president, Luigi Einaudi.",
+  "commons_category": "Category:Campus Einaudi",
+  "coords": [
+   45.07391,
+   7.69966
+  ],
+  "photos": [
+   {
+    "file": "File:Campus Universitario.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Campus Luigi Einaudi @ Università degli Studi di Torino @ Turin (49195208386).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Campus Luigi Einaudi Torino - panoramio (1).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "1101-new-york-avenue",
+  "qid": "Q4547248",
+  "status": "photo",
+  "why": "Roche is well-known with other buildings on the wall; the lead gives the design detail and 2007 completion.",
+  "name": "1101 New York Avenue",
+  "by": "Kevin Roche",
+  "city": "Washington",
+  "cc": "US",
+  "year": 2007,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Light & shadow"
+  ],
+  "features": "A Washington office tower whose corners are notched to give more window offices.",
+  "commons_category": null,
+  "coords": [
+   38.9003,
+   -77.0275
+  ],
+  "photos": [
+   {
+    "file": "File:1101 New York Avenue, NW - Washington, D.C..jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nagano-city-arts-center",
+  "qid": "Q85884244",
+  "status": "photo",
+  "why": "Maki is well-known; the lead gives the 2016 opening.",
+  "name": "Nagano City Arts Center",
+  "by": "Fumihiko Maki",
+  "city": "Nagano",
+  "cc": "JP",
+  "year": 2016,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Public space",
+   "Community"
+  ],
+  "features": "A comprehensive arts and culture centre in Nagano City, opened on 8 May 2016.",
+  "commons_category": "Category:Nagano City Arts Center",
+  "coords": [
+   36.6485,
+   138.19533
+  ],
+  "photos": [
+   {
+    "file": "File:Nagano-city arts center 長野市芸術館.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nagano-city main Hall＆Nagano-city Arts center 長野市役所と長野市芸術館.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tour-saint-gobain",
+  "qid": "Q18380158",
+  "status": "skip",
+  "why": "Office tower; the lead gives only its height and rank."
+ },
+ {
+  "id": "beetham-tower-manchester",
+  "qid": "Q814128",
+  "status": "photo",
+  "why": "The lead gives a first (the Financial Times description) and the 2006 completion.",
+  "name": "Beetham Tower, Manchester",
+  "by": "SimpsonHaugh and Partners, Ian Simpson",
+  "city": "Manchester",
+  "cc": "GB",
+  "year": 2006,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "Described by the Financial Times as the UK's first proper skyscraper outside London.",
+  "commons_category": "Category:Beetham Tower, Manchester",
+  "coords": [
+   53.47528,
+   -2.25028
+  ],
+  "photos": [
+   {
+    "file": "File:Beetham Tower Manchester (5871824135).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Beetham Tower Manchester (5871822967).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "americas-tower",
+  "qid": "Q467467",
+  "status": "skip",
+  "why": "Ordinary office tower; the lead gives a style but no reason it matters, and the architects are not on the wall."
+ },
+ {
+  "id": "finnish-forest-museum-lusto",
+  "qid": "Q11879901",
+  "status": "photo",
+  "why": "Mahlamäki has a building on the wall. Lead is short; main photo is clear.",
+  "name": "Finnish Forest Museum Lusto",
+  "by": "Rainer Mahlamäki, Ilmari Lahdelma",
+  "city": "Savonlinna",
+  "cc": "FI",
+  "year": 1994,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Water"
+  ],
+  "features": "Finland's forest museum, sited at Punkaharju.",
+  "commons_category": "Category:Finnish Forest Museum Lusto",
+  "coords": [
+   61.79917,
+   29.32194
+  ],
+  "photos": [
+   {
+    "file": "File:Lusto 1 AB.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museum-belvedere",
+  "qid": "Q12013196",
+  "status": "skip",
+  "why": "Museum; the lead does not describe the building or give a reason, and the architect is not on the wall."
+ },
+ {
+  "id": "caja-magica",
+  "qid": "Q371585",
+  "status": "photo",
+  "why": "Perrault is well-known; the lead gives the design (three courts, retractable roofs).",
+  "name": "Caja Mágica",
+  "by": "Dominique Perrault",
+  "city": "Madrid",
+  "cc": "ES",
+  "year": 2009,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Structure as expression",
+   "Water"
+  ],
+  "features": "A Madrid tennis centre with three courts under one structure and a series of retractable roofs.",
+  "commons_category": "Category:Caja Mágica",
+  "coords": [
+   40.3689,
+   -3.68415
+  ],
+  "photos": [
+   {
+    "file": "File:Caja Mágica exterior.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Los espacios de eventos de Madrid Destino se consolidan como polo de actividad empresarial, solidaria y ciudadana 05.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "the-magazine",
+  "qid": "Q116471693",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "onikuru",
+  "qid": "Q124710195",
+  "status": "photo",
+  "why": "Toyo Ito is well-known; the lead is short; the main photo is a clean exterior.",
+  "name": "ONIKURU",
+  "by": "Toyo Ito",
+  "city": "Ibaraki",
+  "cc": "JP",
+  "year": 2023,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Facade as skin"
+  ],
+  "features": "A civic complex in Ibaraki with a hall, library, children's centre, indoor playground and planetarium.",
+  "commons_category": "Category:Onikuru",
+  "coords": [
+   34.81558,
+   135.56933
+  ],
+  "photos": [
+   {
+    "file": "File:おにクル開業日の写真.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "skylight",
+  "qid": "Q1425497",
+  "status": "photo",
+  "why": "Rogers is well-known; the lead gives the design idea and the 6 September 2001 opening.",
+  "name": "Skylight",
+  "by": "Richard Rogers",
+  "city": "Frankfurt am Main",
+  "cc": "DE",
+  "year": 2001,
+  "type": "Office & tower",
+  "movement": "High-tech",
+  "concepts": [
+   "Cluster",
+   "Steel & glass",
+   "Facade as skin"
+  ],
+  "features": "A 'city within a city' in Frankfurt: offices, shops and flats around a 66-metre residential tower.",
+  "commons_category": "Category:Skylight (Frankfurt am Main)",
+  "coords": [
+   50.117,
+   8.6822
+  ],
+  "photos": [
+   {
+    "file": "File:Frankfurt, Skylight, SEB.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bard-college-campus",
+  "qid": "Q16950323",
+  "status": "skip",
+  "why": "A campus of about 70 buildings, not one building; the photos show waterfalls and houses."
+ },
+ {
+  "id": "de-citadel",
+  "qid": "Q1816575",
+  "status": "photo",
+  "why": "Portzamparc is well-known; the lead gives the prize and the OMA masterplan link.",
+  "name": "De Citadel",
+  "by": "Christian de Portzamparc",
+  "city": "Almere",
+  "cc": "NL",
+  "year": 2006,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Geometry",
+   "Cluster",
+   "Public space"
+  ],
+  "features": "Portzamparc's multi-use building at the heart of OMA's Almere centre masterplan, which won an Almere architecture prize.",
+  "commons_category": "Category:De Citadel, Almere",
+  "coords": [
+   52.3696,
+   5.21881
+  ],
+  "photos": [
+   {
+    "file": "File:Citadel almere flickr.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gaumont-grand-ecran-italie",
+  "qid": "Q3114848",
+  "status": "unsure",
+  "why": "The lead gives a reason (long Europe's largest cinema screen), but there are no photos at all.",
+  "note": "no main photo"
+ },
+ {
+  "id": "museu-de-arte-contemporanea-nadir-afonso",
+  "qid": "Q48867431",
+  "status": "skip",
+  "why": "Already on the wall as Nadir Afonso Contemporary Art Museum.",
+  "dup_flag": "near=(0, 'nadir-afonso-museum', 'Nadir Afonso Contemporary Art Museum')"
+ },
+ {
+  "id": "parkview",
+  "qid": "Q62616170",
+  "status": "photo",
+  "why": "Meier is well-known; the lead gives the masterplan link. Other photos are at night.",
+  "name": "Parkview",
+  "by": "Richard Meier, CUBOID Architekti",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 2020,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Cluster"
+  ],
+  "features": "The last tower of Prague's City complex in Pankrác, from a 1999 masterplan by Richard Meier's studio.",
+  "commons_category": "Category:Parkview",
+  "coords": [
+   50.04969,
+   14.43517
+  ],
+  "photos": [
+   {
+    "file": "File:Praha Pankrac stavba Parkview 8.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "festspielhaus-st-polten",
+  "qid": "Q1408821",
+  "status": "skip",
+  "why": "The lead gives the history and programme, not the building; the architect is not on the wall."
+ },
+ {
+  "id": "seattle-city-hall",
+  "qid": "Q2262435",
+  "status": "skip",
+  "why": "The lead gives only the \"green\" label; the architect is not on the wall."
+ },
+ {
+  "id": "st-florian-aigen-im-ennstal",
+  "qid": "Q23541633",
+  "status": "skip",
+  "why": "Village church; the lead gives only its heritage listing; the architect is not on the wall."
+ },
+ {
+  "id": "saga-prefectural-space-and-science-museum",
+  "qid": "Q11384745",
+  "status": "skip",
+  "why": "Science museum; the lead gives no reason it matters and the architects are not on the wall."
+ },
+ {
+  "id": "chihiro-art-museum-azumino",
+  "qid": "Q11450770",
+  "status": "photo",
+  "why": "Naito has three buildings on the wall; the lead gives the scale claim.",
+  "name": "Chihiro Art Museum Azumino",
+  "by": "Hiroshi Naito",
+  "city": "Matsukawa",
+  "cc": "JP",
+  "year": 1997,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Community"
+  ],
+  "features": "The world's largest picture-book museum, in Matsukawa village's Azumino Chihiro Park.",
+  "commons_category": "Category:Chihiro Art Museum Azumino",
+  "coords": [
+   36.41492,
+   137.84417
+  ],
+  "photos": [
+   {
+    "file": "File:150922 Chihiro Art Museum Azumino Japan01s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:150922 Chihiro Art Museum Azumino Japan02s3.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "michael-kirche",
+  "qid": "Q119726978",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "nakamura-keith-haring-collection",
+  "qid": "Q28406860",
+  "status": "unsure",
+  "why": "The lead says the building is award-winning (Atsushi Kitagawara); there are no photos at all.",
+  "note": "no main photo"
+ },
+ {
+  "id": "pabellon-de-la-navegacion",
+  "qid": "Q12198135",
+  "status": "photo",
+  "why": "The lead gives the biennial mention and the Expo origin; one clean exterior photo.",
+  "name": "Pabellón de la Navegación",
+  "by": "Guillermo Vázquez Consuegra",
+  "city": "Seville",
+  "cc": "ES",
+  "year": 1992,
+  "type": "Pavilion",
+  "movement": "Late modernism",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Modular"
+  ],
+  "features": "Built for Seville's 1992 Expo, now an Atlantic navigation museum; its architect won a biennial mention.",
+  "commons_category": "Category:Pabellón de la Navegación",
+  "coords": [
+   37.39451,
+   -6.00789
+  ],
+  "photos": [
+   {
+    "file": "File:Pabellon navegacion e2012003.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "burghof-lorrach",
+  "qid": "Q1015062",
+  "status": "photo",
+  "why": "The lead says the architecture is known beyond the region and works with the old town. Two clean exteriors.",
+  "name": "Burghof Lörrach",
+  "by": "Steib + Steib",
+  "city": "Lörrach",
+  "cc": "DE",
+  "year": 1998,
+  "type": "Culture & sport",
+  "movement": "Deconstructivism",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Community"
+  ],
+  "features": "A culture and events centre in Lörrach whose architecture works with the historic old town.",
+  "commons_category": "Category:Burghof Lörrach",
+  "coords": [
+   47.61083,
+   7.65928
+  ],
+  "photos": [
+   {
+    "file": "File:Truncated Pyramid Room.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Burghof Lörrach... - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "k-museum",
+  "qid": "Q11392654",
+  "status": "skip",
+  "why": "Demolished: the lead says demolition began in November 2024."
+ },
+ {
+  "id": "biblioteca-jaume-fuster",
+  "qid": "Q116689663",
+  "status": "skip",
+  "why": "Already on the wall as Jaume Fuster Library.",
+  "dup_flag": "near=(0, 'biblioteca-jaume-fuster', 'Jaume Fuster Library')"
+ },
+ {
+  "id": "25-north-colonnade",
+  "qid": "Q2815351",
+  "status": "skip",
+  "why": "Ordinary office block; the lead gives height and history only; the photos are at night."
+ },
+ {
+  "id": "malator",
+  "qid": "Q6741403",
+  "status": "unsure",
+  "why": "The lead gives a reason (listed among the most innovative 20th-century houses); there are no photos at all.",
+  "note": "no main photo"
+ },
+ {
+  "id": "prinsegracht-12",
+  "qid": "Q17342913",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "holy-trinity-cathedral",
+  "qid": "Q23305619",
+  "status": "unsure",
+  "why": "The architect has other buildings on the wall, but the photos show the skyline and the Eiffel Tower, not the cathedral.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ad-dar-cultural-and-conference-center",
+  "qid": "Q113145815",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "yaoko-kawagoe-museum",
+  "qid": "Q11344966",
+  "status": "photo",
+  "why": "Toyo Ito is well-known; the lead is short; the main photo is a clean daylight exterior.",
+  "name": "Yaoko Kawagoe Museum",
+  "by": "Toyo Ito",
+  "city": "Kawagoe",
+  "cc": "JP",
+  "year": 2012,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A Kawagoe art museum showing the works of Western-style painter Misu Yuji.",
+  "commons_category": null,
+  "coords": [
+   35.92856,
+   139.48906
+  ],
+  "photos": [
+   {
+    "file": "File:Yaoko Kawagoe Museum aka Yuji Misu Memorial Hall.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "99-gansevoort-street",
+  "qid": "Q106843470",
+  "status": "skip",
+  "why": "No lead in any language.",
+  "dup_flag": "near=(1, 'whitney-museum-of-american-art', 'Whitney Museum of American Art')"
+ },
+ {
+  "id": "basilica-of-our-lady-of-the-rosary",
+  "qid": "Q9167690",
+  "status": "skip",
+  "why": "Basilica; the lead gives no architectural reason and the architects are not on the wall."
+ },
+ {
+  "id": "the-mondriaan-house",
+  "qid": "Q3389883",
+  "status": "skip",
+  "why": "Museum in a birthplace house; the lead gives no architectural reason."
+ },
+ {
+  "id": "the-frances-young-tang-teaching-museum-and-art-gallery",
+  "qid": "Q16201701",
+  "status": "photo",
+  "why": "Predock has a building on the wall; the lead is one sentence; the main photo is a clean exterior.",
+  "name": "The Frances Young Tang Teaching Museum and Art Gallery",
+  "by": "Antoine Predock",
+  "city": "Saratoga Springs",
+  "cc": "US",
+  "year": 2000,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A teaching museum and art gallery at Skidmore College in Saratoga Springs, New York.",
+  "commons_category": "Category:Frances Young Tang Teaching Museum and Art Gallery",
+  "coords": [
+   43.0954,
+   -73.7859
+  ],
+  "photos": [
+   {
+    "file": "File:Tang Museum entrance.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "musik-und-kongresshalle-lubeck",
+  "qid": "Q1954986",
+  "status": "photo",
+  "why": "Gerkan is well-known with other buildings on the wall; the lead gives the mixed programme and 1994 opening.",
+  "name": "Musik- und Kongresshalle Lübeck",
+  "by": "Meinhard von Gerkan",
+  "city": "Lübeck",
+  "cc": "DE",
+  "year": 1994,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Facade as skin",
+   "Water",
+   "Public space"
+  ],
+  "features": "A Lübeck hall combining an international congress centre, a philharmonic and a civic hall, opened in 1994.",
+  "commons_category": "Category:Musik- und Kongreßhalle Lübeck",
+  "coords": [
+   53.8693,
+   10.6781
+  ],
+  "photos": [
+   {
+    "file": "File:MuK Musik und Kongresshalle Lübeck.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lubeck sala kongresowa.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "imax-port-vell-cine",
+  "qid": "Q37513056",
+  "status": "skip",
+  "why": "Cinema, closed in 2014; the lead gives no architectural reason."
+ },
+ {
+  "id": "konzerthaus-blaibach",
+  "qid": "Q97602086",
+  "status": "skip",
+  "why": "Concert house; the lead gives no reason it matters and the architect is not on the wall."
+ },
+ {
+  "id": "juscelino-kubitschek-auditorium",
+  "qid": "Q79118291",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "oficina-de-artes-manuel-cargaleiro",
+  "qid": "Q111785254",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "taisha-urara-kan-cultural-hall",
+  "qid": "Q11438315",
+  "status": "photo",
+  "why": "Toyo Ito is well-known; the lead is one line; the main photo is clean.",
+  "name": "Taisha Urara-kan Cultural Hall",
+  "by": "Toyo Ito",
+  "city": "Izumo",
+  "cc": "JP",
+  "year": 1999,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Public space"
+  ],
+  "features": "A cultural facility in Izumo City, Shimane Prefecture.",
+  "commons_category": null,
+  "coords": [
+   35.3906,
+   132.68496
+  ],
+  "photos": [
+   {
+    "file": "File:Taisya bunkaplace.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "evere-crematorium",
+  "qid": "Q125212495",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "werderscher-markt-6-schinkelplatz-2-berlin-mitte",
+  "qid": "Q141392282",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "central-library-des-moines",
+  "qid": "Q66042452",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "tokyo-fashion-town-building",
+  "qid": "Q67179812",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "wu-vienna-library-and-learning-center",
+  "qid": "Q108823236",
+  "status": "skip",
+  "why": "No lead in any language.",
+  "dup_flag": "near=(0, 'wu-library-learning-center', 'Library and Learning Center, Vienna University of Economics')"
+ },
+ {
+  "id": "keating-aquatic-center",
+  "qid": "Q116893943",
+  "status": "skip",
+  "why": "No lead in any language."
+ },
+ {
+  "id": "church-of-saint-procopius-zizkov",
+  "qid": "Q1296673",
+  "status": "unsure",
+  "why": "Photos are good, but the lead names Josef Mocker as designer of a Neo-Gothic church; Wikidata's 2000 looks too late for its completion.",
+  "note": "year needs checking: prep year 2000 does not fit the lead"
+ },
+ {
+  "id": "prins-hendrikkade-600",
+  "qid": "Q114876234",
+  "status": "photo",
+  "why": "The lead names Renzo Piano as designer of the 1996 pavilion, so the architect is Piano, not the Wikidata name.",
+  "name": "Prins Hendrikkade 600",
+  "by": "Renzo Piano",
+  "city": "Amsterdam",
+  "cc": "NL",
+  "year": 1996,
+  "type": "Museum",
+  "movement": "High-tech",
+  "concepts": [
+   "Steel & glass",
+   "Adaptive reuse",
+   "Sculptural form"
+  ],
+  "features": "Renzo Piano's 1996 pavilion on Amsterdam's Oosterdok, later reused as the ARCAM architecture centre.",
+  "commons_category": "Category:Prins Hendrikkade 600, Amsterdam",
+  "coords": [
+   52.37145,
+   4.91265
+  ],
+  "photos": [
+   {
+    "file": "File:2022 Arcam-gebouw, Asd (5).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2022 Arcam-gebouw, Asd (1).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2022 Arcam-gebouw, Asd (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kirchenzentrum-munchen-riem",
+  "qid": "Q11722150",
+  "status": "skip",
+  "why": "Church; the lead gives only that it is the youngest Catholic church in Munich; the architect is not on the wall."
+ },
+ {
+  "id": "glaskugelhaus-dresden",
+  "qid": "Q1529647",
+  "status": "skip",
+  "why": "Commercial building; the lead gives only its shape; the architect is not on the wall.",
+  "dup_flag": "near=(147, 'dresden-central-station', 'Dresden Central Station')"
+ },
+ {
+  "id": "kaustinen-folk-arts-centre",
+  "qid": "Q18681944",
+  "status": "photo",
+  "why": "Mahlamäki has a building on the wall; the lead gives the function; brick exteriors in daylight.",
+  "name": "Kaustinen Folk Arts Centre",
+  "by": "Rainer Mahlamäki",
+  "city": "Kaustinen",
+  "cc": "FI",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Regionalism",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Landscape"
+  ],
+  "features": "A culture and events centre and concert house in Kaustinen, presenting Finnish folk culture.",
+  "commons_category": "Category:Kaustinen Folk Arts Centre",
+  "coords": [
+   63.54382,
+   23.6924
+  ],
+  "photos": [
+   {
+    "file": "File:Kaustinen CAP.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Kansantaiteenkeskus (14791386510).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kansantaiteenkeskus (14955095296).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "begegnungsstatte-alte-synagoge",
+  "qid": "Q20643160",
+  "status": "skip",
+  "why": "Cultural centre; the lead gives its regional role, not its architecture; the architects are not on the wall."
+ },
+ {
+  "id": "cite-des-congres-de-nantes",
+  "qid": "Q3207449",
+  "status": "skip",
+  "why": "The lead gives no design reason and the architect, Yves Lion, has no other building on the wall."
+ },
+ {
+  "id": "zenith-de-dijon",
+  "qid": "Q3576481",
+  "status": "skip",
+  "why": "Concert venue; lead gives no architectural reason."
+ },
+ {
+  "id": "bing-concert-hall",
+  "qid": "Q4914117",
+  "status": "unsure",
+  "why": "Strong keep: lead names Richard Olcott of Ennead Architects and the vineyard-style seating. No city in prep.json (only Santa Clara County; lead says Stanford University). Main photo passes.",
+  "note": "no city",
+  "name": "Bing Concert Hall"
+ },
+ {
+  "id": "canadian-clay-and-glass-gallery",
+  "qid": "Q5029867",
+  "status": "skip",
+  "why": "Gallery; lead gives no design reason and the architect has no building on the wall."
+ },
+ {
+  "id": "san-riccardo-pampuri-church",
+  "qid": "Q55358441",
+  "status": "skip",
+  "why": "Parish church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "st-katharina-von-siena",
+  "qid": "Q62588192",
+  "status": "skip",
+  "why": "Parish church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "harding-charter-preparatory-high-school",
+  "qid": "Q5656081",
+  "status": "skip",
+  "why": "Ordinary high school."
+ },
+ {
+  "id": "church-of-st-basil-of-ostrog-belgrade",
+  "qid": "Q2497798",
+  "status": "photo",
+  "why": "Lead names the architect and his plan; first church in New Belgrade since WWII. Photos daylight, outside.",
+  "name": "Church of St. Basil of Ostrog, Belgrade",
+  "by": "Mihajlo Mitrović",
+  "city": "Belgrade",
+  "cc": "RS",
+  "year": 2001,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Community",
+   "Vault"
+  ],
+  "features": "New Belgrade's first church since World War II, with an 'old Christian' rotunda plan and tall bell-tower.",
+  "commons_category": "Category:Church of St. Basil of Ostrog (Novi Beograd)",
+  "coords": [
+   44.82028,
+   20.38806
+  ],
+  "photos": [
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 06.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crkva Svetog Vasilija Ostroškog na Novom Beogradu 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "pathe-schouwburgplein",
+  "qid": "Q38238761",
+  "status": "skip",
+  "why": "Lead is empty (architect Koen van Velsen has a building on the wall, but no lead to write features from)."
+ },
+ {
+  "id": "aue-pavilions",
+  "qid": "Q2585319",
+  "status": "skip",
+  "why": "Temporary documenta pavilions; lead gives no design reason and does not say they still stand."
+ },
+ {
+  "id": "piccolo-teatro-strehler",
+  "qid": "Q56477161",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "apple-champs-elysees",
+  "qid": "Q109810822",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "badaevsky",
+  "qid": "Q113868959",
+  "status": "skip",
+  "why": "Lead is empty; housing."
+ },
+ {
+  "id": "rijeka-mosque",
+  "qid": "Q26256577",
+  "status": "skip",
+  "why": "Lead gives build dates only, no design reason; architect not on the wall."
+ },
+ {
+  "id": "ishikawa-nanao-art-museum",
+  "qid": "Q11585933",
+  "status": "photo",
+  "why": "Short lead, but architect (Uchii) has a building on the wall, so kept. Single daylight exterior photo.",
+  "name": "Ishikawa Nanao Art Museum",
+  "by": "Shozo Uchii",
+  "city": "Nanao",
+  "cc": "JP",
+  "year": 1995,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Free plan",
+   "Light & shadow"
+  ],
+  "features": "A 1995 art museum on the Noto Peninsula by Shozo Uchii, holding works by Hasegawa Tōhaku.",
+  "commons_category": "Category:Ishikawa Nanao Art Museum",
+  "coords": [
+   37.04481,
+   136.95373
+  ],
+  "photos": [
+   {
+    "file": "File:石川県七尾美術館 Nanao Art Museum.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "cc-amfi",
+  "qid": "Q477911",
+  "status": "skip",
+  "why": "Ordinary ice-hockey arena."
+ },
+ {
+  "id": "lex-building",
+  "qid": "Q1822210",
+  "status": "skip",
+  "why": "Ordinary government office tower; lead gives no design reason.",
+  "dup_flag": "near=(150, 'europa-building-brussels', 'Europa building')"
+ },
+ {
+  "id": "resurrection-cathedral-korce",
+  "qid": "Q7316527",
+  "status": "skip",
+  "why": "Lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "timewheel",
+  "qid": "Q186596",
+  "status": "skip",
+  "why": "Sculpture (hourglass), not a building.",
+  "dup_flag": "near=(120, 'house-of-music-hungary', 'House of Music Hungary')"
+ },
+ {
+  "id": "mount-stewart",
+  "qid": "Q155885",
+  "status": "skip",
+  "why": "Historic house and garden; lead gives no design reason. Wikidata architect James Stuart (d. 1788) does not fit a 19th-century house."
+ },
+ {
+  "id": "bibliotheque-universitaire-des-langues-et-civilisations",
+  "qid": "Q2901548",
+  "status": "skip",
+  "why": "Library; lead gives no design reason; Yves Lion has no building on the wall."
+ },
+ {
+  "id": "armenian-cathedral-of-moscow",
+  "qid": "Q4069756",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "fuglsang-art-museum",
+  "qid": "Q5507293",
+  "status": "unsure",
+  "why": "Strong keep: Tony Fretton, 2009 RIBA European Award, landscape integration (lead). No city in prep.json (Guldborgsund Municipality on Lolland).",
+  "note": "no city",
+  "name": "Fuglsang Art Museum"
+ },
+ {
+  "id": "dia-beacon",
+  "qid": "Q1207917",
+  "status": "photo",
+  "why": "Adaptive reuse with a clear lead. Prep architect is artist Robert Irwin; the lead names the renovating architects, so those are used.",
+  "name": "Dia Beacon",
+  "by": "Alan Koch, Lyn Rice, Galia Solomonoff, Linda Taalman",
+  "city": "Beacon",
+  "cc": "US",
+  "year": 2003,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "A former Nabisco box-printing factory near the Hudson, renovated for Dia's art collection with Robert Irwin and OpenOffice architects.",
+  "commons_category": "Category:Dia:Beacon",
+  "coords": [
+   41.50008,
+   -73.98257
+  ],
+  "photos": [
+   {
+    "file": "File:Dia Beacon (55195273088).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dia Beacon 08.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dia Beacon 09.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "otsuka-museum-of-art",
+  "qid": "Q3329659",
+  "status": "photo",
+  "why": "Sakakura firm (Junzo Sakakura office, with buildings on the wall); lead is about the museum, founded 1998.",
+  "name": "Ōtsuka Museum of Art",
+  "by": "Sakakura Associates Architects and Engineers",
+  "city": "Naruto",
+  "cc": "JP",
+  "year": 1998,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Monumentality"
+  ],
+  "features": "Over a thousand full-size ceramic reproductions of famous artworks, including the Sistine Chapel, in Naruto.",
+  "commons_category": "Category:Otsuka Museum of Art",
+  "coords": [
+   34.2324,
+   134.638
+  ],
+  "photos": [
+   {
+    "file": "File:The Otsuka Museum of Art01s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:The Otsuka Museum of Art20s3203.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Otsuka Museum of Art10s3872.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "wajima-museum-of-urushi-art",
+  "qid": "Q11586047",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "beelden-aan-zee",
+  "qid": "Q477275",
+  "status": "skip",
+  "why": "Sculpture museum; lead gives no design reason; photos are sculptures."
+ },
+ {
+  "id": "ucla-marion-anderson-hall",
+  "qid": "Q105653401",
+  "status": "skip",
+  "why": "Lead is empty.",
+  "dup_flag": "near=(164, 'charles-e-young-research-library', 'Charles E. Young Research Library')"
+ },
+ {
+  "id": "arenes-de-metz",
+  "qid": "Q3361211",
+  "status": "skip",
+  "why": "Ordinary indoor sports arena."
+ },
+ {
+  "id": "paul-g-allen-center-for-computer-science-engineering",
+  "qid": "Q38884562",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "paccar-hall",
+  "qid": "Q98447438",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "biblioteca-raul-rangel-frias",
+  "qid": "Q108938574",
+  "status": "unsure",
+  "why": "Legorreta (six buildings on the wall) and lead gives tradition and modernity; opened 1995 per lead. prep.json gives only Nuevo León (a state), so no city.",
+  "note": "no city",
+  "name": "Biblioteca Raúl Rangel Frías"
+ },
+ {
+  "id": "pearling-site",
+  "qid": "Q121602845",
+  "status": "unsure",
+  "why": "Olgiati and the lead (visitor centre at the entrance to the UNESCO pearling path) fit. Only photo is inside, with people; no exterior photo.",
+  "note": "no main photo",
+  "name": "Pearling Site"
+ },
+ {
+  "id": "church-of-st-cyril-of-turau-and-all-the-patron-saints-of-the-belarusian-people",
+  "qid": "Q23541304",
+  "status": "photo",
+  "why": "Lead gives firsts (wooden church since the Great Fire). Lead names no date; year 2017 from prep.json.",
+  "name": "Church of St Cyril of Turau and All the Patron Saints of the Belarusian People",
+  "by": "Tszwai So",
+  "city": "London",
+  "cc": "GB",
+  "year": 2017,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "The first wooden church built in London since the Great Fire, and the first purpose-built Eastern Catholic church in London.",
+  "commons_category": "Category:Belarusian Church, London N12",
+  "coords": [
+   51.6167,
+   -0.1847
+  ],
+  "photos": [
+   {
+    "file": "File:Church of St Cyril of Turau and All the Patron Saints of the Belarusian People (2016-11-24).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belarusian Church of London 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belarusian Church of London 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "wiki=belarusian-memorial-chapel"
+ },
+ {
+  "id": "memorial-mosque",
+  "qid": "Q3659006",
+  "status": "skip",
+  "why": "Lead gives no design reason; ordinary mosque."
+ },
+ {
+  "id": "san-corbiniano",
+  "qid": "Q1143103",
+  "status": "skip",
+  "why": "Church; lead gives no design reason; no photos."
+ },
+ {
+  "id": "epic-the-irish-emigration-museum",
+  "qid": "Q29831711",
+  "status": "skip",
+  "why": "Visitor attraction; interior exhibition photos only."
+ },
+ {
+  "id": "church-of-the-nativity-of-the-theotokos-skopje",
+  "qid": "Q610351",
+  "status": "skip",
+  "why": "Church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "cite-de-la-mode-et-du-design",
+  "qid": "Q2974772",
+  "status": "photo",
+  "why": "Lead names Jakob + MacFarlane and calls it a bold contemporary monument; opened 2010 per lead. Main photo (terrace) rejected; flood-view photos used.",
+  "name": "Cité de la mode et du design",
+  "by": "Dominique Jakob, Brendan Macfarlane",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 2010,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Water",
+   "Public space"
+  ],
+  "features": "Jakob and MacFarlane's bold fashion and design centre, built on the site of old general storehouses beside the Seine.",
+  "commons_category": "Category:Cité de la mode et du design",
+  "coords": [
+   48.84111,
+   2.36972
+  ],
+  "photos": [
+   {
+    "file": "File:Crue2018 - Quai d'Austerlitz (69) - pht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Crue2018 - Quai d'Austerlitz (60) - pht.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "550-south-tryon",
+  "qid": "Q3041087",
+  "status": "photo",
+  "why": "Lead gives a first (tallest building to use precast double tees). Office tower kept for that reason.",
+  "name": "550 South Tryon",
+  "by": "Tvsdesign",
+  "city": "Charlotte",
+  "cc": "US",
+  "year": 2010,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Prefabrication",
+   "Monumentality",
+   "Modular"
+  ],
+  "features": "The tallest building in the world to use precast double tees, completed in 2010 in Charlotte.",
+  "commons_category": "Category:550 South Tryon",
+  "coords": [
+   35.224,
+   -80.8481
+  ],
+  "photos": [
+   {
+    "file": "File:Duke Energy Center Charlotte.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Charlotte, North Carolina.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Duke Energy Center and The Westin Charlotte, 2010.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "new-synagogue-mainz",
+  "qid": "Q870253",
+  "status": "photo",
+  "why": "Lead gives design and site (rebuilt on the 1938 synagogue site); Manuel Herz has a building on the wall. Night photo excluded.",
+  "name": "New Synagogue (Mainz)",
+  "by": "Manuel Herz",
+  "city": "Mainz",
+  "cc": "DE",
+  "year": 2010,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Sculptural form",
+   "Community",
+   "Facade as skin"
+  ],
+  "features": "A Modernist-styled synagogue and community centre on the site of Mainz's synagogue destroyed in 1938.",
+  "commons_category": "Category:New Synagogue in Mainz",
+  "coords": [
+   50.0087,
+   8.25931
+  ],
+  "photos": [
+   {
+    "file": "File:New Synagogue Mainz exterior.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Synagoge Mainz.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:New Synagogue, Mainz, front.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "railway-museum-saitama",
+  "qid": "Q846106",
+  "status": "skip",
+  "why": "Railway museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "okuda-genso-sayume-art-museum",
+  "qid": "Q22118199",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "new-luxor-theater",
+  "qid": "Q38238747",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "eilat-sports-center",
+  "qid": "Q15056560",
+  "status": "skip",
+  "why": "Ordinary sports centre; lead gives no design reason."
+ },
+ {
+  "id": "stadshal-ghent",
+  "qid": "Q4359785",
+  "status": "skip",
+  "why": "Already on the wall as Stadshal (Market Hall), Ghent.",
+  "dup_flag": "near=(0, 'stadshal-ghent', 'Stadshal (Market Hall), Ghent')"
+ },
+ {
+  "id": "st-ursula-s-church-kouvola",
+  "qid": "Q14947515",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "saint-john-the-baptist-church-abovyan",
+  "qid": "Q16399820",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "caleido",
+  "qid": "Q22970105",
+  "status": "skip",
+  "why": "Ordinary office tower; lead gives only facts."
+ },
+ {
+  "id": "diehtosiida",
+  "qid": "Q3223562",
+  "status": "skip",
+  "why": "Lead says what it houses, not how it is designed; architect not on the wall."
+ },
+ {
+  "id": "world-s-tallest-thermometer",
+  "qid": "Q4901687",
+  "status": "skip",
+  "why": "Sign and structure, not a building."
+ },
+ {
+  "id": "st-michael-s-cathedral-cherkasy",
+  "qid": "Q7590647",
+  "status": "skip",
+  "why": "Church; lead gives no design reason."
+ },
+ {
+  "id": "gothenburg-mosque",
+  "qid": "Q7737392",
+  "status": "skip",
+  "why": "Mosque; lead gives funding and protests, no design reason."
+ },
+ {
+  "id": "new-theatre-plzen",
+  "qid": "Q18042399",
+  "status": "skip",
+  "why": "Theatre; lead gives cost and opening play only; architect not on the wall."
+ },
+ {
+  "id": "dutch-national-holocaust-museum",
+  "qid": "Q26822174",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall.",
+  "dup_flag": "near=(15, 'hubertus-house', 'Hubertus House')"
+ },
+ {
+  "id": "holmenkollen-chapel",
+  "qid": "Q5883474",
+  "status": "skip",
+  "why": "Chapel rebuilt after arson; lead gives no design reason."
+ },
+ {
+  "id": "chabot-museum",
+  "qid": "Q62088324",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason. Year 1993 is the museum, not the villa.",
+  "dup_flag": "near=(80, 'het-nieuwe-instituut-rotterdam', 'Het Nieuwe Instituut')"
+ },
+ {
+  "id": "kirishima-open-air-museum",
+  "qid": "Q10855706",
+  "status": "skip",
+  "why": "Open-air museum; lead gives no design reason."
+ },
+ {
+  "id": "nagano-prefectural-art-museum",
+  "qid": "Q110245475",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "expo-2000-roof",
+  "qid": "Q111716253",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "messehalle-26",
+  "qid": "Q118289743",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "hannover-messe-hall-13",
+  "qid": "Q57979147",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "nouveau-palais-de-justice-de-lyon",
+  "qid": "Q62247380",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "ardmore-residence",
+  "qid": "Q20311743",
+  "status": "photo",
+  "why": "Lead gives design and an Emporis award; van Berkel has buildings on the wall. Newton is a district, so city is Singapore.",
+  "name": "Ardmore Residence",
+  "by": "Ben van Berkel",
+  "city": "Singapore",
+  "cc": "SG",
+  "year": 2013,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Sculptural form"
+  ],
+  "features": "A Singapore tower whose skin of four-storey sections has carved openings and balconies, by Ben van Berkel.",
+  "commons_category": null,
+  "coords": [
+   1.30997,
+   103.82889
+  ],
+  "photos": [
+   {
+    "file": "File:Ardmore Residence.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mimar-sinan-mosque",
+  "qid": "Q108000657",
+  "status": "skip",
+  "why": "Mosque; lead gives political context, no design reason."
+ },
+ {
+  "id": "pontevedra-exhibition-centre",
+  "qid": "Q12398772",
+  "status": "skip",
+  "why": "Exhibition centre; lead gives no design reason."
+ },
+ {
+  "id": "miroir-d-eau",
+  "qid": "Q16664710",
+  "status": "skip",
+  "why": "Public pool; lead gives size and place only; architect not on the wall."
+ },
+ {
+  "id": "paulinum-university-of-leipzig",
+  "qid": "Q2063901",
+  "status": "photo",
+  "why": "Lead names the award-winning architect and the rebuilt-on-site story. Year 2017 from prep.json (lead gives no completion year).",
+  "name": "Paulinum (University of Leipzig)",
+  "by": "Erick van Egeraat",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": 2017,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Monumentality",
+   "Community",
+   "Light & shadow"
+  ],
+  "features": "Erick van Egeraat's university hall on the old Paulinerkirche site; the church was destroyed in 1968.",
+  "commons_category": "Category:Paulinum",
+  "coords": [
+   51.33903,
+   12.37931
+  ],
+  "photos": [
+   {
+    "file": "File:Paulinum72012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Neues Augusteum & Paulinum.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Leipzig - Augusteum & Paulinum.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(164, 'gewandhaus', 'Gewandhaus')"
+ },
+ {
+  "id": "nye-jordal-amfi",
+  "qid": "Q28128237",
+  "status": "skip",
+  "why": "Ordinary ice-hockey arena."
+ },
+ {
+  "id": "grandstand-us-open",
+  "qid": "Q28451256",
+  "status": "photo",
+  "why": "Lead gives a first (first LEED tennis stadium). Main photo is at night, so daylight photos used.",
+  "name": "Grandstand (US Open)",
+  "by": "Rossetti Architects",
+  "city": "New York",
+  "cc": "US",
+  "year": 2016,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Climate response",
+   "Monumentality",
+   "Landscape"
+  ],
+  "features": "Rossetti Architects' stadium at the US Open, the world's first Leadership in Energy and Environmental Design (LEED) tennis stadium.",
+  "commons_category": "Category:Grandstand (US Open)",
+  "coords": [
+   40.74788,
+   -73.8476
+  ],
+  "photos": [
+   {
+    "file": "File:Flushing Meadows Fair Grounds td (2018-05-26) 003 - USTA Grandstand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Grand Central Pkwy td (2022-01-14) 018 - USTA Grandstand.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nordstrand-church",
+  "qid": "Q10359282",
+  "status": "skip",
+  "why": "Church; lead gives no design reason, and 2015 is not the church year (built 1866)."
+ },
+ {
+  "id": "aksdal-church",
+  "qid": "Q11957151",
+  "status": "skip",
+  "why": "Parish church; lead gives no design reason; architect not on the wall."
+ },
+ {
+  "id": "museum-for-architectural-drawing",
+  "qid": "Q17353861",
+  "status": "skip",
+  "why": "Lead says what the museum shows, not how the building is designed; architects not on the wall."
+ },
+ {
+  "id": "disney-s-yacht-club-resort",
+  "qid": "Q3030352",
+  "status": "unsure",
+  "why": "Hotel. Lead names Robert A.M. Stern Architects but gives only the nautical theme, not why it is a key work. Decide whether it is a key work.",
+  "note": "judgement",
+  "name": "Disney's Yacht Club Resort"
+ },
+ {
+  "id": "museum-of-contemporary-art-jacksonville",
+  "qid": "Q3329582",
+  "status": "skip",
+  "why": "Museum; lead gives no design reason."
+ },
+ {
+  "id": "koln-hauptbahnhof-roof",
+  "qid": "Q105714598",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "lise-meitner-house",
+  "qid": "Q119397183",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "hydrapier",
+  "qid": "Q12773511",
+  "status": "unsure",
+  "why": "Lead gives Asymptote's competition-winning pavilion (2002), but prep has no photos.",
+  "note": "no main photo"
+ },
+ {
+  "id": "american-folk-art-museum-midtown-building",
+  "qid": "Q63869721",
+  "status": "skip",
+  "why": "empty lead",
+  "dup_flag": "near=(21, '53w53', '53W53')"
+ },
+ {
+  "id": "kunstmuseum-basel-neubau",
+  "qid": "Q69545079",
+  "status": "skip",
+  "why": "empty lead; Kunstmuseum Basel, New Building is already on the wall",
+  "dup_flag": "near=(0, 'kunstmuseum-basel-new-building', 'Kunstmuseum Basel, New Building')"
+ },
+ {
+  "id": "spencer-theater-for-the-performing-arts",
+  "qid": "Q93964790",
+  "status": "skip",
+  "why": "empty lead; Predock is on the wall, flagged for the owner"
+ },
+ {
+  "id": "early-learning-centre-university-of-toronto",
+  "qid": "Q111512588",
+  "status": "skip",
+  "why": "empty lead",
+  "dup_flag": "near=(69, 'graduate-house-university-of-toronto', 'Graduate House, University of Toronto')"
+ },
+ {
+  "id": "mpreis-reutte",
+  "qid": "Q121133302",
+  "status": "skip",
+  "why": "empty lead; supermarket"
+ },
+ {
+  "id": "parasite-lp2",
+  "qid": "Q123117993",
+  "status": "skip",
+  "why": "empty lead; instance says destroyed building",
+  "dup_flag": "near=(81, 'new-orleans-tower', 'New Orleans Tower')"
+ },
+ {
+  "id": "van-schijndel-house",
+  "qid": "Q55065653",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "atchugarry-museum-of-contemporary-art",
+  "qid": "Q110486593",
+  "status": "photo",
+  "why": "Lead gives a first (Uruguay's first permanent contemporary art museum) and names the design architect; main photo shows the whole building.",
+  "name": "Atchugarry Museum of Contemporary Art",
+  "by": "Carlos Ott",
+  "city": "San Carlos",
+  "cc": "UY",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Sculptural form"
+  ],
+  "features": "A museum on a 90-acre landscape that commentators call Uruguay's first permanent contemporary art museum.",
+  "commons_category": null,
+  "coords": [
+   -34.86604,
+   -54.82065
+  ],
+  "photos": [
+   {
+    "file": "File:Museo de Arte Contemporáneo Atchugarry 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "spiral-house",
+  "qid": "Q19471959",
+  "status": "photo",
+  "why": "Lead gives a named design idea (terracing from Arab villages) and the architect; main photo shows the whole building.",
+  "name": "Spiral House",
+  "by": "Zvi Hecker",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": 1990,
+  "type": "Housing",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Facade as skin"
+  ],
+  "features": "An apartment complex spiralling upward, its terraced roofs used as living space, as in Arab villages.",
+  "commons_category": "Category:Spiral House",
+  "coords": [
+   32.0782,
+   34.82123
+  ],
+  "photos": [
+   {
+    "file": "File:SpiralHouseRG1.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Spiral House-Ramat Gan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:PikiWiki Israel 60671 spiral house ramat gan.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "disney-sequoia-lodge",
+  "qid": "Q1888041",
+  "status": "skip",
+  "why": "themed hotel; main photo is a beaver dam, not the building"
+ },
+ {
+  "id": "faculty-of-fine-arts-of-pontevedra",
+  "qid": "Q20543637",
+  "status": "skip",
+  "why": "lead describes a faculty in old barracks, not the building's design"
+ },
+ {
+  "id": "the-queen-sonja-art-stable",
+  "qid": "Q42023914",
+  "status": "skip",
+  "why": "lead gives no reason it matters"
+ },
+ {
+  "id": "torres-de-hercules",
+  "qid": "Q7827071",
+  "status": "skip",
+  "why": "office towers; lead gives no design reason"
+ },
+ {
+  "id": "toyota-sports-performance-center",
+  "qid": "Q7830871",
+  "status": "skip",
+  "why": "training facility; lead gives no design reason"
+ },
+ {
+  "id": "twin-towers-ramat-gan",
+  "qid": "Q7858314",
+  "status": "photo",
+  "why": "Lead names the postmodern style. City is Ramat Gan from the lead, not the first Wikidata value (Tel Aviv).",
+  "name": "Twin Towers (Ramat Gan)",
+  "by": "Moore Yaski Sivan Architects",
+  "city": "Ramat Gan",
+  "cc": "IL",
+  "year": 1994,
+  "type": "Office & tower",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Monumentality"
+  ],
+  "features": "Two identical 14-storey office towers in a postmodern glass style, built on a former candy factory site.",
+  "commons_category": "Category:Twin Towers (Ramat Gan)",
+  "coords": [
+   32.0836,
+   34.8061
+  ],
+  "photos": [
+   {
+    "file": "File:PikiWiki Israel 14200 Twin Towers in Ramat Gan.JPG",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Ramat Gan Twins.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Twin-towers-ramatgan-3.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "museu-de-arte-do-rio",
+  "qid": "Q10333798",
+  "status": "unsure",
+  "why": "Lead names Jacobsen Arquitetura and the 2013 museum, but no photo shows the whole building as the subject (the main is the square).",
+  "note": "no main photo"
+ },
+ {
+  "id": "salvadoran-museum-of-art",
+  "qid": "Q6033911",
+  "status": "skip",
+  "why": "lead gives no design reason; main photo is a monument"
+ },
+ {
+  "id": "centara-grand-and-bangkok-convention-centre",
+  "qid": "Q5058999",
+  "status": "skip",
+  "why": "hotel; lead gives no design reason; no photos"
+ },
+ {
+  "id": "isbank-museum-ankara",
+  "qid": "Q63485357",
+  "status": "skip",
+  "why": "lead gives no design reason and no building date"
+ },
+ {
+  "id": "cultural-center-of-spain-in-el-salvador",
+  "qid": "Q61931385",
+  "status": "skip",
+  "why": "lead describes the cultural organisation, not the building"
+ },
+ {
+  "id": "beit-avi-chai",
+  "qid": "Q6953970",
+  "status": "photo",
+  "why": "Architect is on the wall (Supreme Court of Israel), and this is her built cultural centre. Lead is about activities, so the feature is thin. Year 2007 from prep (lead gives none).",
+  "name": "Beit Avi Chai",
+  "by": "Ada Karmi-Melamede",
+  "city": "Jerusalem",
+  "cc": "IL",
+  "year": 2007,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Monumentality"
+  ],
+  "features": "A Jerusalem cultural centre and art gallery, founded by the Avi Chai Foundation to promote Jewish-Israeli culture.",
+  "commons_category": "Category:Beit Avichai",
+  "coords": [
+   31.77778,
+   35.21611
+  ],
+  "photos": [
+   {
+    "file": "File:BeitAviChaiMay062023.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ],
+  "dup_flag": "near=(115, 'national-institutions-house-jerusalem', 'Jewish National Institutions House')"
+ },
+ {
+  "id": "pearl-dawn",
+  "qid": "Q20981854",
+  "status": "skip",
+  "why": "skyscraper; lead gives no design reason; main photo is a beach view"
+ },
+ {
+  "id": "museum-of-contemporary-art-aguascalientes",
+  "qid": "Q24498896",
+  "status": "skip",
+  "why": "lead describes galleries, not the building's design"
+ },
+ {
+  "id": "book-and-documentary-heritage-museum-of-iran",
+  "qid": "Q61064135",
+  "status": "skip",
+  "why": "lead describes the collection; main photo is a manuscript"
+ },
+ {
+  "id": "multi-purpose-tower",
+  "qid": "Q970936",
+  "status": "skip",
+  "why": "office tower; lead gives no design reason (Portman is on the wall; borderline)"
+ },
+ {
+  "id": "cinemateca-capitolio",
+  "qid": "Q18466770",
+  "status": "skip",
+  "why": "1928 eclectic cinema reused in 2015; lead gives style but no design argument (borderline)"
+ },
+ {
+  "id": "dragao-do-mar-center-of-art-and-culture",
+  "qid": "Q5305525",
+  "status": "skip",
+  "why": "lead describes a cultural complex, not its design; main photo is an aerial"
+ },
+ {
+  "id": "herzlilinblum-museum",
+  "qid": "Q7037613",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "moshe-castel-museum-of-art",
+  "qid": "Q16130515",
+  "status": "skip",
+  "why": "empty lead (David Resnick is on the wall)"
+ },
+ {
+  "id": "museo-de-esculturas-luis-perlotti",
+  "qid": "Q21573457",
+  "status": "skip",
+  "why": "lead describes the collection; photos are sculptures and interiors"
+ },
+ {
+  "id": "kurimanzutto",
+  "qid": "Q27894560",
+  "status": "skip",
+  "why": "lead describes a gallery, not a building; main photo is a crowd"
+ },
+ {
+  "id": "palmah-hativat-harel",
+  "qid": "Q6705958",
+  "status": "skip",
+  "why": "memorial",
+  "dup_flag": "near=(157, 'supreme-court-of-israel', 'Supreme Court of Israel')"
+ },
+ {
+  "id": "praca-das-esculturas",
+  "qid": "Q10353447",
+  "status": "skip",
+  "why": "sculpture park; statues are the subject"
+ },
+ {
+  "id": "surp-hovhannes-church-of-artashat",
+  "qid": "Q20508362",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "church-of-the-holy-mother-of-god-nor-nork",
+  "qid": "Q20515621",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "ub-city",
+  "qid": "Q3595524",
+  "status": "skip",
+  "why": "high-rise complex; lead gives no design reason; architect is a company"
+ },
+ {
+  "id": "chennai-trade-centre",
+  "qid": "Q5091469",
+  "status": "skip",
+  "why": "exhibition centre; lead gives no design reason"
+ },
+ {
+  "id": "congress-hall-paramaribo",
+  "qid": "Q56479341",
+  "status": "skip",
+  "why": "convention centre; lead gives no design reason"
+ },
+ {
+  "id": "pantanal-aquarium",
+  "qid": "Q111905375",
+  "status": "photo",
+  "why": "Architect is on the wall (Hotel Unique), and the lead gives the aquarium's scale. Main Wikidata photo (white form on sand) is unclear, so photo 02 leads.",
+  "name": "Pantanal Aquarium",
+  "by": "Ruy Ohtake",
+  "city": "Campo Grande",
+  "cc": "BR",
+  "year": 2022,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Colour",
+   "Public space"
+  ],
+  "features": "Ruy Ohtake's building for the largest freshwater aquarium in the world, finished nearly eleven years late.",
+  "commons_category": "Category:Bioparque Pantanal",
+  "coords": [
+   -20.45568,
+   -54.57605
+  ],
+  "photos": [
+   {
+    "file": "File:Bioparque Pantanal 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bioparque Pantanal 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dlf-cybercity-chennai",
+  "qid": "Q17007967",
+  "status": "skip",
+  "why": "IT park; lead gives no design reason"
+ },
+ {
+  "id": "ciudad-cayala",
+  "qid": "Q96103622",
+  "status": "skip",
+  "why": "planned district, not a building"
+ },
+ {
+  "id": "guyim-vault-house",
+  "qid": "Q111947628",
+  "status": "skip",
+  "why": "concept home; not built; no photos"
+ },
+ {
+  "id": "san-martin-344-building",
+  "qid": "Q6119330",
+  "status": "skip",
+  "why": "office tower; lead gives construction history, no design reason"
+ },
+ {
+  "id": "al-husayn-mosque-canopies",
+  "qid": "Q130307907",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "arie-klang-house",
+  "qid": "Q124858139",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "hermann-struck-house",
+  "qid": "Q16130018",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "bat-yam-museum-of-art",
+  "qid": "Q6575765",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "bet-gabriel-on-the-kinneret",
+  "qid": "Q6609001",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "ashdod-museum-of-art",
+  "qid": "Q6673490",
+  "status": "skip",
+  "why": "lead gives galleries and a vault, no design reason"
+ },
+ {
+  "id": "saint-martyrs-church",
+  "qid": "Q112859186",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "water-museum",
+  "qid": "Q113840113",
+  "status": "skip",
+  "why": "lead describes collections; main photo is a painting"
+ },
+ {
+  "id": "hanevi-im-pedestrian-ashdod",
+  "qid": "Q124339627",
+  "status": "skip",
+  "why": "empty lead; a street, not a building"
+ },
+ {
+  "id": "jerusalem-art-campus",
+  "qid": "Q126278120",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "holy-mother-of-god-church",
+  "qid": "Q13054820",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "broshim-school",
+  "qid": "Q136203782",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "cloud-11",
+  "qid": "Q140626499",
+  "status": "skip",
+  "why": "mixed-use development; lead gives no design reason; lead says opened 2025"
+ },
+ {
+  "id": "idf-184th-tank-battalion-memorial",
+  "qid": "Q16338525",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "santiago-del-estero-forum",
+  "qid": "Q16570318",
+  "status": "photo",
+  "why": "Lead gives an architectural reason (historic station combined with modern use). Year null: the lead gives none, and prep's 2012 likely dates the reuse, not the station.",
+  "name": "Santiago del Estero Forum",
+  "by": "B4FS Studio",
+  "city": "Santiago del Estero",
+  "cc": "AR",
+  "year": null,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A convention centre in a former railway station, where historic and modern architecture are combined.",
+  "commons_category": "Category:Forum Santiago del Estero",
+  "coords": [
+   -27.78028,
+   -64.2625
+  ],
+  "photos": [
+   {
+    "file": "File:Forum Santiago del Estero.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "alexandroni-brigade-memorial-in-netanya",
+  "qid": "Q18191360",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "kvutzat-kinneret-museum",
+  "qid": "Q18191936",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "saint-gevorg-church",
+  "qid": "Q20508247",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "holy-cross-church-nerkin-charbakh",
+  "qid": "Q20515679",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "sherover-cultural-center",
+  "qid": "Q25490016",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "latrun-detension-camp-memorial",
+  "qid": "Q27668742",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "alexandroni-brigade-memorial-in-latrun",
+  "qid": "Q27685167",
+  "status": "skip",
+  "why": "memorial"
+ },
+ {
+  "id": "kamar-business-center",
+  "qid": "Q55380168",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "k-towers",
+  "qid": "Q55649830",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "islamic-consultative-assembly-building",
+  "qid": "Q56357070",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "mellat-cineplex",
+  "qid": "Q5864014",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "mahmoud-darwish-museum",
+  "qid": "Q61434689",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "centro-de-justicia-de-santiago",
+  "qid": "Q6408875",
+  "status": "skip",
+  "why": "court complex; lead gives no design reason"
+ },
+ {
+  "id": "smolarz-auditorium",
+  "qid": "Q6606413",
+  "status": "skip",
+  "why": "empty lead"
+ },
+ {
+  "id": "the-first-aliyah-museum",
+  "qid": "Q6758922",
+  "status": "skip",
+  "why": "empty lead"
+ }
+]

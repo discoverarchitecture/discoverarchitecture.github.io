@@ -190,11 +190,28 @@ def about(b, url, title):
     return (bool(by & text) or (d <= text and bool(city & text))) and slug_names_building(b, url)
 
 
+def exact(b, url, title, domain):
+    """WikiArquitectura titles its pages with the building's name alone ("Allianz Arena"), so about() can't
+    find the architect or city there. Its page counts when the title is exactly the building's full name, the
+    name is distinctive (not "City Hall"), and the address names it too."""
+    if domain != 'wikiarquitectura.com' or not title or (b['name'], url) in BLOCKED:
+        return False
+    name = tokens(b['name']) - STOP
+    path = tokens(urllib.parse.unquote(urllib.parse.urlparse(url).path).replace('-', ' ').replace('_', ' '))
+    return tokens(title) - STOP == name and bool(name - COMMON - GENERIC - ROLE) and name <= path
+
+
+COMMON = set('''city town hall national state public central new old modern art arts museum gallery library tower towers
+church cathedral chapel mosque temple station house home center centre building theatre theater palace opera concert
+stadium arena park bridge airport terminal memorial school university college institute hospital hotel market square
+plaza court office headquarters pavilion villa'''.split())
+
+
 def pick(b, hits, domain):
     for hit_url, title in hits:
         host = urllib.parse.urlparse(hit_url).netloc.lower()
         path = urllib.parse.urlparse(hit_url).path.strip('/')
-        if domain in host and path and not SKIP_PATH.search(hit_url) and about(b, hit_url, title):
+        if domain in host and path and not SKIP_PATH.search(hit_url) and (about(b, hit_url, title) or exact(b, hit_url, title, domain)):
             return hit_url
     return None
 

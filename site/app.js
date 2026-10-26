@@ -1,10 +1,10 @@
-/* Discover Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
-   Plain JavaScript, no build step. Data comes from data/buildings.js (window.BUILDINGS). */
+/* Find Great Architecture: the wall (equal-width columns, scrolling down), photo galleries, the opened building, search, filters and Surprise me.
+   Plain JavaScript, no build step. Data comes from data/wall.js (window.BUILDINGS: one line per building, first photo only); a building's
+   full photo list and links load from data/detail/<id>.json when it is opened. Both are made by tools/build_pages.py. */
 (() => {
   'use strict';
 
-  const LINKS = window.LINKS || {};
-  const ALL = (window.BUILDINGS || []).map(b => ({ ...b, ...(LINKS[b.id] || {}) }));
+  const ALL = window.BUILDINGS || [];
   const TOTAL = ALL.length;
   // Books (data/books.js): each knows its shelf, its tags, the architects it is about and the buildings on the wall it goes with.
   // The books file is large, so it loads only when someone first opens Books or a book link; the buildings wall never waits for it.
@@ -30,25 +30,50 @@
   // Shop links. Put an Amazon Associates tag here once the account is live; the disclosure line then shows itself.
   const SHOP = { amazon: 'amazon.in', tag: '' };
   // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
+  const NAMES = window.NAMES || { list: by => by.split(',').map(s => s.trim()), canon: s => s };
   const GROUPS = [{ key: 'concepts', all: true }, { key: 'type' }, { key: 'movement' }, { key: 'region' }, { key: 'country' }, { key: 'arch' }];
-  // Fields the filter panel uses: country code, first credited architect, and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
+  // Fields the filter panel uses: country code, every credited architect (one name each, from data/names.js), and decade (0 = before 1880, 1 = 1880s … 15 = 2020s).
   const CODE_FIX = { UK: 'GB', 'Hong Kong': 'HK' };
   ALL.forEach(b => {
     const c = b.place.split(', ').pop();
     b.country = CODE_FIX[c] || c;
-    b.arch = b.by.split(',')[0].trim();
-    b.decade = b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1);
+    b.arch = NAMES.list(b.by);
+    b.decade = !b.y ? -1 : b.y < 1880 ? 0 : Math.min(15, Math.floor((b.y - 1880) / 10) + 1); // -1: year unavailable, in no decade
   });
 
   const $ = id => document.getElementById(id);
+  // The wall holds only each building's first photo. The rest (every photo, the links, the Commons category) is one
+  // small file per building, fetched the first time it is needed and merged into the building.
+  const detailReq = new Map();
+  function loadDetail(b) {
+    if (b.kind === 'book' || b.full) return Promise.resolve(b);
+    let p = detailReq.get(b.id);
+    if (!p) {
+      p = fetch(`data/detail/${b.id}.json?v=${window.WALL_V || ''}`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(d => { Object.assign(b, d); b.full = true; return b; })
+        .catch(e => { detailReq.delete(b.id); throw e; });
+      detailReq.set(b.id, p);
+    }
+    return p;
+  }
+  const photoCount = b => b.ni != null ? b.ni : (b.images || []).length;
   const cols = $('cols'), sheet = $('sheet'), card = $('card');
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fold = s => String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
 
+  /* Inside another page: an architect's page or a topic page opens its buildings in this popup, the wall itself in a
+     see-through frame (/?embed, made by popup.js), so only the opened building shows, over that page. Previous and
+     next follow that page's list; links lead the whole window on, and the wall's own state is left alone. */
+  const HOST = (() => { try { return window.parent !== window && /[?&]embed\b/.test(location.search) ? window.parent.fgaPopup || null : null; } catch (e) { return null; } })();
+  if (HOST) {
+    document.documentElement.classList.add('embed');
+    const base = document.createElement('base'); base.target = '_top'; document.head.appendChild(base);
+  }
+
   const state = {
     q: '', seed: 11, ncols: 0, mode: 'buildings', shelf: null,
     filters: Object.fromEntries(GROUPS.map(g => [g.key, new Set()])), decades: null,
-    open: null, shot: 0, seen: new Set(), lastTile: null,
+    open: null, shot: 0, kind: 'All', seen: new Set(), lastTile: null, where: null, // where: a hub's cities, set by "On the globe" (mapHub)
     booting: true, unwinding: false
   };
   const tileShot = new Map(); // which photo each tile is showing
@@ -60,7 +85,7 @@
   const NAV = ((performance.getEntriesByType && performance.getEntriesByType('navigation')[0]) || {}).type;
   const RETURNING = NAV === 'back_forward';
   const kept = (where, key) => { try { return window[where].getItem(key); } catch (e) { return null; } };
-  const keep = (where, key, v) => { try { window[where].setItem(key, v); } catch (e) { /* ignore */ } };
+  const keep = (where, key, v) => { if (HOST) return; try { window[where].setItem(key, v); } catch (e) { /* ignore */ } };
   const newSeed = () => { state.seed = Math.floor(Math.random() * 1e6) + 1; keep('sessionStorage', 'da-seed', state.seed); };
   if (RETURNING && +kept('sessionStorage', 'da-seed')) state.seed = +kept('sessionStorage', 'da-seed'); else newSeed();
   let lastTop = new Set();
@@ -82,7 +107,8 @@
     return im && im.w ? Math.max(2 / 3, Math.min(1.5, im.h / im.w)) : 0.75;
   }
   // Space a tile takes in its column, per unit of width: the photo or cover, plus a book's caption underneath.
-  const heightOf = b => ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06);
+  const SWIPE = new Set(window.SWIPE || []); // tiles that get photo dots, see dotsHtml
+  const heightOf = b => ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06) + (SWIPE.has(b.id) ? 0.08 : 0);
   const keyOf = x => x.kind === 'book' ? 'book:' + x.id : x.id;
   const thumbOf = x => x.kind === 'book' ? (x.cover ? x.cover.thumb : '') : (x.images && x.images[0] ? x.images[0].thumb : '');
   const nameOf = x => x.kind === 'book' ? x.title : x.name;
@@ -104,6 +130,7 @@
     }
     const d = state.decades;
     if (skip !== 'decades' && d && (b.decade < d[0] || b.decade > d[1])) return false;
+    if (state.where && !state.where(b)) return false;
     if (!state.q) return true;
     const hay = fold([b.name, b.by, b.place, b.year, b.type, b.movement, b.region, b.study, (b.concepts || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
@@ -138,17 +165,18 @@
     el.style.setProperty('--ar', ratioOf(b));
     el.innerHTML = `<button type="button" class="open" aria-label="${esc(b.title)}, ${esc(b.by)}, ${esc(b.year)}"><span class="cv">${coverHtml(b)}</span>` +
       `<span class="bcap"><b>${esc(b.title)}</b><span class="by">${esc(b.by)}</span><span class="r2">${esc(b.year)} · ${esc(b.shelf)}</span></span></button>`;
-    el.querySelector('.open').addEventListener('click', () => openBook(b.id, false, el));
+    el.querySelector('.open').addEventListener('click', () => openBook(b.id, false, el, false, null));
     return el;
   }
   function tileEl(b) {
     let el = tiles.get(keyOf(b));
     if (el) return el;
     if (b.kind === 'book') { el = bookTileEl(b); tiles.set(keyOf(b), el); return el; }
-    const n = (b.images || []).length;
+    const n = photoCount(b);
     const city = b.place.split(',')[0]; // the tile names the first credited architect; the full credit is in the opened view
+    const swipe = n > 1 && SWIPE.has(b.id); // only these get photo dots
     el = document.createElement('div');
-    el.className = 't' + (n ? '' : ' empty-tile');
+    el.className = 't' + (n ? '' : ' empty-tile') + (swipe ? ' sw' : '') + (n > 1 ? ' sx' : '');
     el.dataset.id = b.id;
     el.style.aspectRatio = `1 / ${ratioOf(b)}`;
     el.innerHTML =
@@ -156,23 +184,94 @@
       (n ? '' : `<span class="slot"><span class="k">No free photos yet</span></span>`) + `</button>` +
       (n > 1 ? `<button type="button" class="flip prev" aria-label="Previous photo of ${esc(b.name)}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>` +
                `<button type="button" class="flip next" aria-label="Next photo of ${esc(b.name)}"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>` +
-               `<span class="dots">${Array.from({ length: n }, (_, k) => `<i class="${k ? '' : 'on'}"></i>`).join('')}</span>` : '') +
+               (swipe ? dotsHtml(n, 0) : '') : '') +
       `<span class="cap" aria-hidden="true"><span class="r1"><b>${esc(b.name)}</b><span class="by">${esc(b.by.split(',')[0])}</span></span>` +
       `<span class="r2">${esc(b.year)} · ${esc(city)}</span></span>`;
-    el.querySelector('.open').addEventListener('click', () => openBuilding(b.id, false, el));
+    el.querySelector('.open').addEventListener('click', () => { if (!swiped) openBuilding(b.id, false, el); swiped = false; });
+    el.addEventListener('pointerenter', () => { loadDetail(b).catch(() => {}); }, { once: true }); // a finger or pointer arriving is a good sign it will open
+    if (n > 1) { // on every tile with more than one photo the photo follows a sideways drag, then slides on to the next one;
+      // a short drag springs back, up and down still scroll, and a tap still opens the building
+      let x0 = null, y0 = 0, t0 = 0, dx = 0, sideways = false;
+      const photo = () => el.querySelector('.open img:not(.peek)');
+      const settle = () => {
+        const i = photo(), p = el.querySelector('.open img.peek'), w = el.clientWidth;
+        if (i) { i.style.transition = 'transform .2s ease-out'; i.style.transform = ''; }
+        if (p) { p.style.transition = 'transform .2s ease-out'; p.style.transform = `translateX(${+p.dataset.dir * w}px)`; setTimeout(() => p.remove(), 220); }
+      };
+      el.addEventListener('pointerdown', e => { x0 = e.clientX; y0 = e.clientY; t0 = performance.now(); dx = 0; sideways = false; });
+      el.addEventListener('pointermove', e => {
+        if (x0 == null) return;
+        dx = e.clientX - x0;
+        if (!sideways && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(e.clientY - y0)) sideways = true;
+        const i = photo();
+        if (!sideways || !i) return;
+        i.style.transition = 'none'; i.style.transform = `translateX(${dx}px)`;
+        if (b.full) { // the neighbouring photo comes in with the finger, so there is never a gap
+          const dir = dx < 0 ? 1 : -1, p = peekOf(b, el, dir);
+          p.style.transition = 'none'; p.style.transform = `translateX(${dir * el.clientWidth + dx}px)`;
+        }
+      });
+      el.addEventListener('pointerup', () => {
+        if (x0 == null) return;
+        x0 = null;
+        if (!sideways) return;
+        swiped = true; setTimeout(() => { swiped = false; }, 400);
+        const flick = Math.abs(dx) > 25 && performance.now() - t0 < 250;
+        if (flick || Math.abs(dx) > Math.min(70, el.clientWidth * .3)) slideTile(b, el, dx < 0 ? 1 : -1); else settle();
+      });
+      el.addEventListener('pointercancel', () => { x0 = null; settle(); });
+    }
     el.querySelectorAll('.flip').forEach(btn => btn.addEventListener('click', e => {
       e.stopPropagation();
-      flipTile(b, el, btn.classList.contains('next') ? 1 : -1);
+      slideTile(b, el, btn.classList.contains('next') ? 1 : -1);
     }));
     tiles.set(b.id, el);
     return el;
   }
-  function flipTile(b, el, dir) {
-    const n = b.images.length;
-    const k = ((tileShot.get(b.id) || 0) + dir + n) % n;
+  // Photo dots under the tile, only for buildings worth swiping through (data/swipe.js): sunset red for the photo
+  // showing, light red for the rest. Past six photos the last dot shrinks, to say "and more".
+  const MAXD = 6;
+  let swiped = false;
+  function dotsHtml(n, k) {
+    const shown = Math.min(n, MAXD), at = Math.min(k, shown - 1);
+    return `<span class="dots" aria-hidden="true">${Array.from({ length: shown }, (_, j) =>
+      `<i class="${j === at ? 'on' : ''}${n > MAXD && j === shown - 1 && at < shown - 1 ? ' sm' : ''}"></i>`).join('')}</span>`;
+  }
+  // The next photo on a tile: the current one slides out the way it was pushed, the next slides in behind it.
+  const stillMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const shotAfter = (b, dir) => { const n = b.images.length; return ((tileShot.get(b.id) || 0) + dir + n) % n; };
+  function peekOf(b, el, dir) { // the neighbouring photo, waiting just outside the frame on that side
+    const open = el.querySelector('.open'), k = shotAfter(b, dir);
+    let p = open.querySelector('img.peek');
+    if (!p) { p = document.createElement('img'); p.className = 'peek'; p.alt = ''; p.decoding = 'async'; open.appendChild(p); }
+    if (p.dataset.k !== String(k)) { p.src = b.images[k].thumb; p.dataset.k = k; }
+    p.dataset.dir = dir;
+    return p;
+  }
+  function slideTile(b, el, dir) {
+    const img = el.querySelector('.open img:not(.peek)'), w = el.clientWidth;
+    if (!img) return;
+    (b.full ? Promise.resolve() : loadDetail(b)).then(() => {
+      const k = shotAfter(b, dir), p = peekOf(b, el, dir);
+      if (stillMotion.matches) { showTile(b, el, k); p.remove(); return; }
+      const off = parseFloat((img.style.transform.match(/-?[\d.]+/) || [0])[0]) || 0; // where a drag left it
+      p.style.transition = 'none'; p.style.transform = `translateX(${dir * w + off}px)`;
+      p.getBoundingClientRect(); // start from there
+      img.style.transition = p.style.transition = 'transform .25s ease-out';
+      img.style.transform = `translateX(${-dir * w}px)`; p.style.transform = 'translateX(0)';
+      setTimeout(() => {
+        showTile(b, el, k); // the same picture, already loaded, takes the peek's place
+        img.style.transition = 'none'; img.style.transform = '';
+        const done = () => p.remove();
+        if (img.complete) requestAnimationFrame(done); else { img.addEventListener('load', done, { once: true }); setTimeout(done, 800); }
+      }, 260);
+    }, () => { img.style.transition = 'transform .2s ease-out'; img.style.transform = ''; });
+  }
+  function showTile(b, el, k) {
     tileShot.set(b.id, k);
-    el.querySelector('.open img').src = b.images[k].thumb;
-    el.querySelectorAll('.dots i').forEach((d, j) => d.classList.toggle('on', j === k));
+    el.querySelector('.open img:not(.peek)').src = b.images[k].thumb;
+    const dots = el.querySelector('.dots');
+    if (dots) dots.outerHTML = dotsHtml(b.images.length, k);
   }
 
   // Deal tiles into the shortest column, so every column ends at about the same height.
@@ -189,10 +288,27 @@
     }
     $('more').hidden = f.next >= f.list.length;
   }
+  // Owner's rule (23 Oct 2026): on the plain wall, at least 3 to 5 "worth the swipe" tiles in the first screen and at
+  // least 3 in each of the next 10. A screen holds about as many rows as a square tile fits in the window's height;
+  // four per screen leaves room for the columns' uneven heights.
+  function spreadSwipe(list, C, r) {
+    const colW = (window.innerWidth - GAP * (C + 1)) / C;
+    const P = Math.max(C * 2, Math.round(0.85 * C * window.innerHeight / (colW + GAP))), S = [], O = [], out = [];
+    list.forEach(b => (SWIPE.has(b.id) ? S : O).push(b));
+    for (let s = 0; s < 16 && S.length + O.length; s++) {
+      const n = s ? P : Math.max(5, Math.round(0.6 * P)), k = Math.min(4, S.length); // the top panel fills part of the first screen
+      out.push(...shuffled(S.splice(0, k).concat(O.splice(0, n - k)), r));
+    }
+    const used = new Set(out);
+    return out.concat(list.filter(b => !used.has(b)));
+  }
   function render(toTop) {
+    document.dispatchEvent(new CustomEvent('da:render')); // the map (map.js) follows the same search and filters
     let list = shuffled(visible(), rng(state.seed));
     if (lastTop.size) list = list.filter(b => !lastTop.has(keyOf(b))).concat(list.filter(b => lastTop.has(keyOf(b))));
     const C = columnCount();
+    const plainWall = state.mode === 'buildings' && !state.q && !state.shelf && !state.decades && !state.where && GROUPS.every(g => !state.filters[g.key].size);
+    if (plainWall) list = spreadSwipe(list, C, rng(state.seed + 1));
     state.ncols = C;
     feedState.list = list; feedState.next = 0;
     feedState.heights = new Array(C).fill(0);
@@ -200,12 +316,14 @@
     cols.style.setProperty('--n', C);
     cols.replaceChildren(...feedState.colEls);
     addBatch();
+    const atTable = state.mode === 'books' && !state.q && !state.shelf;
+    $('table').hidden = !atTable;
+    if (atTable) drawTable();
     $('empty').hidden = list.length > 0;
     const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
-    $('allLink').dataset.tip = `A collection of ${TOTAL.toLocaleString('en')} buildings`;
     $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
-    $('filterCount').textContent = nf ? '· ' + nf : '';
+    $('filterCount').textContent = nf ? String(nf) : '';
     renderIdeas();
     updateDock();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -228,7 +346,7 @@
 
   /* ---------- opened building ---------- */
   const q = s => encodeURIComponent(s);
-  const byOf = b => b.by.split(',').map(s => s.trim());
+  const byOf = b => b.arch;
   const firstArchitect = b => byOf(b)[0];
   // Same type first by shared ideas, then a stable shuffle so each building gets a different few.
   const mix = (b, x) => ((x.n * 13 + b.n * 7) % 17) / 100;
@@ -251,12 +369,33 @@
     for (const qid of ARCH.buildings[b.id] || []) { const p = ARCH.people[qid]; if (p && p.thumb) return p; }
     return null;
   }
+  // Pritzker Prize winners (data/pritzker.js, from the prize's own jury citations): a small gold medal on the portrait.
+  // keys are the names a winner goes by on the wall (portrait names, by-line names, the firm); the medal follows the
+  // face shown, else the first architect named.
+  const LAUREATE = new Map();
+  (window.PRITZKER || []).forEach(w => (w.keys || []).forEach(k => { LAUREATE.set(fold(k), w); LAUREATE.set(fold(NAMES.canon(k)), w); }));
+  const laureateOf = (p, who) => (p && LAUREATE.get(fold(p.name))) || (who && LAUREATE.get(fold(who))) || null;
+  let medals = 0;
+  const coin = id => `<svg viewBox="0 0 48 48" aria-hidden="true"><defs><radialGradient id="${id}" cx="36%" cy="30%" r="80%"><stop offset="0" stop-color="#FCEBB0"/><stop offset=".5" stop-color="#D9AE45"/><stop offset="1" stop-color="#9A7322"/></radialGradient></defs>` +
+    `<circle cx="24" cy="24" r="23.5" fill="#fff"/><circle cx="24" cy="24" r="21.5" fill="url(#${id})" stroke="#7E5D17"/><circle cx="24" cy="24" r="17" fill="none" stroke="#8A671B" stroke-dasharray="1 1.5"/>` +
+    `<text x="24" y="31.2" text-anchor="middle" font-family="'Big Shoulders Display', Impact, sans-serif" font-weight="900" font-size="20" fill="#5E4410">P</text></svg>`;
+  function medalHtml(w, who, n) {
+    const id = 'medal' + (++medals), title = `Pritzker Prize ${w.year}`;
+    return `<button type="button" class="medal" aria-label="${title}" aria-expanded="false" aria-controls="${id}">${coin(id + 'a')}</button>` +
+      `<div class="medal-card" id="${id}" role="dialog" aria-label="${title}" hidden><b class="mc-title">${coin(id + 'b')}${title}</b>` +
+      (w.line ? `<p>“${esc(w.line)}”</p>` : '') +
+      `<span class="mc-links">${n > 1 ? `<button type="button" data-arch="${esc(who)}">See all ${n} buildings →</button>` : '<span></span>'}` +
+      `${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">Jury citation ↗</a>` : ''}</span></div>`;
+  }
+  // The portrait's credit sits small at the very bottom of the sheet, not under the byline.
+  const portraitCredit = p => p ? `Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}` : '';
   function bylineHtml(b) {
     const who = firstArchitect(b), p = portraitOf(b), n = byArchitect(b).length + 1;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : `<span class="face initials" aria-hidden="true">${esc(initials(who))}</span>`;
-    const text = `<span class="by-text"><i>by</i><b>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
-    const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
-    return (n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`) + credit;
+    const text = `<span class="by-text"><i>by</i><b${b.by.length > 28 || b.by.split(/[\s-]/).some(w => w.length > 10) ? ' class="long"' : ''}>${esc(b.by)}</b>${n > 1 ? `<span class="see">See all ${n} buildings →</span>` : ''}</span>`;
+    const w = laureateOf(p, who);
+    const link = n > 1 ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
+    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>`;
   }
   // Natural Earth projection, the same as tools/make_world.py; coords are [lat, lon].
   function project(lat, lon) {
@@ -288,14 +427,27 @@
       (here ? `<path class="here" d="${here}"/>` : '') +
       (pt && tiny ? `<circle class="ring" ${at} r="${(8 * u).toFixed(1)}"/>` : '') +
       (pt && b.coords ? `<circle class="pin" ${at} r="${(3.5 * u).toFixed(1)}"/>` : '') +
-      `</svg><span class="where-name">${esc(name)}</span>`;
+      `</svg><span class="where-name">${esc(placeName(b))} ↗</span>`;
   }
+  const placeName = b => { const city = b.place.split(',')[0], country = countryName(countryOf(b)); return city === country ? city : city + ', ' + country; };
   function mapUrl(b) {
     if (b.coords) { const [la, lo] = b.coords; return `https://www.openstreetmap.org/?mlat=${la}&mlon=${lo}#map=16/${la}/${lo}`; }
     return 'https://www.openstreetmap.org/search?query=' + q(b.name + ', ' + b.place.split(',')[0] + ', ' + countryName(countryOf(b)));
   }
   const relHtml = list => list.map(x => `<button type="button" data-id="${esc(x.id)}"><span class="ph">${x.images && x.images[0] ? `<img src="${esc(x.images[0].thumb)}" alt="" loading="lazy">` : ''}</span>${esc(x.name)}<small>${esc(x.year)} · ${esc(x.place.split(',')[0])}</small></button>`).join('');
 
+  /* Photo tabs (v25): All · Exterior · Interior · Detail, in glass over the photo, when a building has two or more of
+     those kinds. A tab narrows the arrows, the swipe and the strip to its photos. */
+  const KINDS = ['Exterior', 'Interior', 'Detail'];
+  const inKind = (im, kind) => kind === 'All' || !im || im.kind === kind;
+  function drawKinds(b) {
+    const ims = b.images || [], have = KINDS.map(k => [k, ims.filter(im => im.kind === k).length]).filter(([, n]) => n);
+    if (!have.some(([k]) => k === state.kind)) state.kind = 'All';
+    const el = $('gKinds');
+    el.hidden = !b.full || have.length < 2;
+    el.innerHTML = [['All', ims.length], ...have].map(([k, n]) => `<button type="button" data-kind="${k}" aria-pressed="${k === state.kind}">${k}<span>${n}</span></button>`).join('');
+    $('strip').querySelectorAll('button').forEach(t => { t.hidden = !inKind(ims[+t.dataset.k], state.kind); });
+  }
   function showShot(k) {
     const b = state.open; if (!b || b.kind === 'book') return;
     const ims = b.images || [];
@@ -307,31 +459,47 @@
       $('gPrev').hidden = $('gNext').hidden = true;
       return;
     }
-    k = (k + ims.length) % ims.length;
+    const total = photoCount(b);
+    k = (k + total) % total;
+    if (!ims[k]) k = 0; // the other photos are still loading
+    if (!inKind(ims[k], state.kind)) k = Math.max(0, ims.findIndex(im => inKind(im, state.kind)));
     state.shot = k;
+    const shown = state.kind === 'All' ? null : ims.map((im, j) => [im, j]).filter(([im]) => inKind(im, state.kind)).map(([, j]) => j);
     const im = ims[k];
     // Show the small thumbnail at once, then swap in the full photo (often from Wikimedia) when it arrives.
     const drawing = im.kind === 'Drawing';
     stage.innerHTML = `<img src="${esc(im.thumb)}" alt="${esc(b.name)}: ${esc(drawing ? 'drawing' : im.caption)}">` +
       (drawing ? '<span class="nophoto">Photos unavailable</span>' : '');
     stage.classList.toggle('drawing', drawing);
-    const full = new Image();
-    full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
-    full.src = im.src;
+    stage.querySelector('img').addEventListener('load', placeOnPhoto); // also when the full photo replaces the thumbnail
+    requestAnimationFrame(placeOnPhoto); // a photo already in the browser's cache never fires load
+    stage.insertAdjacentHTML('beforeend', `<button type="button" class="zoom" id="gZoom" aria-label="See the photo full screen"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 4h6v6M10 20H4v-6M20 4l-6.5 6.5M4 20l6.5-6.5"/></svg></button>`);
+    if (im.src) { // the wall's own copy has only the thumbnail; the full photo is known once the details have arrived
+      const full = new Image();
+      full.onload = () => { const img = stage.querySelector('img'); if (img && img.getAttribute('src') === im.thumb) img.src = im.src; };
+      full.src = im.src;
+    }
     const credit = (im.credit || '').replace(/\.$/, '');
-    $('gCap').innerHTML = `<span class="c">${k + 1}/${ims.length}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
+    $('gCap').innerHTML = `<span class="c">${shown ? shown.indexOf(k) + 1 : k + 1}/${shown ? shown.length : total}${drawing ? '' : ' · ' + esc(im.caption)}</span>` +
       `<span class="l">${credit ? (im.kind === 'Drawing' ? '' : 'Photo: ') + esc(credit) + ' · ' : ''}${esc(im.license)}${im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : ''}</span>`;
     $('strip').querySelectorAll('button').forEach((t, j) => t.setAttribute('aria-current', j === k));
-    $('gPrev').hidden = $('gNext').hidden = ims.length < 2;
+    $('gPrev').hidden = $('gNext').hidden = (shown ? shown.length : total) < 2;
+    if (!$('zv').hidden) zoomFill();
   }
 
   // Verified pages found by tools/find_links.py come first; the core sites fall back to their top search result.
-  const CORE = [['Projects & drawings', 'ArchDaily', 'archdaily.com'], ['Plans & sections', 'WikiArquitectura', 'wikiarquitectura.com'], ['News & features', 'Dezeen', 'dezeen.com']];
+  // Go deeper (v14 · A): each site's own icon, cut out and printed in ink so it turns red with its cell.
+  // Each site's own logo (images/logos/c): in its colours where they read on white and on black, else in a mid grey,
+  // so the logos stay visible when a phone or browser turns the page dark.
+  const LOGOS = { ArchDaily: 'archdaily.png', WikiArquitectura: 'wikiarquitectura.svg', Dezeen: 'dezeen.png', Divisare: 'divisare.png', archINFORM: 'archinform.png', Wikipedia: 'wikipedia.png', YouTube: 'youtube.png', 'Wikimedia Commons': 'commons.png', Map: 'openstreetmap.png' };
+  const logoOf = n => n === 'Official website' ? '<svg class="lg" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.8 3.8 5.8 3.8 9s-1.2 6.2-3.8 9c-2.6-2.8-3.8-5.8-3.8-9S9.4 5.8 12 3z"/></svg>'
+    : LOGOS[n] ? `<img class="lg" src="images/logos/c/${LOGOS[n]}" alt="" aria-hidden="true">` : '';
+  // Without a verified page on one of these sites, the link opens that site's own search for the building.
+  const CORE = [['Projects & drawings', 'ArchDaily', 'https://www.archdaily.com/search/projects?q='], ['Plans & sections', 'WikiArquitectura', 'https://en.wikiarquitectura.com/?s='], ['News & features', 'Dezeen', 'https://www.dezeen.com/?s=']];
   function linksFor(b) {
     const name = b.name, city = b.place.split(',')[0], found = b.links || [];
-    const lucky = (domain) => 'https://duckduckgo.com/?q=' + q('\\ site:' + domain + ' ' + name + ' ' + b.by);
     const out = found.map((l) => [l.kind, l.site, l.url, true]);
-    for (const [k, n, domain] of CORE) if (!found.some((l) => l.site === n)) out.push([k, n, lucky(domain), false]);
+    for (const [k, n, search] of CORE) if (!found.some((l) => l.site === n)) out.push([k, n, search + q(name), false]);
     out.push(['Read', 'Wikipedia', b.wiki || 'https://en.wikipedia.org/w/index.php?search=' + q(name + ' ' + city), !!b.wiki]);
     out.push(['Watch', 'YouTube', 'https://www.youtube.com/results?search_query=' + q(name + ' ' + b.by + ' architecture'), true]);
     out.push(['More photos', 'Wikimedia Commons', b.commons ? 'https://commons.wikimedia.org/wiki/' + q(b.commons.replace(/ /g, '_')) : 'https://commons.wikimedia.org/w/index.php?search=' + q(name), true]);
@@ -343,6 +511,12 @@
      building, whether it was a surprise, how many steps came before it in this run (step) and the one before (prev). */
   const here = () => (history.state && history.state.da ? history.state : null);
   function remember(key, surprise, wasOpen) {
+    if (HOST) { // the page behind keeps the address; the visit is counted here, as the wall's own opened buildings are
+      const b = ALL.find(x => x.id === key);
+      HOST.at(key);
+      if (b && window.fgaEvent) fgaEvent('building/' + key, b.name);
+      return;
+    }
     const cur = wasOpen ? here() : null;
     const made = !here() && location.hash === '#' + key; // the browser already made this entry (the address was typed or linked)
     const entry = cur ? { da: true, id: key, surprise: !!surprise, step: cur.step + 1, prev: cur.id, pushed: cur.pushed }
@@ -353,6 +527,28 @@
     } catch (e) { /* some embedded frames forbid it */ }
   }
 
+  // Go deeper shows six links, then "See all N links" opens the rest (v25).
+  const LINKS_SHOWN = 6;
+  const linksHtml = b => linksFor(b).map(([k, n, u, direct], i) =>
+    `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Searches this site for the building"'}${i >= LINKS_SHOWN ? ' data-extra' : ''}><b class="lt"><span>${esc(k)}</span>${esc(n)} ↗</b>${logoOf(n)}</a>`).join('');
+  function drawLinks(b) {
+    $('links').innerHTML = linksHtml(b);
+    const n = linksFor(b).length, more = $('linksMore');
+    more.hidden = n <= LINKS_SHOWN;
+    more.textContent = `See all ${n} links ↓`;
+    more.setAttribute('aria-expanded', 'false');
+    $('links').classList.remove('all');
+  }
+  const stripHtml = b => (b.images || []).map((im, k) =>
+    `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
+  // The opened building shows at once from what the wall already has; its other photos and its links join in when they arrive.
+  function fillDetail(b) {
+    if (state.open !== b) return;
+    $('strip').innerHTML = stripHtml(b);
+    drawLinks(b);
+    drawKinds(b);
+    showShot(state.shot); // same thumbnail, now with its full photo, credit and licence
+  }
   function openBuilding(id, surprise, fromEl, fromHistory) {
     const b = ALL.find(x => x.id === id);
     if (!b) return;
@@ -362,29 +558,31 @@
     card.classList.remove('book');
     $('where').hidden = false; $('pageLink').hidden = false; $('shopNote').hidden = true;
     $('linksTitle').textContent = 'Go deeper';
-    $('chipsHint').textContent = 'Each opens every building that shares the idea.';
 
-    $('strip').innerHTML = (b.images || []).map((im, k) =>
-      `<button type="button" data-k="${k}" aria-label="Photo ${k + 1}: ${esc(im.caption)}"><img src="${esc(im.thumb)}" alt=""></button>`).join('');
+    $('strip').innerHTML = stripHtml(b);
+    state.kind = 'All';
+    drawKinds(b);
     showShot(tileShot.get(b.id) || 0);
 
     const kick = $('bKicker');
-    kick.textContent = surprise ? 'You came looking for nothing. You found:' : `${b.type} · ${b.movement}`;
-    kick.classList.toggle('surprise', !!surprise);
-    $('bName').textContent = b.name;
+    kick.textContent = `${b.type} · ${b.movement}`;
+    $('bName').innerHTML = `<a href="buildings/${esc(b.id)}/" title="Open the full page">${esc(b.name)}</a>`; // the name opens the building's full page, as "Open the full page" does
     const city = b.place.split(',')[0], country = countryName(countryOf(b));
     $('byline').innerHTML = bylineHtml(b);
+    $('bCredits').innerHTML = portraitCredit(portraitOf(b));
     $('where').innerHTML = mapHtml(b);
     $('where').href = mapUrl(b);
     $('where').setAttribute('aria-label', `Open map: ${city === country ? city : city + ', ' + country}`);
-    $('bMeta').innerHTML = `${esc(city === country ? city : city + ', ' + country)} · ${esc(b.year)} · <a href="${esc(mapUrl(b))}" target="_blank" rel="noopener">Open map ↗</a>`;
+    $('bMeta').textContent = b.year;
     $('bStudy').innerHTML = `<span>Key features</span>${esc(b.study)}`;
     $('pageLink').href = 'buildings/' + b.id + '/';
-    $('bChips').innerHTML = (b.concepts || []).map(c => `<button type="button" class="chip" data-g="concepts" data-v="${esc(c)}">${esc(c)} <span class="n">→</span></button>`).join('') +
-      `<button type="button" class="chip quiet" data-g="type" data-v="${esc(b.type)}">${esc(b.type)} <span class="n">→</span></button>`;
+    // Find more with (v25): one dotted row per idea, with how many buildings share it.
+    const row = (g, v) => { const n = ALL.filter(x => g === 'type' ? x.type === v : (x.concepts || []).includes(v)).length;
+      return `<button type="button" class="chip" data-g="${g}" data-v="${esc(v)}"><span class="nm">${esc(v)}</span><i aria-hidden="true"></i><span class="n">${n.toLocaleString('en')} buildings →</span></button>`; };
+    $('bChips').innerHTML = (b.concepts || []).map(c => row('concepts', c)).join('') + row('type', b.type);
+    $('bChips').classList.add('rows'); $('chipsNote').hidden = false;
 
-    $('links').innerHTML = linksFor(b).map(([k, n, u, direct]) =>
-      `<a href="${esc(u)}" target="_blank" rel="noopener"${direct ? '' : ' class="guess" title="Opens the top search result on this site"'}><span>${esc(k)}</span>${esc(n)} ↗</a>`).join('');
+    if (b.full) drawLinks(b); else { $('links').innerHTML = ''; $('linksMore').hidden = true; }
 
     const mine = byArchitect(b), kin = sameType(b);
     $('byArch').hidden = !mine.length;
@@ -392,6 +590,8 @@
     $('byArchAll').textContent = `All ${mine.length + 1} →`;
     $('byArchAll').dataset.arch = firstArchitect(b);
     $('byArchRel').innerHTML = relHtml(mine.slice(0, 4));
+    $('relBooks').hidden = true;
+    withBooks(() => { if (state.open === b) showRelatedBooks(b); });
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More · ' + b.type;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -405,6 +605,46 @@
     card.querySelector('.info').scrollTop = 0;
     card.focus({ preventScroll: true });
     updateStep();
+    if (!b.full) loadDetail(b).then(() => fillDetail(b), () => { if (state.open === b) drawLinks(b); });
+  }
+
+  /* ---------- related books in the opened building ---------- */
+  // Books about this building first, then books about its architect, then a few general books on its movement.
+  const MOVEMENT_BOOKS = 4, RELATED_MAX = 12;
+  const BROAD = new Set(['Contemporary', 'Modernism', 'Late modernism']);
+  const PLACE_TAGS = {
+    India: (b, cc) => cc === 'IN', Japan: (b, cc) => cc === 'JP', China: (b, cc) => cc === 'CN',
+    'Latin America': (b, cc) => b.region === 'Americas' && !['US', 'CA'].includes(cc),
+    Africa: b => b.region === 'Africa', 'Southeast Asia': b => b.region === 'Southeast Asia'
+  };
+  function relatedBooks(b) {
+    const out = [], add = k => { if (!out.includes(k)) out.push(k); };
+    BOOKS.filter(k => (k.buildings || []).includes(b.id)).forEach(add);
+    const names = byOf(b);
+    BOOKS.filter(k => (k.architects || []).some(a => names.includes(NAMES.canon(a)))).sort((x, y) => x.y - y.y).forEach(add);
+    const words = new Set([b.type, ...(b.concepts || [])].map(fold));
+    const shared = k => (k.tags || []).filter(t => words.has(fold(t))).length;
+    // Movement books are general ones (surveys, theory); a monograph on another architect isn't related. A book about a
+    // place only suits buildings there, and the broad movements also need a shared idea or type.
+    const cc = countryOf(b), inPlace = t => !(t in PLACE_TAGS) || PLACE_TAGS[t](b, cc);
+    BOOKS.filter(k => (k.tags || []).includes(b.movement) && !(k.architects || []).length && !out.includes(k)
+        && (k.tags || []).every(inPlace) && (!BROAD.has(b.movement) || shared(k) > 0))
+      .sort((x, y) => shared(y) - shared(x) || x.y - y.y)
+      .slice(0, MOVEMENT_BOOKS).forEach(add);
+    return out.slice(0, RELATED_MAX);
+  }
+  function showRelatedBooks(b) {
+    const list = relatedBooks(b), row = $('relBooksRow');
+    $('relBooks').hidden = !list.length;
+    row.innerHTML = list.map(k => `<button type="button" data-book="${esc(k.id)}"><span class="cv">${coverHtml(k)}</span><b>${esc(k.title)}</b><small>${esc(k.year)}</small></button>`).join('');
+    row.scrollLeft = 0;
+    $('relBooksNav').hidden = list.length <= 6; // with six or fewer everything nearly fits: no arrows
+    updateBookArrows();
+  }
+  function updateBookArrows() {
+    const row = $('relBooksRow');
+    $('relBooksPrev').disabled = row.scrollLeft <= 2;
+    $('relBooksNext').disabled = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
   }
 
   /* ---------- opened book ---------- */
@@ -417,20 +657,18 @@
   }
   function bylineBookHtml(k) {
     const who = (k.architects || [])[0], p = who ? portraitByName(who) : null;
-    const n = who ? ALL.filter(x => byOf(x).includes(who)).length : 0;
+    const n = who ? ALL.filter(x => byOf(x).includes(NAMES.canon(who))).length : 0;
     const face = p ? `<img class="face" src="${esc(p.thumb)}" alt="${esc(p.name)}">` : '';
     const text = `<span class="by-text"><i>by</i><b>${esc(k.by)}</b>${n ? `<span class="see">${esc(who)} on the wall: ${n} building${n > 1 ? 's' : ''} →</span>` : ''}</span>`;
-    const credit = p ? `<p class="face-credit">Portrait: ${p.credit ? esc(p.credit) + ' · ' : ''}${esc(p.license)}${p.source ? ` · <a href="${esc(p.source)}" target="_blank" rel="noopener">source</a>` : ''}</p>` : '';
-    return (n ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`) + credit;
+    const w = p ? laureateOf(p, who) : null;
+    const link = n ? `<button type="button" class="by-link" data-arch="${esc(who)}">${face}${text}</button>` : `<div class="by-link">${face}${text}</div>`;
+    return `<div class="by-row">${link}${w ? medalHtml(w, who, n) : ''}</div>`;
   }
   function bookLinks(k) {
     const a = k.by.split(/,| and |\(/)[0].trim(), s = q(k.title + ' ' + a);
-    return [
+    return [ // two ways to get it: one to buy, one to borrow (the owner's choice, Oct 2026)
       ['Buy', 'Amazon', `https://www.${SHOP.amazon}/s?k=${s}&i=stripbooks${SHOP.tag ? '&tag=' + SHOP.tag : ''}`],
-      ['Buy', 'Bookshop.org', `https://bookshop.org/search?keywords=${s}`],
-      ['Borrow or read', 'Open Library', k.ol ? `https://openlibrary.org/works/${k.ol}` : `https://openlibrary.org/search?q=${s}`],
-      ['Find in a library', 'WorldCat', `https://search.worldcat.org/search?q=${s}`],
-      ['Preview', 'Google Books', `https://www.google.com/search?tbm=bks&q=${s}`]
+      ['Borrow or read', 'Open Library', k.ol ? `https://openlibrary.org/works/${k.ol}` : `https://openlibrary.org/search?q=${s}`]
     ];
   }
   function showCover(k) {
@@ -448,30 +686,35 @@
   // Buildings a book goes with: the ones it names, then everything on the wall by the architects it is about.
   function buildingsOf(k) {
     const out = (k.buildings || []).map(id => ALL.find(x => x.id === id)).filter(Boolean);
-    for (const a of k.architects || []) for (const x of ALL) if (byOf(x).includes(a) && !out.includes(x)) out.push(x);
+    for (const a of (k.architects || []).map(NAMES.canon)) for (const x of ALL) if (byOf(x).includes(a) && !out.includes(x)) out.push(x);
     return out;
   }
   const sameShelf = k => BOOKS.filter(x => x !== k && x.shelf === k.shelf)
     .sort((x, y) => (y.tags || []).filter(t => (k.tags || []).includes(t)).length - (x.tags || []).filter(t => (k.tags || []).includes(t)).length || x.y - y.y);
 
-  function openBook(id, surprise, fromEl, fromHistory) {
+  // list: what the previous and next arrows step through (a category or today's five); null for the wall's own order.
+  function openBook(id, surprise, fromEl, fromHistory, list) {
     const k = BOOKS.find(x => x.id === id);
     if (!k) return;
+    if (list !== undefined) state.stepList = list;
     if (!fromHistory && !(state.open && state.open === k)) remember(keyOf(k), surprise, !sheet.hidden);
     state.open = k; state.seen.add(keyOf(k));
-    state.lastTile = fromEl || tiles.get(keyOf(k)) || null;
+    // stepping through a list on the table: closing returns to that book on the table, not to its tile on the wall
+    const onTable = state.stepList && state.stepList.includes(k) && !$('table').hidden ? $('table').querySelector(`button[data-book="${CSS.escape(k.id)}"]`) : null;
+    state.lastTile = fromEl || onTable || tiles.get(keyOf(k)) || null;
     card.classList.add('book');
     showCover(k);
     const kick = $('bKicker');
-    kick.textContent = surprise ? 'You came looking for nothing. You found:' : [k.shelf, (k.tags || [])[0]].filter(Boolean).join(' · ');
-    kick.classList.toggle('surprise', !!surprise);
+    kick.textContent = [k.shelf, (k.tags || [])[0]].filter(Boolean).join(' · ');
     $('bName').textContent = k.title;
     $('byline').innerHTML = bylineBookHtml(k);
+    $('bCredits').innerHTML = portraitCredit((k.architects || [])[0] ? portraitByName(k.architects[0]) : null);
     $('where').hidden = true;
     $('bMeta').innerHTML = `First published ${esc(k.year)}${k.isbn ? ` · ISBN ${esc(k.isbn)}` : ''}`;
     $('bStudy').innerHTML = `<span>Why read it</span>${esc(k.why)}`;
     $('pageLink').hidden = true;
     $('linksTitle').textContent = 'Get it';
+    $('linksMore').hidden = true; $('gKinds').hidden = true; $('bChips').classList.remove('rows'); $('chipsNote').hidden = true;
     $('links').innerHTML = bookLinks(k).map(([kind, n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
     $('shopNote').hidden = !SHOP.tag;
     const built = buildingsOf(k), who = (k.architects || [])[0];
@@ -482,6 +725,7 @@
     $('byArchAll').dataset.arch = who || '';
     $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
     const kin = sameShelf(k);
+    $('relBooks').hidden = true;
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More on this shelf · ' + k.shelf;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -490,7 +734,6 @@
     $('sameTypeRel').innerHTML = relBooksHtml(kin.slice(0, 3));
     $('bChips').innerHTML = `<button type="button" class="chip" data-shelf="${esc(k.shelf)}">${esc(k.shelf)} <span class="n">→</span></button>` +
       (k.tags || []).map(t => `<button type="button" class="chip quiet" data-tag="${esc(t)}">${esc(t)} <span class="n">→</span></button>`).join('');
-    $('chipsHint').textContent = 'The shelf opens the books wall; each tag searches it.';
 
     if (!sheet.hidden) { card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap'); }
     sheet.hidden = false;
@@ -508,8 +751,9 @@
   }
 
   // Previous and next follow the wall's own order, after filters and search.
+  const stepList = () => state.stepList && state.stepList.includes(state.open) ? state.stepList : feedState.list;
   function updateStep() {
-    const list = feedState.list, i = state.open ? list.indexOf(state.open) : -1;
+    const list = stepList(), i = state.open ? list.indexOf(state.open) : -1;
     $('step').hidden = i < 0 || list.length < 2;
     if (i < 0) return;
     const noun = state.mode === 'books' ? 'book' : 'building';
@@ -522,12 +766,12 @@
     };
     fill($('sPrev'), list[i - 1], 'Previous');
     fill($('sNext'), list[i + 1], 'Next');
-    $('sPos').textContent = `${(i + 1).toLocaleString('en')} of ${list.length.toLocaleString('en')}`;
+    $('sPos').textContent = ''; // no totals on the site
   }
   function stepBuilding(dir) {
-    const f = feedState, i = state.open ? f.list.indexOf(state.open) : -1, b = f.list[i + dir];
+    const f = feedState, list = stepList(), i = state.open ? list.indexOf(state.open) : -1, b = list[i + dir];
     if (i < 0 || !b) return;
-    while (i + dir >= f.next) addBatch(); // keep the wall in step, so closing lands on this tile
+    if (list === f.list) while (i + dir >= f.next) addBatch(); // keep the wall in step, so closing lands on this tile
     state.stepped = true;
     openAny(keyOf(b));
   }
@@ -536,22 +780,25 @@
   function hideSheet() {
     sheet.hidden = true;
     document.body.classList.remove('locked');
-    state.open = null;
+    state.open = null; state.stepList = null;
     updateDock();
     if (state.lastTile && state.lastTile.isConnected) {
       if (state.stepped) state.lastTile.scrollIntoView({ block: 'center' });
-      state.lastTile.querySelector('.open').focus({ preventScroll: true });
+      (state.lastTile.querySelector('.open') || state.lastTile).focus({ preventScroll: true });
     }
     state.stepped = false;
   }
   // Closing (×, Escape, Home…) also rewinds the steps this run added, so the phone's back gesture afterwards leaves the wall
   // rather than reopening buildings.
   function closeBuilding() {
+    const was = state.open;
     hideSheet();
+    if (HOST) { HOST.closed(was && was.id); return; }
     const h = here(), n = h ? h.step + (h.pushed ? 1 : 0) : 0;
     if (n) { state.unwinding = true; history.go(-n); } else dropHash();
   }
   window.addEventListener('popstate', e => {
+    if (HOST) return;
     if (state.unwinding) { state.unwinding = false; if (location.hash) dropHash(); return; }
     const h = e.state && e.state.da ? e.state : null;
     if (h) openAny(h.id, h.surprise, true);
@@ -562,44 +809,346 @@
   $('close').addEventListener('click', closeBuilding);
   $('sPrev').addEventListener('click', () => stepBuilding(-1));
   $('sNext').addEventListener('click', () => stepBuilding(1));
-  $('gPrev').addEventListener('click', () => showShot(state.shot - 1));
-  $('gNext').addEventListener('click', () => showShot(state.shot + 1));
+  // Moving between photos needs the full list, so a very early press waits for it.
+  // the next photo in the chosen tab, round the end
+  const nextShot = d => { const b = state.open, ims = (b && b.images) || [], n = photoCount(b) || 1;
+    for (let i = 1; i <= n; i++) { const k = ((state.shot + d * i) % n + n) % n; if (inKind(ims[k], state.kind)) return k; } return state.shot; };
+  const shotBy = d => { const b = state.open; if (b && b.kind !== 'book' && !b.full) loadDetail(b).then(() => showShot(nextShot(d)), () => {}); else showShot(nextShot(d)); };
+  $('gPrev').addEventListener('click', () => stageSwipe.slide(-1));
+  $('gNext').addEventListener('click', () => stageSwipe.slide(1));
   $('strip').addEventListener('click', e => { const t = e.target.closest('button[data-k]'); if (t) showShot(+t.dataset.k); });
-  // swipe between photos on touch screens
-  let swipeX = null;
-  $('stage').addEventListener('pointerdown', e => { swipeX = e.clientX; });
-  $('stage').addEventListener('pointerup', e => { if (swipeX != null && Math.abs(e.clientX - swipeX) > 40) showShot(state.shot + (e.clientX < swipeX ? 1 : -1)); swipeX = null; });
-  ['byArchRel', 'sameTypeRel'].forEach(id => $(id).addEventListener('click', e => {
+  $('gKinds').addEventListener('click', e => {
+    const t = e.target.closest('button[data-kind]'); const b = state.open; if (!t || !b) return;
+    state.kind = t.dataset.kind; drawKinds(b);
+    showShot((b.images || []).findIndex(im => inKind(im, state.kind)));
+  });
+  $('linksMore').addEventListener('click', e => {
+    const open = $('links').classList.toggle('all'), b = state.open;
+    e.currentTarget.setAttribute('aria-expanded', open);
+    e.currentTarget.textContent = open ? 'Show fewer ↑' : `See all ${b ? linksFor(b).length : ''} links ↓`;
+  });
+  // One swipe for the opened building's photo and the full-screen view, as on the wall's tiles: the photo follows the finger
+  // and the next one comes in beside it; letting go past about a third of the frame (or a quick flick) slides it home, and a
+  // short drag springs back. The arrows and the arrow keys slide the same way.
+  function photoSwipe(frame, imgOf, srcAt, go) {
+    let x0 = null, y0 = 0, t0 = 0, dx = 0, sideways = false, busy = false;
+    const peekEl = () => frame.querySelector('img.peek');
+    const move = (el, x, ms) => { el.style.transition = ms ? `transform ${ms}ms ease-out` : 'none'; el.style.transform = x ? `translateX(${x}px)` : ''; };
+    function peekFor(dir) { // the neighbouring photo, waiting just outside the frame on that side
+      const src = srcAt(dir); if (!src) return null;
+      let p = peekEl();
+      if (!p) { p = document.createElement('img'); p.className = 'peek'; p.alt = ''; p.draggable = false; frame.appendChild(p); }
+      if (p.dataset.src !== src) { p.src = src; p.dataset.src = src; }
+      p.dataset.dir = dir;
+      return p;
+    }
+    function springBack() {
+      const img = imgOf(), p = peekEl();
+      if (img) move(img, 0, 200);
+      if (p) { move(p, +p.dataset.dir * frame.clientWidth, 200); setTimeout(() => p.remove(), 210); }
+    }
+    function slide(dir, from = 0) {
+      if (busy) return;
+      const img = imgOf(), p = peekFor(dir), w = frame.clientWidth;
+      if (!img || !p || stillMotion.matches) { if (p) p.remove(); if (img) move(img, 0, 0); go(dir); return; }
+      busy = true;
+      move(p, dir * w + from, 0); p.getBoundingClientRect(); // start from where the finger left it
+      move(img, -dir * w, 250); move(p, 0, 250);
+      setTimeout(() => {
+        go(dir); // the same picture, already loaded, takes the peek's place
+        const i = imgOf(); if (i) move(i, 0, 0);
+        requestAnimationFrame(() => { const q = peekEl(); if (q) q.remove(); });
+        busy = false;
+      }, 260);
+    }
+    frame.addEventListener('pointerdown', e => { sideways = false; if (e.pointerType === 'mouse' || busy) return; x0 = e.clientX; y0 = e.clientY; t0 = performance.now(); dx = 0; });
+    frame.addEventListener('pointermove', e => {
+      if (x0 == null) return;
+      dx = e.clientX - x0;
+      if (!sideways && Math.abs(dx) > 8 && Math.abs(dx) > Math.abs(e.clientY - y0)) sideways = true;
+      if (!sideways) return;
+      const img = imgOf(), dir = dx < 0 ? 1 : -1, p = peekFor(dir);
+      if (img) move(img, dx, 0);
+      if (p) move(p, dir * frame.clientWidth + dx, 0);
+    });
+    frame.addEventListener('pointerup', e => {
+      if (x0 == null) return;
+      if (sideways) dx = e.clientX - x0; // where the finger left the glass
+      x0 = null;
+      if (!sideways) return;
+      const dir = dx < 0 ? 1 : -1, flick = Math.abs(dx) > 25 && performance.now() - t0 < 250;
+      if (flick || Math.abs(dx) > Math.min(90, frame.clientWidth * 0.3)) slide(dir, dx); else springBack();
+    });
+    frame.addEventListener('pointercancel', () => { x0 = null; if (sideways) springBack(); });
+    return { slide, dragged: () => sideways };
+  }
+  const shotSrc = (dir, full) => { // the photo a step away, once the building's photos have arrived
+    const b = state.open; if (!b || b.kind === 'book' || !b.full) return null;
+    const k = nextShot(dir), im = b.images[k];
+    return k === state.shot || !im ? null : (full && im.src) || im.thumb;
+  };
+  const stageSwipe = photoSwipe($('stage'), () => $('stage').querySelector('img:not(.peek)'), d => shotSrc(d, false), d => shotBy(d));
+  // a tap on the photo, or the zoom button, shows it full screen
+  let tapX = null;
+  $('stage').addEventListener('pointerdown', e => { tapX = e.clientX; });
+  $('stage').addEventListener('pointerup', e => {
+    if (tapX != null && Math.abs(e.clientX - tapX) < 8 && !stageSwipe.dragged() && e.target.closest('img, .zoom')) openZoom();
+    tapX = null;
+  });
+  // The arrows sit halfway up the photo's own left and right edges, and the zoom button at its bottom right,
+  // wherever the photo falls inside its dark frame (a wide photo leaves bands above and below).
+  function placeOnPhoto() {
+    const stage = $('stage'), img = stage.querySelector('img'), g = $('gallery');
+    if (!img || !img.naturalWidth || !stage.clientHeight) return;
+    const sw = stage.clientWidth, sh = stage.clientHeight, ar = img.naturalWidth / img.naturalHeight;
+    const w = Math.min(sw, sh * ar), h = w / ar, l = (sw - w) / 2, t = (sh - h) / 2;
+    g.style.setProperty('--ph-mid', `${stage.offsetTop + t + h / 2}px`);
+    g.style.setProperty('--ph-l', `${l}px`);
+    stage.style.setProperty('--ph-l', `${l}px`); stage.style.setProperty('--ph-b', `${t}px`);
+  }
+  window.addEventListener('resize', placeOnPhoto);
+  // The photo full screen: tap the photo or the zoom button; arrows, a swipe or the keyboard move through the photos.
+  function zoomFill() {
+    const b = state.open, im = b && (b.images || [])[state.shot];
+    if (!im) return;
+    if ($('zvImg').getAttribute('src') !== (im.src || im.thumb)) $('zvImg').src = im.src || im.thumb;
+    $('zvImg').alt = `${b.name}: ${im.caption || 'photo'}`;
+    $('zvCap').innerHTML = $('gCap').innerHTML;
+    // red dots, as on the wall: which photo of how many (only those of the chosen kind), so a swipe is expected
+    const list = (b.images || []).map((x, j) => j).filter(j => state.kind === 'All' || inKind(b.images[j], state.kind));
+    const n = state.kind === 'All' ? photoCount(b) : list.length;
+    $('zvDots').innerHTML = n > 1 ? dotsHtml(n, Math.max(0, list.indexOf(state.shot))) : '';
+    $('zvPrev').hidden = $('zvNext').hidden = $('gPrev').hidden;
+  }
+  function openZoom() { if (!state.open || state.open.kind === 'book' || !(state.open.images || []).length) return; zoomFill(); $('zv').hidden = false; document.body.classList.add('zoomed'); $('zvX').focus(); }
+  function closeZoom() { $('zv').hidden = true; document.body.classList.remove('zoomed'); const z = $('gZoom'); if (z) z.focus(); }
+  $('zvX').addEventListener('click', closeZoom);
+  const zvSwipe = photoSwipe($('zvFrame'), () => $('zvImg'), d => shotSrc(d, true), d => { shotBy(d); zoomFill(); });
+  $('zvPrev').addEventListener('click', () => zvSwipe.slide(-1));
+  $('zvNext').addEventListener('click', () => zvSwipe.slide(1));
+  document.addEventListener('keydown', e => {
+    if ($('zv').hidden) return;
+    if (e.key === 'Escape') { e.stopPropagation(); closeZoom(); }
+    else if (e.key === 'ArrowLeft' || e.key === 'ArrowRight') { e.stopPropagation(); zvSwipe.slide(e.key === 'ArrowLeft' ? -1 : 1); }
+  }, true);
+  const BOOK_STEP = 3 * 84; // three covers (72px wide + 12px gap) per press
+  $('relBooksPrev').addEventListener('click', () => $('relBooksRow').scrollBy({ left: -BOOK_STEP, behavior: 'smooth' }));
+  $('relBooksNext').addEventListener('click', () => $('relBooksRow').scrollBy({ left: BOOK_STEP, behavior: 'smooth' }));
+  $('relBooksRow').addEventListener('scroll', updateBookArrows, { passive: true });
+  ['byArchRel', 'sameTypeRel', 'relBooksRow'].forEach(id => $(id).addEventListener('click', e => {
     const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
-    if (t.dataset.book) openBook(t.dataset.book); else openBuilding(t.dataset.id);
+    if (t.dataset.book) { if (HOST) goPage('./#book:' + t.dataset.book); else openBook(t.dataset.book); } else openBuilding(t.dataset.id);
   }));
-  // "See all" for an architect searches the wall for their name; "All" for a typology filters by it.
+  // Our own pages (an architect's page, a building's full page, a topic) open in a new tab on a computer, so the wall stays
+  // just as it was; on a phone they open in place and Back returns to the same spot (owner, 22 Oct 2026).
+  const BIG = matchMedia('(hover: hover) and (pointer: fine)');
+  const goPage = url => {
+    url = new URL(url, location.href).href;
+    if (HOST && new URL(url).pathname === top.location.pathname && !new URL(url).hash) return closeBuilding(); // the page already behind
+    if (BIG.matches) window.open(url, '_blank', 'noopener'); else (HOST ? top : window).location.href = url;
+  };
+  // In a popup over another page, a choice that changes the wall (a filter, a shelf) opens the wall with it: #f=type:Museum.
+  const wallWith = (g, v) => goPage('./#f=' + encodeURIComponent(g + ':' + v));
+  document.addEventListener('click', e => {
+    const a = e.target.closest && e.target.closest('a[href]');
+    if (!a || !BIG.matches || a.target || e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || /^(mailto|tel|javascript):/i.test(href)) return;
+    const u = new URL(a.href, location.href);
+    if (u.origin !== location.origin || (u.pathname === location.pathname && u.search === location.search)) return; // the wall itself
+    e.preventDefault(); window.open(u.href, '_blank', 'noopener');
+  });
+  // "See all" for an architect chooses them in the Architect filter, so the filter panel can still swap or add architects
+  // (a name no building credits falls back to a search); "All" for a typology filters by it.
   function showOnWall(arch, type) {
+    // An architect with a page of their own (data/arch_pages.js, tools/architect_pages.py) is shown there, not as a filter.
+    const page = arch && !type && window.ARCH_PAGES ? window.ARCH_PAGES[NAMES.canon(arch)] : '';
+    if (page) { goPage('architects/' + page + '/'); return; }
+    if (HOST) return wallWith(type ? 'type' : 'arch', type || arch);
     setMode('buildings', true);
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null;
     if (type) state.filters.type.add(type);
-    $('q').value = arch || ''; state.q = fold(arch || '');
+    if (arch) arch = NAMES.canon(arch);
+    const known = arch && ALL.some(b => b.arch.includes(arch));
+    if (known) state.filters.arch.add(arch);
+    const text = known ? '' : arch || '';
+    $('q').value = text; state.q = fold(text);
     closeBuilding(); refreshFilters(); render(true);
   }
   // The books wall, searched for a word or narrowed to one shelf.
   function showBooks(text, shelf) {
+    if (HOST) return goPage('./' + (shelf ? '#f=' + encodeURIComponent('shelf:' + shelf) : '?q=' + encodeURIComponent(text || '') + '#books'));
     setMode('books', true);
     state.shelf = shelf || null;
     $('q').value = text || ''; state.q = fold(text || '');
     closeBuilding(); render(true);
   }
   $('byline').addEventListener('click', e => { const t = e.target.closest('button[data-arch]'); if (t) showOnWall(t.dataset.arch); });
+  // The Pritzker medal: tap (or Enter) opens and closes its card; on a computer pointing at it opens it too.
+  // Every medal on the page (opened building or book, the filter's architect cards) shares this: the same card,
+  // opened by a tap or Enter, and on a computer by pointing at it. A card is kept inside the screen.
+  function medalOpen(m, open) {
+    const card = m && document.getElementById(m.getAttribute('aria-controls'));
+    if (!card) return;
+    if (open) document.querySelectorAll('.medal[aria-expanded="true"]').forEach(o => { if (o !== m) medalOpen(o, false); });
+    m.setAttribute('aria-expanded', open);
+    card.hidden = !open;
+    card.style.transform = '';
+    if (open) {
+      const r = card.getBoundingClientRect(), dx = Math.min(0, innerWidth - 8 - r.right) + Math.max(0, 8 - r.left);
+      if (dx) card.style.transform = `translateX(${dx}px)`;
+    }
+  }
+  let medalTimer = 0;
+  document.addEventListener('click', e => {
+    const m = e.target.closest('.by-row .medal');
+    if (m) medalOpen(m, m.getAttribute('aria-expanded') !== 'true');
+  });
+  document.addEventListener('pointerover', e => {
+    const m = e.target.closest('.medal, .medal-card'), row = m && m.closest('.by-row');
+    if (!m || !row || e.pointerType !== 'mouse') return;
+    clearTimeout(medalTimer);
+    medalOpen(row.querySelector('.medal'), true);
+  });
+  document.addEventListener('pointerout', e => {
+    const m = e.target.closest('.medal, .medal-card'), row = m && m.closest('.by-row');
+    if (!m || !row || e.pointerType !== 'mouse' || (e.relatedTarget && e.relatedTarget.closest && e.relatedTarget.closest('.medal, .medal-card') && row.contains(e.relatedTarget))) return;
+    medalTimer = setTimeout(() => medalOpen(row.querySelector('.medal'), false), 200);
+  });
+  document.addEventListener('click', e => { if (!e.target.closest('.by-row')) document.querySelectorAll('.medal[aria-expanded="true"]').forEach(m => medalOpen(m, false)); });
+  document.addEventListener('keydown', e => {
+    const m = document.querySelector('.medal[aria-expanded="true"]');
+    if (e.key === 'Escape' && m) { e.stopPropagation(); medalOpen(m, false); m.focus(); }
+  }, true);
   $('byArchAll').addEventListener('click', e => showOnWall(e.currentTarget.dataset.arch));
   $('sameTypeAll').addEventListener('click', e => { const d = e.currentTarget.dataset; if (d.shelf) showBooks('', d.shelf); else showOnWall('', d.type); });
   $('bChips').addEventListener('click', e => {
     const t = e.target.closest('.chip'); if (!t) return;
     if (t.dataset.shelf) return showBooks('', t.dataset.shelf);
     if (t.dataset.tag) return showBooks(t.dataset.tag);
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null;
-    state.filters[t.dataset.g].add(t.dataset.v);
+    if (HOST) return wallWith(t.dataset.g, t.dataset.v);
+    filterBy(t.dataset.g, t.dataset.v);
+  });
+  // The wall narrowed to one choice in one filter (a chip in the opened building, or #f=group:value from a popup elsewhere).
+  function filterBy(g, v) {
+    if (g === 'shelf') return showBooks('', v);
+    if (g === 'arch') return showOnWall(v);
+    if (!state.filters[g]) return;
+    setMode('buildings', true);
+    GROUPS.forEach(x => state.filters[x.key].clear()); state.decades = null; state.where = null;
+    state.filters[g].add(v);
     state.q = ''; $('q').value = '';
     closeBuilding(); refreshFilters(); render(true);
+  }
+
+  /* ---------- Books: the front table (design v18 · 05 and 06) ---------- */
+  // The Books home: five featured books a day, each with a line in its own words (data/book_lines.js), then six
+  // categories that open into two rows of covers. A book can sit in more than one category. Searching or choosing a
+  // shelf skips the table and shows the wall. A book opened here steps through the list it was opened from.
+  const CATEGORIES = [
+    { name: 'Start here', blurb: 'The first books most people are handed, in the order to read them.', keep: true,
+      has: k => k.shelf === 'Essentials' },
+    { name: 'Theory & manifestos', blurb: 'The arguments, and the replies to them.',
+      has: (k, t) => k.shelf === 'Theory' || k.shelf === 'Manifestos' || t.has('Theory') || t.has('Criticism') },
+    { name: 'Monographs', blurb: 'One architect at a time, with the drawings.', has: k => k.shelf === 'Monographs' },
+    { name: 'History & cities', blurb: 'How we got here, and how cities actually work.',
+      has: (k, t) => k.shelf === 'History' || k.shelf === 'Cities' || t.has('History') || t.has('Cities') || t.has('Survey') },
+    { name: 'Drawing & construction', blurb: 'Books that are mostly drawings, and how things are put together.',
+      has: (k, t) => k.shelf === 'Drawing' || k.shelf === 'Construction' || ['Drawing', 'Construction', 'Structure', 'Details'].some(x => t.has(x)) },
+    { name: 'Free to read', blurb: 'Out of copyright and online in full.', has: k => k.shelf === 'Free to read' }
+  ];
+  const table = { built: false, five: [], feat: 0, open: 0, lists: [] };
+  function todaysFive() {
+    const lines = window.BOOK_LINES || {}, pool = BOOKS.filter(k => lines[k.id]), d = new Date();
+    return shuffled(pool, rng(d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate())).slice(0, 5);
+  }
+  const lineSize = s => s.length <= 18 ? 'l1' : s.length <= 40 ? 'l2' : s.length <= 72 ? 'l3' : 'l4';
+  const coverOnly = k => `<span class="cv">${coverHtml(k)}</span>`;
+  function drawFeatured() {
+    const five = table.five, i = table.feat, k = five[i], el = $('feat');
+    if (!k) { el.hidden = true; return; }
+    const ln = (window.BOOK_LINES || {})[k.id];
+    el.hidden = false;
+    if (ln.bg) el.style.setProperty('--fbg', ln.bg); else el.style.removeProperty('--fbg');
+    el.classList.toggle('dark', !!ln.dark);
+    const arrow = (d, label, path) => `<button type="button" data-feat="${d}" aria-label="${label}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="${path}"/></svg></button>`;
+    el.innerHTML =
+      `<div class="feat-top"><span class="k">Today’s featured · ${i + 1} of ${five.length}</span>` +
+      `<span class="feat-nav">${arrow(-1, 'Previous featured book', 'M15 5l-7 7 7 7')}${arrow(1, 'Next featured book', 'M9 5l7 7-7 7')}</span></div>` +
+      `<div class="feat-body"><button type="button" class="feat-main" data-book="${esc(k.id)}" data-list="feat">` +
+      `${coverOnly(k)}<span class="line ${lineSize(ln.line)}">“${esc(ln.line)}”</span>` +
+      `<span class="foot"><b>${esc(k.title)}</b><span class="m">${esc([k.by, k.year, k.shelf].join(' · '))}</span>` +
+      (k.why ? `<span class="why">${esc(k.why)}</span>` : '') + `<span class="go">Open the book →</span></span></button>` +
+      `<div class="also"><span class="k">Also on the table today</span><div class="also-row">` +
+      five.map((x, j) => j === i ? '' : `<button type="button" data-pick="${j}" aria-label="${esc(x.title)}, ${esc(x.by)}">${coverOnly(x)}<b>${esc(x.title)}</b></button>`).join('') +
+      `</div></div></div>`;
+    const cov = el.querySelector('.feat-main .cv img'); // at night the panel is the day's cover, blurred behind dark glass
+    if (cov) el.style.setProperty('--cover', `url("${cov.currentSrc || cov.src}")`); else el.style.removeProperty('--cover');
+  }
+  function drawCats() {
+    table.lists = CATEGORIES.map(c => {
+      const list = BOOKS.filter(k => c.has(k, new Set(k.tags || [])));
+      return c.keep ? list : list.filter(k => k.cover).concat(list.filter(k => !k.cover)); // covers first, so a row opens on pictures
+    });
+    $('cats').innerHTML = CATEGORIES.map((c, j) => table.lists[j].length ? `<div class="cat">` +
+      `<button type="button" class="cat-h" id="catH${j}" aria-expanded="false" aria-controls="catB${j}" data-cat="${j}">` +
+      `<span class="cn">${esc(c.name)}</span><span class="cb">${esc(c.blurb)}</span><span class="cc">${table.lists[j].length} books</span>` +
+      `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>` +
+      `<div class="cat-b" id="catB${j}" role="region" aria-labelledby="catH${j}" hidden></div></div>` : '').join('');
+    openCat(table.open);
+  }
+  function openCat(j) {
+    document.querySelectorAll('#cats .cat-h').forEach(h => {
+      const k = +h.dataset.cat, on = k === j, body = $('catB' + k);
+      h.setAttribute('aria-expanded', on);
+      body.hidden = !on;
+      if (on && !body.firstChild) { // a category's covers are drawn the first time it opens
+        body.innerHTML = `<p class="cat-blurb">${esc(CATEGORIES[k].blurb)}</p><div class="cat-row">` +
+          table.lists[k].map(x => `<button type="button" data-book="${esc(x.id)}" data-list="${k}">${coverOnly(x)}<b>${esc(x.title)}</b><small>${esc(x.by)}</small></button>`).join('') +
+          `</div><button type="button" class="cat-arr prev" data-dir="-1" aria-label="Earlier books" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></span></button>` +
+          `<button type="button" class="cat-arr next" data-dir="1" aria-label="More books in ${esc(CATEGORIES[k].name)}" hidden><span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span></button>` +
+          `<div class="cat-dots" aria-hidden="true"></div>`;
+        body.querySelector('.cat-row').addEventListener('scroll', () => catArrows(body), { passive: true });
+      }
+      if (on) requestAnimationFrame(() => catArrows(body));
+    });
+    table.open = j;
+  }
+  function catArrows(body) {
+    const row = body.querySelector('.cat-row'); if (!row) return;
+    body.querySelector('.prev').hidden = row.scrollLeft <= 2;
+    body.querySelector('.next').hidden = row.scrollLeft + row.clientWidth >= row.scrollWidth - 2;
+    // Page dots under the row: how far along the shelf you are (at most ten, each a stretch of it); a dot jumps there.
+    const max = row.scrollWidth - row.clientWidth, dots = body.querySelector('.cat-dots');
+    const n = max > 2 ? Math.min(10, Math.ceil(row.scrollWidth / row.clientWidth)) : 0;
+    const at = n > 1 ? Math.round(row.scrollLeft / max * (n - 1)) : 0;
+    if (dots.children.length !== n) dots.innerHTML = Array.from({ length: n }, (_, i) => `<button type="button" data-dot="${i}" tabindex="-1"></button>`).join('');
+    [...dots.children].forEach((d, i) => d.classList.toggle('on', i === at));
+  }
+  function drawTable() {
+    if (table.built) return;
+    table.built = true;
+    table.five = todaysFive();
+    drawFeatured();
+    drawCats();
+  }
+  $('table').addEventListener('click', e => {
+    const t = e.target.closest('button'); if (!t) return;
+    if (t.dataset.feat) { const n = table.five.length; table.feat = (table.feat + +t.dataset.feat + n) % n; return drawFeatured(); }
+    if (t.dataset.pick) { table.feat = +t.dataset.pick; return drawFeatured(); }
+    if (t.dataset.cat) return openCat(t.getAttribute('aria-expanded') === 'true' ? -1 : +t.dataset.cat);
+    if (t.dataset.dir) { // eight columns at a time
+      const row = t.parentElement.querySelector('.cat-row'), first = row.firstElementChild;
+      const col = first ? first.getBoundingClientRect().width + parseFloat(getComputedStyle(row).columnGap || 0) : row.clientWidth / 8;
+      return row.scrollBy({ left: +t.dataset.dir * col * 8, behavior: 'smooth' });
+    }
+    if (t.dataset.dot != null) { // a page dot: jump to that stretch of the shelf
+      const row = t.closest('.cat-b').querySelector('.cat-row'), n = t.parentElement.children.length;
+      return row.scrollTo({ left: +t.dataset.dot / (n - 1) * (row.scrollWidth - row.clientWidth), behavior: 'smooth' });
+    }
+    if (t.dataset.book) openBook(t.dataset.book, false, t, false, t.dataset.list === 'feat' ? table.five : table.lists[+t.dataset.list]);
   });
+  window.addEventListener('resize', () => { const b = table.open >= 0 && $('catB' + table.open); if (b) catArrows(b); });
 
   /* ---------- search, ideas bar, filters, dock ---------- */
   let qTimer;
@@ -656,28 +1205,49 @@
     $('modeBooks').setAttribute('aria-pressed', books);
     $('q').placeholder = books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
     $('filterBtn').hidden = books;
-    $('allLink').hidden = books;
+    $('feed').setAttribute('aria-label', books ? 'Books' : 'Buildings');
     toggleFilters(false);
     if (!quiet) render(true);
   }
-  // On a phone the switch moves out of the crowded top bar into the row below it.
-  const narrow = window.matchMedia('(max-width: 820px)');
-  const placeMode = () => (narrow.matches ? $('modeSlot') : $('q').closest('.bar-mid')).prepend(document.querySelector('.mode'));
-  narrow.addEventListener('change', placeMode);
-  placeMode();
+
+  // Guess the building? opens a small menu with the two games.
+  const playMenu = (open) => { $('playMenu').hidden = !open; $('playBtn').setAttribute('aria-expanded', open); };
+  $('playBtn').addEventListener('click', e => { e.stopPropagation(); playMenu($('playMenu').hidden); });
+  document.addEventListener('click', e => { if (!$('playMenu').hidden && !e.target.closest('#play')) playMenu(false); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !$('playMenu').hidden) { playMenu(false); $('playBtn').focus(); } });
+
+  /* Top panel D (v23): the big name sits in a glass panel above the wall, fading and lifting as it scrolls away.
+     Past it, the same panel comes back as a slim glass bar ("A.", search, filter, day/night, game) with the ideas
+     under it; scrolling down hides both and shrinks the dock to its icons, scrolling up brings them back. */
+  const bar = $('bar'), root = document.documentElement;
+  let heroH = 0;
+  const fitHero = () => { if (!document.body.classList.contains('slim')) { heroH = bar.offsetHeight; root.style.setProperty('--heroH', heroH + 'px'); } };
+  fitHero(); addEventListener('resize', fitHero); if (document.fonts) document.fonts.ready.then(fitHero);
+  let lastY = window.scrollY, ticking = false;
+  const onScroll = () => {
+    const y = window.scrollY, d = y - lastY;
+    if (Math.abs(d) > 6) { document.body.classList.toggle('ideas-away', d > 0 && y > 140); lastY = y; }
+    if (y < 140) document.body.classList.remove('ideas-away');
+    root.style.setProperty('--p', Math.min(1, Math.max(0, y / (heroH || 1))).toFixed(3));
+    document.body.classList.toggle('slim', y > heroH + 10);
+    ticking = false;
+  };
+  window.addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(onScroll); } }, { passive: true });
+  onScroll();
   $('modeBuildings').addEventListener('click', () => setMode('buildings'));
   $('modeBooks').addEventListener('click', () => setMode('books'));
   function clearAll() {
-    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.shelf = null;
+    GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null; state.shelf = null;
     state.q = ''; $('q').value = '';
     refreshFilters(); render(true);
   }
   $('emptyClear').addEventListener('click', clearAll);
   $('home').addEventListener('click', e => { e.preventDefault(); toggleFilters(false); setMode('buildings', true); clearAll(); });
 
-  // The dock stays on top of everything. On the plain wall it offers Shuffle; anywhere else (an opened building,
-  // a filtered or searched wall) Shuffle becomes Home. Surprise me works everywhere, even over an opened building.
-  const atHome = () => sheet.hidden && !state.q && !state.shelf && !state.decades && GROUPS.every(g => !state.filters[g.key].size);
+  // The dock stays on top of everything. On the plain buildings wall it offers Shuffle; anywhere else (the books wall,
+  // an opened building, a filtered or searched wall) Shuffle becomes Home, which goes back to the buildings wall.
+  // Surprise me works everywhere, even over an opened building.
+  const atHome = () => state.mode === 'buildings' && sheet.hidden && !state.q && !state.shelf && !state.decades && !state.where && GROUPS.every(g => !state.filters[g.key].size);
   function updateDock() {
     const home = atHome();
     $('shuffle').hidden = !home;
@@ -690,7 +1260,7 @@
   $('shuffle').addEventListener('click', () => { newSeed(); render(true); });
   $('goHome').addEventListener('click', () => {
     if (!sheet.hidden) closeBuilding();
-    toggleFilters(false); clearAll();
+    toggleFilters(false); setMode('buildings', true); clearAll();
   });
   function surprise() {
     const list = visible();
@@ -701,8 +1271,29 @@
   $('surprise').addEventListener('click', surprise);
 
   /* ---------- start ---------- */
-  window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
+  window.DA = { ALL, get BOOKS() { return BOOKS; }, withBooks, loadDetail, state, GROUPS, matches, esc, fold, countryName, project, world: WORLD,
+    coin, medalHtml, laureate: name => laureateOf(null, name), open: id => openAny(id),
     apply: () => render(false), close: () => { toggleFilters(false); window.scrollTo({ top: 0, behavior: 'smooth' }); } };
+  // A search sent from another page's bar (/?q=…) is on the wall before the first tiles are dealt; the address keeps any other tag.
+  const sent = new URLSearchParams(location.search);
+  if (sent.get('q')) {
+    $('q').value = sent.get('q'); state.q = fold(sent.get('q').trim());
+    sent.delete('q');
+    try { history.replaceState(history.state, '', location.pathname + (sent.toString() ? '?' + sent : '') + location.hash); } catch (e) { /* ignore */ }
+  }
+  if (HOST) { // over another page: no wall to deal, only the popup, opened when that page asks
+    const byId = new Map(ALL.map(b => [b.id, b]));
+    HOST.ready({
+      open(id, ids) {
+        document.documentElement.toggleAttribute('data-night', !!(parent.DA_THEME && parent.DA_THEME.night())); // as the page behind
+        state.stepList = (ids || []).map(x => byId.get(x)).filter(Boolean);
+        openBuilding(id);
+      },
+      hide() { if (!sheet.hidden) hideSheet(); }
+    });
+    state.booting = false;
+    return;
+  }
   render(false);
   if (RETURNING) { // back where we were: deal enough of the wall to reach the old scroll position
     const y = +kept('sessionStorage', 'da-y') || 0;
@@ -713,10 +1304,33 @@
     window.scrollTo(0, 0);
     keep('localStorage', 'da-top', JSON.stringify(feedState.list.slice(0, 40).map(keyOf)));
   }
+  // A hub page's "On the globe" (#map=style:brutalism): choose that hub's buildings in the wall's own filters, then open the
+  // globe, which shows (and flies to fit) whatever the wall shows. data/hubs.js says what each hub means; it loads only now.
+  const mapHub = key => {
+    const go = () => {
+      const h = (window.HUBS || {})[key], m = $('mapBtn');
+      if (h) {
+        setMode('buildings', true);
+        GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null; state.q = ''; $('q').value = '';
+        state.where = h.places ? b => h.places.includes(b.place) : null;
+        for (const g of ['movement', 'type', 'concepts']) if (h[g]) state.filters[g].add(h[g]);
+        closeBuilding(); refreshFilters(); render(true);
+      }
+      if (m) m.click();
+    };
+    if (window.HUBS) return go();
+    const s = document.createElement('script'); s.src = 'data/hubs.js'; s.onload = s.onerror = go; document.head.appendChild(s);
+  };
   const openFromHash = () => {
     if (here() || state.unwinding) return; // moving through our own steps is handled by popstate
     const id = decodeURIComponent(location.hash.slice(1));
+    const whenReady = f => document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', f, { once: true }) : f(); // filter.js and map.js load after this file
     if (id === 'surprise') surprise(); // Surprise me on a building page or the A–Z list lands here
+    else if (id === 'filter') { dropHash(); whenReady(() => toggleFilters(true)); } // Filter in another page's bar
+    else if (id === 'map') { dropHash(); whenReady(() => { const m = $('mapBtn'); if (m) m.click(); }); } // Map in another page's dock
+    else if (id.startsWith('map=') && id.includes(':')) { dropHash(); whenReady(() => mapHub(id.slice(4))); } // "On the globe" on a hub page: #map=style:brutalism
+    else if (id.startsWith('map=')) { dropHash(); whenReady(() => { DA.mapTo = id.slice(4); const m = $('mapBtn'); if (m) m.click(); }); } // "On the globe" on a building page
+    else if (id.startsWith('f=') && id.includes(':')) { dropHash(); whenReady(() => filterBy(id.slice(2, id.indexOf(':')), id.slice(id.indexOf(':') + 1))); } // a choice made in a popup over another page
     else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
     else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
   };
@@ -724,4 +1338,36 @@
   const h0 = here(); // a reload, or coming back from another page, keeps the step we were on
   if (h0) openAny(h0.id, h0.surprise, true); else openFromHash();
   state.booting = false;
+})();
+
+// The AI jury presentation generator: on a computer the button goes straight to FGA Studio (/studio/); on a phone it opens a
+// sheet that leads there. There are two on the wall: one in the name panel, and one in the slim bar that takes over from it
+// (and shows over the map), so it is always in sight (owner, 24 Oct 2026). Pressing either is counted as the event
+// studio/ai-button, and following the sheet's link as studio/ai-link. The address says where it was pressed:
+// ?ref=wall (the name panel), wall-bar (the slim bar) or map.
+(function () {
+  const btns = [...document.querySelectorAll('#aiBtn, .bar .ai-bar')], pop = document.getElementById('aiPop'), veil = document.getElementById('aiVeil');
+  if (!btns.length || !pop) return;
+  const go = pop.querySelector('.ai-go'), phone = () => matchMedia('(max-width: 820px)').matches;
+  let from = btns[0];
+  const where = b => 'studio/?ref=' + (b.id === 'aiBtn' ? 'wall' : document.body.classList.contains('mapped') ? 'map' : 'wall-bar');
+  function show(open) {
+    pop.hidden = !open; veil.hidden = !open || !phone();
+    btns.forEach(b => b.setAttribute('aria-expanded', open && b === from ? 'true' : 'false'));
+    if (open) { go.focus({ preventScroll: true }); if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI Jury Presentation Generator'); }
+  }
+  btns.forEach(b => b.addEventListener('click', e => {
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; // a new tab, as the reader asked
+    e.preventDefault();
+    go.setAttribute('href', where(b));
+    if (phone()) { const again = from === b && !pop.hidden; from = b; return show(!again); }
+    if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI Jury Presentation Generator');
+    setTimeout(() => { location.href = go.href; }, 150); // a moment for the count to leave
+  }));
+  go.addEventListener('click', () => { if (window.fgaEvent) fgaEvent('studio/ai-link', 'AI panel: See FGA Studio'); });
+  const close = () => { show(false); from.focus(); };
+  document.getElementById('aiClose').addEventListener('click', close);
+  veil.addEventListener('click', () => show(false));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && !pop.hidden) close(); });
+  document.addEventListener('click', e => { if (!pop.hidden && !pop.contains(e.target) && !btns.some(b => b.contains(e.target))) show(false); });
 })();

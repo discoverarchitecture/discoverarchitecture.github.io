@@ -1,0 +1,848 @@
+[
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "what": "52 buildings from the eighth Haiku pool",
+  "pr": "127"
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, ninth pool (Pritzker winners' buildings not on the wall): 139 candidates, 22 added (Ando's Kumamoto burial mound museum and Garden of Fine Art, SANAA's Ogasawara Museum, Fehn's Villa Norrköping, Frei Otto's Schönow church, three Böhm churches, Niemeyer's Edifício Triângulo, Mendelsohn's Cohen House, Pei's Paul Mellon Arts Center); ordinary types 18%.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "what": "Fix-up round: sourced completion years for the held buildings; 39 added (Saarinen's Vivian Beaumont Theater, Gaudí's Collegio Teresiano, BIG's Marsk Tower, Memorial JK, Kengo Kuma's Andersen Museum, Lutyens's Thiepval and Arras memorials, Wall House II…).",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "what": "Photo dots: 86 new candidates checked by eye, 11 dropped; the plain wall now spreads them so every one of the first 11 screens has at least 3 (owner's rule). Firm pages show a founder's portrait (13 pages); founders added for 25 more firms. Architect pages batches 9 and 10 (36 more).",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, tenth pool (new harvest of buildings from 2000 on): 300 candidates, 45 added (Heatherwick's Vessel, Henning Larsen's Kiruna and Viborg town halls, DS+R's Zaryadye Concert Hall, Patkau's Beaty museum, Kuma's Cité des Arts, MVRDV's Boekenberg, Coop Himmelb(l)au's Paneum, Tschumi's Zénith de Rouen, Fujimori's Mosaic Tile Museum, NOX's Maison Folie); ordinary types 18%. Go deeper links for 570 buildings that had none (first half).",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Links keep the site open; every sideways row shows red dots and arrows",
+  "pr": "125"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "102 buildings from the seventh Haiku pool, ordinary types down to 8%",
+  "pr": "124"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Swipes slide with the finger everywhere",
+  "pr": "123"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "114 buildings from 1900–1989 from the sixth Haiku pool",
+  "pr": "120"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Game: no zoomed-in close-ups; countries under building names",
+  "pr": "122"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Opened building: full-screen photo, zoom button, arrows on the photo",
+  "pr": "121"
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, sixth pool (1900–1989): 300 candidates judged by Haiku, every judgement checked by Sonnet (9 rescued, 31 wrong keeps out), every gallery by Opus; 114 buildings added (Aalto, Asplund, Loos, Mies, Gropius, Rietveld, Dudok, Berlage, Mendelsohn, Wiesner, Fuchs, Gočár, Kotěra, Bartning, Böhm, Nervi, Moretti, Libera, Michelucci, Niemeyer, Tange, Stirling…), 120 weak photos removed, 15 held.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, seventh pool: 300 candidates with no ordinary types in the pool; Haiku judged, Sonnet checked every judgement (8 rescued, 36 wrong keeps out), Opus every gallery; 102 buildings added (Asplund's Woodland Chapel, Wachsmann's Einstein House, Aalto's Finnish Pavilion, Perret, Kroha, Kotěra, Böhm, Bartning, Tschumi's Nestlé HQ, Van den Broek en Bakema…); ordinary types 8%.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, eighth pool: 300 candidates, Haiku judged, Sonnet checked every judgement, Opus every gallery; 52 buildings added (Suntory Hall, Palais de la Porte Dorée, Tessenow's Stadtbad Mitte, Haltia, Kunstsilo, Laeiszhalle, Plečnik, Gočár, Kotěra, Mart Stam…); ordinary types 17%. The harvest list is running thin.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "82 contemporary buildings from the fifth Haiku pool (1990 onwards)",
+  "pr": "119"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Pricing, refunds, contact and FGA Studio terms and privacy, linked from every page (for the Dodo Payments review)",
+  "pr": "118"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "FGA Studio: directory listing kit",
+  "pr": "117"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "FGA Studio: \"architecture presentation board\" for Google, and a link from every page's footer",
+  "pr": "116"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "177 new buildings from the third and fourth Haiku pools; page titles keep firm names whole",
+  "pr": "114"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Design",
+  "what": "Wall: \"AI Jury Presentation Generator\" in title case",
+  "pr": "115"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Visitor numbers: count the studio page, AI button, map and game per day on their own",
+  "pr": "113"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-live",
+  "what": "Read about: all reading links live",
+  "pr": "112"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Further reading: hubs (32 pages), and the link check runs only its own group",
+  "pr": "111"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_04",
+  "what": "Further reading: architects_04",
+  "pr": "109"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Reading link check: keep museum and journal pages that block automated visitors",
+  "pr": "110"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_01",
+  "what": "Further reading: architects_01",
+  "pr": "107"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_03",
+  "what": "Further reading: architects_03",
+  "pr": "105"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-order",
+  "what": "Read about: most useful links first",
+  "pr": "108"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/reading-architects_02",
+  "what": "Further reading: architects_02",
+  "pr": "106"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Architect pages batch 8 (27 architects) and drawings for 40 more of the most-studied buildings",
+  "pr": "99"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Design",
+  "what": "FGA Studio: Other option, tick on Join, more counts; AI button opens the page on a computer",
+  "pr": "104"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/hub-pages-rebuild",
+  "what": "Hub pages: all 32 introductions live",
+  "pr": "103"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Design",
+  "what": "FGA Studio: waitlist page at /studio/, AI button on the wall, sign-ups counted",
+  "pr": "101"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Further reading: check candidate links on GitHub's servers",
+  "pr": "102"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "claude/hub-intros",
+  "what": "Hub introductions: the other 27",
+  "pr": "97"
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Drawings for the most-studied buildings 201-1,000: Commons scanned in four runs, 82 drawings for 40 buildings accepted (Sonnet first pass, Opus check by eye) and fetched; 15 off-topic photos from the refetch removed.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, third pool: 287 candidates judged by Haiku, every judgement checked by Sonnet, every gallery by Opus; 98 buildings added, 77 off-topic photos removed, 21 held for want of a sourced year.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, fourth pool (modern): 300 candidates judged by Haiku, every judgement checked by Sonnet (37 rescued), every gallery by Opus; 79 buildings added, 90 weak photos removed, 7 held for want of a sourced year. Page titles now keep firms like McKim, Mead & White whole.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "what": "Haiku pipeline, fifth pool (1990 onwards): 300 candidates judged by Haiku, every judgement checked by Sonnet (22 rescued, 16 wrong keeps out), every gallery by Opus; 82 contemporary buildings added (Ando, Isozaki, Ito, Maki, Siza, Souto de Moura, Moneo, Nouvel, Koolhaas, Herzog & de Meuron, Patkau, Tchoban…), 119 weak photos removed, 7 held.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-pages-reading",
+  "what": "Read about: show up to 15 links, six then See all",
+  "pr": "100"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Further reading: brief for 10–15 links per hub and architect page",
+  "pr": "98"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-pages",
+  "what": "Hub pages: styles, building types, cities and ideas (first 32)",
+  "pr": "94"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-intros",
+  "what": "Hub introductions: first five for the owner's approval",
+  "pr": "95"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Architect pages, batch 7: 29 more architects",
+  "pr": "96"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/hub-sources",
+  "what": "Hub sources: facts and links for the first 32 hubs",
+  "pr": "93"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Hub pages: brief and list of the first 32 (styles, types, cities, ideas)",
+  "pr": "92"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Most-studied buildings: drawings, Art Institute works, About texts, WikiArquitectura links; 35 buildings from the Haiku test",
+  "pr": "91"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/keen-cray-9mzzze",
+  "what": "Pinterest site verification tag + outreach playbook",
+  "pr": "90"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Count what visitors do on the wall (buildings, map, game), and tell Bing about changed pages",
+  "pr": "89"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Round 9: 264 new buildings, a second gallery check, and tools for drawings and the Art Institute",
+  "pr": "88"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Design",
+  "what": "Building pages look like the opened building on the wall (v27 · 02)",
+  "pr": "86"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Buildings taken off the wall: old pages become a short noindex note",
+  "pr": "87"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Titles and descriptions: architect always named, no cut-off sentences, full country names",
+  "pr": "85"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Every page gets the wall's slim bar and dock; game menu fix; architect tile names",
+  "pr": "84"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Search Console feed: faster page checks, and always save",
+  "pr": "83"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Design",
+  "what": "Opened building: the final look (v25), with photo tabs, catalogue headings and glass",
+  "pr": "82"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Design",
+  "what": "Home page: the glass top panel (v23 D), the slim bar, and a dock that shrinks to icons",
+  "pr": "81"
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Round 9: 260 buildings added (China and Taiwan, central USA, DACH, Nordic, award winners, Australia and NZ) plus Empire State, Flatiron, Brooklyn Museum and Westminster Cathedral from the Haiku test; 223 off-topic photos out after a second gallery check.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "what": "Drawings: first 200 most-studied buildings scanned on Commons; 46 drawings for 20 buildings checked by eye and queued for fetching.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-20",
+  "workstream": "FGA Studio (design)",
+  "what": "Sample board remade (round 3): Salk drawings redrawn like a studio set, three layouts (Calm grid, Drawing first, Editorial) on canvas v32 with phone and computer views; waiting for the owner’s pick and case-study PDFs.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "Design",
+  "what": "Night: one shared set of colours for every page, and a day/night switch",
+  "pr": "79"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "Data collection",
+  "what": "Architect pages, batches 2–6: 151 more architects",
+  "pr": "80"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "Data collection",
+  "what": "Better photos: Commons' best-rated photos for 40 buildings",
+  "pr": "78"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "claude/awesome-lovelace-7mviea",
+  "what": "Search Console feed: a daily copy of Google's numbers for every chat",
+  "pr": "76"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Home page words: for architects and students, with the globe and the games",
+  "pr": "77"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "Design",
+  "what": "Building pages: a drawing beside each fact, two columns, tighter spacing",
+  "pr": "75"
+ },
+ {
+  "date": "2026-10-19",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Architect pages: photo arrows, swipe, red dots, building popup; visitor numbers retry",
+  "pr": "74"
+ },
+ {
+  "date": "2026-10-17",
+  "workstream": "claude/adoring-einstein-8qu6ma",
+  "what": "Record the owner's money decisions in CLAUDE.md",
+  "pr": "54"
+ },
+ {
+  "date": "2026-10-17",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Wall tiles: the photo follows the finger and slides to the next one",
+  "pr": "67"
+ },
+ {
+  "date": "2026-10-17",
+  "workstream": "Design",
+  "what": "Map: fix zoomed-in coastlines filling the screen with land",
+  "pr": "68"
+ },
+ {
+  "date": "2026-10-17",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Filter: an architect with a page always opens it",
+  "pr": "73"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Filter: tapping an architect opens their page",
+  "pr": "72"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Architect pages: ten pages and the generator for the rest",
+  "pr": "71"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Image markup: add a creator to every photo",
+  "pr": "70"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Add the game page to the sitemap",
+  "pr": "69"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Wall: swipe any tile with two or more photos on a phone",
+  "pr": "66"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Dock: the Map button everywhere",
+  "pr": "65"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Phone speed: the wall loads a slim list, details load when a building opens",
+  "pr": "64"
+ },
+ {
+  "date": "2026-10-16",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Map card: arrows to step through the photos with a mouse",
+  "pr": "63"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Map live for everyone, and the globe is never cut off at the top",
+  "pr": "62"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Fit building titles and descriptions to Google's limits",
+  "pr": "59"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Map: top bar stays, map follows search and filters, phone preview card",
+  "pr": "61"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Map coordinates for 1,596 more buildings",
+  "pr": "60"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Globe map behind a hidden switch (?map) for testing",
+  "pr": "58"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Google listing text and icon, YouTube links, remove stray files",
+  "pr": "52"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Top bar: remove the \"All buildings\" button",
+  "pr": "57"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Opened building and books: iPad and dark-mode fixes",
+  "pr": "56"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/legal-pages",
+  "what": "Add Privacy Policy and Terms of Service pages",
+  "pr": "55"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/modest-albattani-e14ae1",
+  "what": "Add YouTube channel kit and link the channel from the home page",
+  "pr": "53"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Global audience rule, photo licence markup, cleaner captions",
+  "pr": "51"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Photo dots only on tiles worth swiping through",
+  "pr": "49"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Books wall: the dock shows Home instead of Shuffle",
+  "pr": "48"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Fix the photo problems the Design chat found",
+  "pr": "50"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/awesome-turing-qw6juy",
+  "what": "Books tab: readable titles and authors, quote in italics, tidier featured row",
+  "pr": "47"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Pritzker medal: same card and behaviour everywhere",
+  "pr": "46"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Gallery clean-up: building photos only, stronger covers, duplicates merged",
+  "pr": "45"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Game",
+  "what": "Gamified Guess the building?: colours, celebration, stats, share card, clear photos",
+  "pr": "44"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Design",
+  "what": "Go deeper logos, Pritzker medal in the filter, A. tab icon",
+  "pr": "42"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Merge pull request #43: Books, the front table",
+  "what": "Books: the front table (design v18 · 05 and 06)",
+  "pr": "43:"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "claude/magical-wright-9c2lpi",
+  "what": "Fix the Architect filter, and give each architect one name",
+  "pr": "31"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Merge pull request #41: visitor numbers every 6 hours",
+  "what": "Also: the fetch saves the daily visits first, keeps earlier breakdowns when one request fails, uses longer retry pauses and a time budget.",
+  "pr": "41:"
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Paused new buildings and books (owner). Gallery clean-up: 1,626 off-topic photos out, 193 better covers, 55 buildings off until a real photo is found, 3 duplicates merged.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Fixed 39 photo problems flagged by the Design chat: 17 new main photos, 70 wrong or off-topic photos out, 4 buildings held back for want of a photo.",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-15",
+  "workstream": "Data collection",
+  "what": "Map coordinates for 1,596 more buildings (3,030 of 3,316 now), for the Design chat's globe map; 16 wrong-building galleries found on the way (25 photos out, 5 buildings held back).",
+  "pr": ""
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Visitor dashboard data script",
+  "pr": "36"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Photo rescue round 1: 6 buildings back on the wall",
+  "pr": "40"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Round 8, second batch: 81 buildings from Africa, Japan and Korea; photo rescue routine",
+  "pr": "39"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Wall photos show the building, not people",
+  "pr": "38"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Round 8: 234 buildings from South America, the Middle East and Turkey, and South Asia",
+  "pr": "37"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Fix daily analytics fetch and count opened buildings",
+  "pr": "35"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Round 7, second batch: 155 buildings from the USA, Eastern Europe, Benelux and Southeast Asia",
+  "pr": "34"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Round 7: about 320 new buildings from the UK, Ireland, France, Italy, the USA, Canada and Mexico",
+  "pr": "33"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Fetch visitor numbers from GoatCounter every day",
+  "pr": "32"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Design",
+  "what": "Find Great Architecture: new name, new type, quieter top bar, map beside the architect",
+  "pr": "30"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "claude/website-analytics-seo-f2nevc",
+  "what": "Count visitors with GoatCounter",
+  "pr": "25"
+ },
+ {
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "what": "Dashboard: today's plan per chat",
+  "pr": "29"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "Progress dashboard: the script that feeds it, and how each chat refreshes it",
+  "pr": "28"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "A gold medal for Pritzker Prize winners on their portraits",
+  "pr": "27"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "Related books in the opened building",
+  "pr": "26"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "591 architect portraits: faces found by hand and photos of firm founders together",
+  "pr": "24"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Domain",
+  "what": "Serve the site at findgreatarchitecture.com",
+  "pr": "23"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Search",
+  "what": "Search and new address: titles in students' words, About text on 126 buildings, discoverarchitecture.github.io",
+  "pr": "16"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Data collection",
+  "what": "1,001 new buildings, our cover drawings, photo upgrade, 547 portraits and the new site address",
+  "pr": "20"
+ },
+ {
+  "date": "2026-10-13",
+  "workstream": "Game",
+  "what": "Guess the building? Daily five and Endless, and top panel A",
+  "pr": "22"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "New type, quieter top bar, \"Photos unavailable\" only once opened",
+  "pr": "17"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Wall",
+  "what": "A fresh wall on every reload, like a feed",
+  "pr": "18"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Books",
+  "what": "Books: a second wall of 130 architecture books, with covers from Open Library",
+  "pr": "15"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "World map: fix the streaks around Russia",
+  "pr": "14"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Wall",
+  "what": "Dock everywhere: keep going with Surprise me, Back, Home instead of Shuffle",
+  "pr": "13"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "Next building without closing; portraits matched to the right person",
+  "pr": "12"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Design",
+  "what": "New visual filter panel, architect byline and country map",
+  "pr": "11"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Data collection",
+  "what": "Data collection: the 25 approved batch 3 buildings",
+  "pr": "10"
+ },
+ {
+  "date": "2026-10-12",
+  "workstream": "Data collection",
+  "what": "Data collection: batch 3 (138 buildings from the thin regions and missing architects)",
+  "pr": "9"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Data collection: batch 2 (305 buildings from archINFORM) and line drawings for the 10 photo-less buildings",
+  "pr": "8"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Data collection: batch 1 (210 new buildings), quality score, Pritzker count, upright photos",
+  "pr": "7"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Game",
+  "what": "Apply the v6 look: white, sunset red, rounded corners, red hover",
+  "pr": "5"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Remove wrong \"Go deeper\" links; make updates reach visitors at once",
+  "pr": "6"
+ },
+ {
+  "date": "2026-10-11",
+  "workstream": "Data collection",
+  "what": "Go deeper: direct links for all 926 buildings",
+  "pr": "4"
+ },
+ {
+  "date": "2026-10-10",
+  "workstream": "Data collection",
+  "what": "Grow the wall from 100 to 926 buildings",
+  "pr": "3"
+ },
+ {
+  "date": "2026-10-09",
+  "workstream": "Data collection",
+  "what": "Student 100: galleries, ideas, scroll-down wall and direct links",
+  "pr": "2"
+ },
+ {
+  "date": "2026-10-09",
+  "workstream": "Data collection",
+  "what": "Launch Discover Architecture: wall of 100 buildings, building pages, GitHub Pages deploy",
+  "pr": "1"
+ }
+]

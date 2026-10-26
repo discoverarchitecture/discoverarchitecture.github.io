@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "domkyrkoforum",
+  "qid": "Q10475814",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2012 (Swedish lead) names the architect; the lead gives no completion year, so year is null.",
+  "name": "Domkyrkoforum",
+  "by": "Carmen Izquierdo",
+  "city": "Lund",
+  "cc": "SE",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Landscape"
+  ],
+  "features": "Visitors' centre for Lund Cathedral, designed by Carmen Izquierdo; won the Kasper Salin Prize in 2012.",
+  "commons_category": "Category:Domkyrkoforum",
+  "coords": [
+   55.70347,
+   13.19314
+  ],
+  "photos": [
+   {
+    "file": "File:Domkyrkoforum Konsertsalen 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:20201101 Lunds domkyrka och Domkyrkoforum 1043 (50558788551).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:20210916 Domkyrkoforum Lund 02 (51486064990).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gavle-krematorium",
+  "qid": "Q10512452",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1965; the Swedish lead says it opened in 1960 and that ELLT drew it; a prize-winning woodland chapel.",
+  "name": "Gävle krematorium",
+  "by": "ELLT arkitektkontor, Gunnar Landberg, Bengt Larsson, Alvar Törneman, Alf Engström",
+  "city": "Gävle",
+  "cc": "SE",
+  "year": 1960,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Timber",
+   "Exposed concrete"
+  ],
+  "features": "Chapel and crematorium in a pine forest, with concrete walls and pine ceilings; shared the 1965 Kasper Salin Prize.",
+  "commons_category": "Category:Gävle krematorium",
+  "coords": [
+   60.6733,
+   17.0954
+  ],
+  "photos": [
+   {
+    "file": "File:Kapell och krematorium, Skogskyrkogården, Gävle vy 5.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gävle kapellkrematorium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kiruna-former-city-hall",
+  "qid": "Q10545812",
+  "status": "skip",
+  "why": "The Swedish lead says the building was demolished in spring 2019, so it is not standing."
+ },
+ {
+  "id": "medborgarhuset-orebro",
+  "qid": "Q10579082",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1967; Swedish lead gives the 1957–1965 build and the 1965 jubilee opening. Civic work with a prize.",
+  "name": "Medborgarhuset, Örebro",
+  "by": "Erik and Tore Ahlsén",
+  "city": "Örebro",
+  "cc": "SE",
+  "year": 1965,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Free plan"
+  ],
+  "features": "Community centre built 1957–1965 for Örebro's 700th anniversary, with a theatre and congress hall; Kasper Salin Prize 1967.",
+  "commons_category": "Category:Medborgarhuset, Örebro",
+  "coords": [
+   59.26814,
+   15.20744
+  ],
+  "photos": [
+   {
+    "file": "File:Medborgarhuset May 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Medborgarhuset orebro.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Örebro på cykel (59).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "televerkets-forvaltningsbyggnader-farsta",
+  "qid": "Q10692444",
+  "status": "photo",
+  "why": "Kasper Salin Prize for the Mårbackagatan blocks finished 1969 (Swedish lead); the year is that completion date, the complex ran 1962–1972.",
+  "name": "Televerkets förvaltningsbyggnader Farsta",
+  "by": "Bengt Hidemark, Gösta Danielson",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1969,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Incremental",
+   "Cluster",
+   "Modular"
+  ],
+  "features": "Former telecom headquarters built in stages, 1962–1972; its 1969 Mårbackagatan blocks won the Kasper Salin Prize.",
+  "commons_category": "Category:Televerkets förvaltningsbyggnader Farsta",
+  "coords": [
+   59.24528,
+   18.10222
+  ],
+  "photos": [
+   {
+    "file": "File:Telia Farsta 2012a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Telia Farsta 2012b.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "vildanden",
+  "qid": "Q10715358",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1968; the lead gives the 1966 build year and names Bengt Edman.",
+  "name": "Vildanden",
+  "by": "Bengt Edman",
+  "city": "Lund",
+  "cc": "SE",
+  "year": 1966,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Student housing in west Lund, designed by Bengt Edman in 1966; won the Kasper Salin Prize in 1968.",
+  "commons_category": "Category:Vildanden, Lund",
+  "coords": [
+   55.71027,
+   13.16871
+  ],
+  "photos": [
+   {
+    "file": "File:Vildanden 2018-09-02 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lund 2018-04-17 05.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Lund 2018-04-17 07.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ahlens-city",
+  "qid": "Q10726246",
+  "status": "photo",
+  "why": "Kasper Salin Prize 1966; the lead says the building opened 9 September 1964 and has high cultural-historical value. Store, kept for the prize and that value.",
+  "name": "Åhléns City",
+  "by": "Backström & Reinius, Sven Backström, Leif Reinius",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1964,
+  "type": "Public space",
+  "movement": "Modernism",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Cluster"
+  ],
+  "features": "Stockholm department store that fills a whole city block; opened in 1964 and won the Kasper Salin Prize in 1966.",
+  "commons_category": "Category:Åhléns City",
+  "coords": [
+   59.33222,
+   18.06139
+  ],
+  "photos": [
+   {
+    "file": "File:Åhléns city 2017.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Åhléns City mot Mäster Samuelsgatan, dec 2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:At Stockholm 2019 362.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palau-municipal-desports-de-badalona",
+  "qid": "Q1412278",
+  "status": "unsure",
+  "why": "Prize-winning arena (EU Prize for Contemporary Architecture 1992; Mies van der Rohe Award). The photos show the interior, fans, banners, a sign or a distant aerial, not the building as the subject.",
+  "note": "no main photo"
+ },
+ {
+  "id": "suita-city-football-stadium",
+  "qid": "Q16714657",
+  "status": "photo",
+  "why": "Two Japanese prizes (AIJ and BCS) count as the design reason for an ordinary stadium; the lead gives no completion year.",
+  "name": "Suita City Football Stadium",
+  "by": "Takenaka Corporation",
+  "city": "Suita",
+  "cc": "JP",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Gamba Osaka stadium that won the Architectural Institute of Japan Prize and the BCS Prize.",
+  "commons_category": "Category:Suita City Football Stadium",
+  "coords": [
+   34.80253,
+   135.53828
+  ],
+  "photos": [
+   {
+    "file": "File:Suita City Football Stadium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "ruhrfestspielhaus",
+  "qid": "Q1768674",
+  "status": "photo",
+  "why": "German Architecture Prize 2001 (German lead); the lead gives the 1960–1965 build, so 1965 is the end of construction. Architects from Wikidata.",
+  "name": "Ruhrfestspielhaus",
+  "by": "Felix Ganteführer, Auer+Weber+Assoziierte",
+  "city": "Recklinghausen",
+  "cc": "DE",
+  "year": 1965,
+  "type": "Culture & sport",
+  "movement": "Modernism",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Community"
+  ],
+  "features": "Event building built 1960–1965 in Recklinghausen, main venue of the annual Ruhrfestspiele; won the German Architecture Prize in 2001.",
+  "commons_category": "Category:Ruhrfestspielhaus Recklinghausen",
+  "coords": [
+   51.6209,
+   7.18532
+  ],
+  "photos": [
+   {
+    "file": "File:Ruhrfestspielhaus Recklinghausen.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ruhrfestspielhaus.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "studio-1",
+  "qid": "Q45308851",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2016 with a jury quote (Swedish lead); finished June 2016 per the lead.",
+  "name": "Studio 1",
+  "by": "Johannes Norlander",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 2016,
+  "type": "Housing",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Two four-storey blocks in black-burnt Danish brick, finished June 2016 and winning the Kasper Salin Prize that year.",
+  "commons_category": "Category:Studio 1",
+  "coords": [
+   57.69931,
+   12.01722
+  ],
+  "photos": [
+   {
+    "file": "File:Studio 1 Orgryte Torp 04.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 02.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Studio 1 Orgryte Torp 03.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "merkurhuset",
+  "qid": "Q49098538",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2022 is for the 2019–2022 extension by Bornstein Lyckefors (named in the Swedish lead, not in prep); by keeps the original architect Ernst Krüger.",
+  "name": "Merkurhuset",
+  "by": "Ernst Krüger",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 1899,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Adaptive reuse",
+   "Facade as skin",
+   "Incremental"
+  ],
+  "features": "The oldest surviving house on Gothenburg's Skeppsbron, built 1898–99; its 2019–2022 extension won the 2022 Kasper Salin Prize.",
+  "commons_category": "Category:Merkurhuset",
+  "coords": [
+   57.70361,
+   11.95472
+  ],
+  "photos": [
+   {
+    "file": "File:Merkurhuset September 2019 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Merkurhuset July 2025 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Merkurhuset - tillbyggnad 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "condominium-1",
+  "qid": "Q5159315",
+  "status": "photo",
+  "why": "AIA Twenty-five Year Award; the lead names the MLTW partners, the first Sea Ranch unit, and says it is among the most significant 1960s designs in California.",
+  "name": "Condominium 1",
+  "by": "Charles Moore, Donlyn Lyndon, William Turnbull, Richard Whitaker, Lawrence Halprin",
+  "city": "Sea Ranch",
+  "cc": "US",
+  "year": 1965,
+  "type": "House",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Community"
+  ],
+  "features": "Timber-framed first unit of the Sea Ranch coast development, designed by MLTW in 1963–64 and built in 1965.",
+  "commons_category": null,
+  "coords": [
+   38.67917,
+   -123.42778
+  ],
+  "photos": [
+   {
+    "file": "File:Condominium 1, 110-128 Sea Walk Dr., Sea Ranch, CA 7-5-2010 7-07-18 PM.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stade-sebastien-charlety",
+  "qid": "Q541391",
+  "status": "photo",
+  "why": "Mies van der Rohe Award and Équerre d'argent; the lead names no architect or year, so Wikidata's architect and a null year are used. Owner may check the renovation.",
+  "name": "Stade Sébastien Charléty",
+  "by": "Bernard Zehrfuss",
+  "city": "Paris",
+  "cc": "FR",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "Paris multi-purpose stadium with a 20,000-seat capacity; won the Mies van der Rohe Award and the Équerre d'argent.",
+  "commons_category": "Category:Stade Charléty",
+  "coords": [
+   48.81716,
+   2.34511
+  ],
+  "photos": [
+   {
+    "file": "File:Paris Stade Sébastien Charléty.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:Stade Charléty - Paris XIII (FR75) - 2026-06-13 - 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nils-ericson-terminal",
+  "qid": "Q7037260",
+  "status": "unsure",
+  "why": "Prize-winning bus terminal (Kasper Salin Prize 1996), architect Niels Torp per Wikidata. Every photo is an aerial or distant view with the city around it, so no main photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "allhuset-stockholms-universitet",
+  "qid": "Q10405629",
+  "status": "photo",
+  "why": "Kasper Salin Prize (1980 per the Swedish lead); the lead says it was built 1979–1981 and opened in 1981.",
+  "name": "Allhuset, Stockholms universitet",
+  "by": "Ralph Erskine",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1981,
+  "type": "Education",
+  "movement": "Late modernism",
+  "concepts": [
+   "Community",
+   "Structure as expression",
+   "Timber"
+  ],
+  "features": "Student services building by Ralph Erskine, designed with its student users; a Kasper Salin Prize winner.",
+  "commons_category": "Category:Allhuset, Stockholms universitet",
+  "coords": [
+   59.36367,
+   18.05799
+  ],
+  "photos": [
+   {
+    "file": "File:Allhuset Freskati 2010f.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Allhuset Freskati 2010c.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Allhuset Freskati 2010a.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chalmers-karhus",
+  "qid": "Q10448217",
+  "status": "photo",
+  "why": "Kasper Salin Prize 2001; the Swedish lead gives the 2001 completion and the building's facilities.",
+  "name": "Chalmers kårhus",
+  "by": "Gert Wingårdh",
+  "city": "Gothenburg",
+  "cc": "SE",
+  "year": 2001,
+  "type": "Education",
+  "movement": "Contemporary",
+  "concepts": [
+   "Brick",
+   "Community",
+   "Public space"
+  ],
+  "features": "Student union building for Chalmers, with a pool, bookshop and large hall; won the Kasper Salin Prize in 2001.",
+  "commons_category": "Category:Chalmers kårhus",
+  "coords": [
+   57.68917,
+   11.97389
+  ],
+  "photos": [
+   {
+    "file": "File:090627 Chalmers kårhus balkong.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Samhällsbyggnad Chalmers, S4024355.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chalmers kårhus.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "new-national-theatre-tokyo",
+  "qid": "Q1056064",
+  "status": "photo",
+  "why": "AIJ Prize; the lead says the theatre has staged productions since 1997 and is praised for its architecture (year read as its opening).",
+  "name": "New National Theatre Tokyo",
+  "by": "Takahiko Yanagisawa",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1997,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Steel & glass",
+   "Public space",
+   "Structure as expression"
+  ],
+  "features": "Japan's national performing arts centre, praised for its architecture; won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:New National Theatre, Tokyo",
+  "coords": [
+   35.6825,
+   139.68556
+  ],
+  "photos": [
+   {
+    "file": "File:New National Theatre, Tokyo 2010.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:New National Theatre 201904a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rudolf-steinerseminariet",
+  "qid": "Q10657621",
+  "status": "photo",
+  "why": "Kasper Salin Prize (in prep); the Swedish lead describes a very distinctive organic architecture by Erik Asmussen; the lead gives 1968–1992 as a span, so year is null.",
+  "name": "Rudolf Steinerseminariet",
+  "by": "Erik Asmussen",
+  "city": "Järna",
+  "cc": "SE",
+  "year": null,
+  "type": "Education",
+  "movement": "Expressionism",
+  "concepts": [
+   "Colour",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "Anthroposophic centre of many buildings from 1968 to 1992, with organic forms shaped by ideas on light, colour and nature.",
+  "commons_category": "Category:Rudolf Steinerseminariet",
+  "coords": [
+   59.06667,
+   17.61667
+  ],
+  "photos": [
+   {
+    "file": "File:Kulturhuset i Ytterjärna Södertälje.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rudolf Steinerseminariet, Järna, 2019a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kulturcentrum, Järna, 2019a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sainsburys-canterbury",
+  "qid": "Q106653436",
+  "status": "skip",
+  "why": "Lead is empty and there are no photos."
+ },
+ {
+  "id": "citadelle-of-quebec",
+  "qid": "Q1093313",
+  "status": "unsure",
+  "why": "Governor General's Medal in Architecture. The lead covers a fortress and its history; the photos show guards, cannons and walls, not the building as the subject.",
+  "note": "no main photo"
+ },
+ {
+  "id": "ntt-hibiya-building",
+  "qid": "Q11236139",
+  "status": "skip",
+  "why": "The Japanese lead is in the past tense: the building was closed for redevelopment, so it is not standing."
+ },
+ {
+  "id": "toshima-eco-musee-town",
+  "qid": "Q11273170",
+  "status": "photo",
+  "why": "The Japanese lead says it is the first such composite building in Japan, a design reason; the lead gives no year, so year is null.",
+  "name": "Toshima Eco-Musee Town",
+  "by": "Nihon Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Civic",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Cluster"
+  ],
+  "features": "Japan's first building to combine a city hall with a high-rise condominium, in Minami-Ikebukuro; won the BCS Prize.",
+  "commons_category": "Category:Toshima Ecomusee Town",
+  "coords": [
+   35.72625,
+   139.71667
+  ],
+  "photos": [
+   {
+    "file": "File:Toshima Ecomusee Town 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:2024 Toshima Ecomusee Town.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Toshima Ecomusee Town east side 2026-04-19.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nbf-osaki-bldg",
+  "qid": "Q11315184",
+  "status": "photo",
+  "why": "AIJ Prize 2014 (Japanese lead); the lead gives no completion year, so year is null. Only one photo.",
+  "name": "NBF Osaki Bldg",
+  "by": "Nikken Sekkei",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Cluster"
+  ],
+  "features": "High-rise office building in Osaki, formerly Sony City Osaki; won the Architectural Institute of Japan Prize in 2014.",
+  "commons_category": null,
+  "coords": [
+   35.61727,
+   139.7284
+  ],
+  "photos": [
+   {
+    "file": "File:Nbf osaki building 2014.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "tv-tokyo-tennozu-studio",
+  "qid": "Q11319698",
+  "status": "photo",
+  "why": "BCS Prize (42nd, per the Japanese lead); a TV studio, kept for the prize. Year null (not in the lead).",
+  "name": "TV Tokyo Tennozu Studio",
+  "by": "Shimizu Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Workplace",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Sculptural form"
+  ],
+  "features": "High-definition television studio in Higashi-Shinagawa, known as Tennozu Studio; won the BCS Prize.",
+  "commons_category": "Category:TV Tokyo Tennozu Studio",
+  "coords": [
+   35.62103,
+   139.74642
+  ],
+  "photos": [
+   {
+    "file": "File:TV Tokyo Tennozu Studio 2009-06.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:TV Tokyo Tennozu Studio 191018a.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "nadya-park",
+  "qid": "Q11323905",
+  "status": "photo",
+  "why": "BCS Prize (Japan) with a Japanese lead naming a composite commercial complex in Naka ward; a shopping centre kept for the prize.",
+  "name": "NADYA PARK",
+  "by": "Daiken Sekkei",
+  "city": "Nagoya",
+  "cc": "JP",
+  "year": null,
+  "type": "Public space",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "Mixed-use shopping complex in Nagoya's Naka ward, which won the BCS Prize.",
+  "commons_category": "Category:Nadya Park",
+  "coords": [
+   35.16556,
+   136.90575
+  ],
+  "photos": [
+   {
+    "file": "File:Nadya park02.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Nadya Park (2017-09-30) 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Nadya Park (2017-09-30) 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hotel-pacific-tokyo",
+  "qid": "Q11337895",
+  "status": "unsure",
+  "why": "BCS Prize, Sakakura (1971). The Japanese lead says the hotel closed on 31 March 2021 for redevelopment, so it may no longer stand; check first.",
+  "note": "may be demolished; check it still stands"
+ },
+ {
+  "id": "shinjuku-center-building",
+  "qid": "Q1134395",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives 223 m, 54 floors and the 31 October 1979 opening. Only one photo, a clear exterior.",
+  "name": "Shinjuku Center Building",
+  "by": "Taisei Corporation",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 1979,
+  "type": "Office & tower",
+  "movement": "Late modernism",
+  "concepts": [
+   "Steel & glass",
+   "Facade as skin",
+   "Public space"
+  ],
+  "features": "54-storey office tower in Shinjuku, 223 metres high, opened in 1979; won the BCS Prize.",
+  "commons_category": "Category:Shinjuku Center Building",
+  "coords": [
+   35.69167,
+   139.69556
+  ],
+  "photos": [
+   {
+    "file": "File:Shinjuku-Center-Building-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "marunouchi-park-building",
+  "qid": "Q11367941",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives completion on 30 April 2009 and 170 m height. Office tower kept for the prize.",
+  "name": "Marunouchi Park Building",
+  "by": "Mitsubishi Jisho Design",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": 2009,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Public space"
+  ],
+  "features": "170-metre office tower completed in April 2009 that houses Mitsubishi Corporation's head office; won the BCS Prize.",
+  "commons_category": "Category:Marunouchi Park Building",
+  "coords": [
+   35.67898,
+   139.76306
+  ],
+  "photos": [
+   {
+    "file": "File:Marunouchi Park Building 2012.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marunouchi Park Building.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Marunouchi Park Building 2016.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kurashiki-kokusai-hotel",
+  "qid": "Q11386688",
+  "status": "photo",
+  "why": "AIJ Prize; the Japanese lead is one line with no design detail, so the feature is kept to the place and prize. Short lead kept for the prize.",
+  "name": "Kurashiki Kokusai Hotel",
+  "by": "Shizutarō Urabe",
+  "city": "Kurashiki",
+  "cc": "JP",
+  "year": null,
+  "type": "Hospitality",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Landscape"
+  ],
+  "features": "Hotel in Kurashiki, Okayama Prefecture, that won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Kurashiki Kokusai Hotel",
+  "coords": [
+   34.59621,
+   133.76976
+  ],
+  "photos": [
+   {
+    "file": "File:Kurashiki Kokusai Hotel.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kurashiki Kokusai Hotel, Chuo - panoramio (2).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kurashiki Kokusai Hotel, Chuo - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hyogo-performing-arts-center",
+  "qid": "Q11393100",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives the 2005 opening and Nikken Sekkei. Main photo is a daylight exterior (the night shot was not used).",
+  "name": "Hyogo Performing Arts Center",
+  "by": "Nikken Sekkei",
+  "city": "Nishinomiya",
+  "cc": "JP",
+  "year": 2005,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Performing arts centre opened in 2005, ten years after the Great Hanshin earthquake; won the BCS Prize.",
+  "commons_category": "Category:Hyogo Performing Arts Center",
+  "coords": [
+   34.7436,
+   135.356
+  ],
+  "photos": [
+   {
+    "file": "File:Hyogo Performing Arts Center01n3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Hyogo Performing Arts Center02s3s3200.jpg",
+    "license": "CC BY 2.5",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "hokkaido-government-main-building",
+  "qid": "Q11402733",
+  "status": "photo",
+  "why": "BCS Prize; the Japanese lead is one line and names no design reason, kept for the prize. Only the main building photo is used.",
+  "name": "Hokkaido Government Main Building",
+  "by": "Kume Sekkei",
+  "city": "Sapporo",
+  "cc": "JP",
+  "year": null,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Modular",
+   "Public space"
+  ],
+  "features": "Main office of the Hokkaido government in Sapporo; won the BCS Prize.",
+  "commons_category": "Category:Hokkaido Government Office",
+  "coords": [
+   43.06417,
+   141.34694
+  ],
+  "photos": [
+   {
+    "file": "File:Hokkaido-Govt-Main-Bldg-01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chiba-prefectural-cultural-hall",
+  "qid": "Q11406178",
+  "status": "unsure",
+  "why": "Architectural Institute of Japan Prize, Masato Otaka (1967). The Japanese lead is one line naming only a cultural facility, and there is no photo.",
+  "note": "no main photo"
+ },
+ {
+  "id": "koga-history-museum",
+  "qid": "Q11411385",
+  "status": "photo",
+  "why": "AIJ Prize 1992 (Japanese lead); the lead gives the 1990 opening and the castle site.",
+  "name": "Koga History Museum",
+  "by": "Keiji Yoshida",
+  "city": "Koga",
+  "cc": "JP",
+  "year": 1990,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Landscape",
+   "Public space"
+  ],
+  "features": "Museum on the former Suwa enclosure of Koga Castle, designed by Keiji Yoshida; won a 1992 architecture prize.",
+  "commons_category": "Category:Koga History Museum",
+  "coords": [
+   36.19142,
+   139.70126
+  ],
+  "photos": [
+   {
+    "file": "File:Koga History Museum 01.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Koga History Museum 02.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kirara-genki-dome",
+  "qid": "Q11466574",
+  "status": "photo",
+  "why": "BCS Prize; the Japanese lead describes a dome-shaped indoor sports ground in the memorial park. Year null (not in the lead).",
+  "name": "Kirara Genki Dome",
+  "by": "Nihon Sekkei",
+  "city": "Yamaguchi",
+  "cc": "JP",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Contemporary",
+  "concepts": [
+   "Sculptural form",
+   "Landscape",
+   "Community"
+  ],
+  "features": "Dome-shaped indoor sports ground in Kirara Expo Memorial Park, Yamaguchi; won the BCS Prize.",
+  "commons_category": "Category:Kirara Genki Dome",
+  "coords": [
+   34.00467,
+   131.37081
+  ],
+  "photos": [
+   {
+    "file": "File:Kirara Genki Dome from Moon Sea 20181014.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:きららドーム - panoramio.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yamaguchi Kirara EXPO Memorial Park.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "yokohama-stadium",
+  "qid": "Q1148681",
+  "status": "photo",
+  "why": "BCS Prize; the lead says it opened in 1978 and is the BayStars home ground.",
+  "name": "Yokohama Stadium",
+  "by": "Shimizu Corporation, Taisei Corporation",
+  "city": "Yokohama",
+  "cc": "JP",
+  "year": 1978,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Community",
+   "Public space",
+   "Landscape"
+  ],
+  "features": "Yokohama baseball stadium, home of the BayStars and nicknamed Hamastar, that won the BCS Prize.",
+  "commons_category": "Category:Yokohama Stadium",
+  "coords": [
+   35.44343,
+   139.6401
+  ],
+  "photos": [
+   {
+    "file": "File:Yokohama Stadium.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Yokohama Stadium, Baseball Stadium.jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sai-no-kuni-saitama-arts-theater",
+  "qid": "Q11487971",
+  "status": "photo",
+  "why": "AIJ Prize; the Japanese lead names the prefectural performing arts complex; the lead gives no year (finished before Saitama city was formed).",
+  "name": "Sai-no-Kuni Saitama Arts Theater",
+  "by": "Hisao Kōyama",
+  "city": "Saitama",
+  "cc": "JP",
+  "year": null,
+  "type": "Culture & sport",
+  "movement": "Postmodernism",
+  "concepts": [
+   "Sculptural form",
+   "Public space",
+   "Community"
+  ],
+  "features": "Saitama prefectural performing arts complex that won the Architectural Institute of Japan Prize.",
+  "commons_category": "Category:Sai-no-Kuni Saitama Arts Theater",
+  "coords": [
+   35.87722,
+   139.62189
+  ],
+  "photos": [
+   {
+    "file": "File:Sai-no-Kuni Saitama Arts Theater 01.JPG",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Japanese Sai-no-Kuni Saitama Arts Theater.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sai-no-Kuni Saitama Arts Theater 02.JPG",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "niigata-city-art-museum",
+  "qid": "Q11502938",
+  "status": "photo",
+  "why": "BCS Prize; the Japanese lead gives the former prison site; no year in the lead. Only one photo.",
+  "name": "Niigata City Art Museum",
+  "by": "Kunio Maekawa",
+  "city": "Niigata",
+  "cc": "JP",
+  "year": null,
+  "type": "Museum",
+  "movement": "Modernism",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Adaptive reuse"
+  ],
+  "features": "Niigata city art museum built on the former site of Niigata prison; won the BCS Prize.",
+  "commons_category": null,
+  "coords": [
+   37.92842,
+   139.04172
+  ],
+  "photos": [
+   {
+    "file": "File:Niigata City Art Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "otemachi-tower",
+  "qid": "Q11524377",
+  "status": "photo",
+  "why": "BCS Prize; the lead covers the tower, shops and hotel; no completion year in the lead, so year is null.",
+  "name": "Otemachi Tower",
+  "by": "Kohn Pedersen Fox",
+  "city": "Tokyo",
+  "cc": "JP",
+  "year": null,
+  "type": "Office & tower",
+  "movement": "Contemporary",
+  "concepts": [
+   "Public space",
+   "Facade as skin",
+   "Steel & glass"
+  ],
+  "features": "38-storey office tower, headquarters of Mizuho Bank, with shops, restaurants and a luxury hotel; won the BCS Prize.",
+  "commons_category": "Category:Ōtemachi Tower",
+  "coords": [
+   35.68561,
+   139.76528
+  ],
+  "photos": [
+   {
+    "file": "File:The Otemachi Tower.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Chiyoda Tokyo August 2014 03.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kurita-museum",
+  "qid": "Q11536081",
+  "status": "photo",
+  "why": "BCS Prize; the lead gives the 1975 opening and the porcelain collection; the Japanese lead names no architect, so Wikidata's is used.",
+  "name": "Kurita Museum",
+  "by": "Kajima Corporation",
+  "city": "Ashikaga",
+  "cc": "JP",
+  "year": 1975,
+  "type": "Museum",
+  "movement": "Regionalism",
+  "concepts": [
+   "Courtyard",
+   "Landscape",
+   "Stone"
+  ],
+  "features": "Museum of Imari and Nabeshima porcelain, opened in Ashikaga in 1975; won the BCS Prize.",
+  "commons_category": "Category:Kurita Museum",
+  "coords": [
+   36.31668,
+   139.52163
+  ],
+  "photos": [
+   {
+    "file": "File:Ashikaga Kurita Museum Main Building 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ashikaga Kurita Museum Ceramic House 2.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ashikaga Kurita Museum Archives 1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ }
+]

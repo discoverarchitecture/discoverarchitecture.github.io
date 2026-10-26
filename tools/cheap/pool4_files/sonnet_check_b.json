@@ -1,0 +1,790 @@
+{
+ "keep_ok": [
+  "kenwood-house",
+  "london-coliseum",
+  "copenhagen-city-hall",
+  "waldemarsudde",
+  "bolshoy-dom",
+  "rosenbad",
+  "leighton-house",
+  "palau-nacional",
+  "gothenburg-city-theatre",
+  "ethnographic-museum-zagreb",
+  "perelman-performing-arts-center",
+  "russian-army-theatre",
+  "musee-d-art-contemporain-du-val-de-marne",
+  "estonia-theatre",
+  "tsiolkovsky-state-museum-of-the-history-of-cosmonautics"
+ ],
+ "keep_fix": [
+  {
+   "id": "bolshoy-dom",
+   "field": "by",
+   "haiku": "Noi Trotsky, Alexander Gegello, Andrei Ol",
+   "should_be": "Noi Trotsky, Alexander Gegello, Andrey Ol",
+   "why": "minor: the lead spells the third architect Andrey Ol; Wikidata's 'Andrei Ol' is the cut-off form. Facts otherwise fine (built 1931-32, late Constructivist)."
+  },
+  {
+   "id": "palau-nacional",
+   "field": "year",
+   "haiku": null,
+   "should_be": 1929,
+   "why": "optional: the lead calls it the main site of the 1929 International Exhibition, which implies a 1929 completion, but gives no explicit year; prep's 1926 is a construction start. Null is also defensible."
+  },
+  {
+   "id": "perelman-performing-arts-center",
+   "field": "by",
+   "haiku": "Joshua Ramus",
+   "should_be": "Joshua Ramus, Davis Brody Bond",
+   "why": "the lead names Davis Brody Bond as co-architects chosen with Ramus in 2015; the wall's Wyly Theatre spells him 'Joshua Prince-Ramus', so align the name when merging."
+  },
+  {
+   "id": "tsiolkovsky-state-museum-of-the-history-of-cosmonautics",
+   "field": "by",
+   "haiku": "Yevgeny Kireyev",
+   "should_be": "Boris Barkhin, Yevgeny Kireyev",
+   "why": "optional: the lead names a team (Barkhin, Kireev, Orlova, Strogy, Fomin); Wikidata lists only Kireyev. Haiku's value is acceptable under the Wikidata rule."
+  }
+ ],
+ "keep_wrong": [],
+ "main_photo_wrong": [
+  {
+   "id": "london-coliseum",
+   "better_file_or_null": "File:The Coliseum and the Chandos, City of Westminster (02).jpg",
+   "why": "weak: the main (London Coliseum.jpg) is a tall crop of the tower and part of the front. The Westminster street view shows the corner front and tower together in clear daylight."
+  },
+  {
+   "id": "waldemarsudde",
+   "better_file_or_null": "File:Waldemarsudde - 20260417 - 14.jpg",
+   "why": "weak: in the main (April 2006) a bare tree and a bronze statue cut across the mansion. The 2026 photo shows the whole mansion from the water, clear and in daylight."
+  },
+  {
+   "id": "perelman-performing-arts-center",
+   "better_file_or_null": "File:Perelman-Performing-Arts-Center-Street-03.jpg",
+   "why": "minor: the main (October 2022) shows window-cleaning rigs and scaffolding on the top edge. Street-03 shows the whole cube cleanly against a blue sky."
+  },
+  {
+   "id": "estonia-theatre",
+   "better_file_or_null": null,
+   "why": "all three chosen photos (and every exterior in prep) are early-20th-century black-and-white views, and the theatre was badly damaged in 1944 and rebuilt, so they may not show the building as it stands today; the rest are foyer interiors. Keep only if a current colour exterior is found. If kept as is, put AM N06025 first: it is the clearest whole-building view."
+  }
+ ],
+ "rescued": [
+  {
+   "id": "museum-yamato-bunkakan",
+   "why": "Haiku skipped this; Strong rescue. Wikidata architect Isoya Yoshida is right (lead names nobody, nothing contradicts). Year 1960 is the lead's establishment year, not Wikidata's 1946. Best photo is p4 (idx 4, corner view on pilotis); main (idx 0) is a flat side wall. Yoshida is not yet on the wall.",
+   "entry": {
+    "id": "museum-yamato-bunkakan",
+    "qid": "Q3329639",
+    "status": "photo",
+    "why": "Strong rescue. Wikidata architect Isoya Yoshida is right (lead names nobody, nothing contradicts). Year 1960 is the lead's establishment year, not Wikidata's 1946. Best photo is p4 (idx 4, corner view on pilotis); main (idx 0) is a flat side wall. Yoshida is not yet on the wall.",
+    "name": "Museum Yamato Bunkakan",
+    "by": "Isoya Yoshida",
+    "city": "Nara",
+    "cc": "JP",
+    "year": 1960,
+    "type": "Museum",
+    "movement": "Modernism",
+    "concepts": [
+     "Pilotis",
+     "Light & shadow",
+     "Facade as skin"
+    ],
+    "features": "Museum of Asian art in Nara, established in 1960 for the private collection of the Kintetsu railway company.",
+    "commons_category": "Category:Yamato Bunka Kan",
+    "coords": [
+     34.69528,
+     135.75667
+    ],
+    "photos": [
+     {
+      "file": "File:Yamato Bunkakan02nt3200.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Yamato Bunkakan01s4592.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Yamato Bunkakan05n4592.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "urasoe-art-museum",
+   "why": "Haiku skipped this; Rescue. Shozo Uchii per Wikidata, nothing in the lead contradicts. Main photo shows the whole clustered-roof building clearly in daylight. Year 1990 from the lead. Lead gives no design reason, so features is thin; the photos (roof towers, stair shaft, skylight) carry the case. Moderate confidence.",
+   "entry": {
+    "id": "urasoe-art-museum",
+    "qid": "Q11558303",
+    "status": "photo",
+    "why": "Rescue. Shozo Uchii per Wikidata, nothing in the lead contradicts. Main photo shows the whole clustered-roof building clearly in daylight. Year 1990 from the lead. Lead gives no design reason, so features is thin; the photos (roof towers, stair shaft, skylight) carry the case. Moderate confidence.",
+    "name": "Urasoe Art Museum",
+    "by": "Shozo Uchii",
+    "city": "Urasoe",
+    "cc": "JP",
+    "year": 1990,
+    "type": "Museum",
+    "movement": "Regionalism",
+    "concepts": [
+     "Cluster",
+     "Sculptural form",
+     "Light from above"
+    ],
+    "features": "Opened in 1990 in Urasoe, Okinawa, with a collection focused on Ryukyu lacquerware.",
+    "commons_category": "Category:Urasoe Art Museum",
+    "coords": [
+     26.24992,
+     127.71947
+    ],
+    "photos": [
+     {
+      "file": "File:Urasoe Art Museum04s4s2940.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Urasoe Art Museum01n3104.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Urasoe Art Museum07n3104.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Urasoe Art Museum06n3104.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "vatroslav-lisinski-concert-hall",
+   "why": "Haiku skipped this; Rescue. Marijan Haberle per Wikidata (built 1973, no conflict). Clear whole-building exterior in daylight (main). Year 1973 comes from prep only; the lead gives none. Late-modernist Yugoslav concert hall, good precedent.",
+   "entry": {
+    "id": "vatroslav-lisinski-concert-hall",
+    "qid": "Q1267773",
+    "status": "photo",
+    "why": "Rescue. Marijan Haberle per Wikidata (built 1973, no conflict). Clear whole-building exterior in daylight (main). Year 1973 comes from prep only; the lead gives none. Late-modernist Yugoslav concert hall, good precedent.",
+    "name": "Vatroslav Lisinski Concert Hall",
+    "by": "Marijan Haberle",
+    "city": "Zagreb",
+    "cc": "HR",
+    "year": 1973,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+     "Steel & glass",
+     "Structure as expression",
+     "Public space"
+    ],
+    "features": "Concert hall and convention centre with 1,841 and 305 seat halls and a lobby that doubles as an exhibition area.",
+    "commons_category": "Category:Vatroslav Lisinski Concert Hall",
+    "coords": [
+     45.80111,
+     15.98028
+    ],
+    "photos": [
+     {
+      "file": "File:Koncertna dvorana Vatroslav Lisinski.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Koncertna dvorana-Zagreb.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Vatroslav Lisinski Concert Hall.jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "janacek-theatre",
+   "why": "Haiku skipped this; Borderline rescue. Architects from Wikidata; the lead says it opened in October 1965 and gives the park setting. Clear daylight facade in main. Include only if the wall wants more 1960s monumental modernism.",
+   "entry": {
+    "id": "janacek-theatre",
+    "qid": "Q3511873",
+    "status": "photo",
+    "why": "Borderline rescue. Architects from Wikidata; the lead says it opened in October 1965 and gives the park setting. Clear daylight facade in main. Include only if the wall wants more 1960s monumental modernism.",
+    "name": "Janáček Theatre",
+    "by": "Jan Víšek, Vilém Zavřel, Libuše Žáčková-Pokorová, Otakar Oplatek",
+    "city": "Brno",
+    "cc": "CZ",
+    "year": 1965,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+     "Monumentality",
+     "Public space",
+     "Landscape"
+    ],
+    "features": "Largest of the National Theatre Brno's three theatres, built from 1960, opened in 1965 and fronted by a landscaped green.",
+    "commons_category": "Category:Janáčkovo divadlo",
+    "coords": [
+     49.19806,
+     16.61083
+    ],
+    "photos": [
+     {
+      "file": "File:Brno, Janáčkovo divadlo, park před divadlem (6913).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Janackovo Divadlo Brno 2009.JPG",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Janáčkovo divadlo - park 03.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "house-on-the-embankment",
+   "why": "Haiku marked this unsure; Rescue. Boris Iofan per Wikidata; the lead calls it constructivist but names nobody, no date conflict (Iofan was active). Year 1931 is prep only. Ordinary type (housing) is excused by the constructivist landmark status. Main is a daylight view across the river with reflection; idx 2 is a closer view.",
+   "entry": {
+    "id": "house-on-the-embankment",
+    "qid": "Q1504212",
+    "status": "photo",
+    "why": "Rescue. Boris Iofan per Wikidata; the lead calls it constructivist but names nobody, no date conflict (Iofan was active). Year 1931 is prep only. Ordinary type (housing) is excused by the constructivist landmark status. Main is a daylight view across the river with reflection; idx 2 is a closer view.",
+    "name": "House on the Embankment",
+    "by": "Boris Iofan",
+    "city": "Moscow",
+    "cc": "RU",
+    "year": 1931,
+    "type": "Housing",
+    "movement": "Modernism",
+    "concepts": [
+     "Monumentality",
+     "Courtyard",
+     "Facade as skin"
+    ],
+    "features": "A block-wide constructivist apartment building on the Moskva River, Moscow's tallest residential building until 1952.",
+    "commons_category": "Category:House on Embankment",
+    "coords": [
+     55.74432,
+     37.61263
+    ],
+    "photos": [
+     {
+      "file": "File:Estrade Theatre (2023-03-27) 03.jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Комплекс «Дома правительства».jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Moscow. Moskva river. House on the Embankment P5162717 2600.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "aland-maritime-museum",
+   "why": "Haiku marked this unsure; Borderline rescue. The lead gives the design reason (ship's prow). Jonas Cedercreutz per Wikidata, plausible. Year null: prep's 1949 is unverified and the lead gives none. Photos are good, rated Q, daylight.",
+   "entry": {
+    "id": "aland-maritime-museum",
+    "qid": "Q4357413",
+    "status": "photo",
+    "why": "Borderline rescue. The lead gives the design reason (ship's prow). Jonas Cedercreutz per Wikidata, plausible. Year null: prep's 1949 is unverified and the lead gives none. Photos are good, rated Q, daylight.",
+    "name": "Åland Maritime Museum",
+    "by": "Jonas Cedercreutz",
+    "city": "Mariehamn",
+    "cc": "FI",
+    "year": null,
+    "type": "Museum",
+    "movement": "Modernism",
+    "concepts": [
+     "Sculptural form",
+     "Water",
+     "Landscape"
+    ],
+    "features": "A museum built like a ship's prow cutting into the land, with the four-masted barque Pommern anchored behind.",
+    "commons_category": "Category:Åland Maritime Museum",
+    "coords": [
+     60.09694,
+     19.92639
+    ],
+    "photos": [
+     {
+      "file": "File:Åland Maritime Museum, 2019 (01).jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Ålands sjöfartsmuseum May 2016 06.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Ålands sjöfartsmuseum May 2016 04.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Ålands sjöfartsmuseum May 2016 08.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "de-doelen",
+   "why": "Haiku skipped this; Borderline rescue. Kraaijvanger per Wikidata. Year 1966 is the lead's rebuild year, not Wikidata's 1953. Daylight view of the whole grid facade in main. Rijksmonument status gives a design reason.",
+   "entry": {
+    "id": "de-doelen",
+    "qid": "Q2237396",
+    "status": "photo",
+    "why": "Borderline rescue. Kraaijvanger per Wikidata. Year 1966 is the lead's rebuild year, not Wikidata's 1953. Daylight view of the whole grid facade in main. Rijksmonument status gives a design reason.",
+    "name": "De Doelen",
+    "by": "Kraaijvanger, Rein Fledderus, Evert Kraaijvanger, Herman Kraaijvanger",
+    "city": "Rotterdam",
+    "cc": "NL",
+    "year": 1966,
+    "type": "Culture & sport",
+    "movement": "Late modernism",
+    "concepts": [
+     "Facade as skin",
+     "Public space",
+     "Structure as expression"
+    ],
+    "features": "Concert venue rebuilt in 1966 after the 1934 original was destroyed in 1940; a Rijksmonument since 2015.",
+    "commons_category": "Category:De Doelen Rotterdam",
+    "coords": [
+     51.92167,
+     4.47306
+    ],
+    "photos": [
+     {
+      "file": "File:Rotterdam de doelen.jpg",
+      "license": "CC BY 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:De Doelen Rotterdam I73515 - kopie.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:GraphyArchyPocket . Wikipedia 00068.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "palacio-de-congresos-madrid",
+   "why": "Haiku skipped this; Borderline rescue. Pablo Pintado per Wikidata, no conflict. Year 1970 from prep. The lead gives one clear design feature (Miró mosaic). Standing but unused since 2012. Main photo is a clean whole-building view.",
+   "entry": {
+    "id": "palacio-de-congresos-madrid",
+    "qid": "Q6057914",
+    "status": "photo",
+    "why": "Borderline rescue. Pablo Pintado per Wikidata, no conflict. Year 1970 from prep. The lead gives one clear design feature (Miró mosaic). Standing but unused since 2012. Main photo is a clean whole-building view.",
+    "name": "Palacio de Congresos de Madrid",
+    "by": "Pablo Pintado",
+    "city": "Madrid",
+    "cc": "ES",
+    "year": 1970,
+    "type": "Civic",
+    "movement": "Late modernism",
+    "concepts": [
+     "Facade as skin",
+     "Colour",
+     "Monumentality"
+    ],
+    "features": "A convention centre on the Paseo de la Castellana, its facade carrying a ceramic mosaic after Joan Miró.",
+    "commons_category": "Category:Palacio de Congresos de Madrid",
+    "coords": [
+     40.45289,
+     -3.69115
+    ],
+    "photos": [
+     {
+      "file": "File:Palacio de Congresos y Exposiciones (Madrid) 01.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Madrid - Palacio de Congresos (35260705873).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Madrid, palacio de congresos.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "museum-of-contemporary-art-zagreb",
+   "why": "Haiku marked this unsure; Strong rescue. Igor Franic per Wikidata is correct for the present building. Wikidata's 1954 is the museum's founding, not the building, and the lead gives no building date, so year is null (the building is a 2000s glass block; confirm the year). Main photo is a clear daylight exterior.",
+   "entry": {
+    "id": "museum-of-contemporary-art-zagreb",
+    "qid": "Q3503103",
+    "status": "photo",
+    "why": "Strong rescue. Igor Franic per Wikidata is correct for the present building. Wikidata's 1954 is the museum's founding, not the building, and the lead gives no building date, so year is null (the building is a 2000s glass block; confirm the year). Main photo is a clear daylight exterior.",
+    "name": "Museum of Contemporary Art, Zagreb",
+    "by": "Igor Franić",
+    "city": "Zagreb",
+    "cc": "HR",
+    "year": null,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Steel & glass",
+     "Pilotis",
+     "Light & shadow"
+    ],
+    "features": "Croatia's biggest and most modern museum, on Dubrovnik Avenue in Zagreb, devoted to contemporary art.",
+    "commons_category": "Category:Museum of Contemporary Art in Zagreb",
+    "coords": [
+     45.77881,
+     15.98186
+    ],
+    "photos": [
+     {
+      "file": "File:Msu-museum-contemporary-art-zagreb-2.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Msu-zagreb-entrance-hall.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Msu-zagreb-newtendencies.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "siida-museum",
+   "why": "Haiku skipped this; Rescue. Juhani Pallasmaa per Wikidata is right for the 1998 building; Wikidata's 1959 is wrong, the lead says it opened 1 April 1998. Weak point: the only exterior photo is a snowy entrance view with the SIIDA name on the glass and a few small figures; no better one in prep. Check before adding.",
+   "entry": {
+    "id": "siida-museum",
+    "qid": "Q946264",
+    "status": "photo",
+    "why": "Rescue. Juhani Pallasmaa per Wikidata is right for the 1998 building; Wikidata's 1959 is wrong, the lead says it opened 1 April 1998. Weak point: the only exterior photo is a snowy entrance view with the SIIDA name on the glass and a few small figures; no better one in prep. Check before adding.",
+    "name": "Siida",
+    "by": "Juhani Pallasmaa",
+    "city": "Inari",
+    "cc": "FI",
+    "year": 1998,
+    "type": "Museum",
+    "movement": "Regionalism",
+    "concepts": [
+     "Timber",
+     "Landscape",
+     "Climate response"
+    ],
+    "features": "Home to the Sámi Museum and Northern Lapland Nature Centre, on Lake Inari; opened in 1998.",
+    "commons_category": "Category:Siida",
+    "coords": [
+     68.91083,
+     27.01361
+    ],
+    "photos": [
+     {
+      "file": "File:SIIDA Inari, Suomi Finland 2013-03-10 001.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "jewish-museum-munich",
+   "why": "Haiku skipped this; Strong rescue. Wandel Lorch Götze Wach is the practice formerly Wandel Hoefer Lorch (the wall already has Ohel Jakob Synagogue under that name; align the by string). Year 2007 from the lead. Main is a clean wide daylight exterior.",
+   "entry": {
+    "id": "jewish-museum-munich",
+    "qid": "Q320903",
+    "status": "photo",
+    "why": "Strong rescue. Wandel Lorch Götze Wach is the practice formerly Wandel Hoefer Lorch (the wall already has Ohel Jakob Synagogue under that name; align the by string). Year 2007 from the lead. Main is a clean wide daylight exterior.",
+    "name": "Jewish Museum Munich",
+    "by": "Wandel Lorch Götze Wach",
+    "city": "Munich",
+    "cc": "DE",
+    "year": 2007,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Stone",
+     "Monumentality",
+     "Public space"
+    ],
+    "features": "Part of the Jewish Center on Sankt-Jakobs-Platz, between the Ohel Jakob synagogue and the community centre; built 2004 to 2007.",
+    "commons_category": "Category:Jewish Museum Munich",
+    "coords": [
+     48.13431,
+     11.57233
+    ],
+    "photos": [
+     {
+      "file": "File:München Jüdisches Zentrum und Jüdisches Museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Jüdisches Museum München 7437.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Chanukkia-st-jakobs-platz-2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "bush-house",
+   "why": "Haiku marked this unsure; Rescue. Harvey Wiley Corbett per Wikidata (the lead is cut before naming him, no conflict). Year 1935 from the lead. Photo order: idx 0 (portico, no Wikidata main) then idx 4. Office type is excused by landmark status; mark as Historic precedent.",
+   "entry": {
+    "id": "bush-house",
+    "qid": "Q852282",
+    "status": "photo",
+    "why": "Rescue. Harvey Wiley Corbett per Wikidata (the lead is cut before naming him, no conflict). Year 1935 from the lead. Photo order: idx 0 (portico, no Wikidata main) then idx 4. Office type is excused by landmark status; mark as Historic precedent.",
+    "name": "Bush House",
+    "by": "Harvey Wiley Corbett",
+    "city": "London",
+    "cc": "GB",
+    "year": 1935,
+    "type": "Office & tower",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Axis",
+     "Stone"
+    ],
+    "features": "Built 1925 to 1935 as a trade centre; by 1929 called the world's most expensive building.",
+    "commons_category": "Category:Bush House, London",
+    "coords": [
+     51.51288,
+     -0.1173
+    ],
+    "photos": [
+     {
+      "file": "File:Bush House, London 2024-09-04.jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Bush House, Aldwych, London.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "museum-of-the-republic-of-north-macedonia",
+   "why": "Haiku marked this unsure; Borderline rescue. Mimoza Nestorova-Tomic per Wikidata; the lead does not date the building (1924 is the founding of the archaeological museum) so year is null. Photos show a white sawtooth-roofed modernist block. Check the architect and date before adding.",
+   "entry": {
+    "id": "museum-of-the-republic-of-north-macedonia",
+    "qid": "Q3133557",
+    "status": "photo",
+    "why": "Borderline rescue. Mimoza Nestorova-Tomic per Wikidata; the lead does not date the building (1924 is the founding of the archaeological museum) so year is null. Photos show a white sawtooth-roofed modernist block. Check the architect and date before adding.",
+    "name": "Museum of the Republic of North Macedonia",
+    "by": "Mimoza Nestorova-Tomić",
+    "city": "Skopje",
+    "cc": "MK",
+    "year": null,
+    "type": "Museum",
+    "movement": "Late modernism",
+    "concepts": [
+     "Geometry",
+     "Stone",
+     "Facade as skin"
+    ],
+    "features": "The national museum, in the Old Bazaar near Skopje Fortress, formed by joining three museums.",
+    "commons_category": "Category:Museum of Macedonia, Skopje",
+    "coords": [
+     42.0025,
+     21.43583
+    ],
+    "photos": [
+     {
+      "file": "File:Museum of the Republic of Macedonia 3.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Museum of the Republic of Macedonia 2.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Museum of Macedonia (28458705467).jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "waino-aaltonen-museum-of-art",
+   "why": "Haiku skipped this; Rescue. Matti and Irma Aaltonen per Wikidata (the 'Aaltonen' in the lead is the sculptor, but that does not make the architects wrong). Year 1967 from prep only. Main is a daylight view of the whole low block; idx 4 is a stronger corner view.",
+   "entry": {
+    "id": "waino-aaltonen-museum-of-art",
+    "qid": "Q3019261",
+    "status": "photo",
+    "why": "Rescue. Matti and Irma Aaltonen per Wikidata (the 'Aaltonen' in the lead is the sculptor, but that does not make the architects wrong). Year 1967 from prep only. Main is a daylight view of the whole low block; idx 4 is a stronger corner view.",
+    "name": "Wäinö Aaltonen Museum of Art",
+    "by": "Matti Aaltonen, Irma Aaltonen",
+    "city": "Turku",
+    "cc": "FI",
+    "year": 1967,
+    "type": "Museum",
+    "movement": "Late modernism",
+    "concepts": [
+     "Stone",
+     "Geometry",
+     "Landscape"
+    ],
+    "features": "A modern art museum on the east bank of the Aura River in Turku, holding the city's art collection.",
+    "commons_category": "Category:Wäinö Aaltonen Museum of Art",
+    "coords": [
+     60.445,
+     22.2603
+    ],
+    "photos": [
+     {
+      "file": "File:Wäinö Aaltosen museo.jpg",
+      "license": "CC BY-SA 3.0",
+      "seen": true
+     },
+     {
+      "file": "File:Wäinö Aaltonen Museum of Art 02.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:Wäinö Aaltonen Museum of Art 01.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "royal-armouries-museum",
+   "why": "Haiku skipped this; Rescue. Derek Walker per Wikidata; the lead says purpose-built, opened 1996. No Wikidata main photo; idx 2 (glass tower and lock, daylight) is the best first photo.",
+   "entry": {
+    "id": "royal-armouries-museum",
+    "qid": "Q7373689",
+    "status": "photo",
+    "why": "Rescue. Derek Walker per Wikidata; the lead says purpose-built, opened 1996. No Wikidata main photo; idx 2 (glass tower and lock, daylight) is the best first photo.",
+    "name": "Royal Armouries Museum",
+    "by": "Derek Walker",
+    "city": "Leeds",
+    "cc": "GB",
+    "year": 1996,
+    "type": "Museum",
+    "movement": "Contemporary",
+    "concepts": [
+     "Water",
+     "Steel & glass",
+     "Public space"
+    ],
+    "features": "A £42.5 million purpose-built museum at Leeds Dock, opened in 1996 for the national collection of arms and armour.",
+    "commons_category": "Category:Royal Armouries, Leeds",
+    "coords": [
+     53.7919,
+     -1.53226
+    ],
+    "photos": [
+     {
+      "file": "File:Leeds Lock and Royal Armouries.jpg",
+      "license": "CC BY 2.0",
+      "seen": true
+     },
+     {
+      "file": "File:Royal Armouries, Leeds (8th June 2018) 001.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     },
+     {
+      "file": "File:RoyalArmouriesMuseumandBridge.jpg",
+      "license": "CC BY 4.0",
+      "seen": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "ohara-museum-of-art",
+   "why": "Haiku marked this unsure; Rescue. Kazue Yakushiji per Wikidata, correct for the 1930 main building; the lead gives the first-in-Japan reason and 1930 opening. Main is a clear daylight view of the portico. Kurashiki is already on the wall (Tange, Urabe).",
+   "entry": {
+    "id": "ohara-museum-of-art",
+    "qid": "Q2977589",
+    "status": "photo",
+    "why": "Rescue. Kazue Yakushiji per Wikidata, correct for the 1930 main building; the lead gives the first-in-Japan reason and 1930 opening. Main is a clear daylight view of the portico. Kurashiki is already on the wall (Tange, Urabe).",
+    "name": "Ohara Museum of Art",
+    "by": "Kazue Yakushiji",
+    "city": "Kurashiki",
+    "cc": "JP",
+    "year": 1930,
+    "type": "Museum",
+    "movement": "Historic precedent",
+    "concepts": [
+     "Monumentality",
+     "Stone",
+     "Detail"
+    ],
+    "features": "The first permanent collection of Western art in Japan, opened in 1930, with wings added from 1961.",
+    "commons_category": "Category:Ohara Museum of Art",
+    "coords": [
+     34.59615,
+     133.77067
+    ],
+    "photos": [
+     {
+      "file": "File:Kurashiki Ohara Art Museum02nt3200.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:Kurashiki Ohara Art Museum03n4592.jpg",
+      "license": "CC BY 2.5",
+      "seen": true
+     },
+     {
+      "file": "File:211203 Ohara Museum of Art Kurashiki Okayama pref Japan01s3.jpg",
+      "license": "CC BY-SA 4.0",
+      "seen": true
+     }
+    ]
+   }
+  }
+ ],
+ "summary": "Positions 150-299 (sheets 18-37). Haiku: 15 photo, 17 unsure, 118 skip. Of the 15 photo entries: 15 keep_ok (4 with small field fixes: Bolshoy Dom spelling, Palau Nacional year optional, Perelman and Tsiolkovsky architect lists), 0 keep_wrong, 4 main-photo problems (London Coliseum, Waldemarsudde, Perelman minor, Estonia Theatre no usable current exterior). None of the 150 is on the wall by qid, id or name. Rescued 16: 6 of the 17 unsure (House on the Embankment, Aland Maritime Museum, Museum of Contemporary Art Zagreb, Bush House, North Macedonia museum, Ohara Museum) and 10 of the 118 skips (Yamato Bunkakan, Urasoe, Lisinski, Janacek, De Doelen, Palacio de Congresos, Siida, Jewish Museum Munich, Waino Aaltonen Museum, Royal Armouries). Strongest rescues: Jewish Museum Munich, Museum of Contemporary Art Zagreb, Yamato Bunkakan, Urasoe, Royal Armouries, Ohara, Siida (photo caveat). Borderline: Janacek, De Doelen, Palacio de Congresos, Aland, North Macedonia. The other 11 unsure stay unsure or skip because no photo shows the building (Mirador del Rio, Cankar Hall, Museum for Communication, Verkhovna Rada, De Kuip, Capitol Visitor Center, Theater St. Gallen) or the building is a district or replica ensemble (Betondorp, Poble Espanyol) or the architect is not the building's (Virginia Museum, Gaudi House Museum). Most of the remaining skips are correct: ordinary theatres, capitols, towers, stadiums and collection-led museums."
+}

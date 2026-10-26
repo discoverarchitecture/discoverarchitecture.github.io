@@ -1,0 +1,931 @@
+[
+ {
+  "id": "st-andreas-kirche",
+  "qid": "Q105493164",
+  "status": "skip",
+  "why": "Ordinary parish church; the lead gives no reason it matters."
+ },
+ {
+  "id": "st-franziskus",
+  "qid": "Q62587784",
+  "status": "photo",
+  "why": "Hans Schilling is on the wall; the lead gives the round plan, the 1957–1961 build and the listing. Year is the 1961 consecration.",
+  "name": "St. Franziskus",
+  "by": "Hans Schilling",
+  "city": "Cologne",
+  "cc": "DE",
+  "year": 1961,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Community",
+   "Sculptural form"
+  ],
+  "features": "Hans Schilling's round parish church in Cologne, built 1957–1961 and listed since 2003.",
+  "commons_category": "Category:St. Franziskus (Köln-Bilderstöckchen)",
+  "coords": [
+   50.97151,
+   6.92934
+  ],
+  "photos": [
+   {
+    "file": "File:Köln-Bilderstöckchen, St. Franziskus (02).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Köln-Bilderstöckchen, St. Franziskus (04).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:St. Franziskus (Köln-Bilderstöckchen) (5).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "sun-terrace",
+  "qid": "Q29097873",
+  "status": "unsure",
+  "why": "Lead gives completion in 1932 and calls it the first International Style country house in the US; no photo of it.",
+  "note": "no main photo"
+ },
+ {
+  "id": "public-bath",
+  "qid": "Q29527027",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "gemeindebau-weiglgasse-6-10",
+  "qid": "Q38030771",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "nationaltheater-weimar",
+  "qid": "Q67205958",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "van-leer-jerusalem-institute",
+  "qid": "Q7913486",
+  "status": "skip",
+  "why": "Lead describes the research institute, not the building."
+ },
+ {
+  "id": "salman-schocken-house",
+  "qid": "Q6893872",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "lake-suwa-museum",
+  "qid": "Q11631898",
+  "status": "unsure",
+  "why": "Wikidata year 1952 looks too early for Toyo Ito's work; the lead names no architect or year, so check the date before keeping."
+ },
+ {
+  "id": "mehamn-chapel",
+  "qid": "Q1787474",
+  "status": "skip",
+  "why": "Ordinary parish church; the lead gives no reason it matters and the architect is not on the wall."
+ },
+ {
+  "id": "duomo-di-livorno",
+  "qid": "Q2942701",
+  "status": "skip",
+  "why": "Ordinary cathedral; the lead gives no architectural reason."
+ },
+ {
+  "id": "cathedral-of-st-joseph",
+  "qid": "Q5052403",
+  "status": "skip",
+  "why": "Ordinary cathedral; the lead gives no architectural reason."
+ },
+ {
+  "id": "rundling",
+  "qid": "Q2176274",
+  "status": "photo",
+  "why": "The lead gives a clear circular plan and the 1929/30 build; the year is taken as 1930 from that build date.",
+  "name": "Rundling",
+  "by": "Hubert Ritter",
+  "city": "Leipzig",
+  "cc": "DE",
+  "year": 1930,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Geometry",
+   "Community",
+   "Circulation"
+  ],
+  "features": "A 1929–1930 housing estate in Leipzig with three concentric rings of houses on a flat hill.",
+  "commons_category": "Category:Rundling (Leipzig)",
+  "coords": [
+   51.2962,
+   12.3935
+  ],
+  "photos": [
+   {
+    "file": "File:Rundling (IMG 20220726 154841).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rundling (IMG 20220726 154803).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rundling (IMG 20220726 154919).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-nicholas-langeoog",
+  "qid": "Q2322042",
+  "status": "skip",
+  "why": "Ordinary parish church; the lead gives no reason it matters."
+ },
+ {
+  "id": "blackwell-arts-and-crafts-house",
+  "qid": "Q4923584",
+  "status": "photo",
+  "why": "The lead names the architect, the Arts and Crafts style, the Grade I listing and the 1898–1900 build.",
+  "name": "Blackwell Arts and Crafts House",
+  "by": "Baillie Scott",
+  "city": "Bowness-on-Windermere",
+  "cc": "GB",
+  "year": 1900,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Planting",
+   "Detail"
+  ],
+  "features": "A Grade I listed Arts and Crafts holiday house with almost all its original decoration intact.",
+  "commons_category": "Category:Blackwell, Bowness-on-Windermere",
+  "coords": [
+   54.3431,
+   -2.9236
+  ],
+  "photos": [
+   {
+    "file": "File:Bowness-on-Windermere, Windermere LA23, UK - panoramio (1).jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blackwell02.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blackwell01.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Blackwell03.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "southwest-museum-of-the-american-indian",
+  "qid": "Q5414729",
+  "status": "skip",
+  "why": "Lead is about the museum's collections, not the building."
+ },
+ {
+  "id": "heinz-hilpert-theater",
+  "qid": "Q55518481",
+  "status": "skip",
+  "why": "Listed theatre; the lead gives no design reason."
+ },
+ {
+  "id": "franziskanerkirche-st-marien",
+  "qid": "Q100327239",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "villa-herpich",
+  "qid": "Q104910923",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "hearst-gymnasium-for-women",
+  "qid": "Q123279454",
+  "status": "unsure",
+  "why": "Julia Morgan is on the wall and the lead is good, but the only photo is a distant panorama in which the building is small.",
+  "note": "no main photo"
+ },
+ {
+  "id": "railway-goods-shed-thalwil",
+  "qid": "Q126295634",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "signal-box-building-buchs-sg",
+  "qid": "Q127688929",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "service-building-landquart",
+  "qid": "Q128418139",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "verbandshaus-der-deutschen-buchdrucker",
+  "qid": "Q26216015",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "american-legion-forest-ccc-shelter",
+  "qid": "Q4744334",
+  "status": "skip",
+  "why": "Rustic park shelter built by the Civilian Conservation Corps; no architect and no photo."
+ },
+ {
+  "id": "kasson-municipal-building",
+  "qid": "Q6374765",
+  "status": "photo",
+  "why": "Purcell & Elmslie is a known Prairie School firm and the lead names the style; the year is the 1917 build.",
+  "name": "Kasson Municipal Building",
+  "by": "Purcell & Elmslie",
+  "city": "Kasson",
+  "cc": "US",
+  "year": 1917,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Public space",
+   "Community"
+  ],
+  "features": "A 1917 Prairie School municipal building by Purcell & Elmslie, later home to a print shop.",
+  "commons_category": null,
+  "coords": [
+   44.02917,
+   -92.75028
+  ],
+  "photos": [
+   {
+    "file": "File:2010-1025-KassonMunicipalBuilding.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "haus-glass",
+  "qid": "Q90536188",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "wohnsiedlung-biberhaufenweg-15",
+  "qid": "Q97783976",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "thiel-gallery",
+  "qid": "Q252259",
+  "status": "photo",
+  "why": "Ferdinand Boberg is on the wall. The lead gives no year or design, so 1924 is the Wikidata year and is unchecked.",
+  "name": "Thiel Gallery",
+  "by": "Ferdinand Boberg",
+  "city": "Stockholm",
+  "cc": "SE",
+  "year": 1924,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Detail"
+  ],
+  "features": "Art museum in Stockholm's Djurgården park, with one of the world's largest Edvard Munch collections.",
+  "commons_category": "Category:Thielska galleriet",
+  "coords": [
+   59.32222,
+   18.14861
+  ],
+  "photos": [
+   {
+    "file": "File:Thielska galleriet April 2015.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-nicholas-church",
+  "qid": "Q573737",
+  "status": "unsure",
+  "why": "The architects are on the wall, but the lead gives no year and the Wikidata year 1900 is doubtful for this church; check the date."
+ },
+ {
+  "id": "st-lazarus-roman-catholic-church-al-eizariya",
+  "qid": "Q30621771",
+  "status": "photo",
+  "why": "Barluzzi is on the wall, and the lead says the church stands close to the traditional tomb of Lazarus.",
+  "name": "St. Lazarus Roman Catholic Church, al-Eizariya",
+  "by": "Antonio Barluzzi",
+  "city": "al-Eizariya",
+  "cc": "PS",
+  "year": 1953,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Community",
+   "Detail"
+  ],
+  "features": "Antonio Barluzzi's Catholic church by the traditional tomb of Lazarus in al-Eizariya.",
+  "commons_category": "Category:St. Lazarus Roman Catholic Church (Bethany)",
+  "coords": [
+   31.77167,
+   35.25643
+  ],
+  "photos": [
+   {
+    "file": "File:Larry Koester, Facade of the Church of St Lazarus (2).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bethany Lazarus church.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Larry Koester, Facade of the Church of St Lazarus.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "st-michael-s-church",
+  "qid": "Q10661422",
+  "status": "photo",
+  "why": "Plečnik is on the wall; the lead calls this one of his prominent works. Year 1939 is from Wikidata; the lead gives none.",
+  "name": "St. Michael's Church",
+  "by": "Jože Plečnik",
+  "city": "Ljubljana",
+  "cc": "SI",
+  "year": 1939,
+  "type": "Religious",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Water",
+   "Monumentality"
+  ],
+  "features": "One of Jože Plečnik's prominent works, a national monument and part of his UNESCO-listed Ljubljana works.",
+  "commons_category": null,
+  "coords": [
+   46.01228,
+   14.50593
+  ],
+  "photos": [
+   {
+    "file": "File:Pfarrkirche St. Michael im Laibacher Moor.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-de-colon",
+  "qid": "Q2813530",
+  "status": "photo",
+  "why": "Secundino Zuazo is on the wall. The lead says the house took its present form in the 1950s, which fits the 1951 date.",
+  "name": "Casa de Colón",
+  "by": "Secundino Zuazo",
+  "city": "Las Palmas de Gran Canaria",
+  "cc": "ES",
+  "year": 1951,
+  "type": "Museum",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Adaptive reuse",
+   "Detail",
+   "Public space"
+  ],
+  "features": "A listed governor's house in Las Palmas, given its present form in the 1950s with an older carved portal.",
+  "commons_category": "Category:Casa de Colón (Las Palmas de Gran Canaria)",
+  "coords": [
+   28.10139,
+   -15.41417
+  ],
+  "photos": [
+   {
+    "file": "File:GranCanaria.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Old town Las Palmas NZ7 4356 (46317315195).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Vegueta D81 5921 (32160856512).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-kampen",
+  "qid": "Q20987227",
+  "status": "photo",
+  "why": "Hack Kampmann is on the wall; the lead gives the 1901–1902 build and the listing.",
+  "name": "Villa Kampen",
+  "by": "Hack Kampmann",
+  "city": "Aarhus",
+  "cc": "DK",
+  "year": 1902,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Landscape",
+   "Detail",
+   "Human comfort"
+  ],
+  "features": "A listed villa by Hack Kampmann, built 1901–1902 with views over the Bay of Aarhus.",
+  "commons_category": "Category:Villa Kampen",
+  "coords": [
+   56.13561,
+   10.2079
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Kampen set fra Strandvejen.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Villa Kampen i sol.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Villa Kampen skrå forfra.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Villa Kampen bagfra.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "christian-science-church",
+  "qid": "Q17341867",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "kunstmuseum-basel-hauptbau",
+  "qid": "Q69541078",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "arenes-de-maracay",
+  "qid": "Q2866148",
+  "status": "photo",
+  "why": "Villanueva is on the wall and the lead (in French) names Seville's arena as the model. A bullring, kept for the architect; the only usable photo is the exterior.",
+  "name": "Arènes de Maracay",
+  "by": "Carlos Raúl Villanueva",
+  "city": "Maracay",
+  "cc": "VE",
+  "year": 1933,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Courtyard",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "Carlos Raúl Villanueva's arena in Maracay, inspired by the arenas of Seville.",
+  "commons_category": "Category:Maestranza César Girón",
+  "coords": [
+   10.25361,
+   -67.59901
+  ],
+  "photos": [
+   {
+    "file": "File:Maestranza César Girón 6.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "edificio-benjamin-zeledon",
+  "qid": "Q795414",
+  "status": "skip",
+  "why": "Office tower; the lead gives no architectural reason."
+ },
+ {
+  "id": "experimental-theater",
+  "qid": "Q15217115",
+  "status": "unsure",
+  "why": "Philip Johnson is on the wall, but the only photo shows part of the NCPA complex with another building beside it, not the theatre.",
+  "note": "no main photo"
+ },
+ {
+  "id": "siedlung-gutergasse",
+  "qid": "Q105714612",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "big-roof",
+  "qid": "Q11434552",
+  "status": "skip",
+  "why": "Dismantled in 1978 (Expo 70 roof); no longer standing."
+ },
+ {
+  "id": "quinta-da-conceicao-swimming-pool",
+  "qid": "Q139852807",
+  "status": "skip",
+  "why": "Lead is empty."
+ },
+ {
+  "id": "niagara-falls-convention-and-civic-center",
+  "qid": "Q7023678",
+  "status": "skip",
+  "why": "Lead is in the past tense (1974 to 2002); the arena no longer stands."
+ },
+ {
+  "id": "estadi-de-la-nova-creu-alta",
+  "qid": "Q1313926",
+  "status": "skip",
+  "why": "Ordinary football stadium; the lead gives no design reason."
+ },
+ {
+  "id": "mosque-keizerstraat",
+  "qid": "Q1948977",
+  "status": "skip",
+  "why": "Lead gives no architectural reason it matters."
+ },
+ {
+  "id": "victoria-palace",
+  "qid": "Q1677897",
+  "status": "skip",
+  "why": "Government building; the lead gives no design reason beyond its classical style."
+ },
+ {
+  "id": "sant-eugenio",
+  "qid": "Q2022218",
+  "status": "skip",
+  "why": "Titular church; the lead gives no reason it matters."
+ },
+ {
+  "id": "staatstheater-nurnberg",
+  "qid": "Q883512",
+  "status": "skip",
+  "why": "Lead describes the theatre company, not the building."
+ },
+ {
+  "id": "fortune-theatre",
+  "qid": "Q9292634",
+  "status": "skip",
+  "why": "Lead describes the theatre and its long-running play, not the building."
+ },
+ {
+  "id": "middlesex-guildhall",
+  "qid": "Q1164504",
+  "status": "skip",
+  "why": "Listed civic building; the lead gives no reason beyond its listing."
+ },
+ {
+  "id": "sovremennik-theatre",
+  "qid": "Q1979285",
+  "status": "skip",
+  "why": "Lead describes the theatre company, not the building."
+ },
+ {
+  "id": "panorama-of-the-battle-of-waterloo",
+  "qid": "Q2303407",
+  "status": "skip",
+  "why": "A building housing a painting; the lead gives no reason it matters."
+ },
+ {
+  "id": "bijbels-museum",
+  "qid": "Q2919762",
+  "status": "skip",
+  "why": "Lead describes a travelling museum, not this building."
+ },
+ {
+  "id": "theatre-mogador",
+  "qid": "Q3527525",
+  "status": "skip",
+  "why": "Lead gives no design reason."
+ },
+ {
+  "id": "david-collection",
+  "qid": "Q536499",
+  "status": "skip",
+  "why": "Lead is about the collection, not the building; no architectural reason."
+ },
+ {
+  "id": "kyoto-municipal-museum-of-art",
+  "qid": "Q3330657",
+  "status": "skip",
+  "why": "Lead gives no architectural reason, and its 1928 opening date does not match the 1933 Wikidata year."
+ },
+ {
+  "id": "tampere-theatre",
+  "qid": "Q3561003",
+  "status": "photo",
+  "why": "The lead names the National Romantic style and places the theatre in the city centre. Year is the 1913 opening, not the 1904 start.",
+  "name": "Tampere Theatre",
+  "by": "Kauno Kallio, Oiva Kallio",
+  "city": "Tampere",
+  "cc": "FI",
+  "year": 1913,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Public space",
+   "Community",
+   "Detail"
+  ],
+  "features": "Tampere's main theatre, designed in National Romantic style, on the Tammerkoski shore.",
+  "commons_category": "Category:Tampere Theatre",
+  "coords": [
+   61.49806,
+   23.7625
+  ],
+  "photos": [
+   {
+    "file": "File:Tampere Theatre 1.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tampere Theatre 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Tampere Theatre 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "dom-sindikata",
+  "qid": "Q1565167",
+  "status": "skip",
+  "why": "Multi-purpose hall; the lead gives no design reason."
+ },
+ {
+  "id": "synagogue-don-isaac-abravanel",
+  "qid": "Q1663837",
+  "status": "photo",
+  "why": "The lead names the Modernist style, two architects and the 1962 build. Only one photo, showing the facade.",
+  "name": "Synagogue Don Isaac Abravanel",
+  "by": "Alexandre Persitz, Arthur-Georges Héaume",
+  "city": "Paris",
+  "cc": "FR",
+  "year": 1962,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A 1962 Modernist synagogue in Paris, built for Jews who had emigrated from North Africa.",
+  "commons_category": "Category:Synagogue Don Isaac Abravanel",
+  "coords": [
+   48.85597,
+   2.37625
+  ],
+  "photos": [
+   {
+    "file": "File:Synagogue Don Isaac Abravanel, Paris 21 January 2017.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "santi-gioacchino-e-anna-al-tuscolano",
+  "qid": "Q2063091",
+  "status": "skip",
+  "why": "Titular church; the lead gives no reason it matters."
+ },
+ {
+  "id": "villa-sellgren",
+  "qid": "Q39050238",
+  "status": "skip",
+  "why": "Lead is about the house's film use and ownership, not its design."
+ },
+ {
+  "id": "cluj-napoca-banffy-palace",
+  "qid": "Q716390",
+  "status": "photo",
+  "why": "The lead names the architect and calls it the most representative Baroque palace in Transylvania; its 1774–1775 build dates replace Wikidata's 1951.",
+  "name": "Cluj-Napoca Bánffy Palace",
+  "by": "Johann Eberhard Blaumann",
+  "city": "Cluj-Napoca",
+  "cc": "RO",
+  "year": 1775,
+  "type": "Palace",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Monumentality",
+   "Detail",
+   "Community"
+  ],
+  "features": "The most representative Baroque palace of Transylvania, built 1774–1775 by Johann Eberhard Blaumann.",
+  "commons_category": "Category:Bánffy Palace, Cluj-Napoca",
+  "coords": [
+   46.77069,
+   23.59044
+  ],
+  "photos": [
+   {
+    "file": "File:Bánffy Palace in Kluj-Napoca.PNG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "kalmar-konstmuseum",
+  "qid": "Q10542825",
+  "status": "photo",
+  "why": "The lead gives the 2008 new museum building in the city park; the 1942 date is the museum's founding, not the building.",
+  "name": "Kalmar konstmuseum",
+  "by": "Tham & Videgård Arkitekter",
+  "city": "Kalmar",
+  "cc": "SE",
+  "year": 2008,
+  "type": "Museum",
+  "movement": "Contemporary",
+  "concepts": [
+   "Landscape",
+   "Public space",
+   "Community"
+  ],
+  "features": "A 2008 museum building in Kalmar's city park, showing contemporary art and a regional collection.",
+  "commons_category": "Category:Kalmar konstmuseum",
+  "coords": [
+   56.66038,
+   16.35584
+  ],
+  "photos": [
+   {
+    "file": "File:Kalmar Konstmuseum 2008 maj.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kalmar Konstmuseum 01.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Kalmar. Kalmar konstmuseum 0.JPG",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "farnes-church",
+  "qid": "Q11968529",
+  "status": "skip",
+  "why": "Ordinary parish church; the lead gives no reason it matters."
+ },
+ {
+  "id": "all-saints-church",
+  "qid": "Q4581039",
+  "status": "skip",
+  "why": "Ordinary parish church; the lead gives no reason it matters."
+ },
+ {
+  "id": "teatro-lirico-di-cagliari",
+  "qid": "Q1453465",
+  "status": "skip",
+  "why": "Opera house; the lead gives no design reason and there is no photo."
+ },
+ {
+  "id": "woman-s-club",
+  "qid": "Q110594373",
+  "status": "skip",
+  "why": "Local clubhouse; the lead gives only local significance."
+ },
+ {
+  "id": "branigan-cultural-center",
+  "qid": "Q110955736",
+  "status": "unsure",
+  "why": "Pueblo Revival museum by McGhee; the only photo is cut off by a tree and a sign.",
+  "note": "no main photo"
+ },
+ {
+  "id": "faculty-club",
+  "qid": "Q119397821",
+  "status": "skip",
+  "why": "Lead gives no reason it matters; Maybeck is not on the wall."
+ },
+ {
+  "id": "villa-of-jindrich-kumpost",
+  "qid": "Q12031900",
+  "status": "skip",
+  "why": "Own villa in a Dutch-influenced style; the lead gives too little design reason."
+ },
+ {
+  "id": "villa-polasek",
+  "qid": "Q12046301",
+  "status": "photo",
+  "why": "The lead names the functionalist style and dates the villa 1932–1933; the architect is not on the wall.",
+  "name": "Villa Polasek",
+  "by": "Josef Polášek",
+  "city": "Brno",
+  "cc": "CZ",
+  "year": 1933,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Free plan",
+   "Facade as skin",
+   "Human comfort"
+  ],
+  "features": "The architect's own functionalist villa in Brno, built 1932–1933 on Barvičova Street.",
+  "commons_category": "Category:Consulate of Ukraine in Brno",
+  "coords": [
+   49.1981,
+   16.5807
+  ],
+  "photos": [
+   {
+    "file": "File:Brno, Stránice, Barvičova, konzulát Ukrajiny (2018-06-05; 02).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Stránice, Barvičova, konzulát Ukrajiny (2018-06-05; 01).jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Brno, Stránice, Barvičova, Poláškova vila (2022-07-18; 02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "metropolitan-club",
+  "qid": "Q125759066",
+  "status": "skip",
+  "why": "Lead gives no design reason; the architect field holds an ID, not a name."
+ },
+ {
+  "id": "military-school",
+  "qid": "Q1403252",
+  "status": "skip",
+  "why": "Lead is about the complex's later uses, not its design."
+ },
+ {
+  "id": "belton-court",
+  "qid": "Q14709372",
+  "status": "skip",
+  "why": "Lead gives no design reason; the architects are not on the wall."
+ },
+ {
+  "id": "central-ymca",
+  "qid": "Q14716384",
+  "status": "skip",
+  "why": "Lead gives no design reason; the architects are not on the wall."
+ }
+]

@@ -1,0 +1,356 @@
+[
+ {
+  "id": "notre-dame-du-haut",
+  "new_lead": null,
+  "add": [
+   "File:Campanile (Ronchamp).jpg"
+  ],
+  "why": "campanile of the site; c2 is a display case, skipped"
+ },
+ {
+  "id": "palace-of-assembly",
+  "new_lead": null,
+  "add": [
+   "File:Palace of Assembly Chandigarh 2006.jpg"
+  ],
+  "why": "wide daylight exterior with the pool"
+ },
+ {
+  "id": "cathedral-of-brasilia",
+  "new_lead": null,
+  "add": [
+   "File:Catedral Metropolitana de Brasília - Brasília - 20150603150521.jpg"
+  ],
+  "why": "Featured interior, stained glass and ribs"
+ },
+ {
+  "id": "national-assembly-of-bangladesh",
+  "new_lead": null,
+  "add": [
+   "File:National Assembly of Bangladesh (06).jpg"
+  ],
+  "why": "second exterior, across the lawn"
+ },
+ {
+  "id": "yoyogi-national-gymnasium",
+  "new_lead": null,
+  "add": [
+   "File:Kokuritsu Yoyogi Kyōgijō 1.jpg"
+  ],
+  "why": "clear aerial of the roof; current main is a dull plaza view, c1 would also do as lead if Opus agrees"
+ },
+ {
+  "id": "habitat-67",
+  "new_lead": null,
+  "add": [
+   "File:Habitat 67 2019 dllu 02.jpg"
+  ],
+  "why": "clean daylight exterior, similar to main"
+ },
+ {
+  "id": "fau-usp-building",
+  "new_lead": null,
+  "add": [
+   "File:At Cidade Universitária Armando de Salles Oliveira 2023 096.jpg"
+  ],
+  "why": "vertical exterior view"
+ },
+ {
+  "id": "barbican-estate",
+  "new_lead": null,
+  "add": [
+   "File:Barbican Estate City of London 2026 07.jpg"
+  ],
+  "why": "estate walkways and towers"
+ },
+ {
+  "id": "new-gourna-village",
+  "new_lead": null,
+  "add": [
+   "File:Gurna Mosque R03.jpg",
+   "File:Gurna Mosque R04.jpg"
+  ],
+  "why": "stair and dome detail"
+ },
+ {
+  "id": "lloyds-building",
+  "new_lead": null,
+  "add": [
+   "File:Lloyd's Building - Exterior Staircase.jpg",
+   "File:Lloyd's Building - Atrium roof.jpg"
+  ],
+  "why": "exterior stair tower and atrium roof"
+ },
+ {
+  "id": "vitra-fire-station",
+  "new_lead": null,
+  "add": [
+   "File:2025-04-02 GV RegBas Fuehrung Vitra 038.jpg"
+  ],
+  "why": "interior with the slanting glass, dark"
+ },
+ {
+  "id": "guggenheim-bilbao",
+  "new_lead": null,
+  "add": [
+   "File:-Tall Tree and the Eye- by Anish Kapoor, Guggenheim Museum, Bilbao, Spain (PPL3-Altered) julesvernex2.jpg",
+   "File:Bilbao Guggenheim 1190400.jpg",
+   "File:Bilbao Guggenheim 1190444.jpg"
+  ],
+  "why": "c1 shows the building but Kapoor sculpture is prominent, so not proposed as lead; titanium details"
+ },
+ {
+  "id": "seattle-central-library",
+  "new_lead": null,
+  "add": [
+   "File:Seattle metropolitan area, April 2023 - 142.jpg",
+   "File:Seattle metropolitan area, April 2023 - 144.jpg",
+   "File:Seattle metropolitan area, April 2023 - 154.jpg"
+  ],
+  "why": "diagrid glass interiors and reading level"
+ },
+ {
+  "id": "oslo-opera-house",
+  "new_lead": null,
+  "add": [
+   "File:Oslo Opera House 2023 5.jpg",
+   "File:Oper Oslo 3.jpg"
+  ],
+  "why": "wide waterfront view and glass facade"
+ },
+ {
+  "id": "high-line",
+  "new_lead": null,
+  "add": [
+   "File:At New York City 2023 024 - High Line Section 3.jpg",
+   "File:At New York City 2023 026.jpg"
+  ],
+  "why": "track and walkway views"
+ },
+ {
+  "id": "zeitz-mocaa",
+  "new_lead": null,
+  "add": [
+   "File:At Cape Town (MP) 2018 115.jpg",
+   "File:Zeitz Museum of Contemporary Art Africa, Cape Town ( 1050775).jpg"
+  ],
+  "why": "two exterior views; c2 is a whole-building daylight view but not clearly better than main"
+ },
+ {
+  "id": "pantheon",
+  "new_lead": null,
+  "add": [
+   "File:Above main altar, Pantheon, Rome, Italy.jpg"
+  ],
+  "why": "coffered dome interior; note current main is a dusk shot, no better exterior candidate found"
+ },
+ {
+  "id": "30-st-mary-axe",
+  "new_lead": null,
+  "add": [
+   "File:London UK Gherkin-01.jpg",
+   "File:London MMB 41 30 St Mary Ax.jpg",
+   "File:Gherkin from the Sky Garden 2015.jpg"
+  ],
+  "why": "tower views and glass detail"
+ },
+ {
+  "id": "commerzbank-tower",
+  "new_lead": null,
+  "add": [
+   "File:Frankfurt Main Skyline Commerzbank Tower - 06.jpg",
+   "File:Frankfurt Main Skyline with Commerzbank Tower - 04.jpg"
+  ],
+  "why": "tower seen from the river"
+ },
+ {
+  "id": "national-museum-of-african-american-history-and-culture",
+  "new_lead": "File:National Museum of African American History and Culture in February 2020.jpg",
+  "add": [
+   "File:National Museum of African American History and Culture (97901).jpg"
+  ],
+  "why": "c1 is a clear whole-building daylight exterior; main has a sign in the foreground"
+ },
+ {
+  "id": "yad-vashem-holocaust-history-museum",
+  "new_lead": null,
+  "add": [
+   "File:Israel-2013(2)-Jerusalem-Yad Vashem-Prism Skylight 01.jpg"
+  ],
+  "why": "prism skylight interior"
+ },
+ {
+  "id": "phaeno-science-center",
+  "new_lead": null,
+  "add": [
+   "File:Phaeno Rampe Übergang Autostadt.jpg"
+  ],
+  "why": "ramp and underside"
+ },
+ {
+  "id": "national-congress-of-brazil",
+  "new_lead": null,
+  "add": [
+   "File:Brasilia Eixo Monumental Nat Congress Ministries from TV Tower.jpg"
+  ],
+  "why": "distant view along the Monumental Axis"
+ },
+ {
+  "id": "casa-mila",
+  "new_lead": null,
+  "add": [
+   "File:Casa Mila, Barcelona (P1170595).jpg"
+  ],
+  "why": "warm-lit facade"
+ },
+ {
+  "id": "munich-olympic-stadium",
+  "new_lead": null,
+  "add": [
+   "File:Olympic Stadium Munich - Rows of Seats, April 2019 -04.jpg",
+   "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 13.JPG",
+   "File:Olympiastadion, Múnich, Alemania 2012-04-28, DD 14.JPG"
+  ],
+  "why": "seat rows (Featured), mast, and roof over the park"
+ },
+ {
+  "id": "goetheanum",
+  "new_lead": null,
+  "add": [
+   "File:Aerial View - Goetheanum1.jpg",
+   "File:Dornach - Goetheanum - Detail4.jpg",
+   "File:Dornach - Goetheanum - Detail3.jpg"
+  ],
+  "why": "Featured aerial and concrete details"
+ },
+ {
+  "id": "viipuri-library",
+  "new_lead": null,
+  "add": [
+   "File:Выборг, бибилиотека Аалто сверху.jpg"
+  ],
+  "why": "aerial showing the roof lights"
+ },
+ {
+  "id": "st-mark-s-church-markuskyrkan",
+  "new_lead": null,
+  "add": [
+   "File:Markuskyrkan April 2013 02.jpg",
+   "File:Markuskyrkan April 2013 03.jpg"
+  ],
+  "why": "brick entrance and wall"
+ },
+ {
+  "id": "danish-maritime-museum",
+  "new_lead": "File:Maritime Museum of Denmark April 2026 03.jpg",
+  "add": [],
+  "why": "main has a large sign across it; c1 shows the museum in its dry dock without signage"
+ },
+ {
+  "id": "portugal-pavilion",
+  "new_lead": "File:Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal julesvernex2.jpg",
+  "add": [
+   "File:Partial view of Pavilhão de Portugal with a tree in front, Parque das Nações, Lisbon, Portugal julesvernex2-3.jpg",
+   "File:Building detail, Pavilhão de Portugal, Parque das Nações, Lisbon, Portugal julesvernex2.jpg"
+  ],
+  "why": "main is a far skyline; c4 shows the pavilion front clearly in daylight"
+ },
+ {
+  "id": "villa-cavrois",
+  "new_lead": null,
+  "add": [
+   "File:Villa Cavrois à Croix - Salon vu de l'étage.jpg",
+   "File:Villa Cavrois à Croix - Salon.jpg",
+   "File:La salle à manger des parents de la Villa Cavrois à Croix.jpg"
+  ],
+  "why": "interiors: salon and dining room"
+ },
+ {
+  "id": "kirche-am-steinhof",
+  "new_lead": null,
+  "add": [
+   "File:20250503 Kirche am Steinhof 10.jpg",
+   "File:20250503 Kirche am Steinhof 05.jpg",
+   "File:20250503 Kirche am Steinhof 06.jpg"
+  ],
+  "why": "frontal facade and interiors"
+ },
+ {
+  "id": "looshaus",
+  "new_lead": null,
+  "add": [
+   "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6585.jpg",
+   "File:AT-30462 Looshaus, Vienna, Michaelerplatz-hu-6556.jpg"
+  ],
+  "why": "portico and lamp detail"
+ },
+ {
+  "id": "parliament-house",
+  "new_lead": "File:Canberra (AU), Parliament House and Old Parliament House -- 2019 -- 1767.jpg",
+  "add": [
+   "File:Canberra (AU), Parliament House -- 2019 -- 1754.jpg"
+  ],
+  "why": "main is a night shot; c1 is a daylight view of the whole front, a little distant"
+ },
+ {
+  "id": "toronto-city-hall",
+  "new_lead": null,
+  "add": [
+   "File:Windows of Toronto City Hall.jpg",
+   "File:Toronto city hall August 2017 02.jpg"
+  ],
+  "why": "curved tower facade and plaza view"
+ },
+ {
+  "id": "stuttgart-tv-tower",
+  "new_lead": null,
+  "add": [
+   "File:Fernsehturm Stuttgart amk.jpg",
+   "File:Fernsehturm Stuttgart Turmkorb.jpg"
+  ],
+  "why": "tower and basket details"
+ },
+ {
+  "id": "beurs-van-berlage",
+  "new_lead": null,
+  "add": [
+   "File:Beurs van Berlage 2508.jpg"
+  ],
+  "why": "brick facade"
+ },
+ {
+  "id": "baha-i-temple-of-south-america",
+  "new_lead": null,
+  "add": [
+   "File:Templo Bahá’í - A741067.jpg",
+   "File:Templo Bahá'í-2 A74195120240831.jpg",
+   "File:Templo Bahá'í de Sudamérica, Santiago 20200208 03.jpg"
+  ],
+  "why": "closer views and reflecting pool"
+ },
+ {
+  "id": "robson-square",
+  "new_lead": "File:Robson Square Vancouver 04.JPG",
+  "add": [
+   "File:Robson Square Vancouver 05.JPG"
+  ],
+  "why": "main shows a crowd at dusk; c1 is daylight, terraces and gardens"
+ },
+ {
+  "id": "toronto-dominion-centre",
+  "new_lead": null,
+  "add": [
+   "File:Toronto Financial District August 2017.jpg",
+   "File:Scotia Bank Plaza as seen from Toronto Dominion Centre.jpg"
+  ],
+  "why": "Featured looking up between the towers; black and white tower"
+ },
+ {
+  "id": "sharp-centre-for-design",
+  "new_lead": null,
+  "add": [
+   "File:Sharp Centre for Design August 2017 01.jpg"
+  ],
+  "why": "street view of the whole box"
+ }
+]

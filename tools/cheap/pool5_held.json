@@ -1,0 +1,268 @@
+[
+ {
+  "id": "shizuoka-city-museum-of-history",
+  "qid": "Q112226928",
+  "name": "Shizuoka City Museum of History",
+  "why": "architect unverified: the lead does not name SANAA",
+  "entry": {
+   "id": "shizuoka-city-museum-of-history",
+   "qid": "Q112226928",
+   "status": "photo",
+   "why": "SANAA building on the architect test; the lead is short.",
+   "name": "Shizuoka City Museum of History",
+   "by": "SANAA",
+   "city": "Shizuoka",
+   "cc": "JP",
+   "year": 2023,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Facade as skin",
+    "Light & shadow",
+    "Public space"
+   ],
+   "features": "SANAA's public history museum in Shizuoka city.",
+   "commons_category": "Category:Shizuoka City Museum of History",
+   "coords": [
+    34.97667,
+    138.38472
+   ],
+   "photos": [
+    {
+     "file": "File:DSC9803Shizuoka City Museum 20220724b.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/%E9%9D%99%E5%B2%A1%E5%B8%82%E6%AD%B4%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8",
+    "https://www.wikidata.org/wiki/Q112226928"
+   ]
+  }
+ },
+ {
+  "id": "historisches-museum-saar",
+  "qid": "Q1620996",
+  "name": "Historisches Museum Saar",
+  "why": "no sourced year",
+  "entry": {
+   "id": "historisches-museum-saar",
+   "qid": "Q1620996",
+   "status": "photo",
+   "why": "Böhm is well-known with other buildings on the wall; only one clean exterior photo.",
+   "name": "Historisches Museum Saar",
+   "by": "Gottfried Böhm",
+   "city": "Saarbrücken",
+   "cc": "DE",
+   "year": null,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Steel & glass",
+    "Facade as skin",
+    "Public space"
+   ],
+   "features": "A Saarland history museum on Saarbrücken's Schlossplatz, with excavated castle casemates that trace the castle's development.",
+   "commons_category": "Category:Historisches Museum Saar",
+   "coords": [
+    49.23,
+    6.99156
+   ],
+   "photos": [
+    {
+     "file": "File:Historisches Museum Saar Saarbruecken 01.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Historisches_Museum_Saar",
+    "https://www.wikidata.org/wiki/Q1620996"
+   ]
+  }
+ },
+ {
+  "id": "prins-hendrikkade-600",
+  "qid": "Q114876234",
+  "name": "Prins Hendrikkade 600",
+  "why": "no sourced year",
+  "entry": {
+   "id": "prins-hendrikkade-600",
+   "qid": "Q114876234",
+   "status": "photo",
+   "why": "The lead names Renzo Piano as designer of the 1996 pavilion, so the architect is Piano, not the Wikidata name.",
+   "name": "Prins Hendrikkade 600",
+   "by": "René van Zuuk",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "year": null,
+   "type": "Museum",
+   "movement": "Contemporary",
+   "concepts": [
+    "Steel & glass",
+    "Adaptive reuse",
+    "Sculptural form"
+   ],
+   "features": "New ARCAM architecture centre built around Piano's 1996 Oosterdok pavilion, with a lower waterside facade and a higher street facade.",
+   "commons_category": "Category:Prins Hendrikkade 600, Amsterdam",
+   "coords": [
+    52.37145,
+    4.91265
+   ],
+   "photos": [
+    {
+     "file": "File:2022 Arcam-gebouw, Asd (5).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:2022 Arcam-gebouw, Asd (1).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:2022 Arcam-gebouw, Asd (2).jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://nl.wikipedia.org/wiki/Prins_Hendrikkade_600",
+    "https://www.wikidata.org/wiki/Q114876234"
+   ]
+  }
+ },
+ {
+  "id": "santiago-del-estero-forum",
+  "qid": "Q16570318",
+  "name": "Santiago del Estero Forum",
+  "why": "no sourced year",
+  "entry": {
+   "id": "santiago-del-estero-forum",
+   "qid": "Q16570318",
+   "status": "photo",
+   "why": "Lead gives an architectural reason (historic station combined with modern use). Year null: the lead gives none, and prep's 2012 likely dates the reuse, not the station.",
+   "name": "Santiago del Estero Forum",
+   "by": "B4FS Studio",
+   "city": "Santiago del Estero",
+   "cc": "AR",
+   "year": null,
+   "type": "Civic",
+   "movement": "Contemporary",
+   "concepts": [
+    "Adaptive reuse",
+    "Detail",
+    "Monumentality"
+   ],
+   "features": "A convention centre in a former railway station, where historic and modern architecture are combined.",
+   "commons_category": "Category:Forum Santiago del Estero",
+   "coords": [
+    -27.78028,
+    -64.2625
+   ],
+   "photos": [
+    {
+     "file": "File:Forum Santiago del Estero.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/F%C3%B3rum_Santiago_del_Estero",
+    "https://www.wikidata.org/wiki/Q16570318"
+   ]
+  }
+ },
+ {
+  "id": "house-of-history-baden-wurttemberg",
+  "qid": "Q263491",
+  "name": "House of History Baden-Württemberg",
+  "why": "no sourced year",
+  "entry": {
+   "id": "house-of-history-baden-wurttemberg",
+   "qid": "Q263491",
+   "status": "photo",
+   "why": "Wilford's history museum in Stuttgart; front view photo.",
+   "name": "House of History Baden-Württemberg",
+   "by": "Michael Wilford, Manuel Schupp",
+   "city": "Stuttgart",
+   "cc": "DE",
+   "year": null,
+   "type": "Museum",
+   "movement": "Postmodernism",
+   "concepts": [
+    "Public space",
+    "Stone",
+    "Facade as skin"
+   ],
+   "features": "State history museum on Stuttgart's Cultural Mile between the Staatsgalerie and the Musikhochschule, a Stirling-Wilford project.",
+   "commons_category": "Category:Haus der Geschichte Baden-Württemberg",
+   "coords": [
+    48.7789,
+    9.18583
+   ],
+   "photos": [
+    {
+     "file": "File:Haus der Geschichte BW - Frontansicht.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:HausderGeschichteBaden-Württemberg.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    },
+    {
+     "file": "File:Stuttgart Haus der Geschichte-pjt1.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/House_of_History_Baden-W%C3%BCrttemberg",
+    "https://www.wikidata.org/wiki/Q263491"
+   ]
+  }
+ },
+ {
+  "id": "saxon-landtag",
+  "qid": "Q1618988",
+  "name": "Saxon Landtag",
+  "why": "no sourced year",
+  "entry": {
+   "id": "saxon-landtag",
+   "qid": "Q1618988",
+   "status": "photo",
+   "why": "Peter Kulka's Saxon parliament building in Dresden.",
+   "name": "Saxon Landtag",
+   "by": "Peter Kulka",
+   "city": "Dresden",
+   "cc": "DE",
+   "year": null,
+   "type": "Civic",
+   "movement": "Contemporary",
+   "concepts": [
+    "Steel & glass",
+    "Structure as expression",
+    "Public space"
+   ],
+   "features": "Seat of the Saxon state parliament, on Bernhard von Lindenau Platz in Dresden.",
+   "commons_category": "Category:Sächsischer Landtag (building)",
+   "coords": [
+    51.05678,
+    13.73316
+   ],
+   "photos": [
+    {
+     "file": "File:SLT-aussen.JPG",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Saxon_Landtag_%28building%29",
+    "https://www.wikidata.org/wiki/Q1618988"
+   ]
+  }
+ }
+]

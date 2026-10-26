@@ -1,0 +1,1433 @@
+[
+ {
+  "id": "supersam-warsaw",
+  "qid": "Q9348312",
+  "status": "skip",
+  "why": "demolished in 2006, per the lead"
+ },
+ {
+  "id": "rundkino-dresden",
+  "qid": "Q2176263",
+  "status": "photo",
+  "why": "Lead gives the 1972 opening and calls it one of the key buildings of postwar modernism in Dresden; architects from Wikidata.",
+  "name": "Rundkino Dresden",
+  "by": "Winfried Sziegoleit, Gerhard Landgraf",
+  "city": "Dresden",
+  "cc": "DE",
+  "year": 1972,
+  "type": "Culture & sport",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Exposed concrete",
+   "Facade as skin"
+  ],
+  "features": "Dresden's round cinema, the third cylindrical building in the GDR and a key postwar modernist work in the city.",
+  "commons_category": "Category:Rundkino Dresden",
+  "coords": [
+   51.0449,
+   13.7369
+  ],
+  "photos": [
+   {
+    "file": "File:20240616.Rundkino Dresden.-011.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:20240616.Rundkino Dresden.-012.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Rundkino 1982.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "maltz-performing-arts-center",
+  "qid": "Q5409789",
+  "status": "skip",
+  "why": "converted synagogue; lead gives no architectural reason and the architect is not on the wall"
+ },
+ {
+  "id": "deutschlandfunk-funkhaus",
+  "qid": "Q58199997",
+  "status": "skip",
+  "why": "office tower; lead gives no architectural reason"
+ },
+ {
+  "id": "miami-high-school",
+  "qid": "Q11692360",
+  "status": "skip",
+  "why": "school; lead names no architect and gives no reason beyond being famous"
+ },
+ {
+  "id": "stadttheater-furth",
+  "qid": "Q2328218",
+  "status": "photo",
+  "why": "Kept on the architect test: Fellner & Helmer have several theatres on the wall. Year 1902 is the completion in the lead.",
+  "name": "Stadttheater Fürth",
+  "by": "Fellner & Helmer, Hermann Helmer, Ferdinand Fellner",
+  "city": "Fürth",
+  "cc": "DE",
+  "year": 1902,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "A Baroque Revival theatre by the Viennese firm Fellner & Helmer, with a neo-rococo interior and 730 seats.",
+  "commons_category": "Category:Stadttheater Fürth",
+  "coords": [
+   49.47551,
+   10.9913
+  ],
+  "photos": [
+   {
+    "file": "File:Stadttheater Fürth-1262.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fürth - Stadttheater Fürth (44513176751).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Fürth Stadttheater 001.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mestske-divadlo-znojmo",
+  "qid": "Q2328285",
+  "status": "skip",
+  "why": "theatre; the German lead gives no architectural reason and the architect is not on the wall"
+ },
+ {
+  "id": "north-bohemian-theater-of-opera-and-ballet",
+  "qid": "Q30898197",
+  "status": "skip",
+  "why": "theatre; the German lead gives no architectural reason and the architect is not on the wall"
+ },
+ {
+  "id": "canyon-creek-shelter",
+  "qid": "Q5034191",
+  "status": "skip",
+  "why": "small rustic trail shelter; lead names no architect or reason it matters"
+ },
+ {
+  "id": "capitol-theatre",
+  "qid": "Q5035951",
+  "status": "skip",
+  "why": "performing arts venue; lead gives no architectural reason"
+ },
+ {
+  "id": "el-paso-high-school",
+  "qid": "Q5351775",
+  "status": "skip",
+  "why": "school; lead gives no architectural reason"
+ },
+ {
+  "id": "elsinore-theatre",
+  "qid": "Q5367667",
+  "status": "skip",
+  "why": "historic theatre; lead gives no architectural reason"
+ },
+ {
+  "id": "glensheen-historic-estate",
+  "qid": "Q5569329",
+  "status": "skip",
+  "why": "Gilded Age house; lead gives no reason beyond craftsmanship and the architect is not on the wall"
+ },
+ {
+  "id": "perry-belmont-house",
+  "qid": "Q6053886",
+  "status": "photo",
+  "why": "Kept on the architect test: Horace Trumbauer has a building on the wall. Year from Wikidata; the lead describes the French-style pavilion.",
+  "name": "Perry Belmont House",
+  "by": "Ernest Sanson, Horace Trumbauer",
+  "city": "Washington, D.C.",
+  "cc": "US",
+  "year": 1906,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Facade as skin",
+   "Monumentality"
+  ],
+  "features": "A French-style pavilion in Washington, D.C., with Ionic pilasters, a mansard attic and a balustrade of stone urns.",
+  "commons_category": "Category:Belmont Mansion (Washington, D.C.)",
+  "coords": [
+   38.91222,
+   -77.04167
+  ],
+  "photos": [
+   {
+    "file": "File:Belmont Mansion DCJPG.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Perry Belmont House (55263907837).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Belmont Mansion (Washington, D.C.).JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "olympia-theater-miami",
+  "qid": "Q7088984",
+  "status": "photo",
+  "why": "Lead names John Eberson's atmospheric style and says it is one of four such theatres still standing in Florida.",
+  "name": "Olympia Theater (Miami)",
+  "by": "John Eberson",
+  "city": "Miami",
+  "cc": "US",
+  "year": 1926,
+  "type": "Culture & sport",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Light & shadow",
+   "Detail",
+   "Monumentality"
+  ],
+  "features": "Designed in John Eberson's atmospheric style, one of the four remaining atmospheric theatres in Florida.",
+  "commons_category": "Category:Olympia Theater, Miami FL",
+  "coords": [
+   25.7742,
+   -80.19052
+  ],
+  "photos": [
+   {
+    "file": "File:Olympia Theatre Miami exterior 2016.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Olympia Theater Downtown Miami 1926 (21380533242).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "portland-city-hall",
+  "qid": "Q7231900",
+  "status": "skip",
+  "why": "Carrère and Hastings are not on the wall, and the lead gives no architectural reason"
+ },
+ {
+  "id": "proctor-s-theatre",
+  "qid": "Q7247509",
+  "status": "skip",
+  "why": "lead gives no architectural reason; the photo is mainly the marquee"
+ },
+ {
+  "id": "shea-s-performing-arts-center",
+  "qid": "Q7492114",
+  "status": "skip",
+  "why": "lead gives no architectural reason; the photos are mainly the signs"
+ },
+ {
+  "id": "warner-theatre-erie-pennsylvania",
+  "qid": "Q7969766",
+  "status": "photo",
+  "why": "Lead names Art Deco and the Chicago architects Rapp and Rapp. Year 1931 is the opening in the lead.",
+  "name": "Warner Theatre (Erie, Pennsylvania)",
+  "by": "Rapp and Rapp",
+  "city": "Erie",
+  "cc": "US",
+  "year": 1931,
+  "type": "Culture & sport",
+  "movement": "Art Deco",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Light & shadow"
+  ],
+  "features": "An Art Deco and French Renaissance-styled theatre in downtown Erie, designed by Chicago architects Rapp and Rapp.",
+  "commons_category": "Category:Warner Theatre, Erie, Pennsylvania",
+  "coords": [
+   42.12722,
+   -80.08333
+  ],
+  "photos": [
+   {
+    "file": "File:Warner Theatre Erie Front 2007.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Erie, PA - 20190921 - 11.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "william-h-moore-house",
+  "qid": "Q8010519",
+  "status": "photo",
+  "why": "Kept on the architect test: McKim, Mead & White have several buildings on the wall.",
+  "name": "William H. Moore House",
+  "by": "McKim, Mead & White",
+  "city": "New York",
+  "cc": "US",
+  "year": 1900,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Stone",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A six-story stone Renaissance Revival house by McKim, Mead & White, built as a private residence.",
+  "commons_category": "Category:William H. Moore House",
+  "coords": [
+   40.76064,
+   -73.97486
+  ],
+  "photos": [
+   {
+    "file": "File:William H. Moore House (55283614686).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:William-moore-house.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "skjoldhojkollegiet",
+  "qid": "Q12335725",
+  "status": "skip",
+  "why": "housing; the lead gives no architectural reason and the architects are not on the wall"
+ },
+ {
+  "id": "st-augustine",
+  "qid": "Q1255819",
+  "status": "skip",
+  "why": "parish centre; the lead gives no architectural reason and the architects are not on the wall"
+ },
+ {
+  "id": "protestant-resurrection-church-mainz",
+  "qid": "Q15106942",
+  "status": "skip",
+  "why": "church; the lead gives only a listed-monument note, and the main photo shows steps, not the building"
+ },
+ {
+  "id": "apostel-johannes-gemeindezentrum",
+  "qid": "Q15856671",
+  "status": "photo",
+  "why": "Brutalism named by the lead; opened 1971 per the lead. The lead also names Neumann as a co-designer; the prep list is kept.",
+  "name": "Apostel-Johannes-Gemeindezentrum",
+  "by": "Dietmar Grötzebach, Günter Plessow",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1971,
+  "type": "Religious",
+  "movement": "Brutalism",
+  "concepts": [
+   "Exposed concrete",
+   "Sculptural form",
+   "Monumentality"
+  ],
+  "features": "A massive, unusually shaped exposed-concrete parish centre in Berlin, a striking example of Brutalism.",
+  "commons_category": "Category:Apostel-Johannes-Gemeindezentrum (Berlin-Märkisches Viertel)",
+  "coords": [
+   52.59579,
+   13.35991
+  ],
+  "photos": [
+   {
+    "file": "File:09085077 Berlin-Märkisches Viertel, Dannenwalder Weg 167 003.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Märkisches Viertel Dannenwalder Weg Apostel-Johannes-Gemeinde.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Apostel-Johannes-Gemeindezentrum Glockenturm (Berlin-Märkisches Viertel).JPG",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gebouw-a-radio-kootwijk",
+  "qid": "Q2116292",
+  "status": "photo",
+  "why": "Art Deco named by the lead. Year 1919 is from Wikidata; the prep lead is cut off before any date.",
+  "name": "Gebouw A (Radio Kootwijk)",
+  "by": "Julius Luthmann",
+  "city": "Apeldoorn",
+  "cc": "NL",
+  "year": 1919,
+  "type": "Infrastructure",
+  "movement": "Art Deco",
+  "concepts": [
+   "Monumentality",
+   "Axis",
+   "Exposed concrete"
+  ],
+  "features": "A reinforced-concrete Art Deco building nicknamed 'the Cathedral', inspired by a sphinx and the Nauen radio station.",
+  "commons_category": "Category:Radio Kootwijk, Building A",
+  "coords": [
+   52.17334,
+   5.81883
+  ],
+  "photos": [
+   {
+    "file": "File:RadioKootwijk.A.Voor.JPG",
+    "license": "CC BY-SA 2.5",
+    "seen": true
+   },
+   {
+    "file": "File:Radio Kootwijk (5093365698).jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "reutersiedlung",
+  "qid": "Q2146663",
+  "status": "skip",
+  "why": "housing estate; lead gives no architectural reason and Max Taut is not on the wall"
+ },
+ {
+  "id": "kulturzentrum-mattersburg",
+  "qid": "Q38026062",
+  "status": "unsure",
+  "why": "Brutalist per the lead, but the only photo shows the 2021 glass rebuild and parts were demolished; needs a photo of the 1976 building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "john-sowden-house",
+  "qid": "Q6258545",
+  "status": "photo",
+  "why": "Lead names Lloyd Wright and the textile-block design; Lloyd Wright's Wayfarers Chapel is on the wall.",
+  "name": "John Sowden House",
+  "by": "Lloyd Wright",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1926,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Exposed concrete"
+  ],
+  "features": "A 1926 house with ornamented textile blocks, its facade said to look like a Mayan temple or a shark.",
+  "commons_category": "Category:John Sowden House",
+  "coords": [
+   34.10556,
+   -118.30111
+  ],
+  "photos": [
+   {
+    "file": "File:John Sowden House, Los Angeles.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Sowden House.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lake-quinault-lodge",
+  "qid": "Q1458501",
+  "status": "photo",
+  "why": "Kept on the architect test: Robert Reamer's Old Faithful Inn is on the wall; the lead calls the lodge a notable rustic example.",
+  "name": "Lake Quinault Lodge",
+  "by": "Robert Reamer",
+  "city": "Quinault",
+  "cc": "US",
+  "year": 1926,
+  "type": "Hospitality",
+  "movement": "Regionalism",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "A 1926 rustic lodge on Lake Quinault by Robert Reamer, reminiscent of his Old Faithful Inn.",
+  "commons_category": "Category:Lake Quinault Lodge",
+  "coords": [
+   47.46693,
+   -123.84827
+  ],
+  "photos": [
+   {
+    "file": "File:Lake Quinault Lodge.jpg",
+    "license": "CC BY 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:Quinault Lodge exterior with lawn courtesy Aramark. (34631283470).jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mercado-de-abastos",
+  "qid": "Q9031630",
+  "status": "photo",
+  "why": "Year 1935 is from the lead (designed then, replacing an 1827 market); Wikidata says 1934. Functionalist named by the lead.",
+  "name": "Mercado de Abastos",
+  "by": "Manuel Sánchez Arcas",
+  "city": "Algeciras",
+  "cc": "ES",
+  "year": 1935,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Vault",
+   "Light from above",
+   "Structure as expression"
+  ],
+  "features": "A 47.76 m dome only 9 cm thick, with no inner supports, over an octagonal Functionalist market in Algeciras.",
+  "commons_category": "Category:Mercado Ingeniero Torroja",
+  "coords": [
+   36.12903,
+   -5.4456
+  ],
+  "photos": [
+   {
+    "file": "File:Mercado torroja.jpg",
+    "license": "CC BY-SA 2.5 es",
+    "seen": true
+   },
+   {
+    "file": "File:Mercado Ingeniero Torroja Panorama 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "frank-latuda-house",
+  "qid": "Q106638905",
+  "status": "skip",
+  "why": "small house; the lead's reason is local significance only"
+ },
+ {
+  "id": "bauerova-vila",
+  "qid": "Q11061354",
+  "status": "photo",
+  "why": "Czech Cubism is not in the vocabulary; Expressionism is used as the nearest, as the wall's House of the Black Madonna does. Year 1914 from the lead.",
+  "name": "Bauerova vila",
+  "by": "Josef Gočár",
+  "city": "Libodřice",
+  "cc": "CZ",
+  "year": 1914,
+  "type": "House",
+  "movement": "Expressionism",
+  "concepts": [
+   "Sculptural form",
+   "Detail",
+   "Facade as skin"
+  ],
+  "features": "The only Cubist villa in the Czech countryside, built in 1912–1914 by Josef Gočár for estate owner Adolf Bauer.",
+  "commons_category": "Category:Bauerova vila",
+  "coords": [
+   50.0063,
+   15.0877
+  ],
+  "photos": [
+   {
+    "file": "File:Bauerova vila - Libodřice 3.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bauerova vila.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "grosses-haus-gluckert",
+  "qid": "Q115690847",
+  "status": "photo",
+  "why": "Lead names Olbrich's 1901 house and its UNESCO listing; Olbrich's Secession Building is on the wall.",
+  "name": "Großes Haus Glückert",
+  "by": "Joseph Maria Olbrich",
+  "city": "Darmstadt",
+  "cc": "DE",
+  "year": 1901,
+  "type": "House",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Sculptural form",
+   "Facade as skin"
+  ],
+  "features": "The largest of eight artists' houses built for the 1901 Darmstadt artists' colony exhibition; now a UNESCO site.",
+  "commons_category": "Category:Großes Glückerthaus",
+  "coords": [
+   49.87581,
+   8.66763
+  ],
+  "photos": [
+   {
+    "file": "File:DA-Gr Haus Glueckert1.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:01 Grosses Haus Glückert.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "deutsches-klingenmuseum-solingen",
+  "qid": "Q1205774",
+  "status": "unsure",
+  "why": "Lead gives no architectural reason. Wikidata's Kleihues (born 1933) cannot have designed a 1954 building, so the architect and date need checking.",
+  "note": "architect dates do not fit"
+ },
+ {
+  "id": "saratoga-foothill-club",
+  "qid": "Q123111121",
+  "status": "photo",
+  "why": "Julia Morgan has Hearst Castle on the wall. Lead gives no architectural detail; kept on the architect test.",
+  "name": "Saratoga Foothill Club",
+  "by": "Julia Morgan",
+  "city": "Saratoga",
+  "cc": "US",
+  "year": 1915,
+  "type": "Civic",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Timber",
+   "Landscape",
+   "Detail"
+  ],
+  "features": "A clubhouse in Saratoga, California, by Julia Morgan, listed on the National Register of Historic Places in 2005.",
+  "commons_category": "Category:Saratoga Foothill Club",
+  "coords": [
+   37.25904,
+   -122.03
+  ],
+  "photos": [
+   {
+    "file": "File:USA-Saratoga-Foothill Club.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "stichweh-wohnhaus",
+  "qid": "Q2348222",
+  "status": "photo",
+  "why": "Year 1953 from the lead; the photo captions say 1952.",
+  "name": "Stichweh-Wohnhaus",
+  "by": "Walter Gropius",
+  "city": "Hannover",
+  "cc": "DE",
+  "year": 1953,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Landscape",
+   "Light & shadow"
+  ],
+  "features": "Walter Gropius's first postwar building in Germany, and his only one in Hannover.",
+  "commons_category": "Category:Alleehof 4 (Hannover)",
+  "coords": [
+   52.3893,
+   9.70866
+  ],
+  "photos": [
+   {
+    "file": "File:Alleehof 4 Hannover Wohnhaus Wilhelm Stichweh Walter Gropius BDA Bund Deutscher Architekten in Niedersachsen.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:2019 Alleehof 4 in Hannover, Blick auf das Haus Stichweh, Ansicht von Nordwesten.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "werner-alfred-bad",
+  "qid": "Q2560680",
+  "status": "skip",
+  "why": "former swimming pool; the lead gives no architectural reason, and the wall's Baumgarten building is a different kind of work"
+ },
+ {
+  "id": "vila-tychonova-4",
+  "qid": "Q31825089",
+  "status": "photo",
+  "why": "Kept on the architect test (Gočár has two buildings on the wall); the lead is short.",
+  "name": "Vila Tychonova 4",
+  "by": "Josef Gočár",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1913,
+  "type": "House",
+  "movement": "Expressionism",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Geometry"
+  ],
+  "features": "The southern half of a double villa in Prague's Hradčany by Josef Gočár, protected since 1958.",
+  "commons_category": "Category:Tychonova 4",
+  "coords": [
+   50.09469,
+   14.40394
+  ],
+  "photos": [
+   {
+    "file": "File:Tychonova 4.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Praha, Tychonova 4.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "villa-kenwin",
+  "qid": "Q3558584",
+  "status": "photo",
+  "why": "Kept on the architect test (Henselmann has three buildings on the wall); the lead is short and gives the Bauhaus link only in the name.",
+  "name": "Villa Kenwin",
+  "by": "Hermann Henselmann, Alexander Ferenczy",
+  "city": "La Tour-de-Peilz",
+  "cc": "CH",
+  "year": 1931,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "A Bauhaus-style villa in La Tour-de-Peilz by Hermann Henselmann and Alexander Ferenczy.",
+  "commons_category": "Category:Villa Kenwin",
+  "coords": [
+   46.447,
+   6.8782
+  ],
+  "photos": [
+   {
+    "file": "File:Villa Kenwin (2).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Clarens 4240.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chiesa-dei-santi-pietro-e-girolamo",
+  "qid": "Q3668329",
+  "status": "photo",
+  "why": "Kept on the architect test (Michelucci has three buildings on the wall); the lead is short. Regionalism is a judgement from the stone and the photos.",
+  "name": "Chiesa dei Santi Pietro e Girolamo",
+  "by": "Giovanni Michelucci",
+  "city": "Pistoia",
+  "cc": "IT",
+  "year": 1951,
+  "type": "Religious",
+  "movement": "Regionalism",
+  "concepts": [
+   "Stone",
+   "Light from above",
+   "Timber"
+  ],
+  "features": "A church in Pistoia's Collina di Pontelungo, designed by Giovanni Michelucci.",
+  "commons_category": "Category:Santi Pietro e Girolamo (Pistoia)",
+  "coords": [
+   43.90224,
+   10.88109
+  ],
+  "photos": [
+   {
+    "file": "File:Pistoia, chiesa dei Santi Pietro e Girolamo a vinacciano, 02.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:Pistoia, chiesa dei Santi Pietro e Girolamo a vinacciano, interno 07.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "palazzo-delle-poste",
+  "qid": "Q3891521",
+  "status": "photo",
+  "why": "Kept on the architect test (Mazzoni has a building on the wall). Year 1933 is the inauguration in the lead.",
+  "name": "Palazzo delle Poste",
+  "by": "Angiolo Mazzoni",
+  "city": "La Spezia",
+  "cc": "IT",
+  "year": 1933,
+  "type": "Civic",
+  "movement": "Modernism",
+  "concepts": [
+   "Stone",
+   "Monumentality",
+   "Detail"
+  ],
+  "features": "A post office in La Spezia's central Piazza Verdi, designed in its architecture and furnishings by Angiolo Mazzoni.",
+  "commons_category": "Category:Palazzo delle Poste (La Spezia)",
+  "coords": [
+   44.10641,
+   9.82552
+  ],
+  "photos": [
+   {
+    "file": "File:Mazzoni Post La Spezia.JPG",
+    "license": "CC BY-SA 3.0 de",
+    "seen": true
+   },
+   {
+    "file": "File:La Spezia - Palazzo delle Poste.jpg",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "gilbert-m-simmons-memorial-library",
+  "qid": "Q5561084",
+  "status": "photo",
+  "why": "Kept on the architect test: Daniel Burnham's work is on the wall. Year 1900 is from Wikidata; the lead gives no date.",
+  "name": "Gilbert M. Simmons Memorial Library",
+  "by": "Daniel Burnham",
+  "city": "Kenosha",
+  "cc": "US",
+  "year": 1900,
+  "type": "Library",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Axis",
+   "Detail",
+   "Stone"
+  ],
+  "features": "A 1900 library in Kenosha, Wisconsin, by Daniel Burnham, and the first formal home of the Kenosha Public Library.",
+  "commons_category": "Category:Gilbert M. Simmons Memorial Library",
+  "coords": [
+   42.5806,
+   -87.8194
+  ],
+  "photos": [
+   {
+    "file": "File:Gilbert M. Simmons Memorial Library.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Gilbert M. Simmons Memorial Library interior.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mercado-de-las-carnes",
+  "qid": "Q6817999",
+  "status": "unsure",
+  "why": "Art Deco and a first pedestrian-mall concept, per the lead, but the prep list has no photos for this building.",
+  "note": "no main photo"
+ },
+ {
+  "id": "sara-delano-roosevelt-memorial-house",
+  "qid": "Q7421606",
+  "status": "photo",
+  "why": "Kept on the architect test (Platt has the Freer Gallery on the wall). Year 1908 is the completion in the lead.",
+  "name": "Sara Delano Roosevelt Memorial House",
+  "by": "Charles A. Platt",
+  "city": "New York",
+  "cc": "US",
+  "year": 1908,
+  "type": "House",
+  "movement": "Historic precedent",
+  "concepts": [
+   "Facade as skin",
+   "Detail",
+   "Axis"
+  ],
+  "features": "A Neo-Georgian townhouse by Charles A. Platt, built for Sara Delano Roosevelt, Franklin Roosevelt's mother.",
+  "commons_category": "Category:Sara Delano Roosevelt Memorial House",
+  "coords": [
+   40.76667,
+   -73.96806
+  ],
+  "photos": [
+   {
+    "file": "File:Sara-roosevelt-house.jpg",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   },
+   {
+    "file": "File:The Roosevelt House Public Policy Institute - Hunter College (55515226321).jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "bebelhof",
+  "qid": "Q813525",
+  "status": "photo",
+  "why": "Kept on the architect test (Karl Ehn designed the Karl-Marx-Hof on the wall). Year 1926 is the completion in the lead.",
+  "name": "Bebelhof",
+  "by": "Karl Ehn",
+  "city": "Vienna",
+  "cc": "AT",
+  "year": 1926,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Courtyard",
+   "Community",
+   "Facade as skin"
+  ],
+  "features": "A municipal housing block in Vienna by Karl Ehn, built in 1925–26 in Meidling.",
+  "commons_category": "Category:Bebelhof",
+  "coords": [
+   48.1817,
+   16.33743
+  ],
+  "photos": [
+   {
+    "file": "File:Bebelhof totale (02).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Bebelhof Ansicht 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "casa-alcaldia-de-carolina",
+  "qid": "Q85758586",
+  "status": "skip",
+  "why": "lead gives no architectural reason beyond concrete and steel; Carmoega is not a well-known architect"
+ },
+ {
+  "id": "newhouse-communications-center-i",
+  "qid": "Q120398849",
+  "status": "skip",
+  "why": "the lead is about the Syracuse University campus list, not this building"
+ },
+ {
+  "id": "langham-house-close",
+  "qid": "Q20712084",
+  "status": "photo",
+  "why": "Lead names Brutalism and Stirling and Gowan's first major joint project. Coordinates are missing from prep, so coords is null.",
+  "name": "Langham House Close",
+  "by": "James Stirling, James Gowan",
+  "city": "London",
+  "cc": "GB",
+  "year": 1958,
+  "type": "Housing",
+  "movement": "Brutalism",
+  "concepts": [
+   "Brick",
+   "Cluster",
+   "Landscape"
+  ],
+  "features": "Stirling and Gowan's first major joint project: three Grade II* listed blocks, influenced by Le Corbusier.",
+  "commons_category": "Category:Ham, Langham House Close",
+  "coords": null,
+  "photos": [
+   {
+    "file": "File:Ham Common, Langham House Close.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Ham Common, Langham House Close (1).jpg",
+    "license": "CC0",
+    "seen": true
+   },
+   {
+    "file": "File:Ham Common, Langham House Close (2).jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "wrva-building",
+  "qid": "Q7955376",
+  "status": "photo",
+  "why": "Lead names Johnson and calls it a landmark; the entrance photo is not used as the main photo.",
+  "name": "WRVA Building",
+  "by": "Philip Johnson",
+  "city": "Richmond",
+  "cc": "US",
+  "year": 1968,
+  "type": "Workplace",
+  "movement": "Late modernism",
+  "concepts": [
+   "Sculptural form",
+   "Light & shadow",
+   "Facade as skin"
+  ],
+  "features": "Built for a radio station and designed by Philip Johnson, called one of Richmond's most important mid-century landmarks.",
+  "commons_category": "Category:WRVA Building",
+  "coords": [
+   37.5328,
+   -77.4223
+  ],
+  "photos": [
+   {
+    "file": "File:Former WRVA Studio (3167565484).jpg",
+    "license": "CC BY-SA 2.0",
+    "seen": true
+   },
+   {
+    "file": "File:WRVA Building Entrance.JPG",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "mullersches-volksbad",
+  "qid": "Q1958790",
+  "status": "photo",
+  "why": "Lead names Art Nouveau and says the pool was the largest and most modern in the world when finished.",
+  "name": "Müllersches Volksbad",
+  "by": "Carl Hocheder",
+  "city": "Munich",
+  "cc": "DE",
+  "year": 1901,
+  "type": "Culture & sport",
+  "movement": "Art Nouveau",
+  "concepts": [
+   "Detail",
+   "Monumentality",
+   "Colour"
+  ],
+  "features": "Munich's Art Nouveau public baths, the largest and most modern swimming pool in the world when finished in 1901.",
+  "commons_category": "Category:Müllersches Volksbad",
+  "coords": [
+   48.13228,
+   11.58835
+  ],
+  "photos": [
+   {
+    "file": "File:Müllersches Volksbad Munich 2014 01.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Müllersches Volksbad Munich 2014 02.jpg",
+    "license": "CC BY 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Müllersches Volksbad in München, 2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "rotunda-of-xewkija",
+  "qid": "Q18391229",
+  "status": "skip",
+  "why": "lead gives no architectural reason; Ġużè Damato is not on the wall"
+ },
+ {
+  "id": "strusshamn-church",
+  "qid": "Q18555513",
+  "status": "skip",
+  "why": "lead describes a fan-shaped concrete church but gives no reason it matters; architects not on the wall"
+ },
+ {
+  "id": "powell-library",
+  "qid": "Q4405663",
+  "status": "skip",
+  "why": "lead gives campus identity, not an architectural reason; architect not on the wall"
+ },
+ {
+  "id": "dum-radost",
+  "qid": "Q11863357",
+  "status": "photo",
+  "why": "Lead names the functionalist style and a plan inspired by Le Corbusier, and says it was once the tallest office building in the country.",
+  "name": "Dům Radost",
+  "by": "Karel Honzík, Josef Havlíček",
+  "city": "Prague",
+  "cc": "CZ",
+  "year": 1934,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Monumentality",
+   "Geometry"
+  ],
+  "features": "A 52 m functionalist tower with a cruciform plan inspired by Le Corbusier, once the country's tallest office building.",
+  "commons_category": "Category:Dům Radost",
+  "coords": [
+   50.08444,
+   14.4425
+  ],
+  "photos": [
+   {
+    "file": "File:Žižkov Dům Radost 2.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Dům Radost, Praha 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "communal-house-of-the-textile-institute",
+  "qid": "Q3279128",
+  "status": "photo",
+  "why": "Lead calls it a Constructivist landmark; Constructivism is not in the vocabulary, so Modernism is used. Year 1931 is the end of the 1929–31 build.",
+  "name": "Communal House of the Textile Institute",
+  "by": "Ivan Nikolaev",
+  "city": "Moscow",
+  "cc": "RU",
+  "year": 1931,
+  "type": "Housing",
+  "movement": "Modernism",
+  "concepts": [
+   "Community",
+   "Facade as skin",
+   "Modular"
+  ],
+  "features": "A Constructivist landmark in Moscow, a 1929–31 student dormitory designed by Ivan Nikolaev for 2,000 students.",
+  "commons_category": "Category:Communal House of the Textile Institute",
+  "coords": [
+   55.71111,
+   37.59583
+  ],
+  "photos": [
+   {
+    "file": "File:Moscow Ordzhonikidze8 Y26.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Moscow Ordzhonikidze8 Y18.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "lubuski-teatr",
+  "qid": "Q11763206",
+  "status": "skip",
+  "why": "lead only says the theatre is now housed in a former Stadttheater; Kaufmann is not on the wall and no architectural reason is given"
+ },
+ {
+  "id": "san-luis-obispo-carnegie-library",
+  "qid": "Q14683887",
+  "status": "skip",
+  "why": "Richardsonian Romanesque, but the lead gives only local history and the architect is not on the wall"
+ },
+ {
+  "id": "branch-house",
+  "qid": "Q14712066",
+  "status": "skip",
+  "why": "lead gives a design year and ownership history only; Pope is not on the wall"
+ },
+ {
+  "id": "townsend-house",
+  "qid": "Q16901941",
+  "status": "skip",
+  "why": "lead gives no architectural reason; Carrère and Hastings are not on the wall"
+ },
+ {
+  "id": "kunsthalle-darmstadt",
+  "qid": "Q17493645",
+  "status": "skip",
+  "why": "lead says only that it is an exhibition building"
+ },
+ {
+  "id": "sather-gate",
+  "qid": "Q2226051",
+  "status": "skip",
+  "why": "a campus gate; the lead gives no architectural reason, and Howard is not on the wall"
+ },
+ {
+  "id": "abbeville-opera-house",
+  "qid": "Q4663953",
+  "status": "skip",
+  "why": "lead gives no architectural reason; the photo shows a plain facade"
+ },
+ {
+  "id": "scholes-hall",
+  "qid": "Q48796197",
+  "status": "photo",
+  "why": "Pueblo Revival is regional. Year 1936 is the end of the 1934–36 build in the lead.",
+  "name": "Scholes Hall",
+  "by": "John Gaw Meem",
+  "city": "Albuquerque",
+  "cc": "US",
+  "year": 1936,
+  "type": "Education",
+  "movement": "Regionalism",
+  "concepts": [
+   "Earth & local material",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "The first of John Gaw Meem's Pueblo Revival campus buildings, and one of his most notable designs.",
+  "commons_category": "Category:Scholes Hall",
+  "coords": [
+   35.08532,
+   -106.62348
+  ],
+  "photos": [
+   {
+    "file": "File:Unm scholeshall.jpg",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Scholes Hall, Albuquerque NM.jpg",
+    "license": "CC BY 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "buchanan-school",
+  "qid": "Q4982585",
+  "status": "skip",
+  "why": "school; the lead gives no architectural reason"
+ },
+ {
+  "id": "cascade-canyon-barn",
+  "qid": "Q5048106",
+  "status": "skip",
+  "why": "rustic barn; the lead gives no architectural reason and the prep list has no photos"
+ },
+ {
+  "id": "crater-lake-superintendent-s-residence",
+  "qid": "Q5182625",
+  "status": "skip",
+  "why": "park residence; the lead gives a landmark note but no named architect or movement"
+ },
+ {
+  "id": "edmund-blinn-house",
+  "qid": "Q5339295",
+  "status": "skip",
+  "why": "lead gives only the NRHP listing"
+ },
+ {
+  "id": "gem-theatre",
+  "qid": "Q5530563",
+  "status": "skip",
+  "why": "lead gives no architectural reason beyond 'ornate'"
+ },
+ {
+  "id": "john-nance-garner-house",
+  "qid": "Q6250142",
+  "status": "skip",
+  "why": "historic family home; the lead's reasons are the Garner family and local history"
+ },
+ {
+  "id": "joseph-h-brown-elementary-school",
+  "qid": "Q6283641",
+  "status": "photo",
+  "why": "Lead names Art Deco and Moderne, and says the architect was the school district's main architect.",
+  "name": "Joseph H. Brown Elementary School",
+  "by": "Irwin T. Catharine",
+  "city": "Philadelphia",
+  "cc": "US",
+  "year": 1937,
+  "type": "Education",
+  "movement": "Art Deco",
+  "concepts": [
+   "Brick",
+   "Facade as skin",
+   "Detail"
+  ],
+  "features": "A 1937 Philadelphia school by the district's main architect, an exemplar of Art Deco and Moderne design.",
+  "commons_category": "Category:Joseph H. Brown Elementary School",
+  "coords": [
+   40.04333,
+   -75.025
+  ],
+  "photos": [
+   {
+    "file": "File:Phila JosephHBrownSchool02.png",
+    "license": "Public domain",
+    "seen": true
+   },
+   {
+    "file": "File:Phila JosephHBrownSchool01.png",
+    "license": "Public domain",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "town-hall-arts-center",
+  "qid": "Q7829962",
+  "status": "skip",
+  "why": "lead gives only the NRHP listing"
+ },
+ {
+  "id": "hochhaus-wurttembergische-strasse-6",
+  "qid": "Q105046867",
+  "status": "photo",
+  "why": "Lead names Roth, Schubert and Kirchberger; Kirchberger is named for the facade mosaic, so the lead's designers are used. Year 1956 is the end of the 1954–56 build.",
+  "name": "Hochhaus Württembergische Straße 6",
+  "by": "Werry Roth, Richard Schubert",
+  "city": "Berlin",
+  "cc": "DE",
+  "year": 1956,
+  "type": "Office & tower",
+  "movement": "Modernism",
+  "concepts": [
+   "Facade as skin",
+   "Steel & glass",
+   "Detail"
+  ],
+  "features": "West Berlin's first office high-rise, a pioneering example of postwar modernism with open, transparent architecture.",
+  "commons_category": "Category:Württembergische Straße 6",
+  "coords": [
+   52.49253,
+   13.31518
+  ],
+  "photos": [
+   {
+    "file": "File:MJK 55083 Senatsverwaltung für Stadtentwicklung und Wohnen (Berlin).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Wilmersdorf Württembergische Straße1.JPG",
+    "license": "CC BY-SA 3.0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "case-study-house-no-1",
+  "qid": "Q118710310",
+  "status": "photo",
+  "why": "Lead names the Case Study Houses programme and the National Register listing; the house is a documented example of it.",
+  "name": "Case Study House No. 1",
+  "by": "JR (Julius Ralph) Davidson",
+  "city": "Los Angeles",
+  "cc": "US",
+  "year": 1948,
+  "type": "House",
+  "movement": "Modernism",
+  "concepts": [
+   "Modular",
+   "Light & shadow",
+   "Landscape"
+  ],
+  "features": "A single-story house in the Case Study Houses program, completed in 1948 with glass, concrete block and plywood.",
+  "commons_category": "Category:Case Study House 1",
+  "coords": [
+   34.1485,
+   -118.3516
+  ],
+  "photos": [
+   {
+    "file": "File:Case Study House No. 1 view from street 2014 (2).jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   },
+   {
+    "file": "File:Case Study House No. 1 view from street 2014.jpg",
+    "license": "CC0",
+    "seen": true
+   }
+  ]
+ },
+ {
+  "id": "chamber-of-commerce-and-industry-cordoba",
+  "qid": "Q17376094",
+  "status": "unsure",
+  "why": "Lead gives a search for a new modern language and the first work of young architects, but the prep photos are only elevations and plans.",
+  "note": "no main photo"
+ },
+ {
+  "id": "chiesa-dei-santi-giovanni-e-paolo",
+  "qid": "Q17383903",
+  "status": "photo",
+  "why": "Kept on the lead's reason (an interesting example of modern church architecture). Year 1964 is from Wikidata; the lead only says the 1960s.",
+  "name": "Chiesa dei Santi Giovanni e Paolo",
+  "by": "Luigi Figini, Gino Pollini",
+  "city": "Milan",
+  "cc": "IT",
+  "year": 1964,
+  "type": "Religious",
+  "movement": "Modernism",
+  "concepts": [
+   "Brick",
+   "Courtyard",
+   "Sculptural form"
+  ],
+  "features": "One of the most interesting examples of modern church architecture in Milan, by Luigi Figini and Gino Pollini.",
+  "commons_category": "Category:Santi Giovanni e Paolo (Milan)",
+  "coords": [
+   45.49835,
+   9.17152
+  ],
+  "photos": [
+   {
+    "file": "File:Church SS Giovanni and Paolo, Milan.jpg",
+    "license": "CC BY-SA 4.0",
+    "seen": true
+   }
+  ]
+ }
+]

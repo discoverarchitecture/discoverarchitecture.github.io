@@ -1,2 +1,2 @@
-python -u tools/batch_facts.py batch3
-Fetch Wikidata years, architect birth years and country codes for batch 3, to check the curated years.
+python -u tools/fetch_pages.py tools/cheap/handwritten_urls.json tools/cheap/handwritten_pages
+Save the source pages for the hand-written entries.

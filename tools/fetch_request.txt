@@ -1,2 +1,2 @@
---minutes 300
-Fetch photos for the 25 approved batch 3 buildings.
+--only casa-de-victoria-ocampo
+House of Victoria Ocampo: an outside view first, and two of Bustillo's 1928 drawings (CC BY-SA, Di Tella archive).

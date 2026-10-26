@@ -1,0 +1,64 @@
+[
+ {
+  "id": "lovell-health-house",
+  "add": [
+   "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 8 of 9).png"
+  ],
+  "kinds": {
+   "File:Lovell (Health) House, 4616 Dundee Drive, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,66- (sheet 8 of 9).png": "Section"
+  },
+  "why": "HABS measured drawing sheet 8 of 9: three clear building sections of the Lovell Health House (png kept, tif twin skipped). Sheet 1 of 9 is a text title sheet with a small site map, left out."
+ },
+ {
+  "id": "bibliotheque-sainte-genevieve",
+  "add": [
+   "File:Bibliothek Sainte-Geneviève ground floor plan.jpg",
+   "File:Bibliothèque Sainte-Geneviève floor plan.jpg"
+  ],
+  "kinds": {
+   "File:Bibliothek Sainte-Geneviève ground floor plan.jpg": "Plan",
+   "File:Bibliothèque Sainte-Geneviève floor plan.jpg": "Plan"
+  },
+  "why": "Two clear historic printed plans from Commons plan categories (ground floor with labels; second, the long upper reading-room plan with the central column row). Different floors, not duplicates."
+ },
+ {
+  "id": "reliance-building",
+  "add": [
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 2 of 4).png",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 3 of 4).png",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 4 of 4).png"
+  ],
+  "kinds": {
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 2 of 4).png": "Plan",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 3 of 4).png": "Elevation",
+   "File:Reliance Building, 32 North State Street, Chicago, Cook County, IL HABS ILL,16-CHIG,30- (sheet 4 of 4).png": "Elevation"
+  },
+  "why": "HABS measured drawings: floor plans (sheet 2) and two facade elevations (sheets 3 and 4); tif twins skipped. Sheet 1 of 4 is a text title sheet, left out."
+ },
+ {
+  "id": "hanoi-opera-house",
+  "add": [
+   "File:Francois Lagisquet - Hanoi Opera House.jpg",
+   "File:Harley and Broyer - Hanoi Opera House 2.jpg"
+  ],
+  "kinds": {
+   "File:Francois Lagisquet - Hanoi Opera House.jpg": "Elevation",
+   "File:Harley and Broyer - Hanoi Opera House 2.jpg": "Elevation"
+  },
+  "why": "Two historic colonial-era elevation drawings of the Hanoi municipal theatre (main facade by Lagisquet, rear elevation by Harley and Broyer); Commons category Drawings of Hanoi Opera."
+ },
+ {
+  "id": "schindler-house",
+  "add": [
+   "File:SchindlerHouse00003a.gif",
+   "File:SchindlerHouse00004a.gif",
+   "File:SchindlerHouse00005a.gif"
+  ],
+  "kinds": {
+   "File:SchindlerHouse00003a.gif": "Plan",
+   "File:SchindlerHouse00004a.gif": "Plan",
+   "File:SchindlerHouse00005a.gif": "Elevation"
+  },
+  "why": "HABS measured drawings of the Schindler House: first floor plan, second floor plan and the four elevations. GIF format, check the site can show it. Title sheet (SchindlerHouse plans.djvu) left out."
+ }
+]

@@ -1,0 +1,228 @@
+[
+ {
+  "id": "independence-hall-israel",
+  "qid": "Q2620299",
+  "name": "Independence Hall (Israel)",
+  "why": "no sourced year",
+  "entry": {
+   "id": "independence-hall-israel",
+   "qid": "Q2620299",
+   "status": "photo",
+   "why": "Adaptive reuse of a house redesigned in the International Style; the lead gives no redesign year.",
+   "name": "Independence Hall (Israel)",
+   "by": "Carl Rubin",
+   "city": "Tel Aviv",
+   "cc": "IL",
+   "year": null,
+   "type": "Museum",
+   "movement": "Modernism",
+   "concepts": [
+    "Adaptive reuse",
+    "Public space",
+    "Facade as skin"
+   ],
+   "features": "Dizengoff's house, redesigned by Carl Rubin in the International Style, where Israel's Declaration of Independence was signed.",
+   "commons_category": "Category:Independence Hall, Tel Aviv-Yafo",
+   "coords": [
+    32.06278,
+    34.77083
+   ],
+   "photos": [
+    {
+     "file": "File:Israel ind mus.JPG",
+     "license": "Public domain",
+     "seen": true
+    },
+    {
+     "file": "File:Independence Hall - Israel.jpg",
+     "license": "CC BY-SA 3.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Independence_Hall_%28Israel%29",
+    "https://www.wikidata.org/wiki/Q2620299"
+   ]
+  }
+ },
+ {
+  "id": "palacio-diaz",
+  "qid": "Q1749496",
+  "name": "Palacio Díaz",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "palacio-diaz",
+   "qid": "Q1749496",
+   "status": "photo",
+   "why": "Lead names the Art Deco style; the photos show the tower from the street in daylight.",
+   "name": "Palacio Díaz",
+   "by": "Gonzalo Vázquez Barrière, Rafael Ruano",
+   "city": "Montevideo",
+   "cc": "UY",
+   "year": 1929,
+   "type": "Office & tower",
+   "movement": "Art Deco",
+   "concepts": [
+    "Facade as skin",
+    "Geometry",
+    "Public space"
+   ],
+   "features": "Art Deco building on Montevideo's 18 de Julio with flats, offices and a shopping passage, opened in 1929.",
+   "commons_category": "Category:Palacio Díaz, Montevideo",
+   "coords": [
+    [
+     -34.90622,
+     -56.19281
+    ]
+   ],
+   "photos": [
+    {
+     "file": "File:2016 Uruguay Palacio Díaz Av. 18 de Julio 1333, entre Yaguarón y Ejido. En Montevideo.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    },
+    {
+     "file": "File:2016 vista del Palacio Díaz Av. 18 de Julio 1333, entre Yaguarón y Ejido de Montevideo.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Palacio_D%C3%ADaz",
+    "https://www.wikidata.org/wiki/Q1749496"
+   ]
+  }
+ },
+ {
+  "id": "botter-appartement",
+  "qid": "Q99852364",
+  "name": "Botter-appartement",
+  "why": "no main photo",
+  "entry": {
+   "id": "botter-appartement",
+   "qid": "Q99852364",
+   "status": "photo",
+   "why": "Lead gives a first (office, shop and home in one building) by a famous architect; lead gives only \"1900s\", so no year.",
+   "name": "Botter-appartement",
+   "by": "Raimondo Tommaso D'Aronco",
+   "city": "Istanbul",
+   "cc": "TR",
+   "year": null,
+   "type": "Housing",
+   "movement": "Historic precedent",
+   "concepts": [
+    "Facade as skin",
+    "Detail",
+    "Adaptive reuse"
+   ],
+   "features": "The first Istanbul building designed to combine office, shop and home, by a famous architect of its time.",
+   "commons_category": "Category:Botter Apartment",
+   "coords": [
+    [
+     41.02922,
+     28.9754
+    ]
+   ],
+   "photos": [
+    {
+     "file": "File:Botter Apartment.jpg",
+     "license": "CC BY-SA 4.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://nl.wikipedia.org/wiki/Botter-appartement",
+    "https://www.wikidata.org/wiki/Q99852364"
+   ]
+  }
+ },
+ {
+  "id": "edificio-guardiola",
+  "qid": "Q65037626",
+  "name": "Edificio Guardiola",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "edificio-guardiola",
+   "qid": "Q65037626",
+   "status": "photo",
+   "why": "Lead: a functionalist (modernist) office building, built 1947.",
+   "name": "Edificio Guardiola",
+   "by": "Carlos Obregón Santacilia",
+   "city": "Mexico City",
+   "cc": "MX",
+   "year": 1947,
+   "type": "Office & tower",
+   "movement": "Modernism",
+   "concepts": [
+    "Facade as skin",
+    "Modular",
+    "Geometry"
+   ],
+   "features": "Functionalist office building by Carlos Obregón Santacilia for Banco de México, built in 1947.",
+   "commons_category": "Category:Edificio Guardiola",
+   "coords": [
+    [
+     19.43443,
+     -99.14045
+    ]
+   ],
+   "photos": [
+    {
+     "file": "File:Edificio Guardiola 11 (rectified).jpg",
+     "license": "Public domain",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://es.wikipedia.org/wiki/Edificio_Guardiola",
+    "https://www.wikidata.org/wiki/Q65037626"
+   ]
+  }
+ },
+ {
+  "id": "coliseo-la-tortuga",
+  "qid": "Q5145752",
+  "name": "Coliseo La Tortuga",
+  "why": "ordinary type, over the 20% cap",
+  "entry": {
+   "id": "coliseo-la-tortuga",
+   "qid": "Q5145752",
+   "status": "photo",
+   "why": "Lead gives the distinctive turtle-shell roof and the arena's size as the reason it stands out. The photo is a daylight view of the whole building with palms in front and no people. Year null: the lead gives no completion year (Wikidata says 1980). Movement is my choice; the lead names none.",
+   "name": "Coliseo La Tortuga",
+   "by": "José Llambías",
+   "city": "Talcahuano",
+   "cc": "CL",
+   "year": 1980,
+   "type": "Culture & sport",
+   "movement": "Late modernism",
+   "concepts": [
+    "Sculptural form",
+    "Monumentality",
+    "Public space"
+   ],
+   "features": "Renowned for its distinctive roof, shaped like a turtle's shell, and until recently Chile's largest building of its kind.",
+   "commons_category": "Category:Coliseo Monumental La Tortuga",
+   "coords": [
+    -36.72,
+    -73.10861
+   ],
+   "photos": [
+    {
+     "file": "File:Coliseo La Tortuga (7118487397).jpg",
+     "license": "CC BY-SA 2.0",
+     "seen": true
+    },
+    {
+     "file": "File:Coliseo La Tortuga (6972409366).jpg",
+     "license": "CC BY-SA 2.0",
+     "seen": true
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Coliseo_La_Tortuga",
+    "https://www.wikidata.org/wiki/Q5145752"
+   ]
+  }
+ }
+]

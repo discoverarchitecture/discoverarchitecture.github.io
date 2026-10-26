@@ -1,0 +1,78 @@
+[
+ {
+  "id": "alhambra",
+  "add": [
+   54248
+  ],
+  "kinds": {
+   "54248": "Exterior"
+  },
+  "why": "Charles Clifford albumen photograph of the Court of the Lions; clearly this building (catalogue date 'c. 1960' is surely wrong, Clifford worked 1850s-60s)."
+ },
+ {
+  "id": "royal-albert-hall",
+  "add": [
+   60138
+  ],
+  "kinds": {
+   "60138": "Exterior"
+  },
+  "why": "Historic albumen photograph of the hall's exterior, dome and entrance, sharp and clearly this building."
+ },
+ {
+  "id": "victoria-memorial-kolkata",
+  "add": [
+   103194
+  ],
+  "kinds": {
+   "103194": "Exterior"
+  },
+  "why": "Early 20th c. photograph of the memorial across the water; low contrast but clearly the building."
+ },
+ {
+  "id": "wollaton-hall",
+  "add": [
+   198923
+  ],
+  "kinds": {
+   "198923": "Drawing"
+  },
+  "why": "Kip engraving (Britannia Illustrata, 1707): bird's-eye view of the hall and its gardens, clearly this house; a print, not an architect's drawing."
+ },
+ {
+  "id": "rookery-building",
+  "add": [
+   144340,
+   239956,
+   239241
+  ],
+  "kinds": {
+   "144340": "Elevation",
+   "239956": "Section",
+   "239241": "Drawing"
+  },
+  "why": "Burnham & Root drawings titled for the Rookery: LaSalle Street elevation (clear), elevation and section (damaged sheet, still readable), details sheet with plan/section pieces. Grille 146323 left out (ornament fragment)."
+ },
+ {
+  "id": "flatiron-building",
+  "add": [
+   66715
+  ],
+  "kinds": {
+   "66715": "Exterior"
+  },
+  "why": "Stieglitz 1903 photogravure 'The Flatiron': iconic early view; hazy and artistic, borderline."
+ },
+ {
+  "id": "auditorium-building-chicago",
+  "add": [
+   72089,
+   205223
+  ],
+  "kinds": {
+   "72089": "Drawing",
+   "205223": "Drawing"
+  },
+  "why": "Opus: Adler & Sullivan working drawings of this building (pilaster details with section; lobby details on a plan arc)."
+ }
+]

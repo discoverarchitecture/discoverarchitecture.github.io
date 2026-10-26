@@ -1,0 +1,142 @@
+[
+ {
+  "id": "2026-10-23-12",
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "New candidate search: (1) batch 9 from the Pritzker winners' buildings not yet on the wall (139); (2) harvest buildings from 2000 on with a lower fame bar (tools/harvest_recent.py) for batch 10",
+  "target": 60,
+  "actual": 106,
+  "note": "Batch 9: 22 added; batch 10 (300 from the 2000-on harvest) being prepared",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-23-13",
+  "date": "2026-10-23",
+  "workstream": "Data collection",
+  "goal": "Fix-up round: find sourced years for the 51 buildings held for want of one (tools/held_years.py, Sonnet picks the year and quotes the source), then add them",
+  "target": 30,
+  "actual": 106,
+  "note": "39 added",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-22-10",
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 7: 300 candidates from 1900 on, no towers, offices, housing, hotels or shops in the pool, no local US houses and theatres by architects not on the wall; ordinary types kept under 20% (owner's rule); Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
+  "target": 80,
+  "actual": 154,
+  "note": "102 added, ordinary types 8%",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-22-11",
+  "date": "2026-10-22",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 8: 300 candidates from 1900 on with batch 7's rules (no ordinary types in the pool; local US houses, halls, theatres, libraries and churches by architects not on the wall left out); ordinary types under 20%",
+  "target": 70,
+  "actual": 154,
+  "note": "52 added, ordinary types 17%",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-21-8",
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 5: 300 contemporary candidates (1990 or later), at most 4 per architect; Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
+  "target": 80,
+  "actual": 373,
+  "note": "82 added",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-21-9",
+  "date": "2026-10-21",
+  "workstream": "Data collection",
+  "goal": "Haiku batch 6: 300 candidates from 1900–1989, at most 4 per architect, no government post offices or courthouses; Haiku judges, Sonnet checks every judgement, Opus checks every gallery",
+  "target": 80,
+  "actual": 373,
+  "note": "114 added",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-20-5",
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "goal": "Drawings for the most-studied buildings ranked 201-1,000: Commons scan in four runs, Sonnet first check, Opus check by eye, fetch",
+  "target": null,
+  "actual": null,
+  "note": "",
+  "status": "in progress"
+ },
+ {
+  "id": "2026-10-20-6",
+  "date": "2026-10-20",
+  "workstream": "Data collection",
+  "goal": "Architect pages batch 7 (ranks 161-190): write-ups by the Opus writer chat, then build, check and pull request",
+  "target": null,
+  "actual": null,
+  "note": "",
+  "status": "in progress"
+ },
+ {
+  "id": "2026-10-20-7",
+  "date": "2026-10-20",
+  "workstream": "FGA Studio (design)",
+  "goal": "Remake the sample jury board as a competition-style sheet and put three directions on the canvas (v32), phone and computer",
+  "target": null,
+  "actual": null,
+  "note": "Canvas v32; page with the new board at https://claude.ai/artifact/BSryrWdYyaYMF6beeECjco; branch claude/studio-board",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-19-3",
+  "date": "2026-10-19",
+  "workstream": "Data collection",
+  "goal": "Better photos: find Commons Featured, Quality and Valued photos missing from galleries, pilot on the first 300 buildings (Sonnet finds, Opus checks every new main photo by eye)",
+  "target": null,
+  "actual": null,
+  "note": "Owner chose this over copying roark.archi, whose terms forbid bulk copying; Roark takes its photos from Commons anyway.",
+  "status": "in progress"
+ },
+ {
+  "id": "2026-10-19-4",
+  "date": "2026-10-19",
+  "workstream": "Data collection",
+  "goal": "Round 9: 500 new buildings today from seven Sonnet chats (German-speaking countries, Spain and Portugal, the Nordic countries, award winners worldwide, USA Midwest and South, Australia and New Zealand, China, Hong Kong and Taiwan), every main photo checked by eye",
+  "target": 500,
+  "actual": 122,
+  "note": "Owner asked for 500 today. Brief adds the stricter main-photo rule, Commons-rated photos first, and a check that the Commons category is the building's own.",
+  "status": "in progress"
+ },
+ {
+  "id": "2026-10-14-0",
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "goal": "New buildings",
+  "target": 500,
+  "actual": 776,
+  "note": "Resumed at the owner's request: 500–1,000 a day. Round 7: eight Sonnet chats, about 100 each, photos reviewed by eye before they go up. Counted once merged to the live site.",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-14-1",
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "goal": "Keep the progress dashboard current",
+  "target": null,
+  "actual": null,
+  "note": "Chats refresh it after each merge; a daily run at 17:51 UTC is the safety net.",
+  "status": "done"
+ },
+ {
+  "id": "2026-10-14-2",
+  "date": "2026-10-14",
+  "workstream": "Data collection",
+  "goal": "Round 8: five more Sonnet chats (South America, Africa, Middle East and Turkey, South Asia, Japan and Korea), to pass 500 today and start tomorrow's",
+  "target": null,
+  "actual": null,
+  "note": "Started at 11:40 UTC after round 7 merged 472. Same review by eye before anything goes up.",
+  "status": "done"
+ }
+]

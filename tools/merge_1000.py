@@ -23,16 +23,23 @@ COUNTRY_CAP = {'US': 75, 'JP': 70, 'GB': 50, 'FR': 45, 'DE': 45, 'CN': 40, 'IT':
 DEFAULT_CAP = 30
 
 REGIONS = {
-    'Europe': 'AD AT BA BE BG BY CH CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MK MT NL NO PL PT RS RU SE SI SK UA VA XK',
-    'Americas': 'AR BR CA CL CO CU DO EC GT MX NI PA PE PR PY SV US UY VE',
-    'East Asia': 'CN HK JP KR MO TW',
-    'Southeast Asia': 'ID KH MY PH SG TH VN',
-    'South Asia': 'BD IN LK NP PK',
-    'Middle East': 'AE AM AZ BH EG GE IL IQ IR JO KW KZ LB OM PS QA SA TR UZ YE',
-    'Africa': 'AO BF CI DZ ER ET GH GN KE MA ML MZ NE NG RW SD SN TZ UG ZA ZW',
+    'Europe': 'AD AL AT BA BE BG BY CH CY CZ DE DK EE ES FI FO FR GB GL GR HR HU IE IS IT LI LT LU LV MD ME MK MT NL NO PL PT RO RS RU SE SI SK SM UA UK VA XK',
+    'Americas': 'AR BO BR CA CL CO CR CU DO EC GT HN HT JM MX NI PA PE PR PY SV US UY VE',
+    'East Asia': 'CN HK JP KR MN MO TW',
+    'Southeast Asia': 'BN ID KH LA MM MY PH SG TH TL VN',
+    'South Asia': 'AF BD BT IN LK MV NP PK',
+    'Middle East': 'AE AM AZ BH EG GE IL IQ IR JO KG KW KZ LB OM PS QA SA SY TJ TM TR UZ YE',
+    'Africa': 'AO BF BJ BW CD CG CI CM DZ ER ET GA GH GN KE LY MA MG ML MR MU MW MZ NA NE NG RW SD SN TG TN TZ UG ZA ZM ZW',
     'Oceania': 'AU NC NZ',
 }
-REGION = {cc: r for r, ccs in REGIONS.items() for cc in ccs.split()}
+REGION = {cc: r for r, ccs in REGIONS.items() for cc in ccs.split()} | {'Hong Kong': 'East Asia'}  # each country in exactly one region
+
+
+def region(cc):
+    """The country's region; an unknown country stops the merge rather than landing in Europe."""
+    if cc not in REGION:
+        raise KeyError(f'country {cc} has no region: add it to REGIONS in tools/merge_1000.py')
+    return REGION[cc]
 
 
 def fold(s):
@@ -69,12 +76,13 @@ def candidates():
 
 
 def entry(c, n, ids):
-    y = int(re.search(r'\d{3,4}', str(c['year'])).group())
+    m = re.search(r'\d{3,4}', str(c['year']))
+    y = int(m.group()) if m else None  # "Year unavailable": no source gives one (owner, 24 Oct 2026)
     base = slug(c['name'])
     i = base if base not in ids else f"{base}-{slug(c['city'])}"
     return {
         'id': i, 'n': n, 'name': c['name'], 'by': c['by'], 'place': f"{c['city']}, {c['cc']}", 'year': str(c['year']), 'y': y,
-        'type': c['type'], 'movement': c['movement'], 'region': REGION.get(c['cc'], 'Europe'), 'era': era(y),
+        'type': c['type'], 'movement': c['movement'], 'region': region(c['cc']), 'era': era(y) if y else None,
         'concepts': c['concepts'], 'study': c['features'], 'qid': c['qid'],
         'commons': 'Category:' + c['commons'] if c.get('commons') else None,
         'lead': 'File:' + c['lead'] if c.get('lead') else None,

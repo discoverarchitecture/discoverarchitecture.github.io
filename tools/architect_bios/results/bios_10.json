@@ -1,0 +1,309 @@
+[
+ {
+  "name": "Werner Düttmann",
+  "qid": "Q100542",
+  "kind": "person",
+  "born_died": "1921–1983",
+  "country": "German",
+  "bio": "Werner Düttmann (1921–1983) was a German architect, planner and painter, counted among the most important figures of post-war modernism in West Berlin. Born in Berlin, the son of a sculptor, he finished his studies under Hans Scharoun in 1948 and then studied town planning at Durham University in England. In 1960 he became Senatsbaudirektor, West Berlin's director of building, and from 1971 until his death was president of the Academy of Arts. In the late 1960s and 1970s he was closely involved in the large-scale clearance and rebuilding of Kreuzberg around the Kottbusser Tor and the Mehringplatz.\n\nFor the Academy of Arts, Hanseatenweg (1960), the studio building in particular bears his hand. The Brücke Museum in Dahlem (1967), commissioned at the request of the painter Karl Schmidt-Rottluff, gathers white-rendered cubes around an inner courtyard into a single-storey building like a large bungalow, lit by big skylights; the critic Ulrich Conrads called it a \"museum without the smell of a museum\". In the same years he built the Catholic church and parish centre St. Agnes (König Galerie) in Kreuzberg (1967).",
+  "facts": [
+   {
+    "claim": "Werner Düttmann, 6 March 1921 Berlin – 26 January 1983 Berlin; German architect, planner and painter; son of the sculptor Hermann Düttmann; TH Berlin from 1939; prisoner of war from 1944; studies resumed 1947 under Hans Scharoun, diploma 1948; town planning at King's College, Durham University, 1950; Senatsbaudirektor of West Berlin from 1960; professor at the TU 1966–1970; president of the Akademie der Künste from 1971 until his death; area clearance in Kreuzberg around the Kottbusser Tor; Mehringplatz 1966–1975; among the most important representatives of post-war modernism; Akademie der Künste, Hanseatenweg, 1958–1960, the studio building bears his hand, open staircase; Brücke-Museum 1964–1967; St. Agnes, Kreuzberg, 1964–1967 with Klaus Bergner and P. Münzing",
+    "source": "https://de.wikipedia.org/wiki/Werner_Düttmann"
+   },
+   {
+    "claim": "Brücke-Museum: founded at the initiative of Karl Schmidt-Rottluff, who asked Düttmann for a design; opened 15 September 1967 in Dahlem; built 1966–1967; white-rendered cubes forming a single-storey flat building like a large bungalow; large skylights; Ulrich Conrads: \"Museum ohne Museumsgeruch\"; rooms around an inner courtyard",
+    "source": "https://de.wikipedia.org/wiki/Brücke-Museum"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia (German)",
+    "title": "Werner Düttmann",
+    "url": "https://de.wikipedia.org/wiki/Werner_Düttmann",
+    "why": "his life and a full list of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectuul",
+    "title": "Werner Düttmann",
+    "url": "https://architectuul.com/architect/werner-duttmann",
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia (German)",
+    "title": "Brücke-Museum",
+    "url": "https://de.wikipedia.org/wiki/Brücke-Museum",
+    "why": "his museum for the Brücke painters",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia (German)",
+    "title": "St. Agnes (Berlin)",
+    "url": "https://de.wikipedia.org/wiki/St._Agnes_(Berlin)",
+    "why": "his church in Kreuzberg",
+    "checked": "2026-10-21"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "William Pereira",
+  "qid": "Q1859204",
+  "kind": "person",
+  "born_died": "1909–1985",
+  "country": "American",
+  "bio": "William Pereira (1909–1985) was an American architect based in Los Angeles, noted for futuristic landmarks such as the Transamerica Pyramid in San Francisco (1972). Born in Chicago, he studied at the University of Illinois and moved to Los Angeles in 1933. From 1959 his own firm completed hundreds of projects, among them the Los Angeles County Museum of Art and the master plan for the new city of Irvine, which put him on the cover of Time in 1963. Frank Gehry was among the architects who came out of his firm and his classes.\n\nHis buildings often combine strong geometric forms with concrete façades that shade bronze reflective glass from the sun. The Geisel Library in San Diego (1970), at the head of a canyon, has arches and floors designed to look like hands holding up a stack of books. The Chet Holifield Federal Building in Laguna Niguel (1971), built for North American Aviation and Rockwell, is a stepped pyramid known as \"the Ziggurat\". In Doha the developer Qaddumi commissioned him for the Sheraton Grand Doha (1982) and other landmarks along the Corniche.",
+  "facts": [
+   {
+    "claim": "William Leonard Pereira, 25 April 1909 – 13 November 1985; from Chicago, worked out of Los Angeles; futuristic designs such as the Transamerica Pyramid (completed 1972); University of Illinois; moved to Los Angeles 1933; shared the Academy Award for Best Special Effects for Reap the Wild Wind (1942); Pereira & Luckman, Theme Building at LAX with Paul Williams and Welton Becket; William L. Pereira & Associates from 1959, over 250 projects in the 1960s and 1970s; Irvine master plan, Time cover 6 September 1963; LACMA; Pepperdine; strong geometric forms, concrete façades shading bronze reflective glass; Gin Wong and Frank Gehry came out of his firm and classes",
+    "source": "https://en.wikipedia.org/wiki/William_Pereira"
+   },
+   {
+    "claim": "Geisel Library: designed by William Pereira, opened 1970; designed to sit at the head of a canyon; arches and floors intended to look like hands holding up a stack of books",
+    "source": "https://en.wikipedia.org/wiki/Geisel_Library"
+   },
+   {
+    "claim": "Chet Holifield Federal Building, Laguna Niguel: \"the Ziggurat Building\"; built 1968–1971 for North American Aviation/Rockwell International; designed by William Pereira; stepped pyramidal form",
+    "source": "https://en.wikipedia.org/wiki/Chet_Holifield_Federal_Building"
+   },
+   {
+    "claim": "Doha Corniche: Qaddumi commissioned William Pereira to design the Sheraton Grand Doha Resort & Convention Hotel and other landmarks along the Corniche; Pereira arrived in Doha in 1975 and planned the Corniche with Qaddumi",
+    "source": "https://en.wikipedia.org/wiki/Doha_Corniche"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "William Pereira",
+    "url": "https://en.wikipedia.org/wiki/William_Pereira",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Geisel Library",
+    "url": "https://en.wikipedia.org/wiki/Geisel_Library",
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Transamerica Pyramid",
+    "url": "https://en.wikipedia.org/wiki/Transamerica_Pyramid",
+    "why": "his best-known tower",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectuul",
+    "title": "William Pereira",
+    "url": "https://architectuul.com/architect/william-pereira",
+    "why": "a list of buildings with photos",
+    "checked": "2026-10-21"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Yaakov Rechter",
+  "qid": "Q4393880",
+  "kind": "person",
+  "born_died": "1924–2001",
+  "country": "Israeli",
+  "bio": "Yaakov Rechter (1924–2001) was an Israeli architect of what has been called the second generation of Israeli architecture, who exposed raw concrete where his father's generation had used smooth white stucco. Born in Tel Aviv, the son of the architect Ze'ev Rechter, he served in Britain's Royal Air Force during the Second World War while studying at the Technion, and joined his father's office in 1952. Influenced by Le Corbusier, he said of concrete that it \"is certainly not local, but it's authentic in every sense.\"\n\nHeichal HaTarbut (Charles Bronfman Auditorium) in Tel Aviv (1957) was designed with his father and Dov Karmi. The Mivtachim Sanitarium (ELMA Arts Complex and Hotel) in Zikhron Ya'akov (1969), built for the Histadrut labour federation, floats its rooms in a serpentine line along the crown of a hill; it won him the Israel Prize in 1972, and after it closed his son Amnon turned it into a hotel. Atarim Square in Tel Aviv (1975), a brutalist complex of shops and restaurants on two levels, declined after criminal elements took over its shops in the late 1970s.",
+  "facts": [
+   {
+    "claim": "Yaakov Rechter, 14 June 1924 – 26 February 2001; Israeli architect, Israel Prize recipient; influenced by Le Corbusier; born in Tel Aviv, son of architect Ze'ev Rechter; RAF during WWII while studying at the Technion, graduated 1947; joined his father's office 1952; Rechter Architects with his son Amnon; Mivtachim Sanitarium for the Histadrut, rooms floating in a serpentine manner along the hill's crown, renovated by Amnon in 2010 into a hotel; ArchDaily's \"second generation\", raw concrete versus the white stucco of his father's generation; concrete quotation; works: Heichal HaTarbut (1957), Tel Aviv Hilton (1965), Mivtachim Sanitarium (1966), Atarim Square (1975), Central Library, Mount Scopus (1981), Tel Aviv Performing Arts Center (1994); Israel Prize 1972 for the sanitarium",
+    "source": "https://en.wikipedia.org/wiki/Yaakov_Rechter",
+    "note": "the article dates the sanitarium to 1966; the wall gives 1969"
+   },
+   {
+    "claim": "Heichal HaTarbut: home of the Israel Philharmonic Orchestra; opened October 1957 at Habima Square as the Fredric R. Mann Auditorium; designed by Dov Karmi, Ze'ev Rechter and Yaakov Rechter",
+    "source": "https://en.wikipedia.org/wiki/Heichal_HaTarbut"
+   },
+   {
+    "claim": "Atarim Square, Tel Aviv: designed by Yaakov Rechter; brutalist; inaugurated June 1975; two levels of shops and restaurants; connects hotels, beach and promenade; criminal elements took over the shops in the late 1970s",
+    "source": "https://en.wikipedia.org/wiki/Atarim_Square"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Yaakov Rechter",
+    "url": "https://en.wikipedia.org/wiki/Yaakov_Rechter",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Heichal HaTarbut",
+    "url": "https://en.wikipedia.org/wiki/Heichal_HaTarbut",
+    "why": "one of his best-known buildings",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Atarim Square",
+    "url": "https://en.wikipedia.org/wiki/Atarim_Square",
+    "why": "his brutalist square in Tel Aviv",
+    "checked": "2026-10-21"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Liu Jiakun",
+  "qid": "Q132988850",
+  "kind": "person",
+  "born_died": "born 1956",
+  "country": "Chinese",
+  "bio": "Liu Jiakun (born 1956) is a Chinese architect based in his home city of Chengdu, known for work rooted in local context and materials, and the winner of the 2025 Pritzker Prize. He was sent to the countryside as a labourer at 17 during the Cultural Revolution and graduated in architecture from the Chongqing Institute of Architecture and Engineering in 1982. He returned to architecture in 1993 after time in Tibet and Xinjiang and founded Jiakun Architects in 1999. After the 2008 Wenchuan earthquake he began making \"rebirth bricks\" from its rubble. The Pritzker jury wrote that he creates architecture \"at once a historical record, a piece of infrastructure, a landscape and a remarkable public space.\"\n\nThe Hu Huishan Memorial in Chengdu (2009) honours a 15-year-old girl killed in the earthquake: shaped like the relief tents put up after the disaster but built in plaster, its pink interior holds her backpack and belongings. West Village (Basis Yard) in Chengdu (2015) wraps a city block in a five-storey building that turns from offices and shops into open ramps for walkers and cyclists, around a large inner courtyard with sports pitches.",
+  "facts": [
+   {
+    "claim": "Liu Jiakun, born 1956 in Chengdu; minimalism, humanism, locally contextual design; 2025 Pritzker Prize; sent to the countryside as a labourer at 17 during the Cultural Revolution; Chongqing Institute of Architecture and Engineering 1982; Chengdu Architectural Design and Research Institute; time in Tibet and Xinjiang; returned to architecture in 1993; founded Jiakun Architects in 1999",
+    "source": "https://en.wikipedia.org/wiki/Liu_Jiakun"
+   },
+   {
+    "claim": "Pritzker Prize 2025: childhood in Chengdu Second People's Hospital, where his mother was an internist; \"Rebirth Bricks\" from the rubble of the 2008 Wenchuan earthquake strengthened with wheat fibre and cement; West Village (2015) his largest work, five storeys spanning a block, sloping paths for cyclists and pedestrians around activities within; Hu Huishan Memorial (2009) his smallest, a permanent relief tent for a 15-year-old girl; jury citation quotation",
+    "source": "https://www.pritzkerprize.com/laureates/liu-jiakun",
+    "note": "Architectural Record dates West Village to 2014; the Pritzker page and the wall give 2015"
+   },
+   {
+    "claim": "Hu Huishan Memorial: honours a 15-year-old girl killed in the 2008 Wenchuan earthquake; form of a relief tent with plastered walls; pink interior with her backpack, sneakers and other possessions; West Village: five-storey perimeter changing from commercial building to open ramps for joggers and cyclists, recreational areas at the centre",
+    "source": "https://architecturalrecord.com/articles/17402-liu-jiakun-wins-2025-pritzker-architecture-prize"
+   },
+   {
+    "claim": "West Village, Chengdu: 135,552 m², completed 2015; apartment block around an interior courtyard with open spaces and soccer pitches",
+    "source": "https://www.azuremagazine.com/article/liu-jiakun-wins-2025-pritzker-architecture-prize/"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Liu Jiakun",
+    "url": "https://en.wikipedia.org/wiki/Liu_Jiakun",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "2025 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/liu-jiakun",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Architectural Record",
+    "title": "Liu Jiakun wins 2025 Pritzker Architecture Prize",
+    "url": "https://architecturalrecord.com/articles/17402-liu-jiakun-wins-2025-pritzker-architecture-prize",
+    "why": "a review of his main buildings",
+    "checked": "2026-10-21"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Richard and Su Rogers",
+  "qid": null,
+  "kind": "practice",
+  "born_died": "active 1967–c. 1970",
+  "country": "British",
+  "bio": "Richard and Su Rogers was the architecture practice of Richard Rogers (1933–2021) and Su Rogers (born 1939), active from about 1967 to 1970, between their years in Team 4 with Norman Foster and Wendy Cheesman and their partnership with Renzo Piano. The couple met at the London School of Economics and married in 1960. With John Young and Laurie Abbott, the practice designed the Zip-Up House, a concept house that was never built. In 1971 they joined Renzo Piano as Piano + Rogers, which designed the Pompidou Centre.\n\n22 Parkside (Rogers House) in Wimbledon (1969), built for Richard's parents, took ideas from the Zip-Up House: a single-storey house of bright yellow steel ribs with full-height glazing at each end, divided into a flat and pottery studio for his mother in front and the main house among the trees behind. Listed Grade II* since 2013 as an early high-tech, steel-framed house in Britain, it was given to the Harvard Graduate School of Design in 2015. Richard Rogers said its prefabricated steel and glass modules inspired much of his later work, including the Pompidou Centre and the Lloyd's building.",
+  "facts": [
+   {
+    "claim": "Su Rogers (née Brumwell), born 22 February 1939; co-founder and partner of Team 4 and Richard + Su Rogers; sociology at the LSE, town planning at Yale 1961–63; met Richard Rogers at the LSE, married 1960; Team 4 1963 with Norman Foster and Wendy Cheesman, dissolved 1967; Richard + Su Rogers Architects active until around 1970, house for Richard's parents at 22 Parkside, Wimbledon; Zip-Up House never built, concept used for 22 Parkside; Piano + Rogers from 1971, Pompidou Centre; she left in 1972 for the Architectural Association; partner in Colquhoun, Miller and Partners / John Miller + Partners 1986–2011",
+    "source": "https://en.wikipedia.org/wiki/Su_Rogers"
+   },
+   {
+    "claim": "Richard Rogers, 23 July 1933 – 18 December 2021; Richard and Su Rogers Architects (with John Young and Laurie Abbott): 22 Parkside (Dr Nino and Dada Rogers's house), Wimbledon (1967); Zip-Up House (1967–69); The Studio, Ulting, Essex (1968–69)",
+    "source": "https://en.wikipedia.org/wiki/Richard_Rogers",
+    "note": "this list dates 22 Parkside to 1967 (the design); the house's own article and the wall give 1969"
+   },
+   {
+    "claim": "22 Parkside, Wimbledon: completed 1969; single-storey modernist house of bright yellow-painted steel ribs with full-height glazing at each end; two parts, a flat and pottery studio for Rogers' mother and the main house among trees; Grade II* listed since 22 February 2013, \"an early, executed example of a High-Tech, steel-framed house in Britain\"; donated to the Harvard Graduate School of Design in 2015; Rogers said its prefabricated steel and glass modules inspired later work including the Pompidou Centre and the Lloyd's building",
+    "source": "https://en.wikipedia.org/wiki/22_Parkside"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Su Rogers",
+    "url": "https://en.wikipedia.org/wiki/Su_Rogers",
+    "why": "the life and work of Su Rogers",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Richard Rogers",
+    "url": "https://en.wikipedia.org/wiki/Richard_Rogers",
+    "why": "the life and work of Richard Rogers",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "22 Parkside",
+    "url": "https://en.wikipedia.org/wiki/22_Parkside",
+    "why": "the house they built for his parents",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Zip-Up House",
+    "url": "https://en.wikipedia.org/wiki/Zip-Up_House",
+    "why": "the concept house behind it",
+    "checked": "2026-10-21"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "name": "Robert Venturi",
+  "qid": "Q212312",
+  "kind": "person",
+  "born_died": "1925–2018",
+  "country": "American",
+  "bio": "Robert Venturi (1925–2018) was an American architect and, with his wife and partner Denise Scott Brown, founding principal of Venturi, Scott Brown and Associates in Philadelphia. One of the first architects to question the premises of the Modern Movement, he answered Mies van der Rohe's \"Less is more\" with \"Less is a bore\". He studied at Princeton and worked for Eero Saarinen and Louis Kahn. Vincent Scully called his book Complexity and Contradiction in Architecture (1966) probably the most important writing on architecture since Le Corbusier's Vers une architecture; Learning from Las Vegas (1972), with Scott Brown, studied the Las Vegas Strip. He received the Pritzker Prize in 1991; it was awarded to him alone despite a request to include Scott Brown.\n\nThe Vanna Venturi House in Philadelphia (1964), designed for his mother, was with the Guild House his first work as an independent architect and one of the first prominent works of postmodernism. Its broken-gable front, a non-structural arch and \"hole in the wall\" windows openly challenged modernist orthodoxy; Scully called it \"the biggest small building of the second half of the twentieth century\".",
+  "facts": [
+   {
+    "claim": "Robert Charles Venturi Jr., 25 June 1925 – 18 September 2018; founding principal of Venturi, Scott Brown and Associates with his wife and partner Denise Scott Brown; Pritzker Prize 1991 awarded to him alone despite a request to include Scott Brown, jury later declined to add her; \"Less is a bore\"; born in Philadelphia; Princeton 1947 and 1950; worked under Eero Saarinen and Louis Kahn; Rome Prize 1954; one of the first architects to question the Modern Movement; Complexity and Contradiction in Architecture (1966), Scully's assessment; Learning from Las Vegas (1972) with Scott Brown and Izenour; broken-gable roof of the Vanna Venturi House",
+    "source": "https://en.wikipedia.org/wiki/Robert_Venturi"
+   },
+   {
+    "claim": "Vanna Venturi House, Chestnut Hill, Philadelphia: one of the first prominent works of postmodern architecture; designed for his mother, built 1962–1964; with the Guild House his first work as an independent architect; non-structural appliqué arch and \"hole in the wall\" windows challenging Modernist orthodoxy; Scully: \"the biggest small building of the second half of the twentieth century\"",
+    "source": "https://en.wikipedia.org/wiki/Vanna_Venturi_House"
+   }
+  ],
+  "overview_links": [
+   {
+    "site": "Wikipedia",
+    "title": "Robert Venturi",
+    "url": "https://en.wikipedia.org/wiki/Robert_Venturi",
+    "why": "life, ideas and list of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Pritzker Prize",
+    "title": "1991 laureate",
+    "url": "https://www.pritzkerprize.com/laureates/1991",
+    "why": "jury citation, biography and photos of works",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Vanna Venturi House",
+    "url": "https://en.wikipedia.org/wiki/Vanna_Venturi_House",
+    "why": "his best-known building",
+    "checked": "2026-10-21"
+   },
+   {
+    "site": "Wikipedia",
+    "title": "Denise Scott Brown",
+    "url": "https://en.wikipedia.org/wiki/Denise_Scott_Brown",
+    "why": "his wife and partner",
+    "checked": "2026-10-21"
+   }
+  ],
+  "skip": false
+ }
+]

@@ -1,4 +1,4 @@
-/* Discover Architecture: the filter panel ("Pattern language").
+/* Find Great Architecture: the filter panel ("Pattern language").
    Six tabs: Ideas and Type as line drawings, Movement as a timeline, Location as a map, Date as decade bars,
    Architect as an A–Z of faces. One search box finds any filter. Every count is live: it says how many
    buildings you would see with that option added to your other choices.
@@ -67,7 +67,7 @@
     const c = countBy('movement', 'movement'), X0 = 1800, X1 = 2025;
     const pos = y => Math.max(0, Math.min(100, (y - X0) / (X1 - X0) * 100));
     const rows = [...values('movement')].map(m => {
-      const ys = ALL.filter(b => b.movement === m).map(b => b.y).sort((a, b) => a - b);
+      const ys = ALL.filter(b => b.movement === m && b.y).map(b => b.y).sort((a, b) => a - b);
       const at = q => ys[Math.min(ys.length - 1, Math.floor(q * (ys.length - 1)))];
       return { m, lo: at(0.1), hi: at(0.9), mid: at(0.5), first: ys[0], n: c.get(m) || 0, on: F.movement.has(m) };
     }).sort((a, b) => a.mid - b.mid);
@@ -93,9 +93,9 @@
       const max = Math.max(1, ...rc.values());
       const shapes = regions.map(r => {
         const n = rc.get(r) || 0, on = F.region.has(r);
-        const fill = on ? 'var(--red)' : !n ? '#ECEAE5' : n / max > 0.5 ? '#A9A69E' : n / max > 0.2 ? '#BDBAB2' : '#D0CDC6';
+        const fill = on ? 'var(--red)' : !n ? 'var(--reg-0)' : n / max > 0.5 ? 'var(--reg-3)' : n / max > 0.2 ? 'var(--reg-2)' : 'var(--reg-1)';
         const d = [...byRegion[r]].map(c => W.paths[c] || '').join('');
-        return `<path class="fp-reg" d="${d}" fill="${fill}" data-k="region" data-v="${esc(r)}"><title>${esc(r)}: ${n}</title></path>`;
+        return `<path class="fp-reg" d="${d}" style="fill:${fill}" data-k="region" data-v="${esc(r)}"><title>${esc(r)}: ${n}</title></path>`;
       }).join('');
       const dots = ALL.filter(b => b.coords && DA.matches(b)).map(b => { const [x, y] = DA.project(b.coords[0], b.coords[1]); return `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="1.7"><title>${esc(b.name)}, ${esc(b.place.split(',')[0])}</title></circle>`; }).join('');
       map = `<svg class="fp-map" viewBox="0 18 ${W.w} 400" role="img" aria-label="World map by region, with a dot for each matching building"><path class="fp-land" d="${landCache}"/>${shapes}<g class="fp-dots">${dots}</g></svg>`;
@@ -143,7 +143,7 @@
     const want = fold(name);
     let url = '';
     for (const b of ALL) {
-      if (b.arch !== name) continue;
+      if (!b.arch.includes(name)) continue;
       for (const q of ARCH.buildings[b.id] || []) {
         const p = ARCH.people[q], got = p && fold(p.name);
         if (p && p.thumb && got && (want.includes(got) || got.includes(want))) { url = p.thumb; break; }
@@ -163,9 +163,11 @@
     const list = names.filter(n => letterOf(n) === ui.letter)
       .sort((a, b) => fold(surname(a)).localeCompare(fold(surname(b))));
     const cards = list.map(n => {
-      const face = faceOf(n), k = c.get(n) || 0;
-      return `<button type="button" class="fp-face${k || F.arch.has(n) ? '' : ' none'}" aria-pressed="${F.arch.has(n)}" data-k="arch" data-v="${esc(n)}">` +
-        (face ? `<img src="${esc(face)}" alt="" loading="lazy">` : `<span class="fp-ini">${esc(initials(n))}</span>`) + `<b>${esc(n)}</b><small>${plural(k)}</small></button>`;
+      const face = faceOf(n), k = c.get(n) || 0, w = DA.laureate && DA.laureate(n);
+      const card = `<button type="button" class="fp-face${k || F.arch.has(n) ? '' : ' none'}" aria-pressed="${F.arch.has(n)}" data-k="arch" data-v="${esc(n)}">` +
+        `<span class="fp-pic">${face ? `<img src="${esc(face)}" alt="" loading="lazy">` : `<span class="fp-ini">${esc(initials(n))}</span>`}</span>` + `<b>${esc(n)}</b><small>${plural(k)}</small></button>`;
+      // Pritzker winners carry the very same medal as the opened building: same drawing, same card, same behaviour
+      return w && DA.medalHtml ? `<div class="fp-fw by-row">${card}${DA.medalHtml(w, n, k)}</div>` : card;
     }).join('');
     return `<div class="fp-letters">${bar}</div><p class="fp-note">${list.length} under ${ui.letter}, sorted by surname. Portraits are black and white; initials until a free photo is found.</p><div class="fp-faces">${cards}</div>`;
   }
@@ -195,6 +197,9 @@
     const label = (k, v) => k === 'country' ? DA.countryName(v) : v;
     ['concepts', 'type', 'movement', 'region', 'country', 'arch'].forEach(k => F[k].forEach(v => chips.push(`<button type="button" class="fp-chip" data-rm="${k}" data-v="${esc(v)}" aria-label="Remove ${esc(label(k, v))}">${esc(label(k, v))} ×</button>`)));
     if (state.decades) chips.push(`<button type="button" class="fp-chip" data-rm="decades" aria-label="Remove the date range">${rangeLabel(state.decades)} ×</button>`);
+    // Words in the wall's search box narrow every count here too, so they show as a chip that can be removed.
+    const words = $('q').value.trim();
+    if (state.q && words) chips.push(`<button type="button" class="fp-chip" data-rm="q" aria-label="Remove the search ${esc(words)}">“${esc(words)}” ×</button>`);
     const hits = ALL.filter(b => DA.matches(b));
     let also = '';
     if (F.concepts.size) {
@@ -239,14 +244,23 @@
     const set = F[k];
     set.has(v) ? set.delete(v) : set.add(v);
   }
+  function clearSearch() { state.q = ''; $('q').value = ''; }
   function setRange(lo, hi) { state.decades = lo === 0 && hi === 15 ? null : [Math.min(lo, hi), Math.max(lo, hi)]; }
 
+  // An architect with a page of their own (data/arch_pages.js) opens that page, not a filter on the wall.
+  const goPage = name => {
+    const slug = window.ARCH_PAGES && window.ARCH_PAGES[window.NAMES ? window.NAMES.canon(name) : name];
+    if (!slug) return false;
+    location.href = 'architects/' + slug + '/';
+    return true;
+  };
   panel.addEventListener('click', e => {
     const t = e.target.closest('button, path.fp-reg');
     if (!t) return;
     if (t.dataset.close != null) { DA.close(); return; }
+    if (t.dataset.arch) { if (goPage(t.dataset.arch)) return; F.arch.add(t.dataset.arch); changed(); return; } // "See all … buildings" in a medal's card
     if (t.dataset.show != null) { DA.close(); return; }
-    if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; changed(); return; }
+    if (t.dataset.clear != null) { Object.values(F).forEach(s => s.clear()); state.decades = null; state.where = null; clearSearch(); changed(); return; }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; refresh(true); panel.querySelector('.fp-body').scrollTop = 0; return; }
     if (t.dataset.letter) { ui.letter = t.dataset.letter; refresh(true); return; }
     if (t.dataset.period) { toggle('period', t.dataset.period); changed(); return; }
@@ -257,9 +271,10 @@
       else setRange(i < d[0] ? i : d[0], i > d[1] ? i : i < d[0] ? d[1] : i);
       changed(); return;
     }
-    if (t.dataset.rm) { if (t.dataset.rm === 'decades') state.decades = null; else F[t.dataset.rm].delete(t.dataset.v); changed(); return; }
+    if (t.dataset.rm) { if (t.dataset.rm === 'decades') state.decades = null; else if (t.dataset.rm === 'q') clearSearch(); else F[t.dataset.rm].delete(t.dataset.v); changed(); return; }
     if (t.dataset.k) {
       const k = t.dataset.k, v = t.dataset.v;
+      if (k === 'arch' && goPage(v)) return;
       if (t.classList.contains('fp-found')) {   // from the search list: add it and jump to its tab
         if (k === 'period') { const [a, b] = v.split(',').map(Number); state.decades = [a, b]; }
         else F[k].add(v);

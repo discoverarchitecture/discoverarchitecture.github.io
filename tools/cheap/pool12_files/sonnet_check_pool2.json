@@ -1,0 +1,240 @@
+{
+ "keep_ok": [
+  "williams-tower",
+  "akita-museum-of-art",
+  "military-cathedral-of-st-mary-queen-of-peace-brasilia",
+  "stephanuskirche-wolfsburg",
+  "asian-art-museum-nice",
+  "shimane-museum-of-ancient-izumo",
+  "jiyu-gakuen-girls-school",
+  "yodoko-guest-house",
+  "museum-of-popular-arts-of-paraiba",
+  "pettit-memorial-chapel",
+  "itatiaia-building",
+  "samuel-freeman-house",
+  "a-d-german-warehouse",
+  "one-charles-center",
+  "david-and-gladys-wright-house",
+  "kalita-humphreys-theater",
+  "kraus-house",
+  "frederick-c-bogk-house",
+  "zlota-44",
+  "2-columbus-circle",
+  "exxonmobil-building",
+  "hoki-museum",
+  "holy-trinity-orthodox-cathedral-chicago"
+ ],
+ "keep_fix": [
+  {
+   "id": "military-cathedral-of-st-mary-queen-of-peace-brasilia",
+   "field": "year",
+   "haiku": 1991,
+   "should_be": 1994,
+   "why": "prep year 1991 is only the foundation-stone year; the lead says it was inaugurated in 1994. Haiku copied prep, so it is 'supported' but wrong for the building."
+  },
+  {
+   "id": "akita-museum-of-art",
+   "field": "concepts",
+   "haiku": "Free plan",
+   "should_be": "Circulation (replace 'Free plan')",
+   "why": "the lead mentions a free-standing staircase and entrance skylight, not a free plan; Circulation fits what the lead supports."
+  }
+ ],
+ "keep_wrong": [],
+ "main_photo_wrong": [
+  {
+   "id": "shimane-museum-of-ancient-izumo",
+   "better_file_or_null": "File:Shimane Museum of Ancient Izumo No,6.JPG",
+   "why": "weak: first photo (ShimaneMuseumOfAncientIzumo 02) shows a low building small in the distance behind a meadow and a corten wall. No,6 (already 4th in Haiku's list) shows the glass facade and corten wall much closer; use it first."
+  },
+  {
+   "id": "exxonmobil-building",
+   "better_file_or_null": "File:Former ExxonMobil Building in Houston.jpg",
+   "why": "first photo is a steep look-up that crops the tower; the 'Former ExxonMobil Building' file shows the whole tower straight-on with the fins in daylight (already in Haiku's list as 2nd)."
+  },
+  {
+   "id": "samuel-freeman-house",
+   "better_file_or_null": null,
+   "why": "borderline: the first photo shows only a street-level corner of the house behind shrubs, not the whole building. No better exterior in the set (others are an entrance with garage door, a block detail and two HABS drawings). Owner may accept it as the only usable view or hold the house."
+  },
+  {
+   "id": "kraus-house",
+   "better_file_or_null": null,
+   "why": "borderline: the long brick wall is seen through trees and the house itself is barely readable; all exterior photos are the same view. Acceptable as the best available but weak as a wall tile."
+  },
+  {
+   "id": "zlota-44",
+   "better_file_or_null": null,
+   "why": "borderline: first photo is a view from the Palace of Culture roof with the tower in a busy skyline among other towers (rule: no far skyline); the other options are wide city views or a 2013 crop next to another tower. Tower is the clear subject, so accept only if the owner is relaxed about it."
+  },
+  {
+   "id": "kalita-humphreys-theater",
+   "better_file_or_null": null,
+   "why": "only one photo: an old black-and-white pre-1962 exterior (wet pavement, no people, building clear). Usable but dated; the second prep file is an unrelated-looking archive sketch from a Brazilian newspaper fund and was rightly left out, so the building will have a single photo."
+  }
+ ],
+ "unsure_resolved": [
+  {
+   "id": "university-of-brasilia",
+   "main_file_or_null": null,
+   "keep": true,
+   "why": "the lead says Niemeyer designed the main building (Central Institute of Sciences), which is worth studying, but the main photo IB UnB.jpg is a different campus building and the rest are people at an event. Hold until a photo of the Central Institute of Sciences (Minhocao) is found; entity is a university, so low priority."
+  },
+  {
+   "id": "la-marseillaise-skyscraper",
+   "main_file_or_null": null,
+   "keep": true,
+   "why": "Jean Nouvel tower with a notable tricolour facade (worth keeping), but every photo is a far harbour view or the tower under construction with cranes (p4, p6). No finished close view; hold for a photo rescue."
+  },
+  {
+   "id": "auldbrass-plantation",
+   "main_file_or_null": "File:Old Brass.jpg",
+   "keep": true,
+   "why": "Wright's only plantation. Old Brass.jpg (p4) shows one of the low Wright structures clearly in daylight with its green roof, no people. It is one building of the complex rather than the whole estate, but it is a real building view; the other photos (door, pool, sculptures) are not usable."
+  },
+  {
+   "id": "kundert-medical-clinic",
+   "main_file_or_null": null,
+   "keep": true,
+   "why": "Wright's rare commercial building (keep). Main photo shows only a corner with a roof edge and the '1106' address sign behind shrubs; p4 and p6 are other San Luis Obispo buildings and the rest are street scenes. No usable main photo."
+  },
+  {
+   "id": "the-concourse",
+   "main_file_or_null": "File:2023 Singapore - The Concourse - img 04.jpg",
+   "keep": true,
+   "why": "Paul Rudolph's Concourse (postmodern, curved balconies) is worth studying. The 2023 img 04 photo shows the curved tower against blue sky with most of its height in view, daylight, no people; the base is hidden by a low building, so it is good but not perfect. The Wikidata main photo is a tight look-up crop. Haiku was too strict."
+  },
+  {
+   "id": "eliel-saarinen-s-tribune-tower-design",
+   "main_file_or_null": null,
+   "keep": false,
+   "why": "unbuilt competition entry; the files are a newspaper page and a rendering, not a building. Not a wall building (could only be shown as a drawing)."
+  },
+  {
+   "id": "pruitt-igoe",
+   "main_file_or_null": "File:Pruitt-igoeUSGS02.jpg",
+   "keep": true,
+   "why": "famous modernist precedent and a key study of housing failure. The USGS low-oblique aerial shows the whole complex clearly in daylight and is the only photo of the standing buildings; the rest are demolition shots and a vertical aerial. It is demolished, so the owner should decide whether a demolished complex belongs; if yes, use this file."
+  },
+  {
+   "id": "aurora-plaza",
+   "main_file_or_null": null,
+   "keep": false,
+   "why": "office tower whose lead gives only height, the curved facade and the AURORA logo. Photos show the logo prominently or are night shots; the Aurora Plaza Shanghai 20051010 photo would pass as a plain exterior but the tower itself is ordinary, so keep=false."
+  },
+  {
+   "id": "world-trade-center-tokyo",
+   "main_file_or_null": null,
+   "keep": false,
+   "why": "demolished first-generation skyscraper; photos are elevator buttons, demolition scrap and the new South Tower, none of the original building."
+  }
+ ],
+ "wrong_skips": [
+  {
+   "id": "taichung-main-public-library",
+   "qid": "Q136721227",
+   "why": "STRONG: SANAA (Pritzker) central library, 2025, very current. Lead is thin but prep architect says SANAA; the main photo is a clear daylight exterior of the whole building."
+  },
+  {
+   "id": "saint-denis-pleyel-station",
+   "qid": "Q3462074",
+   "why": "STRONG: Kengo Kuma's Saint-Denis Pleyel station for Grand Paris Express (2024); the main photo is a clear daylight exterior."
+  },
+  {
+   "id": "fukui-prefectural-dinosaur-museum",
+   "qid": "Q3247157",
+   "why": "STRONG: Kisho Kurokawa (Metabolism) building, famous for its domed form; the main photo is a daylight exterior. Lead is about dinosaurs, but a famous architect's notable work counts."
+  },
+  {
+   "id": "torre-realia-bcn",
+   "qid": "Q1189521",
+   "why": "STRONG: Toyo Ito's Torre Realia BCN with its red facade lines (Porta Fira); several clear daylight exterior photos on sheet 2 (main, p1, p3)."
+  },
+  {
+   "id": "kreeger-museum",
+   "qid": "Q1787100",
+   "why": "STRONG: Kreeger Museum is a Philip Johnson building (prep architect names him) in Washington; sheet shows clear exterior photos (p0, p1, p4). Note prep year 1994 is likely the foundation or a Wikidata slip, the house was built about 1967; check before adding."
+  },
+  {
+   "id": "saka-no-ue-no-kumo-museum",
+   "qid": "Q7402728",
+   "why": "STRONG: Tadao Ando museum in Matsuyama; main photo is a clear daylight exterior, p1 interior triangular void."
+  },
+  {
+   "id": "onomichi-city-museum-of-art",
+   "qid": "Q11465485",
+   "why": "STRONG: Tadao Ando's 2003 redesign of Onomichi City Museum of Art; p3 and p5 show the concrete and glass wing clearly in daylight (main is an aerial from above, so lead with p3)."
+  },
+  {
+   "id": "mrs-clinton-walker-house",
+   "qid": "Q106030942",
+   "why": "STRONG: Frank Lloyd Wright's Cabin on the Rocks (Mrs. Clinton Walker House), a named Wright house; main photo shows the house on the shoreline clearly. Haiku kept thinner Wright leads (Kraus, Bogk) so this is inconsistent."
+  },
+  {
+   "id": "kubitschek-residence-museum",
+   "qid": "Q40357761",
+   "why": "STRONG: Niemeyer's Kubitschek house at Pampulha; main, p1 and p3 are clear daylight exteriors."
+  },
+  {
+   "id": "museum-reinhard-ernst",
+   "qid": "Q117834995",
+   "why": "STRONG: Fumihiko Maki's Museum Reinhard Ernst (2024), one of his last buildings and very contemporary; main photo is a clear street-corner exterior."
+  },
+  {
+   "id": "richard-king-mellon-hall",
+   "qid": "Q16899281",
+   "why": "STRONG: Mies van der Rohe's Mellon Hall at Duquesne (lead names Mies); p5 and p6 are clear daylight exteriors (main is a winter shot with a pole)."
+  },
+  {
+   "id": "national-museum-of-modern-art-tokyo",
+   "qid": "Q1359908",
+   "why": "MODERATE: Yoshiro Taniguchi and Kunio Maekawa's MOMAT in Tokyo, a notable Japanese modernist museum; main, p1 and p3 are clear daylight exteriors."
+  },
+  {
+   "id": "takaosanguchi-station",
+   "qid": "Q4450115",
+   "why": "MODERATE: Kengo Kuma's timber-roofed Takaosanguchi Station (rebuilt 2015; prep year 1967 is the old station, check); main and p6 are clear exteriors."
+  },
+  {
+   "id": "hochhaus-neue-donau",
+   "qid": "Q1621858",
+   "why": "MODERATE: Harry Seidler's Hochhaus Neue Donau, his main European tower; main and p4 are clear daylight views. Lead gives height only."
+  },
+  {
+   "id": "ito-toren",
+   "qid": "Q2269636",
+   "why": "MODERATE: Toyo Ito's Ito-toren in Amsterdam (Mahler 4); p1 and p3 show the sloped, cut-out facade in daylight."
+  },
+  {
+   "id": "toki-messe",
+   "qid": "Q705614",
+   "why": "MODERATE: Fumihiko Maki's Toki Messe in Niigata; main (from the water) and p5 are clear exteriors. Lead describes facilities only, so lowest of these."
+  },
+  {
+   "id": "brin-genoa-metro",
+   "qid": "Q3644795",
+   "why": "MODERATE: Brin Genoa metro station by Renzo Piano, a recognisable glass-vaulted elevated station; main photo is a clear daylight view. Other Genoa stations are rightly skipped (underground, interiors)."
+  },
+  {
+   "id": "mode-gakuen-spiral-towers",
+   "qid": "Q2878337",
+   "why": "MODERATE: Mode Gakuen Spiral Towers (Nikken Sekkei), a famous twisting Nagoya tower; lead gives height only and photos were not on the sheets I opened, so unchecked."
+  },
+  {
+   "id": "torre-picasso",
+   "qid": "Q1364394",
+   "why": "MODERATE: Torre Picasso, Madrid, lead names Yamasaki (WTC architect); photos not checked (sheet 9 not opened). Lowest priority."
+  },
+  {
+   "id": "nagasaki-museum-of-history-and-culture",
+   "qid": "Q73613",
+   "why": "MODERATE: Kisho Kurokawa's Nagasaki Museum of History and Culture (2005), a late Kurokawa work with strong exterior photos (main, p2, p5); lead is about the collection only."
+  },
+  {
+   "id": "shibuya-scramble-square",
+   "qid": "Q64026922",
+   "why": "LOW: Shibuya Scramble Square lists Kengo Kuma and Associates among the architects and is a Tokyo landmark; lead gives height and floor area only. Fine to leave skipped."
+  }
+ ],
+ "summary": "23 photo, 9 unsure, 68 skip checked. photo: 0 wrong keeps; 23 worth keeping (Williams Tower and ExxonMobil Building are the weakest, justified only by postmodern/Philip Johnson and the fins/1963 record); 2 field fixes (Military Cathedral year 1994, Akita concept); 6 main-photo flags (2 with a better file: Shimane, ExxonMobil; 4 borderline with none: Samuel Freeman, Kraus, Zlota 44, Kalita Humphreys); all names, by, city, cc, year, coords, commons and photo licences match prep.json, all types/movements/concepts are in vocab.json, no feature sentence has an invented fact. unsure: 3 resolved with a usable main photo (Auldbrass, The Concourse, Pruitt-Igoe, the last needing an owner call as it is demolished), 3 keep=true but still no photo (University of Brasilia, La Marseillaise, Kundert), 3 keep=false (Saarinen Tribune design, Aurora Plaza, WTC Tokyo). skips: 11 strong wrong skips (Taichung Library, Saint-Denis Pleyel, Fukui Dinosaur Museum, Torre Realia BCN, Kreeger Museum, Saka no Ue no Kumo, Onomichi, Walker House, Kubitschek Residence, Reinhard Ernst, Mellon Hall) plus 10 moderate or low; the remaining 47 skips are right (metro stations, ordinary towers, collection-only museums, no photos). Pattern: Haiku skipped when the lead was short even though prep.architect named a famous architect, while keeping equally short Wright leads."
+}

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Guess the building? · Find Great Architecture</title>
+<meta name="description" content="Guess the building: five buildings a day, the same for everyone, or Endless until you miss one. For architects, students and anyone who loves buildings.">
+<link rel="icon" href="../favicon.ico" sizes="any">
+<link rel="icon" href="../favicon-48.png" type="image/png" sizes="48x48">
+<link rel="icon" href="../favicon-96.png" type="image/png" sizes="96x96">
+<link rel="icon" href="../favicon-192.png" type="image/png" sizes="192x192">
+<link rel="icon" href="../favicon.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<meta property="og:site_name" content="Find Great Architecture">
+<meta property="og:title" content="Guess the building?">
+<meta property="og:description" content="Five buildings a day, the same for everyone. Or Endless: how many in a row?">
+<meta property="og:image" content="../og.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700..900&family=Barlow:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../theme.css?v=de3ef980">
+<script src="../theme.js?v=c7dee807"></script>
+<link rel="stylesheet" href="play.css?v=ee928408">
+<link rel="stylesheet" href="../ai.css?v=ffebab35">
+<script src="../ai.js?v=10b0451a" defer></script>
+<script src="../analytics.js"></script>
+</head>
+<body>
+<header class="pbar">
+  <a class="mark" href="../" aria-label="Find Great Architecture: back to the wall"><span class="big">Find great<br><span class="accent">Architecture.</span></span><span class="mini" aria-hidden="true">A<span class="accent">.</span></span></a>
+  <div class="mode" role="group" aria-label="Which game">
+    <button type="button" id="gDaily" aria-pressed="true">Daily five</button><span class="mode-line" aria-hidden="true"></span><button type="button" id="gEndless" aria-pressed="false">Endless</button>
+  </div>
+  <button type="button" class="iconbtn" id="statsBtn" aria-label="Your stats"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V12M12 20V5M19 20v-9"/></svg></button>
+  <a class="ai-btn ai-bar" href="../studio/?ref=game" aria-haspopup="dialog" aria-expanded="false"><svg class="ai-spark" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5c.6 4.6 2.9 6.9 7.5 7.5-4.6.6-6.9 2.9-7.5 7.5-.6-4.6-2.9-6.9-7.5-7.5 4.6-.6 6.9-2.9 7.5-7.5z"/><path d="M19 14.5c.3 2 1.3 3 3.3 3.3-2 .3-3 1.3-3.3 3.3-.3-2-1.3-3-3.3-3.3 2-.3 3-1.3 3.3-3.3z"/></svg><span class="ai-long">AI Jury Presentation Generator</span><span class="ai-short">AI</span></a>
+  <button type="button" class="theme-btn" data-theme-toggle aria-label="Night view" aria-pressed="false"><svg class="moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg><svg class="sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button>
+  <a class="back" href="../" aria-label="Back to the wall"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5 5 19"/></svg><span>Back to the wall</span></a>
+</header>
+<main id="game" class="game" aria-live="polite"></main>
+<footer class="pfoot" data-nosnippet><p class="legal-links"><a href="../pricing/">Pricing</a> · <a href="../terms/">Terms</a> · <a href="../privacy/">Privacy</a> · <a href="../refunds/">Refunds</a> · <a href="../contact/">Contact</a></p><p>Find Great Architecture · run by Akshat Pagaria · India</p></footer>
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-card" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="sheet-head"><h2 id="sheetTitle">Your stats</h2><button type="button" class="iconbtn" id="sheetClose" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 5l14 14M19 5 5 19"/></svg></button></div>
+    <div id="sheetBody"></div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="../data/buildings.js?v=f0e0e509"></script>
+<script src="../data/links.js?v=55638a3d"></script>
+<script src="../data/architects.js?v=86f479be"></script>
+<script src="../data/names.js?v=b6b82302"></script>
+<script src="play.js?v=fdbc71be"></script>
+</body>
+</html>
