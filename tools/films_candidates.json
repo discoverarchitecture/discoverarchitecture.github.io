@@ -86,7 +86,8 @@
 "architect-subject",
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "Antonio Gaudí (アントニー・ガウディー) is a 1984 Japanese documentary film by Hiroshi Teshigahara about the works of Antoni Gaudí. In the film the director visits the buildings including houses in Barcelona and the Sagrada Família."
 },
@@ -1809,7 +1810,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "At Averroès & Rosa Parks (French: Averroès & Rosa Parks) is a 2024 documentary film directed by Nicolas Philibert. The film is part of a triptych of feature documentaries devoted to patients and caregivers in Paris’ Central Psychiatric Group.\nIt was selected in the Berlinale Special at the 74th Berlin International Film Festival, where it had its world premiere on 16 February 2024. The film was also nominated for the Berlinale Documentary Film Award.\nIt was theatrically released in France on 20 March 2024.\n\n"
+"extract": "At Averroès & Rosa Parks (French: Averroès & Rosa Parks) is a 2024 documentary film directed by Nicolas Philibert. The film is part of a triptych of feature documentaries devoted to patients and caregivers in Paris’ Central Psychiatric Group.\nIt was selected in the Berlinale Special at the 74th Berlin International Film Festival, where it had its world premiere on 16 February 2024. The film was also nominated for the Berlinale Documentary Film Award.\nIt was theatrically released in France on 20 March 2024."
 },
 {
 "qid": "Q13964480",
@@ -2142,28 +2143,6 @@ null
 "wikipedia:Architecture film festivals"
 ],
 "extract": "Beyond Media was an architecture film festival held in Florence from 1997 to 2009. The festival aimed at observing the use of audiovisual tools for architecture and more generally at discussing relationships between architecture and the media.\nBeyond Media was organized by Image, a group of architects, historians and researchers based in Florence and active in the field of communication in architecture.\nIn the course of its nine editions, the festival became one of the main events worldwide devoted to architecture videos. The latest edition, \"Beyond Media 2009: Visions\", presented 80 videos selected from over 600 submissions from 35 countries."
-},
-{
-"qid": "Q429817",
-"title": "Bjarke Ingels",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": "nm1921464",
-"tmdb": null,
-"enwiki": "Bjarke Ingels",
-"wd_desc": "Danish architect (b.1974)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Bjarke Bundgaard Ingels (Danish pronunciation: [ˈpjɑːkə ˈpɔnkɒ ˈe̝ŋˀl̩s]; born 2 October 1974) is a Danish architect, founder and creative partner of Bjarke Ingels Group (BIG).\nIn Denmark, Ingels became well known after designing two housing complexes in Ørestad: VM Houses and Mountain Dwellings. In 2006 he founded Bjarke Ingels Group, which grew to a staff of 400 by 2015, with noted projects including the 8 House housing complex, VIA 57 West in Manhattan, the Google North Bayshore headquarters (co-designed with Thomas Heatherwick), the Superkilen park, and the Amager Resource Center (ARC) waste-to-energy plant – the latter which incorporates both a ski slope and climbing wall on the building exterior.\nSince 2009, Ingels has won numerous architectural competitions. He moved to New York City in 2012, where in addition to the VIA 57 West, BIG won a design contest after Hurricane Sandy for improving Manhattan's flood resistance.\nIn 2011, The Wall Street Journal named Ingels Innovator of the Year for architecture, and in 2016 Time named him one of the 100 Most Influential People."
 },
 {
 "qid": "Q130216986",
@@ -2752,6 +2731,30 @@ null
 "wikipedia:Films about architecture"
 ],
 "extract": "Click is a 2006 American fantasy comedy-drama film directed by Frank Coraci, written by Steve Koren and Mark O'Keefe, both of whom produced with Jack Giarraputo, Neal H. Moritz, and Adam Sandler, who also starred in the lead role. The film co-stars Kate Beckinsale, Christopher Walken, Henry Winkler, David Hasselhoff, Julie Kavner, and Sean Astin.  Sandler plays Michael Newman, a workaholic family man and architect who acquires a magical universal remote that enables him to control reality. The film is inspired by \"The Magic Thread\", a folk tale included in The Book of Virtues: A Treasury of Great Moral Stories.\nFilming began in late 2005 and was finished by early 2006. Sony Pictures Releasing released Click in the United States on June 23, 2006, and received mixed reviews. It was made on a budget of $85 million and grossed $268.7 million. It was nominated for Best Makeup at the 79th Academy Awards."
+},
+{
+"qid": "Q25936456",
+"title": "Coast Modern",
+"year": null,
+"runtime_min": null,
+"instance_of": [
+"musical duo"
+],
+"genres_wd": [
+"indie pop"
+],
+"is_doc": false,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Coast Modern",
+"wd_desc": "American indie pop duo based in Los Angeles, California",
+"sources": [
+"wikipedia:seed-title"
+],
+"extract": "Coast Modern was an American indie pop duo based in Los Angeles, California. The duo consisted of Luke Atlas and Coleman Trapp."
 },
 {
 "qid": "Q57837662",
@@ -3466,31 +3469,10 @@ null
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
-],
-"extract": "Eames: The Architect and the Painter is a 2011 documentary film about American designers Charles and Ray Eames and the Eames Office. It was produced and written by Jason Cohn, and co-produced by Bill Jersey.\nThe film moves between a narrative about the husband and wife team to one about the Eames Office and its accomplishments, starting with chair design, but also moving through architecture, photography and film. Most of the period images are still photographs from the 1950s, 1960s and 1970s, but there are several film clips. Audio clips are interspersed with narration by James Franco.\nThe film uses extensive interviews to frame the story. Interviews include Richard Saul Wurman, the founder of TED, Irish architect Kevin Roche, designer Bob Blaich, and screenwriter Paul Schrader; Lucia Eames and Eames Demetrios, Charles Eames' daughter and grandson; former Eames office designers: Jeannine Oppewall, Gordon Ashby, Deborah Sussman, and John and Marilyn Neuhart; historians Pat Kirkham, Jed Perl, and Donald Albrecht; and IBM consultant Zeke Seligson."
-},
-{
-"qid": "Q167073",
-"title": "Eero Saarinen",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": "nm8060213",
-"tmdb": null,
-"enwiki": "Eero Saarinen",
-"wd_desc": "American architect (1910–1961)",
-"sources": [
+"wikipedia:Films about architecture",
 "wikipedia:seed-title"
 ],
-"extract": "Eero Saarinen (, Finnish: [ˈeːro ˈsɑːrinen]; August 20, 1910 – September 1, 1961) was a Finnish-American architect and industrial designer. Saarinen's work includes the General Motors Technical Center, the Dulles International Airport Main Terminal, the TWA Flight Center at John F. Kennedy International Airport, the Vivian Beaumont Theater at Lincoln Center, the Gateway Arch, and the IBM Thomas J. Watson Research Center. During his career, Saarinen was elected a Fellow of the American Institute of Architects and served on the National Institute of Arts and Letters.\nBorn in Hvitträsk, Finland, he was the son of Finnish architect Eliel Saarinen, and immigrated to the United States as a teenager. Saarinen grew up in Bloomfield Hills, Michigan, studying at the Cranbrook Academy of Art, where his father taught. Saarinen became a naturalized citizen of the United States in 1940, a year after marrying the sculptor Lilian Swann, with whom he had two children. After divorcing Swann in 1954, Saarinen married Aline Bernstein Louchheim. In 1961, Saarinen died while undergoing an operation for a brain tumor.\n\n"
+"extract": "Eames: The Architect and the Painter is a 2011 documentary film about American designers Charles and Ray Eames and the Eames Office. It was produced and written by Jason Cohn, and co-produced by Bill Jersey.\nThe film moves between a narrative about the husband and wife team to one about the Eames Office and its accomplishments, starting with chair design, but also moving through architecture, photography and film. Most of the period images are still photographs from the 1950s, 1960s and 1970s, but there are several film clips. Audio clips are interspersed with narration by James Franco.\nThe film uses extensive interviews to frame the story. Interviews include Richard Saul Wurman, the founder of TED, Irish architect Kevin Roche, designer Bob Blaich, and screenwriter Paul Schrader; Lucia Eames and Eames Demetrios, Charles Eames' daughter and grandson; former Eames office designers: Jeannine Oppewall, Gordon Ashby, Deborah Sussman, and John and Marilyn Neuhart; historians Pat Kirkham, Jed Perl, and Donald Albrecht; and IBM consultant Zeke Seligson."
 },
 {
 "qid": "Q110304328",
@@ -3890,31 +3872,10 @@ null
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
-],
-"extract": "Garbage Warrior is a 2007 American film about architect Mike Reynolds, inventor of the Earthship style of building, directed by Oliver Hodge."
-},
-{
-"qid": "Q5525282",
-"title": "Gary Hustwit",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": "nm1216753",
-"tmdb": null,
-"enwiki": "Gary Hustwit",
-"wd_desc": "filmmaker and photographer",
-"sources": [
+"wikipedia:Films about architecture",
 "wikipedia:seed-title"
 ],
-"extract": "Gary Hustwit is an American independent filmmaker and photographer. He is best known for his design documentaries, which examine the impact of trends in graphic design, typography, industrial design, architecture, and urban planning. He told Dwell magazine, \"I like the idea of taking a closer look at the things we take for granted and changing the way people think about them.\" In addition to filmmaking, he has been active in the independent music and book publishing industries."
+"extract": "Garbage Warrior is a 2007 American film about architect Mike Reynolds, inventor of the Earthship style of building, directed by Oliver Hodge."
 },
 {
 "qid": "Q1058019",
@@ -4024,28 +3985,6 @@ null
 "building-subject",
 "structure-subject"
 ]
-},
-{
-"qid": "Q333509",
-"title": "Glenn Murcutt",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Glenn Murcutt",
-"wd_desc": "Architect (b.1936)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Glenn Marcus Murcutt  (born 25 July 1936) is an Australian architect. He has been the recipient of the 1992 Alvar Aalto Medal, the 2002 Pritzker Architecture Prize, the 2009 American Institute of Architects Gold Medal and the 2021 Praemium Imperiale. Glenn Murcutt works as a sole practitioner without staff, builds only within Australia and is known to be very selective with his projects. Being the only Australian winner of the prestigious Pritzker Prize, he is often referred to as Australia's most famous architect."
 },
 {
 "qid": "Q5569642",
@@ -4175,6 +4114,28 @@ null
 "extract": "Gray Matters is a 2014 documentary film that was written and directed by Marco Orsini. It premiered at the Architecture and Design Film Festival on 15 October 2014 in New York City and received a theatrical release on 28 May 2016. The film explores the life of architect and designer Eileen Gray."
 },
 {
+"qid": "Q5598210",
+"title": "Gray Matters",
+"year": null,
+"runtime_min": null,
+"instance_of": [
+"Wikimedia disambiguation page"
+],
+"genres_wd": [],
+"is_doc": false,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Gray Matters",
+"wd_desc": "Wikimedia disambiguation page",
+"sources": [
+"wikipedia:seed-title"
+],
+"extract": "Gray Matters or Grey Matters may refer to:\n\nGray Matters (novel), by William Hjortsberg\nGray Matters (2006 film), a film directed by Sue Kramer\nGray Matters (2014 film), a documentary film by Marco Orsini\nGray Matter (2023 film), science fiction film by Meko Winbush\nGray Matters (record label)\n\"Gray Matters\" (Johnny Bravo), a 2004 episode of Johnny Bravo\n\"Grey Matters\" (Fringe)"
+},
+{
 "qid": "Q5599134",
 "title": "Great Expectations",
 "year": 2007,
@@ -4231,7 +4192,7 @@ null
 "building-subject",
 "structure-subject"
 ],
-"extract": "Grey Gardens is a 1975 American documentary film by Albert and David Maysles. The film depicts the everyday lives of two reclusive, upper-class women, a mother and daughter both named Edith Beale, who lived in poverty at Grey Gardens, a derelict mansion at 3 West End Road in the wealthy Georgica Pond neighborhood of East Hampton, New York. The film was screened at the 1976 Cannes Film Festival but was not entered into the main competition.\nEllen Hovde and Muffie Meyer also directed, and Susan Froemke was the associate producer. The film was edited by Hovde, Meyer and Froemke.\nIn 2010, the film was selected by the Library of Congress for preservation in the United States National Film Registry as being \"culturally, historically, or aesthetically significant\", and in the 2014 Sight and Sound poll film critics voted Grey Gardens the tenth-best documentary film of all time. In November 2012, it topped the list of 100 greatest documentary  films of all time by PBS through public voting.\n\n"
+"extract": "Grey Gardens is a 1975 American documentary film by Albert and David Maysles. The film depicts the everyday lives of two reclusive, upper-class women, a mother and daughter both named Edith Beale, who lived in poverty at Grey Gardens, a derelict mansion at 3 West End Road in the wealthy Georgica Pond neighborhood of East Hampton, New York. The film was screened at the 1976 Cannes Film Festival but was not entered into the main competition.\nEllen Hovde and Muffie Meyer also directed, and Susan Froemke was the associate producer. The film was edited by Hovde, Meyer and Froemke.\nIn 2010, the film was selected by the Library of Congress for preservation in the United States National Film Registry as being \"culturally, historically, or aesthetically significant\", and in the 2014 Sight and Sound poll film critics voted Grey Gardens the tenth-best documentary film of all time. In November 2012, it topped the list of 100 greatest documentary  films of all time by PBS through public voting."
 },
 {
 "qid": "Q45908288",
@@ -4318,56 +4279,6 @@ null
 "building-subject",
 "structure-subject"
 ]
-},
-{
-"qid": "Q636118",
-"title": "Helvetica",
-"year": 2007,
-"runtime_min": 80,
-"instance_of": [
-"film"
-],
-"genres_wd": [
-"documentary film"
-],
-"is_doc": true,
-"director": [
-"Gary Hustwit"
-],
-"subjects": [
-"Helvetica"
-],
-"architects": [],
-"imdb": "tt0847817",
-"tmdb": "13348",
-"enwiki": "Helvetica (film)",
-"wd_desc": "2007 documentary film directed by Gary Hustwit",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Helvetica is a 2007 American independent feature-length documentary film about typography and graphic design, centered on the Helvetica typeface. Directed by Gary Hustwit, it was released in 2007 to coincide with the 50th anniversary of the typeface's introduction in 1957 and is considered the first of the Design Trilogy by the director."
-},
-{
-"qid": "Q308776",
-"title": "Herzog & de Meuron",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"architectural firm"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Herzog & de Meuron",
-"wd_desc": "Architecture firm based in Basel (founded 1978)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Herzog & de Meuron Basel Ltd. is an international architecture firm headquartered in Basel, Switzerland, with additional offices in Berlin, Hong Kong, London, Munich, New York City, Paris, and San Francisco. Founded in 1978 by Jacques Herzog and Pierre de Meuron, the practice's portfolio includes more than 600 projects in 40 countries. The company is led by the founding partners along with senior partners Christine Binswanger, Ascan Mergenthaler, Stefan Marbach, Jason Frantzen, Andreas Fries, Wim Walschap, and the CEO, Adrian Keller, who collectively oversee the firm's direction and management. Its staff comprises over 500 employees representing more than 50 nationalities."
 },
 {
 "qid": "Q46127482",
@@ -4564,32 +4475,6 @@ null
 "wikipedia:Films about architecture"
 ],
 "extract": "Housesitter is a 1992 American romantic comedy film directed by Frank Oz, written by Mark Stein, and starring Steve Martin and Goldie Hawn. The premise involves a woman with con-artist tendencies who worms her way into the life of a reserved architect by claiming to be his wife.\nHousesitter was released by Universal Pictures on June 12, 1992. The film received mixed to negative reviews from critics and grossed $94.9 million against a $26 million budget."
-},
-{
-"qid": "Q20629223",
-"title": "Human",
-"year": 2015,
-"runtime_min": 188,
-"instance_of": [
-"film"
-],
-"genres_wd": [
-"documentary film"
-],
-"is_doc": true,
-"director": [
-"Yann Arthus-Bertrand"
-],
-"subjects": [],
-"architects": [],
-"imdb": "tt3327994",
-"tmdb": "359364",
-"enwiki": "Human (2015 film)",
-"wd_desc": "2015 film by Yann Arthus-Bertrand",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Human is a 2015 documentary by French environmentalist Yann Arthus-Bertrand. The film is almost entirely composed of exclusive aerial footage and first-person stories told into the camera. It was the first film to premiere in the General Assembly Hall of the United Nations, to an audience of 1,000 viewers, including the UN Secretary General Ban Ki-moon.\nThe film was financed by the Bettencourt Schueller Foundation, which gave it rights-free to the GoodPlanet Foundation, responsible for driving the project. An extended version of the film is officially freely available on YouTube (in three parts)."
 },
 {
 "qid": "Q60962735",
@@ -4908,28 +4793,6 @@ null
 "extract": "Inside 9/11 is a three-part television documentary film produced by Towers Productions that premiered on August 21 and August 22, 2005, on the National Geographic Channel. The program covers the September 11 attacks in 2001, the events that led to it, and its aftermath. The first part consisted of examining, event by event, the build-up towards September 11. The second part consisted of the events of 9/11 itself and the aftermath. Experts and eyewitnesses provide their accounts of the attacks, and the events are covered in chronological order.\nInside 9/11 was the highest-rated program ever on the National Geographic Channel and was nominated for an Emmy in 2006.\nOn August 27, 2006, the documentary was released again with details about Zacarias Moussaoui and Able Danger.\nOn  May 7, 2011, the third part was released with details on the death of Osama bin Laden and the rise of attacks inspired by other leaders such as Anwar al-Awlaki, who is suspected of preparing three of the 9/11 hijackers in San Diego and Virginia."
 },
 {
-"qid": "Q234335",
-"title": "Jane Jacobs",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": "nm4295779",
-"tmdb": null,
-"enwiki": "Jane Jacobs",
-"wd_desc": "American–Canadian journalist, author, and activist (1916–2006)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Jane Isabel Jacobs (née  Butzner; 4 May 1916 – 25 April 2006) was an American-Canadian journalist, author, theorist, and activist who influenced urban studies, sociology, and economics. Her book The Death and Life of Great American Cities (1961) argued that \"urban renewal\" and \"slum clearance\" did not respect the needs of city-dwellers.\nJacobs organized grassroots efforts to protect neighborhoods from urban renewal and slum clearance, in particular plans by Robert Moses to overhaul her own Greenwich Village neighborhood. She was instrumental in the eventual cancellation of the Lower Manhattan Expressway, which would have passed directly through the area of Manhattan that would later become known as SoHo, as well as part of Little Italy and Chinatown. She was arrested in 1968 for inciting a crowd at a public hearing on that project. After moving to Toronto in 1968, she joined the opposition to the Spadina Expressway and the associated network of expressways in Toronto that were planned and under construction.\nJacobs was often criticized as a woman and a writer who criticized experts in the male-dominated field of urban planning. Routinely, she was described first as a housewife, as "
-},
-{
 "qid": "Q10307616",
 "title": "Joelma 23º Andar",
 "year": 1979,
@@ -5040,28 +4903,6 @@ null
 "structure-subject"
 ],
 "extract": "Kahl is a 1961 West German short documentary film about the Kahl Nuclear Power Plant. It was nominated for an Academy Award for Best Documentary Short."
-},
-{
-"qid": "Q332610",
-"title": "Kevin Roche",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Kevin Roche",
-"wd_desc": "Irish-born American architect (1922-2019)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Eamonn Kevin Roche (June 14, 1922 – March 1, 2019) was an American Pritzker Prize-winning architect. Kevin Roche was the archetypal modernist and \"member of an elite group of third generation modernist architects — James Stirling, Jørn Utzon, and Robert Venturi — and is considered to be the most logical and systematic designer of the group. He and his partner John Dinkeloo of the firm KRJDA produced over a half-century of matchless creativity.\"\nRoche and Dinkeloo were responsible for the design/master planning of over 200 built projects in both the U.S. and abroad. These projects include eight museums, 38 corporate headquarters, seven research facilities, performing arts centers, theaters, and campus buildings for six universities. In 1967 he created the master plan for the Metropolitan Museum of Art and thereafter designed all of the new wings and installation of many collections, including the reopened American and Islamic wings.\nBorn in Dublin and a graduate from University College Dublin, Roche went to the United States to study with Ludwig Mies van der Rohe at the Illinois Institute of Technology. In the U.S., he became the principal designer for Eero Saarinen and opened his o"
 },
 {
 "qid": "Q3196950",
@@ -5227,7 +5068,7 @@ null
 "sources": [
 "structure-subject"
 ],
-"extract": "La Montagne infidèle (English: The Unfaithful Mountain) is a 1923 French silent film directed by Jean Epstein. It is a documentary film about the 1923  volcanic eruption of Mount Etna in Sicily.\n\n"
+"extract": "La Montagne infidèle (English: The Unfaithful Mountain) is a 1923 French silent film directed by Jean Epstein. It is a documentary film about the 1923  volcanic eruption of Mount Etna in Sicily."
 },
 {
 "qid": "Q15079015",
@@ -5420,28 +5261,6 @@ null
 "wikipedia:Films about architecture"
 ],
 "extract": "Les Amants du Pont-Neuf (French pronunciation: [lez‿amɑ̃ dy pɔ̃ nœf]) is a 1991 French romantic drama film directed by Leos Carax, starring Juliette Binoche and Denis Lavant. The film follows a love story between two young vagrants: Alex, a would-be circus performer addicted to alcohol and sedatives, and Michèle, a painter with a disease that is slowly turning her blind. The streets, skies and waterways of Paris are used as a backdrop for the story in a series of set-pieces set during the French Bicentennial celebrations in 1989.\nThe film became notorious for its troubled and lengthy production and for the amount of money it was reported to have cost. It has been referred to several times as the most expensive French film ever made at the time of its release, although this has been contested.\nThe title refers to the Pont Neuf bridge in Paris. For various reasons, the film-makers ultimately built a scale replica of the bridge, which greatly increased the budget. Though it was released under its original title in other English-speaking territories, the North American title of the film is The Lovers on the Bridge, and, in a mistranslation of the original title, the Australian title is"
-},
-{
-"qid": "Q210134",
-"title": "Louis Kahn",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Louis Kahn",
-"wd_desc": "Estonian-American architect (1901–1974)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Louis Isadore Kahn (born Itze-Leib Schmuilowsky; 5 March [O.S. 20 February] 1901 – March 17, 1974) was an Estonian-born American architect based in Philadelphia. After working in various capacities for several firms in Philadelphia, he founded his own atelier in 1935. While continuing his private practice, he served as a design critic and professor of architecture at Yale School of Architecture from 1947 to 1957. From 1957 until his death, he was a professor of architecture at the School of Design at the University of Pennsylvania.\nKahn created a style that was monumental and monolithic; his heavy buildings for the most part do not hide their weight, their materials, or the way they are assembled. He was awarded the AIA Gold Medal and the RIBA Gold Medal. At the time of his death, he was considered by some as \"America's foremost living architect.\""
 },
 {
 "qid": "Q6688262",
@@ -5658,7 +5477,8 @@ null
 "enwiki": "Maya Lin: A Strong Clear Vision",
 "wd_desc": "1994 film by Freida Lee Mock",
 "sources": [
-"architect-subject"
+"architect-subject",
+"wikipedia:seed-title"
 ],
 "extract": "Maya Lin: A Strong Clear Vision is a 1994 American documentary film made by Freida Lee Mock. It explores the life of American artist Maya Lin, whose best-known work is the Vietnam Veterans Memorial in Washington, D.C. The film won the 1994 Academy Award for Best Documentary Feature. While a number of movie critics objected to it receiving this award, Maya Lin: A Strong Clear Vision met with mostly positive reviews, garnering praise for its look at the controversy surrounding the Vietnam Veterans Memorial design and Lin's growth as an artist.\nIn 2023, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\"."
 },
@@ -5721,16 +5541,12 @@ null
 "extract": "Mendelsohn's Incessant Visions, also known simply as Incessant Visions, is a 2011 documentary film directed by Duki Dror. The film takes as its focus the German-Jewish architect Erich Mendelsohn, exposing the complexities and intricacies of Mendelsohn's life and work through a series of letters with Louise, the young cellist who would eventually become his wife. Dror's film is at once an examination of Mendelsohn's seminal architectural work as well as an exploration of the German-Jewish experience during and after World War II seen through Mendelsohn's journey from Germany to England, British Mandate Palestine and the US.\nThe film premiered at the 2011 Jerusalem Film Festival."
 },
 {
-"qid": "Q204234",
-"title": "Milton Keynes",
+"qid": "Q6868232",
+"title": "Minnesota Experimental City",
 "year": null,
 "runtime_min": null,
 "instance_of": [
-"city",
-"planned community",
-"new town (UK)",
-"big city",
-"garden city"
+"abandoned project"
 ],
 "genres_wd": [],
 "is_doc": false,
@@ -5739,20 +5555,20 @@ null
 "architects": [],
 "imdb": null,
 "tmdb": null,
-"enwiki": "Milton Keynes",
-"wd_desc": "city in Buckinghamshire, England, United Kingdom",
+"enwiki": "Minnesota Experimental City",
+"wd_desc": "proposed planned community in Minnesota, United States",
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "Milton Keynes (  KEENZ) is a city in Buckinghamshire, England, about 50 miles (80 km) north-west of London. At the 2021 census, the population of its urban area was 264,349. The River Great Ouse forms the northern boundary of the urban area; a tributary, the River Ouzel, meanders through its linear parks and balancing lakes. Approximately 25% of the urban area is parkland or woodland, including two Sites of Special Scientific Interest (SSSIs). By design, the city comprises many well-delineated neighbourhoods.\nIn the 1960s, the government decided that a further generation of new towns in the south east of England was needed to relieve housing congestion in London. Milton Keynes was to be the biggest yet, with a population of 250,000 and area of 22,000 acres (9,000 ha). At designation, its area incorporated the existing towns of Bletchley,  Fenny Stratford, Wolverton and Stony Stratford, along with another fifteen villages and farmland in between. These settlements had an extensive historical record since the Norman Conquest; detailed archaeological investigations before development revealed evidence of human occupation from the Neolithic period, including the Milton Keynes Hoard of "
+"extract": "The Minnesota Experimental City (MXC) was a proposed planned community to be located in northern Minnesota (near Swatara in Aitkin County).  Proposed and studied beginning in the 1960s, it would have been constructed as a public–private partnership.  In contrast with many of the model cities of the time, the MXC was to be experimental, trying new things rather than proposing to select from the best of the existing practice. The project was initiated and directed by scientist and University of Minnesota dean Athelstan Spilhaus, and reflected the confidence of that era in the ability of science and technology to solve the world's problems -- \"If we could send a human into space, we could do anything\" -- and concern that existing cities were failing, blighted by crime, decay and exodus of the well-off to the suburbs.\nSupporting MXC were Otto Silha, publisher of the two largest newspapers in the state, the Minneapolis Star and Minneapolis Tribune; a four-star general, the physician of president at the time Lyndon B. Johnson; civil rights leader Muriel S. Snowden; and Buckminster Fuller. MXC received approximately $250,000 in federal government funds thanks to the support of former Minn"
 },
 {
-"qid": "Q11088230",
-"title": "Ming Great Wall",
+"qid": "Q28469949",
+"title": "Modern Ruin",
 "year": null,
 "runtime_min": null,
 "instance_of": [
-"cordon"
+"Wikimedia disambiguation page"
 ],
 "genres_wd": [],
 "is_doc": false,
@@ -5761,12 +5577,12 @@ null
 "architects": [],
 "imdb": null,
 "tmdb": null,
-"enwiki": "Ming Great Wall",
-"wd_desc": "Greatest wall to have ever lived through history",
+"enwiki": "Modern Ruin",
+"wd_desc": "Wikimedia disambiguation page",
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "The Ming Great Wall (Chinese: 明長城; pinyin: Míng Chángchéng), built by the Ming dynasty (1368–1644), forms the most visible parts of the Great Wall of China today. A comprehensive archaeological survey, using advanced technology has concluded that the Ming walls measure 8,850 km (5,500 mi) from Jiayu Pass in the west to the sea in Shanhai Pass, then looping over to terminate in Manchuria at the Hushan Great Wall. This is made up of 6,259 km (3,889 mi) sections of actual wall, 359 km (223 mi) of trenches and 2,232 km (1,387 mi) of natural defensive barriers such as hills and rivers.\nWhile the Ming walls are generally referred to as \"Great Wall\" (changcheng)  in modern times, in Ming times they were called \"border barriers\" (邊牆; bianqiang) by the Chinese, since the term changcheng was said to evoke imagery of the tyranny of Qin Shi Huang (260–210 BC) and was associated with the Qin Great Wall."
+"extract": "Modern Ruin may refer to:\n\nModern ruins, a neologism referring to ruins of architecture constructed in the recent past\nModern Ruin (Covenant album), a 2011 album\nModern Ruin (Frank Carter & the Rattlesnakes album), a 2017 album"
 },
 {
 "qid": "Q6889222",
@@ -6056,7 +5872,8 @@ null
 "wd_desc": "2003 film by Nathaniel Kahn",
 "sources": [
 "wikipedia:Films about architects",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "My Architect: A Son's Journey is a 2003 documentary film about the American architect Louis Kahn (1901–1974), by his son Nathaniel Kahn, detailing the architect's extraordinary career and his familial legacy after his death in 1974.\nIn the film, Louis Kahn is quoted as saying “When I went to high school I had a teacher, in the arts, who was head of the department of Central High, William Grey, and he gave a course in Architecture, the only course in any high school I am sure, in Greek, Roman, Renaissance, Egyptian, and Gothic Architecture, and at that point two of my colleagues and myself realized that only Architecture was to be my life. How accidental are our existences are really, and how full of influence by circumstance.”\nThe film features interviews with renowned architects, including B. V. Doshi, Philip Johnson, Frank Gehry, Edmund Bacon (architect), Shamsul Wares, I.M. Pei, Moshe Safdie and Anne Tyng. Throughout the film, Kahn visits all of his father's buildings including The Yale Center for British Art, The Salk Institute, Jatiyo Sangshad Bhaban and the Indian Institute of Management Ahmedabad.\nThe film explores Kahn's family life which involved his fathering children by "
 },
@@ -6301,7 +6118,33 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "O Teri (transl. Oh your...) is a 2014 Indian Hindi-language comedy film directed by Umesh Bisht and produced by Atul Agnihotri and Alvira Khan Agnihotri. It stars Pulkit Samrat, Bilal Amrohi, Sarah-Jane Dias, and Mandira Bedi. The film follows two journalists who come across a big scam. Upon its release on 28 March 2014, the film received generally negative reviews and emerged as a commercial failure.\n\n"
+"extract": "O Teri (transl. Oh your...) is a 2014 Indian Hindi-language comedy film directed by Umesh Bisht and produced by Atul Agnihotri and Alvira Khan Agnihotri. It stars Pulkit Samrat, Bilal Amrohi, Sarah-Jane Dias, and Mandira Bedi. The film follows two journalists who come across a big scam. Upon its release on 28 March 2014, the film received generally negative reviews and emerged as a commercial failure."
+},
+{
+"qid": "Q575040",
+"title": "Objectified",
+"year": 2009,
+"runtime_min": 75,
+"instance_of": [
+"film"
+],
+"genres_wd": [
+"documentary film"
+],
+"is_doc": true,
+"director": [
+"Gary Hustwit"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1241325",
+"tmdb": "23951",
+"enwiki": "Objectified",
+"wd_desc": "2009 film by Gary Hustwit",
+"sources": [
+"wikipedia:seed-title"
+],
+"extract": "Objectified is a feature-length documentary film examining the role of every day non-living objects and the people who design them, in our daily lives. The film is directed by Gary Hustwit. Objectified premièred at the South By Southwest Festival on March 14, 2009.\nAccording to Swiss Dots Production, the film is the second part of the three-film series Design Trilogy, the first being Helvetica about the famous typeface, and the third and final film being the documentary Urbanized."
 },
 {
 "qid": "Q3349493",
@@ -6410,28 +6253,6 @@ null
 ]
 },
 {
-"qid": "Q134165",
-"title": "Oscar Niemeyer",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Oscar Niemeyer",
-"wd_desc": "Brazilian architect (1907–2012)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Oscar Ribeiro de Almeida Niemeyer Soares Filho (15 December 1907 – 5 December 2012), known as Oscar Niemeyer (Brazilian Portuguese: [ˈoskaʁ ni.eˈmajeʁ]), was a Brazilian architect considered to be one of the key figures in the development of modern architecture. Niemeyer was best known for his design of civic buildings for Brasília, a planned city that became Brazil's capital in 1960, as well as his collaboration with other architects on the headquarters of the United Nations in New York. His exploration of the aesthetic possibilities of reinforced concrete was highly influential in the late 20th and early 21st centuries.\nBoth lauded and criticized for being a \"sculptor of monuments\", Niemeyer was hailed as a great artist and one of the greatest architects of his generation by his supporters. He said his architecture was strongly influenced by Le Corbusier, but in an interview, assured that this \"didn't prevent [his] architecture from going in a different direction\". Niemeyer was most famous for his use of abstract forms and curves and wrote in his memoirs:\n\nI am not attracted to straight angles or to the straight line, hard and inflexible, created by man. I am attracted to free-fl"
-},
-{
 "qid": "Q74458715",
 "title": "Palace for the People",
 "year": 2018,
@@ -6463,28 +6284,6 @@ null
 "building-subject",
 "structure-subject"
 ]
-},
-{
-"qid": "Q7154390",
-"title": "Paul R. Williams",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Paul R. Williams",
-"wd_desc": "American architect (1894–1980)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Paul Revere Williams, FAIA (February 18, 1894 – January 23, 1980) was an American architect based in Los Angeles, California. Most of the buildings he designed were in Southern California and included the homes of numerous celebrities, such as Frank Sinatra, Lucille Ball and Desi Arnaz, Lon Chaney, Barbara Stanwyck, and Charles Correll. He also designed many commercial, institutional and civic buildings."
 },
 {
 "qid": "Q7163721",
@@ -6565,7 +6364,7 @@ null
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Playtime (stylized as PlayTime and also written as Play Time) is a 1967 satirical comedy film directed and co-written by Jacques Tati. Tati also stars in the film, reprising the role of Monsieur Hulot from his earlier films Les Vacances de Monsieur Hulot (1953) and Mon Oncle (1958). However, Tati grew ambivalent towards playing Hulot as a recurring central role during production, and he appears intermittently in Playtime, alternating between central and supporting roles.\nShot on 70 mm film, the work is notable for its enormous set, which Tati had built specially for the film, as well as Tati's trademark use of subtle yet complex visual comedy supported by creative sound effects. The film's dialogue, variously in French, English, and German, is frequently reduced to the level of background noise.\nWhile it was a commercial failure on its original release, Playtime is retrospectively considered Tati's magnum opus, his most daring work, and one of the greatest films of all time. In 2022, Playtime was voted 23rd on the British Film Institute's critics' list and 41st in their directors' list of \"Top 100 Greatest Films of All Time\"."
+"extract": "Playtime (stylized as PlayTime and also written as Play Time) is a 1967 satirical comedy film directed and co-written by Jacques Tati. Tati also stars in the film, reprising the role of Monsieur Hulot from his earlier films Les Vacances de Monsieur Hulot (1953) and Mon Oncle (1958). However, Tati grew ambivalent towards playing Hulot as a recurring central role during production, and he appears intermittently in Playtime, alternating between central and supporting roles.\nShot on 70 mm film, the work is notable for its enormous set, which Tati had built specially for the film, as well as Tati's trademark use of subtle yet complex visual comedy supported by creative sound effects. The film's dialogue, variously in French, English, and German, is frequently reduced to the level of background noise.\nWhile it was a commercial failure on its original release, Playtime is retrospectively considered Tati's magnum opus, his most daring work, and one of the greatest films of all time. In 2022, Playtime was voted 23rd on the British Film Institute's critics' list and 41st in their directors' list of \"Top 100 Greatest Films of All Time\".\n\n"
 },
 {
 "qid": "Q3399357",
@@ -6804,28 +6603,6 @@ null
 ]
 },
 {
-"qid": "Q232364",
-"title": "Rem Koolhaas",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": "nm0465549",
-"tmdb": null,
-"enwiki": "Rem Koolhaas",
-"wd_desc": "Dutch architect (1944-)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Remment Lucas Koolhaas (Dutch: [rɛm ˈkoːlɦaːs]; born 17 November 1944) is a Dutch architect, architectural theorist, urbanist, and Professor in Practice of Architecture and Urban Design at the Graduate School of Design at Harvard University. He is often cited as a representative of deconstructivism and is the author of Delirious New York: A Retroactive Manifesto for Manhattan.\nHe is seen by some as one of the significant architectural thinkers and urbanists of his generation, by others as a self-important iconoclast. In 2000, Rem Koolhaas won the Pritzker Prize. In 2008, Time put him in their top 100 of The World's Most Influential People. He was elected to the American Philosophical Society in 2014."
-},
-{
 "qid": "Q134979717",
 "title": "Remain",
 "year": 2027,
@@ -6852,7 +6629,7 @@ null
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "Remain is a 2026 American supernatural romantic thriller film written, directed, and produced by M. Night Shyamalan, based on an idea he developed with Nicholas Sparks, who separately wrote a version of the story as a novel published in 2025. The film stars Jake Gyllenhaal, Phoebe Dynevor, Ashley Walters, Julie Hagerty, and Jay O. Sanders.\nRemain had its world premiere as a surprise screening at Beyond Fest on September 29, 2026, and is scheduled to be released by Warner Bros. Pictures in the United States on February 5, 2027.\n\n"
+"extract": "Remain is a 2026 American supernatural romantic thriller film written, directed, and produced by M. Night Shyamalan, based on an idea he developed with Nicholas Sparks, who separately wrote a version of the story as a novel published in 2025. The film stars Jake Gyllenhaal, Phoebe Dynevor, Ashley Walters, Julie Hagerty, and Jay O. Sanders.\nRemain had its world premiere as a surprise screening at Beyond Fest on September 29, 2026, and is scheduled to be released by Warner Bros. Pictures in the United States on February 5, 2027."
 },
 {
 "qid": "Q33504315",
@@ -6910,28 +6687,6 @@ null
 "wikipedia:Films about architecture"
 ],
 "extract": "Return to Me is a 2000 American romantic comedy-drama film directed by Bonnie Hunt and starring David Duchovny and Minnie Driver. It was filmed in Chicago and was released on April 7, 2000 by Metro-Goldwyn-Mayer Pictures. It was Carroll O'Connor's final film before his death the following year."
-},
-{
-"qid": "Q84312",
-"title": "Richard Neutra",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Richard Neutra",
-"wd_desc": "Austrian–American architect (1892-1970)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Richard Joseph Neutra ( NOI-tra; 8 April 1892 – 16 April 1970) was an Austrian-American architect. Living and building for most of his career in Southern California, he came to be considered a prominent and important modernist architect. His most notable works include the Kaufmann Desert House, in Palm Springs, California."
 },
 {
 "qid": "Q38797014",
@@ -7163,7 +6918,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "Sanatorium (Ukrainian: Санаторій, romanized: Sanatoriy) is a 2025 observational documentary film directed by Gar O'Rourke in his directorial debut. It follows the lives of the residents of Kuyalnik Sanatorium, a former Soviet medical center that now provides medical treatment and comfort to its guests while the Russian war against Ukraine rages.\nO'Rourke first visited Kyiv in 2018 for another film project and stayed at a Ukrainian sanatorium in 2021, before war broke out, to obtain first-hand experience.\nIt was selected as the Irish entry for the Best International Feature Film at the 98th Academy Awards, but it was not nominated.\n\n"
+"extract": "Sanatorium (Ukrainian: Санаторій, romanized: Sanatoriy) is a 2025 observational documentary film directed by Gar O'Rourke in his directorial debut. It follows the lives of the residents of Kuyalnik Sanatorium, a former Soviet medical center that now provides medical treatment and comfort to its guests while the Russian war against Ukraine rages.\nO'Rourke first visited Kyiv in 2018 for another film project and stayed at a Ukrainian sanatorium in 2021, before war broke out, to obtain first-hand experience.\nIt was selected as the Irish entry for the Best International Feature Film at the 98th Academy Awards, but it was not nominated."
 },
 {
 "qid": "Q7432598",
@@ -7361,28 +7116,6 @@ null,
 ]
 },
 {
-"qid": "Q526725",
-"title": "Shigeru Ban",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"human"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Shigeru Ban",
-"wd_desc": "Japanese architect (1957-)",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Shigeru Ban (坂 茂, Ban Shigeru; born 5 August 1957) is a Japanese architect, known for his innovative work with paper, particularly recycled cardboard tubes used to quickly and efficiently house disaster victims. Many of his notable designs are structures which are temporary, prefabricated, or incorporate inexpensive and unconventional materials in innovative ways. He was profiled by Time magazine in their projection of 21st-century innovators in the field of architecture and design.\nIn 2014, Ban was named the 37th recipient of the Pritzker Architecture Prize, the most prestigious prize in modern architecture. The Pritzker Jury cited Ban for his innovative use of material and his dedication to humanitarian efforts around the world, calling him \"a committed teacher who is not only a role model for younger generation, but also an inspiration.\""
-},
-{
 "qid": "Q3428553",
 "title": "Sidewalls",
 "year": 2011,
@@ -7440,7 +7173,8 @@ null,
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "Sketches of Frank Gehry is a 2006 American documentary film directed by Sydney Pollack and produced by Ultan Guilfoyle, about the life and work of the Canadian-American architect Frank Gehry. The film was screened out of competition at the 2006 Cannes Film Festival. Pollack and Gehry had been friends and mutual admirers for years. The film features footage of various Gehry-designed buildings, including Anaheim Ice (the training rink of the Mighty Ducks of Anaheim), the Guggenheim Museum Bilbao, and the Walt Disney Concert Hall. It was the final film to be directed by Sydney Pollack before his death in 2008.\nThe film includes interviews with other noted figures, including:\n\nCharles Arnoldi\nBarry Diller\nMichael Eisner\nHal Foster\nBob Geldof\nDennis Hopper\nCharles Jencks\nPhilip Johnson\nThomas Krens (former director of the Solomon R. Guggenheim Museum)\nHerbert Muschamp\nMichael Ovitz\nRobert Rauschenberg\nEdward Ruscha\nEsa-Pekka Salonen\nJulian Schnabel\nDr Milton Wexler (Gehry's therapist)\nThe film also discusses work on Gehry's own residence, which was one of the first works that brought him to notoriety."
 },
@@ -7585,28 +7319,6 @@ null,
 "extract": "Sobibor, October 14, 1943, 4 p.m. (French: Sobibor, 14 octobre 1943, 16 heures) is a 2001 French documentary film directed by Claude Lanzmann. It was screened out of competition at the 2001 Cannes Film Festival. The title and date refer to the Sobibor revolt, one of only two successful uprisings at German extermination camps during the Second World War (the other being at Treblinka)."
 },
 {
-"qid": "Q136289212",
-"title": "Socialist architecture in Slovakia",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"aspect in a geographic region"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Socialist architecture in Slovakia",
-"wd_desc": null,
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Socialist-modernism and Brutalism played a major role in post-war reconstruction of Czechoslovakia. They first appeared in mid-1960s to the late 1980s representing a modern socialist vision and a break from Socialist Realism. After the Second World War, Czechoslovakia became part of the Eastern Bloc. Everyday life transitioned to a centrally planned economy, heavy industries, and urbanization increased. The era celebrated the life of the working class. Art, literature, media, and socialist architecture were used by state as propaganda tools to emphasize and control socialist policies and ideas."
-},
-{
 "qid": "Q76450214",
 "title": "Songs of Repression",
 "year": 2020,
@@ -7712,7 +7424,8 @@ null,
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "Spaces: The Architecture of Paul Rudolph is a 1983 American short documentary film narrated by Cliff Robertson and produced by Bob Eisenhardt about the work of architect Paul Rudolph. It was nominated for an Academy Award for Best Documentary Short."
 },
@@ -7820,7 +7533,7 @@ null,
 "wikipedia:Films about architects",
 "wikipedia:Films about architecture"
 ],
-"extract": "Stolen Love (Chinese: 別戀; pinyin: Bit luen, literally \"Don't Fall in Love\") is a 2001 Hong Kong romance film written by Felix Chong and directed by Alan Mak. It was Alan Mak's first collaboration with Felix Chong.\n\n"
+"extract": "Stolen Love (Chinese: 別戀; pinyin: Bit luen, literally \"Don't Fall in Love\") is a 2001 Hong Kong romance film written by Felix Chong and directed by Alan Mak. It was Alan Mak's first collaboration with Felix Chong."
 },
 {
 "qid": "Q2351384",
@@ -7901,28 +7614,6 @@ null,
 "wikipedia:Films about architecture"
 ],
 "extract": "Sul ponte dei sospiri is a 1953 Italian adventure film. It is based on characters created by Michel Zévaco."
-},
-{
-"qid": "Q1412320",
-"title": "Super 8 mm film",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"film format"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Super 8 film",
-"wd_desc": "small film format by Kodak",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Super 8 mm film is a motion-picture film format released in 1965 by Eastman Kodak as an improvement over the older \"Double\" or \"Regular\" 8 mm home movie format. The formal name for Super 8 is 8-mm Type S, distinguishing it from the older double-8 format, which is called 8-mm Type R. Unlike Super 35 (which is generally compatible with standard 35 mm equipment), the film stock used for Super 8 is not compatible with standard 8 mm film cameras.\nThe film is nominally 8 mm wide, the same as older formatted 8 mm film, but the dimensions of the rectangular sprocket hole perforations along one edge are smaller, which allows for a larger image area. The Super 8 standard also allocates the border opposite the perforations for a sound track which could be either magnetic or (on some packaged movies) optical.\nFujifilm released a competing system named Single-8, also in 1965, which used the same film, image frame, and perforation dimensions, but with a different film base and incompatible cartridge format. The Kodak Super 8 system was adopted by more manufacturers and proved to be the more popular home movie format until it was displaced by video camera and recorder systems."
 },
 {
 "qid": "Q113992830",
@@ -8193,7 +7884,8 @@ null,
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "Taq Kasra: Wonder of Architecture is a 2018 documentary film on the world's largest brick vault, Taq Kasra. It is the first film about this ancient Persian monument, directed by Pejman Akbarzadeh."
 },
@@ -8879,30 +8571,26 @@ null,
 "extract": "The Cassandra Crossing is a 1976 disaster thriller film directed by George Pan Cosmatos, from a screenplay he co-wrote with Tom Mankiewicz and Robert Katz. The film is about a viral outbreak aboard a cross-European train, as it heads to a derelict arch bridge which is liable to collapse. It stars an ensemble cast, featuring Sophia Loren, Richard Harris, Ava Gardner, Martin Sheen, Burt Lancaster, Lee Strasberg, O. J. Simpson, Ingrid Thulin, Lionel Stander, Ann Turkel, John Phillip Law, and Alida Valli.\nWith the backing of the media tycoon Sir Lew Grade (the head of the British broadcast network Associated Television) and the Italian film producer Carlo Ponti, the international all-star cast was expected to attract a widespread audience, with rights sold prior to filming, to both British and American distributors. Ponti also saw the production as a showcase for his wife, Sophia Loren. Shooting took place on-location in France and Switzerland, and at Cinecittà Studios.\nThe film was first released in Italy on December 18, 1976. It had a generally unfavourable critical response, though it was financially successful."
 },
 {
-"qid": "Q56562253",
+"qid": "Q7727074",
 "title": "The Competition",
-"year": 2018,
+"year": null,
 "runtime_min": null,
 "instance_of": [
-"film"
+"Wikimedia disambiguation page"
 ],
-"genres_wd": [
-"romantic comedy film"
-],
+"genres_wd": [],
 "is_doc": false,
-"director": [
-"Harvey Lowry"
-],
+"director": [],
 "subjects": [],
 "architects": [],
-"imdb": "tt5841344",
-"tmdb": "428589",
-"enwiki": "The Competition (2018 film)",
-"wd_desc": "2018 film directed by Harvey Lowry",
+"imdb": null,
+"tmdb": null,
+"enwiki": "The Competition",
+"wd_desc": "Wikimedia disambiguation page",
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "The Competition is a 2018 American romantic comedy film directed by Harvey Lowry, and starring Thora Birch (who also served as a producer of the film) and Chris Klein."
+"extract": "The Competition may refer to:\n\nThe Competition (1980 film), a 1980 film starring Richard Dreyfuss\nThe Competition (2018 film), a 2018 film starring Thora Birch\n\"The Competition\" (Dilbert), a 1999 television episode\n\"The Competition\" (The Golden Girls), a 1985 television episode\n\"The Competition\" (Sabrina the Teenage Witch), a 2002 television episode"
 },
 {
 "qid": "Q7729654",
@@ -9499,33 +9187,6 @@ null,
 "structure-subject"
 ],
 "extract": "The Magic of Walt Disney World is a 1972 documentary featurette produced by Walt Disney Productions."
-},
-{
-"qid": "Q1479291",
-"title": "The Mosquito Coast",
-"year": 1986,
-"runtime_min": 117,
-"instance_of": [
-"film"
-],
-"genres_wd": [
-"drama film",
-"adventure film"
-],
-"is_doc": false,
-"director": [
-"Peter Weir"
-],
-"subjects": [],
-"architects": [],
-"imdb": "tt0091557",
-"tmdb": "11120",
-"enwiki": "The Mosquito Coast (film)",
-"wd_desc": "1986 film directed by Peter Weir",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "The Mosquito Coast is a 1986 American drama film directed by Peter Weir and starring Harrison Ford, Helen Mirren, Andre Gregory, and River Phoenix. It is based on the 1981 novel by Paul Theroux. The film tells the story of a family that leaves the United States and tries to find a happier and simpler life in the jungles of Central America. However, their jungle paradise quickly turns into a dystopia as the stubborn father's behavior becomes increasingly erratic and aggressive. Filming locations included Cartersville and Rome in Georgia, Baltimore, and Belize."
 },
 {
 "qid": "Q124478409",
@@ -10165,7 +9826,8 @@ null,
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "The Vision of Paolo Soleri: Prophet in the Desert is a 2013 American documentary film about the life and work of the late Italian architect and environmentalist Paolo Soleri. It was directed by Lisa Scafuro."
 },
@@ -10275,6 +9937,30 @@ null,
 ]
 },
 {
+"qid": "Q584740",
+"title": "This Used to Be My Playground",
+"year": 1992,
+"runtime_min": null,
+"instance_of": [
+"single"
+],
+"genres_wd": [
+"pop music"
+],
+"is_doc": false,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "This Used to Be My Playground",
+"wd_desc": "single",
+"sources": [
+"wikipedia:seed-title"
+],
+"extract": "\"This Used to Be My Playground\" is a song recorded by American singer Madonna. It is the theme for the film A League of Their Own, in which Madonna appeared. The movie portrayed a fictionalized account of the real-life All-American Girls Professional Baseball League. Madonna was asked to record a song for the film's soundtrack. At that time she was busy recording her fifth studio album, Erotica,  with producer Shep Pettibone. They worked on some ideas and came up with \"This Used to Be My Playground\" in two days. Once presented to director Penny Marshall's team, the song was released as a standalone single on June 16, 1992, by Warner Bros. Records. However, it was not available on the film's soundtrack due to contractual obligations and was later added to the Olympics-inspired Barcelona Gold compilation album, released that summer. The song was included on Madonna's 1995 ballads compilation Something to Remember.\nWritten and produced by Madonna and Pettibone, \"This Used to Be My Playground\" was the first time that Pettibone worked with live string arrangements. Madonna recorded the song on a Shure SM57 microphone, with instrumentation from piano, organ, strings and drums. During the"
+},
+{
 "qid": "Q665126",
 "title": "Three to Tango",
 "year": 1999,
@@ -10300,7 +9986,7 @@ null,
 "sources": [
 "wikipedia:Films about architecture"
 ],
-"extract": "Three to Tango is a 1999 romantic comedy film directed by Damon Santostefano, written by Rodney Patrick Vaccaro and Aline Brosh McKenna, and starring Matthew Perry, Neve Campbell, Dylan McDermott and Oliver Platt.\n\n"
+"extract": "Three to Tango is a 1999 romantic comedy film directed by Damon Santostefano, written by Rodney Patrick Vaccaro and Aline Brosh McKenna, and starring Matthew Perry, Neve Campbell, Dylan McDermott and Oliver Platt."
 },
 {
 "qid": "Q16516",
@@ -10383,7 +10069,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "Titicut Follies is a 1967 American direct cinema documentary film produced, written, and directed by Frederick Wiseman and filmed by John Marshall. It deals with the patient-inmates of Bridgewater State Hospital for the Criminally Insane, a Massachusetts Correctional Institution in Bridgewater, Massachusetts. The title is taken from that of a talent show put on by the hospital staff. Titicut is the Wampanoag name for the nearby Taunton River.\nThe film won accolades in Germany and Italy. Wiseman went on to produce many more such films examining social institutions (e.g. hospitals, police, schools, etc.) in the United States.\nIn 2022, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\"."
+"extract": "Titicut Follies is a 1967 American direct cinema documentary film produced, written, and directed by Frederick Wiseman and filmed by John Marshall. It deals with the patient-inmates of Bridgewater State Hospital for the Criminally Insane, a Massachusetts Correctional Institution in Bridgewater, Massachusetts. The title is taken from that of a talent show put on by the hospital staff. Titicut is the Wampanoag name for the nearby Taunton River.\nThe film won accolades in Germany and Italy. Wiseman went on to produce many more such films examining social institutions (e.g. hospitals, police, schools, etc.) in the United States.\nIn 2022, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being \"culturally, historically, or aesthetically significant\".\n\n"
 },
 {
 "qid": "Q7813899",
@@ -10582,7 +10268,8 @@ null,
 "sources": [
 "wikipedia:Documentary films about architecture",
 "wikipedia:Documentary films about urban studies",
-"wikipedia:Films about architecture"
+"wikipedia:Films about architecture",
+"wikipedia:seed-title"
 ],
 "extract": "Unfinished Spaces is a 2011 documentary film about the revolutionary design of the National Art Schools (Cuba), directed by Alysa Nahmias and Benjamin Murray. The film tells the dramatic story of the art schools from their founding by Fidel Castro and Che Guevara to their eventual abandonment and fall into ruin and recent efforts to restore them.\nThe three visionary architects Ricardo Porro, Roberto Gottardi, and Vittorio Garatti are interviewed on camera. They talk about the intense atmosphere of revolutionary Cuba and how they strove to create an entirely new language of architecture, one without precedent. They also speak about why their design fell into disfavor and how the complex was mostly abandoned, uncompleted.\nAs the film shows, parts of the schools are in ruins while other parts are used today by young dancers and artists. These schools are on the watch list of the World Monuments Fund, and efforts to restore the abandoned buildings are being explored.\n\nUnfinished Spaces was produced by Alysa Nahmias and Benjamin Murray, filmmakers who became obsessed with the story of the schools' rise and downfall. The film received several important grants and had its World Premiere a"
 },
@@ -10693,7 +10380,8 @@ null,
 "enwiki": "Urbanized",
 "wd_desc": "2011 documentary film by Gary Hustwit",
 "sources": [
-"wikipedia:Documentary films about urban studies"
+"wikipedia:Documentary films about urban studies",
+"wikipedia:seed-title"
 ],
 "extract": "Urbanized is a documentary film directed by Gary Hustwit and released on 26 October 2011. It is considered the third of a three-part series on design known as the Design Trilogy; the first being Helvetica, about the typeface, and the second being Objectified, about industrial design. The documentary discusses how cities are designed, and it features interviews with urban planners and architects, such as Oscar Niemeyer and Jan Gehl."
 },
@@ -10871,7 +10559,7 @@ null,
 "building-subject",
 "structure-subject"
 ],
-"extract": "The Westerbork film is a film material commissioned and shot by the SS in the transit camp for Jews in Westerbork, in the Reichskommissariat Niederlande (Nazi-occupied Netherlands) in the spring of 1944.\n\n"
+"extract": "The Westerbork film is a film material commissioned and shot by the SS in the transit camp for Jews in Westerbork, in the Reichskommissariat Niederlande (Nazi-occupied Netherlands) in the spring of 1944."
 },
 {
 "qid": "Q32942287",
@@ -11014,13 +10702,11 @@ null,
 "extract": "Ye Gulistan Hamara (transl. This Garden Is Ours) is a 1972 Indian Hindi-language drama film directed by Atmaram. The film stars Dev Anand, Sharmila Tagore, Pran, Sujit Kumar, Johnny Walker in pivotal roles, with music by S. D. Burman. Dialogue and screenplay are by Wajahat Mirza. The films depicts a tribal community living on the border with China; the song \"Mera Naam Aao\" was considered particularly offensive to the Ao Naga community in Nagaland."
 },
 {
-"qid": "Q790192",
-"title": "experimental film",
+"qid": "Q8777539",
+"title": "human scale",
 "year": null,
 "runtime_min": null,
-"instance_of": [
-"film genre"
-],
+"instance_of": [],
 "genres_wd": [],
 "is_doc": false,
 "director": [],
@@ -11028,80 +10714,12 @@ null,
 "architects": [],
 "imdb": null,
 "tmdb": null,
-"enwiki": "Experimental film",
-"wd_desc": "cinematic works that are experimental form or content",
+"enwiki": "Human scale",
+"wd_desc": "concept that takes people as the primary measure of development",
 "sources": [
 "wikipedia:seed-title"
 ],
-"extract": "Experimental film or avant-garde cinema is a mode of filmmaking that does not apply standard cinematic conventions, instead adopting non-narrative forms or alternatives to traditional narratives or methods of working. Many experimental films, particularly early ones, relate to arts in other disciplines: painting, dance, literature and poetry, or arise from research and development of new technical resources.\nWhile some experimental films have been distributed through mainstream channels or even made within commercial studios, the vast majority have been produced on very low budgets with a minimal crew or a single person and are either self-financed or supported through small grants.\nExperimental filmmakers generally begin as amateurs, and some use experimental films as a springboard into commercial film-making or transition into academic positions. The aim of experimental filmmaking may be to render the personal vision of an artist, or to promote interest in new technology rather than to entertain or to generate revenue, as is the case with commercial films."
-},
-{
-"qid": "Q1748859",
-"title": "lists of cathedrals",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"Wikimedia list article"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Lists of cathedrals",
-"wd_desc": "Wikimedia list article",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "This is a list of cathedrals by country, including both actual cathedrals (seats of bishops in episcopal denominations, such as Catholicism, Anglicanism, and Orthodoxy) and a few prominent churches from non-episcopal denominations commonly referred to as \"cathedral\", usually having formerly acquired that status. As of December 2018, the Catholic Church had 3,391 cathedral-level churches; Cathedral (3,037), Co-cathedral (312), and Pro-cathedral (42) status around the world, predominantly in countries with a significant Roman Catholic population: Italy (368), Brazil (287), United States (215), India (183), France (110), Mexico (100), Spain (88), Philippines (88), Colombia (86), Canada (79) and Argentina (72)."
-},
-{
-"qid": "Q6840667",
-"title": "mid-century modern",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"architectural style",
-"style"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "Mid-century modern",
-"wd_desc": "architectural, interior, product, and graphic design of the mid-20th century",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "Mid-century modern (MCM) is \"a style of design popular in the mid-twentieth century, characterized by clean, simple lines and lack of embellishment.\" The style was present throughout the world but gained most popularity in North America, Brazil and Europe from roughly 1945 to 1970. MCM style can be seen in interior design, product design, graphic design, architecture and urban development.\nMCM-style decor and architecture have seen a major resurgence that began in the late 1990s and continues today.\nThe term was used as early as the mid-1950s, and was defined as a design movement by Cara Greenberg in her 1984 book Mid-Century Modern: Furniture of the 1950s. It is now recognized by scholars and museums worldwide as a significant design movement.\nThe MCM design aesthetic is modern in style and construction, aligned with the modernist movement of the period. It is typically characterized by clean, simple lines and honest use of materials, and generally does not include decorative embellishments.\nOn the exterior, an MCM home is normally very wide, partially brick or glass walls, low footprints with floor to ceiling windows and flat rooflines, while exposed ceilings and beams, open floo"
-},
-{
-"qid": "Q172754",
-"title": "world's fair",
-"year": null,
-"runtime_min": null,
-"instance_of": [
-"form of event",
-"form of festival"
-],
-"genres_wd": [],
-"is_doc": false,
-"director": [],
-"subjects": [],
-"architects": [],
-"imdb": null,
-"tmdb": null,
-"enwiki": "World's fair",
-"wd_desc": "series of international exhibitions initiated in 1851",
-"sources": [
-"wikipedia:seed-title"
-],
-"extract": "A world's fair, also known as a universal exhibition, is a large global exhibition designed to showcase the achievements of nations. These exhibitions vary in character and are held in different parts of the world at a specific site for a period of time, typically between three and six months.\nThe term \"world's fair\" is commonly used in the United States, while the French term, Exposition universelle (\"universal exhibition\") is used in most of Europe and Asia; other terms include World Expo or Specialised Expo, with the word expo used for various types of exhibitions since at least 1958.\nSince the adoption of the 1928 Convention Relating to International Exhibitions, the Paris-based Bureau International des Expositions (BIE) has served as an international sanctioning body for international exhibitions; four types of international exhibition are organised under its auspices: World Expos, Specialised Expos, Horticultural Expos (regulated by the International Association of Horticultural Producers), and the Milan Triennial.\nOsaka, Japan held the most recent World Expo in 2025, while Astana, Kazakhstan, held the most recent Specialised Expo in 2017, and Doha, Qatar, held the most recen"
+"extract": "Human scale is the set of physical qualities, and quantities of information, characterizing the human body, its motor, sensory, or mental capabilities, and human social institutions."
 },
 {
 "qid": "Q28495518",
