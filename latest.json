@@ -1,18 +1,26 @@
 {
- "fetched_at": "2026-10-26T04:34:42+00:00",
+ "fetched_at": "2026-10-26T12:49:05+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1734,
+ "visits_30d": 1770,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 460,
+     "count": 469,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture: buildings for architects & students",
      "max": 36
+    },
+    {
+     "count": 79,
+     "path_id": 113298212,
+     "path": "map/open",
+     "event": true,
+     "title": "Map opened",
+     "max": 12
     },
     {
      "count": 78,
@@ -23,14 +31,6 @@
      "max": 9
     },
     {
-     "count": 76,
-     "path_id": 113298212,
-     "path": "map/open",
-     "event": true,
-     "title": "Map opened",
-     "max": 12
-    },
-    {
      "count": 30,
      "path_id": 113691164,
      "path": "/studio",
@@ -39,7 +39,7 @@
      "max": 6
     },
     {
-     "count": 16,
+     "count": 17,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
@@ -168,6 +168,14 @@
     },
     {
      "count": 4,
+     "path_id": 114317607,
+     "path": "/ideas/adaptive-reuse",
+     "event": false,
+     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 114089631,
      "path": "/buildings/bolgatanga-library",
      "event": false,
@@ -213,14 +221,6 @@
      "event": false,
      "title": "Spa Green Estate by Berthold Lubetkin: photos & key features",
      "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 114317607,
-     "path": "/ideas/adaptive-reuse",
-     "event": false,
-     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
-     "max": 1
     },
     {
      "count": 3,
@@ -440,6 +440,22 @@
     },
     {
      "count": 2,
+     "path_id": 115371645,
+     "path": "building/fondation-beyeler",
+     "event": true,
+     "title": "Fondation Beyeler",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 114927406,
+     "path": "/buildings/federal-palace-of-switzerland",
+     "event": false,
+     "title": "Federal Palace of Switzerland by Hans Wilhelm Auer: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 114551490,
      "path": "building/museo-de-arte-moderno",
      "event": true,
@@ -580,6 +596,14 @@
      "path": "building/kanchanjunga-apartments",
      "event": true,
      "title": "Kanchanjunga Apartments",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 113994013,
+     "path": "building/gavina-showroom",
+     "event": true,
+     "title": "Gavina Showroom",
      "max": 1
     },
     {
@@ -781,64 +805,40 @@
      "event": false,
      "title": "Hubertus House by Aldo van Eyck, 1978: photos & key features",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113764331,
-     "path": "/buildings/marin-county-civic-center",
-     "event": false,
-     "title": "Marin County Civic Center by Frank Lloyd Wright",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113752482,
-     "path": "book/precedents-in-architecture",
-     "event": true,
-     "title": "Precedents in Architecture",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113751835,
-     "path": "book/complexity-and-contradiction",
-     "event": true,
-     "title": "Complexity and Contradiction in Architecture",
-     "max": 1
     }
    ],
-   "total": 955,
+   "total": 969,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 991,
+     "count": 1021,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 347,
+     "count": 348,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 45,
+     "count": 46,
      "ref_scheme": "c"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 16,
+     "count": 17,
      "ref_scheme": "c"
     },
     {
      "id": "reddit",
      "name": "reddit",
-     "count": 14,
+     "count": 15,
      "ref_scheme": "c"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1105
+     "count": 1115
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 606
+     "count": 632
     },
     {
      "id": "Firefox",
@@ -951,12 +951,12 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 579
+     "count": 588
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 526
+     "count": 551
     },
     {
      "id": "Android",
@@ -966,7 +966,7 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 155
+     "count": 157
     },
     {
      "id": "Linux",
@@ -990,12 +990,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 922
+     "count": 929
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 221
+     "count": 224
     },
     {
      "id": "DE",
@@ -1006,6 +1006,11 @@
      "id": "GB",
      "name": "United Kingdom",
      "count": 57
+    },
+    {
+     "id": "IT",
+     "name": "Italy",
+     "count": 40
     },
     {
      "id": "JP",
@@ -1026,11 +1031,6 @@
      "id": "NL",
      "name": "Netherlands",
      "count": 24
-    },
-    {
-     "id": "IT",
-     "name": "Italy",
-     "count": 22
     },
     {
      "id": "TR",
@@ -1098,6 +1098,11 @@
      "count": 8
     },
     {
+     "id": "TN",
+     "name": "Tunisia",
+     "count": 8
+    },
+    {
      "id": "GR",
      "name": "Greece",
      "count": 7
@@ -1148,6 +1153,11 @@
      "count": 6
     },
     {
+     "id": "DZ",
+     "name": "Algeria",
+     "count": 5
+    },
+    {
      "id": "EC",
      "name": "Ecuador",
      "count": 5
@@ -1160,11 +1170,6 @@
     {
      "id": "DO",
      "name": "Dominican Republic",
-     "count": 4
-    },
-    {
-     "id": "DZ",
-     "name": "Algeria",
      "count": 4
     },
     {
@@ -1353,11 +1358,6 @@
      "count": 1
     },
     {
-     "id": "TN",
-     "name": "Tunisia",
-     "count": 1
-    },
-    {
      "id": "XK",
      "name": "Kosovo",
      "count": 1
@@ -1370,17 +1370,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 885
+     "count": 910
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 48
+     "count": 49
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 733
+     "count": 743
     },
     {
      "id": "desktophd",
@@ -1400,7 +1400,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1734
+     "count": 1770
     }
    ],
    "more": false
