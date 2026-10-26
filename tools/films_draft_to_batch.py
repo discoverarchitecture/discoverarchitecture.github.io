@@ -22,6 +22,13 @@ def fold(s):
     return re.sub(r'[^a-z0-9]+', '', unicodedata.normalize('NFKD', s or '').encode('ascii', 'ignore').decode().lower())
 
 
+def key_of(title, year):
+    """The same key films_batch.py uses. It must stay the same, or a rejected film comes back as unreviewed."""
+    w = [x for x in re.sub(r'[^a-z0-9 ]+', ' ', unicodedata.normalize('NFKD', re.split(r'[:(]', title or '')[0])
+         .encode('ascii', 'ignore').decode().lower()).split() if x not in ('the', 'a', 'an')]
+    return f"{' '.join(w)}|{year or ''}"
+
+
 def words(s):
     return [w for w in re.sub(r'[^a-z0-9 ]+', ' ', unicodedata.normalize('NFKD', s or '').encode('ascii', 'ignore').decode().lower()).split()
             if w not in ('the', 'of', 'a', 'an', 'and', 'museum', 'institute', 'centre', 'center', 'building', 'house')]
@@ -70,7 +77,7 @@ def main(cand_path, out_path, drafts):
             c = cands.get(d.get('qid'))
             if not c:
                 continue
-            key = f"{' '.join(w for w in fold(re.split(r'[:(]', c['title'])[0]).split() if w not in ('the', 'a', 'an'))}|{c.get('year') or ''}"
+            key = key_of(c['title'], c.get('year'))
             if d.get('verdict') != 'keep':
                 reject.append(key)
                 continue
