@@ -1,0 +1,359 @@
+{
+ "add": [
+  {
+   "title": "Aalto",
+   "year": 2020,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Virpi Suutari's film on Alvar Aalto, told through his work and his partnership with Aino Aalto.",
+   "about": {
+    "architects": [
+     "Alvar Aalto"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q98725992",
+     "quote": "2020 film directed by Virpi Suutari"
+    }
+   ],
+   "qid": "Q98725992",
+   "director": [
+    "Virpi Suutari"
+   ],
+   "runtime_min": 103,
+   "imdb": "tt9634036",
+   "tmdb": "683722"
+  },
+  {
+   "title": "From Inside Out – The Architecture of Peter Zumthor",
+   "year": 2026,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Wim Wenders films the architecture of Peter Zumthor.",
+   "about": {
+    "architects": [
+     "Peter Zumthor"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q141663125",
+     "quote": "2026 documentary film by Wim Wenders"
+    }
+   ],
+   "qid": "Q141663125",
+   "director": [
+    "Wim Wenders"
+   ],
+   "runtime_min": 114
+  },
+  {
+   "title": "Frank Lloyd Wright",
+   "year": 1998,
+   "kind": "series",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Ken Burns's two-part series on Frank Lloyd Wright.",
+   "about": {
+    "architects": [
+     "Frank Lloyd Wright"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q110944326",
+     "quote": "Two-part documentary series about Frank Lloyd Wright"
+    }
+   ],
+   "qid": "Q110944326",
+   "director": [
+    "Ken Burns"
+   ],
+   "imdb": "tt0144937"
+  },
+  {
+   "title": "Infinite Space: The Architecture of John Lautner",
+   "year": 2011,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Murray Grigor's film on John Lautner and the houses he built in California.",
+   "about": {
+    "architects": [
+     "John Lautner"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q96277628",
+     "quote": "2008 documentary film by Murray Grigor"
+    }
+   ],
+   "qid": "Q96277628",
+   "director": [
+    "Murray Grigor"
+   ],
+   "runtime_min": 91,
+   "imdb": "tt1284027",
+   "tmdb": "70750"
+  },
+  {
+   "title": "Loos Ornamental",
+   "year": 2008,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect",
+    "Movement & history"
+   ],
+   "summary": "Heinz Emigholz films the buildings of Adolf Loos, one after another, without commentary.",
+   "about": {
+    "architects": [
+     "Adolf Loos"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q66507605",
+     "quote": "2008 documentary film by Heinz Emigholz"
+    }
+   ],
+   "qid": "Q66507605",
+   "director": [
+    "Heinz Emigholz"
+   ],
+   "runtime_min": 72,
+   "imdb": "tt1193498",
+   "tmdb": "290560"
+  },
+  {
+   "title": "Louis Kahn's Tiger City",
+   "year": 2019,
+   "kind": "feature",
+   "genres": [
+    "Building story"
+   ],
+   "summary": "Sundaram Tagore's film on the National Parliament House Louis Kahn built in Dhaka.",
+   "about": {
+    "architects": [
+     "Louis Kahn"
+    ],
+    "buildings": [
+     "national-assembly-of-bangladesh"
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q141160783",
+     "quote": "2019 documentary film by Sundaram Tagore about Louis Kahn's National Parliament House in Dhaka"
+    }
+   ],
+   "qid": "Q141160783",
+   "director": [
+    "Sundaram Tagore"
+   ],
+   "runtime_min": 107,
+   "imdb": "tt8809474",
+   "tmdb": "637909"
+  },
+  {
+   "title": "Sagrada - el misteri de la creació",
+   "year": 2012,
+   "kind": "feature",
+   "genres": [
+    "Building story"
+   ],
+   "summary": "Stefan Haupt's film on the Sagrada Família, the church Antoni Gaudí left unfinished.",
+   "about": {
+    "architects": [
+     "Antoni Gaudí"
+    ],
+    "buildings": [
+     "sagrada-familia"
+    ]
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q16885369",
+     "quote": "2012 film by Stefan Haupt"
+    }
+   ],
+   "qid": "Q16885369",
+   "director": [
+    "Stefan Haupt"
+   ],
+   "runtime_min": 95,
+   "imdb": "tt2552316",
+   "tmdb": "203612"
+  },
+  {
+   "title": "The Proposal",
+   "year": 2018,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Jill Magid's film on the archive of Luis Barragán and who controls an architect's legacy.",
+   "about": {
+    "architects": [
+     "Luis Barragán"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q61642150",
+     "quote": "2018 film"
+    }
+   ],
+   "qid": "Q61642150",
+   "director": [
+    "Jill Magid"
+   ],
+   "runtime_min": 83,
+   "imdb": "tt8106592",
+   "tmdb": "511910"
+  },
+  {
+   "title": "The Amateur",
+   "year": 2016,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Maria Mauti's film on the Milanese architect Piero Portaluppi.",
+   "about": {
+    "architects": [
+     "Piero Portaluppi"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q26915620",
+     "quote": "2016 film by Maria Mauti"
+    }
+   ],
+   "qid": "Q26915620",
+   "director": [
+    "Maria Mauti"
+   ],
+   "runtime_min": 90,
+   "imdb": "tt5940866",
+   "tmdb": "411188"
+  },
+  {
+   "title": "Conversaciones con Renzo Piano",
+   "year": 2017,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "A documentary conversation with Renzo Piano.",
+   "about": {
+    "architects": [
+     "Renzo Piano"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q124154502",
+     "quote": "documentary on Renzo Piano"
+    }
+   ],
+   "qid": "Q124154502",
+   "runtime_min": 49
+  },
+  {
+   "title": "ADA: My Mother the Architect",
+   "year": 2024,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Yael Melamede's film on her mother, the Israeli architect Ada Karmi-Melamede.",
+   "about": {
+    "architects": [
+     "Ada Karmi-Melamede"
+    ],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q136437273",
+     "quote": "main subject: Ada Karmi-Melamede · director: Yael Melamede"
+    }
+   ],
+   "qid": "Q136437273",
+   "director": [
+    "Yael Melamede"
+   ],
+   "runtime_min": 81,
+   "imdb": "tt26915722",
+   "tmdb": "1319115"
+  },
+  {
+   "title": "Eye Over Prague",
+   "year": 2010,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect"
+   ],
+   "summary": "Olga Špátová's film on Jan Kaplický and his contested library design for Prague.",
+   "about": {
+    "architects": [],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q12042313",
+     "quote": "2010 film by Olga Špátová"
+    }
+   ],
+   "qid": "Q12042313",
+   "director": [
+    "Olga Malířová Špátová"
+   ],
+   "runtime_min": 78,
+   "imdb": "tt1417090",
+   "tmdb": "337729"
+  },
+  {
+   "title": "Didi Contractor - Marrying the Earth to the Building",
+   "year": 2017,
+   "kind": "feature",
+   "genres": [
+    "Portrait of an architect",
+    "Landscape & sustainability"
+   ],
+   "summary": "Steffi Unrein-Giaracuni's film on Didi Contractor, who built in mud and slate in the Himalayan foothills.",
+   "about": {
+    "architects": [],
+    "buildings": []
+   },
+   "sources": [
+    {
+     "url": "https://www.wikidata.org/wiki/Q106719445",
+     "quote": "2017 documentary film by Steffi Unrein-Giaracuni"
+    }
+   ],
+   "qid": "Q106719445",
+   "director": [
+    "Steffi Unrein-Giaracuni"
+   ]
+  }
+ ],
+ "reject": []
+}
