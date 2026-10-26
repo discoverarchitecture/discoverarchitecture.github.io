@@ -1760,5 +1760,80 @@
   "trailer": null,
   "image": null,
   "tmdb": null
+ },
+ {
+  "id": "abstract-the-art-of-design",
+  "title": "Abstract: The Art of Design",
+  "year": "",
+  "y": 0,
+  "kind": "series",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A Netflix series on designers at work; its architecture episode profiles Bjarke Ingels.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt6333098",
+  "letterboxd": null,
+  "qid": "Q28739655",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Abstract_–_The_Art_of_Design",
+    "quote": "Abstract: The Art of Design is a Netflix original documentary series highlighting artists in the field of design."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": null
+ },
+ {
+  "id": "visual-acoustics-the-modernism-of-julius-shulman",
+  "title": "Visual Acoustics: The Modernism of Julius Shulman",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "director": [
+   "Eric Bricker"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "Eric Bricker's film on Julius Shulman, the photographer whose images shaped how modern architecture was seen.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history",
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1233611",
+  "letterboxd": null,
+  "qid": "Q7936526",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Visual_Acoustics:_The_Modernism_of_Julius_Shulman",
+    "quote": "a documentary film by Eric Bricker that explores the life and career of the much lauded architectural photographer Julius Shulman"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "39786"
  }
 ]
