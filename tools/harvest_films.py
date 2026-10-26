@@ -52,8 +52,10 @@ SUBJECT_QUERIES = {
 }''',
 }
 
+# Categories whose films are about architecture itself. "Documentary films about cities" is left out on purpose:
+# it is mostly films about what happened in a city, not about how it was built.
 WP_CATEGORIES = ['Documentary films about architecture', 'Films about architecture', 'Documentary films about architects',
-                 'Documentary films about cities', 'Documentary films about visual arts', 'Architecture films']
+                 'Documentary films about urban planning', 'Documentary films about buildings and structures']
 
 TMDB_KEYWORDS = ['architecture', 'architect', 'brutalism', 'bauhaus', 'urban planning', 'skyscraper', 'modernist architecture']
 
@@ -107,6 +109,40 @@ def wp_category(cat, depth=1):
     return pages, subs
 
 
+def wp_search_categories():
+    """Category names on Wikipedia that pair films with architecture, so a renamed category cannot silently vanish."""
+    found = []
+    for term in ['architecture films', 'documentary films architecture', 'films about architects', 'urban planning films']:
+        url = WP_API + '?' + urllib.parse.urlencode({'action': 'query', 'format': 'json', 'list': 'search',
+                                                     'srsearch': term, 'srnamespace': '14', 'srlimit': '20'})
+        raw = get(url)
+        for r in (json.loads(raw).get('query', {}).get('search', []) if raw else []):
+            t = r['title'].split(':', 1)[-1]
+            if re.search(r'film|documentar|cinema', t, re.I) and re.search(r'architect|urban|building|structure', t, re.I):
+                if t not in found:
+                    found.append(t)
+    print(f'category search found: {found}')
+    return found
+
+
+def wp_extracts(titles):
+    """The opening paragraph of each film's Wikipedia page, so a summary can be written from a source, not invented."""
+    out = {}
+    for i in range(0, len(titles), 20):
+        chunk = titles[i:i + 20]
+        url = WP_API + '?' + urllib.parse.urlencode({'action': 'query', 'format': 'json', 'prop': 'extracts',
+                                                     'exintro': '1', 'explaintext': '1', 'exlimit': '20',
+                                                     'titles': '|'.join(chunk), 'redirects': '1'})
+        raw = get(url)
+        if raw is None:
+            continue
+        for pg in (json.loads(raw).get('query', {}).get('pages') or {}).values():
+            if pg.get('extract'):
+                out[pg['title']] = pg['extract'][:1200]
+        print(f'  extracts {min(i + 20, len(titles))}/{len(titles)}')
+    return out
+
+
 def wd_entities(qids):
     """Facts for up to 50 Wikidata ids at a time: label, year, runtime, directors, subjects, IMDb, TMDB."""
     out = {}
@@ -126,18 +162,18 @@ def wd_entities(qids):
 
 
 def wd_by_titles(titles):
-    """Wikidata ids for English Wikipedia page titles, 50 at a time."""
+    """Wikidata id -> English Wikipedia page title, 50 at a time."""
     out = {}
     for i in range(0, len(titles), 50):
         chunk = titles[i:i + 50]
         url = WD_API + '?' + urllib.parse.urlencode({'action': 'wbgetentities', 'format': 'json', 'sites': 'enwiki',
-                                                     'titles': '|'.join(chunk), 'props': 'info'})
+                                                     'titles': '|'.join(chunk), 'props': 'sitelinks', 'sitefilter': 'enwiki'})
         raw = get(url)
         if raw is None:
             continue
         for q, e in (json.loads(raw).get('entities') or {}).items():
             if q.startswith('Q'):
-                out[q] = True
+                out[q] = ((e.get('sitelinks') or {}).get('enwiki') or {}).get('title') or e.get('title')
     return out
 
 
@@ -183,10 +219,15 @@ def build_candidates(entities, labels, names, source_of):
             except (TypeError, ValueError):
                 pass
             break
+        kind_ids = [qid_of(v) for v in claim_values(e, 'P31') if qid_of(v)]
+        genre_ids = [qid_of(v) for v in claim_values(e, 'P136') if qid_of(v)]
         subj_ids = [qid_of(v) for v in claim_values(e, 'P921') if qid_of(v)]
         dir_ids = [qid_of(v) for v in claim_values(e, 'P57') if qid_of(v)]
         subjects = [labels.get(s, s) for s in subj_ids]
         out.append({'qid': q, 'title': title, 'year': year, 'runtime_min': runtime,
+                    'instance_of': [labels.get(k, k) for k in kind_ids],
+                    'genres_wd': [labels.get(g, g) for g in genre_ids],
+                    'is_doc': 'Q93204' in kind_ids + genre_ids,
                     'director': [labels.get(d, d) for d in dir_ids],
                     'subjects': subjects,
                     'architects': [s for s in subjects if s in names],
@@ -225,27 +266,38 @@ def main():
         for q in ids:
             source_of[q].add(name)
 
-    wp_pages, wp_seen = [], {}
-    for cat in WP_CATEGORIES:
+    cats = list(dict.fromkeys(WP_CATEGORIES + wp_search_categories()))
+    wp_seen, page_cat = {}, collections.defaultdict(set)
+    for cat in cats:
         pages, subs = wp_category(cat)
         wp_seen[cat] = len(pages)
         print(f'wikipedia "{cat}": {len(pages)} pages, {len(subs)} subcategories')
-        wp_pages += pages
-    wp_pages = sorted(set(wp_pages))
-    for q in wd_by_titles(wp_pages):
-        source_of[q].add('wikipedia')
-    counts['wikipedia'] = len(wp_pages)
+        for t in pages:
+            page_cat[t].add(cat)
+    wp_pages = sorted(page_cat)
+    title_qid = wd_by_titles(wp_pages)
+    for q, title in title_qid.items():
+        for cat in page_cat.get(title, ['?']):
+            source_of[q].add('wikipedia:' + cat)
+    counts['wikipedia (distinct pages)'] = len(wp_pages)
 
     qids = sorted(source_of)
     print(f'{len(qids)} distinct films; fetching facts')
     entities = wd_entities(qids)
 
     # second pass so subject and director ids read as names
-    extra = sorted({qid_of(v) for e in entities.values() for p in ('P921', 'P57') for v in claim_values(e, p) if qid_of(v)})
+    extra = sorted({qid_of(v) for e in entities.values() for p in ('P921', 'P57', 'P31', 'P136') for v in claim_values(e, p) if qid_of(v)})
     print(f'{len(extra)} people and places to name')
     labels = {q: ((e.get('labels') or {}).get('en') or {}).get('value') for q, e in wd_entities(extra).items()}
 
     cands = build_candidates(entities, labels, names, source_of)
+
+    wiki_titles = sorted({c['enwiki'] for c in cands if c.get('enwiki')})
+    print(f'{len(wiki_titles)} Wikipedia pages to read')
+    extracts = wp_extracts(wiki_titles)
+    for c in cands:
+        if c.get('enwiki') and extracts.get(c['enwiki']):
+            c['extract'] = extracts[c['enwiki']]
 
     key = os.environ.get('TMDB_API_KEY')
     tm = from_tmdb(key) if key else []
@@ -269,7 +321,9 @@ def main():
               f'- Naming an architect on the wall: {sum(bool(c.get("architects")) for c in cands)}',
               f'- With a year: {sum(bool(c.get("year")) for c in cands)}',
               f'- With a runtime: {sum(bool(c.get("runtime_min")) for c in cands)}',
-              f'- With an English Wikipedia page: {sum(bool(c.get("enwiki")) for c in cands)}']
+              f'- With an English Wikipedia page: {sum(bool(c.get("enwiki")) for c in cands)}',
+              f'- With an opening paragraph to quote: {sum(bool(c.get("extract")) for c in cands)}',
+              f'- Documentary by Wikidata (not fiction): {sum(bool(c.get("is_doc")) for c in cands)}']
     REPORT.write_text('\n'.join(lines) + '\n')
     print('\n'.join(lines))
 

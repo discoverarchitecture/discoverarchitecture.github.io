@@ -51,13 +51,48 @@ def wall():
     return B, collections.Counter(a.strip() for b in B for a in b['by'].split(',')), {b['id'] for b in B}
 
 
+# Telling an architecture documentary from the noise the broad searches bring in. Two kinds of noise arrive:
+# fiction (Wikipedia's "Films about architecture" holds The Brutalist and the Dwayne Johnson Skyscraper), and
+# films whose subject is a structure but whose story is an event (the Twin Towers, a bridge, a city square).
+# Wikidata answers the first by data: is_doc says whether it is a documentary at all. Nothing is deleted here;
+# relevant() only decides what `next` puts in front of a reviewer first.
+ARCH = re.compile(r'architect|architectur|urban(ism|ist|\s+plan)|city plan|town plan|bauhaus|brutalis|'
+                  r'skyscraper|housing estate|built environment|landscape design|interior design|'
+                  r'construction of the|design process|cityscape|city symphony', re.I)
+EVENT = re.compile(r'\b9/11\b|september 11|terroris|al-qaeda|hijack|bombing|massacre|genocide|holocaust|'
+                   r'\bwar\b|invasion|occupation|siege|coup|riot|uprising|'
+                   r'covid|pandemic|epidemic|virus|cancer|famine|refugee|'
+                   r'earthquake|tsunami|hurricane|flood|wildfire|disaster|'
+                   r'murder|serial killer|kidnap|trial of|prison|drug|trafficking', re.I)
+# Categories whose films are about architecture itself, so an event or a plain description need not be argued with.
+TRUSTED = re.compile(r'wikipedia:(Documentary films about architecture|Films about architecture|'
+                     r'Documentary films about architects|Documentary films about urban planning|'
+                     r'Documentary films about buildings)', re.I)
+
+
+def relevant(c):
+    """True when a candidate is worth a reviewer's eye."""
+    bits = [c.get('title'), c.get('wd_desc'), c.get('overview'), c.get('extract')] + list(c.get('subjects') or [])
+    text = ' '.join(b for b in bits if b)
+    src = ' '.join(c.get('sources') or [])
+    if c.get('is_doc') is False:
+        return False                      # Wikidata says it is not a documentary: fiction, however architectural
+    if c.get('architects'):
+        return True                       # its subject is an architect the wall already shows
+    if TRUSTED.search(src) or 'architect-subject' in src:
+        return True
+    if EVENT.search(text) and not ARCH.search(text):
+        return False                      # the building is the setting, not the subject
+    return bool(ARCH.search(text))
+
+
 def cmd_next(n):
     seed, reviewed = load(SEED, []), set(load(REVIEWED, []))
     have = {key_of(f['title'], f.get('year')) for f in seed}
     out = []
     for c in sorted(load(CANDS, []), key=lambda c: (-len(c.get('architects', [])), -(c.get('votes') or 0))):
         k = key_of(c['title'], c.get('year'))
-        if k in reviewed or k in have:
+        if k in reviewed or k in have or not relevant(c):
             continue
         out.append({'key': k, **{f: c.get(f) for f in ('title', 'year', 'director', 'runtime_min', 'subjects', 'architects', 'wd_desc', 'overview', 'qid', 'tmdb', 'imdb', 'votes') if c.get(f)}})
         if len(out) >= n:
@@ -151,4 +186,5 @@ def cmd_stats():
 if __name__ == '__main__':
     a = sys.argv[1:]
     {'next': lambda: cmd_next(int(a[1]) if len(a) > 1 else 40), 'add': lambda: cmd_add(a[1]), 'stats': cmd_stats,
-     'count': lambda: print(len(load(CANDS, [])) - len(load(REVIEWED, [])), 'candidates left')}[a[0] if a else 'stats']()
+     'count': lambda: print(sum(1 for c in load(CANDS, []) if relevant(c)), 'relevant candidates;',
+                            len([c for c in load(CANDS, []) if relevant(c)]) - len(load(REVIEWED, [])), 'still unreviewed')}[a[0] if a else 'stats']()
