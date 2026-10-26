@@ -1,2 +1,2 @@
 python -u tools/harvest_films.py
-# run 4, 26 Oct: candidate titles looked up by name, to grow the shelf towards 80-100
+# run 5, 26 Oct: exact film titles, strict name matching
