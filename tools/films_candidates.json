@@ -1,1 +1,8869 @@
-[]
+[
+{
+"qid": "Q136437273",
+"title": "ADA: My Mother the Architect",
+"year": 2024,
+"runtime_min": 81,
+"director": [
+"Yael Melamede"
+],
+"subjects": [
+"Ada Karmi-Melamede"
+],
+"architects": [
+"Ada Karmi-Melamede"
+],
+"imdb": "tt26915722",
+"tmdb": "1319115",
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q98725992",
+"title": "Aalto",
+"year": 2020,
+"runtime_min": 103,
+"director": [
+"Virpi Suutari"
+],
+"subjects": [
+"Alvar Aalto"
+],
+"architects": [
+"Alvar Aalto"
+],
+"imdb": "tt9634036",
+"tmdb": "683722",
+"enwiki": null,
+"wd_desc": "2020 film directed by Virpi Suutari",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q4776652",
+"title": "Antonio Gaudi",
+"year": 1984,
+"runtime_min": 72,
+"director": [
+"Hiroshi Teshigahara"
+],
+"subjects": [
+"Antoni Gaudí"
+],
+"architects": [
+"Antoni Gaudí"
+],
+"imdb": "tt0086907",
+"tmdb": "37239",
+"enwiki": "Antonio Gaudi (film)",
+"wd_desc": "1984 Japanese and Spanish documentary film by Hiroshi Teshigahara",
+"sources": [
+"architect-subject",
+"wikipedia"
+]
+},
+{
+"qid": "Q124154502",
+"title": "Conversaciones con Renzo Piano",
+"year": 2017,
+"runtime_min": 49,
+"director": [],
+"subjects": [
+"Renzo Piano"
+],
+"architects": [
+"Renzo Piano"
+],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "documentary on Renzo Piano",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q97164958",
+"title": "Eiffel",
+"year": 2021,
+"runtime_min": 108,
+"director": [
+"Martin Bourboulon"
+],
+"subjects": [
+"Gustave Eiffel"
+],
+"architects": [
+"Gustave Eiffel"
+],
+"imdb": "tt10366514",
+"tmdb": "655082",
+"enwiki": "Eiffel (film)",
+"wd_desc": "2021 film directed by Martin Bourboulon",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q110944326",
+"title": "Frank Lloyd Wright",
+"year": 1998,
+"runtime_min": null,
+"director": [
+"Ken Burns"
+],
+"subjects": [
+"Frank Lloyd Wright"
+],
+"architects": [
+"Frank Lloyd Wright"
+],
+"imdb": "tt0144937",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "Two-part documentary series about Frank Lloyd Wright",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q141663125",
+"title": "From Inside Out – The Architecture of Peter Zumthor",
+"year": 2026,
+"runtime_min": 114,
+"director": [
+"Wim Wenders"
+],
+"subjects": [
+"Peter Zumthor"
+],
+"architects": [
+"Peter Zumthor"
+],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2026 documentary film by Wim Wenders",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q134891557",
+"title": "Hectorologie",
+"year": 1966,
+"runtime_min": 12,
+"director": [
+"Alain Blondel"
+],
+"subjects": [
+"Hector Guimard"
+],
+"architects": [
+"Hector Guimard"
+],
+"imdb": "tt0208201",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "short documentary film",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q96277628",
+"title": "Infinite Space: The Architecture of John Lautner",
+"year": 2011,
+"runtime_min": 91,
+"director": [
+"Murray Grigor"
+],
+"subjects": [
+"John Lautner"
+],
+"architects": [
+"John Lautner"
+],
+"imdb": "tt1284027",
+"tmdb": "70750",
+"enwiki": null,
+"wd_desc": "2008 documentary film by Murray Grigor",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q66507605",
+"title": "Loos Ornamental",
+"year": 2008,
+"runtime_min": 72,
+"director": [
+"Heinz Emigholz"
+],
+"subjects": [
+"Adolf Loos",
+"architecture"
+],
+"architects": [
+"Adolf Loos"
+],
+"imdb": "tt1193498",
+"tmdb": "290560",
+"enwiki": null,
+"wd_desc": "2008 documentary film by Heinz Emigholz",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q141160783",
+"title": "Louis Kahn's Tiger City",
+"year": 2019,
+"runtime_min": 107,
+"director": [
+"Sundaram Tagore"
+],
+"subjects": [
+"Louis Kahn",
+"Jatiya Sangsad Bhaban"
+],
+"architects": [
+"Louis Kahn"
+],
+"imdb": "tt8809474",
+"tmdb": "637909",
+"enwiki": null,
+"wd_desc": "2019 documentary film by Sundaram Tagore about Louis Kahn's National Parliament House in Dhaka",
+"sources": [
+"architect-subject",
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q16885369",
+"title": "Sagrada - el misteri de la creació",
+"year": 2012,
+"runtime_min": 95,
+"director": [
+"Stefan Haupt"
+],
+"subjects": [
+"Basilica and Expiatory Church of the Holy Family",
+"Antoni Gaudí"
+],
+"architects": [
+"Antoni Gaudí"
+],
+"imdb": "tt2552316",
+"tmdb": "203612",
+"enwiki": null,
+"wd_desc": "2012 film by Stefan Haupt",
+"sources": [
+"architect-subject",
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q26915620",
+"title": "The Amateur",
+"year": 2016,
+"runtime_min": 90,
+"director": [
+"Maria Mauti"
+],
+"subjects": [
+"Piero Portaluppi"
+],
+"architects": [
+"Piero Portaluppi"
+],
+"imdb": "tt5940866",
+"tmdb": "411188",
+"enwiki": null,
+"wd_desc": "2016 film by Maria Mauti",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q7746208",
+"title": "The Last Wright: Frank Lloyd Wright and the Park Inn Hotel",
+"year": 2008,
+"runtime_min": null,
+"director": [
+"Lucille Carra"
+],
+"subjects": [
+"Park Inn Hotel",
+"Frank Lloyd Wright"
+],
+"architects": [
+"Frank Lloyd Wright"
+],
+"imdb": "tt0958854",
+"tmdb": null,
+"enwiki": "The Last Wright: Frank Lloyd Wright and the Park Inn Hotel",
+"wd_desc": "2008 film",
+"sources": [
+"architect-subject",
+"building-subject",
+"structure-subject",
+"wikipedia"
+]
+},
+{
+"qid": "Q61642150",
+"title": "The Proposal",
+"year": 2018,
+"runtime_min": 83,
+"director": [
+"Jill Magid"
+],
+"subjects": [
+"Luis Barragán"
+],
+"architects": [
+"Luis Barragán"
+],
+"imdb": "tt8106592",
+"tmdb": "511910",
+"enwiki": null,
+"wd_desc": "2018 film",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q2720116",
+"title": "102 Minutes That Changed America",
+"year": 2008,
+"runtime_min": 102,
+"director": [
+"Nicole Rittenmeyer",
+"Seth Skundrick"
+],
+"subjects": [
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt1312203",
+"tmdb": "36130",
+"enwiki": "102 Minutes That Changed America",
+"wd_desc": "2008 television film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2806855",
+"title": "10th District Court",
+"year": 2004,
+"runtime_min": 105,
+"director": [
+"Raymond Depardon"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0395421",
+"tmdb": "125742",
+"enwiki": "10th District Court",
+"wd_desc": "2004 film by Raymond Depardon",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q19903043",
+"title": "12 Angry Lebanese: The Documentary",
+"year": 2009,
+"runtime_min": null,
+"director": [
+"Zeina Daccache"
+],
+"subjects": [
+"Roumieh Prison",
+"Twelve Angry Men",
+"theatrical adaptation"
+],
+"architects": [],
+"imdb": "tt1570519",
+"tmdb": "433174",
+"enwiki": "12 Angry Lebanese: The Documentary",
+"wd_desc": "2009 film by Zeina Daccache",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q2811296",
+"title": "1920",
+"year": 2008,
+"runtime_min": 138,
+"director": [
+"Vikram Bhatt"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1301698",
+"tmdb": "19951",
+"enwiki": "1920 (film)",
+"wd_desc": "2008 Indian film directed by Vikram Bhatt",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q52418399",
+"title": "5105: The Story of a Mauthausen Escape",
+"year": 2017,
+"runtime_min": 29,
+"director": [
+"Diego González"
+],
+"subjects": [
+"Mauthausen concentration camp"
+],
+"architects": [],
+"imdb": "tt11737964",
+"tmdb": null,
+"enwiki": "5105: The Story of a Mauthausen Escape",
+"wd_desc": "2017 documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q65070777",
+"title": "5B",
+"year": 2018,
+"runtime_min": null,
+"director": [
+"Paul Haggis",
+"Dan Krauss"
+],
+"subjects": [
+"HIV/AIDS in the United States",
+"San Francisco General Hospital"
+],
+"architects": [],
+"imdb": "tt9403508",
+"tmdb": "559323",
+"enwiki": "5B (film)",
+"wd_desc": "2019 documentary film by Paul Haggis and Dan Krauss",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q101103961",
+"title": "76 Days",
+"year": 2020,
+"runtime_min": 93,
+"director": [
+"Hao Wu"
+],
+"subjects": [
+"COVID-19 pandemic"
+],
+"architects": [],
+"imdb": "tt12801326",
+"tmdb": "728928",
+"enwiki": "76 Days",
+"wd_desc": "2020 documentary film on COVID-19",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q28536668",
+"title": "9/11",
+"year": 2017,
+"runtime_min": 90,
+"director": [
+"Martin Guigui"
+],
+"subjects": [
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt4917224",
+"tmdb": "455558",
+"enwiki": "9/11 (2017 film)",
+"wd_desc": "2017 film directed by Martin Guigui",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q490229",
+"title": "9/11",
+"year": 2002,
+"runtime_min": 112,
+"director": [
+"Jules Naudet"
+],
+"subjects": [
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt0312318",
+"tmdb": "11304",
+"enwiki": "9/11 (2002 film)",
+"wd_desc": "2002 documentary film directed by Jules and Gedeon Naudet",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q107354594",
+"title": "9/11: One Day in America",
+"year": null,
+"runtime_min": null,
+"director": [
+"Daniel Bogado"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt14734548",
+"tmdb": null,
+"enwiki": "9/11: One Day in America",
+"wd_desc": "2021 American documentary television miniseries",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q93747",
+"title": "9/11: The Twin Towers",
+"year": 2006,
+"runtime_min": 98,
+"director": [
+"Richard Dale"
+],
+"subjects": [
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt0808138",
+"tmdb": "74076",
+"enwiki": "9/11: The Twin Towers",
+"wd_desc": "2006 television film directed by Richard Dale",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q467053",
+"title": "A Bridge Too Far",
+"year": 1977,
+"runtime_min": 168,
+"director": [
+"Richard Attenborough"
+],
+"subjects": [
+"World War II"
+],
+"architects": [],
+"imdb": "tt0075784",
+"tmdb": "5902",
+"enwiki": "A Bridge Too Far (film)",
+"wd_desc": "1977 film by Richard Attenborough",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q131418075",
+"title": "A Brother and 7 Siblings",
+"year": 2025,
+"runtime_min": 131,
+"director": [
+"Yandy Laurens"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt32881480",
+"tmdb": "1310741",
+"enwiki": "A Brother and 7 Siblings",
+"wd_desc": "2024 drama film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q134444163",
+"title": "A Certain Regard",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "A Certain Regard",
+"wd_desc": "2004 Argentine film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4655933",
+"title": "A City Called Copenhagen",
+"year": 1960,
+"runtime_min": 19,
+"director": [
+"Jørgen Roos"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0053685",
+"tmdb": "243200",
+"enwiki": "A City Called Copenhagen",
+"wd_desc": "1960 film by Jørgen Roos",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q9557091",
+"title": "A Experiência Cruspiana",
+"year": 1986,
+"runtime_min": 27,
+"director": [],
+"subjects": [
+"Residential Complex of the University of São Paulo"
+],
+"architects": [],
+"imdb": "tt0377890",
+"tmdb": "1587542",
+"enwiki": null,
+"wd_desc": "1986 film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q134317066",
+"title": "A German Village's Nazi Past",
+"year": 2024,
+"runtime_min": 31,
+"director": [
+null
+],
+"subjects": [
+null,
+"Vergangenheitsbewältigung"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q101245141",
+"title": "A Gingerbread Romance",
+"year": 2018,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt9028866",
+"tmdb": "550033",
+"enwiki": "A Gingerbread Romance",
+"wd_desc": "2018 film by Richard Gabai",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q85739190",
+"title": "A Lion in the House",
+"year": 2006,
+"runtime_min": 225,
+"director": [
+"Steven Bognar",
+"Julia Reichert"
+],
+"subjects": [
+"paediatric oncology",
+"Cincinnati Children's Hospital Medical Center"
+],
+"architects": [],
+"imdb": "tt0492472",
+"tmdb": "178151",
+"enwiki": "A Lion in the House",
+"wd_desc": "2006 American documentary film about childhood cancer",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q111250556",
+"title": "A Mad Venture, in the Footsteps of Jeanne Mance",
+"year": 2010,
+"runtime_min": null,
+"director": [
+"Annabel Loyola"
+],
+"subjects": [
+"Montreal",
+"Quebec",
+"Canada",
+"woman",
+"memory",
+"history",
+"recorded history",
+"study of history",
+"historian",
+"Jeanne Mance",
+"Annabel Loyola",
+"cultural heritage",
+"archives",
+"archives",
+"Hôtel-Dieu de Montréal",
+"health",
+"religion"
+],
+"architects": [],
+"imdb": "tt1687877",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "Feature-length documentary film directed by Annabel Loyola in 2010",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q496564",
+"title": "A Moment to Remember",
+"year": 2004,
+"runtime_min": 144,
+"director": [
+"Lee Jae-han"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0428870",
+"tmdb": "15859",
+"enwiki": "A Moment to Remember",
+"wd_desc": "2004 South Korean film directed by Lee Jae-han",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q113667069",
+"title": "A New Road in the Golan Heights is Named After Major General Gideon Bendel",
+"year": 1971,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Route 999",
+"Gideon Bandel"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "newsreel",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q141252356",
+"title": "A Program About Unusual Buildings & Other Roadside Stuff",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "A Program About Unusual Buildings & Other Roadside Stuff",
+"wd_desc": null,
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q105744673",
+"title": "A Reporter’s Video from Inside the Capitol Siege",
+"year": 2021,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"United States Capitol",
+"January 6 United States Capitol attack"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "6 January 2021 video footage by New Yorker reporter Luke Mogelson",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1197953",
+"title": "A Road to Mecca - The Journey of Muhammad Asad",
+"year": 2008,
+"runtime_min": 92,
+"director": [
+"Georg Misch"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1293660",
+"tmdb": "389259",
+"enwiki": "A Road to Mecca - The Journey of Muhammad Asad",
+"wd_desc": "2008 film by Georg Misch",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q19954783",
+"title": "A Sinner in Mecca",
+"year": 2015,
+"runtime_min": 79,
+"director": [
+"Parvez Sharma"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt4666618",
+"tmdb": "336972",
+"enwiki": "A Sinner in Mecca",
+"wd_desc": "2015 film directed by Parvez Sharma",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4668572",
+"title": "About Baghdad",
+"year": 2004,
+"runtime_min": null,
+"director": [
+"Sinan Antoon",
+"Adam Shapiro"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0450958",
+"tmdb": "545731",
+"enwiki": "About Baghdad",
+"wd_desc": "2004 film by Adam Shapiro, Sinan Antoon",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q96096333",
+"title": "Above 592 metres",
+"year": 2018,
+"runtime_min": 25,
+"director": [
+"Maddi Barber"
+],
+"subjects": [
+null
+],
+"architects": [],
+"imdb": "tt8228460",
+"tmdb": "621410",
+"enwiki": null,
+"wd_desc": "2018 short film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q17150226",
+"title": "Ai Weiwei The Fake Case",
+"year": 2013,
+"runtime_min": 86,
+"director": [
+"Andreas Johnsen"
+],
+"subjects": [
+"People's Republic of China",
+"human rights",
+"Ai Weiwei"
+],
+"architects": [],
+"imdb": "tt3281074",
+"tmdb": "244024",
+"enwiki": "Ai Weiwei: The Fake Case",
+"wd_desc": "2013 film by Andreas Johnsen",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q3700510",
+"title": "Ai Weiwei: Never Sorry",
+"year": 2012,
+"runtime_min": 91,
+"director": [
+"Alison Klayman"
+],
+"subjects": [
+"Ai Weiwei",
+"People's Republic of China",
+"human rights"
+],
+"architects": [],
+"imdb": "tt1845773",
+"tmdb": "84169",
+"enwiki": "Ai Weiwei: Never Sorry",
+"wd_desc": "2012 documentary film directed by Alison Klayman",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q105686614",
+"title": "Ai Weiwei: Yours Truly",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Ai Weiwei"
+],
+"architects": [],
+"imdb": "tt10171988",
+"tmdb": "589863",
+"enwiki": "Ai Weiwei: Yours Truly",
+"wd_desc": "2019 film directed by Cheryl Haines and Gina Leibrecht",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q19570765",
+"title": "Aimless Walk",
+"year": 1930,
+"runtime_min": 9,
+"director": [
+"Alexandr Hackenschmied"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0312476",
+"tmdb": "165933",
+"enwiki": "Aimless Walk",
+"wd_desc": "1930 film by Alexandr Hackenschmied",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q111662938",
+"title": "All That Breathes",
+"year": 2022,
+"runtime_min": 97,
+"director": [
+"Shaunak Sen"
+],
+"subjects": [
+"Black Kite"
+],
+"architects": [],
+"imdb": "tt16377862",
+"tmdb": "913838",
+"enwiki": "All That Breathes",
+"wd_desc": "2022 film directed by Shaunak Sen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q131144745",
+"title": "Amants des hommes",
+"year": 2004,
+"runtime_min": 26,
+"director": [
+"Isabelle Darmengeat"
+],
+"subjects": [
+"Schirmeck-Vorbrück concentration camp",
+"Pierre Seel",
+"homosexuality",
+"World War II",
+"persecution of homosexuals in Nazi Germany"
+],
+"architects": [],
+"imdb": "tt0884010",
+"tmdb": "687699",
+"enwiki": null,
+"wd_desc": "documentary",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q20493978",
+"title": "Amateurs in Space",
+"year": 2015,
+"runtime_min": 89,
+"director": [
+"Max Kestner"
+],
+"subjects": [
+"Kristian von Bengtson",
+"Peter Madsen",
+"Copenhagen Suborbitals"
+],
+"architects": [],
+"imdb": "tt6253346",
+"tmdb": "425383",
+"enwiki": null,
+"wd_desc": "2015 film by Max Kestner",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q56300465",
+"title": "Amityville Exorcism",
+"year": 2017,
+"runtime_min": 77,
+"director": [
+"Mark Polonia"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt6068978",
+"tmdb": "433002",
+"enwiki": "Amityville Exorcism",
+"wd_desc": "2017 film by Mark Polonia",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2621377",
+"title": "Amityville: It's About Time",
+"year": 1992,
+"runtime_min": 95,
+"director": [
+"Tony Randel"
+],
+"subjects": [
+"haunted house"
+],
+"architects": [],
+"imdb": "tt0103678",
+"tmdb": "41671",
+"enwiki": "Amityville: It's About Time",
+"wd_desc": "1992 film by Tony Randel",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q121363043",
+"title": "And outside life goes on",
+"year": 2021,
+"runtime_min": 82,
+"director": [],
+"subjects": [
+"Hospital Riviera-Chablais"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "Swiss documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q4770826",
+"title": "Answering the Call: Ground Zero's Volunteers",
+"year": 2005,
+"runtime_min": null,
+"director": [
+"Lou Angeli"
+],
+"subjects": [
+"New York City",
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt0462181",
+"tmdb": "1184459",
+"enwiki": "Answering the Call: Ground Zero's Volunteers",
+"wd_desc": "2005 film by Lou Angeli",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q23708206",
+"title": "Antwerp Central",
+"year": 2011,
+"runtime_min": null,
+"director": [
+"Peter Krüger"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1931381",
+"tmdb": "136191",
+"enwiki": "Antwerp Central (film)",
+"wd_desc": "2011 film by Peter Krüger",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q492288",
+"title": "Architecture 101",
+"year": 2012,
+"runtime_min": 118,
+"director": [
+"Lee Yong-ju"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2337981",
+"tmdb": "107235",
+"enwiki": "Architecture 101",
+"wd_desc": "2012 film directed by Lee Yong-ju",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q30752971",
+"title": "Area 51: Declassified",
+"year": 2010,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Area 51"
+],
+"architects": [],
+"imdb": "tt1942777",
+"tmdb": "64982",
+"enwiki": null,
+"wd_desc": "2010 documentary film directed by Peter Yost",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q10855381",
+"title": "Area 51: The Alien Interview",
+"year": 1997,
+"runtime_min": null,
+"director": [
+"Jeff Broadstreet"
+],
+"subjects": [
+"Area 51"
+],
+"architects": [],
+"imdb": "tt0404780",
+"tmdb": "268442",
+"enwiki": null,
+"wd_desc": "1997 documentary film directed by Jeff Broadstreet",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q2863317",
+"title": "Arno Breker",
+"year": 1944,
+"runtime_min": null,
+"director": [
+"Hans Cürlis",
+"Arnold Fanck"
+],
+"subjects": [
+"Arno Breker"
+],
+"architects": [],
+"imdb": "tt0199331",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "1944 documentary film directed by Hans Cürlis and Arnold Fanck",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q139890194",
+"title": "Arthur Erickson: Beauty Between the Lines",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt34657671",
+"tmdb": "1398632",
+"enwiki": "Arthur Erickson: Beauty Between the Lines",
+"wd_desc": "2024 Canadian documentary film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q15052427",
+"title": "As Time Goes By",
+"year": 1997,
+"runtime_min": 58,
+"director": [
+"Ann Hui",
+"Vincent Chui"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0164356",
+"tmdb": "571314",
+"enwiki": "As Time Goes By (1997 film)",
+"wd_desc": "1997 film by Ann Hui, Vincent Chui",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q124964084",
+"title": "Aspen",
+"year": null,
+"runtime_min": 146,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt0209919",
+"tmdb": "221861",
+"enwiki": "Aspen (film)",
+"wd_desc": "film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q104855159",
+"title": "Athens, Georgia: Over/Under",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Athens, Georgia: Over/Under",
+"wd_desc": "2020 film by Thomas Bauer",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q117468476",
+"title": "Au cœur du bois",
+"year": 2021,
+"runtime_min": 90,
+"director": [
+"Claus Drexel"
+],
+"subjects": [
+"bois de Boulogne",
+"sex worker"
+],
+"architects": [],
+"imdb": "tt11018044",
+"tmdb": "812300",
+"enwiki": null,
+"wd_desc": "documentary",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q4822723",
+"title": "Auschwitz: The Nazis and 'The Final Solution'",
+"year": null,
+"runtime_min": 60,
+"director": [
+"Laurence Rees"
+],
+"subjects": [
+"World War II",
+"The Holocaust",
+"Auschwitz"
+],
+"architects": [],
+"imdb": "tt0446610",
+"tmdb": "97414",
+"enwiki": "Auschwitz: The Nazis and 'The Final Solution'",
+"wd_desc": "mini-series, documentary",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q124412413",
+"title": "Averroès & Rosa Parks",
+"year": 2024,
+"runtime_min": 143,
+"director": [
+"Nicolas Philibert"
+],
+"subjects": [
+"psychiatry",
+"Charenton asylum"
+],
+"architects": [],
+"imdb": "tt30886786",
+"tmdb": "1204067",
+"enwiki": "At Averroès & Rosa Parks",
+"wd_desc": "2024 documentary film by Nicolas Philibert",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q792814",
+"title": "Ayastefanos'taki Rus Abidesinin Yıkılışı",
+"year": 1914,
+"runtime_min": null,
+"director": [
+"Fuat Uzkınay"
+],
+"subjects": [
+"Russian Monument of San Stefano"
+],
+"architects": [],
+"imdb": "tt0289081",
+"tmdb": "273278",
+"enwiki": "Demolition of the Monument at San Stefano",
+"wd_desc": "1914 film by Fuat Uzkınay",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q120671818",
+"title": "Azure Dust",
+"year": 2016,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Chernobyl Nuclear Power Plant"
+],
+"architects": [],
+"imdb": "tt12358530",
+"tmdb": "1223335",
+"enwiki": null,
+"wd_desc": "2016 television film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q78453431",
+"title": "Bach in Auschwitz",
+"year": 1999,
+"runtime_min": 100,
+"director": [
+"Michel Daeron"
+],
+"subjects": [
+"Auschwitz",
+"Alma Rosé",
+"Holocaust survivor",
+"Women's Orchestra of Auschwitz"
+],
+"architects": [],
+"imdb": "tt0220356",
+"tmdb": "213812",
+"enwiki": null,
+"wd_desc": "1999 documentary by Michel Daëron",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q97349063",
+"title": "Bamboo Theatre",
+"year": 2019,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt11080024",
+"tmdb": "657147",
+"enwiki": "Bamboo Theatre",
+"wd_desc": "film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q65209427",
+"title": "Barcelone et son parc",
+"year": 1911,
+"runtime_min": null,
+"director": [
+"Segundo de Chomón"
+],
+"subjects": [
+"Barcelona",
+"Parc de la Ciutadella"
+],
+"architects": [],
+"imdb": "tt8646230",
+"tmdb": "410862",
+"enwiki": null,
+"wd_desc": "1911 documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q4870153",
+"title": "Battle for Barking",
+"year": 2010,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1789933",
+"tmdb": "213505",
+"enwiki": "The Battle for Barking",
+"wd_desc": "2010 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4870181",
+"title": "Battle for the City",
+"year": 2011,
+"runtime_min": null,
+"director": [
+"Jouko Aaltonen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1673431",
+"tmdb": "415912",
+"enwiki": "Battle for the City",
+"wd_desc": "2011 Finnish film by Jouko Aaltonen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4870472",
+"title": "Battle of Berlin",
+"year": 1973,
+"runtime_min": 90,
+"director": [
+"Franz Baake"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0069769",
+"tmdb": "149331",
+"enwiki": "Battle of Berlin (film)",
+"wd_desc": "1973 film by Franz Baake",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q510641",
+"title": "Battle of Neretva",
+"year": 1969,
+"runtime_min": 175,
+"director": [
+"Veljko Bulajić"
+],
+"subjects": [
+"World War II"
+],
+"architects": [],
+"imdb": "tt0064091",
+"tmdb": "34449",
+"enwiki": "Battle of Neretva (film)",
+"wd_desc": "1969 film by Veljko Bulajić",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q136206573",
+"title": "Belfast, Maine",
+"year": 1999,
+"runtime_min": 248,
+"director": [
+"Frederick Wiseman"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0211942",
+"tmdb": "84661",
+"enwiki": "Belfast, Maine (film)",
+"wd_desc": "1999 documentary film directed by Frederick Wiseman",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q815806",
+"title": "Bellaria: As Long as We Live!",
+"year": 2002,
+"runtime_min": 100,
+"director": [
+"Douglas Wolfsperger"
+],
+"subjects": [
+"Bellaria-Kino"
+],
+"architects": [],
+"imdb": "tt0327483",
+"tmdb": "370327",
+"enwiki": null,
+"wd_desc": "2002 film by Douglas Wolfsperger",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q104865093",
+"title": "Belly of the Beast",
+"year": 2020,
+"runtime_min": 82,
+"director": [
+"Erika Cohn"
+],
+"subjects": [
+"health care",
+"racism",
+"sexism",
+"Central California Women's Facility"
+],
+"architects": [],
+"imdb": "tt11454670",
+"tmdb": "717245",
+"enwiki": "Belly of the Beast (2020 film)",
+"wd_desc": "2020 film directed by Erika Cohn",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q4885144",
+"title": "Ben's Mill",
+"year": 1982,
+"runtime_min": 59,
+"director": [
+"Michel Chalufour",
+"John Karol"
+],
+"subjects": [
+"Thresher Mill"
+],
+"architects": [],
+"imdb": "tt0083638",
+"tmdb": "149372",
+"enwiki": "Ben's Mill",
+"wd_desc": "1982 film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q2897257",
+"title": "Berlin",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Berlin (British TV series)",
+"wd_desc": "2009 documentary series",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5432146",
+"title": "Berlin",
+"year": 1945,
+"runtime_min": 70,
+"director": [
+"Yuli Raizman"
+],
+"subjects": [
+"Battle of Berlin",
+"World War II"
+],
+"architects": [],
+"imdb": "tt0037537",
+"tmdb": "273125",
+"enwiki": "Fall of Berlin – 1945",
+"wd_desc": "1945 Soviet propaganda documentary film directed by Yuli Raizman",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q821252",
+"title": "Berlin Babylon",
+"year": 2001,
+"runtime_min": 92,
+"director": [
+"Hubertus Siegert"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0276819",
+"tmdb": "250989",
+"enwiki": "Berlin Babylon",
+"wd_desc": "2001 film by Hubertus Siegert",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4892495",
+"title": "Berlin under construction",
+"year": 1946,
+"runtime_min": 22,
+"director": [
+"Kurt Maetzig"
+],
+"subjects": [
+"reconstruction of Germany"
+],
+"architects": [],
+"imdb": "tt0433525",
+"tmdb": "453997",
+"enwiki": "Berlin im Aufbau",
+"wd_desc": "1946 film by Kurt Maetzig",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q632362",
+"title": "Berlin: Symphony of a Metropolis",
+"year": 1927,
+"runtime_min": 65,
+"director": [
+"Walter Ruttmann"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0017668",
+"tmdb": "222",
+"enwiki": "Berlin: Symphony of a Metropolis",
+"wd_desc": "1927 film by Walter Ruttmann",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q130216986",
+"title": "Black Snake Killaz",
+"year": 2017,
+"runtime_min": 120,
+"director": [],
+"subjects": [
+"Dakota Access Pipeline protests",
+"Dakota Access Pipeline"
+],
+"architects": [],
+"imdb": "tt7650360",
+"tmdb": "488243",
+"enwiki": null,
+"wd_desc": "2017 documentary film about resistance to the Dakota Access Pipeline",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q113570299",
+"title": "Blue Island",
+"year": 2022,
+"runtime_min": null,
+"director": [
+"Tze Woon Chan"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt15282802",
+"tmdb": "924120",
+"enwiki": "Blue Island (2022 film)",
+"wd_desc": "2022 film directed by Chan Tze-woon",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q65047733",
+"title": "Bob Lazar: Area 51 & Flying Saucers",
+"year": 2018,
+"runtime_min": 97,
+"director": [
+"Jeremy Kenyon Lockyer Corbell"
+],
+"subjects": [
+"Area 51",
+"unidentified flying object",
+"Bob Lazar",
+"alien artifacts or technology in the Solar system"
+],
+"architects": [],
+"imdb": "tt9107368",
+"tmdb": "522320",
+"enwiki": null,
+"wd_desc": "2018 film by Jeremy Kenyon Lockyer Corbell",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q121819178",
+"title": "Bolshoy",
+"year": 2022,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Bolshoi Theatre"
+],
+"architects": [],
+"imdb": null,
+"tmdb": "1060442",
+"enwiki": null,
+"wd_desc": "documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q4940529",
+"title": "Bombay: Our City",
+"year": 1985,
+"runtime_min": 82,
+"director": [
+"Anand Patwardhan"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0088837",
+"tmdb": "260668",
+"enwiki": "Bombay: Our City",
+"wd_desc": "1985 film by Anand Patwardhan",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q241391",
+"title": "Breaking and Entering",
+"year": 2006,
+"runtime_min": 116,
+"director": [
+"Anthony Minghella",
+"Sydney Pollack"
+],
+"subjects": [
+"autism"
+],
+"architects": [],
+"imdb": "tt0443456",
+"tmdb": "1253",
+"enwiki": "Breaking and Entering (film)",
+"wd_desc": "2006 film by Sydney Pollack, Anthony Minghella",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q109279483",
+"title": "Breathe",
+"year": null,
+"runtime_min": 92,
+"director": [
+"Susanna Barranco Iglesias"
+],
+"subjects": [
+"prisoner",
+"Centro penitenciario Brians 1"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "film directed by Susanna Barranco Iglesias",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q16828210",
+"title": "Brick Lane",
+"year": 2006,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Brick Lane (2006 film)",
+"wd_desc": "2006 television film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q929432",
+"title": "Brooklyn Bridge",
+"year": 1981,
+"runtime_min": 58,
+"director": [
+"Ken Burns"
+],
+"subjects": [
+"New York City",
+"Brooklyn Bridge"
+],
+"architects": [],
+"imdb": "tt0082106",
+"tmdb": "67079",
+"enwiki": "Brooklyn Bridge (film)",
+"wd_desc": "1981 documentary film by Ken Burns",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q23755578",
+"title": "Brooks – The City of 100 Hellos",
+"year": 2011,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt2357013",
+"tmdb": null,
+"enwiki": "Brooks – The City of 100 Hellos",
+"wd_desc": "2011 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q137295429",
+"title": "Bunker",
+"year": 2026,
+"runtime_min": null,
+"director": [
+"Florian Zeller"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt36770512",
+"tmdb": "1473784",
+"enwiki": "Bunker (2026 film)",
+"wd_desc": "2026 film directed by Florian Zeller",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5009741",
+"title": "CCTV Cities",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "CCTV Cities",
+"wd_desc": "British television documentary programme",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q16954814",
+"title": "Cairo Drive",
+"year": 2013,
+"runtime_min": 77,
+"director": [
+"Sherief Elkatsha"
+],
+"subjects": [
+"Arab Spring",
+"road transport"
+],
+"architects": [],
+"imdb": "tt2527050",
+"tmdb": "230154",
+"enwiki": "Cairo Drive",
+"wd_desc": "2013 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5018913",
+"title": "Calcutta",
+"year": 1969,
+"runtime_min": 105,
+"director": [
+"Louis Malle"
+],
+"subjects": [
+"India"
+],
+"architects": [],
+"imdb": "tt0062773",
+"tmdb": "112630",
+"enwiki": "Calcutta (1969 film)",
+"wd_desc": "1969 film by Louis Malle",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q61642180",
+"title": "Camino, een feature-length selfie",
+"year": 2019,
+"runtime_min": 85,
+"director": [
+"Martin de Vries"
+],
+"subjects": [
+"Way of Saint James"
+],
+"architects": [],
+"imdb": "tt9818168",
+"tmdb": "575792",
+"enwiki": null,
+"wd_desc": "2019 film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q287096",
+"title": "Case Closed: Countdown to Heaven",
+"year": 2001,
+"runtime_min": 100,
+"director": [
+"Kenji Kodama"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1073223",
+"tmdb": "32022",
+"enwiki": "Case Closed: Countdown to Heaven",
+"wd_desc": "2001 anime film directed by Kenji Kodama",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q935674",
+"title": "Castro Street",
+"year": 1966,
+"runtime_min": 10,
+"director": [
+"Bruce Baillie"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0060220",
+"tmdb": "129532",
+"enwiki": "Castro Street (film)",
+"wd_desc": "1966 short film directed by Bruce Baillie",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q15302991",
+"title": "Catedral",
+"year": 2010,
+"runtime_min": null,
+"director": [
+"Aliocha"
+],
+"subjects": [
+"Cathedral of Justo"
+],
+"architects": [],
+"imdb": "tt1367320",
+"tmdb": "269432",
+"enwiki": null,
+"wd_desc": "2010 documentary film directed by Aliocha",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q15905862",
+"title": "Chaja & Mimi",
+"year": 2009,
+"runtime_min": 10,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1477684",
+"tmdb": "707211",
+"enwiki": "Chaja & Mimi",
+"wd_desc": "2009 short film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q25136277",
+"title": "Chemsex",
+"year": 2015,
+"runtime_min": 83,
+"director": [
+"William Fairman",
+"Max Gogarty"
+],
+"subjects": [
+"sex and drugs",
+"gay men"
+],
+"architects": [],
+"imdb": "tt5073738",
+"tmdb": "367513",
+"enwiki": "Chemsex (film)",
+"wd_desc": "2015 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5098452",
+"title": "Children of Jerusalem",
+"year": 1994,
+"runtime_min": null,
+"director": [
+"Beverly Shaffer"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0178331",
+"tmdb": "1284173",
+"enwiki": "Children of Jerusalem",
+"wd_desc": "1994 film by Beverly Shaffer",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q78631456",
+"title": "Christo in Paris",
+"year": 1990,
+"runtime_min": 58,
+"director": [
+"Albert Maysles",
+"David Maysles",
+"Deborah Dickson",
+"Susan Froemke"
+],
+"subjects": [
+"Christo and Jeanne-Claude",
+"Pont Neuf"
+],
+"architects": [],
+"imdb": "tt0101581",
+"tmdb": "214369",
+"enwiki": null,
+"wd_desc": "1990 documentary film directed by Albert Maysles, David Maysles, Deborah Dickson, Susan Froemke",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q19839659",
+"title": "Cinema Jenin – The Story of a Dream",
+"year": 2011,
+"runtime_min": 106,
+"director": [
+"Marcus Vetter"
+],
+"subjects": [
+"Cinema Jenin"
+],
+"architects": [],
+"imdb": "tt2179140",
+"tmdb": "157996",
+"enwiki": null,
+"wd_desc": "2011 documentary film directed by Marcus Vetter",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q5122467",
+"title": "Cities",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt0250143",
+"tmdb": null,
+"enwiki": "Cities (TV series)",
+"wd_desc": "television series",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q86754496",
+"title": "City Dreamers",
+"year": null,
+"runtime_min": null,
+"director": [
+"Joseph Hillel"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt8558504",
+"tmdb": "600955",
+"enwiki": "City Dreamers",
+"wd_desc": "2018 film directed by Joseph Hillel",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q97940517",
+"title": "City Hall",
+"year": 2020,
+"runtime_min": null,
+"director": [
+"Frederick Wiseman"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt12094720",
+"tmdb": "726041",
+"enwiki": "City Hall (2020 film)",
+"wd_desc": "2020 fim directed by Frederick Wiseman",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5123333",
+"title": "City Out of Wilderness",
+"year": 1974,
+"runtime_min": null,
+"director": [
+"Francis Thompson"
+],
+"subjects": [
+"Washington, D.C."
+],
+"architects": [],
+"imdb": "tt0071332",
+"tmdb": "243397",
+"enwiki": "City Out of Wilderness",
+"wd_desc": "1974 short film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5123702",
+"title": "City of Gold",
+"year": 1957,
+"runtime_min": 22,
+"director": [
+"Wolf Koenig",
+"Colin Low"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0050255",
+"tmdb": "128441",
+"enwiki": "City of Gold (1957 film)",
+"wd_desc": "1957 film by Colin Low, Wolf Koenig",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q99519749",
+"title": "Class Action Park",
+"year": 2020,
+"runtime_min": 90,
+"director": [
+"Seth Porges"
+],
+"subjects": [
+"Action Park"
+],
+"architects": [],
+"imdb": "tt11015214",
+"tmdb": "634233",
+"enwiki": "Class Action Park",
+"wd_desc": "2020 documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q496654",
+"title": "Click",
+"year": 2006,
+"runtime_min": 107,
+"director": [
+"Frank Coraci"
+],
+"subjects": [
+"time travel",
+"rollback in time",
+"family life"
+],
+"architects": [],
+"imdb": "tt0389860",
+"tmdb": "9339",
+"enwiki": "Click (2006 film)",
+"wd_desc": "2006 American fantasy comedy film directed by Frank Coraci",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2460440",
+"title": "Cocaine Cowboys",
+"year": 2006,
+"runtime_min": 118,
+"director": [
+"Billy Corben"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0380268",
+"tmdb": "14761",
+"enwiki": "Cocaine Cowboys (2006 film)",
+"wd_desc": "2006 film by Billy Corben",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q57837662",
+"title": "Code Black",
+"year": 2013,
+"runtime_min": 81,
+"director": [
+"Ryan McGarry"
+],
+"subjects": [
+"emergency department",
+"Los Angeles County+USC Medical Center"
+],
+"architects": [],
+"imdb": "tt2759372",
+"tmdb": "201419",
+"enwiki": "Code Black (film)",
+"wd_desc": "2013 documentary film by Ryan McGarry",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q88679673",
+"title": "Colonia Dignidad",
+"year": 2020,
+"runtime_min": null,
+"director": [
+"Annette Baumeister",
+"Kai Christiansen",
+"Wilfried Huismann",
+"Heike Bittner"
+],
+"subjects": [
+"Colonia Dignidad"
+],
+"architects": [],
+"imdb": "tt11854670",
+"tmdb": "1117772",
+"enwiki": null,
+"wd_desc": "2020 film by Annette Baumeister and Wilfried Huismann",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q30612286",
+"title": "Columbus",
+"year": 2017,
+"runtime_min": 100,
+"director": [
+"Kogonada"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt5990474",
+"tmdb": "414453",
+"enwiki": "Columbus (2017 film)",
+"wd_desc": "2017 film directed by Kogonada",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q28180653",
+"title": "Coma",
+"year": 2020,
+"runtime_min": null,
+"director": [
+"Nikita Argunov"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt6087226",
+"tmdb": "430155",
+"enwiki": "Coma (2020 film)",
+"wd_desc": "2019 film by Nikita Argunov",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q16977155",
+"title": "Complexo - Universo Paralelo",
+"year": 2011,
+"runtime_min": 80,
+"director": [
+"Mário Patrocínio"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1692304",
+"tmdb": "61688",
+"enwiki": "Complexo - Universo Paralelo",
+"wd_desc": "2011 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5160028",
+"title": "Confessions of a Superhero",
+"year": 2007,
+"runtime_min": 92,
+"director": [
+"Matthew Ogens"
+],
+"subjects": [
+"Hollywood Walk of Fame"
+],
+"architects": [],
+"imdb": "tt1016164",
+"tmdb": "16509",
+"enwiki": "Confessions of a Superhero",
+"wd_desc": "2007 documentary film directed by Matthew Ogens",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q2995754",
+"title": "Contras'city",
+"year": 1968,
+"runtime_min": null,
+"director": [
+"Djibril Diop Mambéty"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0201536",
+"tmdb": "214841",
+"enwiki": "Contras'city",
+"wd_desc": "1968 film by Djibril Diop Mambéty",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q33529067",
+"title": "Copenhagen Porcelain by Bing & Grøndahl",
+"year": 1980,
+"runtime_min": 17,
+"director": [
+"Henning Ørnbak",
+"Anders Odsbjerg"
+],
+"subjects": [
+"Royal Copenhagen"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "1980 film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1139447",
+"title": "Credo: Martin Luther – Wittenberg 1517",
+"year": 1967,
+"runtime_min": 17,
+"director": [],
+"subjects": [
+"Martin Luther",
+"Epitaph for Paul Eber and his Family: Parable of the Workers in the Vineyard"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "1967 film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q23899943",
+"title": "Cronaca di una deportazione - Il Memoriale di Auschwitz",
+"year": 2016,
+"runtime_min": 36,
+"director": [
+"Silvana Maja"
+],
+"subjects": [
+"Italian memorial of Auschwitz",
+"Holocaust denial"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2016 film by Silvana Maja",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q109300716",
+"title": "Dark Clouds Over Elberton",
+"year": 2005,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Georgia Guidestones"
+],
+"architects": [],
+"imdb": "tt21351188",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "documentary",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q5223193",
+"title": "Dark Days",
+"year": 2000,
+"runtime_min": 82,
+"director": [
+"Marc Singer"
+],
+"subjects": [
+"homelessness in the United States",
+"Freedom Tunnel",
+"New York City"
+],
+"architects": [],
+"imdb": "tt0235327",
+"tmdb": "14273",
+"enwiki": "Dark Days (film)",
+"wd_desc": "2000 documentary directed by Marc Singer",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q5223455",
+"title": "Dark Tower",
+"year": 1989,
+"runtime_min": 91,
+"director": [
+"Freddie Francis",
+"Ken Wiederhorn"
+],
+"subjects": [
+"supernatural"
+],
+"architects": [],
+"imdb": "tt0092831",
+"tmdb": "106280",
+"enwiki": "Dark Tower (1987 film)",
+"wd_desc": "1989 film by Freddie Francis",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3795184",
+"title": "De brug",
+"year": 1928,
+"runtime_min": 11,
+"director": [
+"Joris Ivens"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0018728",
+"tmdb": "189872",
+"enwiki": "De brug",
+"wd_desc": "1928 Dutch film by Joris Ivens",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q141740039",
+"title": "Dead Air",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Diasporama: Dead Air",
+"wd_desc": "1997 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q657607",
+"title": "Deadly Circuit",
+"year": 1983,
+"runtime_min": 120,
+"director": [
+"Claude Miller"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0084358",
+"tmdb": "62981",
+"enwiki": "Deadly Circuit",
+"wd_desc": "1983 film by Claude Miller",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1186401",
+"title": "Demolishing and Building Up the Star Theatre",
+"year": 1901,
+"runtime_min": 2,
+"director": [
+"Frederick S. Armitage"
+],
+"subjects": [
+"New York City",
+"Wallack's Theatre"
+],
+"architects": [],
+"imdb": "tt0000410",
+"tmdb": "129863",
+"enwiki": "Star Theatre (film)",
+"wd_desc": "short film by Frederick S. Armitage",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q119853734",
+"title": "Design is One",
+"year": 2012,
+"runtime_min": 86,
+"director": [],
+"subjects": [
+"Lella Vignelli",
+"Massimo Vignelli"
+],
+"architects": [],
+"imdb": "tt2610862",
+"tmdb": "222885",
+"enwiki": null,
+"wd_desc": "documentary film",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q28921883",
+"title": "Diary",
+"year": 1983,
+"runtime_min": 330,
+"director": [
+"David Perlov"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0179546",
+"tmdb": "44394",
+"enwiki": "Diary (1983 film)",
+"wd_desc": "1983 Israeli experimental independent underground documentary art film directed by David Perlov",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q106719445",
+"title": "Didi Contractor - Marrying the Earth to the Building",
+"year": 2017,
+"runtime_min": null,
+"director": [
+"Steffi Unrein-Giaracuni"
+],
+"subjects": [
+"Didi Contractor"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2017 documentary film by Steffi Unrein-Giaracuni",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q5276888",
+"title": "Dilli",
+"year": 2011,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1899160",
+"tmdb": "706067",
+"enwiki": "Dilli (film)",
+"wd_desc": "2011 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5281293",
+"title": "Disappearing London",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt2123484",
+"tmdb": null,
+"enwiki": "Disappearing London",
+"wd_desc": "UK television program",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5282508",
+"title": "Disorder",
+"year": 2009,
+"runtime_min": 58,
+"director": [
+"Huang Weikai"
+],
+"subjects": [
+"People's Republic of China"
+],
+"architects": [],
+"imdb": "tt1519635",
+"tmdb": "102809",
+"enwiki": "Disorder (2009 film)",
+"wd_desc": "2009 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q105683911",
+"title": "Do Not Split",
+"year": 2020,
+"runtime_min": 35,
+"director": [
+"Anders Sømme Hammer"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt11512676",
+"tmdb": "655154",
+"enwiki": "Do Not Split",
+"wd_desc": "Documentary",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q18402581",
+"title": "Do You See Me?",
+"year": 2014,
+"runtime_min": 106,
+"director": [
+"Riccardo Milani"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3825738",
+"tmdb": "298729",
+"enwiki": "Do You See Me? (film)",
+"wd_desc": "2014 film by Riccardo Milani",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3284859",
+"title": "Douro, Faina Fluvial",
+"year": 1931,
+"runtime_min": 18,
+"director": [
+"Manoel de Oliveira"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0021810",
+"tmdb": "128368",
+"enwiki": "Douro, Faina Fluvial",
+"wd_desc": "1931 film by Manoel de Oliveira",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q21203069",
+"title": "Dressed As A Girl",
+"year": 2015,
+"runtime_min": 101,
+"director": [
+"Colin Rothbart"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt4074698",
+"tmdb": "332661",
+"enwiki": "Dressed as a Girl",
+"wd_desc": "2015 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q29871086",
+"title": "Dujiangyan",
+"year": 1995,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Dujiangyan"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Dujiangyan (film)",
+"wd_desc": "1995 Chinese documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q5325503",
+"title": "Eames: The Architect and the Painter",
+"year": 2011,
+"runtime_min": 83,
+"director": [
+"Bill Jersey",
+"Jason Cohn"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1972646",
+"tmdb": "75442",
+"enwiki": "Eames: The Architect and the Painter",
+"wd_desc": "2011 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q110304328",
+"title": "El pacto de los estudiantes",
+"year": 2017,
+"runtime_min": 71,
+"director": [
+"Juan Miguel del Castillo"
+],
+"subjects": [
+"Residencia de Estudiantes",
+"Federico García Lorca",
+"Salvador Dalí",
+"Luis Buñuel"
+],
+"architects": [],
+"imdb": "tt7831784",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q1325887",
+"title": "Electric Dreams",
+"year": 1984,
+"runtime_min": 96,
+"director": [
+"Steve Barron"
+],
+"subjects": [
+"artificial intelligence",
+"computing"
+],
+"architects": [],
+"imdb": "tt0087197",
+"tmdb": "19596",
+"enwiki": "Electric Dreams (film)",
+"wd_desc": "1984 film directed by Steve Barron",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q131158483",
+"title": "Emergent City",
+"year": null,
+"runtime_min": null,
+"director": [
+"Kelly Anderson"
+],
+"subjects": [
+"Industry City"
+],
+"architects": [],
+"imdb": "tt32150589",
+"tmdb": "1278647",
+"enwiki": "Emergent City",
+"wd_desc": "documentary film about Industry City",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q12118184",
+"title": "Escape from Suburbia",
+"year": 2007,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1530487",
+"tmdb": "51675",
+"enwiki": "Escape from Suburbia",
+"wd_desc": "2007 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5417467",
+"title": "Every Day Except Christmas",
+"year": 1957,
+"runtime_min": 41,
+"director": [
+"Lindsay Anderson"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0050370",
+"tmdb": "117471",
+"enwiki": "Every Day Except Christmas",
+"wd_desc": "1957 film directed by Lindsay Anderson",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q124336059",
+"title": "Exergue – on documenta 14",
+"year": 2024,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt30886362",
+"tmdb": "1231485",
+"enwiki": "Exergue – on documenta 14",
+"wd_desc": "2024 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q678139",
+"title": "Expo: Magic of the White City",
+"year": 2005,
+"runtime_min": null,
+"director": [
+"Mark Bussler"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0455940",
+"tmdb": "168607",
+"enwiki": "Expo: Magic of the White City",
+"wd_desc": "2005 historical documentary",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q12042313",
+"title": "Eye Over Prague",
+"year": 2010,
+"runtime_min": 78,
+"director": [
+"Olga Malířová Špátová"
+],
+"subjects": [
+"Jan Kaplický"
+],
+"architects": [],
+"imdb": "tt1417090",
+"tmdb": "337729",
+"enwiki": null,
+"wd_desc": "2010 film by Olga Špátová",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q123485065",
+"title": "Fail Better",
+"year": 2022,
+"runtime_min": null,
+"director": [
+"Eva Garrido Paredes"
+],
+"subjects": [
+"young adult",
+"plaça dels Àngels"
+],
+"architects": [],
+"imdb": "tt19513090",
+"tmdb": "996973",
+"enwiki": null,
+"wd_desc": "2022 documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q1401449",
+"title": "Feiern",
+"year": 2006,
+"runtime_min": 81,
+"director": [
+"Maja Classen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0977611",
+"tmdb": "158959",
+"enwiki": "Feiern",
+"wd_desc": "2006 film by Maja Classen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q122971746",
+"title": "Fire Through Dry Grass",
+"year": 2023,
+"runtime_min": 89,
+"director": [
+"Jay Molina",
+"Alexis Neophytides"
+],
+"subjects": [
+"Reality Poets",
+"COVID-19 pandemic",
+"Coler Rehabilitation and Nursing Care Center"
+],
+"architects": [],
+"imdb": "tt28510673",
+"tmdb": "1011107",
+"enwiki": null,
+"wd_desc": "2023 film by Alexis Neophytides and Andres “Jay” Molina",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q14954339",
+"title": "Fire in the Night",
+"year": 2013,
+"runtime_min": null,
+"director": [
+"Anthony Wonke"
+],
+"subjects": [
+"Piper Alpha"
+],
+"architects": [],
+"imdb": "tt2620290",
+"tmdb": "203922",
+"enwiki": "Fire in the Night (2013 film)",
+"wd_desc": "2013 film directed by Anthony Wonke",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q126412342",
+"title": "First We Bombed New Mexico",
+"year": 2023,
+"runtime_min": 95,
+"director": [
+"Lois Lipman"
+],
+"subjects": [
+"Radiation Exposure Compensation Act",
+"downwinder",
+"nuclear fallout",
+"Tularosa Basin Downwinders Consortium",
+"Trinity Site"
+],
+"architects": [],
+"imdb": "tt29377914",
+"tmdb": null,
+"enwiki": "First We Bombed New Mexico",
+"wd_desc": "2023 documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q5456638",
+"title": "Flag Wars",
+"year": 2003,
+"runtime_min": 86,
+"director": [
+"Linda Goode Bryant"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0359281",
+"tmdb": "40768",
+"enwiki": "Flag Wars",
+"wd_desc": "2003 film by Linda Goode Bryant",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1435557",
+"title": "Following Sean",
+"year": 2005,
+"runtime_min": 83,
+"director": [
+"Ralph Arlyck"
+],
+"subjects": [
+"Haight-Ashbury",
+"San Francisco"
+],
+"architects": [],
+"imdb": "tt0479916",
+"tmdb": "82437",
+"enwiki": "Following Sean",
+"wd_desc": "2005 documentary film about Haight-Ashbury in San Francisco directed by Ralph Arlyck",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q27039087",
+"title": "Footprints, the Path of Your Life",
+"year": 2016,
+"runtime_min": null,
+"director": [
+"Juan Manuel Cotelo"
+],
+"subjects": [
+"Way of Saint James"
+],
+"architects": [],
+"imdb": "tt6079160",
+"tmdb": "464251",
+"enwiki": null,
+"wd_desc": "2016 film by Juan Manuel Cotelo",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q5520934",
+"title": "Gang War: Bangin' In Little Rock",
+"year": 1994,
+"runtime_min": null,
+"director": [
+"Marc Levin"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0272104",
+"tmdb": "58931",
+"enwiki": "Gang War: Bangin' In Little Rock",
+"wd_desc": "1994 film by Marc Levin",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3095310",
+"title": "Garbage Warrior",
+"year": 2007,
+"runtime_min": 86,
+"director": [
+"Oliver Hodge"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1104694",
+"tmdb": "29110",
+"enwiki": "Garbage Warrior",
+"wd_desc": "2007 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1058019",
+"title": "Gente di Roma",
+"year": 2003,
+"runtime_min": 100,
+"director": [
+"Ettore Scola"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0382711",
+"tmdb": "58089",
+"enwiki": "People of Rome (film)",
+"wd_desc": "2003 film by Ettore Scola",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q33001032",
+"title": "German Souls - Life after the Colonia Dignidad",
+"year": 2009,
+"runtime_min": 96,
+"director": [
+"Martin Farkas",
+"Matthias Zuber"
+],
+"subjects": [
+"Colonia Dignidad"
+],
+"architects": [],
+"imdb": "tt1399538",
+"tmdb": "667776",
+"enwiki": null,
+"wd_desc": "2009 documentary film by Martin Farkas and Matthias Zuber",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q130619566",
+"title": "Gidi Gidi",
+"year": 2018,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Nazilli Cotton Factory",
+"Nazilli–Sümerbank railway"
+],
+"architects": [],
+"imdb": "tt8663996",
+"tmdb": "698051",
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q111264177",
+"title": "Girant per Sant Antoni",
+"year": 2020,
+"runtime_min": 101,
+"director": [],
+"subjects": [
+"Sant Antoni",
+"Sant Antoni Marketplace"
+],
+"architects": [],
+"imdb": "tt12234184",
+"tmdb": "698787",
+"enwiki": null,
+"wd_desc": "2020 film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q5569642",
+"title": "Glimpses/Impressions",
+"year": 2010,
+"runtime_min": null,
+"director": [
+"Jean-François Pouliot"
+],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Glimpses/Impressions",
+"wd_desc": "2010 film by Jean-François Pouliot",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q17003723",
+"title": "Glitter Dust: Finding Art in Dubai",
+"year": 2011,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt2130042",
+"tmdb": null,
+"enwiki": "Glitter Dust: Finding Art in Dubai",
+"wd_desc": "2011 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2073748",
+"title": "Goodbye First Love",
+"year": 2011,
+"runtime_min": 110,
+"director": [
+"Mia Hansen-Løve"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1618447",
+"tmdb": "82327",
+"enwiki": "Goodbye First Love",
+"wd_desc": "2011 film by Mia Hansen-Løve",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q28501051",
+"title": "Gray Matters",
+"year": 2016,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt3296248",
+"tmdb": "431361",
+"enwiki": "Gray Matters (2014 film)",
+"wd_desc": "2016 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5599134",
+"title": "Great Expectations",
+"year": 2007,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1051999",
+"tmdb": "303979",
+"enwiki": "Great Expectations (2007 film)",
+"wd_desc": "2007 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q118215196",
+"title": "Grenfell",
+"year": 2023,
+"runtime_min": null,
+"director": [
+"Steve McQueen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt27489367",
+"tmdb": "1105303",
+"enwiki": "Grenfell (film)",
+"wd_desc": "2023 short film directed by Steve McQueen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2104352",
+"title": "Grey Gardens",
+"year": 1975,
+"runtime_min": 95,
+"director": [
+"Albert Maysles",
+"David Maysles",
+"Ellen Horde"
+],
+"subjects": [
+"Edith Bouvier Beale",
+"Edith Ewing Bouvier Beale",
+"Grey Gardens"
+],
+"architects": [],
+"imdb": "tt0073076",
+"tmdb": "17346",
+"enwiki": "Grey Gardens",
+"wd_desc": "1975 film by Albert Maysles, David Maysles",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q124791305",
+"title": "Greyland",
+"year": 2022,
+"runtime_min": 77,
+"director": [
+"Alexandra Sicotte-Levesque"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt27481573",
+"tmdb": null,
+"enwiki": "Greyland",
+"wd_desc": "2022 film directed by Alexandra Sicotte-Lévesque",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q45908288",
+"title": "Ground Zero Supertower",
+"year": 2013,
+"runtime_min": 53,
+"director": [
+"Terri Randall"
+],
+"subjects": [
+"One World Trade Center"
+],
+"architects": [],
+"imdb": "tt2904554",
+"tmdb": "511776",
+"enwiki": null,
+"wd_desc": "2013 documentary film directed by Terri Randall",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q11861295",
+"title": "Hanasaari A",
+"year": 2009,
+"runtime_min": 16,
+"director": [
+"Hannes Vartiainen",
+"Pekka Veikkolainen"
+],
+"subjects": [
+"Hanasaari power plant area"
+],
+"architects": [],
+"imdb": "tt1606233",
+"tmdb": "374276",
+"enwiki": null,
+"wd_desc": "2009 documentary film by Hannes Vartiainen ja Pekka Veikkolainen",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q5708785",
+"title": "Hello London",
+"year": 1958,
+"runtime_min": 78,
+"director": [
+"Sid Smith"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0051715",
+"tmdb": "447571",
+"enwiki": "Hello London",
+"wd_desc": "1958 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q46127482",
+"title": "Hitler's Steel Beast",
+"year": 2016,
+"runtime_min": 52,
+"director": [
+"Caroline Amiard",
+"Daniel Ablin"
+],
+"subjects": [
+"Führersonderzug"
+],
+"architects": [],
+"imdb": "tt7650378",
+"tmdb": "485219",
+"enwiki": null,
+"wd_desc": "2016 documentary film by Daniel Ablin",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q111181415",
+"title": "Home From School: The Children of Carlisle",
+"year": 2021,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Carlisle Indian Industrial School",
+"Arapaho Tribe of the Wind River Reservation"
+],
+"architects": [],
+"imdb": "tt15599980",
+"tmdb": "843670",
+"enwiki": "Home From School: The Children of Carlisle",
+"wd_desc": "2021 film directed by Geoffrey O'Gara",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q109374393",
+"title": "Honest Candidate 2",
+"year": 2022,
+"runtime_min": null,
+"director": [
+"Jang Yu-jeong"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt22048600",
+"tmdb": "795276",
+"enwiki": "Honest Candidate 2",
+"wd_desc": "2022 film directed by Jang Yu-jeong",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3140955",
+"title": "Hospital",
+"year": 1970,
+"runtime_min": 84,
+"director": [
+"Frederick Wiseman"
+],
+"subjects": [
+"health care",
+"Metropolitan Hospital Center"
+],
+"architects": [],
+"imdb": "tt0065853",
+"tmdb": "114390",
+"enwiki": "Hospital (1970 film)",
+"wd_desc": "1970 American documentary film directed by Frederick Wiseman",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q12124870",
+"title": "Hotel Ground Zero",
+"year": 2009,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt1724594",
+"tmdb": null,
+"enwiki": "Hotel Ground Zero",
+"wd_desc": "2009 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q60646163",
+"title": "Hotel Jugoslavija",
+"year": 2019,
+"runtime_min": 78,
+"director": [
+"Nicolas Wagnières"
+],
+"subjects": [
+"Hotel Jugoslavija",
+"collective identity",
+"Yugoslavs",
+"breakup of Yugoslavia"
+],
+"architects": [],
+"imdb": "tt7099756",
+"tmdb": "481691",
+"enwiki": null,
+"wd_desc": "2017 film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1631466",
+"title": "Housesitter",
+"year": 1992,
+"runtime_min": 102,
+"director": [
+"Frank Oz"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0104452",
+"tmdb": "10407",
+"enwiki": "Housesitter",
+"wd_desc": "1992 film by Frank Oz",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q60962735",
+"title": "Hôtel La Louisiane",
+"year": 2015,
+"runtime_min": 89,
+"director": [
+"Michel La Veaux"
+],
+"subjects": [
+"Hotel La Louisiane"
+],
+"architects": [],
+"imdb": "tt5279162",
+"tmdb": "366636",
+"enwiki": null,
+"wd_desc": "2015 film directed by Michel La Veaux",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q120885742",
+"title": "Hôtel de la Marine, renaissance d'un palais",
+"year": 2018,
+"runtime_min": null,
+"director": [
+"Nathalie Plico"
+],
+"subjects": [
+"Hôtel de la Marine",
+"Pierre-Élisabeth de Fontanieu"
+],
+"architects": [],
+"imdb": "tt14935790",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2018 television film directed by Nathalie Plicot",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q16251661",
+"title": "I Grew Up in Princeton",
+"year": 2013,
+"runtime_min": null,
+"director": [
+"Brad Mays"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3285658",
+"tmdb": "582445",
+"enwiki": "I Grew Up in Princeton",
+"wd_desc": "2013 film by Brad Mays",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q30636911",
+"title": "I am Belfast",
+"year": 2015,
+"runtime_min": null,
+"director": [
+"Mark Cousins"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3847390",
+"tmdb": "332806",
+"enwiki": "I Am Belfast",
+"wd_desc": "2015 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q122904286",
+"title": "Icon",
+"year": 2016,
+"runtime_min": null,
+"director": [
+"Wojciech Kasperski"
+],
+"subjects": [
+"psychiatric hospital",
+"Alexandrovsky Central"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "documentary movie by Wojciech Kasperski (2016)",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q112892980",
+"title": "Iconoclasm",
+"year": 1982,
+"runtime_min": 90,
+"director": [
+"Johan van der Keuken"
+],
+"subjects": [
+"Melkweg"
+],
+"architects": [],
+"imdb": "tt0083631",
+"tmdb": "328324",
+"enwiki": null,
+"wd_desc": "1982 film by Johan van der Keuken",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q115517341",
+"title": "If These Walls Could Sing",
+"year": null,
+"runtime_min": null,
+"director": [
+"Mary McCartney"
+],
+"subjects": [
+"Abbey Road Studios"
+],
+"architects": [],
+"imdb": "tt13943546",
+"tmdb": "926392",
+"enwiki": "If These Walls Could Sing",
+"wd_desc": "2022 film directed by Mary McCartney",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q18150985",
+"title": "If You Build It",
+"year": 2013,
+"runtime_min": null,
+"director": [
+"Patrick Creadon"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2322482",
+"tmdb": "241573",
+"enwiki": "If You Build It",
+"wd_desc": "2013 film by Patrick Creadon",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q63685146",
+"title": "In Family I Trust",
+"year": 2019,
+"runtime_min": 97,
+"director": [
+"Patricia Font"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt6869362",
+"tmdb": "512019",
+"enwiki": "In Family I Trust",
+"wd_desc": "2019 film by Patricia Font",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q25188",
+"title": "Inception",
+"year": 2010,
+"runtime_min": 148,
+"director": [
+"Christopher Nolan"
+],
+"subjects": [
+"telepresence",
+"dream world"
+],
+"architects": [],
+"imdb": "tt1375666",
+"tmdb": "27205",
+"enwiki": "Inception",
+"wd_desc": "2010 film directed by Christopher Nolan",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q603448",
+"title": "Indecent Proposal",
+"year": 1993,
+"runtime_min": 112,
+"director": [
+"Adrian Lyne"
+],
+"subjects": [
+"gambling"
+],
+"architects": [],
+"imdb": "tt0107211",
+"tmdb": "4478",
+"enwiki": "Indecent Proposal",
+"wd_desc": "1993 film by Adrian Lyne",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6037517",
+"title": "Inside 9/11",
+"year": 2005,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"September 11 attacks"
+],
+"architects": [],
+"imdb": "tt0481590",
+"tmdb": "127260",
+"enwiki": "Inside 9/11",
+"wd_desc": "film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4289206",
+"title": "Inside Mecca",
+"year": 2003,
+"runtime_min": null,
+"director": [
+"Anisa Mehdi"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0427389",
+"tmdb": "113375",
+"enwiki": "Inside Mecca",
+"wd_desc": "2003 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q105982358",
+"title": "Inside the Red Brick Wall",
+"year": 2020,
+"runtime_min": 88,
+"director": [],
+"subjects": [
+"2019 Hong Kong Polytechnic University conflict",
+"civil disobedience"
+],
+"architects": [],
+"imdb": "tt14266320",
+"tmdb": "768112",
+"enwiki": "Inside the Red Brick Wall",
+"wd_desc": "2020 Hong Kong documentary",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q14903165",
+"title": "Jerusalem",
+"year": 2013,
+"runtime_min": 45,
+"director": [
+"Daniel Ferguson"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2385006",
+"tmdb": "237200",
+"enwiki": "Jerusalem (2013 film)",
+"wd_desc": "2013 film directed by Daniel Ferguson",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q13577175",
+"title": "Jerusalem Is Proud to Present",
+"year": 2008,
+"runtime_min": 60,
+"director": [
+"Nitzan Gilady"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1254962",
+"tmdb": "507760",
+"enwiki": "Jerusalem Is Proud to Present",
+"wd_desc": "2008 documentary film directed by Nitzan Gilady",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q10307616",
+"title": "Joelma 23º Andar",
+"year": 1979,
+"runtime_min": 80,
+"director": [
+"Clery Cunha"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0240635",
+"tmdb": "315586",
+"enwiki": "Joelma 23º Andar",
+"wd_desc": "1979 film by Clery Cunha",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q132795875",
+"title": "Johann Hüttner über das Konzentrationslager Sachsenhausen",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Sachsenhausen concentration camp"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q6296453",
+"title": "Journey to Mecca",
+"year": 2009,
+"runtime_min": null,
+"director": [
+"Bruce Neibaur"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1235836",
+"tmdb": "70664",
+"enwiki": "Journey to Mecca",
+"wd_desc": "2009 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q135668821",
+"title": "Journey to the Sun",
+"year": null,
+"runtime_min": 60,
+"director": [
+"Jordan Lefler",
+"Logan Lefler"
+],
+"subjects": [
+"Glacier National Park",
+"Going-to-the-Sun Road",
+"National Park Service"
+],
+"architects": [],
+"imdb": "tt37831909",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2026 documentary film directed by Jordan and Logan Lefler",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q14949961",
+"title": "Kahl",
+"year": 1961,
+"runtime_min": null,
+"director": [
+"Haro Senft"
+],
+"subjects": [
+"nuclear technology",
+"Kahl Nuclear Power Plant"
+],
+"architects": [],
+"imdb": "tt0055040",
+"tmdb": "243212",
+"enwiki": "Kahl (film)",
+"wd_desc": "1961 documentary film directed by Haro Senft",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q24672271",
+"title": "Kedi",
+"year": 2016,
+"runtime_min": 80,
+"director": [
+"Ceyda Torun"
+],
+"subjects": [
+"feral cat",
+"Istanbul"
+],
+"architects": [],
+"imdb": "tt4420704",
+"tmdb": "392011",
+"enwiki": "Kedi (2016 film)",
+"wd_desc": "2016 film directed by Ceyda Torun",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2894998",
+"title": "Keep Not Silent",
+"year": 2004,
+"runtime_min": 122,
+"director": [
+"Ilil Alexander"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1167473",
+"tmdb": "322866",
+"enwiki": "Keep Not Silent",
+"wd_desc": "2004 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3196950",
+"title": "Kin Kiesse",
+"year": 1982,
+"runtime_min": null,
+"director": [
+"Mwezé Ngangura"
+],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Kin Kiesse",
+"wd_desc": "1982 film by Mwezé Ngangura",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q18151446",
+"title": "Knock Knock",
+"year": 2015,
+"runtime_min": 99,
+"director": [
+"Eli Roth"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3605418",
+"tmdb": "263472",
+"enwiki": "Knock Knock (2015 film)",
+"wd_desc": "2015 film directed by Eli Roth",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q33546032",
+"title": "Kyndby-værket",
+"year": 1951,
+"runtime_min": 20,
+"director": [
+"Ove Sevel"
+],
+"subjects": [
+"Kyndby power station"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "1951 film by Ove Sevel",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q3203268",
+"title": "L'Esprit de Mopti",
+"year": 1999,
+"runtime_min": null,
+"director": [
+"Moussa Ouane",
+"Pascal Letellier"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0290600",
+"tmdb": null,
+"enwiki": "L'Esprit de Mopti",
+"wd_desc": "1999 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q55018629",
+"title": "LEGO House - Home of the Brick",
+"year": 2018,
+"runtime_min": 47,
+"director": [
+"Anders Falck"
+],
+"subjects": [
+"Lego House"
+],
+"architects": [],
+"imdb": "tt8726442",
+"tmdb": "531002",
+"enwiki": null,
+"wd_desc": "2018 documentary film by Anders Falck and Stinus Morell Vithner",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q6463408",
+"title": "La Libération de Paris",
+"year": 1944,
+"runtime_min": null,
+"director": [
+"André Zwobada"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3169714",
+"tmdb": "464189",
+"enwiki": "La Libération de Paris",
+"wd_desc": "1944 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q78608488",
+"title": "La Montagne infidèle",
+"year": 1923,
+"runtime_min": 33,
+"director": [
+"Jean Epstein"
+],
+"subjects": [
+"Mount Etna"
+],
+"architects": [],
+"imdb": "tt0307183",
+"tmdb": "1037013",
+"enwiki": "La Montagne infidèle",
+"wd_desc": "1923 film directed by Jean Epstein",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q15079015",
+"title": "La Sapienza",
+"year": 2014,
+"runtime_min": 105,
+"director": [
+"Eugène Green"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3182590",
+"tmdb": "281968",
+"enwiki": "La Sapienza (film)",
+"wd_desc": "2014 film by Eugène Green",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6494308",
+"title": "Last Days of the Coliseum",
+"year": 2010,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1954605",
+"tmdb": null,
+"enwiki": "Last Days of the Coliseum",
+"wd_desc": "2010 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q133514455",
+"title": "Last Exit to Kai Tak",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Last Exit to Kai Tak",
+"wd_desc": "2018 Hong Kong documentary",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6495199",
+"title": "Late Bloomers",
+"year": 2011,
+"runtime_min": 95,
+"director": [
+"Julie Gavras"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1572502",
+"tmdb": "79995",
+"enwiki": "Late Bloomers (2011 film)",
+"wd_desc": "2011 film by Julie Gavras",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6503140",
+"title": "Law and Disorder in Lagos",
+"year": 2010,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt2577666",
+"tmdb": "241618",
+"enwiki": "Law and Disorder in Lagos",
+"wd_desc": "2010 film directed by Jason Massot",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q38804959",
+"title": "Le Building",
+"year": 2005,
+"runtime_min": null,
+"director": [
+"Marco Nguyen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0476282",
+"tmdb": "227381",
+"enwiki": "Le Building",
+"wd_desc": "2005 film directed by Marco Nguyen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q60795735",
+"title": "Leaving Neverland",
+"year": 2019,
+"runtime_min": 236,
+"director": [
+"Dan Reed"
+],
+"subjects": [
+"Michael Jackson",
+"Neverland Ranch",
+"Michael Jackson sexual abuse allegations"
+],
+"architects": [],
+"imdb": "tt9573980",
+"tmdb": "86951",
+"enwiki": "Leaving Neverland",
+"wd_desc": "2019 documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q21480343",
+"title": "Leonard Knight: A Man & His Mountain",
+"year": 2015,
+"runtime_min": 75,
+"director": [],
+"subjects": [
+"Leonard Knight",
+"Salvation Mountain"
+],
+"architects": [],
+"imdb": "tt2084764",
+"tmdb": "618120",
+"enwiki": "Leonard Knight: A Man & His Mountain",
+"wd_desc": "2015 film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q1214555",
+"title": "Les Amants du Pont-Neuf",
+"year": 1991,
+"runtime_min": 125,
+"director": [
+"Leos Carax"
+],
+"subjects": [
+"precariat",
+"homelessness",
+"substance dependence",
+"artist",
+"romantic love"
+],
+"architects": [],
+"imdb": "tt0101318",
+"tmdb": "2767",
+"enwiki": "Les Amants du Pont-Neuf",
+"wd_desc": "1991 French film by Léos Carax",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q18346165",
+"title": "Lessons in Dissent",
+"year": 2014,
+"runtime_min": 97,
+"director": [
+"Matthew Torne"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3425898",
+"tmdb": "264050",
+"enwiki": "Lessons in Dissent",
+"wd_desc": "2014 Hong Kong film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q20649400",
+"title": "Living London",
+"year": 1904,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Living London",
+"wd_desc": "1904 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1868902",
+"title": "London Can Take It!",
+"year": 1940,
+"runtime_min": 9,
+"director": [
+"Humphrey Jennings",
+"Harry Watt"
+],
+"subjects": [
+"aviation",
+"World War II",
+"Battle of Britain"
+],
+"architects": [],
+"imdb": "tt0032723",
+"tmdb": "145011",
+"enwiki": "London Can Take It!",
+"wd_desc": "1940 film by Harry Watt, Humphrey Jennings",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q16996874",
+"title": "London in the Raw",
+"year": 1964,
+"runtime_min": null,
+"director": [
+"Norman Cohen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0249751",
+"tmdb": "100179",
+"enwiki": "London in the Raw",
+"wd_desc": "1964 film by Norman Cohen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6688262",
+"title": "Louis Theroux: Behind Bars",
+"year": 2008,
+"runtime_min": null,
+"director": [
+"Stuart Cabb"
+],
+"subjects": [
+"San Quentin Rehabilitation Center"
+],
+"architects": [],
+"imdb": "tt1235534",
+"tmdb": "112722",
+"enwiki": "Louis Theroux: Behind Bars",
+"wd_desc": "2008 film directed by Stuart Cabb",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q111456915",
+"title": "Loving Neverland",
+"year": 2020,
+"runtime_min": 315,
+"director": [],
+"subjects": [
+"Michael Jackson",
+"Neverland Ranch"
+],
+"architects": [],
+"imdb": "tt13092932",
+"tmdb": "746391",
+"enwiki": null,
+"wd_desc": "2020 documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q15270853",
+"title": "Lower Level",
+"year": 1991,
+"runtime_min": null,
+"director": [
+"Kristine Peterson"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0104769",
+"tmdb": "223189",
+"enwiki": "Lower Level",
+"wd_desc": "1991 film by Kristine Peterson",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6702864",
+"title": "Lullaby to My Father",
+"year": 2012,
+"runtime_min": 82,
+"director": [
+"Amos Gitai"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2365895",
+"tmdb": "159297",
+"enwiki": "Lullaby to My Father",
+"wd_desc": "2012 film by Amos Gitai",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3271462",
+"title": "Léon la lune",
+"year": 1956,
+"runtime_min": null,
+"director": [
+"Alain Jessua"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0198674",
+"tmdb": "812223",
+"enwiki": "Léon la lune",
+"wd_desc": "1956 film by Alain Jessua",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q134913381",
+"title": "Maestro",
+"year": 2003,
+"runtime_min": 89,
+"director": [
+"Josell Ramos"
+],
+"subjects": [
+"house music",
+"Paradise Garage",
+"The Loft"
+],
+"architects": [],
+"imdb": "tt0368851",
+"tmdb": "75462",
+"enwiki": "Maestro (2003 film)",
+"wd_desc": "2003 American documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q140589032",
+"title": "Mannu",
+"year": 2020,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Biju Bhaskar"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2020 documentary film on K. V. Sreeja and Biju Bhaskar, made by CSRS, Union Christian College Aluva",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q15039599",
+"title": "Marvellous Melbourne",
+"year": 1910,
+"runtime_min": null,
+"director": [
+"Charles Cozens Spencer"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt5328220",
+"tmdb": null,
+"enwiki": "Marvellous Melbourne",
+"wd_desc": "1910 film by Charles Cozens Spencer",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2238172",
+"title": "Maya Lin: A Strong Clear Vision",
+"year": 1994,
+"runtime_min": 105,
+"director": [
+"Freida Lee Mock"
+],
+"subjects": [
+"Maya Lin"
+],
+"architects": [],
+"imdb": "tt0110480",
+"tmdb": "85778",
+"enwiki": "Maya Lin: A Strong Clear Vision",
+"wd_desc": "1994 film by Freida Lee Mock",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q115175910",
+"title": "Megalopolis",
+"year": 2024,
+"runtime_min": 138,
+"director": [
+"Francis Ford Coppola"
+],
+"subjects": [
+"Second Catilinarian conspiracy"
+],
+"architects": [],
+"imdb": "tt10128846",
+"tmdb": "592831",
+"enwiki": "Megalopolis (film)",
+"wd_desc": "2024 American film by Francis Ford Coppola",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6815621",
+"title": "Memories of Berlin: The Twilight of Weimar Culture",
+"year": 1976,
+"runtime_min": null,
+"director": [
+"Gary Conklin"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0853134",
+"tmdb": "586908",
+"enwiki": "Memories of Berlin: The Twilight of Weimar Culture",
+"wd_desc": "1976 film by Gary Conklin",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q18170195",
+"title": "Mendelsohn's Incessant Visions",
+"year": 2011,
+"runtime_min": null,
+"director": [
+"Duki Dror"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2007403",
+"tmdb": "303995",
+"enwiki": "Incessant Visions",
+"wd_desc": "2011 film by Duki Dror",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q12126160",
+"title": "Metro-Land",
+"year": 1973,
+"runtime_min": 50,
+"director": [
+"Edward Mirzoeff"
+],
+"subjects": [
+"suburb",
+"rapid transit"
+],
+"architects": [],
+"imdb": "tt0861719",
+"tmdb": "378086",
+"enwiki": "Metro-land (1973 film)",
+"wd_desc": "1973 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3860345",
+"title": "Momma Don't Allow",
+"year": 1955,
+"runtime_min": 22,
+"director": [
+"Karel Reisz",
+"Tony Richardson"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0263758",
+"tmdb": "117470",
+"enwiki": "Momma Don't Allow",
+"wd_desc": "1955 documentary film directed by Karel Reisz and Tony Richardson",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1346590",
+"title": "Mon Oncle",
+"year": 1958,
+"runtime_min": 117,
+"director": [
+"Jacques Tati"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0050706",
+"tmdb": "427",
+"enwiki": "Mon Oncle",
+"wd_desc": "1958 film by Jacques Tati",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q58814612",
+"title": "Monrovia, Indiana",
+"year": 2018,
+"runtime_min": null,
+"director": [
+"Frederick Wiseman"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt8749146",
+"tmdb": "537968",
+"enwiki": "Monrovia, Indiana (film)",
+"wd_desc": "2018 film directed by Frederick Wiseman",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q128013978",
+"title": "Mont-Saint-Michel - Le labyrinthe de l’archange",
+"year": 2017,
+"runtime_min": 88,
+"director": [
+"Marc Jampolsky"
+],
+"subjects": [
+"Le Mont Saint-Michel",
+"Mont-Saint-Michel Abbey"
+],
+"architects": [],
+"imdb": "tt8019420",
+"tmdb": "497309",
+"enwiki": null,
+"wd_desc": "documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q140692664",
+"title": "Monument",
+"year": 2026,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt38055198",
+"tmdb": "1536845",
+"enwiki": "Monument (film)",
+"wd_desc": "2026 Israeli film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6906890",
+"title": "Monument to the Dream",
+"year": 1967,
+"runtime_min": null,
+"director": [
+"Charles Guggenheim"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0061990",
+"tmdb": "243315",
+"enwiki": "Monument to the Dream",
+"wd_desc": "1967 film by Charles Guggenheim",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q4407383",
+"title": "Monuments Men",
+"year": 2014,
+"runtime_min": 118,
+"director": [
+"George Clooney"
+],
+"subjects": [
+"World War II",
+"Monuments, Fine Arts, and Archives program",
+"Nazi plunder"
+],
+"architects": [],
+"imdb": "tt2177771",
+"tmdb": "152760",
+"enwiki": "The Monuments Men",
+"wd_desc": "2014 film by George Clooney",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q130297667",
+"title": "More than a museum",
+"year": 2024,
+"runtime_min": 64,
+"director": [
+"Morrosko Vila-San-Juan"
+],
+"subjects": [
+"Munch Museum",
+"MUNCH building"
+],
+"architects": [],
+"imdb": "tt31834845",
+"tmdb": "1284398",
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q12126268",
+"title": "Morning in the Streets",
+"year": 1959,
+"runtime_min": null,
+"director": [
+"Denis Mitchell"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1282070",
+"tmdb": "216347",
+"enwiki": "Morning in the Streets",
+"wd_desc": "1959 film by Denis Mitchell",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q111181227",
+"title": "Museum Town",
+"year": 2019,
+"runtime_min": 76,
+"director": [],
+"subjects": [
+"Massachusetts Museum of Contemporary Art"
+],
+"architects": [],
+"imdb": "tt9617464",
+"tmdb": "576552",
+"enwiki": "Museum Town",
+"wd_desc": "2019 film directed by Jennifer Trainer",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1249229",
+"title": "My Architect",
+"year": 2003,
+"runtime_min": 116,
+"director": [
+"Nathaniel Kahn"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0373175",
+"tmdb": "50314",
+"enwiki": "My Architect",
+"wd_desc": "2003 film by Nathaniel Kahn",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6945404",
+"title": "My Father the Genius",
+"year": 2002,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt0315626",
+"tmdb": "210918",
+"enwiki": "My Father the Genius",
+"wd_desc": "2002 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q6948902",
+"title": "Mystery of the Sphinx",
+"year": 1993,
+"runtime_min": null,
+"director": [
+"Bill Cote"
+],
+"subjects": [
+"The Great Sphinx"
+],
+"architects": [],
+"imdb": "tt0316293",
+"tmdb": "101685",
+"enwiki": "The Mystery of the Sphinx",
+"wd_desc": "1993 film directed by Bill Cote",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q3869333",
+"title": "N.U.",
+"year": 1948,
+"runtime_min": 11,
+"director": [
+"Michelangelo Antonioni"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0040641",
+"tmdb": "159222",
+"enwiki": "N.U. (film)",
+"wd_desc": "1948 film by Michelangelo Antonioni",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3870328",
+"title": "Napoli, Napoli, Napoli",
+"year": 2009,
+"runtime_min": 102,
+"director": [
+"Abel Ferrara"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1489223",
+"tmdb": "97077",
+"enwiki": "Napoli, Napoli, Napoli",
+"wd_desc": "2009 film by Abel Ferrara",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q134979718",
+"title": "Natchez",
+"year": 2025,
+"runtime_min": 86,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt36589943",
+"tmdb": "1465655",
+"enwiki": "Natchez (film)",
+"wd_desc": "2025 American documentary film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q509456",
+"title": "Neukölln Unlimited",
+"year": 2010,
+"runtime_min": 96,
+"director": [
+"Agostino Imondi",
+"Dietmar Ratsch"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1571407",
+"tmdb": "390303",
+"enwiki": "Neukölln Unlimited",
+"wd_desc": "2010 film by Agostino Imondi",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3064669",
+"title": "News Items",
+"year": 1983,
+"runtime_min": 108,
+"director": [
+"Raymond Depardon"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0085520",
+"tmdb": "133452",
+"enwiki": "News Items",
+"wd_desc": "1983 film by Raymond Depardon",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q21427690",
+"title": "Nijuman no borei",
+"year": 2007,
+"runtime_min": null,
+"director": [
+"Jean-Gabriel Périot"
+],
+"subjects": [
+"Hiroshima Peace Memorial"
+],
+"architects": [],
+"imdb": "tt1697657",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2007 film by Jean-Gabriel Périot",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q4743712",
+"title": "Nixon's China Game",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Cold War",
+"1972 Nixon visit to China"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Nixon's China Game",
+"wd_desc": "film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q96167434",
+"title": "Nossa Senhora do Monte",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Our Lady of Montserrat"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "short documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q599182",
+"title": "Notebook on Cities and Clothes",
+"year": 1989,
+"runtime_min": 79,
+"director": [
+"Wim Wenders"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0096852",
+"tmdb": "77352",
+"enwiki": "Notebook on Cities and Clothes",
+"wd_desc": "1989 film by Wim Wenders",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q15984655",
+"title": "O Teri",
+"year": 2014,
+"runtime_min": null,
+"director": [
+"Umesh Bist"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3483596",
+"tmdb": "273166",
+"enwiki": "O Teri",
+"wd_desc": "2014 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3349493",
+"title": "Of Time and the City",
+"year": 2008,
+"runtime_min": 74,
+"director": [
+"Terence Davies"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1232790",
+"tmdb": "29785",
+"enwiki": "Of Time and the City",
+"wd_desc": "2008 film by Terence Davies",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q158069",
+"title": "Olympia",
+"year": 1938,
+"runtime_min": 226,
+"director": [
+"Leni Riefenstahl"
+],
+"subjects": [
+"Olympic Games",
+"1936 Summer Olympics"
+],
+"architects": [],
+"imdb": "tt0030522",
+"tmdb": "677",
+"enwiki": "Olympia (1938 film)",
+"wd_desc": "1938 black-and-white Nazi propaganda documentary film, written, directed and produced by Leni Riefenstahl, about the 1936 Summer Olympics in Berlin",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7091488",
+"title": "On the Road: A Document",
+"year": 1964,
+"runtime_min": 54,
+"director": [
+"Noriaki Tsuchimoto"
+],
+"subjects": [
+"road transport"
+],
+"architects": [],
+"imdb": "tt0373796",
+"tmdb": "361066",
+"enwiki": "On the Road: A Document",
+"wd_desc": "1964 film by Noriaki Tsuchimoto",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q35465999",
+"title": "One Day In The Haram",
+"year": 2017,
+"runtime_min": null,
+"director": [
+"Abrar Hussain"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt7253332",
+"tmdb": "600657",
+"enwiki": "One Day in the Haram",
+"wd_desc": "2017 film by Abrar Hussain",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q124134901",
+"title": "Open-Pit",
+"year": 2023,
+"runtime_min": 65,
+"director": [
+"Felipe Esparza Pérez"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt26348316",
+"tmdb": "1058870",
+"enwiki": "Open-Pit",
+"wd_desc": "2023 Peruvian film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7097695",
+"title": "Operation Vittles",
+"year": 1948,
+"runtime_min": 15,
+"director": [],
+"subjects": [
+"aviation"
+],
+"architects": [],
+"imdb": "tt0040673",
+"tmdb": "240455",
+"enwiki": "Operation Vittles (film)",
+"wd_desc": "1948 short film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q136290541",
+"title": "Or HaMa'arav Synagogue – Documentary video",
+"year": 2023,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Or HaMa'arav Synagogue"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "documentary film about Or HaMa'arav Synagogue",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q74458715",
+"title": "Palace for the People",
+"year": 2018,
+"runtime_min": null,
+"director": [
+"Boris Misirkov",
+"Georgi Bogdanov"
+],
+"subjects": [
+"Lomonosov Moscow State University",
+"Palace of Serbia",
+"Palace of the Republic",
+"National Palace of Culture",
+"Palace of the Parliament"
+],
+"architects": [],
+"imdb": "tt8524146",
+"tmdb": "562002",
+"enwiki": null,
+"wd_desc": "documentary about 5 Eastern block palaces",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1705378",
+"title": "Paris 1900",
+"year": 1947,
+"runtime_min": 82,
+"director": [
+"Nicole Védrès"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0040683",
+"tmdb": "114073",
+"enwiki": "Paris 1900 (film)",
+"wd_desc": "1947 film by Nicole Védrès",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q12126892",
+"title": "Pawtucket Rising",
+"year": 2008,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt1375550",
+"tmdb": null,
+"enwiki": "Pawtucket Rising",
+"wd_desc": "2008 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7163721",
+"title": "Pennsylvania Diners and Other Roadside Restaurants",
+"year": 1993,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Pennsylvania Diners and Other Roadside Restaurants",
+"wd_desc": "1993 documentary television program",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7199221",
+"title": "Pittsburgh A to Z",
+"year": 2001,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": "103563",
+"enwiki": "Pittsburgh A to Z",
+"wd_desc": "2001 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q95571930",
+"title": "Place Bellecour",
+"year": 1896,
+"runtime_min": null,
+"director": [
+"Louis Lumière"
+],
+"subjects": [
+"Place Bellecour"
+],
+"architects": [],
+"imdb": "tt0222170",
+"tmdb": "231113",
+"enwiki": null,
+"wd_desc": "1896 short film by Louis Lumière",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q1454574",
+"title": "Playtime",
+"year": 1967,
+"runtime_min": 126,
+"director": [
+"Jacques Tati"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0062136",
+"tmdb": "10227",
+"enwiki": "Playtime",
+"wd_desc": "1967 film by Jacques Tati",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3399357",
+"title": "Porto of My Childhood",
+"year": 2001,
+"runtime_min": 80,
+"director": [
+"Manoel de Oliveira"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0296809",
+"tmdb": "117406",
+"enwiki": "Porto of My Childhood",
+"wd_desc": "2001 film by Manoel de Oliveira",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7232317",
+"title": "Portrait of a Bookstore as an Old Man",
+"year": 2003,
+"runtime_min": 52,
+"director": [
+"Gonzague Pichelin",
+"Benjamin Sutherland"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0476588",
+"tmdb": "637872",
+"enwiki": "Portrait of a Bookstore as an Old Man",
+"wd_desc": "2003 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7236445",
+"title": "Power Trip: Theatrically Berkeley",
+"year": 2009,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"environmental issue"
+],
+"architects": [],
+"imdb": "tt4848244",
+"tmdb": null,
+"enwiki": "Power Trip: Theatrically Berkeley",
+"wd_desc": "2009 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q78465259",
+"title": "Promotional movie of the UMCG genetics department",
+"year": 2019,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"University Medical Center Groningen",
+"genetics"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2019 YouTube video",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q104906978",
+"title": "Putin's Palace",
+"year": 2021,
+"runtime_min": 112,
+"director": [
+null
+],
+"subjects": [
+"Putin's Palace",
+"Vladimir Putin"
+],
+"architects": [],
+"imdb": "tt13875460",
+"tmdb": "787721",
+"enwiki": "Putin's Palace (film)",
+"wd_desc": "2021 documentary film by the Anti-Corruption Foundation",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q479553",
+"title": "Rabbit à la Berlin",
+"year": 2009,
+"runtime_min": 50,
+"director": [
+"Bartosz Konopka"
+],
+"subjects": [
+"Cold War"
+],
+"architects": [],
+"imdb": "tt1410281",
+"tmdb": "129427",
+"enwiki": "Rabbit à la Berlin",
+"wd_desc": "2009 film by Bartosz Konopka",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q27037985",
+"title": "Rats",
+"year": 2016,
+"runtime_min": 84,
+"director": [
+"Morgan Spurlock"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt4033926",
+"tmdb": "410794",
+"enwiki": "Rats (film)",
+"wd_desc": "2016 film by Morgan Spurlock",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q14783869",
+"title": "Reaching for the Moon",
+"year": 2013,
+"runtime_min": 118,
+"director": [
+"Bruno Barreto"
+],
+"subjects": [
+"Elizabeth Bishop",
+"Lota de Macedo Soares"
+],
+"architects": [],
+"imdb": "tt2217458",
+"tmdb": "167683",
+"enwiki": "Reaching for the Moon (2013 film)",
+"wd_desc": "2013 film by Bruno Barreto",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q579068",
+"title": "Rear Window",
+"year": 1998,
+"runtime_min": 85,
+"director": [
+"Jeff Bleckner"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0166322",
+"tmdb": "11603",
+"enwiki": "Rear Window (1998 film)",
+"wd_desc": "1998 film directed by Jeff Bleckner",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q60737840",
+"title": "Recsk 1950-1953: The Story Of A Secret Concentration Camp In Communist Hungary",
+"year": 1989,
+"runtime_min": 230,
+"director": [
+"Géza Böszörményi",
+"Lívia Gyarmathy"
+],
+"subjects": [
+"Recsk Concentration Camp"
+],
+"architects": [],
+"imdb": "tt0133176",
+"tmdb": "523905",
+"enwiki": "Recsk 1950–1953: The Story of a Secret Concentration Camp in Communist Hungary",
+"wd_desc": "1989 film directed by Lívia Gyarmathy",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q14955271",
+"title": "Rehearsals",
+"year": 2005,
+"runtime_min": 100,
+"director": [
+"Michal Leszczylowski",
+"Gunnar Källström"
+],
+"subjects": [
+"neo-Nazism",
+"Tidaholm Prison",
+"prison escape",
+"Lars Norén",
+"rehabilitation",
+"incarceration",
+"theatre"
+],
+"architects": [],
+"imdb": "tt2518544",
+"tmdb": "466008",
+"enwiki": null,
+"wd_desc": "2005 film by Michal Leszczylowski and Gunnar Källström",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q134979717",
+"title": "Remain",
+"year": 2027,
+"runtime_min": null,
+"director": [
+"M. Night Shyamalan"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt35621542",
+"tmdb": "1425859",
+"enwiki": "Remain (film)",
+"wd_desc": "upcoming film directed by M. Night Shyamalan",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q33504315",
+"title": "Return of the Atom",
+"year": 2017,
+"runtime_min": 110,
+"director": [
+"Mika Taanila",
+"Jussi Eerola"
+],
+"subjects": [
+"Olkiluoto Nuclear Power Plant"
+],
+"architects": [],
+"imdb": "tt1010248",
+"tmdb": "355771",
+"enwiki": null,
+"wd_desc": "2015 film by Mika Taanila",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q194599",
+"title": "Return to Me",
+"year": 2000,
+"runtime_min": 116,
+"director": [
+"Bonnie Hunt"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0122459",
+"tmdb": "2621",
+"enwiki": "Return to Me",
+"wd_desc": "2000 film by Bonnie Hunt",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q107550330",
+"title": "Revolution of Our Times",
+"year": 2021,
+"runtime_min": null,
+"director": [
+"Kiwi Chow"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt15049118",
+"tmdb": "850884",
+"enwiki": "Revolution of Our Times",
+"wd_desc": "documentary film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2232920",
+"title": "Rien que les heures",
+"year": 1926,
+"runtime_min": 45,
+"director": [
+"Alberto Cavalcanti"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0183710",
+"tmdb": "116370",
+"enwiki": "Rien que les heures",
+"wd_desc": "1926 film by Alberto Cavalcanti",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q134431893",
+"title": "Rohmer in Paris",
+"year": null,
+"runtime_min": 67,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt3281060",
+"tmdb": "248629",
+"enwiki": "Rohmer in Paris",
+"wd_desc": "2013 film directed by Richard Misek",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q38797014",
+"title": "Rotterdam-Europoort",
+"year": 1966,
+"runtime_min": 20,
+"director": [
+"Joris Ivens"
+],
+"subjects": [
+"Europoort"
+],
+"architects": [],
+"imdb": "tt0060917",
+"tmdb": "250145",
+"enwiki": null,
+"wd_desc": "1966 Dutch documentary from directed by Joris Ivens",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7378803",
+"title": "Ruins of the Reich",
+"year": 2007,
+"runtime_min": null,
+"director": [
+"R. J. Adams"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1345511",
+"tmdb": "583480",
+"enwiki": "Ruins of the Reich",
+"wd_desc": "2007 film by R. J. Adams",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q50312815",
+"title": "Russia's Toughest Prisons",
+"year": 2011,
+"runtime_min": null,
+"director": [
+"Anna Rodzinski"
+],
+"subjects": [
+"Vladimir Central Prison",
+"Black Dolphin Prison"
+],
+"architects": [],
+"imdb": "tt2193698",
+"tmdb": "262765",
+"enwiki": null,
+"wd_desc": "2011 documentary film by Anna Rodzinski",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q127378378",
+"title": "Réfection de l'église de Sougères-en-Puisaye 2005-2008",
+"year": 2008,
+"runtime_min": 42,
+"director": [],
+"subjects": [
+"église Saint-Pierre-et-Saint-Paul de Sougères-en-Puisaye"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": null,
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1141615",
+"title": "S-21: The Khmer Rouge Killing Machine",
+"year": 2003,
+"runtime_min": 101,
+"director": [
+"Rithy Panh"
+],
+"subjects": [
+"Communist Party of the Cambodia (Khmer Rouge)",
+"Communist Party of Kampuchea",
+null,
+"torture",
+"Vann Nath",
+"Cambodian genocide"
+],
+"architects": [],
+"imdb": "tt0368954",
+"tmdb": "43936",
+"enwiki": "S-21: The Khmer Rouge Killing Machine",
+"wd_desc": "2003 documentary film directed by Rithy Panh",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q139242058",
+"title": "S4: The Bob Lazar Story",
+"year": 2026,
+"runtime_min": 114,
+"director": [
+"Luigi Vendittelli"
+],
+"subjects": [
+"Bob Lazar",
+"Area 51",
+"unidentified flying object"
+],
+"architects": [],
+"imdb": "tt37605896",
+"tmdb": "1462146",
+"enwiki": null,
+"wd_desc": "2026 documentary directed by Luigi Vendittelli",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q115156577",
+"title": "Sagrada Familia, le défi de Gaudi",
+"year": 2022,
+"runtime_min": 92,
+"director": [
+"Marc Jampolsky"
+],
+"subjects": [
+"Basilica and Expiatory Church of the Holy Family"
+],
+"architects": [],
+"imdb": "tt19718560",
+"tmdb": "960477",
+"enwiki": null,
+"wd_desc": "2022 film directed by Marc Jampolsky",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q135916390",
+"title": "Sanatorium",
+"year": null,
+"runtime_min": 90,
+"director": [
+"Gar O'Rourke"
+],
+"subjects": [
+"Kuyalnik Balneotherapy Spa"
+],
+"architects": [],
+"imdb": "tt35820341",
+"tmdb": "1415669",
+"enwiki": "Sanatorium (film)",
+"wd_desc": "2025 Irish film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q7428289",
+"title": "Saving Newburgh",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Saving Newburgh",
+"wd_desc": "film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7431013",
+"title": "Schaut auf diese Stadt",
+"year": 1962,
+"runtime_min": 85,
+"director": [
+"Karl Gass"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0386768",
+"tmdb": "343747",
+"enwiki": "Schaut auf diese Stadt",
+"wd_desc": "1962 film by Karl Gass",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7432598",
+"title": "School of the Americas Assassins",
+"year": 1994,
+"runtime_min": null,
+"director": [
+"Robert Richter"
+],
+"subjects": [
+"Western Hemisphere Institute for Security Cooperation",
+"human rights"
+],
+"architects": [],
+"imdb": "tt0111088",
+"tmdb": "244884",
+"enwiki": "School of the Americas Assassins",
+"wd_desc": "1994 film by Robert Richter",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q20496021",
+"title": "Sct. Clemensbro i Aarhus",
+"year": 1902,
+"runtime_min": 1,
+"director": [
+"Peter Elfelt"
+],
+"subjects": [
+"Saint Clement Bridge"
+],
+"architects": [],
+"imdb": "tt1693042",
+"tmdb": "232646",
+"enwiki": null,
+"wd_desc": "1902 film by Peter Elfelt",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q3476666",
+"title": "Sea Point Days",
+"year": 2008,
+"runtime_min": null,
+"director": [
+"François Verster"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1264907",
+"tmdb": "357662",
+"enwiki": "Sea Point Days",
+"wd_desc": "2008 film by François Verster",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q48012512",
+"title": "Secrets of Highclere Castle",
+"year": 2013,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Highclere Castle"
+],
+"architects": [],
+"imdb": "tt6959652",
+"tmdb": "473533",
+"enwiki": null,
+"wd_desc": "2013 documentary by Vicky Matthews",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q101158497",
+"title": "Secrets of the Saqqara Tomb",
+"year": 2020,
+"runtime_min": 113,
+"director": [
+"Ibrahim Elhefnawy",
+"James Tovell"
+],
+"subjects": [
+"Saqqara",
+"mummy",
+"Fifth Dynasty of Egypt",
+"Wahtye"
+],
+"architects": [],
+"imdb": "tt13150630",
+"tmdb": "753583",
+"enwiki": "Secrets of the Saqqara Tomb",
+"wd_desc": "2020 documentary film directed by James Tovell",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7445569",
+"title": "See You at the Pillar",
+"year": 1967,
+"runtime_min": null,
+"director": [
+"Peter Bayliss"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0062246",
+"tmdb": "243316",
+"enwiki": "See You at the Pillar",
+"wd_desc": "1967 film by Peter Bayliss",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q137939843",
+"title": "September 11: The New Pearl Harbor",
+"year": 2013,
+"runtime_min": 300,
+"director": [
+"Massimo Mazzucco"
+],
+"subjects": [
+"September 11 attacks",
+"World Trade Center"
+],
+"architects": [],
+"imdb": "tt3828916",
+"tmdb": "299783",
+"enwiki": null,
+"wd_desc": "2013 Italian documentary film by Massimo Mazzucco",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7487301",
+"title": "Shalom Abu Bassem",
+"year": 2004,
+"runtime_min": null,
+"director": [
+"Nissim Mossek"
+],
+"subjects": [
+"Israeli–Palestinian conflict"
+],
+"architects": [],
+"imdb": "tt0438977",
+"tmdb": null,
+"enwiki": "Shalom Abu Bassem",
+"wd_desc": "2004 film by Nissim Mossek",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3428553",
+"title": "Sidewalls",
+"year": 2011,
+"runtime_min": 95,
+"director": [
+"Gustavo Taretto"
+],
+"subjects": [
+"big city",
+"Buenos Aires",
+"loneliness",
+"mate choice",
+"phobia"
+],
+"architects": [],
+"imdb": "tt1235841",
+"tmdb": "76696",
+"enwiki": "Sidewalls",
+"wd_desc": "2011 film by Gustavo Taretto",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2720627",
+"title": "Sketches of Frank Gehry",
+"year": 2005,
+"runtime_min": 86,
+"director": [
+"Sydney Pollack"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0446784",
+"tmdb": "27453",
+"enwiki": "Sketches of Frank Gehry",
+"wd_desc": "2005 film by Sydney Pollack",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q37447062",
+"title": "Skyscraper",
+"year": 2018,
+"runtime_min": 102,
+"director": [
+"Rawson Marshall Thurber"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt5758778",
+"tmdb": "447200",
+"enwiki": "Skyscraper (2018 film)",
+"wd_desc": "2018 film directed by Rawson Marshall Thurber",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q123505037",
+"title": "Skyscraper Symphony",
+"year": null,
+"runtime_min": 11,
+"director": [
+"Robert Florey"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0351759",
+"tmdb": "190305",
+"enwiki": "Skyscraper Symphony",
+"wd_desc": "avant-garde 1929 short film by French-American filmmaker Robert Florey",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q107167",
+"title": "Sleepless in Seattle",
+"year": 1993,
+"runtime_min": 105,
+"director": [
+"Nora Ephron"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0108160",
+"tmdb": "858",
+"enwiki": "Sleepless in Seattle",
+"wd_desc": "1993 film directed by Nora Ephron",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q31184811",
+"title": "Smeh sa scene: Savremeno pozorište",
+"year": 1972,
+"runtime_min": null,
+"director": [
+"Nebojša Komadina"
+],
+"subjects": [
+"Terazije Theatre"
+],
+"architects": [],
+"imdb": "tt3450130",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "1972 television documentary directed by Nebojša Komadina",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q831558",
+"title": "Sobibor, October 14, 1943, 4 p.m.",
+"year": 2001,
+"runtime_min": 95,
+"director": [
+"Claude Lanzmann"
+],
+"subjects": [
+"World War II",
+"The Holocaust",
+"Sobibór uprising",
+"Sobibór Extermination Camp"
+],
+"architects": [],
+"imdb": "tt0286978",
+"tmdb": "103695",
+"enwiki": "Sobibor, October 14, 1943, 4 p.m.",
+"wd_desc": "2001 film by Claude Lanzmann",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q76450214",
+"title": "Songs of Repression",
+"year": 2020,
+"runtime_min": 85,
+"director": [
+"Estephan Wagner",
+"Marianne Hougen-Moraga"
+],
+"subjects": [
+"Colonia Dignidad"
+],
+"architects": [],
+"imdb": "tt12095032",
+"tmdb": "679683",
+"enwiki": "Songs of Repression",
+"wd_desc": "2019 film directed by Marianne Hougen-Moraga and Estephan Wagner",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q2228783",
+"title": "Souls of Naples",
+"year": 2005,
+"runtime_min": null,
+"director": [
+"Vincent Monnikendam"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0457535",
+"tmdb": "801138",
+"enwiki": "Zielen van Napels",
+"wd_desc": "2005 documentary film directed by Vincent Monnikendam",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7572718",
+"title": "Spaces: The Architecture of Paul Rudolph",
+"year": 1983,
+"runtime_min": null,
+"director": [
+"Bob Eisenhardt"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0086347",
+"tmdb": "244452",
+"enwiki": "Spaces: The Architecture of Paul Rudolph",
+"wd_desc": "1983 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q96406135",
+"title": "Spaceship Earth",
+"year": 2020,
+"runtime_min": 115,
+"director": [
+"Matt Wolf"
+],
+"subjects": [
+"Biosphere 2"
+],
+"architects": [],
+"imdb": "tt11394188",
+"tmdb": "653575",
+"enwiki": "Spaceship Earth (film)",
+"wd_desc": "2020 film directed by Matt Wolf",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q141180916",
+"title": "Sternbrücke Forever",
+"year": 2026,
+"runtime_min": 98,
+"director": [
+"Christian Hornung"
+],
+"subjects": [
+"Schanzenviertel",
+"gentrification",
+"Sternbrücke"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2026 documentary film by Christian Hornung",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q130753371",
+"title": "Stolen Love",
+"year": null,
+"runtime_min": null,
+"director": [
+"Alan Mak"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0355264",
+"tmdb": "542619",
+"enwiki": "Stolen Love (2001 film)",
+"wd_desc": "2001 film directed by Alan Mak",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2351384",
+"title": "Stolperstein",
+"year": 2008,
+"runtime_min": 72,
+"director": [
+"Dörte Franke"
+],
+"subjects": [
+"Stolpersteine Project"
+],
+"architects": [],
+"imdb": "tt1278454",
+"tmdb": "1309217",
+"enwiki": null,
+"wd_desc": "2008 film by Dörte Franke",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q1455066",
+"title": "Strangers When We Meet",
+"year": 1960,
+"runtime_min": 113,
+"director": [
+"Richard Quine"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0054345",
+"tmdb": "85926",
+"enwiki": "Strangers When We Meet (film)",
+"wd_desc": "1960 film by Richard Quine",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7635932",
+"title": "Sul ponte dei sospiri",
+"year": 1952,
+"runtime_min": 88,
+"director": [
+"Antonio Leonviola"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0045207",
+"tmdb": "478283",
+"enwiki": "Sul ponte dei sospiri",
+"wd_desc": "1952 Italian film by Antonio Leonviola",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q113992830",
+"title": "Surviving 9/11: 27 hours under the rubble",
+"year": null,
+"runtime_min": null,
+"director": [
+"Chloé Rochereuil"
+],
+"subjects": [
+"September 11 attacks",
+"1 World Trade Center"
+],
+"architects": [],
+"imdb": "tt17736182",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2022 VR documentary about the September 11 attacks",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q794344",
+"title": "Symphony of a City",
+"year": 1947,
+"runtime_min": 18,
+"director": [
+"Arne Sucksdorff"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0039648",
+"tmdb": "240444",
+"enwiki": "Symphony of a City",
+"wd_desc": "1947 short film directed by Arne Sucksdorff",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q97238526",
+"title": "THE YEARS OF RUST",
+"year": null,
+"runtime_min": 35,
+"director": [],
+"subjects": [
+"Uljanik"
+],
+"architects": [],
+"imdb": "tt0304960",
+"tmdb": "1107059",
+"enwiki": null,
+"wd_desc": "documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q113172286",
+"title": "Tadmor",
+"year": 2016,
+"runtime_min": null,
+"director": [
+"Lokman Slim",
+"Monika Borgmann"
+],
+"subjects": [
+"Tadmor Prison"
+],
+"architects": [],
+"imdb": "tt5317008",
+"tmdb": "430045",
+"enwiki": null,
+"wd_desc": "2016 film directed by Lokman Slim and Monika Borgmann",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q138330192",
+"title": "Taistelu Lapinlahdesta",
+"year": 2026,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Lapinlahti hospital"
+],
+"architects": [],
+"imdb": null,
+"tmdb": "1612069",
+"enwiki": null,
+"wd_desc": "2026 film directed by Klaus Welp",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q122850633",
+"title": "Take Care of Maya",
+"year": 2023,
+"runtime_min": 103,
+"director": [],
+"subjects": [
+"Complex Regional Pain Syndrome",
+"child welfare",
+"Johns Hopkins All Children's Hospital"
+],
+"architects": [],
+"imdb": "tt27542448",
+"tmdb": "1114901",
+"enwiki": "Take Care of Maya",
+"wd_desc": "2023 film by Henry Roosevelt",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q106074883",
+"title": "Taking Back the Legislature",
+"year": 2020,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt13236520",
+"tmdb": "763554",
+"enwiki": "Taking Back the Legislature",
+"wd_desc": "2020 Hong Kong film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q17332313",
+"title": "Tall: The American Skyscraper and Louis Sullivan",
+"year": 2006,
+"runtime_min": null,
+"director": [
+"Manfred Kirchheimer"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0447480",
+"tmdb": "451114",
+"enwiki": "Tall: The American Skyscraper and Louis Sullivan",
+"wd_desc": "2006 film by Manfred Kirchheimer",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q54322665",
+"title": "Taq Kasra: Wonder of Architecture",
+"year": 2018,
+"runtime_min": null,
+"director": [
+"Pejman Akbarzadeh"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt7992280",
+"tmdb": null,
+"enwiki": "Taq Kasra: Wonder of Architecture",
+"wd_desc": "2018 film directed by Pejman Akbarzadeh",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q461137",
+"title": "Taxi zum Klo",
+"year": 1981,
+"runtime_min": 91,
+"director": [
+"Frank Ripploh"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0081606",
+"tmdb": "35125",
+"enwiki": "Taxi zum Klo",
+"wd_desc": "1980 film by Frank Ripploh",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q19599850",
+"title": "Tears in the Fabric",
+"year": 2014,
+"runtime_min": null,
+"director": [
+"Hannan Majid"
+],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Tears in the Fabric",
+"wd_desc": "2014 film by Hannan Majid",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q24634873",
+"title": "Telescope",
+"year": 2016,
+"runtime_min": 60,
+"director": [
+"Nathaniel Kahn"
+],
+"subjects": [
+"James Webb Space Telescope",
+"history of the telescope"
+],
+"architects": [],
+"imdb": "tt5465036",
+"tmdb": "402475",
+"enwiki": null,
+"wd_desc": "2016 film by Nathaniel Kahn",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q67086174",
+"title": "The Architect",
+"year": 2016,
+"runtime_min": 95,
+"director": [
+"Jonathan Parker"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt3180912",
+"tmdb": "398137",
+"enwiki": "The Architect (2016 film)",
+"wd_desc": "2016 film by Jonathan Parker",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7714193",
+"title": "The Architect",
+"year": 2006,
+"runtime_min": 95,
+"director": [
+"Matt Tauber"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0466665",
+"tmdb": "18590",
+"enwiki": "The Architect (2006 film)",
+"wd_desc": "2006 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3282385",
+"title": "The Architecture of Doom",
+"year": 1989,
+"runtime_min": 119,
+"director": [
+"Peter Cohen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0098559",
+"tmdb": "68348",
+"enwiki": "The Architecture of Doom",
+"wd_desc": "1989 film by Peter Cohen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3281986",
+"title": "The Artist and the City",
+"year": 1956,
+"runtime_min": 26,
+"director": [
+"Manoel de Oliveira"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0049620",
+"tmdb": "186955",
+"enwiki": "The Artist and the City",
+"wd_desc": "1956 film by Manoel de Oliveira",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3795190",
+"title": "The Avenger of Venice",
+"year": 1964,
+"runtime_min": 87,
+"director": [
+"Carlo Campogalliani",
+"Piero Pierotti"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0058483",
+"tmdb": "414089",
+"enwiki": "The Avenger of Venice",
+"wd_desc": "1964 film by Carlo Campogalliani, Piero Pierotti",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7715466",
+"title": "The Ballet of Change: Piccadilly Circus",
+"year": 2007,
+"runtime_min": null,
+"director": [
+"Paul Atherton"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1227764",
+"tmdb": null,
+"enwiki": "The Ballet of Change: Piccadilly Circus",
+"wd_desc": "2007 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q573762",
+"title": "The Belly of an Architect",
+"year": 1987,
+"runtime_min": 114,
+"director": [
+"Peter Greenaway"
+],
+"subjects": [
+"colorectal cancer"
+],
+"architects": [],
+"imdb": "tt0092637",
+"tmdb": "17238",
+"enwiki": "The Belly of an Architect",
+"wd_desc": "1987 film by Peter Greenaway",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1133874",
+"title": "The Bridge",
+"year": 2003,
+"runtime_min": 29,
+"director": [
+"Bobby Garabedian"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0345672",
+"tmdb": "82040",
+"enwiki": "Most (2003 film)",
+"wd_desc": "2003 short film directed by Bobby Garabedian",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q509003",
+"title": "The Bridge",
+"year": 1959,
+"runtime_min": 103,
+"director": [
+"Bernhard Wicki"
+],
+"subjects": [
+"World War II",
+"child soldier"
+],
+"architects": [],
+"imdb": "tt0052654",
+"tmdb": "1566",
+"enwiki": "Die Brücke (film)",
+"wd_desc": "1959 film directed by Bernhard Wicki",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q5286846",
+"title": "The Bridge",
+"year": 1969,
+"runtime_min": 105,
+"director": [
+"Hajrudin Krvavac"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0074921",
+"tmdb": "251210",
+"enwiki": "The Bridge (1969 film)",
+"wd_desc": "1969 film by Hajrudin Krvavac",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q950029",
+"title": "The Bridge",
+"year": 2006,
+"runtime_min": 94,
+"director": [
+"Eric Steel"
+],
+"subjects": [
+"Golden Gate Bridge",
+"suicide",
+"San Francisco",
+"Suicides at the Golden Gate Bridge",
+"suicide prevention"
+],
+"architects": [],
+"imdb": "tt0799954",
+"tmdb": "1666",
+"enwiki": "The Bridge (2006 documentary film)",
+"wd_desc": "2006 film directed by Eric Steel",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q714920",
+"title": "The Bridge at Remagen",
+"year": 1969,
+"runtime_min": 112,
+"director": [
+"John Guillermin"
+],
+"subjects": [
+"World War II"
+],
+"architects": [],
+"imdb": "tt0064110",
+"tmdb": "15873",
+"enwiki": "The Bridge at Remagen",
+"wd_desc": "1969 American film by John Guillermin",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1211798",
+"title": "The Bridge of San Luis Rey",
+"year": 2004,
+"runtime_min": 120,
+"director": [
+"Mary McGuckian"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0356443",
+"tmdb": "45881",
+"enwiki": "The Bridge of San Luis Rey (2004 film)",
+"wd_desc": "2004 film by Mary McGuckian",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1404775",
+"title": "The Bridge of San Luis Rey",
+"year": 1929,
+"runtime_min": 86,
+"director": [
+"Charles Brabin"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0019722",
+"tmdb": "173582",
+"enwiki": "The Bridge of San Luis Rey (1929 film)",
+"wd_desc": "1929 film by Charles Brabin",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7720086",
+"title": "The Bridge of San Luis Rey",
+"year": 1944,
+"runtime_min": null,
+"director": [
+"Rowland V. Lee"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0036672",
+"tmdb": "151386",
+"enwiki": "The Bridge of San Luis Rey (1944 film)",
+"wd_desc": "1944 film by Rowland V. Lee",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q188718",
+"title": "The Bridge on the River Kwai",
+"year": 1957,
+"runtime_min": 156,
+"director": [
+"David Lean"
+],
+"subjects": [
+"World War II",
+"Pacific War",
+"River Kwai bridge",
+"Burma Campaign",
+"prisoner of war"
+],
+"architects": [],
+"imdb": "tt0050212",
+"tmdb": "826",
+"enwiki": "The Bridge on the River Kwai",
+"wd_desc": "1957 film directed by David Lean",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q399823",
+"title": "The Bridges of Madison County",
+"year": 1995,
+"runtime_min": 134,
+"director": [
+"Clint Eastwood"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0112579",
+"tmdb": "688",
+"enwiki": "The Bridges of Madison County (film)",
+"wd_desc": "1995 film directed by Clint Eastwood",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q101112656",
+"title": "The Brutalist",
+"year": 2024,
+"runtime_min": 215,
+"director": [
+"Brady Corbet"
+],
+"subjects": [
+"The Holocaust"
+],
+"architects": [],
+"imdb": "tt8999762",
+"tmdb": "549509",
+"enwiki": "The Brutalist",
+"wd_desc": "2024 film directed by Brady Corbet",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q824133",
+"title": "The Cable Guy",
+"year": 1996,
+"runtime_min": 96,
+"director": [
+"Ben Stiller"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0115798",
+"tmdb": "9894",
+"enwiki": "The Cable Guy",
+"wd_desc": "1996 film directed by Ben Stiller",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7721424",
+"title": "The Carpenter (film)",
+"year": 1988,
+"runtime_min": null,
+"director": [
+"David Wellington"
+],
+"subjects": [
+"supernatural"
+],
+"architects": [],
+"imdb": "tt0097017",
+"tmdb": "82020",
+"enwiki": "The Carpenter (film)",
+"wd_desc": "1988 film by David Wellington",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3819525",
+"title": "The Case Is Closed, Forget It",
+"year": 1971,
+"runtime_min": 106,
+"director": [
+"Damiano Damiani"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0067256",
+"tmdb": "64465",
+"enwiki": "The Case Is Closed, Forget It",
+"wd_desc": "1971 film by Damiano Damiani",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q706586",
+"title": "The Cassandra Crossing",
+"year": 1976,
+"runtime_min": 129,
+"director": [
+"George P. Cosmatos"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0074292",
+"tmdb": "32037",
+"enwiki": "The Cassandra Crossing",
+"wd_desc": "1976 film by George P. Cosmatos",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2777377",
+"title": "The City",
+"year": 1939,
+"runtime_min": null,
+"director": [
+"Ralph Steiner",
+"Willard Van Dyke"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0031160",
+"tmdb": "163093",
+"enwiki": "The City (1939 film)",
+"wd_desc": "1939 film by Ralph Steiner and Willard Van Dyke",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7723163",
+"title": "The City Addicted to Crystal Meth",
+"year": 2009,
+"runtime_min": null,
+"director": [
+"Geoffrey O'Connor"
+],
+"subjects": [
+"D-methamphetamine"
+],
+"architects": [],
+"imdb": "tt1712046",
+"tmdb": "68363",
+"enwiki": "The City Addicted to Crystal Meth",
+"wd_desc": "2010 film directed by Geoffrey O'Connor",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7729654",
+"title": "The Delhi Way",
+"year": 1964,
+"runtime_min": 50,
+"director": [
+"James Ivory"
+],
+"subjects": [
+"India"
+],
+"architects": [],
+"imdb": "tt0208892",
+"tmdb": "185160",
+"enwiki": "The Delhi Way",
+"wd_desc": "1964 film by James Ivory",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7732106",
+"title": "The End of Suburbia",
+"year": 2004,
+"runtime_min": 78,
+"director": [
+"Gregory Greene"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0446320",
+"tmdb": "19112",
+"enwiki": "The End of Suburbia",
+"wd_desc": "2004 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7734266",
+"title": "The Five Cities of June",
+"year": 1963,
+"runtime_min": null,
+"director": [
+"Bruce Herschensohn"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0057061",
+"tmdb": "243249",
+"enwiki": "The Five Cities of June",
+"wd_desc": "1963 film by Bruce Herschensohn",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q633008",
+"title": "The Fountainhead",
+"year": 1949,
+"runtime_min": 114,
+"director": [
+"King Vidor"
+],
+"subjects": [
+"idealism"
+],
+"architects": [],
+"imdb": "tt0041386",
+"tmdb": "24650",
+"enwiki": "The Fountainhead (film)",
+"wd_desc": "1949 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7735050",
+"title": "The Four Year Plan",
+"year": 2011,
+"runtime_min": 99,
+"director": [
+"Mat Hodgson"
+],
+"subjects": [
+"association football"
+],
+"architects": [],
+"imdb": "tt2006869",
+"tmdb": "111771",
+"enwiki": "The Four Year Plan",
+"wd_desc": "2011 film by Mat Hodgson",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q18914984",
+"title": "The Foxy Duckling",
+"year": 1947,
+"runtime_min": null,
+"director": [
+"Arthur Davis"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0039395",
+"tmdb": "237118",
+"enwiki": "The Foxy Duckling",
+"wd_desc": "1947 film by Arthur Davis",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1332274",
+"title": "The Frighteners",
+"year": 1996,
+"runtime_min": 110,
+"director": [
+"Peter Jackson"
+],
+"subjects": [
+"supernatural"
+],
+"architects": [],
+"imdb": "tt0116365",
+"tmdb": "10779",
+"enwiki": "The Frighteners",
+"wd_desc": "1996 film directed by Peter Jackson",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q135914501",
+"title": "The Garden",
+"year": 2025,
+"runtime_min": 24,
+"director": [
+"Esmael Barari"
+],
+"subjects": [
+"Rasht",
+"Hushang Ebtehaj",
+"Nasser Masoudi",
+"Shivan Fumani",
+"City Park",
+"Kolah Farangi Mansion (Rasht)"
+],
+"architects": [],
+"imdb": "tt37916889",
+"tmdb": "1408250",
+"enwiki": null,
+"wd_desc": "Iranian documentary short film directed by Esmael Barari",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q134726473",
+"title": "The Great Arch",
+"year": 2025,
+"runtime_min": 105,
+"director": [
+"Stéphane Demoustier"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt32398150",
+"tmdb": "1290424",
+"enwiki": "The Great Arch",
+"wd_desc": "2025 French film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q125791852",
+"title": "The Great Mecca Feast",
+"year": 1928,
+"runtime_min": null,
+"director": [
+"George Krugers"
+],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "The Great Mecca Feast",
+"wd_desc": "film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7739204",
+"title": "The Heart of the Angel",
+"year": 1989,
+"runtime_min": null,
+"director": [
+"Molly Dineen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0988296",
+"tmdb": "361165",
+"enwiki": "Heart of the Angel",
+"wd_desc": "1989 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7740431",
+"title": "The Hotel",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Cavendish Hotel"
+],
+"architects": [],
+"imdb": "tt1900685",
+"tmdb": null,
+"enwiki": "The Hotel (British TV series)",
+"wd_desc": "television series",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q1168890",
+"title": "The House Is Black",
+"year": 1962,
+"runtime_min": 22,
+"director": [
+"Forugh Farrokhzad"
+],
+"subjects": [
+"Bababaghi Hospice"
+],
+"architects": [],
+"imdb": "tt0336693",
+"tmdb": "44065",
+"enwiki": "The House Is Black",
+"wd_desc": "1962 film by Forough Farrokhzad",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q27920121",
+"title": "The House That Jack Built",
+"year": 2018,
+"runtime_min": 155,
+"director": [
+"Lars von Trier"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt4003440",
+"tmdb": "398173",
+"enwiki": "The House That Jack Built (2018 film)",
+"wd_desc": "2018 film directed by Lars von Trier",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q64004122",
+"title": "The Invisible Man",
+"year": 2020,
+"runtime_min": 124,
+"director": [
+"Leigh Whannell"
+],
+"subjects": [
+"toxic relationship",
+"stalking",
+"breakup",
+"violence against women",
+"technology"
+],
+"architects": [],
+"imdb": "tt1051906",
+"tmdb": "570670",
+"enwiki": "The Invisible Man (2020 film)",
+"wd_desc": "2020 film directed by Leigh Whannell",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q111248139",
+"title": "The Last Breath, at the Heart of the Hôtel-Dieu de Montréal",
+"year": 2017,
+"runtime_min": null,
+"director": [
+"Annabel Loyola"
+],
+"subjects": [
+"history",
+"hospital",
+"Hôtel-Dieu de Montréal",
+"health",
+"cultural heritage",
+"memory",
+"Jeanne Mance",
+"Annabel Loyola",
+"archives",
+"religion"
+],
+"architects": [],
+"imdb": "tt6397744",
+"tmdb": "492383",
+"enwiki": null,
+"wd_desc": "Feature-length documentary film directed by Annabel Loyola in 2017",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q106555014",
+"title": "The Last Cruise",
+"year": 2021,
+"runtime_min": null,
+"director": [
+"Hannah Olson"
+],
+"subjects": [
+"Diamond Princess",
+"COVID-19"
+],
+"architects": [],
+"imdb": "tt13415790",
+"tmdb": "800394",
+"enwiki": "The Last Cruise",
+"wd_desc": "2021 film directed by Hannah Olson",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q18619380",
+"title": "The Last Truck: Closing of a GM Plant",
+"year": 2009,
+"runtime_min": null,
+"director": [
+"Steven Bognar",
+"Julia Reichert"
+],
+"subjects": [
+"Moraine Assembly"
+],
+"architects": [],
+"imdb": "tt1487120",
+"tmdb": "37098",
+"enwiki": "The Last Truck: Closing of a GM Plant",
+"wd_desc": "2009 documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q123352023",
+"title": "The Little Church That Could",
+"year": 2023,
+"runtime_min": 13,
+"director": [
+"James Newhook"
+],
+"subjects": [
+"Newfoundland and Labrador",
+"Placentia",
+"St. Luke's Cultural Heritage Centre"
+],
+"architects": [],
+"imdb": "tt19797918",
+"tmdb": "1036425",
+"enwiki": null,
+"wd_desc": "2022 documentary directed by James Newhook",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q104051267",
+"title": "The Living Museum",
+"year": 1998,
+"runtime_min": 78,
+"director": [
+"Jessica Yu"
+],
+"subjects": [
+"The Living Museum"
+],
+"architects": [],
+"imdb": "tt0181659",
+"tmdb": "474254",
+"enwiki": null,
+"wd_desc": "1998 film directed by Jessica Yu",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q135321350",
+"title": "The London Nobody Knows",
+"year": null,
+"runtime_min": 53,
+"director": [
+"Norman Cohen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0061914",
+"tmdb": "19054",
+"enwiki": "The London Nobody Knows",
+"wd_desc": "1964 British film by Norman Cohen",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q108293356",
+"title": "The Lost Leonardo",
+"year": 2021,
+"runtime_min": 96,
+"director": [
+"Andreas Koefoed"
+],
+"subjects": [
+"Salvator Mundi",
+"Leonardo da Vinci"
+],
+"architects": [],
+"imdb": "tt11225756",
+"tmdb": "822099",
+"enwiki": "The Lost Leonardo",
+"wd_desc": "2021 film directed by Andreas Koefoed",
+"sources": [
+"architect-subject"
+]
+},
+{
+"qid": "Q75511514",
+"title": "The Lost Tomb of Alexander the Great",
+"year": null,
+"runtime_min": 44,
+"director": [],
+"subjects": [
+"tomb of Alexander the Great"
+],
+"architects": [],
+"imdb": "tt10290670",
+"tmdb": "642584",
+"enwiki": null,
+"wd_desc": "2019 television film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q19572770",
+"title": "The Machinists",
+"year": 2010,
+"runtime_min": null,
+"director": [
+"Hannan Majid"
+],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "The Machinists",
+"wd_desc": "2010 film by Hannan Majid",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q29906229",
+"title": "The Magic of Walt Disney World",
+"year": 1972,
+"runtime_min": null,
+"director": [
+"Tom Leetch"
+],
+"subjects": [
+"Walt Disney World Resort"
+],
+"architects": [],
+"imdb": "tt0285688",
+"tmdb": "369895",
+"enwiki": "The Magic of Walt Disney World",
+"wd_desc": "1972 film directed by Tom Leetch",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q124478409",
+"title": "The Movie Man",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Highlands Cinemas"
+],
+"architects": [],
+"imdb": "tt21916284",
+"tmdb": "1116588",
+"enwiki": "The Movie Man (film)",
+"wd_desc": "2024 film directed by Matt Finlin",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q138945265",
+"title": "The New Bridge of Pori",
+"year": 1926,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Pori Bridge"
+],
+"architects": [],
+"imdb": "tt1712560",
+"tmdb": "1620460",
+"enwiki": null,
+"wd_desc": "1926 Finnish documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q125712864",
+"title": "The Nile Dam",
+"year": 2024,
+"runtime_min": 52,
+"director": [
+"Sara Creta"
+],
+"subjects": [
+"Grand Ethiopian Renaissance Dam"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2024 documentary film directed by Sara Creta",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q110146974",
+"title": "The Outsider",
+"year": 2021,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"National September 11 Memorial & Museum"
+],
+"architects": [],
+"imdb": "tt15011630",
+"tmdb": "850057",
+"enwiki": "The Outsider (2021 film)",
+"wd_desc": "2021 film directed by Steven Rosenbaum and Pamela Yoder",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q111781306",
+"title": "The Pipeline of the Century",
+"year": 2021,
+"runtime_min": null,
+"director": [
+"Matthias Schmidt"
+],
+"subjects": [
+"Druzhba pipeline"
+],
+"architects": [],
+"imdb": "tt14327876",
+"tmdb": "1285165",
+"enwiki": null,
+"wd_desc": "2021 television film directed by Matthias Schmidt",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q97516393",
+"title": "The Pre-Opening Report from Disneyland",
+"year": 1955,
+"runtime_min": 55,
+"director": [],
+"subjects": [
+"Disneyland"
+],
+"architects": [],
+"imdb": "tt0561165",
+"tmdb": "720696",
+"enwiki": null,
+"wd_desc": "1955 episode of the American television series Disneyland",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q16254335",
+"title": "The Pruitt-Igoe Myth",
+"year": 2011,
+"runtime_min": null,
+"director": [
+"Chad Freidrichs"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1788461",
+"tmdb": "84407",
+"enwiki": "The Pruitt-Igoe Myth",
+"wd_desc": "2011 documentary film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2889288",
+"title": "The Queen of Versailles",
+"year": 2012,
+"runtime_min": 100,
+"director": [
+"Lauren Greenfield"
+],
+"subjects": [
+"Versailles house",
+"David A. Siegel",
+"Westgate Resorts",
+"Great Recession"
+],
+"architects": [],
+"imdb": "tt2125666",
+"tmdb": "84327",
+"enwiki": "The Queen of Versailles",
+"wd_desc": "2012 American documentary film directed by Lauren Greenfield",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q419906",
+"title": "The Road to Guantanamo",
+"year": 2006,
+"runtime_min": 95,
+"director": [
+"Michael Winterbottom",
+"Mat Whitecross"
+],
+"subjects": [
+"Tipton Three",
+"War on Terrorism",
+"Guantanamo Bay detention camp",
+"administrative detention",
+"human rights violation"
+],
+"architects": [],
+"imdb": "tt0468094",
+"tmdb": "7872",
+"enwiki": "The Road to Guantánamo",
+"wd_desc": "2006 film by Michael Winterbottom and Mat Whitecross",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7761156",
+"title": "The Road to the Wall",
+"year": 1962,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt0056418",
+"tmdb": "243236",
+"enwiki": "The Road to the Wall",
+"wd_desc": "1962 short film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q47010888",
+"title": "The Rock-afire Explosion",
+"year": 2008,
+"runtime_min": null,
+"director": [
+"Brett Whitcomb"
+],
+"subjects": [
+"The Rock-afire Explosion"
+],
+"architects": [],
+"imdb": "tt1327599",
+"tmdb": "31780",
+"enwiki": null,
+"wd_desc": "2008 film by Brett Whitcomb",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q124566469",
+"title": "The Roman Pantheon",
+"year": null,
+"runtime_min": null,
+"director": [
+"Alex Gary"
+],
+"subjects": [
+"Pantheon"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "documentary film directed by Alex Gary",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q126810973",
+"title": "The Roses",
+"year": 2025,
+"runtime_min": 105,
+"director": [
+"Jay Roach"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt31973693",
+"tmdb": "1267905",
+"enwiki": "The Roses (film)",
+"wd_desc": "2025 film directed by Jay Roach",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q118724843",
+"title": "The Secrets Behind Auvers-sur-Oise",
+"year": 2016,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Auvers-sur-Oise compound",
+"People's Mojahedin Organization of Iran"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2016 documentary film by Press TV",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q2414154",
+"title": "The Secrets of Scott's Hut",
+"year": 2011,
+"runtime_min": 90,
+"director": [
+"Tim Green"
+],
+"subjects": [
+"Scott's Hut"
+],
+"architects": [],
+"imdb": "tt1899319",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2011 British documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q19912842",
+"title": "The Seine Meets Paris",
+"year": 1957,
+"runtime_min": null,
+"director": [
+"Joris Ivens"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0050948",
+"tmdb": "128939",
+"enwiki": "The Seine Meets Paris",
+"wd_desc": "1957 film by Joris Ivens",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7766421",
+"title": "The Statue of Liberty",
+"year": 1985,
+"runtime_min": 60,
+"director": [
+"Ken Burns"
+],
+"subjects": [
+"New York City",
+"Statue of Liberty"
+],
+"architects": [],
+"imdb": "tt0092011",
+"tmdb": "51594",
+"enwiki": "The Statue of Liberty (film)",
+"wd_desc": "1985 film by Ken Burns",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q19827727",
+"title": "The Storstrøm Bridge",
+"year": 1950,
+"runtime_min": 7,
+"director": [
+"Carl Theodor Dreyer"
+],
+"subjects": [
+"Storstrøm Bridge"
+],
+"architects": [],
+"imdb": "tt0043004",
+"tmdb": "164998",
+"enwiki": null,
+"wd_desc": "1950 film by Carl Theodor Dreyer",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7767140",
+"title": "The Subconscious Art of Graffiti Removal",
+"year": 2001,
+"runtime_min": null,
+"director": [
+"Matt McCormick"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0303289",
+"tmdb": "67366",
+"enwiki": "The Subconscious Art of Graffiti Removal",
+"wd_desc": "2001 film by Matt McCormick",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q123135753",
+"title": "The Sun Rises in The East",
+"year": 2022,
+"runtime_min": 58,
+"director": [],
+"subjects": [
+"The East"
+],
+"architects": [],
+"imdb": "tt16296326",
+"tmdb": "938258",
+"enwiki": "The Sun Rises in the East (film)",
+"wd_desc": "2022 film by Cynthia Gordy Giwa and Tayo Giwa",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q52619252",
+"title": "The Sunken Village",
+"year": 2018,
+"runtime_min": 82,
+"director": [
+"Georg Lembergh"
+],
+"subjects": [
+"Reschensee",
+"Graun im Vinschgau"
+],
+"architects": [],
+"imdb": "tt7418348",
+"tmdb": "688248",
+"enwiki": null,
+"wd_desc": "2018 documentary film by Georg Lembergh",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7768356",
+"title": "The Temple Mount Is Mine",
+"year": 2003,
+"runtime_min": null,
+"director": [
+"Willy Lindwer"
+],
+"subjects": [
+"Israeli–Palestinian conflict"
+],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "The Temple Mount Is Mine",
+"wd_desc": "2003 television film directed by Willy Lindwer",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q719453",
+"title": "The Tower",
+"year": 2012,
+"runtime_min": 121,
+"director": [
+"Kim Ji-hun"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2554270",
+"tmdb": "154030",
+"enwiki": "The Tower (2012 South Korean film)",
+"wd_desc": "2012 film by Kim Ji-hun",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q372959",
+"title": "The Towering Inferno",
+"year": 1974,
+"runtime_min": 158,
+"director": [
+"John Guillermin",
+"Irwin Allen"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0072308",
+"tmdb": "5919",
+"enwiki": "The Towering Inferno",
+"wd_desc": "1974 film directed by John Guillermin",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q1409535",
+"title": "The Triangle Factory Fire Scandal",
+"year": 1979,
+"runtime_min": 98,
+"director": [
+"Mel Stuart"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0080048",
+"tmdb": "359079",
+"enwiki": "The Triangle Factory Fire Scandal",
+"wd_desc": "1979 film directed by Mel Stuart",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q17088834",
+"title": "The Vision of Paolo Soleri: Prophet in the Desert",
+"year": 2013,
+"runtime_min": 88,
+"director": [
+"Lisa Scafuro"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2250180",
+"tmdb": "948905",
+"enwiki": "The Vision of Paolo Soleri: Prophet in the Desert",
+"wd_desc": "2013 documentary film directed by Lisa Scafuro",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q20030237",
+"title": "The Wall",
+"year": 1990,
+"runtime_min": 99,
+"director": [
+"Jürgen Böttcher"
+],
+"subjects": [
+"Berlin Wall"
+],
+"architects": [],
+"imdb": "tt0128334",
+"tmdb": "278617",
+"enwiki": null,
+"wd_desc": "1990 film by Jürgen Böttcher",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q7773299",
+"title": "The Wall",
+"year": 1962,
+"runtime_min": null,
+"director": [
+"Walter de Hoog"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0356184",
+"tmdb": "234542",
+"enwiki": "The Wall (1962 film)",
+"wd_desc": "1962 American propaganda film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7774884",
+"title": "The Wild Parrots of Telegraph Hill",
+"year": 2003,
+"runtime_min": null,
+"director": [
+"Judy Irving"
+],
+"subjects": [
+"San Francisco"
+],
+"architects": [],
+"imdb": "tt0424565",
+"tmdb": "17592",
+"enwiki": "The Wild Parrots of Telegraph Hill",
+"wd_desc": "2003 film by Judy Irving",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7775865",
+"title": "The World's Best Prom",
+"year": 2006,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": "tt0772132",
+"tmdb": "325650",
+"enwiki": "The World's Best Prom",
+"wd_desc": "2006 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7776899",
+"title": "The Zone",
+"year": 2003,
+"runtime_min": null,
+"director": [
+"Esaias Baitel"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0375229",
+"tmdb": "102374",
+"enwiki": "The Zone (2003 film)",
+"wd_desc": "2003 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q110821310",
+"title": "Then the Times, They Changed",
+"year": 2022,
+"runtime_min": 76,
+"director": [
+"Antti Kuivalainen"
+],
+"subjects": [
+"Tavastia Club"
+],
+"architects": [],
+"imdb": "tt18335818",
+"tmdb": "929489",
+"enwiki": null,
+"wd_desc": "2022 film directed by Antti Kuivalainen",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q665126",
+"title": "Three to Tango",
+"year": 1999,
+"runtime_min": 94,
+"director": [
+"Damon Santostefano"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0144640",
+"tmdb": "10563",
+"enwiki": "Three to Tango",
+"wd_desc": "1999 film directed by Damon Santostefano",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q16516",
+"title": "Thursday",
+"year": 1998,
+"runtime_min": 87,
+"director": [
+"Skip Woods"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0124901",
+"tmdb": "9812",
+"enwiki": "Thursday (film)",
+"wd_desc": "1998 film by Skip Woods",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q144521",
+"title": "Titicut Follies",
+"year": 1967,
+"runtime_min": 84,
+"director": [
+"Frederick Wiseman"
+],
+"subjects": [
+"mental health",
+"Bridgewater State Hospital"
+],
+"architects": [],
+"imdb": "tt0062374",
+"tmdb": "41212",
+"enwiki": "Titicut Follies",
+"wd_desc": "1967 film by Frederick Wiseman",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q7813899",
+"title": "Tokyo Is Dreaming",
+"year": 2008,
+"runtime_min": null,
+"director": [
+"Peter I. Chang"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1338686",
+"tmdb": "803460",
+"enwiki": "Tokyo Is Dreaming",
+"wd_desc": "2008 film by Peter I. Chang",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q2987914",
+"title": "Toolbox Murders",
+"year": 2004,
+"runtime_min": 95,
+"director": [
+"Tobe Hooper"
+],
+"subjects": [
+"supernatural"
+],
+"architects": [],
+"imdb": "tt0367153",
+"tmdb": "16764",
+"enwiki": "Toolbox Murders",
+"wd_desc": "2004 film by Tobe Hooper",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q118180806",
+"title": "Tower of the Sun",
+"year": 2018,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Tower of the Sun"
+],
+"architects": [],
+"imdb": "tt6153440",
+"tmdb": "604951",
+"enwiki": null,
+"wd_desc": "2018 documentary film",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q30325753",
+"title": "Traduire",
+"year": 2011,
+"runtime_min": 70,
+"director": [
+"Nurith Aviv"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1810830",
+"tmdb": "998793",
+"enwiki": "Traduire",
+"wd_desc": "2011 film by Nurith Aviv",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q913078",
+"title": "Traffic Crossing Leeds Bridge",
+"year": 1888,
+"runtime_min": 2,
+"director": [
+"Louis Le Prince"
+],
+"subjects": [
+"Leeds Bridge"
+],
+"architects": [],
+"imdb": "tt0343112",
+"tmdb": "16464",
+"enwiki": "Traffic Crossing Leeds Bridge",
+"wd_desc": "1888 film by Louis Le Prince",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q30609661",
+"title": "Trapped",
+"year": 2001,
+"runtime_min": null,
+"director": [
+"Deran Sarafian"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0279480",
+"tmdb": "180216",
+"enwiki": "Trapped (2001 film)",
+"wd_desc": "2001 film by Deran Sarafian",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q121792845",
+"title": "Traumschiffe des Sozialismus",
+"year": 2023,
+"runtime_min": 52,
+"director": [
+"Alexander Hogh"
+],
+"subjects": [
+"Gulf Fantasy",
+"Astoria",
+"Pearl II",
+"Ministerium für Staatssicherheit",
+"socialism"
+],
+"architects": [],
+"imdb": "tt28673706",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2023 documentary film directed by Alexander Hogh",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q7884350",
+"title": "Unfinished Spaces",
+"year": 2011,
+"runtime_min": null,
+"director": [
+"Alysa Nahmias"
+],
+"subjects": [
+"Cuba"
+],
+"architects": [],
+"imdb": "tt1444337",
+"tmdb": "138891",
+"enwiki": "Unfinished Spaces",
+"wd_desc": "2011 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q7887814",
+"title": "United Gates of America",
+"year": 2006,
+"runtime_min": null,
+"director": [
+"Alex Cooke"
+],
+"subjects": [
+"racism in the United States",
+"immigration to the United States"
+],
+"architects": [],
+"imdb": "tt1055324",
+"tmdb": "806231",
+"enwiki": "United Gates of America",
+"wd_desc": "2006 television film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q120878288",
+"title": "Unknown: Cosmic Time Machine",
+"year": 2023,
+"runtime_min": 64,
+"director": [],
+"subjects": [
+"universe",
+"James Webb Space Telescope"
+],
+"architects": [],
+"imdb": "tt27837488",
+"tmdb": "1128719",
+"enwiki": "Unknown: Cosmic Time Machine",
+"wd_desc": "documentary",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q112118927",
+"title": "Unloved: Huronia's Forgotten Children",
+"year": null,
+"runtime_min": 90,
+"director": [
+"Barri Cohen"
+],
+"subjects": [
+"Huronia Regional Centre",
+"children and youth",
+"intellectual disability",
+"abuse"
+],
+"architects": [],
+"imdb": "tt18949402",
+"tmdb": "956837",
+"enwiki": "Unloved: Huronia's Forgotten Children",
+"wd_desc": "2022 film directed by Barri Cohen",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q7899899",
+"title": "Urban Explorers",
+"year": 2007,
+"runtime_min": null,
+"director": [
+"Melody Gilbert"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt1249189",
+"tmdb": "61838",
+"enwiki": "Urban Explorers: Into the Darkness",
+"wd_desc": "2007 film by Melody Gilbert",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q52340917",
+"title": "Vanished Archives",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "Vanished Archives",
+"wd_desc": "2017 Hong Kong film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q3555988",
+"title": "Vernon, Florida",
+"year": 1981,
+"runtime_min": null,
+"director": [
+"Errol Morris"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0083281",
+"tmdb": "30142",
+"enwiki": "Vernon, Florida (film)",
+"wd_desc": "1981 film by Errol Morris",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q107288639",
+"title": "Viru – Oratorio to a Building",
+"year": 2013,
+"runtime_min": null,
+"director": [
+"Taru Mäkelä"
+],
+"subjects": [
+"Viru Hotel"
+],
+"architects": [],
+"imdb": "tt2066148",
+"tmdb": "493310",
+"enwiki": null,
+"wd_desc": "2013 film directed by Taru Mäkelä and Jolle Onnismaa",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q115701488",
+"title": "Voices of Liberation",
+"year": null,
+"runtime_min": null,
+"director": [
+"Koen Mortier"
+],
+"subjects": [
+"Liberation Route Europe"
+],
+"architects": [],
+"imdb": "tt11767714",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "2022 Belgian-Dutch documentary series",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q1786324",
+"title": "Volunteers",
+"year": 1985,
+"runtime_min": 103,
+"director": [
+"Nicholas Meyer"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0090274",
+"tmdb": "19259",
+"enwiki": "Volunteers (1985 film)",
+"wd_desc": "1985 film by Nicholas Meyer",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q111253602",
+"title": "Wandering Souls",
+"year": 2019,
+"runtime_min": null,
+"director": [
+"Annabel Loyola"
+],
+"subjects": [
+"history",
+"recorded history",
+"memory",
+"Montreal",
+"Quebec",
+"Canada",
+"hospital",
+"Hôtel-Dieu de Montréal",
+"cultural heritage",
+"archives",
+"religion"
+],
+"architects": [],
+"imdb": "tt19369224",
+"tmdb": null,
+"enwiki": null,
+"wd_desc": "Short documentary film directed by Annabel Loyola in 2019",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q141646129",
+"title": "War of Positions",
+"year": null,
+"runtime_min": null,
+"director": [],
+"subjects": [],
+"architects": [],
+"imdb": null,
+"tmdb": null,
+"enwiki": "War of Positions",
+"wd_desc": "1983 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q18193879",
+"title": "We Are the Lambeth Boys",
+"year": 1959,
+"runtime_min": 53,
+"director": [
+"Karel Reisz"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0052380",
+"tmdb": "117484",
+"enwiki": "We Are the Lambeth Boys",
+"wd_desc": "1959 short film directed by Karel Reisz",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q27027188",
+"title": "Westerbork film",
+"year": 1950,
+"runtime_min": 150,
+"director": [],
+"subjects": [
+"Westerbork Transit Camp"
+],
+"architects": [],
+"imdb": "tt14521548",
+"tmdb": "1045124",
+"enwiki": "Westerbork film",
+"wd_desc": "1944 film shot in transit camp Westerbork in WWII commissioned by the SS.",
+"sources": [
+"building-subject",
+"structure-subject"
+]
+},
+{
+"qid": "Q32942287",
+"title": "Where'd You Go, Bernadette",
+"year": 2019,
+"runtime_min": 109,
+"director": [
+"Richard Linklater"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt2365580",
+"tmdb": "405177",
+"enwiki": "Where'd You Go, Bernadette (film)",
+"wd_desc": "2019 film directed by Richard Linklater",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q23755376",
+"title": "Why Beauty Matters",
+"year": 2009,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"beauty",
+"criticism of postmodernism",
+"Anthony Ashley-Cooper, 3rd Earl of Shaftesbury",
+"Immanuel Kant",
+"Stabat Mater",
+"Marcel Duchamp",
+"postmodern architecture",
+"Symposium"
+],
+"architects": [],
+"imdb": "tt3006616",
+"tmdb": "220290",
+"enwiki": "Why Beauty Matters",
+"wd_desc": "2009 film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q130383844",
+"title": "Why is We Americans?",
+"year": null,
+"runtime_min": null,
+"director": [
+"Udi Aloni"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt12490842",
+"tmdb": "923888",
+"enwiki": "Why Is We Americans?",
+"wd_desc": "2020 documentary film",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q109237705",
+"title": "Wochiigii lo: End of the Peace",
+"year": 2021,
+"runtime_min": null,
+"director": [],
+"subjects": [
+"Site C dam"
+],
+"architects": [],
+"imdb": "tt15302236",
+"tmdb": "865307",
+"enwiki": "Wochiigii lo: End of the Peace",
+"wd_desc": "2021 Canadian documentary film",
+"sources": [
+"structure-subject"
+]
+},
+{
+"qid": "Q8030684",
+"title": "Woman Chases Man",
+"year": 1937,
+"runtime_min": 71,
+"director": [
+"John G. Blystone"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0029789",
+"tmdb": "106574",
+"enwiki": "Woman Chases Man",
+"wd_desc": "1937 film by John G. Blystone",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q8051188",
+"title": "Yeh Gulistan Hamara",
+"year": 1972,
+"runtime_min": null,
+"director": [
+"Atma Ram"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0069522",
+"tmdb": "107552",
+"enwiki": "Yeh Gulistan Hamara",
+"wd_desc": "1972 film by Atma Ram",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q26899795",
+"title": "Yellowing",
+"year": 2016,
+"runtime_min": 128,
+"director": [
+"Tze Woon Chan"
+],
+"subjects": [
+"2014 Hong Kong protests"
+],
+"architects": [],
+"imdb": "tt5456136",
+"tmdb": "398663",
+"enwiki": "Yellowing (film)",
+"wd_desc": "2016 film by Tze Woon Chan",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q28495518",
+"title": "Épouse-moi mon pote",
+"year": 2017,
+"runtime_min": 92,
+"director": [
+"Tarek Boudali"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt6021478",
+"tmdb": "432613",
+"enwiki": "Épouse-moi mon pote",
+"wd_desc": "2017 film directed by Tarek Boudali",
+"sources": [
+"wikipedia"
+]
+},
+{
+"qid": "Q124831518",
+"title": "Études des mouvements à Paris",
+"year": null,
+"runtime_min": null,
+"director": [
+"Joris Ivens"
+],
+"subjects": [],
+"architects": [],
+"imdb": "tt0164239",
+"tmdb": "189943",
+"enwiki": "Études des mouvements à Paris",
+"wd_desc": "1927 film",
+"sources": [
+"wikipedia"
+]
+}
+]
