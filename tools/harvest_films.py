@@ -57,6 +57,33 @@ SUBJECT_QUERIES = {
 WP_CATEGORIES = ['Documentary films about architecture', 'Films about architecture', 'Documentary films about architects',
                  'Documentary films about urban planning', 'Documentary films about buildings and structures']
 
+
+# Titles to look up by name. These are probes, not facts: a title here only asks Wikipedia whether such a film
+# exists. Everything the shelf shows — director, year, runtime, the quoted line — comes from the page that is
+# found, exactly as for every other source, and a title that resolves to nothing is simply dropped. The list
+# leans Western, as the audience does, with some work from elsewhere that is under-represented.
+TITLE_SEEDS = [
+    'Koolhaas Houselife', 'REM Rem Koolhaas documentary', 'How Much Does Your Building Weigh, Mr Foster?',
+    'The Human Scale film', 'Citizen Jane: Battle for the City', 'The Infinite Happiness film', 'Moriyama-San film',
+    'Cathedrals of Culture', 'Visual Acoustics film', 'Coast Modern film', 'Microtopia film', 'The Competition film',
+    'Archiculture', 'Bauhaus Spirit', 'Concrete Love film', 'Big Time Bjarke Ingels', 'Regular or Super film',
+    'The Oyler House Richard Neutra', 'Leaning Into the Wind', 'Eero Saarinen The Architect Who Saw the Future',
+    'Louis Kahn Silence and Light', 'Glenn Murcutt Spirit of Place', 'Oscar Niemeyer A Vida e um Sopro',
+    'The Experimental City film', 'A Machine to Live In', 'Integral Man film', 'The New Bauhaus film',
+    'Zaha Hadid Who Dares Wins', 'Abstract: The Art of Design', 'The World\'s Most Extraordinary Homes',
+    'Grand Designs', 'Barbicania', 'Jane Jacobs film', 'Making Space 5 Women Changing the Face of Architecture',
+    'The Architecture of Mud', 'Modern Ruin A World\'s Fair Pavilion', 'Gray Matters Florence Knoll',
+    'Milton Keynes documentary', 'The Pruitt-Igoe Myth', 'The Destruction of Memory', 'Cities of the Future film',
+    'Brasilia Life After Design', 'Bird\'s Nest Herzog de Meuron in China', 'Living Architecture film',
+    'The Socialist Architecture', 'Dome of the Rock documentary', 'Tadao Ando documentary', 'Shigeru Ban documentary',
+    'Alvaro Siza documentary', 'Balkrishna Doshi documentary', 'Charles Correa documentary', 'Geoffrey Bawa documentary',
+    'Laurie Baker documentary', 'Kevin Roche The Quiet Architect', 'Paul Williams architect documentary',
+    'Columbus Indiana architecture documentary', 'Helvetica film', 'Objectified film', 'Rams film Gary Hustwit',
+    'Workplace film Gary Hustwit', 'Ettore Sottsass documentary', 'Finding Frank Lloyd Wright',
+    'A Century of Modern Architecture', 'The Brutalism documentary', 'Concrete Poetry documentary',
+    'Utopia London', 'The Great Wall documentary architecture', 'Vers une architecture film',
+]
+
 TMDB_KEYWORDS = ['architecture', 'architect', 'brutalism', 'bauhaus', 'urban planning', 'skyscraper', 'modernist architecture']
 
 
@@ -123,6 +150,21 @@ def wp_search_categories():
                     found.append(t)
     print(f'category search found: {found}')
     return found
+
+
+def wp_by_title(probe):
+    """Ask Wikipedia whether a film of roughly this name has a page. Returns its real page title, or None."""
+    url = WP_API + '?' + urllib.parse.urlencode({'action': 'query', 'format': 'json', 'list': 'search',
+                                                 'srsearch': probe, 'srnamespace': '0', 'srlimit': '3'})
+    raw = get(url)
+    hits = (json.loads(raw).get('query', {}).get('search', []) if raw else [])
+    want = set(re.findall(r'[a-z0-9]+', probe.lower()))
+    for h in hits:
+        got = set(re.findall(r'[a-z0-9]+', h['title'].lower()))
+        # the page must carry most of the distinctive words asked for, so a loose search cannot drift to another film
+        if got and len(want & got) >= max(2, min(len(want), len(got)) * 0.6):
+            return h['title']
+    return None
 
 
 def wp_extracts(titles):
@@ -274,6 +316,11 @@ def main():
         print(f'wikipedia "{cat}": {len(pages)} pages, {len(subs)} subcategories')
         for t in pages:
             page_cat[t].add(cat)
+    for probe in TITLE_SEEDS:
+        t = wp_by_title(probe)
+        if t:
+            page_cat[t].add('seed-title')
+        print(f'  seed {probe[:46]:<48}-> {t or "no page"}')
     wp_pages = sorted(page_cat)
     title_qid = wd_by_titles(wp_pages)
     for q, title in title_qid.items():

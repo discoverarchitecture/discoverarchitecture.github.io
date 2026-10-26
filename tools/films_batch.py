@@ -82,7 +82,7 @@ def relevant(c):
         return True                       # its subject is an architect the wall already shows
     if EVENT.search(text) and not ARCH.search(text):
         return False                      # the building is the setting, not the subject, whatever category it sits in
-    if TRUSTED.search(src) or 'architect-subject' in src:
+    if TRUSTED.search(src) or 'architect-subject' in src or 'seed-title' in src:
         return True
     return bool(ARCH.search(text))
 

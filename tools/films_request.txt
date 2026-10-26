@@ -1,2 +1,2 @@
 python -u tools/harvest_films.py
-# run 3, 26 Oct: per-category sources, is_doc, Wikipedia opening paragraphs
+# run 4, 26 Oct: candidate titles looked up by name, to grow the shelf towards 80-100
