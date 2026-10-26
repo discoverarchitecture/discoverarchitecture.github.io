@@ -1,0 +1,43 @@
+# Runs the films tools on GitHub's servers (open internet) and commits the results back.
+# Trigger: change tools/films_request.txt on the documentaries branch, or run it by hand from the Actions tab.
+# The first line of tools/films_request.txt is a command: python -u tools/harvest_films.py
+# The TMDB key (optional) is the repository secret TMDB_API_KEY; it is never written to a file.
+name: Fetch films
+on:
+  push:
+    branches: ['claude/documentaries']
+    paths: ['tools/films_request.txt']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fetch-films
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run the films tool
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          FIRST=$(head -n1 tools/films_request.txt)
+          case "$FIRST" in
+            "python -u tools/harvest_films.py"*) $FIRST ;;
+            *) echo "Unknown command: $FIRST"; exit 1 ;;
+          esac
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A tools
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Films harvest results"
+          git pull --rebase -X theirs || { git rebase --abort; git pull --no-rebase -X ours; }
+          git push
