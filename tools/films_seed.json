@@ -1,1 +1,1244 @@
-[]
+[
+ {
+  "id": "antonio-gaudi",
+  "title": "Antonio Gaudi",
+  "year": "1984",
+  "y": 1984,
+  "kind": "feature",
+  "director": [
+   "Hiroshi Teshigahara"
+  ],
+  "runtime_min": 72,
+  "language": null,
+  "summary": "A documentary by Hiroshi Teshigahara in which the director visits Antoni Gaudí's buildings, including houses in Barcelona and the Sagrada Família.",
+  "about": {
+   "architects": [
+    "Antoni Gaudi"
+   ],
+   "buildings": [
+    "sagrada-familia"
+   ]
+  },
+  "genres": [
+   "Portrait of an architect",
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0086907",
+  "letterboxd": null,
+  "qid": "Q4776652",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Antonio_Gaudi_(film)",
+    "quote": "In the film the director visits the buildings including houses in Barcelona and the Sagrada Família."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "37239"
+ },
+ {
+  "id": "battle-for-the-city",
+  "title": "Battle for the City",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Jouko Aaltonen"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary by Jouko Aaltonen about the city of Turku and its controversial 'disease of Turku'.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1673431",
+  "letterboxd": null,
+  "qid": "Q4870181",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Battle_for_the_City",
+    "quote": "directed by Jouko Aaltonen about the city of Turku, including the controversial \"disease of Turku\"."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "415912"
+ },
+ {
+  "id": "city-dreamers",
+  "title": "City Dreamers",
+  "year": "",
+  "y": 0,
+  "kind": "feature",
+  "director": [
+   "Joseph Hillel"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A Canadian documentary about four women architects: Phyllis Lambert, Blanche Lemco van Ginkel, Cornelia Oberlander and Denise Scott Brown.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt8558504",
+  "letterboxd": null,
+  "qid": "Q86754496",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/City_Dreamers",
+    "quote": "The film focuses on Phyllis Lambert, Blanche Lemco van Ginkel, Cornelia Oberlander and Denise Scott Brown, four significant innovators in contemporary architecture who were among the first prominent women architects."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "600955"
+ },
+ {
+  "id": "garbage-warrior",
+  "title": "Garbage Warrior",
+  "year": "2007",
+  "y": 2007,
+  "kind": "feature",
+  "director": [
+   "Oliver Hodge"
+  ],
+  "runtime_min": 86,
+  "language": null,
+  "summary": "A 2007 American film about the architect Mike Reynolds, inventor of the Earthship style of building.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect",
+   "Landscape & sustainability"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1104694",
+  "letterboxd": null,
+  "qid": "Q3095310",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Garbage_Warrior",
+    "quote": "Garbage Warrior is a 2007 American film about architect Mike Reynolds, inventor of the Earthship style of building, directed by Oliver Hodge."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "29110"
+ },
+ {
+  "id": "i-am-belfast",
+  "title": "I am Belfast",
+  "year": "2015",
+  "y": 2015,
+  "kind": "feature",
+  "director": [
+   "Mark Cousins"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary by Mark Cousins about the city of Belfast.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt3847390",
+  "letterboxd": null,
+  "qid": "Q30636911",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/I_Am_Belfast",
+    "quote": "I Am Belfast is a 2015 documentary film about Belfast, directed by Mark Cousins."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "332806"
+ },
+ {
+  "id": "l-esprit-de-mopti",
+  "title": "L'Esprit de Mopti",
+  "year": "1999",
+  "y": 1999,
+  "kind": "feature",
+  "director": [
+   "Moussa Ouane",
+   "Pascal Letellier"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 1999 documentary about the city of Mopti in Mali, directed by Moussa Ouane.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0290600",
+  "letterboxd": null,
+  "qid": "Q3203268",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/L'Esprit_de_Mopti",
+    "quote": "L'Esprit de Mopti (English: spirit of Mopti) is a 1999 documentary film about the city of Mopti, Mali, directed by Moussa Ouane."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": null
+ },
+ {
+  "id": "marvellous-melbourne",
+  "title": "Marvellous Melbourne",
+  "year": "1910",
+  "y": 1910,
+  "kind": "feature",
+  "director": [
+   "Charles Cozens Spencer"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 1910 documentary that takes viewers through the hotspots of Melbourne's central business district.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt5328220",
+  "letterboxd": null,
+  "qid": "Q15039599",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Marvellous_Melbourne",
+    "quote": "takes the audience through the hotspots of its central business district and surrounding features"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": null
+ },
+ {
+  "id": "monument-to-the-dream",
+  "title": "Monument to the Dream",
+  "year": "1967",
+  "y": 1967,
+  "kind": "feature",
+  "director": [
+   "Charles Guggenheim"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 1967 short documentary about the Gateway Arch National Park.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0061990",
+  "letterboxd": null,
+  "qid": "Q6906890",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Monument_to_the_Dream",
+    "quote": "Monument to the Dream is a 1967 American short documentary film about the Gateway Arch National Park directed by Charles Guggenheim and narrated by Paul Richards."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "243315"
+ },
+ {
+  "id": "sea-point-days",
+  "title": "Sea Point Days",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "director": [
+   "François Verster"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 2008 documentary about the Cape Town suburb of Sea Point, directed by François Verster.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1264907",
+  "letterboxd": null,
+  "qid": "Q3476666",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sea_Point_Days",
+    "quote": "Sea Point Days is a 2008 documentary film about the Cape Town suburb of Sea Point, directed by François Verster."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "357662"
+ },
+ {
+  "id": "sotsgorod-cities-for-utopia",
+  "title": "Sotsgorod: Cities for Utopia",
+  "year": "1995",
+  "y": 1995,
+  "kind": "feature",
+  "director": [
+   "Anna Abrahams"
+  ],
+  "runtime_min": 92,
+  "language": null,
+  "summary": "A Dutch documentary about Western European architects whom the Soviet Union invited to build socialist cities in Siberia.",
+  "about": {
+   "architects": [
+    "Mart Stam"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history",
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0826248",
+  "letterboxd": null,
+  "qid": "Q7564025",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sotsgorod:_Cities_for_Utopia",
+    "quote": "about a group of Western European architects who were invited by the Soviet Union to construct \"socialist cities\" in Siberia during the late 1920s and early 1930s"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "798236"
+ },
+ {
+  "id": "taq-kasra-wonder-of-architecture",
+  "title": "Taq Kasra: Wonder of Architecture",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "director": [
+   "Pejman Akbarzadeh"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 2018 documentary on Taq Kasra, the world's largest brick vault, an ancient Persian monument.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt7992280",
+  "letterboxd": null,
+  "qid": "Q54322665",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Taq_Kasra:_Wonder_of_Architecture",
+    "quote": "Taq Kasra: Wonder of Architecture is a 2018 documentary film on the world's largest brick vault, Taq Kasra."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": null
+ },
+ {
+  "id": "the-pruitt-igoe-myth",
+  "title": "The Pruitt-Igoe Myth",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Chad Freidrichs"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 2011 documentary on the history of the Pruitt–Igoe public housing complex in St. Louis and its demolition.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Housing & social",
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1788461",
+  "letterboxd": null,
+  "qid": "Q16254335",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_Pruitt-Igoe_Myth",
+    "quote": "The Pruitt-Igoe Myth is a 2011 documentary film detailing the history of the Pruitt–Igoe public housing complex in St. Louis, Missouri, and the eventual decision to raze the entire complex in 1976."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "84407"
+ },
+ {
+  "id": "tokyo-is-dreaming",
+  "title": "Tokyo Is Dreaming",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "director": [
+   "Peter I. Chang"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary by Peter I. Chang that depicts life in Tokyo, the Japanese capital.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1338686",
+  "letterboxd": null,
+  "qid": "Q7813899",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Tokyo_Is_Dreaming",
+    "quote": "which depicts life in the Japanese capital"
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "803460"
+ },
+ {
+  "id": "urbanized",
+  "title": "Urbanized",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Gary Hustwit"
+  ],
+  "runtime_min": 85,
+  "language": null,
+  "summary": "A 2011 documentary by Gary Hustwit about how cities are designed, with interviews with planners and architects.",
+  "about": {
+   "architects": [
+    "Oscar Niemeyer"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1701976",
+  "letterboxd": null,
+  "qid": "Q7900236",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Urbanized",
+    "quote": "The documentary discusses how cities are designed, and it features interviews with urban planners and architects, such as Oscar Niemeyer and Jan Gehl."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "77269"
+ },
+ {
+  "id": "the-last-wright-frank-lloyd-wright-and-the-park-inn-hotel",
+  "title": "The Last Wright: Frank Lloyd Wright and the Park Inn Hotel",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "director": [
+   "Lucille Carra"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 2008 documentary about the only surviving hotel designed by Frank Lloyd Wright, the Park Inn Hotel.",
+  "about": {
+   "architects": [
+    "Frank Lloyd Wright"
+   ],
+   "buildings": [
+    "solomon-r-guggenheim-museum",
+    "cedar-rock-lowell-walter-house"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0958854",
+  "letterboxd": null,
+  "qid": "Q7746208",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_Last_Wright:_Frank_Lloyd_Wright_and_the_Park_Inn_Hotel",
+    "quote": "The Last Wright is a 2008 American documentary film which focuses on the only surviving hotel designed by Frank Lloyd Wright, the Park Inn Hotel."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": null
+ },
+ {
+  "id": "berlin-babylon",
+  "title": "Berlin Babylon",
+  "year": "2001",
+  "y": 2001,
+  "kind": "feature",
+  "director": [
+   "Hubertus Siegert"
+  ],
+  "runtime_min": 92,
+  "language": null,
+  "summary": "A 2001 documentary on the extensive rebuilding projects in Berlin after the fall of the Berlin Wall.",
+  "about": {
+   "architects": [
+    "Rem Koolhaas",
+    "Renzo Piano",
+    "I. M. Pei"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0276819",
+  "letterboxd": null,
+  "qid": "Q821252",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Berlin_Babylon",
+    "quote": "The film's main focus is on the extensive rebuilding projects in Berlin after the fall of the Berlin Wall."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "250989"
+ },
+ {
+  "id": "city-of-gold",
+  "title": "City of Gold",
+  "year": "1957",
+  "y": 1957,
+  "kind": "feature",
+  "director": [
+   "Wolf Koenig",
+   "Colin Low"
+  ],
+  "runtime_min": 22,
+  "language": null,
+  "summary": "A 1957 documentary by Colin Low and Wolf Koenig, chronicling Dawson City during the Klondike Gold Rush.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0050255",
+  "letterboxd": null,
+  "qid": "Q5123702",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/City_of_Gold_(1957_film)",
+    "quote": "City of Gold is a 1957 Canadian documentary film by Colin Low and Wolf Koenig, chronicling Dawson City during the Klondike Gold Rush."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "128441"
+ },
+ {
+  "id": "if-you-build-it",
+  "title": "If You Build It",
+  "year": "2013",
+  "y": 2013,
+  "kind": "feature",
+  "director": [
+   "Patrick Creadon"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary following a year in a design-based high school program, from design to the sixteen-week build of a farmer's market pavilion.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story",
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt2322482",
+  "letterboxd": null,
+  "qid": "Q18150985",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/If_You_Build_It",
+    "quote": "The documentary follows a year in the life of an innovative, design-based high school program, culminating with the design and sixteen-week construction of a farmer's market pavilion, the only farmers market pavilion in the U.S. designed and built by high school students."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "241573"
+ },
+ {
+  "id": "the-delhi-way",
+  "title": "The Delhi Way",
+  "year": "1964",
+  "y": 1964,
+  "kind": "feature",
+  "director": [
+   "James Ivory"
+  ],
+  "runtime_min": 50,
+  "language": null,
+  "summary": "A 1964 documentary about the city of Delhi, made by James Ivory.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0208892",
+  "letterboxd": null,
+  "qid": "Q7729654",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_Delhi_Way",
+    "quote": "The Delhi Way is a 1964 documentary about Delhi produced, written, photographed and directed by James Ivory."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "185160"
+ },
+ {
+  "id": "the-vision-of-paolo-soleri-prophet-in-the-desert",
+  "title": "The Vision of Paolo Soleri: Prophet in the Desert",
+  "year": "2013",
+  "y": 2013,
+  "kind": "feature",
+  "director": [
+   "Lisa Scafuro"
+  ],
+  "runtime_min": 88,
+  "language": null,
+  "summary": "A 2013 documentary about the life and work of the late architect and environmentalist Paolo Soleri.",
+  "about": {
+   "architects": [
+    "Paolo Soleri"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt2250180",
+  "letterboxd": null,
+  "qid": "Q17088834",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_Vision_of_Paolo_Soleri:_Prophet_in_the_Desert",
+    "quote": "The Vision of Paolo Soleri: Prophet in the Desert is a 2013 American documentary film about the life and work of the late Italian architect and environmentalist Paolo Soleri."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "948905"
+ },
+ {
+  "id": "unfinished-spaces",
+  "title": "Unfinished Spaces",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Alysa Nahmias"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on the story of the art schools in Cuba, from their founding to their ruin and recent efforts to restore them.",
+  "about": {
+   "architects": [
+    "Ricardo Porro",
+    "Roberto Gottardi",
+    "Vittorio Garatti"
+   ],
+   "buildings": [
+    "national-art-schools-havana"
+   ]
+  },
+  "genres": [
+   "Building story"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1444337",
+  "letterboxd": null,
+  "qid": "Q7884350",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Unfinished_Spaces",
+    "quote": "The film tells the dramatic story of the art schools from their founding by Fidel Castro and Che Guevara to their eventual abandonment and fall into ruin and recent efforts to restore them."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "138891"
+ },
+ {
+  "id": "dilli",
+  "title": "Dilli",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on urbanization, development and space in Delhi, told through the people who live there.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism",
+   "Housing & social"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1899160",
+  "letterboxd": null,
+  "qid": "Q5276888",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Dilli_(film)",
+    "quote": "Dilli is an Indian documentary film that explores issues of urbanization, development and space through the narratives of people living in Delhi, capital to the world's largest democracy."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "706067"
+ },
+ {
+  "id": "eames-the-architect-and-the-painter",
+  "title": "Eames: The Architect and the Painter",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Bill Jersey",
+   "Jason Cohn"
+  ],
+  "runtime_min": 83,
+  "language": null,
+  "summary": "A documentary on the Eames couple and the Eames Office, starting with chair design and moving through architecture, photography and film.",
+  "about": {
+   "architects": [
+    "Charles and Ray Eames",
+    "Kevin Roche"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect",
+   "Design process"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1972646",
+  "letterboxd": null,
+  "qid": "Q5325503",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Eames:_The_Architect_and_the_Painter",
+    "quote": "The film moves between a narrative about the husband and wife team to one about the Eames Office and its accomplishments, starting with chair design, but also moving through architecture, photography and film."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "75442"
+ },
+ {
+  "id": "great-expectations",
+  "title": "Great Expectations",
+  "year": "2007",
+  "y": 2007,
+  "kind": "feature",
+  "director": [],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 2007 documentary by Jesper Wachtmeister on the history of visionary architecture.",
+  "about": {
+   "architects": [
+    "Le Corbusier",
+    "Oscar Niemeyer",
+    "Peter Cook",
+    "Buckminster Fuller",
+    "Moshe Safdie",
+    "Paolo Soleri"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1051999",
+  "letterboxd": null,
+  "qid": "Q5599134",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Great_Expectations_(2007_film)",
+    "quote": "Great Expectations (a journey through the history of visionary architecture) is a 2007 documentary about the history of visionary architecture by director Jesper Wachtmeister."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "303979"
+ },
+ {
+  "id": "lullaby-to-my-father",
+  "title": "Lullaby to My Father",
+  "year": "2012",
+  "y": 2012,
+  "kind": "feature",
+  "director": [
+   "Amos Gitai"
+  ],
+  "runtime_min": 82,
+  "language": null,
+  "summary": "A documentary about Gitai's father, Munio Weinraub, an eminent Israeli architect.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt2365895",
+  "letterboxd": null,
+  "qid": "Q6702864",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Lullaby_to_My_Father",
+    "quote": "The film relates the story of Gitai's father, Munio Weinraub (1909-1970), an eminent Israeli architect."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "159297"
+ },
+ {
+  "id": "mendelsohn-s-incessant-visions",
+  "title": "Mendelsohn's Incessant Visions",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Duki Dror"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary on the German-Jewish architect Erich Mendelsohn, told through letters with Louise, the young cellist who became his wife.",
+  "about": {
+   "architects": [
+    "Erich Mendelsohn"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt2007403",
+  "letterboxd": null,
+  "qid": "Q18170195",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Incessant_Visions",
+    "quote": "The film takes as its focus the German-Jewish architect Erich Mendelsohn, exposing the complexities and intricacies of Mendelsohn's life and work through a series of letters with Louise, the young cellist who would eventually become his wife."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "303995"
+ },
+ {
+  "id": "my-architect",
+  "title": "My Architect",
+  "year": "2003",
+  "y": 2003,
+  "kind": "feature",
+  "director": [
+   "Nathaniel Kahn"
+  ],
+  "runtime_min": 116,
+  "language": null,
+  "summary": "A documentary by Nathaniel Kahn, his son, on the American architect Louis Kahn and his extraordinary career.",
+  "about": {
+   "architects": [
+    "Louis Kahn",
+    "B. V. Doshi",
+    "Philip Johnson",
+    "Frank Gehry",
+    "I. M. Pei",
+    "Moshe Safdie"
+   ],
+   "buildings": [
+    "yale-center-for-british-art",
+    "salk-institute",
+    "national-assembly-of-bangladesh",
+    "iim-ahmedabad"
+   ]
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0373175",
+  "letterboxd": null,
+  "qid": "Q1249229",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/My_Architect",
+    "quote": "My Architect: A Son's Journey is a 2003 documentary film about the American architect Louis Kahn (1901–1974), by his son Nathaniel Kahn, detailing the architect's extraordinary career and his familial legacy after his death in 1974."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "50314"
+ },
+ {
+  "id": "ruins-of-the-reich",
+  "title": "Ruins of the Reich",
+  "year": "2007",
+  "y": 2007,
+  "kind": "series",
+  "director": [
+   "R. J. Adams"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A documentary series on the rise and fall of the Third Reich, told through its architecture.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "Building story",
+   "Movement & history"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt1345511",
+  "letterboxd": null,
+  "qid": "Q7378803",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Ruins_of_the_Reich",
+    "quote": "Ruins of the Reich is a  documentary series that traces the rise and fall of the Third Reich through its architecture."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "583480"
+ },
+ {
+  "id": "sketches-of-frank-gehry",
+  "title": "Sketches of Frank Gehry",
+  "year": "2005",
+  "y": 2005,
+  "kind": "feature",
+  "director": [
+   "Sydney Pollack"
+  ],
+  "runtime_min": 86,
+  "language": null,
+  "summary": "A documentary by Sydney Pollack about the life and work of the Canadian-American architect Frank Gehry.",
+  "about": {
+   "architects": [
+    "Frank Gehry",
+    "Philip Johnson"
+   ],
+   "buildings": [
+    "guggenheim-bilbao",
+    "walt-disney-concert-hall"
+   ]
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0446784",
+  "letterboxd": null,
+  "qid": "Q2720627",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Sketches_of_Frank_Gehry",
+    "quote": "Sketches of Frank Gehry is a 2006 American documentary film directed by Sydney Pollack and produced by Ultan Guilfoyle, about the life and work of the Canadian-American architect Frank Gehry."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "27453"
+ },
+ {
+  "id": "spaces-the-architecture-of-paul-rudolph",
+  "title": "Spaces: The Architecture of Paul Rudolph",
+  "year": "1983",
+  "y": 1983,
+  "kind": "feature",
+  "director": [
+   "Bob Eisenhardt"
+  ],
+  "runtime_min": null,
+  "language": null,
+  "summary": "A 1983 short documentary by Bob Eisenhardt, narrated by Cliff Robertson, about the work of the architect Paul Rudolph.",
+  "about": {
+   "architects": [
+    "Paul Rudolph"
+   ],
+   "buildings": []
+  },
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt0086347",
+  "letterboxd": null,
+  "qid": "Q7572718",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Spaces:_The_Architecture_of_Paul_Rudolph",
+    "quote": "Spaces: The Architecture of Paul Rudolph is a 1983 American short documentary film narrated by Cliff Robertson and produced by Bob Eisenhardt about the work of architect Paul Rudolph."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "244452"
+ },
+ {
+  "id": "the-new-world",
+  "title": "The New World",
+  "year": "2011",
+  "y": 2011,
+  "kind": "feature",
+  "director": [
+   "Jaan Tootsen"
+  ],
+  "runtime_min": 88,
+  "language": null,
+  "summary": "A documentary by Jaan Tootsen about New World Society, a citizens' initiative to remake neighbourhoods in Uus Maailm, Tallinn.",
+  "about": {
+   "architects": [],
+   "buildings": []
+  },
+  "genres": [
+   "City & urbanism"
+  ],
+  "topics": [],
+  "movements": [],
+  "featured": null,
+  "ratings": [],
+  "imdb": "tt2080410",
+  "letterboxd": null,
+  "qid": "Q5319149",
+  "tags": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/The_New_World_(2011_film)",
+    "quote": "The New World (Estonian: Uus Maailm) is a 2011 Estonian documentary film about New World Society, a citizens' initiative in Uus Maailm, Tallinn, that aims to remake neighbourhoods and change people's lives."
+   }
+  ],
+  "watch": [],
+  "trailer": null,
+  "image": null,
+  "tmdb": "248940"
+ }
+]

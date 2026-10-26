@@ -152,10 +152,14 @@ def cmd_add(path):
             errors.append(f'{tag}: id already used')
         if key_of(f.get('title', ''), f.get('year')) in have_keys:
             errors.append(f'{tag}: already on the shelf')
+        # A film whose year no source gives keeps y = 0 and an empty year, rather than being given a guessed one.
+        raw_y = f.get('y', str(f.get('year') or '')[:4])
         try:
-            y = int(f.get('y', str(f.get('year', ''))[:4]))
-        except ValueError:
-            errors.append(f'{tag}: year {f.get("year")!r} is not a number; give "y"'); y = 0
+            y = int(raw_y)
+        except (TypeError, ValueError):
+            y = 0
+            if str(raw_y).strip():
+                errors.append(f'{tag}: year {f.get("year")!r} is not a number; give "y" or leave the year out')
         new.append({'id': f.get('id'), 'title': f.get('title'), 'year': str(f.get('year') or ''), 'y': y, 'kind': f.get('kind'),
                     'director': f.get('director', []), 'runtime_min': f.get('runtime_min'), 'language': f.get('language'),
                     'summary': f.get('summary'), 'about': {'architects': about.get('architects', []), 'buildings': about.get('buildings', [])},

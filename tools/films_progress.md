@@ -2,10 +2,12 @@
 
 | | |
 |---|---|
-| Films on the shelf | 0 |
+| Films on the shelf | 31 |
 | With a free watch link | 0 |
 | With a trailer | 0 |
-| Candidates reviewed | 0 of 0 |
+| Candidates reviewed | 74 of 368 |
 
 ## By kind
 
+- feature: 30
+- series: 1

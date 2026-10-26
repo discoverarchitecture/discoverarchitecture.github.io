@@ -1,0 +1,17 @@
+{
+ "_note": "Names a film's source uses, matched by eye to the wall's own spelling. Only exact, checked pairs belong here: a wrong link is worse than a missing one. Buildings map to a wall id, architects to the wall's spelling of the name.",
+ "buildings": {
+  "The Salk Institute": "salk-institute",
+  "The Yale Center for British Art": "yale-center-for-british-art",
+  "Guggenheim Museum Bilbao": "guggenheim-bilbao",
+  "Indian Institute of Management Ahmedabad": "iim-ahmedabad",
+  "Jatiyo Sangshad Bhaban": "national-assembly-of-bangladesh",
+  "National Art Schools (Cuba)": "national-art-schools-havana",
+  "Lowell E. Walter House (Cedar Rock)": "cedar-rock-lowell-walter-house",
+  "Sagrada Família": "sagrada-familia",
+  "Gateway Arch": "gateway-arch"
+ },
+ "architects": {
+  "I.M. Pei": "I. M. Pei"
+ }
+}
