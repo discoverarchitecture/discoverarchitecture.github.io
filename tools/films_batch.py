@@ -6,6 +6,11 @@
   python3 tools/films_batch.py stats            write tools/films_progress.md
   python3 tools/films_batch.py count            how many candidates are left
 
+Linking fields use the wall's own words: `architects` (names as the wall resolves them), `buildings` (wall ids),
+`movements` and `topics` (values from the wall's movement, type, city and idea lists), `genres` (GENRES below),
+`featured` (rank 1-5 or null), `ratings` [{source, value, scale, votes, url, checked}] (only TMDB carries a number;
+IMDb and Letterboxd are `links` with no number), `imdb`, `letterboxd`, `qid`.
+
 A batch file is {"add": [film, ...], "reject": ["candidate key", ...]}. A film has the seed fields:
 id, title, year, y, kind (feature|series|episode|lecture), director[], runtime_min, language, summary,
 about{architects[], buildings[]}, tags[], sources[{url, quote}], watch[{provider, country, type, url, checked}],
@@ -23,6 +28,7 @@ CANDS = ROOT / 'tools' / 'films_candidates.json'
 REVIEWED = ROOT / 'tools' / 'films_reviewed.json'
 PROGRESS = ROOT / 'tools' / 'films_progress.md'
 KINDS = ['feature', 'series', 'episode', 'lecture']
+GENRES = ['Portrait of an architect', 'Building story', 'City & urbanism', 'Housing & social', 'Design process', 'Movement & history', 'Landscape & sustainability']
 WATCH_TYPES = ['free', 'subscription', 'rent', 'buy']
 
 
@@ -82,7 +88,17 @@ def cmd_add(path):
         for s in f.get('sources', []):
             if not (s.get('url') and s.get('quote')):
                 errors.append(f'{tag}: every source needs a url and a quote')
-        about = f.get('about', {})
+        about = f.get('about') or {'architects': f.get('architects', []), 'buildings': f.get('buildings', [])}
+        for g in f.get('genres', []):
+            if g not in GENRES:
+                errors.append(f'{tag}: unknown genre {g!r}')
+        if not f.get('genres'):
+            errors.append(f'{tag}: needs at least one genre')
+        if f.get('featured') not in (None, 1, 2, 3, 4, 5):
+            errors.append(f'{tag}: featured must be 1-5 or null')
+        for r in f.get('ratings', []):
+            if r.get('source') != 'TMDB' or not (r.get('value') and r.get('checked')):
+                errors.append(f'{tag}: only TMDB ratings carry a number, with a checked date')
         for a in about.get('architects', []):
             if a not in names:
                 errors.append(f'{tag}: the wall has no architect named {a!r}')
@@ -107,6 +123,8 @@ def cmd_add(path):
         new.append({'id': f.get('id'), 'title': f.get('title'), 'year': str(f.get('year') or ''), 'y': y, 'kind': f.get('kind'),
                     'director': f.get('director', []), 'runtime_min': f.get('runtime_min'), 'language': f.get('language'),
                     'summary': f.get('summary'), 'about': {'architects': about.get('architects', []), 'buildings': about.get('buildings', [])},
+                    'genres': f.get('genres', []), 'topics': f.get('topics', []), 'movements': f.get('movements', []),
+                    'featured': f.get('featured'), 'ratings': f.get('ratings', []), 'imdb': f.get('imdb'), 'letterboxd': f.get('letterboxd'), 'qid': f.get('qid'),
                     'tags': f.get('tags', []), 'sources': f.get('sources', []), 'watch': f.get('watch', []),
                     'trailer': f.get('trailer'), 'image': f.get('image'), 'tmdb': f.get('tmdb')})
     if errors:
