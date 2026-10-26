@@ -64,10 +64,11 @@ EVENT = re.compile(r'\b9/11\b|september 11|terroris|al-qaeda|hijack|bombing|mass
                    r'covid|pandemic|epidemic|virus|cancer|famine|refugee|'
                    r'earthquake|tsunami|hurricane|flood|wildfire|disaster|'
                    r'murder|serial killer|kidnap|trial of|prison|drug|trafficking', re.I)
-# Categories whose films are about architecture itself, so an event or a plain description need not be argued with.
+# The categories that exist and hold films about architecture itself, as the harvest report lists them. Fiction
+# inside them is already gone by then, because Wikidata says whether a film is a documentary. "Architecture film
+# festivals" is left out: a festival is not a film.
 TRUSTED = re.compile(r'wikipedia:(Documentary films about architecture|Films about architecture|'
-                     r'Documentary films about architects|Documentary films about urban planning|'
-                     r'Documentary films about buildings)', re.I)
+                     r'Films about architects|Documentary films about urban studies)', re.I)
 
 
 def relevant(c):
@@ -79,10 +80,10 @@ def relevant(c):
         return False                      # Wikidata says it is not a documentary: fiction, however architectural
     if c.get('architects'):
         return True                       # its subject is an architect the wall already shows
+    if EVENT.search(text) and not ARCH.search(text):
+        return False                      # the building is the setting, not the subject, whatever category it sits in
     if TRUSTED.search(src) or 'architect-subject' in src:
         return True
-    if EVENT.search(text) and not ARCH.search(text):
-        return False                      # the building is the setting, not the subject
     return bool(ARCH.search(text))
 
 
