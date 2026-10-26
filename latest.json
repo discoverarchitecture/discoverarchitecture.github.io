@@ -1,18 +1,26 @@
 {
- "fetched_at": "2026-10-25T20:45:18+00:00",
+ "fetched_at": "2026-10-26T04:34:42+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1710,
+ "visits_30d": 1734,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 456,
+     "count": 460,
      "path_id": 112020267,
      "path": "/",
      "event": false,
      "title": "Find Great Architecture: buildings for architects & students",
      "max": 36
+    },
+    {
+     "count": 78,
+     "path_id": 112020274,
+     "path": "/play",
+     "event": false,
+     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
+     "max": 9
     },
     {
      "count": 76,
@@ -23,15 +31,7 @@
      "max": 12
     },
     {
-     "count": 76,
-     "path_id": 112020274,
-     "path": "/play",
-     "event": false,
-     "title": "Daily five \u00b7 Guess the building? \u00b7 Find Great Architecture",
-     "max": 9
-    },
-    {
-     "count": 25,
+     "count": 30,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -80,6 +80,14 @@
     },
     {
      "count": 6,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
+     "max": 1
+    },
+    {
+     "count": 6,
      "path_id": 113987976,
      "path": "building/indian-coffee-house",
      "event": true,
@@ -96,6 +104,14 @@
     },
     {
      "count": 6,
+     "path_id": 113838041,
+     "path": "play/daily/1-of-5",
+     "event": true,
+     "title": "Daily five finished: 1 of 5 right",
+     "max": 3
+    },
+    {
+     "count": 6,
      "path_id": 112522110,
      "path": "/architects",
      "event": false,
@@ -104,11 +120,11 @@
     },
     {
      "count": 5,
-     "path_id": 113838041,
-     "path": "play/daily/1-of-5",
+     "path_id": 113996457,
+     "path": "studio/details",
      "event": true,
-     "title": "Daily five finished: 1 of 5 right",
-     "max": 3
+     "title": "FGA Studio waitlist: optional answers",
+     "max": 1
     },
     {
      "count": 5,
@@ -152,10 +168,10 @@
     },
     {
      "count": 4,
-     "path_id": 113996447,
-     "path": "studio/signup",
-     "event": true,
-     "title": "FGA Studio waitlist sign-up",
+     "path_id": 114089631,
+     "path": "/buildings/bolgatanga-library",
+     "event": false,
+     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
      "max": 1
     },
     {
@@ -200,6 +216,14 @@
     },
     {
      "count": 3,
+     "path_id": 114317607,
+     "path": "/ideas/adaptive-reuse",
+     "event": false,
+     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 114250181,
      "path": "building/kaleva-church",
      "event": true,
@@ -212,22 +236,6 @@
      "path": "/buildings/foguang-temple-east-hall",
      "event": false,
      "title": "East Hall of Foguang Temple by Tang dynasty builders: photos",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 114089631,
-     "path": "/buildings/bolgatanga-library",
-     "event": false,
-     "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113996457,
-     "path": "studio/details",
-     "event": true,
-     "title": "FGA Studio waitlist: optional answers",
      "max": 1
     },
     {
@@ -712,6 +720,14 @@
     },
     {
      "count": 2,
+     "path_id": 113889102,
+     "path": "building/st-anna-duren",
+     "event": true,
+     "title": "St. Anna, D\u00fcren",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113885699,
      "path": "building/mit-chapel",
      "event": true,
@@ -789,44 +805,28 @@
      "event": true,
      "title": "Complexity and Contradiction in Architecture",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113734937,
-     "path": "building/bharat-bhavan",
-     "event": true,
-     "title": "Bharat Bhavan",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113702040,
-     "path": "book/body-memory-and-architecture",
-     "event": true,
-     "title": "Body, Memory, and Architecture",
-     "max": 1
     }
    ],
-   "total": 937,
+   "total": 955,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 979,
+     "count": 991,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 346,
+     "count": 347,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 39,
+     "count": 45,
      "ref_scheme": "c"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1089
+     "count": 1105
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 598
+     "count": 606
     },
     {
      "id": "Firefox",
@@ -951,22 +951,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 568
+     "count": 579
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 518
+     "count": 526
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 368
+     "count": 370
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 152
+     "count": 155
     },
     {
      "id": "Linux",
@@ -990,22 +990,22 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 916
+     "count": 922
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 219
+     "count": 221
     },
     {
      "id": "DE",
      "name": "Germany",
-     "count": 58
+     "count": 62
     },
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 56
+     "count": 57
     },
     {
      "id": "JP",
@@ -1033,6 +1033,11 @@
      "count": 22
     },
     {
+     "id": "TR",
+     "name": "Turkey",
+     "count": 22
+    },
+    {
      "id": "CA",
      "name": "Canada",
      "count": 20
@@ -1045,11 +1050,6 @@
     {
      "id": "ES",
      "name": "Spain",
-     "count": 17
-    },
-    {
-     "id": "TR",
-     "name": "Turkey",
      "count": 17
     },
     {
@@ -1128,6 +1128,11 @@
      "count": 6
     },
     {
+     "id": "PE",
+     "name": "Peru",
+     "count": 6
+    },
+    {
      "id": "RO",
      "name": "Romania",
      "count": 6
@@ -1153,9 +1158,9 @@
      "count": 5
     },
     {
-     "id": "PE",
-     "name": "Peru",
-     "count": 5
+     "id": "DO",
+     "name": "Dominican Republic",
+     "count": 4
     },
     {
      "id": "DZ",
@@ -1223,6 +1228,11 @@
      "count": 3
     },
     {
+     "id": "IR",
+     "name": "Iran",
+     "count": 3
+    },
+    {
      "id": "SI",
      "name": "Slovenia",
      "count": 3
@@ -1245,11 +1255,6 @@
     {
      "id": "HR",
      "name": "Croatia",
-     "count": 2
-    },
-    {
-     "id": "IR",
-     "name": "Iran",
      "count": 2
     },
     {
@@ -1365,17 +1370,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 875
+     "count": 885
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 47
+     "count": 48
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 720
+     "count": 733
     },
     {
      "id": "desktophd",
@@ -1395,7 +1400,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1710
+     "count": 1734
     }
    ],
    "more": false
