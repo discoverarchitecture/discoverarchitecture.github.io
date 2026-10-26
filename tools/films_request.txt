@@ -1,2 +1,2 @@
 python -u tools/harvest_films.py
-# rewritten 26 Oct: id-only Wikidata queries plus Wikipedia categories, after the first run timed out and returned nothing
+# run 3, 26 Oct: per-category sources, is_doc, Wikipedia opening paragraphs
