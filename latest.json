@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-27T04:52:44+00:00",
+ "fetched_at": "2026-10-27T12:02:06+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1803,
+ "visits_30d": 1815,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 478,
+     "count": 480,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 32,
+     "count": 34,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -71,7 +71,7 @@
      "max": 2
     },
     {
-     "count": 7,
+     "count": 8,
      "path_id": 112160373,
      "path": "/buildings",
      "event": false,
@@ -165,6 +165,14 @@
      "event": false,
      "title": "Villa Schreiner \u2014 Sverre Fehn, 1963: photos for a case study \u00b7 Find Great Architecture",
      "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 115682236,
+     "path": "/buildings/the-egg-beirut",
+     "event": false,
+     "title": "The Egg (Beirut City Center) by Joseph Philippe Karam",
+     "max": 4
     },
     {
      "count": 4,
@@ -452,6 +460,14 @@
      "path": "/buildings/villa-tugendhat",
      "event": false,
      "title": "Villa Tugendhat \u2014 Mies van der Rohe, 1930: photos, plans & sections for a case study \u00b7 Find Great Architecture",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 115569751,
+     "path": "/buildings/teatro-degli-arcimboldi",
+     "event": false,
+     "title": "Teatro degli Arcimboldi by Vittorio Gregotti: photos",
      "max": 1
     },
     {
@@ -789,32 +805,16 @@
      "event": true,
      "title": "St. Anna, D\u00fcren",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113885699,
-     "path": "building/mit-chapel",
-     "event": true,
-     "title": "MIT Chapel",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113870393,
-     "path": "building/solomon-r-guggenheim-museum",
-     "event": true,
-     "title": "Solomon R. Guggenheim Museum",
-     "max": 1
     }
    ],
-   "total": 986,
+   "total": 993,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1038,
+     "count": 1041,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 54,
+     "count": 61,
      "ref_scheme": "c"
     },
     {
@@ -850,7 +850,7 @@
     {
      "id": "wall",
      "name": "wall",
-     "count": 10,
+     "count": 11,
      "ref_scheme": "c"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1135
+     "count": 1142
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 643
+     "count": 648
     },
     {
      "id": "Firefox",
@@ -951,22 +951,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 597
+     "count": 600
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 556
+     "count": 561
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 378
+     "count": 379
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 167
+     "count": 170
     },
     {
      "id": "Linux",
@@ -990,12 +990,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 934
+     "count": 936
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 226
+     "count": 227
     },
     {
      "id": "DE",
@@ -1015,7 +1015,7 @@
     {
      "id": "JP",
      "name": "Japan",
-     "count": 33
+     "count": 34
     },
     {
      "id": "AU",
@@ -1065,7 +1065,7 @@
     {
      "id": "AE",
      "name": "United Arab Emirates",
-     "count": 13
+     "count": 14
     },
     {
      "id": "PT",
@@ -1088,6 +1088,16 @@
      "count": 9
     },
     {
+     "id": "LB",
+     "name": "Lebanon",
+     "count": 9
+    },
+    {
+     "id": "TN",
+     "name": "Tunisia",
+     "count": 9
+    },
+    {
      "id": "ID",
      "name": "Indonesia",
      "count": 8
@@ -1100,11 +1110,6 @@
     {
      "id": "NZ",
      "name": "New Zealand",
-     "count": 8
-    },
-    {
-     "id": "TN",
-     "name": "Tunisia",
      "count": 8
     },
     {
@@ -1183,11 +1188,6 @@
      "count": 4
     },
     {
-     "id": "LB",
-     "name": "Lebanon",
-     "count": 4
-    },
-    {
      "id": "LU",
      "name": "Luxembourg",
      "count": 4
@@ -1210,6 +1210,11 @@
     {
      "id": "AO",
      "name": "Angola",
+     "count": 3
+    },
+    {
+     "id": "AR",
+     "name": "Argentina",
      "count": 3
     },
     {
@@ -1250,11 +1255,6 @@
     {
      "id": "AM",
      "name": "Armenia",
-     "count": 2
-    },
-    {
-     "id": "AR",
-     "name": "Argentina",
      "count": 2
     },
     {
@@ -1370,17 +1370,17 @@
     {
      "id": "phone",
      "name": "",
-     "count": 923
+     "count": 929
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 51
+     "count": 52
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 760
+     "count": 765
     },
     {
      "id": "desktophd",
@@ -1400,7 +1400,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1803
+     "count": 1815
     }
    ],
    "more": false
