@@ -643,6 +643,7 @@
     $('byArchRel').innerHTML = relHtml(mine.slice(0, 4));
     $('relBooks').hidden = true;
     withBooks(() => { if (state.open === b) showRelatedBooks(b); });
+    showRelatedFilms(b);
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More · ' + b.type;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -683,6 +684,30 @@
       .sort((x, y) => shared(y) - shared(x) || x.y - y.y)
       .slice(0, MOVEMENT_BOOKS).forEach(add);
     return out.slice(0, RELATED_MAX);
+  }
+  // Documentaries that show this building, then ones about its architects. Loads the films file quietly the first
+  // time a building is opened; the building's own photos never wait for it, and the strip stays hidden when
+  // nothing matches, as the books strip does.
+  function relatedFilms(b) {
+    const out = [], add = f => { if (!out.includes(f)) out.push(f); };
+    FILMS.filter(f => (f.buildings || []).includes(b.id)).forEach(add);
+    const names = byOf(b);
+    FILMS.filter(f => (f.architects || []).some(a => names.includes(NAMES.canon(a)))).sort((x, y) => y.y - x.y).forEach(add);
+    return out.slice(0, 8);
+  }
+  function showRelatedFilms(b) {
+    const box = $('relFilms');
+    if (!box) return;
+    const draw = () => {
+      if (state.open !== b) return;                       // they moved on while the file loaded
+      const list = relatedFilms(b);
+      box.hidden = !list.length;
+      $('relFilmsRow').innerHTML = list.map(f =>
+        `<button type="button" data-film="${esc(f.id)}"><span class="g">${esc((f.genres || [])[0] || '')}</span>` +
+        `<b>${esc(f.title)}</b><small>${esc((f.director || [])[0] || '')}${f.year ? ' · ' + esc(f.year) : ''}</small></button>`).join('');
+    };
+    box.hidden = true;
+    if (filmsReady) draw(); else withFilms(draw);
   }
   function showRelatedBooks(b) {
     const list = relatedBooks(b), row = $('relBooksRow');
@@ -805,6 +830,7 @@
     $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
     const kin = FILMS.filter(x => x !== f && (x.genres || []).some(g => (f.genres || []).includes(g)));
     $('relBooks').hidden = true;
+    { const rf = $('relFilms'); if (rf) rf.hidden = true; }
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More · ' + ((f.genres || [])[0] || 'documentaries');
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
@@ -857,6 +883,7 @@
     $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
     const kin = sameShelf(k);
     $('relBooks').hidden = true;
+    { const rf = $('relFilms'); if (rf) rf.hidden = true; }
     $('sameType').hidden = !kin.length;
     $('sameTypeTitle').textContent = 'More on this shelf · ' + k.shelf;
     $('sameTypeAll').textContent = `All ${kin.length + 1} →`;

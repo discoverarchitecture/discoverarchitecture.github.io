@@ -266,3 +266,18 @@ html.fga-pop-on:not(.fga-pop-live) body::after { content: ''; position: fixed; i
 html.fga-pop-on:not(.fga-pop-live) body::before { content: ''; position: fixed; left: 50%; top: 50%; width: 28px; height: 28px; margin: -16px 0 0 -16px; z-index: 301;
   border: 2px solid var(--red-pale); border-top-color: var(--red); border-radius: 50%; animation: fga-pop-turn .8s linear infinite; }
 @keyframes fga-pop-turn { to { transform: rotate(360deg); } }
+
+/* Documentaries that show this building, under "More with …". Set in type: a film's poster is somebody's
+   copyright and the shelf has no licensed one. The section is not written at all when nothing matches. */
+.info .films { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.info .films .fk { display: flex; flex-direction: column; gap: 5px; padding: 13px 12px; background: var(--field-3);
+  border: 1px solid var(--hair); text-decoration: none; color: var(--ink); }
+.info .films .g { font: 500 10px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
+.info .films b { font-size: 14px; line-height: 1.2; }
+.info .films small { font: 400 11px var(--mono); color: var(--graphite); }
+@media (hover: hover) { .info .films .fk:hover { border-color: var(--red); } .info .films .fk:hover b { color: var(--red); } }
+@media (max-width: 820px) {
+  .info .films { display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+  .info .films::-webkit-scrollbar { display: none; }
+  .info .films .fk { flex: 0 0 170px; scroll-snap-align: start; }
+}
