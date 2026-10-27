@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-10-26T22:36:48+00:00",
+ "fetched_at": "2026-10-27T04:52:44+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1801,
+ "visits_30d": 1803,
  "sections": {
   "pages": {
    "hits": [
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 31,
+     "count": 32,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -807,14 +807,14 @@
      "max": 1
     }
    ],
-   "total": 985,
+   "total": 986,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1037,
+     "count": 1038,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 53,
+     "count": 54,
      "ref_scheme": "c"
     },
     {
@@ -927,7 +927,7 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1133
+     "count": 1135
     },
     {
      "id": "Safari",
@@ -951,7 +951,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 596
+     "count": 597
     },
     {
      "id": "iOS",
@@ -966,7 +966,7 @@
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 166
+     "count": 167
     },
     {
      "id": "Linux",
@@ -1053,13 +1053,13 @@
      "count": 17
     },
     {
-     "id": "FR",
-     "name": "France",
-     "count": 15
-    },
-    {
      "id": "KR",
      "name": "South Korea",
+     "count": 16
+    },
+    {
+     "id": "FR",
+     "name": "France",
      "count": 15
     },
     {
@@ -1253,6 +1253,11 @@
      "count": 2
     },
     {
+     "id": "AR",
+     "name": "Argentina",
+     "count": 2
+    },
+    {
      "id": "EG",
      "name": "Egypt",
      "count": 2
@@ -1276,11 +1281,6 @@
      "id": "TH",
      "name": "Thailand",
      "count": 2
-    },
-    {
-     "id": "AR",
-     "name": "Argentina",
-     "count": 1
     },
     {
      "id": "BG",
@@ -1375,7 +1375,7 @@
     {
      "id": "tablet",
      "name": "",
-     "count": 50
+     "count": 51
     },
     {
      "id": "desktop",
@@ -1385,7 +1385,7 @@
     {
      "id": "desktophd",
      "name": "",
-     "count": 68
+     "count": 69
     },
     {
      "id": "unknown",
@@ -1400,7 +1400,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1801
+     "count": 1803
     }
    ],
    "more": false
