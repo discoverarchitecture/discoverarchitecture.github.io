@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-27T12:02:06+00:00",
+ "fetched_at": "2026-10-27T17:56:53+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1815,
+ "visits_30d": 1825,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 480,
+     "count": 481,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 80,
+     "count": 81,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 79,
+     "count": 80,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 34,
+     "count": 35,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -39,7 +39,7 @@
      "max": 6
     },
     {
-     "count": 18,
+     "count": 19,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
@@ -47,19 +47,19 @@
      "max": 3
     },
     {
+     "count": 11,
+     "path_id": 113672778,
+     "path": "play/daily/2-of-5",
+     "event": true,
+     "title": "Daily five finished: 2 of 5 right",
+     "max": 2
+    },
+    {
      "count": 10,
      "path_id": 113976891,
      "path": "play/endless/over",
      "event": true,
      "title": "Endless run over",
-     "max": 2
-    },
-    {
-     "count": 10,
-     "path_id": 113672778,
-     "path": "play/daily/2-of-5",
-     "event": true,
-     "title": "Daily five finished: 2 of 5 right",
      "max": 2
     },
     {
@@ -688,6 +688,14 @@
     },
     {
      "count": 2,
+     "path_id": 113992539,
+     "path": "building/swaminarayan-akshardham-gandhinagar",
+     "event": true,
+     "title": "Swaminarayan Akshardham, Gandhinagar",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 113989971,
      "path": "building/james-simon-gallery",
      "event": true,
@@ -797,24 +805,16 @@
      "event": true,
      "title": "AI panel: See FGA Studio",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113889102,
-     "path": "building/st-anna-duren",
-     "event": true,
-     "title": "St. Anna, D\u00fcren",
-     "max": 1
     }
    ],
-   "total": 993,
+   "total": 999,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1041,
+     "count": 1048,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 61,
+     "count": 62,
      "ref_scheme": "c"
     },
     {
@@ -850,7 +850,7 @@
     {
      "id": "wall",
      "name": "wall",
-     "count": 11,
+     "count": 12,
      "ref_scheme": "c"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1142
+     "count": 1143
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 648
+     "count": 657
     },
     {
      "id": "Firefox",
@@ -961,12 +961,12 @@
     {
      "id": "Android",
      "name": "Android",
-     "count": 379
+     "count": 380
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 170
+     "count": 179
     },
     {
      "id": "Linux",
@@ -990,7 +990,7 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 936
+     "count": 945
     },
     {
      "id": "US",
@@ -1050,7 +1050,7 @@
     {
      "id": "ES",
      "name": "Spain",
-     "count": 17
+     "count": 18
     },
     {
      "id": "KR",
@@ -1370,7 +1370,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 929
+     "count": 930
     },
     {
      "id": "tablet",
@@ -1380,7 +1380,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 765
+     "count": 774
     },
     {
      "id": "desktophd",
@@ -1400,7 +1400,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1815
+     "count": 1825
     }
    ],
    "more": false
