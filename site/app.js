@@ -27,6 +27,28 @@
     tag.onerror = () => { booksWaiting = []; $('count').textContent = 'Books could not load'; };
     document.head.appendChild(tag);
   }
+  // Documentaries (data/films.js): each knows its genres, the architects it is about and the buildings on the wall
+  // it names. Like the books, it loads only when someone first opens Documentaries or follows a film link.
+  let FILMS = [], GENRES = [], filmsReady = false, filmsWaiting = [];
+  function takeFilms() {
+    FILMS = (window.FILMS || []).map(f => ({ ...f, kind: 'film' }));
+    GENRES = [...new Set(FILMS.flatMap(f => f.genres || []))];
+    filmsReady = true;
+    filmsWaiting.splice(0).forEach(cb => cb());
+  }
+  function withFilms(cb) {
+    if (filmsReady) return cb();
+    filmsWaiting.push(cb);
+    if (filmsWaiting.length > 1) return;
+    if (window.FILMS) return takeFilms();
+    const meta = document.querySelector('meta[name="films-data"]');
+    const tag = document.createElement('script');
+    tag.src = meta ? meta.content : 'data/films.js';
+    tag.onload = takeFilms;
+    tag.onerror = () => { filmsWaiting = []; $('count').textContent = 'Documentaries could not load'; };
+    document.head.appendChild(tag);
+  }
+
   // Shop links. Put an Amazon Associates tag here once the account is live; the disclosure line then shows itself.
   const SHOP = { amazon: 'amazon.in', tag: '' };
   // Filter groups. A building must have every chosen idea; in the other groups one match is enough.
@@ -102,16 +124,18 @@
   function shuffled(arr, r) { const a = arr.slice(); for (let k = a.length - 1; k > 0; k--) { const j = Math.floor(r() * (k + 1)); [a[k], a[j]] = [a[j], a[k]]; } return a; }
   // Height per unit of width. Kept between a wide 3:2 crop and a tall 2:3, so no tile turns into a sliver.
   function ratioOf(b) {
+    // Until there are posters, a film tile is type only, so its height follows the length of its title and summary.
+    if (b.kind === 'film') return 0.62 + Math.min(0.5, (b.title.length + (b.summary || '').length) / 320);
     if (b.kind === 'book') { const c = b.cover; return c && c.w ? Math.max(1.1, Math.min(1.75, c.h / c.w)) : 1.5; }
     const im = (b.images || [])[0];
     return im && im.w ? Math.max(2 / 3, Math.min(1.5, im.h / im.w)) : 0.75;
   }
   // Space a tile takes in its column, per unit of width: the photo or cover, plus a book's caption underneath.
   const SWIPE = new Set(window.SWIPE || []); // tiles that get photo dots, see dotsHtml
-  const heightOf = b => ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06) + (SWIPE.has(b.id) ? 0.08 : 0);
-  const keyOf = x => x.kind === 'book' ? 'book:' + x.id : x.id;
-  const thumbOf = x => x.kind === 'book' ? (x.cover ? x.cover.thumb : '') : (x.images && x.images[0] ? x.images[0].thumb : '');
-  const nameOf = x => x.kind === 'book' ? x.title : x.name;
+  const heightOf = b => b.kind === 'film' ? ratioOf(b) : ratioOf(b) + (b.kind === 'book' ? 0.4 : 0.06) + (SWIPE.has(b.id) ? 0.08 : 0);
+  const keyOf = x => x.kind === 'book' ? 'book:' + x.id : x.kind === 'film' ? 'film:' + x.id : x.id;
+  const thumbOf = x => x.kind === 'book' ? (x.cover ? x.cover.thumb : '') : x.kind === 'film' ? '' : (x.images && x.images[0] ? x.images[0].thumb : '');
+  const nameOf = x => x.kind === 'book' || x.kind === 'film' ? x.title : x.name;
   function columnCount() {
     const w = cols.clientWidth;
     return Math.max(2, Math.min(6, Math.floor((w + GAP) / (MIN_COL + GAP))));
@@ -122,6 +146,7 @@
   // skip: leave one group out, so the filter panel can count what each of its options would add
   function matches(b, skip) {
     if (b.kind === 'book') return matchesBook(b);
+    if (b.kind === 'film') return matchesFilm(b);
     for (const g of GROUPS) {
       const set = state.filters[g.key];
       if (g.key === skip || !set.size) continue;
@@ -141,7 +166,14 @@
     const hay = fold([b.title, b.by, b.year, b.shelf, b.why, (b.tags || []).join(' '), (b.architects || []).join(' ')].join(' '));
     return state.q.split(/\s+/).every(w => hay.includes(w));
   }
-  const items = () => state.mode === 'books' ? BOOKS : ALL;
+  function matchesFilm(f) {
+    if (state.shelf && !(f.genres || []).includes(state.shelf)) return false;
+    if (!state.q) return true;
+    const hay = fold([f.title, f.year, f.summary, (f.genres || []).join(' '), (f.director || []).join(' '),
+                      (f.architects || []).join(' ')].join(' '));
+    return state.q.split(/\s+/).every(w => hay.includes(w));
+  }
+  const items = () => state.mode === 'books' ? BOOKS : state.mode === 'films' ? FILMS : ALL;
   const visible = () => items().filter(matches);
 
   /* ---------- tiles ---------- */
@@ -168,10 +200,26 @@
     el.querySelector('.open').addEventListener('click', () => openBook(b.id, false, el, false, null));
     return el;
   }
+  // A film tile is set in the site's own type: there are no posters until a TMDB key exists, and a borrowed
+  // still would be somebody's copyright. The genre sits under the title, the way a book shows its shelf.
+  function filmTileEl(f) {
+    const el = document.createElement('div');
+    el.className = 'ft';
+    el.dataset.id = f.id;
+    const meta = [f.year, (f.director || [])[0]].filter(Boolean).join(' · ');
+    el.innerHTML = `<button type="button" class="open" aria-label="${esc(f.title)}${meta ? ', ' + esc(meta) : ''}">` +
+      `<span class="fg">${esc((f.genres || [])[0] || '')}</span>` +
+      `<span class="ftt">${esc(f.title)}</span>` +
+      `<span class="fsum">${esc(f.summary || '')}</span>` +
+      `<span class="fmeta">${esc(meta)}</span></button>`;
+    el.querySelector('.open').addEventListener('click', () => openFilm(f.id, false, el, false, null));
+    return el;
+  }
   function tileEl(b) {
     let el = tiles.get(keyOf(b));
     if (el) return el;
     if (b.kind === 'book') { el = bookTileEl(b); tiles.set(keyOf(b), el); return el; }
+    if (b.kind === 'film') { el = filmTileEl(b); tiles.set(keyOf(b), el); return el; }
     const n = photoCount(b);
     const city = b.place.split(',')[0]; // the tile names the first credited architect; the full credit is in the opened view
     const swipe = n > 1 && SWIPE.has(b.id); // only these get photo dots
@@ -320,8 +368,11 @@
     $('table').hidden = !atTable;
     if (atTable) drawTable();
     $('empty').hidden = list.length > 0;
-    const total = items().length, noun = state.mode === 'books' ? 'books' : 'buildings';
-    $('count').textContent = list.length === total ? `${total.toLocaleString('en')} ${noun}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`;
+    const total = items().length, noun = state.mode === 'books' ? 'books' : state.mode === 'films' ? 'documentaries' : 'buildings';
+    // The whole shelf is never given as a number (owner's rule, 14 Oct 2026); a count under a search or a genre is fine.
+    $('count').textContent = list.length === total
+      ? (state.mode === 'films' ? 'a growing shelf of documentaries' : `${total.toLocaleString('en')} ${noun}`)
+      : (state.mode === 'films' ? `${list.length.toLocaleString('en')} ${list.length === 1 ? 'documentary' : 'documentaries'}` : `${list.length.toLocaleString('en')} of ${total.toLocaleString('en')}`);
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
     renderIdeas();
@@ -650,6 +701,7 @@
   /* ---------- opened book ---------- */
   // Each book also knows the architects it is about and the buildings it names (architects[], buildings[] in data/books.js),
   // so the opened building can point to its books later. That page is not built yet.
+  const relFilmsHtml = list => list.map(f => `<button type="button" data-film="${esc(f.id)}"><span class="ph filmph">${esc(f.title)}</span>${esc(f.title)}<small>${esc((f.director || [])[0] || '')}${f.year ? ' · ' + esc(f.year) : ''}</small></button>`).join('');
   const relBooksHtml = list => list.map(k => `<button type="button" data-book="${esc(k.id)}"><span class="ph">${coverHtml(k)}</span>${esc(k.title)}<small>${esc(k.by)} · ${esc(k.year)}</small></button>`).join('');
   function portraitByName(name) {
     for (const p of Object.values(ARCH.people)) if (p.thumb && p.name === name) return p;
@@ -691,6 +743,85 @@
   }
   const sameShelf = k => BOOKS.filter(x => x !== k && x.shelf === k.shelf)
     .sort((x, y) => (y.tags || []).filter(t => (k.tags || []).includes(t)).length - (x.tags || []).filter(t => (k.tags || []).includes(t)).length || x.y - y.y);
+
+  // Buildings on the wall a film names, then everything by the architects it is about.
+  function filmBuildings(f) {
+    const out = (f.buildings || []).map(id => ALL.find(x => x.id === id)).filter(Boolean);
+    for (const a of (f.architects || []).map(NAMES.canon)) for (const x of ALL) if (byOf(x).includes(a) && !out.includes(x)) out.push(x);
+    return out;
+  }
+  function openFilm(id, surprise, fromEl, fromHistory, list) {
+    const f = FILMS.find(x => x.id === id);
+    if (!f) return;
+    if (list !== undefined) state.stepList = list;
+    if (!fromHistory && !(state.open && state.open === f)) remember(keyOf(f), surprise, !sheet.hidden);
+    state.open = f; state.seen.add(keyOf(f));
+    state.lastTile = fromEl || tiles.get(keyOf(f)) || null;
+    card.classList.add('book', 'film');
+    // A film's own poster and stills are somebody's copyright, and there is no TMDB key yet. So where the film is
+    // about a building the wall already has a free photo of, that photo stands here, labelled as the building and
+    // credited like every other photo on the site (v35 · 13). Otherwise the title stands in, as a coverless book does.
+    $('stage').innerHTML = `<span class="standin"><span class="tt">${esc(f.title)}</span><span class="au">${esc((f.director || []).join(', '))}</span></span>`;
+    $('gCap').innerHTML = '<span class="l">No free picture of this film yet</span>';
+    const shot = filmBuildings(f).find(x => (x.images || [])[0]);
+    if (shot) {
+      $('stage').innerHTML = `<img src="${esc(shot.images[0].thumb)}" alt="${esc(shot.name)}">`;
+      $('gCap').innerHTML = `<span class="c">${esc(shot.name)}, in the film</span><span class="l">Loading the photo credit…</span>`;
+      loadDetail(shot).then(d => {
+        if (state.open !== f) return;              // they moved on while it loaded
+        const im = (d.images || [])[0];
+        if (!im) return;
+        $('gCap').innerHTML = `<span class="c">${esc(shot.name)}, in the film</span>` +
+          `<span class="l">Photo ${esc(im.credit || 'unknown')}${im.license ? ' · ' + esc(im.license) : ''}` +
+          (im.source ? ` · <a href="${esc(im.source)}" target="_blank" rel="noopener">source</a>` : '') + `</span>`;
+      }).catch(() => { if (state.open === f) $('gCap').innerHTML = `<span class="c">${esc(shot.name)}, in the film</span><span class="l">Photo credit could not load</span>`; });
+    }
+    $('strip').innerHTML = '';
+    $('gPrev').hidden = $('gNext').hidden = true;
+    $('bKicker').textContent = [(f.genres || [])[0], f.kind === 'series' ? 'Series' : null].filter(Boolean).join(' · ');
+    $('bName').textContent = f.title;
+    const dir = (f.director || []).join(', ');
+    $('byline').innerHTML = dir ? `<div class="by-row"><div class="by-link"><span class="by-text"><i>directed by</i><b>${esc(dir)}</b></span></div></div>` : '';
+    $('bCredits').innerHTML = '';
+    $('where').hidden = true;
+    $('bMeta').innerHTML = esc([f.year, f.runtime_min ? f.runtime_min + ' min' : null, f.language].filter(Boolean).join(' · '));
+    $('bStudy').innerHTML = `<span>What it is about</span>${esc(f.summary || '')}`;
+    $('pageLink').hidden = true;
+    // Until TMDB data exists there are no services to list, so the card points at the places a student can look.
+    $('linksTitle').textContent = f.watch && f.watch.length ? 'Where to watch' : 'Find it';
+    $('linksMore').hidden = true; $('gKinds').hidden = true; $('bChips').classList.remove('rows'); $('chipsNote').hidden = true;
+    const rows = (f.watch && f.watch.length)
+      ? f.watch.map(w => [w.type, w.provider, w.url])
+      : (f.find || []);
+    $('links').innerHTML = rows.map(([kind, n, u]) =>
+      `<a href="${esc(u)}" target="_blank" rel="noopener"><span>${esc(kind)}</span>${esc(n)} ↗</a>`).join('');
+    $('shopNote').hidden = true;
+    const built = filmBuildings(f), who = (f.architects || [])[0];
+    $('byArch').hidden = !built.length;
+    $('byArchTitle').textContent = who ? `On the wall · by ${who}` : 'On the wall';
+    $('byArchAll').hidden = !who;
+    $('byArchAll').textContent = `All ${built.length} →`;
+    $('byArchAll').dataset.arch = who || '';
+    $('byArchRel').innerHTML = relHtml(built.slice(0, 4));
+    const kin = FILMS.filter(x => x !== f && (x.genres || []).some(g => (f.genres || []).includes(g)));
+    $('relBooks').hidden = true;
+    $('sameType').hidden = !kin.length;
+    $('sameTypeTitle').textContent = 'More · ' + ((f.genres || [])[0] || 'documentaries');
+    $('sameTypeAll').textContent = `All ${kin.length + 1} →`;
+    $('sameTypeAll').dataset.type = '';
+    $('sameTypeAll').dataset.shelf = (f.genres || [])[0] || '';
+    $('sameTypeRel').innerHTML = relFilmsHtml(kin.slice(0, 3));
+    $('bChips').innerHTML = (f.genres || []).map(g =>
+      `<button type="button" class="chip" data-shelf="${esc(g)}">${esc(g)} <span class="n">→</span></button>`).join('');
+
+    if (!sheet.hidden) { card.classList.remove('swap'); void card.offsetWidth; card.classList.add('swap'); }
+    sheet.hidden = false;
+    document.body.classList.add('locked');
+    updateDock();
+    card.querySelector('.info').scrollTop = 0;
+    card.focus({ preventScroll: true });
+    updateStep();
+  }
 
   // list: what the previous and next arrows step through (a category or today's five); null for the wall's own order.
   function openBook(id, surprise, fromEl, fromHistory, list) {
@@ -744,9 +875,13 @@
     updateStep();
   }
   // A step in the history, a hash or a tile key names either a building or a book ("book:<id>").
-  const findAny = key => key && key.startsWith('book:') ? BOOKS.find(x => x.id === key.slice(5)) : ALL.find(x => x.id === key);
+  const findAny = key => !key ? null
+    : key.startsWith('book:') ? BOOKS.find(x => x.id === key.slice(5))
+    : key.startsWith('film:') ? FILMS.find(x => x.id === key.slice(5))
+    : ALL.find(x => x.id === key);
   function openAny(key, surprise, fromHistory) {
     if (key && key.startsWith('book:')) withBooks(() => { if (state.mode !== 'books') setMode('books'); openBook(key.slice(5), surprise, null, fromHistory); });
+    else if (key && key.startsWith('film:')) withFilms(() => { if (state.mode !== 'films') setMode('films'); openFilm(key.slice(5), surprise, null, fromHistory); });
     else openBuilding(key, surprise, null, fromHistory);
   }
 
@@ -756,7 +891,7 @@
     const list = stepList(), i = state.open ? list.indexOf(state.open) : -1;
     $('step').hidden = i < 0 || list.length < 2;
     if (i < 0) return;
-    const noun = state.mode === 'books' ? 'book' : 'building';
+    const noun = state.mode === 'books' ? 'book' : state.mode === 'films' ? 'documentary' : 'building';
     const fill = (btn, x, label) => {
       btn.disabled = !x;
       btn.setAttribute('aria-label', x ? `${label} ${noun}: ${nameOf(x)}` : `No ${label.toLowerCase()} ${noun}`);
@@ -936,8 +1071,9 @@
   $('relBooksNext').addEventListener('click', () => $('relBooksRow').scrollBy({ left: BOOK_STEP, behavior: 'smooth' }));
   $('relBooksRow').addEventListener('scroll', updateBookArrows, { passive: true });
   ['byArchRel', 'sameTypeRel', 'relBooksRow'].forEach(id => $(id).addEventListener('click', e => {
-    const t = e.target.closest('button[data-id], button[data-book]'); if (!t) return;
-    if (t.dataset.book) { if (HOST) goPage('./#book:' + t.dataset.book); else openBook(t.dataset.book); } else openBuilding(t.dataset.id);
+    const t = e.target.closest('button[data-id], button[data-book], button[data-film]'); if (!t) return;
+    if (t.dataset.film) { if (HOST) goPage('./#film:' + t.dataset.film); else openFilm(t.dataset.film); }
+    else if (t.dataset.book) { if (HOST) goPage('./#book:' + t.dataset.book); else openBook(t.dataset.book); } else openBuilding(t.dataset.id);
   }));
   // Our own pages (an architect's page, a building's full page, a topic) open in a new tab on a computer, so the wall stays
   // just as it was; on a phone they open in place and Back returns to the same spot (owner, 22 Oct 2026).
@@ -1024,6 +1160,7 @@
   $('sameTypeAll').addEventListener('click', e => { const d = e.currentTarget.dataset; if (d.shelf) showBooks('', d.shelf); else showOnWall('', d.type); });
   $('bChips').addEventListener('click', e => {
     const t = e.target.closest('.chip'); if (!t) return;
+    if (t.dataset.shelf && state.mode === 'films') { state.shelf = t.dataset.shelf; closeBuilding(); render(true); return; }
     if (t.dataset.shelf) return showBooks('', t.dataset.shelf);
     if (t.dataset.tag) return showBooks(t.dataset.tag);
     if (HOST) return wallWith(t.dataset.g, t.dataset.v);
@@ -1163,6 +1300,12 @@
     return c;
   };
   function renderIdeas() {
+    if (state.mode === 'films') {
+      const n = new Map(); FILMS.forEach(f => (f.genres || []).forEach(g => n.set(g, (n.get(g) || 0) + 1)));
+      $('ideasList').innerHTML = `<span class="lead">Genres</span>` + GENRES.map(v =>
+        `<button type="button" class="idea" aria-pressed="${state.shelf === v}" data-shelf="${esc(v)}">${esc(v)} <small>${n.get(v)}</small></button>`).join('');
+      return;
+    }
     if (state.mode === 'books') {
       const n = new Map(); BOOKS.forEach(b => n.set(b.shelf, (n.get(b.shelf) || 0) + 1));
       $('ideasList').innerHTML = `<span class="lead">Shelves</span>` + SHELVES.map(v =>
@@ -1199,13 +1342,17 @@
   function setMode(mode, quiet) {
     if (state.mode === mode) return;
     if (mode === 'books' && !booksReady) { $('count').textContent = 'Loading books…'; return withBooks(() => setMode(mode, quiet)); }
+    if (mode === 'films' && !filmsReady) { $('count').textContent = 'Loading documentaries…'; return withFilms(() => setMode(mode, quiet)); }
+    state.shelf = null;
     state.mode = mode;
-    const books = mode === 'books';
-    $('modeBuildings').setAttribute('aria-pressed', !books);
+    const books = mode === 'books', films = mode === 'films';
+    $('modeBuildings').setAttribute('aria-pressed', !books && !films);
     $('modeBooks').setAttribute('aria-pressed', books);
-    $('q').placeholder = books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
-    $('filterBtn').hidden = books;
-    $('feed').setAttribute('aria-label', books ? 'Books' : 'Buildings');
+    const mf = $('modeFilms'); if (mf) mf.setAttribute('aria-pressed', films);
+    $('q').placeholder = films ? 'Search a documentary, director or architect…'
+      : books ? 'Search a book, author or subject…' : 'Search a building, architect, city or idea…';
+    $('filterBtn').hidden = books || films;
+    $('feed').setAttribute('aria-label', films ? 'Documentaries' : books ? 'Books' : 'Buildings');
     toggleFilters(false);
     if (!quiet) render(true);
   }
@@ -1236,6 +1383,7 @@
   onScroll();
   $('modeBuildings').addEventListener('click', () => setMode('buildings'));
   $('modeBooks').addEventListener('click', () => setMode('books'));
+  { const mf = $('modeFilms'); if (mf) mf.addEventListener('click', () => setMode('films')); }
   function clearAll() {
     GROUPS.forEach(g => state.filters[g.key].clear()); state.decades = null; state.where = null; state.shelf = null;
     state.q = ''; $('q').value = '';
@@ -1332,6 +1480,7 @@
     else if (id.startsWith('map=')) { dropHash(); whenReady(() => { DA.mapTo = id.slice(4); const m = $('mapBtn'); if (m) m.click(); }); } // "On the globe" on a building page
     else if (id.startsWith('f=') && id.includes(':')) { dropHash(); whenReady(() => filterBy(id.slice(2, id.indexOf(':')), id.slice(id.indexOf(':') + 1))); } // a choice made in a popup over another page
     else if (id === 'books') { if (state.mode !== 'books') setMode('books'); dropHash(); } // a link straight to the books wall
+    else if (id === 'documentaries' || id === 'films') { withFilms(() => { if (state.mode !== 'films') setMode('films'); }); dropHash(); }
     else if (id && (!state.open || keyOf(state.open) !== id)) openAny(id);
   };
   window.addEventListener('hashchange', openFromHash);

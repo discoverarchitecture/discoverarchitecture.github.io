@@ -930,3 +930,38 @@ body.mapped { overflow: hidden; }
 .rowarr[hidden] { display: none; }
 .rowarr svg { width: 18px; height: 18px; fill: none; stroke: var(--ink); stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
 @media (hover: hover) { .rowarr:hover { border-color: var(--red); } .rowarr:hover svg { stroke: var(--red); } }
+
+/* ---------- documentaries (v35 · 02 B) ----------
+   There are no posters until a TMDB key exists, and a borrowed one would be somebody's copyright, so a film tile
+   is set in the site's own type: genre, title, the one sourced line, then year and director. Square-cornered like
+   a photo, with the same red underline on hover that every tile has. Colours come from theme.css. */
+.ft { position: relative; }
+.ft .open { all: unset; cursor: pointer; position: relative; display: flex; flex-direction: column; gap: 10px;
+  width: 100%; min-width: 0; height: 100%; box-sizing: border-box; padding: 18px 16px 16px;
+  background: var(--field-3); border: 1px solid var(--hair); color: var(--ink);
+  transition: transform .18s ease, box-shadow .18s ease, background .18s ease; }
+.ft .open::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: var(--red); opacity: 0; transition: opacity .15s ease; }
+.ft:focus-within .open, .ft:focus-within .open::after { opacity: 1; }
+.ft:focus-within .open { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(0,0,0,.18); }
+@media (hover: hover) {
+  .ft:hover .open { transform: translateY(-2px); box-shadow: 0 14px 34px rgba(0,0,0,.18); }
+  .ft:hover .open::after { opacity: 1; }
+  .ft:hover .ftt { color: var(--red); }
+}
+.ft .open:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+.ft .fg { font: 500 10px/1.4 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
+.ft .ftt { font-family: var(--serif); font-size: clamp(17px, 2.1vw, 25px); line-height: 1.04; letter-spacing: -.01em; transition: color .15s ease; }
+.ft .fsum { font: 400 13px/1.45 var(--sans); color: var(--graphite); display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.ft .fmeta { margin-top: auto; font: 400 11px var(--mono); letter-spacing: .02em; color: var(--graphite); }
+/* The opened film reuses the book's sheet; its stand-in title sits on paper where a cover would be. */
+.card.film .stage .standin { max-width: 74%; }
+.rel .ph.filmph { display: flex; align-items: flex-end; padding: 10px; background: var(--field-3); border: 1px solid var(--hair);
+  font-family: var(--serif); font-size: 13px; line-height: 1.05; color: var(--ink); overflow: hidden; }
+@media (max-width: 820px) {
+  .ft .open { padding: 14px 13px 13px; gap: 8px; }
+  .ft .fsum { font-size: 12px; -webkit-line-clamp: 3; }
+  /* at phone width the switch carries three words, so it scrolls sideways rather than squeezing them */
+  .mode { overflow-x: auto; scrollbar-width: none; max-width: 100%; }
+  .mode::-webkit-scrollbar { display: none; }
+  .mode button { padding: 0 9px; font-size: 12.5px; white-space: nowrap; }
+}
