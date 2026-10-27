@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-27T17:56:53+00:00",
+ "fetched_at": "2026-10-27T22:07:28+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1825,
+ "visits_30d": 1834,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 481,
+     "count": 483,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 35,
+     "count": 36,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -79,11 +79,19 @@
      "max": 2
     },
     {
-     "count": 6,
+     "count": 7,
      "path_id": 113996447,
      "path": "studio/signup",
      "event": true,
      "title": "FGA Studio waitlist sign-up",
+     "max": 1
+    },
+    {
+     "count": 6,
+     "path_id": 113996457,
+     "path": "studio/details",
+     "event": true,
+     "title": "FGA Studio waitlist: optional answers",
      "max": 1
     },
     {
@@ -120,18 +128,18 @@
     },
     {
      "count": 5,
-     "path_id": 113996457,
-     "path": "studio/details",
-     "event": true,
-     "title": "FGA Studio waitlist: optional answers",
-     "max": 1
-    },
-    {
-     "count": 5,
      "path_id": 113753482,
      "path": "play/daily/4-of-5",
      "event": true,
      "title": "Daily five finished: 4 of 5 right",
+     "max": 2
+    },
+    {
+     "count": 5,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
      "max": 2
     },
     {
@@ -284,14 +292,6 @@
      "path": "/buildings/custom-house-dublin",
      "event": false,
      "title": "The Custom House by James Gandon: photos & key features",
-     "max": 2
-    },
-    {
-     "count": 3,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
      "max": 2
     },
     {
@@ -807,14 +807,14 @@
      "max": 1
     }
    ],
-   "total": 999,
+   "total": 1006,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1048,
+     "count": 1052,
      "ref_scheme": "o"
     },
     {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 62,
+     "count": 66,
      "ref_scheme": "c"
     },
     {
@@ -927,12 +927,12 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1143
+     "count": 1148
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 657
+     "count": 661
     },
     {
      "id": "Firefox",
@@ -951,22 +951,22 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 600
+     "count": 603
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 561
+     "count": 564
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 380
+     "count": 382
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 179
+     "count": 180
     },
     {
      "id": "Linux",
@@ -990,7 +990,7 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 945
+     "count": 947
     },
     {
      "id": "US",
@@ -1030,7 +1030,7 @@
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 26
+     "count": 29
     },
     {
      "id": "NL",
@@ -1113,6 +1113,11 @@
      "count": 8
     },
     {
+     "id": "UA",
+     "name": "Ukraine",
+     "count": 8
+    },
+    {
      "id": "GR",
      "name": "Greece",
      "count": 7
@@ -1155,11 +1160,6 @@
     {
      "id": "TW",
      "name": "Taiwan",
-     "count": 6
-    },
-    {
-     "id": "UA",
-     "name": "Ukraine",
      "count": 6
     },
     {
@@ -1258,6 +1258,11 @@
      "count": 2
     },
     {
+     "id": "CO",
+     "name": "Colombia",
+     "count": 2
+    },
+    {
      "id": "EG",
      "name": "Egypt",
      "count": 2
@@ -1298,11 +1303,6 @@
      "count": 1
     },
     {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 1
-    },
-    {
      "id": "CR",
      "name": "Costa Rica",
      "count": 1
@@ -1315,6 +1315,11 @@
     {
      "id": "GH",
      "name": "Ghana",
+     "count": 1
+    },
+    {
+     "id": "GT",
+     "name": "Guatemala",
      "count": 1
     },
     {
@@ -1370,7 +1375,7 @@
     {
      "id": "phone",
      "name": "",
-     "count": 930
+     "count": 935
     },
     {
      "id": "tablet",
@@ -1380,7 +1385,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 774
+     "count": 778
     },
     {
      "id": "desktophd",
@@ -1400,7 +1405,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1825
+     "count": 1834
     }
    ],
    "more": false
