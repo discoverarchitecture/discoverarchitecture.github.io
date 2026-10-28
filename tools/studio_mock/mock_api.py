@@ -112,7 +112,7 @@ def composition(j):
     def tx(label, role, x, y, w, h):
         return {"id": "t-" + role + "-%d" % int(x * 100 + y * 1000), "label": label, "role": role, "source": "text", "image_url": None, "x": x, "y": y, "w": w, "h": h}
     board = [tx("Title", "title", .034, .02, .69, .05), tx("Project details", "info", .743, .025, .223, .045),
-             st("p04-1", "Render · entrance", "hero", .034, .076, .617, .209), tx("Concept", "concept", .664, .076, .302, .06),
+             st("p04-1", "Render · entrance", "hero", .034, .076, .617, .209), dict(tx("Concept", "concept", .664, .076, .302, .06), lines=4),
              tx("The story", "story", .664, .14, .302, .07), tx("Three ideas", "ideas", .664, .214, .302, .09),
              st("p03-3", "Process sketch", "process", .034, .306, .302, .109), st("p03-1", "Process sketch", "process", .349, .306, .302, .109),
              st("p03-4", "Concept sketch", "concept", .664, .306, .302, .109),

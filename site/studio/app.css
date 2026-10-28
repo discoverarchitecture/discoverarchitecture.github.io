@@ -643,3 +643,10 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 @keyframes nudge { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
 .savedjob { gap: 6px 14px; } .savedjob .chip { cursor: pointer; font-size: 13px; padding: 8px 12px; }
 .card.stale { border-color: var(--coral); background: var(--sun); color: var(--on-accent); }
+
+/* text slots drawn as the text will sit: a tiny kicker, a heading bar, body lines at the slot's real spacing */
+.cs.text.tx2 { gap: 0; padding: max(1px, .4cqw) 1px; }
+.cs.text.tx2 .tk { flex: none; font: 600 clamp(4px, 1.3cqw, 9px)/1 var(--mono); color: #8A857B; text-transform: uppercase; letter-spacing: .04em; text-align: left; margin-bottom: max(1px, .35cqw); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cs.text.tx2 .tl { flex: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 1fr); }
+.cs.text.tx2 .tl i { align-self: center; height: 42%; min-height: 1px; max-height: 6px; background: #DAD6CD; border-radius: 2px; }
+.cs.text.tx2 .tl i.th { height: 58%; max-height: 10px; width: 56%; background: #C4BFB4; }

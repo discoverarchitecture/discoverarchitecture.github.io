@@ -395,8 +395,8 @@
       if (COMPSRC !== c) {
         COMPSRC = c;
         const dw = c.deck.w_mm || 338.667, dh = c.deck.h_mm || 190.5;
-        COMP = { board: { slots: c.board.slots || [], ratio: (c.board.w_mm || 594) / (c.board.h_mm || 841) },
-          deck: { ratio: dw / dh, slides: (c.deck.slides || []).map((x, i) => ({ n: x.n || i + 1, title: x.title || '', kind: x.kind || '', contents: x.contents || [], note: x.note || null, slots: x.slots || [] })) },
+        COMP = { board: { slots: c.board.slots || [], ratio: (c.board.w_mm || 594) / (c.board.h_mm || 841), h_mm: c.board.h_mm || 841 },
+          deck: { ratio: dw / dh, h_mm: dh, slides: (c.deck.slides || []).map((x, i) => ({ n: x.n || i + 1, title: x.title || '', kind: x.kind || '', contents: x.contents || [], note: x.note || null, slots: x.slots || [] })) },
           basics: c.basics || [] };
       }
       return COMP;
@@ -406,17 +406,17 @@
   /* an older server without `composition`: the same picture made from the plan's sketch */
   function compFromSketch() {
     const M = PV;
-    if (!M) return { board: { slots: [], ratio: 594 / 841 }, deck: { ratio: 16 / 9, slides: [] } };
+    if (!M) return { board: { slots: [], ratio: 594 / 841, h_mm: 841 }, deck: { ratio: 16 / 9, h_mm: 190.5, slides: [] } };
     const of = (pg) => pg.slots.map((sl) => { const c = pg.contents[sl.content]; return { label: c.alt || 'Drawing', role: '', source: 'student', image_url: c.src, x: sl.x / pg.w, y: sl.y / pg.h, w: sl.w / pg.w, h: sl.h / pg.h }; })
       .concat(pg.texts.map((t) => ({ label: NAMES[t.name] || 'Text', role: t.name === 'title' ? 'title' : 'text', source: 'text', image_url: null, x: t.x / pg.w, y: t.y / pg.h, w: t.w / pg.w, h: (t.maxH || 10) / pg.h })));
-    return { board: { slots: of(M.board), ratio: 594 / 841 }, deck: { ratio: 16 / 9, slides: M.slides.map((pg) => { const m = (M.slideMeta || {})[pg.n]; return { n: pg.n, title: m ? m.label : 'Cover', kind: m ? m.role : 'cover', contents: [], note: null, slots: of(pg) }; }) } };
+    return { board: { slots: of(M.board), ratio: 594 / 841, h_mm: 841 }, deck: { ratio: 16 / 9, h_mm: 190.5, slides: M.slides.map((pg) => { const m = (M.slideMeta || {})[pg.n]; return { n: pg.n, title: m ? m.label : 'Cover', kind: m ? m.role : 'cover', contents: [], note: null, slots: of(pg) }; }) } };
   }
   function demoComposition() {
     const BW = P.board.w, BH = P.board.h, raw = (f) => P.base + 'raw/' + f;
     const at = (o) => ({ x: o.x / BW, y: o.y / BH, w: o.w / BW, h: (o.h || o.maxH) / BH });
     const img = (id, label, role, source, file, crop) => Object.assign(at(P.board.slots.find((x) => x.id === id)), { label, role, source, image_url: file ? raw(file) : null, crop });
     const txt = (id, label, role) => Object.assign(at(P.board.texts.find((x) => x.id === id)), { label, role, source: 'text', image_url: null });
-    const board = { ratio: BW / BH, slots: [txt('b-title', 'Title', 'title'), txt('b-info', 'Title block', 'info'), img('b-hero', 'Hero render', 'render', 'create'),
+    const board = { ratio: BW / BH, h_mm: BH, slots: [txt('b-title', 'Title', 'title'), txt('b-info', 'Title block', 'info'), img('b-hero', 'Hero render', 'render', 'create'),
       txt('b-concept', 'Concept', 'concept'), txt('b-story', 'Story', 'text'), txt('b-ideas', 'Three ideas', 'text'),
       img('b-sk1', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .036, .474, .338]), img('b-sk2', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .36, .474, .66]),
       img('b-sk3', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .68, .474, .98]), img('b-fabric', 'Concept diagram', 'concept', 'student', 'sheet-3.jpg', [.609, .07, .987, .25]),
@@ -441,7 +441,7 @@
       ['Axonometric', 'axonometric', ['1 axonometric · new', 'Structure note'], [head, S_('Axonometric', 'axonometric', 'create', .36, .1, .6, .84), T_('How it stands', .04, .62, .28, .28)]],
       ['Closing', 'closing', ['Hero render', 'The three ideas'], [S_('Hero render', 'render', 'create', 0, 0, 1, 1), T_('Three ideas', .05, .58, .5, .32)]]
     ].map(([title, kind, contents, slots], i) => ({ n: i + 1, title, kind, contents, note: kind === 'concept', slots }));
-    return { board, deck: { ratio: 16 / 9, slides } };
+    return { board, deck: { ratio: 16 / 9, h_mm: 190.5, slides } };
   }
   /* the deck's order and left-out slides. Demo: kept here. Live: a slide that matches one of the plan's slides is left
      out through the plan (PUT /jobs/{id}/plan), so the build follows it; the others (cover, contents, new basics) stay. */
@@ -472,13 +472,32 @@
     const sel = S.pvSel && S.pvSel[0] === p && S.pvSel[1] === i ? ' sel' : '';
     if (sl.source === 'text') {
       if (sl.role === 'title') return '<div class="cs ctitle" style="' + pos + '"><b>' + esc(projTitle()) + '</b><i></i><i></i></div>';
-      return '<button class="cs text' + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(sl.label) + ', text"><span>' + esc(sl.label) + '</span><i></i><i></i><i></i></button>';
+      return textSlot(sl, p, i, pos, sel);
     }
     const src = sl.source === 'create' ? 'create' : 'student';
     const im = src === 'student' && sl.image_url ? '<b class="ci" style="background-image:url(&quot;' + esc(sl.image_url) + '&quot;);' + cropCSS(sl.crop) + '"></b>' : '';
     const lab = String(sl.label || '').replace(/\s*·\s*new$/i, '');
     return '<button class="cs ' + src + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(lab) + (src === 'create' ? ', new by AI Studio' : ', from your drawings, retouched by AI Studio') + '">' + im +
       '<span class="cl">' + (src === 'create' ? MINISPARK : '') + esc(lab) + (src === 'create' ? ' · new' : '<em class="aim" aria-hidden="true">' + MINISPARK + 'AI</em>') + '</span></button>';
+  }
+  /* A text slot drawn the way its text will sit (owner, 28 Oct): a tiny kicker if it fits, a short heading bar, then
+     body lines at the real line spacing for the slot's size (the server's `lines` when it sends one, else estimated
+     from the slot's height in millimetres), the last line shorter. Headings are drawn as heading bars only. */
+  function textSlot(sl, p, i, pos, sel) {
+    const c = composition(), board = p === 0, hmm = (sl.h || 0) * (board ? c.board.h_mm || 841 : c.deck.h_mm || 190.5);
+    const pitch = board ? 5.6 : 5.3, headPitch = board ? 8.5 : 7.5, kick = board ? 3.4 : 3.2;
+    const heading = /^(heading|headline|title)$/.test(sl.role || '');
+    const showKick = !heading && hmm > kick + headPitch + pitch * 1.5;
+    let n;
+    if (heading) n = Math.max(1, Math.min(4, Math.round(hmm / (board ? 22 : 12))));
+    else if (typeof sl.lines === 'number' && sl.lines > 0) n = Math.min(60, Math.round(sl.lines));
+    else n = Math.max(1, Math.min(60, Math.floor((hmm - (showKick ? kick : 0) - headPitch) / pitch)));
+    const rows = heading ? 'repeat(' + n + ',1fr)' : '1.5fr repeat(' + n + ',1fr)';
+    const widths = [100, 96, 99, 93, 98];
+    const bars = heading ? Array.from({ length: n }, (_, k) => '<i class="th" style="width:' + (k === n - 1 && n > 1 ? 62 : 92) + '%"></i>').join('')
+      : '<i class="th"></i>' + Array.from({ length: n }, (_, k) => '<i' + (k === n - 1 && n > 1 ? ' class="last"' : '') + ' style="width:' + (k === n - 1 && n > 1 ? 58 : widths[k % 5]) + '%"></i>').join('');
+    return '<button class="cs text tx2' + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(sl.label) + ', text">' +
+      (showKick ? '<span class="tk">' + esc(sl.label) + '</span>' : '') + '<span class="tl" style="grid-template-rows:' + rows + '" aria-hidden="true">' + bars + '</span></button>';
   }
   const compPage = (slots, ratio, p) => '<div class="comp show-' + (S.pvShow || 'all') + '" style="aspect-ratio:' + ratio.toFixed(4) + '">' + slots.map((sl, i) => compSlot(sl, p, i)).join('') + '</div>';
   const compBoard = () => compPage(composition().board.slots, composition().board.ratio, 0);
