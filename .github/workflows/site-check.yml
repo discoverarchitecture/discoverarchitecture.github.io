@@ -21,6 +21,13 @@ jobs:
           echo "== via Google DNS"; dig +short A findgreatarchitecture.com @8.8.8.8
       - name: Registration (whois)
         run: whois findgreatarchitecture.com | grep -iE "domain status|registrar:|expir|updated date|creation date|name server" | head -20 || true
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Search Console diagnosis
+        env:
+          GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
+        run: pip -q install cryptography && python3 -u tools/diagnose_drop.py || true
       - name: GitHub Pages settings
         env:
           GH_TOKEN: ${{ github.token }}
