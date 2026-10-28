@@ -1,0 +1,38 @@
+# One-off health check of the live site as Google sees it (SEO strategy chat, 28 Oct 2026): DNS, the domain's
+# registration status, HTTPS, redirects, robots.txt and a building page's head. Runs on push to claude/site-check.
+name: Site check
+on:
+  push:
+    branches: ['claude/site-check']
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: DNS
+        run: |
+          sudo apt-get -qq install -y dnsutils whois >/dev/null 2>&1 || true
+          for t in NS A AAAA CNAME TXT; do echo "== $t findgreatarchitecture.com"; dig +short $t findgreatarchitecture.com; done
+          echo "== www"; dig +short www.findgreatarchitecture.com
+          echo "== via Google DNS"; dig +short A findgreatarchitecture.com @8.8.8.8
+      - name: Registration (whois)
+        run: whois findgreatarchitecture.com | grep -iE "domain status|registrar:|expir|updated date|creation date|name server" | head -20 || true
+      - name: GitHub Pages settings
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api repos/${{ github.repository }}/pages || true
+      - name: HTTP as Googlebot
+        run: |
+          UA="Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+          for u in https://findgreatarchitecture.com/ http://findgreatarchitecture.com/ https://www.findgreatarchitecture.com/ https://discoverarchitecture.github.io/ https://findgreatarchitecture.com/robots.txt https://findgreatarchitecture.com/sitemap.xml https://findgreatarchitecture.com/buildings/villa-savoye/ https://findgreatarchitecture.com/styles/brutalism/; do
+            echo "== $u"; curl -sS -A "$UA" -o /dev/null -m 20 -w "%{http_code} -> %{redirect_url} (%{time_total}s, ip %{remote_ip})\n" "$u" || echo "FAILED"
+          done
+          echo "== certificate"; echo | openssl s_client -connect findgreatarchitecture.com:443 -servername findgreatarchitecture.com 2>/dev/null | openssl x509 -noout -subject -issuer -dates || echo "no certificate"
+          echo "== robots.txt"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/robots.txt | head -5
+          echo "== home head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/ | grep -ioE '<title>[^<]*|<meta name="robots"[^>]*>|<link rel="canonical"[^>]*>' | head
+          echo "== building head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | grep -ioE '<title>[^<]*|<meta name="robots"[^>]*>|<link rel="canonical"[^>]*>' | head
+          echo "== response headers"; curl -sSI -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | head -20
