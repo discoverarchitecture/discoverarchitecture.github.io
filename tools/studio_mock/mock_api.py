@@ -10,7 +10,7 @@ its story plan, panel crops, layout.json files, pictures and PDFs.
 
 Switches (environment): MOCK_SPEED (default 1; 0.2 = five times faster), MOCK_MAX_MB (default 25),
 MOCK_NO_EDIT=1 (status plan without the "edit" block, as an older server sends), MOCK_PREVIEWS (default 2 a day),
-MOCK_STALE=1 (a finished preview is marked stale until refreshed once; the refresh is not counted).
+MOCK_NO_LAYOUT=1 (a build without layout.json: no editor), MOCK_STALE=1 (a finished preview is marked stale until refreshed once; the refresh is not counted).
 An e-mail with "+fail" makes the paid build fail; a project title containing "nopics" makes the preview fail.
 """
 import email.parser
@@ -213,7 +213,7 @@ def status(j):
     paid = bool(j.get("paid"))
     b = j.get("build") or {"status": "none"}
     outs = [{"name": n, "label": l, "bytes": os.path.getsize(p) if os.path.exists(p) else 0, "url": "%s/jobs/%s/download/%s?exp=9999999999&sig=mock" % (API, j["id"], n)}
-            for n, l, p in OUTS] if paid and b["status"] in ("done", "failed") else []
+            for n, l, p in OUTS if not (os.environ.get("MOCK_NO_LAYOUT") == "1" and n.endswith("layout.json"))] if paid and b["status"] in ("done", "failed") else []
     if outs:
         outs.append({"name": "indesign/board_InDesign.zip", "label": "Board InDesign", "bytes": 1234, "url": "%s/jobs/%s/download/indesign/board_InDesign.zip?exp=9999999999&sig=mock" % (API, j["id"])})
     pv = j.get("preview") or {"status": "none"}

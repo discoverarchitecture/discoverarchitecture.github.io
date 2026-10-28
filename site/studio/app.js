@@ -700,10 +700,6 @@
         (M.altIdeas.length ? '<button data-act="ideaSwap" data-i="' + i + '">Swap</button>' : '') + '<button data-act="ideaOn" data-i="' + i + '"' + (idea.on && on <= minOn ? ' disabled title="Keep at least ' + minOn + ' ideas"' : '') + '>' + (idea.on ? 'Turn off' : 'Turn on') + '</button></div></div>' + alts;
     }).join('');
     const slides = pvList();
-    const hero = ans('proud') !== null && ans('proud') !== 'other' ? QB.proud.o[ans('proud')][0].toLowerCase() : 'your strongest view';
-    const tags = [['Hero: ' + hero, 'proud']].concat(isPro() ? [[heard('room', 'Voice: AI Studio decides'), 'room'], [heard('stage', 'Renders: AI Studio decides'), 'stage']] : [[heard('crit', 'Fix first: AI Studio checks the weakest part'), 'crit'], [heard('word', 'Balanced emphasis'), 'word']])
-      .concat([[heard('words', 'Captions plus 3 key ideas'), 'words'], [heard('proc', 'Process: AI Studio decides'), 'proc']])
-      .map(([t, k]) => '<div class="pcard"><img src="' + pic(HP, planImg(k)) + '" alt=""><div class="pbody"><b>' + esc(t) + '</b><span class="tag">' + (ans(k) === null ? 'AI Studio’s pick' : 'Because you said: ' + esc(said(k))) + '</span></div></div>').join('');
     const cline = concept() ? '<section class="cline card"><p class="kicker">Your concept</p><p class="ctext">' + esc(concept()) + '</p><div class="row"><span class="tag">Your words, spelling checked</span><button class="link" data-act="editq" data-k="concept">Change</button></div></section>'
       : '<p class="hint">No concept typed' + (briefs().length ? ': AI Studio takes it from your brief.' : ': AI Studio plans the story from your drawings.') + ' <button class="link" data-act="editq" data-k="concept">Add your concept</button></p>';
     /* first view: the composition preview with the order card; payment stays on the next page */
@@ -711,7 +707,7 @@
     const notes = DEMO ? '' : '<p class="status" id="planSaved" aria-live="polite">' + esc(planSaved) + '</p>' + (S.planNotes && S.planNotes.length ? '<div class="card"><p class="kicker">Notes from AI Studio</p>' + S.planNotes.map((x) => '<p class="hint" style="margin:4px 0 0">' + esc(x) + '</p>').join('') + '</div>' : '');
     const stale = !DEMO && ST && ST.preview && ST.preview.stale ? '<div class="card stale" role="status"><p class="lede" style="color:var(--on-accent)"><b>We’ve improved Studio since this preview.</b> Refresh it (free): it doesn’t count towards your 2 free previews.</p><div class="row"><button class="btn primary" data-act="preview">Refresh my preview</button></div></div>' : '';
     return '<main class="wrap pvwrap">' + backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + (DEMO ? '' : '<div class="row" style="margin-top:-6px">' + newJobLink() + '</div>') + stale + deal + '<h2 class="mid" style="margin-top:28px">Change anything first</h2><p class="lede">Built from your answers and your drawings. Move, swap or remove anything until it tells your project the way you would at the pin-up.</p>' + cline +
-      '<div class="pcards">' + tags + '</div>' + notes + '<div class="two"><div class="list"><h2 class="mid">The three ideas</h2><p class="lede">The spine of your board and deck. Reorder, swap or turn one off; the board preview updates as you go.</p>' + ideas +
+      notes + '<div class="two"><div class="list"><h2 class="mid">The three ideas</h2><p class="lede">The spine of your board and deck. Reorder, swap or turn one off; the board preview updates as you go.</p>' + ideas +
       '<h2 class="mid" style="margin-top:18px">The jury deck</h2><p class="lede">' + pvOn().length + ' slides, in the order a jury reads them. Move one or leave it out; the cover stays first.</p>' + slides + '</div>' +
       '<aside class="list" style="position:sticky;top:90px"><p class="kicker">Your A1 board</p>' + compBoard() +
       '<button class="btn shiny small-shiny" data-act="toPrice">' + SPARK + '<span class="cta"><b>Make it now</b><small>Board + deck · from $11</small></span><span class="arrow" aria-hidden="true">→</span></button></aside></div></main>';
@@ -768,13 +764,27 @@
     if (st.stage === 'failed') return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Something went wrong on our side</h1>' +
       '<div class="card"><p class="lede">We are rerunning it for free. You will get an email at <b>' + mail + '</b> as soon as your board and deck are ready, with a link back here.</p></div>' +
       '<p class="hint">Nothing to do on your side. Questions: hello@findgreatarchitecture.com</p></main>';
+    return '<main class="wrap narrow"><div id="mkzone">' + makingZone() + '</div>' + waitFeedback() + '</main>';
+  };
+  function makingZone() {
+    const st = ST || {}, b = st.build || {}, g = (st.tier || S.tier) === 'great', mail = esc(st.email || S.email || 'you');
     const at = stepAt(BUILD_KEYS, BUILD, b.stage || st.step_key, b.label || st.step), held = b.status === 'held';
-    return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Making your board and deck</h1>' +
+    return '<p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Making your board and deck</h1>' +
       '<div class="row"><span class="chip ink">' + (g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">' + (held || b.status === 'queued' || b.status === 'none' ? 'IN THE QUEUE' : 'STEP ' + (at + 1) + ' OF ' + BUILD.length) + '</span>' + (typeof st.progress === 'number' ? '<span class="chip">' + st.progress + '%</span>' : '') + totalChip() + '</div>' +
       (held ? '<div class="card"><p class="lede">It is a busy day, so your build waits in a short queue. We will email you when it starts and when it is ready.</p></div>' : '') +
       '<div class="making" id="mk">' + stepList(BUILD, at, b.status === 'running') + '</div>' +
-      '<p class="lede">You can close this tab. We will email <b>' + mail + '</b> when it is ready, with a link back to your board.</p></main>';
-  };
+      '<p class="lede">You can close this tab. We will email <b>' + mail + '</b> when it is ready, with a link back to your board.</p>';
+  }
+  /* "How was your experience so far?" while the build runs (owner's note 5): stars and an optional note, sent with
+     POST /jobs/{id}/feedback and stage "waiting" (the note says so too, for a server that doesn't know the field yet) */
+  function waitFeedback() {
+    if (S.waitFbSent) return '<section class="card waitfb" id="waitfb"><p class="kicker">Your feedback</p><p class="lede">Thank you. We read every note.</p></section>';
+    const r = S.waitRate || 0;
+    return '<section class="card waitfb" id="waitfb"><h2 class="mid">How was your experience so far?</h2><p class="hint" style="margin:0">One tap while you wait. Optional.</p>' +
+      '<fieldset class="rstars"><legend class="sr">Your rating, 1 to 5 stars</legend>' + RATE.map((t, i) => '<input type="radio" name="wfr" id="wfr' + (i + 1) + '" value="' + (i + 1) + '"' + (r === i + 1 ? ' checked' : '') + '><label for="wfr' + (i + 1) + '" title="' + t + '"' + (i < r ? ' class="on"' : '') + '>' + STAR + '<span class="sr">' + (i + 1) + (i ? ' stars, ' : ' star, ') + t + '</span></label>').join('') + '</fieldset>' +
+      '<div class="field"><label for="wfnote">Anything to tell us? (optional)</label><textarea id="wfnote" class="input" rows="2" placeholder="The questions were quick…">' + esc(S.waitNote || '') + '</textarea></div>' +
+      '<p class="err" id="wfErr" role="alert"></p><div class="row"><button class="btn small" data-act="sendWaitFb">Send</button></div></section>';
+  }
   /* live: the free preview being planned (server/core/progress.py PREVIEW_STAGES), or why it stopped */
   const PLANS = ['Reading your files', 'Finding every drawing', 'Reading your concept', 'Planning the story', 'Laying out your board and deck'];
   /* the server's step keys (server/README.md, "Progress"); the label is the fallback for an older server */
@@ -825,12 +835,110 @@
     '<div class="row"><button class="btn shiny dlall2" data-act="dlAll"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span class="cta"><span><b>Download all</b></span><small>Board PDF + JPG · Deck PDF + PowerPoint</small></span><span class="arrow" aria-hidden="true">↓</span></button>' +
     '<button class="btn" data-act="toEdit"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 4l5 5L9 20H4v-5z"/><path d="M13 6l5 5"/></svg>Open the editor</button></div></div></div>' +
     (DEMO ? '<section class="did"><p class="kicker">Scroll: what AI Studio did with your drawings</p><h2 class="mid">From your sheets to a jury board</h2>' + didCards() +
-    '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div></section>' : redoCard() + '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div>' +
+    '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div></section>' : filesSection() + beforeAfter() + redoCard() + '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div>' +
     '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again to start a new project (this one stays on your receipt link)' : 'Start a new project') + '</button>') + '</main>';
-  /* live, when the editor could not open the build (the files are still there) */
-  V.resultFiles = () => '<main class="wrap narrow"><span class="chip lime" style="align-self:flex-start">READY</span><h1 class="big">Your board and deck are ready</h1>' +
-    '<p class="lede">' + esc(S.resErr || 'The editor could not open your board on this device, but every file is ready to download.') + '</p><div class="row"><button class="btn small" data-act="reopen">Try the editor again</button></div>' +
-    outputsList() + redoCard() + '<div class="row"><button class="btn primary" data-act="toShare">Next: rate and share</button></div></main>';
+  /* ---------- the result without the editor (no layout.json in this build): the same approved page. The board is
+     shown from board.png (or the first page of board.pdf), the deck as a strip of slides (slide PNGs when the build
+     has them, else drawn from deck.pdf pages in the browser), a big "Download all", the files, the before/after,
+     the rating. Never an error sentence for the student (owner, 29 Oct). */
+  const outFiles = () => ((ST || {}).outputs || []).filter((o) => !/layout\.json$/.test(o.name) && !/^deck\/slides\//.test(o.name));
+  const outOf = (name) => ((ST || {}).outputs || []).find((o) => o.name === name);
+  const FMT = (n) => /\.pdf$/i.test(n) ? 'PDF' : /\.pptx$/i.test(n) ? 'PPTX' : /\.png$/i.test(n) ? 'PNG' : /\.jpe?g$/i.test(n) ? 'JPG' : /\.zip$/i.test(n) ? 'IDML' : 'FILE';
+  const NICE_OUT = { 'board/board.pdf': ['Board · A1 PDF', 'For printing at the pin-up. 594 × 841 mm, sharp vector.'], 'board/board.png': ['Board · A1 picture', 'For Instagram, WhatsApp or a quick look.'],
+    'deck/deck.pdf': ['Jury deck · PDF', '16:9, ready to present.'], 'deck/deck.pptx': ['Jury deck · PowerPoint', 'Every word stays editable. Opens in Keynote, Google Slides and Canva too.'] };
+  const outLabel = (o) => NICE_OUT[o.name] || (/^indesign\//.test(o.name) ? ['Board · InDesign', 'An .idml package: opens in InDesign with every frame editable.'] : [o.label || o.name, '']);
+  function filesSection() {
+    const files = outFiles();
+    if (!files.length) return '';
+    return '<section class="rfiles"><p class="kicker">Your files</p><div class="list">' + files.map((o) => { const [t, d] = outLabel(o);
+      return '<div class="dl"><span class="fmt">' + FMT(o.name) + '</span><div class="txt"><strong>' + esc(t) + '</strong><span>' + esc(d ? d + ' · ' + kb(o.bytes || 0) : kb(o.bytes || 0)) + '</span><span class="status" id="st-' + esc(o.name.replace(/[^a-z0-9]/gi, '-')) + '"></span></div>' +
+        '<button class="btn" data-act="dlOne" data-name="' + esc(o.name) + '">Download</button></div>'; }).join('') + '</div></section>';
+  }
+  /* before: the student's own drawings (pictures on this device, else the preview's crops of their sheets); after: the board */
+  function beforeAfter() {
+    const local = drawings().map((f) => THUMBS[f.name]).filter(Boolean);
+    const crops = local.length ? local : (((ST || {}).plan || {}).panels || []).map((x) => x.thumb).filter(Boolean);
+    const board = (outOf('board/board.png') || {}).url;
+    if (!crops.length || !(board || P)) return '';
+    const before = crops.slice(0, 6).map((u, k) => '<div class="crop c' + k + '" role="img" aria-label="One of your drawings, as uploaded" style="aspect-ratio:4/3;background-image:url(&quot;' + esc(u) + '&quot;);background-size:cover;background-position:center"></div>').join('');
+    const after = P ? '<div class="sth" data-mini="board" data-w="480" data-fit="1"></div>' : '<img class="rboardimg" src="' + esc(board) + '" alt="Your finished A1 board">';
+    return '<section class="did"><p class="kicker">What AI Studio did with your drawings</p><h2 class="mid">From your sheets to a jury board</h2>' +
+      '<div class="lart rba"><div class="before"><div class="crops">' + before + '</div><span class="ptag">Before · your drawings</span></div><div class="arrowcol"><span class="atag">✦ AI Studio</span>' + GARROW + '</div>' +
+      '<div class="after">' + after + '<span class="ptag lime">After · your A1 board</span></div></div></section>';
+  }
+  const EDITSVG = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 4l5 5L9 20H4v-5z"/><path d="M13 6l5 5"/></svg>';
+  V.resultFiles = () => {
+    const board = outOf('board/board.png'), slides = ((ST || {}).outputs || []).filter((o) => /^deck\/slides\/.+\.png$/i.test(o.name)).sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }));
+    const cache = PDFIMG[pdfKey()] || {}, deckImgs = slides.length ? slides.map((o) => o.url) : cache.deck || [];
+    const nSl = deckImgs.length || cache.deckN || 0, hasPptx = !!outOf('deck/deck.pptx');
+    const boardHTML = board ? '<img class="rboardimg" src="' + esc(board.url) + '" alt="Your A1 board">' : cache.board ? '<img class="rboardimg" src="' + cache.board + '" alt="Your A1 board">' : '<div class="rboardimg ph" id="rboard" aria-label="Your A1 board, loading"></div>';
+    const strip = deckImgs.length ? deckImgs.map((u, k) => '<div class="ewrap"><img class="rslide" src="' + esc(u) + '" alt="Slide ' + (k + 1) + '" loading="lazy"></div>').join('')
+      : outOf('deck/deck.pdf') ? Array.from({ length: 6 }, () => '<div class="ewrap"><div class="rslide ph"></div></div>').join('') : '';
+    const editNote = '<div class="card rguide"><h3 class="h3">Keep editing</h3><p class="lede" style="margin:0">' + (hasPptx ? 'Open the PowerPoint in PowerPoint, Keynote or Google Slides, or in Canva: Upload, then Import. Every word stays editable.' : 'Open the PDF in any editor you like.') + '</p></div>';
+    return '<main class="wrap"><span class="chip lime" style="align-self:flex-start">READY</span><h1 class="big">Your board and deck are ready</h1><p class="lede">Check every word before the jury does, then download everything at once.</p>' +
+      '<div class="result"><div class="list"><p class="rlabel"><b class="chip lime">Board · A1</b> 594 × 841 mm, portrait</p><div class="ewrap">' + boardHTML + '</div></div>' +
+      '<div class="list"><p class="rlabel"><b class="chip lime" id="rdeckn">Deck' + (nSl ? ' · ' + nSl + ' slides' : '') + '</b> 16:9 widescreen</p><div class="strip" id="rstrip">' + strip + '</div>' +
+      '<div class="row"><button class="btn shiny dlall2" data-act="dlAllFiles"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span class="cta"><span><b>Download all</b></span><small>' + esc(outFiles().map((o) => outLabel(o)[0].replace(/^Jury deck · |^Board · /, '')).join(' · ')) + '</small></span><span class="arrow" aria-hidden="true">↓</span></button></div>' +
+      editNote + '</div></div>' + filesSection() + beforeAfter() + redoCard() + '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div>' +
+      '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again to start a new project (this one stays on your receipt link)' : 'Start a new project') + '</button></main>';
+  };
+  /* board and deck pictures drawn from the PDFs in the browser (pdf.js), when the build has no PNGs */
+  const PDFJS = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js', PDFWORKER = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  const PDFIMG = {};
+  const pdfKey = () => (S.job ? S.job.id : '') + ':' + (((ST || {}).build || {}).attempt || 0) + ':' + ((ST || {}).redo_used ? 'r' : '');
+  let pdfLib = null, pdfBusy = null;
+  const loadPdfLib = () => pdfLib || (pdfLib = new Promise((res, rej) => { const sc = document.createElement('script'); sc.src = PDFJS; sc.onload = () => { window.pdfjsLib.GlobalWorkerOptions.workerSrc = PDFWORKER; res(window.pdfjsLib); }; sc.onerror = rej; document.head.appendChild(sc); }));
+  async function pdfImages(url, width, max, onPage) {
+    const lib = await loadPdfLib(), doc = await lib.getDocument({ url, disableRange: true, disableStream: true }).promise, out = [];
+    for (let i = 1; i <= Math.min(doc.numPages, max); i++) {
+      const pg = await doc.getPage(i), v = pg.getViewport({ scale: 1 }), vp = pg.getViewport({ scale: width / v.width });
+      const cv = document.createElement('canvas'); cv.width = Math.round(vp.width); cv.height = Math.round(vp.height);
+      await pg.render({ canvasContext: cv.getContext('2d'), viewport: vp }).promise;
+      out.push(cv.toDataURL('image/jpeg', 0.84));
+      if (onPage) onPage(out, doc.numPages);
+    }
+    return [out, doc.numPages];
+  }
+  function fillResultArt() {
+    const key = pdfKey(), cache = PDFIMG[key] = PDFIMG[key] || {};
+    if (pdfBusy === key) return;
+    const needBoard = !outOf('board/board.png') && !cache.board && outOf('board/board.pdf');
+    const needDeck = !((ST || {}).outputs || []).some((o) => /^deck\/slides\//.test(o.name)) && !cache.deck && outOf('deck/deck.pdf');
+    if (!needBoard && !needDeck) return;
+    pdfBusy = key;
+    (async () => {
+      try {
+        if (needBoard) { const [im] = await pdfImages(outOf('board/board.pdf').url, 900, 1); cache.board = im[0]; const el = document.getElementById('rboard'); if (el) el.outerHTML = '<img class="rboardimg" src="' + im[0] + '" alt="Your A1 board">'; }
+        if (needDeck) {
+          const [imgs, n] = await pdfImages(outOf('deck/deck.pdf').url, 320, 15, (imgs, n) => { cache.deckN = n; const dn = document.getElementById('rdeckn'); if (dn) dn.textContent = 'Deck · ' + n + ' slides'; const st = document.getElementById('rstrip');
+            if (st) st.innerHTML = imgs.map((u, k) => '<div class="ewrap"><img class="rslide" src="' + u + '" alt="Slide ' + (k + 1) + '"></div>').join('') + Array.from({ length: Math.max(0, n - imgs.length) }, () => '<div class="ewrap"><div class="rslide ph"></div></div>').join(''); });
+          cache.deck = imgs; cache.deckN = n;
+        }
+      } catch (e) { console.warn('preview pictures', e); }
+      pdfBusy = null;
+      if (S.screen === 'result' && !P) render();
+    })();
+  }
+  /* the build's own files, saved through a fetch so a cross-site link still downloads instead of opening */
+  async function downloadFiles(el, only) {
+    const files = outFiles().filter((o) => !only || o.name === only), lab = el.querySelector('b') || el, sub = el.querySelector('small');
+    el.disabled = true;
+    let ok = 0;
+    for (const o of files) {
+      if (!only) lab.textContent = 'Saving ' + (ok + 1) + ' of ' + files.length; else el.textContent = 'Saving…';
+      try {
+        const r = await fetch(o.url); if (!r.ok) throw new Error(r.status);
+        const b = await r.blob(), a = document.createElement('a');
+        a.href = URL.createObjectURL(b); a.download = (o.name.split('/').pop() || 'file').replace(/^(board|deck)\./, ((P && P.slug) || 'studio-fga') + '-$1.');
+        document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+        ok++;
+      } catch (e) { console.warn('download', o.name, e); }
+    }
+    el.disabled = false;
+    if (only) el.textContent = ok ? 'Saved' : 'Try again';
+    else { lab.textContent = ok === files.length ? 'All ' + ok + ' files saved' : ok + ' of ' + files.length + ' saved'; if (sub) sub.textContent = ok === files.length ? 'Next: rate and share' : 'Press again to try the rest'; }
+    if (ok) { askRating(); if (!only && ok === files.length) confetti(); }
+  }
 
   const DL = () => [
     ['boardPDF', 'Board · A1 PDF', 'For printing at the pin-up. ' + Math.round(P.board.w) + ' × ' + Math.round(P.board.h) + ' mm.'],
@@ -960,7 +1068,7 @@
   /* ---------------------------------------------------------- render */
   let ed = null;
   function render() {
-    const sc = S.screen;
+    let sc = S.screen;
     document.body.classList.toggle('editing', sc === 'edit');
     document.body.dataset.screen = sc;
     if (sc !== 'edit') ed = null;
@@ -969,6 +1077,7 @@
     fillMinis(app);
     if (sc === 'edit') startEditor();
     if (sc === 'making' && DEMO) runMaking();
+    if (sc === 'result' && !P && !DEMO) fillResultArt();
     if (sc === 'upload') bindDrop();
     if (sc === 'q') { const ci = document.getElementById('cardin'); if (ci) ci.focus(); }
   }
@@ -1261,6 +1370,16 @@
     },
     toResult: () => { clearTimeout(mkT); go('result'); },
     preview: () => startPreview(),
+    sendWaitFb: async (el) => {
+      const er = document.getElementById('wfErr'), note = (document.getElementById('wfnote') || {}).value || '';
+      if (!S.waitRate) { er.textContent = 'Pick 1 to 5 stars first.'; return; }
+      el.disabled = true;
+      const r = await API.feedback(S.job, { rating: S.waitRate, stage: 'waiting', note: ('(while waiting) ' + note.trim()).trim() });
+      if (r.ok) { S.waitFbSent = true; saveS(); const box = document.getElementById('waitfb'); if (box) box.outerHTML = waitFeedback(); }
+      else { el.disabled = false; er.textContent = r.status === 0 ? offline : 'Not sent. Try again in a moment.'; }
+    },
+    dlAllFiles: (el) => downloadFiles(el),
+    dlOne: (el) => downloadFiles(el, el.dataset.name),
     recheck: () => refresh(),
     reopen: async () => { S.resErr = null; await openResult(true); render(); },
     redoQ: () => { S.q = path().indexOf('cname') + 1 || 1; S.fromHeard = true; go('q'); },
@@ -1369,9 +1488,13 @@
     if (e.target.id === 'concept' || (e.target.dataset && e.target.dataset.card)) { const fx = document.getElementById('fixed'); if (fx) fx.outerHTML = onSheet(e.target.id === 'concept' ? 'concept' : e.target.dataset.card, e.target.value); }
     if (e.target.id === 'concept') { S.concept = e.target.value; saveS(); const nb = document.querySelector('[data-act="qnext"]'); if (nb) { nb.textContent = conceptLabel(); nb.classList.toggle('primary', !!concept()); } }
     if (e.target.dataset && e.target.dataset.card) { S.card[e.target.dataset.card] = e.target.value; saveS(); const on = !!e.target.value.trim(), er = document.getElementById('cardErr'); if (er && on) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', on); }
+    if (e.target.id === 'wfnote') { S.waitNote = e.target.value; saveS(); }
     if (e.target.id === 'email') { S.email = e.target.value; saveS(); e.target.classList.remove('needs'); const er = document.getElementById('emailErr'); if (er) er.textContent = ''; }
   });
-  app.addEventListener('change', (e) => { if (e.target.id === 'other') render(); });
+  app.addEventListener('change', (e) => {
+    if (e.target.id === 'other') render();
+    if (e.target.name === 'wfr') { S.waitRate = +e.target.value; saveS(); document.querySelectorAll('#waitfb .rstars label').forEach((l, i) => l.classList.toggle('on', i < S.waitRate)); }
+  });
   document.addEventListener('keydown', (e) => {
     if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('span[role="button"][data-act]')) { e.preventDefault(); e.target.click(); return; }
     if (e.key === 'Enter' && e.target.matches && e.target.matches('#cardin, #concept')) { e.preventDefault(); A.qnext(); return; }
@@ -1513,7 +1636,7 @@
     const lo = outs.find((o) => o.name === 'board/layout.json');
     const key = (S.job ? S.job.id : '') + ':' + (lo ? lo.bytes : 0) + ':' + ((ST.build || {}).attempt || 0) + ':' + (ST.redo_used ? 'r' : '');
     if (P && P.built === key && !force) return true;
-    if (!has('board/layout.json')) { P = null; S.resErr = 'The editor could not open this build, but every file is ready to download.'; return false; }
+    if (!has('board/layout.json')) { P = null; return false; }   // no editor for this build: the result page shows the files
     try {
       const board = await API.file(S.job, 'board/layout.json', 'json');
       const deck = has('deck/layout.json') ? await API.file(S.job, 'deck/layout.json', 'json') : null;
@@ -1532,7 +1655,7 @@
       return true;
     } catch (e) {
       console.warn(e);
-      P = null; S.resErr = 'The editor could not open your board on this device, but every file is ready to download.';
+      P = null;
       return false;
     }
   }
@@ -1562,7 +1685,9 @@
       }
       S.payStarted = null; S.payDeadline = null; S.payNote = null; saveS();
       if (st.stage === 'ready') { await openResult(true); go('result'); return; }
-      render(); poll(st.stage === 'failed' ? 60000 : 2500); return;
+      const z = document.getElementById('mkzone');
+      if (z && st.stage !== 'failed') z.innerHTML = makingZone(); else render();
+      poll(st.stage === 'failed' ? 60000 : 2500); return;
     }
     if (sc === 'price' && S.payNote === 'unconfirmed' && st.paid) { S.payNote = null; go('making'); poll(500); }
   }

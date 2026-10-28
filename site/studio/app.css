@@ -656,3 +656,14 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .cs .cl.compact { padding: .25em .45em; gap: .2em; }
 .cs .cl.mark { padding: .2em .35em; gap: .15em; }
 .cs .cl.mark .aim { margin-left: 0; }
+
+/* result without the editor: the board picture, the deck slides as pictures, loading shimmer, the files */
+.rboardimg { display: block; width: 100%; max-width: 360px; aspect-ratio: 594 / 841; object-fit: contain; background: #fff; border: 2px solid var(--line); border-radius: 4px; box-shadow: 4px 4px 0 var(--shadow); }
+.rslide { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: #fff; border: 1.5px solid var(--line); border-radius: 6px; }
+.rboardimg.ph, .rslide.ph { background: linear-gradient(100deg, #EFECE6 30%, #F8F6F2 50%, #EFECE6 70%) 0 0 / 200% 100%; animation: shimmer 1.4s linear infinite; }
+@keyframes shimmer { to { background-position: -200% 0; } }
+@media (prefers-reduced-motion: reduce) { .rboardimg.ph, .rslide.ph { animation: none; } }
+.rguide { padding: 14px 16px; } .rguide .lede { font-size: 15px; }
+.rfiles { display: flex; flex-direction: column; gap: 10px; }
+.rba .after img { max-width: 300px; width: 100%; }
+.waitfb { display: flex; flex-direction: column; gap: 10px; } .waitfb h2.mid { font-size: clamp(20px, 2.4vw, 26px); }
