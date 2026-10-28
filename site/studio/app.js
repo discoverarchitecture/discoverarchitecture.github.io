@@ -344,16 +344,28 @@
   const shiny = (act, title, small, extra) => '<button class="btn shiny' + (extra ? ' ' + extra : '') + '" data-act="' + act + '">' + SPARK + '<span class="cta"><b>' + title + '</b>' + (small ? '<small>' + small + '</small>' : '') + '</span><span class="arrow" aria-hidden="true">→</span></button>';
   const TICK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
   /* part: 'key' = only the magic part, 'rest' = only the six tiles, none = all */
-  function getsList(tier, nSl, part) {
+  function getsData(tier, nSl) {
     const ai = tier === 'great' ? ['Up to 15 new images', 'Hero view, plans, sections and diagrams, redrawn by AI']
       : tier === 'nice' ? ['1–4 new images', 'Your key views re-rendered by AI, the rest cleaned up']
       : ['Up to 15 new images', 'Hero view, plans, sections and diagrams, redrawn by AI (1–4 with Polish)'];
     const gets = [[ai[0], ai[1], 'key'], ['A1 board, print-ready', '594 × 841 mm on a clean grid'], ['Jury deck, ' + (nSl || 13) + ' slides', 'Contents first, one idea per slide'],
       ['Story and captions written', 'From your answers, checked against your drawings'], ['Labels, scale bars and north', 'Titles and drawing labels done for you'],
       ['Files you can keep editing', 'PDF, PowerPoint and InDesign'], [tier === 'nice' ? 'Ready in under 10 minutes' : tier === 'great' ? 'Ready in about 5 minutes' : 'Ready in minutes', 'Plus one free redo within 7 days']];
+    return gets.map((g, i) => [g[0], g[1], g[2] || '', ['spark', 'board', 'deck', 'text', 'north', 'files', 'clock'][i]]);
+  }
+  function getsList(tier, nSl, part) {
+    const gets = getsData(tier, nSl);
     const pick = part === 'key' ? gets.slice(0, 1) : part === 'rest' ? gets.slice(1) : gets;
     return '<ul class="gets">' + pick.map((g) => '<li' + (g[2] ? ' class="key"' : '') + '>' + TICK + '<div>' + (g[2] ? '<em class="keytag">✦ The magic part</em>' : '') + '<b>' + g[0] + '</b><span>' + g[1] + '</span></div></li>').join('') + '</ul>';
   }
+  /* line icons for the buying panel */
+  const DI = { spark: '<path d="M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/><path d="M18 15l.9 2.1L21 18l-2.1.9L18 21l-.9-2.1L15 18l2.1-.9z"/>',
+    board: '<rect x="5" y="3" width="14" height="18" rx="1"/><path d="M8 7h8M8 10.5h4M13.5 10.5H16v5h-2.5zM8 14h4M8 17.5h8"/>', deck: '<rect x="3" y="5" width="18" height="12" rx="1.5"/><path d="M7 9h6M7 12h4M12 17v4M8 21h8"/>',
+    text: '<path d="M5 6h14M5 10h14M5 14h9M5 18h6"/>', north: '<path d="M3 18h12M3 16v4M7.5 16.5v3M11 16v4M15 16v4"/><path d="M18.5 3l2.5 7-2.5-1.6L16 10z"/>',
+    files: '<path d="M14 3H6v18h12V7z"/><path d="M14 3v4h4M9 12h6M9 15.5h6M9 19h3"/>', clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
+    noacct: '<circle cx="12" cy="8" r="3.5"/><path d="M5 20c1-4 4-6 7-6s6 2 7 6"/><path d="M3 3l18 18"/>', redo: '<path d="M4 12a8 8 0 1 0 2.4-5.7M4 4v4h4"/>', lock: '<rect x="5" y="11" width="14" height="10" rx="2"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/>' };
+  const dic = (k) => '<svg class="dic" viewBox="0 0 24 24" aria-hidden="true">' + DI[k] + '</svg>';
+  const TRUST = () => '<ul class="trust"><li>' + dic('noacct') + 'No account needed</li><li>' + dic('redo') + 'One free redo in 7 days</li><li>' + dic('lock') + 'Secure checkout · Dodo Payments</li></ul>';
   /* board and deck side by side at equal weight (owner: "Deck & board both are important") */
   /* m: which model the thumbnails draw ('h' the sample, 'v' the preview, '' the project) */
   function sheets(nShow, extra, m) {
@@ -366,7 +378,158 @@
   const modelOf = (m) => m === 'h' ? HP : m === 'v' ? Q() : P;
   const didCards = () => '<div class="didgrid">' + DID.map(([b, a, t, d]) => '<figure class="pair"><div class="pimgs"><div><img src="' + HP.base + b + '" alt="Before: ' + esc(t) + '" loading="lazy"><em>Before</em></div><span class="parrow" aria-hidden="true">→</span><div><img src="' + HP.base + a + '" alt="After: ' + esc(t) + '" loading="lazy"><em class="after">After</em></div></div><figcaption><b>' + t + '</b><span>' + d + '</span></figcaption></figure>').join('') + '</div>';
   const TIERS = { nice: ['Polish', 11, ['Your drawings cleaned up and lined up', '1–4 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
-    great: ['Transform', 16, ['Everything in Polish', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
+    great: ['Transform', 16, ['Everything in the Polish option ($11)', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
+
+  /* ---------- composition preview (rule 26, D85; owner picked option 2 on 28 Oct, prototype b6c744c..d9a1f66).
+     The final layout: slots from the student's drawings are shown faded with a bold label and an AI mark, slots
+     AI Studio will create are grey "· new" boxes, text slots are placeholder lines. Live data: the status's
+     preview.composition (server/README.md, "The composition"); x, y, w, h are fractions of the page. The demo uses
+     the prototype's mock on the sample sheets (`crop` is a demo-only extra so one sheet can show the right part). */
+  let COMP = null, COMPSRC = null;
+  const CONCEPT_NOTE = () => concept() || (DEMO ? (P.board.texts.find((x) => x.id === 'b-concept') || { paras: [{ runs: [] }, { runs: [] }] }).paras[1].runs.map((r) => r.t).join('') : '');
+  const noteOf = (sd) => typeof sd.note === 'string' ? sd.note : sd.note ? CONCEPT_NOTE() : '';
+  function composition() {
+    if (DEMO) return COMP || (COMP = demoComposition());
+    const c = ST && ST.preview && ST.preview.composition;
+    if (c && c.board && c.deck) {
+      if (COMPSRC !== c) {
+        COMPSRC = c;
+        const dw = c.deck.w_mm || 338.667, dh = c.deck.h_mm || 190.5;
+        COMP = { board: { slots: c.board.slots || [], ratio: (c.board.w_mm || 594) / (c.board.h_mm || 841) },
+          deck: { ratio: dw / dh, slides: (c.deck.slides || []).map((x, i) => ({ n: x.n || i + 1, title: x.title || '', kind: x.kind || '', contents: x.contents || [], note: x.note || null, slots: x.slots || [] })) },
+          basics: c.basics || [] };
+      }
+      return COMP;
+    }
+    return compFromSketch();
+  }
+  /* an older server without `composition`: the same picture made from the plan's sketch */
+  function compFromSketch() {
+    const M = PV;
+    if (!M) return { board: { slots: [], ratio: 594 / 841 }, deck: { ratio: 16 / 9, slides: [] } };
+    const of = (pg) => pg.slots.map((sl) => { const c = pg.contents[sl.content]; return { label: c.alt || 'Drawing', role: '', source: 'student', image_url: c.src, x: sl.x / pg.w, y: sl.y / pg.h, w: sl.w / pg.w, h: sl.h / pg.h }; })
+      .concat(pg.texts.map((t) => ({ label: NAMES[t.name] || 'Text', role: t.name === 'title' ? 'title' : 'text', source: 'text', image_url: null, x: t.x / pg.w, y: t.y / pg.h, w: t.w / pg.w, h: (t.maxH || 10) / pg.h })));
+    return { board: { slots: of(M.board), ratio: 594 / 841 }, deck: { ratio: 16 / 9, slides: M.slides.map((pg) => { const m = (M.slideMeta || {})[pg.n]; return { n: pg.n, title: m ? m.label : 'Cover', kind: m ? m.role : 'cover', contents: [], note: null, slots: of(pg) }; }) } };
+  }
+  function demoComposition() {
+    const BW = P.board.w, BH = P.board.h, raw = (f) => P.base + 'raw/' + f;
+    const at = (o) => ({ x: o.x / BW, y: o.y / BH, w: o.w / BW, h: (o.h || o.maxH) / BH });
+    const img = (id, label, role, source, file, crop) => Object.assign(at(P.board.slots.find((x) => x.id === id)), { label, role, source, image_url: file ? raw(file) : null, crop });
+    const txt = (id, label, role) => Object.assign(at(P.board.texts.find((x) => x.id === id)), { label, role, source: 'text', image_url: null });
+    const board = { ratio: BW / BH, slots: [txt('b-title', 'Title', 'title'), txt('b-info', 'Title block', 'info'), img('b-hero', 'Hero render', 'render', 'create'),
+      txt('b-concept', 'Concept', 'concept'), txt('b-story', 'Story', 'text'), txt('b-ideas', 'Three ideas', 'text'),
+      img('b-sk1', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .036, .474, .338]), img('b-sk2', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .36, .474, .66]),
+      img('b-sk3', 'Sketch', 'process', 'student', 'sheet-3.jpg', [.228, .68, .474, .98]), img('b-fabric', 'Concept diagram', 'concept', 'student', 'sheet-3.jpg', [.609, .07, .987, .25]),
+      img('b-elev', 'Elevation', 'elevation', 'create'), img('b-model-court', 'Model photo', 'model', 'student', 'sheet-3.jpg', [.609, .507, .987, .74]),
+      img('b-model-fabric', 'Model photo', 'model', 'student', 'sheet-3.jpg', [.609, .75, .987, .99]), img('b-model-roof', 'Model photo', 'model', 'student', 'sheet-5.jpg', [.176, .548, .647, .99]),
+      img('b-site', 'Site plan', 'site', 'student', 'sheet-1.jpg', [.15, .225, .578, .97]), img('b-plan', 'Plan', 'plan', 'student', 'sheet-6.jpg'),
+      img('b-section', 'Section', 'section', 'student', 'sheet-5.jpg', [.005, .028, .995, .524]), img('b-street', 'Section perspective', 'view', 'create')] };
+    const S_ = (label, role, source, x, y, w, h, file, crop) => ({ label, role, source, x, y, w, h, image_url: file ? raw(file) : null, crop });
+    const T_ = (label, x, y, w, h, role) => S_(label, role || 'text', 'text', x, y, w, h);
+    const head = T_('Title', .04, .07, .5, .14, 'heading');
+    const slides = [
+      ['Cover', 'cover', ['Hero render · new', 'Project title and title block'], [S_('Hero render', 'render', 'create', .04, .08, .56, .84), T_('Title', .64, .1, .32, .26, 'title'), T_('Title block', .64, .7, .32, .18, 'info')]],
+      ['Contents', 'contents', ['The sections, numbered'], [T_('Contents', .06, .1, .88, .78)]],
+      ['Brief & program', 'brief', ['Brief note', '1 brief sheet'], [head, T_('Brief', .04, .3, .38, .55), S_('Brief sheet', 'brief', 'student', .48, .3, .48, .55, 'sheet-2.jpg')]],
+      ['Site & context', 'site', ['1 site plan', 'Site note'], [head, S_('Site plan', 'site', 'student', .36, .24, .6, .7, 'sheet-1.jpg', [.15, .225, .578, .97]), T_('About the site', .04, .62, .28, .28)]],
+      ['Concept', 'concept', ['Concept note', '1 concept diagram'], [head, S_('Concept diagram', 'concept', 'student', .36, .26, .6, .5, 'sheet-3.jpg', [.609, .07, .987, .25]), T_('Concept', .04, .3, .28, .4, 'concept')]],
+      ['Process', 'process', ['2 sketches', '1 model photo'], [head, S_('Sketch', 'process', 'student', .04, .32, .29, .5, 'sheet-3.jpg', [.228, .036, .474, .338]), S_('Sketch', 'process', 'student', .355, .32, .29, .5, 'sheet-3.jpg', [.228, .36, .474, .66]), S_('Model photo', 'model', 'student', .67, .32, .29, .5, 'sheet-3.jpg', [.609, .507, .987, .74])]],
+      ['Plans', 'plan', ['1 plan', 'Plan note'], [head, S_('Plan', 'plan', 'student', .36, .1, .6, .84, 'sheet-6.jpg'), T_('About the plan', .04, .62, .28, .28)]],
+      ['Sections', 'section', ['1 section', 'Section note'], [head, S_('Section', 'section', 'student', .04, .27, .92, .5, 'sheet-5.jpg', [.005, .028, .995, .524]), T_('About the section', .04, .82, .5, .1)]],
+      ['Elevations', 'elevation', ['1 elevation · new'], [head, S_('Elevation', 'elevation', 'create', .04, .3, .92, .48), T_('About the elevation', .04, .82, .5, .1)]],
+      ['Views', 'views', ['1 entrance view', '1 model photo', '1 interior view · new'], [S_('Entrance view', 'render', 'student', .04, .08, .6, .84, 'sheet-4.jpg'), S_('Model photo', 'model', 'student', .68, .08, .28, .4, 'sheet-5.jpg', [.176, .548, .647, .99]), S_('Interior view', 'render', 'create', .68, .52, .28, .4)]],
+      ['Axonometric', 'axonometric', ['1 axonometric · new', 'Structure note'], [head, S_('Axonometric', 'axonometric', 'create', .36, .1, .6, .84), T_('How it stands', .04, .62, .28, .28)]],
+      ['Closing', 'closing', ['Hero render', 'The three ideas'], [S_('Hero render', 'render', 'create', 0, 0, 1, 1), T_('Three ideas', .05, .58, .5, .32)]]
+    ].map(([title, kind, contents, slots], i) => ({ n: i + 1, title, kind, contents, note: kind === 'concept', slots }));
+    return { board, deck: { ratio: 16 / 9, slides } };
+  }
+  /* the deck's order and left-out slides. Demo: kept here. Live: a slide that matches one of the plan's slides is left
+     out through the plan (PUT /jobs/{id}/plan), so the build follows it; the others (cover, contents, new basics) stay. */
+  function editOf(sd) {
+    if (DEMO || !PV || !PV.slideMeta) return null;
+    const metas = Object.values(PV.slideMeta), norm2 = (x) => String(x || '').toLowerCase();
+    const m = metas.find((x) => norm2(x.role) === norm2(sd.kind)) || metas.find((x) => norm2(x.label) === norm2(sd.title) || norm2(x.title) === norm2(sd.title));
+    return m || null;
+  }
+  const isOff = (sd) => { if (DEMO) return (S.pvOff || []).includes(sd.n); const m = editOf(sd); return !!(m && PV.slideOff.includes(m.n)); };
+  const pvSlides = () => { const all = composition().deck.slides, ord = (S.pvOrder && S.pvOrder.length === all.length && all.every((x) => S.pvOrder.includes(x.n))) ? S.pvOrder : all.map((x) => x.n);
+    return ord.map((n) => all.find((x) => x.n === n)); };
+  const pvOn = () => pvSlides().filter((x) => !isOff(x));
+  function compCounts(c) {
+    const yours = {}, made = {}, byTier = { polish: {}, transform: {} };
+    [c.board.slots].concat(c.deck.slides.map((x) => x.slots)).forEach((list) => list.forEach((sl) => {
+      if (sl.source === 'student') yours[sl.image_url ? String(sl.image_url).split('?')[0] + (sl.crop || '') : sl.label] = 1;
+      else if (sl.source === 'create') { made[sl.label] = 1; if (sl.tier === 'polish' || sl.tier === 'transform') byTier[sl.tier][sl.label] = 1; } }));
+    const np = Object.keys(byTier.polish).length, nt = Object.keys(byTier.transform).length;
+    return [Object.keys(yours).length, Object.keys(made).length, np + nt ? [np, np + nt] : null];
+  }
+  const cropCSS = (cr) => !cr ? 'background-size:cover;background-position:center' : (() => { const w = cr[2] - cr[0], h = cr[3] - cr[1], bp = (a, sp) => sp >= 1 ? '0' : (a / (1 - sp) * 100).toFixed(1) + '%';
+    return 'background-size:' + (100 / w).toFixed(1) + '% ' + (100 / h).toFixed(1) + '%;background-position:' + bp(cr[0], w) + ' ' + bp(cr[1], h); })();
+  const MINISPARK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/></svg>';
+  const projTitle = () => tidy('title', S.card.title) || (ST && ST.intake && ST.intake.card ? ST.intake.card.project_title : '') || (DEMO ? SAMPLE.name : 'Your project');
+  function compSlot(sl, p, i) {
+    const pos = 'left:' + (sl.x * 100).toFixed(2) + '%;top:' + (sl.y * 100).toFixed(2) + '%;width:' + (sl.w * 100).toFixed(2) + '%;height:' + (sl.h * 100).toFixed(2) + '%';
+    const sel = S.pvSel && S.pvSel[0] === p && S.pvSel[1] === i ? ' sel' : '';
+    if (sl.source === 'text') {
+      if (sl.role === 'title') return '<div class="cs ctitle" style="' + pos + '"><b>' + esc(projTitle()) + '</b><i></i><i></i></div>';
+      return '<button class="cs text' + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(sl.label) + ', text"><span>' + esc(sl.label) + '</span><i></i><i></i><i></i></button>';
+    }
+    const src = sl.source === 'create' ? 'create' : 'student';
+    const im = src === 'student' && sl.image_url ? '<b class="ci" style="background-image:url(&quot;' + esc(sl.image_url) + '&quot;);' + cropCSS(sl.crop) + '"></b>' : '';
+    const lab = String(sl.label || '').replace(/\s*·\s*new$/i, '');
+    return '<button class="cs ' + src + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(lab) + (src === 'create' ? ', new by AI Studio' : ', from your drawings, retouched by AI Studio') + '">' + im +
+      '<span class="cl">' + (src === 'create' ? MINISPARK : '') + esc(lab) + (src === 'create' ? ' · new' : '<em class="aim" aria-hidden="true">' + MINISPARK + 'AI</em>') + '</span></button>';
+  }
+  const compPage = (slots, ratio, p) => '<div class="comp show-' + (S.pvShow || 'all') + '" style="aspect-ratio:' + ratio.toFixed(4) + '">' + slots.map((sl, i) => compSlot(sl, p, i)).join('') + '</div>';
+  const compBoard = () => compPage(composition().board.slots, composition().board.ratio, 0);
+  const compSlide = (sd) => compPage(sd.slots, composition().deck.ratio, sd.n);
+  function slotWhat(sl) {
+    if (!sl) return ['Tap any box', 'See what each part of your board and deck will become.'];
+    const lab = String(sl.label || '').replace(/\s*·\s*new$/i, '');
+    if (sl.source === 'create') return [lab + ' · new by AI Studio', 'Drawn by AI Studio from your plans, sections and views, in the same style as the rest. Nothing is made up: it shows only what your drawings show.' + (sl.tier === 'transform' ? ' Made with Transform.' : sl.tier === 'polish' ? ' Made with Polish and Transform.' : '')];
+    if (sl.source === 'text') return [lab + ' · written by AI Studio', 'Written from your answers and drawings. You can change every word in the editor.'];
+    const tech = /plan|section|site|elevation/.test(sl.role || '') ? ', scale bar and north arrow' : '';
+    return [lab + ' · from your drawings, retouched by AI', 'Your own drawing, cleaned up and reworked by AI to match the board, with its caption' + tech + '.'];
+  }
+  const selSlot = () => { if (!S.pvSel) return null; const c = composition(); const list = S.pvSel[0] === 0 ? c.board.slots : (c.deck.slides.find((x) => x.n === S.pvSel[0]) || { slots: [] }).slots; return list[S.pvSel[1]] || null; };
+  const slotInfoHTML = () => { const sl = selSlot(), w = slotWhat(sl);
+    return '<div class="sinfo' + (sl ? ' on ' + (sl.source === 'create' ? 'create' : sl.source) : '') + '" id="slotinfo" aria-live="polite"><b>' + esc(w[0]) + '</b><span>' + esc(w[1]) + '</span></div>'; };
+  /* No tier is chosen here (owner, 28 Oct): the "how far should AI go" answer is about moving away from the design,
+     not about quality, so the card shows the starting price and both tiers; the student picks on the next page. */
+  function orderCard(nSl, tiers) {
+    const key = getsData(null, nSl)[0];
+    return '<aside class="order"><div class="ohead"><p class="kicker">Your order</p></div>' +
+      '<h2 class="mid">Your board and deck</h2><p class="osub">A1 board · ' + nSl + '-slide jury deck · ready in minutes</p>' +
+      '<p class="oprice"><small>from</small><b>$11</b><span>Polish $11 · Transform $16 · one payment, no subscription</span></p>' +
+      (tiers ? '<p class="osub" style="margin:0">Polish adds ' + tiers[0] + ' new · Transform adds ' + tiers[1] + ' new</p>' : '') +
+      '<div class="magic">' + dic('spark') + '<div><em class="keytag">✦ The magic part</em><b>' + key[0] + '</b><span>' + key[1] + '</span></div></div>' +
+      '<div id="maincta">' + shiny('toPrice', 'Make my board and deck', 'Pick Polish or Transform next') + '</div>' + TRUST() + '</aside>';
+  }
+  const includedCards = (nSl) => '<div class="ifull"><p class="kicker">What’s included</p><ul class="icards">' + getsData(null, nSl).slice(1).map((r) => '<li>' + dic(r[3]) + '<b>' + r[0] + '</b><span>' + r[1] + '</span></li>').join('') + '</ul></div>';
+  const capOf = (sd) => '<figcaption><b>' + esc(sd.title) + '</b><span>' + esc((sd.contents || []).join(' · ')) + '</span></figcaption>';
+  function previewPanel() {
+    const c = composition(), nSl = pvOn().length, [ny, nn, tiers] = compCounts(c), sh = S.pvShow || 'all';
+    const legend = '<div class="legend"><span class="lg yours"><i></i>' + ny + ' from your drawings, retouched by AI</span><span class="lg new"><i></i>' + nn + ' new by AI Studio</span><span class="lg txt"><i></i>Text written for you</span></div>';
+    const showSeg = '<div class="seg pvseg" role="group" aria-label="Show">' + [['all', 'Everything'], ['yours', 'Your drawings <small class="airew">(AI reworks)</small>'], ['new', 'What AI Studio adds']].map(([v, l]) => '<button data-act="pvShow" data-v="' + v + '" class="' + (sh === v ? 'on' : '') + '" aria-pressed="' + (sh === v) + '">' + l + '</button>').join('') + '</div>';
+    const ctabar = '<div class="ctabar" id="ctabar"><div><b>Your board + ' + nSl + '-slide deck</b><span>' + ny + ' of your drawings · ' + nn + ' new · from $11</span></div><button class="btn primary" data-act="toPrice">Make it</button></div>';
+    const head = '<div class="pvhead"><div><p class="kicker">Step 3 · free preview</p><h1 class="mid">This is your board and deck</h1></div></div>';
+    const tab = S.pvTab === 'deck' ? 'deck' : 'board';
+    const tabs = '<div class="seg pvtabs" role="tablist" aria-label="Sheet">' + [['board', 'A1 board'], ['deck', 'Jury deck · ' + nSl]].map(([v, l]) => '<button role="tab" data-act="pvTab" data-v="' + v + '" class="' + (tab === v ? 'on' : '') + '" aria-selected="' + (tab === v) + '">' + l + '</button>').join('') + '</div>';
+    const stage = tab === 'board' ? '<div class="pvstage board">' + compBoard() + '</div>'
+      : '<div class="pvstage deck"><div class="dgrid">' + pvOn().map((sd) => '<figure class="dslide">' + compSlide(sd) + capOf(sd) + '</figure>').join('') + '</div></div>';
+    return '<section class="deal dealx pv2">' + head + '<div class="pvtop"><div class="pvmain"><div class="pvtools">' + tabs + showSeg + '</div>' + legend + stage + '</div>' +
+      '<div class="pvrail">' + slotInfoHTML() + orderCard(nSl, tiers) + '</div></div>' + includedCards(nSl) + ctabar + '</section>';
+  }
+  function pvList() {
+    const all = pvSlides();
+    return '<ol class="dlist">' + all.map((sd, k) => {
+      const o = isOff(sd), pos = all.slice(0, k + 1).filter((x) => !isOff(x)).length, m = editOf(sd), note = noteOf(sd);
+      const locked = !DEMO && (!m || (m.required && !o)), why = !DEMO && !m ? ' title="AI Studio keeps this slide"' : !DEMO && m && m.required ? ' title="Needed for your drawings"' : '';
+      return '<li class="drow' + (o ? ' off' : '') + '"><span class="dnum" aria-hidden="true">' + (o ? '–' : String(pos).padStart(2, '0')) + '</span><div class="dcard"><div class="dthumb">' + compSlide(sd) + '</div>' +
+        '<div class="dtxt"><b>' + esc(sd.title) + '</b><ul class="dcont">' + (sd.contents || []).map((x) => '<li>' + esc(x) + '</li>').join('') + '</ul>' + (note ? '<p class="dnote">“' + esc(note) + '”</p>' : '') + (o ? '<p class="hint">Left out of the deck</p>' : '') + '</div>' +
+        '<div class="dctl"><button data-act="pvMove" data-k="' + k + '" data-d="-1" aria-label="Move ' + esc(sd.title) + ' up"' + (k <= 1 ? ' disabled' : '') + '>↑</button><button data-act="pvMove" data-k="' + k + '" data-d="1" aria-label="Move ' + esc(sd.title) + ' down"' + (k === 0 || k === all.length - 1 ? ' disabled' : '') + '>↓</button>' +
+        '<button data-act="pvLeave" data-n="' + sd.n + '"' + (k === 0 || locked ? ' disabled' : '') + why + '>' + (o ? 'Put back' : 'Leave out') + '</button></div></div></li>'; }).join('') + '</ol>';
+  }
 
   /* ---------------------------------------------------------- screens */
   const V = {};
@@ -481,51 +644,41 @@
         '<button data-act="ideaUp" data-i="' + i + '" aria-label="Move up"' + (i === 0 ? ' disabled' : '') + '>↑</button><button data-act="ideaDown" data-i="' + i + '" aria-label="Move down"' + (i === M.ideas.length - 1 ? ' disabled' : '') + '>↓</button>' +
         (M.altIdeas.length ? '<button data-act="ideaSwap" data-i="' + i + '">Swap</button>' : '') + '<button data-act="ideaOn" data-i="' + i + '"' + (idea.on && on <= minOn ? ' disabled title="Keep at least ' + minOn + ' ideas"' : '') + '>' + (idea.on ? 'Turn off' : 'Turn on') + '</button></div></div>' + alts;
     }).join('');
-    const slides = M.slideOrder.map((n, k) => {
-      const s = M.slides.find((x) => x.n === n), off = M.slideOff.includes(n), need = !DEMO && ((M.slideMeta || {})[n] || {}).required;
-      return '<div class="item' + (off ? ' off' : '') + '"><div class="sth" data-mini="slide:' + n + '" data-m="v" data-w="112"></div><div class="txt"><strong>' + esc(slideTitle(s)) + '</strong><span class="role">' + esc(slideRole(s)) + '</span><span>' + (off ? 'Left out of the deck' : 'Slide ' + (F.visibleSlides(M).findIndex((x) => x.n === n) + 1)) + (need ? ' · needed for your drawings' : '') + '</span></div><div class="ctl">' +
-        '<button data-act="slUp" data-k="' + k + '" aria-label="Move up"' + (k <= 1 ? ' disabled' : '') + '>↑</button><button data-act="slDown" data-k="' + k + '" aria-label="Move down"' + (k === 0 || k === M.slideOrder.length - 1 ? ' disabled' : '') + '>↓</button>' +
-        '<button data-act="slOn" data-n="' + n + '"' + (k === 0 || (need && !off) ? ' disabled' : '') + '>' + (off ? 'Put back' : 'Leave out') + '</button></div></div>';
-    }).join('');
+    const slides = pvList();
     const hero = ans('proud') !== null && ans('proud') !== 'other' ? QB.proud.o[ans('proud')][0].toLowerCase() : 'your strongest view';
     const tags = [['Hero: ' + hero, 'proud']].concat(isPro() ? [[heard('room', 'Voice: AI Studio decides'), 'room'], [heard('stage', 'Renders: AI Studio decides'), 'stage']] : [[heard('crit', 'Fix first: AI Studio checks the weakest part'), 'crit'], [heard('word', 'Balanced emphasis'), 'word']])
       .concat([[heard('words', 'Captions plus 3 key ideas'), 'words'], [heard('proc', 'Process: AI Studio decides'), 'proc']])
       .map(([t, k]) => '<div class="pcard"><img src="' + pic(HP, planImg(k)) + '" alt=""><div class="pbody"><b>' + esc(t) + '</b><span class="tag">' + (ans(k) === null ? 'AI Studio’s pick' : 'Because you said: ' + esc(said(k))) + '</span></div></div>').join('');
     const cline = concept() ? '<section class="cline card"><p class="kicker">Your concept</p><p class="ctext">' + esc(concept()) + '</p><div class="row"><span class="tag">Your words, spelling checked</span><button class="link" data-act="editq" data-k="concept">Change</button></div></section>'
       : '<p class="hint">No concept typed' + (briefs().length ? ': AI Studio takes it from your brief.' : ': AI Studio plans the story from your drawings.') + ' <button class="link" data-act="editq" data-k="concept">Add your concept</button></p>';
-    const nSl = F.visibleSlides(M).length;
-    /* first view (owner, 28 Oct): board and deck on the left; on the right the magic part and the next-step button,
-       visible without scrolling. Payment stays on the next page. */
-    const t = S.tier || tierFromAnswers();
-    const sketch = DEMO ? '' : '<p class="hint">A first sketch from your own drawings. AI Studio sets the final layout and makes the new images after you pay.</p>';
-    const deal = '<section class="deal deal3"><div class="dealleft">' + sheets(0, '<div class="row"><span class="chip ink">' + (t === 'great' ? 'TRANSFORM' : 'POLISH') + '</span><span class="chip">TEXT STYLE ' + M.ts + '</span></div>' + sketch, 'v') + '</div>' +
-      '<div class="dealtxt"><p class="kicker">Step 3 · free</p><h1 class="mid">Here is what AI Studio will make</h1>' + getsList(t, nSl, 'key') +
-      shiny('toPrice', 'Make my board and deck', 'From $11 · ready in about 5 minutes') +
-      '<p class="hint">No account needed. You pick Polish or Transform and see the exact price next.</p><p class="kicker">What’s included</p>' + getsList(t, nSl, 'rest') + '</div></section>';
+    /* first view: the composition preview with the order card; payment stays on the next page */
+    const deal = previewPanel();
     const notes = DEMO ? '' : '<p class="status" id="planSaved" aria-live="polite">' + esc(planSaved) + '</p>' + (S.planNotes && S.planNotes.length ? '<div class="card"><p class="kicker">Notes from AI Studio</p>' + S.planNotes.map((x) => '<p class="hint" style="margin:4px 0 0">' + esc(x) + '</p>').join('') + '</div>' : '');
-    return '<main class="wrap">' + backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + deal + '<h2 class="mid" style="margin-top:28px">Change anything first</h2><p class="lede">Built from your answers and your drawings. Move, swap or remove anything until it tells your project the way you would at the pin-up.</p>' + cline +
+    return '<main class="wrap pvwrap">' + backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + deal + '<h2 class="mid" style="margin-top:28px">Change anything first</h2><p class="lede">Built from your answers and your drawings. Move, swap or remove anything until it tells your project the way you would at the pin-up.</p>' + cline +
       '<div class="pcards">' + tags + '</div>' + notes + '<div class="two"><div class="list"><h2 class="mid">The three ideas</h2><p class="lede">The spine of your board and deck. Reorder, swap or turn one off; the board preview updates as you go.</p>' + ideas +
-      '<h2 class="mid" style="margin-top:18px">The jury deck</h2><p class="lede">' + F.visibleSlides(M).length + ' slides. Reorder them or leave some out. The cover stays first.</p>' + slides + '</div>' +
-      '<aside class="list" style="position:sticky;top:90px"><p class="kicker">Your A1 board</p><div class="sth" data-mini="board" data-m="v" data-w="300"></div>' +
+      '<h2 class="mid" style="margin-top:18px">The jury deck</h2><p class="lede">' + pvOn().length + ' slides, in the order a jury reads them. Move one or leave it out; the cover stays first.</p>' + slides + '</div>' +
+      '<aside class="list" style="position:sticky;top:90px"><p class="kicker">Your A1 board</p>' + compBoard() +
       '<button class="btn shiny small-shiny" data-act="toPrice">' + SPARK + '<span class="cta"><b>Make it now</b><small>Board + deck · from $11</small></span><span class="arrow" aria-hidden="true">→</span></button></aside></div></main>';
   };
 
+  /* Pay page (owner comments, 28 Oct): Transform selected until the student changes it; the landing's taped
+     before/after instead of a blurred board; a clear "Write your email" label; the Pay button floats at the bottom. */
   V.price = () => {
-    const t = S.tier || tierFromAnswers();
-    const why = '<span class="tag">because you said Q' + (path().indexOf('ai') + 1) + ' ' + esc(said('ai')) + '</span>';
-    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">$' + price + '</span><ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul>' + (tierFromAnswers() === id ? why : '') + '</button>';
+    const t = S.tier || 'great';
+    const card = (id, name, price, items) => '<button class="tier' + (t === id ? ' sel' : '') + '" data-act="tier" data-t="' + id + '" aria-pressed="' + (t === id) + '"><span class="kicker">' + name + '</span><span class="price">$' + price + '</span><ul>' + items.map((x) => '<li>' + x + '</li>').join('') + '</ul></button>';
     const note = S.payNote === 'cancelled' ? '<div class="card"><p class="kicker">Payment cancelled</p><p class="lede">Nothing was charged. Pick your finish and try again when you are ready.</p></div>'
       : S.payNote === 'unconfirmed' ? '<div class="card"><p class="kicker">Payment not confirmed yet</p><p class="lede">If you paid, it can take a minute: we email your receipt as soon as it is confirmed. If you cancelled, nothing was charged.</p><div class="row"><button class="btn small" data-act="recheck">Check again</button></div></div>' : '';
-    return '<main class="wrap narrow">' + backbar([['← Back to your preview', 'plan'], ['Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + note + '<p class="kicker">Step 4</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.</p>' +
+    return '<main class="wrap narrow paywrap">' + backbar([['← Back to your preview', 'plan'], ['Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + note + '<p class="kicker">Step 4</p><h1 class="big">Pick your finish</h1><p class="lede">Both give you the A1 board and the jury deck, as PDF and PowerPoint, with an editor to fix anything. Pay once. No subscription.</p>' +
       '<div class="tiers">' + card('nice', ...TIERS.nice) + card('great', ...TIERS.great) + '</div>' +
-      '<p class="kicker">What you’ll get</p><div class="blue" aria-label="Blurred preview of the board"><div class="sth" data-mini="board" data-m="v" data-w="680" style="border:0"></div></div>' +
-      '<div class="field"><label for="email">Email for your receipt</label><p class="hint" style="margin:0 0 6px">We send your receipt here, plus a link to your files in case you need them again.</p><input id="email" class="input" type="email" autocomplete="email" placeholder="you@school.edu" value="' + esc(S.email) + '"></div><p class="err" id="emailErr" role="alert"></p>' +
-      '<div class="row"><button class="btn primary" data-act="pay" id="payBtn">Pay $' + (t === 'great' ? 16 : 11) + ' and make it</button></div>' +
+      '<section class="paywow"><p class="kicker">What AI Studio does</p>' + heroArt() + '</section>' +
+      '<div class="field"><label for="email" class="biglabel">Write your email</label><p class="hint" style="margin:0 0 6px">For your receipt and a link back to your files.</p><input id="email" class="input" type="email" autocomplete="email" placeholder="you@school.edu" value="' + esc(S.email) + '"></div><p class="err" id="emailErr" role="alert"></p>' +
+      '<div class="ctabar paybar"><div><b>' + TIERS[t][0] + ' · board + deck</b><span>$' + TIERS[t][1] + ' · one payment, no subscription</span></div>' +
+      '<button class="btn primary" data-act="pay" id="payBtn">Pay $' + TIERS[t][1] + '</button></div>' +
       '<p class="hint"><b>No refunds. One free redo within 7 days.</b> ' + LEGALLINKS + '</p>' +
       (DEMO ? '<p class="status">Demo: no card and no charge. The live app opens the Dodo Payments checkout here.</p>' : '<p class="status">Secure checkout by Dodo Payments, shown in your currency.</p>') + '</main>';
   };
 
-  const isGreat = () => (S.tier || tierFromAnswers()) === 'great';
+  const isGreat = () => (S.tier || 'great') === 'great';
   const MAKE = () => ['Drawings cleaned and placed on the grid', 'Plan, section and site set to scale, scale bars and north drawn']
     .concat(isGreat() ? ['Re-rendering the entrance view', 'Redrawing the plan and section: tones, shadows, trees', 'Drawing new diagrams in the same family'] : ['Polishing your drawings, with 1–4 AI re-renders'])
     .concat(['Writing the story and captions from your answers', 'Checking every sentence against your sheets', 'Laying out the A1 board', 'Building the ' + F.visibleSlides(P).length + '-slide jury deck']);
@@ -559,7 +712,7 @@
     if (st.stage === 'failed') return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Something went wrong on our side</h1>' +
       '<div class="card"><p class="lede">We are rerunning it for free. You will get an email at <b>' + mail + '</b> as soon as your board and deck are ready, with a link back here.</p></div>' +
       '<p class="hint">Nothing to do on your side. Questions: hello@findgreatarchitecture.com</p></main>';
-    const at = Math.max(0, BUILD.indexOf(st.step)), held = b.status === 'held';
+    const at = stepAt(BUILD_KEYS, BUILD, b.stage || st.step_key, b.label || st.step), held = b.status === 'held';
     return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Making your board and deck</h1>' +
       '<div class="row"><span class="chip ink">' + (g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">' + (held || b.status === 'queued' || b.status === 'none' ? 'IN THE QUEUE' : 'STEP ' + (at + 1) + ' OF ' + BUILD.length) + '</span>' + (typeof st.progress === 'number' ? '<span class="chip">' + st.progress + '%</span>' : '') + totalChip() + '</div>' +
       (held ? '<div class="card"><p class="lede">It is a busy day, so your build waits in a short queue. We will email you when it starts and when it is ready.</p></div>' : '') +
@@ -567,7 +720,11 @@
       '<p class="lede">You can close this tab. We will email <b>' + mail + '</b> when it is ready, with a link back to your board.</p></main>';
   };
   /* live: the free preview being planned (server/core/progress.py PREVIEW_STAGES), or why it stopped */
-  const PLANS = ['Reading your files', 'Finding every drawing', 'Reading your concept', 'Planning the story'];
+  const PLANS = ['Reading your files', 'Finding every drawing', 'Reading your concept', 'Planning the story', 'Laying out your board and deck'];
+  /* the server's step keys (server/README.md, "Progress"); the label is the fallback for an older server */
+  const PLAN_KEYS = ['ingest', 'read_sheets', 'concept', 'story', 'composition'];
+  const BUILD_KEYS = ['ingest', 'read_sheets', 'concept', 'story', 'pictures', 'labels', 'layout', 'fill_slots', 'build', 'checks'];
+  const stepAt = (keys, labels, key, label) => Math.max(0, keys.indexOf(key) >= 0 ? keys.indexOf(key) : labels.indexOf(label));
   V.planning = () => {
     const st = ST || {}, pv = st.preview || {}, back = backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]);
     if (S.limit) return '<main class="wrap narrow">' + back + '<p class="kicker">Step 3 · free</p><h1 class="big">That’s today’s free previews</h1>' +
@@ -576,7 +733,7 @@
     if (S.pvErr || pv.status === 'failed') return '<main class="wrap narrow">' + back + '<p class="kicker">Step 3 · free</p><h1 class="big">The preview didn’t work this time</h1>' +
       '<div class="card"><p class="lede">' + esc(S.pvErr || pv.error || 'The preview could not be made this time. Try again in a minute.') + '</p></div>' +
       '<div class="row"><button class="btn primary" data-act="preview">Try again</button><button class="btn" data-act="go" data-s="upload">Add or change drawings</button></div></main>';
-    const at = Math.max(0, PLANS.indexOf(st.step)), running = pv.status === 'running';
+    const at = stepAt(PLAN_KEYS, PLANS, pv.stage || st.step_key, pv.label || st.step), running = pv.status === 'running';
     return '<main class="wrap narrow"><p class="kicker">Step 3 · free</p><h1 class="big">Planning your board and deck</h1>' +
       '<div class="row"><span class="chip ink">FREE PREVIEW</span><span class="chip">' + (running ? 'STEP ' + (at + 1) + ' OF ' + PLANS.length : 'STARTING') + '</span>' + totalChip() + '</div>' +
       '<div class="making" id="mk">' + stepList(PLANS, at, running) + '</div>' +
@@ -999,17 +1156,45 @@
     slDown: (el) => moveSlide(+el.dataset.k, 1),
     slOn: (el) => { const M = Q(), n = +el.dataset.n; M.slideOff = M.slideOff.includes(n) ? M.slideOff.filter((x) => x !== n) : M.slideOff.concat(n); planEdit('Slide on/off'); },
     toPrice: () => go('price'),
+    pvShow: (el) => { S.pvShow = el.dataset.v; saveS(); document.querySelectorAll('.comp').forEach((c) => { c.className = 'comp show-' + S.pvShow; });
+      document.querySelectorAll('[data-act="pvShow"]').forEach((b) => { b.classList.toggle('on', b.dataset.v === S.pvShow); b.setAttribute('aria-pressed', b.dataset.v === S.pvShow); }); },
+    pvTab: (el) => { S.pvTab = el.dataset.v; saveS(); render(); },
+    slotInfo: (el) => { S.pvSel = [+el.dataset.p, +el.dataset.i]; saveS(); document.querySelectorAll('.cs.sel').forEach((x) => x.classList.remove('sel')); el.classList.add('sel');
+      const box = document.getElementById('slotinfo'); if (box) box.outerHTML = slotInfoHTML(); },
+    pvMove: (el) => {
+      const ord = pvSlides().map((x) => x.n), k = +el.dataset.k, j = k + +el.dataset.d;
+      if (k < 1 || j < 1 || j >= ord.length) return;
+      [ord[k], ord[j]] = [ord[j], ord[k]]; S.pvOrder = ord; saveS();
+      if (DEMO || !PV) { render(); return; }
+      /* the plan's own slides, in the new order (the server notes when the deck keeps the jury order) */
+      const seq = pvSlides().map(editOf).filter(Boolean).map((m) => m.n), rest = PV.slideOrder.filter((n) => n !== 0 && !seq.includes(n));
+      PV.slideOrder = [0].concat(seq, rest); planEdit('Move slide');
+    },
+    pvLeave: (el) => {
+      const n = +el.dataset.n;
+      if (DEMO) { const off = S.pvOff || []; S.pvOff = off.includes(n) ? off.filter((x) => x !== n) : off.concat(n); saveS(); render(); return; }
+      const sd = composition().deck.slides.find((x) => x.n === n), m = sd && editOf(sd);
+      if (!m) return;
+      PV.slideOff = PV.slideOff.includes(m.n) ? PV.slideOff.filter((x) => x !== m.n) : PV.slideOff.concat(m.n); planEdit('Slide on/off');
+    },
     tier: (el) => { S.tier = el.dataset.t; saveS(); render(); },
     pay: async (el) => {
       const v = document.getElementById('email').value.trim(), er = document.getElementById('emailErr');
-      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)) { er.textContent = 'Add an email so we can send your files and receipt.'; document.getElementById('email').focus(); return; }
-      S.email = v; S.tier = S.tier || tierFromAnswers();
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)) {
+        /* take the student to the email box so the problem is obvious (owner comment) */
+        const m = document.getElementById('email');
+        er.textContent = v ? 'That email doesn’t look right. Check it and press Pay again.' : 'Write your email here first, then press Pay.';
+        m.classList.remove('needs'); void m.offsetWidth; m.classList.add('needs');
+        m.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'center' });
+        setTimeout(() => m.focus({ preventScroll: true }), 350); return;
+      }
+      S.email = v; S.tier = S.tier || 'great';
       if (DEMO) { S.mk = 0; go('making'); return; }
       el.disabled = true; el.textContent = 'Opening the secure checkout…';
       await flushPlan();
       const r = await API.checkout(S.job, S.tier, v);
       if (r.ok && r.data.checkout_url) { S.payStarted = Date.now(); S.payNote = null; saveS(); location.href = r.data.checkout_url; return; }
-      el.disabled = false; el.textContent = 'Pay $' + (S.tier === 'great' ? 16 : 11) + ' and make it';
+      el.disabled = false; el.textContent = 'Pay $' + TIERS[S.tier || 'great'][1];
       if (r.status === 409 && /already paid/i.test(r.data.error || '')) { await refresh(); return; }
       er.textContent = r.status === 0 ? 'Studio can’t be reached right now. Check your connection and try again.'
         : r.status === 409 ? 'Your preview needs to finish first. ' + (r.data.error || '') : r.status === 503 ? 'Payments are not open yet. Please try again later.' : (r.data.error || 'The checkout could not be opened. Try again in a minute.');
@@ -1124,7 +1309,7 @@
     if (e.target.id === 'concept' || (e.target.dataset && e.target.dataset.card)) { const fx = document.getElementById('fixed'); if (fx) fx.outerHTML = onSheet(e.target.id === 'concept' ? 'concept' : e.target.dataset.card, e.target.value); }
     if (e.target.id === 'concept') { S.concept = e.target.value; saveS(); const nb = document.querySelector('[data-act="qnext"]'); if (nb) { nb.textContent = conceptLabel(); nb.classList.toggle('primary', !!concept()); } }
     if (e.target.dataset && e.target.dataset.card) { S.card[e.target.dataset.card] = e.target.value; saveS(); const on = !!e.target.value.trim(), er = document.getElementById('cardErr'); if (er && on) er.textContent = ''; const nb = document.querySelector('[data-act="qnext"]'); if (nb) nb.classList.toggle('primary', on); }
-    if (e.target.id === 'email') { S.email = e.target.value; saveS(); }
+    if (e.target.id === 'email') { S.email = e.target.value; saveS(); e.target.classList.remove('needs'); const er = document.getElementById('emailErr'); if (er) er.textContent = ''; }
   });
   app.addEventListener('change', (e) => { if (e.target.id === 'other') render(); });
   document.addEventListener('keydown', (e) => {
@@ -1231,7 +1416,6 @@
     const d = await dims((edit.pictures || []).map((p) => p.thumb).filter(Boolean));
     S.edit = edit;
     PV = LAY.fromPlan(edit, plan, card, d);
-    if (ST.tier_suggested && !S.tier) S.tier = ST.tier_suggested;
   }
   /* preview edits go to the server (PUT /jobs/{id}/plan, server/core/plan.py) a moment after the last change */
   let planT = null, planSaved = '', planBusy = null;
@@ -1252,6 +1436,8 @@
         const e = r.data.plan && r.data.plan.edit;
         if (e && e.slideOff) PV.slideOff = e.slideOff.slice();   // e.g. a slide the deck needs stays in
         planSaved = 'Saved. The paid build follows this plan.';
+        const st = await API.status(S.job);
+        if (st.ok) { ST = st.data; await buildPV(); }
       } else if (r.status === 404 || r.status === 405) planSaved = 'Saved on this device.';
       else planSaved = r.status === 0 ? 'Not saved: ' + offline : 'Not saved: ' + (r.data.error || 'try again');
       saveS();

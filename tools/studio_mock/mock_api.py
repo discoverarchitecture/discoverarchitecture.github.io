@@ -35,7 +35,9 @@ ORIGIN = "http://localhost:%d" % SITE_PORT
 SPEED = float(os.environ.get("MOCK_SPEED", 1))
 MAX_MB = float(os.environ.get("MOCK_MAX_MB", 25))
 PREVIEWS = int(os.environ.get("MOCK_PREVIEWS", 2))
-PREVIEW_STAGES = ["Reading your files", "Finding every drawing", "Reading your concept", "Planning the story"]
+PREVIEW_STAGES = ["Reading your files", "Finding every drawing", "Reading your concept", "Planning the story", "Laying out your board and deck"]
+PREVIEW_KEYS = ["ingest", "read_sheets", "concept", "story", "composition"]
+BUILD_KEYS = ["ingest", "read_sheets", "concept", "story", "pictures", "labels", "layout", "fill_slots", "build", "checks"]
 BUILD_STAGES = ["Reading your files", "Finding every drawing", "Reading your concept", "Planning the story", "Making the pictures",
                 "Labelling the drawings", "Laying out the board and deck", "Filling every slot", "Building the files", "Final checks"]
 JOBS, LOCK, COUNT = {}, threading.Lock(), {"previews": 0}
@@ -100,8 +102,11 @@ def composition(j):
     def st(pid, label, role, x, y, w, h):
         return {"id": pid + "-" + role, "label": label, "role": role, "source": "student", "image_url": thumb(j["id"], pid), "x": x, "y": y, "w": w, "h": h}
 
+    tiers = {"elevation": "polish", "axonometric": "transform"}
+
     def new(label, role, x, y, w, h):
-        return {"id": "new-" + role, "label": label, "role": role, "source": "create", "image_url": None, "x": x, "y": y, "w": w, "h": h}
+        return {"id": "new-" + role, "label": label, "role": role, "source": "create", "image_url": None, "x": x, "y": y, "w": w, "h": h,
+                "tier": tiers.get(role, "transform")}
 
     def tx(label, role, x, y, w, h):
         return {"id": "t-" + role + "-%d" % int(x * 100 + y * 1000), "label": label, "role": role, "source": "text", "image_url": None, "x": x, "y": y, "w": w, "h": h}
@@ -128,7 +133,17 @@ def composition(j):
         {"n": 10, "title": "The elevation", "kind": "elevation", "slots": [tx("Headline", "headline", .047, .07, .9, .12), new("Elevation · new", "elevation", .047, .25, .906, .66)]},
         {"n": 11, "title": "The assembly", "kind": "axonometric", "slots": left([new("Axonometric · new", "axonometric", .4, .063, .55, .82)], "How it fits together")},
         {"n": 12, "title": "Closing", "kind": "closing", "slots": [st("p03-5", "Render · street", "render", .047, .063, .6, .816), tx("Closing words", "title", .66, .06, .29, .5)]}]
-    return {"board": {"w_mm": 594, "h_mm": 841, "slots": board}, "deck": {"slides": deck}}
+    contents = {1: ["Entrance render", "Project title and title block"], 2: ["The sections, numbered"], 3: ["Brief note", "1 model photo", "The three ideas"],
+                4: ["1 site plan", "Site note"], 5: ["Concept note", "1 concept sketch"], 6: ["3 sketches"], 7: ["3 model photos"], 8: ["1 plan", "Plan note"],
+                9: ["1 section"], 10: ["Elevation (new, AI Studio)"], 11: ["Axonometric (new, AI Studio)", "Structure note"], 12: ["Street render", "Closing words"]}
+    titles = {1: "Cover", 2: "Contents", 3: "Brief & program", 4: "Site & context", 5: "Concept", 6: "Process", 7: "Models", 8: "Plans", 9: "Sections",
+              10: "Elevations", 11: "Axonometric", 12: "Closing"}
+    concept = (j.get("intake") or {}).get("concept_text") or STORY["concept"]
+    for d in deck:
+        d.update(title=titles[d["n"]], contents=contents[d["n"]], note=concept if d["kind"] == "concept" else None)
+    basics = [{"key": "section", "label": "Section", "source": "student"}, {"key": "elevation", "label": "Elevation · new", "source": "create"},
+              {"key": "axonometric", "label": "Axonometric · new", "source": "create"}]
+    return {"board": {"w_mm": 594, "h_mm": 841, "slots": board}, "deck": {"w_mm": 338.7, "h_mm": 190.5, "slides": deck}, "basics": basics}
 
 
 # ------------------------------------------------------------------ the job's state
@@ -148,7 +163,8 @@ def stage_of(j, now):
                     pv["error"] = "We could not find any drawings in your uploads. Add PNG, JPG or PDF drawings and try again."
             else:
                 pv["status"] = "running" if k >= 1 else "queued"
-                out.update(stage="previewing", step=PREVIEW_STAGES[k] if k >= 1 else "Waiting to start", progress=[5, 15, 70, 75][k],
+                out.update(stage="previewing", step=PREVIEW_STAGES[k] if k >= 1 else "Waiting to start", progress=[5, 12, 60, 64, 88][k],
+                           step_key=PREVIEW_KEYS[k] if k >= 1 else "queued",
                            elapsed_s=round(now - pv["at"], 1), step_elapsed_s=round((now - pv["at"]) % (1.5 * SPEED), 1))
         if pv["status"] == "done":
             out.update(stage="pay", progress=100)
@@ -164,6 +180,7 @@ def stage_of(j, now):
             else:
                 b["status"] = "running" if k >= 1 else "queued"
                 out.update(stage="building", step=BUILD_STAGES[k] if k >= 1 else "Waiting to start", progress=[3, 6, 18, 20, 30, 62, 70, 74, 80, 96][k] if k >= 1 else 0,
+                           step_key=BUILD_KEYS[k] if k >= 1 else "queued",
                            elapsed_s=round(now - b["at"], 1), step_elapsed_s=round((now - b["at"]) % (1.0 * SPEED), 1))
         if b["status"] == "done":
             out.update(stage="ready", progress=100, step=None)
@@ -188,9 +205,11 @@ def status(j):
         outs.append({"name": "indesign/board_InDesign.zip", "label": "Board InDesign", "bytes": 1234, "url": "%s/jobs/%s/download/indesign/board_InDesign.zip?exp=9999999999&sig=mock" % (API, j["id"])})
     pv = j.get("preview") or {"status": "none"}
     redo_until = j["paid_at"] + 7 * 86400 if paid else None
-    return dict(job_id=j["id"], **s, preview={"status": pv["status"], "error": pv.get("error"),
+    pk = s.get("step_key") if s["stage"] == "previewing" else None
+    bk = s.get("step_key") if s["stage"] == "building" else None
+    return dict(job_id=j["id"], **s, preview={"status": pv["status"], "error": pv.get("error"), "stage": pk, "label": s.get("step") if pk else None,
                                           "composition": composition(j) if pv["status"] == "done" else None},
-                build={"status": b["status"], "attempt": b.get("attempt"), "reason": b.get("reason"),
+                build={"status": b["status"], "attempt": b.get("attempt"), "reason": b.get("reason"), "stage": bk, "label": s.get("step") if bk else None,
                        "error": "Something went wrong on our side. We have been told and will rerun it at no cost." if b["status"] == "failed" else None},
                 plan=plan_for(j) if pv["status"] == "done" else None, tier=j.get("tier") or (tier_from(j["intake"]) if j.get("intake") else None),
                 tier_suggested=tier_from(j["intake"]) if j.get("intake") else None, paid=paid, email=j.get("email"), files=j["files"],

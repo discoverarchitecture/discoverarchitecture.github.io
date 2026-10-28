@@ -508,3 +508,136 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .file.err img { opacity: .35; filter: grayscale(1); }
 .file .ferr { color: var(--danger); font-size: 12px; white-space: normal; }
 .file .fkind { position: absolute; left: 8px; top: 8px; font: 700 11px/1 var(--mono); padding: 3px 6px; border: 2px solid var(--line); border-radius: 6px; background: var(--card); }
+
+/* ---------- from the prototype, 3ed209a..d9a1f66: the composition preview (option 2) and the pay page */
+
+/* ---------- buying panel (preview, first view): wider, calmer, with icons */
+.deal.dealx { width: min(1320px, calc(100vw - 32px)); align-self: center; grid-template-columns: minmax(0, 1.25fr) minmax(360px, 1fr); gap: 36px; padding: 28px; }
+@media (max-width: 1000px) { .deal.dealx { grid-template-columns: minmax(0, 1fr); } }
+.dic { width: 22px; height: 22px; flex: none; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.magic { display: flex; gap: 14px; align-items: flex-start; padding: 16px 18px; border: 2px solid var(--line); border-radius: 16px; background: linear-gradient(135deg, var(--sun), var(--lime)); color: var(--on-accent); box-shadow: 3px 3px 0 var(--shadow); }
+.magic > .dic { width: 34px; height: 34px; padding: 6px; border: 2px solid var(--line); border-radius: 10px; background: var(--card); color: var(--ink); }
+.magic b { display: block; font: 800 22px/1.15 var(--display); margin: 2px 0 4px; } .magic span { font-size: 14px; }
+.trust { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 13.5px; color: var(--muted); }
+.trust li { display: flex; align-items: center; gap: 7px; } .trust .dic { width: 18px; height: 18px; color: var(--ink); }
+/* the order card; included items across the full width below */
+.order { display: flex; flex-direction: column; gap: 14px; padding: 22px; border: 2px solid var(--line); border-radius: 20px; background: var(--paper); box-shadow: 5px 5px 0 var(--shadow); align-self: start; }
+.osub { margin: -6px 0 0; color: var(--muted); font-size: 14px; }
+.ohead { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.oprice { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin: 0; padding-bottom: 12px; border-bottom: 2px dashed var(--line); }
+.oprice b { font: 800 44px/1 var(--display); } .oprice span { font-size: 13px; color: var(--muted); }
+.ifull { grid-column: 1 / -1; display: flex; flex-direction: column; gap: 12px; padding-top: 18px; border-top: 2px solid var(--line); }
+.icards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+.icards li { display: flex; flex-direction: column; gap: 6px; padding: 18px; border: 2px solid var(--line); border-radius: 16px; background: var(--paper); }
+.icards .dic { width: 40px; height: 40px; padding: 8px; border: 2px solid var(--line); border-radius: 12px; background: var(--lime); color: var(--on-accent); margin-bottom: 4px; }
+.icards b { font-size: 16px; } .icards span { font-size: 13.5px; color: var(--muted); line-height: 1.45; }
+@media (max-width: 860px) { .icards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 520px) { .icards { grid-template-columns: minmax(0, 1fr); } }
+
+/* ---------- composition preview (rule 26): faded own drawings, grey "new" boxes, text lines */
+.comp { position: relative; width: 100%; background: #fff; border: 2px solid var(--line); border-radius: 4px; box-shadow: 4px 4px 0 var(--shadow); container-type: inline-size; overflow: hidden; }
+.cs { position: absolute; margin: 0; padding: 0; border: 0; border-radius: 2px; display: grid; place-items: center; overflow: hidden; cursor: pointer; font: inherit; color: #1B1A17; transition: opacity .2s, outline-color .2s; }
+.cs.student { background: #F2EFE8; }
+.cs .ci { position: absolute; inset: 0; background-repeat: no-repeat; opacity: .4; filter: grayscale(.25); }
+.cs .cl { position: relative; display: inline-flex; align-items: center; gap: .3em; max-width: 92%; font: 800 clamp(6px, 3.1cqw, 15px)/1.1 var(--display); background: rgb(255 255 255 / .9); padding: .3em .55em; border-radius: 4px; text-align: center; box-shadow: 0 1px 2px rgb(0 0 0 / .15); }
+.cs.create { background: repeating-linear-gradient(135deg, #E6E3DC 0 7px, #DEDAD2 7px 14px); outline: 1.5px dashed #8E897F; outline-offset: -1.5px; }
+.cs.create .cl { background: #1B1A17; color: #CFF25A; box-shadow: none; }
+.cs .cl svg { width: 1em; height: 1em; fill: currentColor; flex: none; }
+.cs.text { display: flex; flex-direction: column; justify-content: flex-start; align-items: stretch; gap: max(2px, 1.2cqw); padding: max(3px, 1.4cqw) 2px; background: transparent; }
+.cs.text i, .cs.ctitle i { display: block; height: max(2px, .8cqw); background: #DAD6CD; border-radius: 2px; }
+.cs.text i:nth-of-type(2) { width: 82%; } .cs.text i:nth-of-type(3) { width: 58%; }
+.cs.text span { font: 600 clamp(5px, 1.9cqw, 10px)/1 var(--mono); color: #8A857B; text-transform: uppercase; letter-spacing: .04em; text-align: left; }
+.cs.ctitle { cursor: default; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-start; gap: max(2px, 1cqw); }
+.cs.ctitle b { font: 800 clamp(7px, 3.3cqw, 22px)/1.05 var(--display); letter-spacing: -.02em; text-align: left; }
+.cs.ctitle i { width: 70%; } .cs.ctitle i + i { width: 45%; }
+.cs.sel { outline: 3px solid var(--coral); outline-offset: 1px; z-index: 2; }
+.cs:focus-visible { outline: 3px solid var(--focus); outline-offset: 1px; z-index: 2; }
+.comp.show-yours .cs.create, .comp.show-yours .cs.text, .comp.show-yours .cs.ctitle { opacity: .12; }
+.comp.show-new .cs.student, .comp.show-new .cs.text, .comp.show-new .cs.ctitle { opacity: .12; }
+.legend { display: flex; flex-wrap: wrap; gap: 8px 16px; font-size: 13.5px; font-weight: 600; }
+.lg { display: inline-flex; align-items: center; gap: 7px; } .lg i { width: 16px; height: 12px; border: 1.5px solid var(--line); border-radius: 3px; }
+.lg.yours i { background: linear-gradient(135deg, #cfcabe, #f2efe8); } .lg.new i { background: repeating-linear-gradient(135deg, #E6E3DC 0 3px, #C9C4BA 3px 6px); border-style: dashed; } .lg.txt i { background: #fff; box-shadow: inset 0 -4px 0 #DAD6CD; }
+.pvseg button, .pvtabs button { white-space: nowrap; }
+.pvtools { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; }
+.sinfo { display: flex; flex-direction: column; gap: 3px; padding: 12px 14px; border: 2px dashed var(--line); border-radius: 14px; font-size: 14px; color: var(--muted); }
+.sinfo b { color: var(--ink); font-size: 15px; }
+.sinfo.on { border-style: solid; background: var(--paper); color: var(--ink); } .sinfo.on.create { background: var(--lime); color: var(--on-accent); } .sinfo.on.create b { color: var(--on-accent); }
+.dslide { margin: 0; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.dslide .comp { box-shadow: 3px 3px 0 var(--shadow); border-radius: 3px; }
+.dslide figcaption { display: flex; flex-direction: column; gap: 1px; font-size: 12.5px; color: var(--muted); line-height: 1.35; } .dslide figcaption b { font-size: 14px; color: var(--ink); }
+.pvhead h1 { margin: 2px 0 6px; } .pvhead .lede { margin: 0; max-width: 62ch; }
+
+/* the sticky order card stays inside .pvtop, so it never slides over the deck or 'What's included' (owner comment) */
+.pvtop { display: grid; grid-template-columns: minmax(0, 1fr) minmax(340px, 420px); gap: 14px 36px; align-items: start; min-width: 0; }
+.deal.pv2 { grid-template-columns: minmax(0, 1fr); }
+.pv2 .pvtop { grid-template-columns: minmax(0, 1fr) minmax(340px, 400px); }
+/* the preview: tabs on a big stage, a sticky rail with the tap-to-see box and the order */
+.pv2 .pvhead { grid-column: 1 / -1; }
+.pvmain { display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.pvrail { display: flex; flex-direction: column; gap: 14px; position: sticky; top: 92px; align-self: start; }
+.pvstage.board .comp { max-width: 560px; margin: 0 auto; }
+.dgrid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px 14px; }
+@media (max-width: 1000px) { .pvtop, .pv2 .pvtop { grid-template-columns: minmax(0, 1fr); } .pvrail { position: static; } }
+@media (max-width: 560px) { .dgrid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .pvseg button, .pvtabs button { padding-inline: 8px; font-size: 12.5px; } .deal.dealx { padding: 16px; } }
+/* the call to action stays on screen the whole time on the preview page (owner comment) */
+.pvwrap { padding-bottom: 120px; }
+.ctabar { position: fixed; left: 50%; bottom: max(12px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); width: min(640px, calc(100vw - 24px)); z-index: 40;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 10px 10px 18px; border: 2px solid var(--line); border-radius: 18px; background: var(--card); box-shadow: 5px 5px 0 var(--shadow); }
+.ctabar[hidden] { display: none; }
+.ctabar div { display: flex; flex-direction: column; min-width: 0; } .ctabar b { font-size: 15px; } .ctabar span { font-size: 12.5px; color: var(--muted); }
+.ctabar .btn { min-height: 46px; font-size: 17px; flex: none; }
+.pvrail, .pvrail > *, .pvmain { min-width: 0; max-width: 100%; box-sizing: border-box; }
+
+/* the jury deck list: order sits outside the card on a left rail; plain title, what the slide holds, the concept note */
+.dlist { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; position: relative; }
+.dlist::before { content: ""; position: absolute; left: 21px; top: 18px; bottom: 18px; width: 2px; background: var(--line); opacity: .35; }
+.drow { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 12px; align-items: center; }
+.dnum { position: relative; z-index: 1; width: 44px; height: 44px; display: grid; place-items: center; border: 2px solid var(--line); border-radius: 999px; background: var(--card); font: 700 14px var(--mono); }
+.dcard { display: grid; grid-template-columns: 150px minmax(0, 1fr) auto; gap: 14px; align-items: center; padding: 12px; border: 2px solid var(--line); border-radius: 16px; background: var(--card); }
+.dthumb .comp { box-shadow: 2px 2px 0 var(--shadow); border-width: 1.5px; }
+.dtxt { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.dtxt > b { font-size: 16px; }
+.dcont { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 6px; }
+.dcont li { font: 600 12px/1.2 var(--mono); padding: 4px 8px; border: 1.5px solid var(--line); border-radius: 999px; background: var(--paper); }
+.dnote { margin: 4px 0 0; font-size: 13.5px; font-style: italic; color: var(--muted); max-width: 60ch; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.dctl { display: flex; gap: 6px; }
+.dctl button { min-width: 36px; height: 36px; padding: 0 10px; border: 2px solid var(--line); border-radius: 10px; background: var(--card); color: var(--ink); font-weight: 700; cursor: pointer; }
+.dctl button:disabled { opacity: .35; cursor: default; }
+.drow.off .dcard { opacity: .55; border-style: dashed; } .drow.off .dnum { opacity: .5; }
+@media (max-width: 640px) { .dcard { grid-template-columns: 96px minmax(0, 1fr); } .dctl { grid-column: 1 / -1; } .drow { grid-template-columns: 34px minmax(0, 1fr); gap: 8px; } .dnum { width: 34px; height: 34px; font-size: 12px; } .dlist::before { left: 16px; } }
+@media (max-width: 560px) { .item { flex-wrap: wrap; } .item .txt { flex-basis: calc(100% - 40px); } .item .ctl { width: 100%; justify-content: flex-start; padding-left: 40px; } }
+.order .btn.shiny { width: 100%; } .order .btn.shiny .cta { min-width: 0; } .order .btn.shiny b { white-space: nowrap; font-size: clamp(16px, 1.35vw, 19px); } .order .btn.shiny small { white-space: nowrap; } .order .btn.shiny .arrow { flex: none; }
+@media (max-width: 560px) { .pvseg { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); width: 100%; } .pvseg button { white-space: normal; line-height: 1.15; padding: 6px 4px; } }
+
+
+/* your drawings get an AI mark too: AI Studio retouches them (owner comment) */
+.cs .cl .aim { display: inline-flex; align-items: center; gap: .15em; margin-left: .2em; padding: .1em .35em; border-radius: 999px; background: #1B1A17; color: #CFF25A; font: 800 .72em/1 var(--display); font-style: normal; letter-spacing: .02em; }
+.cs .cl .aim svg { width: .9em; height: .9em; }
+
+/* preview page: less white space, so the whole layout shows in the first view (owner comment) */
+.pvwrap { padding-top: 6px; gap: 10px; }
+.pvwrap .backbar { margin: 0; font-size: 13px; }
+.pvwrap .deal.dealx { margin-top: 0; padding: 16px 22px 22px; row-gap: 12px; }
+.pvhead h1 { font-size: clamp(22px, 2.1vw, 28px); margin: 0; }
+.pvhead .kicker { margin: 0; }
+.order h2.mid { font-size: clamp(22px, 2vw, 28px); } .order { gap: 10px; padding: 18px; } .order .oprice b { font-size: 36px; }
+.pvstage.board .comp { max-width: min(560px, calc((100svh - 375px) * .7063)); }
+.pvstage.board .comp { min-width: min(100%, 300px); }
+
+.airew { font-size: .78em; font-weight: 600; opacity: .75; margin-left: 2px; }
+
+.oprice small { font-size: 14px; font-weight: 700; color: var(--muted); align-self: flex-end; margin-bottom: 4px; }
+
+/* pay page: the landing's before/after (taped sheets -> A1 board) reinforces the choice (owner comment) */
+.paywow { display: flex; flex-direction: column; gap: 10px; padding: 18px 18px 26px; border: 2px solid var(--line); border-radius: 18px; background: var(--card); }
+.paywow .lart .after .sth { max-width: 300px; }
+
+.paywrap { padding-bottom: 120px; }
+.paybar .btn { min-width: 120px; }
+
+/* clear, readable field label where it matters (owner comment) */
+.field label.biglabel { font: 800 20px/1.2 var(--display); letter-spacing: -.01em; text-transform: none; color: var(--ink); }
+
+/* the email box when Pay is pressed without it */
+.input.needs { border-color: var(--danger); box-shadow: 0 0 0 4px rgb(220 60 40 / .25); animation: nudge .4s ease 2; }
+@keyframes nudge { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
