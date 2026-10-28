@@ -22,7 +22,7 @@ Already off before 28 Oct (finished work, listed for completeness): photo rescue
 the two books curators (`trig_01JVzyrFJj73aVUxNAPRSwSP`, `trig_01QFDy6bSHi4u4U3YHgnoGgJ`) and "Keep adding buildings"
 (`trig_0183WD5np919qQHVtz5ya53A`).
 
-Not part of this project and left running: "PlaceCom Morning Digest" (the owner's XLRI placement email digest).
+Also paused on 28 Oct 2026, though not part of this project: "PlaceCom Morning Digest" (`trig_01Y9rMtz5ExAzbD13f1Q8ztB`, the owner's placement email digest, weekdays 08:00 IST). With it, no routine on the owner's account runs on a timer.
 
 ## GitHub Actions timers (paused by commenting out `schedule:`; resume by uncommenting it)
 
