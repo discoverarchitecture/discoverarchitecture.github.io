@@ -5,8 +5,9 @@
 # Check it any time: Actions tab -> "Fetch Search Console" -> Run workflow.
 name: Fetch Search Console
 on:
-  schedule:
-    - cron: '37 4 * * *'  # 04:37 UTC, between the analytics runs (07 past every sixth hour)
+  # Paused by the owner on 28 Oct 2026 (tools/paused_schedules.md). To resume, uncomment these two lines:
+  # schedule:
+  #   - cron: '37 4 * * *'  # 04:37 UTC, between the analytics runs (07 past every sixth hour)
   workflow_dispatch:
 permissions:
   contents: write

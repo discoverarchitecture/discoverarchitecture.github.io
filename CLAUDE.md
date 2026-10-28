@@ -79,6 +79,8 @@ A wall of buildings that architecture students wander instead of search, with fr
 
 ## Tools and GitHub Actions
 
+- **Scheduled runs are paused** (owner, 28 Oct 2026, to save compute while focusing on FGA Studio): every Claude routine and GitHub timer for this project is off. If the owner asks what was scheduled, read `tools/paused_schedules.md`, list what each one did and ask which to resume; resume only those. Don't create new routines or timers unless the owner asks.
+
 Claude's sandbox cannot reach Wikidata, Wikimedia or most architecture sites, so network jobs run on GitHub Actions and commit their results back:
 
 - `tools/run_request.txt`: its first line is a command (`python -u tools/<script>.py ...`); pushing a change to it runs `.github/workflows/run-tool.yml`.
