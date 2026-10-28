@@ -654,7 +654,8 @@
     /* first view: the composition preview with the order card; payment stays on the next page */
     const deal = previewPanel();
     const notes = DEMO ? '' : '<p class="status" id="planSaved" aria-live="polite">' + esc(planSaved) + '</p>' + (S.planNotes && S.planNotes.length ? '<div class="card"><p class="kicker">Notes from AI Studio</p>' + S.planNotes.map((x) => '<p class="hint" style="margin:4px 0 0">' + esc(x) + '</p>').join('') + '</div>' : '');
-    return '<main class="wrap pvwrap">' + backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + deal + '<h2 class="mid" style="margin-top:28px">Change anything first</h2><p class="lede">Built from your answers and your drawings. Move, swap or remove anything until it tells your project the way you would at the pin-up.</p>' + cline +
+    const stale = !DEMO && ST && ST.preview && ST.preview.stale ? '<div class="card stale" role="status"><p class="lede" style="color:var(--on-accent)"><b>We’ve improved Studio since this preview.</b> Refresh it (free): it doesn’t count towards your 2 free previews.</p><div class="row"><button class="btn primary" data-act="preview">Refresh my preview</button></div></div>' : '';
+    return '<main class="wrap pvwrap">' + backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + (DEMO ? '' : '<div class="row" style="margin-top:-6px">' + newJobLink() + '</div>') + stale + deal + '<h2 class="mid" style="margin-top:28px">Change anything first</h2><p class="lede">Built from your answers and your drawings. Move, swap or remove anything until it tells your project the way you would at the pin-up.</p>' + cline +
       '<div class="pcards">' + tags + '</div>' + notes + '<div class="two"><div class="list"><h2 class="mid">The three ideas</h2><p class="lede">The spine of your board and deck. Reorder, swap or turn one off; the board preview updates as you go.</p>' + ideas +
       '<h2 class="mid" style="margin-top:18px">The jury deck</h2><p class="lede">' + pvOn().length + ' slides, in the order a jury reads them. Move one or leave it out; the cover stays first.</p>' + slides + '</div>' +
       '<aside class="list" style="position:sticky;top:90px"><p class="kicker">Your A1 board</p>' + compBoard() +
@@ -856,6 +857,9 @@
       '<div class="arrowcol"><span class="atag">✦ AI Studio</span>' + GARROW + '</div>' +
       '<div class="after"><div class="sth" data-mini="board" data-m="h" data-w="480" data-fit="1"></div><span class="ptag lime">After · your A1 board</span></div></div>';
   }
+  /* a saved job is offered on the landing, never opened by itself (owner's live test, 28 Oct) */
+  const newJobLink = () => '<button class="link" data-act="newJob">' + (S.newArm ? 'Click again: this clears your saved project from this browser' : 'Start a new project') + '</button>';
+  const savedJobRow = () => !DEMO && S.job ? '<div class="row savedjob"><button class="chip lime" data-act="resume">Continue your project →</button>' + newJobLink() + '</div>' : '';
   V.home = () => {
     const steps = [['Upload', 'Drop in what you have: plans, sections, sketches, model photos, even screenshots of your sheets. 5 to 10 is best.', 'up'],
       ['Answer a few questions', 'A few quick taps and your concept in a few words.', 'q'],
@@ -872,7 +876,7 @@
       '<section class="lhero wrap"><div class="lcopy"><p class="kicker">For architecture students and studios · preview free before you pay</p>' +
       '<h1 class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></h1>' +
       '<p class="lede">Upload your plans, sections, sketches and model photos. Answer a few quick questions. AI Studio plans the story, writes the text and sets an A1 board and a matching jury deck that you can still edit.</p>' +
-      shiny('start', 'Start free', 'No login · preview free') +
+      shiny('start', 'Start free', 'No login · preview free') + savedJobRow() +
       '<div class="row fmts"><span class="chip">A1 board</span><span class="chip">16:9 jury deck</span><span class="chip">PDF · PowerPoint · InDesign</span></div></div>' +
       heroArt() + '</section>' +
       '<section class="wrap opens"><p class="kicker">Opens in</p><div class="row"><span class="chip">PowerPoint</span><span class="chip">Keynote</span><span class="chip">Google Slides</span><span class="chip">Canva</span><span class="chip">InDesign</span></div>' +
@@ -1121,8 +1125,9 @@
       if (!DEMO && S.job) { S.screen = 'home'; refresh(); return; }   // the job's status picks the screen
       go('upload');
     },
+    resume: () => { S.screen = 'home'; refresh(); },
     newJob: () => {
-      if (!S.newArm) { S.newArm = true; render(); setTimeout(() => { S.newArm = false; if (S.screen === 'upload' || S.screen === 'result') render(); }, 4000); return; }
+      if (!S.newArm) { S.newArm = true; render(); setTimeout(() => { S.newArm = false; if (['home', 'upload', 'plan', 'result'].includes(S.screen)) render(); }, 4000); return; }
       Object.keys(THUMBS).forEach((k) => delete THUMBS[k]);
       S = freshS(); PV = null; P = null; ST = null; UP = []; upErr = ''; saveS(); go('upload');
     },
@@ -1557,6 +1562,7 @@
     else if (!['plan', 'price', 'making'].includes(S.screen)) S.screen = 'home';
     S.job = { id: mj[1], t: mt[1] }; saveS();
   } else if (SCREENS.includes(h)) S.screen = h;
+  else if (!h && !DEMO) S.screen = 'home';   // a plain /studio/ opens on the landing; a saved job is offered with a pill
   if (S.screen === 'q' && !(S.q >= 1 && S.q <= path().length)) S.q = 1;
   if (DEMO) {
     if (restored && hist.length === 1 && S.screen === 'edit') setTimeout(() => toast('Your edits from last time are back.'), 600);

@@ -9,7 +9,8 @@ Results come from the k5 sample run in the studio folder (STUDIO_DIR, default ~/
 its story plan, panel crops, layout.json files, pictures and PDFs.
 
 Switches (environment): MOCK_SPEED (default 1; 0.2 = five times faster), MOCK_MAX_MB (default 25),
-MOCK_NO_EDIT=1 (status plan without the "edit" block, as an older server sends), MOCK_PREVIEWS (default 2 a day).
+MOCK_NO_EDIT=1 (status plan without the "edit" block, as an older server sends), MOCK_PREVIEWS (default 2 a day),
+MOCK_STALE=1 (a finished preview is marked stale until refreshed once; the refresh is not counted).
 An e-mail with "+fail" makes the paid build fail; a project title containing "nopics" makes the preview fail.
 """
 import email.parser
@@ -207,7 +208,8 @@ def status(j):
     redo_until = j["paid_at"] + 7 * 86400 if paid else None
     pk = s.get("step_key") if s["stage"] == "previewing" else None
     bk = s.get("step_key") if s["stage"] == "building" else None
-    return dict(job_id=j["id"], **s, preview={"status": pv["status"], "error": pv.get("error"), "stage": pk, "label": s.get("step") if pk else None,
+    stale = os.environ.get("MOCK_STALE") == "1" and pv["status"] == "done" and not j.get("refreshed")
+    return dict(job_id=j["id"], **s, preview={"status": pv["status"], "error": pv.get("error"), "stage": pk, "label": s.get("step") if pk else None, "stale": stale,
                                           "composition": composition(j) if pv["status"] == "done" else None},
                 build={"status": b["status"], "attempt": b.get("attempt"), "reason": b.get("reason"), "stage": bk, "label": s.get("step") if bk else None,
                        "error": "Something went wrong on our side. We have been told and will rerun it at no cost." if b["status"] == "failed" else None},
@@ -332,7 +334,10 @@ class ApiHandler(BaseHTTPRequestHandler):
                 raise Fail(409, "answer the questions first")
             if busy:
                 raise Fail(409, "a preview or build is already running")
-            if not j.get("paid"):
+            stale = os.environ.get("MOCK_STALE") == "1" and (j.get("preview") or {}).get("status") == "done" and not j.get("refreshed")
+            if stale:
+                j["refreshed"] = True   # refreshing a stale preview is free (not counted)
+            elif not j.get("paid"):
                 if COUNT["previews"] >= PREVIEWS:
                     raise Fail(429, "You have used today's %d free previews. Come back tomorrow." % PREVIEWS)
                 COUNT["previews"] += 1

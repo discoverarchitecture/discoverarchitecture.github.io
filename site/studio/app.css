@@ -641,3 +641,5 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 /* the email box when Pay is pressed without it */
 .input.needs { border-color: var(--danger); box-shadow: 0 0 0 4px rgb(220 60 40 / .25); animation: nudge .4s ease 2; }
 @keyframes nudge { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-6px); } 75% { transform: translateX(6px); } }
+.savedjob { gap: 6px 14px; } .savedjob .chip { cursor: pointer; font-size: 13px; padding: 8px 12px; }
+.card.stale { border-color: var(--coral); background: var(--sun); color: var(--on-accent); }
