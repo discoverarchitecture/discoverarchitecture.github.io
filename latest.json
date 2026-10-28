@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-27T22:07:28+00:00",
+ "fetched_at": "2026-10-28T05:28:34+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1834,
+ "visits_30d": 1836,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 483,
+     "count": 484,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 36,
+     "count": 37,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -807,7 +807,7 @@
      "max": 1
     }
    ],
-   "total": 1006,
+   "total": 1008,
    "more": true
   },
   "referrers": {
@@ -826,7 +826,7 @@
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 66,
+     "count": 68,
      "ref_scheme": "c"
     },
     {
@@ -927,7 +927,7 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1148
+     "count": 1150
     },
     {
      "id": "Safari",
@@ -951,7 +951,7 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 603
+     "count": 605
     },
     {
      "id": "iOS",
@@ -1133,6 +1133,11 @@
      "count": 7
     },
     {
+     "id": "TW",
+     "name": "Taiwan",
+     "count": 7
+    },
+    {
      "id": "AT",
      "name": "Austria",
      "count": 6
@@ -1158,9 +1163,9 @@
      "count": 6
     },
     {
-     "id": "TW",
-     "name": "Taiwan",
-     "count": 6
+     "id": "DO",
+     "name": "Dominican Republic",
+     "count": 5
     },
     {
      "id": "DZ",
@@ -1176,11 +1181,6 @@
      "id": "MY",
      "name": "Malaysia",
      "count": 5
-    },
-    {
-     "id": "DO",
-     "name": "Dominican Republic",
-     "count": 4
     },
     {
      "id": "JO",
@@ -1385,7 +1385,7 @@
     {
      "id": "desktop",
      "name": "",
-     "count": 778
+     "count": 780
     },
     {
      "id": "desktophd",
@@ -1405,7 +1405,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1834
+     "count": 1836
     }
    ],
    "more": false
