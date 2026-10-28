@@ -131,14 +131,14 @@
     who: { k: 'You', q: 'Who’s presenting?', sub: 'Students and practices get slightly different questions.', o: [['Student', 'Student questions: year, crit, jury'], ['Professional / firm', 'Practice questions: client, stage, room']] },
     year: { k: 'Year', q: 'Which year are you in?', sub: 'Sets the vocabulary. A thesis gets a fuller story.', o: [['1st–2nd', 'Simple words, a clear story'], ['3rd', 'Studio vocabulary, a confident story'], ['4th–5th / thesis', 'A fuller story, research up front'], ['Masters', 'Precise language, the argument first']] },
     where: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets how polished it gets.', o: [['Jury pin-up', 'Jury-ready finish, board and deck'], ['Design review', 'Lighter finish; your working story stays visible'], ['Portfolio', 'Tight edit, sized for a portfolio page'], ['Competition entry', 'One bold board with one strong hero'], ['Instagram / showcase', 'A punchy hero that crops to a square']] },
-    word: { k: 'The one word', q: 'What one word do you want the jury to say?', sub: 'Studio leans the whole board that way.', o: [['“Beautiful”', 'Atmosphere first: big hero, mood renders'], ['“Clever”', 'Idea first: diagrams up front'], ['“Brave”', 'Gesture first: scale, contrast, few words'], ['“Thoughtful”', 'Site, people and process up front']] },
+    word: { k: 'The one word', q: 'What one word do you want the jury to say?', sub: 'AI Studio leans the whole board that way.', o: [['“Beautiful”', 'Atmosphere first: big hero, mood renders'], ['“Clever”', 'Idea first: diagrams up front'], ['“Brave”', 'Gesture first: scale, contrast, few words'], ['“Thoughtful”', 'Site, people and process up front']] },
     aud: { k: 'Audience', q: 'Who do you need to impress?', sub: 'Sets the voice of every caption.', o: [['My studio tutor', 'Captions pick up from your last crit'], ['External jury', 'The story is explained from zero'], ['A firm / recruiter', 'Crisp captions that show your skills'], ['Classmates & Instagram', 'Short, punchy lines']] },
-    crit: { k: 'Last crit', q: 'What did your tutor say last?', sub: 'Studio fixes this first.', o: [['“Concept isn’t clear”', 'Fix first: idea diagrams'], ['“Too much, no story”', 'Fix first: cut and sequence'], ['“Presentation is weak”', 'Fix first: graphics and renders'], ['“Good, just polish it”', 'Fix first: finish only']] },
-    hero: { k: 'Hero', q: 'What’s the hero of your project?', sub: 'Decides which diagrams Studio proposes.', o: [['The big idea', 'Leads with a concept diagram'], ['Form & structure', 'Leads with an axonometric and a section'], ['Site & context', 'Leads with the site plan and context'], ['People & life', 'Leads with views full of people']] },
-    proud: { k: 'Proudest', q: 'Which drawing are you proudest of?', sub: 'Studio found these in your files. Your pick gets the biggest slot.', thumbs: true, o: null },
+    crit: { k: 'Last crit', q: 'What did your tutor say last?', sub: 'AI Studio fixes this first.', o: [['“Concept isn’t clear”', 'Fix first: idea diagrams'], ['“Too much, no story”', 'Fix first: cut and sequence'], ['“Presentation is weak”', 'Fix first: graphics and renders'], ['“Good, just polish it”', 'Fix first: finish only']] },
+    hero: { k: 'Hero', q: 'What’s the hero of your project?', sub: 'Decides which diagrams AI Studio proposes.', o: [['The big idea', 'Leads with a concept diagram'], ['Form & structure', 'Leads with an axonometric and a section'], ['Site & context', 'Leads with the site plan and context'], ['People & life', 'Leads with views full of people']] },
+    proud: { k: 'Proudest', q: 'Which drawing are you proudest of?', sub: 'AI Studio found these in your files. Your pick gets the biggest slot.', thumbs: true, o: null },
     pers: { k: 'Personality', q: 'Your project’s personality?', sub: 'Pre-picks a style. You can change it later.', o: [['Poetic', 'Pastel Collage style, soft light'], ['Rational', 'Minimal style, crisp grid'], ['Bold', 'Crisp style, strong contrast'], ['Rooted', 'Warm Editorial style, earthy tones']] },
-    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep mine, clean up', 'Polish: your drawings, cleaned up'], ['Polish them', 'Polish: cleaned and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: Studio picks what to re-render']] },
-    words: { k: 'How many words', q: 'How much should your board talk?', sub: 'Sets the word budget.', o: [['Maximum drawings, limited text', 'Titles and labels only'], ['Captions + 3 ideas', 'Captions plus your 3 key ideas'], ['Elaborate writing', 'The full story, on board and deck'], ['AI decides', 'Studio picks the right amount for your project']] },
+    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep mine, clean up', 'Polish: your drawings, cleaned up'], ['Polish them', 'Polish: cleaned and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },
+    words: { k: 'How many words', q: 'How much should your board talk?', sub: 'Sets the word budget.', o: [['Maximum drawings, limited text', 'Titles and labels only'], ['Captions + 3 ideas', 'Captions plus your 3 key ideas'], ['Elaborate writing', 'The full story, on board and deck'], ['AI decides', 'AI Studio picks the right amount for your project']] },
     proc: { k: 'Process', q: 'How much process to show?', sub: 'Adds a process strip, or not.', o: [['A lot, it’s the story', 'Process strip on the board, plus process slides'], ['A slice', 'One small process strip'], ['Final only', 'Final drawings only']] },
     pwhere: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets the template and the polish.', o: [['Client presentation', 'The deck leads, the board backs it up'], ['Competition entry', 'One bold board, unbranded'], ['Approval / planning submission', 'Clear, factual sheets, drawings first'], ['Website & portfolio', 'Tight edit, sized for screens'], ['Awards entry', 'The strongest images, a short story']] },
     stage: { k: 'Stage', q: 'What stage is the project?', sub: 'Sets how real the renders look.', o: [['Concept', 'Diagram-led, soft renders'], ['Schematic', 'Plans and massing, light renders'], ['Design development', 'Detailed drawings, realistic renders'], ['Built / completed', 'Photo-led, drawings support']] },
@@ -372,18 +372,29 @@
   const V = {};
   const nFiles = () => DEMO ? P.raw.length - (S.rmRaw || []).length + S.extra.length : (S.files || []).length;
   const RM = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>';
-  /* live upload: the student's files on the server, plus the ones still on their way (UP) */
+  /* live upload: the student's files on the server, plus the ones still on their way or refused (UP). A file gets
+     its slot the moment it is dropped or picked: its picture (or a PDF tag), a spinner and a progress bar; it
+     becomes a normal thumbnail when the server has it, or shows why it failed (owner's test note 1). */
   let UP = [], upSeq = 0, upErr = '';
+  const upBusy = () => UP.filter((u) => !u.err).length;
+  const upCard = (u) => {
+    const pc = Math.round(u.pct * 100), img = '<img src="' + (u.thumb || PLACE) + '" alt="">' + (u.thumb ? '' : '<span class="fkind">' + esc((u.name.split('.').pop() || 'file').toUpperCase()) + '</span>');
+    if (u.err) return '<div class="file err">' + img + '<span>' + esc(u.name) + '</span><span class="ferr" role="alert">' + esc(u.err) + '</span>' +
+      '<button class="rm" data-act="dropUp" data-k="' + u.k + '" aria-label="Dismiss ' + esc(u.name) + '">' + RM + '</button>' + (u.retry ? '<button class="link" data-act="retryUp" data-k="' + u.k + '" style="min-height:32px;align-self:flex-start">Try again</button>' : '') + '</div>';
+    return '<div class="file up">' + img + '<i class="spin" aria-hidden="true"></i><span>' + esc(u.name) + ' · ' + (u.pct > 0 ? (pc >= 100 ? 'finishing…' : pc + '%') : 'starting…') + '</span>' +
+      '<div class="bar upbar" role="progressbar" aria-label="Uploading ' + esc(u.name) + '" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + pc + '"><i id="up-' + u.k + '" style="width:' + pc + '%"></i></div></div>';
+  };
   const kb = (b) => b >= 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB';
   V.upload = () => DEMO ? V.uploadDemo() : '<main class="wrap"><p class="kicker">' + (paid() ? 'Before your free redo' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
-    '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + drawings().length + ' FILES</span>' + (UP.length ? '<span class="chip">UPLOADING ' + UP.length + '</span>' : '') + '</div>' +
-    '<div class="files">' + drawings().map((f) => '<div class="file"><img src="' + (THUMBS[f.name] || PLACE) + '" alt="' + esc(f.original || f.name) + '"><span>' + esc(f.original || f.name) + ' · ' + kb(f.bytes || 0) + '</span><button class="rm" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">' + RM + '</button></div>').join('') +
-    UP.filter((u) => u.kind !== 'brief').map((u) => '<div class="file up"><img src="' + (u.thumb || PLACE) + '" alt=""><span>' + esc(u.name) + '</span><div class="bar upbar" role="progressbar" aria-label="Uploading ' + esc(u.name) + '" aria-valuemin="0" aria-valuemax="100" aria-valuenow="' + Math.round(u.pct * 100) + '"><i id="up-' + u.k + '" style="width:' + Math.round(u.pct * 100) + '%"></i></div></div>').join('') + '</div>' +
+    '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + drawings().length + ' FILES</span>' + (upBusy() ? '<span class="chip">UPLOADING ' + upBusy() + '</span>' : '') + '</div>' +
+    '<div class="files">' + drawings().map((f) => '<div class="file"><img src="' + (THUMBS[f.name] || PLACE) + '" alt="' + esc(f.original || f.name) + '">' + (THUMBS[f.name] ? '' : '<span class="fkind">' + esc(String(f.type || 'file').toUpperCase()) + '</span>') + '<span>' + esc(f.original || f.name) + ' · ' + kb(f.bytes || 0) + '</span><button class="rm" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">' + RM + '</button></div>').join('') +
+    UP.filter((u) => u.kind !== 'brief').map(upCard).join('') + '</div>' +
     (drawings().length || UP.length ? '' : '<p class="status">Plans, sections, sketches, model photos, renders, or screenshots of your sheets.</p>') +
     '<div class="row"><button class="btn small" data-act="add">Add files</button><input id="add" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden><span class="status">or drag them here · PNG, JPG, WebP or PDF, up to 25 MB each</span></div>' +
     '<p class="err" id="upErr" role="alert">' + esc(upErr) + '</p>' +
     '<div class="row"><button class="link" data-act="addBrief">Brief or concept note? Add it here (optional)</button>' + (S.files || []).filter((f) => f.kind === 'brief').map((f) => '<span class="chip sun">BRIEF · ' + esc(f.original || f.name) + ' <button class="link" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">✕</button></span>').join('') +
-    UP.filter((u) => u.kind === 'brief').map((u) => '<span class="chip">BRIEF · ' + esc(u.name) + ' · uploading</span>').join('') + '</div></section>' +
+    UP.filter((u) => u.kind === 'brief').map((u) => u.err ? '<span class="chip">BRIEF · ' + esc(u.name) + ' · not added <button class="link" data-act="dropUp" data-k="' + u.k + '" aria-label="Dismiss">✕</button></span>' : '<span class="chip">BRIEF · ' + esc(u.name) + ' · uploading</span>').join('') +
+    UP.filter((u) => u.kind === 'brief' && u.err).map((u) => '<p class="err" role="alert" style="flex-basis:100%">' + esc(u.err) + '</p>').join('') + '</div></section>' +
     '<div class="row">' + (paid() ? '<button class="btn primary" data-act="toResult">Back to my board</button><span class="status">Your free redo uses these drawings.</span>' : '<button class="btn primary" data-act="toQ">Next</button><span class="status">No account needed.</span>') + '</div>' +
     (S.job && (S.files || []).length ? '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again: this clears these files from this page' : 'Start a new project instead') + '</button>' : '') + '</main>';
   V.uploadDemo = () => '<main class="wrap"><p class="kicker">Step 1 · free</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
@@ -417,7 +428,7 @@
       const b = briefs();
       return head + '<p class="kicker">Optional</p><h1 class="mid">Concept?</h1><p class="lede">In a few words. ' + FIXNOTE + '</p>' +
         '<div class="field"><input id="concept" class="input" type="text" maxlength="140" aria-label="Concept" placeholder="e.g. a market that becomes a garden at night" value="' + esc(S.concept || '') + '">' + onSheet('concept', S.concept) +
-        '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. Studio reads it for text.' : 'Or attach your brief or a concept note in your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p></div>' +
+        '<p class="hint" style="margin:0">' + (b.length ? 'Brief attached: ' + esc(b.join(', ')) + '. AI Studio reads it for text.' : 'Or attach your brief or a concept note in your files. <button class="link" data-act="go" data-s="upload">Go to your files</button>') + '</p></div>' +
         next(conceptLabel(), !!concept());
     }
     const q = qd(k), a = ans(k), locked = k === 'firm' && forcedUnbranded(), sel = locked ? 1 : a;
@@ -433,8 +444,8 @@
   const backbar = (items) => '<nav class="backbar" aria-label="Go back">' + items.map(([t, sc]) => '<button class="link" data-act="go" data-s="' + sc + '">' + t + '</button>').join('') + '</nav>';
   V.heard = () => { const ks = path().filter((k) => QB[k]);
     return '<main class="wrap">' + backbar([['← Back to the questions', 'q'], ['Add or remove drawings', 'upload']]) + '<span class="chip sun" style="align-self:flex-start">ALL ' + nFiles() + ' DRAWINGS CLEANED</span><h1 class="big">Here’s what we heard</h1>' +
-    '<p class="lede">Each answer, turned into what Studio will do. Tap a line to change it.</p><div class="heard">' +
-    ks.map((k) => '<button data-act="editq" data-k="' + k + '"><small>Q' + (path().indexOf(k) + 1) + ' · ' + esc(QB[k].k.toUpperCase()) + ' · you said ' + esc(said(k)) + '</small><strong>' + esc(heard(k, 'Studio decides')) + '</strong></button>').join('') +
+    '<p class="lede">Each answer, turned into what AI Studio will do. Tap a line to change it.</p><div class="heard">' +
+    ks.map((k) => '<button data-act="editq" data-k="' + k + '"><small>Q' + (path().indexOf(k) + 1) + ' · ' + esc(QB[k].k.toUpperCase()) + ' · you said ' + esc(said(k)) + '</small><strong>' + esc(heard(k, 'AI Studio decides')) + '</strong></button>').join('') +
     '</div><div class="row"><button class="btn primary" data-act="toPlan">See my preview</button></div></main>'; };
 
   /* A 3-4 word job for each slide, so the flow is clear in the plan. */
@@ -477,21 +488,21 @@
         '<button data-act="slOn" data-n="' + n + '"' + (k === 0 || (need && !off) ? ' disabled' : '') + '>' + (off ? 'Put back' : 'Leave out') + '</button></div></div>';
     }).join('');
     const hero = ans('proud') !== null && ans('proud') !== 'other' ? QB.proud.o[ans('proud')][0].toLowerCase() : 'your strongest view';
-    const tags = [['Hero: ' + hero, 'proud']].concat(isPro() ? [[heard('room', 'Voice: Studio decides'), 'room'], [heard('stage', 'Renders: Studio decides'), 'stage']] : [[heard('crit', 'Fix first: Studio checks the weakest part'), 'crit'], [heard('word', 'Balanced emphasis'), 'word']])
-      .concat([[heard('words', 'Captions plus 3 key ideas'), 'words'], [heard('proc', 'Process: Studio decides'), 'proc']])
-      .map(([t, k]) => '<div class="pcard"><img src="' + pic(HP, planImg(k)) + '" alt=""><div class="pbody"><b>' + esc(t) + '</b><span class="tag">' + (ans(k) === null ? 'Studio’s pick' : 'Because you said: ' + esc(said(k))) + '</span></div></div>').join('');
+    const tags = [['Hero: ' + hero, 'proud']].concat(isPro() ? [[heard('room', 'Voice: AI Studio decides'), 'room'], [heard('stage', 'Renders: AI Studio decides'), 'stage']] : [[heard('crit', 'Fix first: AI Studio checks the weakest part'), 'crit'], [heard('word', 'Balanced emphasis'), 'word']])
+      .concat([[heard('words', 'Captions plus 3 key ideas'), 'words'], [heard('proc', 'Process: AI Studio decides'), 'proc']])
+      .map(([t, k]) => '<div class="pcard"><img src="' + pic(HP, planImg(k)) + '" alt=""><div class="pbody"><b>' + esc(t) + '</b><span class="tag">' + (ans(k) === null ? 'AI Studio’s pick' : 'Because you said: ' + esc(said(k))) + '</span></div></div>').join('');
     const cline = concept() ? '<section class="cline card"><p class="kicker">Your concept</p><p class="ctext">' + esc(concept()) + '</p><div class="row"><span class="tag">Your words, spelling checked</span><button class="link" data-act="editq" data-k="concept">Change</button></div></section>'
-      : '<p class="hint">No concept typed' + (briefs().length ? ': Studio takes it from your brief.' : ': Studio plans the story from your drawings.') + ' <button class="link" data-act="editq" data-k="concept">Add your concept</button></p>';
+      : '<p class="hint">No concept typed' + (briefs().length ? ': AI Studio takes it from your brief.' : ': AI Studio plans the story from your drawings.') + ' <button class="link" data-act="editq" data-k="concept">Add your concept</button></p>';
     const nSl = F.visibleSlides(M).length;
     /* first view (owner, 28 Oct): board and deck on the left; on the right the magic part and the next-step button,
        visible without scrolling. Payment stays on the next page. */
     const t = S.tier || tierFromAnswers();
-    const sketch = DEMO ? '' : '<p class="hint">A first sketch from your own drawings. Studio sets the final layout and makes the new images after you pay.</p>';
+    const sketch = DEMO ? '' : '<p class="hint">A first sketch from your own drawings. AI Studio sets the final layout and makes the new images after you pay.</p>';
     const deal = '<section class="deal deal3"><div class="dealleft">' + sheets(0, '<div class="row"><span class="chip ink">' + (t === 'great' ? 'TRANSFORM' : 'POLISH') + '</span><span class="chip">TEXT STYLE ' + M.ts + '</span></div>' + sketch, 'v') + '</div>' +
-      '<div class="dealtxt"><p class="kicker">Step 3 · free</p><h1 class="mid">Here is what Studio will make</h1>' + getsList(t, nSl, 'key') +
+      '<div class="dealtxt"><p class="kicker">Step 3 · free</p><h1 class="mid">Here is what AI Studio will make</h1>' + getsList(t, nSl, 'key') +
       shiny('toPrice', 'Make my board and deck', 'From $11 · ready in about 5 minutes') +
       '<p class="hint">No account needed. You pick Polish or Transform and see the exact price next.</p><p class="kicker">What’s included</p>' + getsList(t, nSl, 'rest') + '</div></section>';
-    const notes = DEMO ? '' : '<p class="status" id="planSaved" aria-live="polite">' + esc(planSaved) + '</p>' + (S.planNotes && S.planNotes.length ? '<div class="card"><p class="kicker">Notes from Studio</p>' + S.planNotes.map((x) => '<p class="hint" style="margin:4px 0 0">' + esc(x) + '</p>').join('') + '</div>' : '');
+    const notes = DEMO ? '' : '<p class="status" id="planSaved" aria-live="polite">' + esc(planSaved) + '</p>' + (S.planNotes && S.planNotes.length ? '<div class="card"><p class="kicker">Notes from AI Studio</p>' + S.planNotes.map((x) => '<p class="hint" style="margin:4px 0 0">' + esc(x) + '</p>').join('') + '</div>' : '');
     return '<main class="wrap">' + backbar([['← Change your answers', 'q'], ['Add or remove drawings', 'upload']]) + deal + '<h2 class="mid" style="margin-top:28px">Change anything first</h2><p class="lede">Built from your answers and your drawings. Move, swap or remove anything until it tells your project the way you would at the pin-up.</p>' + cline +
       '<div class="pcards">' + tags + '</div>' + notes + '<div class="two"><div class="list"><h2 class="mid">The three ideas</h2><p class="lede">The spine of your board and deck. Reorder, swap or turn one off; the board preview updates as you go.</p>' + ideas +
       '<h2 class="mid" style="margin-top:18px">The jury deck</h2><p class="lede">' + F.visibleSlides(M).length + ' slides. Reorder them or leave some out. The cover stays first.</p>' + slides + '</div>' +
@@ -519,6 +530,26 @@
     .concat(isGreat() ? ['Re-rendering the entrance view', 'Redrawing the plan and section: tones, shadows, trees', 'Drawing new diagrams in the same family'] : ['Polishing your drawings, with 1–4 AI re-renders'])
     .concat(['Writing the story and captions from your answers', 'Checking every sentence against your sheets', 'Laying out the A1 board', 'Building the ' + F.visibleSlides(P).length + '-slide jury deck']);
   /* live: the build's own stages (server/core/progress.py BUILD_STAGES), ticked off as the status reports them */
+  /* The step list follows the server's own stage (owner's test note 2). The running step carries a moving bar and the
+     time it has been running (the server's step_elapsed_s when it sends one, else counted here from when this page
+     first saw the step), so it never looks stuck; a step not yet started shows "Waiting to start". */
+  const mmss = (s) => Math.floor(s / 60) + ':' + String(Math.floor(s % 60)).padStart(2, '0');
+  let clk = { key: null, base: 0, at: 0 };
+  function clockFrom(st) {
+    const key = (st.stage || '') + '|' + (st.step || '') + '|' + ((st.preview || {}).status || '') + '|' + ((st.build || {}).status || ''), now = Date.now();
+    if (typeof st.step_elapsed_s === 'number') clk = { key, base: st.step_elapsed_s, at: now };
+    else if (key !== clk.key) clk = { key, base: 0, at: now };
+  }
+  const clockNow = () => clk.base + (Date.now() - clk.at) / 1000;
+  setInterval(() => { const el = document.getElementById('mkt'); if (el) el.textContent = mmss(clockNow()); const tt = document.getElementById('mktt'); if (tt && typeof (ST || {}).elapsed_s === 'number') tt.textContent = mmss(ST.elapsed_s + (Date.now() - clk.got) / 1000) + ' SO FAR'; }, 1000);
+  function stepList(labels, at, running) {
+    return labels.map((m, i) => {
+      const s = !running ? (i === 0 ? 'now' : 'todo') : i < at ? 'done' : i === at ? 'now' : 'todo';
+      return '<div class="mk ' + s + '"><i aria-hidden="true">' + (s === 'done' ? '✓' : '') + '</i>' + esc(!running && i === 0 ? 'Waiting to start' : m) +
+        (s === 'now' ? '<span class="mkt" id="mkt" aria-label="Time on this step">' + mmss(clockNow()) + '</span>' : '') + '</div>';
+    }).join('');
+  }
+  const totalChip = () => typeof (ST || {}).elapsed_s === 'number' ? '<span class="chip" id="mktt">' + mmss(ST.elapsed_s) + ' SO FAR</span>' : '';
   const BUILD = ['Reading your files', 'Finding every drawing', 'Reading your concept', 'Planning the story', 'Making the pictures', 'Labelling the drawings',
     'Laying out the board and deck', 'Filling every slot', 'Building the files', 'Final checks'];
   V.makingLive = () => {
@@ -530,9 +561,9 @@
       '<p class="hint">Nothing to do on your side. Questions: hello@findgreatarchitecture.com</p></main>';
     const at = Math.max(0, BUILD.indexOf(st.step)), held = b.status === 'held';
     return '<main class="wrap narrow"><p class="kicker">Paid · receipt sent to ' + mail + '</p><h1 class="big">Making your board and deck</h1>' +
-      '<div class="row"><span class="chip ink">' + (g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">' + (held || b.status === 'queued' || b.status === 'none' ? 'IN THE QUEUE' : 'STEP ' + (at + 1) + ' OF ' + BUILD.length) + '</span>' + (typeof st.progress === 'number' ? '<span class="chip">' + st.progress + '%</span>' : '') + '</div>' +
+      '<div class="row"><span class="chip ink">' + (g ? 'TRANSFORM · ABOUT 5 MINUTES' : 'POLISH · UNDER 10 MINUTES') + '</span><span class="chip">' + (held || b.status === 'queued' || b.status === 'none' ? 'IN THE QUEUE' : 'STEP ' + (at + 1) + ' OF ' + BUILD.length) + '</span>' + (typeof st.progress === 'number' ? '<span class="chip">' + st.progress + '%</span>' : '') + totalChip() + '</div>' +
       (held ? '<div class="card"><p class="lede">It is a busy day, so your build waits in a short queue. We will email you when it starts and when it is ready.</p></div>' : '') +
-      '<div class="making" id="mk">' + BUILD.map((m, i) => { const s = b.status !== 'running' ? 'todo' : i < at ? 'done' : i === at ? 'now' : 'todo'; return '<div class="mk ' + s + '"><i aria-hidden="true">' + (s === 'done' ? '✓' : '') + '</i>' + esc(m) + '</div>'; }).join('') + '</div>' +
+      '<div class="making" id="mk">' + stepList(BUILD, at, b.status === 'running') + '</div>' +
       '<p class="lede">You can close this tab. We will email <b>' + mail + '</b> when it is ready, with a link back to your board.</p></main>';
   };
   /* live: the free preview being planned (server/core/progress.py PREVIEW_STAGES), or why it stopped */
@@ -547,9 +578,9 @@
       '<div class="row"><button class="btn primary" data-act="preview">Try again</button><button class="btn" data-act="go" data-s="upload">Add or change drawings</button></div></main>';
     const at = Math.max(0, PLANS.indexOf(st.step)), running = pv.status === 'running';
     return '<main class="wrap narrow"><p class="kicker">Step 3 · free</p><h1 class="big">Planning your board and deck</h1>' +
-      '<div class="row"><span class="chip ink">FREE PREVIEW</span><span class="chip">' + (running ? 'STEP ' + (at + 1) + ' OF ' + PLANS.length : 'STARTING') + '</span></div>' +
-      '<div class="making" id="mk">' + PLANS.map((m, i) => { const s = !running ? (i === 0 ? 'now' : 'todo') : i < at ? 'done' : i === at ? 'now' : 'todo'; return '<div class="mk ' + s + '"><i aria-hidden="true">' + (s === 'done' ? '✓' : '') + '</i>' + esc(m) + '</div>'; }).join('') + '</div>' +
-      '<p class="lede">Studio is reading every sheet and planning the story from your answers. It opens here by itself, usually in a minute or two.</p></main>';
+      '<div class="row"><span class="chip ink">FREE PREVIEW</span><span class="chip">' + (running ? 'STEP ' + (at + 1) + ' OF ' + PLANS.length : 'STARTING') + '</span>' + totalChip() + '</div>' +
+      '<div class="making" id="mk">' + stepList(PLANS, at, running) + '</div>' +
+      '<p class="lede">AI Studio is reading every sheet and planning the story from your answers. It opens here by itself, usually in a minute or two.</p></main>';
   };
   V.making = () => {
     if (!DEMO) return V.makingLive();
@@ -580,7 +611,7 @@
     F.visibleSlides(P).map((s, i) => '<div class="ewrap"><div class="sth" data-mini="slide:' + s.n + '" data-w="150"></div><button class="editbtn" data-act="editAt" data-v="deck" data-n="' + s.n + '" aria-label="Edit slide ' + (i + 1) + '">'+'<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 4l5 5L9 20H4v-5z"/><path d="M13 6l5 5"/></svg>'+'Edit</button></div>').join('') + '</div>' +
     '<div class="row"><button class="btn shiny dlall2" data-act="dlAll"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg><span class="cta"><span><b>Download all</b></span><small>Board PDF + JPG · Deck PDF + PowerPoint</small></span><span class="arrow" aria-hidden="true">↓</span></button>' +
     '<button class="btn" data-act="toEdit"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 4l5 5L9 20H4v-5z"/><path d="M13 6l5 5"/></svg>Open the editor</button></div></div></div>' +
-    (DEMO ? '<section class="did"><p class="kicker">Scroll: what Studio did with your drawings</p><h2 class="mid">From your sheets to a jury board</h2>' + didCards() +
+    (DEMO ? '<section class="did"><p class="kicker">Scroll: what AI Studio did with your drawings</p><h2 class="mid">From your sheets to a jury board</h2>' + didCards() +
     '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div></section>' : redoCard() + '<div class="row"><button class="btn primary big" data-act="toShare">Love it? Rate and share</button></div>' +
     '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again to start a new project (this one stays on your receipt link)' : 'Start a new project') + '</button>') + '</main>';
   /* live, when the editor could not open the build (the files are still there) */
@@ -597,7 +628,7 @@
   V.files = () => !P ? V.resultFiles() : '<main class="wrap narrow"><p class="kicker">Step 6</p><h1 class="big">Download</h1><p class="lede">These include every edit you made, in text style ' + P.ts + ' · ' + F.TS[P.ts].name + '.</p><div class="list">' +
     DL().map((d) => '<div class="dl"><div class="txt"><strong>' + d[1] + '</strong><span>' + d[2] + '</span><span class="status" id="st-' + d[0] + '"></span></div><button class="btn" data-act="exp" data-k="' + d[0] + '">Download</button></div>').join('') +
     '</div><p class="status">The PDF and JPG with your edits are high-resolution pictures of each sheet.' + (DEMO ? ' The live app also gives the sharp vector originals.' : ' The originals below are sharp vector files.') + '</p>' +
-    (DEMO ? '' : '<h2 class="mid">As Studio first made them</h2><p class="lede">Before your edits, straight from the layout engine.</p>' + outputsList()) +
+    (DEMO ? '' : '<h2 class="mid">As AI Studio first made them</h2><p class="lede">Before your edits, straight from the layout engine.</p>' + outputsList()) +
     exportExtras() + '<div class="row"><button class="btn primary" data-act="toShare">Next: rate and share</button><button class="btn" data-act="toEdit">Back to the editor</button></div></main>';
 
 
@@ -650,8 +681,25 @@
       '<button class="btn small on" data-act="start">Start free</button></header>';
   }
   const PH = (t) => '<span class="ph">[' + t + ']</span>';
+  /* Hero before/after (prototype commit 3ed209a, option B, owner picked 28 Oct): six small crops of the student's real
+     sheets (three rough: sketches and a model photo; three decent: plan, section, site map) -> green arrow -> the
+     finished A1 board. Crops are CSS windows on the original files: [file, x0, y0, x1, y1 as fractions, label, rough]. */
+  const RAWSZ = { 'raw/sheet-1.jpg': [900, 609], 'raw/sheet-3.jpg': [900, 503], 'raw/sheet-5.jpg': [900, 611], 'raw/sheet-6.jpg': [806, 576] };
+  const CROPS = [['raw/sheet-6.jpg', 0, 0, 1, 1, 'Plan', 0], ['raw/sheet-3.jpg', .228, .036, .474, .338, 'Sketch', 1], ['raw/sheet-5.jpg', .10, .03, .75, .52, 'Section', 0],
+    ['raw/sheet-3.jpg', .609, .507, .987, .740, 'Model photo', 1], ['raw/sheet-1.jpg', .15, .225, .578, .97, 'Site map', 0], ['raw/sheet-3.jpg', .609, .258, .987, .497, 'Elevation sketch', 1]];
+  function cropEl([src, x0, y0, x1, y1, lab, rough], i) {
+    const [W, H] = RAWSZ[src], w = x1 - x0, h = y1 - y0, bp = (a, span) => span >= 1 ? '0' : (a / (1 - span) * 100).toFixed(2) + '%';
+    return '<div class="crop c' + i + (rough ? ' rough' : '') + '" role="img" aria-label="' + lab + ', as uploaded" style="aspect-ratio:' + (w * W / (h * H)).toFixed(3) +
+      ';background-image:url(' + HP.base + src + ');background-size:' + (100 / w).toFixed(2) + '% ' + (100 / h).toFixed(2) + '%;background-position:' + bp(x0, w) + ' ' + bp(y0, h) + '"></div>';
+  }
+  const GARROW = '<svg class="garrow" viewBox="0 0 72 44" aria-hidden="true"><path d="M3 15h40V4l26 18-26 18V29H3z"/></svg>';
+  function heroArt() {
+    return '<div class="lart" aria-label="Before and after: six rough sketches, photos and drawings become one finished A1 board">' +
+      '<div class="before"><div class="crops">' + CROPS.map(cropEl).join('') + '</div><span class="ptag">Before · 6 files</span></div>' +
+      '<div class="arrowcol"><span class="atag">✦ AI Studio</span>' + GARROW + '</div>' +
+      '<div class="after"><div class="sth" data-mini="board" data-m="h" data-w="480" data-fit="1"></div><span class="ptag lime">After · your A1 board</span></div></div>';
+  }
   V.home = () => {
-    const pile = HP.raw.slice(0, 6).map((r, i) => '<img class="p' + i + '" src="' + HP.base + r.src + '" alt="' + esc(r.name) + ', as uploaded">').join('');
     const steps = [['Upload', 'Drop in what you have: plans, sections, sketches, model photos, even screenshots of your sheets. 5 to 10 is best.', 'up'],
       ['Answer a few questions', 'A few quick taps and your concept in a few words.', 'q'],
       ['Preview your board and deck, free', 'See which drawing goes where and what each slide says. Move, swap or remove anything.', 'plan'],
@@ -666,11 +714,10 @@
     return '<main class="land">' +
       '<section class="lhero wrap"><div class="lcopy"><p class="kicker">For architecture students and studios · preview free before you pay</p>' +
       '<h1 class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></h1>' +
-      '<p class="lede">Upload your plans, sections, sketches and model photos. Answer a few quick questions. Studio plans the story, writes the text and sets an A1 board and a matching jury deck that you can still edit.</p>' +
+      '<p class="lede">Upload your plans, sections, sketches and model photos. Answer a few quick questions. AI Studio plans the story, writes the text and sets an A1 board and a matching jury deck that you can still edit.</p>' +
       shiny('start', 'Start free', 'No login · preview free') +
       '<div class="row fmts"><span class="chip">A1 board</span><span class="chip">16:9 jury deck</span><span class="chip">PDF · PowerPoint · InDesign</span></div></div>' +
-      '<div class="lart" aria-label="Before and after: the student’s six sheets and the finished board"><div class="pile">' + pile + '<span class="ptag">Before · 6 files</span></div>' +
-      '<span class="larrow" aria-hidden="true">→</span><div class="after"><div class="sth" data-mini="board" data-m="h" data-w="260" data-fit="1"></div><span class="ptag lime">After · your A1 board</span></div></div></section>' +
+      heroArt() + '</section>' +
       '<section class="wrap opens"><p class="kicker">Opens in</p><div class="row"><span class="chip">PowerPoint</span><span class="chip">Keynote</span><span class="chip">Google Slides</span><span class="chip">Canva</span><span class="chip">InDesign</span></div>' +
       '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
       '<section class="wrap" id="how"><p class="kicker">How it works</p><h2 class="big">Four steps. The first three are free.</h2><div class="lsteps">' +
@@ -762,39 +809,47 @@
     return true;
   }
   async function addLive(list, kind) {
-    const errs = [], todo = [];
-    [...list].forEach((f) => {
-      if (!OKTYPE.test(f.name) && !/^(image\/(png|jpeg|webp)|application\/pdf)$/.test(f.type)) errs.push('“' + f.name + '” is not a file Studio can read. Use PNG, JPG, WebP or PDF.');
-      else if (f.size > MAXMB * 1048576) errs.push('“' + f.name + '” is ' + (f.size / 1048576).toFixed(0) + ' MB. Files can be up to ' + MAXMB + ' MB each: export it smaller or split it.');
-      else if ((S.files || []).length + UP.length + todo.length >= MAXFILES) errs.push('That is the most files one project can take (' + MAXFILES + '). Remove some first.');
-      else todo.push(f);
+    upErr = '';
+    /* every file gets its slot at once; the ones that can't go up say why */
+    const items = [...list].map((f) => {
+      const u = { k: ++upSeq, f, name: f.name, kind, pct: 0, thumb: /^image\/(png|jpeg|webp)$/.test(f.type) ? URL.createObjectURL(f) : null, err: null, retry: false };
+      if (!OKTYPE.test(f.name) && !/^(image\/(png|jpeg|webp)|application\/pdf)$/.test(f.type)) u.err = 'Not a file Studio can read. Use PNG, JPG, WebP or PDF.';
+      else if (f.size > MAXMB * 1048576) u.err = (f.size / 1048576).toFixed(0) + ' MB: files can be up to ' + MAXMB + ' MB. Export it smaller or split it.';
+      else if ((S.files || []).length + upBusy() >= MAXFILES) u.err = 'The most one project can take is ' + MAXFILES + ' files. Remove some first.';
+      if (!u.err) u.pct = 0;
+      UP.push(u);
+      return u;
     });
-    upErr = [...new Set(errs)].join(' ');
-    if (!todo.length) { render(); return; }
-    if (!(await ensureJob())) return;
-    const items = todo.map((f) => ({ k: ++upSeq, f, name: f.name, kind, pct: 0, thumb: /^image\//.test(f.type) ? URL.createObjectURL(f) : null }));
-    UP = UP.concat(items); render();
-    for (const u of items) {
-      const r = await API.upload(S.job, kind, u.f, (p) => { u.pct = p; const bar = document.getElementById('up-' + u.k); if (bar) { bar.style.width = Math.round(p * 100) + '%'; bar.parentElement.setAttribute('aria-valuenow', Math.round(p * 100)); } });
+    render();
+    const todo = items.filter((u) => !u.err);
+    if (!todo.length) return;
+    if (!(await ensureJob())) { todo.forEach((u) => { u.err = upErr || 'Studio can’t be reached right now.'; u.retry = true; }); upErr = ''; render(); return; }
+    for (const u of todo) await sendUp(u);
+    if (kind === 'brief' && todo.some((u) => !u.err)) toast('Brief added. AI Studio reads it for text, not for the board.');
+  }
+  async function sendUp(u) {
+    u.err = null; u.retry = false; u.pct = 0;
+    const r = await API.upload(S.job, u.kind, u.f, (p) => {
+      u.pct = p;
+      const bar = document.getElementById('up-' + u.k);
+      if (bar) { bar.style.width = Math.round(p * 100) + '%'; bar.parentElement.setAttribute('aria-valuenow', Math.round(p * 100)); const t = bar.parentElement.previousElementSibling; if (t) t.textContent = u.name + ' · ' + (p >= 1 ? 'finishing…' : Math.round(p * 100) + '%'); }
+    });
+    if (r.ok) {
       UP = UP.filter((x) => x !== u);
-      if (r.ok) {
-        S.files = r.data.files || S.files;
-        (r.data.added || []).forEach((a) => { if (u.thumb) THUMBS[a.name] = u.thumb; });
-        saveS();
-      } else {
-        if (u.thumb) URL.revokeObjectURL(u.thumb);
-        upErr = (upErr ? upErr + ' ' : '') + upMsg(r, u.name);
-        if (r.status === 404) { S.job = null; saveS(); }
-      }
-      if (S.screen === 'upload') render();
+      S.files = r.data.files || S.files;
+      (r.data.added || []).forEach((a) => { if (u.thumb) THUMBS[a.name] = u.thumb; });
+      saveS();
+    } else {
+      u.err = upMsg(r, u.name); u.retry = r.status === 0 || r.status === 409 || r.status >= 500;
+      if (r.status === 404) { S.job = null; saveS(); u.retry = true; }
     }
-    if (kind === 'brief') toast('Brief added. Studio reads it for text, not for the board.');
+    if (S.screen === 'upload') render();
   }
   function addFiles(list) {
     if (!DEMO) { const k = asBrief ? 'brief' : 'drawing'; asBrief = false; addLive(list, k); return; }
     const b = asBrief; asBrief = false;
     [...list].forEach((f) => { if (b) S.briefs = briefs().concat(f.name); else S.extra.push(f.name); }); saveS(); render();
-    toast(b ? 'Brief added. Studio reads it for text, not for the board.' : list.length + ' file' + (list.length === 1 ? '' : 's') + ' added. This demo keeps using the sample project.');
+    toast(b ? 'Brief added. AI Studio reads it for text, not for the board.' : list.length + ' file' + (list.length === 1 ? '' : 's') + ' added. This demo keeps using the sample project.');
   }
 
   /* ---------------------------------------------------------- editor */
@@ -848,7 +903,7 @@
     if (!sel) {
       h = '<h3>' + (ed.view === 'board' ? 'Your A1 board' : 'Slide ' + (F.visibleSlides(P).findIndex((s) => s.n === ed.slideN) + 1)) + '</h3>' +
         '<div class="howto"><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M12 8v8M8 12h8"/></svg><span>Click a picture</span></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v18M3 12h18M12 3l-3 3M12 3l3 3M12 21l-3-3M12 21l3-3M3 12l3-3M3 12l3 3M21 12l-3-3M21 12l-3 3"/></svg><span>Drag to move</span></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5L21 21M8 10.5h5M10.5 8v5"/></svg><span>Scroll to zoom</span></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 4L3 8l4 4M3 8h13M17 20l4-4-4-4M21 16H8"/></svg><span>Drop on another to swap</span></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 6V4h14v2M12 4v16M9 20h6"/></svg><span>Click text twice to type</span></div><div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 14L4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/></svg><span>⌘Z undo · autosaves</span></div></div>' +
-        '<button class="btn small" data-act="reset">' + (resetArm ? 'Click again to confirm' : 'Undo all my edits') + '</button><p class="hint">Goes back to the board and deck exactly as Studio first made them. Your own changes are removed.</p>' +
+        '<button class="btn small" data-act="reset">' + (resetArm ? 'Click again to confirm' : 'Undo all my edits') + '</button><p class="hint">Goes back to the board and deck exactly as AI Studio first made them. Your own changes are removed.</p>' +
         '<h4 class="pdl">Download, with your edits</h4><div class="pdlgrid">' +
         [['boardPDF', 'Board · PDF'], ['boardJPG', 'Board · JPG'], ['deckPDF', 'Deck · PDF'], ['deckPPTX', 'Deck · PowerPoint']]
           .map((d) => '<button class="btn small" data-act="exp" data-k="' + d[0] + '"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>' + d[1] + '</button>').join('') +
@@ -919,7 +974,7 @@
     addBrief: () => { asBrief = true; document.getElementById('add').click(); },
     toQ: () => {
       if (!DEMO) {
-        const why = UP.length ? 'Wait a moment: your files are still uploading.' : !drawings().length ? 'Add at least one drawing first.' : '';
+        const why = upBusy() ? 'Wait a moment: your files are still uploading.' : !drawings().length ? 'Add at least one drawing first.' : '';
         if (why) { upErr = why; const e = document.getElementById('upErr'); if (e) e.textContent = why; return; }
         upErr = '';
       }
@@ -986,6 +1041,8 @@
       }
       const i = +el.dataset.i; if (el.dataset.k === 'raw') { S.rmRaw = (S.rmRaw || []).concat(i); } else if (el.dataset.k === 'brief') { S.briefs = briefs().filter((x, j) => j !== i); } else { S.extra.splice(i, 1); } saveS(); render();
     },
+    dropUp: (el) => { const u = UP.find((x) => x.k === +el.dataset.k); if (u && u.thumb) URL.revokeObjectURL(u.thumb); UP = UP.filter((x) => x !== u); render(); },
+    retryUp: async (el) => { const u = UP.find((x) => x.k === +el.dataset.k); if (!u) return; u.err = null; render(); if (!(await ensureJob())) { u.err = upErr || 'Studio can’t be reached right now.'; u.retry = true; upErr = ''; render(); return; } sendUp(u); },
     toShare: () => go('share'),
     rate: (el) => { S.rate = +el.dataset.r; saveS(); render(); if (S.rate >= 4) sendFeedback({ rating: S.rate }); },
     sendFb: () => { const t = document.getElementById('fb'); S.fb = t ? t.value : ''; S.fbSent = true; saveS(); render(); sendFeedback({ rating: S.rate, note: S.fb }); },
@@ -1003,7 +1060,7 @@
     lib: (el) => ed.replace(ed.sel.slot, LIB[+el.dataset.i]),
     labOff: () => { const page = ed.page(), slot = page.slots.find((s) => s.id === ed.sel.slot); page.contents[slot.content].labels[ed.sel.label].on = false; ed.sel = { type: 'slot', slot: slot.id }; ed.commit('Hide label'); },
     reset: () => { if (!resetArm) { resetArm = true; panel(); setTimeout(() => { resetArm = false; panel(); }, 4000); return; }
-      resetArm = false; const keep = { ideas: P.ideas, altIdeas: P.altIdeas, slideOrder: P.slideOrder, slideOff: P.slideOff }; P = Object.assign(F.clone(ORIG), keep); setP(P, 'Start over'); ed.sel = null; ed.render(); rail(); panel(); toast('Back to Studio’s version. Undo brings your edits back.'); },
+      resetArm = false; const keep = { ideas: P.ideas, altIdeas: P.altIdeas, slideOrder: P.slideOrder, slideOff: P.slideOff }; P = Object.assign(F.clone(ORIG), keep); setP(P, 'Start over'); ed.sel = null; ed.render(); rail(); panel(); toast('Back to AI Studio’s version. Undo brings your edits back.'); },
     panelMin: () => { const el = document.getElementById('panel'); S.panelPinned = true; el.classList.toggle('min'); panel(); },
     dlAll: async (el) => {
       if (el.disabled) return;
@@ -1236,12 +1293,12 @@
 
   /* the job's status, read every few seconds while something runs */
   let pollT = null;
-  function poll(ms) { clearTimeout(pollT); pollT = setTimeout(tick, ms || 3500); }
+  function poll(ms) { clearTimeout(pollT); pollT = setTimeout(tick, ms || 2500); }
   async function tick() {
     if (DEMO || !S.job) return;
     const r = await API.status(S.job);
     if (!r.ok) { if (r.status === 404) { lost(); return; } poll(7000); return; }
-    ST = r.data;
+    ST = r.data; clockFrom(ST); clk.got = Date.now();
     await onStatus();
   }
   async function onStatus() {
@@ -1255,11 +1312,11 @@
     if (sc === 'making') {
       if (!st.paid) {
         if (S.payDeadline && Date.now() > S.payDeadline) { S.payNote = 'unconfirmed'; S.payDeadline = null; saveS(); await buildPV(); go('price'); poll(15000); return; }
-        render(); poll(3000); return;
+        render(); poll(2500); return;
       }
       S.payStarted = null; S.payDeadline = null; S.payNote = null; saveS();
       if (st.stage === 'ready') { await openResult(true); go('result'); return; }
-      render(); poll(st.stage === 'failed' ? 60000 : 3500); return;
+      render(); poll(st.stage === 'failed' ? 60000 : 2500); return;
     }
     if (sc === 'price' && S.payNote === 'unconfirmed' && st.paid) { S.payNote = null; go('making'); poll(500); }
   }
@@ -1276,7 +1333,7 @@
       if (r.status === 404) { lost(); return; }
       render(); toast(offline); return;
     }
-    ST = r.data;
+    ST = r.data; clockFrom(ST); clk.got = Date.now();
     S.files = ST.files || S.files || [];
     if (ST.intake && (!S.lastIntake || fromReceipt || !Object.keys(S.card || {}).length)) { fromIntake(ST.intake); S.lastIntake = JSON.stringify(intakeBody()); }
     if (ST.email && !S.email) S.email = ST.email;

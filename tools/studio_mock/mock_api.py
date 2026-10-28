@@ -93,6 +93,44 @@ def tier_from(intake):
     return "nice" if re.match(r"(keep|polish)", a, re.I) else "great"
 
 
+# ------------------------------------------------------------------ the composition preview (rule 26, D85)
+def composition(j):
+    """What goes where on the board and on each of 12 slides, as 0..1 fractions of the page: the student's drawings
+    (source "student", with the panel crop as image_url), what Studio will create ("create") and text ("text")."""
+    def st(pid, label, role, x, y, w, h):
+        return {"id": pid + "-" + role, "label": label, "role": role, "source": "student", "image_url": thumb(j["id"], pid), "x": x, "y": y, "w": w, "h": h}
+
+    def new(label, role, x, y, w, h):
+        return {"id": "new-" + role, "label": label, "role": role, "source": "create", "image_url": None, "x": x, "y": y, "w": w, "h": h}
+
+    def tx(label, role, x, y, w, h):
+        return {"id": "t-" + role + "-%d" % int(x * 100 + y * 1000), "label": label, "role": role, "source": "text", "image_url": None, "x": x, "y": y, "w": w, "h": h}
+    board = [tx("Title", "title", .034, .02, .69, .05), tx("Project details", "info", .743, .025, .223, .045),
+             st("p04-1", "Render · entrance", "hero", .034, .076, .617, .209), tx("Concept", "concept", .664, .076, .302, .06),
+             tx("The story", "story", .664, .14, .302, .07), tx("Three ideas", "ideas", .664, .214, .302, .09),
+             st("p03-3", "Process sketch", "process", .034, .306, .302, .109), st("p03-1", "Process sketch", "process", .349, .306, .302, .109),
+             st("p03-4", "Concept sketch", "concept", .664, .306, .302, .109),
+             st("p05-2", "Model", "model", .034, .44, .302, .1), st("p03-6", "Model", "model", .349, .44, .302, .1), new("Axonometric · new", "axonometric", .664, .44, .302, .1),
+             st("p01-1", "Site plan", "site", .034, .565, .302, .188), st("p06-1", "Plan · ground floor", "plan", .349, .565, .617, .188),
+             st("p05-1", "Section · AA", "section", .034, .78, .617, .17), new("Elevation · new", "elevation", .664, .78, .302, .17)]
+    full = lambda pid, lab, role: [st(pid, lab, role, .047, .25, .906, .66), tx("Headline", "headline", .047, .07, .7, .12)]
+    left = lambda items, txt: items + [tx(txt, "text", .047, .07, .33, .5)]
+    deck = [
+        {"n": 1, "title": "Cover", "kind": "cover", "slots": [st("p04-1", "Render · entrance", "hero", .047, .063, .6, .816), tx("Project title", "title", .66, .06, .29, .37), tx("Details", "info", .66, .74, .29, .14)]},
+        {"n": 2, "title": "Contents", "kind": "contents", "slots": [tx("Contents", "headline", .047, .07, .9, .12), tx("Sections", "contents", .047, .26, .42, .6), tx("Sections", "contents", .51, .26, .42, .6)]},
+        {"n": 3, "title": "The brief", "kind": "brief", "slots": left([st("p05-3", "Model", "model", .43, .063, .52, .61)], "Brief and programme") + [tx("Three ideas", "ideas", .047, .76, .9, .17)]},
+        {"n": 4, "title": "The setting", "kind": "context", "slots": left([st("p01-1", "Site plan", "site", .4, .063, .55, .82)], "Site and context")},
+        {"n": 5, "title": "The idea", "kind": "concept", "slots": left([st("p03-4", "Concept sketch", "concept", .4, .063, .55, .82)], "Concept")},
+        {"n": 6, "title": "The process", "kind": "process", "slots": [tx("Headline", "headline", .047, .07, .9, .12), st("p03-3", "Process sketch", "process", .047, .3, .29, .5), st("p03-1", "Process sketch", "process", .355, .3, .29, .5), st("p03-2", "Process sketch", "process", .663, .3, .29, .5)]},
+        {"n": 7, "title": "The models", "kind": "models", "slots": [tx("Headline", "headline", .047, .07, .9, .12), st("p05-2", "Model", "model", .047, .3, .29, .5), st("p03-6", "Model", "model", .355, .3, .29, .5), st("p03-7", "Model", "model", .663, .3, .29, .5)]},
+        {"n": 8, "title": "The plan", "kind": "plan", "slots": left([st("p06-1", "Plan · ground floor", "plan", .4, .063, .55, .82)], "Plan notes")},
+        {"n": 9, "title": "The section", "kind": "section", "slots": full("p05-1", "Section · AA", "section")},
+        {"n": 10, "title": "The elevation", "kind": "elevation", "slots": [tx("Headline", "headline", .047, .07, .9, .12), new("Elevation · new", "elevation", .047, .25, .906, .66)]},
+        {"n": 11, "title": "The assembly", "kind": "axonometric", "slots": left([new("Axonometric · new", "axonometric", .4, .063, .55, .82)], "How it fits together")},
+        {"n": 12, "title": "Closing", "kind": "closing", "slots": [st("p03-5", "Render · street", "render", .047, .063, .6, .816), tx("Closing words", "title", .66, .06, .29, .5)]}]
+    return {"board": {"w_mm": 594, "h_mm": 841, "slots": board}, "deck": {"slides": deck}}
+
+
 # ------------------------------------------------------------------ the job's state
 def stage_of(j, now):
     out = {"stage": "upload", "step": None, "progress": 0}
@@ -110,7 +148,8 @@ def stage_of(j, now):
                     pv["error"] = "We could not find any drawings in your uploads. Add PNG, JPG or PDF drawings and try again."
             else:
                 pv["status"] = "running" if k >= 1 else "queued"
-                out.update(stage="previewing", step=PREVIEW_STAGES[k] if k >= 1 else "Waiting to start", progress=[5, 15, 70, 75][k])
+                out.update(stage="previewing", step=PREVIEW_STAGES[k] if k >= 1 else "Waiting to start", progress=[5, 15, 70, 75][k],
+                           elapsed_s=round(now - pv["at"], 1), step_elapsed_s=round((now - pv["at"]) % (1.5 * SPEED), 1))
         if pv["status"] == "done":
             out.update(stage="pay", progress=100)
         elif pv["status"] == "failed":
@@ -124,7 +163,8 @@ def stage_of(j, now):
                 b["attempt"] = 2 if b["status"] == "failed" else 1
             else:
                 b["status"] = "running" if k >= 1 else "queued"
-                out.update(stage="building", step=BUILD_STAGES[k] if k >= 1 else "Waiting to start", progress=[3, 6, 18, 20, 30, 62, 70, 74, 80, 96][k] if k >= 1 else 0)
+                out.update(stage="building", step=BUILD_STAGES[k] if k >= 1 else "Waiting to start", progress=[3, 6, 18, 20, 30, 62, 70, 74, 80, 96][k] if k >= 1 else 0,
+                           elapsed_s=round(now - b["at"], 1), step_elapsed_s=round((now - b["at"]) % (1.0 * SPEED), 1))
         if b["status"] == "done":
             out.update(stage="ready", progress=100, step=None)
         elif b["status"] == "failed":
@@ -148,7 +188,8 @@ def status(j):
         outs.append({"name": "indesign/board_InDesign.zip", "label": "Board InDesign", "bytes": 1234, "url": "%s/jobs/%s/download/indesign/board_InDesign.zip?exp=9999999999&sig=mock" % (API, j["id"])})
     pv = j.get("preview") or {"status": "none"}
     redo_until = j["paid_at"] + 7 * 86400 if paid else None
-    return dict(job_id=j["id"], **s, preview={"status": pv["status"], "error": pv.get("error")},
+    return dict(job_id=j["id"], **s, preview={"status": pv["status"], "error": pv.get("error"),
+                                          "composition": composition(j) if pv["status"] == "done" else None},
                 build={"status": b["status"], "attempt": b.get("attempt"), "reason": b.get("reason"),
                        "error": "Something went wrong on our side. We have been told and will rerun it at no cost." if b["status"] == "failed" else None},
                 plan=plan_for(j) if pv["status"] == "done" else None, tier=j.get("tier") or (tier_from(j["intake"]) if j.get("intake") else None),

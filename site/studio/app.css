@@ -385,23 +385,37 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .hl { background: linear-gradient(var(--hl), var(--hl)) no-repeat 0 82%; background-size: 100% 42%; animation: hilite .8s ease .5s both; color: inherit; }
 @keyframes hilite { from { background-size: 0% 42%; } to { background-size: 100% 42%; } }
 :root[data-theme="dark"] .hl, .hl { -webkit-box-decoration-break: clone; box-decoration-break: clone; }
-.lhero { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 36px; align-items: center; }
+.lhero { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); gap: 36px; align-items: center; }
 @media (max-width: 899px) { .lhero { grid-template-columns: minmax(0, 1fr); } }
 .lcopy { display: flex; flex-direction: column; gap: 18px; min-width: 0; }
 .lcopy .btn.shiny { align-self: flex-start; }
 .fmts .chip, .opens .chip { font-size: 12px; }
-.lart { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: center; gap: 10px; min-width: 0; }
-.pile { position: relative; aspect-ratio: 3 / 4; min-width: 0; }
-.pile img { position: absolute; width: 66%; aspect-ratio: 4 / 3; object-fit: cover; background: #fff; border: 2px solid var(--line); border-radius: 6px; box-shadow: 3px 3px 0 var(--shadow); animation: fly .7s cubic-bezier(.2, .9, .3, 1.2) both; }
-.pile .p0 { left: 0; top: 4%; --r: -8deg; animation-delay: .05s; } .pile .p1 { right: 0; top: 0; --r: 6deg; animation-delay: .15s; }
-.pile .p2 { left: 6%; top: 32%; --r: 4deg; animation-delay: .25s; } .pile .p3 { right: 2%; top: 38%; --r: -5deg; animation-delay: .35s; }
-.pile .p4 { left: 0; top: 60%; --r: -3deg; animation-delay: .45s; } .pile .p5 { right: 4%; top: 64%; --r: 9deg; animation-delay: .55s; }
-.pile img { transform: rotate(var(--r)); }
-@keyframes fly { from { transform: translateY(-40px) rotate(calc(var(--r) * 3)); } to { transform: rotate(var(--r)); } }
+.lart { display: grid; grid-template-columns: minmax(0, .8fr) auto minmax(0, 1.2fr); align-items: center; gap: 12px; min-width: 0; }
 .ptag { position: absolute; left: 50%; bottom: -14px; transform: translateX(-50%); white-space: nowrap; z-index: 2; font: 700 11px/1 var(--mono); padding: 6px 9px; border: 2px solid var(--line); border-radius: 999px; background: var(--card); color: var(--ink); }
 .ptag.lime { background: var(--lime); color: var(--on-accent); }
-.larrow { font: 800 34px var(--display); color: var(--coral); }
+.lart .before { position: relative; min-width: 0; }
+.crop { position: relative; background-color: #fff; background-repeat: no-repeat; border: 2px solid var(--line); border-radius: 5px; box-shadow: 3px 3px 0 var(--shadow); animation: fly .7s cubic-bezier(.2, .9, .3, 1.2) both; transform: rotate(var(--r, 0deg)); }
+.crop.rough { filter: grayscale(.35) contrast(.92); }
+@keyframes fly { from { transform: translateY(-40px) rotate(calc(var(--r, 0deg) * 3)); } to { transform: rotate(var(--r, 0deg)); } }
+.c0 { animation-delay: .05s; } .c1 { animation-delay: .15s; } .c2 { animation-delay: .25s; } .c3 { animation-delay: .35s; } .c4 { animation-delay: .45s; } .c5 { animation-delay: .55s; }
+.arrowcol { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.garrow { width: 64px; height: 40px; fill: var(--lime); stroke: var(--line); stroke-width: 2.5; stroke-linejoin: round; filter: drop-shadow(3px 3px 0 var(--shadow)); }
+.atag { font: 700 11px/1 var(--mono); padding: 5px 8px; border: 2px solid var(--line); border-radius: 999px; background: var(--lime); color: var(--on-accent); white-space: nowrap; }
 .lart .after { position: relative; justify-self: stretch; display: flex; justify-content: center; min-width: 0; animation: boardIn .8s cubic-bezier(.2, .9, .3, 1.1) .7s both; }
+/* taped to the wall, a rough grid; small torn strips of masking tape */
+.lart .crops { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 12px; align-items: center; padding: 6px 4px 18px; }
+.lart .crop::before { content: ""; position: absolute; left: var(--tx, 50%); top: -6px; width: 27%; height: 10px; transform: translateX(-50%) rotate(var(--t, -3deg));
+  background: linear-gradient(180deg, rgb(246 234 196 / .86), rgb(232 216 168 / .8)); opacity: .92;
+  clip-path: polygon(3% 0, 97% 0, 100% 18%, 96% 36%, 100% 55%, 96% 74%, 99% 100%, 2% 100%, 4% 78%, 0 58%, 4% 38%, 0 18%); }
+.lart .c0 { --r: -3deg; --t: -4deg; --tx: 46%; } .lart .c1 { --r: 4deg; --t: 3deg; --tx: 55%; width: 78%; justify-self: center; } .lart .c2 { --r: 2deg; --t: -2deg; --tx: 40%; }
+.lart .c3 { --r: -5deg; --t: 6deg; --tx: 58%; width: 86%; } .lart .c4 { --r: 3deg; --t: -5deg; --tx: 50%; width: 74%; justify-self: center; } .lart .c5 { --r: -2deg; --t: 2deg; --tx: 44%; }
+@media (max-width: 520px) {
+  .lart { grid-template-columns: minmax(0, 1fr); gap: 14px; }
+  .lart .crops { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px 10px; }
+  .lart .crop { width: 100%; justify-self: stretch; }
+  .arrowcol { flex-direction: row; justify-content: center; margin-top: 16px; } .garrow { transform: rotate(90deg); width: 52px; height: 32px; }
+  .lart .after .sth { max-width: 300px; }
+}
 .lart .after .sth { border: 2px solid var(--line); border-radius: 4px; box-shadow: 6px 6px 0 var(--shadow); }
 @keyframes boardIn { from { transform: translateY(50px) rotate(2deg); } to { transform: none; } }
 .lsteps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
@@ -481,3 +495,16 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .file.up img { opacity: .55; }
 .file .upbar { flex: none; height: 10px; }
 .file .upbar i { transition: width .2s linear; }
+
+/* a step that is running: a moving bar and the time it has run, so it never looks stuck */
+.mk .mkt { margin-left: auto; font: 600 12px/1 var(--mono); opacity: .8; }
+.mk.now { position: relative; overflow: hidden; }
+.mk.now::after { content: ""; position: absolute; left: 0; bottom: 0; height: 4px; width: 35%; background: var(--ink); opacity: .55; animation: mkrun 1.6s ease-in-out infinite; }
+@keyframes mkrun { from { transform: translateX(-100%); } to { transform: translateX(290%); } }
+@media (prefers-reduced-motion: reduce) { .mk.now::after { animation: none; width: 100%; opacity: .25; } }
+/* an upload on its way, or one that failed */
+.file .spin { position: absolute; left: 50%; top: 32%; width: 28px; height: 28px; margin: -14px 0 0 -14px; border: 3px solid var(--line); border-top-color: transparent; border-radius: 999px; animation: spin .9s linear infinite; }
+.file { position: relative; }
+.file.err img { opacity: .35; filter: grayscale(1); }
+.file .ferr { color: var(--danger); font-size: 12px; white-space: normal; }
+.file .fkind { position: absolute; left: 8px; top: 8px; font: 700 11px/1 var(--mono); padding: 3px 6px; border: 2px solid var(--line); border-radius: 6px; background: var(--card); }
