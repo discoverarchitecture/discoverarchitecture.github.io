@@ -111,12 +111,23 @@ def composition(j):
 
     def tx(label, role, x, y, w, h):
         return {"id": "t-" + role + "-%d" % int(x * 100 + y * 1000), "label": label, "role": role, "source": "text", "image_url": None, "x": x, "y": y, "w": w, "h": h}
+    def row5(y, h, items, x0=.034, span=.932, gap=.012, cap=True):
+        w = (span - gap * (len(items) - 1)) / len(items)
+        out = []
+        for k, (pid, lab, role) in enumerate(items):
+            x = x0 + k * (w + gap)
+            out.append(st(pid, lab, role, x, y, w, h) if pid else new(lab, role, x, y, w, h))
+            if cap:
+                out.append(tx("Caption", "caption", x, y + h + .004, w, .014 if h > .2 else .012))
+        return out
     board = [tx("Title", "title", .034, .02, .69, .05), tx("Project details", "info", .743, .025, .223, .045),
              st("p04-1", "Render · entrance", "hero", .034, .076, .617, .209), dict(tx("Concept", "concept", .664, .076, .302, .06), lines=4),
              tx("The story", "story", .664, .14, .302, .07), tx("Three ideas", "ideas", .664, .214, .302, .09),
              st("p03-3", "Process sketch", "process", .034, .306, .302, .109), st("p03-1", "Process sketch", "process", .349, .306, .302, .109),
              st("p03-4", "Concept sketch", "concept", .664, .306, .302, .109),
-             st("p05-2", "Model", "model", .034, .44, .302, .1), st("p03-6", "Model", "model", .349, .44, .302, .1), new("Axonometric · new", "axonometric", .664, .44, .302, .1),
+             tx("Caption", "caption", .034, .417, .302, .012), tx("Caption", "caption", .349, .417, .302, .012), tx("Caption", "caption", .664, .417, .302, .012),
+             *row5(.44, .085, [("p05-2", "Model photo", "model"), ("p03-6", "Model photo", "model"), ("p03-7", "Model photo", "model"),
+                               ("p03-4", "Concept diagram", "concept"), (None, "Axonometric · new", "axonometric")]),
              st("p01-1", "Site plan", "site", .034, .565, .302, .188), st("p06-1", "Plan · ground floor", "plan", .349, .565, .617, .188),
              st("p05-1", "Section · AA", "section", .034, .78, .617, .17), new("Elevation · new", "elevation", .664, .78, .302, .17)]
     full = lambda pid, lab, role: [st(pid, lab, role, .047, .25, .906, .66), tx("Headline", "headline", .047, .07, .7, .12)]
@@ -127,8 +138,9 @@ def composition(j):
         {"n": 3, "title": "The brief", "kind": "brief", "slots": left([st("p05-3", "Model", "model", .43, .063, .52, .61)], "Brief and programme") + [tx("Three ideas", "ideas", .047, .76, .9, .17)]},
         {"n": 4, "title": "The setting", "kind": "context", "slots": left([st("p01-1", "Site plan", "site", .4, .063, .55, .82)], "Site and context")},
         {"n": 5, "title": "The idea", "kind": "concept", "slots": left([st("p03-4", "Concept sketch", "concept", .4, .063, .55, .82)], "Concept")},
-        {"n": 6, "title": "The process", "kind": "process", "slots": [tx("Headline", "headline", .047, .07, .9, .12), st("p03-3", "Process sketch", "process", .047, .3, .29, .5), st("p03-1", "Process sketch", "process", .355, .3, .29, .5), st("p03-2", "Process sketch", "process", .663, .3, .29, .5)]},
-        {"n": 7, "title": "The models", "kind": "models", "slots": [tx("Headline", "headline", .047, .07, .9, .12), st("p05-2", "Model", "model", .047, .3, .29, .5), st("p03-6", "Model", "model", .355, .3, .29, .5), st("p03-7", "Model", "model", .663, .3, .29, .5)]},
+        {"n": 6, "title": "The process", "kind": "process", "slots": [tx("Headline", "headline", .047, .07, .9, .12), st("p03-3", "Process sketch", "process", .047, .25, .45, .5), st("p03-1", "Process sketch", "process", .508, .25, .445, .5)]
+                                                          + row5(.8, .12, [("p03-2", "Process sketch", "process"), ("p03-4", "Concept diagram", "concept"), ("p05-2", "Model photo", "model"), (None, "Axonometric · new", "axonometric"), (None, "Interior view · new", "view")], x0=.047, span=.906, cap=False)},
+        {"n": 7, "title": "The models", "kind": "models", "slots": [tx("Headline", "headline", .047, .07, .9, .12)] + row5(.32, .36, [("p05-2", "Model photo", "model"), ("p03-6", "Model photo", "model"), ("p03-7", "Model photo", "model"), ("p03-4", "Concept diagram", "concept"), (None, "Axonometric · new", "axonometric")], x0=.047, span=.906)},
         {"n": 8, "title": "The plan", "kind": "plan", "slots": left([st("p06-1", "Plan · ground floor", "plan", .4, .063, .55, .82)], "Plan notes")},
         {"n": 9, "title": "The section", "kind": "section", "slots": full("p05-1", "Section · AA", "section")},
         {"n": 10, "title": "The elevation", "kind": "elevation", "slots": [tx("Headline", "headline", .047, .07, .9, .12), new("Elevation · new", "elevation", .047, .25, .906, .66)]},

@@ -476,9 +476,44 @@
     }
     const src = sl.source === 'create' ? 'create' : 'student';
     const im = src === 'student' && sl.image_url ? '<b class="ci" style="background-image:url(&quot;' + esc(sl.image_url) + '&quot;);' + cropCSS(sl.crop) + '"></b>' : '';
-    const lab = String(sl.label || '').replace(/\s*·\s*new$/i, '');
-    return '<button class="cs ' + src + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(lab) + (src === 'create' ? ', new by AI Studio' : ', from your drawings, retouched by AI Studio') + '">' + im +
-      '<span class="cl">' + (src === 'create' ? MINISPARK : '') + esc(lab) + (src === 'create' ? ' · new' : '<em class="aim" aria-hidden="true">' + MINISPARK + 'AI</em>') + '</span></button>';
+    const lab = String(sl.label || '').replace(/\s*·\s*new$/i, ''), fit = pillFit(sl, p, lab, src);
+    const inner = fit.mark ? (src === 'create' ? MINISPARK + 'new' : '<em class="aim">' + MINISPARK + 'AI</em>')
+      : (src === 'create' ? MINISPARK : '') + esc(fit.text) + (src === 'create' ? ' · new' : '<em class="aim" aria-hidden="true">' + MINISPARK + 'AI</em>');
+    const full = lab + (src === 'create' ? ' · new by AI Studio' : ', from your drawings, retouched by AI Studio');
+    return '<button class="cs ' + src + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" title="' + esc(full) + '" aria-label="' + esc(full) + '">' + im +
+      '<span class="cl' + (fit.mark ? ' mark' : fit.size < 3.1 ? ' compact' : '') + '" style="font-size:min(15px,' + fit.size.toFixed(2) + 'cqw)">' + inner + '</span></button>';
+  }
+  /* Labels always fit their cell (owner, 29 Oct): the full label if it fits, else a smaller single-line pill with a
+     short form ("Concept", "Axo · new"), else just the ✦ AI / ✦ new mark (the full label is on tap and hover).
+     Sizes are in cqw, so the check holds at every width the page is drawn at; a pill never leaves its cell. */
+  const SHORT = { axonometric: 'Axo', elevation: 'Elev.', perspective: 'View', interior: 'Interior', exterior: 'Exterior', photograph: 'Photo', diagram: 'Diagram', isometric: 'Iso' };
+  function shortLabel(lab) {
+    const first = String(lab).split(/\s*[·:,(]\s*/)[0].trim(), w = first.split(/\s+/);
+    if (/^(model|site|concept|process|section|plan|render|sketch|street)/i.test(first) && w.length > 1)
+      return /^process sketch$/i.test(first) ? 'Sketch' : /^model photo$/i.test(first) ? 'Model' : /^site plan$/i.test(first) ? 'Site' : w[0];
+    const k = w[0].toLowerCase();
+    return SHORT[k] || (w.length > 1 && first.length > 10 ? w[0] : first);
+  }
+  function pillFit(sl, p, lab, src) {
+    const c = composition(), ratio = p === 0 ? c.board.ratio : c.deck.ratio;
+    const wcq = (sl.w || 0) * 100 * 0.9, hcq = (sl.h || 0) * 100 / ratio * 0.86;
+    const mark = src === 'create' ? 3.6 : 2.5;   // the "✦ … · new" or "✦ AI" parts, in em
+    const fits = (text, f) => ((String(text).length * 0.62 + 1.2 + mark) * f <= wcq) && (f * 1.75 <= hcq);
+    const short = shortLabel(lab);
+    for (const [text, f] of [[lab, 3.1], [lab, 2.4], [short, 2.4], [short, 1.9], [short, 1.6]]) if (fits(text, f)) return { text, size: f, mark: false };
+    const f = Math.max(0.8, Math.min(2.4, hcq / 1.75, wcq / ((src === 'create' ? 3.2 : 2.5) + 0.9)));
+    return { text: '', size: f, mark: true };
+  }
+  /* Captions in dense image rows are not drawn in the preview (owner, 29 Oct): only text with its own area shows
+     (the title block, the concept, story and ideas column, slide headlines and main text blocks). */
+  const KEEP_TEXT = /^(title|info|concept|story|ideas|heading|headline|contents|lead|text-main|notes|brief|program|programme)$/;
+  function isCaption(sl, slots, hPage) {
+    if (sl.source !== 'text') return false;
+    if (/caption/i.test(sl.role || '') || /^caption$/i.test(sl.label || '')) return true;
+    if (KEEP_TEXT.test(sl.role || '')) return false;
+    const hmm = (sl.h || 0) * hPage, small = typeof sl.lines === 'number' ? sl.lines <= 3 : hmm < (hPage > 400 ? 20 : 14);
+    if (!small) return false;
+    return slots.some((o) => o !== sl && o.source !== 'text' && Math.min(sl.x + sl.w, o.x + o.w) - Math.max(sl.x, o.x) > sl.w * 0.5 && sl.y >= o.y - 0.01 && sl.y <= o.y + o.h + 0.04);
   }
   /* A text slot drawn the way its text will sit (owner, 28 Oct): a tiny kicker if it fits, a short heading bar, then
      body lines at the real line spacing for the slot's size (the server's `lines` when it sends one, else estimated
@@ -499,7 +534,8 @@
     return '<button class="cs text tx2' + sel + '" data-act="slotInfo" data-p="' + p + '" data-i="' + i + '" style="' + pos + '" aria-label="' + esc(sl.label) + ', text">' +
       (showKick ? '<span class="tk">' + esc(sl.label) + '</span>' : '') + '<span class="tl" style="grid-template-rows:' + rows + '" aria-hidden="true">' + bars + '</span></button>';
   }
-  const compPage = (slots, ratio, p) => '<div class="comp show-' + (S.pvShow || 'all') + '" style="aspect-ratio:' + ratio.toFixed(4) + '">' + slots.map((sl, i) => compSlot(sl, p, i)).join('') + '</div>';
+  const compPage = (slots, ratio, p) => { const c = composition(), hPage = p === 0 ? c.board.h_mm || 841 : c.deck.h_mm || 190.5;
+    return '<div class="comp show-' + (S.pvShow || 'all') + '" style="aspect-ratio:' + ratio.toFixed(4) + '">' + slots.map((sl, i) => isCaption(sl, slots, hPage) ? '' : compSlot(sl, p, i)).join('') + '</div>'; };
   const compBoard = () => compPage(composition().board.slots, composition().board.ratio, 0);
   const compSlide = (sd) => compPage(sd.slots, composition().deck.ratio, sd.n);
   function slotWhat(sl) {

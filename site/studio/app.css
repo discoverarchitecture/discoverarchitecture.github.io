@@ -650,3 +650,9 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .cs.text.tx2 .tl { flex: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 1fr); }
 .cs.text.tx2 .tl i { align-self: center; height: 42%; min-height: 1px; max-height: 6px; background: #DAD6CD; border-radius: 2px; }
 .cs.text.tx2 .tl i.th { height: 58%; max-height: 10px; width: 56%; background: #C4BFB4; }
+
+/* label pills always fit their cell: one line, clipped as a last resort; compact and mark-only forms */
+.cs .cl { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 92%; max-height: 90%; box-sizing: border-box; }
+.cs .cl.compact { padding: .25em .45em; gap: .2em; }
+.cs .cl.mark { padding: .2em .35em; gap: .15em; }
+.cs .cl.mark .aim { margin-left: 0; }
