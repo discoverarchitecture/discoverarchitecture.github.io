@@ -1,14 +1,14 @@
 # Reads the chosen library guides for the librarian's name, public contact address and the guide's section on free
 # websites (tools/outreach_contacts.py). Runs when tools/outreach/contacts_request.txt changes on claude/outreach-*.
-# The answers never go into the repository or the log in plain text (the repository is public): the log carries them
-# encrypted to a key only the SEO strategy chat holds.
+# The answers never go into the repository or the log in plain text (the repository is public): they are committed
+# encrypted (tools/outreach/sealed/) to a key only the SEO strategy chat holds, which deletes them once read.
 name: Outreach contacts
 on:
   push:
     branches: ['claude/outreach-*']
     paths: ['tools/outreach/contacts_request.txt']
 permissions:
-  contents: read
+  contents: write
 jobs:
   read:
     runs-on: ubuntu-latest
@@ -34,5 +34,8 @@ jobs:
           openssl rand -hex 32 > k.txt
           openssl enc -aes-256-cbc -pbkdf2 -salt -in contacts.json -pass file:k.txt | base64 -w0 > c.b64
           openssl pkeyutl -encrypt -pubin -inkey pub.pem -in k.txt | base64 -w0 > k.b64
-          echo "KEY:$(cat k.b64)"; echo "DATA:$(cat c.b64)"
           rm -f contacts.json k.txt
+          mkdir -p tools/outreach/sealed && mv k.b64 c.b64 tools/outreach/sealed/
+          git add tools/outreach/sealed
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Outreach contacts, sealed for the SEO strategy chat"
+          git push -q
