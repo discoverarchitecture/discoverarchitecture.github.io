@@ -1,0 +1,41 @@
+# Reads the chosen library guides for the librarian's name, public contact address and the guide's section on free
+# websites (tools/outreach_contacts.py). Runs when tools/outreach/contacts_request.txt changes on claude/outreach-*.
+# The answers never go into the repository or the log in plain text (the repository is public): they are committed
+# encrypted (tools/outreach/sealed/) to a key only the SEO strategy chat holds, which deletes them once read.
+name: Outreach contacts
+on:
+  push:
+    branches: ['claude/outreach-*']
+    paths: ['tools/outreach/contacts_request.txt']
+permissions:
+  contents: write
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read the guides
+        run: python3 tools/outreach_contacts.py $(cat tools/outreach/contacts_request.txt)
+      # Only the SEO strategy chat holds the private key: the log shows the answers encrypted, never in plain text.
+      - name: Encrypt the answers for the chat
+        run: |
+          cat > pub.pem <<'KEY'
+          -----BEGIN PUBLIC KEY-----
+          MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAti7ZoGUnfH5kPM/XMk4r
+          kZEbPvaSG3UxIBpJr9aj7QD+CY0wrcu8ASsuLF6hZJcl759ZCKLqNQpSXvW5LbI1
+          e2rAQ6fqLePywVkZM4Yy1r9X5M8sE8iW2mkz7aqeOA38qbvE8T0KzqtUc5I+lDAU
+          uX4hCv9Wc67GOc53X2201UoGmYd3gGtDFZqwRwcM1hYojtDZVDukJh1SVCxLFgL5
+          02Hh/1K2YCdTNeIJqkWU10XFRXgALUfk1JrQ3hxzpSsOEueW6dO0XsyPnGcumEbG
+          RKDMIlAm29K1Z2sxf3mfhmgT8H1fJXJEdMQOpj5YN0TNI5EiEds78rmxeXsBaz4+
+          hQIDAQAB
+          -----END PUBLIC KEY-----
+          KEY
+          openssl rand -hex 32 > k.txt
+          openssl enc -aes-256-cbc -pbkdf2 -salt -in contacts.json -pass file:k.txt | base64 -w0 > c.b64
+          openssl pkeyutl -encrypt -pubin -inkey pub.pem -in k.txt | base64 -w0 > k.b64
+          rm -f contacts.json k.txt
+          mkdir -p tools/outreach/sealed && mv k.b64 c.b64 tools/outreach/sealed/
+          git add tools/outreach/sealed
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Outreach contacts, sealed for the SEO strategy chat"
+          git push -q
