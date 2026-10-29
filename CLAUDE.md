@@ -22,6 +22,7 @@ A wall of buildings that architecture students wander instead of search, with fr
 - Colour (v6 "Sunset red"): mostly white with black text. Sunset red `#DA3A26` is used sparingly, for contrast: "Architecture." in the name, the main action button (Surprise me), the chosen half of the Buildings | Books switch, and hover. Anything clickable turns sunset red on hover, and a hovered photo tile gets a thin red underline. Small text is never red. No black fills.
 - Architect portraits are always **black and white** and link to the architect's page.
 - Never show exact totals of buildings or books on the site (no "2,604 buildings"); say "a huge collection" or similar (owner's rule, 14 Oct 2026). Counts per architect or per filter are fine.
+- **Emails never show web addresses** (owner's rule, 29 Oct 2026): in any email or draft written for the owner, put links behind a few words ("Find Great Architecture", "its Brutalism page") using the HTML body, never a raw address like https://…/styles/brutalism/. The only address shown is the short sign-off "findgreatarchitecture.com". The plain-text version leaves the link out.
 - Minimal text on the site. No invented facts: show height, floors, materials and similar only when a source gives them.
 
 ## Design decisions already made (see the canvas before changing any)
