@@ -11,15 +11,19 @@ its story plan, panel crops, layout.json files, pictures and PDFs.
 Switches (environment): MOCK_SPEED (default 1; 0.2 = five times faster), MOCK_MAX_MB (default 25),
 MOCK_NO_EDIT=1 (status plan without the "edit" block, as an older server sends), MOCK_PREVIEWS (default 2 a day),
 MOCK_NO_LAYOUT=1 (a build without layout.json: no editor), MOCK_STALE=1 (a finished preview is marked stale until refreshed once; the refresh is not counted).
+Upload checks are the server's own (studio/server/core/checks.py, loaded by path; it needs Pillow and numpy). Without
+them, files get no notes and the plan-and-section question comes from the file names alone.
 An e-mail with "+fail" makes the paid build fail; a project title containing "nopics" makes the preview fail.
 """
 import email.parser
 import email.policy
+import importlib.util
 import json
 import os
 import re
 import secrets
 import sys
+import tempfile
 import threading
 import time
 from http.server import SimpleHTTPRequestHandler, BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -42,6 +46,39 @@ BUILD_KEYS = ["ingest", "read_sheets", "concept", "story", "pictures", "labels",
 BUILD_STAGES = ["Reading your files", "Finding every drawing", "Reading your concept", "Planning the story", "Making the pictures",
                 "Labelling the drawings", "Laying out the board and deck", "Filling every slot", "Building the files", "Final checks"]
 JOBS, LOCK, COUNT = {}, threading.Lock(), {"previews": 0}
+
+
+def _load_checks():
+    """The server's upload checks, so the mock's notes are the real ones."""
+    try:
+        spec = importlib.util.spec_from_file_location("studio_checks", os.path.join(STUDIO, "server", "core", "checks.py"))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod
+    except Exception as e:  # noqa: BLE001  (no Pillow or numpy here: no per-file notes)
+        print("upload checks off (%s)" % e, flush=True)
+        return None
+
+
+CHECKS = _load_checks()
+
+
+def inspect(rec, data, earlier):
+    if not CHECKS:
+        return {"checks": []}
+    with tempfile.NamedTemporaryFile(suffix="." + rec["type"]) as t:
+        t.write(data)
+        t.flush()
+        return CHECKS.inspect(t.name, rec, earlier)
+
+
+def upload_checks(j):
+    if CHECKS:
+        return CHECKS.summary(j["files"], None if not (j.get("preview") or {}).get("status") == "done" else [p.get("kind") for p in PANELS.values()])
+    names = " ".join(f.get("original") or f["name"] for f in j["files"] if f["kind"] == "drawing").lower()
+    missing = [k for k in ("plan", "section") if k not in names]
+    ask = ("Do you have %s? Add %s for the best result." % (" and ".join("a " + m for m in missing), "them" if len(missing) > 1 else "it")) if missing and names else None
+    return {"warnings": 0, "infos": 0, "missing": missing, "ask": ask, "from": "names"}
 LOG = []
 
 
@@ -227,7 +264,7 @@ def status(j):
                        "error": "Something went wrong on our side. We have been told and will rerun it at no cost." if b["status"] == "failed" else None},
                 plan=plan_for(j) if pv["status"] == "done" else None, tier=j.get("tier") or (tier_from(j["intake"]) if j.get("intake") else None),
                 tier_suggested=tier_from(j["intake"]) if j.get("intake") else None, paid=paid, email=j.get("email"), files=j["files"],
-                intake=j.get("intake"), outputs=outs,
+                upload_checks=upload_checks(j), intake=j.get("intake"), outputs=outs,
                 redo_available=bool(paid and not j.get("redo_used") and b["status"] == "done"), redo_used=bool(j.get("redo_used")),
                 redo_until=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(redo_until)) if redo_until else None,
                 feedback=j.get("feedback"), created=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(j["created"])))
@@ -317,8 +354,10 @@ class ApiHandler(BaseHTTPRequestHandler):
             if name not in {f["name"] for f in j["files"]}:
                 raise Fail(404, "no such file")
             j["files"] = [f for f in j["files"] if f["name"] != name]
+            for f in j["files"]:
+                f["checks"] = [c for c in f.get("checks") or [] if c.get("same_as") != name]
             log("delete", jid, name)
-            return self.reply(200, {"files": j["files"]})
+            return self.reply(200, {"files": j["files"], "upload_checks": upload_checks(j)})
         if method == "PUT" and rest == "intake":
             if busy:
                 raise Fail(409, "your project is being worked on; try again when it finishes")
@@ -452,11 +491,14 @@ class ApiHandler(BaseHTTPRequestHandler):
             while safe in {f["name"] for f in j["files"] + added}:
                 n += 1
                 safe = "%s-%d%s" % (os.path.splitext(base)[0], n, os.path.splitext(base)[1])
-            added.append({"name": safe, "kind": kind if kind in ("drawing", "brief") else "drawing", "bytes": len(data), "type": ext, "original": fn[:200]})
+            rec = {"name": safe, "kind": kind if kind in ("drawing", "brief") else "drawing", "bytes": len(data),
+                   "type": "jpg" if ext == "jpeg" else ext, "original": fn[:200]}
+            rec.update(inspect(rec, data, j["files"] + added))
+            added.append(rec)
         time.sleep(0.4 * SPEED)   # so the progress bar is seen
         j["files"] += added
         log("upload", j["id"], [a["name"] for a in added])
-        return self.reply(200, {"files": j["files"], "added": added})
+        return self.reply(200, {"files": j["files"], "added": added, "upload_checks": upload_checks(j)})
 
     def download(self, j, path):
         m = re.match(r"^panels/(p\d{2,3}-\d{1,2})\.png$", path)

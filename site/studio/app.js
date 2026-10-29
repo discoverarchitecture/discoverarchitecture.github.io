@@ -593,7 +593,14 @@
   /* live upload: the student's files on the server, plus the ones still on their way or refused (UP). A file gets
      its slot the moment it is dropped or picked: its picture (or a PDF tag), a spinner and a progress bar; it
      becomes a normal thumbnail when the server has it, or shows why it failed (owner's test note 1). */
-  let UP = [], upSeq = 0, upErr = '';
+  let UP = [], upSeq = 0, upErr = '', UC = null;
+  /* upload checks (server/core/checks.py): a note under each thumbnail, amber for a warning, and one nudge above
+     Next when no plan or section shows yet (UC, the job's upload_checks). Advice only: nothing here blocks. */
+  const NOTE_ICO = { warning: '<path d="M12 3.5 22 20.5H2z"/><path d="M12 10v4.5M12 17.6v.1"/>', info: '<circle cx="12" cy="12" r="9.5"/><path d="M12 11v6M12 7.4v.1"/>' };
+  const noteIco = (lv) => '<svg viewBox="0 0 24 24" aria-hidden="true">' + (NOTE_ICO[lv] || NOTE_ICO.info) + '</svg>';
+  const fnotes = (f) => (f.checks || []).map((c) => '<p class="fnote' + (c.level === 'warning' ? ' warn' : '') + '">' + noteIco(c.level) + '<span><b>' + esc(c.text) + '</b> ' + esc(c.tip || '') + '</span></p>').join('');
+  const nudge = () => UC && UC.ask && drawings().length && !upBusy() && !paid()
+    ? '<div class="nudge" role="status">' + noteIco('info') + '<span>' + esc(UC.ask) + '</span><button class="btn small" data-act="add">Add files</button></div>' : '';
   const upBusy = () => UP.filter((u) => !u.err).length;
   const upCard = (u) => {
     const pc = Math.round(u.pct * 100), img = '<img src="' + (u.thumb || PLACE) + '" alt="">' + (u.thumb ? '' : '<span class="fkind">' + esc((u.name.split('.').pop() || 'file').toUpperCase()) + '</span>');
@@ -605,14 +612,14 @@
   const kb = (b) => b >= 1048576 ? (b / 1048576).toFixed(1) + ' MB' : Math.max(1, Math.round(b / 1024)) + ' KB';
   V.upload = () => DEMO ? V.uploadDemo() : '<main class="wrap"><p class="kicker">' + (paid() ? 'Before your free redo' : 'Step 1 · free') + '</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
     '<section class="drop" id="drop" aria-label="Your files"><div class="row"><span class="chip lime">' + drawings().length + ' FILES</span>' + (upBusy() ? '<span class="chip">UPLOADING ' + upBusy() + '</span>' : '') + '</div>' +
-    '<div class="files">' + drawings().map((f) => '<div class="file"><img src="' + (THUMBS[f.name] || PLACE) + '" alt="' + esc(f.original || f.name) + '">' + (THUMBS[f.name] ? '' : '<span class="fkind">' + esc(String(f.type || 'file').toUpperCase()) + '</span>') + '<span>' + esc(f.original || f.name) + ' · ' + kb(f.bytes || 0) + '</span><button class="rm" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">' + RM + '</button></div>').join('') +
+    '<div class="files">' + drawings().map((f) => '<div class="file"><img src="' + (THUMBS[f.name] || PLACE) + '" alt="' + esc(f.original || f.name) + '">' + (THUMBS[f.name] ? '' : '<span class="fkind">' + esc(String(f.type || 'file').toUpperCase()) + '</span>') + '<span>' + esc(f.original || f.name) + ' · ' + (f.pages ? f.pages + ' page' + (f.pages === 1 ? '' : 's') + ' · ' : '') + kb(f.bytes || 0) + '</span>' + fnotes(f) + '<button class="rm" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">' + RM + '</button></div>').join('') +
     UP.filter((u) => u.kind !== 'brief').map(upCard).join('') + '</div>' +
     (drawings().length || UP.length ? '' : '<p class="status">Plans, sections, sketches, model photos, renders, or screenshots of your sheets.</p>') +
     '<div class="row"><button class="btn small" data-act="add">Add files</button><input id="add" type="file" multiple accept="image/png,image/jpeg,image/webp,application/pdf,.pdf,.png,.jpg,.jpeg,.webp" hidden><span class="status">or drag them here · PNG, JPG, WebP or PDF, up to 25 MB each</span></div>' +
     '<p class="err" id="upErr" role="alert">' + esc(upErr) + '</p>' +
     '<div class="row"><button class="link" data-act="addBrief">Brief or concept note? Add it here (optional)</button>' + (S.files || []).filter((f) => f.kind === 'brief').map((f) => '<span class="chip sun">BRIEF · ' + esc(f.original || f.name) + ' <button class="link" data-act="rmFile" data-name="' + esc(f.name) + '" aria-label="Remove ' + esc(f.original || f.name) + '">✕</button></span>').join('') +
     UP.filter((u) => u.kind === 'brief').map((u) => u.err ? '<span class="chip">BRIEF · ' + esc(u.name) + ' · not added <button class="link" data-act="dropUp" data-k="' + u.k + '" aria-label="Dismiss">✕</button></span>' : '<span class="chip">BRIEF · ' + esc(u.name) + ' · uploading</span>').join('') +
-    UP.filter((u) => u.kind === 'brief' && u.err).map((u) => '<p class="err" role="alert" style="flex-basis:100%">' + esc(u.err) + '</p>').join('') + '</div></section>' +
+    UP.filter((u) => u.kind === 'brief' && u.err).map((u) => '<p class="err" role="alert" style="flex-basis:100%">' + esc(u.err) + '</p>').join('') + '</div></section>' + nudge() +
     '<div class="row">' + (paid() ? '<button class="btn primary" data-act="toResult">Back to my board</button><span class="status">Your free redo uses these drawings.</span>' : '<button class="btn primary" data-act="toQ">Next</button><span class="status">No account needed.</span>') + '</div>' +
     (S.job && (S.files || []).length ? '<button class="link" data-act="newJob" style="align-self:flex-start">' + (S.newArm ? 'Click again: this clears these files from this page' : 'Start a new project instead') + '</button>' : '') + '</main>';
   V.uploadDemo = () => '<main class="wrap"><p class="kicker">Step 1 · free</p><h1 class="big">Add your drawings. 5–10 works best.</h1>' +
@@ -1162,6 +1169,7 @@
     if (r.ok) {
       UP = UP.filter((x) => x !== u);
       S.files = r.data.files || S.files;
+      if (r.data.upload_checks) UC = r.data.upload_checks;
       (r.data.added || []).forEach((a) => { if (u.thumb) THUMBS[a.name] = u.thumb; });
       saveS();
     } else {
@@ -1399,7 +1407,7 @@
       if (!DEMO) {
         el.disabled = true;
         const r = await API.remove(S.job, el.dataset.name);
-        if (r.ok) { S.files = r.data.files || []; upErr = ''; } else upErr = r.status === 404 ? 'That file was already removed.' : upMsg(r, el.dataset.name);
+        if (r.ok) { S.files = r.data.files || []; UC = r.data.upload_checks || UC; upErr = ''; } else upErr = r.status === 404 ? 'That file was already removed.' : upMsg(r, el.dataset.name);
         if (r.status === 404) S.files = (S.files || []).filter((f) => f.name !== el.dataset.name);
         saveS(); render(); return;
       }
@@ -1706,6 +1714,7 @@
     }
     ST = r.data; clockFrom(ST); clk.got = Date.now();
     S.files = ST.files || S.files || [];
+    UC = ST.upload_checks || null;
     if (ST.intake && (!S.lastIntake || fromReceipt || !Object.keys(S.card || {}).length)) { fromIntake(ST.intake); S.lastIntake = JSON.stringify(intakeBody()); }
     if (ST.email && !S.email) S.email = ST.email;
     const stg = ST.stage, cur = S.screen;
