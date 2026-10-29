@@ -42,6 +42,9 @@ jobs:
           echo "== robots.txt"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/robots.txt | head -5
           echo "== home head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/ | grep -ioE '<title>[^<]*|<meta name="robots"[^>]*>|<link rel="canonical"[^>]*>' | head
           echo "== building head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | grep -ioE '<title>[^<]*|<meta name="robots"[^>]*>|<link rel="canonical"[^>]*>' | head
+          for u in https://findgreatarchitecture.com/studio/ https://findgreatarchitecture.com/pricing/; do echo "== $u"; curl -sS -A "$UA" -o /tmp/p.html -m 20 -w "%{http_code}\n" "$u"; grep -ioE '<title>[^<]*|<meta name="(description|robots|googlebot)"[^>]*>|<link rel="canonical"[^>]*>|<h1[^>]*>.{0,140}|<h2[^>]*>.{0,60}|"@type": ?"[A-Za-z]+"|og:image" content="[^"]*' /tmp/p.html | head -30; done
+          echo "== studio og image"; curl -sS -o /dev/null -w "%{http_code} %{content_type} %{size_download}\n" -m 20 https://findgreatarchitecture.com/studio/og.jpg
+          echo "== sitemap studio and policy"; curl -sS -m 20 https://findgreatarchitecture.com/sitemap.xml | grep -E "studio/<|pricing|terms|privacy|refund|contact"
           echo "== hidden page head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/013/ | grep -ioE '<meta name="(robots|googlebot)"[^>]*>' | head
           echo "== sitemap addresses"; curl -sS -m 20 https://findgreatarchitecture.com/sitemap.xml | grep -c "<loc>"
           echo "== response headers"; curl -sSI -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | head -20
