@@ -278,7 +278,7 @@ def legal_foot(up):
 FOOT = """<footer class="foot" data-nosnippet>
   <p>Photos are public domain or Creative Commons, credited under each photo and sourced from Wikimedia Commons; a few historic drawings and photos come from the Art Institute of Chicago (public domain).</p>
   <p><a href="{up}">Find Great Architecture</a> · <a href="{up}buildings/">All buildings</a></p>
-  <p><a href="{up}studio/?ref=footer">FGA Studio: make an architecture presentation board from your own drawings →</a></p>
+  <p><a href="{up}studio/?ref=footer">Studio FGA: make an architecture presentation board from your own drawings →</a></p>
   {legal}
 </footer>
 {dock}
