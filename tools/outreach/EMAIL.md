@@ -37,7 +37,7 @@ Find Great Architecture
 
 ## A shorter version, for a guide's "suggest a resource" form
 
-Find Great Architecture (https://findgreatarchitecture.com/) is a free precedent site for architecture students: browse
+[Find Great Architecture](link) is a free precedent site for architecture students: browse
 buildings by style, type, city and architect, with photos that are free to reuse (public domain or Creative Commons,
 each credited and linked to its source) and links to drawings and plans. No paywall, no sign-up. Suggested for:
 [section name].
