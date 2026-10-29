@@ -12,7 +12,8 @@ Architecture" and "Brutalism", and end with the short "findgreatarchitecture.com
 
 Dear [Librarian's name],
 
-[I'm an architect / I studied architecture: one line, true, about you], and I built [Find Great Architecture](link), a free site where
+I'm Akshat. I trained as an architect at CEPT University in Ahmedabad and am now doing an MBA. As a student I found that
+discovering great architecture was harder than it should be, so I built [Find Great Architecture](link): a free site where
 architecture students browse buildings instead of searching for them. Your guide, [guide name], lists [one site it
 already lists, e.g. Great Buildings or ArchDaily] under [section name], so I thought it might be useful to your
 students too.
