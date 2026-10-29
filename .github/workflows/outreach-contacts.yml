@@ -1,0 +1,23 @@
+# Reads the chosen library guides for the librarian's name, public contact address and the guide's section on free
+# websites (tools/outreach_contacts.py). Runs when tools/outreach/contacts_request.txt changes on claude/outreach-*.
+# The answers go into an artifact kept for one day, never into the repository or the log: the repository is public.
+name: Outreach contacts
+on:
+  push:
+    branches: ['claude/outreach-*']
+    paths: ['tools/outreach/contacts_request.txt']
+permissions:
+  contents: read
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read the guides
+        run: python3 tools/outreach_contacts.py $(cat tools/outreach/contacts_request.txt)
+      - uses: actions/upload-artifact@v4
+        with:
+          name: contacts
+          path: contacts.json
+          retention-days: 1
