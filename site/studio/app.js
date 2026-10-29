@@ -39,6 +39,15 @@
   /* a picture's address outside the sheets: sample paths in the demo, full or blob: addresses live */
   const pic = (M, s) => /^(blob:|data:|https?:)/.test(s || '') ? s : F.srcOf(M || HP, s);
   const paid = () => !DEMO && !!(ST && ST.paid);
+  /* GoatCounter events (site/analytics.js), live app only and never with personal data: studio/preview (a free
+     preview asked for), studio/checkout (Pay pressed), studio/paid/<polish|transform> (back from Dodo, paid; once per job) */
+  const track = (path, title) => { if (!DEMO && typeof window.fgaEvent === 'function') try { window.fgaEvent(path, title); } catch (e) { /* counting never breaks the app */ } };
+  function trackPaid() {
+    if (!ST || !ST.paid || !S.job || !S.payStarted || S.paidCounted === S.job.id) return;
+    S.paidCounted = S.job.id; saveS();
+    const t = (ST.tier || S.tier) === 'nice' ? 'polish' : 'transform';
+    track('studio/paid/' + t, 'Studio: paid (' + t + ')');
+  }
 
   let hist = [JSON.stringify(P)], hi = 0, lastSoft = false, saveT = null;
   function resetHist() { hist = [JSON.stringify(P)]; hi = 0; lastSoft = false; }
@@ -1005,7 +1014,7 @@
   /* ---------------------------------------------------------- landing page: findgreatarchitecture.com/studio */
   function lnav() {
     return '<header class="top lnav"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><nav class="llinks hide-phone" aria-label="Page">' +
-      [['how', 'How it works'], ['get', 'What you get'], ['pricing', 'Pricing'], ['faq', 'Questions']].map(([id, t]) => '<a href="#' + id + '" data-act="sec" data-id="' + id + '">' + t + '</a>').join('') + '</nav><span class="spacer"></span>' +
+      [['how', 'How it works'], ['get', 'What you get'], ['pricing', 'Pricing'], ['faq', 'FAQ']].map(([id, t]) => '<a href="#' + id + '" data-act="sec" data-id="' + id + '">' + t + '</a>').join('') + '</nav><span class="spacer"></span>' +
       '<button class="btn small on" data-act="start">Start free</button></header>';
   }
   const PH = (t) => '<span class="ph">[' + t + ']</span>';
@@ -1043,31 +1052,32 @@
       ['What happens to my files?', 'Your uploads and your finished board and deck are kept for 30 days so you can reopen, edit and redo them, then deleted. We don’t sell your data or use your files to train AI models. <a class="link" href="privacy/">Privacy policy</a>'],
       ['Does it work on my phone?', 'Yes. A laptop is easier for editing a big board, and it is usually where your drawings are.']];
     return '<main class="land">' +
-      '<section class="lhero wrap"><div class="lcopy"><p class="kicker">For architecture students and studios · preview free before you pay</p>' +
-      '<h1 class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></h1>' +
+      '<section class="lhero wrap"><div class="lcopy">' +
+      /* one H1 that names the product for search (owner, 29 Oct 2026): the small line plus the big headline, same look */
+      '<h1 class="lh1"><span class="kicker">AI architecture presentation generator · for students and studios<span class="sr">: </span></span><span class="huge">Messy drawings. <span class="hl">Jury-ready board.</span></span></h1>' +
       '<p class="lede">Upload your plans, sections, sketches and model photos. Answer a few quick questions. AI Studio plans the story, writes the text and sets an A1 board and a matching jury deck that you can still edit.</p>' +
       shiny('start', 'Start free', 'No login · preview free') + savedJobRow() +
       '<div class="row fmts"><span class="chip">A1 board</span><span class="chip">16:9 jury deck</span><span class="chip">PDF · PowerPoint · InDesign</span></div></div>' +
       heroArt() + '</section>' +
       '<section class="wrap opens"><p class="kicker">Opens in</p><div class="row"><span class="chip">PowerPoint</span><span class="chip">Keynote</span><span class="chip">Google Slides</span><span class="chip">Canva</span><span class="chip">InDesign</span></div>' +
       '<p class="status">Sample: a real student’s community centre for the cloth vendors of Law Garden, Ahmedabad, shown with the owner’s permission.</p></section>' +
-      '<section class="wrap" id="how"><p class="kicker">How it works</p><h2 class="big">Four steps. The first three are free.</h2><div class="lsteps">' +
+      '<section class="wrap" id="how"><h2 class="kicker">How it works</h2><p class="big hd">Four steps. The first three are free.</p><div class="lsteps">' +
       steps.map((t, i) => '<div class="lstep card"><span class="lnum">' + (i + 1) + '</span><svg viewBox="0 0 24 24" aria-hidden="true">' + sico[t[2]] + '</svg><h3 class="h3">' + t[0] + '</h3><p>' + t[1] + '</p></div>').join('') + '</div></section>' +
-      '<section class="band"><div class="wrap bandin"><div><h2 class="big">See it before you pay.</h2><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
-      '<section class="wrap" id="get"><p class="kicker">What you get</p><h2 class="big">Everything a jury expects, done for you</h2><div class="deal deal2">' + sheets(8, '', 'h') +
+      '<section class="band"><div class="wrap bandin"><div><p class="big hd">See it before you pay.</p><p class="lede">Upload, answer a few questions and preview your board and deck for free. Pay only when you want the final files.</p></div>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
+      '<section class="wrap" id="get"><h2 class="kicker">What you get</h2><p class="big hd">Everything a jury expects, done for you</p><div class="deal deal2">' + sheets(8, '', 'h') +
       '<div class="dealtxt">' + getsList(null, F.visibleSlides(HP).length) + '</div></div></section>' +
-      '<section class="wrap" id="examples"><p class="kicker">Before and after</p><h2 class="big">From your sheets to a jury board</h2><p class="lede">Real pairs from the sample project.</p>' + didCards() + '</section>' +
-      '<section class="wrap" id="pricing"><p class="kicker">Pricing</p><h2 class="big">Pay once per project. No subscription.</h2><div class="tiers">' +
+      '<section class="wrap" id="examples"><h2 class="kicker">Before and after</h2><p class="big hd">From your sheets to a jury board</p><p class="lede">Real pairs from the sample project.</p>' + didCards() + '</section>' +
+      '<section class="wrap" id="pricing"><h2 class="kicker">Pricing</h2><p class="big hd">Pay once per project. No subscription.</p><div class="tiers">' +
       ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span><p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
       '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Shown in your currency at checkout. Opens in PowerPoint, Keynote, Google Slides, Canva and InDesign.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
-      '<section class="wrap narrow2" id="faq"><p class="kicker">Questions</p><h2 class="big">Before you start</h2><div class="faq">' +
+      '<section class="wrap narrow2" id="faq"><h2 class="kicker">FAQ</h2><p class="big hd">Before you start</p><div class="faq">' +
       faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div></section>' +
-      '<section class="band dark"><div class="wrap bandin"><h2 class="big">Your jury is closer than you think.</h2>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
+      '<section class="band dark"><div class="wrap bandin"><p class="big hd">Your jury is closer than you think.</p>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       lfoot() + '</main>';
   };
 
   /* the legal pages are real pages (terms/, privacy/, refund/), made from studio/legal/*.md */
-  const LEGALLINKS = '<a class="link" href="terms/">Terms</a> · <a class="link" href="privacy/">Privacy</a> · <a class="link" href="refund/">Refund policy</a>';
+  const LEGALLINKS = '<a class="link" href="terms/">Terms</a> · <a class="link" href="privacy/">Privacy</a> · <a class="link" href="refund/">Refund policy</a> · <a class="link" href="../pricing/">Pricing</a>';
   const FOOTLINE = 'Studio FGA is run by Akshat Pagaria · 302, Shantinath Residency, Beawar, Rajasthan, India · hello@findgreatarchitecture.com · Payments handled by Dodo Payments, our merchant of record';
   const lfoot = () => '<footer class="lfoot wrap"><a class="logo" href="#home" data-act="home"><i aria-hidden="true">✦</i>Studio FGA</a><p>' + FOOTLINE + '</p><p class="row">' + LEGALLINKS + '</p>' +
     '<p>Part of <a class="link" href="/">Find Great Architecture</a> · findgreatarchitecture.com/studio · @findgreatarchitecture</p>' + (DEMO ? '' : '<a class="link" href="?demo=1#home">Try the demo with a sample project</a>') + '</footer>';
@@ -1367,6 +1377,7 @@
       }
       S.email = v; S.tier = S.tier || 'great';
       if (DEMO) { S.mk = 0; go('making'); return; }
+      track('studio/checkout', 'Studio: Pay pressed');
       el.disabled = true; el.textContent = 'Opening the secure checkout…';
       await flushPlan();
       const r = await API.checkout(S.job, S.tier, v);
@@ -1588,7 +1599,7 @@
     else if (r.status === 409 && /answer/i.test(r.data.error || '')) { S.q = path().length; go('q'); toast('Answer the questions first.'); return; }
     else if (r.status === 409 && /drawing/i.test(r.data.error || '')) { upErr = 'Add at least one drawing first.'; go('upload'); return; }
     else if (!r.ok && !(r.status === 409 && /running/i.test(r.data.error || ''))) S.pvErr = r.status === 0 ? offline : (r.data.error || 'The preview could not be started. Try again in a minute.');
-    else ST = Object.assign({}, ST, { stage: 'previewing', preview: { status: 'queued' } });
+    else { ST = Object.assign({}, ST, { stage: 'previewing', preview: { status: 'queued' } }); if (r.ok) track('studio/preview', 'Studio: free preview'); }
     saveS(); go('planning', true);
     if (!S.limit && !S.pvErr) poll(2500);
   }
@@ -1676,6 +1687,7 @@
     const r = await API.status(S.job);
     if (!r.ok) { if (r.status === 404) { lost(); return; } poll(7000); return; }
     ST = r.data; clockFrom(ST); clk.got = Date.now();
+    trackPaid();
     await onStatus();
   }
   async function onStatus() {
@@ -1713,6 +1725,7 @@
       render(); toast(offline); return;
     }
     ST = r.data; clockFrom(ST); clk.got = Date.now();
+    trackPaid();
     S.files = ST.files || S.files || [];
     UC = ST.upload_checks || null;
     if (ST.intake && (!S.lastIntake || fromReceipt || !Object.keys(S.card || {}).length)) { fromIntake(ST.intake); S.lastIntake = JSON.stringify(intakeBody()); }
