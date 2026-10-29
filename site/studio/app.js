@@ -346,8 +346,8 @@
   /* part: 'key' = only the magic part, 'rest' = only the six tiles, none = all */
   function getsData(tier, nSl) {
     const ai = tier === 'great' ? ['Up to 15 new images', 'Hero view, plans, sections and diagrams, redrawn by AI']
-      : tier === 'nice' ? ['1–4 new images', 'Your key views re-rendered by AI, the rest cleaned up']
-      : ['Up to 15 new images', 'Hero view, plans, sections and diagrams, redrawn by AI (1–4 with Polish)'];
+      : tier === 'nice' ? ['Up to 10 new images', 'Your key views, plan, section and elevation rendered by AI, the rest cleaned up']
+      : ['Up to 15 new images', 'Hero view, plans, sections and diagrams, redrawn by AI (up to 10 with Polish)'];
     const gets = [[ai[0], ai[1], 'key'], ['A1 board, print-ready', '594 × 841 mm on a clean grid'], ['Jury deck, ' + (nSl || 13) + ' slides', 'Contents first, one idea per slide'],
       ['Story and captions written', 'From your answers, checked against your drawings'], ['Labels, scale bars and north', 'Titles and drawing labels done for you'],
       ['Files you can keep editing', 'PDF, PowerPoint and InDesign'], [tier === 'nice' ? 'Ready in under 10 minutes' : tier === 'great' ? 'Ready in about 5 minutes' : 'Ready in minutes', 'Plus one free redo within 7 days']];
@@ -377,7 +377,7 @@
   }
   const modelOf = (m) => m === 'h' ? HP : m === 'v' ? Q() : P;
   const didCards = () => '<div class="didgrid">' + DID.map(([b, a, t, d]) => '<figure class="pair"><div class="pimgs"><div><img src="' + HP.base + b + '" alt="Before: ' + esc(t) + '" loading="lazy"><em>Before</em></div><span class="parrow" aria-hidden="true">→</span><div><img src="' + HP.base + a + '" alt="After: ' + esc(t) + '" loading="lazy"><em class="after">After</em></div></div><figcaption><b>' + t + '</b><span>' + d + '</span></figcaption></figure>').join('') + '</div>';
-  const TIERS = { nice: ['Polish', 11, ['Your drawings cleaned up and lined up', '1–4 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
+  const TIERS = { nice: ['Polish', 11, ['Your drawings cleaned up and lined up', 'Up to 10 new images', 'Captions, labels, scale bars and north', 'Board + deck: PDF, PowerPoint, InDesign']],
     great: ['Transform', 16, ['Everything in the Polish option ($11)', 'Up to 15 new images', 'Hero view, plans and sections redrawn', 'New diagrams in the same family']] };
 
   /* ---------- composition preview (rule 26, D85; owner picked option 2 on 28 Oct, prototype b6c744c..d9a1f66).
@@ -732,7 +732,7 @@
 
   const isGreat = () => (S.tier || 'great') === 'great';
   const MAKE = () => ['Drawings cleaned and placed on the grid', 'Plan, section and site set to scale, scale bars and north drawn']
-    .concat(isGreat() ? ['Re-rendering the entrance view', 'Redrawing the plan and section: tones, shadows, trees', 'Drawing new diagrams in the same family'] : ['Polishing your drawings, with 1–4 AI re-renders'])
+    .concat(isGreat() ? ['Re-rendering the entrance view', 'Redrawing the plan and section: tones, shadows, trees', 'Drawing new diagrams in the same family'] : ['Rendering the plan, section and elevation', 'Polishing your drawings, with up to 10 AI images'])
     .concat(['Writing the story and captions from your answers', 'Checking every sentence against your sheets', 'Laying out the A1 board', 'Building the ' + F.visibleSlides(P).length + '-slide jury deck']);
   /* live: the build's own stages (server/core/progress.py BUILD_STAGES), ticked off as the status reports them */
   /* The step list follows the server's own stage (owner's test note 2). The running step carries a moving bar and the
