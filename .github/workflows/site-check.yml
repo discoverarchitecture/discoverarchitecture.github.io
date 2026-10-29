@@ -27,7 +27,7 @@ jobs:
       - name: Search Console diagnosis
         env:
           GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
-        run: pip -q install cryptography && python3 -u tools/diagnose_drop.py || true
+        run: echo skipped
       - name: GitHub Pages settings
         env:
           GH_TOKEN: ${{ github.token }}
@@ -35,11 +35,13 @@ jobs:
       - name: HTTP as Googlebot
         run: |
           UA="Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-          for u in https://findgreatarchitecture.com/ http://findgreatarchitecture.com/ https://www.findgreatarchitecture.com/ https://discoverarchitecture.github.io/ https://findgreatarchitecture.com/robots.txt https://findgreatarchitecture.com/sitemap.xml https://findgreatarchitecture.com/buildings/villa-savoye/ https://findgreatarchitecture.com/styles/brutalism/; do
+          for u in https://findgreatarchitecture.com/ http://findgreatarchitecture.com/ https://www.findgreatarchitecture.com/ https://discoverarchitecture.github.io/ https://findgreatarchitecture.com/robots.txt https://findgreatarchitecture.com/sitemap.xml https://findgreatarchitecture.com/buildings/villa-savoye/ https://findgreatarchitecture.com/styles/brutalism/ https://findgreatarchitecture.com/buildings/013/; do
             echo "== $u"; curl -sS -A "$UA" -o /dev/null -m 20 -w "%{http_code} -> %{redirect_url} (%{time_total}s, ip %{remote_ip})\n" "$u" || echo "FAILED"
           done
           echo "== certificate"; echo | openssl s_client -connect findgreatarchitecture.com:443 -servername findgreatarchitecture.com 2>/dev/null | openssl x509 -noout -subject -issuer -dates || echo "no certificate"
           echo "== robots.txt"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/robots.txt | head -5
           echo "== home head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/ | grep -ioE '<title>[^<]*|<meta name="robots"[^>]*>|<link rel="canonical"[^>]*>' | head
           echo "== building head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | grep -ioE '<title>[^<]*|<meta name="robots"[^>]*>|<link rel="canonical"[^>]*>' | head
+          echo "== hidden page head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/013/ | grep -ioE '<meta name="(robots|googlebot)"[^>]*>' | head
+          echo "== sitemap addresses"; curl -sS -m 20 https://findgreatarchitecture.com/sitemap.xml | grep -c "<loc>"
           echo "== response headers"; curl -sSI -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | head -20
