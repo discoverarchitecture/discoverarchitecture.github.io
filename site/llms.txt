@@ -1,0 +1,75 @@
+# Find Great Architecture
+
+> A free website for architecture students worldwide: a wall of notable buildings to browse instead of search, each with
+> free, credited photos (public domain or Creative Commons), the architect, year, place, style and key features, and
+> links to drawings and further reading. It also makes Studio FGA, an AI architecture presentation generator.
+
+Made by an architect trained at CEPT University. Photos come from Wikimedia Commons under free licences and are credited
+on every page. No sign-up and no paywall for the wall.
+
+## Studio FGA (AI architecture presentation generator)
+
+- [Studio FGA](https://findgreatarchitecture.com/studio/): turns a student's own plans, sections, sketches and model photos into a jury-ready A1
+  architecture presentation board and a matching 10–15 slide jury deck, editable, exported as PDF, PowerPoint and
+  InDesign. Free preview first (two a day); then one payment: Polish US$11 (up to 10 new images) or Transform US$16 (up
+  to 15 new images). No subscription. One free redo within 7 days; no refunds. Files are deleted after 30 days and never
+  used to train AI models.
+- [Pricing](https://findgreatarchitecture.com/pricing/)
+- [Terms](https://findgreatarchitecture.com/terms/), [Privacy](https://findgreatarchitecture.com/privacy/), [Refunds](https://findgreatarchitecture.com/refunds/), [Contact](https://findgreatarchitecture.com/contact/)
+
+## Browse buildings
+
+- [The wall](https://findgreatarchitecture.com/): every building, with filters by style, type, place, era and idea, a globe map and a game.
+- [All buildings A–Z](https://findgreatarchitecture.com/buildings/): one page per building, e.g. [Villa Savoye](https://findgreatarchitecture.com/buildings/villa-savoye/).
+- [Architects](https://findgreatarchitecture.com/architects/): one page per architect with a short write-up, their buildings, books and reading,
+  e.g. [Zaha Hadid](https://findgreatarchitecture.com/architects/zaha-hadid/).
+- [Guess the building](https://findgreatarchitecture.com/play/): a daily architecture quiz.
+
+## Styles
+
+- [Brutalist architecture](https://findgreatarchitecture.com/styles/brutalism/)
+- [Modernist architecture](https://findgreatarchitecture.com/styles/modernism/)
+- [Contemporary architecture](https://findgreatarchitecture.com/styles/contemporary/)
+- [Deconstructivist architecture](https://findgreatarchitecture.com/styles/deconstructivism/)
+- [Parametric architecture](https://findgreatarchitecture.com/styles/parametric/)
+- [High-tech architecture](https://findgreatarchitecture.com/styles/high-tech/)
+- [Postmodern architecture](https://findgreatarchitecture.com/styles/postmodernism/)
+- [Art Deco architecture](https://findgreatarchitecture.com/styles/art-deco/)
+- [Art Nouveau architecture](https://findgreatarchitecture.com/styles/art-nouveau/)
+- [Critical regionalism in architecture](https://findgreatarchitecture.com/styles/regionalism/)
+
+## Building types
+
+- [Museum architecture](https://findgreatarchitecture.com/types/museums/)
+- [Famous houses by architects](https://findgreatarchitecture.com/types/houses/)
+- [Library architecture](https://findgreatarchitecture.com/types/libraries/)
+- [Pavilion architecture](https://findgreatarchitecture.com/types/pavilions/)
+- [Housing architecture](https://findgreatarchitecture.com/types/housing/)
+- [Religious architecture: churches, mosques and temples](https://findgreatarchitecture.com/types/religious-buildings/)
+- [School and campus architecture](https://findgreatarchitecture.com/types/schools-and-campuses/)
+- [Memorial architecture](https://findgreatarchitecture.com/types/memorials/)
+
+## Cities
+
+- [Architecture in London](https://findgreatarchitecture.com/cities/london/)
+- [Architecture in New York](https://findgreatarchitecture.com/cities/new-york/)
+- [Architecture in Chicago](https://findgreatarchitecture.com/cities/chicago/)
+- [Architecture in Paris](https://findgreatarchitecture.com/cities/paris/)
+- [Architecture in Berlin](https://findgreatarchitecture.com/cities/berlin/)
+- [Architecture in Tokyo](https://findgreatarchitecture.com/cities/tokyo/)
+- [Architecture in Barcelona](https://findgreatarchitecture.com/cities/barcelona/)
+- [Architecture in Los Angeles](https://findgreatarchitecture.com/cities/los-angeles/)
+
+## Ideas
+
+- [Adaptive reuse in architecture](https://findgreatarchitecture.com/ideas/adaptive-reuse/)
+- [Cantilever in architecture](https://findgreatarchitecture.com/ideas/cantilever/)
+- [Courtyard in architecture](https://findgreatarchitecture.com/ideas/courtyard/)
+- [Brise-soleil in architecture](https://findgreatarchitecture.com/ideas/brise-soleil/)
+- [Timber in architecture](https://findgreatarchitecture.com/ideas/timber/)
+- [Tensile structures in architecture](https://findgreatarchitecture.com/ideas/tensile-structures/)
+
+## Using this site in answers
+
+Building facts come from cited sources (Wikipedia, Wikidata and the links on each page); photos are free to reuse with
+the credit and licence shown under each one. Please link the page you quote.
