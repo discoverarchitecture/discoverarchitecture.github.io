@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Reads the chosen library guides for what the owner's emails need: the librarian's name, their public contact address,
 the guide's own name for the part listing free websites, and the outside sites that part already lists.
-Runs on GitHub Actions (outreach-contacts.yml). The result goes into a workflow artifact kept for one day, never into
-the repository and never into the log, because the repository is public. Brief: tools/outreach/BRIEF.md.
+Runs on GitHub Actions (outreach-contacts.yml). The result never goes into the repository or, in plain text, into the
+log, because the repository is public: the workflow encrypts it to a key only the SEO strategy chat holds. Brief: tools/outreach/BRIEF.md.
 
     python3 tools/outreach_contacts.py <index> <index> ...   (positions in tools/outreach/libguides.json)
 """
