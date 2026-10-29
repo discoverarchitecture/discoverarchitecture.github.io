@@ -5,11 +5,14 @@ file). Send about five a day, each changed by hand where the brackets say, so ev
 weeks before one short follow-up; never a third. Note each one sent in `sent.md` (school, date, reply), without email
 addresses.
 
+**Links sit behind words, never as raw addresses** (owner, 29 Oct 2026): write the email as HTML, link "Find Great
+Architecture" and "Brutalism", and end with the short "findgreatarchitecture.com". The text below shows where the links go.
+
 **Subject:** A free precedent resource for your [architecture images] guide
 
 Dear [Librarian's name],
 
-[I'm an architect / I studied architecture: one line, true, about you], and I built Find Great Architecture (https://findgreatarchitecture.com/), a free site where
+[I'm an architect / I studied architecture: one line, true, about you], and I built [Find Great Architecture](link), a free site where
 architecture students browse buildings instead of searching for them. Your guide, [guide name], lists [one site it
 already lists, e.g. Great Buildings or ArchDaily] under [section name], so I thought it might be useful to your
 students too.
@@ -21,7 +24,7 @@ What it offers a student working on a precedent study:
 - For each building: the architect, year, place, style and key features, with links to drawings and plans where they
   exist (ArchDaily, WikiArquitectura and others).
 - Pages that gather buildings by style, building type, city and idea (for example
-  https://findgreatarchitecture.com/styles/brutalism/), and pages for architects with their buildings and further
+  [Brutalism](link)), and pages for architects with their buildings and further
   reading.
 
 It has no paywall and no sign-up. If you think it fits the guide, I'd be glad to see it listed; and if anything
