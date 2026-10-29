@@ -629,6 +629,19 @@ def threads_html(b, up, n_idea):
         f'<span class="tx"><small>{lab}</small><b>{t}</b></span><i class="go" aria-hidden="true">→</i></a>' for k, h, lab, t, art in cards) + '</nav>'
 
 
+# Building pages Google may index (owner, 29 Oct 2026, after Google dropped the site on 25 Oct): those Google showed at
+# least once before the drop, listed in tools/seo/index_keep.txt by tools/index_keep.py. The rest stay on the wall and in
+# every link but tell Google alone not to index them ("googlebot", so Bing and ChatGPT search keep them) and leave the
+# sitemap. Without the file every building page is indexable.
+KEEP_FILE = Path(__file__).resolve().parent / 'seo' / 'index_keep.txt'
+KEEP = ({l.strip() for l in KEEP_FILE.read_text().splitlines() if l.strip() and not l.startswith('#')}
+        if KEEP_FILE.exists() else None)
+
+
+def indexable(b):
+    return KEEP is None or b['id'] in KEEP
+
+
 def building_page(b, items):
     up = '../../'
     url = f"{BASE}buildings/{b['id']}/"
@@ -645,7 +658,7 @@ def building_page(b, items):
         ld['sameAs'] = b['wiki']
     head = HEAD.format(title=e(title(b)), desc=e(desc), url=e(url), site=NAME, ogtype='article',
                        ogtitle=e(f"{b['name']} — {b['by']}, {b['year']}"), image=e(og), up=up, wallhash='#' + b['id'],
-                       extra='<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL, css_v=CSS_V)
+                       extra=('' if indexable(b) else '<meta name="googlebot" content="noindex, follow">\n') + '<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + '</script>', total=TOTAL, css_v=CSS_V)
     if ims:
         figs = ''.join(
             f'<figure id="photo-{k + 1}"><img src="{e(at(up, im["src"]))}" alt="{e(photo_alt(b, im))}" width="{im["w"]}" height="{im["h"]}" loading="{"eager" if k == 0 else "lazy"}">'
@@ -960,7 +973,7 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(outward(index_page(items)))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items]
+    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)]
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(f'User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n')
