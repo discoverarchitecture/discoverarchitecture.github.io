@@ -1340,7 +1340,7 @@
   state.booting = false;
 })();
 
-// The AI jury presentation generator: on a computer the button goes straight to FGA Studio (/studio/); on a phone it opens a
+// The AI jury presentation generator: on a computer the button goes straight to Studio FGA (/studio/); on a phone it opens a
 // sheet that leads there. There are two on the wall: one in the name panel, and one in the slim bar that takes over from it
 // (and shows over the map), so it is always in sight (owner, 24 Oct 2026). Pressing either is counted as the event
 // studio/ai-button, and following the sheet's link as studio/ai-link. The address says where it was pressed:
@@ -1364,7 +1364,7 @@
     if (window.fgaEvent) fgaEvent('studio/ai-button', 'AI Jury Presentation Generator');
     setTimeout(() => { location.href = go.href; }, 150); // a moment for the count to leave
   }));
-  go.addEventListener('click', () => { if (window.fgaEvent) fgaEvent('studio/ai-link', 'AI panel: See FGA Studio'); });
+  go.addEventListener('click', () => { if (window.fgaEvent) fgaEvent('studio/ai-link', 'AI panel: See Studio FGA'); });
   const close = () => { show(false); from.focus(); };
   document.getElementById('aiClose').addEventListener('click', close);
   veil.addEventListener('click', () => show(false));
