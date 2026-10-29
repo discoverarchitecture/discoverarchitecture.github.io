@@ -23,6 +23,7 @@ site = g.pick_site(tok)
 rows = g.query(tok, site, START, END, ['page'], rows=25000)
 ids = sorted({r['page'].split('/buildings/', 1)[1].strip('/') for r in rows
               if '/buildings/' in r['page'] and r['impressions'] > 0 and r['page'].split('/buildings/', 1)[1].strip('/')})
+OUT.parent.mkdir(exist_ok=True)
 OUT.write_text(f'# Building pages Google may index: shown at least once in Google search, {START} to {END}.\n'
                '# Made by tools/index_keep.py; add an id by hand when its page gains real written text.\n'
                + '\n'.join(ids) + '\n')
