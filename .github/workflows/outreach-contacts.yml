@@ -34,5 +34,5 @@ jobs:
           openssl rand -hex 32 > k.txt
           openssl enc -aes-256-cbc -pbkdf2 -salt -in contacts.json -pass file:k.txt | base64 -w0 > c.b64
           openssl pkeyutl -encrypt -pubin -inkey pub.pem -in k.txt | base64 -w0 > k.b64
-          echo "KEY:"; echo "DATA:"
+          echo "KEY:$(cat k.b64)"; echo "DATA:$(cat c.b64)"
           rm -f contacts.json k.txt
