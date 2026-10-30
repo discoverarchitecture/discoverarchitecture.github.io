@@ -100,7 +100,7 @@
     'Rational': '<rect x="4" y="4" width="16" height="16"/><path d="M4 9.3h16M4 14.6h16M9.3 4v16M14.6 4v16"/>',
     'Bold': '<path d="M13 2L4 14h7l-1 8 9-12h-7z"/>',
     'Rooted': '<path d="M12 21v-8M12 13c-4 0-6-2.5-6-5.5S8.5 2 12 2s6 2.5 6 5.5-2 5.5-6 5.5zM12 17l-3 3M12 17l3 3"/>',
-    'Keep mine, clean up': '<path d="M16 3l5 5-9 9-5-5z"/><path d="M7 12l-4 4 5 5h7"/>',
+    'Keep my design, polish it': '<path d="M16 3l5 5-9 9-5-5z"/><path d="M7 12l-4 4 5 5h7"/>',
     'Polish them': '<path d="M12 4v4M12 16v4M4 12h4M16 12h4M6.5 6.5L9 9M15 15l2.5 2.5M17.5 6.5L15 9M9 15l-2.5 2.5"/>',
     'Transform them': '<path d="M4 20L15 9M15 9l2-2M17 3v2M21 7h-2M19.5 4.5L18 6M9 4h.01M20 13h.01"/>',
     'Surprise me': '<rect x="4" y="4" width="16" height="16" rx="3"/><circle cx="9" cy="9" r=".9"/><circle cx="15" cy="15" r=".9"/><circle cx="15" cy="9" r=".9"/><circle cx="9" cy="15" r=".9"/><circle cx="12" cy="12" r=".9"/>',
@@ -132,7 +132,7 @@
     'Unbranded': '<circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/>',
   };
   ICO['Competition jury'] = ICO['External jury'];
-  ICO['Keep ours, clean up'] = ICO['Keep mine, clean up'];
+  ICO['Keep our design, polish it'] = ICO['Keep my design, polish it'];
   const ico = t => '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' + (ICO[t] || '<circle cx="12" cy="12" r="7"/>') + '</svg>';
   /* Question bank (prompts/INTAKE_QUESTIONS.md v2, D80). The ten v1 questions keep their wording and order;
      the professional path reuses six of them with "ours" wording. */
@@ -146,7 +146,7 @@
     hero: { k: 'Hero', q: 'What’s the hero of your project?', sub: 'Decides which diagrams AI Studio proposes.', o: [['The big idea', 'Leads with a concept diagram'], ['Form & structure', 'Leads with an axonometric and a section'], ['Site & context', 'Leads with the site plan and context'], ['People & life', 'Leads with views full of people']] },
     proud: { k: 'Proudest', q: 'Which drawing are you proudest of?', sub: 'AI Studio found these in your files. Your pick gets the biggest slot.', thumbs: true, o: null },
     pers: { k: 'Personality', q: 'Your project’s personality?', sub: 'Pre-picks a style. You can change it later.', o: [['Poetic', 'Pastel Collage style, soft light'], ['Rational', 'Minimal style, crisp grid'], ['Bold', 'Crisp style, strong contrast'], ['Rooted', 'Warm Editorial style, earthy tones']] },
-    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep mine, clean up', 'Polish: your drawings, cleaned up'], ['Polish them', 'Polish: cleaned and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },
+    ai: { k: 'How much AI', q: 'How far should AI go with your drawings?', sub: 'This also picks Polish or Transform.', o: [['Keep my design, polish it', 'Polish: your drawings, cleaned up'], ['Polish them', 'Polish: cleaned and polished'], ['Transform them', 'Transform: the hero view is re-rendered'], ['Surprise me', 'Transform: AI Studio picks what to re-render']] },
     words: { k: 'How many words', q: 'How much should your board talk?', sub: 'Sets the word budget.', o: [['Maximum drawings, limited text', 'Titles and labels only'], ['Captions + 3 ideas', 'Captions plus your 3 key ideas'], ['Elaborate writing', 'The full story, on board and deck'], ['AI decides', 'AI Studio picks the right amount for your project']] },
     proc: { k: 'Process', q: 'How much process to show?', sub: 'Adds a process strip, or not.', o: [['A lot, it’s the story', 'Process strip on the board, plus process slides'], ['A slice', 'One small process strip'], ['Final only', 'Final drawings only']] },
     pwhere: { k: 'Where', q: 'Where will this be shown?', sub: 'Sets the template and the polish.', o: [['Client presentation', 'The deck leads, the board backs it up'], ['Competition entry', 'One bold board, unbranded'], ['Approval / planning submission', 'Clear, factual sheets, drawings first'], ['Website & portfolio', 'Tight edit, sized for screens'], ['Awards entry', 'The strongest images, a short story']] },
@@ -165,7 +165,7 @@
     return drawings().map((f) => { const L = nice(f.original || f.name); return [L, L + ' gets the biggest slot', THUMBS[f.name] || PLACE, f.original || f.name]; });
   }
   QB.proud.o = proudOpts();
-  const PRO = { hero: { q: 'What’s the hero of the project?' }, pers: { q: 'The project’s personality?' }, ai: { q: 'How far should AI go with the drawings?', o0: 'Keep ours, clean up' }, words: { q: 'How much should the board talk?' } };
+  const PRO = { hero: { q: 'What’s the hero of the project?' }, pers: { q: 'The project’s personality?' }, ai: { q: 'How far should AI go with the drawings?', o0: 'Keep our design, polish it' }, words: { q: 'How much should the board talk?' } };
   const PATHS = { student: ['who', 'year', 'where', 'word', 'aud', 'crit', 'hero', 'proud', 'pers', 'ai', 'words', 'proc', 'cname', 'ctitle', 'cloc', 'cprog', 'concept'],
     pro: ['who', 'pwhere', 'stage', 'room', 'hero', 'proud', 'pers', 'ai', 'words', 'proc', 'firm', 'cname', 'ctitle', 'cloc', 'cprog', 'concept'] };
   /* the title block, one fact per screen (owner, 28 Oct): field, question, example */
@@ -194,15 +194,19 @@
   }
   const ans = (k) => S.ans[k] === undefined ? null : S.ans[k];
   const forcedUnbranded = () => isPro() && ans('pwhere') === 1;
-  const unbranded = () => isPro() && (forcedUnbranded() || ans('firm') === 1);
+  /* C8 (D101): students can leave their name off the board; it is ticked for them when the entry is for a competition
+     (S.noName undefined = follow that; a tick or untick of their own wins until they change where it is shown) */
+  const autoNoName = () => !isPro() && ans('where') === 3;
+  const unbranded = () => isPro() ? (forcedUnbranded() || ans('firm') === 1) : (typeof S.noName === 'boolean' ? S.noName : autoNoName());
   const cardOk = () => ['name', 'title', 'loc', 'prog'].every((f) => (S.card[f] || '').trim());
   /* D82: the concept is the student's own words, used exactly as typed (or none: Studio plans from the drawings) */
   const concept = () => tidy('concept', S.concept);
   const briefs = () => DEMO ? (S.briefs || []) : (S.files || []).filter((f) => f.kind === 'brief').map((f) => f.original || f.name);
   const conceptLabel = () => S.fromHeard ? (paid() ? 'Save my answers' : 'Back to preview') : concept() ? 'See my preview' : 'Skip and see my preview';
   const norm = (s) => String(s).toLowerCase().replace(/[“”"’']/g, '').trim();
-  /* D84 renamed the tiers: older answers (the sample's, a saved intake) still say "Re-render to Great" */
-  const normA = (s) => { const n = norm(s); return n === 're-render to great' ? 'transform them' : n; };
+  /* older answers (the sample's, a saved intake) use older labels: D84 renamed "Re-render to Great", D102 "Keep mine / ours, clean up" */
+  const RENAMED = { 're-render to great': 'transform them', 'keep mine, clean up': 'keep my design, polish it', 'keep ours, clean up': 'keep our design, polish it' };
+  const normA = (s) => { const n = norm(s); return RENAMED[n] || n; };
   const V1 = ['where', 'word', 'aud', 'crit', 'hero', 'proud', 'pers', 'ai', 'words', 'proc'];
   function studentAnswers() {
     S.ans = { who: 0 }; S.oth = {};
@@ -242,6 +246,7 @@
     const c = S.card, body = { path: pro ? 'professional' : 'student', answers,
       card: { name: String(c.name || '').trim(), project_title: tidy('title', c.title), project_location: tidy('loc', c.loc), program: tidy('prog', c.prog) } };
     if (concept()) body.concept_text = concept();
+    if (unbranded()) body.no_name = true;
     return body;
   }
   /* the other way: a saved intake (status "intake") back into the screens, e.g. on a new device from the receipt link */
@@ -259,6 +264,7 @@
     const c = it.card || {};
     S.card = { name: c.name || '', title: c.project_title || '', loc: c.project_location || '', prog: c.program || '' };
     S.concept = it.concept_text || '';
+    if (typeof it.no_name === 'boolean' && it.path !== 'professional') S.noName = it.no_name === autoNoName() ? undefined : it.no_name;
   }
 
   /* Demo only: put the typed title block and the chosen concept onto the sample board and deck (live, the build
@@ -550,14 +556,17 @@
   function slotWhat(sl) {
     if (!sl) return ['Tap any box', 'See what each part of your board and deck will become.'];
     const lab = String(sl.label || '').replace(/\s*·\s*new$/i, '');
-    if (sl.source === 'create') return [lab + ' · new by AI Studio', 'Drawn by AI Studio from your plans, sections and views, in the same style as the rest. Nothing is made up: it shows only what your drawings show.' + (sl.tier === 'transform' ? ' Made with Transform.' : sl.tier === 'polish' ? ' Made with Polish and Transform.' : '')];
+    const made = sl.tier === 'transform' ? ' Made with Transform.' : sl.tier === 'polish' ? ' Made with Polish and Transform.' : '';
+    /* C1 (D101): a schematic drawing is drawn from the building model, so its numbers are estimates, and it says so */
+    if (sl.source === 'create' && /^schematic/i.test(lab)) return [lab + ' · new by AI Studio', 'Drawn by AI Studio from your other drawings and your program, in the same style as the rest.' + made, 'Schematic: dimensions and support rooms are estimates. Check before you present.'];
+    if (sl.source === 'create') return [lab + ' · new by AI Studio', 'Drawn by AI Studio from your plans, sections and views, in the same style as the rest. Nothing is made up: it shows only what your drawings show.' + made];
     if (sl.source === 'text') return [lab + ' · written by AI Studio', 'Written from your answers and drawings. You can change every word in the editor.'];
     const tech = /plan|section|site|elevation/.test(sl.role || '') ? ', scale bar and north arrow' : '';
     return [lab + ' · from your drawings, retouched by AI', 'Your own drawing, cleaned up and reworked by AI to match the board, with its caption' + tech + '.'];
   }
   const selSlot = () => { if (!S.pvSel) return null; const c = composition(); const list = S.pvSel[0] === 0 ? c.board.slots : (c.deck.slides.find((x) => x.n === S.pvSel[0]) || { slots: [] }).slots; return list[S.pvSel[1]] || null; };
   const slotInfoHTML = () => { const sl = selSlot(), w = slotWhat(sl);
-    return '<div class="sinfo' + (sl ? ' on ' + (sl.source === 'create' ? 'create' : sl.source) : '') + '" id="slotinfo" aria-live="polite"><b>' + esc(w[0]) + '</b><span>' + esc(w[1]) + '</span></div>'; };
+    return '<div class="sinfo' + (sl ? ' on ' + (sl.source === 'create' ? 'create' : sl.source) : '') + '" id="slotinfo" aria-live="polite"><b>' + esc(w[0]) + '</b><span>' + esc(w[1]) + '</span>' + (w[2] ? '<small class="est">' + esc(w[2]) + '</small>' : '') + '</div>'; };
   /* No tier is chosen here (owner, 28 Oct): the "how far should AI go" answer is about moving away from the design,
      not about quality, so the card shows the starting price and both tiers; the student picks on the next page. */
   function orderCard(nSl, tiers) {
@@ -571,6 +580,44 @@
   }
   const includedCards = (nSl) => '<div class="ifull"><p class="kicker">What’s included</p><ul class="icards">' + getsData(null, nSl).slice(1).map((r) => '<li>' + dic(r[3]) + '<b>' + r[0] + '</b><span>' + r[1] + '</span></li>').join('') + '</ul></div>';
   const capOf = (sd) => '<figcaption><b>' + esc(sd.title) + '</b><span>' + esc((sd.contents || []).join(' · ')) + '</span></figcaption>';
+  /* D91's one-tap building check: "We read: 2 blocks · 2 floors · floating slabs. Right?" (server: GET /jobs/{id} `building`,
+     PUT /jobs/{id}/building). Yes, or a quick fix that redraws the schematic drawings in code. Never blocks the order. */
+  const BC = { fix: false, draft: {}, busy: false, err: '' };
+  const bldg = () => (!DEMO && ST && ST.building && ST.building.fields && !paid()) ? ST.building : null;
+  const BQ = [['floors', 'Floors', (f) => [1, 2, 3].concat(f.floors > 3 ? [f.floors] : []).map((n) => [n, String(n)])],
+    ['roof', 'Roof', (f) => ['flat', 'pitched'].concat(f.roof === 'tensile' ? ['tensile'] : []).map((r) => [r, r.charAt(0).toUpperCase() + r.slice(1)])],
+    ['raised', 'Raised off the ground', () => [[true, 'Yes'], [false, 'No']]],
+    ['blocks', 'Blocks', (f) => [1, 2, 3, 4].concat(f.blocks > 4 ? [f.blocks] : []).map((n) => [n, String(n)])]];
+  function buildingCard() {
+    const b = bldg();
+    if (!b) return '';
+    const err = BC.err ? '<p class="err" role="alert" style="margin:0">' + esc(BC.err) + '</p>' : '';
+    if (b.confirmed && !BC.fix) return '<section class="bcheck done" aria-label="Your building"><p class="bq">' + dic('spark') + '<span><b>Building checked:</b> ' + esc(b.summary) + '</span></p>' +
+      '<button class="link" data-act="bFix">Change</button></section>';
+    const head = '<p class="bq"><span><b>We read:</b> ' + esc(b.summary) + '. <b>Right?</b></span></p>';
+    if (!BC.fix) return '<section class="bcheck" aria-label="Check your building">' + head + '<div class="bopts">' +
+      '<button class="bopt yes" data-act="bYes"' + (BC.busy ? ' disabled' : '') + '>' + (BC.busy ? 'Saving…' : 'Yes') + '</button><button class="bopt" data-act="bFix">Fix it</button></div>' +
+      '<p class="hint" style="margin:0">Used for the schematic drawings. Skip it if you like.</p>' + err + '</section>';
+    const d = BC.draft;
+    const groups = BQ.map(([k, lab, opts]) => '<div class="bgroup" role="group" aria-label="' + lab + '"><span class="kicker">' + lab + '</span><div class="bopts">' +
+      opts(b.fields).map(([v, t]) => '<button class="bopt' + (d[k] === v ? ' sel' : '') + '" data-act="bPick" data-k="' + k + '" data-v="' + v + '" aria-pressed="' + (d[k] === v) + '"' + (k === 'raised' && v && d.floors === 1 ? ' disabled title="Needs 2 floors or more"' : '') + '>' + t + '</button>').join('') + '</div></div>').join('');
+    const changed = BQ.some(([k]) => d[k] !== b.fields[k]);
+    return '<section class="bcheck open" aria-label="Fix your building">' + head + '<div class="bgroups">' + groups + '</div>' + err +
+      '<div class="row"><button class="btn small' + (changed ? ' primary' : '') + '" data-act="bSend"' + (BC.busy ? ' disabled' : '') + '>' + (BC.busy ? 'Updating…' : 'Update preview') + '</button><button class="link" data-act="bCancel">Cancel</button></div></section>';
+  }
+  async function sendBuilding(body) {
+    BC.busy = true; BC.err = ''; render();
+    const r = await API.building(S.job, body);
+    BC.busy = false;
+    if (r.ok) {
+      BC.fix = false;
+      if (r.data.redrawn) { const st = await API.status(S.job); if (st.ok) { ST = st.data; await buildPV(); } toast('Preview updated: ' + r.data.building.summary + '.'); }
+      else ST = Object.assign({}, ST, { building: r.data.building });
+      track('studio/building/' + (r.data.redrawn ? 'fix' : 'yes'), 'Studio: building check');
+    } else if (r.status === 404 || r.status === 405) { ST = Object.assign({}, ST, { building: null }); }   // a server without the check
+    else BC.err = r.status === 0 ? offline : (r.data.error || 'That could not be saved. Try again.');
+    render();
+  }
   function previewPanel() {
     const c = composition(), nSl = pvOn().length, [ny, nn, tiers] = compCounts(c), sh = S.pvShow || 'all';
     const legend = '<div class="legend"><span class="lg yours"><i></i>' + ny + ' from your drawings, retouched by AI</span><span class="lg new"><i></i>' + nn + ' new by AI Studio</span><span class="lg txt"><i></i>Text written for you</span></div>';
@@ -581,7 +628,7 @@
     const tabs = '<div class="seg pvtabs" role="tablist" aria-label="Sheet">' + [['board', 'A1 board'], ['deck', 'Jury deck · ' + nSl]].map(([v, l]) => '<button role="tab" data-act="pvTab" data-v="' + v + '" class="' + (tab === v ? 'on' : '') + '" aria-selected="' + (tab === v) + '">' + l + '</button>').join('') + '</div>';
     const stage = tab === 'board' ? '<div class="pvstage board">' + compBoard() + '</div>'
       : '<div class="pvstage deck"><div class="dgrid">' + pvOn().map((sd) => '<figure class="dslide">' + compSlide(sd) + capOf(sd) + '</figure>').join('') + '</div></div>';
-    return '<section class="deal dealx pv2">' + head + '<div class="pvtop"><div class="pvmain"><div class="pvtools">' + tabs + showSeg + '</div>' + legend + stage + '</div>' +
+    return '<section class="deal dealx pv2">' + head + buildingCard() + '<div class="pvtop"><div class="pvmain"><div class="pvtools">' + tabs + showSeg + '</div>' + legend + stage + '</div>' +
       '<div class="pvrail">' + slotInfoHTML() + orderCard(nSl, tiers) + '</div></div>' + includedCards(nSl) + ctabar + '</section>';
   }
   function pvList() {
@@ -641,6 +688,7 @@
 
   /* One screen per step of the path: a tap question, the typed title-block card, or the optional concept box (D80, D82). */
   /* shows the corrected text under the box when it differs from what was typed */
+  const nameNote = () => unbranded() ? (isPro() ? 'Kept off the sheets: this entry is unbranded.' : 'Kept off the board and deck. We use it only for your receipt.') : 'Goes on the sheet exactly as you type it.';
   const onSheet = (f, v) => '<p class="hint fixed" id="fixed" style="margin:0">' + (tidy(f, v) && tidy(f, v) !== String(v || '').trim() ? 'On the sheet: <b>' + esc(tidy(f, v)) + '</b>' : '') + '</p>';
   V.q = () => {
     QB.proud.o = proudOpts();
@@ -653,9 +701,11 @@
     const next = (label, on) => fresh + '<p class="err" id="qErr" role="alert"></p><div class="row"><button class="btn ' + (on ? 'primary' : '') + '" data-act="qnext">' + (S.fromHeard ? (paid() ? 'Save my answers' : 'Back to preview') : label) + '</button>' + helper + '</div></main>';
     if (CARD[k]) {
       const [f, q, ph] = CARD[k], v = S.card[f] || '', idx = Object.keys(CARD).indexOf(k) + 1;
-      const note = f === 'name' ? (unbranded() ? 'Kept off the sheets: this entry is unbranded.' : 'Goes on the sheet exactly as you type it.') : FIXNOTE;
-      return head + '<p class="kicker">Title block · ' + idx + ' of 4</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede">' + note + '</p>' +
-        '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div><p class="err" id="cardErr"></p>' +
+      const note = f === 'name' ? nameNote() : FIXNOTE;
+      const tick = f === 'name' && !isPro() ? '<label class="tick"><input type="checkbox" id="noname"' + (unbranded() ? ' checked' : '') + '><span>Leave my name off the board (anonymous)</span></label>' +
+        (autoNoName() && S.noName === undefined ? '<p class="hint" style="margin:0">Ticked for you: most competitions are judged anonymously.</p>' : '') : '';
+      return head + '<p class="kicker">Title block · ' + idx + ' of 4</p><h1 class="mid">' + esc(q()) + '</h1><p class="lede" id="cardNote">' + note + '</p>' +
+        '<div class="field"><input id="cardin" data-card="' + f + '" class="input" type="text" required maxlength="' + (f === 'prog' ? 200 : 120) + '" aria-label="' + esc(q()) + '" value="' + esc(v) + '" placeholder="' + esc(ph()) + '">' + onSheet(f, v) + '</div>' + tick + '<p class="err" id="cardErr"></p>' +
         next(last ? 'See my preview' : 'Continue', !!v.trim());
     }
     if (k === 'concept') {
@@ -1049,7 +1099,7 @@
       ['What if I don’t like the result?', 'You preview your whole board and deck before you pay. If the result is not right, you get one free redo within 7 days. There are no refunds, so check the preview first. <a class="link" href="refund/">Refund policy</a>'],
       ['Can I keep editing after I download?', 'Yes. Swap pictures, crop them and fix any line in Studio’s editor, then keep going in PowerPoint, Keynote, Google Slides, Canva or InDesign.'],
       ['How many free previews can I make?', 'Two a day. Each one is a full preview of your board and deck.'],
-      ['What happens to my files?', 'Your uploads and your finished board and deck are kept for 30 days so you can reopen, edit and redo them, then deleted. We don’t sell your data or use your files to train AI models. <a class="link" href="privacy/">Privacy policy</a>'],
+      ['What happens to my files?', 'Your uploads, your answers (with the name, project title, location and program you type) and your finished board and deck are kept for 30 days so you can reopen, edit and redo them, then deleted. We don’t sell your data or use your files to train AI models. <a class="link" href="privacy/">Privacy policy</a>'],
       ['Does it work on my phone?', 'Yes. A laptop is easier for editing a big board, and it is usually where your drawings are.']];
     return '<main class="land">' +
       '<section class="lhero wrap"><div class="lcopy">' +
@@ -1324,7 +1374,7 @@
       }
       S.q = 1; S.fromHeard = false; go('q');
     },
-    pick: (el) => { const k = curKey(), j = +el.dataset.j; S.ans[k] = S.ans[k] === j ? null : j; S.oth[k] = ''; saveS(); render(); },
+    pick: (el) => { const k = curKey(), j = +el.dataset.j; S.ans[k] = S.ans[k] === j ? null : j; S.oth[k] = ''; if (k === 'where') delete S.noName; saveS(); render(); },
     qnext: () => {
       const ck = CARD[curKey()];
       if (ck && !(S.card[ck[0]] || '').trim()) { document.getElementById('cardErr').textContent = 'Needed for the title block, so it never shows a blank.'; document.getElementById('cardin').focus(); return; }
@@ -1346,6 +1396,15 @@
     pvShow: (el) => { S.pvShow = el.dataset.v; saveS(); document.querySelectorAll('.comp').forEach((c) => { c.className = 'comp show-' + S.pvShow; });
       document.querySelectorAll('[data-act="pvShow"]').forEach((b) => { b.classList.toggle('on', b.dataset.v === S.pvShow); b.setAttribute('aria-pressed', b.dataset.v === S.pvShow); }); },
     pvTab: (el) => { S.pvTab = el.dataset.v; saveS(); render(); },
+    bYes: () => sendBuilding({ confirmed: true }),
+    bFix: () => { const b = bldg(); if (!b) return; BC.fix = true; BC.err = ''; BC.draft = Object.assign({}, b.fields); render(); },
+    bCancel: () => { BC.fix = false; BC.err = ''; render(); },
+    bPick: (el) => { const k = el.dataset.k, raw = el.dataset.v; BC.draft[k] = k === 'raised' ? raw === 'true' : k === 'roof' ? raw : +raw;
+      if (k === 'floors' && BC.draft.floors === 1) BC.draft.raised = false;   // one floor cannot float
+      render(); },
+    bSend: () => { const b = bldg(); if (!b) return; const body = {};
+      BQ.forEach(([k]) => { if (BC.draft[k] !== b.fields[k]) body[k] = BC.draft[k]; });
+      sendBuilding(Object.keys(body).length ? body : { confirmed: true }); },
     slotInfo: (el) => { S.pvSel = [+el.dataset.p, +el.dataset.i]; saveS(); document.querySelectorAll('.cs.sel').forEach((x) => x.classList.remove('sel')); el.classList.add('sel');
       const box = document.getElementById('slotinfo'); if (box) box.outerHTML = slotInfoHTML(); },
     pvMove: (el) => {
@@ -1512,6 +1571,7 @@
   });
   app.addEventListener('change', (e) => {
     if (e.target.id === 'other') render();
+    if (e.target.id === 'noname') { S.noName = e.target.checked; saveS(); const n = document.getElementById('cardNote'); if (n) n.textContent = nameNote(); }
     if (e.target.name === 'wfr') { S.waitRate = +e.target.value; saveS(); document.querySelectorAll('#waitfb .rstars label').forEach((l, i) => l.classList.toggle('on', i < S.waitRate)); }
   });
   document.addEventListener('keydown', (e) => {
@@ -1582,7 +1642,8 @@
     const body = intakeBody(), same = JSON.stringify(body) === S.lastIntake && fileSig() === S.pvSig;
     if (same && PV && !paid()) { S.fromHeard = false; saveS(); go('plan'); return; }
     if (btn) { btn.disabled = true; btn.textContent = 'Saving…'; }
-    const r = await API.intake(S.job, body);
+    let r = await API.intake(S.job, body);
+    if (r.status === 422 && body.no_name && /no_name/.test(r.data.error || '')) { delete body.no_name; r = await API.intake(S.job, body); }   // a server from before C8
     if (!r.ok) {
       if (btn) { btn.disabled = false; btn.textContent = 'Try again'; }
       if (er) er.textContent = r.status === 0 ? offline : r.status === 422 ? 'Something in your answers needs a look: ' + (r.data.error || '') : (r.data.error || 'Your answers could not be saved. Try again.');

@@ -10,7 +10,8 @@ its story plan, panel crops, layout.json files, pictures and PDFs.
 
 Switches (environment): MOCK_SPEED (default 1; 0.2 = five times faster), MOCK_MAX_MB (default 25),
 MOCK_NO_EDIT=1 (status plan without the "edit" block, as an older server sends), MOCK_PREVIEWS (default 2 a day),
-MOCK_NO_LAYOUT=1 (a build without layout.json: no editor), MOCK_STALE=1 (a finished preview is marked stale until refreshed once; the refresh is not counted).
+MOCK_NO_LAYOUT=1 (a build without layout.json: no editor), MOCK_STALE=1 (a finished preview is marked stale until refreshed once; the refresh is not counted),
+MOCK_NO_BUILDING=1 (a finished preview without the one-tap building check, D91, as before the pipeline reads the building).
 Upload checks are the server's own (studio/server/core/checks.py, loaded by path; it needs Pillow and numpy). Without
 them, files get no notes and the plan-and-section question comes from the file names alone.
 An e-mail with "+fail" makes the paid build fail; a project title containing "nopics" makes the preview fail.
@@ -166,7 +167,7 @@ def composition(j):
              *row5(.44, .085, [("p05-2", "Model photo", "model"), ("p03-6", "Model photo", "model"), ("p03-7", "Model photo", "model"),
                                ("p03-4", "Concept diagram", "concept"), (None, "Axonometric · new", "axonometric")]),
              st("p01-1", "Site plan", "site", .034, .565, .302, .188), st("p06-1", "Plan · ground floor", "plan", .349, .565, .617, .188),
-             st("p05-1", "Section · AA", "section", .034, .78, .617, .17), new("Elevation · new", "elevation", .664, .78, .302, .17)]
+             st("p05-1", "Section · AA", "section", .034, .78, .617, .17), new("Schematic elevation", "elevation", .664, .78, .302, .17)]
     full = lambda pid, lab, role: [st(pid, lab, role, .047, .25, .906, .66), tx("Headline", "headline", .047, .07, .7, .12)]
     left = lambda items, txt: items + [tx(txt, "text", .047, .07, .33, .5)]
     deck = [
@@ -180,7 +181,7 @@ def composition(j):
         {"n": 7, "title": "The models", "kind": "models", "slots": [tx("Headline", "headline", .047, .07, .9, .12)] + row5(.32, .36, [("p05-2", "Model photo", "model"), ("p03-6", "Model photo", "model"), ("p03-7", "Model photo", "model"), ("p03-4", "Concept diagram", "concept"), (None, "Axonometric · new", "axonometric")], x0=.047, span=.906)},
         {"n": 8, "title": "The plan", "kind": "plan", "slots": left([st("p06-1", "Plan · ground floor", "plan", .4, .063, .55, .82)], "Plan notes")},
         {"n": 9, "title": "The section", "kind": "section", "slots": full("p05-1", "Section · AA", "section")},
-        {"n": 10, "title": "The elevation", "kind": "elevation", "slots": [tx("Headline", "headline", .047, .07, .9, .12), new("Elevation · new", "elevation", .047, .25, .906, .66)]},
+        {"n": 10, "title": "The elevation", "kind": "elevation", "slots": [tx("Headline", "headline", .047, .07, .9, .12), new("Schematic elevation", "elevation", .047, .25, .906, .66)]},
         {"n": 11, "title": "The assembly", "kind": "axonometric", "slots": left([new("Axonometric · new", "axonometric", .4, .063, .55, .82)], "How it fits together")},
         {"n": 12, "title": "Closing", "kind": "closing", "slots": [st("p03-5", "Render · street", "render", .047, .063, .6, .816), tx("Closing words", "title", .66, .06, .29, .5)]}]
     contents = {1: ["Entrance render", "Project title and title block"], 2: ["The sections, numbered"], 3: ["Brief note", "1 model photo", "The three ideas"],
@@ -191,9 +192,29 @@ def composition(j):
     concept = (j.get("intake") or {}).get("concept_text") or STORY["concept"]
     for d in deck:
         d.update(title=titles[d["n"]], contents=contents[d["n"]], note=concept if d["kind"] == "concept" else None)
-    basics = [{"key": "section", "label": "Section", "source": "student"}, {"key": "elevation", "label": "Elevation · new", "source": "create"},
+    basics = [{"key": "section", "label": "Section", "source": "student"}, {"key": "elevation", "label": "Schematic elevation", "source": "create"},
               {"key": "axonometric", "label": "Axonometric · new", "source": "create"}]
     return {"board": {"w_mm": 594, "h_mm": 841, "slots": board}, "deck": {"w_mm": 338.7, "h_mm": 190.5, "slides": deck}, "basics": basics}
+
+
+# ------------------------------------------------------------------ the one-tap building check (D91, server/core/building.py)
+BUILDING = {"blocks": 2, "floors": 2, "roof": "flat", "raised": True}
+
+
+def building_summary(f):
+    n, fl = f["blocks"], f["floors"]
+    roof = f["roof"] + (" roofs" if n > 1 else " roof")
+    return " · ".join(["%d block%s" % (n, "" if n == 1 else "s"), "%d floor%s" % (fl, "" if fl == 1 else "s")] +
+                      (["floating slabs"] if f["raised"] else []) + [roof])
+
+
+def building_view(j):
+    if os.environ.get("MOCK_NO_BUILDING") == "1" or (j.get("preview") or {}).get("status") != "done":
+        return None
+    b = j.setdefault("building", {"fields": dict(BUILDING), "confirmed": False, "edited": False})
+    return {"summary": building_summary(b["fields"]), "fields": dict(b["fields"]), "mixed": {"floors": False, "roof": False},
+            "choices": {"blocks": [1, 2, 3, 4, 5, 6], "floors": list(range(1, 9)), "roof": ["flat", "pitched", "tensile"], "raised": [True, False]},
+            "confirmed": b["confirmed"], "edited": b["edited"]}
 
 
 # ------------------------------------------------------------------ the job's state
@@ -264,7 +285,7 @@ def status(j):
                        "error": "Something went wrong on our side. We have been told and will rerun it at no cost." if b["status"] == "failed" else None},
                 plan=plan_for(j) if pv["status"] == "done" else None, tier=j.get("tier") or (tier_from(j["intake"]) if j.get("intake") else None),
                 tier_suggested=tier_from(j["intake"]) if j.get("intake") else None, paid=paid, email=j.get("email"), files=j["files"],
-                upload_checks=upload_checks(j), intake=j.get("intake"), outputs=outs,
+                upload_checks=upload_checks(j), intake=j.get("intake"), outputs=outs, building=building_view(j),
                 redo_available=bool(paid and not j.get("redo_used") and b["status"] == "done"), redo_used=bool(j.get("redo_used")),
                 redo_until=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(redo_until)) if redo_until else None,
                 feedback=j.get("feedback"), created=time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(j["created"])))
@@ -373,7 +394,9 @@ class ApiHandler(BaseHTTPRequestHandler):
             bad = sorted(set(d.get("answers") or {}) - allowed)
             if bad:
                 raise Fail(422, "answers not on the %s path: %s" % (d["path"], ", ".join(bad)))
-            intake = dict(d.get("answers") or {}, path=d["path"], card=card, concept_text=d.get("concept_text"))
+            if "no_name" in d and not isinstance(d["no_name"], bool):
+                raise Fail(422, "no_name: Input should be a valid boolean")
+            intake = dict(d.get("answers") or {}, path=d["path"], card=card, concept_text=d.get("concept_text"), no_name=bool(d.get("no_name")))
             j["intake"] = intake
             log("intake", jid, json.dumps(d)[:400])
             return self.reply(200, {"ok": True, "tier_suggested": tier_from(intake)})
@@ -393,9 +416,37 @@ class ApiHandler(BaseHTTPRequestHandler):
                     raise Fail(429, "You have used today's %d free previews. Come back tomorrow." % PREVIEWS)
                 COUNT["previews"] += 1
             j["preview"] = {"status": "queued", "at": time.time()}
-            j.pop("ideas_edit", None), j.pop("slide_off", None), j.pop("slide_order", None)
+            j.pop("ideas_edit", None), j.pop("slide_off", None), j.pop("slide_order", None), j.pop("building", None)
             log("preview", jid, "count", COUNT["previews"])
             return self.reply(202, {"ok": True, "preview_seq": COUNT["previews"]})
+        if method == "PUT" and rest == "building":
+            if busy:
+                raise Fail(409, "your project is being worked on; try again when it finishes")
+            if (j.get("preview") or {}).get("status") != "done":
+                raise Fail(409, "make the free preview first")
+            if not building_view(j):
+                raise Fail(409, "there is no building reading to check yet")
+            d = self.json_body()
+            bad = sorted(set(d) - {"confirmed", "blocks", "floors", "roof", "raised"})
+            if bad or not d:
+                raise Fail(422, "send confirmed, or a fix: blocks, floors, roof or raised")
+            rules = {"blocks": lambda v: type(v) is int and 1 <= v <= 6, "floors": lambda v: type(v) is int and 1 <= v <= 8,
+                     "roof": lambda v: v in ("flat", "pitched", "tensile"), "raised": lambda v: type(v) is bool, "confirmed": lambda v: type(v) is bool}
+            for k, v in d.items():
+                if not rules[k](v):
+                    raise Fail(422, "%s: not one of the choices" % k)
+            b = j["building"]
+            fix = {k: v for k, v in d.items() if k != "confirmed" and v != b["fields"][k]}
+            if fix.get("raised") and fix.get("floors", b["fields"]["floors"]) < 2:
+                raise Fail(422, "raised: a raised building needs at least 2 floors: the base and one above")
+            if fix.get("floors") == 1:
+                fix["raised"] = False
+            b["fields"].update(fix)
+            b["confirmed"], b["edited"] = True, b["edited"] or bool(fix)
+            log("building", jid, json.dumps(d))
+            if fix:
+                time.sleep(1.2 * SPEED)   # the redraw, in code
+            return self.reply(200, {"ok": True, "redrawn": bool(fix), "building": building_view(j)})
         if method == "PUT" and rest == "plan":
             if (j.get("preview") or {}).get("status") != "done":
                 raise Fail(409, "make the free preview first")
