@@ -681,3 +681,24 @@ body[data-screen="upload"] .btn.primary::after, body[data-screen="q"] .btn.prima
 .rfiles { display: flex; flex-direction: column; gap: 10px; }
 .rba .after img { max-width: 300px; width: 100%; }
 .waitfb { display: flex; flex-direction: column; gap: 10px; } .waitfb h2.mid { font-size: clamp(20px, 2.4vw, 26px); }
+
+/* C1 (D101): the estimate line under a schematic drawing's tap-to-see text */
+.sinfo .est { display: block; margin-top: 4px; font-size: 13px; font-weight: 600; }
+/* C8 (D101): "Leave my name off the board" on the name question */
+.tick { display: flex; align-items: center; gap: 10px; min-height: 44px; font-weight: 600; cursor: pointer; }
+.tick input { width: 22px; height: 22px; flex: none; margin: 0; accent-color: var(--ink); cursor: pointer; }
+/* D91: the one-tap building check on the preview, in the questions' multiple-choice style; never blocks the order */
+.bcheck { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; padding: 12px 14px; border: 2px solid var(--line); border-radius: 16px; background: var(--paper); min-width: 0; }
+.bcheck .bq { margin: 0; display: flex; align-items: center; gap: 8px; font-size: 15px; flex: 1 1 260px; min-width: 0; }
+.bcheck .bq .dic { width: 20px; height: 20px; flex: none; }
+.bcheck .hint { flex-basis: 100%; }
+.bcheck.done { border-style: dashed; padding-block: 8px; }
+.bcheck.open { flex-direction: column; align-items: stretch; } .bcheck.open .bq { flex: none; }
+.bgroups { display: flex; flex-wrap: wrap; gap: 10px 22px; }
+.bgroup { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.bgroup .kicker { margin: 0; }
+.bopts { display: flex; flex-wrap: wrap; gap: 8px; }
+.bopt { min-height: 44px; min-width: 52px; padding: 0 14px; border: 2px solid var(--line); border-radius: 12px; background: var(--card); color: var(--ink); font: inherit; font-weight: 700; cursor: pointer; }
+.bopt.sel, .bopt.yes { background: var(--lime); color: var(--on-accent); box-shadow: 3px 3px 0 var(--shadow); }
+.bopt:disabled { opacity: .45; cursor: default; }
+@media (max-width: 560px) { .bgroups { gap: 10px 14px; } .bopt { padding: 0 12px; } }

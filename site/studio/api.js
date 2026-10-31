@@ -49,6 +49,7 @@
     preview: (job, email) => call('POST', J(job) + '/preview', job, email ? { email } : {}),
     status: (job) => call('GET', J(job), job),
     plan: (job, body) => call('PUT', J(job) + '/plan', job, body),
+    building: (job, body) => call('PUT', J(job) + '/building', job, body),
     checkout: (job, tier, email) => call('POST', J(job) + '/checkout', job, { tier, email }),
     redo: (job) => call('POST', J(job) + '/redo', job),
     feedback: (job, body) => call('POST', J(job) + '/feedback', job, body),
