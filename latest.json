@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-10-28T05:28:34+00:00",
+ "fetched_at": "2026-11-02T17:34:34+00:00",
  "site": "akshatpagaria.goatcounter.com",
  "window_days": 30,
- "visits_30d": 1836,
+ "visits_30d": 2120,
  "sections": {
   "pages": {
    "hits": [
     {
-     "count": 484,
+     "count": 519,
      "path_id": 112020267,
      "path": "/",
      "event": false,
@@ -15,7 +15,7 @@
      "max": 36
     },
     {
-     "count": 81,
+     "count": 85,
      "path_id": 113298212,
      "path": "map/open",
      "event": true,
@@ -23,7 +23,7 @@
      "max": 12
     },
     {
-     "count": 80,
+     "count": 85,
      "path_id": 112020274,
      "path": "/play",
      "event": false,
@@ -31,7 +31,7 @@
      "max": 9
     },
     {
-     "count": 37,
+     "count": 66,
      "path_id": 113691164,
      "path": "/studio",
      "event": false,
@@ -39,12 +39,52 @@
      "max": 6
     },
     {
-     "count": 19,
+     "count": 25,
      "path_id": 113702981,
      "path": "studio/ai-button",
      "event": true,
      "title": "AI jury presentation generator",
      "max": 3
+    },
+    {
+     "count": 24,
+     "path_id": 116720890,
+     "path": "studio/screen/home",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 home",
+     "max": 3
+    },
+    {
+     "count": 16,
+     "path_id": 116802573,
+     "path": "studio/scroll/25",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 25",
+     "max": 2
+    },
+    {
+     "count": 15,
+     "path_id": 116837291,
+     "path": "studio/scroll/50",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 50",
+     "max": 2
+    },
+    {
+     "count": 13,
+     "path_id": 116837478,
+     "path": "studio/scroll/75",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 75",
+     "max": 2
+    },
+    {
+     "count": 11,
+     "path_id": 116838001,
+     "path": "studio/scroll/100",
+     "event": true,
+     "title": "Studio \u00b7 scroll \u00b7 100",
+     "max": 2
     },
     {
      "count": 11,
@@ -56,6 +96,14 @@
     },
     {
      "count": 10,
+     "path_id": 113996447,
+     "path": "studio/signup",
+     "event": true,
+     "title": "FGA Studio waitlist sign-up",
+     "max": 1
+    },
+    {
+     "count": 10,
      "path_id": 113976891,
      "path": "play/endless/over",
      "event": true,
@@ -63,12 +111,20 @@
      "max": 2
     },
     {
-     "count": 9,
+     "count": 10,
      "path_id": 113671658,
      "path": "play/daily/3-of-5",
      "event": true,
      "title": "Daily five finished: 3 of 5 right",
      "max": 2
+    },
+    {
+     "count": 9,
+     "path_id": 116837715,
+     "path": "studio/click/home/open-details",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 open-details",
+     "max": 1
     },
     {
      "count": 8,
@@ -80,14 +136,14 @@
     },
     {
      "count": 7,
-     "path_id": 113996447,
-     "path": "studio/signup",
-     "event": true,
-     "title": "FGA Studio waitlist sign-up",
+     "path_id": 114317607,
+     "path": "/ideas/adaptive-reuse",
+     "event": false,
+     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
      "max": 1
     },
     {
-     "count": 6,
+     "count": 7,
      "path_id": 113996457,
      "path": "studio/details",
      "event": true,
@@ -95,7 +151,7 @@
      "max": 1
     },
     {
-     "count": 6,
+     "count": 7,
      "path_id": 113987976,
      "path": "building/indian-coffee-house",
      "event": true,
@@ -120,6 +176,14 @@
     },
     {
      "count": 6,
+     "path_id": 113751701,
+     "path": "/styles/postmodernism",
+     "event": false,
+     "title": "Postmodern architecture: 150 buildings with photos & plans",
+     "max": 2
+    },
+    {
+     "count": 6,
      "path_id": 112522110,
      "path": "/architects",
      "event": false,
@@ -128,18 +192,18 @@
     },
     {
      "count": 5,
+     "path_id": 115682236,
+     "path": "/buildings/the-egg-beirut",
+     "event": false,
+     "title": "The Egg (Beirut City Center) by Joseph Philippe Karam",
+     "max": 4
+    },
+    {
+     "count": 5,
      "path_id": 113753482,
      "path": "play/daily/4-of-5",
      "event": true,
      "title": "Daily five finished: 4 of 5 right",
-     "max": 2
-    },
-    {
-     "count": 5,
-     "path_id": 113751701,
-     "path": "/styles/postmodernism",
-     "event": false,
-     "title": "Postmodern architecture: 150 buildings with photos & plans",
      "max": 2
     },
     {
@@ -176,18 +240,18 @@
     },
     {
      "count": 4,
-     "path_id": 115682236,
-     "path": "/buildings/the-egg-beirut",
-     "event": false,
-     "title": "The Egg (Beirut City Center) by Joseph Philippe Karam",
-     "max": 4
+     "path_id": 116802640,
+     "path": "studio/screen/upload",
+     "event": true,
+     "title": "Studio \u00b7 screen \u00b7 upload",
+     "max": 1
     },
     {
      "count": 4,
-     "path_id": 114317607,
-     "path": "/ideas/adaptive-reuse",
-     "event": false,
-     "title": "Adaptive reuse architecture examples: 194 buildings & photos",
+     "path_id": 116802639,
+     "path": "studio/click/home/start",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 start",
      "max": 1
     },
     {
@@ -196,6 +260,14 @@
      "path": "/buildings/bolgatanga-library",
      "event": false,
      "title": "Bolgatanga Library by J. Max Bond Jr.: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 113963357,
+     "path": "/types/housing",
+     "event": false,
+     "title": "Housing architecture: 248 buildings with photos & plans",
      "max": 1
     },
     {
@@ -224,10 +296,34 @@
     },
     {
      "count": 4,
+     "path_id": 113703681,
+     "path": "/styles/brutalism",
+     "event": false,
+     "title": "Brutalist architecture: 249 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 4,
      "path_id": 113701535,
      "path": "building/jawahar-kala-kendra",
      "event": true,
      "title": "Jawahar Kala Kendra",
+     "max": 2
+    },
+    {
+     "count": 4,
+     "path_id": 113362426,
+     "path": "/buildings/castello-di-rivoli",
+     "event": false,
+     "title": "Castello di Rivoli by Andrea Bruno: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 4,
+     "path_id": 113298244,
+     "path": "building/cept-university",
+     "event": true,
+     "title": "CEPT University",
      "max": 2
     },
     {
@@ -240,11 +336,43 @@
     },
     {
      "count": 3,
+     "path_id": 117589084,
+     "path": "/buildings/national-stadium-singapore",
+     "event": false,
+     "title": "National Stadium, Singapore by Arup Associates",
+     "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 117212605,
+     "path": "studio/click/home/sec",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 sec",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 115466105,
+     "path": "/buildings/guggenheim-bilbao",
+     "event": false,
+     "title": "Guggenheim Bilbao by Frank Gehry: photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
      "path_id": 114378456,
      "path": "/buildings/spa-green-estate",
      "event": false,
      "title": "Spa Green Estate by Berthold Lubetkin: photos & key features",
      "max": 2
+    },
+    {
+     "count": 3,
+     "path_id": 114359515,
+     "path": "/buildings/tanzbrunnen-cologne",
+     "event": false,
+     "title": "Tanzbrunnen (Star Wave Tent) by Frei Otto: photos",
+     "max": 1
     },
     {
      "count": 3,
@@ -268,6 +396,22 @@
      "path": "/types/museums",
      "event": false,
      "title": "Museum architecture: 685 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113995400,
+     "path": "building/kanchanjunga-apartments",
+     "event": true,
+     "title": "Kanchanjunga Apartments",
+     "max": 1
+    },
+    {
+     "count": 3,
+     "path_id": 113993864,
+     "path": "building/jehangir-art-gallery",
+     "event": true,
+     "title": "Jehangir Art Gallery",
      "max": 1
     },
     {
@@ -325,14 +469,6 @@
      "event": false,
      "title": "Petrobras Headquarters (Edise) by Roberto Lu\u00eds Gandolfi",
      "max": 1
-    },
-    {
-     "count": 3,
-     "path_id": 113298244,
-     "path": "building/cept-university",
-     "event": true,
-     "title": "CEPT University",
-     "max": 2
     },
     {
      "count": 3,
@@ -464,10 +600,66 @@
     },
     {
      "count": 2,
+     "path_id": 117773942,
+     "path": "/buildings/fau-usp-building",
+     "event": false,
+     "title": "FAU-USP Building by Vilanova Artigas: photos & key features",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 117746848,
+     "path": "/buildings/esplanade-theatres-on-the-bay",
+     "event": false,
+     "title": "Esplanade - Theatres on the Bay by DP Architects: photos",
+     "max": 2
+    },
+    {
+     "count": 2,
+     "path_id": 117738040,
+     "path": "/buildings/one-chase-manhattan-plaza-28-liberty-street",
+     "event": false,
+     "title": "One Chase Manhattan Plaza (28 Liberty Street) by SOM: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 117583511,
+     "path": "/styles/high-tech",
+     "event": false,
+     "title": "High-tech architecture: 96 buildings with photos & plans",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 117474047,
+     "path": "/buildings/auditorium-niccolo-paganini",
+     "event": false,
+     "title": "Auditorium Niccol\u00f2 Paganini by Renzo Piano: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 116838040,
+     "path": "studio/click/home/home",
+     "event": true,
+     "title": "Studio \u00b7 click \u00b7 home \u00b7 home",
+     "max": 1
+    },
+    {
+     "count": 2,
      "path_id": 115569751,
      "path": "/buildings/teatro-degli-arcimboldi",
      "event": false,
      "title": "Teatro degli Arcimboldi by Vittorio Gregotti: photos",
+     "max": 1
+    },
+    {
+     "count": 2,
+     "path_id": 115515870,
+     "path": "/styles/parametric",
+     "event": false,
+     "title": "Parametric architecture: 52 buildings with photos & plans",
      "max": 1
     },
     {
@@ -613,226 +805,52 @@
      "event": false,
      "title": "Casa de Ferro (Iron House) by Joseph Danly: photos",
      "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114025180,
-     "path": "/buildings/new-gourna-village",
-     "event": false,
-     "title": "New Gourna Village by Hassan Fathy: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114018506,
-     "path": "building/hsbc-main-building",
-     "event": true,
-     "title": "HSBC Main Building",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 114003976,
-     "path": "building/palacio-salvo",
-     "event": true,
-     "title": "Palacio Salvo",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113996558,
-     "path": "/buildings/wall-less-house",
-     "event": false,
-     "title": "Wall-less House by Shigeru Ban, 1997: photos & key features",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 113995400,
-     "path": "building/kanchanjunga-apartments",
-     "event": true,
-     "title": "Kanchanjunga Apartments",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113994013,
-     "path": "building/gavina-showroom",
-     "event": true,
-     "title": "Gavina Showroom",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113993864,
-     "path": "building/jehangir-art-gallery",
-     "event": true,
-     "title": "Jehangir Art Gallery",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113993641,
-     "path": "book/form-space-and-order",
-     "event": true,
-     "title": "Architecture: Form, Space, and Order",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113992898,
-     "path": "building/seville-public-library",
-     "event": true,
-     "title": "Seville Public Library",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113992539,
-     "path": "building/swaminarayan-akshardham-gandhinagar",
-     "event": true,
-     "title": "Swaminarayan Akshardham, Gandhinagar",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113989971,
-     "path": "building/james-simon-gallery",
-     "event": true,
-     "title": "James Simon Gallery",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113989681,
-     "path": "building/parliament-of-sri-lanka",
-     "event": true,
-     "title": "Parliament of Sri Lanka",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113989013,
-     "path": "building/philippine-international-convention-center",
-     "event": true,
-     "title": "Philippine International Convention Center",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113988997,
-     "path": "building/kala-academy",
-     "event": true,
-     "title": "Kala Academy",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113987998,
-     "path": "building/quay-quarter-tower",
-     "event": true,
-     "title": "Quay Quarter Tower",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113986988,
-     "path": "building/toronto-dominion-centre",
-     "event": true,
-     "title": "Toronto-Dominion Centre",
-     "max": 2
-    },
-    {
-     "count": 2,
-     "path_id": 113976184,
-     "path": "/buildings/atira-ahmedabad",
-     "event": false,
-     "title": "ATIRA by Achyut Kanvinde, 1954: photos & key features",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113971369,
-     "path": "building/atira-ahmedabad",
-     "event": true,
-     "title": "ATIRA (Ahmedabad Textile Industry's Research Association)",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113963357,
-     "path": "/types/housing",
-     "event": false,
-     "title": "Housing architecture: 248 buildings with photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113955612,
-     "path": "/buildings/cathedral-of-saint-mary-of-the-assumption",
-     "event": false,
-     "title": "Cathedral of Saint Mary of the Assumption: photos & plans",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113955514,
-     "path": "building/zueblin-haus",
-     "event": true,
-     "title": "Z\u00fcblin-Haus",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113933403,
-     "path": "building/martin-luther-king-jr-memorial-library",
-     "event": true,
-     "title": "Martin Luther King Jr. Memorial Library",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113925721,
-     "path": "building/sheldon-museum-of-art",
-     "event": true,
-     "title": "Sheldon Museum of Art",
-     "max": 1
-    },
-    {
-     "count": 2,
-     "path_id": 113925138,
-     "path": "studio/ai-link",
-     "event": true,
-     "title": "AI panel: See FGA Studio",
-     "max": 1
     }
    ],
-   "total": 1008,
+   "total": 1191,
    "more": true
   },
   "referrers": {
    "stats": [
     {
      "name": "",
-     "count": 1052,
+     "count": 1148,
      "ref_scheme": "o"
     },
     {
      "id": "Google",
      "name": "Google",
-     "count": 350,
+     "count": 354,
      "ref_scheme": "g"
     },
     {
      "id": "chatgpt.com",
      "name": "chatgpt.com",
-     "count": 68,
+     "count": 106,
      "ref_scheme": "c"
+    },
+    {
+     "id": "www.linkedin.com",
+     "name": "www.linkedin.com",
+     "count": 63,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "com.linkedin.android",
+     "name": "com.linkedin.android",
+     "count": 25,
+     "ref_scheme": "o"
     },
     {
      "id": "ig",
      "name": "ig",
-     "count": 18,
+     "count": 19,
+     "ref_scheme": "c"
+    },
+    {
+     "id": "wall",
+     "name": "wall",
+     "count": 16,
      "ref_scheme": "c"
     },
     {
@@ -846,12 +864,6 @@
      "name": "gemini.google.com",
      "count": 12,
      "ref_scheme": "h"
-    },
-    {
-     "id": "wall",
-     "name": "wall",
-     "count": 12,
-     "ref_scheme": "c"
     },
     {
      "id": "gads",
@@ -878,14 +890,38 @@
      "ref_scheme": "c"
     },
     {
+     "id": "www.facebook.com",
+     "name": "www.facebook.com",
+     "count": 4,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "bing.com",
+     "name": "bing.com",
+     "count": 3,
+     "ref_scheme": "h"
+    },
+    {
      "id": "sentinal.dodopayments.com",
      "name": "sentinal.dodopayments.com",
      "count": 3,
      "ref_scheme": "h"
     },
     {
-     "id": "bing.com",
-     "name": "bing.com",
+     "id": "l.instagram.com",
+     "name": "l.instagram.com",
+     "count": 2,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "t.co",
+     "name": "t.co",
+     "count": 2,
+     "ref_scheme": "h"
+    },
+    {
+     "id": "chatgpt.com",
+     "name": "chatgpt.com",
      "count": 2,
      "ref_scheme": "h"
     },
@@ -908,14 +944,20 @@
      "ref_scheme": "o"
     },
     {
+     "id": "duckduckgo.com",
+     "name": "duckduckgo.com",
+     "count": 1,
+     "ref_scheme": "h"
+    },
+    {
      "id": "footer",
      "name": "footer",
      "count": 1,
      "ref_scheme": "c"
     },
     {
-     "id": "t.co",
-     "name": "t.co",
+     "id": "app.slidy.ai",
+     "name": "app.slidy.ai",
      "count": 1,
      "ref_scheme": "h"
     }
@@ -927,21 +969,21 @@
     {
      "id": "Chrome",
      "name": "Chrome",
-     "count": 1150
+     "count": 1341
     },
     {
      "id": "Safari",
      "name": "Safari",
-     "count": 661
+     "count": 749
     },
     {
      "id": "Firefox",
      "name": "Firefox",
-     "count": 24
+     "count": 28
     },
     {
      "name": "",
-     "count": 1
+     "count": 2
     }
    ],
    "more": false
@@ -951,27 +993,27 @@
     {
      "id": "Windows",
      "name": "Windows",
-     "count": 605
+     "count": 703
     },
     {
      "id": "iOS",
      "name": "iOS",
-     "count": 564
+     "count": 643
     },
     {
      "id": "Android",
      "name": "Android",
-     "count": 382
+     "count": 439
     },
     {
      "id": "macOS",
      "name": "macOS",
-     "count": 180
+     "count": 215
     },
     {
      "id": "Linux",
      "name": "Linux",
-     "count": 102
+     "count": 117
     },
     {
      "id": "Chrome OS",
@@ -990,12 +1032,12 @@
     {
      "id": "IN",
      "name": "India",
-     "count": 947
+     "count": 1115
     },
     {
      "id": "US",
      "name": "United States",
-     "count": 227
+     "count": 252
     },
     {
      "id": "DE",
@@ -1005,7 +1047,7 @@
     {
      "id": "GB",
      "name": "United Kingdom",
-     "count": 59
+     "count": 62
     },
     {
      "id": "IT",
@@ -1025,22 +1067,32 @@
     {
      "id": "CH",
      "name": "Switzerland",
-     "count": 29
+     "count": 31
     },
     {
      "id": "TR",
      "name": "Turkey",
-     "count": 29
+     "count": 31
     },
     {
      "id": "NL",
      "name": "Netherlands",
-     "count": 24
+     "count": 26
     },
     {
      "id": "CA",
      "name": "Canada",
-     "count": 20
+     "count": 21
+    },
+    {
+     "id": "ES",
+     "name": "Spain",
+     "count": 19
+    },
+    {
+     "id": "IR",
+     "name": "Iran",
+     "count": 19
     },
     {
      "id": "BE",
@@ -1048,19 +1100,14 @@
      "count": 18
     },
     {
-     "id": "ES",
-     "name": "Spain",
-     "count": 18
+     "id": "FR",
+     "name": "France",
+     "count": 17
     },
     {
      "id": "KR",
      "name": "South Korea",
      "count": 16
-    },
-    {
-     "id": "FR",
-     "name": "France",
-     "count": 15
     },
     {
      "id": "AE",
@@ -1078,6 +1125,21 @@
      "count": 12
     },
     {
+     "id": "EG",
+     "name": "Egypt",
+     "count": 11
+    },
+    {
+     "id": "MA",
+     "name": "Morocco",
+     "count": 11
+    },
+    {
+     "id": "JO",
+     "name": "Hashemite Kingdom of Jordan",
+     "count": 10
+    },
+    {
      "id": "KZ",
      "name": "Kazakhstan",
      "count": 10
@@ -1093,9 +1155,24 @@
      "count": 9
     },
     {
+     "id": "PH",
+     "name": "Philippines",
+     "count": 9
+    },
+    {
      "id": "TN",
      "name": "Tunisia",
      "count": 9
+    },
+    {
+     "id": "UA",
+     "name": "Ukraine",
+     "count": 9
+    },
+    {
+     "id": "GR",
+     "name": "Greece",
+     "count": 8
     },
     {
      "id": "ID",
@@ -1113,23 +1190,13 @@
      "count": 8
     },
     {
-     "id": "UA",
-     "name": "Ukraine",
+     "id": "RU",
+     "name": "Russia",
      "count": 8
-    },
-    {
-     "id": "GR",
-     "name": "Greece",
-     "count": 7
     },
     {
      "id": "PK",
      "name": "Pakistan",
-     "count": 7
-    },
-    {
-     "id": "RU",
-     "name": "Russia",
      "count": 7
     },
     {
@@ -1143,6 +1210,11 @@
      "count": 6
     },
     {
+     "id": "DZ",
+     "name": "Algeria",
+     "count": 6
+    },
+    {
      "id": "FI",
      "name": "Finland",
      "count": 6
@@ -1153,23 +1225,18 @@
      "count": 6
     },
     {
-     "id": "PH",
-     "name": "Philippines",
-     "count": 6
-    },
-    {
      "id": "RO",
      "name": "Romania",
      "count": 6
     },
     {
-     "id": "DO",
-     "name": "Dominican Republic",
+     "id": "CO",
+     "name": "Colombia",
      "count": 5
     },
     {
-     "id": "DZ",
-     "name": "Algeria",
+     "id": "DO",
+     "name": "Dominican Republic",
      "count": 5
     },
     {
@@ -1178,13 +1245,33 @@
      "count": 5
     },
     {
+     "id": "HU",
+     "name": "Hungary",
+     "count": 5
+    },
+    {
+     "id": "IQ",
+     "name": "Iraq",
+     "count": 5
+    },
+    {
      "id": "MY",
      "name": "Malaysia",
      "count": 5
     },
     {
-     "id": "JO",
-     "name": "Hashemite Kingdom of Jordan",
+     "id": "AR",
+     "name": "Argentina",
+     "count": 4
+    },
+    {
+     "id": "HK",
+     "name": "Hong Kong",
+     "count": 4
+    },
+    {
+     "id": "IE",
+     "name": "Ireland",
      "count": 4
     },
     {
@@ -1213,11 +1300,6 @@
      "count": 3
     },
     {
-     "id": "AR",
-     "name": "Argentina",
-     "count": 3
-    },
-    {
      "id": "CL",
      "name": "Chile",
      "count": 3
@@ -1228,23 +1310,18 @@
      "count": 3
     },
     {
-     "id": "HK",
-     "name": "Hong Kong",
-     "count": 3
-    },
-    {
-     "id": "IE",
-     "name": "Ireland",
-     "count": 3
-    },
-    {
      "id": "IL",
      "name": "Israel",
      "count": 3
     },
     {
-     "id": "IR",
-     "name": "Iran",
+     "id": "LY",
+     "name": "Libya",
+     "count": 3
+    },
+    {
+     "id": "MK",
+     "name": "North Macedonia",
      "count": 3
     },
     {
@@ -1253,18 +1330,18 @@
      "count": 3
     },
     {
+     "id": "TH",
+     "name": "Thailand",
+     "count": 3
+    },
+    {
+     "id": "AD",
+     "name": "Andorra",
+     "count": 2
+    },
+    {
      "id": "AM",
      "name": "Armenia",
-     "count": 2
-    },
-    {
-     "id": "CO",
-     "name": "Colombia",
-     "count": 2
-    },
-    {
-     "id": "EG",
-     "name": "Egypt",
      "count": 2
     },
     {
@@ -1283,8 +1360,8 @@
      "count": 2
     },
     {
-     "id": "TH",
-     "name": "Thailand",
+     "id": "PS",
+     "name": "Palestine",
      "count": 2
     },
     {
@@ -1328,28 +1405,18 @@
      "count": 1
     },
     {
-     "id": "HU",
-     "name": "Hungary",
-     "count": 1
-    },
-    {
      "id": "LT",
      "name": "Republic of Lithuania",
      "count": 1
     },
     {
-     "id": "MA",
-     "name": "Morocco",
-     "count": 1
-    },
-    {
-     "id": "MK",
-     "name": "North Macedonia",
-     "count": 1
-    },
-    {
      "id": "MU",
      "name": "Mauritius",
+     "count": 1
+    },
+    {
+     "id": "OM",
+     "name": "Oman",
      "count": 1
     },
     {
@@ -1363,8 +1430,28 @@
      "count": 1
     },
     {
+     "id": "SA",
+     "name": "Saudi Arabia",
+     "count": 1
+    },
+    {
+     "id": "UZ",
+     "name": "Uzbekistan",
+     "count": 1
+    },
+    {
+     "id": "VE",
+     "name": "Venezuela",
+     "count": 1
+    },
+    {
      "id": "XK",
      "name": "Kosovo",
+     "count": 1
+    },
+    {
+     "id": "ZM",
+     "name": "Zambia",
      "count": 1
     }
    ],
@@ -1375,22 +1462,22 @@
     {
      "id": "phone",
      "name": "",
-     "count": 935
+     "count": 1071
     },
     {
      "id": "tablet",
      "name": "",
-     "count": 52
+     "count": 54
     },
     {
      "id": "desktop",
      "name": "",
-     "count": 780
+     "count": 920
     },
     {
      "id": "desktophd",
      "name": "",
-     "count": 69
+     "count": 75
     },
     {
      "id": "unknown",
@@ -1405,7 +1492,7 @@
     {
      "id": "(unknown)",
      "name": "(unknown)",
-     "count": 1836
+     "count": 2120
     }
    ],
    "more": false
