@@ -1000,3 +1000,12 @@ body.mapped { overflow: hidden; }
   .mode .ml-long { display: none; }
   .mode .ml-short { display: inline; }
 }
+
+/* All four tabs are one control, so they take one type size. It is set here, in one place, for the buttons and the
+   AI link together: an older rule, `.ideas .mode button`, set only the buttons and so beat anything less specific,
+   which left the three walls at 14px and the AI tab at 11px on a phone. These selectors match its weight. */
+.ideas .mode > button, .ideas .mode > a { font-size: 14px; font-weight: 600; }
+.ideas .mode > button .ml, .ideas .mode > a .ml { font-size: inherit; font-weight: inherit; }
+@media (max-width: 820px) {
+  .ideas .mode > button, .ideas .mode > a { font-size: 12.5px; }
+}
