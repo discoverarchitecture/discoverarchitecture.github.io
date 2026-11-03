@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build_pages as bp
 
 SRC = Path(__file__).resolve().parent / 'guides'
-OUT = bp.SITE / 'guides'
+OUT = bp.SITE / 'guides'  # the same folders whichever copy of build_pages is used
 SAMPLE = bp.SITE / 'studio' / 'sample'
 
 
@@ -90,7 +90,11 @@ def index(guides):
     return head + f'<main class="guide"><h1>Guides</h1><ul class="guide-list">{items}</ul></main>\n' + bp.FOOT.format(up=up)
 
 
-def build():
+def build(mod=None):
+    """Called by build_pages.main() with its own module, so the pages share its fingerprints and footer."""
+    global bp
+    if mod is not None:
+        bp = mod
     guides = load()
     for g in guides:
         (OUT / g['slug']).mkdir(parents=True, exist_ok=True)

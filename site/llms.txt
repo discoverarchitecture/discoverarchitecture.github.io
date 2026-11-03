@@ -17,6 +17,12 @@ on every page. No sign-up and no paywall for the wall.
 - [Pricing](https://findgreatarchitecture.com/pricing/)
 - [Terms](https://findgreatarchitecture.com/terms/), [Privacy](https://findgreatarchitecture.com/privacy/), [Refunds](https://findgreatarchitecture.com/refunds/), [Contact](https://findgreatarchitecture.com/contact/)
 
+## Guides
+
+- [How to make an A1 architecture presentation board](https://findgreatarchitecture.com/guides/a1-presentation-board/):
+  a step-by-step guide by an architect (one idea, one hero image, reading order, grid, clean drawings, short text, white
+  space, an A3 check), with a real student project before and after, and answers to common questions (A1 is 594 × 841 mm).
+
 ## Browse buildings
 
 - [The wall](https://findgreatarchitecture.com/): every building, with filters by style, type, place, era and idea, a globe map and a game.
