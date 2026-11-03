@@ -1321,11 +1321,6 @@
     qTimer = setTimeout(() => { state.q = fold(e.target.value.trim()); render(true); }, 160);
   });
 
-  const counts = key => {
-    const c = new Map();
-    ALL.forEach(b => values(b, key).forEach(v => c.set(v, (c.get(v) || 0) + 1)));
-    return c;
-  };
   function renderIdeas() {
     if (state.mode === 'films') {
       const n = new Map(); FILMS.forEach(f => (f.genres || []).forEach(g => n.set(g, (n.get(g) || 0) + 1)));
@@ -1339,11 +1334,10 @@
         `<button type="button" class="idea" aria-pressed="${state.shelf === v}" data-shelf="${esc(v)}">${esc(v)} <small>${n.get(v)}</small></button>`).join('');
       return;
     }
-    const c = counts('concepts');
-    const top = [...c.entries()].filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).map(([v]) => v);
-    const on = state.filters.concepts;
-    $('ideasList').innerHTML = `<span class="lead">Browse by idea</span>` + top.map(v =>
-      `<button type="button" class="idea" aria-pressed="${on.has(v)}" data-v="${esc(v)}">${esc(v)}</button>`).join('');
+    // The buildings wall's idea keywords left this row (owner, 3 Nov 2026): the wall starts right under the tabs,
+    // and every idea is one tap away in the Filter panel, which already lists them grouped and counted. Books keep
+    // their shelves here and Documentaries their genres, because those are each wall's only way to browse.
+    $('ideasList').innerHTML = '';
   }
   $('ideas').addEventListener('click', e => {
     const t = e.target.closest('.idea'); if (!t) return;
