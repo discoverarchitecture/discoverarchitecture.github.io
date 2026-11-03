@@ -5,8 +5,9 @@
 # Check it any time: Actions tab -> "Fetch analytics" -> Run workflow.
 name: Fetch analytics
 on:
-  schedule:
-    - cron: '7 */6 * * *'  # 00:07, 06:07, 12:07 and 18:07 UTC; the dashboard routine runs an hour later (see tools/analytics_dashboard_data.py)
+  # Paused by the owner on 28 Oct 2026 (tools/paused_schedules.md). To resume, uncomment these two lines:
+  # schedule:
+  #   - cron: '7 */6 * * *'  # 00:07, 06:07, 12:07 and 18:07 UTC; the dashboard routine runs an hour later (see tools/analytics_dashboard_data.py)
   workflow_dispatch:
 permissions:
   contents: write

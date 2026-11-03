@@ -1,0 +1,28 @@
+# Writes tools/seo/index_keep.txt (the building pages Google may index) from Search Console, on GitHub's servers.
+# Runs when tools/index_keep.py changes on a claude/noindex-* branch, or by hand.
+name: Index keep list
+on:
+  push:
+    branches: ['claude/noindex-*']
+    paths: ['tools/index_keep.py']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  keep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Ask Search Console
+        env:
+          GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
+        run: pip -q install cryptography && python3 -u tools/index_keep.py
+      - name: Commit the list
+        run: |
+          git add tools/seo/index_keep.txt
+          if git diff --cached --quiet; then echo "No change."; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Index keep list from Search Console"
+          git push -q

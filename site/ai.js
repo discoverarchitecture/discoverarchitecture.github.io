@@ -1,5 +1,5 @@
 /* Find Great Architecture: the AI jury presentation generator button in every page's top bar (owner, 24 Oct 2026; the wall has
-   its own in app.js). On a computer it goes straight to FGA Studio (/studio/); on a phone it opens the same sheet as on the
+   its own in app.js). On a computer it goes straight to Studio FGA (/studio/); on a phone it opens the same sheet as on the
    wall, from the bottom, which leads there. Pressing it is counted as studio/ai-button and following the sheet's link as
    studio/ai-link, as on the wall; the address says which kind of page it was pressed on (?ref=building, architect, hub,
    game or page). Styles in ai.css. */
@@ -23,15 +23,15 @@
     pop.innerHTML =
       '<button type="button" class="ai-close" aria-label="Close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>' +
       '<div class="ai-head">' + SPARK + '<h2 id="aiTitle">AI Jury Presentation Generator</h2></div>' +
-      '<p class="ai-soon">FGA Studio · November 2026</p>' +
+      '<p class="ai-soon">Studio FGA · Live now</p>' +
       '<img class="ai-board" src="' + up + 'studio/board.webp" alt="A sample A1 jury board of the Salk Institute, made for this preview" width="600" height="849" loading="lazy">' +
       '<p class="ai-text">You design; it presents. Upload your drawings, name the ideas your board must explain, and get a professional-grade jury board and editable deck.</p>' +
       '<ul class="ai-list"><li>Concept diagrams you guide</li><li>A1, A0 and 24 × 36 in boards</li><li>Editable PowerPoint and PDF</li></ul>' +
-      '<a class="ai-go" href="' + url + '">See FGA Studio <span aria-hidden="true">→</span></a>' +
-      '<p class="ai-fine">Free preview first · join the waitlist for a launch discount</p>' +
+      '<a class="ai-go" href="' + url + '">See Studio FGA <span aria-hidden="true">→</span></a>' +
+      '<p class="ai-fine">Free preview first · pay once from $11</p>' +
       '<p class="ai-fine ai-legal"><a href="' + up + 'pricing/">Pricing</a> · <a href="' + up + 'terms/">Terms</a> · <a href="' + up + 'refunds/">Refunds</a> · <a href="' + up + 'privacy/">Privacy</a> · <a href="' + up + 'contact/">Contact</a></p>';
     document.body.appendChild(veil); document.body.appendChild(pop);
-    pop.querySelector('.ai-go').addEventListener('click', function () { count('studio/ai-link', 'AI panel: See FGA Studio'); });
+    pop.querySelector('.ai-go').addEventListener('click', function () { count('studio/ai-link', 'AI panel: See Studio FGA'); });
     pop.querySelector('.ai-close').addEventListener('click', function () { show(false); if (from) from.focus(); });
     veil.addEventListener('click', function () { show(false); });
   }
