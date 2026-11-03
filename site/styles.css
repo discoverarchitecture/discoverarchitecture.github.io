@@ -28,7 +28,7 @@ a { color: var(--ink); }
 .search input::placeholder { color: var(--graphite); }
 .count { font-family: var(--mono); font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--graphite); white-space: nowrap; }
 
-.ideas { display: flex; gap: 6px; align-items: center; overflow-x: auto; scrollbar-width: none; }
+.ideas { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; overflow-x: auto; scrollbar-width: none; }
 .ideas::-webkit-scrollbar { display: none; }
 .ideas .lead { flex: none; font: 500 11px var(--mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--graphite); padding-right: 6px; }
 .idea { all: unset; flex: none; cursor: pointer; padding: 7px 12px; font-size: 13px; font-weight: 600; border: 1px solid var(--hair); border-radius: var(--r); background: var(--surface); white-space: nowrap; transition: color .15s ease, border-color .15s ease; }
@@ -980,8 +980,14 @@ body.mapped { overflow: hidden; }
    it is an <a> and never takes aria-pressed. On a computer each tab is a row of icon then label; at phone width the
    four share the width as equal tiles, icon above the label, so all four are visible without the row scrolling. */
 .mode-ai { all: unset; box-sizing: border-box; cursor: pointer; height: 36px; padding: 0 12px; border: 1px solid transparent;
-  border-radius: 7px; display: inline-flex; align-items: center; gap: 7px; font-size: 14px; font-weight: 600;
+  border-radius: 7px; display: inline-flex; align-items: center; justify-content: center; gap: 7px; font-size: 14px; font-weight: 600;
   color: var(--graphite); text-decoration: none; transition: color .15s ease; }
+/* The four tabs share the whole row as equal boxes, so no empty space is left beside them (owner, 3 Nov 2026).
+   On Books and Documentaries the shelves and genres drop to the line below, rather than being squeezed. */
+.mode { width: 100%; flex: none; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 2px; }
+.mode .mode-line { display: none; }
+.mode button, .mode-ai { justify-content: center; }
+.mode .ml { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 @media (hover: hover) { .mode-ai:hover { color: var(--red); } }
 .mode-ai:focus-visible { outline: 3px solid var(--red); outline-offset: -3px; }
 .mode .ml-short { display: none; }
