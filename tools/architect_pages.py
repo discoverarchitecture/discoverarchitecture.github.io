@@ -233,6 +233,14 @@ def books_for(bp, key, nm, books):
     return mine[:6]
 
 
+def films_for(bp, key, nm, films):
+    """Documentaries about this architect: the ones naming them first, then the rest, newest first."""
+    mine = [f for f in films if key in {nm.canon(a) for a in f.get('architects') or []}]
+    surname = key.split()[-1].lower()
+    mine.sort(key=lambda f: (surname not in f['title'].lower(), -(f.get('y') or 0)))
+    return mine[:6]
+
+
 def title_for(bp, name, drawings):
     what = 'photos, plans & key works' if drawings else 'photos & key works'
     for o in (f'{name} buildings: {what} · {bp.NAME}', f'{name} buildings: {what}', f'{name} buildings and projects', f'{name} buildings', name):
@@ -406,6 +414,14 @@ def page(bp, plans, key, ctx):
          else f'<span class="standin">{bp.e(b["title"].split(":")[0])}</span>') +
         f'</span><span class="bt">{bp.e(b["title"])}<small>{bp.e(b["by"])}, {bp.e(b["year"])}</small></span></a>' for b in bks)
     books = f'<section class="blk"><h2>Books to read</h2><div class="books">{bk}</div></section>' if bk else ''
+    # Documentaries about this architect. Set in type, because a film's poster is somebody's copyright and the
+    # shelf has no licensed one; hidden when nothing matches, as the books block is.
+    fls = films_for(bp, key, ctx['nm'], ctx.get('films') or [])
+    fl = ''.join(
+        f'<a class="fk" href="{up}documentaries/{bp.e(f["slug"])}/"><span class="g">{bp.e((f.get("genres") or [""])[0])}</span>'
+        f'<b>{bp.e(f["title"])}</b><small>{bp.e(", ".join(f.get("director") or []))}{(" · " + bp.e(str(f["year"]))) if f.get("year") else ""}</small></a>'
+        for f in fls)
+    films = f'<section class="blk"><h2>Documentaries</h2><div class="films">{fl}</div></section>' if fl else ''
     sim = similar(plans, key) if len(plans) > 1 else []
     simh = (f'<section class="blk"><h2>Similar architects</h2><p class="sim">' +
             ' · '.join(f'<a href="{up}architects/{plans[k]["slug"]}/">{bp.e(k)}</a>' for k in sim) +
@@ -438,7 +454,7 @@ def page(bp, plans, key, ctx):
         f'<h1>{bp.e(name)}</h1><p class="facts">{bp.e(facts)}</p>'
         f'<div class="bio"><p>{bp.e(paras[0])}</p>{more}</div>'
         f'<a class="cta" href="#buildings">See the {n} buildings ↓</a>'
-        f'{links}{books}{simh}</aside>\n'
+        f'{links}{books}{films}{simh}</aside>\n'
         f'<section class="wallpane" id="buildings"><div class="whead"><h2>{bp.e(name)} buildings <span><span id="shown">{n}</span></span></h2>'
         f'<div class="sorts"><span>Sort</span>{sorts}</div></div>{kw}'
         f'<div class="cols">{grid}</div>'
@@ -470,6 +486,7 @@ def build(bp, items):
         return nm, plans
     import worth_swipe
     ctx = {'swipe': set(worth_swipe.chosen()), 'nm': nm, 'books': bp.read_js('books.js', 'BOOKS') or [],
+           'films': bp.read_js('films.js', 'FILMS') or [],
            'people': (bp.read_js('architects.js', 'ARCHITECTS') or {}).get('people', {}), 'reading': load_reading(),
            'founders': {k: v for k, v in json.loads((ROOT / 'tools' / 'portraits_founders.json').read_text(encoding='utf-8')).items() if not k.startswith('_')}}
     keep = set()

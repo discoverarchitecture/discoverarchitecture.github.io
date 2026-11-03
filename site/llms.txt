@@ -24,6 +24,9 @@ on every page. No sign-up and no paywall for the wall.
 - [Architects](https://findgreatarchitecture.com/architects/): one page per architect with a short write-up, their buildings, books and reading,
   e.g. [Zaha Hadid](https://findgreatarchitecture.com/architects/zaha-hadid/).
 - [Guess the building](https://findgreatarchitecture.com/play/): a daily architecture quiz.
+- [Documentaries](https://findgreatarchitecture.com/documentaries/): films about architects, buildings and cities, each with
+  what it is about in one sourced line, where to look for it, and the buildings on the wall it shows,
+  e.g. [My Architect](https://findgreatarchitecture.com/documentaries/my-architect/).
 
 ## Styles
 

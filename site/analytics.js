@@ -31,12 +31,13 @@
     try { id = decodeURIComponent((location.hash || '').slice(1)); } catch (e) { return; }
     if (!id) { last = ''; return; }
     if (id === last) return;
-    var isBook = id.indexOf('book:') === 0, key = isBook ? id.slice(5) : id;
-    var list = (isBook ? window.BOOKS : window.BUILDINGS) || [], item = null;
+    var isBook = id.indexOf('book:') === 0, isFilm = id.indexOf('film:') === 0;
+    var key = (isBook || isFilm) ? id.slice(5) : id;
+    var list = (isBook ? window.BOOKS : isFilm ? window.FILMS : window.BUILDINGS) || [], item = null;
     for (var i = 0; i < list.length; i++) if (list[i].id === key) { item = list[i]; break; }
-    if (!item) return;  // not a building or book (a filter, say)
+    if (!item) return;  // not a building, book or film (a filter, say)
     last = id;
-    window.fgaEvent((isBook ? 'book/' : 'building/') + key, item.name || item.title || key);
+    window.fgaEvent((isBook ? 'book/' : isFilm ? 'film/' : 'building/') + key, item.name || item.title || key);
   }
   ['pushState', 'replaceState'].forEach(function (name) {
     var original = history[name];

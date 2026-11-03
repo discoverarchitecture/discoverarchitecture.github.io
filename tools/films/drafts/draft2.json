@@ -1,0 +1,342 @@
+[
+ {
+  "qid": "Q7746208",
+  "title": "The Last Wright: Frank Lloyd Wright and the Park Inn Hotel",
+  "verdict": "keep",
+  "why": "The only surviving hotel by Frank Lloyd Wright is the subject.",
+  "genres": [
+   "Building story"
+  ],
+  "kind": "feature",
+  "summary": "A 2008 documentary about the only surviving hotel designed by Frank Lloyd Wright, the Park Inn Hotel.",
+  "summary_quote": "The Last Wright is a 2008 American documentary film which focuses on the only surviving hotel designed by Frank Lloyd Wright, the Park Inn Hotel.",
+  "architects_mentioned": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings_mentioned": [
+   "Park Inn Hotel",
+   "City National Bank",
+   "Solomon R. Guggenheim Museum",
+   "Lowell E. Walter House (Cedar Rock)"
+  ]
+ },
+ {
+  "qid": "Q3700510",
+  "title": "Ai Weiwei: Never Sorry",
+  "verdict": "reject",
+  "why": "About the artist and activist Ai Weiwei, not architecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2012 documentary about the Chinese artist and activist Ai Weiwei, directed by Alison Klayman.",
+  "summary_quote": "is a 2012 documentary film about Chinese artist and activist Ai Weiwei, directed by American filmmaker Alison Klayman.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q821252",
+  "title": "Berlin Babylon",
+  "verdict": "keep",
+  "why": "Berlin's rebuilding after the Wall, with Koolhaas, Piano and Pei.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 2001 documentary on the extensive rebuilding projects in Berlin after the fall of the Berlin Wall.",
+  "summary_quote": "The film's main focus is on the extensive rebuilding projects in Berlin after the fall of the Berlin Wall.",
+  "architects_mentioned": [
+   "Rem Koolhaas",
+   "Renzo Piano",
+   "I.M. Pei"
+  ],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q16954814",
+  "title": "Cairo Drive",
+  "verdict": "reject",
+  "why": "About Cairo's traffic and the drivers on its roads, not architecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A documentary on Cairo's chaotic traffic and how people navigate its roads.",
+  "summary_quote": "The film explores Cairo's chaotic traffic and illustrates the ways in which individuals navigate its hectic roads, unspoken rules, and 14 million vehicles.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q5123702",
+  "title": "City of Gold",
+  "verdict": "keep",
+  "why": "The gold-rush town of Dawson City is the subject; 22 minutes.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 1957 documentary by Colin Low and Wolf Koenig, chronicling Dawson City during the Klondike Gold Rush.",
+  "summary_quote": "City of Gold is a 1957 Canadian documentary film by Colin Low and Wolf Koenig, chronicling Dawson City during the Klondike Gold Rush.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3795184",
+  "title": "De brug",
+  "verdict": "reject",
+  "why": "11 minutes, under the 20-minute limit; not a lecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A silent film that explores the Koningshaven Bridge in Rotterdam, an elevator railway bridge.",
+  "summary_quote": "This silent film explores the then-newly constructed Koningshaven Bridge in Rotterdam, an elevator railway bridge.",
+  "architects_mentioned": [],
+  "buildings_mentioned": [
+   "Koningshaven Bridge"
+  ]
+ },
+ {
+  "qid": "Q3284859",
+  "title": "Douro, Faina Fluvial",
+  "verdict": "reject",
+  "why": "18 minutes, under the 20-minute limit; about Porto and its river labour.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A portrait of Porto and the labour and industry along the Douro River.",
+  "summary_quote": "is a portrait of his hometown of Porto and the labor and industry that takes place along the city's main river, the Douro River.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q124336059",
+  "title": "Exergue – on documenta 14",
+  "verdict": "reject",
+  "why": "About an art exhibition and its director, not architecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A film about Adam Szymczyk and his team as they prepared the contemporary art exhibition Documenta 14.",
+  "summary_quote": "The film centers on Adam Szymczyk, the artistic director of Documenta 14, and his team as they prepared for the contemporary art exhibition, which was held in Kassel and Athens in 2017.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q5569642",
+  "title": "Glimpses/Impressions",
+  "verdict": "reject",
+  "why": "5 min 20 s, under the 20-minute limit; made for the Canadian pavilion at Expo 2010.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A short film showing 24 hours in an imaginary urban centre, created from composite images of Canadian cities.",
+  "summary_quote": "The 5 minute 20 second-long film depicts 24 hours in the life of an imaginary urban centre, created from composite images from major Canadian cities.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q18150985",
+  "title": "If You Build It",
+  "verdict": "keep",
+  "why": "High-school students design and build a farmers' market pavilion.",
+  "genres": [
+   "Building story",
+   "Design process"
+  ],
+  "kind": "feature",
+  "summary": "A documentary following a year in a design-based high school program, from design to the sixteen-week build of a farmer's market pavilion.",
+  "summary_quote": "The documentary follows a year in the life of an innovative, design-based high school program, culminating with the design and sixteen-week construction of a farmer's market pavilion, the only farmers market pavilion in the U.S. designed and built by high school students.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q6494420",
+  "title": "Last House Standing",
+  "verdict": "reject",
+  "why": "Mostly Uncle Jiang's life and memories; his 1930s mansion is the setting.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "An interview film with 'Uncle Jiang' about his reluctance to sell his 1930s mansion in Shanghai.",
+  "summary_quote": "Last House Standing (Fang dong jiang xian sheng) is a documentary filmed in Shanghai featuring interviews of \"Uncle Jiang\" about his reluctance to sell his 1930s mansion in a district zoned for demolition.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q2238172",
+  "title": "Maya Lin: A Strong Clear Vision",
+  "verdict": "reject",
+  "why": "About the artist Maya Lin; the extract calls her an artist, not an architect. Reconsider if sourced.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A documentary about the life of the American artist Maya Lin, whose best-known work is the Vietnam Veterans Memorial.",
+  "summary_quote": "It explores the life of American artist Maya Lin, whose best-known work is the Vietnam Veterans Memorial in Washington, D.C.",
+  "architects_mentioned": [],
+  "buildings_mentioned": [
+   "Vietnam Veterans Memorial"
+  ]
+ },
+ {
+  "qid": "Q12126268",
+  "title": "Morning in the Streets",
+  "verdict": "reject",
+  "why": "People and street life in a northern city; buildings are not the subject.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "An impression of life and opinion in the back streets of a northern city in the morning.",
+  "summary_quote": "The documentary was described simply as \"an impression of life and opinion in the back streets of a northern city in the morning\".",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3870328",
+  "title": "Napoli, Napoli, Napoli",
+  "verdict": "reject",
+  "why": "About Naples' problems, not its buildings.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2009 documentary by Abel Ferrara about the problems in early 21st century Naples.",
+  "summary_quote": "Napoli, Napoli, Napoli is a 2009 documentary film directed by Abel Ferrara about the problems in early 21st century Naples.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q7091488",
+  "title": "On the Road: A Document",
+  "verdict": "reject",
+  "why": "No sourced line: the extract gives only the title, year and director.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 1964 Japanese documentary by Noriaki Tsuchimoto; the extract does not say what it covers.",
+  "summary_quote": "is a 1964 Japanese documentary film directed by Noriaki Tsuchimoto.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q104906978",
+  "title": "Putin's Palace",
+  "verdict": "reject",
+  "why": "A corruption investigation; the palace is the evidence, not the architectural subject.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2021 documentary by the Anti-Corruption Foundation that investigates a residence commonly known as 'Putin's Palace' and an alleged corruption scheme.",
+  "summary_quote": "The film investigates the residence commonly known as \"Putin's Palace\" that it claims was constructed for Russian president Vladimir Putin and details a corruption scheme allegedly headed by Putin involving the construction of the palace.",
+  "architects_mentioned": [],
+  "buildings_mentioned": [
+   "Putin's Palace"
+  ]
+ },
+ {
+  "qid": "Q7445569",
+  "title": "See You at the Pillar",
+  "verdict": "reject",
+  "why": "Short film with no runtime in the sources; the extract says only that it is about Dublin.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 1967 British short documentary about Dublin, directed and written by Peter Bayliss.",
+  "summary_quote": "See You at the Pillar is a 1967 British short documentary film about Dublin directed and written by Peter Bayliss.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q2228783",
+  "title": "Souls of Naples",
+  "verdict": "reject",
+  "why": "About the people and society of Naples, not its buildings.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A documentary covering the many aspects of Neapolitan society.",
+  "summary_quote": "The film covers the many aspects of the diverse and socially terraced Neapolitan society and is filmed primarily in local dialects and Italian.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q7665206",
+  "title": "Sábado de mierda",
+  "verdict": "reject",
+  "why": "About punk gangs in a Mexico City suburb, not architecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A film about the lives of punk gangs in a suburb of Mexico City.",
+  "summary_quote": "The film is one of four independent films of the 1985–1991 period focusing on the lives of punk gangs in the Ciudad Nezahualcóyotl (\"Neza York\") suburb of Mexico City.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3282385",
+  "title": "The Architecture of Doom",
+  "verdict": "reject",
+  "why": "No sourced line: the extract gives only the title, director and narrator.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 1989 documentary by Peter Cohen, narrated by Rolf Arsenius; the extract does not say what it covers.",
+  "summary_quote": "The Architecture of Doom (Swedish: Undergångens arkitektur) is a 1989 documentary by Swedish director Peter Cohen and narrated by Rolf Arsenius.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q7729654",
+  "title": "The Delhi Way",
+  "verdict": "keep",
+  "why": "The city of Delhi is the subject; 50 minutes.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 1964 documentary about the city of Delhi, made by James Ivory.",
+  "summary_quote": "The Delhi Way is a 1964 documentary about Delhi produced, written, photographed and directed by James Ivory.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q108293356",
+  "title": "The Lost Leonardo",
+  "verdict": "reject",
+  "why": "About a painting and its sales; Leonardo is a painter, not an architect.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A documentary following the discovery and successive sales of the painting Salvator Mundi.",
+  "summary_quote": "It follows the discovery and successive sales of the painting the Salvator Mundi, allegedly a work by Leonardo da Vinci, an artist for whom there are only a few attributed works in existence.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q17088834",
+  "title": "The Vision of Paolo Soleri: Prophet in the Desert",
+  "verdict": "keep",
+  "why": "A portrait of the architect Paolo Soleri.",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "kind": "feature",
+  "summary": "A 2013 documentary about the life and work of the late architect and environmentalist Paolo Soleri.",
+  "summary_quote": "The Vision of Paolo Soleri: Prophet in the Desert is a 2013 American documentary film about the life and work of the late Italian architect and environmentalist Paolo Soleri.",
+  "architects_mentioned": [
+   "Paolo Soleri"
+  ],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q7884350",
+  "title": "Unfinished Spaces",
+  "verdict": "keep",
+  "why": "The design, fall and restoration of Cuba's National Art Schools.",
+  "genres": [
+   "Building story"
+  ],
+  "kind": "feature",
+  "summary": "A documentary on the story of the art schools in Cuba, from their founding to their ruin and recent efforts to restore them.",
+  "summary_quote": "The film tells the dramatic story of the art schools from their founding by Fidel Castro and Che Guevara to their eventual abandonment and fall into ruin and recent efforts to restore them.",
+  "architects_mentioned": [
+   "Ricardo Porro",
+   "Roberto Gottardi",
+   "Vittorio Garatti"
+  ],
+  "buildings_mentioned": [
+   "National Art Schools (Cuba)"
+  ]
+ },
+ {
+  "qid": "Q23755376",
+  "title": "Why Beauty Matters",
+  "verdict": "reject",
+  "why": "About beauty as an idea; architecture is only a Wikidata subject, not the extract's focus.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A documentary in which the philosopher Roger Scruton argues for the importance of beauty.",
+  "summary_quote": "Scruton argues for the importance and transcendental nature of beauty.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ }
+]

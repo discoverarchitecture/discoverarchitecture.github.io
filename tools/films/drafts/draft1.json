@@ -1,0 +1,364 @@
+[
+ {
+  "qid": "Q4776652",
+  "title": "Antonio Gaudi",
+  "verdict": "keep",
+  "why": "Teshigahara visits Gaudí's buildings in Barcelona and the Sagrada Família.",
+  "genres": [
+   "Portrait of an architect",
+   "Building story"
+  ],
+  "kind": "feature",
+  "summary": "A documentary by Hiroshi Teshigahara in which the director visits Antoni Gaudí's buildings, including houses in Barcelona and the Sagrada Família.",
+  "summary_quote": "In the film the director visits the buildings including houses in Barcelona and the Sagrada Família.",
+  "architects_mentioned": [
+   "Antoni Gaudí"
+  ],
+  "buildings_mentioned": [
+   "Sagrada Família"
+  ]
+ },
+ {
+  "qid": "Q17150226",
+  "title": "Ai Weiwei The Fake Case",
+  "verdict": "reject",
+  "why": "About the artist Ai Weiwei's fake tax case and 81-day detention, not architecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A documentary about the artist Ai Weiwei and the fake tax case the Chinese government brought against him.",
+  "summary_quote": "The documentary explores Ai Weiwei's battle against the fake tax case thrust on him by the Chinese government",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q4870181",
+  "title": "Battle for the City",
+  "verdict": "keep",
+  "why": "A documentary about the city of Turku, including its controversial 'disease of Turku'.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A documentary by Jouko Aaltonen about the city of Turku and its controversial 'disease of Turku'.",
+  "summary_quote": "directed by Jouko Aaltonen about the city of Turku, including the controversial \"disease of Turku\".",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q5009741",
+  "title": "CCTV Cities",
+  "verdict": "reject",
+  "why": "A TV programme on crime and police incidents in British towns, not architecture or planning.",
+  "genres": [],
+  "kind": "series",
+  "summary": "A British TV documentary in which each episode features a British town or city.",
+  "summary_quote": "Each episode featured a British town or city.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q86754496",
+  "title": "City Dreamers",
+  "verdict": "keep",
+  "why": "Portraits of four of the first prominent women architects.",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "kind": "feature",
+  "summary": "A Canadian documentary about four women architects: Phyllis Lambert, Blanche Lemco van Ginkel, Cornelia Oberlander and Denise Scott Brown.",
+  "summary_quote": "The film focuses on Phyllis Lambert, Blanche Lemco van Ginkel, Cornelia Oberlander and Denise Scott Brown, four significant innovators in contemporary architecture who were among the first prominent women architects.",
+  "architects_mentioned": [
+   "Phyllis Lambert",
+   "Blanche Lemco van Ginkel",
+   "Cornelia Oberlander",
+   "Denise Scott Brown"
+  ],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q2995754",
+  "title": "Contras'city",
+  "verdict": "reject",
+  "why": "no sourced line: the extract says only that it is a Senegalese 1968 short documentary.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 1968 Senegalese short documentary; its subject is not given in the sources.",
+  "summary_quote": "Contras'city is a Senegalese 1968 short documentary film.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q5282508",
+  "title": "Disorder",
+  "verdict": "reject",
+  "why": "no sourced line: the extract gives only the director, year and distributor.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2009 Chinese documentary directed by Huang Weikai; its subject is not given in the sources.",
+  "summary_quote": "Disorder is a 2009 Chinese documentary film directed by Huang Weikai",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q12118184",
+  "title": "Escape from Suburbia",
+  "verdict": "reject",
+  "why": "About the coming energy crisis and its possible solutions, not buildings or cities.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2007 Canadian documentary in which Gregory Greene interviews people about solutions to the coming energy crisis.",
+  "summary_quote": "Through interviews with individuals, Gregory Greene outlines potential solutions to the coming energy crisis.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3095310",
+  "title": "Garbage Warrior",
+  "verdict": "keep",
+  "why": "A portrait of Mike Reynolds, inventor of the Earthship style of building.",
+  "genres": [
+   "Portrait of an architect",
+   "Landscape & sustainability"
+  ],
+  "kind": "feature",
+  "summary": "A 2007 American film about the architect Mike Reynolds, inventor of the Earthship style of building.",
+  "summary_quote": "Garbage Warrior is a 2007 American film about architect Mike Reynolds, inventor of the Earthship style of building, directed by Oliver Hodge.",
+  "architects_mentioned": [
+   "Mike Reynolds"
+  ],
+  "buildings_mentioned": [
+   "Earthship"
+  ]
+ },
+ {
+  "qid": "Q30636911",
+  "title": "I am Belfast",
+  "verdict": "keep",
+  "why": "A documentary about the city of Belfast.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A documentary by Mark Cousins about the city of Belfast.",
+  "summary_quote": "I Am Belfast is a 2015 documentary film about Belfast, directed by Mark Cousins.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3203268",
+  "title": "L'Esprit de Mopti",
+  "verdict": "keep",
+  "why": "A documentary about the city of Mopti, Mali.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 1999 documentary about the city of Mopti in Mali, directed by Moussa Ouane.",
+  "summary_quote": "L'Esprit de Mopti (English: spirit of Mopti) is a 1999 documentary film about the city of Mopti, Mali, directed by Moussa Ouane.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q15039599",
+  "title": "Marvellous Melbourne",
+  "verdict": "keep",
+  "why": "A 1910 tour of central Melbourne; Wikidata lists it as a short, so check it is over 20 minutes.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 1910 documentary that takes viewers through the hotspots of Melbourne's central business district.",
+  "summary_quote": "takes the audience through the hotspots of its central business district and surrounding features",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q6906890",
+  "title": "Monument to the Dream",
+  "verdict": "keep",
+  "why": "About the Gateway Arch monument park; a short film, so check it is over 20 minutes.",
+  "genres": [
+   "Building story"
+  ],
+  "kind": "feature",
+  "summary": "A 1967 short documentary about the Gateway Arch National Park.",
+  "summary_quote": "Monument to the Dream is a 1967 American short documentary film about the Gateway Arch National Park directed by Charles Guggenheim and narrated by Paul Richards.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q6945404",
+  "title": "My Father the Genius",
+  "verdict": "reject",
+  "why": "no sourced line: the extract says only that it is a 2002 documentary directed by Lucia Small.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2002 documentary directed by Lucia Small; its subject is not given in the sources.",
+  "summary_quote": "My Father the Genius is a 2002 documentary film directed by Lucia Small.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3349493",
+  "title": "Of Time and the City",
+  "verdict": "reject",
+  "why": "Terence Davies's personal memoir of growing up in Liverpool, not architecture or urbanism.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A personal collage film in which Terence Davies recalls growing up in Liverpool in the 1950s and 1960s.",
+  "summary_quote": "The film has Davies recalling his life growing up in Liverpool in the 1950s and 1960s, using newsreel and documentary footage",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3399357",
+  "title": "Porto of My Childhood",
+  "verdict": "reject",
+  "why": "A memoir of childhood in Porto with staged dramatic scenes; the city is the setting, not the subject.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "Manoel de Oliveira narrates a documentary about memories of his childhood in Porto, with staged dramatic scenes.",
+  "summary_quote": "Manoel de Oliveira narrates a documentary which features staged dramatic scenes of memories and stories told to him during his childhood in Porto.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q3476666",
+  "title": "Sea Point Days",
+  "verdict": "keep",
+  "why": "A documentary about the Cape Town suburb of Sea Point.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 2008 documentary about the Cape Town suburb of Sea Point, directed by François Verster.",
+  "summary_quote": "Sea Point Days is a 2008 documentary film about the Cape Town suburb of Sea Point, directed by François Verster.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q7564025",
+  "title": "Sotsgorod: Cities for Utopia",
+  "verdict": "keep",
+  "why": "Western European architects who went to build Soviet 'socialist cities' in Siberia, told through survivors' interviews.",
+  "genres": [
+   "Movement & history",
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A Dutch documentary about Western European architects whom the Soviet Union invited to build socialist cities in Siberia.",
+  "summary_quote": "about a group of Western European architects who were invited by the Soviet Union to construct \"socialist cities\" in Siberia during the late 1920s and early 1930s",
+  "architects_mentioned": [
+   "Jan Rutgers",
+   "Margarete Lihotzky",
+   "Philipp Tolziner",
+   "Hans Schmidt",
+   "Mart Stam",
+   "Johannes van Loghem",
+   "Ernst May"
+  ],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q794344",
+  "title": "Symphony of a City",
+  "verdict": "reject",
+  "why": "A 1947 short film about Stockholm, 18 minutes long: under the 20-minute limit.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 1947 Swedish documentary short about Stockholm, directed and written by Arne Sucksdorff.",
+  "summary_quote": "is a 1947 Swedish documentary short film about Stockholm, directed and written by Arne Sucksdorff.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q54322665",
+  "title": "Taq Kasra: Wonder of Architecture",
+  "verdict": "keep",
+  "why": "A documentary on Taq Kasra, an ancient Persian monument.",
+  "genres": [
+   "Building story"
+  ],
+  "kind": "feature",
+  "summary": "A 2018 documentary on Taq Kasra, the world's largest brick vault, an ancient Persian monument.",
+  "summary_quote": "Taq Kasra: Wonder of Architecture is a 2018 documentary film on the world's largest brick vault, Taq Kasra.",
+  "architects_mentioned": [],
+  "buildings_mentioned": [
+   "Taq Kasra"
+  ]
+ },
+ {
+  "qid": "Q950029",
+  "title": "The Bridge",
+  "verdict": "reject",
+  "why": "About suicides at the Golden Gate Bridge; the bridge is the setting, not the subject.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 2006 Eric Steel documentary that shows a number of suicides at the Golden Gate Bridge over one year of filming.",
+  "summary_quote": "The film shows a number of suicides, and features interviews with family and friends of some of the identified people who had thrown themselves from the bridge that year",
+  "architects_mentioned": [],
+  "buildings_mentioned": [
+   "Golden Gate Bridge"
+  ]
+ },
+ {
+  "qid": "Q7734266",
+  "title": "The Five Cities of June",
+  "verdict": "reject",
+  "why": "News events of June 1963 in five cities, from a papal election to Vietnam; not architecture.",
+  "genres": [],
+  "kind": "feature",
+  "summary": "A 1963 US government short film about events in five cities in June 1963.",
+  "summary_quote": "This United States Information Agency-sponsored film details the events of June 1963 in five cities.",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q16254335",
+  "title": "The Pruitt-Igoe Myth",
+  "verdict": "keep",
+  "why": "The history of the Pruitt–Igoe housing complex in St. Louis and its 1976 demolition.",
+  "genres": [
+   "Housing & social",
+   "Building story"
+  ],
+  "kind": "feature",
+  "summary": "A 2011 documentary on the history of the Pruitt–Igoe public housing complex in St. Louis and its demolition.",
+  "summary_quote": "The Pruitt-Igoe Myth is a 2011 documentary film detailing the history of the Pruitt–Igoe public housing complex in St. Louis, Missouri, and the eventual decision to raze the entire complex in 1976.",
+  "architects_mentioned": [],
+  "buildings_mentioned": [
+   "Pruitt–Igoe"
+  ]
+ },
+ {
+  "qid": "Q7813899",
+  "title": "Tokyo Is Dreaming",
+  "verdict": "keep",
+  "why": "A non-narrative portrait of Tokyo, a modern city-symphony film.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A documentary by Peter I. Chang that depicts life in Tokyo, the Japanese capital.",
+  "summary_quote": "which depicts life in the Japanese capital",
+  "architects_mentioned": [],
+  "buildings_mentioned": []
+ },
+ {
+  "qid": "Q7900236",
+  "title": "Urbanized",
+  "verdict": "keep",
+  "why": "A documentary on how cities are designed, with planners and architects interviewed.",
+  "genres": [
+   "City & urbanism"
+  ],
+  "kind": "feature",
+  "summary": "A 2011 documentary by Gary Hustwit about how cities are designed, with interviews with planners and architects.",
+  "summary_quote": "The documentary discusses how cities are designed, and it features interviews with urban planners and architects, such as Oscar Niemeyer and Jan Gehl.",
+  "architects_mentioned": [
+   "Oscar Niemeyer",
+   "Jan Gehl"
+  ],
+  "buildings_mentioned": []
+ }
+]

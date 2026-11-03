@@ -119,3 +119,71 @@
 .blk .more-rows[open] summary { display: none; }
 @media (hover: hover) { .blk .more-rows summary:hover { color: var(--red); border-color: var(--red); } }
 .rows .lt .paid { display: inline-block; margin-left: 8px; padding: 1px 6px; border: 1px solid var(--edge); border-radius: 6px; font: 500 11px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); vertical-align: 1px; }
+
+/* ---------- a documentary's own page (/documentaries/<slug>/, v35 · 05 B with no TMDB data) ----------
+   Most people reach a film page from a search, so it carries the same facts as the opened card: the sourced line,
+   who made it, where to look for it, and the buildings on the wall it shows. No poster and no score, because
+   there is no TMDB key yet. Every colour comes from theme.css. */
+.fp { max-width: 980px; margin: 0 auto; padding: 0 20px 80px; }
+.fp .crumbs { font: 500 13px var(--mono); color: var(--graphite); padding: 18px 0 6px; }
+.fp .crumbs a { color: var(--graphite); text-decoration: none; }
+@media (hover: hover) { .fp .crumbs a:hover { color: var(--red); } }
+/* no rule of its own: every h2 below draws one, and two together read as a mistake */
+.fp-head { padding: 10px 0 10px; }
+.fp-kick { margin: 0 0 8px; font: 500 11px var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--graphite); }
+.fp h1 { margin: 0; font-family: var(--display); font-size: clamp(34px, 6vw, 66px); line-height: .94; letter-spacing: -.01em; }
+.fp-by { margin: 12px 0 0; font-size: 17px; }
+.fp-by i { font-style: italic; color: var(--graphite); }
+.fp-by b { font-family: var(--display); font-size: 24px; letter-spacing: .01em; }
+.fp-meta { margin: 6px 0 0; font: 400 13px var(--mono); color: var(--graphite); }
+.fp-lede { margin: 14px 0 0; font-size: 17px; line-height: 1.5; color: var(--graphite); max-width: 60ch; }
+.fp-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+.fp .tag { padding: 7px 12px; border: 1px solid var(--hair); border-radius: var(--r); background: var(--surface);
+  font: 600 13px var(--sans); color: var(--ink); text-decoration: none; }
+@media (hover: hover) { .fp .tag:hover { border-color: var(--red); color: var(--red); } }
+.fp h2 { margin: 34px 0 14px; padding-top: 12px; border-top: 1px solid var(--ink); font-family: var(--display); font-size: 22px; letter-spacing: .01em; }
+.fp h2 .n { font: 400 14px var(--mono); color: var(--graphite); }
+.fp-about p { margin: 0; font-size: 19px; line-height: 1.5; max-width: 62ch; }
+.fp-links { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.fp-links a { display: flex; flex-direction: column; gap: 3px; padding: 12px 14px; border: 1px dashed color-mix(in srgb, var(--graphite) 55%, transparent);
+  border-radius: var(--r); text-decoration: none; color: var(--ink); font-weight: 700; }
+.fp-links a span { font: 500 11px var(--mono); letter-spacing: .05em; text-transform: uppercase; color: var(--graphite); font-weight: 500; }
+@media (hover: hover) { .fp-links a:hover { border-color: var(--red); color: var(--red); } }
+.fp-note { margin: 12px 0 0; font: 400 13px var(--mono); color: var(--graphite); }
+.fp-bs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+.fp-bs .fp-b { text-decoration: none; color: var(--ink); display: flex; flex-direction: column; gap: 6px; }
+.fp-b .ph { display: block; aspect-ratio: 4 / 3; background: var(--slot); overflow: hidden; }
+.fp-b .ph img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.fp-b b { font-size: 14px; line-height: 1.2; }
+.fp-b small { font: 400 11px var(--mono); color: var(--graphite); }
+@media (hover: hover) { .fp-b:hover b { color: var(--red); } }
+.fp-all { display: inline-block; margin-top: 14px; font-weight: 700; color: var(--ink); text-decoration: none; }
+@media (hover: hover) { .fp-all:hover { color: var(--red); } }
+.fp-fs { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.fp-fs .fp-f { display: flex; flex-direction: column; gap: 6px; padding: 16px 14px; background: var(--field-3);
+  border: 1px solid var(--hair); text-decoration: none; color: var(--ink); }
+.fp-f .g { font: 500 10px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
+.fp-f b { font-family: var(--serif); font-size: 18px; line-height: 1.06; }
+.fp-f small { font: 400 11px var(--mono); color: var(--graphite); }
+@media (hover: hover) { .fp-f:hover b { color: var(--red); } .fp-f:hover { border-color: var(--red); } }
+.fp-src { margin: 0; font-size: 15px; line-height: 1.55; color: var(--graphite); max-width: 70ch; }
+.fp-src a { color: var(--ink); }
+@media (hover: hover) { .fp-src a:hover { color: var(--red); } }
+.fp .foot { margin-top: 48px; }
+@media (max-width: 820px) {
+  .fp { padding: 0 16px 90px; }
+  .fp-links { grid-template-columns: 1fr; }
+  .fp-bs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .fp-fs { grid-template-columns: 1fr; }
+  .fp-about p { font-size: 17px; }
+}
+
+/* Documentaries about this architect, in the left pane under the books. Set in type: a film's poster is somebody's
+   copyright and the shelf has no licensed one. Hidden when nothing matches, as the books block is. */
+.films { display: flex; flex-direction: column; gap: 8px; }
+.films .fk { display: flex; flex-direction: column; gap: 3px; padding: 11px 12px; background: var(--field-3);
+  border: 1px solid var(--hair); text-decoration: none; color: var(--ink); }
+.films .fk .g { font: 500 10px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
+.films .fk b { font-size: 14px; line-height: 1.2; }
+.films .fk small { font: 400 11px var(--mono); color: var(--graphite); }
+@media (hover: hover) { .films .fk:hover { border-color: var(--red); } .films .fk:hover b { color: var(--red); } }

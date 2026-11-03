@@ -629,6 +629,29 @@ def threads_html(b, up, n_idea):
         f'<span class="tx"><small>{lab}</small><b>{t}</b></span><i class="go" aria-hidden="true">→</i></a>' for k, h, lab, t, art in cards) + '</nav>'
 
 
+FILMS = []  # the documentaries (site/data/films.js), loaded once in main() so every building page can use them
+
+
+def films_for_building(b, up):
+    """Documentaries that show this building, then ones about its architects. Set in type: a film's poster is
+    somebody's copyright and the shelf has no licensed one. Nothing is written when nothing matches."""
+    if not FILMS:
+        return ''
+    names = {a.strip() for a in b['by'].split(',')} | ({NM.canon(a) for a in NM.list(b['by'])} if NM else set())
+    out = [f for f in FILMS if b['id'] in (f.get('buildings') or [])]
+    for f in sorted(FILMS, key=lambda f: -(f.get('y') or 0)):
+        if f not in out and names & set(f.get('architects') or []):
+            out.append(f)
+    if not out:
+        return ''
+    cards = ''.join(
+        f'<a class="fk" href="{up}documentaries/{e(f["slug"])}/"><span class="g">{e((f.get("genres") or [""])[0])}</span>'
+        f'<b>{e(f["title"])}</b><small>{e(", ".join(f.get("director") or []))}{(" · " + e(str(f["year"]))) if f.get("year") else ""}</small></a>'
+        for f in out[:4])
+    return (f'<section class="onward"><h2><span>Documentaries</span>'
+            f'<a href="{up}documentaries/">All documentaries →</a></h2><div class="films">{cards}</div></section>')
+
+
 # Building pages Google may index (owner, 29 Oct 2026, after Google dropped the site on 25 Oct): those Google showed at
 # least once before the drop, listed in tools/seo/index_keep.txt by tools/index_keep.py. The rest stay on the wall and in
 # every link but tell Google alone not to index them ("googlebot", so Bing and ChatGPT search keep them) and leave the
@@ -736,6 +759,7 @@ def building_page(b, items):
     <p class="study"><span>Key features</span>{e(b['study'])}</p>
     {threads_html(b, up, C['idea'].get(idea, 0))}
     {''.join(rows)}
+    {films_for_building(b, up)}
     {find}
     <section class="onward details"><h2><span>Details</span></h2>{facts_html(b, up)}</section>
     {deeper_html}
@@ -986,6 +1010,9 @@ def main():
     HUBLOOK.clear()
     HUBLOOK.update(hub_pages.lookup(HUBS))
     hub_pages.build(sys.modules[__name__], HUBS)
+    import film_pages
+    film_urls = film_pages.build(sys.modules[__name__], items)
+    FILMS[:] = read_js('films.js', 'FILMS') or []
     page.write_text(re.sub(r'<!-- about:start -->.*?<!-- about:end -->', lambda m: '<!-- about:start -->\n' + home_block(items) + '\n<!-- about:end -->',
                            page.read_text(), flags=re.S))
     stamp_wall()
@@ -997,7 +1024,7 @@ def main():
     (SITE / 'buildings' / 'index.html').write_text(outward(index_page(items)))
     if any(x.get('images') for x in items):
         og_image(items)
-    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')]
+    urls = [BASE, BASE + 'play/', BASE + 'studio/', BASE + 'pricing/', BASE + 'buildings/'] + film_urls + ([BASE + 'architects/'] + [f"{BASE}architects/{v}/" for v in sorted(ARCH.values())] if ARCH else []) + [f"{BASE}{hub_pages.kind_url(k)}" for k in hub_pages.KINDS if any(h['intro'] for h in HUBS if h['kind'] == k)] + [f"{BASE}{h['path']}" for h in HUBS if h['intro']] + [f"{BASE}buildings/{b['id']}/" for b in items if indexable(b)] + [f'{BASE}{p}/' for p in ('terms', 'privacy', 'refunds', 'contact')]
     (SITE / 'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
                                        + ''.join(f'  <url><loc>{u}</loc></url>\n' for u in urls) + '</urlset>\n')
     (SITE / 'robots.txt').write_text(ROBOTS.format(base=BASE))
