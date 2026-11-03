@@ -28,6 +28,10 @@ jobs:
         env:
           GSC_SERVICE_ACCOUNT: ${{ secrets.GSC_SERVICE_ACCOUNT }}
         run: echo skipped
+      - name: US visits today
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+        run: python3 -u tools/us_today.py || true
       - name: GitHub Pages settings
         env:
           GH_TOKEN: ${{ github.token }}
