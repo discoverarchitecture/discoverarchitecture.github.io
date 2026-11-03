@@ -1121,7 +1121,8 @@
       ['nice', 'great'].map((k) => '<div class="tier ltier' + (k === 'great' ? ' sel' : '') + '"><span class="kicker">' + TIERS[k][0] + (k === 'great' ? ' · the full treatment' : '') + '</span><span class="price">$' + TIERS[k][1] + '</span><p class="per">A1 board + jury deck</p><ul>' + TIERS[k][2].map((x) => '<li>' + x + '</li>').join('') + '</ul></div>').join('') +
       '</div><p class="lede">Both include the editor and one free redo within 7 days. No refunds. Shown in your currency at checkout. Opens in PowerPoint, Keynote, Google Slides, Canva and InDesign.</p>' + shiny('start', 'Start free', 'Preview free before you pay') + '</section>' +
       '<section class="wrap narrow2" id="faq"><h2 class="kicker">FAQ</h2><p class="big hd">Before you start</p><div class="faq">' +
-      faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div></section>' +
+      faq.map(([q, a]) => '<details><summary>' + q + '</summary><p>' + a + '</p></details>').join('') + '</div>' +
+      '<p class="lede">Making it by hand? Read our <a class="link" href="../guides/a1-presentation-board/">step-by-step guide to an A1 presentation board</a>.</p></section>' +
       '<section class="band dark"><div class="wrap bandin"><p class="big hd">Your jury is closer than you think.</p>' + shiny('start', 'Start free', 'No login · preview free') + '</div></section>' +
       lfoot() + '</main>';
   };
