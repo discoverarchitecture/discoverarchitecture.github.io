@@ -31,6 +31,9 @@ UA = 'FindGreatArchitecture/1.0 (https://findgreatarchitecture.com/)'
 COUNTRIES = ['US', 'GB', 'DE', 'FR', 'CA', 'AU', 'IN']
 # TMDB's own words for how a film is offered; "flatrate" is a subscription anyone with that service can watch.
 KINDS = {'free': 'free', 'ads': 'free', 'flatrate': 'subscription', 'rent': 'rent', 'buy': 'buy'}
+# TMDB gives a two-letter code; the page shows a name, because "ja" tells a reader nothing. A code with no name
+# here is left out rather than printed raw.
+LANGS = { "en": "English", "ja": "Japanese", "de": "German", "fr": "French", "es": "Spanish", "it": "Italian", "pt": "Portuguese", "nl": "Dutch", "ca": "Catalan", "sv": "Swedish", "da": "Danish", "no": "Norwegian", "fi": "Finnish", "pl": "Polish", "cs": "Czech", "ru": "Russian", "zh": "Chinese", "ko": "Korean", "hi": "Hindi", "ml": "Malayalam", "bn": "Bengali", "ta": "Tamil", "ar": "Arabic", "he": "Hebrew", "tr": "Turkish", "fa": "Persian", "el": "Greek", "hu": "Hungarian", "ro": "Romanian", "sr": "Serbian", "hr": "Croatian", "sl": "Slovenian", "sk": "Slovak", "uk": "Ukrainian", "is": "Icelandic" }
 
 
 def get(url, key):
@@ -121,8 +124,8 @@ def main(force=False):
         # facts the seed already carries are left alone: a hand-checked line always wins
         if not f.get('runtime_min') and (d.get('runtime') or (d.get('episode_run_time') or [None])[0]):
             f['runtime_min'] = d.get('runtime') or d['episode_run_time'][0]
-        if not f.get('language') and d.get('original_language'):
-            f['language'] = d['original_language']
+        if not f.get('language') and LANGS.get(d.get('original_language')):
+            f['language'] = LANGS[d['original_language']]
         w = providers(kind, d['id'], key)
         if w:
             f['watch'] = w
