@@ -1,0 +1,44 @@
+/* Guide pages (/guides/<slug>/, made by tools/guide_pages.py): one readable column, the site's type and night colours. */
+.guide { max-width: 720px; margin: 0 auto; padding: 8px clamp(16px, 4vw, 32px) 72px; font: 400 17px/1.65 var(--sans); color: var(--ink); }
+.guide .kicker { margin: 18px 0 6px; font: 500 12px var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--graphite); }
+.guide h1 { margin: 0 0 12px; font-family: var(--display); font-weight: 900; font-size: clamp(38px, 7vw, 62px); line-height: .95; text-transform: uppercase; text-wrap: balance; }
+.guide .byline { margin: 0 0 22px; font: 500 14px var(--sans); color: var(--graphite); }
+.guide .answer { margin: 0 0 30px; padding: 16px 18px; border: 1px solid var(--line); border-radius: var(--r-panel, 18px); background: var(--surface); }
+.guide .answer .label { margin: 0 0 4px; font: 600 12px var(--mono); letter-spacing: .1em; text-transform: uppercase; color: var(--graphite); }
+.guide .answer p { margin: 0; }
+.guide h2 { margin: 30px 0 8px; padding-top: 12px; border-top: 1px solid var(--ink); font: 700 21px/1.25 var(--sans); }
+.guide p { margin: 0 0 12px; }
+.guide a { color: inherit; text-underline-offset: 3px; }
+@media (hover: hover) { .guide a:hover { color: var(--red); } }
+
+/* before and after: the student's sheets beside the finished board; photos and drawings keep square corners */
+.guide .ba .pair { display: grid; grid-template-columns: 1.3fr auto 1fr; gap: 14px; align-items: center; margin: 14px 0 6px; }
+.guide .ba .sheets { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.guide .ba img { display: block; width: 100%; height: auto; border: 1px solid var(--hair); background: #fff; }
+.guide .ba .sheets img { aspect-ratio: 3 / 2; object-fit: cover; }
+.guide .ba figure { margin: 0; }
+.guide .ba figcaption { margin-top: 6px; font: 500 12px var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--graphite); }
+.guide .ba .arrow { font-size: 26px; color: var(--graphite); }
+.guide .ba .credit { font-size: 13px; color: var(--graphite); }
+@media (max-width: 620px) {
+  .guide .ba .pair { grid-template-columns: 1fr; }
+  .guide .ba .arrow { justify-self: center; transform: rotate(90deg); }
+}
+
+/* the Studio FGA card: the site's look, with the main action in sunset red */
+.guide .cta-card { margin: 34px 0 10px; padding: 20px; border: 1px solid var(--ink); border-radius: var(--r-panel, 18px); background: var(--surface); }
+.guide .cta-card h2 { margin: 0 0 6px; padding: 0; border: 0; }
+.guide .cta-go { display: inline-block; margin-top: 4px; padding: 11px 16px; border-radius: var(--r, 10px); background: var(--red); color: #fff; font: 700 15px var(--sans); text-decoration: none; }
+@media (hover: hover) { .guide .cta-go:hover { color: #fff; filter: brightness(.94); } }
+
+/* questions students ask: open in place */
+.guide .faq details { border-bottom: 1px solid var(--line); padding: 10px 0; }
+.guide .faq summary { cursor: pointer; font-weight: 600; list-style: none; display: flex; justify-content: space-between; gap: 12px; }
+.guide .faq summary::-webkit-details-marker { display: none; }
+.guide .faq summary::after { content: '+'; flex: none; color: var(--graphite); }
+.guide .faq details[open] summary::after { content: '–'; }
+.guide .faq details p { margin: 8px 0 2px; }
+
+.guide .guide-list { list-style: none; padding: 0; margin: 20px 0; }
+.guide .guide-list a { display: block; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none; }
+.guide .guide-list span { display: block; color: var(--graphite); font-size: 15px; }
