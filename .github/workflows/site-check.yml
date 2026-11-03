@@ -31,7 +31,7 @@ jobs:
       - name: US visits today
         env:
           GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
-        run: python3 -u tools/us_today.py || true
+        run: echo skipped
       - name: GitHub Pages settings
         env:
           GH_TOKEN: ${{ github.token }}
@@ -49,6 +49,8 @@ jobs:
           for u in https://findgreatarchitecture.com/studio/ https://findgreatarchitecture.com/pricing/; do echo "== $u"; curl -sS -A "$UA" -o /tmp/p.html -m 20 -w "%{http_code}\n" "$u"; grep -ioE '<title>[^<]*|<meta name="(description|robots|googlebot)"[^>]*>|<link rel="canonical"[^>]*>|<h1[^>]*>.{0,140}|<h2[^>]*>.{0,60}|"@type": ?"[A-Za-z]+"|og:image" content="[^"]*' /tmp/p.html | head -30; done
           echo "== studio og image"; curl -sS -o /dev/null -w "%{http_code} %{content_type} %{size_download}\n" -m 20 https://findgreatarchitecture.com/studio/og.jpg
           echo "== sitemap studio and policy"; curl -sS -m 20 https://findgreatarchitecture.com/sitemap.xml | grep -E "studio/<|pricing|terms|privacy|refund|contact"
+          echo "== guide"; curl -sS -A "$UA" -o /tmp/g.html -m 20 -w "%{http_code}\n" https://findgreatarchitecture.com/guides/a1-presentation-board/; grep -ioE '<title>[^<]*|<link rel="canonical"[^>]*>|<meta name="(robots|googlebot)"[^>]*>|"@type": ?"(Article|FAQPage|BreadcrumbList)"' /tmp/g.html | head
+          echo "== guide in sitemap, llms.txt, a building footer and studio"; curl -sS -m 20 https://findgreatarchitecture.com/sitemap.xml | grep -c "guides/"; curl -sS -m 20 https://findgreatarchitecture.com/llms.txt | grep -c "a1-presentation-board"; curl -sS -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | grep -c "a1-presentation-board"; curl -sS -m 20 https://findgreatarchitecture.com/studio/ | grep -c "a1-presentation-board"
           echo "== hidden page head"; curl -sS -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/013/ | grep -ioE '<meta name="(robots|googlebot)"[^>]*>' | head
           echo "== sitemap addresses"; curl -sS -m 20 https://findgreatarchitecture.com/sitemap.xml | grep -c "<loc>"
           echo "== response headers"; curl -sSI -A "$UA" -m 20 https://findgreatarchitecture.com/buildings/villa-savoye/ | head -20
