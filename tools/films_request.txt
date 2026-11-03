@@ -1,2 +1,2 @@
 python -u tools/harvest_films.py
-# run 5, 26 Oct: exact film titles, strict name matching
+# run 6, 3 Nov: the TMDB key is set, so this brings posters, scores, where-to-watch and many more films
