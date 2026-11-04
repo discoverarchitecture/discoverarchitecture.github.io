@@ -1,2 +1,2 @@
 python -u tools/fetch_films_tmdb.py --force
-# run 9, 4 Nov: save the posters and provider logos here, because image.tmdb.org is blocked on some networks
+# run 10, 4 Nov: the workflow only committed tools/, so the saved posters were thrown away
