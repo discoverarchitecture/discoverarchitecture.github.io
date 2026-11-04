@@ -164,8 +164,12 @@ def cmd_add(path):
                 errors.append(f'{tag}: a free watch link needs a checked date')
         if f.get('trailer') and not re.fullmatch(r'[A-Za-z0-9_-]{11}', f['trailer']):
             errors.append(f'{tag}: trailer must be an 11-character YouTube id')
-        if f.get('id') in have_ids or any(x['id'] == f.get('id') for x in new):
-            errors.append(f'{tag}: id already used')
+        if f.get('id') in have_ids:
+            # a duplicate under a different year slips the key check below, so this is the one that catches it
+            was = next((x for x in seed if x['id'] == f['id']), {})
+            errors.append(f'{tag}: already on the shelf as {was.get("title", "?")!r} ({was.get("year") or "no year"})')
+        elif any(x['id'] == f.get('id') for x in new):
+            errors.append(f'{tag}: two films in this batch share the id')
         if key_of(f.get('title', ''), f.get('year')) in have_keys:
             errors.append(f'{tag}: already on the shelf')
         # A film whose year no source gives keeps y = 0 and an empty year, rather than being given a guessed one.
@@ -182,7 +186,8 @@ def cmd_add(path):
                     'genres': f.get('genres', []), 'topics': f.get('topics', []), 'movements': f.get('movements', []),
                     'featured': f.get('featured'), 'ratings': f.get('ratings', []), 'imdb': f.get('imdb'), 'letterboxd': f.get('letterboxd'), 'qid': f.get('qid'),
                     'tags': f.get('tags', []), 'sources': f.get('sources', []), 'watch': f.get('watch', []),
-                    'trailer': f.get('trailer'), 'image': f.get('image'), 'tmdb': f.get('tmdb')})
+                    'trailer': f.get('trailer'), 'image': f.get('image'), 'tmdb': f.get('tmdb'),
+                    'tmdb_kind': f.get('tmdb_kind')})
     if errors:
         print('Batch refused, nothing added:\n  ' + '\n  '.join(errors)); sys.exit(1)
     seed += new

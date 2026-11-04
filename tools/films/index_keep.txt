@@ -1,0 +1,56 @@
+# Documentary pages Google may index, newest decision last.
+#
+# The site lost most of its Google listings on 25 Oct 2026 after too many thin pages, and CLAUDE.md asks that
+# nothing be added in bulk for 6-8 weeks while Google re-judges it. A film page is thin by nature: a sourced
+# line, a year and some links. So a new film goes on the wall at once, where it costs nothing, and its own page
+# is only offered to Google when its id is listed here.
+#
+# These are the 46 films whose pages went live on 3 Nov 2026, before the shelf grew.
+# To release more, add their ids and run build_pages.py. Watch search_console/indexing.json after each release:
+# if "Crawled - currently not indexed" climbs, stop.
+antonio-gaudi
+battle-for-the-city
+city-dreamers
+garbage-warrior
+i-am-belfast
+l-esprit-de-mopti
+marvellous-melbourne
+monument-to-the-dream
+sea-point-days
+sotsgorod-cities-for-utopia
+taq-kasra-wonder-of-architecture
+the-pruitt-igoe-myth
+tokyo-is-dreaming
+urbanized
+the-last-wright-frank-lloyd-wright-and-the-park-inn-hotel
+berlin-babylon
+city-of-gold
+if-you-build-it
+the-delhi-way
+the-vision-of-paolo-soleri-prophet-in-the-desert
+unfinished-spaces
+dilli
+eames-the-architect-and-the-painter
+great-expectations
+lullaby-to-my-father
+mendelsohn-s-incessant-visions
+my-architect
+ruins-of-the-reich
+sketches-of-frank-gehry
+spaces-the-architecture-of-paul-rudolph
+the-new-world
+aalto
+from-inside-out-the-architecture-of-peter-zumthor
+frank-lloyd-wright
+infinite-space-the-architecture-of-john-lautner
+loos-ornamental
+louis-kahn-s-tiger-city
+sagrada-el-misteri-de-la-creacio
+the-proposal
+the-amateur
+conversaciones-con-renzo-piano
+ada-my-mother-the-architect
+eye-over-prague
+didi-contractor-marrying-the-earth-to-the-building
+abstract-the-art-of-design
+visual-acoustics-the-modernism-of-julius-shulman

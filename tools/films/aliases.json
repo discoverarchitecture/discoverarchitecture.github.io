@@ -9,9 +9,16 @@
   "National Art Schools (Cuba)": "national-art-schools-havana",
   "Lowell E. Walter House (Cedar Rock)": "cedar-rock-lowell-walter-house",
   "Sagrada Família": "sagrada-familia",
-  "Gateway Arch": "gateway-arch"
+  "Gateway Arch": "gateway-arch",
+  "Eames House and Studio": "eames-house",
+  "Gherkin": "30-st-mary-axe",
+  "Orsay": "musee-d-orsay",
+  "Basilica and Expiatory Church of the Holy Family": "sagrada-familia"
  },
  "architects": {
-  "I.M. Pei": "I. M. Pei"
+  "I.M. Pei": "I. M. Pei",
+  "Bjarke Ingels": "BIG (Bjarke Ingels Group)",
+  "Gaudi": "Antoni Gaudí",
+  "João Batista Vilanova Artigas": "Vilanova Artigas"
  }
 }

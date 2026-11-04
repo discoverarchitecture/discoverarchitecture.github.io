@@ -50,7 +50,10 @@ def wall():
     B = json.loads(t[t.index('['):t.rindex(']') + 1])
     names = {a.strip() for b in B for a in b['by'].split(',')}
     by_fold = {}
-    for n in names:
+    # The wall splits a credit on the comma, so one architect can appear both whole and with a stray bracket
+    # ("Ryue Nishizawa" and "Ryue Nishizawa)"). Both fold alike, so take the balanced, shorter one first,
+    # or the good name loses to the broken one and the link is dropped for nothing.
+    for n in sorted(names, key=lambda n: (n.count('(') != n.count(')'), len(n), n)):
         by_fold.setdefault(fold(n), n)
     builds = {}
     for b in B:
@@ -129,7 +132,8 @@ def main(cand_path, out_path, drafts):
                      'sources': [{'url': url, 'quote': d.get('summary_quote')}]}
             for field, src in (('qid', c.get('qid')), ('director', c.get('director')),
                                ('runtime_min', c.get('runtime_min')),
-                               ('language', d.get('language')), ('imdb', c.get('imdb')), ('tmdb', c.get('tmdb'))):
+                               ('language', d.get('language')), ('imdb', c.get('imdb')),
+                               ('tmdb', c.get('tmdb')), ('tmdb_kind', c.get('tmdb_kind'))):
                 if src:
                     entry[field] = src
             add.append(entry)

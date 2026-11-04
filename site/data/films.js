@@ -167,6 +167,455 @@ window.FILMS = [
   "watch_checked": "2026-11-04"
  },
  {
+  "id": "alhambra-the-treasure-of-the-last-sultanate-of-spain",
+  "slug": "alhambra-the-treasure-of-the-last-sultanate-of-spain",
+  "title": "Alhambra, the treasure of the last sultanate of Spain",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film on the Alhambra, a palatial city built between the 13th and 15th centuries.",
+  "architects": [],
+  "buildings": [
+   "alhambra"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1382480",
+    "quote": "The Alhambra is a unique site in the world: a palatial city built between the 13th and 15th centuries"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Alhambra%2C%20the%20treasure%20of%20the%20last%20sultanate%20of%20Spain"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Alhambra%2C%20the%20treasure%20of%20the%20last%20sultanate%20of%20Spain%202024"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Alhambra%2C%20the%20treasure%20of%20the%20last%20sultanate%20of%20Spain%202024/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Alhambra%2C%20the%20treasure%20of%20the%20last%20sultanate%20of%20Spain%202024%20trailer"
+   ]
+  ],
+  "tmdb": 1382480
+ },
+ {
+  "id": "architecton",
+  "slug": "architecton",
+  "title": "Architecton",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A journey through concrete and stone, the materials that make up our habitat.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1234597",
+    "quote": "An extraordinary journey through the material that makes up our habitat: concrete and its ancestor, stone."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Architecton"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Architecton%202024"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Architecton%202024/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Architecton%202024%20trailer"
+   ]
+  ],
+  "tmdb": 1234597
+ },
+ {
+  "id": "czechoslovak-architecture-5889",
+  "slug": "czechoslovak-architecture-5889",
+  "title": "Czechoslovak Architecture 58–89",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "A feature-length film exploring Czech and Slovak architecture.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1301895",
+    "quote": "the eagerly anticipated feature-length film which, through its fascinating and impressive exploration of Czech and Slovak architecture of t"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Czechoslovak%20Architecture%2058%E2%80%9389"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Czechoslovak%20Architecture%2058%E2%80%9389%202024"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Czechoslovak%20Architecture%2058%E2%80%9389%202024/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Czechoslovak%20Architecture%2058%E2%80%9389%202024%20trailer"
+   ]
+  ],
+  "tmdb": 1301895
+ },
+ {
+  "id": "soviet-bus-stops",
+  "slug": "soviet-bus-stops",
+  "title": "Soviet Bus Stops",
+  "year": "2024",
+  "y": 2024,
+  "kind": "feature",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "A photography project on whimsical bus stops across the former Soviet Bloc.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1031050",
+    "quote": "the bus stops Herwig discovers on his journeys criss-crossing the vast former Soviet Bloc are something else entirely: whimsical, eccentric, flamboyantly artistic, audacious, colourful"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Soviet%20Bus%20Stops"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Soviet%20Bus%20Stops%202024"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Soviet%20Bus%20Stops%202024/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Soviet%20Bus%20Stops%202024%20trailer"
+   ]
+  ],
+  "tmdb": 1031050
+ },
+ {
+  "id": "brooklyn-bridge-an-engineering-masterpiece",
+  "slug": "brooklyn-bridge-an-engineering-masterpiece",
+  "title": "Brooklyn Bridge: An Engineering Masterpiece",
+  "year": "2023",
+  "y": 2023,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Tells the story of the Roebling family and the history of the Brooklyn Bridge.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1133089",
+    "quote": "The film tells the amazing story of the Roebling family and the spectacular history of the Brooklyn Bridge."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Brooklyn%20Bridge%3A%20An%20Engineering%20Masterpiece"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Brooklyn%20Bridge%3A%20An%20Engineering%20Masterpiece%202023"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Brooklyn%20Bridge%3A%20An%20Engineering%20Masterpiece%202023/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Brooklyn%20Bridge%3A%20An%20Engineering%20Masterpiece%202023%20trailer"
+   ]
+  ],
+  "tmdb": 1133089
+ },
+ {
+  "id": "eiffel-s-race-to-the-top",
+  "slug": "eiffel-s-race-to-the-top",
+  "title": "Eiffel's Race to the Top",
+  "year": "2023",
+  "y": 2023,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "The story of the challenge to erect the Eiffel Tower, a thousand-foot tower.",
+  "architects": [],
+  "buildings": [
+   "eiffel-tower"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1203493",
+    "quote": "Behind the iconic Eiffel Tower lies the story of an incredible challenge to erect a thousand-foot tower"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Eiffel%27s%20Race%20to%20the%20Top"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Eiffel%27s%20Race%20to%20the%20Top%202023"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Eiffel%27s%20Race%20to%20the%20Top%202023/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Eiffel%27s%20Race%20to%20the%20Top%202023%20trailer"
+   ]
+  ],
+  "tmdb": 1203493
+ },
+ {
+  "id": "paris-the-mystery-of-the-disappeared-palace",
+  "slug": "paris-the-mystery-of-the-disappeared-palace",
+  "title": "Paris, the Mystery of the Disappeared Palace",
+  "year": "2023",
+  "y": 2023,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A vanished architectural masterpiece is rebuilt in 3D by a trio of experts.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/1175245",
+    "quote": "Over the centuries, this architectural masterpiece has almost completely disappeared. A trio of experts will resurrect it in 3D."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Paris%2C%20the%20Mystery%20of%20the%20Disappeared%20Palace"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Paris%2C%20the%20Mystery%20of%20the%20Disappeared%20Palace%202023"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Paris%2C%20the%20Mystery%20of%20the%20Disappeared%20Palace%202023/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Paris%2C%20the%20Mystery%20of%20the%20Disappeared%20Palace%202023%20trailer"
+   ]
+  ],
+  "tmdb": 1175245
+ },
+ {
+  "id": "gaudi-le-genie-visionnaire-de-barcelone",
+  "slug": "gaudi-le-genie-visionnaire-de-barcelone",
+  "title": "Gaudí, le génie visionnaire de Barcelone",
+  "year": "2022",
+  "y": 2022,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect",
+   "Building story"
+  ],
+  "summary": "A film on Antoni Gaudí through his Casa Batlló in Barcelona.",
+  "architects": [
+   "Antoni Gaudi"
+  ],
+  "buildings": [
+   "casa-batllo"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/978970",
+    "quote": "In Barcelona, the Casa Batlló alone sums up the genius of Antoni Gaudí."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Gaud%C3%AD%2C%20le%20g%C3%A9nie%20visionnaire%20de%20Barcelone"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Gaud%C3%AD%2C%20le%20g%C3%A9nie%20visionnaire%20de%20Barcelone%202022"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Gaud%C3%AD%2C%20le%20g%C3%A9nie%20visionnaire%20de%20Barcelone%202022/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Gaud%C3%AD%2C%20le%20g%C3%A9nie%20visionnaire%20de%20Barcelone%202022%20trailer"
+   ]
+  ],
+  "tmdb": 978970
+ },
+ {
+  "id": "sagrada-familia-le-defi-de-gaudi",
+  "slug": "sagrada-familia-le-defi-de-gaudi",
+  "title": "Sagrada Familia, le défi de Gaudi",
+  "year": "2022",
+  "y": 2022,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Traces the history of the Sagrada Familia, a spectacular and unfinished work.",
+  "architects": [
+   "Antoni Gaudi"
+  ],
+  "buildings": [
+   "sagrada-familia"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/960477",
+    "quote": "this unseen documentary traces the history of this spectacular and unfinished work"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Sagrada%20Familia%2C%20le%20d%C3%A9fi%20de%20Gaudi"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/title/tt19718560/"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Sagrada%20Familia%2C%20le%20d%C3%A9fi%20de%20Gaudi%202022/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Sagrada%20Familia%2C%20le%20d%C3%A9fi%20de%20Gaudi%202022%20trailer"
+   ]
+  ],
+  "director": [
+   "Marc Jampolsky"
+  ],
+  "runtime_min": 92,
+  "imdb": "tt19718560",
+  "tmdb": 960477,
+  "qid": "Q115156577"
+ },
+ {
+  "id": "valldaura-a-quarantine-cabin",
+  "slug": "valldaura-a-quarantine-cabin",
+  "title": "Valldaura: A Quarantine Cabin",
+  "year": "2022",
+  "y": 2022,
+  "kind": "feature",
+  "genres": [
+   "Design process"
+  ],
+  "summary": "Young architects confined to a Barcelona forest during COVID explore the problems of wanting to be self-sufficient.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/996978",
+    "quote": "A group of young architects, confined to a forest in Barcelona during the COVID crisis, explore the problems generated by the ambition of wanting to be completely self-sufficient."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Valldaura%3A%20A%20Quarantine%20Cabin"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Valldaura%3A%20A%20Quarantine%20Cabin%202022"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Valldaura%3A%20A%20Quarantine%20Cabin%202022/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Valldaura%3A%20A%20Quarantine%20Cabin%202022%20trailer"
+   ]
+  ],
+  "tmdb": 996978
+ },
+ {
   "id": "aalto",
   "slug": "aalto",
   "title": "Aalto",
@@ -484,6 +933,315 @@ window.FILMS = [
    ]
   },
   "watch_checked": "2026-11-04"
+ },
+ {
+  "id": "frank-lloyd-wright-phoenix-from-the-ashes",
+  "slug": "frank-lloyd-wright-phoenix-from-the-ashes",
+  "title": "Frank Lloyd Wright: Phoenix From the Ashes",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "A portrait of Frank Lloyd Wright, a modern architect whose life passed between glory, scandal and tragedy.",
+  "architects": [
+   "Frank Lloyd Wright"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/768442",
+    "quote": "A portrait of Frank Lloyd Wright (1867-1959), a genius of modern architecture, whose life passed between glory, scandal and tragedy."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Frank%20Lloyd%20Wright%3A%20Phoenix%20From%20the%20Ashes"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Frank%20Lloyd%20Wright%3A%20Phoenix%20From%20the%20Ashes%202020"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Frank%20Lloyd%20Wright%3A%20Phoenix%20From%20the%20Ashes%202020/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Frank%20Lloyd%20Wright%3A%20Phoenix%20From%20the%20Ashes%202020%20trailer"
+   ]
+  ],
+  "tmdb": 768442
+ },
+ {
+  "id": "orsay-les-grandes-metamorphoses",
+  "slug": "orsay-les-grandes-metamorphoses",
+  "title": "Orsay, les grandes métamorphoses",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Follows the museum's projects to modernize Orsay while preserving its historic character.",
+  "architects": [],
+  "buildings": [
+   "musee-d-orsay"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/746936",
+    "quote": "Project after project, the museum has been transformed to modernize and welcome more visitors, while preserving its historic character."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Orsay%2C%20les%20grandes%20m%C3%A9tamorphoses"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Orsay%2C%20les%20grandes%20m%C3%A9tamorphoses%202020"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Orsay%2C%20les%20grandes%20m%C3%A9tamorphoses%202020/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Orsay%2C%20les%20grandes%20m%C3%A9tamorphoses%202020%20trailer"
+   ]
+  ],
+  "tmdb": 746936
+ },
+ {
+  "id": "sauver-notre-dame",
+  "slug": "sauver-notre-dame",
+  "title": "Sauver Notre-Dame",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "After the 2019 fire, a race against time begins to save Notre-Dame de Paris.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/693247",
+    "quote": "In the aftermath of the fire that struck Notre-Dame de Paris in 2019, the cathedral is in danger of collapsing. A race against time begins for a hundred men and women who will face danger, the unknown, and toxic lead dust for a year to save this world heritage site."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Sauver%20Notre-Dame"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Sauver%20Notre-Dame%202020"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Sauver%20Notre-Dame%202020/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Sauver%20Notre-Dame%202020%20trailer"
+   ]
+  ],
+  "tmdb": 693247
+ },
+ {
+  "id": "the-untold-story-of-the-vatican",
+  "slug": "the-untold-story-of-the-vatican",
+  "title": "The Untold Story of the Vatican",
+  "year": "2020",
+  "y": 2020,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A history of the Vatican as an architectural masterpiece and its extensions.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/772796",
+    "quote": "a true understanding of the history of this architectural masterpiece and its extensions"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20Untold%20Story%20of%20the%20Vatican"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20Untold%20Story%20of%20the%20Vatican%202020"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20Untold%20Story%20of%20the%20Vatican%202020/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20Untold%20Story%20of%20the%20Vatican%202020%20trailer"
+   ]
+  ],
+  "tmdb": 772796
+ },
+ {
+  "id": "architecture-of-infinity",
+  "slug": "architecture-of-infinity",
+  "title": "Architecture of Infinity",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Asks how structures can make us feel transcendence.",
+  "architects": [
+   "Peter Zumthor",
+   "Peter Märkli",
+   "Álvaro Siza Vieira"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/607302",
+    "quote": "How can structures, which take up defined, rigid portions of space, make us feel transcendence?"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Architecture%20of%20Infinity"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Architecture%20of%20Infinity%202019"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Architecture%20of%20Infinity%202019/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Architecture%20of%20Infinity%202019%20trailer"
+   ]
+  ],
+  "tmdb": 607302
+ },
+ {
+  "id": "bamboo-theatre",
+  "slug": "bamboo-theatre",
+  "title": "Bamboo Theatre",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film on a theatrical architecture in Hong Kong, a Chinese tradition more than a century old.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/657147",
+    "quote": "Hong Kong preserves a unique theatrical architecture, a Chinese tradition that has lasted more than a century"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Bamboo%20Theatre"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Bamboo%20Theatre%202019"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Bamboo%20Theatre%202019/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Bamboo%20Theatre%202019%20trailer"
+   ]
+  ],
+  "tmdb": 657147
+ },
+ {
+  "id": "going-attractions-the-definitive-story-of-the-movie-palace",
+  "slug": "going-attractions-the-definitive-story-of-the-movie-palace",
+  "title": "Going Attractions: The Definitive Story of the Movie Palace",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Tracks the eventual decline of the movie palaces.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/636474",
+    "quote": "The film also tracks the eventual decline of the palaces"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Going%20Attractions%3A%20The%20Definitive%20Story%20of%20the%20Movie%20Palace"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Going%20Attractions%3A%20The%20Definitive%20Story%20of%20the%20Movie%20Palace%202019"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Going%20Attractions%3A%20The%20Definitive%20Story%20of%20the%20Movie%20Palace%202019/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Going%20Attractions%3A%20The%20Definitive%20Story%20of%20the%20Movie%20Palace%202019%20trailer"
+   ]
+  ],
+  "tmdb": 636474
  },
  {
   "id": "louis-kahn-s-tiger-city",
@@ -804,6 +1562,272 @@ window.FILMS = [
   "watch_checked": "2026-11-04"
  },
  {
+  "id": "petra-secrets-of-the-ancient-builders",
+  "slug": "petra-secrets-of-the-ancient-builders",
+  "title": "Petra: Secrets of the Ancient Builders",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Asks how the architectural wonder of Petra in the Jordanian desert was created over 2,000 years ago.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/756985",
+    "quote": "In the heart of the Jordanian desert, the ancient city of Petra is full of mysteries. How was this architectural wonder created over 2,000 years ago?"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Petra%3A%20Secrets%20of%20the%20Ancient%20Builders"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Petra%3A%20Secrets%20of%20the%20Ancient%20Builders%202019"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Petra%3A%20Secrets%20of%20the%20Ancient%20Builders%202019/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Petra%3A%20Secrets%20of%20the%20Ancient%20Builders%202019%20trailer"
+   ]
+  ],
+  "tmdb": 756985
+ },
+ {
+  "id": "years-of-construction",
+  "slug": "years-of-construction",
+  "title": "Years of Construction",
+  "year": "2019",
+  "y": 2019,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film on the demolition of the old Kunsthalle in Mannheim and the building of its replacement, 2013 to 2018.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/577066",
+    "quote": "Demolition of the old and building of the new Kunsthalle in Mannheim in the years 2013 to 2018."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Years%20of%20Construction"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Years%20of%20Construction%202019"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Years%20of%20Construction%202019/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Years%20of%20Construction%202019%20trailer"
+   ]
+  ],
+  "tmdb": 577066
+ },
+ {
+  "id": "bauhaus-spirit-100-years-of-bauhaus",
+  "slug": "bauhaus-spirit-100-years-of-bauhaus",
+  "title": "Bauhaus Spirit: 100 Years of Bauhaus",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "A film on the Bauhaus, founded in 1919 by Walter Gropius to unite the arts and architecture.",
+  "architects": [
+   "Walter Gropius"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/514215",
+    "quote": "Founded in 1919 by Walter Gropius, Bauhaus was supposed to unite sculpture, painting, design and architecture into a single combined constructive discipline."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Bauhaus%20Spirit%3A%20100%20Years%20of%20Bauhaus"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Bauhaus%20Spirit%3A%20100%20Years%20of%20Bauhaus%202018"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Bauhaus%20Spirit%3A%20100%20Years%20of%20Bauhaus%202018/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Bauhaus%20Spirit%3A%20100%20Years%20of%20Bauhaus%202018%20trailer"
+   ]
+  ],
+  "tmdb": 514215
+ },
+ {
+  "id": "building-giants",
+  "slug": "building-giants",
+  "title": "Building Giants",
+  "year": "2018",
+  "y": 2018,
+  "kind": "series",
+  "genres": [
+   "Design process"
+  ],
+  "summary": "A documentary series on how technology lets giant superstructures be built.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/76593",
+    "quote": "This documentary series showcases how key technological innovations enable giant superstructures to be built."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Building%20Giants"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Building%20Giants%202018"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Building%20Giants%202018/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Building%20Giants%202018%20trailer"
+   ]
+  ],
+  "tmdb": 76593
+ },
+ {
+  "id": "chambord-the-leonardo-da-vinci-mystery",
+  "slug": "chambord-the-leonardo-da-vinci-mystery",
+  "title": "Chambord: The Leonardo Da Vinci Mystery",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Explores the mysteries of Chambord, including the identity of its architect and Leonardo da Vinci's influence.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/731641",
+    "quote": "The majestic monument has its share of mysteries: identity of its architect, influence of the Florentine painter Leonardo da Vinci in its design"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Chambord%3A%20The%20Leonardo%20Da%20Vinci%20Mystery"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Chambord%3A%20The%20Leonardo%20Da%20Vinci%20Mystery%202018"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Chambord%3A%20The%20Leonardo%20Da%20Vinci%20Mystery%202018/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Chambord%3A%20The%20Leonardo%20Da%20Vinci%20Mystery%202018%20trailer"
+   ]
+  ],
+  "tmdb": 731641
+ },
+ {
+  "id": "palace-for-the-people",
+  "slug": "palace-for-the-people",
+  "title": "Palace for the People",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A documentary on the life and death of socialist architectural monsters.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/562002",
+    "quote": "The life and death of socialist architectural monsters."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Palace%20for%20the%20People"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/title/tt8524146/"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Palace%20for%20the%20People%202018/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Palace%20for%20the%20People%202018%20trailer"
+   ]
+  ],
+  "director": [
+   "Boris Misirkov",
+   "Georgi Bogdanov"
+  ],
+  "imdb": "tt8524146",
+  "tmdb": 562002,
+  "qid": "Q74458715"
+ },
+ {
   "id": "taq-kasra-wonder-of-architecture",
   "slug": "taq-kasra-wonder-of-architecture",
   "title": "Taq Kasra: Wonder of Architecture",
@@ -1013,6 +2037,139 @@ window.FILMS = [
   "watch_checked": "2026-11-04"
  },
  {
+  "id": "the-real-thing",
+  "slug": "the-real-thing",
+  "title": "The Real Thing",
+  "year": "2018",
+  "y": 2018,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A journey across three continents to see the architecture of imitation and the fake.",
+  "architects": [],
+  "buildings": [
+   "eiffel-tower"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/549990",
+    "quote": "a journey over three continents to see the architecture of imitation, the uncanny world of the fake"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20Real%20Thing"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20Real%20Thing%202018"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20Real%20Thing%202018/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20Real%20Thing%202018%20trailer"
+   ]
+  ],
+  "tmdb": 549990
+ },
+ {
+  "id": "big-time",
+  "slug": "big-time",
+  "title": "Big Time",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "Follows architect Bjarke Ingels for six years as he struggles to complete his largest projects, including W57 and Two World Trade Center.",
+  "architects": [
+   "BIG (Bjarke Ingels Group)"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/463593",
+    "quote": "Big Time gets up close with Danish architectural prodigy Bjarke Ingels over a period of six years while he is struggling to complete his largest projects yet, the Manhattan skyscraper W57 and Two World Trade Center"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Big%20Time"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Big%20Time%202017"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Big%20Time%202017/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Big%20Time%202017%20trailer"
+   ]
+  ],
+  "tmdb": 463593
+ },
+ {
+  "id": "citizen-jane-battle-for-the-city",
+  "slug": "citizen-jane-battle-for-the-city",
+  "title": "Citizen Jane: Battle for the City",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "genres": [
+   "City & urbanism"
+  ],
+  "summary": "Urban activist Jane Jacobs fights to save historic New York City from redevelopment in the 1960s.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/411013",
+    "quote": "Writer and urban activist Jane Jacobs fights to save historic New York City during the ruthless redevelopment era of urban planner Robert Moses in the 1960s."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Citizen%20Jane%3A%20Battle%20for%20the%20City"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Citizen%20Jane%3A%20Battle%20for%20the%20City%202017"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Citizen%20Jane%3A%20Battle%20for%20the%20City%202017/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Citizen%20Jane%3A%20Battle%20for%20the%20City%202017%20trailer"
+   ]
+  ],
+  "tmdb": 411013
+ },
+ {
   "id": "conversaciones-con-renzo-piano",
   "slug": "conversaciones-con-renzo-piano",
   "title": "Conversaciones con Renzo Piano",
@@ -1217,6 +2374,277 @@ window.FILMS = [
   }
  },
  {
+  "id": "kevin-roche-the-quiet-architect",
+  "slug": "kevin-roche-the-quiet-architect",
+  "title": "Kevin Roche – The Quiet Architect",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "A feature documentary on the 70 year career of Pritzker Prize winning architect Kevin Roche.",
+  "architects": [
+   "Kevin Roche"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/497588",
+    "quote": "through the 70 year career of Pritzker Prize winning Irish-American architect Kevin Roche"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Kevin%20Roche%20%E2%80%93%20The%20Quiet%20Architect"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Kevin%20Roche%20%E2%80%93%20The%20Quiet%20Architect%202017"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Kevin%20Roche%20%E2%80%93%20The%20Quiet%20Architect%202017/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Kevin%20Roche%20%E2%80%93%20The%20Quiet%20Architect%202017%20trailer"
+   ]
+  ],
+  "tmdb": 497588
+ },
+ {
+  "id": "moriyama-san",
+  "slug": "moriyama-san",
+  "title": "Moriyama-San",
+  "year": "2017",
+  "y": 2017,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film about the Moriyama house in Tokyo, built in 2005 by Ryue Nishizawa (SANAA).",
+  "architects": [
+   "Ryue Nishizawa"
+  ],
+  "buildings": [
+   "moriyama-house"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/450488",
+    "quote": "the Moriyama house, built in Tokyo in 2005 by Pritzker-prize winner Ryue Nishizawa (SANAA)"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Moriyama-San"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Moriyama-San%202017"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Moriyama-San%202017/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Moriyama-San%202017%20trailer"
+   ]
+  ],
+  "tmdb": 450488
+ },
+ {
+  "id": "the-world-s-most-extraordinary-homes",
+  "slug": "the-world-s-most-extraordinary-homes",
+  "title": "The World's Most Extraordinary Homes",
+  "year": "2017",
+  "y": 2017,
+  "kind": "series",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Architect Piers Taylor and Caroline Quentin explore extraordinary homes built in unusual locations around the world.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/71796",
+    "quote": "Award-winning architect Piers Taylor and actress and property enthusiast Caroline Quentin explore extraordinary homes built in mountain, forest, coast and underground locations around the world."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20World%27s%20Most%20Extraordinary%20Homes"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20World%27s%20Most%20Extraordinary%20Homes%202017"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20World%27s%20Most%20Extraordinary%20Homes%202017/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20World%27s%20Most%20Extraordinary%20Homes%202017%20trailer"
+   ]
+  ],
+  "tmdb": 71796
+ },
+ {
+  "id": "eero-saarinen-the-architect-who-saw-the-future",
+  "slug": "eero-saarinen-the-architect-who-saw-the-future",
+  "title": "Eero Saarinen: The Architect Who Saw the Future",
+  "year": "2016",
+  "y": 2016,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "Looks at the work of Eero Saarinen, who also designed the TWA Flight Center at JFK airport.",
+  "architects": [
+   "Eero Saarinen"
+  ],
+  "buildings": [
+   "gateway-arch",
+   "twa-flight-center"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/432026",
+    "quote": "Saarinen also designed New York’s TWA Flight Center at John F. Kennedy International Airport"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Eero%20Saarinen%3A%20The%20Architect%20Who%20Saw%20the%20Future"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Eero%20Saarinen%3A%20The%20Architect%20Who%20Saw%20the%20Future%202016"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Eero%20Saarinen%3A%20The%20Architect%20Who%20Saw%20the%20Future%202016/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Eero%20Saarinen%3A%20The%20Architect%20Who%20Saw%20the%20Future%202016%20trailer"
+   ]
+  ],
+  "tmdb": 432026
+ },
+ {
+  "id": "no-further-instructions",
+  "slug": "no-further-instructions",
+  "title": "No Further Instructions",
+  "year": "2016",
+  "y": 2016,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A team of Mexican constructors accepts a building project that nobody knew how to build.",
+  "architects": [
+   "Toyo Ito"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/512613",
+    "quote": "Nobody knew how to build this project until a team of Mexican constructors accepted the challenge"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=No%20Further%20Instructions"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=No%20Further%20Instructions%202016"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/No%20Further%20Instructions%202016/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=No%20Further%20Instructions%202016%20trailer"
+   ]
+  ],
+  "tmdb": 512613
+ },
+ {
+  "id": "st-peter-s-and-the-papal-basilicas-of-rome-3d",
+  "slug": "st-peter-s-and-the-papal-basilicas-of-rome-3d",
+  "title": "St. Peter's and the Papal Basilicas of Rome 3D",
+  "year": "2016",
+  "y": 2016,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film tour of Rome's Papal Basilicas, shot from previously unseen points of view.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/396151",
+    "quote": "A film tour shot from previously unseen points of view"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=St.%20Peter%27s%20and%20the%20Papal%20Basilicas%20of%20Rome%203D"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=St.%20Peter%27s%20and%20the%20Papal%20Basilicas%20of%20Rome%203D%202016"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/St.%20Peter%27s%20and%20the%20Papal%20Basilicas%20of%20Rome%203D%202016/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=St.%20Peter%27s%20and%20the%20Papal%20Basilicas%20of%20Rome%203D%202016%20trailer"
+   ]
+  ],
+  "tmdb": 396151
+ },
+ {
   "id": "the-amateur",
   "slug": "the-amateur",
   "title": "The Amateur",
@@ -1293,6 +2721,49 @@ window.FILMS = [
    "credit": "TMDB",
    "source": "https://www.themoviedb.org/movie/411188"
   }
+ },
+ {
+  "id": "chambord-the-castle-the-king-and-the-architect",
+  "slug": "chambord-the-castle-the-king-and-the-architect",
+  "title": "Chambord: The Castle, the King and the Architect",
+  "year": "2015",
+  "y": 2015,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A documentary on Chambord, the Loire Valley castle that has been an enigma to historians.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/371511",
+    "quote": "Chambord, the most impressive castle in the Loire Valley, in France, a truly Renaissance treasure, has always been an enigma to generations of historians."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Chambord%3A%20The%20Castle%2C%20the%20King%20and%20the%20Architect"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Chambord%3A%20The%20Castle%2C%20the%20King%20and%20the%20Architect%202015"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Chambord%3A%20The%20Castle%2C%20the%20King%20and%20the%20Architect%202015/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Chambord%3A%20The%20Castle%2C%20the%20King%20and%20the%20Architect%202015%20trailer"
+   ]
+  ],
+  "tmdb": 371511
  },
  {
   "id": "i-am-belfast",
@@ -1441,6 +2912,141 @@ window.FILMS = [
    ]
   },
   "watch_checked": "2026-11-04"
+ },
+ {
+  "id": "vilanova-artigas-the-architect-and-the-light",
+  "slug": "vilanova-artigas-the-architect-and-the-light",
+  "title": "Vilanova Artigas: The Architect and the Light",
+  "year": "2015",
+  "y": 2015,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "A documentary that rebuilds the life of Brazilian architect João Batista Vilanova Artigas.",
+  "architects": [
+   "Vilanova Artigas"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/347098",
+    "quote": "The documentary rebuilds the life of the Brazilian architect João Batista Vilanova Artigas."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Vilanova%20Artigas%3A%20The%20Architect%20and%20the%20Light"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Vilanova%20Artigas%3A%20The%20Architect%20and%20the%20Light%202015"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Vilanova%20Artigas%3A%20The%20Architect%20and%20the%20Light%202015/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Vilanova%20Artigas%3A%20The%20Architect%20and%20the%20Light%202015%20trailer"
+   ]
+  ],
+  "tmdb": 347098
+ },
+ {
+  "id": "two-museums",
+  "slug": "two-museums",
+  "title": "Two Museums",
+  "year": "2014",
+  "y": 2014,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film comparing two museums: Samuel Bickels's 1948 museum in Ein Harod, Israel, and Renzo Piano's Menil Collection in Houston.",
+  "architects": [
+   "Renzo Piano"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/318322",
+    "quote": "The film juxtaposes/compares two museums: The Museum of Art, Ein Harod, Israel, which Samuel Bickels (1909-1975) built there in 1948, and The Menil Collection in Houston, Texas, built by Renzo Piano (b. 1937) 1986"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Two%20Museums"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Two%20Museums%202014"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Two%20Museums%202014/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Two%20Museums%202014%20trailer"
+   ]
+  ],
+  "tmdb": 318322
+ },
+ {
+  "id": "amancio-williams",
+  "slug": "amancio-williams",
+  "title": "Amancio Williams",
+  "year": "2013",
+  "y": 2013,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "A biography documentary of Argentine modernist architect Amancio Williams.",
+  "architects": [
+   "Amancio Williams"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/266522",
+    "quote": "A biography documentary of the Argentine modernist architect Amancio Williams."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Amancio%20Williams"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Amancio%20Williams%202013"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Amancio%20Williams%202013/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Amancio%20Williams%202013%20trailer"
+   ]
+  ],
+  "tmdb": 266522
  },
  {
   "id": "if-you-build-it",
@@ -1663,6 +3269,49 @@ window.FILMS = [
   "imdb": "tt2250180",
   "tmdb": 948905,
   "qid": "Q17088834"
+ },
+ {
+  "id": "coast-modern",
+  "slug": "coast-modern",
+  "title": "Coast Modern",
+  "year": "2012",
+  "y": 2012,
+  "kind": "feature",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "Looks at the architects who built inspired homes along the West Coast, from Vancouver to LA.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/273921",
+    "quote": "A core group of architects embraced the West Coast from Vancouver to LA with its particular geography and values and left behind a legacy of inspired dwellings."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Coast%20Modern"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Coast%20Modern%202012"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Coast%20Modern%202012/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Coast%20Modern%202012%20trailer"
+   ]
+  ],
+  "tmdb": 273921
  },
  {
   "id": "lullaby-to-my-father",
@@ -1963,6 +3612,49 @@ window.FILMS = [
    ]
   },
   "watch_checked": "2026-11-04"
+ },
+ {
+  "id": "the-human-scale",
+  "slug": "the-human-scale",
+  "title": "The Human Scale",
+  "year": "2012",
+  "y": 2012,
+  "kind": "feature",
+  "genres": [
+   "City & urbanism"
+  ],
+  "summary": "Danish architect Jan Gehl has studied how people behave in cities for forty years.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/176182",
+    "quote": "The Danish architect and professor Jan Gehl has studied human behavior in cities through 40 years."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20Human%20Scale"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20Human%20Scale%202012"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20Human%20Scale%202012/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20Human%20Scale%202012%20trailer"
+   ]
+  ],
+  "tmdb": 176182
  },
  {
   "id": "battle-for-the-city",
@@ -3241,6 +4933,49 @@ window.FILMS = [
   "watch_checked": "2026-11-04"
  },
  {
+  "id": "koolhaas-houselife",
+  "slug": "koolhaas-houselife",
+  "title": "Koolhaas Houselife",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Portrays one of the masterpieces of contemporary architecture.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/224000",
+    "quote": "Koolhaas Houselife portrays one of the masterpieces of contemporary architecture."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Koolhaas%20Houselife"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Koolhaas%20Houselife%202008"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Koolhaas%20Houselife%202008/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Koolhaas%20Houselife%202008%20trailer"
+   ]
+  ],
+  "tmdb": 224000
+ },
+ {
   "id": "loos-ornamental",
   "slug": "loos-ornamental",
   "title": "Loos Ornamental",
@@ -3375,6 +5110,49 @@ window.FILMS = [
    "w": 342,
    "h": 483
   }
+ },
+ {
+  "id": "secrets-of-the-parthenon",
+  "slug": "secrets-of-the-parthenon",
+  "title": "Secrets of the Parthenon",
+  "year": "2008",
+  "y": 2008,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A modern restoration team tries to uncover how the ancient Greeks built the Parthenon, to save it from collapse.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/395779",
+    "quote": "To save it from collapse, the modern restoration team must uncover the secrets of how the ancient Greeks built this icon of western civilization"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Secrets%20of%20the%20Parthenon"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Secrets%20of%20the%20Parthenon%202008"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Secrets%20of%20the%20Parthenon%202008/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Secrets%20of%20the%20Parthenon%202008%20trailer"
+   ]
+  ],
+  "tmdb": 395779
  },
  {
   "id": "the-last-wright-frank-lloyd-wright-and-the-park-inn-hotel",
@@ -3993,6 +5771,53 @@ window.FILMS = [
   }
  },
  {
+  "id": "building-the-gherkin",
+  "slug": "building-the-gherkin",
+  "title": "Building the Gherkin",
+  "year": "2005",
+  "y": 2005,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A 40-storey steel and glass tower sparks controversy as it is built.",
+  "architects": [
+   "Norman Foster"
+  ],
+  "buildings": [
+   "30-st-mary-axe"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/357857",
+    "quote": "The 40-storey steel and glass tower sparks further controversy"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Building%20the%20Gherkin"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Building%20the%20Gherkin%202005"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Building%20the%20Gherkin%202005/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Building%20the%20Gherkin%202005%20trailer"
+   ]
+  ],
+  "tmdb": 357857
+ },
+ {
   "id": "sketches-of-frank-gehry",
   "slug": "sketches-of-frank-gehry",
   "title": "Sketches of Frank Gehry",
@@ -4253,6 +6078,49 @@ window.FILMS = [
   }
  },
  {
+  "id": "fred-dibnah-s-building-of-britain",
+  "slug": "fred-dibnah-s-building-of-britain",
+  "title": "Fred Dibnah's Building of Britain",
+  "year": "2002",
+  "y": 2002,
+  "kind": "series",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "A six-episode series on Britain's architectural heritage.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/109443",
+    "quote": "All six episodes look at Britain's architectural heritage."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Fred%20Dibnah%27s%20Building%20of%20Britain"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Fred%20Dibnah%27s%20Building%20of%20Britain%202002"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Fred%20Dibnah%27s%20Building%20of%20Britain%202002/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Fred%20Dibnah%27s%20Building%20of%20Britain%202002%20trailer"
+   ]
+  ],
+  "tmdb": 109443
+ },
+ {
   "id": "berlin-babylon",
   "slug": "berlin-babylon",
   "title": "Berlin Babylon",
@@ -4330,6 +6198,137 @@ window.FILMS = [
    "credit": "TMDB",
    "source": "https://www.themoviedb.org/movie/250989"
   }
+ },
+ {
+  "id": "maillart-s-bridges",
+  "slug": "maillart-s-bridges",
+  "title": "Maillart's Bridges",
+  "year": "2001",
+  "y": 2001,
+  "kind": "feature",
+  "genres": [
+   "Design process"
+  ],
+  "summary": "A film on the Swiss architect Robert Maillart and his renowned concrete bridges.",
+  "architects": [
+   "Robert Maillart"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/310734",
+    "quote": "Famed Swiss architect and artist Robert Maillart was renowned for his concrete bridges"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Maillart%27s%20Bridges"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Maillart%27s%20Bridges%202001"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Maillart%27s%20Bridges%202001/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Maillart%27s%20Bridges%202001%20trailer"
+   ]
+  ],
+  "tmdb": 310734
+ },
+ {
+  "id": "the-creators-of-the-shopping-worlds",
+  "slug": "the-creators-of-the-shopping-worlds",
+  "title": "The Creators of the Shopping Worlds",
+  "year": "2001",
+  "y": 2001,
+  "kind": "feature",
+  "genres": [
+   "Design process"
+  ],
+  "summary": "A look at how mall producers design malls to maximise traffic and sales.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/157676",
+    "quote": "A look at how mall producers design malls in order to maximise traffic and sales."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20Creators%20of%20the%20Shopping%20Worlds"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20Creators%20of%20the%20Shopping%20Worlds%202001"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20Creators%20of%20the%20Shopping%20Worlds%202001/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20Creators%20of%20the%20Shopping%20Worlds%202001%20trailer"
+   ]
+  ],
+  "tmdb": 157676
+ },
+ {
+  "id": "grand-designs",
+  "slug": "grand-designs",
+  "title": "Grand Designs",
+  "year": "1999",
+  "y": 1999,
+  "kind": "series",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A British television series on unusual and elaborate architectural homebuilding projects.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/tv/1831",
+    "quote": "British television series which features unusual and often elaborate architectural homebuilding projects."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Grand%20Designs"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Grand%20Designs%201999"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Grand%20Designs%201999/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Grand%20Designs%201999%20trailer"
+   ]
+  ],
+  "tmdb": 1831
  },
  {
   "id": "l-esprit-de-mopti",
@@ -4548,6 +6547,51 @@ window.FILMS = [
   "watch_checked": "2026-11-04"
  },
  {
+  "id": "futuro-a-new-stance-for-tomorrow",
+  "slug": "futuro-a-new-stance-for-tomorrow",
+  "title": "Futuro – A New Stance for Tomorrow",
+  "year": "1998",
+  "y": 1998,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A documentary on the rise and fall of the Finnish plastic Futuro house.",
+  "architects": [],
+  "buildings": [
+   "futuro-house"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/594638",
+    "quote": "A documentary film about the rise and fall of a Finnish plastic house."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Futuro%20%E2%80%93%20A%20New%20Stance%20for%20Tomorrow"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Futuro%20%E2%80%93%20A%20New%20Stance%20for%20Tomorrow%201998"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Futuro%20%E2%80%93%20A%20New%20Stance%20for%20Tomorrow%201998/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Futuro%20%E2%80%93%20A%20New%20Stance%20for%20Tomorrow%201998%20trailer"
+   ]
+  ],
+  "tmdb": 594638
+ },
+ {
   "id": "sotsgorod-cities-for-utopia",
   "slug": "sotsgorod-cities-for-utopia",
   "title": "Sotsgorod: Cities for Utopia",
@@ -4715,6 +6759,49 @@ window.FILMS = [
   "watch_checked": "2026-11-04"
  },
  {
+  "id": "the-stone-carvers",
+  "slug": "the-stone-carvers",
+  "title": "The Stone Carvers",
+  "year": "1984",
+  "y": 1984,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Follows some of the last stone carvers in the United States, completing sculptures on the Washington National Cathedral.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/244656",
+    "quote": "A look at some of the last stone carvers working in the United States, those completing the sculptures adorning the Washington National Cathedral"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20Stone%20Carvers"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20Stone%20Carvers%201984"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20Stone%20Carvers%201984/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20Stone%20Carvers%201984%20trailer"
+   ]
+  ],
+  "tmdb": 244656
+ },
+ {
   "id": "spaces-the-architecture-of-paul-rudolph",
   "slug": "spaces-the-architecture-of-paul-rudolph",
   "title": "Spaces: The Architecture of Paul Rudolph",
@@ -4783,6 +6870,141 @@ window.FILMS = [
    "w": 342,
    "h": 513
   }
+ },
+ {
+  "id": "brooklyn-bridge",
+  "slug": "brooklyn-bridge",
+  "title": "Brooklyn Bridge",
+  "year": "1981",
+  "y": 1981,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A documentary on the history of the Brooklyn Bridge.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_(film)",
+    "quote": "Brooklyn Bridge is a documentary film on the history of the Brooklyn Bridge and the directorial debut of Ken Burns."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Brooklyn%20Bridge"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/title/tt0082106/"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Brooklyn%20Bridge%201981/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Brooklyn%20Bridge%201981%20trailer"
+   ]
+  ],
+  "director": [
+   "Ken Burns"
+  ],
+  "runtime_min": 58,
+  "imdb": "tt0082106",
+  "tmdb": 67079,
+  "qid": "Q929432"
+ },
+ {
+  "id": "the-social-life-of-small-urban-spaces",
+  "slug": "the-social-life-of-small-urban-spaces",
+  "title": "The Social Life of Small Urban Spaces",
+  "year": "1980",
+  "y": 1980,
+  "kind": "feature",
+  "genres": [
+   "City & urbanism"
+  ],
+  "summary": "A film on why some city open spaces work for people and others do not.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/177599",
+    "quote": "This witty and original film is about the open spaces of cities and why some of them work for people while others don't."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20Social%20Life%20of%20Small%20Urban%20Spaces"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20Social%20Life%20of%20Small%20Urban%20Spaces%201980"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20Social%20Life%20of%20Small%20Urban%20Spaces%201980/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20Social%20Life%20of%20Small%20Urban%20Spaces%201980%20trailer"
+   ]
+  ],
+  "tmdb": 177599
+ },
+ {
+  "id": "brasilia-contradictions-of-a-new-city",
+  "slug": "brasilia-contradictions-of-a-new-city",
+  "title": "Brasilia, Contradictions of a New City",
+  "year": "1968",
+  "y": 1968,
+  "kind": "feature",
+  "genres": [
+   "City & urbanism"
+  ],
+  "summary": "A 1968 documentary on the new Brazilian capital, Brasília.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/258071",
+    "quote": "produce a documentary on the new Brazilian capital city of Brasília"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Brasilia%2C%20Contradictions%20of%20a%20New%20City"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Brasilia%2C%20Contradictions%20of%20a%20New%20City%201968"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Brasilia%2C%20Contradictions%20of%20a%20New%20City%201968/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Brasilia%2C%20Contradictions%20of%20a%20New%20City%201968%20trailer"
+   ]
+  ],
+  "tmdb": 258071
  },
  {
   "id": "monument-to-the-dream",
@@ -4858,6 +7080,94 @@ window.FILMS = [
    "credit": "TMDB",
    "source": "https://www.themoviedb.org/movie/243315"
   }
+ },
+ {
+  "id": "a-city-at-chandigarh",
+  "slug": "a-city-at-chandigarh",
+  "title": "A City at Chandigarh",
+  "year": "1966",
+  "y": 1966,
+  "kind": "feature",
+  "genres": [
+   "City & urbanism"
+  ],
+  "summary": "A documentary on the construction of Chandigarh, planned by Albert Mayer and Le Corbusier.",
+  "architects": [
+   "Le Corbusier"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/453052",
+    "quote": "Documentary on the construction of Chandigarh, the new capital of the Indian Punjab region, planned by Albert Mayer and Swiss architect Le Corbusier."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=A%20City%20at%20Chandigarh"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=A%20City%20at%20Chandigarh%201966"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/A%20City%20at%20Chandigarh%201966/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=A%20City%20at%20Chandigarh%201966%20trailer"
+   ]
+  ],
+  "tmdb": 453052
+ },
+ {
+  "id": "high-steel",
+  "slug": "high-steel",
+  "title": "High Steel",
+  "year": "1965",
+  "y": 1965,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "Follows Mohawk ironworkers from Kahnawake, famed for erecting the steel frames of skyscrapers.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/242508",
+    "quote": "They are the Mohawk Indians from Kahnawake, near Montréal, famed for their skill in erecting the steel frames of skyscrapers"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=High%20Steel"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=High%20Steel%201965"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/High%20Steel%201965/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=High%20Steel%201965%20trailer"
+   ]
+  ],
+  "tmdb": 242508
  },
  {
   "id": "the-delhi-way",
@@ -5165,6 +7475,225 @@ window.FILMS = [
    ]
   },
   "watch_checked": "2026-11-04"
+ },
+ {
+  "id": "house-after-five-years-of-living",
+  "slug": "house-after-five-years-of-living",
+  "title": "House: After Five Years of Living",
+  "year": "1955",
+  "y": 1955,
+  "kind": "feature",
+  "genres": [
+   "Building story"
+  ],
+  "summary": "A film that explores the Eames House and Studio through a series of slides.",
+  "architects": [],
+  "buildings": [
+   "eames-house"
+  ],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/310270",
+    "quote": "The Eames House and Studio is explored via a series of slides."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=House%3A%20After%20Five%20Years%20of%20Living"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=House%3A%20After%20Five%20Years%20of%20Living%201955"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/House%3A%20After%20Five%20Years%20of%20Living%201955/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=House%3A%20After%20Five%20Years%20of%20Living%201955%20trailer"
+   ]
+  ],
+  "tmdb": 310270
+ },
+ {
+  "id": "maestro-plecnik",
+  "slug": "maestro-plecnik",
+  "title": "Maestro Plecnik",
+  "year": "1953",
+  "y": 1953,
+  "kind": "feature",
+  "genres": [
+   "Portrait of an architect"
+  ],
+  "summary": "A documentary showing buildings by architect Joze Plecnik in Prague, Wien and Ljubljana.",
+  "architects": [
+   "Jože Plečnik"
+  ],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/483401",
+    "quote": "Documentary showing buildings made by great architect Joze Plecnik in Prague, Wien, Ljubljana"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Maestro%20Plecnik"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Maestro%20Plecnik%201953"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Maestro%20Plecnik%201953/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Maestro%20Plecnik%201953%20trailer"
+   ]
+  ],
+  "tmdb": 483401
+ },
+ {
+  "id": "brief-city",
+  "slug": "brief-city",
+  "title": "Brief City",
+  "year": "1952",
+  "y": 1952,
+  "kind": "feature",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "Shows the styles of architecture used at the 1951 South Bank Exhibition in London.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/335854",
+    "quote": "Styles of architecture used in the 1951 South Bank Exhibition, London."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=Brief%20City"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=Brief%20City%201952"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/Brief%20City%201952/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=Brief%20City%201952%20trailer"
+   ]
+  ],
+  "tmdb": 335854
+ },
+ {
+  "id": "the-city",
+  "slug": "the-city",
+  "title": "The City",
+  "year": "1939",
+  "y": 1939,
+  "kind": "feature",
+  "genres": [
+   "City & urbanism"
+  ],
+  "summary": "A 1939 documentary on city planning that presents suburbs as a solution to inner-city decay.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/163093",
+    "quote": "A prescient documentary about city planning, which presents idyllic suburbs and nuclear families as a solution to the chaos, poverty and social decay of industrialized inner cities."
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20City"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20City%201939"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20City%201939/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20City%201939%20trailer"
+   ]
+  ],
+  "tmdb": 163093
+ },
+ {
+  "id": "the-new-apartment",
+  "slug": "the-new-apartment",
+  "title": "The New Apartment",
+  "year": "1930",
+  "y": 1930,
+  "kind": "feature",
+  "genres": [
+   "Movement & history"
+  ],
+  "summary": "A film made for a Basel architecture exhibition to show innovative aspects of modern architecture.",
+  "architects": [],
+  "buildings": [],
+  "sources": [
+   {
+    "url": "https://www.themoviedb.org/movie/233976",
+    "quote": "A commissioned film for Schweizerischer Werkbund (SWB), Die neue Wohnung was produced for the Basel architectural and interior design exhibition, WOBA, to demonstrate innovative aspects of modern architecture"
+   }
+  ],
+  "find": [
+   [
+    "Where to stream",
+    "JustWatch",
+    "https://www.justwatch.com/us/search?q=The%20New%20Apartment"
+   ],
+   [
+    "Cast and crew",
+    "IMDb",
+    "https://www.imdb.com/find/?q=The%20New%20Apartment%201930"
+   ],
+   [
+    "Reviews",
+    "Letterboxd",
+    "https://letterboxd.com/search/The%20New%20Apartment%201930/"
+   ],
+   [
+    "Trailer",
+    "YouTube",
+    "https://www.youtube.com/results?search_query=The%20New%20Apartment%201930%20trailer"
+   ]
+  ],
+  "tmdb": 233976
  },
  {
   "id": "marvellous-melbourne",
