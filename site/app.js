@@ -238,7 +238,7 @@
     const rows = (f.watch || {})[cc] || [];
     return rows.map(p =>
       `<a href="${esc(p.url)}" target="_blank" rel="noopener">` +
-      (p.logo ? `<img class="plogo" src="https://image.tmdb.org/t/p/w92${esc(p.logo)}" alt="" loading="lazy">` : '<span class="plogo"></span>') +
+      (p.logo ? `<img class="plogo" src="${esc(p.logo)}" alt="" loading="lazy">` : '<span class="plogo"></span>') +
       `<span class="pname">${esc(p.provider)}</span>` +
       `<span class="pway">${esc(p.types.map(t => WATCH_WORDS[t] || t).join(' · '))}</span></a>`).join('');
   }

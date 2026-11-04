@@ -18,13 +18,19 @@ and saves:
 A film TMDB does not have keeps its four plain links and loses nothing. Facts already in the seed are never
 overwritten: this only fills what is empty, so a hand-checked line always wins.
 """
-import json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
+import io, json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
 from datetime import date
 from pathlib import Path
+
+from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
 SEED = ROOT / 'tools' / 'films_seed.json'
 REPORT = ROOT / 'tools' / 'films_tmdb_report.md'
+IMG_DIR = ROOT / 'site' / 'images' / 'films'
+LOGO_DIR = IMG_DIR / 'p'
+THUMB_W = 342          # the width the wall shows a poster at
+IMAGE = 'https://image.tmdb.org/t/p/'
 TMDB = 'https://api.themoviedb.org/3'
 UA = 'FindGreatArchitecture/1.0 (https://findgreatarchitecture.com/)'
 # Western countries first, as the audience is, plus India where a good deal of the under-represented work sits.
@@ -55,6 +61,33 @@ def get(url, key):
         except Exception as e:
             print(f'  retry after {e}', file=sys.stderr); time.sleep(3 * (attempt + 1))
     return None
+
+
+def fetch(url):
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': UA})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                return r.read()
+        except Exception as e:
+            print(f'  image retry after {e}', file=sys.stderr); time.sleep(2 * (attempt + 1))
+    return None
+
+
+def save_thumb(data, path, width):
+    """Save a small WebP of our own. The posters are hotlinked no longer: image.tmdb.org is blocked by some
+    networks, India's among them, and a reader there saw empty boxes. The site serves the thumbnail and TMDB is
+    still credited and linked, as the book covers are from Open Library."""
+    try:
+        im = Image.open(io.BytesIO(data))
+    except Exception as e:
+        print(f'  not an image: {e}', file=sys.stderr); return None
+    if im.mode not in ('RGB', 'RGBA'):
+        im = im.convert('RGBA' if 'A' in im.mode else 'RGB')
+    im.thumbnail((width, width * 3), Image.LANCZOS)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    im.save(path, 'WEBP', quality=82, method=6)
+    return im.size
 
 
 def fold(s):
@@ -93,8 +126,17 @@ def providers(kind, tid, key):
             continue
         for tmdb_kind, ours in KINDS.items():
             for p in row.get(tmdb_kind) or []:
+                logo = None
+                if p.get('logo_path') and p.get('provider_id'):
+                    name = f'{p["provider_id"]}.webp'
+                    if not (LOGO_DIR / name).exists():
+                        raw = fetch(f'{IMAGE}w92{p["logo_path"]}')
+                        if raw:
+                            save_thumb(raw, LOGO_DIR / name, 92)
+                    if (LOGO_DIR / name).exists():
+                        logo = f'images/films/p/{name}'
                 out.append({'provider': p.get('provider_name'), 'country': cc, 'type': ours,
-                            'url': row.get('link'), 'checked': today, 'logo': p.get('logo_path')})
+                            'url': row.get('link'), 'checked': today, 'logo': logo})
     return out
 
 
@@ -113,9 +155,14 @@ def main(force=False):
             continue
         found += 1
         f['tmdb'], f['tmdb_kind'] = d['id'], kind
-        if d.get('poster_path') and not f.get('image'):
-            f['image'] = {'poster': d['poster_path'], 'credit': 'TMDB', 'source': f'https://www.themoviedb.org/{kind}/{d["id"]}'}
-            posters += 1
+        if d.get('poster_path'):
+            raw = fetch(f'{IMAGE}w{THUMB_W}{d["poster_path"]}')
+            size = save_thumb(raw, IMG_DIR / f'{f["id"]}.webp', THUMB_W) if raw else None
+            f['image'] = {'poster': d['poster_path'], 'credit': 'TMDB',
+                          'source': f'https://www.themoviedb.org/{kind}/{d["id"]}'}
+            if size:
+                f['image'].update({'local': f'images/films/{f["id"]}.webp', 'w': size[0], 'h': size[1]})
+                posters += 1
         if d.get('vote_average') and d.get('vote_count'):
             f['ratings'] = [{'source': 'TMDB', 'value': round(d['vote_average'] * 10), 'scale': 100,
                              'votes': d['vote_count'], 'url': f'https://www.themoviedb.org/{kind}/{d["id"]}',

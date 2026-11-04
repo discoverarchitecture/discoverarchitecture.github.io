@@ -74,9 +74,11 @@ def main():
             if f.get(k):
                 film[k] = f[k]
         # the poster is hotlinked from TMDB at two sizes, as the book covers are from Open Library
-        if (f.get('image') or {}).get('poster'):
-            film['poster'] = {'thumb': IMG + 'w342' + f['image']['poster'], 'full': IMG + 'w780' + f['image']['poster'],
-                              'credit': f['image'].get('credit', 'TMDB'), 'source': f['image'].get('source')}
+        im = f.get('image') or {}
+        if im.get('local'):
+            film['poster'] = {'thumb': im['local'], 'full': IMG + 'w780' + im['poster'],
+                              'credit': im.get('credit', 'TMDB'), 'source': im.get('source'),
+                              'w': im.get('w'), 'h': im.get('h')}
         if f.get('watch'):
             film['watch'] = watch_by_country(f['watch'])
             film['watch_checked'] = f['watch'][0].get('checked')
