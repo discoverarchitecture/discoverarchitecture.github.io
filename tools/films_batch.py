@@ -68,7 +68,8 @@ EVENT = re.compile(r'\b9/11\b|september 11|terroris|al-qaeda|hijack|bombing|mass
 # inside them is already gone by then, because Wikidata says whether a film is a documentary. "Architecture film
 # festivals" is left out: a festival is not a film.
 TRUSTED = re.compile(r'wikipedia:(Documentary films about architecture|Films about architecture|'
-                     r'Films about architects|Documentary films about urban studies)', re.I)
+                     r'Films about architects|Documentary films about urban studies)'
+                     r'|tmdb-keyword:', re.I)
 
 
 def relevant(c):

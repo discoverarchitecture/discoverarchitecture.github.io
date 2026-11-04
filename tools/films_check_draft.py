@@ -4,7 +4,8 @@
   python3 tools/films_check_draft.py <candidates.json> <draft1.json> [draft2.json ...]
 
 A draft entry says what a film is about and quotes the words it got that from. This checks the quote is really
-there, character for character, in that film's saved Wikipedia opening paragraph. A quote that has been retyped,
+there, character for character, in that film's saved source text: its Wikipedia opening paragraph, or for a film
+found on TMDB, the overview TMDB holds. A quote that has been retyped,
 tidied or stitched together from two sentences fails, because a summary resting on words nobody wrote is exactly
 the invented fact the brief forbids. Also checks the genres are from the fixed seven and the summary is short
 enough. Prints a report and exits non-zero if anything failed, so a bad draft cannot slip through quietly.
@@ -38,7 +39,8 @@ def main(cand_path, draft_paths):
             c = cands.get(qid)
             if not c:
                 bad.append(f'{where}: qid {qid!r} is not in the candidates'); continue
-            q, extract = d.get('summary_quote'), c.get('extract') or ''
+            # the source is the Wikipedia opening paragraph, or for a film that came from TMDB, its overview
+            q, extract = d.get('summary_quote'), (c.get('extract') or '') + '\n' + (c.get('overview') or '')
             if not q:
                 bad.append(f'{where}: kept, but quotes nothing')
             elif norm(q) not in norm(extract):

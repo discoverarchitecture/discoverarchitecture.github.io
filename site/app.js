@@ -220,6 +220,92 @@
     return el;
   }
 
+  /* ---------- the Top 5 cinema hero (v35 · 02 B) ----------
+     One large still with the film's name over it, its score, where to watch and a trailer, and five small stills
+     to step between. It shows only on the plain Documentaries wall: under a search or a genre the films
+     themselves are the answer, so the hero would be in the way. Films are those marked `featured` 1 to 5 in the
+     seed, picked by hand. The dark wash over the still is a literal rgba, as the wall's own tile caption is: a
+     scrim over a photo, which is the one place theme.css does not reach. */
+  let heroAt = 0, heroEl = null;
+  const featured = () => FILMS.filter(f => f.featured).sort((a, b) => a.featured - b.featured);
+
+  function heroHtml(f, list, i) {
+    const s = scoreOf(f);
+    const meta = [f.year, f.runtime_min ? f.runtime_min + ' min' : null,
+                  (f.director || []).length ? 'Directed by ' + f.director.join(', ') : null,
+                  (f.architects || []).length ? 'about ' + f.architects[0] : null].filter(Boolean).join(' · ');
+    const have = Object.keys(f.watch || {});
+    const cc = have.length ? (state.watchCC && have.includes(state.watchCC) ? state.watchCC : homeCountry(have)) : null;
+    const rows = cc ? (f.watch[cc] || []).slice(0, 3) : [];
+    const watch = rows.length
+      ? `<div class="hero-watch"><span class="lab">Watch</span>` + rows.map(p =>
+          `<a href="${esc(p.url)}" target="_blank" rel="noopener">` +
+          (p.logo ? `<img src="${esc(p.logo)}" alt="" loading="lazy">` : '') +
+          `<span><b>${esc(p.provider)}</b><i>${esc(p.types.map(x => WATCH_WORDS[x] || x).join(' · '))}</i></span></a>`).join('') +
+        `</div>`
+      : '';
+    const thumbs = list.map((x, k) =>
+      `<button type="button" class="hero-th${k === i ? ' on' : ''}" data-hero="${k}" aria-label="${esc(x.title)}"${k === i ? ' aria-current="true"' : ''}>` +
+      `<span class="ph">${x.wide ? `<img src="${esc(x.wide.src)}" alt="" loading="lazy">` : (x.poster ? `<img src="${esc(x.poster.thumb)}" alt="" loading="lazy">` : '')}</span>` +
+      `<small>${k + 1} · ${esc(x.title)}</small></button>`).join('');
+    return `<div class="hero-shot">${f.wide ? `<img src="${esc(f.wide.src)}" alt="" fetchpriority="high">` : (f.poster ? `<img class="blur" src="${esc(f.poster.thumb)}" alt="">` : '')}</div>` +
+      `<div class="hero-wash"></div>` +
+      `<div class="hero-body">` +
+        `<span class="lab">Top 5 · ${i + 1} of ${list.length}</span>` +
+        `<h2>${esc(f.title)}</h2>` +
+        `<span class="hero-meta">${esc(meta)}</span>` +
+        (s ? `<div class="hero-chips"><span class="tmdb-glass"><i>TMDB</i>${s.value}%</span></div>` : '') +
+        watch +
+        `<div class="hero-go">` +
+          `<button type="button" class="btn red" data-hero-open="${esc(f.id)}">Open the film →</button>` +
+          (f.trailer ? `<a class="btn glass" href="https://www.youtube.com/watch?v=${esc(f.trailer)}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>Trailer</a>` : '') +
+        `</div>` +
+      `</div>` +
+      `<div class="hero-thumbs">${thumbs}</div>` +
+      `<button type="button" class="hero-arr prev" aria-label="Previous featured film"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>` +
+      `<button type="button" class="hero-arr next" aria-label="Next featured film"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>`;
+  }
+
+  function drawHero() {
+    const host = $('hero');
+    if (!host) return;
+    const list = featured();
+    const on = state.mode === 'films' && !state.q && !state.shelf && list.length;
+    host.hidden = !on;
+    if (!on) { heroEl = null; return; }
+    if (heroAt >= list.length) heroAt = 0;
+    host.innerHTML = heroHtml(list[heroAt], list, heroAt);
+    heroEl = host;
+  }
+  function stepHero(d) {
+    const list = featured();
+    if (!list.length) return;
+    heroAt = (heroAt + d + list.length) % list.length;
+    drawHero();
+  }
+  {
+    const host = $('hero');
+    if (host) {
+      host.addEventListener('click', e => {
+        const open = e.target.closest('[data-hero-open]');
+        if (open) return openFilm(open.dataset.heroOpen, false, null, false, featured());
+        const th = e.target.closest('[data-hero]');
+        if (th) { heroAt = +th.dataset.hero; return drawHero(); }
+        const arr = e.target.closest('.hero-arr');
+        if (arr) stepHero(arr.classList.contains('next') ? 1 : -1);
+      });
+      // a sideways swipe moves between the five, as it does on a photo tile
+      let x0 = null;
+      host.addEventListener('touchstart', e => { x0 = e.touches[0].clientX; }, { passive: true });
+      host.addEventListener('touchend', e => {
+        if (x0 == null) return;
+        const dx = e.changedTouches[0].clientX - x0;
+        x0 = null;
+        if (Math.abs(dx) > 48) stepHero(dx < 0 ? 1 : -1);
+      }, { passive: true });
+    }
+  }
+
   /* ---------- where to watch ----------
      TMDB's streaming data comes from JustWatch, and both are credited wherever it is shown. The country follows
      the visitor's own, because a service they cannot use is worse than none; US is the fallback, and every other
@@ -238,7 +324,7 @@
     const rows = (f.watch || {})[cc] || [];
     return rows.map(p =>
       `<a href="${esc(p.url)}" target="_blank" rel="noopener">` +
-      (p.logo ? `<img class="plogo" src="https://image.tmdb.org/t/p/w92${esc(p.logo)}" alt="" loading="lazy">` : '<span class="plogo"></span>') +
+      (p.logo ? `<img class="plogo" src="${esc(p.logo)}" alt="" loading="lazy">` : '<span class="plogo"></span>') +
       `<span class="pname">${esc(p.provider)}</span>` +
       `<span class="pway">${esc(p.types.map(t => WATCH_WORDS[t] || t).join(' · '))}</span></a>`).join('');
   }
@@ -403,6 +489,7 @@
     const nf = GROUPS.reduce((s, g) => s + state.filters[g.key].size, 0) + (state.decades ? 1 : 0);
     $('filterCount').textContent = nf ? String(nf) : '';
     renderIdeas();
+    drawHero();
     updateDock();
     if (toTop) window.scrollTo({ top: 0, behavior: 'smooth' });
   }

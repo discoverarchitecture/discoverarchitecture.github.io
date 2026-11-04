@@ -102,12 +102,20 @@ def score_chip(f):
     return f' <span class="tmdb-chip">TMDB {s["value"]}%</span>' if s else ''
 
 
-def poster_html(f):
+def poster_html(bp, f, up):
+    """The poster, served from this site rather than hotlinked: image.tmdb.org is blocked on some networks.
+    TMDB is still credited and linked, as Open Library is for a book cover."""
     p = f.get('poster')
     if not p:
         return ''
-    return (f'<figure class="fp-poster"><img src="{p["thumb"]}" alt="Poster for {f["title"]}" loading="eager" width="342" height="513">'
-            f'<figcaption>Poster from <a href="{p.get("source") or "https://www.themoviedb.org/"}">TMDB</a></figcaption></figure>')
+    e = bp.e
+    size = ''
+    if p.get('w') and p.get('h'):
+        size = f' width="{p["w"]}" height="{p["h"]}"'
+    source = e(p.get('source') or 'https://www.themoviedb.org/')
+    return (f'<figure class="fp-poster">'
+            f'<img src="{e(bp.at(up, p["thumb"]))}" alt="Poster for {e(f["title"])}" loading="eager"{size}>'
+            f'<figcaption>Poster from <a href="{source}">TMDB</a></figcaption></figure>')
 
 
 def page(bp, f, all_films, by_id, by_arch):
@@ -135,7 +143,7 @@ def page(bp, f, all_films, by_id, by_arch):
         cc = 'US' if 'US' in have else have[0]
         rows = ''.join(
             f'<a href="{e(w["url"])}">'
-            + (f'<img class="plogo" src="https://image.tmdb.org/t/p/w92{e(w["logo"])}" alt="" loading="lazy" width="30" height="30">' if w.get('logo') else '')
+            + (f'<img class="plogo" src="{e(bp.at(up, w["logo"]))}" alt="" loading="lazy" width="30" height="30">' if w.get('logo') else '')
             + f'<span class="pname">{e(w["provider"])}</span>'
               f'<span class="pway">{e(" · ".join(WATCH_WORDS.get(t, t) for t in w["types"]))}</span></a>'
             for w in f['watch'][cc])
@@ -180,7 +188,7 @@ def page(bp, f, all_films, by_id, by_arch):
             f'<nav class="crumbs"><a href="{up}">Find Great Architecture</a> · <a href="{up}{FOLDER}/">Documentaries</a></nav>\n'
             f'<header class="fp-head"><p class="fp-kick">{e((f.get("genres") or [""])[0])}{" · Series" if f.get("kind") == "series" else ""}'
             f'{score_chip(f)}</p>'
-            f'{poster_html(f)}'
+            f'{poster_html(bp, f, up)}'
             f'<h1>{e(f["title"])}</h1>{byline}'
             f'<p class="fp-meta">{e(meta)}</p>'
             f'<div class="fp-tags">{genres}</div></header>\n'

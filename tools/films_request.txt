@@ -1,2 +1,2 @@
-python -u tools/fetch_films_tmdb.py
-# run 7, 3 Nov: posters, TMDB scores and where-to-watch for the 46 films on the shelf
+python -u tools/fetch_films_tmdb.py --force
+# run 11, 4 Nov: wide stills and trailers for the Top 5 cinema hero

@@ -25,7 +25,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -33,7 +32,7 @@
     "scale": 100,
     "votes": 35,
     "url": "https://www.themoviedb.org/movie/37239",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0086907",
@@ -52,42 +51,52 @@
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/37239/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/37239/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/37239/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/37239/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "lTzJ5qsYzpQ",
   "image": {
    "poster": "/5avrBzIW7mXrUmUAz8gNz8KxXhB.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/37239"
+   "source": "https://www.themoviedb.org/movie/37239",
+   "local": "images/films/antonio-gaudi.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 37239,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/antonio-gaudi-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/37239"
+  }
  },
  {
   "id": "battle-for-the-city",
@@ -110,7 +119,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -118,7 +126,7 @@
     "scale": 100,
     "votes": 2,
     "url": "https://www.themoviedb.org/movie/415912",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1673431",
@@ -158,7 +166,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -166,7 +173,7 @@
     "scale": 100,
     "votes": 2,
     "url": "https://www.themoviedb.org/movie/600955",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt8558504",
@@ -185,79 +192,82 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "OVID",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "OVID",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/600955-reveuses-de-villes/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "qwWxKhVo8j0",
   "image": {
    "poster": "/iS5DY8YjsBlFjMr1LeGsfEKMKZB.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/600955"
+   "source": "https://www.themoviedb.org/movie/600955",
+   "local": "images/films/city-dreamers.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 600955,
   "tmdb_kind": "movie"
@@ -284,7 +294,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -292,7 +301,7 @@
     "scale": 100,
     "votes": 17,
     "url": "https://www.themoviedb.org/movie/29110",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1104694",
@@ -311,90 +320,100 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2409.webp"
    },
    {
     "provider": "Amazon Prime Video Free with Ads",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/613.webp"
    },
    {
     "provider": "Amazon MX Player",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1898.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/9.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Sooner",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/389.webp"
    },
    {
     "provider": "SFR Play",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/193.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/119.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/29110-garbage-warrior/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "01hIPvNzGmY",
   "image": {
    "poster": "/4D8ldSudDuv13sHofZ4DIsLr3Mz.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/29110"
+   "source": "https://www.themoviedb.org/movie/29110",
+   "local": "images/films/garbage-warrior.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 29110,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/garbage-warrior-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/29110"
+  }
  },
  {
   "id": "i-am-belfast",
@@ -417,7 +436,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -425,7 +443,7 @@
     "scale": 100,
     "votes": 19,
     "url": "https://www.themoviedb.org/movie/332806",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt3847390",
@@ -444,122 +462,132 @@
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/332806-i-am-belfast/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "Mlwpxw4v_P8",
   "image": {
    "poster": "/lOySD84rdBbtJbRjv1islKjuBR4.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/332806"
+   "source": "https://www.themoviedb.org/movie/332806",
+   "local": "images/films/i-am-belfast.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 332806,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/i-am-belfast-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/332806"
+  }
  },
  {
   "id": "l-esprit-de-mopti",
@@ -583,7 +611,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt0290600",
   "letterboxd": null,
@@ -621,7 +648,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt5328220",
   "letterboxd": null,
@@ -659,7 +685,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -667,7 +692,7 @@
     "scale": 100,
     "votes": 6,
     "url": "https://www.themoviedb.org/movie/243315",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0061990",
@@ -685,10 +710,20 @@
   "image": {
    "poster": "/xy5h4khLT2nDCfRuK5sQOEvcpdx.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/243315"
+   "source": "https://www.themoviedb.org/movie/243315",
+   "local": "images/films/monument-to-the-dream.webp",
+   "w": 342,
+   "h": 514
   },
   "tmdb": 243315,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/monument-to-the-dream-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/243315"
+  }
  },
  {
   "id": "sea-point-days",
@@ -711,7 +746,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -719,7 +753,7 @@
     "scale": 100,
     "votes": 1,
     "url": "https://www.themoviedb.org/movie/357662",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1264907",
@@ -737,7 +771,10 @@
   "image": {
    "poster": "/h4XN1srh1LRZwuYdJwlVvpyaEgZ.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/357662"
+   "source": "https://www.themoviedb.org/movie/357662",
+   "local": "images/films/sea-point-days.webp",
+   "w": 342,
+   "h": 483
   },
   "tmdb": 357662,
   "tmdb_kind": "movie"
@@ -766,7 +803,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt0826248",
   "letterboxd": null,
@@ -783,7 +819,10 @@
   "image": {
    "poster": "/i6hXWXK8fY5TnfHbAfsp9U4wY8a.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/798236"
+   "source": "https://www.themoviedb.org/movie/798236",
+   "local": "images/films/sotsgorod-cities-for-utopia.webp",
+   "w": 342,
+   "h": 485
   },
   "tmdb": 798236,
   "tmdb_kind": "movie"
@@ -809,7 +848,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt7992280",
   "letterboxd": null,
@@ -848,7 +886,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -856,7 +893,7 @@
     "scale": 100,
     "votes": 24,
     "url": "https://www.themoviedb.org/movie/84407",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1788461",
@@ -875,26 +912,37 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/84407-the-pruitt-igoe-myth/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "Fandor Amazon Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/84407-the-pruitt-igoe-myth/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/199.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "g7RwwkNzF68",
   "image": {
    "poster": "/taY9fhUIEGyv9n16t3WJsTVBi8b.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/84407"
+   "source": "https://www.themoviedb.org/movie/84407",
+   "local": "images/films/the-pruitt-igoe-myth.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 84407,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "featured": 4,
+  "backdrop": {
+   "local": "images/films/the-pruitt-igoe-myth-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/84407"
+  }
  },
  {
   "id": "tokyo-is-dreaming",
@@ -917,7 +965,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt1338686",
   "letterboxd": null,
@@ -934,7 +981,10 @@
   "image": {
    "poster": "/2OvRljAjWej4n1jPR1H5LlZ5zW4.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/803460"
+   "source": "https://www.themoviedb.org/movie/803460",
+   "local": "images/films/tokyo-is-dreaming.webp",
+   "w": 342,
+   "h": 454
   },
   "tmdb": 803460,
   "tmdb_kind": "movie"
@@ -962,7 +1012,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -970,7 +1019,7 @@
     "scale": 100,
     "votes": 88,
     "url": "https://www.themoviedb.org/movie/77269",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1701976",
@@ -989,114 +1038,125 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "Criterion Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/32XVilXkVbrwV96O3N5i0rtuyd6.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/258.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Criterion Channel",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/32XVilXkVbrwV96O3N5i0rtuyd6.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/258.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/77269-urbanized/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "qHWwxBEfikw",
   "image": {
    "poster": "/AlgE2Xj02j2Bb75eYfgDuPCzev2.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/77269"
+   "source": "https://www.themoviedb.org/movie/77269",
+   "local": "images/films/urbanized.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 77269,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "featured": 2,
+  "backdrop": {
+   "local": "images/films/urbanized-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/77269"
+  }
  },
  {
   "id": "the-last-wright-frank-lloyd-wright-and-the-park-inn-hotel",
@@ -1124,7 +1184,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt0958854",
   "letterboxd": null,
@@ -1166,7 +1225,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -1174,7 +1232,7 @@
     "scale": 100,
     "votes": 7,
     "url": "https://www.themoviedb.org/movie/250989",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0276819",
@@ -1192,10 +1250,20 @@
   "image": {
    "poster": "/y1uIsYQPVTLlpHjbaOMY4xd1ac9.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/250989"
+   "source": "https://www.themoviedb.org/movie/250989",
+   "local": "images/films/berlin-babylon.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 250989,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/berlin-babylon-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/250989"
+  }
  },
  {
   "id": "city-of-gold",
@@ -1219,7 +1287,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -1227,7 +1294,7 @@
     "scale": 100,
     "votes": 13,
     "url": "https://www.themoviedb.org/movie/128441",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0050255",
@@ -1246,170 +1313,180 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    },
    {
     "provider": "OVID",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Filmzie",
     "country": "GB",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/9.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Filmzie",
     "country": "DE",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    },
    {
     "provider": "Filmzie",
     "country": "FR",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    },
    {
     "provider": "NFB",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/sf0Bc3t93aD6DXhl2DAYvrWfYYO.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/441.webp"
    },
    {
     "provider": "Filmzie",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/119.webp"
    },
    {
     "provider": "OVID",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Filmzie",
     "country": "AU",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/119.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Filmzie",
     "country": "IN",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/128441-city-of-gold/watch?locale=IN",
-    "checked": "2026-11-03",
-    "logo": "/6tVbNdx7Yzvi6LThNW5Wo1yov6A.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/559.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/xgnzwD8iJ2jNRuMcOxnccXAt27d.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/128441"
+   "source": "https://www.themoviedb.org/movie/128441",
+   "local": "images/films/city-of-gold.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 128441,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/city-of-gold-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/128441"
+  }
  },
  {
   "id": "if-you-build-it",
@@ -1433,7 +1510,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -1441,7 +1517,7 @@
     "scale": 100,
     "votes": 10,
     "url": "https://www.themoviedb.org/movie/241573",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt2322482",
@@ -1460,143 +1536,146 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Fawesome",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2409.webp"
    },
    {
     "provider": "Tubi TV",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/73.webp"
    },
    {
     "provider": "DocuramaFilms Amazon Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5iNTjBNb8SyqNBpJ5vviJAF37Fa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2377.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Tubi TV",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/73.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/241573-if-you-build-it/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/od18RoExAOvxbr5ccojr7oikZNL.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/241573"
+   "source": "https://www.themoviedb.org/movie/241573",
+   "local": "images/films/if-you-build-it.webp",
+   "w": 342,
+   "h": 508
   },
   "tmdb": 241573,
   "tmdb_kind": "movie"
@@ -1622,7 +1701,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -1630,7 +1708,7 @@
     "scale": 100,
     "votes": 4,
     "url": "https://www.themoviedb.org/movie/185160",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0208892",
@@ -1648,7 +1726,10 @@
   "image": {
    "poster": "/qHtgjxolk2gPu580srmBgfDE41K.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/185160"
+   "source": "https://www.themoviedb.org/movie/185160",
+   "local": "images/films/the-delhi-way.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 185160,
   "tmdb_kind": "movie"
@@ -1676,7 +1757,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt2250180",
   "letterboxd": null,
@@ -1721,7 +1801,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -1729,7 +1808,7 @@
     "scale": 100,
     "votes": 4,
     "url": "https://www.themoviedb.org/movie/138891",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1444337",
@@ -1748,82 +1827,92 @@
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/138891-unfinished-spaces/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "kV3XNynA4ZI",
   "image": {
    "poster": "/fkTCplLGZS4w17x3AgnA8xeQDbC.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/138891"
+   "source": "https://www.themoviedb.org/movie/138891",
+   "local": "images/films/unfinished-spaces.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 138891,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/unfinished-spaces-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/138891"
+  }
  },
  {
   "id": "dilli",
@@ -1845,7 +1934,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt1899160",
   "letterboxd": null,
@@ -1862,7 +1950,10 @@
   "image": {
    "poster": "/6FPi5GEQlJVBhI1KCc4hI5ay9h9.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/706067"
+   "source": "https://www.themoviedb.org/movie/706067",
+   "local": "images/films/dilli.webp",
+   "w": 342,
+   "h": 484
   },
   "tmdb": 706067,
   "tmdb_kind": "movie"
@@ -1893,7 +1984,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -1901,7 +1991,7 @@
     "scale": 100,
     "votes": 38,
     "url": "https://www.themoviedb.org/movie/75442",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1972646",
@@ -1920,274 +2010,276 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "Fawesome",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2409.webp"
    },
    {
     "provider": "YouTube Free",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/235.webp"
    },
    {
     "provider": "Plex",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
-   },
-   {
-    "provider": "Plex Channel",
-    "country": "US",
-    "type": "free",
-    "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Cineverse",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1957.webp"
    },
    {
     "provider": "Tubi TV",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/73.webp"
    },
    {
     "provider": "OVID",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Fandor Amazon Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/199.webp"
    },
    {
     "provider": "Cineverse Amazon Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/mkikn40hHk3K3Xis19dnzyRnHBB.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2704.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Plex",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Cineverse",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1957.webp"
    },
    {
     "provider": "OVID",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Beamafilm",
     "country": "AU",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/wBsOmMyZWC6f4f1bzEeLPyoM7BY.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/448.webp"
    },
    {
     "provider": "Plex",
     "country": "AU",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Foxtel Now",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/134.webp"
    },
    {
     "provider": "Beamafilm",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/wBsOmMyZWC6f4f1bzEeLPyoM7BY.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/448.webp"
    },
    {
     "provider": "JustWatch TV Store",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2784.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fetch TV",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/436.webp"
    },
    {
     "provider": "Beamafilm",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/wBsOmMyZWC6f4f1bzEeLPyoM7BY.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/448.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fetch TV",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/436.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "_YMzmuBBBzo",
   "image": {
    "poster": "/54TYDEaVrjdp0WeaYxlZnoj3Hxv.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/75442"
+   "source": "https://www.themoviedb.org/movie/75442",
+   "local": "images/films/eames-the-architect-and-the-painter.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 75442,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/eames-the-architect-and-the-painter-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/75442"
+  }
  },
  {
   "id": "great-expectations",
@@ -2215,7 +2307,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2223,7 +2314,7 @@
     "scale": 100,
     "votes": 1,
     "url": "https://www.themoviedb.org/movie/303979",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1051999",
@@ -2242,34 +2333,44 @@
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/303979-great-expectations-a-journey-through-the-history-of-visionary-architecture/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/303979-great-expectations-a-journey-through-the-history-of-visionary-architecture/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/303979-great-expectations-a-journey-through-the-history-of-visionary-architecture/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/eYVfSzHXFy3ebooLwqak0iUvBWN.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/303979"
+   "source": "https://www.themoviedb.org/movie/303979",
+   "local": "images/films/great-expectations.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 303979,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/great-expectations-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/303979"
+  }
  },
  {
   "id": "lullaby-to-my-father",
@@ -2292,7 +2393,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2300,7 +2400,7 @@
     "scale": 100,
     "votes": 2,
     "url": "https://www.themoviedb.org/movie/159297",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt2365895",
@@ -2319,103 +2419,106 @@
     "country": "GB",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/613.webp"
    },
    {
     "provider": "Amazon MX Player",
     "country": "GB",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1898.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/9.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Orange VOD",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/73lu1dtE9uJLWK1laXpeaAFh48j.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/61.webp"
    },
    {
     "provider": "Sooner",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/389.webp"
    },
    {
     "provider": "ARTE VOD",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/z32NGSc2wYxQzcOc24iXK8q35A1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2671.webp"
    },
    {
     "provider": "Orange VOD",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/73lu1dtE9uJLWK1laXpeaAFh48j.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/61.webp"
    },
    {
     "provider": "Sooner",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/389.webp"
    },
    {
     "provider": "ARTE VOD",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/159297-lullaby-to-my-father/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/z32NGSc2wYxQzcOc24iXK8q35A1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2671.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/ZOCVLZJq1B94FvnkO98G3eQM8s.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/159297"
+   "source": "https://www.themoviedb.org/movie/159297",
+   "local": "images/films/lullaby-to-my-father.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 159297,
   "tmdb_kind": "movie"
@@ -2443,7 +2546,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2451,7 +2553,7 @@
     "scale": 100,
     "votes": 3,
     "url": "https://www.themoviedb.org/movie/303995",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt2007403",
@@ -2470,56 +2572,56 @@
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Beamafilm",
     "country": "AU",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/wBsOmMyZWC6f4f1bzEeLPyoM7BY.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/448.webp"
    },
    {
     "provider": "Beamafilm",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/wBsOmMyZWC6f4f1bzEeLPyoM7BY.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/448.webp"
    },
    {
     "provider": "Beamafilm",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/303995-mendelsohn-s-incessant-visions/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/wBsOmMyZWC6f4f1bzEeLPyoM7BY.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/448.webp"
    }
   ],
   "trailer": null,
@@ -2560,7 +2662,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2568,7 +2669,7 @@
     "scale": 100,
     "votes": 35,
     "url": "https://www.themoviedb.org/movie/50314",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0373175",
@@ -2582,14 +2683,25 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "0HxB9Iu3Hbc",
   "image": {
    "poster": "/flpuP2Y2qUkVGghsOYkxj0HkgB9.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/50314"
+   "source": "https://www.themoviedb.org/movie/50314",
+   "local": "images/films/my-architect.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 50314,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "featured": 1,
+  "backdrop": {
+   "local": "images/films/my-architect-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/50314"
+  }
  },
  {
   "id": "ruins-of-the-reich",
@@ -2613,7 +2725,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt1345511",
   "letterboxd": null,
@@ -2630,7 +2741,10 @@
   "image": {
    "poster": "/f9iQQBAwr4ZsEKUBefjiCSxjCvA.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/tv/232288"
+   "source": "https://www.themoviedb.org/tv/232288",
+   "local": "images/films/ruins-of-the-reich.webp",
+   "w": 342,
+   "h": 503
   },
   "tmdb": 232288,
   "tmdb_kind": "tv"
@@ -2662,7 +2776,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2670,7 +2783,7 @@
     "scale": 100,
     "votes": 23,
     "url": "https://www.themoviedb.org/movie/27453",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0446784",
@@ -2689,146 +2802,157 @@
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Hoopla",
     "country": "AU",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/27453-sketches-of-frank-gehry/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/iMo5DgiS1YZME6LuFt1ELV8XQRo.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/27453"
+   "source": "https://www.themoviedb.org/movie/27453",
+   "local": "images/films/sketches-of-frank-gehry.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 27453,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "featured": 3,
+  "backdrop": {
+   "local": "images/films/sketches-of-frank-gehry-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/27453"
+  }
  },
  {
   "id": "spaces-the-architecture-of-paul-rudolph",
@@ -2853,7 +2977,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2861,7 +2984,7 @@
     "scale": 100,
     "votes": 1,
     "url": "https://www.themoviedb.org/movie/244452",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0086347",
@@ -2879,7 +3002,10 @@
   "image": {
    "poster": "/9IPKTYLY1LMPQSTDDmCUKVZpgfC.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/244452"
+   "source": "https://www.themoviedb.org/movie/244452",
+   "local": "images/films/spaces-the-architecture-of-paul-rudolph.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 244452,
   "tmdb_kind": "movie"
@@ -2904,7 +3030,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2912,7 +3037,7 @@
     "scale": 100,
     "votes": 2,
     "url": "https://www.themoviedb.org/movie/248940",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt2080410",
@@ -2926,10 +3051,17 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "LtEkg4pF7Vs",
   "image": null,
   "tmdb": 248940,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/the-new-world-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/248940"
+  }
  },
  {
   "id": "aalto",
@@ -2954,7 +3086,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -2962,7 +3093,7 @@
     "scale": 100,
     "votes": 25,
     "url": "https://www.themoviedb.org/movie/683722",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt9634036",
@@ -2981,370 +3112,381 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "Hoopla",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Film Movement Plus",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/c8H4Jp8qInInqkPSryR80rb7jYO.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/579.webp"
    },
    {
     "provider": "Film Movement Plus Amazon Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2395.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Canal VOD",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/51fX3l4yElitnfui0IkbMUmfmgF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/58.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "VIVA by videofutur",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/uzTONLCUH92RRMSzs206OYtWVml.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2286.webp"
    },
    {
     "provider": "Premiere Max",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2307.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "YouTube",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Canal VOD",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/51fX3l4yElitnfui0IkbMUmfmgF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/58.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "VIVA by videofutur",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/uzTONLCUH92RRMSzs206OYtWVml.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2286.webp"
    },
    {
     "provider": "Premiere Max",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2307.webp"
    },
    {
     "provider": "Foxtel Now",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/134.webp"
    },
    {
     "provider": "DocPlay",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/d26dDNFfxh5vgt6Pqpe9l62rVnj.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/357.webp"
    },
    {
     "provider": "DocPlay Amazon Channel",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/eNc4FyliGrKZ6J1XkR2PMfWzEp.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2168.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/683722-aalto/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "sPkvliGQj54",
   "image": {
    "poster": "/sdymebZxcPeLscqYr9zCl9YrTRB.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/683722"
+   "source": "https://www.themoviedb.org/movie/683722",
+   "local": "images/films/aalto.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 683722,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "featured": 5,
+  "backdrop": {
+   "local": "images/films/aalto-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/683722"
+  }
  },
  {
   "id": "from-inside-out-the-architecture-of-peter-zumthor",
@@ -3369,7 +3511,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": null,
   "letterboxd": null,
@@ -3386,10 +3527,20 @@
   "image": {
    "poster": "/ca0wQJILxFbgleAdcUrKhc2i5Qh.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/1355885"
+   "source": "https://www.themoviedb.org/movie/1355885",
+   "local": "images/films/from-inside-out-the-architecture-of-peter-zumthor.webp",
+   "w": 342,
+   "h": 486
   },
   "tmdb": 1355885,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/from-inside-out-the-architecture-of-peter-zumthor-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1355885"
+  }
  },
  {
   "id": "frank-lloyd-wright",
@@ -3414,7 +3565,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -3422,7 +3572,7 @@
     "scale": 100,
     "votes": 23,
     "url": "https://www.themoviedb.org/tv/77074",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt0144937",
@@ -3441,90 +3591,100 @@
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/87.webp"
    },
    {
     "provider": "PBS Documentaries Amazon Channel",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/fZiIXJI0fAN09zTXY1U0xFirdIu.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2430.webp"
    },
    {
     "provider": "Thirteen",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dQKjAyrGlA3HPbDs4hp8RyaXUiK.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2622.webp"
    },
    {
     "provider": "WETA+",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/fwzxYZXp5T57T2WaazFhzArAmYd.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2657.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "PBS America Amazon Channel",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/nwZQ93n0KYK5BH2vHrjsqUR40Dl.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2429.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Acorn TV",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/87.webp"
    },
    {
     "provider": "DocPlay",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/d26dDNFfxh5vgt6Pqpe9l62rVnj.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/357.webp"
    },
    {
     "provider": "DocPlay Amazon Channel",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/77074-frank-lloyd-wright/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/eNc4FyliGrKZ6J1XkR2PMfWzEp.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2168.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/gj97RMShjbIBspp7znVHkU5YRXd.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/tv/77074"
+   "source": "https://www.themoviedb.org/tv/77074",
+   "local": "images/films/frank-lloyd-wright.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 77074,
-  "tmdb_kind": "tv"
+  "tmdb_kind": "tv",
+  "backdrop": {
+   "local": "images/films/frank-lloyd-wright-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/tv/77074"
+  }
  },
  {
   "id": "infinite-space-the-architecture-of-john-lautner",
@@ -3549,7 +3709,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -3557,7 +3716,7 @@
     "scale": 100,
     "votes": 6,
     "url": "https://www.themoviedb.org/movie/70750",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1284027",
@@ -3571,11 +3730,14 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "cvjtHWSLgls",
   "image": {
    "poster": "/oW2u7i5X3KmsJWKDigxAVtPbmOU.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/70750"
+   "source": "https://www.themoviedb.org/movie/70750",
+   "local": "images/films/infinite-space-the-architecture-of-john-lautner.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 70750,
   "tmdb_kind": "movie"
@@ -3604,7 +3766,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt1193498",
   "letterboxd": null,
@@ -3621,10 +3782,20 @@
   "image": {
    "poster": "/sE1JIJby2A7eTqUPCDwtZd4GWkq.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/290560"
+   "source": "https://www.themoviedb.org/movie/290560",
+   "local": "images/films/loos-ornamental.webp",
+   "w": 342,
+   "h": 488
   },
   "tmdb": 290560,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/loos-ornamental-wide.webp",
+   "w": 1280,
+   "h": 721,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/290560"
+  }
  },
  {
   "id": "louis-kahn-s-tiger-city",
@@ -3651,7 +3822,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -3659,7 +3829,7 @@
     "scale": 100,
     "votes": 1,
     "url": "https://www.themoviedb.org/movie/637909",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt8809474",
@@ -3678,282 +3848,292 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Fawesome",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
-   },
-   {
-    "provider": "YouTube Free",
-    "country": "US",
-    "type": "free",
-    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
-   },
-   {
-    "provider": "Plex",
-    "country": "US",
-    "type": "free",
-    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2409.webp"
    },
    {
     "provider": "Plex Channel",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2077.webp"
+   },
+   {
+    "provider": "YouTube Free",
+    "country": "US",
+    "type": "free",
+    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
+    "checked": "2026-11-04",
+    "logo": "images/films/p/235.webp"
+   },
+   {
+    "provider": "Plex",
+    "country": "US",
+    "type": "free",
+    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Cineverse",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1957.webp"
    },
    {
     "provider": "Tubi TV",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/73.webp"
    },
    {
     "provider": "fuboTV",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/257.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Tubi TV",
     "country": "GB",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/73.webp"
    },
    {
     "provider": "Plex",
     "country": "GB",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "YouTube Free",
     "country": "GB",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/gqaJWT5oFiJyVDojVLYRSFPbhQ1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/235.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-   },
-   {
-    "provider": "Plex",
-    "country": "DE",
-    "type": "free",
-    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Plex Channel",
     "country": "DE",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2077.webp"
    },
    {
     "provider": "Plex",
-    "country": "FR",
+    "country": "DE",
     "type": "free",
-    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=DE",
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Plex Channel",
     "country": "FR",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2077.webp"
+   },
+   {
+    "provider": "Plex",
+    "country": "FR",
+    "type": "free",
+    "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=FR",
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Hoopla",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Tubi TV",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/73.webp"
    },
    {
     "provider": "Plex",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/blAEhvx3XX8sV0fFVFk88FFjubs.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/538.webp"
    },
    {
     "provider": "Cineverse",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1957.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Hoopla",
     "country": "AU",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "AU",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "AU",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/637909-louis-kahn-s-tiger-city/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "JVxNR2Ip28k",
   "image": {
    "poster": "/atLWDpRhPiSlujjl7cNsEVOqqlw.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/637909"
+   "source": "https://www.themoviedb.org/movie/637909",
+   "local": "images/films/louis-kahn-s-tiger-city.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 637909,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/louis-kahn-s-tiger-city-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/637909"
+  }
  },
  {
   "id": "sagrada-el-misteri-de-la-creacio",
@@ -3980,7 +4160,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -3988,7 +4167,7 @@
     "scale": 100,
     "votes": 6,
     "url": "https://www.themoviedb.org/movie/203612",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt2552316",
@@ -4007,114 +4186,124 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "OVID",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "OVID",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/g4C5BqC8EC0xcBY57C4Mnm5Ht8k.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/433.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/203612-sagrada-el-misteri-de-la-creacio/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/rrEmxwXC8cz6F6rSUJ5WEuRD9hB.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/203612"
+   "source": "https://www.themoviedb.org/movie/203612",
+   "local": "images/films/sagrada-el-misteri-de-la-creacio.webp",
+   "w": 342,
+   "h": 488
   },
   "tmdb": 203612,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/sagrada-el-misteri-de-la-creacio-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/203612"
+  }
  },
  {
   "id": "the-proposal",
@@ -4139,7 +4328,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -4147,7 +4335,7 @@
     "scale": 100,
     "votes": 1,
     "url": "https://www.themoviedb.org/movie/511910",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt8106592",
@@ -4166,122 +4354,132 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "Hoopla",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Fawesome",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2409.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Hoopla",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/511910-the-proposal/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "jcYZEGqTstk",
   "image": {
    "poster": "/rTIckTSAAFGYLBS5vw9Ah8gbMka.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/511910"
+   "source": "https://www.themoviedb.org/movie/511910",
+   "local": "images/films/the-proposal.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 511910,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/the-proposal-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/511910"
+  }
  },
  {
   "id": "the-amateur",
@@ -4306,7 +4504,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -4314,7 +4511,7 @@
     "scale": 100,
     "votes": 2,
     "url": "https://www.themoviedb.org/movie/411188",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt5940866",
@@ -4328,14 +4525,24 @@
    }
   ],
   "watch": [],
-  "trailer": null,
+  "trailer": "V0M6EUKylNc",
   "image": {
    "poster": "/pc01vut0o2deUnmuiSQa5acyizF.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/411188"
+   "source": "https://www.themoviedb.org/movie/411188",
+   "local": "images/films/the-amateur.webp",
+   "w": 342,
+   "h": 484
   },
   "tmdb": 411188,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/the-amateur-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/411188"
+  }
  },
  {
   "id": "conversaciones-con-renzo-piano",
@@ -4358,7 +4565,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": null,
   "letterboxd": null,
@@ -4376,74 +4582,84 @@
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Kids",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/rjPaInWHH1nPgtRFF17BbHN2gu.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/175.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "DE",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Kids",
     "country": "DE",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/rjPaInWHH1nPgtRFF17BbHN2gu.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/175.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "DE",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/1104076-conversaciones-con-renzo-piano/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/hpLgRl7CFv2T7B7Q03yFW1wy04S.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/1104076"
+   "source": "https://www.themoviedb.org/movie/1104076",
+   "local": "images/films/conversaciones-con-renzo-piano.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 1104076,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/conversaciones-con-renzo-piano-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1104076"
+  }
  },
  {
   "id": "ada-my-mother-the-architect",
@@ -4468,7 +4684,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt26915722",
   "letterboxd": null,
@@ -4486,58 +4701,68 @@
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/1319115-ada-my-mother-the-architect/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/1319115-ada-my-mother-the-architect/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Sky Store",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/1319115-ada-my-mother-the-architect/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/130.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/1319115-ada-my-mother-the-architect/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/1319115-ada-my-mother-the-architect/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Sky Store",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/1319115-ada-my-mother-the-architect/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/130.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "sQ0McmlMu54",
   "image": {
    "poster": "/1fX4VZ1NNgesG9LivcL4i720hfO.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/1319115"
+   "source": "https://www.themoviedb.org/movie/1319115",
+   "local": "images/films/ada-my-mother-the-architect.webp",
+   "w": 342,
+   "h": 479
   },
   "tmdb": 1319115,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/ada-my-mother-the-architect-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1319115"
+  }
  },
  {
   "id": "eye-over-prague",
@@ -4560,7 +4785,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [],
   "imdb": "tt1417090",
   "letterboxd": null,
@@ -4578,295 +4802,298 @@
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/9.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Google Play Movies",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/aZRENwYILujqs0RVOZutTh0BVGV.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/3.webp"
    },
    {
     "provider": "YouTube",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/9.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "YouTube",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "DE",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "DE",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "DE",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "FR",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "FR",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/119.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "YouTube",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/192.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "Amazon Prime Video",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/119.webp"
    },
    {
     "provider": "Amazon Prime Video with Ads",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2100.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "IN",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=IN",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "IN",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=IN",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    },
    {
     "provider": "DocAlliance Films",
     "country": "IN",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/337729-oko-nad-prahou/watch?locale=IN",
-    "checked": "2026-11-03",
-    "logo": "/dAna3PsNLAzPDJkEKWYzMlj94jF.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/569.webp"
    }
   ],
   "trailer": null,
   "image": {
    "poster": "/jsYluwoJDOYsj005GhVUr4kZq4u.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/337729"
+   "source": "https://www.themoviedb.org/movie/337729",
+   "local": "images/films/eye-over-prague.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 337729,
   "tmdb_kind": "movie"
@@ -4893,7 +5120,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -4901,7 +5127,7 @@
     "scale": 100,
     "votes": 1,
     "url": "https://www.themoviedb.org/movie/493521",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": null,
@@ -4919,7 +5145,10 @@
   "image": {
    "poster": "/9Xf105qOmmPNrynBtzYu37CG1Pg.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/493521"
+   "source": "https://www.themoviedb.org/movie/493521",
+   "local": "images/films/didi-contractor-marrying-the-earth-to-the-building.webp",
+   "w": 342,
+   "h": 484
   },
   "tmdb": 493521,
   "tmdb_kind": "movie"
@@ -4943,7 +5172,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -4951,7 +5179,7 @@
     "scale": 100,
     "votes": 86,
     "url": "https://www.themoviedb.org/tv/70177",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt6333098",
@@ -4970,114 +5198,124 @@
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "GB",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "DE",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "DE",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=DE",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "FR",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=FR",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "CA",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    },
    {
     "provider": "Netflix Standard with Ads",
     "country": "AU",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=AU",
-    "checked": "2026-11-03",
-    "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/1796.webp"
    },
    {
     "provider": "Netflix",
     "country": "IN",
     "type": "subscription",
     "url": "https://www.themoviedb.org/tv/70177-abstract-the-art-of-design/watch?locale=IN",
-    "checked": "2026-11-03",
-    "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/8.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "DYaq2sWTWAA",
   "image": {
    "poster": "/mBpWUNGlB66cP6ght7NyT3jXmWN.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/tv/70177"
+   "source": "https://www.themoviedb.org/tv/70177",
+   "local": "images/films/abstract-the-art-of-design.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 70177,
-  "tmdb_kind": "tv"
+  "tmdb_kind": "tv",
+  "backdrop": {
+   "local": "images/films/abstract-the-art-of-design-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/tv/70177"
+  }
  },
  {
   "id": "visual-acoustics-the-modernism-of-julius-shulman",
@@ -5101,7 +5339,6 @@
   ],
   "topics": [],
   "movements": [],
-  "featured": null,
   "ratings": [
    {
     "source": "TMDB",
@@ -5109,7 +5346,7 @@
     "scale": 100,
     "votes": 19,
     "url": "https://www.themoviedb.org/movie/39786",
-    "checked": "2026-11-03"
+    "checked": "2026-11-04"
    }
   ],
   "imdb": "tt1233611",
@@ -5128,137 +5365,147 @@
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/cltb8XKan9ierp23ItPmCOcVLRa.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/191.webp"
    },
    {
     "provider": "Hoopla",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Fawesome",
     "country": "US",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2409.webp"
    },
    {
     "provider": "Night Flight Plus",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/acUxuVlP96MVPbUdxdGu0pUHTht.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/455.webp"
    },
    {
     "provider": "Chai Flicks",
     "country": "US",
     "type": "subscription",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/b1cu4YuZF6xRagXjCjVeZBbnSD2.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/438.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Fandango At Home",
     "country": "US",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=US",
-    "checked": "2026-11-03",
-    "logo": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/7.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Amazon Video",
     "country": "GB",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=GB",
-    "checked": "2026-11-03",
-    "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/10.webp"
    },
    {
     "provider": "Hoopla",
     "country": "CA",
     "type": "free",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/212.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "rent",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    },
    {
     "provider": "Apple TV Store",
     "country": "CA",
     "type": "buy",
     "url": "https://www.themoviedb.org/movie/39786-visual-acoustics/watch?locale=CA",
-    "checked": "2026-11-03",
-    "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    "checked": "2026-11-04",
+    "logo": "images/films/p/2.webp"
    }
   ],
-  "trailer": null,
+  "trailer": "z6JzyCj-Pbk",
   "image": {
    "poster": "/cTADIVevQGUVaKbGBzheMpqGVao.jpg",
    "credit": "TMDB",
-   "source": "https://www.themoviedb.org/movie/39786"
+   "source": "https://www.themoviedb.org/movie/39786",
+   "local": "images/films/visual-acoustics-the-modernism-of-julius-shulman.webp",
+   "w": 342,
+   "h": 513
   },
   "tmdb": 39786,
-  "tmdb_kind": "movie"
+  "tmdb_kind": "movie",
+  "backdrop": {
+   "local": "images/films/visual-acoustics-the-modernism-of-julius-shulman-wide.webp",
+   "w": 1280,
+   "h": 719,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/39786"
+  }
  }
 ]
