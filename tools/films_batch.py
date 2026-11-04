@@ -91,6 +91,18 @@ def relevant(c):
     return bool(ARCH.search(text))
 
 
+def cmd_count():
+    """How many candidates are left, counted the way cmd_next hands them out.
+
+    The old sum subtracted the whole reviewed list from the relevant one, which counted films already in the seed
+    twice and reviewed keys that were never relevant at all. It reported 16 left when there was 1.
+    """
+    cands = [c for c in load(CANDS, []) if relevant(c)]
+    seen = set(load(REVIEWED, [])) | {key_of(f['title'], f.get('year')) for f in load(SEED, [])}
+    left = {key_of(c['title'], c.get('year')) for c in cands} - seen
+    print(f'{len(cands)} relevant candidates; {len(left)} still unreviewed')
+
+
 def cmd_next(n):
     seed, reviewed = load(SEED, []), set(load(REVIEWED, []))
     have = {key_of(f['title'], f.get('year')) for f in seed}
@@ -195,5 +207,4 @@ def cmd_stats():
 if __name__ == '__main__':
     a = sys.argv[1:]
     {'next': lambda: cmd_next(int(a[1]) if len(a) > 1 else 40), 'add': lambda: cmd_add(a[1]), 'stats': cmd_stats,
-     'count': lambda: print(sum(1 for c in load(CANDS, []) if relevant(c)), 'relevant candidates;',
-                            len([c for c in load(CANDS, []) if relevant(c)]) - len(load(REVIEWED, [])), 'still unreviewed')}[a[0] if a else 'stats']()
+     'count': cmd_count}[a[0] if a else 'stats']()
