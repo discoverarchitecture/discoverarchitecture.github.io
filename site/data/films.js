@@ -57,6 +57,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/1355885",
    "w": 342,
    "h": 486
+  },
+  "wide": {
+   "src": "images/films/from-inside-out-the-architecture-of-peter-zumthor-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1355885"
   }
  },
  {
@@ -107,6 +114,7 @@ window.FILMS = [
   ],
   "runtime_min": 81,
   "language": "English",
+  "trailer": "sQ0McmlMu54",
   "imdb": "tt26915722",
   "tmdb": 1319115,
   "qid": "Q136437273",
@@ -117,6 +125,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/1319115",
    "w": 342,
    "h": 479
+  },
+  "wide": {
+   "src": "images/films/ada-my-mother-the-architect-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1319115"
   },
   "watch": {
    "GB": [
@@ -199,6 +214,7 @@ window.FILMS = [
   ],
   "runtime_min": 103,
   "language": "Finnish",
+  "featured": 5,
   "ratings": [
    {
     "source": "TMDB",
@@ -209,6 +225,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "sPkvliGQj54",
   "imdb": "tt9634036",
   "tmdb": 683722,
   "qid": "Q98725992",
@@ -219,6 +236,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/683722",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/aalto-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/683722"
   },
   "watch": {
    "US": [
@@ -521,6 +545,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "JVxNR2Ip28k",
   "imdb": "tt8809474",
   "tmdb": 637909,
   "qid": "Q141160783",
@@ -531,6 +556,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/637909",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/louis-kahn-s-tiger-city-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/637909"
   },
   "watch": {
    "US": [
@@ -876,6 +908,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "jcYZEGqTstk",
   "imdb": "tt8106592",
   "tmdb": 511910,
   "qid": "Q61642150",
@@ -886,6 +919,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/511910",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/the-proposal-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/511910"
   },
   "watch": {
    "US": [
@@ -1026,6 +1066,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/1104076",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/conversaciones-con-renzo-piano-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/1104076"
   },
   "watch": {
    "GB": [
@@ -1227,6 +1274,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "V0M6EUKylNc",
   "imdb": "tt5940866",
   "tmdb": 411188,
   "qid": "Q26915620",
@@ -1237,6 +1285,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/411188",
    "w": 342,
    "h": 484
+  },
+  "wide": {
+   "src": "images/films/the-amateur-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/411188"
   }
  },
  {
@@ -1295,6 +1350,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "Mlwpxw4v_P8",
   "imdb": "tt3847390",
   "tmdb": 332806,
   "qid": "Q30636911",
@@ -1305,6 +1361,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/332806",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/i-am-belfast-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/332806"
   },
   "watch": {
    "US": [
@@ -1815,6 +1878,13 @@ window.FILMS = [
    "w": 342,
    "h": 488
   },
+  "wide": {
+   "src": "images/films/sagrada-el-misteri-de-la-creacio-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/203612"
+  },
   "watch": {
    "US": [
     {
@@ -2071,6 +2141,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "_YMzmuBBBzo",
   "imdb": "tt1972646",
   "tmdb": 75442,
   "qid": "Q5325503",
@@ -2081,6 +2152,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/75442",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/eames-the-architect-and-the-painter-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/75442"
   },
   "watch": {
    "US": [
@@ -2099,14 +2177,6 @@ window.FILMS = [
      ],
      "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
      "logo": "images/films/p/2409.webp"
-    },
-    {
-     "provider": "Plex Channel",
-     "types": [
-      "free"
-     ],
-     "url": "https://www.themoviedb.org/movie/75442-eames-the-architect-and-the-painter/watch?locale=US",
-     "logo": "images/films/p/2077.webp"
     },
     {
      "provider": "YouTube Free",
@@ -2353,6 +2423,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "cvjtHWSLgls",
   "imdb": "tt1284027",
   "tmdb": 70750,
   "qid": "Q96277628",
@@ -2519,9 +2590,17 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "LtEkg4pF7Vs",
   "imdb": "tt2080410",
   "tmdb": 248940,
-  "qid": "Q5319149"
+  "qid": "Q5319149",
+  "wide": {
+   "src": "images/films/the-new-world-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/248940"
+  }
  },
  {
   "id": "the-pruitt-igoe-myth",
@@ -2570,6 +2649,7 @@ window.FILMS = [
   ],
   "runtime_min": 79,
   "language": "English",
+  "featured": 4,
   "ratings": [
    {
     "source": "TMDB",
@@ -2580,6 +2660,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "g7RwwkNzF68",
   "imdb": "tt1788461",
   "tmdb": 84407,
   "qid": "Q16254335",
@@ -2590,6 +2671,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/84407",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/the-pruitt-igoe-myth-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/84407"
   },
   "watch": {
    "US": [
@@ -2675,6 +2763,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "kV3XNynA4ZI",
   "imdb": "tt1444337",
   "tmdb": 138891,
   "qid": "Q7884350",
@@ -2685,6 +2774,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/138891",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/unfinished-spaces-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/138891"
   },
   "watch": {
    "US": [
@@ -2784,6 +2880,7 @@ window.FILMS = [
   ],
   "runtime_min": 85,
   "language": "English",
+  "featured": 2,
   "ratings": [
    {
     "source": "TMDB",
@@ -2794,6 +2891,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "qHWwxBEfikw",
   "imdb": "tt1701976",
   "tmdb": 77269,
   "qid": "Q7900236",
@@ -2804,6 +2902,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/77269",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/urbanized-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/77269"
   },
   "watch": {
    "US": [
@@ -3194,6 +3299,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/290560",
    "w": 342,
    "h": 488
+  },
+  "wide": {
+   "src": "images/films/loos-ornamental-wide.webp",
+   "w": 1280,
+   "h": 721,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/290560"
   }
  },
  {
@@ -3431,6 +3543,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "z6JzyCj-Pbk",
   "imdb": "tt1233611",
   "tmdb": 39786,
   "qid": "Q7936526",
@@ -3441,6 +3554,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/39786",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/visual-acoustics-the-modernism-of-julius-shulman-wide.webp",
+   "w": 1280,
+   "h": 719,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/39786"
   },
   "watch": {
    "US": [
@@ -3602,6 +3722,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "01hIPvNzGmY",
   "imdb": "tt1104694",
   "tmdb": 29110,
   "qid": "Q3095310",
@@ -3612,6 +3733,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/29110",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/garbage-warrior-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/29110"
   },
   "watch": {
    "US": [
@@ -3776,6 +3904,13 @@ window.FILMS = [
    "w": 342,
    "h": 513
   },
+  "wide": {
+   "src": "images/films/great-expectations-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/303979"
+  },
   "watch": {
    "US": [
     {
@@ -3909,6 +4044,7 @@ window.FILMS = [
   ],
   "runtime_min": 86,
   "language": "English",
+  "featured": 3,
   "ratings": [
    {
     "source": "TMDB",
@@ -3929,6 +4065,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/27453",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/sketches-of-frank-gehry-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/27453"
   },
   "watch": {
    "US": [
@@ -4078,6 +4221,7 @@ window.FILMS = [
   ],
   "runtime_min": 116,
   "language": "English",
+  "featured": 1,
   "ratings": [
    {
     "source": "TMDB",
@@ -4088,6 +4232,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "0HxB9Iu3Hbc",
   "imdb": "tt0373175",
   "tmdb": 50314,
   "qid": "Q1249229",
@@ -4098,6 +4243,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/50314",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/my-architect-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/50314"
   }
  },
  {
@@ -4170,6 +4322,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/250989",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/berlin-babylon-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/250989"
   }
  },
  {
@@ -4288,6 +4447,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/tv/77074",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/frank-lloyd-wright-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/tv/77074"
   },
   "watch": {
    "US": [
@@ -4503,6 +4669,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "lTzJ5qsYzpQ",
   "imdb": "tt0086907",
   "tmdb": 37239,
   "qid": "Q4776652",
@@ -4513,6 +4680,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/37239",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/antonio-gaudi-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/37239"
   },
   "watch": {
    "US": [
@@ -4676,6 +4850,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/243315",
    "w": 342,
    "h": 514
+  },
+  "wide": {
+   "src": "images/films/monument-to-the-dream-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/243315"
   }
  },
  {
@@ -4813,6 +4994,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/movie/128441",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/city-of-gold-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/movie/128441"
   },
   "watch": {
    "US": [
@@ -5078,6 +5266,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "DYaq2sWTWAA",
   "imdb": "tt6333098",
   "tmdb": 70177,
   "qid": "Q28739655",
@@ -5088,6 +5277,13 @@ window.FILMS = [
    "source": "https://www.themoviedb.org/tv/70177",
    "w": 342,
    "h": 513
+  },
+  "wide": {
+   "src": "images/films/abstract-the-art-of-design-wide.webp",
+   "w": 1280,
+   "h": 720,
+   "credit": "TMDB",
+   "source": "https://www.themoviedb.org/tv/70177"
   },
   "watch": {
    "US": [
@@ -5267,6 +5463,7 @@ window.FILMS = [
     "checked": "2026-11-04"
    }
   ],
+  "trailer": "qwWxKhVo8j0",
   "imdb": "tt8558504",
   "tmdb": 600955,
   "qid": "Q86754496",

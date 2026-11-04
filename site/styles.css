@@ -993,6 +993,9 @@ body.mapped { overflow: hidden; }
 .mode .ml-short { display: none; }
 @media (max-width: 820px) {
   .mode { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); width: 100%; height: auto; gap: 0; align-items: stretch; }
+  /* the shelves and genres stay on one line that scrolls, rather than wrapping and eating the first screen */
+  .ideas-list { display: flex; width: 100%; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+  .ideas-list::-webkit-scrollbar { display: none; }
   .mode .mode-line { display: none; }
   .mode button, .mode-ai { height: auto; min-height: 52px; padding: 7px 4px; gap: 4px; flex-direction: column;
     justify-content: center; text-align: center; font-size: 11px; line-height: 1.15; }
@@ -1093,14 +1096,14 @@ body.mapped { overflow: hidden; }
 @media (max-width: 820px) {
   /* on a phone the hero fills the first screen and the five are swiped between, so the thumbnails become dots */
   .hero { height: 440px; margin-bottom: 14px; }
-  .hero-body { left: 16px; right: 16px; bottom: 54px; width: auto; gap: 7px; }
+  .hero-body { left: 16px; right: 16px; bottom: 96px; width: auto; gap: 7px; }
   .hero-body h2 { font-size: clamp(32px, 11vw, 46px); }
   .hero-meta { font-size: 13px; }
   .hero-watch { gap: 12px; }
   .hero-watch a:nth-of-type(n+3) { display: none; }
   .hero-go .btn { height: 44px; padding: 0 16px; font-size: 14px; }
   .hero-arr { display: none; }
-  .hero-thumbs { left: 16px; right: 16px; bottom: 20px; gap: 6px; justify-content: flex-start; }
+  .hero-thumbs { left: 16px; right: 16px; bottom: 68px; gap: 6px; justify-content: flex-start; }
   .hero-th { width: 26px; }
   .hero-th .ph { width: 26px; height: 4px; background: rgba(255,255,255,.45); }
   .hero-th .ph img, .hero-th small { display: none; }
