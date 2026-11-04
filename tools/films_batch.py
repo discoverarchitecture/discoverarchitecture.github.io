@@ -67,9 +67,12 @@ EVENT = re.compile(r'\b9/11\b|september 11|terroris|al-qaeda|hijack|bombing|mass
 # The categories that exist and hold films about architecture itself, as the harvest report lists them. Fiction
 # inside them is already gone by then, because Wikidata says whether a film is a documentary. "Architecture film
 # festivals" is left out: a festival is not a film.
+# "tmdb-core:" is TMDB's own documentary genre crossed with a word that means architecture and nothing else
+# (see TMDB_KEYWORDS_CORE in harvest_films.py). "tmdb-wide:" is deliberately absent: those words also reach
+# fashion and product design, so those candidates still have to pass the text check below.
 TRUSTED = re.compile(r'wikipedia:(Documentary films about architecture|Films about architecture|'
                      r'Films about architects|Documentary films about urban studies)'
-                     r'|tmdb-keyword:', re.I)
+                     r'|tmdb-core:', re.I)
 
 
 def relevant(c):
