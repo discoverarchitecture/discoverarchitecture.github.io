@@ -81,7 +81,13 @@ TITLE_SEEDS = [
     'Antonio Gaudi', 'Loos Ornamental', 'Spaces: The Architecture of Paul Rudolph', 'Taq Kasra: Wonder of Architecture',
 ]
 
-TMDB_KEYWORDS = ['architecture', 'architect', 'brutalism', 'bauhaus', 'urban planning', 'skyscraper', 'modernist architecture']
+# Words TMDB's editors tag films with. A keyword is resolved to its id, then /discover asks for documentaries
+# carrying it. This is the fix for the first attempt, which called /search/movie: that matches TITLES, so asking
+# it for "architecture documentary" looked for films actually called that and found one.
+TMDB_KEYWORDS = ['architecture', 'architect', 'urban planning', 'bauhaus', 'brutalism', 'skyscraper',
+                 'modernism', 'city planning', 'building', 'urbanism', 'landscape architecture', 'housing']
+TMDB_DOC_GENRE = 99          # TMDB's own genre id for a documentary, for films and series alike
+TMDB_PAGES = 5               # per keyword and kind, ordered by how many people have voted
 
 
 def get(url, timeout=90):
@@ -280,19 +286,51 @@ def build_candidates(entities, labels, names, source_of):
     return out
 
 
+def tmdb_get(url, key):
+    raw = get(url + ('&' if '?' in url else '?') + 'api_key=' + key)
+    return json.loads(raw) if raw else None
+
+
+def tmdb_keyword_ids(key):
+    """Each word's id on TMDB, so /discover can ask for the films its editors tagged with it."""
+    out = {}
+    for word in TMDB_KEYWORDS:
+        d = tmdb_get(f'{TMDB}/search/keyword?query={urllib.parse.quote(word)}', key)
+        for k in (d or {}).get('results', [])[:3]:
+            # only the word itself, or a phrase built around it: "architecture" must not drag in "naval architecture"
+            if k['name'].lower() == word or k['name'].lower().startswith(word + ' ') or k['name'].lower().endswith(' ' + word):
+                out[k['id']] = k['name']
+    print(f'tmdb keywords: {len(out)} ids -> {sorted(out.values())}')
+    return out
+
+
 def from_tmdb(key):
-    found = {}
-    for kw in TMDB_KEYWORDS:
-        for page in (1, 2):
-            for kind in ('movie', 'tv'):
-                raw = get(f'{TMDB}/search/{kind}?api_key={key}&query={urllib.parse.quote(kw + " documentary")}&page={page}')
-                for x in (json.loads(raw).get('results', []) if raw else []):
-                    found.setdefault((kind, x['id']), {
-                        'tmdb': x['id'], 'tmdb_kind': kind, 'title': x.get('title') or x.get('name'),
-                        'year': int((x.get('release_date') or x.get('first_air_date') or '0000')[:4] or 0) or None,
-                        'overview': (x.get('overview') or '')[:400], 'poster': x.get('poster_path'),
-                        'votes': x.get('vote_count'), 'sources': ['tmdb:' + kw]})
-    print(f'tmdb: {len(found)} films')
+    """Documentaries TMDB's editors tagged with one of those words, most-voted first."""
+    found, ids = {}, tmdb_keyword_ids(key)
+    if not ids:
+        print('tmdb: no keyword ids, nothing to discover', file=sys.stderr)
+        return []
+    for kid, word in ids.items():
+        for kind in ('movie', 'tv'):
+            for page in range(1, TMDB_PAGES + 1):
+                d = tmdb_get(f'{TMDB}/discover/{kind}?with_genres={TMDB_DOC_GENRE}&with_keywords={kid}'
+                             f'&sort_by=vote_count.desc&include_adult=false&page={page}', key)
+                rows = (d or {}).get('results') or []
+                for x in rows:
+                    k = (kind, x['id'])
+                    if k in found:
+                        found[k]['sources'].append('tmdb-keyword:' + word)
+                        continue
+                    found[k] = {'tmdb': x['id'], 'tmdb_kind': kind,
+                                'title': x.get('title') or x.get('name'),
+                                'year': int((x.get('release_date') or x.get('first_air_date') or '0000')[:4] or 0) or None,
+                                'overview': (x.get('overview') or '')[:600], 'poster': x.get('poster_path'),
+                                'votes': x.get('vote_count'), 'score': x.get('vote_average'),
+                                'is_doc': True,      # TMDB's own documentary genre
+                                'sources': ['tmdb-keyword:' + word]}
+                if page >= ((d or {}).get('total_pages') or 0):
+                    break
+    print(f'tmdb: {len(found)} documentaries across {len(ids)} keywords')
     return list(found.values())
 
 
@@ -352,7 +390,11 @@ def main():
     for t in tm:
         hit = by_tmdb.get(str(t['tmdb'])) or by_title.get((fold(t['title']), t.get('year')))
         if hit:
-            hit.update({k: v for k, v in t.items() if k not in ('sources', 'title', 'year') and v})
+            # Wikidata's verdict on whether this is a documentary stands: TMDB tags The Brutalist with
+            # 'architecture' too, and letting its genre overwrite that would put fiction back on the shelf.
+            # The wall architects already matched are kept for the same reason.
+            keep = ('sources', 'title', 'year', 'is_doc', 'architects')
+            hit.update({k: v for k, v in t.items() if k not in keep and v})
             hit['sources'] += t['sources']
         else:
             cands.append(t)

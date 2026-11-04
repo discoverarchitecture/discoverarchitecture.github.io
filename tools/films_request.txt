@@ -1,2 +1,2 @@
-python -u tools/fetch_films_tmdb.py
-# run 7, 3 Nov: posters, TMDB scores and where-to-watch for the 46 films on the shelf
+python -u tools/harvest_films.py
+# run 8, 4 Nov: discover documentaries by TMDB keyword, to grow the shelf past 46
