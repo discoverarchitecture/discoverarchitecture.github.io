@@ -79,6 +79,10 @@ def main():
             film['poster'] = {'thumb': im['local'], 'full': IMG + 'w780' + im['poster'],
                               'credit': im.get('credit', 'TMDB'), 'source': im.get('source'),
                               'w': im.get('w'), 'h': im.get('h')}
+        bd = f.get('backdrop') or {}
+        if bd.get('local'):
+            film['wide'] = {'src': bd['local'], 'w': bd.get('w'), 'h': bd.get('h'),
+                            'credit': bd.get('credit', 'TMDB'), 'source': bd.get('source')}
         if f.get('watch'):
             film['watch'] = watch_by_country(f['watch'])
             film['watch_checked'] = f['watch'][0].get('checked')

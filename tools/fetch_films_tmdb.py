@@ -30,6 +30,7 @@ REPORT = ROOT / 'tools' / 'films_tmdb_report.md'
 IMG_DIR = ROOT / 'site' / 'images' / 'films'
 LOGO_DIR = IMG_DIR / 'p'
 THUMB_W = 342          # the width the wall shows a poster at
+WIDE_W = 1280          # the wide still behind the Top 5 hero
 IMAGE = 'https://image.tmdb.org/t/p/'
 TMDB = 'https://api.themoviedb.org/3'
 UA = 'FindGreatArchitecture/1.0 (https://findgreatarchitecture.com/)'
@@ -145,7 +146,7 @@ def main(force=False):
     if not key:
         print('No TMDB_API_KEY: nothing changed.'); return 1
     seed = json.loads(SEED.read_text())
-    found = posters = scored = watched = 0
+    found = posters = scored = watched = wides = trailers = 0
     for f in seed:
         if f.get('watch') and not force:
             continue
@@ -155,6 +156,21 @@ def main(force=False):
             continue
         found += 1
         f['tmdb'], f['tmdb_kind'] = d['id'], kind
+        # the wide still for the hero, and a real trailer for its Trailer button
+        if d.get('backdrop_path'):
+            raw = fetch(f'{IMAGE}w{WIDE_W}{d["backdrop_path"]}')
+            size = save_thumb(raw, IMG_DIR / f'{f["id"]}-wide.webp', WIDE_W) if raw else None
+            if size:
+                f['backdrop'] = {'local': f'images/films/{f["id"]}-wide.webp', 'w': size[0], 'h': size[1],
+                                 'credit': 'TMDB', 'source': f'https://www.themoviedb.org/{kind}/{d["id"]}'}
+                wides += 1
+        if not f.get('trailer'):
+            v = get(f'{TMDB}/{kind}/{d["id"]}/videos', key) or {}
+            for x in v.get('results') or []:
+                if x.get('site') == 'YouTube' and x.get('type') in ('Trailer', 'Teaser') and x.get('key'):
+                    f['trailer'] = x['key']
+                    trailers += 1
+                    break
         if d.get('poster_path'):
             raw = fetch(f'{IMAGE}w{THUMB_W}{d["poster_path"]}')
             size = save_thumb(raw, IMG_DIR / f'{f["id"]}.webp', THUMB_W) if raw else None
@@ -180,7 +196,8 @@ def main(force=False):
         print(f'  {f["title"][:40]:<42} tmdb {d["id"]:<8} {"poster" if d.get("poster_path") else "no poster":<10} {len(w)} services')
     SEED.write_text(json.dumps(seed, ensure_ascii=False, indent=1) + '\n')
     lines = ['# Films on TMDB', '', f'- Films on the shelf: {len(seed)}', f'- Found on TMDB: {found}',
-             f'- With a poster: {posters}', f'- With a TMDB score: {scored}', f'- With streaming services: {watched}',
+             f'- With a poster: {posters}', f'- With a wide still for the hero: {wides}',
+             f'- With a trailer: {trailers}', f'- With a TMDB score: {scored}', f'- With streaming services: {watched}',
              '', 'Services come from JustWatch, through TMDB; both are credited on the page.']
     REPORT.write_text('\n'.join(lines) + '\n')
     print('\n'.join(lines))
